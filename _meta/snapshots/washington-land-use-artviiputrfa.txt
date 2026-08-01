@@ -1,0 +1,908 @@
+ ### ARTICLE VII - PUBLIC TRANSPORTATION FACILITIES
+
+ ### 701 - PUBLIC TRANSPORTATION FACILITIES
+
+The intent of this Article is to identify public transportation improvements that
+are subject to development review and establish the standards and procedures for such
+review. Public transportation improvements that are not authorized by this Article,
+such as airport improvements, are permitted as specified by Article III Land Use Districts.
+701-1
+Applicability
+701-1.1
+This Article applies to project development for the design, construction, operation,
+maintenance, repair and preservation of public transportation facilities including
+roadways and bridges, and transit, bicycle and pedestrian facilities authorized by
+the Washington County Transportation System Plan. Conditions of approval may be imposed
+to address significant impacts demonstrated to arise from the specific location or
+design of the improvements or decisions authorized by this Article. Except as expressly
+provided in this Article, the improvements and decisions identified herein:
+A.
+Are permitted in each district, and
+B.
+Shall be subject only to the standards set forth in this Article.
+701-1.2
+Except as expressly provided in this Article, the standards of this Article shall
+not apply to Local and Neighborhood Route streets inside an urban growth boundary.
+The standards in this Article are applicable to all public roads and highways outside
+an urban growth boundary.
+701-1.3
+The review standards of this Article are intended to address community or neighborhood
+impacts rather than isolated impacts on individual properties from which right-of-way
+or easements are to be obtained. These isolated impacts shall be addressed through
+right-of-way acquisition, the eminent domain process or dedications required by development
+in accordance with the procedures and standards applicable thereto.
+(Ord. No. 902A , § 2.B.(Exh. 2, § 39.), 11-5-24, eff. 12-5-24)
+701-2
+Project Categories
+The following categories of public transportation improvement projects are established:
+A.
+Exempt Projects. Projects that are exempt from the provisions of this Code. Decisions authorizing
+exempt projects are not land use decisions.
+B.
+Category A Projects. Projects that involve land use standards that do not require interpretation or the
+exercise of policy or legal judgment. Decisions authorizing Category A projects are
+not land use decisions.
+C.
+Category B Projects. Projects that involve land use criteria that are reasonably objective and generally
+require only limited discretion or judgment. Category B projects are assumed to be
+appropriate in the District. Decisions authorizing Category B projects are land use
+decisions.
+D.
+Category C Projects. Projects that involve land use criteria that require the exercise of a more significant
+level of discretion and judgment. Category C projects generally have more significant
+impacts or involve more complex land use issues. Decisions authorizing Category C
+projects are land use decisions.
+701-3
+Supplemental Procedures and Standards
+In addition to the standards of this Article, public transportation improvements are
+subject to other regulations that are not land use regulations and other practices
+and procedures that do not involve land use decision-making. It is not the intent
+of this Article to convert these supplemental regulations, procedures or practices
+into land use criteria or proceedings. Rather, they are mentioned to inform the public
+that the public transportation improvement process involves actions that extend beyond
+land use decision-making. These regulations, procedures and practices include the
+following:
+A.
+Uniform road improvement design standards and other uniformly accepted engineering
+design standards and practices that are applied during project development.
+B.
+Procedures and standards for right-of-way acquisition as set forth in Oregon Revised
+Statutes.
+C.
+Public involvement guidelines and practices for involving the public during the project
+development phase of a public transportation improvement, as approved by the Washington
+County Board of Commissioners.
+D.
+Interagency coordination, including coordination among affected Departments and Divisions
+within Washington County, and coordination with cities, TriMet, special districts,
+state and federal agencies, public utilities, and other service providers.
+E.
+Compliance with applicable local, state, or federal rules and regulations outside
+of this Code.
+It is recognized that public entities have a responsibility to the public to ensure
+furtherance of certain non-land use objectives, including the need to rapidly address
+safety problems so as to protect the health and safety of the public, the need for
+fiscal responsibility and for efficient provision of transportation facilities and
+compliance with non-land use statutes or ordinances. This Article shall be construed
+so as to minimize interference with, and promote the furtherance of, non-land use
+public policy objectives.
+701-4
+Definitions
+In addition to the definitions set forth in Article I, the following govern this Article:
+701-4.1
+Access Road. Outside an urban growth boundary, a low-volume public road that principally provides
+access to property.
+701-4.2
+Ancillary Easements. Easements related to a transportation facility, including slope, drainage, pedestrian,
+traffic control, construction and utility easements.
+701-4.3
+Channelization. Separation or regulation of conflicting traffic movements into definite paths of
+travel by traffic islands or pavement markings to facilitate the safe and orderly
+movement of vehicles, bicycles, and pedestrians. Examples include, but are not limited
+to, left turn refuges, right turn refuges including the construction of islands at
+intersections to separate traffic, and raised medians at driveways or intersections
+to permit only right turns. "Channelization" does not include continuous median turn
+lanes.
+701-4.4
+Continuous Median Turn Lane. A turn lane typically providing for left turn movements in both travel directions
+and extending continuously at full width between two or more public street intersections.
+701-4.5
+Existing Right-Of-Way. Property held by a governmental body in fee or pursuant to dedication for roadway,
+bridge, pedestrian, bicycle, transit, or other public transportation facility purposes
+at the time that project development for a public transportation improvement is commenced
+or maintenance or reconstruction of an existing transportation facility is conducted.
+For project development of a public transportation improvement, existing right-of-way
+includes property dedicated for public transportation facility purposes to fulfill
+a condition of development, regardless of when that occurs.
+701-4.6
+Final Engineering. Activities necessary to allow an improvement to be advertised for bid. Activities
+include but are not limited to final design engineering and right-of-way acquisition.
+701-4.7
+Interim Improvement. Improvements which are constructed to less than a 20-year design for anticipated
+traffic or are constructed with less than the maximum number of lanes shown on the
+Transportation System Plan. For town centers and transit station areas, improvements
+that do not provide the pedestrian, bicycle, or transit facilities or improvements
+set forth specifically in the community plan shall be considered "interim."
+701-4.8
+Intersection. The center point of the convergence of two or more county or public roads. Transportation
+facility modifications with travel or turn lanes extending up to 1,000 linear feet
+from the center of the convergence point are considered intersection modifications.
+701-4.9
+Maintenance. Activities that are needed to keep an existing transportation facility in good operating
+condition in order to preserve the functional integrity and safe operation of the
+facility. Maintenance activities result in no substantial increase of traffic capacity
+or change in the character of a facility. Maintenance may include the replacement
+and enlargement of structures within the floodplain, drainage hazard area or Significant
+Natural Resource Area.
+701-4.10
+New Road. Outside an urban growth boundary, a public road or road segment that is not a realignment
+of an existing road or road segment.
+701-4.11
+Public Transportation Facilities. Facilities that move or assist in the movement of people or goods. For purposes of
+this Article, public transportation facilities include roadways and bridges, and transit,
+bicycle and pedestrian facilities, as well as their component and appurtenant structures.
+For roadways, these structures include the roadway surface, base, and subgrade; shoulders;
+embankments and revetments; bridges; traffic signals; signs; guardrails; landscaping;
+illumination and drainage facilities. For purposes of this Article, public transportation
+facilities include related facilities such as water quality and quantity improvement
+facilities and wetland mitigation sites. Public transportation facilities may include
+utilities and other service facilities that are located within or make use of the
+transportation facility.
+701-4.12
+Public Transportation Improvements. Improvements to public transportation facilities that are authorized by the Washington
+County Transportation Plan.
+701-4.13
+Realignment. Outside an urban growth boundary, rebuilding an existing roadway on a new alignment
+where the new centerline shifts outside the existing right-of-way, and where the existing
+road surface is either removed, maintained as an access road or maintained as a connection
+between the realigned roadway and a road that intersects the original alignment. The
+realignment shall maintain the function of the existing road segment being realigned
+as specified in the acknowledged comprehensive plan.
+701-4.14
+Reconstruction. Rebuilding substandard or deteriorated transportation facilities including roadways
+and bridges, and bicycle, pedestrian, and transit facilities. For roadways, the primary
+objective of reconstruction activities is to improve the roadway base or its sub-grade.
+The dimensions of a road either remain unchanged or are only slightly modified and
+no lanes are added.
+701-4.15
+Roadway Prism. The area occupied by the roadway, including the soil, aggregate, and/or other materials
+or structures necessary to support the roadway, including but not limited to, appurtenant
+features such as wing walls, retaining walls, or headwalls. The roadway prism is measured
+by plan view from toe of slope to toe of slope between the toe of one fill material
+slope and the other toe of fill material slope.
+701-4.16
+Significant (Substantial) Reduction in Peak Hour Travel Time. Outside an urban growth boundary, a rural improvement project significantly reduces
+peak hour travel time when, based on recent data, the time to travel the route is
+reduced more than 15% during weekday peak hour conditions over the length of the route
+located within the urban fringe. For purposes of measuring travel time, a route shall
+be identified by the predominant traffic flows in the project area.
+701-4.17
+Travel Lane. A lane designed primarily for through travel. Travel lane does not include a climbing,
+passing or turn lane, or lanes that are part of an interchange such as on and off
+ramps.
+701-4.18
+Turn Lane. A lane designed for right or left turn movement provided at intersections or driveways.
+701-4.19
+Ultimate Improvement. Improvements that are constructed to a 20-year or greater design for anticipated
+traffic, or constructed to the maximum number of lanes shown on the Transportation
+System Plan (including the footnotes of the functional classification design parameters
+table).
+701-4.20
+Urban Fringe. Lands outside the urban growth boundary that are within five miles of the Portland
+Metro urban growth boundary.
+(Ord. No. 834 , § 2.B.(Exh. 2, § 3), 8-21-18, 11-23-18)
+701-5
+Review Procedures
+701-5.1
+Except as provided in Section 701-6, Category A projects shall be reviewed and processed
+in the same manner as Type I actions. A project authorized under Section 703 may be
+elevated by the Director to a Category B project.
+701-5.2
+Except as provided in Section 701-6, Category B projects shall be reviewed and processed
+in the same manner as Type II actions. A project authorized under Section 704 may
+be elevated by the Director to a Category C project.
+701-5.3
+Except as provided in Section 701-6, Category C projects shall be reviewed and processed
+in the same manner as Type III actions.
+701-5.4
+Review approval shall expire automatically five years from the date of approval unless
+a request for an extension is filed with the County prior to expiration.
+701-6
+Project Review Committee
+The Director shall establish a Project Review Committee to act in a technical advisory
+capacity for the review of appropriate public transportation improvement applications
+subject to this Article.
+701-6.1
+The Project Review Committee shall consist of representatives of all affected Department
+of Land Use & Transportation divisions, and may include representatives of other County
+departments and affected agencies as appropriate.
+701-6.2
+It shall be the duty of the Project Review Committee to review appropriate public
+transportation improvement applications subject to this Article for completeness and
+conformance with the applicable requirements of this Article, the applicable Community
+Plan or Rural/Natural Resources Plan, and the Transportation System Plan. The Project
+Review Committee also shall review these applications for conformance with road improvement
+design and engineering standards and other applicable non-land use regulations. The
+Project Review Committee shall make recommendations to the Review Authority about
+an application's conformance with the applicable requirements.
+(Ord. No. 834 , § 2.B.(Exh. 2, § 3), 8-21-18, 11-23-18)
+
+ ### 702 - EXEMPT PROJECTS
+
+The following public transportation projects and decisions are exempt from the provisions
+of this Article, applicable to all functional classifications both inside and outside
+an urban growth boundary, unless otherwise specified below.
+702-1
+Decisions taken to regulate the use of roads under the jurisdiction of the Board as
+the statutory "roads authority". Examples include: eliminating, modifying or imposing
+prohibitions or restrictions on the classes, dimensions, weights or other characteristics
+of vehicles or road usage, and installing or removing gates.
+702-2
+Maintenance and preservation of existing public roads, transportation facilities,
+structures and ancillary easements such that the traffic capacity and/or character
+of the transportation system is not significantly affected. Maintenance may include
+the replacement and enlargement of structures within the floodplain, drainage hazard
+area or Significant Natural Resource Area, so long as the enlargement of the roadway
+prism is not more than 20% of the original footprint.
+(Ord. No. 834 , § 2.B.(Exh. 2, § 4), 8-21-18, 11-23-18)
+702-3
+Operational improvements within existing right-of-way and ancillary easements including,
+but not limited to striping, installation of guard rails, pedestrian ways, widening
+shoulders, street lighting, signalization, reflectors, buttons, signs, flashing beacons,
+channelization and median control.
+702-4
+Reconstruction, replacement, or repair of a public transportation facility within
+existing right-of-way and ancillary easements, provided that:
+A.
+No removal or displacement of buildings occur;
+B.
+No new land parcels result;
+C.
+The facility is not located in a floodplain, drainage hazard area or Significant Natural
+Resource Area;
+D.
+No change or alteration to a designated historic or cultural resource occur, pursuant
+to Section 373;
+E.
+No additional travel lanes result; and
+F.
+No reduction in bicycle and pedestrian facilities result.
+702-5
+Emergency repairs, improvements, detours and traffic pattern changes and other actions
+taken in response to an immediate and significant risk of harm or inconvenience to
+the traveling public or for the protection of property. To the extent any such action
+would otherwise require compliance with this Article, compliance shall be demonstrated
+within six months of the action. Notwithstanding any other provision, the Review Authority
+shall apply the standards herein and address mitigation of impacts in light of the
+exigencies upon which the action was taken.
+702-6
+Incidental construction activities including contractor construction staging areas
+and stockpiling of materials within public right-of-way or easements.
+702-7
+Bus stops, bus shelters and bus turnouts within existing right-of- way.
+702-8
+Acquisition of right-of-way or ancillary easements related to a facility or use that
+has received Article VII land use approval or is otherwise exempt from Article VII
+requirements.
+(Ord. No. 834 , § 2.B.(Exh. 2, § 4), 8-21-18, 11-23-18)
+702-9
+Final design engineering and construction of a public transportation facility that
+is consistent with an approval granted under this Article.
+702-10
+Changes in frequency of transportation services, including rail, transit and air services.
+702-11
+Climbing and passing lanes within the right-of-way existing as of July 1, 1987.
+702-12
+Temporary public road and highway detours that will be abandoned and restored to original
+condition or use at such time as no longer needed.
+702-13
+Acquisition of right-of-way and construction of a public transportation facility,
+including an interim improvement, intended exclusively to serve pedestrians and/or
+bicyclists, provided that:
+A.
+No removal or displacement of buildings occur;
+B.
+No new land parcels result;
+C.
+The facility is not located in a floodplain, drainage hazard area or Significant Natural
+Resource Area;
+D.
+No change or alteration to a designated historic or cultural resource occur, pursuant
+to Section 373;
+E.
+No additional turn lanes or travel lanes result;
+F.
+No ancillary facilities are necessary;
+G.
+The acquisition of right-of-way is consistent with the transportation system plan;
+H.
+The project is not part of, or related, to a larger project that otherwise would require
+an Article VII review; and
+I.
+The dimensions of the facility are consistent with Road Design and Construction Standards.
+( Ord. No. 814, § 2.D.(Exh. 4, § 4), 10-25-16 )
+
+ ### 703 - CATEGORY A PROJECTS
+
+The following projects are permitted subject to the applicable development standards
+of this Article.
+703-1
+Category A Projects Permitted Inside an Urban Growth Boundary
+703-1.1
+Projects listed as exempt but which require the acquisition of right-of-way, provided
+that the acquisition is no greater than the maximum specified for the road classification
+in the Transportation System Plan (including the footnotes of the functional classification
+design parameters table).
+703-1.2
+Widening or modification of an existing transportation facility, provided that:
+A.
+The project is consistent with the Transportation System Plan;
+B.
+The right-of-way width and dimensional standards do not exceed the right-of-way width
+and dimensional standards set forth in the Transportation System Plan (including the
+footnotes of the functional classification design parameters table);
+C.
+The new centerline of the road does not deviate more than six feet in either direction
+from the existing centerline.
+703-1.3
+Alteration of a floodplain, drainage hazard area, or Significant Natural Resource
+Area, due to the enlargement of the roadway prism by no more than 20% of its original
+footprint for reconstruction, repair, or replacement of a transportation facility
+or any component thereof, so long as flood levels on adjoining properties do not rise,
+or the area in which the rise will occur contains no structures and the owner of such
+property signs a written acceptance of any increase in the floodplain or drainage
+hazard area elevation, or alternatively, so long as any rise in flood level is consistent
+with an adopted drainage master plan.
+703-1.4
+Incidental construction activities including contractor construction staging areas
+and stockpiling of materials outside a public right-of-way or easements.
+703-1.5
+Maintenance as defined in 701-4.9 that is not otherwise exempt as described in 702-2.
+(Ord. No. 834 , § 2.B.(Exh. 2, § 5), 8-21-18, 11-23-18)
+703-2
+Category A Projects Permitted Outside an Urban Growth Boundary
+703-2.1
+Uses listed as exempt in Section 702, excluding Section 702-8, which require the acquisition
+of right-of-way, provided that the acquisition is no greater than the maximum specified
+for the road classification in the Transportation System Plan.
+703-2.2
+Alteration of a floodplain, drainage hazard area or Significant Natural Resource Area,
+due to the enlargement of the roadway prism by no more than 20% of its original footprint
+for reconstruction, repair, or replacement of a transportation facility or any component
+thereof, so long as flood levels on adjoining properties do not rise, or the area
+in which the rise will occur contains no structures and the owner of such property
+signs a written acceptance of any increase in the floodplain or drainage hazard area
+elevation, or alternatively, so long as any rise is consistent with an adopted drainage
+master plan.
+703-2.3
+Maintenance as defined in 701-4.9 that is not otherwise exempt as described in 702-2.
+(Ord. No. 834 , § 2.B.(Exh. 2, § 5), 8-21-18, 11-23-18)
+
+ ### 704 - CATEGORY B PROJECTS
+
+The following projects are permitted subject to the applicable development standards
+of this Article.
+704-1
+Category B Projects Permitted Inside an Urban Growth Boundary
+704-1.1
+Widening or modification of an existing transportation facility, provided that:
+A.
+The project is consistent with the Transportation System Plan;
+B.
+The right-of-way width and dimensional standards do not exceed the right-of-way width
+and dimensional standards set forth in the Transportation System Plan (including the
+footnotes of the functional classification design parameters table);
+C.
+The new centerline of the road deviates more than six feet from the existing centerline.
+704-1.2
+New transportation facilities or the extension of existing transportation facilities
+where the alignment is consistent with the location shown in the Transportation System
+Plan. The right-of-way shall not exceed the right-of-way width standards set forth
+in the Transportation System Plan (including the footnotes of the functional classification
+design parameters table).
+704-1.3
+Alteration of a floodplain, drainage hazard area or Significant Natural Resource Area,
+due to construction, reconstruction, modification, or replacement of a transportation
+facility or any component thereof, not otherwise permitted by Section 703-1.
+704-1.4
+Creation or restoration of wetlands in association with a transportation facility.
+(Ord. No. 834 , § 2.B.(Exh. 2, § 6), 8-21-18, 11-23-18)
+704-2
+Category B Projects Permitted Outside an Urban Growth Boundary
+704-2.1
+The following improvements are allowed within the AF-20, EFU, and EFC Districts, and
+within the RR-5, AF-5, AF-10, R-COM, R-IND and MAE Districts:
+A.
+Alteration of a floodplain, drainage hazard area or Significant Natural Resource Area,
+due to construction, reconstruction, modification, or replacement of a transportation
+facility or any component thereof, not otherwise permitted by Section 703-2.
+B.
+A transportation improvement that has been adopted through an exception to the goal
+related to agricultural lands and to any other applicable goal with which the facility
+or improvement does not comply.
+C.
+Creation or restoration of wetlands in association with a transportation facility.
+704-2.2
+The following improvements are allowed within the RR-5, AF-5, AF-10, R-COM, R-IND
+and MAE Districts:
+A.
+Realignment of a public road or highway.
+B.
+Replacement of an intersection with an interchange.
+C.
+Continuous median turn lane.
+D.
+New access roads and collectors within the RR-5, AF-5, AF-10, R-COM, R-IND, and MAE
+Districts. These roads shall be limited to two travel lanes. Private access and intersections
+shall be limited to rural needs or to provide adequate emergency access.
+E.
+Transportation facilities, services and improvements other than those listed in Sections
+703-2, 704-2, and 705-2 that serve local travel needs. The travel capacity and level
+of service of facilities and improvements serving local travel needs shall be limited
+to that necessary to support rural land uses identified in the Rural/Natural Resource
+Plan or to provide emergency access.
+F.
+Construction of additional passing and travel lanes requiring the acquisition of right-of-way
+but not resulting in the creation of new land parcels, provided that the acquisition
+is no greater than the maximum specified for the road classification in the Transportation
+System Plan (including the footnotes of the functional classification design parameters
+table).
+G.
+Reconstruction or modification of public roads and highways involving the removal
+or displacement of buildings but not resulting in the creation of new land parcels,
+provided that the alignment and right-of-way width is consistent with the Transportation
+System Plan (including the footnotes of the functional classification design parameters
+table).
+(Ord. No. 834 , § 2.B.(Exh. 2, § 6), 8-21-18, 11-23-18)
+
+ ### 705 - CATEGORY C PROJECTS
+
+The projects listed below are permitted subject to the applicable standards of this
+Article.
+705-1
+Category C Projects Permitted Inside an Urban Growth Boundary
+705-1.1
+Modification of an existing transportation facility or construction of a new transportation
+facility that is authorized by and consistent with the Transportation Plan but does
+not meet the criteria for a Category A or B project.
+705-2
+Category C Projects Permitted Outside an Urban Growth Boundary
+705-2.1
+The following projects are allowed in AF-20, EFU and EFC Districts:
+A.
+Realignment of a public road or highway.
+B.
+Replacement of an intersection with an interchange.
+C.
+Continuous median turn lane.
+D.
+New access roads and collectors where the function of the road is to reduce local
+access to or local traffic on a state highway. These roads shall be limited to two
+travel lanes. Private access and intersections shall be limited to rural needs or
+to provide adequate emergency access.
+E.
+Transportation facilities, services and improvements other than those listed in Sections
+703-2, 704-3, and 705-4 that serve local travel needs. The travel capacity and level
+of service of facilities and improvements serving local travel needs shall be limited
+to that necessary to support rural land uses identified in the Rural/Natural Resource
+Plan or to provide adequate emergency access.
+F.
+Construction of additional passing and travel lanes requiring the acquisition of right-of-way
+but not resulting in the creation of new land parcels, provided that the acquisition
+is no greater than the maximum specified for the road classification in the Transportation
+System Plan.
+G.
+Reconstruction or modification of public roads and highways involving the removal
+or displacement of buildings but not resulting in the creation of new land parcels,
+provided that the alignment and right-of-way width is consistent with the Transportation
+System Plan.
+
+ ### 707 - ALTERNATIVE ANALYSIS REVIEW
+
+707-1
+Prior to, or in conjunction with, review of the design of any project below, the applicant
+shall submit an alternative analysis report demonstrating that the applicant has evaluated
+alternative alignments and provided an opportunity for citizen input into the selection
+of the proposed alignment.
+A.
+Any Category C project authorized by Section 705-1.1 or Section 705-2.1.A.
+B.
+Any Category B project authorized by Section 704-1.1, Section 704-2.1.B. or Section
+704-2.2 A.
+C.
+Any Category B project authorized by Section 704-1.2 (New Road or Road Extension)
+excepting projects where the centerline has been established by right-of-way dedications
+obtained as a condition of development approval.
+D.
+Any Category A project identified in Section 703-1.2 that the Director elevates to
+a Category B project pursuant to Section 701-5.1 and the Director requires an Alternative
+Analysis review.
+707-2
+Alternative alignment analysis may be conceptual and based on generalized alignment
+descriptions or maps. The report shall consist of:
+707-2.1
+A description of the citizen involvement program;
+707-2.2
+The criteria or rationale used to select the alignment alternatives;
+707-2.3
+A brief description of anticipated impacts, where there are significant differences
+in impacts between the alignment alternatives, of each alignment alternative as relates
+to the following:
+A.
+Transportation System Operations
+B.
+Built and Planned Environment
+(1)
+Existing and Proposed Land Uses
+(2)
+Air Quality
+(3)
+Noise
+(4)
+Hazardous Materials
+(5)
+Historic and Cultural Resources
+(6)
+Recreational Resources
+(7)
+Visual Resources
+C.
+Natural Environment
+(1)
+Wetlands
+(2)
+Aquatic Resources
+(3)
+Terrestrial Ecology
+(4)
+Hydrology and Hydraulics
+(5)
+Water Quality
+(6)
+Significant Habitat
+The report need not address each of the topics listed above for each alternative if
+it is concluded that adverse impacts relating to one topic are so significant that
+further consideration of the alternative is not warranted; and
+707-2.4
+A description of how the anticipated significant impacts were weighed and balanced,
+the rationale for selection of the proposed alignment and potential mitigation measures
+for the proposed alignment.
+(Ord. No. 902A , § 2.B.(Exh. 2, § 40.), 11-5-24, eff. 12-5-24)
+707-3
+The Review Authority shall determine whether the alternative analysis report complies
+with the requirements of this section, but shall not consider whether alternative
+alignments might better or more clearly meet the standards of this Article. Acceptance
+of the alternative analysis report establishes the alignment upon which the applicant
+may make more specific right-of-way determinations for final design.
+
+ ### 708 - SUBMITTAL REQUIREMENTS
+
+An applicant for a Category A, B or C project authorized by this Article shall prepare
+plans and documentation necessary to demonstrate how the project will comply with
+the standards of this Article.
+708-1
+Site Analysis of Proposed Project
+For all Category A, B and C projects, a site analysis shall be prepared that includes:
+A.
+A statement that describes the proposed project; and
+B.
+Project plans that show the proposed transportation improvement, including roadways,
+bridges, traffic signals, pedestrian facilities, bicycle facilities, transit facilities,
+landscaped areas, retaining walls and noise walls, illumination, and drainage facilities.
+Plans will typically be preliminary or final plans prepared by a registered civil
+engineer.
+C.
+Additionally, the following information shall be shown on project plans or on accompanying
+site plans:
+(1)
+Existing and proposed right-of-way;
+(2)
+Proposed areas of access control, if any;
+(3)
+When applicable, the location and proposed treatment or proposed alteration of the
+following:
+(a)
+Floodplains and Floodways;
+(b)
+Drainage Hazard Areas and Drainageways; and
+(c)
+Significant Natural Resource Areas;
+(4)
+Existing conditions within the limits of the proposed project and within 50 feet of
+the project limits, including but not limited to:
+(a)
+Location and type of structures, showing proposed removal of structures if applicable;
+(b)
+Lot area, building setbacks and property dimensions;
+(c)
+Proposed alterations, if any, to existing improvements, including parking and access;
+and
+(d)
+Trees 6 inches or greater in caliper DBH (diameter breast height) proposed to be removed;
+(5)
+Cross sections of retaining and noise walls; and
+(6)
+Other plans or documentation needed to demonstrate that the project meets the applicable
+standards of Sections 709 through 714.
+
+ ### 709 - ALTERATIONS TO FLOODPLAIN AND DRAINAGE HAZARD AREAS
+
+Category B alterations of a floodplain or drainage hazard area shall comply with the
+following standards:
+709-1
+Lands Subject to Floodplain and Drainage Hazard Area Standards
+Refer to Sections 421-1.1 and -1.2 for purposes of determining lands subject to floodplain
+and drainage hazard area standards.
+( Ord. No. 811, § 2.A.(Exh. 1, § 3), 10-4-16, eff. 11-3-16 ; Ord. No. 840 , § 2.B.(Exh. 2, § 3), 9-18-18, eff. 10-18-18; Ord. No. 847 , § 2.A.(Exh. 1), 4-2-19, eff. 5-2-19)
+709-2
+Submittal Requirements
+Applicants shall submit a delineation of the floodplain, floodway and/or drainage
+hazard area and drainageway in accordance with Section 421-3.1 A. and B.
+( Ord. No. 847 , § 2.A.(Exh. 1), 4-2-19, eff. 5-2-19)
+709-3
+A project proposed to encroach into a regulatory floodway adopted and designated pursuant
+to FEMA regulations shall demonstrate through hydrologic and hydraulic analysis, performed
+in accordance with standard engineering practice by a licensed professional engineer,
+that the use will not result in any increase in flood levels during the occurrence
+of the base flood discharge.
+Notwithstanding this provision, a project that would result in such an increase may
+be approved if the County, at the sole expense of the applicant, first obtains FEMA
+approval in accordance with 44 CFR Ch. 1, Part 65 (October 1, 1990 edition, or its
+successor).
+( Ord. No. 811, § 2.A.(Exh. 1, § 3), 10-4-16, eff. 11-3-16 ; Ord. No. 847 , § 2.A.(Exh. 1), 4-2-19, eff. 5-2-19)
+709-4
+A project proposed within a floodplain site where the use does not encroach into an
+adopted FEMA regulatory floodway shall demonstrate through hydrologic and hydraulic
+analysis, performed in accordance with standard engineering practice by a licensed
+professional engineer, that the use will not increase flood levels during the occurrence
+of the base flood discharge more than 1 foot.
+Notwithstanding this provision, such an increase may be approved if the County, at
+the sole expense of the applicant, first obtains FEMA approval in accordance with
+44 CFR Ch. 1, Part 65 (October 1, 1990 edition, or its successor). Upon demonstration
+by the Director of no other alternative, applicants shall obtain a Conditional Letter
+of Map Revision (CLOMR) from FEMA before an encroachment, including fill, new construction,
+substantial improvement, fences or other development, in the regulatory floodway is
+permitted that will cause any increase in the Base Flood Elevation. The CLOMR shall
+be submitted prior to the application being deemed complete.
+Within six months of project completion, an applicant who obtains a CLOMR from FEMA,
+or whose development alters a watercourse, modifies floodplain boundaries, or modifies
+base flood elevations within the regulatory floodway shall submit evidence to the
+County that a Letter of Map Revision (LOMR) from FEMA has been requested that reflects
+the as-built changes to the Flood Insurance Study (FIS) and/or Flood Insurance Rate
+Map (FIRM).
+( Ord. No. 811, § 2.A.(Exh. 1, § 3), 10-4-16, eff. 11-3-16 ; Ord. No. 847 , § 2.A.(Exh. 1), 4-2-19, eff. 5-2-19)
+709-5
+A project proposed on a drainage hazard area site shall demonstrate through hydrologic
+and hydraulic analysis, performed in accordance with standard engineering practice
+by a licensed professional engineer that the use will not result in any increase to
+the drainage hazard area elevation at any point in the community. Notwithstanding
+this provision, an increase may be approved if the area in which the rise will occur
+contains no structures and the owner of such property signs a written acceptance of
+any increase in the drainage hazard area elevation.
+( Ord. No. 811, § 2.A.(Exh. 1, § 3), 10-4-16, eff. 11-3-16 )
+709-6
+To minimize the risk that an encroachment will catch substantial debris or otherwise
+significantly impede floodwater flows, encroachment into a floodway shall include
+design features such as, but not limited to, openings sized to achieve this purpose,
+secured breakaway bridges, diverters or spacing of supports.
+709-7
+A project shall not increase the existing velocity of flood flows so as to exceed
+the erosive velocity limits of soils in the flood area. Energy dissipation devices
+or other measures to control the mean velocity so as not to cause erosion of the flood
+area may be used to meet this standard.
+709-8
+All cut and fill shall be done in accordance with best management practices.
+709-9
+All cut and fill shall be structurally sound and designed to minimize erosion. All
+fill below the flood surface elevation shall be accompanied by an equal or greater
+amount of cut or storage within the boundary of the development site unless:
+A.
+The proposed cut and fill is found to be in compliance with an adopted Drainage Master
+Plan; or
+B.
+Off-site excavation will be utilized to balance a fill, provided:
+(1)
+The off-site excavation area will be part of the application for the development proposing
+to place the fill;
+(2)
+The off-site excavation area will be located in the same drainage basin as the proposed
+fill area;
+(3)
+The off-site excavation area will be located within points of constriction on the
+drainage system, if any, and as close to the fill site as practicable. The applicant's
+licensed professional engineer may be required to conduct a storage routing analysis
+to determine the location of the excavation area;
+(4)
+The off-site excavation area will be constructed as part of the development placing
+the fill;
+(5)
+Any use or future development of the excavated area shall comply with the standards
+of Section 710 if the area is designated as a Significant Natural Resource; and
+(6)
+Ownership of the excavated area shall be by one of the following mechanisms:
+(a)
+Dedication of the area to an appropriate public agency when a public agency is willing
+to accept the dedication;
+(b)
+Ownership of the area by the applicant of the proposed development;
+(c)
+Dedication of the development rights of the area to an appropriate public agency with
+ownership remaining with the property owner. Maintenance of the area shall be the
+responsibility of the applicant or property owner; and
+(d)
+Deed or easement-restricted private ownership that prevents any use or future development
+of the area as specified by Section 709-9 B.(5). Maintenance of the area shall be
+the responsibility of the applicant or property owner. A contract for conditions shall
+be required as specified by Section 207-5.3. The contract for conditions shall be
+recorded in the Department of Assessment & Taxation Recording Division.
+( Ord. No. 811, § 2.A.(Exh. 1, § 3), 10-4-16, eff. 11-3-16 ; Ord. No. 847 , § 2.A.(Exh. 1), 4-2-19, eff. 5-2-19)
+709-10
+Drainage systems shall be designed and constructed according to the adopted Drainage
+Master Plan for the area, if one exists.
+709-11
+There shall be no dumping of fill in a flood area or drainage hazard area without
+a floodplain or drainage hazard area alteration permit.
+
+ ### 710 - ALTERATIONS TO SIGNIFICANT NATURAL RESOURCES
+
+710-1
+Alteration of an area designated as a Significant Natural Resource by the Rural/Natural
+Resource Plan or the applicable community plan shall be allowed for the following:
+A.
+Crossings for public transportation facilities, including streets, roads, bridges,
+and culverts, and bicycle, pedestrian, and transit facilities.
+B.
+Construction or reconstruction of public transportation facilities, including streets,
+roads, bridges, and culverts, and bicycle, pedestrian, and transit facilities.
+710-2
+Category B alterations of an area designated as a Significant Natural Resource shall
+comply with the following standards:
+710-2.1
+The design elements of the applicable Community Plan; or the applicable implementing
+strategies of the Rural/Natural Resource Plan Element, Policy 10, Implementing Strategy
+E which states:
+"Implement the recommendations of the Oregon Department of Fish and Wildlife Habitat
+Protection Plan for Washington County and to mitigate the effects of development in
+the Big Game Range within the EFU, EFC and AF-20 land use designations."
+710-2.2
+Any proposed project in a Significant Natural Area, as identified by the applicable
+Community Plan or the Rural/Natural Resource Area Plan Element, shall reduce its impact,
+to the maximum extent feasible, on the unique or fragile character or features of
+the Significant Natural Area.
+710-2.3
+Any proposed project in a Significant Natural Resource Area shall not seriously interfere
+with the preservation of fish and wildlife areas and habitat identified in the Washington
+County Comprehensive Plan, or shall identify how the interference can be mitigated.
+
+ ### 711 - HISTORICAL AND CULTURAL RESOURCES
+
+711-1
+Alteration of a property or structure in an area designated as a Historic or Cultural
+Resource by the Rural/Natural Resource Plan or the applicable community plan shall
+be allowed for the following:
+A.
+Crossings for public transportation facilities, including streets, roads, bridges,
+and culverts, and bicycle, pedestrian, and transit facilities.
+B.
+Construction or reconstruction of streets, roads, bridges, and culverts, and bicycle,
+pedestrian, and transit facilities.
+711-2
+Alterations permitted under this section shall be reviewed in a separate land use
+proceeding in accordance with Section 373.
+
+ ### 712 - PEDESTRIAN, BICYCLE AND TRANSIT FACILITIES
+
+An applicant for a Category B or C project authorized by this Article shall prepare
+plans and documentation necessary to demonstrate how the project will comply with
+the standards of this subsection (Category A projects are exempt from this section).
+Maintenance projects, as defined by 701-4.9, are exempt from this section.
+(Ord. No. 834 , § 2.B.(Exh. 2, § 7), 8-21-18, 11-23-18)
+712-1
+Inside an urban growth boundary, pedestrian facilities shall be provided along the
+sides of roads, excluding freeways, that are constructed as ultimate improvements,
+except when the standards of Section 712-3 are met.
+712-2
+Inside an urban growth boundary, pedestrian facilities shall be provided along the
+sides of roads, excluding freeways, that are constructed as interim improvements,
+when sufficient right-of-way is available except when the standards of 712-3 are met.
+Otherwise this requirement may be satisfied by improvements required by Section 712-5.
+712-3
+An exemption to the requirement to construct pedestrian facilities may be granted
+by the Review Authority upon findings that they are unnecessary at the time of project
+construction due to the following:
+712-3.1
+Pedestrian facilities are assured by others to be provided within three (3) years
+of project completion; or
+712-3.2
+Abutting land is undeveloped; and
+712-3.3
+There is a lack of pedestrian oriented activity and the project does not abut a school,
+park, transit stop, recreation center or commercial center.
+712-4
+For ultimate capital improvements on Arterials or Collectors as identified on the
+Functional Classification System Map in the Transportation System Plan, bikeways shall
+be constructed consistent with the Bicycle Element of the Transportation System Plan.
+Bikeways include striped and stenciled lanes, 5 to 6 feet in width, buffered bike
+lanes, cycle tracks, paved shoulders at least 4 feet in width or 14-foot wide outside
+travel lanes in areas where constraints limit roadway width; these 14-foot wide shared,
+outside travel lanes shall transition to either paved shoulders or bikeways when the
+constraint ends.
+712-5
+For those road construction or reconstruction projects located within Pedestrian Districts
+or along "Pedestrian Parkways" or "Streetscape Overlay" identified in the Pedestrian
+Element of the Transportation System Plan, pedestrian enhancements such as those amenities
+described in the County's Pedestrian Enhancements Design Guideline Booklet shall be
+considered as part of the project development process.
+712-6
+For interim capital improvements on roadways identified as Arterials or Collectors
+on the Functional Classification System Map in the Transportation System Plan, a minimum
+of a 5-foot paved shoulder for each outside travel lane shall be provided or may conform
+to the minimums identified in areas where constraints limit roadway width in Section
+712-4.
+(Ord. No. 834 , § 2.B.(Exh. 2, § 7), 8-21-18, 11-23-18)
+712-7
+Provision of transit improvements, including bus pullouts, bus shelters and benches,
+shall be coordinated with the local transit authority.
+
+ ### 713 - FARM AND FOREST IMPACTS
+
+713-1
+Category C projects located within the AF-20, EFU, and EFC Districts shall not:
+A.
+Force a significant change in accepted farm or forest practices on surrounding lands
+located in the AF-20, EFU and EFC Districts; nor
+B.
+Significantly increase the cost of accepted farm or forest practices on surrounding
+lands located in the AF-20, EFU and EFC Districts.
+An applicant may demonstrate that these standards for approval will be satisfied through
+the imposition of conditions. Any conditions so imposed shall be clear and objective.
+713-2
+Projects identified in Section 705-2.1 A. - E. within the AF-20, EFU, and EFC Districts
+shall:
+A.
+Identify reasonable build design alternatives, such as alternative alignments, that
+are safe and can be constructed at a reasonable cost, not considering raw land costs,
+with available technology. Design and operations alternatives need not be considered
+if they are inconsistent with applicable standards or not approved by a registered
+professional engineer.
+B.
+Assess the effects of the identified alternatives on farm and forest practices considering:
+(1)
+The impacts to farm and forest lands, structures and facilities;
+(2)
+The effects of traffic on the movement of farm and forest vehicles and equipment;
+and
+(3)
+The effects of access to parcels created on farm and forestlands.
+C.
+Select from the identified alternatives, the one, or combination of identified alternatives
+that has the least impact on lands in the immediate vicinity devoted to farm or forest
+use, unless that alternative has a significant adverse impact on resources regulated
+by CDC Sections 373 (Historic and Cultural Resource Overlay District), 379 (Mineral
+and Aggregate Overlay District), 709 (Alterations to Floodplain and Drainage Hazard
+Areas), or 710 (Alternations to Significant Natural Resources), in which case the
+Review Authority may choose a different alternative that balances impacts to lands
+devoted to farm or forest use with impacts to resources regulated by CDC Sections
+373, 379, 709, or 710.
+
+ ### 714 - ADDITIONAL STANDARDS FOR CATEGORY A, B AND C PROJECTS
+
+714-1
+Interim improvements shall be designed to not impede future improvement of the facility
+to ultimate standards.
+714-2
+For a project that has received preliminary or final approval, the length of the project
+may be reduced through a Type I procedure when sufficient funds have not been appropriated
+to construct the entire project.
+714-3
+On those roadways that are designated as "Pedestrian Parkways" or "Streetscape Overlay"
+on the Pedestrian System Map in the Transportation System Plan, consider the street
+design characteristics set forth in the Regional Transportation Plan and Metro's publication
+entitled 'Creating Livable Streets - Street Design Guidelines for 2040' during development
+review and project development, when construction or reconstruction is proposed.
+714-4
+For those roadway construction or reconstruction projects located within Pedestrian
+Districts or along "Pedestrian Parkways" or "Streetscape Overlay" identified in the
+Pedestrian Element of the Transportation System Plan, pedestrian enhancements such
+as those described in the county's Pedestrian Enhancements Design Guideline Booklet
+shall be considered as part of the project development process.

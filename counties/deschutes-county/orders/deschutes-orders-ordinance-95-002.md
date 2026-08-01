@@ -1,0 +1,273 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-95-002
+title: 'Ordinance No. 95-002'
+doc_type: ordinance
+citation: 'Ordinance No. 95-002'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616701277_1995-05216-Ordinance%20No.%2095-002%20Recorded%202_2_1995.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9b32d006e5d10272413384fb7054b494c4ac20f534590d525b89a78b9a3fcd97
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 95-002 (Ordinance No. 95-002)
+
+## At a glance
+
+Ordinance No. 95-002 — orders of Deschutes County. 5 pages.
+
+## Full text
+
+REVIEWED
+95 0 216 `
+LEGAL' COUNSEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES YJXTY,
+ORE
+GON
+0
+An Ordinance Amending Title 13, Sections 13. 36. 010,
+Creation of Nuisance, 13. 36. 050, Method of Abatement,
+and Section 13. 40. 040, Violation - Penalty, of the *
+C"
+Deschutes County Code; and adding Section 13. 36. 012,
+Definition - Nuisance.
+ORDINANCE NO. 95- 002
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. Section 13. 36. 010, Creation of Nuisance, is amended as
+set forth in Exhibit A, attached hereto and by this reference
+incorporated herein.
+Section 2. Section 13. 36. 050, Method of Abatement, is amended as
+set forth in Exhibit A, attached hereto and by this reference
+incorporated herein.
+Section 3. Section 13. 40. 040, Violation - Penalty, is amended as
+set forth in Exhibit A, attached hereto and by this reference
+incorporated herein.
+Section 4. Adopting Section 13. 36. 012, Definition - Nuisance, as
+set forth in Exhibit A, attached hereto and by this reference
+incorporated herein.
+Section 5. Codification. County Legal Counsel shall have the
+authority to format the provisions contained herein in a manner that
+will integrate them into the County Code consistent with the County
+Legal Counsel form and style for ordinance codification. Such
+codification shall include the authority to make such changes, to make
+changes in numbering systems and to make such numbering changes
+consistent with interrelated code sections. In addition, as part of
+codification of these ordinances, County Legal Counsel may insert
+appropriate legislative history reference. Any legislative history
+references included herein are not adopted as part of the substance of
+this ordinance, but are included for administrative convenience and as
+KEY
+FE 21995
+PAGE 1 OF 2 - ORDINANCE NO. 95- 002 ( 1- 18- 95) `` ' 111ED
+s
+0138-- 4339
+a reference. They may be changed to correct errors and to conform to
+proper style without action of the Board of County Commissioners.
+DATED this day of '
+M
+1995.
+AT T:
+Recording Secretary
+BOARD OF COUNTY COMMISSIONERS
+OF nvSCHUTES COUNTY, OREGON
+DORY H. SLAUGHTE , ChaArman
+U PnItLQ Pvcdv
+E Commissio
+T L. NIPPER, Coh( miissioner
+PAGE 2 OF 2 - ORDINANCE NO. 95- 002 ( 1- 18- 95)
+EXHIBIT A
+13. 36. 010 Creation of Nuisance.
+Except as otherwise authorized under this
+division] chapter, no person shall [ store,
+collect, maintain or display on private
+property, waste or solid waste that is offensive
+or hazardous to the health or safety of the
+public or which creates offensive odors or a
+condition of unsightliness. Storage, collection,
+maintenance or display of waste or solid waste
+in violation of this section is declared to be a
+public nuisance which may be abated as
+provided in section 13. 36. 050 of this chapter.]
+create or maintain a nuisance on private
+property. Such nuisances are declared to be
+public nuisances which may be abated as
+provided under Deschutes County Code
+15.04.070 or by instituting court proceedings.
+Ord. 95- 002 § 1, 1995; 85- 037 § 12. 01( 1),
+1985)
+13. 36. 012 Definition - Nuisance
+A. " Nuisance" includes:
+1. All open holes, wells, cisterns, cesspools,
+or unsanitary septic tanks, foundations or
+non- operating refrigerators, freezers, or
+iceboxes with attached doors;
+2. Solid waste; as defined under Deschutes
+County Code 13.12.040(33).
+3. Those definitions of nuisance pursuant to
+Deschutes County Code sections 12.35.100,
+15. 04. 170, and 18. 144. 040; or
+4. Land that as a result of grading
+operations, excavation or fill causes erosion,
+subsidence or surface water drainage
+problems of such magnitude as to be
+injurious or potentially injurious to adjacent
+properties or to the public health, safety and
+welfare.
+B. Generally accepted, reasonable and
+prudent farming and forest practices as
+described in ORS 30. 930 to ORS 30. 937 do
+not constitute nuisances under this section.
+Ord. 95- 002 § 4, 1995)
+13. 36. 050 Abatement of solid
+waste nuisances.
+A. Investigation. The administrator, with or
+without a written and signed complaint of any
+person, public agency or public body, may
+investigate to determine whether a nuisance
+exists under section 13. 36. 010 of this chapter.
+The administrator may request the assistance
+of the county sheriff for the purpose of
+conducting an investigation.
+B. Notice of Violation. After investigation,
+if the administrator finds reasonable cause to
+believe a nuisance exists, the administrator
+shall give written notice thereof to the board,
+to the alleged violator, and to the owner,
+tenant, occupant or person in possession of
+the property or premises where the nuisance
+is alleged to exist, as provided in subsection C
+of this section.
+C. Service of Notice. The written notice of
+violation shall be served on the person or
+persons described in subsection B of this
+sectionby the following means:
+1. Posting of the notice in a conspicuous
+place upon the property or premises where
+the nuisance is alleged to exist for a period of
+fifteen days; and
+2. Personal service upon the person or
+persons listed in subsection B of this section,
+or by certified or registered mail, return
+receipt requested, to the last known address of
+the person or persons, and publication in a
+newspaper of general circulation in the county
+on one occasion within fifteen days of the
+mailing of notice.
+D. Form of Notice. The written notice of
+violation shall be dated and shall state:
+1. The nature and location of the alleged
+nuisance; and
+2. That if the nuisance has not been abated,
+the person or persons receiving notice shall
+appear before the board at the time and place
+stated in the notice and show cause why a
+nuisance should not be declared.
+E. Show CauseHearing. Unless the board
+finds that there is an immediate and serious
+hazard to the health or safety of the public,
+the time set or the show cause hearing shall
+not be less than fifteen nor more than forty
+days from the date of notice. At the time and
+Page 1 — Exhibit A — Ord. 95- 002 ( 01/ 18/ 95)
+place described in the notice, the board shall
+conduct a public hearing on the existenceof
+the alleged nuisance. The administrator shall
+report the evidence and the testimony of
+witnesses. The person or persons served with
+notice shall be permitted to cross- examine the
+administrator or the administrator' s witnesses
+and may present evidence and call witnesses.
+Any interested person, public agencyor public
+body who requests the opportunity shall be
+heard, subject to the right of the person or
+persons served with notice to cross- examine.
+F. Declaration of Nuisance. If the board
+finds from the record at the public hearing
+that a nuisance exists, it shall declare the
+existence of a nuisance.
+G. Order of Abatement. If a nuisance is
+declared, the board may order all responsible
+persons who were notified to abate the
+nuisance within a reasonable time set by the
+board.
+H. Lien. If the person or persons directed
+by the board to abate the nuisance fail to do
+so within the time specified by the board, the
+board may remove from the subjectproperty
+or premises the waste or solid waste found to
+be the cause of the nuisance. The cost of
+such collection shall be paid by the person or
+persons found by the board to be responsible
+for the creation or maintenance of the
+nuisance, and shall be a lien upon such
+property or premises until paid. The county
+and its employees and agents shall not be
+liable for anytrespassto, or conversionof, any
+real or personal property reasonably required
+in removing suchwaste or solid waste.
+I. Other Remedies. Nothing in this section
+shall prevent the board and/or anypersonwho
+has suffered special damage from the nuisance
+from instituting court proceedingsto abatethe
+nuisance. ( Ord. 88- 002 § 1, 1988; Ord. 85- 037
+12. 02, 1985)]
+13. 36. 050 Abatement of
+Nuisances.
+A. Except as otherwise authorized under
+Deschutes County Code, the condition of a
+building or land which has been determined
+to constitute a nuisance is in violation of this
+code, and may be abated by repair,
+0138- ° 11
+rehabilitation, demolition or removal in
+accordance with the procedures provided
+under Deschutes County Code 15.04.070.
+Abatement of Dangerous Buildings)
+B. Nothing in this Chapter shall be deemed
+to limit or otherwise modify the ability of the
+Board and/ or any person who has suffered
+special damage from the nuisance, to abate
+nuisances through alternative remedies as
+provided for under the law. ( Ord. 95- 002 § 2,
+1995; 88- 002 § 1, 1988; Ord. 85- 037 § 12. 02,
+1985)
+Page 2 — Exhibit A — Ord. 95- 002 ( 01/ 18/ 95)
+13. 40. 040 Violation - Penalty.
+A. Any violation of section 13.20.040,
+13. 24. 010, 13. 28. 010, 13. 36. 010, 13. 36. 020,
+13. 36. 030, 13. 36. 040 or 13. 36. 045 of this
+division] chapter constitutes a Class A
+infraction. [ and shall be punishable upon
+conviction by a fine of not more than five
+hundred dollars.
+B. Each day a violation described in
+subsection A of this section continues
+constitutes a separate offense and is
+punishable as a continuing infraction under
+chapter 1. 16 of this code.] ( Ord. 95- 002 § 3,
+1995; Ord. 90- 008 § 2, 1990; Ord. 86- 035 § 1,
+1986; Ord. 85- 037 § 13. 04, 1985)
+Page 3 - Exhibit A - Ord. 95- 002 ( 01/ 18/ 95)

@@ -1,0 +1,448 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-land-use-ch1228
+title: 'Ch1228'
+doc_type: ordinance
+citation: 'Ch1228'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/12%20Planning/Ch1228.pdf?t=202406181449440
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8866c518c0d3173a6af49898ae8ac8f053d883095b397345cd8a6b7b1f2881b4
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 161.015
+    - ORS 164.055
+    - ORS 166.210
+    - ORS 203.077
+    - ORS 275.320
+    - ORS 390.250
+    - ORS 390.255
+    - ORS 390.260
+    - ORS 468B.005
+    - ORS 480.110
+    - ORS 801.150
+  related: []
+  supersedes: []
+tags: [jackson-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch1228 (Ch1228)
+
+## At a glance
+
+Ch1228 — land use of Jackson County. 10 pages.
+
+## Full text
+
+CHAPTER 1228
+Bear Creek Greenway Plan
+
+1228.01 Adoption.
+
+1228.02 Purpose.
+1228.03 Definitions.
+1228.04 Intended Uses.
+1228.05 Authority; Closure of Greenway; Use Limitations.
+1228.06 Regulations; Prohibitions
+1228.07 Severability.
+1228.08 Jurisdiction; Enforcement.
+1228.09 Violations; Penalty.
+
+CROSS REFERENCES:
+
+Count
+y parks and recreation areas generally - see ORS 275.320, 275.330, 275.370;
+S.U. & P.S. Ch. 1064
+Development of recreational use of lands by Jackson County; application for State
+funds - see ORS 390.250
+Use of funds to acquire land interests; conditions of grants - see ORS 390.255
+Application of Willamette River Greenway laws; restriction on condemnation to
+acquire lands - see ORS 390.260
+County Fairgrounds and Exposition Park - see S.U. & P.S. Ch. 1066
+Comprehensive Plan - see P. & Z. Ch. 1226
+
+1228.01 ADOPTION.
+
+The Bear Creek Greenway Plan, developed by the Roads and Parks Department and
+providing management policies and guidelines for the management and preservation of
+the Bear Creek Greenway, is hereby adopted.
+
+The Bear Creek Greenway Plan shall serve as a primary background and support
+document to the Natural and Historic Resources Element of the Jackson County
+Comprehensive Plan.
+
+(Order 487-82. Passed 12-1-82; Ord. 2003 -4. Passed 1-22-03; Ord. 2007-2. Passed 1-31-
+07.)
+21 Bear Creek Greenway Plan 1228.03
+
+1228.02 PURPOSE.
+
+These Rules are promulgated by the Jackson County Board of Commissioners to
+establish common enforceable regulation of activities throughout the Bear Creek
+Greenway Corridor. The provisions of this Chapter, unless agreed otherwise, are not
+intended to preempt any other local government law, ordinance, rule, or regulation, or
+any property transaction, easement, covenants or similar agreement between any local
+government and those adjacent landowners with whom those agreements were made.
+
+(Ord. 99-41. Passed 11-10-99.)
+
+1228.03 DEFINITIONS.
+
+For the purposes of Sections 1228.02 to 1228.09, unless the context requires otherwise,
+the following definitions apply:
+
+(a) Camp - means to set up, occupy, or to remain in or at a campsite.
+
+(b) Campsite - means any place where any bedding, sleeping bag or other material used
+for bedding purposes, or any stove or fire, is placed, established or maintained for the
+purpose of maintaining a temporary place to live, whether or not such place incor porates
+the use of any tent, box, lean-to, shack or any other struc ture, or any vehicle or part
+thereof.
+
+(c) Bear Creek Greenway Corridor (Greenway) - means that publicly -owned 20- mile
+corridor of parks, trails, and adjacent land and waters that is located running north and
+south and includes sections of Bear Creek between North Mountain Avenue in the City of
+Ashland to Seven Oaks Interchange in the City of Central Point.
+
+(d) Bicycle - has the meaning given that term in ORS 801.150.
+
+(e) Destructive Device - means any device with an explosive, incendiary or poison gas
+component, including but not limited to a bomb, grenade, rocket having a propellant
+charge of more than four ounces, missile having an explosive or incendiary charge of
+more than one-quarter ounce, mine, or any combination of parts either designed or
+intended for use in converting any device into any destructive device described in this
+paragraph and from which a destructive device may be readily assembled.
+
+(f) Dwell - means to regularly or intermittently remain for such a period of time at or
+near a particular location, premises or area so as to create a circumstance normally or
+reasonably associated with inhabiting, living, or assuming a possessory interest in such
+area.
+
+(g) Firearm - has the meaning given that term in ORS 166.210.
+1228.03 Bear Creek Greenway Plan 22
+
+(h) Fireworks has the meaning given that term in ORS 480.110.
+
+(i) Greenway Authority  - means a unit of local government, its designees, or its
+employees, who have lawful control of regulating use of the Greenway by nature of
+jurisdiction, ownership, tenancy, or official position.
+
+(j) Horse, - in addition to its ordinary meaning includes mules, donkeys and other
+<skip> animals.
+
+(k) Keeper - means a person who owns, possesses, controls or otherwise has charge of a
+companion animal, as that term is defined in ORS 164.055(2) (a).
+
+(l) Livestock - means equines, cattle, sheep, goats, llamas, alpacas and swine.
+
+(m) Occupy or Occupancy  - means the purpose for which a premises or structure, or
+parts thereof, is used or intended to be used.  The definition of AOccupy@ is not limited to
+human or  animal inhabitation and can include the improvement, development, or the
+placement of a structure or building on a premises, or any condition thereof.
+
+(n) Open to the Public - means premises that, by their physical nature, function, custom,
+usage, notice or lack of notice, or other circumstances at the time, would cause a
+reasonable person to believe that no permission to enter or remain is required.
+
+(o) Possess - has the meaning given that term in ORS 161.015.
+
+(p) Premises - includes any real property, facility, structure, shelter or building whether
+privately or publicly owned.
+
+(q) Skate or Skating - means roller skating, skate boarding or roller blading, or
+otherwise the use or application of a similar contrivance propelled exclusively by human
+power.
+
+(r) Weapon - means any instrument, article or substance specifically designed for and
+presently capable of causing death or serious physical injury.  A weapon includes any
+knife having a blade that projects or swings into position by force of a spring or by
+centrifugal force and commonly known as a switchblade knife, any dirk, dagger, ice pick,
+slingshot, metal knuckles, or any similar instrument by the use of which injury could be
+inflicted upon the person or property of any other person.  A A deadly@ weapon has the
+meaning given that term in ORS 161.015(2).
+
+(Ord. 99-41. Passed 11-10-99.)
+23 Bear Creek Greenway Plan 1228.05
+
+1228.04 INTENDED USES.
+
+The Greenway is intended for multiple use for recreational and non- motorized
+transportation activities.  None of the provisions of the Bear Creek Greenway Ordinance
+relieves the pedestrian or relieves the cyclist, skater, or equestrian from the duty to
+exercise due care concerning other users of the Greenway or adjacent land owners.
+
+(a) All Greenway users should maintain their own common or standard lane of travel
+without impeding travel of other users.
+
+(b) Bicyclists and skaters yield to all other trail users, and hikers yield to equestrians.
+
+(c) Unless otherwise marked, Greenway users are permitted only on paths or paved
+trails specifically designed for such use.
+
+(d) Companion animals are allowed if on a leash no longer than six feet and in strict
+control of its keeper.  Keeper shall remove the animal’s waste.
+
+(e) All users are expected to observe and obey all Oregon State and Greenway traffic,
+as well as informational, warning, and closure signs.
+
+(f) All persons within the Greenway will be held responsible for any damage they
+cause.  Parents or guardians will be held responsible for the damage caused by their
+children under the age of 18 years old, whether or not the parent or guardian is present.
+
+(Ord. 99-41. Passed 11-10-99.)
+
+1228.05 AUTHORITY; CLOSURE OF GREENWAY; USE LIMITATIONS.
+
+(a) The Greenway Authority is hereby authorized to establish and post regulations
+governing the use of the Greenway which are not inconsistent with regulations contained
+in Jackson County Code Sections 1228.02 to 1228.09 and which promote public health
+and safety and the preservation of property.
+
+(b) The Greenway Authority is hereby authorized to close to public use the Greenway
+corridor or any portion thereof, restrict the times when the same shall be open to such use
+and limit or prohibit any recreational use whenever such action is necessary to protect the
+health or safety of the public or the safety of the Greenway or its facilities. Causes for
+Greenway closure or limitations on Greenway use include, but are not limited to,
+scheduled public events, fire hazard, dangerous weather or water conditions, sanitary
+protection of the watershed, park construction or repairs, conservation of fish and
+wildlife, unsafe or overcrowded shoreline, ramp, parking or road conditions, the
+prevention of damage to the Greenway or any of its facilities or any dangerous, unsafe or
+unhealthful condition.
+1228.06 Bear Creek Greenway Plan 24
+
+(c) Unless otherwise posted, Greenway closure shall occur between the hours of 10:00
+p.m. and 6:00 a.m. except as follows:
+
+(1) Pedestrians crossing the Greenway on a paved section of the path;
+
+(2) Participants or spectators of an athletic contest or approved public event in
+Greenway areas;
+
+(3) Persons attending a scheduled event in a Greenway building designated for
+community recreation or instruction; or
+
+(4) Government employees during the course of official activities.
+
+(d) The Greenway Authority shall have the authority to eject from the Greenway any
+person acting in violation of regulations contained in Sections 1228.02 to 1228.09.
+
+(Ord. 99-41. Passed 11-10-99.)
+
+1228.06 REGULATIONS; PROHIBITIONS.
+
+All regulations of the Greenway shall apply to and be in full force and effect within the
+Greenway area unless otherwise specifically authorized by Sections 1228.02 to 1228.09
+or by declaration of the Greenway Authority or local unit of government independent of
+each other as a representative of each applicable jurisdictional boundary affected by the
+Greenway.
+
+(a) Closure - No person shall enter the Greenway or area which has been closed if
+notice of prohibited entry has been posted.
+
+(b) Basic Speed Rule:
+
+(1) A person commits a violation of the basic speed rule if the person drives
+bicycles, skates or rides a horse upon the Greenway at a speed greater than is
+reasonable and prudent, having due regard to all the following:
+
+A. The traffic.
+B. The surface and width of the pathway.
+C. The hazard at intersections.
+D. Weather.
+E. Visibility.
+F. Any other conditions then existing.
+25 Bear Creek Greenway Plan 1228.06
+
+(2) In no case shall a person drive a bicycle, skate or ride a horse in speeds in
+excess of fifteen (15) miles per hour, unless otherwise posted.
+
+(c) Obstruction of the Right of Way - No person, unless specifically authorized, shall:
+
+(1) Stand, gather with others upon any street, street crossing, sidewalk, trail or area
+within the Greenway in a manner that obstructs free passage of users of the
+Greenway; or
+
+(2) Place, cause to be placed, or permit to remain on any street, sidewalk, trail or
+area within the Greenway anything that obstructs or interferes with such area
+or interferes with the normal flow of users of the Greenway.
+
+(d) Vehicles/horses:
+
+(1) No unauthorized person shall operate, park, stand or use any motorized vehicle,
+or ride or lead a horse within the Greenway, except in areas provided,
+maintained or designated for such purpose.
+
+(2) Horses are permitted only on posted equestrian trails, where located.
+
+(3) The provisions of Subsections (1) and (2) of this Section do not apply to
+governmental officials or their agents acting within their official capacity.
+
+(e) Animals:
+
+(1) Companion animals are allowed if on a leash no longer than six feet and in
+strict control of its keeper.
+
+(2) No person within the Greenway shall allow any pet or animal in his or her
+custody:
+
+A. To annoy or molest any person; or
+B. To be tied up and left unattended; or
+C. Except for areas provided, maintained or designated for such purpose, to
+deposit its waste on any street, sidewalk, trail or managed landscape area
+unless the person immediately removes the waste from the area.
+
+(3) No horse or pack animal shall be tied, secured or hobbled in such a manner as
+to injure any tree, shrub or Greenway improvement.
+
+(4) No person shall cause or knowingly permit livestock within the Greenway.
+1228.06 Bear Creek Greenway Plan 26
+
+(f) Access to Private Lands - No person shall use the Greenway to gain unauthorized
+access to private property adjacent or otherwise to the Greenway.
+
+(g) Property Destruction - No unauthorized person shall:
+
+(1) Pick, cut, mutilate, blaze, paint or remove any flowers, shrubs, foliage, trees or
+plant life, or property of any kind, within the Greenway area without written
+permission therefore from the Greenway Authority;
+
+(2) Mutilate, deface, damage, move or remove any Greenway equipment,
+including but not limited to streets, sidewalks, bicycle paths or any part of the
+public right-of -way, tables, benches, buildings, signs, markers, plaques,
+barriers, fountains, faucets, traffic recorders or other structures or facilities of
+any kind within the Greenway area; or
+
+(3) Dig, dredge, deface or remove any dirt, stones, rocks, artifacts or other
+substances, make any excavation, quarry any stones or other objects or cause
+or assist in doing any of such things within the Greenway area, except upon
+written permission from the Greenway Authority.
+
+(h) Fires:
+
+(1) Unless specifically authorized, no person shall build, light or maintain any fire,
+portable gas, gasoline or oil stoves or other portable cooking devices, or leave
+a fire unattended, throw or deposit any burning substance, or other substance
+capable of burning or combustion within the Greenway.
+
+(2) A person shall be responsible for damage resulting from fires caused by said
+person and for the cost of suppressing such fires.
+
+(i) Offensive Littering:
+
+(1) No person shall:
+
+A. Throw, dump, deposit or leave any trash, refuse, garbage, litter, cigarettes
+or tobacco products, or waste material within the Greenway area, except
+in receptacles designated by the Greenway Authority for that purpose;
+
+B. Bring into the Greenway area any trash, refuse, garbage, litter, waste
+material or vehicle for the purpose of leaving it therein;
+27 Bear Creek Greenway Plan 1228.06
+
+C. Wash any clothing or other materials in the waters of any pond or stream,
+or throw, dump or deposit into such waters, or onto the banks thereof, any
+trash, refuse, garbage, litter, waste material or other polluting product of
+any kind. Pollution and waste, for the purpose of this Su bsection, are as
+defined in ORS 468B.005 (3) and (7).
+
+(2) In addition to fine imposed pursuant to violation of any provision of this
+Section, violator is responsible for any and all costs resulting from necessary
+response, clean up, or damage caused by the act of offensive littering.
+
+(j) Camping:
+
+(1) Unless specifically authorized, no person shall camp or dwell within the
+Greenway, or under any bridge or viaduct within the Greenway area.
+
+(2) Violation of Subsection (1) of this Section is subject to the rules of notification
+and removal of persons and property set forth in ORS 203.077 and adopted
+under Jackson County Code Sections 1078.03 to 1078.09.  Standard penalties
+as set forth in Section 1228.09 shall not be imposed for the first violation of
+this Section.
+
+(k) Peddlers and Solicitors; Advertising; Signs:
+
+(1) Unless otherwise specifically permitted by the Greenway Authority or other
+appropriate local governmental authority, no person shall, within the
+Greenway:
+
+A. Operate a concession, either fixed or mobile, or engage in the business of
+soliciting, selling or peddling goods, wares, merchandise, liquids or
+edibles for human consumption;
+
+B. Advertise in any manner, including but not limited to distributing
+circulars, or using fixed or mobile display; or
+
+C. Erect any sign, marker or inscription.
+
+(2) Unauthorized signing or trail marking is prohibited.
+
+(l) Alcoholic Beverages  - Possessing or drinking alcoholic beverages within the
+Greenway is prohibited.
+1228.09 Bear Creek Greenway Plan 28
+
+(m) Firearms, Air Guns and Other Weapons - No person, other than law enforcement
+officers performing their official duties, shall discharge any  firearm, air gun, pellet gun,
+bow and arrow, slingshot or other projectile propelling device within the Greenway.
+
+(n) Fireworks - No person shall possess or use fireworks or explosives of any type
+within the Greenway.
+
+(o) Hunting - Unless specificall y authorized, no person shall, or attempt, to pursue,
+hunt, trap, kill or injure any wild bird or animal within, into or out of the Greenway area.
+
+(p) Noise - Loudspeakers, public address systems and amplified musical instruments are
+allowed within the Greenway only upon approval from the Greenway Authority or other
+appropriate local governmental authority.
+
+(Ord. 99-41. Passed 11-10-99; E.Ord 2003-29. Passed 10-15- 03; P. Ord 2003 -28. Passed
+10-29-03.)
+
+1228.07  SEVERABILITY.
+
+If any section, subsection, sentence, clause, phrase or portion of Sections 1228.02 to
+1228.09 is for any reason held invalid or unconstitutional by any court of competent
+jurisdiction, such portion shall be deemed a separate, distinct and independent provision,
+and such holding shall not affect the validity of the remaining portions thereof.
+
+(Ord. 99-41. Passed 11-10-99.)
+
+1228.08  JURISDICTION; ENFORCEMENT.
+
+(a) Persons are subject to the jurisdiction of that unit of local government in which the
+violation has alleged to have been committed.
+
+(b) Enforcement of this code may be performed by any law enforcement officer whose
+jurisdictional boundaries include or are adjacent to the Greenway, or by any enforcement
+personnel as designated by the Greenway Authority.
+
+(Ord. 99-41. Passed 11-10-99.)
+
+1228.09  VIOLATIONS/PENALTY.
+
+(a) Unless provided otherwise, violations of any provision of this ordinance shall, upon
+conviction, be punished by a fine set by that unit of local government in which the
+violation has been committed.
+29 Bear Creek Greenway Plan 1228.09
+
+(b) Violations committed within the jurisdiction of Jackson County shall, upon
+conviction, be punished by a fine of not more than $250.00 per incident.
+
+(Ord. 99-41. Passed 11-10-99.)

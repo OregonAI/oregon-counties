@@ -1,0 +1,467 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-99-027
+title: 'Ordinance No. 99-027'
+doc_type: ordinance
+citation: 'Ordinance No. 99-027'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616803448_1999-961-Ordinance%20No.%2099-027%20Recorded%209_23_1999.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 1ce63a3b6474256cfd289c65b106000f5239f9b2d59f7f376871d9f0e4495f07
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 99-027 (Ordinance No. 99-027)
+
+## At a glance
+
+Ordinance No. 99-027 — orders of Deschutes County. 13 pages.
+
+## Full text
+
+VOL: CJ1999 PAGE: 961
+RECORDED DOCUMENT
+STATE OF OREGON
+COUNTY OF DESCHUTES
+CJ1999- 961 * Vol - Page Printed: 10/ 14/ 1999 15: 13: 37
+DO NOT REMOVE THIS CERTIFICATE
+This certificate constitutes a part of the original instrument in accordance with
+ORS 205. 180( 2). Removal of this certificate may invalidate this certificate and affect
+theadmissibilityof theoriginalinstrumentinto evidencein anylegalproceeding.)
+I herebycertify that the attachedinstrument was received
+andduly recordedin DeschutesCounty records:
+DATE AND TIME:
+DOCUMENT TYPE:
+Sep. 23, 1999; 9: 45 a. m.
+Ordinance ( CJ)
+NUMBER OF PAGES: 12
+affai = 1F -
+I
+MARY SUE PENHOLLOW
+K H
+DESCHUTES COUNTY CLERK , :.
+ED
+A , j 1999
+REVIEWED TOF RM e11qqq_ 9k l REVIEWED
+Code R ' ew Conunittee Legal Counsel
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESC' = EDUAW90& GON
+An Ordinance Amending Chapter 12.48, Local * MARY SUE PENHOLLOW
+Improvement Districts, of the DeschutesCounty * COUNTY CLERK
+Code, and Declaring an Emergency.
+ORDINANCE NO. 99- 027
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1, AMENDMENT. Section 12.48.200, Board Order for Improvement -Recording -
+Vacation of Order, is amended to read as set forth in Exhibit " A," attached hereto and by this reference
+incorporated herein, with new language undcrlin
+Section 2. AMENDMENT. Section 12.48.210, Recording Order with County Clerk, is
+amended to read as set forth in Exhibit " B," attachedheretoandby this referenceincorporatedherein, with
+new language un erlined, and language to be deleted in sWwtkr< m .
+Section 3, AMENDMENT. Section 12.48.240, Engineer to Ascertain Assessment -Hearing
+on Objections - Board Order, is amended to read as set forth in Exhibit " C," attached hereto and by this
+referenceincorporated herein, with new languageun erlined, and languageto be deletedin strileedweu .
+Section 4, AMENDMENT. Section 12.48.250, Recordingof Final AssessmentLien, is
+amended to read as set forth in Exhibit " D," attached hereto and by this reference incorporated herein, with
+new language un erl, and language to be deleted in stAketlfrett .
+Section 5. AMENDMENT. Section 12.48. 270, Errors in Assessment Calculation or
+Determination, is amended to read as set forth in Exhibit " E," attached hereto and by this reference
+incorporated herein, with new language underlined.
+Section 6, AMENDMENT. Section 12. 48. 275, Reinstatement of Liens Released in Error, is
+amended to read as set forth in Exhibit " F," attachedhereto and by this referenceincorporated herein, with
+new language underlined.
+Section 7. AMENDMENT. Section 12. 48. 280, Deficit Assessments or Refunds when Initial
+Assessment Based on Estimated Cost, is amended to read as set forth in Exhibit " G," attached hereto and
+by this referenceincorporatedherein, with newlanguageunderlined.
+Section 8. AMENDMENT. Section 12. 48. 290, Rebates, is amended to read as set forth in
+Exhibit " H," attachedhereto and by this referenceincorporated herein, with new languageunderlined.
+Section 9. AMENDMENT. Section 12. 48. 300, Curative Provisions, is amended to read as
+set forth in Exhibit " I," attachedheretoand by this referenceincorporatedherein, with new language
+underlined,
+Page 1 of 2 - ORDINANCE NO. 99- 027 ( 9/22/ 99)
+Section 1.0 AMENDMENT. Section 12.48. 310, Remedies, is amended to read as set forth in
+Exhibit " J," attachedheretoandby this referenceincorporatedherein, with newlanguageunderlined.
+Section 11. EMERGENCY. Thisordinancebeingnecessaryfor theimmediatepreservationof
+the public peace, ealth.andsafety, an emogoncyisdeclaredto exist, andthethis ordinancetakeseffecton
+this passage.
+DATED this % dayof September, 1999.
+BOARD OF COUNTY COMMISSIONERS FOR
+DESCHUTES COUNTY, OREGON
+JA L. SWEARINGEN, Chair
+ST: T. N. DEWOLF, Con im9sioner
+Lk"" ide
+Recording Secretary DENNIS R. LUKE, Commissioner
+Page 2 of 2 - ORDINANCE NO. 99- 027 ( 9/ 22/ 99)
+Exhibit " A"
+12. 48. 200. Board order or Resolution for
+improvement -Recording -Vacation
+of order or resolution.
+A. At the time of the public hearing, th; ,board
+shall hear `arty testimony od 'the' 0&p6sed . .
+local improvement and may continue the
+hearing as it deemsnecessary. If objections
+are received by the board signed by more
+than 50 percent of the owners of land
+representingmore than 50 percent of the total
+amount of the estimated assessment for the
+proposed local improvement, the proposed
+local improvement shall, by order 4I
+resolution of the board, be declared
+abandonedand no new petition may be filed
+andno new resolution may be adoptedfor the
+local improvement within a period of one
+year after the date of the order, unless the
+board exercises its discretion under
+subsection (C) of this section to modify the
+proposal in response to the testimony and
+objections.
+B. If following the hearing the board determines
+that the proposed local improvement should
+be made and the number of objections
+mentioned in this section has not been
+received, the boardmay at its discretion, by
+orderor resolutiondescribingthe landto be
+assessed, direct the local improvement to be
+madeby contractor by forceaccount. If by
+contract, it shall be awarded in the same
+manner as provided for other contracted
+county road improvements.
+C. Following the hearing, the board may modify
+the proposed local improvement, the
+estimated cost, the assessment method or the
+estimated assessments in response to
+information received and objections raised, in
+which casean additional hearing shall be
+noticed in accordance with section 12.48. 170
+to 12.48. 190 of this chapter. The provision
+of additional information to justify the chosen
+methodology shall not trigger the
+requirements of this subsection.
+D. The board can suspend or abandon
+proceedingwith a local improvementat any
+time up to letting contracts for construction if
+it determines that the minimum requirements
+of subsection 12. 48. 330( A) of this chapter are
+not being met or for any other reason.
+E. , Subject to subsection ( C) of this section
+abeve, the Bboard may at its discretion and
+on its own motion or at the request of
+interestedparties reopen a previously noticed
+public hearing that has been closed upon the
+mailing of notice to owners of property to be
+assessed not less than 5 days prior to the
+reopeningof thehearing.
+Ord. 99- 027 § 1, 1999; Ord. 96- 074 § 1, 1996;
+Ord. 94- 033 § 1, 1994; Ord. 94- 025 § 1, 1994)
+Page l of 1 — EXHIBIT " A" TO ORDINANCE NO. 99- 027 ( 9- 22- 99)
+Exhibit " B"
+12.48.210. Recording order or resolution
+with County Clerk.
+A. The board shall cause the Finance Director or
+his delMate to file be filed in the appmpr; w
+lien -Feeerds-finwith the CountyClerk's office
+a notice of intent to lien, signed by the
+Finance Director or his delegate, for each
+property onthe list eepy e€the erg for entry
+in the annrgpriate lien docket A notice of
+intent to lien shall include at a minimum a
+description of the property, the owner's
+name, a reference to the order or resolution of
+the board ordering, that the improvements be
+made and the amount of the estimated
+assessment, along with a statement that upon
+completion of the improvements, a lien for
+the amount of the final assessment will be
+imposed upon the propM. The Clerk shall
+thereupon record and index the notice of
+intent to lien in the agpropriate lien docket.
+filing Recording of a notice of intent to lien
+and docketing it in the appropriate lien docket
+erdef shall serve as notice that upon
+completion of the local improvement
+described in the order or resolution. a lien in a
+fixed amount representing each listed
+properties' equitable share of the actual costs
+of the local improvements will be imposed on
+each of the listed properties.
+B. If the proposed local improvement described
+in the order or resolutiQn of the board is not
+commenced within two years after the notice
+is recorded, the board may by a new ordero_r
+resolution vacate its ° former order 4I•
+resolution for the proposed local
+improvement. The board shall record with
+the County Clerk the order or resolution
+vacating the former order or resolution for the
+proposed local improvement. Thereupon the
+land described shall be free of the effect of
+the former order orresolution: The County
+Clerk shall endorse upon the new order Q-
+resolutionthe date  of the filing thereof, and
+shall record and index ; the same in the lien
+record referred to in subsection ( A) of this
+section.
+Ord. 99- 027 § 2, 1999, Ord. 94- 025 § 1, 1994)
+Page 1 of l EXHIBIT " B" TO ORDINANCE NO. 99- 027 ( 9/ 22/ 99)
+Exhibit " C"
+subjectto bankruptcyproceedings, befiled in
+12. 48. 240. Engineer to ascertain the appropriate form and - in& e
+assessment-Hearing on objections- ( 5) direct that the
+Board order or resolution. Clerk record the liens and enter them in the
+A. The engineer shall ascertain the amount of gpprop :ateliendocketof thecounty.
+the final assessment against each parcel of ( Ord. 99- 027 § 3, 1999; Ord. 94- 025 § 1, 1994)
+land assessed for the local improvement and
+report the same to the board.
+B. The board by order or resolution shall
+thereuponsetthe time and place for a hearing
+of objections to the final assessments as fixed
+in the report of the engineer.
+C. Not less than ten days prior to the date of the
+hearing, the board shall mail to the owner of
+each property proposedto be assessed, at the
+address of the owner as shown on the petition
+or on the latest tax roll of the county, a
+written notice of the time and place for the
+hearing of objections and of thO amount of
+the proposed final assessment against the
+land of the owner.
+D. After hearing any written or oral objections,
+theboardshallbyorderorresolution, listing
+and describing each property to be assessed
+and listing and describing the ownership of
+each such property, determine from the
+evidence submitted the amount of the final
+assessment against each individual, listed
+property. Theorderor resolutionshallcertify
+the amount of the final assessment against
+eachlisted individual property. In addition,
+the order or resole 3ton shall ( 1) specify the
+terms for installment payments and, subject
+to section 12.48. 260, the date that payments
+or applications for installment payments are
+due; ( 2) order in accordance with Oregon
+Revised Statutes 223. 210 that notice of the
+final assessment be published; ( 3) order in
+accordance with Oregon Revised Statutes
+223. 210 that the director of public works mail
+to the owners of the assessed properties
+notice of the final assessment and an
+application to finance the local
+improvements; and ( 4) direct that the Finance
+Director or his delegate rause to be filed with
+the County Clerk individual lien claims for
+the assessme!* lgWng the pEgqcWes on the
+list, excluding any property known to be
+Page 1. of I - EXHIBIT " C" TO ORDINANCE NO. 99- 027 ( 9/ 22/ 99)
+Exhibit " D"
+12.48.250. Recording of final assessment
+Lien.
+A. After passage of
+I
+the order or resolution
+determining the final assessments, the beard
+the- Geuwy--ElerlEFinance Director or his
+delegate shall for each property on the list of
+assessments certified by the board file with
+the Clerk a claim of lien. signed by the
+Finance Director 41. his delegate. reflecting
+the information set forth in the list of
+assessmentscertifiedby theboardfor entryin
+the appropriate lien docket. The list claim of
+lien shall include a statement of the amounts
+assessed against each lot or parcel, the name
+of the owners, the date of the order Qr
+resolution levying the assessmentand the
+date on which payment or application for
+installment payment is due. The County
+Clerk shall endorse thereon the date of the
+filing thereofand recordand index it in an
+appropriatethe county lien docket.
+B. For properties known to be subject to
+bankruptcy proceedings, the lien may be
+imposedfiled separatelyconsistentwith the
+requirements of applicable bankruptcy law.
+C. Upon such entry in the lien docket, the final
+assessments and interest are a lien upon the
+land against which the same are assessed.
+Each lot or parcel is deemed to be benefited
+by the local improvementto the full amount
+of the final assessment levied thereon. The
+lien shall havepriority over all other liens and
+encumbrances whatsoever to the fullest
+extent provided by law.
+D. No transfer, saleor division of any such lot or
+parcel, or change in the legal description
+thereof, in any way diveststhe lien from the
+original parcel and the whole thereof. Failing
+to enter the name of the owner or a mistake in
+the name of the owner does not in any way
+rendervoid any estimatedor final assessment
+and doesnot in any way affect the lien on the
+land described.
+E. All payments shall be entered in the lien
+docket and shall discharge the lien to the
+amount of such payment. Upon payment of
+the final assessment in full, the beard Finance
+Director or his delegateshall satisfy the same
+by filing with theCountyClerka satisfaction.
+The clerk shall record the satisfaction a
+netati in the lien docket referred to above,
+and the parcel of land charged with such
+assessmentis shall be thereby discharged
+from the lien.
+Ord. 99- 027 § 4, 1999; Ord. 94- 025 § 1, 1994)
+Page 1 of 1 - EXHIBIT " D" TO ORDINANCE NO. 99- 027 ( 9/ 22/ 99)
+Exhibit " E"
+12. 48. 270. Errors in ; assessment calculation
+or determination.
+If the county finds that there hasbeen an error in
+thecalculationof the assessmentor in any other
+aspect of the certification of the assessments, the
+boardmayamendthe orderor resolutionlevying
+the assessments to correct such errors; cause the
+necessarycorrectionto bemadein thecountylien
+docket; and send a corrected notice of assessment
+by mail.
+Ord. 99- 027 § 5, 1999; Ord 94- 025 § 1, 1994)
+Page 1. of 1 - EXHIBIT ` B" TO ORDINANCE NO. 99- 027 ( 9/ 22/ 99)
+Exhibit " F"
+12. 48. 275. Reinstatement of liens released in
+error.
+A. In the event that any lien for an assessment
+for a local improvement that was validly
+imposed under law is released in error, the
+Board of County Commissioners shall have
+the authority to order the reinstatement of the
+lien.
+B. An orderor resolutionreinstatingsucha lien
+shallcontainthe following information: the
+amount of the final assessment; a description
+of the affected property; the owner of record
+and the owner' s address; and a statement that
+upon filing with the County Clerk and
+recording in the appropriate lien docket, the
+lien for the assessment shall be reinstated as a
+lienuponthesubjectproperty.
+C. The Board shall cause the order or resolution
+to be filed with the County Clerk for
+recording and entry in the appropriate lien
+docket. The Clerk shall cause a lien to be
+imposedon the subjectpropertyin the same
+manner as prescribed in Section 12. 48. 230 of
+this Chapter. The lien shall have the same
+effect as a lien imposed under Section
+12. 48. 230 of this Chapter and shall be treated
+as if it had never been released.
+D. The property owner shall receive notice of
+the reinstatement of the lien, but shall have
+no right to challenge such reinstatement
+unless it can be shown that the release was
+supported by payment in full of the
+outstanding assessment amounts.
+Ord. 99- 027 § 6, 1999; Ord. 95- 055 § 1, 1995)
+Page 1. of 1 — EXHIBIT " F" TO ORDINANCE NO. 99- 027 ( 9/ 22/ 99)
+Exhibit " G"
+12.48. 280. Deficit assessments or refunds
+when initial assessment based on
+estimated cost.
+If it is found that the amount of the assessment is
+insufficient to defray the expenses of the local
+improvement, the board may, by motion, declare
+such deficit and declare a deficit assessment and
+shallmail noticeof the hearingto ownersof the
+affected property. After suchhearing, the board
+shall make an equitabledeficit assessment, by
+order or resolution, which shall be entered an
+recordedin the appropriatecountylien docketas
+providedbythis chapter; andnoticesof thedeficit
+assessment shall be mailed and the collection of
+the assessment shall be made in accordance with
+this chapter consistent with the collection of the
+original assessment.
+Ord. 99- 027 § 7, 1999; Ord. 94- 025 § 1, 1994)
+Page 1 of 1 — EXHIBIT " G" TO ORDINANCE NO. 99- 027 ( 9/ 22/ 99)
+Exhibit " H"
+12. 48. 290. Rebates.
+If for anyreasonthe countycollectsmorethanis
+due under this chapter or any order or resolution
+of the board authorized herein, then the board
+must ascertain and declare the sameby order Qr
+resolution; and when so declared, the excess
+amounts must be entered on the lien docket as a
+credit on the appropriateassessment. In the event
+that the assessment has been paid, the person who
+paid the same or his legal representative, shall be
+entitled to the repayment of such rebate crMt, or
+portion thereof, that exceeds the amount ` unpaid
+on the original assessment. Notice of the rebate
+shall be sent to the person who paid the amount at
+the person' s last address as shown ` on the LID
+records of the county. If within 60 days the
+person cannot be located, payment shall be made
+to thecurrentowner thepropertyfromwhich'
+overpayment arose without recourse against the
+countyby theoriginalpayor.
+Ord. 99- 027 § 8, 1999; Ord. 94- 025 § 1, 1994)
+Page l of 1 — EXHIBIT " H" TO ORDINANCE NO. 99- 027 ( 9/ 22/ 99)
+Exhibit " I"
+12. 48. 300. Curative provisions.
+No assessment shall be rendered invalid by
+reason of a failure of the report to contain all of
+the information required by this chapter; or by
+reason of a failure to have all of the information
+required to bei in the order or resolution
+authorizing improvement, the order or resolution
+levying assessments, the lien docket or notices
+required to be published or mailed; nor by the
+failure to list the name of, or tax list of, or mail
+notice to, the owner of any ! property as required
+by thischapter; or by reasonof anyothererror,
+mistake, delay, omission, irregularity, or other
+act, jurisdictional or otherwise, in any of the
+proceedings or steps herein specified, unless it
+appearsthat the assessmentis unjust in its effect
+upon the person complaining; and the board shall
+have the power and authority to remedy and
+correct all such matters by suitable action and
+proceedings.
+Ord. 99- 027 § 9,! 1999; Ord. 94- 025 § 1, 1994)
+Page I of 1 — EXHIBIT " I" TO ORDINANCE NO. 99- 027 ( 9/22/ 99)
+Exhibit " J"
+12. 48. 310. Remedies.
+Actions of the board pursuant to this chapter are
+subject to judicial review exclusively by writ of
+review in accordance with the procedures in
+Oregon Revised Statutes 34. 010 to 34. 100.
+Review of an order or resolution of the board
+directingthatanimprovementbemadeor levying
+an assessmentmay be commenced only by a
+property owner who has filed a written
+remonstrance or objection or who has
+remonstratedor objectedin personat a hearing
+before the board as provided in this chapter.
+Failure to so remonstrate or object shall constitute
+a waiver and failure to exhaust administrative
+remedies.
+Ord. 99- 027 § 10, 1999; Ord. 94- 025 § 1, 1994)
+Page 1. of 1 — EXHIBIT " J" TO ORDINANCE NO. 99- 027 ( 9/ 22/ 99)

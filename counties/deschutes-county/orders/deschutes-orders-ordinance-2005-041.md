@@ -1,0 +1,395 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2005-041
+title: 'Ordinance No. 2005-041'
+doc_type: ordinance
+citation: 'Ordinance No. 2005-041'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616979870_2005-1010-Ordinance%20No.%202005-041%20Recorded%208_25_2005.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: b680634e7bb099659ef645f8a8d7c25304c53047598bce764b9683a352653cb4
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2005-041 (Ordinance No. 2005-041)
+
+## At a glance
+
+Ordinance No. 2005-041 — orders of Deschutes County. 6 pages.
+
+## Full text
+
+j
+REV D
+LEGAL COUNSEL
+REVIEWED
+CODE REVIEW COMMITTEE
+DESCHUTES
+COUNTY CLERK 1JNANCY
+COMMISSIONERS' JOURNAL
+08/25/200503;44;02PM
+IIIIIIIIIIIIIIIIIIIIIII (IIIIIII
+2005- 1010
+BEFORETHEBOARDOFCOUNTYCOMMISSIONERSOFDESCHUTESCOUNTY, OREGON
+An OrdinanceAmendingTitle 18, Deschutes
+CountyZoningOrdinance, andDeclaringan * ORDINANCE NO. 2005- 041
+Emergency.
+WHEREAS, ArrowoodDevelopment, LLChasappliedtoamendthetextofthezoningordinanceunderCounty file no. TA -04-3; and
+WHEREAS, the proposedamendmentswouldmodifythe definitionof " Resort Facility" in DCC
+18.04.030andaddnewsubsection (J) in DCC18.110.060toprovideforlanddivisionsandzerolotline
+subdivisionsin theResortCommunityZone; and
+WHEREAS, theproposedamendmentswerereviewedbytheDeschutesCountyPlanningCommissionin apublichearingonJune9, 2005; and
+WHEREAS, thePlanningCommissionunanimouslyrecommendedapprovalof theamendmentsas
+proposed; and
+WHEREAS, theBoardofCountyCommissionersconductedapublichearingtoreviewthisrequeston
+August 10, 2005; and
+WHEREAS, theapplicantinthismatterhasrequestedadoptionoftheamendmentsbyemergencyclauseduetotimeconstraintsassociatedwitharelatedrealestatetransaction; now, therefore,
+THEBOARDOFCOUNTYCOMMISSIONERSOFDESCHUTESCOUNTY, OREGON, ORDAINSas follows:
+Section 1.
+AMENDMENT. DCC18.04.030, Definitions, is amendedto readasdescribedin Exhibit
+A,"
+attachedheretoandbythisreferenceincorporatedherein, withnewlanguageunderlinedandlanguageto
+bedeletedin 4r;kethfouo.
+Section 2. ADDING. DCC 18.110.060(J) is herebyaddedto readas describedin Exhibit `B,"
+attachedheretoandby thisreferenceincorporatedherein.
+PAGE1OF2 - ORDINANCENO. 2005-041(08/24/05)
+Section 3. EMERGENCY. This Ordinancebeingnecessaryfor the immediatepreservationof the
+publicpeace, healthandsafety, anemergencyisdeclaredto exist, andthisOrdinancetakeseffectonitspassage.
+DATED this dayof dt.
+Sj-_ ,
+2005.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, O ON
+TOM EWOLF, Chair
+DALY, Commissioner
+R. LUKE, Commissioner
+Date of 1StReading: c; Adayof cJl. X13 , 2005.
+Dateof 2ndReading: QA- day of lJlt t 11LSt , 2005.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Tom DeWolf ? C
+Michael M. Daly
+Dennis R. Luke C
+Effective date: ' A 'dayof 2005.
+ATTEST:
+Rlclolrd ingcret
+PAGE 2 OF 2 - ORDINANCE NO. 2005- 041( 08/ 24/ 05)
+EXHIBIT " A"
+18. 04. 030. Definitions.
+Resort facility" means a building or series
+of buildings, portions of which are under
+common ownership which provide
+interrelated visitor and vacation services and
+are intended to serve the community and the
+travel needs of people traveling through the
+area. Typical uses include, but are not limited
+to: overnight accommodations, meeting
+rooms, convention and banquet facilities,
+administrative facilities, maintenance and
+storage facilities, resort recreation facilities,
+and restaurant and retail uses which are
+customarily appurtenant to such uses.
+Ord. 2005- 041 § 1, 2005- 041; Ord. 2004-
+024 § 1, 2004; Ord. 2004- 001 § 1, 2004; Ord.
+2003- 028 § 1, 2003; Ord. 2001- 048 § 1,
+2001; Ord. 2001- 044 § 2, 2001; Ord. 2001-
+037 § 1, 2001; Ord. 2001- 033 § 2, 2001; Ord.
+97- 078 § 5, 1997; Ord. 97- 017 § 1, 1997;
+Ord. 97- 003 § 1, 1997; Ord. 96- 082 § 1,
+1996; Ord. 96- 003 § 2, 1996; Ord. 95- 077 §
+2, 1995; Ord. 95- 075 § 1, 1975; Ord. 95- 007
+1, 1995; Ord. 95- 001 § 1, 1995; Ord.
+94- 053 § 1, 1994; Ord. 94- 041 §§ 2 and 3,
+1994; Ord. 94- 038 § 3, 1994; Ord. 94- 008 §§
+1, 2, 3, 4, 5, 6, 7 and 8, 1994; Ord. 94-001 §§
+1, 2, and 3, 1994; Ord. 93- 043 §§ 1, lA and
+113, 1993; Ord. 93- 038 § 1, 1993; Ord.
+93- 005 §§ 1 and 2, 1993; Ord. 93- 002 §§ 1, 2
+and 3, 1993; Ord. 92- 066 § 1, 1992; Ord.
+92- 065 §§ 1 and 2, 1992; Ord. 92- 034 § 1,
+1992; Ord. 92- 025 § 1, 1992; Ord. 92- 004 §§
+1 and 2, 1992; Ord. 91-038 §§ 3 and 4, 1991;
+Ord. 91- 020 § 1, 1991; Ord. 91- 005 § 1,
+1991; Ord. 91- 002 § 11, 1991; Ord. 90- 014 §
+2, 1990; Ord. 89- 009 § 2, 1989; Ord. 89- 004
+1, 1989; Ord. 88- 050 § 3, 1988; Ord. 88-
+030 § 3, 1988; Ord. 88- 009 § 1, 1988; Ord.
+87- 015 § 1, 1987; Ord. 86- 056 § 2, 1986;
+Ord. 86- 054 § 1, 1986; Ord. 86- 032 § 1,
+1986; Ord. 86- 018 § 1, 1986; Ord. 85- 002 §
+2, 1985; Ord. 84- 023 § 1, 1984; Ord. 83- 037
+2, 1983; Ord. 83- 033 § 1, 1983; Ord. 82-
+013 § 1, 1982)
+Page 1 of 1 - EXHIBIT " A" TO ORDINANCE NO. 2005-041 (08/24/05)
+EXHIBIT " B"
+18. 110. 060. Development standards.
+A. Setbacks.
+1. Single -Family Dwelling. The
+following setbacks shall be
+maintained for single- family
+dwellings and accessory uses on
+residential parcels:
+a. Front Yard. The front yard shall
+be a minimum of 20 feet at
+Black Butte Ranch and The Inn
+of the Seventh Mountain, and 30
+feet at Widgi Creek.
+b. Side Yard. The side yard shall
+be a minimum of 10 feet, except
+on the street side of a corner lot
+the side yard shall be a minimum
+of 20 feet.
+c. Rear Yard. The rear yard shall
+be a minimum of 20 feet.
+d. In Black Butte Ranch a lesser
+setback shall be approved based
+on written approval from the
+Black Butte Ranch Architectural
+Review Committee ( ARC) or its
+successor. The granting of a
+lesser setback based on
+documented ARC approval does
+not constitute a land use decision
+by the County.
+2. All Other Uses. The following
+setbacks shall be maintained for
+buildings and structures used for
+purposes other than a single-family
+dwelling and residential accessory
+uses, unless a greater setback is
+required pursuant to site plan review
+or other applicable provisions of
+DCC Title 18:
+a. Front Yard. The front yard shall
+be a minimum of 10 feet.
+b. Side Yard. Zero feet except that,
+when a side lot line is adjoining
+a lot used for single-family
+residential purposes, the side
+yard shall be a minimum of 10
+feet and shall be increased by
+one-half foot for each foot by
+which the building height
+exceeds 20 feet.
+c. Rear Yard. Zero feet except that,
+when a rear lot line is adjoining a
+lot used for residential purposes,
+the rear yard shall be a minimum
+of 10 feet and shall be increased
+by one-half foot for eachfoot by
+which the building height
+exceeds 20 feet.
+d. Perimeter Setback. All uses in
+the Black Butte Ranch Surface
+Mining or Utility Limited Use
+Combining Districts shall
+maintain a minimum setback of
+50 feet from a perimeter
+boundary adjacent to land zoned
+for forest uses.
+e. Forest Zone Setback. New uses
+adjacent to land zoned Forest
+shall have a minimum setback of
+20 feet from the Forest zone
+boundary.
+B. Other Setbacks. The following setbacks
+shall be maintained for buildings: and
+structures, based on the applicable
+provision( s) of DCC Title 18:
+1. Solar Setback. The setback from. the
+north lot line shall meet the solar
+access setback requirements in DCC
+18. 116. 180 for south roof protection.
+2. Waterway Setback. All structures,
+buildings or similar permanent
+fixtures shall be set back from the
+ordinary high water mark along all
+streams and lakes a minimum of 100
+feet measured at right angles to the
+ordinary high water mark.
+3. Building Code Setbacks. In addition
+to the setbacksset forth herein, any
+greater setbacks required by
+applicable building or structural
+codesadoptedby the Stateof Oregon
+and/ or Deschutes County under DCC
+15. 04 shall be met.
+4. Rimrock Setbacks. Setbacks from
+rimrocks shall be maintained as
+provided in DCC 18. 84 or DCC
+18. 116. 160, whichever is applicable.
+5. Scenic Waterway. The applicable
+provisions in DCC 18. 84 shall be
+met.
+Page 1 of 3 - EXHIBIT " B" TO ORDINANCE NO. 2005- 041 ( 08/ 24/ 05}
+EXHIBIT " B"
+6. Floodplain. The applicable
+provisions in DCC 18. 96 shall be
+met.
+C. Building Height.
+1. Resort Facility and Resort Utility
+Building. No resort facility or resort
+utility building or structure shall be
+erected or enlarged to exceed 40 feet,
+or 30 feet when the provisions in
+DCC 18. 84. 080 are applicable,
+unless a variance for a greater height
+is approved. For the purposes of
+DCC 18. 110. 060( C)( 1) an
+application for a height variance may
+be granted provided . the Planning
+Director or Hearings .Body makes
+only the following findings:
+a. The proposed height does not
+exceed the height limitation of
+the appropriate fire agency's
+either Black Butte Ranch Rural
+ProtectionFireDistrictor City of
+Bend Fire Department) fire
+fighting equipment, considering
+the evacuation of the building' s
+occupants and the fire fighting
+requirements of the agency; and
+b. The proposed additional height
+will not adversely impact scenic
+views from adjoining residences
+or adjoining residential building
+sites.
+c. Approval of a height variance in
+a state scenic waterway shall be
+conditioned upon receipt of
+approval from the Oregon Parks
+and Recreation Department.
+2. All OtherBuildings. No buildingor
+structure used for purposes other
+thana resortfacility or resortutility,
+including a single-family dwelling,
+shall be erected or enlarged to exceed
+30 feet in height, except as provided
+by DCC 18.120.040.
+3. Scenic Waterway. The applicable
+provisions in DCC 18. 84 shall be
+met.
+D. Lot Coverage.
+1. Single-family dwelling. The
+maximum lot coverage by a single -
+0
+family dwelling and accessory
+structures shall be 40 percent of the
+total lot. In Black Butte Ranch a
+greater lot coverage shall be
+approved based on documentation of
+written approval from the Black
+Butte Ranch Architectural Review
+Committee ( ARC) or its successor.
+The granting of greater lot coverage
+based on documented ARC approval
+does not constitute a land use
+decision by the County.
+All Other Buildings. The maximum`
+lot coverage by buildings and
+structures used for purposes other
+than a single-family dwelling shall
+be determined by the spatial "
+requirements for yard setbacks,
+landscaping, parking and utilities.
+E. Off -StreetParkingandLoading. ,
+r
+1. Single -Family Dwelling. Off- street,,
+parking shall be provided for. a
+minimum of two motor vehicles per
+dwelling.
+2. All Other Uses. Off- street parking
+and loading shall be provided subject
+to the requirements of DCC 18. 116.
+F. OutdoorLighting All outdoor lighting
+shall be installed in conformance with
+DCC 15. 10.
+G. Excavation, Grading and Fill and
+Removal. Excavation, grading and fill
+and removal within the bed and banks of
+a stream or lake, or in a wetland shall be
+subject to DCC 18. 128. 040( W), unless
+the activity meets the exception
+provisions in DCC 18. 120. 050.
+H. Signs. All signs shall be constructed in
+accordance with the provisions of DCC
+15. 08.
+I. Lot Requirements.
+1. Single -Family Dwelling. A new lot
+for a single-family dwelling served
+by a community or public sewerage
+system shall have a minimum area of
+6,000 square feet and a minimum
+average width of 60 feet, except that
+a corner lot shall have a minimum
+Page 2 of 3 - EXHIBIT `B" TO ORDINANCENO. 2005-041 (08/24/051
+EXHIBIT ` B"
+average width of 70 feet. A new lot
+for a single-family dwelling served
+by an on-site septic systemshall have
+a minimum area of 22, 000 square
+feet and a minimum average width of
+100 feet. Any new residential lot
+shall have a minimum width at the
+street of 50 feet, except for a lot on a
+cul- de- sac, in which case the
+minimum width shall be 30 feet.
+2. All Other Uses. Every lot created
+for purposes other than residential
+use shall. have dimensions for lot
+area, width and depth. necessaryfor
+yard setbacks, landscaping, parking
+and utilities for the proposed use.
+J. Land Divisions.
+1. General. Notwithstanding any
+provision to the contrary contained herein.
+or in other parts of the County Code,
+roads within the Resort Communi , Zone
+may be private roads and new lots or
+parcels may be created that have access
+from, and frontage on -private roadsonly.
+These roads must meet ' the private road
+standards of DCC Title 17, and are not
+subject to public road standards of DCC
+Title 17. An agreement acceptable to the
+County Road Department and County
+Legal Counsel shall be required for the
+maintenance of new private roads.
+2. Zero Lot Line Subdivision.
+Notwithstanding any provision to the
+contrary contained herein, zero lot line
+subdivisions for single- family residences
+shall be allowed in the Resort
+Community Zone in accordance with the
+provisions of DCC Chapter 17. 20. Zero
+lot line subdivisions are not subject to the
+setback provisions of 18. 110. 060( A),
+solar setback standards of
+18. 110. 060( B)( 1), lot coverage
+provisions of 18. 110. 060( D) or lot
+requirements of 18. 110. 060( I)( 1).
+Ord 2005- 041 § 2, 2005; Ord. 2001- 048 § 2,
+2001)
+Page 3 of 3 - EXHIBIT ` B" TO ORDINANCE NO. 2005- 041 ( 08/ 24/ 05}

@@ -1,0 +1,116 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2009-009
+title: 'Ordinance No. 2009-009'
+doc_type: ordinance
+citation: 'Ordinance No. 2009-009'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617027845_2009-1219-Ordinance%20No.%202009-009%20Recorded%205_20_2009.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 490c21a4bfb44de492b6fb8d79a2a7c884e004a4ba31b0c1864458633ef69420
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2009-009 (Ordinance No. 2009-009)
+
+## At a glance
+
+Ordinance No. 2009-009 — orders of Deschutes County. 2 pages.
+
+## Full text
+
+REVIE
+NANCYUBLANKENSHIP,F
+DS
+COUNTY CLERK
+Y4
+COMMISSIONERS' JOURNAL
+0520/200903; 12;43 PM
+LEGAL COUNSEL
+IIIIIIIIIIIII IIIIIIIIIIIII
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Chapter 8. 20, Open
+Burning, and Declaring an Emergency. * ORDINANCE NO. 2009- 009
+WHEREAS, the existing Deschutes County Code 8. 20 made it legal to conduct open burning on
+unprotected lands within the County long after the normal declared fire season opening with no provisions for
+contacting the appropriate fire districts or municipalities to ascertain whether fire weather conditions permitted
+open burning ; and
+WHEREAS, with the revisions in Exhibit 1 the new provisions will be consistent with the fire districts,
+municipalities, federal and state agencies to regulate open burning in the unprotected lands within Deschutes
+County; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 8. 20 is amended to read as described in Exhibit " 1," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+stfilethr-etigh.
+Section 2. EMERGENCY. This Ordinance being necessary for the immediate preservation of the
+public peace, health and safety, an emergency is declared to exist, and this Ordinance takes effect on its passage.
+Dated this ~'of , 2009 BOARD OF COUNTY COMMISSIONERS
+OFJ) ES.CHUTES COUNTY, OREGON
+T
+DENNIS R. LUKE, Vice Chair
+ATTES
+Recording Secretary L
+ALAN UNGER, ommissioner
+Date of 1stReading: C day of ' 2009.
+Date of 2°d Reading: day of , 2009.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Tammy Baney
+Dennis R. Luke
+Alan Unger
+Effective date: 1 ~ dayof Y V 52009.
+PAGE I OF I - ORDINANCE NO. 2009- 009 ( 6/ 1/09)
+Chapter 8. 20. OPEN BURNING
+8. 20.010. Open Burning Prohibited- When.
+8. 20.020. Burning Permits- Conditions.
+8. 20.030. Violation-Penalty.
+8. 20.010. Open Burning Prohibited- When.
+A. No person, outside the boundaries of a rural fire protection district or a forest protection district, shall
+cause or permit to be initiated or maintained on his own property, or cause to be initiated or maintained
+on the property of another any open burning of commercial waste, demolition material, domestic waste,
+industrial waste, land clearing debris or field burning from June I st through November 1st of each year
+burn restricted season") unless weather conditions require prohibition of burning prior to June 1, or
+allow resumption of burning prior to Novemberl, as determined by the County Fire Defense Board.
+B. During the burn restricted season the County Fire Defense Board or the Board of a Rural Fire District
+may authorize open burning, provided persons whose property lies outside the boundaries of either a
+rural fire protection district or a city contact in advance the nearest Rural Fire District 24- hour burn
+notification phone number and verify whether open burning is allowed on a particular day, that the
+person complies with the limitations of such allowed burning and possesses a copy of the current open
+burning requirementsissued by the County Fire Defense Board or Rural Fire District.
+Ord. 88- 013 §1, 1988; Ord. 84- 027 §1, 1984; Ord. 84- 009 §1, 1984)
+8. 20.020. Burning Permits- Conditions.
+Notwithstanding DCC 8. 20.010, burning permits may be issued by the Board of County Commissioners, or
+its designeeor designees, if all three of the following conditions are met:
+A. Evidence is presented that the material must be disposed of prior to November 1st, and that no
+satisfactory alternative to burning is available;
+B. Appropriate fire- control measures are provided by the permittee as specified by the burning permit to
+prevent unwanted spreadof the fire;
+C. The appropriate permit is obtained from the State Department of Environmental Quality, if under their
+jurisdiction.
+Ord. 84. 027 §2, 1984; Ord. 84. 009 §2, 1984)
+8. 20.030. Violation- Penalty.
+Violation of DCC 8. 20 is a Class A violation.
+Ord. 2003-021 § 18, 2003; Ord. 84- 027 §3, 1984; Ord. 84- 009 §3, 1984)
+Chapter 8. 20 04/ 2003)

@@ -1,0 +1,1878 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2020-018
+title: 'Ordinance No. 2020-018'
+doc_type: ordinance
+citation: 'Ordinance No. 2020-018'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1619812404_2021-4-Ordinance%20No.%202020-018%20Recorded%20152021.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 5499b07c44a47f7df282c09a933085071cd703a3facbd05246887134349462b1
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.610
+    - ORS 203.045
+    - ORS 215.203
+    - ORS 215.503
+    - ORS 30.930
+    - ORS 636.608
+    - ORS 836.600
+    - ORS 836.608
+    - ORS 836.610
+    - ORS 836.616
+    - OAR 660-012-0060
+    - OAR 660-013-0040
+    - OAR 660-013-0050
+    - OAR 660-013-0100
+    - OAR 660-013-0110
+    - OAR 660-013-0140
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2020-018 (Ordinance No. 2020-018)
+
+## At a glance
+
+Ordinance No. 2020-018 — orders of Deschutes County. 53 pages.
+
+## Full text
+
+( Recorded in Deschutes County
+, Nancy Blankenship, County Clerk
+Commissioners' Journal
+CJ2021-4
+01/05/2021 3:11 :10 PM
+llJ! 111111111111111111111
+For Recording Stamp Only
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County Code *
+Title 18, Chapter 18.76, Airport Development ("AD") *
+Zone, and Chapter 18.116, Supplementary Provisions, *
+to streamline review of personal use hangars; reduce *
+the front and rear yard setbacks; adopt Oregon *
+Administrative Rule ("OAR") and Federal Aviation *
+Administration ("FAA") definitions; and allow *
+parking in the front yard.
+ORDINANCE NO. 2020-018
+WHEREAS, the City of Bend ("City") applied under land use file number 247-20-000482-TA to amend
+Chapter 18.76 of Title 18, Deschutes County Zoning, to streamline review of personal use hangars; reduce the
+front and rear yard setbacks; adopt OAR definition of "customary and usual aviation-related activities"; and adopt
+the FAA definition of "fixed based operator" and "hangar"; and
+WHEREAS, the City applied under said land use file to amend Chapter 18.116 of Title 18, Deschutes
+County Zoning, allow parking in the front yard in the AD Zone; and
+WHEREAS, after notice was given in accordance with applicable law, a public hearing was held on
+September 15, 2020, before the Deschutes County Hearings Officer; and
+WHEREAS, on November 10, 2020, the Hearings Officer approved the amendments and recommended
+the Board adopt an ordinance; and
+WHEREAS, pursuant to Deschutes County Code 22.28.030(B), the Board shall, in the absence of an
+appeal adopt the Hearings Officer's decision; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 18.76. Airport Development Zone, is amended to read as described in
+Exhibit "A", attached hereto and by this reference incorporated herein, with new language underlined and
+language to be deleted in slrikethreagh.
+Section 2. AMENDMENT. DCC 18.116. Supplementary Provisions, is amended to read as described in
+Exhibit "B," attached hereto and by this reference incorporated herein, with new language underlined and
+language to be deleted in slrikethreagh.
+PAGE 1 OF 2 -ORDINANCE NO. 2020-018
+\
+Section 3. FINDINGS. The Board adopts as its findings, Exhibit "C," the Hearings Officer's decision,
+attached hereto and by this reference incorporated herein.
+Dated this c30 of })u.l,J24,, 2020 BOARD OF COUNTY COMMISSIONERS
+OFDESCHUTES COUNTY,OREGON
+Date of 1st Reading: 16th day of December, 2020.
+Date of 2nd Reading: 30th day of December, 2020.
+��
+PATTI ADAIR, Chair
+Record of Adoption Vote:
+Commissioner
+Patti Adair
+Anthony DeBone
+Yes
+i_ ±_
+Philip G. Henderson 1::::-
+No Abstained Excused
+Effective date:3O day of'4:a.-tc.-L , 2021.
+PAGE 2 OF 2 -ORDINANCE NO. 2020-018
+ss10ner
+Chapter 18.76. AIRPORT DEVELOPMENT ZONE -A-D
+18.76.010. Purpose.
+· 18.76.020. Standards in All Districts.
+18.76.030. Uses Permitted Outright.
+18.76.040. Conditional Uses.
+18.76.050. Use Limitations.
+18.76.060. Dimensional Standards.
+18.76.070. Airfield Operations District (AOD).
+18.76.080. Aviation Support District (ASD).
+18.76.090. Aviation-Related Industrial District (ARID).
+18.76.100. Design and Use Criteria.
+-18.76.110. Additional Requirements.
+18.76.010. Purpose.
+The purpose of the Airport Development (AD) Zone is to allow for development compatible with ongoing
+airport use consistent with the most recently adopted Deschutes County Year ™Comprehensive Plan and
+the .i.994--most recently approved Bend Airport Master Plan (as amended by a 2002 supplement), while
+providing for public review of proposed development likely to have significant impact on surrounding lands.
+The AD Zone is composed of three separate zoning districts, each with its own set of allowed uses and
+distinct regulations, as further set forth in DCC 18.76.
+(Ord. 2020-018 §1. 2020: Ord. 2003-036 §2, 2003; Ord. 91-020 §1, 1991)
+18.76.015. Definitions.
+The following definitions apply only to Chapter 18_76.
+"Customary and usual aviation-related· activities" include, but are not limited to, takeoffs, landings, aircraft
+hangars, tiedowns, construction and maintenance of an:port facilities, fixed-base operator facilities, a
+residence for an an:port caretaker or security officer, and other activities incidental to the normal operation
+of an an:port. Residential, commercial, industrial, manufacturing; and other uses, except as provided in this
+rule, are not customary and usual aviation-related activities and may only be authorized pursuant to OAR
+660-013-0110.
+"Fixed�base operator or FBO" means a commercial business granted the right by the an:port sponsor to
+operate on an an:port and provide aeronautical services such as fueling, hangaring, tie-down and parking,
+aircraft rental, aircraft maintenance, flight instruction, etc.
+"Hangar" means an airport structure intended for the following uses:
+A. Storage of active aircraft.
+B. Shelter for maintenance, repair, or refurbishment of aircraft, but not the indefinite storage of non-
+operational aircraft.
+· ·
+C. Construction of amateur-built or kit�built aircraft
+D_ Storage of aircraft handling equipment, e.g., tow bar, glider tow equipment, workbenches, and tools and
+materials used to service, maintain, repair or outfit aircraft: items related to ancillary or incidental uses
+that do not affect the hangars' primary use.
+E. Storage of materials related to an aeronautical activity, e.g., balloon and skydiving equipment, office
+equipment, teaching tools, and materials related to ancillary or incidental uses that do not affect the
+Chapter 18.76 l (�12/2020)
+hangars' primary use; storage of non-aeronautical items that do not interfere with the primary
+· aeronautical pm:pose of the hangar (for example, televisions, furniture).
+F. A vehicle parked at the hangar while the aircraft usually stored in that hangar is flying, subject to local
+airport rules and regulations.
+G. A hangar may include restrooms, pilot lounge, offices, briefing rooms, and crew quarters.
+(Ord. 2020-018 §1, 2020)
+18.76.020. Standards in All Districts.
+A. Approval Required. Any use in an AOD, ASP, or ARID District shail be subject to DCC 18.124.
+1. Hangars not associated with a commercial or industrial use are exempt from DCC 18.124.
+2. Airfield improvements including but not limited to runways, taxiways, taxilanes, aircraft
+parking aprons, service roads, navigational aids, and runway and safety facilities required by
+the Federal Aviation Administration (FAA) are not subject to County review.
+B. Solar Setbacks. The setback from the north lot line shall 11)-eet the solar setback requirements of DCC
+18.116.180.
+C. Building Code Setbacks. In addition to the setbacks set forth herein, any greater setbacks required by
+applicable building or structural codes adopted by the State of Oregon and/or Deschutes County under
+DCC 15 .04 shall be met.
+D. Off-Street Parking and Loading. Off-street parking and loading shall be provided subject to the parking
+provisions of DCC 18.116.
+E. Outdoor Lighting. All outdoor lighting shall be installed in conformance with DCC 15.10.
+F. Excavation, Grading and Fill and Removal. Excavation, grading and fill and removal within the bed
+and banks of a stream or river or in a wetland shall be subject to DCC 18.120.050 ap.d/or_ DCC
+18.128.270.
+G. Signs. All signs shall be constructed in accordance with the provisions of DCC 15.08.
+H. Notification. Deschutes County shall provide notification of all land use applications in an AD zone to
+the airport manager owner's designee in accordance with the provisions of DCC Title 22.
+(Ord. 2020-018 §1, 2020; Ord. 2003-036 §2, 2003)
+18.76.030. Uses Permitted Outright.
+The following uses and their accessory uses are permitted outright in all of the Airport Districts:
+A. Class I and II road or street project subject to approval as part of a land partition, subdivision or subject
+to the standards and criteria established by DCC 18.116.230.
+B. Class ID road or street project.
+C. Operation, maintenance, and piping of existing irrigation systems operated by an Irrigation District
+except as provided in DCC 18.120.050.
+D. Farm use as defined in DCC Title 18.
+E. Customary_ and usual aviation-related activities.
+F. Hangars are subject to the standards and criteria established by DCC 18.76.105.
+(Ord. 2020-018 §1, 2020; Ord. 2003-036 §2, 2003; Ord. 2001-039 §10, 2001; Ord. 2001-016 §2, 2001; Ord.
+93-043 §11, 1993; Ord. 91-020 §1, 1991)
+18.76.040. Conditional Uses.
+The following uses may be allowed in all of the Airport Districts subject to DCC 18.128.
+A. Farm accessory buildings and uses, excluding residential uses.
+B. Utility facility necessary for public service except landfills.
+C. Excavation, grading and fill and removal within the bed and banks of a stream or river or in a wetland
+subject to DCC 18.120.050 and/or DCC 18.128.270.
+(Ord. 2003-036 §2, 2003; Ord. 2001-039 §10, 2001; Ord. 2001-016 §2, 2001; Ord. 91-038 §1, 1991)
+Chapter 18.76 2 (�12/2020)
+18.76.050. Use Limitations.
+The following limitations and standards shall apply to all permitted uses in the Airport Districts:
+A. The height of any plant growth or structure or part of a structure such as chimneys, towers, antennas,
+power lines, etc., shall not exceed 35 feet.
+B. In approach zones beyond the clear zone areas, no meeting place designed to accommodate more than
+25 persons for public or private purposes shall be permitted.
+C. All parking demand created by any use permitted by DCC 18.76 shall be accommodated on the subject
+premises entirely off-street.
+D. No use permitted by DCC 18.76 shall require the backing of traffic onto a public or private street or
+road right of way.
+E. No power lines shall be located in clear zones.
+F. No use shall be allowed which is likely to attract a large quantity of birds, particularly birds which
+normally fly at high altitudes.
+(Ord. 2003-036 §2, 2003; Ord. 91-020 §1, 1991)
+18.76.060. Dimensional Standards.
+The following dimensional standards shall apply in the Airport Districts:
+A. The minimum lot size shall be determined subject to the provisions of DCC 18.76 relative to setback
+requirements, off-street parking and loading requirements, lot coverage limitations or as deemed
+necessary by the Planning Director or Hearings Body to maintain air, land and water resource quality,
+protect adjoining and area land uses, and to ensure resource carrying capacities are not exceeded.
+B. An airport related use or structure located adjacent to or across the street from an existing residential
+use or platted residential lot shall not exceed 70 percent lot coverage and shall require off-street parking
+and loading areas.
+C. The minimum setback between any structure and an arterial or collector right of way shall be -l-00--50
+feet. The minimum setbaek between aa-y straeture and a eolleeter right of v;ey shall be 50 feet. The
+minimum setback between any structure and all local streets shall be 20 feet.
+D. The minimum setback between any structure and a property line adjoining a residential use or lot shall
+be 50 feet.
+E. The minimum lot frontage shall be 50 feet.
+F. The minimum side setback between any structure and a property line shall be three feet, and the
+minimum total of both side setbacks shall be 12 feet.
+G. The minimum rear setback between any structure and a rear property line shall be .§G..20 feet.
+H. The minimum setback from internal airport streets, access roads, and drives shall be 10 feet from the
+edge of pavement.
+(Ord. 2020-018 §1, 2020: Ord. 2003-036 §2, 2003; Ord. 94-008 §24, 1994; Ord. 91-020 §1, 1991)
+18.76.070. Airfield Operations District (AOD).
+Uses Permitted Outright. The uses permitted outright are those listed under DCC 18.76.030.The follow.ng
+uses and their aeeessory uses are permitted outright:
+It Roowey, taxiway, serviee road, fuel storage and sales and· emergeaey repair.
+B. foeilities appro=ved or mandated by the FAA or Oregon State Aeronauties Division speeifieally
+supporting a-irport operations.
+(Ord. 2020-018 §1, 2020; Ord. 2003-036 §2, 2003)
+18.76.080. Aviation Support District (ASD).
+A. Uses Permitted Outright. The ·uses permitted -outright are those listed under DCC 18.76.030.+he
+following uses and their aeeessory uses are permitted outright:
+1. Ram;ey, taxiway, serviee road, fuel storage and sales and emergeaey repair.
+Chapter 18.76 3 (�12/2020)
+2. Facilities approved or mandated by the FA.A or Oregon State Aeronautics Division.
+3. Related uses which are oostm:narily appurteiiam: to airports, i-Hcludifl:g but not limited to hangars,
+tie down areas and parking facilities.
+B. Conditional Uses Pennitted. The following conditional uses may be pennitted subject to DCC 18.128
+and a conditional use pennit:
+1. Restaurant, which may include a bar or cocktail lounge as an accessory use. One restaurant per
+airport. Restaurant, including any accessory use, to be 2,500 square feet or less in size.
+2. Airport or aviation-related businesses that benefit from an on-airport location.
+(Ord. 2020-018 §1, 2020; Ord. 2004-013 §8, 2004; Ord. 2003-036 §2, 2003)
+18.76.090. Aviation-Related Industrial District (ARID).
+Uses Pennitted Outright. The uses pennitted outright are those listed under DCC 18.76.030.The follo•.ving
+uses and their accessory uses are penmtted outright:
+A Runway, twciway, service road, fuel storage and sales and emergency repair.
+B. Facilities appro,.•ed or mandated by the FAA or Oregoff State Aeronautics Division.
+C. R�lated uses vAlich are customarily appurtenant to airports, including but not limited to hangars,
+tie down areas and parking facilities.
+:OA. Airport or aviation-related commercial or industrial businesses that benefit from an on-airport
+location.
+(Ord.,2020-018 §1, 2020; Ord. 2003-036 §2, 2003)
+18.76.100. Design and Use Criteria.
+The following dimensional standards shall apply in the Airport Districts:
+The Planning Director or Hearings Body shall take into account the impact of any proposed conditional
+use within the AD Zone on nearby residential and commercial uses, and on the capacity of transportation
+and other public facilities and services. In approving a proposed conditional use, the Planning Director or
+Hearings Body shall find that:
+A. The proposed use is in compliance with the Comprehensive Plan, including the current version of the
+adopted Bend Airport Master Plan.
+B. The proposed use is in compliance with the intent and provisions of DCC Title 18.
+C. Any adverse social, economical, physical or environmental impacts are minimized.
+D. The proposed use is not sensitive to noise of the character anticipated by the current and expected noise
+level contours of the airport.
+E. The proposed use is compatible with adjacent agricultural and residential uses.
+F. There are sufficient public facilities and services to support the proposed use.
+G. The location and site design of the proposed facility will not be hazardous to the safety and general
+welfare of surrounding properties, and that the location will not unnecessarily restricf existing and
+future development of surrounding lands as indicated in the Comprehensive Plan.
+H. The use shall make the most effective use reasonably possible of the site topography, existing
+landscaping and building placement so as to preserve existing trees and natural features, preserve vistas
+and other views from public ways, minimize visibility of parking, loading and storage areas from public
+ways and neighboring residential uses, and minimize intrusion into the character of existing
+developments and land uses in the immediate vicinity of the proposed use.
+(Ord. 2018-006 §9, 2018; Ord. 2003-036'§2, 2003; Ord. 91-020 §1, 1991)
+18.76.105. Hangars.
+A. Review Process.
+Chapter 18.76 4 (�12/2020)
+I. Hangars, as defined in section 18.76.015, shall be processed as a development"action pursuant to
+DCC 22.16 and are not subject to DCC 18.124.
+· ·
+2. Hangars intended to sup_port fixed based operators, flight schools, paint shops, and other
+commercial and industrial uses are subject to DCC 18.124.
+B. Hangar Approval Criteria.
+1. . The location and height of proposed structures must be clear of FAA protected surfaces including
+runway safety area, runway protection zone, runway object free area, taxiway/taxilane object free
+area, FAA Part 77 surfaces, FAA TERPS surfaces, and other clear areas identified on the currently
+adopted Airport Layout Plan.
+2. No above ground utility installations shall be allowed
+3. All exterior lighting shall be shielded so that direct light does not project off site pursuant to DCC
+15.10.
+4. . Parking Requirement.
+a. Hangars under 10,000 square feet of floor space are not subject to the parking requirement
+under DCC 18.-116.030(8).
+b. Hangars greater than or equal to 10,000 square feet of floor space are subject to the parking
+requirement under DCC 18.116.030(8). This required vehicle parking can be accommodated
+inside the hangar.
+(Ord. 2020-018 §1, 2020)
+18.76. 110. Additional Requirements.
+As a condition of approval for any conditional use proposed within the AD Zone, the Planning Director or
+Hearings Body may require:
+A. An increase in required setbacks.
+B. Additional off-street parking and loading facilities and building standards.
+C. Limitations on signs or lighting, hours of operation, points of ingress and egress and building heights.
+D. Additional landscaping, screening and other improvements.
+E. Glare-resistant materials in construction or other methods likely to reduce operating hazards.
+F. Other conditions considered necessary to achieve compliance and policies of the Comprehensive Plan.
+(Ord. 2003-036 §2, 2003; Ord. 91-020 §1, 1991; Ord. 80-221 §1, 1980)
+Chapter 18.76 5 (-O&mH-& 12/2020)
+Chapter 18.116. SUPPLEMENTARY PROVISIONS
+18.116.010.
+18.116.020.
+18.116.030.
+18.116.031.
+18.116.035.
+18.116.036
+18.116.040.
+18.116.050.
+18.116.070.
+18.116.080.
+18.116.090.
+Authorization of Similar Uses.
+Clear Vision Areas.'
+Off-Street Parking and Loading.
+Bicycle Parking.
+Bicycle Commuter Facilities
+Special Parking Provisions for the Sunriver Town Center District
+Accessory Uses.
+Manufactured Homes.
+Placement Standards for Manufactured Homes.
+Manufactured Home or RV as a Temporary Residence on an Individual Lot.
+A Manufactured Home or RV as a Temporary Residence for Medical
+Condition.
+18.116.095. Recreational Vehicle as a Temporary Residence on aµ Individual Lot.
+18.116.100. Building Projections.
+18.116.200. Repealed ..
+18.116.120.. Fences.
+18.116.130. Hydroelectric Facilities.
+18.116.140. Electrical Substations.
+18.116.150. Endangered Species�
+18.116.160. Rimrock Setbacks Outside of LM Combining Zone.
+18.116.170. Solar Height Restrictions .
+. 18.116.180. · Building Setbacks for the Protection of Solar Access.
+18.116.190. Solar Access Permit'.
+18.116.200. Repealed.
+18.116.210. Residential Homes and Residential Facilities .
+. 18.116.215. Family Child Care Provider.
+18.116.220. Conservation Easements on Property Adjacent to Rivers and
+Streams-Prohibitions.
+Standards for Class I and II Road Projects.
+Protection of Historic Sites.
+Wireless Telecommunications Facilities.
+Rock Crushing Outside the SM Zone.
+Conducting Filming Activities in All Zones.
+Home Occupations.
+Amateur Radio Facilities
+Wind Energy Systems that Generate Less than 100 kW
+Traffic Impact Studies
+Medical Marijuana Dispensary
+Marijuana Production, Processing, and Retailing
+18.116.230.
+18.116.240.
+18.116.250.
+18.116.260.
+18.116.270.
+18.116.280.
+18.116.290.
+18.116.300.
+18.116.310.
+18.116.320.
+18.116.330
+18.116,340
+18.116.350
+18.116.360
+Marijuana Production Registered by the Oregon Health Authority (OHA)
+Accessory Dwelling Units in RRlO and MUA Zones
+Nursery Schools
+18.116;030. Off-street Parking and Loading.
+E. General Provisions. · Off-Street Parking.
+5. Parking, Front Yard. Required parking and loading spaces for multi-family dwellings or
+commercial and industrial uses shall not be located in a required front yard, except in the
+Sunriver UUC Business Park (BP) District� aoo--the La Pine UUC Business Park (LPBP)
+Chapter 18.116 (1412/2020)
+District� and-the LaPine UUC Industrial District (LPI), and the Airport Development (AD)
+Zone, but such space may be located �ithin a required side or rear yard.
+(Ord. 2020-018 §2, 2020: Ord. 2020-001 §14, 2020; Ord. 2010-018 §1, 2010, Ord. 2004-013 §12,
+2004; Ord. 2003-005 §2, 2003; Ord. 2002-015 §2, 2002, Ord. 2001-044 §4, 2001; Ord. 97-078 §6,
+1997; Ord. 96-003 §7, 1996; Ord. 93 063 §2, 1993; Ord. 93 043 §19, 1993; Ord. 91 038 §1, 1991;
+Ord. 91 020 §1, 1991; Ord. 90 017 §1, 1990)
+Chapter 18.116 (1412/2020)
+. Mailing Date:
+Tuesday, November 10, 2020
+DECISION, FINDINGS AND RECOMMENDATION OF
+THE DESCHUTES COUNTY HEARINGS OFFICER
+FILE NUMBERS: 247-20-.000482-TA
+HEARING DATE: September 15, 2020, 6:00 p.m.
+HEARING LOCATION: Videoconference and
+Barnes & Sawyer Rooms
+Deschutes Services Center
+1300 NW Wall Street
+Bend, .OR 97708
+APPLICANTS/OWNERS: . Cio/ of Bend
+AGENTS FOR APPLICANTS: Tom Headley; PE
+Cep.tury West Engineering
+1020 SW Errikay Drive, Ste. 100
+Beµd, OR 97239
+SUBJECT PROPERTIES: The subject properties comprise the Bend Municipal Airport, which
+includes the following addresses and tax lots:
+1. 63066 Powell Butte Highway; tax 'lot 200 on Assessor map 17-13-20;
+2. 63110 Powell Butte Highway; tax lot201 on Assessor map 17-13-20;
+J. 63290 Powell Butte Highway; tax lot 100 on Assessor map:17-13-17C;
+4. 63300 Powell Butte Highway; tax lot 200 on Assessor map 17-13-17; -.
+5. 22550 Nelson Place; tax lot 202 on Assessor map 17.:13-20.
+REQUEST: Applicant requests a text amendment to .Deschutes County Code
+Chapter 18.76, AD Zone, and Chapter 18.116, Supplementary ·Provisions ("Text Amendments"). The
+specific language of the Text Amendments is included as Exhibit A to this decision.
+STAFF CONTACT:
+HEARINGS OFFICER:
+Anthony Raguine, Senior Planner
+Tommy A. Brooks
+SUMMARY OF DECISION: The Hearings Officer finds that the Applicant's request satisfies all
+precedural and substantive criteria necessary to approve the requested Text Amendments. The Hearings
+Officer recommends the Deschutes County Board of County Commissioners adopt the requested Text
+Amendments by ordinance. · -
+Ill
+Ill
+I. APPLICABLE STANDARDS AND CRITERIA
+Deschutes County Code
+Title 18, Deschutes County Zoning Ordinance
+Chapter 18.36, Amendments
+Title 22, Deschutes County Development Procedures Ordinance
+Chapter 22.28, Land Use Action Decisions
+Statewide Planning Goals 1-19
+State Statutes
+ORS 836.610
+ORS.83.6.616
+State Administrative Rules
+OAR Chapter 660, Division 013 ·
+II. BACKGROUND AND PROCEDURE
+A. Background
+The Applicant in this proceeding is the City of Bend ("City"). The City owns and operates the
+Bend Municipal Airport ("Airport") on the subject properties. The subject properties are zoned Airport
+Development (AD) ("AD Zone") and are the only properties in the County with that zoning designation.
+The City is requesting various text amendments·to Deschutes County Code ("DCC" or "Code") Chapter
+18.76, relating to the AD Zone, and Chapter 18.116, relating to various Supplementary Provisions of that
+chapter applicable to the Airport. The Applicant included its requested text amendments in its application,
+and later submitted a revised version of the specific text amendments it seeks. This decision will refer to
+the final version of the text amendments; attached as Exhibit A, as the "Text Amendments."
+As described by the City and County Planning Staff ("Staff'), the proposed amendments to DCC
+18.76 have the following purposes:
+1. Streamline county review of personal use hangars
+2. Revise outright permitted uses to include '.'customary and usual aviation-related activities"
+3-. Aoopt Oregon Administrative Rule ("OAR") definition of "customary and usual aviation­
+related activities"
+4. Adopt Federal Aviation Administration (FAA) definitions of "fixed based operator'' and
+"hangar"
+5. Reduce the arterial roadway (Powell Butte Highway) front yard setback from 100 feet to
+50 feet
+6. Reduce the rear yard setback from 50 feet to 20 feet.
+The City and Staff state that the purpose of the proposed amendment to DCC 18.l 16.030(E)(5) is to allow
+parking in the front yard for uses in the AD Zone.
+B. Notice and Hearing
+On August 12, 2020, the County issued a Notice of Public Hearing ("Notice") for this matter. The
+County mailed the Notice to all owners of property within 250 feet of the AD Zone and the Airport
+boundaries. The County also published the Notice in the Bend Bulletin.
+Pursuant to the Notice, the Hearings Officer presided over the evidentiary hearing on September
+15, 2020 at 6:00 p.m. Due to ongoing restrictions for public gatherings in response to the COVID-19
+outbreak, the hearing was held in part via videoconference. The Hearings Officer, Staff, and two of the
+Applicant's representatives appeared in person.
+At the beginning of the evidentiary hearing, the Hearings Officer noted that this phase of the
+adoption of the Text Amendments would be quasi-judicial in nature and, therefore directed participants to
+confine comments to the approval criteria and standards, and to raise any issues a participant wanted to
+preserve for appeal if necessary. At the conclusion of the evidentiary hearing, the Hearings Officer
+announced that the record would remain open for written materials as follows: (1) any participant could
+submit additional materials until September 29, 2020; (2) any participant could submit additional rebuttal
+materials until October 6, 2020; and (3) the Applicant could submit a final legal argument until October
+13, 2020.
+C. Nature of Decision
+The Text Amendments involve changes only to the language of the DCC. Due to the unique nature
+of the AD Zone, the changes, if adopted, impact only one property owner - the City. This matter therefore
+involves a threshold question of whether the Text Amendments are legislative, or whether they are indeed
+quasi-judicial in nature. As explained below, this is a unique situation in which the Text Amendments are
+both. DCC 18.136.010 governs amendments to the Code:
+DCC Title 18 may be amended as set forth in DCC 18.13 6. The procedures for text
+or legislative map changes shall be as set forth in DCC 22.12. A request by a
+property owner for a quasi judicial map amendment shall be accomplished by filing
+an application on forms provided by the Planning Department and shall be subject
+to applicable procedures of DCC Title 22
+By its express terms, this provision states that the process for a text amendment is as set forth in DCC
+22.12. But DCC 22.12 broadly governs "legislative" procedures. DCC 22.04.020 defines legislative
+changes as follows:
+Legislative changes generally involve broad public policy decisions that apply to
+other than an individual property owner. These include, without limitation,
+amendments to the text of the comprehensive plans, zoning ordinances, or the
+subdivision or partition ordinance and changes in zoning maps not directed at a
+small number of property owners.
+As Staff points out in its Staff Report (attached to this decision as Exhibit B), the Text Amendments
+do not fit squarely within this definition, as they apply to a single property owner. Further, the Code does
+not expressly define "text amendment" in the context of legislative changes or in the context of a quasi­
+judicial land use application, even though DCC 22.12.030 allows an individual to seek legislative changes
+through an application process. Because of that gap, Staff believes the Text Amendments should be
+processed in the same manner as a quasi-judicial plan amendment, which is governed by DCC 22.28.030.
+In support of its conclusion, Staff provides a detailed analysis under Strawberry Hill 4 Wheelers
+v. Benton Co. Bd. of Comm., 287 Or 591, 601 P2d 769 (1979) ("Strawberry Hill 4 Wheelers"). In that
+case, the Oregon Supreme Court set out a multi-factor test to determine what process applies to a land use
+application:
+Generally, to characterize a process as adjudication presupposes that the process is
+bound to result in a decision and that the decision is bound to apply preexisting
+criteria to concrete facts. The latter test alone [applying preexisting criteria to
+concrete facts] proves too much; there are many laws that authorize the pursuit of
+one or more objectives stated in general terms without turning the choice of action
+into an adjudication. Thus a further consideration has been whether the action, even
+when the governing criteria leave much room for policy discretion, is directed at a
+closely circumscribed factual situation or a relatively small number of persons. The
+coincidence both of this factor and of preexisting criteria of judgment has led the
+court to conclude that some land use laws and similar laws imply quasijudicial
+procedures for certain local government decisions. Strawberry Hill 4 Wheelers at
+602-03.
+As Staff correctly notes, the Strawberry Hill 4 Wheelers decision sets out three factors which must be
+considered:
+1. Is the inquiry bound to result in a decision?
+2. Are there preexisting criteria that are applied to concrete facts?
+3. Is the inquiry directed at a closely circumscribed factual situation or a relatively small
+number of persons?
+Although it is a close call, the Hearings Officer agrees with County Planning Staff that the three
+factors listed above, in this case, warrant following a quasi-judicial process for the City's Application, at
+least initially. First, even if the Text Amendments are legislative changes, the Code provides an
+opportunity for an individual to make an application to initiate amendments. Whether the County approves
+or denies that application, a decision will result, so the inquiry is bound to result in a decision. Second,
+although Staff does not make this argument, there are preexisting criteria applicable to the City's request.
+Specifically, as explained in more detail below, ORS 836.610 et seq. and various state administrative rules
+require the County to have certain provisions in its Code relating to the operation of airports. An
+examination of the Text Amendments can determine if those requirements are met. Third, as already
+acknowledged, this matter is directed at a relatively small number of persons because the City is the only
+property owner within the AD Zone and, therefore, the only property owner directly impacted by the Text
+Amendments.
+At the same time, the Text Amendments carry the qualities of a legislative act. The language in
+DCC 22.0_4.020 provides that legislative.changes "generally involve broad public policy decisions that
+apply to other than an individual property owner," ( emphasis added), and that definition does not state
+that decisions applicable to an individual property owner cannot be legislative. Indeed, that Code provision
+goes on to list examples of legislative decisions, including amendments to the text· of zoning ordinances.
+An important component of DCC 22.12 is DCC 22.12.050, addressing final decisions. That Code
+provision states that "[a]ll legislative changes shall be adopted by ordinance." That language does not
+distinguish between purely legislative changes and those legislative changes that may be processed using
+a quasi-judicial process. This makes sense because the DCC is adopted by ordinance, and any changes to ·
+the text of the DCC would be an amendment to that adopted ordinance. It also makes sense because ORS
+215 .503(2) requires that "Ifilll_legislative acts relating to comprehensive plans, land use planning or zoning
+adopted by the governing body of a county shall be by ordinance." (Emphasis added).
+Based on the foregoing, the Hearings Officer finds that, in this case, the ultimate adoption of the
+Text Amendments is a two-step process. The role of the Hearings Officer is to apply the law, not to change
+it. In the frrst step of the process, the Applicant has a right under the DCC to submit and to have considered
+an application to amend the Code's text. This phase of the process is quasi-judicial in nature and it is
+appropriate to have a hearing and to build a record following the principles of a quasi-judicial process. As
+part of that process, the Hearings Officer is addressing the application of the County's exiting laws. The
+second step of the process is for the Deschutes County Board of Commissioners ("Board') to adopt an
+ordinance to incorporate any text amendments to the Code. Amendments to the text of a zoning ordinance
+are a change in the County's law, and only the Board can make such a change. In other words, the Hearings
+Officer is without authority to amend the County's Code. The Hearings Officer, however, can make a
+recommendation to the Board based on what develops in the quasi-judicial phase of the process.
+III. FINDINGS AND CONCLUSIONS
+The specific amendments the Applicant requests to the Code are attached as Exhibit A.
+A. Compliance with Deschutes County Comprehensive Plan
+Finding: The Hearings Officer fmds that the request in the Application is consistent with the
+County's Comprehensive Plan. As noted by Staff, the Comprehensive Plan includes a Transportation
+System Plan ("TSP"), which in turn includes an Airport Plan with. an associated Goal and Policies. The
+Goal and Policies are codified into the DCC, specifically Chapter 18.76. No participant in this proceeding
+identified mandatory approval criteria within the Goal and Policies of the Airport Plan, · or otherwise
+provided evidence or argument that the Text Amendments will violate the Comprehensive Plan.
+Ill
+B. Compliance with Code Provisions
+Section 18.136.010. Amendments.
+DCC Title 18 may be amended as set forth in DCC 18.13 6. The procedures for text or legislative map
+changes shall be as set forth in DCC 22.12. A request by a property owner for a quasi judicial map
+amendment shall be accomplished by filing an application on forms provided by the Planning Department
+and shall be subject to applicable procedures of DCC Title 22.
+Finding: The Hearings Officer finds that the request in the Application satisfies DCC 18.136.010
+because, as explained below, it is consistent with DCC 22.12. No participant in this proceeding provided
+evidence or argument that this provision is not met.
+DCC 22.12
+22.12.010. Hearing Required.
+No legislative change shall be adopted without review by the Planning Commission and a public hearing
+before the Board of County Commissioners. Public hearings before the Planning Commission shall be set
+at the discretion of the Planning Director, unless otherwise required by state law.
+Finding: The Hearings Officer fmds that the request in the Application satisfies DCC 22.12.010. It
+is the Hearings Officer's understanding that, in the case of a text amendment initiated by an applicant (as
+opposed to one initiated by the Board), the Board has delegated to the Hearings Officer the authority to
+conduct the hearing on which the fmal decision will be made. It is also the Hearings Officer's
+understanding that the Planning Director has exercised discretion not to set a hearing before the Planning
+Commission. No participant in this proceeding provided evidence or argument that a different process
+should be followed or that this provision is not met.
+22.12. 020. Notice.
+A. Published Notice.
+1. Notice of a legislative change shall be published in a newspaper of general circulation in the county
+at least 10 days prior to each public hearing.
+2. The notice shall state the time and place of the hearing and contain a statement describing the
+general subject matter of the ordinance under consideration.
+B. Posted Notice. Notice shall be posted at the discretion of the Planning Director and where necessary
+to comply with ORS 203.045.
+C. Individual Notice. Individual notice to property owners, as defined in DCC 22.08.0l0(A), shall be
+provided at the discretion of the Planning Director, except as required by ORS 215.503.
+D. Media Notice. Copies of the notice of hearing shall be transmitted to other newspapers published in
+Deschutes County.
+Finding: The Hearings Officer finds that the request in the Application satisfies DCC 22.12.020. As
+previously noted, the County provided notice of the proposed Text Amendments. No participant in this
+proceeding provided evidence or argument that this provision is not met.
+22.12.030. Initiation of Legislative Changes.
+A legislative change may be initiated by application of individuals upon payment of required fees as well
+as by the Board of Commissioners or the Planning Commission.
+Finding: The Hearings Officer finds that the Application satisfies DCC 22.12.030 because it
+involves legislative changes initiated by the application from the City of Bend.
+22.12.050. Final Decision.
+All legislative changes shall be adopted by ordinance.
+Finding: The Hearings Officer finds that the request in the Application satisfies DCC 22.12.050 if
+the Board makes a final decision by adopting an ordinance with any approved amendments to the DCC.
+The Hearings Officer's decision is therefore a recommendation to the Board on which the Board can take
+final action. The decision and recommendation of the Hearings Officer does not purport to mandate any
+particular proceeding the Board must follow as part of its adoption. No participant in this proceeding
+provided evidence or argument that a different process should be followed or that this provision is not
+met.
+C. Compliance with Statewide Planning Goals and Associated Rules
+Pursuant to 197.835(7), an amendment to a local land use regulation must either be consistent with
+the Comprehensive Plan or, if the Comprehensive Plan does not provide a basis for the amendment, must
+be consistent with the Statewide Planning Goals ("Goals"). Amendments to local land use regulations may
+also be subject to specific administrative rules implementing the Goals. Because the Hearings Officer
+concludes above that the Text Amendments are consistent with the County's Comprehensive Plan, this
+general requirement is met. In the alternative, however, the Hearings Officer finds that the Text
+Amendments are consistent with the Goals. In support of this fmding, the Hearings Officer adopts the
+reasoning set forth in pages 11 through 15 of the Staff Report (Exhibit B) with respect to each Goal, with
+the exception of Goal 12, which is addressed individually below. The Hearings Officer further notes that
+no participant in this proceeding provided evidence or argument that a requirement of any Statewide
+Planning Goal is not met.
+Goal 11 - To provide and encourage a safe, convenient and economic transportation system
+Findings: Goal 12 is implemented, in part, through OAR 660-012-0060 (the Transportation Planning Rule
+or "TPR"). The TPR requires a local government to put in place certain measures if a land use regulation
+"would significantly affect an existing or planned transportation facility."
+The City addressed the TPR in its Application initially through the submittal of a memorandum
+from Transight Consulting (Appendix 3 to the Application) ("Transight Memo"). That memorandum
+presents an analysis of potential impacts to the County's transportation system if the Text Amendments
+are adopted.
+A Senior Transportation Planner for the County reviewed and provided comment on the Transight
+Memo. Those comments were submitted to the record and also are reflected in the Staff Report. In general,
+the County's transportation planner agreed with the methodologies and conclusions in the Transight
+Memo, but also pointed out that the analysis had not yet addressed potential impacts that would result
+from new uses allowed by the Text Amendments. Specifically, the revisions to DCC 18. 76.070 would add
+"customary and usual aviation-related activities" to uses allowed outright, which in turn would add "fixed­
+base operator facilities" as an allowed use. The County's transportation planner noted that changes
+proposed for 18.76.015, defining "fixed-based operator", includes a "commercial business granted the
+right by the airport sponsor to operate on an airport and provide aeronautical services such as fueling,
+hangaring, tie-down and parking, aircraft rental, aircraft maintenance, flight instruction, etc." The
+County's transportation planner expressed a specific desire to have the Applicant document the
+transportation impact of flight schools.
+The City provided additional information regarding potential transportation impacts arising from
+the newly-allowed uses - specifically addressing the addition of flight schools. In another memorandum
+dated September 14, 2020, Transight Consulting provided an analysis describing what it believed to be
+the appropriate classification for flight schools and the corresponding trip generation to be expected from
+that use. In a third memorandum from Transight Consulting, dated September 21, 2020, the Applicant
+refined its analysis and presented a "worst-case" scenario of traffic impacts that could result from new
+flight schools under the Text Amendments. The Applicant's ultimate conclusion was that the Text
+Amendments would result in no more than fifteen (15) weekday p.m. peak hour trips ( adding hangars and
+flight schools), well below the County's significance threshold of 25 or more weekday p.m. peak hour
+trips. Neither the County nor any other participant disputed the conclusions in the Applicant's updated
+analyses.
+Goal 12 is also implemented through the application of OAR 660-013. Specifically, OAR 660-
+013-0160(3) states that compliance with the requirements of OAR 660-013 "shall be deemed to satisfy
+the requirements of Statewide Planning Goal 12 (Transportation) and OAR 660, division 12 related
+Airport Planning". The provisions of OAR 660-013 are addressed below and the Hearings Officer finds
+that the Text Amendments comply with those provisions.
+The Hearings Officer notes that no other participant in this proceeding provided evidence or
+argument regarding the Text Amendments' compliance with the TPR. Based on the foregoing, the
+Hearings Officer finds that the Text Amendments would not significantly affect an existing or planned
+. transportation facility, no additional measures are therefore required, and that Goal 12 and its
+implementing rules are satisfied.
+Ill
+D. Compliance with Other State Statutes and Administrative Rules
+According to the Applicant, the Text Amendments are necessary in part to comply with various
+state laws. These rules are set forth below, followed by the Finding of the Hearings Officer.
+836.610, Local government land use plans and regulations to accommodate airport zones and uses;
+fonding; rules.
+(1) Local governments shall amend their comprehensive plan and land use regulations consistent with
+the rules for airports adopted by the Land Conservation and Development Commission under ORS
+836.616 and 836.619. Airports subject to the rules shall include:
+(a) Publicly owned airports registered, licensed or otherwise recognized by the Department of
+Transportation on or before December 31, 1994, that in 1994 were the base for three or more aircraft;
+FINDING: The Hearings Officer fmds that ORS 836.610(1) imposes a mandatory requirement on the
+County to amend its Code to be consistent with rules for airports adopted by the Land Conservation and
+Development Commission ("LCDC"). Based on the information in this record, the Bend Municipal
+Airport is a publicly owned airport recognized by the Oregon Department of Aviation ("ODA"f No
+other participant in this proceeding provided evidence or argument that this statute is not mandatory.
+The applicable LCDC rules are addressed below.
+836. 616, Rules for airport uses and activities.
+(2) Within airport boundaries established pursuant to commission rules, local government land use
+regulations shall authorize the following uses and activities:
+(a) Customary and usual aviation-related activities including but not limited to takeoffs, landings,
+aircraft hangars, tie-downs, construction and maintenance of airport facilities, fixed-base operator
+facilities and other activities incidental to the normal operation of an airport;
+(b) Emergency medical flight services;
+(c) Law enforcement and firefighting activities;
+( d) Flight instruction;
+(e) Aircraft service, maintenance and training;
+(/) Crop dusting and other agricultural activities;
+(g) Air passenger and air freight services at levels consistent with the classification and needs
+identified in the State Aviation System Plan;
+(h) Aircraft rental;
+(i) Aircraft sales and sale of aviation equipment and supplies; and
+(j) Aviation recreational and sporting activities.
+FINDING: The Hearings Officer finds that ORS 836.616(2) imposes a mandatory requirement on the
+County to authorize the uses listed in that statute. The Text Amendments adopt the term "customary and
+usual aviation-related activities", thereby bringing the Code into conformance with this statutory
+requirement. The statute does not specify the extent to which each use must be authorized. That is, the
+statute appears to provide the County with discretion to authorize such uses by right or subject to
+additional regulations. As a result, the other uses listed in the statute remain authorized, but subject to
+Site Plan Review under DCC 18.124 and, where applicable, Conditional Use Permit approval under
+DCC 18.128. No other participant in this proceeding provided evidence or argument that this statute is
+not mandatory or that the Text Amendments are inconsistent with the statutory mandate.
+660-013-0030, Preparation and Coordination of Aviation Plans
+(2) A city or county with planning authority for one or more airports, or areas within safety zones or
+compatibility zones described in this division, shall adopt comprehensive plan and land use regulations
+for airports consistent with the requirements of this division and ORS 836.600 through 836.630. Local
+comprehensive plan and land use regulation requirements shall be coordinated with acknowledged
+transportation system plans for the city, county, and Metropolitan Planning Organization (MPO)
+required by OAR 660, division 12. Local comprehensive plan and land use regulation requirements
+shall be consistent with adopted elements of the state ASP and shall be coordinated with affected state
+and federal agencies, local governments, airport sponsors, and special districts. If a state ASP has not
+yet been adopted, the city or county shall coordinate the preparation of the local comprehensive plan
+and land use regulation requirements with ODA. Local comprehensive plan and land use regulation
+requirements shall encourage and support the continued operation and vitality of airports consistent
+with the requirements of ORS 836.600 through 836.630.
+FINDING: The Hearings Officer fmds that this administrative rule imposes a mandatory requirement
+on the County to adopt land use regulations consistent with the statutes identified in the rule - addressed
+above - and the provisions of this rule.
+The Staff report notes that the Notice of Public Hearing was sent to multiple agencies, including
+ODA, but that no comments were received from those agencies.
+Various information throughout the record indicates that the Text Amendments will encourage
+and support continued operation of the Airport. In addition to the strong statements made by Ms.
+Williams, manager of the Airport, regarding the need for the Text Amendments and the demand the
+Airport is trying to meet by streamlining the development of hangars, the director of the Redmond
+Airport echoed those sentiments and provided testimony that the approach in the Text Amendments is
+consistent with airport regulations and operations around the country. No other participant in this
+proceeding provided evidence or argument that this administrative rule is not mandatory or that the Text
+Amendments are inconsistent with the rule's mandate.
+660-013-0040, Aviation Facility Planning Requirements
+A local government shall adopt comprehensive plan and land use regulation requirements for each state
+or local aviation facility subject to the requirements of ORS 836.610(1). Planning requirements for
+airports identified in ORS 836.610(1) shall include: [various figures and be based on certain market
+information].
+FINDING: The Hearings Officer finds that this administrative rule imposes a mandatory requirement
+on the County to adopt land use regulations for the Airport subject to ORS 836.610(1). That statute and
+the Hearings Officer's finding on that statute are addressed above. Although the record indicates the
+County has adopted airport planning documents that contain the required figures, the City asserts that
+the figures are not current in that they do not illustrate hangars currently under development. The City
+states that it has provided forecast information to the County in the form of the most recently adopted,
+FAA-approved Airport Master Plan. No other participant in this proceeding provided evidence or
+argument that this administrative rule is not mandatory or that the Text Amendments are inconsistent
+with the rule's mandate. The Hearings Officer therefore finds the Text Amendments satisfy this rule's
+mandate and will better conform the County's Code to that mandate.
+660-013-0050, Implementation of Local Airport Planning
+A local government with planning responsibility for one or more airports or areas within safety zones or
+compatibility zones described in this division or subject to requirements identified in ORS 836.608 shall
+adopt land use regulations to carry out the requirements of this division, or applicable requirements of
+ORS 836.608, consistent with the applicable elements of the adopted state ASP and applicable statewide
+planning requirements.
+FINDING: The Hearings Officer finds that this administrative rule imposes a mandatory requirement
+on the County to adopt land use regulations consistent with the applicable elements of the adopted state
+Aviation System Plan ("ASP") and applicable statewide planning requirements. The Applicant asserts
+that the Text Amendments, specifically the changes to DCC 18.80.032, are proposed to update the uses
+allowed in the safety zone, as required by this administrative rule. Other findings above address
+applicable statewide planning requirements, and the Hearings Officer has concluded the Text
+Amendments are consistent with those requirements.
+No other participant in this proceeding provided evidence or argument that this administrative
+rule is not mandatory or that the Text Amendments are inconsistent with the rule's mandate. The
+Hearings Officer therefore finds the Text Amendments satisfy this rule's mandate and will better
+conform the County's Code to that mandate.
+660-013-0070, Local Government Safety Zones for Imaginary Surfaces
+(]) A local government shall adopt an Airport Safety Overlay Zone to promote aviation safety by
+prohibiting structures, trees, and other objects of natural growth from penetrating airport imaginary
+surfaces.
+* * *
+(2) For areas in the safety overlay zone, but outside the approach and transition surface, where the
+terrain is at higher elevations than the airport runway surface such that existing structures and planned
+development exceed the height requirements of this rule, a local government may authorize structures
+up to 35 feet in height. A local government may adopt other height exceptions or approve a height
+variance when supported by the airport sponsor, the Oregon Department of Aviation, and the FAA.
+FINDING: The Hearings Officer finds that this administrative rule imposes a mandatory requirement
+on the County to adopt an Airport Safety Overlay Zone. The Staff Report notes that the County's Zoning
+Map and the provisions of DCC 18.76 already incorporate the required safety zones for imaginary
+surfaces and that the Text Amendment do not alter that map or the associated safety provisions. The
+Applicant asserts that the Text Amendments propose to amend the existing provisions. only to update the
+description of uses in the protected areas, and that proposed development remains subject to FAA
+review for compliance with the currently-adopted Airport Layout Plan and airspace through the FAA
+7460 review process.
+No other participant in-this proceeding provided evidence or argument that this administrative
+rule is not mandatory or that the Text Amendments are inconsistent with the rule's mandate. The
+Hearings Officer therefore finds the Text Amendments satisfy this rule's mandate and will better
+conform the County's Code to that mandate as proposed by the Applicant.
+660-013-0080, Local Government Land Use Compatibility Requirements for Public Use Airports
+(1) A local government shall adopt airport compatibility requirements for each public use airport
+identified in ORS 836.610(1).
+FINDING: The Hearings Officer finds that this administrative rule imposes a mandatory requirement
+on the County to adopt specific airport compatibility requirements for each public use airport. The Staff
+Report notes that the provisions of DCC 18.76 already incorporate the compatibility requirements
+required by this rule and that the Text Amendments do not alter those requirements. The Applicant
+asserts that the Text Amendments propose to amend the existing provisions only to update the
+description of uses allowed under the DCC.
+No other participant in this proceeding provided evidence or argument that this administrative
+rule is not mandatory or that the Text Amendments are inconsistent with the rule's mandate. The
+Hearings Officer therefore fmds the Text.Amendments satisfy this rule's mandate and will better
+conform the County's Code to that mandate as proposed by the Applicant.
+660-013-0100, Airport Uses at Non-Towered Airports
+\
+Local government shall adopt land use regulations for areas .within the airport boundary of non-towered
+airports identified in ORS 836.610(1) that authorize the following uses and activities:
+(1) Customary and usual aviation-related activities including but not limited to takeoffs, landings,
+aircraft hangars, tiedowns, construction and maintenance of airport facilities, fixed-base operator
+fac�lities, a residence for an airport caretaker or security officer, and other activities incidental to the
+normal operation of an airport. Residential, commercial, industrial, manufacturing, and other uses,
+except as provided in this rule, are not customary and usual aviation-related activities and may only be
+authorized pursuant to OAR 660-013-0110.
+FINDINGS: The Hearings Officer finds that this administrative rule imposes a mandatory requirement
+on the County to adopt land use regulations authorizing the uses and activities specified in the rule. The
+applicant proposes to adopt the term "customary and usual aviation-related activities" to conform the
+DCC to this rule and to make that use an outright permitted use. The rule does not specify the extent to
+which each use must be authorized. That is, the rule appears to provide the County with discretion to
+authorize such uses by right or subject to additional regulations. Other uses and activities specified in the
+rule will therefore remain authorized, but subject to Site Plan Review under DCC 18.124 and, where
+applicable, Conditional Use Permit approval under DCC 181.128.
+No other participant in this proceeding provided evidence or argument that this administrative
+rule is not mandatory or that the Text Amendments are inconsistent with the rule's mandate. The
+Hearings Officer therefore finds the Text Amendments satisfy this rule's mandate and will better
+conform the County's Code to that mandate as proposed by the Applicant.
+Ill
+Ill
+Ill
+Ill
+V. CONCLUSION AND RECOMMENDATION
+Based on the Findings above, the Hearings Officer concludes that the AppFcant' s proposed
+amendments to Chapter 18. 76, AD Zone, and Chapter 18.116, Supplementary Provisions of the
+Deschutes County Code comply with the County's provisions for amending the Code, and that they
+bring the County's land use regulations into further compliance with mandates imposed by s�te statutes
+and rules relating to planning for airports. The Hearings Officer therefore recommends that the
+Deschutes County Board of Commissioners adopt the amendments presented in Exhibit A by ordinance.
+Dated this 9th day of November 2020
+Tommy A. Brooks
+Deschutes County Hearings Officer
+Attachment:
+Exhibit A -Text Amendments
+Exhibit B- Staff Report
+EXHIBIT A·
+TRACKED CHANGESFOR PROPOSED
+AIRPORT DEVELOPMENTZONE TEXTAMENDMENT
+FILE NUMBER:
+APPLICANT:
+247-20-000482-TA
+City of Bend - Bend Municipal Airport
+63132 Powell Butte Road
+Bend, OR 97701
+A. BASIS FOR CHANGE
+The following text amendments are proposed to allow for streamlined approval of hangar development
+projects and allow hangar development in all zones on the airport. The proposed text amendments are shown
+as strikeout for text to be removed, and underline for text to be added. These change include the suggestions
+provided with the StaffRep011 and changes resulting from the September 15, 2020, Public Hearing.
+B. PROPOSED TEXT AMENDMENTS
+Amend Section 18.116.030(E)(5) to:
+5. Parking, Front Yard. Required parking and loading spaces for multi-family dwellings or commercial and
+industrial uses shall not be located in a required front yard, except in the Sunriver UUC Business Park ·(BP)
+District. a-Re-the La Pine UUC Business Park (LPBP) District. aoo-the La Pine UUC Industrial District
+(LPI), and the Airport Development (AD) Zone, but such space may be located within a required side or
+rear yard.
+Amend the following Sections of Chapter 18.76 to:
+18.76.010. Purpose.
+The purpose of the Airport Development (AD) Zone is to allow for development compatible with
+ongoing airport use consistent with the most recently adopted Deschutes County Yeffi· 2000
+Comprehensive Plan and the most recentlv approved+994 Bend Airport Master Plan (as amended by
+a 2002 supplement), while providing for public review of proposed development likely to have
+significant impact on surrounding lands. The AD Zone is composed of three separate zoning districts,
+each with its own set of allowed uses and distinct regulations, as further set forth in DCC 18. 76.
+(Ord. 2003-036 §2, 2003; Ord. 91-020 §1, 1991
+18.76.015 Definitions.
+The following definitions applies only to Chapter I &.76.
+"Customary and usual aviation-related activities" include, but are not limited to, takeoffs, landings, aircraft
+hangars, tiedowns, construction and maintenance of aimort facilities, fixed-base operator facilities, a
+residence for an airport caretaker or security officer, and other activities incidental to the normal operation
+of an airport. Residential. commercial, industrial, manufacturing, and other uses. except as provided in this
+EXHIBIT A - Decision
+rule, are not customary and usual aviation-related activities and may only be authorized pursuant to OAR
+660-013-0110.
+"Fixed-base operator or FBO" means a commercial business granted the right by the airport sponsor to
+operate on an airport and provide aeronautical services such as fueling, hangaring, tie-down and parking,
+aircraft rental, aircraft maintenance, flight instruction, etc.
+"Hangar" means an airport structure intended for the following uses:
+A. Storage of active aircraft.
+B. Shelter for maintenance, repair, or refurbishment of aircraft, but not the indefinite storage of
+non-operational aircraft.
+C. Construction of amateur-built or kit-built aircraft
+D. Storage of aircraft handling equipment, e.g., tow bar, glider tow equipment, workbenches, and
+tools and materials used to service, maintain, repair or outfit aircraft: items related to ancillary
+or incidental uses that do not affect the hangars' primaiy use.
+E. Storage of materials related to an aeronautical activity, e.g., balloon and skydiving equipment,
+office equipment. teaching tools, and materials related to ancillaiy or incidental uses that do
+not affect the hangars' primary use: storage of non-aeronautical items that do not interfere with
+the primary aeronautical purpose of the hangar (for example. televisions. furniture).
+F. A vehicle parked at the hangar while the aircraft usually stored in that hangar is flying, subject
+to local airport rules and regulations.
+kG. A hangar may include restrooms, pilot lounge, offices, briefing rooms. and crew
+quarters.
+18.76.020. Standards in All Districts.
+A. Approval Required. Any use in an AOD, ASD, or ARID District shall be subject to DCC 18.124.
+1 . Hangars not associated with a commercial or industrial use are exempt from DCC
+18.124.
+2. Airfield improvements including but not limited to rnnways, taxiways, taxilanes,
+aircraft parking aprons, service roads. navigational aids. and runway and safety
+facilities required by the .Federal Aviation Administration (FAA) are not subject to
+County review.
+B. Solar Setbacks. The setback from the north lot line shall meet the solar setback requirements of
+DCC 18.l 16.180.
+C. Building Code Setbacks. In addition to the setbacks set forth herein, any greater setbacks required
+by applicable building or structural codes adopted by the State of Oregon and/or Deschutes
+County under DCC 15.04 shall be met.
+D. Off-Street Parking and Loading. Off-street parking and loading shall be provided subject to the
+parking. provisions of DCC I 8.1 I 6.
+E. Outdoor Lighting. All outdoor lighting shall be installed in conformance with DCC 15.l 0.
+F. Excavation, Grading and Fill and Removal. Excavation, grading and fill and removal within the
+bed and banks of a stream or river or in a wetland shall be subject to DCC I 8.120.050 and/or
+DCC 18.128.270 .
+.Q,_Signs. All signs shall be constructed in accordance with the provisions of DCC 15.08.
+EXHIBIT A - Decision
+G.-1-1. Notification. Deschutes County shall provide notification of all land use applications in an AD
+·zone to the airport manager owner's designee in accordance with the provisions of DCC Title 22.
+(Ord. 2003-036 §2, 2003)
+18.76.030. Uses Permitted Outright.
+The following uses and their accessory uses are permitted outright in all of the Airport Districts:
+A. Class I and II road or street project subject to approval as part of a land partition, subdivision or
+subject to the standards and criteria established by DCC 18.116.230.
+B. Class III road or street project.
+C. Operation, maintenance, and piping of existing irrigation systems operated by an Irrigation
+District except-as provided in DCC 18.120.050.
+_Q,_Farm use as defined in DCC Title 18.
+E. Customaiy and usual aviation-related activities.
+�F. Hangars are subject to the standards and criteria established by DCC 18.76.105.
+(Ord. 2003-036 §2, 2003; Ord. 2001-039 § I 0, 2001; Ord. 2001-016 §2, 2001; Ord. 93-043 §.11, 1993;
+Ord. 91-020 §1, 1991)
+18.76.040. Conditional Uses.
+The following uses may be allowed in all of the Airport Districts subject to DCC 18.128.
+A. Farm accessory buildings and uses, excluding residential uses.
+B. Utility facility necessary for public service except landfills.
+C. Excavation, grading and fill and removal within the bed and banks of a stream or river or in a
+wetland subject to DCC 18.120.050 and/or DCC 18.128.270.
+(Ord. 2003-036 §2, 2003; Ord. 2001-039 §IO, 2001; Ord. 2001-016 §2, 2001; Ord. 91-038 § 1, I 991)
+18.76.050. Use Limitations.
+The following limitations and standards shall apply to all permitted uses in the Airport Districts:
+A. The height of any plant growth or structure or part of a structure such as chimneys, towers,
+antennas, power lines, etc., shall not exceed 35 feet.
+B. In approach zones beyond the clear zone areas, no meeting place designed to accommodate more
+than 25 persons for public or private purposes shall be permitted.
+C. All parking demand created by any use permitted by DCC 18.76 shall be accommodated on the
+subject premises entirely off-street.
+D. No use permitted by DCC 18.76 shall require the backing of traffic onto a public or private street
+or road right of way.
+E. No power lines shall be located in clear zones.
+F. No use shall be allowed which is likely to attract a large quantity of birds, particularly birds which
+normally fly at high altitudes.
+(Ord. 2003-036 §2, 2003; Ord_ 91-020 §1, 1991)
+18.76.060. Dimensional Standards.
+The following dimensional standards shall apply in the Airport Districts:
+A. The minimum lot size shall be determined subject to the provisions of DCC 18.76 relative to
+setback requirements, off-street parking and loading requirements, lot coverage limitations or as
+EXHIBIT A - Decision
+deemed necessary by the Planning Director or Hearings Body to maintain air, land and water
+resource quality, protect adjoining and area land uses, and to ensure resource carrying capacities
+are not exceeded.
+B. An airport related use or structure located adjacent to or across the street from an existing
+residential use or platted residential lot shall not exceed 70 percent lot coverage and shall require
+off-street parking and loading areas.
+C. The minimum setback between any structure and an arterial or collector right of way shall be
+50+00 feet. The minimum setback betweeR aRy structure and a collector right of way shall be 50
+feet.-The minimum setback between any structure and all local streets shall be 20 feet.
+D. The minimum setback between any structure and a property line adjoining a residential use or lot
+shall be 50 feet.
+E. The minimum lot frontage shall be 50 feet.
+F. The minimum side setback between any structure and a property line shall be three feet, and the
+minimum total of both side setbacks shall be 12 feet.
+Q.._The minimum rear setback between any structure and a rear property line shall be �20 feet.
+�H. The minimum setback from internal airport streets. access roads. and drives shall be 10 feet from
+the edge of pavement.
+(Ord. 2003-036 §2, 2003; Ord. 94-008 §24, 1994; Ord. 91-020 § 1, 1991)
+18.76.070. Airfield Operations District (AOD).
+Uses Permitted Outright. The uses permitted outright are those listed under DCC 18.76.030 . ....:i::he
+followiRg uses and their accessory uses are permitted outright:
+R1,mway, taxiway, service road, fuel storage and sales and emergency repair.
+Facilities approved or mandated by the FAA or Oregon State Aeronautics Division specifically
+supporting airport operations.
+(Ord. 2003-036 §2, 2003)
+18.76.080. Aviation Support District (ASD).
+A. Uses Permitted Outright. The uses permitted outright are those listed under DCC
+18. 76.030.follmving 1:1ses and their accessory 1:1ses are permitted 01:1tright:
+0. RuRway, taxiway, ser,rice road, fuel storage and sales and emergency repair.
+0. Facilities appro,,ed or mandated by the FAA or Oregm1 State Aeronautics Division.
+0. Related uses which are customarily appurtenant to airports, iRcluding but not limited to
+hangars, tie down areas and parking facilities.
+€,-.!i_Conditional. Uses Permitted. The following conditional uses may be permitted subject to DCC
+18.128 and a conditional use permit:
+I. Restaurant, which may include a bar or cocktail lounge as an accessory use. One restaurant
+per airport. Restaurant, including any accessory use, to be 2,500 square feet or less in size.
+2. Airport or aviation-related businesses that benefit from an on-airport location.
+(Ord. 2004-013 §8, 2004; Ord. 2003-036 §2, 2003)
+18.76.090. Aviation-Related Industrial District (ARID).
+EXHIBIT A - Decision
+Uses Permitted Outright. The uses and permitted outright are those listed under DCC
+18.76.030.following uses and their aeeessory uses are permitted ol:ltright:
+A. RanV,'Q)', tfeiiway, service road, fuel storage and sales aad emergeacy repair.
+B. Paeilities approved or mandated by the FAA or Oregoe State Aeroeauties Divisioe.
+C. Related uses ,.vhieh are eustomarily appurteeant to airports, including but not limited to haagars,
+tie down areas and parking facilities.
+A. Airport or aviation-related commercial or industrial businesses that benefit from an on-airport
+location.
+(Ord. 2003-036 §2, 2003)
+18.76.100. Design and Use Criteria.
+The following dimensional standards shall apply in the Airport Districts:
+The Planning Director or Hearings Body shall take into account the impact of any proposed conditional
+.use within the AD Zone on nearby residential and commercial uses, and on the capacity of
+transportation and other public facilities and services. In approving a proposed conditional use, the
+Planning Director or Hearings Body shall find that:
+A. The proposed use is in compliance with the Comprehensive Plan, including the current version of
+the adopted Bend Airport Master Plan.
+B. The proposed use is in compliance with the intent and provisions of DCC Title 18.
+C. · Any adverse social, economical, physical or environmental impacts are mipimized.
+D. The proposed use is not sensitive to noise of the character anticipated by the current and expected
+noise level contours of the airport.
+E. The proposed use is compatible with adjacent agricultural and residential uses.
+F. There are sufficient public facilities and services to support the proposed use.
+G. The location and site design of the proposed facility will not be hazardous to the safety and general
+welfare of surrounding properties, and that the location will not unnec essarily restrict existing and
+future development of surrounding lands as indicated in the Comprehensive Plan.
+H. The use shall 'make the most effective use reasonably possible of the site topography, existing
+landscaping and building placement so as to preserve existing trees and natural features, preserve
+vistas and other views from public ways, minimize visibility of parking, loading and storage areas
+from public ways and neighboring residential uses, and minimize intrusion into the character of
+existing developments and land uses in the immediate vicinity of the proposed use.
+(Ord. 2018-006 §9, 2018; Ord. 2003-036 §2, 2003; Ord. 91-020 § 1, 1991)
+18.76. 105. Hangars.
+A. Review Process.
+1. Hangars, as defined in section 18.76.0 I 5, shall be processed as a development action pursuant to
+DCC 22.16 and are riot subject to DCC 18. I 24.
+2. Hangars intended to support fixed based operators, flight schools, paint shops, and other
+commercial and industtial uses are subject to DCC 18.124.
+B. Hangar Approval Criteria.
+1. The location and height of proposed structures must be clear of FAA protected surfaces including
+runway safety area, runway protection zone, runway object free area, taxiway/taxilane object free
+EXHIBIT A - Decision
+area, FAA Pait 77 surfaces, FAA TERPS surfaces, and other clear areas identified on the currently
+adopted Airport Layout Plan.
+2. No above-ground utility installations shall be allowed
+3. All exterior lighting shall be shielded so that direct light does not project off-site pursuant to DCC
+15.10.
+4. Parking Requirement.
+a. Hangars under I 0,000 square feet of floor space are not subject to the parking requirement
+under DCC 18.116.030(8).
+b. Hangars greater than or equal to 10,000 square feet of floor space are subject to the parking
+requirement under DCC 18.116.030(8). This required vehicle parking can be accommodated
+inside the hangar.
+18.76. 110. Additional Requirements.
+As a condition of approval for any conditional use proposed within the AD Zone, the Planning Director
+or Hearings Body may require:
+A. An increase in required setbacks.
+B. Additional off-street parking and loading facilities and building standards.
+C. Limitations on signs or lighting, hours of operation, points of ingress and egress and building
+heights.
+D. Additional landscaping, screening and other improvements.
+E. Glare-resistant materials in construction or other methods likely to reduce operating hazards.
+F. Other conditions considered necessary to achieve compliance and policies of the Comprehensive
+Plan.
+(Ord. 2003-036 §2, 2003; Ord. 91-020 §1, 1991; Ord. 80-221 §1, 1980)
+EXHIBIT A - Decision
+EXHIBITB
+FILE NUMBER:
+SUBJECT PROPERTY:
+APPLICANT /OWNER:
+STAFF CONTACT:
+DOCUMENTS:
+I. REQUEST
+COMMUNITY DEVIElOPMENl
+STAFF REPORT
+AIRPORT DEVELOPMENT ZONE TEXT AMENDMENT
+247-20-000482-TA
+The Airport Development ("AD") Zone, as illustrated in the attached Exhibit
+A, encompasses the Bend Municipal Airport ("Airport"), which includes the
+: following addresses and tax lots:
+1. 63066 Powell Butte Highway; tax lot 200 on Assessor map
+17-13-20;
+2. 63110 Powell Butte Highway; tax lot 201 on Assessor map
+17-13-20;
+3. 63.290 Powell Butte Highway; tax lot 100 on Assessor map
+17-13-17C;
+4. 63300 Powell Butte Highway; tax lot 200 on Assessor map
+17-13-17;
+5. 22550 Nelson Place; tax lot 202 on Assessor map 17-13-20.
+City of Bend ("City")
+Anthony Raguine, Senior Planner
+anthony.raguine@deschutes.org
+(541) 617-4739
+Can be viewed and downloaded from:
+www.buildingpermits.oregon.gov - search by file number; and
+http:lldial.deschutes.org - search by account number 15174
+Amendments to Deschutes County Code (DCC) Chapter 18.76, AD Zone, and Chapter 18.116,
+Supplementary Provisions, as detailed below.
+The purpose of the DCC 18.76 amendments is to:
+1. Streamline county review of personal use hangars;
+117 NW Lafayette Avenue, Bend, Oregon 97703
+� (541) 388-6575 @ cdd@deschutes.org
+P.O. Box 6005, Bend, OR 97708-6005
+® www.deschut�5'(f!(fS1T B - Decision
+2. Revise outright permitted uses to include 'customary and usual aviation-related
+activities';
+3. Adopt Oregon Administrative Rule ("OAR") definition of 'customary and usual aviation­
+related. activities'; 1
+4. Adopt Federal Aviation Administration (FAA) definitions of 'fixed based operator'2 and
+'hangar';3
+5. Reduce the arterial roadway (Powell Butte Highway) front yard setback from 100 feet to
+50 feet; and
+6. Reduce the rear yard setback from 50 feet to 20 feet.
+The purpose of the DCC 18.116.030(E)(S) amendment is to allow parking in the front yard for uses
+in the AD Zone.
+II. BACKGROUND
+The primary intent of any zoning ordinance is to serve as the regulatory tool required to
+implement the vision, goals, and objectives laid out within the governing comprehensive plan.
+The 2012 Bend Airport Master Plan ("Master Plan") was never formally adopted as part of the
+Deschutes County Comprehensive Plan. However, this FAA-approved Master Plan has still served
+as the guiding document for development at the Airport due to federal grant obligations.
+The City states that recent attempts to develop aviation related activities at the Bend Municipal
+Airport have identified a division between the Deschutes County zoning ordinance and the
+planned development depicted in the Master Plan during several attempts to develop ayiation
+related facilities that would otherwise be approved by the FAA. For this reason, the applicant
+perceives the AD Zone, which identifies three distinct aviation related development sub-districts,
+as a hindrance to implementing aviation related development at the airport.
+In support of this argument, the applicant notes that modern planning practitioners have
+suggested the proliferation of zoning districts is a common problem within conventional zoning.
+"As the number of districts grows, it becomes harder to distinguish among them; as the
+distinctions become less clear, the purpose of any given district becomes blurred, and the formal
+distinctions become less defensible" (Levy, John M, Contemporary Urban Planning, 10th Edition,
+2016). Levy goes on to say that;
+" ... an increase in the number of districts results in fewer uses being permitted in any single
+district. This decreases the likelihood that an available site will be properly zoned to meet
+a developer's needs. This, in turn, increases the probability that a zoning amendment will
+be sought."
+1 Reference OAR 660-013-0100
+2 Reference FAA Circular 150/5190-7
+3 Reference FAA website https:Uwww.faa. gov/airports/airport compliance/hangar use/#q1
+24 7-20-000482-T A EXHIBIT B - D�fisiqnf 21Page� 8¥2f
+To alleviate this issue and standardize outright permitted uses in the AD Zone, the applicant
+proposes amendments which will include adoption of definitions from the OAR and from FAA
+documents.
+Finally, the applicant notes recent challenges with obtaining development approval of aviation
+related uses on the Airport. It is staff's understanding the challenges are most acute for proposed
+personal use hangars which, under the current code, require Site Plan Review pursuant to DCC
+18.124. To alleviate this issue, the City proposes a streamlined review process for personal use
+hangars. In sum, the City is requesting Deschutes County adopt the proposed zoning text
+amendments to ensure development-ready projects consistent with the language of the text
+amendment are processed efficiently.
+Ill. AMENDMENTS
+The proposed amendments are shown as strikeout for text to be removed, and underline for text
+to be added.
+Chapter 18.76, Airport Development Zone
+Section 18.76.010. Purpose.
+The purpose of the Airport Development (AD) Zone is to allow for developme�t
+compatible with ongoing airport use consistent with the most recently adopted Deschutes
+County Year� Comprehensive Plan and the most recently approved .:J-994 Bend Airport
+Master Plan (as amended by a 2002 supplement), while providing for public review of
+proposed development likely to have significant impact on surrounding lands. The AD
+Zone is composed of three separate zoning districts, each with its own set of allowed uses
+and distinct regulations, as further set forth in DCC 18.76.
+{Ord. 2020-xxx: Ord. 2003-036 §2, 2003; Ord. 91-020 §1, 1991)
+STAFF COMMENT: Staff suggests striking the word 'Year' from the text as a minor adjustment to
+the applicant's proposed language. With this adjustment, the first sentence of the Purpose
+statement would read,
+The purpose of the Airport Development (AD) Zone is to allow for development
+compatible with ongoing airport use consistent with the most recently adopted Deschutes
+County Year 2000 Comprehensive Plan and the most recently approved .:J-994 Bend Airport
+Master Plan (as amended by a 2002 supplement), while providing for public review of
+proposed development likely to have significant impact on surrounding lands.
+New Section 18.76.015. Definitions.
+18.76.015. Definitions.
+The following definitions apply only to Chapter 18.76.
+247-20-000482-TA EXHIBIT B - D��isignf 21 Page� 812f
+"Customary and usual aviation-related activities" include. but are not limited to. takeoffs.
+landings. aircraft hangars. tiedowns. construction and maintenance of airport facilities.
+fixed-base operator facilities. a residence for an airport caretaker or security officer. and
+other activities incidental to the normal operation of an airport. Residential. commercial.
+industrial. manufacturing. and other uses. except as provided in this rule. are not
+customary and usual aviation-related activities and may only be authorized pursuant to
+OAR 660-013-0110.
+"Fixed-base operator or FBO" means a commercial business granted the right by the
+airport sponsor to operate on an airport and provide aeronautical services such as fueling.
+hangaring. tie-down and parking. aircraft rental. aircraft maintenance. flight instruction.
+etc.
+"Hangar" means an airport structure intended for the following uses:
+A. Storage of active aircraft.
+· B. Shelter for maintenance. repair. or refurbishment of aircraft. but not the indefinite
+storage of non-operational aircraft.
+C. Construction of amateur-built or kit-built aircraft
+D. Storage of aircraft handling equipment. e.g .• tow bar. glider tow equipment.
+workbenches. and tools and materials used to service. maintain. repair or outfit
+aircraft: items related to ancillary or incidental uses that do not affect the hangars'
+E.
+F.
+G.
+primary use.
+Storage of materials related to an aeronautical activity. e.g .• balloon and skydiving
+equipment. office equipment. teaching tools. and materials related to ancillary or
+incidental uses that do not affect the hangars' primary use: storage of non­
+aeronautical items that do not interfere with the primary aeronautical purpose of
+the hangar (for example. televisions. furniture).
+A vehicle parked at the hangar while the aircraft usually stored in that hangar is
+flying. subject to local airport rules and regulations.
+A hangar may include restrooms. pilot lounge. offices. briefing rooms. and crew
+quarters. Any commercial or industrial use in a hangar requires additional land use
+review.
+(Ord. 2020-xxx)
+Section 18. 78.020. Standards in All Districts.
+A. Approval Required. Any use in an AOD, ASD, or ARID District shall be subject to
+DCC 18.124.
+H.
+247-20-000482-TA
+1.
+2.
+Hangars not associated with a commercial or industrial use are exempt
+from DCC 18.124.
+Airfield improvements including but not limited to runways. taxiways.
+taxilanes. aircraft parking aprons. service roads. navigational aids. and
+runway and safety facilities required by the Federal Aviation Administration
+(FAA) are not subject to County review.'
+Notification. Deschutes County shall provide notification of all land use
+EXHIBIT B - D�fisic;;,nf 21Page 4 8f2f
+applications in an AD Zone to the airport manager owner's designee in accordance
+with the provisions of DCC Title 22.
+(Ord. 2020-xxx: Ord. 2003-036 §2, 2003)
+Section 18.76.030. Uses Permitted Outright.
+The following uses and their accessory uses are permitted outright in all of the Airport
+Districts:
+E. Customary and usual aviation-related activities.
+F. Hangars are subject to the standards and criteria established by DCC 18.76.105.
+(Ord. 2020-xxx: Ord. 2003-036 §2, 2003; Ord. 2001-039 §10, 2001; Ord. 2001-016 §2, 2001;
+Ord. 93-043 §11, 1993; Ord. 91-020 §1, 1991)
+Section 18.76.060. Dimensional Standards.
+The following dimensional standards shall apply in the Airport Districts:
+C. The minimum setback between any structure and an arterial or collector right of
+way shall be 50400 feet. The minimum setback betv,cen any structure and a
+collector right oh.iay shall be 50 feet. The minimum setback between any structure
+and all local streets shall be 20 feet.
+G. The minimum rear setback between any structure and a rear property line shall be
+W-20 feet.
+H. The minimum setback from internal airport streets. access roads. and drives shall
+be 10 feet from the edge of pavement.
+(Ord. 2020-xxx: Ord. 2003-036 §2, 2003; Ord. 94-008 §24, 1994; Ord. 91-020 §1, 1991)
+STAFF COMMENT: The Road Department does not object to the amended minimum setbacks.
+Section 18.76.070. Airfield Operations District (AOD).
+Uses Permitted Outright. The uses permitted outright are those listed under DCC
+18.76.030. The follo11.1ing uses and their accessory uses are permitted outright:
+A Runway, taxi•11ay, ser.•ice road, fuel storage and sales and emergency repair.
+B. Facilities appro•,red or mandated by the i;;JV\ or Oregon State Aeronautics Division
+specifically supporting airport operations.
+(Ord. 2020-xxx; Ord. 2003-036 §2, 2003)
+Section 18.76.080. Aviation Support District (ASD).
+A.
+247-20-000482-TA
+Uses Permitted Outright. The uses permitted outright are those listed under DCC
+18.76.030. The follo•Ning uses and their accessory uses are permitted outright:
+1. Rum•,ay, tmciway, service road, fuel storage and sales and emergency repair.
+2. Facilities approved or mandated by the FAA or Oregon State Aeronautics
+EXHIBIT B - D�fisi2nf 21Page 5"8f2f
+Division.
+�- Related uses which are customarily appurtenant to airports, including but
+not limited to hangars, tie down areas and parking facilities.
+B. Conditional Uses Permitted. The following conditional uses may be permitted
+subject tb DCC 18.128 and a conditional use permit:
+1. Restaurant, which may include a bar or cocktail lounge as an accessory use.
+One restaurant per airport. Restaurant, including any accessory use, to be
+2,500 square feet or less in size.
+2. Airport or aviation-related businesses that benefit from an on-airport
+location.
+(Ord. 2020-xxx: Ord. 2004-013 §8, 2004; Ord. 2003-036 §2, 2003)
+Section 18.876.090. Aviation-Related Industrial District (ARID)
+Uses Permitted Outright. The uses permitted outright are those listed under DCC
+18.76.030. The following uses and their accessory uses are permitted outright:
+A. Runway, taxiway, service road, fuel storage and sales and emergency repair.
+B. Facilities approved or mandated by the FAA or Oregon State Aeronautics Division.
+C. Related uses 1.vhich are customarily appurtenant to airports, including but not
+limited to hangars, tie down areas and parking facilities.
+GA. Airport or aviation-related commercial or industrial businesses that benefit from
+an on-airport location.
+(Ord. 2020-xxx: Ord. 2003-036 §2, 2003)
+New Section 18.76.105. Hangars
+18.76. 105. Hangars.
+A.
+B.
+247-20-000482-TA
+Review Process.
+1. Hangars. as defined in section 18.04.030. shall be processed as a
+development action pursuant to DCC 22.16 and are not subject to DCC
+18.124.
+2. Hangars intended to support fixed based operators. flight schools. paint
+shops. and other commercial and industrial uses are subject to DCC 18.124.
+Hangar Approval Criteria.
+1. The location and height of proposed structures must be clear of FAA
+protected surfaces including runway safety area. runway protection zone.
+runway object free area. taxiway/taxilane object free area. FAA Part 77
+surfaces. FAA TERPS surfaces. and other clear areas identified on the
+currently adopted Airport Layout Plan.
+2. No above ground utility installations shall be allowed
+3. All exterior lighting shall be shielded so that direct light does not project
+off site pursuant to DCC 15.10.
+4. Parking Reguirement.
+a. Hangars under 10.000 sguare feet of floor space are not subject to
+the parking reguirement under DCC 18.116.030(8).
+EXHIBIT B - D�fisi2nf 21 Page 6°8f � f
+b. Hangars greater than or egual to 10.000 sguare feet of floor space
+are subject to the parking reguirement under DCC 18.116.030(8).
+This reguired vehicle parking can be accommodated inside the
+hangar.
+Chapter 18.116, Supplementary Provisions
+Section 18.116.030. Off-Street Parking and Loading.
+E. General Provisions. Off-Street Parking.
+5. Parking, Front Yard. Required parking and loading spaces for multi-family
+dwellings or commercial and industrial uses shall not be located in a
+required front yard, except in the Sunriver UUC Business Park (BP) District,
+and the La Pine UUC Business Park (LPBP) DistrictL aAG the La Pine UUC
+Industrial District (LPI), and the Airport Development (AD) Zone. but such
+space may be located within a required side or rear yard.
+STAFF COMMENT: Staff suggests striking the word 'and' before the phrase 'the La Pine UUC
+Business Park (LPBP) District.' With this minor adjustment, the language would read,
+E. General Provisions. Off-Street Parking.
+5. Parking, Front Yard. Required parking and loading spaces for multi-family
+dwellings or commercial and industrial uses shall not be located in a required front
+yard, except in the Sunriver UUC Business Park (BP) DistrictL aAG the La Pine UUC
+Business Park (LPBP) DistrictL aAG the La Pine UUC Industrial District (LPI), and the
+Airport Development (AD) Zone. but such space may be located within a required
+side or rear yard.,
+IV. REVIEW PROCESS
+Chapter 18.136, Amendments
+Section 18.136.010. Amendments.
+DCC Title 18 may be amended as set forth in DCC 18.136. The procedures for text or
+legislative map changes shall be as set forth in DCC 22. 12. A request by a property
+owner for a quasi judicial map amendment shall be accomplished by filing (ln
+application on forms provided by the Planning Department and shall be' subject to
+applicable procedures of DCC Title 22.
+FINDING: As noted by the above criteria, the procedures for a text change, more commonly
+referred to as a text amendment, are set forth in DCC 22.12, Legislative Procedures. Deschutes
+County Code 22.04.020 includes the following definition,
+247-20-000482-TA EXHIBIT B - D�fisignf 21 Page r8f2f
+"Legislative changes generally involve broad public policy decisions that apply to other
+than an individual property owner. These include, without limitation, amendments to the
+text of the comprehensive plans, zoning ordinances, or the subdivision or partition
+ordinance and changes in zoning maps not directed at a small number of property
+owners." (emphasis added)
+Pursuant to this definition, policy decisions and zoning text amendments which apply to a single
+property owner are not considered legislative changes. For this reason, staff finds the proposal
+by the City, which is the sole owner of the Airport, is not a legislative change. Given this finding,
+staff looks at whether the proposal is appropriately processed as a quasi-judicial matter.
+Deschutes County Code 22.04.020 provides the following definition of 'quasi-judicial',
+"Quasi judicial" zone change or plan amendment generally refers to a plan amendment or
+zone change affecting a single or limited group of property owners and that involves the
+application of existing policy to a specific factual setting. (The distinction between legislative
+and quasi judicial changes must ultimately be made on a case by case basis with reference
+to case law on the subject.)
+Staff notes the DCC does not define 'text amendment.' For this reason, staff finds a text
+amendment that does not fall within the definition of 'legislative changes' can be considered a
+'quasi-judicial plan amendment' based on the facts of the case and reference to appropriate case
+law.
+With respect to appropriate case law, staff cites to Heitsch v. City of Salem, 65 Or LUBA 187 (2012),
+which addresses the question of whether an inquiry is quasi-judicial or legislative.
+"The Oregon Supreme Court decision that set out the inquiry that is currently applied to
+determine whether a decision is properly viewed as quasi-judicial (an adjudication) or
+legislative is Strawberry Hill 4 Wheelers v. Benton Co. Bd. of Comm., 287 Or 591, 601 P2d
+769 (1979). That inquiry, as described by the Oregon Supreme Court, is set out below:
+"Generally, to characterize a process as adjudication presupposes that the process
+is bound to result in a decision and that the decision is bound to apply preexisting
+criteria to concrete facts. The latter test alone [applying preexisting criteria to
+concrete facts] proves too much; there are many laws that authorize the pursuit of
+one or more objectives stated in general terms without turning the choice of action
+into an adjudication. Thus a further consideration has been whether the action,
+even when the governing criteria leave much room for policy discretion, is directed
+at a closely circumscribed factual situation or a relatively small number of persons.
+The coincidence both of this factor and of preexisting criteria of judgment has led
+the court to conclude that some land use laws and similar laws imply quasijudicial
+procedures for certain local government decisions." Id. At 602-03."
+As recognized by the courts, the Strawberry Hill decision sets out the three Strawberry Hill factors
+247-20-000482-TA EXHIBIT B - D��isignf 21 Page a 8f �f
+which must be considered:
+1. Is the inquiry bound to �esLilt in a decision?
+2. Are there preexisting criteria that are applied to concrete facts?
+3. Is the .inquiry directed at a closely circumscribed factual situation or a relatively small
+number of persons? '
+Below, staff addresses each of the Strawberry Hill factors.
+Bound to result in•a decision
+The City is the 'applicant for the proposed text amendment. Per the Procedures Ordinance,
+regardless of whether the application is processed as a quasi-judicial text amendment or a·
+legislative text amendment, the Board of County Commissioners ("Board") would be the decision-
+. making body. Unless the appl,ication is withdrawn the by the applicant, the Board would be bound
+to make a decision on the proposal. Consequently, staff finds that under this Strawberry_ Hill
+factor, the proposal would be considered quasi-judicial.
+Preexisting criteria
+Unlike a proposal to rezone a property, Chapter 18.36, Amendments, does not include specific
+approval criteria for text amendments. For this reason, staff finds that under this Strawberry Hill
+factor, th� proposal would be considered legislative in the context of the DCC.
+However, staff notes there are specific provisions of the OAR which do provide approval criteria
+· for amendments to airport-related ordinances. For this reason, staff finds that under this
+Strawberry Hill factor, the proposal would be considered quasi-judicial 'in the context of the OAR.
+·small number of persons
+As noted above,. the City is the sole owner of the Airport. Further, because the AD Zone only
+affects the Airport property, the proposed text amendment only affects the City of Bend.
+Consequently, staff finds that under this Strawberry Hill factor, the proposal would be considered
+quasi-judicial.
+With respect to how the Strawberry Hill factors should be considered when determining whether
+an action is legislative or quasi-judicial, Staff cites further to Heitsch v. City of Salem, detailed
+below.
+"Those three general cri�eria do not, however, describe a bright-line test. As we noted in
+Estate of Gold v. City of Portland, 87 Or App 45, 51, 740 P2d 812, rev den, 304 Or405 (1987),
+Strawberry Hill 4 Wheelers 'contemplates a balancing of the various factors which militate
+for or against a quasi-judicial characterization and does not create [an] 'all or nothing'
+test[.]' (Citation omitted.) In particular, we noted that the criteria are applied in light of the
+reasons for their existence--viz. , 'the assurance of correct factual decisions; and 'the
+assurance.of fair attenti�n to individuals particularly affected.' Estate of Gold, 87 Or App at
+247-20-000482-TA EXHIBIT B - D��isignf 21. Page� 8f2f
+51, (quoting Strawberry Hill 4 Wheelers, 287 Or at 604)."
+In consideration of the Strawberry Hill factors as a whole, staff finds the proposed text amendment
+is most appropriately viewed as a quasi-judicial plan amendment. Consequently, staff finds the
+proposed text amendment shoul,d be processed pursuant to DCC 22.20, Review of Land Use
+Action Applications, DCC 22.24, Land Use Action Hearings and DCC 22.28.030, Land Use Action
+Decisions. With regard to 'the assurance of fair attention to individuals particularly affected',
+notice of the public hearing was published in the Bend Bulletin and mailed to all owners of
+property within 250 feet of the AD Zone and the Airport boundaries.
+Chapter 22.28, Land Use Action Decisions
+Section 22.28.030. Decision on Plan Amendments and Zone Changes
+A. Except as set forth herein, the Hearings Officer or the Planning Commission
+when acting as the Hearings Body shall have authority to make decisions on
+all quasi judicial zone changes and plan amendments. Prior to becoming
+effective, all quasi judicial plan amendments and zone changes shall be
+adopted by the Board of County Commissioners.
+B. In considering all quasi judicial zone changes and those quasi judicial plan
+amendments on which the Hearings Officer has authority to make a decision,
+the Board of County Commissioners shall, in the absence of an appeal or
+review initiated by the Board, adopt the Hearings Officer's decision. No
+argument or further testimony will be taken by the Board.
+C. Plan amendments and zone changes _requiring an exception to the goals or
+concerning lands designated for forest or agricultural use shall be heard de
+nova before the Board of County Commissioners without the necessity of filing
+an appeal, regardless of the determination of the Hearings Officer or Planning
+Commission. Such hearing before the Board shall otherwise be subject to the
+same procedures as an appeal to the Board under DCC Title 22.
+FINDING: As discussed in detail above, staff finds the proposal is most appropriately viewed as
+a quasi-judicial plan amendment. The amendments do not require a goal exception and do not
+include lands designated for forest or agricultural use. For these reasons, staff finds the Hearings
+Officer's decision shall be adopted by the Board unless appealed or the Board initiates review.
+V. DESCHUTES COUNTY COMPREHENSIVE PLAN
+FINDING: The Deschutes County Comprehensive Plan includes a Transportation System Plan
+("TSP"). The TSP includes an Airport Plan with an associated 'toal and Policies.4 The Goal and
+Policies are codified into the DCC, specifically Chapter 18.76. No mandatory approval criteria exist
+within the Goal and Policies of the Airport Plan,
+4 Goal 16 and Policies 16.1 and 16.2 of the TSP.
+247-20-000482-TA EXHIBIT B - Qeck���nf 21Page lfrflof �f
+VI. STATEWIDE PLANNING GOALS
+Goal 1: Citizen Involvement. To develop a citizen involvement program that insures the
+opportunity for citizens to be involved in all phases of the planning process.
+FINDING: The applicant's burden of proof ("BoP") provides the following proposed findings.
+"These amendments are being adopted by a process that provides the opportunity for
+citizen involvement by including public hearings before adoption. The County will hold
+public hearings before its Planning Commission and Board of Commissioners before any
+amendment is adopted."
+With the exception of the reference to the Planning Commission, staff agrees with the applicant's
+findings.
+Goal 2: Land Use Planning. To establish a land use planning process and policy framework as
+a basis for all decision and actions related to use of land and to assure an adequate factual base
+for such decisions and actions.
+FINDING: The proposed amendments are being reviewed through the county's the land use
+planning process. Compliance with applicable local codes and policies, as well as statutes, rules
+and Goals, are addressed in this staff report. The amendments will provide guidelines for future
+land use decisions at the Airport. Staff finds Goal 2 will be met.
+Goal 3: Agricultural Lands. To preserve and maintain agricultural lands.
+FINDING: The area subject to the AD Zone is exception land. Therefore, Goal 3 does not apply.
+Goal 4: Forest Lands. To conserve forest lands by maintaining the forest land base·and to protect
+the state's forest economy by making possible economically efficient forest practices that assure
+the continuous growing and harvesting of forest tree species as the leading use on forest land
+consistent with sound management of soil, air, water, and fish and wildlife resources and to
+provide for recreational opportunities and agriculture.
+FINDING: The area subject to the AD Zone is exception land. Therefore, Goal 4 does not apply.
+Goal 5: Natural Resources, Scenic and Historic Areas, and Open Spaces. To protect natural
+resources and conserve scenic and historic areas and open spaces.
+FINDING: The proposed amendments do not affect any inventoried Goal 5 natural resources,
+scenic or historic area or open space. Further, the amendments do not affect any Combining
+Zones which seek to identify and protect natural, scenic, historic, open space, or surface mining
+resources.
+Goal 6: Air, Water and Land Resources Quality. To maintain and improve the quality of the
+247-20-000482-TA
+air, water and land resources of the state.
+FINDING: The applicant provides the following proposed findings,
+"Goal 6 is primarily concerned with the preservation of air, land and water resources from
+pollution. The amendments to Deschutes County Code Chapter 18.76 will allow industrial
+and commercial uses outright in some areas where they are currently conditional uses.
+Because those uses can currently be permitted as conditional uses, the amendments are
+unlikely to have any effect on what development occurs at the airport. At most, the
+amendments will affect where within the airport certain types of development will occur.
+The amendments are consistent with Goal 6 because they do not allow any additional
+impact on air, water or land quality compared to what is allowed under current zoning."
+Staff agrees with the applicant's findings.
+Goal 7: Areas Subject to Natural Hazards. To protect people and property from natural
+hazards.
+FINDING:· The most likely nat.ural hazard which could adversely affect the Airport is wildfire.
+Given the existing uses at the Airport, staff finds the proposed amendments will not significantly
+exacerbate the wildfire risk to the property. Further, the Airport is within the service boundary of
+the Bend Rural Fire ·Protection District. For these reasons, staff finds the Airport would not be
+subject to a substantial increase to wildfire risk nor significantly increase the risk of wildfire
+ignition.
+Goal 8: Recreational Needs.
+To satisfy the recreational needs of the citizens of the state and visitors and, where appropriate,
+to provide for the siting of necessary recreational facilities including destination resorts.
+FINDING: The applicant provides the following proposed findings.
+"The Bend Municipal Airport is used for the following types of recreational activities:
+1. Recreational aviation . (both flying for enjoyment and flying to and/or from
+recreational destinations).
+2. Gliding.
+3. Hobby constructfon of aircraft.
+Aircraft used for recreational purposes are manufactured, maintained and repaired at the
+Bend Municipal Airport. By allowing the airport to continue to provide these recreational
+opportunities and by increasing the possibility of aircraft manufacture, the proposed
+amendments further Goal 8."
+Staff agrees with the applicant's.findings.
+247-20-000482-TA
+Goal 9: Economic Development. To provide adequate opportunities throughout the state for
+a variety of economic activities vital to the health, welfare, and prosperity of Oregon's citizens.
+FINDING: The applicant provides the following proposed findings.
+"The amendments will allow the Bend Municipal Airport to continue to provide a variety
+of economic activities and remove limitations on aviation related development in some
+zones. Economic activities at the airport include aircraft manufacturing, aircraft
+maintenance and repair, aircraft leasing and chartering, flight schools, fuel sales and other
+aviation-related economic activities."
+Staff agrees with the applicant's findings.
+Goal 10: Housing. To provide for the h_ousing needs of citizens of the state. ·
+FINDING: The applicant provides the following proposed findings.
+"The Bend Municipal Airport is subject to federal grant restrictions which do not permit
+residential use at the airport. Goal 10 is therefore not applicable to this application."
+Staff agrees with the applicant's findings.
+Goal 11: Public Facilities and Services.
+To plan and develop a timely, orderly and efficient arrangement of public facilities and services to
+serve as a framework for urban and rural development.
+FINDING: The applicant proyides the following proposed findings.
+"The Bend Municipal Airport is already served by a private water utility and sewer and
+water from the City of Bend, through the City's Public Facility Plan. The proposed
+amendments do not include any amendments that would affect the Airport's existing
+water and sewer service. The proposed changes are therefore consistent with Goal 11."
+Staff agrees with the applicant's findings and further finds the amendments would not allow the
+extension or creation of public facilities and services beyond the boundaries of the Airport.
+Goal 12: Transportation. To provide and encourage a safe, convenient and economic
+transportation system.
+FINDING: The applicant provides the following proposed findings.
+"Please refer to Appendix 3 - Transight Consulting Memorandum "Bend Municipal Airport
+Rezone," dated May 28, 2020. The Bend Municipal Airport is part of the County's multi­
+modal transportation system. Planning for airport development is part of what makes the
+system safe, convenient and economic. All uses proposed for the Airport are already
+24 7-20-000482-TA
+EXHIBIT 8- Qeck��<_;mf21 Page If �of 2 f
+allowed either outright or conditionally. However, as part of this proposed text
+amendment, a memorandum was prepared to assess Transportation Planning Rule
+compliance under 660-012-060. This memorandum, dated May 28, 2020, and prepared by
+Transight Consulting, LLC, concluded , the goals and policies within the aviation section of
+the County Transportation System Plan and federal requirements related to runway and
+taxiway protection would substantially limit any development within the Airport
+Operations District. The net impact of the proposed text amendment would allow up to
+seven additional private aircraft hangars (up to nine aircraft) on the west side of the
+runway. This would not result in a significant impact to the transportation system. The
+application is consistent with Goal 12."
+The County's Senior Transportation Planner, Peter Russell, submitted the following response,
+"I have reviewed the transmittal materials of File 247-20-00482-TA by the City of Bend to
+amend Deschutes County Code (DCC) 18.76, Airport Development (AD) zone and Chapter
+18.116, Supplementary Provisions. Included in the application materials was a May 28,
+2020, traffic analysis of the potential effects of allowing aircraft hangars in the Airport
+Operations District (AOD) as currently that zone only allows runways, taxiways, and
+navigation equipment.
+I agree with the report's methodologies and conclusions that the adding hangars to the
+AOD would result in five (5) additional p.m. peak hour trips being generated by the Bend
+Airport. While the study does not have a Level of Service (LOS) analysis of the affected
+intersections on either the west or east side of the Bend Airport for both current and post­
+amendment operations, staff finds the result of five (5) additional p.m. peak hour trips
+would be de minim is for two reasons. One, the County already has a planned roundabout
+at the intersection of Powell Butte Highway/Butler Market road in the Transportation
+System Plan (TSP). Two, the average daily traffic (ADT) volumes on Nelson Road and
+McGrath Road along the east side of the airport are 433 ADT (2019) and 1,001 ADT (2019),
+respectively. The County in the TSP allows 9,600 ADT as acceptable. Thus from a TPR
+standpoint, allowing hangars as an outright permitted use would have no significant effect
+and would comply with the TPR at 660-012-0060.
+Staff does note the application does change the text for uses allowed outright in DCC
+18.76.070 (AOD) by adding "customary and usual aviation-related activities" which will add
+"fixed-base operator facilities." Elsewhere in changes proposed for 18.76.015 (Definitions)
+"fixed-based operator" is defined as a " ... commercial business granted the right by the
+airport sponsor to operate on an airport and provide aeronautical services such as fueling,
+hangaring, tie-down and parking, aircraft rental, aircraft maintenance, flight instruction,
+etc." The "customary and usual aviation-related activities" language would be added to
+DCC 18.76.080 Aviation Support District (ASD) and DCC 18.76.090 Aviation-Related
+Industrial District (ARID). The traffic study does not discus or analyze the effect of allowing
+those listed uses as outright permitted uses in the AOD, ASD, and ARID. From a trip
+generation standpoint, staff's main concern is with flight instruction. Does that mean one­
+on-one instruction or a flight school with 500 students driving to the Bend Airport?
+Staff would request the City provide more information on this topic of flight instruction
+24 7-20-000482-T A
+and update the traffic study to include a reasonable worst-case analysis regarding flight
+instruction and trip generation. One could argue flight instruction is a related use
+customarily appurtenant to an airport and thus is already allowed outright via
+18.76.080(A)(3) in the ASD and 18.76.090(() in the ARID zone, but clearly flight instruction
+is currently not allowed in 18.76.070(8) in the AOD."
+Based on this response, it is unclear to staff if the proposal complies with Goal 12 and the
+Transportation Planning Rule requirements. Staff asks the applicant to provide additional
+information and for the Hearings Officer to determine whether the proposal complies with Goal
+12.
+Goal 13: Energy Conservation. To conserve energy.
+FINDING: Per the Department of Land Conservation and Development's webpage5 for Goal 13,
+"Goal 13 encourages communities to look with.in existing urban neighborhoods for areas
+of potential redevelopm�nt before looking to expand, to 'recycle and re-use vacant land."'
+Staff finds the proposed amendments will allow the Airport to more efficiently utilize land within
+its boundaries rather than expand the Airport to accommodate additional uses. Staff notes the
+proposed amendments do not ,preclude any future expansion of the Airport's boundaries or
+allowed uses. Staff finds the proposed amendments are consistent with Goal 13.
+Goal 14: Urbanization. To provide for an orderly and efficient transition from rural to urban land
+use, to accommodate urban population and urban employment inside urban growth boundaries,
+to ensure efficient .use of land, and to provide for livable communities.
+FINDING: Goal 14 is not applicable because the Airport is outside of any urban growth boundary.
+As noted above, it is on exception land.
+Goals 15 - 19. Willamette River Greenway; Estuarine Resources; Coastal Shorelands; Beaches and
+Dunes; Ocean Resources
+FINDING: The Airport is not within or adjacent to the Willamette River Greenway, estuaries,
+beaches, dunes or the Pacific Ocean. For this reason, these Goals do not apply.
+VII. OREGON REVISED STATUTES
+836.610, Local government land use plans and regulations to accommodate airport zones
+and uses; funding; rules.
+(1) Local governments shall amend their comprehensive plan and land use regulations
+consistent with the rules for airports adopted by the Land Conservation and Development
+5 https://www.oregon.gov/lcd/OP /Pages/Goal-13.aspx
+247-20-000482-TA EXHIBIT B - Qeck��Qnf 21Page lf�of 2f
+Commission under ORS 836.616 and 836.619. Airports ?ubject to the rules shall include:
+(a) Publicly owned airports registered, licensed or otherwise recognized by the
+Department of Transportation on or before December 31, 1994, that in 1994 were
+the base for three or more aircraft;
+FINDING: The Bend Municipal Airport is a publicly owned airport recognized by the Oregon
+Department of Aviation ("ODA"). Therefore, ORS 836.616 and 836.619 apply, and are addressed
+below.
+(3) The Oregon Department of Aviation by rule shall adopt a list of airports described in
+subsection (1) of this section. The rules shall be reviewed and updated periodically to add
+or remove airports from the list. An airport may be removed from the list only upon request
+of the airport owner or upon closure of the airport for a period of more th,an three years.
+FINDING: The Bend Municipal Airport is listed with the ODA as a publicly owned airport and is
+on the Oregon Aviation State System Plan.
+836.616, Rules for airport uses and activities.
+(1) Following consultation with the Oregon Department of Aviation, the Land Conservation
+and Development Commission shall adopt rules for uses and activities allowed within the
+boundaries of airports identified in ORS 836.610 (1) and airports described in ORS 836.608
+(2).
+(2) Within airport boundaries established pursuant to commission rules, local government
+land use regulations shall authorize the following uses and activities:
+(a) Customary and usual aviation-related activities including but not limited to
+takeoffs, landings, aircraft hangars, tie-downs, construction and maintenance of
+airport facilities, fixed-base operator facilities and other activities incidental to the
+normal operation of an airport;
+(b) Emergency medical flight services; _
+(c) Law enforcement and firefighting activities;
+(d) Flight instruction;
+(e) Aircraft service, maintenance and training;
+(f) Crop dusting and other agricultural activities;
+(g) Air passenger and air freight services at levels consistent with the classification and
+needs identified in the State Aviation System Plan;
+(h) Aircraft rental;
+(i) Aircraft ,sales and sale of aviation equipment and supplies; and
+G) Aviation recreational and sporting activities.
+FINDING: The applicant proposes to adopt the term 'customary �nd usual aviation-related
+activities', as defined in subsection (a). The purpose of this adoption is to standardize outright
+permitted uses in the AD Zone. Staff notes the definition of customary and usual aviation-related
+activities includes fixed-based operator facilities. As part of the amendments, the applicant also
+proposes the following definition of fixed based operator,
+247-20-000482-TA
+"Fixed-base operator or FBO" means a commercial business granted the right by the
+airport sponsor to operate on an airport and provide aeronautical services such as fueling,
+hangaring, tie-down and parking, aircraft rental, aircraft maintenance, flight instruction,
+etc."
+Based on this definition, staff notes that FBOs could include uses which are listed in subsections
+(b) through 0). At this time, the applicant does not propose to amend the AD Zone to specifically
+allow the uses listed under subsections (b) through 0) as outright permitted uses. For this reason,
+and in the context of the proposed text amendment, staff finds that FBOs would_ have the
+following characteristics: 1) Commercial business; 2) Granted a right by the Airport to operate on
+the Airport; 3) Provides aeronautical services; and 4) Is not an ORS 836.616(2)(b-j) use. Pursuant
+to the AD Zone, the uses listed under subsection (b) through 0) will continue to be subject to Site
+Plan Review under DCC 18.124 and, where applicable, Conditional Use Permit approval under DCC
+18.128.
+836.619, State compatibility and safety standards for land uses near airports; rules.
+Following consultation with the Oregon Department of Aviation, the Land Conservation and
+Development Commission shall adopt rules establishing compatibility and safety standards for
+uses of land near airports identified in ORS 836.610 (1).
+FINDING: Applicable Oregon Administrative Rules are addressed below.
+VIII. OREGON ADMINISTRATIVE RULES
+660-013-0030, Preparation and Coordination of Aviation Plans
+(2) A city or county with planning authority for one or more airports, or areas within safety
+zones or compatibility zones described in this division; shall adopt comprehensive plan
+and land use regulations for airports consistent with the requirements of this division and
+ORS 836.600 through 836.630. Local comprehensive plan and land use regulation
+requirements shall be coordinated with acknowledged transportation system plans for the
+city, county, and Metropolitan Planning Organization (MPO) required by OAR 660, division
+12. Local comprehensive plan and land use regulation requirements shall be consistent
+with adopted elements of the state ASP and shall be coordinated with affected state and
+f�deral agencies, local governments, airport sponsors, and special districts. If a state ASP
+has not yet been adopted, the city or county shall coordinate the preparation of the local
+comprehensive plan and land use regulation requirements with ODA Local comprehensive
+plan and land use regulation requirements shall encourage and support the continued
+operation and vitality of airports consistent with the requirements of ORS 836.600 through
+836.630.
+FINDING: Applicable sections of ORS 836 are addressed above. The Notice of Public Hearing
+was sent to multiple agencies, including ODA As of the date of this staff report, no comments
+have been received from public agencies. The applicant's BoP states the proposed amendments
+247-20-000482-TA EXHIBIT B - Qeck��gnf 21 Page lf '79of 2 f
+will encourage and support continued operation of the Airport. Staff agrees.
+660-013-0040, Aviation Facility Planning Requirements
+A local government shall adopt comprehensive plan and land use regulation requirements for
+each state or local aviation facility subject to the requirements of ORS 836.610(1). Planning
+requirements for airports identified in ORS 836.610(1) shall include: ...
+FINDING: The applicant provides the following findings,
+"The County has adopted airport planning documents as required by this section. The City
+is the sponsor and has provided forecast information to the County in the form of the
+most recently adopted, FAA-approved Airport Master Plan. The proposed amendments
+are consistent with OAR 660-013-0040."
+Staff agrees.
+660-013-0050, Implementation of Local Airport Planning
+A local government with planning responsibility for one or more airports or areas within safety
+zones or compatibility zones described in this division or subject to requirements identified in
+ORS 836.608 shall adopt land use regulations to carry out the requirements of this division, or
+applicable requirements of ORS 836.608, consistent with the applicable elements of the adopted
+state ASP and applicable statewide planning requirements.
+FINDING: The applicant provides the following findings,
+"Revisions to DCC Chapter 18.80, specifically DCC 18.80.032, are proposed as part of this
+application and the revisions update the text of the uses allowed in the safety zone,
+consistent with OAR 660-013-0050."
+Staff agrees. The Airport is publicly owned and, therefore, is not subject to ORS 636.608, which
+addresses requirements for private airports. As noted above, staff asks the Hearings Officer to
+determine if the proposal complies with Goal 12.
+660-013-0070, Local Government Safety Zones for Imaginary Surfaces
+FINDING: The County's Zoning Map and the provisions of DCC 18.76 incorporate the required
+safety zones for imaginary surfaces. The proposed text amendment does not alter the Map or
+safety provisions.
+660-013-0080, Local Government Land Use Compatibility Requirements for Public Use
+Airports
+FINDING: The provisions of DCC 18.76 incorporate the compatibility requirements under this
+section. The proposed text amendment does not alter those requirements.
+247-20-000482-TA EXHIBIT B - Qeck��gnf 21Page lf�of �f
+660-013-0100, Airport Uses at Non-Towered Airports
+Local government shall adopt land use regulations for areas within the airport boundary of non­
+towered airports identified in ORS 836.610(1) that authorize the following uses and activities:
+(1) Customary and usual aviation-related activities including but not limited to takeoffs,
+landings, aircraft hangars, tiedowns, construction and maintenance of airport facilities,
+fixed-base operator facilities, a residence for an airport caretaker or security officer, and
+other activities incidental to the normal operation of an airport. Residential, commercial,
+industrial, manufacturing, and other uses, except as provided in this rule, are not
+customary and usual aviation-related activities and may only be authorized pursuant to
+OAR 660-013-0110.
+(2) Emergency Medical Flight Services, including activities, aircraft, accessory structures, and
+other facilities necessary to support emergency transportation for medical purposes.
+"Emergency Medical Flight Services" does not include hospitals, medical offices, medical
+labs, medical equipment sales, and similar uses.
+(3) Law Enforcement and Firefighting Activities, including aircraft and ground based activities,
+facilities and accessory structures necessary to support federal, state or local law
+enforcement and land management agencies engaged in law enforcement or firefighting
+activities. These activities include transport of personnel, aerial observation, and transport
+of equipment, water, fire retardant and supplies.
+(4) Flight Instruction, including activities, facilities, and accessory structures located at airport
+sites that provide education and training directly related to aeronautical activities. "Flight
+Instruction" does not include schools for flight attendants, ticket agents, or similar
+personnel.
+(5) Aircraft Service, Maintenance and Training, including activities, facilities, and accessory
+structures provided to teach aircraft service and maintenance skills, maintain, service and
+repair aircraft and aircraft components, but not including activities, structures, and facilities
+for the manufacturing of aircraft for sale to the public or the manufacturing of aircraft
+related products for sale to the public. "Aircraft Service, Maintenance and Training"
+includes the construction of aircraft and aircraft components for personal use. The
+assembly of aircraft and aircraft components is allowed as part of servicing, maintaining,
+or repairing aircraft and aircraft components.
+(6) Aircraft Rental, including activities, facilities, and accessory structures that support the
+provision of aircraft for rent or lease to the public.
+(7) Aircraft Sales and the sale of aeronautic equipment and supplies, including activities,
+facilities, and accessory structures for the storage, display, demonstration and sale of
+aircraft and aeronautic equipment and supplies to the public.
+(8) Aeronautic Recreational and Sporti,ng Activities, including activities, facilities and accessory
+structures at airports that support recreational use of aircraft and sporting activities that
+require the use of aircraft or other devices used and intended for use in flight. Aeronautic
+Recreation and Sporting Activities on airport property shall be subject to approval of the
+airport sponsor. Aeronautic recreation and sporting activities include but are not limited
+to: fly-ins; glider flights; hot air ballooning; ultralight aircraft flights; displays of aircraft;
+aeronautic flight skills contests; gyrocopter flights; flights carrying parachutists; and
+parachute drops onto an airport. As used in this rule, parachuting and parachute drops
+247-20-000482-TA EXHIBIT B - Qeck��gnf 21 Page ,�of 2f
+includes all forms of skydiving. Parachuting businesses may be allowed only where they
+have secured approval to use a drop zone that is at least 10 contiguous acres. A local
+government may establish a larger size for the required drop zone where evidence of
+missed landings and dropped equipment supports the need for the larger area. The
+configuration of 10 acre minimum drop zone shall roughly approximate a square or circle
+and may contain structures, trees, or other obstacles if the remainder of the drop zone
+provides adequate areas for parachutists to safely land.
+(9) Crop Dusting Activities, including activities, facilities and structures accessory to crop
+dusting operations. These include, but are not limited to: aerial application of chemicals,
+seed, fertilizer, pesticide, ·defoliant and other activities and chemicals used in a commercial
+agricultural, forestry or rangeland management setting.
+(10) Agricultural and Forestry Activities, including activities, facilities and accessory structures
+that qualify as a "farm use" as defined in ORS 215.203 or "farming practice" as defined in
+ORS 30.930.
+(11) Air passenger and air freight services and facilities at public use airports at levels consistent
+with the classification and needs identified in the state ASP.
+FINDINGS: The applicant proposes to adopt the term 'customary and usual aviation-related
+activities', as defined in subsection (1). At this time, the applicant does not propose to amend the
+AD Zone to specifically allow the uses listed under subsections (2) through (11) as outright
+permitted uses. For this reason, and in the context of the proposed text amendment, staff finds
+that FBOs would have the following characteristics: 1) Commercial business; 2) Granted a right by
+the Airport to operate on the Airport; 3) Provides aeronautical services; and 4) Is not an OAR 660-
+013-0100(2-11) use. Pursuant to the AD Zone, the uses listed under subsections (2) through (11)
+will continue to be subject to Site Plan Review under DCC 18.124 and, where applicable,
+Conditional Use Permit approval under DCC 181.128.
+660-013-0160, Applicability
+This division applies as follows:
+(2) Amendments to plan and land use regulations may be accomplished through plan
+amendment requirements of ORS 197.610 to 197.625 in advance of periodic review where
+such amendments include coordination with and adoption by all local governments with
+responsibility for areas of the airport subject to the requirements of this division.
+FINDING: Sections 197.610 to 197.625 of the ORS address submission of the text amendment
+to, and review by, the Department of Land Conservation and Development ("DLCD"). The County
+submitted the proposed text amendment to DLCD on August 4, 2020, with confirmation of receipt
+by DLCD on the same day. The County is coordinating review of this text amendment with the
+City of Bend, the applicant.
+(3) Compliance with the requirements of this division shall be deemed to satisfy the
+requirements of Statewide Planning Goal 12 (Transportation) and OAR 660, division, 12
+related Airport Planning.
+247-20-000482-TA EXHIBIT B - Qecks��nf 21Page 2f>9of� f
+FINDING: Staff asks the Hearings Officer to determine if the proposal complies with the
+requirements of Division 13.
+(4) Uses authorized by this division shall comply with all applicable requirements of other
+laws.
+FINDING: To staff's knowledge, all applicable local regulations, along with relevant statutes and
+rules, are identified in this staff report. With the exception of Goal 12, staff believes the proposal
+complies with applicable law.
+(5) Notwithstanding the provisions of OAR 660-013-0140 amendments to acknowledged
+comprehensive plans and land use regulations, including map amendments and zone
+changes, require full compliance with the provisions of this division, except where the
+requirements of the new regulation or designation are the same as the requirements they
+replace.
+FINDING: As noted previously, staff believes the proposal complies with applicable law, with the
+possible exception of Goal 12. The applicant does not argue that the safe harbor provisions of
+OAR 660-013-0140 apply.
+247-20-000482-TA
+Deschutes County Board of Commissioners
+1300 NW Wall St, Bend, OR 97703
+(541) 388-6570 - Fax (541) 385-3202 - https://www.deschutes.org/
+AGENDA REQUEST & STAFF REPORT
+For Board of Commissioners BOCC Wednesday Meeting of December 301 2020
+DATE: December 17, 2020
+FROM: Anthony Raguine, Community Development, 541-617-4739
+TITLE OF AGENDA ITEM:
+SECOND READING: Consideration of Ordinance No. 2020-018, Amendments to Chapter
+18.76, Airport Development Zone, and Chapter 18.116, Supplementary Provisions.
+FISCAL IMPLICATIONS: None.
+ATTENDANCE: Anthony Raguine, Senior Planner

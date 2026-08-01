@@ -1,0 +1,306 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-93-051
+title: 'Ordinance No. 93-051'
+doc_type: ordinance
+citation: 'Ordinance No. 93-051'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616697375_1993-45715-Ordinance%20No.%2093-051%20Recorded%2012_16_1993.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 71a595fb853ddb1aa81764c5e7bb357a5cafe89a1ec5aadbfce4d9bbdb0fb8f8
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 93-051 (Ordinance No. 93-051)
+
+## At a glance
+
+Ordinance No. 93-051 — orders of Deschutes County. 6 pages.
+
+## Full text
+
+93- 45' 715
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF
+An Ordinance Adding Chapter 15. 12,
+System Development Charges," to the
+Deschutes County Code and Declaring
+Emergency.
+REVIEWED
+3 w4
+LERAL COUNSEL
+DESCHUTES f:,
+an
+C81101
+ORDINANCE NO. 93- 051
+WHEREAS, ORS Chapter 223 allows local governments to charge
+system development charges on new development to account for the
+impacts on such development on existing and planned capital
+improvements; and
+WHEREAS the Board of County Commissioners has determined that
+it would be in the public interest to impose system development
+charges on new development; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. Adoption. A new Chapter 15. 12, System Development
+Charges, is added to the Deschutes County Code as set forth in
+Exhibit A, attached hereto and by this reference incorporated
+herein.
+Section 2. Severability. The invalidity of a section or
+subsection of this ordinance or any part thereof shall not affect
+the validity of the remaining sections, subsections or parts
+thereof.
+Section 3. Emergency. This Ordinance being necessary for the
+immediate preservation of the public peace, health and safety, an
+emergency is declared to exist, and this Ordinance takes effect on
+its passage.
+DATED this 15 day of December, 1993.
+E T:
+Recording Secretary
+BOARD 01 COUNTY COMMISSIONERS
+O=
+r\
+S COUNTY, OREGON
+d
+T04 THROOP1hair 7
+NANCY POP SC , Commi Toner
+BARRY H. SZAUGHTER, Cqfimissioner
+1 - ORDINANCE NO. 93- 051 ( 12/ 15/ 93)
+KV
+@E
+11993
+01.28- 1102
+Chapter 15. 12
+System Development Charges
+15. 12. 010 Definitions
+A. Capital improvement.
+1. " Capital improvement" means facilities or assets
+used for the following:
+i. Water supply, treatment and distribution;
+ii. Wastewater collection, transmission, treatment
+and disposal;
+iii. Drainage and flood control;
+iv. Transportation; or
+V. Parks and recreation.
+2. " Capital improvement" does not include costs of the
+operation or routine maintenance of capital improvements.
+B. " Improvement fee" means a fee for costs associated with
+capital improvements to be constructed.
+C. " Reimbursement fee" means a fee for costs associated with
+capital improvements already constructed or under construction.
+D. " Other governmental unit" refers to any other
+governmental unit, as defined in ORS Chapter 223 for whose benefit
+Deschutes County collects a system development charge.
+E. Qualified public improvement. A " qualified public
+improvement" means a capital improvement that is required as a
+condition of development approval, identified in the plan adopted
+pursuant to section 15. 12. 050, and either:
+a) Not located on or contiguous to property that is the
+subject of development approval; or
+b) Located in whole or in part on or contiguous to property
+that is the subject of development approval required to be built
+larger or with greater capacity than is necessary for the
+particular development project to which the improvement fee is
+related.
+F. System development charge.
+1. " System development charge" means a reimbursement
+fee, an improvement fee or a combination thereof assessed or
+collected at the time of increased usage of a capital
+improvement or issuance of a development permit, building
+2 - EXHIBIT A TO ORDINANCE 93- 051 ( 12/ 15/ 93)
+0128-- 1103
+permit or connection to the capital improvement. System
+development charge includes that portion of a sewer or water
+system connection charge that is greater than the amount
+necessary to reimburse the governmental unit for its average
+cost of inspecting and installing connections with water and
+sewer facilities.
+2. " System development charge" does not include any
+fees assessed or collected as part of a local improvement
+district or a charge in lieu of a local improvement district
+assessment, or the cost of complying with requirements or
+conditions imposed upon a land use decision or limited land
+use decision.
+15. 12. 020 Adoption of system development charges.
+A) System development charges, the collection of which are
+authorized by ORS 223. 297 through 223. 314, are to be collected from
+developers of real property and users or prospective users of
+capital improvements and may be established and revised by the
+Board of County Commissioners by resolution.
+B) Each system development charge resolution shall include
+the following:
+i) The amount of the fee to be charged,
+ii) The purpose of the charge,
+iii) The methodology used to establish the charge,
+iv) When such fees are to be paid,
+v) For improvement fees, provide for a credit when a
+qualified public improvement is constructed by the
+developer or user who is being required to pay a
+system development charge.
+15. 12. 030 Crediting Qualified Public Improvements.
+Developers shall be credited for qualified public improvements
+as provided for in this section. Such credits shall be only for
+the improvement fee charged for the type of improvement being
+constructed, and credit for qualified public improvements under
+Section 15. 12. 010( E)( b) may be granted only for the cost of that
+portion of such improvement that exceeds the government unit' s
+minimum standard facility size or capacity needed to serve the
+particular development project or property. The applicant shall
+have the burden of demonstrating that a particular improvement
+qualifies for credit under Section 15. 12. 010( E)( b).
+15. 12. 040 Authorized Expenditures.
+A) Reimbursement fees shall be applied only to capital
+improvements associated with the systems for which the fees are
+assessed, including repayment of indebtedness.
+3 - EXHIBIT A TO ORDINANCE 93- 051 ( 12/ 15/ 93)
+0128- 1104
+B) Improvement fees shall be spent only on capacity
+increasing capital improvements, including expenditures relating to
+the repayment of debt for such improvements. An increase in system
+capacity occurs if a capital improvement increases the level of
+performance or service provided by existing facilities or provided
+new facilities. The portion of the improvements funded by
+improvement fees must be related to demands created by development.
+A capital improvement being funded wholly or in part from revenues
+derived from the improvement fee shall be included in the plan
+adopted under section 15. 12. 060.
+C) Notwithstanding subsections ( A) and ( B) of this section,
+system development charge revenue may be expended on the direct
+costs of complying with the provisions of this Ordinance; including
+the costs of developing system development charge methodologies and
+providing an accounting of system development charge expenditures.
+15. 12. 050 Expenditure Restrictions.
+A) A system development charge shall not be expended for
+costs associated with the construction of administrative office
+facilities that are more than an incidental part of other capital
+improvements.
+B) A system development charge shall not be expended for
+costs of the operation or routine maintenance of capital
+improvements.
+15. 12. 060 Improvement Plan.
+Capital improvements for which a system development charge has
+been imposed shall be included on a capital improvement or public
+facilities plan or a similar master plan that lists ( 1) the capital
+improvements to be funded by improvement fee revenues, ( 2) the
+estimated cost of those improvements, and ( 3) sets forth a
+timetable for completion of such improvements.
+15. 12. 070 Segregation and Use of Revenue
+A) All funds derived from a system development charge shall
+be segregated by accounting practices from all other funds of the
+County. The system development charge shall be used for no other
+purposes than those set forth in the section 15. 12. 040 and the
+resolution adopting the charge.
+B) Except for those funds for which the County serves as the
+collection agent for another governmental unit, the County shall
+provide an annual accounting for system development charges showing
+the total amount of system development charge revenues collected
+for each system and the projects that were funded.
+4 - EXHIBIT A TO ORDINANCE 93- 051 ( 12/ 15/ 93)
+0128- 11o5
+C) System development charge funds collected on behalf of
+other governmental units may be transferred to such other
+governmental units consistent with the requirements of Section
+15. 12. 075 of this Chapter.
+15. 12. 075 Collection on Behalf of Other Governmental Units
+In those instances in which a systems development charge has
+been adopted by and/ or collected by the County on behalf of another
+governmental unit, such as Bend Metro Parks and Recreation, for
+transfer to such other governmental unit, the other governmental
+unit shall agree through an intergovernmental agreement to the
+following:
+1) To segregate all system development charge funds
+transferred by the County from other funds of that
+governmental unit;
+2) To expend such funds only in accordance with adopted
+capital improvement plans complying with the provisions
+of ORS Chapter 223;
+3) To establish accounting systems that will enable the
+district to track the expenditure of said funds;
+4) To provide an annual accounting of the expenditure of
+said funds;
+5) To establish a procedure for handling challenges to the
+expenditure of transferred system development charges no
+later than one year after the date of adoption of the
+system development charge;
+6) To participate as a party in any challenge proceeding
+administered by the County in which the expenditure by
+the other governmental unit of transferred system
+development charge funds is an issue;
+7) To be the source of funds required to be paid if through
+a hearing process administered by the County it is
+determined that any system development funds have been
+spent other than as authorized by law; and
+8) To otherwise indemnify, hold harmless and defend the
+County against and from any claims, losses, damages or
+any other expenses that the County may incur by reason of
+a claim that transferred system development charge funds
+have been spent by the other governmental unit in an
+unauthorized manner.
+5 - EXHIBIT A TO ORDINANCE 93- 051 ( 12/ 15/ 93)
+O'1ti8- 1106
+15. 12. 080 Challenge of expenditures.
+A) Any citizen or interested person may challenge an
+expenditure of system development charge revenues based upon an
+alleged failure of the County to follow the requirements of ORS
+223. 307 by filing a written challenge with the Board of County
+Commissioners describing, with particularity, the expenditure which
+the person is challenging and the reason that the challenge is
+alleged to be unlawful. All such challenges must be brought within
+two years of the date of the expenditure challenged.
+B) In those instances in which a systems development charge
+is adopted and/ or collected by the County on behalf of another
+governmental unit, such as Bend Metro Parks and Recreation, any
+challenge regarding alleged unauthorized expenditures shall be
+directed to that other governmental unit if such other governmental
+unit has adopted by ordinance or resolution a procedure consistent
+with the requirements of ORS 223. 307 to accept and respond to
+challenges to system development charge expenditures. If the other
+governmental unit has not adopted such procedures of its own to
+accept and respond to challenges, challenges shall be directed to
+the County under Sections 15. 12. 080( A) and 15. 12. 090 of this
+chapter.
+15. 12. 090 Hearing of challenge to expenditures.
+Challenges that may properly be heard before the County to an
+expenditure of system development charges shall be set for an
+administrative hearing before a hearings officer. Such hearings
+shall be tape recorded. The person conducting the hearing must not
+be one of the persons who authorized the challenged expenditure of
+funds. The hearings officer shall provide notice to the person
+challenging the expenditure and the public employees or officials
+who made the expenditure, of the hearing date, time and place. The
+person conducting the hearing shall also provide said persons an
+opportunity to present evidence and legal arguments concerning the
+matter. If the hearings officer determines that system development
+charges were misspent, he or she shall forward a report to the
+Board detailing the hearings officer' s findings and indicating the
+amount of funds misspent and from where said funds were spent. The
+Board shall review the hearings officer' s report and replace any
+funds it determines have been misspent with funds derived from
+other sources.
+15. 12. 100 Prohibited Construction
+A) No person, firm or corporation shall construct a
+structure to which a system development charge applies unless the
+applicable system development charge has been paid.
+B) Violation of this provision shall be a Class A
+infraction.
+6 - EXHIBIT A TO ORDINANCE 93- 051 ( 12/ 15/ 93)

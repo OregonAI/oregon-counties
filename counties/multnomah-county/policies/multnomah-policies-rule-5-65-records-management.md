@@ -1,0 +1,212 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-policies-rule-5-65-records-management
+title: 'Rule 5-65:  Records Management'
+doc_type: policy
+citation: 'Rule 5-65:  Records Management'
+authority_level: county_policy
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://multco.us/file/rule_5-65:__records_management/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 23ad21f146d8810a739b439b0556d404fa61d1cb3a38b3d7e33a9ae3a80a0480
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Rule 5-65:  Records Management (Rule 5-65:  Records Management)
+
+## At a glance
+
+Rule 5-65:  Records Management — policies of Multnomah County. 6 pages.
+
+## Full text
+
+Rule # 5-65
+Records Management
+§§:
+     § 5-65-010 Personnel Records
+§ 5-65-020 Personnel Files
+§ 5-65-030 I-9 Employment Eligibility Verification Form
+§ 5-65-040 Restricted Records
+§ 5-65-050 Files for Terminated Employees
+§ 5-65-060 Other Personnel Documents
+§ 5-65-070 Access to Employee Files
+§ 5-65-080 Reference Checks and Other External Records Requests
+§ 5-65-090 Purging of Records
+§ 5-65-100 Retention of Records
+§ 5-65-010 Personnel Records
+A. Responsibility for maintaining employment -related records is shared by the departments
+and Central HR.  Generally, the departments are responsible for curr ent employee files
+and recent recruitment related files.  Central HR is responsible for files related to central
+support services functions, such as W -4 forms, benefits, workers’ compensation, and
+labor relations purposes.
+B. Departments must maintain a personnel file for each employee that contains all records
+pertinent to the employee's employment status and history.  When an employee
+transfers or is promoted to a position in a different department the receiving department
+will request the employee's personn el and medical files from the transferring employee's
+department.  If an employee works part -time in two departments, the department
+responsible for timekeeping will maintain the employee's personnel file.
+C.As used in this section, “personnel records” means records containing information kept
+by the County and by its agencies, divisions and department about or concerning an
+employee which the County requested or required to be disclosed to the County for
+employment purposes or as a condition of employment, including, but not limited to,
+information concerning discipline, employment performance, contact information, or
+other personal records of individual employees.
+D.Personal mobile phone and home electronic e -mail address contact information,
+regardless of where kept, is provided to the County based on the County’s assurance
+that the information is confidential and will not be disclosed to third parties except as
+otherwise provided in MCPR 3-10.
+§ 5-65-020 Personnel Files
+A. The employee’s paper and/or electronic personnel file must contain the following
+documents except as otherwise provided in collective bargaining agreements:
+1. Employment application for employee’s first position;
+2. Employment application for the current position;
+3. Personnel/Data action forms;
+4. Performance evaluations;
+5. Work history log and training record (optional);
+6. Letters of commendation and recommendation;
+7. Notices of layoff;
+8. Oaths of office;
+9. Required licenses or certification;
+10. Emergency medical notification form (optional);
+11. Work plans;
+12. Documents of expectation;
+13. Resignation documents;
+14. Notices of Disciplinary Action
+B. Employees may request to have a reasonable number of records that reflect creditably
+on them put in their files, such as letters of commendation and recommendations.
+§ 5-65-030 I-9 Employment Eligibility Verification Form
+Departments are responsible for maintaining copies of I -9 Employment Eligibility Verification
+forms for all current employees and prior employees as required by law.  They will be filed
+separately from the personnel files, although departments are not required to have separate
+files for each employee.
+§ 5-65-040 Restricted Records
+A. Employee medical records, except for those in subsection (B), are the responsibility of
+each department’s human resources unit.  They will be retained in a separate and
+locked confidential file that is physically separated from the personnel file, as prescribed
+by the Americans with Disabilities Act.  Employee medical records includes items such
+as documentation required by the Americans with Disabilities Act; the Family and
+Medical Leave Act; Oregon Family Leave Act; workers' compensation claims; physical
+exam records; drug and alcohol test results; medical inquiries and doctors' or other
+physical or mental health providers' assessment s, including those provided by
+substance abuse professionals; any medical leave of absence documentation which
+includes medical reasons for the leave; and any other similar types of records.
+B. Other files may be maintained for risk management, human resources, employee
+benefits, and labor relations purposes, and by the County Attorney and contractors
+managing workers compensation and medical monitoring for the county.
+C.Release of medical information:
+1. All employee medical information is confidential and is available only to county
+employees who have a work related need to access the records.
+2. Supervisors and managers may be informed of restrictions on the work and
+duties of employees and of accommodations.
+3. First aid and safety personnel may be informed, when appropriate, if an
+employee has a disability that might require emergency treatment.
+D.Personnel, I-9 forms, medical records and other related records must be kept in locked
+files within the department or Central HR.  Access to these files is limited to authorized
+personnel with a job-related need for such records.
+E. Documentation related to drug and alcohol testing for county employees with commercial
+drivers' licenses will be retained in locked, confidential files in Central HR.
+§ 5-65-050 Files for Terminated Employees
+A. Personnel files for terminated employees are retained in the department for two years
+after separation then sent to Central HR.  Thereafter, they will be retained by Central
+HR or archived per the county records management program.
+B. The department must retain medical files for terminated employees for two years
+following separation. They are then sent to Central HR, separately from employee
+personnel files, marked "confidential" and merged with the central employee medical
+files.
+§ 5-65-060 Other Personnel Documents
+The following personnel documents will be retained as follows:
+A. Records concerning departmental approval of pay rates for new hires, promotions,
+transfers, merit increases, and related personnel actions will be retained by
+departments;
+B. Departments will retain position descriptions reflecting current duties and responsibilities
+for all their positions;
+C.Departments will retain records of disciplinary action above the level of an oral
+reprimand;
+D.Records of actions taken on requests for leaves of absence 30 days or longer and all
+FMLA/OFLA leaves regardless of length; mandatory training not in the county training
+database; unemployment claims; return to work of injured workers; requests  for
+reasonable accommodations; and other related personnel actions will be retained by
+departments or contractors managing workers compensation, medical monitoring, etc.,
+for the county; and
+E. Central HR will retain records related to requests for classific ation reviews.
+§ 5-65-070 Access to Employee Files
+A. No information reflecting critically on an employee's conduct or work performance will be
+placed in the employee's personnel file unless the employee also receives a copy.  The
+copy will be sent to the last address the county has on file for the employee.
+B. The employee is entitled to prepare and have placed in the personnel file a written
+explanation or opinion regarding critical information believed to be incorrect. The written
+explanation or opinion will be included in the employee's personnel file until t he critical
+material is removed.
+C.Removal of materials from file:  Except for items designated for permanent retention,
+material reflecting critically may be removed from a management or executive
+employee's, personnel file, upon request, three years from t he date of any letter of
+reprimand; five years from the date of discipline more severe than a written reprimand;
+and where there is more than one letter imposing discipline more severe than a written
+reprimand, none of the letters may be removed until the most recent letter is more than
+five years old.  Letters of discipline imposed due to charges of prohibited harassment,
+excessive use of force or threats of violence, untruthfulness, dishonesty, or
+insubordination will be retained permanently, unless remov al is approved as provided in
+this Rule. Subject to the approval of the department director and Central HR, materials
+reflecting critically upon a management or executive employee may be removed at an
+earlier time, including documents subject to permanent retention.
+D.Removal of material from represented employees’ personnel files is governed by
+collective bargaining agreements.  Upon request of an employee, disciplinary action
+imposed while a management or executive employee was covered by a collective
+bargaining agreement may be removed based on the retention schedule listed in that
+agreement.
+E. Review of and access to an employee’s personnel file is governed by the county’s
+collective bargaining agreements, county personnel rules and state and federal law.
+Employees have access to view their personnel file at a time and place designated by
+the department’s human resources unit or have a certified copy mailed to the employee
+within 45 days of the employee’s request.
+F. Upon request, the employee or his or her representative with written authorization from
+the employee will be given a copy of any records in the employee's personnel file.
+G. Former employees or their designee, with a signed release, will have the same right of
+access as current employees as long as th e file is maintained by the county.
+§ 5-65-080 Reference Checks and Other External Records Requests
+A. The following data will normally be revealed regarding a current or former employee in
+response to reference checks:  name, classification title, department  status, salary, hire
+date, and termination date.  A director or supervisor who responds to a request for a
+personal reference on a current or former employee will respond in good faith with
+verifiable, objective and truthful information.
+B. Supervisors performing reference checks may review the personnel files of county
+employees who have applied for jobs under their supervision.
+C.When other requests for records are received regarding a current or former employee,
+the county will only release name, classificat ion title, department status, salary, hire
+date, and termination date.  Other records are considered confidential and will not be
+revealed to outside sources except as required by law or as expressly authorized in
+writing by the employee.
+D.Non-management employees may not provide letters of reference or recommendation on
+county letterhead or otherwise represent the county in providing references, without
+supervisor permission.
+§ 5-65-090 Purging of Records
+Any purged records that contain personal employee information (i.e., home address, phone
+number, social security number, etc.) must be destroyed by shredding, or by other methods to
+ensure confidentiality.
+§ 5-65-100 Retention of Records
+Retention periods for human resources records will be based on the county Records Retention
+Schedule - Human Resources.  Records retained for extended periods may be purged and
+then archived in the same or alternative format, such as microfilm. Where there is a conflict in
+the retention period stated in the county Records Retention Schedule and these rules, the
+Records Retention Schedule prevails.
+(ER375, Amended, 02/24/2017; ER 312, Amended, 08/08/2007)

@@ -1,0 +1,466 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-86-018
+title: 'Ordinance No. 86-018'
+doc_type: ordinance
+citation: 'Ordinance No. 86-018'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616613784_1986-12414-Ordinance%20No.%2086-018%20Recorded%206_30_1986.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: eab783cd917e0e59594ebc8a84a9d1ccbea4a9b5f2d186813be5284aca8781e9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 86-018 (Ordinance No. 86-018)
+
+## At a glance
+
+Ordinance No. 86-018 — orders of Deschutes County. 10 pages.
+
+## Full text
+
+FLMAL
+WED
+86- 12414
+UNSEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Ordi-
+nance No. PL - 15, Deschutes
+County Zoning Ordinance of
+1979, As Amended, To Prohibit
+Hydroelectric Facilities In
+Designated Zones and Stretches*
+Of The Deschutes River And Its*
+Tributaries, To Allow Hydro-
+electric Facilities As Condi-
+tional Uses In Designated
+Zones and Stretches of the
+Deschutes River, Establishing
+Conditional Use Criteria,
+Adopting Findings And Conclu- *
+sions, and Declaring An Emer- *
+gency.
+i t
+1' ; vUL 72 FArE3
+key"'.
+coxvcF"
+1986
+ORDINANCE NO. 86- 018
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. Section 1. 030, Ordinance No. PL - 15, Deschutes
+County Zoning Ordinance of 1979, as amended, is further amended
+to include the following definitions:
+25B) Conduit. Any tunnel, canal, pipeline,
+aqueduct, flume, ditch or similar man-
+made structure which is or may be used
+to convey water.
+27A) Dam. Any man- made structure which is
+or may be used to impound water.
+28A) Diversion. Any man- made structure
+which is or may be used to deflect or
+divert water from a river or stream
+into a conduit.
+37A) Fish Passage Device. Any man- made structure
+which is or may be used to enable fish
+to pass over a dam to move upstream.
+37B) Fish Protection Device. Any man- made
+structure, such as a fish screen, which
+is or may be used to prevent fish from
+entering into or passing through con -
+1 - ORDINANCE NO. 86- 018
+voL 72 A72
+duits, penstocks and other water - con-
+ducting structures or devices connected
+to a hydroelectric facility.
+53A) Hydroelectric Facility. All aspects of
+any project or development necessary
+for or related to the generation of
+hydroelectric energy, including, but
+not limited to, conduits, dams, diver-
+sions, fish ladders and screens, gen-
+erators, impoundments, penstocks,
+turbines, transmission facilities, and
+related buildings, structures, storage
+areas, access roads, parking areas and
+surrounding and adjacent lands which
+are necessary for or related to the
+facility.
+53B) Impoundment. Any man- made structure
+which is or may be used to impound
+water.
+85A) Penstock. Any conduit or other struc-
+tur— ew ich is or may be used to convey
+water to the driving mechanism of the
+generator.
+130A) Transmission Facility. The conductors,
+lines, poles, towers, structures,
+corridors and construction staging and
+assembly areas necessary for or asso-
+ciated with the transmission of elec-
+tricity from a hydroelectric facility
+for distribution."
+Section 2. Subsection 134, Section 1. 030, Ordinance No. PL -
+15, Deschutes County Zoning Ordinance of 1979, as amended, is
+further amended to read as follows:
+134) Utility Facility. Any major struc-
+tures, excluding hydroelectric facil-
+ities, owned or operated by a public,
+private or cooperative electric, fuel,
+communications, sewage or water company
+for the generation, transmission,
+distribution or processing of its prod-
+ucts or for the disposal of cooling
+water, waste or by- products, and inclu-
+ding power transmission lines, major
+trunk pipelines, power substations,
+water towers, sewage lagoons, sanitary
+landfills and similar facilities, but
+2 - ORDINANCE NO. 86- 018
+VOL 72 PAGE373
+excluding local sewer, water, gas,
+telephone and power distribution lines,
+and similar minor facilities allowed in
+any zone."
+Section 3. Subsection 3, Section 4. 010, Exclusive Farm Use
+EFU 320, Ordinance No. PL - 15, Deschutes County Zoning Ordinance
+of 1979, as amended, is further amended by the addition of the
+following:
+0) Hydroelectric facility, in accordance with Sec-
+tions 5. 210 and 8. 050( 22) of this Ordinance."
+Section 4. Subsection 3, Section 4. 020, Exclusive Farm Use
+EFU 80, Ordinance No. PL - 15, Deschutes County Zoning Ordinance
+of 1979, as amended, is further amended by the addition of the
+following:
+0) Hydroelectric facility, in accordance with
+Sections 5. 210 and 8. 050( 22) of this Ordi-
+nance."
+Section 5. Subsection 3, Section 4. 030, Exclusive Farm Use
+EFU 40, Ordinance No. PL - 15, Deschutes County zoning Or finance
+of 1979, as amended, is further amended by the addition of the
+following:
+0) Hydroelectric facility, in accordance with
+Sections 5. 210 and 8. 050( 22) of this Ordi-
+nance."
+Section 6. Subsection ( 3), Section 4. 040, Exclusive Farm
+Use - EFU 20, Ordinance No. PL - 15, Deschutes County Zoning Ordi-
+nance of 1979, as amended, is further amended by the addition of
+the following:
+P) Hydroelectric facility, in accordance with
+Sections 5. 210 and 8. 050( 22) of this Ordi-
+nance."
+Section 7. Subsection 3, Section 4. 060, Multiple Use Agri-
+cultural Zone - MUA, Ordinance No. PL - 15, Deschutes County Zoning
+Ordinance of 1979, as amended, is further amended by the addition
+of the following:
+T) Hydroelectric facility, in accordance with
+Sections 5. 210 and 8. 050( 22) of this Ordi-
+nance."
+Section B. Subsection 3, Section 4. 070, Forest Use F- 1,
+Ordinance No. PL - 15, Deschutes County Zoning Ordinance of 1979,
+as amended, is further amended by the addition of the following:
+3 - ORDINANCE NO. 86- 018
+VOL 72 PACE!''
+B) Hydroelectric facility, in accordance with
+Sections 5. 210 and 8. 050( 22) of this Ordi-
+nance."
+Section 9. Subsection 3, Section 4. 080, Forest Use F- 2,
+Ordinance No. PL - 15, Deschutes County Zoning Ordinance of 1979,
+as amended, is further amended by the addition of the following:
+0) Hydroelectric facility, in accordance with
+Sections 5. 210 and 8. 050( 22) of this Ordi-
+nance."
+Section 10. Subsection 3, Section 4. 085, Forest Use F- 3,
+Ordinance No. PL - 15, Deschutes County Zoning Ordinance of 1979,
+as amended, is further amended by the addition, of the following:
+P) Hydroelectric facility, in accordance with
+Sections 5. 210 and 8. 050( 22) of this Ordi-
+nance."
+Section 11. Subsection 3, Section 4. 100, Surface Mining
+Zone - SM, Ordinance No. PL - 15, Deschutes County Zoning Ordinance
+oflamas amended, is further amended by the addition of the
+following:
+F) Hydroelectric facility, in accordance with
+Sections 5. 210 and 8. 050( 22) of this Ordi-
+nance."
+Section 12. Subsection 3, Section 4. 110, Surface Mining
+Reserve Zone - SMR, Ordinance No. PL - 15, Deschutes County Zoning
+Ordinance of 1979, as amended, is further amended by the addition
+of the following:
+F) Hydroelectric facility, in accordance with
+Sections 5. 210 and 8. 050( 22) of this Ordi-
+nance."
+Section 13. Subsection 3, Section 4. 120, Rural Residential
+RR - 10, Ordinance No. PL - 15, Deschutes County Zoning Ordinance
+of1979, as amended, is further amended by the addition of the
+following:
+P) Hydroelectric facility, in accordance with
+Sections 5. 210 and 8. 050( 22) of this Ordi-
+nance."
+Section 14. Section 4. 195, Deschutes River Combining Zone -
+DR, Ordinance No. PL - 15, Deschutes County Zoning Ordinance of
+1979, as amended, is repealed.
+4 - ORDINANCE NO. 86- 018
+VOL 72 PAGE37 5
+Section 15. Subsection 3, Section 4. 220, Rural Industrial
+Zone - RI, Ordinance No. PL - 15, Deschutes County Zoning Ordinance
+of 1979, as amended, is further amended by the addition of the
+following:
+P) Hydroelectric facility, in accordance with
+Sections 5. 210 and 8. 050( 22) of this Ordi-
+nance."
+Section 16. Subsection 2, Section 4. 240, Planned Community
+Zone - PC, Ordinance No. PL - 15, Deschutes County Zoning Ordinance
+o 1979 -, as amended, is amended by the addition of the following:
+E) 2. f. Hydroelectric facility, in accordance with
+Sections 5. 210 and 8. 050( 22) of this Ordi-
+nance."
+Section 17. Article 5, Ordinance No. PL - 15, Deschutes
+County Zoning Ordinance of 1979, as amended, Supplementary Pro-
+visions, is amended by the addition of a new Section 5. 210,
+providing as follows:
+Section 5. 210, Hydroelectric Facilities.
+1) No new hydroelectric facilities shall be
+constructed, and no existing hydroelectric
+facilities shall be enlarged or expanded in
+size of area or generating capacity, on the
+following rivers and streams within Deschutes
+County:
+A) Deschutes River, from its headwaters
+to River Mile 227, above but not in-
+cluding Wickiup Dam, and from Wickiup
+Dam to River Mile 171 below Lava
+Island Falls;
+B) Crooked River;
+C) Fall River;
+D) Little Deschutes River;
+E) Spring River;
+F) Paulina Creek;
+G) Squaw Creek;
+H) Tumalo Creek.
+5 - ORDINANCE NO. 86- 018
+VOL 72 RAGE376
+2) Hydroelectric facilities are allowed as a
+conditional use on the Deschutes River at
+Wickiup Dam, and from River Mile 171 below
+Lava Island Falls downstream to the northern
+Deschutes County line. Such conditional use
+shall be governed by the conditions set forth
+in Section 8. 050 of this Ordinance."
+Section 18. Section 8. 050, Ordinance No. PL - 15 Deschutes
+County Zoning Ordinance of 1979, as amended, Conditional Uses, is
+amended by the addition of a new subsection ( 22), providing as
+follows:
+22) Hydroelectric Facilities.
+A) The criteria set forth below shall apply to
+any construction or expansion of, or other
+modification to, hydroelectric facilities
+in zones where such facilities are permit-
+ted as a conditional use. A conditional
+use permit may be granted for the construc-
+tion or expansion of, or other modification
+to, a hydroelectric facility only upon
+findings by the Hearings Body that the pro-
+posal meets each of the following criteria,
+where applicable;
+1) The facility is located at and
+physically connected to an exist-
+ing man- made diversion or impound-
+ment;
+2) The facility will not increase the
+maximum surface area or capacity
+of the impoundment created by the
+existing dam or diversion to which
+the facility will be connected;
+3) The facility will maintain or en-
+hance, to the greatest extent pos-
+sible, the existing scenic, visual,
+environmental and aesthetic quali-
+ties of the affected stretch of the
+river.
+4) The facility will maintain or
+enhance the existing recreational
+opportunities on or adjacent to
+the affected stretch of the river.
+5) The facility will maintain or en-
+hance existing fish and wildlife
+6 - ORDINANCE NO. 86- 018
+VOL 72 FACE3 `7
+habitat, and will have no adverse
+impact upon any threatened or en-
+dangered fish, wildlife or plant
+species or their habitat.
+6) The facility and its operation will
+maintain or enhance existing water
+quality in the affected stretch of the
+river, except during construction of the
+facility, when adverse impacts on water
+quality will be minimized. Specifi-
+cally, the facility and its operation
+will not:
+a) deposit, or create a zone for
+the deposit of, sediments in the
+river at or adjacent to the
+site;
+b) increase the temperature of the
+river in the affected stretch by
+any means, including but not
+limited to removal of vegetation
+or reduction in streamflow; or
+c) create the potential for, or
+result in, spillage, leakage or
+discharge of oil, chemicals or
+other substances or waste prod-
+ucts which could reach the
+river.
+7) The facility and its operation will not
+increase soil or bank erosion or destroy
+bank habitat at or on land adjacent to the
+site, except during construction of the
+facility, during which time soil or bank
+erosion and destruction of bank habitat
+will be minimized.
+8) The facility and its operation will
+maintain existing public access to
+the affected stretch of the river.
+9) The facility will not be located at
+or immediately adjacent to any iden-
+tified archaeological or historical
+site, national or state park, wild-
+life refuge, Bureau of Land Manage-
+ment Outstanding Natural Area or Area
+of Critical Environmental Concern,
+7 - ORDINANCE NO. 86- 018
+VOL 72 PscE278
+Federal Research Natural Area or U. S.
+Forest Service Special Interest Area.
+10) The facility will not be located on
+any stretch of the river that is
+being studied or recommended for
+inclusion in either the Federal Wild
+and Scenic Rivers Program or the
+State Scenic Waterways Program,
+unless location of the facility at
+that site would not preclude inclu-
+sion of the stretch in the state or
+federal program.
+11) The facility and its operation will
+comply with all applicable noise,
+water quality and pollution regu-
+lations of the Oregon Department of
+Environmental Quality.
+12) The facility and its operation will
+comply with all applicable state and
+local fill - and - removal statutes and
+regulations.
+B) The applicant for a conditional use permit
+for a hydroelectric facility, in addition
+to all other requirements, shall submit the
+following for approval:
+1) Detailed construction plans and
+profiles of all facility features,
+including building elevations of the
+powerhouse and other structures,
+excavation plans and narrative as to
+where blasting will occur and where
+excess material will be deposited, and
+landscaping and reclamation plans.
+2) Detailed plans for meeting the cri-
+teria set forth in subsection ( A)
+above.
+3) Detailed plans for river enhancement
+documenting both on- site and off- site
+enhancement plans consistent with
+adopted river - related goals and poli-
+cies, such as plans and methods for
+conserving water and enhancing stream -
+flows. The plan shall identify costs,
+time schedules and coordination activ-
+8 - ORDINANCE NO. 86- 018
+VOL 72 PA ._
+b-
+ities with affected persons and agen-
+cies for such enhancement plans.
+4) A cash deposit, performance bond or
+other security acceptable to Deschutes
+County, in an amount equal to 100
+percent of the estimated cost of river
+enhancement.
+5) Detailed plans for a water conserva-
+tion and stream enhancement program to
+be funded by a portion of revenues
+generated by the operation of the
+proposed facility. The program plans
+shall contain the following:
+a) A program timetable;
+b) Projected gross revenues from
+the proposed facility;
+c) Projected program expenditures
+and the percentage of gross
+revenues they represent;
+d) Projected water savings and the
+percentage of known current
+water losses they represent;
+e) A declaration by the applicant
+that at least fifty percent of
+the conserved water will remain
+undiverted by the applicant;
+f) A declaration by the applicant
+that water diversion for power
+generation will not cause water
+flow in the affected stretch of
+the river ( from the diversion to
+the tailrace exit) to fall below
+the minimum streamflow for that
+stretch as recommended by the
+Oregon Department of Fish and
+Wildlife; and
+g) A declaration by the applicant
+that it will enter into an
+agreement with Deschutes
+County, prior to beginning
+construction of the facility,
+by which the applicant agrees
+to fulfill all of the require -
+9 - ORDINANCE NO. 86- 018
+VOL 72 38
+ments in paragraphs ( a) through
+f) of this subsection."
+Section 19. The Board of County Commissioners adopts as its
+findings and conclusions supporting the amendments in Sections 1
+through 18 of this Ordinance the Staff Report, dated May 21,
+1986, relating to the Deschutes River Corridor.
+Section 20. This Ordinance being necessary for the imme-
+diate preservation of the public peace, health and safety, an
+emergency is declared to exist, and this Ordinance takes effect
+on its passage.
+DATED this day of June, 1986.
+ATTEST:
+Recording Secretary
+10 - ORDINANCE NO. 86- 018
+BOARD OF COUNTY COMMISSIONERS
+OF 019SCHUTF COUNTYj/' O EGON
+OLV BRISTOW PRANTE, Chair
+Commissioner
+Commissioner

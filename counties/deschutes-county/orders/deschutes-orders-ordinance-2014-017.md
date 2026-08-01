@@ -1,0 +1,569 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2014-017
+title: 'Ordinance No. 2014-017'
+doc_type: ordinance
+citation: 'Ordinance No. 2014-017'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617124385_2014-344-Ordinance%20No.%202014-017%20Recorded%207_1_2014.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8a0a36023ff424c880fa375b48dc820ebccbd2d7c6f0f393049e65a26aa0d413
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2014-017 (Ordinance No. 2014-017)
+
+## At a glance
+
+Ordinance No. 2014-017 — orders of Deschutes County. 15 pages.
+
+## Full text
+
+REVIEWED
+DESCHUTES COUNTY OFFICIAL RECORDS
+0+rpt} + {
+L
+NANCY BLANKENSHIP,  COUNTY CLERK yJ     "
+LEGACOUNSEL COMMISSIONERS'  JOURNAL
+07/01/201410:52'55AM
+II
+2 1 II3III I UIIIIIIIIIIUIIU
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Adding and Amending Deschutes
+County Code Chapters 18. 116 and 18. 124 to Include   *  ORDINANCE NO. 2014- 017
+Traffic StudyRequirementsandUpdateCross-
+references.
+WHEREAS, DeschutesCounty Planning Division staff requesteda text amendmentto Deschutes
+County Code (" DCC") 17.16.115, 18.116.310, and 18.124.080, to move traffic study requirements from 17.16
+Approval of Subdivision Tentative Plans and Master Development Plans to 1.8.116 (SupplementaryProvisions),
+establishing18.116.310 (Traffic Study Requirements) and updating 18.124 (Site Plan Review) referenceto
+traffic studies; the reasonis many land useapplicationsthat arenot for a subdivisionor masterplan canoften
+meet threshold for a traffic study; and
+WHEREAS, after notice was given in accordance with applicable law, a public hearing was held on
+January9, 2014, beforetheDeschutesCountyPlanningCommissionand, on January9, 2014, thePlanning
+Commission recommended approval of the text amendment; and
+WHEREAS, the Board of County Commissionersconsideredthis matter after a duly noticedpublic
+hearing on June 4,  2014,  and concluded that the proposed changes are consistent with the County' s
+Comprehensive Plan and that the public will benefit from changes to the land use regulations; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1.   ADDING.   DCC 18. 116. 310 is added as in Exhibit " A," attached and incorporated by
+reference herein.
+Section 2.   AMENDMENT. DCC 18. 124. 080 is amended to read as described in Exhibit" B", attached
+and incorporated by reference herein.
+PAGE 1 OF 2- ORDINANCE NO. 2014- 017
+l
+Section 4.  FINDINGS.   The Board adopts as its findings in support of this decision, Exhibit " C"
+attachedand incorporated by reference herein.
+Dated this ZS of 2014 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+ti
+TAMMY ALPI6, Chair
+ANTHONY DeBONE, Vice Chair
+ATTEST:
+P- TiatA,( 1— r—
+Recording Secretary ALAN UNGER, Commissioner
+14-
+Date of 1
+s`
+Reading:   ` t day of   -       2014.
+Date of 2°
+a
+Reading: 0/ day of     (, Ciyc- C_—   , 2014.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Tammy Baney
+Anthony DeBone
+Alan Unger c
+Effective date: v.       day of 2014.
+PAGE 2 OF 2- ORDINANCE NO. 2014- 017
+18. 116. 310 Traffic Impact Studies
+A.  For purposesof DCC 18.116.310, the transportation system includes public and private roads,
+intersections, sidewalks, bike facilities, trails, and transit systems.
+B.  The applicantshall meetwith County staff in a pre-applicationconferenceto discussstudy
+requirements, then generate the traffic study and submit it concurrently with the land use
+application.
+C.  Guidelines for Traffic Impact Studies
+1.   All traffic impact studies shall be stamped and signed by the registered professional
+engineer who is licensed in the State of Oregon and is otherwise qualified to prepare
+traffic studies.
+2.   TheCountyEngineershalldeterminewhenthereporthassatisfiedall therequirementsof
+the development' s impact analysis. Incomplete reports shall be returned for completion.
+3.   The following vehicletrip generationthresholdsshall determinethe level and scopeof
+transportation analysis required for a new or expanded development.
+a.   No Report is required if there are fewer than 50 trips per day generated during a
+weekday.
+b.  Site Traffic Report ( STR):  If the development or change in use will cause the site to
+generate50-200 daily trip ends, and less than 20 peakhour trips, a Site Traffic Report
+may be required at the discretion of the County Engineer.
+c.   Traffic Impact Analysis ( TIA):  If the development or change in use will generate
+more than 200 trip ends and 20 or more peak hour trips, then a Traffic Impact
+Analysis( TIA) shall be required.
+4.   The peak hour shall be the highest continuous hour of traffic measured between 4:00 and
+6:00 PM, unless site trip generation characteristics warrant consideration of alternative
+periods as determined by the County Engineer. (An example would be a use with a high
+7: 00 and 9: 00 AM peak and a low PM peak such as a school.)
+D.  Traffic Study Area
+1.  After consultingwith other affectedjurisdictions, the County Engineershall determine
+the impact analysis area.
+2.   The impact analysis study area shall include, at a minimum:
+a.   All site accesspoints to the public roadway system via either a driveway or private
+roadway;
+b.  Nearest intersecting collector or arterial roads to the developmentthat would
+experience an increase of 25 additional peak hour trips;
+c.   Any othercollectoror arterialintersectionrequestedby staff.
+E.  Study Time Frames
+The analysis shall include the following time frames:
+1.   Existing conditions ( including approved, but not yet built developments as identified by
+the County Engineer);
+2.   Completion year of each significant phase of the development;
+3.   Five year forecast after build out for each phase of development or the final phase of
+development.
+4.   Generators of large volumes of traffic (> 5, 000 daily and > 500 peak hour trips), zone
+changes, and any destination resort development will also require an analysis of traffic
+conditions in a twenty-year horizon.
+F.  Minimum Study Requirements for a Site Traffic Report( STR)
+The minimum study requirements for a Site Traffic Report are:
+1.   A vicinity map showing the location of the project in relation to the transportation system
+of the area;
+Exhibit A of Ordinance 2014- 017 1
+2.   Trip generationforecastusing data from the most recent edition of the Institute of
+TransportationEngineers (ITE) Trip GenerationManualunlessmoreappropriatedatais
+available and approved by the County Engineer;
+3.   Trip distribution and assignment;
+4.   Safetyanalysisof thesiteaccesses, includingsightdistanceandoperationcharacteristics;
+5.  Description of the proposed development and surrounding land uses;
+G.  Minimum StudyRequirementsfor a Traffic ImpactAnalysis(TIA)
+Theminimumstudyrequirementsfor a Traffic ImpactReportare:
+1.   A vicinity map showing the location of the project in relation to the transportation system
+of the area;
+2.   All of the elements of a ST. R;
+3.   Traffic signal progression analysis and interconnection if a new signal is proposed;
+4.   A response in the final report to any supplemental study issues identified by other
+affected jurisdictions;
+5.  Appropriatetraffic calmingtechniquesif theprojectdistributestrips to aresidentiallocal
+road and is projected to increase the volumes on that road to a volume greater than 1,000
+ADT;
+6.  Trip generationforecastsusing data from the most recent edition of the Institute of
+Transportation Engineers ( ITE) Trip Generation Manual unless the County Engineer
+approves an alternate data source;
+7.   Trip distribution assumptionsare basedon historical data, existing and future travel
+characteristics, and capacity constraints;
+8.   A complete description and drawing of the proposed development.
+9.   Existing traffic volumes;
+10. Existing and future levelsof service, averagevehicledelayandvolume /capacityratios
+V/ C) for all intersections within the study area for conditions with and without the
+proposed project;
+11. Forecast traffic volumes with and without the development;
+13. Safetyanalysisof thesiteaccesses, includesightdistanceandoperationcharacteristics;
+14. Analysis of right and left turn lane warrants ( Oregon Department of Transportation
+ODOT) standards);
+15. Analysis of parking needsof the proposeddevelopment;
+16. When needed, warrant analysis for traffic control devices;
+17. Findings and conclusions including a recommendation of suggested potential mitigation
+for off- site impacts and an evaluation of the effectiveness of those solutions.
+H.  Operation And Safety Standards.
+The minimum operational and safety standardsfor use on DeschutesCounty' s system are:
+1.   The minimum level of service for intersections and roads, during the P.M. Peak Hour,
+shall be LOS  " D"  as determined by the most current published version of the
+Transportation ResearchBoard' s Highway Capacity Manual.
+2.   For state highway intersections, the performance standard shall be determined by the
+Oregon Highway Plan or ODOT- approved alternative standardor target.
+3.   The minimum sight distance for driveways and intersections is defined in AASHTO' s
+GEOMETRIC DESIGN OF HIGHWAYS AND STREETS" and the AASHTO" Design
+Guidelines for Very- Low Volume Local Roads(< 400 ADT)".
+I.   Mitigation
+1.   The applicant shall be responsible to mitigate any safety or capacity problems that are
+causedby their proposed development.
+2.   At the County Engineer' s discretion, if there are pre-existing safety deficiencies and/or
+capacity failures at relevant intersections or road frontages within the impact analysis
+Exhibit A of Ordinance 2014- 017 2
+p
+area, then no additional development shall be allowed until a solution that accounts for
+the proposed project' s additional impacts is funded or built.
+Ord. 2014- 017)
+Exhibit A of Ordinance 2014- 017 3
+18. 124. 080.   Other Conditions.
+ThePlanningDirectororHearingsBodymayrequirethefollowingin additiontotheminimumstandardsof
+DCC Title 18 as a condition for site plan approval.
+A.  An increase in the required yards.
+B.  Additional off- street parking.
+C.  Screeningof theproposeduseby a fenceor landscapingor combinationthereof
+D.  Limitations on the size,type, location, orientation andnumber of lights.
+E.  Limitations on the number and location of curb cuts.
+F.  Dedication of land for the creation or enlargement of streetswhere the existing street systemwill be
+impactedbyor isinadequatetohandletheadditionalburdencausedbytheproposeduse.
+G.  Improvement,  including but not limited to paving,  curbing,  installation of traffic signals and
+constructingsidewalksor thestreetsystemthatservestheproposedusewheretheexistingstreetsystem
+will be burdened by the proposed use.
+H.  Improvement or enlargement of utilities serving the proposed use where the existing utilities system will
+beburdenedby theproposeduse.  Improvementsmay include, but shallnotbelimitedto, extensionof
+utility facilitiesto servetheproposeduseandinstallationof fire hydrants.
+I.   Landscaping of the site.
+J.   Traffic Impact Study as identified in Title 17.16.115 18.116.310
+K.  Anyotherlimitationsorconditionsthatareconsiderednecessaryto achievethepurposesof DCCTitle
+18.
+Ord. 2014. 001§ 1; Ord. 2006- 005 § 1, 2006; Ord. 95- 075 § I, 1995; Ord. 93- 043 § 22C, 1993)
+Exhibit B of Ordinance 2014- 017 1
+DES, f,,
+Community Development Department
+emu„' Planning Division Building Safety Division Environmental Health Division
+1
+r
+E''    .
+e 1E E agr E
+y110 744,1    « A'. aafrA M° Eta'
+r1  ,
+ire
+Oregon 97701- 1925117 NW Lafayette Avenue Bend Orey
+541) 388- 6575 FAX ( 541) 385- 1764
+http:// www. co. deschutes. or. us/ cdd/
+PROPOSED FINDINGS
+FILE NUMBER:     BOCC Ordinance 2014- 001 ( TA- 13- 2)
+APPLICANT: Peter Russell
+Deschutes County Community Development Department
+P. O. Box 6005
+117 NW Lafayette
+Bend, OR 97708- 6005
+PROPERTY OWNERS:   N/ A
+REQUEST:    Relocate traffic study requirements from Deschutes County Code
+DCC)  Chapter 17. 16,  Subdivisions and Master Plans,  to DCC
+Chapter 18. 116,  Supplemental Provisions,  creating a new section
+DCC 18. 116. 310 while deleting DCC 17. 16. 115;   change the
+performance standard for new County facilities from Level of Service
+LOS) C to LOS D, matching the LOS requirement for existing County
+roads.
+STAFF CONTACT: Peter Russell, Senior Transportation Planner
+I. APPLICABLE CRITERIA:
+Title 22, Deschutes County Development Procedures Ordinance
+Title 23, Deschutes County Comprehensive Plan
+Deschutes County Transportation System Plan (Section 3.7 of Comprehensive Plan)
+Statewide Planning Goals
+Transportation Planning Rule (Oregon Administrative Rule 660-012)
+II. BASIC FINDINGS:
+A. PROPOSAL:  The applicant requests approval of moving the traffic study requirements
+now found in DCC 17. 16. 115 and shifting them to DCC 18. 116 and creating a Section
+18. 116. 310,  Traffic Study Requirements.   The cross- references in DCC 18. 124. 080
+Quality Services Performed with Pride
+would be modified from DCC 17. 16. 115 to DCC 18.116. 310 and DCC 17. 16. 115 would
+also add a cross- reference to the new DCC 18. 116. 310.  The reason for the change is
+the County often requires traffic studies for land uses that are not subdivisions or master
+plans,  yet the requirements for traffic studies are now located in a section of the
+development code that pertains solely to those two development proposals.   A more
+logical location would be DCC 18. 116 which is not land use zone specific and already
+includes many general transportation items such as standards for Class I and II road
+projects, clear zones, off- street parking, and bicycle parking.
+Selected portions of the traffic studies requirements have also been updated to reflect
+changes in best practices and/ or terminology to provide further clarity.  Examples include
+replacingreferencesto a trafficengineerto RegisteredProfessionalEngineer; specifying
+the time limits of the p.m. peak hour reference; and standardizing the County's Level of
+Service ( LOS) standard to D for all roadways instead of C for new County roads and D
+for existing County facilities.
+III.       CONCLUSIONARY FINDINGS:
+A.       CHAPTER 22. 12, LEGISLATIVE PROCEDURES
+1. Section 22. 12. 010.
+Hearing Required
+FINDING:  The Board finds this criterion has been met as public hearings were held before
+the PlanningCommissionon Jan. 9, 2014, and the Boardof CountyCommissionerson June
+4, 2014.
+2. Section 22. 12. 020, Notice
+Notice
+A.  Published Notice
+1.  Notice of a legislative change shall be published in a newspaper of
+general circulation in the county at least 10 days prior to each public
+hearing.
+2. The notice shall state the time and place of the hearing and contain a
+statement describing the general subject matter of the ordinance under
+consideration.
+FINDING:   The Board finds this criterion has been met as notice was published in the Bend
+Bulletin newspaper and described the proposal.
+B.  Posted Notice.  Notice shall be posted at the discretion of the Planning
+Director and where necessary to comply with ORS 203. 045.
+FINDING:   The Board finds this criterion has been met as notice was posted in the bulletin
+board in the lobby of the Deschutes County Community Development Department,  117 NW
+Lafayette, Bend.
+Exhibit C of Ordinance 2014- 017 Page 2
+C.  Individual notice.   Individual notice to property owners, as defined in
+DCC 22. 08. 010( A), shall be provided at the discretion of the Planning
+Director, except as required by ORS 215. 503.
+FINDING:  Given the land use in question does not apply to any specific property, no individual
+notices were sent.  The Board finds this criterion has been met.
+D.  Media notice.   Copies of the notice of hearing shall be transmitted to
+other newspapers published in Deschutes County.
+FINDING:    Notice was provided to the County public information official for wider media
+distribution.  The Board finds this criterion has been met.
+3. Section 22. 12. 030 Initiation of Legislative Changes.
+A legislative change may be initiated by application of individuals upon
+payment of required fees as well as by the Board of County
+Commissioners.
+FINDING:   The application was initiated by the Deschutes County Planning Division, which
+received a fee waiver.  The Board finds this criterion has been met.
+4. Section 22. 12. 040. Hearings Body
+A.  The following shall serve as hearings or review body for legislative
+changes in this order:
+1.  The Planning Commission.
+2. The Board of County Commissioners.
+FINDING:  The Board finds this criterion has been met as the order of public hearings has been
+followed.
+B.  Any legislative change initiated by the Board of County
+Commissioners shall be reviewed by the Planning Commission prior to
+action being taken by the Board of Commissioners.
+FINDING:   The Board find this criterion has been met as the Planning Commission public
+hearing preceded the Board public hearing.
+5. Section 22. 12. 050 Final Decision
+All legislative changes shall be adopted by ordinance
+FINDING:  TA- 13-2 is implemented by Ordinance 2014- 001; the Board finds this criterion has
+been met.
+B.       CHAPTER 23, DESCHUTES COUNTY COMPREHENSIVE PLAN
+1. Chapter 3, Rural Growth Management, Section 3. 6 Public Facilities and Services
+Goal 1, Support the orderly, efficient and cost- effective siting of rural public
+facilities and services.
+Exhibit C of Ordinance 2014- 017 Page 3
+FINDING:   The Board finds this criterion has been met as the amended traffic study
+requirement sets the same Level of Service ( LOS) standard for both new and existing facilities,
+ensuringfutureroadsandintersectionsareconsistentwitheachother.  ThepreviousLOSC
+standard for future facilities would have resulted in the potential overbuilding of County road
+segments and/ or intersections.  By having LOS D as the performance standard for all existing
+and future County road segments and intersections, the resulting road network will be orderly
+and cost- effective.
+2.       Chapter 4, Urban Growth Management, Section 4. 2 Urbanization Policies
+Goal 4, To build a strong and thriving regional economy by coordinating
+public investments, policies and regulations to support regional and state
+economic development objectives in Central Oregon.
+FINDING:  The Board finds this criterion has been met as the text amendment will provide a
+consistent performance standard for County roads.  The traffic study requirements will ensure
+economic development does not adversely affect the network of County roads and State
+highways, but also will not result in the oversizing of adversely affected facilities.
+3. Deschutes County Transportation System Plan
+Goal 1,  Coordination and Implementation,  Policy 1. 1c,  Requirement of
+conditions of approval on developments and transportation projects that
+have a significant effect on the County' s transportation system.
+FINDING:   The Board finds this criterion is met as the text amendment still defines a LOS
+benchmark for the County's road system which in turn is used to determine whether a
+development has a significant effect or not.
+4. Deschutes County Transportation System Plan ( con' t)
+Goal 4, Arterial and Collector Road Plan,  Policy 4. 6,  Deschutes County
+shall manage the development process to obtain adequate street right- of-
+way and improvements commensurate with the level and impact of
+development.   New development shall provide traffic impact analysis to
+assess those impacts and to help determine transportation system needs...
+FINDING:  The thresholds for traffic analysis set in County code will remain unchanged so the
+Board finds this criterion has been met.
+5. Deschutes County Transportation System Plan ( con' t)
+Goal 9, Performance Standards, Maintain a Level of Service " D" or better
+during the peak hour throughout the County arterial and collector road
+system over the next 20 years.
+FINDING:   The text amendment maintains the County Code requirement of a LOS D as the
+performance standard for the County' s arterial and collector system.   The Board finds this
+criterion has been met.
+C.       STATEWIDE PLANNING GOALS
+1. Goal 1, Citizen Involvement
+Exhibit C of Ordinance 2014- 017 Page 4
+FINDING:  The text amendment included workshops before both Deschutes County Planning
+Commission ( PC) and the Board of County Commissioners ( Board).  The text amendment also
+included publically noticed public hearings before the PC and Board.   The Board finds this
+criterion is met.
+2. Goal 2, Land Use Planning
+FINDING:   Oregon Revised Statute ( ORS) 197. 610 allows local governments to initiate post
+acknowledgement plan amendments or changes to land use regulations.  The County on Dec.
+4, 2013, provided the Department of Land Conservation and Development ( DLCD) with the
+required notice 35 days prior to the first evidentiary hearing, which will be on Jan. 9, 2014.   The
+notice included the proposed changes with additions indicated by underlined text and text to be
+eliminated indicated by strikethrough text.  The text amendment was processed via the County' s
+development code procedures set for in Title 22, Chapter 22. 12 for legislative amendments.
+The Board finds this criterion has been met.
+3. Goal 3, Agricultural Lands
+FINDING:  The text amendment is not proposing any changes to land use designations, so the
+Board finds this criterion has either been met or is not applicable.
+4. Goal 4, Forest Lands
+FINDING:  The text amendment is not proposing any changes to land use designations, so the
+Board finds this criterion has either been met or is not applicable.
+5. Goal 5, Natural Resources, Scenic and Historic Areas, and Open Spaces
+FINDING:  The text amendment is neither proposing any changes to land use designations nor
+proposing roads through previously designated Goal 5 resources.  Therefore, the Board finds
+this criterion has either been met or is not applicable.
+6. Goal 6, Air, Water and Land Resource Quality
+FINDING:  No development or land use changes are being proposed that impact air, water, or
+land resource qualities.   Deschutes County is not under any federal violations of air quality,
+which often leads to traffic restrictions.  Other areas of the County' s code deal with protecting
+air, water, and land remain in full force and effect.  The Board finds this criterion has either been
+met or is not applicable.
+7. Goal 7, Natural Hazards
+FINDING:  The text amendment will ensure there is adequate capacity on the County and State
+transportation system,  allowing roads and highways to be used as evacuation routes and
+ingress and egress for emergency vehicles.  The Board finds this criterion has either been met
+or is not applicable.
+8. Goal 8, Recreational Needs
+FINDING:  The text amendment will ensure there is adequate capacity on the County and State
+transportation system, allowing roads and highways to be used to access recreational sites
+such as Mount Bachelor, the Cascade lakes, and public lands.  The Board finds this criterion
+has either been met or is not applicable.
+Exhibit C of Ordinance 2014- 017 Page 5
+9. Goal 9, Economic Development
+FINDING:  A functioning transportation system is a basic need for economic development.  The
+text amendment will continue to provide clear and objective criteria for how County roads and
+State highways need to operate and that a development must not result in degradation of the
+transportation system.    Mitigation is a required component in the County' s traffic analysis
+section.  Therefore, the Board finds this criterion has been met.
+10.      Goal 10, Housing
+FINDING:   A functioning transportation system provides access to subdivisions and rural
+homesteads.  This goal pertains to urban or urbanizable lands.  The proposed text amendment
+will not result in any changes or elimination of residentially zoned lands in the County.   The
+Board finds this criterion has either been met or is not applicable.
+11.      Goal 11, Public Facilities and Services
+FINDING:   While roads are public,  this goal pertains more to water and sewer services,
+whereas transportation is treated explicitly under Goal 12.    The County has an adopted
+Transportation System Plan ( TSP) and the traffic study requirements ensure any development
+will be consistent with the TSP and its plans for public roads and highways.  The Board finds
+this criterion has either been met or is not applicable.
+12.      Goal 12, Transportation
+FINDING:   Deschutes County has an adopted and acknowledged TSP which will ensure an
+orderly and efficient transition between rural and urban lands.  The TSP at Table 5. 3. T1 lists all
+road and highway improvements for 2010- 2030.  The timeline for construction for each priority
+project is High ( 0- 5 years), Medium ( 6- 11 years) and Low ( 11- 20 years).  There are 94 projects
+overall, including roads, highways, bridges, sidewalks, etc.  Of the 94 projects, 53 are County
+roads only.
+The current development code at DCC 17. 16. 115( H) sets a LOS D for existing County road
+segments and intersections. For new roads or intersections the current development code sets
+a performance standard of LOS C.   The code defers to the Oregon Highway Plan  ( OHP)
+mobility standards for state highways and intersections with state highways.  Thus the proposed
+text amendment would have no effect on projects on or intersecting with State highways.
+Of the 53 County road projects listed in the TSP' s Table 5.3.T1, 47 are on existing roads or
+intersections and thus would not be affected by the proposed text amendment as their mobility
+standard would remain at LOS D.
+TSP Table 5. 3. T1 lists six projects as new roads.  Of these half- dozen future improvements, five
+are Low priority and one is a High priority.   These six under the proposed plan amendment
+would have their LOS standard changed from LOS C to LOS D.   There is no funding in the
+current adopted Capital Improvements Project ( CIP) list for any of these six projects.   The
+County assumes these roads will be built as development occurs and currently there are no
+land use applications in process or anticipated that would result in these improvements being
+constructed.  In other words, there is no imminent effect of making LOS D the standard for all
+County roads and intersections, whether they exist or are planned.
+The Board finds this criterion has been met.
+Exhibit C of Ordinance 2014- 017 Page 6
+13.      Goal 13, Energy Conservation
+FINDING:   This plan amendment does not affect the County' s regulation of solar setbacks,
+siting of small- scale windmills, land use or density, etc.   The LOS will remain the same on
+existing roadways so levels of allowed traffic volumes and delays at intersections would remain
+the same.  Typically, rural roads do not experience the wasteful stop and go traffic patterns that
+urban facilities endure.  The Board finds this criterion has been met.
+14.      Goal 14, Urbanization
+FINDING:  No land use plan designations, zoning designations, or map changes will result from
+this plan amendment.  The County TSP does not apply within any Urban Growth Boundaries
+UGB).  The Board finds this criterion is met.
+15.      Goals 15- 19
+FINDING:   The Board finds these criteria do not apply as the County lacks these lands
+Willamette Greenway, estuaries, coasts, beaches, etc).
+D. TRANSPORTATION PLANNING RULE ( OAR 660- 012)
+Plan and Land Use Regulation Amendments 660- 012- 0060
+1) If an amendment to a functional plan, an acknowledged plan, or a land
+use regulation  ( including a zoning map)  would significantly affect an
+existing or planned transportation facility, then the local government must
+put in place measures a provided in section ( 2) of this rule, unless the
+amendment is allowed under section ( 3), ( 9), or ( 10) of this rule.  A plan or
+land use regulation amendment significantly affects a transportation
+facility if it would:
+a)  Change the functional classification system; or
+FINDING:    The proposed amendment will not result in any changes in the functional
+classification system.  The Board finds this criterion has been met.
+b) Change standards implementing functional classification system: or
+FINDING:  The proposed amendment will change the mobility standard for new County facilities
+from LOS C to LOS D.  The performance standard for new State highways and existing County
+facilities will remain the same.  The Board finds this criterion has been met.
+c)  Result in any of the effects listed in paragraphs ( A) through ( C) of this
+subsection based on projected conditions measured at the end of the
+planning period identified in adopted TSP...
+A) Types or levels of travel or access that are inconsistent with the
+functional classification of an existing or planned transportation
+facility;
+FINDING:   The proposed amendment will not change the mix of vehicles on County roads or
+State highways nor will it change the volumes of traffic on the County and State system.  The
+Exhibit C of Ordinance 2014- 017 Page 7
+County's and State's access managementrules set forth in DCC 17.48.090 and the Oregon
+HighwayPlan (OHP) remainunchanged.  The Boardfindsthis criterionhas beenmet.
+B)   Degrade the performance of an existing or planned
+transportation facility such that it would not meet the performance
+standards identified in the TSP or comprehensive plan; or
+FINDING:    The proposed amendment will not degrade the performance of an existing
+transportation facility;  it will change the performance standard for planned transportation
+facilities.  However, changing the standard is not degrading the standard; it is merely resetting
+the standard.  Additionally, changing performance standards is allowed under OAR 660-012-
+0060( 2)( c). The Board finds this criterion has been satisfied.
+C)   Degrade the performance of an existing or planned
+transportation that is otherwise projected to not meet the
+performance standards identified in the TSP or comprehensive plan.
+FINDING:  The proposed amendment will not further degrade the performance of an existing
+transportation facility.  All transportation facilities in the adopted TSP that were projected to fail
+over the 20-year life of the plan also have planned improvements in Table 5.3.T1 to mitigate
+those failures.  The Board finds this criterion has been satisfied.
+2) If a local government determines that there would be a significant effect,
+then the local government must ensure that allowed land uses are
+consistent with the identified function,   capacity,   and performance
+standards of the facility measured at the end of the planning period
+identified in the adopted TSP through one or a combination of the remedies
+listed in ( a) through ( e) below...
+a)   Adopting measures that demonstrate allowed land uses are
+consistent with the planned function,  capacity,  and performance
+standards of the facility.
+FINDING:   The County will maintain its land use designations, functional classifications, and
+access management standards while modifying the performance standards for County roads as
+allowed under OAR 660- 012- 060( 2)( c) below.  The Board finds this criterion has been met.
+b)   Amending the TSP or comprehensive plan to provide
+transportation facilities,  improvements or services adequate to
+support the proposed land uses consistent with the requirements of
+this division...
+FINDING:  The County did not choose this remedy option. The Board finds this criterion is not
+applicable.
+c)  Amending the TSP to modify the planned function, capacity or
+performance standards of the transportation facility.
+FINDING:  The County will modify the performance standard for future County facilities from
+LOS C, the current standard, to LOS D.  The performance standard for existing County facilities
+will remain at LOS D.   This will result in a consistent standard for both planned and existing
+County facilities.  The County TSP Goal 9 ( Performance Standards Goals and Policies) sets a
+goal of "[ M]aintain a level of service D or better during the peak hour throughout the County
+arterial and collector road system over the next 20 years."  Goal 10 is "[ M] aintain the current
+Exhibit C of Ordinance 2014- 017 Page 8
+arterial and collector system in the County and prevent degradation of the capacity of the
+system."  The performance standard for State highways and intersections with State highways
+will remain unchanged.  The Board finds this criterion has been met.
+d)   Providing other measures as a condition of development or
+through development agreement or similar funding method,
+including,  but not limited to,  transportation system management
+measures or minor transportation improvements...
+FINDING:  The County did not choose this remedy option, but the County's development code
+does require an applicant to mitigate a development' s effects.  The Board finds this criterion is
+not applicable.
+IV.      CONCLUSION:
+The proposed text amendment to move the traffic study requirements from the Subdivision
+section of the code to the Supplemental provision section makes logical sense.  Many site plans
+for uses that are not subdivisions or master plans still generate 50 or more weekday trips, which
+is the County' s baseline for requiring a traffic study. The TPR gives local governments the
+discretion to modify the performance standards for their facilities.  The County having a single
+LOS benchmark for all County facilities will result in a consistent level of improvements needed
+to mitigate any adverse affects of proposed land uses.
+Attachments
+Exhibit A, Proposed DCC 18. 116. 310 Traffic Impact Studies
+Exhibit B, Revised DCC 17. 16. 115, Traffic Impact Studies
+Exhibit C, Revised DCC 18. 124. 080, Other Conditions
+Exhibit C of Ordinance 2014- 017 Page 9

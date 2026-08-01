@@ -1,0 +1,503 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch-1810
+title: 'Ch 1810'
+doc_type: ordinance
+citation: 'Ch 1810'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/18%20Health/Ch%201810.pdf?t=202406171552520
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: abe9cff3b1aff5b5e9c76bb6a74574d8439e4e0df7773ac586d41d03b32137b4
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 468A.010
+    - ORS 468A.020
+    - ORS 468A.075
+    - ORS 468A.115
+    - ORS 468A.175
+    - ORS 468A.405
+    - OAR 340-262-0020
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch 1810 (Ch 1810)
+
+## At a glance
+
+Ch 1810 — code of Jackson County. 13 pages.
+
+## Full text
+
+CODIFIED ORDINANCES OF JACKSON COUNTY
+________
+
+PART EIGHTEEN - HEALTH AND SANITATION
+
+CHAPTER 1810
+Air Pollution
+
+1810.01 Def
+initions.
+1810.02 Exceptions to Chapter.
+1810.03 Requirements for Solid Fuel Heating Device Installation.
+1810.04 Solid Fuel Burning Device Emission Standard.
+1810.05 Restriction of wood burning and emissions on high pollution days.
+1810.06 Trackout.
+1810.07 Open Burning.
+1810.08 Burning of Material E mitting Dense Smoke or Noxious Odors in Solid Fuel
+Burning Devices.
+1810.09 Abatement; Legal Proceedings.
+1810.10 Removal of Non-Certified Wood Stoves, Wood Heaters or Fireplace Inserts.
+1810.99 Penalty.
+Exhibits C-D
+CROSS REFERENCES
+
+Quality control programs - see ORS 468A.010
+Application of statutes - see ORS 468A.020
+Contamination rules and standards; variances - see ORS 468A.075
+Air quality control authorities - see ORS 468A.115
+State aid - see ORS 468A.175
+Authority to limit motor vehicle operation and traffic - see ORS 468A.405
+Fires in parks - see S.U. & P.S. 1064.10
+Fires in County Fairgrounds and Exposition Park - see S.U. & P.S. 1066.14
+
+1810.01 DEFINITIONS.
+
+As used in this chapter:
+
+(a) Agricultural Operation - means an activity on land currently used or intended to be
+used primarily for the purpose of obtaining a profit by raising, harvesting and selling crops
+or by raising and sale of livestock or poultry, or the produce thereof, which activity is
+necessary to serve that purpose.
+3 Air Pollution 1810.01
+
+(b) Agricultural Waste - means any material actually generated or used by an agricultural
+operation, but excluding those materials described in Section 1810.07(d).
+
+(c) Board - means the Board of County Commissioners.
+
+(d) Certified Stove - means a solid fuel burning device that is permanently and visibly
+labeled as such as a result of its compliance with emission standards outlined in OAR 340-
+262-0020(19).
+
+(e) High Pollution Period - means a period of time commencing three hours after initial
+designation as a red or yellow day by the Oregon Department of Environmental Quality
+(hereinafter referred to as DEQ) or the Jackson County Department of Health and Human
+Services. In the event that more than one consecutive day is designated as red or yellow, it
+shall all be considered part of the same period.
+
+(f) Medford-Ashland Air Quality Maintenance Area (hereinafter referred to as AQMA)-
+means that part of the County specifically identified by the Oregon Department of
+Environmental Quality as an air quality maintenance area that is one of several areas in the
+State wherein air quality has deteriorated due to unhealthful levels of pollutants in the air.
+A map and written description of the AQMA are included as Exhibits "C" and "D",
+respectively, following the text of this chapter.
+
+(g) Non-Certified Wood Stove, Wood Heater, or Fireplace Insert - means an enclosed,
+wood burning appliance capable of and intended for space heating and domestic water
+heating that meets all of the following criteria as outlined in OAR 340-262-0020(19) that
+has not been certified by either the State of Oregon Department of Environmental Quality
+or Federal Environmental Protection Agency as complying with smoke emission standards.
+“Non-certified wood stove, wood heater, or fireplace insert” does not include (1) devices
+exempt from certification requirements such as pellet stoves (a wood burning heating
+appliance which uses wood pellets as its primary source of fuel), (2) cook stoves (an indoor
+wood burning appliance the design and primary purpose of which is to cook food), (3)
+antique wood stoves (a wood stove built before 1940 that has an ornate construction and a
+current market value substantially higher than a common wood stove manufactured in the
+same time period), (4) fireplaces and (5) wood stoves, wood heaters, and fireplace insert
+that have been rendered permanently inoperable.
+
+(h) Opacity - means the degree to which emissions from a solid fuel burning device
+reduce the transmission of light and obscure the view of an object in the background. It is
+expressed as a percentage representing the extent to which an object viewed through the
+smoke is obscured.
+
+(i) Open Burning - means burning in burn barrels or incinerators, open outdoor fires and
+any other burning where combustion air is not effectively controlled and combustion
+products are not effectively vented through a stack or chimney.
+1810.01 Air Pollution 4
+
+(j) PM2.5 - means airborne particles ranging from .01 to 2.5 microns in size, the breathing
+of which can be harmful to the human respiratory system.
+
+(k) Permanently Inoperable - means a non-certified wood stove, wood heater or fireplace
+insert that has been rendered unusable by removal of or disconnection and capping of the
+chimney pipe.
+
+(l) Proof of Destruction  - means receipt from a metal scraper stating that they have
+received the same heating unit as was specified in the disclosure (descriptions must match).
+
+(m) Red Day - means a twenty-four hour period, beginning at 7:00 a.m., when PM2.5 levels
+are forecast by the DEQ or the Jackson County Department of Health and Human Services
+to reach unhealthy levels.
+
+(n) Residence - means a building containing one or more dwelling units used for
+habitation by one or more persons.
+
+(o) Residential Woodburning - means utilization of wood in a solid fuel heating device
+inside a residence.
+
+(p) Sale of Structure or Sale of Structures - means any transaction whereby the ownership
+of a structure, or the real property upon which a structure is located, is conveyed by a
+purchase agreement, inheritance or a transfer of title, for real property.
+
+(q) Sole Source of Heat - means one or more solid fuel burning devices which constitute
+the only source of heating in a residence. No solid fuel burning device or devices shall be
+considered to be the sole source of heat if the residence is equipped with a permanently
+installed, furnace or heating system utilizing oil, natural gas, electricity or propane.
+
+(r) Solid Fuel Burning Device - means a device designed for solid fuel combustion so
+that usable heat is derived for the interior of a building, and includes, without limitation,
+solid fuel burning stoves, fireplaces or wood stoves of any nature, combination fuel
+furnaces or boilers used for space heating which can burn solid fuel or solid fuel burning
+cooking stoves. Solid fuel burning devices do not include barbecue devices, natural gas-
+fired artificial fireplace logs, DEQ approved pellet stoves or Kachelofens.
+
+(s) Space Heating - means raising the interior temperature of a room.
+
+(t) Structure - has the same meaning provided in the Land Development Ordinance of
+Jackson County, Oregon.
+
+(u) Trackout - means the deposit of mud, dirt and other debris on paved public roadways
+by motor vehicles. “Trackout” also means the material being so tracked onto public
+roadway. Trackout can become pulverized and blown into the air by vehicular traffic where
+it becomes a part of the total suspended particulate level.
+5 Air Pollution 1810.02
+
+(v) Ventilation Index - means the National Wea ther Service's indicator of the relative
+degree of air circulation for a specified area and time period.
+
+(w) Waste - means discarded or excess material, including:
+
+(1) Agricultural waste resulting from farming or agricultural practices and
+operations; and
+
+(2) Nonagricultural waste resulting from practices and operations, other than farm
+operations, including industrial, commercial, construction, demolition and
+domestic wastes and yard debris.
+
+(x) Yellow Day - means a twenty -four hour period, beginning at 7:00 a.m., when the
+PM2.5 levels are forecast by the DEQ or the Jackson County Department of Health and
+Human Services to be approaching unhealthy levels.
+
+(Ord. 85-31. Passed 12-4-85; E. Ord 89-13. Passed 12-22-89; P. Ord. 89-12. Passed 12-20-
+89; Ord. 90-4. Passed 5-2-90; Ord. 2007-6. Passed 02-07-07.)
+
+1810.02 EXCEPTIONS TO CHAPTER.
+
+This chapter shall not apply:
+
+(a) Within incorporated limits of any city;
+
+(b) To Federal or State lands;
+
+(c) To prescribed slash burns regulated by the State Smoke Management Plan;
+
+(d) To open cooking fires or ceremonial fires; or
+
+(e) To orchard heating devices in which combustion air is effectively controlled and
+combustion products are effectively vented through a stack or chimney, provided that no
+materials which may emit dense smoke or noxious odors are burned; or
+
+(f) To fires set by a public agency for instruction of employees in the methods of
+firefighting.
+
+(Ord. 85-31. Passed 12 -4-85; E. Ord. 89-13. Passed 12-22 -89; P. Ord. 89-12. Passed 12-
+20-89; Ord. 2001-17. Passed 8-22-01.)
+1810.04 Air Pollution 6
+
+1810.03 REQUIREMENTS FOR SOLID FUEL HEATING DEVICE
+INSTALLATION.
+
+The purpose of this section is to reduce the amount of particulate pollution resulting from
+woodburning for space heating.
+
+(a) It shall be unlawful for any new or used solid fuel heating device to be installed in the
+Medford-Ashland Air Quality Maintenance Area after the effective date of this chapter
+(December 22, 1989), unless:
+
+(1) The device is installed pursuant to the County Building Code and regulations of
+the Development Services Department;
+
+(2) The solid fuel heating device complies with the Oregon Department of
+Environmental Quality 1988 Particulate Emission standards for certified
+woodstoves; and
+
+(3) For all new construction, the structure contains an alternate form of space
+heating, including natural gas, propane, electric, oil, solar or kerosene, sufficient
+to meet necessary space heating requirements, so that during episodes of high
+pollution levels, the occupant will be able to heat the home with other than a
+solid fuel heating device.
+
+(b) If the conditions set forth in subsection ( a) hereof are not fulfilled, no person in
+possession of the premises shall cause or permit, and no public agency shall issue any
+permit for, the installation of the device.
+
+(Ord. 85-31. Passed 12-4-85; E. Ord. 89-13. Passed 12-22-89; P. Ord. 89-12. Passed 12-
+20-89; Ord. 2003-4. Passed 1-22-03; Ord. 2007-2. Passed 1-31-07.)
+
+1810.04 SOLID FUEL BURNING DEVICE EMISSION STANDARD.
+
+(a) Within AQMA, no person owning or operating a solid fuel burning device shall at
+any time cause, allow or discharge emissions from such device which are of an opacity
+greater than fifty percent.
+
+(b) The provisions of this section shall not apply to emissions during the starting or
+refueling of a new fire for a period not to exceed thirty minutes in any four-hour period.
+
+(c) For the purposes of this section, opacity percentages shall be determined by a certified
+observer, using the standard visual method listed in 40 CFR 60A, Method 9, or operation
+of equipment approved by the Jackson County Department of Health and Human Services
+that is known to produce equivalent or better accuracy.
+
+(Ord. 90-4. Passed 5-2-90; Ord. 2007-6. Passed 02-07-07.)
+7 Air Pollution 1810.05
+
+1810.05 RESTRICTION OF WOODBURNING AND EMISSIONS ON HIGH
+POLLUTION DAYS.
+
+(a) Operation of Solid Fuel Burning Device Prohibition:
+
+(1) The operation of a solid fuel burning device within the AQMA during a high
+pollution period shall be prohibited, unless an exemption has been granted
+pursuant to Section 1810.05(b). A presumption of a violation for which a citation
+shall be issued shall arise if smoke is being discharged through a flue or chimney
+after a time period of three hours has elapsed from the time of declaration of the
+high pollution period.
+
+(2) Notwithstanding paragraph (a)(1) hereof, the operation of a certified solid fuel
+burning device shall be permitted during a high pollution period so long as no
+visible emissions of smoke are discharged through a flue or chimney after a time
+period of three hours has elapsed from the time of the declaration of the high
+pollution period. The provisions of this subsection shall not apply to emissions
+of smoke during the starting or refueling of a fire for a period not to exceed thirty
+minutes in any four-hour period.
+
+(3) After two years from the effective date of this chapter, no property owner within
+the AQMA shall rent or lease a residential unit that is not equipped with a
+secondary source of heat other than a solid fuel burning device.
+
+(b) Exemptions.  It is permissible for a household to operate a solid fuel burning device
+within the AQMA during a high pollution period when the head of that household has
+obtained one of the following exemptions. Exemptions granted under this section shall
+expire on September 1 of each year.
+
+(1) Economic Need .  An exemption for an economic need to burn solid fuel for
+residential space heating purposes may be issued to heads of households who
+can show that their family income is less than eighty percent of the median
+income level for the Medford metropolitan area, as established by the Federal
+Department of Housing and Urban Development (HUD). Households that
+qualify for an exemption based on economic need may rely on a solid fuel
+burning device as the sole source of heat.
+
+(2) Special Needs .  Upon a showing of special need, as further defined by
+administrative rule, a temporary exemption may be granted authorizing the
+burning of a solid fuel burning device, notwithstanding Section 1810.05(a)(1)
+and (2). "Special need" shall include, but not be limited to, occasions when a
+furnace or central heating system is inoperable, other than through the owner or
+operator's own actions or neglect.
+1810.06 Air Pollution 8
+
+(c) Administrative Rules.  The County Administrator shall develop administrative rules
+setting out the requirements necessary to qualify for the exemptions described herein and
+specifying the manner in which this chapter will be enforced.
+
+(Ord. 85-31. Passed 12-4-85; Ord. 90-4. Passed 5-2-90; Ord. 2007-6. Passed 02-07-07.)
+
+1810.06 TRACKOUT.
+
+(a) The purpose of this section is to lessen the amount of particulate pollution which
+originates from roads and roadways. Dirt and other debris which may become deposited
+upon paved roads can be ground and pulverized by traffic into minute particles. These
+particles can then become airborne, adding to the particulate pollution problem.
+
+(b) This section applies to construction sites, agricultural activities and commercial and
+industrial operations.
+
+(c) No person shall trackout mud, dirt or other debris from private or public lands onto
+paved public roads without taking reasonable precautions to prevent such particulate matter
+from becoming airborne. These precautions shall include, where appropriate, the prompt
+removal of such material from the paved road surface. This section does not apply to
+noncommercial uses of public roads.
+
+(d) No person shall violate the provisions of a stop-work order issued pursuant to
+subsection hereof.
+
+(e) The County may require the  imposition of building permit conditions for the
+prevention of trackout.  Conditions imposed may include, but are not limited to, the
+following:
+
+(1) Posting of a bond by a contractor in an amount sufficient to ensure that funds are
+available for roadway cleanup by the County, if the contractor is negligent in the
+cleanup of an adjacent public roadway;
+
+(2) Street sweeping, vacuuming or other means of removing trackout material
+from public roadways;
+
+(3) The installation of wheel washers at exits of major construction sites;
+
+(4) The use of temporary or permanent barricades to keep traffic off unpaved
+areas;
+
+(5) Graveling of access roads on site;
+
+(6) Limiting the use of public roadways by vehicles; and
+9 Air Pollution 1810.07
+
+(7) The issuance of a stop-work order.
+
+(f) A stop-work order issued pursuant to subsection (e) hereof shall be posted at the work
+site and delivered by certified mail to an alleged violator.  Appeals from any such order
+shall be conducted pursuant to the provisions of Section 204 of the County Building Code,
+as amended in Section 1420.02 of these Codified Ordinances.
+
+(Ord. 85-31. Passed 12-4-85.)
+
+1810.07 OPEN BURNING.
+
+(a) The purpose of this section is to minimize the accumulation of PM 10 air pollution
+resulting from open burning. The public should be aware that open burning may also be
+restricted during the fire season (typically June through October) by the fire districts or
+other fire regulating authorities. These authorities base their restrictions of open burning
+on such factors as low  humidity, high winds, drought or other conditions which make
+outside burning unsafe.
+
+(b) Open burning of any kind is prohibited throughout unincorporated Jackson County
+on all days of the year when the maximum ventilation index is below 400.
+
+(c) For the years 2009 and 2015, opening burning of any kind is prohibited within the
+Medford-Ashland Air Quality Maintenance Area starting November 15 of that respective
+year.  Open burning of any kind is still prohibited within the Medford-Ashland Air Quality
+Maintenance Area during all of November, December, January and February of any other
+year due to generally poor smoke dispersion.
+
+(d) Open burning of any wet garbage, plastic, wire insulation, automobile part, asphal t,
+petroleum product, petroleum treated material, rubber product, animal remains or animal
+or vegetable matter resulting from the handling, preparation, cooking or service of food or
+of any other material which normally emits dense smoke or noxious odors is prohibited
+throughout the unincorporated areas of Jackson County.
+
+(e) The provisions of this section do not apply to the open burning of agricultural wastes
+which is necessary for disease or pest control.
+
+(f) The provisions of this section do not apply to fires set by a public agency for
+instruction of employees in the methods of firefighting.
+
+(Ord. 85-31. Passed 12 -4-85; E. Ord. 89-13. Passed 12-22 -89; P. Ord. 89-12. Passed 12-
+20-89; Ord. 2001-17. Passed 8-22-01; E. Ord. 2002-23, Passed 10-31-02; E.Ord. 2003-30.
+Passed 11-6-03; E.Ord. 2004-15, Passed 11-3 -04. E. Ord. 2005 -20, Passed 10 -25-05; E.
+Ord. 2006-12. Passed 11-1-06, E. Ord. 2009-10. Passed 11-04-09; E.Ord. 2015-15, Passed
+10-28-15, P.Ord. 2015-16. Passed 11-12-15.)
+1810.10 Air Pollution 10
+
+1810.08 BURNING OF MATERIAL EMITTING DENSE SMOKE OR NOXIOUS
+ODORS IN SOLID FUEL BURNING DEVICES.
+
+The burning of any of the materials listed in Section 1810.07(d) in a solid fuel burning
+device is prohibited throughout the unincorporated areas of Jackson County at all times.
+
+(E. Ord. 89-13. Passed 12-22-89; P. Ord. 89-12. Passed 12-20-89.)
+
+1810.09 ABATEMENT; LEGAL PROCEEDINGS.
+
+Whoever violates or fails to comply with any of the provisions of this chapter shall be
+subject to appropriate legal proceedings to enjoin or abate such violation or noncompliance,
+in addition to the penalty provided in Section 1810.99.
+
+(Ord. 85-31. Passed 12-4-85; E. Ord. 89-13. Passed 12-22-89; P. Ord. 89-12. Passed 12-
+20-89.)
+
+1810.10 REMOVAL OF NON-CERTIFIED WOOD STOVES, WOOD HEATERS
+OR FIREPLACE INSERTS.
+
+(a) All non-certified wood stoves, wood heaters, and fireplace inserts shall be removed
+from a structure and destroyed upon sale or transfer of a structure containing any non-
+certified wood stoves, wood heaters, and fireplace inserts.
+
+(b) Unless otherwise agreed in writing, the removal and proof of destruction of non-
+certified wood stoves, wood heaters, and fireplace inserts shall be the responsibility of the
+seller or transferor of the structure(s) which contain the non-certified wood stove(s), wood
+heater(s), or fireplace insert(s).
+
+(c) The presence of all wood stoves, wood heaters, and fireplace inserts in a structure
+shall be included as a part of the seller’s property disclosure presented to the new owner,
+as part of the sale or transfer of any real property.  The disclosure shall be evidenced by a
+certificate which shall state whether any wood stoves, wood heaters, or fireplace inserts are
+present in the subject property and if so, whether the wood stoves, wood heaters, and
+fireplace inserts are certified or non-certified.
+
+(d) If the seller or transferor assumes the responsibility of removal and proof of
+destruction, then such removal and proof of destruction shall be completed on or before
+the closing or title transfer of any real estate.  Should the buyer or transferee assume the
+responsibility of removal and proof of destruction, the responsible party shall complete the
+removal and proof of destruction within 30 calendar days after the recordation of title and
+evidence the removal and proof of destruction, as stated herein.
+
+The certificate shall be in substantially the following form:
+11 Air Pollution
+1810.99 Air Pollution 12
+
+(e) The disclosure(s) and certificate must be executed by both seller and the buyer on or
+before the closing of any real estate transfer involving real property, upon which the
+structure(s) containing the wood stoves, wood heaters, or fireplace inserts are involved.
+Upon the complete execution of the disclosure certificate, a copy must be submitted to
+Jackson County Department of Development Services with proof of destruction by the
+responsible designee.  Delivery of the disclosure certificate with proof of destruction is
+required for any transfer of title, whether the real estate transaction is closed in escrow or
+closed by the seller and the buyer without a closing escrow.
+
+(f) Failure of the seller, or the buyer, to provide a disclosure certificate required by this
+ordinance, demonstrating the subsequent removal and proof of destruction of a non-
+certified wood stove(s), wood heater(s) or fireplace insert(s) from a structure, required by
+this ordinance, shall be considered a violation and shall be subject to the penalties set forth
+in Section 202.99.
+
+(Ord. 2007-6. Passed 02-07-07; Ord. 2007-13. Passed 04-04-07.)
+
+1810.99 PENALTY.
+
+EDITOR'S NOTE:  See Section 202.99 for general Code penalty if no specific penalty is
+provided.)
+13 Air Pollution EXHIBIT C
+
+EXHIBIT D Air Pollution 14
+
+EXHIBIT D
+
+BOUNDARY DESCRIPTION
+MEDFORD-ASHLAND AIR QUALITY MAINTENANCE AREA
+
+The Medford-Ashland Air Quality Maintenance Area is defined as beginning at a point
+approximately one mile NE of the town of Eagle Point, Jackson County, Oregon, at the NE
+corner of Section 36, T35S, R1W; thence south along the Willamette Meridian to the SE
+corner of Section 25, T37S, R1W; thence SE along a line to the SE corner of Section 9,
+T39S, R2E; thence SSE to the SE corner of Section 22, T39S, R2E; thence south to the SE
+corner of Section 27, T39S, R2E; thence SW to the SE corner of Section 33, T39S, R2E;
+thence west to the SW corner of Section 31, T39S, R2E; thence NW to the NW corner of
+Section 36, T39S, R1E; thence west to the SW corner of Section 26, T39S, R1E; thence
+NW along a line to the SE corner of Section 7, T39S, R1E; thence west to the SW corner
+of Section 12, T39S, R1W; thence NW along a line to the SW corner of Section 20, T38S,
+R1W; thence west to the SW corner of Section 24, T38S, R2W; thence NW along a line to
+the SW corner of Section 4, T38S, R2W; thence west to the SW corner of Section 5, T38S,
+R2W; thence NW along a line to the SW corner of Section 31, T37S, R2W; thence north
+along a line to the Rogue River, thence north and east along the Rogue River to the north
+boundary of Section 32, T35S, R1W; thence east along a line to the point of beginning.

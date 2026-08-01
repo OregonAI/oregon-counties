@@ -1,0 +1,1988 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2026-005
+title: 'Ordinance No. 2026-005'
+doc_type: ordinance
+citation: 'Ordinance No. 2026-005'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1781047044_2026-76-Ordinance%20No.%202026-005%20Recorded%203172026.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 967a86457145498beafa299f0070963097750780a7d8b692a49438a3f68e847b
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.203
+    - ORS 215.211
+    - ORS 215.427
+    - OAR 660-005-0010
+    - OAR 660-006-0005
+    - OAR 660-012-0060
+    - OAR 660-015-0000
+    - OAR 660-023-0180
+    - OAR 660-023-0250
+    - OAR 660-033-0020
+    - OAR 660-033-0030
+    - OAR 660-033-0045
+    - OAR 660-033-0090
+    - OAR 660-033-0120
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2026-005 (Ordinance No. 2026-005)
+
+## At a glance
+
+Ordinance No. 2026-005 — orders of Deschutes County. 55 pages.
+
+## Full text
+
+REVIEWED $bA-:
+Reco:·ded in Deschutes County
+Steve Dennison, County Clerk
+Commissioners' Journal
+CJ2026-76
+03/17/2026 2:12:25 PM
+LEGAL COUNSEL
+II I I 111111111111111111111111
+2026-76
+For Recording Stamp Only
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County *
+Code Title 23, the Deschutes County *
+Comprehensive Plan, to Change the *
+Comprehensive Plan Map Designation for *
+Certain Property From Agriculture and Surface *
+Mining to Rural Residential Exception Area, *
+and Amending Deschutes County Code Title *
+18, the Deschutes County Zoning Map, to *
+Change the Zone Designation for Certain *
+Property From Exclusive Farm Use and Surface *
+Mine to Multiple Use Agricultural.
+ORDINANCE NO. 2026-005
+WHEREAS, Cascades Academy, LLC ("Applicant"), applied for changes to both the Deschutes
+County Comprehensive Plan Map (247-24-000392-PA) and the Deschutes County Zoning Map (247-
+24-000393-ZC), to change the Comprehensive Plan designation of the subject property from
+Agricultural (AG) and Surface Mining (SM) to Rural Residential Exception Area (RREA), and a
+corresponding Zone Change from Exclusive Farm Use (EFU) and Surface Mine (SM) to Multiple Use
+Agricultural (MUA-1 0); and
+WHEREAS, after notice was given in accordance with applicable law, a public hearing was
+held on November 14, 2024, before the Deschutes County Hearings Officer and, on February 26,
+2025, the Hearings Officer recommended denial of the Comprehensive Plan Amendment and
+Zone Change;
+WHEREAS, pursuant to DCC 22.28.030(C), on June 18, 2025, the Board of County
+Commissioners ("Board") heard de nova the applications to change the Comprehensive Plan
+designation of the subject property from Agricultural (AG) and Surface Mining (SM) to Rural
+Residential Exception Area (RREA), and a corresponding Zone Change from Exclusive Farm Use
+(EFU) and Surface Mine (SM) to Multiple Use Agricultural (MUA-10); now, therefore,
+PAGE 1 OF 3 - ORDINANCE NO. 2026-005
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS as
+follows:
+Section 1. AMENDMENT. DCC Title 23, Deschutes County Comprehensive Plan Map, is
+amended to change the plan designation for certain property described in Exhibit "A" and depicted
+on the map set forth as Exhibit "B" from AG and SM to RREA, with both exhibits attached and
+incorporated by reference herein.
+Section 2. AMENDMENT. DCC Title 18, Zoning Map, is amended to change the zone designation
+from EFU and SM to MUA-10 for certain property described in Exhibit "A" and depicted on the map set
+forth as Exhibit "C", with both exhibits attached and incorporated by reference herein.
+Section 3. AMENDMENT. DCC Section 23.01.010, Introduction, is amended to read as
+described in Exhibit "D" attached and incorporated by reference herein, with new language
+underlined.
+Section 4. AMENDMENT. Deschutes County Comprehensive Plan Section 5.12, Legislative
+History, is amended to read as described in Exhibit "E" attached and incorporated by reference
+herein, with new language underlined.
+Section 5. FINDINGS. The Board adopts as its findings in support of this Ordinance the
+Decision of the Board of County Commissioners as set forth in Exhibit "F" and incorporated by
+reference herein. The Board also incorporates in its findings in support of this decision, the
+Recommendation of the Hearings Officer, attached as Exhibit "G".
+Section 6. EFFECTIVE DATE. This Ordinance takes effect on the 90th day after the date of
+adoption.
+Dated this� J\A � , 2026 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+PHIL CHANG, Chair
+ANTHONY DEBONE, Vice Chair
+ATTEST:
+vlo,�o/)� v��
+Recording Secretary PATTI ADAIR, Commissioner
+PAGE 2 OF 3- ORDINANCE NO. 2026-005
+RREA
+RD
+c::J Zone Change Boundary
+Tumalo Unincorporated Community (UUC)
+Zoning
+AG - Agriculture
+RREA - Rural Resident ial Exception Area
+SM - Surface Mining
+17-12-31-
+D0-04200
+17-12-31-
+D0-04300
+Proposed Zone Change
+from Agriculture (AG)
+and Surface Mining (SM)
+to
+Rural Residential
+Exception Area (RREA)
+17-12-06-
+00-00300
+17 -12-06-00-00302
+17-12-06-00-00301
+RREA
+PROPOSED
+COMPREHENSIVE PLAN
+Exhibit "B"
+to Ordinance 2026-005
+®
+175 350 700
+Feet
+January 28, 2026
+RREA
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+0 o-
+ATTE T: Recor ing Secretary
+Dated this / I �ay of /tJ�r;-2026
+Effective Date: ju� °) l' 2026
+17-12-31-
+D0-04200
+17-12-31-
+D0-04300
+Proposed Zone Change
+from Exclusive Farm Use (EFUTRB)
+t............... and Surface Mining (SM)
+RD
+MUA10
+c::J Zone Change Boundary
+Tumalo Unincorporated Community (UUC)
+Zoning
+EFUTRB - Exclusive Farm Use
+FP - Flood Plain
+MUA10 - Multiple Use Agricultural
+SM - Surface Mining
+to
+Multiple Use Agricultural (MUA10)
+17 -12-06-00-00302
+17-12-06-00-00301
+PROPOSED
+ZONING
+Exhibit "C"
+to Ordinance 2026-005
+175 350
+January 28, 2026
+700
+Feet
+MUA10
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+--oppoS'G D-
+Pa i Adair, Commissioner
+��%'.h::r� AEST: Recording Secretary
+Dated this �ay of /1') 0-.V-,-·2026
+Effective Date: .J
+V"N °) J
+, 2026
+Exhibit "D" to Ordinance 2026-004
+TITLE 23 COMPREHENSIVE PLAN
+CHAPTER 23.01 COMPREHENSIVE PLAN
+A. The Deschutes County Comprehensive Plan, adopted by the Board in Ordinance 2011-003 and
+found on the Deschutes County Community Development Department website, is incorporated
+by reference herein.
+B. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2011-027, are incorporated by reference herein.
+C. [Repealed by Ordinance 2013-001, §1)
+D. [Repealed by Ordinance 2023-017)
+E. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2012-012, are incorporated by reference herein.
+F. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2012-016, are incorporated by reference herein.
+G. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013-002, are incorporated by reference herein.
+H. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013-009, are incorporated by reference herein.
+I. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013-012, are incorporated by reference herein.
+J. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013-007, are incorporated by reference herein.
+K. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014-005, are incorporated by reference herein.
+L. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014-006, are incorporated by reference herein.
+M. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014-012, are incorporated by reference herein.
+N. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014-021, are incorporated by reference herein.
+0. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014-027, are incorporated by reference herein.
+P. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2015-021, are incorporated by reference herein.
+Exhibit D to Ordinance 2026-005
+Q. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2015-029, are incorporated by reference herein.
+R. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2015-018, are incorporated by reference herein.
+S. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2015-010, are incorporated by reference herein.
+T. [Repealed by Ordinance 2016-027 §1]
+U. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2016-022, are incorporated by reference herein.
+V. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2016-005, are incorporated by reference herein.
+W. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2016-027, are incorporated by reference herein.
+X. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2016-029, are incorporated by reference herein.
+Y. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2017-007, are incorporated by reference herein.
+Z. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2018-002, are incorporated by reference herein.
+AA. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2018-006, are incorporated by reference herein.
+AB. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2018-011, are incorporated by reference herein.
+AC. [repealed by Ord. 2019-010 §1, 2019]
+AD. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2018-008, are incorporated by reference herein.
+AE. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019-002, are incorporated by reference herein.
+AF. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019-001, are incorporated by reference herein.
+AG. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019-003, are incorporated by reference herein.
+AH. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019-004, are incorporated by reference herein.
+Exhibit D to Ordinance 2026-005
+Al. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019-011, are incorporated by reference herein.
+AJ. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019-006, are incorporated by reference herein.
+AK. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019-019, are incorporated by reference herein.
+AL. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019-016, are incorporated by reference herein.
+AM. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020-001, are incorporated by reference herein.
+AN. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020-002, are incorporated by reference herein.
+AO. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020-003, are incorporated by reference herein.
+AP. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020-008, are incorporated by reference herein.
+AQ. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020-007, are incorporated by reference herein.
+AR. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020-006, are incorporated by reference herein.
+AS. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020-009, are incorporated by reference herein.
+AT. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020-013, are incorporated by reference herein.
+AU. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2021-002, are incorporated by reference herein.
+AV. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2021-005, are incorporated by reference herein.
+AW. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2021-008, are incorporated by reference herein.
+AX. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2022-001, are incorporated by reference herein.
+AV. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2022-003, are incorporated by reference herein.
+Exhibit D to Ordinance 2026-005
+AZ. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2022-006, are incorporated by reference herein.
+BA. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2022-010, are incorporated by reference herein.
+BB. The Deschutes County Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2022-011, are incorporated by reference herein. (superseded by Ord. 2023-015)
+BC. The Deschutes County Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2022-013, are incorporated by reference herein. (supplemented and controlled
+by Ord. 2024-010)
+BD. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2023-001, are incorporated by reference herein.
+BE. The Deschutes County Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2023-007, are incorporated by reference herein.
+BF. The Deschutes County Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2023-010 are incorporated by reference herein.
+BG. The Deschutes County Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2023-018, are incorporated by reference herein.
+BH. The Deschutes County Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2023-015, are incorporated by reference herein.
+Bl. The Deschutes County Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2023-025, are incorporated by reference herein.
+BJ. The Deschutes County Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2024-001, are incorporated by reference herein.
+BK. The Deschutes County Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2024-003, are incorporated by reference herein.
+BL. The Deschutes County Comprehensive Plan, adopted by the Board in Ordinance 2024-007
+and found on the Deschutes County Community Development Department website, is
+incorporated by reference herein (superseded by Ord. 2025-007).
+BM. The Deschutes County Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2024-010, are incorporated by reference herein.
+BN. The Deschutes County Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2023-017, are incorporated by reference herein.
+BO. The Deschutes County Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2023-016, are incorporated by reference herein.
+Exhibit D to Ordinance 2026-005
+BP. The Deschutes County Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2024-011, are incorporated by reference herein.
+BQ. The Deschutes County Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2024-012, are incorporated by reference herein.
+BR. The Deschutes County Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2025-001, are incorporated by reference herein.
+BS. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2025-003, are incorporated by reference herein.
+BT. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2025-010, are incorporated by reference herein.
+BU. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2025-007, are incorporated by reference herein.
+BV. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2025-014, are incorporated by reference herein.
+BW. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2026-004, are incorporated by reference herein.
+BX. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2026-005, are incorporated by reference herein.
+Click here to be directed to the Comprehensive Plan (http:ljwww.deschutes.org/compplan)
+Exhibit D to Ordinance 2026-005
+sectto� s.1.2 Le9tslattve tttstork:J
+Background
+This section contains the legislative history of this Comprehensive Plan.
+Table 5.12.1 Comprehensive Plan Ordinance History
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 20 I I
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E TO ORDINANCE 2026-005
+Ordinance Date Adopted/
+Effective
+2011-003 8-10-1 I/ I 1-9-1 I
+2011-027 I 0-31-1 I /I 1-9-1 I
+2012-005 8-20-12/11-19-12
+2012-012 8-20-12/8-20-12
+2012-016 12-3-12/3-4-13
+2013-002 1-7-13/ 1-7-13
+2013-009 2-6-13/5-8-13
+2013-012 5-8-13/8-6-13
+2013-007 5-29-13/8-27-13
+2
+Chapter/Section Amendment
+All, except
+Transportation, Tumalo
+and Terrebonne
+Community Plans, Comprehensive Plan update Deschutes Junction,
+Destination Resorts and
+ordinances adopted in
+2011
+2.5, 2.6, 3.4, 3.10, 3.5, Housekeeping amendments
+4.6, 5.3, 5.8, 5.1 I, to ensure a smooth
+23.40A, 23.40B, transition to the updated
+23.40.065, 23.01.0 I 0 Plan
+23.60, 23.64 (repealed), Updated Transportation 3.7 (revised), Appendix System Plan C (added)
+4.1, 4.2 La Pine Urban Growth
+Boundary
+Housekeeping amendments
+3.9 to Destination Resort
+Chapter
+Central Oregon Regional
+4.2 Large-lot Employment Land
+Need Analysis
+Comprehensive Plan Map
+Amendment, changing
+1.3 designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan Map
+Amendment, including
+23.01.010 certain property within City
+of Bend Urban Growth
+Boundary
+Newberry Country: A Plan
+3.10, 3.11 for Southern Deschutes
+County
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 20 I I
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E TO ORDINANCE 2026-005
+I 0-21-13/ I 0-21-2013-016 13
+2014-005 2-26-14/2-26-14
+2014-012 4-2-14/7-1-14
+2014-021 8-27-14/11-25-14
+2014-021 8-27-14/11-25-14
+2014-027 I 2-15-14/3-31-15
+2015-021 I 1-9-15/2-22-16
+3
+Comprehensive Plan Map
+Amendment, including
+23.01.010 certain property within City
+of Sisters Urban Growth
+Boundary
+Comprehensive Plan Map
+Amendment, including
+23.01.010 certain property within City
+of Bend Urban Growth
+Boundary
+3.10, 3.11 Housekeeping amendments
+to Title 23.
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Sunriver
+23.01.0 I 0, 5.10 Urban Unincorporated
+Community Forest to
+Sunriver Urban
+Unincorporated Community
+Utility
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Sunriver
+23.01.0 I 0, 5.10 Urban Unincorporated
+Community Forest to
+Sunriver Urban
+Unincorporated Community
+Utility
+Comprehensive Plan Map
+Amendment, changing
+23.01.0 I 0, 5.10 designation of certain
+property from Agriculture to
+Rural Industrial
+Comprehensive Plan Map
+Amendment, changing
+23.01.010 designation of certain
+property from Agriculture to
+Surface Minin�.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 20 I I
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E TO ORDINANCE 2026-005
+2015-029 11-23-15/11-30-
+2015-018 12-9-15/3-27-16
+2015-010 12-2-15/ 12-2- l 5
+2016-00 I I 2-21-15/04-5-16
+2016-007 2-10-16/5-10-16
+2016-005 I l- 28-16/2-16-17
+2016-022 9-28-16/11-14-16
+2016-029 12-14-16/ 12/28/ I 6
+4
+Comprehensive Plan Map
+Amendment, changing
+23.01.0 I 0 designation of certain
+property from Tumalo
+Residential 5-Acre Minimum
+to Tumalo Industrial
+23.01.0 I 0, 2.2, 4.3 Housekeeping Amendments
+to Title 23.
+Comprehensive Plan Text
+2.6 and Map Amendment
+recognizing Greater Sage-
+Grouse Habitat Inventories
+Comprehensive Plan Map
+Amendment, changing
+23.01.010; 5.10 designation of certain
+property from, Agriculture
+to Rural Industrial (exception
+area)
+Comprehensive Plan
+Amendment to add an
+exception to Statewide
+23.01.01 0; 5.10 Planning Goal I I to allow
+sewers in unincorporated
+lands in Southern Deschutes
+County
+Comprehensive Plan
+Amendment recognizing non-
+23.01.0 I 0, 2.2, 3.3 resource lands process
+allowed under State law to
+change EFU zoning
+Comprehensive plan
+Amendment, including
+23.01.0 I 0, 1.3, 4.2 certain property within City
+of Bend Urban Growth
+Boundary
+Comprehensive Plan Map
+Amendment, changing
+23.01.010 designation of certain
+property from, Agriculture
+to Rural Industrial
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 20 I I
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E TO ORDINANCE 2026-005
+2017-007 I 0-30-17 / I 0-30-
+2018-002 1-3-18/ 1-25-18
+2018-006 8-22-18/ I 1-20-18
+2018-011 9-12-18/12-11-18
+2018-005 9-19-18/10-10-18
+2018-008 9-26-18/10-26-18
+5
+Comprehensive Plan Map
+Amendment, changing
+23.01.010 designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan
+23.01, 2.6 Amendment permitting
+churches in the Wildlife Area
+Combining Zone
+Housekeeping Amendments
+correcting tax lot numbers in
+Non-Significant Mining
+23.01.0 I 0, 5.8, 5.9 Mineral and Aggregate
+Inventory; modifying Goal 5
+Inventory of Cultural and
+Historic Resources
+Comprehensive Plan Map
+Amendment, changing
+23.01.010 designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan Map
+Amendment, removing Flood
+23.01.0 I 0, 2.5, T umalo Plain Comprehensive Plan
+Community Plan, Designation; Comprehensive
+Newberry Country Plan Plan Amendment adding
+Flood Plain Combining Zone
+purpose statement.
+Comprehensive Plan
+Amendment allowing for the
+23.01.0 I 0, 3.4 potential of new properties
+to be designated as Rural
+Commercial or Rural
+Industrial
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 20 I I
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E TO ORDINANCE 2026-005
+2019-002 1-2-19/4-2-19
+2019-00 I 1-16-19/4-16-19
+02-12-19/03-12-2019-003 19
+2019-004 02-12-19/03-12-
+19
+2019-011 05-01-19/05-16/ 19
+6
+Comprehensive Plan Map
+Amendment changing
+designation of certain
+property from Surface Mining
+to Rural Residential
+23.01.0 I 0, 5.8 Exception Area; Modifying
+Goal 5 Mineral and
+Aggregate Inventory;
+Modifying Non-Significant
+Mining Mineral and Aggregate
+Inventory
+Comprehensive Plan and
+1.3, 3.3, 4.2, 5.10, 23.0 I Text Amendment to add a
+new zone to Title 19:
+Westside Transect Zone.
+Comprehensive Plan Map
+Amendment changing
+designation of certain
+23.01.0 I 0, 4.2 property from Agriculture to
+Redmond Urban Growth
+Area for the Large Lot
+Industrial Program
+Comprehensive Plan Map
+Amendment changing
+designation of certain
+property from Agriculture to
+23.01.0 I 0, 4.2 Redmond Urban Growth
+Area for the expansion of
+the Deschutes County
+Fairgrounds and relocation of
+Oregon Military Department
+National Guard Armory.
+Comprehensive Plan Map
+Amendment to adjust the
+Bend Urban Growth
+Boundary to accommodate
+the refinement of the Skyline
+Ranch Road alignment and
+23.01.0 I 0, 4.2 the refinement of the West
+Area Master Plan Area I
+boundary. The ordinance
+also amends the
+Comprehensive Plan
+designation of Urban Area
+Reserve for those lands
+leaving the UGB.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 20 I I
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E TO ORDINANCE 2026-005
+2019-006 03-13-19/06-1 I -
+I 1-25-19/02-24-2019-016 20
+2019-019 12-11-19/12-11-
+19
+2020-00 I 12-11-19/12-11-
+19
+7
+Comprehensive Plan Map
+Amendment, changing
+23.01.010, designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan and
+Text amendments
+incorporating language from
+23.01.01, 2.5 DLCD's 2014 Model Flood
+Ordinance and Establishing a
+purpose statement for the
+Flood Plain Zone.
+Comprehensive Plan and
+Text amendments to provide
+procedures related to the
+23.01.01, 2.5 division of certain split zoned
+properties containing Flood
+Plain zoning and involving a
+former or piped irrigation
+canal.
+Comprehensive Plan and
+Text amendments to provide
+procedures related to the
+23.01.01, 2.5 division of certain split zoned
+properties containing Flood
+Plain zoning and involving a
+former or piped irrigation
+canal.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 20 I I
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E TO ORDINANCE 2026-005
+2020-002 2-26-20/5-26-20
+2020-003 02-26-20/05-26-
+06-24-20/09-22-2020-008 20
+07-29-20/ I 0-27-2020-007 20
+8
+Comprehensive Plan Map
+Amendment to adjust the
+Redmond Urban Growth
+Boundary through an equal
+exchange of land to/from the
+Redmond UGB. The
+exchange property is being
+offered to better achieve
+23.01.0 I, 4.2, 5.2 land needs that were detailed
+in the 2012 SB 1544 by
+providing more development
+ready land within the
+Redmond UGB. The
+ordinance also amends the
+Comprehensive Plan
+designation of Urban Area
+Reserve for those lands
+leavini the UGB.
+Comprehensive Plan
+Amendment with exception
+to Statewide Planning Goal
+23.01.0 I, 5.10 I I (Public Facilities and
+Services) to allow sewer on
+rural lands to serve the City
+of Bend Outback Water
+Facility.
+Comprehensive Plan
+Transportation System Plan
+Amendment to add
+roundabouts at US 20/Cook-
+23.01.0 I 0, Appendix C O.B. Riley and US 20/Old
+Bend-Redmond Hwy
+intersections; amend Tables
+5.3.T I and 5.3.T2 and amend
+TSP text.
+Housekeeping Amendments
+23.01.0 I 0, 2.6 correcting references to two
+Sage Grouse ordinances.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 20 I I
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E TO ORDINANCE 2026-005
+08-12-20/ I 1-10-2020-006 20
+2020-009 08-19-20/11-17-
+2020-013 08-26-20/ I I /24/20
+2021-002 01-27-21 /04-27-
+21
+06-16-21 /06-16-2021-005 21
+06-30-21 /09-28-2021-008 21
+9
+Comprehensive Plan and
+Text amendments to update
+the County's Resource List
+23.01.01, 2.11, 5.9 and Historic Preservation
+Ordinance to comply with
+the State Historic
+Preservation Rule.
+Comprehensive Plan
+Transportation System Plan
+Amendment to add
+23.01.0 I 0, Appendix C reference to J turns on US
+97 raised median between
+Bend and Redmond; delete
+language about disconnecting
+Vandevert Road from US 97.
+Comprehensive Plan Text
+And Map Designation for
+Certain Properties from
+Surface Mine (SM) and
+Agriculture (AG) To Rural
+23.01.01, 5.8 Residential Exception Area
+(RREA) and Remove Surface
+Mining Site 461 from the
+County's Goal 5 Inventory of
+Significant Mineral and
+A_g_gregate Resource Sites.
+Comprehensive Plan Map
+23.01.01 Designation for Certain
+Property from Agriculture
+(AG) To Rural Industrial (RI)
+Comprehensive Plan Map
+Amendment Designation for
+Certain Property from
+23.01.0 I, 4.2 Agriculture (AG) To
+Redmond Urban Growth
+Area (RUGA) and text
+amendment
+Comprehensive Plan Map
+Amendment Designation for
+Certain Property Adding
+23.01.01 Redmond Urban Growth
+Area (RUGA) and Fixing
+Scrivener's Error in Ord.
+2020-022
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 20 I I
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E TO ORDINANCE 2026-005
+2022-001 04-13-22/07-12-
+2022-003 04-20-22/07-19-
+22
+06-22-22/08-19-2022-006 22
+07-27-22/10-25-
+2022-011 22
+(superseded by
+Ord. 2023-015)
+12-14-22/03-14-
+23
+2022-013 ( supplemented
+and controlled by
+Ord. 2024-0 I 0)
+2023-001 03-01-23/05-30-
+23
+2023-007 04-26-23/6-25-23
+10
+Comprehensive Plan Map
+Amendment, changing
+23.01.010 designation of certain
+property from Agriculture
+(AG) to Rural Residential
+Exception Area (RREA)
+Comprehensive Plan Map
+Amendment, changing
+23.01.010 designation of certain
+property from Agriculture
+(AG) to Rural Residential
+Exception Area (RREA)
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+23.01.010 property from Rural
+Residential Exception Area
+(RREA) to Bend Urban
+Growth Area
+Comprehensive Plan Map
+23.01.010 Designation for Certain
+Property from Agriculture
+(AG) To Rural Industrial (RI)
+Comprehensive Plan Map
+Designation for Certain
+23.01.010 Property from Agriculture
+(AG) to Rural Residential
+Exception Area (RREA)
+Housekeeping Amendments
+correcting the location for
+23.01.0 I 0, 5.9 the Lynch and Roberts Store
+Advertisement, a designated
+Cultural and Historic
+Resource
+Comprehensive Plan Map
+Designation for Certain
+23.01.010 Property from Agriculture
+(AG) to Rural Residential
+Exception Area (RREA)
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E TO ORDINANCE 2026-005
+2023-010 06-21-23/9-17-23
+08-30-23/ I 1-28-2023-018 23
+2023-015 9-13-23/12-12-23
+2023-025 I 1-29-23/2-27-24
+2024-001 1-31-24/4-30-24
+2023-016 5-8-24/8-6-24
+2023-017 3-20-24/6-20-24
+11
+Comprehensive Plan Map
+Designation for Certain
+23.01.010 Property from Agriculture
+(AG) to Rural Residential
+Exception Area (RREA)
+Comprehensive Plan Map
+Designation for Certain
+23.01.010 Property from Agriculture
+(AG) to Rural Residential
+Exception Area (RREA)
+Comprehensive Plan Map
+23.01.010 Designation for Certain
+Property from Agriculture
+(AG) to Rural Industrial (RI)
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+23.01.0 I 0 property from Rural
+Residential Exception Area
+(RREA) to Bend Urban
+Growth Area
+Comprehensive Plan Map
+Amendment for Certain
+23.01.010 Property from Agriculture
+(AG) to Rural Residential
+Exception Area (RREA)
+23.0 I (BM) (added), 4.7 Updated Tumalo Community (amended), Appendix B Plan (replaced)
+23.0 I (D) (repealed),
+23.0 I (BJ) (added), 3.7 Updated Transportation
+(amended), Appendix C System Plan
+(replaced)
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 20 I I
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E TO ORDINANCE 2026-005
+2024-003 2-21-24/5-21-24
+I 0-02-24/ 12-31-
+2024-007 24
+(superseded by
+Ord. 2025-007)
+I 0-16-24/01-14-2024-010 25
+11-18-24/02-17-2024-011 25
+2024-012 1-8-25/4-8-25
+2025-001 2-5-25/2-5-25
+2025-003 4-2-25/7-1-25
+12
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+23.01.0 I 0, 5.8 property from Surface Mining
+(SM) to Rural Residential
+Exception Area (RREA);
+Modifying Goal 5 Mineral and
+A2:2:regate Inventory
+Repeal and Replacement of
+23.0 I (A)(repealed) 2030 Comprehensive Plan
+23.0 I (BK) (added) with 2040 Comprehensive
+Plan
+Comprehensive Plan Map
+Designation for Certain
+23.01.010 Property from Agriculture
+(AG) to Rural Residential
+Exception Area (RREA)
+Comprehensive Plan Map
+Designation for Certain
+23.01.0 I 0 Property from Agriculture
+(AG) to Redmond Urban
+Growth Area (RUGA)
+Comprehensive Plan Map
+Designation for Certain
+23.01.010 Property from Agriculture
+(AG) to Rural Residential
+Exception Area (RREA)
+Comprehensive Plan and
+Zoning Map Amendment
+23.01.010 updating the Greater Sage-
+Grouse Area Combining
+Zone boundary.
+Comprehensive Plan
+23.01.010 Designation for Certain
+Property from Agriculture
+(AG) to Rural Industrial (RI)
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 20 I I
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E TO ORDINANCE 2026-005
+2025-010 6-25-25/9-23-25
+2025-007 08-27-25/ I 1-25-
+2025-014 I 0-6-25/ I 0-6-25
+2026-004 01-28-26/04-28-
+26
+2026-005 TBD
+13
+Comprehensive Plan Map
+Designation for Certain
+23.01.010 Property from Agriculture
+(AG) to Rural Residential
+Exception Area (RREA)
+Amendments to
+Comprehensive Plan
+23.01 (BU) resulting from Deschutes
+County 2040 Update
+process.
+Comprehensive Plan Map
+Designation for Certain
+23.01.010 Property from Forest (F) to
+Rural Residential Exception
+Area (RREA)
+Comprehensive Plan Map
+Designation for Certain
+23.01.010 Property from Agriculture
+(AG) to Rural Residential
+Exception Area (RREA)
+Com12rehensive Plan Ma12
+Designation for Certain
+23.01.010 Pro12ert)'_ from Agriculture
+(AG) and Surface Mine (SM)
+to Rural Residential
+Exce12tion Area (RREA)
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 20 I I
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E TO ORDINANCE 2026-005
+Exhibit "F" to Ordinance 2026-005
+BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON FINDINGS OF FACT AND CONCLUSIONS OF LAW
+FILE NUMBERS: 247-24-000392-PA / 247-24-000393-ZC
+APPLICANT/
+SUBJECT
+PROPERTY
+OWNER: Cascades Academy of Central Oregon
+REQUEST: Comprehensive Plan Amendment from Surface Mine and
+Agricultural to Rural Residential Exemption Area and Zone
+Change from Surface Mine ("SM") and Exclusive Farm Use
+("EFU") to Multiuse Agric ult ural ("MU A- 1 ").
+I. SUMMARY OF DECISION
+In this decision, the Board of County Commissioners ("Board") considers
+whether to approve the proposed Comprehensive Plan Amendment and
+Zone Change. Hearings Officer Brooks found the Applicant met all
+applicable approval criteria except those implementing Statewide Planning
+Goal 5 related to the Goal 5 scenic resources. Hearings Officer Brooks
+therefore recommended denial in his February 21, 2025, recommendation
+("Recommendation"), after a Public Hearing held on November 14, 2024.
+In the Board's de novo consideration of the applications, the Applicant
+introduced evidence addressing the requirements of Statewide Planning
+Goal 5. The Board considered the applications de novo, incorporating the
+Record below, and a public hearing before the Board was held on June 18,
+2025.
+On August 27, 2025, following deliberation, the Board voted 2-1 finding the
+applicant had met their burden of proof, and approved the Comprehensive
+Plan Amendment and Zone Change applications on the subject property.
+File Nos. 247-24-000392-PA / 247-24-000393-ZC
+119369\177688\TML\49824018.1
+Exhibit F to Ordinance 2026-005
+II.
+The Hearings Officer Recommendation is hereby incorporated as part of
+this Decision, including any and all Hearings Officer interpretations of the
+County Code, and modified as follows. In the event of conflict, the findings
+in this Decision control.
+BASIC FINDINGS OF FACT:
+The Board adopts and incorporates by reference the code interpretations,
+findings of fact, and conclusions of law in the Recommendation as set forth
+in Section I, Applicable Criteria, and Section 11, Basic Findings. The
+Recommendation is attached as Exhibit F to Ordinance 2026-005. The
+Board adds the following to the basic findings in the Recommendation.
+A. PROCEDURAL HISTORY: A public hearing was held before a
+Hearings Officer on November 14, 2024, and the Recommendation
+was issued on February 21, 2025. Following the Hearings Officer
+Recommendation of denial based on a determination the applicant
+had not demonstrated consistency with Goal 5, the Applicant
+submitted an Environmental, Social, Economic and Energy ("ESEE")
+Analysis prepared by DOWL Engineering and Planning to address the
+Goal 5 issues and related administrative rules and criteria related to
+scenic resources along Highway 20 and the Deschutes River. The
+Board conducted a de novo hearing on June 18, 2025, and left the
+written record open post-hearing to allow submission of additional
+evidence and argument.
+The Board rendered its oral decision after deliberation on August 27,
+2025, approving the proposed Comprehensive Plan Amendment
+and Zone Change and modifying the Recommendation findings as
+described herein. This written Decision memorializes that oral
+decision.
+B. PROCEDURAL OBJECTION: The Board closed the oral portion of
+the public hearing on June 18, 2025, and established an open record
+period of fourteen (14) days for new evidence, seven (7) days for
+rebuttal and seven (7) days for the Applicant's final legal argument.
+2
+File Nos. 247-24-000392-PA / 247-24-000393-ZC
+I 19369\177688\TML\49824018. I
+Exhibit F to Ordinance 2026-005
+In its final legal argument, the Applicant objected to the Rebuttal
+submission by Central Oregon LandWatch ("COLW") on the basis it
+contained new evidence, not rebuttal, in violation of the Board's
+order regarding the post-hearing record. At its August 27, 2025,
+deliberations, the Board agreed not to consider the rebuttal
+testimony submitted by Central Oregon Landwatch, as it constituted
+new evidence, and proceeded with deliberations.
+111. FINDINGS
+This Board adopts the Hearings Officer Recomm endation except as
+supplemented and/or modi fied by this Decision as set forth below.
+A. Can the Zoning be changed for the subject properties under DCC
+18.52.200(A)?
+FINDING: Central Oregon LandWatch reasserts the position it argued before
+the Hearings Officer that the rezoning request for Tax Lots 300, 301, and 302
+violates DCC 18.52.200(A) because they were previously zoned SM and were
+changed to EFU in 2001. According to COLW, the rezoning would be a
+collateral attack on the prior decision. A majority of the Board disagrees. The
+present request is a separate, subsequent land use application filed almost 25
+years after the prior rezone and is fully supported by the evidence in the
+present record. There is nothing in the SM zone criteria or elsewhere that the
+Board can find to prevent a rezone request based on COLW arguments. The
+cited criteria apply to lands zoned SM, not lands formerly zoned SM.
+B. Is the property in violation of previous land use approval and
+subject to DCC 22.20.015(A)(2)?
+FINDING: COLW asserts conditions of approval in SP-93-59 associated with
+a previous reclamation on the subject property are unmet and therefore the
+County cannot make any further land use decisions concerning the subject
+property until those conditions are met. The Hearings Officer disagreed,
+finding the subject property was rezoned in 2001 and past conditions related
+to the surface mining activity are no longer applicable. A majority of the Board
+agrees with the Hearings Officer that the property is not in violation of a
+3
+File Nos. 247-24-000392-PA / 247-24-000393-ZC
+119369\177688\TML\49824018. l
+Exhibit F to Ordinance 2026-005
+previous land use approval, DCC 22.20.015(A)(2) is not applicable, and the
+2001 rezoning Decision concerning the surface mining is valid and binding.
+C. Subject Property as "Agricultural Land" with respect to Soils
+Statewide Planning Goal 3. OAR 660-033-0020{1 }{a}{A}
+FINDING: A majority of the Board adopts the Hearings Officer
+Recommendation, finding that the Subject Property is predominantly
+NRCS Class VII and VIII soils, and consequently is not Agricultural Land.
+D. Subject Property as "Suitable" for Fam, Use with respect to Factors
+Statewide Planning Goal 3, OAR 660-033-0020{1 }(a}{B)
+FINDING: A majority of the Board adopts the Hearings Officer
+Recommendation, finding that the Subject Property is not suitable for farm
+Use and is not Agricultural Land when considering factors established by the
+Goal, the Administrative Rules, Oregon Revised Statutes, and relevant
+common law.
+A review of the substantial evidence submitted by the Applicant addressing
+the seven suitability factors of OAR 660-033-0020(1 )(a)(B) shows that the
+property alone or in conjunction with adjacent or nearby lands is not
+suitable for farm use nor for construction and maintenance uses that serve
+farm uses occurring elsewhere based on the seven suitability factors
+including soil fertility, suitability for grazing, climatic conditions, water
+availability, existing land pattern and technological and energy impacts.
+E. Subject Property nec essary to per mit Fa rm Pract ices on
+Adjacent or Nearby Agricultural Lands
+Statewide Planning Goal 3. OAR 660-033-0020(1)(a)(C)
+FINDING: COLW argues the application has not demonstrated compliance with
+OAR 660-033-0020(1 )(a)(C) with respect to Tax Lot 300 because there is
+4
+File Nos. 247-24-000392-PA / 247-24-000393-ZC
+119369\177688\TML\49824018. l
+Exhibit F to Ordinance 2026-005
+existing farm use which will be impacted. The Applicant submitted evidence
+from the owners of adjacent and nearby properties, including historic owners
+of Tax Lot 300 refuting the alleged farm use and supporting the applicant's
+request. A majority of theBoard agrees with the Hearings Officer and the
+Applicant that the subject property is not necessary to permit farm practices
+adjacent or nearby Agricultural lands.
+F. Goal 14 - Will the zone change results in urbanization such that
+an exception to Goal 14 is required.
+FINDING: The Applicant addressed the Curry factors by providing a site­
+specific analysis to demonstrate the use is rural in nature, with rural lot sizes,
+a rural density and the proposed MUA-10 zone places size and operational
+limits on what could be considered "magnet" uses that would draw UGB
+residents to rural properties. The Applicant submitted evidence showing the
+property will be served by on-site sewer and wells and not by urban services.
+A majority of the Board finds the substantial evidence in the record
+demonstrates the proposal is rural in nature and does not require an exception
+to Goal 14.
+G. Goal 5 and Conflicting Uses
+Statewide Planning Goal 5. OAR 660-23-0250(31
+FINDING: As noted previously, Hearings Officer Brooks found that the
+applicant did not adequately address Goal 5 and recommended denial on that
+basis. Hearings Officer Brooks noted that the Applicant may be able to show
+that the County's prior Goal 5 analysis considered the proposed development
+allowed by the MUA-10 zone on the subject property or demonstrate that the
+new uses allowed on the subject property do not significantly affect a Goal 5
+resource.
+In response to the Hearings Officer Recommendation of denial, the applicant
+submitted the 1992 ESEE analysis associated with the Highway 20 and
+Deschutes River scenic corridors, was well as a current, site-specific ESEE
+prepared by DOWL Engineering and Planning to demonstrate the uses
+allowed under the MUA-10 zone will not introduce new uses which conflict with
+the Highway 20 and Deschutes River scenic corridors. Based on the ESEE
+5
+File Nos. 247-24-000392-PA / 247-24-000393-ZC
+119369\177688\TML\49824018.1
+Exhibit F to Ordinance 2026-005
+prepared by DOWL, the Board agrees with the conclusions within that report
+that the uses allowed in the MUA-10 zone will not conflict with the Highway 20
+and Deschutes River scenic corridors.
+The evidence shows there is significant development in and around the subject
+property which is visually more prominent in both the highway and river
+corridors than any uses which could occur on the subject property, including
+the aggregate storage and processing site and the nearby mini-storage
+development. The subject property is well screened from the highway and
+river corridors by distance, intervening vegetation and topography. The
+provisions of the LM zone will continue to apply to future development of the
+subject property. For these reasons, a majority of the Board finds Goal 5 is
+satisfied and any new uses allowed under the MUA-10 zone will not conflict
+with the Goal 5 scenic resources.
+IV. DECISION:
+Based upon the foregoing Findings of Fact and Conclusions of Law, the Board
+of County Commissioners hereby APPROVES the Applicant's application for a
+Deschutes Comprehensive Plan Amendment and Zone Change for the
+Subject Property.
+File Nos. 247-24-000392-PA / 247-24-000393-ZC
+119369\177688\TML\49824018.1
+Exhibit F to Ordinance 2026-005
+Mailing Date:
+Wednesday, February 26, 2025
+RECOMMENDATION AND FINDINGS OF
+THE DESCHUTES COUNTY HEARINGS OFFICER
+FILE NUMBERS:
+HEARING DATE:
+HEARING LOCATION:
+APPLICANT:
+SUBJECT PROPERTY:
+REQUEST:
+HEARINGS OFFICER:
+247-24-000392-PA, 393-ZC
+November 14, 2025, 1:00 p.m.
+Videoconference and
+Barnes & Sawyer Rooms
+Deschutes Services Center
+1300 NW Wall Street
+Bend, OR 97708
+Cascades Academy of Central Oregon
+•
+•
+•
+64325 O.B. Riley Rd; Assessor map 17-12-06, tax lot 301
+64345 O.B. Riley Rd; Assessor map 17-12-06, tax lot 300
+64375 O.B. Riley Rd; Assessor map 17-12-06, tax lot 302
+64385 O.B. Riley Rd; Assessor map 17-12-06B, tax lot 100
+No address; Assessor map 16-12-31D, tax lot 4200
+No address; Assessor map 16-12-31 D, tax lot 4300
+64411 O.B. Riley Rd; Assessor map 16-12-3 lD , tax lot 4400
+Applicant requests approval of a Comprehensive Plan Amendment
+to change the designation of the Subject Property. If approved, Tax
+Lots 4200, 4300, and 4400 would change from the Surface Mine
+(SM) designation to Rural Residential Exception Area (RREA), and
+Tax Lots 100, 300, 301, and 302 would change from Agriculture
+(AG) to Rural Residential Exception Area (RREA). Applicant also
+requests a corresponding Zone Change to rezone all Tax Lots on the
+Subject Property from either Surface Mining (SM) or Exclusive
+Farm Use (EFU) to Multiple Use Agricultural (MUA-10).
+Tommy A. Brooks
+SUMMARY OF RECOMMENDATION: The Hearings Officer finds that the record is not sufficient to
+support the requested Comprehensive Plan Amendment and Zone Change, specifically with respect to the
+requirements of Statewide Planning Goal 5. The Hearings Officer therefore recommends the Deschutes
+County Board of Commissioners DENY the Application unless the Applicant demonstrates the requested
+Comprehensive Plan Amendment and Zone Change are consistent with Statewide Planning Goal 5.
+I II
+I. STANDARDS AND CRITERIA
+Title 18 of the Deschutes County Code, the County Zoning Ordinance:
+Chapter 18.04, Title, Purpose, and Definitions
+Chapter 18.16, Exclusive Fmm Use Zones (EFU)
+Chapter 18.32, Multiple Use Agricultural (MUA-10)
+Chapter 18.52, Surface Mining (SM)
+Chapter 18.136, Amendments
+Title 22, Deschutes County Development Procedures Ordinance
+Deschutes County Comprehensive Plan
+Chapter 2, Resource Management
+Chapter 3, Rural Growth Management
+Appendix C, Transportation System Plan
+Oregon Administrative Rules (OAR), Chapter 660
+Division 12, Transportation Planning
+Division 15, Statewide Planning Goals and Guidelines
+Division 23, Procedures and Requirements for Complying with Goal 5
+Division 33, Agricultural Land
+Oregon Revised Statutes (ORS)
+Chapter 215.010, Definitions
+Chapter 215.211, Agricultural Land, Detailed Soils Assessment
+II. BACKGROUND AND PROCEDURAL FINDINGS
+A. Nature of Proceeding
+The Subject Property consists of seven Tax Lots. Tax Lots 4200, 4300, and 4400 currently carry the
+Surface Mine (SM) Comprehensive Plan designation and are zoned Surface Mining (SM). Tax Lots 100,
+300, 301, and 302 currently carry the Agriculture (AG) Comprehensive Plan designation and are zoned
+Exclusive Farm Use-Tumalo/Redmond/Bend subzone (EFU). This matter comes before the Hearings
+Officer as a request for approval of a Comprehensive Plan Map Amendment ("Plan Amendment") to
+change the designation of the Subject Property from Surface Mining (SM) and Agriculture (AG) to Rural
+Residential Exception Area (RREA). The Applicant also requests approval of a corresponding Zoning
+Map Amendment ("Zone Change") to change the zoning of the Subject Property to Multiple Use
+Agricultural (MUA-10).
+The primary bases of the request in the Application are the Applicants' assertions that: (1) the Subject
+Property does not contain a significant Goal 5 resource; (2) the Subject Property is not part of the
+remaining surface mining operation; and (3) the Subject Property does not qualify as "agricultural land"
+under the applicable provisions of the Oregon Revised Statutes or Oregon Administrative Rules governing
+agricultural land. Based on those assertions, the Applicant is not seeking an exception to Statewide
+Planning Goal ("Goal") 3 for the Plan Amendment or Zone Change. Although the Applicant intends to
+use the Subject Property for the expansion of an existing school on an adjacent parcel, the Applicant is
+not requesting the approval of the school or of any other specific development as part of the Application.
+B. Notices and Hearing
+The Application is dated June 24, 2024. On July 16, 2024, the County issued a Notice of Application to
+several public agencies and to property owners in the vicinity of the Subject Property (together,
+"Application Notice"). The Application Notice invited comments on the Application. The County also
+provided notice of the Plan Amendment to the Department of Land Conservation and Development
+("DLCD") on September 27, 2024.
+The County mailed a Notice of Public Hearing on September 30, 2024 ("Hearing Notice") announcing an
+evidentiary hearing ("Hearing") for the requests in the Application. Pursuant to the Hearing Notice, I
+presided over the Hearing as the Hearings Officer on November 14, 2024, opening the Hearing at 1 :00
+p.m. The Hearing was held via videoconference, with Staff, representatives of the Applicant, and other
+participants in the hearing room. The Hearings Officer appeared remotely. The Hearing concluded at 2:06
+p.m.
+At the beginning of the Hearing, I provided an overview of the quasi-judicial process and instructed
+participants to direct comments to the approval criteria and standards, and to raise any issues a participant
+wanted to preserve for appeal if necessary. I stated I had no ex parte contacts to disclose or bias to declare.
+I asked for but received no objections to the County's jurisdiction over the matter or to my participation
+as the Hearings Officer.
+Prior to the conclusion of the Hearing, the Applicant requested and agreed to leaving the written record
+open to take additional evidence. At the conclusion of the Hearing, I announced that the written record
+would remain open: (1) until December 5, 2024, for any participant to provide additional evidence ("Open
+Record Period"); (2) until December 19, 2024, for any participant to provide rebuttal evidence to evidence
+submitted during the Open Record Period; and (3) until January 2, 2025, for the Applicant only to provide
+a final legal argument, without additional evidence.
+C. Review Period
+Because the Application includes the request for the Plan Amendment, the 150-day review period set forth
+in ORS 215.427(1) is not applicable.1 The Staff Rep01i also notes that the 150-day review period is not
+applicable by virtue of Deschutes County Code ("DCC" or "Code") 22.20.040(D). No participant in the
+proceeding disputed that conclusion.
+1 ORS 215.427(7).
+Page I 3
+III. SUBSTANTIVE FINDINGS AND CONCLUSIONS
+A. Staff Report
+Prior to the Hearing, on November 4, 2024, the Deschutes County Planning Division ("Staff') issued a
+report setting forth the applicable criteria and presenting the evidence in the record at that time ("Staff
+Report").
+The Staff Report concludes that the Applicant has met the burden of proof necessary to justify the Plan
+Amendment and Zone Change, and it makes several findings with respect to the approval standards.
+Because some of the information, analysis, and findings provided in the Staff Report are not refuted,
+po1tions of the findings below refer to the Staff Report and, in some cases, adopt sections of the Staff
+Report as my findings. In the event of a conflict between the findings in this Decision and the Staff Report,
+the findings in this Decision control.
+B. Code, Plan, and Statewide Planning Goal Findings
+The legal criteria applicable to the requested Plan Amendment and Zone Change were set forth in the
+Application Notice and appear in the Staff Report. This Recommendation addresses each of those criteria,
+as set forth below, in addition to other issues raised by the participants.
+1. Title 18 of the Deschutes County Code, County Zoning
+Section 18.136.010, Amendments
+DCC Title 18 may be amended as set forth in DCC 18. 136. The procedures for text or legislative
+map changes shall be as set forth in DCC 22.12. A request by a property owner/or a quasi­
+judicial map amendment shall be accomplished by filing an application on forms provided by the
+Planning Department and shall be subject to applicable procedures of DCC Title 22.
+The Applicant is the owner of the Subject Property and submitted the Application and the necessary
+Application form. The Applicant has requested a quasi-judicial Plan Amendment and filed the Application
+for that purpose, together with the request for the Zone Change. It is therefore appropriate to review the
+Application using the applicable procedures contained in Title 22 of the Deschutes County Code.
+Section 18.13 6. 020, Rezoning Standards
+The applicant for a quasi-judicial rezoning must establish that the public interest is best served
+by rezoning the property. Factors to be demonstrated by the applicant are:
+A. That the change conforms with the Comprehensive Plan, and the change is consistent with
+the plan's introductory statement and goals.
+According to the Applicant and the Staff Report, the County's application of this Code provision does not
+necessarily involve the direct application of the Plan's introductory statements and goals as approval
+criteria. Rather, consistency with the Plan can be determined by assessing whether the proposal is
+consistent with specific Plan goals and policies that may be applicable to the proposal.
+The Applicant identified multiple Plan goals and policies it believes are relevant to the Application.2
+Among those goals and policies are those set forth in: (1) Section 2.2 of Chapter 2, relating to Agricultural
+Land Policies; (2) Section 2.4 of Chapter 2, relating to Goal 5; (3) Section 2.10 of Chapter 2, relating to
+surface mining; (4) Section 2.7 of Chapter 2, relating to Open Spaces, Scenic Views and Sites; (5) Section
+3.2 of Chapter 3, relating to Rual Development; (6) Section 3.3 of Chapter 3, relating to rural housing;
+and (7) Section 3.7 of Chapter 3, relating to transportation. The Application explains how the Plan
+Amendment and Zone Change is consistent with these goals and policies.
+No participant asserts that the Application does not comply with DCC 18. 136.020(A), disputes the
+Applicant's characterization of the Plan's goals and policies presented in the Application, or identifies
+other Plan goals and policies requiring consideration. Central Oregon LandWatch ("COL W") does raise
+issues related to some of these policies - e.g., whether the Subject Property constitutes agricultural land
+and the Applicant's compliance with transportation rules - but does so in the context of whether the
+Application satisfies various state administrative rules, and COL W does not go as far to say that the
+Application is inconsistent with these Comprehensive Plan policies. COLW's specific arguments are
+addressed below in separate findings responding to the specific issues COL W raises.
+Based on the foregoing, I find that this Code provision is satisfied.
+B. That the change in classification for the subject property is consistent with the purpose and
+intent of the proposed zone classification.
+The purpose of the MUA-10 zoning district is stated in DCC 18.32.010 as follows:
+The purposes of the Multiple Use Agricultural Zone are to preserve the
+rural character of various areas of the County while permitting development
+consistent with that character and with the capacity of the natural resources
+of the area; to preserve and maintain agricultural lands not suited to full­
+time commercial farming for diversified or part-time agricultural uses; to
+conserve forest lands for forest uses; to conserve open spaces and protect
+natural and scenic resources; to maintain and improve the quality of the
+air, water and land resources of the County; to establish standards and
+procedures for the use of those lands designated unsuitable for intense
+development by the Comprehensive Plan, and to provide for an orderly
+and efficient transition from rural to urban land use.
+The Applicant's Burden of Proof asserts that "[ a ]pproval of the application is consistent with the purpose
+of the MUA-10 zoning district," and quotes the purpose set forth above. The Applicant supports that
+assertion by stating that the Subject Property is not suited to full-time commercial fanning, and that the
+2 See page 8-16 of the Applicant's Burden of Proof Statement submitted with the Application
+("Application Narrative").
+Page I 5
+zone change will allow the expansion of a school, which the Applicant asserts is a low-density
+development that conserves open spaces and protects natural and scenic resources. The Staff Report
+repeats the Applicant's assertions and agrees that the requested Zone Change is consistent with the purpose
+of the proposed zoning.
+COL W disputes the Applicant's assertion that the Subject Property is not suitable for farming, but it does
+not dispute the Applicant's other assertions that the requested zone change is consistent with the purpose
+of the zone. Nor does COLW assert that this Code provision is not satisfied. Although COLW argues that
+the zone change is not "necessary" to allow the contemplated school expansion (because some schools are
+allowed on EFU land), that argument does not describe why the requested zone change would be
+inconsistent with the purpose of the MUA-10 designation. Nor does this Code provision require a showing
+that the Zone Change is "necessary." COL W's arguments relating to the suitability of the Subject Property
+for farming are addressed in other findings below.
+Based on the foregoing, and in the absence of persuasive countervailing evidence or argument, I find that
+the requested zone change is consistent with the purpose of the MUA-10 zone and this Code provision is
+satisfied.
+C. That changing the zoning will presently serve the public health, safety and welfare
+considering the following factors:
+1. The availability and efficiency o.f providing necessary public services and facilities.
+As noted in the Staff Report, this criterion specifically asks if the Zone Change will presently serve public
+health, safety, and welfare. The Applicant provided the following as support for why this criterion is met:
+• Necessary public facilities and services are available to serve the Subject Property, including
+electric power and water
+• Transportation access to the Subject Property is available, and the impact of increased traffic on
+the transportation system is non-existent and, to the contrary, the planned rezone results in a
+reduction in potential trips generated from the Subject Property
+• The Subject Property receives police services from the Deschutes County Sheriff and fire service
+from Rural Fire Protection District# 2
+• There are no known deficiencies in public services or facilities that would negatively impact public
+health, safety, or welfare
+The Staff Report confirms that, prior to development of the Subject Property, the Applicant would be
+required to comply with the applicable requirements of the Code, at which time additional assurances of
+adequate public services and facilities will also be verified.
+No participant in this proceeding disputed the Applicant's or Staff's characterization of this Code
+provision or the Applicant's evidence presented to show compliance with this Code provision.
+Based on the foregoing, I find that services are currently available and sufficient for the Subject Property,
+and that they can remain available and sufficient if the Subject Property is developed under the MUA-10
+zone. I therefore find this Code provision is satisfied.
+2. The impacts on surrounding land use will be consistent with the spec(fic goals and
+policies contained within the Comprehensive Plan.
+The Applicant asserts the following:
+The MUA-10 zoning is consistent with the specific goals and policies in the
+comprehensive plan discussed above. The MUA-10 zoning allows rural
+uses consistent with the uses of many other properties in the area of the
+subject property.
+The zone change will not impose new impacts on the EFU-zoned land
+adjacent to or nearby the subject property because many of those properties
+are residential properties, hobby farms, already developed with dwellings,
+not engaged in commercial farm use, are idle, or are otherwise not suited
+for fann use due to soil conditions, topography, or ability to make a profit
+farming.
+As discussed below, the subject property is not agricultural land, is
+comprised of predominantly Class 7 and 8 soils, and as described by the soil
+scientist, Mr. Kitzrow, the nonproductive soils on the subject property make
+it not suitable for commercial farming or livestock grazing. The subject
+property is not land that historically has been or could be used in
+conjunction with the adjacent irrigated property for any viable agricultural
+use and any future development of the subject property would be subject to
+building setbacks.
+The Staff Report agrees that the Applicant has demonstrated the impacts on surrounding land use will be
+consistent with the specific goals and policies contained within the Plan. COLW disputes the Applicant's
+assertion that the Subject Property is not suitable for agriculture, or that it is predominantly composed of
+Class 7 and Class 8 soils, but COL W does not assert that any potential impacts are inconsistent with Plan
+goals and policies. Nor does COLW dispute the Applicant's characterization of the applicable goals and
+policies. COLW's arguments relating to farming suitability and soil classifications are addressed below.
+Based on the foregoing, and in the absence of persuasive countervailing evidence or argument, I find that
+this Code provision is satisfied.
+D. That there has been a change in circumstances since the property was last zoned, or a mistake
+was made in the zoning of the property in question.
+The Applicant's Burden of Proof addresses this Code provision, in part, with an explanation that purports
+to describe a mistake in the zoning of the property. However, that explanation simply describes the history
+of EFU zoning in the state and the fact that resource zoning was originally applied "using a broad brush."
+But this portion of the Burden of Proof also acknowledges that "[t]he EFU zoning designation was likely
+based on the best soils data that was available to the County at the time it was originally zoned." I find
+that the Applicant has not established that an actual mistake was made when the property was zoned EFU.
+According to the Applicant, a change in circumstances exists since the Subject Property was originally
+zoned for agriculture in the 1970' s, including: (I) the collection of new soils data showing the property
+does not have agricultural soils; (2) the transfer of the property from the owner of mining Site No. 3 70;
+(3) market changes reducing the viability of commercial farming both on the Subject Property and in the
+area in general; and (4) encroaching development. The Staff Report agrees with the Applicant's findings
+regarding the existence of a change in circumstances.
+COL W submitted comments asserting that the Application does not satisfy CDC DCC 18.136.020(D), but
+those comments simply state that the property was rezoned to EFU in 2001 and "there has neither been a
+change in circumstances since that decision, nor was any mistake made in that decision." COLW repeated
+that conclusion in oral comments during the Hearing. COL W does not attempt to explain the portion of
+its comments relating to an absence of changed circumstance, nor does it attempt to refute the evidence
+provided by the Applicant that circumstances have indeed changed. COLW's argument in this regard is
+therefore not developed enough for me to respond to, and lacks supporting evidence that allows me to
+infer the basis on which is makes its claim.
+Based on the Applicant's evidence, and in the absence of evidence or a developed argument challenging
+the Applicant's evidence, I find that this Code provision is satisfied.
+Section 18.52, Surface Mining Zone
+Section 18.52.200, Termination of the Surface Mining Zoning and Surrounding Surface Mining
+Impact Area Combining Zone
+A. When a surface mining site has been fully or partially mined, and the operator demonstrates
+that a significant resource no longer exists on the site, and that the site has been reclaimed in
+accordance with the reclamation plan approved by DOGAMI or the reclamation provisions
+of DCC 18, the property shall be rezoned to the subsequent use zone identified in the surface
+mining element of the Comprehensive Plan.
+This Code provision contemplates that a property with the SM zoning designation may be rezoned under
+certain circumstances. Specifically, property can be rezoned once the "surface mining site" has been fully
+or partially mined, no longer has a significant resource, and has been reclaimed in accordance with
+applicable reclamation plans and Code provisions. The Code also contemplates that a post-mining
+"subsequent use zone" will be identified and that, through the rezoning process, that subsequent use zone
+will apply to the property.
+The Applicant asserts that this criterion is not applicable. Currently, only tax lots 4200, 4300, and 4400 of
+the Subject Property retain the SM zoning designation. The Applicant notes that those parcels, which are
+part of Site No. 370, were included in the County's inventory of mineral and aggregate sites only for
+"storage" uses. According to the Applicant, it was never intended that these tax lots would be mined, no
+minerals were ever extracted from these tax lots, no Department of Geology and Mineral Industries
+("DOGAMI") or County reclamation plan applies to these tax lots, and the soils reports confirms that
+there is no significant resource on these tax lots. The Staff Report agrees with the Applicant's analysis.
+COL W asserts that the Application does not satisfy DCC 18.52.200, but only as it relates to tax lots 300,
+301, and 302, which is discussed in more detail below. COLW does not dispute the Applicant's assertion
+that DCC 18.52.200 is not applicable to tax lots 4200, 4300, and 4400.
+I agree with the Applicant that DCC 18.52.200 is not applicable in this context. Looking at the language
+in that Code provision, it applies to a "surface mining site" that was identified as having a significant
+resource and that is capable of being mined (wholly or partially) and later reclaimed. The inventory of
+mineral and aggregate sites included in the record shows that Site No. 370 is not such a site, as evidenced
+by the fact that it is listed as a "storage" site rather than as a mining type ( e.g. sand and gravel or pumice)
+and the fact that no quantity of mineral is listed for that site. The absence of any intended mining is further
+evidenced by the fact that no reclamation plan applies to these tax lots.
+As just noted, COL W asserts that the Application nevertheless violates DCC 18.52.200 with respect to
+tax lots 300, 301, and 302. Those tax lots previously carried the SM zoning designation, but have been
+zoned EFU since 2001 when the County adopted Ordinance No. 2001-027 (the "2001 Rezoning
+Decision"). The 2001 Rezoning Designation applied DCC 18.52.200 to these three tax lots, which were
+part of mining Site No. 304. According to COLW, DCC 18.52.200 states that when the County removes
+the SM zone from a surface mining site, "the prope1iy shall be rezoned to the subsequent use zone
+identified in the surface mining element of the Comprehensive Plan." As a result of that language,
+according to COL W, once that subsequent use zone is in place, it cannot be changed again. Specifically,
+COLW states that "[a]pproving the current application would violate DCC 18.52.200 by rezoning the
+subject property to a different zone than the zone identified in the County's comprehensive plan."
+I disagree with COL W's argument for multiple reasons. First, DCC 18.52.200 applies to properties that
+are zoned SM. Tax lots 300,301, and 302, however, are zoned EFU. Nothing in the language of this Code
+provision states or implies that it can or should be applied to properties in zones other than the SM zone.
+This Code provision therefore does not apply to these three tax lots. Second, this Code provision is silent
+with respect to subsequent applications for rezoning property. The language simply states that, once a site
+no longer has a significant resource it can be rezoned and, if it is rezoned, the County must apply the
+identified subsequent use zone. The 2001 Rezoning Decision did just that - by rezoning these three tax
+lots to the EFU zone. If the Code were intended to prohibit a future property owner from rezoning the
+property again, one would expect to find such a limitation in the Code language, but no such limitation
+exists. Third, the 2001 Rezoning Decision itself is silent on this matter. It contains no conditions of
+approval or other limiting language preventing the property owner from seeking to rezone the property in
+the future. Finally, this Code provision must be read in context with other language in the Code. DCC
+18.136.020 establishes the criteria for rezoning property. Those criteria contain no exceptions for
+properties that were already rezoned pursuant to DCC 18.52.200.
+Based on the foregoing, I find that a Plan Amendment and Zone Change is available to the Applicant as
+long as all other criteria are satisfied, and that DCC 18.52.200 is not applicable to any of the tax lots
+comprising the Subject Property under these circumstances.
+B. Concurrent with such rezoning, any surface mining impact area combining zone which
+surrounds the rezoned surface mining site shall be removed. Rezoning shall be subject to
+DCC 18.13 6 and all other applicable sections of DCC 18, the Comprehensive Plan and DCC
+Title 22, the Uniform Development Procedures Ordinance.
+As proposed by the Applicant, the Surface Mining Impact Area (SMIA) combining zone associated with
+the Subject Property and the remaining properties within Site No. 370 would remain in place. No
+participant objects to that portion of the Applicant's proposal. Based on the foregoing, I find that this Code
+provision will be implemented if the Application is approved as part of the final action by the County's
+Board of Commissioners ("Board").
+2. DCC 22.20.015(A)(2)
+COL W asserts that the Application cannot be approved because the Applicant is in violation of a condition
+of approval applicable to portions of the Subject Property. DCC 22.20.015(A)(2) provides that the County
+cannot make a land use decision for a property if the "property is in violation of applicable land use
+regulations, and/or the conditions of approval of any previous land use decisions or building permits
+previously issued by the County."
+According to COLW, prior County decision SP-93-59 approved a site plan for surface mining and
+reclamation on tax lots 300,301, and 302. As part of that decision, the County imposed certain reclamation
+requirements, including the reclamation plan associated with a DOGAMI permit, and incorporated those
+into the conditions of approval for that decision. COL W asserts that the conditions of the Subject Property
+as described in the Applicant's Soil Report demonstrates that these reclamation requirements are unmet
+and, therefore, in violation of the conditions of approval in the County's prior decision. COLW further
+asserts that, until the site reclamation is complete, the County cannot make any land use decisions
+concerning the Subject Property.
+The Applicant responds that the County has previously determined that the reclamation requirements from
+the SP-92-59 decision have been completed. According to the Applicant, the 2001 Rezoning Decision
+discussed above conclusively establishes that the conditions of SP-92-59, the DOG AMI reclamation plan,
+and a related development agreement containing the same requirements were met, which is what justified
+the rezoning of tax lots 300, 301, and 302 back to the EFU zone. The Applicant asserts that COL W's
+arguments constitute an impermissible "collateral attack" on the 2001 Rezoning Decision.
+I find that this issue can be resolved without the need to determine whether COLW's arguments amount
+to a collateral attack of the County's prior decision for three distinct and independent reasons. First, the
+restriction set forth in DCC 22.20.015(A) applies only where there has been a "violation" of a condition
+of approval. DCC 22.20.0 l 5(C) defines a "violation" as existing when "the property has been determined
+to not be in compliance either through a prior decision by the County or other tribunal, or through the
+review process of the current application, or through an acknowledgement by the alleged violator in a
+signed voluntary compliance agreement." Here, not only has a violation not been determined to exist, the
+only prior adjudication of the issue came to the opposite conclusion and determined no violation existed.
+Page I 10
+Second, the evidence in the record is that the County and DOGAMI each determined that the reclamation
+activities that occurred were satisfactory. Those determinations were made in 2001 and were closer in
+time to when the reclamation activities occurred. The result of the reclamation as it exists today may not
+be what COL W would expect them to be, but the entities reviewing the results at the time provide better
+evidence of whether and how the reclamation activities were implemented.
+Finally, I disagree with COL W that the reclamation conditions it points to are ongoing obligations of the
+property owner. Those conditions were imposed as part of the review of a site plan allowing surface
+mining activities. With the approval of the 2001 Rezoning Decision, the property was rezoned and the
+surface mining use was no longer allowed on the property. The conditions of approval relating to surface
+mining therefore no longer had any purpose. Absent any condition of approval in the 2001 Rezoning
+Decision that kept those conditions alive, there is simply no basis to apply a condition of approval where
+there is no longer an approved use to be conditioned.
+Based on the foregoing, I find that DCC 22.20.0 l 5{A)(2) does not prevent the Applicant from seeking the
+Plan Amendment or Zone Change, and that the County is not precluded from approving the Application
+on that basis.
+3. Deschutes County Comprehensive Plan Goals and Policies
+As previously noted, the Applicant and Staff Report both identify several Plan goals and policies
+potentially relevant to this Application. Staffs discussion of those goals and policies appears on pages 14
+through 23 of the Staff Report. No participant in this proceeding identified other applicable goals and
+policies, or otherwise asserted that the proposal is inconsistent with the plans and policies the Applicant
+and Staff identified. I therefore adopt the findings in the Staff Report as my findings relating to the Plan
+goals and policies. The issues raised by COL W that are related to the County's Plan goals and policies,
+but which specifically address various state administrative rules, are addressed in later findings.
+4. Oregon Administrative Rules
+The participants to this proceeding have identified several state administrative rules that may be directly
+applicable to the Applicant's proposal. The findings in this section address each of those rules.
+a. OAR 660-023-0180
+The Applicant and the Staff Report identify multiple provisions in OAR 660-023-0180 as being applicable
+to the Application. In summary, those provisions provide a process by which a County should amend an
+acknowledged inventory or plan with regard to mineral and aggregate resources, including a process for
+determining the significance of a resource, whether for the purpose of listing a new resource or de-listing
+an existing resource. Only the Applicant and the Staff Report address this administrative rule, and no other
+participant asserts that the Application does not satisfy the provisions in OAR 660-023-0180. I therefore
+adopt the findings on pages 23-26 of the Staff Report addressing this administrative rule as my findings.
+b. OAR 660-006-0005
+The Applicant addresses OAR 660-006-0005 to demonstrate that the Subject Property does not qualify as
+"forest lands" and, therefore, that Goal 4 is not applicable to the request in the Application. The Staff
+Report indicates that it agrees with the Applicant's analysis, and no other participant objects to the
+Applicant's conclusion that the Subject Property does not qualify as "forest lands". For the reasons stated
+in the Application and the Staff Report, I agree that the Subject Property does not qualify as "forest lands"
+and, therefore, that Goal 4 does not apply.
+c. Goal 3 Administrative Rules
+A major issue in this proceeding is whether the Subject Property qualifies as "agricultural land" under
+Goal 3 and its implementing rules. The Applicant seeks to establish that the Subject Property is not
+agricultural land. In support of its position, the Applicant submitted to the record an Order I Soil Survey
+("Soil Study") prepared by a certified professional soil scientist, Gary A. Kitzrow of Growing Soils
+Environmental Associates (GSEA). The Staff Report agrees with the Applicant's position and the findings
+in the Soil Study, concluding that the Subject Property consists predominantly of Class VII and VIII soils
+and, therefore, does not constitute agricultural lands. COLW, on the other hand, asserts that the Subject
+Property is not only agricultural land, but that it is high value farmland that must be zoned EFU, and that
+the EFU designation cannot be changed without first taking an exception to Goal 3.
+As a starting point, COLW argues that the Applicant cannot rely on ORS 215.211 and the Soil Study to
+change the zoning designation of the Subject Property because the property qualifies as high value
+farmland using U.S. Natural Resources Conservation Service ("NRCS") classifications. COLW's
+argument is rooted in OAR 660-033-0030(8), which COL W believes requires that the NRCS must be used
+for the approval of certain land use applications on high-value farmland and that additional soil
+information cannot be used. According to COLW, OAR 660-033-0090 and OAR 660-033-0120, which
+are referenced in OAR 660-033-0030(8), mean, together, that "[w]hen the NRCS soil classes and rating
+show that a property is high-value farmland, the only uses allowed on that land are those specified in OAR
+660-033-0120, and counties must apply EFU zoning to such lands."
+COL W's argument in this regard does not reflect the actual language of the rules. First, OAR 660-033-
+0090 states that the EFU zone must apply to "agricultural lands", which may be high-value farmland or
+not high-value farmland. Once it is determined that land is agricultural land, and that it is high-value
+farmland, that rule states that only those uses authorized on high-value farmland under OAR 660-033-
+0120 are allowed. But the current application is not concerned with allowing a particular use, so the
+provisions of OAR 660-033-0090 and OAR 660-033-0120 are not at issue. Those provisions would be
+triggered only if the Subject Property were first deemed to be agricultural land and then a specific use
+were proposed. Here, the task is to determine if the Subject Property is agricultural land at all. If it is, then
+the rule provisions COL W relies on may be applicable. If it is not, then the Subject Property will not be
+agricultural land at all, whether high-value farmland or something else, and those provisions would not
+apply.
+Page [ 12
+OAR 660-033-0020(1)(a)(A)
+COL W alternatively argues that the Subject Property qualifies as agricultural land under the definitions
+set forth in OAR 660-033-0020(1)(a), the first of which, in subsection (A), relies on the NRCS
+classifications. Under that definition, "agricultural lands" includes "Lands classified by the U.S. Natural
+Resources Conservation Service (NRCS) as predominantly Class I-IV soils in Western Oregon and I-VI
+soils in Eastern Oregon." The Subject Property could qualify as "agricultural lands" under that definition
+because the applicable NRCS soil classifications include large amounts of Class III soils (when irrigated).
+However, the Applicant relies on ORS 215.211, which it asserts grants a property owner the right to rely
+on more detailed information in lieu of the NRCS classifications. The Applicant uses the Soil Study for
+that purpose, and the Soil Study concludes that the soils on the Subject Property are predominantly Class
+VII and VIII soils.
+As the Land Use Board of Appeals ("LUBA") has explained, "ORS 215.211 allows a site-specific analysis
+of soils where a person believes that such information would, compared to the information provided by
+the NRCS, assist a county in determining whether land is agricultural land."3 In that case, the applicant
+sought to change a property's Plan designation from AG to Rural Industrial (RI). The applicant in that
+case also relied on a site-specific Order 1 soil survey prepared by a qualified soil scientist. LUBA upheld
+the County's reliance on that soil survey as part of its determination that the property at issue in that case
+consisted predominantly of Class VII and Class VIII soils unsuitable for farming.
+Based on the language in ORS 215.211 and LUBA's acknowledgment of that statute, I find that the County
+is not precluded from considering the Order 1 soil survey when applying OAR 660-033-0020(1)(a)(A), as
+long as doing so is consistent with OAR 660-033-0030(5), which implements ORS 215.211. COLW does
+not dispute that the survey complies with OAR 660-033-0030(5). The Staff Report, however, notes that
+the Applicant has not provided confirmation of the Soil Study from DLCD, a requirement of OAR 660-
+033-0030(5)(b) by virtue of its cross reference to OAR 660-033-0045. The Applicant and Staff suggest a
+condition of approval requiring a response from DLCD prior to the Plan Amendment and Zone Change
+becoming final. No other participant objected to that approach. Because this Decision does not recommend
+approval of the Plan Amendment and Zone Change, it does not include any suggested conditions.
+However, if the Board subsequently approves the Application, and if the Applicant still has not provide
+documentation from DLCD, such a condition seems warranted and necessary.
+Based on the foregoing, and considering the more detailed evidence provided by the Applicant's soil
+scientist against the NRCS designation of the Subject Property, I find that that the Subject Property does
+not qualify as agricultural land under Goal 3 as defined in OAR 660-033-0020(1)(a)(A), but that the
+Applicant has not complied with all procedural aspects of OAR 660-033-0030(5) and must do so before
+the Plan Amendment and Zone Change are approved. That does not end the inquiry, however, as COL W
+also argues that the Subject Property qualifies as agricultural land under the other sections of OAR 660-
+033-0020(1 )(a).
+3 Central Oregon Land Watch v. Deschutes County, Or LUBA_ (LUBA No. 2023-008, April 24,
+2023) ("LUBA No. 2023-008").
+Page I 13
+OAR 660-033-0020(1)(a)(B)
+COL W next argues that the Subject Property is "agricultural land" as defined in OAR 660-033-
+0020(1 )( a)(B). That rules states that land qualifies as agricultural land if it is "suitable for farm use as
+defined in ORS 215.203(2)(a), taking into consideration soil fertility; suitability for grazing; climatic
+conditions; existing and future availability of water for farm irrigation purposes; existing land use patterns;
+technological and energy inputs required; and accepted farming practices."
+COL W addresses each of the subsection (B) factors, concluding that the Subject Property is suitable for
+farm use based on any one of those factors. The Applicant similarly addresses each of those factors,
+concluding that the Subject Property is not suitable for farm use. Having reviewed the evidence and
+arguments presented by these participants, a primary difference in their positions comes down to the
+definition of "farm use", which ORS 215.203(2)(a) defines as:
+The current employment of land for the primary purpose of obtaining a profit in
+money by raising, harvesting and selling crops or the feeding, breeding,
+management and sale of, or the produce of, livestock, poultry, fur-bearing animals
+or honeybees or for dairying and the sale of dairy products or any other agricultural
+or horticultural use or animal husbandry or any combination thereof.
+According to COLW, the Subject Property could be employed for multiple fann uses because: (1) the soil
+fertility is high-value farmland; (2) it can be used for livestock, on its own or in conjunction with other
+lands; (3) the climate is the same as the climate of surrounding agricultural lands; (4) irrigation water is
+available; ( 5) it is part of a larger block of productive agricultural land; ( 6) any technological and energy
+inputs needed to farm the property are not unique; and (7) it is an accepted farm practice to improving the
+property for farming, such as removing rocks, tilling and fertilizing soil, and improving irrigation
+infrastructure. COL W also notes that the Subject Property has historically had an irrigated pasture.
+The Applicant does not dispute that some "farming" may be possible on the Subject Property. Rather, the
+Applicant asserts that, based on these same factors, farming activities would not be "profitable" and,
+therefore, do not arise to the level of a "farm use" as defined by ORS 215.203(2)(a). The Applicant
+supports its assertions with evidence from the Soil Study and farmers with experience engaging in farm
+uses. The Applicant's explanation includes addressing its inability to engage in farm uses on the Subject
+Property even if the Subject Property is considered in conjunction with other parcels.
+As just one example, the Applicant provided evidence that the Subject Property could not support enough
+forage for even one cow to graze and that any revenue gained from raising one cow would be more than
+offset by all the costs necessary to engage in that activity. Similarly, the Applicant provided evidence that
+the costs of adding additional irrigation infrastructure are unreasonable and prohibitive. The Applicant
+also notes that the historical use on the site as an irrigated pasture does not necessarily inform whether
+such a use constitutes a "farm use" under current conditions as COL W suggests - for example, because
+the economics of fann activities have changed over time.
+As it relates to this administrative rule, the competing evidence submitted by the parties makes this a close
+call. Having reviewed and weighed that evidence, however, I find that the quantitative and more-detailed
+evidence provided by the Applicant is more persuasive, and I conclude that it is more likely than not that
+the Subject Property is not suitable for farm uses as defined in ORS 215.203(2)(a).
+OAR 660-033-0020(1){a)(C)
+As a final argument on this issue, COL W asserts that the Subject Property is "agricultural land" as defined
+in OAR 660-033-0020(1 )(a)(C). That rule states that land qualifies as "agricultural land" if it "is necessary
+to permit farm practices to be undertaken on adjacent or nearby agricultural lands." COLW specifically
+asserts that the extra traffic, noise, and human presence resulting from a zone change "threatens the
+viability of current and potential farm practices in the area." The Applicant responds, in part, by noting
+how LUBA has interpreted this rule to require "some connection between the subject property and
+adjacent or nearby farm practices, such that the property must remain as 'agricultural land' in order to
+permit such practices on other lands to be undertaken."4 In that case, LUBA agreed that it is not only that
+the land itself must be necessary to permit farm practices on other lands, but the land's resource
+designation and zoning must be "necessary" to permit farm practices on other lands.
+LUBA acknowledges that this "necessary" standard is a high one, and some conflicts may be allowed.
+But where specific conflicts are identified, they must be assessed. COL W, however, does not identify
+specific conflicts that will happen as a result of the change in zoning, only potential conflicts that may
+arise. Indeed, specific conflicts would be difficult to identify because the Application does not propose a
+specific development. The Applicant does contemplate using the Subject Property for the expansion of an
+existing school, but COL W acknowledges that such a use is authorized under current zoning. Thus, the
+change in zoning would not be the cause of the conflicts COL W urges must be avoided in order for other
+properties to continue farming.
+Based on the foregoing, I find that the evidence in the record does not allow me to conclude that the
+Subject Property is necessary to permit farm practices to be undertaken on adjacent or nearby agricultural
+lands and, therefore, the Subject Property does not qualify as agricultural land under this part of the rule.
+OAR 660-033-0020(1 )(b)
+The state's administrative rules provide one more definition of "agricultural lands" in OAR 660-033-
+0020( 1 )(b) - "Land in capability classes other than I-IV /I-VI that is adjacent to or intermingled with lands
+in capability classes I-IV/I-VI within a farm unit, shall be inventoried as agricultural lands even though
+this land may not be cropped or grazed; ... " The Applicant states that the Subject Property does not fall
+into this category and "is not, and has not, been a part of a farm unit". The Staff Report agrees with the
+Applicant's assessment, and no other participant challenges that assessment or argues that the Subject
+Property falls within this definition. Based on the foregoing, I find that the Subject Property is not
+"agricultural land" under OAR 660-033-0020(l)(b).
+I II
+4 Central Oregon LandWatch et al. v. Deschutes County, _ Or LUBA_ (LUBA No. 2023-006/009)
+(July 28, 2023).
+Page J 15
+d. Goal 5 Administrative Rules
+COL W argues that the Application is not in compliance with OAR 660-023-0250(3)(b ), which is part of
+Goal 5. Goal 5 and its implementing rules protect natural resources, scenic and historic areas, and open
+spaces. Pursuant to OAR 660-023-0250(3), the County does not have to apply Goal 5 as part of a post­
+acknowledgment plan amendment ("PAP A") "unless the PAP A affects a Goal 5 resource." One scenario
+in which a PAP A may affect a Goal 5 resource is when the "PAP A allows new uses that could be
+conflicting uses with a particular significant Goal 5 resource site on an acknowledged resource list. "5
+COL W argues that the proposed Plan Amendment and Zone Change requires the Applicant to apply Goal
+5 provisions because the Application "proposes to amend the plan designation and zoning for the subject
+property that would allow new uses - those permitted in the MUA-10 zone - on the subject property" and
+that those new uses may conflict with the County's Goal 5-protected resources. The specific resources
+COLW identifies are Landscape Management Rivers, State Scenic Waterways, and wetlands.
+The County regulates conflicting uses with Landscape Management Rivers and State Scenic Waterways
+through the application of the Landscape Management Combining zone ("LM Zone"), and the Subject
+Property currently carries the LM Zone designation.
+The Applicant asserts that there is no need to apply Goal 5 in light of the County's acknowledged Plan,
+which contains the LM Zone as a tool for protecting some Goal 5 resources. According to the Applicant,
+the Subject Property is already subject to the LM Zone and, to the extent there are any conflicts with a
+Goal 5 resource, that can be resolved at the time when specific development occurs and the County
+requires site plan approval for any development within the LM Zone. The Applicant specifically states
+that "[t]here is no requirement to apply Goal 5 directly to the application where, as here, the proposal does
+[not] introduce 'new uses' which would be conflicting with the Goal."6
+The Applicant's response is not consistent with a relatively recent LUBA decision- the LUBA No. 2023-
+008 case cited above in footnote 3. That decision rejects the very approach to Goal 5 the Applicant seeks
+here. In that case, LUBA explained that its prior decisions require a local jurisdiction "to apply Goal 5 if
+the PAP A allows a new use that could conflict with Goal 5 resources." LUBA then addressed a situation
+similar to the situation presented in this case and analyzed whether the new zoning (in that case, the RI
+zone on property that would retain the LM overlay) allowed uses on the subject property that were not
+allowed under the previous EFU zoning and whether those uses could conflict with protected Goal 5
+resources.
+LUBA's decision acknowledged that the County previously conducted the appropriate Goal 5 analysis for
+other RI-zoned properties and applied the LM Zone to protect the Highway 97 scenic resource from
+conflicting uses on those properties. However, LUBA determined that, in the absence of evidence showing
+5 OAR 660-023-0250(3)(b).
+6 The Applicant's Final Legal Argument actually states: "[t]here is no requirement to apply Goal 5
+directly to the application where, as here, the proposal does introduce 'new uses' which would be
+conflicting with the Goal." That appears to be a typo and I assume the Applicant intended to say
+" ... does not introduce ... ". That sentence would not otherwise make sense in the context in which it
+appears.
+the prior Goal 5 analysis considered impacts from RI-type development on all properties, that analysis did
+not consider whether RI uses on farm-zoned property affected a Goal 5 resource. Indeed, LUBA concluded
+that "the county could not have, in its [prior Goal 5 analysis], evaluated whether development of those
+new uses on the subject property would excessively interfere with the protected scenic resource because
+those uses were not allowed on the property" at that time. Because the County's decision in that case
+allowed "new uses that could conflict with inventoried Goal 5 resources," LUBA concluded the County
+was required to address Goal 5 and, specifically, to comply with OAR 660-023-0250(3).
+Based on that LUBA decision, I find that the Applicant's argument that Goal 5 is not applicable is
+incorrect. The Plan Amendment and Zone Change would allow new uses on the Subject Property that
+were not previously allowed and that could conflict with a protected Goal 5 resource. Although the
+Applicant notes that its intended use is to expand an existing school, and that the current school was
+approved in the MUA-10 zone subject to the LM Zone, the Application is not limited to that use, and other
+uses allowed in the MUA-10 zone would be authorized after the zone change. The Applicant has not
+addressed those uses, much less considered their potential conflicts with listed Goal 5 resources. The
+Applicant's response also does not address COLW's assertion that wetlands will be impacted. It may be
+possible for the Applicant to show that the County's prior Goal 5 analysis considered MUA-10
+development on the Subject Property, or, if not, the Applicant may be able to demonstrate that the new
+uses allowed on the Subject Property do not significantly affect a Goal 5 resource. However, I find that
+the current record does not allow me to address either option. I therefore find that I cannot recommend
+approval of the Application on this basis and the Applicant must address this issue further before the
+Application is approved.
+e. Goal 14 Administrative Rules
+COL W argues that the Application is not in compliance with Goal 14. Goal 14 and its implementing rules
+"provide for an orderly and efficient transition from rural to urban land use." See OAR 660-015-0000(14).
+COL W's specific argument is that the designation of the Subject Prope1iy to the MUA-10 zone would
+constitute urbanization of the Subject Property. According to COL W, the County must analyze several
+urbanization factors ("Curry factors") as set forth in 1000 Friends of Oregon v. Land Conservation and
+Development Commission, 301 Or 447, 474 (1986), which are also summarized by LUBA in Oregon
+Shores Conservation Coalition v. Coos County, 55 Or LUBA 545, 550 (2008). COLW bases its argument
+on its own assessment of the Curry factors.
+One way to address this issue is to consider whether the MUA-10 zone actually authorizes urban uses. As
+the Applicant notes, this question has been asked and answered by the County, as described in the recent
+LUBA case Central Oregon LandWatch v. Deschutes County,_ OR LUBA_ (LUBA No. 2023-049,
+Feb. 15, 2024). In that case, LUBA considered nearly identical facts where the County approved a plan
+amendment and zone change from AG/EFU-TRB to RREA/MUA-10. Before turning to COLW's
+arguments in that case, LUBA noted that the County's Board of Commissioner's had made the following
+finding:
+Deschutes County Comprehensive Plan and Title 18 of the Deschutes
+County Code have been acknowledged by [the Land Conservation and
+Development Commission (LCDC)] as being in compliance with every
+statewide planning goal, including Goal 14. The County specifically
+amended its comprehensive plan in 2016 to provide that the Rural
+Residential Exception Area Plan and its related MUA-10 and RR-10 zones
+should be applied to non resource lands. Ordinance 2016-005. This
+amendment is acknowledged, which means that the RREA plan designation
+and its related zoning districts, when applied to non-resource lands such as
+the subject property, do not result in a violation of Goal 14. (Emphasis
+added).
+In other words, the County's Board has already interpreted its Plan and Code to mean that all uses allowed
+in the MUA-10 zone are rural in nature. This is similar to the Board's interpretation of other zones, like
+the Rural Industrial (RI) zone, which LUBA also considered in a similar case.7 Based on the Board's
+interpretation, I find that it is not necessary to apply the Curry factors as urged by COL W, and that the
+change in zone to MUA-10 does not result in urbanization of the Subject Property.
+f. Goal 12 Administrative Rules
+Goal 12 relates to transportation. COL W argues that the Application fails to comply with Goal 12 and its
+implementing rules.
+A primary regulation implementing Goal 12 is OAR 660-012-0060. That rule states:
+If an amendment to a functional plan, an acknowledged comprehensive plan, or a
+land use regulation (including a zoning map) would significantly affect an existing
+or planned transportation facility, then the local government must put in place
+measures as provided in section (2) of this rule, unless the amendment is allowed
+under section (3), (9) or (10) of this rule. A plan or land use regulation amendment
+significantly affects a transportation facility if it would:
+(a) Change the functional classification of an ex1stmg or planned
+transportation facility ( exclusive of correction of map errors in an
+adopted plan);
+(b) Change standards implementing a functional classification system;
+or
+( c) Result in any of the effects listed in paragraphs (A) through (C) of
+this subsection based on projected conditions measured at the end of
+the planning period identified in the adopted TSP. As part of
+evaluating projected conditions, the amount of traffic projected to
+be generated within the area of the amendment may be reduced if
+the amendment includes an enforceable, ongoing requirement that
+7 See Central Oregon Landwatch v. Deschutes County,_ Or LUBA_ (LUBA No. 2022-075, Dec. 6, 2002); aff'd 324 Or
+App 655 (2023) (upholding County's finding that all uses in the RI zone are rural in nature, negating the need to undertake
+additional Goal 15 analyses).
+Pagel 18
+would demonstrably limit traffic generation, including, but not
+limited to, transportation demand management. This reduction may
+diminish or completely eliminate the significant effect of the
+amendment.
+(A)
+(B)
+(C)
+Types or levels of travel or access that are inconsistent with
+the functional classification of an existing or planned
+transportation facility;
+Degrade the performance of an existing or
+transportation facility such that it would not
+performance standards identified m the
+comprehensive plan; or
+planned
+meet the
+TSP or
+Degrade the performance of an ex1stmg or planned
+transportation facility that is otherwise projected to not meet
+the performance standards identified in the TSP or
+comprehensive plan.
+I find that this administrative rule is applicable to the Plan Amendment and the Zone Change because they
+involve an amendment to an acknowledged comprehensive plan. COL W asserts that the Application does
+not comply with this rule because the Applicant has not accurately estimated the vehicle trip generation
+of the proposed zoning, and specifically because the Applicant has not estimated the trip generation
+associated with the anticipated use of the Subject Property as a school.
+The Applicant counters that its proposal will not result in a significant effect to the transportation system.
+In support of that assertion, the Applicant submitted a traffic study prepared by traffic engineer Joe
+Bessman, PE. The Applicant also notes that, because the Application seeks a zone change that allows
+multiple uses, not just the intended use, it was not required to analyze the school use specifically and,
+instead, was required to model a worst-case scenario based on all uses allowed.
+The County's Transportation Planner agreed with the conclusions of the Applicant's engineer, including
+the methodology used. As a result, the Staff Report finds that the Plan Amendment and Zone Change will
+comply with the Transportation Planning Rule.
+Based on the foregoing, I agree with the Applicant that it has sufficiently addressed transportation impacts
+and find that the Application satisfies this Goal 12 administrative rule.
+5. Other Statewide Planning Goals
+Division 15 of OAR chapter 660 sets forth the Statewide Planning Goals and Guidelines, with which all
+comprehensive plan amendments must demonstrate compliance. The Applicant asserts the Application is
+consistent with all applicable Goals and Guidelines. No participant in this proceeding identified a
+Statewide Planning Goal with which the proposal does not comply, except those discussed above relating
+to Goal 3, Goal 5, Goal 12, and Goal 14. Having reviewed the evidence presented, and in the absence of
+any arguments relating to the other Goals, I adopt the Applicants' position and find that the Plan
+Amendment and Zone Change are consistent with the following applicable Goals:
+Goal 1, Citizen Involvement. Deschutes County will provide notice of the application to the
+public through mailed notice to affected property owners and by requiring the applicant to post a
+"proposed land use action sign" on the subject property. Notice of the public hearings held
+regarding this application will be placed in the Bend Bulletin. A minimum of two public hearings
+will be held to consider the application.
+Goal 2, Land Use Planning. Goals, policies, and processes related to zone change applications
+are included in the Deschutes County Comprehensive Plan and Titles 18 and 23 of the Deschutes
+County Code. The outcome of the application will be based on findings of fact and conclusions of
+law related to the applicable provisions of those laws as required by Goal 2.
+Goal 4, Forest Lands. Goal 4 is not applicable because the subject property does not include any
+lands that are zoned for, or that support, forest uses. Forest land is defined by OAR 660-005-0010
+as lands suitable for commercial forest use protection under Goal 4, which are identified using
+NCRS soil survey maps to determine average annual wood fiber production figures. The NCRS
+maps for the subject property map it with soil mapping units 98A and B, 26A and 101 E. The NCRS
+Soils Survey for the upper Deschutes River lists all soils mapped by its survey that are suitable for
+wood crop production in Table 8 (Exhibit 15). None of the soils mapped on the subject property
+are listed in Table 8 as suitable for wood crop production.
+Goal 6, Air, Water, and Land Resources Quality. The approval of this application will not
+impact the quality of the air, water, and land resources of the County. Any future development of
+the property would be subject to local, state, and federal regulations that protect these resources.
+Goal 7, Areas Subject to Natural Disasters and Hazards. According to the Deschutes County
+DIAL property information and Interactive Map the entire Deschutes County, including the subject
+property, is located in a Wildfire Hazard Area. The subject property is also located in Rural Fire
+Protection District #2. Rezoning the property to MUA-10 does not change the Wildfire Hazard
+Area designation. Any future development of the property would need to demonstrate compliance
+with any fire protection regulations and requirements of Deschutes County.
+Goal 8, Recreational Needs. This goal is not applicable because no development is proposed and
+the property is not planned to meet the recreational needs of Deschutes County. Therefore, the
+proposed rezone will not impact the recreational needs of Deschutes County.
+Goal 9, Economy of the State. This goal does not apply to this application because the subject
+property is not designated as Goal 9 economic development land. In addition, the approval of this
+application will not adversely affect economic activities of the state or area. The proposed zone
+change will promote economic opportunities by rezoning underutilized property for a subsequent
+use.
+Goal 10, Housing. The County's comprehensive plan Goal 10 analysis anticipates that farm
+properties with poor soils, like the subject property, will be converted from EFU to MUA-10 or
+RR-10 zoning and that these lands will help meet the need for rural housing. Cascades Academy
+supports rural housing by providing school services for the rural properties. Approval of this
+application, therefore, is consistent with Goal 10 as implemented by the acknowledged Deschutes
+County comprehensive plan.
+Goal 11, Public Facilities and Services. The approval of this application will have no adverse
+impact on the provision of public facilities and services to the subject site. Central Electric
+Cooperative serves the subject property with power, water and septic are provided on-site and the
+proposal will not result in the extension of urban services to rural areas.
+Goal 13, Energy Conservation. The approval of this application does not impede energy
+conservation. In fact, Planning Guideline 3 of Goal 13 states "land use planning should, to the
+maximum extent possible, seek to recycle and re-use vacant land ... " Cascades Academy provides
+school services to the rural community in close proximity to residential uses, thereby reducing
+vehicle miles traveled and conserving energy.
+Goals 15 through 19. These goals do not apply to land in Central Oregon.
+V. CONCLUSION
+Based on the foregoing findings, I find the Applicant has NOT met the burden of proof with respect to the
+standards for approving the requested Plan Amendment and Zone Change. I therefore recommend to the
+County Board of Commissioners that the Application be DENIED unless the Applicant can meet that
+burden.
+Dated this 21st day of February 2025
+Tommy A. Brooks
+Deschutes County Hearings Officer
+Pagel21
+BOARD OF
+COMMISSIONERS
+AGENDA REQUEST & STAFF REPORT
+MEETING DATE: March 11, 2026
+SUBlECT: Consideration of second reading of Ordinance 2026-005 - Cascades Academy
+Plan Amendment and Zone Change
+RECOMMENDED MOTIONS:
+1. Move approval of second reading of Ordinance 2026-005, by title only.
+2. Move adoption of Ordinance 2026-005.
+BACKGROUND AND POLICY IMPLICATIONS:
+The applicant, Cascades Academy, requests approval to change the Comprehensive Plan
+designation (land use file no. 247-24-000392-PA) of the subject property from Agriculture
+and Surface Mining to Rural Residential Exception Area, and approval to change the zone
+(land use file no. 247-24-000393-ZC) of the subject properties from Exclusive Farm Use and
+Surface Mine to Multiple Use Agricultural.
+The subject property is approximately 22.5 acres in size and is located immediately south
+of the Tuma lo Rural Community and west of State Highway 20. The Board held a public
+hearing on June 18, 2025, and deliberated on this application on August 27, 2025, voting 2-1
+to approve the application. The first reading of the ordinance was conducted on February
+25, 2026.
+The entirety of the record can be viewed from the project website at:
+https://bit.ly/CascadesAcademy
+BUDGET IMPACTS:
+None.
+ATTENDANCE:
+Nicole Mardell, Principal Planner
+Will Groves, Planning Manager
+TO:
+FROM:
+DATE:
+SUBJECT:
+COMMUNITY DEVELOPMENT
+MEMORANDUM
+Deschutes County Board of Commissioners (Board)
+Nicole Mardell, AICP, Principal Planner
+March 11, 2026
+Consideration of Second Reading of Ordinance 2026-005 - Cascades Academy Plan
+Amendment and Zone Change
+The Board of County Commissioners (Board) will consider a second reading of Ordinance 2026-005
+on March 11, 2026, for a Plan Amendment and Zone Change (File nos. 247-24-000392-PA, 393-ZC).
+The record is available for inspection at the following link: https://bit.ly/CascadesAcademy
+I. BACKGROUND
+The subject property is comprised of seven (7) tax lots with a total area of 22.5 acres, including 4.03
+acres zoned Surface Mine and 18.47 acres zoned EFU-Tumalo/Redmond/Bend Subzone. Four (4) tax
+lots are partially within the Landscape Management Combining Zone associated with State Highway
+20 and the Deschutes River. The EFU properties are also within the Surface Mining Impact Area
+Combining Zone associated with Mining Site No. 370. The property is irregular in shape and is located
+immediately south of the Tumalo Rural Community and west of State Highway 20.
+Cascades Academy, the applicant and property owners, request a change to the Comprehensive Plan
+designation of the subject property from Agricultural (AG) and Surface Mining (SM) to Rural
+Residential Exception Area (RREA) and a corresponding Zone Change from Exclusive Farm Use -
+Tumalo/ Redmond/ Bend subzone (EFU-TRB) & Surface Mining (SM) to Multiple Use Agricultural
+(MUA-10). The applicant intends to rezone the property to allow for expansion of the existing school
+on an adjacent parcel, although they are not requesting approval for the school or other specific
+development as part of this application.
+A public hearing was conducted by a Hearings Officer on November 14, 2024. On February 26, 2025,
+the Hearings Officer issued a recommendation of denial for the proposed Plan Amendment and Zone
+Change, citing a lack of evidence demonstrating compliance with Statewide Planning Goal 5
+pertaining to wetland, scenic road, and scenic water resources associated with the subject property.
+Following the recommendation, the applicant provided additional materials into the record, including
+an Economic, Social, Environmental, and Energy (ESEE) analysis.
+On June 18, 2025, the Board held a public hearing to hear additional testimony on the applications,
+and the open record period closed on July 16, 2025. On August 27, 2025, the Board deliberated and
+voted 2-1 to approve the applications.
+The Board conducted the first reading of Ordinance 2026-005 by title only on February 25, 2026.
+ATTACHMENTS:
+1. Draft Ordinance 2026-005 and Exhibits
+Exhibit A: Legal Descriptions
+Exhibit B: Proposed Plan Amendment Map
+Exhibit C: Proposed Zone Change Map
+Exhibit D: Comprehensive Plan Section 23.01.010, Introduction
+Exhibit E: Comprehensive Plan Section 5.12, Legislative History
+Exhibit F: Board Decision
+Exhibit G: Hearings Officer Recommendation

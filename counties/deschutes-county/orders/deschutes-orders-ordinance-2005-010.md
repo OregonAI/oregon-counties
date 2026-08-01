@@ -1,0 +1,1461 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2005-010
+title: 'Ordinance No. 2005-010'
+doc_type: ordinance
+citation: 'Ordinance No. 2005-010'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616978532_2005-146-Ordinance%20No.%202005-010%20Recorded%202_28_2005.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 88afe428ffffc973721d78dd859bc320d7e9d928e39050c2886996820d6e7e63
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 27913.070
+    - ORS 279B.085
+    - ORS 279C.335
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2005-010 (Ordinance No. 2005-010)
+
+## At a glance
+
+Ordinance No. 2005-010 — orders of Deschutes County. 25 pages.
+
+## Full text
+
+10EW
+W
+WED
+CODE RE/ IEW COMMITTEE
+DESCHUTES COUNTY OFFICIRL RECORDS
+NANCY BLANKENSHIP, COUNTY CLERK
+COMMISSIONERS' JOURNAL AVIA/ lAAR MOIR PM
+2005- 146
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Adding Chapter 2.37 to the
+DeschutesCounty Code, DeschutesCounty ORDINANCE NO. 2005 - 0 10
+Contracting Code, Adopting Findings, Providing
+an Effective Date and Declaring an Emergency.
+WHEREAS, in 2003 the Oregon Legislature adopted revised public contracting statutes, codified in
+Chapter 279A, 279B and 279C ( 2003 ch. 794), herein " Public Contracting Code;" and
+WHEREAS, as a part the Public ContractingCode the Legislaturedirectedthe Oregon Attorney
+General to prepare and adopt new model rules to implement the Public Contracting Code; and
+WHEREAS, pursuant to the Legislature' s directive, the Attorney General has prepared new model
+public contracting rules, which have been adopted and filed with the Oregon Secretary of State as Oregon
+Administrative Rules Chapter 137, Divisions 46, 47, 48 and 49, herein " Model Rules;" and
+WHEREAS, the Public Contracting Code, while adoptedin 2003, is scheduledto take effect, along with
+the Model Rules on March 1, 2005; and
+WHEREAS, the Public Contracting Code requires that in order to adopt exemptions and classes of
+special procurements to the Public Contracting Code, it is necessary for the County to publish notice and
+provide an opportunity for comment on proposed findings supporting such exemptions and classesof special
+procurements; and
+WHEREAS, theCountyhason February18, 2005publishednoticein theBendBulletin andtheDaily
+Journal of Commerce of its intention to approve findings in support of, and adopt certain exemptions and classes
+of special procurements, which have been made available for review and comment; and
+WHEREAS, the Board has provided an opportunity for comment and considered such comments as
+were received relative to the proposed findings in support of exemptions and classes of special procurements
+contained in a proposed County Contracting Code; and
+WHEREAS, the Public Contracting Code and Model Rules will cause the current County Code
+provisions relating to public contracting, 2.36 and 4.06, to become obsolete as to contracts advertised after
+March 1, 2005 or, if not advertised, entered into after March 1, 2005; and
+WHEREAS, it is therefore necessaryfor the County to adopt revisions to the County Code to implement
+the Public Contracting Code and Model Rules; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. ADDING NEW CHAPTER. The Deschutes County Code is amendedby adding a new
+chapter, Chapter 2.37, the Deschutes County Contracting Code, set forth in Exhibit " A," attached hereto and by
+PAGE I OF 2 - ORDINANCE NO. 2005- 010 ( 02/ 28/ 05)
+this reference incorporated herein. Chapter 2.37 becomes operative and applies only to public contracts first
+advertised, but if not advertised then entered into, on or after March 1, 2005.
+Section 2. FINDINGS. The exemptions and classes of special procurements contained in the
+Deschutes County Contracting Code are supported by findings, set forth in Exhibit " B," attached hereto and by
+this reference incorporated herein.
+Section 3. SEVERABILITY. If any portion of this ordinance is deemed invalid by a court of
+competent jurisdiction, the invalid portion shall be severed from the ordinance and the rest shall remain in full
+force and effect.
+Section 4. EMERGENCY. This Ordinance being necessary for the immediate preservation of the
+public peace, health and safety, an emergency is declared to exist, and this Ordinance takes effect on March 1,
+2005.
+DATED this _ 2eday of 2005.
+0
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUT COUNTY, 0 -, GON
+TTnx n WnT FOM DEWOLF, Chan
+Date of I" Reading: X dayof 2005.
+V-1 1
+Date of 2ndReading: 4 -- day of 2005,
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Tom DeWolf
+Michael M. Daly
+Dennis R. Luke
+Effective date: a— day of .
+12005.
+ATTEST:
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2005- 010 ( 02/ 28/ 05)
+Chapter 2. 37. PUBLIC CONTRACTING
+CODE
+2. 37. 010. Purpose - Statutory Authority.
+2. 37. 020. Model Public Contract Rules.
+2. 37. 030. Public Contract Review Board.
+2. 37. 040. Purchasing Agent.
+2. 37. 500. Definitions.
+2. 37. 060. Signature Authority.
+2. 37. 070. Class Special Procurements.
+2. 37. 080. Exemption for Certain Personal
+Services.
+2. 37. 090. Exemption from Sealed Bids or
+Proposals.
+2. 37. 100. Purchases through federal
+programs.
+2. 37. 110. Contracts for Disposal of Personal
+Property.
+2. 37. 120. Contract Amendments and
+Renewal.
+2. 37. 130. Qualified Pool.
+2. 37. 140. Contested Case Procedures.
+2. 37. 010. Purpose - Statutory Authority.
+The purpose of CDD 2. 37 is to implement the
+provisions of ORS 279A, 279B and 279C,
+which may be collectively referred to herein as
+the Public Contracting Code. This chapter shall
+be known as the Deschutes County Contracting
+Code and may be referred to herein as " this
+chapter."
+Ord. 2005- 010 § 1, 2005)
+2. 37. 020. Model Public Contract Rules.
+Except asotherwise provided in this chapteror by
+rule or order of the Board, the Model Rules of
+Public Contract Procedure, OAR 137, divisions
+46, 47, 48 and 49, herein referred to as the Model
+Rules, adopted by the Oregon Attorney General
+and from time to time amended, shall be the rules
+of the Deschutes County Contract Review Board.
+Where reference is made in these rules to any
+provision of the Public Contracting Code, unless
+this chapter provides otherwise, the
+corresponding provisions of the Model Rules
+shall also apply.
+Ord. 2005- 010§ 1, 2005)
+2. 37. 030. Public Contract Review Board.
+Except as expressly delegated under this chapter,
+or by Resolution by the Board of County
+Chapter 2. 37
+Commissioners, " Board," acting in its capacity as
+the governing body of the County and each and
+every Deschutes County service district, reserves
+to itself the exercise of all duties and authority of
+a contract review board and a contracting agency
+under state law. Where this chapter refers to the
+County," unless the context indicates a different
+meaning, the reference shall mean and include
+Deschutes County and the particular county
+service district for which the Board is the
+governing body
+Ord. 2005- 010 § 1, 2005)
+2. 37. 040. Purchasing Agent.
+A. The County Administrator is designated as
+the Purchasing Agent of the County and is
+hereby authorized to issue all solicitations
+and to award all County contracts for which
+the contract price does not exceed $ 150, 000.
+Subject to the provisions of this chapter, the
+Purchasing Agent may adopt and amend all
+solicitation materials, contracts and forms
+required or permitted to be adopted by
+contracting agencies under the Public
+Contracting Code or otherwise convenient for
+the County' s contracting needs.
+B. hi the context of requests for proposals the
+Purchasing Agent and in the case of county
+service districts, each administrator or
+director, is authorized to determine the
+method of contractor selection and selection
+criteria, including without limitation: award
+without negotiation, negotiation with the
+highest ranked proposer, competitive
+negotiations, multiple - tiered competition
+designed either to identify a class of
+proposers that fall within a competitive range
+or to otherwise eliminate from consideration
+a class of lower ranked proposers, or any
+combination of methods.
+C. The Purchasing Agent and in the case of
+county service districts, each administrator or
+director, is authorized to determine that goods
+or services, or classes of goods or services,
+are available from only one source, pursuant
+to ORS 279B. 075( 2).
+D. In the case of county service districts the
+director or administrator is designated as the
+purchasing agentof the district and is hereby
+03/ 2005)
+A
+authorized to issue all solicitations and to
+award all district contracts for which the
+contract price does not exceed $ 25, 000 unless
+otherwise specifically set forth in the
+operating agreementbetween the County and
+the district. Subject to the provisions of this
+chapter, the purchasing agent of the district
+may adopt and amend all solicitation
+materials, contracts and forrns required or
+permitted to be adopted by contracting
+agencies under the Public Contracting Code
+or otherwise convenient for the district' s
+contracting needs.
+E. Whenever the Oregon State Legislative
+Assembly enactslaws that causethe attorney
+general to modify its Model Rules, the
+County Legal Counsel shall review this
+chapter and recommend to the Board any
+modifications required to ensure compliance
+with statutory changes.
+Ord. 2005 - 0 10 § 1, 2005)
+2. 37. 50 Definitions.
+The following terms used in this chapter shall
+have the meanings set forth below:
+A. " Award" means the selection of a person to
+provide goods, services or public
+improvements under a public contract. The
+award of a contract is not binding on the
+County until the contract is executed by the
+person and the County.
+B. " Bid" means a binding, sealed, written offer
+to provide goods, services or public
+improvements for a specified price or prices.
+C. " Concession agreement" means a contract
+that authorizes and requires a private entity or
+individual to promote or sell, for its own
+business purposes, specified types of goods
+or services from real property owned or
+managedby the County, and under which the
+concessionaire makes payments to the
+County based, at least in part, on the
+concessionaire' s revenues or sales. The term
+concession agreement" does not include a
+mere rental agreement, license or lease for the
+use of premises.
+D. " Contract price" means the total amount paid
+or to be paid under a contract, including any
+approved alternates, and any fully executed
+change orders or amendments.
+E. " Debarment" means a declaration by the
+Purchasing Agent or the Board under ORS
+279B. 130 or ORS 279C. 440 that prohibits a
+potential contractor from competing for the
+County' s public contracts for a prescribed
+period of time.
+F. " Disposal" means any arrangement for the
+transfer of personal property by the County
+under which the County relinquishes
+ownership.
+G. " Findings" are the statements of fact that
+provide justification for a determination.
+Findings may include, but are not limited to,
+information regarding operation, budget and
+financial data; public benefits; cost savings;
+competition in public contracts; quality and
+aesthetic considerations, value engineering;
+specialized expertise needed; public safety;
+market conditions; technical complexity;
+availability, perfort- nance and funding
+sources.
+H. " Goods" means any item or combination of
+supplies, equipment, materials or other
+personal property, including any tangible,
+intangible and intellectual property and rights
+and licenses in relation thereto.
+1. " Informal solicitation" means a solicitation
+made in accordance with the Contracting
+Code and this chapter to a limited number of
+potential contractors, in which the
+Solicitation Agent attempts to obtain at least
+three quotes or proposals.
+J. " hivitation to bid" means a publicly
+advertised request for competitive sealed
+bids.
+K. " Offeror" means a person who submits a bid
+quote or proposal to enter into a public
+contract with the County.
+L. " Personal services contract" means a contract
+with an independent contractor
+predominantly for services that require
+special training or certification, skill,
+technical, creative, professional or
+communication skills or talents, unique and
+specialized knowledge, or the exercise of
+Chapter 2. 37 2 ( 03/ 2005)
+judgment or skills, and for which the quality
+of the service depends on attributes that are
+unique to the service provider. Such services
+include, but are not limited to, the services of
+architects, engineers, land surveyors,
+attorneys, auditors and other licensed
+professionals, artists, designers, computer
+programmers, performers, consultants and
+property managers. The Purchasing Agent or
+the Board shall have discretion to determine
+whether additional types of services not
+specifically mentioned in this paragraph fit
+within the definition of personal services.
+M. " Proposal" means a binding offer to provide
+goods, services or public improvements with
+the understanding that acceptance will
+depend on the evaluation of factors other
+than, or in addition to, price. A Proposal may
+be made in response to a request for
+proposals or under an informal solicitation.
+N. " Qualified pool" means a pool of vendors
+who are pre - qualified to compete for the
+award of contracts for certain types of
+contracts or to provide certain types of
+services.
+0. " Quote" means a price offer made in
+response to an informal or qualified pool
+solicitation to provide goods, services or
+public improvements.
+P. " Request for proposals" means a publicly
+advertised request for sealed competitive
+proposals.
+Q. " Services" means and includes all types of
+services (including construction labor) other
+than personal services.
+R. " Solicitation" means an invitation to one or
+more potential contractors to submit a bid,
+proposal, quote, statement of qualifications or
+letter of interest to the County with respectto
+a proposed project, procurement or other
+contracting opportunity. The word
+solicitation" also refers to the process by
+which the County requests, receives and
+evaluates potential contractors and awards
+public contracts.
+S. " Solicitation Agent" means with respect to a
+particular solicitation or contract, the County
+employee charged with responsibility for
+conducting the solicitation and making an
+award, or making a recommendation on
+award to a department head, the Purchasing
+Agent or the Board.
+T. " Solicitation documents" means all
+informational materials issued by the County
+for a solicitation, including, but not limited to
+advertisements, instructions, submission
+requirements and schedules, award criteria,
+contract terms and specifications, and all
+laws, regulations and documents incorporated
+by reference.
+U. " Surplus property" means personal property
+owned by the County which is no longer
+needed for use by the department to which
+such property has been assigned.
+Ord. 2005- 010 § 1, 2005)
+2. 37. 060. Signature Authority.
+A. Each County Department Head and each
+elected County official designated as a
+department head is authorized to award
+competitive bids and proposals and enter into
+contracts in an amount not to exceed $ 25, 000
+for each contract, provided sufficient sums
+are appropriated and unencumbered in the
+County or, as applicable, district budget and
+there are sufficient cash resources available to
+pay the maximum consideration set forth in
+each and every contract
+B. The County Administrator is authorized to
+award competitive bids and proposals and
+enter into contracts in an amount not to
+exceed $ 150,000 for any single contract,
+provided sufficient sums are appropriated and
+unencumbered in the County budget and
+there are sufficient cash resources available to
+pay the maximum consideration set forth in
+each and every contract.
+Ord. 2005- 010 § 1, 2005)
+2. 37. 070. Class Special Procurements.
+A. The County may award a public contract
+under a Class Special Procurement pursuant
+to the requirements of ORS 279B. 085. Such
+procurements allow the County to enter into
+one or more contracts over time without
+Chapter 2. 37 3 ( 02/ 2005)
+following the requirements of competitive near the site of work being performed by
+sealedbidding, competitive sealedproposals another County contractor, the County
+or intermediate procurements. may hire that contractor to perform the
+B. The Board of County Commissioners
+work, provided:
+declares the following as classes of special
+a. The contractor was hired through a
+procurements. Such contracts may be
+selection process permitted by
+awardedin any mannerwhich the Solicitation County Code;
+Agent deems appropriate to the County' s
+b. The Solicitation Agent first obtains
+needs, including by direct appointment or
+a price quotation for the additional
+purchase. Except where otherwise provided work from the contractor that is
+the Solicitation Agent shall make a record of competitive and reasonable;
+the method of award.
+C. The total cost of the proposed work
+I . Manufacturer Direct Supplies. The and the original work will not
+County may purchase goods directly
+exceed the Bureau of Labor and
+from a manufacturer without competitive Industries' threshold of $ 25, 000;
+bidding if a large volume purchase is
+and
+required and the cost from the
+d. The original contract is amended to
+manufacturer is the same or less than the
+reflect the new work and is
+cost the manufacturer charges to its approved by the Purchasing Agent
+distributor( s). Procurements of this type before work begins.
+are made on a contract -by -contract basis
+7. Purchase of Used Personal Property or
+and are not requirements contracts. Equipment. The County may directly
+2. Purchase of Advertising Contracts. purchase used personal property and
+Contracts for the placing of notices or equipment if suchproperty is suitable for
+advertisementsmay be published in any the County' s needs and can be purchased
+medium. for a lower cost than substantially
+3. ContractsUp to $5,000. Contractsof any similarly new property. For this purpose
+type for which the contract price does not the cost of used property shall be based
+exceed $ 5, 000 without a record of the upon the life -cycle cost of the property
+method of award. over the period for which the property
+4. Copyrighted Materials; Library will be usedby the County.
+Materials. The County may purchase
+8. Hazardous Material Removal and Oil
+copyrighted materials where there is only Clean-up. The County may directly
+one known supplier available for such acquire services to remove or clean up
+goods. This includes, but is not limited hazardousmaterial or oil from any
+to, new books, periodicals, curriculum vendor when ordered to do so by the
+materials, reference materials, audio and Oregon Department of Environmental
+visual media, and non- mass marketed Quality pursuant to its authority under
+software from a particular publisher or its ORS Chapter 466. In doing so, the
+designated distributor. followingconditionsapply:
+5. Requirements Contracts. The County
+a. To the extent reasonable under the
+may competitively select a vendor to
+circumstances, encourage
+provide specified goods and services that competition by attempting to obtain
+are routine or repetitive over a defined informal price quotations or
+contract term at particular prices even proposals from potential suppliers of
+though the precise volume or number of
+goods and services.
+such purchases is not known in advance. b. The Department responsible for
+6. Use of Existing Contractors. When a managing or coordinating the clean -
+public improvement is in need of minor up shall prepare a written description
+alteration, repair or maintenance at or of the circumstances that require it
+and a copy of the DEQ order for the
+Chapter 2. 37 4 ( 02/ 2005)
+cleanup to the Purchasing Agent,
+together with a request for contract
+authorization;
+c. The Department responsible for
+managing or coordinating the clean-
+up shall record whether there was
+time for competition, and, if so, the
+measures taken to encourage
+competition, the amount of the price
+quotations obtained, if any, and the
+reason for selecting the contractor to
+whom award is made; and
+d. The timeline for cleanup does not
+pen - nit use of intermediate
+procurement procedures.
+Amendments to contracts and price
+agreements. The County may execute
+contact amendments, as follows:
+a. An original valid contract exists
+between the parties;
+b. Unit prices or " add alternates" were
+provided in the solicitation document
+that established the cost basis for the
+additional work or product or in a
+lump sum contract the contractor has
+provided an estimate of the
+additional cost which has been
+verified by the Department seeking
+the amendment; and
+c. The solicitation document provided
+for such amendments; or
+d. Emergency: The original contract
+was let pursuant to a declaration of
+emergency, in accordance with ORS
+279B. 080; or
+e. Unplanned Environmental Cleanup:
+The additionalwork is requiredby
+reason of existing regulations or
+ordinances of federal, state or local
+agencies, dealing with the prevention
+of environmental pollution and the
+preservation of natural resources, that
+affect performance of the original
+contract and such regulations or
+ordinances either were not cited in
+the original contract, as provided in
+ORS 279. 318, 279C. 525, or were
+enacted or amended after submission
+of the successful bid or proposal; or
+f. The original contractor is allegedly in
+default and the contractor's surety
+can provide substitute performance
+pursuant to the original contract to
+complete or correct the work at hand.
+10. Concession Agreements. Contracts
+enteredinto by the Fair and Expo Center
+which grant a franchise or concession to
+a private entity or individual to promote
+or sell, for its own business purposes,
+specified types of goods or services from
+all or a portion of the fairgrounds and
+under which the concessionaire or
+promoter makes payments to the Fair and
+Expo Center based, at least in part, on the
+concessionaire' s revenues from sales or
+the value of such promotion to the
+sponsor' s business, whether on or off the
+fairgrounds property. The Director of the
+Fair and Expo Center shall, subject to
+approval of the Deschutes County Fair
+Board, prepare and implement selection
+criteria, based upon the proprietary
+nature of the Fair and Expo Center. A
+Concession Agreement does not include
+an agreement which represents a rental,
+lease, license, permit or other
+arrangement for the use of public
+property. The Fair and Expo Center
+Director may award concession
+agreements in connection with the annual
+fair by any method deemed appropriate
+by the Director, including without
+limitation, by direct appointment, private
+negotiation, from a qualified pool, or
+using a competitive process.
+11. Public improvementcontractsfor up to
+100, 000, or not to exceed $ 50, 000 in the
+case of contracts for highways, bridges
+and other transportation projects, may be
+awarded under an intermediate
+procurement process under 2003 Oregon
+Laws, chapter 794, §§ 132 and 133. See
+OAR 137- 049- 0160. This provision
+shall survive the sunset of 2003 Oregon
+Laws, chapter 794, § 332a,
+12. Equipment Repair. Contracts for
+equipment repair or overhauling,
+provided the service or parts required are
+unknown and the cost cannot be
+determined without extensive
+preliminary dismantling or testing.
+Chapter 2. 37 5 ( 02/ 2005)
+13. Abandoned, Seized and Non - Owned present or planned use of the
+Personal Property. Contracts or property or the public interest.
+arrangements for the sale or other Ord. 2005- 010 § 1, 2005)
+disposal of abandoned, seized or other
+personal property not owned by the 2. 37. 080. Exemption for Certain Personal
+County at the time the County obtains Services.
+possession are not subject to competitive
+A. The County may award contracts for personal
+procurement procedures.
+services, as defined in DCC 2. 37. 050, under
+14. Sponsorship Agreements. Sponsorship the procedures of ORS 27913. 050 to
+agreements, under which the County 27913. 085 and the Model Rules which
+receives a gift, donation or consideration
+implement such statutes, or subsection B of
+in exchange for official recognition of the
+this section without following the selectionperson making the donation or payment procedures set forth elsewhere in the Model
+may be
+i
+awarded by any method deemed Rules.
+appropriate by the County, including
+without limitation, by direct appointment, B. Direct Appointment. In any of the following
+private negotiation, from a qualified pool, circumstances a qualified provider of
+or using a competitive process. personal services may be appointed under
+15. Renewals. Contracts that are being any method deemed in the County' s best
+renewed in accordance with their terms interest by the Solicitation Agent, including
+are not considered to be newly issued by direct appointment.
+Contracts and are not subject to 1. Under circumstances which could not
+competitive procurement procedures. reasonably have been foreseen which
+16. Temporary Extensions or Renewals. create a substantial risk of loss, damage,
+Contracts for a single period of one year interruption of services or threat to the
+or less, for the temporary extension or public health and safety and require the
+renewal of an expiring and non- prompt performance of the services to
+renewable, or recently expired, contract, remedy the situation; or
+other than a contract for public 2. Where the estimated fee does not exceed
+improvements. 25,000 in any fiscal year or $ 150, 000
+17. Temporary Use of County -Owned over the full term, including optional
+Property. The County may negotiate and renewals; or
+enter into a license, permit or other 3. Contracts of not more than $ 150, 000 for
+contract for the temporary useof County- the continuation of work by a contractor
+owned property without using a who performed preliminary studies,
+competitive selection process if: analysis or planning for the work under a
+a. The contract results from an prior contract may be awarded without
+unsolicited proposal to the County competition if the prior contract was
+based on the unique attributes of the awarded under a competitive process and
+property or the unique needs of the the Solicitation Agent determines that
+proposer; use of the original contractor will
+b. The proposed use of the property is significantly reduce the costs of or risks
+consistent with the County' s use of associated with the work.
+the property and the public interest; 4. Contracts for maintenance, repair and
+and technical support for computer hardware,
+c. The County reserves the right to software and networking systems.
+tenninate the contract without 5. Mental Health services provided by a
+penalty, in the event that the County psychologist, psychiatrist or psychiatric
+determines that the contract is no nurse practitioner.
+longer consistent with the County' s
+Chapter 2. 37 6 ( 02/ 2005)
+C. Direct appointment pursuant to this section
+shall be competitive to the extent practicable
+and may be basedupon criteria which include
+without limitation the provider' s experience,
+available resources, the project' s location and
+the provider' s pricing.
+D. The County may select a provider of personal
+services under this section from a qualified
+pool, or from:
+1 . The County' s current list of qualified
+providers;
+2. From another public contracting agency' s
+current list of qualified providers
+pursuant to an intergovernmental
+agreement; or
+3. From among all qualified providers
+offering the necessary services that the
+County can reasonably locate under the
+circumstances.
+E. Design Build or Construction Manager/
+General Contractor. Contracts for the
+construction of public improvements using a
+designibuild or construction manager/ general
+contractor construction method shall be
+awarded under a request for proposals. The
+determination to construct a project using a
+design/ build or construction manager/ general
+contractor construction method must be
+approved by the Board or its designee, upon
+application of the Purchasing Agent, in which
+the Purchasing Agent submits facts that
+support a finding that the construction of the
+improvement under the proposed method is
+likely to result in cost savings, higher quality,
+reduced errors, or other benefits to the
+County.
+Ord. 2005 - 0 10 § 1, 2005)
+2. 37. 090 Exemption from Sealed Bids or
+Proposals.
+In addition to the contracts not subject to the
+Public Contracting Code, pursuant to ORS
+279A. 025, and contracts which are exempt from
+competitive bidding and proposal requirements
+under this chapter, contracts may be awarded as
+follows:
+A. Contracts, other than contracts for personal
+services, may be awarded without
+competitive sealed bids under ORS 279B.
+055 and without competitive sealed proposals
+under ORS 27913. 060, pursuant to ORS
+27913. 065, 27913. 070, 27913. 075, 27913. 080,
+or 27913. 085 and the Model Rules for the
+following classes of cases:
+1. Emergency contracts.
+2. Contracts under $ 5000 need not be
+awarded competitively.
+3. Contracts exceeding $ 5000 but not
+exceeding $ 75, 000, where competitive
+quotes or proposals are obtained.
+4. Contracts exceeding $ 75, 000, but not
+exceeding $ 150, 000, where competitive
+written quotes or proposals are obtained.
+B. Where a contract is awarded under this
+section the department awarding the contract
+shall obtain at least three ( 3) informally
+solicited quotes or proposals, if possible;
+shall document in its records the quotes and
+proposals received, and if fewer than three,
+the effort that was made to obtain quotes or
+proposals.
+C. A quote or proposal received by telephone
+shall be considered a written quote when it is
+recorded in records of the County. A quote or
+proposal received by e-mail or fax shall be
+considered a written quote or proposal when
+it is receivedby the County.
+D. If a contract is awarded under this section, the
+County shall award the contract to the offeror
+whose quote or proposal will best serve the
+County' s interests, taking into account price,
+as well as, considerations including, but not
+limited to experience, expertise, product
+functionality, suitability for a particular
+purpose and contractor responsibility under
+ORS 279B. I 10.
+2. 37. 100 Purchases through federal
+programs.
+Goods and services may be purchased without
+competitive procedures under a local government
+purchasing program administered by the United
+States General Services Administration (" GSA")
+as provided in this section.
+Chapter 2. 37 7 ( 02/ 2005)
+A. The procurement must be made in 1. Governments. Without competition, by
+accordance with procedures established by transfer or sale to another County
+GSA for procurementsby local governments, department or public agency.
+and under purchase orders or contracts 2. Auction. By publicly advertised auction
+submitted to and approved by the Purchasing to the highest bidder.
+Agent or the Board. The Solicitation Agent 3. Bids. By publicly advertisedinvitation to
+shall provide the Purchasing Agent with a bid.
+copy of the letter, memorandum or other 4. Liquidation Sale. By liquidation sale
+documentation from GSA establishing using a commercially recognized third -
+permission to the County to purchase under party liquidator selected in accordance
+the federal program. with rules for the award of personal
+B. The price of the goods or services must be
+services contracts.
+established under price agreements between
+5. Fixed Price Sale. The Solicitation Agent
+the federally approvedvendor and GSA. may establish a selling price basedupon
+an independent appraisal or published
+C. The price of the goods or services must be scheduleof values generally acceptedby
+less than the price at which such goods or the insurance industry, schedule and
+services are available under state or local advertise a sale date, and sell to the first
+cooperative purchasing programs that are buyer meeting the sales terms.
+available to the County. 6. Trade - In. By trade-in, in conjunction
+D. If a single purchase of goods or services
+with acquisition of other pnice- based
+exceeds $ 150, 000, the Solicitation Agent items under a competitive solicitation.
+must obtain informal written quotes or
+The solicitation shall require the offer to
+proposals from at least two additional
+state the total value assigned to the
+vendors (if reasonably available) and find, in surplus property to be traded.
+writing, that the goods or services offered by
+7. Donation. By donation to any
+GSA represent the best value for the County.
+organization operating within or
+This subsection does not apply to the providing a service to residents of the
+purchase of equipment manufactured or sold County which is recognized by the
+solely for military or law enforcement
+Internal Revenue Service as an
+purposes.
+organization
+descrii
+ed ionb in sect'
+Ord. 2005- 010 § 1, 2005) 501( c)( 3) of the Internal Revenue Code
+of 1986, as amended.
+2. 37. 110 Contracts for Disposal of Personal B. Disposal of Property with Minimal Value.
+Property. Surplus property which has a value of less
+A. General Methods. Surplus property may be
+than $ 500, or for which the costs of sale are
+disposed of by any of the following methods likely to exceed sale proceeds may be
+upon a determination by the Solicitation disposed of by any means determined to be
+Agent that the method of disposal is in the cost-effective, including by disposalaswaste.
+best interest of the County. Factors that may The official making the disposal shall make a
+be considered by the Solicitation Agent
+record of the value of the item and the
+include costs of sale, administrative costs, manner of disposal.
+and public benefits to the County. The C. Personal - Use Items. '- An item ( or indivisible
+Solicitation Agent shall maintain a record of set) of specialized and personal use with a
+the reason for the disposal method selected, current value of less than $ 100, other than
+and the manner of disposal, including the police officer' s handguns which may exceed
+name of the person to whom the surplus 100 in value, may be sold to the employee
+property was transferred. or retired or terminated employee for whose
+use it was purchased. These items may be
+sold for fair market value without bid and by
+Chapter 2. 37 8 ( 02/ 2005)
+a process deemed most efficient by the
+PurchasingAgent or the Board.
+D. Restriction on Sale to County Employees.
+County employees shall not be restricted
+from competing, as members of the public,
+for the purchase of publicly sold surplus
+property, but shall not be pen-nitted to offer to
+purchase property to be sold to the first
+qualifying bidder until at least three days
+after the first date on which notice of the sale
+is first publicly advertised.
+Ord. 2005 - 0 10 § 1, 2005)
+2. 37. 120 Contract Amendments and
+Renewal.
+A. A contract procurement obtained pursuant to
+intermediate procurement procedures ( ORS
+27913.070) may be amended in accordance
+with:
+I . OAR 137- 047- 0800; or
+2. Where additional goods or services are to
+be purchased even though the original
+contract did not provide unit prices; or
+3. May be extended or renewed for a single
+term not to exceed one year.
+B. A procurement of goods or services under
+intermediate procurement proceduresmay be
+amended to exceed $ 150, 000 ( OAR 137- 047-
+0270), but not more than 25% above the
+original contract price.
+C. A contract of goods or services under small
+procurement proceduresmay be amendedto
+exceed $ 5, 000 ( OAR 137- 047- 0265), but the
+cumulative amendments shall not increase
+the total contract price to greater than $ 6, 000.
+Ord. 2005- 010 § 1, 2005)
+2. 37. 130 Qualified Pool.
+A. General. To create a qualified pool, the
+Purchasing Agent or Board may invite
+prospective contractors to submit their
+qualifications to the County for inclusion as
+participants in a pool of contractors qualified
+to provide certain types of goods, services, or
+projects including personal services, and
+public improvements.
+B. The invitation to participate in a qualified
+pool shall be advertised in the manner
+provided for advertisements of invitations to
+bid and requests for proposals by publication
+in at least one newspaper of general statewide
+circulation. If qualification will be for a term
+that exceeds one year or allows open entry on
+a continuous basis, the invitation to
+participate in the pool must be re -published at
+least once per year and shall be posted at the
+County' s main office andon its website.
+C. Contents of Solicitation. Requests for
+participation in a qualified pool shall describe
+the scope of goods or services or projects for
+which the pool will be maintained, and the
+minimum qualifications for participation in
+the pool, which may include, but shall not be
+limited to qualifications related to financial
+stability, contracts with manufacturers or
+distributors, certification as an emerging
+small business, insurance, licensure,
+education, training, experience and
+demonstratedskills of key personnel, access
+to equipment, and other relevant
+qualifications that are important to the
+contracting needs of the County.
+D. The operation of each qualified pool may be
+governed by the provisions of a pool contract
+to which the County and all pool participants
+are parties. The Contract shall contain all
+ternis required by the County, including,
+without limitation, terms related to price,
+performance, business registration or
+licensure, continuing education, insurance,
+and requirements for the submission, on an
+annual or other periodic basis, of evidence of
+continuing qualification. The qualified pool
+contract shall describe the selection
+proceduresthat the County may use to issue
+contract job orders. The selection procedures
+shall be objective and open to all pool
+participants and afford all participants the
+opportunity to compete for or receive job
+awards. Unless expressly provided in the
+contract, participation in a qualified pool will
+not entitle a participant to the award of any
+County contract.
+E. Use of Qualified Pools. Subject to the
+provisions of these regulations concerning
+methods of solicitation for classes of
+contracts, the Solicitation Agent or the Board
+Chapter 2. 37 9 ( 02/ 2005)
+shall award all contracts for goods or services
+of the type for which a qualified pool is
+created from among the pool' s participants,
+unless the Solicitation Agent or the Board
+determines that best interests of the County
+require solicitation by public advertisement,
+in which case, pool participants shall be
+notified of the solicitation and invited to
+submit competitive proposals.
+F. Amendment and Termination. The
+Purchasing Agent or the County may
+discontinue a qualified pool at any time, or
+may changethe requirementsfor eligibility as
+a participant in the pool at any time, by
+giving notice to all participants in the
+qualified pool.
+G. Protest of Failure to Qualify. The Purchasing
+Agent shall notify any applicant who fails to
+qualify for participation in a pool that it may
+appeal a qualified pool decision to the Board
+in the manner described in section 2. 37. 130.
+Ord. 2005 - 0 10 § 1, 2005)
+2. 37. 140 Contested Case Procedures
+A. Any person who has been debarred from
+competing for County contracts or for whom
+prequalification has been denied, revoked or
+revised, or who would be entitled under the
+Public Contracting Code and who wishes to
+file a protest must appeal the County' s
+decision to the Board as provided in this
+section. The Board may conduct a de novo
+hearing or appoint a hearing officer to
+conduct such a hearing and recommend a
+decision, in which case the Board shall
+consider the matter on the record developed
+by the hearing officer, and, if specifically
+allowed by the Board, on de novo review or
+limited de novo review.
+B. For purposes of this section, " Party" means:
+I . Each person entitled as of right to a
+hearing before the Board;
+2. Eachpersonnamedby the County to be a
+party; or
+3. Any person requesting to participate
+before the agency as a party or in a
+limited party status which the County
+determines either has an interest in the
+outcome of the County' s proceeding or
+represents a public interest in such result.
+C. Filmig of Appeal. The person must file a
+written notice of appeal with the Purchasing
+Agent within three business days after the
+prospective contractor' s receipt of notice of
+the determination of debarment or denial of
+prequalification or after the County' s
+decision which is the subject of the protest.
+Except as otherwise provided in this section,
+the contents and filing of protests shall be in
+accordance with the Public Contracting Code
+ORS 279B. 400 to 279B. 425) and the Model
+Rules ( OAR 137- 047- 0700 to 137- 047-
+0800).
+D. Parties may elect to be represented by
+counsel and to respond and present evidence
+and argument on all issues involved.
+E. Unless precluded by law, informal
+disposition may be made of any case by
+stipulation, agreed settlement, consent order,
+default or written agreement.
+F. Members of the Board or hearing officer
+shall place on the record a statement of the
+substance of any written or oral ex parte
+communications on a fact in issue made to
+the member or officer during the pendencyof
+the proceeding and notify the parties of the
+communication and of their right to rebut
+such communications.
+G. The record in support of a decision shall be
+made at the time set for hearing or any
+extension thereof approved by the Board or
+hearing officer. Testimony may be given
+without oath or affirmation. Cross-
+examination of witnessesby parties shall not
+be allowed. Provided however, the Board or
+hearing officer may question any witness
+appearing before it. A verbatim oral, written
+or mechanical record shall be made of all
+motions, rulings and testimony. The Board or
+hearing officer presiding at the hearing shall
+ensure that the record developed at the
+hearing shows a full and fair inquiry into the
+facts necessaryfor consideration of all issues
+properly before the presiding officer. The
+record need not be transcribed unless
+requested for purposes of court review. The
+Chapter 2. 37 10 ( 02/ 2005)
+party requesting transcription shall pay the
+cost thereof unless the Board or hearing
+officer determines on affidavit the indigency
+of the requesting party.
+H. Evidence in contested cases. In contested
+cases:
+1. Irrelevant, immaterial or unduly
+repetitious evidence shall be excluded but
+erroneous rulings on evidence shall not
+preclude action on the record unless
+shown to have substantially prejudiced
+the rights of a party. All other evidence
+of a type commonly relied upon by
+reasonably prudent persons in the
+conduct of their serious affairs shall be
+admissible. The Board and hearing
+officer shall give effect to the rules of
+privilege recognized by law. Objections
+to evidentiary offers may be made and
+shall be noted in the record. Any part of
+the evidence may be received in written
+forin.
+2. All evidence shall be offered and made a
+part of the record in the case, and except
+for matters stipulated to and except as
+provided in paragraph ( 4) of this
+subsection, no other factual information
+or evidence shall be considered in the
+determination of the case. Documentary
+evidence may be received in the form of
+copies or excerpts, or by incorporation by
+reference. The burden of presenting
+evidence to support a fact or position in a
+case rests on the proponent of the fact or
+position.
+3. Every party shall have the right to submit
+rebuttal evidence.
+4. The Board or hearing officer may take
+notice of judicially cognizable facts.
+Parties shall be notified at any time
+during the proceeding but in any event
+prior to the final decision of material
+officially noticed and they shall be
+afforded an opportunity to contest the
+facts so noticed.
+1. Costs. The Board may allocate the County' s
+costs for the hearing between the appellant
+and the County. The allocation shall be
+based upon facts found by the Board and
+stated in the Board' s decision that, in the
+Board' s opinion, warrant such allocation of
+costs. If the County does not allocate costs,
+the costsshall be paid by the appellant, if the
+decision is upheld, or by the County, if the
+decision is overturned.
+J. The Board shall issue a written, proposed
+final order, including findings of fact and
+conclusions of law, and furnish a copy
+thereof on all parties. The proposed order
+shall become final no later than seven ( 7)
+days following the date of the proposed
+order, unless the Board within that period
+issues an amended order.
+Ord. 2005- 010 § 1, 2005)
+Chapter 2. 37 11 ( 02/ 2005)
+EXHIBIT " B"
+FINDINGS IN SUPPORT OF ORDINANCE NO. 2005- 010
+ADOPTING SPECIAL CLASS PROCUREMENTS AS PART OF NEW PUBLIC
+CONTRACTING CODE PROVISIONS
+ORS279B.085 and279C.335 authorizetheBoardof CountyCommissioners, uponadoptionof
+appropriate findings, to establish special selection, evaluation and award procedures for, or
+exempt from competition, the award of a specific contract or classes of contracts.
+Pursuant to that authority the Board of County Commissioners has, after notice and an
+opportunity to comment at a regular meeting of the Board, adopted Ordinance No. 2005- 010,
+which enacts a new public contracting code and establishes classes of contracts and the
+solicitation methods for their award, together with the following specific findings in support
+thereof, or a determination that no findings are required.
+Speciflc Findins for Public Improvement Exemptions
+The Board of County Commissioners approves the specific findings for the exemptions for each
+class of public improvements established in the provisions described below and also finds that
+the establishment of each class of contracts and the methods approved for their award:
+1. Is unlikely to encouragefavoritism in the awarding of public improvements contracts or
+substantially diminish competition for public improvement contracts; and
+2. The awarding of public improvement contracts under each exemption will result in
+substantial cost savings to the County.
+Speciflc FindinLys for Special Classes and Methods of Award for Contracts Other than
+Public Improvements.
+The Board of County Commissioners approves the specific findings for the establishment of
+special solicitation methods for the classes of public contracts described below and also finds
+that the establishment of each class of contracts and the methods approved for their award:
+Is unlikely to encouragefavoritism in the awarding of public contractsor
+substantially diminish competition for public contracts; and
+2. The awarding of public contracts under the exemption will result in substantial
+cost savings to the County, or otherwise substantially promote the public interest
+in a mannerthat could not practicablybe realizedby complyingwith
+requirements that are applicable under ORS 279B. 055, 279B. 060, 279B. 065 or
+279B.070 or under any rules adoptedthereunder.
+PAGE 1 OF 12 - EXHIBIT B - ORDINANCE 2005- 010 ( 02/ 28/ 2005)
+cx" t " B
+2. 37. 070. B( l) - Manufacturer Direct Supplies
+Alternate Award Process. The solicitation agent verifies that the cost from the
+manufacturer is the same or less than the cost the manufacturer charges to its
+distributor( s).
+Cost Savings and Other Benefits. If a large volume purchase is required, the County
+may be able to purchase goods directly from the manufacturer at the same cost the
+manufacturer chargesto its distributor. In that circumstance, the cost to the County is not
+marked up to include a distributor' s price, and since all persons purchase at that price,
+competition is not affected. Purchasesof this type are made on a contract -by -contract
+basis and are not requirements contracts. If the County does not receive an acceptable
+informal price quotation directly from a manufacturer, the County can proceed with the
+purchase through competitive bidding or an alternative process.
+It is unlikely that this special procurement will encourage favoritism or substantially
+diminish competition for County contracts as required by ORS 279B. 085( 3)( a).
+Purchasesmade directly from the manufacturer will result in saving the cost of the
+competitive bidding process as required by ORS 279B. 085( 3)(b) since there is no
+beneficial offset provided by the competitive process.
+2. 37. 070. B( 2) - Advertising Contracts.
+Alternate Award Process. Solicitation agent's discretion. The processselectedmay be
+competitive or non- competitive.
+Cost Savings and Other Benefits. Size of and frequency of average advertisement
+including all noticesrequiredto be publishedby County) doesnot justify the costof
+solicitation. Period of time from recognition of needto advertiseuntil advertising dateis
+too short to issue solicitation.
+Effect on Competition. The potential market is limited because not all advertisers work
+in every market. Choice of advertising medium is somewhat price sensitive, but
+primarily driven by location and sizeof circulation comparedto city' s target audience.
+No Favoritism. Not applicable due to the lack of competitors and specialized
+contracting needs.
+2. 37. 070. B( 3) - Contracts up to $ 5,000
+Cost Savings and Other Benefits. Based upon its adoption of ORS 27913. 065 and ORS
+279C.335, the Legislature has determined that since these are small contracts, that any
+procurement method deemed practical or convenient by the county will satisfy the
+purposes of the public contracting code.
+PAGE 2 OF 12 - ExHIBIT B - ORDINANCE 2005- 010 ( 02/ 28/ 2005)
+2. 37. 070. B( 4) - Copyrighted and library materials.
+Alternate Award Process. Solicitation agent' s discretion.
+Cost Savings and Other Benefits. Necessaryto allow County to acquire special needs
+products that are unique.
+Effect on Competition. None. There is no competitive market for a unique product.
+Library products are generally acquired from a sole -source copyright holder or as used
+property or by donation.
+No Favoritism. Not applicable due to the lack of competitors and specialized
+contracting needs.
+2. 37. 070. B( 5) - Requirements Contracts.
+Alternate Award Process. The County initially awardsrequirementscontractsas a
+result of open competitive bidding or request for proposals processes, unless otherwise
+exempted. The Countylimits the term of requirementscontracts, includingall renewal
+options, to a maximum of five ( 5) yearsbefore competitive bidding must be done, unless
+otherwise exempted. The County may usethe requirementscontractsestablishedby other
+public agencies, subject to certain conditions of statelaw and County policy.
+Effect on Competition. This specialprocurementpermits the County to enterinto
+requirementscontracts (also known asannualsupply contractsor price agreements), in
+which the vendor agrees to provide specific goods and services over the term of the
+contract at the bid price or discount rate. A requirements contact is useful when the
+purchase of the goods or services is routine and repetitive. For example, office, custodial
+and facilities maintenancesuppliesarecustomarily purchasedthrough requirements
+contracts although the exact quantity of goods and services that will be purchased is
+usuallyunknown. Requirementscontractsareacommonmethodof minimizingpaper
+work, achieving continuity of product, securing a sourceof supply, reducing inventory,
+obtainingvolumediscounts, standardizingusageamongdepartmentsandreducinglead
+time for ordering.
+It is unlikely that this exemptionwill result in favoritism in the awardingof County
+contracts or diminish competition for County contracts as required by ORS
+279B. 085( 3)( a). The County initially entersrequirements contracts through competitive
+bidding processes and subsequent purchases will not diminish competition since it was
+provided in the original process. This condition applies also to the use of requirements
+contracts establishedby other public contracting agencies.
+The awardingof Countyrequirementscontractswill resultin costsavingsto the County
+as required by ORS 279B. 085( 3)( b). Requirements contracts provide cost savings
+because they take advantage of discounts offered for volume purchases that are not
+available for smaller, individual purchase of routine goods and services. In addition, the
+PAGE 3 OF 12 - EXHIBIT B - ORDINANCE 2005- 010 ( 02/ 28/ 2005)
+County avoids costs that are incurred with repetitive competitive bidding. It would be
+costly and inefficient to make routine, repetitive purchasesof goods and servicesthrough
+individual transactions. Also, the guaranteed volume of a requirements contract allows
+the County to get better prices from bidders.
+2. 37. 070. B( 6) - Use of Existing Contractors.
+Alternate Award Process. From time to time, the County needs to repair, maintain, or
+construct a public improvement at or neara site where a contractor, already hired by the
+County through a competitive selection process, is performing other work. The selection
+processmay be one establishedby statelaw, or an alternative processestablishedby the
+County pursuant to state law or a special procurement. The County may obtain an
+informal price quotation from the contractor already at or near the site to perfonn the
+additional work. If the project manager determines that the informal price quotation is
+competitive for work of that type then the contractor may be awarded this additional
+work without the need for competitive bidding provided that the value of the additional
+work, asestimatedby the contractor, doesnot exceed $25,000.
+Effect on Competition. It is unlikely that this special procurement will encourage
+favoritism or substantially diminish competition in the award of County contracts, as
+provided by ORS 279B.085(3)(a), becausethe contractor was originally selectedthrough
+a competitive bidding process, the occurrence of such additional work is haphazardand
+often was not foreseen, and the County is not required to provide the contractor with the
+work if its estimated price is not competitive.
+The County will achieve cost savings, as provided by ORS 279B. 085( 3)( b), because the
+cost of the additional work will be lower than if the work was competitively bid because
+the contractor is already mobilized at or near the site of the work and will not need to
+recover the costs of mobilization as a new contractor would need to do.
+2. 37. 070. B( 7) - Used property.
+Alternate Award Process. No selection.
+Cost Savings and Other Benefits. The County is responsible to manageexpendituresin
+the best interests of the public. Cost savings can be achieved through the purchase of
+usedproperty and equipment. The County purchasesusedproperty and equipment when
+it meets the County's needsand is cost-effective. Considerations include type, quantity
+and estimated useful life of the used item.
+Used equipment and property becomesavailable sporadically and without notice. Used
+equipment and property is generally sold on a first-come, first -serve basis. When used
+property or equipment does become available, the County must be able to respond
+immediately in order to obtain the property or equipment.
+PAGE 4 OF 12 - EXHIBIT B - ORDINANCE 2005- 010 ( 02/ 28/ 2005)
+Some types of property or equipment may not be readily available in the new goods
+market. The County may have to look for items to fill the need.
+The use of this special procurement will result in cost savings to the County as required
+by ORS 279B. 085( 3)(b). Because of the sporadic availability of used equipment and
+used property, competitive bidding is not a feasible advance procurement method.
+Competitive bidding is also not a feasible method of procurement at the time the
+equipment is discovered to exist since it may be sold elsewhere before the required
+advertising time period has expired. Cost savings can be achieved by substituting used
+equipment for new equipment but only if the County has the ability to make a quick
+purchase of the equipment, as it becomes available.
+Allows County to take advantage of unique opportunity to require needed good and
+services for discounted prices.
+Effect on Competition. No impact. Responds to unique opportunities. Competition to
+provide used property and equipment may be very limited and inconsistent, depending on
+the type of product.
+Effect on Favoritism. No impact. Responds to unique opportunities. It is unlikely that
+this special procurement will encouragefavoritism in the award of County contracts or
+substantially diminish competition for County contracts as required by ORS
+279B. 085( 3)( a). The purchaseof usedproperty or equipment dependson an inconsistent,
+sporadic market. When a used item is available, there is often little competition
+available, and sources for used items of the type, quality and quantity required by the
+County are inconsistent.
+2. 37. 070. B( 8) - Hazardous Materials Cleanup
+Alternate Award Process. Solicitation Agent' s discretion.
+When the DEQ orders the County to remove or cleanup hazardousmaterials or oil, the
+Countymustrespondwithin a veryshorttime, asprovidedby theDEQorder. Thistime
+perioddoesnot generallyallow the Countyto takethe time necessaryto solicit written
+bids or proposals for the work to be performed. The County would be liable to DEQ for
+anydelayin respondingto DEQordersto performhazardousmaterialremovalor cleanup
+and might also increasethe risk of exposureto lawsuits filed by personswho were
+allegedly hurt when the cleanupwasnot performed in the required time.
+This exemptionwill not be usedin thosesituationswhere there is no DEQ order to
+remedy the situation. Routine competitive procurement methods will be used where
+thereis no DEQorderto actimmediately.
+Effect on Favoritism. It is unlikely that this exemption will encouragefavoritism in the
+awardof Countycontractsor substantiallydiminishcompetitionfor Countycontractsas
+required by ORS 279B.085(3)(a). If it is underDEQ order to act immediately, the
+County will still attempt to obtain competitive price quotations for the work to be
+PAGE 5 OF 12 - EXHIBIT B - ORDWANCE 2005- 010 ( 02/ 28/ 2005)
+performed as it has the ability and time to do so. Unless the County is faced with the
+quasi -emergencysituation of a DEQ order to remove or cleanuphazardouswaste or oil, it
+will follow normal competitive procedures to obtain these services.
+Effect on Competition. The County must comply with the law and avoid and minimize
+risk to persons and property. Cost savings are achieved as required by ORS
+279B. 085( 3)( b), through this exemption because the County can be liable for DEQ
+penalties and fines if it does not timely remove hazardous materials or oil as ordered.
+There is also seriousrisk in thesesituations that property damageor personal injury could
+result if the County is slow to act. Where possible, the County will seek informal price
+quotations for the work to be performed and will award the contract to the lowest,
+responsive and responsible bidder.
+2. 37. 070. B( 9) - Amendments to Contracts and Price Agreements.
+This class special procurement permits the County to make contract amendments,
+including but not limited to changeorders, extra work, field orders, or other charges in
+the original specifications that increase the original contract price, without further
+competitive bidding, subjectto the limitations andthe proceduresprovided by statelaw.
+The special procurement allows contract amendments to be made to existing contracts for
+goods and services where the initial contact was obtained through competitive means and
+awarded to the lowest, responsive and responsible bidder or to the best, responsive and
+responsibleproposer. This practice ensuresthat the cost savings achievedby the County
+in the initial award to the most competitive bidder or best proposer will be carried
+forward in the contract amendments.
+The special procurement is necessary because in the course of the contract, it is
+impossible for the County staff to know or plan for all possible contingencies, including
+additional requirements, emergencies, unplanned environmental cleanup and other
+unforeseen circumstances. The County must have the flexibility it needsto respond to
+contingent circumstances in a prompt and cost- effective manner.
+The special procurement permits contract amendments within limits which are reasonable
+as more fully defined in OAR 137-047- 0800, in order to guarantee that competition for
+public contract is not substantially diminished. The specialprocurement permits contract
+amendments for greater amounts but imposes tighter controls to protect the competitive
+process.
+Substitute performance by a contractor's surety, as describedin the special procurement,
+must be allowed as an exemptedpractice so the County canrealize the full benefit of the
+performance bond which secured the initial contract award. In such cases, the
+contractor's surety must be enabledto fulfill its obligations to the County on behalf of the
+secured contractor. In such cases, the original contract was competitively solicited. The
+surety requirement was included in the original solicitation which provides for tender to
+the surety upon contractor default. Such substitute performance and any amendment of
+PAGE 6 OF 12 - EXHIBIT B - ORDINANCE 2005- 010 ( 02/ 28/ 2005)
+the original contract that makes a substitute contactor a party to the contract, is not an
+award of a public contract for purposes of ORS 279B. 085( 3)( a) and is not subject to
+competitive bidding regardlessof dollar value.
+This specialprocurement generally allows the County to complete the work at hand, or to
+purchaseadditional neededproducts, without the additional costsin time, project start-up,
+andproject coordination if the additional work or product required must be competitively
+bid. There is also a substantial, though indirect, cost component representedby the
+knowledge and awareness of the on- site contractor about the additional work needed.
+However, the conditions and dollar limits of this special procurement ensure that
+competitive means will be used to procure work to be performed or product to be
+provided in cases which do not meet the requirements of this special procurement.
+Effect on Favoritism. It is unlikely that this class special procurement will encourage
+favoritismin the awardingof Countycontractsor substantiallydiminishcompetitionfor
+County contractsas required by ORS 279B.085(3)(a). Amendments will be made under
+conditions where pricing or contractual commitment have already been established by
+competitivemeans, or thereis an emergencyor unplannedenvironmentalcleanup, or
+amendments are of a limited dollar amount. Competition is not diminished among
+contractorswhen the County simply turns to a contractor's surety to complete the work or
+to make payment and that surety was a condition of the original contract. In those
+situations, substitute performance by a contractor's surety is necessary to get the full
+value of the perforinance bond requirement in the initial contract.
+Cost Savings. The use of this special procurement to amendCounty contracts under the
+specifiedconditionsoutlinedwill resultin costsavingsof theCountyasrequiredby ORS
+279B. 085( 3)( b). Cost savingsoccur becausethe County can use a contractorwho is
+already performing work to take on a task already within the scope of the project at hand.
+The delayandcostto the contractorat the site, thatwould be passedon to the County,
+and caused by a competitive bidding process, would eliminate whatever cost savings
+might accrue, if any, from use of the competitive bidding process. hi fact, the
+contractor' s presence at the site means that it would incur less cost to perfonn the work
+than a contractor who would have to mobilize and incur costs just to reach it. Similarly,
+cost savings are achieved when a surety or the County is able to hire a contractor selected
+by the suretyto completework to fulfill the surety's obligations. Because the surety is
+ultimatelypayingthecost, thereis no reasonfor the Countyto incur additionalcostsby
+use of a competitive bidding process.
+2. 37. 070. B( I 0) - Concession Agreements.
+Alternate Award Process. The Director of the Fair and Expo Center has adopted rules
+for award, as in the case of personal service contracts.
+Cost Savings and Other Benefits. Allows County to take advantageof unique revenue
+opportunities. Revenue producing contracts at the Fair and Expo Center are excluded
+from competitive bidding. The Fair and Expo Director has developed policies designed
+PAGE 7 OF 12 - EXHIBIT B - ORDINANCE 2005- 010 ( 02/ 28/ 2005)
+to maximize the revenues derived from such agreements, while advancing the goals of
+product diversity, furnishing quality goods and services to the public, price competition,
+and an overall level of satisfaction by visitors to the fairgrounds. With respect to
+sponsorship agreements, the limited market for advertising and event sponsors requires
+the Fair and Expo Director to diligently searchout suitable sponsors, consideringboth the
+revenues to be obtained and the family- oriented image to be maintained.
+Effect on Competition. Responds to unique opportunities for which the number of
+competitors may range from none to many. It is unlikely that this special procurement
+will encouragefavoritism or substantiallydiminish competition for suchCounty contracts
+as required by ORS 279B. 085( 3)( a). Concession Agreements will substantially promote
+the public interest in a mannerthat could not practically be relied by complying with the
+requirements that are applicable under ORS 279B. 055, 279 B. 060, 279 B. 065 or 279 B.
+070 or under any rules adopted there under.
+Effect on Favoritism. No impact. Responds to unique opportunities. The Fair and Expo
+Center' s objectives with respect to sponsorship are substantially the same as those of the
+Oregon State Fair and Exposition Center, whose contracts are likewise not subject to the
+requirements of the Public Contracting Code.
+Other Factors. Not a contract for the acquisition or disposal of good, or services or
+public improvements. Most similar to personal services contract becausethe quality of
+the concession may be more important that price factors. Variation in types and sizes of
+concession opportunities is too great to provide a single method of solicitation.
+2. 37. 070. B( 11) - Non - transportation public improvements up to $ 100, 000, and
+Transportation public improvements up to $50,000.
+Alternate Award Process. The informal solicitation procedure for this class of contracts
+requires the solicitation agent to obtain at least 3 written price quotes. Contracts will be
+awarded based on price.
+Cost Savings and Other Benefits. The informal solicitation process provides the
+following benefits:
+Reduction in staff time.
+Reducedbidding expenditure.
+Elimination of bid bond requirement and small cost of quote preparation as
+compared to bid preparation will result in lower quotes.
+Flexibility in timing of solicitations will allow solicitation to be made during
+construction season when projects can be used as fill- in projects for otherwise
+busy contractors. This should result in lower pricing from contractors.
+Effect on Competition. Requires competition by award based on price. The size of the
+job makesis unlikely that contractorsfrom outside the local areawould submit bids if the
+job was advertised.
+PAGE 8 OF 12 - EXHIBIT B - ORDINANCE 2005- 010 ( 02/ 28/ 2005)
+No Favoritism. Award to lowest of 3 or more quotes, prevents selection based on
+favoritism. Willingness of any particular contractor to submit a quote will depend on the
+contractor' s schedule at the time of the solicitation. It is unlikely that the same contractor
+will be able to submit a quote for every solicitation. The ability of the County to obtain
+quotes for projects with short lead times will depend on the schedules of contractors and
+therefore the County will not be able to obtain quotes from the same contractors over and
+over again.
+Other Factors. Section 132 of Chapter 794, Oregon Laws, 2003 created this class of
+contracts as a special award class under the Oregon Public Contracting Code; however,
+the class expires on June 30, 2009. By adopting this classification as a contract review
+board exemption, the statutory classification will be protected from automatic repeal.
+2. 37. 070. B( 12) - Equipment Repair. The procedures established in this subsection are
+based on:
+Alternate Award Process. Solicitation agent' s discretion.
+Cost Savings and Other Benefits.
+Pre -contract pricing is impossible. Solicitation agent has discretion to decide whether
+costs of solicitation are justified in relationship to size of contract and availability of
+skilled technicians to repair the specific equipment. Delay required for solicitation would
+impair County' s ability to respondto equipmentbreakdown andbe injurious to the public
+interest. Experience with contractor is crucial because reliability over the course of
+several projects is important.
+Effect on Competition. Allows contractor to be selectedbased on ability to provide
+accurate, reliable and fast service.
+Effect on Favoritism. Favoritism will not be greater than if statutory request for
+proposals process is used.
+2. 37. 070. B( 13) - Non -Owned Property — ( SeeSurplus Property — 2. 37. 110)
+2. 37. 070. B( 14) - Sponsorship Agreements.
+Alternate Award Process. Solicitation agent' s discretion.
+Cost Savings and Other Benefits. This exemption allows the County to respond to
+unsolicited proposals for revenue opportunities that would otherwise be unknown, or
+unavailable.
+Effect on Competition.
+1. Mandatory open competition likely to discourage creative proposals from
+sponsors.
+PAGE 9 OF 12 - EXHIBIT B - ORDINANCE 2005- 010 ( 02/ 28/ 2005)
+2. Sponsorshipoften results from the match between a unique attribute of a
+County event or assetand unique characteristicsof the sponsorfor which
+no competitive market exists.
+Effect on Favoritism. Minimal.
+2. 37. 070. B( 15)( 16) - Temporary extensions or renewals.
+Alternate Award Process. Renewal. No selection.
+Cost Savings and Other Benefits. Gives staff time to prepare for competitive
+solicitation when existing contracts expire without notice by staff. Deals with
+administrative errors. Protects the public interest against employee error.
+EffectonCompetition. Delayscompetitionbynotmorethanoneyear.
+Effect on Favoritism. No impact. At expiration of temporary period, standard
+competitive procedure will apply.
+2. 37. 070. B( l 7) - TemporaryUseof County -ownedProperty.
+Alternate Award Process. Solicitation agent's discretion.
+Cost Savings and Other Benefits. Allows County to respond to unsolicited proposals
+for unique revenue opportunities.
+Effect on Competition. None. No competitive market..
+Effect on Favoritism. No impact. Respondsto uniqueopportunities.
+2. 37. 080B. 4 - Maintenance, Repair and Technical Support for Computer Hardware,
+Softwareand Networking Systems
+Alternative Award Process. Contractsfor themaintenance, repairandtechnicalsupport
+of computerhardwareandsoftwareareoftenbundledwith thepurchaseof hardwareand
+software. Suchservicesarelikewise oftenproprietaryto the developerof the hardware
+andsoftware. Asthisspecialprocurementisnotintendedto relievetheCountyof the
+necessity to undertake a solicitation process for the hardware and software, this will
+assurethe technical professional servicesare appropriate and tailored to the software and
+hardwaretheCountyacquires.
+Effect on Favoritism. No impact, as the hardware and software are the subject of a
+separate solicitation process, the result of which is a unique product, which either
+requires a particular vendor of support service or one which is uniquely qualified to
+providesuchsupport. The specialprocurementfor thesecontractswill substantially
+PAGE 10 OF 12 - EXHIBIT B - ORDINANCE 2005- 010 ( 02/28/ 2005)
+promote the public interest in a mannerthat could not practically be relied by complying
+with the requirements that are applicable under ORS 279B. 055, 279 B. 060, 279 B. 065
+or 279 B. 070 or under any rules adopted there under.
+Additional Considerations. This class of special procurements has been the subject of a
+class exemption and is currently contained in the County' s contracting code.
+2. 37. 080B. 5 - Mental Health Services Provided by a Psychologist, Psychiatrist or
+Psychiatric Nurse Practitioner
+Alternate Award Process. Solicitation agent' s discretion. As additional qualified
+service providers become available they will be considered for contracts to serve new
+county patients.
+Cost Savings and Other Benefits. This class of special procurements currently is
+contained in the County' s contracting code. Also, the County currently has several
+service providers under contract and these individuals help maintain a consistent and
+customized treatment regimen for their patients. Subjecting this unique service to a
+competitive solicitation process would likely be disruptive to the treatment being
+delivered to such patients.
+Additional Considerations. This class of special procurements has been the subject of a
+classexemption and is currently containedin the County' s contracting code.
+2. 37. 080E - Design/ build and CM/ GC contracts.
+Alternate Award Process. Requires the use of formal, advertised request for proposals.
+Cost Savings and Other Benefits. Award of Design/ Build or CM/ GC contract to the
+lowest bidder under an invitation to bid would dramatically increase the risk of
+unsuccessful projects, waste and improper expenditure of public funds. Use of the RFP
+process is necessary to allow staff to evaluate the unique qualifications of the
+Design/ Build team which will include personal service providers as well as construction
+experts. In the case of CM/ GC contracts, the construction manager must provide design
+advice and the experience, management skills and efficiency of the construction manager
+are essential qualities than cannot be evaluated on a price basis.
+Effect on Competition. Requires complete and open competition to the same pool of
+potential contractors that would be qualified to respond to an invitation to bid.
+No Favoritism. Requires complete and open competition to the same pool of potential
+contractors that would be qualified to respond to an invitation to bid.
+Other Factors. The County has never awarded a design/ build or CNVGC contract under
+an invitation to bid. The County is not aware of any other state or federal agency that
+awards design/ build or CNVGC contracts under an invitation to bid.
+PAGE 11 OF 12 - EXHIBIT B - ORDINANCE 2005- 010 ( 02/ 28/ 2005)
+2. 37. 110 — Surplus Property.
+Alternate Award Process. Solicitation agent' s discretion.
+Cost Savings and Other Benefits.
+Avoids unnecessary solicitation expense by allowing solicitation agent to
+determinewhether costof solicitation is justified by value of surplus property.
+Allows purchasing agent to establish programs for donation to charitable
+organizations.
+Effect on Competition. No impact. Responds to unique opportunities.
+Effect on Favoritism. No impact. Responds to unique opportunities.
+Other Factors. Variations in the type, quantity, quality and opportunities for recycling
+of surplus property are to large to have this class of contracts governed by a single
+solicitation method
+PAGE 12 OF 12 - EXHIBIT B - ORDINANCE 2005- 010 ( 02/ 28/ 2005)

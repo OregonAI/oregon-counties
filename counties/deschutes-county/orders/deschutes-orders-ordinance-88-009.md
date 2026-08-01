@@ -1,0 +1,125 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-88-009
+title: 'Ordinance No. 88-009'
+doc_type: ordinance
+citation: 'Ordinance No. 88-009'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616625272_1988-06908-Ordinance%20No.%2088-009%20Recorded%203_31_1988.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 92583d89158334d161bf024b7db15e278de2b2d6e3c5dfd561eeb19fd9dc3e68
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 88-009 (Ordinance No. 88-009)
+
+## At a glance
+
+Ordinance No. 88-009 — orders of Deschutes County. 2 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF
+An Ordinance Amending Ordi-
+nance No. PL - 15, the
+Deschutes County Zoning Ordi-
+nance of 1979, Revising Pro-
+visions Concerning Legal Lots
+and Parcels, and Declaring an
+Emergency.
+ORDINANCE NO. 88- 009
+REVIEWEDQED
+DESC = , ._ i N
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. Section 1. 030( 67)( J), Definitions, " Lot of
+Record", Ordinance No. PL - 15, Deschutes County Zoning Ordinance
+of 1979, as amended, if further amended to read as follows:
+11( 67)( J) Lot of Record.
+i) A lot or parcel at least 5, 000 square feet in area
+and at least 50 feet wide, which conformed to all
+zoning and subdivision or partition requirements, if
+any, in effect on the date the lot or parcel was
+created, and which was created by any of the following
+means:
+a) By partitioning land as defined in ORS
+92. 010( 8);
+b) By a subdivision plat, as defined in ORS
+92. 010( 9), filed with the Deschutes County
+Surveyor and recorded with the Deschutes
+County Clerk;
+c) By deed or contract, dated and signed by
+the parties to the transaction, containing a
+separate legal description of the lot or
+parcel, and recorded in Deschutes County if
+recording of the instrument was required on
+the date of the conveyance. If such instru-
+ment contains more than one legal descrip-
+tion, only one lot of record shall be recog-
+nized unless the legal descriptions describe
+lots in accordance with a recorded subdivi-
+sion or town plat;
+d) By a town plat filed with the Deschutes
+County Clerk and recorded in the Deschutes
+County Record of Plats; or
+1 - ORDINANCE NO. 88- 009
+KEYPUNC. riED
+A!'[ 7 196
+e) By the subdividing or partitioning of
+adjacent or surrounding land, leaving a
+remainder lot or parcel.
+ii) The following shall not be deemed to be a lot of
+record:
+a) A lot or parcel created solely by a tax
+lot segregation because of an assessor' s roll
+change or for the convenience of the asses-
+sor;
+b) A lot or parcel created by an interven-
+ing section or township line or right of way;
+c) A lot or parcel created by an unrecorded
+subdivision, unless the lot or parcel was
+conveyed in accordance with paragraph ( i)( c)
+of this section; or
+d) A parcel created by the foreclosure of a
+security interest."
+Section 2. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergency
+is declared to exist, and this Ordinance takes effect on its
+passage.
+C41
+y
+DATED this
+561
+day of
+G ` ,
+1988.
+AT ST:
+Recording Secretary
+2 - ORDINANCE NO. 88- 009
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY- OREGON
+IS Commissioner
+TO14 00PV1issioner
+az,
+DICK MAUDLIN' Chairman

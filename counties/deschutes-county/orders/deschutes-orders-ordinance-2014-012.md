@@ -1,0 +1,1726 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2014-012
+title: 'Ordinance No. 2014-012'
+doc_type: ordinance
+citation: 'Ordinance No. 2014-012'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1625590478_2014-251-Ordinance%20No.%202014-012%20Recorded%205_9_2014.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: f1a83586cf0f4a71f8508b6a58dd3a0e35f66e4792d0ad604492494e9a0abc22
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.503
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2014-012 (Ordinance No. 2014-012)
+
+## At a glance
+
+Ordinance No. 2014-012 — orders of Deschutes County. 53 pages.
+
+## Full text
+
+REVIEWED
+LEGAL COUNSEL
+DESCHUTES
+NANCY BLANKINSHIP,
+F DS
+COUNTY CLERK CJ2014.251
+COMMISSIONERS' JOURNAL
+05/09/201403;00;23 PM
+I11[11111111111111111111111111
+i
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending DeschutesCounty Code
+Title 23 and the DeschutesCounty Comprehensive * ORDINANCE NO. 2014 - 012
+Plan to Incorporate " Housekeeping" Changes that
+Correct Errors and Provide Clarification of Existing
+Regulations, Procedures, and Policies.
+WHEREAS, theDeschutesCountyCommunityDevelopmentDepartment (CDD) initiatedamendments
+PlanningDivisionFileNo. TA -14 -1) to theDeschutesCountyComprehensivePlan, Chapter4, UrbanGrowth
+Management to incorporate " housekeeping" changes correct errors and provide clarification of existing
+regulations, procedures, and policies; and
+WHEREAS, theDeschutesCountyPlanningCommissionreviewedthe proposedchangeson February
+27, 2014 and forwarded to the Deschutes County Board of County Commissioners ( " Board "), a
+recommendation of approval; and
+WHEREAS, the Board considered this matter after a duly noticed public hearing on April 2, 2014, and
+concluded that the public will benefit from the proposed changesto the DeschutesCounty Comprehensive Plan
+Chapter 4 and Deschutes County Code ( " DCC ") Title 23; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESC1 UTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 23.01. 010, Introduction, is amended to read as described in Exhibit
+A," attachedheretoandby this referenceincorporatedherein, with new languageunderlinedand languageto
+be deleted in str-ik gh.
+Section 2. AMENDMENT, DeschutesCountyComprehensivePlanTableof Contentsis amendedto
+read as described in Exhibit ` B," attachedheretoandby this referenceincorporatedherein, with new language
+underlined and language to be deleted in strik gh.
+Section 3. AMENDMENT. Deschutes County Comprehensive Plan Chapter 4, Urban Growth
+Management, is amended to read as described in Exhibit " C," attachedhereto and by this reference incorporated
+herein, with new language underlined and language to be deleted in str-ik gh.
+Section 4. AMENDMENT. Deschutes County Comprehensive Plan Chapter 5, Supplementary
+Sections, is amended to read as described in Exhibit " D," attached hereto and by this reference incorporated
+herein, with new language underlined and language to be deleted in str -ikr.
+PAGE 1 OF 2 - ORDINANCE NO. 2014- 012 ( 4/ 2/ 14)
+Section 5. FINDINGS. The Board adopts as its findings Exhibit " E ", attached and incorporated by
+reference herein.
+Dated this % of ,,.,,, 2014 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+Vj
+TAMM bANEY, ChairU
+ATTEST:
+Recording Secretary
+Z 0iel0 7 --
+ANTHONY DEBONE, Vice Chair
+e/ K" tLIZ4--
+ALAN UNGER, Commissioner
+Date of Is' Reading: day of , 2014.
+Dateof 2 °dReading: /-'
+7—"
+day of i , 2014.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Tammy Baney
+Anthony DeBone
+Alan Unger
+Effective date:
+f%
+day of 2014.
+PAGE 2 OF 2 - ORDINANCE NO. 2014- 012 ( 4/ 2/ 14)
+Chapter 23. 01 COMPREHENSIVE PLAN
+23. 01. 010. Introduction.
+A. TheDeschutesCountyComprehensivePlan, adoptedby theBoardin Ordinance2011 -003and
+foundontheDeschutesCountyCommunityDevelopmentDepartmentwebsite, is incorporatedby
+reference herein.
+B. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2011 -027, are incorporated by referenceherein.
+C. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2012 -005, are incorporated by referenceherein.
+D. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2012 -012, are incorporated by referenceherein.
+E. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2012 -016, are incorporated by referenceherein.
+F. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2013 -002, are incorporated by referenceherein.
+G. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2013 -009, are incorporated by referenceherein.
+H. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2013 -012, are incorporated by referenceherein.
+I. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2013 -007, are incorporated by referenceherein.
+J. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2014 -005, are incorporated by referenceherein.
+K. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2014 -006, are incorporated by referenceherein.
+L. The Deschutes Countv Comprehensive Plan amendments. adopted by the Board in Ordinance
+2014 - 012, are incorporated by reference herein.
+Ord. 2014 -012 1, 2014; Ord. 2014 - 006 § 2, 2013; Ord. 2014 -005 § 2; Ord. 2013 - 012 § 2, 2013; Ord.
+2013 - 009 § 2, 2013; Ord. 2013 - 007 § 1, 2013; Ord. 2013 - 002 § 1, 2013; Ord. 2013 - 001 § 1, 2013; Ord.
+2012 - 016 § 1, 2012; Ord. 2012 - 013 § 1, 2012; Ord. 2012 - 005 § 1, 2012; Ord. 2011 - 027 § 1 through 12,
+2011; Ord. 2011 - 017 repealed; Ord. 2011 - 003 § 3, 2011)
+Click hereto be directed to the Comprehensive Plan ( http : / /www. deschutes.org /compplan)
+Page 1 of 1- EXHIBIT A TO ORDINANCE NO. 2014 -012
+rabLe of cowtewts
+Preamble, Vision and Use of this Plan
+Chapter IComprehensive Planning
+SectionI. I Introduction ....................................................................................... .............................. 2
+Section 1.2 Community Involvement ................................................................. ..............................9
+Section1. 3 Land Use Planning ............................................................................ .............................13
+PrimaryReferences ............................................................................................... ............................. 21
+Chapter 2 Resource Management
+Section2. 1 Introduction ......................................................................................... .............................. 2
+Section2. 2 Agricultural Lands ............................................................................. .............................. 4
+Section2. 3 Forest Lands ...................................................................................... ............................. 13
+Section2. 4 Goal 5 Overview .............................................................................. ............................. 18
+Section2. 5 Water Resources ............................................................................. ............................. 21
+Section2. 6 Wildlife ............................................................................................... ............................. 45
+Section 2. 7 Open Spaces, Scenic Views and Sites .......................................... ............................. 55
+Section2. 8 Energy Resources ............................................................................. .............................58
+Section 2.9 Environmental Quality .................................................................... .............................65
+Section2. 10 Surface Mining ................................................................................. .............................70
+Section 2. 11 Cultural and Historic Resources ................................................ ............................. 72
+PrimaryReferences ............................................................................................... ............................. 75
+Chapter 3 Rural Growth Management
+Section3. 1 Introduction ....................................................................................... .............................. 2
+Section3. 2 Rural Development ........................................................................... .............................. 3
+Section3. 3 Rural Housing ..................................................................................... ..............................5
+Section3. 4 Rural Economy .................................................................................. ..............................8
+Section3. 5 Natural Hazards ............................................................................... ............................. 16
+Section 3. 6 Public Facilities and Services .......................................................... ............................. 26
+Section3. 7 Transportation .................................................................................. ............................. 32
+Section3. 8 Rural Recreation .............................................................................. ............................. 33
+Section 3. 9 Destination Resorts ......................................................................... ............................. 40
+Section 3. 10 Area Specific Plans and Policies .................................................. ............................. 45
+Section3.11Newberry Country: A Planfor SouthernDeschutesCounty ........................ 47
+PrimaryReferences ............................................................................................... ............................. 48
+Chapter 4 Urban Growth Management
+Section4. 1 Introduction .......................................................................:............... .............................. 2
+Section4. 2 Urbanization ....................................................................................... .............................. 4
+Section 4. 3 Unincorporated Communities ...................................................... ............................. 13
+Section4. 4 La Pine ................................................................................................ ............................. 15
+Section4. 45 Sunriver ....................................................................................... ............................... 1-57
+Section 4.56 Terrebonne Community Plan .................................................. ............................... 279
+Page 1 of 2- EXHIBIT B TO ORDINANCE NO. 2014 - 012
+Section 4.67 Tumalo Community Plan ............................. ............................... ...........................2830
+Section 4.78 Resort Communities Rural Service Centers ........................ ........................... 231
+Section 4. 89 Rural Service Centers .............................................................. ............................... 368
+PrimaryReferences .............................................................. ............................... ............................ 482
+Chapter 5 Supplemental Sections
+Section5. 1 Introduction ....................................................................................... .............................. 2
+Section 5.2 Glossary and Acronyms ................................................................... ..............................3
+Section 5.3 Goal 5 Inventory — Water Resources .......................................... .............................. 7
+Section 5.4 Goal 5 Inventory — Wildlife Habitat .......................................... ...............................
+Section 5.5 Goal 5 Inventory — Open Spaces, Scenic Views and Sites ...... ............................. 23
+Section 5.6 Goal 5 Inventory — Energy Resources ......................................... .............................26
+Section 5.7 Goal 5 Inventory — Wilderness, Natural Areas and Recreation Trails ............. 28
+Section 5.8 Goal 5 Inventory — Mineral and Aggregate Resources ............ ............................. 29
+Section 5.9 Goal 5 Inventory — Cultural and Historic Resources .............. ............................. 36
+Section 5. 10 Goal Exception Statements ......................................................... ............................. 40
+Section 5. 11 Goal 5 Adopted Ordinances ........................................................ ............................. 43
+Section5. 12 Legislative History ......................................................................... .............................44
+Page 2 of 2- EXHIBIT B TO ORDINANCE NO. 2014 - 012
+L.trbaw c, rowth
+chapter 4
+PageI of 42- EXHIBITCTOORDINANCENO. 2014-012
+Mawaoemewt
+seou' ovu -+. I- ( rntroolu. ctWow
+Background
+A major emphasisof Oregon' s land use planningprogram is directing new development into
+urban areas. Statewide PlanningGoal 14, Urbanization, requires cities, in cooperation with
+counties, to create Urban Growth Boundaries ( UGBs). The UGBs are legal lines that contain
+lands that are anticipated to urbanize over a 20 -year period. UGBs allow cities to adequately
+plan for future urban facilities and services. State laws require that UGBs be adopted by both
+the city and the county.
+Besidesthe UGBs which define the land neededfor city expansion over 20 years, some cities
+adopt Urban Reserve Areas ( URAs), which define land needed beyond a 20 year horizon,
+typicallyrepresentingan additional10to 30yearlandsupply. ByadoptinganURAa city can
+better plan for expansion and growth. Like UGBs, URAs are done in a partnership between a
+county and the city.
+DeschutesCountyhasfour incorporatedcities. Bend, RedmondandSisterswere incorporated
+before 1979. The City of LaPineincorporatedon November7, 2006. Bend, Redmondand
+Sisters' Comprehensive Plansare coordinated with the County. Certain elements are adopted
+into the County's. In addition, the cities and the County maintain urban growth area zoning
+ordinances and cooperative agreements for mutually administering the unincorporated
+urbanizingareas. Theseareasare locatedoutsidecity limits but within UGBs. LaPineadopteda
+Comprehensive Plan and UGB in 2012. Until La Pine adopts its own land use regulations,
+County landuseregulationswill continueto beappliedinsidethe city limitsthoughajoint
+management agreement.
+In addition to cities and the associated UGBs and URAs, there are rural locations around the
+Countythat containurbanleveldevelopment. Theseareasgenerallyexistedbeforethe Oregon
+land usesystemwas enacted in the early 1970s. In 1994the Land Conservation and
+Development Commission wrote a new Oregon Administrative Rule ( OAR), 660 -22, to classify
+and regulate these unincorporated communities. The OAR created four categories of
+unincorporatedcommunitiesandrequiredthe Countyto evaluateexistingrural developments
+under the new Rule.
+Purpose
+The Urban Growth Management chapter, in concert with the other chapters of this Plan,
+specifieshow Deschutes County will work with cities and unincorporated communities to
+accommodate growth while preserving rural character and resource lands.
+The following issues are covered in this chapter:
+Urbanization ( Section 4. 2)
+Unincorporated Communities Overview ( Section 4. 3)
+La Pine Urban Unincorporated Community ( Section 4. 4)
+Sunriver Urban Unincorporated Community ( Section 4.45)
+Terrebonne Rural Community Plan (Section 4.56)
+Page 2 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+TumaloRuralCommunityPlan (Section4.67)
+Black Butte Ranch and Inn of the 7`' Mountain/ Widgi Creek Rural Resorts ( Section 4.78)
+Rural Service Centers ( Section 4. 89)
+Goal 14 recognizesthe following:
+Statewide Planning Goal 14 Urbanization
+To providefor anorderlyandefficienttransitionfromruralto urbanlanduse, to
+accommodate urban population and urban employment inside urban growth
+boundaries, to ensureefficientuseof land, and to providefor livablecommunities."
+Excerpt from Goal 14 Planning Guidelines
+Plans should designate sufficient amounts of urbanizable land to accommodate the
+needfor further urban expansion, taking into account (1) the growth policyof the area,
+2) the needsof the forecastpopulation; (3) the carryingcapacityof the planningarea,
+and ( 4) open space and recreational needs."
+seat' ov. -+. 2 w, rba vu' zat% ow
+Background
+This section describesthe coordination between the County and the cities of Bend, La Pine,
+Redmond and Sisters on Urban Growth Boundaries ( UGBs) and Urban Reserve Areas ( URAs).
+StatewidePlanningGoal2 recognizesthe importanceof coordinatinglanduseplans.
+City, county, stateandfederalagencyandspecialdistrict plansandactions
+related to land use shall be consistent with the comprehensive plans of cities and
+counties and regional plans adopted under ORS Chapter 268."
+Oregon Revised Statute 197.015( 5) goes further to define comprehensive plan coordination.
+A plan is " coordinated" when the needs of all levels of governments, semipublic
+and private agencies and the citizens of Oregon have been considered and
+accommodated as much as possible."
+Population
+An important basisfor coordinating with cities is adopted population projections. Having an
+estimate of anticipated population is the first step to planningfor future growth and
+conservation. ORS 195. 025(() requires counties to coordinate local plans and population
+forecasts. The Countyoverseesthe preparationof a populationforecastin closecollaboration
+with cities. This is important becausethe population of the County hasincreasedsignificantly in
+recent decades and a coordinated approach allows cities to ensure managed growth over time.
+Table 4. 2. 1 — Population Growth in Deschutes County 1980 to 2010
+Sources 1980 1990 2000 2010
+Population ResearchCenter July I estimates 62, 500 75, 600 116, 600 172, 050
+US Census Bureau April I counts 62, 142 74, 958 115, 367 157, 733
+Source: As noted above
+In 1996Bend, Redmond, Sistersandthe County reviewedrecentpopulationforecastsfrom the
+PortlandStateUniversityCenter PopulationandResearchCenter (PRC) andU.S. Census
+Bureau, Department of Transportation, Woods and Poole, Bonneville Power Administration
+and Department of Administrative Services Office of Economic Analysis. After reviewing these
+projections, all local governments adopted a coordinated population forecast. It was adopted by
+Deschutes County in 1998by Ordinance 98 -084.
+The results of the 2000 decennialcensusand subsequentpopulation estimates prepared by the
+PRC revealed that the respective populations of the County and its incorporated cities were
+growingfasterthan anticipatedunderthe 1998coordinatedforecast. The citesandthe County
+re- engagedin a coordination process between 2002 and 2004 that culminated with the County
+adoptinga revisedpopulationforecastthat projectedpopulationto the year2025. It was
+adoptedbyOrdinance2004 -012andupheldbythe LandUseBoardofAppealsonMarch28,
+2005.
+The followingtabledisplaysthe 2004coordinatedpopulationforecastfor DeschutesCounty
+and the UGBs of the cities of Bend, Redmond, and Sisters.
+Page 4 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+Table 4. 2. 2 - Coordinated Population Forecast 2000 to 2025
+Bend
+Year Bend UGB Redmond UGB Sisters UGB
+Unincorporated
+Total County
+UGB UGB
+2000 52, 800
+County
+975
+2000 52, 800 15, 505 975 47, 320 116, 600
+2005 69, 004 19, 249 1,768 53, 032 143, 053
+2010 81, 242 23, 897 2, 306 59, 127 166, 572
+2015 91, 158 29, 667 2, 694 65, 924 189, 443
+2020 100, 646 36, 831 3, 166 73, 502 214, 145
+2025 109, 389 45, 724 3, 747 81, 951 240, 811
+Source: 200, Coordinated Population Forecast for Deschutes County
+Theprocessthroughwhichthe Countyandthe citiescoordinatedto developthe 2000 -2025
+coordinated forecast is outlined in the report titled " Deschutes County Coordinated
+Population Forecast 2000 - 2025: Findings in Support of Forecast."
+Thefourth city in DeschutesCountyisthe City of LaPine. Incorporatedon November7,
+2006, the City of LaPine's 2006populationestimateof 1,590wascertifiedby PRCon
+December 15, 2007. As a result of La Pine's incorporation, Deschutes County updated its
+Coordinated Population Forecast with Ordinance 2009 - 006.
+The purpose of this modification was to adopt a conservative 20 year population forecast for
+the City of LaPinethat couldbe usedby city officialsandthe Oregon Departmentof Land
+Conservation and Development to estimate its future land need and a UGB.
+Thefollowingtabledisplaysthe coordinatedpopulationforecastfor DeschutesCounty, the
+UGBs of the cities of Bend, Redmond, and Sisters, and La Pinefrom 2000 to 2025. By extending
+the growth rate to the year 2025, La Pine' s population will be 2, 352. The non - urban
+unincorporated population decreasesby 2,352 from its original projection of 81,951, to 79,599.
+Table 4. 2. 3 - Coordinated Population Forecast 2000 to 2025, Including La Pine
+2030 Population Estimate
+UnincorporatedBend Redmond Sisters La Pine
+Year
+UGB UGB UGB UGB
+2000 52, 800 15, 505 975
+2005 69, 004 19, 249 1,768
+2010 81, 242 23, 897 2, 306 1,697
+2015 91, 158 29, 667 2, 694 1,892
+2020 100, 646 36, 831 3, 166 2, 110
+2025 109, 389 45, 724 3, 747 2, 352
+Source: 200, Coordinated Population Forecast for Deschutes County - updated 20( 9
+2030 Population Estimate
+Unincorporated
+Total CountyCounty
+47, 320 116, 600
+53, 032 143, 053
+57, 430 166, 572
+64, 032 189, 443
+71, 392 214, 145
+79, 599 240, 811
+This Comprehensive Plan is intended to manage growth and conservation in the
+unincorporated areasof the County until 2030. Becausethe official population forecast extends
+onlyto 2025, Countystaffusedconservativeaverageannualgrowth ratesfrom the adopted
+population forecast to estimate population out to 2030. The following table estimates
+DeschutesCounty populationby extendingthe adoptednumbersout anadditionalfive years.
+Page 5 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+Table 4. 2. 4 — Deschutes County 2030 Population Forecast
+Year
+Bend Redmond Sisters La Pine Unincorporated
+Total CountyUGB UGB UGB UGB County
+2030 119, 009 51, 733 4, 426 2, 632 88, 748 266, 538
+Source: Countyestimates )asedon the 200, CoordinatedPopulationForecastasshownbelow
+Bend' s average annual growth rate from 2025 to 2030 is 1.70%
+Redmond' s average annual growth rate from 2025 to 2030 is 2.50%
+Sisters' based their population on forecasted rates of building growth, residential housing units, and persons per dwelling unit
+La Pine' s average annual growth rate from 2025 to 2030 is 2.20%
+DeschutesCounty's unincorporatedareaaverageannualgrowth ratefrom 2025to 2030is 2.20%
+As the pie chart below indicates, if population occurs as forecasted, 67% of the County' s
+population will reside in urban areas by 2030.
+In 203O
+Sisters
+2°%
+1
+Unincorporated
+Area Bend
+33°% 45%
+La Fine Redn - ond
+1% ' 190/ 0
+Figure 4. 1 Deschutes County 2030
+Estimated Population
+Such growth will undoubtedly require strategically managing the provision of public services and
+maintainingadequateamounts of residential, commercial and industrial lands. Growth pressures
+will also require programmatic approaches to maintain open spaces, natural resources, and
+functionalecosystemsthat helpdefinethe qualitiesof DeschutesCounty.
+Urban Growth Boundary Amendments
+Bend
+The City of Bendlegislativelyamendedits UGBaspart of a periodicreviewacknowledgmentin
+December 2004. The Bend City Council and the Board of County Commissioners adopted
+concurrent ordinances that expanded the Bend UGB by 500 acres and satisfieda 20 year
+demand for industrial land.
+InJuly2007, the Bend -LaPineSchoolDistrict receivedapprovalsto expandthe City of Bend
+UGB to include two properties for the location of two elementary schools, one at the Pine
+Nursery, the other on Skyliner Road.
+Sisters
+The City of Sisterslegislativelyamendedits UGBin September2005whenits City Counciland
+the Board of County Commissioners adopted respective ordinances. The Sisters UGB
+expansion covered 53 acres and satisfied a 20 year demand for residential, commercial, light
+industrial, andpublicfacilityland. In March2009, Sistersamendedtheir UGBto facilitatethe
+establishmentof a 4 -acre fire training facility for the Sisters /Camp Sherman Fire District.
+Page 6 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+Redmond
+The City of Redmond legislativelyamended its UGB in August 2006 when its City Council and
+the Board of County Commissioners adopted respective ordinances. The Redmond UGB
+expansion covered 2, 299 acres and satisfied a 20 year demand for residential and neighborhood
+commercial land.
+La Pine
+In 2012 La Pine adopted its first Comprehensive Plan. La Pine established a UGB that matches
+the city limits, becausethe City contains sufficient undeveloped land for future housing,
+commercial and industrial needs over a 20 -year period. The Plan map includes land use
+designations intended to provide an arrangement of uses to ensure adequate and efficient
+provision of public infrastructure for all portions of the City and UGB.
+Urban Reserve Area
+Redmond
+In December 2005, RedmondCity Council and the Board of County Commissioners adopted a
+5,661 acre URA for the City. It is the first URA in Central Oregon becausemost cities find
+planning farther into the future than the 20 -year UGB timeframe, challenging.
+Coordination
+As noted above, Statewide Goal 2 and ORS promote land useplanningcoordination. The
+purposes of the urbanization goals and policies in this section are to provide the link between
+urban and rural areas, and to provide some basic parameters within which the urban areas of
+Deschutes County can develop, although the specific comprehensive plan for each community
+remains the prevailing document for guiding growth in its respective area. These policies
+permit the County to review each city's comprehensive plan to ensure effective coordination.
+TheRedmondandDeschutesCountyCommunityDevelopmentDepartmentsreceivedthe Oregon
+Chapterof AmericanPlanningAssociation's (OAPA) ProfessionalAchievementin PlanningAwardin
+2006 for the " Redmond Urban Reserve Area / Urban Growth Boundary
+Expansion Project. ".
+Thefollowingquotetaken from the OregonChapterof the American
+PlanningAssociation's 2006 AwardsProgramshowswhythe Redmond
+CommunityDevelopmentDepartmentwaschosenforthisaward.
+An outstanding effort to address Redmond's rapid population growth,
+includingthe successfuldesignationof an UrbanReserveand the
+imminentdesignationof an UrbanGrowthBoundary, a "Framework
+Plan" with a requirement for master planning, and the establishment of
+Great Neighborhood Principles."
+Central Oregon Large Lot Industrial Land Need Analysis
+During the 1990s, the Central Oregon region experienced a dramatic transformation from an
+economy concentrated largely in wood products into a service basedeconomy serving a
+growing and diverse tourism and household base. Accelerated in- migration and tourism growth
+gaveway to rapid economic expansion, escalation in home prices, and a systematic shift in the
+Page 7 of 42- EXHIBIT C TO ORDINANCE NO. 2014 - 012
+local economy from goods producing activities to service oriented industries. While initially
+representing a diversification of the local economy, this shift led to an over - reliance upon these
+types of industries.
+Duringthe recent recession, the regionaleconomy's vulnerabilitiesbecameapparent. Suitable
+landfor today's industrialdevelopmentforms emergedasoneof Oregon's mostsevere
+development challenges. In 2010, 2011, and 2012, Deschutes, Crook and Jefferson counties
+and their respective cities, undertook an unprecedented regional evaluation of the economic
+opportunities and constraints associated with users of large industrial parcels in the Central
+Oregon region. The purpose of this evaluation was to aid in providing a more diversified
+economic base for the region that would accommodate industrial uses with a need for larger
+lots than possibly may be currently availablein any of the Central Oregon cities. As part of that
+evaluation, Deschutes County hired a consultant to draft an analysisof Central Oregon' s
+opportunities, competitiveness, ability, and willingness to attract more basicindustries. The
+analysisfocused specificallyon industries that require large lots. The result was a document
+called the Central Oregon RegionalEconomic Opportunity Analysis, and was the basisfor
+Ordinance 2011-017, dated May 31, 2011.
+Ordinance 2011-017 was appealedto the Land Use Board of Appeals by 1,000 Friends of
+Oregon (" 1,000 Friends "). The appealwas stayed in early 2012 to allow Deschutes County, the
+Governor' s Office, and 1,000 Friends to explore a settlement, which was ultimately reached in
+April, 2012. The settlement consisted of policy concepts focusing entirely on Central Oregon' s
+short - term need for large - lot industrial sites as well as a commitment from the Department of
+Land Conservation and Development ( " DLCD ") to initiate rule- making that summer. The three
+counties, their respective cities, 1,000 Friends, and DLCD staff then engaged in drafting a
+proposed rule. In August, the final draft of that rule was then sent to the Oregon Land
+Conservation and Development Commission ( " LCDC "). As a result, in November, the LCDC
+adopted Oregon Administrative Rule ( OAR) 660 - 024 - 0040 and 660 - 024 -0045. That rule
+provides that that the large lot industrial land need analysis agreed upon by all of the parties,
+once adopted by each of the participating governmental entities, would be sufficient to
+demonstrate a need for up to nine large industrial sites in Central Oregon. Six of the sites will
+be made available initially. Three more sites may be added under the rule as the original sites
+are occupied. After the adoption of the new OARs, Deschutes County voluntarily repealed
+Ordinance 2011- 017 and adopted a new ordinance, Ordinance 2013 - 002, in accordance with
+the OARS.
+Utilizingthe new OARs, Ordinance2013 -002emphasizedCentralOregon' short term needfor
+a critical mass of competitive and diverse vacant, developable industrial sites. An additional
+necessary component is an intergovernmental agreement ( " IGA ") between the region' s
+jurisdictions and the Central Oregon Intergovernmental Council ( " COIC "). Through the IGA,
+COIC will provide oversight of the short -term land supply of large -lot industrial sites to enable
+the region to become competitive in industrial recruitment. Once each of the three counties
+and their respective cities adopt similar ordinances and enter into an IGA with COIC, the large
+lot sites will enable industrial recruitment opportunities to attract potential industrial users to
+consider the region that may not haveotherwise without the availability of these large lots.
+Page 8 of 42- EXHIBIT C TO ORDINANCE NO. 2014 - 012
+Participating local governments will review the program after all nine sites havebeen occupied
+or after ten years, whichever comes first.
+Page 9 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+sectbovk -+. 2 Lttrbaw' zat' ow PoU' C' es
+Goals and Policies
+Goal I Coordinate with cities, special districts and stakeholders to support
+urban growth boundaries and urban reserve areas that provide an
+orderly and efficient transition between urban and rural lands.
+Policy 4.2.1 Participate in the processesinitiated by cities in Deschutes County to create
+and /or amend their urban growth boundaries.
+Policy 4.2.2 Promote and coordinate the use of urban reserve areas.
+Policy 4.2.3 Review the idea of using rural reserves.
+Goal 2 Coordinate with cities, special districts and stakeholders on urban
+growth area zoning for lands inside urban growth boundaries but
+outside city boundaries.
+Policy 4.2.4 Use urban growth area zoning to coordinate land use decisions inside urban
+growth boundaries but outside the incorporated cities.
+Policy 4.2.5 Negotiate intergovernmental agreements to coordinate with cities on land use
+inside urban growth boundaries and outside the incorporated cities.
+Policy 4.2.6 Develop urban growth area zoning with consideration of the type, timing and
+location of public facilities and services provision consistent with city plans.
+Policy 4.2.7 Adopt by referencethe comprehensiveplansof Bend, LaPine, Redmondand
+Sisters, asthe policy basisfor implementing land use plansand ordinances in
+eachcity's urban growth boundary.
+Goal 3 Coordinate with cities, special districts and stakeholders on policies
+and zoning for lands outside urban growth boundaries but inside
+urban reserve areas.
+Policy 4.2.8 Designatethe Redmond Urban ReserveArea on the County Comprehensive
+PlanMapandregulateit througha RedmondUrbanReserveArea (RURA)
+CombiningZone in DeschutesCounty Code, Title 18.
+Policy 4.2.9 In cooperation with the City of Redmond adopt a RURA Agreement consistent
+with their respective comprehensive plans and the requirements of Oregon
+Administrative Rule 660 - 021 - 0050 or its successor.
+Policy 4.2.10 Thefollowing landusepoliciesguidezoningin the RURA.
+a. Plan and zone RURA lands for rural uses, in a manner that ensures the
+orderly, economicandefficientprovisionof urbanservicesastheselandsare
+brought into the urban growth boundary.
+b. New parcels shall be a minimum of ten acres.
+c. Until lands in the RURA are brought into the urban growth boundary, zone
+changes or plan amendments shall not allow more intensive uses or uses that
+Page 10 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+generate more traffic, than were allowed prior to the establishment of the
+RURA.
+d. For Exclusive Farm Use zones, partitions shall be allowed based on state law
+and the County Zoning Ordinance.
+e. New arterial and collector rights -of -way in the RURA shall meet the right -of-
+waystandardsof DeschutesCountyor the City of Redmond, whicheveris
+greater, but be physicallyconstructed to Deschutes County standards.
+f. Protect from development existing and future arterial and collector rights -of-
+way, asdesignatedon the County'sTransportationSystemPlan.
+g. A singlefamily dwelling on a legalparcel is permitted if that usewas permitted
+before the RURA designation.
+Policy 4.2. 11 Collaboratewith the City of Redmondto assurethat the County -owned 1,800
+Page I I of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+acres in the RURA is master planned before it is incorporated into Redmond' s
+urban growth boundary.
+Goal 4 To build a strong and thriving regional economy by coordinating
+public investments, policies and regulations to support regional and
+state economic development objectives in Central Oregon.
+Policy 4.2. 12 Deschutes County supports a multi - jurisdictional cooperative effort to pursue a
+regional approach to establisha short -term supplyof sites particularly designed
+to addressout -of- region industries that may locate in Central Oregon.
+Policy 4.2. 13 DeschutesCountyrecognizesthe importanceof maintaininga large -lot industrial
+land supply that is readily developable in Central Oregon.
+Policy 4.2. 14 The Central Oregon Regional Large Lot Industrial Land Need Analysis
+Analysis "), adopted by Ordinance 2013 -002 is incorporated by reference
+herein.
+Policy 4.2. 15 Within 6 months of the adoption of Ordinance 2013 - 002, in coordination with
+the participating local governments in Central Oregon, Deschutes County shall,
+execute an intergovernmental agreement ( " IGA ") with the Central Oregon
+Intergovernmental Council ( " COIC ") that specifies the process of allocation of
+large lot industrial sites among the participating local governments.
+Policy 4.2. 16 In accordancewith OAR 660 - 024 -004 and 0045, Deschutes County, fulfilling
+coordination duties specified in ORS 195. 025, shall approve and update its
+comprehensive plan when participating cities within their jurisdiction legislatively
+or through a quasi - judicial process designate regionally significant sites.
+Policy 4.2. 17 Deschutes County supports Economic Development of Central Oregon
+EDCO "), a non - profit organization facilitating new job creation and capital
+investment to monitor and advocate for the region' s efforts of maintaining an
+inventory of appropriate sized and located industrial lots availableto the market
+Policy 4.2. 18 Deschutes County will collaborate with regional public and private
+representatives to engage the Oregon Legislature and state agencies and their
+commissionsto address public facility, transportation and urbanization issues
+that hinder economic development opportunities in Central Oregon.
+PageI I of 42- EXHIBITC TO ORDINANCENO. 2014- 012
+Policy 4.2. 19 DeschutesCountywill strengthenlong -term confidencein the economyby
+building innovative public to private sector partnerships.
+Page 12 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+ct ov - 4-. 3 c,rti wcor orat ol Cowt. wt. u.v,%t%2s
+Background
+Besidesthe four incorporated cities in Deschutes County, there are a number of
+unincorporated communities. These consist of areas developed with urban uses in rural areas.
+Generally, unincorporatedcommunitieswere developedprior to the Oregonplanningsystem
+and recognized as rural service centers in the 1979version of this plan. Subsequently, to
+control their growth, the State initiated unincorporated community classifications and
+regulations to define allowable uses.
+The 1979comprehensive plan designatedthe following rural service centers (RSC): Alfalfa,
+Brothers, Hampton, Millican, La Pine, Whistle Stop, Wickiup Junction, Terrebonne, Wild Hunt,
+Tumalo, Deschutes Junction and Deschutes River Woods. These areas were designated in that
+plan as exception areasfrom Goals 3, Agricultural Landsand 4, Forest Lands. Zoning under the
+Comprehensive Plan allowed for a mix of residential and commercial uses to support nearby
+residential developments. Until the early 1990s the scope of those uses was never much of an
+issue since there was little development pressure.
+In 1994LCDC adopted a new administrative rule, OAR 660 -22 to clarify what usescould be
+allowed in "unincorporated communities" without violating Statewide PlanningGoals I I and 14
+relating to public facilities and urbanization. The rule identifies four different kinds of rural
+communities as shown below.
+Urban Unincorporated Community ( UUC)
+Rural Community
+Resort Community
+Rural Service Center ( RSC)
+In response, Deschutes County reviewed its RSCsto determine which areasfit those four
+classifications. In addition to the original RSCs listed above, additional developments were
+identified as communities for review including Black Butte Ranch, Inn of the Seventh
+Mountain/ Widgi Creek and Sunriver.
+In reviewing these areasfor conformance with OAR 660 -22, some did not fit within the
+parameters of any of the four unincorporated community definitions and were insteadzoned
+Rural Commercial or Rural Industrial. These areas are discussed in the Rural Economy section
+of this Plan.
+Unincorporated Communities
+Table4.3.1belowshowsthe DeschutesCountyunincorporatedcommunitiesasof 2010. La
+Pine is net remains listed because even though on November 7, 2006, the residents of the La
+Pine Urban Unincorporated Community voted to incorporate. One parcel was not included
+and therefore is not within Tthe City of La Pine comprehensive plan and is
+completing asseciated zening and ether cedes. Policies for each unincorporated community
+can be found in the remaining sections of this chapter.
+Page 13 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+Table 4. 3. 1 — Deschutes County Unincorporated Communities 2410
+Community Type
+La Pine Urban Unincorporated Community
+Sunriver Urban Unincorporated Community
+Terrebonne Rural Community
+Tumalo Rural Community
+Black Butte Ranch Resort Community
+Inn of the 7th Mountain/ Resort Community
+Widgi Creek
+Alfalfa Rural Service Center
+Brothers Rural Service Center
+Hampton Rural Service Center
+Millican Rural Service Center
+Whistlestop Rural Service Center
+Wildhunt Rural Service Center
+Source: Deschutes County PlanningDivision
+Approval Date
+1996. 2000
+1997
+1997
+1997
+2001
+2001
+2002
+2002
+2002
+2002
+2002
+2002
+The policies for unincorporated communities are based on extensive, relatively recent public
+input and are for the most part still relevant as of 2010. Consequently, only minor changeshave
+been made to those sections of this Plan. The exceptions are the Community Plans for Tumalo
+and Terrebonne which are being adopted separately. These have been incorporated into this
+plan as Sections 4. 5 and 4. 6.
+Page 14 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+Sect% o vx, -+.-+ L- a P 'bvue
+Background
+On November 7. 2006. residents of the La Pine Urban Unincorporated Community voted to
+incorporate. One 2.7 acre parcel was not included within the City of La Pineor its Urban
+Growth Boundary and remains within the La Pine Urban Unincorporated Boundary.
+Comprehensive Plan Designations
+I, Community Facility Limited District. This plan designation includes a 2.7 acre parcel,
+described as Part of Lot 6 of the Newberry neighborhood subdivision and further identified
+on Deschutes County Assessor' s Tax Map 22 - 10 as Tax Lot 116..
+Page 15 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+seat" W vv - 4- .-4- t- a
+Goals and Policies
+No goals have been defined for the La Pine Urban Unincoraorated Community.
+Policy 4.4. 1 Land use regulations shall conform to the requirements of OAR 660 Division 22,
+or any successor.
+Page 16 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+Sect0vi, 4.- + 5, SRvwbVer
+Background
+In the fall of 1994 the Oregon Land Conservation and Development Commission adopted a
+Oregon Administrative Rule ( OAR) 660 -22, Unincorporated Communities. The new rule
+required counties to update land use plans and regulations for areas with urban - style
+development on rural lands. As part of Periodic Review, the County updated the
+Comprehensive Planand implementing regulations for Sunriver to comply with the rule.
+Under OAR 660 -22, Sunriver meets the definition for both an " Urban Unincorporated
+Community" and a "Resort Community." With the help of a stakeholder advisory committee
+comprised of key members of the community who represented a multitude of property owners
+and development interests, the decision was made to proceed with the planningprocessfor
+Sunriver asan Urban Unincorporated Community. It was the consensusof the committee that
+the provisions allotted for Urban Unincorporated Communities under the rule offered the
+greatestpracticaldegreeof flexibilityfor future growth anddevelopmentin Sunriver.
+Subsection OAR 660.22.010(8) defines "Urban Unincorporated Community" as
+a]n unincorporated community that hasthe following characteristics:
+Includesat least 150 Permanent dwelling units including manufactured homes;
+Contains a mixture of land uses, including three or more public, commercial or industrial
+land uses;
+Includes areas served by a community sewer system; and,
+Includes areas served by a community water system.
+Sunriver met the definition becauseit historically included land developed with a mixture of
+residential, commercial and industrial uses. Sunriver utilities operate both a community sewer
+and water systemwhich serve the existing development. Sunriver hasits own fire and police
+departments and also essentialservices, such as an elementary school. The Comprehensive Plan
+designatedSunriver asan Urban Unincorporated Community, enablingit to plan for future
+growth and development.
+Location and History
+Sunriver is located in the central portion of Deschutes County, approximately 15 miles south of
+Bend. Sunriver lies in the Upper Deschutes River Basin, with the Deschutes River generally
+formingthe westernboundaryof the community. Sunriverincludesapproximately3,745acres
+whichare boundedbythe DeschutesNationalForeston the east, west andnorth sides. Small
+lot residential subdivision development and destination resorts are the predominant land uses
+to the south of the community boundary.
+Development of Sunriver began in 1967 and the first subdivision plat within Sunriver was filed in
+1968. Development in Sunriver began during a period of time when the unincorporated areas
+of DeschutesCountywere not zoned. In 1972, whenthe Countyfirst adopteda zoning
+ordinance ( PL -5) and Comprehensive Plan, the area identified as Sunriver was zoned A- I -T and
+designated " planned development" on the Comprehensive Plan map. In 1973, a zone change to
+planned development (PD) was applied for and granted. As part of the zone changeapplication,
+a " Master Plan" was developed. The Master Plan consisted of a map showing the proposed
+Page 17 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+development of Sunriver. The original area of Sunriver encompassedapproximately 5,500 acres.
+Development occurred in accordance with the PD Zone of PL -5 and the density of
+development was determined to be 1.5 units per acre overall.
+In 1977approximately 2,200 acres of property originally contemplated for development as part
+of Sunriver were sold to the U.S. Forest Service. Following the sale, a revised Master Planfor
+Sunriver PhaseII was prepared for its undeveloped portion. In October 1978the County
+approved the revised Sunriver PhaseII Master Planwith the samePD Zoning designation. In
+1980 after a land use application submitted for development within Sunriver generated
+controversy, the viability of the Sunriver Master Planwas called into question. This was
+compounded by the fact that PL -15, the County Zoning Ordinance adopted in 1979to replace
+PL -5, did not include any provisions for " planned communities." As a result, the developer of
+Sunriver agreed to develop a PlannedCommunity ( PC) zoning ordinance text and new Master
+Planfor Sunriver subject to County review and approval. In November 1982, the County
+amended PL -15to add a section providing for the PlannedCommunity ( PC) Zone, including
+seven separate Sunriver district designations. A new Sunriver Master Plan was also approved.
+Between 1982and 1997the PC Zoning Ordinance Text and Master Planremained relatively
+unchangedand were the guiding documents for the majority of development.
+In 1997the 1982Master Planwas repealed by Ordinance 97 -076 and replaced by
+comprehensive plan findingsand policies for the Sunriver Urban Unincorporated Community.
+The Sunriver Urban Unincorporated Community zoning districts were adopted at this time and
+multi - family residential development was allowed in the Commercial District. In 2008
+amendments were madeto the Sunriver comprehensive plan and zoning text to provide
+guidelines for restructuring the core commercial area of Sunriver. This was done through the
+creation of a new Town Center District. As of 2010 the Town Center District had not been
+applied to any actual property.
+Population and Growth
+2010 County GISdata showed Sunriver having4, 138residential tax lots. Of those lots 3,182
+were developed with single - family homes and 774 with condominiums. 182residential lots were
+vacant. While the number of residential lots within the community can be determined with
+some degree of accuracy, the current and future rate of population growth is difficult to
+estimate due to the large number of vacation and second homes. The Sunriver Owners
+Association estimates the number of homes with permanent residents at 475, based on the
+number of owners who havethe Sunriver Scenedelivered to a Sunriver zip code. They further
+suppose that approximately 1,500 housing units are short term rentals, which leavesabout half
+the homes in Sunriver vacant for extended periods of time.
+The Deschutes County 2004 Coordinated Population Forecast estimates 1.9
+persons / household, a number that was adjusted to account for the number of second homes in
+the County. Usingthe estimate of 475 full -time dwellings, that suggestsa permanent population
+of around 900 persons. During the peak tourist months of July and August, the majority of
+dwellings are occupied with owners and tourists. The Sunriver Owners Association estimates
+the peak population at between 8,000 and 12,000. Thus, there is a fluctuating population
+comprised of both year - round and part - time residents as well as tourists.
+Page 18 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+CommunityBoundary
+2010County GISdatashowedSunriverhadapproximately3,745acresof landinsidethe
+communityboundary. Within this area, there were 4,447total tax lots, includingcommon
+areas. The communityboundaryisgenerallyformed bythe DeschutesRiveron the west, Spring
+RiverRoad /SouthCentury Drive on the southandthe DeschutesNationalForeston the north
+and east.
+Duringthe 1997update, the SunriverUrbanUnincorporatedCommunityboundarywas
+amendedto add375 -acresalongthe easternboundaryof the SunriverUrbanUnincorporated
+Communityto be usedfor sewageeffluentstorageanddisposal.
+This area, once part of the Deschutes National Forest, was changed from a comprehensive plan
+designation of Forest to a comprehensive plan designation of Urban Unincorporated
+CommunityForest. It wasaddedper Oregon Departmentof EnvironmentalQuality
+requirements. The effluent and storage capabilities of the existing sewage system were at or
+nearcapacityseasonallyat that time. Thus, this expansionof the communityboundarywas
+necessaryto provideadequatesewagedisposalservicesto the existingcommunitiesbeing
+served at their build - outs.
+ExistingLand Uses
+The predominant land use in Sunriver is residential, the majority of which is single - family
+residential development. However, since Sunriver was originally developed as a planned
+community, a numberof other usesexist, makingit somewhatself - reliant. Useswhich support
+the residential components include a commercial core which contains a variety of retail
+businessesdeveloped in a pedestrian mall setting, aswell as a businesspark. A large component
+of development in Sunriver includes resort related amenities such as golf courses, a lodge,
+convention facilities and overnight accommodations. A fire station, police station and public
+works facility have also been developed to support these uses.
+LandborderingSunriveron the north, eastandwest iszonedForestUse (F -1) andiswithin the
+Deschutes National Forest. The National Forest land remains undeveloped and is primarily
+used for recreational purposes suchas hiking, hunting, fishing, snowmobiling, etc. The forest
+lands and the recreational opportunities that they offer enhance the resort component of
+Sunriver. Land to the south of Sunriver includes private property which is zoned Rural
+Residential (RR -10). The majority of the RR -10properties include small lot ( one -half to one
+acre parcels) subdivisionswhich were created prior to any zoning laws. There are two newer
+developments to the south, Crosswater and Caldera Springs. Crosswater, a 600 -acre pre -Goal
+8 Destination Resort was approved in 1990. Caldera Springs, a 390 -acre Goal 8 Destination
+Resort was approved in 2005.
+Comprehensive Plan Designations
+The 1997DeschutesCounty ComprehensivePlanfor the SunriverUrbanUnincorporated
+Communitycreatedeightcomprehensiveplandesignations. In 2008a ninth plandesignation,
+the Town Center District was added to the plan. The comprehensive plan designations for the
+SunriverUrbanUnincorporatedCommunity, exceptfor the Town CenterDistrict whichwill
+be added at a later date if the County receives an application for such a designation, are shown
+on a map on the County website.
+Page 19 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+I. ResidentialDistrict. The Residential District designation on the Comprehensive PlanMap
+includesthe SingleFamily Residentialand Multiple Family ResidentialDistricts as shown on
+the Zoning Map for the Sunriver Urban Unincorporated Community. This plan designation
+includesall properties which were previously designatedfor residential development
+under the previous PlannedCommunity designation. No changeto residential boundaries
+was made in 1997.
+2. Commercial District. The majority of the land designatedCommercial includesthe
+commercial core of Sunriver which is commonly referred to asthe Sunriver Village Mall.
+An additional Commercial District is located at the north end of the community and is
+developed with a grocery store and gasstation. The Village Mall is developed as an
+outdoor pedestrian mall and includes a variety of commercial uses. Many of the existing
+commercial usessupport the tourist component of the community and residents living
+within Sunriver. In 1997, this plan designationincluded all areasformerly designatedfor
+commercial use. When the Town Center District was added to this Plan in 2008 it was
+anticipated that much of the Village Mall area would be re- designated to the new district.
+As of 2010, that re- designation has not taken place.
+3. Town Center District. The Town Center District was created in an effort to preserve and
+enhance the area around the commercial core of Sunriver. The objective for the Town
+Center District is to combine a mixture of complementary land usesthat may include
+retail, offices, commercial services, residential housing and civic uses to create a vital
+commercial core that will support the tourist component of the community and residents
+living within Sunriver. The Town Center District is designedto strengthen the commercial
+core area of Sunriver as the heart of the community, to improve the community' s
+economic base and enhance the appearance of the area through high - quality design.
+4. Resort District. In general, the Resort plan designation includes properties which are
+developed with amenities such as the Sunriver Lodge and Great Hall, golf courses, the
+equestrian and marina facilities and the nature center. These amenities have been
+developed to foster the recreation and tourist component of Sunriver. For the most part,
+this designation includes the properties which are owned and managedby Sunriver Resort.
+5. Business Park District. The Sunriver Business Park lies at the southern end of the
+community boundary and is physicallyseparatedfrom the remainder of the community by
+Spring River Road. This plan designationwas originally created to accommodate light
+industrial development to support the employment needs of the community and
+surrounding area. Sincethe inception of zoning regulations for this area, development has
+been primarily commercial in nature rather than industrial. The zoning ordinance was
+modified in 1997to reflect the existing businessesand the trend for commercial
+development while still allowing for industrial uses to develop.
+6. Community District. The Community plan designation includes properties which are
+primarily developed with public service useswhich support all facets of the community.
+Development includes the fire station, elementary school, community center and
+corporation /public works facilities. Properties with this designationare primarily owned
+and administered by the Sunriver Owners Association.
+Page 20 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+7. Airport District. The Airport plan designation includes areas which in 1997 were
+developed with airport related amenities, such as runways, hangars, fueling stations and
+maintenance facilities. This district also includes areas surrounding the actual airport
+development which are considered to be in the sphere of influence of the airport and in
+which airport- related impacts and risks are associated. Development in the airport district
+shall be limited with respect to heights of structures, public gathering places and other
+potential risks to persons or property related to those uses.
+8. Utility District. Thisplandesignationincludespropertieswhich in 1997were developed
+with amenitiessuch as sewagepump stations, water treatment facilities, water distribution
+facilities and associatedutility improvements. The utility plan designation is intended to
+provide for the development and expansion of necessary utility facilities on properties
+which are already devoted to such uses.
+9. Forest District. The previous boundary for Sunriver was expanded in 1997by
+approximately366 -acresto includelandalongthe easternboundarythat hashistorically
+been zoned for forest uses and within the Deschutes National Forest. A recent decision
+bythe U.S. ForestServiceto permit aneffluentstoragepondandeffluentirrigationsite on
+approximately 50 acres and a potential land transfer to the Sunriver Utilities Company
+now Sunriver Water LLC / Environmental LLC) prompted inclusion of this area within the
+community boundary. By including this area, future expansion of the sewagedisposal
+system would permit the application of biosolids with the effluent irrigation site and
+storage pond. This will enable Sunriver to meet Oregon Department of Environmental
+Qualityregulationsfor treated wastewaterstorageanddisposalstemmingfrom build -out
+within the community. An exception to Goal 4 was not taken becausethe only uses
+allowed in the expansion area are permitted in the Forest zone.
+Public Facility Planning
+Water and Sewer
+The Sunriver Utilities Company was established as a private water and wastewater company
+and hasprovided water and sewer serviceswithin the community boundary since 1969. It is the
+largest private water /wastewater company in the State of Oregon. In Juneof 1998Sunriver
+Utilities Company split into two separate LLC's. Sunriver Water LLC (SRWLLC) which is under
+the jurisdictionof the Oregon PublicUtility Commission (PUC) for rate structure andthe
+Oregon Department of Human Servicesfor water quality and Sunriver Environmental LLC
+SRELLC) which is under the jurisdiction of the Oregon Department of Environmental Quality
+DEQ). Sunriver Water and Environmental serve not just Sunriver, but also Crosswater,
+Caldera Springs and seven lots in Vandevert Ranch, with a build -out of 5,400 equivalent dwelling
+units.
+Water. SWLLC in 2010 operates three main wells which are capable of pumping over 7.8
+million gallons of water each day. In addition, reservoir capacityfor water storage is 2 million
+gallons. This volume of water production and storage exceeds the needs of the community
+within the boundaries of Sunriver. As of 2010, SRWLLC serves a total 4, 307 water customers.
+This total includesthe following types of service connections: 4,034 residential and
+condominium units; 147 commercial; 126 for irrigation purposes and 485 fire hydrants. All
+service connections are metered to measure the amount of water that is being used. The meter
+Page 21 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+service sizes range from typical 3/ 4" residential lines to 6" lines for irrigation, commercial and
+industrial uses.
+Sewer: SRELLC's wastewater treatment facilities are capableof handling /treating an averageof
+1.5 million gallons of wastewater per day. This includes the 1997expansionof effluent storage
+pondson a parcelalongthe easternboundaryof Sunriverthat is now ownedby Sunriver
+Environmental LLC. The design and flow accommodations will facilitate build out of all 5,400
+lots within the communities served.
+Effluentfrom the wastewatertreatmentfacilityis usedto irrigatethe golfcourseandhayfields.
+Biosolidsfrom the wastewaterfacilityare usedwith recycledyarddebrisandwood chipsfrom
+forest thinning to make agricultural compost.
+In 2009DeschutesCountyandthe Oregon Departmentof EnvironmentalQuality
+commissioned a study by SRELLCto examine the feasibility of constructing a new treatment
+plant east of Sunriver to serve their current customers as well as approximately 4,000 potential
+new customers south of Sunriver, where there are concerns regarding nitrate contamination of
+groundwater from septic systems. The study concluded that such an expansion was physically
+andfinanciallyfeasible. As of 2010a decisionregardingexpansionof the Sunriversewersystem
+isbeingevaluatedby the Oregon Departmentof EnvironmentalQuality.
+Public Services
+Police and Fire: In 2002 the Sunriver Service District was established to oversee the police and
+fire departments. A five - member board appointed by the Board of County Commissioners
+works with the Police and Fire chiefs to provide service to Sunriver.
+Sunriver' s police department is responsible for law enforcement within the boundary of the
+Sunriver Urban Unincorporated Community.
+Sunriver's fire department servesall areaswithin the boundary of the Sunriver Urban
+UnincorporatedCommunity, exceptfor the BusinessPark. The BusinessParkisprovidedwith
+fire protection bythe LaPineRuralFireProtectionDistrict. Througha mutualaidagreement
+with the Forest Service, Sunriver' s fire department also responds to wildland fires within five
+miles of Sunriver. Ambulance services are provided to a 360 -mile area centered on Sunriver.
+The department has a mutual aid agreement with the La Pine Rural Fire Protection District to
+providesecondaryserviceswithin eachother's serviceboundarieson anasneededbasis. The
+La Pine Rural Fire Protection District hasa fire station located alongSouth Century Drive
+approximatelyI %2milessouthof the communityboundary.
+Schools
+Three RiversElementarySchool, which is underthe direction of the Bend -LaPineSchool
+District, iscurrentlythe only schoolwithin the boundaryof the SunriverUrban
+UnincorporatedCommunity. Three RiversElementaryoffersschoolingfrom kindergarten
+through 8th grade and as of 2010 had an enrollment of 396 students. The school accepts pupils
+from both inside and outside the boundary of the Sunriver Unincorporated Community.
+Sunriver Owners Association ( SROA)
+The Sunriver Owners Association hasthe day -to -day responsibility of overseeing the majority
+of the communityoperations. Theassociationisgovernedbya Boardof Directors anda
+Page 22 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+General Manager. The services and departments operated by the Sunriver Owners Association,
+as well as the primary function of each, include:
+I . Accounting Department — This department is responsible for SROA' s financial
+transactionsincludingowner maintenancefeesandaccountspayableandreceivable. It also
+maintainsthe property ownersdatabaseandworks with the FinanceCommitteeon
+budgets and reserves.
+2. Administration — The administrative offices oversee the day -to -day functions of each
+component of the association.
+3. Communication Department — This department publishesa monthly newspaper (Sunriver
+Scene) that is distributed to members of the association and the public. Other duties
+includeprogrammingcommunityaccessTV channel4 andpublishinga residentdirectory
+and map.
+4. Community Development — This department works with the Design Committee to
+review new structures to ensure compliance with design and development standards.
+5. Environmental Services — This department administers fire and fuels regulations as well as
+other environmental issues of the community.
+6. Public Works Department — This department is responsible for maintenance of roads,
+recreational paths and amenities as well as fleet maintenance.
+7. Recreation Department— This department offers a variety of recreational activities and
+programs for property owners and visitors and manages pools and tennis courts.
+Transportation Planning
+BackgroundlExistingTransportationFacilitiesin Sunriver
+The Sunriver Urban Unincorporated Community is accessedvia public roadways. These include
+SouthCentury Drive andCottonwood Road. Both of theseroadwaysliewithin publicrights -of-
+wayandare maintainedby DeschutesCounty. SouthCentury Drive andCottonwood Road
+connectto Highway97, which isthe primarycorridor for vehiculartravelthroughout Central
+Oregon. SouthCentury Drive entersSunrivernearthe southerncommunityboundaryand
+extendsto the residentiallydevelopedareasto the southandwest. Cottonwood Roadenters
+Sunriver near the northern Sunriver boundary and ends within the community.
+Internal roads within Sunriver, except for Venture Lane within the Business Park, are private,
+open to the public, and maintained by the Sunriver Owners Association. These roads are paved
+andaregenerally20feet in width. VentureLaneisa publicroad maintainedbythe County. The
+internalroadwaynetworkwasdevelopedaspartoftheoriginaldesignandmasterplanfor
+Sunriver. The network consists of a series of internal traffic circles or roundabouts, from which
+spur roads lead to various areas within the community.
+A bicycle / pedestrian path system has been developed and integrated throughout the
+community. Asidefrom the recreationalopportunitiesprovidedby the pathsystem, the paths
+serve as an alternative to vehicular travel as they connect the residential, commercial, school
+andrecreationareasof the community. Thepathsare paved, maintainedin goodcondition by
+the Sunriver Owners Association and are used extensively.
+Recent Improvements
+Roadwideningimprovementswere completedin 1996bythe Countyfor the segmentof South
+CenturyDrivebetweenHighway97andtheentranceto theSunriverBusinessPark.
+Page 23 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+Improvements to the entrance of the BusinessPark itself were also completed. The County' s
+first roundabout was constructed at the intersection of South Century /Abbot Drive in 2007.
+The improvements were done to improve the safetyand longevity of the roadway. Other
+improvements to County roads outside of Sunriver, included pavingand upgradingthe old
+Forest Service 40/ 45 Road, now called River Summit Drive in 2006 - 2007 and a grade- separated
+interchange at South Century Drive and Highway 97 in 2008.
+Future Transportation Needs
+The existing privately maintained roads and bicycle /pedestrian paths adequatelyserve the travel
+needs of the residents and visitors of Sunriver. The existing roads and pathways provide access
+to all platted and developed areaswithin the community. There is no projected need for future
+roads to serve the anticipated development, except possiblywithin the Sunriver BusinessPark.
+Currently there isonly one ingress /egresspointfrom SouthCentury Drive to the Business
+Park. Future development within the Business Park may warrant an additional entrance or
+improvements to the existing entrance.
+South Century Drive and Cottonwood Road are both operating at levelswithin their vehicular
+capacity. In the areabetweenthe entranceto the SunriverVillageMallandthe BusinessPark,
+the 2009 averagedaily traffic figures for South Century Drive were approximately 6,748 trips
+per day. Thisfigureis belowthe generalcapacityof 9,600trips per day. Manyof the vehicles
+travelingthis roadwayare passingthroughthe community, not necessarilyto Sunriver, asthis
+road provides a direct link from Highway 97 to the surrounding rural subdivisions. Cottonwood
+Road, which only extends between Highway 97 and the community boundary, is not subject to
+the same volume of pass through traffic that occurs on South Century Drive. Thus, the traffic
+figuresfor this roadwayare muchlower at approximately3,298trips per dayin 2009.
+Page 24 of 42- EXHIBIT C TO ORDINANCE NO. 2014 - 012
+sect% ov, 4.-+ 5 S Lc.vur ver PoU' ues
+Goals and Policies
+No goals have been defined for the Sunriver Urban Unincorporated Community.
+Policy 4.45.1 Land use regulations shall conform to the requirements of OAR 660 Division 22
+or any successor.
+Policy 4.45.2 County comprehensive plan policies and land use regulations shall ensure that
+new usesauthorized within the Sunriver Urban Unincorporated Community do
+not adverselyaffect forest usesin the surrounding Forest Use Zones.
+Policy 4.45.3 To protect scenic views and riparian habitat within the community, appropriate
+setbacks shall be required for all structures built on properties with frontage
+along the Deschutes River.
+Policy 4.45.4 Open space and common area, unless otherwise zoned for development, shall
+remain undeveloped except for community amenities such as bike and
+pedestrian paths, and parks and picnic areas.
+Policy 4.45.5 Public access to the Deschutes River shall be preserved.
+Policy 4.45. 6 The County supports the designreview standardsadministered by the Sunriver
+Owners Association.
+Residential District Policies
+Policy 4.45.7 Areas designatedresidential on the comprehensiveplan map shall be developed
+with singlefamily or multiple family residential housing.
+Commercial District Policies
+Policy 4.45.8 Small- scale, low- impact commercial uses shall be developed in conformance with
+the requirements of OAR Chapter 660, Division 22. Larger, more intense
+commercial uses shall be permitted if they are intended to serve the community,
+the surrounding rural area and the travel needs of people passing through the
+area.
+Policy 4.45.9 No additional land shall be designated Commercial until the next periodic
+review.
+Policy 4.45. 10 Multiple - family residences and residential units in commercial buildingsshall be
+permitted in the commercial area for the purpose of providing housingwhich is
+adjacentto places of employment. Single- family residencesshall not be permitted
+in commercial areas.
+Policy 4.45. 11 Approval standards for conditional usesin the commercial district shalltake into
+consideration the impact of the proposed use on the nearby residential and
+commercial uses and the capacity of the transportation system and public
+facilities and services to serve the proposed use.
+Page 25 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+Town Center District Policies
+Policy4.45.12 Small- scale, low- impactcommercialusesshallbedevelopedin conformancewith
+the requirements of OAR Chapter 660, Division 22. Larger, more intense
+commercial uses shall be permitted if they are intended to serve the community,
+the surrounding rural area or the travel needs of people passing through the
+area.
+Policy4.45.13 Developmentstandardsin the town center district shouldencouragenew
+development that is compatible with a town center style of development that
+serves as the commercial core of the Sunriver Urban Unincorporated
+Community. Thefollowingpoliciesshouldguidedevelopmentin the Town
+Center District in Sunriver:
+a. Combine a mixture of land uses that may include retail, offices, commercial
+services, residential housing and civic usesto create economic and social
+vitality and encourage pedestrian use through mixed use and stand alone
+residential buildings.
+b. Develop a commercial mixed -use area that is safe, comfortable and attractive
+to pedestrians.
+c. Encourageefficient land use by facilitating compact, high- density development
+that minimizes the amount of land that is needed for development.
+d. Provide both formal and informal community gathering places.
+e. Provide visitor accommodations and tourism amenities appropriate to
+Sunriver.
+f. Provide design flexibility to anticipate changes in the marketplace.
+g. Provide access and public places that encourage pedestrian and bicycle travel.
+h. Provide road and pedestrian connections to residential areas.
+i. Facilitate development ( land use mix, density and design) that supports public
+transit where applicable.
+j. Develop a distinct character and quality designappropriate to Sunriver that
+will identify the Town Center asthe centerpiece /focal point of the
+community.
+Policy4.45.14 Developmentwithin the Town Center (TC) District will besubstantiallymore
+densethan development elsewhere in Sunriver. This increaseddensity will
+require changesto existing topography and vegetation in the TC District to
+allow for screened, underground parking. The requirements of the County' s site
+plan ordinance shall be interpreted to reflect this fact.
+Resort District Policies
+Policy4.45.15Areasdesignatedresort on the comprehensiveplanmapshallbedesignated
+resort, resort marina, resort golf course, resort equestrian or resort nature
+center district on the zoning map to reflect a development pattern which is
+consistent with resort uses and activities.
+Page 26 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+Business Park District Policies
+Policy4.45. 16 A variety of commercial useswhich support the needsof the community and
+surrounding rural area, and not usessolely intended to attract resort visitors,
+should be encouraged.
+Policy4.4S. 17 Allow small - scale, low- impact commercial usesin conformance with the
+requirements of OAR Chapter 660, Division 22. Larger more intense
+commercial uses shall be permitted if they are intended to serve the community,
+the surrounding rural area and the travel needs of people passing through the
+area.
+Policy4.45.18Small- scale, low- impactindustrialusesshouldbeallowedin conformancewith
+the requirements of OAR Chapter 660, Division 22.
+CommunityDistrictPolicies
+Policy4.45.19Areasdesignatedcommunityon the comprehensiveplanmapshallbe designated
+community general, community recreation, community limited or community
+neighborhood district on the zoning map to reflect a development pattern which
+is consistent community uses and activities.
+Policy4.45.20 Landsdesignatedcommunity shall be developed with useswhich support all
+facets of community needs, be they those of year -round residents or part -time
+residents and tourists.
+Policy4.45.21 Developmentshalltakeinto considerationthe uniquephysicalfeaturesof the
+community and be sensitiveto the residential development within which the
+community areas are interspersed.
+Airport District Policies
+Policy 4.45.22 Future development shall not result in structures or useswhich, due to extreme
+height or attraction of birds, would pose a hazard to the operation of aircraft.
+Policy4.45.23 Futuredevelopmentshouldnot allow useswhichwould resultin large
+concentrations or gatherings of people in a single location.
+Utility DistrictPolicies
+Policy4.45.24 Landsdesignated utility shallallow for development of administrative offices,
+substations, storage / repair yards, distribution lines and similar amenities for
+services such as water, sewer, telephone, cable television and wireless
+telecommunications.
+Forest District Policies
+Policy4.45.25 Usesanddevelopmenton property designatedforestthat arewithin the
+Sunriver Urban Unincorporated Community boundary shall be consistent with
+usesand development of other lands outside of the community boundary which
+are also designatedforest on the Deschutes County comprehensive plan map.
+Policy4.45.26 Forestdistrict property shallbe usedprimarilyfor effluentstorageponds, spray
+irrigation of effluent, biosolids application and ancillary facilities necessaryto
+meet Oregon Department of Environmental Quality sewagedisposalregulations.
+Page 27 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+Policy4.45.27 The developmentof resort, residentialor non - forest commercialactivitieson
+Forest district lands shall be prohibited unless an exception to Goal 14 is taken.
+GeneralPublicFacilityPolicies
+Policy4.45.28 Residentialminimumlot sizesanddensitiesshallbedeterminedbythe capacity
+of the water and sewer facilities to accommodate existing and future
+development and growth.
+Policy4.45.29 New usesor expansionof existinguseswithin the SunriverUrban
+UnincorporatedCommunitywhichrequirelanduseapprovalshallbeapproved
+only uponconfirmationfrom the SunriverUtility Companythat water andsewer
+service for such uses can be provided.
+Policy4.45.30 Expansionof the SunriverWater LLC /Environmental /LLCWater andSewer
+District outside of the historic Sunriver boundaries shall adequately address the
+impacts to services provided to existing property owners.
+Water FacilityPolicies
+Policy4.45.31 Water serviceshallcontinueto be providedbythe SunriverUtilitiesCompany.
+SewerFacilityPolicies
+Policy4.45.32 Sewerserviceshallcontinueto beprovidedbythe SunriverUtilitiesCompany.
+Transportation System Maintenance Policies
+Policy4.45.33 Privately- maintainedroadswithin the SunriverUrbanUnincorporated
+Communityboundaryshallcontinueto be maintainedbythe SunriverOwners
+Association.
+Policy4.45.34 The bicycle /pedestrianpathsystemin Sunrivershallcontinueto bemaintained
+bythe SunriverOwnersAssociationor asotherwiseprovidedby a maintenance
+agreement.
+Policy4.45.35 The Countywill encouragethe future expansionof bicycle /pedestrianpaths
+within the Sunriver Urban Unincorporated Community boundary in an effort to
+provide an alternative to vehicular travel.
+Policy4.45.36 All publicroadsmaintainedbythe Countyshallcontinueto bemaintainedby the
+County. Improvements to County maintained public roads shall occur as
+described the County Transportation SystemPlan.
+Page 28 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+sect% ov. 4. 56 Terrebowwe covu. vu.uvx,%t Pl, aw
+Background
+The Terrebonne Community Planwas adopted in Ordinance 2010 -012 is hereby incorporated
+into this Plan as Appendix A.
+Page 29 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+5ectiow 4. 6,j Tu. vu.al,o Covu.wt. u. w%t Pl. aw
+Background
+TheTumaloCommunityPlanwasadoptedin Ordinance2010 -027andis herebyincorporated
+into this Plan as Appendix B.
+Page 30 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+s ect% ovu - f . fig R.es ort Co VKw& u, vx,Ues
+Background
+A Resort Community is characterized asan unincorporated community that is established
+primarilyfor, andcontinuesto beusedprimarilyfor, recreationandresort purposes. It includes
+residential and commercial uses and provides for both temporary and permanent residential
+occupancy, including overnight lodgingand accommodations.
+In the fall of 1994 the Oregon Land Conservation and Development Commission adopted a
+new administrative rule, OAR 660, Division 22, entitled Unincorporated Communities. This
+Rule provided guidelines for defining and regulating areas with urban style growth outside of
+urban growth boundaries. As part of periodic review Deschutes County updated the
+Comprehensive Planand implementing zoning regulations for Black Butte Ranchand the
+Inn/Widgi Creek to comply with the rule.
+Black Butte Ranch and Inn of the 7th Mountain/ Widgi Creek met the definition of " resort
+community" becausethey have historically developed with a mixture of residential and
+recreation or resort amenities. Commercial - type uses also exist, such as the restaurant and
+stables. Other retail operations, such as the golf pro shops and retail sales at the tennis shop
+are associated with specific recreation activities and are not designed as stand alone retail
+operationsintendedbythemselvesto attractthe travelingpublicto BlackButteRanchor Innof
+the 7th Mountain/ Widgi Creek.
+Black Butte Ranch
+Background
+Black Butte Ranch is located in the northwestern portion of Deschutes County, eight miles
+west of the city limits of Sisters. Black Butte Ranchis in the Indian Ford Creek watershed, a
+tributary to Whychus Creek, itself a tributary to the Deschutes River, and is surrounded by
+lands within Deschutes National Forest. Since the late 1800s Black Butte Ranch has been a
+cattle ranch. Cattle operations continue today.
+Black Butte Ranch includes 1,830 acres developed in the early 1970s as a planned residential
+development with both permanent and vacation homes on 1,253 lots and three separate
+condominium areas. Recreation amenities include two 18 -hole golf courses, four swimming
+pools, 23 tennis courts, horse stables, a sports field, basketball courts and trails for bicycling,
+joggingand cross country skiing. Conference rooms, a restaurant, lounge and property salesin
+the Main Lodge, a general store and pro shops at both golf courses provide additional amenities
+for residents, guests and visitors.
+Black Butte Ranch allows public access to its restaurant, golf courses and horse stables, but is
+primarily oriented to its year -round residents and seasonalguests. Black Butte Ranchis
+considered by many people to be a "destination resort ", however development at Black Butte
+Ranchpreceded the adoption of Statewide Goal 8 and the County' s mappingof landsfor the
+sitingof destinationresorts. Approximately96 percentof the areawithin BlackButte Ranch
+community boundary is developed.
+Page 31 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+Development of Black Butte Ranch began in 1970 and the first subdivision plat within Black
+Butte Ranchwas filed in 1970. In 1972, when the County first adopted a zoning ordinance (PL-
+5) and comprehensive plan, the area identified as Black Butte Ranch, although smaller than
+today, waszoned "PlannedDevelopment" anddesignatedasa "DestinationResort" on the
+comprehensive plan map. In 1979the County adopted revised zoning and comprehensive plan
+maps. In 1992 Black Butte Ranch was designated as a rural residential exception area on the
+comprehensiveplanmap. BlackButte RanchwaszonedRuralResidential (RR -10), andwas
+designated " Destination Resort" on the comprehensive plan map.
+The population of Black Butte Ranch is difficult to ascertain due to the large number of vacation
+andsecondhomeswithin the communitythat areoccupiedfor only part of the year. In2001, the
+Black Butte Ranch Association estimated the number of full -time, year -round residents at 337
+persons. Duringthe peaktourist season, the population, includingguestswho do not own
+property butarerentingresidenceswithin the community, isestimatedto riseto 5,000persons.
+Black Butte Ranch operates both a community sewer and water system that are in place and
+serve the existing development. Black Butte Ranchalso hasits own fire and police departments.
+Land Use
+The BlackButteRanchcommunityboundaryincludesatotal of 1,912acresconsistingof: 1)
+1,830 acres includingthe main resort development, the resort' s recreational amenities, and the
+residential areas, and 2) 82 acres located contiguous to the northwest corner used for
+industrial usesin support of Ranchoperations. The community boundary abuts Highway 20 on
+the northeast. National Forest Service lands and private landholders bound it on the south and
+west.
+The predominant land use in Black Butte Ranch is residential, the majority of which is single -
+familyresidentialdevelopment. However, sinceBlackButte Ranchwasoriginallydevelopedasa
+plannedcommunity, a numberof other usesexistwhichmakeBlackButte Rancha community
+that is somewhat self - reliant. Uses that support the residential components include a
+commercial core, which contains a variety of retail businessesdeveloped in a pedestrian mall
+setting, aswell asa businesspark. A significantcomponentof developmentin BlackButteRanch
+includes recreation amenities such as golf courses, and resort facilities, including a lodge,
+meetingfacilitiesanda restaurant. A fire stationandpublicworks facilitiesfor sewagetreatment
+andwater deliveryhavealsobeendeveloped. The BlackButte FireDepartmentservesallareas
+within the boundary. Utility services will continue to be provided in the current manner.
+Inn of the 7th Mountain / Widgi Creek
+Background
+The Inn of the SeventhMountain and Widgi Creek Golf community are located approximately
+five miles southwest of the Bend Urban Growth Boundary on Century Drive. They are both
+bounded by the Deschutes River to the south.
+The Inn of the Seventh Mountain ( Inn) has been developed since the late 1960s and has
+historicallybeenconsideredto be a stand -aloneresort communitywith overnightlodgingand
+recreation facilities for tourists. It has230 condominium units, spread among 22 buildings. The
+initial boundarywasestablishedin 1972andencompasses22.65 acres. The Innincludeshorse
+stables, tennis courts, golf course, skating rink, swimming pools and other recreation amenities,
+Page 32 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+and a restaurant, meeting rooms and multi -story lodging units for resort guests. Many of the
+dwelling units at the Inn are occupied seasonallybut some residencesare year round.
+Commercial uses open to overnight guests and the public include the restaurant, skating rink
+and golf course, guided raft trips on the Deschutes River and a retail /rental sport shop.
+Widgi Creek was approved in 1983 as a 237 -acre expansion to the Inn and includes a golf
+coursewith surroundingresidentiallots consistingof 107for single - familydwellingsand 103for
+condominium units.
+The use of the site as a destination resort was initiated previous to implementation of the
+statewide planninggoalsin DeschutesCounty. Upon implementationof the statewide planning
+goals, the propertywasdesignatedas "forest" in compliancewith Goal4, andthe usecontinuedto
+be permitted as a destination resort. However, in 1993 HB 3661 prohibited destination resorts as
+a use in the forest zone except as allowed under Goal 8. This property was not approved as a
+ResortCommunityuntiltheyear2001. At thattime a "builtandcommitted" exceptionbasedon
+Statewide PlanningGoal 2 was taken for the entire Inn/Widgi community.
+Almost all of the residential uses at the Inn of the Seventh Mountain cater to tourist
+accommodations. Duringthe peaktourist season, the population, includingguestswho do not
+own property but are rentingresidenceswithin the community, isestimatedto be
+approximately500people. In 2001, the numberof full -time andpart -time residentsat Widgi
+Creek wasapproximately120, consistingof 80 single - familyresidentsand39condoresidents.
+Sincethere are onlyfour condounitsavailablefor rental, there is no significantincreasein the
+populationduringthe peaktourist season. As currently planned, whenthe developmentisfully
+built out, the population will increase to a total of 200 full -time and part - time residents
+distributed in 107single - family homes and 46 condominium units.
+The Inn / Widgi sewer service ( except approved on -site septic systems) and fire protection are
+providedby the City of Bend, water by on -sitewells, securityservicebythe Inn/Widgi Resort
+Community and police services by Deschutes County Sheriff.
+Land Use
+The Inn of the SeventhMountain/Widgi Creek community boundary includes 260 acres (23 for
+the Inn and 237 for Widgi Creek). The property is usedfor recreational amenities, rental and
+residentialunits. ThewesternboundaryisCentury Drive. The southernboundaryisgenerally
+the Deschutes River canyon. The entire resort community is bordered by the Deschutes
+National Forest.
+The predominant land use at the Inn is resort use with overnight lodging and recreational
+facilities for tourists, in addition to a restaurant, meeting rooms and a retail /rental sport shop.
+The predominant land use is residential, with single - family residential development and
+condominium units, in addition to a golf course.
+Page 33 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+5ect' Ww cowt. wi. u. witU Poh% c%es
+Goals and Policies
+No goals have been defined for Black Butte Ranch or Inn of 7th Mountain / Widgi
+Creek Resort Communities
+GeneralResortCommunityPolicies
+Policy 4.78. 1 Land use regulations shall conform to the requirements of OAR 660 Division 22
+or any successor.
+Policy 4.78.2 Designated open space and common area, unless otherwise zoned for
+development, shall remain undeveloped except for community amenities such as
+bike and pedestrian paths, park and picnic areas. Areas developed as golf courses
+shall remain available for that purpose or for open space / recreation uses.
+Policy 4.78. 3 The provisions of the LandscapeManagementOverlay Zone shall apply in Resort
+Communities where the zone exists along Century Drive, Highway 26 and the
+Deschutes River.
+Policy 4.78.4 Residential minimum lot sizes and densities shall be determined by the capacity
+of the water and sewer facilities to accommodate existing and future
+development and growth.
+Policy 4.78.5 The resort facilityandresort recreationusespermittedin the zoningfor Black
+Butte Ranch and the Inn of the Seventh Mountain / Widgi Creek shall serve the
+resort community.
+Black Butte Ranch General Policies
+Policy 4.78. 6 County comprehensive plan policies and land useregulations shall ensure that
+new usesauthorized within the Black Butte RanchResort Community do not
+adversely affect forest usesin the surrounding Forest Use Zones.
+Policy4.78.7 The County supports the design review standardsadministered by the
+Architectural Review Committee.
+Policy 4.78.8 Residential, resort and utility usesshall continue to be developed in accordance
+with the Master Design for Black Butte Ranch and the respective Section
+Declarations.
+Policy 4.78.9 Industrial activities, including surface mining, shall only occur in the area zoned
+Black Butte RanchSurfaceMining, Limited Use Combining District ( Black Butte
+Ranch SM / LU) located in the northwest corner of Black Butte Ranch.
+Policy4.78. 10 Employeehousingshallbelocatedin the areazonedBlackButte Ranch -
+Utility /LimitedUseCombiningDistrict (BlackButteRanch- U /LU).
+Policy4.78.11 Any amendmentto the allowableuse(s) in eitherthe ResortCommunityDistrict
+or the Limited Use Combining District shall require an exception in accordance
+with applicable statewide planning goal( s), OAR 660 - 04- 018/ 022 and DCC
+18.112 or any successor.
+Page 34 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+Policy4.78.12Thewesterly 38 -acreszonedBlackButte RanchSurfaceMining, LimitedUse
+Combining District ( Black Butte RanchSM /LU) shall be usedfor the mining and
+storage of aggregateresources. Usesthat do not prevent the future mining of
+these resources, such as disposalof reclaimed effluent and woody debris disposal
+from thinning and other forest practices may be allowed concurrently. Other
+resort maintenance, operational and utility uses, such as a solid waste transfer
+station, maintenancefacility or equipment storage may be allowed only after
+mining and reclamation haveoccurred.
+Policy4.78.13 The 18.5 acreszonedBlackButteRanch - Utility /LimitedUseCombiningDistrict
+Black Butte Ranch -U /LU) may be used for the disposalof reclaimed sludge.
+Policy4.78.14The areawest of McCallisterRoadandeastof the areazonedBlackButte Ranch
+may be usedfor large equipment storage, general storage, maintenanceuses, RV
+storage, telephone communications, administration offices, housekeeping
+facilities and employee housing.
+Policy4.78.15 Employeehousingshallbeset backat least250feet from the easternboundary
+of the area zoned Black Butte RanchSurface Mining, Limited Use Combining
+District ( Black Butte Ranch SM / LU).
+Policy4.78.16Surfaceminingwithin the BlackButte Ranchcommunityboundaryshalladhere
+to the following Goal 5 ESEE "Program to Meet Goal' requirements:
+a. Only the westernmost38 acresof the site shallcontinueto be mined.
+b. Setbacks shall be required for potential conflicting residential and other
+development. A minimum 50 - foot setback shall be maintained from the
+perimeter of tax lot 202 for all surface mining activity.
+c. Noise impact shall be mitigated by buffering and screening.
+d. Hours of operation shall be limited to between 7:00 a.m. and 6:00 p.m.
+weekdays. No operations shall be allowed on weekends and holidays.
+e. Processingshall be limited to 45 daysin any one year, to be negotiated with
+DeschutesCounty in the site planprocessin consultationwith the Oregon
+Department of Fish and Wildlife ( ODFW).
+f. The conditions set forth in the August 10, 1989, letter of ODFW shall be
+adhered to.
+g. Extraction at the site shall be limited to five acres at a time with on -going
+incremental reclamation ( subject to DOGAMI review and approval).
+h. Miningoperations, sitingof equipment, andtruckingof productshallbe
+conducted in such a manner that applicable DEQ standards are met and
+minimizes noise and dust.
+i. DOGAMI requirements for a permit once mining affects more than five acres
+outside the 8. 6 -acre exemption area shall be met.
+j. A conditional use permit shall be obtained from Deschutes County, under the
+provisions of section 18.128.280. Surface mining of resources exclusively for
+on - site personal, farm or forest use or maintenance of irrigation canals,
+before mining activity affectsmore than five acres outside the 8.6 -acre
+exempt area.
+Page 35 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+BlackButteRanchPublicFacilityPolicies
+Policy4.78.17 Policeprotection servicesshallbe providedbythe BlackButte RanchPolice
+Services District.
+Policy4.78.18TheBlackButte RanchWater DistributionCompanyandthe BlackButteRanch
+Corporation shall confirm the water and sewer service, respectively, can be
+provided for new usesor expansion of existing usesthat require land use
+approval.
+Policy 4.78. 19 The Black Butte RanchWater Distribution Company shall provide water service
+for the Black Butte RanchResort Community.
+Policy 4.78.20 The Black Butte RanchCorporation shall provide sewer service for Black Butte
+Ranch.
+Policy4.78.21 TheBlackButte RanchFire ProtectionDistrict shallprovidefire protection
+services for Black Butte Ranch.
+Policy4.78.22 Theroadsandthe bicycle /pedestrianpathsystemwithin the BlackButteRanch
+Resort Community boundary shall be maintained by the Black Butte Ranch
+Owners Association.
+Inn of the 7th MountainWidgi CreekGeneralPolicies
+Policy4.78.23 Any amendmentto the allowableusesin either the ResortCommunityDistrict
+or the Widgi Creek Residential District shall require an exception in accordance
+with applicable statewide planning goal( s), OAR 660 -04- 018/ 022 or any
+successor, and DCC 18.112 or any successor
+Policy4.78.24 TheCountyshallencourageandsupportlandexchangesefforts by andbetween
+private property owners, public agenciesand public trusts for the purpose of
+fostering public accessto and protection of natural resources, such as rivers,
+streams, caves, areas / features of historical importance and other natural
+features.
+Innof the 7`hMountain / WidgiCreekPublicFacilityPolicies
+Policy4.78.25 Policeprotection servicesshallbe providedundercontract with the Deschutes
+County Sheriff.
+Policy 4.78.26 Water service shall be supplied by on -site wells for the Inn/Widgi Resort
+Community.
+Policy4.78.27 New usesor expansionof existingusesthat require landuseapprovalshallbe
+approved only upon confirmation from the City of Bend that sewer service can
+be provided.
+Policy 4.78.28 Fire protection services for the Inn/Widgi shall be provided through a contract
+with the City of Bend until suchtime as Inn/Widgi develops another plan to
+provide adequate fire protection.
+Policy 4.78.29 The Resort Community, not Deschutes County, shall maintain roads in the
+community.
+Page 36 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+Policy 4.78.30 The bicycle /pedestrian path system shall be maintained by the Inn/Widgi Owners
+Association.
+Policy4.78.31 EmergencyaccessbetweenWidgi Creekandthe Innof the SeventhMountain
+shall be provided in accordance with the approved development plan for the
+Elkai Woods town homes. The respective resort property owners shall maintain
+emergency accessbetween the Inn and Widgi Creek.
+Page 37 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+sect% ow 4. R. ural, 5erv% ce Cewters
+Background
+A Rural Service Center is characterized as an unincorporated community consisting primarily of
+commercial or industrial uses providing goods and services to the surrounding rural area or
+personstraveling through the area, but which also includessome permanent residential dwellings.
+In order to comply with OAR 660 -022, Deschutes County updated the Comprehensive Plan
+and implementing zoning regulations in 2002 for the communities of Alfalfa, Brothers, Hampton,
+Millican, Whistlestop and Wildhunt. The Comprehensive Planand zoning map boundaries for all
+of the Rural Service Centers were amended to comply with the requirements of the
+administrative rule and to reconcile historic mapping inconsistencies between the plan
+designation and zoning and inconsistencies between community boundaries and historic
+development patterns.
+The predominant land uses in the areas surrounding the Alfalfa, Brothers, Hampton and Millican
+Rural Service Centers are farming and ranching. The predominant land usesin the areas
+surrounding Whistlestop and Wildhunt are forest, ranchingand rural residential. The
+unincorporated rural service centers serve the needs of the surrounding areas as well as the
+needsof the traveling public. Three of the communities are located on Highway 20 east of
+Bend; Millican is 26 miles, Brothers 42 miles and Hampton 64 miles. Alfalfa is located
+approximately I I miles eastof Bendon Willard Road. Whistlestop is located approximately 30
+miles southwest of Bend on Burgess Road. Wildhunt is located approximately 26 miles south of
+Bend at the junction of Highway 97 and Highway 3 I.
+The communities of Alfalfa, Brothers and Hampton have approved public water systems that
+serve the school and combination store / cafe / post office in Brothers and the stores in Alfalfa and
+Hampton. The Central Oregon Irrigation District provides water for agricultural uses
+surrounding Alfalfa. Large ranches and BLM land surround Millican, Brothers and Hampton.
+Most of the land is usedfor dry landgrazing. Well water provides irrigation for land adjacent to
+Hampton. Millican, Brothers and Hampton are surrounded by land that is designatedas
+antelope habitat. The area surrounding these communities is sparsely populated. Each
+community hasa few residenceswithin its boundary.
+Community Boundaries
+The Alfalfa Rural ServiceCenter boundary includes 21.83 acres, with Willard Road as the
+predominant northern boundary and the remainder surrounded by agricultural landszoned
+Exclusive Farm Use ( EFU).
+The Brothers Rural Service Center boundary includes 48.95 acres. Highway 20 bisectsthe
+community from east to west, while Camp Creek Road enters from the north and connects
+with the highway. The entire community is surrounded by agricultural landzoned EFU.
+The Hampton Rural Service Center boundary includes 35.37 acres. Highway 20 forms the
+southern boundary with the remainder surrounded by agricultural landszoned EFU.
+The Millican Rural ServiceCenter boundary includes29.55 acres. Highway 20 forms the northern
+boundary with the remainder surrounded by agricultural landszoned EFU.
+Page 38 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+TheWhistlestopRuralServiceCenter boundaryincludes7.93 acres. BurgessRoadruns
+east/west and dissectsthe community from north to south with forest and rural residential uses
+to the north and east.
+The Wildhunt Rural Service Center boundary includes 11.29 acres. Highway 97 forms the
+westernboundary. Highway31forms the southernboundary, with forest andrural residential
+uses to the north and east.
+Land Use Planning
+The existinglandusesin the easternRuralServiceCentersof Alfalfa, Brothers, Hamptonand
+Millican are commercial and residential, surrounded by agriculture. In addition to a few
+residences each of the communities includes commercial development. Alfalfa has a store / gas
+station and a church /community hall. Brothers includes a school, a combination
+market/cafe /post office /gasstation, a state highway maintenancefield office, and a highway rest
+area. Hampton has a cafe and recreational vehicle park. Millican has a market/ gas station.
+The existing land usesin the rural Service Centers of Whistlestop and Wildhunt are
+commercial and residential, surrounded by forest.
+Page 39 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+5ect% ovL4.-ga Rural, 5ew% ce Cewter Policies
+Goals and Policies
+No goals have been defined for the Rural Service Centers.
+Policy 4.89.1 Land use regulations shall conform to the requirements of OAR 660, Division 22
+or any successor.
+Policy 4.89.2 Rural ServiceCenter zoning shall be applied to Alfalfa and Brothers and shall
+consist of three districts: Commercial / Mixed Use; Residential; and Open Space.
+Policy 4.89.3 Rural ServiceCenter zoning shall be appliedto Hampton, Whistlestop and
+Wildhunt and shall consist of a single Commercial / Mixed Use District.
+Policy 4.89.4 The area in the Brothers Rural Service Center Boundary that is north of
+Highway20 and east of Camp Creek Roadshall be zoned as Rural Service
+Center - Open Space District ( RSC - OS).
+Policy 4.89.5 In April 2002, Alfalfa area residents expressed a desire to keep the community
+the way it is" and to limit commercial activity to 2 -acres south of Willard Road
+that is the site of the Alfalfa Community Store and the community water system.
+These two acres are designated as a mixed used commercial district in the
+Comprehensive Plan and shall be zoned mixed use commercial. The remaining
+20 acres of the Rural Service Center will continue to be zoned Rural Service
+Center — Residential District, with a 5 -acre minimum lot size. Since the Board of
+County Commissioners finds it may be necessaryto accommodate the need for
+future commercial expansion 2 acres north of Willard Road are being designated
+on the Comprehensive Plan for future commercial uses. A zone change to mixed
+usecommercial can be considered only for a specific use and upon findingsthat
+the existing commercial area is fully developed.
+Policy 4.89.6 County Comprehensive Plan policies and land use regulations shall ensure that
+new usesauthorized within the Alfalfa, Brothers, Hampton, Millican, Whistlestop
+and Wildhunt Rural Service Centers do not adversely affect agricultural and
+forest uses in the surrounding areas.
+Policy 4.89.7 Zoning in the area shall promote the maintenance of the area' s rural character.
+New commercial uses shall be limited to small - scale, low impact uses that are
+intended to serve the community and surrounding rural area or the travel needs
+of people passing through the area. The commercial / mixed use zoning
+regulations shall allow a mixed use of residential or small - scale commercial uses.
+Policy 4.89.8 Residentialand commercial usesshall be served by DEQ approved on -site
+sewage disposal systems.
+Policy 4.89.9 Residentialand commercial usesshall be served by onsite wells or public water
+systems.
+Policy 4.89. 10 Community water systems, motels, hotels and industrial usesshall not be
+allowed.
+Page 40 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+Policy4.89.11 Recreationalvehicleor trailer parksandother usescateringto travelersshallbe
+permitted.
+Policy4.89.12The Countyshallconsiderwaysto improveservicesin the areaconsistentwith
+the level of population to be served.
+Page 41 of 42- EXHIBIT C TO ORDINANCE NO. 2014- 012
+chapter pr vv. aru R. eferewces
+References'
+I. Oregon Department of Land Conservation and Development. Goal 14: Urbanization.
+Oregon' s Statewide PlanningGoals and Guidelines.
+2. Oregon Administrative Rule 660 particularly:
+a. 660 - 004 Goal 2 Exception Process
+b. 660 - 22 Unincorporated Communities
+3. Bend Joint Management Agreement 98 - 12331
+4. La Pine Intergovernmental Agreement 2009 - 044
+S. Redmond Joint Management Agreement 2007- 110
+6. Sisters Joint Management Agreement November 9, 1998
+7. Ordinance 2004 -006, Adoption of Deschutes County Coordinated Population Forecast
+8. Ordinances 2005 - 023 and 2005 - 024 Redmond Urban Reserves
+9. Ordinances 2005 -035, 2005 -036, 2005 -037, 2005 -038, 2005 -039, 2005 -040, 2005 -045
+Sisters Urban Growth Boundary Amendments
+10. Ordinances 2006 -018 and 2006 -019 Redmond Urban Growth Boundary Amendments
+11. Ordinance 2009 -006 Adoption of a Coordinated Population Forecastfor the City of La
+Pine
+12. Document 2009 -051 Sisters Urban Growth Boundary Amendment for a Fire Training
+Facility
+13. City of BendCommunityDevelopmentDepartmentBendComprehensivePlan
+14. City of SistersCommunityDevelopmentDepartmentSistersComprehensivePlan
+15. City of RedmondCommunityDevelopmentDepartmentRedmondComprehensivePlan
+The references listed are provided for the convenience of the public and are not legally adopted into this Plan.
+Page 42 of 42- EXHIBIT C TO ORDINANCE NO. 2014 -012
+sect' Ww 5. 12 W stor
+Background
+This section contains the legislativehistory of this Comprehensive Plan.
+Table 5. 1I. I Comprehensive Plan Ordinance History
+Ordinance
+Date Adopted/ Chapter / Section Amendment
+Effective
+All, except
+Transportation, Tumalo
+and Terrebonne
+2011- 003 8 - 10 - 1 1/ 1 1 -9 - 1 1 Community Plans, Comprehensive Plan update
+Deschutes Junction,
+Destination Resorts and
+ordinances adopted in
+2011
+2. 5, 2. 6, 3.4, 3. 10, 3. 5,
+Housekeepingamendmentsto
+2011- 027 10 -31 - 1 1 / 1 1 -9 - 1 1
+4. 6, 5. 3, 5. 8, 5. 1 1,
+ensure a smooth transition to
+23. 40A, 23. 40B,
+the updated Plan
+23. 40. 065, 23. 01. 010
+23. 60, 23. 64 ( repealed), Updated Transportation
+2012 - 005 8- 20- 12/ 11- 19- 12 3. 7 ( revised), Appendix C
+System Plan
+added)
+2012 - 012 8- 20- 12/ 8 -20 - 12 4. 1, 4. 2
+La Pine Urban Growth
+Boundary
+2012 - 016 12- 3- 12/ 3 -4 - 13 3. 9 Housekeepingamendmentsto
+Destination Resort Chapter
+Central Oregon Regional
+2013 - 002 1-7- 13/ 1-7- 13 4. 2 Large - lot Employment Land
+Need Analysis
+Comprehensive PlanMap
+Amendment, changing
+2013 - 009 2- 6- 13/ 5 -8 - 13 1.3
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive PlanMap
+2013 - 012 5- 8- 13/ 8 -6 - 13 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+Newberry Country: A Plan
+2013 - 007 5- 29- 13/ 8 -27 - 13 3. 10, 3. 11 for Southern Deschutes
+County
+Page 1 of 2- EXHIBIT D TO ORDINANCE NO. 2014 - 012
+Comprehensive Plan Map
+2013 - 016 10- 21- 13/ 10- 21- 13 23. 01. 010
+Amendment. including certain
+property within City of Sisters
+Urban Growth Boundary
+Comprehensive Plan Map
+2014 - 005 2- 26- 14/ 2 -26 - 14 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+2014 - 012 4- 2- 14/ 7 - 1 -14 3. 10. 3. 1 1
+Housekeepinz amendments to
+Title 23.
+Page 2 of 2- EXHIBIT D TO ORDINANCE NO. 2014 - 012
+FINDINGS
+APPLICABLE CRITERIA:
+Title 22, Deschutes County Development Procedures Ordinance
+II. BASIC FINDINGS:
+A. PROPOSAL: In 2013, the Planning Division determined minor changes were
+necessary to clarify existing standards and procedural requirements and to
+correct errors found in various sections of the Deschutes County Code. Staff
+initiated the proposed changes and has notified the Oregon Department of Land
+Conservation and Development. The Deschutes County Board of County
+Commissioners will review the proposed changes on April 2, 2014 and make a
+final decision.
+III. CONCLUSIONARY FINDINGS:
+A. CHAPTER 22. 12, LEGISLATIVE PROCEDURES
+1. Section 22. 12. 010.
+Hearing Required
+FINDING: The applicant meets this criterion because a public hearing will be held
+before the Board of County Commissioners on April 2, 2014.
+2. Section 22. 12. 020, Notice
+Notice
+A. Published Notice
+1. Notice of a legislative change shall be published in a
+newspaper of general circulation in the county at least 10 days
+prior to each public hearing.
+2. The notice shall state the time and place of the hearing and
+contain a statement describing the general subject matter of the
+ordinance under consideration.
+FINDING: This criterion will be met when notice is published in the Bend Bulletin
+newspaper describing the proposal.
+B. Posted Notice. Notice shall be posted at the discretion of the
+Planning Director and where necessary to comply with ORS
+203. 045.
+FINDING: This criterion will be with notice was posted in the bulletin board in the lobby
+of the Deschutes County Community Development Department, 117 NW Lafayette,
+Bend.
+PAGE 1 OF 4 - EXHIBIT E TO ORDINANCE 2014 - 012
+C. Individual notice. Individual notice to property owners, as
+defined in DCC 22. 08. 010( A), shall be provided at the discretion
+of the Planning Director, except as required by ORS 215.503.
+FINDING: Given the proposed amendments in question do not apply to any specific
+property, no individual notices were sent. This criterion has been met.
+D. Media notice. Copies of the notice of hearing shall be
+transmitted to other newspapers published in Deschutes County.
+FINDING: Notice will be provided to the County public information official for wider
+media distribution. This criterion has been met.
+3. Section 22. 12. 030 Initiation of Leaislative Chanaes.
+A legislative change may be initiated by application of individuals
+upon payment of required fees as well as by the Board of County
+Commissioners.
+FINDING: The application was initiated by the Deschutes County Planning Division,
+which received a fee waiver. This criterion has been met.
+4. Section 22. 12. 040. Hearinqs Bodv
+A. The following shall serve as hearings or review body for
+legislative changes in this order.
+1. The Planning Commission.
+2. The Board of County Commissioners.
+FINDING: This criterion will be met.
+B. Any legislative change initiated by the Board of County
+Commissioners shall be reviewed by the Planning Commission
+prior to action being taken by the Board of Commissioners.
+FINDING: This Planning Commission held a public hearing on February 27, 2014, and
+reviewed the proposed changes.
+5. Section 22. 12. 050 Final Decision
+All legislative changes shall be adopted by ordinance
+FINDING: TA -14 -1 will be implemented by Ordinances upon approval and adoption by
+the Board; this criterion will be met.
+IV. PROPOSED TEXT AMENDMENTS:
+The proposed text amendments are detailed in the ordinance exhibits with additional text
+identified by underline and deleted text identified by strikethrough. Below are
+explanations of the proposed changes.
+PAGE 2 OF 4 — EXHIBIT E TO ORDINANCE 2014 - 012
+Title 18 of the Deschutes County Code Amendments:
+Chapter 18. 04. TITLE, PURPOSE AND DEFINITIONS
+Section 18. 04. 030, Definitions.
+The definition of " horse events" is amended to bring it into compliance with state law.
+The County adopted its definition of " horse events" in 1994. Under this definition any
+type of horse event is allowed without a County permit. However, state law changed in
+the mid -2000s to more narrowly define the type of allowed horse events to those related
+to schooling ( i. e., small - scale, non - sanctioned) shows. This amendment clearly
+differentiates between different types of horse events. The addition, the definition of
+stabling or training equines" is amended to reflect the related changes to the definition
+of " horse event."
+Chapter 18. 80 AIRPORT SAFETY COMBINING ZONE
+Section 18. 80. 078 FAA Notification ( Form 7460 - 1).
+Pursuant to Oregon Administrative Rul e
+7460 -1 shall be sent by the applicant
+addition to the FAA. The addition of
+explicit direction to the applicant.
+Chapter 18. 110 RESORT COMMUNITY
+Section 18. 110. 020. Resort District.
+OAR) 738. 070. 0060,
+to Oregon Department
+reference to this notice
+FAA Notification Form
+of Aviation ( ODA) in
+requirement provides
+This section applies only to the Seventh Mountain/ Widgi Creek Resort District.
+However, the current title is not explicit and does not specify Seventh Mountain/ Widgi
+Creek. This amendment clarifies the applicability of this section.
+Chapter 18. 116. SUPPLEMENTARY PROVISIONS
+Section 18. 116. 240. Protection of Historic Sites.
+This section notes the applicability and requirement to protect historic sites listed and
+described the County' s Statewide Land Use Goal 5 ( Natural Resources, Scenic and
+Historic Areas, and Open Spaces) inventory, contained in the Resource Element of the
+comprehensive plan. The proposed amendment adds a reference to County Code
+Chapter 2.28, Historic Preservation and Historic Landmarks Commission, directing users
+to this applicable chapter.
+Title 22 of the Deschutes County Code Amendments
+Chapter 22. 23. DESTINATION RESORT MAP AMENDMENT PROCEDURES
+Section 22. 23. 010. Destination Resort Map Amendment Procedures.
+PAGE 3 OF 4 — EXHIBIT E TO ORDINANCE 2014 - 012
+The county comprehensive plan underwent a significant rewrite and update in 2011.
+Said update included a format revision. While the comprehensive plan is adopted into
+Chapter 23 of the County Code, the comprehensive plan no long references Chapter 23
+in the text. Section 22. 23. 010 of the county procedures ordinance currently includes
+reference to Chapter 23. This proposed amendment revises this section to reflect the
+new format of the comprehensive plan.
+Deschutes County Comprehensive Plan Amendments
+Table of Contents
+The table of contents need revised to incorporate the reinstatement of the La Pine Urban
+Unincorporated Community as noted below.
+Chapter 4. Urban Growth Management
+On November 7, 2006, residents of the La Pine Urban Unincorporated Community voted
+to incorporate. One 2.7 acre parcel was not included within the City of La Pine or its
+Urban Growth Boundary and remains within the La Pine Urban Unincorporated
+Boundary. In 2011, an extensive Comprehensive Plan updated was adopted that
+removed all reference to the La Pine Urban Unincorporated Community in error. The
+purpose of this amend is to correct this error and reinstate reference to La Pine Urban
+Unincorporated Community.
+Chapter 5, Supplemental Sections
+Section 5. 12, Legislative History, identifies the changes made to the comprehensive
+plan. The additions to the list include the changes made with this ordinance ( Ord. 2014-
+012), previous comprehensive plan map amendment including certain property within
+the City of Sisters urban growth boundary ( Ord. 2013 -016), and previous comprehensive
+plan map amendment including certain property within the City of Bend urban growth
+boundary ( Ord. 2014 -005).
+V. CONCLUSION:
+Based on the information provided herein, The Board of County Commissioners approve
+of the proposed text amendments that make minor changes necessary to clarify existing
+standards and procedural requirements and to correct errors.
+PAGE 4 OF 4 — EXHIBIT E TO ORDINANCE 2014 - 012

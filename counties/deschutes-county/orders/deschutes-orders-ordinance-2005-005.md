@@ -1,0 +1,212 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2005-005
+title: 'Ordinance No. 2005-005'
+doc_type: ordinance
+citation: 'Ordinance No. 2005-005'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616978639_2005-589-Ordinance%20No.%202005-005%20Recorded%203_31_2005.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e7719eb8800f1c82e3c72ca1e22eaca1c63bc736f8a68eb883bffd17d8dfc095
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2005-005 (Ordinance No. 2005-005)
+
+## At a glance
+
+Ordinance No. 2005-005 — orders of Deschutes County. 4 pages.
+
+## Full text
+
+REVIEWED
+LEGAL COUNSEL
+REVIEWED
+2
+CODE REVIEW COMMITTEE
+DESCHUTESCOUNTY OFFICIAL RECORDS
+NANCY BLANKENSHIP, COUNTY CLERK
+COMMISSIONERS' J URNAL
+03/31/200503:21:24PM
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESC14UTES COUNTY, OREGON
+An Ordinance Amending Title 5, Chapter 5.12, of the
+DeschutesCountyCoderelatingto Occupancy ORDINANCE NO. 2005- 005
+Regulations
+WHEREAS, the PC Zone referred to in Chapter 5. 12 was changed to the Sunriver Urban
+Unincorporated Community Zone in 1997; and
+WHEREAS, Chapter 5. 12 was not amended to reflect this change; and
+WHEREAS, in orderfor thecodeprovisionsof 5.12to beenforceableby theregulatingauthorityit
+must reflect the correct zoning, now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+PAGE I OF 2 - ORDINANCE NO. 2005- 005 ( 03/ 16/05)
+Section 1. AMENDMENT. DCC Chapter 5. 12 is amended to read as described in Exhibit " A,"
+attached hereto and by this reference incorporated herein, with new language underlined and language to be
+deleted in str- ikethfett .
+44-
+DATED this Z— day ofW 2005.
+4
+a/ L C
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, ORE N
+Tom bEWOLF, Chair
+DENNIS R. LUKE, Commissioner
+Date of 1s' Reading: day of-) JIU 2005.
+t
+Date of 2ndReading: 0 dayof ) JQVQ 1U< 2002r
+I
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Tom DeWolf
+Michael M. Daly
+Dennis R. Luke
+Effective date:
+Z7—"'
+day of 2005.
+ATTEST:
+fi" j --
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2005- 005 ( 03/ 16/ 05)
+Exhibit " A"
+Chapter 5. 12. OCCUPANCY ( Ord. 91- 044 § 1, 1991)
+REGULATIONS
+5. 12. 010. Definitions.
+5. 12. 015. Definition - Dwelling unit.
+5. 12. 020. Definition - Overnight.
+5. 12. 025. Definition - Owner.
+5. 12. 030. Definition - Person.
+5. 12. 035. Definition - Rental occupant.
+5. 12. 040. Definition - Rents.
+5. 12. 045. Definition - Sleeping area.
+5. 12. 050. Occupancy limitations.
+5. 12. 060. Posting occupancy limitation.
+5. 12. 070. Notification.
+5. 12. 080. Violation.
+5. 12. 010. Definitions.
+As used in DCC 5. 12, unless the context indicates
+otherwise, certain words and phrases used in
+DCC 5. 12 are defined as set forth in DCC
+5. 12. 015- 045.
+Ord. 95- 030 § 1, 1995; Ord. 91- 044 § 1, 1991)
+5. 12. 015. Definition - Dwelling unit.
+Dwelling unit" means any building or portion
+thereof which contains separate living facilities,
+including provisions for sleeping, eating, cooking
+and sanitation.
+Ord. 91- 044 § - 1, 1991)
+5. 12. 020. Definition - Overnight.
+Overnight" means anytime between the hours
+from 10:00 p.m. and 7:00 a.m. on the following
+day.
+Ord. 91- 044 § 1, 1991)
+5. 12. 025. Definition - Owner.
+Owner" means any fee title owner, any person
+having a purchaser's equitable interest in the
+property, or any person who acts as an agent for
+suchperson, who rentsa dwelling unit.
+Ord. 91- 044 § 1, 1991)
+5. 12. 030. Definition - Person.
+Person" means an individual or other legal
+entity, including a corporation, association, firm,
+partnership, joint stock company, trust andestate.
+5. 12. 035. Definition - Rental occupant.
+Rental occupant" means a person over the age of
+four yearswho occupiesa rented dwelling unit.
+Ord. 91- 044 § 1, 1991)
+5. 12. 040. Definition - Rents.
+Rents" means the granting of a right or license to
+use a dwelling unit in exchangefor money, goods
+or services, or combination thereof, or by gift,
+when the owner is not present and in charge of
+the dwelling unit.
+Ord. 91- 044 § 1, 1991)
+5. 12. 045. Definition - Sleeping area.
+Sleeping area" means a bedroom or loft within a
+dwelling unit which meets the requirements of
+the Uniform Building Code, Structural Specialty
+Code, or the CABO One and Two Family
+Dwelling Specialty Code, as adoptedby the State
+of Oregon, Building CodesAgency.
+Ord. 91- 044 § 1, 1991)
+5. 12. 050. Occupancy limitations.
+Each dwelling unit in the Sunriver Urban
+Unincon2orated Community one PC Zone which
+the owner rents to an overnight rental occupant
+shall have a maximum allowable number of
+overnight rental occupants of two persons per
+sleeping area plus two additional persons.
+Ord. 95- 030 § 1, 1995; Ord. 91- 044 § 1, 1991)
+5. 12. 060. Posting occupancy limitation.
+There shall be posted conspicuously on or near
+the front entrance door of each dwelling unit
+regulated by DCC 5.12 a notice specifying the
+maximum allowable number of overnight rental
+occupants that may occupy the dwelling unit
+overnight. The format of notices of the maximum
+allowable number of overnight occupants that
+may occupy the dwelling unit shall be as shown
+in Exhibit " I ", attached hereto and by this
+reference incorporated herein.
+Ord. 95- 030 § 1, 1995; Ord. 91- 044 § 1, 1991)
+PAGE I of 2 — EXHIBIT " A" To ORDINANCE No. 2005- 005 ( 3/ 16/ 05)
+F- zhihit - A-
+5. 12. 070. Notification.
+Any person who rents or offers for rent a
+dwelling unit for overnight rental occupancy in
+the Sunriver Urban UnincoKporated Communi
+Zone PC Zone shall inform the prospective
+overnight rental occupant of the maximum
+allowable overnight occupancy.
+Ord. 95- 030 § 1, 1995; Ord. 91- 044 § 1, 1991)
+5. 12. 080. Violation.
+Violation of any provision of DCC 5. 12
+constitutes a violation as follows:
+A. Any person who rents or offers for rent a
+dwelling unit in the Sunriver Urban
+Unincorporated Communi1y Zone PC Zene
+without posting the maximum allowable
+overnight occupancy commits a class B
+violation.
+B. Any person who rents for money a dwelling
+unit in the Sunriver Urban Unincolporate
+Communijy Zone — PC Zone without
+informing, in writing, in the rental agreement
+or by separate document, the prospective
+rental occupant of the maximum allowable
+overnight occupancy commits a class B
+violation.
+C. Each and every rental occupant occupying a
+dwelling unit in which the maximum
+overnight occupancy has been exceeded as
+provided by DCC 5. 12 commits a class B
+violation.
+D. Any person who offers for rent or rents a
+dwelling unit for overnight occupancy to a
+person with actual knowledge that the person
+intends to exceed the maximum allowable
+overnight rental occupancy of the dwelling
+unit commits a class A violation.
+Ord. 2003- 021 § 11, 2003; Ord. 95- 030 § 1,
+1995; Ord. 91- 044 § 1, 1991)
+PAGE 2 of 2 – EXHIBIT " A" To ORDINANCE No. 2005- 005 ( 3/ 16/ 05)

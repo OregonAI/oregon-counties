@@ -1,0 +1,606 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clackamas-county
+id: clackamas-land-use-zdo1105
+title: 'Zdo1105'
+doc_type: ordinance
+citation: 'Zdo1105'
+authority_level: county_ordinance
+issuing_body: 'Clackamas County Board of Commissioners'
+source_url: https://www.clackamas.us/planning/zdo1105
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: 959cb7bcc4fb6e779fa97189ece34947d917fc3f6eb47708fb15d1df3b54201c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 195.300
+    - ORS 368.326
+    - ORS 92.830
+    - OAR 660-033-0010
+  related: []
+  supersedes: []
+tags: [clackamas-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clackamas County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zdo1105 (Zdo1105)
+
+## At a glance
+
+Zdo1105 — land use of Clackamas County. 25898 characters.
+
+## Full text
+
+ZDO 1105: Subdivisions, Partitions, Replats, Middle Housing Land Divisions, Condominium Plats, and Vacations of Recorded Plats | Clackamas County 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Translate 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jobs 
+ Events 
+ News 
+ Contact Us 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+
+ 
+ 
+ 
+ Community 
+ 
+ 
+ Business 
+ 
+ 
+ Departments 
+ 
+ 
+ Our County 
+ 
+ 
+ I want to... 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ ZDO 1105: Subdivisions, Partitions, Replats, Middle Housing Land Divisions, Condominium Plats, and Vacations of Recorded Plats 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ZDO 1105: Subdivisions, Partitions, Replats, Middle Housing Land Divisions, Condominium Plats, and Vacations of Recorded Plats 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 1105.01 Purpose And Applicability  Section 1105 is adopted to provide standards, criteria, and procedures under which a subdivision, partition, replat, middle housing land division, condominium plat, or vacation of a recorded plat may be approved, except: In the EFU, TBR, and AG/F Districts, land divisions that are approved pursuant to Subsections 401.09, 406.09, or 407.08, respectively, are exempt from review pursuant to Section 1105. However, all subdivisions, as well as all partitions containing any parcel of 80 acres or smaller (based on the best available records), require completion of a final plat pursuant to Subsection 1105.11; and Subdivisions for cemetery purposes pursuant to Oregon Revised Statutes Chapter 97 are exempt from Section 1105. 1105.02 General Submittal Requirements For Subdivisions, Partitions, Replats, and Middle Housing Land Divisions In addition to the submittal requirements identified in Subsection 1307.07(C), an application for a subdivision, partition, replat, or middle housing land division shall include: Five copies of a preliminary plat. The preliminary plat shall be drawn to a scale of not less than one inch equals 20 feet and not more than one inch equals 200 feet. If the preliminary plat is larger than 11 inches by 17 inches, five reduced-sized, legible copies of the preliminary plat shall be submitted on eight-and-one-half- inch by 14-inch or 11-inch by 17-inch paper. The following information shall be included on the preliminary plat or by separate attachment: Source of domestic water and location of any existing and proposed wells; Method of wastewater disposal and location of any existing and proposed on- site wastewater treatment systems; Existing and proposed utility lines and facilities; Locations, dimensions, and area of each lot, parcel, and tract; Date the preliminary plat was prepared; North arrow; Identification of each lot or parcel by number; Locations and widths of all roads abutting the subject property, including road names, direction of drainage, approximate grades, and whether public or private; Locations and widths of all proposed roads, including proposed names, approximate grades, radii of curves, and whether public or private; Location and width of legal access to the subdivision or partition, other than public or County roads, if applicable; Contour lines at two-foot intervals if 10 percent slope or less or five-foot intervals if exceeding 10 percent slope within an urban growth boundary; contour lines at 10-foot intervals outside an urban growth boundary; source of contour information; Locations of all seasonal and perennial drainage channels, including their names, if known, and direction of flow; Locations and widths of all existing and proposed easements, to whom they are conveyed and for what purpose; Locations and dimensions of all existing and proposed driveways and walkways; Locations and dimensions of existing structures and their setbacks from existing and proposed lot lines; Locations and dimensions of all areas to be offered for public dedication and the intended use of such areas; Boundaries and type of restricted areas identified in Subsection 1012.05, as applicable; Locations of all significant vegetative areas, including, but not limited to, major wooded areas, specimen trees, and bearing trees; and For a proposed subdivision, a plat name approved by the County Surveyor pursuant to Oregon Revised Statutes 92.090; Preliminary statements of feasibility required pursuant to Section 1006, Utilities, Street Lights, Water Supply, Sewage Disposal, Surface Water Management, and Erosion Control; If the subject property includes land designated Open Space by the Comprehensive Plan, a vicinity map showing the location of the subject property in relation to adjacent properties, roads, bikeways, pedestrian access, utility access, and manmade or natural site features that cross the boundaries of the subject property; If the subject property includes land designated Open Space by the Comprehensive Plan, an existing conditions map of the subject property showing: Contour lines at two-foot intervals for slopes of 20 percent or less within an urban growth boundary; contour lines at five-foot intervals for slopes exceeding 20 percent within an urban growth boundary; contour lines at 10- foot intervals outside an urban growth boundary; source of contour information. Slope analysis designating portions of the site according to the following slope ranges and identifying the total land area in each category: zero to 20 percent, greater than 20 percent to 35 percent, greater than 35 percent to 50 percent, and greater than 50 percent; Drainage; Potential hazards to safety, including areas identified as mass movement, flood, soil, or fire hazards pursuant to Section 1003, Hazards to Safety; Marsh or wetland areas, underground springs, wildlife habitat areas, and surface features such as earth mounds and large rock outcroppings; Location of wooded areas, significant clumps or groves of trees, and specimen conifers, oaks, and other large deciduous trees. Where the subject property is heavily wooded, an aerial photograph, at a scale of not more than one inch equals 400 feet, may be submitted and only those trees that will be affected by the proposed development need be sited accurately; Location of any overlay zoning districts regulated by Section 700, Special Districts; Noise sources; Sun and wind exposure; Significant views; and Existing structures, impervious surfaces, utilities, landscaping, and easements; and 1105.03 Additional Submittal Requirements For Subdivisions, Partitions, and Replats An application for a subdivision, partition, or replat shall include the following additional information: Calculations demonstrating that the proposed density complies with the minimum and maximum density standards of Section 1012, Lot Size and Density, or for zoning districts not subject to Section 1012, demonstrating compliance with the minimum lot size in the applicable zoning district; The north-south dimension and front-lot-line orientation of each proposed lot or parcel, except for lots or parcels for which an exception from the solar design standard of Subsection 1017.03 is requested pursuant to Subsection 1017.04. For the purpose of this submittal requirement, north-south dimension and front lot line are defined in Subsection 1017.02; For a proposed subdivision, a phasing plan and schedule, if the applicant proposes to have final plat review, pursuant to Subsection 1105.11, occur in two or more phases pursuant to Subsection 1105.05(C); and A master plan if required pursuant to Section 1012. 1105.04 Additional Submittal Requirements for Middle Housing Land Divisions An application for a middle housing land division shall include the following additional information: Demonstration that the property to be divided is developed or proposed to be developed with middle housing that complies with the standards applicable to middle housing on or after July 1, 2022. If middle housing development is proposed, a copy of building permit applications and construction plans that have been submitted to or approved by the Building Codes Division shall be included in the application; Locations of the easements necessary for: Locating, accessing, replacing, and servicing all dwelling units; Pedestrian access from each dwelling unit to a private or public road; Any common areas or shared building elements; and Any shared driveways or parking; and Location of each middle housing dwelling unit, any other development on the lot or parcel, and location of all areas to be retained under common   ownership. 1105.05 Approval Criteria For Subdivisions, Partitions, and Replats A major subdivision requires review as a Type III application pursuant to Section 1307, Procedures. A minor subdivision or a partition requires review as a Type II application pursuant to Section 1307. A replat of property partially or wholly in the AG/F, EFU, or TBR District, or that proposes to increase the number of lots or parcels in the recorded subdivision or partition plat, requires review as a Type II application pursuant to Section 1307. Otherwise, a replat requires review as a Type I application pursuant to Section 1307. A subdivision, partition, or replat shall be subject to the following standards and criteria: The proposed subdivision, partition, or replat shall comply with the applicable provisions of the section of this Ordinance that regulates the subject zoning district and Section 1000, Development Standards. In an Urban Low Density Residential District, the applicant may designate the proposed subdivision, partition, or replat as a zero-lot-line development. In a zero- lot-line development, there are no minimum rear and side setbacks for single- family dwellings, manufactured homes, and structures accessory to single-family dwellings and manufactured homes, except from rear and side lot lines on the perimeter of the final plat. As part of preliminary plat approval for a subdivision, approval of a phasing plan and schedule to allow final plat review to occur in two or more phases, each of which includes a portion of the subject property, may be granted in consideration of such factors as the size of the proposed subdivision, complexity of development issues, required improvements, and other factors deemed relevant. If a phasing plan and schedule is approved, such approval shall be subject to the following: The total number of lots in all recorded phases of the subdivision shall not exceed the maximum density allowed pursuant to Section 1012, Lot Size and Density, for the gross site area included in all such phases. If one or more open space tracts are required as a condition of subdivision approval, the first phase shall include all required open space tracts for the entire subdivision. Future phases shall be shown upon the initial and subsequent final plats as a "Tract Reserved for Future Development." As deemed necessary by the County or special districts, dedication of rights- of-way or easements into or through future phases may be required with the initial or subsequent phases, prior to platting of the final phase. A nonprofit, incorporated homeowners association, or an acceptable alternative, shall be required for ownership of, improving, operating, and maintaining common areas and facilities, including, but not limited to, open space, private roads, access drives, parking areas, and recreational uses, and for snow removal and storage in Government Camp. The homeowners association shall continue in perpetuity unless the requirement is modified pursuant to either Section 1309, Modification, or the approval of a new land use permit application provided for by this Ordinance. Membership in the homeowners association shall be mandatory for each lot or parcel owner. The homeowners association shall be incorporated prior to recording of the final plat. Acceptable alternatives to a homeowners association may include, but are not limited to, ownership of common areas or facilities by the government or a nonprofit conservation organization. If the subject property is in a future urban area, as defined by Chapter 4 of the Comprehensive Plan, the location of proposed easements, road dedications, structures, wells, and on-site wastewater treatment systems shall be consistent with the orderly future development of the subject property at urban densities.  1105.06 Additional Approval Criteria for Replats A replat shall be subject to the following additional standards and criteria: A replat is subject to the minimum and maximum lot size standards of the applicable zoning district, except as follows: If a lot of record is smaller than the minimum lot size standard, its size may be reduced, provided that it is not in an AG/F, EFU, or TBR District. If a lot of record is larger than the maximum lot size standard, its size may be reduced even if the reduction is not sufficient to comply with the maximum lot size standard. If a lot of record in an AG/F, EFU, or TBR District is smaller than the minimum lot size standard, its size may be reduced subject the following standards and criteria: As used in Subsection 1105.06(A)(3), "ground water restricted area", "high-value farmland", "high-value forestland", and "waiver" have the meanings given those terms in ORS 195.300. A replat for a lot of record that is larger than 80 acres may be approved if the adjustment does not reduce the lot of record to less than 80 acres. A replat may not be used to: Decrease the size of a lot of record that, before the relocation or elimination of a common property line, is smaller than 80 acres and contains an existing dwelling or is approved for the construction of a dwelling, if another lot of record affected by the property line adjustment would be increased to a size as large as or larger than the minimum lot or parcel size required to qualify the other affected lot of record for a dwelling; Decrease the size of a lot of record that contains an existing dwelling or is approved for construction of a dwelling to a size smaller than 80 acres, if another lot of record affected by the replat would be increased to a size as large as or larger than the minimum lot or parcel size required to qualify the other lot of record for a dwelling; Allow an area of land used to qualify a lot of record for a dwelling based on an acreage standard to be used to qualify another lot of record for a dwelling if the land use approval would be based on an acreage standard; Replat a property line that resulted from a subdivision or partition authorized by a waiver so that any lot of record affected by the property line adjustment is larger than: two acres if the lot of record is, before the adjustment, two acres in size or smaller and is high-value farmland, high-value forestland, or within a ground water restricted area; or five acres if the lot of record is, before the adjustment, five acres in size or smaller and is not high-value farmland, high-value forestland, or within a ground water restricted area; Separate a temporary dwelling for care, home occupation, relative farm help dwelling, or processing facility from the lot of record on which the primary residential use or other primary use exists; or  Separate an accessory dwelling in conjunction with farm use approved pursuant to Subsection 401.05(C)(12), except as provided in OAR 660-033-0010(24)(B). Replats that propose to increase the number of lots or parcels shall not be approved, unless: The gross site area of the affected plat is increased, or is of sufficient size to allow additional lots or parcels, or the zoning on the subject property has been changed since the existing plat was approved, permitting a greater density on all, or part, of the original platted area; The allowed density is recalculated pursuant to Section 1012, Lot Size and Density, on the basis of the gross site area of the original platted area and any additions to the gross site area, and, if applicable, on the basis of the new zoning; All existing lots or parcels within the plat that are not affected by the replat, including additional lots or parcels that may be created by subdivision or partition under existing zoning, are subtracted from the maximum density of the original plat area in determining allowed density for the replatted portion; and All open space requirements of the original plat, if applicable, are satisfied by the replatted subdivision or partition, or portion thereof. 1105.07 Approval Criteria For Middle Housing Land Divisions A middle housing land division requires review as a Type II-E application pursuant to Section 1307, Procedures. A middle housing land division shall be subject to the following standards and criteria: The property to be divided shall be within the R-5, R-7, R-8.5, R-10, R-15, R-20, R-30, VR-4/5, or VR-5/7 District and developed or proposed to be developed with middle housing that complies with the standards applicable to middle housing on or after July 1, 2022. Proposed to be developed means that building permits have been submitted for the middle housing dwelling units. Each middle housing lot shall contain exactly one dwelling unit, except that a tract used as a common area may not contain a dwelling unit. Buildings or structures on a resulting lot or parcel shall comply with applicable provisions in the Oregon Residential Specialty Code with respect to newly created lot lines. Each middle housing dwelling unit shall have separate utilities. Easements shall be provided, as necessary, for each dwelling unit for: Locating, accessing, replacing, and servicing all utilities; Pedestrian access from each dwelling unit to a private or public road; Any common areas or shared building elements Any shared driveways or parking; and A homeowners association, or an acceptable alternative, shall be required pursuant to Subsection 1105.05(D). Each middle housing lot shall be prohibited from further division and shall be prohibited from development with additional dwelling units, including accessory dwelling units. The type of middle housing developed on the original lot of record is not altered by a middle housing land division (e.g., a duplex remains a duplex even if it is divided along the common wall). 1105.08 Condominium Plats If detached single-family dwellings are proposed to be developed as condominiums on the same lot of record rather than as part of a subdivision or partition where each detached single-family dwelling is on its own lot or parcel, the development shall be subject to the same standards, criteria, review procedures, and application fee as would apply to a land division of the same property and resulting in the same number of potential detached single-family dwellings. This allowance for condominiums in lieu of the same development on separate lots of record supersedes provisions of this Ordinance that otherwise require each detached single-family dwelling to be on its own lot of record. 1105.09 Approval Period And Time Extension  Except for a middle housing land division: Approval of a preliminary plat is valid for four years from the date of the final decision. If the County's final decision is appealed, the approval period shall commence on the date of the final appellate decision. During this four-year period, the final plat shall be recorded with the County Clerk, or the approval will become void. If a final plat is not recorded within the initial approval period established by Subsection 1105.09(A), a two-year time extension may be approved pursuant to Section 1310, Time Extension, except for a replat reviewed as a Type I application pursuant to Section 1307, which may not be approved for a time extension. If a phasing plan and schedule are approved pursuant to Subsection 1105.05(C), the following shall apply in lieu of Subsections 1105.09(A) and (B): The phasing schedule may provide a preliminary plat approval period for the first phase not to exceed four years from the date of the final written decision. If the County's final decision is appealed, the approval period shall commence on the date of the final appellate decision. The phasing schedule may provide a preliminary plat approval period for each subsequent phase not to exceed two years from the end of the prior phase approval period. Each phase shall be recorded with the County Clerk within the applicable approval period, or the approval of that phase and all subsequent phases will become void. If a final plat for any phase is not recorded within the initial approval period for that phase, a two-year time extension for that phase and all subsequent phases may be approved pursuant to Section 1310. In no case shall a phasing schedule or any time extensions permit the recording of any phase more than 10 years after the date of preliminary plat approval. 1105.10 Approval Period For Middle Housing Land Divisions Approval of a preliminary plat is valid for three years from the date of the final decision. If the County's final decision is appealed, the approval period shall commence on the date of the final appellate decision. During this three-year period, the final plat shall be recorded with the County Clerk, or the approval will become void. 1105.11 Final Plat Review  If a preliminary plat is approved, finalizing the approval requires the completion of a final plat, except that a final plat is not required for a partition or partition replat in which all parcels are larger than 80 acres. The applicant shall comply with the following: The form and content of the final plat shall comply with the County's final decision approving the preliminary plat and applicable provisions of Chapters 11.01 and 11.02 of the Clackamas County Code and Oregon Revised Statutes Chapters 92, 94, 100, and 209. The final plat shall be submitted to the County for review. If a homeowners association is required, the declaration for a planned community, articles of incorporation, and bylaws shall be submitted to the County with the final plat. If the final plat and, if a homeowners association is required, the declaration for a planned community, articles of incorporation, and bylaws are consistent with the approved preliminary plat and the conditions of approval included in the County's final decision on the application have either been satisfied or guaranteed pursuant to Section 1311, Completion of Improvements, Sureties, and Maintenance, the Planning Director shall sign the plat. If the final plat is for a middle housing land division, it shall contain a notation that the lots shown on the plat were created pursuant to a middle housing land division and may not be further divided. 1105.12 Vacations of Recorded Plats A recorded plat, or portion thereof, may be vacated pursuant to Oregon Revised Statutes (ORS) 92.205 through 92.245, ORS 368.326 through 368.366, or other applicable statutes. 1105.13 Subdivisions of Manufactured Dwelling Parks and Mobile Home Parks The conversion of an existing or approved manufactured dwelling park or mobile home park to a subdivision requires review as a Type I application pursuant to Section 1307, Procedures, and shall be subject to the submittal, review, and platting requirements of Oregon Revised Statutes (ORS) 92.830 through 92.845. Where ORS 92.830 through 92.845 conflict with the provisions of this Ordinance, ORS 92.830 through 92.845 shall take precedence. [Amended by Ord. ZDO-224, 5/31/2011; Amended by Ord. ZDO-230, 9/26/2011; Amended by Ord. ZDO-248, 10/13/2014; Amended by Ord. ZDO-253, 6/1/2015; Amended by Ord. ZDO-266, 5/23/2018; Amended by Ord. ZDO-268, 10/2/2018; Amended by Ord. ZDO-280, 10/23/2021; Amended by Ord. ZDO-282, 7/1/2022; Amended by Ord. ZDO-283, 9/5/2023; Amended by Ord. ZDO-285, 9/3/2024] Return to the Zoning and Development Ordinance main page. Contact zoninginfo@clackamas.us for additional information. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Phone: 503-742-4500 
+ Email: zoninginfo@clackamas.us 
+ 
+ 
+ 
+ 150 Beavercreek Road Room #225 Oregon City, OR 97045 
+ 
+ 
+ Office Hours: Monday to Thursday  8 a.m. to 4 p.m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's My Zoning? 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Related Events 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Related Events
+ 
+ 
+ 
+ 
+ Board of County Commissioners, Planning and Zoning 
+ 
+ 
+ Aug 
+ 04 
+ 
+ 
+ 11:00 am 
+ - 11:30 am 
+ 
+ 
+ Land Use Hearing: Z0437-25 and Z0438-25 - Aug. 4, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Aug 
+ 20 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0096-26 - Aug. 20, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Sep 
+ 03 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0207-26 - Sept. 3, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ more events 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ SHORTCUTS 
+ 
+ 
+ 
+ Jobs Procurement Process, Contracts and Grants Pay Online CMap Contact the County Report a Hazard County Code Public Records Request HIPAA/Privacy Concerns Civil Rights ACA Complaint Form Accessibility Statement Title VI Compliance Plan Website Privacy Media Contacts 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ELECTED OFFICIALS 
+ 
+ 
+ 
+ Chair Craig Roberts Commissioner Diana Helm Commissioner Paul Savas Commissioner Martha Schrader Commissioner Ben West   County Assessor/Tax Collector Bronson Rueda County Clerk Catherine McMullen District Attorney John Wentworth Justice of the Peace Kathleen Rastetter Sheriff Angela Brandenburg Treasurer Brian Nava 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can’t find what you're looking for? 
+ 
+ 
+ 
+ 
+ Search Box 
+ 
+
+ 
+ enter your search here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2026 Clackamas County

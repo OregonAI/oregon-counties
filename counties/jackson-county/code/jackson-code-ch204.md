@@ -1,0 +1,154 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch204
+title: 'Ch204'
+doc_type: ordinance
+citation: 'Ch204'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/Administrative%20Code/Ch204.pdf?t=202406241221470
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 48918f101cee35f11bacb0ca2ad11b5e2e4dac0115457a6913c95c4cbe7b3ac1
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 98.005
+    - ORS 98.110
+    - ORS 98.245
+    - ORS 98.302
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch204 (Ch204)
+
+## At a glance
+
+Ch204 — code of Jackson County. 4 pages.
+
+## Full text
+
+19B
+
+CHAPTER 204
+Abandoned Personal Property
+
+204.01  Applicabili
+ty.
+204.02  Disposition of Exempt Personal Property.
+204.03  Disposition of Unclaimed Personal Property.
+204.04  Disposition of Found Personal Property.
+204.05  Procedure for Disposing of Surplus Property.
+204.06  Procedure for Reclaiming Property.
+
+204.01 APPLICABILITY.
+
+This Chapter applies to Unclaimed, Found, Exempt and Surplus tangible personal
+property, as defined herein, in the County’s possession.  It does not apply to the following
+as they currently exist or may from time to time be amended:
+
+(a) Unclaimed personal property seized by the Jackson County Sheriff’s office in
+accordance with ORS 98.245.
+
+(b) Intangible personal property as defined by ORS 98.302.
+
+(c) Unclaimed consigned or bailed property governed by ORS 98.110 - 240.
+
+(d) Motor vehicles as governed by Chapter 410 and section 1062.12 of the Codified
+Ordinances of Jackson County.
+
+(e) Personal property left at a camping site in accordance with section 1078.06 of the
+Codified Ordinances of Jackson County.
+
+(f) Weapons, illegal substances or prescription medications.
+
+(g) Property of a deceased person taken into possession by the County.
+
+(h) Property found by Transportation Security Administration (TSA) personnel
+pursuant to TSA Directive 200.51.
+
+(Ord. 2006-2. Passed 3-29-06; Ord. 2017-10. Passed 06-28-17.)
+19C Abandoned Personal Property 204.04
+
+204.02  DISPOSITION OF EXEMPT PERSONAL PROPERTY.
+
+Exempt Property is defined as tangible personal property with a value of less than
+$100.00 and the ownership of which cannot be determined.   The value of exempt
+property shall be determined by the director of the department in which the property was
+found. If the Exempt Property is unclaimed for 30 days after the property came into the
+County’s possession, the Exempt Property shall be deemed Unclaimed Property and
+disposed of as set forth in 204.03, below.  If the tangible personal property is worth
+$100.00 or more, ORS 98.005 governs its disposal.  Exempt property with only de
+minimus value, such as food, newspapers or periodicals, may be disposed of
+immediately.
+
+204.03 DISPOSITION OF UNCLAIMED PERSONAL PROPERTY.
+
+Unclaimed Property is defined as all tangible personal property with more than de
+minimus value which the County does not own and for which ownership cannot be
+determined and which has not been claimed per section 204.02, above.  Unless accepted
+by State law or a specific provision of this Ordinance, all Unclaimed Property shall
+become the property of the County and designated as Surplus.
+
+Property after the department in possession of it has sent notice to all parties who
+reasonably appear to have an interest in such property and who have not reclaimed it.
+The procedure for the disposition of surplus property is provided below.
+
+204.04  DISPOSITION OF FOUND PERSONAL PROPERTY.
+
+Found Property is defined as all tangible personal property which (a) is not owned by the
+County (b) the ownership of which is unknown and (c) is turned into the County.  Found
+Property shall not become the property of the County until the requirements of state law
+regarding the rights and duties of finders and owners of such property  are satisfied.
+Found property may be kept and used by any county department after the requirements of
+State law are satisfied.  If the property is not usable, the County shall dispose of it as
+Surplus Property.
+204.06 Abandoned Personal Property 19D
+
+204.05  PROCEDURE FOR DISPOSING OF SURPLUS PROPERTY.
+
+Surplus Property can be Unclaimed Property, Found Property or Exempt Property.  The
+procedure for disposing of Surplus Property is set forth in Administrative Policy #7-03.
+If the Surplus Property is sold, the proceeds from the sale shall be applied to the costs of
+sale and the balance deposited into the County general fund or the Airport fund, if it was
+discovered at the Airport, to assure compliance with Federal Aviation Administration
+grant assurances. The County shall assume no responsibility as to the condition of title of
+the property sold. In the event that for any reasons such sale shall be invalid, and the
+County is adjudged liable for the invalid sale, the liability of the County is limited to the
+return of the sale price upon application thereof to the Board of Commissioners.  If any
+Surplus Property is neither sold nor retained by or transferred to a department, it may be
+resold at a later date, donated to a governmental or charitable agency or destroyed,
+whichever, in the opinion of the County Administrator, bests satisfies the public interest.
+
+(Ord. 2006-2. Passed 3-29-06; Ord. 2017-10. Passed 06-28-17.)
+
+204.06  PROCEDURE FOR RECLAIMING PROPERTY.
+
+An individual claiming an ownership interest in any unclaimed, found or exempt property
+before it is deemed Surplus Property or transferred to a State Agency shall submit
+satisfactory written evidence to the County Administrator or the County Administrator’s
+designee of the individual’s interest therein and tender, with said application, the costs of
+removing, storing and making the sale of the personal property.  The County
+Administrator or the County Administrator’s designee, upon being satisfied the clai m is
+rightful, shall surrender the same to the claimant.
+
+(Ord. 2006-2. Passed 3-29-06; Ord. 2017-10. Passed 06-28-17.
+19E Abandoned Personal Property
+
+THIS PAGE RESERVED FOR EXPANSION

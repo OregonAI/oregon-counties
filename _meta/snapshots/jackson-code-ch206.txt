@@ -1,0 +1,751 @@
+CHAPTER 206
+Elections
+
+206.01 R
+epealed.
+206.02 Repealed.
+206.03 Repealed.
+206.04 Application of this Chapter.
+206.05 Definitions.
+206.06 Initiative Process.
+206.07 Referendum Process.
+206.08 County Referral Process.
+206.09 Procedure to Challenge Ballot Title of County Measure.
+206.10 Filing Requirements for County Measures.
+206.11 Withdrawing County Measures.
+206.12 Date of Election.
+206.13 Voters’ Pamphlets.
+
+CROSS REFERENCES
+
+County elections generally - see CHTR. Ch. VII; ORS 202.030
+Dates and emergency procedures - see ORS 203.085
+Charter adoption, change, repeal - see CHTR. Ch. VII; ORS 203.720, 203.760
+Registration; absentee ballots - see ORS 253.135
+Election crimes and offenses - see ORS 260.993
+
+206.01 (Ord. 76-78. Passed 2 -22-78; E. Ord. 88-3. Passed 2-17-88; P. Ord. 88-4.
+Passed 3-16-88; REPEALED 10-02-13.)
+
+206.02 (Ord. 76-78. Passed 2-22-78; REPEALED 10-02-13.)
+
+206.03 (Ord. 76-78. Passed 2-22-78; REPEALED 10-02-13.)
+
+206.04 APPLICATION OF THIS CHAPTER.
+
+Sections 206.05 to 206.13 of this chapter apply only to: the exercise of initiative,
+referendum and referral powers regarding county measures; and the materials that may be
+filed and placed in County and state voters’ pamphlets.  The requirements for city
+measures are found in ORS Chapter 250.  The requirements for district measures are
+found in ORS Chapter 255.
+
+(Ord. 2013-09. Passed 10-02-13.)
+23 Elections 206.06
+
+206.05 DEFINITIONS.
+
+(a) Board of Commissioners means the Jackson County Board of Commissioners.
+
+(b) County Clerk means the Jackson County Clerk or the Jackson County official in
+charge of elections.
+
+(c) Candidate means an individual whose name is or is expected to be printed on the
+ official ballot.
+
+(d) Elector means an individual qualified to vote under Article II, Section 2 of the
+Oregon Constitution.
+
+(e) Measure includes any of the following submitted to the people for approval or
+rejection at an election:
+
+(1) A proposed county ordinance or county legislation referred by the Jackson
+County Board of Commissioners.
+
+(2) A proposed county ordinance or county legislation placed on the ballot by an
+initiative or referendum petition.
+
+(3) A proposition or question referred by the Jackson County Board of
+Commissioners.
+
+(f) Prospective Petition means the information, except signatures and other
+identification of petition signers, required to be contained in a completed petition.  Only
+the form of the prospective petition, including the signature sheets, designed by the
+Oregon Secretary of State shall be used for any initiative or referendum.  A prospective
+petition is submitted to the County Clerk for approval to circulate for signatures under
+sections 206.06(b) and 206.07(b) below.
+
+(Ord. 2013-9. Passed 10-02-13.)
+
+206.06 INITIATIVE PROCESS.
+
+(a) Generally. - ORS 250.155 allows a county with a home rule charter adopted under
+section 10, Article VI of the Oregon Constitution to adopt its own rules and procedures
+related to the initiative and referendum processes.  This section 206.06 relating to the
+initiative process is based on the statutory provisions contained in ORS 250.165 to
+250.221.
+206.06 Elections  23A
+
+(b) Prospective Petition; Cover and Signature Sheet Requirements; Circulation; Filing
+Deadline.
+
+(1) Before circulating a petition to initiate a county measure, the petitioner shall
+file with the County Clerk a prospective petition.  The County Clerk
+immediately shall date and time stamp the prospective petition, and specify the
+form on which the prospective petition shall be printed for circulation.  The
+Clerk shall retain the prospective petition.
+[Reference: ORS 250.165(1)]
+
+(2) The cover of a county initiative petition shall designate the name and residence
+address of not more than three persons as chief petitioners and shall contain
+instructions for persons obtaining signatures of electors on the petition
+pursuant to such instructions adopted by the Oregon Secretary of State by
+administrative rule. [Reference: ORS 250.165(2)]
+
+(3) The chief petitioners shall include with the prospective petition a statement
+declaring whether one or more persons will be paid money or other valuable
+consideration for obtaining signatures for electors on the initiative petition.
+After the prospective petition is filed with the County Clerk, the chief
+petitioners shall notify the County Clerk not later than the 10th day after any of
+the chief petitioners first has knowledge or should have had knowledge that:
+
+A. Any person is being paid for obtaining signatures, when the statement
+included with the prospective petition declared that no such person would
+be paid; or
+
+B. No person is being paid for obtaining signatures, when the statement
+included with the prospective petition declared that one or more such
+persons would be paid. [Reference: ORS 250.165(3)]
+
+(4) Each sheet of signatures on an initiative petition shall contain the caption of the
+ballot title.  Each sheet of signatures on an initiative petition shall, if one or
+more persons will be paid for obtaining signatures of electors on the petition,
+contain a notice stating:  “Some Circulators for This Petition Are Being Paid.”
+[Reference: ORS 250.165(4)]
+
+(5) The reverse side of the cover of an initiative petition shall be used for obtaining
+signatures on an initiative petition. [Reference: ORS 250.165(5)]
+
+(6) Not more than 20 signatures on the signature sheet of the initiative petition
+shall be counted.  The circulator shall certify on each signature sheet that the
+circulator:
+23B Elections  206.06
+
+A. Witnessed the signing of the signature sheet by each individual whose
+signature appears on the signature sheet; and
+
+B. Believes each individual is an elector registered in the county.
+[Reference: ORS 250.165(6)]
+
+(7) The gathering of signatures on a petition to initiate a county measure may not
+exceed a period of one year from the time the petition is approved by the
+County Clerk for circulation as provided in Section 206.06(c) below.  This
+subsection shall apply only to prospective petitions filed with the County Clerk
+after the effective date of the enacting ordinance on 12-01-13.
+[Reference: ORS 250.165(7) allows up to two years for counties that have not
+adopted a charter under section 10, Article VI, Oregon Constitution]
+
+(8) The County Clerk may not accept for filing any petition approved for
+circulation which has not met the provisions of subsection (7) of this section.
+[Reference: ORS 250.165(8)]
+
+(9) The person obtaining signatures on the petition approved for circulation shall
+carry at least one full and correct copy of the measure to be initiated and shall
+allow any person to review a copy upon request of the person.
+[Reference: ORS 250.165(10)]
+
+(c) Determination of Compliance with Constitutional Provisions by County Clerk;
+Ballot Title; Notice.
+
+(1) Not later than the fifth business day after receiving a prospective petition for a
+county initiative measure, the County Clerk shall determine in writing whether
+the county initiative measure meets the requirements of section 1(2)(d), Article
+IV, and section 10, Article VI of the Oregon Constitution.
+[Reference: ORS 250.168(1)]
+
+(2) If the County Clerk determines that the county initiative measure meets the
+requirements of section 1(2)(d), Article IV, and section 10, Article VI of the
+Oregon Constitution, the County Clerk shall proceed as required in ORS
+250.175 and subsections (5), (9) and (12) of this section.  The County Clerk
+shall include in the notice publication required under ORS 250.175(5) a
+statement that the initiative measure has been determined to meet the
+requirements of section 1(2)(d), Article IV, and section 10, Article VI of the
+Oregon Constitution. [Reference: ORS 250.168(2)]
+206.06 Elections  23C
+
+(3) If the County Clerk determines that the county initiative measure does not meet
+the requirements of section 1(2)(d), Article IV, and section 10, Article VI of
+the Oregon Constitution, the County Clerk shall immediately notify the
+petitioner, in writing by certified mail, return receipt requested, of the
+determination. [Reference: ORS 250.168(3)]
+
+(4) Any elector dissatisfied with the determination of the County Clerk under
+subsections (2) or (3) of this section may petition the Jackson County Circuit
+Court seeking to overturn the determination of the County Clerk.  The petition
+challenging the County Clerk’s determination must be filed with the Jackson
+County Circuit Court not later than the seventh business day after the ballot
+title is filed with the County Clerk.  The review by the Jackson County Circuit
+Court shall be the first and final review, and shall be conducted expeditiously
+to ensure the orderly and timely circulation of the petition. [Reference: ORS
+250.168(4)]
+
+(5) Not later than the sixth business day after a prospective petition for a county
+measure to be initiated is filed with the County Clerk, if the County Clerk
+determines that the initiative measure meets the requirements of section
+1(2)(d), Article IV, and section 10, Article VI of the Oregon Constitution, the
+County Clerk shall send two copies of the prospective petition to the District
+Attorney. [Reference: ORS 250.175(2)]
+
+(6) Not later than the fifth business day after receiving the copies of the
+prospective petition, and notwithstanding ORS 203.145(3), the District
+Attorney shall prepare a ballot title for the county measure to be initiated and
+return one copy of the prospective petition and certify the ballot title to the
+county clerk. [Reference: ORS 250.175(3)(a)]
+
+(7) If the District Attorney determines that a ballot title certified under this
+subsection contains a clerical error, the District Attorney may correct the error
+and certify to the County Clerk a corrected ballot title not later than the 10th
+business day after the date the ballot title is certified.
+[Reference:  ORS 250.175(3)(b)]
+
+(8) As required by ORS 250.035, the ballot title of any county measure to be
+initiated shall consist of:
+
+A. A caption of not more than 10 words which reasonably identifies the
+subject of the initiative;
+
+B. A question of not more than 20 words which plainly phrases the chief
+purpose of the initiative so that an affirmative response to the question
+corresponds to an affirmative vote on the measure; and
+23D Elections  206.07
+
+C. A concise and impartial statement of not more than 175 words
+summarizing the initiative and its major effect
+
+(9) The County Clerk shall furnish a copy of the ballot title to the chief petitioner
+pursuant. [Reference: ORS 250.175(3)(c)]
+
+(10) Unless the Circuit Court certifies a different ballot title, the latest ballot title
+certified by the District Attorney under subsection (7) of this section is the title
+to be printed on the ballot. [Reference:  ORS 250.175(4)]
+
+(11) As used in this section, “clerical error” means a typographical, arithmetical or
+grammatical error or omission that is evident from the text of the certified
+ballot or by comparison of the text of the ballot title with a written explanation
+that was provided by the District Attorney and issued concurrently with the
+certified ballot title. [Reference:  ORS 250.175(6)]
+
+(12) Publishing Notice:
+
+A. The County Clerk, upon receiving from the District Attorney a ballot title
+for a county initiative measure, shall publish in the next available edition
+of a newspaper of general circulation in the county a notice of receipt of
+the ballot title, including notice that an elector may file a petition for
+review of the ballot title not later than the seventh business day after the
+ballot title is filed with the County. [Reference: ORS 250.175(5)(a)]
+
+B. In addition to publishing a notice as described in paragraph (A.) of this
+subsection, the County Clerk may publish a notice on the county’s
+website for a minimum of seven days. [Reference: ORS 250.175(5)(b)]
+
+(Ord. 2013-9. Passed 10-02-13.)
+
+206.07 REFERENDUM PROCESS.
+
+(a) Generally.  ORS 250.155 allows a county with a home rule charter adopted under
+section 10, Article VI of the Oregon Constitution to adopt its own rules and procedures
+related to the initiative and referendum processes.  This section 206.07 relating to the
+referendum process is based on the statutory provisions contained in ORS 250.165 to
+250.221.
+
+(b) Prospective Petition; Cover and Signature Sheet Requirements; Circulation, Filing
+Deadline.
+206.07 Elections  23E
+
+(1) Before circulating a petition to refer a county measure, the petitioner shall file
+with the County Clerk a prospective petition.  The County Clerk immediately
+shall date and time stamp the prospective petition, and specify the form on
+which the petition shall be printed for circulation.  The County Clerk shall
+retain the prospective petition. [Reference: ORS 250.165(1)]
+
+(2) The cover of a county referendum petition shall designate the name and
+residence address of not more than three persons as chief petitioners and shall
+contain instructions for persons obtaining signatures of electors on the petition
+pursuant to such instructions adopted by the Oregon Secretary of State by
+administrative rule.  The cover of the referendum petition shall be the title of
+the measure as enacted by the Board of Commissioners or, if there is no title,
+the title supplied by the petitioner filing the prospective petition.
+[Reference: ORS 250.165(2)]
+
+(3) The chief petitioners shall include with the prospective petition a statement
+declaring whether one or more persons will be paid money or other valuable
+consideration for obtaining signatures for electors on the referendum petition.
+After the prospective petition is filed, the chief petitioners shall notify the
+County Clerk not later than the 10th day after any of the chief petitioners first
+has knowledge or should have had knowledge that:
+
+A. Any person is being paid for obtaining signatures, when the statement
+included with the prospective petition declared that no such person would
+be paid; or
+
+B. No person is being paid for obtaining signatures, when the statement
+included with the prospective petition declared that one or more such
+persons would be paid. [Reference: ORS 250.165(3)]
+
+(4) Each sheet of signatures on a county referendum petition shall contain the
+number of the ordinance or resolution to be referred, if any, and the date it was
+adopted by the Board of Commissioners.  Each sheet of signatures on a county
+referendum petition shall, if one or more persons will be paid for obtaining
+signatures of electors on the petition, contain a notice stating:  “Some
+Circulators for This Petition Are Being Paid.” [Reference: ORS 250.165(4)]
+
+(5) The reverse side of the cover of a referendum petition shall be used for
+obtaining signatures on a county referendum petition.
+[Reference: ORS 250.165(5)]
+23F Elections  206.07
+
+(6) Not more than 20 signatures on the signature  sheet of the county referendum
+petition shall be counted.  The circulator shall certify on each signature sheet
+that the circulator:
+
+A. Witnessed the signing of the signature sheet by each individual whose
+signature appears on the signature sheet; and
+
+B. Believes each individual is an elector registered in the county.
+[Reference: ORS 250.165(6)]
+
+(7) As mandated by Section 28(5) of the Jackson County Charter, a county
+referendum petition approved for circulation upon an ordinance or resolution
+may not be filed for signature verification with the County Clerk more than
+sixty days after the passage of the ordinance or resolution.
+
+(8) The County Clerk may not accept for filing for signature verification any
+petition approved for circulation which has not met the provisions of
+subsection (7) of this section. [Reference: ORS 250.165(8)]
+
+(9) The person obtaining signatures on the petition shall carry at least one full and
+correct copy of the measure to be referred and shall allow any person to review
+a copy upon request of the person. [Reference: ORS 250.165(10)]
+
+(c) Preparation of Ballot Title for County Referendum Measure; Notice.
+
+(1) When a prospective petition for a county referendum measure is filed with the
+County Clerk, the County Clerk shall authorize the circulation of the petition
+containing the title of the measure as enacted by the Board of Commissioners
+or, if there is no title, the title supplied by the petitioner filing the prospective
+petition.  The County Clerk immediately shall send two copies of the
+prospective petition to the District Attorney.  [Reference:  ORS 250.175(1).]
+
+(2) Not later than the fifth business day after receiving the copies of the
+prospective referendum petition, and notwithstanding ORS 203.145(3), the
+District Attorney shall prepare a ballot title for the county referendum measure
+and return one copy of the prospective referendum petition and certify the
+ballot title to the County Clerk.  [Reference: ORS 250.175(3)(a)]
+
+(3) If the District Attorney determines that a ballot title certified under this
+subsection contains a clerical error, the District Attorney may correct the error
+and certify to the County Clerk a corrected ballot title not later than the 10th
+business day after the date the ballot title was certified.
+[Reference:  ORS 250.175(3)(b)]
+206.07 Elections  23G
+
+(4) Unless a circuit court certifies a different ballot title, the latest ballot title
+certified by the District Attorney under subsection (3) of this section is the title
+to be printed on the ballot.  [Reference:  ORS 250.175(4)]
+
+(5) As required by ORS 250.035, the ballot title of any county referendum shall
+consist of:
+
+A. A caption of not more than 10 words which reasonably identifies the
+subject of the referendum;
+
+B. A question of not more than 20 words which plainly phrases the chief
+purpose of the referendum so that an affirmative response to the question
+corresponds to an affirmative vote on the measure; and
+
+C. A concise and impartial statement of not more than 175 words
+summarizing the referendum and its major effect.
+
+(6) The County Clerk shall furnish a copy of the ballot title to the chief petitioner
+pursuant.  [Reference: ORS 250.175(3)(c)]
+
+(7) As used in this section, “clerical error” means a typographical, arithmetical or
+grammatical error or omission that is evident from the text of the certified
+ballot title or by comparison of the test of the ballot title with a written
+explanation that was provided by the District Attorney and issued concurrently
+with the certified ballot title.  [Reference:  ORS 250.175(6)]
+
+(8) Publishing Notice:
+
+A. The County Clerk, upon receiving a ballot title for a county referendum
+measure from the District Attorney, shall publish in the next available
+edition of a newspaper of general circulation in the county a notice of
+receipt of the ballot title including notice that an elector may file a
+petition for review of the ballot title not later than the seventh business
+day after the ballot title is filed with the County Clerk.
+[Reference: ORS 250.175(5)(a)]
+
+B. In addition to publishing a notice as described in paragraph (A.) of this
+subsection, the County Clerk may publish a notice on the county’s
+website for a minimum of seven days. [Reference: ORS 250.175(5)(b)]
+
+(Ord. 2013-9. Passed 10-02-13.)
+23H Elections  206.08
+
+206.08 COUNTY REFERRAL PROCESS.
+
+(a) Generally and Definition.
+
+(1) ORS 250.155 allows a county with a home rule charter adopted under section
+10, Article VI of the Oregon Constitution to adopt its own rules and procedures
+related to the referral process.  This section 206.08 relating to the referral
+process is based on the statutory provisions contained in ORS 250.165 to
+250.221.
+
+(2) A “county referral” is any action by the Board of Commissioners to place a
+measure on the ballot for electors of the county to decide.
+
+(b) Preparation of ballot title; notice.
+
+(1) When the Board of Commissioners refers a county measure to the people, a
+ballot title for the county referral measure may be prepared by the Board of
+Commissioners.  The measure and the ballot title prepared under this section
+shall be filed at the same time with the County Clerk.
+[Reference: ORS 250.185(1)]
+
+(2) If the ballot title is not prepared under subsection (1) of this section, when the
+referral measure is filed with the County Clerk, the County Clerk shall send
+two copies to the District Attorney.  Not later than the fifth business day after
+receiving the copies, the District Attorney shall provide a ballot title for the
+referral measure and send  copies of it to the Board of Commissioners and the
+County Clerk. [Reference: ORS 250.185(2)]
+
+(3) As required by ORS 250.035, the ballot title for a referral measure shall consist
+of:
+
+A. A caption of not more than 10 words which reasonably identifies the
+subject of the referral;
+
+(4) A question of not more than 20 words which plainly phrases the chief purpose
+of the referral so that an affirmative response to the question corresponds to an
+affirmative vote on the measure; and a concise and impartial statement of not
+more than 175 words summarizing the referral and its major effect.
+
+(c) Publishing Notice:
+206.09 Elections  23I
+
+(1) The County Clerk, upon receiving a ballot title for a county referral measure
+from the Board of Commissioners or District Attorney, shall publish in the
+next available edition of a newspaper of general circulation in the county a
+notice of receipt of the ballot title including notice that an elector may file a
+petition for review of the ballot title not later than the seventh business day
+after the ballot title is filed with the County Clerk.
+[Reference: ORS 250.175(5)(a)]
+
+(2) In addition to publishing a notice as described in paragraph (A.) of this
+subsection, the County Clerk may publish a notice on the County’s website for
+a minimum of seven days. [Reference: ORS 250.175(5)(b)]
+
+(Ord. 2013-9. Passed 10-02-13.)
+
+206.09 PROCEDURE TO CHALLENGE BALLOT TITLE OF COUNTY
+MEASURE.
+
+(a) Any elector dissatisfied with a county measure ballot title filed with the County
+Clerk by the District Attorney or the Board of Commissioners, may petition the Jackson
+County Circuit Court seeking a different ballot title and stating the reasons the ballot title
+filed with the court is insufficient, not concise or unfair.  The petition challenging the
+ballot title shall name as the respondent either the District Attorney or the Board of
+Commissioners, depending on who prepared the ballot title, and must be filed not later
+than the seventh business day after the ballot title is filed with the County Clerk.  The
+Jackson County Circuit Court shall review the ballot title and measure to be initiated or
+referred, hear arguments, if any, and certify to the County Clerk a ballot title for the
+measure which meets the requirements of ORS 250.035. [Reference: ORS 250.195(1)]
+
+(b) An elector filing a petition to challenge a ballot title under this section shall notify
+the County Clerk in writing that the petition challenging the ballot title has been filed in
+the Jackson County Circuit Court.  The notice shall be given not later than 5 p.m. on the
+next business day following the day the petition challenging the ballot title is filed in the
+Jackson County circuit court. [Reference: ORS 250.195(2)]
+
+(c) The review by the Jackson County Circuit Court shall be the first and final review,
+and shall be conducted expeditiously to insure the orderly and timely circulation of the
+petition or conduct of the election at which the measure is to be submitted to the electors.
+[Reference: ORS 250.195(3)]
+
+(Ord. 2013-9. Passed 10-02-13.)
+23J Elections  206.10
+
+206.10 FILING REQUIREMENTS FOR COUNTY MEASURES.
+
+(a) An initiative or referendum petition relating to a county measure shall be filed with
+the County Clerk for signature verification.  The filed petition shall contain only original
+signatures. [Reference: ORS 250.215(1)]
+
+(b) As mandated by Section 28(2) of the Jackson County Charter, a county initiative
+measure and a referendum measure may be proposed by the signatures of qualified
+County voters of a number equal to the following percentages of the total number of
+votes cast in the County for all candidates for Governor at the regular gubernatorial
+election next preceding the filing of the petition:
+
+(1) Initiative petitions – not less than six percent;
+
+(2) Referendum petitions – not less than four percent.
+
+(c) An initiative or referendum petition relating to a county measure shall not be
+accepted for filing if it contains less than 100 percent of the required number of
+signatures. [Reference: ORS 250.215(2)]
+
+(d) As mandated by Jackson County Charter Section 28(4), a county initiative petition
+must be filed for signature verification with the County Clerk at least ninety days before
+any primary or general election at which the proposed measure is to be voted upon.  In
+the event a special election is called by the Board of Commissioners, a county initiative
+petition must be filed for signature verification with the County Clerk at least ninety days
+before the special election at which the proposed measure is to be voted upon.
+
+(e) As mandated by Jackson County Charter Section 28(5), a county referendum
+petition upon an ordinance may not be filed for signature verification with the County
+Clerk more than sixty days after the passage of the ordinance.
+
+(f) As required by ORS 254.103, a county referral, including the ballot title, must be
+filed with the County Clerk no later than the 61st day before the election in which the
+Board of Commissioners intends the referral to appear on the ballot.  If the Board of
+Commissioners intends the referral to appear on the ballot of a special election, then
+pursuant to Jackson County Charter Section 28(1), a special election may not be held
+sooner than ninety days after the county referral, including the ballot title, has been filed
+with the County Clerk by the Board of Commissioners.
+
+(Ord. 2013-9. Passed 10-02-13.)
+206.12 Elections  23K
+
+206.11 WITHDRAWING COUNTY MEASURES.
+
+(a) The chief petitioners of an initiative or referendum petition may withdraw the
+petition at any time prior to the filing of the petition with the County Clerk for signature
+verification.  The withdrawal form must be in the form designed by the Oregon Secretary
+of State, signed by all of the chief petitioners and filed with the County Clerk.
+[Reference:  ORS 250.029]
+
+(b) The Board of Commissioners may withdraw a referral after filing it with the County
+Clerk not later than the 61st day before the election in which the B oard of Commissioners
+intended the referral appear on the ballot.  Referrals filed with the County Clerk by the
+Board of Commissioners to be submitted to the November election must be withdrawn
+not later than the 47th day before the November election.  [Reference:  ORS 254.103]
+
+(Ord. 2013-9. Passed 10-02-13.)
+
+206.12 DATE OF ELECTION.
+
+(a) As mandated in Section 28(1) of the Jackson County Charter, an election on a
+proposition concerning the County shall be conducted as prescribed by State law
+governing voting on such propositions, provided, however, that such an election may be
+held at a regular primary or general election or a special election called by the Board of
+Commissioners.  A special election may not be sooner than ninety days after the filing of
+the initiative or referendum petition for signature verification with the County Clerk or
+after the measure has been referred to the voters by the Board of Commissioners.
+
+(b) As mandated by Section 28(4) of the Jackson County Charter, if an initiative
+petition for a county measure contains the required number of verified signatures, the
+initiative petition may not be filed with the County Clerk less than ninety days before any
+primary or general election at which the proposed county measure is to be voted upon.  In
+the event a special election is called by the Board of Commissioners, a county initiative
+petition must be filed for signature verification with the County Clerk at least ninety days
+before the special election at which the proposed measure is to be voted upon.
+
+(c) If a referendum petition for a county measure contains the required number of
+verified signatures, the election on the county measure shall be held on the next available
+election date in ORS 203.085 that is not sooner than the 90th day after the measure was
+filed with the County Clerk; provided, however, the Board of Commissioners shall have
+exclusive discretion in determining whether to call a special election.
+[Reference: ORS 250.221 and Jackson County Charter Section 28(2).]
+
+(Ord. 2013-9. Passed 10-02-13.)
+23L Elections  206.13
+
+206.13 VOTERS’ PAMPHLETS.
+
+(a) County Voters’ Pamphlets.
+
+(1) As allowed by ORS 251.305, the County Clerk, at his or her discretion, may
+prepare and distribute a County voters’ pamphlet for any election held in
+Jackson County.  If the County Clerk prepares a County voters’ pamphlet for
+an election, it must be prepared in conformity with ORS 251.305 to 251.435.
+
+(2) If the County Clerk, at his or her discretion, prepares a County voters’
+pamphlet for any election held in Jackson County, then pursuant to ORS
+251.325, the County Clerk shall follow the Oregon Secretary of State’s
+adopted administrative rules for the schedule and procedures for preparing,
+printing and distributing a County voters’ pamphlet.  The schedule and
+procedures will include deadlines for filing material for the voters’ pamphlet.
+
+(3) As allowed by ORS 251.355(1), not later than the date specified by the Oregon
+Secretary of State by administrative rule, if the County Clerk, at his or her
+discretion, prepares a County voters’ pamphlet for any election in Jackson
+County, any person may file with the County Clerk a typewritten argument
+supporting or opposing any county measure to be submitted to the voters on
+the ballot.  Pursuant to OAR 165-022-0050, such arguments shall conform to
+ORS 251.395 and shall be limited to 325 words.
+
+(4) As mandated by ORS 251.355(1), the County Clerk may not accept any
+arguments to be published in a County voters’ pamphlet that are not
+accompanied by the fee established by the Oregon Secretary of State or a
+verified signature petition on forms prescribed by the Oregon Secretary of
+State.  A verified signature petition shall be filed with the County Clerk and
+contain the signatures of at least four percent of the electors in the County
+eligible to vote on the measure to which the argument refers, or the signatures
+of 1,000 electors in the County eligible to vote on the measure to which the
+argument refers, whichever is less.  The signatures on each verified signature
+petition shall be certified by the County Clerk in the manner provided in ORS
+249.008.
+
+(5) As allowed by ORS 251.008, the County Clerk, at his or her discretion, may
+enter into an intergovernmental agreement as provided in ORS 190.003 to
+190.130 under which the Oregon Secretary of State and the County Clerk may
+jointly produce a voters’ pamphlet for any election as provided in ORS Chapter
+251 or any other law relating to the production and distribution of a voters’
+pamphlet.
+206.13 Elections  23M
+
+(6) Notwithstanding ORS 251.358, when the Board of Commissioners refers a
+county measure and submits it to the County Clerk under ORS 254.103(2), the
+County Clerk shall not omit from the County voters’ pamphlet that county
+measure, its ballot title, explanatory statement, or any arguments supporting or
+opposing that county measure.
+
+(7) The requirements for submission of candidate portraits and statements are
+governed by ORS 251.325 and 251.335, and any administrative rules adopted
+by the Oregon Secretary of State.
+
+(8) County Voters’ Pamphlet Explanatory Statements:
+
+A. As required by ORS 251.345, not later than the date specified by the
+Oregon Secretary of State, when the County Clerk prepares a County
+voters’ pamphlet, the governing body for an electoral district that has
+referred a measure to the voters shall file with the County Clerk an
+impartial, simple and understandable statement explaining the county
+measure and its effect pursuant to ORS 251.345.  The explanatory
+statement shall be limited to 500 words pursuant to OAR 165-022-
+0040(3).  No explanatory statements shall be filed for county measures
+brought by initiative or referendum petition.
+
+B. Any elector dissatisfied with an explanatory statement filed with the
+County Clerk by the local governing body for an electoral district may
+petition the Jackson County Circuit Court seeking a different explanatory
+statement and stating the reasons the explanatory statement filed with the
+court is insufficient or unclear.  The petition challenging the explanatory
+statement shall name as the respondent the local governing body of the
+electoral district and must be filed not later than the fifth business day
+after the explanatory statement is filed with the County Clerk.  The
+Jackson County Circuit Court shall review the explanatory statement for
+the county measure referred, hear arguments, if any, and certify to the
+County Clerk an explanatory statement for the county measure which
+meets the requirements of ORS 251.345. [Reference: ORS 251.235]
+
+C. An elector filing a petition challenging an explanatory statement with the
+Jackson County Circuit Court under this section shall notify the County
+Clerk in writing that the petition has been filed.  The notice shall be given
+not later than 5 p.m. on the next business day following the day the
+petition challenging an explanatory statement is filed with the Jackson
+County Circuit Court. [Reference: ORS 251.235]
+23N Elections  206.13
+
+D. The review by the Jackson County Circuit Court shall be the first and
+final review, and shall be conducted expeditiously to insure an
+explanatory statement can be included in the County voters’ pamphlet and
+the orderly and timely conduct of the election at which the measure is to
+be submitted to the electors. [Reference: ORS 251.235]
+
+(b) State Voters’ Pamphlets.
+
+(1) If the County Clerk, at his or her discretion, chooses not to prepare and
+distribute a County voters’ pamphlet for any election in Jackson County, a
+county measure and the ballot title, explanatory statement and arguments
+relating to the measure shall be included in the State voters’ pamphlet as set
+forth in ORS 251.067.
+
+(2) As required by OAR 165-022-0040, not later than the date specified by the
+Oregon Secretary of State, when the County Clerk does not prepare a County
+voters’ pamphlet, the governing body for any electoral district that has referred
+a county measure to the voters shall file with the County Clerk an impartial,
+simple and understandable statement explaining the county measure and its
+effect.  The explanatory statement shall be limited to 500 words.  No
+explanatory statements shall be filed for county measures brought by initiative
+or referendum petition.
+
+(3) The provisions of ORS 251.205 may be applied for the drafting of an
+explanatory statement upon order of the Board of Commissioners when it
+deems it in the public interest to use the State voters’ pamphlet for an
+explanation of a county measure.  In that event, the Board of Commissioners
+shall be substituted for the Legislative Assembly and may appoint
+knowledgeable persons representing opposing viewpoints, and the County
+Clerk shall carry out all other functions designated to the Oregon Secretary of
+State.
+206.13 Elections  23O
+
+(4) Any elector dissatisfied with an explanatory statement filed with the County
+Clerk by the governing body for any electoral district or the members of the
+explanatory statement committee appointed under ORS 251.215, if the
+committee filed the explanatory statement, may petition the Jackson County
+Circuit Court seeking a different explanatory statement and stating the reasons
+the explanatory statement filed with the court is insufficient or unclear.  The
+petition challenging an explanatory statement must be filed in the Jackson
+County Circuit Court not later than the fifth business day after the explanatory
+statement is filed with the County Clerk.  The court shall review the
+explanatory statement for the county measure referred, hear arguments, if any,
+and certify to the County Clerk an explanatory statement for the county
+measure which is impartial, simple and understandable.  The petition
+challenging an explanatory statement shall name as the respondent the Board
+of Commissioners or the explanatory statement committee appointed under
+ORS 251.215, if the committee filed the explanatory statement.  At the time a
+person files a petition challenging an explanatory statement with the Jackson
+County Circuit Court, the person shall also serve a copy of that petition on:
+
+A. The governing body of the electoral district; and
+
+B. The explanatory statement committee appointed under ORS 251.215, if
+the committee filed the explanatory statement. [Reference: ORS 251.235]
+
+(5) An elector filing a petition challenging an explanatory statement under this
+section shall notify the County Clerk in writing that the petition challenging an
+explanatory statement has been filed in the Jackson County Circuit Court.  The
+notice shall be given not later than 5 p.m. on the next business day following
+the day the petition challenging an explanatory statement is filed in the Jackson
+County Circuit Court. [Reference: ORS 251.235]
+
+(6) The review by the Jackson County Circuit Court shall be the first and final
+review, and shall be conducted expeditiously to insure an explanatory
+statement can be included in the State voters’ pamphlet and the orderly and
+timely conduct of the election at which the measure is to be submitted to the
+electors. [Reference: ORS 251.235]
+
+(7) Not later than the date specified by the Oregon Secretary of State by
+administrative rule, any person may file with the County Clerk a typewritten
+argument to be included in the State voters’ pamphlet supporting or opposing
+any measure to be submitted to the voters on the ballot.  Such arguments shall
+only consist of words or numbers and shall be limited to 325 words as required
+by ORS 251.285(2)(d).
+23P Elections
+
+(8) The County Clerk may not accept any arguments to be published in a State
+voters’ pamphlet that are not accompanied by the fee established by the
+Oregon Secretary of State or a signature petition prescribed by the Oregon
+Secretary of State.  The County Clerk shall not require a person filing an
+argument to be included in the State voters’ pamphlet to pay a fee of more than
+$300.  A verified signature petition filed with the County Clerk must contain
+the signatures of at least four percent of the electors in the County eligible to
+vote on the measure to which the argument refers, or the signatures of 1,000
+electors in the County eligible to vote on the measure to which the argument
+refers, whichever is less.  The signatures on each verified signature petition
+shall be certified by the County Clerk in the manner provided in ORS 249.008.
+[Reference:  ORS 251.285(2)(e)]
+
+(9) As required by ORS 251.285(5), the County Clerk shall file the county
+measure, ballot title, explanatory statement and arguments with the Oregon
+Secretary of State not later than the 70th day before the general election or the
+68th day before a special election held on the date of any primary election.
+
+(10) The requirements for candidate portraits and statements for any county or city
+office to be included in the State voters’ pamphlet are governed by ORS
+251.067, 251.075, 251.085, 251.087, 251.095 and the administrative rules
+adopted by the Oregon Secretary of State.
+
+(Ord. 2013-9. Passed 10-02-13.)

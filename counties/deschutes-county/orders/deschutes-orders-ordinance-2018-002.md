@@ -1,0 +1,1366 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2018-002
+title: 'Ordinance No. 2018-002'
+doc_type: ordinance
+citation: 'Ordinance No. 2018-002'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617128967_2018-14-Ordinance%20No.%202018-002%20Recorded%201_8_2018.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 872db3a4ba69b0270afd2a616ab64b0a9e07d8f5e2da374a59d7ef4c5430133e
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2018-002 (Ordinance No. 2018-002)
+
+## At a glance
+
+Ordinance No. 2018-002 — orders of Deschutes County. 31 pages.
+
+## Full text
+
+REVIEWED
+LEGV
+U
+COUN SEL
+Recorded in Deschutes County CJ2018- 14Nancy Blankenship, County Clerk
+Commissioners' Journal 01/ 08/ 2018 8: 42: 55 AM
+1111111111111111111111111111
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County
+Comprehensive Plan to recognize churches are
+permitted in the Wildlife Area Combining Zone and
+Declaring an Emergency.
+ORDINANCE NO. 2018- 002
+WHEREAS, the Deschutes County Community Development Department ( CDD) initiated an
+amendment (Planning Division File No. 247 -17 -000703 -PA) to the Deschutes County Comprehensive Plan,
+Chapter 2, ResourceManagement, to permit churches in the Wildlife Area Combining Zone; and
+WHEREAS, the Deschutes County Planning Commission reviewed the proposed changes on
+September 28, 2017, and forwarded to the Deschutes County Board of County Commissioners (" Board"), a
+unanimous recommendation of approval; and
+WHEREAS, the Board considered this matter after a duly noticed public hearing on October 25, 2017,
+and concluded that the public will benefit from the proposed changesto the Deschutes County Comprehensive
+Plan; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 23. 01. 010, Introduction, is amended to read as described in Exhibit
+A," attached hereto and by this reference incorporated herein, with new language underlined and languageto
+be deleted in strilc3th: ough.
+Section 2. AMENDMENT. Deschutes County Comprehensive Plan Chapter 2, Resource
+Management, is amended to read as described in Exhibit " B," attached hereto and by this reference incorporated
+herein, with new language underlined and language to be deleted in stri'.
+Section 3. AMENDMENT. Deschutes County Comprehensive Plan Chapter 5, Supplementary
+Sections, is amended to read as described in Exhibit " C," attached hereto and by this reference incorporated
+herein, with new language underlined and language to be deleted in ctrilcethrough.
+Section 4. FINDINGS. The Board adopts as its findings Exhibit " D", and incorporated by reference
+herein.
+Section 5. EMERGENCY. This Ordinance being necessaryfor the immediate preservation of the
+public peace, health and safety, an emergency is declared to exist, and this Ordinance becomes effective on
+January25, 2018.
+PAGE 1 OF 2 - ORDINANCE NO. 2018- 002
+Dated this 3 of..... I uAP , 2018
+ATTEST:
+Recording Secretary
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+Grd ra13-
+ANT, 4I\ NY DeBONE, Chair
+PHIL G. HE IERSON, Vice Chair
+TAMMY BANEY, Conissioner
+Date of 1stReading: 3 day ofJwn, 2018.
+Date of 2ndReading: 3 dayof-®, f\ vaP 2018.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Tammy Baney C
+Anthony DeBone
+Philip G. Henderson G
+Effective date: 2.5 dayof--
+34VKANan,
+2018.
+ATTEST:
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2018- 002
+Chapter 23. 01 COMPREHENSIVE PLAN
+Chapter 23. 01 COMPREHENSIVE PLAN
+23. 01. 010. Introduction.
+A. The Deschutes County Comprehensive Plan, adopted by the Board in Ordinance 2011- 003
+and found on the DeschutesCounty Community Development Department website, is incorporated
+by reference herein.
+B. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2011- 027, are incorporated by reference herein.
+C. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2012- 005, are incorporated by reference herein.
+D. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2012-012, areincorporated by reference herein.
+E. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2012-016, areincorporated by reference herein.
+F. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2013-002, areincorporated by referenceherein.
+G. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2013-009, areincorporated by referenceherein.
+H. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2013- 012, are incorporated by reference herein.
+I. The DeschutesCounty Comprehensive Plan amendments, adoptedby the Board in Ordinance
+2013- 007, are incorporated by reference herein.
+J. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2014- 005, are incorporated by reference herein.
+K. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014-006, areincorporated by reference herein.
+L. The Deschutes County Comprehensive Plan
+2014- 012, are incorporated by reference herein.
+M. The Deschutes County Comprehensive Plan
+2014-021, areincorporated by referenceherein.
+N. The Deschutes County Comprehensive Plan
+2014- 027, are incorporated by reference herein.
+O. The Deschutes County Comprehensive Plan
+2015- 021, are incorporated by reference herein.
+P. The Deschutes County Comprehensive Plan
+2015-029, areincorporated by referenceherein.
+Q. The Deschutes County Comprehensive Plan
+2015-018, areincorporated by referenceherein.
+R. The Deschutes County Comprehensive Plan
+2015-010, areincorporated by referenceherein.
+S. The Deschutes County Comprehensive Plan
+2016- 001, are incorporated by reference herein.
+T. The Deschutes County Comprehensive Plan
+2016- 022, are incorporated by reference herein.
+U. The Deschutes County Comprehensive Plan
+2016-005, are incorporated by reference herein.
+amendments,
+amendments,
+amendments,
+amendments,
+amendments,
+amendments,
+amendments,
+amendments,
+amendments,
+amendments,
+PAGE 1 OF 2 — EXHIBIT A TO ORDINANCE 2018- 002
+adopted by the Board in Ordinance
+adopted by the Board in Ordinance
+adopted by the Board in Ordinance
+adopted by the Board in Ordinance
+adoptedby the Board in Ordinance
+adopted by the Board in Ordinance
+adopted by the Board in Ordinance
+adoptedby the Board in Ordinance
+adoptedby the Board in Ordinance
+adoptedby the Board in Ordinance
+V. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2016- 027, are incorporated by reference herein.
+W. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2016- 029, are incorporated by reference herein.
+X. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2017- 007, are incorporated by reference herein.
+Y. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2018- 002, are incorporated by reference herein.
+Ord. 2018- 002 § 1, 2018; Ord. 2017- 007 § 1, 2017; Ord. 2016- 029 § 1, 2016; Ord. 2016- 027 § 1, 2016;
+Ord. 2016- 005 § 1, 2016; Ord. 2016- 022 § 1, 2016; Ord. 2016- 001 § 1, 2016; Ord. 2015- 010 § 1, 2015;
+Ord. 2015- 018 § 1, 2015; Ord. 2015- 029 § 1, 2015; Ord. 2015- 021 § 1, 2015; Ord. 2014- 027 § 1,
+2014; Ord. 2014- 021 § 1, 2014; Ord. 2014- 12 § 1, 2014; Ord. 2014- 006 § 2, 2014; Ord. 2014- 005 § 2,
+2014; Ord. 2013- 012 § 2, 2013; Ord. 2013- 009 § 2, 2013; Ord. 2013- 007 § 1, 2013; Ord. 2013- 002 § 1,
+2013; Ord. 2013- 001 § 1, 2013; Ord. 2012- 016 § 1, 2012; Ord. 2012- 013 § 1, 2012; Ord. 2012- 005 § 1,
+2012; Ord. 2011- 027 § 1 through 12, 2011; Ord. 2011- 017 repealed; Ord. 2011- 003 § 3, 2011)
+Click here to be directed to the Comprehensive Plan ( http:// www. deschutes. org/ compplan)
+PAGE 2 OF 2 — EXHIBIT A TO ORDINANCE 2018- 002
+SCctioIA, 2. 6 Wil. dl,%fe
+Background
+Wildlife diversity is a major attraction of Deschutes County. It was mentioned in many
+Comprehensive Planmeetings in 2008 and 2009 as important to the community. Healthy
+wildlife populations are often a sign of a healthy environment for humansaswell as other
+species. The keyto protectingwildlife isprotectingthe habitatseachspeciesneedsfor food,
+water, shelter and reproduction. Also important is retaining or enhancingconnectivity between
+habitats, in order to protect migration routes and avoid isolated populations.
+Wildlife is tied to land use planning because human development impacts habitats in complex
+ways. Wildlife protections are provided by federal, state and local governments. Oregon land
+use planning protects wildlife with Statewide PlanningGoal 5, Open Spaces, Scenicand
+Historical Areas and Natural Resources and the associated Oregon Administrative Rule ( OAR)
+660- 023 ( this Rule replaced 660- 016 in 1996). Statewide Goal 5 includes a list of resources
+which each local government must inventory, including wildlife habitat.
+The process requires local governments to inventory wildlife habitat and determine which items
+on the inventory are significant. For sites identified as significant, an Economic, Social,
+Environmental and Energy (ESEE) analysisis required. The analysisleadsto one of three
+choices: preserve the resource, allow proposed uses that conflict with the resource or strike a
+balancebetween the resource and the conflicting uses. A program must be provided to protect
+the resources as determined by the ESEEanalysis.
+In considering wildlife habitat, counties rely on the expertise of the Oregon Department of Fish
+and Wildlife ( ODFW) and U. S. Fish and Wildlife Service ( USFWS). Those agencies provide
+information for the required wildlife inventory and recommendations on how to protect
+wildlife habitat on private lands. Note that this section focuses on wildlife, while fish are
+covered in the Water Resources section of this Plan.
+Wildlife Designations
+ComprehensivePlanningfor Wildlife
+Plan 2000, the Comprehensive Plan adopted in 1979, included a Fish and Wildlife Chapter with
+policies aimed at protecting wildlife. That Planalso noted the controversial nature of wildlife
+protections. To implement the Planpolicies, the Wildlife Area Combining Zone was adopted.
+This overlay zone was intended to protect identified big gamehabitat through zoning tools such
+as appropriate lot sizesand setbacks. In 1986a River Studywas completed and adopted into
+the Resource Element. Goals and policies from that study, including wildlife goals, were added
+to Plan 2000.
+As part of State mandated Periodic Review, the County took another look at wildlife
+protections to further comply with the requirements of Goal 5 and the then prevailing OAR
+660- 16. The County worked with the ODFW to obtain the most recent inventory information
+on fish and wildlife resources in the county and to identify uses conflicting with those
+resources. This information was used to update the inventories and amend the ESEE analyses.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 20I I
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 1 OF I0 - EXHIBIT B TO ORDINANCE NO. 2018- 002
+In addition, ODFW provided information to support zoning ordinance provisions to resolve
+conflicts between fish and wildlife resource protection and development. The County adopted a
+Sensitive Bird and Mammal Combining Zone which identified and protected specific bird nests
+or leks and bat hibernating or nursery sites.
+Ordinances for Compliance with Goal 5
+During periodic review in 1992, Deschutes County met the requirements of Goal 5 by:
+The adoption of Goals and Policies in Ordinance 92-040 reflecting Goal 5 requirements,
+including a Sensitive Bird and MammalCombining Zone to identify and protect specific
+bird nests or leks and bat hibernating or nursery sites;
+The adoption of Ordinance 92- 041 amended the comprehensive plan to inventory each
+Goal 5 resource, analyzeconflicting uses, and analyzethe ESEEconsequencesof protecting
+or not protecting inventoried fish and wildlife resources;
+The adoption of zoning ordinance provisions in Ordinance 92-042, as applied to
+inventoried sites by the map adopted by Ordinance 92-046.
+In 2015, the Land Conservation and Development Commission ( LCDC) adopted rules to
+Oregon Administrative Rule ( OAR) chapter 660, division 23, to establish procedures for
+considering development proposals on lands identified as Greater Sage -Grouse Area Habitat.
+Deschutes County met the requirements by:
+Adopting the 2015 Goal 5 Greater SageGrouse habitat Area Inventory Map into its
+Comprehensive Planand amendingthe Sensitive Bird and Mammal Habitat Inventory to
+remove 1990sagegrouse lek and range data by Ordinance 2015-010 (Those mapsare
+incorporated by reference herein); and,
+Adoptingsagegrouseregulationsasa Greater SageGrouseArea CombiningZone by
+Ordinance 2015- 011.
+Wildlife Snapshot 2008- 2009
+Source: CountyGISdata
+There are 816,649 acres in Deschutes County' s Wildlife Area Combining Zone.
+There are 40 sites protected by the SensitiveBird and Mammal Habitat Combining Zone.
+76% of County land is owned and managedby the Federalgovernment through the U.S.
+Forest Service and Bureau of Land Management.
+Source: Fishing, Hunting, WildlifeViewing, andShellfshingin Oregon, 2008May2009 Preparedfor
+OregonDepartmentof Fishand Wildlife by DeanRunyanAssociates
+Nearly $70 million was spent in Deschutes County on travel generated expenditures on
+wildlife viewing, fishing and hunting by people from over 50 miles away.
+Over 60% of the $ 70 million noted above was spent for wildlife viewing, with fishing
+second with nearly 30% and nearly 10% on hunting.
+Over $ 8 million in revenue from fishing, hunting and wildlife viewing camefrom people
+who live in the County or within 50 miles of the County.
+Over 60% of the $ 8 million noted above was spent on fishing, over 20% was spent on
+hunting and under 20% was spent on wildlife viewing.
+All total, over $ 78 million was spent in Deschutes County on fishing, hunting and wildlife
+viewing.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 2 OF I0 - EXHIBIT B TO ORDINANCE NO. 2018- 002
+Deer Migration Corridor
+The Bend/ La Pine migration corridor is approximately 56 miles long and 3 to 4 miles wide and
+parallelsthe Deschutes and Little Deschutes Rivers. The corridor is used by deer migrating
+from summer range in the forest along the east slope of the Cascadesto the North Paulina
+deer winter range. Deschutes County adopted a "Deer Migration Priority Area" basedon a
+1999ODFW map submitted to the South County RegionalProblem SolvingGroup. This
+specific sub - area is precluded from destination resorts.
+Deer Winter Range
+The ODFW identified the Metolius, Tumalo and North Paulinadeer winter rangesduring
+Deschutes County' s initial comprehensive plan. The boundaries of these winter rangesare
+shownon the BigGameSensitiveArea mapin the 1978ComprehensivePlanandhavebeen
+zoned with the Wildlife Combining Zone since 1979. The winter rangessupport a population of
+approximately 15,000 deer.
+In 1992, ODFW recommended deer winter range in the northeast corner of the county, in the
+Smith Rock State Park area, be included in the Deschutes County inventory and protected with
+the samemeasuresapplied to other deer winter range. This area was officially included and
+mapped on the Wildlife Combining Mapwhen Ordinance 92-040 was adopted by the Board of
+County Commissioners.
+Elk Habitat
+The Landand Resource ManagementPlanfor the Deschutes National Forest identifies 6 key
+elk habitat areas in Deschutes County. The ODFW also recognizesthese areasas critical elk
+habitat for calving, winter or summer range. The following areasare mappedon the BigGame
+Habitat Area map and in the Deschutes National Forest Land and Resource ManagementPlan:
+Tumalo Mountain
+Kiwa
+Ryan
+Crane Prairie
+Fall River
+Clover Meadow
+Antelope Habitat
+The Bend and Ochoco District offices of the ODFW provided maps of the antelope range and
+winter range. The available information is adequate to indicate that the resource is significant.
+The antelope habitat is mapped on Deschutes County' s Big Game Habitat -Wildlife Area
+Combining Zone Map.
+Sensitive Birds
+Nest sites for the northern bald eagle, osprey, golden eagle, prairie falcon, great grey owl, and
+great blue heron rookeries are inventoried in Ordinance No. 92- 041. The area required for
+each nest site varies between species. The minimum area required for protection of nest sites
+hasbeen identified by the ODFW in their managementguidelines for protecting colony nesting
+birds, osprey, eagles and raptor nests.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 201 I
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 3 OF 10 - EXHIBIT B TO ORDINANCE NO. 2018- 002
+Federal and State Wildlife Protections
+Federal Protections
+The primary federal protection for wildlife is the EndangeredSpeciesAct ( ESA), which setsthe
+preservation of biodiversity as its highest priority. Under ESA, National Oceanic Atmospheric
+Administration ( NOAA) Fisheries or the U. S. Fish and Wildlife Service ( USFWS) list species as
+threatened or endangered. ESA prohibits both federal actions that jeopardize listed species and
+private actions that result in the " taking" of listed species. Court rulings have explicitly
+determined that habitat modification can lead to a "taking," even if the modification does not
+affect a specific individual member of the species. ESA authorizes civil and criminal suits be
+brought against entities that violate its substantive or procedural provisions.
+There are two fish speciesand one bird specieslisted asfederally threatened or endangeredin
+Deschutes County. Fishare discussedunder the Water Resourcessection of this chapter and
+the bird, the Northern Spotted Owl, has not been found on private lands.
+State Protections
+It is Oregon' s policy "to prevent the serious depletion of any indigenous species" (ORS
+496. 012). The Oregon Department of Fish and Wildlife maintains a list of fish and wildlife
+speciesdetermined to be either threatened or endangeredaccording to OAR 635. When a
+speciespopulation is seriously depleted, recovery can be difficult and expensiveaswell as
+socially and economically divisive. To provide a positive approach to species conservation, a
+sensitive" species classification was created under Oregon' s Sensitive Specie Rule ( OAR 635-
+100-040). Table 2.7.1 lists speciesin Deschutes County that are listed by either federal or state
+wildlife agencies under the above mentioned laws.
+Besidesthe listings of endangered or threatened, speciescan be federally listed as candidate
+species or species of concern. State listings include threatened, critical and vulnerable. Each
+status has a definition specifying different actions.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 201 1
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 4 OF 10 - EXHIBIT B TO ORDINANCE NO. 2018- 002
+Table2. 6. 1- Special Status of Select Mammals, Birds, Amphibians, and Reptiles in
+Deschutes County 2009
+Species 1 State Status
+Mammals
+California Wolverine
+Fisher
+Fringed Myotis
+Long-eared Myotis
+Long-leggedMyotis
+Pallid Bat
+Preble' s Shrew
+Pygmy Rabbit
+Silver- haried bat
+Small - footed Myotis
+Spotted bat
+Townsends western big -eared bat
+Yuma Myotis
+Birds
+American Peregrine Falcon
+Bald Eagle
+Black Tern
+Black - backed Woodpecker
+Ferruginous Hawk
+Flammulated Owl
+Great Gray Owl
+Greater Sage Grouse
+Lewis' Woodpecker
+Loggerhead Shrike
+Long -billed Curlew
+Mountain Quail
+Northern Goshawk
+Northern Spotted Owl
+Olive - sided Flycatcher
+Pileated Woodpecker
+Swainson' s Hawk
+Western Burrowing Owl
+White - head Woodpecker
+Willow Flycatcher
+Yellow - breasted chat
+Yellow - billed cuckoo
+Amphibians and Reptiles
+Cascades Frog
+Coastal tailed frog
+Northern Sagebrush Lizard
+Oregon slender salamander
+Oregon Spotted Frog
+Western Pond Turtle
+Western Toad
+listed only for the Basinand RangeEcoregion
+Source: 2009 Interagency Report and ODFW
+Threatened
+Critical
+Vulnerable
+Vulnerable
+Vulnerable
+Vulnerable
+Vulnerable
+Vulnerable
+Critical
+Federal Status
+Species of Concern
+Species of Concern
+Species of Concern
+Species of Concern
+Species of Concern
+Species of Concern
+Species of Concern
+Species of Concern
+Species of Concern
+Vulnerable Delisted
+Threatened Delisted
+Species of Concern
+Vulnerable
+Vulnerable
+Vulnerable
+Vulnerable
+Vulnerable
+Critical
+Vulnerable
+Vulnerable
+Vulnerable
+Vulnerable
+Threatened
+Vulnerable
+Vulnerable
+Vulnerable
+Vulnerable*
+Critical
+Vulnerable
+Vulnerable
+Vulnerable
+Vulnerable
+Vulnerable
+Critical
+Critical
+Vulnerable
+DESCHUTES COUNTY COMPREHENSIVE PLAN — 201
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 5 OF 10 - EXHIBIT B TO ORDINANCE NO. 2018- 002
+Species of Concern
+Species of Concern
+Species of Concern
+Species of Concern
+Species of Concern
+Threatened
+Species of Concern
+Species of Concern
+Species of Concern
+Species of Concern
+Species of Concern
+Candidate
+Species of Concern
+Species of Concern
+Species of Concern
+Species of Concern
+Candidate
+Oregon Department of Fish and Wildlife
+Oregon Conservation Strategy
+In 2006 the Oregon Conservation Strategy (OCS) was adopted by Oregon' s Fishand Wildlife
+Commission for the state of Oregon. Wildlife and habitat issues are often crisis - driven and
+focused on individual species. The OSC is intended to provide a Tong -term, big -picture look,
+usingthe bestavailablescience, on how bestto maintainandimproveOregon's species,
+habitats and ecosystems.
+This document is not intended to be a set of regulations, but rather it presents issues,
+opportunities and recommended actions that can serve as the basis for regional collaborative
+actions. The recommendations within the OCS can be used to address species and habitat
+conservation needs, to expand existing partnerships and develop new ones, and to provide a
+context for balancingOregon' s conservation and development priorities. The future of many
+species will depend on landowners' and land managers' willingness to voluntarily take action on
+their own to improve fish and wildlife habitat.
+The OCS works by defining ecoregions and offering an overview of each region that covers a
+varietyof ecological, landuseandeconomicissues. Partsof DeschutesCountyfall into three of
+the ecoregions; East Cascade, Blue Mountains and Northern Basin and Range. For Deschutes
+Countythis documentoffersa wealthof knowledgethat canbeusedto inform fishandwildlife
+habitat policies and protect and enhance ecosystems.
+Fishand Wildlife Habitat Mitigation Policy
+The ODFW' s Fishand Wildlife Habitat Mitigation Policy provides direction for their staff to
+review and comment on projects that may impact fish and wildlife habitat. This policy
+recognizes six distinct categories of wildlife habitat rangingfrom Category I — essential, limited,
+and irreplaceable habitat, to Category 6 — low value habitat. The policy goal for Category I
+habitat is no loss of habitat quantity or quality through avoidanceof impacts by using
+development action if impacts cannot be avoided. The ODFW recommends avoidance of
+Category I habitats asthey are irreplaceable, and thus mitigation is not a viable option.
+Categories 2-4 are for essentialor important, but not irreplaceable habitats. Category 5 habitat
+is not essential or important, but has high restoration potential.
+Interagency Report
+In 2009 the USFW, ODFW, U. S. Forest Service and the Bureau of Land Management
+collaborated to provide a report on Wildlife in Deschutes County, UpdatedWildlife Information
+and Recommendationsfor the DeschutesCountyComprehensivePlanUpdate (Interagency Report).
+This report provided updated information to be used in revisingthe County Goal 5 inventory.
+This update will be done as part of the Goal 5 review as described in Section 2.4 of this Plan.
+The report also outlined numerous issues that the agencies believe are important for the
+Countyto address. The InteragencyReportgenerateddebateover how bestto protect wildlife
+while also protecting the rights of property owners. Key issuesfrom the report are touched on
+below.
+Economicbenefitsof fish and wildlife: The report notes the ODFW report by Dean Runyan
+regardingthe economicbenefitsof fishing, huntingandwildlifeviewing, includingthat Deschutes
+Countygeneratedmore freshwaterfishingrevenuethananyother countyin Oregon.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 6 OF I0 - EXHIBIT B TO ORDINANCE NO. 2018- 002
+OregonConservationStrategy: The report discussesthe Oregon Conservation Strategy described
+above and recommends that the County use it as a guide and reference for the maintenance
+and enhancement of wildlife resources.
+Threatened and Endangered Speciesand Speciesof Concern: The report recommends developing
+and adopting measuresto protect federal and state listed threatened and endangeredspeciesto
+limit conflicting use.
+Riparianand wetlandareasfor wildlifeand fish: The report recommends completing and adopting
+a Local Wetland Inventory. The current National Wetland Inventory was done at a scaleso
+that wetlands under 5 acres are not identified. Yet, those wetlands provide significant habitat.
+DeschutesCountyadopteda LocalWetland Inventoryfor SouthCounty in 2011.
+OregonSpottedFrog: The report recommends adding an Oregon Spotted Frog habitat areato
+the wildlife area combining zone and provides some specific ideasfor protecting those areas.
+The Oregon Spotted Frog can be found in the floodplains and wetlands alongthe Deschutes
+River and Little Deschutes River, south of Bend. Riverine oxbows are particularly key habitat.
+Thisfrog is listedasa FederalCandidateandStateCritical Species.
+Shrub -SteppeHabitat: The report recommends the County consider impacts to wildlife and
+habitat when development will degrade shrub - steppe habitat. Shrub - steppe habitat provides
+needed resources for numerous birds and mammals, including 12Oregon listed sensitive
+species, and one threatened species. Large blocks of un -fragmented habitat with low human
+disturbance are needed to support shrub - steppe wildlife. If avoidance of these areas is not
+possible, providing for " no net loss' and a "net benefit" ( restoration) of shrub - steppe habitat
+should be a vital component of any conservation plan.
+GreaterSageGrouse: The report provides recommendations for limiting conflicting usesnear
+sage grouse leks and habitat. The population management objective for sage -grouse in this
+region ( Prineville District), which includes portions of Deschutes and Crook counties, is to
+restore sagegrouse numbers and distribution near the 1980spring breeding population level,
+approximately 3,000 birds. Many aspectsof human development have impacted sagegrouse
+populations and can be considered conflicting uses. Conservation efforts focused on maintaining
+large expansesof sagebrushhabitat, enhancingthe quality of existing habitat, and increasing
+connections between suitable habitat patches would be most beneficial to maintaining healthy
+sage -grouse populations. Breeding and nesting habitat is particularly important becauseit is
+essential, limited and irreplaceable.
+Critical Bird and Mammal Sites: The report does not recommend additional or modification of
+existing protections for site specific sensitive bird and mammalsites, except for additional
+protections for sage grouse. The report does provide a new inventory and site specific
+recommendations that will be used to update the list of Goal 5 wildlife resources.
+Game Species: The report does not recommend changes to the existing big game winter range
+or migration corridor maps. It does recommend that the County revise the usesallowed in
+those areasto prohibit the following usesthat generate activity, noise and habitat alteration:
+Guest ranch
+Outdoor commercial events (i.e. Wedding Venues, Farmers Market)
+OHV course
+Paintball course
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 20 I
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 7 OF 10 - EXHIBIT B TO ORDINANCE NO. 2018- 002
+Shooting range
+Model airplane park
+BMX course
+In 2017. stemming from a Land Use Board of Appeals decision. Deschutes County amended its
+Wildlife Area Combining Zone to allow churches in deer winter range. elk habitat and antelope
+range. The reason for the amendment stemmed from the Religious Land Use and
+Institutionalized Persons Act of 2000 which protects individuals. houses of worship. and other
+religious institutions from discrimination in zoning laws. Deschutes County determined that
+allowing churches in the Wildlife Area Combining Zone should be allowed fully.
+Sensitive Species: Table 2.7.2 shows species considered sensitive to human disturbance. Mule
+deer are the only species in decline.
+Table 2. 7. 2 - Big Game Population Estimates, Deschutes County ( 2009)
+Species Population
+Mule Deer 9, 337*
+Elk 1,500
+Pronghorn 1,000
+Cougar ( — 150
+Black Bear ( — 150
+SilverGreySquirrelI — 800
+The management objective for the Paulinaand Upper Deschutes Wildlife Management Units, primarily
+in Deschutes County, is an April adult population of 18,7000 mule deer.
+Source: Interagency Report
+Fishand Wildlife Habitat Mitigation Policy: The Interagency Report includes one recommendation
+that is onlyfrom the ODFW. Theyrecommendthat the County require impactavoidancefor
+development that will impact Category 1 habitat and require a wildlife mitigation plan for
+development that will impact habitat Categories 2-5, to limit conflicting uses.
+The Interagency Report recommendations will be considered more closely when the Goal 5
+review is undertaken.
+Future of Wildlife and Habitat in Deschutes County
+Coordination
+Much of the wildlife habitat in Deschutes County is located on public lands. Federal landsmake
+up 76% of County landswith another 3% State or County owned. Federal landsare not subject
+to County regulation but as noted in the Forest section of this Plan, they are important
+economic generators that also contribute to the community' s quality of life, providing ample
+opportunities for wildlife viewing, fishing and hunting. It should be noted that not all federal
+lands are managed for wildlife habitat.
+Regardingpublic landsthe County' s role is to coordinate with the land managementagenciesto
+ensure development approved by the County does not impact wildlife.
+Another area for coordination is with the Trust for Public Lands ( TPL). In 2009 this non- profit
+group initiated a Greenprint effort that will identify specific areas needing protection, including
+wildlife habitat. A survey done by this organization identified protecting wildlife habitat as
+important to County residents.
+DESCHUTES COUNTY COMPREHENSIVE PLAN — 2011
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 8 OF 10 - EXHIBIT B TO ORDINANCE NO. 2018- 002
+Rural Development
+The loss of wildlife speciesand habitat may lead to declining recreational opportunities, tourist
+dollars and quality of life. Yet, many speciesare sensitive to human development, with some
+speciesbenefiting and some harmed by land disturbance. New structures or infrastructure can
+fragment habitats. Barriers such as roads, dams or housing can interfere with migration routes
+and connectivity leadingto isolated and unhealthy populations. Development can also increase
+non-native and invasivespecies. Most Deschutes County residents consider the local wildlife as
+one of the benefits of living in this region. With careful planning, many of the impacts to wildlife
+habitat can be mitigated.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 201 I
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 9 OF 10 - EXHIBIT B TO ORDINANCE NO. 2018- 002
+Sectiow 2. 0 Wil, dl,ife PoLici, es
+Goals and Policies
+Goal 1
+Policy 2.6.1
+Policy 2.6.2
+Policy 2.6.3
+Policy 2.6.4
+Policy 2.6.5
+Policy 2.6.6
+Policy 2.6.7
+Policy 2.6.8
+Goal 2
+Policy 2.6.9
+Policy 2.6.10
+Maintain and enhance a diversity of wildlife and habitats.
+Goal 5 wildlife inventories, ESEEs and programs are retained and not repealed.
+Promote stewardship of wildlife habitats and corridors, particularly those with
+significant biological, ecological, aesthetic and recreational value.
+Ensure Goal 5 wildlife inventories and habitat protection programs are up-to-
+date through public processesand expert sources, such asthe 2009 Interagency
+Report.
+Support incentives for restoring and/or preserving significantwildlife habitat by
+traditional meanssuch aszoning or innovative means, including land swaps,
+conservation easements, transfer of development rights, tax incentives or
+purchase by public or non-profit agencies.
+Assist in providing information and education on wildlife and habitat protection.
+Review the Oregon Conservation Strategy when amendingthe Wildlife section
+of this Plan.
+Use a combination of incentives, regulations and education to promote
+stewardship of wildlife habitat and addressthe impacts of development.
+Balance protection of wildlife with wildland fire mitigation on private lands in the
+designated Wildland Urban Interface.
+Promote the economic and recreational benefits of wildlife and
+habitat.
+Encourage wildlife related tourism.
+Coordinate with stakeholders to ensure access to significant wildlife and riparian
+habitat through public or non- profit ownership.
+Goal 3 Support retaining populations of Federal and State protected
+endangered species.
+Develop local approaches, in coordination with Federaland State agencies, for
+protecting Federalor StateThreatened or EndangeredSpeciesor Speciesof
+Concern.
+Policy 2.6.1I
+Policy 2.6.12 Address potential conflicts between large- scale development and sage grouse
+habitat using Ordinances Nos. 2010-010 and 2010-011, which are consistent
+with OAR 660- 023- 01 15.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 20I I
+CHAPTER 2 RESOURCE MANAGEMENT REFERENCES
+PAGE 10 OF 10 - EXHIBIT B TO ORDINANCE NO. 2017- 016
+secti, ow5. 72 Leg%stati- ve I-tistoru
+Background
+This section contains the legislative history of this Comprehensive
+Table 5. 11.1 Comprehensive Plan Ordinance History
+Date Adopted/
+Effective
+Ordinance
+2011- 003 8- 10- 1 1/ 1 1-9- 1 1
+2011- 027 10- 31- 1 1/ 11-9- 1 1
+Plan.
+Chapter/ Section Amendment
+All, except
+Transportation, Tumalo
+and Terrebonne
+Community Plans,
+Deschutes Junction,
+Destination Resorts and
+ordinances adopted in
+2011
+2. 5, 2. 6, 3. 4, 3. 10, 3. 5,
+4. 6, 5. 3, 5. 8, 5. 1 1,
+23. 40A, 23. 40B,
+23. 40. 065, 23. 01. 010
+23. 60, 23. 64 ( repealed),
+2012- 005 8- 20- 12/ 11- 19- 12 3. 7 ( revised), Appendix C
+added)
+2012- 012 8- 20- 12/ 8- 20- 12 4. 1, 4. 2
+2012- 016 12- 3- 12/ 3- 4- 13 3. 9
+2013- 002 1-7- 13/ 1-7- 13 4. 2
+2013- 009 2- 6- 13/ 5- 8- 13 1.3
+2013- 012 5- 8- 13/ 8- 6- 13 23. 01. 010
+2013- 007 5- 29- 13/ 8- 27- 13 3. 10, 3. 1 1
+Page I of 3 - EXHIBIT C TO ORDINANCE NO. 2018- 002
+Comprehensive Plan update
+Housekeeping amendments to
+ensure a smooth transition to
+the updated Plan
+Updated Transportation
+System Plan
+La Pine Urban Growth
+Boundary
+Housekeeping amendments to
+Destination Resort Chapter
+Central Oregon Regional
+Large - lot Employment Land
+Need Analysis
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan Map
+Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+Newberry Country: A Plan
+for Southern Deschutes
+County
+2013- 016 10- 21- 13/ 10- 21- 13 23. 01. 010
+2014- 005 2- 26- 14/ 2- 26- 14 23. 01. 010
+2014- 012 4- 2- 14/ 7- 1- 14 3. 10, 3. 11
+2014- 021 8- 27- 14/ 11- 25- 14 23. 01. 010, 5. 10
+2014- 021 8- 27- 14/ 11- 25- 14 23. 01. 010, 5. 10
+2014- 027 12- 15- 14/ 3- 31- 15 23. 01. 010, 5. 10
+2015- 021 11- 9- 15/ 2- 22- 16 23. 01. 010
+2015- 029 11- 23- 15/ 11- 30- 15 23. 01. 010
+2015- 018 12- 9- 15/ 3- 27- 16 23. 01. 010, 2. 2, 4. 3
+Page 2 of 3 - EXHIBIT C TO ORDINANCE NO. 2018- 002
+Comprehensive Plan Map
+Amendment, including certain
+property within City of Sisters
+Urban Growth Boundary
+Comprehensive Plan Map
+Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+Housekeeping amendments to
+Title 23.
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Sunriver Urban
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Sunriver Urban
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Agriculture to
+Rural Industrial
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Agriculture to
+Surface Mining.
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Tumalo
+Residential 5 -Acre Minimum
+to Tumalo Industrial
+Housekeeping Amendments
+to Title 23.
+Comprehensive Plan Text and
+2015- 010 12- 2- 15/ 12- 2- 15 2. 6 Map Amendment recognizing
+Greater Sage -Grouse Habitat
+Inventories
+Comprehensive Plan Map
+Amendment, changing
+2016- 001 12- 21- 15/ 04- 5- 16 23. 01. 010; 5. 10
+designation of certain
+property from, Agriculture to
+Rural Industrial ( exception
+area)
+Comprehensive Plan
+Amendment to add an
+exception to Statewide
+2016- 007 2- 10- 16/ 5- 10- 16 23. 01. 010; 5. 10 Planning Goal 11to allow
+sewers in unincorporated
+lands in Southern Deschutes
+County
+Comprehensive Plan
+Amendment recognizing non -
+2016 - 005 11- 28- 16/ 2- 16- 17 23. 01. 010, 2. 2, 3. 3 resource lands process
+allowed under State law to
+change EFUzoning
+Comprehensive plan
+2016- 022 9- 28- 16/ 11- 14- 16 23. 01. 010, 1.3, 4. 2 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+Comprehensive Plan Map
+Amendment, changing
+2016- 029 12- 14- 16/ 12/ 28/ 16 23. 01. 010 designation of certain
+property from, Agriculture to
+Rural Industrial
+Comprehensive Plan Map
+Amendment, changing
+2017- 007 10- 30- 17/ 10- 30- 17 23. 01. 010
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan
+2018- 002 1-3- 18: TBD 23. 01. 2. 6 Amendment permitting
+churches in the Wildlife Area
+Combining Zone
+Page 3 of 3 - EXHIBIT C TO ORDINANCE NO. 2018- 002
+FINDINGS
+1. SUMMARY
+Ordinance No. 2012- 004 allows agri- tourism and commercial events and activities on
+parcels zoned Exclusive Farm Use ( EFU), with a Wildlife Area Combining Zone, subject
+to time, place, and manner regulations. Deschutes County, through Ordinances Nos.
+2018- 002 and 2018- 003, is amending the Comprehensive Plan and Deschutes County
+Code ( DCC) Chapter 18.88 to permit churches in the Wildlife Area Combining Zone in
+order to comply with the Religious Land Use and Institutionalized Persons Act.
+I1. BACKGROUND
+A. Wildlife Area Combining Zone / Churches
+During periodic review, to address wildlife protection, Deschutes County adopted
+Ordinance Nos. 92- 041 and 92- 042 concurrently.' These ordinances amended the
+Wildlife Chapter of the Comprehensive Plan, and DCC 18.88, Wildlife Area Combining
+Zone. Ordinance 92- 041 adopted deer winter range, antelope and elk habitat
+boundaries based on an Economic, Social, Environmental and Energy ( ESEE) analysis.
+The conclusions, noted in Ordinance 92- 041, Exhibit A, Pages 24, 34, and 40 found that
+the identified deer winter range, elk and antelope habitat and other conflicting uses
+within their ranges are important relative to each other, and that the conflicts should be
+balanced by restricting or regulating certain uses and prohibiting others. The following
+are relevant excerpts:
+Program to Achieve the Goal ( Conserve Deer Winter Range): The Wildlife Area
+Combining Zone, Title 18.88, ( WA) is applied to all areas designated as deer
+winter range on the Big Game Habitat Wildlife Area Combining Zone Map. The
+WA zone requires a 40 acre minimum lot size for all new land divisions, prohibits
+certain conflicting uses ( i. e. golf course, churches, schools etc.), establishes
+siting and fencing standards, and requires that all land divisions in the Rural
+Residential ( RR - 10) or Multiple Use Agricultural ( MUA- 10) Zone be clustered or
+planned development.
+Program to Achieve the Goal ( Conserve Significant Elk Habitat): The WA Zone,
+Title 18. 88, will be applied to all areas identified as significant elk habitat. The
+county WA Zone has been amended to require a 160 acre minimum lot size for
+areas identified as significant elk habitat. Certain uses normally allowed in the
+underlying zones are also prohibited in the WA zone, and siting standards to
+minimize the conflict of residences with habitat protection are required.
+Program to Achieve the Goal ( Conserve Antelope Habitat): Based on the ESEE
+analysis the county finds that the uses conflicting with antelope habitat should be
+1Deschutes County completed period review on January 23, 2003.
+PAGE 1 OF 14 — EXHIBIT " D" TO ORDINANCE 2018- 002
+NQ632U630D1 CWVv1
+specifically limited by the application of the WA Zone. This zone limits specific
+conflicting uses including schools, golf courses and churches. In the antelope
+range the minimum lot size is 320 acres.
+Ordinance No. 92- 042, amended DCC 18.88 by not permitting churches as a
+conditional use in that portion of the Wildlife Area Combining Zone designated as deer
+winter ranges, significant elk habitat or antelope range. 2
+B. Wildlife Area Combining Zone / Agri - tourism and Commercial Events
+In 2011, the Oregon Legislature approved Senate Bill ( SB) 960 allowing counties to
+establish agri- tourism and other commercial events and activities that are related to and
+supportive of agriculture. In 2012, the Board of County Commissioners adopted
+Ordinance 2012- 004 providing an opportunity for agricultural enterprises to apply for a
+Limited Use Permit for agri- tourism and other commercial events and activities under
+SB 960 on properties zoned EFU. The ordinance also permitted these opportunities in
+EFU with a Wildlife Area Combining Zone, subject to time, place and manner
+regulations. DCC 18. 16. 042( C)( 13) states:
+Agri - Tourism and other Commercial Events or Activities shall not be allowed:
+a. Within the County adopted big game winter ranges during the months of
+December through March.
+b. Within the County adopted big game migration corridors during the month of April
+and during the months of October and November.
+c. Within the County adopted sensitive bird and mammal habitat areas as defined in
+DCC 18.90.020, unless a site has had no nesting attempt or the nest has failed,
+as determined by a professional wildlife biologist in May of the calendar year in
+which the application is approved unless a site has had no nesting attempt or the
+nest has failed which could be determined in May by a professional wildlife
+biologist. 3
+C. Religious Land Use and Institutionalized Persons Act ( RLUIPA)
+RLUIPA is a federal law designed to protect religious assemblies and institutions from
+zoning and historic landmark laws that substantially interfere with the assemblies' and
+institutions' religious exercise. It also protects individuals and religious institutions,
+including churches, mosques, and synagogues, in their use of land and buildings for
+religious purposes. RLUIPA was passed unanimously by Congress on July 27, 2000
+and signed into law by President Clinton on September 22, 2000.
+In a recent Land Use Board of Appeals ( LUBA) opinion reversing a Deschutes County
+Hearings Officer decision approving a church on a parcel zoned for EFU and within a
+2 Ordinance No. 92-042, Exhibit A. Page 2. DCC 18.88.040(B). Uses Permitted Conditionally. The following uses are
+not permitted in that portion of the Wildlife Area Combining Zone designated as deer winter ranges, significant elk
+habitat or antelope range as conditional uses: 3) Church.
+3 Ordinance 2012- 004, Exhibit B. Pages 7- 8.
+PAGE 2 OF 14 — EXHIBIT " D" TO ORDINANCE 2018- 002
+Wildlife Area Combining Zone, LUBA ruled that the uses listed in DCC 18.88.040( B) are
+deemed to be inherently incompatible with winter range and are uniformly prohibited on
+winter range in all cases. 4 LUBA also determined that the intervenor' s ( applicant)
+RLUIPA argument was "undeveloped".5 RLUIPA prohibits a government from imposing
+a land use regulation in a manner that treats a religious assembly or institution on less
+than equal terms with a non -religious assembly or institution.6 RLUIPA also prohibits a
+government from imposing or implementing a land use regulation in a manner that
+imposes a substantial burden on the religious exercises of a person, religious assembly
+or institution.'
+III. PROPOSED PLAN AMENDMENT
+Recognizing that Ordinance No. 2012- 004 allows agri- tourism and commercial events
+and activities in EFU with a Wildlife Area Combining Zone, subject to time, place, and
+manner regulations, Deschutes County is amending the Comprehensive Plan and Title
+18 to allow churches in the Wildlife Area Combining Zone. The purpose is to comply
+with RLUIPA. The proposed amendments to the Comprehensive Plan and DCC 18. 88
+are described in Ordinance Nos. 2018- 002, Exhibit B and Ordinance 2018- 003, Exhibit
+A, respectively. Added language is underlined and deleted shown as strikethrough
+IV. REVIEW CRITERIA
+Deschutes County lacks specific criteria in DCC Titles 18, 22, or 23 for reviewing a
+legislative plan and text amendment. Nonetheless, because this is a Deschutes County
+initiated amendment, the County bears the responsibility for justifying that the
+amendments are consistent with the Statewide Planning Goals and its Comprehensive
+Plan.
+V. FINDINGS
+A. CHAPTER 22. 12, LEGISLATIVE PROCEDURES
+1. Section 22. 12. 010.
+Hearing Required
+FINDING: The Planning Commission held a public hearing on September 28, 2017.
+The Board held a public hearing on November 6, 2017. This criterion is met.
+2. Section 22. 12. 020, Notice
+Notice
+4 Central Oregon Landwatch v. Deschutes County. LUBA No. 2016- 103. Page 23.
+5 Ibid. Page 24.
+6 42 USC section 2000cc( b)( 1).
+7 42 USC section 2000cc( a)( 1).
+PAGE 3 OF 14 — EXHIBIT " D" TO ORDINANCE 2018- 002
+A. Published Notice
+1. Notice of a legislative change shall be published in a
+newspaper of general circulation in the county at least
+10 days prior to each public hearing.
+2. The notice shall state the time and place of the hearing
+and contain a statement describing the general subject
+matter of the ordinance under consideration.
+FINDING: This criterion is met as notice was published in the Bend Bulletin newspaper
+on August 27, 2017 and October 25, 2017.
+B. Posted Notice. Notice shall be posted at the discretion of the
+Planning Director and where necessary to comply with ORS
+203. 045.
+FINDING: This criterion is met as notice was posted in the bulletin board in the lobby of
+the Deschutes County Community Development Department, 117 NW Lafayette, Bend
+as well as on the Planning Division website.
+C. Individual notice. Individual notice to property owners, as
+defined in DCC 22. 08. 010( A), shall be provided at the
+discretion of the Planning Director, except as required by ORS
+215. 503.
+FINDING: Individual notice was not initiated.
+D. Media notice. Copies of the notice of hearing shall be
+transmitted to other newspapers published in Deschutes
+County.
+FINDING: Notice was provided to the County public information official for wider media
+distribution. This criterion is met.
+3. Section 22. 12. 030 Initiation of Legislative Changes.
+A legislative change may be initiated by application of individuals
+upon payment of required fees as well as by the Board of County
+Commissioners.
+FINDING: The application was initiated by the Deschutes County Planning Division at
+the direction of the Board. This criterion is met.
+4. Section 22. 12. 040. Hearings Body
+A. The following shall serve as hearings or review body for
+legislative changes in this order:
+1. The Planning Commission.
+2. The Board of County Commissioners.
+PAGE 4 OF 14 - EXHIBIT " D" TO ORDINANCE 2018- 002
+FINDING: This criterion is met as the Planning Commission held an initial public
+hearing on September 28, 2017 followed by deliberations. The Board held its public
+hearing on November 6.
+B. Any legislative change initiated by the Board of County
+Commissioners shall be reviewed by the Planning
+Commission prior to action being taken by the Board of
+Commissioners.
+FINDING: This criterion is met as the Planning Commission public hearing preceded
+the Board public hearing.
+5. Section 22. 12. 050 Final Decision
+All legislative changes shall be adopted by ordinance
+FINDING: Land use applications 247 - 17 -000702 - TA and 247 - 17 - 000703 - PA are
+implemented by Ordinances Nos. 2018-002 and 2018-003. This criterion is met.
+B. Statewide Planning Goals
+The parameters for evaluating these specific amendments are based on an adequate
+factual base and supportive evidence demonstrating consistency with Statewide
+Planning Goals. The following findings demonstrate that Ordinances Nos. 2018- 002
+and 2018- 003 comply with applicable statewide planning goals and state law.
+Goal 1, Citizen Involvement, is met through this adoption process because
+these amendments received a public hearing before the Planning Commission
+and the Board of County Commissioners, consistent with ORS 215. 060 and DCC
+22. 12. 010.
+Goal 2, Land Use Planning, is met because ORS 197. 610 allows local
+governments to initiate post acknowledgments plan amendments ( PAPA). An
+Oregon Department of Land Conservation and Development 35 -day notice was
+initiated on August 23, 2017. 8 This FINDINGS document provides the adequate
+factual basis and documented analysis for this plan and zoning text amendment.
+Goal 3, Agricultural Lands, is met because churches are a use permitted in the
+EFU zone under ORS 215. 283( 1).
+Goal 4, Forest Lands, is not applicable because churches are not allowed in
+Deschutes County' s Forest Use zones, consistent with state law.
+Goal 5, Natural Resources, Scenic and Historic Areas, and Open Spaces:
+Local governments are required to apply Goal 5 to a PAPA when the amendment
+8 See footnote 1.
+PAGE 5 OF 14 — EXHIBIT " D" TO ORDINANCE 2018- 002
+allows a new use and the new use " could be" a conflicting use with a particular
+Goal 5 resource site on an acknowledged resource list. 9
+Economic, Social, Environmental, and Energy Analysis
+660- 23- 0030 — Inventory Goal 5 Resources
+Finding: During periodic review, to address wildlife protection, Deschutes
+County adopted Ordinance Nos. 92- 041 and 92- 042 concurrently. These
+ordinances amended the Wildlife Chapter of the Comprehensive Plan, and DCC
+18.88, Wildlife Area Combining Zone. Ordinance 92-041 adopted deer winter
+range, antelope and elk habitat boundaries based on an Economic, Social,
+Environmental and Energy ( ESEE) analysis.
+660- 023- 0250 — Applicability
+2) The requirements of this division are applicable to PAPAs initiated on or
+after September 1, 1996. OAR 660, Division 16 applies to PAPAs initiated
+prior to September 1, 1996. For purposes of this section " initiated" means
+that the local government has deemed the PAPA application to be
+complete.
+Finding: Deschutes County initiated a PAPA in 2017. This rule applies.
+3) Local governments are not required to apply Goal 5 in consideration of
+a PAPA unless the PAPA affects a Goal 5 resource. For purposes of this
+section, a PAPA would affect a Goal 5 resource only if:
+b) The PAPA allows new uses that could be conflicting uses with a
+particular significant Goal 5 resource site on an acknowledged resource
+list;
+Finding: Deschutes County is amending the Comprehensive Plan and
+Deschutes County Code ( DCC) Chapter 18.88 to permit churches in the Wildlife
+Area Combining Zone in order to comply with RLUIPA. Deschutes County is
+therefore required to apply Goal 5 in consideration of this PAPA.
+660- 23- 0040 — ESEE Decision Process
+1) Local governments shall develop a program to achieve Goal 5 for all
+significant resource sites based on an analysis of the economic, social,
+environmental, and energy ( ESEE) consequences that could result from
+a decision to allow, limit, or prohibit a conflicting use.
+a) Identify the conflicting uses;
+b) Determine the impact area;
+c) Analyze the ESEE consequences;
+9 OAR 660- 023- 0250( 3)( b)
+PAGE 6 OF 14 — EXHIBIT " D" TO ORDINANCE 2018- 002
+Finding: Deschutes County has developed a program to achieve Goal 5 for
+significant sites related to deer winter range, elk habitat, and antelope range.
+Through the findings below, Deschutes County has demonstrated that the
+requirements of each step listed in the Oregon Administrative Rule have been
+met.
+660- 023- 0040( 2)
+Identify conflicting uses. Local governments shall identify conflicting uses
+that exist, or could occur, with regard to significant Goal 5 resource sites.
+To identify these uses, local governments shall examine land uses allowed
+outright or conditionally within the zones applied to the resource site and
+in its impact area. Local governments are not required to consider allowed
+uses that would be unlikely to occur in the impact area because existing
+permanent uses occupy the site.
+Finding: The conflicting use is allowing churches within the Wildlife Area
+Combining Zone. Specifically, churches and other similar uses like agri-tourism
+and other commercial events, can but do not necessarily generate high levels of
+public activity, noise and possibly habitat alteration.
+660- 023- 0040( 3)
+Determine the impact area. Local governments shall determine an impact
+area for each significant resource site. The impact area shall be drawn to
+include only the area in which allowed uses could adversely affect the
+identified resource. The impact area defines the geographic limits within
+which to conduct an ESEE analysis for the identified significant resource
+site.
+Finding: The impact areas are the following designated Goal 5 inventories:
+winter deer range, elk habitat, and antelope range.
+660- 023- 0040( 4)
+Analyze the ESEE consequences. Local governments shall analyze the
+ESEE consequences that could result from decisions to allow, limit, or
+prohibit a conflicting use. The analysis may address each of the identified
+conflicting uses, or it may address a group of similar conflicting uses. A
+local government may conduct a single analysis for two or more resource
+sites that are within the same area or that are similarly situated and subject
+to the same zoning. The local government may establish a matrix of
+commonly occurring conflicting uses and apply the matrix to particular
+resource sites in order to facilitate the analysis. A local government may
+conduct a single analysis for a site containing more than one significant
+Goal 5 resource. The ESEE analysis must consider any applicable
+statewide goal or acknowledged plan requirements, including the
+requirements of Goal 5. The analyses of the ESEE consequences shall be
+adopted either as part of the plan or as a land use regulation.
+PAGE 7 OF 14 - EXHIBIT " D" TO ORDINANCE 2018- 002
+a) Allow the conflicting use.
+Finding: Under this scenario, Deschutes County would permit churches and
+outdoor events and activities that remove vegetation and disturb mule deer, elk,
+and antelope habitat without limitations.
+Economic consequences: Permitting churches, consistent with RLUIPA, would
+have positive consequences by allowing religious institutions, which are non-
+profits, to establish a presence in certain areas of the rural county, where they
+presently are not allowed, and to use land and buildings for religious purposes.
+Churches also provide valuable contributions to communities in the areas of
+direct economic contributions, social services and community volunteering,
+education and civic skills training. Lastly, permitting churches alleviates the risk
+that the County will be required to expend resources defending an unnecessary
+RLUIPA lawsuit.
+It could also have negative consequences based on testimony from the Oregon
+Department of Fish and Wildlife ( ODFW). In some parts of the county, mule deer
+populations may have declined up to 70% since 2000. As a result, the
+Department made adjustments to hunting seasons so as not to cause additional
+declines through harvest. Their testimony identified other elements contributing
+to reductions in mule deer populations tied to human caused habitat reduction,
+fragmentation, and disturbance on winter range. But there was testimony of other
+factors as well. ODFW estimates that hunting and wildlife viewing contributed
+more than $ 50 million to the Deschutes County economy annually, but no
+breakout was made to deer viewing or hunting.
+Social consequences: Many residents testified during the Planning Commission
+and Board of County Commissioner public hearings that permitting churches,
+consistent with RLUIPA, would have positive consequences by preventing
+discrimination on the face of zoning codes and also in the highly individualized
+and discretionary processes of land use regulation. It is also recognized that
+churches of all forms have long been recognized as central institutions within
+American life, helping provide a sense of community and moral foundation.
+Explaining why churches deserve special attention in the land use context,
+Daniel Dalton' s October 5th written comments quote RLUIPA' s co- sponsors,
+Senators Orrin Hatch and Edward Kennedy: "[ t]he right to assemble for worship
+is at the very core of the free exercise of religion. Churches and synagogues
+cannot function without a physical space adequate to their needs and consistent
+with their theological requirements. The right to build, buy, or rent such a shape
+is an indispensable adjunct of the core First Amendment right to assemble for
+religious purposes." Those foundational values have been codified in numerous
+areas of both federal and state law, including the 1st Amendment of the U.S.
+Constitution ( U. S. Const. amend. 1), the aforementioned Religious Land Use and
+Institutionalized Persons Act of 2000 ( 42 U. S. C. § 2000cc et seq.), ORS 215. 441,
+and ORS 215. 283 ( as interpreted by Brentmar v. Jackson, 321 Or 481 900 P2d
+1030 ( 1995) and Lane County v. Land Conservation & Dev. Comm' n, 325 Or
+PAGE 8 OF 14 - EXHIBIT " D" TO ORDINANCE 2018- 002
+569, 942 P2d 278 ( 1997), " subsection 1" uses — including " churches" — are
+generally allowed " as of right" even in an Exclusive Farm Use zone).
+It could also have negative consequences based on testimony from ODFW due
+to the potential loss of wildlife habitat stemming from the possible removal of
+habitat areas and potentially the construction of structures and their associated
+human presence. Many residents testified during the Planning Commission and
+Board of County Commissioner public hearings expressing their appreciation for
+wildlife habitat and the importance of protecting it as a defining feature
+contributing to Deschutes County' s quality of life.
+Environmental consequences: People testified that the actual impact on deer
+populations from new churches would be minimal. Permitting churches could
+result in further negative impacts to designated habitat for deer winter range, elk
+habitat and antelope range. Based on testimony from ODFW, mule deer
+populations have declined up to 70% since 2000. Their testimony identified other
+elements contributing to reductions in mule deer populations tied to human
+caused habitat reduction, fragmentation, and disturbance on winter range
+Enerav consequences: Energy consumption is unlikely to be affected by this
+scenario.
+b) Prohibit conflicting uses.
+Finding: In this scenario, Deschutes County would continue to prohibit churches
+within designated winter deer range, elk habitat, and antelope range.
+Economic consequences: Prohibiting churches would have negative
+consequences, not only because it prevents religious institutions from using their
+land and building for religious purposes, but it could also subject Deschutes
+County to a federal lawsuit for violating RLUIPA.
+It could also have positive consequences based on testimony from ODFW.
+Prohibiting churches could contribute to stabilizing mule deer populations,
+thereby maintaining economic benefits from wildlife viewing or hunting.
+Social consequences: Prohibiting churches would have negative consequences
+because it could be viewed as discriminating against religious exercise of
+churches or other religious assemblies or institutions in violation of RLUIPA due
+to treating them on less equal terms with nonreligious institutions.
+It could also have positive consequences. Many residents testified during the
+Planning Commission and Board of County Commissioner public hearings
+expressing their appreciation for wildlife habitat and the importance of protecting
+it as contributing to Deschutes County' s quality of life.
+Environmental consequences: This scenario would continue to prohibit churches,
+thereby preventing a use that can generate high levels of public activity, noise
+and habitat alteration.
+PAGE 9 OF 14 - EXHIBIT " D" TO ORDINANCE 2018- 002
+Enerav consequences: Energy consumption is unlikely to be affected by this
+scenario.
+c) Limit conflicting uses.
+Finding: In this scenario, habitat needs of mule deer, elk, and antelope could be
+balanced with RLUIPA requirements for allowing churches in the WA Zone.
+Economic consequences: Permitting churches subject to certain limitations,
+consistent with RLUIPA, would have positive consequences by allowing religious
+institutions, which are non - profits, to establish a presence in certain areas of the
+rural county, where they presently are not allowed and to use land and buildings
+for religious purposes. Churches also provide valuable contributions to
+communities in the areas of direct economic contributions, social services and
+community volunteering, education and civic skills training, and reduced levels of
+deviance. Lastly, permitting churches alleviates the risk that the County will be
+required to expend resources defending an unnecessary RLUIPA lawsuit.
+Any limitations imposed on churches pursuant to this option, however, could
+nevertheless still require the County to expend resources defending a lawsuit to
+demonstrate that those limitations are consistent with RLUIPA, i. e. that the
+limitations are equally imposed on nonreligious assemblies and institutions and
+that the limitations do not imposes a substantial burden on the religious exercises
+of a person, religious assembly, or religious institution. Likewise, allowing
+churches even with limitations still could also have negative consequences
+based on testimony from the Oregon Department of Fish and Wildlife ( ODFW). In
+some parts of the county, mule deer populations have declined up to 70% since
+2000. As a result, the Department made adjustments to hunting seasons so as
+not to cause additional declines through harvest. Their testimony identified other
+elements contributing to reductions in mule deer populations tied to human
+caused habitat reduction, fragmentation, and disturbance on winter range. ODFW
+estimates that hunting and wildlife viewing contributed more than $ 50 million to
+the Deschutes County economy annually.
+Social consequences: Permitting churches subject to certain limitations,
+consistent with RLUIPA, would have positive consequences by preventing
+discrimination against on the face of zoning codes and also in the highly
+individualized and discretionary processes of land use regulation. It is also
+recognized that American constitutional founders and more recently federal
+lawmakers in 2000, viewed churches as a central institution within American life,
+because religion provided the moral foundation of self- reliance and community
+awareness necessary for the success of republican self- government. Those
+cultural values have been codified in numerous areas of both federal and state
+law, including the 1stAmendment of the U.S. Constitution ( U.S. Const. amend. I),
+the aforementioned Religious Land Use and Institutionalized Persons Act of 2000
+42 U. S. C. § 2000cc et seq.), ORS 215. 441, and ORS 215. 283 ( as interpreted by
+Brentmar v. Jackson, 321 Or 481 900 P2d 1030 ( 1995) and Lane County v. Land
+Conservation & Dev. Comm' n, 325 Or 569, 942 P2d 278 ( 1997), " subsection 1"
+PAGE 10 OF 14 - EXHIBIT " D" TO ORDINANCE 2018- 002
+uses — including " churches" — are generally allowed " as of right" even in an
+Exclusive Farm Use zone).
+It could also have negative consequences based on testimony from ODFW due
+to the potential loss of wildlife habitat stemming from potentially the removal of
+hundreds of acres of habitat and construction of structures and their associated
+human presence. Many residents testified during the Planning Commission and
+Board of County Commissioner public hearings expressing their appreciation for
+wildlife habitat and the importance of protecting it as a defining feature
+contributing to Deschutes County' s quality of life.
+Environmental consequences: This scenario, while allowing churches in the deer
+winter range, elk habitat, and antelope range, could mitigate for impacts
+associated with churches and other similar uses like agri- tourism and other
+commercial events, which can generate high levels of public activity, noise and
+habitat alteration.
+Energy consequences: Energy consumption is unlikely to be affected by this
+scenario.
+660- 023- 0040( 5)
+Develop a program to achieve Goal 5. Local governments shall determine
+whether to allow, limit, or prohibit identified conflicting uses for significant
+resource sites. This decision shall be based upon and supported by the
+ESEE analysis. A decision to prohibit or limit conflicting uses protects a
+resource site. A decision to allow some or all conflicting uses for a
+particular site may also be consistent with Goal 5, provided it is supported
+by the ESEE analysis. One of the following determinations shall be reached
+with regard to conflicting uses for a significant resource site:
+a) A local government may decide that a significant resource site is of
+such importance compared to the conflicting uses, and the ESEE
+consequences of allowing the conflicting uses are so detrimental to the
+resource, that the conflicting uses should be prohibited.
+b) A local government may decide that both the resource site and the
+conflicting uses are important compared to each other, and, based on the
+ESEE analysis, the conflicting uses should be allowed in a limited way that
+protects the resource site to a desired extent.
+c) A local government may decide that the conflicting use should be
+allowed fully, notwithstanding the possible impacts on the resource site.
+The ESEE analysis must demonstrate that the conflicting use is of
+sufficient importance relative to the resource site, and must indicate why
+measures to protect the resource to some extent should not be provided,
+as per subsection ( b) of this section.
+PAGE 11 OF 14 - EXHIBIT " D" TO ORDINANCE 2018- 002
+Finding: Deschutes County has determined, consistent with subsection ( c), that
+allowing churches within a Wildlife Area Combining Zone should be allowed fully,
+notwithstanding the possible impacts on the winter deer range, elk habitat and
+antelope range.
+As previously noted, LUBA Order No. 2016- 103 interpreted the Deschutes
+County Code (" DCC"), and specifically DCC 18.88.040( B), to not allow churches
+in the portion of the Wildlife Area Overlay Zone designated as deer winter
+ranges, significant elk habitat or antelope range. Despite state statutes such as
+ORS 215. 283 and ORS 215. 441, and case law such as Brentmar v. Jackson
+County, 321 Or 481, 900 P2d 1030 ( 1995) and Lane County v. Land
+Conservation & Dev. Comm' n, 325 Or 569, 942 P2d 278 ( 1997), LUBA
+determined that " the DCC 18.88 provisions that implement Goal 5 certainly could
+limit or prohibit uses on winter range that would otherwise be authorized on
+agricultural land under ORS 215. 283( 1)."
+The Board of County Commissioners agrees with and intends for the Deschutes
+County Code to mirror the cultural values underpinning numerous religious
+protections codified in federal and state law as well as appreciation for a
+significant and heathy wildlife presence in Deschutes County. Further, the Board
+of County Commissioners does not agree with LUBA' s interpretation contained in
+Order No. 2016- 103 that churches were intended to be prohibited in the Wildlife
+Area Overlay Zone designated as deer winter ranges, significant elk habitat or
+antelope range. Last, the Board finds that LUBA' s interpretation of the
+Deschutes County Code is contrary to the Board' s intent, potentially contrary to
+aforementioned state law and the federal RLUIPA statue, and thereby exposes
+Deschutes County to unnecessary litigation and/ or legal liability.
+660- 023- 0050( 1)
+For each resource site, local governments shall adopt comprehensive plan
+provisions and land use regulations to implement the decisions made
+pursuant to OAR 660- 023- 0040( 5). The plan shall describe the degree of
+protection intended for each significant resource site. The plan and
+implementing ordinances shall clearly identify those conflicting uses that
+are allowed and the specific standards or limitations that apply to the
+allowed uses. A program to achieve Goal 5 may include zoning measures
+that partially or fully allow conflicting uses ( see OAR 660- 023- 0040( 5)( b)
+and ( c)).
+Finding: As noted above, Deschutes County has determined that allowing
+churches within a Wildlife Area Combining Zone should be allowed fully,
+notwithstanding the possible impacts on the winter deer range, elk habitat and
+antelope range. The Comprehensive Plan has been updated to reflect this
+decision.
+660- 023- 0050( 2)
+PAGE 12 OF 14 - EXHIBIT " D" TO ORDINANCE 2018- 002
+When a local government has decided to protect a resource site under OAR
+660- 023- 0040( 5)( b), implementing measures applied to conflicting uses on
+the resource site and within its impact area shall contain clear and
+objective standards. For purposes of this division, a standard shall be
+considered clear and objective if it meets any one of the following criteria:
+a) It is a fixed numerical standard, such as a height limitation of 35 feet or
+a setback of 50 feet;
+b) It is a nondiscretionary requirement, such as a requirement that grading
+not occur beneath the dripline of a protected tree; or ...
+Finding: Deschutes County has determined that allowing churches within a
+Wildlife Area Combining Zone should be allowed fully, notwithstanding the
+possible impacts on the winter deer range, elk habitat and antelope range.
+660- 023- 0050( 3)
+In addition to the clear and objective regulations required by section ( 2) of
+this rule, except for aggregate resources, local governments may adopt an
+alternative approval process that includes land use regulations that are not
+clear and objective ( such as a planned unit development ordinance with
+discretionary performance standards), provided such regulations:
+a) Specify that landowners have the choice of proceeding under either the
+clear and objective approval process or the alternative regulations; and
+b) Require a level of protection for the resource that meets or exceeds the
+intended level deter - mined under OAR 660- 023- 0040( 5) and 660- 023-
+0050( 1).
+Finding: Deschutes County has determined that allowing churches within a
+Wildlife Area Combining Zone should be allowed fully, notwithstanding the
+possible impacts on the winter deer range, elk habitat and antelope range.
+Goal 6, Air, Water and Land Resources Quality and Goal 7, Natural Hazards
+are met because the County has other code provisions pertaining to churches,
+DCC 18. 16. 025, Uses Permitted Subject to Special Provisions; 18. 116,
+Supplementary Provisions; 18. 124, Site Plan Review; and DCC 18. 128
+Conditional Use that are designed to protect air, water and land resources quality
+and to assure that they are not approved in areas subject to natural resources
+and natural hazards.
+Goal 8, Recreational Needs, is not applicable because churches are
+institutional uses, not a recreational use or need.
+Goal 9, Economic Development, is not applicable because while a church can
+lead to new construction, it is an institutional use, not a source of economic
+development by providing a multitude of jobs.
+PAGE 13 OF 14 - EXHIBIT " D" TO ORDINANCE 2018- 002
+Goal 10, Housing is not applicable because, unlike municipalities,
+unincorporated areas are not obligated to fulfill certain housing requirements.
+Goal 11, Public Facilities is not applicable because churches in the rural county
+typically rely on domestic wells and onsite wastewater treatment systems. A Goal
+11 exception would be required for a centralized sewer system.
+Goal 12, Transportation, is addressed during land use review for a church
+proposal. The County has a code provision that pertains to Traffic Impact
+Studies, DCC 18. 116. 310 and a Board Resolution, 2013- 020, which sets a
+transportation system development charge rate of $ 3, 937 per peak hour trip.
+Goal 13, Energy Conservation, is addressed during land use review for a
+church proposal through Deschutes County' s Solar Height Restrictions, DCC
+18.116. 170 and the Uniform Building Code.
+Goal 14, Urbanization, is not applicable because no expansion of an urban area
+is proposed with these amendments.
+Goals 15 through 19 are not applicable to any amendments to the County' s
+comprehensive plan because the county has none of those types of lands.
+C. Deschutes County Comprehensive Plan
+Chapter 2, Resource Management
+Section 2. 6, Wildlife Policies
+2. 6. 3 Ensure Goal 5 wildlife inventories and habitat protection programs are up-to-date
+through public processes and expert sources, such as the 2009 Interagency
+Report.
+FINDING: In a recent LUBA opinion reversing a Deschutes County Hearings Officer
+decision approving a church on a parcel zoned for EFU and within a Wildlife Area
+Combining Zone, LUBA ruled that the uses listed in DCC 18.88.040(B) are deemed to
+be inherently incompatible with winter range and are uniformly prohibited on winter
+range in all cases. LUBA also determined that the intervenor' s ( applicant) argument
+was " undeveloped." RLUIPA prohibits a government from imposing a land use
+regulation in a manner that treats a religious assembly or institution on less than equal
+terms with a non -religious assembly or institution. Based on this analysis, the following
+code amendments ensure compliance with applicable state law and RLUIPA.
+D. Additional Findings
+1 No provision in the Deschutes County Code, as currently existing or hereafter
+amended, is intended to regulate or limit religious accessory uses to a residential
+property such as "house church" activities, bible studies, scout meetings, etc.
+PAGE 14 OF 14 - EXHIBIT " D" TO ORDINANCE 2018- 002

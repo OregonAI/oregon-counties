@@ -1,0 +1,119 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-97-022
+title: 'Ordinance No. 97-022'
+doc_type: ordinance
+citation: 'Ordinance No. 97-022'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616778425_1997-09249-Ordinance%20No.%2097-022%20Recorded%203_20_1997.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 58573341cfffb4487d40512133cea59a2a591eb4c25d60c352858b832caaf40d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 97-022 (Ordinance No. 97-022)
+
+## At a glance
+
+Ordinance No. 97-022 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+9' 7- 09
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES C jT1OREGON
+97 1-t
+An Ordinance Amending Section 18.128.040 ( 0) * §,
+of Title 18 of the Deschutes County Code, As * `' CI Gt °'
+Amended, and Declaring an Emergency.
+f 5G,
+ORDINANCE NO. 97- 022
+WHEREAS, J Bar J Boys Ranch has applied for a text amendmentto Section 18.128.040(0) of
+Title 18 to establish certain minimum lot sizes for private secondary schools;
+WHEREAS, the Deschutes County Planning Commission recommended approval of the proposed
+text amendment;
+WHEREAS, a hearingwasheld, afternoticegivenin accordancewith law, beforethe Boardof
+County Commissioners;
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. Amendment. Section 18.128.040(0) of Title 18 is amendedas setforth in Exhibit A
+attachedheretoandincorporatedherein, with newlanguagesetoutunderlined, andlanguageto bedeletedin
+strike - out.
+Section 2. Severability. The provisions of this ordinance are severable. If any section,
+sentence, clauseor phraseof this ordinance is adjudgedto be invalid by a court of competentjurisdiction,
+that decision shall not affect the validity of the remaining portions of this ordinance.
+Section 3. Codification. County Legal Counselshall have the authority to format the
+provisions contained herein in a manner that will integrate them into the County Code consistent with the
+Deschutes County Form and Style Manual for Board Documents. Such codification shall include the
+authority to make such changes, to make changesin numbering systems and to make such numbering
+changes consistent with interrelated code sections. In addition, as part of codification of these ordinances,
+County Legal Counselmay insert appropriatelegislative history reference. Any legislative history
+referencesincluded herein are not adoptedas part of the substanceof this ordinance, but are included for
+administrative convenience and as a reference. They may be changedto correct errors and to conform to
+proper style without action of the Board of County Commissioners.
+Section 4. Repeal of Ordinances as Affecting Existing Liabilities. The repeal, express or
+implied, of anyordinance, ordinanceprovision, codesection, oranymaporanylineonamapincorporated
+thereinbyreference, bythisamendingordinanceshallnotreleaseorextinguishanyduty, condition, penalty,
+PAGE 1 - ORDINANCE NO. 97- 022 ( 03/ 19/ 97)
+M CRCFI ED
+MAR2,  1997
+ZR741997
+HED
+015E- 2349
+forfeiture, or liability previously incurred or that may hereafterbe incurred under such ordinance, unless a
+provision of this amending ordinance shall so expressly provide, and such ordinance repealed shall be treated
+asstill remaining in force for the purposeof sustainingany proper action or prosecution for the enforcement
+of such duty, condition, penalty, forfeiture, or liability, and for the purposeof authorizing the prosecution,
+conviction and punishment of the person or persons who previously violated the repealed ordinance.
+Section 5. Emergency. This ordinance being necessaryfor the immediate preservation of the
+public peace, health and safety, an emergencyis declared to exist, and this ordinance takes effect on its
+passage.
+DATED this _/ 63 day of 1997.
+ATTEST:
+Recording Secretary
+BOARD OF COUNTY COMMISSIONERS
+Old' DESCHUTES COUNTY, () REGON
+EN, Chair
+L. NIPPER,
+Al A L. SWEARINGEN, Commissioner
+PAGE 2 - ORDINANCE NO. 97- 022 ( 03/ 19/ 97)
+0156- 2x50
+EX MIT A
+O. Schools.
+1. Nursery schools shall provide and
+maintain at least 100 square feet of outdoor play
+area per child. A sight -obscuring fence at least
+four feet but not more than six feet high shall
+separatethe play areafrom adjoining lots.
+provide a basie. 840 area e8fisistent with
+3- 2. Secondary schools shall provide a
+ba&ie site area of 10 acres plus one additional acre
+for each 100 pupils of predicted ultimate
+enrollment.
+3. Notwithstanding subsection 2, private
+academic secondary schools with an enrollment
+of fewer than 50 students shall provide a
+minimum site area of one acre for every 10
+students of predicted ultimate enrollment, with a
+minimum site area of not less than 2 acres.
+Chapter 18. 128 1 ( 03/ 19/ 97)

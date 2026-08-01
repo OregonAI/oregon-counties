@@ -1,0 +1,984 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2014-016
+title: 'Ordinance No. 2014-016'
+doc_type: ordinance
+citation: 'Ordinance No. 2014-016'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617125125_2014-487-Ordinance%20No.%202014-016%20Recorded%2010_1_2014.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: f97843bbf97ee436a9fdb5f20e60e61dbf0993a119564a5fa7346ad3457b057d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.435
+    - ORS 696.010
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2014-016 (Ordinance No. 2014-016)
+
+## At a glance
+
+Ordinance No. 2014-016 — orders of Deschutes County. 24 pages.
+
+## Full text
+
+REVIEWED
+1014,481DESCHUTESCOUNTYOFFICIAL RECORDS
+NANCY BLANKENSHIP,  COUNTY CLERK
+011Z41408;g6;$ AML AL COUNSEL
+COMMISSIONERS JOURNAL
+114114111111111111
+Z    -
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County Code       *
+Section 19. 04. 040 and Chapter 19. 106, Reducing ORDINANCE NO. 2014- 016
+Destination Resorts Overnight Lodging Unit
+Availability Requirements.
+WHEREAS, TetherowVacationHomes, LLC appliedfor atext amendmentto DeschutesCounty Code
+DCC")  19.04.040, Definitions and 19.106, Destination Resorts, to reduce the number of weeks individually
+owned overnight units must be available to the public from 45 to 38 weeks; and
+WHEREAS, after notice was given in accordance with applicable law, a public hearing was held on July
+10, 2014, 2014, before the Deschutes County Planning Commission and, on July 10, 2014, the Planning
+Commission recommended approval of the text amendment; and
+WHEREAS, the Board of County Commissioners considered this matter after a duly noticed public
+hearing on September 15, 2014, and concluded that the proposed changes are consistent with the County' s
+Comprehensive Plan and that the public will benefit from changes to the land use regulations; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1.  AMENDMENT.  DCC 19. 04. 040, Definitions, is amended to read as described in Exhibit
+A", attachedand incorporatedby referenceherein, with new languageunderlined and deleted languageset
+forth in str- ik-etlir- eugh.
+Section 2. AMENDMENT. DCC Chapter 19. 106, Destination Resorts, is amended to read as described
+in Exhibit " B", attached and incorporated by reference herein, with new language underlined and deleted
+language set forth in ugh.
+PAGE 1 OF 2- ORDINANCE NO. 2014- 016
+Section 3.  FINDINGS.  The Board adopts as its findings in support of this decision, Exhibit " C",
+attached and incorporatedinccorporatedby referenceherein.
+Dated this OTt of lam, , 2014 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+TAMMY : • NEY, Ch. it
+TONY DeBONE, Vice Chair
+ATTEST:
+a 6114ted--
+Recording Secretary ALAN UNGER, Commissioner
+Date of
+151
+Reading: l. 4  day of 2014.
+Date of
+2nd
+Reading: 7e- day of 2014.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Alan Unger
+Tammy Baney
+Tony DeBone
+Effective date:  Zdayof , 2014.
+PAGE 2 OF 2- ORDINANCE NO. 2014- 016
+Denotes text not amended by Ordinance 2014-016
+19. 04. 040.  Definitions.
+Destination resort" means a self- contained development that provides for visitor- oriented accommodations
+and developed recreational facilities in a setting with high natural amenities.   To qualify as a " large
+destinationresort"underGoal 8,a proposeddevelopmentmustmeetthe following standards:
+A.  The resort is located on a site of 160 or more acres;
+B.  At least 50 percentof the site is dedicatedto permanentopen space, excluding yards, streets, and
+parking areas;
+C.  A least $ 7 million ( in 1993 dollars) shall be spent on improvements for on- site developed recreational
+facilities and visitor- oriented accommodations exclusive of costs for land, sewer and water facilities and
+roads. Not less than one- third of this amount shall be spent on developed recreational facilities, and;
+D.  Visitor-oriented accommodationsare provided, including meetingrooms, restaurantswith seatingfor
+100 persons and 150 separate rentable units for overnight lodgings.  Accommodations available for
+residential use shall not exceedtwo and one-half such units for each unit of overnight lodging.
+However, the overnight lodging units may be phased in as follows:
+1.  A total of 150 units of visitor- oriented overnight lodging shall be provided as follows:
+a.   At least 50 units of overnight lodging must be constructed prior to the closure of sale of
+individual lots or units a  •• ed
+and;
+b.  At least 50 of the remaining 100 required overnight lodging units must be constructed or
+guaranteed through surety bonding or equivalent financial assurance within five years of the
+initial lot sales..      -      .-   c 1y
+c__._ i'he remaining required overnight lodging units must be constructed or guaranteed through
+surety bonding or equivalent financial assuranceswithin_ 10years of the initial lot sales.
+2.  The number of units approved for residential sale within the resort shall be not more than two and
+one-half units for eachunit of permanentovernightlodging.constructedor financially assured,and;
+3..  If the developer of a resort guarantees the overnight lodging units required under subparagraphs( C)
+and ( D) of this paragraph through surety bonding or other equivalent financial assurance, the
+overnightlodgingunitsmustbeconstructedwithinfouryearsof thedateof executionof thesurety
+bond or other equivalent financial assurance.
+E.  Commercialusesallowedarelimited to thosetypesandlevelsnecessaryto meettheneedsof visitorsto
+the development. Industrial usesof any kind are not permitted.
+Overnight lodgings"  with respect to destination resorts,  means permanent,  separately rentable
+accommodations that are not available for residential use. Overnight lodgings include hotel or motel rooms,
+cabins and time- share units.  Individually-owned units may be consideredovernightlodgings if they are
+available for overnight rental use by the general public for at least 438 weeks per calendar year through a
+central reservation and=    u
+servicesystem operated by the destination resort or by a real estateproperty
+Page 1 of 1 - EXHIBIT A TO ORDINANCE 2014- 016
+3oc_ c VtF( ZSIV- 1
+I manager, as defined in ORS 696. 010.  Tent sites, recreational vehicle parks, mobile homes, dormitory
+rooms and similar accommodations do not qualify as overnight lodging for the purpose of this definition.
+I  (Ord. 2014- 016 § 1. 20E4LOrd. 2013- 013 § 1; Ord. 99- 001 §§ 2- 4, 1999; Ord. 97- 038 § 1, 1997; Ord. 97- 017
+1, 1996; Ord. 96- 071 § 1D, 1996; Ord. 95- 045 § 15, 1995; Ord. 94- 027 §§ 1 & 2, 1994; Ord. 92- 043 § 1,
+1992; Ord. 91- 029 §§ 1, 8, 9 and 10, 1991; Ord. 91- 001 § 1, 1991; Ord. 90- 038 § 1, 1990; Ord. 90- 007 § 1,
+1990; Ord. 88- 042 § 3, 1988; Ord. 86- 058 § 1, 1986; Ord. 86- 055 § 1, 1986; Ord. 86- 033 § 1, 1983; Ord. 86-
+032 § 1, 1986; Ord. 86- 017 § 1 Exhibit a, 1986; Ord. 830945 § 1, 1983; Ord. 83- 041 § 2, 1983; Ord. 80- 217 § 1
+Exhibit A, 1980)
+Page 1 of 1 - EXHIBIT A TO ORDINANCE 2014- 016
+Denotes text not amendedby Ordinance 2014-016
+19. 04. 040.  Definitions.
+Destination resort" means a self-contained development that provides for visitor- oriented accommodations
+and developed recreational facilities in a setting with high natural amenities.   To qualify as a " large
+destination resort" under Goal 8, a proposed development must meet the following standards:
+A.  The resort is located on a site of 160 or more acres;
+B.  At least 50 percent of the site is dedicated to permanent open space, excluding yards, streets, and 1
+parking areas;
+C.  A least $7 million ( in 1993dollars) shall be spenton improvementsfor on-site developedrecreational
+facilities and visitor- oriented accommodations exclusive of costs for land, sewer and water facilities and
+roads. Not lessthan one-third of this amount shall be spent on developed recreational facilities, and;
+D.  Visitor-orientedaccommodationsareprovided, includingmeetingrooms, restaurantswith seatingfor
+100 persons and 150 separate rentable units for overnight lodgings.  Accommodations available for
+residential use shall not exceedtwo and one-half such units for each unit of overnight lodging.
+However,the overnightlodgingunitsmay bephasedin asfollows:
+I.  A total of 150unitsof visitor-orientedovernightlodgingshallbeprovidedasfollows:
+a.   At least 50 units of overnight lodging must be constructed prior to the closure of sale of•
+individual lots or units    -    . :
+and;
+b.  At least50 of theremaining100requiredovernightlodgingunitsmustbe constructedor
+guaranteedthroughsuretybondingor equivalentfinancialassurancewithinfive yearsof the
+initial lot sales.  -•  -  •       :
+e.   The remainingrequiredovernight lodging units must be constructedor guaranteedthrough
+suretybondingorequivalent-financialassuranceswithin10yearsof theinitiallotsales.
+2.  The number of units approved for residential sale within the resort shall be not more than two and
+one-half unitsfor eachunit of permanentovernightlodging.constructedor financially assured,and;
+43, If thedeveloperof aresortguaranteestheovernightlodgingunitsrequiredundersubparagraphs(C)
+and (D) of this paragraphthrough surety bonding or other equivalent financial assurance, the
+overnightlodgingunits mustbeconstructedwithin four yearsof thedateof executionof the surety
+bond or other equivalent financial assurance.
+E.  Commercial usesallowed are limited to those types and levels necessaryto meet the needsof visitors to
+the development. Industrial usesof any kind are not permitted.
+Overnight lodgings"  with respect to destination resorts,  means permanent,  separately rentable
+accommodations that are not available for residential use. Overnight lodgings include hotel or motel rooms,
+cabins and time- share units.  Individually-owned units may be consideredovernight lodgings if they are
+availablefor overnightrentaluseby the generalpublic for at least45-38 weeksper calendaryearthrougha
+one or more central reservation system operated by the destination resort or by a real
+I     -.     Page 1 of 1 - EXHIBIT A TO OR.p1NANCE 2014- 016
+pc UCr2S7o
+estate property manager, as defined in () RS 696. 010.  Tent sites, recreational vehicle parks, mobile homes,
+dormitory roomsand similar accommodationsdo not qualify asovernight lodging for the purposeof this
+definition.
+I  (Ord. 2014- 016 § 1. 2014.4. Ord. 2013- 013 § 1; Ord. 99- 001 §§ 2- 4, 1999; Ord. 97- 038 § 1, 1997; Ord. 97- 017
+1, 1996; Ord. 96- 071 § 1D, 1996; Ord. 95- 045 § 15, 1995; Ord. 94- 027 §§ 1 & 2, 1994; Ord. 92- 043 § 1,
+1992; Ord. 91- 029 §§ 1, 8, 9 and 10, 1991; Ord. 91- 001 § 1, 1991; Ord. 90- 038 § 1, 1990; Ord. 90- 007 § 1,
+1990; Ord. 88- 042 § 3, 1988; Ord. 86- 058 § 1, 1986; Ord. 86- 055 § 1, 1986; Ord. 86- 033 § 1, 1983; Ord. 86-
+032§ 1, 1986; Ord. 86- 017 § 1 Exhibit a, 1986; Ord. 830945 § 1, 1983; Ord. 83- 041 § 2, 1983; Ord. 80- 217 § 1
+Exhibit A, 1980)
+Page 1 of 1 - EXHIBIT A TO ORDINANCE 2014- 016
+Chapter 19. 106.    DESTINATION RESORTS
+19. 106. 010.   Purpose.
+19. 106. 020.   Applicability.
+19. 106. 030.   Uses in Destination Resorts.
+19. 106. 040.   Application Submission.
+19. 106. 050.   Requirements for Conditional Use Permit and Conceptual Master Plan Applications.
+19. 106. 060.   Standards for Destination Resorts.
+19. 106. 070.   Approval Criteria.
+19. 106. 075.   Imposition of Conditions.
+19. 106. 080.   Procedure for Modification of a Conceptual Master Plan.
+19. 106. 090.   Requirements for Final Master Plan.
+19. 106. 100.   Procedure for Approval of Final Master Plan.
+19. 106. 110.   Provision of Streets, Utilities, Developed Recreational Facilities and Visitor- Oriented
+Accommodations.
+19. 106. 120.   Conservation Easement to Protect Resource Site.
+19. 106. 010. Purpose.
+A.  The purpose of DCC 19.106 to establish an approval process for siting destination resorts under LCDC
+Goal 8 and the Bend Urban Area General Plan on lands identified in the Bend Urban Area General Plan
+map as eligible for destination resort siting.
+B.  DCC 19.106providesfor properly designedand sited destinationresortfacilities which enhanceand
+diversify therecreationalopportunitiesandthe economyof theBendareaandDeschutesCounty. It will
+ensure resort development that compliments the natural and cultural attractiveness of the Bend area and
+its surroundings and enhances its economic base without significant adverse effect on commercial
+fanning and forestry, environmentaland natural features, cultural and historic resourcesand their
+settings and other significant resources.
+C.  It is the intent of DCC 19.106 to establish procedures and standards for developing destination resorts
+while ensuringthatall applicableBendUrbanArea GeneralPlanpoliciesareachieved.
+D.  It is the intent of DCC 19. 106 to ensure that all elements of a destination resort which are proposed are
+financially securedin a mannerwhich will protectthe public's interestshouldthe developmentnot be
+completed as proposed.
+E.  It is not the intent of DCC 19. 106 to site developments that are in effect rural subdivisions whose
+primary purpose is to serve full- time residents of the area.
+Ord. 99- 001 § 1, 1999)
+19. 106. 020. Applicability.
+A.  The provisionsof DCC 19.106shall apply to proposalsfor the developmentof destinationresorts, as
+defined in areasdesignatedby the Bend Area GeneralPlandestinationresortmap.  The provisionsof
+DCC 19.106shall not apply to any developmentproposalfor resortsiting in an areadesignatedin the
+Bend Area General Plan.
+B.  When these provisions are applicable, they shall supersede all other provisions of the underlying zone.
+Other provisions of the zoning ordinance made applicable by specific map designations such as the FP
+otherwise applicable under the terms of the zoning ordinance text shall remain in full force and effect,
+unless otherwise specified herein.
+C.  The provisionsof DCC 19.106shall alsoapplyto destinationresortssitedthroughthe Goal 2 exception
+process.
+Ord. 99- 001 § 1, 1999)
+Page 1 of 13 - EXHIBIT B TO ORDINANCE 2014- 016
+19. 106. 030. Uses in Destination Resorts.
+The following uses are allowed, provided they are part of and are intendedto serve personsat the
+destination resort pursuant to DCC 19. 106. 030 and are approved in a final master plan:
+A.  Visitor- oriented accommodations designed to provide for the needs of visitors to the resort:
+1.  Overnightlodging, including lodges, hotels, motels, bed and breakfastfacilities, time shareunits
+and similar transient lodging facilities;
+2.  Convention and conference facilities and meeting rooms;
+3.  Retreat centers;
+4.  Restaurants,lounges and similar eating and drinking establishments; or
+5.  Other similar visitor- oriented accommodations consistent with the purposes of DCC 19. 106 and
+Goal 8.
+B.  Developed recreational facilities designed to provide for the needs of visitors and residents of the resort
+including:
+1.  Golf courses and clubhouses;
+2.  Indoor and outdoor swimming pools;
+3.  Indoor and outdoor tennis courts;
+4.  Physical fitness facilities;
+5.  Equestrian facilities;
+6.  Wildlife observation shelters;
+7.  Walkways, bike paths,jogging paths, equestrian trails; or
+8.  Other similar recreational facilities consistent with the purposes of DCC 19. 106 and Goal 8.
+C.  Residential accommodations:
+1.  Single-family dwellings;
+2.  Duplexes, triplexes, fourplexes and multi- family dwellings;
+3.  Condominiums;
+4.  Townhouses;
+5.   Living quarters for employees; or
+6.  Time share projects,
+D.  Commercialservicesandspecialtyshopsdesignedto providefor thevisitorsto theresort:
+1.  Specialty shopsincluding, but not limited to delis, clothing stores, book stores, gift shopsand
+specialty food shops;
+2.  Barber shops and beauty salons;
+3.  Automobile service stations limited to fuel sales, incidental parts sales and minor repairs;
+4.  Craft and art studios and galleries;
+5.  Real estate offices;
+6.  Convenience stores; or
+7.  Other similar commercial services which provide for the needs of resort visitors and are consistent
+with the purposes of DCC 19. 106 and Goal 8.
+E.  Uses permitted in open spaceareasgenerally include only those usesthat, except as specified herein, do
+not alter the existing or natural landscape of the proposed open space areas.  No improvements,
+development or other alteration of the natural or existing landscape shall be allowed in open spaceareas,
+exceptas necessaryfor developmentof golf coursefairways and greens, hiking and bike trails, lakes
+and ponds and primitive picnic facilities including park benches and picnic tables.  Where fanning
+activities would be consistentwith identified pre-existing open spaceuses, irrigation equipmentand
+associatedpumping facilities shall be allowed.
+F.  Facilitiesnecessaryfor public safetyandutility servicewithin the destinationresort.
+G.  Other similar usespermitted in the underlying zone consistent with the purposes of DCC 19.106.020.
+H.  Accessory usesin destination resorts:
+1.  The following accessory usesshall be permitted provided they are ancillary to the destination resort
+and consistent with the purposes of DCC 19. 106 and Goal 8:
+a.  Transportation- related facilities excluding airports;
+b.  Emergency medical facilities;
+Page 2 of 13 - EXHIBIT B TO ORDINANCE 2014- 016
+c.   Storage structures and areas;
+d.  Kennels as a service for resort visitors only;
+e.   Recyclingandgarbagecollectionfacilities; or
+f.   Othersimilar accessoryusesareconsistentwith thepurposesof DCC 19.106andGoal 8.
+Ord. 99- 001 § 1, 1999)
+19. 106. 040. Application Submission.
+The authorization of a permit for a destination resort shall consist of three steps.
+A.  Conceptual master plan and conditional use permit for destination resort.  A conceptual master plan
+CMP) shall be submitted which addresses all requirements established in DCC 19. 106.040. The CMP
+application shall be processed as if it were a conditional use permit under DCC Title 22 and DCC
+19. 100, and shall be reviewed for compliance with the standards and criteria set forth in DCC 19. 106.
+B.  Final master plan.   The applicant shall prepare a final master plan ( FMP) which incorporates all
+for the CMP.  The Planningof the County approval g Director shall review the FMP to
+determine if it complies with the approved CMP and all conditions of approval of the conditional use
+permit.  The Planning Director shall have the authority to approve, deny or return the FMP to the
+applicant for additional information.  When interpretations of the Planning Director involve issues
+which are discretionary, the FMP approval shall be treated as a land use permit in accordance with DCC
+Title 22.
+C.  Site plan review. Each element or development phase of the destination resort must receive additional
+site plan review and approval pursuant to DCC 19.76 or subdivision review and approval pursuant to
+DCC Title 17.  In addition to findings satisfying the site plan or subdivision criteria, findings shall be
+made that the specific development proposal complies with the standards and criteria of DCC 19. 106
+and the FMP.
+Ord. 99- 001 § 1, 1999)
+19. 106. 050. Requirements for Conditional Use Permit and Conceptual Master Plan Applications.
+The CMP provides the framework for development of the destination resort and is intended to ensure that
+the destination resort meets the requirements of DCC 19. 106.  The CMP application shall include the
+following information:
+A.  Illustrations and graphics to scale, identifying:
+1.  The location and total number of acres to be developed as a planned destination resort;
+2.  The subject area and all land uses adjacent to the subject area;
+3.  The topographic character of the site;
+4.  Types and general location of proposed development uses, including residential and commercial
+uses;
+5.  Major geographic features;
+6.  Proposed methods of accessto the development, identifying the main vehicular circulation system
+within the resort and an indication of whether streets will be public or private;
+7.  Major pedestrian, equestrian and bicycle trail systems;
+8.  Important natural features of the site, including habitat of threatened or endangered species,streams,
+rivers, wetlands and riparian vegetation within 200 feet of streams, rivers and wetlands.
+9.  The location and number of acres reserved as open space, buffer area or common area.  Areas
+designated as " open space," " buffer area" or " common area" should be clearly illustrated and
+labeled as such;
+10. All proposed recreational amenities;
+11. Proposed overall density.
+B.  Further information as follows:
+1.  A description of the natural characteristics of the site and surrounding areas, including a description
+of resources and the effect of the destination resort on the resources; methods employed to mitigate
+adverse impacts on resources; analysis of how the overall values of the natural features of the site
+Page 3 of 13 - EXHIBIT B TO ORDINANCE 2014- 016
+II
+will be preserved, enhanced or utilized in the design concept for the destination resort; and a
+proposed resource protection plan to ensure that important natural features will be protected and
+maintained. Factors to be addressed include:
+a.  Compatibilityof soil compositionfor proposeddevelopment(s)andpotentialerosionhazard;
+b.  Geology, including areasof potential instability;
+c.   Slope and general topography;
+d.  Areas subject to flooding,
+e.   Other hazards or development constraints;
+f.   Vegetation;
+g.  Waterareas,includingstreams,lakes,pondsandwetlands;
+h.  Important natural features;
+i.   Wildlife.
+2.  A traffic studywhich addresses(a) impactson affectedcounty, city andstateroadsystems; and (b)
+transportationimprovementsnecessaryto mitigateany suchimpacts. The studyshallbesubmitted
+to the affectedroadauthorityat the sametime asthe conceptualmasterplan andshallbe prepared
+by a licensed traffic engineer to the minimum standards of the road authorities.
+3.  A description of how the proposed destination resort will satisfy the standards and criteria of DCC
+19. 106. 060 and 19. 106. 070.
+4.  Design guidelines and development standardsdefining visual and aesthetic parameters for:
+a.   Building character;
+b.  Landscape character;
+c.   Preservation of existing topography and vegetation;
+d.  Siting of buildings; and
+e.   Proposed standards for minimum lot area, width, frontage, lot coverage, setbacks and building
+heights.
+5.  An open space management plan which includes:
+a.   An explanation of how the open space management plan meets the minimum standards of DCC
+19. 106 for each phase of the development;
+b.  An inventoryof the importantnaturalfeaturesidentifiedin the openspaceareasandany other
+open space and natural values present in the open space;
+c.   A set of management prescriptions that will operate to maintain and conserve in perpetuity any
+identified important natural features and other natural or open space values present in the open
+space;
+d.  Deed restrictions that will assure that the open space areas are maintained as open space in
+perpetuity.
+6.  An explanation of public use of facilities and amenities on the site.
+7.  A descriptionof the proposedmethodof providing all utility systems, including the location and
+sizing of the utility systems;
+8.  A descriptionof the proposedorderandschedulefor phasing, if any, of all developmentincluding
+an explanation of when facilities will be provided and how they will be secured if not completed
+prior to closure of sale of individual lots or units;
+9.  An explanation of how the destination resort has been sited or designed to avoid or minimize
+adverse effects or conflicts on adjacent lands.  The applicationshall identify the surroundinguses
+and potential conflicts between the destination resort and adjacent uses within 660 feet of the
+boundaries of the parcel or parcels upon which the resort is to be developed. The application shall
+explain how any proposed buffer areawill avoid or minimize adverse effects or conflicts;
+10. A description of the proposed method for providing emergency medical facilities and services and
+public safety facilities and services including fire and police protection;
+11. Unless the destination resort is proposing to utilize municipal water, the application shall include a
+study prepared by a hydrologist, engineering geologist or similar professional certified in the State
+of Oregon describing:
+Page 4 of 13 - EXHIBIT B TO ORDINANCE 2014- 016
+a.   An estimate of water demands ( other than municipal water) for the destination resort at
+maximumbuildout, includinga breakdownof estimateddemandby categoryof consumption,
+includingbut not limitedto, residential,commercial,golf coursesandirrigatedcommonareas;
+b.  Availability of water (other than municipal water) for estimateddemandsat the destination
+resort, including ( 1) identification of the proposed source; ( 2) identification of all available
+information on ground and surface waters relevant to the determination of adequacy of water
+supplyfor the destinationresort;(3) identificationof theareathatmay bemeasurablyimpacted
+by the water usedby the destinationresort(water impactarea) andan analysissupportingthe
+delineation of the impact area; and( 4) a statistically valid sampling of domestic and other wells
+within the impact area;
+c.   A water conservation plan including an analysis of available measures which are commonly
+used to reduce water consumption.  This shall include a justification of the chosen water
+conservation plan.  The water conservation plan shall include a waste water disposal plan
+utilizing beneficial use of reclaimed water to the maximum extent practicable unless the
+destination resort proposes to utilize city sewer services.
+For the purposes of DCC 19. 106.050, beneficial uses shall include, but are not limited to:
+i.   Irrigation of golf courses and greenways;
+ii.  Establishment of artificial wetlands for wildlife habitation.
+d.  A water service agreementwith the city of Bend, if municipal water is proposedfor the
+destination resort.
+12. An erosioncontrol plan for all disturbedland, asrequiredby ORS Chapter468B.  This plan shall
+include storm and melt water erosion control to be implemented during all phases of construction
+and permanent facilities or practices for the continuing treatment of these waters.  This plan shallP P g P
+also explain how the water shall be usedfor beneficial useor why it cannot be used as such;
+13. A description of proposed sewage disposal methods or a sewer service agreement with the city of
+Bend;
+14. Wildfire prevention, control and evacuation plans;
+15. A description of interim development including temporary structures related to sales and
+development;
+16. Plans for owners' associations and related transition of responsibilities and transfer of property;
+17. A description of the methods of ensuring that all facilities and common areaswithin each phase will
+be established and will be maintained in perpetuity;
+18. A survey of housing availability for employees based upon income level and commuting distance;
+19. An economic impact and feasibility analysis of the proposed development prepared by a qualified
+professional economist( s) or financial analyst( s) shall be provided which includes:
+a.   An analysis which addressesthe economic viability of the proposed development;
+b.  Fiscal impacts of the project, including changes in employment, increased tax revenue,
+demands for new or increased levels of public services, housing for employees and the effects
+of loss of resource lands during the life of the project.
+20. A solid waste management plan;
+I
+and check in service; Ratio Compliance
+a.._...._.A description of the mechanism to be used to ensure that the destination resort provides an
+adequate supply of overnight lodging units to maintain compliance with the 150-unit minimum
+and the 2. 5: 1 ratio set forth in DCC 19. 106. 060( D)( 2).
+b.  The mechanism shall meet the requirements of DCC 19. 106. 060( J);
+22. A survey of historic and cultural resources inventoried on an acknowledged Goal 5 inventory;
+23. Other information as may reasonably be required by the Planning Director to address the effect of
+the proposed development as related to the requirements of this ordinance.
+Page 5 of 13 - EXHIBIT B TO ORDINANCE 2014- 016
+Ord. 2014- 016§ 2, 2014; Ord. 99- 001 § 1, 1999)
+19. 106. 060.   Standards for Destination Resorts.
+The following standardsshall govern consideration of destination resorts:
+A.  The destination resort shall, in the first phase,provide for and include as part of the CMP the following
+minimum requirements:
+1.  At least 150 separaterentable units for visitor- oriented lodging;
+a.   The first 50 overnight lodging units must be constructed prior to the closure of sales, rental or
+leaseof anyresidentialdwellingsor lots.
+b.  The resort may elect to phasein the remaining 100overnight lodging units as follows:
+i.   At least 50 of the remaining 100 required overnight lodging units shall be constructed or
+guaranteed through surety bonding or equivalent financial assurancewithin 5 years ofthe
+closure of sale of individual lots or units, and;
+ii.   The remaining 50 required overnight lodging units shall be constructed or guaranteed
+through surety bonding or equivalent financial assurancewithin 10 years of the closure of
+sale of individual lots or units.
+iii. If the developer of a resort guarantees a portion of the overnight lodging units required
+under subsection 19.106.060(A)( 1)(b) through surety bonding or other equivalent financial
+assurance, the overnight lodging units must be constructed within 4 years of the date of
+execution of the surety bond or other equivalent financial assurance.
+iv. The 2.5:1 accommodationratio requiredby DCC. 19.1.06.060(D)(2) must be maintainedat
+all times.
+c.   If a resort does not chose to phase the overnight lodging units as described in
+1.8.113.060(A)( 1.)(b), thenthe required150unitsof overnightlodgingmustbeconstructedprior
+to the closure of sales, rental or lease of any residential dwellings or lots.
+2.  Visitor-orientedeatingestablishmentsfor at least 100personsand meetingroomswhich provide
+seatingfor atleast100persons;
+3.  The aggregate cost of developing the overnight lodging_facilities. developed recreational facilities,
+and the eating establishments and meeting rooms shall be at least5 7,000.000( in 1993dollars).
+34. At least $ 2,333,333 of the $7.000,000 (in 1993dollars) total minimum investmentrequiredby
+DCC19.106.060(A)(3)shallbespentondevelopedrecreationalfacilities.
+Not less than one third of this amount shall be spen  .
+1°
+and
+45. The facilities and accommodations required by this DCC 19.106.060 must be physically provided
+or financiallyassuredpursuantto DCC19.106.110priorto closureof sales, rentalor leaseof any
+residential dwellings or lots.
+B.  All destinationresortsshallhavea minimum of 160contiguousacresof land. Acreagesplit by public
+roads or rivers or streams shall count toward the acreage limit, provided that the CMP demonstrates that
+the isolated acreage will be operated or managed in a manner that will be integral to the remainder of
+the resort.
+C.  All destinationresortsshallhavedirectaccessonto a state, county,or city arterialor collectorroadway,
+as designated by the Bend Urban Area General Plan.
+D.  A destinationresortshall,cumulativelyandfor eachphase,meetthefollowing minimumrequirements:
+1.  The resort shall have a minimum of 50 percent of the total acreage of the development dedicated to
+permanent open space,excluding yards, streetsand parking areas. Portions of individual residential
+lots and landscape area requirements for developed recreational facilities,  visitor- oriented
+Page 6 of 13 - EXHIBIT B TO ORDINANCE 2014- 016
+accommodationsor multi-family or commercialusesestablishedby DCC 19.76.080 shall not be
+considered open space; and
+2.   Individually-ownedresidentialunits that do not meetthe definition of overnight lodging in DCC
+19.04. 040 shall not exceed two and one- half such units for each unit of visitor- oriented overnight
+lodgingconstructedor financially assuredwithin theresort.
+3,   Individually-ownedunits shall be consideredvisitor-orientedlodgingif they are availablefor
+overnight rental use by the general public for at least 43--38 weeks per calendar year through a one
+or morecentralreservationandcheckin scrvice(s). systemoperatedby the destinationresortor by
+a real estateproperty manager, as defined in ORS 696.010.
+a. 4.       The residential unit to overnight lodging unit- ratio applies to destination resorts which.
+were previously approved under a different standard.
+E.  Phasing. A destination resort authorized pursuant to DCC 19.106.060 may be developed in phases. If a
+proposed resort is to be developed in phases, each phase shall be as described in the CMP.  Each
+individual phaseshall meet the following requirements:
+1.   Eachphase, togetherwith previouslycompletedphases, if any, shall be capableof operatingin a
+manner consistent with the intent and purpose of DCC 19. 106 and Goal 8;
+2.  The first phaseand eachsubsequentphaseof the destinationresort shall cumulativelymeetthe
+minimum requirements of DCC 19. 106. 060 and DCC 19. 76. 070, and;
+3.   Eachphasemayincludetwo or moredistinctnon-contiguousareaswithin the destinationresort.
+F.  Dimensional standards:
+1.  The minimum lot area, width, lot coverage, frontageandyard requirementsand building heights
+otherwise applying to structures in underlying zones and the provisions of DCC 19.88.210 relating
+to solaraccessshallnot applywithin a destinationresort.
+a.   These standards shall be determined by the Planning Director or Hearings Body at the time of
+the CMP.
+b.  In determining these standards, the Planning Director or Hearings Body shall find that the
+minimum specifiedin the CMP are-is adequateto satisfythe intentof theBendUrbanAreaGeneral
+Plan relating to solar access, fire protection, vehicle access, and to protect resources identified by
+LCDC Goal 5 which are identified in the Bend Urban Area General Plan.
+c.   At a minimum, a 100 foot setback shall be maintained from all streams and rivers. No lot for a
+single-family residence shall exceed an overall project averageof 22,000 square feet in size.
+2.  Exterior setbacks and buffers.
+a.   A destination resort shall provide for the establishment and maintenance of buffers between the
+resort and adjacent land uses, including natural vegetation and where appropriate, fences,
+berms, landscaped areas, and other similar types of buffers.
+b.  Exterior setbacks shall also be provided to ensure that improvements and activities are located
+to minimize adverse effects of the resort on useson surrounding lands.
+G.  Floodplain requirements.  The Flood Plain Zone ( FP) requirements of DCC 19.72 shall apply to all
+developedportionsof a destinationresortin an FP Zone in addition to any applicablecriteria of DCC
+19. 106.  Except for flood plain areas which have been granted an exception to LCDC goals 3 and 4,
+Flood Plain Zonesshall not be consideredpart of a destinationresortwhen determiningcompliance
+with the following standards;
+1.  One hundred sixty acre minimum site;
+2.  Open space requirements.
+A conservationeasementasdescribedin DCC Title 19shallbeconveyedto theCountyfor all areas
+within a flood plain which are part of a destination resort.
+H.  Excavation, gradingandfill andremovalwithin the bedandbanksof a streamor river or in a wetland
+shall be a separate conditional use subject to all pertinent requirements of DCC Title 19.
+I.   Time shareunits not includedin the overnight lodging calculationsshall be subjectto approvalunder
+the conditional use criteria set forth in DCC 19. 100.   Time share units identified as part of the
+destination resort's overnight lodging units shall not be subject to the time share conditional use criteria
+of DCC 19. 100.
+Page 7 of 13 - EXHIBIT B TO ORDINANCE 2014- 016
+J.   Theovernightlodgingcriteria shallbemet, includingthe 150-unit minimumandthe2-1/2 to 1ratio set
+forth in DCC 19. 106. 060( D)( 2)..
+1 _ Failure of the approved destination resort to comply, with the requirements in DCC 19.106.060(J)(2)
+through ( 6) will result in the County declining to accept or process any further land use actions
+associated with any part of the resort and the County shall not issue any permits associated with any
+lots or site planson any part of the resortuntil proof is providedto the Countyof compliancewith
+those conditions.
+2.  Eachresortshallcompile,andmaintain, in perpetuity,a list of all overnightlodgingunits.
+a.   The list shallidentify eachindividually-ownedunit thatis countedasovernightlodging,
+b.  At all times,at leastoneentity shallberesponsiblefor maintainingtheregistryandfulfilling the
+reporting requirements of DCC 19.106.060(J)(2) through( 6).
+c.   Initially, theresortmanagementshallberesponsiblefor compilingandmaintainingtheregistry,,
+d.  As a resortdevelops, the developershall transferresponsibilityfor maintainingthe registryto
+the homeownerassociation(s). The termsand timing of this transfershall be specifiedin.the
+Conditions, Covenants& Restrictions(CC&Rs).
+e.   Resort managementshall notify the County prior' to assigningthe registry to a homeowner
+association.
+f.   Each resort shall maintain records documenting its rental program related to overnight lodging
+unitsat a convenientlocationin DeschutesCounty,with thoserecordsaccessibleto theCounty
+upon 72 hour notice from the County.
+g.   As used in this section, " resort management" includes, but is not limited to, the applicant and
+the applicant' s heirs, successors in interest, assignees other than a home owners association.
+3,  An annual report shall be submitted to the Planning Division by the resort management or home
+owners association(s) each February I, documenting all of the following as of December 31 of the
+previous year:
+a.   The minimum of 150,permanent units of overnight lodging have been constructed or that the
+resort is not yet required to have constructed the 150 units;
+b.  The number of individually- owned residential platted lots and the number of overnight- lodging
+un its;
+c.   The ratio between the individually- owned residential_.platted lots and the overnight lodging
+units:
+d.  The following information on each individually- owned residential unit counted as overnight
+lodging.
+i.   Who the owner or owners have been over the last year;
+How many nights out of the year the unit was available for rent;
+iii. How many nights out of the year the unit was rented out as an overnight Iodgj ;, facility
+under DCC 19. 106;
+iv.  Documentation showing that these units were available for rental as required.
+e.   This information shall be public record subject to ORS 192. 502( 17).
+4.  To facilitate rentalto the generalpublic of the overnight lodgingunits, eachresortshall setup and
+maintain in perpetuity a telephone reservation system,
+5.  Any outside property managers renting required overnight lodging units shall be required to
+cooperate with the provisions of this code and to annually provide rental information on any
+required overnight lodging units they represent to the person or entity responsible for maintaining
+the registry described in DCC 19.106.060(J)(2).
+6.  Before approval of each final plat, all the followir shallbe_ provided:
+a.   Documentation demonstrating compliance with the 2- 1/2 to 1 ratio as defined in DCC
+19. 106. 060( D)( 2):
+b.   Documentation on all individually- owned residential units counted as overnight lodging;,
+including all of the following:
+i.   Deed restrictions, that may be in the form of, but is not limited to, conditions of approval
+agreements, requiring the individually- owned residential units designated as overnight
+Page 8 of 13 - EXHIBIT B TO ORDINANCE 2014- 016
+lodging units to be available for rental at least 38 weeks eachyear through a central
+reservationserviceoperatedby theresortor by a real estatepropertymanager,asdefinedin
+ORS 696. 010;
+a.   A modification of approval application approval shall be required to remove the
+overnight lodging unit designation.
+b.  The modification of approval application approval must be obtained prior to County,
+releasinganydeedrestrictionsrequiring minimum rentalavailability for an
+individually-ownedresidentialunit countedasovernightlodging.
+ii.  An irrevocable provision in the . resort Conditions, Covenants and Restrictions (" CC& Rs)
+requiring the individually- owned residential units designated as overnight lodging units to
+he available for rental at least 38 weeks each year through a central reservation service
+operatedby theresortor by a realestatepropertymanager,asdefinedin ORS696.010;
+iii. A provision in the resort CC& R' s that all property owners within the resort recognize that
+failure to meet the conditions in DCC 19. 106. 060( J)( 6)( b)( ii) is a violation of Deschutes
+County Code and subject to code enforcementnroceedings by the County;
+iv.  Inclusion of language in any rental management contract between the owner of an
+individually-ownedresidentialunit designatedasan overnightlodgingunit andany central
+reservation service or real estate property manager requiring that such unit be available for
+rental at least 38 weeks each year through a central reservation service operated by the
+resort or by a real estate pi-c>perty manager as defined in ORS 696.010, and that failure to
+meet the conditions in DCC 19. 106.0600)( 6)( b)( iv) is a violation of Deschutes County
+Code and subject to code enforcement proceedings by the County.
+Ord. 2014- 014,_fi2, 2014; Ord. 2013- 003 § 1; Ord. 99- 001 § 1, 1999)
+19. 106. 070.     Approval Criteria.
+In order to approve a destination resort, the Planning Director or Hearings Body shall find from substantial
+evidence in the record that:
+A.  The subject proposal is a destination resort as defined in DCC 19. 04. 040.
+B.  All standardsestablished by DCC 19.106.060 are or will be met.
+C.  The economic analysis demonstrates that:
+1.  The necessaryfinancial resourcesare available for the applicant to undertakethe development
+consistentwith the minimum investmentrequirementsestablishedby DCC 19.106;
+2.  Appropriateassurancehasbeensubmittedby lendinginstitutionsor otherfinancial entitiesthatthe
+developer has or can reasonably obtain adequatefinancial support for the proposal once approved;
+3.  The destinationresortwill providea substantialfinancial contributionwhich positively benefitsthe
+local economy throughout the life of the entire project, considering changesin employment,
+demandsfor newor increasedlevelsof public service,housingfor employeesandthe effectsof loss
+of resource land, and;
+4.  The natural amenities of the site considered together with the identified developed recreation
+facilities to be provided with the resort will constitute a primary attraction to visitors, based on the
+economic feasibility analysis.
+D.  The destination resort incorporates design components, setbacks, and buffers to protect designated
+wildlife areas.
+E.  Important natural features, including but not limited to, significant wetlands, riparian habitat and
+landscape management corridors will be maintained.  Riparian vegetation within 100 feet of streams,
+riversandsignificantwetlandswill bemaintained. Alterationsto importantnaturalfeatures, including
+placement of structures, is allowed so long as the overall values of the feature are maintained.
+F.  The developmentwill not forcea significantchangein acceptedfarmor forestpracticesor significantly
+increasethe cost of accepted farm or forest practices on surrounding lands devoted to farm or forest use.
+Page 9 of 13 - EXHIBIT B TO ORDINANCE 2014- 016
+G.  Destination resort developments that significantly affect a transportation facility shall assure that the
+developmentis consistentwith the identifiedfunction,capacityandlevel of serviceof the facility. This
+shall be accomplished by either:
+I.  Limiting the developmentto beconsistentwith the plannedfunction, capacityandlevel of service
+of the transportation facility;
+2.  Providing transportation facilities adequate to support the proposed development consistent with
+OAR Chapter 660, Division 12; or
+3.  Altering land use densities, design requirements or using other methods to reduce demand for
+automobile travel and to meet travel needs through other modes.
+A destination resort significantly affects a transportation facility if it would result in levels of travel
+or access that are inconsistent with the functional classification of a facility or would reduce the
+level of service of the facility below the minimum acceptable level identified in the relevant
+transportation system plan.
+a.   Where the option of providing transportation facilities is chosen, the applicant shall be required
+to improve impacted roads to the full standards of the affected authority as a condition of
+approval. Timing of such improvements shall be based upon the timing of the impacts created
+by the development as determined by the traffic study or the recommendations of the affected
+road authority.
+b.  Access within the project shall be adequate to serve the project in a safe and efficient manner
+for each phase of the project.
+H.  The development will not create the potential for natural hazards identified in the Bend Urban Area
+GeneralPlan.  No structurewill be locatedon slopesexceeding25 percent.  A wildfire management
+plan will be implemented to ensure that wildfire hazards are minimized to the greatest extent practical
+and allow for safe evacuation.
+1.   Adequate public safety protection will be available through existing fire districts or will be provided on-
+siteaccordingto the specificationof thestatefire marshal. If the resortis locatedoutsideof anexisting
+fire district, the developer will provide for staffed structural fire protection services or contract with or
+annexto the existingdistrict. Adequatepublic facilities to providefor necessarysafetyservicessuchas
+police and fire will be available to serve the proposed development.
+J.   Streams and drainage.  Unless otherwise agreed to in writing by the adjoining property owner( s),
+existingnaturaldrainageson the site will not bechangedin any mannerwhich interfereswith drainage
+patterns on adjoining property. All surface water drainage changes created by the development will be
+contained on- site in a manner which meets all standards of the Oregon State Department of
+Environmental Quality (DEQ).  The erosion control plan for the subject development will meet all
+standards of ORS Chapter 468B.
+K.  Adequate water will be available for all proposed uses at the destination resort, based upon the water
+study, a water service agreement with the city of Bend or a proposed water conservation plan as
+requiredby DCC 19.106.050.  Waterusewill not reducethe availability of water in the water impact
+areasidentified in the water study consideringexisting usesand potential developmentpreviously
+approvedin the affectedarea.  Watersourcesidentified in the waterplan shallnot includeanyperched
+water table.  Water shall only be taken from the regional aquifer.  Where a perched water table is
+pierced to access the regional aquifer, the well must be sealed off from the perched water table.
+L.  Unless a sewer service agreement exists, the waste water disposal plan includes beneficial use to the
+maximum extent practicable.   Approval of the CMP shall be conditioned on applicant's making
+application to DEQ for a Water Pollution Control Facility ( WPCF) permit consistentwith such an
+approved waste water disposal plan.  Approval shall also be conditioned upon applicant' s compliance
+with applicableOregonAdministrativeRulesregardingbeneficialuseof wastewater,asdeterminedby
+DEQ.  Applicant shall receive approval of a WPCF permit consistent with this provision prior to
+applying for approval for its final master plan under DCC 19.106.
+M. The resort will mitigate any demands it createson publicly owned recreational facilities on public lands
+in the surrounding area.
+Page 10 of 13 - EXHIBIT B TO ORDINANCE 2014- 016
+N.  Site improvements will be located and designed to avoid or minimize adverse effects of the resort on the
+surrounding land uses.  Measuresto accomplishthis may include establishmentand maintenanceof
+buffers between the resort and adjacent land uses, including natural vegetation and appropriate fences,
+berms, landscaped areas and similar types of buffers, and setback of structures and other developments
+from adjacent land uses.
+0.  The resort will be served by an on-site sewage system approved by DEQ and a water system approved
+by the Oregon State Health Division, or by municipal sewer and water as allowed by the Bend Urban
+Area General Plan.
+P.  The destination resort will not alter the character of the surrounding area in a manner that substantially
+limits, impairs or prevents permitted or conditional usesof surrounding properties.
+Q.  The commercial uses developed as part of the resort will be contained within the project and not
+oriented to public highways adjacent to the property. The commercial uses permitted in the destination
+resort will be limited in type and levels of use necessary to meet the needs of resort visitors.  A
+commercial use is necessaryto serve the needsof visitors if:
+I.  Its primary purpose is to provide goods or services that are typically provided to overnight or other
+short-term visitors to resorts, or the use is necessaryfor operation, maintenance or promotion of the
+destination resort; and
+2.  Theuseis orientedto theresortandis locatedawayfrom or screenedfrom highwaysor othermajor
+through roadways.
+R.  A plan exists to ensure a transfer of common areas, facilities such as sewer, water, streets and
+responsibility for police and fire protection to owners' associations or similar groups if contemplated. If
+suchtransferis not contemplated,the owneror responsibleparty shallbeclearlydesignated. Adequate
+open space, facility maintenanceand police and fire protection shall be ensuredin perpetuity in a
+manner acceptable to the County.
+S.  Temporarystructureswill not be allowedunlessapprovedas part of the CMP.  Temporarystructures
+will not be allowed for more than 18 months and will be subject to all use and site plan standards of
+DCC Title 19.
+T.  The open spacemanagement plan is sufficient to protect in perpetuity identified open spacevalues.
+in service. Such a mechanism shall include all of the following:
+lodging as used in DCC. 19. 106;
+r
+1.   Inclusion of languagein any reatel ceet betweenthe owner of the unit and any central
+facilities under DCC 19, 106 for at least 15 weeks each year; and
+owner or central booking agent on January 1 with the
+information:
+s have been over the last- year;
+and check in service: and
+DCC 19. 106.
+Orel, 2014- 0 16.6. 12 99- 001 § 1 1999)
+Page 11 of 13 - EXHIBIT B TO ORDINANCE 2014- 016
+19. 106. 090.   Requirements for Final Master Plan.
+It shall be the responsibility of the applicant to provide a Final Master Plan( FMP) which includes text and
+graphics explaining and illustrating:
+A.  The use, location, size and design of all important natural features, open space, buffer areas and
+common areas;
+B.  The useandgenerallocationof all buildings, otherthan residentialdwellingsandthe proposeddensity
+of residential development by location;
+C.  Preliminary location of all sewer, water, storm drainage and other utility facilities and materials, and
+specifications and installation methods for water and wastewater systems;
+D.  Location and widths of all roads, streets,parking, pedestrian ways, equestrian trails and bike paths;
+E.  Methods to be employed to buffer and mitigate potential adverse impacts on adjacent resource uses and
+property;
+F.  Building elevations of visitor- oriented accommodations, recreational facilities and commercial services
+sufficient to demonstrate the architectural character of the proposed development;
+G.  A description of all commercial usesincluding approximate size and floor area;
+H.  The locationof or distanceto anyemergencymedicalfacilities andpublic safetyfacilities;
+I.   When a phase includes a residential subdivision, a general layout of the subdivision shall include the
+number of lots, minimum and maximum lot sizes and approximate location of roadways.
+J.   A description of measures taken, with copies of deed restrictions, CC& R's and rental contracts. to
+implement the requirements of DCC 19. 106. 060( J). A  -- -
+deed restrictions, CC& R' s and rental contracts to implement the measures identified in DCC 19. 106
+K.  A description of measures taken, with copies of deed restrictions and a final management plan, to
+implement the open spacemanagement plan required by DCC 19.106.
+L.  The status of all required off- site roadway improvements.
+M. Methods to be employed for managing automobile traffic demand.
+N.  A copy of anWPCFpermitissuedby DEQ consistentwith the requirementsof DCC 19.106.070(L).
+Ord. 2014- 016. . 2. 2014: Ord. 99- 001 § 1, 1999
+19. 106. 100.     Procedure for Approval of Final Master Plan.
+A.       The FMP shall be submitted in a form approved by the County Planning Director consistent with
+DCC Title 22 for a development permit. The Planning Director shall review the FMP and if the Planning
+Director finds thatall standardsof the CMP havebeenmet,the FMP shall beapprovedin writing without
+notice. If approval of the FMP involves the exercise of discretion, the FMP shall be treated as a land use
+action and notice shall be provided in accordance with DCC Title 22.
+B.       If the Planning Director finds evidence in the FMP of a substantial change from the CMP, the
+Planning Director shall advise the applicant to submit an application for modification or amendment of
+the CMP.
+Ord 99- 001 § 1, 1999)
+19. 106. 110.       Provision of Streets, Utilities, Developed Recreational Facilities and Visitor-
+Oriented Accommodations.
+A.       The Planning Director or Hearings Body shall find that all streets, utilities, developed recreational
+facilities andvisitor-orientedaccommodationsrequiredby the FMP arephysically providedor are
+guaranteedthroughsuretybondingor substantialfinancial assurancesapprovedby the Countyprior to
+closure of sale of individual lots or units.
+B.       Financial assuranceor bonding to assure completion of streets and utilities, developed
+recreational facilities and visitor- oriented accommodations in the FMP shall be required pursuant to the
+securityrequirementsfor siteplan review andsubdivisionreviewestablishedby the DeschutesCounty
+Code.
+Ord. 99- 001 § 1, 1999)
+Page 12 of 13 - EXHIBIT B TO ORDINANCE 2014- 016
+19. 106. 120.       Conservation Easement to Protect Resource Site.
+A.       If a tract to be used as a destination resort contains a resource site designated for protection in an
+acknowledged comprehensive plan pursuant to open spaces, scenic and historic areas and natural resource
+goalsin anacknowledgedcomprehensiveplan,that tract of landshall preservethe resourcesite by
+conservation easement sufficient to protect the resource values of the resource site in accordance with
+ORS 271. 715 to 271. 795
+B.       A conservationeasementunderDCC 19.106.120shallberecordedwith the propertyrecordsof
+the tract on which the destination resort is sited.
+Ord. 99- 001 § 1, 1999)
+Page 13 of 13 - EXHIBIT B TO ORDINANCE 2014- 016
+FINDINGS OF THE BOARD OF COUNTY COMMISSIONERS
+FOR DESCHUTES COUNTY
+FILE NUMBER:    TA- 14- 4
+APPLICANT: Tetherow Vacation Homes, LLC
+c/ o Sharon Smith
+Bryant Lovlien & Jarvis, PC
+591 SW Mill View Way
+Bend, OR 97702
+REQUEST:   An Ordinance Amending DeschutesCounty Code Section
+19.04.040 and Chapter 19.106, Reducing Destination
+ResortsOvernight Lodging Unit Availability
+Requirements.
+STAFF CONTACT:       Will Groves, Senior Planner
+HEARING DATE: September 15, 2014
+I. APPLICABLE CRITERIA:
+Title 22, Deschutes County Development Procedures Ordinance
+11. BASIC FINDINGS:
+A. PROPOSAL:    Tetherow Vacation Homes,  LLC applied for a text amendment to
+Deschutes County Code (" DCC") 19. 04. 040, Definitions and Chapter 19. 106, Destination
+Resorts, to reduce the number of weeks individually owned overnight units must be
+available to the public from 45 to 38 weeks.   Before 2003, Destination Resorts were
+required by state law to make individually owned overnight lodging units available for
+public rental 45 weeks per year.  In 2013, the DCC Title 18 was amended to allow for the
+fewer weeks in the areas for which destination resorts were allowed under that title.  The
+text amendment would allow individually owned overnight units to be available as few as
+38 weeks, as allowed under ORS 197. 445( b), for those areas for which destination
+resorts are allowed under Title 19.
+Staff notified the Oregon Department of Land Conservation and Development and the
+Cityof Bend, as requiredunderthe JointManagementAgreement.  The Countyreceived
+no comments from either agency.
+The DeschutesCounty PlanningCommissionheld a duly noticedhearing on July 10,
+2014 and, on July 10, 2014, recommended that the Deschutes County Board of County
+Commissioners (" Board") adopt the proposed changes.  The Board held a public hearing
+on September 15, 2014 to review the proposed and make a final decision.
+At the public hearing, staff presented alternative language to the applicant' s proposal to
+amend the text to allow more than reservation system to be the mechanism by which
+Page 1 of 5 — EXHIBIT C to ORDINANCE 2014- 016
+overnight lodging units are available for rent by the general public.  The staff' s proposed
+language mirrors ORS 197. 335( 5)( b); whereas, the applicant' s proposed language does
+not.
+III.       CONCLUSIONARY FINDINGS:
+A.       CHAPTER 22. 12, LEGISLATIVE PROCEDURES
+1. Section 22. 12.010. Hearing Required
+No legislative change shall be adopted without review by the Planning
+Commission and a public hearing before the Board of County
+Commissioners. Public hearings before the Planning Commission shall be
+set at the discretion of the Planning Director, unless otherwise required by
+state law.
+FINDING:  The applicant meets this criterion because the Planning Commission reviewed the
+proposed text amendment and a public hearing was held before the Board on September 15,
+2014.
+2.  Section 22. 12. 020, Notice
+Notice
+A.  Published Notice
+1.  Notice of a legislative change shall be published in a newspaper of
+general circulation in the county at least 10 days prior to each public
+hearing.
+2.   The notice shall state the time and place of the hearing and contain a
+statement describing the general subject matter of the ordinance under
+consideration.
+FINDING: The required notices of the September 15 Board hearing and July 10, 2014 Planning
+Commission hearing were published in the Bend Bulletin newspaper on May 11, 2014 and
+Sunday, August 31, 2014 respectively, and the notices described the proposal.  Both publication
+dates are at least 10 days prior to each public hearing.
+B.  Posted Notice.   Notice shall be posted at the discretion of the Planning
+Director and where necessary to comply with ORS 203. 045.
+FINDING:  This criterion was met with notice posted on the bulletin board in the lobby of the
+Deschutes County Community Development Department, 117 NW Lafayette, Bend.
+C.  Individual notice.  Individual notice to property owners, as defined in DCC
+22. 08. 010( A), shall be provided at the discretion of the Planning Director,
+except as required by ORS 215. 503.
+FINDING:  Given the proposed amendments in question do not apply to any specific property,
+no individual notices were sent.  Noticed was provided to the City of Bend as required under the
+Joint Management Agreement.  No response was received.  This criterion has been met.
+D.  Media notice.  Copies of the notice of hearing shall be transmitted to other
+newspapers published in Deschutes County.
+Page 2 of 5 — EXHIBIT C to ORDINANCE 2014- 016
+FINDING:   Notice will be provided to the County public information official for wider media
+distribution.  This criterion has been met.
+3.  Section 22. 12. 030 Initiation of Legislative Changes.
+A legislative change may be initiated by application of individuals upon
+payment of required fees as well as by the Board of County Commissioners.
+FINDING:   The application was initiated by Tetherow Vacation Homes, LLC, which paid the
+required fee.  This criterion was met.
+4.  Section 22. 12. 040. Hearings Body
+A.  The following shall serve as hearings or review body for legislative
+changes in this order:
+1.   The Planning Commission.
+2.   The Board of County Commissioners.
+FINDING:   This criterion was met.   A public hearing was held on July 10, 2014, before the
+Deschutes County Planning Commission and, on July 10,  2014, the Planning Commission
+recommended approval of the text amendment.   The Planning Commission, in response to
+applicant testimony, expressed concern regarding potential unintended consequences to the
+ongoing requirement that individually owned overnight units be designated on the subdivision
+plat.
+Followingthe public hearing, Staff worked with the applicantand County Legal Counselto
+determine if the goals of the plat designation of individually owned overnight units could be
+better met through a different mechanism.  The goals of this plat designation are:
+1)       Makecompliancewiththeovernightuserequirementsplainlyenforceablebythe County.
+2)       Put buyers, realtors, and title companies on notice of overnight requirements.
+Unfortunately, the plat designation was providing low visibility to buyers,  realtors,  and title
+companies.  In addition, if the resort ever wanted to "release" individually owned overnight units
+and replace them with hotel units, the plat designation would present a significant cost, time,
+and logistical barrier.
+It was determined that these goals could be better met through a Conditions of Approval
+Agreement (CoAA) to be recordedper lot at the time of the recordingof the subdivisionplat.
+County Legal Counsel has advised that this would provide a clear basis to enforce against
+owners who were not complying with the overnight requirements, provide much higher visibility
+to buyers, realtors, and title companies, while somewhatsimplifyingthe processfor "releasing"
+overnight units.  Staff notes that under a CoAA, the resort would still be required to go through a
+land use processthat demonstratedhow the overallresort overnightrequirementswere being
+met prior to " release" of any individually owned overnight unit.   The present version of the
+amendment includes the CoAA language and removes the plat designation requirement.  Staff
+updated the Planning Commission on this revised amendment on July 14, 2014.
+Additionally, after the Planning Commission recommendation of approval, it was discovered that
+the recommended language still included the applicant' s proposal to allow multiple reservation
+systemsto be the mechanismby which overnightlodgingunits are availablefor rent by the
+Page 3 of 5 — EXHIBIT C to ORDINANCE 2014- 016
+general public.  County Legal Counsel advised that such language does not comply with ORS
+197. 435( 5)( b).  Therefore, staff proposed that the language be changed to mirror the statute.
+The Board finds that is the prudent route to take with the language.
+B.  Any legislative change initiated by the Board of County Commissioners
+shall be reviewed by the Planning Commission prior to action being taken
+by the Board of Commissioners.
+FINDING:   The proposal was not initiated by the Board.   Therefore,  this criterion is not
+applicable.
+5.  Section 22. 12. 050 Final Decision
+All legislative changes shall be adopted by ordinance
+FINDING:    These findings are attached to an ordinance adopting the text amendment.
+Therefore, this criterion has been met.
+IV.      PROPOSED TEXT AMENDMENTS:
+The proposed text amendments are detailed in the ordinance exhibits with additional text
+identified by underline and deleted text identified by
+strikethrough.
+Below are explanations of
+the proposed changes.
+Title 19 - Bend Urban Growth Boundary Zoning Ordinance Amendments:
+Chapter 19. 04. TITLE, PURPOSE, COMPLIANCE AND DEFINITIONS
+19. 04. 040. Definitions.
+The definitions of " Destination Resort" and " Overnight Lodgings" are amended to adopt state
+law.  Before 2003, Destination Resorts were required by state law to make individually owned
+overnight lodging units available for public rental at least 45 weeks per year.  The 2003 statutory
+amendments reduced that requirement to 38 weeks.  In 2013, an applicant applied for and the
+County adopted a text amendment to adopt that reduction for destination resorts governed by
+DCC Title 18.  The text amendment that is the subject of these findings would allow individually
+owned overnight units to be available as few as 38 weeks, as allowed under ORS 197. 445( b),
+for destination resorts governed by DCC Title 19.
+Staff notes that the version of the definition of "Overnight Lodgings" presented to the Planning
+Commission  ( PC)  mistakenly had included  " one or more",  which is not part of ORS
+I97. 435( 5)( b).  Both the PC version and a revised version that deletes " one or more" from this
+definition are presented to the Board
+Chapter 19. 106. DESTINATION RESORTS
+Section 19. 106. 050. Requirements for Conditional Use Permit and Conceptual Master Plan
+Applications.
+Page 4 of 5 — EXHIBIT C to ORDINANCE 2014- 016
+Subsection ( 8)( 21) is amended to match a parallel section of Title 18.   Some of the criteria
+formerly in this section have been consolidated under the proposed DCC 19. 106.060( J),
+described below.
+Section 19. 106. 060. Standards for Destination Resorts
+A number of amendments are proposed to bring this section into compliance with ORS 197.435-
+467  ( SITING OF DESTINATION RESORTS),  and to match a parallel section governing
+destination resorts in DCC Title 18, that had been more recently updated.  Some of the criteria
+pertaining to overnight lodging formerly in DCC 19.106. 070 have been consolidated and
+updated under the proposed DCC 19. 106. 060( J).
+As described above, the Planning Commission, in response to applicant testimony, expressed
+concern regarding potential unintended consequences to the ongoing requirement that
+individually owned overnight units be designated on the subdivision plat.
+Following the public hearing,  Staff worked with the applicant and County Legal Counsel to
+determine that a Conditions of Approval Agreement ( CoAA) to be recorded per lot at the time of
+the recording of the subdivision plat would provide much higher visibility to buyers, realtors, and
+title companies.   Staff notes that the version of the proposed Amendment before the Board
+removes the plat designation requirement and replaces it with a Conditions of Approval
+Agreement( CoAA).
+Section 19. 106. 070. Approval Criteria.
+Subsection ( U) is moved and updated under the proposed DCC 19. 106. 060( J), as described
+above.
+Section 19. 106. 090.   Requirements for Final Master Plan.
+Subsection ( J) is amended to match a parallel section of Title 18.  Some of the criteria formerly
+in this section have been consolidated under the proposed DCC 19. 106. 060( J), described
+above.
+V.       CONCLUSION:
+Based on the information provided herein, The Board of County Commissioners approve of the
+proposed text amendments to Deschutes County Code (" DCC")  19. 04. 040,  Definitions and
+19. 106, Destination Resorts.
+Page 5 of 5 — EXHIBIT C to ORDNANCE 2014- 016

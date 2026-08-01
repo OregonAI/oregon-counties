@@ -1,0 +1,311 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-90-018
+title: 'Ordinance No. 90-018'
+doc_type: ordinance
+citation: 'Ordinance No. 90-018'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616643957_1990-14079-Ordinance%20No.%2090-018%20Recorded%205_17_1990.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 227d97ce7a8db3dc380621cc770830880ded19ef804511fccee6d057b9404e67
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 90-018 (Ordinance No. 90-018)
+
+## At a glance
+
+Ordinance No. 90-018 — orders of Deschutes County. 7 pages.
+
+## Full text
+
+t
+90- 140' 9
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DES TiS­ COUNTY - QR
+7,,
+An Ordinance Amending Ordinance * CD
+No. PL - 15, the Deschutes County
+Zoning Ordinance of 1979, as
+Amended, Amending the Text for a * =' '-"
+Zone Change Allowing Dog Kennels
+as a Conditional Use in EFU Zones'
+and Declaring an Emergency.
+ORDINANCE NO. 90- 018
+WHEREAS, Terry Duffin, proposed a zone change for a text
+amendment to Ordinance No. PL - 15 allowing dog kennels as a
+conditional use within the EFU- 20 zone; and
+WHEREAS, notice of hearing was given in accordance with law;
+and
+WHEREAS, the Planning Commission held a hearing on the
+proposed zone change and text amendment on March 14 and March 28,
+1990; and
+WHEREAS, the Planning Commission recommended that dog
+kennels be allowed as a conditional use in all EFU zones by
+decision dated April 11, 1990; and
+WHEREAS, the decision of the Planning Commission has not
+been appealed; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. That Ordinance No. PL - 15, Section 4. 010( 3), be
+amended by the addition of the following:
+Q. Dog kennels."
+Section 2. That Ordinance No. PL - 15, Section 4. 020( 3), be
+amended by the addition of the following:
+Q. Dog kennels."
+Section 3. That Ordinance No. PL - 15, Section 4. 030( 3), be
+amended by the addition of the following:
+Q. Dog kennels."
+Section 4. That Ordinance No. PL - 15, Section 4. 040( 3), be
+amended by the addition of the following:
+Q. Dog kennels."
+1 - ORDINANCE NO. 90- 018)?
+Mlr_"( 10F1LMED
+Section 5. That the Board of County Commissioners adopts as
+its findings in support of the amendments set forth in Sections 1
+through 4 of this Ordinance the Findings and Recommendation of
+the Planning Commission dated April 11, 1990, attached hereto
+and by this reference incorporated herein as Exhibit " A."
+Section 6. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergency
+is declared to exist, and this Ordinance takes effect on its
+passage.
+DATED this day of 1990.
+BOARD OF COUNTY COMMISSIONERS
+OF PESCIJ, UTES COUWY, OREGON
+IS ) KISTOW PRANTE, Commiss
+A ST : tom' T 00Ff Ch it
+Recording Secretary D MAUDLI , C issioner
+2 - ORDINANCE NO. 90- 018
+TES r..,
+I/SIJ/,
+Awe  -<
+EXHIBIT A ( t o 'I 0 1 1 0
+Community Development Department
+AdministrationBldg./ 1130N.W. Harriman/Bend,Oregon97706575
+i
+Planning Division
+Building Safety Division
+Environmental Health Division
+FINDINGS AND DECISION
+1. PL - 15, Deschutes County Zoning. Ordinance.
+Section 4. 040. Exclusive Farm Use Zone - EFU- 20.
+Article 8. Conditional Uses.:
+Article 10. Amendments.
+2. PL - 20, The Deschutes County Comprehensive Plan Year
+2000.
+3. Ordinance 82- 011. County Procedures Ordinance.
+1' f' [. TA aT1TTTIT/. L..
+1. LOCATION: The subject property is located at 7260 S. W.
+Young Avenue, Redmond and is further described as Tax
+Lot 702 in Township 16S, Range 12E, Section 14. The
+text amendment is for all Exclusive Farm Use - EFU- 20
+zones.
+ZC- 90- 2 1
+FILE NUMBER: ZC- 90- 2
+APPLICANT: Terry Duffin
+J
+34 N. W. Portland Avenue
+Bend, Oregon 97701 pE
+O
+PROPERTY OWNER: James & Marion Carroll
+7260 Young Avenue
+Redmond, Oregon 97756
+ATTORNEY: Greg Hendrix
+716 N. W. Kansas
+Bend, Oregon 97701
+REQUEST: To change the zone text of the EFU- 20
+zone to allow for dog kennels.
+REVIEWER: Jim Raisanen
+LEGAL FINDINGS:
+1. PL - 15, Deschutes County Zoning. Ordinance.
+Section 4. 040. Exclusive Farm Use Zone - EFU- 20.
+Article 8. Conditional Uses.:
+Article 10. Amendments.
+2. PL - 20, The Deschutes County Comprehensive Plan Year
+2000.
+3. Ordinance 82- 011. County Procedures Ordinance.
+1' f' [. TA aT1TTTIT/. L..
+1. LOCATION: The subject property is located at 7260 S. W.
+Young Avenue, Redmond and is further described as Tax
+Lot 702 in Township 16S, Range 12E, Section 14. The
+text amendment is for all Exclusive Farm Use - EFU- 20
+zones.
+ZC- 90- 2 1
+011 - 0111
+2. ZONING: The subject property is zoned EFU- 20 and is
+designated Agriculture by the Deschutes County
+Comprehensive Plan Year 2000. The surrounding area is
+zoned EFU- 20.
+3.- SITE DESCRIPTION: The subject parcel is. 30- acres.
+Approximately- 25 acres are relatively flat and --covered
+with range grasses and irrigated areas of alfalfa. The
+proposed kennels f ,-are to be - placed in a rocky, elevated
+area on the southwest corner of the parcel that has
+natural vegetation including a moderate cover of
+junipers.
+4. The applicant is proposing to amend PL - 15, The Deschutes
+County Zoning Ordinance to include dog kennels as a
+Conditional Use in Exclusive Farm Use - EFU- 20 zones.
+The applicant has concurrently applied for a Conditional
+Use to locate a dog kennel on the subject parcel.
+5. The Planning Division has received letters from many
+parties opposed to the Conditional Use portion of this
+application. None of them were opposed to the zone.
+change portion of the application. There were three
+letters received in support of the zone change text
+amendment.
+6. The Planning Division Received the following
+transmittals:
+THE PUBLIC WORKS DEPARTMENT:
+The applicant must show written documentation that the
+parcel has legal access via easement to Young Avenue.
+STATE DEPARTMENT OF ENVIRONMENTAL QUALITY:
+The applicant should verify his ability to comply with
+State DEQ noise control rules for commercial activities
+OAR 340. 35. 035.)
+DESCHUTES COUNTY BUILDING DIVISION:
+Building Permits and all associated permits are required
+for office and grooming areas other than kennels.
+ZC- 90- 2 2
+THE COUNTY ASSESSOR' S DEPARTMENT:
+Even though the dog kennels were added to the list of
+conditional uses allowed in an EFU Zone, they are not a
+qualified farm use for special taxes. The kennel is
+more of a commercial use like the boarding of horses for
+profit. For this reason, one of the conditions of
+approval should be the disqualification from farm value,
+the approximately four acres -sof scab land ..located , in the
+southwest corner of the parcel.
+THE FOLLOWING TRANSMITTALS HAD NO COMMENTS:
+Central Oregon Irrigation District
+Property Address Coordinator
+Redmond Fire Department
+7. The Planning Commission held a public hearing on March
+14, 1990 and continued the meeting until March 28, 1990
+to hear testimony and discuss the Zone Change Text
+Amendment to allow dog kennels as a Conditional Use in
+EFU- 20 zones in conjunction with a Conditional Use
+permit for a dog kennel. The Conditional Use ( CU - 90- 11)
+was denied.
+CONCLUSIONARY FINDINGS:
+1. ZONE TEXT AMENDMENT: The State of Oregon has amended
+ORS 215. 213 ( 2) ( L), which allows dog kennels in EFU
+zones as a conditional use. PL - 15 currently does not
+have this amendment included as part of the Exclusive
+Farm Use zones.
+Proposed Language:
+Section 4. 010( 3) of PL - 15 is proposed to read:
+Q) Dog Kennels.
+Section 4. 020( 3) of PL - 15 is proposed to read:
+Q) Dog Kennels.
+Section 4. 030( 3) of PL - 15 is proposed to read:
+Q) Dog Kennels.
+Section 4. 040( 3) of PL - 15 is proposed to read:
+Q) Dog Kennels.
+ZC- 90- 2 3
+01. 13
+2. Section 10. 025 of PL - 15 states, " The applicant for a
+quasi- judicial rezoning must establish that the public
+interest is best served by a rezoning of the property.
+Factors to be demonstrated by the applicant are:
+1) That the change - conforms with the Comprehensive
+Plan; and the change is consistent with the Plan' s
+introductory statement and goals."
+The applicant' s response is, " The change in classifica=
+tion is consistent with the introductory statement of
+the Comprehensive Plan ( p. 15- 16, p. 31) which states
+that marginal farm land can only be preserved through
+off - farm employment, hobby farming and creative methods
+to use marginal lands to preserve agricultural produc-
+tion. Dog kennels necessarily need space to care for
+the dogs and to reduce conflicts with neighbors. The
+state legislature has correctly assessed farm zones as a
+logical place for dog kennels. As long as buildings do
+not reduce the amount of usable farm land, there is no
+foreseeable friction between traditional agricultural
+activities and kenneling. Any foreseeable friction can
+be addressed through the Conditional Use process.
+Moreover, dogs are ancestral helpers in farming and
+livestock production including pest control, herding,
+and companionship. Kenneling and training could
+reasonably be viewed as an agricultural activity
+itself. "
+2) That the change in classification for the subject
+property is consistent with the. purpose and intent
+of the proposed zone classification.
+The applicant' s response. is, " The change conforms with
+the Comprehensive Plan and the purpose and intent of the
+zone in that the Plan ( p. 114- 118) recognizes the need
+to continue to provide for income on agricultural lands
+which do not interfere with the agricultural uses in the
+zone. Kenneling of dogs is a permitted conditional use
+throughout the state and has been found by the state
+legislature not to hinder other agricultural uses."
+3) That changing the zoning will presently serve the
+public health, safety and welfare considering the
+following factors:
+a. The availability and efficiency of providing
+necessary public services and facilities.
+ZC- 90- 2
+fJ 0114
+The applicant' s response is, " Public services are
+available throughout the zone. The proposed change does
+not require any services not currently available.
+Waste
+can be disposed of in a drainfiled located in grazing
+land. Electricity for lights and heat exist throughout
+the zone."
+b. The impacts - on surrounding land use will be
+consistent with the specific goals and poli-
+cies contained within the Comprehensive Plan.
+The applicant' s response is, " The impacts on surrounding
+land use are consistent with the goals and policies of
+the Comprehensive Plan in that creative ways to increase
+farm income which do not conflict with existing
+agricultural practices are necessary to preserve
+marginal lands."
+4) That there has been a change in circumstances since
+the property was last zoned, or a mistake was made
+in the zoning of the property in question."
+The applicant' s response is, " There has been a change in
+circumstances since the property was last zoned in that
+the state legislature now allows for dog kennels as a
+conditional use and this use was not previously
+specifically permitted."
+3. A Goal 2 exception is not necessary because the ORS
+Agricultural Lands, Goal 3, allows for adopting exclu-
+sive farm use zones pursuant to chapter 215. ORS
+215. 213( 2)( L) allows for dog kennels.
+CONCLUSIONS:
+The Planning Commission recommends approval of the text
+amendment to add dog kennels as a Conditional Use in all
+Exclusive Farm Use zones and recommends the Board of County
+Commissioners adopt a resolution to amend PL - 15, The
+Deschutes County Zoning Ordinance.
+DESCHUTES COUNTY
+Geor a J. Readg
+JR: mic
+ZC- 90- 2 5
+PLANNING COMMISSION
+Planning Director

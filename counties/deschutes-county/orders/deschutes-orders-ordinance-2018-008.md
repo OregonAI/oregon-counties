@@ -1,0 +1,1280 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2018-008
+title: 'Ordinance No. 2018-008'
+doc_type: ordinance
+citation: 'Ordinance No. 2018-008'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617129221_2018-419-Ordinance%20No.%202018-008%20Recorded%2010_12_2018.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: aeed49dd004eace0dc2f7f2360f5444a710803604879026e0e57e0c864cd3780
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2018-008 (Ordinance No. 2018-008)
+
+## At a glance
+
+Ordinance No. 2018-008 — orders of Deschutes County. 32 pages.
+
+## Full text
+
+Recorded in Deschutes County
+NancyBlankenship. CountyClerk
+Commissioners' Journal
+CJ 2018- 419
+10/12/20181:50:40 PM
+t\IUIUflIIII\IUIULuti
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County
+Code Title 23, the Deschutes County Comprehensive
+Plan, to Allow for the Potential of New Properties to
+be Designated as Rural Industrial or Rural
+Commercial and Declaring an Emergency.
+ORDINANCE NO. 2018- 008
+WHEREAS, the Deschutes County Community Development Department ( CDD) initiated amendments
+Planning Division File No. 247 -18 -000404 -PA) to the Deschutes County Comprehensive Plan, Chapter 3, Rural
+Growth Management to allow for the potential of new properties to be designated as Rural Industrial or Rural
+Commercial; and
+WHEREAS, the DeschutesCounty Planning Commission reviewed the proposedchangeson July 12,
+2018 and forwarded to the Deschutes County Board of County Commissioners (" Board"), a recommendation of
+approval, with the consideration of a study of when new rural commercial and rural industrial properties could be
+concentrated to increase efficiency and decrease adverse environmental impact; and
+WHEREAS, the Board considered this matter after a duly noticed public hearing on August 20, 2018, and
+concluded that the public will benefit from the proposed changes to the Deschutes County Comprehensive Plan,
+Chapter 3, and Deschutes County Code (" DCC") Title 23;
+NOW, THEREFORE,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC Title 23. 01. 010, Introduction, is amended to read as described in
+Exhibit " A", attached hereto and by this reference incorporated herein, with new language underlined and
+language to be deleted in strikethrough.
+Section 2. AMENDMENT. Deschutes County Comprehensive Plan Chapter 3, Rural Growth
+Management, is amended to read as described in Exhibit " B", attached hereto and by this reference incorporated
+herein, with new language underlined and language to be deleted in strikethrough.
+Section 3. AMENDMENT. Deschutes County Comprehensive Plan Chapter 5. 12, Supplementary
+Section— Legislative History, is amended to read as described in Exhibit " C", attached hereto and by this reference
+incorporated herein, with new language underlined and language to be deleted in strikethrough.
+PAGE 1 OF 2 - ORDINANCE NO. 2018- 008
+Section 4. FINDINGS. The Board adopts as its findings Exhibit " D", attached and incorporated by
+reference herein.
+Section 5. EMERGENCY. This Ordinance being necessaryfor the immediate preservation of the public
+peace, health, safety and welfare, an emergency is declared to exist, and this Ordinance becomes effective
+days from adoption.
+ATTEST0W
+2018 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+1'e -cording Secretary
+Date of Is` Reading: - 3G dayof 5
+Dateof 2"dReading: day of
+ANTHONY DEBONE, Chair
+PHILIP G. HENDERSON, Vice Chair
+TAMMY BANEY, Commioner
+2018.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Anthony DeBone
+Philip G. Henderson
+Tammy Baney
+Effective date: c..
+A0 dayof ,+' C , 2018.
+PAGE 2 OF 2 - ORDINANCE NO. 2018- 008
+Chapter 23. 01 COMPREHENSIVE PLAN
+Chapter 23. 01 COMPREHENSIVE PLAN
+23. 01. 010. Introduction.
+A. The Deschutes County Comprehensive
+and found on the Deschutes County Communit
+by referenceherein.
+B. The Deschutes County Comprehensive
+2011-027, areincorporated by referenceherein.
+C. The Deschutes County Comprehensive
+2012-005, areincorporated by referenceherein.
+D. The Deschutes County Comprehensive
+2012-012, areincorporated by referenceherein.
+E. The Deschutes County Comprehensive
+2012-016, areincorporated by referenceherein.
+F. The Deschutes County Comprehensive
+2013-002, areincorporated by referenceherein.
+G. The Deschutes County Comprehensive
+2013-009, areincorporated by referenceherein.
+H. The Deschutes County Comprehensive
+2013- 012, are incorporated by reference herein.
+I. The Deschutes County Comprehensive
+2013-007, areincorporated by referenceherein.
+J. The Deschutes County Comprehensive
+2014-005, areincorporated by referenceherein.
+K. The Deschutes County Comprehensive
+2014-006, areincorporated by referenceherein.
+L. The Deschutes County Comprehensive
+2014- 012, are incorporated by reference herein.
+M. The Deschutes County Comprehensive
+2014-021, areincorporated by referenceherein.
+N. The Deschutes County Comprehensive
+2014-027, areincorporated by referenceherein.
+O. The Deschutes County Comprehensive
+2015-021, areincorporated by referenceherein.
+P. The Deschutes County Comprehensive
+2015-029, areincorporated by referenceherein.
+Q. The Deschutes County Comprehensive
+2015-018, areincorporated by referenceherein.
+R. The Deschutes County Comprehensive
+2015-010, areincorporated by referenceherein.
+S. The Deschutes County Comprehensive
+2016-001, areincorporated by referenceherein.
+T. The Deschutes County Comprehensive
+Plan, adoptedby the Board in Ordinance 2011-003
+y Development Department website, is incorporated
+Plan amendments, adoptedby the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+Plan amendments, adoptedby the Board in Ordinance
+Plan amendments, adoptedby the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+Plan amendments, adopted by the Board in Ordinance
+2016- 022, are incorporated by reference herein.
+U. The Deschutes County Comprehensive
+2016-005, areincorporated by referenceherein.
+Plan amendments, adopted by the Board in Ordinance
+PAGE 1 OF 2 — EXHIBIT A TO ORDINANCE NO. 2018- 008
+V. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2016-027, areincorporated by referenceherein.
+W. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2016-029, areincorporated by referenceherein.
+X. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2017-007, areincorporated by referenceherein.
+Y. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2018-002, areincorporated by referenceherein.
+Z. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2018-006, areincorporated by referenceherein.
+AA. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2018-011, areincorporated by referenceherein.
+BB. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2018-005, areincorporated by referenceherein.
+CC. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2018-008, areincorporated by referenceherein.
+Ord. 2018- 008 § 1, 2018; Ord. 2018- 005 § 2, 2018; Ord. 2018- 011 § 1, 2018; Ord. 2018- 006 § 1,
+20180rd. 2018- 002 § 1, 2018; Ord. 2017- 007 § 1, 2017; Ord. 2016- 029 § 1, 2016; Ord. 2016- 027 § 1,
+2016; Ord. 2016- 005 § 1, 2016; Ord. 2016- 022 § 1, 2016; Ord. 2016- 001 § 1, 2016; Ord. 2015- 010 § 1,
+2015; Ord. 2015- 018 § 1, 2015; Ord. 2015- 029 § 1, 2015; Ord. 2015- 021 § 1, 2015; Ord. 2014- 027 §
+1, 2014; Ord. 2014- 021 § 1, 2014; Ord. 2014- 12 § 1, 2014; Ord. 2014- 006 § 2, 2014; Ord. 2014- 005
+2, 2014; Ord. 2013- 012 § 2, 2013; Ord. 2013- 009 § 2, 2013; Ord. 2013- 007 § 1, 2013; Ord. 2013- 002
+1, 2013; Ord. 2013- 001 § 1, 2013; Ord. 2012- 016 § 1, 2012; Ord. 2012- 013 § 1, 2012; Ord. 2012- 005
+1, 2012; Ord. 2011- 027 § 1 through 12, 2011; Ord. 2011- 017 repealed; Ord. 2011- 003 § 3, 2011)
+Click here to be directed to the Comprehensive Plan ( http:// www. deschutes.org/ compplan)
+PAGE 2 OF 2 - EXHIBIT A TO ORDINANCE NO. 2018- 008
+Sectfow 3.4 Rural, ecovLowt.H
+Background
+Economic development is critically important to maintainingquality of life. When the Statewide
+Planningsystemwasinitiated, farmingandforestrywere stronglyprotectedbecausetheywere
+the State's primaryeconomicdrivers. StatewidePlanningGoal9, EconomicDevelopmentand
+Oregon Administrative Rule (OAR) 660-009 applyto areasinside urban growth boundariesand
+are intended to ensure an adequatelandsupplyfor businessand employmentgrowth. The Rule
+definesthe preparation of Economic Opportunity Analyses (EOA) to identify and promote a
+diverse economy.
+Rural Economy 2008- 2009
+Source: Economic Development for Central Oregon website
+The top three economic sectors in 2009 were: retail trade, leisure and hospitality,
+educational and health services
+Medianincome for a family of four in 2008was $63,500
+A 2009 list of top private employers shows Sunriver at #3 and EagleCrest at # 12 and
+Black Butte Ranch at # 15
+2009 unemployment ranged from approximately 13%-16% - upfrom 5.3% in 2000
+Source: Fishing, Hunting, Wildlife ViewingandShellfishingin Oregon, 2008, May 2009, Preparedfor
+the OregonDepartmentof Fishand Wildlifeby DeanRunyanAssociates
+A total of $78 million was spent in DeschutesCounty in 2008 on fishing, huntingand
+wildlife viewing
+Source: OregonStateUniversityExtensionOregonAgriculturalInformationNetwork, DeschutesCounty
+AgriculturalCommoditySalesfor 2008 and2009
+Over $26 million in crop and livestock salesin 2008 (revised estimate)
+Over $ 19million in crop and livestock salesin 2009 (preliminary estimate)
+Source: CountyGIS
+There are 5 developed Rural Commercial Tots
+There are 3 developed Rural Industrial lots
+Economic Trends
+DeschutesCounty's economy was initially built around farming and logging. As those sectors
+declined, recreation andtourism increasedaspeople were drawn to the beautyand
+opportunities to recreate on public lands. The highquality of life becamea draw for employers
+and employeesalike. Until recently, the buildingsector boomed as new housingwas built to
+meetbothincreasedhousingdemandandtherealestatespeculationthat followed. Housing
+prices rose so highthat workforce housingbecamea limiting factor in economic growth. The
+period of strong growth ended with the nationalrecessionthat beganin late 2007, leadingto
+falling housingprices and rising unemployment.
+DESCHUTES COUNTY COMPREHENSIVE PLAN — 20I I
+CHAPTER 3 RURAL GROWTH MANAGEMENT SECTION 3. 4 RURAL ECONOMY
+EXHIBIT B TO ORDINANCE NO. 2018- 008
+I
+A partner for the County in promoting a healthyeconomy is Economic Development for
+Central Oregon ( EDCO). This private non- profit organization is dedicated to diversifying the
+tri -county regional economy by attracting new investment and jobs. This organization also
+tracks the local economy. As noted above, statewide land usegoalsand rules direct growth
+primarily in urban areas. Still, there are economic opportunities that can be supported by the
+County.
+Farmingandforestry and related businesses
+Economic opportunities in these sectors are discussed in the Agriculture and Forest
+sections of this Plan.
+Recreation and tourism
+Thesesectors include revenuefrom hunting, fishingand wildlife viewingthat are discussed
+in the Wildlife section of this Plan. Also included here are Mt Bachelor ski resort and
+other area resorts. This sector is anticipated to continue growing.
+Unincorporated Communities
+New commercial and industrial uses are permitted in unincorporated communities. These
+uses are limited in size. See Chapter 4 for more information.
+Home- based businesses
+Although not a major economic player, for manyrural residents the opportunity to run a
+small business out of their home provides extra income. Home businesses are regulated
+tightly on agricultural land by the state, and by the county through the home occupation
+code.
+Green Employment
+New initiatives for green energytake advantageof the local abundanceof resources. See
+the Energysection of this Plan.
+Bend Airport
+The Bend Airport is owned and managed by the City of Bend as a municipal airport with
+supporting aviation associatedbusinesses. Aviation industries are alsoa major focus of
+EDCO. As of 2010 the City of Bendand DeschutesCounty are working to create a new
+master plan for the area that will promote future aviation related business while
+protecting the nearby rural residencesfrom aviation -related impacts.
+Coordination
+The County can support and coordinate with agencies, organizationsandjuridictions in
+promoting economic development suchas coordinating on the RegionalEconomic
+Opportunity Analysisfor Un -Met Large -Lot Industrial Sitesdue to be completed in 2011.
+The County can support farming asa contributor of the economy by promoting a diverse,
+sustainable, revenue -generating agricultural sector, including emerging agricultural
+conditions and markets.
+Environment
+DeschutesCounty' s quality of life is increasinglyrecognized asan important factor in
+economic development and can be viewed as a strategic resource to be managed for its
+DESCHUTES COUNTY COMPREHENSIVE PLAN — 2011
+CHAPTER 3 RURAL GROWTH MANAGEMENT SECTION 3. 4 RURAL ECONOMY
+EXHIBIT B TO ORDINANCE NO. 2018- 008
+Tong -term contributionsasatourist destination, to employeeretention, andlocational
+decisions for industrial recruitment.
+Rural Commercial and Rural Industrial
+In DeschutesCounty some'"~- arc _ ` andful of properties are zoned Rural Commercial and
+Rural Industrial. These initial applications for the zoning designations recognize uses that
+predated Stateland use laws. However, it may be in the best interest of the County to provide
+opportunities for the establishment of nNew Rural Industrial and Rural Commercial properties,
+whentheyareappropriateandregulationsaremet. Requeststo re -designatepropertyasRural
+Commercial or Rural Industrial will be reviewed on a property -specificbasisin accordancewith
+state and local regulations. and additional
+Rural Commercial
+The county mayapply the Rural Commercial plan designationappliesto property within specific
+existingexception areasor to any other specificproperty that satisfiesthe requirements for a
+comprehensiveplan designationchangeasset forth by StateStatute, Oregon Administrative
+Rules, this Comprehensive Planandthe DeschutesCounty Development Code, and that is
+located outside unincorporated communities and urban growth boundaries. The rural
+commercial uses and services in these areas are limited in size and scope to those that are less
+intensive than uses allowed in Unincorporated Communities. The uses and densities are limited
+by the zoning, thereby maintainingrural integrity.
+Thecountyhasappliedthe RuralCommercialdesignation -appliesto the following
+acknowledged exception areas:
+Deschutes Junction
+Deschutes River Woods Store
+Pine Forest
+Rosland
+Spring River
+As a part of State required Periodic Review, a Rural Commercial designation was applied to
+DeschutesJunction, Deschutes RiverWoods Store and SpringRiver. These areashad
+previouslybeendesignatedRuralServiceCenters, buta newUnincorporatedCommunities
+Rule (OAR 660-022) defined "rural service centers" in such a way that these areasno longer
+matched the criteria.
+The Rural Commercial plan designationandzoning bringseachof these three areasinto
+compliance with state rules by adopting zoning to ensure that they remain rural and that the
+uses allowed are less intensive than those allowed in unincorporated communities as defined in
+OAR 660- 022.
+TheCountyrecentlyapplieda newRuralCommercialplandesignationto Rosland (2002) and
+Pine Forest ( 2007) commercial centers which historically were committed to commercial uses
+prior to the adoption of zoning regulations.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER3 RURALGROWTH MANAGEMENT SECTION3.4 RURAL ECONOMY
+EXHIBIT B TO ORDINANCE NO. 2018- 008
+ExistingRuralCommercialDesignatedExceptionAreas
+The DeschutesJunction Rural Commercial boundary includes 1.77 acres, bounded by Tumalo
+Roadon the South, Highway 97 on the East, with the remainder surrounded by Agricultural
+EFU) and Rural Residential ( MUA- 10) lands.
+The DeschutesRiver Woods Store RuralCommercial boundary includes4.99 acres bounded
+byBakerRoadontheNorth, Highway97ontheEast, railroadtracksandCheyenneRoadon
+the West and Morningstar Christian Schoolon the South. The surrounding land is zoned Rural
+Residential ( RR - 10). The Deschutes River Woods residential subdivision is adjacent to this
+property.
+The PineForest Rural Commercial boundary includesapproximately 2.0 acresbounded by Pine
+Forest Drive and BurgessRoad. The remainder is surrounded by exceptions landzoned RR -10.
+The RoslandRural Commercial boundary includesapproximately 4.5 acresnear the
+intersection of Burgessand River PineRoads. The remainder is surrounded by exceptions land
+zoned RR - 10.
+TheSpringRiverRuralCommercialboundaryincludes9.16acresboundedbySpringRiver
+Road on the North, Lunar Drive on the East and additional commercial and residential uses on
+the SouthandWest. ThesurroundinglandiszonedRuralResidential (RR -I0).
+Rural Industrial
+Thecountymayapplythe RuralIndustrialplandesignationappliesto specificproperty within
+existing Rural Industrial exception areas, or to any other specificproperty that satisfiesthe
+requirements for a comprehensive plan designationchangeset forth by StateStatute, Oregon
+Administrative Rules, this Comprehensive Planand the DeschutesCounty Development Code,
+and that is located outside unincorporated communities and urban growth boundaries. The
+Rural Industrial plandesignationandzoning bringsthese areasand specificproperties into
+compliance with state rules by adopting zoning to ensure that they remain rural and that the
+uses allowed are less intensive than those allowed in unincorporated communities as defined in
+OAR 660- 022.
+Thecountyoriginallyappliedthe RuralIndustrialdesignationdies to thefollowing
+acknowledged exception areas.
+Redmond Military
+Deschutes Junction
+Bend Auto Recyclers
+ExistingRural Industrial Designated Exception Areas
+The RedmondMilitarysiteconsistsof tax lot 1513000000116andis35.42acres, boundedby
+the RedmondUrban Growth Boundaryto the west and agricultural lands (EFU) surrounding
+the remainder of the property.
+The DeschutesJunction site consistsof the following tax lots: 161226C000107 ( 9. 05 acres),
+16126C000106 ( 4. 33 acres), 161226C000102 ( 1.41 acres), 161226C0001 14 ( 2. 50 acres),
+portions 161226C000300 ( 12.9 acres). 161226C000301 ( 8. 93 acres), 161226A000203 ( 1.5
+acres) and those portions of 161226C0001 11 located west of the Burlington Northern - Santa
+4 DESCHUTES COUNTY COMPREHENSIVE PLAN — 2011
+CHAPTER3 RURAL GROWTH MANAGEMENTSECTION 3.4 RURAL ECONOMY
+EXHIBIT B TO ORDINANCE NO. 2018- 008
+Fe railroad tracks ( 16.45 acres). Generally, the Deschutes junction site is bordered on the west
+byHighway97, on the eastbythe BurlingtonNorthern Railroad, on the north by Nichols
+Market Road ( except for a portion of 1612226A000 11), and on the south by EFU-zoned
+property owned by the City of Bend.
+BendAuto Recyclersconsistsof tax lot 171203000011I and is 13.41 acres, bounded by
+Highway 97 to the west, and Rural Residential (MUA- 10) landsto east, north and south.
+Future of Deschutes County Economy
+A key to economic growth in DeschutesCounty is to recognizeand protect the natural
+resources that contribute to the quality of life that draws both employers and employeesas
+well astourists to the area. A 2010 report on DeschutesCounty's economy by Headwaters
+Economics and Economic Development for Central Oregon outlined a number of
+recommendations to increaseeconomic diversity and resiliency. Areas where the County can
+consider focusing its attention are: promoting housingdiversity, local amenities, better
+transportation accessand highereducation. According to the report, public incentivesare also
+helpful.
+Given the Stateemphasison economic development insidecities, the County's primary role is
+to cooperate with cities and EDCO. Coordinating with cities, agencies and organizations that
+are actively promoting economic development can be an effective useof resources. As an
+exampleof local partnering, in 2010the County initiated a RegionalEconomicOpportunity
+Analysisto identify the need for large -lot industrial sites.
+From a rural perspective, working with the agriculture andforest sectors to encouragenew
+uses as discussed in those sections of this Plan is another option to supplement the otherwise
+minimal growth expected in rural commercial and rural industrial uses. Others are options
+includesupportingsustainablerecreation, tourismandcommercialalternativeenergyprojects.
+Finally, homebasedbusinessesthat minimizeimpactson ruralneighborscanalsobe
+encouraged.
+DESCHUTESCOUNTY COMPREHENSIVEPLAN — 201 I
+CHAPTER 3 RURAL GROWTH MANAGEMENT SECTION 3. 4 RURAL ECONOMY
+EXHIBIT B TO ORDINANCE NO. 2018- 008
+Sect% ow 3. 4 R. u.r& L ecowowt. Po! lcfes
+Goal and Policies
+Goal 1 Maintain a stable and sustainable rural economy, compatible with
+rural lifestyles and a healthy environment.
+Policy 3.4.1 Promote rural economic initiatives, includinghome-basedbusinesses, that
+maintain the integrity of the rural character and natural environment.
+a. Review land use regulationsto identify legalandappropriate rural economic
+development opportunities.
+Policy 3.4.2 Work with stakeholders to promote new recreational and tourist initiatives that
+maintain the integrity of the natural environment.
+Policy 3.4.3 Support a regional approach to economic development in concert with
+Economic Development for Central Oregon or similar organizations.
+Policy 3.4.4 Support regional educational facilities and workforce training programs.
+Policy 3.4.5 Support renewable energy generation as an important economic development
+initiative.
+Policy 3.4.6 Support andparticipate in master planningfor airports in DeschutesCounty.
+Policy 3.4.7 Within the parametersof State land use regulations, permit limited local -serving
+commercial uses in higher -density rural communities.
+Lands Designated and Zoned Rural Commercial
+Policy 3.4.8 Update the policies for lands designated Rural Commercial as needed.
+Policy 3.4.9 Rural Commercial designated lands located outside of urban growth boundaries
+shall allow uses Tess intense than those allowed in unincorporated communities
+as defined by Oregon Administrative Rule 660-22 or its successor. Rural
+Commercial zoningshallbe applied to any new properties that are approvedfor
+Rural Commercial designationasallowed by StateStatute, Oregon
+Administrative Rules and this Comprehensive Plan.
+Policy 3.4. 10 Rural Commercial zoning shall be appliedto DeschutesJunction, Deschutes
+River Woods Store, PineForest, RoslandandSpringRiver.
+Policy3.4.11 In SpringRiver there shallbe a Limited Use CombiningZone.
+Policy 3.4. 12 County ComprehensivePlanpolicies and landuseregulationsshallensurethat
+new uses authorized on Rural Commercial designated lands do not adversely
+affect agricultural and forest uses in the surrounding areas.
+Policy 3.4. 13 Zoning in the area shallensure that the usesallowed are rural asrequired by
+Goal 14, Urbanization, and less intensive than those allowed for unincorporated
+communities as defined in OAR 660- 22. New commercial uses shall be limited to
+those that are intended to serve the surrounding rural area or the travel needs
+of people passing through the area.
+DESCHUTES COUNTY COMPREHENSIVE PLAN — 2011
+CHAPTER 3 RURAL GROWTH MANAGEMENT REFERENCES
+EXHIBIT B TO ORDINANCE NO. 2018- 008
+Policy 3.4.14 New commercial uses shall be limited in size to 2, 500 square feet or if for an
+agricultural or forest - related use, 3, 500 square feet.
+Policy 3.4.15 A lawful useexisting on or before November 5, 2002 that is not otherwise
+allowed in a Rural Commercial zone, maycontinue to exist subject to the
+county' s nonconforming use regulations.
+Policy 3.4.16 An existing lawful usemay expand up to 25 percent of the total floor area
+existing on November 5, 2002.
+Policy 3.4.17 The Rural Commercial zoning regulationsshallallow a mixed use of residential
+or rural commercial uses.
+Policy 3.4.18 Residentialand commercial usesshall be served by DEQ approved on-site
+sewage disposal systems.
+Policy 3.4.19 Residentialand commercial usesshallbe served by on-site wells or public water
+systems.
+Policy 3.4.20 Community sewer systems, motels, hotels and industrial usesshallnot be
+allowed.
+Policy 3.4.21 Recreationalvehicle or trailer parks andother usescatering to travelers shallbe
+permitted.
+Lands Designated and Zoned Rural industrial
+Policy 3.4.22 Update the policies for lands designated Rural Industrial as needed.
+Policy 3.4.23 To assure that urban uses are not permitted on rural industrial lands, land use
+regulations in the Rural Industrial zones shall ensure that the uses allowed are
+less intensive than those allowed for unincorporated communities in OAR 660-
+22 or any successor.
+Policy 3.4.24 Limited Use Combining zones shallbe appliedto the RedmondMilitary (Tax lot
+15130000001 16), Deschutes Junction ( Tax lot 161226C000301, Tax lot
+161226C000300, Tax lot 161226C0001 I 1 and Tax lot 161226A000203) to
+ensure permitted uses are compatible with surrounding farm and forest lands.
+Policy 3.4.25 To ensure that the uses in Rural Industrial zone on tax lot 16- 12- 26C- 301, as
+described in Exhibit " C" and depicted on Exhibit " D" attached to Ordinance
+2009-007 and incorporated by reference herein, are limited in nature and scope,
+the Rural Industrial zoning on that site shallbe subjectto a Limited Use
+Combining Zone which will limit the uses to storage, crushing, processing, sale
+and distribution of minerals.
+Policy 3.4.26 To ensurethat the usesin the Rural Industrial Zone on Tax Lot 300 on
+Assessor's Map 16 -I2 -26C-300 andTax Lot 203 on Assessor's Map 16 -I2 -26A-
+300
+6- 12- 26A-
+300 and portions of Tax Lot 111on Assessor's Map 16-12-26C-111asdescribed
+in Exhibit ' D' and depicted in Exhibit ` E' attached to Ordinance 2010- 030 and
+incorporated by reference herein, are limited in nature and scope, the Rural
+Industrial zoning on the subject parcel shall be subject to a Limited Use
+DESCHUTES COUNTY COMPREHENSIVE PLAN — 201
+CHAPTER 3 RURAL GROWTH MANAGEMENT REFERENCES
+EXHIBIT B TO ORDINANCE NO. 2018- 008
+Policy 3.4.27
+Policy 3.4.28
+Policy 3.4.29
+Policy 3.4.30
+Policy 3.4.31
+Policy 3.4.32
+Policy 3.4.33
+Policy 3.4.34
+Policy 3.4.35
+Policy3.4.36
+CombiningZone, whichwill limit the usesto storage, crushing, processing, sale
+and distribution of minerals, subject to conditional use and site plan approval.
+Land use regulations shall ensure that new uses authorized within the Rural
+Industrial sitesdo not adverselyaffect agricultural and forest usesin the
+surrounding area.
+New industrial uses shall be limited in size to a maximum floor area of 7, 500
+squarefeet per usewithin a building, except for the primary processingof raw
+materials produced in rural areas, for which there is no floor area per use
+limitation.
+A lawfully establisheduse that existed on or before February 2, 2003 not
+otherwise allowed in a Rural Industrial zone maycontinue to exist subjectto the
+county' s non - conforming use regulations.
+A lawfully establisheduse that existed on or before February 2, 2003 maybe
+expandedto occupy a maximum of 10,000 squarefeet of floor areaor an
+additional 25 percent of the floor areacurrently occupied by the existinguse,
+whichever is greater.
+Residentialand industrial usesshallbe served by DEQ approved on-site sewage
+disposal systems.
+Residentialand industrial usesshall beserved by on-site wells or public water
+systems.
+Community sewer systemsshallnot be allowed in Rural Industrial zones.
+A 2009 exception (Ordinance 2009-007) includedan irrevocably committed
+exception to Goal 3 and a reasons exception to Goal 14 to allow rural industrial
+usewith a Limited Use Combining Zone for storage, crushing, processing, sale
+and distribution of minerals.
+A 2010 exception ( Ordinance 2010- 030) took a reasons exception to Goal 14
+with a Limited Use Combing Zone for storage, crushing, processing, saleand
+distribution of minerals.
+Properties for which a property owner hasdemonstrated that Goals3 and4 do
+not apply maybe considered for Rural Industrialdesignationasallowed by State
+Statute, Oregon Administrative Rules and this Comprehensive Plan. Rural
+Industrial zoningshallbe applied to a new property that is approved for the
+Rural Industrial plan designation.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 3 RURAL GROWTH MANAGEMENT REFERENCES
+EXHIBIT B TO ORDINANCE NO. 2018- 008
+secti, ow 5. 22 Legi, sLati- ve ft%stoT
+Background
+This sectioncontainsthe legislativehistory of this ComprehensivePlan.
+Table 5. 11.1 Comprehensive Plan Ordinance History
+Ordinance
+Date Adopted/
+Effective
+Chapter/ Section Amendment
+2011- 003 8- 10- 1 1/ 1 1-9- 1 I
+All, except
+Transportation, Tumalo
+and Terrebonne
+Community Plans,
+Deschutes Junction,
+Destination Resorts and
+ordinances adopted in
+2011
+Comprehensive Plan update
+201 1- 027 10- 31- 11 / 1 1-9- 1 I
+2. 5, 2. 6, 3.4, 3. 10, 3. 5,
+4.6, 5.3, 5.8, 5. I I ,
+23. 40A, 23. 40B,
+23. 40. 065, 23. 01. 010
+Housekeeping amendments to
+ensure a smooth transition to
+the updated Plan
+2012- 005 8- 20- 12/ 11- 19- 12
+23. 60, 23. 64 ( repealed),
+3.7 ( revised), Appendix C
+added)
+Updated Transportation
+System Plan
+2012- 012 8- 20- 12/ 8- 20- 12 4. 1, 4. 2
+La Pine Urban Growth
+Boundary
+20 12- 0 16 12- 3- 12/ 3- 4- 13 3. 9 Housekeeping amendments to
+Destination Resort Chapter
+2013- 002 1-7- 13/ 1-7- 13 4. 2
+Central Oregon Regional
+Large - lot Employment Land
+Need Analysis
+2013- 009 2- 6- 13/ 5- 8- 13 1.3
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+2013- 012 5- 8- 13/ 8- 6- 13 23. 01. 010
+Comprehensive Plan Map
+Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+2013- 007 5- 29- 13/ 8- 27- 13 3. 10, 3. 11
+Newberry Country: A Plan
+for Southern Deschutes
+County
+Page 1 of 4 — EXHIBIT C TO ORDINANCE NO. 2018- 008
+2013- 016 10- 21- 13/ 10- 21- 13 23. 01. 010
+Comprehensive Plan Map
+Amendment, including certain
+property within City of Sisters
+Urban Growth Boundary
+2014- 005 2- 26- 14/ 2- 26- 14 23. 01. 010
+Comprehensive Plan Map
+Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+2014- 012 4- 2- 14/ 7- 1- 14 3. 10, 3. I I Housekeeping amendments to
+Title 23.
+2014- 021 8- 27- 14/ 11- 25- 14 23. 01. 010, 5. 10
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Sunriver Urban
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+2014- 021 8- 27- 14/ 11- 25- 14 23. 01. 010, 5. 10
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Sunriver Urban
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+2014- 027 12- 15- 14/ 3- 31- 15 23. 01. 010, 5. 10
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Agriculture to
+Rural Industrial
+2015- 021 11- 9- 15/ 2- 22- 16 23. 01. 010
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Agriculture to
+Surface Mining.
+2015- 029 11- 23- 15/ 11- 30- 15 23. 01. 010
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Tumalo
+Residential 5 -Acre Minimum
+to Tumalo Industrial
+2015- 018 12- 9- 15/ 3- 27- 16 23. 01. 010, 2. 2, 4. 3 Housekeeping Amendments
+to Title 23.
+Page 2 of 4 — EXHIBIT C TO ORDINANCE NO. 2018- 008
+2015- 010 12- 2- 15/ 12- 2- 15 2. 6
+Comprehensive Plan Text and
+Map Amendment recognizing
+Greater Sage - Grouse Habitat
+Inventories
+2016- 001 12- 21- 15/ 04- 5- 16 23. 01. 010; 5. 10
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from, Agriculture to
+Rural Industrial ( exception
+area)
+2016- 007 2- 10- 16/ 5- 10- 16 23. 01. 010; 5. 10
+Comprehensive Plan
+Amendment to add an
+exception to Statewide
+Planning Goal 11to allow
+sewers in unincorporated
+lands in Southern Deschutes
+County
+2016 - 005 11- 28- 16/ 2- 16- 17 23. 01. 010, 2. 2, 3. 3
+Comprehensive Plan
+Amendment recognizing non -
+resource lands process
+allowed under State law to
+change EFUzoning
+2016- 022 9- 28- 16/ 1 1- 14- 16 23. 01. 010, 1.3, 4. 2
+Comprehensive plan
+Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+2016- 029 12- 14- 16/ 12/ 28/ 16 23. 01. 010
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from, Agriculture to
+Rural Industrial
+2017- 007 10- 30- 17/ 10- 30- 17 23. 01. 010
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+2018- 002 1- 3- 18/ 1- 25- 18 23. 01, 2. 6
+Comprehensive Plan
+Amendment permitting
+churches in the Wildlife Area
+Combining Zone
+Page 3 of 4 — EXHIBIT C TO ORDINANCE NO. 2018- 008
+2018- 006 8- 22- 18/ 11- 20- 18 23. 01. 010, 5. 8, 5. 9
+Housekeeping Amendments
+correcting tax lot numbers in
+Non -Significant Mining Mineral
+and Aggregate Inventory;
+modifying Goal 5 Inventory of
+Cultural and Historic
+Resources
+2018- 011 9- 12- 18/ 12- 11- 18 23. 01. 010
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+2018- 005 9- 19- 18/ 10- 10- 18
+23. 01. 010, 2. 5, Tumalo
+Community Plan,
+Newberry Country Plan
+Comprehensive Plan Map
+Amendment, removing Flood
+Plain Comprehensive Plan
+Designation; Comprehensive
+PlanAmendment adding Flood
+Plain Combining Zone
+purpose statement.
+2018- 008 9- 26- 18/ 10- 26- 18 23. 01. 010, 3.4
+Comprehensive Plan
+Amendment allowing for the
+potential of new properties to
+be designated as Rural
+Commercial or Rural
+Industrial
+Page 4 of 4 — EXHIBIT C TO ORDINANCE NO. 2018- 008
+FINDINGS
+I. PROPOSED PLAN AMENDMENT
+The proposed amendments to Deschutes County' s Comprehensive Plan are described
+in Ordinance 2018- 008, Exhibit A.
+BACKGROUND
+In 2015, property owner Tony Aceti submitted applications for a comprehensive plan
+designation change and zone change on his property to allow rural industrial uses on
+his property planned and zoned for agricultural use. While located at the intersection of
+Tumalo Road and Highway 97, the property is not within the Deschutes Junction
+exception area identified in the Deschutes County Comprehensive Plan ( DCCP) Section
+3.4 Rural Industrial Designated Areas. The Deschutes County Board of County
+Commissioners ( the " Board") approved those applications.
+Central Oregon LandWatch appealed those decisions to the Land Use Board of
+Appeals (" LUBA"). LUBA sustained the County' s determination that the property was
+not resource land, but remanded a Goal 14 exception approval, with instructions that
+the exception was necessary only if the County wished to approve urban uses on rural
+land. Central Oregon LandWatch v. Deschutes County, _ Or LUBA _ ( LUBA No.
+2016- 012, August 10, 2016).
+On remand, the Board again approved the applications. In its decision, the Board
+interpreted the DCCP and concluded that it could approve the applications even though
+the subject property was located outside of the Deschutes Junction exception area
+identified in the plan. Central Oregon LandWatch appealed again.
+On appeal, LUBA concluded that the County' s interpretation of the DCCP was
+inconsistent with the express language of the comprehensive plan and reversed the
+decision. Central Oregon LandWatch v. Deschutes County, _ Or LUBA _ ( LUBA No.
+2017- 009, June 15, 2017)( Slip Op. at 12- 13, 15- 16).
+The Countyandthe applicantappealedthe decisionto the Courtof Appealsandfiled a
+joint brief.
+AffirmingLUBA's decision, the Courtof Appealsconcludedthatthe County's
+interpretation of the DCCP conflicted with the plan' s express language, which the Court
+held, applied the Rural Industrial plan designation to only three enumerated exception
+areas. The Court further held that the County did not have the authority to approve the
+Rural Industrial plan designation for properties located outside the three listed exception
+areas. Central Oregon LandWatch v. Deschutes County, 288 Or App 378, 379- 80, _
+P3d _ ( 2017).
+PAGE 1 of 15 — EXHIBIT " D" TO ORDINANCE 2018- 008
+The Court of Appeals quoted two passages from the DCCP, Section 3. 4. Those
+passages are:
+And,
+In Deschutes County there are a handful of properties zoned Rural
+Commercial and Rural Industrial. These designations recognize uses that
+predated State land use laws. New commercial or industrial sites are
+controlled by State regulation and additional development is anticipated to
+be minimal and only for specific sites, such as around the Bend Airport."
+288 Or App at 379: DCCP, Chapter 3, p. 10.
+The Rural Industrial plan designation applies to specific exception
+areas located outside unincorporated communities and urban growth
+boundaries. The Rural Industrial plan designation and zoning brings these
+areas into compliance with state rules by adopting zoning to ensure that
+they remain rural and that the uses allowed are Tessintensive than those
+allowed in unincorporated communities as defined in OAR 660- 022.
+The Rural Industrial designation applies to the following
+acknowledged exception areas.
+Redmond Military
+Deschutes Junction
+Bend Auto Recyclers" 288 Or App at 380; DCCP, Chapter 3, p. 11.
+The fundamental issue raised by the Court of Appeals decision is its holding that the
+language of the DCCP expressly prohibits the County from approving a request for the
+Rural Industrial plan designation on any property outside the three listed exception
+areas, even if a property otherwise meets all state and local land use requirements for
+the Rural Industrial plan designation. That holding is contrary to the Board's prior
+understandingof its authorityunderthe DCCPand with its interpretationof the DCCP
+conducted during the remand proceedings discussed above.
+As explained by LUBA in its opinion, the Rural Industrial designation is not necessarily
+limited to the three exception areas listed in DCCP Section 3.4, however, the County
+must first amend DCCP Section 3. 4 to remove the language that limits application of the
+Rural Industrial designation to the three identified exception areas or otherwise
+expresslybroadenapplicationof the designationto othersites deemedeligibleunder
+DCCP Section 3. 4. Central Oregon LandWatch v. Deschutes County, _ Or LUBA
+LUBA No. 2017- 009, June 15, 2017)( Slip Op. at 15).
+Consequently legislative amendments to the DCCP are needed to grant the County the
+authorityit believedit had, authoritythat everyother Countyin Oregonhas, when it
+interpreted the DCCP. The proposed amendment language will need to address, at the
+PAGE 2 of 15 — EXHIBIT " D" TO ORDINANCE 2018- 008
+minimum, the language the Court of Appeals concluded limited the application of the
+Rural Industrial plan designation.
+One other aspect of LUBA' s analysis compels these legislative amendments to include
+amendments to the language used in the Rural Commercial provisions of the DCCP. In
+its opinion, LUBA compares the similarities between the language used in DCCP
+Chapter 3. 4 for the Rural Commercial designation and that for the Rural Industrial
+designation in reaching its conclusion about the plan language limiting use of the
+designation only within the identified exception areas. There is no reason to believe
+that the similar Rural Commercial language would not be interpreted in the same
+manner that LUBA and the Court of Appeals interpreted the similar Rural Industrial plan
+language.
+PURPOSE
+The purpose for the proposed amendments to the DCCP is to plainly and unequivocally
+establish that Deschutes County has the authority to approve, throughout the county, an
+application for a comprehensive plan designation change for a specific property to Rural
+Commercial or Rural Industrial so long as the plan designation change is consistent with
+Oregon Revised Statutes (" ORS"), Oregon Administrative Rules (" OAR"), the DCCP,
+and the Deschutes County Code. Following approval of the proposed amendments, the
+County's authority to approve such comprehensive plan designation changes will not be
+limited to the existing exception areas currently identified in the DCCP.
+The proposed amendments are intended only to grant the County the authority to make
+decisions on future comprehensive plan designation change applications for properties
+located outside of the existing exception areas, and to make those decisions consistent
+with state and local land use regulations. The proposed amendments do not change
+the plan designation of any property within Deschutes County, or otherwise authorize
+any development or land use changes in the county.
+II. REVIEW CRITERIA
+Ordinance No. 2018- 008 amends the DCCP only. The County lacks specific criteria in
+the Deschutes County Code Titles 18, 22 or 23 for reviewing a legislative plan
+amendment. Nonetheless, since the County is initiating this plan amendment, the
+County bears the responsibility for satisfying that the amendments are consistent with
+the Statewide Planning Goals, ORS, OAR, and the existing DCCP.
+The findings are organized as follows:
+Section ( 1) — Statewide Planning Goal 1, Citizen Involvement
+Section ( 2) — Oregon Revised Statutes
+Section ( 3) — Other Statewide Planning Goals
+Section ( 4) — DCCP
+PAGE 3 of 15 — EXHIBIT " D" TO ORDINANCE 2018- 008
+Section ( 1), Statewide Planning Goal 1, Citizen Involvement
+Goal: To develop a citizen involvement program that insures the opportunity for citizens
+to be involved in all phases of the planning process.
+The citizen involvement program shall incorporate the following components:
+1. Citizen Involvement — To provide for widespread citizen involvement.
+2. Communication — To assure effective two- way communication.
+3. Citizen Influence — To provide the opportunity for citizens to be involved in all
+phases of the planning process.
+4. Technical Information — To assure that technical information is available in an
+understandable form.
+5. Feedback Mechanisms — To assure that citizens will receive a response from
+policy - makers.
+Finding: While Goal 1 is a directive to the County to develop a citizen involvement
+program that insures opportunities for public participation in land use planning and is not
+directly applicable to this decision, the County has complied with its citizen involvement
+program in its consideration of the proposed amendments.
+Goal 1 will be met through this adoption process because this amendment will receive
+two public hearings, one before the County Planning Commission, the County' s citizen
+review board for land use matters, and one before the Board.
+Section ( 2), Oregon Revised Statutes
+ORS 197. 175 ( 2) Pursuant to ORS chapters 195, 196 and 197, each city and county in
+this state shall:
+a) Prepare, adopt, amend and revise comprehensive plans in compliance with goals
+approved by the commission;
+b) Enact land use regulations to implement their comprehensive plans[.]
+Finding: The proposed amendments represent the proper exercise of the County' s
+planning authority to revise the DCCP because the amendments are evaluated below
+for consistency with the Statewide Planning Goals. There is no need to enact additional
+land use regulations to implement these amendments because the amendments only
+authorize the County to make certain types of decisions, and the Deschutes County
+Code Titles 18 and 22 already provide the procedural and substantive requirements for
+that decision- making. The proposal is consistent with this statute.
+PAGE 4 of 15 — EXHIBIT " D" TO ORDINANCE 2018- 008
+ORS 197. 610 ( 1) Before a local government adopts a change, including additions and
+deletions, to an acknowledged comprehensive plan or a land use regulation, the local
+government shall submit the proposed change to the Director of the Department of Land
+Conservation and Development. The Land Conservation and Development Commission
+shall specify, by rule, the deadline for submitting proposed changes, but in all cases the
+proposed change must be submitted at least 20 days before the local government holds
+the first evidentiary hearing on adoption of the proposed change. The commission may
+not require a local government to submit the proposed change more than 35 days
+before the first evidentiary hearing.
+Finding: The proposed DCCP amendments have been submitted to LDCD in the
+manner prescribed by ORS 197. 610. Notice to the Director of DLCD was provided on
+May 10, 2018.
+ORS 197. 712 ( 1) In addition to the findings and policies set forth in ORS 197. 005,
+197. 010 and 215. 243, the Legislative Assembly finds and declares that, in carrying out
+statewide comprehensive land use planning, the provision of adequate opportunities for
+a variety of economic activities throughout the state is vital to the health, welfare and
+prosperity of all the people of the state.
+2) By the adoption of new goals or rules, or the application, interpretation or
+amendment of existing goals or rules, the Land Conservation and Development
+Commission shall implement all of the following:
+a) Comprehensive plans shall include an analysis of the community' s economic
+patterns, potentialities, strengths and deficiencies as they relate to state and national
+trends.
+b) Comprehensive plans shall contain policies concerning the economic
+development opportunities in the community.
+c) Comprehensive plans and land use regulations shall provide for at least an
+adequate supply of sites of suitable sizes, types, locations and service levels for
+industrial and commercial uses consistent with plan policies.
+d) Comprehensive plans and land use regulations shall provide for compatible uses
+on or near sites zoned for specific industrial and commercial uses.
+g) Local governments shall provide:
+A) Reasonable opportunities to satisfy local and rural needs for residential and
+industrial development and other economic activities on appropriate lands outside urban
+growth boundaries, in a manner consistent with conservation of the state' s agricultural
+and forest land base[.]
+Finding: These amendments help provide for the provision of adequate opportunities
+for economic development in the County as provided by subsection ( 1) of this statute.
+LCDC has acknowledged the DCCP as consistent with the requirements of subsection
+2)( a) through ( d) and the proposed amendments do not change or otherwise affect
+those provisions. These amendments will provide a reasonable opportunity to satisfy
+arising needs for commercial or industrial development on rural lands consistent with
+conservation of the state' s agricultural and forest land base as identified in ORS
+PAGE 5 of 15 — EXHIBIT " D" TO ORDINANCE 2018- 008
+197.712(2)(g)(A) by requiring that any proposal for the Rural Commercial or Rural
+Industrial plan designation in rural areas of the county demonstrate why the resource
+goals do not or should not apply to the property.
+ORS 197. 713 ( 1) Notwithstanding statewide land use planning goals relating to
+urbanization or to public facilities and services, a county or its designee may authorize:
+a) Industrial development, including accessory uses subordinate to the industrial
+development, in buildings of any size and type, subject to the permit approval process
+described in ORS 215. 402 to 215. 438 and to applicable building codes, in an area
+planned and zoned for industrial use on January 1, 2004, subject to the territorial limits
+described in subsections ( 2) and ( 3) of this section.
+b) On- site sewer facilities to serve the industrial development authorized under this
+section, including accessory uses subordinate to the industrial development.
+2) Subject to subsection ( 3) of this section, a county or its designee may consider
+the following land for industrial development under this section:
+a) Land more than three miles outside the urban growth boundary of every city with
+a population of 20, 000 individuals or more; and
+b) Land outside the urban growth boundary of every city with a population of fewer
+than 20, 000 individuals.
+3) A county or its designee may not authorize industrial development under this
+section on land within the Willamette Valley as defined in ORS 215. 010.
+4) A county or its designee may not authorize under this section retail, commercial
+or residential development in the area zoned for industrial use.
+Finding: This statute is not directly applicable to the proposed amendments because
+they do not authorize any development or land use changes. Any future decisions
+made under the proposed amendments will have to be made consistent with the
+requirements of ORS 197. 713 if applicable.
+ORS 197. 714 ( 1) Notwithstanding the authority granted in ORS 197. 713 to allow
+industrial development, including accessory uses subordinate to the industrial
+development, in areas zoned for industrial use, when a county or its designee considers
+action under ORS 197. 713 ( 1) for land within 10 miles of the urban growth boundary of
+a city, the county or its designee shall give notice to the city at least 21 days prior to
+taking action.
+2) If the city objects to the authorization of industrial development under ORS
+197. 713, the city and county shall negotiate to establish conditions on the industrial
+development or changes in the development necessary to mitigate concerns raised by
+the city' s objection.
+Finding: This statute is not directly applicable to the proposed amendments because
+they do not authorize any development or land use changes. Any future decisions
+made under the proposed amendments will have to be made consistent with ORS
+197. 714.
+Section ( 3), Other Statewide Planning Goals
+PAGE 6 of 15 — EXHIBIT " D" TO ORDINANCE 2018- 008
+The parameters for evaluating specific amendments to the DCCP are that the
+amendments are based on an adequate factual base and supportive evidence
+demonstrating consistency with Statewide Planning Goals.
+Goal 1, Citizen Involvement
+Finding: See Section ( 1) above.
+Goal 2, Land Use Planning
+Finding: The proposed amendments are consistent with Goal 2's mandate to make
+decisions consistent with the established land use planning process. ORS 197. 610
+allows local governments to initiate post acknowledgment plan amendments ( PAPA).
+DCC 22. 12. 030 also provides for the Board' s initiation of legislative changes to the
+DCCP. An Oregon Land Conservation and Development Department 35 -day notice
+was initiated on May 10, 2018. This FINDINGS document and analysis identifies the
+issues, problems, and basis for the proposed amendments as required by Goal 2. The
+public and affected governmental units have been notified of the proposed changes and
+have been provided an opportunity to comment on the proposed amendments. The
+amendments to the DCCP will be adopted by ordinance, as required by Goal 2, Part I.
+Goal 3, Agricultural Lands and Goal 4, Forest Lands
+Finding: These resource goals are not applicable to the proposed amendments
+because they propose no plan designation changes, zoning map changes, development
+or land use changes on agricultural or forest lands. The proposed amendments only
+grant the County the authority to make decisions that may implicate Goals 3 or 4 in the
+future. Any future applications for a site-specific comprehensive plan designation
+change will have to demonstrate consistency with Goals 3 and 4 or demonstrate that
+the subject property does not meet the definition of Agricultural Land as denoted in OAR
+660- 004- 0005.
+Goal 5, Natural Resources, Scenic and Historic Areas, and Open Spaces
+Finding: This goal is not applicable because the proposed amendments only grant the
+County the authority to approve applications to change a property' s comprehensive plan
+designation as allowed by ORS, OAR, and the DCCP. No development or land use
+changes are being proposed that might impact Goal 5 protected natural resources,
+scenic and historic areas, or open spaces. Any future applications for a site- specific
+comprehensive plan designation change will have to demonstrate consistency with Goal
+5.
+Goal 6, Air, Water and Land Resources Quality
+PAGE 7 of 15 — EXHIBIT " D" TO ORDINANCE 2018- 008
+Finding: This goal is not applicable because the proposed amendments only grant the
+County the authority to approve applications to change a property's comprehensive plan
+designation as allowed by ORS, OAR, and the DCCP. No development or land use
+changes are being proposed that impact air, water and land resource qualities. Any
+future applications for a' site- specific comprehensive plan designation change will have
+to demonstrate consistency with Goal 6.
+Goal 7, Natural Hazards
+Finding: This goal is not applicable because the proposed amendments only grant the
+County the authority to approve applications to change a property's comprehensive plan
+designation as allowed by ORS, OAR, and the DCCP. No development or land use
+changes are being proposed that impact natural hazards. Any future applications for a
+site- specific comprehensive plan designation change will have to demonstrate
+consistency with Goal 7.
+Goal 8, Recreational Needs
+Finding: This goal is not applicable because the proposed amendments only grant the
+County the authority to approve applications to change a property's comprehensive plan
+designation as allowed by ORS, OAR, a nd the DCCP. No development or land use
+changes are being proposed on recreational resources. Any future applications for a
+site- specific comprehensive plan designation change will have to demonstrate
+consistency with Goal 8.
+Goal 9, Economic Development
+Finding: The proposed amendments most directly concern Goal 9. While the DCCP
+contains policies intended to contribute to a stable and healthy economy in the county
+and LCDC acknowledged the plan as consistent with Goal 9's planning and
+implementation guidelines, the recent LUBA and Court of Appeals decision eliminated
+one of the primary implementation measures that the County previously believed it had.
+As a result of those decisions the County lost the " land use control" implementation
+measure of having the authority to approve comprehensive plan designation changes to
+Rural Industrial for properties outside the existing exception areas when approval of a
+requested change was otherwise allowed by ORS, OAR, the DCCP. The basis behind
+the two decisions was an interpretation that the DCCP expressly limited all such plan
+changes to the existing exception areas.
+Given the similarity in language used in DCCP Section 3.4 for the Rural Commercial
+plan designation with the language for the Rural Industrial plan designation, it is
+reasonable to conclude that LUBA and the Court of Appeals would interpret the DCCP
+Rural Commercial provisions similar to how they interpreted the Rural Industrial
+provisions to hold that the DCCP expressly limits Rural Commercial plan designation
+changes to the existing exception areas identified in the plan.
+PAGE 8 of 15 — EXHIBIT " D" TO ORDINANCE 2018- 008
+As discussed below in Section ( 4), the DCCP expresses the County' s intention to
+pursue the full range of economic opportunities that are available to the County so long
+as such activity would continue to maintain the integrity of the County's rural character
+and natural environment. Just as important, the DCCP does not categorically exclude
+any particular type of economic development or exclude economic development at any
+particular location. The proposed amendments are consistent with Goal 9 because they
+safeguard the land use control implementation measure that allows approval of
+comprehensive plan designation changes that promote economic development so long
+as the requested change meets all state and local land use requirements for that
+change.
+The Goal 9 rule does not apply to comprehensive plans for areas outside urban growth
+boundaries. See, OAR 660- 009- 0010( 1). These amendments only affect land in rural
+parts of the county. Consequently, the Goal 9 rule is not applicable to these
+amendments.
+Goal 10, Housing
+Finding: This goal is not applicable because, unlike municipalities, unincorporated
+areas are not obligated to fulfill Goal 10 housing requirements. Furthermore, no
+development or land use changes are being proposed that relate to or impact housing.
+Any future site-specific applications for a comprehensive plan designation change will
+have to demonstrate consistency with Goal 10.
+Goal 11, Public Facilities
+Finding: This goal is not applicable because the proposed amendments only grant the
+County the authority to approve applications to change a property' s comprehensive plan
+designation as allowed by ORS, OAR, and the DCCP. No development or land use
+changes are being proposed that require public facilities or services. Any future site-
+specific applications for a comprehensive plan designation change will have to
+demonstrate consistency with Goal 11.
+Goal 12, Transportation
+Finding: The Transportation Planning Rule ( TPR) requires local governments to
+determine whether an amendment to a comprehensive plan will " significantly affect" an
+existing or planned transportation facility. The TPR identifies three ways in which an
+amendment to a comprehensive plan could " significantly affect" a transportation facility.
+OAR 660- 012- 0060( 1).
+a) Changes the functional classification of an existing or planned transportation
+facility (exclusive of correction of map errors in an adopted plan);
+PAGE 9 of 15 — EXHIBIT " D" TO ORDINANCE 2018- 008
+b) Changes standards implementing a functional classification system; or
+c) Results in any of the effects listed in paragraphs (A) through ( C) of this
+subsection based on projected conditions measured at the end of the planning
+period identified in the adopted TSP. As part of evaluating projected conditions,
+the amount of traffic projected to be generated within the area of the amendment
+may be reduced if the amendment includes an enforceable, ongoing requirement
+that would demonstrably limit traffic generation, including, but not limited to,
+transportation demand management. This reduction may diminish or completely
+eliminate the significant effect of the amendment.
+A) Types or levels of travel or access that are inconsistent with the
+functional classification of an existing or planned transportation facility;
+B) Degrade the performance of an existing or planned transportation
+facility such that it would not meet the performance standards identified in
+the TSP or comprehensive plan; or
+C) Degrade the performance of an existing or planned transportation
+facility that is otherwise projected to not meet the performance standards
+identified in the TSP or comprehensive plan.
+The proposed amendments only grant the County the authority to approve applications
+to change a property's comprehensive plan designation as allowed by ORS, OAR, and
+the DCCP. No development or land use changes are being proposed at this time that
+impact local or state transportation facilities. This goal can be met with site specific
+review conducted during the application process, in compliance with the Deschutes
+County Code requirements.
+Because no development or land use changes are being proposed at this time that will
+result in a significant impact to a state transportation facility or that would amend an
+adopted transportation system plan, the Goal 12 rule ( OAR 660, Division 12) will be
+analysis on an individual site basis during the land use application process.
+Goal 13, Energy Conservation
+Finding: This goal is not applicable because the proposed amendments only grant the
+County the authority to approve applications to change a property's comprehensive plan
+designation as allowed by ORS, OAR, and the DCCP. No development or land use
+changes are being proposed that raise energy conservation issues. Any future site-
+specific applications for a comprehensive plan designation change will have to
+demonstrate consistency with Goal 13.
+Goal 14, Urbanization
+PAGE 10 of 15 — EXHIBIT " D" TO ORDINANCE 2018- 008
+Finding: The purpose of Goal 14 is to direct urban uses to areas inside urban growth
+boundaries. The proposed amendment is consistent with Goal 14 because not only
+must any application for the Rural Commercial or Rural Industrial plan designation
+demonstrate it is consistent with Goal 14, but, as DCCP Policy 3.4.9 and Policy 3.4.23
+direct, land use regulations for the Rural Commercial and Rural Industrial zones ensure
+that the uses allowed are less intensive than those allowed for unincorporated
+communities in OAR 660 Division 22, and are consequently not urban uses.
+Goals 15 through 19
+Finding: These goals are not applicable to any amendments to the DCCP because the
+County has none of those types of lands.
+Section ( 4), Deschutes County Comprehensive Plan
+Chapter 2, Resource Management
+Section 2. 2 Agricultural Land
+Goal 1 Preserve and maintain agricultural lands and the agricultural industry.
+Policy 2.2.3 Allow comprehensive plan and zoning map amendments for individual
+EFU parcels as allowed by State Statute, Oregon Administrative Rules
+and this Comprehensive Plan.
+Policy 2.2.4 Develop comprehensive policy criteria and code to provide clarity on
+when and how EFU parcels can be converted to other designations.
+Finding: The introductory statement to DCCP Section 2.2 discusses the County's
+agricultural sub -zones, irrigation districts, the state and future of farming in the county,
+recent legislative activity at the state level, and the future of farm designations and uses
+in the county.
+Significant to these amendments, the introductory statement also identifies a range of
+potentially conflicting concerns regarding farm lands. However, the statement
+concludes:
+The goals and policies in this Section are intended to provide the basis
+for evaluating the future of agriculture in the County over the next twenty
+years. They are intended to provide, within State guidelines, flexibility to
+the farming community. County farm lands will be preserved by ensuring a
+variety of alternative paths to profitability." DCCP, Section 2, p. 10.
+Agricultural Land Goal 1 recognizes the importance of preserving agricultural lands and
+of supporting the agricultural industry in the county. However, Policies 2. 2. 3 and 2. 2. 4
+recognize, as does the discussion in the introduction, that there are properties in the
+PAGE 11 of 15 — EXHIBIT " D" TO ORDINANCE 2018- 008
+county where land that is designated for agricultural use is not suitable for or necessary
+to support agriculture.
+Policy 2.2.3 expressly allows for comprehensive plan and zoning map amendments for
+individual EFU parcels. Given the prevalence of agricultural land in the county, it is
+possible that any applications for a plan change to Rural Commercial or Rural Industrial
+could involve land designated for agricultural use. The proposed amendments are
+consistent with this policy because, like Policy 2.2.3, the amendments allow for plan
+designation changes only if they are permitted under ORS, OAR, and the DCCP.
+The express reference to ORS and OAR by the amendments invoke the demanding
+standards established by those provisions, which will preclude most properties currently
+designated for agricultural use from being converted to the Rural Commercial or Rural
+Industrial plan designation. This is consistent with Policy 2.2.4.
+Furthermore, existing Policies 3.4. 12 and 3.4.27 provide that land use regulations shall
+ensure that new uses authorized within Rural Commercial and Rural Industrial sites do
+not adversely affect agricultural and forest uses in the surrounding area. Implementing
+regulations for those policies have been incorporated into DCC Title 18.
+The proposed amendments are consistent with DCCP Section 2. 2.
+Section 2. 3 Forest Land
+Goal 1 Protect and maintain forest lands for multiple uses, including forest
+products, watershed protection, conservation, recreation and wildlife
+habitat protection.
+Policy 2.3.9 Support economic development opportunities that promote forest
+health.
+Finding: The introductory statement to Section 2.3 Forest Lands discusses the
+County's forest designations, provides background data, current trends, future uses and
+the significance of key forest resources in the county. The statement notes that, while
+much of the county land is in forest designation, 92% of it is owned by the federal
+government. The focus of the introductory statement is on retaining forest land in larger
+blocks and protecting the Skyline Forest. The introductory statement also notes the
+development pressures on forest land comes primarily from the desire for residential
+use.
+The goal of protecting and maintaining forest lands presented in the introductory
+statement is reinforced by Section 2.3 Goal 1. The desire to promote multiple uses of
+forest lands is reinforced by Policy 2.3.9, which encourages pursuing economic
+development opportunities that promote forest health. The proposed amendments
+provide the county with an additional implementation measure to promote economic
+PAGE 12 of 15 — EXHIBIT " D" TO ORDINANCE 2018- 008
+development that will support forest lands if the requisite state and local land use
+requirements are met.
+Furthermore, existing Policies 3.4. 12 and 3.4.27 provide that land use regulations shall
+ensure that new uses authorized within Rural Commercial and Rural Industrial sites do
+not adversely affect agricultural and forest uses in the surrounding area. Implementing
+regulations have been incorporated into DCC Title 18.
+The proposed amendments are consistent with DCCP Section 2. 3.
+Chapter 3, Rural Growth Management
+Section 3.4 Rural Economy
+Goal 1 Maintain a stable and sustainable rural economy, compatible with rural
+lifestyles and a healthy environment.
+Policy 3.4. 1 Promote rural economic initiatives, including home- based businesses
+that maintain the integrity of the rural character and natural
+environment.
+a. Review land use regulations to identify legal and appropriate rural
+economic development opportunities
+Lands Designated and Zoned Rural Commercial
+Policy 3.4. 8 Update the policies for lands designated Rural Commercial as needed.
+Policy 3.4.9 Rural Commercial designated lands located outside of urban growth
+boundaries shall allow uses less intense than those allowed in
+unincorporated communities as defined by Oregon Administrative Rule
+660- 22 or its successor.
+Lands Designated and Zoned Rural Industrial
+Policy 3.4.22 Update the policies for lands designated Rural Industrial as needed.
+Policy 3.4.23 To assure that urban uses are not permitted on rural industrial lands,
+land use regulations in the rural Industrial zones shall ensure that the
+uses allowed are less intensive than those allowed for unincorporated
+communities in OAR 660- 22 or any successor.
+Finding: The introductory statement for DCCP Section 3.2 Rural Development
+recognizes the potential for limited economic development in rural areas of the county.
+The statement notes that state law greatly restricts rural commercial and rural industrial
+uses in rural areas, so consequently the economic growth in those areas is not
+PAGE 13 of 15 — EXHIBIT " D" TO ORDINANCE 2018- 008
+anticipated to be significant. DCCP Chapter 3, p. 3. However, the economic trends
+portion of the introductory statement for DCCP Section 3.4 Rural Economy states:
+As noted above, statewide land use goals and rules direct growth
+primarily in urban areas. Still, there are economic opportunities that can be
+supported by the County." DCCP, Chapter 3, p. 9.
+The DCCP then discusses a variety of economic opportunities the County can pursue.
+Furthermore, the final component of the introductory statement, addressing the future of
+the county economy, discusses the county's attractiveness for employers and
+employees, and a range of economic opportunities — both urban and rural — that the
+County can pursue to promote economic growth.
+Each of those passages express the County' s intent to pursue the full range of
+economic opportunities available, while at the same time recognizing that Oregon' s
+statewide land use planning program imposes severe limitations on the types and
+intensity of economic activity that can occur on rural land. While the expectation is that
+future rural commercial and industrial growth in the county will be extremely limited,
+those provisions leave little doubt that the County wishes to pursue whatever
+opportunities exist to promote rural economic development.
+The proposed amendments provide the County the authority to pursue economic
+opportunities that meet the stringent requirements of state and local land use
+regulations. This is consistent with the intent expressed in the introductory statements
+discussed above.
+The proposed amendments are also consistent with DCCP Section 3. 4 Rural
+Economy' s Goal 1, which seeks to maintain a stable and sustainable rural economy that
+is compatible with rural lifestyles and a healthy environment. As encouraged by Policy
+3. 4. 1, the proposed amendments will allow the county to promote appropriate rural
+economic initiatives and development activities, reversing the prohibition imposed by
+the recent decisions on new designations that promote economic development outside
+of the existing exception areas.
+The proposal also updates the policies for both Rural Commercial and Rural Industrial
+land designations as provided for under Policies 3. 4. 1 and 3. 4. 22. Again, the purpose
+of the updates is to ensure that any approvals to designate property with the Rural
+Commercial or Rural Industrial designation are consistent with all state and local land
+use regulations.
+The proposed amendments also do nothing that allows urban uses on rural land,
+thereby implementing Policies 3.4.9 and 3.4.23. The application of DCC Title 18 to any
+development proposed on Rural Commercial or Rural Industrial designated land will
+ensure that the development approved is consistent with the requirements set forth
+under Policies 3. 4. 12 and 3. 4. 27 to not adversely affect surrounding area agricultural or
+forest land, or the development policies limiting building size ( Policies 3.4. 14; 3.4.30),
+PAGE 14 of 15 — EXHIBIT " D" TO ORDINANCE 2018- 008
+sewers ( Policies 3. 4. 18; 3. 4. 31 and . 35), and water ( Policies 3. 4. 19; 3. 4. 31) intended to
+limit the scope and intensity of development on rural land.
+The proposed amendments are consistent with the parts of DCCP Chapter 3 not directly
+affected by the amendments.
+III. CONCLUSION
+The decisions by LUBA and the Court of Appeals in Central Oregon LandWatch v.
+Deschutes County, _ Or LUBA _ ( LUBA No. 2016- 012, August 10, 2016), aff' d, 288
+Or App 378, 379- 80, _ P3d _ ( 2017), held that the DCCP does not give the County
+the authority to approve applications for the Rural Industrial designation on land that
+was located outside of three existing exception areas expressly identified in the plan.
+LUBA explained that there was nothing that inherently prohibits the County from
+approving such changes, but that the DCCP must be amended to allow the county to do
+so.
+Given that the DCCP language used within the section for Rural Commercial land use
+mirrors the language used in the section for Rural Industrial land use, the Board
+concludes it is necessary to also amend DCCP Rural Commercial provisions.
+The purpose of these amendments to Section 3.4 Rural Economy is to ensure that the
+County can approve applications for the Rural Commercial or Rural Industrial plan
+designation that meet the requirements of ORS, OAR, and the DCCP and the
+Deschutes County code, in order to promote economic development in the county.
+Based upon the above findings, the Board concludes that the proposed amendments
+are consistent with applicable ORS, OAR, and the DCCP.
+PAGE 15 of 15 — EXHIBIT " D" TO ORDINANCE 2018- 008
+ES
+Deschutes County Board of Commissioners
+1300 NW Wall St, Bend, OR 97703
+541) 388- 6570 - Fax ( 541) 385- 3202 - https:// www. deschutes. org/
+AGENDA REQUEST & STAFF REPORT
+For Board of Commissioners Business Meeting of September 26, 2018
+DATE: September 20, 2018
+FROM: Nicole Mardell, Community Development,
+TITLE OF AGENDA ITEM:
+FIRST AND SECOND READING: Ordinance No. 2018- 008, Rural Commercial and Rural
+Industrial Amendments
+BACKGROUND AND POLICY IMPLICATIONS:
+The Board of Commissioners will consider first and second reading of Ordinance 2018- 008
+with adoption by emergency. The ordinance includes amendments to the Deschutes County
+Comprehensive Plan allowing for the potential of new properties to be designated as Rural
+Commercial or Rural Industrial.
+FISCAL IMPLICATIONS: None.
+ATTENDANCE: Nicole Mardell, Associate Planner

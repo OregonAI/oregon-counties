@@ -1,0 +1,198 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch1428
+title: 'Ch1428'
+doc_type: ordinance
+citation: 'Ch1428'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/14%20Building/Ch1428.pdf?t=202406181506180
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 94743c4e51d5bb5343034265d24eafe28ed849e4e09855579a2ba3a7d9cc3502
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 446.020
+    - ORS 446.185
+    - ORS 446.200
+    - ORS 446.240
+    - ORS 446.255
+    - ORS 446.430
+    - ORS 455.010
+    - ORS 466.280
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch1428 (Ch1428)
+
+## At a glance
+
+Ch1428 — code of Jackson County. 5 pages.
+
+## Full text
+
+CHAPTER 1428
+Manufactured Dwellings and Park Trailers
+
+1428.01 Adoption
+of State Regulations.
+1428.02 Violations.
+1428.03 Validity, Expiration and Suspension or Revocation of Permits.
+1428.04 Systems Development Charge.
+1428.95 Investigative Fee.
+1428.99 Penalty.
+
+CROSS REFERENCES
+
+Mobile homes, trailers and recreational vehicles; specialty code - see ORS
+446.185, 455.010
+Ordinances - see ORS 446.200
+Mobile home accessory buildings; compliance with State Building Code - see
+ORS 446.240
+Inspection certification or authority; revocation - see ORS 446.255
+Manufactured Structures and Parks Advisory Board - see ORS 466.280
+Inspection of mobile homes and parks; enforcement of regulations - see ORS
+446.430
+Self-issuing oversize and/or overweight vehicle permits - see TRAF. Ch. 430
+Systems development charge - see B. & H. 1420.06; H. & S. 1860.06
+Building permits see - B. & H. 1420.05, Ch. 1448
+
+1428.01 ADOPTION OF STATE REGULATIONS.
+
+(a) This chapter is enacted to enable the Jackson County Building Official to
+promulgate the following Oregon Administrative Regulations: OAR 918-500
+Manufactured Dwelling and OAR 918-530 Park Trailer and Cabana Installation
+Standards as County law and where necessary and, permissible, to enact rules providing
+for local administration of OAR’s which, all together is intended to govern installation of
+manufactured dwellings, park trailers and cabanas.
+
+(b) The rules adopted and published pursuant to this chapter shall be at the direction and
+under the authority of the Building Official in full compliance with the state building
+code pursuant to ORS 455.010 et seq and ORS 446.020 et seq  and related administrative
+rules and once adopted by the Building Official and ratified by order of the Board of
+Commissioners, will be county law and enforced as such.
+12 Manufactured Dwellings and Park Trailers 1428.03
+
+(c) The regulations adopted in subsection (a) and (b) hereof, together with the
+provisions of this chapter, shall be referred to as the Jackson County Mobile Home Code
+(J.C.M.H.C.).
+
+(Ord. 92-7. Passed 7-1-92; Ord. 2007-12. Passed. 3-28-07.)
+
+1428.02 VIOLATIONS.
+
+No person shall inhabit or occupy, or perm it the inhabitation or occupancy of, any
+premises, including dwellings, other buildings or land, unless all permits required for
+such premises under any prevailing law have been obtained and are in force. No person
+shall violate or fail to comply  with any of the provisions of OAR 918-500 and 918-530,
+as adopted in Section 1428.01, or a stop-work order issued pursuant to such regulations.
+
+(Ord. 92-7. Passed 7-1-92; Ord. 2007-12. Passed. 3-28-07.)
+
+1428.03 VALIDITY, EXPIRATION AND SUSPENSION OR REVOCATION OF
+PERMITS.
+
+Except as provided in subsection (d) hereof, the validity, expiration and suspension or
+revocation of any permit or approval issued pursuant to this Mobile Home Code shall be
+governed by the following rules:
+
+(a) Validity of Permits.  The issuance or granting of a permit or approval of plans and
+specifications shall not be construed to be a permit for, or an approval of, any violation of
+any of the provisions of this Mobile Home Code.  No permit presuming to give authority
+to violate or cancel any of the provisions of this Mobile Home Code shall be valid.
+
+(b) Expiration.  Every permit issued by the County under this Mobile Home Code shall
+expire by limitation and become null and void if the use or work authorized by such
+permit is not commenced within 180 days from the date of issuance of such permit, or if
+the use or work authorized by such permit is suspended or abandoned at any time after
+the work is commenced for a period of 180 days. Before such use or work can be
+recommenced, a new permit shall first be obtained to do so and the fee therefor shall be
+one-half the amount required for a new permit for such use or work, provided that no
+changes have been made or will be made in the original plans and specifications for such
+work, and provided, further, that such suspension or abandonment has not exceeded one
+year. Any permittee holding an unexpired permit may apply for an extension of the time
+within which he or she may commence a use or work under that permit when he or she is
+unable to commence such use or work within the time required by this subsection for
+good and satisfactory reasons. The County may extend the time for action by the
+permittee for a period not exceeding 180 days  upon written request by the permittee
+showing that circumstances beyond the control of the permittee have prevented action
+from being taken. No permit shall be extended more than once. In order to renew action
+on a permit after expiration, the permittee shall pay a new full permit fee.
+1428.99 Manufactured Dwellings and Park Trailers 12A
+
+(c) Suspension or Revocation.  The County may, in writing, suspend or revoke a permit
+issued under this Mobile Home Code whenever the permit is issued in error, or on the
+basis of incorrect information supplied, or in violation of any ordinance or regulation or
+any of the provisions of this Mobile Home Code.
+
+(d) Parallel Provisions .  This section does not apply where the validity, expiration,
+suspension, revocation or expiration of a permit or approval is otherwise provided for in
+the ordinance under which such permit or approval is issued.
+
+(e) Effective Date.  Any permit governed by this section, and issued prior to the
+effective date of this section, shall be treated, for purposes of this section, only as having
+been issued on such effective date.
+
+1428.04 SYSTEMS DEVELOPMENT CHARGE.
+
+There is hereby imposed a systems development charge pursuant to the
+intergovernmental supplemental agreement, dated December 28, 1979. No permit shall
+be issued for development under this Manufactured Dwelling Code until such charge is
+collected.
+
+(Ord. 2007-12. Passed. 3-28-07.)
+
+1428.95 INVESTIGATIVE FEE.
+
+In addition to the penalty set forth in Section 202.99 of these Codified Ordinances,
+regardless if a citation has been issued for a violation of any of the provisions of this
+chapter, where a permit is then required in order to correct the condition, there shall be
+imposed an investigative fee for the issuance of the permit required by the ordinance
+under which the violation was charged.  The investigative fee shall be equivalent to the
+permit fee but shall not exceed $1,000.  The payment of such fee by way of a penalty
+shall not relieve any person from fully complying with the requirements of any County
+code, nor from any other penalties prescribed therein.  If the Building Official finds that
+the offender committed the violation as the result of good faith reliance upon some
+written assurance given by the Development Services Department, he or she may excuse
+the additional investigative fee provided in this Section.
+
+(Ord. 2017-22. Passed. 11-08-17.)
+
+1428.99 PENALTY.
+
+(a) Citations for Violations of Stop- Work Orders.  A citation may be issued for a
+violation of a stop-work order issued pursuant to any of the provisions of this chapter or
+pursuant to any other County ordinance or law.
+12B Manufactured Dwellings and Park Trailers 1428.99
+
+(b) Violations as Nuisances; Injunction.  A violation of any of the provisions of this
+chapter shall constitute a nuisance and may be enjoined by appropriate proceedings in a
+court of competent jurisdiction or may be the subject of any other civil remedy provided
+by law.
+
+(Ord. 2003-4. Passed 1-22-03; Ord. 2007-2. Passed 1-31-07; Ord. 2017-22. Passed 11-08-
+17.)
+
+EDITOR'S NOTE:  See Section 202.99 for general Code penalty if no specific penalty is
+provided.
+
+ Manufactured Dwellings and Park Trailers 12C
+
+THIS PAGE RESEVERED FOR EXPANSION

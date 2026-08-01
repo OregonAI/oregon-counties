@@ -1,0 +1,178 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-90-005
+title: 'Ordinance No. 90-005'
+doc_type: ordinance
+citation: 'Ordinance No. 90-005'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616643618_1990-01365-Ordinance%20No.%2090-005%20Recorded%201_11_1990.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e15a605129a63ff77854b5d86b2a8a5e2b4eb8b14e4211505385f1933ed05b95
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 90-005 (Ordinance No. 90-005)
+
+## At a glance
+
+Ordinance No. 90-005 — orders of Deschutes County. 2 pages.
+
+## Full text
+
+i$
+Uwtl13 5 _ t y
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF
+An Ordinance Amending Chapter *
+15. 04, Building and Construc- *
+tion Codes and Regulations,
+of the Deschutes County Code,
+and Declaring an Emergency.
+ORDINANCE NO. 90- 005
+fEA D
+Q 74
+DESCHUTESI-- 4C9i3AF`1'Y- ( 3RE
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES
+OREGON, ORDAINS as follows:
+Section 1. Section 15. 04. 030, " Structural code - Adopted,"
+is amended to read as follows:
+A certain book or publication, a copy of which is on
+file with the county clerk, marked and entitled Uniform
+Building Code, 1988 Edition, State of Oregon Structural
+Specialty Code, 1990 Edition, effective January 1,
+1990, hereinafter referred to as the ' structural code,'
+is adopted in its entirety as the structural code for
+the unincorporated areas of the county, for regulating
+and controlling the construction, reconstruction,
+remodeling, enlargement, alteration, repair, moving,
+removal, conversion, demolition, occupancy, equipment,
+use, height, area and maintenance of buildings or
+structures in the unincorporated areas of the county.
+The structural code adopted and on file in the county
+clerk' s office is referred to and by this reference
+made a part of this chapter as though fully set out in
+this chapter."
+Section 2. Section 15. 04. 040, " Plumbing code - Adopted," is
+amended to read as follows:
+A certain book or publication, a copy of which is on
+file with the county clerk, marked and entitled, Oregon
+State Plumbing Specialty Code, 1990 Edition, effective
+January 1, 1990, hereinafter referred to as the
+plumbing code,' is adopted in its entirety as the
+plumbing code for the county for regulating and con-
+trolling the erection, installation, alteration, addi-
+tion, repair, relocation, replacement, maintenance or
+use of plumbing systems in the unincorporated areas of
+the county. The plumbing code adopted and on file in
+the county clerk' s office is referred to and by this
+reference made a part of this chapter as though fully
+set out in this chapter."
+Section 3. Section 15. 04. 050, " Mechanical code - Adopted,"
+is amended to read as follows:
+K° r t:
+1 - ORDINANCE NO. 90- 005
+r
+4, 100TAN 2
+COUNTY,;,,y
+1
+a
+ccr
+Section 1. Section 15. 04. 030, " Structural code - Adopted,"
+is amended to read as follows:
+A certain book or publication, a copy of which is on
+file with the county clerk, marked and entitled Uniform
+Building Code, 1988 Edition, State of Oregon Structural
+Specialty Code, 1990 Edition, effective January1,
+1990, hereinafter referred to as the ' structural code,'
+is adopted in its entirety as the structural code for
+the unincorporated areas of the county, for regulating
+and controlling the construction, reconstruction,
+remodeling, enlargement, alteration, repair, moving,
+removal, conversion, demolition, occupancy, equipment,
+use, height, area and maintenance of buildings or
+structures in the unincorporated areas of the county.
+The structural code adopted and on file in the county
+clerk' s office is referred to and by this reference
+madea part of this chapter as though fully set out in
+this chapter."
+Section 2. Section 15. 04. 040, " Plumbing code - Adopted," is
+amended to read as follows:
+A certain book or publication, a copy of which is on
+file with the county clerk, marked and entitled, Oregon
+State Plumbing Specialty Code, 1990 Edition, effective
+January1, 1990, hereinafter referred to as the
+plumbing code,' is adopted in its entirety as the
+plumbing code for the county for regulating and con-
+trolling the erection, installation, alteration, addi-
+tion, repair, relocation, replacement, maintenance or
+use of plumbing systems in the unincorporated areas of
+the county. The plumbing code adopted and on file in
+the county clerk' s office is referred to and by this
+reference madea part of this chapter as though fully
+set out in this chapter."
+Section 3. Section 15. 04. 050, " Mechanical code - Adopted,"
+is amended to read as follows:
+K° rt:
+1 - ORDINANCENO. 90- 005
+3y- 4 - 0746
+A certain book or publication, a copy of which is on
+file with the county clerk, marked and entitled, Uni-
+form Mechanical Code, 1988 Edition, State of Oregon
+Mechanical Specialty Code, 1990 Edition, effective
+January 1, 1990, hereinafter referred to as the
+mechanical code,' is adopted in its entirety as the
+mechanical code for the county for regulating and con-
+trolling the design, construction, installation, qual-
+ity of materials, locations, operation and maintenance
+of heating, ventilating, cooling, refrigeration
+systems, incinerators and heat producing application,
+except boilers and pressure vessels regulated by State
+Boiler Pressure Vessel Law, in the unincorporated areas
+of the county. The mechanical code so adopted and on
+file in the county clerk' s office is referred to and by
+this reference made a part of this chapter as though
+fully set out in this chapter."
+Section 4. Section 15. 04. 080, " Fire code - Adopted," is
+amended to read as follows:
+A certain book or publication, a copy of which is on
+file with the county clerk, marked and entitled, Uni-
+form Fire Code, 1988 Edition, State of Oregon Fire
+Code, 1989 Edition, hereinafter referred to as ' fire
+code,' hereby is adopted in its entirety as the fire
+code of the county for regulating the hazards from
+storage, handling and use of hazardous substances,
+materials and devices, and from conditions or premises
+in unincorporated Deschutes County; and the fire code
+so adopted and on file in the office of the county
+clerk is referred to and by this reference made a part
+of this chapter as though fully set out herein."
+Section 5. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergency
+is declared to exist, and this Ordinance takes effect on its
+passage. %%
+DATED this _/ L_ day of
+r
+Recording Secretary
+2 - ORDINANCE NO. 90- 005
+1990.
+BOARD OF COUNTY COMMISSIONERS

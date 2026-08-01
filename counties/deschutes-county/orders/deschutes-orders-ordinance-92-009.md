@@ -1,0 +1,125 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-92-009
+title: 'Ordinance No. 92-009'
+doc_type: ordinance
+citation: 'Ordinance No. 92-009'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616692587_1992-05058-Ordinance%20No.%2092-009%20Recorded%202_13_1992.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 20fdfb329d6ec5908b347ea67c674bc9625b7cba3eb033ebb2f6fd2d41d53240
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 92-009 (Ordinance No. 92-009)
+
+## At a glance
+
+Ordinance No. 92-009 — orders of Deschutes County. 2 pages.
+
+## Full text
+
+92- 05059
+An Ordinance Amending Title 19, of the *
+Deschutes County Code, the Bend Urban *
+Growth Boundary Zoning Ordinance, As
+Amended, Amending Section 19. 24. 050, to*
+Amend the Rear Yard Setback Standard
+in the RL Zone, and declaring an
+emergency.
+ORDINANCE NO. 92- 009
+WHEREAS, the RL Zone currently has a minimum rear
+standard of 20 feet.
+REV
+LE COUINSEL
+0108 1462
+yard setback
+WHEREAS, the definitions of lot line front, rear and side in
+Title 19 create undue problems for corner lots that have two or
+three roads abutting the properties.
+WHEREAS, it is desirable that the rear setback for a yard that
+serves as a side yard be reduced to a reasonable setback similar to
+a side yard setback standard.
+WHEREAS, the Bend Urban Area Planning Commission, after notice
+given and hearing conducted in accordance with applicable law, has
+recommended approval of the proposed Text Amendment to Section
+19. 24. 050 as set forth herein, that would make the desired changes;
+now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF
+ORDAINS AS FOLLOWS:
+COUNTY, OREGON,
+Section 1. Section 19. 24. 050 of Title 19 of the Deschutes
+County Code is amended as follows:
+19. 24. 050. Lot Requirements.
+The following lot requirements shall be observed, provided
+that the Hearings Body or Planning Director may allow smaller
+lots or different housing types in a new subdivision approved
+pursuant to this Ordinance and consistent with the
+Comprehensive Plan designation for preservation of forested
+areas or significant rock outcroppings when these lots are
+internal to the subdivision or after hearing if they are
+located on the edge of the new plat.
+A. Lot Area. Every lot shall have a minimum area of
+20, 000 square feet.
+B. Lot Width. Every lot shall have a minimum average
+width of 100 feet.
+C. Frontage. Every lot shall have a minimum width at
+the street of 50 feet, except that on all
+f1992
+roved
+1 - ORDINANCE NO. 92- 009 F' MEC KEYHED
+nC,
+i l l F
+cul- de- sac this may be reduced to 30 feet.
+0108 1463
+D. Front Yard. The front yard shall be a minimum of 30
+feet.
+E. Side Yard. A side yard shall be a minimum of five
+feet and the sum of the two side yards shall be a minimum
+of 15 feet.
+F. Rear Yard. The rear yard shall be a minimum of 20
+feet. In the case of corner lots or similar situations
+where the parcel abuts two public roads or alleys, the
+rear yard may be reduced to five feet for the rear yard
+that serves as a side yard. A side yard is recognized
+where a property line is perpendicular to a front lot line
+where access is obtained and an address is assigned. In
+all cases the solar setback requirements shall be met.
+G. Lot Coverage. Maximum lot coverage by buildings and
+structures shall be 35 percent of the lot area.
+H. Solar Setback. The solar setback shall be as
+prescribed in Section 19. 88. 210. ( Ord. 83- 041 Ss. 8,
+1983).
+Section 2. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergency is
+declared to exist, and this Ordinance takes effect on its passage.
+DATED this day of 2, 1992.
+BOARD OFt COUNTY COMMISSIONERS OF
+DESCHUTES COUNTY, OREGON
+ATTE
+Recording Secretary
+2 - ORDINANCE NO. 92- 009
+issioner
+DICK MAUDLIN, Chairman
+Commiss' oner

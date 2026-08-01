@@ -1,0 +1,160 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-92-043
+title: 'Ordinance No. 92-043'
+doc_type: ordinance
+citation: 'Ordinance No. 92-043'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616694880_1992-16965-Ordinance%20No.%2092-043%20Recorded%205_21_1992.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9774551d281c76382dcab9f35f078c28561c52ce63ca9249eb685acc63cba8be
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 92-043 (Ordinance No. 92-043)
+
+## At a glance
+
+Ordinance No. 92-043 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+REVIEWED
+JL)
+92- 16965
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF
+An Ordinance Amending Title 19 of ao
+the Deschutes County Code, the
+Bend Urban Growth Boundary Zoning n,
+Ordinance, adding Public Buildings N)
+as a Permitted Use in the Light
+F"
+Industrial ( IL) Zone, adding
+cpm
+a Definition for Public Building,
+and Declaring an Emergency.
+MCD
+ko
+ORDINANCE NO. 92- 043
+0118- V499
+WHEREAS, the Deschutes County Planning Department proposed a
+Text Amendment to Section 19. 64. 020 of Title 19, to add public
+buildings as a Permitted Use in the IL, Light Industrial Zone.
+WHEREAS, Public Buildings are a Permitted Use in the CH,
+Highway Commercial, CG, General Commercial, and IG, General
+Industrial Zones, and a Conditional Use in the CL, Limited
+Commercial, CC, Convenience Commercial and IP, Industrial Park
+Zones.
+WHEREAS, the Bend Urban Area Planning Commission, has
+recommended approval of the proposed Text Amendment to Title 19;
+now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. Section 19. 04. 040 of Title 19 of the Deschutes
+County Code is amended to add the following definition:
+Public Buildings. Buildings that are owned and operated by
+federal, state or local governments or special districts and which
+are occupied by such a governmental or quasi - governmental body to
+provide non- proprietary governmental services. Such buildings
+include, but are not limited to, fire stations, city halls,
+courthouses, administration buildings, human service facilities and
+correctional factilities.
+Section 2. Section 19. 64. 020 of Title 19 is amended to read
+as follows:
+19. 64. 020 Permitted Uses.
+The following uses are permitted in the IL Zone subject to the
+provisions of Chapter 19. 76.
+A. Any permitted use in the IP Zone. V" tt,
+a -
+1 - ORDINANCE NO. 92- 043
+I
+B. Cold storage plants, including storage and office.
+C. Fuel oil distributors.
+0118- 0500
+D. Printing, publishing and book binding.
+E. Public utility buildings and yards.
+F. Veterinary clinic and hospitals operated entirely within
+an enclosed building.
+G. Light fabrication and repair shops, such as blacksmith,
+cabinet, electric motor, heating, machine, sheet metal, sign,
+stone monuments, upholstery and welding.
+H. Assembly, manufacture or preparation of articles and
+merchandise from the following previously prepared types of
+materials: bone, canvas, cellophane, cloth, cork, feathers,
+felt, leather, precious or semi- precious metal or stones,
+shell, textiles, tobacco, wax, wire, wood ( excluding sawmills,
+lumbermills, planing mills, molding plants, particle board,
+wafer board, plywood and pulp process) yarns and paint not
+employing a boiling process. ( Ord. 88- 042 ss 29, 1988).
+I. Manufacture, compounding, processing, packing or
+treatment of such products as bakery goods, candy, cosmetics,
+dairy products and meat, drugs, perfume, pharmaceuticals,
+perfumed toilet soap, toiletries; excluding the rendering of
+fats and oils, fish and meat slaughtering and fermented foods,
+such as sauerkraut, vinegar and yeast.
+J. Processing uses such as bottling plants, creameries,
+laboratories, blueprinting and photocopying, laundries, carpet
+and rug cleaning plants, cleaning and dyeing plants, tire
+retreading, recapping and rebuilding.
+K. Contractor' s equipment, storage or sale yard, house
+mover, delivery vehicles, transit storage, trucking terminal
+and used equipment in operable condition.
+L. Manufacture of concrete products and ceramic products
+using only previously pulverized clay.
+M. Manufacture of musical instruments, novelties, rubber or
+metal stamps, toys, optical goods or precision instruments or
+equipment.
+N. Manufacture of artificial limbs, dentures, hearng aids,
+surgical instruments and dressings and other devices employed
+by the medical and dental professions.
+O. Mini storage units.
+P. Planned unit developments subject to the provisions of
+Chapter 19. 104.
+2 - ORDINANCE NO. 92- 043
+Q. ( Deleted by Ord. 88- 042 ss 27, 1988) . 0118- 0501
+R. Accessory uses and buildings customarily appurtenant to
+a permitted use, such as incidental storage, are permitted.
+S. Wholesale distribution of all standard types of prepared
+or packaged merchandise such as automobile supplies, drug and
+electrical supplies, furniture, food products, hardware,
+leather goods, plumbing supplies, textiles and fabrics and
+general merchandise. ( Ord. 88- 042 ss 28, 1988).
+T. Public buildings.
+Section 3. This Ordinance being necessary for the imediate
+preservation of the public peace, health and safety, an emergency
+is declared to exist, and this Ordinance takes effect on its
+passage.
+DATED this Iday of , 1992.
+BOARD 01
+ATTEST:
+Recording Secretary
+3 - ORDINANCE NO. 92- 043
+COUNTY. A W
+COUNTY, OREGON
+Commiss ' oner
+NAW44-
+1 6 1/
+NANCY POPE SC* LANGEN, Commiss: Voner
+r
+DICK MAUDL N, Chairman

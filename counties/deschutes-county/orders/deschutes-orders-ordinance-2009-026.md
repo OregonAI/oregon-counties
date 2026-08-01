@@ -1,0 +1,193 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2009-026
+title: 'Ordinance No. 2009-026'
+doc_type: ordinance
+citation: 'Ordinance No. 2009-026'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617028005_2009-1536-Ordinance%20No.%202009-026%20Recorded%2012_2_2009.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 92b387317311f6b6c7edee6eadb847c4ad72686edb89cc599f222fd345294533
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2009-026 (Ordinance No. 2009-026)
+
+## At a glance
+
+Ordinance No. 2009-026 — orders of Deschutes County. 5 pages.
+
+## Full text
+
+REVIE ED NANCYUBLANKCOUNTY
+OFFICIAL
+ENSHIP, COUNTY CLERKDS4J7409.1536
+COMMISSIONERS' JOURNAL
+12/ 02/2009 a8; z9;a6 AM
+LEGAL OUNSEL
+111ill! I111111111111111111111
+2BEFORETHE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending the Deschutes County Code
+Chapter 18. 52 to Allow Public Safety Operations in * ORDINANCE NO. 2009- 026
+the Surface Mining Zone, and Declaring an
+Emergency.
+WHEREAS, the Oregon Department of Transportation submitted a text amendment to Deschutes
+County Code ( DCC) Chapter 18. 52 to allow public safety operations in the Surface Mining Zone; and
+WHEREAS, after notice was given in accordance with applicable law, a public hearing was held on
+October 1, 2009 before the Deschutes County Planning Commission, and on October 22, 2009 the Deschutes
+County Planning Commission recommended approval of the proposed text amendment; and
+WHEREAS the Board of County Commissioners considered this matter after a public hearing on
+November 30, 2009 and concluded that the proposed changes are consistent with the County's Comprehensive
+Plan, and that the public will benefit from changesto the land use regulations ; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC Section, 18. 52.115, Extended Operating Hours, is amended to read
+as described in Exhibit " A," attached hereto and by this reference incorporated herein, with new language
+underlined.
+Section 2. FINDING. The Board adopts as its findings in support of this decision, Exhibit " B,"
+attached and incorporated by reference herein.
+PAGE 1 OF 2 - ORDINANCE NO. 2009- 026 ( 11/ 30/09)
+Section 3. EMERGENCY. This Ordinance being necessary for the immediate preservation of the
+public peace, health and safety, an emergency is declared to exist, and this Ordinance takes effect on its passage.
+Dated this 3e-of W l-, 2009 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, ORE
+TAMMY BANEY, CHAIR
+DENNIS R. LUKE, VICE CHAIR
+ATTEST:
+12jj~
+Recording Secretary ALAN UNGER, COMMISSIONER
+Date of 1StReading: 36"-''dayof Ay'-, 2009.
+Date of 2ndReading: day of I W , 2009.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Tammy Baney
+c/
+Dennis R. Luke
+Alan Unger
+Effective date: day of , 2009.AL
+ATTEST:
+b7~ &) C~
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2009- 026 ( 11/ 30/09)
+18. 52.115. Extended Operating Hours.
+Notwithstanding the limitations set forth in an approved site plan for surface mining or the limitation on
+hours of operation set forth in DCC 18. 52.110( I), a special operating permit for extended hours of
+operations at a mining site may be approved when the Planning Director or Hearings Body finds that an
+applicant demonstrates that:
+A. Project Necessity. Extended hours of operation are necessary to construct capital improvements and
+other specific public roadway improvements, including but not limited to public safety operations, road
+widening, paving, surfacing and realigning, where practical difficulties not created by the applicant such
+as transportation management requirementsnecessitate project construction and operation of equipment
+outside the hours specified in DCC 18. 52.110( I) or otherwise set forth in a surface mining site plan;
+B. Equipment Limitation. During the extended hours of activity, operations at the mining site shall include
+only those uses allowed under DCC 18. 52.040 and, when already approved as a conditional use, those
+uses listed in DCC 18. 52.050, including vehicular traffic, and shall be limited to the minimum necessary
+to complete the project; and
+C. Time Limitation. Except as provided in (D) below, Aactivities approved under DCC 18. 52.115( B) shall
+not exceed a period of 14 days but may be renewed for successive periods not exceeding three days
+each if. the extension is necessary to complete the roadway or capital improvement project; and
+transportation management concerns or unique project characteristics justify the extension.
+D. Public safety operations.
+1. Public safety operations are those operations permitted under DCC 18. 52.040 that are required to
+respond to a road hazard or incident such as snow, ice, a vehicle crash or other road blockage such
+as a tree, power line, fire, or animal.
+2. Public safety operations are exempt from the time limitations imposed by DCC 18. 52.115( C) and
+18. 52.110( I), provided that the noise and air quality standards of DCC 18. 52.110 are met at all
+times.
+DE. Noise Control. Activities permitted under DCC 18. 52.115 are subject to DCC 8. 08.090( D).
+Ord. 2009- 026 § 1, 2009; Ord. 98- 038 § 1, 1998)
+Page 1 of 1 - ORDINANCE NO. 2009- 026 EXHIBIT " A" ( 11/ 30/09)
+EXHIBIT " B"
+PURPOSE & BACKGROUND
+This is a citizen- initiated ( Oregon Department of Transportation) text amendment to
+Chapter 18. 52 ( Surface Mining Zone) of Title 18 of the Deschutes County Code, to
+include language allowing for public safety operations/activities within the SM zone. The
+language would allow for the possibility of ODOT establishing a site for public safety
+operations/activities for the roads ( highways) under their administration. While this text
+amendment is essentially directed at one surface mining site, which is the ODOT site on
+Highway 126, just east of Sisters, it would apply to all zoned surface mining sites, owned
+by a public entity.
+The applicant is proposing to amend section 18. 52.115, Extended Operating Hours, to
+provide for public safety operations for ODOT.
+TEXT AMENDMENT REVIEW CRITERIA & ANALYSIS
+The proposed amendment revises Deschutes County Code Title 18, Chapter 18. 52, to
+permit public safety operations such as: the loading and distribution of road sanding or
+de- icing equipment ( trucks) and materials, and incident response ( e. g. sending teams to
+a vehicle crash, or road hazard such as a tree, power line, fire, or animal blocking the
+roadway).
+ISSUES
+The primary pro or favorable issue is that this ordinance change could provide for a
+reasonable and efficient use of publicly owned surface mining sites, by allowing them to
+be used for something other that just resource ( gravel, cinders, sand) storage.
+The primary con or non- favorable issue would be the potential noise associated with
+these operations during off hours for normal use.
+The Planning Commission forwarded a recommendation of approval for the proposed
+text amendment at their October 22, 2009 meeting. Staff concurs with the applicant's
+findings on conformance with the intent of the SM zone and the comprehensive plan.
+Staff believes that the proposed use will not impact any mining resource identified in the
+County comprehensive plan, and will be consistent with the plan.
+CONFORMANCE WITH THE DESCHUTES COUNTY COMPREHENSIVE PLAN
+All amendments to the zoning regulations must comply with the County's comprehensive
+plan. The following is an analysis of those applicable plan provisions.
+Chapter 23. 100, Surface Mining
+Under Section 23. 100.060, the following General Policy applies:
+To protect and utilize appropriately, within the framework established by Statewide Land
+Use Planning Goal 5 and its implementing administrative rules, the mineral and
+PAGE 1 OF 2 - ORDINANCE NO. 2009- 026 EXHIBIT " B" ( 11/ 30/09)
+aggregate resources of Deschutes County, while minimizing the adverse impacts or
+mineral and aggregate extraction and processing upon the resource impact area.
+The proposed text amendment allows for the continued use of mineral and aggregate
+resources in the surface mining zone, while providing for highway/road maintenance,
+including hours allowed beyond the normal surface mining hours established under DCC
+18. 52.110( 1). The proposed amendment will assure the minimization of any adverse
+impacts of surface mining operations by requiring that State noise and dust regulations
+are continuously met.
+Chapter 23. 64, Transportation System Plan
+Under Section 23. 64.020, the following policy applies:
+The lead agency for transportation project review in Deschutes County shall be:
+1. Deschutes County for projects outside UGBs;
+2. The affected city for projects within UGBs; and
+3. The State of Oregon, Deschutes County and affected cities on
+projects involving state- owned facilities.
+The proposal for extended hours of operation for public safety operations, including
+highway maintenance, will maintain the roads so that the roads may continue to be used
+by the public as outlined in the transportation system plan. The extended hours will also
+lessen the stress on other roads not designed to handle the traffic that will result from
+drivers taking a detour around emergency areas.
+Chapter 23. 52, Economy
+The proposal will comply with the goals and policies listed in this chapter because the
+extended hours will allow ODOT to clear the highways earlier and make them more safe
+for people traveling to and from the County for business and for delivery and service
+vehicles.
+Chapter 23. 80, Natural Hazards
+The extended hours will further the goals and policies of this chapter by allowing ODOT
+to respond during those hours to natural hazards that may be blocking the highways.
+Chapter 23. 88, Agriculture and Chapter 23. 92, Forest Lands
+The County's goal of preserving and maintaining agricultural and forest lands will be met
+because the proposal will allow ODOT to clear the highways of hazards that may impede
+the ability of farmers, ranchers and timber companies to receive needed supplies or to
+deliver their products to the market.
+The remaining Comprehensive Plan chapters are not implicated or are not relative to this
+proposal.
+PAGE 2 OF 2 - ORDINANCE NO. 2009- 026 EXHIBIT " B" ( 11/ 30/09)

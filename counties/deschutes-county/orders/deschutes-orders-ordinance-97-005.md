@@ -1,0 +1,395 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-97-005
+title: 'Ordinance No. 97-005'
+doc_type: ordinance
+citation: 'Ordinance No. 97-005'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616778968_1997-19690-Ordinance%20No.%2097-005%20Recorded%206_5_1997.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 45ecad3fb50841a2a74e4e70f384a1d91dc746bc9ba9128b866c7cdc5a0d5a53
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 97-005 (Ordinance No. 97-005)
+
+## At a glance
+
+Ordinance No. 97-005 — orders of Deschutes County. 15 pages.
+
+## Full text
+
+d  REVIEWED
+97- 196960162-- 0066 LEGAL COUNSEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County
+Code Title 17, and Declaring an Emergency. *_,
+3 :.• <
+Jn,
+ORDINANCE NO. 97- 005 `
+U `; ;
+WHEREAS, TheBoardof CountyCommissionershasdeterminedthat to comply with Periodic
+Review and OAR Chapter 660-22, amendments to the Deschutes County Comprehensive Plan are
+required; and
+WHEREAS, after notice and hearingas requiredby law, the Board of County Commissioners
+has consideredthe recommendation of the Planning Commission; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+ORDAINS as follows:
+Section 1. ADOPTION OF AMENDMENTS TO CHAPTER 17.08 OF COUNTY CODE.
+Chapter 17.08, of the County Code, " Definitions and interpretation of Language," is amended to add a
+new subsection 17. 08. 235, " Drainage Swale," as shown in Exhibit " A," attached hereto and by this
+reference incorporated herein, with new language set forth as underlined type and deleted language in
+strikeout.
+Section 2. ADOPTION OF AMENDMENTS To SECTION 17.36.060 OF COUNTY CODE. Section
+17.36. 060, of the County Code, " Minimum Right of Way and Roadway Widths," is amended to read as
+shown in Exhibit ` B," attachedheretoandby this referenceincorporatedherein, with new languageset
+forth as underlined type and deleted language in strikeout.
+Section 3. ADOPTION OF AMENDMENTS TO SECTION 17.36. 100 OF COUNTY CODE.
+Section 17..36. 100, of the County Code, " Frontage Roads," is amended to read as shown in Exhibit " C,"
+attachedheretoandbythisreferenceincorporatedherein, withnewlanguagesetforthasunderlinedtype
+and deleted language in strikeout.
+Section 4. ADOPTION OF AMENDMENTS TO SECTION 17.48. 050 OF COUNTY CODE.
+Section 17.48.050, of the County Code, " Road Design," is amended to read as shown in Exhibit " D,"
+attachedheretoandby this referenceincorporatedherein, with newlanguagesetforth asunderlinedtype
+and deleted language in strikeout.
+Section 5. ADOPTION OF AMENDMENTS TO SECTION 17.48. 070 OF COUNTY CODE.
+Section 17.48. 070, of the County Code, " Horizontal Alignment," is amended to read as shown in Exhibit
+E," attachedheretoandbythisreferenceincorporatedherein, withnewlanguagesetforthasunderlined
+type and deleted language in strikeout.
+Section 6. ADOPTION OF AMENDMENTS TO SECTION 17.48.080 OF COUNTY CODE.
+Section 17.48.080, of the County Code, " Vertical Alignment," is amended to read as shown in Exhibit
+F," attachedheretoandbythisreferenceincorporatedherein, withnewlanguagesetforthasunderlined
+type and deleted language in strikeout.
+PAGE I OF 2 - ORDINANCE No. 97- 005 ( 6/ 4/ 1997)
+0160- 0007
+Section 7. ADOPTION OF AMENDMENTS TO SECTION 17.48. 100 OF COUNTY CODE.
+Section 17.48.100, of the County Code, " Minimum Right of Way Width," is amended to read as shown
+in Exhibit " G," attachedheretoandbythisreferenceincorporatedherein, with newlanguagesetforthas
+underlined type and deleted language in strikeout.
+Section 8. ADOPTION OF AMENDMENTS TO SECTION 17.48.110 OF COUNTY CODE.
+Section 17.48.110, of the County Code, " Turn Lanes," is amended to read as shown in Exhibit " H,"
+attachedheretoandbythisreferenceincorporatedherein, with newlanguagesetforthasunderlinedtype
+and deleted language in strikeout.
+Section 9. ADOPTION OF AMENDMENTS TO SECTION 17.48. 160 OF COUNTY CODE.
+Section 17.48.160, of the County Code, " Road Development Requirements - Standards," is amended to
+read as shown in Exhibit " I," attachedhereto and by this referenceincorporatedherein, with new
+language set forth as underlined type and deleted language in strikeout.
+Section 10. ADOPTION OF AMENDMENTS TO SECTION 17.48. 175 OF COUNTY CODE.
+Section 17. 48. 175, of the County Code, " Road Development Requirements - Unincorporated
+Communities," is amended to read as shown in Exhibit " J," attached hereto and by this reference
+incorporated herein, with new language set forth asunderlined type and deleted language in strikeout.
+Section 11. ADOPTION OF AMENDMENTS TO SECTION 17.48.190 OF COUNTY CODE.
+Section 17.48.190, of the County Code, " Drainage," is amended to read as shown in Exhibit " K,"
+attachedheretoandbythisreferenceincorporatedherein, with newlanguagesetforthasunderlinedtype
+and deleted language in strikeout.
+Section 12. ADOPTION OF AMENDMENTS TO SECTION 17.48.190 OF COUNTY CODE.
+Chapter17of theCountyCodeisamendedto addanewdrawinglabeledD-7 "DrainageSwale,"
+as set
+forth in Exhibit " L," attachedheretoandby this referenceincorporatedherein.
+Section 13. FINDINGS. Findings to support this ordinance are set forth in the findings supporting
+Ordinance No. 97-001 and attached thereto as Exhibit " C" which findings are incorporated by reference
+herein.
+Section 14. CODIFICATION. Legal Counsel or the Code Book Review Committee shall have the
+authoritytoformattheprovisionscontainedhereininamannerthatwill integratethemintoCountyCode
+consistent with the prescribed form and style for ordinance codification. Such codification shall include
+the authority to make format changes, to make changesto numbering systemsand to make such
+numbering changes with interrelated code sections. In addition, as part of codification of these
+ordinances, Legal Counselor the Code Book Review Committee may insert appropriatelegislative
+history references. Any legislative history referencesincludedherein are not adoptedas part of the
+substance of this ordinance, but are included for administrative convenience and as a reference. They
+maybechangedto correcterrorsandto conformto properstylewithoutactionof theBoardof County
+Commissioners.
+Section 15. CORRECTIONS. This ordinancemay be correctedby order of the Board of County
+Commissionersto cure editorial and clerical errors and to insert appropriate legislative history
+references.
+PAGE 2 OF 2 - ORDINANCE NO. 97- 005 ( 6/ 4/ 1997)
+0162=- 0008
+Section 16. REPEAL OF ORDINANCES AFFECTING EXISTING LIABILITIES. The repeal express or
+implied, of any ordinance, ordinanceprovision, code sectionor any map or line on a map by this
+ordinance shall not releaseor extinguishany duty, condition, penalty, forfeiture, or liability incurred
+under such ordinance, unless a provision of this ordinance shall so expressly provide, and such ordinance
+repealed shall be treated as still remaining in force for the purpose of sustaining any proper action or
+prosecutionfor the enforcementof suchduty, condition, penalty, forfeiture, or liability, for the purpose
+of authorizing the prosecution, conviction and punishment of the person or persons who violated the
+repealed ordinance.
+Section 17. SEVERABILITY. The provision of this ordinance are severable. If any section,
+sentence, clauseor phraseof this ordinanceor anyexhibit or anyexhibit theretois foundto beinvalid by
+a court of competent jurisdiction that decisions shall not affect the validity of the remaining portions of
+this ordinance.
+Section 18. EMERGENCY. This ordinance being necessaryfor the immediate preservation of the
+public peace, health and safety, an emergency is declared to exist, and the this ordinance takes effect on
+this passage.
+Dated this day of June, 1997.
+ATTEST:
+Recording Secretary
+OF COUNTY COMMISSIONERS
+COUNTY. OREGON
+U
+RO E T L NIPPER, Commissioner
+x
+LINDA L. SWEARINGEN, C- 6mmissioner
+PAGE 3 OF 2 - ORDINANCE NO. 97- 005 ( 6/ 4/ 1997)
+a s aua
+EXHIBIT A
+17. 08. 235. Drainage Swale.
+A drainage swale is a depression constructed
+parallel to the right of way between the roadway
+and the sidewalk for containing storm runoff
+from streets.
+I - EXHIBIT " A" TO ORDINANCE 97- 005
+0162- 0010
+EXHIBIT B
+17.36. 060. Minimum Right of Way and
+Roadway Widths.
+The street right of way and roadway
+surfacing widths shall be in conformance with
+standards and specifications set forth in Chapter
+17. 48 of this title. Where Chapter 17. 48 refers to
+street standards found in a zoning ordinance, the
+standardsin the zoning ordinance shall prevail.
+I - EXHIBIT " A" TO ORDINANCE 97- 005
+0162- 0011
+EXHIBIT C
+17. 36. 100. Frontage Roads.
+If a land division abuts or contains an
+existing or proposed collector or arterial street,
+the Planning Director or Hearings Body may
+require frontage roads, reverse frontage lots or
+parcels with suitable depth, screen planting
+contained in nonaccess reservation along rear or
+side property line or other treatment necessaryfor
+adequate protection of residential properties and
+to afford separation of through and local traffic.
+All frontage roads shall comply with the
+applicable standards of Table A of this title,
+unless specifications included in a particular zone
+provide other standards applicable to frontage
+roads.
+1 - EXHIBIT " B" TO ORDINANCE 97- 005
+0162- 0012
+EXHIBIT D
+17. 48. 050. Road Design.
+The design of roads covered by this title is to be
+prepared by a registered professional engineer and
+shall at a minimum conform to the design standards
+for new or existing roads set forth in Table A tgLin
+the design standards set forth for a particular zone in
+a zoning ordinance) and shall otherwise conform
+with AASHTO standards. Base and pavement
+dimensions set forth in Table A ( or in specifications
+set forth for a particular zone) may be increased by
+the Director of Public Works if necessitated by
+anticipated traffic volumes.
+1 - EXHIBIT " C" TO ORDINANCE 97- 005
+0162- 0013
+EXHIBIT E
+17. 48. 070. Horizontal Alignment.
+A. Horizontal curves and tangents distances
+shall e* GLqAd thp Minimum Stafldafds in Table A.
+shall meet AASHTO minimum standards for all
+streets except principal arterials, which shall
+conform to ODOT standards. JSee Table n se
+eut at the end of this
+B. The centerline of road improvements
+shall coincide with the centerline of the right of
+way.
+C. Superelevation shall be designed in
+accordance with AASHTO specifications with
+the maximum superelevation being six percent.
+1 - EXHIBIT " D" TO ORDINANCE 97- 005
+0162- 0014
+EXHIBIT F
+17. 48. 080. Vertical Alignment.
+A. Vertical curves shall be designed to be
+consistent with and complimentary to the horizontal
+curves. Vertical curves shall be designed in
+accordance with AASHTO standards, or for principal
+arterials, to ODOT standards
+B. Maximum percent of grade shall be as
+shown in Table A ( or in richt of way specifications,
+if any, set forth for a particular zone in a zoning
+ordinance.) ( See Table A set out at the end of this
+title.) Minimum grade shall be one percent for all
+roads, unless a drainage plan is submitted to and
+approved by the Director of Public Works.
+C. Angle points shall not be allowed on grade
+breaks over one percent.
+1 - EXHIBIT " E" TO ORDINANCE 97- 005
+0162- CO15
+EXHIBIT G
+17. 48. 100. Minimum Right of Way Width.
+The minimum right of way width is 60 feet
+unless specified otherwise in Table A or in an
+right- of- way specifications set forth for a particular
+zone in a zoning ordinance.) ( See Table A set out at
+the end of this title.)
+1 - EXHIBIT " F" TO ORDINANCE 97- 005
+01c2_ 6016x%2_ 6016
+EXHIBIT H
+17. 48. 110. Turn Lanes.
+When a turn lane is required, it shall be a
+minimum of 14 feet in width, except where road
+specifications in a zoning ordinance provide for
+travel lanes of lesser width.
+1 - EXHIBIT " G" TO ORDINANCE 97- 005
+EXHIBIT I
+17. 48. 160. Road development
+requirements - Standards.
+A. Subdivision Standards. All roads in new
+subdivisions shall either be constructed to a
+standard acceptable for inclusion in the county
+maintained system or the subdivision shall be
+part of a special road district or a homeowners
+association in a planned unit development.
+B. Improvements of Public Rights of Way.
+1. The developer of a subdivision or
+partition will be required to improve all public
+ways that are adjacent or within the land
+development.
+2. All improvements within public rights of
+way shall conform to the improvement standards
+designated in this title for the applicable road
+classification except where a zoning ordinance
+sets forth different standards for a particular zone.
+C. Primary Access Roads. The primary
+access road for any new subdivision shall be
+improved to the applicable standard set forth in
+Table A ( or the applicable standard set forth in a
+zoning ordinance). The applicable standard shall
+be determined with reference to the road' s
+classification under the relevant transportation
+plan. For the purposes of this section a primary
+accessroad is a road leading to the subdivision
+from an existing paved county, city or state
+maintained road that provides the primary access
+to the subdivision from such a road.
+D. SecondaryAccessRoads. When deemed
+necessaryby the County Public Works Director
+or Planning Director, a secondary access road
+shall be constructed to the subdivision.
+Construction shall be to the same standard used
+for roads within the subdivision.
+E. StubbedRoads. Any proposed road that
+terminates at a development boundary shall be
+constructed with a paved cul- de- sac bulb.
+F. Cul- de- sacs. Cul- de- sacs shall have a
+length of less than 600 feet, unless a longer length
+is approved by the applicable fire protection
+district, and more than 100 feet from the center of
+1 - EXHIBIT " H" TO ORDINANCE 97- 005
+the bulb to the intersection with the main road.
+The maximum grade on the bulb shall be four
+percent.
+G. Frontage Roads. Right of way widths
+shall be 40 feet when immediately adjacent to a
+main highway/ arterial; 60 feet when the frontage
+road is separatedfrom the highway or arterial by
+private land or as set forth for a particular zone in
+the zoning ordinance. ( Ord. 93- 057 § 1, 1993;
+Ord. 93- 012 § 50, 1993; Ord. 81- 043 § 1, Exhibit
+A, § 8. 120( 1 }( 6), 1981)
+0152 - COQ.
+EXHIBIT J
+17. 48. 175. Road development requirements -
+Unincorporated communities.
+A. Standards.
+1. In the area zoned Urban Unincorporated
+Community- Commercialor Rural Service Center
+in La Pine-, and Tumalo andall roads
+shall be improved with curbs and sidewalks and
+to the width specified for the applicable urban
+classification in Table A of this title.
+2. For areas zoned Urban Unincorporated
+Community- Industrialor Rural Industrial ( RI) all
+roads shall be improved to the width specified for
+the applicable urban classification in Table A; no
+curbs or sidewalks are required.
+3. For the areas designated residential
+within Urban Unincorporated Communities
+or zoned Rural
+Service Residential ( RSR - M and RSR - 5), all
+roads shall be improved with curbs and sidewalks
+if the density of development is greater than 2.2
+dwelling units per acre. If the density is 2.2
+dwelling units per acre or less, the adjacentroads
+shall be improved with curbs and to the width,
+without sidewalks, specified for the applicable
+urban classification in Table A of the title.
+4. In the Terrebonne Rural Community, all
+improvements to the public road rights-of-way
+shall conform to the road development standards
+contained in Section 18. 66. 070 of this code,
+except for improvements to roads servicing lots
+of greater than 10 acres created byapartition.
+54. No curbs or sidewalks are required in the
+rural service centers of Alfalfa, Brothers,
+Hampton, Millican, Whistle Stop, Wickiup
+Junction, Wild Hunt, Deschutes River Woods and
+Spring River.
+B. All required road improvements shall be
+located on the applicant' s side of the street, unless
+the subject property lies on both sides of the
+street. ( Ord. 96- 003 § 12, 1996; Ord. 93- 057 § 1,
+1993; Ord. 93- 012 § 52, 1993)
+1 - EXHIBIT " I" TO ORDINANCE 97- 005
+0162- 0919
+EXHIBIT K
+17. 48. 190. Drainage.
+A. Minimum Requirements. Drainage
+facilities shall be designed and constructed to
+receive and/ or transport at least a 50 - year storm
+frequency of all surfacedrainagewater coming to
+and/or passing through the development or
+roadway. The system shall be designed for
+maximum allowable development.
+B. Curbed Sections.
+1. Storm drains within curbed streets shall
+have a minimum diameter of 18 inches and shall
+meet the current Standard Specifications for
+Public Works Construction - APWA Oregon
+Chapter.
+2. Catchbasins shall be constructed in
+accordance with Drawing Nos. D -4A, D- 413(1)
+and D- 413( 2). ( See Drawings D - 4A, D- 413( 1) and
+D- 413( 2) set out at the end of this title.)
+C. Noncurbed Sections. Road culverts shall
+be concrete or metal with a minimum design life
+of 50 years. All cross culverts shall be 18 inches
+in diameter or larger. Culverts shall be placed in
+natural drainage areas and shall provide positive
+drainage.
+D. Drainage Swales. Where specified,
+drainage Swales shall be constructed in
+accordance with Drawing D- 7. ( See Drawing D-
+7 set out at the end of this title.)
+ED. Drainage Plans. A complete set of
+drainage plans including hydraulic and
+hydrologic calculations shall be incorporated in
+all road improvement plans.
+FE. Drill Holes. Drill holes are prohibited.
+Ord. 81- 043 § 1, Exhibit A, § 8. 140, 1981)
+1 - EXHIBIT " J" TO ORDINANCE 97- 005
+0162- 0020
+Drawing D- 7
+Drainage Swale

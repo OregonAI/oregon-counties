@@ -1,0 +1,662 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clackamas-county
+id: clackamas-land-use-zdo401
+title: 'Zdo401'
+doc_type: ordinance
+citation: 'Zdo401'
+authority_level: county_ordinance
+issuing_body: 'Clackamas County Board of Commissioners'
+source_url: https://www.clackamas.us/planning/zdo401
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: a135f61a5a7f9ccf86ee7312d512d1df5a2f74aaaea8df73a507fc830ed3d6ed
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 162.135
+    - ORS 195.120
+    - ORS 195.300
+    - ORS 197.660
+    - ORS 197.732
+    - ORS 197.770
+    - ORS 215.203
+    - ORS 215.237
+    - ORS 215.243
+    - ORS 215.263
+    - ORS 215.274
+    - ORS 215.275
+    - ORS 215.283
+    - ORS 215.298
+    - ORS 215.306
+    - ORS 215.311
+    - ORS 215.441
+    - ORS 215.446
+    - ORS 215.448
+    - ORS 215.449
+    - ORS 215.451
+    - ORS 215.452
+    - ORS 215.453
+    - ORS 215.710
+    - ORS 215.780
+    - ORS 30.936
+    - ORS 308.370
+    - ORS 308A.092
+    - ORS 308A.250
+    - ORS 315.141
+    - ORS 358.480
+    - ORS 433.735
+    - ORS 433.750
+    - ORS 433.763
+    - ORS 454.695
+    - ORS 455.055
+    - ORS 459.245
+    - ORS 468B.050
+    - ORS 468B.095
+    - ORS 469.300
+    - ORS 475C.489
+    - ORS 477.490
+    - ORS 517.750
+    - ORS 520.005
+    - ORS 522.005
+    - ORS 527.610
+    - ORS 540.505
+    - ORS 565.210
+    - ORS 603.038
+    - ORS 621.072
+    - ORS 658.750
+    - ORS 671.318
+    - ORS 671.520
+    - ORS 92.010
+    - OAR 340-093-0050
+    - OAR 660-012-0035
+    - OAR 660-033-0010
+    - OAR 660-033-0020
+    - OAR 660-033-0130
+    - OAR 660-034-0035
+  related: []
+  supersedes: []
+tags: [clackamas-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clackamas County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zdo401 (Zdo401)
+
+## At a glance
+
+Zdo401 — land use of Clackamas County. 93964 characters.
+
+## Full text
+
+ZDO 401: Exclusive Farm Use District (EFU) | Clackamas County 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Translate 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jobs 
+ Events 
+ News 
+ Contact Us 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+
+ 
+ 
+ 
+ Community 
+ 
+ 
+ Business 
+ 
+ 
+ Departments 
+ 
+ 
+ Our County 
+ 
+ 
+ I want to... 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ ZDO 401: Exclusive Farm Use District (EFU) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ZDO 401: Exclusive Farm Use District (EFU) 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 401.01 Purpose Section 401 is adopted to implement the policies of the Comprehensive Plan for Agriculture areas. 401.02 Applicability Section 401 applies to land in the Exclusive Farm Use (EFU) District. 401.03 Definitions Unless specifically defined in Subsection 401.03 or in Section 202, Definitions, words or phrases used in Section 401 shall be interpreted to give them the same meaning as they have in common usage and to give Section 401 its most reasonable application.  Accessory Farm Dwelling: Includes all Type s of residential dwellings allowed by the applicable state building code and the number of dwelling units is determined by a land use decision. Agricultural Land: As defined in Oregon Administrative Rules (OAR) 660-33-0020. Commercial Farm: A farm unit with all of the following characteristics: The land is used for the primary purpose of obtaining a profit in money from farm use;  The net income derived from farm products is significant; and Products from the farm unit contribute substantially to the agricultural economy, to agricultural processors, and to farm markets. Date of Creation and Existence: When a lot of record or tract is reconfigured pursuant to applicable law after November 4, 1993, the effect of which is to qualify a lot of record or tract for the siting of a dwelling, the date of the reconfiguration is the date of creation or existence. Reconfigured means any change in the boundary of the lot of record or tract. Dwelling: Unless otherwise provided in Section 401, a dwelling is a detached single-family dwelling, a manufactured dwelling, or a prefabricated structure. Farm or Ranch Operator: A person who operates a farm or ranch, doing the work, and making the day-to-day decisions about such things as planting, harvesting, feeding, and marketing. Farm or Ranch Operation: All lots of record in the same ownership that are used by the farm or ranch operator for farm use. Farm Unit: The contiguous and noncontiguous tracts within the County or a contiguous county held in common ownership and used by the farm operator for farm use. Farm Use: As defined in ORS 215.203. High Value Farmland: As defined in ORS 215.710 and OAR 660-033-0020(8). Irrigated: Agricultural land watered by an artificial or controlled means, such as sprinklers, furrows, ditches, or spreader dikes. An area or tract is "irrigated" if it is currently watered, or has established rights to use water for irrigation, including such tracts that receive water for irrigation from a water or irrigation district or other provider. An area or tract within a water or irrigation district that was once irrigated shall continue to be considered "irrigated" even if the irrigation water was removed or transferred to another tract. Low Value Farmland: All land not defined as High Value Farmland in ORS 215.710 and OAR 660-033-0020(8). Ownership: Holding fee title to a lot of record, except in those instances when the land is being sold on contract, the contract purchaser shall be deemed to have ownership. Ownership shall include all contiguous lots of record meeting this definition. Private Park: Land that is used for low impact casual recreational uses such as picnicking, boating, fishing, swimming, camping, and hiking or nature oriented recreational uses such as viewing and studying nature and wildlife habitat and may include play areas and accessory facilities that support the activities listed above but does not include tracks for motorized vehicles or areas for target practice or the discharge of firearms. Private Park: Land that is used for low impact casual recreational uses such as picnicking, boating, fishing, swimming, camping, and hiking or nature oriented recreational uses such as viewing and studying nature and wildlife habitat and may include play areas and accessory facilities that support the activities listed above but does not include tracks for motorized vehicles or areas for target practice or the discharge of firearms. Tract: One or more contiguous lots of record under the same ownership, including lots of record divided by a county or public road, or contiguous at a common point. Lots of record divided by a state highway are not considered contiguous. 401.04 Uses Permitted Uses permitted in the EFU District are listed in Table 401-1, Permitted Uses in the EFU District. As used in Table 401-1: "A" means the use is allowed. "Type I" means the use requires review of a Type I application, pursuant to Section 1307, Procedures. "Type II" means the use requires review of a Type II application, pursuant to Section 1307, Procedures. "Type III" means the use requires review of a Type III application, pursuant to Section 1307, Procedures. "C" means the use is a conditional use, approval of which is subject to Section 1203, Conditional Uses. The "Subject To" column identifies any specific provisions of Subsection 401.05 to which the use is subject. "N" means not applicable. "*NA" means the use is not allowed except as set forth in Subsection 401.05(I)(1). "HV" means High Value Farmland. "LV" means Low Value Farmland. Numbers in superscript correspond to the notes that follow Table 401-1. Permitted uses are subject to the applicable provisions of Subsection 401.07; Section 1000, Development Standards; and Section 1100, Development Review Process. Table 401-1: Permitted Uses in the EFU District HV LV Farm and Forest Uses Subject To A A Propagation or harvesting of a forest product.   A A Farm use as defined in Oregon Revised Statutes (ORS) 215.203. Marijuana production is subject to Section 841.   A A Other buildings customarily provided in conjunction with farm use.   Type II Type II A facility for the processing of farm products. Marijuana processing is subject to Section 841.1 401.05(B)(1) & (2) C C A facility for the primary processing of forest products. 401.05(B)(3) HV LV Natural Resource Uses Subject To A A Creation of, restoration of, or enhancement of wetlands.   Type II Type II The propagation, cultivation, maintenance, and harvesting of aquatic species that are not under the jurisdiction of the Oregon Fish and Wildlife Commission. 401.05(A)(1) HV LV Residential Uses Subject To A A Uses and structures customarily accessory and incidental to a dwelling, only if a lawfully established dwelling exists.   A,Type II 2 A,Type II 2 Alteration, restoration, or replacement of a lawfully established dwelling. 401.05(A)(3) & (C)(1) Type II Type II Replacement dwelling to be used in conjunction with farm use if the existing dwelling has been listed in a County inventory as historic property and listed on the National Register of Historic Places. 3 401.05(A)(3) N Type II Lot of record dwelling on Low Value Farmland. 401.05(A)(2), (3), (4) & (C)(2) Type II N Lot of record dwelling on Class III or IV High Value Farmland. 401.05(A)(2), (3), (4) & (C)(3) Type III N Lot of record dwelling on Class I or II High Value Farmland. 401.05(A)(2), (3), (4) & (C)(4) Type II N Dwelling customarily provided in conjunction with a farm use on High Value Farmland. 3 401.05(A)(3) & (C)(5) N Type II Dwelling customarily provided in conjunction with a farm use on Low Value Farmland. 3 401.05(A)(3) & (C)(6) Type II Type II Dwelling customarily provided in conjunction with a commercial dairy farm. 401.05(A)(3) & (C)(7) N Type II 160 acre test for a dwelling. 3 401.05(A)(3), (4) & (C)(8) N Type II Capability test for a dwelling. 3 401.05(A)(3), (4) & (C)(9) Type II Type II A single-family dwelling not provided in conjunction with farm use; a nonfarm dwelling. 401.05(A)(3), (4) & (C)(10) Type II Type II Relative farm help dwelling. 3 401.05(A)(3) & (C)(11) Type II Type II Accessory dwelling in conjunction with farm use. 3 401.05(A)(3) & (C)(12) Type II Type II Dwelling on Low or High Value Farmland to be operated by a different farm operator on at least 80 acres. 3 401.05(A)(3) & (C)(13) Type II Type II Temporary dwelling for care, subject to Subsection 1204.04. 401.05(A)(1), (3) & (C)(14) Type II Type II Room and board arrangements for a maximum of five unrelated persons in existing dwellings. 401.05(A)(1) & (3)  Type II Type II Residential home as defined in ORS 197.660, in existing dwellings. 401.05(A)(1) & (3) HV LV Commercial Uses Subject To A A Family child care home.   A A Dog training classes. 401.05(D)(6) A A Dog testing trials. 401.05(D)(7) Type I Type I A license for an approved cider business, farm brewery, or winery to carry out the first six days of the 18-day limit for agri-tourism and other commercial events, subject to: ORS 215.451(6)(a) for a cider business; ORS 215.449(6)(a) for a farm brewery; and ORS 215.237 and 215.452(6)(a) for a winery.   Type II Type II Farm stands 401.05(D)(8) Type II Type II Home occupations, subject to Section 822. 401.05(A)(1) & (D)(1) Type II Type II A landscape contracting business. 401.05(A)(1) & (D)(2) Type I Type I Expedited license for a single agri-tourism or other commercial event or activity on a tract in a calendar year, subject to ORS 215.237 and 215.283(4)(b), (6)(a), and (6)(c)   Type II Type II Single agri-tourism or other commercial event or activity on a tract in a calendar year, subject to ORS 215.237 and 215.283(4)(a), (6)(a), and (6)(c) 401.05(A)(1) & (D)(3) Type II Type II Up to six agri-tourism or other commercial events or activities on a tract in a calendar year, subject to ORS 215.237 and 215.283(4)(c) and (6) 401.05(A)(1) & (D)(3) C C Up to 18 agri-tourism or other commercial events or activities on a lot of record that is a minimum of 80 acres, subject to ORS 215.237 and 215.283(4)(d), (5), (6)(a), and (6)(c) 401.05(A)(1) & (D)(3) Type II Type II A cider business as described in and subject to ORS 215.451.   Type II Type II A farm brewery as described in and subject to ORS 215.449.   Type II Type II A winery as described in and subject to ORS 215.452 or 215.453, whichever is applicable, but not a restaurant open more than 25 days per calendar year.   Type II Type II A large winery with a restaurant in conjunction with a winery as described in ORS 215.453 that is open to the public for more than 25 days in a calendar year or; agri-tourism or other commercial events in conjunction with a winery as described in ORS 215.453 that occur on more than 25 days in a calendar year. 401.05(A)(1) Type II Type II A bed and breakfast facility as a home occupation in association with a cider business, farm brewery, or winery, subject to: ORS 215.448 and ORS 215.451(10) for a cider business; ORS 215.448 and ORS 215.449(10) for a farm brewery; and ORS 215.448 and either ORS 215.452 or 215.453, whichever is applicable, for a winery. 401.05(A)(1) & (D)(4) Type II Type II Cider business, farm brewery, or winery agri-tourism or other commercial events for days seven through 18 of the 18-day limit, subject to: 215.451(6)(c) for a cider business; ORS 215.449(6)(c) for a farm brewery; and ORS 215.237 and 215.452(6)(c) for a winery.   Type II Type II Equine and equine-affiliated therapeutic and counseling activities. 4 401.05(A)(1) & (D)(9) C C Home occupation to host events, subject to Section 806. 401.05(A)(1) & (D)(1) C C Commercial activities in conjunction with farm use that exceed the standards of ORS 215.203(2)(b)(K) or Subsection 401.05(B)(1), such as the processing of farm crops into biofuel. 5 401.05(A)(1) C C An aerial fireworks display business. 401.05(A)(1) & (D)(5) C C Commercial dog boarding kennels. 401.05(A)(1) C C Dog training classes or testing trials that cannot be established under Subsection 401.05(D)(6) or (7). 401.05(A)(1) HV LV Mineral, Aggregate, Oil, and Gas Uses Subject To A A Operations for the exploration for, and production of, geothermal resources as defined by ORS 522.005 and oil and gas as defined by ORS 520.005, including the placement and operation of compressors, separators, and other customary production equipment for an individual well adjacent to a wellhead. Any activities or construction relating to such operations shall not be a basis for an exception under ORS 197.732(1)(a) or (b).   A A Operations for the exploration for minerals as defined by ORS 517.750. Any activities or construction relating to such operations shall not be a basis for an exception under ORS 197.732(1)(a) or (b).   C C Operations conducted for mining, crushing, or stockpiling of aggregate and other mineral and other subsurface resources subject to ORS 215.298. 401.05(A)(1), (E)(1) & (E)(1)(a) C C Processing as defined by ORS 517.750 of aggregate into asphalt or Portland cement. 401.05(A)(1), (E)(1) & (E)(1)(b) C C Processing of other mineral resources and other subsurface resources. 401.05(A)(1), (E)(1) & (E)(1)(c) C C Operations conducted for mining and processing of geothermal resources as defined by ORS 522.005 and oil and gas as defined by ORS 520.005 not otherwise permitted under Section 401. 401.05(A)(1), (E)(1) & (E)(1)(d) HV LV Transportation Uses Subject To A A Climbing and passing lanes within the right of way existing as of July 1, 1987.   A A Reconstruction or modification of public roads and highways, including the placement of utility facilities overhead and in the subsurface of public roads and highways along the public right-of-way, but not including the addition of travel lanes, where no removal or displacement of buildings would occur, or no new land parcels result.   A A Temporary public road and highway detours that will be abandoned and restored to original condition or use at such time as no longer needed.   A A Minor betterment of existing public road and highway related facilities such as maintenance yards, weigh stations, and rest areas, within right of way existing as of July 1, 1987, and contiguous public-owned property utilized to support the operation and maintenance of public roads and highways.   Type II Type II Parking of no more than seven log trucks, subject to ORS 215.311 401.05(A)(1) Type II Type II Construction of additional passing and travel lanes requiring the acquisition of right-of-way but not resulting in the creation of new land parcels. 401.05(A)(1) Type II Type II Reconstruction or modification of public roads and highways involving the removal or displacement of buildings but not resulting in the creation of new land parcels. 401.05(A)(1) Type II Type II Improvement of public road and highway related facilities, such as maintenance yards, weigh stations, and rest areas, where additional property or right-of-way is required but not resulting in the creation of new land parcels 401.05(A)(1) C C Roads, highways and other transportation facilities, and improvements not otherwise allowed under Section 401. 401.05(F)(1) C C Personal-use airports for airplanes and helicopter pads, including associated hangar, maintenance, and service facilities. 401.05(A)(1) &(F)(2) C C Transportation improvements on rural lands, subject to Oregon Administrative Rules (OAR) 660-012-0065.   HV LV Utility and Solid Waste Disposal Facility Uses Subject To A A Irrigation reservoirs, canals, delivery lines, and those structures and accessory operational facilities, not including parks or other recreational structures and facilities, associated with a district as defined in ORS 540.505.   A A Solar energy system as an accessory use.   A A Rainwater collection systems as an accessory use.   A A Electric vehicle charging stations for residents and their non-paying guests.   A A Meteorological towers.   See Table 835-1 See Table 835-1 The following Type s of wireless telecommunication facilities, subject to Section 835: level one collocations, level one placements on utility poles, and, provided that the wireless telecommunication facility includes a transmission tower over 200 feet in height, level two collocations.   A A Utility facility service lines. Utility facility service lines are utility lines and accessory facilities or structures that end at the point where the utility service is received by the customer and are located on one or more of the following: a public right-of-way; land immediately adjacent to a public right-of-way provided the written consent of all adjacent property owners has been obtained; and/or the property to be served by the utility.   Type II Type II Essential public communication services, as defined in Section 835, if they include a new transmission tower over 200 feet in height. 401.05(A)(1) Type II Type II Utility facilities necessary for public service, including associated transmission lines as defined in ORS 469.300 and wetland waste treatment systems but not including commercial facilities for the purpose of generating electrical power for public use by sale or transmission towers over 200 feet in height. This category includes wireless telecommunication facilities not otherwise listed in Table 401-1, Permitted Uses in the EFU District. 401.05(G)(2) Type II Type II Composting operations and facilities that are accepted farm practices in conjunction with and auxiliary to farm use on the subject tract. 401.05(G)(3) *NA C Composting operations and facilities (other than those that are accepted farm practices in conjunction with and auxiliary to farm use on the subject tract), subject to Section 834. 401.05(A)(1) C C Transmission towers over 200 feet in height. Essential public communication services, as defined in Section 835, are excluded from this category, and towers supporting other Type s of wireless telecommunication facilities are subject to Section 835. 401.05(A)(1) C C Commercial utility facilities for the purpose of generating power for public use by sale, not including wind or photovoltaic solar power generation facilities or renewable energy facilities as defined in ORS 215.446. 401.05(A)(1) & (G)(4) C C Wind power generation facilities as commercial utility facilities for the purpose of generating power for public use by sale, subject to OAR 660-033-0130(37). 401.05(A)(1) C C Photovoltaic solar power generation facilities as commercial utility facilities for the purpose of generating power for public use by sale, subject to OAR 660-033-0130(38). 401.05(A)(1) C C Renewable energy facilities as defined in and subject to ORS 215.446. 401.05(A)(1) *NA C A site for the disposal of solid waste approved by the governing body of a city or county or both and for which a permit has been granted under ORS 459.245 by the Department of Environmental Quality together with equipment, facilities, or buildings necessary for its operation. 401.05(A)(1) HV LV Parks, Public, and Quasi-Public Uses Subject To A A Land application of reclaimed water, agricultural process or industrial process water, or biosolids for agricultural, horticultural, or forest production, or for irrigation in connection with a use allowed in the EFU zoning district, subject to the issuance of a license, permit, or other approval by the Department of Environmental Quality under ORS 454.695, 459.205, 468B.050, 468B.053, or 468B.055, or in compliance with rules adopted under ORS 468B.095.   A A Onsite filming and activities accessory to onsite filming for 45 days or less.   Type II Type II A site for the takeoff and landing of model aircraft, including such buildings or facilities as may reasonably be necessary. 401.05(H)(1) Type II Type II Public parks and playgrounds. 401.05(A)(1), (5) & (H)(2) Type II Type II Fire service facilities providing rural fire protection services.   Type II Type II Community centers. 401.05(A)(1), (5) & (H)(3) Type II Type II Living history museum. 401.05(A)(1), (5) & (H)(4) Type II Type II Firearms training facility as provided in ORS 197.770. 401.05(A)(5) Type II Type II Expansion of existing county fairgrounds and activities directly relating to county fairgrounds governed by county fair boards established pursuant to ORS 565.210. 401.05(A)(1) Type II Type II A county law enforcement facility that lawfully existed on August 20, 2002, and is used to provide rural law enforcement services primarily in rural areas, including parole and post-prison supervision, but not including a correctional facility as defined under ORS 162.135. 401.05(A)(1) *NA Type II Churches and cemeteries in conjunction with churches, consistent with ORS 215.441, which does not include private or parochial school education for prekindergarten through grade 12 or higher education. 401.05(A)(5) C C Operations for the extraction and bottling of water. 401.05(A)(1) C C Onsite filming and activities accessory to onsite filming for more than 45 days as provided for in ORS 215.306. 401.05(A)(1) *NA C Public or private schools for kindergarten through grade 12, including all buildings essential to the operation of a school, primarily for residents of the rural area in which the school is located. 401.05(A)(1) & (5) Type II Type II Expansion of a public or private school established on or before January 1, 2009, or expansion of buildings essential to the operation of a public or private school established on or before January 1, 2009. 401.05(I)(2) & (3) *NA C Private parks, playgrounds, hunting and fishing preserves, and campgrounds. 401.05(A)(1), (5) & (H)(5) *NA C Golf courses. 401.05(A)(1), (5) & (H)(6) A A An outdoor mass gathering as defined in ORS 433.735, subject to ORS 433.735 to 433.770. However, an outdoor mass gathering permit under ORS 433.750 is not required for agri-tourism and other commercial events or activities permitted under ORS 215.283(4), 215.449, 215.451, and 215.452.   Type III Type III An outdoor mass gathering of more than 3,000 persons any part of which is held outdoors and which continues or can reasonably be expected to continue for a period exceeding that allowable for an outdoor mass gathering as defined in ORS 433.735, subject to ORS 433.763   1 The processing, compounding, or conversion of marijuana into cannabinoid extracts is prohibited. 2 Type II review is required except as established by Subsection 401.05(C)(1)(h). 3 Farming of a marijuana crop shall not be used to demonstrate compliance with the approval criteria for a dwelling. (See ORS 475C.489.) 4 The use is prohibited in an urban or rural reserve established pursuant to OAR chapter 660, division 27. 5 A commercial activity carried on in conjunction with a marijuana crop is prohibited. (See ORS 475C.489.) 401.05 Approval Criteria for Specific Uses The following criteria apply to some of the uses listed in Table 401-1, Permitted Uses in the EFU District. The applicability of a specific criterion to a listed use is established by Table 401-1. General Criteria Uses may be approved only where such uses: Will not force a significant change in accepted farm or forest practices on surrounding lands devoted to farm or forest use; and Will not significantly increase the cost of accepted farm or forest practices on surrounding lands devoted to farm or forest use. The Natural Resources Conservation Service (NRCS) Web Soil Survey for Clackamas County shall be used to determine the soil classification and soil rating for a specific lot of record for a dwelling, with the following exception: For purposes of evaluating a lot of record dwelling application on high value farmland, the applicant may submit a report from a professional soils classifier whose credentials are acceptable to the Oregon Department of Agriculture that the soil class, soil rating or other soil designation should be changed; and submits a statement from the Oregon Department of Agriculture that the Director of Agriculture or the director's designee has reviewed the report and finds the analysis in the report to be soundly and scientifically based. The landowner for the dwelling shall sign and record in the deed records for the County a document binding the landowner, and the landowner's successors in interest, prohibiting them from pursuing a claim for relief or cause of action alleging injury from farming or forest practices for which no action or claim is allowed under Oregon Revised Statutes (ORS) 30.936 or 30.937. An approval to construct a dwelling may be transferred to any other person after the effective date of the land use decision. No enclosed structure with a design capacity greater than 100 people, or group of structures with a total design capacity of greater than 100 people, shall be approved in connection with the use within three miles of an urban growth boundary, unless an exception is approved pursuant to ORS 197.732 and Oregon Administrative Rules (OAR) chapter 660, division 4, or unless the structure is described in a master plan adopted under the provisions of OAR chapter 660, division 34. Any enclosed structures or group of enclosed structures described in Subsection 401.05(A)(5) within a tract must be separated by at least one-half mile. For purposes of Subsection 401.05(A)(5), "tract" means a tract as defined by Subsection 401.03(O) that was in existence as of June 17, 2010. Existing facilities wholly within a farm use zone may be maintained, enhanced, or expanded on the same tract, subject to other requirements of law, but enclosed existing structures within a farm use zone within three miles of an urban growth boundary may not be expanded beyond the requirements of Subsection 401.05(A)(5). Farm and Forest Uses A facility for the processing of farm products shall: Use less than 10,000 square feet for its processing area and comply with all applicable siting standards, but the siting standards may not be applied in a manner that prohibits the siting of the processing facility; or Notwithstanding any applicable siting standard, use less than 2,500 square feet for its processing area. However, applicable standards and criteria pertaining to floodplains, geologic hazards, airport safety, and fire siting standards shall apply. "Facility for the processing of farm products" means a facility for: Processing farm crops, including the production of biofuel as defined in ORS 315.141, if at least one-quarter of the farm crops come from the farm operation containing the facility; or  Slaughtering, processing, or selling poultry or poultry products from the farm operation containing the facility and consistent with the licensing exemption for a person under ORS 603.038(2).  "Processing area" means the floor area of a building dedicated to farm product processing. "Processing area" does not include the floor area designated for preparation, storage, or other farm use. Any division of a lot of record that separates a facility for the processing of farm products from the farm operation on which it is located is prohibited. A facility for the primary processing of forest products shall not seriously interfere with accepted farm practices and shall be compatible with farm uses described in ORS 215.203(2). Such facility may be approved for a one-year period that is renewable and is intended to be only portable or temporary in nature. The primary processing of a forest product, as used in Subsection 401.05(B)(3), means the use of a portable chipper or stud mill or other similar methods of initial treatment of a forest product in order to enable its shipment to market. Forest products as used in Subsection 401.05(B)(3) means timber grown upon a tract where the primary processing facility is located. Residential Uses A lawfully established dwelling may be altered, restored, or replaced if: The dwelling to be altered, restored or replaced has, or formerly had, the following features. "Formerly had" means that the dwelling possessed all the listed features within three years prior to the date an application is submitted for a replacement dwelling. Intact exterior walls and roof structure; Indoor plumbing consisting of a kitchen sink, toilet, and bathing facilities connected to a sanitary waste disposal system; Interior wiring for interior lights; and A heating system; and The dwelling to be altered, restored, or replaced meets one of the following conditions: Unless the value of the dwelling was eliminated as a result of destruction or demolition, was assessed as a dwelling for purposes of ad valorem taxation since the later of: Five years before the date of the application; or The date that the dwelling was erected upon or fixed to the land and became subject to property tax assessment. If the value of the dwelling was eliminated as a result of destruction or demolition, was assessed as a dwelling for purposes of ad valorem taxation prior to the destruction or demolition and since the later of: Five years before the date of the destruction or demolition; or The date that the dwelling was erected upon or fixed to the land and became subject to property tax assessment. For replacement of a lawfully established dwelling, the dwelling to be replaced must be removed, demolished, or converted to an allowable nonresidential use within three months from the date the replacement dwelling is certified for occupancy pursuant to ORS 455.055 or, in the case of a manufactured dwelling, within three months after the date of final inspection by County Building Codes; As a condition of approval, if the dwelling to be replaced is located on a portion of the lot of record that is not zoned EFU, the applicant shall execute and cause to be recorded in the deed records a deed restriction prohibiting the siting of another dwelling on that portion of the lot of record. The restriction imposed is irrevocable unless the Planning Director places a statement of release in the deed records of the County to the effect that the provisions of ORS 215.283 and 215.291 regarding replacement dwellings have changed to allow the lawful siting of another dwelling. A replacement dwelling must: Be sited on the same lot of record as the dwelling it is replacing; Comply with all applicable siting standards; however, the standards may not be applied in a manner that prohibits the siting of the replacement dwelling; Comply with applicable building codes, plumbing codes, sanitation codes, and other requirements relating to health and safety or to siting at the time of construction; and Comply with the construction provisions of Section R327 of the Oregon Residential Specialty Code, if: The dwelling is in an area identified as extreme or high wildfire risk on the statewide map of wildfire risk described in ORS 477.490; or No statewide map of wildfire risk has been adopted. Construction of the replacement dwelling must commence no later than four years after the approval of the replacement dwelling application becomes final. If an applicant is granted a deferred replacement permit, the deferred replacement permit does not expire but, notwithstanding Subsection 401.05(C)(1)(c), the permit becomes void unless the dwelling to be replaced is removed or demolished within three months after the deferred replacement permit is issued; and the deferred replacement permit may not be transferred, by sale or otherwise, except by the applicant to the spouse or a child of the applicant. The alteration, restoration, or replacement of a lawfully established dwelling requires review as a Type II application pursuant to Section 1307, Procedures, unless the dwelling to be altered, restored, or replaced: Is the only dwelling on the lot of record other than a temporary dwelling approved pursuant to Section 1204, Temporary Permits, or a relative farm help or accessory farmworker dwelling approved pursuant to Subsection 401.05(C)(11) or (12), respectively; Currently has the features listed in Subsection 401.05(C)(1)(a); and Was lawfully established as demonstrated by: An issued County building or manufactured dwelling placement permit approved by the Planning Director; or Assessment records of the County Department of Assessment and Taxation that demonstrate that the dwelling was constructed before the application to the subject property of the first farm, forest, or mixed farm and forest zoning district that restricted the development of dwellings. Lot of record dwelling when determined to be located on Low Value Farmland, subject to the following criteria: The lot of record on which the dwelling will be sited was lawfully created prior to January 1, 1985. The lot of record has been under the continuous ownership of the present owner who either: Acquired the lot of record prior to January 1, 1985, or Acquired the lot of record by devise or intestate succession from a person or persons who had continuously owned the property since January 1, 1985. As used in Subsection 401.05(C)(2)(b), "owner" includes the wife, husband, son, daughter, mother, father, brother, brother-in-law, sister, sister-in-law, son in-law, daughter-in-law, mother-in-law, father-in-law, aunt, uncle, niece, nephew, stepparent, stepchild, grandparent, or grandchild of the owner, or a business entity owned by any one or a combination of these family members. The tract on which the dwelling will be sited does not include a dwelling; The lot of record on which the dwelling will be sited was not part of a tract that contained a dwelling on November 4, 1993. The proposed dwelling is not prohibited by, and will comply with, the requirements of the acknowledged Comprehensive Plan, this Ordinance and other provisions of law. When the lot of record on which the dwelling will be sited is part of a tract, all remaining portions of the common ownership shall remain in common ownership as long as the dwelling remains as approved. The dwelling either will not seriously interfere with the preservation of big game winter range areas identified on Comprehensive Plan Map III-2, Scenic and Distinctive Resource Areas, or can be adequately mitigated. Estimated impacts and appropriate mitigation measures shall be submitted by the applicant and based on the best available data and assessment methods from the appropriate agency. The Oregon Department of Fish and Wildlife (ODFW) suggests to the County that in the absence of mitigation measures, winter range is seriously impacted by residential densities which exceed one unit per 80 acres or one unit per 40 acres, if clustered within 200 feet. Lot of record dwelling when determined to be located on High Value Farmland consisting predominantly of Class III and IV Soil, subject to the following criteria: The lot of record on which the dwelling will be sited was lawfully created prior to January 1, 1985. The lot of record has been under the continuous ownership of the present owner who either: Acquired the lot of record prior to January 1, 1985, or Acquired the lot of record by devise or intestate succession from a person or persons who had continuously owned the property since January 1, 1985. As used in Subsection 401.05(C)(3)(b), "owner" includes the wife, husband, son, daughter, mother, father, brother, brother-in-law, sister, sister-in-law, son-in-law, daughter-in-law, mother-in-law, father-in-law, aunt, uncle, niece, nephew, stepparent, stepchild, grandparent, or grandchild of the owner, or a business entity owned by any one or a combination of these family members. The tract on which the dwelling will be sited does not include a dwelling. The lot of record on which the dwelling will be sited was not part of a tract that contained a dwelling on November 4, 1993. The proposed dwelling is not prohibited by, and will comply with, the requirements of the acknowledged Comprehensive Plan, this Ordinance and other provisions of law. When the lot of record on which the dwelling will be sited is part of a tract, all remaining portions of the common ownership land shall remain in common ownership as long as the dwelling remains as approved. The tract is no more than 21 acres. The tract is bordered on at least 67 percent of its perimeter by tracts that are smaller than 21 acres, and at least two such tracts had dwellings on January 1, 1993; or, the tract is bordered on at least 25 percent of its perimeter by tracts that are smaller than 21 acres, and at least four dwellings existed on January 1, 1993, within one-quarter mile of the center of the subject tract. Up to two of the four dwellings may lie within an urban growth boundary, but only if the subject tract abuts an urban growth boundary. The dwelling either will not seriously interfere with the preservation of big game winter range areas identified on Comprehensive Plan Map III-2, Scenic and Distinctive Resource Areas, or the impacts can be adequately mitigated so as not to interfere. Estimated impacts and appropriate mitigation measures shall be submitted by the applicant and based on the best available data and assessment methods from the appropriate agency. ODFW suggests to the County that in the absence of impact mitigation measures, winter range is seriously considered impacted by residential densities which exceed one unit per 80 acres or one unit per 40 acres, if clustered within 200 feet. Lot of record dwelling when determined to be located on High Value Farmland consisting predominantly of Prime, Unique, Class I or II Soils, subject to the following criteria: The lot of record on which the dwelling will be sited was lawfully created prior to January 1, 1985. The lot of record has been under the continuous ownership of the present owner who either: Acquired the lot of record prior to January 1, 1985, or  Acquired the lot of record by devise or intestate succession from a person or persons who had continuously owned the property since January 1, 1985. As used in Subsection 401.05(C)(4)(b), "owner" includes the wife, husband, son, daughter, mother, father, brother, brother-in-law, sister, sister-in-law, son-in-law, daughter-in-law, mother-in-law, father-in-law, aunt, uncle, niece, nephew, stepparent, stepchild, grandparent, or grandchild of the owner, or a business entity owned by any one or a combination of these family members. The tract on which the dwelling will be sited does not include a dwelling; The lot of record on which the dwelling will be sited was not part of a tract that contained a dwelling on November 4, 1993. The proposed dwelling is not prohibited by, and will comply with, the requirements of the acknowledged Comprehensive Plan, this Ordinance and other provisions of law. When the lot of record on which the dwelling will be sited is part of a tract, all remaining portions of the common ownership land shall remain in common ownership as long as the dwelling remains as approved. The lot of record cannot practicably be managed for farm use, by itself or in conjunction with other land, due to extraordinary circumstances inherent in the land or its physical setting that do not apply generally to other land in the vicinity. Extraordinary circumstances include very steep slopes, deep ravines, rivers, streams, roads, railroads or utility lines or other similar natural or physical barriers that by themselves or in combination, separate the subject property from adjacent agricultural land and prevent it from being practicably managed for farm use by itself or together with adjacent or nearby farms. A parcel that has been put to farm use despite the proximity of a natural barrier or since the placement of a physical barrier shall be presumed manageable for farm use. The dwelling will not materially alter the stability of the overall land use pattern in the area. The dwelling either will not seriously interfere with the preservation of big game winter range areas identified on Comprehensive Plan Map III-2, Scenic and Distinctive Resource Areas, or can be adequately mitigated. (Estimated impacts and appropriate mitigation measures shall be submitted by the applicant and based on the best available data and assessment methods from the appropriate agency. ODFW suggests to the County that in the absence of mitigation measures, winter range is seriously impacted by residential densities which exceed one unit per 80 acres or one unit per 40 acres, if clustered within 200 feet). Dwelling in conjunction with a farm use on High Value Farm Land: A primary farm dwelling for the farm operator may be allowed subject to the following criteria: The subject tract is currently employed in farm use on which the farm operator earned at least $80,000 in gross annual income from the sale of farm products in each of the last two years or three of the last five years, or in an average of three of the last five years; Lots of record in Eastern Oregon shall not be used to qualify a dwelling under this criterion. Except for seasonal farmworker housing approved prior to 2001, there is no other dwelling on lands designated for exclusive farm use or for mixed farm/forest use owned by the farm or ranch operator or on the farm or ranch operation. The lot of record on which the dwelling will be sited was lawfully created; The dwelling will be occupied by a person or persons who produced the commodities which generated the income; In determining the gross income requirement, the cost of purchased livestock shall be deducted from the total gross annual income attributed to the tract. Only gross income from land owned, not leased or rented, shall be counted. Gross farm income earned from a lot of record which has been used previously to qualify another lot of record for the construction or siting of a primary farm dwelling may not be used. Only a lot of record zoned for farm use in Clackamas County or a contiguous county may be used to meet the gross income requirements. jAn irrevocable deed restriction shall be recorded with the County Clerk's Office acknowledging that all future rights to construct a dwelling on other properties used to qualify the primary farm dwelling is precluded except for accessory farm dwellings, accessory relative farm dwellings, temporary hardship dwelling or replacement dwellings, and that any gross farm income used to qualify the primary farm dwelling cannot be used again to qualify any other parcel for a primary farm dwelling. Dwelling in conjunction with a farm use on Low Value Farmland: A primary farm dwelling for the farm operator may be allowed on low value farmland subject to the following criteria: The subject tract is currently employed in farm use on which the farm operator earned at least $40,000 in gross annual income from the sale of farm products in each of the last two years or three of the last five years, or in an average of three of the last five years; Lots of record in Eastern Oregon shall not be used to qualify a dwelling under this criterion. Except seasonal farmworker housing approved prior to 2001, there is no other dwelling on lands designated for exclusive farm use or for mixed farm/forest use owned by the farm or ranch operator or on the farm or ranch operation; The lot of record on which the dwelling will be sited was lawfully created; The dwelling will be occupied by a person or persons who produced the commodities which generated the income; In determining the gross income, the cost of purchased livestock shall be deducted from the total gross income attributed to the tract. Only gross income from land owned, not leased or rented, shall be counted. Gross farm income earned from a lot of record which has been used previously to qualify another lot of record for the construction or siting of a primary farm dwelling may not be used. Only lots of record zoned for farm use in Clackamas County or a contiguous county may be used to meet the gross income requirements. An irrevocable deed restriction shall be recorded with the County Clerk's Office acknowledging that all future rights to construct a dwelling on other properties used to qualify the primary farm dwelling is precluded except for accessory farm dwellings, accessory relative farm dwellings, temporary hardship dwelling or replacement dwellings, and that any gross farm income used to qualify the primary farm dwelling cannot be used to qualify any other parcel for a primary farm dwelling. A dwelling customarily provided in conjunction with a commercial dairy farm, which is a dairy operation that owns a sufficient number of producing dairy animals capable of earning the gross annual income as required by Subsection 401.05(C)(5)(a) or 401.05(C)(6)(a), whichever is applicable, from the sale of fluid milk, if; The subject tract will be employed as a commercial dairy; and The dwelling is sited on the same lot of record as the buildings required by the commercial dairy; and Except for a replacement of a lawfully established dwelling, there is no other dwelling on the subject tract; and The dwelling will be occupied by a person or persons who will be principally engaged in the operation of the commercial dairy farm, such as the feeding, milking or pasturing of the dairy animals or other farm use activities necessary to the operation of the commercial dairy farm; and The building permits, if required, have been issued for and construction has begun for the buildings and animal waste facilities required for a commercial dairy farm; and The Oregon Department of Agriculture has approved the following: A permit for a "confined animal feeding operation" under ORS 468B.050 and 468B.200 to 468B.230; and A Producer License for the sale of dairy products under ORS 621.072. 160 acre test, subject to the following criteria: The parcel on which the dwelling will be located is at least 160 acres. The subject tract is currently employed in a farm use. The dwelling will be occupied by a person or persons who will be principally engaged in the farm use of the land, such as planting, harvesting, marketing or caring for livestock at a commercial scale. Except for seasonal farmworker housing approved prior to 2001, there is no other dwelling on the subject tract; or  Capability test, subject to the following criteria: The subject tract is at least as large as the median size of those commercial farm or ranch tracts capable of generating at least $10,000 in annual gross sales that are located within a study area which includes all tracts wholly or partially within one mile from the perimeter of the subject tract. Lots of record in Eastern Oregon shall not be used to qualify a dwelling under this criterion. The subject tract is capable of producing at least the median level of annual gross sales of county indicator crops as the same commercial farm or ranch tracts used to calculate the tract size in Subsection 401.05(C)(9)(a). The subject tract is currently employed for a farm use at a level capable of producing the annual gross sales required in Subsection 401.05(C)(9)(a). The subject lot of record on which the dwelling is proposed is not less than 10 acres. Except for seasonal farmworker housing approved prior to 2001, there is no other dwelling on the subject tract. The dwelling will be occupied by a person or persons who will be principally engaged in the farm use of the land, such as planting, harvesting, marketing or caring for livestock, at a commercial scale. If no farm use has been established at the time of application, land use approval shall be subject to a condition that no building permit may be issued prior to the establishment of the farm use required by Subsection 401.05(C)(9)(d). In determining the gross sales capability required by Subsection 401.05(C)(9)(d): The actual or potential cost of purchased livestock shall be deducted from the total gross sales attributed to the farm or ranch tract; Only actual or potential gross sales from land owned, not leased or rented, shall be counted; and Actual or potential gross farm sales earned from a lot of record that has been used previously to qualify another lot of record for the construction or siting of a primary farm dwelling may not be used. In order to identify the commercial farm or ranch tracts to be used in Subsection 401.05(C)(9)(a), the gross sales capability of each tract in the study area, including the subject tract, must be determined, using the gross sales figures prepared by the county pursuant to Subsection 401.05(C)(9)(k) as follows: Identify the study area. This includes all land in the tracts wholly or partially within one mile of the perimeter of the subject tract; Determine for each tract in the study area the number of acres in every land classification from the county assessor's data; Determine the potential earning capability for each tract by multiplying the number of acres in each land class by the gross sales per acre for each land class provided by the Land Conservation and Development Commission pursuant to Subsection 401.05(C)(9)(k). Add these to obtain the potential earning capability for each tract; Identify those tracts capable of grossing at least $10,000 based on the data generated in Subsection 401.05(C)(9)(j)(iii); and Determine the median size and median gross sales capability for those tracts capable of generating at least $10,000 in annual gross sales to use in Subsections 401.05(C)(9)(a) and 401.05(C)(9)(c). In order to review a farm dwelling pursuant to Subsection 401.05(C)(9)(a), the county may prepare, subject to review by the director of the Department of Land Conservation and Development, a table of the estimated potential gross sales per acre of each assessor land class (irrigated and nonirrigated) required by 401.05(C)(9)(j). The director shall provide assistance and guidance to the county in preparation of this table. The table shall be prepared as follows: Determine up to three indicator crop Type s with the highest harvested acreage for irrigated and for nonirrigated lands in the county using the most recent OSU Extension Service Commodity Data Sheets, Report No. 790, "Oregon County and State Agricultural Estimates," or other USDA/Extension Service documentation; Determine the combined weighted average of the gross sales per acre for the three indicator crop Type s for irrigated and for nonirrigated lands, as follows: (1) Determine the gross sales per acre for each indicator crop Type for the previous five years (i.e., divide each crop Type 's gross annual sales by the harvested acres for each crop Type ); (2) Determine the average gross sales per acre for each crop Type for three years, discarding the highest and lowest sales per acre amounts during the five-year period; (3) Determine the percentage each indicator crop's harvested acreage is of the total combined harvested acres for the three indicator crop Type s for the five year period; (4) Multiply the combined sales per acre for each crop Type identified under Subsection 401.05(C)(9)(k)(ii)(2) by its percentage of harvested acres to determine a weighted sales per acre amount for each indicator crop; and (5) Add the weighted sales per acre amounts for each indicator crop Type identified in Subsection 401.05(C)(9)(k)(ii)(4). The result provides the combined weighted gross sales per acre. Determine the average land rent value for irrigated and nonirrigated land classes in the EFU District according to the annual "income approach" report prepared by the county assessor pursuant to ORS 308A.092; and Determine the percentage of the average land rent value for each specific land rent for each land classification determined in Subsection 401.05(C)(9)(k)(iii). Adjust the combined weighted sales per acre amount identified in Subsection 401.05(C)(9)(k)(ii)(5) using the percentage of average land rent (i.e., multiply the weighted average determined in Subsection 401.05(C)(9)(k)(ii)(5) by the percent of average land rent value from Subsection 401.05(C)(9)(k)(iii)). The result provides the estimated potential gross sales per acre for each assessor land class that will be provided to the county to be used as explained under Subsection 401.05(C)(9)(j)(iii). Dwelling not in conjunction with a farm use: A dwelling for a nonfarm use may be allowed subject to the following criteria: The dwelling or activities associated with the dwelling will not force a significant change in or significantly increase the cost of accepted farm or forest practices on nearby lands devoted to farm or forest use;  The dwelling will be sited on a lot of record that is predominantly composed of Class IV through Class VIII soils that would not, when irrigated, be classified as prime, unique, Class I or Class II soils;  The dwelling will be sited on a lot of record lawfully created before January 1, 1993. The dwelling shall not materially alter the stability of the overall land use pattern of the area. In determining whether a proposed nonfarm dwelling will alter the stability of the land use pattern in the area, the County shall consider the cumulative impact of possible new nonfarm dwellings and parcels on other lots of record in the area similarly situated. To address this standard, the following shall be done: Identify a study area for the cumulative impacts analysis. The study area shall include at least 2,000 acres or a smaller area not less than 1,000 acres, if the smaller area is a "distinct agricultural area" based on topography, soils Type s, land use pattern, or the Type of farm operations or practices that distinguish it from other adjacent agricultural areas. Findings shall describe the study area, its boundaries, and the location of the subject parcel within this area, why the selected area is representative of the land use pattern surrounding the subject parcel and is adequate to conduct the analysis required by this standard. Lands zoned for rural residential or other urban or nonresource uses shall not be included in the study area; Identify within the study area the broad Type s of farm uses (irrigated or nonirrigated crops, pasture, or grazing lands), the number, location, and Type of existing dwellings (farm, nonfarm, hardship, etc.), and the dwelling development trends since 1993. Determine the potential number of nonfarm/lot-of-record dwellings that could be approved under Subsections 401.05(C)(2) through (4) and (10), including identification of predominant soil classifications, the parcels created prior to January 1, 1993, and the parcels larger than the minimum lot size that may be divided to create new parcels for nonfarm dwellings under ORS 215.263(4). The findings shall describe the existing land use pattern of the study area, including the distribution and arrangement of existing uses and the land use pattern that could result from approval of the possible nonfarm dwellings; Determine whether approval of the proposed nonfarm dwelling together with existing nonfarm dwellings will materially alter the stability of the land use pattern in the area. The stability of the land use pattern will be materially altered if the cumulative effect of existing and potential nonfarm dwellings will make it more difficult for the existing Type s of farms in the area to continue operation due to diminished opportunities to expand, purchase or lease farmland, acquire water rights or diminish the number of tracts or acreage in farm use in a manner that will destabilize the overall character of the study area.  The dwelling shall comply with such other conditions as the County considers necessary. Prior to Planning Director approval for issuance of a building or manufactured dwelling permit, the applicant shall notify the County Assessor that the lot of record is no longer being used for farmland and; request the County Assessor to disqualify the lot of record for special assessment under ORS 308.370, 308.765, 321.257 to 321.381, 321.730 or 321.815 and; pay any additional tax imposed upon disqualification from special assessment. A lot of record that has been disqualified pursuant to Subsection 401.05(C)(10)(f) shall not requalify for special assessment unless, when combined with another contiguous lot of record, it constitutes a qualifying parcel. Relative farm help dwelling: A relative farm help dwelling may be allowed subject to the following criteria:  A relative farm help dwelling shall be located on the same lot of record as the dwelling of the farm operator and must be on real property used for farm use; Notwithstanding ORS 92.010 to 92.192 or the minimum lot or parcel requirements under ORS 215.780, if the owner of a relative farm help dwelling obtains construction financing or other financing secured by the dwelling and the secured party forecloses on the dwelling, the secured party may also foreclose on the "homesite," as defined in ORS 308A.250, and the foreclosure shall operate as a partition of the homesite to create a new parcel. Prior conditions of approval for the subject land and dwelling remain in effect. "Foreclosure" means only those foreclosures that are exempt from partition under ORS 92.010(9)(a). A relative farm help dwelling shall be occupied by relatives whose assistance in the management and farm use of the existing commercial farming operation, such as planting, harvesting, marketing, or caring for livestock, is required by the farm operator. The farm operator shall continue to play the predominant role in the management and farm use of the farm. "Relative" means a child, parent, stepparent, grandchild, grandparent, stepgrandparent, sibling, stepsibling, niece, nephew or first cousin, of the farm operator or the farm operator's spouse. The size, Type , and intensity of the farm operation shall be used to evaluate the need for the dwelling. The net income derived from the farm products shall be significant and products from the farm unit shall contribute substantially to the agricultural economy, agricultural processors, and farm markets. There are no other dwellings on the lot of record that are vacant or currently occupied by persons not working on the subject farm unit that could reasonably be used as a relative farm help dwelling. Accessory dwelling in conjunction with farm use: An accessory farm dwelling for a nonrelative, and their immediate family unless otherwise specified, of the farm operator may be allowed subject to the following criteria: The accessory farm dwelling shall be occupied by a person or persons who will be principally engaged in the farm use of the land and whose seasonal or year-round assistance in the management of the farm use, such as planting, harvesting, marketing or caring for livestock, is or will be required by the farm operator on the farm unit. The accessory farm dwelling shall be located:  On the same lot of record as the primary farm dwelling; or On the same tract as the primary farm dwelling when the lot of record on which the accessory farm dwelling will be sited is consolidated into a single parcel with all other contiguous lots of record in the tract; or On a lot of record on which the primary farm dwelling is not located, when the accessory farm dwelling is a manufactured dwelling and a deed restriction is filed with the County Clerk. The deed restriction shall require the manufactured dwelling to be removed when the lot of record is conveyed to another party. The manufactured dwelling may remain if it is re-approved pursuant to Section 401; or On any lot of record, when the accessory farm dwelling is limited to only attached multi-unit residential structures allowed by the applicable state building code or similar Type s of farmworker housing as that existing on farm operations registered with the Department of Consumer and Business Services, Oregon Occupational Safety and Health Division under ORS 658.750. All accessory farm dwellings approved under Subsection 401.05(C)(12)(b)(iv) shall be removed, demolished, or converted to a nonresidential use when farm worker housing is no longer required.  On a lot of record on which the primary farm dwelling is not located, when the accessory farm dwelling is located on a lot of record at least the size of the applicable minimum lot size and the lot of record complies with the gross farm income requirements of Subsection 401.05(C)(12)(e)(i) or 401.05(C)(12)(e)(ii), whichever is applicable. There are no other dwellings on lands designated for exclusive farm use owned by the farm operator that is vacant or currently occupied by persons not working on the subject farm or ranch and that could reasonably be used as an accessory farm dwelling. All multi-unit accessory dwellings shall be consistent with the intent of the Legislative Assembly as provided in ORS 215.243. The primary farm dwelling to which the proposed dwelling would be accessory shall meet one of the following:  On Low Value Farmland, the primary farm dwelling is located on a farm operation that is currently employed for farm use, as defined in ORS 215.203, on which the farm operator earned the lower of at least $40,000 in gross annual income from the sale of farm products or gross annual income of at least the midpoint of the median income range of gross annual sales for farms in the County with the gross annual sales of $10,000 or more according to the 1992 Census of Agriculture, Oregon, in each of the last two years or three of the last five years or in an average of three of the last five years, or On land identified as High Value Farmland, the primary farm dwelling is located on a farm operation that is currently employed for farm use, as defined in ORS 215.203, on which the farm operator earned at least $80,000 in gross annual income from the sale of farm products in each of the last two years or three of the last five years or in an average of three of the last five years. In determining the gross annual income, the cost of purchased livestock shall be deducted from the total gross income attributed to the tract. An accessory farm dwelling approved pursuant to Subsection 401.05(C)(12) shall not later be used to satisfy the requirements for a dwelling not provided in conjunction with farm use pursuant to Subsection 401.05(C)(10). "Farmworker", means an individual who, for an agreed remuneration or rate of pay, performs labor, temporarily or on a continuing basis, for a person in the production of farm products, planting, cultivating or harvesting of seasonal agricultural crops; or forestation or reforestation of land, including but not limited to planting, transplanting, tubing, precommercial thinning and thinning of trees or seedlings, the clearing, piling and disposal of brush and slash and other related activities. "Farmworker Housing", means housing limited to occupancy by farmworkers and their immediate families, and no dwelling unit of which is occupied by a relative of the owner or operator of the farmworker housing. "Relative", for the purposes of Subsection 401.05(C)(12), means an ancestor, lineal descendant, or whole or half sibling of the owner or operator or the spouse of the owner or operator. "Farmworker Housing Owner", means a person that owns farmworker housing. It does not mean a person whose interest in the farmworker housing is that of a holder of a security interest in the housing. Dwelling in conjunction with a farm use on Low or High Value Farmland, whichever is applicable: A primary farm dwelling for the farm operator may be allowed subject to the following criteria: Within the previous two years, the applicant owned and operated a different farm or ranch operation that earned the gross farm income as provided in 401.05(C)(5)(a) or 401.05(C)(6)(a), whichever is applicable, in each of the last five years or four of the last seven years. The subject parcel on which the dwelling will be located is: Currently employed for the farm use, that produced in each of the last two years or three of the last five years, or in an average of three of the last five years the gross farm income as provided in 401.05(C)(5)(a) or 401.05(C)(6)(a); and The parcel is at least 80 acres. Except for seasonal farmworker housing approved prior to 2001, there is no other dwelling on the subject tract. The dwelling will be occupied by a person or persons who produced the commodities that grossed the income as provided in Subsection 401.05(C)(13)(a). In determining the gross income the cost of purchased livestock shall be deducted from the total gross income attributed to the tract. Only gross income from land owned, not leased or rented, shall be counted. One manufactured dwelling, residential trailer, or recreational vehicle, in conjunction with an existing dwelling as a temporary use for the term of a hardship suffered by the existing resident or a relative of the resident. "Relative" means a child, parent, stepparent, grandchild, grandparent, stepgrandparent, sibling, stepsibling, niece, nephew or first cousin. Within three months of the end of the hardship, the manufactured dwelling, residential trailer, or recreational vehicle shall be removed or demolished. Department of Environmental Quality review and removal requirements also apply. A temporary residence approved under Subsection 401.05(C)(14) is not eligible for replacement under Subsection 401.05(C)(1). Commercial Uses The home occupation shall not unreasonably interfere with other uses permitted in the EFU District and shall not be used as justification for a zone change. A landscape contracting business, as defined in ORS 671.520, or a business providing landscape architecture services, as described in ORS 671.318, if the business is pursued in conjunction with the growing and marketing of nursery stock on the land that constitutes farm use. Agri-tourism or other commercial events or activities shall be incidental and subordinate to existing farm use on the tract. "Incidental and subordinate" means that the event or activity is strictly secondary and ancillary to on-site commercial farm uses or the commercial agricultural enterprises in the area in terms of income generated, area occupied, and off-site impacts. "Agri-tourism" means a commercial event or activity that is logically, physically, or economically connected to and supports an existing on-site farm operation and promotes the practice of agriculture. A cider business, farm brewery, or winery bed and breakfast facility as a home occupation subject to ORS 215.448, on the same tract as the approved cider business, farm brewery, or winery and in association with that cider business, farm brewery, or winery, and the following: May prepare and serve two meals per day to registered guests of the bed and breakfast facility; and Meals may be served at the bed and breakfast facility or at the cider business, farm brewery, or winery.  An aerial fireworks display business that has been in continuous operation at its current location within an exclusive farm use zone since December 31, 1986, and possesses a wholesaler's permit to sell or provide fireworks. As part of the conditional use approval process, for the purpose of verifying the existence, continuity, and nature of the business, representatives of the business may apply to the County and submit evidence including, but not limited to, sworn affidavits or other documentary evidence that the business qualifies. Alteration, restoration, or replacement of an aerial fireworks display business may be altered, restored, or replaced pursuant to Section 1206. Dog training classes, which may be conducted outdoors or in preexisting farm buildings that existed on January 1, 2013, when: The number of dogs participating in training does not exceed 10 dogs per training class; and The number of training classes to be held on-site does not exceed six per day. Dog testing trials, which may be conducted outdoors or in preexisting farm buildings that existed on January 1, 2013, when: The number of dogs participating in a testing trial does not exceed 60; and The number of testing trials to be conducted on-site is limited to four or fewer trials per calendar year. Farm stands if: The structures are designed and used for sale of farm crops and livestock grown on the farm operation, or grown on the farm operation and other farm operations in Oregon, including the sale of retail incidental items and fee-based activity to promote the sale of farm crops or livestock sold at the farm stand if the annual sales of the incidental items and fees from promotional activity do not make up more than 25 percent of the total annual sales of the farm stand; and The farm stand does not include structures designed for occupancy as a residence or for activities other than the sale of farm crops and livestock and does not include structures for banquets, public gatherings or public entertainment. As used in Subsection 401.05(D)(8), "farm crops or livestock" includes both fresh and processed farm crops and livestock grown on the farm operation, or grown on the farm operation and other farm operations in Oregon. As used in Subsection 401.05(D)(8)(c), "processed crops and livestock" includes jams, syrups, apple cider, animal products and other similar farm crops and livestock that have been processed and converted into another product but not prepared food items. Farm stands may not be used for the sale, or to promote the sale, of marijuana items. Equine and equine-affiliated therapeutic and counseling activities, provided: The activities are conducted in existing buildings that were lawfully constructed on the property before January 1, 2019, or in new buildings that are accessory, incidental and subordinate to the farm use on the tract; and All individuals conducting therapeutic or counseling activities are acting within the proper scope of any licenses required by the state. Mineral, Aggregate, Oil, and Gas Uses Mineral, Aggregate, Oil and Gas Uses: Pursuant to ORS 215.298 a land use permit is required for mining more than 1000 cubic yards of material or excavation preparatory to mining of a surface area of more than one acre. A permit for mining of aggregate shall be issued only for a site included on an inventory acknowledged in the Comprehensive Plan for the following: Operations conducted for mining, crushing, or stockpiling of aggregate and other mineral and other subsurface resources, subject to ORS 215.298. Processing as defined by ORS 517.750 of aggregate into asphalt or Portland cement; and New uses that batch and blend mineral and aggregate into asphalt cement may not be authorized within two miles of a planted vineyard. Planted vineyard means one or more vineyards totaling 40 acres or more that are planted as of the date the application for batching and blending is filed. Processing of other mineral resources and other subsurface resources. Operations conducted for mining and processing of geothermal resources as defined by ORS 522.005 and oil and gas as defined by ORS 520.005 not otherwise permitted under Section 401. Transportation Uses Roads, highways and other transportation facilities, and improvements not otherwise allowed under Section 401 may be established, subject to the adoption of an exception to Goal 3 (Agricultural Lands), and to any other applicable goal with which the facility or improvement does not comply. In addition, transportation uses and improvements may be authorized under conditions and standards as set forth in OAR 660-012-0035 and 660-012-0065. A personal-use airport means an airstrip restricted, except for aircraft emergencies, to use by the owner, and, on an infrequent and occasional basis, by invited guests, and by commercial aviation activities in connection with agricultural operations. No aircraft may be based on a personal-use airport other than those owned or controlled by the owner of the airstrip. Exceptions to the activities allowed under this definition may be granted through waiver action by the Oregon Department of Aviation in specific instances. A personal-use airport lawfully existing as of September 13, 1975, shall continue to be allowed subject to any applicable rules of the Oregon Department of Aviation. Utility and Solid Waste Disposal Facility Uses Wind energy power production systems as an accessory use, provided: The system is not a commercial power generating facility; No turbine has an individual rated capacity of more than 100kW, nor does the cumulative total rated capacity of the turbines comprising the installation exceed 100 kW; The system complies with the Oregon Department of Environmental Quality noise standards otherwise applicable to commercial and industrial uses for quiet areas, measured at the nearest property line of the noise-sensitive use. This may be demonstrated through information provided by the manufacturer; The system is prohibited if tower lighting for aviation safety is required; The system will be located outside an urban growth boundary on a minimum of one acre; The system does not exceed 150 feet in height from base to the height of the tower plus one blade; The system is set back a distance not less than the tower height plus one blade from all property lines; and Roof mounted system towers shall extend no more than an additional five feet above the highest ridge of a building's roof or 15 feet above the highest eave, whichever is higher, but shall not exceed 150 feet in height from finished grade. A utility facility necessary for public service may be established as provided in OAR 660-033-0130(16)(a) and ORS 215.275 and 215.276, or, if the utility facility is an associated transmission line, as provided in OAR 660-033-0130(16)(b) and ORS 215.274 and 215.276.  Composting operations and facilities Must: Compost only on-farm produced compostable materials; or Compost only off-site materials and use all on-site generated compost for on-farm production in conjunction with, and auxiliary to, the farm use on the subject tract; or Compost any off-site materials with on-farm produced compostables and use all on-site generated compost for on-farm production in conjunction with, and auxiliary to, the farm use on the subject tract; Must be an accepted farm practice in conjunction with and auxiliary to farm use on the subject tract, meaning that if off-site materials are added to on-farm produced compostables, the total amount of compost generated by the operation or facility does not exceed the amount of compost reasonably anticipated to be used on the subject tract; Must limit buildings and facilities used in conjunction with the composting operation to those required for the operation of the subject facility; Must meet the performance and permitting requirements of the Department of Environmental Quality under OAR 340-093-0050 and 340-096-0060; and May sell or transport excess compost only if: The operation or facility does not use off-site materials; It is sold or transported to neighboring farm operations within two and one-half miles of the subject tract; and It is sold or transported in bulk loads of not less than one unit (7.5 cubic yards) in size that are transported in one vehicle. Commercial utility facilities for the purpose of generating power for public use by sale, but not including wind power or photovoltaic solar power generation. A power generation facility shall not use, occupy, or cover more than 12 acres on High Value Farmland, or more than 20 acres on Low Value Farmland, from use as a commercial agricultural enterprise unless an exception is taken pursuant to OAR chapter 660, division 4; and Permanent features of a power generation facility shall not use, occupy, or cover more than 12 acres from use as a commercial agricultural enterprise unless an exception is taken pursuant to ORS 197.732 and OAR chapter 660, division 4. A power generation facility may include on-site and off-site facilities for temporary workforce housing for workers constructing a power generation facility. Such facilities must be removed or converted to an allowed use under OAR 660-033-0130(19) (a private campground) or other statute or rule when the project construction is complete. Temporary workforce housing facilities not included in the initial approval may be considered through a minor amendment request. A minor amendment request shall be subject to 401.05(A)(1) and shall have no effect on the original approval. Parks, Public, and Quasi-public Uses Buildings and facilities associated with a site for the takeoff and landing of model aircraft shall not be more than 500 square feet in floor area or placed on a permanent foundation unless the building or facility preexisted the use approved under Subsection 401.05(H)(1). The site shall not include an aggregate surface or hard surface area unless the surface preexisted the use approved under Subsection 401.05(H)(1). An owner of property used for the purpose authorized in Subsection 401.05(H)(1) may charge a person operating the use on the property rent for the property. An operator may charge users of the property a fee that does not exceed the operator's cost to maintain the property, buildings and facilities. As used in Subsection 401.05(H)(1), "model aircraft" means a small-scale version of an airplane, glider, helicopter, dirigible or balloon that is used or intended to be used for flight and is controlled by radio, lines, or design by a person on the ground. Public parks including only the uses specified under OAR 660-034-0035 or 660-034-0040, whichever is applicable. A public park may be established consistent with the provisions of ORS 195.120. If the subject property has a local park master plan adopted as part of the Comprehensive Plan, the park is also subject to Section 714, Special Use Overlay District. Community centers owned by a governmental agency or a nonprofit community organization and operated primarily by and for residents of the local rural community. A community center authorized under Subsection 401.05(H)(3) may provide services to veterans, including but not limited to emergency and transitional shelter, preparation and service of meals, vocational and educational counseling and referral to local, state or federal agencies providing medical, mental health, disability income replacement and substance abuse services, only in a facility that is in existence on January 1, 2006. The services may not include direct delivery of medical, mental health, disability income replacement or substance abuse services. "Living History Museum" means a facility designed to depict and interpret everyday life and culture of some specific historic period using authentic buildings, tools, equipment and people to simulate past activities and events. As used in Subsection 401.05(H)(4), a living history museum shall be related to resource based activities and shall be owned and operated by a governmental agency or a local historical society. A living history museum may include limited commercial activities and facilities that are directly related to the use and enjoyment of the museum and located within authentic buildings of the depicted historic period or the museum administration building, if areas other than an exclusive farm use zone cannot accommodate the museum and related activities or if the museum administration buildings and parking lot are located within one quarter mile of an urban growth boundary. "Local historical society" means the local historical society, recognized as such by the county governing body and organized under ORS chapter 65. Private parks, playgrounds, hunting and fishing preserves, and campgrounds. A campground is an area devoted to overnight temporary use for vacation, recreational, or emergency purposes, but not for residential purposes and is established on a site or is contiguous to lands with a park or other outdoor natural amenity that is accessible for recreational use by the occupants of the campground. Except on a lot of record contiguous to a lake or reservoir, private campgrounds shall not be allowed within three miles of an urban growth boundary unless an exception is approved pursuant to ORS 197.732 and OAR chapter 660, division 4. A campground shall be designed and integrated into the rural agricultural and forest environment in a manner that protects the natural amenities of the site and provides buffers of existing native trees and vegetation or other natural features between campsites. Campsites may be occupied by a tent, travel trailer, yurt, or recreational vehicle. Separate sewer, water, or electric service hook-ups shall not be provided to individual campsites except that electrical service may be provided to yurts allowed for by Subsection 401.05(H)(6)(g). Campgrounds authorized by Subsection 401.05(H)(6) shall not include intensively developed recreational uses such as swimming pools, tennis courts, retail stores, or gas stations. Overnight temporary use in the same campground by a camper or camper's vehicle shall not exceed a total of 30 days during any consecutive six-month period. A private campground may provide yurts for overnight camping. No more than one-third or a maximum of 10 campsites, whichever is smaller, may include a yurt. The yurt shall be located on the ground or on a wood floor with no permanent foundation. As used in Subsection 401.05(H)(6), "yurt" means a round, domed shelter of cloth or canvas on a collapsible frame with no plumbing, sewage disposal hook-up, or internal cooking appliance. Golf courses, on land determined not to be high value farmland, as defined in ORS 195.300, subject to OAR 660-033-0130(20). Nonconforming Uses Existing facilities wholly within a farm use zone may be maintained, enhanced, or expanded on the same tract, subject to other requirements of law. An existing golf course may be expanded consistent with the requirements of Subsection 401.05(A)(1) and OAR 660-033-0130(20), but shall not be expanded to contain more than 36 total holes. Notwithstanding ORS 215.283, Section 1206, or any other provision of this Ordinance, a public or private school, including all building essential to the operation of the school, formerly allowed pursuant to ORS 215.283(1)(a), as in effect before January 1, 2010, the effective date of 2009 Oregon Laws, chapter 850, section 14, may be expanded, provided: The expansion complies with Subsection 401.05(A)(1); The school was established on or before January 1, 2009; The expansion occurs on a tax lot: On which the school was established; or Contiguous to and, on January 1, 2015, under the same ownership as the tax lot on which the school was established; and The school is a public or private school for kindergarten through grade 12. A nonconforming public or private school described in Subsection 401.05(I)(2) may be expanded without regard to: A maximum capacity of people in the structure or group of structures; A maximum distance between structures; or A maximum density of structures per acre. 401.06 Prohibited Uses Uses of structures and land not specifically permitted are prohibited. 401.07 Dimensional Standards Minimum Lot Size: New lots of record shall be a minimum of 80 acres in size, except as provided in Subsection 401.08. For the purpose of complying with the minimum lot size standard, lots of record with street frontage on County or public road rights-of-way may include the land area between the front lot line and the centerline of the County or public road right-of-way. Minimum Front Setback: 30 feet.  Minimum Side Setback: 10 feet.  Minimum Rear Setback: 30 feet; however, accessory buildings shall have a minimum rear setback of 10 feet.  Modifications: Modifications to the dimensional standards are established by Sections 800, Special Uses; 903, Setback Exceptions; 1107, Property Line Adjustments; and 1205, Variances. 401.08 Land Divisions A land division shall not separate a temporary dwelling for care, home occupation, or processing facility from the lot of record on which the primary residential or other primary use exists. A land division shall not separate a relative farm help dwelling approved pursuant to Subsection 401.05(C)(11) from the lot of record on which the dwelling of the farm operator exists, except as provided in ORS 215.283(1)(d). A land division shall not separate an accessory dwelling in conjunction with farm use approved pursuant to Subsection 401.05(C)(12) from the lot of record on which the primary farm dwelling exists, except as provided in OAR 660-033-0010(24)(B). A land division of a lot of record created before January 1, 1993, on which a nonfarm dwelling was approved pursuant to Subsection 401.05(C)(1) is prohibited. Land divisions are permitted, if consistent with Subsections 1105.01(A) and 1105.11. A land division pursuant to Subsection 401.08(F) shall require review of a Type I application pursuant to Section 1307, Procedures. A land division pursuant to Subsection 401.08(G), (H), (I), (J), or (K) shall require review of a Type II application pursuant to Section 1307. 80-Acre Minimum Lot Size Land Divisions: A land division may be approved, if each new lot of record is a minimum of 80 acres in size, as established by Subsection 401.07(A).  Nonfarm Use Land Divisions:  A land division creating parcels less than 80 acres in size may be approved for the following uses, if the parcel for the use is not larger than the minimum size necessary for the use: A fire service facility;   Nonfarm uses, except dwellings, set out in ORS 215.283(2); or If the parcel to be divided is outside an urban or rural reserve established pursuant to OAR chapter 660, division 27, utility facilities necessary for public service set out in ORS 215.283(1)(c), including wetland waste treatment systems but not including commercial facilities for the purpose of generating electrical power for public use by sale or transmission towers over 200 feet in height. Land that is divided under Subsection 401.08(G)(1)(c) may not later be rezoned for retail, commercial, industrial, or other nonresource use, except as provided under the statewide planning goals or under ORS 197.732. Nonfarm Dwelling Land Divisions: Lots of record less than 80 acres in size may be approved, subject to the following criteria:  The originating lot of record is at least 80 acres, and is not stocked to the requirements under ORS 527.610 to 527.770; The lot of record is composed of at least 95% Class VI through Class VIII agricultural soils, and composed of at least 95% soils not capable of producing 50 cubic feet per acre per year of wood fiber;  The new lot of record for a dwelling will not be smaller than 20 acres; and No new lot of record may be created until the criteria in Subsections 401.05(C)(10)(a), (b), (d), (e), and (f) for a dwelling are satisfied. Parks/Open Space/Land Conservation Land Divisions: A land division for a provider of public parks or open space, or a not-for-profit land conservation organization, may be approved subject to ORS 215.263(10) and Subsection 401.05(A)(1). In addition, the owner of any parcel not containing a dwelling shall sign and record in the County deed records an irrevocable deed restriction prohibiting the owner and the owner's successors in interest from pursuing a cause of action or claim of relief alleging an injury from farming or forest practices for which no claim or action is allowed under ORS 30.936 or 30.937. Historic Property Land Divisions: A land division may be approved to create a parcel with an existing dwelling to be used for historic property that has the features listed in Subsection 401.05(C)(1)(a)(i) through (iv) and the dwelling has been listed in county inventory as described in ORS 358.480. Land Divisions Along an Urban Growth Boundary: A division of a lot of record may occur along an urban growth boundary where the parcel remaining outside the urban growth boundary is zoned EFU and is smaller than 80 acres, subject to the following criteria: If the parcel contains a dwelling, the parcel must be large enough to support continued residential use. If the parcel does not contain a dwelling, the parcel: Is not eligible for siting a dwelling, except as may be authorized under ORS 195.120; May not be considered in approving or denying an application for any other dwelling; and May not be considered in approving a redesignation or rezoning of agricultural lands, except to allow a public park, open space, or other natural resource use. The owner of any parcel not containing a dwelling shall sign and record in the County deed records an irrevocable deed restriction prohibiting the owner and the owner's successors in interest from pursuing a cause of action or claim of relief alleging an injury from farming or forest practices for which no claim or action is allowed under ORS 30.936 or 30.937. 401.09 Submittal Requirements In addition to the submittal requirements identified in Subsection 1307.07(C), an application for any use requiring review of a Type I, II, or III application shall include an accurate site plan drawn to scale on eight-and-one-half-inch by 11-inch or eight-and-one-half-inch by 14-inch paper, showing the subject property and proposal. In addition, applications for farm dwellings requiring a justification of income shall include tax forms, farm receipts, or other appropriate documentation demonstrating the income produced from the subject property. 401.10 Approval Period and Time Extension Approval Period: Approval of a Type I, II, or III application is valid for four years from the date of the final written decision. If the County's final written decision is appealed, the approval period shall commence on the date of the final appellate decision. During this four-year period, the approval shall be implemented. "Implemented" means: For a land division, the final plat shall be recorded with the County Clerk. If a final plat is not required under Oregon Revised Statutes chapter 92, deeds with the legal descriptions of the new parcels shall be recorded with the County Clerk; For a replacement dwelling approved pursuant to Subsection 401.05(C)(1), a building or manufactured dwelling placement permit for the replacement dwelling shall be obtained and maintained and construction of the replacement dwelling shall have commenced; or For all other applications, a building or manufactured dwelling placement permit for a new primary structure that was the subject of the application shall be obtained and maintained. If no building or manufactured dwelling placement permit is required, all other necessary County development permits shall be obtained and maintained. Time Extension: Except for approval of a Type II application for a replacement dwelling pursuant to Subsection 401.05(C)(1), if the approval of a Type I, II, or III application is not implemented within the initial approval period established by Subsection 401.10(A), a two-year time extension may be approved pursuant to Section 1310. Exceptions: Subsections 401.10(A) and (B) do not apply to home occupations, conditional uses, or temporary dwellings for care, which shall be subject to any applicable approval period and time extension provisions of Sections 822, Home Occupations, 1203, Conditional Uses, or 1204, Temporary Permits, respectively. [Amended by Ord. ZDO-224, 5/31/2011; Amended by Ord. ZDO-230, 9/26/2011; Amended by Ord. ZDO-234, 6/7/2012; Amended by Ord. ZDO-241, 1/1/2013; Amended by Ord. ZDO-247, 3/1/2014; Amended by Ord. ZDO-248, 10/13/2014; Amended by Ord. ZDO-254, 1/4/2016; Amended by Ord. ZDO-262, 5/23/2017; Amended by Ord. ZDO-263, 5/23/2017; Amended by Ord. ZDO-264, 8/22/2017; Amended by Ord. ZDO-266, 5/23/2018; Amended by Ord. ZDO-268, 10/2/2018; Amended by Ord. ZDO-276, 10/1/2020; Amended by Ord. ZDO-280, 10/23/2021; Amended by Ord. ZDO-283, 9/5/2023; Amended by Ord. ZDO-286, 11/20/2023; Amended by Ord. ZDO-285, 9/3/2024] Return to the Zoning and Development Ordinance main page. Contact zoninginfo@clackamas.us for additional information. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Phone: 503-742-4500 
+ Email: zoninginfo@clackamas.us 
+ 
+ 
+ 
+ 150 Beavercreek Road Room #225 Oregon City, OR 97045 
+ 
+ 
+ Office Hours: Monday to Thursday  8 a.m. to 4 p.m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's My Zoning? 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Related Events 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Related Events
+ 
+ 
+ 
+ 
+ Board of County Commissioners, Planning and Zoning 
+ 
+ 
+ Aug 
+ 04 
+ 
+ 
+ 11:00 am 
+ - 11:30 am 
+ 
+ 
+ Land Use Hearing: Z0437-25 and Z0438-25 - Aug. 4, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Aug 
+ 20 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0096-26 - Aug. 20, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Sep 
+ 03 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0207-26 - Sept. 3, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ more events 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ SHORTCUTS 
+ 
+ 
+ 
+ Jobs Procurement Process, Contracts and Grants Pay Online CMap Contact the County Report a Hazard County Code Public Records Request HIPAA/Privacy Concerns Civil Rights ACA Complaint Form Accessibility Statement Title VI Compliance Plan Website Privacy Media Contacts 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ELECTED OFFICIALS 
+ 
+ 
+ 
+ Chair Craig Roberts Commissioner Diana Helm Commissioner Paul Savas Commissioner Martha Schrader Commissioner Ben West   County Assessor/Tax Collector Bronson Rueda County Clerk Catherine McMullen District Attorney John Wentworth Justice of the Peace Kathleen Rastetter Sheriff Angela Brandenburg Treasurer Brian Nava 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can’t find what you're looking for? 
+ 
+ 
+ 
+ 
+ Search Box 
+ 
+
+ 
+ enter your search here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2026 Clackamas County

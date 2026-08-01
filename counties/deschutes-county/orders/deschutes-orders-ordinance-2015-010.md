@@ -1,0 +1,2415 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2015-010
+title: 'Ordinance No. 2015-010'
+doc_type: ordinance
+citation: 'Ordinance No. 2015-010'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1625589153_2015-543-Ordinance%20No.%202015-010%20Recorded%2012_24_2015.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 34d83b0286b75a61f6a73ffb072f4dd15dee21b3fd1ff25d43bc99614a382e73
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.646
+    - OAR 660-023-0030
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2015-010 (Ordinance No. 2015-010)
+
+## At a glance
+
+Ordinance No. 2015-010 — orders of Deschutes County. 49 pages.
+
+## Full text
+
+COUNTY OFFICIAL
+NANCY
+DESCHUTES
+COUNTY
+CLERKS
+4i1 L015• 543
+COMMISSIONERS'  JOURNAL
+REVIF
+s
+12/24/201512:35:06PM
+Iiviuu" i' i' uiuLf lN 2    -
+1
+For7Rorurng• 5ramp vnry-
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending DeschutesCounty Code
+Title 23 and the Deschutes County Comprehensive      * ORDINANCE NO. 2015- 010
+Plan, and Declaring an Emergency
+WHEREAS, on July 23, 2015 the Oregon Department of Land Conservation arid Development
+Commission adoptedGreater Sage-Grouse habitat inventories and rules establishing a procedurefor considering
+development proposals on lands identified as significant Greater Sage- Grouse Habitat; and
+WHEREAS, DeschutesCounty is one of sevencounties with Greater Sage-Grouse Habitat; and
+WHEREAS, amendments to the DeschutesCounty Comprehensive Plan are necessaryto comply with
+ORS 197. 646( 3) and OAR 660- 023- 0115( 4); and
+WHEREAS, after notice was given in accordance with applicable law, a public hearing was held before
+the DeschutesCounty Planning Commission on October 8, 2015 to consider the revised County Comprehensive
+Plan; and
+WHEREAS, on November 12, 2015 the Planning Commission forwarded to the Board of County
+Commissioners(" Board") a recommendation of approval to adopt changes to the Comprehensive Plan; and
+WHEREAS, the Board considered this matter after a duly noticed public hearing on December 2 and
+concluded that the public will benefit from changes to the Comprehensive Plan; and
+WHEREAS, the Board finds it in the public interest to adopt the following Comprehensive Plan
+amendments; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1.  AMENDMENT. DCC 23. 01. 010, introduction, is amended to read as described in Exhibit
+A," attached hereto and by this reference incorporated herein, with new languageunderlined and languageto
+he deleted in str- iliothfeitigh.
+Section 2.  ADOPTION.  Deschutes County Comprehensive Plan Map, Greater Sage Grouse Habitat
+Area inventoryMap is adoptedto describepropertiesaffectedby the designationas shownin Exhibit "B,"
+attachedand incorporated by reference herein.
+Section 3.  AMENDMENT. DeschutesCounty Comprehensive Plan Map, DeschutesCounty Sensitive
+Bird and Mammal Habitat Inventory Map is amended to describe properties affected by the designation as
+shown in Exhibit" C," attachedand incorporated by referenceherein.
+Section 4.  AMENDMENT.     Deschutes County Comprehensive Plan Chapter 2,  Resource
+Management, is amended to read as described in Exhibit" D," attachedheretoand by this reference incorporated
+herein,    with new language underlined and language to be deleted in stud-Ikcthrough.
+PAGE. I OF 2- ORDINANCE NO. 2015- 010
+Section 5.   AMENDMENT.    Deschutes County Comprehensive Plan Chapter 5,  Supplementary
+Sections, is amended to read as described in Exhibit " E," attached hereto and by this reference incorporated
+herein, with new language underlined and language to be deleted in strikcthrough.
+Section 6.   FINDINGS.  The Board adopts as its findings Exhibit " F," attached and incorporated by
+reference herein.
+Section 7.   EMERGENCY.  This Ordinance being necessary for the immediate preservation of the
+public peace, health and safety, an emergency is declaredto exist, and this Ordinance takes effect on its passage.
+BOARD OF COUNTY COMMISSIONERS
+Dated this  '---- of it—' .   2015 OF DESCHUTES COUNTY, OREGON
+ANTHONY De BONE, Chair
+ALAN UNGER, Vice Chair
+ATTEST:
+13.74ustii_.) 441 1A-
+Recordingng Secretary TAMMY-  ANEY, Co issioner
+r/       m, ^
+Date of
+1St
+Reading: f day of '/       2015.
+Date of
+2nd
+Read ina ---- day of 0---)-tt /  , 2015.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Anthony De Bone
+Alan Unger v
+Tammy yBane
+Effective date:
+it
+day of 2015.
+PAGE 2 OF 2- ORDINANCE NO. 2015- 010
+Chapter 23. 01 COMPREHENSIVE PLAN
+23. 01. 010. Introduction.
+A.       The DeschutesCounty ComprehensivePlan, adoptedby the Board in Ordinance2011-003
+and foundon the DeschutesCounty Community DevelopmentDepartmentwebsite, is
+incorporatedby referenceherein.
+B.       The DeschutesCounty ComprehensivePlan amendments, adoptedby theBoard in Ordinance
+2011-027, are incorporated by reference herein.
+C.       The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2012-005, are incorporated by reference herein.
+D.       The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2012-012, are incorporated by reference herein.
+E.       The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2012- 016, are incorporated by reference herein.
+F.       The .Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013- 002, are incorporated by reference herein.
+G.       The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013- 009, are incorporated by reference herein.
+H.       The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013- 012, are incorporated by reference herein.
+1. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013- 007, are incorporated by reference herein.
+J. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014- 005, are incorporated by reference herein.
+K.       The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014- 006, are incorporated by reference herein.
+L.       The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014- 012, are incorporated by reference herein.
+M.      The DeschutesCounty ComprehensivePlanamendments, adoptedby the Board in Ordinance
+2014- 021, are incorporated by reference herein.
+N.       The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014- 027, are incorporated by reference herein.
+O.       The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2015- 010, are incorporated by reference herein.
+Ord. 2015- 010 § 1, 20 l 5; Ord. 2014- 27 § 1, 2014; Ord. 2014- 121 § 1, 2014; Ord. 2014- 12 § 1, 2014; Ord.
+2014- 006 § 2, 2014; Ord. 2014- 005 § 2, 2014; Ord. 2013- 012 § 2, 2013; Ord. 2013- 009 § 2, 2013; Ord.
+2013- 007 § 1, 2013; Ord. 2013- 002 § 1, 2013; Ord. 2013- 001 § 1, 2013; Ord. 2012- 016 § 1, 2012; Ord.
+2012- 013 § 1, 2012; Ord. 2012- 005 § 1, 2012; Ord. 2011- 027 § 1 through 12, 2011; Ord. 2011- 017
+repealed; Ord. 2011- 003 § 3, 2011)
+Click here to be directed to the Comprehensive Plan ( http:// www. deschutes.org/compplan)
+PAGE 1 OF 1 — EXHIBIT A TO ORDINANCE 2015- 010
+g
+a
+i..0: \
+IN.....
+C I.
+r4L    ,    {
+Ar r
+OONNAL -
+OG
+P
+w
+I
+p
+I
+w
+l
+p I..:
+A
+o
+i
+e II
+BEAR CREEK KRD
+1E
+B•
+y
+b
+Ci
+It R
+PJ
+S
+651
+r .... d•'
+t1 A K WALON D_.
+L.17- 1_
+A
+1
+t
+rr
+II,
+FL—'I
+I      +.
+ux... w,,.. sl 7 tt., l„
+r_... rf
+1,:-:.... ,.
+1  .,,
+r,-,./.
+1,   t-- 7---      :   _!
+c;I: S.:.
+m
+1
+x
+7r
+a
+I  ,
+0
+a
+3 ARDLE
+RD  ,,
+z
+Ir.,.....,       . yiAMC 7}
+L..   .
+1-
+a ....
+1 1
+5.'
+I
+r RICKARD: RD
+s .
+T. 18 R 31 AI
+N
+1 ' I
+t SKWIEW LN
+E
+1 IO I-  rr BUTTRII• b TRI
+r
+I     ••••::::':7•-•      '  1--
+1  :.:.:•1:...:'..:::,:..,:..„'.:,•:..,"..:.,.,...„. :  -    i
+r .
+g. i  ,.._) 1._._    ,____,  i
+R R a.....    ___ fIA L \1I t z
+ks
+111
+t 1.1 1 11 t
+I r
+p
+I.    v
+I d  < SWETCRASS pa arc N       \.
+rI {    .
+Lf o,  ,      m
+A 1--
+t11
+CAI, GP
+Y:
+I',
+c  -
+O
+CFA^
+6,P
+r
+e j
+KIM5ERLY C
+CGOf...    y
+11  ,
+v l
+qy
+Legend Sage Grouse Greater Habitat Area
+c-)  Sage Grouse Lek Site Exhibit B Map 1 of 26
+Unincorporated Community to Ordinance 2015- 010
+Sage Grouse Map Index
+V
+Sage Grouse Habitat Area
+Core Area
+Low Density
+0 on a5 1 1 5
+nw„.,,.,.,.. n,....,, a,.,...,.. r..  •,..,
+M, 4
+Miles
+General Area
+August 21, 2015
+xtS4
+h
+cjY
+KI 8E V' CT
+a •
+i
+PP{
+t
+a, p•
+T. 19: R. 13
+lAd1i    !
+r^
+L3
+9.
+w
+t
+Y
+a
+Nnl1 ${`YIk    '{ c
+1
+1:91 I!
+I r     „
+y
+1ilN   „ r]     ',•
+15i
+h5' ^
+1
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit 6- Map 2 of 26
+Unincorporated Community to Ordinance 2015- 010 l W
+Sage Grouse Map Index
+Sage Grouse Habitat Area j
+Jl
+Core Area
+a•
+yr... an a Ywacrnanr9Crnurry
+11 Law Density
+0 0. 25 0. 5 v 15
+e, m........  "...
+em  „ M.,, e
+Miles
+General Area
+August 21, 2015
+E•`oqS 1
+CA iAlrtir'.ryl
+R
+w
+F      `•
+eta fk,lq'
+Jy,
+1
+rgJy
+Ty'
+ka l.
+rpN ma
+ay
+ry
+1,
+1
+K
+y . 1.
+r.' ,...       F rte 1 i•'... A.:
+v.     A'.1 a
+N f KrIf r.
+xv$    ,
+IT,t T 1 9 R. 1 4
+n
+nn  :
+s •
+J'''
+a.x,!•..
+r
+1
+n
+S
+V J,..
+R. ,rry
+k' u    %' awn7: s
+A
+Y     r
+I;
+r 1 k4hfi1as`
+lR4
+1 J ,
+I    a
+F fit I1' ^
+1
+J•
+1f 4  • a s,    1>
+1
+n   .,
+L` r,   ; f k" Yalil
+1 d  _  1
+r
+1. 1 F„ tj ,
+q.
+iM::,  i 1' FnLly U1[
+II ( 0), 1-  :
+t',':
+a
+4
+cIJ
+i  !    ;
+1' k ' 0k'  1    •
+d,    1 is rrt
+yAWi1`  •..       tv r' 1'
+r. r
+aK:
+U
+Flri „
+1
+J
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit B- Map 3 of 26
+Unincorporated Community to Ordinance 2015 010
+Sage Grouse Map Index
+Sage Grouse Habitat Area
+Core Area 4';,
+Low Density
+0 025 0. 5 1 15
+Miles
+General Area
+August 21, 2015
+I 4n
+tiwTf•:i'1.:
+spa    ..
+r
+i
+r 10
+r' rr•' Y'k  :
+p
+4
+f
+H
+v gxy
+i'
+roc5i,
+4 c' l
+i1 k
+qi  '
+4„ 1.,../. 2- r, y
+a k r.
+Nr? y
+H y rf T19 F 15 Y
+Y  ',.",-
+4
+r
+tE
+iFr a
+ti S
+7,
+f
+t iL4. i-      6 °
+j n ..
+i.
+w
+r• . r c
+1
+ua
+t r,e rsn' r1'.  a t' p) y,.
+t'.
+at'..  r
+1t
+p I
+r 45
+41  r (
+if
+SKr a#r
+9.. .
+1M1
+ii,,  1.'.
+Y y
+I
+t,
+wT
+1I,,,,.     „
+L.,
+61'
+rS
+4l,.
+rr
+ry`
+r.
+i
+it
+7
+yy}
+t  •      qy ,
+fy
+f.     Y
+IBC
+w, f   ^, Mlllll;:_ HI
+a  {:    f
+rid`"•
+r,,
+1i.
+r,.
+ce'
+f
+liO4' 411"
+wr'  *
+1
+1 1
+m m w
+a
+1.
+ara, r
+tt;, .
+t
+I,
+a..._. 1
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit B- Map 4 of 26
+Unincorporated Community to Ordinance 2015- 010 c;
+Sage Grouse Map Index
+Sage Grouse Habitat Area
+Core Area
+r
+Low Density
+a 0 25 0. 5 1 1 5 HW,... r,., uwawn u,. re ns x. m,.. i. r. n
+Miles
+General Area
+August 21 2015
+I
+i
+f od
+L.
+v.
+u
+f J s,,
+y A
+A'^'
+I''   '   et f  '"" F Vii-    1.4 ri T qg1
+fu'      r, baia4 i,'
+r"'      T 1:)  h 1i, ..
+ti
+vF
+a
+k
+441'
+f,''
+1f:
+I
+ra •...
+g'• ' 1" 41,.
+l;
+raw
+0 ,. Ali
+xT
+eJ '
+H. 1 fir .
+1 e
+11rr
+ii.
+CV
+I
+I,,
+r  ,der}]'
+Ii." 241
+34'xxIJ
+f Y FM1 44 I
+i
+1 ti ,
+1, ,
+i . J
+r, {,
+Isk
+T'
+Jrz' An   '..  . Illilull
+II
+YILA„
+r.    t': i'
+r
+1
+J
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit B- Map 5 of 26
+Unincorporated Community to Ordinance 2015- 010
+r
+cm Sage Grouse Map Index
+Sage Grouse Habitat Area
+Core Area
+Low Density
+0 0. 25 05 1 15
+Miles
+General Area
+August 21. 2015
+iMi
+LY
+T. 20 R. 13
+I
+I
+i
+I
+1
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit B- Map 6 of 26
+Unincorporated Community to Ordinance 2015- 010
+Sage Grouse Map Index
+Sage Grouse Habitat Area
+Core Area
+ecams ,
+o,,,,,, m„ m.,., 11.,       .,.
+Low Density
+u 0. 2 05 1 ts
+n, M„,.,.,.., a,.,,,: a..... 1., -...'..,,
+W...,., W”
+iMi Mlles
+General Area
+August 21. 2015
+I a'      1 r.
+o
+1 Y'1r n,a
+1
+1
+e    {     • I
+1
+t rl
+rya
+r.
+a; n
+C;Erlrll0.:
+FirI i II r-,  .
+ar_!
+lird
+7 i
+t
+e
+r }l Ei1 i
+cl w
+l: ri''''"
+III r i'' t,--( P-,'"
+µ:'''''''''' \
+r
+1',
+ltF Irv,
+r, Y,^
+Y
+n
+j'''''''''   '
+iiii)
+y 1) F; 14 y
+la'
+M1
+r t ._
+r,,
+tL,     t t e, r,
+lkSt i
+41°
+n74.
+s
+o
+t.
+G
+i r::.J Y. i
+YL t M
+k,
+s
+i ,
+k
+F525 llwassomenteassweinowionowssealsontawansammer** Limartamatemeraw11011iamonmarmioniiiii,
+mmouro Legend Sage Grouse Greater Habitat
+Arear)  Sage GrouseLek Site ExhibitB- Map7 of
+26 Unincorporated Communityto Ordinance2015 010
+r1l.;: Sage GrouseMap Index
+rr? Sage Grouse Habitat
+Area
+Cr) Core
+Area
+n'   Low
+Density 0 075 05 1 1. 5 r
+r..,.•,
+Miles General
+Area August21,
+1.T l
+I Millic tn 11
+w2o-
+me rrr       :. tee.• 7aw{       23f-7‘
+r
+3 4.
+1y
+y I :
+I
+41
+I.
+r
+5'       wius tO
+al
+Ip
+ti d:    .
+r  si•o   .
+5.7.•
+1•.
+r,
+t."!      fr.;
+err
+a
+I
+1S'11 y
+Ili Y
+1P   /((,
+4,--:,,,..-
+i T.' 0 P
+15' •,+  , ,
+c's`     •0
+x  ,'•
+n
+m"m1y',c°
+sr,.'  a•. l.
+I
+i ti
+f J i`
+i.
+n
+i`
+tittil
+14:'•       '!.‘ 1:::':1"
+a:, f+ A.   u••  t I.  M
+m
+M
+w I
+A       y   4r    r
+7n G T
+1  , kr •     rig,>'[a
+4  [
+IMF w7j',}"‹
+m r  './
+y4
+l
+r
+1 l X"]
+I   ,
+Irt 1
+M}   r
+1I ai
+mII. f[ 1:! i    . III" I   .......,.'':......
+II— fl ': I II'
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit B- Map 8 of 26
+Unincorporated Community to Ordinance 2015- 010
+Sage Grouse Map Index
+Sage Grouse Habitat Area
+Core Area MIU
+Low Density
+o o za n s 1 1 e
+I, a., n.,, a, II . N,, l..
+w I., W!
+Miles
+General Area
+August 21, 2015
+ffl 1
+r
+K
+t
+1
+n' umeR.. w:       ,...':: Cyawaruu ur. i. v r r
+ohm
+F.
+3_,
+r,
+y.,     k,     rfl
+ice.. skr
+6
+Y C 1
+00,`.4
+a„'
+o A 7 I ? r
+s
+xNY`' 4.
+re
+1—
+i
+Y
+n a I
+w.
+t;r t r z
+1,
+n
+1,     1 ..:. a
+p+ w
+14l
+N4r, `
+yr
+fr T ' y    ' t 1
+tit{
+T 0, R 111 p
+1
+t4; I I
+etc
+y t
+h
+e
+i
+3p...
+1µ
+7.     4ki
+0; t+ i DE099702•
+y4l'
+M.
+w1+,.
+r, wti DEO! J'1'- ii
+h r      DE0997 04
+4as
+11rrf_
+w
+1
+f
+r \ 5F I
+J,
+at  _
+e,
+r.
+t
+po
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit B- Map 9 of 26
+Unincorporated Community to Ordinance 2015- 010
+Sage Grouse Map Index
+Sage Grouse Habitat Area
+CD
+Core Area
+rmeMa,••
+0 0. 2.`   05 1 1. 5 ryrcr. e. uro wrw, swomn
+Low Density
+d,...,<. rT.....,
+In Miles
+General Area
+August 21, 2015
+P, .
+Ica:,
+DE0050- 02
+k   -   DEO50- 01
+Ii
+O;
+J.:.
+o::
+f
+f:
+MWr20 I I i
+d
+t     .
+7._ D R 17 :::::..
+DCOg 1 Vii,:• I 1
+I! Fl1'+' I', i I
+L.
+I
+iii
+f.......  (
+I i
+I
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit B- Map 10 of 26
+y    • Unincorporated Community to Ordinance 2015- 010•
+0 SageGrouseMapIndex
+Sage Grouse Habitat Area C]]
+Core Area
+Low Density
+u 025 a5 1 1 5
+Miles
+General Area
+August 21. 2015
+DE0051-02 DE0051- 03T
+1 DE0051-01;
+gill : 1.    i
+T20 R. 18
+it
+A
+ill I i•
+ems
+BI others;
+f
+r,,
+Li
+i
+i
+Legend Sage Grouse Greater Habitat Area
+i)  Sage Grouse Lek Site Exhibit B- Map 11 of 26
+Unincorporated Community to Ordinance 2015- 010
+Sage Grouse Map Index
+f i
+Sage Grouse Habitat Area C
+Core Area
+Low Density
+0 0. 25 05 1 1 5 K. o,.   o.,..,., varn. ro
+Mlles
+General Area
+August 21, 2015
+rseIMINEnml;
+rta.
+J
+It
+o
+a:; a r t, FILL- RD -___
+QC
+GP'
+DE0052 01 DE0052 02 I
+i
+DE0052- 03 I
+I
+1 L
+I       _      I
+1 1)1-0053706
+i
+C F.0053 07
+i
+DE0053- 05
+LI IA I
+F,;.
+U 1...: ::::.::::
+G
+DE0053- 04
+T20 F ic)  I
+DE0053- 02.....
+DE0053- 03
+q
+rs,,, z
+I¶¶„III Q
+NN
+N
+1
+0
+i
+F
+Legend Sage Grouse Greater Habitat Area
+6 Sage Grouse Lek Site Exhibit B- Map 12 of 26
+Unincorporated Community to Ordinance 2015- 010
+Sage Grouse Map Index
+Sage Grouse Habitat Area
+Core Area
+M rc
+Low Density
+4. 25 0. 5 5
+nom....„ w.. me   „„,.....„-,.....:,
+IMIIMii Miles
+General Area
+August 21, 2015
+4v
+n
+i
+xF r
+eae C Ci)   I n>
+1
+ArK
+A rawx.: i
+DEL I ',   II
+w
+i 1.•..     '•{
+i
+i1A;!
+t^    '. I ill- 1i j' I
+yea•: .::. ..•..   + Y, i, r, ,,.   ..
+y
+T- 21 R. 15
+ICI i.
+rvry
+Legend Sage Grouse Greater Habitat Area
+O Sage Grouse Lek Site Exhibit B- Map 13 of 26
+Unincorporated Community to Ordinance 2015- 010 fa   <
+Sage Grouse Map Index
+Sage Grouse Habitat Area C
+JI
+Core Area
+Low Density
+u 02,  ac 5
+Miles
+General Area
+August 21 2015
+I'
+I
+I
+ii,
+i
+I jf SY<.
+L.,
+DE0994- 05
+DE0992, 04
+1
+1, H, 1 r':,2- 02
+Y
+T> 1 R 16 1, 1       ,
+r0.....,
+i
+1;E0992- 03
+4'+,',",   '' —"
+1.    i
+S
+1 4-(!' 4, 44; I,'.,
+F522-
+I'
+1
+i
+i
+Legend Sage Grouse Greater Habitat Area
+1 Sage Grouse Lek Site Exhibit B- Map 14 of 26
+Unincorporated Community to Ordinance 2015- 010
+Sage Grouse Map Index
+Sage Grouse Habitat Area
+14)
+Core Area
+Low Density
+0 015 05 1 15
+nw...., WU,..,.,, m., n.,.., mu e. oW.,. i..
+Miles
+General Area
+August 21, 2015
+t   ,:
+I i
+i
+i
+1 DE0994- 05
+DE0992- 04
+C)     i7E0994- 04
+r
+LI
+CEO 94-01` DE0994= 03
+C:u. III4fl ...  7. 21 R: 17.'
+I
+7..:.'1.
+g'.•:-.
+7.
+2.....   .  .
+Yes
+T
+DEC': , n,.,;
+i
+DE0995- 0L
+r.:
+N
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit B- Map 15 of 26
+unincorporated Community to Ordinance 2015- 010
+s +•
+Sage Grouse Map Index
+Sage Grouse Habitat Area
+j.)
+Core Area
+Low Density
+0 0. 25 os 5
+rc  .  „...  .,, „
+n, w
+Milos
+General Area
+August 21, 2015
+rte
+I_.
+E..
+S   ....
+z       __  _  x:
+n
+I1
+V'
+DE0886- 03
+i
+u  . uk
+T. 21 R. 1
+I
+DE0886- 04
+i
+I
+kr,ri
+AP 12
+rEi i- n I
+U
+i     ,
+i.    ":•
+71:::.'.:‘,...
+Legend Sage Grouse Greater Habitat Area
+O Sage Grouse Lek Site Exhibit B- Map 16 of 26
+Unincorporated Community to Ordinance 2015- 010
+Sage Grouse Map Index
+Sage Grouse Habitat Area
+CorenArea
+Low uensity
+1 020 05 1 15
+r<., 1..., er.. ip e y .... nia. w,...... " •
+n....   .. uo.. i.
+Miles
+General Area
+August21, 2015
+tq.
+I
+i
+o
+4
+iia
+ax
+I
+III
+i
+I
+V; i
+ia
+i
+i`=
+a
+lAK
+u
+aka
+j U•
+E
+iZ
+Z.
+I
+y,   r    •
+tMr       ? e 1-:i
+II
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit B- Map 17 of 26
+Unincorporated Community to Ordinance 2015- 010 e   ,
+CMSageGrouseMapIndexA
+Sage Grouse Habitat Area J
+Core Area
+LOW Density
+0 025 05 1 I. s
+Miles
+General Area
+August 21, 2015
+E
+IS,'
+rill'      /
+EE{
+w
+ggI i t f.
+E.€
+a.
+I
+0111'..!.. ,',..'.((
+t
+loilL
+ia
+w
+7.
+I
+1::
+I'_
+1 R20,„
+a
+t
+l
+VPd'
+a
+zy
+E w
+U
+E a
+4
+r d
+I
+wf
+t    +• B w:
+pq
+i
+iNt n.
+u1:
+Fiamolllittgoila r
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit B- Map 18 of 26
+Unincorporated Community to Ordinance 2015 010
+041104°'
+Sage Grouse Map Index
+Sage Grouse Habitat Area
+Core Area
+w: Low Density
+a an u5 s
+w,,. v.,      ,. o, w
+v
+Miles
+General Area
+August 21. 2015
+F
+I
+DE0996 02
+Fst2Z r)(
+o
+N,,
+01
+DE0991 01
+i
+i
+1
+T. 22 R 16
+I.:.:;..::.;.
+II
+Y
+I11
+I
+s
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit B- Map 19 of 26
+unincorporated Community to Ordinance 2015- 010
+y ; sa
+Sage Grouse Map Index
+Sage Grouse Habitat Area
+Cl
+Core Area
+nr.
+Low Density
+0 020 0. 5 1 15
+c- ne, mom.,..... rer:.„'.. re....,, "'•••""
+v." r, w"''" W'
+Mlles
+General Area
+August 21, 2015
+I
+i
+0 I
+DE0995 02
+DE0996-( I 1 1
+i
+i      ' '
+Ri
+DE099. 0 01 i
+i 1
+T. 22" R. 17
+R.
+i
+1
+i
+n,
+4R1' Y.1:
+Legend Sage Grouse Greater Habitat Area
+O Sage Grouse Lek Site Exhibit B- Map 20 of 26
+Unincorporated Community to Ordinance 2015- 010
+Sage Grouse Map Index
+M
+Sage Grouse Habitat Area Cl
+4
+Core Area
+Low Density
+0 025 05 1 15
+r,. . ., 7n„,..., M ......,,.,,
+W,,,...,
+Miles
+General Area
+August 21 2015
+e
+I
+1    ; .:.
+DE0887- 01:;-    l
+I
+A
+DE0888- 01
+ll
+I
+I
+i
+1
+i
+i
+T. 22 R. 18
+11 1
+a
+f i
+L p     " rS    •
+r1
+N
+ate
+Y
+y',,
+L~- r• sns rn       .._, i: bm::. auc. uw............  .....  ..... ..    zcz_• l _.
+Legend Sage Grouse Greater Habitat Area
+c)  Sage Grouse Lek Site Exhibit B- Map 21 of 26
+Unincorporated Community to Ordinance 2015- 010
+Sage Grouse Map Index
+1Sage Grouse e Habitat t Areaea
+1
+ninciralm
+Core Area
+Low Density
+0 0. 25 0. 5 1 t 5
+MIIeS
+1::::i.:, General Area
+August 21, 2015
+j....   .,.  ,,
+II,
+i
+i
+k.
+h  `
+rrf1
+y u
+Pr r,
+it
+it  Ei'
+t>,
+n
+wa {
+v  +
+rry w.
+I,  1. l,'
+i ,','  I' 11{    x17' 4,,       M"
+F{
+rt> f
+N."'...fit,      7 '
+N r} V n
+Rl'
+M
+A
+1.. 10
+a'
+11 Ijt,S}14.,}  1!.     Ya
+r1
+a
+g
+ar
+JIi
+1"-o   ;,     74.  , E  '•  ' N(4aa::,. ,',''; I-[,,s* r. . r,°v
+t,
+it
+Ili."'
+n i-.' 1,'.  a•
+J t r+ rn. n 1h..
+i: yxt r, a'+ 4f•. d4
+i, v .' yl,.,  .
+M:; tiyf 4.1}. r"
+i
+r
+Legend Sage Grouse Greater Habitat Area
+E)  Sage Grouse Lek Site Exhibit B- Map 22 of 26
+4•    •
+Unincorporated Community to Ordinance 2015- 010
+Grouse Map Index
+Cr_)Sage Grouse e Habitat t Area
+Core Area
+Low Density
+a 0 2 05 1e
+Miles
+General Area
+Augusl21, 2015
+Y
+rt
+4.    kl.rwb'
+I
+1
+x.
+1 L l
+s , v:;.'
+lG.'     ii 1n 1 i      .. yc    " i:
+4...
+XY,'
+1
+r.
+wq
+ks 7 t '
+Lg
+19 3n, pr.
+it
+t
+Yti ¢  i    ,   1
+7sr
+v
+r
+v4F'Sj14n c3
+1[t
+E.".•h 5{' '  ss
+0y
+v Ir„,;:
+i KyYw'..,+
+V
+7 t  ;  .,
+r.
+v  "
+n.
+y
+1' ' r<     y r
+dr
+L,
+fie
+a ti
+7,
+it,
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit B- Map 23 of 26
+Unincorporated Community to Ordinance 2015- 010
+EM•SagaGrouseMapIndex
+Sage Grouse Habitat Area
+Core Area
+Low Density
+0 0. 25 0. 5 1 1. 5
+n,......,, nnm.,, m.,,..,, w.,. m... w,..,. o- •••'•"
+wv, m w,»,,.:,
+Miles
+General Area
+August 21, 2015
+r
+III
+i
+L....._....—      I
+f
+1Hampton1'..":.:',''.:',-:':':',-, ::',..:;;;::;', :l..;::':',':-'.•'..':;:.•'..,     '''*'...
+k.•:
+i
+7 0\
+E€,
+I11;:114
+r' E SCHRgEbER Ra 4 p'     - y
+E€
+E
+tEE I
+E EEEE
+E
+E
+E`
+EE
+EEEE, i, e, ts E
+EE
+EEt ry.E
+I,,   ins' E
+E E€
+EEIEy  ';'' \
+T22,R2E11,E
+E1 E` € E E   !   P
+E1E
+IEEE  .„
+4,, k+
+9{       " i,1 ',,;;',..
+Pe'',
+E
+E
+E ,
+E`
+y3,°
+h
+g
+I     '€
+d i WEE
+E
+I
+E  € I
+E„
+EbE1
+3
+b,1:,
+I E,
+EEEEE€[
+I E E
+E
+EE,e(
+EEE 3" EEi€1EEEd
+t
+E p[(€
+E
+Ed
+A
+3 E E;
+ESE  [[ • E IEG.d E,
+4€€".11111;11111111111(',
+E E
+q4
+E
+to,  "!
+E(EE
+E
+1
+4
+IEE       ',     EE EE(E
+ff 3 9
+E E V
+E",`,;!€,€;'€;;:;€'',','1EEP' 7
+ilitiiilL
+3(
+E[([(;
+EE
+E(@.
+R  '
+d
+E
+EI    !'
+1:
+1,
+1::    E
+r E
+1d
+EE
+uEEE     €
+v
+8
+E
+IEEE       (((
+EEE
+v IEE I(  F
+e
+E€'
+1 E1. A?'
+E€
+1'
+1'
+E€
+E   •;;;.€,,; .
+EEEb
+1     .',
+EEEE
+1I'•E'
+4 C,
+E
+1(€€(    E.N 1E•
+r
+11E
+E I
+fF
+EIEEE€ EIS.        I[
+E
+EE€
+w„
+IEE EE(I[ E€[€
+E€. r€
+q •
+E EIEE!11111
+EI(
+1 E     !
+u,
+11€
+1€1€'1€€E r i
+DE0880- 01
+E  (    ,,
+E1EE     €
+r'•
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit B- Map 24 of 26
+Unincorporated Community to Ordinance 2015- 010
+c3Sage GrouseMapIndex
+Sage Grouse Habitat Area C1)
+Core Area
+Lbw Density
+o azs os 5
+Miles
+General Area
+August 21. 2015
+ny,
+I
+v. ftao,,AE
+4l
+4 V
+t t
+i,
+r
+k
+om
+f t     ' l
+I
+T22 R
+G
+v'.
+gg
+4
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit B Map 25 of 26
+Unincorporated Community to Ordinance 2015- 010
+Sage Grouse Map Index
+Sage Grouse Habitat Area
+j-
+Core Area
+Low Density
+0 025 05 1 15
+e...... r, u
+Miles
+General Area
+August 21 2015
+I
+i   "
+j
+1
+DE10ul1.!.) 1 L
+I
+i
+I T`   R. 23
+1
+L..
+r•tif ti,
+i
+Legend Sage Grouse Greater Habitat Area
+Sage Grouse Lek Site Exhibit B- Map 26 of 26
+Unincorporated Community to Ordinance 2015- 010
+Sage Grouse Map Index
+Sage Grouse Habitat Area
+1 )
+Core Area
+LawDensity
+0 020 0. 0 1 1. s
+w,...  .....,.,„.,.,
+n.:., r,
+IMMia Miles
+General Area
+August 21 2015
+n
+s$ a
+r
+o e
+a• e..
+A2Fe
+we
+n„   ^ewa8
+r- r
+n,Hyto` u
+Zpg3Pe
+Srt g<a c
+PitLgt
+b':   9111
+CD
+E E
+C
+E
+o
+a)
+O
+T-
+j  ,
+U)v
+f'     a
+p CO alc c
+N1
+a     ;
+I
+y
+4
+int
+I
+a
+W p.  1 CS
+IL m f...
+INI
+6 x
+W
+al
+L9
+p 1O
+L
+CID     ( L)
+Q)     O COO
+1 1 03
+L1
+IN C
+NI m
+I
+1
+U
+D
+E
+I
+0
+O i
+Y
+A U
+I
+6 i3O
+O W
+7 f6 O p
+W L m i1
+LNG.
+O O 0
+@o
+m
+lNJ    ]
+1_
+m N N a.
+m
+I
+mx4
+ee d.
+21'1,27
+O.     a uiiii
+a)
+p 1
+i' E
+C
+a)
+a
+0
+C
+Q
+o
+C
+G
+T G r
+C13 p3
+y
+p,
+k
+n
+cp
+o  ,
+o 3 ;   CO  : r3
+e 2 X
+w
+Cil
+l_J
+o
+w CD
+o
+N
+C
+CD
+I
+coo
+E
+I6 1Z3
+G  - O CU
+05
+w 11 m
+LR
+F.       U
+W  --
+G C
+P @ D
+G  ( 7 O
+Cri
+a)  (. 5 0-
+0 I
+secti, ovt. 2. 0 wiLc LI.-Fe
+Background
+Wildlife diversity is a major attraction of Deschutes County. It was mentioned in many
+Comprehensive Planmeetingsin 2008 and 2009 as important to the community. Healthy
+wildlife populations are often a signof a healthy environment for humansaswell as other
+species. The key to protecting wildlife is protecting the habitats each speciesneedsfor food,
+water, shelter and reproduction. Also important is retaining or enhancing connectivity between
+habitats, in order to protect migration routes and avoid isolated populations.
+Wildlife is tied to land use planning because human development impacts habitats in complex
+ways. Wildlife protections are provided by federal, state and local governments. Oregon land
+use planning protects wildlife with Statewide Planning Goal 5, Open Spaces, Scenic and
+Historical Areas and Natural Resources and the associated Oregon Administrative Rule ( OAR)
+660- 023 ( this Rule replaced 660- 016 in 1996). Statewide Goal 5 includes a list of resources
+which each local government must inventory, including wildlife habitat.
+The process requires local governments to inventory wildlife habitat and determine which items
+on the inventory are significant. For sites identified as significant, an Economic, Social,
+Environmental and Energy ( ESEE) analysis is required. The analysis leads to one of three
+choices: preserve the resource, allow proposed uses that conflict with the resource or strike a
+balance between the resource and the conflicting uses. A program must be provided to protect
+the resources as determined by the ESEEanalysis.
+In considering wildlife habitat, counties rely on the expertise of the Oregon Department of Fish
+and Wildlife ( ODFW) and U. S. Fish and Wildlife Service ( USFWS). Those agencies provide
+information for the required wildlife inventory and recommendations on how to protect
+wildlife habitat on private lands. Note that this section focuses on wildlife, while fish are
+covered in the Water Resources section of this Plan.
+Wildlife Designations
+ComprehensivePlanningfor Wildlife
+Plan 2000, the Comprehensive Plan adopted in 1979, included a Fish and Wildlife Chapter with
+policies aimed at protecting wildlife. That Plan also noted the controversial nature of wildlife
+protections. To implement the Planpolicies, the Wildlife Area Combining Zone was adopted.
+This overlay zone was intended to protect identified big game habitat through zoning tools such
+asappropriate lot sizesand setbacks. In 1986 a River Study was completed and adopted into
+the Resource Element. Goals and policies from that study, including wildlife goals, were added
+to Plan 2000.
+As part of State mandated Periodic Review, the County took another look at wildlife
+protections to further comply with the requirements of Goal 5 and the then prevailing OAR
+660- 16. The County worked with the ODFW to obtain the most recent inventory information
+on fish and wildlife resources in the county and to identify usesconflicting with those
+resources. This information was used to update the inventories and amend the ESEE analyses.
+DESCHUTES COUNTY COMPREHENSIVE PLAN- 201 I
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 1 OF I 0- EXHIBIT" D" TO ORDINANCE 2015- 010
+In addition, ODFW provided information to support zoning ordinance provisions to resolve
+conflicts between fish and wildlife resource protection and development. The County adopted a
+Sensitive Bird and Mammal Combining Zone which identified and protected specific bird nests
+or leks and bat hibernating or nursery sites.
+Ordinances for Compliance with Goal S
+During periodic review in 1992, Deschutes County met the requirements of Goal 5 by:
+The adoption of Goals and Policiesin Ordinance 92-040 reflecting Goal 5 requirements,
+includinga SensitiveBird and MammalCombining Zone to identify and protect specific
+bird nests or leks and bat hibernating or nursery sites;
+The adoption of Ordinance 92-041 amended the comprehensive plan to inventory each
+Goal 5 resource, analyze conflicting uses, and analyze the ESEEconsequences of protecting
+or not protecting inventoried fish and wildlife resources;
+The adoption of zoning ordinance provisions in Ordinance 92-042, as applied to
+inventoried sites by the map adopted by Ordinance 92-046.
+In 2015, the Land Conservation and Development Commission ( LCDC) adopted rules to
+Oregon Administrative Rule ( OAR) chapter 660, division 23, to establish procedures for
+considering development proposals on lands identified as Greater Sage-Grouse Area Habitat.
+Deschutes County met the requirements by:
+Adopting the 2015 Goal 5 Greater SageGrouse habitat Area Inventory Map into its
+Comprehensive Planand amendingthe SensitiveBird and MammalHabitat Inventory to
+remove 1990sagegrouse lek and range data by Ordinance 2015-010 (Those mapsare
+incorporated by reference herein); and,
+Adopting sagegrouse regulations asa Greater SageGrouse Area Combining Zone by
+Ordinance 2015- 011.
+Wildlife Snapshot 2008- 2009
+Source: CountyGISdata
+There are 816,649 acres in Deschutes County' s Wildlife Area Combining Zone.
+There are 40 sites protected by the SensitiveBird and Mammal Habitat Combining Zone.
+76% of County land is owned and managedby the Federalgovernment through the U.S.
+Forest Service and Bureau of Land Management.
+Source: Fishing, Hunting, Wildlife Viewing, and Shellfshingin Oregon, 2008 May 2009 Preparedfor
+Oregon Department of Fish and Wildlife by Dean RunyanAssociates
+Nearly $ 70 million was spent in Deschutes County on travel generated expenditures on
+wildlife viewing, fishing and hunting by people from over 50 miles away.
+Over 60% of the $ 70 million noted above was spent for wildlife viewing, with fishing
+second with nearly 30% and nearly 10% on hunting.
+Over $ 8 million in revenue from fishing, hunting and wildlife viewing came from people
+who live in the County or within 50 miles of the County.
+Over 60% of the $ 8 million noted above was spent on fishing, over 20% was spent on
+hunting and under 20% was spent on wildlife viewing.
+All total, over $ 78 million was spent in Deschutes County on fishing, hunting and wildlife
+viewing.
+2 DESCHUTES COUNTY COMPREHENSIVE PLAN- 2011
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 2 OF 10— EXHIBIT" D" TO ORDINANCE 2015- 010
+Deer Migration Corridor
+The Bend/La Pinemigration corridor is approximately 56 miles long and 3 to 4 miles wide and
+parallels the Deschutes and Little Deschutes Rivers. The corridor is used by deer migrating
+from summer range in the forest along the east slope of the Cascadesto the North Paulina
+deerwinter range. DeschutesCountyadopteda "Deer MigrationPriority Area" basedon a
+1999ODFW map submitted to the South County RegionalProblem SolvingGroup. This
+specific sub- area is precluded from destination resorts.
+Deer Winter Range
+The ODFW identified the Metolius, Tumalo and North Paulinadeer winter rangesduring
+Deschutes County' s initial comprehensive plan. The boundaries of these winter rangesare
+shown on the BigGame SensitiveArea map in the 1978Comprehensive Planand havebeen
+zoned with the Wildlife Combining Zone since 1979. The winter rangessupport a population of
+approximately 15,000 deer.
+In 1992, ODFW recommended deer winter range in the northeast corner of the county, in the
+Smith Rock State Park area, be included in the Deschutes County inventory and protected with
+the same measures applied to other deer winter range. This area was officially included and
+mapped on the Wildlife Combining Map when Ordinance 92-040 was adopted by the Board of
+County Commissioners.
+Elk Habitat
+The Land and Resource ManagementPlanfor the Deschutes National Forest identifies 6 key
+elk habitat areas in Deschutes County. The ODFW also recognizesthese areasas critical elk
+habitat for calving, winter or summer range. The following areasare mapped on the Big Game
+Habitat Area map and in the Deschutes National Forest Land and Resource ManagementPlan:
+Tumalo Mountain
+Kiwa
+Ryan
+Crane Prairie
+Fall River
+Clover Meadow
+Antelope Habitat
+The Bend and Ochoco District offices of the ODFW provided maps of the antelope range and
+winter range. The available information is adequate to indicate that the resource is significant.
+The antelope habitat is mappedon Deschutes County' s Big Game Habitat-Wildlife Area
+Combining Zone Map.
+Sensitive Birds
+Nest sites for the northern bald eagle, osprey, golden eagle, prairie falcon, great grey owl, and
+great blue heron rookeries are inventoried in Ordinance No. 92- 041. The area required for
+each nest site varies between species. The minimum area required for protection of nest sites
+hasbeen identified by the ODFW in their managementguidelinesfor protecting colony nesting
+birds, osprey, eagles and raptor nests.
+DESCHUTES COUNTY COMPREHENSIVE PLAN- 20 I I 3
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 3 OF 10- EXHIBIT" D" TO ORDINANCE 2015- 010
+Federal and State Wildlife Protections
+Federal Protections
+The primary federal protection for wildlife is the Endangered Species Act ( ESA), which sets the
+preservation of biodiversity as its highest priority. Under ESA, National Oceanic Atmospheric
+Administration ( NOAA) Fisheries or the U. S. Fish and Wildlife Service ( USFWS) list species as
+threatened or endangered. ESA prohibits both federal actions that jeopardize listed species and
+private actions that result in the " taking" of listed species. Court rulings haveexplicitly
+determined that habitat modification can lead to a " taking," even if the modification does not
+affect a specific individual member of the species. ESA authorizes civil and criminal suits be
+brought against entities that violate its substantive or procedural provisions.
+There are two fish speciesand one bird specieslisted asfederally threatened or endangered in
+Deschutes County. Fishare discussedunder the Water Resourcessection of this chapter and
+the bird, the Northern Spotted Owl, has not been found on private lands.
+State Protections
+It is Oregon' s policy " to prevent the serious depletion of any indigenous species" ( ORS
+496. 012). The Oregon Department of Fish and Wildlife maintains a list of fish and wildlife
+speciesdetermined to be either threatened or endangeredaccording to OAR 635. When a
+speciespopulation is seriously depleted, recovery can be difficult and expensive aswell as
+socially and economically divisive. To provide a positive approach to speciesconservation, a
+sensitive" species classification was created under Oregon' s Sensitive Specie Rule ( OAR 635-
+100- 040). Table 2.7.I lists speciesin Deschutes County that are listed by either federal or state
+wildlife agencies under the above mentioned laws.
+Besidesthe listingsof endangeredor threatened, speciescan be federally listed as candidate
+species or species of concern. State listings include threatened, critical and vulnerable. Each
+status has a definition specifying different actions.
+E`
+a.,
+y:
+Mks          , t,
+V
+G4
+i
+w•
+P F`
+p•
+dt' y q
+a
+Mr F b
+k$ y f E
+E SR„”
+gig
+N
+r'
+p
+n'
+rr
+r '
+a     '   £
+F f 9
+i 1^
+it
+1IS K
+t l     . j vS       •  —   E  .
+Ma.
+rtrA
+ar
+4 DESCHUTES COUNTY COMPREHENSIVE PLAN— 2011
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 4 OF 10— EXHIBIT" D" TO ORDINANCE 2015- 010
+Table2. 6. I- Special Status of Select Mammals, Birds, Amphibians, and Reptiles in.
+Deschutes County 2009
+Species State Status Federal Status
+Mammals
+California Wolverine Threatened Species of Concern
+Fisher Critical
+Fringed Myotis Vulnerable
+Long- eared Myotis Species of Concern
+Long- legged Myotis Vulnerable Species of Concern
+Pallid Bat Vulnerable
+Preble' s Shrew Species of Concern
+Pygmy Rabbit Vulnerable Species of Concern
+Silver- haried bat Vulnerable Species of Concern
+Small- footed Myotis Species of Concern
+Spotted bat Vulnerable
+Townsends western big- eared bat Critical Species of Concern
+Yuma Myotis  _       Species of Concern
+girds
+American Peregrine Falcon Vulnerable Delisted
+Bald Eagle Threatened Delisted
+Black Tern Species of Concern
+Black- backed Woodpecker Vulnerable
+Ferruginous Hawk Vulnerable Species of Concern
+Flammulated Owl Vulnerable
+Great Gray Owl Vulnerable
+Greater Sage Grouse Vulnerable Species of Concern
+Lewis' Woodpecker Critical Species of Concern
+Loggerhead Shrike Vulnerable
+Long- billed Curlew Vulnerable
+Mountain Quail Vulnerable Species of Concern
+Northern Goshawk Vulnerable Species of Concern
+Northern Spotted Owl Threatened Threatened
+Olive- sided Flycatcher Vulnerable Species of Concern
+Pileated Woodpecker Vulnerable
+Swainson' s Hawk Vulnerable
+Western Burrowing Owl Vulnerable*       Species of Concern
+White- head Woodpecker Critical Species of Concern
+Willow Flycatcher Vulnerable Species of Concern
+Yellow- breasted chat Species of Concern
+Yellow- billed cuckoo Vulnerable Candidate
+Amphibians and Reptiles
+Cascades Frog Vulnerable Species of Concern
+Coastal tailed frog Vulnerable Species of Concern
+Northern Sagebrush Lizard Species of Concern
+Oregon slender salamander Vulnerable Species of Concern
+Oregon Spotted Frog Critical Candidate
+Western Pond Turtle Critical      _
+Western Toad Vulnerable
+listed only for the Basinand RangeEcoregion
+Source: 2009 Interagency Report and ODFW
+DESCHUTES COUNTY COMPREHENSIVE PLAN -- 201 I 5
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 5 OF 10— EXHIBIT" D" TO ORDINANCE 2015- 010
+Oregon Department of Fish and Wildlife
+OregonConservationStrategy
+In 2006 the Oregon Conservation Strategy (OCS) was adopted by Oregon' s Fishand Wildlife
+Commission for the state of Oregon. Wildlife and habitat issues are often crisis- driven and
+focused on individual species. The OSC is intended to provide a long-term, big-picture look,
+usingthe bestavailablescience, on how bestto maintainandimproveOregon's species,
+habitats and ecosystems.
+This document is not intended to be a set of regulations, but rather it presents issues,
+opportunities and recommended actions that can serve as the basis for regional collaborative
+actions. The recommendations within the OCS can be used to address species and habitat
+conservation needs, to expand existing partnerships and develop new ones, and to provide a
+context for balancingOregon's conservation and development priorities. The future of many
+species will depend on landowners' and land managers' willingness to voluntarily take action on
+their own to improve fish and wildlife habitat.
+The OCS works by defining ecoregions and offering an overview of each region that covers a
+variety of ecological, land use and economic issues. Parts of Deschutes County fall into three of
+the ecoregions; East Cascade, Blue Mountains and Northern Basin and Range. For Deschutes
+County this document offers a wealth of knowledge that can be usedto inform fish and wildlife
+habitat policies and protect and enhance ecosystems.
+Fish and Wildlife Habitat Mitigation Policy
+The ODFW' s Fishand Wildlife Habitat Mitigation Policy provides direction for their staff to
+review and comment on projects that may impact fish and wildlife habitat. This policy
+recognizes six distinct categories of wildlife habitat ranging from Category I — essential, limited,
+and irreplaceable habitat, to Category 6 — low value habitat. The policy goal for Category I
+habitat is no loss of habitat quantity or quality through avoidanceof impacts by using
+development action if impacts cannot be avoided. The ODFW recommends avoidance of
+Category I habitats as they are irreplaceable, and thus mitigation is not a viable option.
+Categories 2-4 are for essentialor important, but not irreplaceable habitats. Category 5 habitat
+is not essential or important, but has high restoration potential.
+Interagency Report
+In 2009 the USFW, ODFW, U. S. Forest Service and the Bureau of Land Management
+collaborated to provide a report on Wildlife in Deschutes County, Updated Wildlife Information
+and Recommendationsfor the DeschutesCountyComprehensivePlanUpdate (Interagency Report).
+This report provided updated information to be used in revising the County Goal 5 inventory.
+This update will be done as part of the Goal 5 review as described in Section 2. 4 of this Plan.
+The report also outlined numerous issues that the agencies believe are important for the
+County to address. The Interagency Report generated debate over how best to protect wildlife
+while also protecting the rights of property owners. Key issuesfrom the report are touched on
+below.
+Economicbenefitsof fishand wildlife: The report notes the ODFW report by Dean Runyan
+regarding the economic benefits of fishing, hunting and wildlife viewing, including that Deschutes
+County generated more freshwater fishing revenue than any other county in Oregon.
+6 DESCHUTES COUNTY COMPREHENSIVE PLAN- 2011
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 6 OF 10- EXHIBIT" D" TO ORDINANCE 2015- 010
+OregonConservationStrategy: The report discussesthe Oregon Conservation Strategy described
+above and recommends that the County use it as a guide and reference for the maintenance
+and enhancement of wildlife resources.
+Threatenedand EndangeredSpeciesand Speciesof Concern:The report recommends developing
+and adopting measuresto protect federal and state listed threatened and endangeredspeciesto
+limit conflicting use.
+Riparian and wetland areas for wildlife and fish: The report recommends completing and adopting
+a Local Wetland Inventory. The current National Wetland Inventory was done at a scaleso
+that wetlands under 5 acres are not identified. Yet, those wetlands provide significant habitat.
+DeschutesCountyadopteda LocalWetland Inventoryfor SouthCounty in 201I.
+OregonSpottedFrog:The report recommendsaddinganOregonSpottedFroghabitatareato
+the wildlife area combining zone and provides some specific ideasfor protecting those areas.
+The OregonSpottedFrogcanbefoundin the floodplainsandwetlandsalongthe Deschutes
+River and Little Deschutes River, south of Bend. Riverine oxbows are particularly key habitat.
+This frog is listed asa FederalCandidate and State Critical Species.
+Shrub-Steppe Habitat The report recommends the County consider impacts to wildlife and
+habitat when development will degrade shrub- steppe habitat. Shrub- steppe habitat provides
+needed resources for numerous birds and mammals, including 12 Oregon listed sensitive
+species, and one threatened species. Large blocks of un- fragmented habitat with low human
+disturbance are needed to support shrub- steppe wildlife. If avoidance of these areas is not
+possible, providing for " no net loss' and a " net benefit" ( restoration) of shrub- steppe habitat
+should be a vital component of any conservation plan.
+GreaterSageGrouse:The report provides recommendations for limiting conflicting usesnear
+sage grouse leks and habitat. The population management objective for sage- grouse in this
+region ( Prineville District), which includes portions of Deschutes and Crook counties, is to
+restore sagegrouse numbers and distribution near the 1980spring breeding population level,
+approximately 3,000 birds. Many aspectsof human development have impacted sagegrouse
+populations and can be considered conflicting uses. Conservation efforts focused on maintaining
+large expansesof sagebrushhabitat, enhancingthe quality of existing habitat, and increasing
+connections between suitable habitat patcheswould be most beneficial to maintaininghealthy
+sage-grouse populations. Breeding and nesting habitat is particularly important becauseit is
+essential, limited and irreplaceable.
+Critical Bird and Mammal Sites: The report does not recommend additional or modification of
+existing protections for site specific sensitive bird and mammal sites, except for additional
+protections for sage grouse. The report does provide a new inventory and site specific
+recommendations that will be used to update the list of Goal 5 wildlife resources.
+GameSpecies: The report does not recommend changesto the existing big gamewinter range
+or migration corridor maps. It does recommend that the County revise the usesallowed in
+those areas to prohibit the following uses that generate activity, noise and habitat alteration:
+Guest ranch
+Outdoor commercial events ( i.e. Wedding Venues, Farmers Market)
+OHV course
+Paintball course
+DESCHUTES COUNTY COMPREHENSIVE PLAN- 201 1 7
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 7 OF 10- EXHIBIT" D" TO ORDINANCE 2015- 010
+Shooting range
+Model airplane park
+BMX course
+Sensitive Species: Table 2.7. 2 shows species considered sensitive to human disturbance. Mule
+deer are the only speciesin decline.
+Table 2. 7. 2 - Big Game Population Estimates, Deschutes County( 2009)
+Species Population
+Mule Deer 9, 337*
+Elk 1,500
+Pronghorn 1,000
+Cougar 150
+Black Bear 150
+Silver Grey Squirrel 800
+The management objective for the Paulinaand Upper Deschutes Wildlife Management Units, primarily
+in Deschutes County, is an April adult population of 18,7000 mule deer.
+Source: Interagency Report
+Fishand Wildlife Habitat Mitigation Policy: The Interagency Report includesone recommendation
+that is only from the ODFW. They recommend that the County require impact avoidancefor
+development that will impact Category I habitat and require a wildlife mitigation plan for
+development that will impact habitat Categories 2-5, to limit conflicting uses.
+The Interagency Report recommendations will be considered more closely when the Goal 5
+review is undertaken.
+Future of Wildlife and Habitat in Deschutes County
+Coordination
+Much of the wildlife habitat in Deschutes County is located on public lands. Federal landsmake
+up 76% of County lands with another 3% State or County owned. Federal landsare not subject
+to County regulation but as noted in the Forest section of this Plan, they are important
+economic generators that also contribute to the community's quality of life, providing ample
+opportunities for wildlife viewing, fishing and hunting. It should be noted that not all federal
+lands are managed for wildlife habitat.
+Regardingpublic landsthe County' s role is to coordinate with the land managementagenciesto
+ensure development approved by the County does not impact wildlife.
+Another area for coordination is with the Trust for Public Lands ( TPL). In 2009 this non- profit
+group initiated a Greenprint effort that will identify specific areas needing protection, including
+wildlife habitat. A survey done by this organization identified protecting wildlife habitat as
+important to County residents.
+Rural Development
+The loss of wildlife species and habitat may lead to declining recreational opportunities, tourist
+dollars and quality of life. Yet, many speciesare sensitiveto human development, with some
+species benefiting and some harmed by land disturbance. New structures or infrastructure can
+fragment habitats. Barriers such as roads, dams or housing can interfere with migration routes
+and connectivity leading to isolated and unhealthy populations. Development can also increase
+8 DESCHUTES COUNTY,._  COMPREHENSIVE PLAN— 2011
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 8 OF 10— EXHIBIT" D" TO ORDINANCE 2015- 010
+non-native and invasivespecies. Most Deschutes County residents consider the local wildlife as
+one of the benefits of living in this region. With careful planning, many of the impacts to wildlife
+habitat can be mitigated.
+DESCHUTES COUNTY COMPREHENSIVE PLAN- 2011 9
+CHAPTER 2 RESOURCE MANAGEMENT SECTION 2. 6 WILDLIFE
+PAGE 9 OF 10- EXHIBIT" D" TO ORDINANCE 2015- 010
+Secti, o1A, 2. 0 WGLc L f e PoLicies
+Goals and Policies
+Goal I Maintain and enhance a diversity of wildlife and habitats.
+Policy 2. 6. 1 Goal 5 wildlife inventories, ESEEs and programs are retained and not repealed.
+Policy 2. 6. 2 Promote stewardship of wildlife habitats and corridors, particularly those with
+significant biological, ecological, aesthetic and recreational value.
+Policy 2. 6. 3 Ensure Goal 5 wildlife inventories and habitat protection programs are up-to-
+date through public processes and expert sources, such as the 2009 Interagency
+Report.
+Policy 2. 6. 4 Support incentives for restoring and/or preserving significant wildlife habitat by
+traditional means such as zoning or innovative means, including land swaps,
+conservation easements, transfer of development rights, tax incentives or
+purchase by public or non-profit agencies.
+Policy 2. 6. 5 Assist in providing information and education on wildlife and habitat protection.
+Policy 2. 6. 6 Review the Oregon Conservation Strategywhen amendingthe Wildlife section
+of this Plan.
+Policy 2. 6. 7 Use a combination of incentives, regulations and education to promote
+stewardship of wildlife habitat and address the impacts of development.
+Policy 2. 6. 8 Balance protection of wildlife with wildland fire mitigation on private lands in the
+designated Wildland Urban Interface.
+Goal 2 Promote the economic and recreational benefits of wildlife and
+habitat.
+Policy 2. 6. 9 Encourage wildlife related tourism.
+Policy 2. 6. 10 Coordinate with stakeholders to ensure access to significant wildlife and riparian
+habitat through public or non- profit ownership.
+Goal 3 Support retaining populations of Federal and State protected
+endangered species.
+Policy 2. 6. 1 I Develop local approaches, in coordination with Federal and State agencies, for
+protecting Federalor State Threatened or EndangeredSpeciesor Speciesof
+Concern.
+Policy 2. 6. 12 Address potential conflicts between large- scale development and sage grouse
+habitat using Ordinances Nos. 2010- 010 and 2010- 011, which are consistent
+with OAR 660- 023- 0115.
+I O DESCHUTES COUNTY COMPREHENSIVE PLAN- 20 I I
+CHAPTER 2 RESOURCE MANAGEMENT REFERENCES
+PAGE 10 OF 10- EXHIBIT" D" TO ORDINANCE 2015- 010
+S ect% o vt 5. 12 L c LsLati, ve I—ttsto r
+j
+Background
+This section contains the legislativehistory of this Comprehensive Plan.
+Table 5. 11.1 Comprehensive Plan Ordinance History
+Ordinance
+Date Adopted/
+Chapter/ Section Amendment
+Effective
+All, except
+Transportation, Tumalo
+and Terrebonne
+2011- 003 10- 1 1/ 1 1- 9- 1 I Community Plans,
+Comprehensive Plan update
+Deschutes Junction,
+Destination Resorts and
+ordinances adopted in
+2011
+2. 5, 2. 6, 3. 4, 3. 10, 3. 5,
+Housekeepingamendmentsto
+2011- 027 10- 3 I- I 1/ 1 1-9- I I
+4. 6, 5. 3, 5. 8, 5- I I,
+ensure a smooth transition to
+23. 40A, 23. 406,
+the updated Plan
+23. 40. 065, 23. 01. 010
+23. 60, 23. 64 ( repealed),
+Updated Transportation
+2012- 005 8- 20- 12/ 11- 19- 12 3. 7 ( revised), Appendix C
+System Plan
+added)
+2012- 012 8- 20- 12/ 8- 20- 12 4. 1, 4. 2
+La Pine Urban Growth
+Boundary
+Housekeepingamendmentsto20 12- 0 16 12- 3- 12/ 3- 4- 13 3. 9
+Destination Resort Chapter
+Central Oregon Regional
+2013- 002 1-7- 13/ 1- 7- 13 4. 2 Large- lot Employment Land
+Need Analysis
+Comprehensive PlanMap
+Amendment, changing
+designation of certain
+2013- 009 2- 6- 13/ 5- 8- 13 1. 3
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive PlanMap
+2013- 012 5- 8- 13/ 8- 6- 13 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+Newberry Country: A Plan
+2013- 007 5- 29- 13/ 8- 27- 13 3. 10, 3. 11 for Southern Deschutes
+County
+DESCHUTES COUNTY COMPREHENSIVE PLAN- 201 1
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 1 1 GOAL 5 ADOPTED ORDINANCES
+PAGE I OF 2- EXHIBIT" E" TO ORDINANCE 2015- 010
+Ordinance
+Date Adopted/
+Chapter/ Section Amendment
+Effective
+Comprehensive PlanMap
+2013- 016 10- 21- 13/ 10- 21- 13 23. 01. 010 Amendment, including certain
+property within City of Sisters
+Urban Growth Boundary
+Comprehensive PlanMap
+2014- 005 2- 26- 14/ 2- 26- 14 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+20 14- 0 12 4- 2- 14/ 7- 1- 14 3. 10, 3. I I Housekeeping amendments to
+Title 23.
+Comprehensive PlanMap
+Amendment, changing
+designation of certain
+2014- 021 8- 27- 14/ 11- 25- 14 23. 01. 010, 5. 10 property from Sunriver Urban
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+Comprehensive PlanMap
+Amendment, changing
+2014- 027 12- 15- 14/ 3- 31- 15 23. 01. 010, 5. 10 designation of certain
+property from Agriculture to
+Rural Industrial
+Comprehensive Plan Text and
+2015- 010 12- 2- 15/ 12- 2- 15 2. 6 MapAmendment recognizing
+Greater Sage- Grouse Habitat
+Inventories
+2 DESCHUTES COUNTY COMPREHENSIVE PLAN- 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 12LEGISLATIVE HISTORY
+PAGE 2 OF 2- EXHIBIT" E" TO ORDINANCE 2015- 010
+FINDINGS
+The Deschutes County Planning Commission held a public hearing on October 8, 2015
+in Brothers to consider legislative plan amendments and to Deschutes County
+Comprehensive Plan and legislative amendments to Deschutes County Code ( DCC)
+Title 18.1The PlanningCommissionclosedthe hearingbut left the writtenrecordopen
+until October 23, 2015. On November 12, they forwarded a recommendation of adoption
+to the Board of County Commissioners ( Board). They also asked the Board to consider
+adding an amendment to County Code requiring bonding and reclamation for renewable
+energy facilities.
+The Board held a hearing on December 2, 2015.
+I. BACKGROUND
+The Greater Sage Grouse is a species common to the western United States. Over time,
+much of the sagebrush ecosystem needed to maintain a healthy population has
+suffered. Habitat has eroded as a consequence of the introduction of invasive weeds,
+juniper encroachment, large- scale development, wildland fire, and intensive agriculture.
+Strong concerns about the future of the species have resulted in the United States Fish
+and Wildlife Service  ( USFWS)  receiving multiple petitions to list the Greater Sage
+Grouse under the federal Endangered Species Act ( ESA).
+In April 2010, the USFWS determined that protection of Greater Sage Grouse under the
+ESA was warranted.  The USFWS did not list sage grouse at that time in order to
+address other species facing greater risk of extinction, but stated its intent to revisit its
+Warranted but Precluded"  decision.  The USFWS must still make a determination
+whether the species should be proposed for ESA listing or be removed from the
+candidate list, which would result in no further consideration by this fall.
+Sage grouse habitat in Oregon includes about 11 million acres distributed across five
+Bureau of Land Management ( BLM) management districts in seven central and eastern
+Oregon counties ( Baker, Crook, Deschutes, Harney, Lake, Malheur and Union). Private
+lands account for about 21 percent of this total while BLM controls about 70 percent. The
+remaining lands are made up of other public agencies including the Oregon Department
+of State Lands.
+Last January,  Governor Kitzhaber requested the Oregon Land Conservation and
+Development Commission ( LCDC) initiate a rulemaking to address potential conflicts
+between " large- scale development" and sage grouse habitat The purpose is to address
+a potential federal listing of the Greater Sage Grouse under the ESA. The Governor' s
+request follows the work of an interagency group called " SageCon," begun in 2012.
+SageCon' s goal is to demonstrate that Oregon can put together a plan of action that will
+demonstrate that the federal listing for sage grouse in Oregon is unnecessary.
+A public notice will be published in the Bulletin on September 20, 2015.
+PAGE 1 OF 6— EXHIBIT F TO ORDINANCE 2015- 010
+LCDC agreed and appointed a Sage Grouse Rules Advisory Committee ( Committee) in
+March to assist the Oregon Department of Land Conservation and Development ( DLCD)
+in drafting proposed rules. The Committee met four times. The rulemaking amends
+Oregon Administrative Rule ( OAR) chapter 660, division 23, often referred to as the
+Goal Five rule."  The rule applies to non- federal lands in eastern Oregon that constitute
+approximately 30 percent of sage grouse habitat. LCDC held a public hearing on July 23
+and 24 in Burns, OR and after closing the hearing on the 24th, adopted the rules ( OAR
+660- 024- 0115).
+2
+They became effective on August 13, 2015. State law, ORS 197.646( 3)
+requires the seven eastern Oregon counties, including Deschutes, to implement them.
+3
+As a result, staff is initiating two ordinances. Ordinance 2015- 010 contains the following
+amendments:
+Exhibit A: Amendment to DCC 23. 010. 010, Introduction;
+Exhibit B; Comprehensive Plan map adopting Oregon Department of Fish and
+Wildlife' s ( ODFW) Greater Sage- grouse Habitat Area Inventory Map ( Core Area,
+Low Density Area,  and General Habitat,  including occupied and occupied-
+pending lek locations);
+Exhibit C: Comprehensive Plan map amendment removing Deschutes County' s
+1990 sage- grouse inventory and lek locations from the Sensitive Bird and
+Mammal Habitat Inventory;
+Exhibit D: Amendment to Comprehensive Plan Chapter 2, Resource
+Management, Section 2. 6— Wildlife;
+Exhibit E: Amendment to Comprehensive Plan Chapter 5, Supplemental
+Sections, Section 5. 12 — Legislative History; and,
+Exhibit F: Findings.
+Ordinance 2015- 011 contains the following amendments:
+Exhibit A: Zoning code amendment to Deschutes County Code ( DCC), adopting
+Chapter 18. 89,  Greater Sage- Grouse Area Combining Zone  ( mirrors Oregon
+Administrative Rule 660- 024- 0115); and,
+Exhibit B: Zoning code amendment to DCC 18.90, Sensitive Bird and Mammal
+Habitat Combining Zone, removing outdated references to sage- grouse and leks.
+II. REVIEW CRITERIA
+ORS 197. 646( 3)   requires Deschutes County to implement OAR 660- 023- 0115.
+Subsection 4 of the rule underscores this requirement as well:
+2
+http:// www. oregon. gov/ LCD/ Pages/ SageGrouseRulemaking. aspx
+3 ORS 197.646(3). https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2013ors197.html
+PAGE 2 OF 6- EXHIBIT F TO ORDINANCE 2015- 010
+Local governments may develop a program to achieve consistency with
+this rule by following the standard process in OAR 660-023-0030, 660-
+023- 0040 and 660- 023- 0050 and submitting the amendment to the
+commission in the manner provided for periodic review under ORS
+197. 628 to 197. 650 and OAR 660- 025- 0175.   Until the commission has
+acknowledged a county amendment to its comprehensive plan and land
+use regulations to be in compliance with Goal 5 and equivalent to this rule
+with regard to protecting sage- grouse habitat, sections ( 5) to ( 12) shall
+apply directly to county land use decisions affecting significant sage-
+grouse habitat"[ emphasis added].
+The changes to the Comprehensive Plan and new regulations in DCC Chapter 18. 89
+mirror the state rules. Therefore, the new chapter and the revisions to DCC 18. 90 are
+consistent with the County' s Comprehensive Plan
+II.       SUMMARY
+To supplement the overview below, attached with the findings are also a DLCD rule-
+making summary and the rules themselves, OAR 660- 023- 0115 ( Attachments 1 and 2).
+A.       New Sage Grouse Inventories
+Deschutes County is now designating core areas, low density areas, and general habitat
+within 3. 1 miles of a lek as significant sage grouse habitat. These designations under
+OAR 660- 023- 0115( 6) only apply to lands protected under Statewide Planning Goals 3
+and 4, which in Deschutes County' s case are located in the Alfalfa, Horse Ridge East,
+and Bend- Tumalo- Redmond, Exclusive Farm Use ( EFU) subzones and Forest Use Zone
+F- 1). All of the non- federal properties, except one, which is split zoned, are located in
+EFU.
+B.       Regulatory Thresholds
+There are two types of development that require County review to determine if it creates
+a conflicting use to sage- grouse.
+1.   Large- scale development in core areas, low density areas, and lands within a
+general habitat area located within 3. 1 miles of an occupied or occupied- pending
+lek. 4 Large- scale development goes through a two- part analysis:
+First, is it a use listed in the OAR 660- 033- 0120 table ( Attachment 3) that
+requires review? If yes, than,
+a" Large-scale development" means uses that are: over 50 feet in height; have a direct impact in excess of
+five acres; generate more than 50 vehicle trips per day; or create noise levels of at least 70 dB at zero
+meters for sustained periods of time. Uses that constitute large- scale development also require review by
+county decision makers and are listed in one of the following categories identified in the table attached to
+OAR 660- 033- 0120.
+A. Commercial Uses.
+B. Mineral, Aggregate, Oil and Gas Uses.
+C.       Transportation Uses.
+D. Utility/ Solid Waste Disposal Facilities.
+E. Parks/ Public/ Quasi- Public.
+PAGE 3 OF 6— EXHIBIT F TO ORDINANCE 2015- 010
+Does the use meet qualifying feature( s)? Is the use over 50 feet in height;
+have a direct impact in excess of five acres; generate more than 50 vehicle
+trips per day; or create noise levels of at least 70 dB at zero meters for
+sustained periods of time? If yes, it is subject to review.
+Examples:
+A commercial photovoltaic solar project is a candidate to be considered large-
+scale development because it requires review by local government and is
+identified in category D — Utility/ Solid Waste Disposal Facilities.  However,  it
+would only be determined to be a large- scale development if it covers more than
+five acres.
+Alternatively, a three- acre aggregate quarry that requires review and is identified
+in category B  —  Mineral,  Aggregate,  Oil and Gas Uses  — would likely be
+considered a large- scale development because of it noise and not because of its
+size.
+2.  Smaller levels of development may jeopardize the future of the species if a
+proposal is in close proximity of a lek.  Land uses that do not qualify as " large-
+scale development" would still be evaluated if they require review pursuant to the
+OAR 660- 033- 0120 table and are proposed in:
+a.  Core area within 4.0 miles of an occupied or occupied- pending lek;
+b.   Low density area within 3. 1 miles of an occupied or occupied- pending lek; or
+c.   General habitat within 3. 1 miles of an occupied or occupied- pending lek.
+Examples:
+Farm use and other buildings provided in conjunction with farm use are exempt
+since they do not require review.
+Alternatively, a two- acre guest ranch proposed in any of the areas referenced in
+subsection 2 above, would require confirmation from ODFW. The agency would
+determine if the use poses a threat to sage- grouse habitat or the way sage-
+grouse use that habitat. They could also condition the approval based on certain
+recommendations,   including minimization techniques and compensatory
+mitigation, if necessary, to resolve threats to significant sage- grouse habitat ( See
+DCC 18. 89. 080( B), 18. 89. 090( B), 18. 89. 100 ( B)).
+C.       Large Scale Development Regulation / Mitigation
+Core Area
+Core areas are also known as Priority Areas for Conservation ( PACs). These two
+terms are synonymous. Core areas/ PACs are subject to disturbance thresholds
+that limit the direct impact of large- scale development to one percent of the total
+delimitated area of a PAC over 10 year increments and a maximum total of three
+percent. These percentages must be taken into account when a county considers
+a large- scale development proposal.  A proposal that would exceed either
+threshold may not be allowed.
+PAGE 4 OF 6- EXHIBIT F TO ORDINANCE 2015- 010
+In addition to limiting the amount of allowable anthropogenic disturbance in each
+core area/ PAC,  a proposal for large- scale development is subject to the full
+mitigation hierarchy,  which includes a rigorous avoidance test,  minimization
+requirements and compensatory mitigation ( offsets) responsibility.  Applying the
+avoidance test and minimization requirements are the purview of local
+government.  Should any negative impacts to the species remain after these
+items are satisfied the applicant will be responsible to offset those impacts
+through compensatory mitigation. Compensatory mitigation must be consistent
+with ODFW' s rule.
+Low Density Areas
+The regulatory arrangement for low density areas differs from core areas/ PACs
+in two ways. First, low density areas are not subject to disturbance thresholds
+such as the one percent over 10 year increments or three percent total that apply
+to core areas/ PACs. Second, while large- scale development proposals in low
+density areas do require application of the full mitigation hierarchy, a different,
+somewhat more lenient avoidance test applies to these areas. In other words, it
+will be easier to site large- scale development in low density areas.
+General Habitat
+General habitat is essentially sagebrush habitat used by sage- grouse that is not
+included in a core or low density area. In these areas the rules apply only to
+lands within 3. 1 miles of a lek.  Rather than directly applying the mitigation
+hierarchy, large- scale development proposal in general habitat within 3. 1 miles of
+a lek would be subject to a " consultation" with ODFW. However, consideration for
+avoidance, in addition to minimization, is included and the ordinary obligations for
+compensation mitigation remain intact.
+D.       Non- Large Scale Development Regulation / Mitigation
+Core Area
+Non- large- scale development activities may also constitute a conflicting use if
+proposed within 4. 0 miles of a lek in a core area. Under these circumstances, a
+pre- application conference will be followed by a discussion between the applicant
+and ODFW. Through this discussion, which will likely involve a site visit, the local
+ODFW biologist will assess the facts and may conclude the given situation does
+not pose a threat to sage- grouse and no further consideration is needed. The
+ODFW biologist may also conclude that minimization activities such as sharing a
+driveway,  locating on a specific portion of the property or limiting hours of
+operation would be necessary.   In extreme cases it may be found that
+compensatory mitigation is needed. ODFW would forward these comments to the
+county who would then include them in the decision document. This approach is
+not expected to result in the denial of any proposal. Instead the conversation and
+requirements will be about how the proposal is carried out.
+PAGE 5 OF 6— EXHIBIT F TO ORDINANCE 2015- 010
+Low Density Areas
+As with core areas/ PACs, non- large- scale development activities may constitute
+a conflicting use in low density areas.  However,  for low density areas the
+distance is 3. 1 miles from a lek rather than 4. 0 miles.
+General Habitat
+Non- large- scale development may constitute a conflicting use in general habitat
+within 3. 1 miles of a lek_ These instances will be treated consistent with the
+provisions for core and low density areas.
+Attachments:
+1. DLCD Sage- Grouse Rule- making Report
+2. OAR 660- 023- 0115
+3. OAR 660- 033- 0120 Table
+PAGE 6 OF 6— EXHIBIT F TO ORDINANCE 2015- 010

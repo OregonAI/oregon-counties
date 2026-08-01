@@ -1,0 +1,352 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch890
+title: 'Ch890'
+doc_type: ordinance
+citation: 'Ch890'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/Business/Ch890.pdf?t=202406171529580
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 21569603175b6713206acf9ead1446b2923067c79026c9ba4578c61e9af085d9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 475B.110
+    - ORS 475B.345
+    - ORS 571.300
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch890 (Ch890)
+
+## At a glance
+
+Ch890 — code of Jackson County. 7 pages.
+
+## Full text
+
+CHAPTER 890
+Taxation of the Retail Sale of Marijuana Items for Recreational Use
+
+890
+.01 Purpose.
+890.02 Authority.
+890.03 Definitions.
+890.04 Levy of Tax on Retail Sale Price of Marijuana Items for Recreational Use.
+890.05 Collection of Tax on Retail Sale of Marijuana Items for Recreational Use.
+890.06 Deductions against Tax on Retail Sale of Marijuana Items for Recreational
+Use.
+890.07 Filing Return and Remission of Tax on Retail Sale of Marijuana Items for
+Recreational Use.
+890.08 Penalties and Interest on Tax.
+890.09 Failure to Report and Pay Tax – Determination of Tax by County Treasurer.
+890.10 Appeal of Determinations of County Treasurer on Tax.
+890.11 Refunds on Tax.
+890.12 Severability.
+890.13 Effective Date.
+
+CROSS REFERENCES
+
+ORS 475B.345
+
+888.01 PURPOSE.
+
+For the purposes of this Chapter, every marijuana retailer who sells marijuana items for
+recreational use in the unincorporated areas of Jackson County is exercising a taxable
+privilege. The purpose of this Chapter is to impose a tax upon the retail sale of marijuana
+items for recreational use.
+
+890.02 AUTHORITY.
+
+(a) Pursuant to Section 6 of the Home Rule Charter of Jackson County, Oregon, adopted
+by the voters of Jackson County at the 1978 primary election and effective on January 8,
+1979, the people of Jackson County, exercising the power to govern themselves provided
+by Section 10, Article VI of the Oregon Constitution and enabling legislation enacted
+pursuant thereto, granted the County authority over matters of County concern to the fullest
+extent then or thereafter granted or allowed by the Oregon Constitution or a law of the
+United States or of Oregon.
+
+(b) The Board of Commissioners determines that the retail selling of marijuana items for
+recreational use in the unincorporated areas of Jackson County is a matter of County
+concern and the imposition of a tax on these activities is within the power granted to the
+County pursuant to the Home Rule Charter of Jackson County, Oregon.
+890.03    Business Regulation and Taxation Code 47
+
+(c) Oregon Revised Statute 475B.345 provides that a county governing body may adopt
+an ordinance to be referred to the voters that imposes up to a three percent tax or fee on the
+retail sale of marijuana items for recreational use by a marijuana retailer in the
+unincorporated areas of the county.
+
+890.03 DEFINITIONS.
+
+(a) Cannabinoid - means any of the chemical compounds that are the active constituents
+of marijuana.
+
+(b) Cannabinoid Concentrate - means a substance obtained by separating cannabinoids
+from marijuana by:
+
+(1) A mechanical extraction process;
+
+(2) A chemical extraction process using a nonhydrocarbon-based or other solvent,
+such as water, vegetable glycerin, vegetable oils, animal fats, isopropyl alcohol
+or ethanol;
+
+(3) A chemical extraction process using the hydrocarbon-based solvent carbon
+dioxide, provided that the process does not involve the use of high heat or
+pressure; or
+
+(4) Any other process identified by the Oregon Liquor Control Commission, in
+consultation with the Oregon Health Authority, by rule.
+
+(c) Cannabinoid Edible - means food or potable liquid into which a cannabinoid
+concentrate, cannabinoid extract or dried marijuana leaves or flowers have been
+incorporated.
+
+(d) Cannabinoid Extract - means a substance obtained by separating cannabinoids from
+marijuana by:
+
+(1) A chemical extraction process using a hydrocarbon-based solvent, such as
+butane, hexane or propane;
+
+(2) A chemical extraction process using the hydrocarbon-based solvent carbon
+dioxide, if the process uses high heat or pressure; or
+
+(3) Any other process identified by the Oregon Liquor Control Commission, in
+consultation with the Oregon Health Authority, by rule.
+48    Business Regulation and Taxation Code 890.04
+
+(e) Cannabinoid Product - means a cannabinoid edible and any other product intended
+for human consumption or use, including a product intended to be applied to the skin or
+hair that contains cannabinoids.
+
+(1) Cannabinoid Product does not include:
+
+A. Usable marijuana by itself;
+
+B. A cannabinoid concentrate by itself;
+
+C. A cannabinoid extract by itself; or
+
+D. Industrial hemp, as defined in ORS 571.300.
+
+(f) Consumer - means a person who purchases, acquires, owns, holds or uses marijuana
+items other than for the purpose of resale.
+
+(g) Marijuana - means the plant Cannabis family Cannabaceae, any part of the plant
+Cannabis family Cannabaceae and the seeds of the plant Cannabis family Cannabaceae.
+“Marijuana” does not include industrial hemp, as defined in ORS 571.300.
+
+(h) Marijuana Item - means marijuana, cannabinoid products, cannabinoid concentrates
+and cannabinoid extracts.
+
+(i) Marijuana Retailer - means a person that holds a license under ORS 475B.110 who
+sells marijuana items to a consumer in unincorporated area of Jackson County, Oregon.
+
+(j) Retail Sale - means any transfer, exchange, gift or barter of a marijuana item by any
+person to a consumer.
+
+(k) Retail Sale Price - means the price paid for a marijuana item, excluding tax, to a
+marijuana retailer by or on behalf of a consumer of the marijuana item.
+
+(l) Tax - means the tax imposed pursuant to Section 890.04 of this Chapter on the retail
+sale of marijuana items.
+
+(m) Taxpayer - means the person liable for the payment of a tax.
+
+890.04 LEVY OF TAX ON RETAIL SALE PRICE OF MARIJUANA ITEMS
+FOR RECREATIONAL USE.
+
+(a) A tax of three percent (3%) is imposed on the retail sale price of marijuana items by
+a marijuana retailer in the unincorporated areas of Jackson County.
+890.07    Business Regulation and Taxation Code 49
+
+(b) The tax imposed by this section is a direct tax on the consumer, for which payment
+upon retail sale is required.
+
+890.05 COLLECTION OF TAX ON RETAIL SALE OF MARIJUANA ITEMS
+FOR RECREATIONAL USE.
+
+The tax imposed upon the consumer under Section 866.04 of this Chapter shall be collected
+at the point of sale and remitted by each marijuana retailer that engages in the retail sale of
+marijuana items.  The tax is considered a tax upon the marijuana retailer that is required to
+collect the tax, and the marijuana retailer is considered a taxpayer.
+
+890.06 DEDUCTIONS AGAINST TAX ON RETAIL SALE OF MARIJUANA
+ITEMS FOR RECREATIONAL USE.
+
+The following deductions shall be allowed against the retail sale price received by a
+marijuana retailer:
+
+(a) Refunds of sales actually returned to any consumer who purchased marijuana items;
+and
+
+(b) Any adjustments in sales which amount to a refund to a consumer who purchased
+marijuana items, provided such adjustment pertains to the actual sale of marijuana items
+and does not include any adjustments for other services furnished by a marijuana retailer.
+
+890.07 FILING RETURN AND REMISSION OF TAX ON RETAIL SALE OF
+MARIJUANA ITEMS FOR RECREATIONAL USE.
+
+(a) Every marijuana retailer that engages in the retail sale of marijuana items shall, on or
+before the last day of the month following the end of each calendar quarter (in the months
+of April, July, October and January) submit a return to the County Treasurer, on forms
+provided by the County, specifying the total sales subject to the tax on the retail sale of
+marijuana items and the amount of tax collected.  The County Treasurer may establish
+shorter reporting periods for any marijuana retailer if the County Treasurer deems it
+necessary in order to insure collection of the tax and the County Treasurer may require
+further information in the return relevant to payment of the tax.  When a shorter return
+period is required, penalties and interest shall be computed according to the shorter return
+period. A return shall not be considered filed until it is actually received by the County
+Treasurer.  Payment will not be accepted without a return being filed.
+
+(b) At the time the return is filed, the full amount of the tax collected shall be remitted to
+the County Treasurer.   Payments received by the County Treasurer for application against
+existing liabilities will be credited toward the period designated by the taxpayer under
+conditions that are not prejudicial to the interest of the County.  A condition considered
+prejudicial is the imminent expiration of the statute of limitations for the collection of the
+tax owed.
+50    Business Regulation and Taxation Code 890.08
+
+(c) Non-designated payments shall be applied in the order of the oldest liability first,
+with the payment credited first toward any accrued penalty, then to interest, then to the
+underlying tax until the payment is exhausted. Crediting of a payment toward a specific
+reporting period will be first applied against any accrued penalty, then to interest, then to
+the underlying tax.  If the County Treasurer, in his or her sole discretion, determines that
+an alternative order of payment application would be in the best interest of the County in
+a particular tax or factual situation, the County Treasurer may order such a change.
+Returns and payments are due immediately upon cessation of business for any reason. All
+taxes collected by marijuana retailers pursuant to this Chapter shall be held in trust for the
+account of the County until payment is made to the County Treasurer. A separate trust
+bank account is not required in order to comply with this provision.
+
+(d) Every marijuana retailer required to remit the tax imposed in this Chapter shall be
+entitled to retain five percent (5%) of all taxes due to defray the costs of bookkeeping and
+remittance.
+
+(e) Every marijuana retailer must keep and preserve in an accounting format established
+by the County Treasurer records of all sales made and s uch other books or accounts as
+may be required by the County Treasurer. Every marijuana retailer must keep and preserve
+for a period of three (3) years all such books, invoices and other records. The County
+Treasurer shall have the right to inspect all such records at all reasonable times.
+
+(f) The County shall not review records of sales made and such other books or accounts
+in order to identify persons purchasing marijuana items from marijuana retailers for any
+purpose.
+
+(g) As an alternative to the procedures for the collection of the Tax set forth in this
+Section, the County may enter into agreements with the State of Oregon or other entity to
+collect the Tax on behalf of the County.
+
+890.08 PENALTIES AND INTEREST ON TAX.
+
+(a) Any taxpayer who fails to pay any portion of any tax imposed pursuant to this Chapter
+within the time required shall pay a penalty of ten percent (10%) of the amount of the tax,
+in addition to the amount of the tax.
+
+(b) Any taxpayer who fails to remit any delinquent remittance on or before a period of 60
+days following the date on which the remittance first became delinquent, shall pay a second
+delinquency penalty of ten percent (10%) of the amount of the tax in addition to the amount
+of the tax and the penalty first imposed.
+
+(c) If the County Treasurer determines that the nonpayment of any remittance due under
+this Chapter is due to fraud, a penalty of twenty -five percent (25%) of the amount of the
+tax shall be added thereto in addition to the penalties stated in paragraphs 1 and 2 of this
+section
+890.11    Business Regulation and Taxation Code 51
+
+(d) In addition to the penalties imposed, any taxpayer who fails to pay any tax imposed
+by this Chapter shall pay interest at the rate of one percent (1%) per month or f raction
+thereof on the amount of the tax, exclusive of penalties, from the date on which the payment
+first became delinquent until paid.  Interest is calculated at the end of each month based on
+a 360 day basis.
+
+(e) Every penalty imposed, and such interest as accrues under the provisions of this
+section, shall become a part of the tax required to be paid.
+
+890.09 FAILURE TO REPORT AND PAY TAX –  DETERMINATION OF TAX
+BY COUNTY TREASURER.
+
+If any taxpayer should fail to make, within the time provided in this Chapter, any report of
+the tax required by this Chapter, the County Treasurer shall proceed in such manner as
+deemed best to obtain facts and information on which to base the estimate of tax due. As
+soon as the County Treasurer shall procure such facts and information as is able to be
+obtained, upon which to base the assessment of any tax imposed by this Chapter, the
+County Treasurer shall proceed to determine and assess against such taxpayer liable for the
+tax, interest and penalties provided for by this Chapter. In case such determination is made,
+the County Treasurer shall give a notice of the amount so assessed by having it served
+personally or by depositing it in the United States mail, postage prepaid, addressed to the
+taxpayer at the last known place of address. Such taxpayer may make an appeal of such
+determination to the County Hearings Officer.  If no appeal is filed, the County Treasurer's
+determination is final and the amount thereby is immediately due and payable.
+
+890.10 APPEAL OF DETERMINATIONS OF COUNTY TREASURER ON TAX.
+
+Any taxpayer aggrieved by any decision of the County Treasurer with respect to the amount
+of the tax imposed pursuant to this Chapter or interest and penalties thereon, if any, may
+appeal that decision to the County Hearings O fficer, except that the appeal shall be filed
+within 30 days of the serving or mailing of the determination of tax, interest or penalties
+due. The hearings officer shall hear and consider any records and evidence presented
+bearing upon the County Treasurer 's determination of amount due, and make findings
+affirming, reversing or modifying the determination. The findings of the County Hearings
+Officer shall be final and conclusive.
+
+890.11 REFUNDS ON TAX.
+
+(a) Whenever the amount of any tax imposed pursuant to this Chapter or interest or
+penalty thereon, if any, has been overpaid or paid more than once, or has been erroneously
+collected or received by the County under this Chapter, it may be refunded as provided in
+paragraph 2 of this section, provided a claim in writing, stating under penalty of perjury
+the specific grounds upon which the claim is founded, is filed with the County Treasurer
+within one year of the date of payment. The claim shall be on forms furnished by the
+County Treasurer.
+52    Business Regulation and Taxation Code 890.13
+
+(b) The County Treasurer shall have 20 calendar days from the date of receipt of a claim
+to review the claim and make a determination in writing as to the validity of the claim. The
+County Treasurer shall notify the claimant in writing of the County Treasurer's
+determination. Such notice shall be mailed to the address provided by claimant on the claim
+form. In the event a claim is determined by the County Treasurer to be a valid claim, in a
+manner prescribed by the County Treasurer a taxpayer may claim a refund, or take as credit
+against taxes collected and remitted, the amount overpaid, paid more than once or
+erroneously collected or received. The taxpayer shall  notify  the County Treasurer  of
+claimant's  choice  no  later  than  15  days  following  the  date the County Treasurer mailed
+the determination. In the event claimant has not notified the County Treasurer of claimant's
+choice within the 15 day period and the taxpayer is still in business, a credit will be granted
+against the tax liability for the next reporting period.  If the taxpayer is no longer in
+business, a refund check will be mailed to claimant at the address provided in the claim
+form.
+
+(c) No  refund  shall  be  paid  under  the  provisions  of  this  section  unless  the  claimant
+established the right by written records showing entitlement to such refund and the County
+Treasurer acknowledged the validity of the claim.
+
+890.12 SEVERABILITY.
+
+The sections, subsections, paragraphs and clauses of this Ordinance are severable. The
+invalidity of one section, subsection, paragraph, or clause shall not affect the validity of
+the remaining sections, subsections, paragraphs and clauses.
+
+890.13 EFFECTIVE DATE.
+
+If approved by the voters of the County at the November 8, 2016, General Election, this
+Chapter shall be effective 30 days following the election, or December 8, 2016.
+
+(Ord. 2016-13. Passed 12-08-16.)

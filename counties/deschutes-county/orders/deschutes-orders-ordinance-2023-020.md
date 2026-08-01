@@ -1,0 +1,486 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2023-020
+title: 'Ordinance No. 2023-020'
+doc_type: ordinance
+citation: 'Ordinance No. 2023-020'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1702484662_2023-293-Ordinance%20No.%202023-020%20Recorded%209202023.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: ee764d0786f7cf2433fdf170e760fe6edb6023cc5cddfbcdb2a3aea3f6689ea3
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 271.140
+    - ORS 368.366
+    - ORS 368.942
+    - ORS 368.945
+    - ORS 368.950
+    - ORS 368.955
+    - ORS 93.310
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2023-020 (Ordinance No. 2023-020)
+
+## At a glance
+
+Ordinance No. 2023-020 — orders of Deschutes County. 14 pages.
+
+## Full text
+
+REVf'fv:
+LEGAL COUNSEL
+Recorded in Deschutes County
+Steve Dennison, County Clerk
+Commissioners' Journal
+CJ2023-293
+09/20/2023 4:42:52 PM
+II II I llllllll Ill 111111111111111 2023-293
+For Recording Stamp Only
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 10.05, Right of Way
+Signs, of the Deschutes County Code.
+*
+*
+* ORDINANCE NO. 2023-020
+WHEREAS, the Deschutes County Code (DCC) contains rules and regulations duly enacted through
+ordinance by Deschutes County and the Deschutes County Board of Commissioners; and
+WHEREAS, from time-to-time the need arises to make amendments, including new enactments to the
+DCC; and
+WHEREAS, staff from the Road Department have identified a need to amend DCC 10.05 to further
+identify the types of signs that may be authorized for placement within county road right-of-ways; and
+WHEREAS, the Board of County Commissioners of Deschutes County considered this matter at a duly
+noticed public hearing August 30, 2023, and determined that DCC 10.05 should be amended; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 10.05 is amended to read as described in Exhibit "A," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+stFikethrough.
+Section 2. ADOPTION. This Ordinance takes effect 90 days after its adoption.
+Ill
+PAGE 1 OF 2 - ORDINANCE NO. 2023-020
+Dated this / j -J1'-. of � . , 2023
+ATTEST:
+irt� :rd hJ)\o(
+Recording Secretary
+BOARD OF COUNTY COMMISSIONERS
+OFDESCHUTES COUNTY,OREGON
+AN:�NY DeBONE, Chair
+(��h-&�
+PATTI ADAIR, Vice Chair
+PHIL CHANG, Commissioner
+Date of 1st Reading: 30th day of August, 2023.
+Date of 2nd Reading: 13th day of September, 2023.
+Commissioner
+Patti Adair
+Phil Chang
+Anthony DeBone
+Effective date: 13th day of December, 2023.
+PAGE 2 OF 2 - ORDINANCE NO. 2023-020
+Record of Adoption Vote
+Abstained Excused
+EXHIBIT A
+(To Ordinance No. 2023-020)
+CHAPTER 10.05 RIGHT OF WAY SIGNS
+10.05.010 Introduction
+DCC Chapter 10.05 is enacted to establish standards and procedures for signs to be installed and maintained
+within public rights of way which fall under the jurisdiction of the Board of County Commissioners, and
+which are necessary to meet the needs of the motorist in locating public recreational facilities and services
+open to the general public. DCC Chapter 10.05 shall be known as the Deschutes County Road Right of
+Way Sign Ordinance.
+HISTORY
+Adopted by Ord. 90-011 §1 on 1/2/1991
+Amended by Ord. 95-034 §1 on 5/17/1995
+Amended by Ord. 2020-005 §1 on 1/1/2021
+10.05.020 Definitions
+The following definitions apply as set forth in DCC 10.05.020.
+"Administrator" means the Road Department Director or the designee for Deschutes County, Oregon.
+"Applicant" means a person or entity applying for a permit to place signs, logos or sign panels or
+supplemental sign panels within the right of way.
+"Business sign (Logo)" means a separately attached sign mounted on the sign panel to show the brand,
+symbol, trademark or name, or combination thereof, of services available.
+"Directional information" means the name of the business, service or activity, qualified historical feature
+or qualified cultural feature and other necessary information to direct the motoring public to the business,
+service or activity, placed on a tourist-oriented directional sign.
+"Directional sign" means a sign identifying and containing directional information to one or more public
+services, to natural phenomena or historic, cultural, scientific, educational or religious sites or facilities, or
+to recreational facilities open to the general public, including marinas, boat ramps, camping facilities and
+day recreation facilities.
+"Erect or construct" means to construct, build, assemble, place, affix, attach, create, paint, draw or in any
+way bring into being or establish.
+"Maintain" includes painting or routine repairs necessary to maintain the sign in a neat, clean, attractive
+and safe condition, and the term includes allowing to exist.
+"MUTCD" means the Manual on Uniform Traffic Control Devices.
+"Qualified moto1ist business" means a business furnishing gas, food, lodging or camping which has met
+the requirements of these regulations for the placement of a logo on a sign panel or supplemental sign panel.
+"Reconstruction" means replacing a sign totally or partially to increase its size or performing any work,
+except maintenance work, that alters or changes a sign.
+"Responsible operator or owner" means the owner in fee simple or a person or entity who operates a
+motorist business and who has authority to enter into an agreement relative to matters covered by DCC
+10.05.
+"Right of way" means the area between the boundary lines of a street, road or other public easement under
+the jurisdiction of the Board of County Commissioners.
+"Sign panel" includes "motorist informational signs," "specific informational panel" and "logo signs."
+"Tourist-oriented directional sign" means a sign panel with the name of a qualified tourist-oriented business,
+service or activity, or qualified historical feature or qualified cultural feature together with directional
+information erected in advance of or at an intersection.
+"Traffic Control Device" means all signs, signals, markings, and other devices used to regulate, warn, or
+guide traffic, placed on, over, or adjacent to a street, highway, pedestrian facility, bikeway, or private road
+open to public travel by authority of a public agency.
+"Trailblazer" means a small sign panel with the type of motorist service offered and the name, direction
+and distance to the qualified motorist business.
+"Type I signs"- means Qualified Motorist Business. signs consisting of tour route signs; tourist infonnation
+§igns; public facility and service signs; commercial businesses offering food, gas, lodging or camping
+services; historic location signs; federal, state and local recreational and facility signs; and nonprofit
+institutions, including churches and civic organizations.
+"Type II signs" means Qualified Tourist-oriented Business signs identifying any legal, cultural, historical,
+recreational, educational or entertaining activity or a unique or unusual commercial or nonprofit activity
+the major portion of whose income or visitors are derived during its normal business season from motorists
+not residing in the immediate area of the activity.
+HISTORY
+Adopted by Ord. 90-011 §1 on 1/2/1991
+Amended by Ord. 95-034 §1 on 5/17/1995
+Amended by Ord. 2023-020 §1 on 9/13/2023
+10.05.030 General Requirements
+Except for those signs which are approved by the Administrator pursuant to DCC 10.05.060 and except for
+signs that are exempted under DCC 10.05.040, a person may not erect or maintain a sign or sign panel on
+County right of way.
+HISTORY
+Adopted by Ord. 2023-020 §1 on 9/13/2023
+10.05.040 Exemptions.
+The following signs are exempted from the requirements of DCC 10.05.030:
+A. Those traffic control devices that are required for traffic control and safety included in the MUTCD
+as determined by the Administrator.
+B. Directional signs for temporary activities that are granted a permit by the Administrator lasting less
+than 14 days which otherwise are in compliance with the tenns of this ordinance, including parades,
+fun runs, bicycle or pedestrian contests, or special public functions.
+C. Type I and Type II signs that are granted a pennit by the Administrator.
+HISTORY
+Adopted by Ord. 90-011 §1 on 1/2/1991
+Amended by Ord. 95-034 §1 on 5/17/1995
+Amended by Ord. 2023-020 §1 on 9/13/2023
+10.05.@0--050 Prohibited Uses
+A sign or sign panel exempted under DCC 10.05.040 may not be erected or maintained if it:
+A. Interferes with, imitates or resembles any official traffic control sign, signal or device, or attempts
+or appears to attempt to direct the movement of traffic.
+B. Prevents the driver of a motor vehicle from having a clear and unobstructed view of official traffic
+control signs and approaching or merging traffic.
+C. Contains, includes or is illuminated by any flashing, intermittent, revolving, rotating or moving
+lights, or moves or has any animated or moving parts. This subsection does not apply to traffic
+control devices.
+D. Has any lighting, unless such lighting is so effectively shielded as to prevent beams or rays of light
+from being directed at any portion of the main traveled way of a road, or is of such low intensity as
+not to cause glare or to impair the vision of the driver or otherwise to interfere with the operation
+thereof.
+E. Is located upon a tree or painted or drawn upon a rock or other natural feature.
+F. Advertises or calls attention to an activity or attraction no longer carried on.
+G. Advertises activities that are illegal under any state, federal or local law applicable at the location
+of the sign or of the activities.
+H. Is not maintained in a neat, clean and attractive condition and in good repair as determined by the
+Road Department Director or his designee.
+_I._Is not able to withstand a wind pressure of 20 pounds per square foot of exposed surface.
+hJ. Is on a vehicle or trailer. This subsection does not apply to a vehicle or trailer used for transportation
+by the owner or person in control of the property.
+J-,K"°Does not meet the requirements of DCC 10.05 or the MUTCD.
+HISTORY
+Adopted by Ord. 90-011 § 1 on 1 /211991
+Amended by Ord. 95-034 §1 on 5/17/1995
+Amended and Renumbered by Ord. 2023-020 §1 on 9/13/2023
+10.05.040 Exemptions
+The following signs are exempted under DCC 10.05:
+1. Those traffic signs that are required for traffic control and safety included in the MUTCD.
+2. Those portions of sign that intrude into the public right of,;vay that were granted a permit under the
+Deschutes County Sign Ordinance.
+J.:- Temporary activity signs that are granted a permit lasting less than 90 days which othenvise are in
+compliance with the terms of this ordinance, including parades, fun runs, bicycle or pedestrian
+contests, political signs or special public functions.
+HISTORY
+Adopted by Ord. 2Q_Q11 §1 on 1/2/1991
+Amended by Ord. ':}j__Qlj_ §1 on 5/17/1995
+10.05.050 Sign Types
+The-following types of signs are allowed under the tenns of DCC Title 10:
+A. Type 1-- Qualified Motorist Business. Tour route signs; tourist information signs; public-fae-ilit-y
+and service signs; commercial businesses offering food, gas, lodging or camping services; historic
+location signs; federal, state and local recreational and facility signs; and nonprofit institutions,
+including churches and civic organizations.
+B-c-----+ype II Qualified Tourist oriented Business. Any legal, cultural, historical, recreational,
+educational or entertaining activity or a unique or unusual commercial or nonprofit activity the
+major portion of whose income or visitors are derived during its normal business season from
+motorists not residing in the immediate area of the activity.
+HISTORY
+Adopted by Ord. 2.QJ1ll §I on 1/2/1991
+Amended by Ord. 2l___()Jj_ §I on 5/17/1995
+10.05.060 Application Process - Type I and Type II Signs
+A. Application for a Type I or Type II sign shall be made in writing addressed to the Road Department
+Director for Deschutes County, OregonAdministrator. It may be in letter form or on a form prepared
+for such purpose by the department. Information contained shall include the following: the name,
+address and telephone number of the owner or operator of the business or service for which the
+sign is intended; the reason for the sign; a description of the location( s) for the sign; a description
+of the information requested on the sign; and be accompanied by the appropriate application fee.
+Each business applicant shall also submit a copy of the business' land use permit. The Administrator
+shall notify the appropriate Planning Director of the application and request review and comment
+on the application.
+B. Within 30 working days from the date of receipt of the request for a sign, the Administrator shall
+respond in writing to the applicant as to the adequacy of the information received. Requests for
+signs that do not comply with the provisions of DCC 10.05 shall be denied by the Administrator.
+If the application is denied, the Administrator shall cite the appropriate section of the ordinance or
+MUTCD pertinent to the application.
+C. Each application shall be accompanied with the appropriate fee for processing. If the application is
+approved, the applicant shall make arrangements to have the department install the sign and pay
+the required costs for materials, labor and travel. Payment of such costs and execution of a
+maintenance agreement, along with not less than two year's maintenance fees, shall be made in
+advance.
+D. If the application is denied, the applicant may appeal the decision as provided in DCC 22.
+HISTORY
+Adopted by Ord. 90-011 §1 on 1/2/1991
+Amended by Ord. 95-034 §1 on 5/17/1995
+Amended by Ord. 2023-020 §'1 on 9/13/2023
+10.05.070 Composition- Type I and Type H Signs
+All signs installed under the terms of DCC Title 10 shall be in compliance with the MUTCD;
+A. Sign panels shall have a blue background with a white reflectorized border for all signs, except
+historical, cultural and recreational which shall have a brown background.
+B. Logos shall have a blue background with a white legend and border. The principal legend should
+be at least equal in height to the directional legend on the sign panel. Where business identification
+symbols or trademarks are used alone for a logo, the border may be omitted, the symbol or
+trademark shall be reproduced in the colors and general shape consistent with customary use and
+any integral legend shall be in proportionate size. Messages, symbols and trademarks which
+resemble any official traffic control device are prohibited. The vertical and horizontal spacing
+between logos on sign panels shall not exceed eight inches and 12 inches respectively.
+C. All directional arrows and all letters and numbers used in the name of the type of service and
+directional legend shall be white and reflectorized.
+D. Each logo shall be contained within a 24-inch wide and 18-inch high rectangular background area,
+including border.
+E. All letters used in the name of the type of service on the sign panel shall be four-inch capital letters.
+E_Tourist-oriented directional signs shall have a blue reflectorized background with a white
+reflectorized border and message. The intersection sign shall not exceed 18 inches in height and 72
+inches in length, and shall have not more than two lines of legend, including a separate direction
+arrow and the distance to the facility to the nearest one-quarter mile. The content of the legend shall
+be limited to the identification of the business and shall not include promotional advertising as
+determined by the Administrator.
+F-:G.
+A six-inch letter height shall be used. Advance tourist-oriented directional signs shall be the same
+as intersection tourist-oriented directional signs, except that in lieu of the directional arrow and
+mileage, the sign shall include the directional word information "ahead" or "next left" etc. as may
+be required.
+G-:-H. All directional arrows, letters and numbers used in the name of the type of service and the
+directional legend shall be white and reflectorized.
+H-:-l Tourist-oriented directional signs are to be located at intersections.
+h,L_Notwithstanding the fact that a tourist-oriented business meets all of the eligibility requirements of
+this ordinance and applicable provisions of the Deschutes County Code, an application may be
+denied if it is determined, after investigation by the Administrator, that adequate direction to the
+business cannot be given by a reasonable number of allowable tourist information directional signs.
+HISTORY
+Adopted by Ord. 90-011 §1 on 112/1991
+Amended by Ord. 95-034 §1 on 5/17/1995
+Amended by Ord. 2023-020 §1 on 9/13/2023
+10.05.080 Fees; Installation And Maintenance - Type I and Type II Signs
+A. All Type I and Type II signs, except city, county, state and federal directional and information
+signs, shall be required to reimburse the County for the actual costs of processing the application
+and the material and labor required to construct, purchase, locate, install and maintain a sign for an
+applicant. A fee schedule shall be adopted each budget year which sets forth the department's fees
+which shall apply until replaced by a new fee schedule.
+B. All Type I and Type II signs shall be installed, maintained and removed by the County in
+accordance with the MUTCD and DCC 10.05.
+HISTORY
+Adopted by Ord. 90-011 §1 on 1/2/1991
+Amended by Ord. 95-034 §1 on 5/17/1995
+Amended by Ord. 2023-020 §1 on 9/13/2023
+10.05.090 Criteria For Specific Information Panels- Type I and Type II Signs
+A. Each qualified motorist business identified on a sign panel shall have given written assurance to
+the Administrator of its conformity with all applicable laws concerning the provisions of public
+accommodations without regard to race, religion, color, sex or national origin, and shall not be in
+breach of the assurance.
+B. The types of service permitted shall be limited to: "Gas," which shall include fuel, oil, tire repair,
+air and water, restroom facilities, drinking water and telephone, with continuous operations for a
+minimum of 12 hours a day, six days a week. "Food" shall include, continuous operations for a
+minimum of 12 hours a day, six days a week, restroom facilities and telephone, with the primary
+business of providing meals. "Lodging" shall include, adequate sleeping accommodations, modem
+sanitary facilities and drinking water. "Camping" shall include, adequate parking accommodations,
+modem sanitary facilities and drinking water.
+C. Panels shall be in the direction of traffic. Successive sign panels shall be those for "camping,"
+"lodging," "food," and "gas," in that order.
+D. Riders with the words "diesel" or "LP gas" or a rider containing both may be placed on a sign panel
+underneath any gas logo if the qualified motorist service business has diesel or LP gas available
+during its hours of operation. Such rider shall be 35 inches long and seven inches high with six­
+inch letters. The color shall be blue with white letters. The combination rider shall be 52 inches
+long and seven inches high with five-inch high letters.
+E. Each qualified tourist-oriented business identified on a tourist-oriented directional sign shall have
+given written assurance to the Administrator of its conformity with all applicable laws concerning
+the provisions of public accommodations without regard to race, religion, color, sex or national
+origin, and shall not be in breach of that assurance.
+F. Except for undeveloped cultural and historic features, a qualified tourist-oriented business shall
+have restroom facilities and drinking water available; continuous operation at least six hours per
+day, six days a week during its normal business season; a license where required; and adequate
+parking accommodations.
+HISTORY
+Adopted by Ord. 90-011 §1 on 1/2/1991
+Amended by Ord. 95-034 §1 on 5/17/1995
+Amended by Ord. 2023-020 §1 on 9/13/2023
+10.05.100 Spacing Of Signs And Panels-Type I and Type H Signs
+Spacing of sign panels and the placement of directional signs shall be in accordance with the MUTCD and
+in the judgment of the Administrator. In any case, the number of signs, including directional signs, shall be
+the minimum necessary to enable a motorist to locate the tourist-oriented business or to locate the public
+service.
+HISTORY
+Adopted by Ord. 90-011 §1 on 1/2/1991
+Amended by Ord. 95-034 §1 on 5/17/1995
+Amended by Ord. 2023-020 §1 on 9/1/2023
+10.05.1051-0 Application Process -Temporary Directional Signs
+A. Application for a temporary directional sign shall be made in writing addressed to the Administrator.
+It may be in letter fonn or on a form prepared for such purpose by the Department. Information
+contained shall include the following: the name, address and telephone number of the coordinator of
+the activity for which the sign is intended; the reason for the sign; a description of the location(s) for
+the sign; a description of the information requested on the sign; and be accompanied by the
+appropriate application fee. Each applicant shall also submit a copy of the land use permit or special
+event permit, if applicable. The Administrator shall notify the appropriate Plarnling Director of the
+application and request review and comment on the application if applicable.
+B. Within 30 working days from the date of receipt of the request for a sign, the Administrator shall
+respond in writing to the applicant as to the adequacy of the information received. Requests for signs
+that do not comply with the provisions of DCC 10.05 shall be denied by the Administrator. If the
+application is denied, the Administrator shall cite the appropriate section of the ordinance or MUTCD
+pertinent to the application.
+C. Each application shall be accompanied with the appropriate fee for processing.
+D. If the application is denied, the applicant may appeal the decision as provided in DCC 22.
+HISTORY
+Adopted by Ord. 2023-020 §1 on 9/13/2023
+10.05.110 Violation; Penalty
+A. Any person, firm or corporation erecting, constructing, reconstructing or maintaining a business
+sign, directional sign, tourist oriented directional sign, trailblazer or temporary activity-sign in
+violation of the provisions of DCC 10.05 constitutes a Class A violation and shall be punishable
+upon conviction by a fine of not more than $500.00.
+B. Each day of a violation described in DCC 10.05.1 l0(A) constitutes a separate offense and is
+punishable as a continuing violation under DCC 1.16.
+HISTORY
+Adopted by Ord. 90-011 §1 on 1/2/1991
+Amended by Ord. 95-034 §1 on 5/17/1995
+Amended by Ord. 2003-021 §22 on 4/9/2003
+Amended by Ord. 2023-020 §1 on 9/13/2023
+10.05.120 Nuisance Declared; Removal
+A. Any sign maintained in violation of DCC 10.05 constitutes a nuisance.
+B. Nothing in DCC 10.05 shall be construed to limit the authority of the County Road Official pursuant
+to ORS 368.945.
+HISTORY
+Adopted by Ord. 90-011 §1 on 1/2/1991
+Amended by Ord. 95-034 §1 on 5/17/1995
+BOARD OF
+COMMISSIONERS
+AGENDA REQUEST & STAFF REPORT
+MEETING DATE: September 13, 2023
+SUB!ECT: Second reading (by title only) and adoption of Ordinance No. 2023-020,
+providing amendments to DCC 10.05 relative to signs placed within County road
+right-of-way
+RECOMMENDED ACTION:
+• Move second reading (by title only) of Ordinance No. 2023-020
+• Move adoption of Ordinance No. 2023-020
+BACKGROUND AND POLICY IMPLICATIONS:
+The BOCC held a public hearing on August 30, 2023. Thereafter the BOCC deliberated and
+moved first reading of Ordinance No. 2023-020.
+BUDGET IMPACTS:
+Anticipate savings of staff time and vehicle use.
+ATTENDANCE:
+Legal
+ROAD DEPARTMENT
+MEMORANDUM
+To: Board of County Commissioners
+From: Cody Smith, PE, County Engineer/Assistant Road Department Director
+Date: August 24, 2023
+Subject: Proposed Amendments to DCC 10.05 - Right of Way Signs
+Oregon Revised Statutes (ORS) provide the following regarding the placement of signs other than traffic
+control devices within county road rights of way:
+ORS 368.942 Posting notices, signs or pictures on structures within county road right of way
+prohibited. Except as provided in ORS 368.950, no person may paste, paint, brand or in any
+manner whatever place or attach to any building, fence, gate, bridge, tree, rock, board, structure
+or anything whatever within the limits of the right of way of any county road any written, printed
+or painted advertisement, bill, notice, sign, picture, card or poster, except within the limits of any
+incorporated city through which the county road runs.
+ORS 368.945 Authority of county road official to remove unlawfully posted matter. A county
+road official may lawfully remove or destroy, without resort to legal proceedings, any
+advertisement, bill, notice, sign, picture, card or poster placed in violation of ORS 368.942.
+ORS 368.950 Applicability of ORS 368.942 and 368.945. ORS 368.942 and 368.945 do not apply
+to:
+(1) The posting or maintaining of any notice required by law to be posted or maintained; or
+(2) The placing and maintaining, within the limits of the right of way of any county road, of:
+(a) Signs approved by the county governing body and giving information about scenic,
+historical, resort or recreational areas;
+(b) Signs approved by the county governing body and giving information about community or
+civic enterprises of a noncommercial nature, or the proximity of tourist facilities, directions or
+distances for the information of the traveling public;
+(c) Facility location signs of a public utility or telecommunications utility, when such signs are
+approved by the county governing body;
+(d) Benches utilized as outdoor advertising signs, if approved by the county governing body;
+or
+61150 sE· 2/tl1 Street Bend, Oregon 9/702
+( 5 4 1 ) 3 8 8 • 6 5 8 1 r o a cf@ des chutes.or g w w w. cf es chute• s. :Jr g
+(e) Outdoor advertising signs on bus shelters erected or maintained for use by and
+convenience of customers of a moss transit district, a transportation district or any other public
+transportation agency, when such signs ore approved by the county governing body.
+368.955 Posting notices, signs or pictures within view of county road on property of another
+without consent prohibited. No person may paste, paint, brand or in any manner whatever
+place or attach to any building, fence, gate, bridge, tree, rock, board, structure or anything
+whatever on the property of another within view of a county road, without the written consent
+of the owner or person entitled to possession of such property, any written, printed or painted
+advertisement, bill, notice, sign, picture, card or poster.
+Deschutes County Code (DCC) 10.05 provides requirements and procedure for the permitting and
+placement of temporary activity signs and tourist and motorist-oriented directional signs within public
+road rights of way under Deschutes County's jurisdiction. Inexplicably, DCC 10.05.040 allows for the
+permitting of political signs as temporary activity signs within a public road right of way.
+Road Department staff find that the permissibility of political signs within public road rights of way
+under Deschutes County Code and the burden for the Department to administer this program are
+extremely problematic for several reasons:
+• Road User Safety Concerns - The improper placement of temporary activity signs along a road
+can compromise the safety of road users by interfering with traffic control devices, restricting
+sight lines, or causing distraction. Political campaign signs comprise virtually all of the
+temporary activity sign permits issued by the Road Department and have created numerous
+road safety concerns in recent years.
+• Lack of Statutory Authority - Road Department staff do not believe that ORS 368.950 gives a
+county governing body the authority to permit the posting of political signs in public rights of
+way under their jurisdiction. Temporary activity signs authorized under the statute include signs
+" .. giving information about community or civic enterprises of a noncommercial nature."
+• Residual Property Rights -Road rights of way under Deschutes County jurisdiction generally
+consist of easements for public ingress and egress over land, leaving certain residual property
+rights with owners of underlying or abutting property (see ORS 93.310(4), ORS 271.140, and ORS
+368.366. Temporary activity signs within these rights of way can be problematic when the
+underlying or abutting property owner does not consent to the placement of a sign that is not
+an official traffic control device or that is not otherwise necessary to meet the needs of road
+users (i.e., political signs). Further, ORS 368.955 prohibits the placement of such signs within
+view of a county road without the consent of the property owner. Road Department staff assert
+that this would include consent by an abutting property owner whose fee ownership generally
+extends to the centerline of a public road right of way.
+• State and Countywlde Inconsistency- Deschutes County appears to be the only public road
+agency in Oregon that permits political signs in their rights of way. The County's current
+permitting of political signs within public rights of way is inconsistent with rules and messaging
+from all other public road agencies in Deschutes County and Oregon who actively prohibit
+political signs on their rights of way.
+• Administration and Enforcement - The administration, monitoring and, regulation of political
+campaign signs in the public rights of way takes up significant capacity of Road Department staff
+in the weeks prior to elections. Issues include;
+o Mediating matters related to visually-conflicting political signs among opposing
+campaigns;
+o Opposing campaigns checking the status of each other's permits;
+o Property owners upset about signs located along their frontage;
+o Other road agencies requesting intervention for signs placed at the intersections of their
+roads and county roads.
+With these reasons in mind, Road Department staff are proposing a text amendment to DCC 10.05 to
+remove the permissibility of political signs within the public right of way.
+Additionally, the proposed text amendment for DCC 10.05 includes modernization of other portions of
+the code chapter to clarify procedures for permitting of temporary activity signs and tourist/motorist -
+oriented directional signs.

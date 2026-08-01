@@ -1,0 +1,606 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clackamas-county
+id: clackamas-land-use-zdo712
+title: 'Zdo712'
+doc_type: ordinance
+citation: 'Zdo712'
+authority_level: county_ordinance
+issuing_body: 'Clackamas County Board of Commissioners'
+source_url: https://www.clackamas.us/planning/zdo712
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: 2fd93cb9eb7f4b9ebc5afae482871c7adaddca9ca8ecddcb7d819c40e8b19a8e
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.203
+    - ORS 215.296
+    - ORS 30.390
+    - ORS 836.610
+  related: []
+  supersedes: []
+tags: [clackamas-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clackamas County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zdo712 (Zdo712)
+
+## At a glance
+
+Zdo712 — land use of Clackamas County. 15444 characters.
+
+## Full text
+
+ZDO 712: Private Use Airport And Safety Overlay Zone | Clackamas County 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Translate 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jobs 
+ Events 
+ News 
+ Contact Us 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+
+ 
+ 
+ 
+ Community 
+ 
+ 
+ Business 
+ 
+ 
+ Departments 
+ 
+ 
+ Our County 
+ 
+ 
+ I want to... 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ ZDO 712: Private Use Airport And Safety Overlay Zone 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ZDO 712: Private Use Airport And Safety Overlay Zone 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 712.01 Purpose Section 712 is adopted to implement Oregon Revised Statutes (ORS) 836.600 through 836.630 and policies of the Comprehensive Plan as they relate to private use airports.  When applied, it provides for the continued operation and vitality of private use airports consistent with state law.  It also provides for safety standards to promote air navigational safety at these airports, and to reduce the potential for safety hazards for property and for persons living, working or recreating on lands near such airports. 712.02 Application This special use zoning district may be applied to private-use airports that are shown in the records of the Oregon Department of Aviation as the base for three or more aircraft on December 31, 1994. The boundaries of this special use zoning district are coterminous with airport boundaries as described in Oregon Revised Statutes (ORS) 836.608.  The boundaries of safety overlay zones radiate from points at the ends of the airport's primary surface as described in Oregon Administrative Rules (OAR) 660-013-0070(1)(b) and Exhibit 2 that accompanies that rule.  The definitions in Subsection 712.03 are consistent with ORS Chapter 836, OAR 660-013, and Exhibit 2 of that rule. If an airport that had this special use zoning district applied is removed from the State's list of airports in a manner described in ORS 836.610, the application of this special use zoning district to such airport is automatically terminated. 712.03 Definitions Aircraft.  Means airplanes and helicopters, but not hot air balloons or ultralights. Airport.  The strip of land used for taking off and landing aircraft, together with all adjacent land used in connection with the aircraft landing or taking off from the strip of land, including but not limited to land used for existing airport uses. Airport Elevation.  The highest point of an airport's usable runway, measured in feet above mean sea level. Airport Imaginary Surfaces.  Imaginary areas in space or on the ground that are established in relation to the airport and its runways.  Imaginary surfaces for private use airports are defined by the primary surface and approach surfaces. Airport Sponsor.  The owner, manager, or other person or entity designated to represent the interests of an airport. Approach Surface.  An imaginary surface longitudinally centered on the extended runway centerline and extending outward and upward from each end of the primary surface.  An approach surface is applied to each end of the runway.  The inner edge of the approach surface is the same width as the primary surface and it expands uniformly to a width of 450 feet for that end of a private use airport with only visual approaches.  The approach surface extends for a horizontal distance of 2,500 feet at a slope of 20 feet outward for each one foot upward. Hazard.  All hazards within and around airports shall be as determined by the Oregon Department of Aviation or Federal Aviation Administration. Heliports.  A heliport is an area of land, water, or structure designated for the landing and take-off of helicopters or other rotorcraft.  The heliport overlay zone applies the following imaginary surfaces.  The heliport approach surfaces begin at each end of the heliport primary surface and have the same width as the primary surface.  They extend outward and upward for a horizontal distance of 4,000 feet where their width is 500 feet.  The slope of the approach surfaces is eight to one for civilian heliports and 10 to one for military heliports.  The heliport primary surface coincides in size and shape with the designated takeoff and landing area of a heliport.  The heliport primary surface is a horizontal plane at the established heliport elevation.  The heliport transitional surfaces extend outward and upward from the lateral boundaries of the heliport primary surface and from the approach surfaces at a slope of two to one for a distance of 250 feet measured horizontally from the centerline of the primary and approach surfaces. Primary Surface.  A surface longitudinally centered on a runway.  The primary surface ends at each end of a runway.  The elevation of any point on the primary surface is the same as the elevation of the nearest point on the runway centerline.  The width of the primary surface for private use airports is 200 feet. Runway.  A defined area on an airport prepared for landing and takeoff of aircraft along its length. Structure.  Any constructed or erected object which requires location on the ground or is attached to something located on the ground.  Structures include but are not limited to, buildings, decks, fences, signs, towers, cranes, flagpoles, antennas, smokestacks, earthen formations and overhead transmission lines.  Structures do not include paved areas. 712.04 Continued Operation Of Existing Uses Operation of the following uses may be continued at their current levels as of the effective date of Section 712, upon a demonstration that the use existed at the airport at any time during 1996.  A list of those uses for each private use airport classified as having three or more based aircraft is contained in the County's Airport Plan. Customary and usual aviation-related activities, including but not limited to takeoffs and landings; aircraft hangars and tie-downs; construction and maintenance of airport facilities; fixed-base operator facilities; one single-family dwelling in conjunction with an airport (if there is not one there already) for an airport manager, caretaker, or security officer; and other activities incidental to the normal operation of an airport.  Except as provided in this ordinance, "customary and usual aviation-related activities" do not include residential, commercial, industrial, manufacturing, and other uses. Air passenger and air freight services and facilities, at levels consistent with the classification and needs identified in the Oregon Department of Aviation Airport System Plan. Emergency medical flight services, including activities, aircraft, accessory structures, and other facilities necessary to support emergency transportation for medical purposes.  Emergency medical flight services include search and rescue operations but do not include hospitals, medical offices, medical labs, medical equipment sales, and other similar uses. Law enforcement, military, and firefighting activities, including aircraft and ground-based activities, facilities and accessory structures necessary to support federal, state or local law enforcement or land management agencies engaged in law enforcement or firefighting activities.  Law enforcement and firefighting activities include transport of personnel, aerial observation, and transport of equipment, water, fire retardant and supplies. Search and rescue operations, including aircraft and ground based activities that support the orderly and efficient conduct of search or rescue related activities. Flight instruction, including activities, facilities, and accessory structures located at airport sites that provide education and training directly related to aeronautical activities.  Flight instruction includes ground training and aeronautic skills training, but does not include schools for flight attendants, ticket agents or similar personnel. Aircraft service, maintenance and training, including activities, facilities and accessory structures provided to teach aircraft service and maintenance skills and to maintain, service, refuel or repair aircraft or aircraft components.  "Aircraft service, maintenance and training" includes the construction and assembly of aircraft and aircraft components for personal use, but does not include activities, structures or facilities for the manufacturing of aircraft, aircraft components or aircraft-related products for sale to the public. Aircraft rental, including activities, facilities and accessory structures that support the provision of aircraft for rent or lease to the public. Aircraft sales and the sale of aeronautic equipment and supplies, including activities, facilities and accessory structures for the storage, display, demonstration and sales of aircraft and aeronautic equipment and supplies to the public but not including activities, facilities or structures for the manufacturing of aircraft, aircraft components or other aircraft-related products for sale to the public. Crop dusting activities, including activities, facilities and structures accessory to crop dusting operations.  Crop dusting activities include, but are not limited to, aerial application of chemicals, seed, fertilizer, defoliant and other chemicals or products used in a commercial agricultural, forestry or rangeland management setting. Agricultural and Forestry Activities, including activities, facilities and accessory structures that qualify as a "farm use" as defined in ORS 215.203 or "farming practice" as defined in ORS 30.390. Aeronautic recreational and sporting activities, including activities, facilities and accessory structures at airports that support recreational usage of aircraft and sporting activities that require the use of aircraft or other devices used and intended for use in flight, are permitted subject to the acceptance of the airport sponsor.  Aeronautic recreation and sporting activities include, but are not limited to, fly-ins; glider flights; hot air ballooning; ultralight aircraft flights; displays of aircraft; aeronautic flight skills contests; gyrocopter flights; flights carrying parachutists; and parachute drops onto an airport.  As used herein, parachuting and parachute drops include all forms of skydiving. 712.05 Expansion Of Existing Uses The expansion of uses identified in Subsection 712.04 andthat existed at any time during 1996 at an airport is permitted as provided in Subsection 712.05. Expansions Permitted Outright:  The following expansions of existing uses are permitted outright: Construction of additional hangars and tie-downs by the owner of the airport; Basing of additional aircraft at the airport; and Increases in flight activity. Other Expansions: Growth of existing uses that require building permits, other than those existing uses identified in Subsection 712.05(A), shall require review as a Type II application pursuant to Section 1307 and shall be permitted unless the growth: Cannot be supported by existing public facilities and services and transportation systems authorized by applicable statewide land use planning goals; Forces a significant change or significantly increases the costs of conducting existing uses on surrounding lands; or Exceeds the standards of ORS 215.296(1) if the airport is adjacent to land zoned for exclusive farm use. 712.06 New Uses Uses identified in Subsection 712.04 and at an airport shall require review as a Type III application pursuant to Section 1307 and shall be subject to the following standards and criteria: The use is or will be supported by adequate types and levels of public facilities, services, and transportation systems authorized by applicable statewide land use planning goals; The use does not seriously interfere with existing land uses in areas surrounding the airport; and For airports adjacent to land zoned for exclusive farm use, the use complies with the standards described in ORS 215.296. An applicant may demonstrate that these standards will be satisfied through the imposition of clear and objective conditions. Uses not identified in Subsection 712.04, but permitted in the underlying zoning district, may be permitted at an airport if they do not conflict with permitted uses in Subsection 712.04, safety, or the continued operation and vitality of the airport. 712.07 Imaginary Surface Delineation The airport elevation and the location and dimensions of the runway, primary surface, and approach surface shall be delineated for each private use airport subject to this safety overlay zone and shall be made part of the zoning maps adopted pursuant to Subsection 103.02.  All lands, waters, and airspace, or portions thereof, that are located within these surfaces shall be subject to the requirements of this safety overlay zone. 712.08 Nonconforming Uses Section 712 shall not be construed to require the removal, lowering, or alteration of any existing structure or vegetation not conforming to Section 712.  Section 712 shall not require any change in the construction, or alteration of the intended use of any structure, the construction or alteration of which was begun or completed prior to the effective date of this safety overlay zone. [Amended by Ord. ZDO-248, 10/13/14] Return to the Zoning and Development Ordinance main page. Contact zoninginfo@clackamas.us for additional information." 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Phone: 503-742-4500 
+ Email: zoninginfo@clackamas.us 
+ 
+ 
+ 
+ 150 Beavercreek Road Room #225 Oregon City, OR 97045 
+ 
+ 
+ Office Hours: Monday to Thursday  8 a.m. to 4 p.m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's My Zoning? 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Related Events 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Related Events
+ 
+ 
+ 
+ 
+ Board of County Commissioners, Planning and Zoning 
+ 
+ 
+ Aug 
+ 04 
+ 
+ 
+ 11:00 am 
+ - 11:30 am 
+ 
+ 
+ Land Use Hearing: Z0437-25 and Z0438-25 - Aug. 4, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Aug 
+ 20 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0096-26 - Aug. 20, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Sep 
+ 03 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0207-26 - Sept. 3, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ more events 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ SHORTCUTS 
+ 
+ 
+ 
+ Jobs Procurement Process, Contracts and Grants Pay Online CMap Contact the County Report a Hazard County Code Public Records Request HIPAA/Privacy Concerns Civil Rights ACA Complaint Form Accessibility Statement Title VI Compliance Plan Website Privacy Media Contacts 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ELECTED OFFICIALS 
+ 
+ 
+ 
+ Chair Craig Roberts Commissioner Diana Helm Commissioner Paul Savas Commissioner Martha Schrader Commissioner Ben West   County Assessor/Tax Collector Bronson Rueda County Clerk Catherine McMullen District Attorney John Wentworth Justice of the Peace Kathleen Rastetter Sheriff Angela Brandenburg Treasurer Brian Nava 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can’t find what you're looking for? 
+ 
+ 
+ 
+ 
+ Search Box 
+ 
+
+ 
+ enter your search here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2026 Clackamas County

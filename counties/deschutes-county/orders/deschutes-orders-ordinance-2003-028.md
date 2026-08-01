@@ -1,0 +1,646 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2003-028
+title: 'Ordinance No. 2003-028'
+doc_type: ordinance
+citation: 'Ordinance No. 2003-028'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616819581_2003-1275-Ordinance%20No.%202003-028%20Recorded%2010_1_2003.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a3c48e7232098a4528fe72afe1120939d6566e923e1ec1a5c003e505c905a1e4
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2003-028 (Ordinance No. 2003-028)
+
+## At a glance
+
+Ordinance No. 2003-028 — orders of Deschutes County. 15 pages.
+
+## Full text
+
+REVIEWED
+LEGAL cbuNSEL
+REVIEWED
+CODE REVIEW COMMITTEE
+DESCHUTESCOUNTYOFFICIAL
+NANCYBLANKENSHIP, COUNTY
+COMMISSIONERS' JOURNAL
+111111111111111111111111111112003- 1276
+CLERKDS
+CJ2003.1215
+10/01/200312;49;10PM
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 18, the Deschutes
+County Zoning Ordinance, of the Deschutes * ORDINANCE NO. 2003- 028
+County Code, to Amend the Text of the La Pine
+Neighborhood Planning Area District, and
+Declaring an Emergency.
+WHEREAS, onJuly9, 2003, theDeschutesCountyBoardof CommissionerspassedOrdinance2003-
+077, which allows for a 35 -foot lot width for detached zero -lot line single family lots in the La Pine
+Neighborhood Planning Area, Residential Center District; and
+WHEREAS, an oversight resulted in inconsistencies between the recently passedOrdinance 2003-077
+andexistingstandardsin Title 18thatneedto becorrected; and
+WHEREAS, existingstandardsdonotallowfor centralizedoutdoorrecreationalstorageareasin theLa
+Pine Neighborhood Residential General District; and
+WHEREAS, outdoor recreational storage areas would allow residents to store outdoor recreational
+equipment in a screened centralized location within the Neighborhood Planning Area so that private yard space
+is not used for storage purposes; and
+WHEREAS, the Board of County Commissioners believes that allowing outdoor recreational storage
+areas as a Conditional Use in the La Pine Neighborhood Residential General District will ensure a community
+that providesfor theplannedstorageandscreeningof outdoorrecreationalequipmentin an attractiveandsafe
+manner, while allowing residents greater areafor useof their private yards and open space; and
+WHEREAS, afternoticeandhearingbythePlanningCommissiononAugust28, 2003, asrequiredby
+law, the Board has consideredthe recommendation of the Planning Commission; and
+WHEREAS, theBoardof CountyCommissionersrecognizestheurgencyof thesechangesin orderto
+allow development of the Neighborhood Planning Area to commence; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 18.04.030, Definitions, is amended to read as described in Exhibit
+A," attachedheretoandby this referenceincorporatedherein, with newlanguageunderlined.
+Section 2. AMENDMENT. DCC 18.61.050, Neighborhood Planning Area, is amended to read as
+described in Exhibit ` B," attachedhereto and by this referenceincorporatedherein, with new language
+underlined.
+PAGE 1 of 2 - ORDINANCE NO. 2003- 028 ( 09/ 24/03)
+Section 3. FINDINGS. The Board of Commissioners adopts as its findings in support of this
+amendment the Staff Report dated September 24, 2003, attached hereto and incorporated by referenced herein as
+Exhibit " C."
+Section 4. EMERGENCY. This Ordinance being necessary for the immediate preservation of the
+public peace, healthandsafety, anemergencyis declaredto exist, andthis Ordinancetakeseffecton its passage.
+DATED this day of G i' ji , 2003.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHU ES COUNTY, OREGON
+DENNIS R. LUKE, Chair
+TOM DEWOLF, Commissioner
+DALY, C
+Date of 1StReading: c day of - , 2003.
+Date of 2ndReading:  day of , 2003.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Dennis R. Luke tom'
+Tom DeWolfy
+Michael M. Daly
+Effective date: 7__
+day of 2003.
+ATTEST:
+Recording Secretary
+PAGE 2 of 2 - ORDINANCE NO. 2003- 028 ( 09/ 24/ 03)
+EXHIBIT " A"
+Chapter 18. 04. TITLE, PURPOSE AND DEFINITIONS
+18. 04. 030. Definitions.
+Dwelling. single family - zero lot line" and in the Neighborhood Planning Area means a. detached
+building containing one dwelling unit and designedfor occupancy by one family only where oneor
+more of the building' s sides coincide with a lot line, not including manufactured homes and such
+temporary structures as tents, teepees travel trailers and other similar structures.
+Outdoor Recreational Equipment Storage Area" means a fenced area for the outdoor storage of
+recreational or sporting equipment which may include: recreationalvehicles asdefined by Chapter
+18.04, boats, jet skis, 17olfcarts, snowmobiles, and dog sleds. The equipment may be stored outside
+or under a roof without enclosed sides.
+Ord 2003- 028 § 1, 2003; Ord 2001- 048 § 1, 2001; Ord. 2001- 044 § 2, 2001; Ord. 2001- 037 § 1,
+2001; Ord. 2001- 033 § 2, 2001; Ord. 97- 078 § 5, 1997; Ord. 97- 017 § 1, 1997; Ord. 97- 003 § 1,
+1997; Ord. 96- 082 § 1, 1996; Ord. 96- 003 § 2, 1996; Ord. 95- 077 § 2, 1995; Ord. 95- 075 § 1, 1975;
+Ord. 95- 007 § 1, 1995; Ord. 95- 001 § 1, 1995; Ord. 94- 053 § 1, 1994; Ord. 94- 041 §§ 2 and 3,
+1994; Ord. 94- 038 § 3, 1994; Ord. 94- 008 §§ 1, 2, 3, 4, 5, 6, 7 and 8, 1994; Ord. 94- 001 §§ 1, 2, and
+3, 1994; Ord. 93- 043 §§ 1, IA and 113, 1993; Ord. 93- 038 § 1, 1993; Ord. 93- 005 §§ 1 and 2, 1993;
+Ord. 93- 002 §§ 1, 2 and 3, 1993; Ord. 92- 066 § 1, 1992; Ord. 92- 065 §§ 1 and 2, 1992; Ord. 92- 034
+1, 1992; Ord. 92- 025 § 1, 1992; Ord. 92- 004 §§ 1 and 2, 1992; Ord. 91- 038 §§ 3 and 4, 1991;
+Ord. 91- 020 § 1, 1991; Ord. 91- 005 § 1, 1991; Ord. 91- 002 § 11, 1991; Ord. 90- 014 § 2, 1990; Ord.
+89- 009 § 2, 1989; Ord. 89- 004 § 1, 1989; Ord. 88- 050 § 3, 1988; Ord. 88- 030 § 3, 1988; Ord. 88-
+009 § 1, 1988; Ord. 87- 015 § 1, 1987; Ord. 86- 056 § 2, 1986; Ord. 86- 054 § 1, 1986; Ord. 86- 032 §
+1, 1986; Ord. 86- 018 § 1, 1986; Ord. 85- 002 § 2, 1985; Ord. 84- 023 § 1, 1984; Ord. 83- 037 § 2,
+1983; Ord. 83- 033 § 1, 1983; Ord. 82- 013 § 1, 1982)
+Note: """" denotes current text remaining unchanged)
+PAGE 1 of 1 - EXHIBIT " A" To ORDINANCE No. 2003- 028 ( 09/ 24/ 03)
+EXHIBIT " B"
+18.61.050. Neighborhood Planning Area.
+A. Purpose. The Neighborhood Planning Area provides standards and review procedures for
+development in the Neighborhood Planning Area of the La Pine UUC and is the " receiving
+area" for transferable development credits ( TDCs). The Neighborhood Planning Area includes
+six zoning districts, each with its own set of allowed uses, as further set forth in DCC
+18. 61. 050.
+B. Water and WastewaterFacilities. All usesin the Neighborhood Planning Area requiring water
+shall be connected to the La Pine Water District water system. All uses in the Neighborhood
+Planning Area that discharge wastewater shall be connected to the La Pine Special Sewer
+District sewage treatment facility or a Department of Environmental Quality approved
+community wastewater treatmentfacility serving the La PineNeighborhood Planning Area.
+C. Residential General District. Purpose: The Residential General District is the largest area of
+Neighborhood Planning Area. The district is primarily for single-family residential useswith a
+variety of lot sizes and housing styles. Some higher density housing is allowed in specified
+locations.
+1. Uses permitted outright.
+a. Single-family dwelling, including a "ClassA" manufacturedhome.
+b. Duplex.
+c. Accessory dwelling.
+d. Multi - use path.
+e. Open space.
+f. Residential facility or residential home.
+g. Home occupation that:
+1. Is carried on within a dwelling only by members of the family who reside in the
+dwelling;
+2. Does not serve clients or customers on- site;
+3. Does not produce odor, dust, glare, flashing lights or noise;
+4. Does not occupy more than 25 percentof the floor areaof the dwelling; and
+5. Does not include the on -premisesdisplay or saleof stock in trade.
+6. Does not haveany outdoor storageof materials usedin the home occupation.
+2. Uses Permitted Subject to Site Plan Review. The,following usesand their accessoryuses
+are permitted subject to applicable provisions of DCC 18. 61 and DCC 18. 116,
+Supplementary Provisions, and DCC 18.124, Site Plan Review:
+a. Multi -family dwelling, located along the central collector road in the Neighborhood
+Planning Area or adjacentto Huntington or BurgessRoads.
+b. Bed and Breakfast Inn, located along the central collector road in the Neighborhood
+Planning Area or Huntington or BurgessRoads.
+c. Child care facility located adjacent to the central or a neighborhood collector road in
+the Neighborhood Planning Area or Huntington or BurgessRoads.
+d. Park or playground.
+3. Conditional Uses Permitted. The following uses and their accessoryuses are permitted
+subject to applicable provisions of DCC 18. 61 and DCC 18. 116, Supplementary
+Provisions, DCC 18. 124, Site Plan Review, and DCC 18. 128, Conditional Use:
+a. Home occupation as defined in DCC 18. 04.
+b. Outdoor Recreational Equipment Storage area as defined in DCC: 18. 04.
+4. Dimensional Standards. The lot size, lot coverage block length, block perimeter and
+building height standardsshown in Table 2 shall apply to the Residential GeneralDistrict.
+5. Yard and Setback Requirements. The front, side and rear yard requirements in Table 2
+shall apply to usesin the ResidentialGeneralDistrict.
+PAGE 1 of 8 — EXHIBIT " B" To ORDINANCE No. 2003- 028 ( 09/ 24/ 03)
+EXHIBIT " B"
+6. Residential Density. The residential density requirements in Tables 1 and 2 A shall apply
+to the Residential General District.
+D. Residential Center District. Purpose: The Residential Center District is a location for social
+activities and small mixed- use residential/ commercial businesses. It is located near the
+geographical center of each Neighborhood. This district is the location for more compact
+housing types such as townhomes and apartment buildings that activate the center and allow a
+greaternumber of peoplethe option to walk for their daily needs.
+1. Uses permitted outright.
+a. Single Family Dwelling — Zero Lot Line, tTown home, duplex or triplex.
+b. Accessory dwelling.
+c. Live/ work unit.
+d. Multi - use path.
+e. Open space.
+g. Home occupation that:
+1. Is carried on within a dwelling only by members of the family who reside in the
+dwelling;
+2. Does not serve clients or customers on- site;
+3. Doesnot produceodor, dust, glare, flashing lights or noise;
+4. Does not occupy more than 25 percentof the floor areaof the dwelling; and
+5. Does not include the on -premisesdisplay or saleof stock in trade; and,
+6. Does not haveany outdoor storageof materials usedin the home occupation.
+2. Uses Permitted Subject to Site Plan Review. The following usesand their accessoryuses
+are permitted subject to applicable provisions of DCC 18. 61 and DCC 18. 116,
+Supplementary Provisions, and DCC 18.124, Site Plan Review:
+a. Community center up to 4,000 squarefeet in floor area.
+a. Neighborhood commercial building asdefined in DCC 18.04.
+b. Multi -family dwelling.
+c. Bed and Breakfast Inn.
+d. Church.
+e. Park or playground.
+3. Conditional uses permitted. The following uses and their accessoryuses are permitted
+subject to applicable provisions of DCC 18. 61 and DCC 18. 116, Supplementary
+Provisions, DCC 18. 124, Site Plan Review, and DCC 18. 128, Conditional Use:
+a. Single-family dwelling, including " Class A" manufacturedhome. except as permitted
+in 18. 61. 050. D. 1. a.
+b. Residential facility or residential home.
+c. Home occupation as defined in DCC 18. 04.
+4. Dimensional standards. The lot size, lot coverage block length, block perimeter and
+building height standardsshown in Table 2 shall apply to the Residential CenterDistrict.
+5. Yard and setback requirements. The front, side and rear yard requirements in Table 2 shall
+apply to uses in the Residential Center District.
+6. Residential density. The residential density requirements in Tables 1 and 2 shall apply to
+the Residential Center District.
+E. Community Facility District. Purpose: The purposeof this district is to provide a location for
+public and private uses and facilities that serve the civic, social and recreational needs of the
+community. The Community Facility District also includes higher density housing.
+1. Uses Permitted Outright.
+a. Duplex, triplex or townhome.
+b. Multi - use path.
+c. Open space.
+PAGE 2 of 8 — EXHIBIT ` B" To ORDINANCE No. 2003- 028 ( 09/ 24/ 03)
+EXHIBIT " B"
+2. Uses Permitted Subject to Site Plan Review. The following uses and their accessory uses
+are permitted subject to applicable provisions of DCC 18. 61 and DCC 18. 116,
+Supplementary Provisions, and DCC 18.124, Site Plan Review:
+a. Multi -family dwelling.
+b. Continuing careretirement center.
+c. Hospital.
+d. Medical facility.
+e. Assisted living, congregatecarefacility.
+f. Nursing home.
+g. Mixed usebuilding ( residential with other permitted usein the district).
+h. Child care center.
+i. Public use.
+j. Community center.
+k. Church.
+1. Senior center.
+m. Library.
+n. Museum.
+o. Performing artsbuilding.
+p. Theater.
+q. School.
+r. Park or playground.
+3. Conditional Uses Permitted. The following uses and their accessory uses are permitted
+subject to applicable provisions of DCC 18. 61 and DCC 18. 116, Supplementary
+Provisions, DCC 18. 124, Site Plan Review, and DCC 18. 128, Conditional Use:
+a. Single- family dwelling.
+b. Retail or professional office use that supports a permitted use in the district.
+4. Dimensional Standards. The lot size, lot coverage block length, block perimeter and
+building height standardsshown in Table 2 shall apply to the Community Facility District
+5. Yard and Setback Requirements. The front, side and rear yard requirements in Table 2
+shall apply to usesin the Community Facility District.
+F. Community Facility Limited District. Purpose. The purpose of this district is to provide
+locations for a school, recreation and transportation facilities.
+1. Uses permitted outright.
+a. Multi - use path.
+b. Open space.
+2. Uses Permitted Subject to Site Plan Review. The following uses and their accessoryuses
+are permitted subject to applicable provisions of DCC 18. 61 and DCC 18. 116,
+Supplementary Provisions, and DCC 18.124, Site Plan Review:
+a. Park andride facility.
+b. School.
+c. Park or playground.
+3. Uses Permitted Subject to Conditional Use. The following usesand their accessoryuses
+are permitted subject to applicable provisions of DCC 18. 61 and DCC 18. 116,
+SupplementaryProvisions, DCC 18.124, Site Plan Review, and DCC 18.128, Conditional
+Use:
+a. Equestrianfacility.
+G. Neighborhood Commercial District. Purpose: The purpose of this district is to provide a
+location for small- scale convenience commercial uses designed to serve the Neighborhood
+Planning Area.
+1. Uses Permitted Outright.
+PAGE 3 of 8 — EXHIBIT ` B" To ORDINANCE No. 2003- 028 ( 09/ 24/ 03)
+EXHIBIT " B"
+a. Multi - use path.
+b. Open space.
+2. Uses Permitted Subject to Site Plan Review. The following uses and their accessoryuses
+arepermitted in a building or buildings eachnot exceeding4,000 squarefeet of floor space,
+subject to applicable provisions of DCC 18. 61 and DCC 18. 116, Supplementary
+Provisions, and DCC 18. 124, Site Plan Review:
+a. Convenience market.
+b. Video store.
+c. Retail store.
+3. Conditional UsesPermitted. The following usesandtheir accessoryusesarepermitted in a
+building or buildings each not exceeding 4,000 square feet of floor space, subject to
+applicable provisions of DCC 18.61 and DCC 18.116, Supplementary Provisions, DCC
+18. 124, Site Plan Review, and DCC 18. 128, Conditional Use: Such as but not limited to:
+a. Restaurant.
+b. Laundry mat.
+c. Dry cleaning.
+d. Art studio in conjunction with retail use.
+e. Professional office.
+4. Dimensional Standards. The lot size, lot coverage block length, block perimeter and
+building height standardsshown in Table 2 shall apply to the Commercial District.
+5. Yard and Setback Requirements. The front, side and rear yard requirements in Table 2
+shall apply to usesin the Commercial District.
+H. Park District. The purpose of this district is to provide Neighborhood Parks in each of the four
+neighborhoods within the Neighborhood Planning Area. This district may also apply to an
+optional Regional Park that may be located in Neighborhood 2 and or 3 during Quadrant Plan
+approval process.
+1. Uses Permitted Outright.
+a. Multi - use path.
+b. Open space.
+2. Uses Subject to Provisions of DCC 18. 61. 050( H)( 4).
+a. Neighborhood Park.
+3. Conditional Uses. The following usesand their accessoryusesarepermitted subject to the
+development standards in DCC 18. 61. 050( H)( 5) and the applicable provisions of DCC
+18.61 and DCC 18.116, Supplementary Provisions, and DCC 18.124, Site Plan Review:
+a. Regional Park.
+4. Neighborhood Park Development Standards.
+a. Size standard. Neighborhood Parks shall be a minimum of two acres and no more than
+five acres in size.
+b. Location. Neighborhood Parks shall be located at the center of each Neighborhood and
+be fronted on at leastthree sidesby public streetsincluding the central collector and a
+neighborhood collector.
+c. Boundary Determination. The boundaries of the Neighborhood Parks are generally
+depicted on the Neighborhood Planning Area Park Plan, Figure 17 in the Deschutes
+County Comprehensive Plan, DCC 23. 36. 052. The exact boundaries of the
+Neighborhood Parks shall be established at the time of approval of a Quadrant Plan
+under DCC 18. 61. 050( K).
+d. Platting. Neighborhood Parksshall be platted aspart of the first phasesubdivision in an
+approved Quadrant Plan.
+5. Regional Park Development Standards.
+PAGE 4 of 8 — EXHIBIT ` B" To ORDINANCE No. 2003- 028 ( 09/ 24/ 03)
+EXHIBIT " B"
+a. The La Pine Neighborhood Planning Area may include one Regional Park. The
+Regional Park may be developed in Neighborhood 3 or 4.
+b. Size Standard. The Regional Park shall be between 10 and 25 acres in size.
+c. The location of a Regional Park shall be determined during the quadrant planning of
+Neighborhoods 3 and/ or 4.
+d. If the Regional Park is located at the intersection of the central collector and a
+neighborhood collector at the center of a Neighborhood, it may replace the required
+Neighborhood Park.
+e. Siting Standards.
+i. The Regional Park shall have direct access to either a collector street and an arterial
+street or the central collector and a neighborhood collector street.
+ii. The Regional Park shall have direct access to a paved multi - use path.
+I. Open Space District. The purpose of this district is to provide two types of open space in the
+Neighborhood Planning Area. Perimeter Open Space is located adjacent to Huntington and
+Burgess Roads, Highway 97, and between existing residential lots west of Neighborhood 4.
+Perimeter Open Spacewill provide visual and noise screeningand locations for multi -usepaths.
+Corridor Open Space divides the four Neighborhoods, helps to maintain a rural feeling and
+contains unpaved multi - use paths.
+1. Perimeter Open Space Uses Permitted Outright.
+e. Open space.
+f. Multi - use path.
+2. Corridor Open Space Uses Permitted Outright.
+a. Open space.
+b. Multi - use path.
+g. Picnic area.
+h. Benches along multi - use path.
+i. Park or playground managedby the La Pine Park District or a Neighborhood Planning
+Area homeowners association.
+3. Uses Permitted Subject to an Open Space Management Plan under the provision of DCC
+18. 61. 050( I)( 4).
+a. Vegetation management for wildfire hazard reduction.
+b. Vegetation management for wildlife habitat enhancement.
+c. Landscaped earthen berm.
+4. Open Space Management Plan.
+a. An open space management plan shall be prepared for each Quadrant as a component
+of a Quadrant Plan. The plan shall be implemented as a condition of approval for the
+final plat of the first phase of any development in a Quadrant. The open space
+managementplan shall identify the funding source and managementresponsibility for
+zoned open space.
+J. Quadrant Plan.
+1. Plan Approval Required. Prior to issuanceof a building permit, approval of a tentative plan
+or initiation of development including streets or placement of utilities within a
+Neighborhood or Quadrant, a Quadrant Plan shall be approvedaccording to the provisions
+of DCC 18. 61. 050.
+2. Eligibility to Submit an Application. Deschutes County will accept a Quadrant Plan
+application from a developer who has an agreementwith Deschutes County of intent to
+purchaseland in the Quadrant. The County may also preparea QuadrantPlan.
+3. Application Requirements. All applications shall include the following elements.
+a. Zoning Plan, drawn to scale, showing the boundaries of the proposed zones and the
+acres in each zone.
+PAGE 5 of 8 — EXHIBIT ` B" To ORDINANCE No. 2003- 028 ( 09/ 24/ 03)
+EXHIBIT " B"
+b. Transportation Plan, drawn to scale, including locations of street rights of way for
+central collector, neighborhood collector and local streets, block configurations and
+connections with adjacent Quadrants.
+c. Non -motorized Circulation Plan showing locations of sidewalks paved and unpaved
+multi - use paths and where they will connect to adjacent Quadrants0
+d. Open Space and Park Plan, drawn to scale, defining boundaries for the open space
+district and Neighborhood or Regional Parks where applicableb10.
+e. Open Space Management Plan.
+f. Utility Plan, drawn to scale, identifying location and specifications for sewerand water
+facilities. The utility plan shall include a schedule of improvement initiation and
+completion and a written narrative that explains or describes:
+1. How the proposed water and sewer systems will be adequate to serve the type and
+size of development planned.
+2. How the proposed location and sizing of facilities will be consistent with existing
+and planned facilities.
+3. How adequate water flow volumes will be provided to meet fire flow and domestic
+demands.
+g. Proposed design guidelines and process for reviewing and approving buildings for
+conformance with the guidelines. Notwithstanding DCC 23.40. 020( F)( 1)(g), and this
+requirement, no design guidelines shall be required for Quadrant 1c.
+h. A plan showing the zone boundaries for Neighborhood General and Neighborhood
+Center Districts.
+i. A plan showing the proposedlocations and dimensionsof road rights-of-way.
+j. A written burden of proof statementwith findings demonstratingconformancewith the
+goals and policies of The DeschutesCounty ComprehensivePlan, DCC 23.40.020, the
+applicable sections of DCC 18.61, and any other applicable provisions of DCC Title
+18.
+k. A proposal for deed restrictions, Covenants, Conditions and Restrictions ( CCRs), and a
+homeowners association. Notwithstanding DCC 23.40.020(F)( 1)(g) and ( h), no
+proposal for deed restrictions, CCRs, and a homeowners association shall be required
+with an application for a quadrant plan for Quadrant lc.
+4. Quadrant Plan Approval. Approval of a Quadrant Plan is a land use action and shall be
+reviewed under the provisions of DCC 22.20.020. Notwithstanding the order of hearings
+bodies listed under DCC 22.24.020(A),_Quadrant Plans shall be subjectto a public hearing
+before the DeschutesCounty Planning Commission. The Planning Commission shall make
+the decision to approve or deny an application for a quadrant plan. The Board of County
+Commissionerswill act asthe hearingsbody on an appealof such a decision. An appealof
+a quadrant plan decision shall be considered pursuant to DCC Chapter 22. 32, Appeals. A
+Quadrant Plan may be approved subject to conditions with findings that the following
+criteria are met:
+a. The Quadrant Plan contains all of the elements required in DCC 18. 61. 050( J)( 3).
+b. The Quadrant Plan conforms to the policies in the DeschutesCounty Comprehensive
+Plan, DCC 23. 36. 052.
+c. There is adequatesewer and water capacity to serve the development planned for the
+Quadrant and agreements to provide service have been signed with appropriate water
+and sewer districts or providers.
+d. The streets proposed in the Quadrant Transportation Plan conform to the general
+location and connection requirements of the La Pine Neighborhood Street Plan, Figure
+15in the DeschutesCounty ComprehensivePlan, DCC 23.36.052. The proposedstreet
+design conforms to the standards in DCC Title 17, Table 2 for the La Pine
+Neighborhood Planning Area. -Final locations of road rights- of- way approved under a
+PAGE 6 of 8 — EXHIBIT ` B" To ORDINANCE No. 2003- 028 ( 09/ 24/ 03)
+e
+f.
+9.
+EXHIBIT " B"
+quadrant plan will be determined through the process for approval of a tentative plat
+under DCC Title 17.
+The paved and unpaved multi - use paths are located within or adjacent to the Perimeter
+or Corridor Open Spaceas generally shown in the Non -Motorized Plan, Figure 16 in
+the Deschutes County Comprehensive Plan, DCC . 23. 36.052
+The open space in the Open Space and Park Plan conforms to the standards in
+Deschutes County Comprehensive Plan, DCC 23.36.020( D) and general location
+shown in the La Pine Neighborhood Parks and Open Space Plan, Figure 17 in the
+Comprehensive Plan. DCC 23. 36. 052.
+The Zoning Plan conforms to the following performance standards:
+1. Neighborhood Commercial District. A minimum of two and a maximum of four
+acres of Neighborhood Commercial District shall be established in Quadrant 3a or
+3c. Alternatively, if Quadrant Plans for Quadrant 3a and 3c are approved at the
+same time, the maximum area of Neighborhood Commercial District may be
+divided between the two Quadrants. The Neighborhood Commercial zone shall be
+located at the intersection of Huntington Road and the neighborhood collector that
+bisects Neighborhood 3.
+2. Community Facility District. Quadrant lc shall be zoned as Community Facility
+District.
+3. Community Facility Limited District. The portion of Quadrant 3a that is located
+west of Huntington Road shall be zoned Community Facility Limited. A
+maximum of 15 acres in the northwest section of Quadrant 4a may be zoned
+Community Facility Limited.
+4. Residential Center District. Each Quadrant except Quadrant 1c and 1d shall have a
+Residential Center District with a minimum of three acres and a maximum of six
+acres. The area of the Residential Center District is gross acresincluding public
+rights of way. The Residential Center District shall be a contiguous area located so
+that it is adjacent to both the central collector and the collector street that bisects
+the Neighborhood.
+5. Residential General District. The area zoned Residential General shall be the area
+in each Quadrant that remains after the mandatory minimum Residential Center,
+Neighborhood Parksand Open Spacezoning is defined.
+6. Neighborhood Park District. Where a Neighborhood Park is specified on the La
+Pine Neighborhood Parks and Open Space Plan ( Figure 17 in the Deschutes
+County Comprehensive Plan, DCC 23.36. 052, the Quadrant Plan shall zone a
+minimum of two acres and a maximum of five acres as Neighborhood Park
+District. The Neighborhood Park District shall be located at the intersection of the
+central collector and the neighborhood collector that that bisects the Neighborhood.
+7. Open SpaceDistrict. The Quadrant Plan shall designatethe following minimum
+areas as Open Space District:
+i. Minimum 200 foot wide Corridor Open Space Buffer between Neighborhoods
+1 and 2; 2 and 3; and 3 and 4.
+ii. Minimum 200 foot wide PerimeterOpen Spaceadjacentto Highway 97.
+iii. Minimum 75 foot wide Perimeter Open Space adjacent to Huntington and
+Burgess Roads.
+iv. Minimum 50 foot wide Perimeter Open Space on the west edge of Quadrants
+4a and 4c.
+8. The proposed residential densities and lot sizes conform with the requirements of
+the Residential General and Residential Center Zones as further described as
+follows in Tables 1 and 2:
+PAGE 7 of 8 — EXHIBIT ` B" To ORDINANCE No. 2003- 028 ( 09/ 24/ 03)
+EXHIBIT " B"
+Ord. 2003- 028 § 2, 2003; Ord. 2003- 005 § 1, 2003; Ord. 2001- 044 § 3, 2001; Ord. 2001- 037 § 2,
+2001; Ord. 2000- 015 § 2, 2000)
+PAGE 8 of 8 — EXHIBIT ` B" To ORDINANCE No. 2003- 028 ( 09/ 24/ 03)
+EXHIBIT " C"
+STAFF REPORT
+FILE NUMBER
+AND ORDINANCE
+NUMBERS: TA - 03- 028
+Ordinance2003-028 amendingTitle 18 of the DeschutesCountyZoning Code,
+Chapter18.04, Definitions; andChapter18.61, NeighborhoodPlanningArea.
+Ordinance 2003-029 amending Title 17 of the Deschutes County Subdivision
+Code, Chapter 17. 36, Frontage.
+DESCHUTES
+BOARD OF
+COUNTY
+COMMISSIONER' S
+HEARING DATE: September 24, 2003
+APPLICANT: Pahlisch Homes, Inc.
+PLANNING STAFF: Christy Morgan, Assistant Planner
+REQUEST: Amendments to the Deschutes County Code, Titles 17 and 18, for the La Pine
+Neighborhood Planning Area.
+SUMMARY: This Staff Report provides findings to support new descriptive text and
+development policies in the Deschutes County Zoning and Subdivision
+Ordinances to allow lot widths of 35 feet for detached zero - lot line development
+in the La Pine Neighborhood Planning Area — Residential Center District.
+Additional findings support adding outdoor recreational storage areas as a
+conditional use within the La Pine Neighborhood Planning Area — Residential
+General District.
+PROPOSED AMENDMENTS TO TITLE 18, DESCHUTES ZONING ORDINANCE
+Chapter 18.04, Definitions, of the Deschutes County Zoning Ordinance — proposed amendments are
+attached as Exhibit " A" to Ordinance No. 2003- 028
+Chapter 18.61.050.C. Neighborhood Planning Area — Residential General District of the Deschutes
+County Zoning Ordinance — proposed amendments are attached as Exhibit " B" to Ordinance No. 2003-
+28.
+Chapter 18. 61. 050. D. 1.a and 18. 61. 050. D. 3. a, Neighborhood Planning Area — Residential Center
+District of the Deschutes County Zoning Ordinance — proposed amendments are attached as Exhibit
+B" to Ordinance No. 2003- 028.
+Staff Report — File No. TA - 03- 5
+PAGE 1 of 4— EXHIBIT " C" to ORDINANCE No. 2003- 028 & 2003- 029 ( 09/ 24/ 2003)
+EXHIBIT " C"
+PROPOSEDAMENDMENTSTOTITLE 17, DESCHUTESCOUNTYSUBDIVISIONORDINANCE
+Chapter 17.36. 180, Design Standards — Frontage, of the Deschutes County Subdivision Ordinance —
+proposed amendment is attached as Exhibit " A" to Ordinance No. 2003- 029.
+BACKGROUND
+In 1996, DeschutesCountybegana RegionalProblemSolvingprocessto addressmultipleissuesin
+South Deschutes County through a collaborative approach. One of the means of addressing these
+multipleissueswas to establisha new neighborhoodbetweenWickiup Junctionand La Pine and to
+provide incentivesfor new developmentin this area, which is now known as the Neighborhood
+Planning Area.
+In orderto startdevelopmentof the NeighborhoodPlanningArea, DeschutesCountyenteredintoa
+contract with Pahlisch Homes. Part of Pahlisch' s plan ( for Quadrant 2) in the first phase is to build
+detached zero -lot line single family homes. To facilitatedevelopment, the DeschutesCountyBoardof
+CommissionersadoptedOrdinance2003-077, whichamendedDCC18.61.050, Table2, to createa lot
+width standard of 35 feet for detached -zero lot line development within the Residential Center District of
+the Neighborhood Planning Area.
+Sincethe adoptionof Ordinance2003-077, staff hasdiscoveredthat thereare inconsistenciesbetween
+the recentlypassedordinanceandexistingstandardsin DCC 18.61.050, PermittedUsesOutright, and
+DCC 17. 36. 180, Lot Frontage requirements. To correct these inconsistencies, Pahlisch Homes
+requests a text amendmentto the DeschutesCounty Zoning (Title 18) and Subdivision ( Title 17)
+Ordinances. Inaddition, PahlischHomesis requestinga textamendmentto theZoningOrdinanceto
+allowforcentralizedoutdoorrecreationalequipmentstorageareaswithintheNeighborhoodPlanningArea as a conditional use.
+STAFF FINDINGS REGARDING TITLE 17 OF THE DESCHUTES COUNTY SUBDIVISION
+ORDINANCE AND TITLE 18 OF THE DESCHUTES COUNTY ZONING ORDINANCE.
+Findings: DetachedZero -Lot Line Single Family Development:
+The DeschutesCountySubdivisionOrdinance, Chapter 17.36.180, Lot Frontage, requiresthat "each
+lotor parcelshallabutupona publicroadfor at least50feet, exceptfor lotsor parcelsfrontingonthe
+bulb of a cul-de-sac, then the minimum frontage shall be 30 feet..." In addition, DCC 18. 61. 050,
+NeighborhoodPlanningArea, allowsfor town homes, duplexesandtriplexes, but notdetachedzero -lot
+line single family dwellings.
+Ordinance2003-077amendedDCC18.61.050, Table2, to allowlotwidthsof "35' for detachedzero lot
+line development..." within the Residential Center of the Neighborhood Planning Area. Thus, additional
+amendmentsneedto be madeto the text of DCC 17.36.180, whichdoes not currentlyallowlot widths
+of 35' for detachedzero -lot linedevelopmentinthe NeighborhoodPlanningArea.
+Staff Report — File No. TA - 03- 5
+PAGE 2 of 4 — EXHIBIT " C" to ORDINANCE NO. 2003- 028 & 2003- 029 ( 09/ 24/ 2003)
+EXHIBIT " C"
+In addition, staff recommends that the following amendments be made to ensure that the intent of
+Ordinance 2003- 077 is carried out:
+1) For clarification of what is meant by detached zero -lot line development, amend DCC 18.04,
+Definitions, to add:
+Dwelling, single family — zero lot line" in the La Pine Neighborhood Planning Area
+means a detached building containing one dwelling unit and designed for occupancy
+by one family only where one or more of the building's sides coincide with a lot line,
+not includingmanufactured homes and such temporary structures as tents, teepees,
+travel trailers and other similar structures.
+2) Amend DCC 18.61.050. D. 1, Neighborhood PlanningArea — Residential Center District, Uses
+Permitted Outright, as follows, to add detached, zero - lot line development as a use permitted outright:
+a. Single Family Dwellinq - Zero Lot Line, town home, duplex or triplex.
+3) Amend DCC 18. 61. 050. D. 3, Conditional Uses Permitted, as follows, to add the underlined section, to
+clarify that detached, zero - lot line development is not to be considered a conditional use as are all
+other single- family dwellings:
+3. Conditional uses permitted. The following uses and their accessory
+uses are permitted subject to applicable provisions of DCC 18. 61
+and DCC 18.116, Supplementary Provisions, DCC 18.124, Site
+Plan Review, and DCC 18. 128, Conditional Use:
+a. Single-family dwelling, including "Class A" manufactured home,
+except as permitted in 18. 61. 050. D. 1. a.
+Findings: Outdoor Recreational Equipment Storage Areas
+Pahlisch Homes has made application to the County for a Text Amendment to the Zoning Ordinance to
+allow for centralized outdoor recreational equipment storage areas, specifically within the Residential
+General District of the Neighborhood Planning Area, as a conditional use. Currently, the Zoning
+Ordinance does not include a definition for " outdoor recreational equipment storage area," nor is such a
+use allowed.
+The proposed amendments would allow residents to store outdoor/ recreational equipment in a
+centralized location within the Neighborhood Planning Area so that private yard space is not used for
+storage purposes. This would also ensure that storage is properly screened and compatible with
+surrounding uses. The establishment of such an outdoor recreational equipment storage area would
+require approval of a Conditional Use Permit, subject to Site Plan review which addresses site design,
+operating characteristics of the use, adequacy of transportation access to the site, and the natural and
+physical features of the site, as well as general compatibility issues with the surrounding uses.
+Staff Report — File No. TA - 03- 5
+PAGE 3 of 4 — EXHIBIT " C" to ORDINANCE NO. 2003- 028 & 2003- 029 ( 09/ 24/ 2003)
+EXHIBIT " C"
+Staffrecommendsthatthefollowingamendmentsbe madeto theZoningOrdinanceto allowfor
+outdoor recreational equipment storage areas:
+1). AmendDCC18.04to defineoutdoorrecreationalequipmentstorageareas, as follows:
+Outdoor Recreational Equipment Storage Area" means a covered
+or uncovered outdoor storage area for recreational play or
+sporting equipment which may include, but is not limited to: recreational
+vehicles as defined by DCC Chapter 18.04., boats, jet skis, snowmobiles, golf carts,
+motorbikes and dog sleds.
+2) AmendDCC18.61.050.C, as follows, to addthe underlinedtext to allowoutdoorrecreational
+equipment storage areas as a conditional use, subject to site plan review, in the Residential
+GeneralDistrictof the NeighborhoodPlanningArea:
+3. ConditionalUsesPermitted. Thefollowingusesandtheiraccessoryusesarepermittedsubjectto
+applicableprovisionsof DCC 18.61 and DCC 18.116, SupplementaryProvisions, DCC 18.124,
+Site Plan Review, and DCC 18.128, Conditional Use:
+a. Home occupation as defined in DCC 18. 04.
+b. OutdoorRecreationalEquipmentStorageareaasdefinedin DCCChapter18.04.
+In orderto commencedevelopmentin the NeighborhoodPlanningArea, DCC18.61.050.J. requires
+that a QuadrantPlanbe submittedpriorto the issuanceof anybuildingpermits. Pahlish Homes is
+readyto submita QuadrantPlanthat includesa proposalto builddetachedzero -lot line dwellingswith
+lot frontagesof 35 feet, as well as centralizedoutdoorrecreationalequipmentstorage areas. The
+proposedQuadrantPlancannotbeapprovedbytheCountyuntilamendmentstotheDCCZoningandSubdivision Ordinances are made. Staff is therefore recommending that the proposed amendments
+be adoptedbywith anemergencyclause.
+CITIZEN INVOLVEMENT:
+TheDeschutesCountyPlanningCommissionheldaworksessionto discusstheproposedamendments
+on August 14, 2003. SubsequenttothePlanningCommissionworksession, noticeofa publichearing
+beforethePlanningCommissionwassentto BulletinNewspaperandwaspostedat theCounty
+Courthouse, theDeschutesCountyCommunityDevelopmentDepartment, andtheDeschutesCountyClerks Office. The noticewas also postedon the DeschutesCountyWeb Page. The notices included
+the County Web Page address as well as a staff contact phone number. Interested individuals were
+invited to get more information and be involved in the process. The public hearing was held on August
+28, 2003, to discuss the proposed amendments.
+Staff Report — File No. TA - 03- 5
+PAGE 4 of 4 — EXHIBIT " C" to ORDINANCE NO. 2003- 028 & 2003- 029 ( 09/ 24/ 2003)

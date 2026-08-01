@@ -1,0 +1,1875 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2019-006
+title: 'Ordinance No. 2019-006'
+doc_type: ordinance
+citation: 'Ordinance No. 2019-006'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617129572_2019-91-Ordinance%20No.%202019-006%20Recorded%203_20_2019.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 34b0309486fba224f5d1ef0a184cfea3926036147734c9ac8476812fbf596d57
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2019-006 (Ordinance No. 2019-006)
+
+## At a glance
+
+Ordinance No. 2019-006 — orders of Deschutes County. 51 pages.
+
+## Full text
+
+IEWED
+it M -
+L GAL COUNSEL
+Recorded in Deschutes County CJ2019- 91
+Nancy Blankenship, County Clerk
+Commissioners' Journal 03/ 20/ 2019 8: 37: 09 AM
+2019- 91
+For Recording Stamp Only
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County Code
+Title 23, the Deschutes County Comprehensive Plan,
+to Changethe ComprehensivePlanMap Designation
+for Certain Property From Agriculture to Rural
+Residential Exception Area, and Amending
+Deschutes County Code Title 18, the Deschutes
+County Zoning Map, to Change the Zone
+Designation for Certain Property From Exclusive
+Farm Use to Multiple Use Agricultural.
+ORDINANCE NO. 2019- 006
+WHEREAS, Eastside Bend, LLC, applied for changes to both the Deschutes County Comprehensive Plan
+Map (247 -18 -000485 -PA) andthe DeschutesCounty Zoning Map (247-18-000486-ZC), to changea portion of
+the subject property from an Agricultural ( AG) designation to a Rural Residential Exception Area ( RREA)
+designation and a corresponding zone change from Exclusive Farm Use ( EFU) to Multiple Use Agricultural
+MUA- 10); and
+WHEREAS, after notice was given in accordance with applicable law, a public hearing was held on
+December 4, 2018, before the Deschutes County Hearings Officer and, on December 18, 2018, the Hearings
+Officer recommended approval of both the Comprehensive Plan Map change and Zoning Map change; and
+WHEREAS, after notice was given in accordance with applicable law, a de novo public hearing was held
+on February 27, 2019, before the Board of County Commissioners (" Board"); and
+WHEREAS, the Board, after review conducted in accordance with applicable law, both approved the plan
+amendment to change the Comprehensive Plan Map designation from Agriculture to Rural Residential Exception
+Area, and approved the Zoning Map amendment to change from Exclusive Farm Use ( EFU) to Multiple Use
+Agricultural ( MUA- 10); now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC Title 23, Deschutes County Comprehensive Plan Map, is
+amended to change the plan designation for certain property described in Exhibit " A" and depicted on the map set
+forth as Exhibit " B", with both exhibits attached and incorporated by reference herein, from Agriculture to
+Redmond Urban Growth Area.
+PAGE 1 OF 2 - ORDINANCE NO. 2019- 006
+Section 2. AMENDMENT. DCC Title 18, Zoning Map, is amendedto changethe zonedesignation
+from Exclusive Farm Use (EFU) to Multiple Use Agricultural ( MUA- 10) for certain property described in Exhibit " A"
+and depicted on the map set forth asExhibit " C."
+Section 3. AMENDMENT. DCC Section 23. 01. 010, Introduction, is amended to read as described
+in Exhibit " D" attached and incorporated by reference herein, with new language underlined.
+Section 4. AMENDMENT. Deschutes County Comprehensive Plan Section 5.12, Legislative
+History, is amendedto readasdescribedin Exhibit "E" attachedandincorporatedby referenceherein, with new
+language underlined.
+Section 5. FINDINGS. The Board adopts as its findings in support of this Ordinance, the Decision
+of the Hearings Officer as set forth in Exhibit " F", and incorporated by reference herein.
+Dated this -- ofA f, 2019 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUN REGON
+AkA
+A
+PHILIP G. H DERSON, Chair
+PAT I A AIR, Vice Chair
+ATTEST:
+ecording Secretary ANTHONY DEBONE
+Date of 1" Reading: day of r C' 61 -,( , 2019.
+Date of 2' Reading: day of IM01AJ ., 2019.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Philip G. Henderson
+Patti Adair
+Anthony DeBone
+Effective date: 1 day of_ 2019.
+PAGE 2 OF 2 - ORDINANCE NO. 2019- 006
+Exhibit " A"
+Tax Lot 1400
+That portion of the Northeast Quarter of the Southeast Quarter of Section 35,
+Township 17 South, Range 12 East of the Willamette Meridian, Deschutes County,
+Oregon, lying Northerly of U.S. Highway 20.
+Excepting therefrom the following described tract of land:
+Beginning at the Northeast Corner of the Northeast Quarter of the Southeast Quarter
+of Section 35, Township 17 South, Range 12 East of the Willamette Meridian,
+Deschutes County, Oregon; thence South along the East line of said Northeast
+Quarter of the Southeast Quarter a distance of 495 feet; thence Westerly, parallel
+with the North line of said Northeast Quarter of the Southeast Quarter a distance of
+1320 feet, more or less to a point on the West line of said Northeast Quarter of the
+Southeast Quarter; thence Northerly along said West line 495 feet to the Northwest
+corner of the Northeast Quarter of the Southeast Quarter of said Section; thence
+Easterlyalong the North line of said Northeast Quarter of the Southeast Quarter a
+distance of 1320 feet, more or less to the point of beginning.
+Alsoexcepting therefrom that portion conveyedto J.B. Casey, et ux by Deedrecorded
+December 2, 1965, In Book 146, Page 360, Deed Records Deschutes county, Oregon.
+Also excepting therefrom any portion lying within the limits of Roads or Highways.
+Tax Lot 1600
+All that portion of the Southeast Quarter of the Southeast Quarter and the Northeast
+Quarter of the Southeast Quarter of Section 35, Township 17 South, Range 12 East
+of the Willamette Meridian, Deschutes County, Oregon lying southerly of U.S.
+Highway 20.
+Excepting therefrom the following:
+Beginning at the Southwest corner of the Southeast Quarter of the Southeast
+Quarter of Section 35, Township 17 South, Range 12 East of the Willamette Meridian,
+Deschutes County, Oregon; thence North along the West line of said Southeast
+Quarter of the Southeast Quarter, 534 feet; thence Easterly, parallel with the South
+PAGE 1 OF 1- EXHIBIT A TO ORDINANCE NO. 2019- 006
+line of said Southeast Quarter of the Southeast Quarter, 370 feet; thence South and
+parallel to the West line of said Southeast Quarter of the Southeast Quarter, 534 feet
+to a point on the south line of said Southeast Quarter of the Southeast t Quarter;
+thence Westerly along said South line 370 feet to the point or beginning.
+Also excepting therefrom any portion lying within the limits of Roadsor Highways.
+Also Excepting that portion conveyed to Deschutes County by Warranty Deed
+recorded November 8, 1990 In Book 222, Page 2181, Deschutes County Records.
+Tax Lot 1601
+A tract of land in the Southeast Quarter of the Southeast Quarter ( SE1/ 4SE1/ 4) of
+Section 35, Township 17 South, Range 12 East of the Willamette Meridian, Deschutes
+County, Oregon, beginning at the Southwest corner of said SE1/4SE1/4, 370.0 feet;
+thence South and parallel to the West line of said SE1 /4SE1 / 4, 534. 0 feet; thence West
+370.0 feet to the point of beginning.
+Excepting therefrom Richardson Road, now known as Bear Creek Road.
+PAGE 1 OF 1- EXHIBIT A TO ORDINANCE NO. 2019- 006
+Legend
+Proposed Plan Amendment Boundary
+I ®! Bend Urban Growth Boundary
+Comprehensive Plan Designation
+AG - Agriculture
+RREA - Rural Residential Exception Area
+URA - Urban Reserve Area
+PROPOSED BOARD OF COUNTY COMMISSIONERS
+COMPREHENSIVE PLAN MAP
+OF DESCHUTES COUNTY, OREGON
+Exhibit " B"
+to Ordinance 2019- 006
+V V
+0 300 000 1, 200
+Feet
+February 12, 2019
+Philip G. Henderson, Chair
+Patti Adair. Vice Chair
+Tony DeBone, Commissioner
+ATTEST: Recording Secretary
+Dated this Iday of , 2019
+Effective Date: , 2019
+Legend
+Proposed Zone Change Boundary
+Bend Urban Growth Boundary
+Zoning
+EFUTRB - Tumalo/ Redmond/ Bend Subzone
+MUA10 - Multiple Use Agricultural
+UAR10 - Urban Area Reserve
+PROPOSED BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+ZONING MAP
+Exhibit " C"
+to Ordinance 2019- 006
+0 300 800 1, 200
+Feet
+February 12, 2019
+Philip G. Henderson, Chair
+Patti Adair, Vice Chair
+Tony DeBone, Commissioner
+ATTEST: Recording Secretary
+Dated this day of , 2019
+Effective Date: , 2019
+Chapter 23. 01 COMPREHENSIVE PLAN
+Chapter 23. 01 COMPREHENSIVE PLAN
+23. 01. 010. Introduction.
+A. The DeschutesCounty ComprehensivePlan, adoptedby the Board in Ordinance 2011-003
+and found on the DeschutesCounty Community Development Department website, is incorporated
+by referenceherein.
+B. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2011-027, are incorporated by referenceherein.
+C. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2012-005, are incorporated by referenceherein.
+D. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2012-012, are incorporated by referenceherein.
+E. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2012-016, are incorporated by referenceherein.
+F. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2013-002, are incorporated by referenceherein.
+G. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2013-009, are incorporated by referenceherein.
+H. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2013-012, areincorporated by referenceherein.
+I. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2013-007, are incorporated by referenceherein.
+J. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2014- 005, are incorporated by reference herein.
+K. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2014-006, areincorporated by referenceherein.
+L. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2014-012, areincorporated by referenceherein.
+M. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2014-021, areincorporated by referenceherein.
+N. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2014- 027, are incorporated by reference herein.
+O. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2015- 021, are incorporated by reference herein.
+P. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2015-029, are incorporated by referenceherein.
+Q. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2015-018, areincorporated by referenceherein.
+R. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2015-010, are incorporated by referenceherein.
+S. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2016-001, are incorporated by referenceherein.
+T. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2016-022, are incorporated by referenceherein.
+U. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2016- 005, are incorporated by reference herein.
+PAGE 1 OF 2 — EXHIBIT D TO ORDINANCE NO. 2019- 006
+V. The DeschutesCounty Comprehensive Plan amendments, adoptedby the Board in Ordinance
+2016-027, areincorporated by referenceherein.
+W. The DeschutesCounty Comprehensive Plan amendments, adoptedby the Board in Ordinance
+2016-029, are incorporated by referenceherein.
+X. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2017-007, areincorporated by referenceherein.
+Y. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2018-002, are incorporated by referenceherein.
+Z. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2018-006, are incorporated by reference herein.
+AA. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2018-011, are incorporated by reference herein.
+BB. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2018-005, are incorporated by reference herein.
+CC. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2018-008, are incorporated by reference herein.
+DD. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2019-002, areincorporatedby referenceherein.
+EE. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2019-001, are incorporated by reference herein.
+FF. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2019-003, are incorporated by reference herein.
+GG. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019-004, are incorporated by reference herein.
+HH. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019-006 are incorporated by reference herein.
+Ord. 2019- 006 § 1, 2019, Ord. 2019- 004 § 1, 2019; Ord. 2019- 003 § 1, 2019; Ord. 2019- 001 § 1,
+2019; Ord. 2019- 002 § 1, 2019; Ord. 2018- 008 § 1, 2018; Ord. 2018- 005 § 2, 2018; Ord. 2018- 011 § 1,
+2018; Ord. 2018- 006 § 1, 2018; Ord. 2018- 002 § 1, 2018; Ord. 2017- 007 § 1, 2017; Ord. 2016- 029 § 1,
+2016; Ord. 2016- 027 § 1, 2016; Ord. 2016- 005 § 1, 2016; Ord. 2016- 022 § 1, 2016; Ord. 2016- 001 § 1,
+2016; Ord. 2015- 010 § 1, 2015; Ord. 2015- 018 § 1, 2015; Ord. 2015- 029 § 1, 2015; Ord. 2015- 021 § 1,
+2015; Ord. 2014- 027 § 1, 2014; Ord. 2014- 021 § 1, 2014; Ord. 2014- 12 § 1, 2014; Ord. 2014- 006 § 2,
+2014; Ord. 2014- 005 § 2, 2014; Ord. 2013- 012 § 2, 2013; Ord. 2013- 009 § 2, 2013; Ord. 2013- 007 § 1,
+2013; Ord. 2013- 002 § 1, 2013; Ord. 2013- 001 § 1, 2013; Ord. 2012- 016 § 1, 2012; Ord. 2012- 013 § 1,
+2012; Ord. 2012- 005 § 1, 2012; Ord. 2011- 027 § 1 through 12, 2011; Ord. 2011- 017 repealed;
+Ord. 2011- 003 § 3, 2011)
+Click here to be directed to the ComprehensivePlan (http://www. deschutes.org/compplan)
+PAGE 2 OF 2 - EXHIBIT D TO ORDINANCE NO. 2019- 006
+SectLow5. 22 ltg% sl, atWe I-tistorU
+Background
+This sectioncontainsthe legislativehistory of this ComprehensivePlan.
+Table S.12. 1 Comprehensive Plan Ordinance History
+Ordinance
+Date Adopted/
+Chapter/ Section Amendment
+Effective
+All, except
+Transportation, Tumalo
+and Terrebonne
+2011- 003 8- 10- 11/ 11-9- 11 Community Plans,
+Deschutes Junction,
+Comprehensive Plan update
+Destination Resorts and
+ordinances adopted in
+2011
+2. 5, 2. 6, 3. 4, 3. 10, 3.5,
+Housekeeping amendments to
+2011- 027 10- 31- 1 1 / 1 1-9- 1 1
+4. 6, 5. 3, 5. 8, 5. 11,
+23. 40A, 23. 408,
+ensure a smooth transition to
+23. 40. 065, 23. 01. 010
+the updated Plan
+23. 60, 23. 64 ( repealed),
+Updated Transportation
+2012- 005 8- 20- 12/ 11- 19- 12 3.7 ( revised), Appendix C
+System Plan
+added)
+2012- 012 8- 20- 12/ 8- 20- 12 4. 1, 4. 2
+La Pine Urban Growth
+Boundary
+2012- 016 12- 3- 12/ 3- 4- 13 3.9 Housekeeping amendments to
+Destination Resort Chapter
+Central Oregon Regional
+2013- 002 1- 7- 13/ 1- 7- 13 4. 2 Large - lot Employment Land
+Need Analysis
+Comprehensive Plan Map
+Amendment, changing
+2013- 009 2- 6- 13/ 5- 8- 13 1.3
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan Map
+2013- 012 5- 8- 13/ 8- 6- 13 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+Newberry Country: A Plan
+2013- 007 5- 29- 13/ 8- 27- 13 3. 10, 3. 1 1 for Southern Deschutes
+County
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 12 LEGISLATIVE HISTORY
+EXHIBIT " E" TO ORDINANCE NO. 2019- 006
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTALSECTIONS SECTION 5. 12 LEGISLATIVE HISTORY
+EXHIBIT " E" TO ORDINANCE NO. 2019- 006
+Comprehensive Plan Map
+2013- 016 10- 21- 13/ 10- 21- 13 23. 0 1.010 Amendment, including certain
+property within City of Sisters
+Urban Growth Boundary
+Comprehensive Plan Map
+2014- 005 2- 26- 14/ 2- 26- 14 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+2014- 012 4- 2- 14/ 7- 1- 14 3. 10, 3. 11 Housekeeping amendments to
+Title 23.
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+2014- 021 8- 27- 14/ 11- 25- 14 23. 01. 010, 5. 10 property from Sunriver Urban
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+2014- 021 8- 27- 14/ 11- 25- 14 23. 01. 010, 5. 10 property from Sunriver Urban
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+Comprehensive Plan Map
+Amendment, changing
+2014- 027 12- 15- 14/ 3- 31- 15 23. 01. 010, 5. 10 designation of certain
+property from Agriculture to
+Rural Industrial
+Comprehensive Plan Map
+Amendment, changing
+2015- 021 11- 9- 15/ 2- 22- 16 23. 01. 010 designation of certain
+property from Agriculture to
+Surface Mining.
+Comprehensive Plan Map
+Amendment, changing
+2015- 029 1 1-23- 15/ 11- 30- 15 23. 01. 010
+designation of certain
+property from Tumalo
+Residential 5 -Acre Minimum
+to Tumalo Industrial
+2015- 018 12- 9- 15/ 3- 27- 16 23. 01. 010, 2. 2, 4. 3 Housekeeping Amendments
+to Title 23.
+DESCHUTES COUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER5 SUPPLEMENTALSECTIONSSECTION5. 12 LEGISLATIVE HISTORY
+EXHIBIT "E" TO ORDINANCENO. 2019- 006
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 12 LEGISLATIVE HISTORY
+EXHIBIT " E" TO ORDINANCE NO. 2019- 006
+Comprehensive Plan Text and
+2015- 010 12- 2- 15/ 12- 2- 15 2. 6 Map Amendment recognizing
+Greater Sage -Grouse Habitat
+Inventories
+Comprehensive Plan Map
+Amendment, changing
+2016- 001 12- 21- 15/ 04- 5- 16 23. 01. 010; 5. 10
+designation of certain
+property from, Agriculture to
+Rural Industrial ( exception
+area)
+Comprehensive Plan
+Amendment to add an
+exception to Statewide
+2016- 007 2- 10- 16/ 5- 10- 16 23. 01. 010; 5. 10 Planning Goal I I to allow
+sewers in unincorporated
+lands in Southern Deschutes
+County
+Comprehensive Plan
+Amendment recognizing non -
+2016 - 005 11- 28- 16/ 2- 16- 17 23. 01. 010, 2. 2, 3. 3 resource lands process
+allowed under State law to
+change EFU zoning
+Comprehensive plan
+2016- 022 9- 28- 16/ 11- 14- 16 23. 01. 010, 1.3, 4. 2 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+Comprehensive Plan Map
+Amendment, changing
+2016- 029 12- 14- 16/ 12/ 28/ 16 23. 0 1.010 designation of certain
+property from, Agriculture to
+Rural Industrial
+Comprehensive Plan Map
+Amendment, changing
+2017- 007 10- 30- 17/ 10- 30- 17 23. 01. 010
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan
+2018- 002 1-3- 18/ 1-25- 18 23. 01, 2. 6 Amendment permitting
+churches in the Wildlife Area
+Combining Zone
+DESCHUTES COUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER5 SUPPLEMENTALSECTIONS SECTION5. 12 LEGISLATIVE HISTORY
+EXHIBIT "E" TO ORDINANCENO. 2019- 006
+DESCHUTES COUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER 5 SUPPLEMENTALSECTIONS SECTION 5. 12 LEGISLATIVE HISTORY
+EXHIBIT " E" TO ORDINANCE NO. 2019- 006
+Housekeeping Amendments
+correcting tax lot numbers in
+Non -Significant Mining Mineral
+2018- 006 8- 22- 18/ 11- 20- 18 23. 01. 010, 5.8, 5. 9 and Aggregate Inventory;
+modifying Goal 5 Inventory of
+Cultural and Historic
+Resources
+Comprehensive Plan Map
+Amendment, changing
+2018- 011 9- 12- 18/ 12- 11- 18 23. 01. 010
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan Map
+Amendment, removing Flood
+23. 01. 010, 2. 5, Tumalo Plain Comprehensive Plan
+2018- 005 9- 19- 18/ 10- 10- 18 Community Plan, Designation; Comprehensive
+Newberry Country Plan PlanAmendment adding Flood
+Plain Combining Zone
+purpose statement.
+Comprehensive Plan
+Amendment allowing for the
+2018- 008 9- 26- 18/ 10- 26- 18 23. 01. 010, 3.4
+potential of new properties to
+be designated as Rural
+Commercial or Rural
+Industrial
+Comprehensive Plan Map
+Amendment changing
+designation of certain
+property from Surface Mining
+2019- 002 1- 2- 19/ 4- 2- 19 23. 01. 010, 5. 8
+to Rural Residential Exception
+Area; Modifying Goal 5
+Mineral and Aggregate
+Inventory; Modifying Non -
+Significant Mining Mineral and
+Aggregate Inventory
+Comprehensive Plan and Text
+2019- 001 1- 16- 19/ 4- 16- 19 1.3, 3. 3, 4. 2, 5. 10, 23. 01
+Amendment to add a new
+zone to Title 19: Westside
+Transect Zone.
+DESCHUTESCOUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER5 SUPPLEMENTALSECTIONSSECTION5. 12 LEGISLATIVE HISTORY
+EXHIBIT "E" TO ORDINANCENO. 2019- 006
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 12 LEGISLATIVE HISTORY
+EXHIBIT " E" TO ORDINANCE NO. 2019- 006
+Comprehensive Plan Map
+Amendment changing
+designation of certain
+2019- 003 TBD/ TBD 23. 01. 010, 4. 2 property from Agriculture to
+Redmond Urban Growth
+Area for the Large Lot
+Industrial Program
+Comprehensive Plan Map
+Amendment changing
+designation of certain
+property from Agriculture to
+2019- 004 TBD/ TBD 23. 01. 010, 4. 2
+Redmond Urban Growth
+Area for the expansion of the ,
+Deschutes County
+Fairgrounds and relocation of
+Oregon Military Department
+National Guard Armory.
+Comprehensive Plan Map
+Amendment, changing
+2019- 006 TBD/ TBD 23. 01. 010,
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+DESCHUTES COUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER5 SUPPLEMENTALSECTIONS SECTION5. 12 LEGISLATIVE HISTORY
+EXHIBIT "E" TO ORDINANCENO. 2019- 006
+HEARINGS OFFICER DECISION
+FILE NUMBERS: 247 - 18 - 000485 - PA, 247- 18- 000486- ZC
+HEARING: December 4, 2018, 6:00 p.m.
+Barnes & Sawyer Rooms
+Deschutes Services Center
+1300 NW Wall Street
+Bend, OR 97708
+APPLICANT/ OWNER:
+AGENT FOR
+APPLICANT:
+TRANSPORTATION
+ENGINEER:
+Eastside Bend, LLC
+Tia M. Lewis
+Schwabe, Williamson & Wyatt, P. C.
+Joe Bessman
+Transight Consulting, LLC
+PROPOSAL: The applicant requests approval of a Comprehensive Plan
+Amendment to change the designation of the property from
+Agricultural ( AG) to Rural Residential Exception Area ( RREA)
+designation. The applicant also requests approval of a corresponding
+Zone Change to rezone the property from Exclusive Farm Use (EFU) to
+Multiple Use Agricultural ( MUA- 10).
+STAFF REVIEWER: Nicole Mardell, Associate Planner
+Nicole. Mardell@deschutes. org, 541- 317- 3157
+HEARINGS OFFICER: Will Van Vactor
+I. APPLICABLE STANDARDS AND CRITERIA:
+Deschutes Countv Code, Title 18, Countv Zoning Ordinance
+Chapter 18. 04, Title, Purpose, and Definitions
+Chapter 18. 16, Exclusive Farm Use Zones
+Chapter 18. 32, Multiple Use Agricultural Zone
+Chapter 18. 136, Amendments
+Deschutes County Code, Title 22, Procedures Ordinance
+Deschutes County Comprehensive Plan
+Chapter 2, Resource Management
+Chapter 3, Rural Growth Management
+Appendix C, Transportation System Plan
+Eastside Bend LLC 1
+247 - 18 -000485 - PA
+Oregon Administrative Rules ( OAR). Chapter 660
+Division 6, Forest Lands
+Division 12, Transportation Planning
+Division 15, Statewide Planning Goals and Guidelines
+Division 33, Agricultural Land
+Oregon Revised Statues ( ORS)
+Chapter 215. 211, Agricultural Land, Detailed Soils Assessment.
+II. FINDINGS OF FACT:
+A. LOCATION: The subject property is a 59.24 -acre tract containing three separate parcels under
+the same ownership and identified on the Deschutes County Assessor' s Map as 17- 12-35, tax
+lots 1400, 1600, and 1601. The corresponding addresses are 21588 Highway 20 (tax lot 1400),
+21457 Highway 20 (Tax Lot 1600), and 21510 Bear Creek Road (Tax Lot 1601).
+B. LOT OF RECORD: Tax lots 1400 and 1600 were verified as legal lots of record per previous
+county land use approvals, the most recent being a property line adjustment in 2003 that
+altered the acreages of the property to their current configuration. Tax lot 1400 is 20. 55 acres
+and Tax lot 1600 is 34.4 acres in size. Tax lot 1601 has not previously been verified as a legal
+lot of record. Per DCC22.04. 040 Verifying Lots of Record, lot of record verification is required
+for certain permits:
+B. Permits requiring verification
+1. Unless an exception applies pursuant to subsection ( B)(2) below, verifying a
+lot parcel pursuant to subsection ( C) shall be required to the issuance of the
+following permits:
+a. Any land use permit for a unit of land in the Exclusive Farm Use Zones
+DCC Chapter 18. 16), Forest Use Zone — F1 ( DCC Chapter 18. 36), or
+Forest Use Zone — F2 ( DCC Chapter 18. 40);
+b. Any permit for a lot or parcel that includes wetlands as show on the
+Statewide Wetlands Inventory;
+C. Any permit for a lot or parcel subject to wildlife habitat special
+assessment;
+d. In all zones, a land use permit relocating property lines that reduces
+in size a lot or parcel;
+e. In all zones, a land use, structural, or non -emergency on- site sewage
+disposal system permit if the lot or parcel is smaller than the
+minimum area required in the applicable zone;
+In the Powell/ Ramsey ( PA -14-2, ZC-14-2), the hearings officer in that case held to a prior
+decision ( Belveron ZC-08- 04) that a property' s lot of record status was not required to be
+verified as part of a plan amendment and zone change application. Rather, the applicant
+would be required to receive lot of record verification prior to any development on the
+subject property. The Hearings Officer here agrees. Thus, this criterion does not apply.
+Eastside Bend LLC
+Figure 1. Subject Property Map
+C. PROPOSAL: The applicant requests approval of a Comprehensive Plan Map Amendment to
+change the designation of the subject property from Agricultural ( AG) designation to a Rural
+Residential Exception Area ( RREA) designation. The applicant also requests approval of a
+corresponding Zoning Map Amendment to change the zoning of the subject property from
+Exclusive Farm Use ( EFU) to Multiple Use Agricultural ( MUA- 10). The applicant asks that
+DeschutesCounty change the zoning and the plan designation becausethe subject property
+does not qualify as " agricultural land" under Oregon Revised Statutes ( ORS) or Oregon
+Administrative Rules ( OAR) definitions. The applicant proposed that no exception to
+Statewide Planning Goal 3, Agricultural Land is required because the subject property is not
+agricultural land.
+The applicant submitted an application form, a burden of proof statement, and other
+Eastside Bend LLC 3
+supplemental materials, all of which are included in the record for the subject applications.
+With its application, the applicant submitted an Order 1 Soil Survey fortax lots 1600 and 1601,
+titled " Agricultural Soils Capability Assessment" (" Borine study") prepared by soil scientist
+Roger Borine, CPSC, CPSS, PWS of Sage West, LLC. Prior to the hearing, the applicant also
+submitted a site- specific soil study for tax lot 1400 that was prepared by Brian Rabe, CPSS,
+WWS of Cascade Earth Sciences (" Rabe study"). The applicant has also submitted a traffic
+analysis prepared by Transight Consulting, LLCtitled " Eastside Bend, LLC' (" traffic study").
+D. ZONING AND PLAN DESIGNATIONS: The Deschutes County Comprehensive Plan map
+designates the subject property as Agriculture. The property is zoned Exclusive Farm Use —
+Tumalo/ Redmond/ Bend subzone ( EFU- TRB).
+E. SITE DESCRIPTION: The subject property encompasses approximately 59. 24 acres and is
+divided by State Highway 20. Tax lot 1400 is located to the north of Highway 20 and west of
+Hamby Road while tax lots 1600 and 1601 are located south of Highway 20 and west of Ward
+Road.
+The property is not in farm tax deferral and does not contain any irrigation water rights or
+irrigated area. A Central Oregon Irrigation District ( COID) irrigation can runs through the
+center of tax lot 1400, although the property does not contain any irrigated areas, nor does
+it hold irrigation water rights. Historical images of the subject property provide evidence of
+irrigated pasture on tax lots 1400 and 1600, as recently as 2011. The applicant stated in the
+burden of proof that the tax lots formerly had water rights but lost the rights due to a lack of
+beneficial use. Tax lot 1600 is developed with a manufactured home placed on the property
+in 1984. Tax lot 1601 is developed with a residence that appears to have been constructed in
+1935. Tax lot 1400 is currently vacant. Vegetation on site consists of juniper and sagebrush
+scattered sparingly throughout.
+F. SURROUNDING LAND USES: Land uses in the area vary in scale. The subject property is
+located approximately 0.25 miles from the City of Bend city limits and urban growth
+boundary. Within the city limits, land uses consist of residential subdivisions, apartment
+buildings, a nursery, and several strip malls with commercial uses. Outside of city limits and
+adjacent to the subject property are EFU-zoned parcels, many containing single family
+residences and a few vacant properties, none of which are in farm tax deferral. The property
+immediately adjacent to the west of tax lot 1400 was recently approved for a commercial dog
+kennel and training facility. Farther east of the property is Grace Community Church, Christian
+Life Center, and a Pacific Power and Light substation. Farther south is property zoned MUA-
+10, developed with residences on 1 -acre parcels platted as part of the Dobbin Acres
+subdivision. A property to the southeast ( TL 1500) recently received approval for a plan
+amendment and zone change to redesignate the property from Agricultural to Rural
+Residential Exception Area, and to rezone the property from EFU-TRB to MUA- 10.
+G. SOILS: According to Natural Resources Conservation Service ( NRCS) maps of the area, the
+subject property contains two different soil types, as described below. Pursuant to the NRCS,
+tax lot 1400 is designated entirely as 58C — Gosney- Rock Outcrop, Deskamp complex. The
+NRCS shows lots 1600 and 1601 each contain 58C— Gosney- Rock Outcrop, Deskamp complex
+Eastside Bend LLC 4
+and 36A — Deskamp loamy sand.
+The applicant submitted two soil studies. The Borine study determined tax lots 1600 and 1601
+are comprised of soils that do not qualify as Agricultural Land pursuant to OAR 660- 033. The
+Borine study did not include Tax Lot 1400. The purpose of this Borine study was to inventory
+and assess the soils on the tax lots 1600 and 1601 and to provide more detailed data on soil
+classifications and ratings than is contained in the NRCS soils maps. The findings are addressed
+in more detail below.
+The Rabestudy determined that tax lot 1400 is also comprised of soilsthat do not qualify as
+agricultural lands as defined by OAR 660- 033. The purpose of the Rabe study was ( 1) to
+present the results of a site- specific assessment to verify, and where necessary, refine the
+soils, map units, and boundaries of the previously prepared NRCSstudy for tax lot 1400, and
+2) determine whether the soils on the tax lot 1400 meet the land classification criterion for
+a non -resource zoning designation. The Rabe study is also addressed in more detail below.
+The NRCSsoil map units identified on the property are described below.
+36A, Deskamp loamy sand, 0 to 3 percent slopes: This soil complex is composed of 85 percent
+Deskamp soil and similar inclusions, and 15 percent contrasting inclusions. The Deskamp soils
+are somewhat excessively drained with a rapid over moderate permeability, and about 5
+inches of available water capacity. Major uses of this soil type are irrigated cropland and
+livestock grazing. The agricultural capability rating for 36A soils are 3S when irrigated, and 6S
+when not irrigated. This soil is high- value when irrigated. Approximately 37.6 percent of the
+subject parcel is made up of this soil type.
+58C, Gosney- Rock Outcrop- Deskamp complex, 0 to 15 percent slopes: This soil type is
+comprised of 50 percent Gosney soil and similar inclusions, 25 percent rock outcrop, 20
+percent Deskamp soil and similar inclusions, and 5 percent contrasting inclusions. Gosney
+soils are somewhat excessively drained with rapid permeability. The available water capacity
+is about 1 inch. Deskamp soils are somewhat excessively drained with rapid permeability.
+Available water capacity is about 3 inches. The major usefor this soil type is livestock grazing.
+The Gosney soils have ratings of 7e when unirrigated, and 7e when irrigated. The rock outcrop
+has a rating of 8, with or without irrigation. The Deskamp soils have ratings of 6e when
+unirrigated, and 4e when irrigated. Approximately 62.4 percent of the subject parcel is made
+up of this soil type.
+Further discussion regarding soils is found in Section III below.
+H. PUBLIC AND PRIVATE AGENCY COMMENTS: The Planning Division mailed notice of the
+application and notice of the public hearing to several agencies and the following comments
+were received:
+Bend Park & Recreation District
+Bend Park and Recreation District' s Comprehensive Plan calls for a park in the vicinity of the
+property addressed21588 Highway 20. TheDistrict would like to coordinate with the property
+Eastside Bend LLC 5
+owner as their plans progress for this area.
+Staff received an additional email comment from Sarah Bodo on behalf of Bend Parks and
+Recreation District on December 4, 2018. It was received before the close of the hearing and
+record. The Hearings Officer therefore includes the email in the record. In that email, Bend
+Parks and Rec encourages the applicant to consider park and trail connectivity to the west
+and notes that when development occurs, the property will be subject to Systems
+Development Charges.
+Central Oregon Irrigation District
+COID Facilities:
+The subject' s property has the A- 24 sub lateral that runs through it.
+o It has a 40' canal right of way along with a 20' road right of way along the
+west side of the canal
+o No structures are allowed within COID' s right of way
+o No crossings are allowed without first obtaining a crossing license
+COID Water Rights:
+None
+COID Guideline Statement
+None
+Deschutes County Building Division
+NOTICE: The Deschutes County Building Safety Divisions code mandates that Access, Egress,
+Setbacks, Fire & Life Safety, Fire Fighting Water Supplies, etc. must be specifically addressed
+during the appropriate plan review process with regard to any proposed structures and
+occupancies.
+Accordingly, all Building Code required items will be addressed, when a specific structure,
+occupancy, and type of construction is proposed and submitted for plan review.
+Deschutes County Transportation Planner
+Note: This section contains comments following a revised traffic study submitted on October
+26, 2018. Mr. Russell' s original comments can be found in the full record.
+I have read the revised traffic study for the roughly 59 -acre rezone from EFU>MUA- 10
+adjacent to the intersection of Hamby- Ward/ US 20. 1 agree with the report' s methodology,
+findings, and conclusions.
+I' ve cc'd Cody as the report assesses the crash history at Bear Creek/ Ward and recommends
+several countermeasures.
+The following agencies either had no comment or did not respond to the notice: Bend / La
+Pine School District, Bend City Engineering, Bend Fire Department, Bend Growth
+Management Department, Bend Planning Department, Bend Public Works Department, BLM
+Prineville District Deschutes Field Manager, Central Electric Cooperative, Department of
+Environmental Quality, Department of Land Conservation and Development — Bend Office,
+Eastside Bend LLC
+Department of Land Conservation and Development — Salem Office, Deputy State Fire
+Marshal, Deschutes County Assessor, Deschutes County Environmental Soils Division,
+Deschutes County Road Department, Pacific Power & Light, Watermaster — District 11, ODOT.
+1. PUBLIC COMMENTS: On June 20, 2018, the Planning Division mailed a Notice of Application
+to all property owners within 750 feet of the subject property.
+By letter dated June 27, 2018, Kendra Vogt submitted written comments. She expressed
+concern with use of the property to grow marijuana. She also expressed concern regarding
+traffic impact.
+On December 4, 2018, prior to the hearing, staff received an email from Sandy Mclunkin. Ms.
+Mclunkin expressed concern about developing multiple housing and apartments on the
+property. Specifically, she is concerned that development will increase the number of vehicle
+and bicycle accidents in the area. Road and traffic concerns are addressed below under the
+Transportation Planning Rule.
+J. NOTICE REQUIREMENT: The applicant complied with the posted notice requirements of
+Section 22.23. 030( B) of Deschutes County Code ( DCC) Title 22. The applicant submitted a
+Land Use Action Sign Affidavit, dated June 19, 2017, indicating the applicant posted notice of
+the land use action on the property on that same date. On November 6, 2018 the Planning
+Division mailed a Notice of Public Hearing to all property owners within 750 feet of the subject
+property and agencies. A Notice of Public Hearing was published in the Bend Bulletin on
+Sunday, November 11, 2018. Notice of the first evidentiary hearing was submitted to the
+Department of Land Conservation and Development on October 29, 2018.
+K. PUBLIC HEARING: On December 4, 2018, at 6: 00 pm the Hearings Officer conducted a public
+hearing. The HearingsOfficer readthe preliminary statement, including the normal disclosure
+regarding biases, conflict of interest, and ex parte contacts. There were no objections to the
+Hearings Officer conducting the hearing.
+L. REVIEW PERIOD: The application was submitted on June 14, 2018. The application was
+deemed incomplete on July 13, 2018. Upon submission of additional application materials,
+the application was deemed complete on October 26, 2018. According to Deschutes County
+Code 22. 20. 040( D), the review of the proposed quasi- judicial plan amendment and zone
+change application is not subject to the 150 -day review period.
+As a procedural note, the hearing on December 4, 2018, was the first of two required de novo
+hearings since this applicant' s request concerns land designated for agricultural use. DCC
+22. 28. 030( c). The second de novo hearing will be heard in front of the Board of County
+Commissioners.
+M. LAND USEHISTORY: Previous land use decisions for the property include the following:
+Tax Lot 1400
+Eastside Bend LLC 7
+LR -03- 12: Lot of Record verification confirming the property is a legal lot of record.
+LL -03- 20: Lot line adjustment with Tax Lot 1600. Tax Lot 1400 decreased in size from
+21. 18 acres to 20. 55 acres.
+Tax Lot 1600
+TU -84-40: Temporary Use Permit to place a manufactured home on a farm property.
+CU - 84- 86: Conditional Use Permit to allow the permanent placement of a
+manufactured home on a farm property.
+LM - 98- 142: Approval of Landscape Management Review to replace the manufactured
+home on the property.
+LL -03- 20: Lot line adjustment with Tax Lot 1400. Tax Lot 1600 increased in size from
+33. 77 to 34. 4 acres in size.
+247 - 17 -000184 - CE: Code enforcement case regarding garbage on the property, case
+closed.
+Tax Lot 1601
+No land use permits to date.
+III. CONCLUSIONS OF LAW
+TITLE 18 OF THE DESCHUTES COUNTY CODE — ZONING ORDINANCE
+Chapter 18. 136, Amendments
+Section 18. 136. 010, Amendments
+DCC Title 18 may be amended as set forth in DCC 18.136. The procedures for text or
+legislative map changesshall be as set forth in DCC22.12. A request by a property owner
+for a quasi- judicial map amendment shall be accomplished by filing an application on forms
+provided by the Planning Department and shall be subject to applicable procedures of DCC
+Title 22.
+FINDING: The applicant, also the property owner, has requested a quasi- judicial plan amendment
+and filed the applications for a plan amendment and zone change. The applicant has filed the required
+land use application forms for the proposal. The application will be reviewed utilizing the applicable
+procedures contained in Title 22 of the Deschutes County Code.
+Section 18. 136. 020, Rezoning Standards
+The applicant for a quasi- judicial rezoning must establish that the public interest is best
+served by rezoning the property. Factors to be demonstrated by the applicant are:
+A. That the change conforms with the Comprehensive Plan, and the change is consistent
+Eastside Bend LLC 8
+with the plan' s introductory statement and goals.
+FINDING: The applicant provided the following response in its burden of proof:
+Per prior Hearings Officers decisions { Powell/ Ramsey and Landholdings} for plan amendments
+and zone changes on EFU-zoned property, this paragraph establishes two requirements: ( 1) that
+the zone change conforms to the Comprehensive Plan and ( 2) that the change is consistent with
+the plan' s introductory statements and goals. Both requirements are addressed below:
+1. Conformance with the Comprehensive Plan: The applicant proposes a plan amendment
+to change the Comprehensive Plan designation for the subject property from
+Agriculture to Rural Residential Exception Area. The proposed rezoning from EFU-TRB
+to MUA- 10 will need to be consistent with its proposed new plan designation.
+2. Consistencywith the Plan's Introductory Statement and Goals: In previous decisions,
+the Hearings Officer found the introductory statements and goals are not approval
+criteria for the proposed plan amendment and zone change. However, the Hearings
+Officer in the Landholdings decision found that depending on the language, some plan
+provisions may apply and found the following amended comprehensive plan goals and
+policies require consideration and that other provisions of the plan do not apply as
+stated below in the Landholdings decision:
+Comprehensive plan statements, goals and policies typically are not intended to,
+and do not, constitute mandatory approval criteria for quasi-judicial/ and use
+permit applications. Save Our Skyline v. City of Bend, 48 Or LUBA 192 (2004). There,
+LUBA held:
+As intervenor correctly points out, local and statutory requirements that land use
+decisions be consistent with the comprehensive plan do not mean that all parts of
+the comprehensive plan necessarily are approval standards. [ Citations omitted.]
+Local governments and this Board have frequently considered the text and context
+of cited parts of the comprehensive plan and concluded that the alleged
+comprehensive plan standard was not an applicable approval standard. [ Citations
+omitted.] Even if the comprehensive plan includes provisions that can operate as
+approval standards, those standards are not necessarily relevant to all quasi-
+judicial land use permit applications. [ Citation omitted.] Moreover, even if a plan
+provision is a relevant standard that must be considered, the plan provision might
+not constitute a separate mandatory approval criterion, in the sense that it must
+be separately satisfied, along with any other mandatory approval criteria, before
+the application can be approved. Instead, that plan provision, even if it constitutes
+a relevant standard, may represent a required consideration that must be balanced
+with other relevant considerations. [ Citations omitted.]'
+LUBA went on to hold in Save Our Skyline that it is appropriate to ' consider first whether
+the comprehensive plan itself expressly assigns particular role to some or all of the
+Eastside Bend LLC 9
+plan' s goals and policies.' Section 23. 08. 020 of the county' s comprehensive plan
+provides as follows:
+Thepurpose of the ComprehensivePlanfor Deschutescounty is not to provide a site-
+specific identification of the appropriate land uses which may take place on a particular
+Piece of land but rather it is to consider the significant factors which affect or are affects
+by development in the county and provide a general guide to the various decisionwhich
+must be made to promote the greatest efficiency and equity possible, which managing
+the continuing growth and change of the area. Part of that process is identification of
+an appropriate land use plan which is then interpreted to make decision about specific
+sites ( most often in zoning and subdivision administration) but the plan must also
+consider the sociological, economic and environmental consequences of various
+actions and provide guidelines and policies for activities which may have effects beyond
+physical changes of the land. ( emphases added by applicant)
+The Hearings Officer previously found that the above -underscored language strongly
+suggests the county' s plan statements, goals and policies are not intended to establish
+approval standards for quasi- judicial land use permit applications.
+In Bothman v. City of Eugene, 51 Or LUBA 426 ( 2006), LUBAfound it appropriate also
+to review the language of specific plan policies to determine whether and to what
+extent they may in fact establish decisional standards. The policies at issue in that case
+included those ranging from aspirational statements to planning directives to the city
+to policies with language providing ' guidance for decision- making' with respect to
+specific rezoning proposals. In Bothman LUBA concluded the planning commission
+erred in not considering in a zone change proceeding a plan policy requiring the city to
+r]ecognize the existing general office and commercial uses located * * * [ in the
+geographic area including the subject property] and discouragefuture rezonings of
+these properties.' LUBA held that:
+even where a plan provision might not constitute an independently applicable
+mandatory approval criterion, it may nonetheless represent a relevant and
+necessary consideration that must be reviewed and balanced with other relevant
+considerations, pursuant to ordinance provisions that require *" consistency with
+applicable plan provision.' ( Emphasis added.)
+The county' s comprehensive plan includes a large number of goals and policies. The
+applicant' s burden of proof addresses goals for rural development, economy,
+transportation, public facilities, recreation, energy, natural hazards, destination
+resorts, open spaces, fish and wildlife, and forest lands. The Hearings Officer finds
+these goals are aspirational in nature and therefore are not intended to create
+decision standards for the proposed zone change. "
+Hearings Officer Karen Green adhered to these findings in the Powell/ Ramsey decision
+file nos. PA-14-2/ ZC-14-2), and found the above referenced introductory statements
+and goals are not approval criteria for the proposed plan amendment and zone change.
+This Hearings Officer also adheres to the above findings herein. Nevertheless,
+Eastside Bend LLC 10
+depending upon their language, some plan provisions may require " consideration"
+even if they are not applicable approval criteria. Save Our Skyline v. City of Bend, 48 Or
+LUBA 192, 209 ( 2004). Ifind that the following amended comprehensive plan goals and
+policies require such consideration, and that other provisions of the plan do not apply: "
+The comprehensive plan goals and polices that the Landholdings Hearings Officer
+found to apply include the following...
+The applicant utilizes the analysis provided in prior hearings officers decisions to determine and
+respond to only the goals and policies in the County' s Comprehensive Plan that apply. Those goals
+and policies are listed in this Decision. The Hearings Officer agrees with the applicant' s analysis and
+finds this provision to be met.
+B. That the change in classification for the subject property is consistent with the purpose
+and intent of the proposed zone classification.
+FINDING: The applicant provided the following response in the burden of proof:
+The applicant is proposing to change the zone classification from EFU to MUA- 10. Approval of
+the application is consistent with the purpose of the MUA- 10 zoning district, which stated in
+DCC 18. 32. 010 as follows:
+The purposes of the Multiple Use Agricultural Zone are to preserve the rural character of
+various areas of the County while permitting development consistent with that character and
+with the capacity of the natural resources of the area; to preserve and maintain agricultural
+lands not suited to full- time commercial farming for diversified or part- time agricultural uses;
+to conserve forest lands for forest uses; to conserve open spaces and protect natural and scenic
+resources; to maintain and improve the quality of the air, water and land resources of the
+County; to establish standards and proceduresfor the use of those lands designated unsuitable
+for intense development by the Comprehensive Plan, and to provide for an orderly and efficient
+transition from rural to urban land use."
+The subject property is not suited to full- time commercial farming as discussed in the findings
+above. The MUA- 10 zone will allow property owners to engage in hobby farming. The low-
+density of development allowed by the MUA- 10 zone will conserve open spaces and protect
+natural and scenic resources. In the Landholding' s case, the Hearings Officer found:
+Ifind that the proposed change in zoning classification from EFU is consistent with the
+purpose and intent of the MUA- 10 zone. Specifically, the MUA- 10 zone is intended to
+preserve the rural character of various areas of the County while permitting
+development consistent with that character and with the capacity of the natural
+resources of the area. Approval of the proposed rezone to MUA- 10 would permit
+applications for low- density development, which will comprise a transition zone
+between EFU rural zoning, primarily to the east and City zoning to the west.
+Eastside Bend LLC 11
+The maximum density of the approximately 60 -acre property if developed with a cluster
+development under Title 18 is 11 lots. This low density will preserve open space, allow owners
+to engage in hobby farming, if desired, and preserve natural and scenic resources and maintain
+or improved the quality of air, water, and land resources. The MUA- 10 zoning provides a proper
+transition zone from City, to rural zoning to EFUzoning.
+The Hearings Officer finds the applicant has demonstrated the change in classification is consistent
+with the purpose and intent of the MUA- 10 Zone. This provision is met.
+C. That changing the zoning will presently serve the public health, safety and welfare
+considering the following factors:
+1. The availability and efficiency of providing necessarypublic services and facilities.
+FINDING: Although there are no current plans to develop the property, the criterion specifies if the
+zone change will presently serve public health, safety, and welfare. The applicant provides the
+following response in the burden of proof:
+Necessarypublic facilities and servicesare available to serve the subject property and include
+will -serve letters from PacifiCorp, Central Electric Cooperative, and Avion Water Company, Inc.,
+as well as logs in the area show that electric power and water services are available to serve
+the property. Exhibits 10 and 12.
+The subject property adjoins four major roadways: Highway 20, Hamby Road and Ward Road,
+and Bear Creek Road. The impact of rezoning the subject property will have minimal impacts to
+the road system. MUA- 10 zoning and a standard subdivision would allow the creation of up to
+six residential lots. If developed with a cluster development, the property would generate up to
+55 additional daily trips. The existing road network is available to serve the use. The traffic
+report by Transight Consultingfound that the proposed rezone doesnot change the functional
+classification of Hamby Road - Ward Road - or result in levelsof travel that would beinconsistent
+with the roadway function and concluded that a " significant affect does not occur with the
+proposed rezone."
+The property receives police servicesfrom the DeschutesCounty Sheriff. The property is in a
+rural fire protection district and the nearest fire station is nearby. It is efficient to provide
+necessaryservices to the property because the property is already served by these service
+providers and the property is closeto the City limits of Bendand adjacent to large tracts of land
+zoned MUA- 10 that are extensively developed with rural and urban density residences.
+Neighboring properties contain residential and commercial uses, which have water service from a
+quasi - municipal source or wells, on- site sewage disposal systems, electrical service, telephone
+services, etc. There are no known deficiencies in public services or facilities that would negatively
+impact public health, safety, or welfare. Prior to development of the property, the applicant would
+be required to comply with the applicable requirements of the Deschutes County Code, including
+possible land use permit, building permit, and sewage disposal permit processes. Through these
+Eastside Bend LLC 12
+247 - 18 -000485 - PA
+development review processes, assurance of adequate public services and facilities will be verified.
+The Hearings Officer finds this provision is met.
+2. The impacts on surrounding land use will be consistent with the specific goals and
+policies contained within the Comprehensive Plan.
+FINDING: The applicant reviews potential impacts on surrounding land uses in their response to each
+individual policy and goal item. Further analysisis detailed below.
+D. That there has been a change in circumstances since the property was last zoned, or a
+mistake was made in the zoning of the property in question.
+FINDING: The applicant is proposing to rezone the property from EFU to MUA- 10 and redesignate
+the property from Agriculture to Rural Residential Exception Area, as the property was improperly
+designated as farmland. The applicant has provided the following response in the burden of proof:
+1. Mistake: The EFU zoning designation was likely based on the best available soils data that
+the County had at the time in the County in the late 1970's when the comprehensiveplan and
+map were adopted.
+2. Change in Circumstances: There clearly has been a change in circumstances since the
+property was last zoned in the 1970s:
+Soils: New soils data provided in the Borine soils report shows the property does not have
+agricultural soils.
+Traffic: Increased traffic along the road systems fronting and bisecting the subject property.
+Highway 20, Bear Creek Road, Hamby Road, and Ward Road have all experienced an
+increase in traffic over the past 30 years, making it increasingly difficult to operate farm
+equipment and graze cattle.
+Farming economics in Central Oregon have significantly changed; the evidence is clear that
+it is difficult to make a profit in farming, particularly on smaller parcels such as the subject
+property.
+Viability of farm uses are not viable on the property or on other area properties and, as a
+result, many property owners are choosingto forego irrigating their properties.
+Decline in farm operations have steadily declined in Deschutes County between 2007 and
+2012, with only a small fraction of farm operators achieving a net profit from farming in
+2011. ( Exhibit 13).
+Encroaching development in the City of Bend to the west of the subject property has brought
+both traffic and higher intensity commercial uses to the area.
+Eastside Bend LLC 13
+The above analysis from the applicant' s burden of proof regarding traffic, farming economics, viability
+of farm uses, decline in farm operations, and encroaching development demonstrates that there has
+been a change in circumstances. Additionally, the Borine and Rabesoil studies (as discussedbelow)
+show and otherwise confirm that the subject property does not have agricultural soils. For the
+reasons described by the applicant, the Hearings Officer finds that there was a mistake made when
+the property was zoned and that a change in circumstances hasoccurred sincethe property was last
+zoned.
+TITLE 23 OF THE DESCHUTES COUNTY CODE — COMPREHENSIVE PLAN
+Chapter 2, Resource Management
+Section 2. 2, Agricultural Lands Policies
+Goal 1, Preserve and maintain agricultural lands and the agricultural industry.
+FINDING: The applicant is pursuing a plan amendment and zone change on the basis that the subject
+property does not constitute " agricultural lands", and therefore, the subject lands are not necessary
+to preserve or maintain as such. The applicant states the following in the burden of proof:
+In the Landholdings decision ( and Powell/ Ramsey decision) the Hearings Officer found that this
+goal is an aspirational goal and not an approval criterion...
+The Borine soils report and the NRCSdata show the subject property consist[ s] predominantly
+63. 7%) of Class7 and 8 non-agricultural soils. According to Mr. Borine, these soils havesevere
+limitations for farm use as well as poor soil fertility, shall and very shallow soils, surface
+stoniness, low available water capacity, and limited availability of livestock forage. In addition,
+the property is isolatedfrom farmlands being surrounded by high traffic roadways near the City
+of Bend, including Highway 20, Bear Creek Road, Hamby, and Ward Roads, and other non-
+agricultural and unproductive agricultural lands.
+After submitting its burden of proof, the applicant submitted the Rabestudy for Tax Lot 1400. Inthat
+study, Mr. Rabenotes the entire tax lot to be within map unit 58C (Gosney, Rockoutcrop, Deskamp
+complex). Gosneysoils are Class7, rock outcrops are Class8, and Deskampare Class6. Accordingto
+Mr. Rabe, map unit 58C is expected to consist of about 75% Class 7 and 8 soils.
+Mr. Rabe's site specific study determined the soils to be " generally consistent" with the NRCSsoil
+survey. Rabe study, pg. 3. He found that of the 20. 33 acres, 11.41 ( 56%) are Class 7 and Class 8 soils
+in map units 57B and 109. The remaining 8.92 acres ( 44%) are Class 6 soils in map unit 368. In sum,
+Mr. Rabe determined that since 56% of the soils are Class 7 and 8, the site is not considered
+Agricultural Land. Rabe study, pg. 4 and 6.
+While the Hearings Officer agrees with the applicant' s general conclusion relating to this policy ( as
+quoted above), it is not clear, in light of the Rabe study, that the above quoted figures are accurate.
+Specifically, the HearingsOfficer is not sure how the " 63.7%" was calculated.
+Eastside Bend LLC 14
+The Hearings Officer notes, though, that the Borine study is substantial evidence that tax lots 1600
+and 1601 are comprised of 58% ( 22. 4) Class 7 and 8 soils ( see Table 3, pg. 5, Borine study), and the
+Rabe study is substantial evidence that tax lot 1400 is comprised of 56% ( 11. 4 acres) Class 7 and Class
+8 soils ( see Rabe study, pg. 4). Thus, of the 59. 2 acres that make up the subject property, 57% ( 33. 8
+acres) are Class 7 and Class 8 soils.
+In addition to the soil class, both the Rabe and Borine studies describe the severe limitations for farm
+use, including poor soil fertility and limited livestock forage. Additionally, the subject property is
+isolated from farmlands and surrounded by high traffic roadways.
+For these reasons, and as described in more detail below, the subject property is not agricultural land
+and does not need to be preserved or maintained as such. The proposed plan amendment and zone
+change are consistent with this policy.
+Policy 2.2.2 Exclusive Farm Use sub -zones shall remain as described in the 1992 Farm
+Study and shown in the table below, unless adequate legal findings for amending the
+sub -zones are adopted or an individual parcel is rezoned as allowed by Policy 2.2.3.
+FINDING: The applicant is not asking to amend the subzone that applies to the subject property;
+rather, the applicant is seeking a change under Policy 2.2.3 and has provided evidence to support
+rezoning the subject property to MUA- 10.
+Policy 2.2.3 Allow comprehensive plan and zoning map amendments for individual EFU
+parcels as allowed by State Statute, Oregon Administrative Rules and this
+Comprehensive Plan.
+FINDING: The applicant is seeking approval of a plan amendment and zone change to redesignate
+and rezone the property from Agricultural to Rural Residential Exception Area. The applicant is not
+seeking an exception to Goal 3 — Agricultural Lands, but rather is attempting to demonstrate that the
+subject property does not meet the state definition of " Agricultural Land", as defined in Statewide
+Planning Goal 3 (OAR 660- 033- 0020).
+DeschutesCounty hasallowed this approach in previous HearingsOfficer's decisions including Porter
+Kelly BurnsLandholdings (247-16-000317-ZC/318-PA), Department of State Lands (PA-11-7/ZC-11-2),
+Pagel ( PA-08- 1/ ZC-08- 1), and the Daniels Group ( PA -08- 1, ZC-08- 1). Additionally, the Land Use Board
+of Appeals ( LUBA) allowed this approach in Wetherell v. Douglas County, 52 Or LUBA 677 ( 2006).
+In Wetherell v. Douglas County, LUBA states at pp. 678- 679:
+As we explained in DLCDv. Klamath County, 16 Or LUBA 817, 820 ( 1988), there are two ways a
+county canjustify a decision to allow nonresource useof land previously designated and zoned
+for farm use or forest uses. One is to take an exception to Goal 3 ( Agricultural Lands) and Goal
+4 ( Forest Lands). The other is to adopt findings which demonstrate the land does not qualify
+either as forest lands or agricultural lands under the statewide planning goals. When a county
+pursues the latter option, it must demonstrate that despite the prior resource plan and zoning
+Eastside Bend LLC 15
+247 - 18 -000485 - PA
+designation, neither Goal or Goal applies to the property. Caine v. Tillamook County, 25 Or
+LUBA 209, 218 ( 1993), DLCD v. Josephine County, 18 Or LUBA 798, 802 ( 1990).
+The facts presented by the applicant in the burden of proof for the subject application are sufficiently
+similar to those in the Wetherall decisions and in the aforementioned Deschutes County plan
+amendment and zone change applications. Therefore, the Hearings Officer agrees the applicant has
+the potential to prove the property is not agricultural land and does not require an exception to Goal
+3 under state law.
+Policy 2. 2. 4 Develop comprehensive policy criteria and code to provide clarity on when
+and how EFU parcels can be converted to other designations.
+FINDING: This plan policy provides direction to Deschutes County to develop new policies to provide
+clarity when EFUparcelscan be converted to other designations. Thus, the HearingsOfficer finds this
+does policy does not apply to a specific property owner or applicant. The Hearings Officer concurs,
+though, with the County' s previous determinations in plan amendment and zone change applications
+and finds the proposal is consistent with this policy.
+Goal 3, Ensure Exclusive Farm Use policies, classifications and codes are consistent with local
+and emerging agricultural conditions and markets.
+Policy 2.2.13 Identify and retain accurately designated agricultural lands.
+FINDING: This plan policy makes it clear that it is County' s policy to identify and retain agricultural
+lands that are accurately designated. The applicant proposes that the subject property was not
+accurately designated as demonstrated by the soil study, NRCSsoil data, and the applicant's burden
+of proof. Further discussion on the soil analysis provided by the analysis is detailed under the OAR
+Division 33 criteria below.
+Section 2. 5, Water Resources Policies
+Goal 6, Coordinate land use and water policies.
+Policy 2.5.24 Ensure water impacts are reviewed and, if necessary, addressed for
+significant land uses or developments.
+FINDING: The applicant is not proposing a specific development proposal at this time. Therefore, the
+applicant is not required to demonstrate the water impacts associated with development. Rather,
+the applicant will be required to address this criterion during development of the subject property,
+which would be reviewed under any necessary land use process for the site ( e.g. conditional use
+permit, tentative plat). This criterion does not apply.
+Section 2. 7, Open Spaces, Scenic Views and Sites
+Goal 1, Coordinate with property owners to ensure protection of significant open spaces
+and scenic views and sites.
+Eastside Bend LLC 16
+Policy 2. 7.3 Support efforts to identify and protect significant open spaces and visually
+important areas including those that provide a visual separation between communities
+such as the open spaces of Bend and Redmond or lands that are visually prominent.
+Policy 2.7.5 Encourage new development to be sensitive to scenic view and sites.
+FINDING: The applicant addressed this criterion in their burden of proof, stating:
+Themajority of the property has an overlay of LandscapeManagement CombiningZone (LM).
+The applicable Landscape Management road as identified in Section 5. 5, Goal Inventory, Open
+Spaces, Scenic Views and Sites of the Comprehensive Plan, is " Highway 20 east to the County
+Line" which is about 25 miles. The LM area extends Xmile on either side from the centerline of
+Highway 20. Thus, as shown on page 3 of Exhibit 6 of the Burden of Proof, the majority of the
+subject properties are located in the LM zone. Chapter 18. 84 of Deschutes County Code (DCC) is
+the implementing code that addresses the Landscape Management Combining Zone ( LM). Per
+Section 18. 84. 050, Use Limitations, subsection ( A) LM review is not triggered until a use or
+structure requires a building permit or an agriculture structure... The proposed plan amendment
+and zone change does not contain any changes to the existing LM overly and will not trigger LM
+review as no development is proposed at this time. Any future development will be subject to
+LM review and be sensitive to the scenic views as seen from Highway 20.
+If the plan amendment and zone change were approved, the applicant would likely develop
+the property for residential purposes and cluster the homes in one area leaving the remainder
+of the property in " open space" and undeveloped.
+The Landscape Management ( LM) Combining Zone associated with Highway 20 extends over the
+entirety of the subject property. The applicant' s response demonstrates sensitivity to the potential
+impact on the scenic corridor from development scenarios. As no actual development of the property
+is proposed at this time, though, the Hearings Officer finds these policies do not apply to the subject
+proposal.
+Chapter 3, Rural Growth
+Section 3. 2, Rural Development
+Growth Potential
+As of 2010, the strong population growth of the last decade in Deschutes County was
+thought to have leveled off due to the economic recession. Besides flatter growth patterns,
+changes to State regulations opened up additional opportunities for new rural
+development. Thefollowing list identifies general categories for creating new residential
+lots, all of which are subject to specific State regulations.
+Some farm lands with poor soils that are adjacent to rural residential uses can be
+rezoned as rural residential
+Eastside Bend LLC 17
+FINDING: This section of the Comprehensive Plan does not contain goals or policies but does provide
+the guidance above. In response to this section, the applicant' s burden of proof provides the
+following:
+In the Landholdings case, the Hearings Officer found that the " County' s Comprehensive Plan
+and the County Codeprovisions anticipate the needfor additional rural residential lots as the
+region continues to grow. The Plan and the Code provide for a mechanism to rezone farm lands
+with poor soils to a rural residential zoning designation". The applicant has demonstrated that
+the subject property is comprised of poor shallow rocky soils, is adjacent to rural residential
+property located west of tax lots 1600 and 1601 and south of Bear Creek Road, and partially
+isolated by State and County road systems serving Bend. Rezoning the subject property to MUA-
+10 is consistent with this criterion, as it will provide for an orderly and efficient transition from
+the Bend Urban Growth Boundary to rural and agricultural land.
+The Hearings Officer notes that the MUA- 10 Zone is a rural residential zone and as discussed in the
+Findings of Fact above, there are many adjacent properties to the south and west that are zoned
+MUA- 10 or RR -10. Additionally, many properties to the west are within urban residential zones within
+the city limits of Bend. Other MUA-10 and RR -10 zoned properties are located farther south, east,
+and north of the subject property.
+The above policy notes that lands with poor soil can be rezoned to rural residential. The two soil
+studies submitted by the applicant demonstrate that the three tax lots that are the subject of this
+application all have poor soils. The Hearings Officer therefore finds that this policy applies to the
+subject property and that it should be rezoned to rural residential (MUA-10).
+Section 3. 3, Rural Housing
+Rural Residential Exception Areas
+In Deschutes County most rural lands are designated for farms, forests or other resources
+and protected as described in the Resource Management chapter of this Plan. The majority
+of the land not recognized as resource lands or Unincorporated Community is designated
+Rural Residential Exception Area. The County had to follow a process under Statewide Goal
+2 to explain why these lands did not warrant farm or forest zoning. The major determinant
+was that many of these lands were platted for residential use before Statewide Planning
+was adopted.
+In 1979 the County assessed that there were over 17, 000 undeveloped Rural Residential
+Exception Area parcels, enough to meet anticipated demand for new rural housing. As of
+2010 any new Rural Residential Exception Areas need to be justified through taking
+exceptions to farm, forest, public facilities and services and urbanization regulations, and
+follow guidelines set out in the OAR.
+FINDING: The applicant provided the following response to this provision in the burden of proof:
+Eastside Bend LLC 18
+247 - 18 -000485 - PA
+The Hearings Officer in the Landholdings decision found that the language set forth above in
+Section 3.3 is " background text and not a plan policy or directive" as stated below:
+The Hearings Officer finds that the language set forth above under Section 3.3 of the County
+Comprehensive Plan is background text and not a plan policy or directive. As set forth in the
+findings above, incorporated herein by this reference, no goal exception is required for the
+subject applications because the Hearings Officer has made findings that the land does not
+qualify as forest lands or agricultural lands under the statewide planning goal. The Hearings
+Officer relies in part on the Hearings Officer' s decision for PA -11 -171ZC-11 -2 ( Daniels Group)
+concerning this language of Section 3.3 in which, Hearings Officer Kenneth Helm, states at page
+11 of the decision:
+To the extent that the quoted language above represents a policy, it appears to be directed
+at a fundamentally different situation than the one presented in this application. The quoted
+language addresses conversions of ' form" or ' forest" land to rural residential use. In those
+cases, the language indicates that some type of exception under state statute and DLCD
+rules will be required in order to support a change in Comprehensive Plan designation. See
+ORS 197. 732 and OAR 660, Division 004. That is not what this application seeks to do. The
+findings below explain that the applicant has been successful in demonstrating that the
+subject properly is composed predominantly of nonagricultural soil types. Therefore, it is
+permissible to conclude that the properly is not ' farmland" as defined under state statute,
+DLCD rules, and that it is not correctly zoned for exclusive farm use. As such, the application
+does not seek to convert " agricultural/ and" to rural residential use. If the land is
+demonstrated to not be composed of agricultural soils, then there is no " exception" to be
+taken. There is no reason that the applicant should be made to demonstrate a reasons,
+developed or committed exception under state law because the subject property is not
+composed of the type of preferred land which the exceptions process was designed to
+protect. For all these reasons, the Hearings Officer concludes that the applicant is not
+required to obtain an exception to Goal 3.
+There is one additional related matter which warrants discussion in connection with this
+issue. It appears that part of Staff' s hesitation and caution on the issue of whether an
+exception might be required is rooted in the title of the Comprehensive Plan designation that
+would ultimately apply to the subject property - which is " Rural Residential Exception Area."
+There appears to be seven countywide Comprehensive Plan designations as identified in the
+plan itself. These include " Agriculture, Airport Development, Destination Resort Combining
+Zone, Forest, Open Space and Conservation, Rural Residential Exception Area, and Surface
+Mining." Of the seven designations, only rural Residential Exception Area provides for
+associated zoning that will allow rural residential development. As demonstrated by
+reference to the Pagel decision discussed above, there appears to be instances in which rural
+residential zoning has been applied without the underlying land necessarily being identified
+as an exception area. This makes the title of the " Rural Residential Exception Area"
+designation confusing and in some cases inaccurate, because no exception is associated with
+the underlying land in question. However, it is understandable that since this designation is
+the only one that will allow rural residential development, that it has become a catchall
+designation for land types that are authorized for rural residential zoning. That is the case
+Eastside Bend LLC 19
+with the current proposal, and again, for the some reason set forth in the Hearings Officer
+Green' s decision in Pagel, 1cannot find a reason why the County would be prohibited from
+this practice. ( emphasis added). I find that Deschutes County has interpreted the RREAplan
+designation as the property " catchall" designation for non -resource land. As a result, the
+Hearings Officer finds that the RREA plan designation is the appropriate plan designation
+for the subject property.
+As stated above, the Hearings Officer finds that the language set forth above under Section 3.3
+of the CountyComprehensivePlanis backgroundtext and not a plan policy or directive. In
+addition, the County has interpreted the RREAplan designation as the proper " catchall"
+designation for non - resource land and therefore, the RREA plan designation is the appropriate
+plan designation for the subject property.
+The Hearings Officer agrees with the above quoted language that Section 3.3 is not a policy and does
+not require an exception to the applicable Statewide Planning Goal 3. Therefore, the RREA plan
+designation is the appropriate plan designation to apply to the subject property.
+Section 3. 7, Transportation
+Appendix C — Transportation System Plan
+ARTERIAL AND COLLECTOR ROAD PLAN
+Goal 4. Establish a transportation system, supportive of a geographically distributed and
+diversified economic base, while also providing a safe, efficient network for residential
+mobility and tourism.
+Policy 4.4 DeschutesCountyshall consider roadway function, classification and capacity
+as criteria for plan map amendments and zone changes. This shall assure that proposed
+land uses do not exceed the planned capacity of the transportation system.
+FINDING: This policy applies to the County and advises it to consider the roadway function,
+classification and capacity ascriteria for plan amendments and zonechanges. The County can comply
+with this direction by determining compliance with the Transportation System Planning Rule (TPR),
+as described below.
+OREGON ADMINISTRATIVE RULES CHAPTER 660, LAND CONSERVATION AND DEVELOPMENT
+DEPARTMENT
+Division 6, Goal 4 — Forest Lands
+OAR 660- 006- 0005, Definitions
+7) " Forest lands" as defined in Goal 4 are those lands acknowledged as forest lands, or,
+in the case of a plan amendment, forest lands shall include:
+a) Lands that are suitable for commercial forest uses, including adjacent or nearby
+lands which are necessary to permit forest operations or practices; and
+Eastside Bend LLC 20
+b) Other forested lands that maintain soil, air, water and fish and wildlife
+resources.
+FINDING: The subject property is not zoned for forest lands, nor are any of the properties within a
+two- mile radius. The property does not contain merchantable tree speciesand there is no evidence
+in the record that the property has been employed for forestry useshistorically. None of the soil units
+comprising the parcel are rated for forest usesaccordingto NRCSdata. The property does not qualify
+as forest land.
+Division 33 - Agricultural Lands & Statewide Planning Goal 3 - Agricultural Lands;
+OAR 660- 015- 0000( 3)
+To preserve and maintain agricultural lands.
+Agricultural lands shall be preserved and maintained for farm use, consistent with existing
+and future needs for agricultural products, forest and open space and with the state' s
+agricultural land use policy expressed in ORS215. 243 and 215. 700.
+FINDING: Goal 3 continues on to define " Agricultural Land", which is repeated in OAR 660- 033-
+0020( 1). The Hearings Officer makes findings on this topic below and incorporates those findings
+herein by reference.
+OAR 660- 033- 0020, Definitions
+For purposes of this division, the definitions in ORS 197. 015, the Statewide Planning Goals,
+and OAR Chapter 660 shall apply. In addition, the following definitions shall apply:
+1)( a) " Agricultural Land" as defined in Goal 3 includes:
+A) Lands classified by the U.S. Natural Resources Conservation Service ( NRCS) as
+predominantly Class I-IV soils in Western Oregon and 1-1/I soils in Eastern
+Oregon';
+FINDING: The applicant does not request an exception to Goal 3 because it believes that the subject
+property does meet the definition of " Agricultural Land". In support, the applicant offers the
+following:
+The subject property is not properly classified as Agricultural Land and does not merit protection
+under Goal 3. The soils are predominately Class 7 and 8 soils as shown by the more detailed
+soilsreport prepared by soilsscientist RogerBorine, which State law, OAR660-033-0030, allows
+the County to rely onfor more accurate soils information. Mr. Borinefound that approximately
+58% of the soils on TaxLots 1600 and 1601 (40 acres) is Land Capability Class7 and 8 soils that
+1 OAR 660- 033- 0020( 5): " Eastern Oregon" means that portion of the state lying east of a line beginning at the
+intersectionof the northern boundary of theState of Oregonand the westernboundaryof WascoCounty, then south
+along the westernboundariesof the Countiesof Wasco, Jefferson, Deschutesand Klamath to the southernboundary
+of the State of Oregon.
+Eastside Bend LLC 21
+247 - 18 -000485 - PA
+have severe limitations for farm use. He also found the site to have poor soil fertility, shallow
+and very shallow soils, surface stoniness, low available water capacity, and limited availability
+of livestockforage, which are considerationsfor the determination for suitability for farm use.
+The Hearings Officer has reviewed Borine study and agrees with the applicant' s representation of the
+data for tax lots 1600 and 1601. The Hearings Officer has also reviewed the Rabe study. The Rabe
+study demonstrates that tax lot 1400 is comprised predominantly of Class7 and 8 soilsand thus does
+not meet the definition of " Agricultural Land". As noted previously, 57% of the subject property is
+Class 7 and 8 soil, so it does not meet the definition of " Agricultural Land" under OAR 660- 033-
+0020( 1)( a)( A) because it is not predominantly Class I -VI soils.
+8) Land in other soil classes that is suitable for farm use as defined in ORS
+215. 203( 2)( a), taking into consideration soil fertility, suitability for grazing,
+climatic conditions; existing and future availability of water for farm irrigation
+purposes; existing land use patterns; technological and energy inputs required;
+and accepted farming practices, and
+FINDING: The applicant' s basis for not requesting an exception to Goal 3 is based on the proposal
+that the subject property does not meet the definition of " Agricultural Land". The applicant provides
+the following analysis of this determination in the burden of proof.
+This part of the definition of " Agricultural Land" requires the County to consider whether the
+Class 7 and 8 soils found on the subject property are suitable for farm use despite their Class 7
+and 8 classification. The Oregon Supreme Court has determined that the term ' farm use" as
+used in this rule and Goal 3 means the current employment of land for the primary purpose of
+obtaining a profit in money through specific farming - related endeavors. The costs of engaging
+inform use are relevant to determining whether farm activities are profitable and this is afactor
+in determining whether land is agricultural land. Wetherell v. Douglas County, 342 Or 666, 160
+P3d 614 ( 2007).
+According to Deschutes County records, a portion of the property on tax lot 1600 at one time
+was irrigated and used to grow hay crop and grazing purposes. Central Oregon Irrigation
+District' s ( COID) research shows the property ( tax lot 1600) had 20 acres of appurtenant
+irrigation that was conveyed to COID in 2012 and later removed via a water transfer with
+Oregon Water Resources Department in 2014. COID' s records also show that tax lot 1601 had
+2.0 acres of appurtenant irrigation that was conveyed to COID in 2006 and later removed in
+2008. Tax lot 1400 had 9.5 acres of water rights that were transferred in 1997. The extremely
+poorsoilsfoundon thepropertypreventit from providingsufficientfeedfor livestockfor
+dryland grazing. The dry climate, the proximity to US Highway 20 and area development
+prevent grazing from being a viable or potentially profitable use of the property. The soils are
+so poor that they would not support the production of cropsfor a profit, assuming irrigation
+water rights could be obtained for that purpose.
+The primary agricultural use conducted on properties with poor soils is grazing cattle. Given the
+high cost of irrigating and maintaining the property as pasture or cropland ( high labor costs,
+labor- intensive, high cost of irrigation equipment and electricity, high cost of fertilizer, etc.), dry
+Eastside Bend LLC 22
+land grazing is the accepted farm use of poor soils in Deschutes County. This use can be
+conducted until the native vegetation is removed by grazing ( see the discussion of the suitability
+of the property for grazing, below). When assessingthe potential incomefrom dry land grazing,
+DeschutesCounty uses a formula and assumptions developed by the OSUExtension Service.
+Thisformula is usedby the Countyto decide whether EFU-zoned land is generally unsuitablefor
+farm use.
+One AUM is the equivalent to the forage required for a 1000 lb. cow and calf to graze for
+30 days ( 900 pounds of forage).
+On good quality forage, an animal unit will gain 2 pounds per day.
+Two animal units will eat as much in one month as one animal unit will eat in two months.
+Forage production on dry land is not continuous. Once the forage is eaten, it generally
+will not grow back until the following spring.
+An average market price for beef is $1.20 per pound.
+Based upon these assumptions, the value of beef production on the entire subject property can
+be calculated using the following formula:
+30 days x 2#/ day/ acre = 60.0 lbs. Beef/ acre
+1 acre per AUM)
+60.0 lbs. Beef/ acre x 59. 24 acres x $ 1.20/ Ib. = $ 4, 265. 28 per year gross income
+Thus, the total gross beef production potential for the subject property would be approximately
+4,265. 28 annually. This figure represents gross income and does not take into account real
+property taxes, fencing costs, land preparation, purchase costs of livestock, veterinary costs, or
+any other costsof production, which would exceedincome. In addition, as the subject property
+abuts a busystate highway and road intersections, the costfor liability insurance due to the risk
+of livestock escapeand the potential for a vehicle/livestock accident, would likely be expensive.
+A review of the seven considerations listed in the administrative rule, below, shows why the
+poor soils found on the subject property are not suitable for farm use that can be expected to
+be profitable:
+Soil Fertility:
+Mr. Borine found the soil fertility in terms of organic matter to be " extremely low to non-
+measureable and clay content is lessthan five percent. " In addition, Mr. Borinestates that high
+levels of fertilization are required for a grass crop to be produced and due to the " very low
+Cation ExchangeCapacity" which is important becauseit provides a reservoir of nutrients for
+plant uptake, the fertilization is " readily leached out of the soil by irrigation and precipitation"
+and ends up on the surface or in the groundwater. In addition, lime is needed as a soil
+amendment to raise the soil pH to an acceptable range for plant nutrient uptake. He concludes
+this section of soils fertility by saying:
+To maintain a minimum level of essential nutrients for proper crop growth multiple yearly
+applications of very high rates of fertilizer and soil amendments are required. Without soil
+Eastside Bend LLC 23
+sampling, lab analyses, proper fertilization and soil amendments these soils are nonproductive
+and infertile. [ Emphasis added by applicant.]
+The fact that the soils are infertile unless made fertile through artificial means supports the
+applicant' s position that the Class 7 soils and the entire property is not suitable for farm use.
+The costs to purchase and apply fertilizer and soil amendments and the costs to sample and test
+soils are a part of the reason why it is not profitable to farm the subject property.
+Unsuitability for Grazing:
+Mr. Borine also reviewed the suitability for grazing on the property and concluded:
+Soil, vegetation, climate and landscape are determinant factors for the suitability for grazing of
+livestock. Limitations that are recognized on this site include very low available water for plant
+growth. Restricted depth limits seeding only to drought tolerant species, and rock outcrop limits
+the areassuitable for grazing. The cold climate and soil temperatures delay growth of forage
+and low water retention in the soil and no summer moisture shortens the growing season.
+Reestablishmentof the native vegetation is likely impossibledue to the pumice ashsurface layer
+and past land alterations. Restricted depth limits seeding only to drought tolerant species, and
+rock outcrop limits the areas suitable for grazing.
+Existing and Future Availability of Water for Farm Irrigation Purposes:
+No new irrigation water rights are expected to be available to the Central Oregon Irrigation
+District ( COID) in the foreseeable future. In order to obtain water rights, the applicant would
+need to convince another COID customer to remove water rights from their property and sell
+them to the applicant and obtain State and COID approval to apply the water rights to the
+subject property. In such a transaction, water rights would be taken off productive farm ground
+and applied to the nonagricultural soils found on the subject property. Such a transaction runs
+counter to the purpose of Goal 3 to maintain productive Agricultural Land inform use.
+Given the poor quality of these soils, it is highly unlikely that Central Oregon Irrigation District
+would approve a transfer of water rights to this property. In addition, no person intending to
+make a profit informing would go to the expense of purchasing water rights, mapping the water
+rights and establishing an irrigation system to irrigate the lands on the subject property.
+Given the dry climate, it is necessaryto irrigate the subject property to grow a hay crop and to
+maintain a pasture. Irrigating the soils found on the subject property, according to Mr. Borine,
+leaches nutrients from the soil so that expensive testing, soils amendments and fertilizers are
+needed to grow crops. A farmer would need to also spend significant sums of money to purchase
+additional water rights, purchase irrigation systems, maintain the systems, pay laborers to
+move and monitor equipment, obtain electricity, pay irrigation district assessments and pay
+increasedliability insurance premiumsfor the risks involved with farming operations.
+Termination of Historic Irrigation Water Rights:
+Eastside Bend LLC 24
+As described earlier in the burden of proof, the subject property had water rights in the past but
+failed to put the water to beneficial use and the water rights were terminated. Restoring the
+water rights would not improve the NRCS soils rating of the property to the point where a
+majority of the property would be Class1 through 6 soils, and become "Agricultural Land" as
+defined by Statewide Goal3. Thelack of beneficial use of the water rights, at times prior to high
+land values and development pressure, is a reflection that irrigating this property and its very
+poor soils was not prudent.
+Existing Land Use Patterns:
+Existing land usepatterns in the area are a mixture of urban, rural, andfarm -zoned lands that
+are in use, not so much for farm uses, but for other conditionally allowed uses in the EFU zone,
+including churches, electrical substations, and solarfarms. Thereare no large-scalecommercial
+farming operations in the area, only small, hobby farms. Further, the subject property is
+surrounded and bisected by a busy highway and roadway systems that lead to the City of Bend's
+urban landscape. Specifically:
+North of tax lot 1400 is a 5 -acre rectangular - shaped parcel zoned EFU that is developed with a
+1978 home and outbuildings. East of Hamby are two churches, including one with an outdoor
+amphitheater, and a vacant 11. 2 -acre parcel zoned EFU. Properties further east include an
+electrical power substation and solar farms. East of Ward Road is a privately - owned 43.89 -acre
+vacant and dry parcel zoned EFU receiving farm tax deferral.
+West of the property and north of Highway 20 are privately owned lands zoned EFUthat are
+vacant, unirrigated, and no known agricultural uses being employed. West and south of
+Highway 20 is an approximate 35 -acre EFU zoned privately owned parcel ( Tax Lot 17-12-35-
+1500). This property is adjacent to the Bend City limits and recently received Board of County
+Commissionersof DeschutesCounty approval to change the ComprehensivePlan designation
+from Agriculture to Rural Residential Exception Area and to change the zone from EFU- TRB to
+Multiple Use Agricultural ( MUA- 10, see Landholdings decision ( Exhibit 1 ). The County found
+and concluded that the property does not constitute " Agricultural Land" and that no goal
+exception is required for the property because the land does not qualify as forest lands or
+agricultural lands under the statewide planning goal.
+South of Bear Creek Road are exception lands zoned MUA- 10 and include several subdivisions
+many of which are developed with homes, with small acres of irrigation for pasture and other
+hobby farm uses. South and west of Bear Creek Road is a larger 53- acre parcel zoned EFU-TRB
+that is developed with a homes, is irrigated and engaged in hay production and receiving farm
+tax deferral.
+Thecloseproximity to the City of Bend, the busy highway and residential areas limits the types
+of agricultural activities that could reasonably be conductedfor profit on the subject property.
+The subject property would not be suitable for raising animals that are disturbed by noise.
+Additionally, the property owner would bear the burden of paying for harm that might be
+causedby livestock escapealong the extremely busyhighway, in particular livestock and vehicle
+collisions. Any agricultural use that requires the application of pesticides and herbicides would
+Eastside Bend LLC 25
+247 - 18 -000485 - PA
+be verydifficult to conduct on the property given the numerous homeslocated in closeproximity
+to the property and the heavy traffic along Highway 20 due to aerial drift of these chemicals. In
+addition, the creation of dust which accompanies the harvesting of crops is a major concern on
+this property due to the close proximity of Highway 20 and the significant amount of traffic
+using the highway on a daily basis. Heavy dust could limit vision along the highway and be a
+concern for major traffic accidents in this area.
+Technological and Energy:
+According to Mr. eorine, " ftjhis parcel requires technology and energy inputs over and above
+that considered acceptable farming practices. Excessivefertilization and soil amendments; very
+frequent irrigation applications pumped from a pond with limited availability; and marginal
+climatic conditions restrict cropping alternatives" [ Emphasis added by applicant].
+Accepted Farming Practices:
+Farming lands comprised of soils that are predominately Class7 and 8 is not an acceptedfarm
+practice in Central Oregon. Dryland grazing, the farm use that can be conducted on the poorest
+soils in the County, typically occur on Class6 non -irrigated soils that have a higher soils classif
+irrigated. The applicant would have to go above and beyond accepted farming practices to even
+attempt to farm the property for dryland grazing. Crops are typically grown on soils in soil class
+3 and 4 that have irrigation, which this property has neither. Past use of the property to irrigate
+and grow hay was not sufficient enough to achieve a profit in farming and doesnot qualify as
+farm use per ORS 215. 203( 2)( a).
+Similarly, the Rabe study notes that in addition to the poor soils, the subject property " does not
+warrant retention as agricultural land based on OAR 660- 033- 0020( 1)( a)( B) because of:
+1. Soils Fertility
+2. Suitability for Grazing
+3. Climatic Conditions
+4. Existingand Future Availability for Irrigation
+S. Existing Land Use Patterns
+6. Technological and Energy Inputs Required
+7. Accepted Farming Practices
+Each of these limitations is discussed in more detail on pages 4- 6 of the Rabe study. The Hearings
+officer incorporates those findings in this Decision as evidence that factors ( as required by OAR 660-
+033- 0020( 1)( a)( B)), in addition to the poor soils, indicate that the subject property is not agricultural
+land.
+For the above reasons, the Hearings Officer finds that many factors not relating to soil class — such as
+the proximity to the City of Bendcity limits, current residential and non-agricultural related land uses
+in the area, soil fertility, and lack of availability of water rights prevent the possibility of farming on
+the entire subject property.
+Eastside Bend LLC 26
+For the above reasons, the Hearings Officer finds that the subject property is not suitable for farm
+use.
+C) Land that is necessary to permit farm practices to be undertaken on adjacent or
+nearby agricultural lands.
+FINDING: The applicant provided a detailed analysis of land uses and agricultural operations
+surrounding the subject property on pages 31-32 of the burden of proof. The applicant found that
+the only agricultural zoned lands currently engaged in an agricultural use are found south of Bear
+Creek Roadand operate independently from each other, and from other properties. Barriers for the
+subject property to engagewith in farm use with these properties include: poor quality soils, lack of
+irrigation, proximity, and physical barriers such as Highway 20 and Bear Creek Road.
+The Hearings Officer agrees with the applicant' s analysis; the subject property is not necessary to
+permit farm practices to be undertaken on adjacent or nearby agricultural lands.
+1b) Land in capability classes other than I -11//1 -VI that is adjacent to or intermingled with
+lands in capability classes I-IV/ 1-VI within a farm unit, shall be inventoried as
+agricultural lands even though this land may not be cropped or grazed;
+FINDING: The applicant provided the following response in the burden of proof:
+Thesubject property is not and has not been a part of afarm unit that includes other lands not
+currently owned by the applicant.
+Goal 3 applies a predominant soil type test to determine if a property is "agricultural land". If a
+majority of the soilsis Class1-6 in in Centralor EasternOregon, it must beclassified "agricultural
+land. " 1000 Friends position is that this is a 100% Class 7 - 8 soils test rather than a 51 % Class 7
+and 8 soils test because the presence of any Class 1-6 soil requires the County to identify the
+entire property " agricultural land." Case law indicates that the Class 1- 6 soil test applies to a
+subject property proposedfor a non-agricultural plan designation while thefarm unit rule looks
+out beyond the boundaries of the subject property to consider how the subject property relates
+to lands in active farming in the area that were once a part of the area proposed for rezoning.
+It is not a test that requires that 100% of soils on a subject property be Class 1- 6.
+The farm unit rule is written to preserve large farming operations in a block. It does this by
+preventing property ownersfrom dividing farmland into smaller properties that, alone, do not
+meet the definition of " agricultural land." The subject property is not formerly part of a larger
+area of land that is or was usedfor farming operations and was then divided to isolate poor
+soils so that land could be removed from EFU zoning.
+Thesubject property is not inform useand has not been inform useof any kind (hobbyfarming
+or commercialfarming) from at least 1997 when water rights were removedfrom tax lot 1400,
+in 2006 where 2.0 acres of water rights were removed from tax lot 1601, to 2012 where all
+water rights were removed from tax lot 1600. It has no known history of commercial farm use
+and contains soils that make the property generally unsuitable for farm use as the term is
+Eastside Bend LLC 27
+defined by State law. It is not a part of a farm unit with other land. Thesubject property is
+predominately Class7 and 8 soils and would not be considered a farm unit itself nor part of a
+larger farm unit based on the poor soils and the fact that none of the adjacent property is
+farmed.
+Asshown by the soils capability study by Borine, the predominant soil typefound on the subject
+property south of Highway 20 is Class7 and 8, nonagricultural land (22.36 acresClass7-8, 16.48
+acres Class 3- 4 or 42%). The area north of Highway 20 on tax lot 1400 consists of one NRCSsoil
+mapping unit, 58C, which has predominantly 75% Classes 7 and 8. The entire property including
+the area north of Highway 20 consists of 63. 7% of Class 7 and 8 soils. The predominance test
+saysthat the subject property is not agricultural soil and thefarm unit rule doesnot require that
+the Class 7-8 soils that comprise the majority of the subject property be classified as agricultural
+land due to the presence of a small amount of Class 1-6 soils on the subject property that are
+not employed inform use and are not part of afarm unit. As a result, this rule does not require
+the Class 7 and 8 soils on the subject property to be classified agricultural land because a
+minority of the property contains soils rated Class 7 and 8.
+The subject property is not part of a farm tract or unit. Therefore, the HearingsOfficer finds that the
+three tax lots that make up the subject property do not need to be inventoried as agricultural land
+under this rule.
+c) " Agricultural Land" does not include land within acknowledged urban growth boundaries
+or land within acknowledged exception areas for Goal 3 or 4.
+FINDING: The subject property is not within an acknowledged urban growth boundary or land within
+acknowledged exception areas for Goals 3 or 4.
+OAR 660- 033- 0030, Identifying Agricultural Land
+1) All land defined as " agricultural land" in OAR 660- 033- 0020( 1) shall be inventoried as
+agricultural land.
+2) When a jurisdiction determines the predominant soil capability classification of a lot or
+parcel it need only look to the land within the lot or parcel being inventoried. However,
+whether land is " suitable for farm use" requires an inquiry into factors beyond the mere
+identification of scientific soil classifications. The factors are listed in the definition of
+agricultural land set forth at OAR 660- 033- 0020( 1)( a)( 8). This inquiry requires the
+consideration of conditions existing outside the lot or parcel being inventoried. Even if
+a lot or parcel is not predominantly Class I-IV soils or suitable for farm use, Goal 3
+nonetheless defines as agricultural " lands in other classes which are necessary to
+permit farm practices to be undertaken on adjacent or nearby lands". A determination
+that a lot or parcel is not agricultural land requires findings supported by substantial
+evidence that addresses each of the factors set forth in 660- 033- 0020( 1).
+FINDING: The applicant addressed the factors in 660- 033- 0020( 1) above. As an initial note, the soils
+on the subject property are predominantly Class7 and 8. As this rule notes, though, that alone does
+not make the subject property non-agricultural. The property is alsosubject to other barriers to farm
+Eastside Bend LLC 28
+use including: lack of irrigation, proximity, and physical barriers such as Highway 20 and Bear Creek
+Road. Moreover, there is no evidence in the record that the subject property is necessary to permit
+farm practices on adjacent or nearby lands.
+3) Goal 3 attaches no significance to the ownership of a lot or parcel when determining
+whether it is agricultural land. Nearby or adjacent land, regardless of ownership, shall
+be examined to the extent that a lot or parcel is either " suitable for farm use" or
+necessary to permit farm practices to be undertaken on adjacent or nearby lands"
+outside the lot or parcel.
+FINDING: The applicant - submitted evidence that shows that the subject property is not suitable for
+farm useand is not necessaryto permit farm practices to be undertaken on adjacent or nearby lands,
+has not assigned any significance to the ownership of the subject or adjoining properties.
+5)( a) More detailed data on soil capability than is contained in the USDA Natural
+Resources Conservation Service ( NRCS) soil maps and soil surveys may be used to
+define agricultural land. However, the more detailed soils data shall be related to
+the NRCSland capability classification system.
+b) If a person concludes that more detailed soils information than that contained in the
+Web Soil Survey operated by the NRCSas of January 2, 2012, would assist a county
+to make a better determination of whether land qualifies as agricultural land, the
+person must request that the department arrange for an assessment of the
+capability of the land by a professional soil classifier who is chosen by the person,
+using the process described in OAR 660- 033- 0045.
+FINDING: The Borine and Rabe studies provide more detailed soils information than contained in the
+NRCSWeb Soil Survey. Both soil studies relate to the NRCSland capability classification system ( LCC)
+that classifies the soils as class 1 through 8. An LCCrating is assigned to each soil type based on rules
+provided by the NRCS.
+NRCS sources provide general soils data for large units of land. The site specific Borine and Rabe soil
+studies provide detailed and accurate information about the subject property based on numerous
+soil samples taken from the property.
+The NRCS mapping for the subject property is shown in Figure 2. According to the NRCSWeb Soil
+Survey tool, the subject property ( all tax lots) contains approximately 37.6% 36A soil and contains
+62. 4% 58C soil.
+Eastside Bend LLC 29
+Figure 2. NRCS Soil Map ( dial. deschutes. org)
+Eastside Bend LLC 30
+The Borine study found the soil types on tax lots 1600 and 1601 vary from the NRCSidentified soil
+types. The soil types are described below and the characteristics and LCCrating are shown in Table 1
+below.
+symbol
+A
+3
+D
+Table 1. Summary of Order I Soil Survey — Tax Lots 1600 and 1601
+iievfsedQrder1Map nits CUompnrr t L 1600. 1. 1601 Tas Lot
+3 i. 55 ac} 1-60C
+IR( t NIRR Ac 9a Ar ' A
+Dcskarnp-Gosney, deep, 0-3% Deskarapa C;5 3 6 16. 48 42 15. 58 45
+slopes
+Gosney- ZetEa-Rock outcrop,
+3, 15% slopes
+Gosney- Zeta- Rock outuop,
+0- r9" Str,)P(!,
+e+l land
+fax Lot 1607.
+Ac ° fa
+0. 90 1 21
+GosneW. r+een 25 f
+1199 31 31. 29 s3 0. 70 16Gas_neV_ 45 7
+Teta 2,
+4J( -k-, outs:roP 20
+s
+m57Gosney 7 9, 92 2G 7. 48 22 2. 44
+Teta 25 7
+Rne ; itcrc[) 1
+I turbedland 90 8_ A5 a U. 20 1 0. 25 6
+100 34,, 1, 100 4, 25) 1170
+The Rabestudy found the soiltype on tax lot 1400to be composed of 56 percent (11.41 acres) Gosney
+Class 7) or Rock Outcrop ( Class 8) in map units 57B and 109. The remaining 44 percent ( 8.92 acres)
+are Deskamp soils ( Class 6) in map unit 368. Mr. Rabe concluded that since tax lot 1400 is
+predominantly composed of Class 7 and 8 soils, it is not agricultural land. Rabe Study, pg. 4.
+c) This section and OAR 660- 033- 0045 apply to:
+A) A change to the designation of land planned and zonedfor exclusivefarm use,
+forest use or mixed farm forest use to a non - resource plan designation and
+zone on the basis that such land is not agricultural land; and
+FINDING: The applicant is seeking approval of a non -resource plan designation on the basis that the
+subject property is not defined as agricultural land.
+d) This section and OAR 660- 033- 0045 implement ORS 215. 211, effective on October 1,
+2011. After this date, only those soils assessments certified by the department under
+section ( 9) of this rule may be considered by local governments in land use
+proceedings described in subsection ( c) of this section. However, a local government
+may consider soils assessmentsthat have been completed and submitted prior to
+October 1, 2011.
+FINDING: The Borine study is dated August 22, 2015. The soilsstudy was submitted following the ORS
+215. 211 effective date. Staff received acknowledgement via email on June 18, 2018 from Tim
+Murphy, Farm and Forest LandsSpecialist with the Oregon Department of Land Conservation and
+Development ( DLCD) that the soil study is complete and consistent with DLCD's reporting
+requirements.
+As of the hearing date, the applicant the Rabestudy for tax lot 1400. The Rabestudy is dated after
+the effective date of this rule. However, DLCD has not certified that the study is complete and
+Eastside Bend LLC
+247 - 18 - 000485 - PA
+consistent with its reporting requirements. This rule can be complied with if the applicant submits
+the required certification before the required BOCChearing, though. Therefore, the Hearings Officer,
+requires as a condition of approval, that prior to the BOCChearing, the applicant submit the required
+certification from DLCD.
+Condition of Approval:
+Prior to the required Board of County Commissioners hearing, the applicant shall submit to
+the record certification from DLCDconfirming the Soil Study prepared by Cascade Earth
+Science ( Rabe) for tax lot 1400 meets DLCD requirements for such studies.
+e) This section and OAR 660- 033- 0045 authorize a person to obtain additional
+information for use in the determination of whether land qualifies as agricultural
+land, but do not otherwise affect the process by which a county determines whether
+land qualifies as agricultural land as defined by Goal 3 and OAR 660- 033- 0020.
+FINDING: Here, Deschutes County is relying on the more detailed soil studies. This requirement is
+met, though, because the County is utilizing its normal process to determine whether the land
+qualifies as agricultural land.
+DIVISION 12, TRANSPORTATION PLANNING
+OAR 660- 012- 0060 Plan and Land use Regulation Amendments
+1) If an amendment to afunctional plan, an acknowledged comprehensive plan, or a land
+use regulation ( including a zoning map) would significantly affect an existing or planned
+transportation facility, then the local government must put in place measures as
+provided in section ( 2) of this rule, unless the amendment is allowed under section ( 3),
+9) or ( 10) of this rule. A plan or land use regulation amendment significantly affects a
+transportation facility if it would.
+a) Change the functional classification of an existing or planned transportation facility
+exclusive of correction of map errors in an adopted plan);
+b) Change standards implementing a functional classification system; or
+c) Result in any of the effects listed in paragraphs ( A) through ( C) of this subsection
+based on projected conditions measured at the end of the planning period identified
+in the adopted TSP. As part of evaluating projected conditions, the amount of traffic
+projected to be generated within the area of the amendment may be reduced if the
+amendment includes an enforceable, ongoing requirement that would
+demonstrably limit traffic generation, including, but not limited to, transportation
+demand management. This reduction may diminish or completely eliminate the
+significant effect of the amendment.
+A) Types or levels of travel or access that are inconsistent with the functional
+classification of an existing or planned transportation facility;
+e) Degrade the performance of an existing or planned transportation facility such
+that it would not meet the performance standards identified in the TSP or
+comprehensive plan; or
+Eastside Bend LLC 32
+C) Degrade the performance of an existing or planned transportation facility that
+is otherwise projected to not meet the performance standards identified in the
+TSP or comprehensive plan.
+FINDING: As referenced in the agency comments section in the Findings of Fact above, the Senior
+Transportation Planner for Deschutes County requested revised details than what the initial traffic
+study materials provided. The applicant submitted an updated report from Transight Consulting LLC
+dated October 25, 2018, to address concerns related to the Bear Creek/ Ward and US 20/ Hamby-
+Ward intersections. The update included adjustments to total daily trip generation and p.m. peak
+hour trips, a review of potential high impact land use scenarios, as well as an extension of the traffic
+analysis to the year 2038. In response to this criterion, the applicant' s burden of proof provides the
+following:
+Attached as Exhibit 14 is a transportation impact analysis memorandum prepared by traffic
+engineer, Joe Bessman, PE. Mr. Bessman made the following findings with regard to the
+proposed zone change and concluded that a significant affect does not occur with the proposed
+rezone:
+Rezoning of the 59.24 -acre property from EFU-TRB to MUA could generate up to
+55 additional daily trips, including six additional trips during the weekday p. m. peak
+hour.
+County plans show that Hamby - Ward Road operates well within its carrying
+capacity as a Rural Arterial. The proposed rezone does not change the functional
+classification of the facility or result in levels of travel that would be inconsistent
+with the roadway function.
+The Deschutes County TSPidentifies failing conditions in 2030 along US20 west of
+Hamby - Ward Road and a need for improvements at the US20/ Hamby- Ward Road
+intersection to convert the intersection to a roundabout. This improvement is
+identified in the TSP as a low priority.
+The County SOC ordinance includes the US 20/ Hamby- Ward Road intersection
+improvements to mitigate long- term needs. Based on OAR 660- 12-0060( 4)( b)(B)
+this is considered as a planned improvement that can be relied on in determining
+whether a significant affect occurs.
+Review of crash patterns shows a high incidence of turning and angle crashes at
+the US 20/ Hamby Road -Ward Road intersection over the past five years. Several
+safety measures have been implemented at the intersection to increase awareness.
+Review of crash records and field review showed that enhancing and ensuring clear
+sight lines could further improve safety, particularly with the observed crash
+pattern between westbound and northbound motorists. Long- term installation of
+a roundabout as identified in County plans would significantly reduce crashes.
+The Bear Creek Road/ Ward Road intersection experiences a crash rate higher than
+the 90th percentile of similar unsignalized intersections. It is recommended that
+increased warning treatments be provided on the intersection approaches. The
+specific treatments should be coordinated by Deschutes County balancing
+installation costs, effectiveness, and maintenance costs.
+Eastside Bend LLC 33
+Based on this review a significant affect does not occur with the proposed rezone.
+Mr. Bessman also recommended that while available sight lines are adequate, that Deschutes
+County and ODOT work with the property owners on each of the intersection quadrants to
+ensure that the intersection remains free of sight line obstructions from the stop bar and
+potentially for vehicles one position back.
+Based on the traffic analysis and findings by Mr. Bessman, the application complies with the
+TPR.
+There were some concerns expressed about the traffic impact the plan amendment and zone change
+might have on area roads. The Hearings Officer notes no development is currently proposed and that
+County staff and the applicant' sengineer do not believe the zonechangewill havea significant impact
+on the transportation facilities in the area.
+Basedon the County SeniorTransportation Planner's comments and the amended traffic study from
+Transight Consulting LLC, the Hearings Officer finds compliance with the Transportation Planning Rule
+has been effectively demonstrated
+OAR 660- 015, Division 15, Statewide Planning Goals and Guidelines
+FINDING: The Statewide Planning Goals are outlined below in the applicant' s burden of proof:
+Goal 1, Citizen Involvement. Deschutes County will provide notice of the application to the
+public through mailed notice to affected property owners and by requiring the applicant to post
+a " proposed land use action sign" on the subject property. Notice of the public hearings held
+regarding this application will be placed in the Bend Bulletin. A minimum of two public hearings
+will be held to consider the application.
+Goal 2, Land Use Planning. Goals, policies, and processes related to zone change application
+are included in the Deschutes County Comprehensive Plan and Titles 18 and 23 of the Deschutes
+County Code. The outcome of the application will be based on findings of act and conclusions
+of law related to the applicable provisions of those laws as required by Goal 2.
+Goal 3, Agricultural Lands. The applicant has shown that the subject property is not agricultural
+land becauseit is comprised predominantly of Class7 and 8 soils that are not suitable for farm
+use. Therefore, the proposal is consistent with Goal 3.
+Goal 4, Forest Lands. Goal is not applicable because the subject property does not include any
+lands that are zoned for, or that support, forest uses.
+Goal 5, Open Spaces, Scenic and Historic Areas and Natural Resources. The majority of the
+subject property is located in the Landscape Management Combining Zone ( LM Zone). The LM
+Zone is a Goal 5 resource acknowledged by DLCD that is set out to protect scenic views as seen,
+in this case, from Highway 20 through a Landscape Management Combining Zone that extends
+mile on either side of the centerline of the designated roadway. The County typically requires
+LM site plan review when a building permit is required for a new or substantial alteration to an
+Eastside Bend LLC 34
+existing structure. The proposal is consistent with Goal 5 because the LM zoning requirements
+apply when development is proposed and the rezone and plan amendment is not development,
+and therefore, will not impact any Goal resource.
+Goal 6, Air, Water and Land Resources Quality. The approval of this application will not impact
+the quality of the air, water, and land resourcesof the County. Anyfuture development of the
+property would be subject to local, state andfederal regulations that protect these resources.
+Goal 7, Areas Subject to Natural Disasters and Hazards. This goal is not applicable because the
+subject property is not located in an area that is recognized by the comprehensiveplan as a
+known disaster or hazard area.
+Goal 8, Recreational Needs. This goal is not applicable because there is no development
+proposed and the property is not planned to meet the recreational needs of Deschutes County.
+Goal 9, Economy of the State. Thisgoal doesnot apply to this application becausethe subject
+property is not designated as Goal 9 economic development land. In addition, the approval of
+this application will not adversely affect economic activities of the state or area.
+Goal 10, Housing. The County's ComprehensivePlan Goal 10 analysis anticipates that farm
+properties with poor soils, like the subject property, will be converted from EFU to MUA- 10 or
+RR -10 zoning and that these lands will help meet the needfor rural housing. Approval of this
+application, therefore, is consistent with Goal 10 as implemented by the acknowledged
+Deschutes County Comprehensive Plan.
+Goal 11, Public Facilities and Services. The approval of this application will have no adverse
+impact on the provision of public facilities and services to the subject site. Utility service
+providers have confirmed that they have the capacity to serve the subject property.
+Goal 12, Transportation. The application complies with the Transportation System Planning
+Rule, OAR 660- 012- 0060, the rule that implements Goal 12. Compliance with that rule also
+demonstrates compliance with Goal 12.
+Goal 13, Energy Conservation. The approval of this application does not impede energy
+conservation. The subject property is located adjacent to the city limits for the City of Bend.
+Providing homesin this location asopposedto more remote rural locations will conserveenergy
+needed for residents to travel to work, shopping and other essential services provided by the
+City of Bend.
+Goal 14, Urbanization. This goal is not applicable because the applicant' s proposal does not
+involved property within an urban growth boundary and does not involve the urbanization of
+rural land. The MUA- 10 Zone is an acknowledged rural residential zoning district that limits the
+intensity and density of developments to rural levels. The compliance of this zone with Goal 14
+was recently acknowledged when the County amended its comprehensive plan. The plan
+recognizes the fact that the MUA- 10 and RR zones are the zones that will be applied to lands
+designated Rural Residential Exception Areas.
+Eastside Bend LLC 35
+Goals 15 through 19. These goals do not apply to land in Central Oregon.
+The Hearings Officer accepts the applicant' s responses and finds compliance with the applicable
+Statewide Planning Goals has been effectively demonstrated.
+IV. DECISION
+The Hearings Officer concludes that with the adoption of the below listed condition of approval, the
+applicant has met the burden of proof necessary to justify changing the Plan Designation from
+Agriculture to Rural Residential Exception Area and Zoning of the subject property from Exclusive
+Farm Use to Multiple Use Agricultural through demonstrating compliance with the applicable criteria
+of DCC Title 18 ( The Deschutes County Zoning Ordinance), the Deschutes County Comprehensive
+Plan, and applicable sections of OAR and ORS. The requested plan amendment and zone change is
+APPROVED subject to the following condition of approval:
+1. Prior to the required Board of County Commissioners hearing, the applicant shall submit to
+the record certification from DLCDconfirming the Soil Study prepared by Cascade Earth
+Science ( Rabe) for tax lot 1400 meets DLCD requirements for such studies.
+This decision becomes final twelve ( 12) days after the date of mailing, unless appealed by a party of
+interest.
+Will Van Vactor, Hearings Officer
+Eastside Bend LLC 36
+0TES
+CO
+o ` c Deschutes County Board of Commissioners
+1300 NW Wall St, Bend, OR 97703
+541) 388- 6570 - Fax ( 541) 385- 3202 - https:// www. deschutes. org/
+AGENDA REQUEST & STAFF REPORT
+For Board of Commissioners BOCC Wednesday Morning Meeting of March 13, 2019
+DATE: March 4, 2019
+FROM: Nicole Mardell, Community Development,
+TITLE OF AGENDA ITEM:
+SECOND READING: Ordinance 2019- 006: Eastside Bend Plan Amendment and Zone
+Change
+BACKGROUND AND POLICY IMPLICATIONS:
+The Board is scheduled to conduct the second reading of Ordinance 2019-006 on March 13,
+2019, fourteen days following the first reading. The Ordinance approves requests by Eastside
+Bend, LLC to redesignate the subject property from Agriculture to Rural Residential Exception
+Area on the Comprehensive Plan Map, and rezone the property from Exclusive Farm Use
+EFU) to Multiple Use Agricultural ( MUA- 10)
+FISCAL IMPLICATIONS: None.
+ATTENDANCE: Nicole Mardell, Associate Planner
+MEMORANDUM
+TO: Deschutes County Board of Commissioners
+FROM: Nicole Mardell, Associate Planner
+DATE: March 6, 2019
+SUBJECT: Consideration of Second Reading of Ordinance No. 2019- 006 - Eastside Bend Plan
+Amendment and Zone Change
+I. BACKGROUND
+The Board of County Commissioners (Board) held a public hearing on February 27, 2019, to
+consider a request for a Plan Amendment and Zone Change (file nos. 247 -18 -000485 -PA, 486-ZC) for
+a 59.24 -acre property to the east of the City of Bend.
+Onthe sameday, the Boardclosedthe oralandwritten recordsfor the hearinganddeliberated,
+votingto approvethe requests. TheBoardalsoconductedfirst readingof Ordinance2019-006, asit
+was included in the meeting packet.
+II. SECOND REAIDNG
+The Board is scheduled to conduct the second reading of Ordinance 2019-006 on March 13, 2019,
+fourteen days following the first reading.
+ATTACH M E NTS:
+Ordinance 2019- 006 and Exhibits
+Exhibit A: Legal Description
+Exhibit B: Proposed Comprehensive Plan Map
+Exhibit C: Proposed Zoning Map
+Exhibit D: Comprehensive Plan Section 23. 01. 010, Introduction
+Exhibit E: Comprehensive Plan Section 5. 12, Legislative History
+Exhibit F: Hearings Officer Decision

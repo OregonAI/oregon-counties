@@ -1,0 +1,213 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-95-005
+title: 'Ordinance No. 95-005'
+doc_type: ordinance
+citation: 'Ordinance No. 95-005'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616701304_1995-05217-Ordinance%20No.%2095-005%20Recorded%202_2_1995.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9aeb10cfc1bbda50a65e3763dce3f91f68dd806bfc3d4fa0f862974119210af5
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 95-005 (Ordinance No. 95-005)
+
+## At a glance
+
+Ordinance No. 95-005 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+95- 052172! L
+REVIEWED
+LEGAL COUNSEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,', QREGON
+An Ordinance Amending Title 15, Section
+15. 04. 070, Building Abatement Code - Adopted,
+of the Deschutes County Code. * '`
+ORDINANCE NO. 95- 005
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. Section 15. 04. 070, Building Abatement Code - Adopted is
+amended as set forth in Exhibit A, attached hereto and by this
+reference incorporated herein.
+Section 2. Codification. County Legal Counsel shall have the
+authority to format the provisions contained herein in a manner that
+will integrate them into the County Code consistent with the County
+Legal Counsel form and style for ordinance codification. Such
+codification shall include the authority to make such changes, to make
+changes in numbering systems and to make such numbering changes
+consistent with interrelated code sections. In addition, as part of
+codification of these ordinances, County Legal Counsel may insert
+appropriate legislative history reference. Any legislative history
+references included herein are not adopted as part of the substance of
+this ordinance, but are included for administrative convenience and as
+a reference. They may be changed to correct errors and to conform to
+proper style without action of the
+Board County Commissioners.
+1. at j G lrDATED this Yah day of 3y, 1995.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+a/" 0- 1a Iel
+BARRY H. SLAUGHTER, hairman
+wV \_
+ATT NANCY POPE SCH GEN, Commissi ner
+Recording Secre ary RO RT L. NIPPER, C um
+PAGE 1 OF 1 - ORDINANCE NO. 95- 005 ( 1- 18- 95)
+t"
+ZI
+Fk1995
+INS'#F 0' 11995
+EXHIBIT A
+15. 04. 070 Building abatement
+code - Adopted.
+A. Except as provided in [ paragraph]
+subsection B of this section, a certain book or
+publication, a copy of which is on file with the
+County Clerk, marked and entitled, Uniform
+Code for the Abatement of Dangerous
+Buildings, [ 1985] 1991 Edition, hereinafter
+referred to as "building abatement code," is
+adopted in its entirety as the building
+abatement code for the unincorporated areas
+of the county for regulating and controlling
+the repair, vacation, demolition and abatement
+of dangerous buildings in the unincorporated
+areasof the county. The building abatement
+code adopted and on file in the County
+Clerk' s office is referred to and by this
+reference made a part of this chapter as
+though fully set out in this chapter.
+B. The Uniform Code for the Abatement of
+Dangerous Buildings [ Chapter 9 of the
+Building Abatement Code, "Recoveryof Cost
+of Repair or Demolition,"] is adopted as
+amended below:
+1. The words " or premises" are inserted
+after the word " building" under sections 401,
+402, 403, 404, 701, 703, 802 and 901;
+2. Chapter 9 is amended as follows:
+Section 901. Account of Expense, Filing of
+Report: Contents. The director of [ public
+works] the Community Development
+Department shall keep anitemized accountof
+the expense incurred by the county in the
+repair or demolition of any building done
+pursuant to the provisions of section 701( C) 3
+of this code. Upon the completion of the
+work of repair or demolition, said director
+shall prepare and file with the board of county
+commissioners a report specifying the work
+done, the itemized and total cost of the work,
+a description of the real property upon which
+the building or structure is or waslocated, and
+the names and addresses of the persons
+t 1 8° 0,a
+entitled to notice pursuant to subsection ( c) of
+section 401.
+Section 902. Report Transmitted to Board -
+Set for Hearing. Upon receipt of said report,
+the board shall fix a time, date and place for
+hearing said report and any protests or
+objections thereto. The board shall cause
+notice of said hearing to be posted upon the
+property involved, published once in a
+newspaper of general circulation in this
+jurisdiction, and served by certified mail,
+postage prepaid, addressed to the owner of
+the property as the owner' s name and address
+appear on the last assessment roll of the
+county. Suchnotice shall be given at least 10
+days prior to the date set for hearing and shall
+specify the day, hour and place when the
+board will hear and pass upon the director' s
+report, together with any objections or
+protests which may be filed as hereinafter
+provided by any person interested in or
+affected by the proposedcharge.
+Section 903. Protests and Objections - How
+Made. Any person interested in or affected
+by the proposed charge may file written
+protests or objections with the board at any
+time prior to the time set for the hearing on
+the report of the director. Each such protest
+or objection must contain a description of the
+property in which the signer thereof is
+interested and the grounds of such protest or
+objection.
+Section 904. Hearing of Protests. Upon the
+dayand hour fixed for the hearing, the board
+shall hear and pass upon the report of the
+director together with any objections or
+protests. The board may make suchrevision,
+correction or modification in the report or the
+charge as it may deem just; and when the
+board is satisfied with the correctness of the
+charge, the report ( as submitted or as revised,
+corrected or modified) together with the
+Page 1 - Exhibit A - Ord. 95- 005 ( 01/ 18/ 95)
+charge, shall be confirmed or rejected. The
+decision of the board on the report and the
+charge, and on all protests or objections, shall
+be final and conclusive.
+Section 905. Personal Obligation and Lien
+Against Property.
+a) General. The board may thereupon order
+that said charge [ shall] may be made a
+personal obligation of the property owner
+and/ or assess said charge as a lien against the
+property involved.
+b) Personal Obligation. If the board orders
+that the charge shall be a personal obligation
+of the property owner, it shall direct county
+legal counsel to collect the same on behalf of
+the county by use of all appropriate legal
+remedies.
+c) Lien. If the board orders that the charge
+shall be assessed as a lien against the
+property, it shall direct county legal counsel to
+take all necessary action to perfect the lien
+under the provisions of ORS chapter 87.
+Section 906. Lien.
+a) Priority. Any lien filed pursuant to this
+chapter shall have the priority established in
+ORS chapter 87 for construction liens. The
+lien shall continue until the principle and all
+interest due and payable thereon are paid.
+b) Interest. Any such lien filed shall bear
+interest at the then legal rate.
+Section 907. Foreclosure of Lien. The lien
+filed pursuant to section 905 of this chapter
+shall be foreclosed as provided in ORS
+chapter 87.
+Section 908. Disbursement of Lien. All
+money recovered from the sale of the property
+through lien foreclosure proceedings under
+ORS chapter 87 shall be paid to the county
+treasurer, who shall credit the same to the
+county general fund.
+Ord. 95- 005 § 1, 1995; 88- 027 § 1, 1988; Ord.
+83- 056 § 5, 1983)
+Page 2 — Exhibit A — Ord. 95- 005 ( 01/ 18/ 95)

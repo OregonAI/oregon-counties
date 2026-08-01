@@ -1,0 +1,268 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-92-071
+title: 'Ordinance No. 92-071'
+doc_type: ordinance
+citation: 'Ordinance No. 92-071'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616695295_1992-41806-Ordinance%20No.%2092-071%20Recorded%2012_9_1992.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 7cf67ccde3d96c6263aa5afb14e1574b498862279d18767e46ecd8cc8a098ad2
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 92-071 (Ordinance No. 92-071)
+
+## At a glance
+
+Ordinance No. 92-071 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+v
+LL:
+92- 41805
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES CO , I; bAffON- -
+An Ordinance Amending Title 13. 12,
+Division III. Solid Waste Collection,
+Disposal and Recycling, of the Deschutes
+County Code, and Declaring an Emergency.
+ORDINANCE NO. 92- 071
+C2 nFr, - PSH1.- 24
+it iuLL' Ji
+0120- 0240
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY ORDAINS
+as follows:
+Section 1. That Title 13. 12, " Division III. Solid Waste
+Collection, Disposal and Recycling" Section 13. 12. 040( 33)
+Definitions of the Deschutes County Code, be amended as set forth
+in Exhibit " A," attached hereto and by this reference incorporated
+herein.
+Section 2. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergency
+is declared to exist, and this Ordinance takes effect on its
+effective date.
+DATED this ` T`
+o'
+day of December, 1992.
+T E T
+z 9/MRecording Secretary
+BOARD OF OOUNTY COMMISSIONERS
+OF DES ES COUNTY, OREGON
+TO HROOP, ebfnmisio e
+k) ilho) hl
+N7ANC dEN, Commi sioner
+K 9AIMLIN, ' ClIairman
+1 - ORDINANCE NO. 92- 071 ( 12/ 9/ 92)
+13. 12. 040 Definitions.
+For the purpose of this division, and
+where appropriate in the context, words used in
+the present tense include the future, the sin-
+gular number includes the plural, the word
+shall" is mandatory and not directory, and the
+term " this division" shall be deemed to include
+all amendments hereafter made to Division III
+of Title 13 of this code.
+1. " Administrator" means the
+county engineer, county health officer, county
+sanitarian or other persons designated by
+resolution of the board to administer this
+division, and the duly authorized deputy or
+assistant of such person.
+2. ' Board" means the board of
+county commissioners.
+3. " Collection franchise" means a
+franchise to collect, transport, dispose of,
+deposit or store solid waste and recyclable
+materials.
+4. " Collection vehicle" means any
+vehicle used to collect or transport solid waste
+and recyclable material.
+5. " Commercial hauler" means a
+collection franchisee whose principal business is
+the collection, transportation and disposal of
+solid waste and recyclable material.
+6. " Committee" means the solid
+waste advisory committee.
+7. " Compensation" means any type
+of consideration given for service, including, but
+not limited to, direct or indirect compensation
+by tenants, occupants, licensees or similar
+persons.
+8. ' Depot" means a permanent or
+temporary facility, container or box provided for
+persons to deposit totally source -separated
+materials for recycling or reuse.
+9. ' Disposal" means accumulation,
+storage, collection, transportation and disposal
+of solid waste.
+10. ' Disposal franchise" means a
+franchise to create or maintain a disposal site.
+11. ' Disposal site" means any land
+and facilities used for the disposal, handling or
+transfer of or resource recovery from solid
+waste, including, but not limited to, dumps,
+0120- 0241
+sludge lagoons and treatment facilities, landfills,
+sanitary landfills, composting plants, transfer
+stations and incinerators. " Disposal site" does
+not include a landfill site which is subject to the
+permit requirements of Oregon Revised
+Statutes Sections 468. 740 or 481. 345, or a site
+whichis not usedby the publiceither directly or
+through a service and which is used by the
+owner or person in control thereof to dispose of
+wood scrap, sawdust, bark, soil, rock, building
+demolition material or nonputrescible industrial
+waste products resulting from the process of
+manufacturing.
+12. " Franchise" means a license to
+provide service issued by the board for a fee
+pursuant to this division.
+13. " Franchisee" means a person to
+whom the board has granted a franchise.
+14. " Generator" ( of solid waste)
+means a person who possesses and controls an
+item or material immediately prior to and at the
+time it becomes a waste or solid waste, or a
+person who last used an item or material and
+makes it available for recycling or reuse.
+15. " Hazardous waste" means any
+waste defined as hazardous waste in ORS
+466. 005( 7).
+16. " Incinerator" means a
+combustion device specifically designed for the
+reduction by burning of solid, semisolid or
+liquid waste.
+17. " Infectious waste" means
+biological waste, cultures and stocks,
+pathological waste and sharps, including medical
+waste, as defined in ORS 459. 386( 2).
+18. " Landfill' means a disposal site
+operated by means of compacting and covering
+solid waste at specific designated intervals, but
+not each operating day.
+19. ' Noncommercial hauler" means
+a collection franchisee whose principal business
+is other than the collection, transportation and
+disposal of solid waste and recyclable material.
+20. " On - route collection" means
+pickup of source - separated recyclable material
+from the generator at the place of generation.
+21. ' Person" means and includes
+individuals, corporations, associations, firms,
+partnerships and joint stock companies.
+2 - EXHIBIT " A" ORDINANCE NO. 92- 071 ( 12/ 9/ 92)
+22. " Putrescible material" means
+organic material that can decompose and may
+give rise to foul smelling, offensive products.
+23. " Recyclable material" and
+recyclable" mean any material that can be
+collected and sold for recycling at a net cost
+equal to or less than the cost of collection and
+disposal of the same material, or those
+materials listed or approved as recyclable
+material by the Oregon Department of
+Environmental Quality for Deschutes County,
+pursuant to ORS 459. 170.
+24. " Recycle" or " recycling" means
+the use of any process by which solid waste is
+transformed into new products in such a
+manner that the original material may lose its
+identity.
+25. " Regulations" means regulations
+promulgated by the board pursuant to this
+division.
+26. " Resource recovery" means the
+process of obtaining useful material or energy
+resources from solid waste, including recycling
+and reuse.
+27. " Reuse" means return of
+material into the economic stream for the use
+in the same kind of application as before
+without change in its identity.
+28. " Rules" means rules
+promulgated by state agencies pursuant to
+Oregon Revised Statutes Chapter 459.
+29. " Sanitary landfill" means a
+disposalsite operatedby meansof compacting
+and covering solid waste at least once each
+operating day.
+30. " Self - hauling" means
+transportation by a generator of such person's
+own waste, solid waste or recyclable material
+directly to a disposalor recyclingsite or depot.
+Self -hauling" includes the transportation of
+solid waste or recyclable material which the
+generator produces as an incidental part of the
+generator' s business, such as waste incidental to
+restaurants, janitorial service, gardening or
+landscaping, carpentry, remodeling, etc. Waste
+incidental to the generator' s business does not
+include the accumulated or stored waste, of the
+generator' s customers or clients.
+31. " Service" means collection,
+0120- 0242
+transportation, transfer, disposal or recycling of
+solid waste or recyclable material for
+compensation. " Service" does not include
+self -hauling.
+32. " Service area" means the
+geographical area or premises in which service,
+other than operation of a disposal site, is or has
+been provided.
+33. " Solid waste" means all
+putrescible and nonputrescible waste, whether
+in solid or liquid form, except liquid - carried
+industrial waste or sewage or sewage sludge
+hauled as an incidental part of a septic tank or
+cesspoolcleaning service, but including garbage,
+rubbish, ashes, paper, cardboard, sewage sludge,
+street refuse, industrial waste, infectious waste,
+swill, demolition and construction waste,
+inoperative and/ or unlicensed or dismantled or
+partially dismantled [ abandoned] vehicles or
+parts thereof, discarded home or[ and] industrial
+appliances, manure, vegetable or animal solid
+and semisolid waste, dead animals or other
+discarded solid material.
+34. " Solid waste management"
+means prevention or reduction of solid waste
+accumulation, including management of storage,
+collection, transportation, treatment, utilization,
+processing and final disposal or salvage,
+source -separation, recycling or reuse of the
+resource recovery from solid waste, and
+necessaryfacilities therefor.
+35. " Transfer station"' means a fixed
+or mobile facility normally used as an adjunct of
+a solid waste collection and disposal system or
+resource recovery system between a collection
+route and a disposal site.
+36. " Waste" means useless,
+unwanted or discarded material.
+37. " Wasteshed" means the
+geographical area within the county. ( Ord. 91-
+004 § 1, 1991; Ord. 85- 037 § 4. 01 1985)
+3 - EXHIBIT " A" ORDINANCE NO. 92- 071 ( 12/ 9/ 92)

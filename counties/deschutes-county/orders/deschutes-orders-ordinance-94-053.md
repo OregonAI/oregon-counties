@@ -1,0 +1,5404 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-94-053
+title: 'Ordinance No. 94-053'
+doc_type: ordinance
+citation: 'Ordinance No. 94-053'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616699397_1995-01133-Ordinance%20No.%2094-053%20Recorded%2012_8_1994.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 5eed6ed5c917e436ddfd5bd17deeeea8300b30de1e88872509978f2d6d8d72cb
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.044
+    - ORS 443.400
+    - ORS 522.005
+    - ORS 537.515
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 94-053 (Ordinance No. 94-053)
+
+## At a glance
+
+Ordinance No. 94-053 — orders of Deschutes County. 60 pages.
+
+## Full text
+
+REVIEW
+95- 01133 ----
+couNSE_ __-___
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 18 of the
+DeschutesCounty Code Chapters 18.04, *
+w
+N
+18, 32, 18. 64, 18. 68, 18. 88, and 18. 128
+replacing "Animal Hospital" with "Veterinary
+Clinic" and adding " Veterinary Clinic" as a '
+Conditional Use in the RSR - M and RSR - 5t
+zones; and declaring an emergency.
+ORDINANCE NO. 94- 053
+0137- 1675
+WHEREAS, an application for a text amendment has been submitted by Steven Myrin
+and Richard Hoffman;
+WHEREAS, The Board of CountyCommissionershasdetermined that veterinary clinics
+are an appropriate conditional use in the RSR - M zone;
+WHEREAS, after notice and hearing as required by law, the Board of County
+Commissioners has considered the recommendation of the Planning Commission; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON ORDAINS as follows:
+Section 1. ADOPTION OF AMENDMENTS TO PARAGRAPH 18. 04. 030 OF THE
+DESCHUTES COUNTY CODE. Paragraph 18.04.030 of the Deschutes County Code, as amended,
+is further amended as follows herein, and as shown on Exhibit " A" attached:
+18. 04. 030 Definitions.
+Animal Hospital. A place where animals or pets are given medical attention and cared
+for during the time of such treatment.]
+Veterinary Clinic. A place where animals or pets are given medical attention and cared
+for during the time of such treatment."
+Section 2. ADOPTION OF AMENDMENTS TO PARAGRAPH 18. 32. 030 OF THE
+DESCHUTES COUNTY CODE. Paragraph 18.32.030 of the Deschutes County Code, as amended,
+is further amended as follows herein, and as shown on Exhibit " B" attached:
+CRoF/ iMFp
+C1995
+wEa
+FEBpgX995
+1 - ORDINANCE NO. 94- 053 ( November 30, 1994)
+A
+0137- 1676
+18. 32. 030 Conditional Uses Permitted.
+E. Kennel and/ or [ animal hospital] veterinary clinic."
+Section 3. ADOPTION OF AMENDMENT TO PARAGRAPH 18. 64. 030 OF THE
+DESCHUTES COUNTY CODE. Paragraph 18.64.030 of the Deschutes County Code, as amended,
+is further amended as follows herein, and as shown on Exhibit " C" attached:
+18. 64. 030 Conditional Uses Permitted.
+E. Kennel or [ animal hospital] veterinary clinic."
+Section 4. ADOPTION OF AMENDMENT TO PARAGRAPH 18. 68. 030 OF THE
+DESCHUTES COUNTY CODE. Paragraph 18.68.030 of the Deschutes County Code, as amended,
+is further amended as follows herein, and as shown on Exhibit " D" attached:
+18. 68. 030 Conditional Uses Permitted.
+D. Medical clinic[ s] or veterinary clinic."
+Section 5. ADOPTION OF AMENDMENT TO PARAGRAPH 18. 88. 040 OF THE
+DESCHUTES COUNTY CODE. Paragraph 18.88.040 of the Deschutes County Code, as amended,
+is further amended as follows herein, and as shown on Exhibit " E" attached:
+18.88. 040 Uses Permitted Conditionally.
+B. 9. [ Animal hospital] veterinary clinic."
+Section 6. ADOPTION OF AMENDMENTS TO PARAGRAPH 18. 128. 040 OF THE
+DESCHUTES COUNTY CODE. Paragraph 18.128.040 of the Deschutes County Code as amended,
+is further amended as follows herein, and as shown on Exhibit " F" attached:
+18. 128. 040 Specific Use Standards.
+C. Cemeter[ iesly.
+E. [ Clinics] Medical clinic, veterinary clinic, Club [ s], Lodge [ s], Fraternal Organization[ s],
+Community Center[ s], Grange Hall[ s], Golf Course[ s], Horse Stable[ s], and Horse Events requiring
+conditional uses, Grounds and Buildings for Games or Sports, Country Club[ s].
+E.c. noises [and] glare, odor and other adverse impacts."
+2 - ORDINANCE NO. 94- 053 ( November 30, 1994)
+0137- 1611
+Section 7. ADDITIONS AND DELETIONS. Additions are set forth in bold faced type
+and deletions are bracketed.
+Section 8. SEVERABILITY. The provisions of this ordinance are severable. If any
+section, sentence, clause, or phraseof this ordinance or anyexhibit thereto is adjudgedto be invalid
+by a court of competent jurisdiction that decision shall not affect the validity of the remaining
+portions of this ordinance or exhibit thereto.
+Section 9. CODIFICATION. County Legal Counsel shall have the authority to format
+the provisions contained herein in a manner that will integrate them into the County Code consistent
+with the County Legal Counsel form and style for ordinance codification. Such codification shall
+include the authority to make format changes, to make changesin numbering systemsand to make
+suchnumberingchangesconsistentwith interrelated codesection. In addition, aspart of codification
+of theseordinances, County Legal Counselmay insert appropriate legislative history reference. Any
+legislative history references included herein are not adopted as part of the substance of this
+ordinance, but are included for administrative convenience and as a reference. They may be
+changed to correct errors and to conform to proper style without action of the Board of County
+Commissioners.
+Section 10. EMERGENCY. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergencyis declared to exist, and this
+Ordinance takes effect on its passage.
+DATEDthis7 dayof L Gyc1-994.
+BOARD OF COUNTY COMMISSIONERS
+O DESCHUTES COU TY, OREGON
+1
+Cr)
+NANCY P PE JCHIANGEN, Cha r
+TOM THROOP, Com . sioner
+T:
+Recording Secretary BARRY H. 9LAUGHTER, Commissioner
+3 - ORDINANCE NO. 94- 053 ( November 30, 1994)
+01.37_ 161118
+NOTE: Additions are in bold and underlined; and deletions are bracketed [ J.
+Chapter 18. 04
+TITLE, PURPOSE AND
+DEFINITIONS
+Sections:
+18. 04. 010 Title .
+18. 04. 020 Purpose
+18. 04. 030 Definitions
+18. 04. 010 Title.
+This title shall be known as the Deschutes
+County Zoning Ordinance of 1979.
+18. 04. 020 Purpose.
+A. The intent or purpose of this title is
+to promote the public health, safety and
+general welfare and to carry out the
+Deschutes County Comprehensive Plan, the
+provisions of ORS Chapter 215 and the
+Statewide Planning Goals adopted pursuant to
+ORS Chapter 197. This title is to establish
+zoning districts and regulations governing the
+development and use of land within portions
+of Deschutes County, Oregon;
+B. To provide regulations governing
+nonconforming uses and structures; to
+establish and provide for the collection of
+fees; to provide for the administration of this
+title and for the officials whose duty it shall be
+to enforce the provisions thereof; to provide
+penalties for the violations of this title; and to
+provide for resolution of conflicts; ( Ord. 91-
+020 § 1, 1991)
+C. To regulate the placement, height and
+bulk of buildings; and the placement and
+growth of vegetation within the county to
+ensure access to solar energy by reasonably
+regulating interests in property within the
+county, asauthorized under ORS 215.044and
+ORS 105. 880 through 105. 890, to promote and
+maximize the conservation of energy by
+preserving the option to utilize solar energy
+and to implement the Comprehensive Plan
+polices relating to solar energy; and
+D. To encourage the design of new
+buildings, structures and developments which
+use solar energy and protect future options to
+use solar energy by protecting solar access.
+Ord. 83- 037 § 1, 1983)
+18. 04. 030 Definitions.
+As used in this title, the following words and
+phrases shall mean:
+Accepted Farming Practice. A mode of
+operation common_ to farms and ranches of a
+similar nature, necessary for the operation of
+such farms and ranches with the intent to
+obtain a profit in money, and customarily
+utilized in conjunction with farm use.
+Access. The right to cross between public
+and private property allowing pedestrians and
+vehicles to enter and leave property.
+Accessory Use or Accessory Structure. A
+use or structure incidental and subordinate to
+the main use of the property, and located on
+the same lot as the main use. Accessory uses
+include drilling for, and utilization of, low-
+temperature geothermal fluid in conjunction
+with the main use of the property. ( Ord. 85-
+002 § 1, 1985)
+Adjoining. Contiguous; touching or con-
+nected, including tracts of land that only
+connect or touch at a common point. ( Ord.
+91- 020 § 1, 1991)
+Affected Persons. ( Deleted by Ord. 91-038
+4, 1991)
+Agricultural Land. Lands classified by the
+U. S. Soil Conservation Service ( SCS) as
+predominately Class I -VI soils, and other
+lands in different soil classes which are suit-
+able for farm use, taking into consideration
+soil fertility, suitability for grazing and crop-
+ping, climatic conditions, existing and future
+availability of water for farm irrigation pur-
+poses, existing land use patterns, technological
+and energy inputs required, and accepted
+farming practices. Lands in other classes
+which are necessary to permit farm practices
+to be undertaken on adjacent or nearby lands
+shall be included as agricultural lands in any
+event.
+Chapter 18. 04 ( 11/ 30/ 94) 1 ( 06/ 08/ 94)
+Agricultural Structure. Agricultural struc-
+tures include any structure considered to be
+an agricultural structure under the building
+code. ( Ord. 92- 034 § 1, 1992)
+Agricultural Use. Any use of land, whether
+for profit or not, related to raising, harvesting
+and selling crops or by the feeding, breeding,
+management and sale of, or the produce of,
+livestock, poultry, fur -bearing animals or
+honeybees or for dairying and the sale of dairy
+products or any other agricultural or
+horticultural use or animal husbandry or any
+combination thereof not specifically covered
+elsewhere in the applicable zone. Agricultural
+use includes the preparation and storage of
+the products raised on such land for human
+and animal use and disposal by marketing or
+otherwise. Agricultural use also includes the
+propagation, cultivation, maintenance and
+harvestingof aquaticspecies. Agricultural use
+does not include the use of land subject to the
+provisions of ORS Chapter 321, except land
+used exclusively for growing cultured
+Christmas trees. ( Ord. 94- 008 § 2, 1994)
+Aircraft. Any vehicle designedor used for
+flight through the air and capable of carrying
+goods or people.
+Airport. Any area of land or water which is
+used or intended to be used by the general
+public for the landing and taking off of air-
+craft and any appurtenant areas, buildings or
+facilities.
+Animal Hospital. A place where animals or
+pets are given medical attention and cared for
+during the time of such treatment.]
+Apartment. See Dwelling, multiple - family.
+Area of Shallow Flooding. ( Deleted by Ord.
+93- 002 § 1, 1993)
+Area of Special Flood Hazard. The land in
+the flood plain within a community subject to
+a one percent or greater chance of flooding in
+any given year. Suchareasare designatedby
+the letter A or V on the Flood Insurance Rate
+Map ( FIRM). ( Ord. 88- 030 § 3, 1988)
+Automobile Wrecking Yard. A premises
+used for the storage or sale of used auto-
+mobile or truck parts or for the storage,
+dismantling or abandonment of obsolete
+0137- 1679
+automobiles, trailers, trucks, machinery or
+parts thereof.
+Automobile Service Station. A building or
+portion thereof or land used for the retail sale
+of automobile fuel, oil and accessories and
+service.
+Automobile Repair Garage. A building or
+portion thereof used for the care and repair of
+motor vehicles or where such vehicles are
+parked or stored for compensation, hire or
+sale.
+Automobile and Trailer Sales Area. An
+open area, other than a street, for the display,
+sale or rental of new or used automobiles or
+trailers and where no repair work is done
+except minor incidental repair of automobiles
+or trailers to be displayed, sold or rented on
+the premises.
+Auxiliary. As used in Chapters 18. 36 and
+18.40, "auxiliary" means a use or alteration of
+a structure or land which provides help or is
+directly associated with the conduct of a
+particular forest practice. An auxiliary struc-
+ture is located on a site, temporary in nature,
+and is not designed to remain for the forest' s
+entire growth cycle from planting to harvest-
+ing. An auxiliary use is removed when a
+particular forest practice has concluded.
+Ord. 92- 025 § 1, Exhibit A, 1992)
+Bank - Full Stage. The elevation at which
+water overflows the natural banks of a stream,
+river or lake and begins to inundate the
+upland. In the absence of physical evidence,
+the two- year reoccurrence interval flood
+elevation may be used to approximate bank -
+full stage. ( Ord. 86- 056 § 2, 1986)
+Basement. A story partly or wholly under-
+ground. A basement shall be counted as a
+story in building height measurement when
+the floor level directly above is more than six
+feet above the average level of the adjoining
+grade.
+Bed and Breakfast Inn. A single- family
+dwelling unit where lodging and meals are
+provided for compensation, in which no more
+than three ( 3) guest rooms are provided for
+no more than eight ( 8) guests. A guest shall
+not rent for a time period longer than thirty
+Chapter 18. 04 ( 11/ 30/ 94) 2 ( 06/ 08/ 94)
+30) consecutive days. ( Ord. 91- 038 § 3, 1991)
+Bed or Banks of Stream or River. The
+physical container of the waters of a stream or
+river lying below bank -full stageand the land
+10 feet on either side of the container. ( Ord.
+86- 056 § 2, 1986)
+Bicycle. A vehicle designed to operate on
+the ground on wheels, propelled solely by
+human power, upon which any person or
+persons may ride, and with every wheel more
+than 14 inches in diameter or two tandem
+wheels either of which is more than 14 inches
+in diameter or having three wheels in contact
+with the ground, any of which is more than 14
+inches in diameter. ( Ord. 93- 005 § 1, 1993)
+Bicycle Facilities. A general term denoting
+improvements and provisions made to
+accommodate or encourage bicycling,
+including parking facilities, all bikeways and
+shared roadways not specifically designated for
+bicycle use. ( ord. 93- 005 § 1, 1993)
+Bikeway. Any road, path or way which in
+some manner is specifically designated as
+being open to bicycle travel, regardless of
+whether such facility is designated for the
+exclusive use of bicycles or is shared with
+other transportation modes. ( Ord. 93- 005 § 1,
+1993)
+Bicycle commuter facilities. Shower( s) and
+changing room( s) provided in pommercial and
+public buildings employing at least 25 people.
+Such facilities may be part of regular
+bathroom facilities. ( Ord. 93- 005 § 1, 1993)
+Boarding House. A building or portion
+thereof, other than a motel, restaurant or
+hotel, where meals or lodging or both are
+provided for compensation for more than four
+persons, other than a family.
+Boat Dock or Pier, Community. A personal
+use boating structure that is built over or
+floats upon the water of a lake, river or
+stream, that serves more than one property
+owner for the mooring of boats or as a
+landing place for marine transport, and that
+has a surface area of 320 square feet or less.
+Ord. 89- 009 § 2, 1989)
+Boat Dock or Pier, Individual. A personal
+use boating structure that is built over or
+013" 7- 1680
+floats upon the water of a lake, river or
+stream and that serves one property owner for
+mooring boats or as a landing place for
+marine transport, and that has a surface area
+of 160 square feet or less. ( Ord. 89- 009 § 2,
+1989)
+Boat House. A covered or enclosed struc-
+ture designed to provide moorage and/ or
+storage for recreational or commercial marine
+transport and built over or floating upon a
+lake, river or stream. ( Ord. 89- 009 § 2, 1989)
+Boat Slip. An area of bank or shore where
+soil or other material is excavated to a level at
+or below the level of the waters of an adjacent
+lake, river or stream, to allow the mooring or
+landing of marine transport within the exca-
+vated area. ( Ord. 89- 009 § 2, 1989)
+Building. A structure built for the support,
+shelter or enclosure of persons, animals,
+chattels or property of any kind.
+Camp, Tourist or Trailer Park. ( Deleted by
+Ord. 91- 038 § 4, 1991)
+Campground. ound. An area designed for over-
+night, temporary use where facilities are
+provided to accommodate camping for two or
+more tents or recreational vehicles. A camp-
+ground shall not include campsite utility hook-
+ups or commercial activities. ( Ord. 91- 038 §
+3, 1991)
+Camping Vehicles. ( Deleted by Ord. 91-038
+4, 1991)
+Carrying Capacity. Level of use which can
+be accommodated and continued without
+irreversible impairment of natural resource
+productivity, the ecosystem and the quality of
+air, land and water resources.
+Church. An institution that has non- profit
+status as a church established with the
+Internal Revenue Service. ( Ord. 91- 038 § 3,
+1991)
+Clear Vision Area. A triangular area on the
+corner of a lot at the intersection of two
+streets or a street and a railroad. Two sides
+of the triangle are sections of the lot lines
+adjoining the street or railroad measuredfrom
+the corner to a distance specified in Section
+18. 116. 020( B) of this title. Where lot lines
+have rounded corners, the specified distance is
+Chapter 18. 04 ( 11/ 30/ 94) 3 ( 06/ 08/ 94)
+measured from a point determined by the
+extension of the lot lines to a point of inter-
+section. The third side of the triangle is the
+line connecting the ends of the measured
+sections of the street lot lines. ( Ord. 91- 038 §
+3, 1991)
+Cluster Development. A planned develop-
+ment, at least 5 acres in area, permitting the
+clustering of single or multi - family residences
+on one part of the property, with individual
+lots not exceeding 2 acres in size. Individual
+lots are contiguous to one another except for
+occasional corridors to allow for human
+passage, wildlife travel or natural features
+such as a stream or bluff. No commercial or
+industrial uses permitted. ( Ord. 84- 015 § 1,
+1984)
+Commercial Agricultural Enterprise. Farm
+operations which will:
+A. Contribute in a substantial way to the
+area' s existing agricultural economy; and
+B. Help maintain agricultural processors
+and established farm markets.
+When determining whether a farm is part of
+a commercial agricultural enterprise, not only
+what is produced, but how much and how it is
+marketed shall be considered. ( Ord. 91- 038 §
+3, 1991)
+Commercial Amusement Establishment. A
+facility supplying refreshments and various
+forms of entertainment to the general public.
+Commercial Farm. As used in Chapter
+18. 16, " Commercial farm" means those land
+tracts shown on the 1991 Assessor' s records as
+contiguous ownership tracts under one name
+or separated only by a road), zoned EFU,
+receiving special assessment for farm use and
+in the top 90% of assessed farm use values
+arranged in ascending order). These farms
+are identified in the resource element of the
+comprehensive plan. ( Ord. 92- 065 § 1, 1992)
+Commercial Forest Land. Land which is
+used for the growing and harvesting of forest
+tree species. ( Ord. 92- 025 § 1, Exhibit A,
+1992)
+Commercial Residential Use. A building,
+portion of a building or group of buildings
+designed or used for human occupancy or
+0137- 1681
+lodging for which a fee is charged, suchas a
+hotel, motel or tourist camp, but excluding
+quarters intended for permanent occupancy
+such as a duplex or apartment. A
+manufactured home park is not included in
+this definition.
+Community Service Use. Any public or
+semi- public uses, such as landfills, schools,
+utility facilities, churches, community build-
+ings, fire stations, cemeteries, mausoleums,
+crematories, airports and private uses which
+attract significant numbers of people, such as
+airports, livestock sales yards and other similar
+uses. ( Ord. 85- 016 § 1, 1985)
+Community Water System. A domestic
+water supply source or distribution system
+which serves or is designed to serve more than
+three individual residences or other uses for
+the purpose of supplying water for household
+uses, having legal and financial capacity for
+long- term operation and maintenance. Does
+not include municipality water supply systems.
+Community Sewage System. A sewage
+disposal system serving or designed to serve
+more than ten individual residences or other
+usesfor the purposeof disposingof household
+liquid wastes, having legal and financial
+capacity for long- term operation and mainte-
+nance. Does not include municipal or public
+utility sewage disposal system.
+Conditional Use. A use that may be per-
+mitted, permitted with conditions or denied at
+the discretion of the hearings body based
+upon findings of fact as required by this title,
+the County Uniform Development Procedures
+Code and the Comprehensive Plan. ( Ord. 91-
+038 § 1, 1991; Ord. 86- 032 § 1, 1986)
+Condominium. A type of ownership defined
+by state statute as the land, if any, whether
+leasehold or in fee simple, and whether
+contiguous or not contiguous; any buildings,
+improvementsand structures on the property;
+and any easements, rights and appurtenances
+belonging to the property which are submitted
+to the provisions of ORS 100. 050 to 100. 625.
+Ord. 91- 038 § 3, 1991)
+Conduit. Any tunnel, canal, pipeline, aque-
+duct, flume, ditch or similar man- made struc-
+Chapter 18. 04 ( 11/ 30/ 94) 4 ( 06/ 08/ 94)
+ture which is or may be used to convey water.
+Ord. 86- 018 § 1, 1986)
+Conflicting Use. A land use which could
+negativelyimpact or be negativelyimpactedby
+a Goal 5 resource. ( Ord. 91- 038 § 3, 1991)
+Conservation Easement. A non -possessory
+interest in real property conveyed by the
+property owner to the county, imposing limi-
+tations or affirmative obligations concerning
+the use of the property. The purposes of a
+conservation easement include, but are not
+limited to, retaining or protecting natural,
+scenic or open space values, public access,
+protecting natural resources, maintaining or
+enhancing air and water quality and preserving
+the historical, archaeological or cultural
+aspects of the property. ( Ord. 86- 054 § 1,
+1986)
+Contiguous Land. Parcels of land under the
+same ownership which abut, irrespective of
+roadways, stream or valley bottom.
+Cross - Section. A profile of the ground
+surface perpendicular to the center line of a
+street, stream or valley bottom.
+Dam. Any man-made structure which is or
+may be used to impound water. ( Ord. 86- 018
+1, 1986)
+Destination Resort. A self- contained devel-
+opment providing visitor - oriented accommo-
+dations and developed recreational facilities in
+a setting with high natural amenities. To
+qualify as a "major destination resort" under
+Goal 8, a proposed development must meet
+the following standards:
+A. The resort is located on a site of 160
+or more acres.
+B. At least 50 percent of the site is dedi-
+cated to permanent open space, excluding
+yards, streets and parking areas.
+C. At least two million dollars
+2, 000, 000) ( in 1984 dollars) is spent in the
+first phase on improvements for on- site devel-
+oped recreational facilities andvisitor- oriented
+accommodations, exclusive of costs for land,
+sewer and water facilities and roads. Not less
+than one- third of this amount shall be spent
+on developed recreational facilities.
+Developed recreational facilities and key
+013" 7' 1682
+facilities intended to serve the entire develop-
+ment and visitor - oriented accommodations
+must be physicallyprovided or be guaranteed
+through surety bonding or substantially equiv-
+alent financial assurances prior to closure of
+sale of individual lots or units. In phased
+developments, developed recreational facilities
+and other key facilities intended to serve a
+particular phase shall be constructed prior to
+sales in that phase or guaranteed through
+surety bonding.
+D. Visitor - oriented accommodations are
+provided, including meeting rooms, restaurants
+with seatingfor 100persons, and 150separate
+rentable units for overnight lodgings.
+Accommodations available for residential use
+will not exceed two such units for each unit of
+overnight lodging.
+D. Commercial uses limited to those
+types and levels necessary to meet the needs
+of visitors to the development. Industrial uses
+are not permitted. ( Ord. 92- 004 § 1, Exhibit
+A, 1992)
+DEQ. The Oregon Department of Environ-
+mental Quality. ( Ord. 90- 014 § 2, 1990)
+Developed Recreation Facilities. With
+respect to destination resorts, means improve-
+ments constructed for the purpose of recrea-
+tion. These include, but are not limited to,
+golf courses, tennis courts, swimming pools,
+marinas, equestrian trails and facilities and
+bicycle paths. ( Ord. 92- 004 § 2, Exhibit B,
+1992)
+Diversion. Any man- made structure which
+is or may be used to deflect or divert water
+from a river or stream into a conduit. ( Ord.
+86- 018 § 1, 1986)
+Disposal Site. Means land and facilities
+used for disposal, handling or transfer of or
+resource recovery of solid wastes. ( Ord. 92-
+066 § 1, 1992)
+DOGAMI. The Oregon Department of
+Geology and Mineral Industries. ( Ord. 90- 014
+2, 1990)
+Dust - Sensitive Use. Real property normally
+used as a residence, school, church, hospital
+or similar use. Property usedin industrial or
+agricultural activities is not " dust - sensitive"
+Chapter 18. 04 ( 11/ 30/ 94) 5 ( 06/ 08/ 94)
+unless it meets the above criteria in more than
+an incidental manner. Accessory uses such as
+garages and workshops do not constitute dust -
+sensitive uses. ( Ord. 91- 038 § 1, 1991; Ord.
+90- 014 § 2, 1990)
+Dwelling, Multi - Family. A building or
+portion thereof designed for occupancy by
+three or more families living independently of
+each other.
+Dwelling, Single -Family. A detachedbuild-
+ing containingone dwelling unit and designed
+for occupancyby one family only, not includ-
+ing manufactured homes and such temporary
+structures as tents, tepees, travel trailers and
+other similar structures. ( Ord. 91- 005 § 1,
+1991)
+Dwelling, Seasonal. A dwelling unit, includ-
+ing a manufactured home, travel trailer, or
+camping vehicle, designed for and used as a
+temporary dwelling by one family for recrea-
+tional or seasonal purposes only.
+Dwelling, Two -Family. A building contain-
+ing two dwelling units and designedfor occu-
+pancy by two families.
+Dwelling Unit. One or more rooms in a
+building designedfor occupancyby one family
+and having not more than one cooking area or
+kitchen.
+Dude Ranch. A ranch operated wholly or in
+part as a resort offering horse riding related
+activities as outdoor recreation opportunities,
+and offering only temporary rental
+accommodations for vacation use by non-
+residents.
+Easement. A grant of the right to use a
+parcel of land or portion thereof for specific
+purposes where ownership of the land or
+portion thereof is not transferred.
+Ensure. Guarantee; make sure or certain
+something will happen. ( Ord. 91- 020 § 1,
+1991)
+ESEE. The letters stand for " economic,
+social, environmental, and energy." ESEE
+means the economic, social, environmental
+and energy " consequences," as defined in the
+Oregon Administrative Rules, Section 660- 16-
+005, that might result from prohibiting,
+restricting, or fully allowing a "conflicting" use.
+0137- 1,683
+A conflicting use is one which could negatively
+impact or be negatively impacted by the Goal
+5 resource. ( Ord. 90- 014 § 2, 1990)
+Excavation, Grading and Fill and Removal.
+As used in this title, these activities shall not
+include practices that constitute accepted
+farming practices as defined in ORS Chapter
+215. ( Ord. 91- 038 § 3, 1991)
+Exempt Vegetation. A tree or other plant
+that is shown by the sunchart accompanying a
+solar access permit application to cast existing
+shade on a protected area. ( Ord. 83- 037 § 2,
+1983)
+Existin . Existing at the time of application.
+Ord. 83- 037 § 2, 1983)
+Factory Built Dwelling. A dwelling unit
+built substantially or entirely at a place other
+than the residential site, meeting county and
+state building code requirements and
+including, but not limited to, prefabricated or
+modular homes, but excluding manufactured
+homes. ( Ord. 91- 020 § 1, 1991)
+Family. An individual or two or more
+persons related by blood, marriage, legal
+adoption, or legal guardianship living together
+as one housekeeping unit using a common
+kitchen and providing meals or lodging to not
+more than three additional unrelated persons,
+excluding servants; or a group of not more
+than five unrelated persons living together as
+one housekeeping unit using a common
+kitchen.
+Farm Use. The current employment of land
+for the primary purpose of obtaining profit in
+money by raising, harvesting and selling crops
+or by the feeding, breeding, management and
+sale of,. or the produce of, livestock, poultry,
+fur -bearing animals or honeybees or for
+dairying and the sale of dairy products or any
+other agricultural or horticultural use or
+animal husbandry or any combination thereof.
+Farm use includes the preparation and storage
+of the products raised on such land for human
+and animal use and disposal by marketing or
+otherwise. " Farm Use" also includes the
+current employment of land for the primary
+purpose of obtaining a profit in money by
+stabling or training equine. Farm use also
+Chapter 18. 04 ( 11/ 30/ 94) 6 ( 06/ 08/ 94)
+Is
+includes the propagation, cultivation,
+maintenance and harvesting of aquatic species.
+Farm use does not include the use of land
+subject to the provisions of ORS Chapter 321,
+except land used exclusively for growing
+cultured Christmas trees. ( Ord. 94- 008 § 1,
+1994; Ord. 91- 038 § 1, 1991)
+Feed Lot. A livestock feeding yard. ( Ord.
+91- 020 § 1, 1991)
+Fence, Sight - Obscuring. A continuous
+fence, wall, evergreen planting or combination
+thereof constructed and/ or planted to effec-
+tively screena particular usefrom view. ( Ord.
+91- 020 § 1, 1991)
+Fill and Removal. The deposit or removal
+by artificial means of material at a location
+within the waters of any lake, river or stream,
+or in wetlands or riparian areas. ( Ord. 91- 020
+1, 1991; Ord. 89- 009 § 2, 1989)
+Fire Break. A break in the ground cover
+fuels intended to prevent the spread of fire.
+Fish PassageDevice. Any man- made struc-
+ture which is or may be used to enable fish to
+pass over a dam to move upstream. ( Ord. 86-
+018§ 1, 1986)
+Fish Protection Device. Any man- made
+structure, such as a fish screen, which is or
+maybeusedto prevent fish from entering into
+or passing through conduits, penstocks and
+other water -conducting structures or devices
+connected to a hydroelectric facility. ( Ord.
+86- 018 § 1, 1986)
+Flood or Flooding. A general and tempo-
+rary condition of partial or complete inunda-
+tion of normally dry land areasfrom:
+A. The overflow of inland or tidal
+waters; and/ or
+B. The unusual and rapid accumulation
+of runoff of surface waters from any source.
+Ord. 88- 030 § 3, 1988)
+Flood, Base. The flood having a one per-
+cent chance of being equaled or exceeded in
+any given year. Also referred to as the " 100 -
+year flood." Such areas are designated by the
+letter A or V on the Flood Insurance Rate
+Map ( FIRM). ( Ord. 88- 030 § 3, 1988)
+Flood Hazard Area. ( Repealed by Ord. 88-
+030 § 1, 1988)
+Chapter 18. 04 ( 11/ 30/ 94)
+137- 1684
+Flood Hazard Boundary Map. ( Repealed by
+Ord. 88- 030 § 1, 1988)
+Flood Insurance Rate Map.( FIRM). The
+official map on which the United States
+Federal Insurance Administration has
+delineated both the areas of special flood
+hazards and the risk premium zones applicable
+to the community. The FIRM is adopted by
+reference in Ordinance No. 88- 031. ( Ord. 88-
+030 § 3, 1988)
+Flood Insurance Study. The official report
+provided by the Federal Insurance Admini-
+stration that includes flood profiles, the Flood
+Boundary- Floodway Map, and the water
+surface elevation of the base flood condition
+of partial or complete inundation of normally
+dry land areas. The Study is adopted by
+reference in Ordinance No. 88- 031. ( Ord. 88-
+030 § 3, 1988)
+Flood Plain. The area adjoining a stream
+that is subject to inundation by the base flood
+discharge that is outside the floodway. ( Ord.
+93- 002 § 2, 1993)
+Flood Plain Development. Any man-made
+change to improved or unimproved real estate,
+including, but not limited to, buildings or
+other structures, mining, dredging, filling,
+grading, paving, excavationor drilling opera-
+tions, located within the area of special flood
+hazard. ( Ord. 88- 030 § 3, 1988)
+Flood Plain Profile. ( Repealed by Ord. 88-
+030 § 1, 1988)
+FloodwM. The channel of a river or other
+water course, and the adjacent land areas, that
+must be reserved in order to discharge the
+base flood without cumulatively increasing the
+water surface elevation more than one foot.
+Ord. 88- 030 § 3, 1988)
+Forest Lands. Lands which are suitable for
+commercial forest uses including adjacent or
+nearby lands which are necessary to permit
+forest operations or practices and other
+forested lands that maintain soil, air, water
+and fish and wildlife resources. ( Ord. 92- 025
+1, Exhibit A, 1992)
+Forest Operation. Any commercial activity
+relating to the growing and harvesting of
+forest tree species. ( Ord. 92- 025 § 1, Exhibit
+7 ( 06/ 08/ 94)
+A, 1992)
+Forest Practice. Any operation conducted
+on or pertaining to commercial forest lands,
+including but not limited to:
+A. Reforestation of forest land;
+B. Road construction and maintenance;
+C. Harvesting of forest tree species;
+D. Application of chemicals; and
+E. Disposal of slash. ( Ord. 92- 025 § 1,
+Exhibit A, 1992)
+Forest Uses. Forest uses include production
+of trees and the processing of forest products;
+open space; buffers from noise and visual
+separation of conflicting uses; watershed
+protection and wildlife and fisheries habitat;
+soil protection from wind and water;
+maintenance of clean air and water; outdoor
+recreational activity and related support
+services and wilderness values compatible with
+these uses; and grazing for livestock.
+Frontage. All property adjoining one side of
+a street and measured along the street line,
+between intersecting and intercepting streets
+or between a street and a right- of- way, water-
+way, end of a dead-end or city boundary.
+Geothermal Energy Facility, Small -Scale.
+An electrical power generating plant with a
+nominal electric generating capacity of less
+than 25 MW; a pipeline that is less than 16
+inches in diameter and less than 5 miles in
+length used to carry geothermal resources; and
+related or supporting equipment and facilities.
+Ord. 85- 002 § 2, 1985)
+Geothermal Resource, High - Temperature.
+Any groundwater, steam or other fluid 250
+degrees F. or greater which is used for its
+thermal characteristics. ( Ord. 85- 002 § 3,
+1985)
+Geothermal Resource, Low - Temperature.
+Any groundwater, steam or other fluid less
+than 250 degrees F. which is used for its
+thermal characteristics. ( Ord. 85- 002 § 4,
+1985)
+Geothermal Well, High -Temperature. Any
+excavation, as defined by ORS 522.005( 10),
+522. 005( 12) or 522. 005( 15), that is constructed
+or used for the thermal properties of the
+resource contained within, or which is con-
+013' 7- 1685
+structed or used for returning such resource to
+an underground reservoir. ( Ord. 85- 002 § 5,
+1985)
+Geothermal Well, Low - Temperature. Any
+excavation, as defined by ORS 537.515(7),
+that is constructed or used for the thermal
+properties of the resource contained within, or
+which is constructed or used for returning
+such resource to an underground reservoir.
+Ord. 85- 002 § 6, 1985)
+Goal 5 Resource. Open spaces, scenic and
+historic areas and natural resources as
+specified in Goal 5 of Oregon' s Statewide
+PlanningGoalsandits implementing Adminis-
+trative Rule, OAR 660, Division 15. ( Ord. 91-
+038 § 3, 1991)
+Grade ( Ground Level). The average of the
+finished ground elevations of all walls of a
+building. For purposes of height
+determination in the Landscape Management
+Combining Zone, grade shall be the average
+of natural ground elevations prior to
+construction for the wall closest to and dacing
+the road, river or stream. ( Ord. 91- 038 § 1,
+1991)
+Guest House. Living quarters within a
+detached accessorybuilding located on the
+same lot as the main building for use by
+temporary guests of the occupants of the main
+premises, not rented or otherwise used as a
+separate dwelling. A guest house shall contain
+no kitchen, kitchenette or other cooking
+facilities. ( Ord. 91- 038 § 1, 1991)
+Habitable Floor. Any floor usable for living
+purposes, including working, sleeping, eating,
+cooking, or recreation or a combination
+thereof. A floor used only for storage pur-
+poses is not a habitable floor.
+Highest Shade Producing Point. The highest
+shade producing point of the structure two
+hours before and after the solar zenith on
+December 21. ( Ord. 83- 037 § 2, 1983)
+Height of Building. The vertical distance
+from grade to the highest point of the roof.
+Ord. 91- 038 § 1, 1991)
+Historic Area or District. Lands with sites,
+structures or objects of local, regional,
+statewide or national historical significance as
+Chapter 18. 04 ( 11/ 30/ 94) 8 ( 06/ 08/ 94)
+indicated in the Comprehensive Plan
+Resource Element. ( Ord. 91- 020 § 1, 1991)
+Historic Site. A location, structure or object
+having local, regional, statewide or national
+historic significance as indicated in the
+Comprehensive Plan Resource Element.
+Ord. 91- 038 § 3, 1991)
+Home Occupation. An occupation or pro-
+fession carried on within a dwelling or a
+residential accessory structure by a resident of
+the dwelling. The occupation or profession
+shall be secondary to the residential use.
+Ord. 91- 020 § 1, 1991)
+Hog Farm. Any premises where 25 or more
+hogs are maintained.
+Horse Events. Means any exhibition or
+competition involving horses whose purpose is
+to test and/ or advance the skills of a horse
+and/ or its rider, such as but not limited to
+horse shows, schooling events, horse training
+seminars or clinics, open houses, cutting
+competitions, rodeos for] and jackpot roping
+contests. ( Ord. 94- 008 § 3, 1994)
+Horse Stables. Structures, including indoor
+and outdoor riding arenas, for the stabling or
+training of horsesandother facilities normally
+associated with such uses. ( Ord. 94- 008 § 4,
+1994)
+Horse Stables, Commercial. Stables for the
+boarding and/or keeping of horses and the
+training of horses that are not non-commercial
+riding stables as defined in this title. ( Ord.
+94- 008 § 5, 1994)
+Horse Stables, Non - Commercial. A
+detached accessory structure for the stabling
+or training of horsesownedby the land owner
+or a single lessee of the stable facility for
+personal use. May also include the incidental
+boarding or keeping of up to 5 horses owned
+by persons not the owner or lessee of the
+horse stable for their personal use. ( Ord. 94-
+008 § 6, 1994)
+Hydroelectric Facility. All aspects of any
+project or development necessary for or
+related to the generation of hydroelectric
+energy, including, but not limited to, conduits,
+dams, diversions, fish ladders and screens,
+generators, impoundments, penstocks, tur-
+013" 7- 1686
+bines, transmission facilities and related
+buildings, structures, storage areas, access
+roads, parking areas and surrounding and
+adjacent lands which are necessary for or
+related to the facility. ( Ord. 86- 018 § 1, 1986)
+Impoundment. Any man- made structure
+which is or may be used to impound water.
+Ord. 86- 018 § 1, 1986)
+Insure. ( Repealed by Ord. 91-020 § 1, 1991)
+Intensive Agricultural Use. Any agricultural
+use where accepted farming practice may
+produce noise, dust, chemical application or
+other potential nuisance at any time during
+the year. ( Ord. 91- 038 § 3, 1991)
+Interest. Includes a lot or parcel, a share,
+undivided interest or membership which
+includes the right to occupy the land over-
+night, and a lessee' s interest in land for more
+than three years or less than three years if the
+interest may be renewed under the terms of
+the lease for a total period of more than three
+years. Interest does not include any interest
+in a condominium as that term is defined in
+ORS Chapter 91.505 or any security interest
+under a land sales contract, trust deed or
+mortgage. Interest does not include divisions
+deed or mortgage. Interest does not include
+divisions of land created by lien foreclosures
+or foreclosures of recorded contracts for the
+sale of real property.
+Irrigated acres. As used in Chapter 18. 16,
+irrigated acres means those lands to which a
+water right is appurtenant. ( Ord. 92- 065 § 2,
+1992)
+Junk Yard. Primary or accessory use of a
+parcel of land for the storage, dismantling or
+selling of cast- off or salvage material of any
+sort in other than the original form in which
+it was manufactured or assembled, not includ-
+ing reconditioned secondhand furniture or
+fixtures sold from within a walled building.
+Kennel. A lot or building in which four or
+more dogs, cats, pot- bellied pigs or other
+animals at least four months of age are kept
+commercially for board, breeding, training or
+sale. ( Ord. 94- 001 § 1, 1994)
+Key Facilities. Basic services usually fur-
+nished by local government but which also
+Chapter 18. 04 ( 11/ 30/ 94) 9 ( 06/ 08/ 94)
+may be provided by private enterprise, essen-
+tial to the support of more intensive develop-
+ment. Includes public schools, transportation,
+water supply, fire protection, sewage and solid
+waste disposal.
+Land Development. The division of land
+into parcels or lots for any purpose or the
+creation of units or parcels for the purpose of
+sale or lease for a term of one year or more.
+Includes the intent for disposition of any land,
+whether contiguous or not, including any land
+divided, lots, parcels, units or interests offered
+as a part of a common promotional plan of
+advertising and disposition by a single devel-
+oper or group of developers acting in concert.
+If the land is contiguous or is known, desig-
+nated or advertised as a common unit or by a
+common name, the land shall be presumed,
+without regard to the number of lots covered
+by each individual offering to be offered for
+disposition as part of a common promotional
+plan.
+Land Disposal Site. Means a disposal site
+and related facilities at which the method of.
+disposing solid waste is by landfill. ( Ord. 92-
+066 § 1, 1992)
+Landing strip. An area used for the landing
+and taking off of aircraft for the personal use
+of the property owner or his guests, or aircraft
+employed in agricultural operations.
+Landing Strip, Personal Use. See 'Personal
+Use Landing Strip." ( Ord. 91- 020 § 1, 1991)
+Landscaping. Trees, grass, bushes, shrubs,
+flowers, and garden areas, and incidental
+arrangements of fountains, patios, decks,
+street furniture and ornamental concrete or
+stonework and artificial plants, bushes or
+flowers.
+Legislative. A planning or zoning action
+resulting in a general rule or policy which is
+applicable to an open class of individuals or
+situations.
+Livestock. Domestic animals of types cus-
+tomarily raised or kept on farms for profit or
+other productive purposes. This definition
+does not include household dogs, cats and pot-
+bellied pigs. ( Ord. 94- 001 § 2, 1994; Ord. 91-
+038 § 1, 1991)
+0137- 1687
+Livestock Feed Lot. An enclosure designed
+or used for the purpose of the concentrated
+feeding or fattening of livestock for
+commercial slaughter. ( Ord. 91- 020 § 1, 1991)
+Livestock Sales Yard. An enclosure or
+structure designed or used for holding live-
+stock for purposes of sale or transfer by
+auction, consignment or other means.
+Loading. Space. An off- street space within
+a building or on the same lot with a building,
+having direct access to a street or alley, for
+the temporary parking of a commercial vehicle
+or truck while loading or unloading mer-
+chandise or materials.
+Lodge. A structure or group of related
+structures wherein transient eating and/ or
+sleeping accommodations are provided for a
+fee in connection with outdoor recreation
+activities. ( Ord. 91- 038 § 3, 1991)
+Lot. A unit of land created by a subdivision
+of land.
+A. Lot Area. The total horizontal area
+contained within the lot lines. Said area shall
+be computed as gross area for lots larger than
+2. 5 acres and net area for lots 2. 5 acres and
+smaller. The total horizontal net area within
+lot lines of a lot is that square footage of a lot
+that is free from roads, streets, rights- of-way
+or easements of access to other property.
+Provided, however, that the Planning Director
+or Hearings Body shall include in gross lot
+areas all streets, roads, and easement of access
+to other property that would accrue to that lot
+if the road, street or easement were vacated,
+and shall treat the gross area of lots that have
+never been previously described of record as
+other than fractions of a section as if the
+section contained 640 acres, in cases where a
+lot is sought to be partitioned. ( Ord. 91- 020
+1, 1991)
+B. Lot, Corner. A lot adjoining two or
+more streets, other than alleys, at their inter-
+section provided the angle of intersection of
+the adjoining streets does not exceed 135
+degrees.
+C. Lot Depth. The average horizontal
+distance between the front and rear lot lines.
+D. Lot Line. The property lines bound -
+Chapter 18. 04 ( 11/ 30/ 94) 10 ( 06/ 08/ 94)
+ing a lot.
+E. Lot Line, Front. The lot line separat-
+ing a lot from a street other than an alley. In
+the case of a lot that does not front directly
+on any street, the front lot line shall be that
+lot line parallel to and facing the same direc-
+tion as the front lot lines of the majority of
+other properties in the immediate area. ( Ord.
+91- 038 § 1, 1991)
+F. Lot Line, Rear. The lot line opposite
+and most distant from the front lot line. In
+the case of an irregular, triangular, or other
+odd - shaped lot, a line 10 feet in length within
+the lot, parallel to and at a maximum distance
+from the front lot line.
+G. Lot Line, Side. Any lot line other
+than a front or rear lot line bounding a lot.
+H. Lot, Through or Double Frontage. A
+lot having frontage on two parallel or approxi-
+mately parallel streets other than alleys.
+I. Lot Width. The average horizontal
+distance between the side lot lines, ordinarily
+measured parallel to the front lot line. ( Ord.
+91- 020 § 1, 1991)
+J. Lot of Record.
+a. A lot or parcel at least 5, 000 square
+feet in area and at least 50 feet wide, which
+conformed to all zoning and subdivision or
+partition requirements, if any, in effect on the
+date the lot or parcel was created, and which
+was created by any of the following means:
+1. By partitioning land as defined in
+ORS Chapter 92;
+2. By a subdivision plat, as defined in
+ORS Chapter 92, filed with the Deschutes
+County Surveyor and recorded with the
+Deschutes County Clerk;
+3. By deedor contract, datedandsigned
+by the parties to the transaction, containing a
+separate legal description of the lot or parcel,
+and recorded in Deschutes County if record-
+ing of the instrument wasrequired on the date
+of the conveyance. If such instrument
+contains more than one legal description, only
+one lot of record shall be recognized unless
+the legal descriptions describe lots subject to
+a recorded subdivision or town plat;
+4. By a town plat filed with the
+0137- 1655
+DeschutesCounty Clerk and recorded in the
+Deschutes County Record of Plats; or
+5. By the subdividing or partitioning of
+adjacent or surrounding land, leaving a
+remainder lot or parcel.
+b. The following shall not be deemed to
+be a lot of record:
+1. A lot or parcel created solely by a tax
+lot segregation because of an assessor' s roll
+change or for the convenience of the assessor.
+2. A lot or parcel created by an inter-
+vening section or township line or right-of-
+way.
+3. A lot or parcel created by an unre-
+corded subdivision, unless the lot or parcel
+was conveyed subject to paragraph ( a)( 3) of
+this section.
+4. A parcel created by the foreclosure of
+a security interest.
+For the purposes of this title, " lot" or " parcel'
+means a lot of record as defined herein.
+Ord. 91- 038 § 1, 1991; Ord. 88- 009 § 1, 1988;
+Ord. 87- 015 § 1, 1987)
+Lowest Floor. The lowest floor of the
+lowest enclosed area of a structure, including
+the basement. An unfinished or flood resis-
+tant enclosure, usable solely for parking of
+vehicles, building accessor storage, in an area
+other than a basement area, is not considered
+a building' s lowest floor, provided that such
+enclosure is not built so as to render the
+structure in violation of the applicable non -
+elevation design requirements of Section
+18. 96. 060. ( Ord. 88- 030 § 3, 1988)
+Major Partition. A partition which includes
+the creation of a road or street. ( Ord. 91- 038
+3, 1991)
+Manufactured Home. A structure con-
+structed for movement on the public highways
+that has sleeping, cooking and plumbing
+facilities, that is intended for human occu-
+pancy, and that is being used for residential
+purposes. It does not include any building or
+structure subject to the structural specialty
+code adopted pursuant to ORS 455. 100 to
+455.450 or any unit identified as a recreational
+vehicle by the manufacturer. ( Ord. 91- 005 §
+1, 1991; Ord. 89- 004 § 1, 1989)
+Chapter 18. 04 ( 11/ 30/ 94) 11 ( 06/ 08/ 94)
+Manufactured Home Park. Any place where
+two or more manufactured homes are parked
+within 500 feet of one another on a lot, tract
+or parcel of land under the same ownership,
+the primary purpose of which is to rent space
+or keep space for rent to any person for a
+charge or fee paid or to be paid for the rental
+or use of facilities or to offer space free in
+connection with securing the trade or
+patronage of such person. ( Ord. 89- 004 § 1,
+1989)
+Manufactured Home Subdivision. A subdi-
+vision intended to be occupied primarily or
+exclusivelyby manufactured homes. (Ord. 89-
+004 § 1, 1989)
+Marina. A structure built over or floating
+upon the waters of a lake, river, stream or
+man- made waterway that provides moorage,
+launching, storage, supplies and services for
+recreational and/ or commercial marine trans-
+port. ( Ord. 89- 009 § 2, 1989)
+Mean Sea Level. The National Geodetic
+Vertical Datum ( NGVD) of 1929 or other
+datum, to which base flood elevations shown
+on the Flood Insurance Rate Map ( FIRM)
+are referenced. ( Ord. 93- 002 § 2, 1993)
+Mineral. Includes, but is not limited to, soil,
+select fill, coal, clay, stone, sand, gravel, aggre-
+gate, pumice, cinders, - metallic ore and any
+other inorganic solid excavated from a natural
+deposit in the earth for commercial, industrial
+or constructional use. ( Ord. 90- 014 § 2, 1990)
+Mini - Storage. Commercial development of
+multiple storage units for rental to the public.
+Ord. 91- 038 § 3, 1991)
+Minor Partition. A partition that does not
+include the creation of a road or street. ( Ord.
+91- 038 § 3, 1991)
+Miti agtion. The minimizing or offsetting of
+impacts by the provision of on- or off- site
+improvement or compensation which benefits
+impacted property owners, resources and the
+public interest. Mitigation measures include,
+but are not limited to, the provision of addi-
+tional fish and wildlife habitat, conservation
+easements, on- and off- site screening and
+buffering, compensation for the maintenance
+of existing off- site screening, fees in lieu of
+013" 7- 1689
+improvements and similar arrangements which
+are agreed to in writing by the affected parties
+and which relate to and are necessitated by a
+surface mining development or operation.
+Ord. 90- 014 § 2, 1990)
+Mobile Home. ( Deleted by Ord. 91-005 § 2,
+1991; Ord. 89- 004 § 1, 1989)
+Mobile Home Park. ( Deleted by Ord. 91-
+005 § 2, 1991; Ord. 89- 004 § 1, 1989)
+Mobile Home Subdivision. ( Deleted by
+Ord. 91- 005 § 2, 1991)
+Modular Homes. See " Factory Built
+Dwelling." ( Ord. 91- 020 § 1, 1991)
+Municipal Water Supply System. A domes-
+tic water supply source and distribution system
+owned and operated by a city, county, special
+district or other public corporation which has
+independent tax -levying powers to support the
+system and which supplies water to a total of
+1, 000 or more households.
+Natural Area. As indicated in the Compre-
+hensive Plan Resource Element, land and
+water that hassubstantially retained its natural
+character or land and water that, although
+altered in character is important as habitats
+for plant, animal or marine life, for the study
+of its natural, historical, scientific or paleonto-
+logical features or for the enjoyment of its
+natural features.
+Natural Hazard Area. An area subject to
+natural events known to result in death or
+endangerment of the works of man, such as
+stream flooding, ground water, flash flooding,
+erosion or fluvial deposits, landslides, earth-
+quakes, weak foundation soils and other
+hazards unique to a local or regional area.
+Natural Resources. Air, land, water and the
+elements thereof valued for their existing and
+potential usefulness to man.
+Necessary For. As used in Sections
+18.36.050 and 18.40.050, "necessary for" means
+the dwelling will contribute substantially to
+effective and efficient management of the
+forest land to be managed by the resident( s)
+of the dwelling. ( Ord. 92- 025 § 1, Exhibit A,
+1992)
+New Construction. Any structure for which
+the start of construction [ commenced] was on
+Chapter 18. 04 ( 11/ 30/ 94) 12 ( 06/ 08/ 94)
+or after the effective date of Ordinance PL - 15.
+For purposes of the Flood Plain Zone ( FP),
+new construction' means any structure for
+which the start of construction commenced on
+or after the date of adoption of the
+amendments to the Flood Plain Zone in
+Ordinance No. 88- 030. ( Ord. 93- 002 § 3, 1993;
+Ord. 88- 030 ss 3, 1988)
+Noise - Sensitive Use. Real property nor-
+mally used for sleeping or normally used as
+schools, churches, hospitals or public libraries.
+Property used in industrial or agricultural
+activities is not " noise - sensitive" unless it meets
+the above criteria in more than an incidental
+manner. Accessory uses such as garages or
+workshops do not constitute noise - sensitive
+uses. ( Ord. 91- 038 § 1, 1991; Ord. 90- 014 § 2,
+1990)
+Nonconforming_ Lot or Parcel. A lot or
+parcel which is smaller in area than the mini-
+mum lot or parcel size in the zone. ( Ord. 87-
+015 § 1, 1987)
+Nonconforming Structure or Use. A lawful
+existing structure or use at the time this title
+or any amendment thereof becomes effective
+which does not conform to the requirements
+of the zone in which it is located.
+North Lot Line. A lot line that requires
+solar access protection, as specified in Section
+18. 116. 180, that is 45 degrees or more from a
+north -south axis as determined by a metes and
+bounds description established on a County
+Assessor's tax lot map, verified by a survey
+filed with the County Surveyor or established
+by an official plat recorded in the County
+Clerk' s Office. If more than one north lot
+line exists for a parcel or lot, solar protection
+shall be required for each line and the most
+restrictive solar setback must be met. ( Ord.
+91- 038 § 1, 1991; Ord. 91- 020 § 1, 1991; Ord.
+83- 037 § 2, 1983)
+Nursery, Day. A facility providing day care
+to three or more children, aged 14 years or
+under, but not including any: ( a) facility
+providing care that is primarily educational
+unless provided to a preschool child for more
+than four hours a day; ( b) facility providing
+care that is primarily supervisedtraining in a
+013' 7- 1600
+specific subject, including but not limited to
+dancing, drama, music or religion; ( c) facility
+providing care that is primarily an incident of
+group athletic or social activities sponsoredby
+or under the supervision of an organized club
+or hobby group; ( d) facility operated by a
+school district or governmental agency; ( e)
+residential facility licensed under ORS 443.400
+to 443. 445 and 443. 991( 2).
+Nursing Home. Any home, institution or
+other structure maintained or operated for the
+nursing or care of four or more ill, aged or
+infirm adults not requiring hospital care or
+hospital facilities.
+Open Space. Lands used for agricultural or
+forest usesand any land area that would, if
+preserved and continued in its present use,
+conserve and enhance natural or scenic
+resources; protect air, streams or water supply;
+promote conservation of soils, wetlands,
+beaches or marshes; conserve landscaped
+areas such as public or private golf courses,
+that reduce pollution and enhance the value
+of adjoining or neighboring property; enhance
+the value to the public of adjoining or neigh-
+boring parks, forests, wildlife preserves, nature
+reservations or other open space; enhance
+recreation opportunities; preserve historic,
+geological and archeological sites; promote
+orderly urban development; and minimize
+conflicts between farm and non- farm uses.
+Ordinary High Water Mark ( OHM). The
+highest level on the bank or shore of a lake,
+river or stream to which the water ordinarily
+rises annually in season. ( Ord. 89- 009 § 2,
+1989)
+Ordinary Low Water Mark ( OLM). The
+lowest level on the bank or shore of a lake,
+river or stream to which the water ordinarily
+recedes annually in season. ( Ord. 89- 009 § 2,
+1989)
+Overburden. Earth or rock that lies above
+a natural deposit of a mineral. ( Ord. 90- 014
+2, 1990)
+Overnight Lodgings. With respect to desti-
+nation resorts, means permanent, separately
+rentable accommodations that are not avail-
+able for residential use. Overnight lodgings
+Chapter 18. 04 ( 11/ 30/ 94) 13 ( 06/ 08/ 94)
+include hotel or motel rooms, cabins and time
+share units. Individually - owned units may be
+considered overnight lodgings if they are
+available for overnight rental use by the gen-
+eral public for at least 45 weeks per calendar
+year through a central reservation and check-
+in service. Tent sites, recreational vehicle
+parks, mobile homes, dormitory rooms and
+similar accommodations do not qualify as
+overnight lodging for the purpose of this defi-
+nition. ( Ord. 92- 004 § 2, Exhibit B, 1992)
+Owner. The owner of the title to real
+property or the authorized agent thereof or
+the contract purchaser of real property of
+record as shown on the last available complete
+tax assessment roll or County Recorder' s
+records.
+Parcel. A unit of land created by a parti-
+tioning of land.
+Parking Space. A clear, off- street area for
+temporary parking or storage of one automo-
+bile, having an all- weather surface of a width
+not less than eight and one- half feet, a length
+of not less than 22 feet and not less than eight
+and one- half feet in height when within a
+building or structure. Such parking space
+shall not be less than 190 square feet in area
+and shall have easy access to a street or alley
+by a driveway having an all- weather surface,
+except as approved subject to Section
+18. 116. 030.
+Partition. An act of partitioning land or an
+area or tract of land partitioned as defined
+under " Partition Land." ( Ord. 91- 038 § 1,
+1991)
+Partition Land. To divide an area or tract
+of land into two or three parcels within a
+calendar year when such area or tract of land
+exists as a unit or contiguous units of land
+under single ownership at the beginning of
+such year. Partition land does not include
+divisions of land resulting from lien foreclo-
+sures, or recorded contracts for the sale of
+real property and divisions of land resulting
+from the creation of cemetery lots. Partition
+land does not include the sale of a lot in a
+recorded subdivision, even though the lot may
+have been acquired prior to the sale with
+013' 7- 1691
+other contiguous lots or property by a single
+owner.
+Partition Plat. The final map describing
+parcels created by partition and other writing
+as specified in the subdivision and partition
+ordinance containing all other descriptions,
+locations, specifications, dedications, provi-
+sions and information concerning a major or
+minor partition. ( Ord. 91- 038 § 3, 1991)
+Pedestrian Facilities: Improvements which
+provide for public pedestrian foot traffic
+including sidewalks, walkways, crosswalks and
+other improvements, such as lighting and
+benches which make it safe or convenient to
+walk. ( Ord. 93- 005 § 1, 1993)
+Penstock. Any conduit or other structure
+which is or may be used to convey water to
+the driving mechanism of a generator. ( Ord.
+86- 018 § 1, 1986)
+Person. A natural person, firm, partnership,
+association, social or fraternal organization,
+corporation, trust, estate, receiver, syndicate,
+branch of government or any group or com-
+bination acting as a unit.
+Personal Use Landing Strips for Airplanes
+and Helicopter Pad. An airstrip restricted,
+except for aircraft emergencies, to use by the
+owner and, on an infrequent and occasional
+basis, by invited guests and by commercial
+aviation activities in connectionwith permitted
+usesof the land. No aircraft may be based on
+a personal -use landing strip other than those
+owned or controlled by the owner of the
+airstrip. Exception to the activities permitted
+under this definition may be granted through
+waiver action by the Aeronautics Division in
+specific instances. A personal use airport
+lawfully existingasof September1, 1975, shall
+continue to be permitted subject to any
+applicable regulations of the Aeronautics
+Division. ( Ord. 91- 020 § 1, 1991)
+Petroleum Distribution Facility. A facility
+for the storage of fuels or other volatile
+products and for their distribution to retail
+sales facilities or other bulk purchasers,
+regardless of ownership.
+Planned Community. A self- contained
+complex of residential, commercial and indus-
+Chapter 18. 04 ( 11/ 30/ 94) 14 ( 06/ 08/ 94)
+trial uses in the form of a planned develop-
+ment in conjunction with a master plan with
+an interrelated system for transportation,
+utilities, recreational areas and other public
+facilities all of which constitute a separate
+community which is at least 640 acresin size.
+Sunriver is an example of a planned commu-
+nity. ( Ord. 91- 038 § 1, 1991)
+Planned Development. The development of
+an area of land at least 40 acres in size for a
+number of dwelling units, commercial or
+industrial uses, according to a plan which does
+not necessarilycorrespond in lot size, bulk or
+type of dwelling, density, lot coverage, or
+required open space to the standard regu-
+lations otherwise required by this title, and
+usually featuring a clustering of residential
+units.
+Planned Unit Development. See ' Planned
+Development." ( Ord. 91- 038 § 3, 1991)
+Plant Nursery. A place where young trees
+or other plants are raised for experimental
+purposes or for transplanting for sale.
+Plat. A final map or diagram concerning a.
+subdivision or partition. Includes a subdi-
+vision plat, replat or partition plat. ( Ord. 91-
+038 § 1, 1991)
+Pole Height. The height of the point on a
+building that casts the longest shadow on the
+north side of the building as measured
+between 10: 00 a. m. and 2: 00 p. m. on
+December 21. ( Ord. 91- 038 § 3, 1991)
+Pot-bellied Pik. A swine commonly referred
+to as Miniature Vietnamese, Chinese or
+Oriental pot- bellied pig. Such animals shall
+not exceed a maximum height of eighteen ( 18)
+inches at the shoulder. ( Ord. 94- 001 § 3,
+1994)
+Potential Structure. For purpose of solar
+access protection on a potential structure is
+any structure or building that could be built as
+a permitted use in a particular location under
+existing development standards under
+theexistingDeschutesCountyComprehensive
+Plan. ( Ord. 83- 037 § 2, 1983)
+Pre-existing Nonconforming Lot or Parcel.
+A nonconforming lot or parcel which is a lot
+of record. ( Ord. 87- 015 § 1, 1987)
+0137- 1692
+Prefabricated House. See " Factory Built
+Dwelling." ( Ord. 91- 020 § 1, 1991; Repealed
+by Ord. 89-004 § 1, 1989)
+Primary or Principal Use. The first use to
+which property is or may be devoted, and to
+which all other uses on the premises are
+accessory or secondary uses. As used relative
+to dwelling units, the primary dwelling would
+be the first dwelling unit to be located on a
+specific parcel or lot.
+Productive Solar Collector. A solar collec-
+tor that provides no less than a) 10 percent of
+a building' s annual total energy requirement;
+or b) 50 percent of a building' s annual water
+heating requirements. ( Ord. 83- 037 § 2, 1983)
+Prospect Well. Any well drilled as a geo-
+physical test well, seismic shot hole, mineral
+exploration drilling, core drilling or tempera-
+ture gradient test well less than 2, 000 feet in
+depth. Prospect well does not include a
+geothermal well as defined in this section.
+Ord. 91- 038 § 3, 1991)
+Protect. Save or shield from loss, destruc-
+tion, injury or for future intended use.
+Protected Area. The specific area which is
+provided solar access for specific hours and
+dates under this title. ( Ord. 83- 037 § 2, 1983)
+Provide. Prepare, plan for and supply what
+is needed.
+Public Use. A use owned or operated by a
+public agency for the benefit of the public
+generally. This does not include landfill sites,
+garbage dumps or utility facilities.
+Public Water System. A system for the
+provision to the public of piped water for
+human consumption, if such system has at
+least 15 service connections or regularly serves
+at least 25 individuals.
+Quasi -Judicial. A land use action entailing
+application of a general rule or policy to
+specific individuals or situations.
+Ramada. A stationary structure having a
+roof extending over a manufactured home or
+trailer, which may also extend over a patio or
+parking space for motor vehicles, and is used
+primarily for protection from sun and rain.
+Ord. 89- 004 § 1, 1989)
+Ranch Hand Residence. A building, struc-
+Chapter 18. 04 ( 11/ 30/ 94) 15 ( 06/ 08/ 94)
+ture or manufactured home used for residen-
+tial purpose for an agricultural employee and
+his family.
+Reclamation. The employment in a surface
+mining operation of procedures designed to
+minimize, as much as practical, the disruption
+of the surface mining operation and to pro-
+vide for rehabilitation of any such surface
+resources adversely affected by such mining
+operations through the rehabilitation of plant
+cover, soil stability, water resource and other
+measures appropriate to the subsequent
+beneficial use of mined and reclaimed lands.
+Ord. 90- 014 § 2, 1990)
+Recreation Camps or Resorts. An area
+devoted to facilities and equipment for recre-
+ational purposes, including swimming pools,
+tennis courts, playgrounds, and other similar
+uses, whether the use of such area is limited
+to private membership or open to the public
+upon payment of a fee.
+Recreation Parks. An area designated by
+the landowner for picnicking or overnight
+camping and offered to the general public
+whether or not a fee or charge is made for
+such accommodations.
+Recreational Vehicle. A mobile unit which
+is designed for temporary human occupancy
+and licensed as a motor home, recreational
+trailer or camper by the Oregon Motor Vehi-
+cles Division or similar units licensed by
+another state. ( Ord. 91- 038 § 1, 1991)
+Recreational Vehicle Park. A park
+intended, designed or utilized for temporary
+occupancy primarily by recreational vehicles.
+Ord. 91- 038 § 3, 1991)
+Replat. Includes a final map of the recon-
+figuration of lots and easements of a recorded
+subdivision or partition plat and other writings
+containing all the descriptions, locations,
+specifications, dedications and provisions and
+information concerning a recorded partition or
+subdivision plat. ( Ord. 91- 038 § 3, 1991)
+Resource Recovery. Means the process of
+obtaining useful material or energy resources
+from solid waste and includes:
+a. Energy recoverX which means recovery
+in which all or a part of the solid waste
+013'- 1093
+materials are processed to utilize the heat
+content, or other forms of energy„ of or from
+the material.
+b. Material recovery which means any
+process of obtaining from solid waste, by
+presegregation or otherwise, materials which
+still have useful physical or chemical
+properties and can be reused or recycled from
+some purpose.
+c. Re ccylink which means any process by
+which solid waste
+materials are transformed into nev products in
+such a manner that the original products may
+lose their identity.
+d. Re - use which means the return of a
+commodity into the economic stream for use
+in the same kind of application as before
+without change in its identity. ( Ord. 92- 066
+1, 1992)
+Residential. Any dwelling unit or group of
+units built or used for human occupancy.
+Residential Facility. A facility licensed by or
+under the authority of the Department of
+Human Resources which provides residential
+care alone or in conjunction with treatment or
+training or a combination thereof for six to
+fifteen individuals who need not be related.
+Staff persons required to meet Department of
+Human Resources licensing requirements shall
+not be counted in the number of facility
+residents, and need not be related to each
+other or to any resident of the residential
+facility. ( Ord. 91- 038 § 3, 1991)
+Residential Home. A home licensed by or
+under the authority of the Department of
+Human Resources which provides residential
+care alone or in conjunction with treatment or
+training or a combination thereof for five or
+fewer individuals who need not be related.
+Staff persons required to meet Department of
+Human Resources licensing requirements shall
+not be counted in the number of facility
+residents, and need not be related to each
+other or to any resident of the residential
+home. ( Ord. 91- 038 § 3, 1991)
+Right- of-wU. The area between the
+boundary lines of a street, road or other
+public easement.
+Chapter 18. 04 ( 11/ 30/ 94) 16 ( 06/ 08/ 94)
+Rimrock. Any ledge, outcropping or top or
+overlying stratum of rock, which forms a face
+in excess of 45 degrees, and which creates or
+is within the canyon of the following rivers
+and streams: 1) Deschutes River; 2) Crooked
+River; 3) Fall River; 4) Little Deschutes
+River; 5) Spring River; 6) Paulina Creek; 7)
+Squaw Creek; and 8) Tumalo Creek. For the
+purpose of this title, the edge of the rimrock
+is the uppermost rock ledge or outcrop of
+rimrock. ( Ord. 86- 053 § 1, 1986; Ord. 82- 013
+1, 1982)
+Road or Street. A public or private way
+created to provide ingress or egress to one or
+more lots, parcels, areas or tracts of land,
+excluding a private way created to provide
+ingress or egress to such land in conjunction
+with the use of such land for forestry, mining
+or agricultural purposes.
+A. Alley. A narrow street through a
+block primarily for vehicular service accessto
+the back or side of properties adjoining
+another street.
+B. Arterial. A restricted access street of
+substantial continuity which is primarily a
+traffic artery for inter -communication among
+large areas, and so designated by the county.
+C. Bicycle Route. A segment of a
+bikeway system designated with appropriate
+directional and information markers by the
+jurisdiction having authority. ( Ord. 93- 005 §
+2, 1993)
+D. Collector. A street supplementary to
+the arterial street system used or intended to
+be used principally for the movement of traffic
+between arterials and local streets and roads
+within the county.
+E. Cul- de-sac. A short street having one
+end open to traffic and terminated by a
+vehicle turnaround. ( Ord. 91- 020 § 1, 1991)
+F. Half Street. A portion of the width
+of a street sufficient for safe service
+temporarily ( as approved by the County
+Engineer) when the remaining portion of the
+street is likely to be provided in another
+subdivision.
+G. Marginal Access Street. A minor
+street parallel and adjacent to a major arterial
+providing accessto adjoining properties, but
+protected from through traffic.
+H. Local Street. A street intended
+primarily for access to adjoining properties.
+I. Stubbed Streets. A street having only
+one outlet for vehicular traffic and which is
+intended to be extended or continued to serve
+future subdivisions or developments on adja-
+cent lands.
+Road and Street Project. The construction
+and maintenance of the roadway, bicycle
+lanes, sidewalks or other facilities related to a
+road or street. Road and street projects shall
+be a Class I, Class II or Class III project.
+A. Class I Project. Land use permit
+required. " Class I Project" is a major project
+such as ( 1) a new controlled - access freeway;
+2) a road or street project of four or more
+lanes on a new location; and ( 3) a major
+project involving the acquisition of more than
+minor amounts of rights- of- way, substantial
+changes in access control , a large amount of
+demolition, displacement of a large amount of
+residences or businesses or substantial changes
+in local traffic patterns.
+B. Class II Project. Land use permit
+required. " Class II Project" is a ( 1)
+modernization where a road or street is
+widened by more than -one lane; ( 2) traffic
+safety or intersection improvement which
+changes local traffic patterns; ( 3) system
+change which has significant land use
+implications; or ( 4) the construction of a new
+county road or street where none existed
+before.
+C. Class III Project. No land use permit
+required. " Class III Project" is a
+modernization traffic safety improvement,
+maintenance, repair or preservation of a road
+or street."
+Roadway. That portion of a street or road
+right- of-way developed for vehicular traffic.
+Scenic Area. Land and other natural fea-
+tures valued for their aesthetic qualities.
+School, Private. Any licensed or accredited
+private entity that offers instruction or training
+for any academic, technical or identified
+occupational objective. ( Ord. 91- 038 § 3,
+Chapter 18. 04 ( 11/ 30/ 94) 17 ( 06/ 08/ 94)
+1991)
+School, Public. A school operated by a
+government agency. ( Ord. 91- 038 § 3, 1991)
+Self - Contained Development. With respect
+to destination resorts, means community
+sewer, water and recreational facilities pro-
+vided on- site and limited to meet the needs of
+the resort or provided by existing public sewer
+or water service as long as all costs related to
+service extension and any capacity increase are
+borne by the development. A "self-contained
+development" shall have developed
+recreational facilities provided on- site. ( Ord.
+92- 004 § 2, Exhibit B, 1992)
+Semi - Public Use. A structure or use
+intended or used for both private and public
+purposes by a church, lodge, club or any other
+non- profit organization.
+Service Establishment. A business selling a
+service and products directly related to that
+service. Service establishment includes, but is
+not limited to, shoe or appliance repair; hair
+cutting andstyling; realtor; interior decorator;
+upholsterer; pet grooming; optician and travel
+agent. An automobile repair garage or
+medical office is not a service establishment
+for the purposes of this title. ( Ord. 91- 038 §
+3, 1991)
+Setback. An open space on a lot which is
+unobstructed from the ground upward except
+as otherwise provided in this title.
+Setback, Front. A setback between side lot
+lines, measured horizontally at right angles to
+the front lot line from the front lot line to the
+nearest point of a building.
+Setback, Rear. A setback between side lot
+lines, measured horizontally at right angles to
+the rear lot line from the rear lot line to the
+nearest point of a building.
+Setback, Side. A setback between the front
+and rear yard measured horizontally at right
+angles from the side lot line to the nearest
+point of a building.
+Setback, Street Side. A setback adjacent to
+a street between the front setback and rear lot
+line measured horizontally and at right angles
+from the side lot line to the nearest point of a
+building.
+013' 7- 1655
+Shade. A shadow, except a shadow caused
+by a narrow object, including, but not limited
+to, a utility pole, an antenna, a wire or a
+flagpole. ( Ord. 83- 037 § 2, 1983)
+Shopping Complex. A group of commercial
+establishments planned, constructed and
+managed as a total entity with customer and
+employee parking on site and aesthetic consid-
+erations which integrate it with the sur-
+rounding area. ( Ord. 84- 023 § 1, 1984)
+Sign. An identification, description, illustra-
+tion or device which is affixed to or repre-
+sented, directly or indirectly, upon a building,
+structure or land, and which directs attention
+to a product, place, activity, person, institution
+or business.
+Sign, Advertising. A sign which directs
+attention to a business, product, activity, or
+service not necessarily conducted, sold or
+offered upon the premises where such a sign
+is located.
+Solar Access. Protection from shade for a
+specific area during specific hours and dates,
+but not including protection from shade cast
+by exempt vegetation. ( Ord. 83- 037 § 2, 1983)
+Solar Access Permit. The instrument issued
+by the county which limits the size of non-
+exempt vegetation on certain lots in the
+vicinity of a recorded solar collector. ( Ord.
+83- 037 § 2, 1983)
+Solar Collector. Any object that uses solar
+radiation for a useful purpose, including, but
+not limited to, windows, walls, roofs and
+collectors. ( Ord. 83- 037 § 2, 1983)
+Solar Heating Hours. The hours and dates
+during which solar accessis provided. ( Ord.
+83- 037 § 2, 1983)
+Solar Height Restriction. The allowable
+height of buildings, structures and non- exempt
+vegetation on a property burdened by the
+solar access of another property. ( Ord. 83- 037
+2, 1983)
+Solid Waste. All putrescible and
+nonputrescible wastes, including but not
+limited to garbage, rubbish, refuse, ashes,
+waste paper and cardboard; commercial,
+industrial, demolition and construction wastes;
+discarded home and industrial appliances; and
+Chapter 18. 04 ( 11/ 30/ 94) 18 ( 06/ 08/ 94)
+other wastes; but the term does not include:
+a. Hazardous wastes as defined in ORS
+466. 005.
+b. Materials used for fertilizer or for
+other productive purposes or which
+are salvageable as such materials are
+used on land in agricultural
+operations and the growing or
+harvesting of crops and the raising of
+animals. ( Ord. 92- 066 § 1, 1992)
+Stabling or training equines. As usedin the
+definition of " farm use" means the use of land
+involving the pasturing, keeping, boarding,
+management or training of horses. For the
+purposes of this definition, horse events, as
+defined herein are deemed to be an incident
+of training. ( Ord 94- 008 § 7, 1994)
+Stables, Private. Deleted by Ordinance 94-
+008. ( Ord. 94- 008 § 8, 1994)
+Stables, Public. Deleted by Ordinance 94-
+008. ( Ord. 94- 008 § 8, 1994)
+Start of Construction. The first act of
+permanent construction of a structure, other
+than a manufactured home, on a site, such as
+the pouring of slabsor footings or any work
+beyond the preparation, such as clearing,
+grading and filling. Does not include the
+installation of streets or walkways, excavation
+for a basement, footings, piers or foundations,
+the erection of temporary forms or the instal-
+lation on the property of accessory buildings,
+such as garages or sheds not occupied as
+dwelling units or as part of the main structure.
+For a structure other than a manufactured
+home without a basement or poured footings,
+the start of construction includes the first
+permanent framing or assembly of the struc-
+ture, or any part thereof, on its piling or
+foundations. For manufactured homes not
+within a manufactured home park or manu-
+factured home subdivision, start of construc-
+tion means the affixing of the mobile home to
+its permanent site. For manufactured homes
+within manufactured home parks or manufac-
+tured home subdivisions, start of construction
+is the date on which construction of facilities
+for servicing the site on which the manufac-
+tured home is to be affixed ( including, at a
+013' 7- 1696
+minimum, the construction of streets, either
+final site grading or pouring of concrete pads,
+and installation of utilities) is begun.
+Story. That portion of a building included
+between the upper surface of any floor and
+the upper surface of the floor next above it,
+except the top story shall be that portion of a
+building included between the upper surface
+of the top -most floor and the ceiling or roof
+above.
+Story, Half. A story under a gable, hip or
+gambrel roof, the wall plates of which, on at
+least two opposite exterior walls, are not more
+than two feet above the floor of such story.
+Stream, Perennial. Includes the following
+rivers and streams in Deschutes County:
+Alder Creek; Bottle Creek; Bridge Creek;
+Brush Draw; Bull Creek; Cache Creek;
+Charlton Creek; Cultus Creek; Cultus River;
+Deer Creek; Deschutes River; Dry Creek; Fall
+Creek; First Creek; Full Creek; Goose Creek;
+Indian Ford Creek; Jack Creek; Kaleetan
+Creek; Lake Creek - Middle Fork; Little
+Deschutes River; Metolius Creek; Park Creek -
+East Fork; Park Creek - West Fork; Paulina
+Creek; Pole Creek; Rock Creek; Snow Creek;
+SoapCreek; SodaCrater Creek; SpringCreek;
+Squaw Creek; Squaw Creek - North Fork;
+Three Creek; Todd Lake Creek; Trout Creek;
+Tumalo Creek; Tumalo Creek - North Fork;
+Tumalo Creek - Middle Fork; and Tumalo
+Creek - South Fork. ( Ord. 90- 014 § 2, 1990)
+Street. The entire width between the right-
+of-way lines of everypublic way for vehicular
+and pedestrian traffic. Includes the terms
+road," " highway," " land," " place," " avenue,"
+alley" or other similar designation.
+Structural Alteration. Any change to the
+supporting members of a structure including
+foundations, bearing walls or partitions,
+columns, beams, girders, any structural change
+in the roof or in the exterior walls, or any
+alteration requiring a building permit.
+Structure. Something constructed or built
+having a fixed baseon, or fixed connectionto,
+the ground or another structure.
+Subdivision and Subdivided Lands.
+Improved or unimproved area or tract of land
+Chapter 18. 04 ( 11/ 30/ 94) 19 ( 06/ 08/ 94)
+divided into four or more lots within a calen-
+dar year when such area or tract of land exists
+as a unit or contiguous units of land under a
+single ownership at the beginning of such year.
+This section does not apply to divisions of
+land resulting from lien foreclosures or fore-
+closures of recorded contracts for the sale of
+real property.
+Subdivision Plat. The final map and other
+writing containing all the descriptions, loca-
+tions, specifications, dedications, provisions
+and information concerning a subdivision.
+Ord. 91- 038 § 3, 1991)
+Substantial Improvement. Any repair,
+reconstruction or improvement of a structure,
+the cost of which equals or exceeds 50 percent
+of the true cash value of the structure either:
+A. before the improvement or repair is
+started; or
+B. if the structure has been damaged and
+isbeing restored, before the damageoccurred.
+For the purposes of this definition, " substan-
+tial improvement" is considered to occur when
+the first alteration of anywall, ceiling, floor or
+other structural part of the building commen-
+ces, whether or not that alteration affects the
+external dimensions of the structure. The
+term does not, however, include either:
+C. any project for improvement of a
+structure to complywith existingstate or local
+health, sanitary or safety code specifications
+which are solely necessary to assure safe living
+conditions; or
+D. anyalteration of a structure listed on
+the National Register of Historic Places or a
+State Inventory of Historic Places. ( Ord. 91-
+020 § 1, 1991; Ord. 88- 030 § 3, 1988)
+Substantially Shaded. Less than 80 percent
+of the available solar insolation is available
+during winter solar heatinghours to either the
+south roof and/ or wall of an existing or poten-
+tial structure. ( Ord. 83- 037 § 2, 1983)
+Sunchart. A photograph or photographs,
+taken subject to the guidelines of the Planning
+Director or Hearings Body, which plots the
+position of the sun during each hour of the
+day and each month of the year relative to a
+protected area. The sunchart shall contain, at
+0137- 16S7
+a minimum:
+A. Solar altitude in 10 -degree incre-
+ments;
+B. Solar azimuth measured from true
+south in 15 -degree increments;
+C. If the solar collector is more than 20
+feet wide, the southern skyline as seen from
+the two end points and from the center point
+of the lower edge of the protected area; and
+D. A clear delineation of the existing
+objects which cast shadows on the protected
+area, including hills, structures, and deciduous
+and evergreen vegetation. ( Ord. 91- 020 § 1,
+1991; Ord. 83- 037 § 2, 1983)
+Surface Minim.
+A. Includes:
+a. all or any part of the process of
+mining by removal of the overburden and
+extraction of natural mineral deposits thereby
+exposed by any method including, open pit
+mining operations, auger mining operations,
+processing, surface impacts of underground
+mining, production of surface mining refuse
+and the construction of adjacent or off- site
+borrow pits, except those constructed for
+access roads;
+b. mining which involves more than
+1, 000 cubic yards of material or excavation
+prior to mining of a surface area. of more than
+one acre.
+B. Does not include:
+a. the construction of adjacent or off- site
+borrow pits which are used for access roads to
+the surface mine.
+b. excavations of sand, gravel, clay, rock
+or other similar materials conducted by a
+landowner or tenant on the landowner' s
+property for the primary purpose of construc-
+tion, reconstruction or maintenance of access
+roads and excavation or grading operations
+conducted in the process of farming or ceme-
+tery operations, on- site road construction and
+other on- site construction, or non - surface
+impacts of underground mines;
+C. batching and blending of mineral and
+aggregate into asphaltic concrete or portland
+cement concrete. ( Ord. 90- 014 § 3, 1990)
+Surface Mining, Minerals. Includes, but is
+Chapter 18. 04 ( 11/ 30/ 94) 20 ( 06/ 08/ 94)
+not limited to, soil, select fill, coal, clay, stone,
+sand, gravel, aggregate, pumice, cinders,
+metallic ore and any other inorganic solid
+excavated from a natural deposit in the earth
+for commercial, industrial or construction use.
+Ord. 90- 014 § 2, 1990)
+Surface Mining, Operator. Any person or
+entity engaged in surface mining. ( Ord. 90-
+014 § 2, 1990)
+Surface Mining, Processing. Processing
+includes crushing, washing, milling and screen-
+ing as well as batching and blending of
+mineral aggregate into asphaltic concrete and
+portland cement concrete. ( NOTE: Process-
+ing of mineral and aggregate material into
+secondary products, such asbuilding materials,
+is allowed in industrial zones and may be sited
+as part of a limited use combining zone in
+conformance with all plan amendment and
+zone change requirements of the county
+comprehensive plan and zoning ordinance.)
+Ord. 90- 014 § 2, 1990)
+Time Share Unit.
+A. A dwelling unit, lot or parcel divided
+into periods of time under any arrangement,
+plan, scheme or device; whether by
+membership, agreement, share, tenancy in
+common, sale, lease, deed, rental agreement,
+license, right - to - use agreement or otherwise;
+where a purchaser, in exchange for consider-
+ation, receives a right to use the dwelling unit,
+lot or parcel for a period of time less than a
+full year during any given year, but not neces-
+sarily for consecutiveyears, which extendsfor
+a period of more than three years; or
+B. A dwelling unit, lot or parcel created
+into interests sold under an agreement to be
+subsequently divided or created into interests
+for the purpose of sale or lease or other
+similar arrangement as set out in paragraph
+A), above, whether immediate or future, into
+eleven or more undivided interests or eleven
+or more other interests, or any other similar
+arrangement of interests in the dwelling unit,
+lot or parcel. ( Ord. 83- 033 § 1, 1983)
+Trailer. Any portable unit designed and
+built to be towed on its own chassis, com-
+prised of frame and wheels and which does
+0137- 16S3
+not fall within the definitions of vacation
+trailer, manufactured home or prefabricated
+house. Includes boat trailers, bunk trailers,
+portable schoolrooms and industrial, commer-
+cial or public offices and accessory uses.
+Trailer Park. An area of land upon which
+two or more travel trailers occupied for dwell-
+ing or sleeping purposes are located, the
+primary purpose of which is to rent spaceor
+keep space for rent.
+Trailer, Travel. See Vacation Trailer.
+Trailer, Vacation. A portable unit designed
+and built to be towed on its own chassis,
+comprised of frame and wheels, having
+sleeping, cooking and plumbing facilities
+independent of external utility connections,
+and intended for use principally as a tempo-
+rary recreational or vacation residence.
+Transit Facility. Improvements at selected
+points along transit routes for passengerpick-
+up, drop- off and waiting. Facilities and
+improvements may include shelters, benches,
+signs and structures and other improvements
+to provide security, protection from the
+weather and access to nearby services. ( Ord.
+93- 005 § 1, 1993)
+Transit Route. An existing or planned route
+for public service in the local or regional
+transportation plan. ( Ord. 93- 005 §. 1, 1993)
+Transmission Facility. The conductors, lines,
+poles, towers, structures, corridors and
+construction staging and assembly areas
+necessary for or associated with the trans-
+mission of electricity from a hydroelectric
+facility for distribution. ( Ord. 86- 018 § 1,
+1986)
+Traveler' s Accommodations. Any establish-
+ment having rooms or apartments rented or
+kept for rent on a daily or weekly basis to
+travelers or transients for a charge or fee paid
+or to be paid for rental or use of facilities.
+Tree . . . repealed by Ord. 91-020 § 1,
+1991)
+Unbuildable Area. An area in which a
+structure could not be built as a permitted use
+under existingdevelopment standardsfor the
+area under the existing Deschutes County
+Comprehensive Plan. ( Ord. 83- 037 § 2, 1983)
+Chapter 18. 04 ( 11/ 30/ 94) 21 ( 06/ 08/ 94)
+Use. The purpose for which land or a
+structure is designed, arranged or intended, or
+for which it is occupied or maintained.
+Utility Facility. Any major structures,
+excluding hydroelectric facilities, owned or
+operated by a public, private or cooperative
+electric, fuel, communications, sewage or
+water company for the generation, transmis-
+sion, distribution or processing of its products
+or for the disposal of cooling water, waste or
+by-products, and including powertransmission
+lines, major trunk pipelines, power substations,
+water towers, sewagelagoons, sanitary landfills
+and similar facilities, but excluding local
+sewer, water, gas, telephone and power
+distribution lines, and similar minor facilities
+allowed in any zone. ( Ord. 86- 018 § 2, 1986)
+Variance. An authorization for the con-
+struction or maintenance of a building or
+structure, or for the establishment or mainte-
+nance of a use of land, which is prohibited by
+a zoning Ordinance.
+A. Area Variance. A variance which
+does not concern a prohibited use. Usually
+granted to construct, alter or use a structure
+for a permitted use in a manner other than
+that prescribed by the zoning ordinance.
+B. Use Variance. A variance which
+permits a use of land other than that
+prescribed by the zoning or other applicable
+ordinances.
+Veterinary Clinic. A place where animals or
+pets are given medical attention and cared for
+during the time of such treatment.
+Vision Clearance Area. ( Deleted by Ord.
+91- 038 § 4, 1991)
+Visitor - Oriented Accommodations. With
+respect to destination resorts, means overnight
+lodging, restaurants and meeting facilities
+designed to provide for the needs of visitors
+rather than residents. ( Ord. 92- 004 § 2,
+Exhibit B, 1992)
+Walkway. A structure that is built over or
+floats upon the waters of a lake, river or
+stream and that provides access to a boat dock
+or pier. ( Ord. 89- 009 § 2, 1989)
+Wetland. An area that is inundated or
+saturated by surface or ground water at a
+013' 7- 10S0
+frequency or duration sufficient to support,
+and that under normal circumstances does
+support a prevalence of vegetation typically
+adapted for life in saturated soil conditions.
+Wetlands include swamps, marshes, bogs and
+other similar areas. ( Ord. 86- 056 § 2, 1986)
+Winter Solar Heating Hours. The time
+period extending two hours before and after
+the solar zenith on December 21. ( Ord. 83-
+037 § 2, 1983)
+Yard. An open space on a lot which is
+unobstructed from the ground upward except
+as otherwise provided in this title.
+Yard, Front. A yard between side lot lines
+measured horizontally at right angles to the
+front lot line from the front lot line to the
+nearest point of a building. Any yard meeting
+this definition and adjoining on a street other
+than an alley shall be considereda front yard.
+Yard, Rear. A yard between side lot lines
+measuredhorizontally at right anglesfrom the
+rear lot line to the nearest point of a building.
+Yard, Side. A yard between the front and
+rear yard measured horizontally at right angles
+from the side lot lines to the nearest point of
+a building.
+Yard, Street Side. A yard adjacent to a
+street between the front yard and rear lot line
+measuredhorizontally and at right anglesfrom
+the side lot line to the nearest point of a
+building.
+Zero Lot Line. The location of a building
+on a lot or parcel in such a manner that one
+or more of the building' s sides coincides with
+a lot line. ( Ord. 93- 043 § 1, 1A, 1B, 1993;
+Ord. 91- 038 § 3, 1991)
+Chapter 18. 04 ( 11/ 30/ 94) 22 ( 06/ 08/ 94)
+NOTE: Additions are in bold and underlined; and deletions are bracketed[ ]
+Chapter 18. 32
+MULTIPLE USE AGRICULTURAL
+MUA ZONE
+Sections:
+18. 32. 010 Purpose
+18. 32. 020 Uses Permitted Outright
+18. 32. 030 Conditional Uses Permitted
+18. 32. 035 Destination Resorts
+18. 32. 040 Dimensional Standards
+18. 32. 050 Yards
+18. 32. 060 Stream Setbacks
+18. 32. 070 Rimrock Setback
+In an MUA Zone, the following regulations
+shall apply:
+18. 32. 010 Purpose.
+The purposes of the Multiple Use Agricul-
+tural Zone are to preserve the rural character
+of various areas of the county while permitting
+development consistent with that character
+and with the capacity of the natural resources
+of the area; to preserve and maintain
+agricultural lands not suited to full- time
+commercial farming for diversified or part-
+time agricultural uses; to conserve forest lands
+for forest uses; to conserve open spaces and
+protect natural and scenic resources; to main-
+tain and improve the quality of the air, water
+and land resources of the county; to establish
+standards and procedures for the use of those
+lands designated unsuitable for intense devel-
+opment by the Comprehensive Plan, and to
+provide for an orderly and efficient transition
+from rural to urban land use.
+18. 32. 020 Uses Permitted Outright.
+The following uses and their accessory uses
+are permitted outright: ( Ord. 91- 020 ss 1,
+1991)
+A. Agricultural use as defined in this
+title.
+B. A single family dwelling, or a
+manufactured home subject to Section
+013 7--1'7CO
+18. 116. 070.
+C. Propagation or harvesting of a forest
+product.
+D. Class I and II road or street projects
+subject to approval as part of a land partition,
+subdivision or subject to the standards and
+criteria established by Section 18.116.230.
+E. Class III road or street projects.
+F. Non- commercial horse stables,
+excluding horse events. ( Ord. 94- 008 § 10,
+1994)
+G. Horse events, including associated
+structures, involving:
+1) Fewer than 10 riders;
+2) 10 to 25 riders, no more than two
+times per month on non- consecutive days; or
+3) More than 25 riders, no more than
+two times per year on non- consecutive days.
+Incidential musical programs are not
+included in this definition. Overnight stays by
+participants, trainers or spectators in RVs on
+the premises is not an incident of such horse
+events. ( Ord. 94- 008 § 10, 1994)
+18. 32. 030 Conditional Uses Permitted.
+The following usesmay be allowed subject to
+Chapter 18. 128 of this title: ( Ord. 93- 001 § 2,
+1993; Ord. 91- 038 ss 1, 1991).
+A. Public use.
+B. Semi- public use.
+C. Commercial activities in conjunction
+with farm use. The commercial activity shall
+be associated with a farm use occuring on the
+parcel where the commercial use is proposed.
+The commercial activity may use, process,
+store or market farm products produced in
+Deschutes County or an adjoining county.
+D. Dude Ranch.
+E. Kennel and/ or [ animal hospital]
+veterinary clinic.
+F. Guest house.
+G. Manufactured home as a secondary
+accessory farm dwelling, subject to the
+requirements set forth in Section 18. 116. 070.
+Ord. 91- 005 ss 19, 1991).
+H. Exploration for minerals. ( Ord. 91- 002
+Chapter 18. 32 ( 11/ 30/ 94) 1 ( 06/ 08/ 94)
+ss 7, 1991; Ord. 90- 014 ss 27, 1990).
+I. Private parks, playgrounds, hunting
+and fishing preserves, campgrounds,
+motorcycle tracks, rodeo or livestock arenas
+and other recreational uses.
+J. Personal use landing strip for
+airplanes and helicopter pads, including
+associated hangar, maintenance and service
+facilities. No aircraft may be based on a
+personal -use landing strip other than those
+owned or controlled by the owner of the
+airstrip. Exceptions to the activities permitted
+under this definition may be granted through
+waiver action by the Aeronautics Division in
+specific instances. A personal use landing
+strip lawfully existing as of September 1, 1975,
+shall continue to be permitted subject to any
+applicable regulations of the Aeronautics
+Division. ( Ord. 91- 038 ss 1, 1991; Ord. 91- 020
+ss 1, 1991).
+K. Golf courses.
+L. Home occupations. ( Ord. 91- 020 ss 1,
+1991).
+M. A facility for primary processing of
+forest products, provided that such facility is
+found to not seriously interfere with accepted
+farming practicesand is compatible with farm
+uses described in ORS 215. 203( 2). Such a
+facility may be approved for one-year period
+which is renewable. These facilities are
+intended to be only portable or temporary in
+nature. The primary processing of a forest
+product, as used in this section, means the use
+of a portable chipper or stud mill or other
+similar method of initial treatment of a forest
+product in order to enable its shipment to
+market. Forest products, as used in this
+section, means timber grown upon a parcel of
+land or contiguous land where the primary
+processing facility is located.
+Nonfarm related single - wide ... repealed by
+Ord. 91- 005 ss 20, 1991; Ord. 80- 206 ss 3,
+1980).
+N. Destination resorts.
+O. Planned developments.
+P. Cluster developments.
+Q. Landfills when a written tentative
+approval by the Department of Environmental
+Chapter 18. 32 ( 11/ 30/ 94) 2
+Quality ( DEQ) of the site is submitted with
+the conditional use application.
+R. Time- share unit or the creation
+thereof. ( Ord. 83- 033 ss 2, 1983).
+S. Hydroelectric facility, subject to
+Sections 18. 116. 130 and 18. 128. 040( V). ( Ord.
+86- 018 ss 7, 1986).
+T. Storage, crushing and processing of
+minerals, including the processing of aggregate
+into asphaltic concrete or portland cement
+concrete, when such uses are in conjunction
+with the maintenance or construction of public
+roads or highways. ( Ord. 90- 014 ss 35, 1990).
+U. Bed and breakfast inn. ( Ord. 91- 038
+ss 1, 1991).
+V. Excavation, grading and fill and
+removal within the bed and banks of a stream
+or river or in a wetland subject to Sections
+18. 120. 050 and 18. 128. 040( W). ( Ord. 91- 038 ss
+1, 1991).
+W. Churches, subject to Chapter 18. 124
+and Section 18. 128. 040( D) of this Code.
+X. Private or Public Schools, including all
+buildings essential to the operation of such a
+school.
+Y. Utility facility necessary to serve the
+area subject to the provisions of Chapter
+18. 124 of this code. ( Ord. 93- 001 ss 1, 1993)
+Z. Cemetery, mausoleum or
+crematorium. ( Ord. 93- 043 § 4, 4A, 4B, 1993)
+AA. Commercial horse stables. ( Ord. 94-
+008 § 10, 1994)
+BB. Horse events, including associated
+structures, not allowed as a permitted use in
+this zone. ( Ord. 94- 008 § 11, 1994)
+18. 32. 035 Destination Resorts.
+Destination resorts may be allowed as a
+conditional use, subject to all applicable stan-
+dards of the DR zone. ( Ord. 92- 004 § 4,
+1992)
+18. 32. 040 Dimensional Standards.
+In an MUA Zone, the following dimensional
+standards shall apply:
+A. The minimum lot size shall be ten acres,
+except planned and cluster developments shall
+be allowed an equivalent density of one unit
+06/ 08/ 94)
+per 7. 5 acres and planned and cluster
+developments within one mile of an
+acknowledged urban growth boundary shall be
+allowed a five - acre minimum lot size or
+equivalent density. ( Ord. 91- 020 ss 1, 1991)
+B. The minimum average lot width shall be
+one hundred ( 100) feet and the minimum
+street frontage fifty ( 50) feet.
+C. The minimum average lot depth shall be
+one hundred fifty ( 150) feet.
+D. Building Height. No non- agricultural
+building or structure shall be erected or
+enlarged to exceed thirty ( 30) feet in height,
+except as approved under Section 18. 120. 040.
+Ord. 92- 055 § 4, 1992)
+18. 32. 050 Yards.
+A. The front yard setback from the
+property line shall be a minimum of 100feet
+if such line is adjacent to an intensive agricul-
+tural use; otherwise, the front yard shall be 20
+feet for property fronting on a local street
+right-of-way, 30 feet from a property line
+fronting on a collector right-of-way, and 80
+feet from an arterial right- of- way unless other
+provisions for combining accesses are provided
+and approved by the county.
+B. Each side yard shall be a minimum of
+20 feet, except on the street side, which shall
+be a minimum of 30 feet. For parcels or lots
+created before November 1, 1979, which are
+one- half ( 1/ 2) acre or less in size, the side
+yard setback may be reduced to a minimum of
+10 feet. For parcels or lots adjacent to an
+intensive agricultural use, the adjacent side
+yard shall be a minimum of 100 feet. ( Ord.
+88- 021 § 1, 1988)
+C. Rear yards shall be a minimum of 25
+feet, except when parcels or lots have rear
+yards adjacent to an intensive agricultural use,
+rear yards shall be a minimum of 100 feet.
+Ord. 91- 020 § 1, 1991)
+D. The setback from the north lot line
+shall meet the solar setback requirements in
+Section 18. 116. 180. ( Ord. 83- 037 § 9, 1983)
+E. In addition to the setbacks set forth
+herein, any greater setbacks required by
+applicable building or structural codes
+U13"7 -17U
+adopted by the State of Oregon and/or the
+County under Chapter 15.04 of this title shall
+be met. ( Ord. 94- 008 § 17, 1994)
+18. 32. 060 Stream Setbacks.
+To permit better light, air, vision, stream
+pollution control, fish and wildlife areas and
+to preserve the natural scenic amenities and
+vistasalongthe streamsand lakes, the follow-
+ing setbacks shall apply:
+A. All sewage disposal installations, such
+as septic tanks and septic drainfields, shall be
+set back from the ordinary high water mark
+along all streamsor lakes a minimum of 100
+feet, measured at right angles to the ordinary
+high water mark. In those cases where practi-
+cal difficulties preclude the location of the
+facilities at a distance of 100 feet and the
+County Sanitarian finds that a closer location
+will not endanger health, the Planning Direc-
+tor or Hearings Body may permit the location
+of these facilities closer to the stream or lake,
+but in no case closer than 25 feet.
+B. All structures, buildings or similar
+permanent fixtures shall be set back from the
+ordinary high water mark along all streams or
+lakes a minimum of 100 feet measured at right
+angles to the ordinary high water mark. ( Ord.
+91- 020 § 1, 1991)
+18. 32. 070 Rimrock Setback.
+Setbacks from rimrock shall be as provided
+in Section 18. 116. 160. ( Ord. 86- 053 § 6, 1986)
+Chapter 18. 32 ( 11/ 30/ 94) 3 ( 06/ 08/ 94)
+0137- 1703
+NOTE: Additions are in bold and underlined; and deletions are bracketed [ ]
+Chapter 18. 64
+RURAL SERVICE CENTER ZONE
+RSC ZONE
+Sections:
+18. 64. 010 Purpose
+18. 64. 020 Uses Permitted Outright
+18. 64. 030 Conditional Uses Permitted
+18. 64. 040 Limitations on Uses
+18. 64. 050 Lot Size
+18. 64. 060 Dimensional Standards
+18. 64. 070 Stream Setback
+18. 64. 080 Yards
+18. 64. 090 Off - Street Parking and Loading
+18. 64. 100 Rimrock Setback
+In an RSC Zone, the following regulations
+shall apply:
+18. 64. 010 Purpose.
+The purpose of the Rural Service Center
+Zone is to provide standards and review
+procedures for concentrations of local
+commercial services to meet the needs of rural
+residents, as well as limited tourist commercial
+services consistent with the maintenance of
+the rural character of the area.
+18. 64. 020 Uses Permitted Outright.
+In an RSC Zone, the following uses and
+their accessory uses are permitted outright:
+A. Farming, excluding livestock feed lot
+or sales yard, subject to the restrictions in
+Section 18.64.040, and hog and mink farms.
+B. Single- family dwelling, or a
+manufactured home subject to Section
+18. 116. 070. ( Ord. 91- 020 § 1, 1991; Ord. 91-
+005 § 33, 1991)
+C. Retail store, office or service estab-
+lishment.
+D. Automobile service station.
+E. Agriculturally oriented commercial
+use.
+F. Park, playground or community
+building. ( Church, school or cemetery deleted
+by Ord. 91-038 § 1, 1991)
+G. Utility facility, except landfills.
+H. Television or radio station, transmitter
+or tower.
+I. Restaurant or cocktail lounge.
+J. Class I and II road or street project
+subject to approval as part of a land partition,
+subdivision or subject to the standards and
+criteria established by Section 18.116.230.
+K. Class III road or street project. ( Ord.
+93- 043 § 9, 1993)
+18. 64. 030 Conditional Uses
+Permitted.
+The following uses may be allowed subject to
+Chapter 18. 128 of this title: ( Ord. 91- 038 ss 1,
+1991)
+A. Commercial residential use.
+B. Multi - family dwelling.
+C. Tourist or travelers' accommodations.
+D. Manufactured home park and travel
+trailer park. ( Ord. 91- 005 ss 34, 1991)
+E. Kennel or [ animal hospital] veterinary
+clinic.
+F. Automobile repair garage.
+G. Commercial amusement or recreation
+establishment.
+H. Water supply and treatment facility.
+I. Hog and mink farm.
+J. Cluster development.
+K. Planned development.
+L. Home occupation.
+M. Time- share unit or the creation
+thereof ( Ord. 83- 033 ss 6, 1983)
+N. Shopping complex subject to a master
+plan and consistent with the specific use
+standards established by Section
+18. 128. 040( T). ( Ord. 84- 023 ss 3, 1984)
+O. Mini - storage facility. ( Ord. 91- 038 ss
+1, 1991)
+P. Church, school or cemetery. ( Ord. 91-
+038 ss 1, 1991)
+Q. Excavation, grading and fill and
+removal within the bed and banks of a stream
+or river or in a wetland subject to Sections
+18. 120. 050 and 18. 128. 040( W). ( Ord. 91- 038 §
+Chapter 18. 64 ( 11/ 30/ 94) 1 ( 06/ 08/ 94)
+1, 1991)
+R. Public use.
+S. Semi- public use. ( Ord. 93- 043 § 9A,
+1993)
+18. 64. 040 Limitations on Uses.
+The following limitations shall apply to uses
+allowed by Section 18.64.020(A), above:
+A. . Cows, horses, goats or sheep shall not
+be kept on lots having an area less than 20,000
+square feet. The total number of all such
+animals over the age of six months shall be
+Iimited to the square footage of the lot
+divided by 20,000 square feet, which is the
+minimum area per animal. ( Ord. 91- 020 § 1,
+1991)
+B. The number of chickens, fowl or
+rabbits over the age of six months shall not
+exceed one for each 500 square feet of land.
+C. All livestock shall be located a mini-
+mum of 100 feet away from a residential
+dwelling on an adjacent lot.
+18. 64. 050 Lot Size.
+A. The minimum average width of lots
+served by an approved community, municipal
+or public water system and an approved
+community or public sewage system shall not
+be less than 50 feet with a minimum area of
+6,000 sq. ft.
+B. The minimum average width of lots
+served by either an approved community,
+municipal or public water system or an
+approved community or public sewage system,
+but not servedby both, shall not be less than
+100 feet with a minimum area of 15,000 sq. ft.
+C. The minimum average width of lots
+not served by either an approved community,
+municipal or public water system or an
+approved community or public sewage system
+shall be 150 feet with a minimum area of one
+acre. Subject to the findings below, the
+Hearings Body may approve a lot area of less
+than one acre, but in no case shall a lot area
+of less than 20,000 sq. ft. be approved. The
+Hearings Body shall make all of the following
+findings:
+a. The lot can meet DEQ on- site sewage
+0137- 1704
+disposal rules then in effect;
+b. The approval of a smaller lot would
+not significantly increase nitrate levels in the
+ground water; and
+C. The lot shall have a supply of potable
+water that would not be affected by the
+installation of an on- site sewage system. ( Ord.
+85- 045 § 1, 1985; Re -adopted by Ord. 86-005
+1, 1986)
+18. 64. 060 Dimensional Standards.
+The following dimensional standards shall
+apply in an RSC Zone:
+A. Lot Coverage. The main building and
+accessorybuildings located on any building
+site or lot shall not cover more than thirty
+percent of the total lot area.
+B. Building Height. No building or
+structure shall be erected or enlarged to
+exceed thirty ( 30) feet in height, except as
+approved under Section 18. 120. 040. ( Ord. 92-
+055 § 13, 1992)
+18. 64. 070 Stream Setback.
+To permit better light, air, vision, stream or
+pollution control, protect fish and wildlife
+areas, and to preserve the natural scenic
+amenities and vistas along the streams and
+lakes, the following setback shall apply:
+A. All sewage disposal installations, such
+as septic tanks and septic drainfields, shall be
+set back from the ordinary high water mark
+along all streamsor lakes a minimum of 100
+feet, measured at right angles to the ordinary
+high water mark. In those cases where practi-
+cal difficulties preclude the location of the
+facilities at a distance of 100 feet and the
+County Sanitarian finds that a closer location
+will not endanger health, the Planning Direc-
+tor or Hearings Body may permit the location
+of these facilities closer to the stream or lake,
+but in no case closer than 25 feet.
+B. All structures, buildings [ or] and
+similar permanent fixtures shall be set back
+from the ordinary high water mark along all
+streams or lakes a minimum of 100 feet
+measured at right angles to the ordinary high
+water mark. ( Ord. 91- 020 § 1, 1991)
+Chapter 18. 64 ( 11/ 30/ 94) 2 ( 06/ 08/ 94)
+0137- 17C5
+18. 64. 080 Yards.
+A. The minimum front yard shall be 20
+feet.
+B. The minimum side yard shall be 10
+feet, except on the street side of a corner lot
+it shall be 20 feet.
+C. The minimum rear yard shall be 20
+feet.
+D. The setback from the north lot line
+shall meet the solar setback requirements in
+Section 18. 116. 180. ( Ord. 83- 037 § 17, 1983)
+E. In addition to the setbacks set forth
+herein, any greater setbacks required by
+applicable building or structural codes
+adopted by the State of Oregon and/or the
+County under Chapter 15.04 of this title shall
+be mey. ( Ord. 94- 008 § 22, 1994)
+18. 64. 090 Off - Street Parking and
+Loading.
+Off-street parking and loading shall be
+provided subject to the provisions of Chapter
+18. 116.
+18. 64. 100 Rimrock Setback.
+Setbacks from rimrock shall be as provided
+in Section 18. 116. 160. ( Ord. 86- 053 § 14,
+1986)
+Chapter 18. 64 ( 11/ 30/ 94) 3 ( 06/ 08/ 94)
+0137- 1706
+NOTE: Additions are in bold and underlined; and deletions are brackets [ j
+Chapter 18. 68
+RURAL SERVICE RESIDENTIAL - M
+RSR - M ZONE
+Sections:
+18. 68. 010 Purpose
+18. 68. 020 Uses Permitted Outright
+18. 68. 030 Conditional Uses Permitted
+18. 68. 040 Limitations on Uses
+18. 68. 050 Lot Size
+18. 68. 060 Dimensional Standards
+18. 68. 070 Stream Setback
+18. 68. 080 Yards
+18. 68. 090 Off - Street Parking and Loading
+18. 68. 100 Rimrock Setback
+In an RSR -M Zone, the following regulations
+shall apply:
+18. 68. 010 Purpose.
+The purpose of the Rural Service
+Residential - M Zone is to permit and encour-
+age the development of residential uses in the
+rural service centers; provide for densities
+compatible with a higher level of services
+available; allow the opportunity for people to
+enjoy life in a more rural environment without
+impinging on the rural areas and assure
+development compatible with the rural
+character of the area.
+18. 68. 020 Uses Permitted Outright.
+The following uses and their accessory uses
+are permitted outright. ( Ord. 91- 020 § 1,
+1991)
+A. Farming, excluding livestock feed lot
+or sales yard, subject to the restrictions in
+Section 18.68.040, and hog or mink farms.
+B. The propagation and harvesting of
+forest products.
+C. Single- family dwelling, or a
+manufactured home subject to Section
+18. 116. 070. ( Ord. 91- 020 § 1, 1991; Ord. 91-
+005 § 35, 1991)
+D. Park, playground or community
+building.
+E. Utility facility.
+F. Church, public school, cemetery.
+G. Class I and II road or street projects
+subject to approval as part of a land partition,
+subdivision or subject to the standards and
+criteria established by Section 18.116.230.
+H. Class III road or street project. ( Ord.
+93- 043 § 9A, 1993)
+18. 68. 030 Conditional Uses
+Permitted.
+The following usesmaybeallowed subjectto
+Chapter 18. 128 of this title: ( Ord. 91- 038 ss 1,
+1991)
+A. Two- family dwelling.
+B. Private school.
+Mobile home ... repealed by Ord. 91-005 ss
+36, 1991)
+C. Water supply and treatment facility.
+D. Medical clinic or veterinary clinic.
+E. Sewage disposal and treatment
+facility.
+F. Cluster development
+G. Planned development.
+H. Home occupations.
+I. Time- share unit or the creation
+thereof. ( Ord. 83- 033 ss 7, 1983)
+J. Bed and breakfast inn. ( Ord. 91- 038
+ss 1, 1991)
+K. Multi - family housing where
+community or municipal sewer is available.
+Ord. 91- 038 ss 1, 1991)
+L. Excavation, grading and fill and
+removal within the bed and banks of a stream
+or river or in a wetland subject to Sections
+18. 120. 050 and 18. 128. 040( W). ( Ord. 91- 038 ss
+1, 1991)
+M. Manufactured home park subject to
+the density of the underlying zone. ( Ord. 91-
+038 ss 1, 1991)
+N. Public uses. ( Ord. 93- 043 § 10A,
+1993)
+18. 68. 040 Limitations on Uses.
+The following limitations shall apply to uses
+Chapter 18. 68 ( 11/ 30/ 94) 1 ( 06/ 08/ 94)
+permitted by Section 18.68.020(A), above:
+A. Cows, horses, goats or sheep cannot
+be kept on lots having an area of less than
+20,000 sq. ft. The total number of all such
+animals over the age of six months shall be
+limited to the square footage of the lot
+divided by 20,000 square feet, which is the
+minimum area per animal. ( Ord. 91- 020 § 1,
+1991)
+B. The number of chickens, fowl or
+rabbits over the age of six months shall not
+exceed one for each 500 square feet of prop-
+erty.
+C. All livestock shall be located a mini-
+mum of 100 feet away from a residential
+building on an adjacent lot.
+18. 68. 050 Lot Size.
+A. The minimum average width of lots
+served by an approved community, municipal
+or public water system and an approved
+community or public sewage system shall not
+be less than 50 feet with a minimum lot size
+of 5,000 sq. ft.
+B. The minimum average width of lots
+served by either an approved community,
+municipal or public water system or an
+approved community or public sewage system,
+but not served by both, shall not be less than
+100 feet with a minimum lot size of 15, 000
+square feet.
+C. The minimum average width of lots
+not served by either an approved community,
+municipal, or public water system or by an
+approved community or public sewage system
+shall be 150 feet with a minimum lot size of
+one acre.
+18. 68. 060 Dimensional Standards.
+The following dimensional standards shall
+apply in an RSR -M Zone:
+A. Lot Coverage. The main and
+accessory buildings located on any building
+site or lot shall not cover in excess of thirty
+percent of the total lot area.
+B. Building Height. No building or
+structure shall be erected or enlarged to
+exceed thirty ( 30) feet in height, except as
+0137- 1707
+approved under Section 18. 120. 040. ( Ord. 92-
+055 § 15, 1992)
+18. 68. 070 Stream Setback.
+To permit better light, air, vision, stream or
+pollution control, protect fish and wildlife
+areas, and preserve the natural scenic ameni-
+ties and vistas along streams and lakes, the
+following setback shall apply:
+A. All sewage disposal installations, such
+as septic tanks and septic drainfields, shall be
+set back from the ordinary high water line
+along all streams or lakes a minimum of 100
+feet, measured at right angles to the ordinary
+high water line. In those cases where practical
+difficulties preclude the location of facilities at
+a distance of 100 feet and the County Sanitar-
+ian finds that a closer location will not
+endanger health, the Planning Director or
+Hearings Body may permit the location of
+these facilities closer to the stream or lake,
+but in no case closer than 25 feet.
+B. All structures, buildings [ or] and
+similar permanent fixtures shall be set back
+from the high water line or make along all
+streams or lakes a minimum of 100 feet
+measured at right angles to the ordinary high
+water mark. ( Ord. 91- 020 § 1, 1991)
+18. 68. 080 Yards.
+A. The minimum front yard shall be 20
+feet.
+B. The minimum side yard shall be 10
+feet, except on the street side of a corner lot,
+it shall be 20 feet.
+C. The minimum rear yard shall be 20
+feet.
+D. The setback from the north lot line
+shall meet the solar setback requirements in
+Section 18. 116. 180. ( Ord. 83- 037 § 18, 1983)
+E. In addition to the setbacks set forth
+herein, any greater setbacks required by
+applicable building or structural codes
+adopted by the State of Oregon and/or the
+County under Chapter 15.04 of this title shall
+be met. ( Ord, 94- 088 § 23, 1994)
+18. 68. 090 Off - Street Parking and
+Chapter 18. 68 ( 11/ 30/ 94) 2 ( 06/ 08/ 94)
+0137- 1708
+Loading.
+Off- street parking and loading shall be
+provided subject to the provisions of Chapter
+18. 116.
+18. 68. 100 Rimrock Setback.
+Setbacks from rimrock shall be as provided
+in Section 18. 116. 160. ( Ord. 86- 053 § 15,
+1986)
+Chapter 18. 68 ( 11/ 30/ 94) 3 ( 06/ 08/ 94)
+0137- 1709
+NOTE: Additions are in bold and underlined; and deletions are bracketed [ ]
+CHAPTER 18. 88
+WILDLIFE AREA COMBINING WA ZONE
+Sections:
+18. 88. 010 Purpose
+18. 88. 020 Application of Provision
+18. 88. 030 Uses Permitted Outright
+18. 88. 040 Uses Permitted
+Conditionally
+18. 88. 050 Dimensional Standards
+18. 88. 060 Siting Standards
+18. 88. 070 Fencing Standards
+In any zone which is a Wildlife Area
+Combining Zone ( WA), the requirements and
+standards of this chapter shall apply in
+addition to those specified in this title for such
+underlying zone. If a conflict in regulationsor
+standards occurs, the provisions of this section
+shall govern except that the larger minimum
+lot size shall always apply. ( Ord. 93- 043 § 13,
+13A, 1993)
+18. 88. 010 Purpose
+The purpose of the Wildlife Area Combining
+Zone is to conserve important wildlife areas in
+Deschutes County; to protect an important
+environmental, social and economic element
+of the area; and to permit development
+compatible with the protection of the wildlife
+resource.
+18. 88. 020 Application of
+Provisions
+The provisions of this section shall apply to
+all areas identified in the Comprehensive Plan
+as a winter deer range, significant elk habitat,
+antelope range or deer migration corridor.
+Rural service centers are exempt from the
+provisions of this title.
+18. 88. 030 Uses Permitted Outright
+In a zone with which the WA Zone is
+combined, the uses permitted outright shall be
+those permitted outright by the underlying
+zone.
+18. 88. 040 Uses Permitted
+Conditionally
+A. Except as provided in Section B, in a
+zone with which the WA Zone is combined,
+the conditional uses permitted shall be those
+permitted conditionally by the underlying zone
+subject to the provisions of the
+Comprehensive Plan, Section 18. 128 of this
+title and other applicable sections of this title.
+B. The following uses are not permitted
+in the WA zone as conditional uses:
+1. Golf course, not included in a
+destination resort;
+2. Commercial dog kennel;
+3. Church;
+4. Public school or private school;
+5. Bed and breakfast inn;
+6. Dude ranch;
+7. Playground, recreation facility or
+community center owned and operated by a
+government agency or a non- profit community
+organization;
+8. Timeshare unit;
+9. [ Animal hospital] Veterinary clinic;
+10. Fishing lodge.
+C. An application for a destination
+resort, or any portion thereof, in a Wildlife
+Area Combining Zone shall not be accepted
+pending completion of the County's Goal 8
+destination resort mapping process.
+18. 88. 050 Dimensional Standards
+In a WA Zone, the following dimensional
+standards shall apply:
+A. In the Tumalo, Metolius, North
+Paulina and Grizzly deer winter ranges
+designated in the Comprehensive Plan
+Resource Element, the minimum lot size for
+new parcels shall be 40 acres except as
+provided in section " D".
+B. In areas designated as significant elk
+habitat in the Comprehensive Plan Resource
+Chapter 18. 88 ( 11/ 30/ 94) 1 ( 10/ 93)
+Element, the minimum lot size for new parcels
+shall be 160 acres.
+C. In areas designated as antelope range
+in the Comprehensive Plan Resource Element,
+the minimum lot size for new parcels shall be
+320 acres.
+D. Residential land divisions, including
+partitions, in deer winter range where the
+underlying zone is RR -10or MUA- 10, shall
+not be permitted except as a planned
+development or cluster development
+conforming to the following standards:
+1. The minimum area for a planned or
+cluster development shall be at least 40 acres.
+2. The planned or cluster development
+shall retain a minimum of 80 percent open
+space and conform with the provisions of
+Sections 18. 128. 040( P) or ( Q).
+3. Notwithstanding the provisions of
+Title 18. 128. 040( P) or ( Q), or Title
+18. 60. 060( C), the total number of residences
+in a cluster development may not exceed the
+density permitted in the underlying zone.
+E. Residential land divisions, including,
+partitions, in the Bend/ La Pine Deer
+Migration Corridor where the underlying zone
+is RR - 10 shall not be permitted except as a
+cluster development conforming to the
+following standards:
+1. The minimum area for a cluster
+development shall be at least 20 acres.
+2. The cluster development shall retain
+a minimum of 80 per cent open space and
+conform with the provisions of Section
+18. 128. 040( P) or ( Q).
+3. Notwithstanding the provisions of
+Title 18. 128. 040( P), or Title 18. 60. 060( C), the
+total number of residences in the cluster
+development may not exceed the density
+permitted in the underlying zone.
+18. 88. 060 Siting Standards
+A. Setbacks shall be those described in
+the underlying zone with which the WA Zone
+is combined.
+B. New dwellings shall be located within
+300 feet of public roads or easements or
+private roads or easements existing as of
+0137- 1710
+August 5, 1992 unless it can be found that:
+1. Habitat values ( Le., browse, forage,
+cover, access to water) and migration
+corridors are afforded equal or greater
+protection through a different development
+pattern; or,
+2. The siting within 300 feet of such
+roads or easements would force the dwelling
+to be located on irrigated land, in which case,
+the dwelling shall be located to provide the
+least impact on wildlife habitat possible
+considering browse, forage, cover, access to
+water, migration corridors, and minimizing
+length of new access roads.
+18. 88. 070 Fence Standards
+The following fencing provisions shall apply
+as a condition of approval for any new fences
+constructed as a part of development of a
+property in conjunction with a conditional use
+permit or site plan review.
+A. New fences in the Wildlife Area
+Combining Zone shall be designed to permit
+wildlife passage. The following standards and
+guidelines shall apply unless an alternative
+fence design provides equivalent wildlife
+passage is approved by the County after
+consultation with the Oregon Department of
+Fish and Wildlife:
+1. The distance between the ground and
+the bottom strand or board of the fence shall
+be at least 15 inches.
+2. The height of the fence shall not
+exceed 48 inches above ground level.
+3. Smooth wire and wooden fences that
+allow passage of wildlife are preferred.
+Woven wire fences are discouraged.
+B. Exemptions:
+1. Fencesencompassinglessthan 10,000
+square feet which surround or are adjacent to
+residences or structures are exempt from the
+above fencing standards.
+2. Corrals used for working livestock.
+Ord. 92- 042 § 1, 1992)
+Chapter 18. 88 ( 11/ 30/ 94) 2 ( 10/ 93)
+0137- 1711
+NOTE: Additions are in bold and underlined; and deletions are bracketed [ ]
+Chapter 18. 128
+CONDITIONAL USE
+Sections:
+Adjoining or Across a Street
+18. 128. 010 Operation
+18. 128. 015 General Standards
+J)
+Governing Conditional
+Uses
+18. 128. 020 Conditions
+18. 128. 030 Performance Bond
+18. 128. 040 Specific Use Standards
+A) Airport, Aircraft
+N)
+Landing Field, Aircraft
+Charter/ Rental Service and
+0)
+Service Maintenance Facility
+P)
+Not Located in the A - D Zone
+B) Automobile Wrecking
+Q)
+Yard or Junkyard
+C) Cemetery
+D) Church, Hospital,
+T)
+Nursing Home, Convalescent
+U)
+Home, Retirement Home
+E) Medical Clinic, Veterinary
+Clinic, Club [ s], Lodge [ s],
+V)
+Fraternal Organization [ s],
+W)
+Community Center[ s], Grange
+X)
+Hall[ s], Golf Course[ s],
+Grounds and Buildings for
+Games or Sports, Country
+Club [ s], Swimming, Boating,
+Tennis Clubs and Similar
+Y)
+Activities, Government
+Structures and Land Uses,
+Park, Playground
+F) Dog Pounds and Kennels
+G) Home Occupations
+H) Landfill, Solid Waste Disposal
+AA)
+Site
+I) Commercial Use or Accessory
+18. 128. 050
+Use Not Wholly Enclosed
+Within a Building, or a Retail
+Establishment, Office, Service
+18. 128. 060
+Commercial Establishment,
+Financial Institution, or
+18. 128. 070
+Personal or Business Service
+18. 128. 080
+Establishment on a Lot
+Chapter 18. 128 ( 11/ 30/ 94) 1 ( 06/ 08/ 94)
+Adjoiningor Acrossa Street
+From a Lot in a Residential
+Zone
+J) Commercial Amusement
+Establishment
+K) Manufactured Home Park
+L) Multi - Family Dwelling
+Complex
+M) Recreational Vehicle Park
+N) Radio, Television Tower,
+Utility Station or Substation
+0) Schools
+P) Cluster Development ( Single
+Family Residential Uses Only)
+Q) Planned Development
+R) Planned Communities
+S) Dude Ranches
+T) Shopping Complex
+U) High - Temperature Geothermal
+Wells and Small - Scale
+Geothermal Energy Facilities
+V) Hydroelectric Facilities
+W) Fill and Removal
+X) Surface Mining of Resources
+Exclusively for On -Site
+Personal, Farm or Forest Use
+or Maintenance of Irrigation
+Canals
+Y) Storage, Crushing and
+Processing of Minerals in
+Conjunction With the
+Maintenance or Construction
+of Public Roads or Highways
+Z) Mini - Storage Facility
+AA) Bed and Breakfast Inn
+BB) Campground
+18. 128. 050 Procedure for Taking Action
+on Conditional Use
+Application
+18. 128. 060 Time Limit on a Permit for a
+Conditional Use
+18. 128. 070 Occupancy Permit
+18. 128. 080 Time Share Unit
+18. 128. 090 Building Permit for an
+Approved Conditional Use
+Chapter18. 128 ( 11/ 30/ 94) 1 ( 06/ 08/ 94)
+18. 128. 010 Operation.
+A. A conditional use listed in this title
+shall be permitted, altered or denied subject
+to the standards and procedures of this title;
+DeschutesCounty CodeTitle 22, the Uniform
+Development Procedures Ordinance; and the
+Comprehensive Plan. ( Ord. 86- 032 § 1, 1986)
+B. In the case of a use existing prior to
+the effective date of this title and classified in
+this title as a conditional use, any changein
+use or lot area or an alteration of structure
+shall conform with the requirements for a
+conditional use.
+18. 128. 015 General Standards
+Governing Conditional
+Uses.
+Except for those conditional uses permitting
+individual single- family dwellings, conditional
+usesshallcomplywith the following standards
+in addition to the standards of the zone in
+which the conditional use is located and any
+other applicable standards of this Chapter:
+A. The site under consideration shall be
+determined to be suitable for the proposed
+use based on the following factors:
+1[ a]. Site, design and operating
+characteristics of the use;
+2[ b]. Adequacy of transportation accessto
+the site; and
+3[ c]. The natural and physical features of
+the site, including, but not limited to, general
+topography, natural hazards and natural
+resource values.
+B. The proposed use shall be compatible
+with existing and projected uses on
+surrounding properties based on the factors
+listed in ( A) above.
+C. These standards and any other
+standards of this Chapter may be met by the
+imposition of conditions calculated to insure
+that the standard will be met. ( Ord. 92- 047 §
+1, 1992)
+18. 128. 020 Conditions.
+In addition to the standards and conditions
+set forth in a specific zone or in Chapter
+18.124, the Planning Director or the Hearings
+Chapter 18. 128 ( 11/ 30/ 94)
+0137- 1712
+Body may imposethe following conditions
+upon a finding that additional restrictions are
+warranted.
+A. Require a limitation on manner in
+which the use is conducted, including restric-
+tion of hours of operation and restraints to
+minimize environmental effects such as noise,
+vibrations, air pollution, glare or odor.
+B. Require a special yard or other open
+space or a change in lot area or lot dimension.
+C. Require a limitation on the height,
+size or location of a structure.
+D. Specifythe size, number, location and
+nature of vehicle access points.
+E. Increase the required street dedica-
+tion, roadway width or require additional
+improvements within the street right- of- way.
+F. Designate the size, location, screening,
+drainage, surfacingor other improvement of a
+parking or loading area.
+G. Limit or specify the number, size
+location, height and lighting of signs.
+H. Limit the location and intensity of
+outdoor lighting and require shielding.
+I. Specify requirements for diking,
+screening, landscaping or other methods to
+protect adjacent or nearby property and
+specifystandardsfor installation and mainte-
+nance.
+J. Specify the size, height and location
+of any materials to be used for fencing.
+K. Require protection and preservation
+of existing trees, vegetation, water resources,
+wildlife habitat or other significant natural
+resources. ( Ord. 91- 020 § 1, 1991; Ord. 83-
+037 § 24, 1983)
+L. Require that a site plan be prepared
+in conformance with Chapter 18.124 of this
+title. ( Ord. 91- 038 § 1, 1991)
+18. 128. 030 Performance Bond.
+The Planning Director or Hearings Body
+may require the applicant to furnish the
+county with a performance bond or other
+adequate form of assurance to guarantee
+development subject to the standards and
+conditions attached in granting a conditional
+use permit. ( Ord. 91- 020 § 1, 1991)
+2 ( 06/ 08/ 94)
+18. 128. 040 Specific Use Standards.
+A conditional use shall comply with the
+standards of the zone in which it is located
+and with the standards and conditions set
+forth in this section.
+A. Airports, Aircraft Landing Fields,
+Aircraft Charter, Rental and Service
+Maintenance Facilities Not Located in the A-
+D Zone. The Planning Director or Hearings
+Body shall find that the location and site
+design of the proposed facility will not be
+hazardous to the safety and general welfare of
+surrounding properties and that the location
+will not unnecessarily restrict existing and
+future development of surrounding lands as
+indicated in the Comprehensive Plan. ( Ord.
+93- 043 § 23, 1993; 91- 020 § 1, 1991)
+B. Automobile Wrecking Yard or Junk-
+Before being issued a conditional use
+permit, an automobile wrecking yard or
+junkyard shall meet the following require-
+ments:
+1[ a]. The yard shall be enclosed and
+screened from public view by a sight -obscuring
+fence not less than six feet in height.
+2[ b]. All automobiles, wrecked or other-
+wise, shall be kept inside the fenced area at all
+times, except that vehicles belonging to
+customers may be parked outside of the
+enclosed area while at the establishment or
+business.
+3[ c]. All sales, display, storage, repair or
+other handling of products, merchandise,
+equipment and other articles shall occur from
+an enclosed building or within the fenced
+area.
+4[ d]. If applicable, the proposal shall
+conform to state regulations. ( Ord. 91- 020 §
+1, 1991)
+C. Cemetery.
+1. The Planning Director or Hearings
+Body shall find that the terrain and soil types
+of a proposed location are suitable for
+internment, and that the nature of the subsoil
+and drainage will not have a detrimental effect
+on groundwater sources or domestic water
+supplies in the area of the proposed use.
+Ord. 91- 020 § 1, 1991)
+0137- 1713
+D. Church Hospital Nursing Home,
+Convalescent Home, Retirement Home.
+1[ a]. Such a use shall be authorized as a
+conditional use only upon finding that suffi-
+cient area is provided for the building,
+required yards and off- street parking. Related
+structures and uses such as a manse, parochial
+school or parish house are considered separate
+uses and additional lot areas shall be required
+therefore.
+2[ b]. The applicant shall address the
+following issues in the application:
+a[ 1]. Location of the site relative to the
+service area.
+b[ 2]. Probable growth and needs thereof.
+K[3]. Site location relative to land uses in
+the vicinity.
+d[ 4]. Conformity with Deschutes County
+Public Works Department standards of
+proposed access to and from principal streets
+and the probable effect of the proposal on the
+traffic volume of adjoining and nearby streets.
+3[ c]. Such uses or related buildings shall be
+at least 30 feet from a side or rear lot line.
+4[ d]. Except in an A -H zone, such uses may
+be built to exceed the height limitations of the
+zone in which it is located to a maximum
+height of 50 feet if the total floor area of the
+building does not exceed the area of the site
+and if the yard dimensions in each case are
+equal to at least two- thirds of the height of
+the principal structure. ( Ord. 93- 043 § 23A,
+1993; 91- 020 § 1, 1991)
+E. Medical Clinic, Veterinary Clinic,
+Club, Lodge, Fraternal Organization,
+Community Center, Grange Hall, Golf
+Courses, Horse Stable and Horse Events
+requiring conditional uses, . Grounds and
+Buildings for Games or Sports, Country Club,
+Swimming, Boating, oating, Tennis Clubs and Similar
+Activities, Government Structures and Land
+Uses, Parks, Play rog_unds. In considering the
+above, the Planning Director or Hearings
+Body may authorize the conditional use after
+it has been determined that the following will
+be provided:
+1[ a]. Access from principal streets subject
+to Deschutes County Public Works Depart -
+Chapter 18. 128 ( 11/ 30/ 94) 3 ( 06/ 08/ 94)
+ment standards.
+2[ b]. Off- street parking subject to Section
+18. 116. 030.
+3[ c]. Building and site design provisions,
+including landscaping, that will effectively
+screen neighboring uses from noiseiglare1
+odor and other adverse impacts. ( Ord. 94- 008
+15, 1994; Ord. 91- 020 § 1, 1991)
+F. Dog Pounds and Kennels.
+1. The Planning Director or Hearings
+Body may authorize a dog pound or kennel as
+a conditional use provided that building and
+site design provisions are adequate to mini-
+mize noise and odor. When necessary to
+protect surrounding properties, the Hearings
+Officer mayrequire a sight -obscuringfenceor
+hedge and may restrict vehicular access and
+loading facilities, especiallythose required by
+trucks transporting large animals. ( Ord. 91-
+020 § 1, 1991)
+G. Home Occupations. When permitted
+as a conditional use and conducted as an
+accessoryuse, a home occupation shall be
+subject to the following limitations:
+1[ a]. The home occupation is to be second-
+ary to the residential or other usefor which a
+dwelling has been permitted. It shall be
+conducted only by members of the family
+residing on the property. The home occupa-
+tion shall be conducted in such a way that it
+has no adverse impact on the residential, or in
+resource zones, resource - oriented character of
+its location. ( Ord. 92- 025 § 6, 1992)
+2[ b]. Any structure on the property where
+the home occupation is conducted shall be of
+a type normally associated with the zone
+where it is located. No structural alterations
+affecting the residential appearance of a
+building shall be allowed to accommodate the
+home occupation except when otherwise
+required by law, and then only after the plans
+for such alterations have been reviewed and
+approved by the Planning Division. ( Ord. 91-
+020 § 1, 1991)
+3[ c]. The subject property shall have ade-
+quate access and parking for the home occu-
+pation. Traffic created by the business or
+customers of the business shall not be of a
+0137- 1'714
+volume or frequency that will cause distur-
+bance or inconvenience to nearby land uses.
+4[ d]. All uses conducted on the subject
+property shall comply with all requirements of
+the Deschutes County Building and Safety
+Division and the Environmental Health Divi-
+sion and any other applicable state or federal
+laws.
+5[ e]. The home occupation approval shall
+be reviewed every twelve months by the Plan-
+ning Division to ensure compliance with the
+requirements of this section and the condi-
+tions required for approval of the use.
+6[ f]. No materials or mechanical equip-
+ment shall be used which will be detrimental
+to the residential use of the property or
+adjoining residences because of vibration,
+noise, dust, smoke, odor, interference with
+radio or television reception or other factors.
+Ord. 91- 038 § 1, 1991)
+H. Landfill, Solid Waste Disposal Site:
+The Planning Director or Hearings Body may
+authorize a landfill or other solid waste
+disposal site as a conditional use, subject to
+the following standards: ( Ord. 91- 020 § 1,
+1991)
+1[ a]. The proposed site shall not create a
+fire hazard, litter, insect or rodent nuisance, or
+air or water pollution in the area.
+2[ b]. The proposed site shall be located in
+or as near as possible to the area being
+served.
+3[ c]. The proposed site shall be located at
+least one-quarter mile from any existing
+dwelling, home or public road ( except the
+access road).
+4[ d]. The proposed site shall be provided
+with a maintained all- weather access road.
+I. Commercial Use or Accessory Use
+Not Wholly Enclosed Within a Building or a
+Retail Establishment, Office, Service Commer-
+cial Establishment, Financial Institution, or
+Personal or Business Service Establishment on
+a Lot Adjoining or Across a Street From a
+Lot in a Residential Zone. In any zone, these
+usesmay be permitted conditionally subject to
+the following standards:
+1[ a]. A sight -obscuring fence or evergreen
+Chapter 18. 128 ( 11/ 30/ 94) 4 ( 06/ 08/ 94)
+hedgemaybe required by the PlanningDirec-
+tor or Hearings Body when he finds such a
+fence or hedge or combination thereof is
+necessary to preserve the values of nearby
+properties or to protect the aesthetic character
+of the neighborhood or vicinity.
+2[ b]. In addition to the requirements of the
+applicable zone, the Planning Director or
+Hearings Body may further regulate the
+placement and design of signs and lights in
+order to preserve the values of nearby proper-
+ties, to protect them from glare, noise, or
+other distractions or to protect the aesthetic
+character of the neighborhood or vicinity.
+3[ c]. In order to avoid unnecessary traffic
+congestion and hazards, the Planning Director
+or Hearings Body may limit access to the
+property. ( Ord. 91- 020 § 1, 1991)
+J. Commercial Amusement Establish-
+ment. A commercial amusement establish-
+ment may be authorized after consideration of
+the following factors:
+1[ a]. Adequacy of access from principal
+streets together with the probable effect of
+traffic volumes on adjoining and nearby
+streets. ( Ord. 91- 020 § 1, 1991)
+2[ b]. Adequacy of off- street parking.
+3[ c]. Adequacy of building and site design
+provisions to maintain a reasonable minimum
+of noise and glare from the building and site.
+Section 10. 1, Standards and Criteria
+Related to Approval of Single - Wide. . .
+repealed by Ord. 91-005 § 46, 1991; Ord. 80-
+206 § 4, 1980)
+K. Manufactured Home Park. A manu-
+factured home park shall be built to state
+standards in effect at the time of construction
+and the following provisions:
+1[ a]. Evidence that the park will be eligible
+for a certificate of sanitation as required by
+state law.
+2[ b]. The space provided for each manufac-
+tured home shall be provided with piped
+potable water, electrical and sewerage connec-
+tions.
+3[ c]. The number of spaces for manufac-
+tured homes shall not exceed 12 for each acre
+of the total acres in the manufactured home
+013'7-1715
+park. The Planning Director or Hearings
+Body may vary this density as follows: ( Ord.
+91- 020 § 1, 1991)
+a[ 1]. If dedicated open space equals 50%
+or more of the total area of the park, a
+maximum 10% increase in units per acre may
+be granted.
+b[ 2]. If in addition to the requirements in
+subsection ( K)( c)( 1) of this section a main-
+tained playground area with approved equip-
+ment such as goalposts, swings, slides, etc., is
+provided, the maximum increase in units per
+acre may be increasedan additional 5%.
+c[ 3]. If in addition to the requirements in
+subsections ( K)( 3[ c])( a[ 1]) and ( b[ 2]) of this
+section, approved recreation/ community
+building is provided an additional 10%
+increase of units/ acre may be allowed.
+Maximum total increase possible through
+application of subsection ( K)( 3[ c]) of this
+section = 25%.)
+4[ d]. A manufactured home pad shall
+occupy not more than 40% of the contiguous
+space provided for the exclusive use of the
+occupants of the home, exclusive of space
+provided for the common use of tenants, such
+as roadways, general use structure, parking
+spaces, walkways and areas for recreation and
+landscaping.
+5[ e]. No manufactured home pad in the
+park shall be located closer than 15 feet from
+another manufactured home pad or from a
+general use building in the park. No manufac-
+tured home accessory building or other build-
+ing or structure on a manufactured home
+space shall be closer than 10 feet from a
+manufactured home accessory building or
+other building or structure on another manu-
+factured home space. No manufactured home
+pad or other building or structure shall be
+within 25 feet of a public street property
+boundaryor 10feet or another property boun-
+dary.
+6[ f]. Facilities shall be provided to assure
+that there will be no outdoor storage of
+furniture, tools, equipment, building materials
+or supplies belonging to the management of
+the park.
+Chapter 18. 128 ( 11/ 30/ 94) 5 ( 06/ 08/ 94)
+1[ g]. The land which is used for park
+purposes shall be surrounded, except at entry
+and exit places, by a sight -obscuring fence or
+hedge not less than six feet in height.
+S[ h]. If the park provides spaces for 50 or
+more manufactured home units, each
+vehicular way in the park shall be named and
+marked with signs which are similar in
+appearance to those used to identify public
+streets. A map of the named vehicular ways
+shall be provided to the fire department.
+9[ i]. The park shall have water supply
+mains designed to serve fire hydrants and
+hydrants shall be provided within 500 feet of
+such space or structure. Each hydrant within
+the park shall be located on a vehicular way.
+IOU]. A minimum of at least 2, 500 square
+feet plus 100 square feet per manufactured
+home space shall be provided for recreational
+play area, group or community activities. The
+Planning Director or Hearings Body may
+require this area to be protected from streets,
+parking areas or the like by a fence or the
+equivalent that conforms to fence regulations,
+but is a least 30 inches in height where
+allowed by fence ordinances. Unless other-
+wise approved, no required open space area
+shall contain less than 2, 500 square feet.
+Recreation areas shall be improved with grass,
+plantings, surfacings or buildings suitable for
+recreational use. No recreation facility
+created within a manufactured home park
+only to satisfy the requirements of this section
+shall be open to the general public. ( Ord. 91-
+020 § 1, 1991)
+11[ k]. A parking space shall be provided for
+each manufactured home space on the site.
+Additional guest parking spaces shall be
+provided in every manufactured home park
+within 200 feet of the manufactured home
+spaces served, at a ratio of one parking space
+for each two manufactured home spaces.
+Parkingspacesshall havedurable and dustless
+surfacesadequately maintained for all- weather
+use and shall be properly drained.
+12[ 1]. All manufactured home parks over 10
+acres in area shall be located with access on a
+street designated as a collector street.
+0137- 1716
+13[ m]. All manufactured home parks con-
+taining a total site area of five acresor more
+shall provide a secondary access to the park.
+Such secondary access shall enter the public
+street system at least 150 feet from the
+primary access.
+14[ n]. Lighting shall be installed along the
+access ways of the manufactured home park
+and the recreation area with lights of 100
+watts or better not over 100 feet apart. Wires
+for service to light poles and manufactured
+home spaces shall be underground.
+15[ 0]. Roadways within the park shall be
+improved with an all- weather dustless surface
+and shall be not less than 30 feet in width if
+parking is permitted on the margin of the
+roadway, or less than 20 feet in width if
+parking is not permitted on the edge of the
+roadway and an adequate designated area is
+provided and improved for guest parking and
+tenant recreational vehicles.
+16[ p]. All manufactured home parks shall
+have a minimum lot size of one acre. ( Ord.
+91- 005 § 47, 1991)
+L. Multi - Family Dwelling Complex. A
+multi -family dwelling complex shall comply
+with the following provisions prior to occu-
+pancy:
+1[ a]. The number of units permitted by the
+applicable zone per gross square footage of a
+site may be increased as follows:
+a[ 1]. If dedicated open space which is
+developed and landscaped equals 50% or
+more of the total area of the site, a maximum
+of 10% increase in the number of units may
+be granted.
+b[ 2]. If in addition to open space as pro-
+vided in ( 1) above, a maintained playground
+area with approved equipment such as goal-
+posts, swings, slides, etc., is provided, the
+number of units permitted may be increased
+an additional 5%.
+c[ 3]. If in addition to open space and
+playgrounds as provided in ( a[ 1]) and ( b[ 2])
+above, an approved recreational community
+building is provided, an additional 10%
+increase of units may be granted.
+d[ 4]. The maximum total increase in dwell -
+Chapter 18. 128 ( 11/ 30/ 94) 6 ( 06/ 08/ 94)
+ing units made possible by development of
+open space, playgrounds and recreational
+facilities shall be 25% of the number of units
+otherwise allowed.
+2[ b]. There shall be no outdoor storage of
+furniture, tools, equipment, building materials
+or supplies belonging to the occupants or
+management of the complex. Bicycle storage
+shall be allowed in the provided sheltered
+bicycle parking facilities ( one parking space
+per unit for complexes of four ( 4) units or
+more). ( Ord. 93- 005 § 9, 1993
+3[ c]. If the complex or any unit thereof is
+more than 500 feet from a public fire hydrant,
+such shall be provided at appropriate locations
+on a vehicular way and shall conform in
+designand capacity to the public hydrants in
+the nearest city.
+4[ d]. A minimum of 2, 500 square feet plus
+100 square feet per dwelling unit shall be
+provided for recreation, including but not
+limited to, playgrounds, playing fields and
+facilities for group and community activities.
+The area shall be improved with grassy areas,.
+landscaping, surfacing, equipment or buildings
+suitable for recreational use. The Hearings
+Body may require recreational areas to be
+screened from streets, parking areas or other
+usesby a sight -obscuringfence. No play area
+is required if more than 70% of the area is
+preserved as open space and is improved and
+landscaped for recreational enjoyment.
+5[ e]. All such complexes with more than 20
+dwelling units shall be located to have access
+on a street designated as a collector unless
+otherwise approved by the Planning Director
+or Hearings Body.
+6[ f]. All such complexes shall provide both
+an ingress and egress.
+7[g]. All roadways and parking areas shall
+be paved, and roadways shall not be less than
+20 feet in width, except as approved by the
+Planning Director or Hearings Body.
+8[ h]. A sight -obscuring fence or evergreen
+hedge may be required by the Hearings
+Officer when such screening is necessary to
+preserve the values of nearby properties,
+protect the aesthetic character of the neigh-
+0137- 1717
+borhood or vicinity and provide security for
+occupants of the subject complex.
+9[ i]. All accessory structures associated
+with such a complex shall be set back 50 feet
+from the property line of an adjoining single-
+family residential lot or use.
+10[j]. Sewer and water facilities shall be
+provided accordingto Oregon Department of
+Environmental Quality standards. ( Ord. 91-
+020 § 1, 1991)
+M. Recreational Vehicle Park. A recrea-
+tional vehicle park shall conform to state stan-
+dards in effect at the time of construction and
+the following conditions:
+1[ a]. The space provided for each recrea-
+tional vehicle shall be not less than 700 square
+feet exclusiveof any spaceused for common
+areas such as roadways, general use structures,
+walkways, parking spaces for vehicles other
+than recreational vehicles and landscaped
+areas.
+2[ b]. Roadways shall be not less than 30
+feet in width if parking is permitted on the
+margin of the roadway, or not less than 20
+feet in width if parking is not permitted on the
+edge of the roadway and shall be paved with
+asphalt, concrete or similar impervious surface
+and designed to permit easy access to each
+recreational vehicle space. ( Ord. 91- 020 § 1,
+1991)
+3[ c]. A space provided for a recreational
+vehicle shall be covered with crushed gravel or
+paved with asphalt, concrete, or similar
+material and be designed to provide for the
+control of runoff of surface water. The part
+of the space which is not occupied by the
+recreational vehicle, not intended as an access
+way to the recreational vehicle or part of an
+outdoor patio, need not be paved or covered
+with gravel provided the area is landscaped or
+otherwise treated to prevent dust or mud.
+Ord. 91- 020 § 1, 1991)
+4[ d]. A recreational vehicle space shall be
+provided with piped potable water and sewage
+disposal service. A recreational vehicle
+staying in the park shall be connected to the
+water and sewage service provided by the park
+if the vehicle has equipment needing such
+Chapter 18. 128 ( 11/ 30/ 94) 7 ( 06/ 08/ 94)
+service.
+5[ e]. A recreational vehicle space shall be
+provided with electrical service.
+6[ f]. Trash receptacles for the disposal of
+solid waste materials shall be provided in
+convenient locations for the use of guests of
+the park and located in such number and of
+such capacity that there is no uncovered
+accumulation of trash at any time.
+1[g]. No recreational vehicle shall remain
+in the park for more than 30 daysin any 60 -
+day period.
+8[ h]. The total number of parking spacesin
+the park, except for the parking provided for
+the exclusive use of the manager or employees
+of the park, shall be one space per recrea-
+tional vehicle space. Parking spacesshall be
+covered with crushed gravel or paved with
+asphalt, concrete or similar material.
+9[ i]. The park shall provide toilets, lava-
+tories and showers for each sex in the
+following ratios: For each 15 recreational
+vehicle spaces or any fraction thereof, one
+toilet, one urinal, one lavatory and one shower
+for men; two toilets, one lavatory and one
+shower for women. The toilets and showers
+shall afford privacy and the showers shall be
+provided with private dressing rooms.
+Facilities for each sex shall be located in
+separate buildings, or, if in the same building,
+shall be separated by a soundproof wall.
+LOU]. The park shall provide one utility
+building or room containing one clothes
+washingmachine, one clothes drying machine
+and 15 square feet of space for clothes drying
+lines for each 10 recreational vehicle spaces or
+any fraction thereof, unless such facilities are
+available within a distance of 3 miles and are
+adequate to meet these standards.
+11[ k]. Building spaces required by subsec-
+tions ( M)( 9[ i]) and ( 10[j]) of this section shall
+be lighted at all times of night and day, shall
+be ventilated, shall be provided with heating
+facilities which shall maintain a room temper-
+ature of 68 degrees ( F), shall have floors of
+waterproof material, shall have sanitary
+ceiling, floor and wall surfaces and shall be
+provided with floor drains adequate to permit
+0137- 1'718
+easy cleaning.
+12[ 1]. Except for the access roadway into
+the park, the park shall be screened on all
+sidesby a sight -obscuring fence not lessthan
+six feet in height, unless otherwise approved
+by the Planning Director or Hearings Body.
+Ord. 91- 020 § 1, 1991)
+13[ m]. A neat appearance shall be main-
+tained at all times. Except for vehicles, there
+shall be no outside storage of materials or
+equipment belonging to the park or to any
+guest of the park. ( Ord. 91- 020 § 1, 1991)
+14[ n]. Evidence shall be provided that the
+park will be eligible for a certificate of sanita-
+tion as required by state law.
+15[ o]. Access to the recreational vehicle
+park shall be from an arterial or collector
+street. ( Ord. 91- 038 § 1, 1991)
+N. Radio, Television Tower, Utility
+Station or Substation.
+1[ a]. In a residential zone, all equipment
+storage on the site may be required to be
+within an enclosed building.
+2[ b]. The usemaybe required to befenced
+and landscaped.
+3[ c]. The minimum lot size for a public
+utility facility may be waived on finding that
+the waiver will not result in noise or other
+detrimental effect to adjacent property.
+4[ d]. Transmission towers, posts, overhead
+wires, pumping stations and similar
+installations shall be located, designed and
+installed to minimize conflicts with scenic
+values. ( Ord. 93- 043 § 23B, 1993; 91- 020 § 1,
+1991)
+O. Schools.
+1[ a]. Nursery schools shall provide and
+maintain at least 100 square feet of outdoor
+play areaper child. A sight -obscuringfenceat
+least four feet but not more than six feet high
+shall separate the play area from adjoining
+lots.
+2[ b]. Elementary and secondary schools
+shall provide a basic site area consistent with
+state standards for the predicted ultimate
+enrollment.
+3[ c]. Secondary schools shall provide a
+basic site area of 10 acres plus one additional
+Chapter 18. 128 ( 11/ 30/ 94) 8 ( 06/ 08/ 94)
+acre for each 100 pupils of predicted ultimate
+enrollment.
+P. Cluster Development ( Single - Family
+Residential Uses OpW.
+1[ a]. Such uses may be authorized as a
+conditional use only after consideration of the
+following factors:
+a[ 1]. Need for residential uses in the
+immediate area of the proposed development.
+b[ 2]. Environmental, social and economic
+impacts likely to result from the development,
+including impacts on public facilities such as
+schools and roads.
+c[ 3]. Effect of the development on the
+rural character of the area.
+4[ 4]. Effect of the development on agricul-
+tural, forestry, wildlife or other natural
+resource uses in the area.
+2[ b]. The conditional use shall not be
+granted unless the following findings are
+made:
+a[ 1]. Human activities, including all devel-
+opment and alterations of the natural land-
+scape, will be limited to 35 percent of the land.
+and 65 percent shall be kept in open space
+uses. The area of development shall be mea-
+sured by drawing a continuous line around the
+affected area 150 feet on either side of any
+lot, building, road or other such facility. ( Ord.
+92- 025 § 7, Exhibit D, 1992; Ord. 91- 020 § 1,
+1991)
+b[ 2]. Uses permitted in the open space
+area may include the management of natural
+resources, trail systems or other outdoor uses
+that are consistent with the character of the
+natural landscape.
+c[ 3]. All lots within the development shall
+be contiguous to one another except for
+occasional corridors which shall not be wider
+than the average lot width, unless the Planning
+Director or Hearings Body finds that special
+circumstances warrant a wider corridor. ( Ord.
+91- 020 § 1, 1991)
+d[ 4]. In the rural zones, the cluster devel-
+opment shall be located on the least produc-
+tive land. ( Ord. 92- 025 § 7, Exhibit D, 1992)
+e[ 5]. All subdivision requirements con-
+tained in DeschutesCounty CodeTitle 17, the
+U137- 1'719
+Subdivision/ Partition Ordinance, shall be met.
+46]. The total number of units may exceed
+the overall density established by the mini-
+mum lot size of the zone in which the
+development is proposed by not more than 33
+percent.
+g[7]. The open space of the proposed
+development may be platted as a separate
+parcel or in common ownership of some or all
+of the clustered units. However, the open
+area shall not be subject to development
+unless the whole development is brought
+inside an urban growth boundary.
+h[ 8]. Roads within the development shall
+meet the requirements of the County Road
+Department and shall be considered private
+roads. An agreement acceptable to the Road
+Department shall be required for the mainte-
+nance of those roads.
+i[ 9]. The rural character of the area shall
+not be adversely affected.
+x[10]. All service connections shall be the
+minimum length necessary and underground
+where feasible. ( Ord. 91- 020 § 1, 1991)
+k[ 11]. Private developments with private
+roads shall provide bicycle and pedestrian
+facilities. If the bikeways are constructed as a
+part of the private roadway, they shall be at
+least four ( 4) feet wide on each side of the
+uncurbed roadway, resulting in a minimum
+total roadway width of 28 feet. If the private
+roads are constructed to the minimum
+standard width of 20 feet, separated bike
+paths built to County standards shall be
+provided. If separated paths are meant to be
+shared by pedestrians or other users, the
+minimum width shall be 12 feet. Bicycle and
+pedestrian facilities shall connect with the
+County bicycle and pedestrian transportation
+system. ( Ord. 93- 005 § 10, 1993)
+1[12]. Bicycle and pedestrian connections
+shall be provided at the ends of cul- de- sacs, at
+mid - block, between subdivision plats, etc., in
+the following situations. Connections shall
+have a 20 -foot right- of- way, with at least a 10 -
+foot - wide useable surface, shall be as straight
+as possible, and shall not be more than 400
+feet long. ( Ord. 93- 005 § 10, 1993)
+Chapter 18. 128 ( 11/ 30/ 94) 9 ( 06/ 08/ 94)
+i. In residential areas and industrial
+parks where the addition of a connection
+would reduce the walking or cycling distance
+to an existing or planned transit stop, school,
+shoppingcenter, or neighborhood park by 400
+feet and by at least 50% over other available
+routes.
+ii. For schools or commercial uses where
+the addition of a connection would reduce
+walking or cycling distance to an existing or
+planned transit stop, school, shopping center,
+or neighborhood park by 200 feet or by at
+least 50% over other available routes.
+iii. For cul- de- sacs or dead end streets
+where a street connection is determined by
+the Hearings Officer or Planning Director to
+be infeasible or inappropriate. ( Ord. 93- 005
+10, 1993)
+3[ c]. All applications shall be accompanied
+by a plan with the following information:
+a[ 1]. A plat map meeting all the subdivi-
+sion requirements of Deschutes County Code
+Title 17, the Subdivision/ Partition Ordinance.
+h[ 2]. An open space management plan.
+which includes designation of proposed open
+space on the plat, a written management plan
+and deed restrictions that retain the open
+spacein perpetuity. ( Ord. 91- 020 § 1, 1991)
+c[ 3]. A written agreement establishing an
+acceptable homeowners association assuring
+the maintenance of common property in the
+development.
+4[ d]. Dimensional Standards:
+a[ 1]. Setbacks and height limitations shall
+be as prescribed in the zone in which the
+development is proposed unless adequate
+justification for variation is provided the
+PlanningDirector or Hearings Body, but in no
+case shall the setbacks be less than 25 feet or
+the height greater than 40 feet. ( Ord. 91- 020
+1, 1991)
+b[ 2]. Minimum area for a cluster develop-
+ment shall be 5 acres unless otherwise limited
+by the zone in which it is proposed.
+5[ e]. Conditions for phased development
+shall be specified and performance bonds
+shall be required by the Planning Director or
+Hearings Body to assure completion of the
+0137- 17-20
+project as stipulated. ( Ord. 91- 020 § 1, 1991;
+Ord. 84- 015 § 3, 1984)
+Q. Planned Development.
+1[ a]. Such uses may be authorized as a
+conditional use only after consideration of the
+following factors:
+a[ 1]. Proposed land uses and densities.
+h[ 2]. Building types and densities.
+c[ 3]. Circulation pattern, including bicycle
+and pedestrian circulation, and a
+demonstration of how those facilities connect
+to the County transportation facilities. Private
+developments with private roads shall provide
+bicycle and pedestrian facilities. ( Ord. 93- 005
+11, 1993)
+d[ 4]. Bicycle and pedestrian connections
+shall be provided at the ends of cul- de- sacs, at
+mid - block, between subdivision plats, etc.,
+wherever the addition of such a connection
+would reduce the walking or cycling distance
+to a connecting street by 400 feet and by at
+least 50% over other available routes. These
+connections shall have a 20 -foot right -of --way,
+with at least a 10 -foot - wide useable surface,
+and should not be more than 100 feet long if
+possible. ( Ord. 93- 005 § 11, 1993)
+e[ 5]. Parks, playgrounds, open spaces.
+46]. Existing natural features.
+g[ 7]. Environmental, social, energy and
+economic impacts likely to result from the
+development, including impacts on public
+facilities such as schools, roads, water and
+sewage systems, fire protection, etc. ( Ord. 91-
+020 § 1, 1991)
+h[ 8]. Effect of the development on the
+rural character of the area.
+i[ 9]. Proposed ownership pattern.
+1[10]. Operation and maintenance proposal
+i. e., homeowners association, condominium,
+etc.).
+k[ 11]. Waste disposal facilities.
+1[ 12]. Water supply system.
+m[ 13]. Lighting.
+1![14]. General timetable of development.
+2[ b]. The conditional use may be granted
+upon the following findings:
+a[ 1]. All subdivision restrictions contained
+Chapter 18. 128 ( 11/ 30/ 94) 10 ( 06/ 08/ 94)
+in Deschutes County Code Title 17, the
+Subdivision/ Partition Ordinance, shall be met.
+b[ 2]. The proposed development conforms
+to the Comprehensive Plan.
+43]. Any exceptionsfrom the standardsof
+the underlying district are warranted by the
+design and amenities incorporated in the
+development plan and program.
+d[ 4]. The proposal is in harmony with the
+surrounding area or its potential future use.
+t[ 5]. The system of ownership and the
+means of developing, preserving and main-
+taining open space is adequate.
+6]. That sufficient financing exists to
+assure the proposed development will be
+substantially completed within four years of
+approval.
+g[ 7]. Sixty-five percent of the land is to be
+maintained in open space.
+b[ 8]. Adequate provision is made for the
+preservation of natural resources such as
+bodies of water, natural vegetation and special
+terrain features.
+3[ c]. a[ 1]. All applications for planned.
+developments shall include the materials and
+information required for approval of a subdi-
+vision as specified in Deschutes County Code
+Title 17, the Subdivision/ Partition Ordinance
+and the materials and information required
+for approval of a conditional use as specified
+in this title. ( Ord. 91- 020 § 1, 1991)
+b[ 2]. Approval for the conditional use
+application and the planned development
+application may be given simultaneously.
+4[ d]. Dimensional Standards:
+A[ I]. Setbacks and height limitations shall
+be as determined by the Planning Director or
+Hearings Body upon review of the evidence
+submitted. ( Ord. 91- 020 § 1, 1991)
+b[ 2]. Densities shall not exceed that estab-
+lished by the underlying zone.
+c[ 3]. The minimum lot area, width, front-
+age and yard requirements otherwise applying
+to individual buildings in the zone in which a
+planned development is proposed do not
+apply within a planned development. An
+equivalent overall density factor may be
+utilized in lieu of the appropriate minimum lot
+0137- 1721
+area.
+d[ 4]. Minimum size for a planned develop-
+ment shall be 40 acres.
+5[ e]. Any commercial use permitted
+outright in the RSC Zone will be allowed in a
+planned development, subject to the following
+conditions:
+a[ 1]. Each use shall be wholly enclosed in
+a building.
+b[ 2]. The total area of such uses shall not
+exceed 3% of the total area of the planned
+development.
+R. Planned Communities.
+1[ a]. Such uses may be authorized as a
+conditional use only after consideration of the
+factors listed in subsection ( Q)( 1[ a]) of this
+section.
+2[ b]. The conditional use may be granted
+upon the findings specified in subsection
+Q)( 2[ b]) of this section, except that there
+must be an additional finding that the planned
+community will actually function as an
+independent community.
+3[ c]. All applications shall be submitted in
+the form and with the materials required of
+subdivisions as required by Deschutes County
+Code Title 17, the Subdivision/ Partition Ordi-
+nance, and shall also meet the requirements of
+this title for the approval of conditional uses.
+4[ d]. Dimensional standards shall be deter-
+mined as specified in subsection ( Q)( 4[ d]) of
+this section, except that the minimum size for
+a planned community shall be 640 acres.
+e]. Phased development of the project
+may be permitted if agreed to by the Planning
+Director or Hearings Body at the time of the
+initial application. Conditions of approval for
+phased development shall be specified and
+performance bonds required by the Planning
+Director or Hearings Body to assure comple-
+tion of the project as stipulated. ( Ord. 91- 020
+1, 1991)
+S. Dude Ranches.
+1[ a]. Such uses may be authorized as a
+conditional use only after consideration of the
+factors listed in subsection ( Q)( 1[ a]) of this
+section.
+2[ b]. The conditional use may be granted
+Chapter 18. 128 ( 11/ 30/ 94) 11 ( 06/ 08/ 94)
+upon the findings specified in subsection
+R)( 2[ b]) of this section.
+3[ c]. All applications shall be submitted in
+the form and with the materials required of
+subdivisionsby DeschutesCounty Code Title
+17, the Subdivision/ Partition Ordinance, and
+shall also meet the requirements in this title
+for the approval of conditional uses.
+4[ d]. Dimensional standards are the same
+as those in subsection ( Q)( 4[ d]) of this
+section, except that the density of a dude
+ranch may be greater or lessthan the density
+of the underlying zone upon findings by the
+Planning Director or Hearings Body that the
+change is warranted and that the proposed
+density does not violate the purpose of the
+underlying zone or other terms of this title.
+5[ e]. Phased development of the project
+may be permitted if agreed to by the Planning
+Director or Hearings Body at the time of the
+initial application. Conditions of approval for
+phased development shall be specified and
+performance bonds required by the Planning
+Director or Hearings Body to assure comple-
+tion of the project as stipulated. ( Ord. 92- 004
+12, 1992; Ord. 91- 020 § 1, 1991)
+T. Shopping Complex.
+1[ a]. Such uses may be authorized as a
+conditional use only after a determination is
+made by the Planning Director or Hearings
+Body.
+A[11. That the public interest will be served
+by approval of the proposal based on analysis
+of environmental, social and economic and
+energy impacts likely to result from the
+development. Analysis may include, but not
+be limited to, consideration of impacts on
+public facilities such as roads, water supplies,
+sewer systems and police and fire protection.
+b[ 2]. That the entire complex shall be
+completed within one year or a master plan
+shall be submitted that explains the phased
+development of the project. The master plan
+shall specify a timetable of completion for all
+phases of the project. The master plan shall
+be fully implemented within five years or
+extended subject to the terms of Deschutes
+County Code Title 22, the Uniform Develop-
+0137- 1722
+ment Procedures Ordinance.
+c[ 3]. That there is adequate area for the
+buildings, landscaping, parking, septic systems
+and access to serve the proposed development.
+d[ 4]. That the use is consistent with the
+character of the area and is not detrimental to
+the land use pattern of the area.
+e[ 5]. That the proposed shopping complex
+is to be developed and managed as a total
+entity, with a plan for maintenance of all
+elements of the site plan.
+f[ 6]. The proposed shopping complex is
+appropriate for serving the needs of rural
+residents in the area.
+g[ 7]. The proposed shopping complex will
+not attract residents outside the rural area to
+be serviced. ( Ord. 91- 020 § 1, 1991; Ord. 84-
+023 § 4, 1984)
+U. High - Temperature Geothermal Wells
+and Small - Scale Geothermal Energy Facilities.
+1[ a]. Applicants shall provide the following
+information:
+1![1]. Project Description. A detailed
+narrative which describes the applicant' s plan
+of operations for exploration, production,
+utilization, and/ or injection. This description
+shall include estimated starting and comple-
+tion dates for each activity or phase of the
+project. It shall also include a concise but
+comprehensive discussion of the project' s
+expected environmental impacts. This narra-
+tive shall also include as an exhibit a state-
+ment describing the applicability of all local,
+state or federal inventories of Statewide
+Planning Goal 5 resources in the project
+vicinity.
+b[ 2]. Maps. As may be required by the
+Planning Director or Hearings Body, maps
+shall be submitted on readily reproducible
+transparencies as follows: ( Ord. 91- 020 § 1,
+1991)
+L A topographic map, of a scale not less
+than one inch to one- half mile, on which the
+following are shown: all pertinent property
+ownership and geothermal lease boundaries;
+the location of all proposed, existing and
+abandoned geothermal wells and/ or energy
+facilities; all existing and planned accessroads;
+Chapter 18. 128 ( 11/ 30/ 94) 12 ( 06/ 08/ 94)
+major drainage patterns of the project' s
+operational area; and significant environ-
+mental features and natural resource
+locations, including but not limited to:
+mineral or aggregate deposits, fish and wildlife
+habitats, ecologically or scientifically notable
+natural area, outstanding scenic views,
+wetlands, surface water bodies, wilderness
+areas, historic and cultural sites and recreation
+trails and facilities.
+ii. A map of the project site, of a scale
+not lessthan one inch to fifty feet, on which is
+shown a detailed layout of all drilling pads,
+sumps, equipment, buildings, pipelines, power
+lines and related facilities.
+iii. Other specialized maps, plans or
+drawings as may be required by the Planning
+Director or Hearings Body, including but not
+limited to: a larger - scale map to show any of
+the foregoing information if details cannot be
+satisfactorily indicated on the smaller scale
+map; detailed engineering drawings for any
+construction at a location on steep terrain,
+potentially unstable ground or other geologi-
+cally or environmentally sensitive areas; and
+engineering drawings of new road construction
+or existing road modification when such roads
+are in rugged terrain, or pass through or near
+environmentally sensitive areas. ( Ord. 91- 020
+1, 1991)
+c[ 3]. Emergency Contingency Plan. A
+detailed emergency contingency plan which
+addresses prevention or control of fires, blow-
+outs, pollution incidents, accidents, injuries
+and adverse weather conditions. This plan
+shall describe the following:
+i. How the emergency will or might
+affect the applicant' s operations; or endanger
+personnel, public health, safety or the environ-
+ment.
+ii. Measures proposed to prevent,
+control, mitigate or minimize the possible
+negative effects of emergency incidents.
+iii. Procedures for training and instruct-
+ing personnelasto proper proceduresfor pre-
+venting, controlling or minimizing the impacts
+of emergency incidents.
+iv. Where and how stand-by emergency
+0137- 1723
+control equipment and services are to be
+obtained in the event of an emergency inci-
+dent.
+V. Notification list with order of notifi-
+cation, including names, telephone numbers
+and addresses of the applicant' s responsible
+officials and those of applicable emergency
+service agencies.
+vi. Where and how first aid, and minor
+and major medical aid will be obtained if
+needed during work on the project.
+d[ 4]. For drilling applications, a narrative
+and diagrammatic description of the following:
+L The type and capacity of drilling
+equipment to be used.
+ii. The expected drilling schedule.
+iii. The drilling method to be used; type
+of circulating media to be used, e.g., water,
+mud, foam, air or combination thereof;
+chemical additives to be used; circulating
+media cooling measures to be employed; and
+amounts of reserve circulating media and
+water to be kept on the drill site. If toxic
+materials are to be used, protective measures
+must be explained in detail.
+iv. The number and type of workers to
+be employed during drilling.
+V. The safety provisions and emergency
+shutdown procedures to be used for protec-
+tion of the public health and the environment.
+vi. The planned use, source, quality and
+consumption rate for any outside water
+supply.
+vii. The method and locations for disposal
+of wastes.
+viii. A description of the intended site
+restoration procedures to be used after com-
+pletion of drilling.
+ix. When approved by the Planning
+Director or Hearings Body, applications for
+prospect wells, as defined by ORS
+522. 005( 15), may satisfy the information
+requirements of paragraphs ( U)( 1[ a])( a[ 1])
+through ( U)( 1[ A])( 4[ 4]), above by submission
+of a copy of the applicant' s prospect well
+permit application to the Oregon Department
+of Geology & Mineral Industries. ( Ord. 91-
+020 § 1, 1991)
+Chapter 18. 128 ( 11/ 30/ 94) 13 ( 06/ 08/ 94)
+e[ 5]. For energy facility applications, a
+narrative and diagrammatic description of the
+following:
+L The structures, equipment and
+support facilities to be used in the project and
+their manner of operation.
+ii. A description of the purpose and
+operational characteristics of the major
+components in the energy facility, including
+schematic flow diagrams.
+iii. An artist' s rendering which illustrates
+the visual appearance of the facility and its
+immediate environs after completion.
+iv. A time schedule for the installation
+and start-up of the facility.
+V. The number and type of construction
+and permanent workers to be employed at the
+facility.
+vi. The safety provisions and emergency
+shutdown procedures to be used in the facility
+for protection of the public health and envi-
+ronment, including a schedule for testing and
+maintaining safety devices.
+vii. The planned use, source, quality and.
+consumption rate for any outside water
+supply.
+viii. The method and locations for disposal
+of wastes.
+ix. A description of facility monitoring to
+assure continuing compliance with applicable
+noise, air and water quality standards and
+regulations and for other potentially signifi-
+cant environmental impacts.
+X. A description of the intended aban-
+donment and site restoration procedures to be
+used if and when the facility is permanently
+taken out of operation.
+2[ b]. The siting, drilling, operation and
+abandonment of wells and energy facilities
+shall comply with the following standards:
+a[ l]. Excluded Areas. No activity shall be
+permitted in inventoried natural resource
+areas, as defined by Oregon Statewide Plan-
+ning Goal 5, which the county has determined
+to be unsuitable for any use other than the
+inventoried natural resource pursuant to
+Geothermal Policy 4(f) of the Comprehensive
+Plan.
+0137- 1724
+b[ 2]. Scenic Protection. Activities shall be
+designed and conducted to be as compatible
+as practical with surrounding scenic and visual
+characteristics. Energy facilities shall be
+designed to minimize their visual profile and
+they shall be painted or prepared to be non -
+reflective and of colors which blend with and
+reduce contrast with surrounding landscape
+colors. ( Ord. 91- 020 § 1, 1991)
+c[ 3]. Fish and Wildlife Protection. Activi-
+ties shall be designed, conducted and moni-
+tored, so as to assure protection of surround-
+ing fish and wildlife resources. Activities shall
+not encroach upon or jeopardize habitat areas
+which are necessary to sustain local or
+migratory populations of fish and wildlife
+determined by the county to be significant.
+4[ 4]. Protection of Historic and Cultural
+Resources. Activities shall be designed and
+conducted to avoid disturbance of historic and
+cultural resources. If such resources are
+discovered, the applicant shall cease construc-
+tion or operations and inform the county of
+the discovery within 48 hours. Thereafter, the
+applicant shall submit a plan for preservation
+and interpretation of such resources and
+implement the plan before resumption of con-
+struction or operations. ( Ord. 91- 038 § 1,
+1991)
+e[ 5]. Access Roads. Activities shall be
+designed and constructed to utilize existing
+roads as much as practical. ( Ord. 91- 020 § 1,
+1991)
+ff6]. Signs. All well and facility sites shall
+have a sign of not less than three, nor more
+than six, square feet in surface area promi-
+nently erected, which displays the site' s name
+or identification number; the operator' s name,
+address and phone number; the name and
+phone number of the operator' s representative
+to be contacted in the event of an emergency.
+g[7]. Earth Work. Drill pads, pipeline
+routes, facility sites and roads shall be
+designed and constructed as follows:
+L Plans for drill pads, pipelines, facility
+sites and roads shall be prepared by a regis-
+tered civil engineer.
+ii. Upon commencement of site work,
+Chapter 18. 128 ( 11/ 30/ 94) 14 ( 06/ 08/ 94)
+topsoil shall be removed and stockpiled for
+later respreading over disturbed areas prior to
+revegetation subject to subsection ( U)( 3[ c]) of
+Section 18. 128. 040. Except for large stumps,
+vegetation removed during initial site work
+shall be chipped, stockpiled and respread with
+topsoil. Stumps shall be buried outside of
+fills. Vegetation beyond the site perimeter
+shall not be disturbed; the clearing limits for
+the site shall be specified in plans submitted
+to the county. Buffer zones of undisturbed
+soil and vegetation shall be maintained for 500
+feet on either side of stream courses. Roads
+and pipelines crossingriparian areasshall be
+designed and constructed at minimum widths
+and in consideration of maximum erosion
+control.
+iii. Fills shall be compacted to a
+minimum of 90% relative density ( ASTM D-
+1557) to minimize erosion. If significant
+erosion occurs, the applicant shall take
+prompt remedial action. ( Ord. 91- 020 § 1,
+1991)
+iv. Fill slopes shall not exceed a gradient
+of 2: 1. The toes of all fills shall be stabilized
+with rock or keyed into stable soil and placed
+to reduce erosion potential to an absolute
+minimum. Revegetation of fill slopes shall be
+carried out subject to subsection ( U)( 3[ c]).
+Cut slopes shall not exceed a gradient of 1
+1/2: 1. Modification of these slope gradients
+may be made upon written approval of the
+Deschutes County Public Works Director.
+V. Subdrains shall be provided under all
+fills where natural drainage courses and
+seepage are evident.
+vi. No drill pads, pipelines, facility sites
+or accessroads shall be allowed on potentially
+active landslides.
+vii. Grading and filling shall be designed
+to channel storm runoff to existing natural
+drainages. Energy dissipaters and collection
+devices to reduce the erosion force of unnatu-
+ral runoff shall be provided.
+viii. Sumps shall be designed to withstand
+both static loads and dynamic loads imposed
+by potential seismic events. Sumps shall be
+constructed of material compacted to a mini-
+0137- 1725
+mum of 90% relative density ( ASTM D1557),
+and shall be lined with either clay or an
+equivalent impermeable membrane. Safety
+fencing may be required.
+ix. Sumps shall be operated in a way that
+will preclude overtopping. Three feet of free
+board shall be maintained at all times when
+sumps are in use. Upon completion of drilling
+and testing, sumps shall be purged of environ-
+mentally harmful chemicals and precipitates
+and backfilled immediately. ( Ord. 91- 020 § 1,
+1991)
+h[ 8]. Pipelines. All pipelines shall be
+designed and constructed subject to applicable
+state standards. Pipelines shall be subsurface
+at road crossings, unless it is demonstrated
+that nosignificantly adversevisual impactswill
+result from above - ground crossings. In no
+case shall pipelines impede vehicular traffic.
+Catch basins and drainages to acceptable
+receptacles shall be installed and continuously
+maintained in order to contain condensate.
+i[ 9]. Noise. Activities shall be conducted
+in compliance with Oregon Department of
+Environmental Quality noise standards. Noise
+from drilling and facility operation shall be
+muffled and times of operation limited to
+prevent a public nuisance as defined by DEQ.
+The county may require noise monitoring and
+reporting over and above that required by the
+Department of Environmental Quality. ( Ord.
+91- 020 § 1, 1991)
+j[ 10]. Fire Protection. Activities shall be
+designed and conducted to provide fire pro-
+tection measures acceptable to the county, any
+adjacent land management agency and any fire
+district in which the project is located.
+k[ 11]. Waste Disposal. All wastes generated
+by a project, including but not limited to
+refuse, drilling fluids, drill cuttings, sand,
+precipitates and other solids shall be disposed
+of in a manner and at a location in confor-
+mance with Oregon Department of Environ-
+mental Quality standards.
+1[ 12]. Public Safety. Activities shall be
+designed and conducted to prevent access by
+unauthorized persons to unattended equip-
+ment and operational areas. ( Ord. 91- 020 § 1,
+Chapter 18. 128 ( 11/ 30/ 94) 15 ( 06/ 08/ 94)
+1991)
+m[ 13]. Air Quality. Activities shall be
+designed and conducted to comply with the air
+quality standards of the Oregon Department
+of Environmental Quality. Operational areas
+and access roads shall be regularly sprinkled
+with clean water to control dust. Except for
+prospect drilling, as defined by ORS
+522.005( 15), the county may require establish-
+ment of a meteorological station and
+meteorological monitoring at the site.
+n[ 14]. Water Quality. Activities shall be
+designed and conducted to comply with the
+water quality standards of the Oregon
+Department of Environmental Quality. The
+equipment service and fuel transfer areas, and
+the area occupied by drilling rigs shall drain
+into sumps. No fluids of any type shall be
+allowed to enter stream courses.
+0[ 15]. Subsidence and Induced Seismicity.
+Activities shall be designed and conducted to
+minimize the potential for land subsidence or
+induced seismicity which could result from the
+withdrawal and/ or injection of geothermal
+fluids. Except for prospect drilling, as defined
+by ORS 522.005( 15), the county may also
+require establishment of monitoring program
+to gauge such impacts during operations. If
+either subsidence or induced seismicity is
+determined by the county to present a
+significant hazard, the county may require
+remedial action including, but not limited to,
+reduced production rates, increased injection
+of waste water or other non- toxic fluids or
+suspension of production. ( Ord. 91- 020 § 1,
+1991)
+p[ 16]. Clean- up. Upon completion of each
+phase of a project, the site shall be promptly
+cleared of all trash, refuse and other waste
+material. All drilling equipment shall be
+removed from well pads within 60 days of the
+completion of a well.
+g[ 17]. Well Drilling Completion Notice.
+Applicants shall notify the county in writing of
+completed well drilling and testing within 7
+days of said completion. Applicants shall
+notify the county in writing of suspended
+drilling within 7 days of said suspension, when
+0137- 1'720
+such suspension is expected to last longer than
+180 days.
+r[ 18]. Standby Wells. Wells which have
+encountered geothermal resources and which
+are awaiting connection to a pipeline or
+energy facility shall be maintained at a
+minimum steam bleeding rate in compliance
+with Oregon Department of Geology and
+Mineral Industry standards. The area sur-
+rounding the wellhead pads of standby wells
+and producing wells shall be subject to the
+revegetation requirements of subsection
+U)( c).
+s[ 19]. Re -Entry of Wells. Applicants may
+redrill or otherwise re- enter the same well-
+bore of any well for which a conditional use
+permit has already been issuedas long as all
+conditions for the use permit continue to be
+met.
+1[ 20]. Site Abandonment and Restoration.
+When a well or facility is permanently aban-
+doned, the applicant shall remove all equip-
+ment, structures and other related material
+within 180 days from the date operations
+cease. Thereafter, the applicant shall regrade
+the area of operations to match original land
+contours as closely as practical and shall
+revegetate the area subject to subsection
+U)( 3[ c]) of 18. 128. 040, below.
+3[ c]. Revegetation. Following the comple-
+tion of well drilling, or the permanent aban-
+donment of a well or facility, the applicant
+shall revegetate the area of operations as
+follows:
+a[ 1]. Previously stockpiled topsoil and
+chipped vegetation shall be respread over
+disturbed areas prior to reseeding.
+b[ 2]. Disturbed areas shall be reseeded
+with native plants and grasses in the first fall
+following completion of drilling or site aban-
+donment. Temporary fencing of reseeded
+areas may be required to facilitate revegeta-
+tion. The revegetation shall be evaluated by
+the county during the first spring following
+initial reseeding, and if determined to havere-
+sulted in less than a 75% survival rate, addi-
+tional revegetation shall be required in the
+immediately succeeding fall season. ( Ord. 93 -
+Chapter 18. 128 ( 11/ 30/ 94) 16 ( 06/ 08/ 94)
+043 § 23C, 23D, 23E, 23F, 23G, 1993; 85- 002
+9, 1985)
+V. Hydroelectric Facilities.
+1[ a]. The criteria set forth below shall
+apply to any construction or expansion of, or
+other modification to, hydroelectric facilities
+in zones where such facilities are permitted as
+a conditional use. A conditional use permit
+may be granted for the construction or
+expansion of, or other modification to, a
+hydroelectric facility only upon findings by the
+Planning Director or Hearings Body that the
+proposal meets each of the following criteria,
+where applicable: ( Ord. 91- 020 § 1, 1991)
+A[ l]. The facility is located at and physi-
+cally connected to an existing man- made
+diversion or impoundment.
+b[ 2]. The facility will not increase the
+maximum surface area or capacity of the
+impoundment created by the existing dam or
+diversion to which the facility will be
+connected.
+c[ 3]. The facility will maintain or enhance
+to the greatest extent possible the existing.
+scenic, visual, environmental and aesthetic
+qualities of the affected stretch of the river.
+4[4]. The facility will maintain or enhance
+the existing recreational opportunities on or
+adjacent to the affected stretch of the river.
+e[ 5]. The facility will maintain or enhance
+existingfish and wildlife habitat and will have
+no adverse impact upon any threatened or
+endangered fish, wildlife or plant species or
+their habitat.
+46]. The facility and its operation will
+maintain or enhanceexisting water quality in
+the affected stretch of the river except during
+construction of the facility when adverse
+impacts on water quality will be minimized.
+Specifically, the facility and its operation will
+not:
+i. deposit or create a zone for the
+deposit of sediments in the river at or adja-
+cent to the site;
+ii. increase the temperature of the river
+in the affected stretch by any means, including
+but not limited to removal of vegetation or
+reduction in streamflow; or
+0137- 1727
+iii. create the potential for or result in
+spillage, leakage or discharge of oil, waste
+products, chemicals or other substances which
+could reach the river. ( Ord. 91- 020 § 1, 1991)
+g[ 7]. The facility and its operation will not
+increase soil or bank erosion or destroy bank
+habitat at or on land adjacent to the site
+except during construction of the facility,
+during which time soil or bank erosion and
+destruction of bank habitat will be minimized.
+h[ 8]. The facility and its operation will
+maintain existing public access to the affected
+stretch of the river.
+i[ 9]. The facility will not be located at or
+immediately adjacentto anyidentified archae-
+ological or historical site, national or state
+park, wildlife refuge, Bureau of Land
+Management Outstanding Natural Area or
+Area of Critical Environmental Concern,
+Federal Research Natural Area or U. S.
+Forest Service Special Interest Area.
+x[10]. The facility will not be located on any
+stretch of the river that is being studied or
+recommended for inclusion in either the
+Federal Wild and Scenic Rivers Program or
+the State Scenic Waterways Program, unless
+location of the facility at that site would not
+preclude inclusion of the stretch in the state
+or federal program.
+k[ 11]. The facility and its operation will
+comply with all applicable noise, water quality
+and pollution regulations of the Oregon
+Department of Environmental Quality.
+1[ 12]. The facility and its operation will
+comply with all applicable state and local fill -
+and - removal statutes and regulations.
+2[ b]. The applicant for a conditional use
+permit for a hydroelectric facility, in addition
+to all other requirements, shall submit the
+following for approval:
+a[ 1]. Detailed construction plans and
+profiles of all facility features including
+building elevations of the powerhouse and
+other structures, excavation plans, a narrative
+describing where blasting will occur and where
+excess material will be deposited, and
+landscaping and reclamation plans. ( Ord. 91-
+020 § 1, 1991)
+Chapter 18. 128 ( 11/ 30/ 94) 17 ( 06/ 08/ 94)
+b[ 2]. Detailed plans for meeting the criteria
+set forth in subsection ( a[ 1]) above.
+c[ 3]. Detailed plans for river enhancement
+documenting both on- site and off- site
+enhancement plans consistent with adopted
+river - related goals and policies, such as plans
+and methods for conserving water and
+enhancing streamflows. The plan shall
+identify costs, time schedules and coordination
+activities with affected persons and agencies
+for such enhancement plans.
+d[ 4]. A cash deposit, performance bond or
+other securityacceptableto DeschutesCounty
+in an amount equal to 100 percent of the
+estimated cost of river enhancement.
+e[ 5]. Detailed plans for a water conserva-
+tion and stream enhancement program to be
+funded by a portion of revenuesgeneratedby
+the operation of the proposed facility. The
+program plans shall contain the following:
+i. A program timetable;
+ii. Projected gross revenues from the
+proposed facility;
+iii. Projected program expenditures and
+the percentage of gross revenues they
+represent;
+iv. Projected water savings and the
+percentage of known current water losses they
+represent;
+V. A declaration by the applicant that at
+least fifty percent of the conserved water will
+remain undiverted by the applicant;
+vi. A declaration by the applicant that
+water diversion for power generation will not
+cause water flow in the affected stretch of the
+river ( from the diversion to the tailrace exit)
+to fall below the minimum streamflow for that
+stretch as recommended by the Oregon
+Department of Fish and Wildlife; and
+vii[ f]. A declaration that the applicant will
+enter into an agreement with the county to
+fulfill all of the requirements in paragraphs
+a[ 1]) through ( e[ 5]) of this subsection before
+beginning construction. ( Ord. 91- 020 § 1,
+1991; Ord. 86- 018 § 1, 1986)
+W. Fill and Removal.
+Except as otherwise provided in this title, no
+person shall fill or remove any material or
+0131- 1'728
+remove any vegetation, regardless of the
+amount, within the bed and banks of any
+stream or river or in any wetland, unless such
+fill or removal is approved as a conditional
+use subject to the following standards:
+1. An application shall be filed contain-
+ing a plan with the following information:
+a[ i]. A detailed explanation of the planned
+fill or removal including the amount of mate-
+rial to be filled or removed.
+b[ ii]. An explanation of why the fill or
+removal is necessary.
+c[ iii]. A site plan, drawn to scale and
+accompanied by such drawings, sketches and
+descriptions as are necessary to describe and
+illustrate the proposed fill or removal. The
+site plan shall, at a minimum, include:
+i.[*] An inventory of existing vegetation.
+ii.[*] The proposed modifications, if any, to
+the vegetation.
+iii.[*] Existing and proposed site contours.
+iv.[*] Location of property lines, easements
+and high water marks.
+v.[*] Other site elements or information
+that will assist in the evaluation of the
+proposed fill or removal.
+2. Public facility and service usessuch as
+construction or maintenance of roads, bridges,
+electric, gas, telephone, water, sewer transmis-
+sion and distribution lines, and related facili-
+ties controlled by public utilities or coop-
+erative associations, shall not be granted
+conditional use permits to fill or remove
+unless the following findings are made:
+a[ i]. That all necessary state and federal
+permits will be obtained as a condition of
+approval of the conditional use.
+b[ ii]. That the public facility and service
+uses and related facilities cannot, as a practi-
+cal matter, be located outside of the wetland
+or bed and banks of the stream or river.
+c[ iii]. That the construction or maintenance
+requiring the fill or removal will be done in a
+manner designed to minimize the adverse
+impact upon the wetland, stream or river.
+d[ iv]. That erosion will be adequately
+controlled during and after construction.
+e[ v]. That the impacts on fish and wildlife
+Chapter 18. 128 ( 11/ 30/ 94) 18 ( 06/ 08/ 94)
+habitat from the fill or removal will be mini-
+mized to the greatest extent practical. The
+Oregon Department of Fish and Wildlife will
+be requested to review and comment on the
+application.
+fgvi]. That only the minimum removal of
+vegetation or material and dredging or exca-
+vation necessary for construction and mainte-
+nance will be done. ( Ord. 91- 038 § 1, 1991)
+3. Fill or removal required for public
+park and recreation areas, natural and out-
+door education areas, historic and scientific
+areas, wildlife refuges, public boat launching
+ramps, public docks and public walkways shall
+not be allowed as a conditional use unless the
+following findings are made:
+a[ i]. That all necessarystate and federal
+permits will be obtained as a condition of
+approval of the conditional use permit.
+I[ ii]. That only the minimum removal of
+vegetation or material and dredging or exca-
+vation necessary for construction and mainte-
+nance will be done.
+c[ iii]. That the specific location of the site,
+will require the minimum amount of distur-
+bance to the natural environment, considering
+alternative locations in the area and methods
+of construction.
+d[ iv]. That such construction and mainte-
+nance is designed to minimize the adverse
+impact on the site.
+e[ v]. That erosion will be adequately
+controlled during and after construction.
+f[ vi]. That the impacts on fish and wildlife
+habitat by the fill or removal will be mini-
+mized to the greatest extent practical. The
+Oregon Department of Fish and Wildlife will
+be requested to review and comment on the
+application.
+g[ vii]. That the specific location of a site for
+a public park, recreation area, natural and
+outdoor education area, historic and scientific
+area, wildlife refuges, public boat launching
+ramps, public docks and walkways will require
+the minimum amount of disturbance to the
+natural environment, considering alternative
+locations in the area and methods of con-
+struction. ( Ord. 91- 038 § 1, 1991)
+0137- 1729
+4. Except for uses identified in para-
+graphs ( 2) and ( 3), above, an application for
+a conditional use permit for activity involving
+fill or removal of material or vegetation within
+the bed and banks of a stream, river or
+wetland:
+a[ i]. Shall be granted only after consid-
+eration of the following factors:
+i.[*] The effects on public or private water
+supplies and water quality.
+ii.[*] The effects on aquatic life and
+habitat, and wildlife and habitat. The Oregon
+Department of Fish and Wildlife will be
+requested to review and comment on the
+application.
+iii.[*] Recreational, aesthetic and economic
+values of the affected water resources.
+iv.[*] Effects on the hydrologic characteris-
+tics of the water body such as direction and
+velocity of flow, elevation of water surface,
+sediment transportation capacity, stabilization
+of the bank and flood hazards.
+v.[*] The character of the area, considering
+existing streambank stabilization problems and
+fill or removal projects which have previously
+occurred.
+b[ ii]. Shall not be granted unless all of the
+following conditions are met:
+i.[*] That all necessary state and federal
+permits will be obtained as a condition of
+approval of the conditional use.
+ii.[*] That there is no practical alternative
+to the proposed project which will have less
+impact on the surrounding area, considering
+the factors established in subsection ( 4)( a[ i])
+above.
+iii.[*] That there will be no significant
+impacts on the surrounding area, considering
+the factors established in subsection ( 4)( a[ i])
+above.
+iv.[*] That erosion will be adequately con-
+trolled during and after the project.
+L.[*] That the essential character, quality,
+and density of existing vegetation will be
+maintained. Additional vegetation shall be
+required if necessary to protect aquatic life
+habitats, functions of the ecosystem, wildlife
+values, aesthetic resources and to prevent
+Chapter 18. 128 ( 11/ 30/ 94) 19 ( 06/ 08/ 94)
+erosion. ( Ord. 91- 020 § 1, 1991)
+vi.[*] That the proposed fill or removal
+activity will be consistent with all relevant
+goals and policies of the Deschutes County
+Comprehensive Plan.
+vii.[*] That a conservation easement, as
+defined in Section 18. 04. 030, " Conservation
+Easement," shall be conveyed to the county,
+which provides, at a minimum, that all
+elements of the project will be carried out and
+maintained as approved, in perpetuity, for the
+regulated fill or removal area and all real
+property on the samelot, within 10 feet of any
+wetland, river or stream. ( Ord. 93- 043 § 23H,
+23I, 23J, 1993; 91- 020 § 1, 1991; Ord. 89- 008
+1, 1989; Ord. 87- 032 § 1, 1987; Ord. 86- 056
+3 & 4, 1986)
+X. Surface Mining of Resources Exclu-
+sively for On -Site Personal, Farm or Forest
+Use or Maintenance of Irrigation Canals.
+These uses are subject to the following stan-
+dards:
+1[ a]. An application shall be filed contain-
+ing the following information:
+a[ 1]. A detailed explanation of the project
+and why the surface mining activity is neces-
+sary.
+b[ 2]. A site plan drawn to scale and
+accompanied by any drawings, sketches and
+descriptions necessaryto describe and illus-
+trate the proposed surface mining.
+2[ b]. A conditional use permit shall not be
+issued unless the applicant demonstrates at
+the time of site plan review that the following
+conditions are or can be met:
+A[l]. The surface mining is necessary to
+conduct or maintain a use allowed in the zone
+in which the property is located.
+b[ 2]. Erosion will be controlled during and
+after the surface mining.
+c[ 3]. The surface mining activity can meet
+all applicable DEQ noise control standards
+and ambient air quality and emission stan-
+dards.
+d[ 4]. Sufficient water is available to support
+approved methods of dust control and vegeta-
+tion enhancement.
+e[ 5]. The surface mining doesnot adversely
+0137- 1730
+impact other resources or uses on the site or
+adjacent properties, including, but not limited
+to, farm use, forest use, recreational use,
+historic use and fish and wildlife habitat as
+designed or through mitigation measures
+required to minimize these impacts.
+3[ c]. If the surface mining actively involves
+the maintenance or creation of man- made
+lakes, water impoundments or ponds, the
+applicant shall also demonstrate, at the time
+of site plan review, that the following condi-
+tions are or can be met:
+a[ 1]. There is adequate water legally avail-
+able to the site to maintain the water
+impoundment and to prevent stagnation.
+b[ 2]. The soil characteristics or proposed
+lining of the impoundment are adequate to
+contain the proposed water and will not result
+in the waste of water.
+c[ 3]. Where the impoundment bank slope
+is steeper than 3 feet horizontal to 1 foot
+vertical, or where the depth is 6 feet or deep-
+er, the perimeter of the impoundment is ade-
+quately protected by methods such as fences
+or access barriers and controls.
+d[ 4]. The surface mining does not adversely
+affect any drainages, all surface water drainage
+is contained on site, and existing watercourses
+or drainages are maintained so as not to
+adversely affect any surrounding properties.
+Ord. 90- 014 § 39, 1990)
+Y. Storage, Crushing and Processing of
+Minerals in Conjunction With the Mainte-
+nance or Construction of Public Roads or
+HighwUs. A conditional use permit for these
+uses shall be subject to the following stan-
+dards:
+1[ a]. An application shall be filed contain-
+ing the following information:
+A[ 1]. A detailed explanation of the project,
+including the duration and operation charac-
+teristics of the site.
+b[ 2]. A site plan drawn to scale and
+accompanied by such drawings, sketches and
+descriptions as are necessary to describe and
+illustrate the proposed project.
+2[ b]. A conditional use permit for storage,
+crushingandprocessingof minerals to be used
+Chapter 18. 128 ( 11/ 30/ 94) 20 ( 06/ 08/ 94)
+in conjunction with maintenance and
+construction of public roads and highways
+shall be subject to all applicable general
+operation standards established by Section
+18. 52. 110, except Section 18. 52. 110, para-
+graphs ( J), ( K) and ( L). ( Ord. 90- 014 § 40,
+1990)
+Z. Mini - Storage Facility.
+1[ a]. Each individual space for rent or sale
+shall be less than 500 square feet.
+2[ b]. Mini - storage shall be limited to dead
+storage. Outside storage shall be limited to
+boats, recreational vehicles and similar vehi-
+cles placed within designated spaces on an all-
+weather surfaced area which is surrounded by
+a sight -obscuring fence at least six feet in
+height.
+3[ c]. Yards shall be permanently land-
+scaped.
+4[ d]. Yard dimensions adjacent to residen-
+tial zones shall be the same as required yards
+within the residential zone.
+5[ e]. One parking space for each twenty
+five storage spaces shall be located at the
+project office for use by customers.
+6[ f]. All structures shall be fenced and
+visually screened.
+7[g]. Traffic lanes shall be twelve feet wide
+with an additional ten -foot parking lane,
+except where the traffic lane does not serve
+the storage units. All areas provided for
+vehicle access, parking and movement shall be
+improved to minimum public road standards.
+8[ h]. A residence for a caretaker or 24-
+hour on- site manager is permitted.
+9[ i]. There shall be only one access from
+each adjacent street.
+LOU]. Outside lighting, including shading to
+prevent glare on adjacent properties, may be
+required for safety and security purposes.
+Ord. 91- 038 § 3, 1991)
+AA. Bed and Breakfast Inn.
+1[ a]. Bed and breakfast inns shall be
+restricted to owner -occupied single- family
+residences.
+2[ b]. Bed and breakfast inns located in
+farm or forest zones shall utilize existing
+dwellings or dwellings conforming to the
+0137- 1731
+requirements of those zones relating to single-
+family dwellings.
+3[ c]. No more than three sleeping rooms
+shall be available for the accommodation of
+inn visitors.
+4[ d]. No more than eight guests shall be
+accommodated at any one time.
+5[ e]. Occupancies shall be limited to not
+more than thirty consecutive days.
+6[ f]. Breakfast shall be the only meal
+provided to inn guests.
+7[g]. The exterior of the building shall
+maintain a residential appearance.
+8[ h]. The bed and breakfast inn shall be
+operated in a way that will prevent unreason-
+able disturbance to area residents.
+9[ i]. One off- street parking space shall be
+provided for each guest room in addition to
+parking required for the residence.
+10[j]. Approval shall be conditional upon
+compliance with all applicable state building
+code requirements and state sanitation
+requirements. ( Ord. 91- 038 § 3, 1991)
+BB. Campgrounds. A conditional use
+permit for a campground may be issued only
+when the following criteria are met:
+1[ a]. Campgrounds shall provide patrons
+with opportunities for outdoor recreation that
+are compatible with the natural setting of the
+area. Outdoor recreation activities include
+fishing, swimming, boating, hiking, bicycling,
+horseback riding and other similar activities.
+Outdoor recreation does not include commer-
+cial uses such as miniature golf courses, go-
+cart tracks or rental of equipment or animals.
+2[ b]. Street access shall be provided as
+follows:
+a[ 1]. The campground shall obtain direct
+access from a street or road designated as an
+arterial or collector by the Deschutes County
+Comprehensive Plan.
+b[ 2]. Access to the campground shall be
+adequate to handle the anticipated traffic
+generated by the use.
+c[ 3]. The Deschutes County Public Works
+Department or the State Highway Division
+may require refuge lanes for left- hand turns
+and deceleration lanes for right- hand turns
+Chapter 18. 128 ( 11/ 30/ 94) 21 ( 06/ 08/ 94)
+where necessary for public safety.
+3[ c]. Water supply and sewage disposal
+shall be provided as follows:
+a[ 1]. Applicant shall demonstrate that
+there is adequate potable water available at
+the site to serve the campground. When the
+water is to be supplied from a well, a well log
+is required to show that an ample supply of
+water will be available for the campground it
+will serve.
+b[ 2]. Plans for water supply and sewage
+disposal improvements must be approved by
+the State Health Division and the Department
+of Environmental Quality.
+c[ 3]. Evidence shall be provided to demon-
+strate that the campground will be eligible for
+a certificate of sanitation as required by the
+Oregon Department of Environmental
+Quality.
+4[ d]. A campground shall conform to state
+standards specified in ORS 918. 650 and the
+following:
+a[ 1]. Sixty-five percent of a parcel devel-
+oped as a campground shall be retained as
+open space. Natural vegetation shall be
+maintained in open space areas to the fullest
+extent possible. Walkways, roadways, parking
+spaces, structures, service areas and campsites
+shall not be considered open space.
+b[ 2]. The space provided for each campsite
+shall be not less than 1600 square feet exclu-
+sive of any space used for common areas such
+as roadways, general use structures, walkways,
+landscaped areas and parking spaces other
+than those assigned to particular campsites.
+K[3]. Campgrounds shall provide potable
+water, toilet and shower facilities, lighting,
+picnic tables and garbage collection sites for
+the convenient use of campers as specified in
+ORS 918. 650. Water and electric lines shall
+be placed underground.
+A[ 4]. Campgrounds shall not provide camp-
+site hookups for sewage disposal or electricity.
+A centralized sewage dump station that meets
+state standards may be provided.
+e[ 5]. Roadways permitting one-way traffic
+shall be not less than 10 feet wide and those
+permitting two-way traffic shall not be less
+0137- 1732
+than 20 feet wide. Where parking is allowed
+on the margin of the road, an additional 10
+feet shall be added for each parking lane.
+Roadways shall be improved with an all-
+weather, dustless surface.
+f[ 6]. Except for the accessroadway serving
+the campground, no vehicular or pedestrian
+access shall be allowed out of the camp-
+ground. Fences shall be provided which
+prevent trespass to property not under the
+control of the campground owner.
+g[7]. Each campsite shall be provided with
+at least one parking space which shall be
+paved or covered with crushed gravel and
+designed to promote drainage of surface
+runoff.
+h[ 8]. Campgrounds shall be surrounded by
+buffer strips of existing vegetation or land-
+scaping.
+i[ 9]. To promote privacy and preserve the
+integrity of the natural setting, campgrounds
+shall retain existing vegetation to the fullest
+extent practical.
+1[10]. Yards and Setbacks.
+i. Campsites or parking spaces shall not
+be located within the yard and setback areas
+required by the county for permanent build-
+ings in the zone in which the campground is
+located.
+ii. No developed portion of the camp-
+ground shall be located within 100 feet of the
+right-of-way of any road or property line of a
+lot not part of the campground.
+iii. No developed portion of the camp-
+ground shall be located closer than 300 feet
+from a road in a Landscape Management
+overlay zone.
+iv. Setback requirements in ( ii) and ( iii)
+above may be waived upon a finding by the
+Planning Director or Hearings Body that the
+developed portion of the campground will be
+sufficiently screened and buffered from neigh-
+boring properties or the protected landscape
+area.
+k[ 11]. Tent campers and recreational vehi-
+cles shall not remain in the campground for
+more than 30 days in any 60 -day period.
+1[12]. The campground shall be licensed as
+Chapter 18. 128 ( 11/ 30/ 94) 22 ( 06/ 08/ 94)
+a tourist facility by the State Department of
+Health as specified in ORS Chapter 446,
+unless operated by a public entity, timber
+company or private utility.
+m[ 13]. One dwelling may be allowed for
+a resident caretaker or proprietor. ( Ord. 93-
+005 § 9, 10 & 11, 1993; 91- 038 § 3, 1991)
+18. 128. 050 Procedure for Taking Action
+on Conditional Use
+Application.
+The procedure for taking action on a condi-
+tional use application shall be as follows:
+A. A property owner may initiate a
+request for a conditional use by filing an
+application on forms provided by the Planning
+Department.
+B. Review of the application shall be
+conducted according to the terms of
+DeschutesCounty CodeTitle 22, the Uniform
+Development Procedures Ordinance. ( Ord.
+86- 032 § 1, 1986)
+18. 128. 060 Time Limit on a Permit
+for a Conditional Use.
+A. Authorization of a conditional use
+shall be void after one year or such lesser time
+as the authorization may specify unless
+substantial construction has taken place or the
+proposed use has occurred. However, the
+Planning Director or Hearings Body may
+extend authorization for an additional period
+not to exceed one year.
+B. If it can be demonstrated to the
+Planning Director or Hearings Body that a
+delayin establishinga useis due to a delayby
+a state or federal agency in issuing a required
+permit and not the fault of the applicant, the
+Planning Director or Hearings Body may
+extend the time limit imposed by paragraph
+A), above, for a period not to exceed one
+year following issuanceof the state or federal
+permit. ( Ord. 91- 020 § 1, 1991)
+18. 128. 070 Occupancy Permit.
+The Planning Director or Hearings Body
+may require an occupancy permit for any
+conditional use permitted and approved
+0137- 1733
+pursuant to the provisions of this title. The
+Planning Director or Hearings Body shall
+consider such a requirement for any use
+authorized by a conditional use permit for
+which the ordinance requires on- site or off-
+site improvements or where such conditions
+have been established by the Planning Direc-
+tor or Hearings Body upon approval of such
+use. The requirement of an occupancy permit
+shall be for the intent of insuring permit
+compliance and said permit shall not be issued
+except as set forth by the Planning Director or
+Hearings Body. The authority to issue an
+occupancy permit upon compliance with the
+requirements and conditions of a conditional
+use permit may be delegated to the Planning
+Director or the Building Inspector by the
+Hearings Body at the time of approval of a
+specific conditional use permit. ( Ord. 91- 020
+1, 1991)
+18. 128. 080 Time Share Unit.
+A. Any time- share unit project shall have
+its primary access on an arterial or collector
+street.
+B. New time- share units may be devel-
+oped in vacant areas in the applicable zoning
+districts provided that such developments
+comply with ( A), above, and the following:
+1[ a]. That such development has a mini-
+mum site size of ten acres, except within the
+Planned Community ( PC) Zone.
+2[ b]. That such development is appro-
+priately buffered by the use of yards, land-
+scaping, etc, from adjoining properties as
+determined during site plan review considering
+the need for privacy and the effects of noise.
+C. The Planning Director or Hearings
+Body may require bondsto assureinstallation
+and maintenance of landscaping, parking and
+facilities that are part of the buffering scheme.
+It may also require that an adequate
+mechanism will exist, such as an owners'
+association, that will assure maintenance of
+such facilities. ( Ord. 91- 020 § 1, 1991)
+D. No structure shall be utilized as a
+time- share unit unless all the units in the
+structure or particular phase of the develop -
+Chapter 18. 128 ( 11/ 30/ 94) 23 ( 06/ 08/ 94)
+Ul' 7- 1`74
+ment are used as time- share units for this
+purpose. ( Ord. 83- 033 § 11, 1983)
+18. 128. 090 Building Permit for
+an Approved Conditional
+Use.
+Building permits for all or any portion of a
+conditional use shall be issued only on the
+basis of the plan as approved by the Planning
+Director or Hearings Body. Any substantial
+change in the approved plan shall be
+submitted to the Planning Director or the
+Hearings Officer as a new application for a
+conditional use. ( Ord. 91- 038 § 3, 1991)
+Temporary Use Permit repealed by Ord. 91-
+020 § 1, 1991)
+Section 8.090 repealed by Ord. 89-004 § 3,
+1989)
+Chapter 18. 128 ( 11/ 30/ 94) 24 ( 06/ 08/ 94)

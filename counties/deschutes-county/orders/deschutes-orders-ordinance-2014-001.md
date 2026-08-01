@@ -1,0 +1,156 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2014-001
+title: 'Ordinance No. 2014-001'
+doc_type: ordinance
+citation: 'Ordinance No. 2014-001'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617124360_2014-343-Ordinance%20No.%202014-001%20Recorded%207_1_2014.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 4fe34608832c2f6bfa312a760062b46928ccb4d5a8b1182bfb4e49a060680b0b
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2014-001 (Ordinance No. 2014-001)
+
+## At a glance
+
+Ordinance No. 2014-001 — orders of Deschutes County. 5 pages.
+
+## Full text
+
+REVIEWED DESCHUTES COUNTY OFFICIAL RECORDS
+4`"
+NANCY BLANKENSHIP,  COUNTY CLERK 4J7414.33
+LEGAL COUNSEL
+COMMISSIONERS'  JOURNAL
+07/01/201410:52:51AM
+I IIIIIIIIIIIIIIII
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending DeschutesCounty
+Code 17. 16. 115, to Move Traffic Study ORDINANCE NO. 2014- 001
+Requirements and Update Cross- Reference.
+WHEREAS, DeschutesCounty Planning Division staff requesteda text amendmentto Deschutes
+County Code (" DCC") 17.16.115, 18.116.310, and 18.124.080, to move traffic study requirements from 17.16
+Approval of Subdivision Tentative Plans and Master Development Plans to 18.116( Supplementary Provisions),
+establishing18.116.310 (Traffic Study Requirements) and updating 18.124 (Site Plan Review) referenceto
+traffic studies; the reasonis manyland useapplicationsthat arenot for a subdivisionor masterplan canoften
+meet threshold for a traffic study; and
+WHEREAS, after notice was given in accordance with applicable law, a public hearing was held on
+January9, 2014, beforetheDeschutesCountyPlanningCommissionand, on January9, 2014, thePlanning
+Commission recommended approval of the text amendment; and
+WHEREAS, the Board of County Commissionersconsideredthis matterafter a duly noticedpublic
+hearing on June 4,  2014,  and concluded that the proposed changes are consistent with the County' s
+Comprehensive Plan and that the public will benefit from changes to the land use regulations; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1.  AMENDMENT.  DCC 17. 16. 115 is amended to read as described in Exhibit " A", attached
+and incorporatedby referenceherein, with new languageunderlinedand deletedlanguageset forth in
+tr• kethrougt,x-iYCV C** rocr rr
+PAGE 1 OF 2- ORDINANCE NO. 2014- 001
+Section 2.   FINDINGS.   The Board adopts as its findings in support of this decision Exhibit " C"
+attachedto Ordinance 2014-017 and incorporated by referenceherein.
+Dated this 2,S4.   of 014 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+TAMMY BANEY, Chair
+243eRC2e741-'- 9—•
+ANTHONY DeBONE, Vice Chair
+ATTEST:
+aleL•-
+Recording Secretary ALAN LINGER, Commissioner
+Date of
+1st
+Reading:   V.
+I.-  -
+day of 2014.
+Date of
+2nd
+Reading?.   — day of 2014.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Tammy Baney
+V
+Anthony DeBone
+Alan Unger tr
+Effective date:
+f,
+7 day of     )    2014.
+PAGE 2 OF 2- ORDINANCE NO. 2014- 001
+Chapter 17. 16.    APPROVAL OF SUBDIVISION TENTATIVE PLANS AND MASTER
+DEVELOPMENT PLANS
+17. 16. 115. Traffic Impact Studies.
+A.  The traffic studies will comply with DCC 18.116.310. For purposesof DCC 17.16.115, the
+application,
+a -_     .. .  '   - •-
+traffic- studies:
+2.  The final repo# shall be stamped and signed by the Registered Professional Truro
+a.  No Report is required if there are fewer than 50 trips per day generated during a
+weekday.
+Report will be required.
+I  .   •- . -    IA
+Analysis ( TIA) shall be required.
+D.  Traffic Study Area
+the impact analysis area.
+2.  The impact analysis study areashall include, at a minimum:
+roadway;
+b.  Nearest intersecting collector er arterial roads to the developmentthat would
+E.  Study Time Frames
+the County Engineer);
+3.  Five year forecast after build out for each phase of development or the final phase of
+development.
+1--- Generators of large fines of traffic (  5, 000 daily and > 500 peak hour trips), zone
+Exhibit A of Ordinance 2014- 001 1
+The minimum study requirements for a Site Traffic Report are:
+of- the area;
+3.  Trip distribution and assignment;
+A.
+r r       ., .
+of the area;  •
+A     •    •  -- •  •
+let
+ADT;
+approves an alternate data source;
+7.  Trip distribution assumptionsare basedon historical data, eisting and future travel
+9.  Existing traffic volumes;
+11. Farecast- traff- te-velutnes with and without the development;
+14. Analysis of right and left turn lane warrants ( ODOT standards);
+15. Analysis of parking needs of the proposed development;
+16. When needed, warrant analysis
+for off- site impacts and an evaluation of the effectiveness of- those- solutions,. ': •  ,
+1.  The minimum level of serviee fer intersections and roads, during the P.M. Peak Hour,
+ratio (v/c) setby the Oregon Highway Plan..
+3.  LOS for county intersections is basedon delay.
+a.   LOS D for an unsignalized intersection is defined as more than 25 seconds and less
+Exhibit A of Ordinance 2014- 001 2
+t .   -    -
+e•      -   .    _  . '       - -    _
+35 seconds delay per average per vehicle•_
+e_   .    - .
+a.   LOS D is defined as5,701 to 9,600 averagedaily traffic.
+e
+w ' / -   9.       - -  - •
+e e " 9-   !-
+I.   Mitigation
+Ord. 2010- 014 § 1, 2010; Ord. 2006- 004 § 1, 2006)
+Exhibit A of Ordinance 2014- 001 3

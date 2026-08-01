@@ -1,0 +1,602 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clackamas-county
+id: clackamas-land-use-zdo825
+title: 'Zdo825'
+doc_type: ordinance
+citation: 'Zdo825'
+authority_level: county_ordinance
+issuing_body: 'Clackamas County Board of Commissioners'
+source_url: https://www.clackamas.us/planning/zdo825
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: 143f64d505c564cc75d69f30a2e9dbfadfcbcf16e2916188935eb146db6fe482
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [clackamas-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clackamas County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zdo825 (Zdo825)
+
+## At a glance
+
+Zdo825 — land use of Clackamas County. 6656 characters.
+
+## Full text
+
+ZDO 825: Manufactured Dwelling Parks | Clackamas County 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Translate 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jobs 
+ Events 
+ News 
+ Contact Us 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+
+ 
+ 
+ 
+ Community 
+ 
+ 
+ Business 
+ 
+ 
+ Departments 
+ 
+ 
+ Our County 
+ 
+ 
+ I want to... 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ ZDO 825: Manufactured Dwelling Parks 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ZDO 825: Manufactured Dwelling Parks 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 825.01 Standards Manufactured dwelling parks shall comply with the following standards: Minimum Lot Size: In an Urban Low Density Residential or MR-1 District, the minimum lot size is one acre Minimum Front Setback: The minimum front setback is 25 feet from front lot lines on the perimeter of the manufactured dwelling park. Minimum Rear Setback: In an MR-1 District, the minimum rear setback is 10 feet from rear lot lines on the perimeter of the manufactured dwelling park. In an Urban Low Density Residential District, the minimum rear setback is 20 feet from rear lot lines on the perimeter of the manufactured dwelling park. Minimum Side Setback: In an MR-1 District, the minimum side setback is 10 feet from side lot lines on the perimeter of the manufactured dwelling park. In an Urban Low Density Residential District, the minimum side setback is 20 feet from side lot lines on the perimeter of the manufactured dwelling park. 825.02 Redevelopment A.manufactured dwelling park shall not be redeveloped with a different use until: The manufactured dwelling park landlord submits a plan for relocation of the existing tenants to the County Administrator or designee of the Administrator which includes a schedule of amounts required to be paid to affected park tenants under Subsection 825.02(B) and a plan for making these payments to affected park tenants upon cancellation of affected rental agreements; and The County Administrator or designee of the Administrator approves the relocation plan and notifies the Planning Director of the approval. The County Administrator or designee of the Administrator may require the park landlord to deposit into escrow the amounts required to be paid to affected park tenants under Subsection 825.02(B) as a condition for approval under this subsection. If a manufactured dwelling park is to be closed or partially closed under conditions that require a payment under Section 2(1)(b), Chapter 906, Oregon Laws 2007, then in addition to and not in lieu of the payment to be made under Section 2(1)(b), Chapter 906, Oregon Laws 2007, the landlord or other person responsible for making the payment under Section 2(1)(b), Chapter 906, Oregon Laws 2007, shall make an additional payment to each tenant whose rental agreement with the landlord is terminated as a result of the change in use in compliance with Section 2(4), Chapter 906, Oregon Laws 2007. A separate  payment shall be made for each space for which a rental agreement is terminated. The amount of the payment shall equal: A sum of $11,000 for a single-wide manufactured dwelling, $16,000 for a double wide manufactured dwelling, and $20,500 for a triple-wide manufactured dwelling; minus The sum of the payment required to be made under Section 2(1)(b), Chapter 906, Oregon Laws 2007, the tax credit to which the tenant is entitled under Section 17, Chapter 906, Oregon Laws 2007, and any other government assistance to which the tenant is entitled by reason of the change in use of the park, as of the date a relocation plan is submitted for approval under Subsection 825.02(A). Notwithstanding Subsection 825.02(B), for calendar years beginning on or after January 1, 2009, the payment amount described in Subsection 825.02(B) shall be adjusted by the percentage change by which the monthly averaged consumer price index for the preceding calendar year differs from the monthly averaged consumer price index for the 2007 calendar year. As used in Subsection 825.02(C), consumer price index means the US Bureau of Labor Statistics Consumer Price Index - All Urban Consumers (CPI-U), US City Average, All Items. As used in Subsection 825.02, manufactured dwelling park has the meaning given that term in Oregon Revised Statutes 90.100. [Amended by Ord. ZDO-224, 5/31/11; Amended by Ord. ZDO-249, 10/13/14; Amended by Ord. ZDO-252, 6/1/15; Amended by Ord. ZDO-268, 10/2/18] Return to the Zoning and Development Ordinance main page. Contact zoninginfo@clackamas.us for additional information." 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Phone: 503-742-4500 
+ Email: zoninginfo@clackamas.us 
+ 
+ 
+ 
+ 150 Beavercreek Road Room #225 Oregon City, OR 97045 
+ 
+ 
+ Office Hours: Monday to Thursday  8 a.m. to 4 p.m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's My Zoning? 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Related Events 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Related Events
+ 
+ 
+ 
+ 
+ Board of County Commissioners, Planning and Zoning 
+ 
+ 
+ Aug 
+ 04 
+ 
+ 
+ 11:00 am 
+ - 11:30 am 
+ 
+ 
+ Land Use Hearing: Z0437-25 and Z0438-25 - Aug. 4, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Aug 
+ 20 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0096-26 - Aug. 20, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Sep 
+ 03 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0207-26 - Sept. 3, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ more events 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ SHORTCUTS 
+ 
+ 
+ 
+ Jobs Procurement Process, Contracts and Grants Pay Online CMap Contact the County Report a Hazard County Code Public Records Request HIPAA/Privacy Concerns Civil Rights ACA Complaint Form Accessibility Statement Title VI Compliance Plan Website Privacy Media Contacts 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ELECTED OFFICIALS 
+ 
+ 
+ 
+ Chair Craig Roberts Commissioner Diana Helm Commissioner Paul Savas Commissioner Martha Schrader Commissioner Ben West   County Assessor/Tax Collector Bronson Rueda County Clerk Catherine McMullen District Attorney John Wentworth Justice of the Peace Kathleen Rastetter Sheriff Angela Brandenburg Treasurer Brian Nava 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can’t find what you're looking for? 
+ 
+ 
+ 
+ 
+ Search Box 
+ 
+
+ 
+ enter your search here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2026 Clackamas County

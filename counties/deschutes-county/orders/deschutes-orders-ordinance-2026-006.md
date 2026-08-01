@@ -1,0 +1,5896 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2026-006
+title: 'Ordinance No. 2026-006'
+doc_type: ordinance
+citation: 'Ordinance No. 2026-006'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1783608618_2026-132-Ordinance%20No.%202026-006%20Recorded%204302026.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 48e13e5ca977f442ecf71c031641ca11d102509b3f9d7cfae620b5962b49c7d8
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 181A.410
+    - ORS 193.020
+    - ORS 195.120
+    - ORS 195.300
+    - ORS 197.015
+    - ORS 197.493
+    - ORS 197.665
+    - ORS 197.732
+    - ORS 203.045
+    - ORS 213.203
+    - ORS 215.010
+    - ORS 215.110
+    - ORS 215.203
+    - ORS 215.236
+    - ORS 215.296
+    - ORS 215.441
+    - ORS 215.447
+    - ORS 215.503
+    - ORS 215.780
+    - ORS 227.165
+    - ORS 30.936
+    - ORS 308A.050
+    - ORS 308A.250
+    - ORS 308A.315
+    - ORS 443.400
+    - ORS 443.480
+    - ORS 443.705
+    - ORS 446.003
+    - ORS 517.750
+    - ORS 520.005
+    - ORS 522.005
+    - ORS 541.605
+    - ORS 565.210
+    - ORS 671.318
+    - ORS 671.520
+    - ORS 696.010
+    - ORS 90.100
+    - ORS 92.010
+    - OAR 333-061-0020
+    - OAR 660-012-0035
+    - OAR 660-012-0065
+    - OAR 660-033-0020
+    - OAR 660-033-0130
+    - OAR 660-033-0135
+    - OAR 660-034-0035
+    - OAR 735-022-0140
+    - OAR 918-650-0005
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2026-006 (Ordinance No. 2026-006)
+
+## At a glance
+
+Ordinance No. 2026-006 — orders of Deschutes County. 191 pages.
+
+## Full text
+
+REVIEWED
+LE�UNSEL
+Recorded in Deschutes County
+Steve Dennison, County Clerk
+Comrnissioners' Journal
+CJ2026-132
+04/30/2026 3:33:33 PM
+11111111111111111111111 11111111
+2026-132
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County Code
+Title 18, Zoning Ordinance, and Title 19, Bend
+Urban Area Zoning Ordinance, to Incorporate
+Changes to State and Federal Law, and Provide
+Clarification of Existing Regulations, Procedures,
+and Policies.
+*
+*
+*
+*
+*
+ORDINANCE NO. 2026-006
+WHEREAS, the Deschutes County Community Development Department (CDD) initiated amendments
+(Planning Division File No. 247-26-000007-TA) to the Deschutes County Code ("DCC"), Chapter 18.16 -
+Exclusive Farm Use Zones, Chapter 18.32 -Multiple Use Agricultural Zone, Chapter 18.60 -Rural Residential
+Zone, Chapter 18.65-Rural Service Center Unincorporated Community Zone, Chapter 18.66-Terrebonne Rural
+Community Zoning Districts, Chapter 18.67 -Tumalo Rural Community Zoning Districts, Chapter 18. 74-Rural
+Commercial Zone, Chapter 18.108 -Urban Unincorporated Community Zone-Sunriver, Chapter 18.110 -Resort
+Community Zone, Chapter 18.116 -Supplementary Provisions, Chapter 18.128 -Conditional Use, Chapter 19.04
+-Title, Compliance, Applicability and Definitions, Chapter 19 .12 -Urban Area Reserve Zone, Chapter 19 .20 -
+Suburban Low Density Residential Zone, Chapter 19.22 - Westside Transect Zone, Chapter 19.28 - Urban
+Standard Residential Zone, Chapter 19.80 - Off-Street Parking And Loading, Chapter 19.88 - Provisions
+Applying To Special Use Standards, Chapter 19.92 - Interpretations And Exceptions, Chapter 19.116 -
+Amendments, Appeals, And Procedures; and
+WHEREAS, the Deschutes County Planning Commission reviewed the proposed changes on February
+12, 2026 and forwarded to the Deschutes County Board of County Commissioners ("Board") a 7-0
+recommendation of approval; and
+WHEREAS, the Board considered this matter after a duly noticed public hearing on April 8, 2026 and
+concluded that the public will benefit from the proposed changes to the Deschutes County Code Titles 18 and 19;
+now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section I. AMENDMENT. Deschutes County Code Chapter I 8.16, Exclusive Farm Use Zones, is
+amended to read as described in Exhibit "A", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+PAGE I OF 4 - ORDINANCE NO. 2026-006
+Section 2. AMENDMENT. Deschutes County Code Chapter 18.32, Multiple Use Agricultural Zone, is
+amended to read as described in Exhibit "B", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 3. AMENDMENT. Deschutes County Code Chapter 18.60, Rural Residential Zone, is amended
+to read as described in Exhibit "C", attached hereto and by this reference incorporated herein, with new language
+underlined and language to be deleted in strikethrough.
+Section 4. AMENDMENT. Deschutes County Code Chapter 18.65, Rural Service Center
+Unincorporated Community Zone, is amended to read as described in Exhibit "D", attached hereto and by this
+reference incorporated herein, with new language underlined and language to be deleted in strikethrough.
+Section 5. AMENDMENT. Deschutes County Code Chapter 18.66, Terrebonne Rural Community
+Zoning Districts, is amended to read as described in Exhibit "E", attached hereto and by this reference incorporated
+herein, with new language underlined and language to be deleted in strikethrough.
+Section 6. AMENDMENT. Deschutes County Code Chapter 18.67, Tumalo Rural Community Zoning
+Districts, is amended to read as described in Exhibit "F", attached hereto and by this reference incorporated herein,
+with new language underlined and language to be deleted in strikethrough.
+Section 7. AMENDMENT. Deschutes County Code Chapter 18.74, Rural Commercial Zone, is
+amended to read as described in Exhibit "G", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 8. AMENDMENT. Deschutes County Code Chapter 18.108, Urban Unincorporated
+Community Zone-Sunriver, is amended to read as described in Exhibit "H", attached hereto and by this reference
+incorporated herein, with new language underlined and language to be deleted in strikethrough.
+Section 9. AMENDMENT. Deschutes County Code Chapter 18 .110, Reso1t Community Zone, is
+amended to read as described in Exhibit "I", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 10. AMENDMENT. Deschutes County Code Chapter 18.116, Supplementary Provisions, is
+amended to read as described in Exhibit "J", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethroagh.
+Section 11. AMENDMENT. Deschutes County Code Chapter 18.128, Conditional Use, is amended to
+read as described in Exhibit "K", attached hereto and by this reference incorporated herein, with new language
+underlined and language to be deleted in strikethrough.
+Section 12. AMENDMENT. Deschutes County Code Chapter 19.04, Title, Compliance, Applicability
+and Definitions, is amended to read as described in Exhibit "L", attached hereto and by this reference incorporated
+herein, with new language underlined and language to be deleted in strikethrough.
+Section 13. AMENDMENT. Deschutes County Code Chapter 19.12, Urban Area Reserve Zone, is
+amended to read as described in Exhibit "M", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+PAGE 2 OF 4 - ORDINANCE NO. 2026-006
+Section 14. AMENDMENT. Deschutes County Code Chapter 19.20, Suburban Low Density Residential
+Zone, is amended to read as described in Exhibit "N", attached hereto and by this reference incorporated herein,
+with new language underlined and language to be deleted in strikethrough.
+Section 15. AMENDMENT. Deschutes County Code Chapter 19.22, Westside Transect Zone, is
+amended to read as described in Exhibit "O", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 16. AMENDMENT. Deschutes County Code Chapter 19.28, Urban Standard Residential Zone,
+is amended to read as described in Exhibit "P", attached hereto and by this reference incorporated herein, with
+new language underlined and language to be deleted in strikethrough.
+Section 17. AMENDMENT. Deschutes County Code Chapter 19.80, Off-Street Parking And Loading,
+is amended to read as described in Exhibit "Q", attached hereto and by this reference incorporated herein, with
+new language underlined and language to be deleted in strikethrough.
+Section 18. AMENDMENT. Deschutes County Code Chapter 19.88, Provisions Applying To Special
+Use Standards, is amended to read as described in Exhibit "R", attached hereto and by this reference incorporated
+herein, with new language underlined and language to be deleted in strikethrough.
+Section 19. AMENDMENT. Deschutes County Code Chapter 19.92, Interpretations And Exceptions, is
+amended to read as described in Exhibit "S", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 20. AMENDMENT. Deschutes County Code Chapter 19.116, Amendments, Appeals, And
+Procedures, is amended to read as described in Exhibit "T", attached hereto and by this reference incorporated
+herein, with new language underlined and language to be deleted in strikethrough.
+Section 21. FINDINGS. The Board adopts as its findings Exhibit "U", attached and incorporated by
+reference herein.
+Dated this ";)..� Pr> l , 2026
+Recording Secretary
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY,OREGON
+'hcfa./
+PHILIP CHANG, Chk'ir
+ANTHONY DEBONE, Vice Chair
+,£am�
+I ADAIR, Commissioner
+t,-r'--Date of 1st Reading: _(}_ day of � I , 2026.
+1" il.:.,V\· I Date of 2nd Reading: _'].)., day of�-, 2026.
+PAGE 3 OF 4 - ORDINANCE NO. 2026-006
+Commissioner
+Philip Chang
+Anthony DeBone
+Patti Adair k'
+5
+Effective date: 2.1__ day of
+Record of Adoption Vote:
+Yes No Abstained
+x
+x
+_y
+'J�
+, 2026.
+PAGE 4 OF 4 - ORDINANCE NO. 2026-006
+Excused
+Exhibit A
+CHAPTER 18.16 EXCLUSIVE FARM USE ZONES
+18.16.010 Purpose
+18.16.020 Uses Permitted Outright
+18.16.023 Lawfully Established Dwelling Replacement
+18.16.025 Uses Permitted Subject To The Special Provisions Under DCC SecJion 18.16.038
+Or DCC Section 18.16.042 And A Review Under DCC Chapter 18.124 Where Applicable
+18.16.030 Conditional Uses Permitted; High Value And Non-High Value Farmland
+18.16.031 Conditional Uses On Non-High Value Farmland Only
+18.16.033 Conditional Uses On High Value Farmland Only
+18.16.035 Destination Resorts
+18.16.037 Guest Ranch
+18.16.038 Special Conditions For Certain Uses Listed Under DCC 18.16.025
+18.16.040 Limitations On CondltiQUfil!ls.e_s_
+18.16.042 Agri-Tourism And Other Commercial Events Or Activities Limited UseJ'ermit
+18.16.043 Single Permit
+18.16.050 Standards For Dwellin@Jn The EFU Zones
+18.16.055 Land Divisions.
+18.16.060 Dimensional Standards
+18.16.065 Subzones
+18.16.067 Farm Management Plans
+18.16.070 Setbacks
+18.16.080 Ordinary High Water Mark Setbacks
+18.16.090 Rim rock Setback
+18.16.030 Conditional Uses Permitted; High Value And Non-High Value Farmland
+The following uses may be allowed in the Exclusive Farm Use zones on either high value
+farmland or non-high value farmland subject to applicable provisions of the
+Comprehensive Plan, DCC 18.16.040 and 18.16.050, and other applicable sections of DCC
+Title 18.
+A. Nonfarm dwelling.
+B. Lot of record dwelling.
+€-:- Subject to the standards of ORS 215.296, residential home in existing dwellings.
+&.C. A hardship dwelling, as described in DCC 18.16.050(H).
+E:-D. Commercial activities that are in conjunction with farm use, but not including
+the processing of farm crops as described in DCC 18.16.025.
+f:-E. Operations conducted for: Mining and processing of geothermal resources
+as defined by ORS 522.005, and Mining and processing of natural gas or oil as
+defined by ORS 520.005, not otherwise permitted under DCC 18.16.020.
+6:--'--'F.'--__ Expansion of an existing private park, playground, hunting and fishing
+preserve and campground on the same tract as the existing use.
+-H:G. Public park and playground consistent with the provisions of ORS 195.120,
+and including only the uses specified under OAR 660-034-0035 or 660-034-0040,
+whichever is applicable.
+t.-_H�•-__ Community centers owned by a governmental agency or a nonprofit
+organization and operated primarily by and for residents of the local rural
+community.
+1. A community center authorized under this section may provide services to
+veterans, including but not limited to emergency and transitional shelter,
+preparation and service of meals, vocational and educational counseling and
+referral to local, state or federal agencies providing medical, mental health,
+disability income replacement and substance abuse services, only in a
+facility that is in existence on January 1, 2006.
+2. The services may not include direct delivery of medical, mental health,
+disability income replacement or substance abuse services.
+::1-:-L_Transmission towers over 200 feet in height.
+lf:-LCommerciat utility facility, including a hydroelectric facility {in accordance with DCC
+18.116.130 and 18.128.260, and OAR 660-033-0130), for the purpose of generating
+power for public use by sale, not including wind power generation facilities.
+tK. Personal use airport for airplanes and helicopter pads, including associated
+hangar, maintenance and service facilities. A personal use airport as used in DCC
+18.16.030 means an airstrip restricted, except for aircraft emergencies, to use by
+the owner, and, on an infrequent and occasional basis, by invited guests, and by
+commercial aviation activities in connection with agricultural operations.
+M-:-=L.;._. __ Home Occupation, subject to DCC 18.116.280.
+1. The home occupation shalt:
+a. be operated substantially in the dwelling or other buildings normally
+associated with uses permitted in the EFU zone;
+b. be operated by a resident or employee of a resident of the property on
+which the business is located; and
+c. employ on the site no more than five full-time or part-time persons.
+2. The home occupation shall not unreasonably interfere with other uses
+permitted in the EFU zone.
+A facility for the primary processing of forest products, provided that such
+facility is found to not seriously interfere with accepted farming practices and is
+compatible with farm uses described in ORS 213.203(2).
+&.N.
+1. The primary processing of a forest product, as used in DCC 18.16.030,
+means the use of a portable chipper or stud mill or other similar methods of
+initial treatment of a forest product in order to enable its shipment to market.
+2. Forest products, as used in DCC 18.16.030, means timber grown upon a lot
+or parcel of land or contiguous land where the primary processing facility is
+located.
+Construction of additional passing and travel lanes requiring the acquisition
+of right of way, but not resulting in the creation of new land lots or parcels.
+P:O. Reconstruction or modification of public roads and highways involving the
+removal or displacement of buildings, but not resulting in the creation of new land
+lots or parcels.
+�-'-P.'---__ lmprovement of public road and highway-related facilities such as
+maintenance yards, weigh stations, and rest areas, where additional property or
+right of way is required, but not resulting in the creation of new land lots or parcels.
+R-:Q. The propagation, cultivation, maintenance and harvesting of aquatic species
+that are not under the jurisdiction of the State Fish and Wildlife Commission or
+insect species.
+1. Insect species shall not include any species under quarantine by the State
+Department of Agriculture or the United States Department of Agriculture.
+2. The county shall provide notice of all applications under this section to the
+State Department of Agriculture.
+3. Notice shall be provided in accordance with DCC Title 22, but shall be
+mailed at least 20 calendar days prior to any administrative decision or initial
+public hearing on the application.
+&.-R. Room and board arrangements for a maximum of five unrelated persons in
+an existing residence. If approved, this use is subject to the recording of the
+statement listed in DCC 18.16.020(J)(1 ).
+f:-S. Fill or removal within the bed and banks of a stream or river or in a wetland.
+8-:T. Roads, highways and other transportation facilities, and improvements not
+otherwise allowed under DCC 18.16, if an exception to Goal 3, Agricultural Lands,
+and to any other applicable goal is first granted under state law. Transportation uses
+and improvements may be authorized under conditions and standards as set forth
+in OAR 660-012-0035 and 660-012-0065.
+V:-U. Surface mining of mineral and aggregate resources in conjunction with the
+operation and maintenance of irrigation systems operated by an Irrigation District,
+including the excavation and mining for facilities, ponds, reservoirs, and the off-site
+use, storage, and sale of excavated material.
+W.�V. ___ A living history museum.
+*.W. Operations for the extraction and bottling of water.
+½X. Transportation improvements on rural lands allowed by OAR 660-012-0065.
+l:-.Y. Expansion of existing county fairgrounds and activities relating to county fairgrounds
+governed by county fair boards established pursuant to ORS 565.210.
+Ak=Z�. __ Extended outdoor mass gatherings, subject to DCC 8.16.
+-ABAA. A landscape contracting business, as defined in ORS 671.520, or a business
+providing landscape architecture services, as described in ORS 671.318, if the
+business is pursued in conjunction with the growing and marketing of nursery stock
+on the land that constitutes farm use.
+AeAB. Wind power generation facilities as commercial utility facilities for the purpose
+of generating power for public use by sale, subject to OAR 660-033-0130.
+A-BAC. Photovoltaic solar power generation facilities as commercial utility facilities for
+the purpose of generating power for public use by sale, subject to OAR 660-033-
+0130. On high-value farmland only, photovoltaic solar power generation facilities
+are subject to the provisions in ORS 215.447.
+A-E-AD. Commercial dog boarding kennel, or dog training classes or testing trials that
+exceed the standards under DCC 18.16.025(K), subject to DCC 18.16.040(A)(1 and
+2).
+AfAE. Equine and equine-affiliated therapeutic and counseling activities, provided:
+HISTORY
+1. The activities are conducted in existing buildings that were lawfully
+constructed on the property before the effective date of January 1, 2019 or in
+new buildings that are accessory, incidental, and subordinate to the farm use
+on the tract; and
+2. All individuals conducting therapeutic or counseling activities are acting
+within the proper scope of any licenses required by the state.
+Adopted by Ord. PL-15 on 11/1/1979
+Amended by Ord. 83-028 §1 on 6/1/1983
+Amended by Ord. 86-018 §3 on 6/30/1986
+Amended by Ord. 87-Q_J 3 §1 on 6/10/1987
+Amended by Ord. 90-018 §1 on 5/16/1990
+Amended by Ord. 90-0-1.4 §§23 and 31 on 7112/1990
+Amended by Ord. 91-005 §5 on 3/4/1991
+Amended by Ord. 91-014 §1 on 3/13/1991
+Amended by Ord. 91-020 §1 on 5/29/1991
+Amended by Ord. 91-038 §2 on 9/30/1991
+Amended by Ord. 92-065 §3 on 11125/1992
+Amended by Ord. 94-008 §9 on 6/8/1994
+Amended by Ord. 95-007 §11 on 3/111995
+Amended by Ord. 95-025 §1 on 3/3/1995
+Amended by Ord. 98-030 §1 on 5/13/1998
+Amended by Ord. 2001-016 §2 on 3/28/2001
+Amended by Ord. 2001-039 §1 on 12/12/2001
+Amended by Ord. 2004-001 §2 on 7/14/2004
+Amended by Ord. 2008-001 §2 on 5/6/2008
+Amended by Ord. 2009-014 §1 on 6/22/2009
+Amended by Ord. 20-12-007 §2 on 5/2/2012
+Amended by Ord. 2014-010 §1 on 4/28/2014
+Amended by Ord. 2018-006 §5 on 11/20/2018
+Amended by Ord. 2021-013 §4 on 4/5/2022
+Amended by Ord. 2024-008 §3 on 1/7/2025
+Amended by Ord. 2025-002 §4 on 3/28/2025
+Amended b�Ord. 2026-006 §1 on 4/22/2026
+18.16.040 Limitations On Conditional Uses
+A. Conditional uses permitted by DCC 18.16.030, 18.16.031, and 18.16.033 may be
+established subject to ORS 215.296, applicable provisions in DCC 18.128, and upon
+a finding by the Planning Director or Hearings Body that the proposed use:
+1. Will not force a significant change in accepted farm or forest practices as
+defined in ORS 215.203(2)(c) on surrounding lands devoted to farm or forest
+uses;and
+2. Will not significantly increase the cost of accepted farm or forest practices
+on surrounding lands devoted to farm or forest use; and
+3. That the actual site on which the use is to be located is the least suitable for
+the production of farm crops or livestock.
+B. A commercial activity allowed under DCC 18.16.030(ED) shall be associated with a
+farm use occurring on the lot or parcel where the commercial use is proposed. The
+commercial activity may use, process, store, or market farm products produced
+outside of Deschutes County.
+C. A power generation facility that is part of a commercial utility facility for the purpose
+of generating power for public use by sale identified in DCC 18.16.030(*1) and:
+1. That is located on high-value farmland, the permanent features of which
+shall not preclude more than 12 acres from use as a commercial agricultural
+enterprise unless an exception is taken pursuant to ORS 197. 732 and Oregon
+Administrative Rules 660, Division 004.
+2. That is located on non-high-value farmland, the permanent features of which
+shall not preclude more than 20 acres from use as a commercial agricultural
+enterprise unless an exception is taken pursuant to ORS 197.732 and Oregon
+Administrative Rules 660, Division 4.
+3. A power generation facility may include on-site and off-site facilities for
+temporary workforce housing as allowed under OAR 660-033-0130(17) and
+(22).
+D. A wind power generation facility includes, but is not limited to, the following system
+components: all wind turbine towers and concrete pads, permanent meteorological
+towers and wind measurement devices, electrical cable collection systems
+connecting wind turbine towers with the relevant power substation, new or
+expanded private roads {whether temporary or permanent) constructed to serve the
+wind power generation facility, office and operation and maintenance buildings,
+temporary lay-down areas and all other necessary appurtenances, including but not
+limited to on-site and off-site facilities for temporary workforce housing for workers
+constructing a wind power generation facility. Such facilities must be removed or
+converted to an allowed use under OAR 660-033-0130(19) or other statute or rule
+when project construction is complete. Temporary workforce housing facilities not
+included in the initial approval may be considered through a minor amendment
+request filed after a decision to approve a power generation facility. A minor
+amendment request shall be subject to OAR 660-033-0130(5) and shall have no
+effect on the original approval. A proposal for a wind power generation facility shall
+be subject to the following provisions:
+1. For high value farmland soils described in ORS 195.300(10), that all of the
+following are satisfied:
+a. Reasonable alternatives have been considered to show that siting the
+wind power generation facility or component thereof on high-value
+farmland soils is necessary for the facility or component to function
+properly or if a road system or turbine string must be placed on such
+soils to achieve a reasonably direct route considering the following
+factors:
+1) Technical and engineering feasibility;
+2) Availability of existing rights of way; and
+3) The long term environmental, economic, social and energy
+consequences of siting the facility or component on alternative
+sites, as determined under OAR 660-033-0130{37)(a)(B);
+b. The long-term environmental, economic, social and energy
+consequences resulting from the wind power generation facility or any
+component thereof at the proposed site with measures designed to
+reduce adverse impacts are not significantly more adverse than would
+typically result from the same proposal being located on other
+agricultural lands that do not include high-value farmland soils;
+c. Costs associated with any of the factors listed in OAR 660-033-
+0130(37)(a)(A) may be considered, but costs alone may not be the
+only consideration in determining that siting any component of a wind
+power generation facility on high-value farmland soils is necessary;
+d. The owner of a wind power generation facility approved under OAR
+660-033-0130(37)(a) shall be responsible for restoring, as nearly as
+possible, to its former condition any agricultural land and associated
+improvements that are damaged or otherwise disturbed by the siting,
+maintenance, repair or reconstruction of the facility. Nothing in this
+section shall prevent the owner of the facility from requiring a bond or
+other security from a contractor or otherwise imposing on a
+contractor the responsibility for restoration; and
+e. The criteria of OAR 660-033-0130(37)(b) are satisfied.
+2. For arable lands, meaning lands that are cultivated or suitable for cultivation,
+including high-value farmland soils described at ORS 195.300(10), the
+governing body or its designated must find that:
+a. The proposed wind power facility will not create unnecessary negative
+impacts on agricultural operations conducted on the subject property.
+Negative impacts could include, but are not limited to, the
+unnecessary construction of roads, dividing a field or multiple fields in
+such a way that creates small or isolated pieces of property that are
+more difficult to farm, and placing wind farm components such as
+meteorological towers on lands in a manner that could disrupt
+common and accepted farming practices;
+b. The presence of a proposed wind power facility will not result in
+unnecessary soil erosion or loss that could limit agricultural
+productivity on the subject property. This provision may be satisfied by
+the submittal and county approval of a soil and erosion control plan
+prepared by an adequately qualified individual, showing how
+unnecessary soil erosion will be avoided or remedied and how topsoil
+will be stripped, stockpiled and clearly marked. The approved plan
+shall be attached to the decision as a condition of approval;
+c. Construction or maintenance activities will not result in unnecessary
+soil compaction that reduces the productivity of soil for crop
+production. This provision may be satisfied by the submittal and
+county approval of a plan prepared by an adequately qualified
+individual, show unnecessary soil compaction will be avoided or
+remedied in a timely manner through deep soil decompaction or other
+appropriate practices. The approved plan shall be attached to the
+decision as a condition of approval;
+d. Construction or maintenance activities will not result in the unabated
+introduction or spread of noxious weeds and other undesirable weeds
+species. This provision may be satisfied by the submittal and county
+approval of a weed control plan prepared by an adequately qualified
+individual that includes a long-term maintenance agreement. The
+approved plan shall be attached to the decision as a condition of
+approval.
+3. For nonarable lands, meaning lands that are not suitable for cultivation, the
+governing body or its designate must find that the requirements of OAR 660-
+033-0130{37)(b)(D) are satisfied.
+4. In the event that a wind power generation facility is proposed on a
+combination of arable and nonarable lands as described in OAR 660-033-
+0130{37){b) and {c) the approval criteria of OAR 660-033-0130{37)(b) shall
+apply to the entire project.
+E. No aircraft may be based on a personal-use airport identified in DCC 18.16.030(-1::K)
+other than those owned or controlled by the owner of the airstrip. Exceptions to the
+activities permitted under this definition may be granted through waiver action by
+the Oregon Department of Aviation in specific instances. A personal use airport
+lawfully existing as of September 13, 1975, shall continue to be permitted subject to
+any applicable rules of the Oregon Department of Aviation.
+F. The facility for the primary processing of forest products identified in DCC 18.16.030
+is intended to be portable or temporary in nature. Such a facility may be approved
+for a one-year period which is renewable.
+G. Batching and blending mineral and aggregate into asphaltic cement may not be
+authorized within two miles of a planted vineyard. Planted vineyard means one or
+more vineyards totaling 40 acres or more that are planted as of the date of the
+application for bat
+H. Accessory uses for golf courses shall be limited in size and orientation on the site to
+serve the needs of persons and their guests who patronize the golf course to golf. An
+accessory use that provides commercial services {e.g., pro shop, etc.) shall be
+located in the clubhouse rather than in separate buildings. Accessory uses may
+include one or more food and beverage service facilities in addition to food and
+beverage service facilities located in a clubhouse. Food and beverage service
+facilities must be part of and incidental to the operation of the golf course and must
+be limited in size and orientation on the site to service only the needs of persons
+who patronize the golf course and their guests. Accessory food and beverage
+service facilities shall not be designed for or include structures for banquets, public
+gatherings or public entertainment.
+I. An expansion of an existing golf course as allowed under DCC 18.16.033(C) shall
+comply with the definition of "golf course" set forth in DCC Title 18 and the
+provisions of DCC 18.16.040(A).
+J. An applicant for a nonfarm conditional use may demonstrate that the standards for
+approval will be satisfied through tile imposition of conditions. Any conditions so
+imposed shall be clear and objective.
+K. For purposes of approving a conditional use permit for a lot of record dwelling under
+DCC 18.16.030, the soil class, soil rating or other soil designation of a specific lot or
+parcel may be changed if the property owner:
+1. Submits a statement of agreement from the Natural Resources Conservation
+Service of the United States Department of Agriculture that the soil class,
+soil rating or other soil designation should be adjusted based on new
+information; or
+2. Submits a report from a soils scientist whose credentials are acceptable to
+the Oregon Department of Agriculture that the soil class, soil rating or other
+soil designation should be changed; and
+3. Submits a statement from the Oregon Department of Agriculture that the
+Director of Agriculture or the director's designee has reviewed the report
+described in 2 above and finds the analysis in the report to be soundly and
+scientifically based.
+4. The soil classes, soil ratings or other soil designations used in or made
+pursuant to this definition are those of the NRCS in its most recent
+publication for that class, rating or designation before November 4, 1993,
+except for changes made pursuant to subsections 1-3 above.
+5. For the purposes of approving a land use application under OAR 660-033-
+0090, 660-033-0120, 660-033-0130 and 660-033-0135, soil classes, soil
+ratings or other soil designations used in or made pursuant to this definition
+are those of the NRCS in its most recent publication for that class, rating or
+designation.
+L. Except on a lot or parcel contiguous to a lake or reservoir, a private campground
+shall not be allowed within three miles of an urban growth boundary unless an
+exception is approved pursuant to ORS 197. 732 and OAR chapter 660, division 004.
+1. A private campground may provide yurts for overnight camping. No more
+than one-third or a maximum of 10 campsites, whichever is smaller, may
+include a yurt.
+2. The yurt shall be located on the ground or on a wood floor with no permanent
+foundation.
+3. As used in this paragraph, "yurt" means a round, domed shelter of cloth or
+canvas on a collapsible frame with no plumbing, sewage disposal hook-up or
+internal cooking appliance.
+4. A campground shall be designed and integrated into the rural agricultural and
+forest environment in a manner that protects the natural amenities of the site
+and provides buffers of existing native trees and vegetation or other natural
+features between campsites.
+M. A living history museum shall be related to resource based activities and be owned
+and operated by a governmental agency or a local historical society.
+1. A living history museum may include limited commercial activities and
+facilities that are directly related to the use and enjoyment of the museum
+and located within authentic buildings of the depicted historic period or the
+museum administration building, if areas other than an exclusive farm use
+zone cannot accommodate the museum and related activities, or if the
+museum administration buildings and parking lot are located within one­
+quarter mile of an urban growth boundary.
+2. As used in this paragraph, a "living history museum" means a facility
+designed to depict and interpret everyday life and culture of some specific
+historic period using authentic buildings, tools, equipment and people to
+simulate past activities and events; and "local historical society" means the
+local historic society recognized by the County and organized under ORS
+Chapter 65.
+N. Pre-Application Conference
+1. Before an applicant may submit an application under DCC Chapter 22.08
+and DCC 18.16.031 (C), for land use approval to establish or modify a
+disposal site for composting that requires a permit issued by the Oregon
+Department of Environmental Quality, the applicant shall:
+a. Request and attend a pre-application conference described in DCC
+18.16.040(N)(3);
+b. Hold a pre-application community meeting described in DCC
+18.16.040(N)(6).
+2. DCC 18.16.040(N)(1 )(a) and (b) apply to an application to:
+a. Establish a disposal site for composting that sells, or offers for sale,
+resulting product; or
+b. Allow an existing disposal site for composting that sells, or offers for
+sale, resulting product to:
+1) Accept as feedstock non-vegetative materials, including dead
+animals, meat, dairy products and mixed food waste; or
+2) Increase the permitted annual tonnage of feedstock used by
+the disposal site by an amount that requires a new land use
+approval.
+3. During the pre-application conference:
+a. The applicant shall provide information about the proposed disposal
+site for composting and proposed operations for composting and
+respond to questions about the site and operations;
+b. The County and other representatives described in DCC
+18.16.040(N)(5) shall inform the applicant of permitting requirements
+to establish and operate the proposed disposal site for composting
+and provide all application materials to the applicant.
+4. The applicant shall submit a written request to the County to request a pre­
+application conference.
+5. A representative of the Planning Division and a representative of the Oregon
+Department of Environmental Quality shall attend the conference along with
+representatives, as determined necessary by the County, of the following
+entities:
+\
+a. Any other state agency or local government that has authority to
+approve or deny a permit, license or other certification required to
+establish or operate the proposed disposal site for composting;
+b. A state agency, a local government or a private entity that provides or
+would provide one or more of the following to the proposed disposal
+site for composting:
+1) Water systems;
+2) Wastewater collection and treatment systems, including storm
+drainage systems.
+3) Transportation systems or transit services;
+c. A city or county with territory within its boundaries that may be
+affected by the proposed disposal site for composting;
+d. The Department of Land Conservation and Development;
+e. The State Department of Agriculture;
+6. The County shall:
+a. Provide notice of the pre-application conference to entities described
+in DCC 18.16.040(N)(5) by mail and, as appropriate, in any other
+manner that ensures adequate notice and opportunity to participate;
+b. Hold the pre-application conference at least 20 days and not more
+than 40 days after receipt of the applicant's written request; and
+c. Provide pre-application notes to each attendee of the conference and
+other entities described above for which a representative does not
+attend the pre-application conference.
+7. After the pre-application conference and before submitting the application
+for land use approval, the applicant shall:
+a. Hold a community meeting within 60 days after the pre-application
+conference:
+1) In a public location in the county with land use jurisdiction;
+and
+2) On a business day, or Saturday, that is not a holiday, with a
+start time between the hours of 6:00 p.m. and 8 p.m.
+b. Provide notice of the community meeting to:
+1) The owners of record, on the most recent property tax
+assessment roll, of real property located within one-half mile
+of the real property on which the proposed disposal site for
+composting would be located;
+2) The resident or occupant that receives mail at the mailing
+address of the real property described above, if the mailing
+address of the owner of record is not the mailing address of the
+real property;
+3) Neighborhood and community organizations recognized by the
+governing body of the County if a boundary of the organization
+is within one-half mile of the proposed disposal site for
+composting;
+4) A newspaper that meets the requirements of ORS 193.020 for
+publication;
+5) Local media in a press release; and
+6) The entities described in 18.16.040(N)(5) above.
+8. During the community meeting, the applicant shall provide information
+about the proposed disposal site for composting and proposed operations
+for composting and respond to questions about the site and operations.
+9. The applicant's notice provided under DCC 18.16.040(N)(6)(b) above must
+include:
+a. A brief description of the proposed disposal site for composting;
+b. The address and the location of the community meeting; and
+c. The date and time of the community meeting.
+(Ord. 91-011 §1, 1991)
+HISTORY
+Adopted by Ord. PL-15 on 11/1/1979
+Repealed & Reenacted by Ord. 91-020 §1 on 5/29/1991
+Amended by Ord. 91-038 §§1 and 2 on 9/30/1991
+Amended by Ord. 92-065 §3 on 11125/1992
+Amended by Ord. 95-007 §14 on 311/1995
+Amended by Ord. 95-075 §1 on 11/29/1995
+Amended by Ord. 98-030 §1 on 5/13/1998
+Amended by Ord. 2004-001 §2 on 7/14/2004
+Amended by Ord. 2006-008 §3 on 8/29/2006
+Amended by Ord. 2008-001 §2 on 5/612008
+Amended by Ord. 2009-014 §1 on 6/22/2009
+Amended by Ord. 2012-007§2 on 5/2/2012
+Amended by Ord. 2014-010 §1 on 4/28/2014
+Amended by Ord. 2015-016 §2 on 3/28/2016
+Amended by Ord. 2018-006 §5 on 11120/2018
+Amended by Ord. 2020-007§9 on 10/27/2020
+Amended by Ord. 2025-002 §4 on 3/28/2025
+Amendedby J)rd.2026�00fi§l_Qn 4/22/2026
+18.16.050 Standar:ds For Dwellings In The EFU Zones
+Dwellings listed in DCC 18.16.025 and 18.16.030 may be allowed under the conditions set
+forth below for each kind of dwelling, and all dwellings are subject to the landowner for the
+property upon which the dwelling is placed, signing and recording in the deed records for
+the County, a document binding the landowner, and the landowner's successors in
+interest, prohibiting them from pursuing a claim for relief or cause of action alleging injury
+from farming or forest practices for which no action or claim is allowed under ORS 30.936
+or 30.937.
+A. Farm-related dwellings on non-high value farmland. A dwelling customarily provided
+in conjunction with farm use, as listed in DCC 18.16.025(A), may be approved if it
+satisfies any of the alternative tests set forth below:
+1 . Acreage test.
+a. On land not identified as high-value farmland, a dwelling, including a
+manufactured dwelling in accordance with DCC 18.116.070, may be
+considered customarily provided in conjunction with farm use if:
+1) The lot or parcel on which the dwelling will be located is at
+least:
+A. One hundred sixty acres and not in the Horse Ridge East
+subzone; or
+B. Three hundred twenty acres in the Horse Ridge East
+subzone;
+2) The subject tract is currently employed for farm use, as defined
+in DCC 18.04.030, and which is evidenced by a farm
+management plan;
+3) The dwelling will be occupied by a person or persons who will
+be principally engaged in the farm use of the land, such as
+planting, harvesting, marketing or caring for livestock, at a
+commercial scale;
+4) There is no other dwelling on the subject tract, except as
+allowed under DCC 18.16.020(K) and except for seasonal
+farmworker housing approved prior to 2001;
+2. Median acreage/gross sales test.
+a. On land not identified as high-value farmland, a dwelling, including a
+manufactured dwelling in accordance with DCC 18.116.070, may be
+considered customarily provided in conjunction with farm use if:
+1) The subject tract is at least as large as the median size of those
+commercial farm or ranch tracts capable of generating at least
+$10,000 in annual gross sales that are located within a study
+area that includes all tracts wholly or partially within one mile
+of the perimeter of the subject tract;
+2) The subject tract is capable of producing at least the median
+level of annual gross sales of County indicator crops as the
+same commercial farm or ranch tracts used to calculate the
+tract size in DCC 18.16.050(A)(2)(a)(1 );
+3) The subject tract is currently employed for farm use, as defined
+in DCC 18.04.030, and which is evidenced by a farm
+management plan, at a level capable of producing the annual
+gross sales required in DCC 18.16.050(A)(2)(a)(2). If no farm
+use has been established at the time of application, land use
+approval shall be subject to a condition that no building permit
+may be issued prior to establishment of the farm use capable
+of meeting the median income test.
+4) The subject lot or parcel on which the dwelling is proposed is
+at least 20 acres in size;
+5) There is no other dwelling on the subject tract(1), except as
+allowed under DCC 18.16.020(K) and except for seasonal
+farmworker housing approved prior to 2001; and
+6) The dwelling will be occupied by a person or persons who will
+be principally engaged in the farm use of the land, such as
+planting; harvesting, marketing or caring for livestock, at a
+commercial scale.
+b. For the purpose of calculating appropriate tract sizes and gross
+incomes to satisfy DCC 18.16.050(A)(2)(a)(1) and (2), the County will
+utilize the methodology contained in Oregon Administrative Rules
+660-Q33-Q135fat using data on gross sales per acre tabulated by
+LCDC pursuant to Oregon Administrative Rules 660-Q33-Q135f-4t.
+3. Gross annual income test.
+a. On land not identified as high-value farmland, a dwelling, including a
+manufactured dwelling in accordance with DCC 18.116.070, may be
+considered customarily provided in conjunction with farm use if:
+1) The subject tract is currently employed for a farm use, and that
+the farm operator earned $40,000 in gross annual revenue in
+the last two years, three of the last five years, or based on the
+average farm revenue earned on the tract in the highest three
+of the last five years.
+2) There is no other dwelling on the subject tract, except as
+allowed under 18.16.020(K) and except for seasonal
+farmworker housing approved prior to 2001;
+3) The dwelling will be occupied by a person or persons who
+produced the commodities which grossed the income in DCC
+18.16.050(A) (3)(a)(1 ); and
+b. In determining gross revenue, the cost of purchased livestock shall be
+deducted from the total gross revenue attributed to the tract.
+c. Noncontiguous lots or parcels zoned for farm use in the same county
+or contiguous counties may be used to meet the gross revenue
+requirements.
+d. Only gross revenue from land owned, not leased or rented, shall be
+counted; and gross farm revenue earned from a lot or parcel which
+has been used previously to qualify another lot or parcel for the
+construction or siting of a primary farm dwelling may not be used.
+e. Prior to a dwelling being approved under this section that requires one
+or more contiguous or noncontiguous lots or parcels of a farm or
+ranch operation to comply with the gross farm revenue requirements,
+the applicant shall provide evidence that the covenants, conditions
+and restrictions form attached to Chapter 18.16, has been recorded
+with the county clerk or counties where the property subject to the
+covenants, conditions and restrictions is located.
+1) The covenants, conditions and restrictions shall be recorded
+for each lot or parcel subject to the application for primary
+farm dwelling and shall preclude:
+A. All future rights to construct a dwelling except for
+accessory farm dwellings, relative farm assistance
+dwellings, temporary hardship dwellings or
+replacement dwellings allowed under ORS Chapter
+215;and
+B. The use of any gross farm revenue earned on the lots or
+parcels to qualify another lot or parcel for a primary
+farm dwelling;
+C. The covenants, conditions and restrictions are
+irrevocable, unless a statement of release is signed by
+an authorized representative of the county or counties
+where the property subject to the covenants, conditions
+and restrictions is located;
+D. The failure to follow the requirements of this section
+shall not affect the validity of the transfer of property or
+the legal remedies available to the buyers of property
+which is subject to the covenants, conditions and
+restrictions required by this section.
+B. Farm related dwellings on high value farmland. On land identified as high-value
+farmland, a dwelling, including a manufactured dwelling in accordance with DCC
+18.116.070, may be considered customarily provided in conjunction with farm use
+if:
+1. The subject lot or parcel is currently employed for the farm use as defined in
+DCC 18.04.030, and that the farm operator earned at least $80,000 in gross
+annual revenue from the sale of farm products in the last two years, three of
+the last five years, or based on the average farm revenue earned by the farm
+operator in the best three of the last five years. In determining gross revenue,
+the cost of purchased livestock shall be deducted from the total gross
+revenue attributed to the tract;
+2. There is no other dwelling on the subject tract, except as allowed under
+18.16.020(K) and except for seasonal farmworker housing approved prior to
+2001;
+3. The dwelling will be occupied by a person or persons who produced the
+commodities which grossed the revenue under DCC 18.16.050(8)(1 );
+4. Noncontiguous lots or parcels zoned for farm use in the same county or
+contiguous counties may be used to meet the gross,revenue requirements.
+5. When a farm or ranch operation has lots or parcels in both "western" and
+"eastern" Oregon as defined in OAR 660-033-0020, lots or parcels in eastern
+or western Oregon may not be used to qualify a dwelling in the other part of
+the state.
+6. Only gross revenue from lots or parcels owned, not leased or rented, shall be
+counted; and gross farm revenue earned from a lot or parcel which has been
+used previously to qualify another lot or parcel for the construction or siting
+of a primary farm dwelling may not be used.
+7. Prior to a dwelling being approved under this section that requires one or
+more contiguous or noncontiguous lots or parcels of a farm or ranch
+operation to comply with the gross farm revenue requirements, the applicant
+shall provide evidence that the covenants, conditions and restrictions form
+attached to Chapter 18.16 has been recorded with the county clerk. The
+covenants, conditions and restrictions shall be recorded for each lot or
+parcel subject to the application for primary farm dwelling and shall
+preclude:
+a. All future rights to construct a dwelling except for accessory farm
+dwellings, relative farm assistance dwellings, temporary hardship
+dwellings or replacement dwellings allowed by ORS Chapter 215; and
+b. The use of any gross farm revenue earned on the lots or parcels to
+qualify another lot or parcel for a primary farm dwelling.
+C. Accessory dwelling. A dwelling, including a manufactured dwelling in accordance
+with DCC 18.116.070, is considered to be an accessory farm dwelling customarily
+provided in conjunction with farm use when:
+1. The accessory dwelling meets the following criteria:
+a. The accessory farm dwelling will be occupied by a person or persons
+who will be principally engaged in the farm use of the land and whose
+seasonal or year-round assistance in the management of the farm
+use, such as planting, harvesting, marketing or caring for livestock, is
+or will be required by the farm operator; and
+b. The accessory farm dwelling will be located:
+1) On the same lot or parcel as the primary farm dwelling; or
+2) On the same tract as the primary farm dwelling when the lot or
+parcel on which the accessory farm dwelling will be sited is
+consolidated into a single lot or parcel with all other
+contiguous lots and parcels in the tract; or
+3) On a lot or parcel on which the primary farm dwelling is not
+located, when the accessory farm dwelling is limited to only a
+manufactured dwelling and a deed restriction substantially in
+compliance with the form set forth in Exhibit A to DCC 18.16 is
+filed with the County Clerk. The deed restriction shall require
+the manufactured dwelling to be removed when the lot or
+parcel is conveyed to another party. The manufactured
+dwelling may remain if it is reapproved under DCC 18.16.050;
+or
+4) On a lot or parcel on which the primary farm dwelling is not
+located, when the accessory farm dwelling is located on a lot
+or parcel at least the size of the applicable minimum lot size
+under DCC 18.16.065 and the lot or parcel complies with the
+gross farm income requirements in DCC 18.16.050(A)(3) or
+(B)(1 ), whichever is applicable; and
+c. There is no other dwelling on land zoned EFU owned by the farm
+operator that is vacant or currently occupied by persons not working
+on the subject farm or ranch and that could reasonably be used as an
+accessory farm dwelling; and
+2. The primary farm dwelling to which the proposed dwelling would be
+accessory meets one of the following:
+a. On land not identified as high-value farmland, the primary farm
+dwelling is located on a farm or ranch operation that is currently
+employed in farm use and produced $40,000 in gross annual sales in
+the last two years, three of the last five years, or based on the average
+farm revenue earned on the tract in the highest three of the last five
+years. In determining gross revenue, the cost of purchased livestock
+shall be deducted from the total gross revenue attributed to the tract;
+or
+b. On land identified as high-value farmland, the primary farm dwelling
+is located on a farm or ranch operation that is currently employed for
+farm use, and produced at least $80,000 in gross annual revenue from
+the sale of farm products in the last two years, three of the last five
+years, or based on the average farm revenue earned on the tract in the
+highest three of the last five years. Gross revenue shall be calculated
+by deducting the cost of purchased livestock from the total gross
+revenue attributed to the tract; and
+3. A lot or parcel approved for an accessory farm dwelling under DCC 18.16.050
+shall not be approved for a division of land except as provided for in DCC
+18.16.055(B).
+4. An accessory farm dwelling approved pursuant to this section cannot later
+be used to satisfy the requirements for a nonfarm dwelling pursuant to DCC
+18.16.050(G).
+D. Relative farm help dwelling.
+1. A dwelling listed in DCC 18.16.025(B) is allowed when:
+a. The subject tract is a commercial farming operation.
+b. The dwelling is a manufactured dwelling and is sited in accordance
+with DCC 18.116.070, or is a site-built dwelling;
+c. The dwelling is located on the same lot or parcel as the dwelling of the
+farm operator, and is occupied by a relative of the farm operator or
+farm operator's spouse, including a grandparent, step-grandparent,
+grandchild, parent, step-parent, child, sibling, step-sibling, niece,
+nephew, or first cousin of either, if the farm operator does, or will,
+require the assistance of the relative in the management of the farm
+use.
+1) Notwithstanding ORS 92.010 to 92.190 or the minimum lot or
+parcel size requirements under ORS 215.780, if the owner of a
+dwelling described in this subsection obtains construction
+financing or other financing secured by the dwelling and the
+secured party forecloses on the dwelling, the secured party
+may also foreclose on the homesite, as defined in ORS
+308A.250, and the foreclosure shall operate as a partition of
+the homesite to create a new lot or parcel.
+2) Prior conditions of approval for the subject land and dwelling
+remain in effect.
+3) For purposes of this subsection, "Foreclosure" means only
+those foreclosures that are exempt from partition under ORS
+92.010(9)(a).
+d. The farm operator plays the predominant role in the management and
+farm use of the farm and will continue to do so after the relative farm
+help dwelling is approved.
+e. Any approval granted under DCC 18.16.050 shall be conditioned with
+a requirement that the farm operator annually submit a report to the
+Planning Division identifying the resident(s) of the dwelling, their
+relationship to the farm operator, the assistance the resident provides
+to the farm operator, and verifying the farm operator's continued
+residence on the property and the predominant role the farm operator
+continues to play in the management and farm use of the farm.
+2. A manufactured dwelling permitted under DCC 18.16.050 shall be
+considered to be a temporary installation, and permits for such home shall
+be renewable and renewed on an annual basis. The manufactured dwelling
+shall be removed from the property if it no longer meets the criteria of DCC
+18.16.050 and the approval shall be so conditioned.
+3. A dwelling approved under DCC 18.16.050 shall be removed or converted to
+an allowable use within one year of the date the relative farm help dwelling
+no longer meets the criteria of DCC 18.16.050 and the approval shall be so
+conditioned.
+4. Upon approval of a dwelling under DCC 18.16.050, a Conditions of Approval
+Agreement shall be recorded with the Deschutes County Clerk prior to
+issuance of any building or placement permit for the new dwelling on the
+property.
+5. For the purposes of DCC 18.16.050(D), a farm operator is a person who
+operates a farm, doing the work and making the day-to-day decisions about
+such things as planting, harvesting, feeding and marketing.
+E. Lot of record dwelling on non-high value farmland.
+1. A lot of record dwelling may be approved on a pre-existing lot or parcel on
+non-high value farmland when all of the following requirements are met:
+a. The lot or parcel on which the dwelling will be sited was lawfully
+created and was acquired and owned continuously by the present
+owner:
+1) Prior to January 1, 1985; or
+2) By devise or by intestate succession from a person who
+acquired and owned continuously the lot or parcel prior to
+January 1, 1985.
+b. The tract on which the dwelling will be sited does not include a
+dwelling.
+c. For lots or parcels located within a wildlife area (WA) combining zone,
+siting of the proposed dwelling would be consistent with the
+limitations on density as applied under the applicable density
+restrictions of DCC 18.88.
+d. If the lot or parcel on which the dwelling will be sited is part of a tract,
+the remaining portions of the tract shall be consolidated into a single
+lot or parcel when the dwelling is allowed.
+e. The County Assessor shall be notified of any approval of a dwelling
+under DCC 18.16.050.
+f. If the lot or parcel on which the dwelling will be sited was part of a
+tract on November 4, 1993, no dwelling exists on another lot or parcel
+that was part of the tract;
+2. For purposes of DCC 18.16.050(E), "owner" includes the wife, husband, son,
+daughter, mother, father, brother, brother-in-law, sister, sister-in-law, son-in­
+law, daughter-in-law, mother-in-law, father-in-law, aunt, uncle, niece,
+nephew, step-parent, step-child, grandparent, or grandchild of the owner or
+a business entity owned by any one or a combination of these family
+members.
+3. For purposes of DCC 18.16.0S0(E), the date of creation and existence means
+that, when a lot, parcel, or tract is reconfigured pursuant to applicable law
+after November 4, 1993, the effect of which is to qualify a lot, parcel, or tract
+for the siting of a lot of record dwelling, the date of the reconfiguration is the
+date of creation and existence. Reconfigured means any change in the
+boundary of the lot, parcel, or tract.
+F. Lot of record dwelling on high-value farmland.
+1. A lot of record dwelling on a pre-existing lot or parcel will be approved on high
+value farmland when all of the following requirements are met:
+a. The requirements set forth in DCC 18.16.050(E)(1 )(a) through (f), as
+determined by the County; and
+b. The requirements of Oregon Administrative Rules 660-33-130(3)(c)(C),
+as determined by the County hearings officer.
+2. Applicants under DCC 18.16.050(F) shall make their application to the
+County. The County shall notify the State Department of Agriculture at least
+20 calendar days prior to the public hearing under DCC 18.16.050(F)(1 )(b).
+3. Applicants under DCC 18.16.050(F) shall be subject to such other
+procedural requirements as are imposed by the Oregon Department of
+Agriculture.
+4. For purposes of DCC 18.16.050(F), the date of creation and existence means
+that, when a lot, parcel, or tract is reconfigured pursuant to applicable law
+after November 4, 1993, the effect of which is to qualify a lot, parcel, or tract
+for the siting of a lot of record dwelling, the date of the reconfiguration is the
+date of creation and existence. Reconfigured means any change in the
+boundary of the lot, parcel, or tract.
+G. Nonfarm dwelling.
+1. One single-unit dwelling, including a manufactured dwelling in accordance
+with DCC 18.116.070, not provided in conjunction with farm use, may be
+permitted on an existing lot or parcel subject to the following criteria:
+a. The Planning Director or Hearings Body shall make findings that:
+1) The dwelling or activities associated with the dwelling will not
+force a significant change in or significantly increase the cost
+of accepted farming practices, as defined in ORS
+215.203(2)(c), or accepted forest practices on nearby lands
+devoted to farm or forest use.
+2) The proposed nonfarm dwelling will not materially alter the
+stability of the overall land use pattern of the area. In
+determining whether a proposed nonfarm dwelling will alter
+the stability of the land use pattern in the area, the County
+shall consider the cumulative impact of nonfarm dwellings on
+other lots or parcels in the area similarly situated, by applying
+the standards under OAR 660-033-0130(4)(a)(D), and whether
+creation of the lot or parcel will lead to creation of other
+nonfarm lots or parcels, to the detriment of agriculture in the
+area.
+3) The proposed nonfarm dwelling is situated on an existing lot or
+parcel, or a portion of a lot or parcel that is generally
+unsuitable for the production of farm crops and livestock or
+merchantable tree species, considering the terrain, adverse
+soil or land conditions, drainage and flooding, vegetation,
+location, and size of the tract.
+4) The proposed nonfarm dwelling is not within one-quarter mile
+of a dairy farm, feed lot, or sales yard, unless adequate
+provisions are made and approved by the Planning Director or
+Hearings Body for a buffer between such uses. The
+establishment of a buffer shall be designed based upon
+consideration of such factors as prevailing winds, drainage,
+expansion potential of affected agricultural uses, open space
+and any other factor that may affect the livability of the
+nonfarm-dwelling or the agriculture of the area.
+5) Road access, fire and police services, and utility systems (i.e.,
+electrical and telephone) are adequate for the use.
+6) The nonfarm dwelling shall be located on a lot or parcel
+created prior to January 1, 1993, or was created or is being
+created as a nonfarm lot or parcel under the land division
+standards in DCC 18.16.055(B) or (C).
+2. For the purposes of DCC 18.16.0S0(G) only, "unsuitability" shall be
+determined with reference to the following:
+a. A lot or parcel or a portion of a lot or parcel shall not be considered
+unsuitable solely because of size or location if it can reasonably be
+put to farm or forest use in conjunction with other land. If the lot or
+parcel is under forest assessment, the dwelling shall be situated upon
+generally unsuitable land for the production of merchantable tree
+species recognized by the Forest Practices Rules, considering the
+terrain, adverse soil or land conditions, drainage and flooding,
+vegetation, location, and size of the lot or parcel.
+b. A lot or parcel or portion of a lot or parcel is not "generally unsuitable"
+simply because it is too small to be farmed profitably by itself. If a lot
+or parcel or portion of a lot or parcel can be sold, leased, rented, or
+otherwise managed as part of a commercial farm or ranch, it is not
+"generally unsuitable." A lot or parcel or portion of a lot or parcel is
+presumed to be suitable if it is composed predominantly of Class I-VI
+soils. Just because a lot or parcel or portion of a lot or parcel is
+unsuitable for one farm use does not mean it is not suitable for
+another farm use. If the lot or parcel is under forest assessment, the
+area is not "generally unsuitable" simply because it is too small to be
+managed for forest production profitably by itself.
+c. If a lot or parcel under forest assessment can be sold, leased, rented,
+or otherwise managed as a part of a forestry operation, it is not
+"generally unsuitable." If a lot or parcel is under forest assessment, it
+is presumed suitable if it is composed predominantly of soil capable
+of producing 20 cubic feet of wood fiber per acre per year. If a lot or
+parcel is under forest assessment, to be found compatible and not
+seriously interfere with forest uses on surrounding land it must not
+force a significant change in forest practices or significantly increase
+the cost of those practices on the surrounding land.
+3. Loss of tax deferral. Pursuant to ORS 215.236, a nonfarm dwelling on a lot or
+parcel in an Exclusive Farm Use zone that is or has been receiving special
+assessment may be approved only on the condition that before a building
+permit is issued the applicant must produce evidence from the County
+Assessor's office that the lot or parcel upon which the dwelling is proposed
+has been disqualified under ORS 308A.050 to 308A.128 or other special
+assessment under ORS 308A.315, 321.257 to 321.390, 321.700 to 321. 754 or
+321.805 to 321.855 and that any additional tax or penalty imposed by the
+County Assessor as a result of disqualification has been paid.
+H. Temporary hardship dwelling.
+HISTORY
+1. A temporary hardship dwelling listed in DCC 18.16.030 is allowed subject to
+DCC 18.116.090, and the requirements of this chapter.
+2. A temporary hardship dwelling approved under this section is not eligible for
+replacement under DCC 18.16.020(J).
+AdoptedbyOrd. PL-15on 11/111979
+Repealed & Reenacted by Ord. 91-02Q §1 on 5/29/1991
+Amended by Ord. 91-038 §§1 and 2 on 9/30/1991
+Amended by Ord. 92-065 §3 on 11125/1992
+Amended by Ord. 94-026 §1 on 5/1111994
+Amended by Ord. 95-007 §15 on 3/1/1995
+Amended by Ord. 98-030 §1 on 5/13/1998
+Amended by Ord. 98-033 §1 on 12/2/1998
+Amended by Ord. 2004-001 §2 on 7/14/2004
+Amended by Ord. 2004-013 §2 on 9/21/2004
+Amended by Ord. 2004-020 §1 on 10/13/2004
+Amended by Ord. 2008-001 §2 on 5/6/2008
+Amended by Ord. 2009-014 §1 on 6/22/2009
+Amended by Ord. 2012-007 §2 on 5/2/2012
+Amended by Ord. 2014-010 §1 on 4/28/2014
+Amended by Ord. 2018-006 §5 on 11/20/2018
+Amended by Ord. 2021-013 §4 on 4/5/2022
+Amended by Ord. 2025-002 §4 on 3/2812025
+Amended by Ord. 2025--005 §1 on 8/19/2025
+Amended bv Ord. 2026-006 §1 on 4/22/2026
+Exhibit B
+C_HAPTER :18.32 MULTIPLE USE AGRICULTURAL ZQJ'fE;_MUA
+18.32.01 0 Purpose
+18.32.020 _Uses Permitted Outright
+18.32.030 Conditional Uses Permitted
+18.32.035 DestinaJion Resorts
+18.32.040 Dimensional Standards
+18.32,050 Setbacks
+18.32.06-0 Ordinary High Water 1'1ark Setbacks
+J8.32.070 Rim rock Setback
+18.32.020 Uses Pen:nitted Outrigh:t
+The following uses and their accessory uses are permitted outright:
+A. Agricultural uses as defined in DCC Title 18.
+B. A single-unit dwelling, or a manufactured dwelling subject to DCC 18.116.070.
+C. Propagation or harvesting of a forest product.
+D. Class I and II road or street project subject to approval as part of a land partition,
+subdivision or subject to the standards and criteria established by DCC 18.116.230.
+E. Class Ill road or street project.
+F. Noncommercial horse stables, excluding horse events.
+G. Horse events, including associated structures, involving:
+1. Fewer than 10 riders;
+2. Ten to 25 riders, no more than two times per month on nonconsecutive days;
+or
+3. More than 25 riders, no more than two times per year on nonconsecutive
+days.
+Incidental musical programs are not included in this definition. Overnight
+stays by participants, trainers or spectators in RVs on the premises is not an
+incident of such horse events.
+H. Operation, maintenance, and piping of existing irrigation systems operated by an
+Irrigation District except as provided in DCC 18.120.050.
+I. Type 1 Home Occupation, subject to DCC 18.116.280.
+J. A historic accessory dwelling unit, subject to DCC 18.116.350.
+K. A residential accessory dwelling unit, subject to DCC 18.116.355.
+b. Resider,tial I lome.
+M;-=L.'--_A recreational vehicle as a rental dwelling, subject to DCC 18.116.095(D).
+N-:M. Temporary Hardship Dwelling, subject to DCC 18.116.090.
+HISTORY
+Adopted by Ord. E!.L:_15 on 1111119 79
+Amended by Ord. 91-002 §6 on 2/6/1991
+Amended by Ord. 9J:Q95 §18 on 3/4/1991
+Amended by Ord. 91:_020 §1 on 5/29/1991
+Amended by Ord. 9J�Q38 §1 on 9/30/1991
+Amended by Ord. 93-0QJ §1 on 1/27/1993
+Amended by Ord. 93-043 §4 on 8/2511993
+Amended by Ord. 94-QQE. §10 on 6/8/1994
+Amended by Ord. 2001-016 §2 on 3/28/2001
+Amended by Ord. 200J-039 §2 on 12/12/2001
+Amended by Ord. 2004-_QQ.2 §3 on 4/28/2004
+Amended by Ord. 2019-009 §1 on 9/3/2019
+Recorded by Ord. 2019-009 §1 on 9/3/2019
+Adopted by Ord. 2023-0t4 §1 on 12/1/2023
+Amended by Ord. 2024-008 §4 on 1/7/2025
+Amended by Ord. 2025-002 §6 on 3/28/2025
+Amended by Ord. 2025-004 §2 on 5/7/2025
+Amended by Ord. 2025-005 §2 on 8/19/2025
+Amended bv Ord. 2026-006 §2 on 4/22/2026
+Exhibit C
+CHAPTER 18.60 RURALRESIDENTIALZONE; RR-10
+18.60_._QJ 0 Purp_oses
+18.60.020 Uses Permitted Outright
+18.60.030 Conditional Uses Permitted
+18.60.035 Destination Resorts
+18.60.040 SetbackRequirements
+J 8.60.050 OrdinaryJ-ligh Water Mark Set_b_ac._ks
+18_._.60.060 Dimensional Standards
+18.60.070 Limitations On Conditional Uses
+18.60.080 Rimrock Setbacks
+18.60.090 Oregon Water Wonderland Unit 2 SeweIDistrict Limited Use CombiningZone
+18.60.020 !,l_s_es Permitted OutrigbJ
+The following uses and their accessory uses are permitted outright.
+A. A single-unit dwelling, or a manufactured dwelling subject to DCC 18.116.070.
+B. Utility facilities necessary to serve the area including energy facilities, water supply
+and treatment and sewage disposal and treatment.
+C. Community center, if shown and approved on the original plan or plat of the
+development.
+D. Agricultural use as defined in DCC Title 18.
+E. Class I and II road or street project subject to approval as part of a land partition,
+subdivision or subject to the standards and criteria established by DCC 18.116.230.
+F. Class Ill road or street project.
+G. Noncommercial horse stables as defined in DCC Title 18, excluding horse events.
+H. Horse events, including associated structures, involving:
+1. Fewer than 10 riders;
+2. Ten to 25 riders, no more than two times per month on nonconsecutive days;
+or
+3. More than 25 riders, no more than two times per year on nonconsecutive
+days. Incidental musical programs are not included in this definition.
+Overnight stays by participants, trainers or spectators in RVs on the premises
+is not an incident of such horse events.
+I. Operation, maintenance, and piping of existing irrigation systems operated by an
+Irrigation District except as provided in DCC 18.120.050.
+J. Type 1 Home Occupation, subject to DCC 18.116.280.
+K. A historic home accessory dwelling unit, subject to DCC 18.116.350.
+L. A residential accessory dwelling unit, subject to DCC 18.116.355.
+M;- Residential I lome.
+A recreational vehicle as rental dwelling, subject to 18.116.095(0).
+0:-N. Temporary Hardship Dwelling, subject to DCC 18.116.090.
+HISTORY
+Adopted by Ord. PL-15 on 11/1/1979
+Amended by Ord. 91-005 §§30 & 31 on 314/1991
+Amended by Ord. 9J-020 §1 on 5/29/1991
+Amended by Ord. 93::D43 §8 on 8/25/1993
+Amended by Ord. 94-008 §12 on 6/811994
+Amended by Ord. 2001-016 §2 on 3/28/2001
+Amended by Ord. 2001-Q33- §5 on 12/12/2001
+Amended by Ord. 2004-002 §7 on 4/28/2004
+Amended by Ord. 2.019-009 §2 on 9/3/2019
+Recorded by Ord. 2019-009 §2 on 9/3/2019
+Adopted by Ord. 2023-014 §2 on 12/112023
+Amended by Ord. 2024-008 §7 on 1/7/2025
+Amended by Ord. 2025-002 §12 on 3/28/2025
+Amended by Ord. 2025-004 §3 on 517/2025
+Amended by Ord. 2025-005 §5 on 8/19/2025
+Amended by_ Ord. 2026-006 §3 on 4/22/2026
+Exhibit D
+CHAPTER18.65 RURAL SE~BYICE CENTER; UNINCORPQ_BAIEDCQMMUNITY ZONE
+18.65.010 Purpose
+18.65,020 RSC� Commercial/Mixed Use District (Brothers, Hampton. Millican. Whistlestop
+And Wild hunt}
+J 8.65.021 Alfalfa RSC� Commercjal/Mixed U~se District
+J 8.65.022 Alfalfa RSC; Residential District
+18.65.023 RSC; Open Space Distric1
+18.65.030 Standards For All Districts
+18.65.020 RSC; Commercial/Mixed~Use District (Br9thers, Hampton, Millican,
+Whistlestoi;lAnd Wildhunt}
+A. Uses Permitted Outright. The following uses and their accessory uses are permitted
+outright, subject to applicable provisions of this chapter:
+1. A single-unit dwelling, or a manufactured dwelling, subject to DCC
+18.116.070.
+2. Type 1 Home Occupation, subject to DCC 18.116.280.
+3:- Residential home.
+A duplex.
+Agricultural uses, as defined in DCC Title 18, and excluding livestock
+feed lot or sales yard, and hog or mink farms.
+&.�5-� __ Class I and II road or street project subject to approval as part of a
+land partition, subdivision or subject to the standards and criteria
+established by DCC 18.116.230.
+�6. Class Ill road and street project.
+&.-7. Operation, maintenance, and piping of existing irrigation systems
+operated by an Irrigation District except as provided in DCC 18.120.050.
+9-:-8. Temporary Hardship Dwelling, subject to DCC 18.116.090.
+B. Uses Permitted Subject to Site Plan Review. The following uses and their accessory
+uses are permitted, subject to applicable provisions of this chapter, DCC 18.116,
+Supplementary Provisions, and DCC 18.124, Site Plan Review, of this title:
+1. Retail store, business office, and/or commercial establishment in a building
+or buildings each not exceeding 4,000 square feet of floor space. The
+aggregate area for any one type of use that takes place in multiple buildings
+may not exceed 4,000 square feet.
+2. A permitted commercial use in conjunction with a dwelling unit permitted
+outright or conditionally.
+3. Park or playground.
+4. Community building.
+5. Public or semipublic building or use.
+6. Highway maintenance facility.
+7. Marijuana wholesaling, office only. There shall be no storage of marijuana
+items or products at the same location.
+8. Religious institutions or assemblies.
+C. Conditional Uses Permitted. The following uses and their accessory uses are
+permitted subject to applicable provisions of this chapter, DCC 18.116,
+Supplementary Provisions, DCC 18.124, Site Plan Review, and DCC 18.128,
+Conditional Use, of this title:
+1. Multi-unit dwelling.
+2. School.
+3. Cemetery.
+4. Type 2 or Type 3 Home Occupation, subject to DCC 18.116.280.
+5. Medical clinic or veterinary clinic.
+6. Community Center.
+7. Manufactured dwelling park.
+8. Recreational vehicle or trailer park.
+9. Wireless telecommunications facilities, except those facilities meeting the
+requirements of DCC 18.116.250(A).
+10. Marijuana retailing, subject to the provisions of DCC 18.116.330.
+11. Psilocybin service centers, subject to the provisions of DCC 18.116.380.
+4-z.-Residential facility.
+D. Setback Requirements.
+1. The front setback shall be a minimum of 20 feet from a lot with street
+frontage on a local street right of way and 50 feet from a lot line with street
+frontage on an arterial right of way.
+2. The minimum side setback shall be 1 O feet.
+3. The minimum rear setback shall be 20 feet.
+4. The minimum side and rear setbacks for lot lines that are abutting land zoned
+exclusive farm use shall be 50 feet.
+E. Lot Requirements.
+1. General Standards:
+a. The minimum lot area in Brothers, Hampton, and Millican is 2.5 acres.
+b. Each lot or parcel shall have a minimum lot width of 200 feet.
+c. Each lot or parcel must be served by an on-site well.
+d. On-site sewage disposal. For new lots or parcels, an applicant shall
+demonstrate that the lot or parcel can meet DEQ on-site sewage
+disposal rules prior to final approval of a subdivision or partition.
+e. Lot coverage for dwelling units and related accessory buildings shall
+not exceed twenty-five (25) percent of the lot area. Lot coverage for
+structures used primarily for commercial purposes shall be
+determined by spatial requirements for sewage disposal,
+landscaping, parking, setbacks, and any other elements under site
+plan review.
+2. Commercial and Public Uses.
+a. The minimum lot area in Brothers, Hampton, Millican, Whistlestop,
+and Wildhunt for a commercial use served by an on-site septic
+system and individual well shall be the lot area necessary to
+accommodate the use.
+b. Each lot or parcel shall have a minimum lot width of 150 feet.
+HISTORY
+c. On-site sewage disposal. For new lots or parcels, an applicant shall
+demonstrate that the lot or parcel can meet DEQ on-site sewage
+disposal rules prior to final approval of a subdivision or partition.
+Adopted by Ord. 2002-002 §2 on 6/5/2002
+Amended by Ord. 2002::.02_8_ §1 on 7/24/2002
+Amended by Ord. 2004:002 §11 on 4/28/2004
+Amended by Ord. 2.1) 15-004 §2 on 4122/2015
+Amended by Ord. 2016-015 §4 on 7/1/2016
+Amended by Ord. 2018-006 §8 on 11/20/2018
+Amended by Ord. 2020-001 §6 on 4/2112020
+Amended by Ord. 2022-014 §2 on 4/412023
+Amended by Ord. 2024�008 §8 on 1/7/2025
+Amended by Ord. 2025-002 §14 on 3/28/2025
+Amended by Ord. 2025-005 §6 on 8/19/2025
+Amended bv O.ni. 2026-006 §4 on 4/2212026
+.:lS.65.021 Alfalfa B_SC; Commercial/Mixed Use District
+In Alfalfa, the following uses and their accessory uses are permitted:
+A. Uses Permitted Outright.
+1. A single-unit- dwelling, or a manufactured dwelling, subject to DCC
+18.116.070.
+2. Type 1 Home Occupation, subject to DCC 18.116.280.
+3-:- Residential hon1e.
+4:- Residential facility.
+5-:-_3_. __ A duplex.
+6-:-4. Agricultural uses, as defined in DCC Title 18, and excluding livestock
+feed lot or sales yard, and hog or mink farms.
+r.-=-5.'--__ Class I and II road or street project subject to approval as part of a
+land partition, subdivision or subject to the standards and criteria
+established by DCC 18.116.230.
+-8-:-=-6.'--__ Class Ill road and street project.
+9:-7. Operation, maintenance, and piping of existing irrigation systems
+operated by an Irrigation District except as provided in DCC 18.120.050.
+tB-:-_8. __ Temporary Hardship Dwelling, subject to DCC 18.116.090.
+B. Uses Permitted Subject to Site Plan Review. The following uses and their accessory
+uses are permitted, subject to applicable provisions of this chapter, DCC 18.116,
+Supplementary Provisions and DCC 18.124, Site Plan Review, of this title:
+1. Retail store, business office, and/or commercial establishment in a building
+or buildings each not exceeding 4,000 square feet of floor space. The
+aggregate area for any one type of use that takes place in multiple buildings
+may not exceed 4,000 square feet.
+2. A permitted commercial use in conjunction with a dwelling unit permitted
+outright or conditionally.
+3. Park or playground.
+4. Community building.
+5. Public or semipublic building or use.
+6. Marijuana wholesaling, office only. There shall be no storage of marijuana
+items or products ?t the same location.
+7. Religious institutions or assemblies.
+C. Conditional Uses Permitted. The following uses and their accessory uses are
+permitted subject to applicable provisions of this chapter, DCC 18.116,
+Supplementary Provisions, DCC 18.124, Site Plan Review, and DCC 18.128,
+Conditional Use, of this title:
+1. School.
+2. Cemetery.
+3. Type 2 or Type 3 Home Occupation, subject to DCC 18.116.280.
+4. Medical clinic or veterinary clinic.
+5. Community Center.
+6. Recreational vehicle or trailer park.
+7. Wireless telecommunications facilities, except those facilities meeting the
+requirements of DCC 18.116.250(A).
+8. Marijuana retailing, subject to the provisions of DCC 18.116.330.
+9. Psilocybin service centers, subject to the provisions of DCC 18.116.380.
+D. Setback Requirements.
+1. The front setback shall be a minimum of 20 feet from a lot line with street
+frontage on a local street right of way and 50 feet from a lot line with street
+frontage on an arterial right of way.
+2. The minimum side setback shall be 10 feet.
+3. The minimum rear setback shall be 20 feet.
+4. The minimum side and rear setbacks for property that is abutting land zoned
+exclusive farm use shall be 50 feet.
+E. Lot Requirements. The minimum lot area shall be the lot area necessary to
+accommodate the use, but not less than one acre.
+HISTORY
+Adopted by Ord. 2002-002 §2 on 6/5/2002
+Amended by Ord. 2018-006§8 on 11/20/2018
+Amended by Ord. 2021)-001 §6 on 4/2112020
+Amended by Ord. 2022-QJA §2 on 4/4/2023
+Amended by Ord. 2Q2_L!.-008 §8 on 1/7/2025
+Amended by Ord. 2025::_Q02 §14 on 3/28/2025
+Amended by Ord. 2025-:.0_Q5 §6 on 8/19/2025
+Amend�d by Ord. 2026-006 §4 on 4/22/2026
+18.65.022 Alfalfa RSC; Residential District
+A. Uses Permitted Outright. The following uses and their accessory uses are permitted
+outright, subject to the applicable provisions of this chapter:
+1. Agricultural uses, as defined in DCC Title 18, subject to the restrictions in
+DCC 18.65.021 (D), and excluding livestock feed lot or sales yard, and hog or
+mink farms.
+2. A single-unit dwelling, or a manufactured dwelling subject to DCC
+18.116.070.
+3. A duplex.
+4. Operation, maintenance, and piping of existing irrigation systems operated
+by an Irrigation District except as provided in DCC 18.120.050.
+5. Class I and II road or street project subject to approval as part of a land
+partition, subdivision or subject to the standards and criteria established by
+DCC 18.116.230.
+6. Class Ill road or street project.
+7. Type 1 Home Occupation, subject to DCC 18.116.280.
+& Residential home.
+Temporary Hardship Dwelling, subject to DCC 18.116.090.
+B. Uses Permitted Subject to Site Plan Review. The following uses and their accessory
+uses are permitted, subject to the applicable provisions of this chapter, DCC
+18.116, Supplementary Provisions, and DCC 18.124 Site Plan Review, of this title:
+1. Park or playground.
+2. Community building.
+3. Utility facility.
+4. Religious institutions or assemblies.
+5. Child care facility and/or preschool.
+C. Conditional Uses Permitted. The following uses and their accessory uses are
+permitted, subject to the applicable provisions of this chapter, DCC 18.116,
+Supplementary Provisions, DCC 18.124, Site Plan Review, and DCC 18.128,
+Conditional Use, of this title:
+1. Schools.
+2. Medical clinic or veterinary clinic.
+3. Type 2 or Type 3 Home Occupation, subject to DCC 18.116.280.
+4. Bed and breakfast inn.
+5. Public use.
+6. Wireless telecommunications facilities, except those facilities meeting the
+requirements of DCC 18.116.250(A) or (B).
+D. Setback Requirements.
+1. The front setback shall be a minimum of 20 feet from a lot line with street
+frontage on a local street right of way and 50 feet from a lot line with street
+frontage on an arterial right of way.
+2. The minimum side setback shall be 10 feet.
+3. The minimum rear setback shall be 20 feet.
+E. Lot Requirements.
+1. The minimum lot area is 5 acres.
+2. The minimum lot width shall be 200 feet.
+3. Each lot or parcel must be served by an on-site well.
+4. On-site sewage disposal. For new lots or parcels, an applicant shall
+demonstrate that the lot or parcel can meet DEQ on-site sewage disposal
+rules prior to final approval of a subdivision or partition.
+5. Lot coverage for dwelling units and related accessory structures shall not
+exceed twenty-five (25) percent of the total lot area. Lot coverage for
+structures used primarily for commercial purposes shall be determined by
+spatial requirements for sewage disposal, landscaping, parking, setbacks,
+and any other elements under site plan review.
+F. Limitations on uses - RSC-Residential District. The following limitation shall apply
+to uses permitted in the RSC - Residential District:
+HISTORY
+1. Cows, horses, goats, or sheep cannot be kept on lots or parcels having a lot
+area of less than 20,000 square feet. The total number of all such animals
+(other than their young under the age of six months) shall be limited to the lot
+area divided by 20,000 square feet, which is the minimum area required per
+animal.
+2. The number of chickens, fowl, or rabbits over the age of six months shall not
+exceed one for each 500 square feet of lot area.
+3. All livestock shall be located a minimum of 100 feet away from a dwelling
+unit on an abutting lot or parcel.
+Adopted by Ord. 2002�Qo2 §2 on 6/512002
+Amended by Ord. 2002:928 §1 on 7/24/2002
+Amended by Ord. 2004:_002 §12 on 4/28/2004
+Amended by Ord. 2020-001 §6 on 4/21/2020
+Amended by Ord. 2020-01 O §2 on 7/312020
+Amended by Ord. 2024-008 §8 on 1/7/2025
+Amended by Ord. 2025.-002 §14 on 3/28/2025
+Amended by Ord. 2025-Q0Ji §6 on 8/19/2025
+Amended by_QJd. 2026-006 §4 on 4/22/2026
+Exhibit E
+CHAPTER 18.66 TERREBONNE RURAL COMMUNITY ZONING DISTRICTS
+18.66.010 Purpose
+18.66.020 Resj_dential (Te.R)J2istrict
+18.66.030 Residential-5 8cre Minimum (TeR5lDistrict
+18.66.040 CommerciaL(JeC) District
+18.66.050 Commercial-Rural (TeCRLDlstrict
+18.66.060 Standards For_All Districts
+18.66.070 Right-Of-Way Development Standards
+18 .. 66.020 Residential {TeBLOlstrict
+The Terrebonne Residential District allows a mixture of dwelling types and densities suited
+to the level of available water and sewer facilities. The purpose of this district is to allow
+new residential development that is compatible with the rural character of the area.
+A. Permitted uses. The following uses and their accessory uses are permitted outright
+and do not require site plan review under DCC 18.124:
+1. A single-unit dwelling, or a manufactured dwelling subject to DCC
+18.116.070.
+2. A duplex.
+3. Type 1 Home Occupation, subject to DCC 18.116.280.
+4. Agricultural uses as defined in DCC 18.04, involving:
+a. Keeping of cows, horses, goats, sheep, or similar farm animals,
+provided that the total number of such animals over the age of six
+months is limited to the lot area divided by 20,000 square feet.
+b. Keeping of chickens, fowl, rabbits, or similar farm animals, provided
+that the total number of such animals over the age of six months does
+not exceed one for each 500 square feet of lot area.
+5. Class I and II road or street project subject to approval as part of a land
+partition, subdivision, or subject to the standards of DCC 18.66.070 and
+18.116.230.
+6. Class Ill road or street project.
+7. Operation, maintenance, and piping of existing irrigation systems operated
+by an Irrigation District except as provided in DCC 18.120.050.
+8-:- Residential 11or,,e.
+Temporary Hardship Dwelling, subject to 18.116.090.
+B. Uses Permitted Subject to Site Plan Review. The following uses and their accessory
+uses are permitted, subject to the applicable provisions of this chapter, DCC
+18.116, Supplementary Provisions, and DCC 18.124 Site Plan Review, of this title:
+1. Child care facility and/or preschool.
+C. Conditional Uses. The following uses and their accessory uses are permitted
+subject to the applicable provisions of DCC 18.66, 18.116, 18.124 and 18.128:
+1. Manufactured dwelling park.
+2. Multi-unit dwelling.
+3. Retirement center or nursing home.
+4. Religious institutions or assemblies.
+5. Type 2 or Type 3 Home Occupation, subject to DCC 18.116.280.
+6. Public or private school.
+7. Park.
+8. Public or semi-public building.
+9. Utility facility.
+1 O. Water supply or treatment facility.
+11. Veterinary clinic.
+12. Wireless telecommunications facilities, except those facilities meeting the
+requirements of DCC 18.116.250(A) or (B).
+13. Surface mining of mineral and aggregate resources in conjunction with the
+operation and maintenance of irrigation systems operated by an Irrigation
+District, including the excavation and mining for facilities, ponds, reservoirs,
+and the off-site use, storage, and sale of excavated material.
+44-.-Residential facility.
+D. Lot Area and Lot Width Requirements.
+1. Partitions:
+a. Subject to the provisions of DCC 17.36.170(A), parcels not served by
+an approved community, non-community or municipal water system
+and not served by a public sewer system, shall have a minimum lot
+width of 150 feet with a minimum lot area of one acre.
+b. Subject to DCC 17.36.170 parcels served by an approved community,
+non-community, municipal or public water system, but not served by
+an approved public sewer system, shall have minimum lot area as
+follows:
+1) For a single-unit dwelling, a parcel shall have a minimum lot
+width of 100 feet and a minimum lot area of 22,000 square
+feet.
+2) For a duplex, a parcel shall have a minimum lot width of 100
+feet and a minimum lot area of 33,000 square feet.
+c. For parcels served by an approved community, municipal, or public
+water and sewer system, the minimum parcel sizes shall be as
+follows:
+1) For a single-unit dwelling, the parcel shall have a lot minimum
+width of 75 feet and a minimum lot area of 7,500 square feet.
+2) For a duplex, the parcel shall have a minimum lot width of 75
+feet and a minimum lot area of 10,000 square feet.
+2. Subdivisions:
+a. For subdivisions involving multi-unit dwellings, a manufactured
+dwelling park, a retirement center or a nursing home, all new lots shall
+be connected to a DEQ permitted wastewater pollution control
+facility.
+b. For subdivisions involving only single-unit and duplexes the standards
+set forth in DCC 18.66.020(0)(1) shall apply.
+E. Setback Standards
+1. Front Setback. The front setback shall be 20 feet for a lot line with street
+frontage on a local street right-of-way, 30 feet for a lot line with street
+frontage on a collector right-of-way, and 80 feet for a lot line with street
+frontage on an arterial right-of-way ..
+HISTORY
+2. Side Setback. A side setback shall be a minimum of five feet and the sum of
+the side setbacks shall be a minimum of 15 feet, subject to DCC
+18.66.020(E)(4). Setback Standards.
+3. Rear Setback. The minimum rear setback shall be 20 feet, subject to DCC
+18.66.020(E)(4).
+4. Exception to Setback Standards. Any new structure requiring a building
+permit, on a lot or parcel abutting EFU-zoned land receiving special
+assessment for farm use, shall have a minimum setback of 100 feet from any
+shared lot line.
+5. In addition to the setbacks set forth herein, any greater setbacks required by
+applicable building or structural codes adopted by the State of Oregon
+and/or the County under DCC 15.04 shall be met.
+Adopted by Ord. 97:QQJ. §2 on 6/4/1997
+Amended by Ord. 97-063§3 on 11/12/1997
+Amended by Ord. 2004-002 §13 on 4/28/2004
+Amended by Ord. 2020-001 §7 on 4/2112020
+Amended by Ord. 2020:QJ O §3 on 7/3/2020
+Amended by Ord. 2024-008 §9 on 1/7/2025
+Amended by Ord. 2025.-002 §15 on 3/28/2025
+Amended by Ord. 2025-009 §5 on 71112025
+Amended by Ord. 2025-005 §7 on 8/19/2025
+Amended by Ord. 2026-006 §5 on 4/22/2026
+18.66.030_ Residential-5 Acre Minimum (TeH5) District
+The purpose of the Terrebonne Residential-5 Acre Minimum District is to retain large rural
+residential lots or parcels where community sewer and water are not available.
+A. Permitted Uses. The following uses and their accessory uses are permitted outright
+and do not require site plan review under DCC 18.124:
+1. A single-unit dwelling, or a manufactured dwelling subject to DCC
+18.116.070.
+2. A duplex.
+3. Type 1 Home Occupation, subject to DCC 18.116.280.
+4. Agricultural uses as defined in DCC 18.04, involving:
+a. Keeping of cows, horses, goats, sheep, or similar farm animals,
+provided that the total number of such animals over the age of six
+months is limited to the lot area divided by 20,000 square feet.
+b. Keeping of chickens, fowl, rabbits, or similar farm animals over the
+age of six months, provided that the total numbers of such animals
+does not exceed one for each 500 square feet of lot area.
+5. Class I and II road or street project subject to approval as part of a land
+partition, subdivision or subject to the standards of DCC 18.66.070 and
+18.116.230.
+6. Class Ill road or street project.
+7. Operation, maintenance, and piping of existing irrigation systems operated
+by an Irrigation District except as provided in DCC 18.120.050.
+&. Residential home.
+&.-=-8.'--__ Temporary Hardship Dwelling, subject to DCC 18.116.090.
+B. Uses Permitted Subject to Site Plan Review. The following uses and their accessory
+uses are permitted, subject to the applicable provisions of this chapter, DCC
+18.116, Supplementary Provisions, and DCC 18.124 Site Plan Review, of this title:
+1. Child care facility and/or preschool.
+C. Conditional Uses. The following uses and their accessory uses are permitted
+subject to the applicable provisions of DCC 18.116, 18.124, and 18.128:
+1. Manufactured dwelling park.
+2. Multi-unit dwelling.
+3. Retirement center or nursing home.
+4. Religious institutions or assemblies.
+5. Type 2 or Type 3 Home Occupation, subject to DCC 18.116.280.
+6. Public or private school.
+7. Park.
+8. Public or semi-public building.
+9. Utility facility.
+10. Water supply or treatment facility.
+11. Wireless telecommunications facilities, except those facilities meeting the
+requirements of DCC 18.116.250(A) or (B).
+12. Surface mining of mineral and aggregate resources in conjunction with the
+operation and maintenance of irrigation systems operated by an Irrigation
+District, including the excavation and mining for facilities, ponds, reservoirs,
+and the off-site use, storage, and sale of excavated material.
+4-3--.-Residential facility.
+D. Lot Area Requirements. The minimum lot area in the TeR5 District is five acres
+regardless of the availability of approved community, non-community, municipal, or
+public water system and public sewer system.
+E. Setback Standards.
+HISTORY
+1. Front Setback. The front setback shall be 20 feet for a lot line with street
+frontage on a local street right-of-way, 30 feet for a lot line with street
+frontage on a collector right-of-way, and 80 feet for a lot line with street
+frontage on an arterial right-of-way.
+2. Side Setback. A side setback shall be a minimum of five feet and the sum of
+the side setbacks shall be a minimum of 15 feet, subject to DCC
+18.66.030(E)(4).
+3. Rear Setback. The minimum rear setback shall be 20 feet, subject to DCC
+18.66.030(E)(4).
+4. Exception to Setback Standards. Any new structure requiring a building
+permit, on a lot or parcel abutting EFU-zoned land receiving special
+assessment for farm use, shall have a minimum setback of 100 feet from any
+shared lot line.
+5. In addition to the setbacks set forth herein, any greater setbacks required by
+applicable building or structural codes adopted by the State of Oregon
+and/or the County under DCC 15.04 of shall be met.
+Adopted by Ord. 97-003 §2 on 614/1997
+Amended by Ord. 97-063 §3 on 11/12/1997
+Amended by Ord. 2004-002 §14 on 4/28/2004
+Amended by Ord. 2020-001 §7 on 4/2112020
+Amended by Ord. 2020-010 §3 on 7/3/2020
+Amended by Ord. 2024-0Q8 §9 on 11712025
+Amended by Ord. 2025-002 §15 on 3/28/2025
+Amended by Ord. 2025-005 §7 on 8/19/2025
+Amended bv Ord. 2026-006 §5 on 4/22/2026
+lS.66.040 Commercial (TeC) District
+The Terrebonne Commercial District is intended to allow a range of commercial and limited
+industrial uses to serve the community and surrounding rural area.
+'A. Permitted Uses. The following uses and their accessory uses are permitted outright
+and do not require site plan review under DCC 18.124:
+1. A single-unit dwelling or duplex on a lot or parcel existing on June 4, 1997.
+2. A manufactured dwelling on a lot or parcel existing on June 4, 1997, subject
+to DCC 18.116.070.
+3. Type 1 Home Occupation, subject to DCC 18.116.280.
+4. Class I and II road or street project subject to approval as part of a land
+partition, subdivision, or subject to the standards of DCC 18.66.070 and
+18.116.230.
+5. Class Ill road or street project.
+6. Operation, maintenance, and piping of existing irrigation systems operated
+by an Irrigation District except as provided in DCC 18.120.050.
+=J-: Residential home on a lot or parcel existing on June 4, 1997.
+&.-7. Temporary Hardship Dwelling, subject to DCC 18.116.090.
+B. Uses Permitted Subject to Site Plan Review. The following uses and their accessory
+uses are permitted subject to the applicable provisions of DCC 18.66, 18.116, and
+18.1248:
+1. A building or buildings not exceeding 4,000 square feet of floor area to be
+used by any combination of the following uses:
+a. Retail or service business.
+b. Eating or drinking establishment.
+c. Offices.
+d. Veterinary clinic and kennel entirely within an enclosed building.
+e. A dwelling unit permitted outright or conditionally, in the same
+building as a use permitted by DCC 18.66.040(B)(1 ).
+f. Marijuana wholesaling, office only. There shall be no storage of
+marijuana items or products at the same location.
+2. Any of the uses allowed under DCC 18.66.040 proposing to occupy more
+than 4,000 square feet of floor area in a building or buildings, subject to
+provisions of DCC 18.66.040(E).
+3. Child care facility and/or preschool.
+C. Conditional Uses. The following uses and their accessory uses are permitted
+subject to the applicable provisions of DCC 18.66, 18.116, 18.124 and 18.128:
+1. Motel, with a maximum of 35 units, only if served by a community sewer
+system as defined in OAR 660-22-010(2).
+2. Recreational vehicle park.
+3. Religious institutions or assemblies.
+4. Type 2 or Type 3 Home Occupation, subject to DCC 18.116.280.
+5. Public or private school.
+6. Park.
+7. Public or semi-public building.
+8. Medical center in a building or buildings not exceeding 4,000 square feet of
+floor area.
+9. Utility facility.
+10. Water supply or treatment facility.
+11. Vehicle and trailer sales, service, repair. or rental in a building or buildings not
+exceeding 4,000 square feet of floor area.
+12. Uses listed below carried on in a building or buildings not exceeding 4,000
+square feet of floor area with no exterior displays or storage of industrial
+equipment, industrial vehicles or industrial products:
+a. Manufacturing and production.
+b. Wholesale sales.
+c. Mini-storage.
+13. Wireless telecommunications facilities, except those facilities meeting the
+requirements of DCC 18.116.250(A) or (B).
+14. Surface mining of mineral and aggregate resources in conjunction with the
+operation and maintenance of irrigation systems operated by an Irrigation
+District, including the excavation and mining for facilities, ponds, reservoirs,
+and the off-site use, storage, and sale of excavated material.
+15. Marijuana retailing, subject to the provisions of DCC 18.116.330.
+16. Psilocybin service centers, subject to the provisions of DCC 18.116.380.
+D. Use Limitations. The following use limitations shall apply to the uses listed in DCC
+18.66.040(B) and (C).
+1. Sewer and Water Requirements. Applicant must obtain approval for an on­
+site sewage disposal system, or if applicable, obtain a Department of
+Environmental Quality (DEQ) Waste Water Pollution Control Facility (WPCF)
+permit before approval or as condition of approval of the land use permit.
+2. The County shall notify the Terrebonne Domestic Water District of land use
+actions made under DCC 18.66.
+E. Requirements for Large Scale Uses.
+1. All uses listed in DCC 18.66.040(B) and 18.66.040(C)(12) may have a total
+building floor area exceeding 4,000 square feet if the Planning Director or
+Hearings Body finds:
+a. The use is intended to serve the community and surrounding rural
+area or the travel needs of people passing through the area;
+b. The use will primarily employ a work force from the community and
+surrounding rural area; and
+c. It is not practical to locate the use in a building or buildings with a
+floor area of 4,000 square feet or less.
+2. For purposes of DCC 18.66.040, the surrounding rural area includes the area
+described by the Terrebonne zip code, which extends south to the boundary
+of the Redmond zip code, west to the boundary of the Sisters zip code, east
+into Crook County to the boundary of the Prineville zip code and north into
+Jefferson County to include Crooked River Ranch.
+F. Design Standards.
+Ground Floor Windows. The following criteria for ground floor windows apply to all
+new commercial buildings in the TeC District except those containing uses listed in
+DCC 18.66.040(C){13). The provisions of DCC 18.124 also apply.
+1. The window area shall equal at least 50 percent of the length and 25 percent
+of the height of the ground level wall area. Ground level wall area includes all
+exterior wall area up to nine feet above the finished grade. The window
+requirement applies to the ground level of exterior building walls that abut
+sidewalks or roads.
+2. Required window areas shall be windows that allow views into either working
+areas, lobbies, pedestrian entrances or display windows.
+G. Lot Area Requirements. The minimum lot area is 10,000 square feet. In addition, the
+lot area requirements for this district will be determined by spatial requirements for
+on-site sewage disposal, required landscaped areas, and off-street parking.
+H. Lot Coverage. No lot coverage requirements, provided spatial requirements for
+parking, sewage disposal, and landscaping are satisfied.
+I. Setback Standards.
+1. Front Setbacks. The front setback shall be a maximum of 15 feet, except as
+otherwise allowed by DCC 18.124.070(0){3). The front setback for buildings
+may be reduced, but not increased, to the average building setback distance
+of buildings on abutting lots or parcels.
+2. Side Setback. No requirement, subject to DCC 18.66.040(1)(4).
+3. Rear Setback. No specific requirements, subject to DCC 18.66.040(1)(4).
+4. Exceptions to Setback Standards.
+HISTORY
+a. Lot lines abutting a residential district. Any new structure requiring a
+building permit, sited on a lot or parcel abutting a residential district,
+shall have a minimum setback of 15 feet from any shared lot line. The
+required setback shall be increased by one foot for each foot by which
+the structure height exceeds 20 feet.
+b. Lot lines abutting an EFU zone. Any new structure requiring a building
+permit, on a lot or parcel abutting EFU-zoned land receiving special
+assessment for farm use, shall have a minimum setback of 100 feet
+from any shared lot line.
+Adopted by Ord. 97-003 §2 on 6/4/1997
+Amended by Ord. 97-1263 §3 on 11/12/1997
+Amended by Ord. 2004-_002 §15 on 4/28/2004
+Amended by Ord. 2015::004 §3 on 4/22/2015
+Amended by Ord. 2016-015 §5 on 7/112016
+Amended by Ord. 2020-001 §7 on 4/21/2020
+Amended by Ord. 2020-:01Il §3 on 7/3/2020
+Amended by Ord. 2021-004 §3 on 5/27/2021
+Amended by Ord. 2022:_014 §3 on 4/4/2023
+Amended by Ord. 2024-1)08 §9 on 1/7/2025
+Amended by Ord. 2025-002 §15 on 3/28/2025
+Amended by Ord. 2025-005 §7 on 8/19/2025
+Amended .bx Ord. 2026-006 §5_on 4/22/2026
+18.66.05_0 Commercial"'.'Rural (TeCR) District
+The Terrebonne Commercial-Rural District allows a mix of commercial and industrial uses
+common to a farming community.
+A. Permitted Uses. The following uses and their accessory uses are permitted outright
+and do not require site plan review under DCC 18.124:
+1. A single-unit dwelling on a lot or parcel existing on June 4, 1997.
+2. A manufactured dwelling on a lot or parcel existing on June 4, 1997, subject
+to DCC 18.116.070.
+3. Type 1 Home Occupation, subject to DCC 18.116.280.
+4. Class I and II road or street project subject to approval as part of a land
+partition, subdivision or subject to the standards of DCC 18.66.070 and
+18.116.230.
+5. Class Ill road or street project.
+6. Operation, maintenance, and piping of existing irrigation systems operated
+by an Irrigation District except as provided in DCC 18.120.050.
+=J--; Residential home 011 a lot or parcel existi11g on June 4, 1997.
+&.-�7�. __ Temporary Hardship Dwelling, subject to DCC 18.116.090.
+B. Uses Permitted Subject to Site Plan Review. The following uses and their accessory
+uses are permitted subject to the applicable provisions of DCC 18.66, 18.116, and
+18.124:
+1. A building or buildings not exceeding 4,000 square feet of floor area to be
+occupied by any combination of the following uses:
+a. Retail or service business.
+b. Eating or drinking establishment.
+c. Office.
+d. A dwelling unit permitted outright or conditionally, in the same
+building as a use listed in DCC 18.66.050.
+e. Marijuana wholesaling, office only. There shall be no storage of
+marijuana items or products at the same location.
+2. Any of the uses listed under DCC 18.66.050(B) proposing to occupy more
+than 4,000 square feet of floor area in a building or buildings, subject to
+provisions of DCC 18.66.050(E).
+C. Conditional Uses. The following uses and their accessory uses are permitted
+subject to the applicable provisions of DCC 18.66, 18.116, 18.124 and 18.128:
+1. Religious institutions or assemblies.
+2. Type 2 or Type 3 Home Occupation, subject to DCC 18.116.280.
+3. Park.
+4. Public or semi-public building.
+5. Utility facility.
+6. Water supply or treatment facility.
+7. Vehicle and trailer sales, service, repair, and rental in a building or buildings
+not exceeding 4,000 square feet of floor area.
+8. Uses listed below carried on in a building or buildings not exceeding 10,000
+square feet of floor area to be occupied by any combination of the following
+uses:
+a. Manufacturing or production.
+b. Wholesale sales.
+c. Mini-storage.
+d. Truck terminal.
+e. Farm or contractor equipment storage, sales, service, or repair.
+f. Uses that require proximity to rural resources, as defined in OAR 660-
+04-022- (3)(a).
+9. Wireless telecommunications facilities, except those facilities meeting the
+requirements of DCC 18.116.250(A) or (B).
+10. Surface mining of mineral and aggregate resources in conjunction with the
+operation and maintenance of irrigation systems operated by an Irrigation
+District, including the excavation and mining for facilities, ponds, reservoirs,
+and the off-site use, storage, and sale of excavated material.
+11. Marijuana retailing, subject to the provisions of DCC 18.116.330.
+D. Use Limitations. The following use limitations shall apply to the uses listed in DCC
+18.66.050(8) and (C).
+1. Sewer and Water Requirements.
+a. Applicant must obtain approval for an on-site sewage disposal
+system, or if applicable, obtain a Department of Environmental
+Quality (DEQ) Waste Water Pollution Control Facility (WPCF) permit
+before approval or as condition of approval of the land use permit.
+b. The County shall notify the Terrebonne Domestic Water District of
+land use actions made under DCC 18.66.
+2. Compatibility.
+a. Any use on a lot or parcel abutting a residential district shall not emit
+odor, dust, fumes, glare, flashing lights, noise, or similar disturbances
+perceptible without instruments more than 200 feet in the direction of
+the affected residential lot or parcel.
+b. Any use expected to generate more than 50 truck-trailer, contractors
+and/or farm heavy equipment trips per day to and from the subject
+property shall not locate on a lot or parcel abutting or across a local or
+collector street from a lot or parcel in a residential district.
+c. No use shall be permitted that has been declared a nuisance by state
+statute, County ordinance, or a court of competent jurisdiction.
+d. No use requiring an air containment discharge permit shall be
+approved by the Planning Director or Hearings Body before review by
+the applicable state or federal permit-reviewing authority. Such uses
+shall not be located abutting or across a local or collector street from
+a lot or parcel in a residential district.
+3. Traffic and Parking.
+a. A use that generates more than 20 auto or truck trips during the peak
+hour of the day to and from the premises shall document with facts
+that the affected transportation facilities are adequate to serve the
+proposed use, considering the functional classification, capacity, and
+level of service of the affected transportation facility.
+b. All parking demand generated by uses permitted by DCC 18.66 shall
+be accommodated entirely on the premises.
+c. Site design shall not require backing of traffic onto a public or private
+road right-of-way.
+4. Additional Requirements. As a condition of approval of any use proposed,
+the Planning Director or Hearings Body may require:
+a. An increased setback requirement.
+b. Additional off-street parking and loading facilities.
+c. Limitations on signs, lighting, hours of operation, and points of ingress
+and egress.
+d. Additional landscaped buffering and screening improvements.
+E. Requirements for Large Scale Uses.
+1. All uses listed in DCC 18.66.050(B) may be allowed to occupy a floor area
+exceeding 4,000 square feet if the Planning Director or Hearings Body finds:
+a. The use is intended to serve the community and surrounding rural
+area, or the traveling needs of people passing through the area;
+b. The use will primarily employ a work force from the community and
+surrounding rural area; and
+c. It is not practical to contain the proposed use within 4,000 square feet
+of floor area.
+2. This provision does not apply to uses listed in DCC 18.66.050(C)(8).
+3. For purposes of DCC 18.66.050(E), the surrounding rural area described by
+the Terrebonne zip code, which extends south to the boundary of the
+Redmond zip code, west to the boundary of the Sisters zip code, east into
+Crook County to the boundary of the Prineville zip code, and north into
+Jefferson County to include Crooked River Ranch.
+F. Design Standards. Ground Floor Windows. The following criteria for ground floor
+windows apply to all new commercial buildings in the TeCR District except those
+containing uses listed in DCC 18.66.050(C)(8). The provisions of DCC 18.124 also
+apply.
+1. The window area shall be at least 50 percent of the length of the ground level
+wall area and 25 percent of height of the ground level wall area. Ground level
+wall area includes all exterior wall area up to nine feet above the finished
+grade. The window requirement applies to the ground level of exterior
+building walls that abut sidewalks or roads.
+2. Required window areas shall be windows that allow views into either working
+areas, lobbies, pedestrian entrances or display windows.
+G. Lot Area Requirements. The minimum lot area is 10,000 square feet. In addition, lot
+area requirements for this district shall be determined by spatial requirements for
+sewage disposal, required landscaped areas, and off-street parking.
+H. Lot Coverage Standards.
+1. Lot Coverage: No lot coverage requirements, provided spatial requirements
+for parking, sewage disposal, and landscaping are satisfied.
+2. No use listed in DCC 18.66.050(C)(8) that is located abutting or across a
+local or collector road from a lot or parcel in a residential district shall
+exceed 70 percent lot coverage, including outside storage, and off-street
+parking and loading areas.
+I. Setback Standards.
+HISTORY
+1. Front Setback. The front setback shall be a maximum of 15 feet, except as
+otherwise allowed by DCC 18.124.070(D)(3)(b). The front setback for
+structures may be reduced, but not increased, to the average building
+setback distance of existing structures on abutting lots or parcels.
+2. Side Setback. No requirement, subject to DCC 18.66.050(1)(4).
+3. Rear Setback. No specific requirement, subject to DCC 18.66.050(1)(4).
+4. Exceptions to Setback Standards.
+a. Lot line abutting a residential zone. For all new structures requiring a
+building permit on a lot or parcel abutting a residential district, the
+setback shall be a minimum of 15 feet from any shared lot line. The
+required setback will be increased by one foot for each foot by which
+the new structure height exceeds 20 feet.
+b. Lot line abutting an EFU zone. Any structure requiring a building
+permit on a lot or parcel abutting EFU-zoned land receiving special
+assessment for farm use, shall have a minimum setback of 100 feet
+from any shared lot line.
+Adopted by Ord. 97�Q03 §2 on 6/4/1997
+Amended by Ord. 2001-016 §2 on 3/28/2001
+Amended by Ord. 20Q1-039 §7 on 12/12/2001
+Amended by Ord. 2004-002 §16 on 4/28/2004
+Amended by Ord. 2015-004 §4 on 4/22/2015
+Amended by Ord. 2016-015 §5 on 7/1/2016
+Amended by Ord. 2020-001 §7 on 4/2112020
+Amended by Ord. 2021-004 §3 on 5/27/2021
+Amended by Ord. 2024-008 §9 on 117/2025
+Amended by Ord. 2025-Q02 §15 on 3/28/2025
+Amended by Ord. 2025-005 §7 on 8/19/2025
+Amended by Ord. 2026-006 §5 on 4/22/2026
+Exhibit F
+CHAPTER 18.67 TUMALO RURAL COMMUNITY ZONING DISTRICTS
+18.67.010 Purpose
+18.67.020 ResidentiaJJTuR) District
+18.67,030 Residential-5 AcreJ':1inimum (TuR5) District
+18.67.040 Commercial (Tuq District
+18.67.050 Research And Development (TuRE)District
+18.67.060 Industrial (Tul) District
+J_8.67.070 Flood Plain (TuFP) District
+18.67.080 Standards For All Districts
+18.67.090 Right-Of-Way Development Standards
+18.67.020 Residential (TuRJ_District
+The Tumalo Residential (TuR) District allows a mixture of housing types and densities
+suited to the level of available water and sewer facilities. The purpose of this district is to
+allow new residential development that is compatible with the rural character of the area.
+A. Permitted Uses. The following uses and their accessory uses are permitted outright
+and do not require site plan review under DCC 18.124.
+1. A single-unit dwelling, or a manufactured dwelling subject to DCC
+18.116.070.
+2. A duplex.
+3. Type 1 Home Occupation, subject to DCC 18.116.280.
+4. Agricultural uses as defined in DCC Title 18, involving:
+a. Keeping of cows, horses, goats, sheep, or similar farm animals,
+provided that the total number of such animals over the age of six
+months is limited to the lot area divided by 20,000 square feet.
+b. Keeping of chickens, fowl, rabbits, or similar farm animals, provided
+that the total number of such animals over the age of six months does
+not exceed one for each 500 square feet of lot area.
+5. Class I and II road or street project subject to approval as part of a land
+partition, subdivision, or subject to the standards of DCC 18.67.080 and
+18.116.230.
+6. Class Ill road or street project.
+7. Operation, maintenance, and piping of existing irrigation systems operated
+by an Irrigation District except as provided in DCC 18.120.050.
+8-:- Residential home.
+Temporary Hardship Dwelling, subject to DCC 18.116.090.
+B. Uses Permitted Subject to Site Plan Review. The following uses and their accessory
+uses are permitted, subject to the applicable provisions of this chapter, DCC
+18.116, Supplementary Provisions, and DCC 18.124 Site Plan Review, of this title:
+1. Child care facility and/or preschool.
+C. Conditional Uses. The following uses and their accessory uses are permitted
+subject to the applicable provisions of DCC 18.67, 18.116, 18.124, and 18.128:
+1. Multi-unit dwelling.
+2. Retirement center or nursing home.
+3. Religious institutions or assemblies.
+4. Cemetery.
+5. Type 2 or Type 3 Home Occupation, subject to DCC 18.116.280.
+6. Public or private school.
+7. Park.
+8. Public or semi-public building.
+9. Utility facility.
+10. Water supply or treatment facility.
+11. Wireless telecommunications facilities, except those facilities meeting the
+requirements of DCC 18.116.250(A) or (B).
+12. Surface mining of mineral and aggregate resources in conjunction with the
+operation and maintenance of irrigation systems operated by an Irrigation
+District, including the excavation and mining for facilities, ponds, reservoirs,
+and the off-site use, storage, and sale of excavated material.
+t-3-.-Residential facility.
+D. Lot Area and Lot Width Requirements.
+1. Partitions:
+a. Subject to the provisions of DCC 17.36.170(A), parcels not served by
+an approved community, non-community, or municipal water system
+shall have a minimum lot width of 150 feet with a minimum lot area of
+one acre.
+b. Subject to DCC 17.36.170(A), parcels served by an approved
+community, non-community, municipal, or public water system, shall
+have a minimum lot area as follows:
+1) For a single-unit dwelling the parcel shall have a minimum lot
+width of 100 feet and a minimum lot area of 22,000 square
+feet.
+2) For a duplex the parcel shall have a minimum lot width of 100
+feet and a minimum lot area of 33,000 square feet.
+2. Subdivisions:
+a. For subdivisions involving multi-unit dwellings, a manufactured
+dwelling park, or a retirement home, all new lots shall be connected
+to a DEQ-permitted Wastewater Pollution Control Facility.
+b. For subdivisions involving only single-unit dwellings or duplexes the
+standards set forth in DCC 18.67 .020(D)(1) shall apply.
+E. Setback Standards.
+1. Front Setback. The front setback shall be 20 feet for a lot line with street
+frontage on a local street right-of-way, 30 feet for a lot line with street
+frontage on a collector right-of-way, and 80 feet for a lot line with street
+frontage on an arterial right-of-way.
+2. Side Setback. A side setback shall be a minimum of five feet and the sum of
+the side setbacks shall be a minimum of 15 feet, subject to DCC
+18.67.020(E)(4).
+3. Rear Setback. The minimum rear setback shall be 20 feet, subject to DCC
+18.67.020(E)(4).
+4. Exception to Setback Standards. Any new structure requiring a building
+permit, on a lot or parcel abutting EFU-zoned land receiving special
+HISTORY
+assessment for farm use, shall have a minimum setback of 100 feet from any
+shared lot line.
+Adopted by Ord. Jl]-033 §2 on 6/25/1997
+Amended by Ord. 97-063 §3 on 11/12/1997
+Amended by Ord. 2001-016 §2 on 3/28/2001
+Amended by Ord. 2001-_Q39 §8 on 12/12/2001
+Amended by Ord. 2004-002 §17 on 4/28/2004
+Amended by Ord. 2020-001 §8 on 4/21/2020
+Amended by Ord. 2020-010 §4 on 7/3/2020
+Amended by Ord. 2021:::_013 §8 on 415/2022
+Amended by Ord. 2024-008 §1 O on 117/2025
+Amended by Ord. 2025�002 §16 on 3/28/2025
+Amended by Ord. 2025-005 §8 on 8/19/2025
+Ame_aded bx__QLd. 2026-006 §6 onAL22/2026
+18�_67 .030 Residential-5 Acre Minimum (TYR5J District
+The purpose of the Tuma lo Residential-5 Acre Minimum District is to retain large rural
+residential lots or parcels.
+A. Permitted Uses. The following uses and their accessory uses are permitted outright
+and do not require site plan review under DCC 18.124.
+1. A single-unit dwelling, or a manufactured dwelling subject to DCC
+18.116.070.
+2. Type 1 Home Occupation, subject to DCC 18.116.280.
+3. Agricultural uses as defined in DCC 18.04, involving:
+a. Keeping of cows, horses, goats, sheep, or similar farm animals,
+provided that the total numbers of such animals over the age of six
+months is limited to the lot area divided by 20,000 square feet.
+b. Keeping of chickens, fowl, rabbits, or similar farm animals over the
+age of six months, provided that the total numbers of such animals
+does not exceed one for each 500 square feet of lot area.
+4. Class I and II road or street project subject to approval as part of a land
+partition, subdivision, or subject to the standards of DCC 18.67.080 and
+18.116.230.
+5. Class Ill road or street project.
+6. Operation, maintenance, and piping of existing irrigation systems operated
+by an Irrigation District except as provided in DCC 18.120.050.
+� Residential home.
+-&:-7. Temporary Hardship Dwelling, subject to DCC 18.116.090.
+B. Uses Permitted Subject to Site Plan Review. The following uses and their accessory
+uses are permitted, subject to the applicable provisions of this chapter, DCC
+18.116, Supplementary Provisions, and DCC 18.124, Site Plan Review, of this title:
+1. Child care facility and/or preschool.
+C. Conditional Uses. The following uses and their accessory uses are permitted
+subject to the applicable provisions of DCC 18.116, 18.124, and 18.128:
+1. Religious institutions or assemblies.
+2. Type 2 or Type 3 Home Occupation, subject to DCC 18.116.280.
+3. Public or private school.
+4. Park.
+5. Public or semi-public building.
+6. Utility facility.
+7. Water supply or treatment facility.
+8. Wireless telecommunications facilities, except those facilities meeting the
+requirements of DCC 18.116.250(A) or (B).
+9. Surface mining of mineral and aggregate resources in conjunction with the
+operation and maintenance of irrigation systems operated by an Irrigation
+District, including the excavation and mining for facilities, ponds, reservoirs,
+and the off-site use, storage, and sale of excavated material.
+D. Lot Area Requirements. The minimum lot area is five acres.
+E. Setback Standards.
+HISTORY
+1. Front Setback. The front setback shall be 20 feet for a lot line with street
+frontage on a local street right-of-way, 30 feet for a lot line with street
+frontage on a collector right-of-way, and 80 feet for a lot line with street
+frontage on an arterial right-of-way.
+2. Side Setback. A side setback shall be a minimum of five feet and the sum of
+the side setbacks shall be a minimum of 15 feet, subject to DCC
+18.67 .030(E)(4).
+3. Rear Setback. The minimum rear setback shall be 20 feet, subject to DCC
+18.67.030(E)(4).
+4. Exception to Setback Standards. Any new structure requiring a building
+permit, on a lot or parcel abutting EFU-zoned land receiving special
+assessment for farm use, shall have a minimum setback of 100 feet from any
+shared lot line.
+Adopted by Ord. 97-033 §2 on 6/25/1997
+Amended by Ord. 97-0_63 §3 on 11/12/1997
+Amended by Ord. 2000-033 §11 on 12/6/2000
+Amended by Ord. 2001-016 §2 on 3/28/2001
+Amended by Ord. 2001:039 §8 on 12/12/2001
+Amended by Ord. 2004-002 §18 on 4/28/2004
+Amended by Ord. 2020-001 §8 on 4/21/2020
+Amended by Ord. 2020-010 §4 on 7/3/2020
+Amended by Ord. 2024-008 §10 on 1/7/2025
+Amended by Ord. 2025-002 §16 on 3/28/2025
+Amended by Ord. 2025-005 §8 on 8/19/2025
+Amended by Ord. 2026-006 §6 on 4/22/2026
+18.67.040 Commercial (TuC) District
+The Tumalo Commercial District is intended to allow a range of limited commercial and
+industrial uses to serve the community and surrounding area.
+A. Permitted Uses. The following uses and their accessory uses are permitted outright
+and do not require site plan review under DCC 18.124.
+1. A single-unit dwelling or duplex.
+2. A manufactured dwelling subject to DCC 18.116.070.
+3. Type 1 Home Occupation, subject to DCC 18.116.280.
+4. Class I and II road or street project subject to approval as part of a land
+partition, subdivision, or subject to the standards of DCC 18.67.060 and
+18.116.230.
+5. Class Ill road or street project.
+6. Operation, maintenance, and piping of existing irrigation systems operated
+by an Irrigation District except as provided in DCC 18.120.050.
+':J-: Residential home.
+&.-�7 . ___ Temporary Hardship Dwelling, subject to DCC 18.116.090.
+B. Uses Permitted, Subject to Site Plan Review. The following uses and their accessory
+uses are permitted subject to the applicable provisions of DCC 18.67, 18.116, and
+18.124:
+1. A building or buildings, none of which exceeds 4,000 square feet of floor area
+to be used by any combination of the following uses:
+a. Retail or service business.
+b. Eating and/or drinking establishment.
+c. Offices.
+d. A dwelling unit permitted outright or conditionally, in the same
+building as a use permitted in DCC 18.67.040.
+e. Marijuana wholesaling, office only. There shall be no storage of
+marijuana items or products at the same location.
+2. Any of the uses listed under DCC 18.67.040 proposing to occupy more than
+4,000 square feet of floor area in a building subject to the provisions of DCC
+18.67.040(E).
+3. Child care facility and/or preschool.
+C. Conditional Uses. The following uses and their accessory uses are permitted
+subject to the applicable provisions of DCC 18.116, 18.124, and 18.128:
+1. Religious institutions or assemblies.
+2. Bed and breakfast inn.
+3. Type 2 or Type 3 Home Occupation, subject to DCC 18.116.280.
+4. Park.
+5. Public or semi-public building.
+6. Utility facility.
+7. Water supply or treatment facility.
+8. Manufactured dwelling/RV park on a lot or parcel in use as a manufactured
+dwelling park or recreational vehicle park prior to the adoption of PL-15 in
+1979 and being operated as of June 12, 1996, as a manufactured dwelling
+park or recreational vehicle park, including any expansion of such uses on
+the same lot or parcel as configured on June 12, 1996.
+9. The following uses and their accessory uses may be conducted in a building
+or buildings not to exceed 4,000 square feet of floor area.
+a. Farm equipment, sales, service, or repair.
+b. Trailer sales, service, or repair.
+c. Vehicle service or repair.
+d. Veterinary clinic.
+10. The following uses may be conducted in a building or buildings not to exceed
+10,000 square feet of floor area:
+a. Manufacturing or production.
+b. Wholesale sales.
+c. Marijuana retailing, subject to the provisions of DCC 18.116.330.
+11. Wireless telecommunications facilities, except those facilities meeting the
+requirements of DCC 18.116.250(A) or (B).
+12. Surface mining of mineral and aggregate resources in conjunction with the
+operation and maintenance of irrigation systems operated by an Irrigation
+District, including the excavation and mining for facilities, ponds, reservoirs,
+and the off-site use, storage, and sale of excavated material.
+13. Psilocybin service centers, subject to the provisions of DCC 18.116.380.
+D. Use Limitations. The following use limitations shall apply to the uses listed in DCC
+18.67 .040(C)(10).
+1. Compatibility.
+a. Any use expected to generate more than 50 truck-trailer and/or heavy
+equipment trips per day to and from the subject property shall not be
+permitted to locate on a lot or parcel abutting or across a local or
+collector street from a lot or parcel in a residential district.
+2. Traffic and Parking.
+a. A use that generates more than 20 auto or truck trips during the peak
+hour of the day to and from the premises shall document with facts
+that the affected transportation facilities are adequate to serve the
+proposed use, considering the functional classification, capacity, and
+level of service of the affected transportation facility.
+b. All parking demand generated by uses permitted by DCC 18.67 shall
+be accommodated entirely on the premises.
+E. Requirements for Large Scale Uses.
+1. All uses listed in DCC 18.67.040(B) may have a total floor area exceeding
+4,000 square feet but not greater than 10,000 square feet if the Planning
+Director or Hearings Body finds:
+a. The use is intended to serve the community and surrounding rural
+area, or the traveling needs of people passing through the area;
+b. The use will primarily employ a work force from the community and
+surrounding rural area; and
+c. It is not practical to contain the proposed use within 4,000 square feet
+of the floor area.
+2. This provision does not apply to uses listed in DCC 18.67.040(C)(10).
+3. For the purposes of DCC 18.67.040, the surrounding rural area is described
+as the following: extending north to the Township boundary between
+Townships 15 and 16; extending west to the boundary of the public lands
+managed by the U.S. Forest Service in T16S-R11 E; extending south to the
+south section lines of T17S-R12E sections 4,5,6 and T17S-R11 E sections
+1,2,3; and extending east to Highway 97.
+F. Design Standards. Ground Floor Windows. The following criteria for ground floor
+windows apply to new buildings in the TuC district except those uses listed in DCC
+18.67 .040(C)(10) and any residential use. The provisions of DCC 18.124 also apply.
+1. The windows must be at least 50 percent of the length of the ground level
+wall area and 25 percent of height of the ground level wall area. Ground level
+wall area includes all exterior wall area up to nine feet above the finished
+grade. The window requirement applies to the ground level of exterior
+building walls which abut sidewalks or streets.
+2. Required window areas shall be either windows that allow views into working
+areas, lobbies, pedestrian entrances or display windows.
+G. Lot Area Requirements. The minimum lot area is 10,000 square feet. In addition, lot
+area requirements for this district shall be determined by spatial requirements for
+sewage disposal, required landscaped areas, and off-street parking.
+H. Lot Coverage Standards.
+1. Lot Coverage: No lot coverage requirements, provided spatial requirements
+for parking, sewage disposal, and landscaping are satisfied.
+2. No use listed in DCC 18.67.040(C)(10) that is abutting or across a local or
+collector from a lot or parcel in a residential district shall exceed 70 percent
+lot coverage, including outside storage, and off-street parking and loading
+areas.
+I. Setback Standards.
+1. Front Setback. The front setback shall be a maximum of 15 feet, except as
+otherwise allowed by DCC 18.124.070 (0)(3). The front setback for structures
+may be reduced, but not increased, to the average setback distance of
+existing structures on abutting lots or parcels.
+2. Side Setback. No requirement, subject to DCC 18.67.040(1)(4).
+3. Rear Setback. No specific requirement, subject to DCC 18.67.040 (1)(4).
+4. Exceptions to Setback Standards.
+a. Lot line(s) abutting a residential zone. For all new structures or
+substantial alterations of a structure requiring a building permit, on a
+lot or parcel abutting a residential district, the setback shall be a
+HISTORY
+minimum of 15 feet. The required setback will be increased by one
+foot for each foot by which the structure height exceeds 20 feet.
+b. Lot line(s) abutting an EFU zone. Any structure requiring a building
+permit, on a lot or parcel abutting EFU-zoned land receiving special
+assessment for farm use, shall have a minimum setback of 100 feet
+from any shared lot line.
+Adopted by Ord. 9.Z::033 §2 on 6/25/1997
+Amended by Ord. 97-063 §3 on 11/12/1997
+Amended by Ord. 2000:033 §11 on 12/6/2000
+Amended by Ord. 2001-016 §2 on 3/28/2001
+Amended by Ord. 2001-039_ §8 on 12/12/2001
+Amended by Ord. 2004-0Q2 §19 on 4/28/2004
+Amended by Ord. 20QA-0 13 §7 on 9/2112004
+Amended by Ord. 2015:::004 §5 on 4/22/2015
+Amended by Ord. 2016-0J15_§6 on 7/1/2016
+Amended by Ord. 2020-001 §8 on 4/21/2020
+Amended by Ord. 2020-010 §4 on 7/3/2020
+Amended by Ord. 2021-004 §4 on 5/27/2021
+Amended by Ord. 2021-013 §8 on 4/5/2022
+Amended by Ord. 2022::D 14 §4 on 4/4/2023
+Amended by Ord. 2Q24-008 §10 on 1/7/2025
+Amended by Ord. 2025-002 §16 on 3/28/2025
+Amended by Ord. 2025�005 §8 on 8/19/2025
+Amended bv Qrd. 2026-006 §6 on 4/22/2026
+Exhibit G
+CHAPTER 18.74 RURAL COMMERCIAL ZONE
+18.74.010 Purpose
+18.,.74.020 Uses Permitted_; Descbutes Junction And Deschutes RJ�r_\[1/oods Store
+18.74.025 Uses Permitte_d: Spring River
+18.74.027 Uses Permitted: Pine forest And_Ho_sland
+18. 7 4.030 De\lelopment Standards
+18.74.050 Maps
+18.74.020 Uses Pei:mitted;_Deschutes Junction And Deschutes River Woods Store
+A. Uses Permitted Outright. The following uses and their accessory uses are permitted
+outright and do not require site plan review under DCC 18.124:
+1. A single-unit dwelling.
+2. A manufactured dwelling subject to DCC 18. 116.070.
+3. A duplex.
+4. Type 1 Home Occupation, subject to DCC 18. 1 16. 280.
+5. Agricultural uses.
+6. Class I and II road or street project subject to approval as part of a land
+partition or subdivision, or subject to the standards and criteria established
+in DCC 18.116.230.
+7. Class Ill road or street project.
+8. A lawfully established use existing as of 11/05/2002, the date this chapter
+was adopted, not otherwise permitted by this chapter.
+97 Residential home.
+-'Kr.-"-9.�_Temporary Hardship Dwelling, subject to DCC 18.116.090.
+B. Uses Permitted Subject to Site Plan Review. The following uses and their accessory
+uses are permitted subject to the applicable provisions of this chapter and DCC
+18.116 and 18.124:
+1. A building or buildings not exceeding 2,500 square feet of floor area to be
+used by any combination of the following uses.
+a. Restaurant, cafe, or delicatessen.
+b. Grocery store.
+c. Tavern.
+d. Retail sporting goods and guide services.
+e. Barber and beauty shop.
+f. General store.
+g. Video store.
+h. Antique, art, craft, novelty, and second hand sales if conducted
+completely within an enclosed building.
+2. Expansion of a nonconforming use listed under section 8(1 )(a-h), existing as
+of 11/05/2002, the date this chapter was adopted, shall be limited to 2,500
+square feet of floor area or 25 percent of the floor area of the building as of
+said date, whichever is greater.
+3. A building or buildings not exceeding 3,500 square feet of floor area to be
+used by any combination of the following uses.
+a. Retail sales of agricultural or farm products.
+b. Farm machinery sales and repair.
+c. Kennel.
+d. Veterinary clinic.
+e. Automobile service station and repair garage, towing service, fuel
+storage, and sales.
+f. Public or semi-public use.
+g. A dwelling unit permitted outright or conditionally, in the same
+building as a use permitted by this chapter.
+h. Park or playground.
+4. Expansion of a nonconforming use listed under section B(3)(a-h), existing as
+of 11/05/2002, the date this chapter was adopted, shall be limited to 3,500
+square feet of floor area or 25 percent of the floor area of the building as of
+said date, whichever is greater.
+C. Uses Permitted Subject to Site Plan Review. The following uses and their accessory
+uses are permitted, subject to the applicable provisions of this chapter, DCC
+18.116, Supplementary Provisions, and DCC 18.124, Site Plan Review, of this title:
+1. Child care facility and/or preschool.
+D. Conditional Uses. The following uses and their accessory uses are permitted
+subject to the applicable provisions of this chapter and DCC 18.116, 18.124, and
+18.128:
+HISTORY
+1. A building or buildings not exceeding 3,500 square feet of floor area to be
+used by any combination of the following uses.
+a. Type 2 or Type 3 Home Occupation, subject to DCC 18.116.280.
+b. Utility facility.
+c. Wireless telecommunications facilities, except those facilities
+meeting the requirements of DCC 18.116.250(A) or (B).
+d. Religious institutions or assemblies.
+e. School.
+2. Recreational vehicle park
+3. Mini-storage facilities limited to 35,000 square feet in size.
+4. Marijuana retailing, subject to the provisions of DCC 18.116.330.
+5. Psilocybin service centers, subject to the provisions of DCC 18.116.380.
+Adopted by Ord. 2002-019 §2 on 8/7/2002
+Amended by Ord. 2004-002 §20 on 4/28/2004
+Amended by Ord. 2Q_Q8.-008 §1 on 3/18/2008
+Amended by Ord. 2015:Q04 §7 on 4/22/2015
+Amended by Ord. 201fi-015 §7 on 711/2016
+Amended by Ord. 2020-001 §9 on 4/21/2020
+Amended by Ord. 2020-010 §5 on 7/312020
+Amended by Ord. 2021-013 §9 on 415/2022
+Amended by Ord. 2022-014 §5 on 414/2023
+Amended by Ord. 2024-008 §11 on 1/7/2025
+Amended by Ord. 2025-002 §17 on 3/28/2025
+Amended by Ord. 2025-005 §9 on 8/19/2025
+Amended by Ord. 2026-006 §7 on 4/22/2026
+Exhibit H
+CHAPTER 18.108 URBAN UNINCORPORATED COMMUNITY ZONE; SUNRIVER
+18.108.010 Purpose
+18.108.020 Standards For All Districts
+18.108.030 Single Unit Residential; RS District
+18.108.040 Multiple Unit Residential; RM District
+18.108.050 Commercial; C District
+18.108.055 Town Center; TC District
+18.108.060 Resort; R District
+18.108.070 Resort Marina; RA District
+18.108.080 Resort Golf Cou_rse; RG District
+18.108.090 Resort Equestrian; RE District
+18.108.100 Resort Nature Center; RN District
+18.108.110 Business Park; BP District
+18.108.120 Community General; CG District
+18.108.130 Community Recreation; CRDistrict
+18.108.140 Community Limited; CL District
+J 8.108.150 Community Neighborhood; CN District
+18.108.160 Airport; A District
+18.108.170 Utility; U District
+18.108.175 Utility; U District/Limited Use Combining District
+18.108.180 Forest; F District
+18.108.190 Flood Plain; FP Combining District
+18.108.030 Single Unit Residential; RS District
+A. Uses Permitted Outright. The following uses and their accessory uses are permitted
+outright:
+1. Single-unit dwelling.
+2. Recreational path.
+3-:- Residential home.
+4-;�3. ___ Temporary Hardship Dwelling, subject to DCC 18.116.090.
+B. Conditional Uses Permitted. The following uses may be permitted subject to DCC
+18.128 and a conditional use permit:
+1. Park, playground, and picnic and barbecue area.
+2. Fire station.
+3. Library.
+4. Museum.
+5. Health and fitness facility.
+6. Utility substations or pumping stations with no equipment storage or sewage
+treatment facilities.
+7. Temporary subdivision sales office.
+8. Community building.
+9. Religious institutions or assemblies.
+C. Height Regulations. No structure shall be hereafter erected, enlarged or structurally
+altered to exceed 30 feet in height, except as allowed under DCC 18.120.040.
+D. Lot or Parcel Requirements. The following lot or parcel requirements shall be
+observed, provided that the Planning Director or Hearings Body may allow smaller
+lots or parcels approved pursuant to DCC Title 18 and consistent with the
+Comprehensive Plan designations for preservation of forested area or significant
+rock outcroppings when these lots or parcels are internal to the subdivision or after
+a hearing if they are located on the edge of the new plat.
+1. Lot Area. A lot or parcel shall have a minimum lot area of 6,000 square feet ..
+2. Lot Width. A lot or parcel shall have a minimum lot width of 60 feet, except
+that a lot or parcel with more than one front lot line shall have a minimum lot
+width of 70 feet.
+3. Street Frontage. Every lot or parcel shall have a minimum street frontage of
+50 feet, except that on an approved cul-de-sac this may be reduced to 30
+feet.
+4. Front Setback. The front setback shall be a minimum of 20 feet.
+5. Side Setback. A side setback shall be a minimum of five feet for structures up
+to 21 feet in height. All structures greater than 21 feet in height shall have a
+minimum side setback of 7.5 feet, including additions thereto.
+6. Rear Setback. The rear setback for properties which do not have a common
+area abutting the rear lot line shall be a minimum of 25 feet. The rear setback
+is zero for properties with a rear lot line which abuts a common area that is
+HISTORY
+50 feet or greater in depth. The rear setback for properties with a rear lot line
+which abuts a common area less than 50 feet in depth shall be calculated at
+six inches for every one foot less than 50 feet. The depth of the common area
+abutting the rear lot line shall be determined to be the average depth of the
+common area when measured at 90 degree angles at 10 foot intervals along
+the entire length of the rear lot line.
+7. Lot Coverage. Lot coverage shall not exceed 35 percent of the lot area.
+Repealed & Reenacted by Ord. 97-078 §2 on 12/31/1997
+Amended by Ord. 98-035 §2 on 6/10/1998
+Amended by Ord. 2004-013 §11 on 9/21/2004
+Amended by Ord. 2020-001 §12 on 4/21/2020
+Amended by Ord. 2024-008 §13 on 117/2025
+Amended by Ord. 2025.::002 §26 on 3/28/2025
+Amended by Ord. 2025-005 §10 on 8/19/2025
+Amended by Ord. 2026-006 §8 on 4/22/2026
+18.108.040 Multiple Unit Residential; RM District
+A. Uses Permitted Outright. The following uses and their accessory uses are permitted
+outright subject to the applicable provisions of DCC 18.116, DCC 18.124, and DCC
+Title 17:
+1. A duplex.
+2. Multi-unit dwellings and dwelling unit groups, including townhouses and
+condominiums.
+3. Uses permitted outright in the RS District.
+4. Recreational path.
+5:- Residential home.
+&.- Residerntial facility.
+r.-=-5.'--__ Type 1 Home Occupation, subject to DCC 18.116.280.
+B. Conditional Uses Permitted. The following conditional uses may be permitted
+subject to DCC 18.116, 18.124, and 18.128:
+1. Park, playground, and picnic and barbecue area.
+2. Fire station.
+3. Library.
+4. Museum.
+5. Utility substations or pumping stations with no equipment storage or sewage
+treatment facilities.
+6. Off-street parking lots when abutting a less restrictive zoning district.
+7. Community center.
+8. Religious institutions or assemblies.
+9. Temporary sales office for on-site dwelling units.
+10. Interval ownership and/or time-share unit or the creation thereof.
+11. Health and fitness facility. Height Regulations. No structure shall be
+hereafter erected, enlarged or structurally altered to exceed 30 feet in height.
+C. Lot or Parcel Requirements. The following lot or parcel requirements shall be
+observed:
+1. Duplexes and multi-unit dwellings
+a. Lot Area. Every lot or parcel shall have a minimum lot area of 5,000
+square feet for the first dwelling unit, plus the following minimum lot
+area based upon the number of bedrooms per additional dwelling unit
+in the following table:
+Studio or Efficiency 750 sq. ft.
+1 Bedroom 1,000 sq. ft.
+2 Bedrooms 1,500 sq. ft.
+3 Bedrooms 2,250 sq. ft.
+4 Bedrooms 2,500 sq. ft.
+b. The overall density shall not exceed eight dwelling units per acre.
+c. Lot Width. Every lot or parcel shall have a minimum lot width of 50
+feet.
+d. Frontage. Every lot or parcel shall have a minimum street frontage of
+50 feet, except that on an approved cul-de-sac this may be reduced to
+30 feet.
+e. Front Setback. The front setback shall be a minimum of 10 feet.
+f. Side Setback. There shall be a minimum side setback of five feet and
+the sum of the side setbacks shall be a minimum of 15 feet. The side
+setbacks shall be increased by one-half foot for each foot by which
+the structure height exceeds 15 feet.
+g. Rear Setback. The rear setback shall not be less than five feet. The
+rear setback shall be increased by one-half foot for each foot by which
+the structure height exceeds 15 feet.
+h. Lot Coverage. Lot coverage shall not exceed 40 percent of the total lot
+area ..
+2. Townhouses, condominiums, and zero lot line dwelling units:
+a. There shall be no minimum lot area for townhouse, condominium,
+and zero lot line dwelling unit developments, provided, however, that
+the overall density shall not exceed eight dwelling units per acre.
+b. Setbacks. Setbacks, lot widths, and lot coverage shall be determined
+at the time of site plan approval.
+3. Single-Unit Dwellings:
+a. Lot widths, setbacks, and lot coverage shall be the same as provided
+in the RS District, provided that the overall density shall not exceed
+eight dwelling units per acre.
+D. Off-Street Parking. Off-street parking shall be provided for a minimum of two cars
+per dwelling unit.
+HISTORY
+Repealed & Reenacted by Ord. 97-078 §2 on 12/31/1997
+Amended by Ord. 99-036 §1 on 12/15/1999
+Amended by Ord. 2004-002 §22 on 4/28/2004
+Amended by Ord. 2020-001 §12 on 4/21/2020
+Amended by Ord. 2025-002 §25 on 3/28/2025
+Amended by Ord. 2025-009 §9 on 7/112025
+Amended by Ord. 2026-006 §8 on 4122/202{:i
+18.108.050 Commercial; C District
+A. Uses Permitted Outright. Any combination of the following uses and their accessory
+uses are permitted outright in the C district, subject to the applicable provisions of
+DCC 18.116 and DCC 18.124.
+1. Recreational path.
+2. Ambulance service.
+3. Library.
+4. Religious institutions or assemblies.
+5. Bus stop.
+6. Community center.
+7. A building or buildings each not exceeding 8,000 square feet of floor area
+including any combination of:
+a. Retail/rental store, office, and service establishment.
+b. Art galleries
+c. Dry cleaner and/or self-service laundry establishment.
+d. Radio and television sales and service.
+e. Radio and television broadcasting studios and facilities, except
+towers.
+f. Restaurant, bar and cocktail lounge, including entertainment.
+g. Automobile service station.
+h. Technical and business school.
+i. Catering establishment.
+j. Crafts in conjunction with retail sales (occurring on premises, such as
+stained glass/pottery, etc.).
+k. Medical and dental clinic, office and laboratory.
+l. Theater not exceeding 4,000 square feet of floor area.
+m. Marijuana wholesaling, office only. There shall be no storage of
+marijuana items or products at the same location.
+8. Multi-unit dwellings, subject to the provisions of DCC 18.108.050{C)(1 ).
+9. Dwelling units constructed in the same building as a commercial use,
+subject to the provisions of DCC 18.108.050{C){2).
+10. Post Office.
+11. Administrative and office facility associated with a community association or
+community use.
+12. Police facility.
+4-3.-Residei,tial facility.
+B. Conditional Uses Permitted. The following conditional uses may be permitted
+subject to DCC 18.116, 18.124, and 18.128.
+1. Public buildings and public utility buildings and structures.
+2. Club, lodge, or fraternal organization.
+3. Commercial off-street parking lot.
+4. Bus passenger station.
+5. Interval ownership and/or time-share unit or the creation thereof.
+6. Miniature golf.
+7. Bed and breakfast inn.
+8. Inn.
+9. A building or buildings each not exceeding 8,000 square feet of floor area
+including any combination of:
+a. Bowling alley.
+b. Car wash.
+c. Dancing or music school, nursery school, kindergarten, and day-care
+facility.
+d. Theater exceeding 4,000 square feet in floor area.
+e. Veterinary clinic or kennel operated entirely within an enclosed
+building.
+f. Automotive repair and maintenance garage, or tire store, provided the
+business is wholly conducted within an enclosed building.
+g. Marijuana retailing, subject to the provisions of DCC 18.116.330.
+10. Psilocybin service centers. subject to the provisions of DCC 18.116.380.
+C. Use Limits.
+1. Multi-unit dwellings, allowed on the nine acres vacant as of December 31,
+1997, in the C District, shall be subject to the provisions of DCC
+18.108.040(C) and (D), and the following requirements:
+a. No dwelling unit shall have more than three bedrooms.
+b. Individual dwelling units shall not exceed 2,250 square feet of floor
+area.
+c. One off-street parking space shall be provided for each bedroom
+within each dwelling unit, with a maximum of two spaces allowed per
+dwelling unit.
+2. Dwelling units constructed in the same building as a commercial use
+developed in the C district shall be subject to the following requirements:
+a. Dwelling units shall be developed above first floor commercial use.
+b. No dwelling unit shall have more than two bedrooms.
+c. Individual dwelling units shall not exceed 850 square feet of floor
+area.
+d. One off-street parking space shall be provided for each bedroom
+within each dwelling unit.
+3. Uses permitted either outright or conditionally in the C District shall not
+involve the transport of chemicals which would present a significant hazard.
+D. Special Requirements for Large Scale Uses. Any of the uses listed in DCC
+18.108.050(A)(7) or DCC 18.108.050(B)(10) may be allowed in a building or buildings
+each exceeding 8,000 square feet of floor area if the Planning Director or Hearings
+Body finds:
+1. That the intended customers for the proposed use will come from the
+community and surrounding rural area, or the use will meet the needs of the
+people passing through the area. For the purposes of DCC 18.108.050(0),
+the surrounding rural area shall be that area identified as all property within
+five miles of the boundary of the Sunriver Urban Unincorporated Community;
+2. The use will primarily employ a work force from the community and
+surrounding rural area; and
+3. That it is not practical to locate the use in a building or buildings under 8,000
+square feet of floor area.
+E. Height Regulations. No structure shall be hereafter erected, enlarged or structurally
+altered to exceed 30 feet in height.
+F. Lot or Parcel Requirements. The following lot or parcel requirements shall be
+observed:
+HISTORY
+1. Lot Area. No requirements.
+2. Lot Width. Minimum of 100 feet.
+3. Front Setback. The front setback shall be a minimum of 10 feet.
+4. Side Setback. None, except when a side lot line is abutting a lot or parcel in
+an RS or RM District, and then the side setback shall be a minimum of 10
+feet. The required side setbacks shall be increased by one-half foot for each
+foot by which the structure height exceeds 20 feet.
+5. Rear Setback. None, except when a rear lot line is abutting a lot or parcel in
+an RS or RM District, and then the rear setback shall be a minimum of 10
+feet. The required rear setback shall be increased by one-half foot for each
+foot by which the structure height exceeds 20 feet.
+6. Lot Coverage. No requirements.
+Repealed & Reenacted by Ord. 97-078 §2 on 12/31/1997
+Amended by Ord. 98-016 §1 on 3/1111998
+Amended by Ord. 2003-026 §1 on 7/9/2003
+Amended by Ord. 2015-004 §9 on 4/22/2015
+Amended by Ord. 2016-015 §9 on 7/112016
+Amended by Ord. 2020-001 §12 on 4/21/2020
+Amended by Ord. 2022-014 §7 on 4/4/2023
+Amended by Ord. 2024-008 §13 on 1/712025
+Amended by Ord. 2025-002 §26 on 3/28/2025
+/Amended by Ord. 2026-006 §8 on 4/22/2026
+18.108.055 Town Center; TC District
+A. Uses Permitted Outright. The following uses and their accessory uses are permitted
+outright in the TC District, subject to the applicable provisions of DCC 18.116 and
+DCC 18.124.
+1. Park or plaza.
+2. Library.
+3. Community center.
+4. Visitors center.
+5. A building, or buildings each not exceeding 8,000 square feet of floor area,
+unless approved as a Large Scale Use pursuant to DCC 18.108.055{C),
+including any of the following uses:
+a. Retail/rental store, office, civic and service establishment.
+b. Grocery store.
+c. Art gallery.
+d. Restaurant, bakery, delicatessen, pub, cocktail lounge, including
+entertainment.
+e. Health care service including medical and dental clinic, office,
+pharmacy, and laboratory but excluding nursing homes.
+f. Health & fitness facility.
+g. Barber, beauty shop or spa.
+h. Child care center, preschool, and daycare facility.
+i. Bank.
+j. Post office.
+k. Veterinary clinic (without animal boarding facilities).
+l. Crafts in conjunction with retail sales (occurring on premises such as
+sculpture, stained glass, pottery, etc.).
+m. Meeting room, convention and banquet facility.
+n. Property sales, mortgage, management or rental office.
+o. Movie theater.
+6. Multi-Unit Dwelling, subject to paragraphs (E)(1) and (2).
+7. Developed recreational facilities, outdoors or in a building or buildings each
+not exceeding 8,000 square feet of floor area, unless approved as a Large
+Scale Use pursuant to DCC 18.108.055(C), including, but not limited to the
+following facilities:
+a. Indoor and outdoor swimming pools.
+b. Ice skating rink.
+c. Indoor and outdoor tennis courts.
+d. Indoor and outdoor basketball court or other ball field.
+e. Physical fitness facilities.
+f. Park, playground, and picnic and barbeque area.
+g. Walkways, bike paths, jogging paths.
+h. Bowling alley.
+i. Arcade.
+8. Hotel with up to 100 hotel units in a single building.
+9. Mixed Use Structure, subject to the rules of DCC 18.108.055(E)(3) and a limit
+of 8,000 square feet of floor area for commercial uses listed in DCC
+18.108.055(A)(5) or recreational uses listed in DCC 18.108.055(A)(7), unless
+said uses are approved as large scale uses pursuant to DCC 18.108.055(C).
+4-0.-Reside11tial Facility.
+44-:-....:_1 0=• __ Senior housing/assisted living or active adult development, excluding
+nursing homes.
+4-r.....:_11_,_,. __ Townhomes, subject to paragraphs (E)(1) and (2).
+4-S:-12. Accessory uses to uses permitted outright, including, but not limited
+to, parking facilities, private roads, storage facilities, trash receptacles and
+recycling areas.
+44-;-13. Similar uses to those allowed outright, provided they are approved by
+the County in the decision approving the Conceptual Site Plan described in
+DCC 18.108.055(K).
+4-5:-14. Religious institutions or assemblies.
+B. Conditional Uses Permitted. The following conditional uses may be permitted
+pursuant to the provisions of DCC 18.116, 18.124, and 18.128.
+1. Public buildings and public utility buildings and structures.
+2. Bed and breakfast inn.
+3. Ambulance service.
+4. Fire station.
+5. Police station.
+6. Bus passenger station.
+7. Live/work dwelling units.
+8. Stand-alone parking structure.
+9. Accessory uses to the above-listed conditional uses.
+10. Marijuana retailing, subject to the provisions of DCC 18.116.330.
+11. Psilocybin service centers, subject to the provisions of DCC 18.116.380.
+C. Special Requirements for Large Scale Uses. Any of the uses listed in DCC
+18.108.055(A)(5) or (A)(7) may be allowed in a building or buildings each exceeding
+8,000 square feet of floor area if the Planning Director or Hearings Body finds:
+1. That the intended customers for the proposed use will come from the
+Sunriver community and surrounding rural area. The surrounding rural area is
+the area identified as all property within five miles of the boundary of the
+Sunriver Urban Unincorporated Community; and/or
+2. The use will meet the needs of the people passing through the area.
+D. Form of Ownership/List of Uses.
+1. Any lawful form of ownership is allowed in the TC District.
+2. The listing of uses permitted in the TC District is not intended to prohibit
+other uses allowed elsewhere in Sunriver.
+3. When a general use listed in the TC District includes a use or type of
+ownership that is more specifically described in another zone in Sunriver, the
+specific listing elsewhere does not prohibit that use from being conducted in
+the TC District.
+E. Use Limits.
+1. Commercial uses, except for Type 1 home occupations as defined in DCC
+18.116.280, are not allowed in Multi-Unit Dwellings or Town homes ..
+2. Notwithstanding subsection (E)(1 ), above, the following uses are allowed in
+Multi-Unit Dwellings or Town homes:
+a. Live/work dwelling units.
+b. Lock-off areas.
+c. Accessory uses to the residential use of the building, such as parking
+and storage areas.
+3. In a Mixed Use Structure, any ground floor unit that has primary frontage
+along a public plaza approved as part of a Conceptual Site Plan shall be used
+only for commercial, recreational, or community/governmental uses, but not
+for hotel units.
+4. A live/work dwelling unit is subject to the following conditions.
+a. One or more walls of the dwelling unit abut another residential or
+commercial building.
+b. The first floor above the garage is the ground floor, where a parking
+garage is provided below a dwelling unit, below the average finished
+grade and is completely obscured from view on at least one side of
+the building.
+c. The commercial area of the live/work dwelling unit may not exceed
+fifty percent (50%) of the square footage of the entire unit, excluding
+the garage.
+d. The commercial area shall not exceed 8,000 square feet of floor area
+in combination with other commercial uses in the same building
+unless the building has been approved as a part of a Large Scale Use
+pursuant to DCC 18.108.055(C).
+F. Height Regulations.
+1. Except as provided in subsection (2), below, no Mixed Use Structure shall be
+erected, enlarged, or structurally altered to exceed 60 feet in height.
+2. One Mixed Use Structure shall be permitted with a maximum height not to
+exceed 75 feet in height, so long as the building footprint of that portion of
+said structure that exceeds 60 feet in height is not greater than 40,000 square
+feet of the structural footprint.
+3. Town homes may not exceed 40 feet in height.
+4. Multi-Unit Dwellings that are not Mixed Use Structures may not exceed 50
+feet in height.
+5. The height of all other structures for uses other than those described in
+subsections (F)(1 )-(4), above, may not exceed 45 feet in height.
+6. Where a parking garage is provided beneath buildings or structures
+described in subsection (F)(1) and (2), above, the height of the structure shall
+be measured from the highest point of the roof to one of the following points:
+a. A point equal to the elevation of the highest abutting sidewalk or
+finished grade within a five foot horizontal distance of the exterior wall
+of the building when such sidewalk or finished grade is not more than
+10 feet above the lowest elevation adjacent to the building; or
+b. A point equal to the elevation that is 10 feet higher than the lowest
+finished grade from the sidewalk or ground surface described in
+subsection (a), above, when the sidewalk or ground surface described
+in subsection (a) is more than 10 feet above lowest finished grade
+adjacent to the building.
+7. Projections and architectural elements such as chimneys, spires, clock
+towers, skylights, atriums, flag poles, mechanical equipment, and screens
+and other similar items that do not add habitable interior floor area may be
+allowed to exceed the height limit by a maximum of 10 feet.
+8. Structures that comply with the height limitations of this subsection also
+comply with the view protection requirement imposed by DCC
+18.124.060(A).
+G. Lot or Parcel Requirements. The following lot or parcel requirements shall be
+observed.
+1. Front setback: the front setback shall be a minimum of 10 feet.
+a. Where a lot or parcel has more than one front lot line, only one front
+setback area must meet the 1 O feet minimum.
+b. Below-grade parking structures that are built under private streets do
+not need to meet front setback requirements.
+2. Side setback: 0 feet.
+3. Rear setback: O feet.
+4. Street Frontage: O feet.
+5. Road Access.
+a. Each lot or parcel shall have access to any required parking areas and
+driveways, and to a private road, via a perpetual easement recorded
+for the benefit of the subject lot or parcel.
+H. District Setback.
+1. All development, including structures and sight-obstructing fences over
+three feet in height, shall be set back from exterior TC District boundaries by
+the following distances:
+a. Where the TC District boundary borders an RS or RM District, the
+minimum setbacks will be:
+1) 15 feet from the TC District boundary for any portion of a
+structure that is 45 feet or lower.
+2) 20 feet from the TC District boundary for any portion of a
+structure that is over 45 feet in height and that does not exceed
+50 feet in height.
+3) 50 feet from the TC District boundary for any portion of a
+structure that is over 50 feet in height.
+b. Where the TC District boundary borders a CL District, the minimum
+setbacks will be:
+1) Five feet from the TC District boundary for any portion of a
+structure that is 45 feet or lower.
+2) 1 0 feet from the TC District boundary for any portion of a
+structure that is over 45 feet in height and that does not exceed
+50 feet in height.
+3) 20 feet from the TC District boundary for any portion of a
+structure that is over 50 feet in height and that does not exceed
+60 feet in height.
+4) 50 feet from the TC District boundary for any portion of a
+structure that is over 60 feet in height.
+c. Where the TC District boundary borders any other zoning district, the
+minimum setback will be:
+1) 10 feet from the TC District boundary for any portion of a
+structure that is 45 feet in height or lower.
+2) 15 feet from the TC District boundary for any portion of a
+structure that is over 45 feet in height and that does not exceed
+50 feet in height.
+3) 20 feet from the TC District boundary for any portion of a
+structure that is over 50 feet in height.
+2. Items allowed in the District Setback include, but are not limited to, parking,
+roads, signage, pedestrian pathways, street trees, planters, driveways,
+landscaping, and outdoor seating.
+I. Floor Area Ratio.
+1. The maximum Floor Area Ratio in the TC District is 1.0.
+2. Floor Area Ratio is determined by dividing the floor area of all floors of all
+buildings that are proposed by a Conceptual Site Plan by the land area to be
+bound by the Conceptual Site Plan.
+3. The following areas are not a part of the "floor area of all buildings":
+a. Below-grade parking garages and mechanical rooms and storage
+areas located on the same floor as the parking garage.
+b. Crawl spaces and attics that are not suited to human occupancy.
+J. Zone Coverage.
+1. The total square footage of the structural footprints of buildings and
+enclosed structures is limited to fifty percent (50%) of the gross acreage
+bound by a Conceptual Site Plan in the TC District.
+2. The total square footage of the structural footprints of Multi-Unit Dwellings
+and Town home buildings allowed by DCC 18.108.055{A)(6) and (12) is limited
+to a maximum of twenty percent (20%) of the gross acreage of the TC District.
+3. When calculating the structural footprint, buildings and enclosed structures
+include any deck that is more than 12 inches above finished grade and all
+areas within any screened enclosure permanently affixed to the ground.
+4. The following are not included as building or structures for purposes of
+calculating structural footprint:
+a. Eaves and any driveway, road, walkway, deck, patio, plaza, or porch
+that is 12 inches or less above finished grade (except with affixed
+improvements that exceed 12 inches); and
+b. Parking areas on or below finished grade.
+K. Conceptual Site Plan.
+1. Prior to or concurrent with approval of a site plan or conditional use permit,
+an applicant must file for approval of a Conceptual Site Plan.
+2. A Conceptual Site Plan shall provide a master plan that depicts the
+approximate location of all of the applicant's proposed land uses.
+3. All land owned or controlled by the applicant in the TC District must be
+shown on and will be bound by the applicant's Conceptual Site Plan.
+4. A Conceptual Site Plan application must include all of the following
+information:
+a. Types of uses.
+b. Site circulation.
+c. Pedestrian Facilities.
+d. Traffic impact study, as described in DCC 17.16.115.
+e. The following additional information:
+1) An analysis of site access points to Abbott Drive and Beaver
+Drive by a registered professional engineer who specializes in
+traffic analysis work that describes operational, capacity and
+sight distance issues of those access points and the impact of
+Conceptual Site Plan development on those access points.
+2) Identification of street system improvements needed to
+support the proposed development based on the information
+provided by the reviews required by this subsection (d).
+3) A schedule for the construction of needed street
+improvements, if any, keyed to development benchmarks.
+f. Approximate location of phase boundaries, if phased development is
+proposed, and notation of the phasing sequence.
+g. The projected location and projected range of building or structure
+size, in square feet, for commercial uses.
+h. The projected location and projected range of the number of dwelling
+units for residential use.
+i. The projected location and approximate size, in square feet, of plazas
+and public gathering areas.
+j. Elevations throughout the site that represent general elevations of
+each use.
+1) Examples of uses for which such elevations should be shown
+on the Conceptual Site Plan are residential, hotel or
+commercial structures, pedestrian plazas, parking areas, road
+intersections, and at length along all roadways.
+2) Such elevations must show existing and projected finished
+elevations.
+k. The projected structural footprint and location of new buildings or
+parking areas. The exact structural footprints and locations of
+buildings and parking areas shall be determined during site plan
+review.
+l. Existing uses on lands owned or controlled by persons other than the
+applicant.
+5. A Conceptual Site Plan shall be approved if it demonstrates that future
+development is located on the subject property so that, in addition to the
+requirements of DCC 18.108.055, the following standards can be met at the
+time of site plan review:
+a. DCC 23.40.025; and
+b. DCC 18.124.060 (A) - (E) and (I}; interpreted as described in DCC
+23.40.025(E)(1 )(d)(3).
+6. Approval of a Conceptual Site Plan does not authorize uses or development.
+7. An applicant shall commence development within five years of the date of
+final approval of the Conceptual Site Plan unless an extension of the duration
+of approval of the Conceptual Site Plan has been granted pursuant to DCC
+22.36.01 0(C).
+8. Substantial construction of a Conceptual Site Plan development, for
+purposes of DCC 22.36.020(A)(2), occurs when the first building authorized
+by the Plan has been substantially constructed, as defined by DCC
+22.36.020(B).
+L. Application and approval process.
+1. A site plan or conditional use application shall be consistent with the
+Conceptual Site Plan with the following exceptions.
+a. Existing structures or features can be used or altered to meet the
+requirements of subsections (5) and (10)-(13) of this subsection.
+b. If the existing structures or features were included in a site plan
+approval under DCC 18.108.055 and the existing structures or
+features are proposed to be altered by subsequent site plan, that
+subsequent site plan must demonstrate compliance with the
+requirements of subsections (5) and (10)-(13) of this subsection.
+2. A site plan application shall include the number of all uses by type, their ITE
+code and their pm peak hour trips.
+3. Each site plan, cumulatively with any previously approved site plan, shall
+demonstrate that the development will not generate traffic at a rate that will
+exceed the number of pm peak hour vehicle trips for residential and
+commercial uses assumed in the traffic study required by subsection {K)(4)
+above.
+4. Adjustments may be made to building locations, sizes, structural footprints,
+unit counts and phase boundaries shown on the Conceptual Site Plan during
+site plan review if such adjustments do not constitute a change requiring
+modification of approval of the Conceptual Site Plan pursuant to DCC
+22.36.040.
+5. An applicant seeking site plan approval shall demonstrate that, when the
+development that is subject to the site plan approval is complete, a ratio of
+150 square feet of commercial space to one dwelling unit will be met.
+6. The term "dwelling unit" used in subsection (5), above, includes:
+a. All hotel units and residential dwelling units, including Multi-Unit
+Dwellings and Townhomes.
+b. Lock-off Areas shall be counted as a half dwelling unit for purposes of
+calculating the ratio described in subsection (5), above.
+7. The development in the TC District, cumulatively with any previously
+approved site plan, must meet the ratio in subsection (5) above.
+8. When a second or subsequent site plan is approved a commercial area
+shown on a prior site plan may be counted toward meeting the required ratio
+in Subsection (5) above only if construction of the commercial area approved
+on a prior site plan has been commenced.
+9. The site plan shall include the projected finished and existing grade
+elevations of the site indicating every foot of elevation change on the subject
+property.
+10. Each site plan, cumulatively with all previously approved site plans, shall
+demonstrate compliance with the fifteen percent {15%) lot area landscaping
+requirement of DCC 18.124.070{B)(1 )(a).
+a. Landscape areas existing as of the adoption of Ordinance 2008-105
+may be used to determine compliance with the fifteen percent {15%)
+rule as long as the existing landscaping is included in the site plan.
+b. In the TC District, plazas available to the public may be included to
+demonstrate compliance with the fifteen percent (15%) landscaping
+requirement.
+11. Each site plan, cumulatively with all previous site plans, shall demonstrate
+compliance with the FAR requirements of DCC 18.108.055(1).
+12. Each site plan, cumulatively with all previously approved site plans, shall
+demonstrate compliance with the recreation space requirements of DCC
+18.124.070(A)(2).
+13. Each site plan, cumulatively with all previously approved site plans, shall
+demonstrate compliance with the zone coverage requirements of DCC
+18.108.055(J).
+14. Where improved bike paths cross land proposed for site plan development,
+the applicant shall retain or relocate and rebuild the bike path.
+M. Any application for a zone change to the Town Center District shall include a copy of
+a signed development agreement between the property owner, the applicant, if
+different than the property owner, and the homeowners association.
+HISTORY
+Adopted by Ord. 2008-015 §2 on 6/30/2008
+Amended by Ord. 2015-004 §9 on 4/22/2015
+Amended by Ord. 2016-015 §9 on 711/2016
+Amended by Ord. 2020-001 §12 on 4/21/2020
+Amended by Ord. 2022-014 §7 on 4/4/2023
+Amended by Ord. 2025-002 §26 on 3/28/2025
+Amended bv Ord. 2026-006 §8 on 4/22/2026
+18.108.060 Resort; R District
+A. Uses Permitted Outright. The following uses and their accessory uses are permitted
+outright in the R District, subject to the applicable provision of DCC 18.116 and DCC
+18.124:
+1. Resort facility developed in a building or buildings, without any floor area
+limitations, which include any combination of:
+a. Meeting room, convention, and banquet facility.
+b. Resort recreation facilities.
+c. Property sales and rental office.
+d. Hotel, motel and lodging facility with up to 100 units in a single
+building.
+e. Maintenance facility associated with resort and recreation operations.
+f. Storage building necessary for and associated with resort, recreation,
+and/or property development.
+g. Administrative offices, support and service facilities commonly
+associated with resort and recreation development and operations.
+2. Restaurant, bar and cocktail lounge including entertainment and catering
+facilities which are included within the same building as any of the uses
+listed in DCC 18.108.060(A)(1 ).
+3. Retail sales, rental and repair services commonly associated with and
+included within the same building as any of the uses listed in DCC
+18.108.060(A)(1 ).
+4. Interval ownership and/or time-share unit or the creation thereof.
+5. Multi-unit dwellings subject to and consistent with the standards of the RM
+District.
+6. Recreational path.
+=j---; Residential facility.
+&.-�7·�--A building or buildings each not exceeding 8,000 square feet of floor
+area which conform with the height regulations and lot or parcel
+requirements of the R District and include any combination of:
+a. New restaurant, bar and cocktail lounge, including entertainment and
+catering facilities which are not included within the same building as
+those uses listed in DCC 18.108.060(A)(1 ).
+b. New retail sales, rental and repair services commonly associated with
+uses permitted outright or conditionally in the R District which are not
+included within the same building as those uses listed in DCC
+18.108.060(A)(1 ).
+B. Conditional Uses Permitted. The following conditional uses may be permitted
+subject to DCC 18.116, DCC 18.124, and 18.128:
+1. Public buildings and public utility buildings and structures as they may be
+appropriate to the R District.
+2. Religious institutions or assemblies, club, or fraternal organization.
+3. School.
+C. Height Regulations. No structure shall be hereafter erected, enlarged, or structurally
+altered to exceed 40 feet in height.
+D. Lot or Parcel Requirements. The following lot or parcel requirements shall be
+observed-:-:
+HISTORY
+1. Lot Area. No requirements.
+2. Lot Width. Minimum of 100 feet.
+3. Front Setback. The front setback shall be a minimum of 1 O feet.
+4. Side Setback. None, except when a side lot line is abutting a lot or parcel in
+an RS or RM District, and then the side setbacks shall be a minimum of 10
+feet. The required side setbacks shall be increased by one half foot for each
+foot by which the structure height exceeds 20 feet.
+5. Rear Setback. None, except when a rear lot line is abutting a lot or parcel in
+an RS or RM District, and then the rear setback shall be a minimum of 10
+feet. The required rear setback shall be increased by one half foot for each
+foot by which the structure height exceeds 20 feet.
+6. Lot Coverage. No requirements.
+Repealed & Reenacted by Ord. 97-078 §2 on 12/31/1997
+Amended by Ord. 2020-001 §12 on 4/21/2020
+Amended by Ord. 2024�008 §13 on 1/7/2025
+Amended by Ord. 2025-002 §26 on 3/28/2025
+Amended bv Ord. 2026-006 §8 on 4/22/2026
+Exhibit I
+CHAPTER 18.110 RESORT COMMUNITY ZONE
+18.110.01 Q Purpose
+18.110.020 Seventh Mountain/Widgi Creek And Black Butte Ranch ResortDistricts
+18.110.030 Widgi Creek Residential District
+18.110.040 Black Butte Ranch Surface Mining/Limited Use Combining District
+18.110.050 Black Butte Ranch-Utility/Limited Use Combi11Lng District.
+18.110.060 Development Standards
+lS.110.020 Seventh Mountain/Widgi Creek And Black Butte Ranch Resort Districts
+A. Uses permitted outright. The following uses and their accessory uses are permitted
+subject to the applicable provisions of DCC 18.110.050:
+1. A single-unit dwelling.
+� Residential home.
+3-:-_2_. __ Timeshare units existing as of January 1, 1984 at Black Butte Ranch.
+4:-3. Timeshare units at the Inn of the Seventh Mountain. �--
+5-;-�4•;.._ __ The following resort recreational facilities: Recreational path, picnic
+and barbecue area, park, playground, and sport courts for basketball,
+volleyball, and similar small-scale recreation activities.
+&.-"'-5'--. __ Livestock and horse grazing on common area in Black Butte Ranch.
+7---:-"'-6'--. __ Police or security facility.
+&.-.a-7•;.._ __ Temporary Hardship Dwelling, subject to DCC 18.116.090.
+B. Uses permitted subject to site plan review. The following uses and their accessory
+uses are permitted subject to applicable provisions of DCC 18.110 and DCC 18.116,
+Supplementary Provisions, and DCC 18.124, Site Plan Review:
+1. Resort facility, as that term is defined in DCC Title 18.
+2. Resort recreation facilities, as that term is defined in DCC Title 18, except
+those uses listed in DCC 18.110.020(A)(6).
+3. Resort utility facilities, as that term is defined in DCC Title 18.
+4. Property sales and rental office.
+5. Hotel or motel.
+6. Daycare facility.
+7. Fire station.
+8. Post office.
+9. Multiple-unit dwellings.
+1 O. Employee housing.
+4-4 .-Residential facility.
+C. Conditional uses permitted. The following uses and their accessory uses are
+permitted subject to the applicable provisions of DCC 18.11 0 and DCC 18.116,
+Supplementary Provisions, DCC 18.124, Site Plan Review, and DCC 18.128,
+Conditional Use:
+HISTORY
+1. Religious institutions or assemblies.
+2. Wireless telecommunications facility.
+Adopted by Ord. 2001-048 §2 on 12/10/2001
+Amended by Ord. 2014-009 §1 on 8/6/2014
+Amended by Ord. 2014-025 §1 on 9/15/2014
+Amended by Ord. 2020-0Q_1 §13 on 4/21/2020
+Amended by Ord. 2024-008 §14 on 1/7/2025
+Amended by Ord. 2025-002 §27 on 3/28/2025
+Amended by Ord. 202-5.-005 §11 on 8/19/2025
+Amended by Ord.,2il26-006 §9 on 4/22/2Q26
+18.110.030 WldgLCre_e_k Residential District
+The following uses and their accessory uses are permitted subject to the applicable
+provisions of DCC 18.110.060:
+A. A single-unit dwelling.
+fu Residential home.
+&. Residential facility.
+&.-_B-'-. __ Timeshare units.
+EC. Temporary Hardship Dwelling, subject to DCC 18.116.090.
+HISTORY
+Adopted by Ord. 2001-048 §2 on 12/10/2001
+Amended by Ord. 2025-002 §27 on 3/28/2025
+Amended by Ord. 2025-0Q!i §11 on 8/19/2025
+Amended by Ord. 2026-006 §9 on 4/22/2026
+Exhibit J
+CHAPTER 18.116 SUPPLEMENTARY PROVISIONS
+18.116.01 0 Authorization Of Similar Uses
+18.116.020 Clear Vision Areas
+18.116.030 Off-Street Parking And Loading
+18.116.031 Bicycle Parking
+18.116.035 Bicycle Commuter Facilities
+18.116.036 Special Parking Provisions For The Sunriver Town Center (TC) District
+18.116.040 Accessory Uses
+18.116.045 Exceptions To Permitted Dwelling Unit Facilities
+18.116.050 Manufactured Dwellings
+18.116.070 Placement Standards For Manufactured Dwellings
+18.116.080 Manufactured Dwelling Qr RV As A Temporary Dwellin�Unit On An Individual
+Lot Or Parcel During Construction
+18.116.090 Manufactured Dwelling Or Recreational Vehicle As A Temporary Hardship
+Dwelling
+18.116.095 Recreational Vehicle As A Temporary Dwelling On An Individual Lot Or Parcel
+18.116.100 Building Projections
+18.116.120 Fences
+18.116.130 Hydroelectric Facilities
+18.116.140 Electrical Substations
+18.116.150 Endangered Species
+18.116.160 Rim rock Setbacks Outside Of LM Combinin_gZone
+18.116.170 Solar Height Restrictions
+18.116.180 Building Setbacks For The Protection Of Solar Access
+18.116.190 Solar Access Permit
+18.116.200 (Repealed)
+18.116.210 Residential Homes And Residential Facilities
+18.116.215 Family Child Care Provider
+18.116.220 Conservation Easements On_ Property Abutting Rivers And Streams;
+Prohibitions
+18.116.230 Standards For Class I And II Road Projects
+18_.J 16.240 Protection Of Historic Sites
+18.116.250 Wireless Telecommunications Facilities
+J 8.116.260 Rock Crushing Outside The SM Zone
+18.116.270 Conducting Filming Activities In All Zones
+18.116.280 Home Occupations
+18.116.290 Amateur Radio Facilities
+18.116.300 Wind Energy Systems That Generate Less Than 100 KW
+18.116.310 Traffic Impact Studies
+18.116.320 Medical Marijuana Dispensary
+18.116.330 Marijuana Production. Processing. Retailing. And Wholesaling
+18.116.340 Marijuana Production Registered By The Oregon Health Authority (OHA)
+18.116.350 Historic Home Accessory Dwelling Units In RR-1 O And MUAZones
+18.116.355 Accessory Dwelling Units In The RR-10 And MUA_Zones
+18.116.360 Nursery Schools
+18.116.380 Psilocybin Manufacturing. Service Centers, And Testing Laboratories
+18.116.390 Identification Of Certain Features For Clear And Objective Applications
+Pursuant To DCC 22.08.040
+18.116.400 Land Divisions
+18.116.030 Off-Street Parking And Loading
+A. Compliance. No building or other permit shall be issued until plans and evidence
+are presented to show how the off-street parking and loading requirements are to be
+met and that property is and will be available for exclusive use as off-street parking
+and loading. The subsequent use of the property for which the permit is issued shall
+be conditional upon the unqualified continuance and availability of the amount of
+parking and loading space required by DCC Title 18.
+B. Off-Street Loading. Every use for which a building is erected or structurally altered to
+the extent of increasing the floor area to equal a minimum floor area required to
+provide loading space and which will require the receipt or distribution of materials
+or merchandise by truck or similar vehicle, shall provide off-street loading space on
+the basis of minimum requirements as follows:
+1. Commercial, industrial, and public utility uses which have a gross floor area
+of 5,000 square feet or more shall provide truck loading or unloading berths
+subject to the following table:
+Sq. Ft. of Floor Area No. of Berths Required
+Less than 5,000 0
+5, 000-30, 000 1
+30,000-100,000 2
+100,000 and Over 3
+2. Restaurants, office buildings, hotels, motels, hospitals and institutions,
+schools and colleges, public buildings, recreation or entertainment facilities,
+and any similar use which has a gross floor area of 30,000 square feet or
+more shall provide off street truck loading or unloading berths subject to the
+following table:
+Sq. Ft. of Floor Area No. of Berths Required
+'
+Less than 30,000 0
+30,000-100,000 1
+100,000 and Over 2
+3. A loading berth shall contain space 10 feet wide, 35 feet long and have a
+height clearance of 14 feet. Where the vehicles generally used for loading
+exceed these dimensions, the required length of these berths shall be
+increased.
+4. If loading space has been provided in connection with an existing use or is
+added to an existing use, the loading space shall not be eliminated if
+elimination would result in less space than is required to adequately handle
+the needs of the particular use.
+5. Off-street parking areas used to fulfill the requirements of DCC Title 18 shall
+not be used for loading and unloading operations except during periods of
+the day when not required to take care of parking needs.
+C. Off-Street Parking. Off-street parking spaces shall be provided and maintained as
+set forth in DCC 18.116.030 for all uses in all zoning districts. Such off-street parking
+spaces shall be provided at the time a new building is hereafter erected or enlarged
+or the use of a building existing on the effective date of DCC Title 18 is changed.
+D. Number of Spaces Required. Off-street parking shall be provided as follows:
+1. Residential.
+Use Requirements
+Single-Unit Dwelling, Duplex, and Three- 2 spaces per dwelling unit Unit Dwelling
+Multi-unit dwelling containing four or
+more dwelling units: Studio or efficiency 0.75 space per unit
+unit
+1 bedroom 1.00 space per unit
+2 bedroom 1.50 space per unit
+3 bedroom 2.25 space per unit
+4 bedroom 2.50 space per unit
+Hotel 0.50 space guest parking per dwelling
+room
+2. Commercial Lodging.
+Use Requirements
+Hotel 1 space per guest room plus 1 space per 2 employees.
+Motel
+1 space per guest room or suite plus 1 additional
+space for the owner-manager
+Spaces to meet the combined requirements of the
+Club or lodge uses being conducted such as hotel, restaurant,
+auditorium, etc.
+Fraternity, sorority or 1 space for each 6 student beds dormitory
+3. Institutions.
+I Requirements
+Welfare or correctional institution 1 space per 3 beds for
+patients or inmates
+Convalescent Hospital, nursing hospital, 1 space per 2 beds for
+sanitarium, rest home, home for the aged patients or residents
+Hospital
+4. Places Of Public Assembly.
+Use
+Religious institutions or
+assemblies
+Library, reading room,
+museum, art gallery
+Preschool, nursery or
+kindergarten
+Elementary or junior high
+schools
+High schools
+College or commercial
+school for adults
+Other auditorium or
+meeting room
+5. Commercial Amusements.
+1.50 spaces per bed
+Requirements
+1 space per 4 seats or 8 feet of bench length in the main
+auditorium or 1 space for each 50 sq. ft. of floor area
+used for assembly
+1 space per 400 sq. ft. of floor area plus 1 space per 2
+emplqyees
+2 spaces per teacher
+1 space per 4 seats or 8 feet of bench length in
+auditorium or assembly room, whichever is greater,
+plus 1 space per employee.
+1 space for each 6 students or 1 space per 4 seats or 8
+feet of bench length in the main auditorium, whichever
+is greater, plus 1 space per employee
+1 space per 3 seats in classrooms
+1 space per 4 seats or 8 feet of bench length. If no fixed
+seats or benches, 1 space per 60 sq. ft. of floor area
+I Requirements
+Stadium, arena or theater 1 space per 4 seats or 8 feet of bench length
+Bowling alley 6 spaces per lane, plus 1 space per 2 employees
+Dance hall or skating rink
+1 space per 100 sq. ft. of floor area, plus 1 space per 2
+employees.
+6. Commercial.
+Use Requirements
+Grocery stores of 1,500 sq. ft. or less of gross floor 1 space per 300 sq. ft. of area, and retail stores, except those selling bulky gross floor area merchandise
+Supermarkets, grocery stores 1 space per 200 sq. ft. of
+gross floor area
+Service or repair shops, retail stores and outlets selling
+furniture, automobiles or other bulky merchandise 1 space per 600 sq. ft. of
+where the operator can show the bulky merchandise gross floor area
+occupies the major area of the building
+Bank or office, except medical or dental 1 space per 300 sq. ft. of
+gross floor area
+Medical and dental office or clinic 1 space per 150 sq. ft. of
+gross floor area
+Eating or drinking establishments 1 space per 100 sq. ft. of
+gross floor area
+1 space per 4 seats or 8
+Mortuaries ft. of bench length in
+chapels
+7. Industrial.
+I Requirements
+Manufacturing establishment 1 space per employee on the
+largest working shift
+Storage warehouse, wholesale establishment, 1 space per 2,000 sq. ft. of floor
+rail or trucking freight terminal area
+8. Airport Uses.
+Use Requirements
+Hangars or tie-downs 1 space per 4 private aircraft occupying a hangar
+or tie-down space
+Office 1 space per 300 sq. ft. of gross floor area
+Aircraft maintenance 1 space per 1,000 sq. ft. of gross floor area
+Manufacturing, assembly, 1 space per 500 sq. ft. of gross floor area research
+9. Other uses not specifically listed above shall be provided with adequate
+parking as required by the Planning Director or Hearings Body. The above list
+shall be used as a guide for determining requirements for said other uses.
+E. General Provisions. Off-Street Parking.
+1. More Than One Use on One or More Lot or Parcels. In the event several uses
+occupy a single structure, lot, or parcel, the total requirement for off-street
+parking shall be the sum of requirements of the several uses computed
+separately.
+2. Joint Use of Facilities. The off-street parking requirements of two or more
+uses, structures, lots, or parcels may be satisfied by the same parking or
+loading space used jointly to the extent that it can be shown by the owners or
+operators of the uses, structures, lots, or parcels that their operations and
+parking needs do not overlap at any point of time. If the uses, structures, lots,
+or parcels are under separate ownership, the right to joint use of the parking
+space must be evidence by a deed, lease, contract, or other appropriate
+written document to establish the joint use.
+3. Location of Parking Facilities. Off-street parking spaces for dwelling units
+shall be located on the same lot or parcel with the dwelling unit. Other
+required parking spaces shall be located on the same lot or parcel or another
+lot or parcel not farther than 500 feet from the building or use they are
+intended to serve, measured in a straight line from the building in a
+commercial or industrial zone. Such parking shall be located in a safe and
+functional manner as determined during site plan approval. The burden of
+proving the existence of such off-premise parking arrangements rests upon
+the applicant.
+4. Use of Parking Facilities. Required parking space shall be available for the
+parking of operable passenger automobiles of residents, customers, patrons,
+and employees only and shall not be used for the storage of vehicles or
+materials or for the parking of trucks used in conducting the business or used
+in conducting the business or use.
+5. Parking, Front Setback Area. Required parking and loading spaces for multi­
+unit dwellings or commercial and industrial uses shall not be located in a
+required front setback area, except in the Sunriver UUC Business Park (BP)
+District, Airport Development (AD) Zone, and properties fronting Spring River
+Road in the Spring River Rural Commercial Zone, but such space may be
+located within a required side or rear setback area.
+6. On-Street Parking Credit. Notwithstanding DCC 18.116.030(G)(2), within
+commercial zones in the La Pine Planning Area and the Terrebonne and
+Tumalo unincorporated communities, the amount of required off-street
+parking can be reduced by one off-street parking space for every allowed on­
+street parking space abutting a property up to 30% of the required off-street
+parking. On-street parking shall follow the established configurations in the
+parking design standards under DCC 18.116.030 Table 1. To be considered
+for the parking credit, the proposed parking surface, along the street frontage
+under review, must have a defined curb line and improved as required under
+DCC 17.48, with existing pavement, or an engineered gravel surface. For
+purposes of establishing credit, the following constitutes an on-street
+parking space:
+a. Parallel parking (0 degree), each 20 feet of uninterrupted curb;
+b. Diagonal parking (60 degree), each with 11 feet of curb;
+c. Perpendicular parking (90 degree), each with 10 feet of curb;
+d. Curb space must be connected to the lot or parcel that contains the
+use;
+e. Parking spaces that would not obstruct a required clear vision area,
+nor any other parking that violates any law or street standard; and
+f. On-street parking spaces credited for a specific use may not be used
+exclusively by that use, but shall be available for general public use at
+all times. No signs or actions limiting general public use of on-street
+spaces are permitted.
+F. Development and Maintenance Standards for Off-Street Parking Areas. Every lot or
+parcel hereafter used as a public or private parking area, including commercial
+parking lots, shall be developed as follows:
+1. Except for parking to serve residential uses, an off-street parking area for
+more than five vehicles shall be effectively screened by a sight-obscuring
+fence when abutting residential uses, unless effectively screened or buffered
+by landscaping or structures.
+2. Any lighting used to illuminate off-street parking areas shall be so arranged
+that it will not project light rays directly upon any abutting property in a
+residential zone.
+3. Groups of more than two parking spaces shall be located and designed to
+prevent the need to back vehicles into a street or right of way other than an
+alley.
+4. Areas used for standing and maneuvering of vehicles shall be paved surfaces
+adequately maintained for all weather use and so drained as to contain any
+flow of water on the site. An exception may be made to the paving
+requirements by the Planning Director or Hearings Body upon finding that:
+a. A high water table in the area necessitates a permeable surface to
+reduce surface water runoff problems; or
+b. The subject use is located outside of an unincorporated community
+and the proposed surfacing will be maintained in a manner which will
+not create dust problems for neighboring properties; or
+c. The subject use will be in a Rural Industrial Zone or an Industrial
+District in an unincorporated community and dust control measures
+will occur on a continuous basis which will mitigate any adverse
+impacts on surrounding properties.
+5. Access aisles shall be of sufficient width for all vehicular turning and
+maneuvering.
+6. Service drives to off-street parking areas shall be designed and constructed
+to facilitate the flow of traffic, provide maximum safety of traffic access and
+egress and maximum safety of pedestrians and vehicular traffic on the site.
+The number of service drives shall be limited to the minimum that will
+accommodate and serve the traffic anticipated. Service drives shall be
+clearly and permanently marked and defined through the use of rails, fences,
+walls, or other barriers or markers. Service drives to drive in establishments
+shall be designed to avoid backing movements or other maneuvering within a
+street other than an alley.
+7. Service drives shall have a minimum vision clearance area formed by the
+intersection of the driveway centerline, the street right of way line, and a
+straight line joining said lines through points 30 feet from their intersection.
+8. Parking spaces along the outer boundaries of a parking area shall be
+contained by a curb or bumper rail placed to prevent a motor vehicle from
+extending over an abutting lot line or a street right of way.
+G. Off-Street Parking Lot Design� All off-street parking lots shall be designed subject to
+County standards for stalls and aisles as set forth in the following drawings and
+table:
+1. For one row of stalls use "C" + "D" as minimum bay width.
+2. Public alley width may be included as part of dimension "D," but all parking
+stalls must be on private property, off the public right of way.
+3. For estimating available parking area, use 300-325 square feet per vehicle for
+stall, aisle and access areas.
+4. For large parking lots exceeding 20 stalls, alternate rows may be designed for
+compact cars provided that the compact stalls do not exceed 30 percent of
+the total required stalls. A compact stall shall be eight feet in width and 17
+feet in length with appropriate aisle width.
+OFF-STREET PARKING LOT DESIGN
+(A}_Parking (_B)_Stall {Cl20'
+Angle Width Stall
+9'-0" 9'-6" 9.0
+oo 10'-0" 9.5 10.0
+9'-0" 9'-6" 19.8 20.1 45°
+10'-0" 20.5
+60° 9'-6" 10'-0" 21.2 21.5
+9'-0" 9'-6" 21.0 21.2
+70°
+10'-0" 21.2
+9'-0" 9'-6" 20.0 20.0
+90°
+10'-0" 20.0
+*24' Minimum for Two-Way Traffic
+HISTORY
+Adopted by Ord. PL-15on 11/1/1979
+Amended by Ord. 90-017 §1 on 4/11/1990
+Amended by Ord. 91-020 §1 on 5/29/1991
+Amended by Ord. 91-038 §3 on 9/30/1991
+Amended by Ord. 93-_043 §19 on 8/25/1993
+Amended by Ord. 93-063_ §2 on 12/15/1993
+Amended by Ord. 96-003 §7 on 3/27/1996
+Amended by Ord. 97-078 §6 on 12/31/1997
+Amended by Ord. 2001-044 §4 on 10/10/2001
+Amended by Ord. 2002-015 §2 on 6/19/2002
+Amended by Ord. 2003-005 §2 on 3/5/2003
+Amended by Ord. 2004-013 §12 on 9/21/2004
+Amended by Ord. 2010-018 §1 on 6/28/2010
+Amended by Ord. 202Q-:.001 §14 on 4/21/2020
+Amended by Ord. 2020-017 §2 on 1/29/2021
+Amended by Ord. 2020-018 §2 on 3/30/2021
+Amended by Ord. 2025-002 §30 on 3/28/2025
+Amended bv Ord. 2026-006 §1 0 on 4/22/202fi
+.{OlAisle Width- (E_)_Curb (ElBay
+One Way* Length Per Car Width
+30.0 31.0 12.0 12.0 12.0 22.0 22.0 22.0 32.0
+52.5 53.3 13.0 13.0 13.0 12. 7 13.4 14.1 54.0
+18.0 18.0 11.0 11.9 60.4 61.0
+61.0 60.9 19.0 18.5 18.0 9.6 10.1 10.6 60.4
+64.0 64.0 24.0 24.0 24.0 9.0 9.5 10.0 64.0
+18.116.095 Recreational Vehicle As A Temporary Dwelling On An Individual Lot Or
+Parcel
+A. A single recreational vehicle, as defined in DCC Title 18, may be located on a lot or
+parcel in a manufactured dwelling park, manufactured dwelling subdivision, mobile
+home park, or recreational vehicle park, consistent with ORS 197.493(1 ), provided
+that:
+1. The recreational vehicle is occupied as a dwelling; and
+2. The recreational vehicle is lawfully connected to water and electrical supply
+systems and a sewage disposal system.
+B. A single recreational vehicle, as defined in DCC Title 18, may be located on a lot or
+parcel not containing a dwelling unit and not within a manufactured dwelling park,
+mobile home park, or recreational vehicle park and used as a temporary dwelling:
+1. For a period totaling not more than 30 days in any consecutive 60-day period
+without obtaining a land use permit from the Deschutes County Planning
+Division; or
+2. For a total period not to exceed six months in a calendar year by obtaining a
+temporary use permit under the terms of DCC 18.116.095 from the
+Deschutes County Planning Division. A temporary use permit may be
+renewed annually for use of a recreational vehicle under the terms of DCC
+18.116.095 on the same lot or parcel.
+C. A single recreational vehicle, as defined in DCC Title 18, may be located on a lot or
+parcel containing a manufactured dwelling or single-unit dwelling, where such
+dwelling is uninhabitable due to damages from natural disasters, including wildfires,
+earthquakes, flooding, or storms until no later than the date:
+1. The single-unit dwelling or manufactured dwelling has been repaired or
+replaced and an occupancy permit has been issued;
+2. The local government makes a determination that the owner of the single­
+unit dwelling or manufactured dwelling is unreasonably delaying in
+completing repairs or replacing the dwelling; or
+3. T·wenty-four month:sr=ive years after the date the single-unit dwelling or
+manufactured dwelling first became uninhabitable.
+D. In the RR-10 and MUA-10 Zones, a single recreational vehicle, as defined in DCC
+Title 18, may be established as a rental dwelling provided the following
+requirements are met:
+1. Prior to locating any recreational vehicle as a rental dwelling on a lot or
+parcel, the property owner must obtain County siting approval for the area of
+the lot or parcel upon which the recreational vehicle will be located and
+demonstrate compliance with the following standards:
+a. The subject lot or parcel contains a single-unit dwelling or
+manufactured dwelling that is occupied as the primary residence of
+the property owner;
+1) As used in this section, "siting approval" includes County
+approval and/or property owner application for review of the
+proposed area for a recreational vehicle as a rental dwelling;
+and
+2) As used in this section, "primary residence" means a dwelling
+unit occupied by the property owner on a long-term or
+permanent basis.
+b. The lot area is at least two acres, with the exception of those
+unsewered areas between Sunriver and the Klamath County border,
+defined as those unincorporated portions of Deschutes County
+contained in Townships 19S, 20S, 21S, and 22S and Ranges 9E, 10E
+and 11 E. Within these exception areas, the lot area is at least five
+acres;
+c. There are no other dwelling units, guest houses, or occupied
+recreational vehicles on the lot or parcel and no portion of the single­
+unit dwelling or manufactured dwelling is rented for residential
+tenancy. This prohibition does not apply to a recreational vehicle
+under 18.116.095(C).
+d. The lot or parcel is not within an area designated as an urban reserve
+in the Deschutes County Comprehensive Plan;
+e. The recreational vehicle shall maintain a setback of at least 1 0 feet
+from any structure and must be located no farther than 100 feet from
+the single-unit dwelling. This distance shall be measured from the
+closest wall of the single-unit dwelling existing on May 7, 2025 to the
+closest wall of the recreational vehicle;
+f. The property owner will provide essential services to the recreational
+vehicle space including:
+1) Sewage disposal, listed frost protected water supply, electrical
+supply and, if required by applicable law, any drainage system,
+all installed with permits and to applicable codes; and
+2) Any other service or habitability obligation imposed by the
+rental agreement or ORS 90. 730 (Landlord duty to maintain
+rented space, vacant spaces and common areas in habitable
+condition), the lack or violation of which creates a serious
+threat to the tenant's health, safety or property or makes the
+rented space unfit for occupancy;
+g. At the time of application, the property owner must demonstrate an
+application has been made to the Onsite Wastewater Division for any
+necessary onsite wastewater disposal permits.
+h. At the time of application, a letter confirming that the supplier of
+water is "Willing and Able to Serve" the recreational vehicle shall be
+provided if the recreational vehicle is to be served by any water source
+other than an onsite domestic well.
+i. At the time of application, the property owner must demonstrate an
+application has been made to the Deschutes County Address
+Coordinator for an address for the recreational vehicle.
+j. The property owner shall provide a parking pad for the recreational
+vehicle with a surface material of compacted gravel with a minimum
+thickness of 4", concrete with a minimum thickness of 3.5", or asphalt
+with a minimum thickness of 3";
+k. If the recreational vehicle will be located within a structure, the
+structure shall be entirely open on two or more sides;
+l. The property owner shall demonstrate compliance with one of the
+following defensible space requirements:
+1) The property owner shall maintain a 20-foot radius of non­
+combustible ground cover consisting of gravel, concrete,
+asphalt, grass mowed to less than four inches, or a
+combination of these; or
+2) Prior to the siting of a recreational vehicle on the property, the
+property owner shall construct and maintain defensible space
+and fuel breaks as developed in consultation with local fire
+protection service providers who have received training or
+certification described in ORS 181A.410. Applicable defensible
+space and fuel breaks shall be on land surrounding the
+recreational vehicle on land that is owned or controlled by the
+owner.
+m. The property owner shall demonstrate compliance with one of the
+following emergency access requirements:
+1) Access to the recreational vehicle must be provided by a
+continuous, minimum 12-foot width onsite driveway with an
+unobstructed horizontal clearance of not less than 20 feet and
+an unobstructed vertical clearance of not less than 13.5 feet,
+designed and maintained as follows:
+A. Composed of an all-weather surface including asphalt
+or concrete; or
+B. Designed and maintained to support a minimum gross
+vehicle weight (GVW) of 75,000 lbs as certified by a
+Professional Engineer, registered in Oregon;
+2) The property owner shall provide written confirmation from a
+fire protection service provider with professionals who have
+received training or certification described in ORS 181A.410,
+on a form prepared by Deschutes County, that access to the
+recreational vehicle meets minimum fire district requirements
+to provide emergency services to the property.
+n. Prior to siting any recreational vehicle as a rental dwelling, the
+property owner shall sign and record with the County Clerk a
+restrictive covenant stating a recreational vehicle allowed under DCC
+18.118.095(0) cannot be used for vacation occupancy, as defined in
+DCC 18.116.095(0)(1 )(n)(i) and consistent with ORS 90.100, or other
+short-term uses.
+1) "Vacation occupancy" means occupancy in a dwelling unit,
+not including transient occupancy in a hotel or motel, that has
+all of the following characteristics:
+A. The occupant rents the unit for vacation purposes only,
+not as a principal residence; and
+B. The occupant has a principal residence other than at
+the unit; and
+C. The period of authorized occupancy does not exceed 45
+days.
+o. For properties located in the Wildlife Area Combining Zone, a
+recreational vehicle approved under this section is subject to the
+dwelling siting standards of DCC 18.88.060(8); and
+p. For properties located in the Surface Mining Impact Area Combining
+Zone, a recreational vehicle approved under this section is subject to
+site plan approval pursuant to DCC 18.56.
+2. Each recreational vehicle used as a rental dwelling must comply with the
+following standards:
+a. The recreational vehicle is subject to a written residential rental
+agreement as defined in ORS 90.100(39);
+b. The recreational vehicle shall be owned or leased by the tenant;
+c. The recreational vehicle shall include an operable toilet and sink;
+d. The recreational vehicle has not been rendered structurally immobile;
+and
+e. The recreational vehicle shall be titled with a Department of
+Transportation.
+E. All necessary permits shall be obtained from the Deschutes County Building Safety
+Division before connecting a recreational vehicle to sewer, water and/or electric
+utility services.
+F. A permit shall be obtained from the Deschutes County Environmental Health
+Division before disposing any wastewater or sewage on-site.
+G. A recreational vehicle used as a dwelling or temporary dwelling unit shall meet the
+same setbacks required of a permanent dwelling on the subject lot or parcel.
+H. A recreational vehicle shall be fully licensed and ready for highway use, on its
+wheels or jacking system, shall be attached to the site only by quick disconnect type
+utilities and security devices, and shall have no permanently attached additions.
+I. As identified in this section, a single recreational vehicle located within a special
+flood hazard area is subject to the standards and criteria established by DCC 18.96.
+HISTORY
+Amended by Ord. 91-038 §3 on 9/30/1991
+Amended by Ord. 95-075 §1 on 11/29/1995
+Amended by Ord. 98-062 §1 on 12/9/1998
+Amended by Ord. 2007-019 §4 on 9/28/2007
+Amended by Ord. 2023-001 §16 on 5/30/2023
+Amended by Ord. 2025-002 §30 on 3/28/2025
+Amended by Ord. 2025-004 §4 on 5/7/2025
+Amended by Ord. 2026-006 §10 on 4/22/2026
+18.116.210 Residential Homes And Residential Facilities
+Lin any application for a residential home or residential facility, the applicant shall
+not be required to supply any information concerning the existence of or the nature
+or severity of any handicap (as that term is defined under the Fair Housing Act) of
+prospective residents.
+B. Residential homes and facilities shall be permitted pursuant to the standards of
+ORS 197.665 and 197.667_, respectively. and any _ _a_pplicable standards of the DCC.
+Residential homes and facilities are permitted in the following zones, as
+summarized in the following table:
+Zone
+Exclusive Farm Use (EFU)
+Multiple Use Agricultural
+(MUA10)
+Residential Home
+Permitted in existing
+dwellings, subject to the
+standards of ORS
+215.296
+Permitted
+Residential Facility
+Not permitted
+Notp�mitted
+Rural Residential (RR10)
+Rural Service Center -
+Brothers, Hampton,
+Millican, Whistlestop,
+and Wildhunt
+Commercial/Mixed Use
+Rural Service Center -
+Alfalfa
+Commercial/Mixed Use
+Rural Service Center -
+f:\lfalfa Residential
+Terrebonne Residential
+District (TeR)
+Terrebonne Residential -
+5 Acre Minimum District
+(TeR5)
+Terrebonne Commercial
+District (TeQ
+Terrebonne Commercial-
+Rural{TeCR)
+Tumalo Residential
+District (TuR)
+Tumalo Residential - 5
+f:\cre Minimum District
+(TuR5)
+Permitted
+Permitted, subject to the
+applicable provisions of
+DCC 18.65.030
+Permitted, subject to the
+ap_plicable provisions of
+DCC 18.65.030
+Permitted, subject to the
+applicable provisions of
+DCC 18.65.030
+Permjtted, subject to the
+.applicable provtsiQnS_of
+DCCJ 8.66.060
+Permitted, subject to the
+applicable provisions of
+DCC 18.66,Q60
+Permitted on a lot or
+parcel existing on June 4.
+1997. subject to the
+.applicable provisions of
+DCC 18.66.060
+Permitted on a lol_Q_[
+parcel existing on June�
+199;',_subject to the
+.applicable provisions of
+DCC 18.66.060
+Permitted. subiect!o_1be
+applicable provisions of
+DCC 18.67.080
+Permitted. subject:tQthe
+applicable provisions of
+DCCJ 8.67.080
+Not permitted
+Permitted conditionall)',
+subject to the applicable
+movisions of DCC
+18.65.030
+Permitted, subject to the
+applicable provisions of
+DCC 18.65.030
+Not permitted
+Permitted conditionall)',
+subject to the applicable
+provisions of DCC
+18.66.060
+Permitted conditionall)',
+subject to the applicable
+provisions of DCC
+18.66.060
+Not permitted
+Not permitted
+Permitted conditionall)'.
+subject to the applicable
+provisions of DCC
+18.67.080
+Not permitted
+Tumalo Commercial
+DistricUTuC)
+Deschutes Junction and
+Deschutes River Woods
+Store
+Pine Forest and Rosland
+Sunriver-Singla Unlt
+Residential (RS District)
+Sunriver -Multiple Unit
+Residential (RM District)
+Sunrive __ L:::- Commercial.LC
+DistriQt)_
+Sunriver -Town Center
+{TC District}
+Sun river -Resort (R
+District)
+Seventh Mountain/Widgi
+Cree_k and Black Butte
+B.anch Resort Districts
+Permitted, subject to the
+applicable provisions of
+DCC 18.67.080
+Permitted
+Permitted
+Permitted, subject to the
+applicable provisions of
+DCC 18.108.020
+Permitted, subject to the
+applicable provisions of
+DCC 18.108.020
+Not permitted
+Not permitted
+Not permitted
+Permitted, subject to the
+applicable provisions of
+DCC 18.110.06Q
+Not permitted
+Not permitted
+Not permitted
+Permitted conditionalli,
+subject to the applicable
+provisions of DCC
+18.108.020
+Permitted, subject to the
+applicable provisions of
+DCC 18.108.020 and
+consistent with_the
+standards for multi-unit
+dwellings identified in
+DCC 18.108_.040
+Permitted, subject_to the
+applicable provisions of
+DCC 18.108.020
+Permitted, subject to the
+applicable provisions _Qf
+DCC 18.108.020 and
+DCC 18.108.055_{_El(1J
+and (2)
+Permitted, subject to the
+_ap_plLc_able_movisions of
+DCC 18.108.020 and
+consistent with the
+s_tand.ards for multi-unit
+dwellings identified in
+D__CC 18.108.040
+Permitted, subject to site
+plan review and the
+applicable provisions of
+DCCJ 8.110.060
+Widgi Creek Residential Permitted, subject to tbe Permitted, subject to the
+District applicable provisions Qf applicable provisions Qf
+DCC 18.110.060 DCC 18.110.060
+HISTORY
+Adopted by Ord. 91-038 §3 on 9/30/1991
+Amended by Ord. 2024-008 §15 on 1/7/2025
+Amended by Ord. 2026-006 §1 O on 4/22/2026
+18.116.250 Wireless Telecommunications Facilities
+A. Tier 1 Facilities. Wireless telecommunications facilities that do not require aviation
+lighting, that utilize natural wood colors or muted tones from amongst colors
+approved by Ordinance 97-017, that utilize a radio equipment cabinet or shelter that
+is less than 200 square feet in area and less than 10 feet in height, and that meet the
+following standards are allowed outright in any zone other than the Exclusive Farm
+Use, the Surface Mining Zone, and the Forest Zones and shall not be subject to any
+other provision of the zone:
+1. Facilities established by co-locating an additional set of antennas on an
+existing wireless telecommunications tower or monopole that do not exceed
+the County approved height of the tower or monopole. Notwithstanding any
+provision of DCC 18.116.250(A), facilities established under DCC
+18.116.250(A)(1) are permitted outright in any zoning district.
+2. Facilities that make use of existing vertical, lawfully established structures,
+including but not limited to power or telephone utility poles or towers,
+parking lot or street lighting standards or flagpoles. A pole location in a public
+right of way shall not be fenced. Antennas established on an existing vertical
+structure shall be installed so that they do not exceed the height of the
+existing vertical structure by more than 15 feet. New structures in this
+category are limited to equipment shelters that do not require a building
+permit. Walk-in equipment shelters shall be set back out of any road right of
+way at least 20 feet back from the pole location. Any necessary road right of
+way permits shall be obtained from the Deschutes County Road Department.
+Equipment cabinets shall be subject only to the road right of way setback
+requirements.
+3. Facilities that are established by attaching or placing an antenna or set of
+antennas on an existing, lawfully established building not designated as an
+historic structure, where the antenna array does not exceed the height of the
+building by more than 15 feet. All equipment shall be stored inside a building.
+4. Facilities that include installation of a new wood monopole that does not
+exceed the height limit of the underlying zone, and does not exceed 45 feet in
+height. All equipment shall be stored in a building that has a floor area that
+does not exceed 200 square feet in area and does not exceed 1 0 feet in
+height. The monopole, and any building, shall be set back from abutting lot
+lines according to the setbacks of the underlying zone. Any microwave dishes
+installed on the monopole shall not exceed a diameter of four feet. No more
+than two dishes shall be installed on a monopole or tower. The perimeter of a
+lease area for a facility established under DCC 18.116.250(A)(4) shall be
+landscaped with shrubs eight feet in height and planted a maximum of 24
+inches on center.
+B. Tier 2 Facilities. Wireless telecommunications facilities that do not require aviation
+lighting, that utilize a wood monopole for supporting antennas and/or microwave
+dishes and that meet the criteria in DCC 18.116.250 are allowed outright, subject to
+site plan review under DCC 18.116.250(B) (and not DCC 18.124.060) in the following
+zones: La Pine Commercial District (LPCD), La Pine Industrial District (LPID), Rural
+Industrial (RI), Rural Service Center (RSC), Rural Service Center-Wickiup Junction
+(RSC-WJ), Terrebonne Commercial District (TeC), and Tumalo Commercial District
+(TuC). Lattice towers or metal monopoles are not permitted with a Tier 2 facility.
+1. An application for site plan review for a Tier 2 wireless telecommunications
+facility shall meet the following criteria:
+a. Maximum Monopole Height. In the LPCD, LPID, RSC, RSC-WJ, TeC,
+and TuC zones, the maximum height of a monopole, including
+antennas and microwave dishes for a wireless telecommunications
+facility shall be 60 feet from finished grade. In the RI Zone, the
+maximum height of a monopole, including antennas and microwave
+dishes, for a wireless telecommunications facility shall be 75 feet
+from finished grade.
+b. Setbacks. All equipment shelters shall be set back from lot lines
+according to the required setbacks of the underlying zone. A
+monopole shall be set back from any adjacent dwelling unit a
+distance equal to the height of the monopole, including antennas and
+microwave dishes, from finished grade, or according to the setbacks
+of the underlying zone, whichever is greater.
+c. Shelters. Any equipment shelter shall be finished with natural
+aggregate materials or from colors approved with Ordinance 97-017.
+d. Landscaping. The perimeter of a lease area shall be landscaped with
+plant materials appropriate for its location. The lessee shall
+continuously maintain all installed landscaping and any existing
+landscaping used to screen a facility.
+e. Cabinets. Any equipment cabinets shall be finished with colors from
+amongst those colors approved with Ordinance 97-063. Such colors
+shall be non-reflective and neutral.
+f. Fences. A sight-obscuring fence, as defined by DCC Title 18, shall be
+installed around the perimeter of the lease area. The sight obscuring
+fence shall surround the monopole and the equipment shelter.
+C. Tier 3 Facilities. Wireless telecommunications facilities (or their equivalent uses
+described in the EFU, Forest, and SM Zones) not qualifying as either a Tier 1 or 2
+facility may be approved in all zones, subject to the applicable criteria set forth in
+DCC 18.128.330 and 18.128.340.
+1. A request for a written determination from the County as to whether a
+proposed facility falls within Tiers 1 or 2 of DCC 18.116.250 shall be
+submitted to the County in writing and accompanied by a site plan and
+proposed schematics of the facility. If the County can issue a written
+determination without exercising discretion or by making a land use decision
+as defined under ORS 197.015(10), the County shall respond to the request
+in writing.
+LA request for a written determination from the County as to whether a
+proposed facility falls within Tiers 1 or 2 of DCC 18.116.250 that involves
+exercising discretion or making a land use decision shall be submitted and
+acted upon as a request for a declaratory ruling under DCC 22.40.
+D. Spectrum Act Eligible_Facilities Requests.
+1. All eligible facility�reviews submitted in accordance with the Spectrum Act,
+SectiQn6409 of the Middle Class Tax Relief and Job Creation Act of 2012, 47
+U.S.C,. §J45.5Jg), shall be reviewed under the standards listed therein.
+HISTORY
+2. If the Counn, determines that a proposed collocation or modification of an
+existing tower or base station will substantially change the_p_hysical
+dimensions of such tower or base station, the Spectrum Act is inapplicable
+and this subsection (D) shall not apply. Such an application will be reviewed
+pursuant to DCC l8.116.250(A), (B) or (C) as a landJJSEi action pursuant to
+DCC Title 22.
+Adopted by Ord. 97-017 §7 on 3/12/1997
+Amended by Ord. 97-063§1 on 11/12/1997
+Amended by Ord. 2000-019 §1 on 9/6/2000
+Amended by Ord. 2010-011 §1 on 6/16/2010
+Amended by Ord. 2025-002 §30 on 3/28/2025
+Amended bv Ord. 2026-006 §1 0 on 4/22/2026
+18.1_ 16.290 Amateur Radio Facilities
+A. Amateur radio facilities shall meet the following criteria:
+1. Antenna support structures, including guy wires and anchors shall be
+located outside of the required front, rear, and side setback areas;
+2. Metal structures shall have a galvanized finish, or flat or matte silver, or flat or
+matte gray in color;
+3. Amateur radio facilities shall not include attached signage, symbols, or
+decorations, lighted or otherwise, other than required unlighted signage for
+safety or regulatory purposes;
+4. The property owner shall obtain a valid building permit if required from the
+Deschutes County Community Development Department, Building Safety
+Division;
+5. The height of amateur radio facilities shall be excepted from that of the
+underlying zoning district in accordance with B and C below, unless located
+in the AS, AD, or LM zones per DCC 18.120.040(A)(-t_5_).
+B. Amateur radio facilities up to 70 feet in height are allowed outright in any zone as an
+accessory use if the provisions of subsection (A) and (B)(1) are otherwise met.
+1. FCC License. The property owner shall obtain a current, valid FCC Amateur
+Radio License for the operation of amateur ("Ham") radio services in the
+name of the property owner.
+C. Amateur radio facilities over 70 feet in height, up to 200 feet maximum height, are
+subject to the requirements under subsection (A) and (C)(1 )(2), and any conditions
+of land use approval
+HISTORY
+1. Compliance with Federal and State Regulations
+a. The property owner shall demonstrate compliance with applicable
+Federal Communications Commission (FCC), Federal Aviation
+Administration (FAA), and Oregon Department of Aviation (ODA)
+restrictions if applicable by submitting copies of the FCC's, FAA's, and
+ODA's written determination to the Deschutes County Community
+Development Department.
+2. FCC License
+a. The property owner shall provide documentation of a current, valid
+FCC Amateur Radio License for the operation of amateur ("Ham")
+radio services in the name of property owner.
+b. Compliance may be demonstrated by submitting a copy of the
+property owner's Amateur Radio License to the Deschutes County
+Community Development Department.
+Adopted by Ord. 2008-007 §2 on 8/18/2008
+Amended by Ord. 2023-004 §1 on 5/30/2023
+Amended by Ord. 2025-002 §30 on 3/28/2025
+Amended_bv Ord. 2026-006 §1 O on 4122/2026
+Exhibit K
+CHAPTER 18.128 CONDITIONAL USE
+18.128.010 Operation
+18.128.015 General Standards Governing Conditional Uses
+18.128.020 Conditions
+18.128.030 Performance Bond
+18.128.040 Specific Use Standards.
+18.128.050 Airports, Aircraft Landing Fields, Aircraft Charter, Rental. Service Maintenance
+Facilities Not Located In The A-D Zone
+18.128.060 Automobile Wrecking Yard Or Junkyard
+18.128.070 Cemeteries
+18.128.080 Hospital. Nursing Home, Convalescent Home, Retirement Home
+18.128.090 Religious Institutions, Medical Clinic, Veterinary Clinic, Club, Lodge, Et Al
+18.128.100 D_Qg Pounds And Kennels
+18.128.11 O Home Occupations (Repealed)
+18.128.120 Disposal Site
+18.128.130 Commercial Use Or Accessory Use_ Not Wholly Enclosed Within A Building, Or
+A Retail Establishment, Office, Service Commercial Establishment, Et Al
+18.128.140 Commercial Amusement Establishment
+18.128.150 Manufactured Dwelling Park
+18.128.160 Multi-Unit Dwelling Complex
+18.128.170 Recreational Vehicle Park
+18.128.180 Radio, Television Tower, Utility Station Or Substation
+18.128.190 Schools
+18.128.200 Cluster Development (Single-Unit Dwelling Uses Only)
+18.128.21 O Planned Developme-□1
+18_,_128.220 Planned Communities
+18.128.230 Dude Ranches
+18.128.240 Shopping Complex
+18.128.250 High-Temperature Geothermal Wells And Small-Scale Geothermal Energy
+Facilities
+18.128.260 Hydroelectric Facilities
+18.128.270 Fill Or Removal - General/Discretionary Standards
+18.128.271 Fill Or Removal - Clear And Objective Standards Pursuant To DCC 22.08.040
+18.128.280 Surface Mining Of Non-Goal 5 Mineral And_Aggr_egate Resources
+18.128.290 Storage, Crushing And Processing Of Minerals In Conjunction With The
+Maintenance Or Construction Of Public Roads Or Highways
+18.128.300 Mini-Storage Facility
+18.128.310 Bed And Breakfast Inn
+18.128.320 Campgrounds
+18.128.330 Microwave And Radio Communication Towers In The SM Zone
+18.128.340 Wireless Telecommunications Facilities
+18.128.350 Guest Lodge
+18.128.360 Guest Ranch
+18.128.370 Time-Share Unit
+18.128.380 l?rocedure For Taking Action On Conditional Use Application
+18.128.390 Time Limit On A Permit For A Conditional Use
+18.128.400 Occupancy Permit
+18.128.41 O Time-Share Unit (Repealed)
+18.128.420 Building Permit For An Approved Conditional Use
+18.128.170 Recreational Vehicle Park
+A recreational vehicle park shall conform to state standards in effect at the time of
+construction, or in the case of pre-existing parks in the MUA-10 and RR-10 zone, at the time
+of permitting under DCC 18.128.170, and the following conditions:
+A. The space provided for each recreational vehicle shall be not less than 700 square
+feet exclusive of any space used for common areas such as roadways, general use
+structures, walkways, parking spaces for vehicles other than recreational vehicles,
+and landscaped areas.
+B. Roadways shall be not less than 30 feet in width if parking is permitted on the
+margin of the roadway, or not less than 20 feet in width if parking is not permitted on
+the edge of the roadway and shall be paved with asphalt, concrete, or similar
+impervious surface and designed to permit easy access to each recreational vehicle
+space.
+C. A space provided for a recreational vehicle shall be covered with crushed gravel or
+paved with asphalt, concrete, or similar material and be designed to provide for the
+control of runoff of surface water. The part of the space which is not occupied by the
+recreational vehicle, not intended as an access way to the recreational vehicle or
+part of an outdoor patio, need not be paved or covered with gravel provided the area
+is landscaped or otherwise treated to prevent dust or mud.
+D. A recreational vehicle space shall be provided with piped potable water and sewage
+disposal service. A recreational vehicle staying in the park shall be connected to the
+water and sewage service provided by the park if the vehicle has equipment needing
+such service.
+E. A recreational vehicle space shall be provided with electrical service.
+F. Trash receptacles for the disposal of solid waste materials shall be provided in
+convenient locations for the use of guests of the park and located in such number
+and of such capacity that there is no uncovered accumulation of trash at any time.
+6-:- No recreational vehicle shall l'ernain in the park for more than 30 days in any 60 day
+period.
+The total number of parking spaces in the park, except for the parking
+provided for the exclusive use of the manager or employees of the park, shall be one
+space per recreational vehicle space. Parking spaces shall be covered with crushed
+gravel or paved with asphalt, concrete or similar material.
+t.--'-H�. ___ The park shall provide toilets, lavatories and showers for each sex in the
+following ratios: For each 15 recreational vehicle spaces or any fraction thereof, one
+toilet, one urinal, one lavatory and one shower for men; two toilets, one lavatory and
+one shower for women. The toilets and showers shall afford privacy and the
+showers shall be provided with private dressing rooms. Facilities for each sex shall
+be located in separate buildings, or, if in the same building, shall be separated by a
+soundproof wall.
+t.-1._The park shall provide one utility building or room containing one clothes washing
+machine, one clothes drying machine and 15 square feet of space for clothes drying
+lines for each 10 recreational vehicle spaces or any fraction thereof, unless such
+facilities are available within a distance of three miles and are adequate to meet
+these standards.
+K:-L_Building spaces required by DCC 18.128.170(Ht) and (H) shall be lighted at all times
+of night and day, shall be ventilated, shall be provided with heating facilities which
+shall maintain a room temperature of 68 degrees Fahrenheit, shall have floors of
+waterproof material, shall have sanitary ceiling, floor and wall surfaces and shall be
+provided with floor drains adequate to permit easy cleaning.
+l::-:-.:....;;.K.'----__ Except for the access roadway into the park, the park shall be screened on all
+sides by a sight-obscuring fence not less than six feet in height, unless otherwise
+approved by the Planning Director or Hearings Body.
+M-:-_L. ___ A neat appearance shall be maintained at all times. Except for vehicles, there
+shall be no outside storage of materials or equipment belonging to the park or to any
+guest of the park.
+Evidence shall be provided that the park will be eligible for a certificate of
+sanitation as required by state law.
+0:-"'"'N""". __ Access to the recreational vehicle park shall be from an arterial or collector
+street.
+P:O. When expanding a recreational vehicle park with additional recreational
+vehicle or manufactured dwelling spaces in the MUA-10 or RR-10 zone, the park
+shall satisfy all of the criteria of DCC 18.128.150 and 18.128.170 as applicable, as
+to the existing developed areas as well as in the expansion area.
+HISTORY
+Adopted by Ord. PL-15 on 111111979
+Repealed & Reenacted by Ord. 91-02Q §1 on 5/29/1991
+Amended by Ord. 91-038 §1 on 9/30/1991
+Amended by Ord. 95-075 §1 on 11129/1995
+Amended by Ord. 2009-018 §4 on 1115/2009
+Amended by Ord. 2025-002 §33 on 3/28/2025
+Amendedbv Ord. 2026-006 §11 on 4/22/2026
+Exhibit L
+CHAPTER 19.04 TITLE, COMPLIANCE, APPLICABILITY AND DEFINITIONS
+19.04.010 Title
+19.04.020 Compliance With Title Provisions
+19.040.025 (Repeale_dl
+19.04.030 Applicability
+19.04.040 Definitions
+19.04.040 Definitions
+As used in DCC Title 19, words in the present tense include the future; the singular number
+includes the plural and the plural number includes the singular; unless the context clearly
+indicates the contrary, the word "shall" is mandatory and not discretionary; the word "may"
+is permissive; the masculine gender includes the feminine and neuter; and the term "this
+title" shall be deemed to include the text of this title and accompanying zoning maps and
+all amendments hereafter made thereto. As used in this title, unless the context requires
+otherwise, the following words and phrases shall be defined as set forth in DCC 19.04.040,
+or, where such words and phrases are defined in applicable Oregon Revised Statutes (ORS)
+and/or Oregon Administrative Rules (OAR), as defined therein. If there is any conflict
+between the definitions set forth in DCC 19.04.040 and the definitions of the same words
+and phrases in applicable ORS and/or OAR, the definitions in ORS and/or OAR shall prevail.
+"Abut or Abutting" means contiguous, touching, adjoining, or connected at one or more
+points.
+"Access corridor" means a separate travel way for pedestrians and bicyclists to minimize
+travel distances within and between subdivisions, planned unit developments, residential
+areas and commercial centers, major employment areas, transit stops, or within and
+between nearby neighborhood activity centers such as schools, parks, and convenience
+shopping.
+"Access or access way" means the place, means or way by which pedestrians and vehicles
+shall have safe, adequate and usable ingress and egress to, through or past a property or
+use as required by DCC Title 19.
+"Accessory structure" means a structure that is incidental and subordinate to another
+lawfully established structure or lawfully established use on the same lot or parcel.
+"Accessory use" means a use that is incidental and subordinate to another lawfully
+established use on the same lot or parcel. Accessory uses include drilling for, and
+utilization of, low-temperature geothermal fluid in conjunction with the main use of the
+property.
+"Aircraft" means any vehicle designed or used for flight through the air and capable of
+carrying goods or people.
+"Airport" means any area of land or water which is used or intended to be used for the
+landing and taking off of aircraft, and including appurtenant areas, buildings or facilities.
+"Alley" means a public way not more than 20 feet wide affording only secondary means of
+access to abutting property.
+"Altered." See "Structural Alteration."
+"Animal hospital" means a place where animals or pets are given medical or surgical
+treatment and are cared for during the time of such treatment. Use as a kennel shall be
+limited to short-time boarding and shall be only incidental to such hospital use.
+"Apartment" means a dwelling unit in a multiple-unit dwelling.
+"Applicant." A person applying for a permit, rezoning or nonlegislative comprehensive plan
+change.
+"Application for land use permit." A written application requesting a change in zoning,
+conditional and nonconforming uses, variances, subdivisions and matters relating to the
+comprehensive plan and amendments to the plan. Also included are partitions, building
+permits, and subsurface sewage permits.
+"Area of special flood hazard" means the land in the floodplain within Bend subject to a one
+percent or greater chance of flooding in any given year. Designation on maps always
+includes the letters A or V.
+"Assessor" means the County Assessor of Deschutes County.
+"Attached", with respect to dwelling units, means a dwelling unit attached to another
+dwelling unit by a shared wall, ceiling, or floor. Such a shared wall, ceiling, or floor must
+enclose interior space of at least one other dwelling unit and may include the walls of
+attached garages.
+"Attached", with respect to all structures, means a structure on an individual lot or parcel
+that is structurally connected to another structure of any type.
+"Automobile, boat or trailer sales lot" means an open lot or parcel used for display, sales or
+rental of new or used motor vehicles, boats or trailers in operative condition and where no
+repair work is done.
+"Automobile repair, major" means the general repair, rebuilding or reconditioning of
+engines, motor vehicles or trailers; collision service, including body, frame or fender
+straightening or repairs; or overall painting or paint shop.
+"Automobile repair, minor" means upholstering of, replacement of parts for and motor
+service to passenger cars and trucks not exceeding one and one-half tons capacity, but not
+including any operation named under Automobile repair, major" or any other similar
+operation thereto.
+"Automobile service station or filling station" means an establishment where bulk sales,
+fuels, oils, or accessories for motor vehicles are dispensed, sold or offered for sale at retail
+only, and where repair service is secondary.
+"Automobile towing" means an establishment where emergency-towing equipment is kept
+along with incidental, temporary and minor storage of vehicles and emergency repairs.
+"Automobile wrecking" means the dismantling or disassembling of motor vehicles or
+trailers, or the storage, sale, or dumping of dismantled, partially dismantled, obsolete, or
+wrecked vehicles or their parts. Two or more dismantled, obsolete or inoperable motor
+vehicles or parts thereof exposed to the public on one lot or parcel shall constitute a
+wrecking yard.
+"Babysitter" means a person who provides day care services for children in the home of the
+babysitter for not more than five children for eight or more hours in a 24-hour period as a
+home occupation.
+"Bank-full stage" means the elevation at which water overflows the natural banks of a
+stream, river or lake and begins to inundate the upland. In the absence of physical
+evidence, the two-year reoccurrence interval flood elevation may be used to approximate
+bank-full stage.
+"Base flood" means the flood having a one percent chance of being equaled or exceeded in
+any given year. Also referred to as the "100-Year Flood." Designation on maps always
+includes the letters A or V.
+"Basement" means any area of a building having its floor subgrade (below ground level) on
+all sides.
+"Bath, full bath" means a bathroom that contains a toilet, sink, and one or more of the
+following: a shower, bathtub, and/or steam shower.
+"Bath, half bath" means a bathroom that contains a toilet and a sink, but not one or more
+of the following: a shower, bathtub, and/or steam shower.
+"Bed and breakfast inn" means a single-unit dwelling where lodging and meals are
+provided, for compensation, in which no more than two guest rooms are provided for no
+more than six travelers or transient guests. A guest shall not rent for a time period longer
+than 15 consecutive nights.
+"Bed or banks of stream or river" means the physical container of the waters of a stream or
+river lying below bank-full stage, and the land 10 feet on either side of the container.
+"Bend urban area" means the adopted Bend Urban Growth Boundary that is shown on the
+Deschutes County Comprehensive Plan Map as Urban Area Reserve.
+"Bicycle" as used in Title 18 has the meaning given in ORS 801.
+"Bicycle facility" means any public or private improvements to accommodate and
+encourage bicycling, including bikeways and bike parking racks, spaces, and structures.
+"Bikeway" means any road, path, or way open to bicycle travel regardless of whether such
+facilities are designated for the preferential use of bicycles or are to be shared with other
+transportation modes.
+"Board." See "County Commission."
+"Boarding or lodging house" means a dwelling unit or part thereof, other than a hotel or
+motel or multi-unit dwelling, where lodging with or without meals is provided, for
+compensation, for three or more persons.
+"Boat dock or pier, community" means a personal use boating structure built over or
+floating upon the water of a lake, river, or stream which serves more than one property
+owner for the mooring of boats or as a landing place for marine transport, and having a
+surface area of 320 square feet or less.
+"Boat dock or pier, individual" means a personal use boating structure built over or floating
+upon the water of a lake, river, or stream which serves one property owner for the mooring
+of boats or as a landing place for marine transport, and having a surface area of 160 square
+feet or less.
+"Boat house" means a covered or enclosed structure designed to provide moorage and/or
+storage for recreational or commercial marine transport and built over or floating upon a
+lake, river, or stream.
+"Boat slip" means an area of bank or shore where soil or other material is excavated to a
+level at or below the level of the waters of an abutting lake, river, or stream, to allow the
+mooring or landing of marine transport within the excavated area.
+"Boat yard" means a place where boats are constructed, dismantled, stored, serviced, or
+repaired including maintenance work thereon.
+"Building" means any structure used or intended for supporting or sheltering any use or
+occupancy.
+"Building line" means a line parallel to the lot line and passing through the most forward
+point of plane of a building.
+"Building lot" means a lot or parcel occupied or intended to be occupied by a primary
+building or a group of such buildings and accessory buildings, together with such open
+spaces as are required by DCC Title 19, and having the required frontage on a street and
+setbacks.
+"Building, main" means a building within which is conducted the primary use permitted on
+the lot or parcel as provided in DCC Title 19.
+"Building official" means the Building Official of Deschutes County, Oregon.
+"Bulk distribution plant" means a facility for the storage of fuels or other volatile products
+and for their distribution to retail sales facilities or other bulk purchasers, regardless of
+ownership.
+"Cannabinoid" means any of the chemical compounds that are the active constituents of
+marijuana.
+"Cannabinoid concentrate" means a substance obtained by separating cannabinoids from
+marijuana by a mechanical extraction process; a chemical extraction process using a
+non hydrocarbon-based or other solvent, such as water, vegetable glycerin, vegetable oils,
+animal fats, isopropyl alcohol, or ethanol; a chemical extraction process using the
+hydrocarbon-based solvent carbon dioxide, provided that the process does not involve the
+use of high heat or pressure; or any other process identified by the Oregon Liquor Control
+Commission, in consultation with the Oregon Health Authority, by rule.
+"Cannabinoid edible" means food or potable liquid into which a cannabinoid concentrate,
+cannabinoid extract, or dried marijuana leaves or flowers have been incorporated.
+"Cannabinoid extract" means a substance obtained by separating cannabinoids from
+marijuana by a chemical extraction process using a hydrocarbon-based solvent, such as
+butane, hexane or propane; a chemical extraction process using the hydrocarbon-based
+solvent carbon dioxide, if the process uses high heat or pressure; or any other process
+identified by the Oregon Liquor Control Commission, in consultation with the Oregon
+Health Authority, by rule.
+"Cannabinoid product" means a cannabinoid edible and any other product intended for
+human consumption or use, including a product intended to be applied to the skin or hair,
+that contains cannabinoids or dried marijuana leaves or flowers. Cannabinoid product
+does not include usable marijuana by itself, a cannabinoid concentrate by itself, a
+cannabinoid extract by itself, or industrial hemp as defined in Oregon Revised Statutes
+571.300.
+"Car wash" means a lot or parcel on which motor vehicles are washed or waxed either by
+the patron or others, using machinery specially designed for the purpose.
+"Child care facility" as used in DCC Title 19 is defined in ORS 329A.
+"Church" (Repealed 2020-001 §17, 2020)
+"City" means the City of Bend, Oregon, including the following: City Commission, City
+Engineer, City Manager, and City Recorder-Treasurer.
+"Clinic" means a place for group medical services not involving overnight housing of
+patients.
+"Club" means an association of persons (whether or not incorporated), religious or
+otherwise, for a common purpose, but not including groups which are organized primarily
+to render a service carried on as a business for profit.
+"Color guide" means the paint examples maintained by the County which show acceptable
+colors for use on buildings, structures and signs including examples of prohibited and
+restricted colors.
+"Community building" means a building used for and operated by a nonprofit organization
+whose membership is open to any resident of the zone, neighborhood, or community in
+which the club is located; provided that the primary objectives of the organization are the
+improvement of the zone, neighborhood or community and its social welfare and
+recreation.
+"Community sewage system" means an on site system that serves more than one lot or
+parcel, more than one condominium unit, or more than one unit of a planned unit
+development.
+"Community storage area" means a facility established in accordance with City and/or
+County standards, designed to provide for the temporary or permanent storage of boats,
+campers, trailers and similar recreational vehicles or equipment, and serving two or more
+unrelated persons.
+"Community water system" a public water system that has 15 or more service connections
+used by year-round residents, or that regularly serves 25 or more year round residents.
+"Comprehensive plan" means the duly adopted Bend Area General Plan.
+"Comprehensive Sign Plan" means a sign plan for one or more properties in a commercial
+center or business complex showing all locations of proposed signage for business
+tenants, retail stores, services, offices, and other establishments that perform services on
+the premises.
+"Condominium" shall have the meaning set forth in ORS 100.
+"Conduit" means any tunnel, canal, pipeline, aqueduct, flume, ditch, or similar man-made
+structure which is or may be used to convey water.
+"Conservation easement" means a nonpossessory interest in real property conveyed by the
+property owner to the County, imposing limitations or affirmative obligations concerning
+the use of the property. The purposes of a conservation easement include, but are not
+limited to, retaining or protecting natural, scenic or open space values, public access,
+protecting natural resources, maintaining or enhancing air and water quality, and
+preserving the historical, archaeological, or cultural aspects of the property.
+"Contested case" means proceedings in which the legal rights, duties or privileges of
+specific parties under the County zoning ordinance, subdivision ordinance or other similar
+ordinances regulating land use are required to be determined only after public input and/or
+a hearing at which specific parties are entitled to appear and be heard.
+"Contiguous land" means lots or parcels of land under the same ownership which abut
+each other.
+"County" means Deschutes County, Oregon.
+"County Commission" means the Deschutes County Board of Commissioners.
+"Court" means an open, unoccupied space, other than a setback area, on the same lot or
+parcel with a building or group of buildings.
+"Curb level" means the level of the established curb in front of the building measured at the
+center of such front. Where no curb has been established, the County Engineer shall
+establish such level or its equivalent.
+"Dam" means any man-made structure which is or may be used to impound water.
+"Day care center or facility" see "child care facility".
+"Density" means the number of residential dwelling units per acre of land or the amount of
+land area expressed in square feet of land assignable to each dwelling unit in a residential
+development, including, but not limited to, one house on one lot or parcel, shall be
+computed as follows: the gross area of land within the development; less the total
+aggregate area dedicated for streets, private parks and recreation facilities dedicated or
+created as an integral part of the development; divided by the total number of dwelling
+units in the proposed development; equals the density. Density shall run with the land in a
+specific development and cannot be sold, loaned or otherwise divorced or separated from
+the specific development under consideration.
+"Deschutes River corridor" means all property within 100 feet of the ordinary high water
+mark of the Deschutes River. The ordinary high water mark shall be as defined in DCC
+19.04.040.
+"Destination resort" means a self-contained development that provides for visitor-oriented
+accommodations and developed recreational facilities in a setting with high natural
+amenities. To qualify as a "large destination resort" under Goal 8, a proposed development
+must meet the following standards:
+A. The resort is located on a site of 160 or more acres;
+B. At least 50 percent of the site is dedicated to permanent open space, excluding
+setback areas, streets, and parking areas;
+C. A least $7 million (in 1993 dollars) shall be spent on improvements for on-site
+developed recreational facilities and visitor-oriented accommodations exclusive of
+costs for land, sewer and water facilities and roads. Not less than one-third of this
+amount shall be spent on developed recreational facilities, and;
+D. Visitor-oriented accommodations are provided, including meeting rooms,
+restaurants with seating for 100 persons and 150 separate rentable units for
+overnight lodgings. Accommodations available for residential use shall not exceed
+two and one-half such units for each unit of overnight lodging. However, the
+overnight lodging units may be phased in as follows:
+1. A total of 150 units of visitor-oriented overnight lodging shall be provided as
+follows:
+a) At least 50 units of overnight lodging must be constructed prior to the
+closure of sale of individual lots, parcels, or units, and;
+b) At least 50 of the remaining 100 required overnight lodging units must
+be constructed or guaranteed through surety bonding or equivalent
+financial assurance within five years of the initial lot or parcel sales.
+c) The remaining required overnight lodging units must be constructed
+or guaranteed through surety bonding or equivalent financial
+assurances within 10 years of the initial lot or parcel sales.
+2. The number of units approved for residential sale within the resort shall be
+not more than two and one-half units for each unit of permanent overnight
+lodging constructed or financially assured, and;
+3. If the developer of a resort guarantees the overnight lodging units required
+under subparagraphs (C) and (D) of this paragraph through surety bonding or
+other equivalent financial assurance, the overnight lodging units must be
+constructed within four years of the date of execution of the surety bond or
+other equivalent financial assurance.
+E. Commercial uses allowed are limited to those types and levels necessary to meet
+the needs of visitors to the development. Industrial uses of any kind are not
+permitted.
+"Detached", with respect to structures, means a structure on an individual lot or parcel
+that is freestanding and structurally separated from other structures.
+"Development" means any change to a site, lot, or parcel, including buildings, placement
+or replacement of any structures, parking and loading areas, landscaping, paved or
+graveled areas, grading or fill, mining, and areas devoted to exterior display, advertisement,
+storage, or activities. Development includes improved open areas such as plazas and
+walkways, but does not include natural geologic forms or landscapes. Development
+includes partitions and subdivisions.
+"Development, flood-plain", for the purpose of flood standards, means any man-made
+change to an improved or unimproved site, lot, or parcel, including, but not limited to
+buildings or other structures, mining, dredging, filling, grading, paving, excavation or drilling
+operations, or storage of equipment or materials.
+"Development" means any man-made change to improved or unimproved real estate,
+including but not limited to, buildings or other structures, mining, dredging, filling, paving,
+excavation or drilling operations.
+"Districts," when used herein, shall refer to zones, unless obviously to the contrary.
+"Diversion" means any man-made structure which is or may be used to deflect or divert
+water from a river or stream into a conduit.
+"Driveway" means an area of land intended for vehicular ingress and egress to a site,
+extending into the site, lot, or parcel from a road, street, or right of way.
+"Dude ranch" means a ranch operated wholly or in part as a resort offering horse-back
+riding and related activities as outdoor recreation opportunities and offering only
+temporary rental accommodations for vacation use by nonresidents.
+"Dwelling unit" means a building or portion thereof providing living facilities for one or more
+persons living together, including provisions for sleeping, cooking, and sanitation. Cooking
+facilities shall be limited to one kitchen and sanitation facilities shall include at least one
+full bath. All areas shall have an enclosed and unobstructed way of travel within the
+dwelling unit to all other areas within the dwelling unit. With the exclusion of bedrooms, all
+areas within the dwelling unit shall be shared in common.
+A. "Duplex" means two attached dwelling units on an individual lot or parcel.
+B. "Dwelling unit, accessory" shall have the meaning set forth in DCC 19.92.160(A).
+C. "Dwelling unit, historic accessory" shall have the meaning set forth in DCC
+19.92.150(A).
+D. "Dwelling, manufactured" shall have the meaning set forth in ORS 446.003. As used
+in DCC Title 19, "manufactured home" shall by synonymous with "manufactured
+dwelling" as defined herein.
+E. "Dwelling, multi-unit" means a building that consists of three or more attached
+dwelling units on an individual lot or parcel.
+F. "Dwelling, multi-family" means a "multi-unit dwelling" as defined herein.
+G. "Dwelling, single-unit" means a detached dwelling unit on an individual lot or
+parcel.
+H. "Dwelling, single-family" means a "single-unit dwelling" as defined herein.
+I. "Dwelling, seasonal" means a single-unit dwelling, including a manufactured
+dwelling, travel trailer, or camping vehicle, designed for and used as a temporary
+dwelling for recreational or seasonal purposes only.
+J. "Dwelling Unit, Zero Lot Line" means dwelling units which are constructed with a
+zero side setback.
+K. "Townhouse" means a dwelling unit that is part of a row of two or more attached
+dwelling units, where each unit is located on an individual lot or parcel.
+L. "Two-family dwelling" means a "duplex" as defined herein.
+"Easement" means a grant of the right to use a lot or parcel of land or portion thereof for
+specific purposes where ownership of the land or portion thereof is not transferred.
+"Eave" means a projecting overhang four feet or less at the lower border of a roof and
+extending from a wall or support.
+"Exempt vegetation" means a tree or other plant that is shown by the sun chart
+accompanying a solar access permit application to cast existing shade on a protected
+area.
+"Existing" means existing at the time of application.
+"Exterior modification" means a change in the exterior structure of a building that
+significantly alters the appearance of any side of a building, including a change of color.
+"Family child care provider" means a child care provider vvho regularly provides child care
+in the home of the provider to not more than 16 children, including children of the provider,
+regardless of full-time or part-time status.
+"Farm use" means the current employment of land, including that portion of such lands
+under buildings supporting accepted farming practices, for the purpose of obtaining a
+profit in money by raising, harvesting and selling crops, or by the feeding, breeding,
+management and sale of, or the produce of, livestock, poultry, fur-bearing animals or honey
+bees, or for dairying and the sale of dairy products, or any other agricultural or horticultural
+use or animal husbandry, or any combination thereof. "Farm use" includes the preparation
+and storage of the products raised on such land for human and animal use, and disposal by
+marketing or otherwise. It does not include the use of the land subject to the provisions of
+ORS 321, or to the construction and use of dwellings customarily provided in conjunction
+with the farm use. "Current employment" of land for farm use includes:
+A. Land subject to the soil-bank provisions of the Federal Agricultural Act of 1956, as
+amended (P. L. 85-540, 70 Stat. 188);
+B. Land lying fallow for one year as a normal and regular requirement of good
+agricultural husbandry; and
+C. Land planted in orchards or other perennials prior to maturity.
+As used in this DCC 19.04.040, "accepted farming practice" means a mode of operation
+that is common to farms of a similar nature, necessary for the operation of such farms to
+obtain a profit in money, and customarily utilized in conjunction with farm use.
+Any structure, pen, or corral wherein cattle, horses, sheep, goats, swine, or other similar
+animals are maintained in close quarters for the purpose of fattening such livestock for
+final shipment to market or for breeding is a farm use.
+"Fence, sight obscuring" means a continuous fence, wall, evergreen planting, or
+combination thereof constructed and/or planted to effectively screen a particular use from
+view.
+"Fill", as used in the context of lakes, rivers, streams, floodplains, wetlands, or riparian
+areas, means:
+A. The deposit by artificial means of material within any lake, river, stream, floodplain,
+wetland, or riparian area.
+B. Fill includes any excavation or grading within any lake, river, stream, floodplain,
+wetland, or riparian area.
+C. Fill does not include shall not include practices that constitute accepted farming
+practices as defined in ORS chapter 215.
+"Fish passage device" means any man-made structure which is or may be used to enable
+fish to pass over a dam to move upstream.
+"Fish protection device" means any man-made structure, such as a fish screen, which is or
+may be used to prevent fish from entering into or passing through conduits, pen stocks and
+other water conducting structures or devices connected to a hydroelectric facility.
+"Flood or flooding" means a general and temporary condition of partial or complete
+inundation of normally dry land areas from:
+A. The overflow of inland or tidal waters; and/or
+B. The unusual and rapid accumulation of runoff surface waters from any source.
+"Flood hazard area" means the relatively flat area or lowland abutting the channel of a river,
+stream, other watercourse, lake, or reservoir which has been or may be covered by a base
+flood.
+"Flood Insurance Rate Map" (FIRM) is the official map on which the United States Federal
+Insurance Administration has delineated both the areas of special flood hazards and the
+risk premium zones applicable to the community. The FIRM is adopted by reference in
+Ordinance No. 2007-019.
+"Flood Insurance Study" is the official report provided by the Federal Insurance
+Administration that includes flood profiles, the Flood Boundary-Floodway Map, and the
+water surface elevation of the base flood condition of partial or complete inundation of
+normally dry land areas. The Study is adopted by reference in Ordinance No. 2007-019.
+"Floodway" means the channel of a river or other watercourse and the adjacent land areas
+that must be reserved in order to discharge the base flood without cumulatively increasing
+the water surface elevation more than one foot.
+"Floor area" means the area measured in square feet of horizontal space intended to be a
+floored surface contained within a building or portion thereof, measured inside of the
+external walls, including slab-on-grade and exclusive of vent shafts, courts, and
+basements. When calculating floor area, stairs are counted once unless the area under the
+stairs is part of the dwelling unit's floor plan, in which case the stairs are counted twice.
+Portions of the floor area with a sloped ceiling measuring less than five feet from the
+finished floor to the finished ceiling are not considered as contributing to the floor area.
+"Frontage, river" means that portion of a lot or parcel abutting a river, stream, or lake.
+"Frontage, street" means the length of a lot line that directly abuts or borders a right of way.
+"Garage, private" means an accessory building or portion of a main building used for the
+parking or temporary storage of vehicles owned or used by occupants of the main building.
+"Garage, public" means a building other than a private garage used for the care and repair
+of motor vehicles or where such vehicles are parked or stored for compensation, hire or
+sale.
+"Grade" means the elevation of the ground surface. Grade is further defined as:
+A. "Grade, average", for the purposes of calculating structural height, shall be the
+average of two points which shall be the highest finished grade abutting a structure
+and the lowest finished grade abutting the structure.
+B. "Grade, existing" means the existing elevation of the ground surface prior to grading,
+compaction, placement of fill, and/or the excavation or removal of earth from the lot
+or parcel.
+C. "Grade, finished" means the final elevation of the ground surface following all
+grading, compaction, placement of fill, and/or the excavation or removal of earth
+from the lot or parcel.
+D. For the purposes of roads, streets, rights of way, or slopes, "grade" shall mean the
+degree of inclination.
+"Ground mounted sign," in the Bend Urban Area, a "Ground mounted sign" means a
+freestanding sign that has a solid base which is directly and continuously connected to the
+sign face for at least 50 percent of the sign face width or is borne by supports less than or
+equal to 24" in height as measured from grade to the sign face.
+"Guesthouse" means living quarters within a detached accessory building located on the
+same lot or parcel as a dwelling unit for use by temporary guests of the occupants of the
+main premises, or for members of the same family as that occupying the main structure,
+not rented or otherwise used as a separate dwelling unit. A guesthouse shall contain no
+kitchen.
+"Hearings Body" means Plarrning Commission, Hearings Officer, County Planning
+Commission, County Legal Counsel,_ and County Board of Commissioners.
+"Hearing, initial" is a quasi-judicial hearing authorized and conducted by the Hearings
+Officer or C.punty Planning Commission to determine if a change or permit shall be granted
+or denied.
+"Hearings Officer" means a planning and zoning Hearings Officer appointed or designated
+by the County Commission pursuant to ORS 227.165 or, in the absence of such appointed
+Hearings Officer, the County Planning Commission,_ or City Council.
+"Height " as it pertains to structures, means the vertical distance from average grade to the
+highest point of the structure.
+"Highest shade producing point" means the highest shade producing point of the structure
+two hours before and after the solar zenith on December 21.
+"Home occupation" means a use conducted entirely within a dwelling unit, which use is
+clearly incidental and secondary to the use of the dwelling unit for dwelling purposes and
+with the conditions of DCC 19.88.140.
+"Hospital" means any institution, place, building or agency which maintains and operates
+organized facilities for 20 or more persons for the diagnosis, care and treatment of human
+illness, including convalescence and care during and after pregnancy, or which maintains
+and operates organized facilities for any such purpose, and to which persons may be
+admitted for overnight stay or for a longer period.
+"Hotel" means a building or portion thereof with more than five sleeping rooms designed or
+used for occupancy of individuals who are lodged, with or without meals, and in which no
+provision is made for cooking in any individual room or suite.
+"Human resource facility" means a facility under the control of and financed by a unit of
+government or religious, philanthropic, charitable or nonprofit organization and devoted to
+the housing, training or care of children, the aged, indigent, disabled or underprivileged,
+including places of detention or correction.
+"Hydroelectric facility" means all aspects of any project or development necessary for or
+related to the generation of hydroelectric energy, including, but not limited to, conduits,
+dams, diversions, fish ladders and screens, generators, impoundments, penstocks,
+turbines, transmission facilities and related buildings, structures, storage areas, access
+roads, parking areas and surrounding and adjacent lands which are necessary for or
+related to the facility.
+"lmpoundment" means any man-made structure which is or may be used to impound
+water.
+"Incidental and subordinate" means minor, secondary, and dependent in relation to
+another use, activity, or structure.
+"Junk yard" means a place where waste, discarded or salvaged materials are stored,
+bought, sold, exchanged, baled, packed, disassembled or handled, including auto
+wrecking yards, house wrecking yards, used lumber yards, and places or yards for storage
+of salvaged house wrecking and structural steel materials and equipment; but not
+including such places where such uses are conducted entirely within a completely
+enclosed building, and not including pawn shops and establishments for the sale,
+purchase or storage of used furniture and household equipment, used cars in operative
+condition or salvaged materials incidental to manufacturing operations.
+"Kennel" means any premises where four or more dogs, cats, or other small animals, or any
+combination thereof at least four months of age, are kept commercially or permitted to
+remain for board, propagation, training, or sale, except veterinary clinics and animal
+hospitals.
+"Kitchen" means a discrete, enclosable area that includes a sink outside of a bath, and one
+or more of the following: a stove, range, oven, microwave, any food heating appliance, a
+range hood and/or exhaust vent, or rough-ins for any of these appliances.
+"Land use action." Any action involving an application for a land use permit.
+"Landscaping" includes primarily trees, grass, bushes, shrubs, flowers, garden areas, and
+incidental arrangements of fountains, patios, decks, street furniture and ornamental
+concrete or stonework areas, and artificial turf or carpeting, but excludes artificial plants,
+bushes, shrubs or flowers.
+"Livestock" means animals of any kind kept or raised for sale, resale, agriculture field
+production or pleasure.
+"Livestock feeding yard" means an enclosure designed or used for the purpose of
+concentrated feeding or fattening of livestock for commercial slaughter.
+"Livestock sales yard" means an enclosure or structure designed or used for holding
+livestock for purposes of sale or transfer by auction, consignment or other means.
+"Loading space" means an off-street space within a building or on the same lot or parcel
+with a building, for the temporary parking of a commercial vehicle or truck while loading or
+unloading merchandise or materials and which space has direct access to a street or alley.
+"Lot" shall have the meaning set forth in ORS 92.010.
+"Lot area" means the total horizontal area contained within the lot lines. Said area shall be
+computed as gross area for lots or parcels larger than 2.5 acres and net area for lots or
+parcels 2.5 acres and smaller.
+A. "Lot area, gross" means the total horizontal net area within lot lines including all
+streets, roads, and easement of access to other property that would accrue to that
+lot or parcel if the road, street, or easement were vacated. The gross area of lots or
+parcels that have never been previously described of record as other than fractions
+of a section shall be calculated as if the section contained 640 acres, in cases
+where a lot or parcel is sought to be partitioned.
+B. "Lot area, net" shall be used for lots or parcels smaller than 2.5 acres and means
+the total horizontal area contained within the lot lines that is free from roads,
+streets, rights of way, or easements of access to other property.
+C. As used in DCC Title 19, "lot size" shall be synonymous with "lot area".
+"Lot coverage" means all areas of a lot or parcel covered by structures with surfaces
+greater than 18 inches above the finished grade.
+"Lot Line" means any line bounding a lot or parcel.
+A. "Lot Line, Front" means a lot line separating a lot or parcel from a street, road, or
+right of way. A lot or parcel may have more than 'one front lot line. In the case of a lot
+or parcel that does not have street frontage, a front lot line shall be any lot line
+through which driveway access to the property is provided.
+B. "Lot Line, Northern" for the purposes of DCC 19.88.210, the northern lot line shall
+be the northerly edge of the lot or parcel on which an applicant's structure is
+located, unless directly north of the lot or parcel is an unbuildable area, in which
+case'northern lot line means the northerly edge of the buildable area.
+C. "Lot Line, Rear" means the lot line not abutting a street, road, or right of way, which
+is the longest horizontal distance, measured perpendicularly, from any front lot line.
+In the case of an irregular or triangular-shaped lot or parcel, the rear lot line is a line
+10 feet in length within the lot or parcel, parallel to and at the maximum distance
+from a front lot line. An irregular lot or parcel with four or more sides is one in which
+a side lot line and the rear lot line form an interior angle of at least 135 degrees.
+D. "Lot Line, Side" means any lot line other than a front or rear lot line bounding a lot or
+parcel.
+"Lot of record" means:
+A. A lot or parcel at least 5,000 square feet in area and at least 50 feet wide, which
+conformed to all zoning and subdivision or partition requirements, if any, in effect on
+the date the lot or parcel was created, and which was created by any of the following
+means:
+1. By partitioning land as defined in ORS 92.010(8);
+2. By a subdivision plat, as defined in ORS 92.010(9), filed with the Deschutes
+County Surveyor and recorded with the Deschutes County Clerk;
+3. By deed or contract, dated and signed by the parties to the transaction,
+containing a separate legal description of the lot or parcel, and recorded in
+Deschutes County if recording of the instrument was required on the date of
+the conveyance. If such instrument contains more than one legal
+description, only one lot of record shall be recognized unless the legal
+descriptions describe lots in accordance with a recorded subdivision or town
+plat;
+4. By a town plat filed with the Deschutes County Clerk and recorded in the
+Deschutes County Record of Plats; or
+5. By the subdividing or partitioning of adjacent or surrounding land, leaving a
+remainder lot or parcel.
+B. The following shall not be deemed to be a lot of record:
+1. A lot or parcel created solely by a tax lot segregation because of an
+Assessor's roll change or for the convenience of the Assessor;
+2. A lot or parcel created by an interven ing section or township line or right of
+way;
+3. A lot or parcel created by an unrecorded subdivision, unless the lot or parcel
+was conveyed in accordance with DCC 19.04.040(A){3); or
+4. A parcel created by the foreclosure of a security interest.
+"Lot width" means the diameter of the largest circle that can be wholly contained within
+the boundaries of a lot or parcel.
+"Lowest floor" means the lowest floor of the lowest enclosed area (including basement). An
+unfinished or flood resistant enclosure, usable solely for parking of vehicles, building
+access, or storage, in an area other than a basement area, is not considered a building's
+lowest floor, provided that such enclosure is not built so as to render the structure in
+violation of the applicable nonelevation design requirements of DCC 19.72.070.
+"Maintain" means to cause or allow to continue in existence. When the context indicates,
+the word shall mean to preserve and care for a structure, improvement, condition or area to
+such an extent that it remains attractive, safe and presentable, and carries out the purpose
+for which it was installed, constructed or required.
+"Manufactured dwelling park" shall have the meaning set forth in ORS 446.003.
+"Manufactured dwelling subdivision" means a subdivision designed and intended for
+residential use where residence is in manufactured dwellings.
+"Marijuana production" means the manufacture, planting, cultivation, growing, trimming,
+harvesting, or drying of marijuana, provided that the marijuana producer is licensed by the
+Oregon Liquor Control Commission, or registered with the Oregon Health Authority and a
+"person designated to produce marijuana by a registry identification cardholder."
+"Marijuana retailing" means the sale of marijuana items to a consumer, provided that the
+marijuana retailer is licensed by the Oregon Liquor Control Commission for recreational
+marijuana sales or registered with the Oregon Health Authority for medical marijuana
+sales.
+"Marijuana wholesaling" means the purchase of marijuana items for resale to a person
+other than a consumer, provided that the marijuana wholesaler is licensed by the Oregon
+Liquor Control Commission.
+"Marina" means a structure or structures built over or floating upon the waters of a lake,
+river, stream or man-made waterway that provides moorage, launching, storage, supplies
+and services for recreational and/or commercial marine transport.
+"Mobile home" shall have the meaning set forth in ORS 446.003.
+"Mobile home park" shall have the meaning set forth in ORS 446.003.
+"Motel" means a building or group of buildings used for transient or residential purposes
+and containing guest rooms with automobile storage space provided in connection
+therewith; which building or group is designed, intended, or used primarily for the
+accommodation of transient automobile travelers, including groups designated as auto
+cabins, motor courts, motor hotels, and similar designations.
+"Municipal water supply system" means a domestic water supply source and distribution
+system owned and operated by a City or County, or owned and operated by a special
+district or other public corporation which has independent tax-levying powers to support
+the system and which supplies water to a total of 1,000 or more households.
+"Natural hazard" means geographic areas in which natural conditions exist which pose or
+may pose a threat to the health, safety, or welfare of people, property, or the environment,
+including areas subject to drought, earthquake, flood, landslide, volcanic event, wildfire,
+windstorm, or severe winter storm.
+"Nonconforming use" means a use of a lot, parcel, a building, or structure, which use
+lawfully existed at the time of the adoption of DCC Title 19, or of any amendment thereto,
+but which use does not conform with the use regulations imposed by DCC Title 19 or such
+amendment thereto.
+"Nursing home" means any home, institution, or other structure maintained or operated for
+the nursing and care of four or more ill or infirm adults not requiring hospital care or
+hospital facilities.
+"Open space" means any lot, parcel, or area of land or water set aside, designed, or
+reserved for the public or private use or enjoyment, or for the use and enjoyment of owners
+and occupants of land abutting or neighboring such open space.
+"ORS" means Oregon Revised Statutes.
+"Ordinary High Water" (OHW) means the highest line on the bank or shore of a lake, river, or
+stream to which the water ordinarily rises annually in season.
+"Ordinary Low Water" (OLW) means the lowest line on the bank or shore of a lake, river, or
+stream to which the water ordinarily recedes annually in season.
+"Outdoor promotional event" means an on-site outdoor sales or promotional event
+conducted in the parking lot or other outdoor area relating to a retail store or shopping
+mall. Such events are allowed only in the CH, CL, and CG zones and are subject to
+conditions under those zones.
+"Overnight lodgings" with respect to destination resorts, means permanent, separately
+rentable accommodations that are not available for residential use. Overnight lodgings
+include hotel or motel rooms, cabins and time-share units. Individually owned units may
+be considered overnight lodgings if they are available for overnight rental use by the general
+public for at least 38 weeks per calendar year through a central reservation system
+operated by the destination resort or by a real estate property manager, as defined in ORS
+696.010. Tent sites, recreational vehicle parks, mobile homes, dormitory rooms and similar
+accommodations do not qualify as overnight lodging for the purpose of this definition.
+"Owner" means the owner of record of real property as shown on the tax rolls of Deschutes
+County, or a person purchasing a piece of property under contract. For the purposes of
+DCC Title 19 in terms of violations and binding agreements between the County and the
+owner, the word "owner" shall also mean a leaseholder, tenant or other person in
+possession or control of the premises or property at the time of the agreement or violation
+of agreement or the provisions of DCC Title 19.
+"Parcel" shall have the meaning set forth in ORS 92.010.
+"Parking area, public" means an open area, other than a street or other public way, used for
+the parking of automobiles and available to the public whether for a fee, free or as an
+accommodation for clients or customers.
+"Parking POD" means 50 or fewer parking spaces located together in a group.
+"Parking space" means a durable and dustless, permanently surfaced and marked area,
+excluding paved area necessary for access, for the parking of a motor vehicle.
+"Partition" shall have the meaning set forth in ORS 92.010.
+"Partitioning land" shall have the meaning set forth in ORS 92.010.
+"Partition plat" shall have the meaning set forth in ORS 92.010.
+"Party." Any person who has standing.
+"Pedestrian facility" means any public or private improvement that accommodates and
+encourages pedestrian traffic including sidewalks, on-site walkways, crosswalks, access
+corridors, and may include other improvements such as lighting, benches and fences
+which make it safe or convenient to walk.
+"Penstock" means any conduit or other structure which is or may be used to convey water
+to ,the driving mechanism of the generator.
+"Permit." Authority for or approval of a proposed use of land for which approval is a matter
+of discretion and is required by a land use ordinance. The term includes, but is not limited
+to, permission given for those changes set forth in Application for Land Use Permit and a
+special exception, special design zone, and other similar permits.
+"Permittee" means the person who is proposing to use or who is using the land pursuant to
+any permit required herein.
+"Person." means any individual, partnership, corporation, association, governmental
+subdivision or agency, or public or private organization of any kind.
+"Person designated to produce marijuana by a registry identification card holder" means
+person designated to produce marijuana by a registry identification cardholder under
+Oregon Revised Statutes 475.304 who produces marijuana for a registry identification
+card holder at an address other than the address where the registry identification
+card holder resides or at an address where more than 12 mature marijuana plants are
+produced.
+"Plarrning Cornrnission" means the Planning 60111111issio11 of the Bend Urban Arna.
+"Planning Director" means the Director of the Deschutes County Planning Department and
+his/her delegate.
+"Planned unit development" means the development of an area of land as a single entity for
+a number of dwelling units or a number of uses, according to a plan which does not
+necessarily correspond in lot area, bulk, or type of dwelling unit, density, lot coverage, or
+required open space to the standard regulations otherwise required by DCC Title 19.
+"Plat" shall have the meaning set forth in ORS 92.010.
+"Pole sign" means a freestanding sign connected to the ground by one or more supports,
+where any portion of the lower edge of the sign face is separated from the ground by air, a
+distance greater than 24" in height as measured from grade.
+"Potential structure" means for purpose of solar access protection, a potential structure is
+any structure or building that could be built as a permitted use in a particular location
+under existing development standards under the existing Deschutes County
+Comprehensive Plan.
+"Preschool" as used in Title 19 is defined in ORS 329A as "preschool recorded program".
+"Primary building entrance" means the main entrance closest to the public street by which
+pedestrians can access a building, structure, or activity.
+"Primary frontage" means that portion of a lot or parcel of property which abuts a
+dedicated public street, highway, or an approved private street and is where the public or
+customer entrance fronts upon.
+"Primary building" means the largest building or buildings within a commercial center or
+business complex. Typically, these are the anchor tenants.
+"Primary use" means a lawfully established use on a lot or parcel that is not incidental and
+subordinate to another use on the lot or parcel. A lot or parcel may contain multiple
+primary uses.
+"Productive solar collector" means a solar collector that provides no less than a) 10
+percent of a building's annual total energy requirements, or b) 50 percent of a building's
+annual water heating requirements.
+"Property line" shall have the meaning set forth in ORS 92.010.
+"Property line adjustment" means a relocation or elimination of all or a portion of the
+common property line between abutting properties that does not create an additional lot or
+parcel.
+"Protect" means save or shield from loss, destruction, or injury or for future intended use.
+"Protected area" means the specific area which is provided solar access for specific hours
+and dates under DCC Title 19.
+"Provide" means prepare, plan for, and supply what is needed.
+"Public buildings" means buildings that are owned and operated by federal, state, or local
+governments or special districts and which are occupied by such a governmental or quasi
+governmental body to provide non proprietary governmental services. Such buildings
+include, but are not limited to, fire stations, city halls, courthouses, administration
+buildings, human service facilities, and correctional facilities.
+"Public Works Director" means the Director of Deschutes County's Public Works
+Department, or the Road master or his/her delegate.
+"Public utility water system" means a domestic water supply source and distribution
+system supplying water for household uses, owned and operated by a person subject to
+regulation by the Public Utility Commissioner of the State of Oregon, and supplying water
+to a total of 500 or more households.
+"Public water system" shall have the meaning set forth in OAR 333-061-0020.
+"Quasi-judicial" means a zoning action entailing application of a general rule or policy to
+specific individuals or situations.
+"Recreational facility, private" means a recreation facility under private ownership and
+operated by a for-profit or nonprofit organization, open to bona fide members, and
+providing one or more of the following types of recreation activity; tennis, handball, golf,
+squash, volleyball, racquetball, badminton, and swimming, or other similar types of uses.
+"Recreational vehicle" means a vehicle with or without motive power that is designed for
+human occupancy and as further defined, by rule, by the Director of Transportation, at OAR
+735-022-0140.
+"Recreational vehicle park" shall have the meaning set forth in OAR 918-650-0005.
+"Religious Institution or Assembly" means, so long as having public charity status as a
+religious assembly or institution established with the Internal Revenue Service, either
+(consistent with ORS 215.441 (1) a church, synagogue, temple, mosque, chapel, meeting
+house, or other nonresidential place of worship, or (consistent with 42 USCA § 2000cc-
+5(7)(B)) the use, building, or conversion of real property for the purpose of religious
+exercise.
+"Removal", as used in the context of lakes, rivers, streams, floodplains, wetlands, or
+riparian areas, means:
+A. The taking of material in lakes, rivers, streams, floodplains, wetlands, or riparian
+areas; or
+B. The movement by artificial means of material within the bed of such waters,
+including channel relocation.
+C. Removal includes any excavation or grading within any lake, river, stream,
+floodplain, wetland, or riparian area.
+D. Removal does not include practices that constitute accepted farming practices as
+defined in ORS chapter 215.
+"Re plat" shall have the meaning set forth in ORS 92.010.
+"Residential care" means services provided to individuals, including supervision;
+protection; assistance while bathing, dressing, grooming or eating; management of money;
+transportation; recreation; and the providing of room and board.
+"Residential facility" means a residential care, residential training, or residential treatment
+facility, as those terms are defined in ORS 443.400 (Definitions for ORS 443.400 to
+443.455), that provides residential care alone or in conjunction with treatment or training or
+a combination thereof for six to fifteen individuals who need not be related. Staff persons
+required to meet licensing requirements shall not be counted in the number of facility
+residents, and need not be related to each other or to any resident of the residential facility.
+"Residential home" means a residential treatment or training home, as defined in ORS
+443.400 (Definitions for ORS 443.400 to 443.455), a residential facility registered under
+ORS 443.480 (Definitions for ORS 443.480 to 443.500) to 443.500 (Investigation of
+registered facilities), or an adult foster home licensed under ORS 443. 705 (Definitions for
+ORS 443.705 to 443.825) to 443.825 (Disposition of penalties recovered) that provides
+residential care alone or in conjunction with treatment or training or a combination thereof
+for five or fewer individuals who need not be related. Staff persons required to meet
+licensing requirements shall not be counted in the number of facility residents, and need
+not be related to each other or to any resident of the residential home.
+"Right of way" means the area between the boundary lines of a street, road, or other public
+easement.
+"Riparian area" means a terrestrial zone where annual and intermittent water, a high water
+table, and wet soils influence vegetation and microclimate.
+"Roadside stand" means a temporary structure, vehicle or area designed or used for the
+display or sale of merchandise on the premises upon which such a stand is located.
+"Roadway" means that portion of a street or road right of way developed for vehicular
+traffic.
+"Scenic area" means land and other natural features that are valued for their aesthetic
+values and appearance.
+"Setback" means the minimum allowable horizontal distance between two or more
+specified features, except as otherwise provided in DCC Title 19.
+A. "Setback, front" means a setback measured from a front lot line to the nearest point
+of any structure, except as otherwise provided in DCC Title 19. In the case of a front
+lot line that does not have street frontage, the front setback shall be the minimum
+distance as identified in the underlying zone for a local street right of way.
+B. "Setback, Ordinary High Water Mark" means a setback measured from an Ordinary
+High Water Mark line, to the nearest point of any structure, except as otherwise
+provided in DCC Title 19.
+C. "Setback, rear" means a setback measured from the rear lot line to the nearest
+point of any structure, except as otherwise provided in DCC Title 19.
+D. "Setback, rim rock" means a setback measured from a rim rock to the nearest point
+of any structure, except as otherwise provided in DCC Title 19.
+E. "Setback, side" means a setback measured from a side lot line, to the nearest point
+of any structure, except as otherwise provided in DCC Title 19.
+"Setback area" means any area located within a designated setback as identified herein.
+"Shade" means a shadow, except a shadow caused by a narrow object, including but not
+limited to a utility pole, an antenna, a wire or a flagpole.
+"Shopping center" means a retail store or combination of stores usually including a grocery
+store which provides goods for sale to the general public and with a combined leasable
+area in excess of 30,000 square feet.
+"Site plan" means a plan prepared to scale, showing accurately and with complete
+dimensioning, all of the uses proposed for a specific lot or parcel of land.
+"Solar access" means protection from shade for a specific area during specific hours and
+dates, but not including protection from shade cast by exempt vegetation.
+"Solar access permit" means the instrument issued by the County which limits the size of
+nonexempt vegetation on certain lots or parcels in the vicinity of a recorded solar collector.
+"Solar collector" means any object that uses solar radiation for a useful purpose, including
+but not limited to windows, walls, roofs, and collectors.
+"Solar heating hours" means the hours and dates during which solar access is provided.
+"Solar height restriction" means the allowable height of buildings, structures and
+nonexempt vegetation on a property burdened by the solar access of another property.
+"Street" means a public thoroughfare or right of way other than an alley, dedicated, deeded
+or condemned for such use and private thoroughfare or access easements which are used
+for vehicle travel including avenue, place, way, drive, lane, boulevard, highway, road and
+any other thoroughfare.
+"Standing, legal." See "standing" as defined in DCC 22. 24.080.
+"Start of construction" means the first act of permanent construction of a structure, other
+than a manufactured dwelling, on a site, lot, or parcel, such as the pouring of slabs or
+footings or any work beyond site preparation, such as clearing, grading, and filling. It does
+not include the installation of streets or walkways, excavation for a basement, footings,
+piers, or foundations, the erection of temporary forms, or the installation on the property of
+accessory buildings, such as garages or sheds not occupied as dwelling units or as part of
+the primary use structure. For a structure other than a manufactured dwelling without a
+basement or poured footings, the start of construction includes the first permanent
+framing or assembly of the structure, or any part thereof, on its piling or foundations. For
+manufactured dwellings not within a manufactured dwelling park or manufactured dwelling
+subdivision, start of construction means the affixing of the manufactured dwelling to its
+permanent site. For manufactured dwellings within manufactured dwelling parks or
+manufactured dwelling subdivisions, start of construction is the date on which
+construction of facilities for servicing the site on which the manufactured dwelling is to be
+affixed (including, at a minimum, the construction of streets, either final site grading or
+pouring of concrete pads, and installation of utilities) is begun.
+"Structural alteration" means any change to the supporting members of a structure
+including foundations, bearing walls or partitions, columns, beams, girders, any structural
+change in the roof or in the exterior walls, or any alteration requiring a building permit.
+"Structural footprint" means the horizontal structural and/or building area as seen in plan
+view (as in floor plan, view from above), measured from the outside of all exterior walls and
+supporting columns.
+"Structure" means anything constructed, built, or installed, which requires a location on
+the ground or is attached to another structure having a location on the ground.
+"Subdivide lands" shall have the meaning set forth in ORS 92.010.
+"Subdivision" shall have the meaning set forth in ORS 92.010.
+"Subdivision plat" shall have the meaning set forth in ORS 92.010.
+"Substantially shaded" means less than 80 percent of the available solar insulation is
+available during winter solar heating hours to either the south roof and/or wall of an existing
+or potential structure.
+"Sunchart" means a photograph or photographs taken in accordance with the guidelines of
+the Planning Director, which plots the position of the sun during each hour of the day and
+each month of the year relative to a protected area. The sunchart shall contain, at a
+minimum:
+A. Solar altitude in 10-degree increments;
+B. Solar azimuth measured from true south in 15-degree increments;
+C. If the solar collector is more than 20 feet wide, the southern skyline as seen from the
+two end points and from the center point of the lower edge of the protected area;
+I
+and
+D. A clear delineation of the existing objects which cast shadows on the protected
+area, including hills, structures and deciduous and evergreen vegetation.
+"Surface mining" includes all or any part of the process of mining minerals by the removal
+of overburden and extracting of natural mineral deposits thereby exposed by any method by
+which more than 50 cubic yards of minerals are extracted or by which at least one acre of
+land is affected within a period of 12 consecutive calendar months, including open-pit
+mining refuse, the construction of adjacent or off-site borrow pits (except those
+constructed for use as access road), the quantity or area specifications set forth herein or
+when such activities affect more than one acre of land for each eight acres of land
+prospected or explored; or other similar materials conducted by the landowner or tenant
+for the primary purpose of construction, reconstruction, or maintenance of access roads
+and excavation or grading operations conducted in the process of farming or cemetery
+operations, on-site road construction or other on-site construction or underground mines;
+and excluding rock, gravel, sand, silt or similar substances removed from the beds or banks
+of any waters of this state pursuant to permit issued under ORS 541.605 to 541.660.
+(Reclamation of Mining Lands, ORS 517.750 to Number 12.)
+"Time share unit" means:
+A. A dwelling unit, lot, or parcel divided into periods of time under any arrangement,
+plan, scheme or device; whether by membership, agreement, share, tenancy in
+common, sale, lease, deed, rental agreement, license, right to use agreement or
+otherwise; where a purchaser, in exchange for consideration, receives a right to use
+the dwelling unit, lot, or parcel for a period of time less than a full year during any
+given year, but not necessarily for consecutive years, which extends for a period of
+more than three years; or
+B. A dwelling or unit, lot, or parcel created into interests sold under an agreement to be
+subsequently divided or created into interests for the purpose of sale or lease or
+other similar arrangement as set out in DCC 19.04.040(A); whether immediate or
+future, into 11 or more undivided interests or 11 or more other interests, or any other
+similar arrangement of interests in the dwelling unit, lot, or parcel.
+"Tract" shall have the meaning set forth in ORS 215.010.
+"Trailer" means any portable unit designed and built to be towed on its own chassis,
+comprised of frame and wheels and which does not fall within the definitions of vacation
+trailer, manufactured dwelling, or prefabricated structure. Includes boat trailers, bunk
+trailers, portable schoolrooms, and industrial, commercial, or public offices and accessory
+uses.
+"Transit facility" means public or private improvements at selected points along transit
+routes for passenger pickup, drop off and waiting. Improvements may include pullouts,
+shelters, waiting areas, benches, information and directional signs, or structures and
+lighting.
+"Transit route" means an existing or planned route for public intra-city or intraurban transit
+service in the local or regional transportation plan. Does not include temporary routes or
+routes which are planned to be replaced.
+"Transmission facility" means the conductors, lines, poles, towers, structures, corridors
+and construction staging and assembly areas necessary for or associated with the
+transmission of electricity from a hydroelectric facility for distribution.
+"Trailer, travel" means a recreational vehicle without motive power that is eight and one­
+half feet or less in width and is not being used for commercial or business purposes.
+"Tuma lo Creek canyon rim rock" means any ledge, outcropping or overlying stratum of rock,
+which forms a face in excess of 45 degrees and which creates or is within the canyon of
+Tuma lo Creek. For purposes of DCC 19.22.050(H), the edge of the rim rock is the
+uppermost rock ledge or outcrop of rim rock that is within the Tumalo Creek canyon.
+"Unbuildable area" means an area of a site, lot, or parcel on which a structure could not be
+built as a permitted or conditional use under the provisions of DCC Title 19.
+"Urban Growth Boundary (UGB)" means the urban growth boundary as adopted by the City
+and County and acknowledged by the State, as set forth in the Bend Comprehensive Plan
+and as shown on the Bend Comprehensive Plan map.
+"Use" means the purpose for which land or a structure is designed, arranged or intended,
+or for which it is occupied or maintained.
+"Utility easement" means an easement noted on a subdivision plat, partition plat, or other
+lawfully recorded easement for the purpose of installing or maintaining public or private
+utility infrastructure for the provision of water, sewage, power, heat, or
+telecommunications.
+"Utility facility" means any major structures, excluding hydroelectric facilities, owned or
+operated by a public, private, or cooperative electric, fuel, communications, sewage, or
+water company for the generation, transmission, distribution, or processing of its products
+or for the disposal of cooling water, waste or by-products, and including power
+transmission lines, major trunk pipelines, power substations, water towers, sewage
+lagoons, sanitary landfills, and similar facilities, but excluding local sewer, water, gas,
+telephone and power distribution lines, and similar minor facilities allowed in any zone.
+"Visual obstruction" means any fence, hedge, tree, shrub, device, wall, or structure
+exceeding 2.5 feet in height above the elevation of the top of the curb or ground as
+determined by the Planning Director and so located at a street intersection as to
+dangerously limit the visibility of persons in motor vehicles on said street or alleys. This
+does not include trees kept trimmed of branches to a minimum height of eight feet.
+"Walkway" means a structure built over or floating upon the waters of a lake, river or stream
+that provides access to a boat dock or pier.
+"Wetland" means those areas that are inundated or saturated by surface or ground water at
+a frequency or duration sufficient to support, and that under normal circumstances do
+support, a prevalence of vegetation typically adapted for life in saturated soil conditions.
+Wetlands include swamps, marshes, bogs, and other similar areas.
+"Winter solar heating hours" means the time period extending two hours before and after
+the solar zenith on December 21.
+"Zero lot line subdivision or partition" means a type of residential subdivision or partition
+utilizing zero lot lines between dwelling units and providing for individual ownership of each
+lot or parcel.
+"Zone" means a portion of the territory of the Bend Urban Area of Deschutes County within
+which certain uniform regulations and requirements or various combinations thereof apply
+under the provisions of DCC Title 19.
+A. Where certain uses are required to be a specified distance from "any R Zone" as
+provided in DCC Title 19, the term "any R Zone" shall include any RS, RM or RH Zone.
+B. The term "any C Zone" shall include any CN, CC, CL, CG, CH or CB Zone.
+C. The term "any I Zone" shall include any IP, IL or IG Zone.
+HISTORY
+Adopted by Ord. BQ:217 §1 Exhibit A on 12/18/1980
+Amended by Ord. 82-0L1 on 8/9/1982
+Amended by Ord. 83-041 §2 on 6/111983
+Amended by Ord. 86-032 §1 on 4/2/1986
+Amended by Ord. 86-033 §1 on 412/1986
+Amended by Ord. f1_6-017 §1 Exhibit a on 6/30/1986
+Amended by Ord. 86-055 §1 on 6/30/1986
+Amended by Ord. 86-058 §1 on 6/30/1986
+Amended by Ord. 8.B-042 §3 on 12/19/1988
+Amended by Ord. 90:038 §1 on 10/3/1990
+Repealed & Reenacted by Ord. 90-007 §1 on 12/7/1990
+Amended by Ord. I2_1-001 §1 on 1/28/1991
+Amended by Ord. 91-029 §§1, 8, 9 and 10 on 8/7/1991
+Amended by Ord. 92-043 §1 on 5/20/1992
+Amended by Ord. 93-018 §1 on 5/19/1993
+Amended by Ord. 94-005 §§1 & 2 on 6/15/1994
+Amended by Ord. 95-045 §15 on 6/28/1995
+Amended by Ord. 96-071 §1 Don 12/30/1996
+Amended by Ord. 97-017 §1 on 3/12/1997
+Amended by Ord. 97-0311§1 on 8/27/1997
+Amended by Ord. 99-001 §§2-4 on 1113/1999
+Repealed & Reenacted by Ord. 2009-002 §1,2 on 2/11/2009
+Amended by Ord. 2014-016 §1 on 12/29/2014
+Amended by Ord. 2016-016 §1 on 6/112016
+Amended by Ord. 2017-009 §7 on 7/21/2017
+Amended by Ord. 2020�01 §17 on 4/21/2020
+Amended by Ord. 2020-01 O §8 on 7/3/2020
+Amended by Ord. 2021-009 §2 on 6/18/2021
+Amended by Ord. 2024-008 §17 on 1/7/2025
+Amended by Ord. 2025-002 §37 on 3/28/2025
+Amended by Ord. 2025-004 §6 on 5/7/2025
+Amended bv Ord. 2026-006 §12 on 4/22/2026
+Exhibit M
+CHAPTER 19.12 URBAN AREA RESERVE ZONE UAR-10
+19.12.010 Purpose
+19.,12.020 Permitted Uses
+19.12.030Conditional Uses
+19.12.040 Height Regulations
+19.12.050 Dimensional Standards And Setbacks
+1-9_,J 2.060 Off-Street Parking
+19.12.070 Other Required Conditions
+19.12.020 Permitted Uses
+The following uses are permitted:
+A. Farm uses as defined in DCC Title 19.
+B. A single-unit dwelling.
+C. Home occupation subject to DCC 19.88.140.
+D. Other accessory uses and accessory buildings and structures customarily
+appurtenant to a permitted use subject to DCC 19.92.020.
+E. Day care center facilities subject to site review, DCC 19. 76 and DCC 19.88.160.
+F. Farm stands subject to DCC 19.76 and DCC 19.88.290.
+G. A historic home accessory dwelling unit, subject to DCC 19.92.150.
+H. A residential accessory dwelling unit, subject to DCC 19.92.160
+t.- Residential home.
+_I. _A recreational vehicle as a rental dwelling, subject to DCC 19.92.170.
+J. Temporary Hardship D�welling, subject to DCC 19.88.320
+HISTORY
+Adopted by Ord. PL-11 on 7/11/1979
+Amended by Ord. 88-042 §4 on 12/19/1988
+Repealed & Reenacted by Ord. 90-038 §1,2 on 10/3/1990
+Amended by Ord. 91-001 §2 on 1/28/1991
+Amended by Ord. 2008-014 §3 on 3/31/2008
+Repealed & Reenacted by Ord. 2JJ09-Q02 §1,2 on 2/11/2009
+Amended by Ord. 2019.::_Q09 §4 on 9/3/2019
+Recorded by Ord. 2019-009 §4 on 9/3/2019
+Amended by Ord. 2023-014 §5 on 12/1/2023
+Amended by Ord. 2024-008 §18 on 117/2025
+Amended by Ord. 2025-002 §39 on 3/28/2025
+Amended by Ord. 2025-004 §7 on 517/2025
+Amended bv Ord. 2026-006 §13 on 4/22/2026
+Exhibit N
+CHAPTER 19.20 SUBURBAN LOW DENSITY RESIDENTIAL ZONE; SR 21/2
+19.20.010 Purpose
+19.20.020 Permitted Uses
+19.20.030 Conditional Uses
+19.20.040_Height Regulations
+19.20.050 Dimensional Standards And Setbacks
+19.20.055 Land Divisions
+19.20.060 Off-Street Parking
+19.20.07() Other Required Conditions
+19.20.020 Permitted Uses
+The following uses are permitted:
+A. A single-unit dwelling.
+B. Agriculture, excluding the keeping of livestock.
+C. Home occupations subject to DCC 19.88.140.
+D. Other accessory uses and accessory buildings and structures customarily
+appurtenant to a permitted use subject to DCC 19.92.020.
+E. A historic home accessory dwelling unit, subject to DCC 19.92.150.
+F. Child care facility and/or preschool.
+G. A residential accessory dwelling unit, subject to DCC 19.92.160.
+t+.- Residential 1101 ne .
+.tL_A recreational vehicle as a rental dwelling, subject to DCC 19.92.170.
+I. Temporary Hardship Dwelling,__subject to DCC 19.88.320.
+HISTORY
+Adopted by Ord. PL-11 on 7/11/1979
+Amended by Ord. 88�042 §6 on 12/19/1988
+Repealed & Reenacted by Ord. 90-038 §1,2 on 10/3/1990
+Amended by Ord. 91-001 §4 on 1/28/1991
+Amended by Ord. 93-018 §3 on 5/19/1993
+Repealed & Reenacted by Ord. 2QQ9-002 §1,2 on 2/11/2009
+Amended by Ord. 2019-009 §5 on 9/312019
+Recorded by Ord. 2019-009 §5 on 9/3/2019
+Amended by Ord. 2020-001 §20 on 4/21/2020
+Amended by Ord. 2020-010 §9 on 7/3/2020
+Amended by Ord. 2023-014 §6 on 12/112023
+Amended by Ord. 2024-008 §19 on 11712025
+Amended by Ord. 2025-002 §41 on 3/28/2025
+Amended by Ord. 2025-004 §8 on 5/7/2025
+Amended by Ord. 2026-006 §14 on 4/22/2026
+Exhibit 0
+CHAPTER 19.22 WESTSIDE TRANSECT ZONE; WTZ
+19.22.01 0 Purpose
+19.22.020 Permitted Uses
+19.22.030 Conditional Uses
+19.22.040 Height Regulations
+19.22.050 Dimeosional Standards And Setbacks
+19.22.060 Land Divisions
+19.22.070 Street Improvements
+19.22.080 Off-Street Parking
+19.22.090 Fence Standards
+19.22.020 Perrni11ed Uses
+The following uses and their accessory uses are permitted outright:
+A. A single-unit dwelling.
+B. Home occupation subject to DCC 19.88.140.
+C. Other accessory uses and accessory buildings and structures customarily
+appurtenant to a permitted use subject to DCC 19.92.020.
+D. A residential accessory dwelling unit, subject to DCC 19.92.160.
+E Reside11tial home.
+LA recreational vehicle as rental dwelling, subject to DCC 19.92.170.
+F. Temporary Hardship Dwelling. su�Q1JQ_DCC 19.88.320.
+HISTORY
+Adopted by Ord. 2019-001 §8 on 4/16/2019
+Amended by Ord. 2Q23-014 §7 on 12/1/2023
+Amended by Ord. 2024-008 §20 on 117/2025
+Amended byDrd. 2025-002 §42 on 3/28/2025
+Amended by Ord. 2025-004 §9 on 5/7/2025
+Amended bv Ord. 2026-006 §15 on 4/22/2026
+Exhibit P
+CHAPTER 19.28 URBAN STANDARD RESIDENTIAL ZONE; RS
+19.28.010 Purpose
+19.28.020 Permitted Uses
+19.28.030 Conditional Uses
+19.28.040 Height Regulations_
+19.28.050 Dimensional Standards And Setbacks
+19.28.Q.55 Land Divisions
+19.28.060 Off-Street E'arking
+19.28.070 Other Required Conditions
+.:19.28.020 Permitted Uses
+The following uses are permitted:
+A. A single-unit dwelling.
+B. Agriculture, excluding the keeping of livestock.
+C. Rooming and boarding of not more than two persons.
+D. Home occupation subject to the provisions of DCC 19.88.140.
+E. Other accessory uses and buildings and structures customarily appurtenant to a
+permitted use subject to DCC 19.92.020.
+F. Child care facility and/or preschool.
+&.- Residential home.
+HISTORY
+Adopted by Ord. PL-11 on 7/11/1979
+Repealed & Reenacted by Ord. 90-038 §1 on 10/3/1990
+Amended by Ord. 2020-010 §10 on 7/3/2020
+Amended by Ord. 2024-008 §21 on 1/7/2025
+Amended by Ord. 2025-002 §43 on 3/28/2025
+Amended bv Ord, 2026-006 §16 on 4/22/2026
+Exhibit Q
+CHAPTER 19.80 OFF-STREET PARKING AN.12LOADJNG
+19.80.010 Compliance
+19.80.020 Off-Street Loading
+19.80.030 Off-Street Parking
+19.80.040 Number Of Spaces Required
+19.80.050 General Provisions; Off-Street Parking
+19.80.060 Develop_ment And Maintenance Standards_For Off-Street Parking Areas
+i 9.80.070 Off-Street Parking Lot Design
+19.80.080 Required Bicycle Parking
+19.80.090 Bicycle Parkin Location And Desi n_;_ Other Required Conditions
+_19.80.040 Number Of Spaces Required
+Off-street parking shall be provided as follows:
+A. Residential.
+Single-unit, duplex and triplex dwellings:
+Multi-unit dwelling containing four or more
+dwelling units:
+Studio or Efficiency Unit
+One Bedroom Unit
+Two Bedroom Unit
+Three Bedroom Unit
+Four Bedroom Unit
+'
+Resident hotel, rooming, or boarding house
+B. Commercial Residential.
+2 spaces per dwelling unit.
+0.75 space per unit
+1.00 space per unit
+1.50 spaces per unit
+2.25 spaces per unit
+2.50 spaces per unit
+0.50 space guest parking per
+dwelling unit
+Hotel 1 space per guest room plus 1 space per 2 employees
+Motel 1 space per guest room or suite plus 1 additional space for
+the owner or manager.
+Club or Lodge
+Spaces to meet the combined requirements of the uses
+being conducted such as hotel, restaurant, auditorium, etc.
+Fraternity, Sorority, 1 space for each 6 student beds or Dormitory
+C. Institutions.
+Welfare or Correctional Institution 1 space per 3 beds for
+patients or inmates
+Convalescent Hospital, Nursing Home, Sanitarium, 1 space per 2 beds for
+Rest Home, Home for the Aged patients or residents
+Hospital 1 .5 spaces per bed
+D. Places of Public Assembly.
+Religious institution or 1 space per 4 seats or 8 feet of bench length in the
+assembly main auditorium
+Library, Reading Room, 1 space per 400 sq. ft. of floor area plus 1 space per 2
+Museum, Art Gallery employees
+Preschool Nursery or 2 spaces per teacher Kindergarten
+Elementary or Junior High 1 space per employee, or 1 space per 4 seats or 8 ft.
+School of bench length in auditorium, whichever is greater
+1 space per employee plus 1 space for each 6
+High School students, or 1 space per 4 seats or 8 feet of bench
+length in the main auditorium, whichever is greater
+College or Commercial 1 space per 3 seats in classrooms
+School for adults
+Other Auditorium or
+Meeting Room
+1 space per 4 seats or 8 feet of bench length. If no
+fixed seats or benches, 1 space per 60 sq. ft. of floor
+area.
+E. Commercial Amusement.
+Stadium, Arena or 1 space per 4 seats or 8 feet of bench length
+Theater
+Bowling Alley 6 spaces per lane plus 1 space per 2 employees
+Dance Hall or Skating 1 space per 100 sq. ft. of floor area plus 1 space per 2
+Rink employees
+F. Commercial.
+Retail Store, except stores selling bulky 1 space per 300 sq. ft. of gross
+merchandise floor area
+Service or repair shops, retail stores, and
+outlets selling furniture, automobiles or other 1 space per 600 sq. ft. of gross bulky merchandise where the operator can floor area
+show the bulky merchandise occupies the
+major area of the building
+Bank or Office (except medical and dental)
+1 space per 300 sq. ft. of gross
+floor area
+Medical or Dental Office or Clinic
+1 space per 150 sq. ft. of gross
+floor area
+Eating or drinking establishments 1 space per 120 sq. ft. of gross
+floor area
+Mortuaries
+1 space per 4 seats or 8 feet of
+bench length in chapels
+3 spaces for each of the first 2
+Beauty parlor and barber shop beauty or barber chairs, and 1 ½
+spaces for each additional chair
+G. Industrial.
+Manufacturing establishment 1 space per employee on the
+largest working shift
+Storage Warehouse, wholesale establishment, 1 space per 2,000 sq. ft. of
+rail or trucking freight terminal gross floor area
+H. Other uses not specifically listed above shall furnish parking as required by the
+Planning Director or Hearings BodyPlanning Commission. The Planning Director or
+Hearings BodyPlanning Commission shall use the above list as a guide for
+determining requirements for said other uses.
+HISTORY
+Adopted by Ord. EL-1.1 on 7 /1111979
+Amended by Ord. 88-Q42 §34 on 12/19/1988
+Repealed & Reenacted by Ord. flQ::038 §1,2 on 10/3/1990
+Amended by Ord. 2020-_001 §23 on 4/21/2020
+Amended by Ord. 2025-002 §47 on 3/28/2025
+Amended by Ord. 2026-006 §17 on 4/22/2026
+Exhibit R
+CHAPTER 19.88 PROVISIONS APPLYING TO SPECIAL USE STANDARDS
+19.88.010 Automobile Service Stations: Minimum Standards
+19.88.020 Kennels. Riding Academies And Public Stables
+19.88.030 Cemetery. Crematory Or Mausoleum
+19.88.040 Hospitals
+19.88.050 Religious Institution Or Assembly. Community Buildings, Social Halls. Lodge_s,_
+Fraternal Organization And Clubs
+19.88.060 Drive-In Theaters
+19.88.070 Keeping Of Livestock
+19.88.080 (Repealed)
+19.88.090 Temporary Permits For Manufactured Dwellings
+19.88.100 Mines. Quarries, Gravel Pits Or Gravel Removal Sites
+19.88.11 0 (Repealed)
+19.88.120 Utilities
+19.88.130 Rear Lot Or Parcel Permits
+19.88.140 Home Occupation
+19.88.150 Landing Strips For Aircraft And Heliports
+19.88.160 Day Care Facility
+19.88.170 Housing For The Elderly
+19.88.180 Plant Nursery
+19.88.190 Hydroelectric Facilities
+19.88.200 (Repealed)
+19.88.21 0 Solar Setbacks
+19.88.220 Solar Access Permit
+19.88.230 Time-Share Unit
+19.88.240 Fill And Removal
+19.88.250 Dwelling Groups
+19.88.260 Bed And Breakfast Inn
+19.88.270 Temporary Use
+19.88.280 Manufactured Dwellings_
+19.88.290 Farm Stands
+19.88.30Q Wireless Telecommunication Facilities
+19.88.31 0 Recreatiooal Vehicle As A Temjlorary Dwelling On An Individual Lot Or Parcel
+19.88.320 Manufactured Dwelling Or Recreational Vehicle As A Temporary Hardship
+Dwelling
+19.88.330 Residential Homes And Residential Facilities
+19.88.070 Keeping Of Livestock
+The Planning Director_or Hearings BodyPL.rnning Con 1missioI, may authorize the keeping of
+livestock as a conditional use in an RS, SR, or R zone, subject to the following standards:
+A. One horse, cow, goat, sheep, swine, or other livestock shall have a corral or pasture
+with a usable area of at least 7,500 square feet; two horses, cows, goats, sheep,
+swine, or other livestock, at least 10,000 square feet; and for each additional horse,
+cow, goat, sheep, swine, or other livestock, at least 5,000 square feet, but in no case
+shall the above use be allowed on any lot or parcel with a lot area of less than one
+acre.
+B. No enclosure for horses, cows, goats, sheep, swine, or other livestock shall be
+located closer than 100 feet to a neighboring dwelling unit.
+C. Fences erected in connection with the keeping of livestock shall be of lumber or
+other standard fencing material (not including barbed wire or electric fence), shall
+be kept in good repair and shall be at least four feet in height. A fence shall meet the
+setback requirements of the zone.
+HISTORY
+AdoptedbyOrd. PL-11 on 7/11/1979
+Repealed & Reenacted by Ord. 90-038 §1 on 10/311990
+Amended by Ord. 2025-002 §49 on 3/28/2025
+Amended by Ord. 2026-006 §18 on 4/22/2026
+19.88.100 Mines, Quarries, Gravel Pits Or Gravel Removal Sites
+Extractions from deposits of rock, stone, gravel, sand, earth, minerals or building or
+construction materials shall not be construed to be a permitted use in any zone of DCC
+Title 19 (except as outlined in DCC 19.16 for permitted uses in an SM zone) unless a
+conditional use permit shall first have been obtained as provided in DCC 19.100, except for
+on-site excavation and grading in conjunction with a specific construction or improvement
+project. The Planning Director or Hearings BodyPlanning Commission shall have the power
+to grant conditional use permits, which are valid for a specific period of time or are
+revocable, to permit extractions from deposits of rock, stone, gravel, sand, earth, minerals
+or building or construction materials. Odors, dust, noise or drainage shall not be permitted
+to create or become a nuisance to surrounding property.
+HISTORY
+Adopted by Ord. PL-11 on 7/1111979
+Repealed & Reenacted by Ord. 90-038 §1 on 10/3/1990
+Amended by Ord. 2026-006 §18 on 4/22/2026
+19.88.170 Housing For The Elderly
+The purpose of DCC 19.88.170 is to establish standards for housing developments for the
+elderly within the RH zone. Housing developments for the elderly shall be exempted from
+applicable zone regulations only insofar as the provisions in DCC 19.88.170 conflict with
+appropriate regulations.
+A. The minimum lot area for single-unit dwellings and duplexes shall be 5,000 square
+feet. For each additional dwelling unit, the original lot area shall be increased by 360
+square feet provided that more than 50 percent of the dwelling units shall be studio
+apartments. For the purpose of DCC 19.88.170, a studio apartment is defined as an
+apartment with one primary room and having no bedrooms.
+B. The combined lot coverage of all structures shall not exceed 50 percent of the lot
+area.
+C. Off-street parking shall be provided as follows: Total Off Street Parking Area - .75
+space per dwelling unit. Improved Off-Street Parking Area - .33 space per dwelling
+unit. As long as the multiple-unit dwelling serves as housing for the elderly in terms
+of the original intent for the development, the smaller parking requirement shall
+apply. Any applicant must provide a site plan showing the total off-street parking
+area including access and parking spaces in the event the development ceases to
+serve as housing for the elderly or requires additional parking. In the event that the
+development ceases to serve as housing for the elderly in terms of the original intent
+of the development, and the larger off-street parking area does not meet the parking
+needs of the development, the Planoir:i_g Director or Hearings BodyPlanning
+Commission may require development of the total or larger off-street parking area.
+HISTORY
+Adopted by Ord. PL-11 on 7/11/1979
+Repealed & Reenacted by Ord. 90-038 §1 on 10/3/1990
+Amended by Ord. 2025-002 §49 on 3/28/2025
+Amended bv Ord. 2026-006 §18 on 4/22/2026
+19.88.300 Wireless Telecommunications Facilities
+A� Spectrum [I.ct.Eligible Facilities Requests.
+HISIORY
+1. All eligible facility reviews submitted in accordance with the Spectrum Act,
+Section 6409 of the Middle Class Tax Relief and Job Creation Act of 2012, 47
+U.S.C. §1455(a), shall be reviewed undert_he standards listed therein.
+2. If theC.QJJDJY determines that a proposed collocation or modification of an
+existing tower or base station will substantially change the physical
+dimensions of such tower or base station,__the Sp3ctrum Act is inapplicable
+and this subsection (A) shall not apply. Such an application will be reviewed
+pursuant to DCC 19.88.120 as a land use action pursuant to DCC Title 22.
+Adopted by Ord. 2026-006 §18 on 4/22l202.6-
+19.88.310 Recreational Vehicle As AJemporary Dwelling On An ln_c;:H�ldual Lot Or Parcel
+A. A sin_g_le. recreational vehicle,_as defined_in_PCC TitleJ 9, __ may be located on a lot or
+p_grcel containing�Lmanuf9ctured dwelling or single-unit dwelling,_where such
+dwelling is uninhabitable due to damages from natural disasters, including_wildfir.e..s,.
+earthquakes, flooding, or storms until no later than the date:
+HISTORY
+J. The single-unit dwelling.or manufactured dwelling has been repaired or
+replaced and an occupancy permit has been issued;
+2,__Ihe local government makes a determination that the owner of the sing�
+unit dwelling or manufactured dwellingls unreasonably delaying in
+completing re.pairs or replacing the dwelling; or
+.3.,__ Five years after the date the_single.::-JJnit_d'N__e_lling or manufactured dwelling
+first_b.ecame uninhabitable.
+Adopted by Ord. 2026-006 §18 on 4/22/2026
+19.88.320 Manufactured Dwelling Or Recreational Vehicle As A Temporary Hardship
+Dwelling
+A. As used in this section, "hardship" means a medical hardship or hardship for the care
+of an aged or infirmed person or persons experienced by the existing resident or
+relative.
+B. As used in this section, "relative" means a grandparent, step-grandparent,
+grandchild, step-grandchild, parent, step-parent child, step-child, brother, sister,
+sibling, step-sibling, either blood or legal relationship, niece, nephew, uncle, aunt, or
+first cousin.
+C. A temporary use permit for the term of the hardship for one of the following hardship
+dwelling types may be granted on a lot or parcel in conjunction with an existing
+primary dwelling unit:
+1 .. One manufactured dwelling_of any clas�;
+2. One recreational vehicle subject to the criteria under subsection_(El,_
+D. The hardship__dwelling must use the same on site septic disposal system used by the
+existin_g_primary dwelling unit,_prnvided that the. exi_snog on site septic system is
+adequate to accommodate the hardship dwelling. If the hardship dwelling will be
+connected to a community sewer system this requirement does not apply.
+E. Prior to initiating the use, the property owner must obtain all necessary_pesmilsJrom
+the Deschutes County Building and Onsite Wastewater Divisions.
+F. A recreation vehicle hardship dwelling must comply with all of the fQllowing
+requirements:
+LJhe_recreational vehicle must have a sink and toilet:
+2. The recreational vehicle must comply with all setbacks of the underlying
+zoneJst
+3. The recreational vehicle must be fully licensed:
+4. The recreational vehicle must be ready for highway use, on its wheels or
+jacking system, and must be attached to the site only by quick disconnect
+:type_utilities and security devices:
+5. A recreational vehicle hardship dwelling located in a specia[Jlood hazard area
+must comply with DCC 19. 72: and
+6. Permanent attached additions are prohibited.
+G_.__One temporary use permit for a hardship dwelling is permitted provided there is no
+guest house, recreational vehicle as a rental dwelling, or accessory_dwellingJrnit_Qn
+the subject lot or parcel. A recreational vehicle permitted under DCC 19.88.31 0(A) is
+allowed in addition to a hardship dwelling�
+H. The hardship shall be verified by a state-licensed medical _practitioner's written
+statement.
+I. The temporary use permit shall_ be _reviewed_ every two years to ensure ongoing
+coJ:npliance with the terms of DCC 19.88.320.
+J. Within three months of the end of the_hardship, one of the following must occur:
+1. The manufactured dwelling shall be removed. demolished. or converted to an
+allowed use in the underlying zones(s):
+2. The recreational vehicle shall be_va_c.ated,!Lrid disconnected from any_electrk,_
+water or septic/sewer facility connection; or
+3. For an existiogbuilding used as a hardship dwelling, the building must be
+converted to a permitted use in the underlying zone(s).
+HISTORY
+Adopted by Ord. 2026-006 §18 on 4/22/2026
+19.88.330 Residential Homes And Residential Facilities
+A. In any application for a residential home or residential facility. the applicant shall
+not berequired to supply any information concerning the existence of or the nature
+or severity of any handicap (as thaLterr1L� definedJJnder the Fair Housing Act) of
+prospective residents.
+B. Residential homes and facilities shall be_permitted pursuant to the standards of
+ORS 197.665 and 197.667. respectively. and any applicable standards of the DCC.
+Residential homes and facilities are permitted in the following zoo_e_s_, as summarized in the
+following table:
+Zone
+Urban Area Reserve
+!W:\H-10)
+Subui:_ban Low Density
+Residential (SR 2 ½}
+Westside Transect (WTZ)
+Urban Standard
+Residential (BS)
+HISTORY
+Residential Home
+Eermitted
+Permitted
+Permitted
+Permitted
+Adopted by Ord. 2026-006 §18 on 4/22/2026
+Residential Facilit�
+Not permitted
+Not permitted
+Not permitted
+Permitted conditionall¼
+_subject to the applicable
+provisions of DCC 19.76
+and 19.100
+Exhibit S
+CHAPTER 19.92 INTERPRETATIONS AND EXCEPTIONS
+19.92.010 General Exceptions To Lot Area Requirements
+19.92.020 Accessory Uses And Structures
+19.92._025 Exceptions To Permitted Dwelling Unit Facilities
+19.92.030 Exception To Height Regulations
+19.92.040 Establishment And Measure Of Clear Vision Areas
+19.92.050 Exceptions To Setback Requirements
+19.92.060 Authorization For Sirnilar Uses
+19.92.070 Existing Uses
+19.92.080 Pending Building Permits
+19.92.090 RiverSetback (Repealed)
+19.92.100 (Untitle_dJ
+19.92.110 Solar Height Restrictions
+J 9.92.120 Conservation Easements On Pro12erty_Adjacent To Rivers And Streams:
+Prohibitions
+19.92.13il_Fill And Removal Exceptions
+1�;L92.140 Existing Marijuana Production Registered By The Oregon Health Authority (OHA)
+�92.150 Historic _Home Accessory_Dwe_Uing_UnjtsJnlJAR:J 0_And SR-2 1/2 Zones
+19.92.160 Accessory Dwelling Units In The UAR-10. SR-2 1/2. And WTZ Zones
+19.92.170 Recrnational Vehicles A Rental Dwellings In UAR-1 Q,__SR-2 1 /2. And WTZ Zones
+19.92.060 Authorization For Similar Uses
+The Planning Director or Hearings Bodyplc1nning commission may rule that a use not
+specifically named in the permitted or conditional uses of DCC Title 19 shall be included
+among the permitted outright or conditional uses if the use is of the same general type and
+is similar to the permitted or conditional uses of that zone.
+HISTORY
+Adopted by Ord. PL-11 on 7111119 79
+Repealed & Reenacted by Ord. 90-038 §1 on 10/3/1990
+Amended by Ord. 2026-006_ §19 on 4/22/2026
+Exhibit T
+CHAPTER 19.116 AMENDMENTS, APPEALS AND PROCEDURES
+19.116.010 Amendments
+19.116.020 Standards For Zone Change
+19.116.030 Record Of Amendments
+19.116.040 Resolution Of Intent To Rezone
+19.116.010 Amendments
+DCC Title 19 may be amended by changing the boundaries of zones or by changing any
+other provisions thereof subject to the provisions of DCC 19.116.
+A. Text changes and legislative map changes may be proposed by the Board of County
+Commissioners on its own motion, by the motion of the Planning Director or
+Heasings BodyPlanning Commission, upon payment of a fee, by the application of a
+member of the public. Such changes shall be made pursuant to DCC 22.12 and ORS
+215.110 and 215.060.
+B. Any proposed quasi-judicial map amendment or change shall be handled in
+accordance with the applicable provisions of DCC Title 22.
+HISTORY
+Adopted by Ord. PL-11 on 7/1111979
+Repealed & Reenacted by Ord. 90-038 §1 on 10/3/1990
+Amended by Ord. 95-050 §§11 and 12 on 6/28/1995
+Amended by Ord. 2026-006 §20 on 4/22/2026
+Exhibit U
+COMMUNITY DEVELOPMENT
+FINDINGS
+HOUSEKEEPING TEXT AMENDMENTS
+I. APPLICABLE CRITERIA:
+Title 22, Deschutes County Development Procedures Ordinance
+II. BACKGROUND:
+The Planning Division regularly proposes amendments to the Deschutes County Code (DCC) and
+the Comprehensive Plan to correct minor errors identified by staff, other County departments, and
+the public. This process, commonly referred to as housekeeping, also incorporates updates from
+rulemaking at the state level through amendments to Oregon Revised Statutes (ORS) and Oregon
+Administrative Rules (OAR), maintains compliance with federal law, and allows for less substantive
+code changes to facilitate continuation of efficient County operations.
+The last time Deschutes County adopted housekeeping amendments occurred in October 2024 1.
+Ill. BASIC FINDINGS:
+The Planning Division determined minor changes were necessary to clarify existing standards and
+procedural requirements. These changes include less substantive code alterations, incorporate
+changes to state and federal law, and correct errors found in various sections of the Deschutes
+County Code (DCC). Staff initiated the proposed changes and notified the Oregon Department of
+Land Conservation and Development on January 8, 2026 (File no. 247-26-000007-TA). As
+demonstrated in the findings below, the amendments remain consistent with Deschutes County
+Code, the Deschutes County Comprehensive Plan, and the Statewide Planning GOals.
+IV. FINDINGS:
+CHAPTER 22.12, LEGISLATIVE PROCEDURES
+Section 22.12.010.
+Hearing Required
+1 Ordinances 2024-008.
+11 7 NW Lafayette Avenue, Bend, Oregon 97703 P.O. Box 6005, Bend, OR 97708-6005
+� (541) 388-6575 @cdd@deschutes.org @www.deschutes.org/cd
+No legislative change shall be adopted without review by the Planning Commission and a
+public hearing before the Board of County Commissioners. Public hearings before the
+Planning Commission shall be set at the discretion of the Planning Director, unless
+otherwise required by state law.
+FINDING: This criterion will be met because a public hearing was held before the Deschutes
+County Planning Commission (Commission) on February 12, 2026 and a public hearing was held
+before the Board of County Commissioners (Board) on April 8, 2026.
+Section 22.12.020, Notice
+Notice
+A. Published Notice
+1. Notice of a legislative change shall be published in a newspaper of general
+circulation in the county at least 10 days prior to each public hearing.
+2. The notice shall state the time and place of the hearing and contain a
+statement describing the general subject matter of the ordinance under
+consideration.
+FINDING: This criterion is met as notice was published in The Bulletin newspaper on January 30,
+2026 for the Commission public hearing and on March 10, 2026 for the Board public hearing.
+B. Posted Notice. Notice shall be posted at the discretion of the Planning Director and
+where necessary to comply with ORS 203.045.
+FINDING: Posted notice was determined by the Planning Director not to be necessary.
+C. Individual notice. Individual notice to property owners, as defined in DCC
+22.08.010(A), shall be provided at the discretion of the Planning Director, except as
+required by ORS 215.503.
+FINDING: The proposed amendments are legislative and do not apply to any specific property.
+Therefore, individual notice is not required.
+D. Media notice. Copies of the notice of hearing shall be transmitted to other
+newspapers published in Deschutes County.
+FINDING: Notice was provided to the County public information official for wider media
+distribution. This criterion has been met.
+Section 22.12.030 Initiation of Legislative Changes.
+A legislative change may be initiated by application of individuals upon payment of
+required fees as well as by the Board of County Commissioners.
+EXHIBIT U - Ordinance No. 2026-006 Page 2 of 7
+FINDING: The application was initiated by the Deschutes County Planning Division at the direction
+of the Board and has received a fee waiver. This criterion has been met.
+Section 22.12.040. Hearings Body
+A. The following shall serve as hearings or review body for legislative changes in this
+order:
+1. The Planning Commission.
+2. The Board of County Commissioners.
+B. Any legislative change initiated by the Board of County Commissioners shall be
+reviewed by the Planning Commission prior to action being taken by the Board of
+Commissioners.
+FINDING: This criterion is met as the Commission held a public hearing on February 12, 2026. The
+Board held a public hearing on April 8, 2026.
+Section 22.12.050 Final Decision
+All legislative changes shall be adopted by ordinance
+FINDING: The proposed legislative changes included in file no. 247-26-000007-TA will be
+implemented by ordinances upon approval and adoption by the Board.
+V. PROPOSED TEXT AMENDMENTS:
+The proposed text amendments are detailed in the referenced ordinance with additional text
+identified by underline and deleted text by strikethrough. Below are summary explanations of the
+proposed changes.
+Section 18.16.050. Standards For Dwellings In The EFU Zones
+The proposed amendments correct a state statute reference error concerning the appropriate
+data and methodology when determining tract sizes and gross incomes to satisfy income
+standards for farm-related dwellings on non-high value farmland. The current statutory
+references have been changed from OAR 660-033-0135(3) and OAR 660-033-0135(4), to OAR
+660.033.0135(2) respectively.
+Section 18.116.030. Off-Street Parking And Loading
+The proposed amendments correct a scrivener's error to the "Street Parking Lot Design Table"
+column and row identifiers to accurately conform with listed standards under DCC
+18.116.030(G).
+EXHIBIT U - Ordinance No. 2026-006 Page 3 of 7
+Temporary Natural Disaster Dwelling Amendments
+Section 18.116.095. Recreational Vehicle As A Temporary Dwelling On An Individual Lot
+Or Parcel
+Section 19.88.310. Recreational Vehicle As A Temporary Dwelling On An Individual Lot Or
+Parcel
+Natural disaster hardship dwellings were originally established as a lawful use statewide
+pursuant to House Bill (HB) 2809 (2021 ). This bill allows the temporary establishment of a
+recreational vehicle as a dwelling unit if a primary dwelling unit on a property is damaged due
+to a natural disaster event. Previously this use was permitted for a period of twenty-four months
+from the date of a qualifying event, however HB 2898 (2023) extended this approval window to
+five years. Additionally, this use was not included within Title 19 areas when the provision was
+initially adopted in Deschutes County, and the proposed amendments now clarify that this is a
+use allowed within Title 19 zones.
+Residential Homes And Residential Facilities
+Section 18.116.210. Residential Homes And Residential Facilities
+Section 19.88.330. Residential Homes And Residential Facilities
+The most recent housekeeping amendments (Ordinance 2024-008) modified previous
+Deschutes County standards regarding residential homes and residential facilities across all
+zones to match the state statutory standards of ORS 197.665 and 197.667, respectively.
+The intent of these previous amendments was to continue allowing residential homes and
+residential facilities in all areas where they were previously allowed, except those specific zoning
+districts which are now precluded by statute. However, residential facilities were unintentionally
+excluded from certain zones which previously would have allowed the use. The proposed
+amendments would reinstate those uses in the relevant zones, and establish a consistent
+summary table of zones where residential homes and facilities are allowed in Deschutes County
+to reduce confusion from citizens and planning staff.
+The proposed amendments also remove all chapter-specific references to residential homes
+and facilities within the respective zoning districts, correct references associated with
+renumbering uses, and add a new residential homes and facilities chapter to Title 19 (DCC
+19.88.330), matching the framework outlined in Title 18.
+Spectrum Act Amendments
+Section 18.116.250. Wireless Telecommunication Facilities
+Section 19.88.300. Wireless Telecommunication Facilities
+EXHIBIT U - Ordinance No. 2026-006 Page 4 of 7
+In 2012, the Middle Class Tax Relief and Job Creation Act, or "Spectrum Act," was passed. This
+large omnibus bill addressed multiple issues, including reducing barriers for wireless
+telecommunication facilities. Expanding wireless infrastructure promotes economic
+development, provides service to rural residents, and helps build resiliency within
+comm1,mication networks. In addition, improving these networks will benefit first responders
+and other public services that rely on them. Section 6409(a) of the Spectrum Act specifically
+prohibited local jurisdictions from denying an "eligible facilities request," which is colocation of
+equipment or minor modifications to existing towers and base stations.
+In 2014, the Federal Communications Commission (FCC) adopted rules to clarify section 6409(a)
+of the Spectrum Act of 2012. These rules provided guidance for local jurisdictions on how to
+implement the Spectrum Act, particularly for jurisdictions that had existing, more restrictive
+criteria for wireless facilities. Perhaps most importantly, the 2014 rules provided the following
+definition of an "eligible facilities request."
+... any request for modification of an existing tower or base station that does not
+substantially change the physical dimensions of such tower or base station, involving: (i)
+Collocation of new transmission equipment; (ii) Removal of transmission equipment; or (iii)
+Replacement of transmission equipment.
+The guidelines provided clarity to cities and counties regarding the types of wireless
+telecommunications applications that must be approved. The rules adopted in 2014 also
+included a new 60-day 'shot clock,' in which the County must approve an "eligible facilities
+request." The 2014 order from the FCC states that if a jurisdiction does not approve or deny a
+request within 60 days, it "shall be deemed granted." This timeline is significant because request
+for wireless telecommunications facilities were previously subject to a 90-day 'shot clock,' per
+federal law.
+The review process outlined in the Spectrum Act does not align with Deschutes County Code,
+which reviews wireless telecommunications facilities pursuant to DCC 18.116.250. The proposed
+amendments will update Deschutes County Code so it is consistent with federal regulations. The
+County may be vulnerable to appeals, and other types of legal action, if it denies a request for
+an eligible facilities request, and therefore violates the Spectrum Act. The proposed
+amendments also add a new section with Title 19 (DCC 19.88.300) detailing the requirements
+for wireless telecommunication facilities and the Spectrum Act within Title 19 zones.
+Section 18.116.290. Amateur Radio Facilities
+The proposed amendments correct a misaligned reference dealing with height limitation
+exceptions for amateur radio facilities from DCC 18.120.040(A)(1) to DCC 18.120.040(A)(5).
+EXHIBIT U - Ordinance No. 2026-006 Page 5 of 7
+Section 18.128.170. Recreational Vehicle Park
+In accordance with ORS 197.493.1.b.A, local governments may not impose any limit on the length
+of occupancy of a recreational vehicle as a residential dwelling if the recreational vehicle is
+located in a manufactured dwelling park, mobile home park, or recreational vehicle park. The
+current Deschutes County Code includes a limitation that no recreational vehicle may remain in
+a recreational vehicle park for longer than 30 days in any 60-day period. The proposed
+amendments strike this standard to maintain alignment with state statute.
+Temporary Hardship Dwelling Amendments
+Section 19.12.020 Permitted Uses
+Section 19.20.020 Permitted Uses
+Section 19.22.020 Permitted Uses
+Section 19.88.320 Manufactured Dwelling Or Recreational Vehicle As A Temporary Hardship
+Dwelling
+A recent set of text amendments (file no. 247-25-000078-TA) updated the requirements for
+temporary hardship dwellings to conform with state law and provide consistency for the review of
+hardship dwellings across multiple county zones. Staff determined late in the adoption process that
+updates to Title 19 were required, but not included in the original scope of the amendment package.
+The proposed amendments herein will update sections DCC 19.12, DCC 19.20, and DCC 19.22 to
+explicitly list a temporary hardship dwelling as a permitted use. Additionally, a new chapter is
+proposed (DCC 19.88.320) which enumerates and clarifies the requirements for temporary hardship
+dwellings in Title 19 to match the current standards in Title 18.
+Title 19 Review Body Amendments
+Section 19.04.040 Definitions
+Section 19.80.040 Number of Spaces Required
+Section 19.88.070 Keeping of Livestock
+Section 19.88.170 Housing For The Elderly
+Section 19.92.060 Authorization For Similar Uses
+Section 19.92.100 Mines. Quarries, Gravel Pits Or Gravel Removal Sites
+Section 19.116.010 Amendments
+EXHIBIT U - Ordinance No. 2026-006 Page 6 of 7
+There is confusion within Title 19 zones regarding who the appropriate review body should be for
+both quasi-judicial and legislative matters. In certain cases, there is reference to the "Planning
+Commission," which in Title 19 is currently defined as "the Planning Commission of the Bend Urban
+Area." However, staff notes that the Planning Commission of the Bend Urban Area is no longer a
+functional review body, and thus it is unclear who should perform reviews under those particular
+cases.
+The proposed amendments replace "Planning Commission" references within Title 19 to the
+"Planning Director or Hearings Body." This language matches current standards within Title 18 and
+aligns review body procedures across both Title 18 and 19. Finally, given the defunct status of the
+Planning Commission of the Bend Urban Area, the definition for "Planning Commission" has been
+removed from Title 19.
+VI. CONCLUSION:
+Based on the information provided herein, the staff recommends the Board of County
+Commissioners approve the proposed text amendments that make minor changes necessary to
+clarify existing standards and procedural requirements, incorporate changes to state and federal
+law, and to correct errors in the Deschutes County Code.
+EXHIBIT U - Ordinance No. 2026-006 Page 7 of 7
+BOARD OF
+COMMISSIONERS
+AGENDA REQUEST & STAFF REPORT
+MEETING DATE: April 22, 2026
+SUBIECT: Second Reading of Ordinance 2026-006: 2026 Housekeeping Text Amendments
+RECOMMENDED MOTIONS:
+1. Move approval of second reading of Ordinance 2026-006 by title only.
+2. Move adoption of Ordinance 2026-006.
+BACKGROUND AND POLICY IMPLICATIONS:
+The Planning Division regularly amends Deschutes County Code (DCC) and the
+Comprehensive Plan to correct minor errors identified by staff, other County departments,
+and the public. This process, commonly referred to as Housekeeping, also incorporates
+updates from rulemaking at the state level through amendments to Oregon Revised
+Statutes (ORS) and Oregon Administrative Rules (OAR), and allows for less substantive code
+changes to continue efficient County operations.
+Following a public hearing on April 8, 2026, the Board closed the open record period and
+commenced deliberations that same day. The Board voted unanimously to approve the
+proposed amendments and held first reading of the ordinance following deliberations.
+BUDGET IMPACTS:
+None
+ATTENDANCE:
+Kyle Collins, Senior Planner
+Will Groves, Planning Manager
+Nicole Mardell, Principal Planner
+TO:
+FROM:
+DATE:
+MEMORANDUM
+Deschutes County Board of Commissioners
+Kyle Collins, Senior Planner
+Will Groves, Planning Manager
+Nicole Mardell, Principal Planner
+April 13, 2026
+COMMUNITY DEVELOPMENT
+SUBJECT: Second Reading of Ordinance 2026-006: 2026 Housekeeping Text
+Amendments
+The Board of County Commissioners (Board) will consider a second reading of Ordinance
+2026-006 on April 22, 2026 related to 2026 Housekeeping Amendments to the Deschutes
+County Code (DCC). The second reading of the Ordinance follows the conclusion of Board
+deliberations and the Board's first reading on April 8, 2026.
+All record materials can be found on the project website: bit.ly/00007TA
+I. BACKGROUND
+The Planning Division regularly amends Deschutes County Code (DCC) and the
+Comprehensive Plan to correct minor errors identified by staff, other County departments,
+and the public. This process, commonly referred to as Housekeeping, also incorporates
+updates from rulemaking at the state level through amendments to Oregon Revised
+Statutes (ORS) and Oregon Administrative Rules (OAR), and allows for less substantive code
+changes to continue efficient County operations.
+The last time Deschutes County adopted housekeeping amendments occurred in October
+20241
+11. OVERVIEW OF AMENDMENTS
+As summarized in the attached ordinance and exhibits, the proposed text amendments will
+affect the following chapters of the Deschutes County Code:
+1 Ordinances 2024-008.
+Title 18, County Zoning
+Chapter 18.16. EXCLUSIVE FARM USE ZONES
+Chapter 18.32. MULTIPLE USE AGRICULTURAL ZONE; MUA
+Chapter 18.60. RURAL RESIDENTIAL ZONE; RR-10
+Chapter 18.65. RURAL SERVICE CENTER; UNINCOPORATED COMMUNITY ZONE
+Chapter 18.66. TERREBONNE RURAL COMMUNITY ZONING DISTRICTS
+Chapter 18.67. TU MALO RURAL COMMUNITY ZONING DISTRICTS
+Chapter 18.74. RURAL COMMERCIAL ZONE
+Chapter 18.108. URBAN UNINCORPORATED COMMUNITY ZONE; SUN RIVER
+Chapter 18.110. RESORT COMMUNITY ZONE
+Chapter 18.116. SUPPLEMENTARY PROVISIONS
+Chapter 18.128. CONDITIONAL USE
+Title 19, Bend Urban Growth Boundary Zoning Ordinance
+Chapter 19.04. TITLE, COMPLIANCE, APPLICABILITY AND DEFINITIONS
+Chapter 19.12. URBAN AREA RESERVE ZONE UAR-10
+Chapter 19.20. SUBURBAN LOW DENSITY RESIDENTIAL ZONE; SR 2 ½
+Chapter 19.22. WESTSIDE TRANSECT ZONE; WTZ
+Chapter 19.28. URBAN STANDARD RESIDENTIAL ZONE; RS
+Chapter 19.80. OFF-STREET PARKING AND LOADING
+Chapter 19.88. PROVISIONS APPLYING TO SPECIAL USE STANDARDS
+Chapter 19.92. INTERPRETATIONS AND EXCEPTIONS
+Chapter 19.116. AMENDMENTS, APPEALS AND PROCEDURES
+Ill. HEARING PROCESS
+The Planning Commission (Commission) held a public hearing concerning the proposed
+amendments on February 12th, 2026.2 Following the hearing, the Commission closed both
+the oral and written records, and held deliberations that same day. The Commission
+unanimously (7-0) recommended approval of the proposed amendments.
+Following a public hearing on April 8, 20263, the Board closed the open record period and
+commenced deliberations that same day. The Board voted unanimously (2-0, Commissioner
+Adair was not in attendance) to approve the proposed amendments and held first reading
+of the Ordinance following deliberations.
+IV. SECOND READING
+The Board is scheduled to conduct the second reading of Ordinance 2026-006 on April 22,
+2026, fourteen (14) days following the first reading.
+2 See Deschutes County Planning Commission February 12th, 2026 Agenda for more information:
+https://www.desch utes.org/bc-pc/page/pla n n i ng-com mission-77
+3 See Board of County Commissioners April 8th, 2026 Agenda for more information:
+https ://www. d esch utes. o rg/bcc/ page/boa rd-county-commission e rs-m eeti ng-2 9 3
+Attachments:
+1) Ordinance 2026-006: Staff Report & Text Amendments

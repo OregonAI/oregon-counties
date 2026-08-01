@@ -1,0 +1,425 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-land-use-chapter-8-parks-and-recreation
+title: 'Chapter 8 - Parks And Recreation'
+doc_type: ordinance
+citation: 'Chapter 8 - Parks And Recreation'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://multco.us/file/chapter_8_-_parks_and_recreation/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 261c25e6f669024b11c525b9014e191547fa5759dd7c2767ee3b0ec9ed860be3
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter 8 - Parks And Recreation (Chapter 8 - Parks And Recreation)
+
+## At a glance
+
+Chapter 8 - Parks And Recreation — land use of Multnomah County. 11 pages.
+
+## Full text
+
+Multnomah
+  County
+Comprehensive Plan
+CHAPTER 8
+PARKS AND RECREATION
+Multnomah County Comprehensive Plan  Parks and Recreation   |    8-2
+INTRODUCTION AND BACKGROUND
+G
+oal 8 of Oregon’s statewide planning goals requires cities and counties
+to satisfy the recreational needs of its citizens, community members,
+and visitors, and, where appropriate, to provide for the siting of
+necessary recreational facilities including destination resorts. The goal and
+its administrative rules call for local governments who have responsibility
+for providing recreation services and facilities to plan for them in locations
+and amounts that are consistent with the jurisdiction’s resources available to
+provide them, and to do so in coordination with private entities.
+Multnomah County made a policy decision in the early 1990’s that it did not
+have the resources to plan for recreation areas and facilities on a county-wide
+basis in the urban or rural areas of the County and that other government
+agencies are better suited to plan for and provide recreation in Multnomah
+County. Starting in 1993 Multnomah County transferred ownership and
+management of a number of County recreation facilities to the Metro regional
+government. These included Blue Lake Park, Oxbow Park, and a number
+of boat ramps, beaches, and other facilities. As described in this chapter, a
+variety of regional, state, and federal agencies provide for a wide range of
+recreational activities within the rural areas of Multnomah County.
+This chapter provides an overview of conditions and planning issues
+associated with park and recreation planning, along with Comprehensive Plan
+policies and strategies to address them.
+Park and Recreation Conditions
+Parks and Natural Areas
+Multnomah County does not own or manage any parks or recreational
+facilities. However, a variety of other local, regional, state, and federal
+agencies, as well as private organizations, provide for a wide range of natural
+areas, parks, and recreational activities in or directly adjacent to the County’s
+rural lands. Examples include the following:
+• City of Portland. Forest Park is adjacent to the West Hills area and is
+owned and managed by the City of Portland. It includes the lower portions
+of the Balch Creek Basin and is the City’s largest recreational area, as
+well as the largest natural area park within an incorporated city in the
+United States. Protection of its integrity as a natural park adjacent to the
+city and as home to numerous native plant and animal species is a high
+priority for both the City of Portland and Multnomah County as well as for
+neighborhood and conservation organizations. The City of Portland has
+adopted a Natural Resources Management Plan for Forest Park, which is
+designed to protect and enhance the natural resources in the park.
+Multnomah County Comprehensive Plan  Parks and Recreation   |    8-3
+• Metro. Metro is a regional government agency serving Multnomah
+County residents and the greater Portland area. Metro, as a parks service
+provider, has its roots in Multnomah County and the County’s park system.
+In 1995, Metro assumed ownership and operation of a number of park
+and recreational facilities previously owned and operated by the County,
+including Oxbow Regional Park, Blue Lake Regional Park, Glendoveer
+Golf Course and Fitness Trail, Howell Territorial Park, Gleason Memorial
+Boat Ramp, Broughton Beach, Chinook Marine
+Facility, historic cemeteries, and a number of
+other facilities. Metro also owns and manages a
+number of natural areas and nature preserves
+in Multnomah County managed to protect
+water quality, promote fish and wildlife habitat,
+and provide access to nature. Metro’s facilities
+provide a diverse range of outdoor recreational
+opportunities and experiences, including boating,
+hiking, bicycling, horseback riding, bird watching,
+and general scenic and recreational access.
+• Oregon Department of Parks and Recreation (ODPR). The state owns
+and operates nine state parks or recreation areas within the rural parts of
+Multnomah County, including Benson, Rooster Rock, Dabney, Government
+Island, Lewis and Clark, Ainsworth, Women’s Forum, George W. Joseph,
+Guy W. Talbot, and Wapato. The majority of these are in the eastern
+portion of the County and several are in the Columbia River Gorge National
+Scenic Area. Only the Wapato recreation and wildlife area is in the western
+portion of the County (on Sauvie Island). The ODPR also manages
+additional scenic corridors and trailheads in Multnomah County, primarily in
+the Columbia River Gorge.
+• Oregon Department of Fish and Wildlife. This agency manages two
+wildlife areas on Sauvie Island – the Sauvie Island Wildlife Area and the JR
+Palensky Wildlife Mitigation Area.
+• United States Forest Service (USFS). The USFS manages a significant
+amount of land in the Mt. Hood National Forest in the eastern half of
+the County within the Columbia River Gorge and East of Sandy areas,
+including numerous recreation areas and trails. Within Multnomah County,
+these opportunities are almost entirely within the Columbia Gorge National
+Scenic Area. The facilities in the Gorge are some of the most heavily
+visited recreation areas in the state of Oregon. On lands outside of the
+National Scenic Area, only limited recreation on hiking trails is currently
+allowed or foreseen in the future. Much of the area along the eastern edge
+of the National Forest, adjacent to private lands which lie on tributaries of
+the Sandy River, is closed to recreational activities because it is part of the
+Bull Run watershed (municipal drinking water supply for Portland).
+“The openness and greenery of the
+area, together with expansive views
+of four Cascade peaks and two rivers,
+give the island a rare and special
+beauty in the Portland metropolitan
+area.”
+- Sauvie Island/Multnomah Channel
+Community Vision
+Multnomah County Comprehensive Plan  Parks and Recreation   |    8-4
+• United States Bureau of Land Management. The US Bureau of Land
+Management (BLM) manages approximately 643 acres of federally
+owned land in the northern portion of the West Hills, divided into six non-
+contiguous parcels. The BLM also manages about 3,580 acres in east
+County. Currently these lands are managed primarily for timber production.
+Sandy River parks are a major recreational attraction (approximately 1 million
+visitors annually). The river is designated as a State Scenic Waterway and a
+Federal Wild and Scenic River between Dodge Park and Dabney State Park.
+The river provides easy access and outstanding habitat for anadromous fish,
+due to its outfall into the Columbia below that river’s dam system, and the
+relative lack of development in its watershed. The river is also large enough to
+allow for non-motorized boating (rafting) and floating. Because it is classified
+as a navigable waterway, the submerged and submersible lands along the
+river are “waters of the state” and are managed and regulated by the Oregon
+Department of State Lands. The parks along the river provide the opportunity
+for nature study and day use, including rafting, kayaking, and river floating.
+Several public and private camps are located adjacent to the river.
+Trails
+In addition to the facilities described above, people use a combination of
+trails and rural roads for recreational walking and bicycling. Recreational
+trails include those managed by local, regional, state, and federal agencies
+and which sometimes cross multiple jurisdictions. Regional trails include the
+Springwater Trail, connecting downtown Portland to the rural community of
+Boring, the future Westside Trail that will connect Forest Park to the Bethany
+area, and the Helvetia and Pacific Greenway Trails
+The Burlington Northern railroad right-of-way from Highway 30 through
+Cornelius Pass to Washington County is being considered for a rails-to-trails
+conversion, which could provide an off-road cycling route through the hills near
+Cornelius Pass Road and provide a key portion of the Helvetia regional trail.
+A significant amount of recreational bicycling occurs on County roads
+throughout the rural portions of the County, particularly on Sauvie Island, the
+West Hills, and East of Sandy areas, as well as the Columbia River Gorge
+National Scenic Area.
+Multnomah County Comprehensive Plan  Parks and Recreation   |    8-5
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRd
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan
+Road
+Skyline
+Boulevard
+ß/30
+ß/26
+vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+10/13/2016
+Prepared By:
+Angelo Planning Group
+Parks and/or Natural Areas
+Cemeteries
+Golf Courses
+Subareas
+County Boundaries
+Parks and Open
+Space
+West Multnomah County
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Source:
+Metro Regional Land Inventory System (RLIS) (2016)
+Disclaimer:
+Unofficial depiction, for illustrative purposes only.
+Figure 8-1 - Parks and Open Space
+Multnomah County Comprehensive Plan  Parks and Recreation   |    8-6
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+10/13/2016
+Prepared By:
+Angelo Planning Group
+Parks and/or Natural Areas
+Cemeteries
+Golf Courses
+Subareas
+County Boundaries
+Parks and Open
+Space
+East Multnomah County
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Source:
+Metro Regional Land Inventory System (RLIS) (2016)
+Disclaimer:
+Unofficial depiction, for illustrative purposes only.
+Figure 8-2 - Parks and Open Space
+Multnomah County Comprehensive Plan  Parks and Recreation   |    8-7
+Relevant Studies and Planning Processes
+A variety of local, state, and regional plans and policies are relevant to
+planning for parks and recreation in Multnomah County, including the following.
+Oregon’s Statewide Planning Goal 8, Recreation Needs, calls for each
+community to evaluate its areas and facilities for recreation and develop plans
+to deal with the projected demand for them.
+Metro has a variety of Parks and Open Space planning documents,
+including policies associated with natural resource protection and
+management, recreational planning, and individual facility master plans. The
+agency’s parks and nature system, including overarching values, operating
+procedures, facility descriptions and key strategies, is outlined in the Metro
+Parks and Nature System Plan (2016).
+Columbia River Gorge National Scenic Act establishes a national scenic
+area to protect and provide for the enhancement of the scenic, cultural,
+recreational, and natural resources of the Columbia River Gorge. It also
+protects and supports the economy of the Columbia River Gorge area by
+encouraging growth to occur in existing urban areas located throughout the
+Gorge.
+The Mt. Hood Land and Resources Management Plan guides all natural
+resource management activities and establishes management standards and
+guidelines for the Forest. It describes resource management practices, levels
+of resource production and management, and the availability and suitability of
+lands for resource management.
+The Oregon Department of Parks and Recreation provides information on
+state park master plans and the Statewide Comprehensive Outdoor Recreation
+Plan (SCORP). The SCORP provides guidance to counties for delivering
+quality outdoor recreational opportunities.
+The Forest Park Natural Resources Management Plan formulates goals,
+strategies, and actions to protect and enhance park resources and manage
+recreation use. The plan includes recommendations, strategies and actions,
+identifies projects, and provides regulations which govern park activities.
+Individual park or recreation facility plans, such as those for Oxbow Park,
+Columbia River Gorge facilities, Howell Territorial Park and others guide
+activities at those sites.
+Multnomah County Comprehensive Plan  Parks and Recreation   |    8-8
+Key Planning Issues and Supporting
+Information
+A number of key planning issues affect parks and open space planning policies
+and practices in the rural portions of Multnomah County:
+• Coordination with other agencies, including land use permitting.
+While the County does not provide recreational services, it does coordinate
+with those agencies that do. This includes sharing information with other
+agencies and the public and reviewing land use permits for park and
+recreation facilities in some cases. In reviewing land use permits, the
+County must consider its Zoning Code requirements, as well as the policies
+of this Plan.
+• Balancing recreational use with protection of natural resources.
+Oftentimes, recreational facilities are located within environmentally
+sensitive areas where it is important to balance recreation needs with
+natural resource management and protection objectives, particularly for
+riparian areas and wildlife habitat. This issue was raised by community
+members during preparation of this Comprehensive Plan and a number of
+policies direct the County to balance these two different types of objectives.
+• Recreational bicycle use on County roads. A significant number of
+people use County roads for recreational bicycling. This was a topic of
+significant discussion during Comprehensive Planning and Rural Area
+Planning processes. Much of the discussion focused around ensuring that
+bicycling on County roads can occur safely, that conflicts between different
+types of road users are minimized, and that bicyclists and motorists are
+courteous and respectful towards each other. The County’s TSP includes a
+number of policies related to this topic.
+Multnomah County Comprehensive Plan  Parks and Recreation   |    8-9
+GOAL, POLICIES, AND STRATEGIES
+Goal: To help meet the recreational needs of Multnomah County rural
+residents and visitors to its rural areas through support of, and coordination
+with local, regional, state, and federal agencies that manage recreation
+facilities and sites within the County.
+Policies and Strategies Applicable County-wide
+The policies in this section focus on coordination with other agencies in
+planning for and providing recreational facilities and services and with
+balancing recreational needs with goals for natural resource protection.
+Additional related policies are found in Chapter 5 of this plan and in the
+County’s Transportation System Plan (referenced in Chapter 12).
+Parks and Recreation Planning
+8.1 Support efforts of the Intertwine Alliance, Metro, and other
+organizations in establishing a coordinated approach to create and
+maintain a strong, interconnected regional network of parks, trails,
+and natural areas.
+8.2 Encourage the development of recreation opportunities by public
+agencies and private entities consistent with wildlife habitat and
+wildlife corridor protection.
+8.3 Coordinate with other agencies in strategically siting new public
+recreational facilities to take advantage of existing infrastructure
+that allow for multi-modal access opportunities and shared parking.
+An example would be joint use of park and school facilities by
+locating them adjacent, or close, to each other.
+Strategy 8.3-1: Include provisions in the Zoning Code for privately
+owned and operated recreational facilities as conditional uses in
+appropriate zones.
+8.4 Ensure that the residents of areas outside of the urban growth
+boundary are represented on parks and open space issues.
+Strategy 8.4-1: Encourage Metro to appoint residents representing
+different rural areas of Multnomah County to Metro’s parks and
+greenspaces citizens’ advisory boards.
+8.5 Consider the impacts of proposed recreation facilities on nearby
+private properties and require applicants to avoid and minimize
+significant adverse impacts to nearby properties.
+Multnomah County Comprehensive Plan  Parks and Recreation   |    8-10
+Development Requirements
+8.6 Require areas for bicycle parking facilities in development
+proposals where appropriate.
+West Hills Policies and Strategies
+8.7 Support the natural systems and recreational values of Forest Park
+and adjacent areas in concert with the City of Portland, Metro, and
+other agencies.
+Strategy 8.7-1: Promote and provide incentives for voluntary use of
+conservation easements and habitat protection by property owners.
+8.8 Support only those recreational activities within the West Hills area
+that are consistent with, and do not cause significant negative
+impacts on, natural and environmental resources that are identified
+in Goal 5.
+Sauvie Island and Multnomah Channel Policies
+and Strategies
+8.9 Continue to coordinate with Metro to ensure compliance with Rural
+Reserve designations, implementation of Metro’s 2016 System
+Plan, and planning for Howell Park. In particular, work with Metro to:
+1. Ensure activities will complement natural and environmental
+resources of local and regional significance; and
+2. Ensure that Howell Territorial Park uses and improvements
+maintain harmony with the rural character of the plan area as
+well as natural and cultural resources.
+8.10 Support only those recreational activities within the SIMC area
+that are complementary to and do not negatively impact natural
+and environmental resources on Sauvie Island and along the
+Multnomah Channel and its tributaries that are identified in Goal 5.
+Multnomah County Comprehensive Plan  Parks and Recreation   |    8-1 1
+West of Sandy Policies and Strategies
+8.11 Support upgrades and improvements to Oxbow Park consistent
+with the character of the surrounding area.
+Strategy 8.11-1: Work with Metro to develop a park zoning district
+for Oxbow Park.
+East of Sandy Policies and Strategies
+8.12 Maintain and enhance the recreational value of the Sandy River
+and Columbia River and adjacent areas in concert with the
+Columbia River Gorge Commission, Metro, Oregon Parks and
+Recreation Department, US Forest Service, and other agencies.
+Strategy 8.12-1: Implement this policy through the existing National
+Scenic Area and Significant Environmental Concern provisions
+within the Multnomah County Zoning Code, and participate in other
+agency plans such a future National Scenic Area Management Plan
+update and Metro’s Oxbow Park Master Plan.

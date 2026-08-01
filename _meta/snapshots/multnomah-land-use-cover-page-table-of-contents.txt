@@ -1,0 +1,311 @@
+Adopted: September 1, 2016
+by Ordinance No. 1235
+Effective: October 1, 2016
+
+Multnomah County Comprehensive Plan ii
+
+TABLE OF CONTENTS
+
+CHAPTER
+
+PAGE
+
+1
+
+Introduction and Citizen Involvement
+
+ Equity 1-36
+ Columbia River Gorge National Scenic Area 1-37
+2 Land Use
+ Growth Management and Regional Coordination 2-9
+ Rural Residential Areas 2-12
+ Rural Centers, Commercial, and Industrial Uses 2-13
+ Home Occupations 2-17
+ Community Identity and Design 2-18
+ Permitting, Code Enforcement, and Other Procedural Issues 2-21
+ Grading and Fill 2-22
+ Community Facilities 2-23
+3 Farm Land
+ Agricultural Zones 3-9
+ Exclusive Farm Use Zones 3-10
+ Multiple Use Agricultural Land 3-11
+ Farm Stands, Wineries, and Agri-tourism 3-13
+ Policies Specific to Subareas 3-17
+4 Forest Land
+ Commercial Forest Use (CFU) Zones 4-7
+ Forest Dwellings 4-9
+5 Natural Resources
+ General Policies 5-20
+ Water Quality and Erosion Control 5-21
+ River, Streams, and Wetlands 5-24
+ Fish and Wildlife Habitat 5-27
+ Scenic Views and Sites 5-31
+ Tree Protection 5-32
+ Air Quality, Noise, and Lighting Impacts 5-33
+ Wilderness Areas 5-34
+ Mineral and Energy Resources 5-34
+ Policies Specific to Subareas 5-36
+
+Multnomah County Comprehensive Plan iii
+
+TABLE OF CONTENTS
+
+ CHAPTER PAGE
+6 Historic and Cultural Resources
+ Historic Resources 6-8
+ Cultural and Archeological Resources 6-10
+7 Natural Hazards
+ Areas Susceptible to Landslide 7-24
+ Earthquake Hazards 7-25
+ Flooding 7-25
+ Wildfire Risks 7-27
+ Policies Specific to Subareas 7-27
+8 Parks and Recreation
+ Parks and Recreation Planning 8-9
+ Development Requirements 8-10
+ Policies Specific to Subareas 8-10
+9 Rural Economy
+ General Policies 9-6
+10 Housing
+ General Policies 10-8
+ Policies Specific to Subareas 10-10
+11 Public Facilities
+ General Policies 11-11
+ Water Supply and Wastewater Treatment Systems 11-14
+ Energy Facilities 11-14
+ Solid Waste Management 11-14
+ Police, Fire, and Emergency Response Facilities 11-15
+ Rest Stops 11-15
+ Alternative Uses of Public School Buildings 11-16
+ Policies Specific to Subareas 11-17
+12 Transportation 12-1
+ Appendices
+Multnomah County Comprehensive Plan iv
+
+LIST OF FIGURES
+
+FIGURE
+
+PAGE
+1-1 Western Multnomah County Subareas 1-14
+1-2 Eastern Multnomah County Subareas 1-15
+1-3 Urban and Rural Reserves (Western) 1-16
+1-4 Urban and Rural Reserves (Eastern) 1-17
+1-5 Percent Minority (Western) 1-20
+1-6 Percent Minority (Eastern) 1-21
+2-1 Multnomah County Zoning Map (Western) 2-5
+2-2 Multnomah County Zoning Map (Eastern) 2-6
+3-1 Land in Farms, 2012 by Land Use 3-3
+3-2 Multnomah County Farm Use Zoning (Western) 3-5
+3-3 Multnomah County Farm Use Zoning (Eastern) 3-6
+4-1 Multnomah County Forest Use Zoning (Western) 4-5
+4-2 Multnomah County Forest Use Zoning (Eastern) 4-6
+5-1 Riparian Areas (Western) 5-4
+5-2 Riparian Areas (Eastern) 5-5
+5-3 Wetland Areas (Western) 5-8
+5-4 Wetland Areas (Eastern) 5-9
+5-5 Wildlife Habitat (Western) 5-12
+5-6 Wildlife Habitat (Eastern) 5-13
+5-7 Scenic Areas (Western) 5-14
+5-8 Scenic Areas (Eastern) 5-15
+Multnomah County Comprehensive Plan v
+
+LIST OF FIGURES
+
+ FIGURE PAGE
+7-1 Steep Slopes (Western) 7-4
+7-2 Steep Slopes (Eastern) 7-5
+7-3 Erosion Hazards (Western) 7-6
+7-4 Erosion Hazards (Eastern) 7-7
+7-5 Flood Hazards (Western) 7-9
+7-6 Flood Hazards (Eastern) 7-10
+7-7 Lower Sandy Channel Migration Area 7-11
+7-8 Communities at Risk of Wildfire (Western) 7-12
+7-9 Communities at Risk of Wildfire (Eastern) 7-13
+7-10 Probability of Liquefaction (Western) 7-16
+7-11 Probability of Liquefaction (Eastern) 7-17
+7-12 Earthquake Damage Potential (Western) 7-18
+7-13 Earthquake Damage Potential (Eastern) 7-19
+8-1 Parks and Open Space (Western) 8-5
+8-2 Parks and Open Space (Eastern) 8-6
+9-1 Multnomah County Land in Farms, 2012 by Land Use 9-3
+10-1 Multnomah County Census Tracts 10-5
+11-1 Water Districts 11-5
+11-2 School Districts 11-6
+11-3 Fire Districts 11-7
+Multnomah County Comprehensive Plan vi
+
+LIST OF TABLES
+
+TABLE
+
+PAGE
+1-1 Race and Ethnicity 1-19
+3-1 Primary Land Use Based on Zoning in Multnomah County 3-2
+3-2 2012 Multnomah County Farm Economic Summary 3-4
+4-1 Primary Land Use Based on Zoning in Multnomah County 4-3
+9-1 2012 Multnomah County Farm Economic Summary 9-3
+9-2 2012 Multnomah County Farm Economic Characteristics 9-4
+10-1 Multnomah County Households 10-4
+10-2 Housing Occupancy 10-5
+10-3 Housing Tenure & Household Size 10-5
+Multnomah County Comprehensive Plan vii
+
+APPENDICES
+
+  APPENDIX
+A Comprehensive Plan and Zoning Map (The Multnomah County Zoning Map, as
+most recently amended through Multnomah County Order 2020-086, serves as
+the statutorily-required comprehensive plan map for this Comprehensive Plan)
+B Glossary of Terms
+C Sauvie Island/Multnomah Channel Rural Area Plan (September 2015)
+D Columbia River Gorge National Scenic Rural Area Plan Policy Document
+E Multnomah County Transportation System Plan
+Multnomah County Comprehensive Plan viii
+
+Illustration Disclaimer
+All illustrations set forth herein, maps or otherwise, and the associated information set forth in such illustrations, are
+for illustrative purposes only for the convenience of the reader and are not to be considered an official citation to, or
+representation of, the Multnomah County Comprehensive Plan or Zoning Code. Accordingly, Multnomah County
+makes no representation or warranty concerning the content, accuracy, currency, completeness or quality of the
+illustrations and associated information set forth herein and expressly disclaims any warranty of merchantability or
+fitness for any particular purpose.
+Multnomah County Comprehensive Plan ix
+
+ACKNOWLEDGMENTS
+Multnomah County appreciates the conscientious service of the Community
+Advisory Committee (CAC) and its subcommittees throughout the process.
+
+Community Advisory Committee
+• Martha Berndt, Sauvie Island, (Transportation and Public Facilities Subcommittee)
+• Aaron Blake, East of Sandy, (Farm and Forest Subcommittee)
+• Linden Burk, East of Sandy, (Farm and Forest Subcommittee)
+• Marcy Cottrell Houle, Sauvie Island & West Hills, (Air, Land, Water, Wildlife
+and Hazards Subcommittee)
+• Ray Davenport, East of Sandy
+• Catherine Dishion, East of Sandy River, (Land Use and Air, Land, Water, Wildlife and Hazards
+Subcommittees)
+• Sara Grigsby, East of Sandy, (Transportation and Public Facilities Subcommittee)
+• Jerry Grossnickle, West Hills/Forest Park N.A., (Transportation and Public Facilities and Air, Land,  Water,
+Wildlife and Hazards Subcommittees)
+• Andrew Holtz, Portland Resident, (Transportation and Public Facilities Subcommittee)
+• Tim Larson, Sauvie Island, (Land Use Subcommittee)
+• Karen Nashiwa, Portland Resident
+• Stephanie Nystrom, East of Sandy, (Air, Land, Water, Wildlife and Hazards Subcommittee)
+• Will Rasmussen, West Hills, (Land Use Subcommittee)
+• Paula Sauvageau, West Hills/Forest Park N.A., (Farm and Forest Subcommittee)
+• George Sowder, West Hills, (Farm and Forest Subcommittee)
+• Kathy Taggart, West of Sandy River, (Land Use Subcommittee)
+• John Ingle, Multnomah County Planning Commissioner (Ex officio member)
+• Chris Foster, Multnomah County Planning Commissioner (Ex officio member)
+
+Multnomah County Comprehensive Plan x
+
+Project Team
+This plan was truly a collaborative effort between Multnomah County Land Use and Transportation
+Planning staff and the consultant team led by Angelo Planning Group (APG).
+
+Multnomah County Land Use and Transportation Planning Divisions
+
+Karen Schilling and Michael Cerbone - Planning Directors
+
+Rich Faith - Land Use Project Manager
+
+Kevin Cook - Land Use Planner
+Rithy Khut - Land Use Planner
+Adam Barber - Senior Planner
+Joanna Valencia - Transportation Project Manager
+
+Jessica Berry - Transportation Planner
+
+Kate McQuillan - Transportation Planner
+Consultant Team
+
+Cathy Corliss, APG - Principal-in-Charge
+
+Matt Hastie, APG - Consultant Team Project Manager
+
+Clinton “CJ” Doxsee, APG - Planning and Document Production
+
+Eryn Kehe, JLA Public Involvement - Facilitation
+
+C. Mirth Walker, SWCA - Natural Resources
+
+Chip Barnett, GeoEngineers - Natural Hazards
+
+Susan Wright, Kittelson & Associates - Transportation
+
+Steve White, Oregon Public Health Institute - Health and Equity
+Multnomah County Comprehensive Plan xi
+
+Administration
+
+ADOPTED AMENDMENTS
+
+EFFECTIVE
+DATE
+
+ORD #
+
+AMENDMENT TOPIC
+April 4, 2019 Order
+2019-025
+Approving exception to Statewide Planning Goal 11 to extend
+public sewer service outside the Urban Growth Boundary to the
+property located at 5105 SE 302
+nd Ave., Gresham, Oregon
+October 1, 2020 Order
+2020-086
+Approving an exception to Statewide Planning Goal 3 (Agricultural
+Lands), and an amendment to the Multnomah County
+Comprehensive Plan and the Multnomah County Comprehensive
+Plan and Zoning Map, to rezone the Property located in East Rural
+Multnomah County at 2326 SE Troutdale Road and that portion of
+SE Troutdale Road adjacent to the subject property extending to
+the road center line from Exclusive Farm Use (EFU) to Rural
+Residential (RR).
+December 16,
+2021
+Ordinance
+1302
+Amending Multnomah County Chapter 38 Zoning Code and the
+Multnomah County Comprehensive Plan in response to federally
+mandated revisions to the Management Plan for the Columbia
+River Gorge National Scenic Area approved by the Columbia River
+Gorge Commission and other amendments to Chapter 38 Code
+and the Comprehensive Plan not related to the Management Plan
+revisions.
+October 26, 2023 Order
+2023-090
+Amending the Comprehensive Plan to include the North Tualatin
+Mountains Parks and Natural Areas as a designated local park in this
+Compressive Plan. The park is comprised of four geographically
+separate properties, further described as follows:
+Burlington Creek Forest: 2N1W20BC-01400, 2N1W20BC-01200,
+2N1W19-00500, 2N1W19AA-00500, 2N1W20B-00700,
+2N1W1900200, 2N1W20B-00500, 2N1W20BD-02400, 2N1W20C-
+00500, 2N1W20BD-03700, 2N1W20BC-01000, 2N1W20C-00400,
+2N1W20C-00100, 2N1W20C-00200, 2N1W20B-00600, 2N1W19AA-
+00800, 2N1W20B00200, 2N1W20C-00600, 2N1W19-00300,
+2N1W20BC-01600, 2N1W19AA-00400, 2N1W20-00400,
+2N1W20C00700, 2N1W19AA-00600, 2N1W20B-00100, 2N1W19AA-
+00300, 2N1W20B-00400, 2N1W19AA-00700, 2N1W20BC-00800,
+2N1W20C-00300, 2N1W20B-00300, 2N1W20BC-00900, 2N1W19D-
+
+Multnomah County Comprehensive Plan xii
+
+00800, 2N1W20BC01700, 2N1W20BC-01800, 2N1W20-00300,
+2N1W20BC-01300.
+Ennis Creek Forest: 2N1W28C-00500, 2N1W28CA-01701,
+2N1W32A-00600, 2N1W32A-00500, 2N1W33B-00700,
+2N1W28CA01500, 2N1W28C-01000, 2N1W28CD-01000, 2N1W28C-
+00600, 2N1W28DC-01900, 2N1W32A-00400, 2N1W33B-00600,
+2N1W33B-00500, 2N1W28C-00500, 2N1W33B-00100, 2N1W28DC-
+01800, 2N1W33A00500, 2N1W28CD-00400, 2N1W28DC-02000,
+2N1W33B-00200, 2N1W32A-00100, 2N1W33C-00300.
+McCarthy Creek Forest: 2N1W32B-00600, 2N1W32B-00900,
+2N1W32C-00100, 2N1W32C-00200, 2N1W310-01200, 2N1W31D-
+00100, 2N1W31D-00200, 2N1W31D-00300.
+North Abbey Creek Forest: 1N1W05C 00100, 1N1W05C-00400,
+1N1W05C-00500, 1N1W08B -00100, 1N1W05C -00300, 1N1W05C
+-00500, 1N1W05B-00900, 1NIW05C-00200, 1NIW06D-00400.

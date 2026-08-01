@@ -1,0 +1,129 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch690
+title: 'Ch690'
+doc_type: ordinance
+citation: 'Ch690'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/General%20Offenses/Ch690.pdf?t=202406181553030
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 074aabe91a75274ee12fc70704d4ec914017bfcdfef8259f353f58c47cb1dd4f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 451.010
+    - ORS 452.210
+    - ORS 452.245
+    - ORS 452.250
+    - ORS 452.300
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch690 (Ch690)
+
+## At a glance
+
+Ch690 — code of Jackson County. 4 pages.
+
+## Full text
+
+CHAPTER 690
+Vector Control
+
+690.01 Declaration of Nuisance; Abatement by Public Authority.
+690.02 Complaint Procedure; Notice of Hearings; Appeals; Abatement by Offender.
+690.03 Breeding Prohibited; Tire Fences Regulated.
+690.04 Obstructions to Abatement.
+690.99 Penalty.
+
+CROSS REFERENCES
+
+Master plans, service districts - see ORS 451.010, 451.420
+Vector control by counties - see ORS 452.210, 452.230, 452.240
+Approval of application of certain insecticides, oil or poison on certain waters -
+see ORS 452.245
+Interference prohibited - see ORS 452.250, 452.990
+Health Division program - see ORS 452.300
+Vector Control Committee - see ADM. Ch. 289
+Sanitation Code - see H. & S. Ch. 1860
+
+690.01 DECLARATION OF NUISANCE; ABATEMENT BY PUBLIC
+AUTHORITY.
+
+Any place in the County which is determined to be a place, pursuant to this chapter,
+where public health vectors are permitted to breed, is hereby declared to be a nuisance
+and may be abated by the County or by the County Vector Control District, as provided
+by law, if the person responsible for such nuisance does not abate the same pursuant to
+Section 690.02.
+
+(Adopting Ordinance. Passed 12-10-85.)
+690.04 Vector Control 44
+
+690.02 COMPLAINT PROCEDURE; NOTICE OF HEARINGS; APPEALS;
+ABATEMENT BY OFFENDER.
+
+A complaint concerning an alleged nuisance may be filed by any person with the Board
+of Trustees of the County Vector Control District or may be initiated by the District
+Board itself. Any such complaint shall be made the subject of a public hearing before the
+District Board. Notice of the complaint and of the hearing date shall be given to the
+owner of the subject property not later than ten days prior to the hearing. The District
+Board shall consider all relevant evidence presented to it and enter its decision, either
+declaring that a nuisance exists or dismissing the complaint. The complainant or the
+landowner may appeal the decision of the District Board to the Board of County
+Commissioners, whose decision shall be final. An appeal must be filed with the Board of
+County Commissioners within fifteen days of the written decision of the District Board,
+which shall include the notice of the appeal procedure. If a nuisance is found to exist,
+either by the District Board or by the Board of County Commissioners, on appeal, the
+District Board shall order the same abated within a stipulated period by the person
+responsible for the same. No person shall fail to comply with such order within such
+period.
+
+(Adopting Ordinance. Passed 12-10-85.)
+
+690.03 BREEDING PROHIBITED; TIRE FENCES REGULATED.
+
+(a) No person shall permit public health vectors to breed or permit conditions to exist
+which may reasonably lead to breeding of public health vectors.
+
+(b) No person shall construct, or, being in possession or control of property, permit
+construction or maintenance thereon of, a tire fence or other similar structure fashioned
+from waste tires, unless all the tires in it have been so altered, by the removal of side
+walls or otherwise, that water cannot accumulate therein.
+
+(Ord. 83-3. Passed 3-9-83; Ord. 88-22. Passed 12-28-88.)
+
+690.04 OBSTRUCTIONS TO ABATEMENT.
+
+No person shall knowingly or willfully hinder, interfere with or prevent the exercise of
+any powers conferred by law upon the County or the County Vector Control District, or
+do or perform any act or thing which will destroy or impair the efficiency of any device
+or means used for the control or extermination of public health vectors or their larvae.
+
+(Ord. 83-3. Passed 3-9-83.)
+45 Vector Control 690.99
+
+690.99 PENALTY.
+
+EDITOR'S NOTE:  See Section 202.99 for general Code penalty if no specific penalty is
+provided.
+ Vector Control 46
+
+THIS PAGE RESERVED FOR EXPANSION

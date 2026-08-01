@@ -1,0 +1,1487 @@
+CHAPTER 9:  COUNTY EMPLOYMENT
+§§:
+
+(S-1 2026)
+GENERAL PROVISIONS
+9.010 Definitions.
+9.020 Policy And Purpose; Merit
+Principles.
+9.030 Personnel Rules.
+9.040 Administration.
+9.050 Labor Organizing and Collective
+Bargaining.
+9.060 Equal Employment Opportunity.
+9.070 Conformance With Law.
+9.110 Classified Service Exceptions.
+9.120 Classified Service.
+9.130 Classification Plan.
+9.140 Positions and Appointment.
+9.150 Examinations.
+9.160 Compensation Plan.
+9.170 Plan Maintenance.
+9.180 PERS.
+9.200 Merit Evaluations And
+Employment Conditions.
+9.210 Personnel Files.
+9.220 Political Activity Prohibited.
+9.230 Political Influence Prohibited.
+9.240 Prohibited Merit System
+Conduct.
+9.250 Disciplinary Action.
+9.260 Appeals From Personnel Actions.
+9.270 Contract Regulations.
+MERIT SYSTEM CIVIL SERVICE COUNCIL
+9.310 Membership.
+9.320 Officers; Meetings.
+9.330 Duties.
+9.340 Witnesses And Evidence; Powers
+Of The Council.
+9.350 Hearings Officer.
+9.360 Legal Advisor.
+
+Repealed by Ord. 1094
+9.410 Repealed by Ord. 1094
+9.420 Repealed by Ord. 1094
+9.430 Repealed by Ord. 1094
+9.440 Repealed by Ord. 1094
+9.450 Repealed by Ord. 1094
+
+RETIREE MEDICAL BENEFITS.
+9.510 Policy.
+9.520 Medical Insurance.
+9.530 Terms.
+9.540 Account.
+9.550 Actuarial Studies.
+9.560 Expenditures for Managing the
+Account.
+9.570 Loss of Tax Preferred Status.
+
+CHARITABLE SOLICITATION
+9.605 Findings And Purpose.
+9.610 Definitions.
+9.615 Compliance Required.
+9.620 Campaign Management Council
+Established.
+9.625 Campaign Management Council
+Responsibilities.
+9.630 Certification Criteria.
+9.635 Decertification.
+9.640 Ineligibility.
+9.645 Application And Appeal
+Procedure.
+9.650 Costs Paid By Certified
+Organizations.
+9.655 Payroll Deduction System.
+9.660 Effect of Board Approval.
+
+Cross-reference:
+ Personnel, see Charter §§ 7.10 through 7.50
+
+Statutory reference:
+ Civil rights; unlawful employment practices, see
+ORS, Ch. 659
+ County Civil Service, see ORS, Ch. 241
+ Public Employees Retirement System, see ORS,
+Ch. 238
+ Public employees rights and benefits, see ORS,
+Ch. 243
+ State Tort Claims Act, see ORS 30.260
+ Transfer of public employees, see ORS 236.605
+ Workers' compensation, see ORS, Ch. 656
+
+2 Multnomah County – County Employment
+
+(S-1 2008)
+
+GENERAL PROVISIONS
+
+§ 9.010 DEFINITIONS.
+
+The following definitions apply for this chapter and
+county rules unless the context requires a different
+meaning.
+
+AFFIRMATIVE ACTION . Identifying existing or
+potential discriminatory conditions and making spe-
+cific goal oriented corrective actions to eliminate and
+prevent unlawful discrimination.
+
+APPEAL. A request for hearing filed with the exec-
+utive secretary of the Merit System Civil Service
+Council.
+
+APPOINTMENT. All methods of selecting or em-
+ploying any person to hold a position in county ser-
+vice.
+
+BARGAINING AGENT. Labor organization certi-
+fied or recognized as the exclusive representative for
+purposes of collective bargaining under ORS 243 for
+all county employees in an appropriate bargaining
+unit.
+
+CAUSE. Misconduct, inefficiency, incompetence,
+insubordination, indolence, malfeasance or other un-
+fitness to render effective service.
+
+CLASS or CLASSIFICATION. A group of positions
+in the county service sufficiently similar in duties, au-
+thority and responsibility to permit grouping under a
+common title that would call for similar qualifica-
+tions and the same schedule of pay.
+
+CLASSIFICATION PLAN. A document that con-
+tains all county service classes, and the specifications
+or descriptions for the classes.
+
+CLASSIFIED EMPLOYEE . An employee in
+county service not excepted by this chapter from clas-
+sified service, but does not include temporary em-
+ployees or those who work on call or less than half
+time.
+
+CLASSIFIED SERVICE. All regular county service
+positions held by classified employees.
+
+COMPENSATION PLAN . Salary, wages, special
+pay provisions and paid benefits.
+
+COUNCIL. The Merit System Civil Service Council.
+
+COUNTY SERVICE. County employees in classi-
+fied and unclassified positions.
+
+DIRECTOR. The head of a department appointed
+by the Chair with the consent of the Board, and for
+employment purposes the Sheriff, Auditor, District
+Attorney and County Attorney, or designees.
+
+DISCRIMINATION COMPLAINT . A complaint
+that a personnel action was motivated by discrimina-
+tion on the basis of race, religion, sexual orientation,
+sex, age, color, marital status, national origin, physi-
+cal or mental disability, gender identity, familial sta-
+tus, source of income or political affiliation.
+
+DISTRICT ATTORNEY . State official elected by
+the voters of Multnomah County who has the powers
+and performs the duties of state law, including en-
+forcement of local laws.
+
+DISTRICT ATTORNEY EXECUTIVE STAFF .
+Employees in positions that report directly to and
+serve at the pleasure of the District Attorney.  These
+employees have the same rights and benefits as
+county elected officials’ staff.
+
+ELECTED OFFICIAL. Chair, Commissioner, Au-
+ditor, and Sheriff.
+
+ELECTED OFFICIAL'S STAFF . Employees in
+positions that report directly to and serve at the pleas-
+ure of a county elected official and serve as such of-
+ficial's immediate secretary, administrative, legisla-
+tive, or other immediate or first-line assistant.
+
+ELIGIBLE. A person qualified for employment by
+examination or other methods.
+
+ELIGIBLE LIST. A list of persons found qualified
+for appointment to a position in a particular class.
+
+ County Employment 3
+  (S-1 2008)
+EXAMINATION. Any test, method or combination
+of methods used to determine the fitness and qualifi-
+cations of applicants for county service.
+
+EXECUTIVE EMPLOYEE. Employee with a major
+role in the administration or formulation of policy
+that requires the exercise of independent judgment
+and includes all positions excepted by this chapter
+from the classified service.
+
+EXECUTIVE SECRETARY. The executive secre-
+tary of the Merit System Civil Service Council.
+
+FAMILIAL STATUS. Has the meaning as provided
+in ORS 659.010(9).
+
+GENDER IDENTITY.  A person's actual or per-
+ceived sex, and includes a person's identity, appear-
+ance or behavior whether or not that identity, appear-
+ance or behavior is different from that traditionally
+associated with the person's sex at birth.
+
+GRIEVANCE. A complaint filed under the terms of
+an existing collective bargaining agreement.
+
+JOB DESCRIPTION. A description of an individual
+position that contains the duties, responsibilities, skill
+and ability requirements of the individual position.
+
+LAYOFF. A reduction of the county work force.
+
+MANAGEMENT EMPLOYEE . Employee with a
+role in the administration of the county, a supervisor,
+or a professional, paraprofessional or confidential
+employee who is not covered by a collective bargain-
+ing agreement.  These positions are designated by the
+Chair and are classified but nonrepresented.
+
+NONREPRESENTED EMPLOYEE. An employee
+in a position not covered by a collective bargaining
+agreement.
+
+ON-CALL EMPLOYEE . A person employed to
+meet intermittent, irregular or less than half -time
+county work needs.
+
+PERSONNEL ACTION . Any employment action
+taken by the county with reference to an employee or
+position.
+PERSONNEL OFFICER. The county Chair, or de-
+signee.
+
+PROBATIONARY PERIOD. A working test period
+during which a classified employee is required to
+demonstrate fitness for the position to which the em-
+ployee is appointed by actual performance of the du-
+ties of that position.
+
+PROMOTION. A movement of an employee to a
+classification that has a higher maximum rate than the
+employee's current classification.
+
+PROMOTION LIST. A list of persons found quali-
+fied by a promotion test for appointment to a position
+in a particular class.
+
+RECALL LIST. A list of employees laid off from po-
+sitions in particular classes that have rights for ap-
+pointment to a position in that class.
+
+RECLASSIFICATION. The assignment of an exist-
+ing position from one to another class of work.
+
+REGULAR EMPLOYEE . The status a classified
+employee acquires after successful completion of the
+probationary period for the particular position to
+which the employee was appointed.
+
+REGULAR POSITION. A county service position
+budgeted for each fiscal year.
+
+REPRESENTED EMPLOYEE. An employee in a
+position covered by a collective bargaining agree-
+ment.
+
+SEXUAL ORIENTATION.  Actual or supposed
+male or female heterosexuality, homosexuality or bi-
+sexuality.
+
+SOURCE OF INCOME. The means by which a per-
+son and dependents are supported, including but not
+limited to money and property from any occupation,
+profession or activity, from any contract, settlement
+or agreement, from federal or state payments, court -
+ordered payments, gifts, bequests, annuities, life in-
+surance policies, and compensation for illness or in-
+jury, but excluding any money or property derived in
+an illegal or criminal manner.
+
+4 Multnomah County – County Employment
+
+(S-1 2008)
+
+TEMPORARY EMPLOYEE. A person employed to
+meet short term, non-recurring or emergency county
+work needs.
+
+TRANSFER. Movement from one position to an-
+other with the same maximum pay rate.
+
+UNCLASSIFIED EMPLOYEE . An employee ex-
+cepted from the classified service by this chapter, but
+does not include temporary employees or those who
+work on call or less than half time.
+(Ord. 1108, Amended, 01/31/2008; Ord. 981, Renum9.001,
+05/02/2002; Ord. 955, Amended, 12/21/2000, eff. 3/20/2001;
+Ord. 938, Amended, 02/09/2000; ‘ 90 Code, §§ 3.10.010,
+3.30.010, 07/01/1998; Ord. 837, passed, 10/26/1995; Ord. 461,
+passed, 03/20/1985; Ord. 248, passed, 08/28/1980; Ord. 89,
+passed, 12/31/1974)
+
+§ 9.020 POLICY AND PURPOSE; MERIT
+PRINCIPLES.
+
+ (A) This chapter defines county employees in
+classified service, sets forth the rights and privileges
+of those employees and those persons desirous of
+being considered for classified service, and states
+county obligations for a merit system of classified
+service.
+
+ (B) The Board established a merit system of per-
+sonnel administration as required by Charter § 7.40
+governing the appointment, tenure, promotion, trans-
+fer, layoff, separation, discipline and other incidents
+of county employment. The merit principles include:
+
+  (1) Recruiting, appointing and promoting
+employees on the basis of their relative ability,
+knowledge and skills, including open consideration
+of qualified applications for initial appointment;
+
+  (2) Retaining employees on the basis of the
+adequacy of their performance, correcting inadequate
+performance and separating employees whose inade-
+quate performance cannot be corrected;
+  (3) Assuring impartial treatment of appli-
+cants and employees in all aspects of personnel ad-
+ministration without regard to political affiliation,
+race, religion, gender identity, familial status, source
+of income, color, sex, sexual orientation, age, physi-
+cal or mental disability, marital status or national
+origin, and with proper regard for their privacy and
+constitutional rights as citizens; and
+
+  (4) Assuring that employees are protected
+against coercion for partisan political purposes and
+are prohibited from using their official authority for
+the purpose of interfering with or affecting the result
+of an election to or a nomination for office.
+(Ord. 981, Renum9.002, 05/02/2002; Ord. 955, Amended,
+12/21/2000, eff. 3/20/2001; ‘ 90 Code, § 3.10.015, 07/01/1998;
+Ord. 837, passed, 10/26/1995; Ord. 461, passed, 03/20/1985;
+Ord. 248, passed, 08/28/1980; Ord. 89, passed, 12/31/1974)
+
+§ 9.030 PERSONNEL RULES.
+
+ The personnel rules of the county may be
+adopted by Board resolution or by Chair executive
+rule.
+(Ord. 981, Renum9.003, 05/02/2002)
+
+§ 9.040 ADMINISTRATION.
+
+ The county functions imposed by this chapter
+will be performed or enforced by the Chair, who must
+adopt executive rules to implement the provisions of
+this chapter.
+(Ord. 981, Renum9.004, 05/02/2002; ‘ 90 Code, § 3.10.080,
+07/01/1998; Ord. 248, passed, 08/28/1980; Ord. 89, passed,
+12/31/1974)
+
+§ 9.050 LABOR ORGANIZING AND
+COLLECTIVE BARGAINING.
+
+ The Board recognizes the rights of county em-
+ployees to organize or refrain from organizing, and
+recognizes and affirms the principle of collective bar-
+gaining to establish wages, hours and working condi-
+tions. Nothing in this code prohibits the county and
+bargaining representative from executing fair share
+agreements.
+(Ord. 981, Renum9.006, 05/02/2002; ‘ 90 Code, § 3.10.202,
+07/01/1998; Ord. 89, passed, 12/31/1974)
+
+ County Employment 5
+  (S-1 2008)
+§ 9.060 EQUAL EMPLOYMENT
+OPPORTUNITY.
+
+ (A) Discrimination is prohibited in any employ-
+ment action on the basis of race, color, gender iden-
+tity, source of income, sex, sexual orientation, famil-
+ial status, marital status, age, religion, national origin,
+political affiliation or physical or mental  disability,
+except when it constitutes bona fide occupational
+qualification.
+
+ (B) All decisions on employment and promotion
+for classified service will be made in accordance with
+the principles of equal opportunity by utilizing job -
+related requirements for these opportunities.
+
+ (C) No question in any application or request for
+recommendation or in any test may elicit information
+concerning any subject listed in subsection (A), nor
+may any inquiry be made concerning those subjects.
+(Ord. 981, Renum9.009, 05/02/2002; Ord. 955, Amended,
+12/21/2000, 3/20/2001; ‘ 90 Code, § 3.10.270, 07/01/1998; Ord.
+248, passed, 08/28/1980; Ord. 89, passed, 12/31/1974)
+
+§ 9.070 CONFORMANCE WITH LAW.
+
+ This chapter does not substitute for or eliminate
+the need to conform to all county, state and federal
+equal employment opportunity laws and rules.
+(Ord. 981, Renum9.008, 05/02/2002; ‘ 90 Code, § 3.10.280,
+07/01/1998; Ord. 94, passed, 02/24/1975; Ord. 89, passed,
+12/31/1974)
+
+§ 9.110 CLASSIFIED SERVICE
+EXCEPTIONS.
+
+ The county classified service includes all county
+employees except the following:
+
+ (A) Elected officials and elected officials’ staff;
+
+ (B) Department directors, division heads and
+employees designated executive employees by the
+Chair;
+
+ (C) County attorney and assistant county attor-
+neys;
+ (D) Executive assistants who report directly to
+and serve at the pleasure of department directors or
+the county attorney;
+
+ (E) Deputy district attorneys;
+
+ (F) Temporary employees and those who work
+on-call or less than half time.
+(Ord. 981, Renum9.200, 05/02/2002; Ord. 938, Amended,
+02/09/2000; ‘ 90 Code, § 3.10.100, 07/01/1998; Ord. 248,
+passed, 08/28/1980; Ord. 89, passed, 12/31/1974)
+
+§ 9.120 CLASSIFIED SERVICE.
+
+ (A) The classified county service is comprised of
+all county positions that are not excepted from the
+classified service by this chapter.
+
+ (B) Unclassified county positions may be filled
+by classified employees. Except as provided in sub-
+section (C) for sworn law enforcement officers and
+correction officers, and subsection (D) for other clas-
+sified employees, classified employees so appointed
+forfeit their status as classified employees, and all re-
+lated rights. Any such employee must submit to the
+Chair a signed statement acknowledging notice of
+this provision and waiving classified status before
+unclassified appointment. The Chair will provide
+such notice, and secure the signed statement prior to
+the appointment.
+
+ (C) After termination of service in an unclassi-
+fied position, a sworn law enforcement officer or cor-
+rections officer appointed to the unclassified service
+upon request will be restored to the employee's status
+in the classified service without loss of benefits. This
+does not apply if the employee was terminated under
+circumstances that would have constituted cause for
+termination in the classified service, as determined
+by the council.
+
+ (D) After termination of service in an unclassi-
+fied position, any other classified employee ap-
+pointed to the unclassified service upon request will
+be restored to the employee's status in the classified
+service without loss of benefits under any of the fo l-
+lowing circumstances:
+
+  (1) Termination within six months from the
+time of appointment in an unclassified position, un-
+less the employee was terminated under circum
+6       Multnomah County -   County Employment
+(S-1 2016)
+stances which would have constituted cause for ter-
+mination in the classified service, as determined by
+the council;
+
+  (2) Termination due to elimination of the
+unclassified position within two years of appoint-
+ment; or
+
+  (3) Voluntary demotion from the unclassi-
+fied to the classified service with the recommenda-
+tion of the department director and approval of the
+Chair.
+(Ord. 981, Renum9.201, 05/02/2002; Ord. 938, Amended,
+02/09/2000; ‘ 90 Code, § 3.10.110, 07/01/1998; Ord. 248,
+passed, 08/28/1980; Ord. 89, passed, 12/31/1974)
+
+§ 9.130 CLASSIFICATION PLAN.
+
+ The Chair must prepare and maintain a classifi-
+cation plan that groups all positions in the classified
+service in classes based on their duties, authority
+and responsibilities. Each class of positions will
+have a class title, a statement of the duties, authority
+and responsibilities, and a statement of the required
+knowledge, skills and abilities. Each class may be
+subdivided and classes grouped and ranked.
+(Ord. 981, Renum9.205, 05/02/2002; ‘ 90 Code, § 3.10.150,
+07/01/1998; Ord. 248, passed, 08/28/1980; Ord. 89, passed,
+12/31/1974)
+
+§ 9.140 POSITIONS AND
+APPOINTMENT.
+
+ The Chair must adopt executive rules that define
+types of positions, and status of employees. They
+must set forth methods to fill positions, reduce the
+number of positions and employees, and determine
+length of probationary periods within the classified
+service. Types of positions and appointments include
+permanent, temporary, seasonal, on-call, part-time or
+limited duration. Probationary periods must be estab-
+lished to allow adequate time for employees to
+demonstrate ability to perform the work of the posi-
+tions.
+(Ord. 981, Renum9.207, 05/02/2002)
+
+§ 9.150 EXAMINATIONS.
+
+ (A) The Chair may formulate, validate and con-
+duct examinations for positions in the classified ser-
+vice. The Chair may designate certain positions in
+
+specified career fields as training or apprentice posi-
+tions from which promotion may be made to the next
+higher position without competitive examination
+upon completion of established training criteria and
+the incumbent's meeting of the minimum qualifica-
+tions.
+
+ (B) Examinations must be competitive, job -re-
+lated and of such character as to determine the quali-
+fications, competence and ability of the persons
+tested to perform the duties of the class of positions
+for which a list is to be established.
+
+ (C) Examination procedures may be modified to
+accommodate disabled persons who are regarded as
+having a physical or mental impairment that limits
+one or more major life activities.
+
+ (D) Admission to tests must be open to all per-
+sons whose applications demonstrate the required
+qualifications and may be lawfully appointed to a po-
+sition in the class for which a list is to be established.
+Qualification will be specified at the time of an-
+nouncement.
+(Ord. 981, Renum9.206, 05/02/2002; Ord. 938, Amended,
+02/09/2000; ‘ 90 Code, § 3.10.160, 07/01/1998; Ord. 248,
+passed, 08/28/1980; Ord. 89, passed, 12/31/1974)
+
+§ 9.160 COMPENSATION PLAN.
+
+ (A) The Chair must maintain a compensation
+plan. The compensation plan revisions are subject to
+approval of the Board if costs of the revision exceed
+department or county budgets, or where the revisions
+are the subject of successor negotiations with appro-
+priate bargaining agents under state law.
+
+ (B) It is county policy to establish a compensa-
+tion plan that provides pay and benefits necessary for
+the county to recruit, select, and retain qualified em-
+ployees who are not part of a bargaining unit; recog-
+nizes employee performance, growth, and develop-
+ment; maintains an appropriate internal relationship
+among classification and employees based on job re-
+sponsibilities, qualifications, and authority, and that
+maintains parity between equivalent nonrepresented
+and represented positions.
+
+ County Employment 7
+  (S-1 2016)
+ (C) The compensation plan includes the follow-
+ing benefits defined and implemented by Chair exec-
+utive rule:
+
+  (1) Paid holidays;
+  (2) Paid leaves;
+  (3) Leaves of absence without pay;
+  (4) Leave-sharing programs;
+  (5) Health and welfare benefits;
+  (6) Educational assistance programs;
+  (7) Deferred compensation programs;
+  (8) Flexible spending accounts;
+  (9) Pension programs;
+  (10) Workers’ compensation and supple-
+mental benefits;
+  (11) Other benefits to implement subsec-
+tion (B); and
+  (12) Other benefits approved by the
+Board.
+(Ord. 1234. Amended, 08/11/2016; Ord. 1105, Amended,
+01/03/2008; Ord. 1022, Amended, 12/11/2003, eff. 1/11/2004;
+Ord. 981, Renum9.202, 05/02/2002; Ord. 938, Amended,
+02/09/2000; ‘ 90 Code, § 3.10.120, 07/01/1998; Ord. 248,
+passed, 08/28/1980; Ord. 89, passed, 12/31/1974)
+
+§ 9.170 PLAN MAINTENANCE.
+
+ The Chair is responsible for developing and pre-
+senting annual compensation plan adjustment recom-
+mendations to the Board. These recommendations
+must be based on periodic surveys of comparable em-
+ployers, internal classification relationships, finan-
+cial constraints, and actual or anticipated pay adjust-
+ments for nonrepresented employees.
+(Ord. 1105, Amended, 01/03/2008; Ord. 1022, Amended,
+12/11/2003, eff. 1/11/2004; Ord. 981, Renum9.203, 05/02/2002;
+Ord. 938, Amended, 02/09/2000; ‘ 90 Code, § 3.30.025,
+07/01/1998; Ord. 855, passed, 06/13/1996; Ord. 778, passed,
+12/09/1993)
+
+§ 9.180 PERS.
+
+ Effective July 1, 1981, county employee retire-
+ment systems were integrated into the Oregon Public
+Employees’ Retirement System (PERS) in the inter-
+ests of the public health, safety and general welfare
+of Multnomah County citizens and the economic
+welfare of county employees after retirement.
+(Ord. 981, Amended, 05/02/2002; Ord. 294, Added,
+02/11/1982)
+
+§ 9.200 MERIT EVALUATIONS AND
+EMPLOYMENT CONDITIONS.
+
+ (A) The Chair may maintain a merit evaluation
+system for all employees in classified and unclassi-
+fied positions. The merit evaluation system will be
+based on standards of performance relative to an em-
+ployee's individual assignment. Merit evaluations
+may be used as the basis of evaluation for any per-
+sonnel action.
+
+ (B) The Chair may establish rules for manage-
+ment and executive employees that cover working
+conditions, administrative review of personnel ac-
+tions, recognition and reward programs, employee
+benefits and other conditions of employment, which
+may be necessary to provide an inclusive system of
+personnel administration.
+(Ord. 981, Renum9.204, 05/02/2002; Ord. 938, Amended,
+02/09/2000; ‘ 90 Code, § 3.10.130, 07/01/1998; Ord. 248,
+passed, 08/28/1980; Ord. 89, passed, 12/31/1974)
+
+§ 9.210 PERSONNEL FILES.
+
+ (A) The Chair will establish and maintain a rec-
+ords system for all county employees.
+
+ (B) All personnel files are confidential and will
+only be disclosed within the county to aid in person-
+nel administration.
+
+ (C) No data in personnel files may be disclosed
+to outside sources of inquiry except as allowed by
+law or with the consent of the employee.
+
+ (D) Each employee has the right to inspect those
+records that have been or may be used in connection
+with any personnel action with respect to that em-
+ployee at any reasonable time.
+(Ord. 981, Renum9.005, 05/02/2002; ‘ 90 Code, § 3.10.090,
+07/01/1998; Ord. 248, passed, 08/28/1980; Ord. 89, passed,
+12/31/1974)
+
+§ 9.220 POLITICAL ACTIVITY
+PROHIBITED.
+
+ (A) In addition to ORS 260.432, no county em-
+ployee or volunteer is obligated to contribute to any
+political fund or to provide any political service to
+any person or party. No person may be removed, re-
+duced in grade or salary, or otherwise prejudiced for
+refusing to do so. No county officer or employee
+8       Multnomah County -   County Employment
+(S-1 2008)
+may discharge, promote, demote or in any manner
+change the rank, employment or compensation of any
+person under the merit system or promise or threaten
+to do so, for giving, withholding or neglecting to
+make any contribution of money, or services, or any
+other valuable thing, for any political purpose. No
+county officer or employee may use official authority
+or influence to coerce the political action of any per-
+son or body, or to affect or interfere with any nomi-
+nation, appointment or election to public off ice of
+any other person. No county employee may take part
+in any political activity while on duty during working
+hours.
+
+ (B) County employees who perform duties in
+connection with an activity financed in whole or in
+part by federal loans or grants are subject to the fed-
+eral laws, rules and regulations governing political
+activity as administered by the United States Civil
+Service Commission.
+(Ord. 981, Renum9.400, 05/02/2002; ‘ 90 Code, § 3.10.500,
+07/01/1998; Ord. 89, passed, 12/31/1974)
+
+§ 9.230 POLITICAL INFLUENCE
+PROHIBITED.
+
+ (A) No county officer and no person who is nom-
+inated or seeks nomination or appointment as a
+county elected official may use, or promise to use,
+directly or indirectly, any official authority or influ-
+ence to confer upon any person, or aid any person to
+secure any county office or appointment, promo tion
+or increase of salary in exchange for any political
+support, influence or action on behalf of any candi-
+date, officer, political party or association or any
+other corrupt condition or consideration.
+
+ (B) No county elected official, county employee
+or person having or claiming to have authority to in-
+fluence public employment, promotion, removal or
+increase or decrease of salary of any public officer or
+employee, shall corruptly use, or promise or threaten
+to use, any such authority or influence, directly or in-
+directly, to coerce or persuade any action or the re-
+moval, discharge or promotion of any county em-
+ployee, or upon any corrupt consideration.
+(Ord. 981, Renum9.401, 05/02/2002; ‘ 90 Code, § 3.10.510,
+07/01/1998; Ord. 89, passed, 12/31/1974)
+
+§ 9.240 PROHIBITED MERIT SYSTEM
+CONDUCT.
+
+ No person shall:
+
+ (A) Alone or in cooperation with others, defeat,
+deceive or obstruct any person about their rights un-
+der this chapter.
+
+ (B) Falsely mark, grade, estimate or report under
+the examination or proper standing of any person ex-
+amined, registered or certified under this chapter or
+aid in so doing, or make any false representation con-
+cerning the same, or concerning the person exam-
+ined.
+
+ (C) Furnish to any person any special or secret
+information for the purpose of either improving or in-
+juring the prospects or chances of any person so ex-
+amined, registered or certified or to be examined, reg-
+istered or certified.
+
+ (D) Impersonate any other person, or permit or
+aid in any manner any other person to impersonate
+him, in connection with any examination or registra-
+tions, or application or request to be examined or reg-
+istered.
+(Ord. 981, Renum9.402, 05/02/2002; ‘ 90 Code, § 3.10.520,
+07/01/1998; Ord. 89, passed, 12/31/1974)
+
+§ 9.250 DISCIPLINARY ACTION.
+
+ Classified employees are subject to good faith
+disciplinary action for cause by suspension, written
+reprimand, demotion, and reduction in pay or dismis-
+sal. Such action may take effect only after the Direc-
+tor gives written notice of the action and its caus e to
+the employee and the bargaining agent, if any.  Writ-
+ten notice is not required when the disciplinary action
+is a written reprimand.
+(Ord. 981, Renum9.403, 05/02/2002; Ord. 938, Amended,
+02/09/2000; ‘ 90 Code, § 3.10.300, 07/01/1998; Ord. 248,
+passed, 08/28/1980; Ord. 89, passed, 12/31/1974)
+
+§ 9.260 APPEALS FROM PERSONNEL
+ACTIONS.
+
+ Classified service employees have a right of ap-
+peal to the Merit System Civil Service Council.
+
+ County Employment 9
+  (S-1 2026)
+ (A) Any regular management employee who is
+reduced in pay, demoted, suspended or dismissed and
+who does not have an appeal procedure for the par-
+ticular issue in dispute has the right to appeal the ac-
+tion to the council.
+
+ (B) Represented employees who do not have
+available a grievance procedure for a particular issue
+in dispute have the right to appeal to the council re-
+garding personnel actions.
+(Ord. 1108, Amended, 01/31/2008; Ord. 981, Renum9.007,
+05/02/2002; Ord. 938, Amended, 02/09/2000; ‘ 90 Code, §§
+3.10.025, 3.10.300, 3.10.305, 07/01/1998; Ord. 837, passed,
+10/26/1995; Ord. 461, passed, 03/20/1985; Ord. 248, passed,
+08/28/1980; Ord. 89, passed, 12/31/1974)
+
+§ 9.280 CONTRACT REGULATION.
+
+(A) The County may not enter into a direct con-
+tractual relationship with any elected Board mem-
+ber, employee, or volunteer that influenced the au-
+thorization of the contract during the person’s
+County service, or within one year after County ser-
+vice ends.
+
+(B) Any contract entered into in violation of this
+provision is void, unless an exception is granted un-
+der subsection 3.
+
+(C) The Chair, or designee, may grant an excep-
+tion to this prohibition upon making written findings
+that the best interests of the County favors entering
+the contract or that the elected Board member, em-
+ployee, or volunteer’s influence was minimal.  The
+granting of any such exception will be publicly
+posted.
+(Ord. 1336, Add, 07/01/2026)
+
+MERIT SYSTEM CIVIL SERVICE COUNCIL
+
+§ 9.310 MEMBERSHIP.
+
+ (A) The Civil Service Commission established
+by Charter consists of a Board of three members
+known as the Merit System Civil Service Council.
+Appointments to the council will be made by the
+Board according to the provisions of the Charter. A
+person appointed to fill a vacancy occurring prior to
+the expiration of the term of any member will be ap-
+pointed for the remainder of that term.
+
+ (B) No member of the council may hold any
+other public or official position with the county gov-
+ernment.
+ (C) No member of the council may receive com-
+pensation for services rendered.
+
+ (D)  A member of the council may be re-
+moved from office by the Board for incompetency,
+dereliction of duty or other good cause after being
+given a copy of the charges and an opportunity to be
+heard publicly on the charges before the Board.
+
+ (E)  The Board will provide the council with suf-
+ficient staff, office space, supplies and equipment in
+accordance with county budget practices.
+(Ord. 981, Renum9.100-, 05/02/2002; ‘ 90 Code, § 3.10.030,
+07/01/1998; Ord. 89, passed, 12/31/1974)
+
+§ 9.320 OFFICERS; MEETINGS.
+
+ The council will elect one of its members presid-
+ing officer. It will meet at such times and places as
+are specified by call of the presiding officer or any
+two members of the council. Two members of the
+council constitute a quorum, and the votes of any two
+members concurring are sufficient to make a deci-
+sion.
+(Ord. 981, Renum9.101, 05/02/2002; ‘ 90 Code, § 3.10.030,
+07/01/1998; Ord. 89, passed, 12/31/1974)
+
+§ 9.330 DUTIES.
+
+ The council performs the following duties:
+
+ (A) Designate one of its staff as its executive sec-
+retary and delegate to that person necessary adminis-
+trative duties;
+
+ (B) Adopt rules and hold hearings as are neces-
+sary to perform the duties and responsibilities vested
+in it by Charter §§ 7.20 and 7.30 and this chapter;
+
+ (C) Submit periodic reports to the Board regard-
+ing the activities of the council and the application of
+merit principles in county personnel management;
+
+ (D) Review and comment on personnel rules or
+revisions, other than those referred to in subsection
+(B), submitted to it by the Chair;
+
+ (E) Conduct hearings on appeals from classified
+employees for personnel actions as provided in
+9.260; and
+10       Multnomah County -   County Employment
+(S-1 2026)
+ (F) Make investigations and issue reports to the
+Board concerning compliance with, enforcement and
+effect of the provisions of this chapter, Charter §
+7.40, and the rules adopted under these provisions.
+The council may inspect all county institutions, de-
+partments, offices and positions as necessary. An in-
+vestigation may be made by the council or by any
+member designated by the council for that purpose.
+(Ord. 981, Renum9.102, 05/02/2002; ‘ 90 Code, § 3.10.030,
+07/01/1998; Ord. 248, passed, 08/28/1980; Ord. 89, passed,
+12/31/1974)
+
+§ 9.340 WITNESSES AND EVIDENCE;
+POWERS OF THE COUNCIL.
+
+ (A) In the course of an investigation or hearing,
+the council, or any member, may administer oaths,
+require the attendance of witnesses and the produc-
+tion of books, papers, documents and accounts apper-
+taining to the investigation.
+
+ (B) The circuit court may compel the attendance
+of witnesses, the giving of testimony and the produc-
+tion of books, papers, accounts and documents as re-
+quired by a subpoena duly issued by the council or
+designated member under this section, and may pun-
+ish the disobedience of those witnesses as a con-
+tempt.
+
+ (C) The council may take the deposition of wit-
+nesses residing within the state in the manner pre-
+scribed by state law for deposition in administrative
+hearing procedures. The council may require the at-
+tendance of witnesses and the production of books,
+papers, documents and accounts.
+
+ (D) Any person whose attendance is required be-
+fore the council or any member of the council is en-
+titled to the same fees and mileage as are allowed by
+law to witnesses in civil cases, except that no person
+is entitled to any fees or mileage for attendance who
+is employed by the county. The fees and mileage al-
+lowed by this section need not be prepaid but will be
+paid upon certification by the executive secretary.
+(Ord. 981, Renum9.103, 05/02/2002; ‘ 90 Code, § 3.10.050,
+07/01/1998; Ord. 89, passed, 12/31/1974)
+
+§ 9.350 HEARINGS OFFICER.
+
+ The council may designate a person to preside at
+any hearing. If a person is designated to preside at
+any disciplinary hearing then all county personnel
+rules regarding the powers and authority of the coun-
+cil apply to that person.
+(Ord. 981, Renum9.104, 05/02/2002; ‘ 90 Code, § 3.10.060,
+07/01/1998; Ord. 130, passed, 09/02/1976)
+
+§ 9.360 LEGAL ADVISOR.
+
+ The county attorney is the legal advisor of the
+council and may prosecute violations of this chapter.
+(Ord. 981, Renum9.105, 05/02/2002; ‘ 90 Code, § 3.10.070,
+07/01/1998; Ord. 89, passed, 12/31/1974)
+
+RETIREE MEDICAL BENEFITS.
+
+§ 9.510 POLICY.
+
+ Effective March 14, 1982, the Board extended
+health insurance benefits to eligible county employ-
+ees after retirement in the interests of the public
+health, safety and general welfare of Multnomah
+County citizens and the economic welfare of county
+employees after retirement.
+(Ord. 981, Amended, 05/02/2002; Ord. 877, Amended,
+04/03/1997; Ord. 741, Amended, 12/03/1992; Ord. 631,
+Amended, 11/30/1989; Ord. 629, Amended, 11/21/1989; Ord.
+295, Added, 02/11/1982)
+
+§ 9.520 MEDICAL INSURANCE.
+
+ (A) “Retiree” means a person who retired from
+the county service on or after March 14, 1982, and at
+the time of retirement occupied a position covered by
+the employee compensation plan.
+
+ (B) Only employees who hold regular status in a
+management or executive classification immediately
+preceding retirement are eligible for medical insur-
+ance coverage under §§9.520 and 9.530 if otherwise
+qualified.
+
+ (C) Retirees may continue to participate in a
+county medical plan.  Coverage of eligible depend-
+ents terminates when coverage of the retiree termi-
+nates, except as otherwise required by applicable
+state or federal law.
+
+ (D) Retirees are permitted to choose between the
+same plans under the same conditions as executive
+and management employees.  Retirees are subject to
+any change or elimination of benefits, carrier, admin-
+istrator or administrative procedures to the same ex-
+tent and at the same time as executive and manage-
+ment employees.
+
+ County Employment 11
+  (S-1 2026)
+ (E) Retirees are responsible for promptly notify-
+ing the Chair, in writing, of any changes in the re-
+tiree’s current address and of any changes in retiree
+or dependent eligibility for coverage.
+(Ord. 981, Add, 05/02/2002)
+
+§ 9.530 TERMS.
+
+ The following terms apply:
+
+ (A) The county will pay one-half of the monthly
+medical insurance premium on behalf of a retiree and
+eligible dependents from the retiree’s 58th birthday
+or date of retirement, whichever is later, until the re-
+tiree’s 65th birthday, death, or eligibility f or Medi-
+care, whichever is earlier, if the retiree had:
+
+  (1) Five years of continuous county service
+immediately preceding retirement at or after age 58
+years, or
+
+  (2) Ten years of continuous county service
+immediately preceding retirement prior to age 58
+years, or
+
+  (3) Ten years of continuous county service
+immediately preceding retirement in the event of dis-
+ability retirement.
+
+ (B) The county will pay one-half of the monthly
+medical insurance premium on behalf of a retiree and
+eligible dependents from the retiree’s 55th birthday
+or date of retirement, whichever is later, until the re-
+tiree’s 65th birthday, death or eligibility fo r Medi-
+care, whichever is earlier, if the retiree had 30 years
+of continuous service with employers who are mem-
+bers of the Oregon Public Employee Retirement Sys-
+tem and 20 or more years of continuous county ser-
+vice immediately preceding retirement.
+
+ (C) Employees employed on or before July 1,
+1992, who are eligible for PERS regular retirement
+with 30 years of PERS service and 20 years of county
+service are eligible for county payment of one -half
+the medial premium without waiting until age 55.
+
+ (D) Actual application for Medicare is not re-
+quired for a finding that a retiree is “eligible for Med-
+icare” under subsection (A).
+
+ (E) Part-time service in a regular budgeted posi-
+tion will be prorated for purposes of the service re-
+quirements under subsection (A).
+ (F) In addition to the other requirements of this
+section, continued medical plan participation or ben-
+efit of county contributions is conditioned on the re-
+tiree’s continuous participation in a county medical
+insurance plan from the time of retirement, and upon
+the retiree’s timely payment of the applicable retiree
+portion (i.e., 50% or 100%, as applicable) of the
+monthly premium.  Failure to continuously partici-
+pate or make timely and sufficient payment of the re-
+tiree portion of the monthly premium termina tes the
+retiree’s rights under this section.
+
+ (G) Payments by retirees of their portion of the
+monthly premiums is timely if the retiree has directed
+their financial institution to regularly deduct the
+monthly premium from their account and remit the
+proceeds to the county, or if it is received by th e
+county by the 20th day of the month prior to the month
+for which the resulting coverage will apply.  The
+Chair must inform the retiree where to send the
+monthly payments, the identity and address of the
+county’s collection agent and must thereafter give the
+retiree at least 45 days notice of any change.
+
+ (H) If county medical insurance premium pay-
+ments on behalf of retirees or their dependents are
+made subject to state or federal taxation, any addi-
+tional costs to the county must be directly offset
+against such payments required under this section.
+(Ord. 981, Add, 05/02/2002)
+
+§ 9.540 ACCOUNT.
+
+ (A) Establishment.  There is a General Em-
+ployee Retiree Insurance Account in the county’s
+general ledger (Account).
+
+ (B) Budget Charges.
+
+  (1) The budgets of county departments are
+charged amounts determined by actuarial study to
+reasonably approximate the level percentage of
+straight time pay of covered employees necessary, in
+combination with the contributions of all depart-
+ments and interest earned on those amounts, to fund
+authorized retiree medical insurance premium pay-
+ments on behalf of eligible employees.
+12       Multnomah County -   County Employment
+(S-2 2007)
+  (2) Charges to department budgets under
+subsection (1) are based on the straight -time wages
+for employees covered by a collective bargaining
+agreement or code section that authorizes county -
+paid medical insurance premiums on their behalf fol-
+lowing retirement.
+
+ (C) Sources of Funds. County contributions, re-
+tiree contributions and the return on investment
+thereof will be placed in the Account.  No contribu-
+tion by an employee may be placed in the Account.
+(Ord. 981, Add, 05/02/2002)
+
+§ 9.550 ACTUARIAL STUDIES.
+
+ The Chair will conduct actuarial studies to deter-
+mine the adequacy of the contribution rate to fund au-
+thorized retiree medical insurance premium pay-
+ments on behalf of eligible retirees. The Chair will
+develop and report to the Board recommendations
+concerning adjustments to the contribution rate,
+based on the results of the actuarial studies.
+(Ord. 981, Add, 05/02/2002)
+
+§ 9.560 EXPENDITURES FOR
+MANAGING THE ACCOUNT.
+
+ Expenses of managing the Account including
+charges for retiree medical insurance premiums and
+costs of actuarial studies are payable from the Ac-
+count.
+(Ord. 981, Add, 05/02/2002)
+
+§ 9.570 LOSS OF TAX PREFERRED
+STATUS.
+
+ If the state or federal governments substantially
+alter the tax preferred status of employee premiums
+paid on behalf of retirees, the Chair must promptly
+conduct a study of tax preferred or tax sheltered al-
+ternatives for providing retiree insurance or substi-
+tute benefits, and report to the Board with recommen-
+dations.
+(Ord. 981, Add, 05/02/2002)
+
+CHARITABLE SOLICITATION
+
+§ 9.605 FINDINGS AND PURPOSE.
+
+ (A) The county has no formal policy regarding
+employee contributions to funds or federations
+through payroll deductions.
+
+ (B) The Board supports charitable giving by
+county employees and believes providing employees
+meaningful choices among charitable groups will in-
+crease overall giving and employee satisfaction in the
+program.
+
+ (C) The Board finds that this subchapter is nec-
+essary to assure that funds are solicited from county
+employees by qualified funds or federations, to min-
+imize workplace disruption and the administrative
+costs of charitable solicitation in the workplace, an d
+to expand the range of choices for county employees
+who wish to contribute to charities.
+(Ord. 981, Renum9.300-, 05/02/2002; ‘ 90 Code, § 3.11.005,
+07/01/1998; Ord. 634, passed, 12/28/1989)
+
+§ 9.610 DEFINITIONS.
+
+ For the purpose of this subchapter, the following
+definitions shall apply unless the context requires a
+different meaning.
+
+ CHARITABLE ORGANIZATION. Any entity
+described in Internal Revenue Code section 501(c)(3)
+(26 USC § 501(c)(3)) and exempt from federal in-
+come tax under Internal Revenue Code section
+501(a) (26 USC § 501(a)).
+
+ DIRECT DESIGNATION. The fund or federa-
+tion permits the donor to designate a specific pro-
+gram, agency or other entity within the fund or fed-
+eration to receive the donation, rather than requiring
+that the donation be distributed among programs,
+agencies or other entities accor ding to a schedule or
+formula determined by the fund or federation.
+
+ DONOR OPTION. The fund or federation per-
+mits the donor to designate a donation to a specific
+charitable organization not a fund or federation or
+any part of any fund or federation in the campaign.
+
+ County Employment 13
+  (S-2 2007)
+ FUND or FEDERATION. An entity serving as
+the agent of a group of member charitable organiza-
+tions to which it disburses funds, or an entity that
+grants funds to charitable organizations.
+(Ord. 981, Renum9.301, 05/02/2002; ‘ 90 Code, § 3.11.010,
+07/01/1998; Ord. 634, passed, 12/28/1989)
+
+§ 9.615 COMPLIANCE REQUIRED.
+
+ Charitable solicitations of county employees
+while on the job during working hours may be con-
+ducted only in compliance with this subchapter. Only
+funds or federations certified under this subchapter
+are allowed to solicit contributions by county em-
+ployees during the annual campaign.
+(Ord. 981, Renum9.302, 05/02/2002; ‘ 90 Code, § 3.11.015,
+07/01/1998; Ord. 634, passed, 12/28/1989)
+
+§ 9.620 CAMPAIGN MANAGEMENT
+COUNCIL ESTABLISHED.
+
+ (A) A Campaign Management Council (Council)
+is established. Members of the Council must be per-
+manent County employees. The Council consists of
+one representative from each of the following areas:
+
+  (1) Non-Departmental;
+
+  (2) Each County department (the representa-
+tive from County Management will be from Finance,
+and at least one department representative must be a
+union member);
+
+  (3) The Sheriff's office; and
+
+  (4) The District Attorney’s office.
+
+ (B) The Council will select a chair.
+
+ (C) In addition to the voting members, each fund
+or federation certified under this subchapter may
+have a nonvoting representative on the Council, and
+the Board will appoint a liaison.
+(Ord. 1061, Amended, 05/26/2005, eff. 7/1/2005; Ord. 983,
+Amended, 06/20/2002; Ord. 981, Renum9.303, 05/02/2002; ‘
+90 Code, § 3.11.020, 07/01/1998; Ord. 854, passed, 05/23/1996;
+Ord. 718, passed, 04/09/1992; Ord. 634, passed, 12/28/1989)
+
+§ 9.625 CAMPAIGN MANAGEMENT
+COUNCIL RESPONSIBILITIES.
+
+ The council has the following responsibilities:
+
+ (A) Approve the format and distribution of cam-
+paign literature and communications. Each partici-
+pating fund or federation must supply its campaign
+material to the council as required by council rules;
+
+ (B) Regulate the annual campaign so as to max-
+imize employee contributions in a voluntary atmos-
+phere;
+
+ (C) Establish written guidelines for the time,
+place, and manner of the campaign, consistent with
+the purposes of this subchapter. The council may
+waive or adjust its guidelines in particular cases
+where strict application of the guidelines would be
+unjust, so long as the purposes of this subchapter are
+not violated.
+(Ord. 981, Renum9.304, 05/02/2002; ‘ 90 Code, § 3.11.025,
+07/01/1998; Ord. 634, passed, 12/28/1989)
+
+§ 9.630 CERTIFICATION CRITERIA.
+
+ (A) The Council will certify funds or federations
+for the purpose of conducting a fund drive among
+County employees. The Council will certify only
+those funds or federations, which meet all the follow-
+ing criteria:
+
+  (1) The fund or federation is qualified as ex-
+empt under section 501(c)(3) of the Internal Revenue
+Code;
+
+  (2) The fund or federation disburses funds to
+at least ten charitable organizations that are qualified
+as exempt under section 501(c)(3) of the Internal
+Revenue Code;
+
+  (3) A fund or federation with an interna-
+tional, national, or regional focus must assign a local
+representative to be available as needed to meet the
+requirements of this subchapter and the Council's
+guidelines;
+
+14 Multnomah County – County Employment
+
+(S-2 2007)
+
+  (4) The fund or federation has a written pol-
+icy of nondiscrimination regarding race, religion,
+color, sex, marital status, familial status, national
+origin, age, mental or physical disability, sexual ori-
+entation, gender identity and source of income. This
+policy must be applicable to the staff and board of
+directors of the fund or federation.  The Fund or Fed-
+eration must also verify in writing that all its member
+agencies do not discriminate on the basis of race, re-
+ligion, color, sex, marital status, familial status, na-
+tional origin, age, mental or physical disability, sex-
+ual orientation, gender identity and source of income.
+
+  (5) The fund or federation has made the fil-
+ings required by the Charitable Trust and Corporation
+Act and the Oregon Charitable Solicitation Act and
+has not been found to be guilty of a violation of either
+act by a court of competent jurisdiction during the 12
+months preceding its application for certification;
+
+  (6) The fund or federation has an unpaid
+board of directors;
+
+  (7) The fund or federation has been incorpo-
+rated no less than one year prior to the date of appli-
+cation for certification as a fund or federation;
+
+  (8) The fund or federation demonstrates that
+it has filed IRS Form 990, its most recent audit (if
+revenue exceeds $100,000) and CT12 return as re-
+quired by state law and provides copies upon request
+by the Council;
+
+  (9) The fund or federation provides a direct
+designation to County employees. This does not limit
+the ability of a fund or federation to offer a donor op-
+tion program;
+
+  (10) If certified by the County in a prior
+year, the fund or federation has paid the required
+share of costs for published materials as required un-
+der §9.650.
+
+ (B) The selection committee consists of the vot-
+ing members of the Council. It must review proposals
+every two years and select organizations that provide
+County employees with the best choices within the
+areas of health, human welfare services, conserva-
+tion, community development, cultural enrichment,
+and international support.
+
+ (C) Certification of a fund or federation by the
+Council is valid for two years. During certification,
+the fund or federation must respond to reasonable re-
+quests by the Council for assurance that all require-
+ments for certification have been and are being met.
+Failure to respond is grounds for decertification.
+(Ord. 1237, Amended, 10/06/2016; Ord. 1016, Amended,
+08/28/2003, applies to cert. period beginning 1/1/2004; Ord.
+995, Amended, 10/03/2002, applies to cert. period beginning
+1/1/2004; Ord. 983, Amended, 06/20/2002, applies to cert. pe-
+riod beginning 1/1/2004; Ord. 981, Renum9.305, 05/02/2002; ‘
+90 Code, § 3.11.030, 07/01/1998; Ord. 854, passed, 05/23/1996;
+Ord. 718, passed, 04/09/1992; Ord. 634, passed, 12/28/1989)
+
+§ 9.635 DECERTIFICATION.
+
+ (A) The Council may decertify any certified fund
+or federation that:
+
+  (1) Fails to substantially comply with the
+campaign guidelines established by the Council; or
+  (2) Includes intentionally false or mislead-
+ing information on a certification application.
+
+ (B) A notice of decertification must be in writing
+and must advise the recipient of the right of appeal
+under this subchapter.
+
+ (C) Any fund or federation that is decertified
+may not participate in the charitable solicitation pro-
+gram for the two campaign years following decertifi-
+cation. However, employee donations will continue
+to be distributed to the decertified fund or federation
+until the end of the campaign year in which the final
+order of decertification is issued.
+(Ord. 981, Renum9.306, 05/02/2002; ‘ 90 Code, § 3.11.035,
+07/01/1998; Ord. 634, passed, 12/28/1989)
+
+ County Employment 15
+  (S-2 2007)
+§ 9.640 INELIGIBILITY.
+
+ Any certified fund or federation that does not re-
+ceive donations from at least 25 county employees
+during the campaign in any year following its first
+year of certification, is ineligible for the annual fund-
+raising campaign for the next year. Following th e
+year of ineligibility, the fund or federation may reap-
+ply for certification.
+(Ord. 981, Renum9.307, 05/02/2002; ‘ 90 Code, § 3.11.040,
+07/01/1998; Ord. 634, passed, 12/28/1989)
+
+§ 9.645 APPLICATION AND APPEAL
+PROCEDURE.
+
+ (A) An application for certification must be sub-
+mitted as required by Council guidelines. The appli-
+cation must be on forms provided by the council. The
+council shall advise each applicant in writing of
+whether the application is accepted or denied.
+
+ (B) In the event an application is denied or a fund
+or federation is decertified, the council will state the
+reasons for the action in writing and advise the appli-
+cant of the right of appeal to the Board.
+
+ (C) An appeal must be filed with the clerk of the
+Board on or before the tenth day after notice of the
+action is mailed by the Council. If a timely appeal is
+filed, the matter will be promptly scheduled on a
+Board agenda. Notice of the hearing will be mai led
+to the appealing party no fewer than five days before
+the hearing. At the hearing a representative of the
+Council will advise the Board of the reasons for the
+action, and the appellant will be heard in response.
+The Board will make its decision at the conclusion of
+the hearing or at a continuation of the hearing. The
+Board order will be in writing and will state the rea-
+sons for the action.
+(Ord. 981, Renum9.308, 05/02/2002; ‘ 90 Code, § 3.11.045,
+07/01/1998; Ord. 634, passed, 12/28/1989)
+
+§ 9.650 COSTS PAID BY CERTIFIED
+ORGANIZATIONS.
+
+ The Council will require payment for the total
+costs for the design and printing of any combined
+brochure, payroll deduction form, and related
+documents by certified funds or federations in pro-
+portion to the amount of funds raised from the cam-
+paign.
+(Ord. 981, Renum9.309, 05/02/2002; ‘ 90 Code, § 3.11.050,
+07/01/1998; Ord. 634, passed, 12/28/1989)
+
+§ 9.655 PAYROLL DEDUCTION
+SYSTEM.
+
+ (A) The county's payroll deduction system may
+be used to distribute charitable contributions only to
+funds or federations certified under this subchapter.
+Undesignated contributions will not be accepted.
+
+ (B) If the county payroll system must be ex-
+panded or modified to accommodate the funds or fed-
+erations certified, the Board may impose a fee on all
+certified funds or federations to pay the costs of the
+expansion or modification. Any such fee requirement
+may be adopted by Board resolution.
+(Ord. 981, Renum9.310, 05/02/2002; ‘ 90 Code, § 3.11.055,
+07/01/1998; Ord. 634, passed, 12/28/1989)
+
+§ 9.660 EFFECT OF BOARD
+APPROVAL.
+
+ Approval by the Board of an umbrella organiza-
+tion's application under this subchapter does not con-
+stitute an endorsement by the County of the umbrella
+organization or any charitable organization repre-
+sented by an applicant. No charitable organization or
+umbrella organization may repr esent that such ap-
+proval is an endorsement by the County.
+(Ord. 983, Added, 06/20/2002, applies to cert. period beginning
+1/1/2004)
+
+16 Multnomah County – County Employment
+
+(S-2 2007)

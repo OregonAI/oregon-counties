@@ -1,0 +1,976 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2000-033
+title: 'Ordinance No. 2000-033'
+doc_type: ordinance
+citation: 'Ordinance No. 2000-033'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616804585_2000-1034-Ordinance%20No.%202000-033%20Recorded%2012_13_2000.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 37f82370c7f9e8a852a46bb5c42cdf98f51032a609c96a6537a02109255e7b87
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2000-033 (Ordinance No. 2000-033)
+
+## At a glance
+
+Ordinance No. 2000-033 — orders of Deschutes County. 18 pages.
+
+## Full text
+
+VOL: CJ2000 PAGE: 1034
+RECORDED DOCUMENT
+STATE OF OREGON
+COUNTY OF DESCHUTES
+CJ2000- 1034 * Vol - Page Printed: 12/ 13/ 2000 15: 35: 14
+DO NOT REMOVE THIS CERTIFICATE
+This certificate constitutes a part of the original instrument in accordance with
+ORS 205. 180( 2). Removal of this certificate may invalidate this certificate and affect
+theadmissibilityof theoriginal instrumentinto evidencein anylegalproceeding.)
+I hereby certify that the attached instrument was received
+and duly recorded in Deschutes County records:
+DATE AND TIME:
+DOCUMENT TYPE:
+Dec. 13, 2000; 1:07 p.m.
+Ordinance ( CJ)
+NUMBER OF PAGES: 17
+MARY SUE PENHOLLOW Kms, Nc D
+DESCHUTES COUNTY CLERK
+DE 1 S 2000
+REVIEWED A O FORM
+Code Ra - i Committee
+00 ULid 93 Pill I, 07
+1r ' f 1.. i (_ 1. 1_CW
+00UNTY CLUNK
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES C
+An Ordinance Amending Title 18, Deschutes,
+County Zoning Ordinance, of the Deschutes
+CountyCode, andDeclaringanEmergency.
+ORDINANCE NO. 2000- 033
+lb' 7 1
+OREGON
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. AMENDMENT. Section 18. 36. 030, Conditional uses permitted, of the
+DeschutesCounty Code, is amendedto readas describedin Exhibit " A," attached .hereto and by this
+reference incorporated herein, with new languageunderlined and languageto be deleted in s4ikethreugh.
+Section 2. AMENDMENT. Section 18. 40. 030, Conditional uses permitted, of the
+Deschutes County Code, is amended to read as described in Exhibit ` B," attached hereto and by this
+reference incorporated herein, with new language underlined and language to be deleted in stfilEe1ltrettgh.
+Section 3. AMENDMENT. Section18.84.090, Setbacks, of theDeschutesCountyCode, is
+amended to read as described in Exhibit " C," attached hereto and by this reference incorporated herein,
+with new language underlined and language to be deleted in stFikethreugh.
+Section 4. ADDING. Chapter 18.84, Landscape Management Combining Zone, of the
+Deschutes County Code, is amendedby the addition of a new section to read as described in Exhibit " D,"
+attachedheretoandby this referenceincorporatedherein, with newlanguageunderlined.
+Section 5. AMENDMENT. Section18.96.020, Designatedareas, of the DeschutesCounty
+Code, is amended to read as described in Exhibit " E," attached hereto and by this reference incorporated
+herein, with new language underlined and language to be deleted in stfiketltrftgh.
+Section 6. AMENDMENT. Section 18. 96. 080, Criteria to evaluate conditional uses, of the
+Deschutes County Code, is amended to read as described in Exhibit " F," attached hereto and by this
+reference incorporated herein, with new language underlined and language to be deleted in stFiketlr- eugh.
+Section 7. AMENDMENT. Section 18. 116. 050, Manufactured homes, of the Deschutes
+County Code, is amended to read as described in Exhibit " G," attached hereto and by this reference
+incorporated herein, with new language underlined and language to be deleted in st+ikethr-eugh.
+Page 1of 2 - ORDINANCE NO. 2000- 033 ( 12/06/00)
+Section 8. AMENDMENT. Section 18. 116. 070, Placement standards for manufactured
+homes, of the Deschutes County Code, is amended to read as described in Exhibit " H," attached hereto
+and by this reference incorporated herein, with new language underlined and languageto be deleted in
+s1FilEethF8Ugk.
+Section 9. ADDING. Section 18.128.040, Specific use standards, of the Deschutes County
+Code, is amended to add a new subsection as described in Exhibit " I," attached hereto and by this
+reference incorporated herein, with new language underlined.
+Section 10. REPEAL. Section 18.128.080, Time-share unit, of the Deschutes County Code,
+as described in Exhibit " J," attachedheretoandby this referenceincorporatedherein, is herebyrepealed,
+with language to be deleted in stFikethmugb.
+Section H. AMENDMENT. Section 18. 67. 030, Residetnial- S acre minimum ( TuRS)
+District, of the DeschutesCountyCode, is amendedto readasdescribedin Exhibit "K," attached hereto
+andby this referenceincorporatedherein, with new languageunderlinedand languageto be deletedin
+stfikethFOU&.
+Section 12. EMERGENCY. This Ordinancebeingnecessaryfor theimmediatepreservation
+of the public peace, healthandsafety, anemergencyis declaredto exist, andthis Ordinancetakeseffect
+on its passage.
+DATED this Z—day of December, 2000.
+BOARD OF COUNTY COMMISSIONERS OF
+DESCHU,, YES COUNTY, O N
+coda L. Swearinge , it
+ATTEST: Dennis R. Luke, Commissioner
+Recording Secretary Tom DeWolf, Commissioner
+Page 1 of 2 - ORDINANCE NO. 2000- 033 ( 12/ 06/ 00)
+EXHIBIT " A"
+18. 36. 030. Conditional uses permitted.
+The following usesandtheir accessoryuses
+may be allowed in the Forest Use Zone,
+subject to applicable provisions of the
+Comprehensive Plan, section 18.36.040 of
+this title and other applicable sections of this
+title.
+A. Private hunting and fishing operations
+withoutanylodgingaccommodations.
+B. Caretaker residences for public parks and
+fish hatcheries.
+C. Temporaryforestlaborcampslimited to
+the duration of the forest operation
+requiring its use.
+D. Exploration for and production of
+geothermal, gas, oil and other associated
+hydrocarbons, including the placement
+and operation of compressors, separators
+and other customary production
+equipment for an individual well adjacent
+to the well head.
+E. Log scaling andweigh stations.
+F. Disposal site for solid waste for which
+the Department of Environmental Quality
+has granted a permit under Oregon
+Revised Statutes 459. 245, together with
+equipment, facilities or buildings
+necessaryfor its operation.
+G. Parks and campgrounds. For the purpose
+of this section a campground is an area
+devotedto overnight temporaryuse for
+vacation, recreational or emergency
+purposes, but not for residential purposes.
+A campingsite may be occupiedby a
+tent, travel trailer or recreational vehicle.
+Campgrounds shall not include
+intensively developedrecreationaluses
+such as swimming pools, tennis courts,
+retail stores or gas stations.
+H. Mining and processing of oil, gas or
+other subsurface resources, as defined in
+Oregon Revised Statutes chapter
+520. 005, and not otherwise permitted
+under subsection ( D) of this section.
+1. Television, microwave and radio
+communication facilities and
+transmission towers.
+J. Fire stations for rural fire protection.
+K. Utility facilities for the purpose of
+generating power. A power generation
+facility shall not preclude more than 10
+acres from use as a commercial forest
+operation unless an exception is taken
+pursuant to Oregon Administrative Rules
+660, Division 4.
+L. Aids to navigation and aviation.
+M. Water intake facilities, related treatment
+facilities, pumping stations and
+distribution lines.
+N. Reservoirs and water impoundments.
+O. Cemeteries.
+P. New electric transmission lines with
+right-of-way widths of up to 100 feet as
+specified in Oregon Revised Statutes
+772. 210. New distribution lines (e.g.
+electrical, gas, oil, geothermal) with
+rights of way 50 feet or lessin width.
+Q. Temporary asphalt and concrete batch
+plants as accessory uses to specific
+highway projects.
+R. Home occupations as defined in section
+18. 04. 575 and subject to section
+18. 128. 040( G) of this title.
+S. Expansion of existing airports.
+T. Public road and highway projects as
+described as Oregon Revised Statutes
+215.283(2xp) through ( r) and
+215. 283( 3).
+U. Private accommodations for fishing
+occupied on a temporary basissubject to
+other applicable sections of this title and
+thefollowing requirements:
+1. Accommodations are limited to no
+more than 15 guest rooms as that
+term is defined in the Oregon
+Structural Specialty Code;
+2. Only minor incidental and accessory
+retail sales are permitted;
+Page 1 of 2 - EXHIBIT " A" TO ORDINANCE NO. 2000- 033 ( 12/06/00)
+3. Accommodations are occupied
+temporarily for the purpose of
+fishing during fishing seasons
+authorized by the Oregon Fish and
+Wildlife Commission; and
+4. Accommodations must be located
+within one- quarter mile of
+fish -bearing Class I waters asdefined
+in Oregon Administrative Rules
+629- 24- 101( 7).
+V. Forest management research and
+experimentation facilities as defined by
+Oregon Revised Statutes 526. 215 or
+where accessoryto forest operations.
+W. Excavation, gradingandfill andremoval
+within the bed and banks of a stream or
+river or in a wetland, subject to sections
+18. 120. 050 and 18. 128. 040( W) of this
+title.
+X. A manufactured home in conjunction
+with an existing dwelling as a temporary
+use for the tette of a hardshipsuffered by
+the existing resident or a relative as
+defined in Oregon Revised Statutes
+215. 283. The use shall be subject to the
+review criteria in section 18. 116. 090 of
+this title, as well as sections 18.36. 040
+and 18.36. 060 of this chapter. The
+manufactured home shall use the same
+subsurface sewage disposal system used
+by the existing dwellings if that disposal
+system is adequate to accommodate the
+additional dwelling.
+Y. Single-family dwellings or manufactured
+homes as specified in DCC 18. 116. 070,
+pursuant to asspeersection
+l 8. 36. 050 of this chapter.
+Ord. 2000- 033 § 1, 2000; Ord. 94- 038 § 1,
+1994; Ord. 92- 068 § 1, 1992; Ord. 92- 025 §
+2, 1992; Ord. 91- 038 § 1, 1991; Ord. 90- 014
+28, 1990; Ord. 86- 018 § 8, 1986)
+Page 2 of 2 - EXHIBIT " A" TO ORDINANCE NO. 2000- 033 ( 12/ 06/ 00)
+EXHIBIT " B"
+18. 40. 030. Conditional uses permitted.
+The following usesandtheir accessoryuses
+may be allowed in the Forest Use Zone,
+subject to applicable provisions of the
+Comprehensive Plan, section 18.40.040 and
+other applicable sections of this title:
+A. Private hunting and fishing operations
+withoutanylodgingaccommodations.
+B. Caretakerresidencesfor public parks and
+fish hatcheries.
+C. Temporaryforestlaborcampslimited to
+the duration of the forest operation
+requiring it use.
+D. Destination Resorts where mapped in a
+DR zone and subject only to the
+provisions of chapter 18. 113 and other
+applicable provisions of Title 18 and the
+ComprehensivePlan not contained in this
+chapter.
+E. Exploration for and production of
+geothermal, gas, oil and other associated
+hydrocarbons, including the placement
+and operation of compressors, separators
+and other customary production
+equipment for an individual well adjacent
+to the well head.
+F. Log scalingandweigh stations.
+G. Disposal site for solid waste for which
+theDepartmentof EnvironmentalQuality
+has granted a permit under Oregon
+Revised Statutes 459. 245, together with
+equipment, facilities or buildings
+necessaryfor its operation.
+H. Parks and campgrounds. For the purpose
+of this section, a campground is an area
+devotedto overnighttemporaryuse for
+vacation, recreational or emergency
+purposes, but not for residential purposes.
+A campingsite may be occupiedby a
+tent, travel trailer or recreational vehicle.
+Campgrounds shall not include
+intensivelydevelopedrecreationaluses
+such as swimming pools, tennis courts,
+retail stores or gas stations.
+I. Mining and processing of oil, gas or
+other subsurface resources, as defined in
+Oregon Revised Statutes chapter
+520. 005, and not otherwise permitted
+under subsection ( E) of this section.
+J. Television, microwave and radio
+communication facilities and
+transmission towers.
+K. Fire stations for rural fire protection.
+L. Utility facilities for the purpose of
+generating power. A power generation
+facility shall not precludemore than 10
+acres from use as a commercial forest
+operation unless an exception it taken
+pursuant to Oregon Administrative Rules
+660, Division 4.
+M. Aids to navigation and aviation.
+N. Water intake facilities, related treatment
+facilities, pumping stations and
+distribution lines.
+O. Reservoirs and water impoundments.
+P. Cemeteries.
+Q. New electric transmission lines with
+right-of-way widths of up to 100 feet as
+specified in Oregon Revised Statutes
+772.210. New distributionlines (e.g. gas,
+oil, geothermal) with rights of way 50
+feet or less in width.
+R. Temporary asphalt and concrete batch
+plants as accessory uses to specific
+highway projects.
+S. Home occupations as defined in section
+18.04. 575 and subject to section
+18. 128. 040( G) of this title.
+T. Expansionof existing airports.
+U. Public road and highway projects as
+described as Oregon Revised Statutes
+215.283(2Xp) through ( r) and
+215. 283( 3).
+V. Private accommodations for fishing
+occupied on a temporary basis subject to
+other applicable sections of this title and
+the following requirements:
+Page I of 2 — EXHIBIT ` B" TO ORDINANCE NO. 2000- 033 ( 12/06/ 00)
+1. Accommodations are limited to no
+more than 15 guest rooms as that
+term is defined in the Oregon
+StructuralSpecialtyCode;
+2. Only minor incidental and accessory
+retail sales are permitted;
+3. Accommodations are occupied
+temporarily for the purpose of
+fishing during fishing seasons
+authorized by the Oregon Fish and
+Wildlife Commission; and
+4. Accommodations must be located
+within one- quarter mile of
+fish -bearing Class I waters asdefined
+in Oregon Administrative Rules
+629- 24- 101( 7).
+W. Forest management research and
+experimentation facilities as defined by
+Oregon Revised Statutes 526. 215 or
+where accessoryto forest operations.
+X. Single-family dwellings or manufactured
+homes as specified in DCC 18. 116. 070,
+pursuant to section 18. 40. 050 of this
+chapter.
+Y. Excavation, grading and fill and removal
+within the bed and banks of a stream or
+river or in a wetland, subject to sections
+18. 120. 050 and 18. 128. 040( W) of this
+title.
+Z. A manufactured home in conjunction
+with an existing dwelling as a temporary
+usefor the term of a hardship suffered by
+the existing resident or a relative as
+defined in Oregon Revised Statutes
+215. 283. The use shall be subject to the
+review criteria in section 18. 116. 090 of
+this title, as well as sections 18. 40. 040
+and 18. 40. 60 of this chapter. The
+manufactured home shall use the same
+subsurface sewage disposal system used
+by the existing dwellings if that disposal
+system is adequate to accommodate the
+additional dwelling.
+Ord. 2000- 033, § 2, 2000; Ord. 94- 038 § 2,
+1994; Ord. 92- 025 § 3, 1992; Ord. 91- 038 §
+1, 1991; Ord. 91- 037 § 1, 1991; Ord. 91- 020 §
+1, 1991; Ord. 91- 005 §§ 22, 23 & 24, 1991;
+Ord. 90- 014 §§ 29 & 36, 1990; Ord. 86- 018 §
+9, 1986; Ord. 84- 015 § 2, 1984; Ord. 83- 033
+3, 1983)
+Page 2 of 2 — EXHIBIT " B" TO ORDINANCE NO. 2000- 033 ( 12/ 06/ 00)
+EXHIBIT " C"
+18. 84. 090. Setbacks.
+A. Except as provided in this section,
+minimum setbacks shall be those
+established in the underlying zone with
+which the LM Zone is combined.
+B. Road Setbacks. All new structures or
+additions to existing structures on lots
+fronting a designated landscape
+management road shall be set back at
+least 100 feet from the edge of the
+designated road unless the Planning
+Director or Hearings Body finds that:
+1. A location closer to the designated
+road would more effectively screen
+the building from the road; or protect
+a distant vista; or
+2. The depth of the lot makes a
+100 -foot setback not feasible; or
+3. Buildings on both lots abutting the
+subject lot have front yard setbacks
+of less than 100 feet and the adjacent
+buildings are within 100 feet of the
+lot line of the subject property, and
+the depth of the front yard is not less
+than the average depth of the front
+yards of the abutting lots.
+If the above findings are made, the
+planning director or hearings body may
+approve a less restrictive front yard
+setback which will be appropriate to
+carry out the purpose of the zone.
+C. River and Stream Setbacks. All new
+structures or additions to existing
+structures shall be set back 100 feet from
+the ordinary high water mark of
+designated streams and rivers or obtain a
+setback exception in accordance with
+section 18. 120. 030. For the purpose of
+this section, decks are considered part of
+a structure and must conform with the
+setback requirement.
+The placement of on- site sewage disposal
+systems shall be subject to joint review
+by the Planning Director or Hearings
+Body and the Deschutes County
+Environmental Health Division. The
+placement of such systems shall
+minimize the impact on the vegetation
+along the river and shall allow a dwelling
+to be constructed on the site as far from
+the stream or lake as possible. Sand filter
+systems may be required as replacement
+systemswhenthis will allow a dwelling
+to be located further from the stream or
+to meet the 100 -foot setback requirement.
+Formerly section 18.84.080(E))
+D. Rimrock Setback. New structures
+including decks or additions to existing
+structures) shall be set back 50 feet from
+the rimrock in an LM Zone. An
+exception to this setbackmay be granted
+to as close as 20 feet of the rimrock
+pursuant to the provisions of subsection
+E) of this section.
+E. Rimrock Setback Exceptions. An
+exception to the 50 -foot rimrock setback
+may begrantedby thePlanningDirector
+or Hearings Body, subject to the
+following standardsandcriteria:
+I. An exception shall be granted when
+the Planning Director or Hearings
+Body finds that:
+a. A lesser setback will make the
+structure less visible or completely
+screened from the river or stream; or
+b. The subject lot or parcel was a lot of
+record prior to the adoption of this
+ordinance; or
+c. Dwellings ( including decks) on both
+lots or parcelsabutting the subject lot
+within 50 feet of the rimrock and the
+adjacent buildings are within 100
+feet of the lot line of the subject
+property; or
+d. Adherence to the 50 -foot setback
+would prevent the structure from
+being sited on the lot.
+2. A dwelling qualifying for a rimrock
+setback exception under the criteria
+set forth above shall be located as
+follows:
+a. The structure shall be designed and
+sited to minimize the visual impact
+when viewed from the ordinary high
+Page 1 of 2 — EXHIBIT " C" TO ORDINANCE NO. 2000- 033 ( 12/ 06/ 00)
+water mark on the far side of the
+river. This shall be determined by
+viewing the property from the
+ordinary high water mark
+immediately across from the center
+of the river frontage on which the
+structure is proposed with like
+evaluations being made 300 feet
+upstream and downstream on either
+side of that point over the entire
+length of river frontage on which the
+structure is proposed.
+b. Existing trees and shrubs which
+reduce the visibility of the proposed
+structure shall be retained.
+c. The. height of the structure shall not
+exceed the setback from the edge of
+the rimrock.
+d. No structure (including decks) shall
+be located closer than 20 feet from
+the edge of the rimrock unless the
+Planning Director or Hearings Body
+finds that the lesser setback will
+make the structure less visible or the
+structure is completely screenedfrom
+the river or stream.
+e. Where multiple nonagricultural
+structures are proposed on a lot or
+parcel, the structures shall be
+grouped or clustered so as to
+maintain a general appearance of
+open landscape for the affected area.
+This shall require a maintenance of at
+least 65 percent open space along
+rimrocks within subject lots or
+parcels.
+WatepA,", shell be eenditioned upon
+DePeAment.
+Ord. 2000- 033 § 3, 2000; Ord. 92- 034 § 2,
+1992)
+Section 18.84. 100. Repealed by Ord. 98-066, 1998
+Page 2 of 2 — EXHIBIT " C" TO ORDINANCE NO. 2000- 033 ( 12/ 06/ 00)
+EXHIBIT " D"
+18. 84. 095. Scenic waterways.
+Approval of all structures in a State Scenic
+Waterway shall be conditioned upon receipt
+of approval of the Oregon Department of
+Parks and Recreation.
+Ord. 2000- 033 § 4, 2000)
+Page I of 1 — EXHIBIT " D" TO ORDINANCE NO. 2000- 033 ( 12/06/ 00)
+EXHIBIT " E"
+18. 96. 020. Designated areas.
+The areas of special flood hazard identified
+by the Federal InsuranceAdministration in a
+scientific and engineering report entitled
+Flood Insurance Study for Deschutes
+County, Oregon and Incorporated Areas"
+dated Augus4 16, 1988 revised June 8. 1998,
+with accompanying Flood Insurance Rate
+Maps is herebyadopted by reference and
+incorporatedherein by this reference. The
+Flood Insurance Study is on file at the
+Deschutes County Community Development
+Department.
+The Flood Plain Zone shall include all areas
+designated as " Special Flood Hazard Areas"
+by the Flood InsuranceStudyfor Deschutes
+County. When base flood elevation data has
+not been provided in the Flood Insurance
+Study, the Planning Division will obtain,
+review andreasonablyutilizeany baseflood
+elevation or floodway data available from
+federal, state or other sources, in determining
+the location of a flood plain or floodway.
+Ord. 2000- 033 § 5, 2000; Ord. 88- 030 § 4,
+1988)
+Page I of I- EXHIBIT " E" TO ORDINANCE NO. 2000- 033 ( 12/ 06/ 00)
+EXHIBIT " F"
+18. 96. 080. Criteria to evaluate
+conditional uses.
+A. A conditional use permit in a Flood Plain
+Zone shall not be approved unless all
+standards established by the Federal
+Emergency Management Agency and
+this title are addressed and findings are
+made by the Hearings Body or Plannine
+Director that each of the standards and
+criteria are satisfied.
+B. A conditional use permit shall be based
+upon findings which relate to the
+property and existing and proposed
+structure( s). They shall not pertain to the
+property owner, inhabitants, economic or
+financial circumstances.
+C. All structures in the flood plain shall
+meetthe following standards.
+1. Anchoring.
+a. All new construction and substantial
+improvements shall be anchored to
+prevent flotation, collapse or lateral
+movement of the structure.
+b. All manufactured homes must be
+anchored to prevent flotation,
+collapse or lateral movement, and
+shall be installedusingmethodsand
+practices that minimize flood
+damage. Anchoring methods may
+include, but are not limited to, use of
+over -the -top or frame ties to ground
+anchors. '
+Flood HazaFd "
+additional teeliniques, en r.4.16 4,44t_..
+the plamling pi -Vision).
+2. Construction Materials and Methods.
+a. All new construction and substantial
+improvements shall be constructed
+with materials and utility equipment
+resistant to flood damage.
+b. All new construction and substantial
+improvements shall be constructed
+using methods and practices that
+minimize flood damage.
+c. Electrical, heating, ventilation,
+plumbing and, air- conditioning
+equipment and other service facilities
+shall be designed and/ or otherwise
+elevated or located so as to prevent
+waterfrom enteringor accumulating
+within the components during
+conditions of flooding.
+3. Utilities.
+a. All new and replacement water
+supply systemsshall be designed to
+minimize or eliminate infiltration of
+flood waters into the system.
+b. New and replacement sanitary
+systems shall be designed to
+minimize or eliminate infiltration of
+floodwaters into the system and
+discharge from the system into flood
+waters.
+c. On- site waste disposal systems shall
+be located to avoid impairment to
+them or contamination from them
+during flooding.
+Ord. 2000- 033 § 6, 2000; Ord. 95- 075 § 1,
+1995; Ord. 95- 022 § I, 1995. Ord. 93- 043 §
+15B, 1993; Ord. 93- 002 §§ 6- 8, and 9. 1993;
+Ord. 91- 020 § 1. 1991: Ord. 89- 009 § 7,
+1989. Ord. 88- 030 § 4, 1988)
+Page 1 of I — EXHIBIT •` F'' TO ORDINANCE NO. 2000- 033 ( 12/ 06100)
+EXHIBIT " G"
+18. 116.050. Manufactured homes.
+Manufactured Home Classes. For purposes
+of these regulations, manufactured homes are
+dividedintothefollowingtypes:
+A. A Class A manufactured home shall:
+1. Have more than 1,000 squarefeet of
+occupied space in a double section or
+larger multisection unit;
+2. Be placed on a foundation or support
+system, as specified by the
+manufacturer. Skirting shall be
+required;
+3. Have wheels; axles and hitch
+mechanisms removed;
+4. Have utilities connected subject to
+the requirementsof the Building
+Codes Agency and manufacturer's
+specifications;
+5. Bear an insignia of compliance with
+the Manufactured Housing and
+Construction and Safety Standards
+Code as of June 15, 1976;
+6. Have roofing materials of a type
+customarily used on site - constructed
+residences, including wood shakesor
+shingles, asphalt or fiberglass
+shingles, corrugated mat - finish
+colored metal and tile materials, but
+not including high -gloss corrugated
+aluminum or fiberglass panels. The
+roof pitch shall be a minimum of two
+over twelve;
+7. Have siding materials of a type
+customarily used on site -constructed
+residences such as clapboard,
+horizontal vinyl or aluminum
+lap -siding, cedar or other wood
+siding, brick or stone, and not
+including high - gloss finished
+material, corrugated metal or
+fiberglass, or metal or plastic panels.
+B. A Class B manufactured home shall:
+1. Have at least 750 square feet of
+occupied space in a single, double,
+expand or multisection unit;
+2. Be placed on a foundation, as
+specified by the manufacturer.
+Skirting shall be required;
+3. Have wheels, axles and hitch
+mechanisms removed;
+4. Have utilities connected subject to
+the requirements of the Building
+Codes Agency and manufacturer's
+specifications;
+5. Bear an insignia of compliance with
+the Manufactured Housing and
+Constructionand SafetyStandards
+Code as of June 15, 1976;
+6. Have roofing materials of a type
+customarily used on site - constructed
+residences, includingwoodshakesor
+shingles, asphalt or fiberglass
+shingles, corrugated mat -finish
+colored metal and tile materials, but
+not including high -gloss corrugated
+aluminum or fiberglass panels. The
+roof pitch shall be a minimum of two
+over twelve;
+7. 1.1avenenmfleetivesiding materials
+r-esidenees. Have siding materials of
+a type customarily used on
+site - constructed residences such as
+clapboard, horizontal vinyl or
+aluminum lap -siding, cedar or other
+wood siding, brick or stone. and not
+including high - gloss finished
+material, corrugated metal or
+fiberglass, or metal or plastic panels.
+C. A Class C manufactured home shall:
+1. Have at least 576 square feet of
+occupied space, excluding tipouts
+and hitches;
+2. Be placed on a foundation or support
+system, as specified by the
+manufacturer. Skirting shall be
+required;
+3. Bear an insignia of compliance with
+the Manufactured Housing and
+Construction and Safety Standards
+Code as of June 15, 1976, or bear the
+Oregon Department of Commerce
+Insignia of Compliance;"
+4. Have utilities connected subject to
+the requirements of the Building
+Page i of 2 — EXHIBIT " G" TO ORDINANCE NO. 2000-033 ( 12/06/00)
+Codes Agency and manufacturer' s
+specifications.
+D. A Class D manufactured home shall:
+1. Have more than 320 square feet of
+occupied space;
+2. Be placed on a foundation or support
+system, as specified by the
+manufacturer. Skirting shall be
+required;
+3. Have utilities connected subject to
+requirements of the Building Codes
+Agency and manufacturer' s
+specifications.
+Ord. 2000- 033 § 7, 2000; Ord. 93- 043 §§
+19B -E, 1993; Ord. 91- 038 § 4, 1991; Ord.
+91- 017 §§ 1-3 and 4, 1991; Ord. 91- 005 §§
+3840, and 41, 1991; Ord. 89- 004 §§ 3 and 5,
+1989; Ord. 81- 042 § 1-3 and 4)
+Page 2 of 2 — EXHIBIT " G" TO ORDINANCE NO. 2000- 033 ( 12/06/00)
+EXHIBIT " H"
+18. 116. 070. Placement standards for View Estates, Raintree, Holmes
+manufactured homes. Acres, La Pine Meadows North, Pine
+A. As defined in section 18. 116. 050 of this
+Crest Ranchettes, Dora' s Acres,
+chapter, Class A and B manufactured Pierce Tracts, Roan Park, South
+homes shall be permitted as follows, Forty, Tomes; Crooked River Ranch,
+subject to the requirements of the
+Dale Acres, Replat/ Hillman, Lake
+underlying zone:
+ParkEstates, Mary K. Falls Estates.
+1. In the following zones, except where
+7. Class C manufactured homes are not
+there is a Conventional Housing permitted in any historic district or
+Overlay Zone (CH): Any EFU zone, on any historic site.
+MUA- 10, F-1. F-2, RR -10, any area C. An exception may be granted by the
+zoned as an unincorporated PlanningDirector or HearingsBody to
+community ( as that term is defined allow a Class C manufactured home to be
+herein), RSR - M, RSR - 5; and FP as placed in a subdivision which is not listed
+the primary dwelling, and R -I and in paragraph ( Bx6), above, where all of
+SM as a caretaker' s residence. the following conditions exist:
+2. In manufactured home parks and 1. The manufactured home is
+subdivisions. specifically designed or has been
+3. As permitted in sections 18. 116. 080 substantially modified for wheelchair
+and 18. 116. 090 of this chapter. or handicapped access ( handicapped
+4. Class A and B manufactured homes accessible manufactured home).
+are not permitted in any historic 2. There are Class C manufactured
+districtor onanyhistoricsite. homes in the subdivision located
+B. Class C manufactured homes shall be
+within one- quarter mile of the lot
+permitted as follows:
+upon which the manufactured home
+1. Except as otherwise allowed in this
+will be placed.
+3. The handicapped - accessible
+subsection, on parcels 10 acres in manufactured home and lot upon
+size or larger. which the manufactured home is to
+2. As a secondary accessory farm be placed were purchased by thedwelling.
+3. In manufactured home parks and applicant prior to February 22, 1989.
+manufactured home subdivisions. D. Class D manufactured homes shall be
+4. As permitted in sections 18. 116. 080 permitted as follows:
+and 18. 116. 090 of this chapter. 1. In manufactured home parks and
+5. As a replacement to an existing subdivisions.
+nonconforming manufactured home 2. As permit ed in sections 18. 116. 080
+destroyedby fire or other natural act, and 18. 116. 090 of this chanter.
+or as an upgrade to an existing 3. Class D manufactured homes are not
+manufactured home. permittedin any historic district or
+6. In the following subdivisions: on any historic site.
+Rockview II, Tetherow Crossing, Ord. 2000- 033 § 8, 2000; Ord. 96- 003 § 8,
+Chaparral Estates, Crystal Acres, 1996; Ord. 91- 020 § 1, 1991; Ord. 91- 005 §§
+Hidden Valley Mobile Estates, 42 and 43, 1991; Ord. 89- 016 § 1, 1989; Ord.
+Johnson Acres, Seven Peaks, Sun 89- 014 § 1, 1989; Ord. 89- 004 §§ 3 and 5,
+Mountain Ranches, Deschutes River 1989; Ord. 81- 042 § 5, 198 1)
+Homesites Rimrock Addition, Happy
+Acres, Rancho EI Sereno,
+Whispering Pines, Bend Cascade
+Page 1 of 1 — EXHIBIT " H" TO ORDINANCE NO. 2000- 033 ( 12/ 06/ 00)
+EXHIBIT " I"
+18. 128. 040. Specific use standards.
+A conditional use shall comply with the
+standards of the zone in which it is located
+and with the standards and conditions set
+forth in this section.
+GG. Time- share unit.
+A time- share unit established under this
+subsection shall meet the following
+conditions:
+1. Any time-share unit project shall
+have its primary accesson an arterial
+or collector street.
+2. New time- share units may be
+developed in vacant areas in the
+Applicable zoning, districts provided
+that such developments comply with
+1) above, and the following:
+a. That such development has a
+minimum site size of 10 acres,
+except within the UUC- Sunriver
+Zone.
+b. That such development is
+appropriately buffered by the use of
+yards. IandscgRing, etc., from
+adjoining properties as determined
+during site plan review considering
+the need for privacy and the effects
+of noise.
+3. The Planning Director or Hearings Body
+may require bonds to assure installation
+and maintenanceof landscaping parking
+and facilities that are part of the buffering
+scheme. It may also require that an
+adequate mechanism will exist, such as
+an owners' association, that will assure
+maintenance of such facilities.
+4. No structure shall be utilized as a
+time- share unit unless all the units in the
+structure or . particular phase of the
+development are used as time- share units
+for this purpose.
+Ord. 2000- 033 § 9, 2000; Ord. 98- 056 § 2,
+1998. Ord. 98- 013 §§ 2, 3, 4 & 5, 1998; Ord.
+97- 063 § 2, 1997; Ord. 97- 029 § 3, 1997;
+Ord. 97- 022 § 1, 1997; Ord. 97- 017 § 8,
+1997; Ord. 96- 003 § 9, 1996; Ord. 95- 075 §
+1, 1995; Ord. 95- 046 § 3, 1995; Ord. 94- 053,
+6, 1994; Ord. 94- 008 § 15, 1994; Ord.
+93- 043 §§ 23A - J, 1993; Ord. 93- 005 §§ 9, 10
+and 11, 1993; Ord. 92- 025 §§ 6 and 7, 1992;
+Ord. 92- 004 § 12, 1992; Ord. 91- 038 §§ 1
+and 3, 1991; Ord. 91- 020 § 1, 1991; Ord.
+91- 005 §§ 46 and 47, 1991; Ord. 90- 014 §§
+39 and 40, 1990; Ord. 89- 008 § 1, 1989; Ord.
+87- 032 § 1, 1987; Ord. 86- 056 §§ 3 and 4,
+1986; Ord. 86- 018 § 1, 1986; Ord. 85- 002 §
+9, 1985; Ord. 84- 023 § 4, 1984; Ord. 84- 015
+3, 1984; Ord. 80-206 § 4, 1980)
+Note: DCC 19. 128. 040( FF) is repealed December 31,
+2001.
+EXHIBIT " J"
+r
+Section 18.128.080. Repealedby Ord. 2000-033. 2000
+Page 1 of I — EXHIBIT " J" TO ORDINANCE NO. 2000- 033 ( 12/ 06/ 00)
+r.
+s
+r
+s
+r
+Section18. 128.080. Repealedby Ord. 2000-033. 2000
+Page1 of I — EXHIBIT "J" TO ORDINANCENO. 2000- 033 ( 12/ 06/ 00)
+EXHIBIT " K"
+18. 67. 030. Residential - 5 acre minimum
+TuR5) District.
+The purpose of the Temebenne Tumalo
+Residential - 5 Acre Minimum District is to
+retain large rural residential lots.
+A. Permitted Uses. The following uses and
+their accessory uses are permitted
+outright and do not require site plan
+review.
+1. Single-family dwelling or a
+manufactured home subject to DCC
+18. 116. 070.
+2. Home occupation that:
+a. Is carried on within a dwelling only
+by membersof thefamily who reside
+in the dwelling;
+b. Does not serve clients or customers
+onsite;
+c. Does not produce odor, dust, glare,
+flashinglightsor noise;
+d. Does not occupy more than 25
+percent of the floor area of the
+dwelling; and
+e. Does not involve the on -premise
+display or saleof stock in trade.
+3. Agricultural uses as defined in DCC
+18.04, involving:
+a. Keeping of cows, horses, goats,
+sheep or similar farm animals,
+provided that the total numbers of
+such animals over the age of six
+months is limited to the square
+footage of the lot or parcel divided
+by 20,000 squarefeet.
+b. Keeping of chickens, fowl, rabbits or
+similar farm animals over the age of
+six months, provided that the total
+numbers of such animals does not
+exceed one for each 500 square feet
+of property.
+4. Class I and II road or street project
+subject to approval as part of a land
+partition, subdivision or subject to
+the standards of DCC 18. 67. 080 and
+18. 116. 230.
+5. Class III road or street project.
+B. Conditional Uses. The following uses
+and their accessory uses are permitted
+subject to the applicable provisions of
+DCC 18. 116, 18. 124, and 18. 128:
+1. Church.
+2. Home occupation as defined in
+chapter 18. 04 of title 18
+3. Public or private school.
+4. Child care center
+5. Park.
+6. Publicor semi-publicbuilding.
+7. Utility facility.
+8. Watersupplyor treatmentfacility.
+9. Wireless telecommunications
+facilities, except those facilities
+meeting the requirements of DCC
+18. 116. 250( A) or ( B).
+C. Lot Requirements. The minimum lot or
+parcel size in the TuR5 District is five ( 5)
+acres.
+D. Yard Standards.
+1. Front Yard. The front yard shall be
+20 feet for a propertyfronting on a
+local streetright-of-way, 30 feet for a
+propertyfrontingona collectorright-
+of-way, and 80 feet for a property
+frontingonanarterialright-of-way.
+2. Side Yard. A side yard shall be a
+minimum of five feet and the sum of
+the two side yards shall be a
+minimum of 15 feet, subject to DCC
+18. 67. 030( Ex4).
+3. Rear Yard. The minimum rear yard
+shall be 20 feet, subject to DCC
+18. 67. 030( Dx4).
+4. Exception to Yard Standards. Any
+new structure requiring a building
+permit on a lot adjacent to EFU-
+zoned land that is receiving special
+assessment for farm use shall be set
+back a minimum of 100 feet from the
+common property line.
+Ord. 2000- 033 § 11, 2000; Ord. 97- 063 § 3,
+1997; Ord. 97- 033 § 2, 1997)
+Page 1 of 1 — EXHIBIT " K" TO ORDINANCE NO. 2000- 033 ( 12/ 06/ 00)

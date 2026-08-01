@@ -1,0 +1,1069 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lane-county
+id: lane-land-use-lc16-290-291
+title: 'LC16.290 291'
+doc_type: ordinance
+citation: 'LC16.290 291'
+authority_level: county_ordinance
+issuing_body: 'Lane County Board of Commissioners'
+source_url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.290_291.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 2f4548c7f57f6c3d16aa044ac03f4f23ad38010406249e67a02ae60732de23a5
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 105.550
+    - ORS 181A.410
+    - ORS 195.060
+    - ORS 195.137
+    - ORS 443.400
+    - ORS 443.480
+    - ORS 443.705
+    - ORS 455.010
+    - ORS 455.150
+    - ORS 476.392
+    - ORS 477.490
+    - ORS 537.545
+    - ORS 657A.280
+    - ORS 657A.330
+    - ORS 90.730
+    - OAR 660-022-0030
+    - OAR 735-022-0140
+  related: []
+  supersedes: []
+tags: [lane-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lane County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# LC16.290 291 (LC16.290 291)
+
+## At a glance
+
+LC16.290 291 — land use of Lane County. 21 pages.
+
+## Full text
+
+Lane Code
+CHAPTER 16 CONTENTS
+
+May 2026 16-i
+RURAL RESIDENTIAL ZONE (RR) RURAL COMPREHENSIVE PLAN
+16.290 Residential Zone (RR).
+RURAL COMMERCIAL ZONE (RC, RCP)
+16.291 Rural Commercial Zone (RC, RCP).
+
+May 2026 16-751
+RURAL RESIDENTIAL ZONE (RR) RURAL
+COMPREHENSIVE PLAN
+
+16.290 Residential Zone (RR).
+ (1) Purpose.  The purposes of the Rural Residential Zone (RR) are:
+  (a) To implement the policies of the Lane County Rural Comprehensive Plan (RCP)
+pertaining to developed and committed lands.  LC 16.290 does not apply to lands designated by the RCP
+as non-resource lands;
+  (b) To promote a compatible and safe rural residential living environment by limiting
+allowed uses and development to primary and accessory rural residential uses and to other rural uses
+compatible with rural residential uses and the uses of nearby lands;
+  (c) To provide protective measures for riparian vegetation along Class I streams
+designated as significant in the RCP; and
+  (d) To provide that LC 16.290 shall not be retroactive and that the Director shall not have
+authority to initiate compliance with LC 16.290 for uses and development lawfully existing (per LC Chapter
+16) on the effective date that LC 16.290 was applied to the subject property.
+ (2) Permitted Uses .  The following uses and activities are allowed subject to the general
+provisions and exceptions specified by this chapter of Lane Code:
+  (a) The placement, alteration, and maintenance of not more than one permanent single -
+family dwelling or manufactured dwelling on a lot or parcel of any size.
+  (b) When there are two or more lawfully (not in violation of LC Chapter 16) existing
+dwellings or manufactured dwellings on a lot or parcel, then the alteration, restoration, or replacement of
+these dwellings or manufactured dwellings shall be allowed subject to compliance with these requirements:
+   (i) The property owner shall submit to the Director building permit records from
+the Lane County Land Management Division indicating that the existing dwellings or manufactured
+dwellings were lawfully constructed or placed on the subject property pursuant to a building permit and the
+required building inspection approvals; or
+   (ii) The property owner shall submit to the Director a verification of replacement
+rights application containing records from the Lane County Assessment and Taxation Office indicating that
+the dwelling or manufactured dwelling has existed on the property and has been taxed on a continuous
+annual basis from a date that predates zoning that would restrict or regulate the establishment of a dwelling
+on the subject property.  The Director shall determine when restrictive zoning was enacted based upon the
+official zoning records on file with the Department.
+   (iii) Replacement dwellings or manufactured dwellings shall be located on the same
+foundation footprint as the removed or destroyed dwelling or manufactured dwelling, or shall be located in
+compliance with LC 16.290(7)(a) through (d) below.
+   (iv) In the case of replacement, the dwelling or manufactured dwelling to be replaced
+shall be removed, demolished, or converted to an allowable use within three months of the completion of
+the replacement dwelling.
+  (c) Not more than one duplex on a lot or parcel that:
+   (i) Is located within the boundaries of an area designated by the Rural
+Comprehensive Plan as an unincorporated community;
+   (ii) Does not have a dwelling, manufactured dwelling or duplex on it; and
+   (iii) Contains at least the minimum area required by LC 16.290(6)(b) below.
+  (d) Not more than one manufactured home or recreational vehicle on a lot or parcel, in
+addition to an existing dwelling, manufactured home or duplex allowed by LC 16.290(2)(a) through (c)
+above, as a temporary use for the term of a medical hardship suffered by a resident of the existing dwelling,
+manufactured home or duplex, or a relative of the resident, subject to compliance with these requirements:
+   (i) The property owner or authorized representative of the property owner shall
+submit to the Director an application on the form provided by the Director.
+
+May 2026 16-752
+   (ii) A resident of the existing dwelling, manufactured home or duplex has a medical
+hardship and needs care for daily living from a resident of the temporary manufactured  home or recreational
+vehicle; or
+   (iii) A resident of the temporary manufactured home or recreational vehicle is a
+relative of a resident of the existing dwelling, manufactured home or duplex, has a medical hardship and
+needs care for daily living which will be provided by a relative living in the existing dwelling, manufactured
+dwelling or duplex.  `Relative' means grandparent, step grandparent, grandchild, parent, stepparent, child,
+brother, sister, step sibling, aunt, uncle, niece or nephew or first cousin of a resident of the existing dwelling,
+manufactured dwelling or duplex.
+   (iv) Evidence of the medical hardship and a description of the family relationship
+and assistance with the daily living that will be provided shall be furnished and shall consist of:
+    (aa) A written statement from a medical physician disclosing the existence of
+and need for the medical hardship;
+    (bb) Any family relationship between the person with the hardship and the
+person who will provide care; and
+    (cc) The general nature of the care that will be provided.
+   (v) The temporary manufactured home or recreational vehicle shall be located on
+the same lot or parcel as the existing dwelling, manufactured home or duplex.
+   (vi) The temporary manufactured home or recreational vehicle shall be connected to
+the same on-site sewage disposal system serving the existing dwelling, manufactured home or duplex.  If
+that sewage disposal system is not adequate for the connection, as determined by the Lane County
+Sanitarian, to accommodate the addition of the temporary dwelling, then that sewage disposal system shall
+be improved to meet the Oregon Department of Environmental Quality (DEQ) requirements in order to
+accommodate the addition of the temporary dwelling.  A separate on-site sewage disposal system meeting
+DEQ requirements for the temporary manufactured home or recreational vehicle may be used, when in the
+opinion of the Lane County Sanitarian, connecting the temporary dwelling to the existing sewage disposal
+system would be impracticable because of the physical conditions of the subject property.  The use of the
+separate sewage disposal system by the temporary dwelling shall be discontinued when the hardship ceases
+and shall not be used for other purposes unless in compliance with LC Chapter 16.
+   (vii) The temporary manufactured home or recreational vehicle shall comply with
+applicable Oregon Department of Environmental Quality review and removal requirements.
+   (viii) The temporary manufactured home or recreational vehicle shall not be allowed
+if there is an accessory living structure, as defined by LC 16.290(2)(t)(i) through (vi) below, on the same
+lot or parcel.
+   (ix) Except as provided in LC 16.290(2)(d)(x) below, approval of a temporary
+manufactured home or recreational vehicle permit shall be valid until December 31 of the year following
+the year of original permit approval and may be renewed once every two years until the hardship situation
+ceases or unless in the opinion of the Lane County Sanitarian the on-site sewage disposal system no longer
+meets DEQ requirements.
+   (x) Within 90 days of the expiration date of the temporary hardship permit, the end
+of the hardship, or the care provider no longer residing in the temporary manufactured home or recreational
+vehicle, the manufactured home or recreational vehicle shall be rem oved from the property, converted to
+an allowable nonresidential use or demolished.
+  (e) Not more than one bed and breakfast accommodation on a lot or parcel and in a
+dwelling, manufactured dwelling or duplex allowed by LC 16.290(2)(a) through (c) above.  A bed and
+breakfast accommodation shall have no more than five sleeping rooms provided on a daily or weekly period,
+not to exceed 29 consecutive days, for the use of travelers or transients for a charge or fee.  Provision of a
+morning meal is customary as implied by title.
+  (f) Not more than one residential home on a lot or parcel and in a dwelling, manufactured
+dwelling or duplex allowed by LC 16.290(2)(a) through (c) above.  "Residential home" means a residential
+treatment or training or an adult foster home licensed by or under the authority of the Department of Human
+
+May 2026 16-753
+Resources (DHR) under ORS 443.400 to 443.825, a residential facility registered under ORS 443.480 to
+443.500 or an adult foster home licensed under ORS 443.705 to 443.825 which provides residential care
+alone or in conjunction with treatment or training, or a combination thereof, for five or fewer individuals
+who need not be related.  Staff persons required to meet DHR licensing requirements shall not be counted
+in the number of facility residents, and need not be related to each other or to any resident of the home.
+  (g) Not more than one child care facility (for a maximum of ten children younger than 13
+years of age) that is registered with the State Child Care Division in compliance with ORS 657A.330, or
+not more than one group child care home (for seven or more childre n and not more than twelve children)
+that is certified by the State Child Care Division in compliance with ORS 657A.280, on a lot or parcel and
+in a dwelling, manufactured dwelling or duplex allowed by LC 16.290(2)(a) through (c) above.
+  (h) A minor home occupation and/or a home office that comply with these conditions:
+   (i) No more than five persons shall work in the minor home occupation and/or home
+office, including the operator.  With the following exception, these persons shall reside on the lot or parcel
+where the minor home occupation and/or home office are located: one of these persons may reside off the
+lot or parcel where the minor home occupation and/or home office are located.
+   (ii) The minor home occupation and/or home office shall be conducted substantially
+in the dwelling or in an attached or detached structure and shall not exceed 1,000 square feet in floor area.
+"Operated substantially in" means indoors except for accessory min or home occupation uses that are
+normally located outdoors such as: roads or driveways for ingress and egress; areas for loading or unloading
+business vehicles; parking for vehicles operated as part of the home occupation; screened storage areas and
+maintenance of minor home occupation vehicles.
+   (iii) Customers, not including business or delivery vehicles, shall not come for the
+conduct of business to the property where the minor home occupation and/or home office are located.
+   (iv) No more than two trips per day shall be made by one or any combination of
+business delivery vehicles coming to the subject property in conjunction with the minor home occupation
+and/or home office.  This does not include US Postal Service delivery vehicles.
+   (v) The operation of sound producing tools, machinery and devices shall comply
+with LC 6.225 PROHIBITED NOISE, and shall comply with this more restrictive requirement.  The
+operation of sound producing tools, machinery and devices as part of the minor home oc cupation, other
+than the vehicles of the owner, shall not produce "Plainly Audible Sound," as defined by LC 6.225.005,
+from any boundary of the subject property before 7:30 A.M. or after 5:30 P.M. on Monday through Friday,
+or before 11 A.M. or after 1 P.M. on Saturday through Sunday.
+   (vi) The operation of the minor home occupation shall comply with LC 9.570
+NUISANCE, and shall comply with this more restrictive requirement.  Odors from the home occupation
+shall not be plainly detectable from any boundary of the subject property before 7:30 A.M. or after 5:30
+P.M. on Monday through Friday or before 11 A.M. or after 1 P.M. on Saturday through Sunday.
+   (vii) Advertising signs for the minor  home occupation and/or home office shall not
+be displayed on the subject property or structures on the subject property.
+   (viii) Outdoor parking of vehicles used with the minor home occupation and/or home
+office shall not exceed a maximum of two motorized vehicles and two non- motorized vehicles such as
+trailers or flatbeds.  The operation of these vehicles on the minor home occupat ion and/or home office
+property shall be limited to persons who qualify as workers of the minor home occupation and/or home
+office under LC 16.290(2)(h)(i) above and shall not involve more than three trips per day from and to the
+minor home occupation and/or home office property.
+   (ix) Use of buildings or structures for the minor home occupation shall not involve
+the manufacturing, processing, generation or storage of materials that constitute a high fire, explosion or
+health hazard as defined by Section 307 of the Oregon Structural Specialty Code.
+   (x) The Building Official shall determine if a building plan review application is
+necessary and shall issue a report with the determination.  Any required building permits and certificates of
+occupancy shall be obtained by the operator prior to operation of the minor home occupation.
+
+May 2026 16-754
+  (i) Raising and harvesting crops or the feeding, breeding and management of livestock,
+poultry or fur bearing animals, including structures for these uses.  Animals and bees shall not exceed the
+following numbers per each acre of the subject RR zoned property:
+   (i) One horse, cow or swine per acre not including offspring younger than 6 months
+old from one of the female animals being counted; or
+   (ii) One goat, sheep, llama or alpaca per half acre not including offspring younger
+than 6 months old from one of the female animals being counted.  The number of llamas or alpacas per acre
+may be increased to 4 llamas or alpacas per acre for every acre in the lot or parcel above 2 acres; or
+   (iii) 85 chickens, other fowl or rabbits per acre.
+   (iv) The number of colonies of bees allowed on a property shall be limited to one
+colony for each 10,000 square feet of lot area and shall be located no closer than 50 feet from any property
+line.
+  (j) No more than eight dogs over six months in age on any tract subject to compliance
+with the following conditions:
+   (i) No more than two dogs shall be used for breeding.
+   (ii) The tract where the dogs are located shall not be used as a place of business
+where dogs are boarded, or where dogs are bred or sold, or where dogs receive medical care.
+  (k) Fish and wildlife habitat management.
+  (l) Forest uses, including the propagation and harvesting of forest products grown on the
+property or a primary processing facility.  The "primary processing of a forest product" means the use of a
+portable chipper, stud mill or other similar equipment for the initial treatment of a forest product, to facilitate
+its shipment for further processing or its use on the subject property.  "Forest products" means timber and
+other resources grown upon the land or contiguous units of RR zoned land where the prima ry processing
+facility is located.
+  (m) Roadside stand for the sale of any agricultural produce where more than one half of
+the gross receipts result from the sale of produce grown on the tract where the roadside stand is located.
+  (n) Public and semipublic buildings, structures and uses rendering direct service to the
+public in local areas, such as fire stations, utility substations, pump stations and wells.
+  (o) Maintenance, repair, or replacement of lawfully (per LC Chapter 16) existing uses and
+development not authorized elsewhere by LC 16.290.
+  (p) The outdoor operation of motorized vehicles, motorized recreational devices or the
+discharging of firearms when performed primarily by persons who reside in the dwelling, or relatives of
+the persons who reside in the dwelling, and located on the tract whe re the uses occur.  `Relative' means
+grandparent, grandchild, parent, child, brother, sister, aunt, uncle, niece or nephew.  These outdoor
+recreational uses shall comply with LC 6.225 PROHIBITED NOISE for prohibited noise.
+  (q) Transportation facilities and uses as specified in LC 16.265(3)(a) through (m).
+  (r) The conversion of a lawfully existing dwelling to an accessory residential guesthouse
+that complies with these requirements:
+   (i) The dwelling for the conversion shall be a lawful dwelling existing on the date
+of the adoption of this requirement;
+   (ii) The kitchen sink and cooking facilities shall be removed from the existing
+dwelling and not replaced.  When, the kitchen sink is removed, the plumbing shall be capped- off at the
+wall, and the kitchen sink shall not be replaced.  When the cooking facilities are removed, the power source
+shall be removed.  Any 220 circuits used for the cooking facilities shall be disconnected at the circuit box
+and approval of any required electrical permits for the disconnection shall be obtained, and the electrical
+circuit and cooking facilities shall not be replaced.  Except for a bathroom and/or a laundry sink, a sink or
+cooking facilities shall not be located elsewhere in the guest house structure;
+   (iii) The address shall be removed from the guesthouse and not replaced;
+   (iv) The property owner shall record a covenant with the Lane County Clerk
+disclosing that a kitchen sink or cooking facilities cannot be placed in the guest house and that it is an
+
+May 2026 16-755
+accessory residential use that cannot be separated from the remainder of the parcel that contains the
+dwelling; and
+  (s) Rock, sand, gravel or loam excavation or extraction if the materials excavated or
+extracted are used solely on the subject property and are not offered for sale or remuneration
+  (t) Residential Accessory Structures and Uses.  Uses and development that are accessory
+to uses and development allowed by LC 16.290(2) above or (3) through (4) below such as, but not limited
+to: outdoor recreation, garages, storerooms and utility spaces, sheds, playhouses, greenhouses, hobby shop,
+and animal or pet shelters
+  (u) Guest House or Accessory Residential Structure.  A structure that contains area for
+residential use or occupancy, that includes a toilet or bathroom, and that complies with these requirements:
+   (i) The total floor area of the structure is no more than 850 square feet;
+   (ii) The structure does not contain a kitchen.
+   (iii) The structure is located on a lot or parcel that has a lawfully existing dwelling or
+duplex on it and that does not have two or more permanent dwellings, a guest house or another accessory
+residential structure on it;
+   (iv) Sewage disposal for the structure is connected to the same onsite sewage
+disposal system, or community or public sewer connection, and the same electrical meter as the existing
+dwelling  on the same lot or parcel; and
+   (v) The structure shall not have an address.
+  (v) Not more than one (1) accessory dwelling unit on a lot or parcel, consisting of at least
+2 acres and meeting the standards of LC 16.290(8).  The provisions of LC 16.290(2)(u) above do not apply
+to accessory dwelling units, as allowed by this subsection and LC 16.290(8).
+(w)  Not more than one (1) recreational vehicle used for residential purposes on a lot or
+parcel that is subject to a residential rental agreement and meets the standards of LC 16.290(9).
+
+ (3) Home Occupation.  A home occupation is allowed subject to: prior submittal and approval
+of a land use application pursuant to Type II procedures of LC Chapter 14 ; and compliance of the home
+occupation with the requirements of LC 16.290(3)(b) through (f) below and where applicable elsewhere in
+LC Chapter 16.
+  (a) The purposes of LC 16.290(3) are:
+   (i) To provide rural property owners with opportunities to work at home and to
+operate home occupation on their Rural Residential zoned land;
+   (ii) To assure that the operation of home occupation will be compatible with nearby
+uses;
+   (iii) To recognize the uniqueness of each home occupation including its nature and
+scope, the characteristics of the development site and nearby property, and the impacts that it may have on
+the development site and nearby properties; and
+   (iv) To comply with Statewide Planning Goal 14 by requiring more intensive
+commercial and industrial uses to locate in areas appropriately planned and zoned for these uses.
+  (b) It shall be operated by a resident of the subject property.
+  (c) It shall employ or contract on the subject property no more than five full or part -time
+persons.  The operator shall be considered as one of the five employees.
+  (d) It shall be operated substantially in the dwelling or other buildings normally associated
+with uses allowed by LC 16.290(2) above.  Any structure that would not otherwise be allowed by LC
+16.290(2) above shall not be allowed for use as a home occupation.  LC 16.290(3)(d) above shall be
+implemented, in part, through compliance with these requirements:
+   (i) "Operated substantially in" means indoors except accessory home occupation
+uses that are normally located outdoors such as: advertising signs for the home occupation; roads or
+driveways for ingress and egress; areas for loading or unloading business vehic les; customer or employee
+
+May 2026 16-756
+parking spaces; parking for vehicles operated as part of the home occupation; screened storage areas; and
+outdoor accessory uses similar to the above as determined by the Approval Authority.
+   (ii) To determine if a structure is one that would not otherwise be permitted by LC
+16.290(2) above, the external and internal structure shall be examined.  If a home occupation requires a
+special structure within which to operate that is not useable, without significant alteration, for other uses
+allowed by LC 16.290(2), then the home occupation shall not be allowed.
+   (iii) The amount of building floor area of home occupation shall not exceed:
+    (aa) 3,000 square feet for any parcel or lot located outside an unincorporated
+community; or
+    (bb) 4,000 square feet for any parcel or lot located inside an unincorporated
+community.
+  (e) It shall not interfere with existing uses permitted by LC Chapter 16 on nearby land or
+with other uses allowed by LC 16.290(2) above on nearby parcels without residences.  Compliance with
+LC 16.290(3)(e) above shall include, but shall not necessarily be limited to, addressing the compatibility of
+these home occupation operation concerns:
+   (i) The number of business, service and customer vehicles and the adequacy of
+roads, driveways and parking for these vehicles;
+   (ii) Buffering or screening of outdoor storage allowed under LC 16.290(3)(d)(i)
+above;
+   (iii) Fire safety;
+   (iv) The hours of operation;
+   (v) Any noise or odors;
+   (vi) Outdoor lighting; and
+   (vii) Appropriate handling of chemicals or substances that may be dangerous or
+harmful to the environment.
+  (f) Approval of applications for home occupations are valid until December 31 of the year
+following the year that the application was initially approved.  Prior to the expiration of the December 31
+approval date, the property owner or applicant who received t he approval shall provide the Director with
+written request for renewal of approval for the home occupation and written information.  The Director
+shall determine if the home occupation has been operated in compliance with the conditions of approval.
+Home occupations that continue to be operated in compliance with the conditions of approval will receive
+a two-year extension of the approval.  Home occupations for which a request for renewal of approval has
+not been received or which do not comply with the conditions of approval shall not be renewed by the
+Director.  The Director shall provide the applicant with written notice of a decision to not renew the
+approval in accordance with Type II notice of decision procedures of LC Chapter 14.  The applicant  may
+appeal the Director's decision to the Hearings Official in accordance with LC 14.080.
+ (4) Uses and Development Subject to Approval by the Director.  The uses and developments in
+LC 16.290(4)(a) through (s) and (u) below are allowed subject to: prior submittal and approval of a land
+use application pursuant to Type II procedures of LC Chapter 14 ; and compliance with the applicable
+requirements of LC 16.290(5) below and elsewhere in LC Chapter 16.
+  (a) Feeding, breeding and management of livestock, poultry, or fur bearing animals in
+excess of the standards in LC 16.290(2)(i) above.
+  (b) Not more than one group care home on a lot or parcel and in a dwelling, manufactured
+dwelling or duplex allowed by LC 16.290(2)(a) through (c) above.  A "group care home" is any home or
+institution maintained and operated for the care, boarding, housing or training of six or more physically,
+mentally or socially handicapped persons or delinquent or dependent persons by any person who is not the
+parent or guardian of and who is not related by blood, marriage or legal adoption to such persons.  The
+occupancy of the dwelling for a group care home shall comply with the requirements of the building code
+as defined in ORS 455.010(8) and administered in ORS 455.150 and .153.
+  (c) Not more than one nursing home on a lot or parcel and in a dwelling, manufactured
+dwelling or duplex allowed by LC 16.290(2)(a) through (c) above.  A "nursing home" is any home, place
+
+May 2026 16-757
+or institution which operates and maintains facilities providing convalescent or chronic care, or both, which
+exceeds that permitted for a residential home by LC 16.290(2)(f) above.  The occupancy of the dwelling
+for a nursing home shall comply with the requirements of the building code as defined in ORS 455.010(8)
+and administered in ORS 455.150 and .153.
+  (d) Telecommunication facilities, including towers, antennas, and ancillary facilities as
+allowed pursuant to LC 16.264.
+  (e) Radio and television transmission facilities.
+  (f) Dams, water storage facilities; power generation or transmission facilities; electric
+transmission lines which require a right-of-way of 25 feet in width or wider; canals, flumes and pipelines;
+flood control facilities and irrigation projects.
+  (g) An onsite sewage disposal system for a non -residential use on a nearby property in a
+rural zone.
+  (h) A replacement of a lawfully existing (per LC Chapter 16) dwelling, manufactured
+dwelling or duplex that relies on evidence of its lawfully existing nature other than required by LC
+16.290(2)(b) above, or a replacement dwelling, manufactured dwelling or duplex that shall comply with
+the following requirements:
+   (i) The dwelling, manufactured dwelling or duplex was removed or destroyed
+within 12 months of the date that the Director received the special use permit application for its replacement;
+   (ii) Prior to the removal of the dwelling, manufactured dwelling or duplex, it was a
+lawfully existing dwelling, manufactured dwelling or duplex; and
+   (iii) The replacement dwelling, manufactured dwelling or duplex shall be located on
+the same foundation footprint as the removed or destroyed dwelling, manufactured dwelling or duplex or
+shall be located in compliance with LC 16.290(7) below.
+  (i) Animal hospitals.  An "animal hospital" is a place where animals or pets are given
+medical or surgical treatment and the boarding of animals is limited to short term care incidental to hospital
+use.  The square foot floor area of an animal hospital shall not exceed 4,000 square feet for any parcel
+located in an unincorporated community or 3,000 square feet for any parcel located outside of an
+unincorporated community.
+  (j) Commercial breeding kennel or commercial kennel.  A "commercial breeding kennel"
+is a place of business for the breeding and/or selling of dogs.  A "commercial kennel" is a place of business
+where dogs are boarded.  No more than two dogs shall be used for breeding.  These terms are not intended
+to include an animal hospital or a noncommercial kennel.
+  (k) Campgrounds and camping vehicle parks.  A "campground" is an area designed for
+short-term recreational purposes and where facilities, except commercial activities such as grocery stores
+and laundromats, are provided to accommodate that use.  Space for ten ts, campers, recreational vehicles
+and motor homes are allowed and permanent open-air shelters (Adirondacks) may be provided on the site
+by the owner of the development.  A "camping vehicle park" is a development designed primarily for
+transient service on which travel trailers, pickup campers, tent trailers and self-propelled motorized vehicles
+are parked and used for the purpose of supplying to the public a temporary location while traveling,
+vacationing or recreating.  Campgrounds and camping vehicle parks:
+   (i) Shall be located at least:
+    (aa) 10 miles from the urban growth boundary of any city adjacent to Interstate
+Highway 5, or
+    (bb) 3 miles from any other urban growth boundary unless they are contiguous
+to or located on lands with an accessible park or other outdoor amenity; and
+   (ii) Shall not allow overnight temporary use in the same campground by a camper
+or camper's vehicle exceeding a total of 30 days during any consecutive 6 month period; and
+   (iii) Shall not exceed the carrying capacity of the soil or existing water supply
+resources or result in public health hazards or adverse environmental impacts that violate state or federal
+water quality regulations.
+
+May 2026 16-758
+  (l) Cemeteries.  A "cemetery" is land used or intended to be used for the burial of the dead
+and dedicated for cemetery purposes, including columbariums and mausoleums when operated in
+conjunction with and within the boundary of such cemetery but not including crematoriums or mortuaries,
+  (m) Churches.  A "church" is a building, together with its accessory buildings and uses,
+where persons regularly assemble for worship, and which building, together with its accessory buildings
+and uses, is maintained and controlled by a religious body organiz ed to sustain public worship.  A church
+does not include a school.
+  (n) Golf courses.
+  (o) Lodges and grange halls that:
+   (i) are owned by a governmental agency or a nonprofit community organization and
+operated primarily by and for residents of the local rural area; or
+   (ii) do not contain more than 4,000 square feet if located in an unincorporated
+community or not more than 3,000 square feet if located outside an unincorporated community.
+  (p) Parks, playgrounds, community centers.
+  (q) Public and private schools.  A "school" is a place or institution for learning and
+teaching in which regularly scheduled and suitable instruction meeting the standards of the Oregon State
+Board of education is provided.
+  (r) Storage facilities for boats and recreational vehicles.
+  (s) Uses and development similar to uses and development allowed by LC16.290(2) or (4)
+above if found by the Planning Director to be clearly similar to the uses and development allowed by LC
+16.290(2) through (4) above.  Such a finding shall be made by the Di rector and shall comply with the
+following criteria:
+   (i) The proposed use and development shall be consistent with the purpose in LC
+16.290(1).
+   (ii) When compared with the uses and development permitted by LC 16.290(2) or
+(4) above, the proposed use and development is similar to one or more of these uses and development.  A
+comparison shall include an analysis of the:
+    (aa) Goods or services traded from the site;
+    (bb) Bulk, size, and operating characteristics of the proposed use;
+    (cc) Parking demand, customer types and traffic generation; and
+    (dd) Intensity of land use of the site.
+   (iii) The proposed use and development shall not exceed the carrying capacity of the
+soil or of the existing water supply resources and sewer service.  To address this requirement, factual
+information shall be provided about any existing or proposed sewer or wa ter systems for the site and the
+site's ability to provide on-site sewage disposal and water supply if a community water or sewer system is
+not available.
+   (iv) The proposed use and development shall not result in public health hazards or
+adverse environmental impacts that violate state or federal water quality regulations.
+   (v) It shall be the applicant's responsibility to provide sufficient information to allow
+the Director to make the above determination.
+   (t) Transportation facilities and uses as specified in LC 16.265(3)(n) through (q).
+   (u) Stables, riding academies or commercial riding.
+ (5) Approval Criteria.  Uses and development in LC 16.290(4)(a) through (s) and (u) above,
+except for telecommunication facilities allowed in LC 16.290(4)(d) above, shall comply with the
+requirements in LC 16.290(5) below.  Telecommunications facilities allowed by LC 16.290(4)(d) above
+shall comply with the requirements in LC 16.264.
+  (a) Shall not create significant adverse impacts on existing uses on adjacent and nearby
+lands or on uses permitted by the zoning of adjacent or nearby undeveloped lands;
+  (b) Where necessary, measures are taken to minimize potential negative impacts on
+adjacent and nearby lands;
+
+May 2026 16-759
+  (c) The proposed use and development shall not exceed the carrying capacity of the soil
+or of the existing water supply resources and sewer service.  To address this requirement, factual
+information shall be provided about any existing or proposed sewer or wa ter systems for the site and the
+site's ability to provide on-site sewage disposal and water supply if a community water or sewer system is
+not available; and
+  (d) The proposed use and development shall not result in public health hazards or adverse
+environmental impacts that violate state or federal water quality regulations.
+ (6) Area.  The creation of new lots and parcels shall comply with LC Chapter 13 and with the
+following requirements:
+  (a) For RR zoned areas that are located inside developed and committed areas and outside
+the boundaries of areas designated by the RCP as unincorporated communities, the minimum area
+requirement for the creation of lots or parcels for residential purposes shall be 2, 5 or 10 acres as indicated
+by the Lane County Zoning Maps; provided, however, that the minimum area requirement for the creation
+of lots or parcels for residential purposes on land zoned RR -1 shall be two acres as long as required by
+LCDC rules.  An exception to this area requirement may be made pursuant to LC 16.290(6)(c) below.
+  (b) For RR zoned areas that are located inside the boundaries of areas designated by the
+RCP as unincorporated communities, the minimum area requirement for the creation of lots or parcels for
+residential purposes shall be 1, 2, 5 acres, or one acre additions to these acre minimums as required by the
+Lane County Zoning Maps.  An exception to this area requirement may be pursuant to LC 16.290(6)(c)
+below.
+  (c) The creation of new parcels smaller than the minimum area required by LC
+16.290(6)(a) and (b) above may be allowed if all of these conditions exist:
+   (i) The parcel to be divided contains less than the minimum area needed by LC
+16.290(6)(a) or (b) above to divide it and, after October 4, 2000, was not reduced in area by a boundary
+line adjustment to below the area needed to divide it;
+   (ii) The parcel to be divided has two or more lawful (not in violation of LC Chapter
+16) and permanent habitable dwellings or manufactured dwellings or duplexes on it;
+   (iii) The permanent habitable dwellings, manufactured dwellings on the parcel were
+established before October 4, 2000;
+   (iv) Each new parcel created by the partition would have at least one of those
+permanent habitable dwellings or manufactured dwellings on it;
+   (v) The partition would not create any vacant parcels where a new dwelling or
+manufactured dwelling could be established; and
+   (vi) "Habitable dwelling" means a dwelling, that:
+    (aa) Has intact exterior walls and roof structure;
+    (bb) Has indoor plumbing consisting of a kitchen sink, toilet and bathing
+facilities connected to a sanitary waste disposal system;
+    (cc) Has interior wiring for interior lights; and
+    (dd) Has a heating system.
+ (7) Property Development Standards .  All uses or development permitted by LC 16.290(2)
+through (4) above, except as may be provided therein, shall comply with the following development
+standards:
+  (a) Property Line Setbacks.  Structures other than a fence or sign shall be located:
+   (i) At least 20 feet from the right- of-way of a State road, County road or a local
+access public road specified in LC Chapter 15;
+   (ii) At least 10 feet from all other property lines; and
+   (ii) Notwithstanding LC 16.290(7)(a)(ii) above, a structure that contains less  than
+120 square feet of floor area and that is located more than 10 feet from other structures may be located in
+the 10 foot setback otherwise required by LC 16.290(7)(a)(ii) above  provided it complies with LC
+16.290(7)(d) below.
+
+May 2026 16-760
+  (b) The setback for property lines other than front -yard shall be five feet, except as
+provided below, for any lot or parcel containing less than 1 acre and created prior to March 30, 1984.
+  (c) For mobile homes to be located in lawfully existing mobile home parks, the setbacks
+from a projected or existing right -of-way of a County or local -access public road shall be the same as
+required above, and lesser setbacks from all other mobile home lot lines are permitted if in compliance with
+Oregon Administrative Rules, Chapters 918-600 =.
+  (d) Riparian Setback Area.  Except for property located between the Eugene -Springfield
+Metropolitan Area General Plan Boundary and the Eugene and Springfield Urban Growth Boundaries,
+where setbacks are provided for in LC 16.253(9), the riparian setback area shall be the area between a line
+50 feet above and parallel to the ordinary high water of a Class I stream designated for riparian vegetation
+protection in the Rural Comprehensive Plan.  No structure other than a fence shall be located closer than
+50 feet from the ordinary high water of a Class I stream designated for riparian vegetation protection by the
+Rural Comprehensive Plan.  Alternative standards to permit a structure in the riparian setback area may be
+allowed provided the requirements of LC 16.253(6) or LC 16.253(9), as applicable, are met.
+  (e) Maintenance, Removal and Replacement of Indigenous Vegetation within the Riparian
+Setback Area.  Maintenance, removal and replacement of indigenous vegetation within the riparian setback
+area designated for riparian vegetation protection by the comprehens ive plan must comply with the
+provisions of LC 16.253(5) or LC 16.253(9), as applicable.
+  (f) Height.  None.
+  (g) Signs.
+   (i) Signs shall not extend over a public right-of-way or project beyond the property
+line.
+   (ii) Signs shall not be illuminated or capable of movement
+   (iii) Signs shall be limited to 200 square feet in area.
+  (h) Parking.  Off street parking shall be provided in accordance with LC 16.250.
+ (8) Rural Accessory Dwelling Units.
+  (a) Purpose. The provisions of this section are intended to implement state law authorizing
+the development of accessory dwelling units (ADUs) to provide additional housing opportunities on rural
+lands and to encourage the preservation of historic housing stock.
+  (b) Definitions. For the purposes of LC 16.290(8), unless otherwise specifically provided,
+certain words, terms, and phrases are defined as follows:
+   (i) “Accessory dwelling unit” (ADU) means a residential structure that is used in
+connection with or that is auxiliary to a single-family dwelling.
+   (ii) “Area zoned for rural residential use” means lands that are zoned Rural
+Residential (RR, RCP), not located inside an urban growth boundary as defined in ORS 195.060, and that
+are subject to an acknowledged exception to a statewide land use planning goal r elating to farmland or
+forestland and planned and zoned by the county to allow residential use as a primary use.
+   (iii) “Historic home” means a single-family dwelling constructed between 1850 and
+1945.
+   (iv) “New” means that the dwelling being constructed did not previously exist in
+residential or nonresidential form. “New” does not include the acquisition, alteration, renovation or
+remodeling of an existing structure.
+   (v) “Single-family dwelling” means a residential structure designated as a residence
+for one family and sharing no common wall with another residence of any type.
+   (vi) “Usable floor area” means the area included within the surrounding insulated
+exterior walls of a structure, exclusive of attached garages, carports, decks, stairs, porch covers, or similar
+appurtenances.
+   (vii) “Vacation occupancy” means occupancy in a dwelling unit, not including
+transient occupancy in a hotel or motel, that has all of the following characteristics:
+    (aa) The occupant rents the unit for vacation purposes only, not as a principal
+residence;
+
+May 2026 16-761
+    (bb) The occupant has a principal residence other than at the unit; and
+    (cc) The period of authorized occupancy does not exceed 45 days.
+  (c) Criteria for ADUs. A lot or parcel may qualify for one (1) ADU pursuant to the criteria
+under either subsection (xi) or (xii) below and provided:
+   (i) The lot or parcel is at least two acres in size;
+   (ii) At least one single-family dwelling is sited on the lot or parcel;
+   (iii) The lot or parcel is not located within an urban reserve area, consistent with ORS
+195.137;
+   (iv) The ADU complies with all applicable laws and regulations relating to sanitation
+and wastewater disposal and treatment; and,
+   (v) The ADU must comply with the property development standards of LC
+16.290(7).
+   (vi) A subdivision, partition or other division of the lot or parcel so that the existing
+single-family dwelling is situated on a different lot or parcel than the ADU may not be approved.
+   (vii) Only one ADU as defined by LC 16.290(8)(b)(i) and allowed by LC
+16.290(2)(v) is allowed on a qualifying lot or parcel.
+   (viii) ADUs may be allowed subject to submittal of a Type I application pursuant to
+the procedures of LC Chapter 14.
+   (ix) The provisions of LC 16.290(8) do not apply to guest houses or accessory
+residential structures, as allowed by LC 16.290(2)(u).
+   (x) ADUs located on lots or parcels within the boundaries of an area designated by
+the Rural Comprehensive Plan as being an unincorporated community must have an adequate supply of
+water. If the lot or parcel is served by an individual water supply system, the system must meet the standards
+of Lane Manual 9.005.160, or if served by a public or community water system, the applicant must submit
+evidence that the service agency is mutually bound and able to serve the development.
+   (xi) An ADU in the rural residential zone is allowed subject to LC 16.290(8)(c)(i)
+through (x) and must meet all of the following standards:
+    (aa) The ADU will be located no farther than 100 feet from the existing single-
+family dwelling, measured from a wall of the single-family dwelling to the nearest part of the usable floor
+area of the ADU.
+    (bb) The ADU will not include more than 900 square feet of usable floor area
+as defined by LC 16.290(8)(b)(vi).
+    (cc) The existing single-family dwelling on the lot or parcel is not subject to an
+order declaring it a nuisance or subject to any pending action under ORS 105.550 to 105.600.
+    (dd) The lot or parcel on which the ADU is located is served by a fire protection
+district that complies with ORS 181A.410.
+    (ee) The applicant provides written certification from the applicable fire
+district, on a form prepared by Lane County, that access to the property meets minimum fire district
+requirements to provide emergency services to the property.
+    (ff) The applicant provides an evacuation plan that arranges for safe
+evacuation and identifies staged evacuation areas. As used in this section, “safe evacuation” means an
+identified route for evacuation from the ADU to the staged evacuation area. “Staged evacuation area” means
+a public or private location that occupants of the ADU may evacuate to.
+     (A) The applicant must provide written authorization from the owner of
+the staged evacuation area that the occupants of the ADU may evacuate to that location.
+     (B) A determination by the County that an evacuation plan meets the
+requirements of LC 16.290(8)(c)(xi)(ff) above is not a certification that the plan provides for safe
+evacuation and is not a certification of the safety of the identified staged evacuation areas. The County does
+not warrant or guarantee the effectiveness of any proposed evacuation plan and cannot be held liable in the
+event of property damage, injury, or death that may occur when an evacuation plan is used or followed.
+
+May 2026 16-762
+    (gg) No portion of the lot or parcel is within a designated area of critical state
+concern as defined in Oregon Administrative Rule 660-043.
+    (hh) If the water supply source for the ADU or associated lands or gardens will
+be a well using water under ORS 537.545 (1)(b) or (d), no portion of the lot or parcel is within an area in
+which new or existing ground water uses under ORS 537.545 (1)(b) or (d) have been restricted by the Water
+Resources Commission.
+    (ii) The applicant signs and records a restrictive covenant with Lane County
+Deeds and Records stating that the ADU allowed under this section will not be used for vacation occupancy,
+as defined by LC 16.290(8)(b)(vii).
+    (jj) An existing single-family dwelling and an ADU allowed under this section
+are considered a single unit for the purposes of calculating exemptions under ORS 537.545(1).
+    (kk) The accessory dwelling unit complies with the construction provisions of
+section R327 of the Oregon Residential Specialty Code, if:
+     (A) The lot or parcel is in an area identified as a high wildfire hazard
+zone on the statewide wildfire hazard map described in ORS 477.490; or
+     (B)  No statewide wildfire hazard map has been adopted.
+    (ll) If the lot or parcel is in an area identified on the statewide wildfire hazard
+map described in ORS 477.490 as within the wildland urban interface, the lot or parcel and ADU must
+comply with the defensible space requirements for wildfire risk reducti on established by the State Fire
+Marshal under ORS 476.392 and any applicable local requirements for defensible space established by the
+local government pursuant to ORS 476.392.
+   (xii) Conversion of a historic home to an ADU in the rural residential zone is allowed
+subject to LC 16.290(8)(c)(i) through (x) and provided:
+    (aa) The owner of a lot or parcel within an area zoned for rural residential use
+constructs a new single-family dwelling;
+    (bb) A historic home, as defined by LC 16.290(8)(b)(iii), is sited on the lot or
+parcel;
+    (cc) The owner converts the historic home to an ADU upon completion of the
+new single-family dwelling; and,
+    (dd) ADUs established pursuant to LC 16.290(8)(c)(xii) may not be:
+     (A) Altered, renovated, or remodeled so that the usable floor area of the
+ADU is more than 120 percent of the historic home’s usable floor area at the time construction of the new
+single-family dwelling commenced.
+     (B) Rebuilt if the structure is deemed a dangerous building due to fire,
+pursuant to the Uniform Code for the Abatement of Dangerous Buildings, which defines “dangerous
+building” as “Whenever any portion thereof has been damaged by fire, earthquake, wind, flood or by any
+other cause, to such an extent that the structural strength or stability thereof is materially less than it was
+before such catastrophe and is less than the minimum requirements of the Building Code for new buildings
+of similar structure, purpose or location.”  The applicant must sign and record with Lane County Deeds and
+Records a restrictive covenant stating that an ADU allowed under this section cannot be rebuilt if deemed
+a dangerous building as described in this section.
+(Revised by Ordinance No. 6-02, Effective 5.16.02; 10-04, 6.4.04; 5-
+04, 7.1.04; 6-10, 9.18.10; 7-12, 12.28.12; 14-09, 12.16.14; 15-03, 04.17.15; 20-05, 6.16.20; 23-05, 8.29.23)
+
+ (9) Rental Recreational Vehicles.
+  (a) Purpose. The provisions of this section are intended to implement state law by allowing
+a recreational vehicle (RV) on rural residential lands to be used as a residential dwelling subject to a
+residential rental agreement.
+  (b) Definitions. For the purposes of LC 16.290(9), unless otherwise specifically provided,
+certain words, terms, and phrases are defined as follows:
+
+May 2026 16-763
+   (i) “Recreational vehicle” means a vehicle with or without motive power that has
+not been rendered structurally immobile, is used for human occupancy, is titled with the Department of
+Transportation, and satisfies OAR 735-022-0140(7)(a), (b), (c), or (d).
+  (c) Criteria for Rental Recreational Vehicles.
+   (i) To qualify for a recreational vehicle as a rental dwelling on a lot or parcel, the
+following criteria must be met:
+     (aa) The lot or parcel is not located within an urban reserve area, consistent
+with ORS 195.137;
+    (bb) The lot or parcel is developed with a lawfully established single family
+dwelling that is occupied as the primary residence of the property owner;
+    (cc) There are no other dwelling units on the lot or parcel, including temporary
+medical hardship dwellings, and no portion of the single family dwelling is rented as a residential tenancy;
+    (dd) The recreational vehicle may not be located in the regulatory floodplain,
+as defined in Lane Code 16.244;
+    (ee) The lot or parcel is not subject to an open code enforcement action, unless
+the code infraction can be remedied through the approval of a recreational vehicle permit pursuant to this
+section; and
+    (ff) If the lot or parcel is within the boundaries of an area designated by the
+Rural Comprehensive Plan as being an unincorporated community, the applicant must demonstrate
+adequate supply of water to support the recreational vehicle. If the lot or parcel is served by an individual
+water supply system, the system must meet the standards of Lane Manual 9.005.160, or if served by a public
+or community water system, the applicant must submit evidence that the service agency is mutually bound
+and able to serve the development.
+   (ii) Prior to establishing a recreational vehicle as a rental dwelling on a lot or parcel,
+the property owner must demonstrate compliance with the following standards:
+    (aa) The property owner must sign and record a restrictive covenant with Lane
+County Deeds and Records stating that the rental recreational vehicle allowed under this section will not be
+used for vacation occupancy, as defined by LC 16.290(8)(b)(vii), or other short-term uses;
+    (bb) The recreational vehicle is owned or leased by the tenant throughout the
+entire term of the tenancy;
+    (cc) The recreational vehicle must be fully licensed and ready for highway use,
+on its wheels or jacking system, attached to the site only by quick disconnect type utilities and security
+devices, and must have no permanently attached additions;
+    (dd) The property owner must enter into a written residential rental agreement
+with the tenant of the recreational vehicle and must be valid throughout the entire term of the tenancy;
+    (ee) The property owner must provide services to the recreational vehicle space
+including:
+     (A) Sewage disposal, water supply, electrical supply, and if required by
+applicable law, any drainage system; and
+     (B) Any other service or habitability obligation imposed by the rental
+agreement and ORS 90.730 (Landlord duty to maintain rented space, vacant spaces and common areas in a
+habitable condition), the lack or violation of which creates a serious threat to the t enant’s health, safety or
+property or makes the rented space unfit for occupancy.
+     (C) The recreational vehicle must contain an operable toilet and sink, or
+the property owner must provide these facilities to the tenant and the facilities must be accessible to the
+tenant at all times.
+     (D) The property owner must obtain any necessary permits for the
+installation of services and adhere to any applicable codes.
+    (ff) The property owner must provide a parking pad for the recreational vehicle
+with a surface material of compacted gravel, concrete or asphalt, and the surface must be sloped to facilitate
+drainage of liquids away from the recreational vehicle;
+16.291 Lane Code 16.291
+
+May 2026 16-764
+    (gg) If the recreational vehicle will be located within a structure, the structure
+must be entirely open on at least two sides;
+    (hh)The recreational vehicle must be setback 10 feet from the single family
+dwelling and other structures on the lot or parcel;
+    (ii) The recreational vehicle must be setback at least 30 feet from properties
+zoned F-1, F-2 or EFU; and
+    (jj) The property owner may provide residential accessory structures and uses
+for use by the tenant of the recreational vehicle as permitted by Lane Code 16.290(2)(t).  (Ordinance No. 25.01,
+Effective 2.27.2025; 25-07. 5.5.26)
+
+RURAL COMMERCIAL ZONE (RC, RCP)
+RURAL COMPREHENSIVE PLAN
+
+16.291 Rural Commercial Zone (RC, RCP).
+ (1) Purpose.  The purposes of the Rural Commercial Zone (RC, RCP) are: to implement the
+policies of the Lane County Rural Comprehensive Plan (RCP), to allow commercial uses and development
+that are consistent with Goal 14 and that are for the retail trade of products or services needed by rural
+residents or by persons traveling through the rural area, and to provide protective measures for riparian
+vegetation along Class I streams designated as significant in the Rural Comprehensive Plan.  LC 16.291 is
+not retroactive.  The Director has no authority to initiate compliance with LC 16.291 for lawfully (per LC
+Chapter 16) existing uses.
+ (2) Permitted Uses and Development .  The uses and development in LC 16.291(2)(a) through
+(k) below are allowed subject to compliance with the general provisions and exceptions specified by this
+chapter of Lane Code and shall not be subject to compliance with the Site Review Procedures in LC 16.257.
+  (a) Maintenance, repair or replacement of lawfully (per LC Chapter 16) existing uses and
+development not authorized elsewhere by LC 16.291.
+  (b) The uses and development allowed by LC 16.291(3)(a) through (w) , (y) through (z),
+(a-a), (ee), (ff), and (gg) below with approval of a special use permit are otherwise allowed without approval
+of a special use permit if they comply with these conditions:
+   (i) The use and development shall not change the number, size or location of
+existing commercial structures on the subject property, shall comply with the setback requirements of LC
+16.291(6)(a) through (b) below, and shall not extend the commercial uses and development beyond the area
+of the existing commercial uses and development.  The area of the existing commercial uses and
+development shall include all existing structures and outside areas used for the commercial use such as
+private drives, off street parking and loading areas, and outside storage areas; or
+   (ii) The use and development shall be a minor addition to a commercial structure
+that does not exceed 25 percent of the floor area of the structure that existed on the date that LC 16.291 was
+applied to the subject property and shall not be closer to a property line than the closest portion of existing
+commercial structures meeting the setbacks required by LC 16.291(6)(a) through (b) below.  To verify
+compliance with these standards, the applicant shall submit to the Director an administrative applicatio n
+for verification of compliance and the Director shall determine if the addition to a commercial structure
+complies with these standards; or
+   (iii) The use and development shall be located at least 200 feet from all exterior
+boundaries of the subject property and shall meet the setbacks required by LC 16.291(6)(a) through (b)
+below; or
+   (iv) The proposed development is a sign that complies with LC 16.291(6)(d) below,
+and is located on the wall of an existing building or is located outside the structural setback areas designated
+by LC Chapters 15 and 16.
+   (v) Structures permitted by LC 16.291(2)(b)(ii) and (iii) above shall comply with
+the floor area and lot or parcel coverage requirements of LC 16.291(4)(a) below.
+16.291 Lane Code 16.291
+
+May 2026 16-765
+  (c) Public and semi -public structures and uses rendering direct service to the public in
+local areas such as utility substations, wells, underground utility lines that do not require a right -of way
+more than 25 feet in width.  For utility substations or buildings that are located within 100 feet of the
+boundaries of RR zoned property, native landscaping shall be provided between the utility substations or
+buildings and abutting RR zoned property to screen the utility substations or buildings from the view of the
+RR zoned property.  Landscaping required by LC 16.291(2)(c) above shall be maintained.
+  (d) No more than eight dogs over six months in age on any tract subject to compliance
+with the following conditions:
+   (i) No more than two dogs shall be used for breeding.
+   (ii) The tract where the dogs are located shall not be used as a place of business
+where dogs are boarded, or where dogs are breed or sold, or where dogs receive medical care.
+  (e) Fish and wildlife habitat management.
+  (f) A single family living quarters for a caretaker that meets the following conditions:
+   (i) The single family living quarters shall be for a caretaker in conjunction with an
+existing commercial use permitted by LC 16.291(2)(a) through (b) above or (3)(a) through (w), (a-a) or (b-
+b) below and located on the same lot or parcel as the existing commercial use;
+   (ii) There shall not be any other living quarters or dwellings on the lot or parcel
+where the single family living quarters for the caretaker will be located; and
+   (iii) The living quarters shall be located in an existing structure or in an addition to
+an existing structure.  Any required building permits and certificates of occupancy shall be obtained prior
+to use of the structure as a single family living quarters.
+  (g) A single family dwelling or manufactured dwelling in conjunction with an existing
+commercial use provided there is no other dwelling or single family living quarters on the same lot or
+parcel.
+  (h) Transportation facilities and uses as specified in LC 16.265(3)(a) through (m).
+  (i) Not more than one bed and breakfast accommodation on a lot or parcel and in a
+lawfully existing dwelling or manufactured dwelling.  A bed and breakfast accommodation shall have no
+more than five sleeping rooms provided on a daily or weekly period, not to exceed 29 consecutive days, for
+the use of travelers or transients for a charge or fee.  Provision of a morning meal is customary as implied
+by title.
+  (j) Not more than one residential home on a lot or parcel and in a lawfully existing
+dwelling or manufactured dwelling.  "Residential home" means a residential treatment or training or an
+adult foster home licensed by or under the authority of the Department of Human Resources (DHR) under
+ORS 443.400 through 443.825, a residential facility registered under ORS 443.480 to 443.500 or an adult
+foster home licensed under ORS 443.705 to 443.825 which provides residential care alone or in conjunction
+with treatment or training, or a combination thereof, for five or fewer individuals who need not be related.
+Staff persons required to meet DHR licensing requirements shall not be counted in the number of facility
+residents, and need not be related to each other or to any resident of the home.
+  (k) Uses and development accessory to existing uses and development permitted by LC
+16.291(2)(a) through (j) above or (3)(a) through (c-c) below.
+ (3) Uses and Development Subject to Approval by the Director .  The uses and development in
+LC 16.291(3)(a) through (t), and (v) and (z) below not meeting the conditions in LC 16.291(2)(b) above,
+and the uses and development in LC 16.291(3)(w) through (y) and (a -a) through (b- b) below, may be
+allowed subject to: prior submittal and approval of a land use application pursuant to Type II procedures of
+LC Chapter 14; and compliance with the applicable land use requirements of LC 16.291(4)(a) through (j)
+below and elsewhere in LC Chapter 16.  The uses and development in LC 16.291(3)(u) and (c -c) below,
+may be allowed subject to: prior submittal and approval of a land use application pursuant to Type II
+procedures of LC Chapter 14; and compliance with the applicable land use requirements elsewhere in LC
+Chapter 16.
+  (a) Retail trade of products, including: food, new general merchandise, second- hand
+general merchandise in an enclosed building; and building materials, hardware or farm equipment.
+16.291 Lane Code 16.291
+
+May 2026 16-766
+  (b) Retail trade of hay, grains or goods for animal consumption or care.
+  (c) Retail trade of services, including: personal, finance, insurance, banking, real estate,
+professional, and the construction trades including but not limited to general contracting, carpentry,
+cabinetmaking, electrical, plumbing, and landscaping.
+  (d) Restaurants.
+  (e) Bars, nightclubs, taverns or brewpubs.
+  (f) Civic, social and fraternal meeting places, and educational facilities and services such
+as: nursery, primary and secondary education and special training schools such as those for vocations,
+trades, arts, music, dancing, driving, gymnastics and correspondence.
+  (g) Medical or veterinarian clinic.
+  (h) Service stations and auto repair garages.
+  (i) Bus passenger terminals.
+  (j) Boat charter and rental, including fishing equipment.
+  (k) Outdoor tourist attractions featuring displays of educational or historical value.
+  (l) Day camp and picnic areas.
+  (m) Indoor or outdoor recreational activities, including tennis courts, ice skating, roller
+skating and roller blading, riding stables, bowling, skiing, snowboarding and tobogganing, play lots or tot
+lots, playgrounds, game rooms, gymnasium, swimming pools, etc.
+  (n) Indoor or outdoor theaters.
+  (o) Post Office facilities.
+  (p) Equipment rental and leasing service.
+  (q) Recreational vehicle or boat storage, sales, repair and subordinate boat building that
+comprises less building floor area than used for boat sales or rentals.
+  (r) Marina.
+  (s) Outdoor car or truck sales lots, indoor truck or auto repair, and not including the
+outdoor storage of inoperable vehicles.
+  (t) A commercial kennel or a commercial breeding kennel.  A "commercial kennel" is a
+place of business where dogs are boarded.  No more than two dogs shall be used for breeding.  A
+"commercial breeding kennel" is a place of business for the breeding and/or selling of dogs.
+  (u) New motels or hotels with up to 35 units within an unincorporated rural community
+designated in the Rural Comprehensive Plan, or new motels or hotels with up to 100 units within an urban
+unincorporated community designated in the Rural Comprehensive Plan, that meet the following
+conditions:
+   (i) They are located at least 10 miles from the urban growth boundary of any city
+adjacent to Interstate Highway 5; and
+   (ii) They are served by a "community sewer system" that means, "A sewage disposal
+system with connections to at least 15 permanent dwelling units, including manufactured homes, within the
+unincorporated community."
+  (v) A recreation vehicle park that may include individual electrical, water and sanitation
+disposal system hookups.  A sanitation disposal system approved by DEQ or a centralized, pump-out vault
+may be provided for off -loading in compliance with ORS.  The sta y limit for a recreational vehicle shall
+not exceed 29 consecutive days or more than 90 days in any calendar year or consecutive six-month period.
+  (w) Communication facilities including but not limited to those for radio, television,
+computers, or satellites.
+  (x) Telecommunication facilities, including towers, antennas, and ancillary facilities as
+allowed pursuant to LC 16.264.
+  (y) Electric transmission lines that require a combined right- of-way of more than 25 feet
+in width.
+  (z) Overnight accommodations that shall:
+   (i) Have no more than 15 guest rooms in a single structure.  Food preparation and
+service in a centralized kitchen may be provided for guests only.
+16.291 Lane Code 16.291
+
+May 2026 16-767
+   (ii) Have only minor incidental and accessory retail sales;
+   (iii) Be occupied only temporarily for the purpose:
+    (aa) Of fishing during fishing seasons authorized by the Oregon Fish and
+Wildlife Commission if located within ¼ mile of fish bearing Class I waters, or
+    (bb) Of hunting during game bird and big game hunting seasons authorized by
+the Oregon Fish and wildlife Commission; and
+   (iv) The Approval Authority may impose appropriate conditions.
+  (a-a) A short term stay facility for the homeless or transients that may include the provision
+of food and clothing for those staying in or visiting the facility provided the facility shall:
+   (i) Be operated by a nonprofit organization or public agency;
+   (ii) Contain no more than five bedrooms or sleeping rooms; and
+   (iii) Limit the stay for any individual to no more than 29 consecutive days.
+  (b-b) Uses and development similar to uses and development allowed by LC16.291(3)(a)
+through (a-a) above if found by the Director to be clearly similar to the uses and development allowed by
+LC 16.291(3)(a) through (a-a) above.  Such a finding shall be made by the Director, and shall comply with
+the following criteria:
+   (i) The use and development shall be consistent with the purpose in LC 16.291(1)
+above.
+   (ii) When compared with the uses and development permitted by LC 16.291(3)(a)
+through (a-a) above, the use and development shall be similar to one or more of these uses and development.
+A comparison shall include an analysis of the:
+    (aa) Goods or services traded from the site;
+    (bb) Bulk, size, and operating characteristics of the proposed use and
+development;
+    (cc) Parking demand, customer types and traffic generation; and
+    (dd) Intensity of land use of the site.
+   (iii) The use and development shall not exceed the carrying capacity of the soil or of
+existing water supply resources and sewer services.  Factual information shall be provided about any
+existing or proposed sewer or water systems for the site and the site's a bility to provide on site sewage
+disposal and water supply if a community sewer or water system is not available.
+   (iv) The use and development shall not result in public health hazards or adverse
+environmental impacts that violate state or federal water quality regulations.
+   (v) The use and development shall not include factories, warehouses, freight
+terminals, or wholesale distribution centers.
+   (vi) The use and development shall comply with LC 16.291(4)(a) through (h) below.
+   (vii) It shall be the applicant's responsibility to provide sufficient information to allow
+the Director to make the above determination.
+  (c-c) An expansion of a lawfully existing commercial use that shall:
+   (i) Not result in more than a 50% increase in the total square foot floor area devoted
+to the commercial use that existed on the subject lot or parcel when LC 16.291 became applicable to the
+subject lot or parcel; or
+   (ii) Not result in more than a 50% increase in the number of temporary overnight
+accommodations that existed on the subject lot or parcel when LC 16.291 became applicable to the subject
+lot or parcel; and
+   (iii) Be used primarily by rural residents and/or tourists.
+  (d-d) Transportation facilities and uses as specified in LC 16.265(3)(n) through (q).
+(ee) Marijuana production, subject to Lane Code 16.420.  Only the Tier 1 level of
+production, as licensed by the OLCC is allowed.  Only indoor marijuana production, as defined by state
+law and regulated by OLCC is allowed.
+(ff) Marijuana retail sales, subject to Lane Code 16.420.
+(gg) Marijuana laboratory operations, subject to Lane Code 16.420.
+16.291 Lane Code 16.291
+
+May 2026 16-768
+(hh) Marijuana processing, subject to Lane Code 16.420.
+ (4) Criteria.  New uses or development allowed by LC 16.291(3)(a) through (t), (v) through (w),
+(z), and (a-a) through (b-b), and (e-e) through (h-h) above, shall comply with the criteria in LC 16.291(4)
+below.  Telecommunications facilities allowed by LC 16.291(3)(x) above shall comply with the
+requirements in LC 16.264.
+  (a) Floor Area and Lot or Parcel Coverage.  If located in an area designated by the RCP
+as an unincorporated community, no one commercial building or combination of commercial buildings on
+a lot or parcel within an urban unincorporated community shall contain more than 8,000 square feet of floor
+area for the same commercial use; or, no one commercial building or combination of commercial buildings
+on a lot or parcel in any other type of unincorporated community shall contain more than 4,000 square feet
+of floor area for the same commercial use unless the conditions in LC 16.291(4)(a) below are met.  If not
+located in an area designated by the RCP as an unincorporated community, no commercial building or
+combination of commercial buildings on a lot or parce l shall contain more than 3,500 square feet of floor
+area for the same commercial use unless the commercial building is used as a country store (a building used
+primarily for the retail sale of groceries but containing at least 750 square feet of floor are a used for other
+permitted commercial uses).  A country store located outside an area designated by the RCP as an
+unincorporated community may contain a maximum of 3,750 square feet of floor area.  An exception to the
+8,000, 4,000 or 3,500 commercial build ing square feet floor area requirement in LC 16.291(4)(a) above
+may be allowed if it complies with these requirements:
+   (i) The exception shall be adopted by ordinance as part of an amendment to the RCP
+for a specific lot or parcel.
+   (ii) The exception shall be for an expansion of up to 50% of the existing square feet
+building floor area used for commercial uses.
+   (iii) The existing and proposed commercial uses shall:
+    (aa) Provide goods and services to primarily rural residents or persons traveling
+through the area;
+    (bb) Notwithstanding the small-scale commercial building floor area limits in
+OAR 660-022-0030(10), comply with OAR 660- 022 (for commercial uses located inside unincorporated
+communities) or with the Statewide Planning Goals (for commercial uses located outsid e unincorporated
+communities); and
+    (cc) Fit within the uses allowed by LC 16.291(2) and/or (3) above.
+   (iv) No more than one exception pursuant to LC 16.291(4)(a) shall be allowed for
+the same lot or parcel.
+  (b) The location, design, size, shape and arrangement of the uses and structures shall be
+sufficient for the proposed intent and compatible with the surrounding vicinity.
+  (c) The quantity, location, height and materials of walls, fences, hedges, screen planting
+and landscape areas shall serve their intended purpose and shall minimize any adverse effect on existing or
+contemplated abutting land use.
+  (d) Suitable planting of ground cover or other surfacing shall be provided to prevent
+erosion and reduce dust, and suitable methods shall be provided for the continued maintenance of the
+planting or surfacing.
+  (e) The location, design and size of the uses shall be such that the residents or
+establishments to be accommodated will be adequately served by community facilities and services or by
+other facilities suitable for the intend uses.
+  (f) Based on anticipated traffic generation, adequate additional right -of-way and road
+improvements shall be provided by the development in order to address any traffic safety or congestion
+concerns created by the development.  Consideration shall be given to the need and feasibility of widening
+and improving abutting streets to specifications of LC Chapter 15, "Roads," and also to the necessity for
+such additional requirements as lighting, sidewalks and turn and deceleration/acceleration lanes.
+16.291 Lane Code 16.291
+
+May 2026 16-769
+  (g) There shall be a safe and efficient circulation pattern within the boundaries of the
+development.  Consideration shall include the layout of the site with respect to the location and dimensions
+of vehicular and pedestrian entrances, exits, drives, walkways, buildings and other related facilities.
+  (h) There shall be adequate off street parking and loading/unloading facilities provided in
+a safe and efficient manner.  Consideration shall include the layout of the parking and loading/unloading
+facilities, and their surfacing, lighting and landscaping.
+  (i) Hazards and Impacts.  The proposed use and development shall not result in public
+health hazards or adverse environmental impacts that violate state or federal water quality regulations.
+  (j) The proposed use and development shall not exceed the carrying capacity of the soil
+or of the existing water supply resources and sewer service.  To address this requirement, factual
+information shall be provided about any existing or proposed sewer or wa ter systems for the site and the
+site's ability to provide on-site sewage disposal and water supply if a community water or sewer system is
+not available.
+ (5) Area.  No minimum is established, except what is necessary to accommodate any necessary
+sewerage and potable water concerns.  Divisions shall comply with LC Chapter 13.
+ (6) Property Development Standards.  All uses and development permitted by LC 16.291(2) and
+(3) above shall comply with these development standards:
+  (a) Property Line Setbacks.  Structures other than a fence or sign shall be located:
+   (i) At least 20 feet from the right- of-way of a State road, County road or a local
+access public road specified in LC Chapter 15; and
+   (ii) At least 10 feet from all other property lines except as required in LC
+16.291(6)(b) and (c) below.
+  (b) Riparian Setback Area.  Except for property located between the Eugene -Springfield
+Metropolitan Area General Plan Boundary and the Eugene and Springfield Urban Growth Boundaries,
+where setbacks are provided for in LC 16.253(9), the riparian setback area shall be the area between a line
+50 feet above and parallel to the ordinary high water of a Class I stream designated for riparian vegetation
+protection in the Rural Comprehensive Plan.  No structure other than a fence shall be located closer than
+50 feet from the ordinary high water of a Class I stream designated for riparian vegetation protection by the
+Rural Comprehensive Plan.  Alternative standards to permit a structure in the riparian setback area may be
+allowed provided the requirements of LC 16.253(6) or LC 16.253(9), as applicable, are met.
+  (c) Maintenance, Removal and Replacement of Indigenous Vegetation within the Riparian
+Setback Area.  Maintenance, removal and replacement of indigenous vegetation within the riparian setback
+area designated for riparian vegetation protection by the comprehens ive plan must comply with the
+provisions of LC 16.253(5) or LC 16.253(9), as applicable.
+  (d) Signs.
+   (i) Signs shall not extend over a public right-of-way or project beyond the property
+line.
+   (ii) Signs may be illuminated but shall not be flashing or capable of movement.
+   (iii) Signs shall be limited to 100 square feet.
+   (iv) Signs shall not project above the height of the tallest structure on the property.
+  (e) Parking.  Off street parking shall be provided in accordance with LC 16.250.
+ (Revised by
+Ordinance No. 6- 02, Effective 5.16.02; 10- 04, 6.4.04; 11-04, 6.11.04; 5-04, 7.1.04; 7-12, 12.28.12; 15- 08, 12.15.15; 16-01,
+2.25.16; 20-05, 6.16.20; 25-07. 5.5.26)
+
+THIS SPACE INTENTIONALLY LEFT BLANK
+
+16.291 Lane Code 16.291
+
+May 2026 16-770
+
+PAGES 16-769 THROUGH 16-860
+ARE RESERVED FOR FUTURE EXPANSION

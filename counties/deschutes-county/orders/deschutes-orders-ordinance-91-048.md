@@ -1,0 +1,139 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-91-048
+title: 'Ordinance No. 91-048'
+doc_type: ordinance
+citation: 'Ordinance No. 91-048'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616692088_1992-00469-Ordinance%20No.%2091-048%20Recorded%2012_23_1991.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d6f512901754c8948ea93ebd67ef95a4293c7087fd0c5fd2db186e49266dda15
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 91-048 (Ordinance No. 91-048)
+
+## At a glance
+
+Ordinance No. 91-048 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES
+REVIEWED
+l)
+LEGAL COUNSEL
+OREGON: -
+An Ordinance Amending Chapter * 0108 06609. 08, Discharge of Firearms,
+of the Deschutes County Code
+and Declaring an, E{mergency.
+92- 00469
+ORDINANCE NO. 91- 048
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. Chapter 9. 08, Discharge of Firearms, Deschutes
+County Code is amended to read as set forth in Exhibit " A" attached
+hereto and by this reference incorporated herein.
+Section 2. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergency
+is declared to exist, and this Ordinance takes effect on its
+passage.
+DATED this 11th day of December, 1991.
+t:/ 6
+ecording Secretary
+BOARD OF C UNTY COMMISSIONERS
+OF DESC WT S COUNTY, OREGON
+SS• 1 0 . -
+0L J ws4 1.. t_ .
+EP, Commisstoner
+DICK MAUDLIN, Chairman
+KVNCHED
+i 1992
+C
+1v11CRptME' 1 - ORDINANCE NO. 91- 048 ( 12/ 11/ 91)
+0108 0661
+EXHIBIT A
+9. 08. 040 Restricted Areas
+A. A restricted area may be formed in the following areas,
+subject to petition and signature requirements set forth in Section
+9. 08. 050 of this Chapter, provided that the properties within a
+single proposed district are contiguous:
+1) Recorded subdivisions or town plats; or
+2) Individual lots outside of recorded subdivisions or town
+plats, where such lots are contiguous to a subdivision or
+town plat in an existing or proposed restricted area or
+are contiguous to other lots included within an existing
+or proposed restricted area, or
+3) Any combination thereof;
+B. No subdivision or town plat shall be eligible for such
+designation unless 60 percent of the registered voters within such
+subdivision or combination of subdivisions sign the petition
+proposing such district.
+C. No individual lot not covered by a town plat or recorded
+subdivision plat shall be eligible for inclusion in a proposed
+restricted area unless the owner of such lot signs a petition
+requesting such designation. Determination of ownership shall be
+made using the most recent property tax assessment roll. Recent
+purchasers must provide a certified copy of a deed.
+D. Except as set forth in subsection B of this section, no
+individual lots owned by a political subdivision of the State of
+Oregon or special district shall be eligible for inclusion in a
+proposed restricted area unless such governmental entity or quasi -
+governmental entity shall have passed an ordinance consistent with
+the provisions of this Chapter restricting the discharge of
+firearms on such property.
+E. Any area eligible to be included in a restricted area
+under this Section may annex onto an existing firearms district by
+following the formation procedures set forth in this Chapter.
+9. 08. 050 Petitions - Requirements
+A. A proposal for formation of a restricted area shall be made by
+petition. The petition, which may consist of a single instrument
+or separate counterparts, shall contain the following:
+1. A description of the boundaries of the proposed
+restricted area;
+2 - ORDINANCE NO. 91- 048 ( 12/ 11/ 91)
+0108 0662
+2. A statement that the area is proposed to be restricted
+pursuant to the provisions of this Chapter;
+3. At least one, and as many as three, chief petitioners,
+setting forth their names and mailing addresses;
+4. The signatures of not less than sixty ( 60) percent of the
+registered voters of subdivisions included within the proposed
+restricted area;
+5. The signature of each owner, or authorized representative
+thereof, of any individual lot outside of a recorded subdivision
+plat or town plat entitled to be included in a proposed restricted
+area; and
+6. A certified true copy of any ordinance of a municipal
+corporation or special district with property included within the
+proposed boundaries designating the area to be a restricted area
+consistent with the provisions of this Chapter.
+B. Each person signing a petition shall, besides signing the
+petition, also print his name after his signature and shall add
+after his signature his place of residence, giving street and
+number or a designation sufficient to enable the place or residence
+to be readily ascertained.
+C. After a petition has been offered for filing a person may not
+withdraw his name therefrom.
+3 - ORDINANCE NO. 91- 048 ( 12/ 11/ 91)

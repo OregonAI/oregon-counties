@@ -1,0 +1,602 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clackamas-county
+id: clackamas-land-use-zdo711
+title: 'Zdo711'
+doc_type: ordinance
+citation: 'Zdo711'
+authority_level: county_ordinance
+issuing_body: 'Clackamas County Board of Commissioners'
+source_url: https://www.clackamas.us/planning/zdo711
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: 5674b618a980479fef25ac10a1b7c23df81eb822f51e74764adbbf08540f00e6
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [clackamas-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clackamas County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zdo711 (Zdo711)
+
+## At a glance
+
+Zdo711 — land use of Clackamas County. 8496 characters.
+
+## Full text
+
+ZDO 711: Government Camp Open Space Management District | Clackamas County 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Translate 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jobs 
+ Events 
+ News 
+ Contact Us 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+
+ 
+ 
+ 
+ Community 
+ 
+ 
+ Business 
+ 
+ 
+ Departments 
+ 
+ 
+ Our County 
+ 
+ 
+ I want to... 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ ZDO 711: Government Camp Open Space Management District 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ZDO 711: Government Camp Open Space Management District 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 711.01 Purpose The intent of the Government Camp Open Space Management District is to preserve and manage the Government Camp open space resources for the benefit, health, and welfare of the people. These resources provide the community with recreation, water quality treatment facilities, natural protection areas, and pedestrian networks. Management of these resources will help protect, enhance, and maintain the quality of living and environmental character of Government Camp. 711.02 Areas Of Application The Government Camp Open Space Management District shall apply to those areas within the Government Camp Village, as described in the Mount Hood Community Plan, and have the following characteristics: Parks, whether existing, acquired, or dedicated in the future (see Section 1011 for dedication requirements); Public and private recreation areas, including areas used for skiing, skating, skateboarding, hiking, biking, and other similar activities; Natural and historic areas that are dedicated to the public or preserved through an easement; Areas that buffer existing residential development for the purpose of providing privacy and maintaining the natural character and quality of living in the community; Areas necessary for utility facilities, such as sewage treatment plants, public water facilities, or water quality treatment facilities.  711.03 Primary Uses Public and private outdoor recreation areas, including hiking and biking trails, and ski transportation facilities such as chairlifts and gondolas; Nature trails, bird sanctuaries, nature conservancies, and other similar natural areas; Utility cabinets, subject to Section 830, Utility Cabinets; Utility facilities, except utility lines, in road rights-of-way; Utility lines, except as established by Subsections 711.05(A)(5) and (6); and Water quality treatment facilities, except those listed as conditional uses in Subsection 711.05. 711.04 Accessory Uses Accessory uses listed below may be allowed provided landscaping in compliance with Section 1009, Landscaping, is used to obscure visual impacts: Restroom and locker room facilities; Information and interpretive centers, provided they are not enclosed; Maintenance buildings and support facilities customarily associated with a primary use; Rainwater collection facilities; Solar collection systems; Electric vehicle charging stations; Stormwater management facilities; Utility service equipment; and Utility service lines. 711.05 Conditional Uses The following are conditional uses in the GCOSM District, approval of which is subject to Section 1203, Conditional Uses: Medical clinics, when associated with and incidental to a primary use; Sport shops, restaurants, and other concession sales uses when associated with and incidental to a primary use; Sewage treatment plants; Utility cabinets that do not comply with Section 830, Utility Cabinets, and are outside a road right-of-way; Gas transmission lines; and Electric transmission lines.B.  Conditional uses are subject to the following standards and criteria: Approval shall not be granted if the proposed use requires a new access to Highway 26 or additional parking, unless such access and parking receive approval from the Oregon Department of Transportation. The maximum building floor space per commercial use shall be 8,000 square feet.   711.06 Prohibited Uses Private outdoor recreation uses that generate vehicular trips, excluding uses for the Summit Ski Area or Multorpor Ski Bowl that do not exceed the United States Forest Service (USFS) Persons at One Time (PAOT) limits. See the table below for the PAOT limits: US Forest Service Permitted Recreation Facility US Forest Service Persons at One Time (PAOT) limits Summit Ski Area 1500 Multorpor Ski Bowl (Ski Bowl West adn Ski Bowl Multorpor Combined) 7800 711.07 Buffer Areas Buffer areas shall be maintained in natural vegetation, except for minor developments such as: Extending and connecting trail systems; Posting directional, interpretative, and warning signs not exceeding three square feet for trails; Bridges or constructed walkways; Lift and tram towers; and Development of connecting roads to lands within Government Camp shall be minimized to the fullest possible extent. 711.08 Dimensional Standards The following dimensional standards apply in the GCOSM District: Minimum Front Setback: The minimum front setback is 30 feet. Minimum Rear Setback: The minimum rear setback is 30 feet. Minimum Side Setback: The minimum side setback is 10 feet. 711.09 Development Standards Conditional uses in the GCOSM District are subject to the applicable provisions of Section 1000, Development Standards, and the review procedures of Section 1102, Design Review. In addition, the following development standards apply: The subject property shall be landscaped to produce a setting appropriate to the area's character and development's function. Screening and buffering of adjacent residential zoning districts shall occur pursuant to Section 1009, Landscaping An efficient internal circulation system and facilities layout plan shall be provided. In addition, motorized and non-motorized connections to external circulation systems and trails shall be provided.  Access shall be maximized for pedestrians, bicyclists, transit riders, and people with disabilities in active recreation areas. Park facilities shall comply with the classifications and standards of Comprehensive Plan Table 9-1. [Amended by Ord. ZDO-224, 5/31/2011; Amended by Ord. ZDO-248, 10/13/2014; Amended by Ord. ZDO-252, 6/1/2015; Amended by Ord. ZDO-253, 6/1/2015; Amended by Ord. ZDO-268, 10/2/2018; Amended by Ord. ZDO-288, 9/9/2024] Return to the Zoning and Development Ordinance main page. Contact zoninginfo@clackamas.us for additional information. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Phone: 503-742-4500 
+ Email: zoninginfo@clackamas.us 
+ 
+ 
+ 
+ 150 Beavercreek Road Room #225 Oregon City, OR 97045 
+ 
+ 
+ Office Hours: Monday to Thursday  8 a.m. to 4 p.m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's My Zoning? 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Related Events 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Related Events
+ 
+ 
+ 
+ 
+ Board of County Commissioners, Planning and Zoning 
+ 
+ 
+ Aug 
+ 04 
+ 
+ 
+ 11:00 am 
+ - 11:30 am 
+ 
+ 
+ Land Use Hearing: Z0437-25 and Z0438-25 - Aug. 4, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Aug 
+ 20 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0096-26 - Aug. 20, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Sep 
+ 03 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0207-26 - Sept. 3, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ more events 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ SHORTCUTS 
+ 
+ 
+ 
+ Jobs Procurement Process, Contracts and Grants Pay Online CMap Contact the County Report a Hazard County Code Public Records Request HIPAA/Privacy Concerns Civil Rights ACA Complaint Form Accessibility Statement Title VI Compliance Plan Website Privacy Media Contacts 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ELECTED OFFICIALS 
+ 
+ 
+ 
+ Chair Craig Roberts Commissioner Diana Helm Commissioner Paul Savas Commissioner Martha Schrader Commissioner Ben West   County Assessor/Tax Collector Bronson Rueda County Clerk Catherine McMullen District Attorney John Wentworth Justice of the Peace Kathleen Rastetter Sheriff Angela Brandenburg Treasurer Brian Nava 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can’t find what you're looking for? 
+ 
+ 
+ 
+ 
+ Search Box 
+ 
+
+ 
+ enter your search here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2026 Clackamas County

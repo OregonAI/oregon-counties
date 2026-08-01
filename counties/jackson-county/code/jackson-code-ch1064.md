@@ -1,0 +1,489 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch1064
+title: 'Ch1064'
+doc_type: ordinance
+citation: 'Ch1064'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/10%20Streets/Ch1064.pdf?t=202406171608310
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: fdaeaf76071143aba23fbd023550953e54c0831ac26ce3d5e0270202c420e79a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 275.320
+    - ORS 366.205
+    - ORS 390.250
+    - ORS 468B.005
+    - ORS 471.430
+    - ORS 565.230
+    - ORS 819.120
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch1064 (Ch1064)
+
+## At a glance
+
+Ch1064 — code of Jackson County. 10 pages.
+
+## Full text
+
+CHAPTER 1064
+Parks Generally
+
+1064.01 Def
+initions.
+1064.02 Closure of Parks; Use Limitations.
+1064.03 Fee, Permit and Limitation Schedules.
+1064.04 Revocation of Permits; Eviction.
+1064.05 Use of Vehicles.
+1064.06 Animals.
+1064.07 Wildlife; Hunting.
+1064.08 Weapons and Explosives.
+1064.09 Camping.
+1064.10 Fires.
+1064.11 Boating.
+1064.12 Garbage and Rubbish; Littering.
+1064.13 Property Destruction.
+1064.14 Peddlers and Solicitors; Advertising; Signs.
+1064.15 Peace Disturbances.
+1064.16 Miscellaneous Regulations.
+1064.17 Registered Owner as Violator.
+1064.99 Penalty.
+
+CROS
+S REFERENCES
+
+Parks and r
+ecreation areas generally - see ORS 275.320 et seq.
+Acquisition of jurisdiction by State - see ORS 366.205
+Bear Creek, Jackson County - see ORS 390.250 et seq.; P. & Z. Ch. 1228
+Fairgrounds - see ORS 565.230; S.U. & P.S. Ch. 1066
+Parks and Recreation Department - see ADM. Ch. 231
+Parks and Recreation Advisory Committee - see ADM. Ch. 277
+
+1064.01 DEFINITIONS.
+
+As used in this chapter:
+
+(a) County Park - means:
+
+(1) An area owned and designated by the County for public park purposes; or
+
+(2) An area owned by some other public entity but used and operated by the
+County for public park purposes.
+
+102 Parks Generally 1064.03
+
+(b) Horse - includes mules, donkeys and other <skip> animals.
+
+(c) Roads and Parks Department - means the County Parks and Recreation Department
+and its officers, agents and employees.
+
+(d) Vehicle - means every device in, upon or by which any person or property is or may
+be transported upon a roadway.
+
+(Ord. 80-15. Passed 8- 13-80; Ord. 2003 -4. Passed 1-22 -03; Ord. 2007-2. Passed 1- 31-
+07.)
+
+1064.02 CLOSURE OF PARKS; USE LIMITATIONS.
+
+(a) The Roads and Parks Department is hereby authorized to close to public use any
+County park or portion thereof, restrict the times when the same shall be open to such use
+and limit or prohibit any recreational use whenever such action is necessary to protect the
+health or safety of the public or the safet y of the park or its facilities. Causes for park
+closure or limitations on park use include, but are not limited to, fire hazard, dangerous
+weather or water conditions, sanitary protection of the watershed, park construction or
+repairs, conservation of fish and wildlife, excessive boat traffic, unsafe or overcrowded
+shoreline, ramp, parking or road conditions, the prevention of damage to the park or any
+of its facilities or any dangerous, unsafe or unhealthful condition.
+
+(b) Park closure for all day use areas shall occur at sunset unless otherwise posted.
+
+(c) No person shall enter any County park or area which has been closed if notice of
+prohibited entry has been posted.
+
+(Ord. 80-15. Passed 8- 13-80; Ord. 2003 -4. Passed 1-22 -03; Ord. 2007-2. Passed 1- 31-
+07.)
+
+1064.03 FEE, PERMIT AND LIMITATION SCHEDULES.
+
+(a) All fees, permits and occupancy or time limitations issued by the Roads and Parks
+Department authorizing the use of a County  park or any of its areas or facilities shall be
+in accordance with schedules adopted from time to time by order of the Board of County
+Commissioners.
+
+(b) No person shall enter or use any County park or any of its facilities without first
+paying the required fee, if any, to the Department, unless such entry or use is otherwise
+authorized by a valid existing permit belonging to said person.
+
+1064.05 Parks Generally 103
+
+(c) If the entry or use consists of or includes the parking or leaving of an unattended
+vehicle within a park facility requiring entry fee or permit, such permit must be displayed
+in the vehicle and visible through the windshield or window, and any annual vehicle
+permit, camping permit or vehicle day use permit not thus displayed shall not be deemed
+valid.
+
+(Ord. 80-15. Passed 8-13-80; Ord. 88-9. Passed 4-20-88; Ord. 2007-2. Passed 1-31-07.)
+
+1064.04 REVOCATION OF PERMITS; EVICTION.
+
+(a) The Roads and Parks Department is hereby authorized to revoke any permit which
+has been issued erroneously or when the Department has reasonable cause to believe that
+the permit holder has violated any of the provisions of this chapter or any State law. Any
+person whose permit has been revoked shall immediately leave the park and may be
+removed therefrom.
+
+(b) No person who has been ordered to leave a County park shall remain therein.
+
+(c) The Department may refuse to admit any person into a County park who has been
+previously evicted from a County park.
+
+(d) The Department may take possession of any permit which has been removed or
+which is fictitious, and no person shall refuse to surrender the same to the Department
+upon demand.
+
+(Ord. 80-15. Passed 8-13-80; Ord. 2007-2. Passed 1-31-07.)
+
+1064.05 USE OF VEHICLES.
+
+(a) The definitions and provisions of ORS Chapter 803, 807, 811, 814, 815, 816, 819
+and 821 of the Motor Vehicle Code shall apply to all vehicles operated or parked within
+any County park. Any violation of any section of such chapter shall be deemed a
+violation of this chapter, provided that in no event shall a maximum fine provided under
+this Code exceed the fine provided by statute for the offense. The bail schedule
+applicable to State offenses may be adopted by the Board of Commissioners by order.
+Any bail schedule adopted by order of the Board of Commissioners shall apply to a
+citation issued under this section.
+
+(b) In addition, no person shall, within a County park:
+
+(1) Drive a vehicle at a speed greater than ten miles per hour in a picnic area,
+campground or parking lot, or at a speed greater than twenty miles per hour in
+any other area, unless otherwise posted;
+104 Parks Generally 1064.06
+
+(2) Drive a vehicle other than on established roads for vehicular use, parking areas
+and boat ramps;
+
+(3) Park or leave unattended any vehicle or trailer in other than those areas
+designated by the Roads and Parks Department for such parking, or so as to
+hinder or impede the drivers of other vehicles;
+
+(4) Except in special use areas designated by the Department for that purpose,
+drive a motor vehicle not licensed or equipped as provided in subsection (a)
+hereof;
+
+(5) Leave unattended any vehicle within a County park for more than twelve hours
+without prior written consent therefor;
+
+(6) Leave a vehicle for any period of time, unless visiting the park for its intended
+use; or
+
+(7) Drive an off -road motorcycle which is not equipped with an effective spark
+arrester.
+
+(c) The Roads and Parks Department is hereby authorized to remove, or cause to be
+removed, and stored, any vehicle left unattended within a County park where there is
+reasonable cause to believe that the vehicle has been parked or left in such a manner or
+area as violates this section; and, in such event, the procedural provisions of ORS
+819.120, 819.180, 819.190 and 819.210 to 819.250 shall be followed with reference to
+the disposition of such vehicle and the rights of the owner therein.
+
+(d) Bicycles, skateboards, roller skates and similar contrivances shall not be used,
+except in areas designated for their use.
+
+(Ord. 80-15. Passed 80-13-80; Ord. 88-9. Passed 4-20-88; E. Ord. 94-30. Passed 6-15-94;
+P. Ord. 94-31. Passed 6-29-94; Ord. 2003-4. Passed 1 -22-03; Ord. 2007-2. Passed 1-31-
+07.)
+
+1064.06 ANIMALS.
+
+(a) Pets are not permitted in any County park, except in areas specifically designated.
+
+(b) The Roads and Parks Department may refuse to admit any person to a County park
+who is in possession of a pet or other animal that appears, in the judgment of the
+Department, to be dangerous or likely to disturb persons in the park.
+
+(c) In those parks or park areas designated for such purpose, the following regulations
+shall apply:
+1064.08 Parks Generally 105
+
+(1) No person shall allow any pet to run unrestrained without prior permission
+therefor from the Department. Pets shall be restrained by a secure leash not
+over five feet long.
+
+(2) No person shall allow any pet in his or her custody to annoy or molest any
+person.
+
+(3) No person shall allow any pet in his or her custody to be tied up and left
+unattended.
+
+(4) No horse or pack animal shall be tied, secured or hobbled in such a manner as
+to injure any tree, shrub or park improvement.
+
+(Ord. 80-15. Passed 8- 13-80; Ord. 2003 -4. Passed 1-22 -03; Ord. 2007-2. Passed 1- 31-
+07.)
+
+1064.07 WILDLIFE; HUNTING.
+
+(a) No person shall, in any manner, pursue, kill, injure or molest any bird or animal
+within any County park, except for the control of predatory animals as may be ordered by
+the County.
+
+(b) Hunting is not permitted in any County park, except in those parks or park areas
+especially designated for such purpose and during such times as may be established by
+the State Fish and Wildlife Commission.
+
+(Ord. 80-15. Passed 8-13-80.)
+
+1064.08 WEAPONS AND EXPLOSIVES.
+
+No person shall, within a County park:
+
+(a) Discharge any firearm, pellet gun, bow and arrow, slingshot or other missile-
+launching device, except in those areas designated by the Roads and Parks Department
+for such use; or
+
+(b) Possess or use fireworks or other explosives without prior written permission
+therefor from the Department.
+
+(Ord. 80-15. Passed 8- 13-80; Ord. 2003 -4. Passed 1-22 -03; Ord. 2007-2. Passed 1- 31-
+07.)
+106 Parks Generally 1064.09
+
+1064.09 CAMPING.
+
+(a) No person shall camp in any County park, except in those areas designated for
+camping and except with a valid permit for such park. The Roads and Parks Department
+may, at any time, revoke the camping permit of any person if the campsite occupied by
+such person is not maintained in a clean, sanitary and safe manner.
+
+(b) No person shall move, vandalize or destroy any valid permit displayed at a
+campsite.
+
+(c) Upon expiration of a camping permit, the permit holder and persons in his or her
+party must vacate the park for a minimum of twenty -four hours. All campsites must be
+occupied a minimum of four hours in any twenty-four hour period.
+
+(d) All camping permits, fees and occupancy or time limitations issued by the
+Department shall be in accordance with schedules adopted from time to time by order of
+the Board of County Commissioners.
+
+(e) No person shall reserve or attempt to save a campsite without prior written consent
+from the Department.
+
+(f) Quiet hours shall be observed in all camping areas between the hours of 10:00 p.m.
+and 7:00 a.m. of the following day.
+
+(g) Except for authorized overnight campers, law enforcement officers or authorized
+County personnel, no person shall enter or remain in any park area between the daily
+closing time and daily opening time as established by the Department and posted at the
+entrance to each park.
+
+(h) The person registering for the campsite is responsible for adhering to all regulations
+of this chapter affecting the campsite and for any violation of this chapter with reference
+to the use or condition of the campsite occurring during or as a result of occupancy under
+the permit, but this shall not be construed as a defense for any other person who actually
+caused or participated in causing the violation.
+
+(i) No person under the age of eighteen shall camp overnight within a County park
+unless accompanied by an adult.
+
+(Ord. 80-15. Passed 8- 13-80; Ord. 88-9. Passed 4-20- 88; Ord. 2003 -4. Passed 1- 22-03;
+Ord. 2007-2. Passed 1-31-07.)
+1064.11 Parks Generally 107
+
+1064.10 FIRES.
+
+(a) A person shall be responsible for damage caused by fires built by such person and
+for the cost of suppressing such fires.
+
+(b) No person shall, within a County park:
+
+(1) Build, light or maintain any fire, except in a stove, pit or fireplace designated
+for such purpose by the Roads and Parks Department. Portable gas, gasoline or
+oil stoves or other portable cooking devic es may be used if such devices are in
+a safe operating condition.
+
+(2) Build, light or maintain any fire so as to constitute an immediate fire hazard to
+any pile of wood, grass, tree, underbrush or other flammable material;
+
+(3) Leave a fire unattended or leave a County park before extinguishing any fire
+built, lighted or maintained by him or her; or
+
+(4) Throw or deposit any burning substance, or other substance capable of burning
+or combustion, near or onto any combustible place or area, except into
+authorized firepits provided by the Department for such use.
+
+(Ord. 80-15. Passed 8- 13-80; Ord. 2003 -4. Passed 1-22 -03; Ord. 2007-2. Passed 1- 31-
+07.)
+
+1064.11 BOATING.
+
+(a) The definitions and provisions contained in ORS Chapter 830 relating to boats and
+boating shall apply to all boats within a County park. Any violation of any section of that
+chapter shall be deemed a violation of this chapter, provided that in no event shall the
+maximum fine provided under this chapter exceed the fine provided by statute for the
+offense incorporated herein, and, further, that any uniform bail schedule applicable to the
+State offense shall be applicable to a citation issued for violation of this subsection.
+
+(b) No person shall, within a County park:
+
+(1) Leave a boat which is under his or her care, c ustody and control unattended at
+a public dock or designated area for more than fifteen minutes, unless
+otherwise posted or permitted, or at any other place for more than twelve
+hours, without prior written consent therefor from the Roads and Parks
+Department;
+
+(2) Launch a boat at any place other than launching facilities designated by the
+Department; or
+108 Parks Generally 1064.13
+
+(3) Engage in any boat race, regatta, exhibition or sales promotion of any kind, or
+operate a boat for hire, without written approval therefor from the Department.
+
+(c) Any boat which has been left unattended contrary to this section may be removed to
+a designated storage area by the Department at the expense of the owner, and any such
+boat will be disposed of in accordance with the provisions set forth by the State Marine
+Board.
+
+(Ord. 80-15. Passed 8- 13-80; Ord. 88-9. Passed 4-20-88; Ord. 92 -7. Passed 7-1-92; Ord.
+2003-4. Passed 1-22-03; Ord. 2007-2. Passed 1-31-07.)
+
+1064.12 GARBAGE AND RUBBISH; LITTERING.
+
+No person shall, within a County park:
+
+(a) Throw, dump or deposit any trash, refuse, garbage, litter or waste material, except in
+receptacles designated by the Roads and Parks Department for that purpose;
+
+Bring into such a park any trash, refuse, garbage, litter, waste material or vehicle for the
+purpose of leaving it therein;
+
+(b) Wash any clothing or other materials in the waters of any lake or stream, or throw,
+dump or deposit into such waters, or onto the banks thereof, any trash, refuse, garbage,
+litter, waste material or other polluting product of any kind. Pollution and waste, for the
+purpose of this section, are as defined in ORS 468B.005 (3) and (7).
+
+(c) Clean any fish, except at places designated by the Department for such purpose.
+
+(Ord. 80- 15. Passed 8 -13-80; Ord. 92-7. Passed 7-1- 92; Ord. 2003-4. Passed 1- 22-03;
+Ord. 2007-2. Passed 1-31-07.)
+
+1064.13 PROPERTY DESTRUCTION.
+
+No person shall, within a County park:
+
+(a) Pick, cut, mutilate or remove from any park area flowers, shrubs, foliage, trees or
+plant life or products of any kind without written permission therefor from  the Roads and
+Parks Department;
+
+(b) Mutilate, deface, damage, move or remove any park equipment, including, but not
+limited to, tables, benches, buildings, signs, markers, plaques, barriers, fountains, faucets,
+traffic recorders or other structures or facilities of any kind in a park area; or
+1064.15 Parks Generally 109
+
+(c) Dig, dredge, deface or remove any dirt, stones, rocks, artifacts or other substan ces,
+make any excavation, quarry any stones or other objects or cause or assist in doing any of
+such things within a park area, except upon written permission from the Department.
+
+(Ord. 80-15. Passed 8- 13-80; Ord. 2003 -4. Passed 1-22 -03; Ord. 2007-2. Passed 1- 31-
+07.)
+
+1064.14 PEDDLERS AND SOLICITORS; ADVERTISING; SIGNS.
+
+No person shall, within a County park:
+
+(a) Operate a concession, either fixed or mobile, or engage in the business of soliciting,
+selling or peddling goods, wares, merchandise, liquids or edibles for human consumption,
+without prior written permission from the Roads and Parks Department;
+
+(b) Advertise in any manner, by either fixed or mobile display, without prior written
+permission therefor from the Department; or
+
+(c) Erect any sign, marker or inscription without prior written permission therefor from
+the Department.
+
+(Ord. 80-15. Passed 8- 13-80; Ord. 2003 -4. Passed 1-22 -03; Ord. 2007-2. Passed 1- 31-
+07.)
+
+1064.15 PEACE DISTURBANCES.
+
+No person shall, within a County park:
+
+(a) Set up or use a public address system or any sound amplifying equipment without
+prior written permission therefor from the Roads and Parks Department;
+
+(b) Operate a radio or musical instrument in such a manner as to disturb others and
+create disturbing noise; or
+
+(c) Use abusive, threatening, boisterous, vile, obscene or indecent language or gestures,
+cause, attempt to cause or participate in any public disturbance or in any way create a
+public nuisance.
+
+(Ord. 80-15. Passed 8-13-80; Ord. 2007-2. Passed 1-31-07.)
+110 Parks Generally 164.99
+
+1064.16 MISCELLANEOUS REGULATIONS.
+
+(a) The provisions contained in ORS Sections 471.410 and 471.430 relating to
+possession of alcoholic liquors and to the providing of such liquors to persons under
+twenty-one years of age shall apply to all persons within a County park, and any
+violations of said sections shall be deemed a violation of this chapter, provided that in no
+event shall the maximum fine imposed under this chapter exceed the fine provided by
+statute for violation of ORS 471.430.
+
+(b) Except in the case of an emergency, no person shall land or attempt to land any
+aircraft within a County park without prior approval from the Roads and Parks
+Department.
+
+(c) Mining for gold within County parks is restricted to recreational activity only, and is
+limited to gold panning, using historical methods and tools. The use of a dredge, or any
+equipment other than gold pans and small shovels or trowels, for gold mining within
+County park areas is prohibited. Digging in the stream banks, or undermining trees,
+shrubs or man- made features such as buildings, fences and bridge abutments, is not
+allowed. No commercial mining is allowed within a County park.
+
+(Ord. 88-9. Passed 4-20-88; Ord. 2007-2. Passed 1-31-07.)
+
+1064.17 REGISTERED OWNER AS VIOLATOR.
+
+For purposes of charging, citing or proving any violation of Section 1064.03(b) or
+1064.05(a), (b)(3), (5) or (6), the registered owner of the vehicle found without a permit
+or unlawfully parked is presumed  to be the person who unlawfully entered the park
+without fee or permit, or who unlawfully parked the vehicle or left it unattended, as the
+case may be, but the presumption may be overcome by evidence specifically identifying
+the person who, in fact, committed the violation.
+
+(Ord. 88-9. Passed 4-20 -88; E.Ord 2003 -29. Passed 10 -15-03; P. Ord 2003-28. Passed
+10-29-03.)
+
+1064.99 PENALTY.
+
+(a) The Board of Commissioners may provide by order for a minimum bail schedule for
+violations of this chapter.
+
+(b) Violations of this chapter are subject to the penalties provided in Section 202.99.
+
+(E. Ord. 94-30. Passed 6-15-94; P. Ord. 94-31. Passed 6-29-94.)

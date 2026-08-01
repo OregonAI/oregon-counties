@@ -1,0 +1,849 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-92-034
+title: 'Ordinance No. 92-034'
+doc_type: ordinance
+citation: 'Ordinance No. 92-034'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616693124_1992-11484-Ordinance%20No.%2092-034%20Recorded%204_8_1992.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: deee0114bce8fcc04bdadadc8316f289bf918b97344b10d0429a86c7b6da0b22
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 92-034 (Ordinance No. 92-034)
+
+## At a glance
+
+Ordinance No. 92-034 — orders of Deschutes County. 19 pages.
+
+## Full text
+
+REVIEWED
+92- 11484
+LEGAL COUNSEL 1
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 18 of
+the Deschutes County Code Regarding * _.
+Landscape Management Zones and * t
+Declaring an Emergency
+0111- 0007
+ORDINANCE NO. 92- 034
+WHEREAS, Deschutes County is engaged in periodic review of its
+comprehensive plan and zoning ordinance pursuant to ORS Chapter 197;
+and
+WHEREAS, the County has been required by LCDC to review its
+landscape management zones as part of periodic review; and
+WHEREAS, public hearings have been held in conformance with
+state law; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+ORDAINS AS FOLLOWS:
+Section 1. ADOPTION OF AMENDMENTS TO CHAPTER 18. 04. Chapter
+19. 04 is amended to add the following definition of " Agricultural
+Structure:"
+Agricultural Structure. Agricultural structures include
+any structure considered to be an agricultural structure
+under the building code."
+Section 2. ADOPTION OF AMENDMENTS TO CHAPTER 18. 84. Chapter
+18. 84 of Title 18 is amended to read as set forth in Exhibit A,
+attached hereto and by this reference incorporated herein.
+Section 3. ADOPTION OF AMENDMENTS TO CHAPTER 18. 116. Section
+18. 116. 160 is amended to read as set forth in Exhibit B, attached
+hereto and by this reference incorporated herein.
+Section 4. FINDINGS. This ordinance is supported by the
+findings set forth in Exhibit C, attached hereto and by this
+reference incorporated herein.
+PAGE 1 - ORDINANCE NO. 92- 034 ( 4/ 8/ 91)
+V/C`
+APR
+F
+119g
+KtYp
+CHED
+gg
+0111- 0008
+Section 5. EMERGENCY. This Ordinance being necessary for the
+immediate preservation of the public peace, health and safety, an
+emergency is declared to exist, and this Ordinance takes effect on
+its passage.
+DATED this
+S1111
+day of April, 1992.
+BOARD OFUNTY COMMISSIONERS
+OF DE§ 2Et ES COUNTY, OREGON
+AT S :
+Recording Secretary
+PAGE 2 - ORDINANCE NO. 92- 034 ( 4/ 8/ 91)
+IN, rman
+Commipsioner
+EXHIBIT A
+0111-- 0009
+Chapter 18. 84
+LANDSCAPE MANAGEMENT COMBINING - LM ZONE
+In any LM Combining Zone, the requirements and standards of
+this Chapter shall apply in addition to those specified in
+this Title for the underlying zone. If a conflict in
+regulation or standards occurs, the provision of this chapter
+shall govern.
+18. 84. 010 Purpose.
+The purposes of the Landscape Management Combining Zone are
+to maintain scenic and natural resources of the designated
+areas and to maintain and enhance scenic vistas and natural
+landscapes as seen from designated roads, rivers or streams.
+important to the local economy.]
+18. 84. 020 Application of Provision.
+The provisions of this chapter shall apply to all areas
+within one quarter mile of roads identified as landscape
+management corridors in the Comprehensive Plan and the County
+Zoning Map. The Provisions of this chapter shall also apply
+to all areas [ designated as] within the boundaries of a State
+scenic waterway or Federal wild and scenic river corridor and
+all areas within 660 feet of rivers and streams otherwise
+identified as landscape management corridors in the
+comprehensive plan and the county zoning map. The distance
+specified above shall be measured horizontally from the
+center line of designated landscape management roadways or
+from the nearest ordinary high water mark of a designated
+landscape management river or stream. [ identified as
+landscape management corridors in the Comprehensive Plan or
+the county zoning map.] The limitations in this section
+shall not unduly restrict accepted agricultural practices.
+18. 84. 030 Uses Permitted Outright.
+Uses permitted in the underlying zone with which the LM zone
+is combined shall be permitted in the LM zone, subject to the
+provisions in this Chapter.
+In a zone with which the LM is combined, the uses permitted
+shall be those permitted outright by the underlying zone with
+which the LM Zone is combined, subject to Section, 18. 84. 050,
+below]
+18. 84. 040 Uses Permitted Conditionally.
+Uses permitted conditionally in the underlying zone with
+which the LM zone is combined shall be permitted as
+conditional uses in the LM zone, subject to the provisions in
+this Chapter.
+0111- 0010
+In a zone with which the LM is combined, the uses permitted
+shall be those permitted outright by the underlying zone with
+which the LM Zone is combined, subject to Section 18. 84. 050,
+below]
+18. 84. 050 Use Limitations.
+1. [ Nod Any new structure or substantial alteration of a
+structure requiring a building permit, or [ structure
+including] an agricultural structure[ s,] within an LM
+Combining Zone shall obtain site plan approval in
+accordance with this Chapter and Chapter 18. 124, Site
+Plan Review, prior to construction. As used in this
+chapter substantial alteration consists of an alteration
+which exceeds 25% in the size or 25% of the assessed
+value of the structure. [ one- quarter mile ( measured at
+right angles from centerline of any identified landscape
+management roadway or within 200 feet of the ordinary
+high water mark of any identified landscape management
+corridor along a river) without first obtaining the
+approval of the Planning Director or Hearings Body.]
+2. Structures which are not visible from the designated
+roadway, river or stream and which are assured of
+remaining not visible because of vegetation,
+topography, or existing development are exempt from the
+provisions of Section 18. 84. 080 ( Design Review
+Standards) and Section 18. 84. 090 ( Setback Standards).
+An applicant for site plan review in the LM zone shall
+conform with the provisions of this Chapter, or may
+submit evidence that the proposed structure will not be
+visible from the designated roads river or stream.
+Structures not visible from the designated road, river
+or stream must meet setback standards of the underlying
+zone.
+18. 84. 060 Dimensional Standards.
+In an LM Zone, the [ following dimensional standards shall
+apply:
+A. M] minimum lot size shall be as established in the
+underlying zone with which the LM Zone is combined.
+B. Setbacks shall be those established in the
+underlying zone with which the LM Zone is combined.
+If upon written recommendations from the Planning
+Director, the Planning Director or Hearings Body
+finds the established setbacks are inappropriate to
+carry out the purpose of the LM zone, he may
+require more or less restrictive dimensions.]
+18. 84. 070 Zoning Permits.
+All buildings or structures covered by this section not
+requiring a building permit shall be required to obtain a
+zoning permit before beginning construction.]
+18. 84. 07[ 8] 0 Application [ Design Review]. 0111- 0011
+In reviewing an application, the Planning Director or
+Hearings Body shall consider the following:
+A. Height, width, color, bulk and texture of the building
+or structure to assure that the building or structure is
+visually compatible with the surrounding natural
+landscape and does not unduly generate glare or other
+distracting conditions.
+B. Retention of existing plant material and natural
+features to retain as much as possible the natural
+character of the area.]
+C.] ( Moved to Section 18. 84. 080( 9))
+D. Nothing in the section shall be construed to prevent the
+use of accepted agricultural practices, crops or
+equipment or restrict the construction of innovative
+residences, i. e. " dome" houses, except where their
+design or siting unduly diminishes the aesthetic
+qualities of the area.]
+E.] ( Moved to Section 18. 84. 090( 3))
+An application for site plan approval for development in the
+Landscape Management zone shall be submitted to the Planning
+Division. The site plan application shall include the
+following•
+1. A plot plan, drawn to scale, showing:
+a. Location and dimensions of existing and proposed
+structures.
+b. Setbacks from lot lines ( and river and rimrock, if
+present).
+C. Existing and proposed access.
+d. Existing and proposed exterior lighting.
+2. A drawing of the proposed structure elevations showing:
+a. Exterior appearance.
+b. Height, dimensions.
+C. Siding and roofing material and color.
+d. Location and size of windows including skylights.
+0111= 0012
+1. A landscape plan drawn to scale, showing:
+a. Location, size and species of existing trees six
+inches in diameter or greater, or existing shrub
+vegetation higher than 4 feet, between the proposed
+development and the designated landscape management
+road, river or stream. Where a significant amount
+of vegetation exists a landscape plan may be
+accepted which generalizes and explains how the
+existing trees and shrubs provide screening.
+b. Proposed location and species of introduced
+vegetation which will screen the proposed
+development from the designated landscape
+management road, river or stream.
+18. 84. 080 Design Review Standards.
+The following standards will be used to evaluate the proposed
+site plan:
+1. Except as necessary for construction of access roads,
+building pads, septic drain fields, public utility
+easements, parking areas, etc., the existing tree and
+shrub cover screening the development from the
+designated road, river, or stream shall be retained.
+This provision does not prohibit maintenance of existing
+lawns removal of dead diseased or hazardous
+vegetation; the commercial harvest of forest products in
+accordance with the Oregon Forest Practices Act, or
+agricultural use of the land.
+2. It is recommended that new structures and additions to
+existing structures be finished in muted earth tones
+that blend with and reduce contrast with the surrounding
+vegetation and landscape of the building site.
+3. No large areas, including roofs, shall be finished with
+white, bright or reflective materials. Metal roofing
+material is permitted if it is non - reflective and of a
+color which blends with the surrounding vegetation and
+landscape.
+4. Subject to applicable rimrock setback requirements or
+rimrock setback exception standards in section
+18. 084. 090 all structures shall be sited to take
+advantage of existing vegetation, trees and topographic
+features in order to reduce visual impact as seen from
+the designated road, river, or stream. When more than
+one non- agricultural structure is to exist and no
+vegetation, trees or tORographic features exist which
+can reduce visual impact of the subject structure, such
+structure shall be clustered in a manner which reduces
+their visual impact as seen from the designated road,
+river, or stream.
+Page
+0111= 0013
+5. Structures shall not exceed 30 feet in height measured
+from the natural grade on the side( s) facing the road,
+river or stream. Within the LM zone along a State
+scenic waterway or Federal wild and scenic river, the
+height of a structure shall include chimneys, antennas,
+flag poles or other projections from the roof of the
+structure. This section shall not apply to agricultural
+structures located at least 50 feet from a rimrock.
+6. New residential or commercial driveway access to
+designated landscape management roads shall be
+consolidated wherever possible.
+7. New residential exterior lighting, including security
+lighting, shall be sited and shielded so that it is
+directed downward and is not directly visible from the
+designated road, river, or stream.
+8. The Planning Director or Hearings Body may require the
+establishment of introduced landscape material to screen
+the development, assure compatibility with existing
+vegetation, reduce glare, direct automobile and
+pedestrian circulation [ and] or enhance the overall
+appearance of the development while not interfering with
+the views of oncoming traffic at access points or views
+of mountains, forests and other open and scenic area as
+seen [ from the proposed site] from the designated
+landscape management road, river or stream. Use of
+native species shall be encouraged. ( Formerly Section
+18. 84. 080( c))
+9. No signs or other forms of outdoor advertising that are
+visible from a designated landscape management river or
+stream shall be permitted. Property protection signs
+No Trespassing, No Hunting, etc.) are permitted.
+10. A conservation easement as defined in Section 18. 04. 030
+Conservation Easement" and specified in Section
+18. 116. 2[ 1] 20 shall be required as a condition of
+approval for all landscape management site plans
+involving property adjacent to the Deschutes River,
+Crooked River, Fall River, Little Deschutes River,
+Spring River, Squaw Creek and Tumalo Creek.
+Conservation easements required as a condition of
+landscape management site plans shall not require public
+access.
+18. 84. 085 Imposition of Conditions.
+The standards of this chapter may be met by the imposition of
+conditions drawn to ensure that the standards will be met.
+Page
+0111- 0014
+18. 84. 090 Setbacks.
+1. Except as provided in this Section, minimum setbacks
+shall be those established in the underlying zone with
+which the LM Zone is combined.
+2. Road Setbacks. All new structures or additions to
+existing structures on lots fronting a designated
+landscape management road shall be set back at least 100
+feet from the edge of the designated road unless the
+Planning Director or Hearings Body finds that:
+a. A location closer to the designated road would more
+effectively screen the building from the road; or
+protect a distant vista; or
+b. The depth of the lot makes a 100 foot setback not
+feasible; or
+C. Buildings on both lots abutting the subject lot
+have front yard setbacks of less than 100 feet and
+the adjacent buildings are within 100 feet of the
+lot line of the subject property; and the depth of
+the front yard is not less than the average depth
+of the front yards of the abutting lots.
+If the above findings are made, the Planning Director or
+Hearings Body may approve a less restrictive front yard
+setback which will be appropriate to carry out the
+purpose of the zone.
+3. River and Stream Setbacks. All new structures or
+additions to existing structures shall be set back 100
+feet from the ordinary high watermark of designated
+streams and rivers or obtain a setback exception in
+accordance with section 18. 120. 030. For the purpose of
+this section, decks are considered part of a structure
+and must conform with the setback requirement.
+The placement of on- site sewage disposal systems shall
+be subject to joint review by the Planning Director or
+Hearings Body and Deschutes County Environmental Health
+Division. The placement of such systems shall minimize
+the impact on the vegetation along the river and shall
+allow a dwelling to be constructed on the site as far
+from the stream or lake as possible. Sand filter
+systems may be required as replacement systems when this
+will allow a dwelling to be located further from the
+stream or to meet the 100 - foot setback requirement.
+Formerly Section 18. 84. 08( E)
+4. Rimrock Setback. New structures ( including decks or
+additions to existing structures) shall be set back 50
+feet from the rimrock in an LM zone. An exception to
+this setback may be granted to as close x' 20 feet of
+Page 6 asa
+J
+0111- 0015
+the rimrock pursuant to the provisions of subsection 5
+of this section.
+5. Rimrock Setback Exceptions. An exception to the 50 - foot
+rimrock setback may be granted by the Planning Director
+or Hearings Body, subject to the following standards and
+criteria•
+a. An exception shall be aranted when the Plannina
+Director or Hearings Body finds that: ( In all cases
+the structure shall meet all standards and criteria
+established in this chapter and Section 18. 116. 160
+of this Title. 1
+i
+0111= 0016
+the rimrock unless the planning director or
+hearings body finds that the lesser setback
+will make the structure less visible or the
+structure is completely screened from the
+river or stream.
+5) Where multiple non- agricultural structures are
+proposed on a lot or parcel, the structures
+shall be grouped or clustered so as to
+maintain a general appearance of open
+landscape for the affected area. This shall
+require a maintenance of at least 65% open
+space along rimrocks within subject lots or
+parcels.
+6. Scenic Waterways. Approval of all structures in a State
+Scenic Waterway shall be conditioned upon receipt of
+approval of the State Parks Department.
+18. 84. 100[ 090] Septic Permits.
+Prior to the issuance of a permit for any on- site sewage
+disposal system [ permit] that is to be located within 200
+feet of a river or stream in a landscape management corridor
+a Landscape Management Site Plan shall be approved in
+accordance with this Chapter. ( Ord. 90- 020 § 1, 1990).
+EXHIBIT B 0111- 0017
+Chapter 18. 116
+Supplementary Provisions
+18. 116. 160 Rimrock Setbacks outside of LM Combining Zone.
+All structures, including decks, within 50 feet from the edge
+of a rimrock, as defined in Section 18. 04.[ 040] 030 of this
+Title, shall be subject to site review if visible from the
+river or stream. Prior to approval of any structure within
+50 feet of a rimrock the Planning Director or Hearings Body
+shall make the following findings:
+A. All structures, including decks, shall be set back a
+minimum of 20 feet from the edge of the rimrock. [ as
+defined in Section 18. 04. 030. " Rimrock".]
+B. The height of the structure shall not exceed the setback
+from the edge of the rimrock. [ The 20 - foot rimrock
+setback shall not apply to decks so long as the railing
+or other man- made border around the deck does not exceed
+four feet in height and is not of solid construction.
+However, no deck shall be set back less than three feet
+from any rimrock.]
+C. If there is more than one rimrock ledge or outcrop
+within the river or stream canyon, the 20 - foot setback
+requirement shall be measured from the rimrock which is
+furthest from the river or stream.]
+D. Existina trees and shrubs which reduce the visibility of
+the proposed structure shall be retained. [ If the
+20 - foot rimrock setback is within 100 feet of the
+ordinary high water line of the river or stream, the
+structure may be granted an exception to the 100 - foot
+river or stream setback as provided under Section
+18. 120. 030 for structures meeting the criteria of
+Section 18. 120. 030( E)( b)( 2). However, under no
+circumstances shall the structure be set back less than
+20 feet from the rimrock.]
+E. Where multiple structures are proposed on a parcel of
+land the structures shall be grouped or clustered so as
+to maintain a general appearance of open landscape for
+the effected area. This shall require a maintenance of
+at least 65% open space along all rimrocks.
+Ord. 91- 020 § 1, 1991; Ord. 86- 053 § 21, 1986; Ord.
+82- 013 § 2, 1982)
+Section 5. 250, Lands Adjoining SM or SMR Zones,
+repealed by Ord. 88- 004 § 1, 1988; Ord. 85- 016 § 2,
+1985; Ord. 81- 015 § 1, 1981)
+EXHIBIT " C" 0111- 0018
+OPEN SPACE AREAS OF SPECIAL CONCERN AND ENVIRONMENTAL
+QUALITY FINDINGS FOR
+LANDSCAPE MANAGEMENT COMBINING ZONES
+The County Comprehensive Plan section on open spaces, areas
+of special concern, and environmental quality is the guiding
+policy document for the Landscape Management Combining Zone
+LMCZ) and rimrock setback provisions. Areas included in the
+LM zone consist of numerous roads and highways, identified in
+the comprehensive plan, and all area within 200 feet of
+either side of designated rivers and streams.
+In 1986, to implement the findings of the City of Bend . and
+Deschutes County River Study, the Board of County
+Commissioners adopted Ordinance 86- 019 which amended
+comprehensive plan policies relating to landscape management
+areas along certain rivers and streams. Ordinance 86- 006, by
+operation, deleted the Deschutes River Combining Zone from
+the County Zoning Ordinance.
+The Department of Land Conservation and Development review of
+the Deschutes County proposed periodic review order, dated
+August 27, 1990 reviewed and made comments and
+recommendations on the proposed periodic review order. The
+County segmented the comments into related areas in order
+more reasonably to deal with the large amount of work
+involved. Factors relating to Goal 5 open space issues were
+separated into two parts. Part 1 involved the landscape
+management combining zone ( LMCZ) resources and State and
+Federal Scenic Waterways. Part 2 includes adoption of the
+changes proposed in the periodic review order as well as
+several more minor changes recommended in DLCD' s review.
+This package deals with part 1, LMCZ' s.
+A. DLCD recommendations for periodic review requiring
+changes in the LMCZ:
+1. " The County did not include an analysis of the
+cumulative effects of a development decisions on the
+protection of Goal 5 resources. At a minimum the County
+must assess the cumulative effects of implementing
+actions on Goal 5 resource which are currently being
+protected under the ( 1) Landscape Management Combining
+Zone; ( 2) Wildlife Area Combining Zone; ( 3) Deschutes
+River Combining Zone; and ( 4) Floodplain Zone. The
+County developed these zones to protect several
+significant Goal 5 resources. A finding that individual
+decisions have been made consist with acknowledged Goal
+5 standards is not adequate. The County must assess
+cumulative effects) of development decisions since
+LANDSCAPE MANAGEMENT COMBINING ZONES
+April 8, 1992
+0111- 0019
+acknowledgement. The purpose of this analysis is to
+test whether the original assumption upon, which the
+1980 plan was based, continue to comply with Goal 5.
+Discretionary review criteria can also be tested. If
+the County finds that cumulative effects of
+implementation actions have resulted in a significant
+lose of habitat areas or resource values, amendments to
+these regulations will be necessary to satisfy periodic
+review ( OAR 660- 19- 055( 1))."
+2. Potential and Approved Federal Wild and Scenic Rivers
+and State Scenic Waterways
+The proposed order identified, as a Goal 5 resource,
+the Upper Deschutes River within Deschutes County and
+all land within 1/ 4 mile of each bank, beginning at
+Wickiup Dam and extending downstream to Lake Billy
+Chinook, excluding approximately 12 miles within the
+Bend Urban Growth Boundary." Conflicting uses and the
+ESEE consequences analysis is discussed in the Deschutes
+County/ City of Bend River Study, April 1986.
+Implementing measures which carry out the proposed 113C"
+designation is set forth in the Deschutes River
+Combining Zone ( Zoning Ordinance, section 4. 195) ( See
+below, Implementing Measures, for discussion of the
+Deschutes River Combining Zone).
+The proposed order does not discuss the Deschutes River
+from Little Lava Lake downstream to Crane Prairie
+Reservoir as a designated state scenic waterway under
+Ballot Measure No. 7. The proposed order does not
+discuss other portions of the Deschutes Rive designated
+as a federal Wild and Scenic River and their
+classification under the Omnibus Oregon Wild and Scenic
+Rivers Act of 1988 are also not discussed. The federal
+Wild and Scenic River section of Squaw Creek is also not
+discussed. To comply with Goal 5, the county needs to
+address these resources under Goal 5 and explain how
+its resource protection program under Goal 5 coordinates
+with state and federal agencies responsible for managing
+these river segments".
+3. Goal 5 Implementing Measures
+The county' s proposed periodic review order contain
+ESEE consequences analyses for several Goal 5 resources.
+The Deschutes County/ City of Bend River Study, April
+1986 is a major component of the county' s plan and
+provides most of the analyses required under Goal 5. No
+amendments to the county' s Goal 5 implementing measures
+are proposed under periodic review.
+The following standards do not comply with the
+requirements for clear and objective standards and
+LANDSCAPE MANAGEMENT COMBINING ZONES
+April 8, 1992
+0111= 0020
+conditions under OAR 660- 16- 010( 3) because they provide
+too much discretion and not enough certainty:
+Landscape Management Combining Zone
+1. Subsection ( 6)( B). " If upon ... the Hearings Officer
+finds the established setbacks inappropriate to
+carry out the purpose of the LM zone, he may
+require more or less restrictive dimensions."
+2. Subsection ( 8)( A): " visually compatible" and
+unduly generate glare"; and ( 8)( D): " unduly
+diminishes the aesthetic qualities...".
+B. COMULATIW IMPACTS:
+In conducting a cumulative effects analysis of development
+decisions in LM zones the County encountered a great deal of
+difficulty. It is extremely difficult to quantify impacts on
+aesthetic resources. It was found to be impractical to
+assess and quantify the impacts of hundreds of land use and
+building permits issued in a Landscape Management Combining
+Zones. For this reason the County chose to have an
+evaluation conducted by the County Planning Commission. The
+Planning Commission serves as the county' s citizen
+involvement program. The Planning Commission, assisted by
+the planning staff analyzed impacts in the landscape
+management corridors of the county by individually
+considering the impacts structures which effected view
+corridors. The Planning Commission evaluated impacts in a
+subjective manner considering the relevant zoning ordinance
+standards and criteria and the comprehensive plan policies.
+The findings were discussed by the Planning Commission at
+regular Planning Commission meetings. Several staff reports
+were prepared to discuss the various issues. The problem
+issues identified and agreed to by the Planning Commission
+were as follows:
+1. The design review standards in the Landscape Management
+Zone were not clear and objective.
+2. Properties which were not visible from the river or road
+were subject to requirements of the zoning ordinance to
+file site plans and pay related fees for review.
+3. The ordinance did not specify that vistas to be
+protected are those as seen from the river or road.
+4. The Landscape Management Combining Zone width of 200
+feet was not adequate to protect the visual corridors
+along rivers and streams.
+5. The standards of the LM zone were inconsistent with the
+State Scenic Waterway standards in some respects.
+LANDSCAPE MANAGEMENT COMBINING ZONES
+April 8, 1992
+0111- 0021
+6. The State Scenic Waterway includes review of
+development within 1/ 4 mile on either side of designated
+sections of a river compared to 200 feet by the County.
+7. The 20 feet rimrock setback standard was not adequate to
+comply with the purpose of the zone to maintain scenic
+and natural resources of the zone. The rimrock setback
+does not accomplish the comprehensive plan policy to
+minimize the visual impact of structures as viewed from
+the river.
+The Planning Commission held work sessions on March 27th,
+July 10th and August 14th 1991. Public Hearings were held by
+the Planning Commission on September 4th and October 23rd and
+additional work sessions were held October 9th and November
+13th with a recommendation to the Board of County
+Commissioners. The Board of County Commissioners held a
+public hearing on January 15, 1991. The Board concurs with
+the findings of the Planning Commission that the cumulative
+effects of implementation actions have resulted in
+development which did not carry out the intent of the
+comprehensive plan. The Board finds that amendments are
+necessary to satisfy the requirements for periodic review
+established by OAR 660- 19- 055( 1).
+C. SUNKARY Of AMENDMENTS TO TITLE 18. 84 Of THE COUNTY CODE:
+1. Section 18. 84. 010 is amended to specify that the vistas
+and natural landscapes to be protected are those as seen
+from the stream, river or road.
+2. Section 18. 84. 020 is amended to expand the landscape
+management corridors to include all areas within the
+boundaries of a State Scenic Waterway of Federal Wild
+and Scenic River Corridor and all area within 660 feet
+of rivers and streams identified as landscape management
+corridors in the comprehensive plan. The inclusion of
+the State and Federal Scenic Waterway' s will require
+that all structures will be subject to a land use permit
+involving public notice. This will improve coordination
+with other governmental agencies by insuring adequate
+time and notice to address issues of mutual concern.
+The expansion of other landscape management corridors
+along rivers and streams to 660 feet will improve visual
+resource management along streams and rivers. This will
+satisfy the deficiency identified in the cumulative
+impact analysis of the Planning Commission. This also
+is consistent with the current comprehensive plan,
+Deschutes River Corridor Open Space, policy # 1. This
+policy requires inclusion of the " areas" along certain
+rivers and streams, in the LMCZ. This distance is not
+LANDSCAPE MANAGEMENT COMBINING ZONES
+April 8, 1992
+0111- 0022
+defined but may include all riparian areas, wetlands and
+canyons.
+3. Section 18. 84. 050 requires site plan review for
+structures within the LM zone, clarifies the amount of
+alteration allowed without site plan review and exempts
+structures which will not be and will remain invisible
+from a designated roadway, river or stream from the
+provisions of site plan review.
+4. Section 18. 84. 070 establishes more clearly the type of
+site plan needed to apply for a structure in the LM
+Combining Zone.
+5. Section 18. 84. 080 establishes design review standards
+which are more clear and objective than previous
+standards. It is very difficult to develop clear and
+objective standards for aesthetic purposes. Clear and
+objective standards reduce flexibility and do not allow
+consideration of site specific features and
+characteristics. For this reason site plan review
+requires some discretionary standards which will be
+subject to land use permits involving public notice.
+The Board has chosen not to mandate specific colors but
+to make them a recommendation. This was a particularly
+controversial issue in the public hearings and the Board
+finds that requirements for colors which blend into the
+surrounding landscape are subjective and not clear and
+objective. Further, the Board finds that the
+recommendation of the Planning Commission to allow
+traditional red barns and white farmhouses, though clear
+and objective, creates certain inequities since these
+colors would not blend with the surrounding landscape.
+There was much controversy over the county' s
+requirements for conservation easements as a condition
+of approval of a landscape management site plan. The
+Board finds that there is not a reasonable nexus between
+a LM review for a permitted use and public access to
+streams. For this reason public access will not be
+required as a condition of approval of a landscape
+management site plan. The Board finds that conservation
+easements do promote the purposes of the LM zone and
+should be required, as they are for all other land use
+permits.
+6. Section 18. 84. 090 establishes setback standards in
+Landscape Management Combining Zones. These are clear
+and objective standards which did not previously exist
+in the Landscape Management Combining Zone. The 100
+foot setback is consistent with requirements for
+structures which currently exist from all streams and
+river in the county. This section expands this setback
+LANDSCAPE MANAGEMENT COMBINING ZONES
+April 8, 1992
+0111- 0023
+to include areas along roadways in the LM Combining
+Zone. This section allows exceptions to setback
+standards for situations that would be severely
+restricted by the new setbacks.
+By far the most controversial issue in the Landscape
+Management Combining Zone review is the rimrock setback
+standards. The county comprehensive plan goals and
+policies on open space, amended by Ordinance 86- 019,
+adopting the requirements of the Deschutes River Study,
+states " Deschutes County shall modify its existing
+rimrock setback ordinance to assure that visual impacts
+of structures viewed from rivers or streams are
+minimized". The cumulative impact analysis indicates
+that the current 20 foot rimrock setback is not
+adequate, in all cases, to protect the visual resource
+values along rivers and streams.
+The Board finds that increasing the setback to 50 feet
+will satisfy the comprehensive plan policy to minimize
+impacts along rivers. However considerable testimony,
+in the record indicates that the 50 foot setback creates
+a significant burden on some existing parcels.
+Testimony in the record indicates that significant loss
+of property value can occur with the increase in setback
+from 20 to 50 feet. For this reason a structures within
+50 feet of a rimrock will be allowed on existing lots
+when certain criteria are met. These criteria allow
+dwellings when compliance with the setback standards
+would be completely screened from the river, houses on
+both abutting lots are located closer than 50 feet or
+adherence to the 50 foot setback would prevent a
+structure from being located on the lot. Additionally,
+structures located closer than 50 feet of a rimrock are
+allowed if they satisfy certain site plan criteria to
+minimize visual impact when viewed from the river or
+stream. Trees and shrubs are retained to screen the
+structure, the height of the structure can not exceed
+the setback from the edge of the rim, and no visible
+portion of the structure is located within 20 feet of
+the rimrock. The Board finds that these provisions
+minimize the impacts of structures on the scenic values
+of the area while recognizing setback expectations of
+property owners and the value of rimrock views. This
+balancing is consistent with the treatment of other
+conflicting values in the county' s Goal 5 element of the
+comprehensive plan. This represents a 113C" decision as
+identified in the " Goal 5 Rule".
+The Board finds that the acknowledged ESEE analysis and
+findings relating to open space and recreation
+consequences contained in the Deschutes River Study and
+incorporated into the comprehensive plan are adequate to
+support this decision.
+LANDSCAPE MANAGEMENT COMBINING ZONES
+April 8, 1992
+0111- 0024
+7. Section 18. 84. 090( 6) State and Federal Scenic Waterways.
+The goals and policies of the comprehensive plan enacted
+by the Deschutes River Study in 1986 encourage the
+designation of appropriate segments of the Deschutes
+River, Fall River, Little Deschutes River and Crooked
+River under the Federal Wild and Scenic River program
+and the State Scenic Waterways program. Since that time
+certain areas have been so designated. DLCD required
+the County to address these resources and explain how
+its resource protection program under Goal 5 coordinates
+with State and Federal agencies responsible for managing
+these river segments.
+All State Scenic and Federal Wild and Scenic Waterway
+designations are included in the comprehensive plan in
+order to satisfy included the periodic review
+requirements, under Factor 2, new or amended goals or
+rule adopted since the date of acknowledgement. The
+LMCZ requires that structures in the State Scenic
+Waterway meet all standards of the State. For this
+reason no building permit would be issued until the
+applicant obtains approval from the State of Oregon to
+build in the State Scenic Waterway. The County has
+attempted to make its standards as consistent as
+possible with the State Scenic Waterway standards. It
+should be noted that the rule making process in adopting
+specific land management standards for the State Scenic
+Waterways in Deschutes County took into consideration
+local ordinances. The State adopted many of the county
+land use development standards in an effort to balance
+the protection of the rivers special attributes with the
+local planning regulations. State parks has submitted a
+letter in the record which indicates that it supports
+the proposed changes. This letter also indicates that
+the State will make every effort to revise the
+administrative rule to be consistent with the new county
+standards.
+The Federal Wild and Scenic Waterway standards are
+currently being developed. The letter in the record
+from the Deschutes National Forest states that the
+proposed changes are consistent with the Wild and Scenic
+River requirements. The County is currently working to
+coordinate planning efforts with the Bureau of Land
+Management and Forest Service for the standards being
+developed within the Wild and Scenic River designations.
+8. Section 18. 116. 160 of the County Code is being amended
+to regulate development along rimrocks outside of a LM
+Combining Zone. Rimrock setback outside of a LM zone
+have been regulated since the county' s comprehensive
+plan was adopted in November of 1979. The subject
+changes would require site plan review for all
+LANDSCAPE MANAGEMENT COMBINING ZONES
+April 8, 1992
+0111- 0025
+structures within 50 foot of a rimrock. The changes
+would require that all structures visible from the
+protected view corridor of a designated river would be
+required to be setback a minimum of 20 feet from the
+edge of the rimrock. The height of a structure shall
+not exceed the setback from the edge of a rimrock.
+Existing trees and shrubs which reduce visibility of the
+proposed structure would be required to be retained.
+These changes are made to maintain consistency with the
+rimrock standards in LM zone.
+D. SUMMARY OF AMENDMENTS TO THE COMPREHENSIVE PLAN:
+1. The Board finds that the with few exceptions subject
+Landscape Management Combining Zone requirements are
+consistent with all existing comprehensive plan goals
+and policies.
+Changes to the comprehensive plan include:
+a. Recognition of appropriate segments of the
+Deschutes River and Squaw Creek as Federal Wild,
+Scenic or Recreational River and State Scenic
+Waterways and expansion of the LMCZ to include
+these areas.
+b. Expansion of LM corridors along certain rivers and
+streams from 200 feet to 660 feet to include them
+in the LMCZ.
+C. Listing of Landscape Management Corridors along
+highways and roads currently designated only on
+zoning and comprehensive plan maps.
+d. Housekeeping clarifications to improve plan
+readability and increase plan consistency with the
+LMCZ.
+All of these changes are consistent with and supported
+by the acknowledged ESEE analysis, findings, and
+supporting documentation adopted by the Board in the
+Deschutes River Study or currently existing in the
+acknowledged county comprehensive plan.
+2. Other comprehensive plan amendments specified in the
+proposed periodic review order and necessitated by the
+DLCD review of the proposed periodic review order of
+August 27, 1990 will be adopted as part of the final
+periodic review order.
+mjz
+LANDSCAPE MANAGEMENT COMBINING ZONES
+April 8, 1992

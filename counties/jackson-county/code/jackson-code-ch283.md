@@ -1,0 +1,146 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch283
+title: 'Ch283'
+doc_type: ordinance
+citation: 'Ch283'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/Administrative%20Code/Ch283.pdf?t=202406261249330
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 97bd6682adc7ab5da75bef03438eafb91319301a0b90944b210bf998de651f15
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 108.010
+    - ORS 133.055
+    - ORS 179.750
+    - ORS 185.510
+    - ORS 652.210
+    - ORS 659.020
+    - ORS 659.029
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch283 (Ch283)
+
+## At a glance
+
+Ch283 — code of Jackson County. 3 pages.
+
+## Full text
+
+2019 Replacement
+
+CHAPTER 283
+Status of Women Advisory Committee
+
+283.01 P
+olicy Statement; Establishment; Application.
+283.02 Composition; Terms of Office; Meetings; Compensation.
+283.03 Functions and Responsibilities.
+
+CROSS REFERENCES
+
+Removal of wife's civil disabilities; wife's civil rights (feme sole) - see ORS
+108.010
+Family abuse and violence - see ORS 133.055
+Discrimination in educational and recreational facilities - see ORS 179.750
+Commission for Women - see ORS 185.510 et seq.
+Wage discrimination - see ORS 652.210, 652.220, 652.230, 652.990
+Discrimination in employment - see ORS 659.020, 659.029, 659.030
+Pregnancy and childbirth - see ORS 659.029
+Committees generally - see ADM. Ch. 250
+Discrimination in Airport businesses - see S.U. & P.S. 1062.52
+
+283.01 POLICY STATEMENT; ESTABLISHMENT; APPLICATION.
+
+(a) It is the policy of the County to take affirmative action to eliminate the practice of
+discrimination and prejudice on account of sex in the areas of housing, education,
+community services, employment and related fields. In order to promote this policy, there
+is hereby established in and for the County a Status of Women Advisory Committee.
+
+(b) This chapter shall apply throughout the County. Nothing in this chapter shall be
+deemed to create any right, power or duty in conflict with any State, Federal or municipal
+law.
+
+(Ord 80-2. Passed 5-21-80.)
+283.03 Status of Women Advisory Committee  190
+  2019 Replacement
+
+283.02 COMPOSITION; TERMS OF OFFICE; MEETINGS;
+COMPENSATION.
+
+The Status of Women Advisory Committee shall consist of eleven members. Members of
+the Committee shall serve two-year terms or until their successors are appointed. When a
+member of the Committee completes a term of office, the Committee shall, upon a
+majority vote, recommend a replacement to the Board of County Commissioners.
+Whenever a member fails to attend more than three consecutive regular meetings, the
+Committee shall, upon a majority vote, recommend to the Board a replacement to serve
+the remainder of the unexpired term, unless the member's failure is excused. The
+Committee shall have regular meetings, the frequency, time and place of which shall be
+established by the members in accordance with the needs of the Committee. Notice of
+meetings shall be given to the Board and the public in accordance with State law.
+Members of the Committee shall serve without compensation, but may receive
+reimbursement for necessary travel and other expenses incurred on official business in
+accordance with established County policies, subject to budget limitations.
+
+(Order 281-81. Passed 10-14-81.)
+
+283.03 FUNCTIONS AND RESPONSIBILITIES.
+
+The functions and responsibilities of the Status of Women Advisory Committee shall be
+to:
+
+(a) Study and investigate, by means of meetings, conferences or public hearings,
+conditions which demonstrate discrimination or prejudice against any person because of
+sex, and complaints on the needs and problems of women;
+
+(b) Initiate its own investigations within its scope of authority;
+
+(c) Seek to resolve such matters through consultation, conciliation and advice;
+
+(d) Consult and cooperate with the Board of County Commissioners and Federal, State,
+city and other public agencies, and refer, if requested, to the proper governmental
+agencies, any matters, disputes or controversies already in the jurisdiction of its existent
+powers, with the intent that duplication of efforts should be avoided;
+
+(e) Prepare and disseminate information in the field of sex discrimination and prejudice,
+and advice and counsel residents of the County, the Board and departments and agencies
+of the County, State and Federal governments on matters involving the needs of wome n
+and relating to discrimination and prejudice because of sex;
+
+(f) Recommend necessary procedures, programs or legislation to promote and ensure
+equal rights and opportunities;
+191 Status of Women Advisory Committee  283.03
+  2019 Replacement
+
+(g) Undertake any specific task or investigation as may be requested by the Board;
+
+(h) Render to the Board, at least once each calendar year, a report of its activities and
+other special reports as requested by the Board;
+
+(i) Subject to the approval of the Board, request information and use of services,
+facilities and other assistance for purposes of furthering the objectives of this chapter; and
+
+(j) Facilitate or promote programs relevant to the status of women as proposed and
+supported by community organizations.
+
+(Order 281-81. Passed 10-14-81.)

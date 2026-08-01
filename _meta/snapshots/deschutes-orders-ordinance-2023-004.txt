@@ -1,0 +1,330 @@
+REIBW\; LEGAL COUNSEL
+Recorded in Deschutes County
+Steve Dennison, County Clerk
+Commissioners' Journal
+CJ2023-76
+03/03/2023 1 :31 :55 PM
+II I I 111111111111111111111111 2023-76
+For Recording Stamp Only
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County Code
+Title 18, Chapter 18.116.290, to Streamline
+Establishment of Amateur Radio Facilities.
+*
+*
+*
+*
+*
+ORDINANCE NO. 2023-004
+WHEREAS, the Board of County Commissioners directed Deschutes County Community Development
+Department staff to initiate amendments (Planning Division File No. 247-22-000912-TA) to Deschutes County
+Code Title 18, Chapter 116.290, Amateur Radio Facilities; and
+WHEREAS, the Deschutes County Planning Commission reviewed the proposed amendments on January
+13 and January 26, 2023 and forwarded to the Deschutes County Board of County Commissioners ("Board") a
+unanimous recommendation of approval; and
+WHEREAS, the Board considered this matter after a duly noticed public hearing on February 15, 2023
+and concluded that the public will benefit from the proposed changes to the Deschutes County Code Title 18;
+now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. Chapter 18.116.290, Amateur Radio Facilities, is amended to read as
+described in Exhibit "A", attached hereto and by this reference incorporated herein, with new language underlined
+and language to be deleted in strikethrough.
+Ill
+PAGE 1 OF 2 - ORDINANCE NO. 2023-004
+Section 2. FINDINGS. The Board adopts as its findings, Exhibit "B" attached and incorporated by
+reference herein .
+Dated this
+.S,--t-"'
+I of JVlOJVt\ , 2023
+ATTEST:
+��JnmM
+Recording Secretary
+Date of 1 st Reading: /S�ay of 1-..eJ:J •
+Date of 2nd Reading: f �ay of falo.rcAv
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY,OREGON
+ANTHONY DEBONE, Chai?
+��
+PATTI ADAIR, Vice Chair
+PHILIP CHANG
+, 2023.
+, 2023.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Anthony DeBone X
+Patti Adair
+f Philip Chang
+Effective date: JO.yi.... day of
+/\1�
+, 2023.
+PAGE 2 OF 2 - ORDINANCE NO. 2023-004
+Exhibit A to Ordinance 2023-004: Proposed Text Amendments
+Removed
+18.116.290 Amateur Radio Facilities
+A. Amateur radio facilities shall meet the following criteria:
+1. Antenna support structures, including guy wires and anchors shall be located outside of the
+required front, rear and side yard setbacks;
+2. Metal structures shall have a galvanized finish, or flat or matte silver, or flat or matte gray in
+color;
+3. Amateur radio facilities shall not include attached signage, symbols, or decorations, lighted or
+otherwise, other than required unlighted signage for safety or regulatory purposes;
+4. The property owner shall obtain a valid building permit if required from the Deschutes County
+Community Development Department, Building Safety Division.
+� The height of amateur radio facilities shall be excepted from that of the underlying zoning
+district in accordance with Band C below, unless located in the AS, AD, or LM zones per
+18.120.040(Al(,1L
+J1. Amateur radio facilities up to 70 feet in height are allowed outright in any zone as an accessory use
+if the provisions of subsection (ALi_ri__<;L(J3J..(1) are otherwise met.
+FCC License. The property owner shall obtain a current, valid FCC Amateur Radio License for the
+operation of amateur ("Ham") radio services in the name of the property owner.
+C. Amateur radio facilities over 70 feet in height, up to 200 feet maximum height, are subiect to the
+requirements under subsection (A) and (C)(1)(2), and any conditions of land use approval .
+.➔.- Compliance with Federal and State Regulations
+a. The property owner shall demonstrate compliance with applicable Federal Communications
+Commission (FCC), Federal Aviation Administration {FAA), and Oregon Department of
+Aviation (ODA) restrictions if applicable7
+a-:- Compliance may be demonstrated by submitting copies of the FCC's, FAA's, and ODA_y'.'s
+written determination to the Deschutes County Community Development Departments,
+Building Safety Division at time of application for a building permit; and
+&:-2, FCC License
+a. The property owner shall provide documentation of a current, valid FCC Amateur Radio
+License for the operation of amateur ("Ham") radio services in the name of property owner.
+b. Compliance may be demonstrated by submitting a copy of the property owner's Amateur
+Radio License to the Deschutes County Community Development Departments, Building
+Safety Division at time of application for a building permit.
+(Ord. 2023-004, Ord. 2008-007 §2, 2008)
+Exhibit B: Proposed Findings 247-22-000912-TA
+FINDINGS
+I. PROPOSAL
+This is a legislative text amendment to Deschutes County Code (DCC), Title 18, County Zoning. The
+primary purpose of the amendments is to streamline the review process for certain Amateur Radio
+(HAM Radio) facilities.
+Section 18.116.290, the code section regulating Amateur Radio Facilities, currently contains unclear
+language regarding the type of land use review application needed and requires written statements
+of compliance from Oregon Department of Aviation (ODAV), Federal Communications Commission
+(FCC), and Federal Aviation Administration (FAA), which are often difficult to acquire for smaller
+facilities.
+Staff is proposing the following revisions to clarify the land use process and requirements for these
+facilities:
+• General cleanup of language and organization
+• Cross-references requirement from 18.120.040(A)(1) that limits height to 30 feet in Airport
+Safety (AS), Airport Development (AD), and Landscape Management (LM) zones for clarity.
+• Added two tiers of regulations based on height
+o For facilities under 70 feet
+• Streamline review process - allowed as outright permitted accessory use
+• No formal determination of written compliance from FAA, ODAV, FCC
+■ Maintains aesthetic and setback requirements
+o For facilities between 70 and 200 feet
+• Explicitly requires land use review
+• Maintains requirement for coordination with FAA, ODAV, FCC
+■ Maintains aesthetic and setback requirements
+II. BACKGROUND
+In 2008, the Deschutes County Board of County Commissioners adopted Ordinance 2008-007,
+establishing regulations for amateur radio facilities. The Board opted to apply the same regulations
+for any facility regardless of height and opted to except these facilities from the height limitations
+of the underlying zoning district 1.
+In 2021 during the Community Development Department's annual work plan development, the
+Board of County Commissioners and the County's Planning Division received testimony from
+HAM/amateur radio operators expressing �oncern regarding the onerous requirements to establish
+1 DCC 18.120.040(A)(1) Building Height Exceptions
+Page 1 of 6 - EXHIBIT B TO ORDINANCE NO. 2023-004
+smaller scale amateur radio facilities (under 70 feet), including a requirement to provide written
+demonstrations of compliance from FAA, ODAV, and FCC. Due to the scope of review authority,
+operators often found that these agencies were not able to provide written determinations of small­
+scale facilities outside of airport and airport overlay zones, which led to a conflict with the County's
+code provisions.
+Operators were instepd seeking a pathway to simplify establishment of facilities under 70 feet, while
+still maintaining regulations for larger scale facilities that may have aesthetic impacts to surrounding
+properties.
+Staff also notes that ORS 221.295 limits restrictions on amateur radio facilities that are 70 feet or
+lower to those that are clearly linked to a health, safety, or aesthetic objective. This results from FCC
+ruling in PRB-1 (codified in 47 CFR Part 97). Therefore, the County has limited authority to apply
+unnecessary regulations to amateur radio facilities outside of those directly addressing a health,
+safety, or aesthetic issue.
+Ill. REVIEW CRITERIA
+Deschutes County lacks specific criteria in DCC Titles 18, 22, or 23 for reviewing a legislative text
+amendment. Nonetheless, since Deschutes County is initiating the amendment, the County bears
+the responsibility for justifying that the amendments are consistent with Statewide Planning Goals
+and its existing Comprehensive Plan.
+IV. FINDINGS
+CHAPTER 22.12, LEGISLATIVE PROCEDURES
+Section 22.12.010.
+Hearing Required
+FINDING: This criterion will be met because a public hearing was held before the Deschutes
+County Planning Commission on January 12, 2023 and Board of County Commissioners on
+February 1 5, 2023.
+Section 22.12.020. Notice
+Notice
+A. Published Notice
+1. Notice of a legislative change shall be published in a newspaper of general
+circulation in the county at least 10 days prior to each public hearing.
+2. The notice shall state the time and place of the hearing and contain a statement
+describing the general subject matter of the ordinance under consideration.
+Page 2 of 6 - EXHIBIT B TO ORDINANCE NO. 2023-004
+FINDING: This criterion will be met as notice was published in the Bend Bulletin newspaper for the
+Planning Commission public hearing on December 27, 2022, and the Board of County
+Commissioners' public hearing on February 15, 2023.
+B. Posted Notice. Notice shall be posted at the discretion of the Planning Director and
+where necessary to comply with ORS 203.045.
+FINDING: Posted notice was determined by the Planning Director not to be necessary.
+C. Individual notice. Individual notice to property owners, as defined in DCC
+22.0B.010(A), shall be provided at the discretion of the Planning Director, except as
+required by ORS 215.503.
+FINDING: Given the proposed legislative amendments do not apply to any specific property, no
+individual notices were sent.
+D. Media notice. Copies of the notice of hearing shall be transmitted to other
+newspapers published in Deschutes County.
+FINDING: Notice was provided to the County public information official for wider media
+distribution. This criterion is met.
+Section 22.12.030 Initiation of Legislative Changes.
+A legislative change may be initiated by application of individuals upon payment of
+required fees as well as by the Board of County Commissioners.
+FINDING: The application was initiated by the Deschutes County Planning Division at the direction
+of the Board of County Commissioners, and has received a fee waiver. This criterion is met.
+Section 22.12.040. Hearings Body
+A. The following shall serve as hearings or review body for legislative changes in this
+order:
+1. The Planning Commission.
+2. The Board of County Commissioners.
+B. Any legislative change initiated by the Board of County Commissioners shall be
+reviewed by the Planning Commission prior to action being taken by the Board of
+Commissioners.
+FINDING: The Deschutes County Planning Commission held the initial public hearing on January
+12, 2023. The Board then held a public hearing on February 15, 2023. These criteria are met.
+Section 22.12.050 Final Decision
+Page 3 of 6 - EXHIBIT B TO ORDINANCE NO. 2023-004
+All legislative changes shall be adopted by ordinance
+FINDING: The proposed legislative changes will be implemented by Ordinance No. 2023-004 upon
+approval and adoption by the Board of County Commissioners. This criterion will be met.
+A. Statewide Planning Goals and Guidelines
+Goal 1: Citizen Involvement: The amendments do not propose any changes to the County's citizen
+involvement program. Notice of the proposed amendments were provided to the Bulletin for each
+public hearing.
+Goal 2: Land Use Planning: This goal is met because ORS 197.61 O allows local governments to initiate
+post acknowledgments plan amendments (PAPA). An Oregon Land Conservation and Development
+Department 35-day notice was initiated on November 28, 2022 The Planning Commission held a
+public hearing on January 12, 2023 and the Board of County Commissioners held a public hearing
+on February 15, 2023. This Findings document provides the adequate factual basis for the
+amendments.
+Goal 3: Agricultural Lands: The proposed amendments are to clarify existing requirements for
+amateur radio facilities. Staff is streamlining requirements for facilities under 70 feet while
+maintaining the current requirements for facilities over 70 feet up to 200 feet. As noted above, ORS
+221.295 limits a local government's authority to regulate tovvers outside of concerns related to
+health, safety, or aesthetics. Adverse impacts to farming practices are not anticipated under these
+amendments and no such impacts have been identified in the record. Oregon Revised Statute and
+Rule do not contain specific requirements for amateur/HAM radio facilities under 200 feet in
+exclusive farm use zones. The amendments are consistent with Goal 3.
+Goal 4: Forest Lands: The proposed amendments are to clarify existing requirements for amateur
+radio facilities. Staff is streamlining requirements for facilities under 70 feet while maintaining the
+current requirements for facilities over 70 feet up to 200 feet. As noted above, ORS 221.295 limits a
+local government's authority to regulate towers outside of concerns related to health, safety, or
+aesthetics. Adverse impacts to forestry practices are not anticipated under these amendments and
+no such impacts have been identified in the record. Oregon Revised Statute and Rule do not contain
+specific requirements for amateur/HAM radio facilities under 200 feet in forest zones. The
+amendments are consistent with Goal 4.
+Goal 5: Open Spaces. Scenic and Historic Areas. and Natural Resources: Goal 5 is to protect natural
+resources and conserve scenic and historical areas and open spaces. OAR 660-023-0250(3) states
+that local governments are not required to apply Goal 5 in consideration of a PAPA unless the PAPA
+affects a Goal 5 resource. The proposed amendment is not seeking to change any requirements in
+the Wildlife Area overlay zone which protects inventoried wildlife resources. The height exemption
+currently in 18.120.040(A)(1) does not allow for a facility over 30 feet in the County's Landscape
+Page 4 of 6 - EXHIBIT B TO ORDINANCE NO. 2023-004
+Management Overlay Zone. This zone protects scenic resources through additional aesthetic
+requirements. The code provision will remain unchanged. Staff finds that the amendments are
+consistent with Goal 5.
+Goal 6: Air. Water and Land Resources Quality: The proposed text amendments do not propose to
+change the County's Plan policies or implementing regulations for compliance with Goal 6, they
+comply.
+Goal 7: Areas Subject to Natural Disasters and Hazards: The proposed text amendments do not
+propose to change the County's Plan or implementing regulations regarding natural disasters and
+hazards; therefore, they comply. Additionally, amateur radio facilities and operators may be of use
+during times of emergency response and loss of standard means of communication.
+Goal 8: Recreational Needs: The text amendments do not propose to change the County's Plan or
+implementing regulations regarding recreational needs; therefore, they are in compliance.
+Goal 9: Economic Development: Goal 9 and its implementing regulations focus on economic analysis
+and economic development planning required in urban Comprehensive Plans to ensure there is
+adequate land available to realize economic growth and development opportunities. The proposed
+amendments apply to rural lands and do not propose to amend the Comprehensive Plan.
+Compliance is met.
+Goal 1 O: Housing: This goal is not applicable because, unlike municipalities, unincorporated areas
+are not obligated to fulfill certain housing requirements.
+Goal 11: Public Facilities and Services: Complies because the text amendments do not propose to
+change the County's Plan or implementing regulations regarding public facilities and services.
+Goal 12: Transportation: Goal 12 is to provide and encourage a safe, convenient and economic
+transportation system. The proposed text amendments will not change the functional classification
+of any existing or planned transportation facility or standards implementing a functional
+classification system. Compliance with Goal 14 is met.
+Goal 13: Energy Conservation: The proposed text amendments do not propose to change the
+County's Plan or implementing regulations regarding energy conservation. Therefore, compliance
+with Goal 13 is established.
+Goal 14: Urbanization: The proposed text amendments do not propose to change the County's Plan
+or implementing regulations regarding urbanization. Therefore, compliance with Goal 14 is
+established.
+Goals 15 through 19 are not applicable to the proposed text amendments because the County does
+not contain these types of lands.
+D. Deschutes County Comprehensive Plan
+Page 5 of 6 - EXHIBIT B TO ORDINANCE NO. 2023-004
+Chapter 1. Comprehensive Planning: This chapter sets the Goals and Policies of how the County will
+involve the community and conduct land use planning. As described above, the proposed
+regulations will be discussed at work sessions with the Board of County Commissioners, as well as
+to the Planning Commission, which is the County's official committee for public involvement. Both
+will conduct separate public hearings.
+These actions also satisfy the Goals and relevant Policies of Section 1.3, Land Use Planning Policies.
+Goal 1 of this section is to "maintain an open and public land use process in which decisions are
+based on the objective evaluation of facts." Staff, the Planning Commission, and the Board reviewed
+the text amendments.
+Page 6 of 6 - EXHIBIT B TO ORDINANCE NO. 2023-004
+BOARD OF
+COMMISSIONERS
+AGENDA REQUEST & STAFF REPORT
+MEETING DATE: March 1, 2023
+SUBIECT: Second reading of Ordinance No. 2023-004, Amateur (HAM) Radio Text
+Amendments
+MOTIONS:
+1. Move approval of second reading of Ordinance No. 2023-004 by title only
+2. Move adoption of Ordinance No. 2023-001
+BACKGROUND AND POLICY IMPLICATIONS:
+On March 1, 2023, staff will present Ordinance No. 2023-004 to the Board of County
+Commissioners for consideration of second reading.
+BUDGET IMPACTS:
+None
+ATTENDANCE:
+Nicole Mardell, AICP, Senior Planner
+TO:
+FROM:
+DATE:
+SUBJECT:
+COMMUNITY DEVELOPMENT
+MEMORANDUM
+Deschutes County Board of County Commissioners ("Board")
+Nicole Mardell, AICP, Senior Planner
+February 22, 2023
+Consideration of Second Reading - Amateur/HAM Radio Facility Amendments
+On March 1, 2023, staff will present Ordinance No. 2023-004 to the Board of County
+Commissioners (Board) for consideration of second reading. The Board held a public hearing
+on February 15, 20231 , at which time the Board closed the oral and written portions of the
+record, deliberated to approve the amendments unanimously, and also conducted first
+reading.
+Staff submitted a 35-day Post Acknowledgement Plan Amendment (PAPA) notice to the
+Department of Land Conservation and Development (DLCD) on November 28, 2022. Staff
+presented the proposed amendments to the Planning Commission at a work session on
+December 8, 20222• The initial public hearing was held on January 12, 20233, at which time
+the Planning Commission closed the oral and written record. The Planning Commission then
+deliberated on January 24, 2023, and recommended approval of the proposed amendments
+as drafted by staff.
+The record, which contains all memoranda, notices, and project materials is available for
+inspection on the project website:
+https://www.deschutes.org/cd/page/247-22-000 912-ta-amateur-ham-radio-text­
+amendments
+1 https:ljwww.deschutes.org/bcc/page/board-county-commissioners-meeting-80
+2 https://www.deschutes.org/bc-pc/p age/planning-commission-23
+3 https://www.deschutes.org/bc-pc/page/planning-commission-31
+NEXT STEPS
+During the February 15 first reading, the Board chose to adopt the ordinance by standard
+procedure rather than by emergency. The ordinance will be effective 90 days after the date
+of adoption, on May 30, 2023.
+Attachments:
+Ordinance No. 2023-004 and Corresponding Exhibits
+Exhibit A - 18.116.290 Amateur Radio Facilities
+Exhibit B - Findings

@@ -1,0 +1,248 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch271
+title: 'Ch271'
+doc_type: ordinance
+citation: 'Ch271'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/Administrative%20Code/Ch271.pdf?t=202406261225000
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 6fb8d43c3737c7154b1fb4b894e75ed65241c386ae81cfdef66c8aa4a499fdc7
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 192.610
+    - ORS 417.730
+    - ORS 417.775
+    - ORS 418.020
+    - ORS 418.025
+    - ORS 419A.010
+    - ORS 419A.044
+    - ORS 419A.090
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch271 (Ch271)
+
+## At a glance
+
+Ch271 — code of Jackson County. 6 pages.
+
+## Full text
+
+CHAPTER 271
+Commission on Children and Families
+
+EDITOR
+'S NOTE:  Chapter 271, previously titled "Juvenile Services Commission," was
+re-titled "Commission on Children and Families" by E. Ordinance 93-45, passed
+December 8, 1993, and P. Ordinance 94-4, passed February 2, 1994.
+
+Board Order 253- 85, passed August 7, 1985, adopted the Juvenile Services Commission
+Bylaws. Copies of such Order and of such Bylaws may be obtained, at cost, from  the
+office of the County Counsel.
+
+271.01 Repealed.
+271.02 Repealed.
+271.03 Repealed.
+271.04 Repealed.
+271.05 Repealed.
+271.06 Repealed.
+271.07 Repealed.
+271.08 Repealed.
+271.09 Repealed.
+271.10 Repealed.
+271.11 Establishment; Purpose.
+271.12 Comprehensive Service Plan.
+271.13 Responsibilities of Commission.
+271.14 Composition; Terms of Office.
+271.15 Meetings; Quorum.
+
+CROSS REFERENCES
+
+Child welfare - see ORS Ch. 418
+Youth care centers - see ORS 418.020, 418.025
+Delinquency prevention - see ORS 418.025
+Juvenile departments - see ORS 419A.010 et seq.
+Juvenile court services - see ORS 419A.044 et seq.
+Local citizen review boards - see ORS 419A.090 et seq.
+Juvenile Department - see ADM. Ch. 241
+
+271.01 (Order 215-85. Passed 7-10-85; REPEALED by  E. Ord. 93-45. Passed 12-8-
+93; P. Ord. 94-4. Passed 2-2-94.)
+
+271.02 (Order 215-85. Passed 7-10-85; REPEALED by E. Ord. 93-45. Passed 12-8-
+93; P. Ord. 94-4. Passed 2-2-94.)
+
+171 Commission on Children and Families   271.12
+
+271.03 (Order 215-85. Passed 7-10-85; REPEALED by E. Ord. 93-45. Passed 12-8-
+93; P. Ord. 94-4. Passed 2-2-94.)
+
+271.04 (Order 215-85. Passed 7-10-85; REPEALED by E. Ord. 93-45. Passed 12-8-
+93; P. Ord. 94-4. Passed 2-2-94.)
+
+271.05 (Order 215-85. Passed 7-10-85; REPEALED by E. Ord. 93-45. Passed 12-8-
+93; P. Ord. 94-4. Passed 2-2-94.)
+
+271.06 (Order 215-85. Passed 7-10-85; REPEALED by E. Ord. 93-45. Passed 12-8-
+93; P. Ord. 94-4. Passed 2-2-94.)
+
+271.07 (Order 215-85. Passed 7-10-85; REPEALED by E. Ord. 93-45. Passed 12-8-
+93; P. Ord. 94-4. Passed 2-2-94.)
+
+271.08 (Order 215-85. Passed 7-10-85; REPEALED by E. Ord. 93-45. Passed 12-8-
+93; P. Ord. 94-4. Passed 2-2-94.)
+
+271.09 (Order 215-85. Passed 7-10-85; REPEALED by E. Ord. 93-45. Passed 12-8-
+93; P. Ord. 94-4. Passed 2-2-94.)
+
+271.10 (Order 215-85. Passed 7-10-85; REPEALED by E. Ord. 93-45. Passed 12-8-
+93; P. Ord. 94-4. Passed 2-2-94.)
+
+271.11 ESTABLISHMENT; PURPOSE.
+
+There is hereby established in and for Jackson County a Commission on Children and
+Families. The purpose of the Commission is to create and over -  see the implementation
+of a Comprehensive Service Plan to promote wellness for the children and families of the
+County, and to develop policy and advise the Board of Commissioners on children and
+family issues.
+
+(E. Ord. 93-45. Passed 12-8-93; P. Ord. 94-4. Passed 2-2-94.)
+
+271.12 COMPREHENSIVE SERVICE PLAN.
+
+(a) General Plan Provisions. The Commission shall develop a Comprehensive Service
+Delivery Plan for all services to be provided to children and families in the County,
+pursuant to the requirements and specifications of ORS 417.775. The Plan will address
+recommended service delivery in Jackson County and make recommendations for
+Jackson County Commission allocations which are in accordance with the priorities
+developed in the Plan. Generally, the comprehensive planning activities shall include
+identification of problems, identification of effective program models, assessment of
+needs and outcomes, and assistance to the County in the coordination of children and
+family programs.
+271.13 Commission on Children and Families   172
+
+(b) Specific Plan Requirements. Subject to the availability of funds, the Plan shall
+include provisions on prenatal and postnatal screening, assessment and referral for at-risk
+children who are newborn through age eighteen and their families in order to promote the
+child's wellness at the earliest possible time. The Plan shall be based on children's support
+areas; the needs and desired outcomes for Jackson County; local, State and Federal
+resources; the best practices for the community of Jackson County; and the continuation
+of current public and private services where appropriate.
+
+(c) Adoption. This Plan, and any amendments, when approved by the Board of
+Commissioners and the State Commission on Children and Families, shall become the
+Plan of the County and shall be the basis for the allocation of funds from the State
+Commission.
+
+(E. Ord. 93-45. Passed 12-8-93; P. Ord. 94-4. Passed 2-2-94.)
+
+271.13 RESPONSIBILITIES OF COMMISSION.
+
+(a) In developing the Comprehensive Service Plan for Jackson County, the Commission
+shall:
+
+(1) Secure the active participation of local and State service providers; educators;
+courts; advisory groups; other planning groups for service delivery to children
+and families; consumers; juvenile justice professionals; child and family
+advocates; business leaders; citizen review boards; churches; populations
+representing a diversity of genders, cultures, orientations and disabilities of
+Jackson County; and other private organizations and citizens;
+
+(2) Conduct an assessment identifying the needs and strengths of Jackson County;
+
+(3) Identify opportunities for integration of services;
+
+(4) Develop a comprehensive service plan and budget that will meet the priority
+needs of Jackson County;
+
+(5) Inform the citizens about the contents of the Plan and provide for a public
+review and comment period;
+
+(6) Develop a method for identifying and evaluating service outcomes; and
+
+(7) Provide for community participation in the planning process, including
+notification of the media. The Commission shall provide an opportunity for
+public and private contractors to review the Plan components, to receive notice
+of any component that the County intends to provide through a County agency
+and to comment publicly before the Board of Commissioners on any
+disagreement they may have with the proposed Comprehensive Service Plan.
+173 Commission on Children and Families   271.14
+
+(b) After approval by the Board of Commissioners and the State Commission, the role
+of the Commission on Children and Families shall be to oversee the implementation of
+the Comprehensive Service Plan for the County. The Commission shall assist the County
+in the following:
+
+(1) Monitoring and evaluating Commission-funded programs;
+
+(2) Applying for funds to implement the Comprehensive Service Plan for Jackson
+County;
+
+(3) Measuring the outcome of Plan components in the County;
+
+(4) Monitoring proposed State legislation pertaining to juveniles and making
+recommendations to the Board of Commissioners regarding such legislation;
+and
+
+(5) Achieving the overall goals and objectives of the Plan.
+
+(c) The County Administrator may designate one or more County staff members to
+provide administrative support to the Commission.
+
+(E. Ord. 93-45. Passed 12-8-93; P. Ord. 94-4. Passed 2-2-94.)
+
+271.14 COMPOSITION; TERMS OF OFFICE.
+
+(a) A majority of a local commission on children and families, including the
+chairperson, shall be laypersons as defined in ORS 417.730 (6) (b). Appointments to the
+local commission shall reflect the county=s diverse populations and shall reflect expertise
+along the full spectrum of developmental stages of a child, from the prenatal stage
+through 18 years of age. Members shall include persons who have knowledge of the
+issues relating to children and f amilies in the affected communities, including education,
+municipal government and the court system.
+
+(b) Members of the local commission shall be appointed to staggered four- year terms.
+The appointing board of county commissioners may appoint a member for additional
+terms or may limit the number of terms that a member may serve
+
+(Ord. 94-91. Passed 9-28-94; Ord. 2004-10. Passed 9-29-04.)
+271.15 Commission on Children and Families   174
+
+271.15 MEETINGS; QUORUM.
+
+(a) The Commission on Children and Families shall hold regular meetings at least once
+quarterly, it’s first meeting to be held prior to February 1, 1994. The frequency, time and
+place of Commission meetings are to be established by the members in accordance with
+the needs of the Commission and at the request of the Board of Commissioners. The
+Commission shall organize, select officers and adopt rules and procedures for the conduct
+of its business. Notice of meetings shall be given to the Board and to the public as
+required by the Oregon Public Meetings Law, ORS 192.610 to 192.690.
+
+(b) A quorum of the Commission on Children and Families shall constitute a majority
+of the members. Without a quorum, no action can be taken except to adjourn the meeting.
+
+(E. Ord. 93-45. Passed 12-8-93; P. Ord. 94-4. Passed 2-2-94.)
+
+175 Commission on Children and Families
+
+THIS PAGE RESERVED FOR EXPANSION

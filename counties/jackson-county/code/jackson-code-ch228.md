@@ -1,0 +1,507 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch228
+title: 'Ch228'
+doc_type: ordinance
+citation: 'Ch228'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/Administrative%20Code/Ch228.pdf?t=202406261249030
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: baab0fe18e2199a623617fd1a97a911707cffc7cdbe97633dc5cd5ae6a847d7c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.065
+    - ORS 210.210
+    - ORS 287.074
+    - ORS 294.027
+    - ORS 294.035
+    - ORS 294.100
+    - ORS 294.460
+    - ORS 34.010
+    - ORS 371.605
+    - ORS 371.630
+    - ORS 371.660
+    - ORS 92.010
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch228 (Ch228)
+
+## At a glance
+
+Ch228 — code of Jackson County. 12 pages.
+
+## Full text
+
+CHAPTER 228
+Finance Department
+
+228.01 Establish
+ment; Functions and Responsibilities.
+228.02 Repealed.
+228.03 Authority for Loans to General Fund; Investment of Funds.
+228.04 Segregation of Special Assessments.
+228.05 Purpose.
+228.06 Definitions.
+228.07 Authority of County to Make Reassessment.
+228.08 Basis for, Amount and Method of Reassessment.
+229.09 Effect of Reassessment; Exceptions.
+228.10 Governing Body Order to Reassess.
+228.11 Publication of Notice of Reassessment; Contents.
+228.12 Personal Notice to Each Owner; Right to File Objections.
+228.13 Hearing on Objections; Revision of Reassessment.
+228.14 Reassessment Ordinance.
+228.15 Lien Docket Entry; Crediting Prior Payments.
+228.16 Review of Assessment.
+228.17 Foreclosure of Special Assessments.
+228.18 Procedures for Special Assessments.
+
+CROSS REFERENCES
+
+Finance generally - see CHTR. Ch. IV
+Duties and powers of County Accountants generally - see ORS 210.210
+Payment of fines from ordinance violations into General Fund - see ORS 203.065
+Refinancing indebtedness; refunding bonds - see ORS 287.074
+Warrants - see ORS 294.027
+Exceeding amount and purpose of expenditures - see ORS 294.100
+Authority for loans to General Fund - see ADM. 222.01
+Budget Committee - see ADM. Ch. 259
+
+228.01 ESTABLISHMENT; FUNCTIONS AND RESPONSIBILITIES.
+
+(a) The Finance Department is established as an agency of the County and shall consist
+of such staff heretofore or hereafter appointed to perform the functions assigned to that
+department.  Functions may be added to, removed from or amended as determined by the
+County.
+228.03 Finance Department  70
+
+(b) The Finance Director shall perform the following duties:
+
+(1) Treasurer, as described in the Home Rule Charter of Jackson County, Oregon.
+
+(2) County Accountant, as described in ORS Chapter 210.
+
+(3) Tax Collector, pursuant to ORS Chapter 311.
+
+(Ord. 82-22. Passed 8-18-82; Ord. 2003-4. Passed 1-22-03.)
+
+228.02 (Ord. 82-22. Passed 8-18-82; Ord. 2003-4. Passed 1-22-03; REPEALED by
+Ord. 2010-5. Passed 6-9-10.)
+
+228.03 AUTHORITY FOR LOANS TO GENERAL FUND; INVESTMENT OF
+FUNDS.
+
+(a) Authority for Loans to General Fund:
+
+(1) The Finance Director shall notify the County Administrator of the
+need for additional funds in the General Fund, of the approximate
+anticipated amount of the need and of the approximate
+unencumbered cash balances available in other funds.
+
+(2) If there is insufficient money in the General Fund to pay warrants
+outstanding or expected to be outstanding prior to the receipt of
+revenues by the General Fund, the County Administrator may
+authorize a loan to the General Fund from such other fund as he or
+she may designate, subject to the limitations of ORS 294.460, and
+as allowed by Oregon and federal law.  Such loan authorization
+shall be in writing and shall specify the purpose for such loan, the
+amount of such loan and the fund from which such loan is to be
+made.
+
+(3) The Finance Director is hereby authorized to make such loan, as
+directed by the County Administrator, and the Finance Director
+shall restore the money to the appropriate fund when money is
+available in the General Fund, without further order
+
+(4) Each such loan shall not be interest-bearing, unless otherwise
+directed by the County Administrator, or otherwise required by
+Oregon or federal law.
+
+(5) The Finance Director shall provide appropriate entries to the
+accounting system to maintain the current balance of such interfund
+loans in the official records of the County.
+71 Finance Department  228.04
+
+(6) Each such loan shall be repaid to the fund from which it was
+borrowed by the end of the ensuing fiscal year.
+
+(b) Investment of Funds.  The Finance Director is directed to serve as custodial officer
+to invest any sinking fund, bond fund or surplus of funds in the custody of the Finance
+Director pursuant to the requirements of ORS 294.035 and the Finance Director’s
+investment policy.
+
+(Order 1-83. Passed 1-5-83; Ord. 2003-4. Passed 1-22-03.)
+
+228.04 SEGREGATION OF SPECIAL ASSESSMENTS.
+
+(a) Definitions.  As used in this section:
+
+(1) Local Improvement - has the meaning given that term in Section 228.06(a) of
+the Codified Ordinances of Jackson County.  (Ord. 92-7. Passed 7-1-92.)
+
+(2) Local Improvement District - means an area within which real property is
+found by the Board of County Commissioners to be specially benefitted by a
+proposed local improvement.
+
+(3) Owner - has the meaning given in ORS 371.605.
+
+(4) Special Assessment - means a monetary obligation imposed by the County as a
+lien on real property within a local improvement district for the purpose of
+defraying all or part of the cost of a specific local improvement which specially
+benefits that real property.
+
+(b) Conditions; Board Order:
+
+(1) The County may segregate a special assessment imposed upon a single tract or
+parcel of real property among all the parcels formed from a subsequent
+partition or other division of that tract or parcel, if the subsequent partition or
+division is in accordance with ORS 92.010 to 92.170 and regulations
+governing the division of lands. The proportionate distribution of an unpaid
+special assessment may be made if the special assessment is not delinquent.
+
+(2) The County may segregate a special assessment when requested to do so, on
+proper application, as specified in paragraph (b)(3) hereof, by an owner,
+mortgagee or lienholder of a parcel of real property that was formed from the
+lawful division of a larger tract of real property against which the special
+assessment was originally levied.
+228.04 Finance Department   72
+
+(3) The segregation of a special assessment under this section shall be entered in
+the record of liens pursuant to and in accordance with an order adopted by the
+Board. The order shall describe each parcel of real property affected by the
+segregation, the amount of the assessment levied against each parcel, the name
+and address of the owner of each parcel, as determined from the information
+represented on the application, and such additional information as the Board
+finds necessary to make a complete record of the assessments. A copy of the
+order shall be filed with the County Clerk and the County Clerk shall make any
+necessary changes or entries in the lien docket.
+
+(4) If the special assessment is being paid in installments under the Bancroft
+Bonding Act, the assessments remaining unpaid shall be prorated among the
+smaller parcels resulting from the division so that each parcel shall be charged
+with that percentage of the remaining installment payments equal to the
+percentage of the unpaid assessment charge to the parcel upon segregation.
+
+(c) Application for Segregation; Procedures:
+
+(1) An application to segregate shall be filed with the County Clerk or such other
+officer as may be designated by the Board as custodian of the assessment lien
+records. The application shall include:
+
+A. A lot book report from a title company showing ownership of all the
+subject parcels segregated;
+
+B. If available, the original and segregated tax lot numbers and the names
+and addresses of the owners of the resulting lots or parcels as shown in
+the County Assessor's records; and
+
+C. An express waiver of defects, jurisdictional or otherwise, in the original
+assessment, unless such a waiver has already been filed.
+
+(2) The application shall be accompanied by a fee as established from time to time
+by the Board of County Commissioners.
+
+(3) If the application is complete, copies shall be submitted to the County Engineer
+and to the Roads and Parks Director.
+73 Finance Department   228.04
+
+(4) The County Engineer shall prepare a proposed segregation of the assessment
+lien between or among the parcels proposed to be divided. The segregation
+shall be based upon the same criteria as those applied in apportioning the
+original assessment among the properties benefitted in the local improvement
+district, and, in any event, shall fairly and equitably reflect a division of the
+benefits among the resulting parcels. The applicant for segregation shall have
+an opportunity to endorse approval of the proposed segregation or to be heard
+by the Board before the application is approved by Board order. The
+application form shall make provision for owners to sign advance approval of a
+proposed segregation or to request a hearing.
+
+(5) Unless the owners have endorsed their approval of the proposed segregation, a
+notice of the proposed segregation of amounts shall be mailed to all persons
+shown by the application to have interests in the subject property, at least seven
+days before the Board meeting at which the order of segregation will be
+considered. The notice shall state the time of the meeting and that written
+objections filed with the Board prior to the meeting will be considered by the
+Board. If all persons with an interest in the parcel being divided have endorsed
+approval of the proposed segregation of assessment, no notice need be given
+and no hearing need be held.
+(Ord. 2003-4. Passed 1-22-03; Ord. 2007-2. Passed 1-31-07.)
+
+(d) Board Approval; Filing. The Board shall approve, modify or disapprove the
+proposed segregation by Board order. If all parties have endorsed their approval, the
+Board will approve the apportionment and segregate the lien, unless it finds that the
+proposed segregation unduly impairs the security interest of the County. Following Board
+approval, the segregated liens shall be entered in the lien docket, and the segregated
+amounts, with interest accrued to the date of segregation, shall thereupon constitute
+separate liens on the parcels resulting from the division in accordance with the order.
+(Ord. 85-5. Passed 6-26-85.)
+
+(e) Subdivision and Land Partition Approval.  Whenever an application for partition or
+subdivision involves a parcel on which there is an unpaid special assessment lien, the
+division approval shall include a condition that the parties submit an application for
+segregation of the lien in accordance with this section. All the owners of the land to be
+subdivided may present, concurrently with the tentative plat application, an application
+for segregation, accompanied by a fee as prescribed by this section. The County Engineer
+may recommend, and the Board may approve, a segregation of the assessment lien
+among the lots in the proposed subdivision, to become effective at the time the final plat
+is approved and filed. The applicant may present a certified copy of the Board order
+approving the segregation to the County Clerk at the time of recordation of the final plat,
+and the segregation shall thereupon become effective and shall be entered in the
+assessment lien docket.
+
+(Ord. 85-5. Passed 6-26-85; Ord. 86-31. Passed 1-14-87.)
+228.06 Finance Department    74
+
+228.05 PURPOSE.
+
+The purpose of Sections 228.06 through 228.16 is to provide a procedure for the
+reassessment of any local improvement.
+
+(E. Ord. 86-12. Passed 4-9-86; P. Ord. 86-13. Passed 4-23-86.)
+
+228.06 DEFINITIONS.
+
+As used in this chapter:
+
+(a) Local Improvement - means:
+
+(1) The grading, graveling, paving or other surfacing of any street, or opening,
+laying out, widening, extending and altering, changing the grade of or
+constructing any street;
+
+(2) The construction or reconstruction of sidewalks;
+
+(3) The installation of ornamental street lights;
+
+(4) The installation of underground wiring or related equipment;
+
+(5) The reconstruction or repair of any street improvement subject to a local
+improvement district.
+
+(6) The construction, reconstruction or repair of any sanitary or storm, sewer or
+water main;
+
+(7) The acquisition, establishment, construction or reconstruction of any off-street
+motor vehicle parking facility;
+
+(8) The construction, reconstruction or repair of any flood control dike or dam;
+
+(9) The construction, reconstruction, installation and equipping of a park,
+playground or neighborhood recreation facility;
+
+(10) Any other local improvement for which an assessment may be made on the
+property specially benefitted.
+
+(b) Governing Body - means the Board of County Commissioners or it’s designate.
+
+(c) Clerk - means the County Clerk.
+
+(d) Lots - means lots, blocks or parcels of lands.
+75 Finance Department    228.08
+
+(e) Objections - includes remonstrances.
+
+(E. Ord. 86-12. Passed 4-9-88; P. Ord. 86-13. Passed 4-23-86.)
+
+228.07 AUTHORITY OF COUNTY TO MAKE REASSESSMENT.
+
+Whenever all or part of any assessment for local improvements is declared void or set
+aside for any reason by either the governing body or any court, or the enforcement of
+such assessment is refused by any court by reason of jurisdictional or other defects in
+procedure, whether directly or by virtue of any court decision, or when the governing
+body is in doubt as to the validity of all or part of any such assessment by reason of such
+defects in procedure, the governing body may by ordinance make a new assessment or
+reassessment with respect to all or part of the original assessment upon the lots which
+have been benefitted by all or part of the local improvement to the extent of such lots'
+respective and proportionate shares of the full value of such benefit.
+
+(E. Ord. 86-12. Passed 4-9-86; P. Ord. 86-13. Passed 4-23-86.)
+
+228.08 BASIS FOR, AMOUNT AND METHOD OF REASSESSMENT.
+
+The reassessment shall be based upon the special benefit of the improvement to the
+respective lot or lots at the time of the original making of the local improvement. The
+amount of the reassessment shall not be limited to the amount of the original assessment,
+but the reassessment shall not include any property not embraced in the original
+assessment. However, property on which the original assessment was paid in full shall
+not be included in the reassessment. Interest from the date of delinquency of the original
+assessment may be added by the governing body to the reassessment in cases where the
+property was included in the original assessment, but such interest shall not apply to any
+portion of the reassessment that exceeds the amount of the original assessment. The
+reassessment shall be made in an equitable manner as nearly as may be in accordance
+with the law in force at the time the improvement was made, but the governing body may
+adopt a different plan of apportioning benefits or excluding portions of the district when,
+in its judgment, it is essential to secure an equitable assessment. Credit shall be allowed
+on the new assessment for all payments made on the original assessment.
+
+(E. Ord. 86-12. Passed 4-9-86; P. Ord. 86-13. Passed 4-23-86.)
+228.11 Finance Department     76
+
+228.09 EFFECT OF REASSESSMENT; EXCEPTIONS.
+
+The reassessment, when made, shall become a charge upon the property upon which it is
+laid, notwithstanding the omission failure or neglect of any officer, body or person to
+comply with the provisions of the law connected with, or relating to, the local
+improvement and original assessment or any previous reassessment, and although the
+proceedings of the governing body or the acts of any officer, contractor or other person
+connected with the improvement or assessment may have been irregular or defective,
+whether such irregularity or defect was jurisdictional or otherwise. The reassessment
+shall not be made in case of any improvement wherein a remonstrance sufficient in law to
+defeat it was timely filed prior to the construction of the local improvement.
+
+(E. Ord. 86-12. Passed 4-9-86; P. Ord. 86-13. Passed 4-23-86.)
+
+228.10 GOVERNING BODY ORDER TO REASSESS.
+
+The reassessment shall be initiated by adoption of a Board order designating the local
+improvement as to which a reassessment is contemplated, describing the boundaries of
+the district or part thereof that the governing body contemplates for the reassessment, and
+directing the County Administrator or his or her designate to prepare a proposed
+reassessment upon the property included within the district. After the passage of such
+Board order, the County Administrator or his or her designate shall prepare a proposed
+reassessment and file it in the Office of the Clerk.
+
+(E. Ord. 86-12. Passed 4-9-86; P. Ord. 86-13. Passed 4-23-86.)
+
+228.11 PUBLICATION OF NOTICE OF REASSESSMENT; CONTENTS.
+
+After the proposed reassessment is filed in the Office of the Clerk, the County
+Administrator or his or her designate, shall give notice thereof by not less than four
+successive publications in a newspaper of general circulation in Jackson County. The
+notice shall show that the proposed reassessment is on file in the Office of the Clerk,
+giving the date of the passage of the Board order and the boundaries of the district or, in
+lieu of giving the boundaries of the district, a statement may be made of the specific
+property to be affected by the proposed reassessment. The notice shall specify the time
+and place where the governing body will hear and consider objections to the proposed
+reassessment by any parties aggrieved thereby.
+
+(E. Ord. 86-12. Passed 4-9-86; P. Ord. 86-13. Passed 4-23-86.)
+77 Finance Department     228.13
+
+228.12 PERSONAL NOTICE TO EACH OWNER; RIGHT TO FILE
+OBJECTIONS.
+
+The County Administrator or his or her designate shall, within five days after the date of
+first publication of the notice, mail or cause to be personally delivered to the owner of
+each lot to be affected by the proposed reassessment, or to the agent of such owner and to
+any other person who is entitled to notice by law, a notice of the proposed reassessment
+stating the matter set out in the printed notice and also the amount proposed to be charged
+against the lot. If the address of the owner or of the owner's agent or the mortgagee, if
+any, is unknown to the County Administrator or his or her designate and cannot be
+ascertained from the County's records, he or she shall mail the notice addressed to the
+owner or owner's agent or the mortgagee, if any, at that city where the property is located.
+Any mistake, error, omission or failure with respect to such mailing shall not be
+jurisdictional or invalidate the reassessment proceedings. The owners of any property
+included in the description of the printed notice, or any person having an interest in that
+property, may, within ten days from the date of last insertion of the printed notice, file in
+writing with the County Administrator or his or her designate objections against the
+proposed reassessments.
+
+(E. Ord. 86-12. Passed 4-9-86; P. Ord. 86-13. Passed 4-23-86.)
+
+228.13 HEARING ON OBJECTIONS; REVISION OF REASSESSMENT.
+
+At the time and place appointed in the notice, the governing body shall hear and
+determine all objections filed under Section 228.12. The governing body may continue
+the hearing to correct, modify or revise the proposed reassessment, or the governing body
+may set the reassessment aside and order the making of a new proposed reassessment.
+However, if the proposed reassessment is corrected or revised so as to increase the
+amount proposed to be charged against any property, such reassessment shall not be
+made until after a new notice has been given, as stated in Section 228.12, to the owners of
+property against which the amount of assessment is proposed to be thus increased.  The
+publication of the notice may be for not less than two successive insertions in a
+newspaper of general circulation in Jackson County as provided in Section 228.11, and
+the time when action may be taken thereon may be not less than five days after the date
+of last insertion in a newspaper of general circulation. If the proposed reassessment is set
+aside and a new apportionment ordered, notice shall be given of the new apportionment
+in the manner stated in Section 228.11 and Section 228.12 and action taken thereon as
+provided in this section and in Section 228.12.
+
+(E. Ord. 86-12. Passed 4-9-86; P. Ord. 86-13. Passed 4-23-86.)
+228.17 Finance Department     78
+
+228.14 REASSESSMENT ORDINANCE.
+
+When the governing body has determined what is, in its judgment, a fair, just and
+reasonable reassessment, it shall pass an ordinance setting out and making that
+reassessment. The reassessment so made shall be deemed to be regular, correct, valid and
+just, except as it may be modified under Sections 228.12 and 228.13.
+
+(E. Ord. 86-12. Passed 4-9-86; P. Ord. 86-13. Passed 4-23-86.)
+
+228.15 LIEN DOCKET ENTRY; CREDITING PRIOR PAYMENTS.
+
+When the reassessment is duly made, it shall be entered in the County Lien Docket. All
+provisions for bonding and paying by installment shall be applicable, and such County
+liens shall be enforced and collected in the manner provided by law for collection of liens
+for a local improvement. All sums paid upon the former assessment or any previous
+reassessment shall be credited to the property on the account of which it was paid and as
+of the date of payment.
+
+(E. Ord. 86-12. Passed 4-9-86; P. Ord. 86-13. Passed 4-23-86.)
+
+228.16 REVIEW OF REASSESSMENT.
+
+Notwithstanding any of the provisions of this chapter, the owner or other person with a
+legally protectable interest in any property against which a reassessment for local
+improvements has been imposed may seek a writ of review under the provisions of ORS
+34.010 to 34.100.
+
+(E. Ord. 86-12. Passed 4-9-86; P. Ord. 86-13. Passed 4-23-86.)
+
+228.17 FORECLOSURE OF SPECIAL ASSESSMENTS.
+
+(a) Subject to subsection (b) hereof, special assessment liens shall be foreclosed in the
+manner provided by ORS 371.660.
+
+(b) Not less than sixty days prior to the date of sale, notices containing the same
+information as that contained in the published notice of sale shall be sent by first class
+mail and by certified mail to the owner or owners of record of the real property and to the
+occupant, if any, of such property, and to any person having a lien or other interest in the
+property if such a lien or interest appears of record, said notices to be sent to the post
+office addresses last known to the Board of County Commissioners. Failure to send
+notice to any such person does not affect the validity of the foreclosure as to any other
+person.
+
+(E. Ord. 87-11. Passed 9-30-87; P. Ord. 87-12. Passed 10-14-87.)
+79 Finance Department      228.18
+
+228.18 PROCEDURES FOR SPECIAL ASSESSMENTS.
+
+(a) Except as below provided, the procedures prescribed in ORS 371.605 to 371.655
+shall be followed in proceedings relating to the assessment of properties for special
+benefits accruing from public improvements, as those terms are defined in this chapter
+and in ORS 371.605.
+
+(Ord. 92-7. Passed 7-1-92.)
+
+(b) At the time that the Board of Commissioners directs the mailing of the written
+notice specified in ORS 371.630(1), it shall set a time for public hearing to be held at a
+regular meeting within thirty days after the twenty-day period for objections, at which
+time any objections to the proposed improvement filed within the twenty days shall be
+heard and considered. Notice of the hearing shall be included in the mailed, written
+notice.
+
+(E. Ord. 87-17. Passed 10-28-87; P. Ord. 87-20. Passed 11-10-87.
+ Finance Department      80
+
+THIS PAGE RESERVED FOR EXPANSION

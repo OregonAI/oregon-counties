@@ -1,0 +1,1053 @@
+Appendix 2: Agriculture & Agri-Tourism
+Background Report
+Contents
+Introduction .................................................................................................................................................. 3
+Relation of Appendix 2 to the SIMC Plan .................................................................................................. 3
+Maps & Figures ......................................................................................................................................... 4
+Section 1: Key Agriculture and Agri-Tourism Issues ..................................................................................... 5
+Land Use: ............................................................................................................................................... 5
+Transportation: ..................................................................................................................................... 5
+Agricultural/Rural lands: ....................................................................................................................... 5
+Figure 1 SIMC Zoning Map ............................................................................................................................ 7
+Population and Demographic Information ........................................................................................... 9
+Section 2: Statewide Regulatory Framework .............................................................................................. 10
+Agricultural Lands - EFU Zone Background and Context ........................................................................ 10
+Exclusive Farm Use Zoning – ORS Chapter 215 ................................................................................... 11
+Interpretation...................................................................................................................................... 11
+Farm Use - ORS 215.203/308A.056: ................................................................................................... 12
+Farm Stands & Promotional Activities - ORS 215.283(1) (o):.................................................................. 13
+Statutory Provisions ............................................................................................................................ 13
+Greenfield/Bella Organics Case........................................................................................................... 14
+Agri-Tourism and Outdoor Mass Gatherings .......................................................................................... 16
+Agri-Tourism ........................................................................................................................................ 16
+Mass Gatherings ................................................................................................................................. 16
+Farm Worker Housing in EFU Zones ....................................................................................................... 17
+Background ......................................................................................................................................... 17
+Housing for Farm Workers .................................................................................................................. 17
+Uses That Support the Agricultural Industry and Rural Economies ........................................................ 18
+A Winery - ORS 215.283(1) (n)/215.452 & 215.453: ........................................................................... 18
+Processing Facility for Farm Crops <10,000 square feet – ORS 215.283(1) (u): ................................. 19
+
+Commercial Activities In Conjunction With Farm Use - ORS 215.283(2) (a):...................................... 19
+Home Occupations – ORS 215.283(2)(i)/215.448 ............................................................................... 19
+Landscaping Business – ORS 215.283(2) (z) ........................................................................................ 20
+Other Supportive Uses to Rural Area – ORS 215.283 ......................................................................... 20
+The MUA-20 Zone ................................................................................................................................... 20
+Section 3: Relevant County and Agency Plans ............................................................................................ 21
+Multnomah County Comprehensive Plan ............................................................................................... 21
+RURAL .................................................................................................................................................. 21
+POLICY 6A: URBAN AND RURAL RESERVES ......................................................................................... 21
+POLICY 9: AGRICULTURAL LAND AREA ................................................................................................ 22
+POLICY 10: MULTIPLE USE AGRICULTURAL LAND AREA ..................................................................... 23
+Existing SIMC RAP TSP Policies and Implementation Strategies............................................................. 25
+Exclusive Farm Use Policies and Strategies ......................................................................................... 25
+Rural Reserve Designation for the SIMC Planning Area.......................................................................... 26
+What are urban and rural reserves? ................................................................................................... 27
+OAR Division 027 Urban and Rural Reserves in Portland Metropolitan Area .................................... 27
+OAR 660-027-0070 Planning of Urban and Rural Reserves ................................................................ 28
+Metro and Multnomah County Findings ( Exhibit B to Metro Ordinance No. 11-1255)  .................... 28
+SIMC EFU and MUA Zoning ..................................................................................................................... 30
+Exclusive Farm Use .............................................................................................................................. 31
+MUA-20 ............................................................................................................................................... 32
+Agendas ................................................................................................................................................... 33
+Minutes ................................................................................................................................................... 36
+Documents & Materials Considered ........................................................................................................... 41
+Exhibit 1: Team Memo to CAC ................................................................................................................ 41
+Exhibit 2: Ag Policy Discussion Table ...................................................................................................... 42
+Exhibit 3- LCDC Ag Issues ........................................................................................................................ 58
+
+Introduction
+Appendix 2 – Agriculture and Agri-Tourism Background Report  is the second of a series of topic-specific
+background documents that are intended to serve as the factual and analytical basis for the 2013-2015
+update of the Sauvie Island – Multnomah Channel Rural Area Plan and Transportation System Plan
+(SIMC Plan).  Appendix 2 resulted in large part from the work and recommendations of the SIMC
+Community Advisory Committee (CAC), the SIMC Technical Advisory Committee (TAC) and most
+particularly the Agriculture and Agri-Tourism Subcommittee, comprised of select CAC and TAC members
+who expressed an interest in and knowledge of the complex issues addressed in this report.
+Subcommittee members who actively participated in the preparation of this appendix include the
+following:
+CAC Subcommittee Members
+•  Mike Hashem, Bella Organics Farm Stand
+•  Mark Greenfield, Hobby Farmer
+•  Diane Kunkel, Columbia Farms
+•  Cindy Reid, Island Resident
+TAC Subcommittee Members
+•  Katherine Daniels, Oregon Department of Land Conservation & Development
+•  Jim Johnson, Oregon Department of Agriculture
+•  Erin Mick, Portland Bureau of Development Services
+Relation of Appendix 2 to the SIMC Plan
+The SIMC Plan will include a vision statement, plan policies, and maps.  The SIMC Plan will also include
+basic explanatory text and tables, as well as composite inventory maps – but the detailed substantive
+and procedural information leading up to the adoption of the SIMC Plan is found in the series of
+appendices listed below.  To become effective, the SIMC Plan must be “acknowledged” as complying
+with all applicable statewide planning goals; findings documenting compliance with these goals is found
+in Appendix 7.
+The seven appendices listed below will provide the detailed inventory information and analysis,
+consideration of alternative policy choices, explanation of the reasons for ultimate policy choices, and
+documentation of the robust community engagement effort that culminated in plan adoption.  Unlike
+the SIMC Plan, the appendices are not intended to serve as policy documents in themselves – but do
+provide the information required by Statewide Planning Goals 1 (Citizen Involvement) and 2 (Land Use
+Planning) necessary to support the County’s ultimate policy choices.
+•  Appendix 1: SIMC Scoping Report (CH2M Hill)
+•  Appendix 2: Agriculture and Agri-Tourism
+•  Appendix 3: Marinas and Floating Homes
+•  Appendix 4: Natural and Cultural Resources
+•  Appendix 5: Public and Semi-Public Facilities
+
+•  Appendix 6: Transportation
+•  Appendix 7: Consistency with Applicable Statewide Planning Goals
+Focusing on topical areas is useful when identifying and resolving specific issues.  Agriculture and agri-
+tourism issues (most particularly farm stands) have been foremost on the minds of Island residents for
+many years.  However, focusing attention on any specific issue can lose sight of the big picture.  For this
+reason, the CAC will hold a special meeting towards the end of the community involvement process to
+consider and integrate the results of each topical appendix.  Moreover, the SIMC plan will fully integrate
+the series of topical issues and policies into a cohesive and internally consistent rural area planning
+document.
+Maps & Figures
+1.  Zoning Map (EFU & MUA-20)
+2.  Soils Map (by Soil Classification)
+
+Section 1: Key Agriculture and Agri-Tourism Issues
+The following issues are quoted directly from the May 6, 2013 staff report to the Multnomah County
+Planning Commission related to PC-2013-2659 (Scoping Report in support of updating to the 1997
+Sauvie Island – Multnomah Channel Rural Area Plan).
+Land Use:
+1.  Concern regarding the types and degree of promotional activities at farm stands and related
+offsite impacts.
+2.  Desire to examine the pros and cons of agri-tourism and to form a consensus around the issue
+of what should or shouldn’t be allowed on Sauvie Island farms with respect to farm stands and
+events.
+3.  Concern for maintaining the rural character and agricultural nature of Sauvie Island.
+Transportation:
+1.  Need for strategies that reduce traffic conflicts between modes on Sauvie Island roads,
+particularly between bicycles and motorists, but also including farm equipment and pedestrians.
+Agricultural/Rural lands:
+1.  Explore creation of design review standards for permitting of farm stands and farm stand
+related activities. Include consideration of cumulative traffic impacts, parking, sanitation, and
+noise, hours of operation, etc.
+2.  Consider policy addressing non-profit events and mass gatherings. Currently these are not
+treated as land uses under state law. However their impacts are land use and transportation
+related so there should be some requirements (Design Review) regarding parking, traffic
+impacts, sanitation, noise, and other offsite impacts for those who hold larger events and/or
+events with some regularity.
+3.  Consider a policy creating standards for annual reporting of farm stand retail sales and
+incidentals in order to insure adherence to the 75/25 rule, which limits sales of incidental items
+to no more than 25 percent of the total farm-stand retail sales.
+4.  Build consensus around and develop a policy regarding the question of whether limited agri-
+tourism activities should be allowed (via SB 960) or no additional agri-tourism outside what is
+currently allowed by way farm-stand related activity.
+5.  Explore possible zoning code amendments that would allow two tiers of review for farm stands
+to separate out basic farm stand from farm stand with promotional activities and events.
+6.  Consider policy acknowledging farm stand role as source of food and incidentals for local
+residents and tourists – partially fulfilling the role of ‘Rural Center’ uses that are lacking on the
+island. (Note that new ‘Rural Center’ zones are not possible under the Rural Reserve
+Designation).
+
+Consider new RAP policy that promotes coordination with ODFW and
+Columbia County regarding managing impacts of beach users such as
+traffic, parking (and parking fees), and litter. Section 2: Inventory &
+Analysis
+This report focuses on land uses in the County’s Exclusive Farm Use (EFU) and Mixed Use Agricultural
+(MUA-20) zones.  See Multnomah County Comprehensive Plan policy discussion in Section 3 of this
+report.
+Generally:
+• The EFU zone encourages and protects large tracts of land (minimum 80 acres) for commercial
+agricultural – but allows a variety of other uses specified in state statutes and administrative
+rules – either as a review use (which the county must approve if specific standards are met) or
+as conditional uses (which the county may approve based on discretionary criteria).  The EFU
+zone implements Statewide Planning Goal 3 – Agricultural Lands and its implementing rule –
+OAR Chapter 660, Division 033 Agricultural Lands.
+
+• The MUA zone encourages smaller-scale agriculture (minimum 20 acres) while allowing very low
+density rural residential and related uses.  When the county applied the MUA-20 zone to land on
+Sauvie Island, it took an “exception” to the Agricultural Lands Goal – which allowed (among
+other things) rural residences to be placed on lots of record...
+The SIMC study area includes land under Multnomah County’s jurisdiction on Sauvie Island itself and on
+land between the Island and US Highway 30.  Figure 1 shows zoning within the study area
+
+Figure 1 SIMC Zoning Map
+
+The following discussion focuses on the land use and population characteristics of land and water areas
+within the SIMC study area – which is located entirely within US Census Tract 71.
+Population and Demographic Information
+The study area encompasses approximately 15,400 acres of land and several thousand additional acres
+of water.  About three-fourths of the land acreage (approximately 11,800 acres or 76.6%) is planned and
+zoned for Exclusive Farm Use (EFU) and about a quarter (3,600 acres or 23.4%) is zoned for Multiple Use
+Agriculture (MUA-20).  About half (1,700 acres of the MUA-20 land is within the Sauvie Island Wildlife
+Refuge.
+Figure 1: Census Tract 71, Multnomah County, Oregon
+
+Table 1 shows the breakdown of dwelling units by type within Census Tract 71 – which includes the
+SIMC study area and the part of the Tualatin Mountains (West Hills) to the west.  Within the study area,
+it is estimated that a population of about 2,700 is housed in approximately 1,200 dwelling units, 285 of
+which are houseboats or sailboats used as permanent residences.  The average household size in Census
+Tract 71 is about 2.2 persons per household.  Assuming that the average household size is constant by
+housing type, it’s likely that the land and water population on the Island is about equal.
+Table 1: SIMC Study Area – Housing Type and Estimat ed Population by Zone
+Housing Type  Dwellings  Average
+Household Size
+Estimated
+Population
+Single Family Dwellings  363
+2.2
+
+Floating Homes  285
+Totals  648  2,700
+Source: US Decennial Census and Multnomah County GIS; analysis by Winterbrook Planning
+
+The convenience store located north of the Sauvie Island Bridge occupies approximately three acres and
+zoned Rural Center.  This area received an “exception” to the Agricultural Lands Goal because it was
+“built and committed” to non-farm use prior to LCDC’s adoption of the Statewide Planning Goals in
+1974-75.
+Section 2: Statewide Regulatory Framework
+Oregon’s statewide planning program consists of a combination of state statutes, “goals” adopted by
+the Land Conservation and Development Commission (LCDC), and administrative rules (also adopted by
+LCDC) to implement applicable goals and statutes.  Generally, statewide planning goals read like
+comprehensive plan policies – whereas statutes and rules read are more like local zoning ordinances.
+The Agricultural Lands administrative rule (OAR Division 033) and Exclusive Farm Use statutes (ORS 215)
+are detailed and explicit regarding what local governments can, or cannot, allow on land on designated
+Agricultural (EFU) lands.
+In Oregon, each county must adopt a comprehensive plan and land use regulations (zoning and
+subdivision ordinances) that comply with applicable statewide planning goals and administrative rules.
+The Multnomah County Comprehensive Plan (including the 1997 SIMC Plan) and implementing land use
+regulations have been “acknowledged” by the LCDC as complying with applicable statewide planning
+goals and rules.  In most cases, Multnomah County’s land use regulations quote from or paraphrase
+state statutes and administrative rules.
+As a result of LCDC acknowledgment, these goals and rules do not apply directly to land use decisions
+made by Multnomah County.  However, they do apply to the interpretation  of local land use regulations
+as applied to specific cases – when those interpretations involve a local interpretation of a state statute
+or administrative rule.
+The recent Land Use Board of Appeals (LUBA) and Oregon Court of Appeals decisions in the Greenfield /
+Bella Organics case addresses the Multnomah County hearings officer’s decision to approve the Bella
+Organics most recent farm stand application, in the light of the County’s farm stand zoning regulations
+and applicable provisions of ORS 215 and OAR Division 033.
+Thus, to understand and evaluate the range of options available to the County regarding farm stands
+(with and without related promotional activities) and agri-tourism requires an understanding of the
+structure of the statutory Exclusive Farm Use (EFU) zone under ORS Chapter 215 and LCDC
+administrative rules under OAR Division 33.
+Agricultural Lands - EFU Zone Background and Context
+As noted above, for the Subcommittee and CAC to understand and evaluate the range of options
+available to the County regarding allowed uses and activities in the County’s EFU zone, it is first
+
+necessary to have basic understanding of the structure of the statutory Exclusive Farm Use (EFU) zone
+under ORS Chapter 215 and LCDC’s Agricultural Lands administrative rule (OAR Division 33). 1
+Exclusive Farm Use Zoning – ORS Chapter 215
+The EFU zone under ORS Chapter 215 establishes two categories of authorized nonfarm uses.  The first
+are those nonfarm uses “permitted as of right” under ORS 215.283(1) that a local government cannot
+prevent and which may not be subject to additional local legislative criteria that supplement those in
+ORS 215.283(1). 2  Second, are the nonfarm uses that are “conditional” under ORS 215.283(2) subject to
+the approval of a county under ORS 215.296. 3
+Further, ORS 215.203(1) states that:
+“Zoning ordinances may be adopted to zone designated areas of land within the county as
+exclusive farm use zones. Land within such zones shall be used exclusively for farm use except as
+otherwise provided in ORS 215.213, 215.283 or 215.284 .” (Emphasis added).
+Although “farm use” is not specifically listed within the two category system under ORS 215.283 (1) and
+(2), it nonetheless remains a preferred mandatory or permitted use within an EFU zone.
+Interpretation
+It is well established that the EFU statutes under ORS Chapter 215 should be interpreted
+narrowly to protect farmland because the statutory EFU zone is “designed to preserve the
+limited amount of agricultural lands to the maximum extent possible.  It constitutes a
+substantial limitation on other [non-farm] uses of rural land.” 4
+Accordingly, the Oregon Court of Appeals has determined that:
+“...state and local provisions of that kind must be construed, to the extent possible, as being
+consistent with the overriding policy of preventing ‘agricultural land from being diverted to
+nonagricultural use.  Therefore, when possible, the non-agricultural uses which the provisions
+allow should be construed as ones that are ‘related to and [promote] the agricultural use of farm
+land.”5
+In another case, the court indicated that: “…when none such direct supportive relationship can
+be discerned between agriculture and a use permitted by the provisions, the use should be
+
+1 Most of the information and analysis in this section was prepared by Ron Eber, Rural Land Specialist,  and a land
+use consultant who served as the Agricultural Lands Specialist for the Oregon Department of Land Conse rvation
+and Development (DLCD) from 1975-2010.  This section provides identifies applicable state statutes, ad ministrative
+rules, and case law as they apply to agriculture and agri-tourism issues within Sauvie Island EFU zone .
+2 In Multnomah County, these are called “review uses ”.  For example, farm stands are a “review use” tha t the
+County must approve if state and local standards are met.
+3 Brentmar v. Jackson County, 321 Or 481 (1995)
+4 Cherry Lane v. Jackson County, 84 Or App 196, 199 n  3 (1987)
+5 Hopper v. Clackamas County, 87 Or App 167, 172, rev  den 304 Or 680 (1988).
+
+understood as being as non-disruptive of farm uses as the language defining it allows.” 6   And,
+the Oregon Supreme Court has declared that interpretations that would “subvert the
+preservation of productive agricultural land...” are not supported. 7
+Farm Use - ORS 215.203/308A.056:
+The definition of “farm use” has always served a dual purpose. It identifies the uses allowed in a farm
+zone and the uses which receive special farm use property tax assessment.  Between 1963 and 1999,
+this definition was only found at ORS 215.203.  In 1999, the farm use assessment statutes were revised
+and updated and the definition was also moved to the revenue laws under ORS 308A.056 as well as
+remaining in the land use provisions found in ORS Chapter 215.  For land use purposes, ORS Chapter
+215.203(2) (a) basically permits all manner of activities commonly considered as farming, ranching or
+involving animal husbandry.  Important to commercial type activities the definition includes:
+“…the preparation, storage and disposal by marketing or otherwise of the products or by-
+products raised on such land for human or animal use.”
+This part of the definition is the language that historically was used to allow some value added and
+marketing activities in farm zones as a "farm use."  This provision allows initial preparation for sale,
+storage and the sale (wholesale or retail) of the farm products raised on a farm.  It was used to permit
+the normal sale and marketing of farm products, farm stands and U-pick operations until the specific
+provision for farm stands was adopted in 1993.  Space for some types of “farm uses” like “preparation”
+and “storage” can also be provided for as part of another use under ORS 215.283(1), (2) or 215.284.
+This is especially the case with respect to farm stands.
+Preparation activities of farm products grown on the subject farm are those needed before their storage
+or sale off the farm or at a farm stand, Reter v. Oregon Tax Commission , 3 OTR 477 (1969), aff'd, 256 Or
+294 (1970).
+Because the distinction between “preparation” and “processing” was not clear and easy to determine,
+LCDC adopted a rule (OAR 660-033-0020(7(b)) to further define the term “preparation” as it is used in
+the definition of “farm use.”  It reads:
+"Preparation’ of products or by-products includes but is not limited to the cleaning, treatment,
+sorting, or packaging of the products or by-products.”
+“Preparation” of a farm product is something less than “processing.”  Making a new or different product
+from the naturally grown farm product is
+ "processing" not "preparation" and treated as either a
+“processing facility” of “farm crops” in a building less than 10,000 sq. feet under ORS 215.283(1)(u) or a
+"commercial" activity in conjunction with farm use under 215.283(2)(a).  All “processing” facilities,
+regardless of size, where more than 75% of the product comes from other farms, are treated as
+
+6 McCaw Communications v. Clackamas County, 96 Or App  552, 555 (1989)
+7 Craven v. Jackson County, 308 Or 281 (1989).
+
+“commercial” activities in conjunction with farm use (See the description for these processing uses in
+the Memo entitled “Uses Allowed in Farm Zones Supportive of the Agricultural Industry and Rural
+Economies.”)
+(OAR 660-033-0020(7(b)) also includes language to clarify the area from where the farm products may
+come that can be prepared, stored or sold.  The rule reads:
+“’Products or by-products raised on such land’ means that those products or by-products are
+raised on the farm operation where the preparation occurs or on other farm land provided the
+preparation is occurring only on land being used for the primary purpose of obtaining a profit in
+money from the farm use of the land.”
+This makes clear that a farm operation may prepare, store or sell  products from the subject farm or
+from other farm operations as long as these activities  takes place on a qualified farm operation.
+Further, the proposed rule does not limit the source of the farm products to only those from adjacent
+farms in the local area.  Thus a farm may prepare, store or sell its own farm products or those from
+other farms.  A stand-alone facility for preparation, storage or marketing would not be allowed by this
+rule but rather would need to be treated as a “commercial activity in conjunction with farm use.”
+Farm Stands & Promotional Activities - ORS 215.283(1) (o):
+Statutory Provisions
+Farm stands were added to the EFU zone in 1993 with additions to allow some limited promotional
+activities in 2001.   Prior to 1993, farm stands were considered an outright permitted “farm use” but
+when the scale of some stands began to get much larger with an increase in the range of products sold,
+the use was specifically listed in order to allow counties to review these operations, assure appropriate
+access, and to limit the sale of items incidental to the sale of farm products and other unrelated
+activities.  Although a “permitted use,” an application is still a “land use decision” under ORS
+197.015(10) (a) and reviewed as a “permit” under ORS 215.402. 8   Nonetheless, a County cannot prevent
+a “permitted use” or apply any additional local legislative criteria that supplement those in ORS
+215.283(1).  The County is limited to just interpreting or defining the terms in the statute.
+A farm stand may be approved if:
+“The structures are designed and used for the sale of farm crops or livestock grown on the farm
+operation, or grown on the farm operation and other farm operations in the local agricultural
+area, including the sale of retail incidental items and fee based activities to promote the sale of
+farm crops or livestock sold at the farm stand if the annual sale of incidental items and fees from
+promotional activity do not make up more than 25 percent of the total annual sales of the farm
+stand; and
+
+8 Keith v. Washington County, (LUBA No. 2011-104, August 8, 2012).
+
+“The farm stand does not include structures designed for occupancy as a residence or for activity
+other than the sale of farm crops and livestock and does not include structures for banquets,
+public gatherings or public entertainment.”
+LCDC amended its farm zone rules in 2004 in order to clarify two things: (1) that “processed” crops and
+livestock grown on the farm operation or from other farm operations in the local agricultural area may
+be sold at farm stands along with fresh crops and livestock and are not a more limited “retail incidental
+item,” and (2) that farm products from throughout Oregon may be sold.
+Greenfield/Bella Organics Case
+In the recent Greenfield/Bella Organics  case, both the Land Use Board of Appeals (LUBA) and Oregon
+Court of Appeals clarified the mix of statutes and rules applicable to a variety of activities at a farm
+stand on Sauvie Island.  In their interpretation of the law, the Court agreed with LUBA’s summary of the
+subject statute as follows: 9
+“To summarize, there are four main parts to the above farm stand rule.
+First , the farm stand rule authorizes structures that are ‘designed and used for the sale of farm
+crops and livestock’ that are grown on the farm where the farm stand is located.
+Second , the rule then authorizes two incidental uses that may accompany the sale of farm crops
+and livestock at a farm stand (‘[1] sale of retail incidental items and [2] fee-based activity to
+promote the sale of farm crops or livestock sold at the farm stand’), and to make it clear that
+farm crops and livestock includes both ‘fresh and processed farm crops and livestock,’ but does
+not include ‘prepared food items.’
+Third
+, the rule specifically provides that farm stand structures may not include structures that
+are designed for ‘activities other than the sale of farm crops and livestock,’ and further prohibits
+structures designed for ‘banquets, public gatherings or public entertainment.’
+Finally , the rule limits annual sales from incidental retail sales and fees from promotional activity
+to no more than 25 percent of the total annual sales of the farm stand. This requirement
+apparently was imposed to ensure that the sale of farm crops and livestock is the main or
+primary purpose of farm stands, rather than the activities that may be carried out to promote
+the farm stand. In this opinion we refer to this requirement as the 25 percent rule.” (Underlining
+Added)
+The Greenfield/Bella Organics  decisions that interpreted and clarified the meaning of the farm stand
+statute and rules are summarized and paraphrased by Mr. Eber as follows:
+1.  A “farm stand” is a structure used for retail sales of farm products and incidental items but does
+not allow the design of the farm stand structure for residential use, activities other than the sale
+of farm crops and livestock, or the use of the structure for public eating, gathering and
+entertainment.
+2.  “Structures” in the statute means something built or constructed for temporary or permanent
+
+9 Greenfield/Bella Organics v. Multnomah County , 259, Or App 687 (2013) and LUBA No. 2012 -102/103  (2013)
+
+use or occupancy by members of the public and includes tents, canopies, portable viewing
+platforms, food carts and ticket kiosks whether or not roofed or enclosed by walls.
+3.  The statute’s allowance of the use of a farm stand structure for “the sale of farm crops and
+livestock” does not include the outright use of the structure for promotional activities, much less
+use of a structure only  for those activities.  By contrast, “the sale of farm crops and livestock” in
+ORS 215.283(1) (o) (A) is categorized as “including the sale of retail incidental items” and can be
+designed for both activities – but a farm stand structure cannot be used only to sell retail
+incidental items.
+4.  Food carts are structures and are permissible only if they are designed and used for the sale of
+farm crops and livestock grown on the farm operation or other farm operations in the local
+agricultural area – and not designed for activities other than the sale of such farm crops or
+livestock.
+5.  If food carts are designed as required, the sale of any nonfarm crops or livestock items including
+prepared food items must comply with the 25% rule.  Further, the term “incidental” further
+limits the number of types of items or nonfarm food crops or livestock items sold at farm stands
+including food carts.
+6.  The Court agreed, without published discussion, with LUBA’s conclusions that the county’s
+decisions that (a) wholesale sales cannot be used in the calculation of the 25% rule limitation,
+(b) requirement for an annual accounting are reasonable, and (c) the county’s decision to close a
+road crossing is within its discretion.
+7.  The phrase “fee-based activity to promote the sale of farm crops and livestock” operates as a
+stand-alone use allowance and such promotional activities are uses other than the “sale of farm
+crops and livestock.”  These activities are permitted outside of a farm stand structure and may
+include uses or activities prohibited within a farm stand structure such as public gatherings and
+banquets.  The Court expressed no opinion on whether some promotional activity inside a farm
+structure could be an accessory use of that structure.
+8.  The Court and LUBA reiterated the types of outdoor activities discussed by legislators as within
+the scope of the promotions clause to include group activities or public gatherings, as well as
+activities that are entertaining or educational, such as farm animal exhibits, hayrides, pumpkin
+patch ride, cow-trains, farm product food contests and preparation demonstrations.  The
+legislative concern was to avoid the placement of commercial structures on farmland that were
+not related to farm marketing, such as restaurants, supermarkets and stadiums.
+9.  Small-scale gatherings such as birthdays, picnics and similar activities can be conducted any time
+the farm stand is open if their primarily function to promote the sale of products at the farm
+stand.  Such promotion can be achieved by farm tours, educational presentations about farming
+or farming and harvesting activities as a significant part of the event.  The types of small-scale
+uses permitted under this provision are to be distinguished from corporate retreats, family
+reunions, weddings, concerts and other activities that by their very nature have too tenuous a
+connection to the sale of farm crops and livestock because the primary focus of the gatherings is
+on the underlying cause for the gatherings rather than the farm operation.
+County Implementation of the Farm Stands Statutes & Rules
+Thus the County interprets, defines and applies the terms of the farm stand statute consistent with
+the Court and LUBA decisions, and LCDC rules.  The County may choose to further clarify terms and
+add definitions to the Rural Area Plan.  New policies could address the following:
+(1)  Define “farm stand structure” so that it is not specifically designed or used solely for
+retail sales and fee-based promotional activities;
+
+(2)  Define the type of promotional activities permitted;
+(3)  Distinguish small-scale activities from those other activities that by their very nature
+have too tenuous a connection to the sale of farm crops and livestock;
+(4)  Ensure compliance with the 25% rule; and
+(5)  Distinguish promotional activities permitted by the County at a farm stand from those
+permitted as “agri-tourism events” and “outdoor mass gatherings” as explained in the
+next subsection.
+Agri-Tourism and Outdoor Mass Gatherings
+Since there are significant limitations to “promotional activities” at a farm stand, one might ask the
+question: “Are there opportunities for other types of activities and events under Oregon law on land
+zoned EFU with or without a farm stand?”
+Except for wineries, there are two primary paths for permitting events and activities in EFU zones.
+• First, these are the new provisions that permit “agri-tourism and other commercial events or
+activities that are related to and supportive of agriculture” under ORS 215.283(4) [SB 960 –
+2011]; and
+• Second, there are “outdoor mass” and other gatherings under ORS 433.735 to 433.770.
+Agri-Tourism
+The “agri-tourism” provisions provide several opportunities for the review and approval of from one to
+18 events per year in EFU zones.  The provisions require that these events be “incidental and
+subordinate to existing farm use on the tract” and can occur outdoors and within temporary or existing
+permanent structures.  They permit a County to regulate transportation issues (access, egress, parking
+and traffic management), hours of operation, sanitation, solid waste and other related matters.  Further,
+they authorize the County to adopt its own regulations in addition to those under ORS 215.283(4).
+These provisions are very specific and can provide a means for the County, landowners and neighbors to
+address concerns for events not permitted at farm stands.
+Mass Gatherings
+Oregon also has an “Outdoor Mass Gatherings” law that was adopted in 1971 to address issues arising
+from the Vortex I Concert held at McIver State Park in 1970 and later amended in 1985 to address its
+application to the gatherings and festivals held by the Rajneesh in Wasco County.  It is a very complex
+law that has had some limited use in counties around the state.  An explanation chart regarding it is
+attached.
+How it applies or interrelates to promotional activities at farm stands or to other agri-tourism events
+under ORS 215.283(4) is not entirely clear as ORS 215.283(6) (c) states that:
+“outdoor mass gathering’ and ‘other gathering,’ as those terms are used in ORS 197.015 (10) (d),
+do not include agri-tourism or other commercial events and activities.”
+
+Thus it appears that the “outdoor mass gathering” law would only apply to events not authorized under
+ORS 215.283(4).  What these might be is unclear in the abstract and can only be determined after
+further discussions.
+How these provisions apply to fundraisers held by political, non-profit, religious or other types of groups
+is equally unclear and in need of further analysis and discussion.
+Farm Worker Housing in EFU Zones
+Background
+Land use standards for the review and approval of dwellings for farm workers in EFU zones have been
+changed and subject to various approaches since the Legislature first authorized counties to plan and
+zone in 1947.  Farm zoning began in Oregon in 1961 (Or Laws 1961, Ch. 695).  No list of allowed uses,
+types of dwellings or other guidance was provided regarding what was allowed in or qualified as an
+exclusive farm use zone.
+In 1963, the Legislature created the basic form of the exclusive farm use (EFU) zone that exists today in
+ORS Chapter 215 (Or Laws 1963, Ch. 527).  This Act included as a "farm use" the "dwellings and other
+buildings customarily provided in conjunction with farm use."  In 1967, these dwellings were deleted as
+a "farm use" (Or Laws 1967, Ch. 386) and in 1969, they were added to the list of nonfarm uses in ORS
+215.213(6) (OR Laws 1969, Ch. 258).  Nonfarm dwellings were authorized in 1973 (Or Laws 1973, Ch.
+503).
+Additional types of farm and nonfarm related dwellings have been allowed by the Legislature in
+subsequent sessions. Besides the primary dwelling for the farm family, these additional types of
+dwellings include accessory dwellings for farm help, those for relatives who work on the farm,
+temporary hardship assistance, replacement, and lot-of-record.
+Housing for Farm Workers
+The EFU zone has always included the basic authorization for "dwellings and other buildings customarily
+provided in conjunction with farm use” in ORS Chapter 215.  Because this standard referred in the plural
+to “dwellings,” counties used this to approve dwellings for farmers as well as farm help and workers.
+In 1989, the Legislature added a provision in the EFU zone to specifically permit “seasonal farmworker
+housing.”  However, as the years passed, farm workers found work on a year-round and not seasonal
+basis and it became clear that this provision did not authorize the permanent year-round housing
+needed by farm community for farm workers.
+In 2001, the Legislature passed HB 3171 to strengthen existing state land use policy regarding the
+provision of farmworker housing in urban and rural areas.  This bill eliminated unnecessary distinctions
+between year-round and seasonal farmworker housing which had led to confusion and unneeded delays
+in the provision of adequate housing for farmworkers.  At the same time, it repealed the existing
+provisions for “seasonal” farmworker housing and the restrictions on their occupancy under ORS
+
+Chapter 215.  These are no longer needed because the commission’s existing and to be revised rules
+were considered adequate to provide for both year-round and seasonal farmworker housing.
+The intent of this legislation was to direct the general provision of farm worker housing to urban areas
+or rural centers by making it a needed housing type under ORS 197.312 and 197.685.  Farm worker
+housing in EFU zones is permitted to provide housing for the farm workers required by a particular farm
+operator.  Although such farm workers may work on other farms, they must work at least on a seasonal
+basis at a particular farm operation.
+Specifically, the bill did the following to streamline the process for the review and approval of
+farmworker housing:
+•  In rural areas, the bill amended Oregon policy in ORS 197.685 to require the provision of
+farmworker housing in rural centers and other areas committed to non-resource uses and in
+EFU zones, clarified that both “primary” and “accessory” dwellings are permitted.
+10
+
+•  It also directed the Land Conservation and Development Commission to revise its existing rules
+regarding the establishment of accessory farm dwellings for farm hands to clearly provide
+opportunities for all farmworkers needed by a farmer on their farm.  A copy of the adopted rule
+is attached.
+In summary, the rule permits housing for farm workers needed by a farm operator and for any type of
+housing permitted under the applicable state building code.  It also requires that the farm comply with
+the minimum gross income standards applicable to primary farm dwellings under OAR 660-033-0135.
+Uses That Support the Agricultural Industry and Rural Economies
+A Winery - ORS 215.283(1) (n)/215.452 & 215.453:
+Wineries were specifically authorized in 1989 in order to clarify that they were allowed as a non-farm
+use in an EFU zone and were not a “farm use” under ORS 215.203.  Prior to this time they were
+approved as “commercial activities” in conjunction with farm use [see Craven v. Jackson County , 308 Or
+281 (1989)].
+A major revision to the provisions of ORS 215.452 and 215.453 were adopted by the Legislature in 2012
+that permit a wide range of marketing and private events as well as celebratory gatherings and larger
+wineries can have restaurants.  Wineries not meeting the specific statutory provisions can also be
+reviewed as “processing facilities” or “commercial activities” (see ORS 215.283(1) (r) and ORS 215.283(2)
+(a) described below).
+
+10  In urban areas, the bill amended Oregon policy regarding “needed housing” in ORS 197.312 to ensure th at
+housing for farmworkers is not subject to any zoning requirements that are more restrictive than requirements that
+are applied to other single-family or multifamily housing developments.
+
+Processing Facility for Farm Crops <10,000 square feet – ORS 215.283(1) (u):
+Processing facilities for farm crops were allowed in 1997 in order to encourage small scale facilities on
+the farm.  The incentive for these facilities was an exemption from the farm compatibility standards in
+ORS 215.296 and farm assessment for the land under these facilities [ORS 215.203(2) (b) (F)].  These
+facilities can accommodate small wineries and bio-fuel production.  Such facilities are subject to three
+limitations: (1) they can only process farm crops (plants not livestock/animals or other); (2) at least one-
+quarter of farm crops processed must come from the farm operation on which the facility is located; and
+(3) the building for the processing facility cannot exceed 10,000 square feet of floor area exclusive of the
+floor area designated for preparation, storage or other farm use or devote more than 10,000 square feet
+to the processing activities within another building supporting farm uses.
+Commercial Activities In Conjunction With Farm Use - ORS 215.283(2) (a):
+A commercial activity in conjunction with farm use must be either exclusively or primarily a customer or
+supplier of farm uses.  Such activities must either:
+(1) Enhance the farming enterprises in the local agricultural community; or
+(2) Occur together with agricultural activities in the local community.
+Suppliers are limited to those providing products and services essential to the practice of agriculture.
+This use was added to the EFU zone by SB 101 in 1973.  The legislative intent was to let local
+government decide specifically what these uses may be.  Uses discussed as falling within this category
+included hop, nut and fruit driers; feed mixing and storage facilities; mint distilleries; rendering plants;
+seed processing, packing, shipping and storage facilities; slaughter houses; agricultural produce storage
+facilities; feed lots; hullers; and any other similar processing and allied farm commercial activities.
+Wineries not meeting the standards in ORS 215.283(1) (q) or other new bio-fuel plants can be approved
+using these standards. 11
+Home Occupations – ORS 215.283(2)(i)/215.448
+“Home occupations” is a catch-all use that can accommodate all kinds of small businesses and activities
+in a farm zone.  This use has been used to allow farm machinery repairs, bed and breakfast
+accommodations, small gatherings for weddings and family events as well as many other types of small
+local businesses.
+To be approved, the business must (1) be operated by a resident or employee of a resident of the
+property where the business is located, (2) employ no more than five full or part-time employees on
+site, (3) be operated substantially in a dwelling or other building normally associated with uses
+permitted in the farm zone, and (4) not unreasonably interfere with other uses permitted in the farm
+
+11  The Court cases that have established these guidelines are Craven v. Jackson County , 308 Or 281 (1989), City of
+Sandy v. Clackamas County , 28 Or LUBA 316 (1994) and Earle v. McCarthy , 28 Or App 539, (1977).
+
+zone.  Home occupations cannot construct any structure that would not otherwise be allowed in a farm
+zone.
+Landscaping Business – ORS 215.283(2) (z)
+A landscaping business or one providing landscape architecture services is allowed if done in
+conjunction with the growing of nursery stock on land in farm use.
+Other Supportive Uses to Rural Area – ORS 215.283
+Some additional uses are permitted that support agricultural and rural areas in Oregon.  Some of these
+include propagation or harvesting of forest products, primary and accessory dwellings for farmers, their
+families and seasonal and year round farm workers, rural fire protection services, irrigation canals and
+support facilities, rural community centers, aquaculture activities, water extraction and bottling plants
+and the expansion of existing county fairgrounds.
+The MUA-20 Zone
+The MUA zone encourages smaller-scale agriculture (minimum 20 acres) while allowing very low density
+rural residential and related uses.  When the county applied the MUA-20 zone to land on Sauvie Island,
+it took an “exception” to the Agricultural Lands Goal – which allowed (among other things) rural
+residences to be placed on lots of record and lots of 20 acres or greater.
+• Statewide Planning Goal 11 (Public Facilities and Services) and its implementing rule (OAR
+Division 011) prohibit the extension of sanitary sewer service outside of urban growth
+boundaries; the SIMC planning area is outside the Metro. St Helens and Scappoose UGBs.
+• Statewide Planning Goal 14 and its implementing rule (OAR Division 024) prohibit urban
+densities outside UGBs.
+• In 2010, Multnomah County designated the SIMC planning area as “Rural Reserve” pursuant to
+OAR Division 027.
+Permitted and conditional uses in the MUA-20 zone are discussed further in Section 3, below.
+
+Section 3: Relevant County and Agency Plans
+Multnomah County Comprehensive Plan
+The following comprehensive plan text, policies and strategies (shown in italic font ) are quoted
+directly from the Multnomah County Comprehensive Plan.
+RURAL
+Rural centers: areas with concentrated rural residential development combined with limited rural
+commercial and industrial development and limited public services.
+Rural residential: areas not primarily suited to agriculture or forestry and where limited large lot
+development is not detrimental to the resource base.
+Agricultural: Lands with predominantly class i-iv soils and identified by the agricultural capability
+classification system of the U. S. Soil Conservation Service, and where existing uses, the
+parcelization pattern and service levels are supportive of full-time commercial agricultural
+activities.
+Multiple use-farm: lands with predominantly class i, ii or iii soils as identified by the agricultural
+capability classification system of the U. S. Soil Conservation Service, but where the existing uses,
+topography and parcelization pattern are not supportive of full time commercial agriculture but
+where small commercial and hobby farming can take place on parcels of 20 acres or less.
+POLICY 6A: URBAN AND RURAL RESERVES
+The purpose of Urban and Rural Reserves is to facilitate planning for urbanization of the Portland
+metro region over the 50 year plan period from 2010 to 2060. Urban reserves provide greater
+certainty to the agricultural and forest industries, urban industries, and service providers about the
+future location of urban growth boundary expansion. Rural reserves are intended to provide long-
+term protection of agricultural and forest land and landscape features that enhance the unique sense
+of place of the region.
+The reserves plan that designates land for urban and rural use is an alternative approach to manage
+urban growth through a coordinated regional process provided for in Oregon Laws 2007, chapter
+723 and implementing Oregon Administrative Rule 660 Division 27(2008). The reserves plan
+supplements Policy 6 Urban Land Area with a specific map and implementing policies that define
+limits to urban growth for a time period much longer than the 20 -25 year UGB plan period.
+The reserves plan relies on designation of urban reserves land which can only be designated by
+Metro, and on rural reserve areas that can only be designated by the County. Because of this division
+of authority in the reserves plan, the County has amended its plan and zoning map to adopt rural
+reserves, and also shows urban reserve designations on the map.
+
+Policy 6A Rural Reserves
+It is the County's policy to establish and maintain rural reserves in coordination with urban reserves
+adopted by Metro and in accord with the following additional policies:
+1.  Areas shown as Rural Reserve on the County plan and zone map shall be designated and
+maintained as Rural Reserves to protect agricultural land, forest land, and important
+landscape features.
+2.  Rural Reserves designated on the plan map shall not be included within any UGB in the
+county for 50 years from the date of the ordinance adopting the reserves designations.
+3.  Areas designated Rural Reserves in the county shall not be re-designated as Urban Reserves
+for 50 years from the date of the ordinance adopting the reserves designations.
+4.  The County will participate together with an appropriate city in development of a concept
+plan for an area of Urban Reserve that is under consideration for addition to the UGB.
+5.  The County will review the designations of Urban and Rural Reserves, in coordination with
+Metro and Clackamas and Washington Counties, 20 years from the date of the ordinance
+adopting the reserves designations, or earlier upon agreement of Metro and the other two
+counties.
+6.  The County will not amend the zoning to allow new uses or increased density in rural and
+urban reserve areas except in compliance with applicable state rules.
+POLICY 9: AGRICULTURAL LAND AREA
+The purpose of the Agricultural Land Area Classification is to preserve the best agricultural lands from
+inappropriate and incompatible development and to preserve the essential environmental characteristics
+and economic value of these areas.
+The intent of this classification is to establish these areas for exclusive farm use with farm use and the
+growing and harvesting of timber as primary uses.
+Policy 9
+The County's policy is to designate and maintain as exclusive agricultural land areas which are:
+A. Predominantly Agricultural Soil Capability I, II, III, and IV, as defined by U.S. Soil Conservation
+Service;
+B. Of parcel sizes suitable for commercial agriculture;
+C. In predominantly commercial agriculture use; and
+D. Not impacted by urban service; or
+
+E. Other areas, predominantly surrounded by commercial agriculture lands, which are necessary
+to permit farm practices to be undertaken on these adjacent lands.
+The County's policy is to restrict the use of these lands to exclusive agriculture and other uses, consistent
+with state law, recognizing that the intent is to preserve the best agricultural lands from inappropriate
+and incompatible development.
+Strategies
+A. The following strategies should be addressed as a part of the Community Development Ordinance:
+1. The Zoning Code shall include an Exclusive Farm Use Zone, consistent with ORS 215.283*, and
+with:
+a. A base minimum lot size appropriate to commercial agriculture for the particular crops and
+geographic area of the County;
+b. Provisions for allowing farm uses as primary uses, not conditional uses.
+c. Provision for non-farm uses as conditional uses prescribed by ORS 215.283*;
+d. Provisions for retail sales of farm products;
+e. Provisions which allow for the reconstruction of structures destroyed by fire or other
+circumstances;
+f. Provisions for the aggregation of contiguous substandard lots under single ownership;
+g. Mortgage lot provisions;
+h. Homestead lot provisions;
+i. Approval criteria and siting standards for non-farm dwellings, designed to assure conservation
+of the natural resource base and protection from hazards.
+2. The County Street and Road Standards Code should include criteria related to street widths,
+construction standards and requirements appropriate to the function of the road in an exclusive
+agricultural area.
+3. The Capital Improvements should not program a public water system for exclusive agricultural
+areas or any service level not commensurate with agricultural uses.
+B. The conversion of land to another broad land use classification should be in accord with the standards
+set forth by the LCDC Goals, OAR's and in this Plan.
+POLICY 10: MULTIPLE USE AGRICULTURAL LAND AREA
+The purpose of the Multiple Use Agriculture Land Area Classification is to conserve those lands
+agricultural in character which have been heavily impacted by non-farm uses and are not predominantly
+Agricultural Land as defined in Statewide Planning Goal 3. This conservation is necessary to protect
+adjacent exclusive farm use areas and in some cases, the fragile nature of the lands themselves. These
+lands are conserved for diversified agricultural uses and other uses such as outdoor recreation, open
+space, residential development, and forestry when these uses are shown to be compatible with the
+natural resource base, character of the area, and other applicable plan policies.
+The intent of this classification is to recognize the diminished nature of these areas for commercial
+resource production, but to limit the adverse impacts of future development of them on nearby
+agricultural areas and on other lands of a more fragile nature (e.g., areas subject to flooding, but used
+for agricultural related uses).
+
+Policy 10
+The County's policy is to designate and maintain as multiple use agriculture, land areas which are:
+A. Generally agricultural in nature, with soils, slope and other physical factors indicative of past
+or present small scale farm use;
+B. Parcelized to a degree where the average lot size, separate ownerships, and non-farm uses
+are not conducive to commercial agricultural use;
+C. Provided with a higher level of services than a commercial agricultural area has: or,
+D. In agricultural or micro-climates which reduce the growing season or affect plant growth in a
+detrimental manner (flooding, frost etc.).
+The County's policy, in recognition of the necessity to protect adjacent exclusive farm use areas, is to
+restrict multiple use agricultural uses to those compatible with exclusive farm use areas.
+Strategies
+A. The following strategies should be addressed as part of the Community Development Ordinance:
+1. The Zoning Code should include a Multiple Use Farm Zone with:
+a. A base minimum lot size; consistent with the character of the areas and the adjacent exclusive
+farm uses.
+b. The following examples of uses:
+•  Permitted as primary uses; agriculture and forestry practices and single family dwellings on
+legal lots;
+•  The sale of agricultural products on the premises, dwellings for farm help, and mobile
+homes, should be allowed under prescribed conditions;
+•  On lands which are not predominantly Agricultural Capability Class I, II, or III, planned
+developments, cottage industries, limited rural service commercial, and tourist commercial
+may be allowed as conditional uses; and
+•  The following uses should be allowed as conditional uses anywhere in the zone upon the
+showing that the conditional use standards can be met: commercial processing of agriculture
+or forest products, commercial services, commercial dog kennels, and mineral extraction.
+c. Lot size requirements for uses allowed as conditional uses should be based on such factors as:
+•  Topographic and natural features;
+•  Soil limitations and capabilities;
+•  Geologic limitation;
+•  Climatic conditions;
+•  Surface water sources, watershed areas and ground water sources;
+•  The existing land use and lotting pattern and character of the area;
+•  Road access and capacity and condition;
+•  Type of water supply;
+•  Capacity and level of public services available; and
+•  Soil capabilities related to a subsurface sewerage system.
+
+d. Lots of Record Provisions.
+e. Mortgage Lot Provisions.
+f. Siting standards for dwellings proposed to be located adjacent to commercial agricultural or
+forestry use.
+2. The-County Streets and Road Standards Code should include criteria related to street width, road
+construction standards and required improvements appropriate to the function of the road and
+rural living environment.
+3. The Capital Improvements Program should not program public sewers to this area and the County
+should not support the formation or expansion of existing service district areas for the provision
+of water service.
+B. It is intended that industrial development which has a minimum impact be allowed on the south tip of
+Sauvie Island upon meeting all the applicable standards of the plan and conditional use procedures.
+C. The conversion of land to another broad land use classification should be in accord with the standards
+set forth by the LCDC Goals, OAR's and in this Plan.
+Existing SIMC RAP TSP Policies and Implementation Strategies
+The 1997 SIMC Plan had relatively few land use policies.
+Exclusive Farm Use Policies and Strategies
+POLICY 1: Support measures which will ensure that Sauvie Island maintains and enhances its
+agricultural diversity on Exclusive Farm Use lands.
+STRATEGY: Multnomah County shall use this policy as a guideline in reviewing proposed changes
+in Exclusive Farm Use statutes and administrative rules, and will review the appropriateness of
+the $80,000 gross income level as a threshold for farm dwellings if state law allows consideration
+of different income standards.
+Comment:  There have been no changes in ORS 215 or OAR Division 33 provisions related to the $80,000
+gross income threshold.
+POLICY 2: Multnomah County shall promote the appropriate establishment of farm stands and
+u-pick facilities which will support the agricultural economy of Sauvie Island.
+STRATEGY: Multnomah County shall implement this policy through review of the Multnomah
+County Zoning Ordinance Exclusive Farm Use and Multiple Use Agriculture zoning districts.
+Comment:  In 1997, the issue of promotional activities in the EFU zone had not yet become prominent.
+As noted in Section 3, the farm stands statute had just been adopted in 1993; the farm stands statute
+was amended in 2001 to provide direction to local governments on promotional activities associated
+with farm stands.
+Following amendments to ORS 215 related to promotional activities associated with farm standards, the
+County amended Chapter 34 of the Multnomah County Code to read as follows:
+“(G) Farm Stands when found that:
+
+(1) The structures are designed and used for the sale of farm crops or livestock grown on the
+farm operation, or grown on the farm operation and other farm operations in the local
+agricultural area, including the sale of retail incidental items, and fee-based activity to promote
+the sale of farm crops or live-stock sold at the farm stand if the annual sale of incidental items
+and fees from pro-motional activity do not make up no more than 25 percent of the total sales of
+the farm stand; and
+(2) The farm stand does not include structures designed for occupancy as a residence or for
+activities other than the sale of farm crops and livestock and does not include structures for
+banquets, public gatherings or public entertainment.
+(3) As used in this section, “farm crops or livesto ck” includes both fresh and processed farm
+crops and livestock grown on the farm operation, or grown on the farm operation and other farm
+operations in the local agri-cultural area. As used in this subsection, “processed crops and
+livestock” includes jams, syrups, apple cider, anim al products and other similar farm crops and
+livestock that have been processed and converted into another product but not prepared food
+items.
+(4) As used in this section, “local agricultural ar ea” includes Oregon or an adjacent county in
+Washington that borders Multnomah County.”
+
+POLICY 3: Include deed restrictions protecting surrounding agricultural practices as a
+requirement for dwelling approval in the Multiple Use Agriculture zoning district.
+STRATEGY: Multnomah County shall implement this policy through amendments to the
+Multnomah County Zoning Ordinance.
+Comment: Deed restriction is now required for all new dwellings adjacent to farmland.
+POLICY 4: Encourage property owners to protect their lands as wildlife habitat through the use
+of tax deferral programs, and allow switching of tax deferral status from agriculture to open
+space wildlife habitat without penalty.
+STRATEGY: Multnomah County shall forward this policy as an informational item to the Oregon
+State Legislature and the Association of Oregon Counties.
+Comment:  The Sauvie Island Soil and Water Conservation District and other non-profit organizations
+have been successful in encouraging property owners to protect EFU and MUA land as wildlife habitat
+through easements and other means – as will be documented in Appendix 4: Natural and Cultural
+Resources.  Many properties have habitat tax deferrals applied.
+Rural Reserve Designation for the SIMC Planning Area
+In 2007, SB 1011 authorized the Metro, in coordination with Multnomah, Clackamas and Washington
+Counties, to establish urban and rural reserves.  The law (ORS 195.137-145) required that the Land
+Conservation and Development Commission (LCDC) adopt rules to guide Metro and participating local
+governments in the urban and rural reserves evaluation and adoption process.
+Metro explains the regional urban and rural reserve process and outcomes as described in this link:
+http://www.oregonmetro.gov/index.cfm/go/by.web/id=30155
+
+What are urban and rural reserves?
+Urban reserves are lands currently outside the urban growth boundary that are suitable for
+accommodating urban development over the next 50 years. Rural reserves are lands outside the
+current urban growth boundary that are high value working farms and forests or have important
+natural features like rivers, wetlands, buttes and floodplains. These areas will be protected from
+urbanization for the next 50 years.
+These land use designations do not change current zoning or restrict landowners' currently
+allowed use of their lands . They do provide greater clarity regarding the long term expected use
+of the land and allow both public and private landowners to make long term investments with
+greater assurance. (Emphasis added.)
+Metro reached agreements with each county on which lands across the region will be designated
+as urban and rural reserves. The Oregon Land Conservation and Development Commission gave
+final approval to the urban and rural reserves designated in Clackamas, Multnomah and
+Washington counties in August 2011.
+OAR Division 027 Urban and Rural Reserves in Portland Metropolitan Area
+LCDC adopted OAR Chapter 660, Division 027 in early 2008.  The purpose of this administrative rule is
+stated in OAR 660-02700005:
+“(2) Urban reserves designated under this division are intended to facilitate long-term planning
+for urbanization in the Portland metropolitan area and to provide greater certainty to the
+agricultural and forest industries, to other industries and commerce, to private landowners and
+to public and private service providers, about the locations of future expansion of the Metro
+Urban Growth Boundary. Rural reserves under this division are intended to provide long-term
+protection for large blocks of agricultural land and forest land, and for important natural
+landscape features that limit urban development or define natural boundaries of urbanization.
+The objective of this division is a balance in the designation of urban and rural reserves that, in
+its entirety, best achieves livable communities, the viability and vitality of the agricultural and
+forest industries and protection of the important natural landscape features that define the
+region for its residents.”
+Division 023 restricts Multnomah County’s ability to amend comprehensive plan and land use
+regulations to allow new land uses or to allow smaller lot sizes .  However, the rule allows Multnomah
+County to amend its land use regulations to allow protection of Goal 5 resources, a park master plan,
+transportation facilities and other uses that could have been allowed  under EFU statutes (ORS 215.213
+and ORS 215.283).  As a reminder, the County’s MUA-20 zone is technically not an agricultural zone and
+therefore is not subject to the EFU statutes.
+
+OAR 660-027-0070 Planning of Urban and Rural Reserves
+(3) Counties that designate rural reserves under this division shall not amend comprehensive
+plan provisions or land use regulations to allow uses that were not allowed, or smaller lots or
+parcels than were allowed, at the time of designation as rural reserves  unless and until the
+reserves are re-designated, consistent with this division, as land other than rural reserves, except
+as specified in sections (4) through (6) of this rule. (Emphasis added.)
+(4) Notwithstanding the prohibitions in sections (2) [Section 2 refers to Urban Reserves]  and (3)
+of these rules, counties may adopt or amend comprehensive plan provisions or land use
+regulations as they apply to lands in urban reserves, rural reserves or both, unless an exception
+to Goals 3, 4, 11 or 14 is required, in order to allow:
+(a) Uses that the county inventories as significant Goal 5 resources, including programs to
+protect inventoried resources as provided under OAR chapter 660, division 23, or inventoried
+cultural resources as provided under OAR chapter 660, division 16;
+(b) Public park uses, subject to the adoption or amendment of a park master plan as provided in
+OAR chapter 660, division 34;
+(c) Roads, highways and other transportation and public facilities and improvements, as
+provided in ORS 215.213 and 215.283, OAR 660-012-0065, and 660-033-0130 (agricultural land)
+or OAR chapter 660, division 6 (forest lands);
+(d) Other uses and land divisions that a county could have allowed under ORS 215.130(5)–(11) or
+as an outright permitted use or as a conditional use under 215.213 and 215.283 or Goal 4 if the
+county had amended its comprehensive plan to conform to the applicable state statute or
+administrative rule prior to its designation of rural reserves; * * *”
+Metro and Multnomah County Findings (Exhibit B to Metro Ordinance No. 11-1255)
+The following is excerpted from Metro’s findings in support of Ordinance No. 11-1255, which adopted
+amendments to its Regional Framework Plan to implement the urban and rural reserves legislation and
+administrative rule. Multnomah County used the same findings to support its adoption of Ordinance No.
+2010-1161 adopting rural reserves.
+The ordinances refer to Area 9E (Sauvie Island) and Area 9F (Multnomah Channe l) and explain why
+these areas were given a rural reserve designation.
+The 2007 Oregon Legislature authorized Metro and Clackamas, Multnomah and Washington
+Counties (“partner governments”) to designate urban reserves and rural reserves following the
+process set forth in ORS 195.137 – 195.145 (Senate Bill 1011) and implementing rules adopted by
+the Land Conservation and Development Commission (LCDC) (OAR 660 Division 27). The
+Legislature enacted the new authority in response to a call by local governments in the region to
+improve the methods available to them for managing growth. After the experience of adding
+
+over 20,000 acres to the regional urban growth boundary (UGB) following the soil-capability
+based priority of lands in ORS 197.298, cities and the partner governments wanted to place more
+emphasis on the suitability of lands for sustainable urban development, longer-term security for
+agriculture and forestry outside the UGB, and respect for the natural landscape features that
+define the region.
+The new statute and rules make agreements among the partner governments a prerequisite for
+designation of urban and rural reserves. The remarkable cooperation among the local
+governments of the region that led to passage of Senate Bill 1011 and adoption of LCDC rules
+continued through the process of designation of urban reserves by Metro and rural reserves by
+Clackamas, Multnomah and Washington Counties. The partners’ four ordinances are based upon
+the formal intergovernmental agreements between Metro and each county that are part of our
+record, developed simultaneously following long study of potential reserves and thorough
+involvement by the public.
+Rural Reserves 9D and 9F: West Hills North and South, Multnomah Channel
+General Description: This area extends from the power lines/Germantown Rd. area northward to
+the county line, with Sauvie Island and the west county line as the east/west boundaries. All of
+the area is proposed as rural reserve. Agricultural designations are Important Agricultural Land
+in 9D, and Foundation Agricultural Land in area 9F. All of area 9D is within three miles of the
+UGB, and the three mile line from Scappoose extends south to approximately Rocky Point Road
+in area 9F.
+How Rural Reserve 9D and 9F Fare Under the Factors: All of the Multnomah Channel area is an
+important landscape feature, and the interior area from approximately Rocky Point Rd. south to
+Skyline Blvd. is a large contiguous block on the landscape features map. MultCo Rec. 1767. This
+interior area is steeply sloped and heavily forested, and is known for high value wildlife habitat
+and as a wildlife corridor between the coast range and Forest Park. It is also recognized as
+having high scenic value as viewed from both east Portland and Sauvie Island, and from the US
+Highway 26 corridor on the west. Landscape features mapping south of Skyline includes both
+Rock Creek and Abbey Creek headwaters areas that abut the city of Portland on the east and
+follow the county line on the west.
+The potential for urbanization north of the Cornelius Pass Rd. and Skyline intersection in area 9D,
+and all of 9F, was ranked by the CAC as low. Limitations to development in the Tualatin
+Mountains include steep slope hazards, difficulty to provide urban transportation systems, and
+other key services of sewer and water. Areas along Multnomah Channel were generally ranked
+low due to physical constraints including the low lying land that is unprotected from flooding.
+Additional limitations are due to the narrow configuration of the land between US Highway 30
+and the river coupled with extensive public ownership, and low efficiency for providing key urban
+services. MultCo Rec. 3022-3027. Subsequent information suggested some potential for urban
+development given the close proximity of US Highway 30 to the area.
+
+Why This Area was Designated Rural Reserve: This area is proposed for rural reserve even
+though urbanization potential is low. Of greater importance is the high sense of place value of
+the area. The significant public response in favor of rural reserve affirms the CAC rankings on this
+factor. In addition, the high value wildlife habitat connections to Forest Park and along
+Multnomah Channel, the position of this part of the Tualatin Mountains as forming edges to the
+urban areas of both Scappoose and the Portland Metro region, further support the rural reserve
+designation.
+Rural Reserve 9E: Sauvie Island
+General Description: Sauvie Island is a large, low lying agricultural area at the confluence of the
+Willamette and Columbia Rivers. The interior of the island is protected by a perimeter dike that
+also serves as access to the extensive agricultural and recreational areas on the island. It is
+located adjacent to the City of Portland with access via Highway 30 along a narrow strip of land
+defined by the toe of the Tualatin Mountains and Multnomah Channel. This area was assessed
+as Area 8 by the County CAC. MultCo Rec. 3016-3020. The island is entirely Foundation
+Agricultural Land, and is mapped as an important landscape feature. Large areas at the north
+and south extents of the island are within 3 miles of the Scappoose and Portland UGBs.
+How Rural Reserve 9E Fares Under the Factors: The island ranked high on the majority of the
+agricultural factors, indicating suitability for long-term agriculture. It ranked high on landscape
+features factors for sense of place, important wildlife habitat, and access to recreation. The low
+lying land presents difficulties for efficient urbanization including the need for improved
+infrastructure to protect it from flooding, and additional costly river crossings that would be
+needed for urban development. The CAC ranked the island low on all urban factors indicating low
+suitability for urbanization.
+Why This Area was Designated Rural Reserve: The island is a key landscape feature in the region,
+ranking high for sense of place, wildlife habitat, and recreation access. The island defines the
+northern extent of the Portland-Metropolitan region at a broad landscape scale. These
+characteristics justify a rural reserve designation of the entire Multnomah County portion of the
+island even though potential for urbanization is low.
+SIMC EFU and MUA Zoning
+The Multnomah County Code (MCC) Chapter 34 specifies uses that are allowed or are potentially
+allowed in the EFU and MUA-20 zones.  The general organization of the zoning sections begins by listing
+Allowed Uses, which are those uses that are allowed outright and do not require a land use review
+process (although technical reviews such as building permits, flood permits, grading permits and so on
+may apply to allowed uses).
+The second tier of uses is Review Uses,  which require approval via a land use application.  Review uses
+are allowed in the underlying zone provided that certain criteria are met.  How a specific proposal on a
+specific site can meet the criteria requires findings addressing the approval criteria.  The findings taken
+
+together inform the decision, which is made at the staff level unless appealed.  Neighboring property
+owners and recognized community associations are required to receive notice and have the opportunity
+to comment on the application.
+The third tier of uses listed are those that are potentially allowed are conditional and community service
+uses , which are special uses by reason of their public convenience, necessity, unusual character or effect
+on the neighborhood, may be appropriate as specified in each zone district.  Conditional and community
+service uses are reviewed under discretionary criteria and may be conditioned or denied by the county if
+applicable criteria are not met.
+Following is a truncated version of the uses listed in the EFU and MUA-20 zoning districts:
+Exclusive Farm Use
+Allowed Uses:
+•  Farm use, as defined in ORS 215.203
+•  Buildings other than dwellings customarily provided in conjunction with farm use
+•  The propagation or harvesting of forest products
+•  Creation of, restoration or enhancement of wetlands
+•  Alteration, restoration or replacement of a lawfully established habitable dwelling
+•  Churches (subject to conditions)
+•  Accessory structures (accessory to an existing allowed use)
+•  Agricultural structures
+Review Uses:
+•  Farm Dwellings (for an existing farm subject to approval criteria)
+•  Farm Stands with promotional activities 12
+
+12  Because the siting of farm stands in the EFU zone has been a major issue on Sauvie Island, the full text of the
+County’s farm stand regulations are quoted below fr om MCC 34.2625 Review Uses.  These provisions may b e
+amended as a result of the Greenfield / Bella Organics cases discussed in Section 3 of this report.
+“(G) Farm Stands when found that:
+(1) The structures are designed and used for the sale of farm crops or livestock grown on the farm operation, or grown
+on the farm operation and other farm operations in the local agricultural area, including the sale of retail incidental
+items, and fee-based activity to promote the sale of farm crops or live-stock sold at the farm stand if the annual sale of
+incidental items and fees from pro-motional activity do not make up no more than 25 percent of the total sales of the
+farm stand; and
+(2) The farm stand does not include structures designed for occupancy as a residence or for activities other than the
+sale of farm crops and livestock and does not include structures for banquets, public gatherings or public
+entertainment.
+(3) As used in this section, “farm crops or livesto ck” includes both fresh and processed farm crops an d livestock grown
+
+•  Wineries 13
+•  Facilities for processing farm crops
+Conditional Uses include:
+•  Commercial activities that are in conjunction with a farm use, except for facilities for processing
+crops
+•  Parks, playgrounds, hunting and fishing preserves, and campgrounds
+•  Community centers owned and operated by a governmental agency or a nonprofit organization.
+•  Dog kennels
+MUA-20
+Allowed Uses include:
+•  Farm Uses (with some limitations)
+•  Single family dwelling
+•  Accessory structures
+Review Uses include:
+•  Wholesale or retail sales of farm or forest products raised or grown on the premises or in the
+immediate vicinity, subject conditions.
+•  Feed lots.
+•  Raising four or more swine for retail
+Conditional Uses include:
+•  Community Service Uses including moorages,14  camp grounds, cemeteries, churches, hospital,
+library, private clubs, riding academies, and horse boarding.
+
+on the farm operation, or grown on the farm operation and other farm operations in the local agri-cultural area. As
+used in this subsection, “processed crops and lives tock” includes jams, syrups, apple cider, animal pr oducts and other
+similar farm crops and livestock that have been processed and converted into another product but not prepared food
+items. 4-16 Multnomah County – Chapter 34 - Sauvie Island/Multn omah Channel Rural Plan Area. (S-1 - LU 2013)
+(4) As used in this section, “local agricultural ar ea” includes Oregon or an adjacent county in Washin gton that
+borders Multnomah County.”
+13 Wineries and related promotional activities are also allowed by statute under fairly prescriptive stan dards.  In
+contrast to farm stands, Multnomah County has chose n to simply reference ORS 215.452 rather than attempting to
+adopt these standards as part of the Multnomah County Code.  MCC 34.2625 Review Uses:
+“(H) A winery, as described in ORS 215.452.”
+14  County staff believes that it is unclear whether a new moorage can be approved in a Rural Reserve.  See
+discussion in Appendix 4: Marinas and Floating Homes Background R eport .
+
+Agendas
+
+Minutes
+
+Documents & Materials Considered
+Exhibit 1: Team Memo to CAC
+
+Exhibit 2: Ag Policy Discussion Table
+
+Exhibit 3- LCDC Ag Issues

@@ -1,0 +1,203 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2001-043
+title: 'Ordinance No. 2001-043'
+doc_type: ordinance
+citation: 'Ordinance No. 2001-043'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616817549_2001-882-Ordinance%20No.%202001-043%20Recorded%2012_7_2001.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 6a8b1ba096c2907a8946c4928704a2f2ac2a9697fa38f96e14abdae392907365
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2001-043 (Ordinance No. 2001-043)
+
+## At a glance
+
+Ordinance No. 2001-043 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+REVIEWED
+LEGAL COUNSEL
+REVIEWED
+CODER VIEW COMMITTEE
+DESC COUNTY ICIAL
+MARYHSUESPENHOLLOWFFCOUNTYRCLERKS
+CJ1001.861
+COMMISSIONERS' JOURNAL
+12/07/200101:37:37PM
+For Recording Stamp Only
+BEFORETHEBOARDOFCOUNTYCOMMISSIONERSOF DESCHUTESCOUNTY, OREGON
+An Ordinance Amending Title 18, Deschutes
+County Zoning Ordinance, of the Deschutes
+CountyCode, andDeclaringan Emergency.
+ORDINANCE NO. 2001- 043
+WHEREAS, SenateBill928was adoptedby the Stateof Oregon, whichextendedthe sunsetclausefor
+Guest Ranches in the Exclusive Farm Use zone; and
+WHEREAS, the Boardbelievesit is appropriateto alsoextendtheCounty's sunsetclause; and
+WHEREAS, a publichearingwas heldon this matteron December5, 2001in accordancewithTitle 22
+of the Deschutes County Code, the County Procedures Ordinance; now, therefore,
+follows:
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS as
+Section 1. AMENDMENT. Sections 18.16.037, Guest Ranch, and 18.128.360, Guest Ranch, of
+theDeschutesCountyCode, areamendedtoreadasdescribedinExhibits "A" and "B," attachedheretoandby
+this reference incorporated herein, with new language underlined and language to be deleted in s ugh.
+Section 2. EMERGENCY. This Ordinancebeingnecessaryfor the immediatepreservationof the
+public peace, health and safety, an emergencyis declaredto exist, and this Ordinancetakes effect on its
+passage.
+DATED thiday of December, 2001.
+ATTEST:
+Recording Secretary
+BOARD OF COUNTY COMMISSIONERS OF DESCHUTES
+COUNTY, OREGON
+Tom 15eWo1KQfiai
+nis R. Luke, Commissioner
+Mi6hdelM. Daly, C missioner
+PAGE 1 OF 1 - ORDINANCE NO. 2001- 043 ( 12- 5- 01)
+EXHIBIT " A"
+18. 16. 037. Guest ranch.
+A. A guest ranch may be established in
+conjunction with an existing and
+continuins livestock operation, using
+accepted livestock practices that qualifies
+as a farm use under ORS 215. 203,
+subject to the applicable provisions set
+forth in DCC 18. 16. 040( A)( 1), ( 2) , and
+3), the applicable provisions of DCC
+18. 128, and the provisions of ORS
+215. 296( 1) and ( 2).
+B. " Guest ranch" means a facility for
+overnight lodging incidental and
+accessory to an existing livestock
+operation that qualifies as a farm use
+under ORS 215. 203. Guest ranch
+facilities may include a lodge, bunkhouse
+or cottage accommodations as well as
+passive recreational activities and food
+services as set forth in DCC
+18. 128. 360( 4) and ( 5).
+C. For the purposes of DCC 18. 16. 037,
+livestock" means cattle, sheep, horses,
+and bison.
+D. A proposed division of land in an
+exclusive farm use zone for a guest ranch
+or a division of a lot or parcel that
+separatesa guestranch from the dwelling
+of the person conducting the livestock
+operation shall not be allowed.
+Ord. 2001- 043 § 1, 2001; Ord. 98- 056 § 1,
+1998)
+Note: DCC 18. 16. 037 is repealed December 31, 2004- 5.
+EXHIBIT " A" to ORDINANCE NO. 2001- 043 ( 12- 05- 01)
+EXHIBIT " B"
+18. 128. 360. Guest ranch.
+A guest ranch established under DCC
+18. 128. 360 shall meet the following
+conditions:
+A. Except as provided in DCC
+18. 128. 360( C), the lodge, bunkhouses or
+cottages cumulatively shall:
+1. Include not less than four nor more
+than 10 overnight guest rooms
+exclusive of kitchen areas, rest
+rooms, storage and other shared
+indoor facilities, and;
+2. Not exceed a total of 12, 000 square
+feet in floor area.
+B. The guest ranch shall be located on a
+lawfully createdparcelthat is:
+1. At least 160 acres in size;
+2. The majority of the lot or parcel is
+not within 10 air miles of an urban
+growth boundary containing a
+population greater than 5000;
+3. The parcel containing the dwelling of
+the person conducting the livestock
+operation; and
+4. Not classified as high value farmland
+as defined in DCC 18.04. 030.
+C. For every additional 160 acres to the
+initial 160 acres required under DCC
+18. 128. 360( B), up to five additional
+overnight guest rooms and 3, 000 square
+feet of floor area may be added to the
+guest ranch for a total of not more than
+25 guest rooms and 21, 000 square feet of
+floor area.
+D. A guest ranch may provide recreational
+activities in conjunction with the
+livestock operation' s natural setting,
+including but not limited to hunting,
+fishing, hiking, biking, horseback riding
+or swimming. Intensively developed
+recreational facilities such as a golf
+course or campground as defined in DCC
+Title 18, shall not be allowed in
+conjunction with a guest ranch, and a
+guest ranch shall not be allowed in
+conjunction with an existing golf course
+or with an existing campground.
+EXHIBIT " B" to ORDINANCE NO. 2001- 043 ( 12- 05- 01)
+E. Food services shall be incidental to the
+operation of the guest ranch and shall be
+provided only for the guests of the guest
+ranch. The cost of meals provided to the
+guests shall be included as part of the fee
+to visit to stay at the guest ranch. The
+sale of individual meals to persons who
+are not guests of the guest ranch shall not
+be allowed.
+F. The exterior of the buildings shall
+maintain a residential appearance.
+G. To promote privacy and preserve the
+integrity of the natural setting, guest
+ranches shall retain existing vegetation
+aroundthe guestlodging structure.
+H. All lighting shall be shieldedand directed
+downward in accordance with DCC
+15. 10, Outdoor Lighting Control.
+1. Signage shall be restricted to one sign no
+greater than 20 square feet,
+nonilluminated and posted at the entrance
+to the property.
+J. Occupancies shall be limited to not more
+than 30 days.
+K. The guest ranch shall be operated in a
+way that will protect neighbors from
+unreasonable disturbance from noise,
+dust, traffic or trespass.
+L. One off- street- parking space shall be
+provided for each guestroom in addition
+to parking to serve the residents.
+M. Any conversion or alterations to
+properties designated as historic
+landmarks shall be approved by the
+Deschutes County Historical Landmarks
+Commission.
+Ord. 2001- 043 § 1, 2001; Ord. 98- 056 § 2,
+1998)
+Note: DCC 18. 128. 360 is repealed December 31,
+200-- 5.

@@ -1,0 +1,1917 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/washington-county
+id: washington-land-use-artviladiprliad
+title: 'ARTICLE VI - LAND DIVISIONS AND PROPERTY LINE ADJUSTMENTS'
+doc_type: ordinance
+citation: 'ARTICLE VI - LAND DIVISIONS AND PROPERTY LINE ADJUSTMENTS'
+authority_level: county_ordinance
+issuing_body: 'Washington County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=465373&nodeId=ARTVILADIPRLIAD&productId=15510
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: 15eb2d9358e84d25fb4dd1a1c857fe1fd77732fbef54f4e9007ec76ac67f7429
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.360
+    - ORS 197.370
+    - ORS 92.010
+    - ORS 92.044
+    - OAR 660-041-0180
+  related: []
+  supersedes: []
+tags: [washington-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Washington County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# ARTICLE VI - LAND DIVISIONS AND PROPERTY LINE ADJUSTMENTS (ARTICLE VI - LAND DIVISIONS AND PROPERTY LINE ADJUSTMENTS)
+
+## At a glance
+
+ARTICLE VI - LAND DIVISIONS AND PROPERTY LINE ADJUSTMENTS — land use of Washington County. 8 sections.
+
+## Full text
+
+ ### ARTICLE VI - LAND DIVISIONS AND PROPERTY LINE ADJUSTMENTS
+
+ ### 600 - INTRODUCTION
+
+Article VI establishes applicable review procedures and approval criteria for Land
+Divisions and property line adjustments in unincorporated Washington County.
+A "Middle Housing Land Division," allowable in urban residential districts only, is
+an action distinct from other types of land divisions per Oregon law. For purposes
+of this Code, the terms "Standard Land Division," "Standard Subdivision," and "Standard
+Partition" are used in reference to land divisions that are subject to Sections 601,
+602, 603 and either 605 or 610—these are not Middle Housing Land Divisions. Middle
+Housing Land Divisions are subject to Section 606 and not to other standards of this
+Article.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 27.), 2-7-23, eff. 3-9-23)
+600-1
+Intent and Purpose
+The intent of Article VI is to provide regulations for land divisions and property
+line adjustments in unincorporated Washington County to:
+A.
+Protect and provide for the public health, safety and general welfare;
+B.
+Guide future growth and development in accordance with the Comprehensive Plan;
+C.
+Secure protections against fire, flood, and other danger;
+D.
+Establish reasonable design standards and procedures for division of land and changes
+to property boundaries to further the orderly layout and use of land and ensure proper
+legal descriptions and monumenting of lots, parcels and property lines;
+E.
+Ensure that public facilities are available with adequate quality and capacity;
+F.
+Encourage the conservation of energy resources and provide the opportunity for utilization
+of solar energy through protection of solar access; and
+G.
+Encourage safe and convenient pedestrian and bicycle access.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 27.), 2-7-23, eff. 3-9-23)
+
+ ### 601 - APPLICABILITY
+
+Standard Land Divisions, Middle Housing Land Divisions, and property line adjustments
+are subject to County approval under this Article.
+601-1
+Standard Land Divisions and Property Line Adjustments
+601-1.1
+The provisions of Sections 601, 602, and 603 shall apply to all Standard Land Divisions,
+and all property line adjustments, except as otherwise specified in this Article.
+601-1.2
+Additionally, Standard Land Divisions and property line adjustments are subject to
+the following:
+A.
+Inside an urban growth boundary—Section 605
+B.
+Outside an urban growth boundary—Section 610
+601-1.3
+In addition to the standards listed above, all Standard Land Divisions and property
+line adjustments shall comply with the applicable standards and requirements of the
+Community Plans, the Rural/Natural Resource Plan, and the Transportation System Plan
+listed below. Section 390-3 in the North Bethany Subarea Overlay District identifies
+additional standards and requirements from the Bethany Community Plan that are also
+applicable to development in the North Bethany Subarea of the Bethany Community Plan.
+Section 391 in the Bonny Slope West Subarea Overlay District identifies additional
+standards and requirements from the Cedar Hills - Cedar Mill Community Plan that are
+applicable to development in the Bonny Slope West subarea.
+A.
+Community Plan Provisions:
+(1)
+General Design Elements;
+(2)
+Subarea Provisions, including the Design Elements and Area of Special Concern and
+Potential Park/Open Space/Recreation Requirements;
+(3)
+Significant Natural Resource Designations;
+(4)
+Historic and Cultural Resource Designations;
+(5)
+Mineral and Aggregate Resource Designations (District A and B designations);
+(6)
+Major Bus Stop Designations;
+(7)
+Interim Light Rail Station Overlay Designations;
+(8)
+Local Street Connectivity Lands Designations;
+(9)
+Pedestrian Connectivity Areas;
+(10)
+Transportation Functional Classification Map;
+(11)
+Transportation Circulation Designations; and
+(12)
+Street Corridor, Arterial Access and Pedestrian System Designations.
+B.
+Rural/Natural Resource Plan Provisions:
+(1)
+Significant Natural Resource Designations;
+(2)
+Historic and Cultural Resource Designations;
+(3)
+Mineral and Aggregate Resource Designations (District A and B designations);
+(4)
+Habitat Protection Plan;
+(5)
+Implementing Strategy E of Policy 10 (Implementing Oregon Department of Fish and Wildlife
+Habitat Protection Plan recommendations for Big Game Range areas within EFU, EFC,
+and AF-20 land use districts); and
+(6)
+Transportation Functional Classification Map.
+C.
+Comprehensive Framework Plan for the Urban Area
+(1)
+Policy 41, Urban Growth Boundary Expansions
+D.
+The Transportation System Plan
+(1)
+Goals 2, 3, 4, 5, 6, 7, 8, 9 and 11, including their implementing objectives and strategies;
+(2)
+The Functional Classification System Map;
+(3)
+The Lane Numbers Map;
+(4)
+The Special Area Street Overlay Map;
+(5)
+The Transit System Map;
+(6)
+The Bicycle System Map; and
+(7)
+The Pedestrian System Map.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 28.), 2-7-23, eff. 3-9-23; Ord. No. 903 , § 2.M.(Exh. 13, § 21.), 10-15-24, eff. 11-14-24)
+601-2
+Middle Housing Land Divisions
+601-2.1
+Section 606 shall apply to all Middle Housing Land Divisions. Sections 601-1, 602
+and 603 do not apply to a Middle Housing Land Division.
+601-2.2
+In accordance with ORS 197.360 a Middle Housing Land Division is not a land use decision,
+a limited land use decision or a permit.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 28.), 2-7-23, eff. 3-9-23)
+
+ ### 602 - GENERAL PROVISIONS FOR STANDARD LAND DIVISIONS AND PROPERTY LINE ADJUSTMENTS
+
+602-1
+Filing and Recording
+602-1.1
+All Standard Land Divisions shall be created by a Subdivision or Partition plat and
+must comply with ORS Ch. 92. All property line adjustments shall be executed by deed
+and must comply with ORS Ch. 92. Within 2 years of final review and approval, all
+final plats for Standard Land Divisions shall be filed and recorded with the Department
+of Assessment & Taxation, except as required otherwise for the filing of a plat to
+lawfully establish an unlawfully created unit of land.
+Plats to lawfully establish unlawfully created units of land must be recorded within
+90 days of the county's validation of the property - Section 216. Within four years
+of approval, all deeds necessary to execute a property line adjustment shall be recorded
+with the Department of Assessment & Taxation.
+602-1.2
+Prior to acceptance of a final Standard Subdivision or Standard Partition plat for
+recording by the Department of Assessment & Taxation, Recording Division, a copy of
+all supplemental information that must be recorded, such as restrictive covenants,
+shall be attached to the final plat. Supplemental information that is required to
+be recorded shall be recorded immediately after recording the plat. The county clerk
+shall note the document recording numbers on the plat.
+602-1.3
+All Standard Subdivision plats shall be approved and signed by the County Surveyor,
+the County Assessor, and the Chairperson or Vice-Chairperson of the Board of Commissioners
+prior to recording.
+602-1.4
+Section 602 does not apply to a Middle Housing Land Division as defined in Section
+106 (see Section 606).
+(Ord. No. 890A , § 2.A.(Exh. 1, §§ 1., 29.), 2-7-23, eff. 3-9-23)
+602-2
+Expiration
+The final approval for a Standard Land Division shall expire after 2 years, and the
+approval for a property line adjustment shall expire after 4 years, unless prior to
+expiration:
+A.
+The Standard Land Division or property line adjustment has been filed and recorded
+(as approved); or
+B.
+An extension according to the provisions of Section 201-5 has been requested; or
+C.
+Development has commenced pursuant to Section 201-6.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 1.), 2-7-23, eff. 3-9-23)
+602-3
+Subsequent Standard Land Divisions and Property Line Adjustments
+A.
+Standard Land Division
+A Standard Land Division with preliminary approval may be revised in accordance with
+Section 602-5 (Minor Revisions to Preliminary Approved Land Divisions). A Standard
+Land Division with final approval is subject to Section 602-6 (Revisions to Standard
+Land Divisions with Final Approval).
+Once final approval is obtained, no subsequent Standard Land Division may be approved
+on the same development site prior to filing and recording in accordance with Section
+602-1.1, unless the final approval has expired in accordance with Section 602-2, or
+is revoked in accordance with Section 201-7, withdrawn, or otherwise invalidated.
+B.
+Property Line Adjustment
+No subsequent Standard Land Division or property line adjustment may be approved on
+the same lot or parcel until the previously approved property line adjustment has
+been filed and recorded in accordance with the provisions of Section 602-1, or the
+previous approval expires in accordance with Section 602-2, or is revoked in accordance
+with Section 201-7, withdrawn, or otherwise invalidated.
+(Ord. No. 889A , § 2.C.(Exh. 3, § 19.), 2-7-23, eff. 3-9-23)
+602-4
+Recordation Prior to Sale
+No lot or parcel created by Standard Land Division shall be sold prior to filing and
+recording as specified in Section 602-1.
+(Ord. No. 889A , § 2.C.(Exh. 3, § 19.), 2-7-23, eff. 3-9-23)
+602-5
+Minor Revisions to Preliminary Approved Standard Land Divisions
+602-5.1
+Minor revisions to a preliminary approval for a Standard Land Division may be made
+through a Type I procedure for the following:
+A.
+Lot dimensions;
+B.
+Street locations;
+C.
+Lot patterns;
+D.
+Density decreases;
+E.
+Phasing of the development, including the addition of phasing or adjusting approved
+phasing, subject to Section 602-5.2 G.;
+F.
+Inclusion of a gated private street, subject to Section 409-4.6; and
+G.
+Adjustments to parent lot(s) or parcel(s) property lines, in accordance with the applicable
+provisions in Section 605 or Section 610.
+602-5.2
+Minor revisions shall meet the following standards:
+A.
+Streets within a development that abut an adjacent property or an exterior adjacent
+street shall not be relocated more than one-half the width of the right-of-way, easement
+or tract; or relocated so they abut a different property than approved in the preliminary
+plat approval, or as required in the primary district;
+B.
+Stub streets within a development that abut an adjacent property or an exterior adjacent
+street shall not be changed to permanent "dead-end" streets (e.g., cul-de-sac or hammerhead)
+within the development;
+C.
+Permanent "dead-end" streets within a development shall not be changed to a stub street
+which abuts an adjacent property or connected to an exterior adjacent street;
+D.
+The revisions shall comply with the circulation standards of this Code. However, where
+connections were approved as direct, they must remain direct. Where connections were
+approved as circuitous, they must remain circuitous. The street network must maintain
+the planned functional classification of new and existing roads in the area. No modification
+to the review standards of Section 408 is allowed;
+E.
+Density decreases shall not exceed 5% and must meet the minimum density standards
+required in the applicable land use district;
+F.
+Lot dimensions and lot patterns: Minor changes to lot dimensions and lot patterns
+may occur, but the overall lotting pattern shall remain the same as the original.
+G.
+No deferment, exemption or exception of Article V services is allowed when phasing
+is added to accommodate a property line adjustment after preliminary approval. Applications
+shall demonstrate that required Article V public services and facilities are provided
+for each property subject to a property line adjustment.
+602-5.3
+All other revisions shall be processed as a new application and shall be subject to
+the standards that are in effect at the time the new application is submitted.
+( Ord. No. 855 , § 2.A.(Exh. 1, § 26), 8-6-19, eff. 11-28-19; Ord. No. 889A , § 2.C.(Exh. 3, § 19.), 2-7-23, eff. 3-9-23; Ord. No. 890A , § 2.A.(Exh. 1, § 1.), 2-7-23, eff. 3-9-23)
+602-6
+Revisions to Standard Land Divisions with Final Approval
+Revisions to a Standard Partition or Standard Subdivision which has received final
+approval, with the exception of Standard Land Divisions for the creation of nonfarm
+parcels pursuant to Section 602-7, shall be processed as a new application and shall
+be subject to the standards that are in effect at the time the new application is
+submitted.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 1.), 2-7-23, eff. 3-9-23)
+602-7
+Relocation of Access(es) for a Final Approved Standard Partition for Nonfarm Parcels
+For a final approved Standard Partition for the creation of a nonfarm parcel(s), a
+Type II procedure shall be used to process an application to relocate an approved
+access(es), including a private road, subject to the following:
+A.
+No existing or final approved property lines can be relocated;
+B.
+The access(es) can only be relocated on the property which was part of the initial
+application; and
+C.
+The request complies with the standards of Subsection 501-8.5 F. (Sight Distance Standards).
+(Ord. No. 890A , § 2.A.(Exh. 1, § 1.), 2-7-23, eff. 3-9-23)
+602-8
+Standards for Phased Developments
+Within the 5-year total time period for recording approved phases of a development,
+unless the approved plan specifically identified dimensions and uses, new code standards
+for these requirements may be applied.
+602-9
+Waiver or Deferral of Requirement
+If in the judgment of the Director, a requirement is not applicable, the Director
+may waive the requirement or defer the requirement to a later stage of development.
+602-10
+Special Assessments
+No Standard Land Division or property line adjustment may be approved for land which
+is subject to special assessments for public improvements by Clean Water Services
+or Washington County, unless application has been made to the appropriate entity for
+division of those assessments under its ordinances or procedures. Applications for
+division of assessments and for division of land may be processed concurrently.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 1.), 2-7-23, eff. 3-9-23)
+602-11
+Survey and Monumentation Requirements
+602-11.1
+Property Line Adjustments
+A.
+A common property line that is relocated through a property line adjustment shall
+be surveyed and monumented unless the affected parcels are greater than 10 acres.
+B.
+When required, surveys shall be filed with the County Surveyor after filing and recording
+the necessary deeds with the Department of Assessment & Taxation Recording Division.
+C.
+Recorded deed numbers must be shown on the record of survey.
+602-11.2
+Standard Partitions
+Parcels created through a Standard Partition shall be surveyed and monumented in accordance
+with the requirements of ORS Ch. 92, with the exception of parcels greater than 10
+acres which are created by a Standard Partition outside of the urban growth boundary.
+602-11.3
+Standard Subdivisions
+Standard Subdivision plats shall be surveyed and monumented in accordance with the
+requirements of ORS Ch. 92.
+(Ord. No. 833 , § 2.A.(Exh. 1, § 9), 8-7-18, eff. 9-6-18; Ord. No. 890A , § 2.A.(Exh. 1, § 1.), 2-7-23, eff. 3-9-23)
+
+ ### 603 - SUBDIVISION COMMITTEE
+
+603-1
+The Director may establish a Subdivision Committee to act in a technical advisory
+capacity for the review of urban and rural Standard Land Division applications that
+involve the creation of a public or private street or road. The Subdivision Committee
+shall meet when a meeting is called by the Director. Section 603 does not apply to
+a Middle Housing Land Division application.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 30.), 2-7-23, eff. 3-9-23)
+603-2
+The Subdivision Committee shall consist of representatives of appropriate county departments,
+service providers, and other appropriate or affected departments or agencies. The
+Subdivision Committee may request any information from any affected municipality,
+district, department, other governmental agency or county department or agency which
+will aid in the performance of its duties.
+603-3
+The Subdivision Committee shall review preliminary Standard Subdivision plats and
+Standard Partition plats that involve the creation of a street or road when required
+by the Director. The Subdivision Committee shall then make recommendations to the
+appropriate Review Authority as to the compliance of such plats and applications to
+the provisions of this Code.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 1.), 2-7-23, eff. 3-9-23)
+603-4
+The Director may schedule a Subdivision Committee meeting with an applicant or an
+applicant's agent(s). Representatives of other affected governmental entities or of
+county departments or agencies may, and shall be encouraged to attend the conferences.
+
+ ### 605 - STANDARD LAND DIVISIONS AND PROPERTY LINE ADJUSTMENTS INSIDE AN URBAN GROWTH BOUNDARY
+
+605-1
+Property Line Adjustment (Property Line Relocation)
+A property line adjustment is the relocation or consolidation of a common boundary
+line between two or more abutting properties where an additional lot or parcel is
+not created.
+605-1.1
+A.
+General Limitations
+Property line adjustments are limited as follows:
+(1)
+Existing lots or parcels reduced in size by a property line adjustment may not be
+reduced below the minimum lot size established by the applicable land use district,
+unless authorized by Section 605-1.1 B.
+(2)
+For property line adjustments on lots or parcels with two or more land use districts,
+the minimum lot size shall be based on the predominant land use district of the parcel.
+B.
+Property Line Adjustments Permitted Through a Type I Procedure
+Property line adjustments shall be processed through a Type I procedure, unless otherwise
+specified in this Code, provided that:
+(1)
+Both properties meet or exceed the minimum lot or parcel size for the applicable district;
+or
+(2)
+Equal land areas are exchanged; or
+(3)
+For properties entirely outside the boundary of a city, one or both of the abutting
+properties are smaller than the minimum lot or parcel size for the applicable district
+before the property line adjustment and, after the adjustment, one is as large as
+or larger than the minimum lot or parcel size for the applicable district; or
+(4)
+For properties entirely outside the boundary of a city, both abutting properties are
+smaller than the minimum lot or parcel size for the applicable district before and
+after the property line adjustment.
+605-1.2
+Submission Requirements
+In addition to the requirements of Section 203-4, all applications for a property
+line adjustment shall include the following:
+A.
+Name(s), address(es) and telephone number(s) of the owner(s), agent(s) and surveyor(s).
+B.
+A plot plan showing:
+(1)
+All existing and proposed property lines;
+(2)
+All existing and proposed structures;
+(3)
+Existing and proposed easements;
+(4)
+The location of any floodplain, drainage hazard areas and other areas subject to flooding
+or ponding; and
+(5)
+The location of any water quality sensitive areas and vegetated corridors.
+C.
+Existing and proposed lot sizes.
+605-1.3
+Review Standards
+The proposed property line adjustment must be found to comply with the applicable
+provisions of this Code and the applicable Community Plan, including the definition
+set forth above and the dimensional requirements of the district except as described
+in Section 605-1.1 B. No property line adjustment shall result in a boundary line
+that violates the setback standards of the applicable land use district unless a variance
+to the setback is approved. Property line adjustments shall comply with Section 501-8.5
+(Access to county and public roads) except as provided in this subsection. Property
+line adjustments for parcels or lots which do not meet the sight distance standards
+of Section 501-8.5 F., (including existing accesses), shall be approved if the parcel
+or lot's sight distance is not decreased as a result of the property line adjustment.
+605-1.4
+Survey Requirements
+As set forth in Section 602-11.
+605-1.5
+Filing and Recording
+As set forth in Section 602-1.
+( Ord. No. 866 , § 2.C.(Exh. 3, § 25), 9-1-20, eff. 10-1-20)
+605-2
+Urban Standard Land Divisions (Partitions and Subdivisions)
+Land within the urban unincorporated portions of Washington County may be divided
+through a Standard Partition or Standard Subdivision plat. To partition land means
+to divide a unit of land into two or three parcels within a calendar year. To subdivide
+land means to divide a unit of land into four or more lots within a calendar year.
+A Standard Partition or Standard Subdivision may or may not involve the creation of
+a street or road.
+Standard Subdivisions and Standard Partitions are subject to the general standards
+of the land use districts, the applicable development standards of Article IV, the
+applicable standards of Article V (Public Facility and Service Requirements) and the
+provisions of this Article, including standards in Section 605-3 (Development Standards
+for Urban Standard Land Divisions). Section 605 does not apply to a Middle Housing
+Land Division (see Section 606).
+605-2.1
+Procedures
+Standard Partitions and Standard Subdivisions shall be processed through a two-step
+process consisting of a preliminary review and a final review.
+A.
+Preliminary Review:
+The preliminary review of a Standard Partition or Standard Subdivision shall:
+(1)
+Be through a Type I procedure when in an approved Special Industrial Overlay District
+(SID) and in conformance with the approved SID - Section 377;
+(2)
+Be through a Type II procedure when no variance from the standards of this Code is
+required; or
+(3)
+Be through a Type III procedure when a variance from the applicable standards of this
+Code is required or when required by the applicable Community Plan or when in conjunction
+with a Type III development.
+(4)
+Expire automatically four years from the date of approval unless prior to expiration:
+(a)
+A request for final review, which includes all required information, is filed with
+the County; or
+(b)
+A request for an extension is filed with the County pursuant to Article II; or
+(c)
+Development is commenced pursuant to Section 201-6. If the Director determines that
+development has commenced prior to final approval, the preliminary review shall expire
+five years from the date of approval unless final approval is granted.
+For approved phased developments, preliminary approval for the first and each subsequent
+phase shall expire two years from the date final approval was issued for the previous
+development phase(s) unless development has commenced or an application for an extension
+is filed for a particular phase.
+B.
+Final Review:
+Final review of a Standard Partition or Standard Subdivision shall be through a Type
+I procedure, unless otherwise specified by the Review Authority in the preliminary
+approval. Final approval shall be granted prior to approval of the Standard Partition
+or Standard Subdivision plat by the County Surveyor.
+605-2.2
+Review Standards
+A.
+Preliminary Review:
+The proposed Standard Partition or Standard Subdivision shall be reviewed for compliance
+with the applicable provisions of this Code, including Section 601-1.
+B.
+Final Review:
+(1)
+The request for final approval of a Standard Partition or Standard Subdivision shall
+be reviewed for consistency with the preliminary approval and shall comply with the
+standards and conditions of the preliminary approval.
+(2)
+Any request for final approval submitted prior to expiration, but the expiration date
+subsequently passes and final approval is not granted for lack of the required information,
+shall be denied if the required information is not submitted within 60 days of expiration.
+In this situation, the preliminary approval has expired and shall be null and void.
+C.
+Notwithstanding any other provisions, a proposed Standard Subdivision or Standard
+Partition shall comply with all applicable provisions of State law.
+605-2.3
+Submission Requirements for Preliminary Review of Urban Standard Land Divisions
+In addition to the requirements of Section 203-4 and the applicable requirements of
+Article IV, all applications for Standard Partitions and Standard Subdivisions shall
+include the following information. The preliminary plat and other drawings shall accurately
+represent all graphic data to scale. Drawings showing other information not shown
+on the preliminary plat shall be drawn to the same scale as the preliminary plat unless
+approved otherwise by the Director.
+A.
+A preliminary plat which includes the following:
+(1)
+A graphic representation of the Standard Land Division drawn to scale which is noted
+on the drawing. In all cases the scale used shall be standard, being 10, 20, 30, 40,
+50, or 60 feet to the inch or multiples of 10 of any one of these scales;
+(2)
+Names and addresses of the owner(s) and, when applicable, names and addresses of the
+designer of the Standard Subdivision or Standard Partition, engineer or surveyor;
+(3)
+Date of preliminary plat preparation;
+(4)
+For Standard Subdivisions, the proposed name;
+(5)
+Existing streets or roads (public or private) - location; names; right-of-way and
+pavement widths on and abutting the site; and the location of existing and proposed
+access points;
+(6)
+Proposed streets or roads (public or private) - location, right-of-way and pavement
+widths, approximate radius of curves and approximate grades of proposed streets on
+the subject property and within 300 feet of the site. An outline plan illustrating
+a future street plan shall also be provided for all property adjacent to the proposed
+site, including all contiguous property under common ownership;
+(7)
+Easements - locations, widths, and purpose of all recorded or proposed easements in
+or abutting the proposed site;
+(8)
+Public utilities - location of all existing and proposed storm sewers, sanitary sewers
+and water lines;
+(9)
+Flood areas - the location of any floodplain, drainage hazard areas and other areas
+subject to flooding or ponding (see Sections 410 and 421);
+(10)
+Significant Natural Resources - the location of areas designated as a Significant
+Natural Resource on a Community Plan (see Section 422);
+(11)
+Lot dimensions - all existing property lines and their lengths and the approximate
+location and dimensions of all proposed lots or parcels;
+(12)
+Lot size - the minimum proposed lot or parcel size. For proposed lots or parcels that
+are within 5% of the district's minimum lot area, the proposed lot area shall be provided.
+The lot area for lots or parcels less than 1 acre in size shall be shown in square
+feet;
+(13)
+Existing structures - location and present use of all structures on the site and indication
+of which, if any, structures are to remain after platting;
+(14)
+Identification of land (e.g., lots or tracts) to be dedicated or reserved for any
+purpose, public or private, to distinguish it from lots or parcels intended for sale.
+Land not intended to be buildable shall be so identified; and
+(15)
+The location of any water quality sensitive areas and vegetated corridors.
+B.
+Location, size and species of trees 6 inches or greater in caliper DBH. The general
+location of trees less than 6 inches in caliper DBH shall also be shown. This information
+may be shown on the preliminary plat provided all information is legible.
+C.
+Preliminary utility plans for sewer, water, storm drainage, and street lighting for
+new public streets. This information may be included on the preliminary plat provided
+all information is legible;
+D.
+Supplemental information - including deed restrictions, if any; and a statement of
+ownership, use, conditions or limitations and responsibility for maintenance of all
+nonbuildable areas or tracts, or areas or tracts to be dedicated or reserved for public
+use.
+605-2.4
+Submission Requirements for Final Review of all Standard Land Divisions
+Requests for final review of a Standard Subdivision or Standard Partition shall be
+submitted within 4 years of preliminary approval and shall include the following information:
+A.
+Necessary copies of the final plat which shall include the following information:
+(1)
+The location, right-of-way, width and centerline of all streets within the boundary
+of the site;
+(2)
+All existing and proposed easements shall be shown and shall be clearly identified
+as to intended purpose. The width of the easement, its length and bearing and sufficient
+ties to locate the easement with respect to the plat shall be shown;
+(3)
+The name of new streets as approved by the County Surveyor;
+(4)
+Identification of land (e.g., lots or tracts), to be dedicated or reserved for any
+purpose, public or private, to distinguish it from lots or parcels intended for sale.
+Land not intended to be buildable shall be so identified;
+(5)
+A declaration as required by ORS Ch. 92.075;
+(6)
+A non-graphic notation on the plat of any floodplain or drainage hazard area, including
+the floodplain or drainage hazard area elevation and the affected lots or parcels;
+and
+(7)
+Plat restrictions required in the preliminary approval.
+B.
+Supplemental information, including but not limited to:
+(1)
+A copy of any proposed deed restrictions.
+(2)
+Dedication deeds requiring separate documents.
+(3)
+Warranty deeds conveying property to the county, the State of Oregon or other public
+agency.
+(4)
+Certification that public street improvement construction plans have been approved
+by the Engineering Division and the applicant has either:
+(a)
+Installed all improvements required pursuant to the provisions of the preliminary
+approval and this Article; or
+(b)
+Executed an agreement accompanied by the financial assurance as provided by Section
+501-8.6 for public improvements.
+(5)
+For private streets, any documentation required by Section 409-3.4.
+(6)
+Provisions for access to and maintenance of off-right-of-way drainage, if any.
+C.
+Convey to Washington County by fee title a 1-foot non-access tract at the terminus
+of all on-site public stub streets, if any.
+D.
+For new public streets, certification of a street lighting plan approved by the county
+Engineering Division and meeting the materials and installation requirements of the
+electrical utility company providing service to the area.
+605-2.5
+Survey Requirements
+As set forth in Section 602-11.
+605-2.6
+Filing and Recording
+Final plats shall be filed and recorded as set forth in Section 602-1.
+( Ord. No. 855 , § 2.A.(Exh. 1, § 27), 8-6-19, eff. 11-28-19; Ord. No. 890A , § 2.A.(Exh. 1, § 1.), 2-7-23, eff. 3-9-23)
+605-3
+Development Standards for Urban Standard Land Divisions
+In addition to the other standards in this Code, the following standards shall apply
+to all Standard Land Divisions within the urban unincorporated portions of Washington
+County.
+605-3.1
+Sewers
+Sanitary sewer plans shall conform to the standards and specifications adopted by
+the Board of Directors of the Clean Water Services of Washington County. Sewer lines
+shall be installed to serve all properties within the boundaries of the Standard Subdivision
+or Standard Partition except as permitted otherwise by Section 501-2.1, 501-4, or
+501-5.
+605-3.2
+Storm Drainage Systems
+A.
+Storm drainage systems shall provide for the adequate drainage of surface water on
+and crossing a site. Storm drainage systems include, but are not limited to, ditches,
+pipes, inlets, creeks, rivers and detention facilities. Storm drainage systems may
+be located within public rights-of-way; easements or tracts for public travel, including
+private streets; drainage easements; and tracts of common ownership. Drainage plans
+and street plans shall indicate the direction of storm drainage flow.
+B.
+Storm drainage systems shall:
+(1)
+Be approved by the county;
+(2)
+Be constructed and installed throughout the development site to carry off water from
+all inlets and catch basins;
+(3)
+Be connected to a discharge facility which may include detention and retention basins
+or other storage facilities as may be found appropriate by the county;
+(4)
+Provide extension to the boundaries of the development site to facilitate pickup of
+all stormwater runoff from all portions of the drainage basin lying above and naturally
+draining through the development site. Sufficient capacity shall be provided to carry
+such stormwater through the development's storm drainage system to a storm drainage
+facility; and
+(5)
+Conform to any official drainage master plan adopted by the Board.
+C.
+Provisions for the access and maintenance of storm drainage facilities that are not
+located in a public right of way shall be provided as required by the Clean Water
+Services and in accordance with adopted county standards. An easement or tract with
+adequate width for access and maintenance of drainage facilities shall be provided.
+D.
+Copies of design computation of the stormwater system shall be provided for review
+and approval by the county.
+E.
+If a development site is traversed by a water course, drainageway, channel or stream,
+the development shall:
+(1)
+Include retention and detention basins when part of an approved drainage plan and;
+(2)
+Provide an easement or tract over the water course, drainage way, channel or stream
+for drainage or stormwater purposes. The easement or tract shall:
+(a)
+Substantially conform to the boundaries of the water course, drainage way, channel
+or stream at design flood, except as permitted by Section 421; and
+(b)
+Provide adequate width for access and maintenance of drainage facilities.
+605-3.3
+Streets and Street Improvements
+A.
+Street improvements may include, but not be limited to, street construction; grading;
+surfacing; curbs and gutters; sidewalks and bicycle facilities; street trees; utilities;
+and fire, water, storm and sanitary sewer facilities. Construction, installation or
+repair shall be in accord with the adopted Washington County Road Standards and this
+Code;
+B.
+Stormwater inlets, catch basins and fire protection facilities shall be constructed
+and installed in the right-of-way at points approved by the county;
+C.
+Street plans shall indicate the direction of storm drainage flow along all curbs;
+D.
+Streets shall be designed and constructed to be compatible in character, width, grade
+and alignment with the overall design of the streets which abut the proposed development.
+Where streets are a continuation or projection of existing streets the centerline
+shall be continuous;
+E.
+The adopted Transportation System Plan shall prevail in location, course, grade and
+widths of streets. Where there is a conflict between the Transportation Plan and existing
+street pattern, the Transportation System Plan shall prevail;
+F.
+The minimum right-of-way of streets shall comply with the adopted Transportation System
+Plan;
+G.
+All developments shall comply with adopted county sight distance standards;
+H.
+Streets, existing and future, shall:
+(1)
+Be consistent with the standards of Section 408 (Neighborhood Circulation);
+(2)
+Provide for general public convenience and safety in the areas to be served;
+(3)
+Not allow the intersection of more than two streets at any one point;
+(4)
+Be designed to encourage safe and efficient traffic flow;
+(5)
+Be designed to discourage through traffic on minor streets; and
+(6)
+A Local or Neighborhood Route street may be established which exceeds the maximum
+county standard for cul-de-sac length when the street is planned to be ultimately
+connected to another public street and meets Fire Marshal approval for adequate terminus;
+I.
+All Local and Neighborhood Route stub streets which abut a proposed development site
+shall be extended within the site to provide through circulation when not precluded
+by environmental or topographic constraints, existing development patterns, or strict
+adherence to other standards of this Code;
+J.
+At street intersections, the property line shall be rounded by an arc bearing a radius
+of not less than 15 feet. However, when an arterial street is an intersection street,
+the arc shall bear a radius of not less than 25 feet. Property lines at arterial street
+intersections, or at other locations where the Review Authority anticipates traffic
+hazards or congestion, shall be designed for a greater radius as may be necessary
+to alleviate such hazards; and
+K.
+County and public streets shall not be gated or barricaded except when required by
+the Director to address an operational or safety issue or as permitted by Section
+431-4.2 E (2).
+605-3.4
+Public Utilities
+A.
+Utility lines for telephone, gas, cable television and electric services, which serve
+more than one lot or parcel, shall conform to ORS Ch. 92 and be placed in easements
+as set forth in Section 605-2.4 A.(2). All utilities shall be underground except as
+approved through Section 416;
+B.
+All conduits and cables for cable television, gas and electric service lines shall
+be placed within easements or rights-of-way in a manner which does not conflict with
+other underground services and in compliance with adopted road standards;
+C.
+Transformers shall be located in a manner not hazardous to the public or unsightly
+in appearance; and
+D.
+The Board of Commissioners may, by resolution and order or ordinance, promulgate rules
+and regulations governing location of public utilities.
+605-3.5
+Sidewalks
+Sidewalks shall be provided as required in Articles IV and V.
+605-3.6
+Lots or Parcels
+A.
+Double-frontage lots or parcels shall be prohibited unless the Review Authority finds:
+(1)
+They are essential to provide separation of existing or proposed residential uses
+from Collectors or Arterials or adjacent nonresidential activities; and/or
+(2)
+They are needed to overcome specific disadvantages of topographical orientation.
+B.
+An additional lot depth may be required by the Review Authority on double frontage
+lots.
+C.
+Wherever possible, side lot lines shall be at right angles or radial to the street
+on which the lots face except where lots abut a cul-de-sac or hammerhead street terminus.
+D.
+Remnant lands which cannot meet Code requirements shall be added to adjacent lots
+or parcels, not left as unusable parcels unless such lands are designated as permanent
+open space.
+E.
+Lots or parcels intended to be buildable which abut a watercourse, drainageway, channel
+or stream may be required to have additional width or depth to provide a building
+site which meets Code requirements. In addition, the Review Authority may require
+dedication of a portion of this land for pedestrian ways or bicycle paths.
+605-3.7
+Blocks
+A.
+Length, width and shape of blocks shall be designed to provide adequate building sites
+for proposed uses, convenient motor vehicle, pedestrian, bicycle and transit access,
+control of traffic circulation and provision for maximum advantage of topography and
+other natural characteristics.
+B.
+Blocks shall not exceed 600 feet in length and 1,800 feet in perimeter, except as
+allowed through the provision of Sections 408-5 and 408-6.
+605-3.8
+Easements
+Sewer, water, utility or planting easements shall be sized as deemed appropriate by
+the Review Authority.
+(Ord. No. 890A , § 2.A.(Exh. 1, §§ 1., 31.), 2-7-23, eff. 3-9-23)
+
+ ### 606 - MIDDLE HOUSING LAND DIVISION
+
+A lot within the R-5, R-6, R-9, R-15, R-24, R-25+, R-6 NB, R-9 NB, R-15 NB, TO:R9-12,
+TO:R12-18 or TO:R18-24 district may be divided through a Middle Housing Land Division
+to create a separate lot or parcel for exactly one Middle Housing unit each, subject
+to compliance with applicable standards of Article III (Land Use Districts), Article
+IV (Development Standards), Article V (Public Facility and Service Requirements) and
+Section 606 of this Article.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 32.), 2-7-23, eff. 3-9-23)
+606-1
+Application Completeness, Notice, Comment Period
+606-1.1
+Completeness
+A.
+If the application for a Land Division is incomplete, the County shall notify the
+applicant of exactly what information is missing within 21 days of receipt of the
+application and allow the applicant to submit the missing information. For purposes
+of computation of time under this Section, the application shall be deemed complete
+on the date the applicant submits the requested information or refuses in writing
+to submit it.
+B.
+If a Middle Housing Land Division application is complete when first submitted, or
+the applicant submits the requested additional information within 180 days of the
+date the application was first submitted, application approval or denial shall be
+based on standards and criteria in effect when the application was first submitted.
+606-1.2
+Notice of complete application
+A.
+The County shall provide written notice of the receipt of a complete Middle Housing
+Land Division application to:
+(1)
+Any state agency, local government or special district responsible for providing public
+facilities or services to the development;
+(2)
+The Community Participation Organization whose boundaries include the site; and
+(3)
+Owners of property within 100 feet of the proposed Middle Housing Land Division site.
+The notification list shall be compiled from the most recent property tax assessment
+roll. For purposes of appeal to the Hearings Officer, this requirement shall be deemed
+met when the County can provide an affidavit or other certification that such notice
+was given.
+B.
+The required notice shall include:
+(1)
+The street address or other easily understood geographical reference to the subject
+property;
+(2)
+The time and place where copies of all evidence submitted by the applicant will be
+available for review;
+(3)
+The applicable criteria for the Middle Housing Land Division decision;
+(4)
+A brief summary of the County's decision-making process for the Middle Housing Land
+Division decision;
+(5)
+The address for submitting written comments, and the closing date of the 14-day comment
+period, which shall conclude at the end of the Department of Land Use & Transportation's
+business day;
+(6)
+Notification that issue(s) which may provide the basis for an appeal to the Hearings
+Officer must be raised in writing prior to the end of the comment period, and with
+sufficient specificity to enable the County to respond to the issue(s); and
+(7)
+The name and telephone number of a County contact person.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 32.), 2-7-23, eff. 3-9-23)
+606-2
+Review of a Complete Application—Procedures and Timing
+606-2.1
+After the County has provided notice per Section 606-1.2, the County shall:
+A.
+Provide a 14-day period for submission of written comments prior to the decision,
+consistent with Section 606-1.2 B.(5), above;
+B.
+Make a decision within 63 days of receiving a completed application, based on whether
+the application satisfies applicable substantive requirements of this Code. An approval
+may include conditions to ensure that the application meets those requirements;
+C.
+Issue a written determination of compliance or noncompliance with applicable land
+use regulations that provide the basis for the determination, and a summary statement
+explaining the determination;
+D.
+Provide notice of the decision to the applicant and to those who received notice under
+Section 606-1.2 within 63 days of the date of a completed application. The notice
+of decision shall include:
+(1)
+The summary statement described in 606-2.1 C.; and
+(2)
+An explanation of appeal rights under Section 606-3.
+606-2.2
+The County shall not hold a hearing to make a decision on a Middle Housing Land Division
+application.
+606-2.3
+If the County decision on a Middle Housing Land Division application will exceed the
+63-day limit applied under 606-2.1 B.:
+A.
+Except as provided in B., below, the applicant may apply in Washington County circuit
+court for a writ of mandamus to compel the County to issue the approval. The circuit
+court decision may be appealed only to the Court of Appeals.
+B.
+After seven days' notice to the applicant, prior to the expiration of the 63-day period,
+at a regularly scheduled public meeting the Board may take action to extend the 63-day
+time period to a date certain that is no more than 120 days after the application
+was deemed complete, for one or more Middle Housing Land Division applications. This
+extension shall be based on a determination that an unexpected or extraordinary increase
+in applications makes action within 63 days impracticable. In accordance with ORS
+197.370, the decision to approve or not approve such an extension is not a land use
+decision or limited land use decision.
+The applicant may still pursue the remedy provided under A., above, except that the
+extended period shall be substituted for the 63-day period.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 32.), 2-7-23, eff. 3-9-23)
+606-3
+Appeals—Procedures and Timing
+606-3.1.
+An appeal of the decision on a Middle Housing Land Division:
+A.
+Shall be filed with the County within 14 days of the date the notice of decision was
+mailed.
+B.
+Shall be accompanied by a deposit for costs.
+C.
+May only be filed by:
+(1)
+The applicant; or
+(2)
+Any person or organization who files written comments in the 14-day period established
+under 606-1.2 B.(5).
+A person or organization that provided written comments to the County but did not
+file an appeal may participate only with respect to the issues raised in the written
+comments submitted by that person or organization.
+D.
+Shall be based solely on one or more of the following allegations:
+(1)
+Violation of the applicable substantive provisions of this Code;
+(2)
+Unconstitutionality of the decision;
+(3)
+Ineligibility of the application for review as a Middle Housing Land Division, and
+that it should be reviewed as a land use decision or limited land use decision (for
+example an urban Standard Land Division subject to compliance with land use standards
+of 601-1, 602, 603 and 605); or
+(4)
+That substantive rights of the applicant or applicable person/organization have been
+substantially prejudiced by the County due to an error in procedure.
+E.
+Shall be decided by the Hearings Officer. The Hearings Officer:
+(1)
+Shall, within seven days of being appointed to decide the appeal, notify the following
+parties and advise them of the manner in which they may participate in the appeal:
+(a)
+The applicant;
+(b)
+The County:
+(c)
+The appellant if other than the applicant;
+(d)
+Any person or organization entitled to notice under Section 606-1.2 that provided
+written comments to the County; and
+(e)
+All providers of public facilities and services entitled to notice under Section 606-1.2.
+(2)
+May use any procedure for decision-making consistent with the interests of the parties
+to ensure a fair opportunity to present information and argument.
+(3)
+Shall provide the County an opportunity to explain the County's decision but is not
+limited to reviewing the County's decision and may consider information not presented
+to the County.
+(4)
+Shall apply the applicable substantive requirements of this Code. If the Hearings
+Officer determines that the application does not qualify as a Middle Housing Land
+Division based on those requirements, the Hearings Officer shall remand the application
+for consideration as a land use decision or limited land use decision. In all other
+cases, the Hearings Officer shall seek to identify means by which the application
+can satisfy the applicable requirements of this Code.
+(5)
+May not reduce the density of the Middle Housing Land Division application.
+(6)
+Shall, within 42 days of the date the appeal was filed, make a written decision approving
+or denying the application, or approving it with conditions designed to ensure it
+satisfies applicable substantive requirements of this Code.
+(7)
+May not remand the application to the County for any reason other than as set forth
+in this section.
+F.
+The above noted time periods for filing and issuing a decision on an appeal are not
+included in the time period allowed under Section 606-2.1 for the initial decision.
+606-3.2
+Any party to a Middle Housing Land Division appeal decided by the Hearings Officer
+may seek judicial review in the Court of Appeals. The Land Use Board of Appeals does
+not have jurisdiction to consider Middle Housing Land Division decisions, aspects
+of decisions or actions.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 32.), 2-7-23, eff. 3-9-23)
+606-4
+Review of Middle Housing Land Divisions
+A Middle Housing Land Division is subject to a two-step process involving separate
+reviews for tentative and final approval.
+606-4.1
+Tentative approval
+A.
+Written and plan information shall be submitted by the applicant to demonstrate compliance
+with the requirements below. The application shall describe the manner in which the
+proposed Middle Housing Land Division complies with each of the provisions of Section
+606. The preliminary plat and other drawings shall accurately represent all graphic
+data at the same scale, using a scale of 10, 20, 30, 40, 50, or 60 feet to the inch,
+or multiples of 10 of any one of these scales. The scale shall be included on drawings.
+B.
+A Middle Housing Land Division application that includes the following shall be granted
+tentative approval:
+(1)
+A proposal for development of Middle Housing (a land use application distinct from
+a Middle Housing Land Division application), either previously approved or submitted
+for concurrent review and approval, in compliance with the following:
+(a)
+The Oregon Residential Specialty Code;
+(b)
+Standards of this Code applicable to Middle Housing and Middle Housing Land Divisions
+pursuant to:
+(i)
+Article III (Land Use Districts);
+(ii)
+Section 403-2 (Master Plan—Minimum Requirements for all Development);
+(iii)
+Section 406-6 (Mixed Solid Waste and Recyclables Storage Facilities);
+(iv)
+Section 407-7 (Urban Street Tree Standards);
+(v)
+Section 409 (Private Streets);
+(vi)
+Section 410 (Grading and Drainage);
+(vii)
+Section 413 (Parking and Loading);
+(viii)
+Section 416 (Utility Design);
+(ix)
+Section 418 (Setbacks);
+(x)
+Section 421 (Floodplain and Drainage Hazard Areas);
+(xi)
+Section 422 (Significant Natural Resources);
+(xii)
+Section 430-37 (Detached Dwelling Unit (Single) on Lot of Record, Middle Housing Duplex, and Type
+II Middle Housing);
+(xiii)
+Section 431 (Transit Oriented Design Principles, Standards and Guidelines); and
+(xiv)
+Article V (Public Facilities and Services).
+NOTE: A previously approved proposal for development of Middle Housing that was designed
+for development on a single shared lot may lack certain provisions required for a
+Middle Housing Land Division, for example fire wall requirements applicable to attached
+units on separate lots per building code, spacing between buildings to accommodate
+minimum setbacks to newly proposed property lines (Article III), or separate utilities
+(606-4.1 B.(8), below).
+An applicant who intends to develop units on a shared lot but retain potential to
+divide later should ensure that design of the Middle Housing development accommodates
+all building and spatial requirements needed for a Middle Housing Land Division.
+(2)
+Evidence of compliance with Section 606 and all Articles/Sections listed under 606-4.1
+B.(1)(b) specifically as they apply to a Middle Housing Land Division.
+(3)
+Evidence demonstrating how buildings or structures on a resulting lot or parcel will
+comply with applicable building code provisions relating to new property lines and,
+notwithstanding the creation of new lots or parcels, how structures or buildings located
+on the newly created lots or parcels will comply with the Oregon Residential Specialty
+Code.
+(4)
+Plan information showing exactly one dwelling unit per resulting lot or parcel, except
+for lots, parcels or tracts used as common areas.
+(5)
+No housing that is not Middle Housing as defined in this Code.
+(6)
+Consistent with (4) and (5), above, for any existing Single Detached Dwelling Unit
+or Accessory Dwelling Unit to be retained:
+(a)
+Evidence within the Middle Housing development proposal required under Section 606-4.1
+B.(1), that the unit meets the definition and applicable requirements of this Code
+for the Middle Housing type otherwise proposed onsite, and a written request for its
+consideration as such; and
+(b)
+Inclusion on its own separate lot within the Middle Housing Land Division.
+See also 430-2 (Accessory Dwelling Unit) and 430-84 (Middle Housing) regarding existing dwellings
+and implications for a Middle Housing Land Division.
+(7)
+Evidence that no dwelling or accessory building, or any part thereof, is located on
+land within a significant natural resource, open space, scenic or historic resource
+area mapped in County Comprehensive Plan documents for protection consistent with
+statewide planning goals, or within a floodplain and drainage hazard area based on
+currently applicable FEMA and County maps.
+(8)
+Plans showing separate utilities for each dwelling unit, except to the extent that
+standards of Clean Water Services and/or County Building Services allow for shared
+storm or sanitary sewer system elements.
+(9)
+Plans showing proposed easements necessary for each dwelling unit for:
+(a)
+Locating, accessing, replacing and servicing all utilities;
+(b)
+Pedestrian access from each dwelling unit to a private or public road;
+(c)
+Any common use areas or shared building elements;
+(d)
+Any dedicated driveways or parking; and
+(e)
+Any dedicated common area.
+C.
+Building permit applications for Middle Housing units may be submitted at the same
+time as an application for tentative approval of a Middle Housing Land Division. Regardless,
+building permits for new Middle Housing units shall not be issued before the final
+plat is recorded.
+NOTE: Applicants who choose to submit building permit applications at the same time
+as a Middle Housing Land Division application should consult with Building Services
+about timing implications.
+D.
+The applicant shall submit a preliminary plat showing:
+(1)
+Compliance with Section 606-4.1 B., above;
+(2)
+Names and addresses of the owner(s), engineer or surveyor, and, when applicable, the
+designer of the Middle Housing Land Division;
+(3)
+Date of preliminary plat preparation;
+(4)
+For a Middle Housing Land Division that is a Subdivision (four or more resulting Middle
+Housing lots), the proposed Subdivision name;
+(5)
+A scaled drawing of the Middle Housing Land Division (see Section 606-4.1 A.);
+(6)
+Locations and widths of existing access points, and any access points proposed through
+an application for development of Middle Housing (see Section 430-84 and Article V for driveway/access standards that apply to each Middle Housing type);
+(7)
+Existing and proposed improvements to meet Sufficient Infrastructure requirements
+for Middle Housing per Sections 106-210, 409, 410, 430-84 , 431 and Article V (may be shown on separate plan drawings as necessary to show any
+required offsite improvements for Sufficient Infrastructure);
+(8)
+Existing and proposed streets/roads, public and private, on and abutting the site,
+including locations, widths, approximate curve radii and grades, street name(s), and
+associated right-of-way, tracts and easements, including but not limited to the following:
+(a)
+Existing right-of-way and necessary right-of-way dedications, along the entire site
+frontage where a parent lot or parcel abuts a public street, to meet Washington County
+Functional Classification standards as required for a Middle Housing Land Division
+under Articles III and V.
+(b)
+Public improvements and right-of-way to County standard, as required under Article
+V, where a lot resulting from a Middle Housing Land Division will front a public street,
+including preliminary utility plans for sewer, water, storm drainage, and street lighting
+for new public streets;
+(c)
+Private street improvements, as required under Section 409, where a lot resulting
+from a Middle Housing Land Division will front a private street;
+NOTE: Vehicular access and internal streets/roads are not required for a Middle Housing
+Land Division, except as necessary for required compliance with standards that apply
+to the associated application for development of Middle Housing (606-4.1 B.(1)), including
+off-street parking requirements (Section 413), the minimum frontage on a public or
+private street for Middle Housing Townhouse lots or parcels (Article III), or Sufficient
+Infrastructure requirements (Section 106-210, 409, 410, 430-84 , 431, Article V).
+(9)
+Location, width, and purpose of all recorded or proposed easements in or abutting
+the site;
+(10)
+Area of the existing parent lot or parcel and each lot or parcel to result from the
+Middle Housing Land Division, and dimensions of all existing and proposed property
+lines;
+(11)
+Identification of:
+(a)
+Proposed Middle Housing lots or parcels intended for sale;
+(b)
+Land to be dedicated or reserved for any other purpose, public or private; and
+(c)
+Land not intended to be buildable;
+(12)
+Location of all existing structures on the site, their setbacks to existing and proposed
+property lines, and notations indicating present use of the structures and whether
+they are proposed to remain after platting;
+(13)
+Location of all proposed Middle Housing units and structures, and their setbacks to
+existing and proposed property lines;
+(14)
+Separate utilities for each dwelling unit as required under 606-4.1 B.(8);
+(15)
+Onsite land area mapped in Comprehensive Plan documents as a significant natural resource,
+open space, scenic area or historic resource; and any onsite floodplain or drainage
+hazard area based on currently applicable FEMA and County maps;
+(16)
+Supplemental information—including deed restrictions and plat notations, if any, documents
+addressing ownership, use rights, and allocation/liability for maintenance of all
+private streets shall be submitted to the Review Authority prior to or in conjunction
+with final approval; and a statement of ownership, use, conditions or limitations
+and responsibility for maintenance of all nonbuildable areas or tracts, or areas or
+tracts to be dedicated or reserved for public use.
+E.
+The tentative approval for a Middle Housing Land Division application shall include
+a condition requiring a notation on the final plat which states that:
+(1)
+Approval was granted under Community Development Code standards for a Middle Housing
+Land Division; and
+(2)
+Further division of the resulting lots or parcels is prohibited.
+F.
+The tentative approval for a Middle Housing Land Division is void if and only if a
+final Subdivision or Partition plat is not recorded within three years of the tentative
+approval.
+606-4.2
+Final Review of Middle Housing Land Divisions
+A.
+The tentative approval of a Middle Housing Land Division is void if and only if a
+final plat is not recorded within three years of the tentative approval.
+B.
+An application for final review of a Middle Housing Land Division shall be submitted
+to Current Planning. Final Current Planning review and approval of the proposed final
+plat shall be granted prior to approval of the plat by the County Surveyor and recording.
+C.
+Building permits for a Middle Housing development shall not be issued prior to recording
+of the final plat.
+D.
+Requests for final Current Planning review of a Middle Housing Land Division shall
+include the following information:
+(1)
+Copies of the proposed final plat which shall include the following information:
+(a)
+Plat notations required by Section 606-4.1 E.;
+(b)
+The location, right-of-way, width and centerline of all streets within the boundary
+of the site;
+(c)
+All existing and proposed easements, clearly identified as to intended purpose. The
+width of the easement, its length and bearing and sufficient ties to locate the easement
+with respect to the plat shall be shown;
+(d)
+The name of new streets as approved by the County Surveyor;
+(e)
+Labels identifying proposed lots or parcels intended for sale, and the intended purpose
+of all other land within the site, consistent with Section 606-4.1 D.(11);
+(f)
+A declaration as required by ORS Ch. 92.075;
+(g)
+A non-graphic notation on the plat, of any floodplain or drainage hazard area, including
+the floodplain or drainage hazard area elevation and the affected Middle Housing lots
+or parcels. NOTE: No dwelling in a Middle Housing Land Division is permitted within
+such areas; and
+(2)
+Supplemental information, including but not limited to:
+(a)
+A copy of any proposed deed restrictions;
+(b)
+Dedication deeds requiring separate documents;
+(c)
+Warranty deeds conveying property to the county, the State of Oregon or other public
+agency;
+(d)
+Certification that construction plans have been approved by the Engineering Division
+for public improvements required under Sections 410, 606 and Article V, and the applicant
+has either:
+(i)
+Installed all such improvements; or
+(ii)
+Executed an agreement accompanied by the financial assurance as provided by Section
+501-8.6 for public improvements;
+(e)
+For new public streets, certification of a street lighting plan approved by the County
+Engineering Division and meeting the materials and installation requirements of the
+electrical utility company providing service to the area;
+(f)
+For private streets, documentation required by Section 409-3.4 and 409-4; and
+(g)
+Provisions for access to and maintenance of drainage areas that are partially or fully
+outside right-of-way, if any.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 32.), 2-7-23, eff. 3-9-23)
+606-5
+Filing and Recording Middle Housing Land Divisions
+606-5.1
+Within three years of tentative approval, the final plat for a Middle Housing Land
+Division shall be recorded with the Department of Assessment & Taxation.
+606-5.2
+Prior to acceptance of a final plat for a Middle Housing Land Division for recording
+by the Department of Assessment & Taxation, Recording Division, a copy of all supplemental
+information that must be recorded, such as restrictive covenants, shall be attached
+to the final plat.
+Supplemental information that must be recorded shall be recorded immediately after
+recording the plat.
+606-5.3
+Final Middle Housing Land Division plats shall be approved and signed by the County
+Surveyor, the County Assessor, and the Chair or Vice-Chair of the Board of Commissioners
+prior to recording.
+606-5.4
+No lot or parcel resulting from a Middle Housing Land Division shall be sold prior
+to recording of the final approved plat.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 32.), 2-7-23, eff. 3-9-23)
+606-6
+Subsequent Land Divisions and Property Line Adjustments
+Further division of lots or parcels resulting from a Middle Housing Land Division
+is prohibited.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 32.), 2-7-23, eff. 3-9-23)
+606-7
+Revisions to Middle Housing Land Divisions
+Except for revisions to an application with tentative approval that are required for
+final approval, revisions to a Middle Housing Land Division with tentative or final
+approval shall be:
+A.
+Processed as a new application; and
+B.
+Subject to the Middle Housing Land Division standards that are in effect at the time
+the new application is submitted.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 32.), 2-7-23, eff. 3-9-23)
+606-8
+Special Assessments for Middle Housing Land Divisions
+No Middle Housing Land Division may be approved for land which is subject to special
+assessments for public improvements by Clean Water Services or Washington County,
+unless application has been made to the appropriate entity for division of those assessments
+under its ordinances or procedures. Applications for division of assessments and for
+division of land may be processed concurrently.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 32.), 2-7-23, eff. 3-9-23)
+606-9
+Survey and Monumentation Requirements
+Middle Housing Land Division plats shall be surveyed and monumented in accordance
+with the requirements of ORS 92.010 to 92.192, except that provisions of ORS 92.044
+or 92.046 that are inconsistent with state and County provisions for a Middle Housing
+Land Division shall not apply.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 32.), 2-7-23, eff. 3-9-23)
+606-10
+Development on Lots or Parcels Resulting from a Middle Housing Land Division
+A.
+Development shall occur in accordance with Section 606 and standards of all applicable
+Sections of this Code specified within Section 606.
+B.
+Only one dwelling unit is permitted on each lot resulting from a Middle Housing Land
+Division. Accessory Dwelling Units are not permitted.
+C.
+The type of Middle Housing approved on the parent parcel shall not be altered by a
+Middle Housing Land Division. For example, a unit approved as a Cottage, or a detached
+Middle Housing Duplex, Triplex or Quadplex unit, shall remain such after a Middle
+Housing Land Division. It shall not be considered a Single Detached Dwelling Unit
+(defined in Section 106) and shall not be allowed an Accessory Dwelling Unit.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 32.), 2-7-23, eff. 3-9-23)
+
+ ### 610 - STANDARD LAND DIVISIONS AND PROPERTY LINE ADJUSTMENTS OUTSIDE AN URBAN GROWTH BOUNDARY
+
+610-1
+Property Line Adjustments (Property Line Relocation)
+A property line adjustment is the relocation or consolidation of a common boundary
+line between two or more abutting properties where an additional lot or parcel is
+not created.
+610-1.1
+A.
+General Limitations
+Property line adjustments are limited as follows:
+(1)
+In the EFC District, no lot or parcel shall be reconfigured to qualify for a Dwelling
+under Section 430-37.2 E.(2) with the exception of those Type I adjustments described
+under Section 610-1.1 B.
+(2)
+Property line adjustments that result in lots or parcels of less than two acres shall
+provide:
+(a)
+Documentation from the Department of Health & Human Services or the Department of
+Environmental Quality that property(ies) less than two acres in size can accommodate
+a subsurface sewage disposal system and/or replacement system; and
+(b)
+Documentation from the Water Master that property(ies) less than two acres in size
+can accommodate public water or an on-site water source.
+(3)
+Existing lots or parcels reduced in size by a property line adjustment may not be
+reduced below the minimum lot size established by the applicable land use district,
+unless authorized by Section 610-1.1 B or C.
+(4)
+For property line adjustments on lots or parcels with two or more land use districts,
+the minimum lot size shall be based on the predominant land use district of the parcel.
+(5)
+Lots that were created through a Measure 49 authorization shall not be increased by
+a Property Line Adjustment to exceed the following size limitations established by
+OAR 660-041-0180(2):
+(a)
+Two acres if the property is located on high-value farm or forest land, or on land
+within a ground water restricted area; or
+(b)
+Five acres if the property is not located on high-value farm or forest land, and is
+not on land within a groundwater restricted area.
+B.
+Property Line Adjustments Permitted Through a Type I Procedure
+Property lines in the EFC District may be adjusted through a Type I procedure only
+if consistent with CDC Section 610-1.1.B. (2), (3)(a), (b) and (d) below. All other
+property line adjustments in the EFC District shall be reviewed under Section 610-1.1
+C.
+Property lines in the EFU, AF-20, AF-10, AF-5, RR-5, R-COM, R-IND and MAE Districts
+shall be adjusted through a Type I procedure provided:
+(1)
+Both properties meet or exceed the minimum lot or parcel size for the applicable district;
+or
+(2)
+Equal land areas are exchanged; or
+(3)
+No lot or parcel is reduced in size below the minimum lot size for the District except
+for the following:
+(a)
+When a federal, state, or local judiciary issues a court decree for adverse possession,
+way of necessity or a prescriptive use. The adjustment shall not be larger than the
+minimum size necessary to implement the court decree; or
+(b)
+Where a parcel has a lawfully established structure which is in violation of a setback
+requirement. The adjustment shall not be larger than the minimum size necessary to
+correct the violation; or
+(c)
+Where a parcel is being reconfigured for the purpose of a Federal project for creation
+of, restoration of or enhancement of wetlands; or
+(d)
+When a parcel is reconfigured to provide adequate sight distance as determined by
+the County Engineer; or
+(e)
+A lot or parcel is reconfigured to align with a road or railroad right-of-way, a power
+transmission line on deeded property, an urban growth boundary or a channel of a river
+or other watercourse or body of water that divides the lot or parcel; or
+(4)
+For properties entirely outside the boundary of a city, one or both of the abutting
+properties are smaller than the minimum lot or parcel size for the applicable district
+before the property line adjustment and, after the adjustment, one is as large as
+or larger than the minimum lot or parcel size for the applicable district; or
+(5)
+For properties entirely outside the boundary of a city, both abutting properties are
+smaller than the minimum lot or parcel size for the applicable district before and
+after the property line adjustment.
+C.
+Property Line Adjustments Permitted Through a Type II Procedure
+Except as otherwise allowed under CDC Section 610-1.1.B. (2), (3)(a), (b) and (d),
+in the EFC District, on lots or parcels located entirely outside the boundary of a
+city, property lines may be adjusted through a Type II procedure when the following
+standards are met:
+(1)
+Both properties meet or exceed the minimum lot or parcel size for the applicable district;
+or
+(2)
+One or both of the abutting properties are smaller than the minimum lot or parcel
+size before the adjustment, and after the adjustment, at least one property is as
+large or larger than the minimum lot or parcel size for the applicable district; or
+(3)
+Both abutting properties are smaller than the minimum lot or parcel size for the applicable
+district before and after the adjustment.
+(4)
+The adjustment shall not decrease the size of a lot or parcel that, before the relocation
+or elimination of the common property line, is smaller than the minimum lot or parcel
+size for the applicable district and contains an existing dwelling or is approved
+for the construction of a dwelling, if the abutting vacant tract would be increased
+to a size as large as or larger than the minimum tract size required to qualify the
+vacant tract for a dwelling.
+(5)
+The adjustment shall not decrease the size of a lot or parcel that contains an existing
+dwelling or is approved for construction of a dwelling to a size smaller than the
+minimum lot or parcel size, if the abutting vacant tract would be increased to a size
+as large as or larger than the minimum tract size required to qualify the vacant tract
+for a dwelling.
+(6)
+The adjustment shall not allow an area of land used to qualify a tract for a dwelling
+based on an acreage standard to be used to qualify another tract for a dwelling if
+the land use approval would be based on an acreage standard.
+610-1.2
+Submission Requirements
+In addition to the requirements of Section 203-3, all applications for a property
+line adjustment outside a UGB shall include the following:
+A.
+Name(s), address(es) and telephone number(s) of the owner(s), agent(s) and surveyor(s);
+B.
+A plot plan showing:
+(1)
+All existing and proposed property lines;
+(2)
+All existing and proposed structures;
+(3)
+Existing and proposed easements;
+(4)
+The location of any floodplain, drainage hazard areas and other areas subject to flooding
+or ponding; and
+(5)
+Existing subsurface sewerage systems, including drainfields and associated easements,
+within 10 feet of an existing or proposed property line.
+C.
+Existing and proposed lot or parcel sizes.
+610-1.3
+Review Standards
+In addition to the applicable requirements of Section 610-1.1, property line adjustments
+shall meet the following standards:
+A.
+No additional unit(s) of land shall be created as a result of the property line adjustment;
+B.
+No property line adjustment shall result in a property line that violates the setback
+of the applicable land use district unless a variance to the standard is approved;
+and
+C.
+The adjusted parcels meet the sight distance requirements of Section 501-9.5.
+610-1.4
+Survey Requirements
+As set forth in Section 602-11.
+610-1.5
+Filing and Recording
+As set forth in Section 602-1.
+( Ord. No. 809, § 2.E.(Exh. 5, § 5), 8-16-2016, eff. 9-15-2016 ; Ord. No. 866 , § 2.C.(Exh. 3, § 26, 9-1-20, eff. 10-1-20)
+610-2
+Rural Standard Land Divisions (Standard Partitions and Standard Subdivisions)
+Land outside an urban growth boundary may be divided through a Standard Partition
+or a Standard Subdivision. To partition land means to divide a unit of land into two
+or three parcels within a calendar year. To subdivide land means to divide a unit
+of land into four or more lots within a calendar year. A Standard Partition or Standard
+Subdivision may or may not involve the creation of a street or road. Standard Subdivisions
+and Standard Partitions are subject to the general standards of the land use districts,
+the applicable development standards of Article IV, the applicable standards of Section
+501-9 (Limited Application of the Public Facilities and Service Standards Outside
+the UGB) and the provisions of this Article, including standards in Section 610-3
+(Development Standards for Rural Standard Land Divisions).
+610-2.1
+Procedures
+Standard Partitions and Standard Subdivisions shall be processed through a two-step
+process consisting of a preliminary review and a final review.
+A.
+Preliminary Review:
+The preliminary review of a Standard Partition or Standard Subdivision shall:
+(1)
+Be through a Type II procedure when no variance from the standards of this Code is
+required; or
+(2)
+Be through a Type III procedure when a variance from the applicable standards of this
+Code is required or when in conjunction with a Type III development.
+(3)
+Expire automatically four years from the date of approval.
+(a)
+A request for final review, which includes all required information, is filed with
+the County; or
+(b)
+A request for an extension is filed with the County pursuant to Article II; or
+(c)
+Development is commenced pursuant to Section 201-6. If the Director determines that
+development has commenced prior to final approval, the preliminary review shall expire
+five years from the date of approval unless final approval is granted.
+B.
+Final Review:
+Final review of a Standard Partition or Standard Subdivision shall be through a Type
+I procedure, unless otherwise specified by the Review Authority in the preliminary
+approval. Final approval shall be granted prior to approval of the Standard Partition
+or Standard Subdivision plat by the County Surveyor.
+610-2.2
+Review Standards
+A.
+Preliminary Review:
+The proposed Standard Partition or Standard Subdivision shall be reviewed for compliance
+with the applicable provisions of this Code, including Section 601-1.
+B.
+Final Review:
+(1)
+The request for final approval of a Standard Partition or Standard Subdivision shall
+be reviewed for consistency with the preliminary approval and shall comply with the
+standards and conditions of the preliminary approval.
+(2)
+Any request for final approval submitted prior to expiration, but the expiration date
+subsequently passes and final approval is not granted for lack of the required information,
+shall be denied if the required information is not submitted within 60 days of the
+expiration. In this situation, the preliminary approval as expired and shall be null
+and void.
+C.
+Notwithstanding any other provisions, a proposed Standard Subdivision or Standard
+Partition shall comply with all applicable provisions of State law.
+610-2.3
+Submission Requirements for Preliminary Review of Rural Standard Land Divisions
+In addition to the requirements of Section 203-4 and the applicable requirements of
+Article IV, all applications for Standard Partitions and Standard Subdivisions shall
+include the following information:
+The preliminary plat and other drawings shall accurately represent all graphic data
+to scale. Drawings showing other information not shown on the preliminary plat shall
+be drawn to the same scale as the preliminary plat, unless approved otherwise by the
+Director.
+A.
+A preliminary plat which includes the following:
+(1)
+A graphic representation of the Standard Land Division drawn to a scale which is noted
+on the drawing.
+In all cases the scale used shall be standard, being ten, 20, 30, 40, 50, or 60 feet
+to the inch or multiples of ten of any one of these scales;
+(2)
+Names and addresses of the owner(s) and, when applicable, names and addresses of the
+designer of the Standard Subdivision or Standard Partition, engineer or surveyor;
+(3)
+Date of preliminary plat preparation;
+(4)
+For Standard Subdivisions, the proposed name;
+(5)
+Existing streets or roads (public or private) - location, names, right-of-way and
+pavement widths on and abutting the site, and the location of existing and proposed
+access points;
+(6)
+Proposed streets or roads (public or private) - location, right-of-way and pavement
+widths, approximate radius of curves and approximate grades of proposed streets on
+the subject property and within 300 feet of the site. An outline plan illustrating
+a future street plan shall also be provided for all property adjacent to the proposed
+site and all contiguous property under common ownership;
+(7)
+Easements - locations, widths, and purpose of all recorded or proposed easements in
+or abutting the proposed site;
+(8)
+Public utilities - location of all existing and proposed storm sewers, sanitary sewers
+and water lines, if any;
+(9)
+Flood areas - the location of any floodplain, drainage hazard areas and other areas
+subject to flooding or ponding (see Sections 410 and 421);
+(10)
+Significant Natural Resources - the location of areas designated as a Significant
+Natural Resource on the Rural/Natural Resource Plan Element (see Section 422);
+(11)
+Lot dimensions - all existing property lines and their lengths, and the approximate
+location and dimensions of all proposed lots or parcels;
+(12)
+Lot size - the minimum proposed lot or parcel size;
+(13)
+Existing structures - location and present use of all structures on the site and indication
+of which, if any, structures are to remain after platting;
+(14)
+Identification of land (e.g., lots or tracts) reserved for any purpose, public or
+private, to distinguish it from lots or parcels intended for sale. Land not intended
+to be buildable shall be so identified;
+B.
+A generalized vegetation map of existing trees. This information may be shown on the
+preliminary plat provided all information is legible;
+C.
+Preliminary utility plans for sewer, water and storm drainage when these utilities
+are to be provided. This information may be included on the preliminary plat provided
+all information is legible;
+D.
+Subsurface sewerage systems - location of all existing systems, including drainfields
+and associated easements; and
+E.
+Supplemental information - including deed restrictions, if any; and a statement of
+ownership, use, conditions or limitations and responsibility for maintenance of all
+nonbuildable areas or tracts, or areas or tracts to be dedicated or reserved for public
+use.
+610-2.4
+Submission Requirements for Final Review of all Standard Land Divisions
+Requests for final review of a Standard Subdivision or Standard Partition shall be
+submitted within four years of preliminary approval and shall include the following
+information:
+A.
+Necessary copies of the final plat, which shall include the following information:
+(1)
+The right-of-way location, width and centerline of all streets within the boundary
+of the site;
+(2)
+All existing and proposed easements shall be shown and shall be clearly identified
+as to intended purpose. The width of the easement, its length and bearing and sufficient
+ties to locate the easement with respect to the plat shall be shown;
+(3)
+The name of new streets approved by the County Surveyor;
+(4)
+Identification of land (e.g., lots or tracts) to be dedicated or reserved for any
+purpose, public or private, to distinguish it from lots or parcels intended for sale.
+Land not intended to be buildable shall be so identified;
+(5)
+A declaration as required by ORS Ch. 92.075;
+(6)
+A non-graphic notation on the plat of any floodplain or drainage hazard area, including
+the floodplain or drainage hazard area elevation and the affected lots or parcels;
+(7)
+Plat restrictions required in the preliminary approval; and
+(8)
+Unless a subsurface sewerage permit or site evaluation approval has been issued from
+the appropriate agency for all the preliminary approved lots or parcels, a notation
+shall be placed on the plat stating that the allowance of the Standard Partition or
+Standard Subdivision does not warrant that sewer or septic tank approval is or will
+be available to the affected lots or parcels.
+However, lots or parcels created in the RR-5 District pursuant to Section 350-6.1
+C. are required to obtain a subsurface sewerage permit or site evaluation approval
+as required by Section 350-6.1 C. (2).
+B.
+Supplemental Information, including but not limited to:
+(1)
+A copy of any proposed deed restrictions;
+(2)
+Dedication deeds requiring separate documents;
+(3)
+Warranty deeds conveying property to the county, the State of Oregon or other public
+agency;
+(4)
+Certification that public street improvement construction plans have been approved
+by the Engineering Division and the applicant has either:
+(a)
+Installed all improvements required pursuant to the provisions of the preliminary
+approval and this Article; or
+(b)
+Executed an agreement accompanied by the financial assurance as provided by Section
+501-8.6 for public improvements;
+(5)
+Provisions for access to and maintenance of off-right-of-way drainage, if any; and
+(6)
+When required by Section 409-5, written certification by the applicable fire marshal
+that private streets, if any, have been constructed in accordance with the preliminary
+approval and the standards of Section 409-5.
+C.
+Convey to Washington County by fee title a one-foot non-access tract at the terminus
+of all on-site public stub streets, if any.
+610-2.5
+Survey Requirements
+As set forth in Section 602-11.
+610-2.6
+Filing and Recording
+Final plats shall be filed and recorded as set forth in Section 602-1.
+610-2.7
+Phased Development
+When an applicant desires to record and develop portions of an approved Standard Subdivision
+plat in phases the Review Authority may authorize a time schedule for platting and
+otherwise developing in phases. The Review Authority may condition any stage to comply
+with the standards of this Code in effect at the time of development. In no case shall
+the total time period for final approval of all stages exceed five years without resubmission
+of the tentative plan for review pursuant to the standards then in effect.
+( Ord. No. 813, § 2.C.(Exh. 3, § 7), 8-23-2016, eff. 11-25-2016 ; Ord. No. 890A , § 2.A.(Exh. 1, §§ 1., 33.), 2-7-23, eff. 3-9-23)
+610-3
+General Development Review Standards
+In addition to the other standards in this Code, the following standards shall apply
+to all Standard Land Divisions outside an urban growth boundary in Washington County.
+610-3.1
+Storm Drainage Systems
+The following storm drainage requirements shall apply to all Standard Land Divisions
+unless otherwise indicated.
+A.
+Storm drainage systems provide for the adequate drainage of surface water on and crossing
+a site. Storm drainage systems include but are not limited to ditches, pipes, inlets,
+creeks, rivers and detention facilities. Storm drainage facilities may be located
+within public rights-of-way; easements or tracts for public travel, including private
+streets; drainage easements; and tracts of common ownership. Drainage plans and street
+plans shall indicate the direction of storm drainage flow.
+B.
+Storm drainage systems shall:
+(1)
+Be developed in accordance with the adopted Washington County Road Standards and be
+approved by the county;
+(2)
+Be constructed and installed throughout the development to carry off water from all
+inlets and catch basins, if any;
+(3)
+Be connected to a discharge facility which may include detention and retention basins
+or other storage facilities as may be found appropriate by the county;
+(4)
+Provide extension to the boundaries of the development to facilitate pickup of all
+stormwater runoff from all portions of the drainage basin lying above and naturally
+draining through the development. Sufficient capacity shall be provided to carry such
+stormwater through the development's storm drainage system to a storm drainage facility;
+and
+(5)
+Conform to any official drainage master plan adopted by the Board;
+C.
+Provisions for the access and maintenance of storm drainage facilities that are not
+located in a public right-of-way shall be provided as required by the Clean Water
+Services and in accordance with adopted county standards. An easement or tract with
+adequate width for access and maintenance of drainage facilities shall be provided.
+D.
+Copies of design computation of the stormwater system shall be provided for review
+and approval by the county where applicable.
+E.
+If a proposed development is traversed by a watercourse, drainageway, channel or stream,
+the proposed development shall:
+(1)
+Provide an easement or tract over the watercourse, drainage way, channel or stream
+for drainage or stormwater purposes. The easement or tract shall:
+(a)
+Substantially conform to the boundaries of the water course, drainage way, channel
+or stream at design flood, except as permitted by Section 421; and
+(b)
+Provide adequate width for access and maintenance of drainage facilities.
+(2)
+Include retention and detention basins when a part of an approved drainage plan.
+610-3.2
+Streets and Street Improvements
+A.
+Street improvements may include, but not be limited to, street construction; grading;
+surfacing; utilities; and fire, water and storm drainage facilities. Construction,
+installation or repair shall be in accord with the adopted Washington County Road
+Standards and this Code;
+B.
+When provided, stormwater inlets, catch basins and fire protection facilities shall
+be constructed and installed in the right-of-way at points approved by the county;
+C.
+Street plans shall indicate the direction of storm drainage flow;
+D.
+Streets shall be designed and constructed to be compatible in character, width, grade
+and alignment with the overall design of the streets which abut the proposed development.
+Where streets are a continuation or projection of existing streets the centerline
+shall be continuous;
+E.
+The adopted Transportation Plan shall prevail in location, course, grade and widths
+of streets. Where there is a conflict between the Transportation Plan and existing
+street pattern, the Transportation Plan shall prevail;
+F.
+The minimum right-of-way of streets shall comply with the adopted Transportation Plan;
+G.
+In all Standard Subdivisions all developments shall comply with adopted county sight
+distance standards;
+H.
+Streets, existing and future shall:
+(1)
+Provide reasonable circulation of traffic within the development;
+(2)
+Provide for adequate runoff of stormwater;
+(3)
+Provide for general public convenience and safety in the areas to be served;
+(4)
+Not allow the intersection of more than two streets at any one point;
+(5)
+Be designed to encourage safe and efficient traffic flow;
+(6)
+Be aligned to discourage through traffic on minor streets; and
+I.
+At street intersections, the property line shall be rounded by an arc bearing a radius
+of not less than 15 feet. However, when an arterial street is an intersection street,
+the arc shall bear a radius of not less than 25 feet. Property lines at arterial street
+intersections, or at other locations where the Review Authority anticipates traffic
+hazards or congestion, shall be designed for a greater radius as may be necessary
+to alleviate such hazards.
+610-3.3
+Public Utilities
+A.
+Utility lines for telephone, gas, cable television and electric services, which serve
+more than one lot or parcel, shall conform to ORS Ch. 92 and be placed in easements
+as set forth in Section 416. All utilities shall be underground except as approved
+through Section 416;
+B.
+All conduits and cables for cable television and gas and electric service lines shall
+be placed within easements or rights-of-way in a manner which does not conflict with
+other underground services and in compliance with adopted road standards;
+C.
+Transformers shall be located in a manner not hazardous to the public or unsightly
+in appearance; and
+D.
+The Board of Commissioners may, by resolution and order or ordinance, promulgate rules
+and regulations governing location of public utilities.
+610-3.4
+Lots In All Standard Subdivisions
+A.
+Double-frontage lots shall be prohibited unless the Review Authority finds:
+(1)
+They are essential to provide separation of existing or proposed residential uses
+from Arterials or adjacent nonresidential activities; and/or
+(2)
+They are needed to overcome specific disadvantages of topographical orientation.
+B.
+An additional lot depth may be required by the Review Authority on through or double-frontage
+lots.
+C.
+Wherever possible, side lot lines shall be at right angles or radial to the street
+on which the lots face, except where lots abut a cul-de-sac or hammerhead street terminus.
+D.
+Remnant lands which cannot meet Code requirements shall be added to adjacent lots
+or parcels unless such lands are designated as permanent open space.
+E.
+Lots or parcels intended to be buildable which abut a watercourse, drainageway, channel
+or stream may be required to have additional width or depth to provide a building
+site which meets Code requirements. In addition, the Review Authority shall require
+that any lot or parcel not intended to be buildable be clearly indicated as unbuildable
+in the Standard Subdivision or Standard Partition plat.
+610-3.5
+Blocks
+All Standard Subdivision length, width and shape of blocks shall be designed to provide
+adequate building sites for proposed uses, convenient access, control of traffic circulation
+and provision for maximum advantage of topography and other natural characteristics.
+610-3.6
+Easements
+Easements shall be provided in accordance with Section 416.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 1.), 2-7-23, eff. 3-9-23)

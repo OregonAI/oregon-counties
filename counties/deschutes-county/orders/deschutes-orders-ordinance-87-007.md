@@ -1,0 +1,105 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-87-007
+title: 'Ordinance No. 87-007'
+doc_type: ordinance
+citation: 'Ordinance No. 87-007'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616622204_1987-05582-Ordinance%20No.%2087-007%20Recorded%203_11_1987.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a4dbf3091fe911b5cd15a14dd9a2ca11ad9530328500cd6e1ad8c90ba17deb99
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 87-007 (Ordinance No. 87-007)
+
+## At a glance
+
+Ordinance No. 87-007 — orders of Deschutes County. 2 pages.
+
+## Full text
+
+REVi D
+L COUNSEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+VOL BPac X35
+An Ordinance Authorizing the *
+Licensing of a Portion of
+cA
+Public Right Of Way Under the * KEYpUNCC.Z
+jurisdiction of Deschutes * r,
+County Not Presently Needed 1987
+Cn
+For Public Use, and Declaring -- tom r
+An Emergency. * - o
+87- 5582
+z
+ORDINANCE NO. 87- 007,
+ZE
+WHEREAS, the County has jurisdiction over public right of
+ways pursuant to ORS 368. 011 and 368. 016; and
+WHEREAS, portions of these right of ways are not being used
+for roadway purposes and are not presently needed for public use;
+and
+WHEREAS, abutting property owners may desire to temporarily
+utilize such unused public right of way for private purposes;
+now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. That the Board of County Commissioners may enter
+into a license agreement with any person for the use of unused
+public right of way under County jurisdiction which is not pre-
+sently needed for public use.
+Section 2. Any such license agreement shall provide that
+the licensee may landscape, maintain or otherwise occupy the
+premises for any specific purpose subject to a license agreement
+agreeable to the County and the licensee.
+Section 3. The application for a license agreement author-
+ized by Section 1 of this ordinance shall be made to the Public
+Works Director. The Public Works Director and Planning Director
+shall review any application to license public right of way not
+needed for public use and make recommendations to the Board of
+County Commissioners regarding the granting of such license and
+shall propose any necessary conditions.
+Section 4. Any license for the use of public right of way
+not needed for public use shall provide for termination upon
+notice by the County, and shall require a reasonable license fee
+for the right to use to right of way.
+1 - ORDINANCE NO. 87- 007
+s
+VOL S?JACE 236
+Section 5. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergency
+is declared to exist, and this Ordinance takes effect on its
+passage.
+DATED this day of _, 1987.
+BOARD OF COUNTY COMMI SIONERS
+OF CHUT C NTY OREGON
+f
+i LOIS,,, BRjJSTOW PRANTE, Chair
+ATTEST:
+Recording Stectretary
+2 - ORDINANCE NO. 87- 007
+10P1I THIeD Y, 1 UpTnpj,, s stoner
+DI IN, o missioner

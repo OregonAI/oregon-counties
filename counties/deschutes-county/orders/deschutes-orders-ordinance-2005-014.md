@@ -1,0 +1,262 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2005-014
+title: 'Ordinance No. 2005-014'
+doc_type: ordinance
+citation: 'Ordinance No. 2005-014'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616979935_2005-1020-Ordinance%20No.%202005-014%20Recorded%208_29_2005.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 7867ec27b91922f2890b3e709019f4aa85c10a0c85416b1ff39d82ab5c739ea2
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2005-014 (Ordinance No. 2005-014)
+
+## At a glance
+
+Ordinance No. 2005-014 — orders of Deschutes County. 6 pages.
+
+## Full text
+
+4 :
+GAL
+V
+COUWED
+NSEL
+REVIEWED
+CODE REVIEW COMMITTEE
+COUNTYNANCYUTES
+BLANKENSHIP,
+FFICIAL
+000NTY
+CLERKDS
+VV 20QVIO1020
+COMMISSIONERS' JOURNAL ,
+1111111111111111111111111111111111111
+2105- 1020
+08119/10050346,40rn
+For Recording Stamp Only
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+An OrdinanceAdopting Chapter2.14, County
+Internal Auditor, of the DeschutesCounty Code, * ORDINANCE NO. 2005- 014
+and Setting Forth the Conditions and Specifics
+Under Which Said Appointment Shall Function.
+WHEREAS, government auditing independentlyreviews, evaluatesand reportson
+thefinancialcondition, theaccuracyof financialrecordkeeping, compliancewith
+applicablelaws, policies, guidelinesandprocedures, andefficiencyand
+effectiveness of operations; and
+WHEREAS, management and employees in the public sector are responsible for
+taxpayer use of public resources and should be held accountable for their use; and
+WHEREAS, it is vital that government exercise its power and perform its duties in
+compliance with law, policy, and establishedproceduresand apply goodjudgment
+and sound management practices; and
+WHEREAS, the independenceandpublic accountability of the internal auditor can
+be assuredby provision of an independent, Commissioner ratified auditor; now,
+therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. ADDING NEW CHAPTER. TheDeschutesCounty Code is amended
+byaddinga newchapter, Chapter2.14, CountyInternal Auditor, setforth in
+Exhibit " A " attached hereto and by this reference incorporated herein.
+PAGE 1 OF 2 ORDINANCE NO. 2005- 014
+DATED this day of 2005.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+TOM DEWOLF, Chair
+Q'ommissioner
+S R. LUKE, Commissioner
+Date of 1" Reading: day of U11 - 1-t 2005.
+Date of
+2nd
+Reading: O`
+Z
+day of 2005.
+Record of Adoption Vote
+Commissioner Yes No
+Tom DeWolf
+Michael M. Daly
+Dennis R. Luke
+Abstained Excused
+Effective date: 9f," day of Nw 2005.
+ATTEST:
+JNVAA ()
+Recording Secretary
+PAGE 2 OF 2 ORDINANCE NO. 2005- 014
+Chapter 2. 14. COUNTY INTERNAL AUDITOR
+2. 14. 010. Appointment of County Internal Auditor.
+2. 14. 020. Qualifications of County Internal Auditor.
+2. 14. 030 Scope of Audits.
+2. 14. 040. Internal Audit Schedule.
+2. 14. 050. Funding.
+2. 14. 060. Accessto Employees, Recordsand Property.
+2. 14. 070. Audit Reporting and Records.
+2. 14. 080. Contract Auditors, Consultants and Experts.
+2. 14. 090. Quality Assurance Review.
+2. 14. 100. Audit Committee.
+2. 14. 010. Appointment of County Internal Auditor.
+TheCountyInternalAuditorshallbeappointedbyandserveatthepleasureof theCountyAdministratorin
+consultation with the Audit Committee and the BOCC.
+2. 14. 020. Qualifications of County Internal Auditor.
+The CountyInternalAuditor shallpossessadequateprofessionalproficiency, demonstratedby relevant
+certification, such as CPA ( Certified Public Accountant), CIA ( Certified Internal Auditor), CGAP ( Certified
+GovernmentAuditingProfessional) or acombinationof educationandexperienceaswouldbedesiredbythe
+County.
+2. 14. 030 Scope of Audits.
+1. TheCountyInternalAuditorshallconductworkin accordancewith governmentauditingstandardsand
+countypolicies. The CountyInternalAuditor shallestablishinternalauditingpoliciesandproceduresto
+assurethatauditwork is completedin accordancewith thosestandards. Any auditworkthatis undertaken
+notincompliancewithstandardsshallbedisclosedintheCountyInternalAuditor'sreport.
+2. TheCountyInternalAuditor shallhaveauthorityto conductfinancial, attestation, andperformanceaudits
+of all departments, offices, boards, activitiesandagenciesof theCountyin orderto independentlyand
+objectively determinewhether:
+a.
+activities and programsbeing implementedhavebeenauthorizedby CountyCodeor adopted
+policy, statelaw or applicable federal law or regulations;
+b. activities and programsare being conductedas prescribedby management/governingbody to
+accomplish the objectives intended by County Code, state law or applicable federal law or
+regulations;
+c.
+activities or programs efficiently and effectively servethe purposeintendedby County Code, state
+law or applicable federal law or regulations;
+d. activities and programs are being conducted and funds expendedin compliance with applicable
+laws;
+e. revenues are being properly collected, deposited and accounted for;
+Chapter 2. 14 1 ( 09/ 2004)
+f. resources, including funds, property and personnel, are adequately safeguarded, controlled and
+used in an effective and efficient manner;
+g. financial and other reports are being provided that disclose fairly and fully all information that is
+required by law, that is necessaryto ascertainthe nature and scopeof programs and activities and
+that is necessaryto establisha proper basisfor evaluating the programsand activities;
+h. there are adequate operating and administrative procedures and practices, systems or accounting
+internal control systemsand internal managementcontrols which have been establishedby
+management; and
+i. there are indications of fraud, abuse or illegal acts, which need further investigation.
+3. The County Internal Auditor may also provide non -audit services (consulting) that are not covered by
+governmental auditing standards. Non -audit services differ from audits in that the County Internal
+Auditors may
+a. Perform tasksrequestedby managementthat directly support the entity' soperations;
+b. Provide information or data to a requesting party without providing verification, analysis or
+evaluation.
+Thesenon -audit services should be approvedby the County Administrator. The County Internal Auditor
+should continue to work independently (in fact andappearance) when performing non -audit services. The
+CountyInternalAuditor will decideand advisethe CountyAdministratorif the non -audit work may
+jeopardize independence and whether the work should be performed.
+4. The County Internal Auditor needs to consider three general classes of impairments to independence—
+personal, external, and organizational. If one or more of these impairments affects the County Internal
+Auditor' s capability to perform the work and report results impartially, that County Internal Auditor
+should either decline to perform the work, or in those situations because of a legislative requirement or for
+other reasons, cannot decline to perform the work, should disclose the impairment in their report.
+The County Internal Auditor should not perform management functions or make management decisions.
+Performing managementfunctions or making managementdecisions might impair the County Internal
+Auditor' s ability to perform audits of that or a related subjectmatter.
+2. 14. 040. Internal Audit Schedule.
+At the beginning of eachcalendar (or fiscal) year, the County Internal Auditor shall submit a one to five-
+year audit work schedule to the Board of County Commissioners for approval. This audit work schedule
+should incorporate information from multiple sourcesincluding the County Internal Auditor' s assessment
+of significant risks to the organization and input from Management, Audit Committee, and the Board
+of County Commissioners. The scheduleshall include the proposed plan for auditing departments, offices,
+boards, activities, subcontractorsandagenciesfor theperiod. Theschedulemaybeamended. Additionally,
+the County Internal Auditor ( for cause) may spontaneouslyinitiate and conduct any other audit deemed
+necessary. Any significantauditor non -auditprojects (greaterthan 100hours) shouldbeapprovedby the
+County Administrator.
+In the selection of audit areasand audit objectives, the determination of audit scopeandthe timing of audit
+work, the County Internal Auditor should consult with external auditors so that the desirable audit coverage
+is provided and audit effort is properly coordinated.
+Chapter 2. 14 2 ( 09/ 2004)
+2. 14. 050. Funding.
+TheCountyshallprovidesufficient fundsto enabletheCountyInternalAuditor to carryoutthe
+responsibilities specified herein subject to annual appropriation by the County Budget Committee.
+2. 14. 060. Access to Employees, Records and Property.
+1. All officers and employees of DeschutesCounty shall furnish the County Internal Auditor with
+unrestricted accessto employees, information and records (including electronic/ computerized data)
+within their custody regarding powers, duties, activities, organization, property, financial transactions,
+contracts and methods of business required to conduct an audit or otherwise perform audit duties. In
+addition, they shall provide accessfor the County Internal Auditor to inspect all property, equipment
+andfacilities within their custody. A discussionof appropriateaccessshouldoccurwith County
+Counsel if accessto documents is restricted by applicable law.
+2. Further, all contractswith outsidecontractorsandsubcontractorsshallprovidetheCountyInternalAuditor
+accessto the contractually related financial and performance -related records; property, equipment and
+services purchased in whole, or in part, with governmental funds
+3. If such officers, employees or contractors fail to produce the aforementioned access and/ or information,
+the County Internal Auditor with the aide of County Legal Counsel may initiate a search (or obtain a
+subpoena) to obtain exhibit copies ( physical or electronic) from computerized systems, book, paper or
+record of any such official or employee, or outside contractor or subcontractor, in accordance with state
+law or the applicable contract.
+4. Subjectto public recordslaws, the CountyInternalAuditor shallnot publicly discloseany information
+receivedduring an audit that is consideredconfidential by any local, stateor federal law or regulation.
+2. 14. 070. Audit Reporting and Records.
+1. Each audit will result in a report containing relevant background information and findings and
+recommendations, and shall communicate results to the Board of County Commissioners, Audit
+Committee, and appropriate management. Subject to applicable public records laws, the report shall
+also be available for public examination. If certain pertinent information is prohibited from general
+disclosure, the audit report should state the nature of the information omitted and the requirement that
+makes the omission necessary.
+2. The County Internal Auditor should follow statearchive guidelines (currently - a retention scheduleof
+7 years).
+3. TheCountyInternalAuditor shouldperiodicallyreportto theAudit Committee (andBoardof County
+Commissioners) onthework performedandanysignificantfindings, which havenot beenfully
+addressedby management.
+4. The County Internal Auditor shall follow- up on audit recommendations, as practical, to determine if
+managementis implementing corrective action as identified in their responseto the audit report
+findingsandrecommendations. TheCountyInternalAuditor mayrequestperiodicstatusreportsfrom
+auditees regarding actions taken to address reported deficiencies and audit recommendations.
+Chapter 2. 14 3 ( 09/ 2004)
+2. 14.80. Contract auditors, consultants and Experts.
+WithinbudgetlimitationsandapprovalbytheCountyAdministrator, theCountyInternalAuditormay
+obtaintheservicesof CertifiedPublicAccountants, qualifiedmanagementconsultants, or other
+professionalexpertsnecessaryto performauditorduties. An auditthat is performedby contractmustbe
+conductedbypersonswhoareindependentofthegovernmentalunitanditsofficers. TheCounty
+InternalAuditorwill coordinateandmonitorauditingperformedbypublicaccounting, professional
+experts, or otherorganizationsemployedundercontractby DeschutesCounty.
+2. TheCountyInternalAuditor mayparticipatewith theAudit Committeein the selectionof qualified
+finalistsfortheproviderof DeschutesCounty'sannualfinancialaudit. TheAuditCommitteeshall
+selectaproviderfromthefinalists. ThisselectionshallbepresentedtotheBoardofCounty
+Commissionersforreviewandapproval. TheprocesswillfollowDeschutesCounty'scontracting
+processes. This contractmayextendfor upto five years.
+2. 14. 090. Quality Assurance Reviews.
+1.
+TheauditactivitiesoftheCountyInternalAuditor'sofficeshallbesubjecttoqualityreviewin
+accordancewith applicable government auditing standardsby a professional, non-partisan objective
+group (such asthe National Association of Local Government Auditors ( VALGA)). A copy of the
+written report of this independentreview shall be furnished to the Audit Committee and the Board of
+County Commissioners. This report shall be available to the public.
+2. Thequalitycontrolreviewshalldeterminecompliancewithgovernmentauditingstandardsandthe
+quality of the audit effort and reporting, including:
+a.
+general standardssuch as competence, professional judgment, and quality assurance;
+b. fieldwork standardssuchasplanning, supervision, andevidence; and
+c. reporting standards such as report content, timeliness and distribution.
+3. TheCountyshallreimbursethecostsof thequalitycontrolreviewteamfrom fundsbudgetedin the
+CountyInternalAuditor'sbudget. Withinavailabletimeconstraints, theCountyInternalAuditormay
+reciprocatewith otherorganizationsby participationin qualitycontrolteams.
+2. 14. 100. Audit Committee.
+TheBoardofCountyCommissionershasestablished (byseparatepolicy) aworkingrelationshipbetweenthe
+County Internal Auditor and the Audit Committee. The County Internal Auditor will work with the Audit
+Committeeontheselection, planning, andresultsof auditactivitiesto assuremaximumcoordinationwiththe
+needsof the CountyAdministrator, theBoardof CountyCommissionersandexternalauditors. TheBoardof
+CountyCommissionersshallappointAudit Committeemembersanda majorityof theappointeesshallbe
+independent of the local government' s management.
+Chapter 2. 14 4 ( 09/ 2004)

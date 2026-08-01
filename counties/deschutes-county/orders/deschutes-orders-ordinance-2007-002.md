@@ -1,0 +1,315 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2007-002
+title: 'Ordinance No. 2007-002'
+doc_type: ordinance
+citation: 'Ordinance No. 2007-002'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616981635_2007-80-Ordinance%20No.%202007-002%20Recorded%202_2_2007.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: fe4af18b4373e1dc82e1c3611c5f3d32444928c77b01b36c9cffd3594bacd117
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 279.049
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2007-002 (Ordinance No. 2007-002)
+
+## At a glance
+
+Ordinance No. 2007-002 — orders of Deschutes County. 6 pages.
+
+## Full text
+
+RE3FED--
+LEGAL OUNSEL
+DESCHUTES COUNTY OFFICIAL RECORDS
+NANCY BLANKENSHIP, COUNTY CLERK + y
+COMMISSIONERS' JOURNAL
+MZJAZ/ZQni 04' 39'44 PM
+2007-80
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Chapters2. 36, Local
+Contract Review Board, and 4. 12, Service Fee * ORDINANCE NO. 2007- 002
+Adjustments, of the Deschutes County Code and
+Declaring an Emergency
+WHEREAS, the Board of County Commissioners has determined it is necessary to amend Deschutes
+County Code Chapters 2. 36, Local Contract Review Board, and 4. 12, Service Fee Adjustments, to change the
+terms " Director of Administrative Services," and " Administrative Services Director," and to " County
+Administrator"; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, HEREBY
+ORDERS as follows:
+Section 1. AMENDMENT. Deschutes County Code Chapter 2. 36, Local Contract Review Board, is
+amended to read as described in Exhibit " A," attached hereto and by this reference incorporated herein, with
+new languageunderlined and language to be deleted in 6# ikethmug#.
+Section 2. AMENDMENT. Deschutes County Code Chapter 4. 12, Service Fee Adjustments, is
+amended to read as described in Exhibit " B," attached hereto and by this reference incorporated herein, with
+new languageunderlined and language to be deleted in ° tF
+mugh
+Section 3. EFFECTIVE DATE. This Ordinance being necessary for the immediate preservation of the
+public peace, health and safety, an emergency is declared to exist and this Ordinance takes effect on its passage.
+DATED this dayof , 2007.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+PAGE 1 OF 2- ORDINANCE No. 2007- 002 ( 1/ 24/07)
+Date of I" Reading: Zedayof O, 4,1, , 2007.
+Date of 2"d Reading:;e-day of 041- , 2007.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Dennis R. Luke
+Michael M. Daly
+v
+Tammy Baney
+dti,
+Effective Date: day of , 2007
+ATTEST:
+C~
+Recording Secretary
+PAGE 2 of 2- ORDINANCE No. 2007- 002 ( 1/ 24/07)
+EXHIBIT A
+Chapter 2. 36. LOCAL CONTRACT
+REVIEW BOARD
+2. 36.010. Purpose- Statutory authority.
+2. 36.020. Creation and functions of board.
+2. 36.030. Model public contract rules.
+2. 36.040. Exemptions from competitive
+bidding.
+2. 36.050. Delegation.
+1. Emergency contracts.
+2. Contracts $ 10, 000 or over, but under
+75, 000, where competitive written
+quotes were obtained.
+3. Contracts $ 5, 000 or over, but under
+10, 000, where competitive written
+quotes were obtained or where it was not
+feasible to obtain competitive quotes
+under the circumstances.
+4. Contracts under $ 5, 000 need not be
+awarded competitively.
+2. 36.010. Purpose- Statutory authority.
+The purpose of DCC 2. 36 is to authorize the
+Board to perform the duties of a local contract
+review board in lieu of permitting the Public
+Contract Review Board to perform the functions
+of reviewing public contracts as required by
+Oregon Laws 1975, Chapter 771.
+Ord. 203-8 § 1, 1976)
+2. 36.020. Creation and functions of board.
+The Board is designated a local contract review
+board to perform the functions of the Public
+Contract Review Board.
+Ord. 203-8 § 2, 1976)
+2. 36.030. Model public contract rules.
+The Attorney General's Model Public Contract
+Rules adopted pursuant to ORS 279.049, shall be
+the rules of the local contract review board.
+Procedures for personal services contracts
+required by ORS 279. 051 are set forth in DCC
+4. 06.
+Ord. 2003- 018 § 1, 2003; Ord. 98- 092 § 1, 1998;
+Ord. 97- 030 § 1, 1997)
+2. 36.040. Exemptions from competitive
+bidding.
+In addition to the exemptions from competitive
+bids or proposals set forth in ORS 279. 015(1)( a)-
+h) and 279. 015(2) contracts may be awarded as
+follows:
+A. Contracts, other than contracts for personal
+services, may be awarded without
+competitive bidding pursuant to DCC
+2. 36.030 for the following classes of
+contracts:
+B. Where a contract is awarded under DCC
+2. 36.040, the department head or elected
+official awarding the contract shall document
+in the records of the County the quotes
+received, or if no quotes were received, the
+reason why it was not feasible to obtain
+quotes.
+C. Except for emergency contracts, the
+aggregate of all contracts awarded by the
+County under DCC 2. 36.040( A)(3) where it
+was not feasible to obtain competitive quotes
+and DCC 2. 36.040( A)(4) to any one
+contractor shall not exceed $ 25, 000 in any
+one fiscal year.
+D. When competitive quotes are obtained, award
+of contract shall be to the lowest quote in
+conformance with the specifications.
+E. An oral quote received by telephone shall be
+considered a written quote when it is
+recorded in the records of the County.
+Ord. 2000- 012 § 1, 2000; Ord. 99- 035 § 1, 1999;
+Ord. 98- 092 § 1, 1998)
+2. 36.050. Delegation.
+A. Each County employee and elected official
+designated as a department head of the
+County is authorized to contract in an amount
+not to exceed $ 25, 000 for each contract,
+provided sufficient sums are appropriatedand
+unencumbered in the County budget and
+there are sufficient cash resources available
+to pay the maximum consideration set forth
+in each contract.
+PAGE 1 OF 2 - EXHIBIT A, ORDINANCE 2007- 002 ( 01/ 24/07)
+EXHIBIT A
+B. The County Administrator Administfa#ve
+oer- vicesDifec-ter- may award competitive
+bids and enter into contracts in an amount not
+to exceed $ 75, 000 for any single contract.
+Ord. 2007- 002 § 1, 2007; Ord. 2000- 012 § 1,
+2000; Ord. 98- 092 § 1, 1998)
+PAGE 2 OF 2 - EXHIBIT A, ORDINANCE 2007- 002 ( 01/ 24/07)
+EXHIBIT B
+Chapter 4. 12. SERVICE FEE
+ADJUSTMENTS
+4. 12.010. Annual review.
+4. 12.020. Fee changes- Departmental
+analysis.
+4. 12.030. Annual adjustment.
+4. 12.040. Adjustments-Hearing.
+4. 12.050. Publication and distribution.
+4. 12.060. Emergency fees- Duration.
+4. 12.070. Temporary reduction- Duration.
+4. 12.080. Current fees.
+4. 12.090. Actual cost service fees.
+4. 12.010. Annual review.
+Fees and charges for services shall be reviewed
+for compatibility with the actual cost of providing
+service prior to April 1st of each year, and shall
+be adjustedand set as of each July 1st.
+Ord. 85- 005 § 1, 1985)
+4. 12.020. Fee changes- Departmental
+analysis.
+Prior to April 1st of each year, each department
+responsiblefor the charging of a fee or chargefor
+service shall submit to the County Administrator
+an analysis, on
+forms to be provided by the County
+Administrator ifeeter of administrative
+the fees currently being charged, the actual cost
+of the services provided, and the recommended
+fee adjustments, if any.
+Ord. 2007-002, § 2, 2007; Ord. 85- 005 § 25
+1985)
+4. 12.030. Annual adjustment.
+For fees for which no new fee is recommended by
+a department head, an annual adjustment will be
+made based on the applicable Consumer Price
+Index ( CPI) for all urban consumers, as compiled
+and published by the United States Department of
+Labor, Bureau of Labor Statistics, as of the prior
+December.
+Ord. 95- 029 § 1, 1995; Ord. 85- 005 § 3, 1985)
+4. 12.040. Adjustments-Hearing.
+The Board shall set for hearing, prior to May 1st
+of each year, all adjustments to fees and charges
+for services, and all new fees and charges for
+services. Fees and charges for services may be
+amended or added after a hearing by the Board by
+a proper resolution adopting the fees and charges
+for services.
+Ord. 85- 005 § 4, 1985)
+4. 12.050. Publication and distribution.
+The County Administrator wee or--- e€
+Administrative Seryiees-shall compile and
+publish a compilation of all County fees and
+chargesfor services as of each July 1st, and shall
+disseminate such compilation to all County
+departments.
+Ord. 2007-xxx, § 2, 2007; Ord. 85- 005 § 5,
+1985)
+4. 12.060. Emergency fees- Duration.
+Emergency fees may be adoptedadministratively
+by the County Administrator Bim ter o
+Armin° tr-ati e Services or the Board for a period
+not to exceed one year. When a service is
+requested and no fee has been adopted by the
+Board, the County AdministratorDireater of
+dministr-at ve Sefk,i^ on behalf of the Board,
+shall declare a fee which shall be based upon the
+work to be performed and cost of providing the
+service. Any fee chargedby the County which is
+established or authorized by any governmental
+entity may be amended administratively by the
+County Administrator istfative
+Ser- viees upon amendment of such fee or
+authorization by the governmentalentity.
+Ord. 2007-002, § 2, 2007; Ord. 88- 037 § 1,
+1988; Ord. 88- 001 § 1, 1988; Ord. 85- 005 § 6,
+1985)
+4. 12.070. Temporary reduction- Duration.
+Temporary reductions in fees for services and
+materials may be approved by the Board for a
+period not to exceed one year. Temporary
+adjustments may be made to any fee amended in
+whole or part by the Legislative Assembly of the
+state, or any state agency or federal agency, to the
+extent such fees are adjusted by the Legislative
+Page 1 of 2 - Exhibit B, Ordinance 2007- 002 ( 1/ 24/07)
+EXHIBIT B
+Assembly of the state, state agency or federal ( Ord. 91- 022 § 1, 1991)
+agency.
+Ord. 86- 046 § 1, 1986: Ord. 85- 005 (part), 1985)
+4. 12.080. Current fees.
+All fees for service now in effect are ratified, and
+shall remain in full force and effect unless
+amended by resolution of the Board.
+Ord. 85- 005 § 7, 1985)
+4. 12.090. Actual cost service fees.
+A. Any resolution adopting fees pursuant to
+DCC 4. 12.040 and any fee adopted
+administratively pursuant to DCC 4. 12.060
+may be designated as an " Actual Cost Fee",
+which may be abbreviated " ACS". This
+designationshall follow the fee prescribed.
+B. Any fee designated "Actual Cost Service" or
+ACS" shall constitute a deposit against
+which County staff and consultants shall
+charge their time spent on each application,
+petition or service request.
+C. Any amounts of an " Actual Cost Service" or
+ACS" deposit which exceed the actual cost
+of service as determined by the time charged
+by the County staff and consultants on the
+application, petition or service requested
+shall, within 60 days of the final decision or
+action of the County approving or denying of
+the application, petition or service request, be
+refunded to the person or firm making the fee
+deposit.
+D. For any " Actual Cost Service" or " ACS" fee,
+County staff and consultants shall keep a
+written record of their time spent on each
+application, petition or service request. Each
+departmenthead is authorized and directed to
+require each applicant, petitioner or requester
+for any of the services designated "Actual
+Cost Service" or " ACS" to agree that, as a
+condition of receipt of the application,
+petition or service request, any documented
+costs which exceed the deposit shall be due
+and payable to the County upon demand
+upon final decision or action of the County
+on the application, petition or service request.
+Page 2 of 2 - Exhibit B, Ordinance 2007- 002 ( 1/ 24/07)

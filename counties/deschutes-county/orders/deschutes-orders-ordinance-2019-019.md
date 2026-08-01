@@ -1,0 +1,990 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2019-019
+title: 'Ordinance No. 2019-019'
+doc_type: ordinance
+citation: 'Ordinance No. 2019-019'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617129961_2019-488-Ordinance%20No.%202019-019%20Recorded%2012_13_2019.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 55869821cfa118e102c329bad16be767bda5d50cad3988e0fa159a20fb6ab880
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2019-019 (Ordinance No. 2019-019)
+
+## At a glance
+
+Ordinance No. 2019-019 — orders of Deschutes County. 27 pages.
+
+## Full text
+
+REVIEWED
+LEGAL OUNSEL
+Recorded in Deschutes County CJ2019- 488
+Nancy Blankenship, County Clerk
+Commissioners' Journal 12/ 13/ 2019 8: 35: 09 AM
+co
+2019- 488
+For Recording Stamp Only
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County Code
+Title 18, Deschutes County Zoning, and Title 23, the * ORDINANCE NO. 2019- 019
+Deschutes County Comprehensive Plan, to
+incorporate provisions related to division of certain
+split zoned property containing Flood Plain zoning
+and Declaring an Emergency.
+WHEREAS, the DeschutesCounty Community DevelopmentDepartment (CDD) initiated amendments
+Planning Division File No. 247-19-000532-TA) to the DeschutesCounty Code (DCC) Title 18, 18.96 Flood
+Plain ZoneChapterandDeschutesCounty ComprehensivePlanChapter2.5, Water Resources; and
+WHEREAS, the DeschutesCounty Planning Commission consideredthis matter after a duly noticed
+public hearing on August 8, 2019, with continuationsto September12, 2019, and September26, 2019 and
+reviewed the proposedchangeson October 10, 2019 and forwarded to the DeschutesCounty Board of County
+Commissioners (" Board"), a recommendation of approval; and
+WHEREAS, the Board considered this matter after a duly noticed public hearing on December 4, 2019,
+and concluded that the public will benefit from the proposed changes to the Deschutes County Code (" DCC")
+Title 18.
+NOW, THEREFORE,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 18. 96, is amended to read as described in Exhibit " A", attached
+hereto and by this referenceincorporatedherein, with new languageunderlined and languageto be deletedin
+vagxr
+Section 2. AMENDMENT. DCC Title 23. 01. 010, Introduction, is amended to read as described in
+Exhibit " B", attachedhereto and by this referenceincorporated herein, with new languageunderlined and
+language to be deleted in strike
+Section 3. AMENDMENT. DeschutesCounty ComprehensivePlan Chapter2.5 Water Resources, is
+amended to read as described in Exhibit " C", attachedhereto and by this referenceincorporatedherein, with
+new language underlined and language to be deleted in st.: vo,.
+PAGE 1 OF 2 - ORDINANCE NO. 2019- 019
+Section 4. AMENDMENT. Deschutes County Comprehensive Plan Chapter 5.12, Supplementary
+Section — Legislative History, is amended to read as described in Exhibit " D", attached hereto and by this
+reference incorporated herein, with new language underlined and language to be deleted in stfik foughr
+Section 5. FINDINGS. The Board adopts as its findings in support of this decision, Exhibit " E,"
+attached and incorporated by reference herein.
+Section6. EMERGENCY. This Ordinancebeing necessaryfor the public peace, health and safety, an
+emergencyis declaredto exist andthis Ordinancetakeseffect on its passage.
+Dated this _ of ttA& 4, 2019 BOARD OF COUNTY COMMISSIONERS
+ATTES
+Recording Secretary
+OF DESCHUTES COUNTY, OREGON
+PHILIP G. NDERSON, Chair
+f
+j pp
+r7
+PATTI ADAIR, Vice Chair
+ANTHO eBONE, Commissioner
+Date of 1" Reading: '  day of , c L, 2019.
+Dateof 2ndReading: I day of
+p ' t( , 2019.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Philip G. Henderson
+Patti Adair
+Anthony DeBone _ _
+Effective date: ( day of LG I , 2019.
+PAGE 2 OF 2 - ORDINANCE NO. 2019- 019
+Chapter 18. 96. FLOOD PLAIN ZONE - FP
+18. 96. 010. Purposes.
+18. 96. 020. Designated Areas.
+18. 96. 030. Uses Permitted Outright.
+18. 96. 040. Conditional Uses Permitted.
+18. 96. 050. Prohibited Uses.
+18. 96. 060. Limitations on Conditional Uses.
+18. 96. 070. Application for Conditional Use.
+18. 96. 080. Criteria to Evaluate Conditional Uses.
+18. 96. 085. Elevation Certification.
+18. 96. 090. Yard and Setback Requirements.
+18. 96. 100. Stream Setback.
+18. 96. 110. Dimensional Standards.
+18.96.120. Warning and Disclaimer of Liability.
+18. 96. 130 Interpretation of FIRM Boundaries
+18. 96. 140 Use Variances.
+18. 96. 150 Acreage Calculation for Partition or Subdivision of Certain Properties Containing
+Flood Plain Zoned Lands
+18. 96. 150. Acreage Calculation for Partition or Subdivision of Certain Properties Containing
+Flood Plain Zoned Lands
+Partitions of certain split - zoned properties are subiect to the following area calculation and configuration
+standards.
+A. Eli igbility
+1. Property contains two base zones, Flood Plain and Exclusive Fann Use; and
+2. Property contains one Comprehensive Plan designation, Agricultural; and
+3 Property is not located in a WA Combining Zone and does not contain significant riparian
+habitat per Ordinance 94-007,
+4 Property adjoins or was formerly adjacent to or bisected by an irrigation canal or lateral that
+has been removed or piped; and
+5 Parent roperty mustmeetthe minitnum lot sizerequirementsfor partitions setforth in
+18. 16. 055.
+B. Procedure
+1 The Flood Plain and Exclusive Fann Use zoned area shall be sunnned for the purposes of lot
+area calculation.
+2 The minimum lot size for new parcels resulting from such partitions shall be detennined by
+applying the minimum parcel sizes of DCC 18.16.055 and 18.16.065.
+3 All Flood Plain zonedlandsfrom the parentlot or parcelmustbe containedwithin a single
+partition parcel.
+Ord 2019- 019 § 1, 2019)
+Chapter 18. 12 1 ( 8/ 2008)
+Exhibit " A" to Ordinance 2019- 019
+Chapter 23. 01 COMPREHENSIVE PLAN
+Chapter 23. 01 COMPREHENSIVE PLAN
+23. 01. 010. Introduction.
+A. TheDeschutesCountyComprehensivePlan, adoptedby theBoardin Ordinance2011-003
+andfoundontheDeschutesCountyCommunityDevelopmentDepartmentwebsite, is incorporated
+by referenceherein.
+B. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2011-027, are incorporatedby referenceherein.
+C. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2012-005, areincorporated by referenceherein.
+D. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2012-012, areincorporated by referenceherein.
+E. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2012-016, areincorporated by referenceherein.
+F. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2013-002, areincorporated by referenceherein.
+G. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2013-009, areincorporated by referenceherein.
+H. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2013- 012, are incorporated by reference herein.
+I. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2013-007, areincorporated by referenceherein.
+J. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2014-005, areincorporated by reference herein.
+K. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2014-006, are incorporated by reference herein.
+L. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2014-012, are incorporated by reference herein.
+M. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2014-021, are incorporated by referenceherein.
+N. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2014-027, are incorporatedby referenceherein.
+O. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2015-021, are incorporatedby referenceherein.
+P. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2015-029, are incorporatedby reference herein.
+Q. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2015-018, are incorporatedby reference herein.
+R. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2015-010, areincorporatedby reference herein.
+S. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2016-001, areincorporatedby referenceherein.
+T. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2016-022, areincorporatedby referenceherein.
+U. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2016-005, areincorporatedby referenceherein.
+Chapter 23. 01 ( 3/ 2019) e
+Exhibit " B" to Ordinance 2019- 019
+V. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2016-027, are incorporated by referenceherein.
+W. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2016-029, are incorporated by referenceherein.
+X. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2017-007, are incorporated by referenceherein.
+Y. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2018-002, are incorporated by referenceherein.
+Z. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2018-006, are incorporated by reference herein.
+AA. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2018-011, areincorporatedby referenceherein.
+BB. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2018- 005, are incorporated by reference herein.
+CC. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2018-008, are incorporated by reference herein.
+DD. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2019-002, are incorporated by reference herein.
+EE. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2019-001, areincorporatedby referenceherein.
+FF. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2019-003, are incorporated by reference herein.
+GG. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2019-004, are incorporated by reference herein.
+HH. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2019-011, are incorporated by reference herein.
+II. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2019-006, are incorporated by reference herein.
+JI. _ Tbe eSCI1l1jcS Flan amcnc merrid, op by tl7c Board In Ordinance
+2019-OILS, areincorpormedl y rCfCrcn(c 11CIVIIi,, -
+s, acd - KIK. _
+I w DcsclmleiCotal_ i_ yCo npclrensivcPlan amcn.clnicInts, adoi e( i by iheBoar(i InOrdinaixcic20
+1901P, are;
+incorporawd- by refereslce liercir). L1,. The
+DeSCIIntesCountyC' onjPr lj(."n k7Clslanan- tcndzncrits, adowedby the 13oar(l in Ordinance2019.019,
+acre incorporatedby rCI' ffGDGChe, rCin. - - Ord. 2019.
+0 ( a § 2,; 2019: Ciro. 2019-018 ; 26( 019-, Ord._2019-010 §3., 2- 019:_Ord. 2019-006 § 1, 2019; Ord.
+2019- 011 § 1, 2019; Ord. 2019- 004 § 1, 2019; Ord. 2019- 003 § 1, 2019; Ord. 2019- 001 § 1, 2019; Ord.
+2019- 002 §1, 2019; Ord. 2018- 008 §1, 2018; Ord. 2018- 005 §2, 2018; Ord. 2018- 011 §1, 2018; Ord.
+2018- 006 §1, 2018; Ord. 2018- 002 §1, 2018; Ord. 2017- 007 §1, 2017; Ord. 2016- 029 §1, 2016; Ord.
+2016- 027 § 1, 2016; Ord. 2016- 005 § 1, 2016; Ord. 2016- 022 § 1, 2016; Ord. 2016- 001 § 1, 2016; Ord.
+2015- 010 §1, 2015; Ord. 2015- 018 § 1, 2015; Ord. 2015- 029 § 1, 2015; Ord. 2015- 021 § 1, 2015; Ord.
+2014- 027 § 1, 2014; Ord. 2014- 021 § 1, 2014; Ord. 2014- 12 § 1, 2014; Ord. 2014- 006 § 2, 2014; Ord.
+2014- 005 §2, 2014; Ord. 2013- 012 §2, 2013; Ord. 2013- 009 §2, 2013; Ord. 2013- 007 §1, 2013; Ord.
+2013- 002 § 1, 2013; Ord. 2013- 001 § 1, 2013; Ord. 2012- 016 § 1, 2012; Ord. 2012- 013 § 1, 2012; Ord.
+2012- 005 §1, 2012; Ord. 2011- 027 §1 through12, 2011; Ord. 2011- 017 repealed; Ord.2011-
+003 §3, 2011) Clickhere
+to be directedto the ComprehensivePlan (http:// www. deschutes.org/ compplan) Chapter23.
+01 ( 3/ 2019) e Exhibit "B"
+to Ordinance2019-019
+SeOt' OVI. 2. 5 Water ReSORrces
+Riparian Areas
+Riparian areas are areas adjacent to rivers, streams, lakes or ponds where there is vegetation
+that requires free or unbound water or conditions that are more moist than normal. Riparian
+areas form an interconnected system within a watershed. At the water' s edge they define the
+transition zone between aquatic and terrestrial systems. Riparian areas often contain a diversity
+of vegetation not found in upland areas. Riparian areas are limited in Deschutes County and are
+important habitats for both fish and wildlife.
+The DeschutesCounty ComprehensivePlan, adoptedin 1979and revised, mappedriparian
+areasalongthe following rivers and streams.
+Table 2. 5. 5 - Riparian Acreage in Deschutes County
+Streams Riparian Acres
+Deschutes River 1,440
+Little Deschutes River 2, 920
+Paulina Creek 846
+Indian Ford Creek 573
+Tumalo Creek 50
+Whychus Creek 47
+Fall River 43
+Crooked River 38
+TOTAL 5, 966
+Source: DeschutesCounty/ City of Bend River Study 1986
+Significant riparian habitat is located in one or more of the following three areas:
+The areawithin 100feet of the ordinary highwater mark of aninventoried river or
+stream. The 100foot wide areamaycontain both riparianvegetationandupland
+vegetation.
+Wetlandsandfloodplainarealsofrequentlywithin 100feetof astreamor river. Insome
+casesthe riparianvegetationmayextend beyond 100feet from the ordinary highwater
+mark if it is a designated wetland or flood plain.
+The area adjacent to an inventoried river or stream and located within a flood plain
+mappedbytheFederalEmergencyManagementAgencyandzonedFloodPlainbythe
+County. Thefloodplainmayextendbeyond100feetfrom theordinaryhighwatermark
+of the stream and may contain wetland.
+TheCountyhasnotconductedaninventoryof riparianareasadjacentto lakesandpondson
+privateland. However, manyof theseareasareincludedin NationalWetlandInventoryMaps
+andaresubjectto County, Stateand/or Federalwetlandfill andremovalregulations. Riparian
+areasadjacentto the manylakesonfederallandsaremanagedandprotectedunderfederalland
+andresource managementplansand are not includedin the County inventory.
+Floodplains
+DESCHUTES COUNTY COMPREHENSIVEPLAN — 2011
+CHAPTER 2 RESOURCEMANAGEMENT REFERENCES
+EXHIBIT " C" TO ORDINANCE 2019- 019
+FederalEmergencyManagementAgencyMaps
+The FederalEmergencyManagementAgency (FEMA) mapsflood -plainsadjacentto the
+followingriversandstreamsin DeschutesCounty. Thefloodplainalongtheseriversand
+streams is recognized in a Flood Plain zone by the County.
+Table 2. 5. 6 - Floodplains Adjacent to Rivers and Streams
+Deschutes River
+o
+Long Prairie
+Little Deschutes River
+o
+Dry River
+Whychus Creek
+o
+Spring River
+Crooked River Indian Ford Creek
+Paulina Creek
+Source: Deschutes County GIs
+Floodplains are defined as the lowland and relatively flat areas adjoining inland waters including
+at a minimum, that areasubjectto a one percent (100-year recurrence) or greater chanceof
+floodingin anyoneyear. Generally, riverfloodingalongthe DeschutesRiverhasnot historically
+beenaseriousproblemin DeschutesCounty. Thisisdueto theporousnatureof the local
+geology, irrigationdiversioncanalsandreservoirretention. StudiescompletedbytheU.S. Army
+Corp of Engineershaveresultedin designatinga 100yearflood -plainfor the LittleDeschutes
+RiverandWhychus Creek. Regularflooding eventshaveoccurred nearthe headwatersof
+Tumalo Creek and in the Tumalocommunity. Along WhychusCreek, the city of Sisters
+frequentlyexperiencesflooding, with themostsignificanteventoccurringin 1964 (seealso
+Section 3.5).
+In 2019 DeschutesCounty amendedthe FloodPlainZone to definesplit zoned properties as
+theyexistinthe FloodPlainZoneandcreatedproceduresto guidedivisionof thesesplitzoned
+properties.
+DESCHUTES COUNTY COMPREHENSIVEPLAN — 201
+CHAPTER 2 RESOURCEMANAGEMENT REFERENCES
+EXHIBIT " C" TO ORDINANCE 2019- 019
+sectCow . 22 Legis at ve I-i stor
+Background
+This sectioncontainsthe legislativehistory of this ComprehensivePlan.
+Table S. 12. 1 Comprehensive Plan Ordinance History
+Ordinance
+Date Adopted/ Chapter/ Section Amendment
+Effective
+All, except
+Transportation, Tumalo
+and Terrebonne
+201 1-003 8- 10- 11/ 11-9- 1 1 Community Plans, Comprehensive Plan update
+Deschutes Junction,
+Destination Resorts and
+ordinances adopted in
+2011
+2. 5, 2. 6, 3.4, 3. 10, 3. 5,
+Housekeeping amendments to
+201 1- 027 10- 31- 1 1 / 11-9- 1 1
+4. 6, 5. 3, 5. 8, 5. 1 1,
+23. 40A, 23. 40B,
+ensure a smooth transition to
+23. 40. 065, 23. 01. 010
+the updated Plan
+23. 60, 23. 64 ( repealed),
+Updated Transportation
+2012- 005 8- 20- 12/ 1 1- 19- 12 3. 7 ( revised), Appendix C
+System Plan
+added)
+La Pine Urban Growth
+2012- 012 8- 20- 12/ 8- 20- 12 4. 1, 4. 2
+Boundary
+Housekeeping amendments to
+2012- 016 12- 3- 12/ 3- 4- 13 3.9 Destination Resort Chapter
+Central Oregon Regional
+2013- 002 1-7- 13/ 1-7- 13 4. 2 Large - lot Employment Land
+Need Analysis
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+2013- 009 2- 6- 13/ 5- 8- 13 1. 3
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan Map
+2013- 012 5- 8- 13/ 8- 6- 13 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+Newberry Country: A Plan
+2013- 007 5- 29- 13/ 8- 27- 13 3. 10, 3. 1 1 for Southern Deschutes
+County
+DESCHUTESCOUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER5 SUPPLEMENTALSECTIONSSECTION5. 12 LEGISLATIVEHISTORY
+EXHIBIT " D" TO ORDINANCE 2019- 019
+Comprehensive Plan Map
+2013- 016 10- 21- 13/ 10- 21- 13 23. 01. 010 Amendment, including certain
+property within City of Sisters
+Urban Growth Boundary
+Comprehensive Plan Map
+2014- 005 2- 26- 14/ 2- 26- 14 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+2014- 012 4- 2- 14/ 7- 1- 14 3. 10, 3. 1 1 Housekeeping amendments to
+Title 23.
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+2014- 021 8- 27- 14/ 11-25- 14 23. 01. 010, 5. 10 property from Sunriver Urban
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+2014- 021 8- 27- 14/ 1 1-25- 14 23. 01. 010, 5. 10 property from Sunriver Urban
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+Comprehensive Plan Map
+Amendment, changing
+2014- 027 12- 15- 14/ 3- 31- 15 23. 01. 010, 5. 10 designation of certain
+property from Agriculture to
+Rural Industrial
+Comprehensive Plan Map
+Amendment, changing
+2015- 021 1 1-9- 15/ 2- 22- 16 23. 01. 010 designation of certain
+property from Agriculture to
+Surface Mining.
+Comprehensive Plan Map
+Amendment, changing
+2015- 029 1 1-23- 15/ 1 1-30- 15 23. 01. 010
+designation of certain
+property from Tumalo
+Residential 5- Acre Minimum
+to Tumalo Industrial
+2015- 018 12- 9- 15/ 3- 27- I6 23. 01. 010, 2. 2, 4. 3 Housekeeping Amendments
+to Title 23.
+DESCHUTES COUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER5 SUPPLEMENTALSECTIONSSECTIONS. 12 LEGISLATIVE HISTORY
+EXHIBIT " D" TO ORDINANCE 2019- 019
+Comprehensive Plan Text and
+2015- 010 12- 2- 15/ 12- 2- 15 2. 6 Map Amendment recognizing
+Greater Sage -Grouse Habitat
+Inventories
+Comprehensive Plan Map
+Amendment, changing
+2016- 001 12- 21- 15/ 04- 5- 16 23. 01. 010; 5. 10
+designation of certain
+property from, Agriculture to
+Rural Industrial ( exception
+area)
+Comprehensive Plan
+Amendment to add an
+exception to Statewide
+2016- 007 2- 10- 16/ 5- 10- 16 23. 01. 010; 5. 10 Planning Goal I I to allow
+sewers in unincorporated
+lands in Southern Deschutes
+County
+Comprehensive Plan
+Amendment recognizing non-
+2016- 005 1 1-28- 16/ 2- 16- 17 23. 01. 010, 2. 2, 3. 3 resource lands process
+allowed under State law to
+change EFU zoning
+Comprehensive plan
+2016- 022 9- 28- 16/ 1 1- 14- 16 23. 01. 010, 1.3, 4. 2 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+Comprehensive Plan Map
+Amendment, changing
+2016- 029 12- 14- 16/ 12/ 28/ 16 23. 01. 010 designation of certain
+property from, Agriculture to
+Rural Industrial
+Comprehensive Plan Map
+Amendment, changing
+2017- 007 10- 30- 17/ 10- 30- 17 23. 01. 010
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan
+2018- 002 1-3- 18/ 1-25- 18 23. 01, 2. 6 Amendment permitting
+churches in the Wildlife Area
+CombiningZone
+DESCHUTESCOUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER5 SUPPLEMENTALSECTIONSSECTION5. 12 LEGISLATIVEHISTORY
+EXHIBIT " D" TO ORDINANCE 2019- 019
+Housekeeping Amendments
+correcting tax lot numbers in
+Non -SignificantMiningMineral
+2018- 006 8- 22- 18/ 1 1-20- 18 23. 01. 010, 5. 8, 5. 9 and Aggregate Inventory;
+modifyingGoal 5 Inventory of
+Cultural and Historic
+Resources
+Comprehensive Plan Map
+Amendment, changing
+2018- 01 1 9- 12- 18/ 12- 1 1- 18 23. 01. 010
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan Map
+Amendment, removing Flood
+23. 01. 010, 2. 5, Tumalo Plain Comprehensive Plan
+2018- 005 9- 19- 18/ 10- 10- 18 Community Plan, Designation; Comprehensive
+Newberry Country Plan PlanAmendment adding Flood
+Plain Combining Zone
+purpose statement.
+Comprehensive Plan
+Amendment allowing for the
+2018- 008 9- 26- 18/ 10- 26- 18 23. 01. 010, 3.4 potential of new properties to
+be designated as Rural
+Commercial or Rural
+Industrial
+Comprehensive Plan Map
+Amendment changing
+designation of certain
+property from Surface Mining
+2019- 002 1-2- 19/ 4- 2- 19 23. 01. 010, 5. 8
+to Rural Residential Exception
+Area; Modifying Goal 5
+Mineral and Aggregate
+Inventory; Modifying Non -
+Significant Mining Mineral and
+Aggregate Inventory
+Comprehensive Plan and Text
+2019- 001 1- 16- 19/ 4- 16- 19 1.3, 3. 3, 4. 2, 5. 10, 23. 01
+Amendment to add a new
+zone to Title 19: Westside
+Transect Zone.
+DESCHUTESCOUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER 5 SUPPLEMENTALSECTIONS SECTION 5. 12 LEGISLATIVE HISTORY
+EXHIBIT " D" TO ORDINANCE 2019- 019
+Comprehensive Plan Map
+Amendment changing
+designation of certain
+2019- 003 02- 12- 19/ 03- 12- 19 23. 01. 010, 4. 2 property from Agriculture to
+Redmond Urban Growth
+Area for the Large Lot
+Industrial Program
+Comprehensive Plan Map
+Amendment changing
+designation of certain
+property from Agriculture to
+Redmond Urban Growth
+2019- 004 02- 12- 19/ 03- 12- 19 23. 01. 010, 4. 2 Area for the expansion of the
+Deschutes County
+Fairgrounds and relocation of
+Oregon Military Department
+National Guard Armory.
+Comprehensive Plan Map
+Amendment to adjust the
+Bend Urban Growth
+Boundary to accommodate
+the refinement of the Skyline
+Ranch Road alignment and the
+2019- 01 1 05- 01- 19/ 05- 16/ 19 23. 01. 010, 4. 2 refinement of the West Area
+Master PlanArea I boundary.
+The ordinance also amends
+the Comprehensive Plan
+designation of Urban Area
+Reserve for those lands
+leaving the UGB.
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+2019- 006 03- 13- 19/ 06- 1 1- 19 23. 01. 010,
+property from Agriculture to
+Rural Residential Exception
+Area
+I t I -te 4I : cif", z 11 h? i ( i (, t
+Iffoill [ 2014
+0 9. 016 t 2cY E9l0 2 20 1,. 0) 1
+C{ i c,,rnent for the sioxa{I i 11i
+DESCHUTESCOUNTY COMPREHENSIVEPLAN — 2011
+CHAPTER 5 SUPPLEMENTALSECTIONS SECTION 5. 12 LEGISLATIVEHISTORY
+EXHIBIT " D" TO ORDINANCE 2019- 019
+relating ' cc,)
+2019- 0 z.,.t/ II. [__. 2.3.0 li,._ 16, 3. s.;.:. E'13v?iC>tt`>> fi . Ittt. tlC1( i "(
+Plan . akf( s Sc!xt
+rn(,# CSEof..- is W j l t ide.
+procedt, tres rekited' to the,
+Gfb<
+9
+P
+v
+0 1 k,., i k: 2 `' C) I W
+i;
+f)
+f }
+C, CJ()
+pht
+k E'-drl . 0 mnI and n lvin c"_;s.
+r t
+C:3i a1
+DESCHUTESCOUNTY COMPREHENSIVEPLAN — 2011
+CHAPTER5SUPPLEMENTALSECTIONSSECTION5.12LEGISLATIVEHISTORY
+EXHIBIT " D" TO ORDINANCE 2019- 019
+FINDINGS -
+LAND DIVISIONS OF SPLIT ZONED FLOOD PLAIN PROPERTIES
+I. SUMMARY
+Deschutes County, through File No. 247-19-000532-TA is amending the Deschutes County
+ZoningOrdinanceto establishproceduresfor divisionsinvolvingsplitzonedpropertiesthat
+contain FloodPlainzoningas a result of a former irrigation canalor lateral. The current
+CountyCodedoesnot containproceduresor directionrelatedto the divisionof split zoned
+properties, and previous hearings officer interpretations of County Code have been
+contradictoryand causedconfusion. The amendmentsdo not alter the mappedFederal
+Emergency Management Agency (FEMA) Flood Plain zone boundary or the standards
+applicable to development within the Special Flood Hazard Area, also known as the 100-year
+Flood Plain.
+The Flood Plain Zone was adopted through Ordinance No. 88-030. Since adoption, there have
+been several amendments to the Flood Plain Zone addressing allowed uses and applicable
+standards, although ambiguities in the regulations still remain. Many properties in the
+Countyaresplitzoned, meaningthey containmorethan onebasezone. Basezonescontrol
+development and land division requirements including: permitted and conditional uses,
+setbacks, and minimum lots sizesfor the creation of new parcels. When a property hastwo
+base zones, there is no explicit code direction on whether or not both set of standards need
+to be met, or if one set of standards supersedes the other. These amendments are intended
+to clarify the requirements for and allow such land divisions in specific circumstances.
+II. 2017- 2018 FLOOD PLAIN AMENDMENT PROCESS
+Between March 2017 and September 2018, DeschutesCounty planning staff initiated a Post
+Acknowledgement Plan Amendment ( PAPA) to the Department of Land Conservation and
+Development ( DLCD) related to Flood Plain amendments to the Deschutes County
+Comprehensive Plan and Zoning Ordinance. Staff conducted public outreach through four
+open houses, five Planning Commission public hearings, two citizen involvement group
+meetings, and one Board of County Commissioners (Board) public hearing.
+On September 19, 2018, the Board adopted Ordinance 2018- 005, reflecting large scale
+changes to the Flood Plain Zone, including a proposal to change the base zone to a
+combiningzone, andproposedtext changesto clarifyprocedureson clusterdevelopments
+and land divisions on property zoned Flood Plain.
+The ordinance was then appealed to the Land Use Board of Appeals ( LUBA), on the basis that
+the findings were incomplete and did not adequately address State Land UsePlanningGoal
+5, amongother issues. Prior to the LUBAhearingand in consultationwith CountyLegal
+Counsel, the Board found the need for substantial record additions. To provide greater
+Page 1 of 11 Exhibit " E" to Ordinance 2019- 019
+clarity on the intent of the amendments, the County opted to repeal the ordinance
+Ordinance 2019- 010), and begin a new PAPA to refine the amendments effectively
+demonstratethe proposedamendmentscomply with state and local regulations. This
+application is specific to adding criteria for the review of land divisions of split zoned Flood
+Plain.
+III. NATIONAL FLOOD INSURANCE PROGRAM ( NFIP)
+The National Flood Insurance Program ( NFIP) is based on a mutual agreement between the
+federal government and DeschutesCounty. Federallybackedflood insuranceis made
+available in Deschutes County, provided that the County agreesto regulate development in
+mapped Flood Plains. So long as Deschutes County serves its role in ensuring future Flood
+Plain development meets certain criteria, FEMAprovides subsidized flood insurance for
+properties in rural DeschutesCounty.
+FEMAhaspreparedaFloodPlainmapandflood hazarddatafor DeschutesCounty. TheNFIP
+underwrites flood insurance coverage only in those communities that adopt and enforce
+Flood Plain regulations that meet or exceed NFIP criteria. The Countys Flood Plain
+regulations are designed to meet FEMA regulations and to ensure that new buildings will be
+protectedfrom the flood levelsshown on the FEMA-provided FloodInsuranceRateMap
+FIRM) and that development will not make the flood hazard worse.
+Beginningin 1988, DeschutesCountyadoptedthe FIRMasthe FloodPlainZoneand also
+adopted Comprehensive Plan policies and implementing zoning code to comply with FEMA
+requirements. Thesemaps, policies, and zoningcode havebeen periodicallyupdatedto
+match the latest information and requirements provided by FEMA. It is important to note
+that the FIRMmaps and FEMAregulations explicitly recognizethat the mapped Flood Plain
+issubjecttorefinement. Themapdoesnot captureproperty -specifictopographicdetailsand
+FEMA regulations allowthe Countyto waive FEMA requirements, such as special construction
+standards, where development is located above the Base Flood Elevation.
+IV. CURRENT REGULATIONS AND CHALLENGES
+Unlikemanyjurisdictions, the FloodPlainZonein DeschutesCountyservesthree distinct
+purposes:
+1) Hazard Mitigation: the Flood PlainZone provides special standards, and limitations
+on divisionand developmentof propertywithin the mappedFIRMFloodPlain. The Flood
+Plain area is defined and monitored by NFIP.
+Page 2 of 11 EXHIBIT " E" to ORDINANCE 2019- 019
+2) Goal 5 Inventoried Resource: land within the mapped FEMA Flood Plain adjacent to
+inventoriedperennialstreamssuchastheDeschutesRiveranditstributaries', areidentified
+aspartofaninventoriedGoal52Resourcereferredto as "SignificantRiparianArea ,3. This
+area also includes mapped wetlands adjacent to an inventoried river or stream and land
+within 100 feet of a river or stream's ordinary high water mark. These "Significant Riparian
+Areas" are protectedasa Goal5 resourcefrom conflictsbyavarietyof measures, including
+the Flood Plain Zone, as the zone highly regulates almost all uses. Areas that contain a
+wetland or Flood Plain zoned land that are not adjacent to a river or stream are not
+considereda Goal5 resource. Theseareasmay includeirrigation ponds, historicallylow
+drainage areas, or irrigation canals.
+3) Goal 5 Program to Achieve the Goal of Conserving Certain Habitat: land within
+the " Significant Riparian Area" defined above is also recognized as an implementation
+measure to conserve the following inventoried Goal 5 fish and wildlife resources:'
+Deer Migration Corridor
+Elk Habitat
+Fish Habitat
+Furbearer Habitat
+Deer Winter Range
+Upland Game Bird Habitat
+Waterfowl Habitat
+Thesethree purposesintegratehazardmitigation measuresand the programto achieve
+Goal5 in protecting inventoried riparian areas, as well as inventoriedfish and wildlife
+habitats.
+It is important to note that in DeschutesCounty, base zones are used to identify those uses
+that are appropriate to a geographic area and provide standards for those uses. Basezone
+standards include outright and conditional uses, minimum lot sizes, setbacks, height
+limitations and other similar standards. Combining zones are used to identify geographical
+areas that require additional considerations, frequently for special protection of Goal 5
+resources such as wildlife, scenic corridors, or surface mining impact areas. The combining
+zonesmayintersecta numberof basezonesand are intendedto modifythe standardsin
+the underlying base zones.
+WhenDeschutesCountyimplementedthe FloodPlainZone, few propertieswere located
+entirelywithin the FloodPlainZone. ThiscreatedconfusionbecauseDCCdoesnot explicitly
+explain how to deal with land divisions of split zoned properties.
+Note: NotallpropertiescontainingFloodPlainzonedlandin DeschutesCountyarelocated
+adjacent to inventoried perennial streams and tributaries.
+2Goal 5 relates to Natural Resources, Scenicand Historic Areas, and Open Spaces
+3Added to Goal 5 Inventory in 1994 (Ordinance No. 94-007).
+4 Ordinance Nos. 92- 041, 92- 052, 94- 004
+Page 3 of 11 EXHIBIT " E" to ORDINANCE 2019- 019
+A. CHALLENGE: FLOOD PLAIN ZONING AND FORMER IRRIGATION
+CANALS/ LATERALS:
+Because the Flood Plain Zone follows topographical contours, rather than property
+ownershipboundaries, manypropertieshavepartialFloodPlainzoning, with the remainder
+of the area being another base zone such as ExclusiveFarm Use (EFU). The boundary is
+determinedbyFEMAFloodPlainmaps, whichareinfrequentlyupdatedandcostlyto change
+at an individual property level.
+In Deschutes County, the Flood Plain Zone encompassesareas with surrounding irrigation
+canals and laterals. At the time this designation was placed on properties, these canalsand
+laterals were open bodies of water that could present a possible flood risk due to the rise
+and fall of water throughout the irrigation cycle and off season. Since that time, irrigation
+districtsarepipingopencanalsandlateralsdueto the availabilityof fundsfrom the federal
+government, and advancesin monitoring technology. Severalproperties now have an
+outdated Flood Plain designation.
+Themajorityof the FloodPlainZonechapterprescribesspecialconstructionstandardsand
+review requirements to mitigate flood risk. The properties impacted by the piping of
+irrigation canals can be exempted from special construction standards with a simple survey
+notingthe irrigationcanalor lateralisnowundergroundor removedfrom the property. The
+difficulty these property owner's typically face is in dividing their property.
+Under the most recent Hearings Officer's ruling on the matter, a parcel that is equal to or
+exceeds the minimum lot size for the non -Flood Plain base zone ( i.e. 160 acres of EFUland)
+andcontainsa narrowstripof FloodPlainzonedlandassociatedwith an irrigationcanal (i.e.
+1 acre), becomes wholly indivisible due to the failure to have 80 acres of non -resource
+designated Flood Plain zoned lands. This ruling precludes the development of the piped
+canal situation described above.
+Theproposedamendmentsallowa limitedset of split zonedpropertiesto becomeeligible
+for land divisions under specific criteria and procedures. Specifically, those Flood Plain, split
+zonedpropertiesthatarezonedEFU, designatedAgricultureintheComprehensivePlan, and
+are adjacent or bisectedby a former irrigation canal or lateral would be eligible. Additionally,
+properties could not contain a Wildlife Area Combining Zone or contain "significant riparian
+habitat" described in Ordinance 94-007, to prevent impacts to sensitive County wildlife
+resources.
+V. PROPOSED AMENDMENTS
+The proposed amendmentsare detailed in ExhibitsA-D. Changesin the exhibits are
+identified by underline for new text and strikethre gI for deleted text. Below are
+explanations of the proposed changes.
+Page 4 of 11 EXHIBIT " E" to ORDINANCE 2019- 019
+A. TITLE 18, ZONING ORDINANCE TEXT AMENDMENTS
+The proposed amendments include:
+CHAPTER 18. 96. FLOOD PLAIN ZONE
+18.96.150: Adds a section outlining eligibility criteria and procedures for review of
+division of split zoned properties ( Exhibit A).
+B. TITLE 23, COMPREHENSIVE PLAN AMENDMENTS
+CHAPTER 2 RESOURCE MANAGEMENT, SECTION 2. 5 WATER RESOURCES
+Chapter 2 Resource Management, Section 2. 5 Water Resources: Addition of language
+describing the purpose of the proposed amendments to ensure adequate record
+keeping of the intent and purpose of the amendments (Exhibit Q.
+VI. REVIEW CRITERIA
+Deschutes County lacksspecific criteria in DCCTitles 18, 22, or 23 for reviewing a legislative
+plan and text amendment. Nonetheless, becausethis is a DeschutesCounty initiated
+amendment, the County bears the responsibility for justifying that the amendments are
+consistent with the Statewide Planning Goals, Oregon Administrative Rules, and its
+Comprehensive Plan.
+VII. APPLICABLE CRITERIA
+A. CHAPTER 22. 12, LEGISLATIVE PROCEDURES
+1. Section 22. 12. 010.
+Hearing Required
+FINDING: This criterion was met as two sets of public hearings were conducted. The
+DeschutesCountyPlanningCommissionhelda publichearingon August8, 2019whichwas
+continued to September 12 and September 26, 2019. The Board of County Commissioners
+held an additional public hearing on December 4, 2019.
+2. Section 22. 12. 020, Notice
+A. Published Notice
+1. Notice of a legislative change shall be published in a
+newspaper of general circulation in the county at least 10 days
+prior to each public hearing.
+Page 5 of 11 EXHIBIT " E" to ORDINANCE 2019- 019
+2. The notice shall state the time and place of the hearing and
+contain a statement describing the general subject matter of
+the ordinance under consideration.
+FINDING: This criterion was met as notice was published in the Bend Bulletin newspaper on
+July20, 2019for the PlanningCommissionpublichearing, andagainon November23, 2019
+B. PostedNotice. Notice shall be posted at the discretion of the Planning
+Director and where necessary to comply with ORS203.045.
+FINDING: This criterion is met as notices for the respective hearings were posted on the
+bulletin board in the lobby of the DeschutesCounty Community Development Department,
+117 NW Lafayette, Bend.
+C. Individual notice. Individual notice to property owners, as defined in
+DCC 22. 08. 010( A), shall be provided at the discretion of the Planning
+Director, except as required by ORS215.503.
+FINDING: Asthis isa legislativeprocessandis not propertyspecific, individualnoticeis not
+required. Therefore, this criterion does not apply.
+D. Media notice. Copiesof the notice of hearing shall be transmitted to
+other newspapers published in DeschutesCounty.
+FINDING: Noticewas providedto the Countypublic information officialfor wider media
+distribution. This criterion has been met.
+3. Section 22. 12. 030 Initiation of Legislative Changes.
+A legislative change may be initiated by application of individuals upon
+paymentof requiredfees aswell asby the Boardof CountyCommissioners.
+FINDING: The application was initiated by the Deschutes County Planning Division at the
+direction of the Board of County Commissioners, and has receivedafee waiver. This criterion
+has been met.
+4. Section 22. 12. 040. Hearings Body
+A. Thefollowing shall serve as hearings or review body for legislative
+changes in this order.
+1. The Planning Commission.
+2. The Board of County Commissioners.
+Page 6 of 11 EXHIBIT " E" to ORDINANCE 2019- 019
+B. Any legislative change initiated by the Board of County
+Commissioners shall be reviewed by the Planning Commission prior to
+action being taken by the Board of Commissioners.
+FINDING: The Deschutes County Planning Commission held the initial public hearing on
+August 8, 2019. Following deliberations, the Planning Commission forwarded a unanimous
+recommendation of approval of the amendments ( 6- 0) to the Board of County
+Commissioners. The Board held a second public hearing on December 4, 2019. Therefore
+these criteria have been met.
+5. Section 22. 12. 050 Final Decision
+All legislative changes shall be adopted by ordinance
+FINDING: The legislative changes included in file no. 247- 19-000532- TA will be implemented
+byordinanceuponapprovalandadoptionbythe Board. Thiscriterionwill bemet.
+B. STATEWIDE PLANNING GOALS
+Theparametersfor evaluatingthesespecificamendmentsarebasedon anadequatefactual
+basis and supportive evidence demonstrating consistency with Statewide Planning Goals.
+Thefollowing findings demonstrate the proposed amendments comply with applicable goals
+and state law.
+Goal 1, Citizen Involvement
+Theadoptionprocessfor the proposedamendmentsincludedpublichearingsbefore
+the Planning Commission and the Board, consistent with ORS215.060 and DCC
+22. 12.010. This goal is met.
+Goal 2, Land Use Planning
+ORS197.610 allows local governments to initiate PAPAS. An Oregon Department of
+Land Conservation and Development 35-day notice was initiated on July2, 2019. This
+findings document provides the adequate factual basisand documented analysisfor
+the planamendmentandzoningtext amendments. Thisgoalismet.
+Goals 3 and 4, Agricultural Lands and Forest Lands
+Theproposedamendmentsallowthe useof non -FloodPlainbasezonestandardsin
+determining minimum lot sizeswhen dividing split zoned property. Eligibleproperties
+must be zoned Exclusive Farm Use (EFU) and must meet the resource minimum lot
+size requirements of the Exclusive Farm Use zone. The requirement that the property
+has a single comprehensive plan designation precludes division of resource land
+under non - resource zone standards. Properties zoned Forest Use are ineligible for
+Page 7 of 11 EXHIBIT " E" to ORDINANCE 2019- 019
+the proposedamendmentsTherefore, stafffinds the proposedamendmentsdo not
+impact Goals 3 and 4.
+Goal 5, Natural Resources, Scenic and Historic Areas, and Open Spaces
+Theproposedamendmentsdo not applyto propertiesthat are locatedin a Wildlife
+Area CombiningZone or that contain significantriparian habitat as describedin
+Ordinance 94-007, which established the County' s goal 5 program to protect riparian
+areas. Stafffindsthat the proposaldoesnot negativelyimpactGoal5 resourcesand
+no additional analysis is required.
+Goal 6, Air, Water and Land Resources Quality
+The County has code provisions pertaining to development in the Flood Plain Zone
+that are designed to protect air, water and land resources quality and to assure that
+development does not occur in areas subject to natural resources. Those provisions
+will not be altered by the proposed amendments. Staff finds this goal is met.
+Goal 7, Natural Hazards
+The County has code provisions pertaining to the mitigation of flood risk for
+development in the Flood Plain Zone. Those provisions will not be altered by the
+proposed amendments. Staff finds this goal is met.
+Goal 8, Recreational Needs
+Theproposedchangesarenotaddressingarecreationaluseor need. Thisgoalismet.
+Goal 9, Economic Development
+Theproposedamendmentsseekto allowfor greateropportunitiesfor divisionof EFU
+propertyandresidentialdevelopmentwhereappropriate, but at averylimitedscale.
+Theamendments may result in additional land divisions and related development but
+such opportunities are extremely limited due to the prescribed eligibility
+requirementsand existingdevelopmentpatterns. In addition, the amendmentswill
+not result in significant industrial or commercial developments due to rural zoning
+restrictions. This goal is met.
+Goal 10, Housing
+Unlike municipalities, unincorporated areas in Deschutes County are not obligated to
+fulfill certain housing requirements as detailed in Goal 10. Therefore, this goal does
+not apply.
+Goal 11, Public Facilities
+The proposedamendmentsprovidefor the potential of greater rural residential
+development at an appropriate scale. The proposed amendments do not impact any
+existingpublicfacilitiesnor do theysubstantiatea needfor the developmentof new
+public facilities. Therefore, this goal does not apply.
+Page 8 of 11 EXHIBIT " E" to ORDINANCE 2019- 019
+Goal 12, Transportation
+The proposedtext amendmentswill add procedurespertainingto the divisionof
+Flood Plain, split zoned properties that meet certain criteria. The proposed
+amendments do not approve any specific development proposal or land use change.
+Development projects will be reviewed individually for compliance with the
+Transportation Planning Rule. Therefore, this goal does not apply.
+Goal 13, Energy Conservation
+The proposedtext amendmentswill add procedurespertainingto the divisionof
+Flood Plain, split zoned properties that meet certain criteria. The proposed
+amendments do not approve any specific development proposal or land use change.
+Anyfuture site -specificapplicationswill besubjectto DeschutesCounty'sSolarHeight
+Restrictions, DCC 18.116.170 and the Uniform Building Code.. Therefore, this goal
+does not apply.
+Goal 14, Urbanization
+The purpose of Goal 14 is to direct urban uses to areas inside urban growth
+boundaries. Asproposedamendmentsdonot seekto allowurbanusesonrural land,
+nor do they seekto expandan existingurban growth boundary, this goaldoesnot
+apply.
+Goals 15 through 19
+Goals 15 through 19 are not applicable to any amendments to the County' s
+Comprehensive Plan as the County does not contain any of the relevant land types
+included in the goals.
+B. Deschutes County Comprehensive Plan
+Chapter 2, Resource Management
+Section 2. 5, Water Resources
+2.5.10 Support educational efforts and identify areas where the County could provide
+information on the Deschutes River ecosystem, including rivers, riparian areas,
+floodplains and wetlands.
+a. Explore methods of ensuring property owners know and understand regulations
+for rivers, riparian areas, floodplains and wetlands.
+FINDING: In order to ensure all interested persons are aware of the current proposed
+changes, staff presentedan overviewof the proposedamendmentsandadministrationof
+the Flood PlainZone during the PlanningCommissionand Board public hearingsand
+through a dedicated project website.
+Page 9 of 11 EXHIBIT " E" to ORDINANCE 2019- 019
+2.5.16 Use a combination of incentives and/ or regulations to mitigate development
+impacts on river and riparian ecosystems and wetlands.
+FINDING: The Flood Plain Zone limits development and establishes standards to mitigate
+impacts. The proposed amendments target split zoned properties that contain only a portion
+of Flood Plain zoned land that is not associated with riverine systems or significant riparian
+habitat per Ordinance94-007. In the proceduresfor dividing a split zoned property,
+applicants will be required to maintain the Flood Plain zone on a single parcel so as not to
+divideandparcelizeanyportionof the FloodPlain. Theproposedamendmentswill continue
+to support the restoration and preservation of significant wildlife.
+Section 2.7, Open Spaces, Scenic Views and Site
+2. 7. 4 Encourage new development to be sensitive to scenic views and sites.
+FINDING: The Landscape Management Combining Zone will continue to protect scenic
+resources near river and streams and major transportation corridors. Any new development
+associatedwith the proposed amendments will be required to abide by these requirements.
+2. 7. 6 Review County Code and revise as needed to protect open space and scenic views
+and sites, including.
+b. Work with private property owners to provide incentivesand mitigationsfor
+protecting visuallyimportant areasfrom developmentimpacts.
+e. Review County Codefor ways to mitigate for developments that significantly
+impact scenic views.
+FINDING: The setback and building requirements of the Flood Plain Zone will not be
+impactedbythe proposedamendments. Thesestandards, alongwith the setbackstandards
+associatedwith the landscape management combining zone, protect open spaceand scenic
+views and sites.
+Section 3. 5, Natural Hazards
+3.5.10 Regulate development in designatedfloodplains identified on the DeschutesCounty
+Zoning Map based on Federal EmergencyManagement Act regulations.
+a. Participate in and implement the Community Rating ,System as part of the
+National Flood Insurance Program.
+FINDING: The amendments to the Flood Plain Zone section will not impact the County' s
+ability to participatein and implementthe CommunityRatingSystemas part of the NFIP
+program.
+3.5.11 Reviewand revise County Codeas needed to:
+f. Make the Floodplain Zone a combining zone and explore ways to minimize and
+mitigate f/ oodplain impacts.
+Page 10 of 11 EXHIBIT " E" to ORDINANCE 2019- 019
+FINDING: Although the proposed amendments do not alter the Flood PlainZonefrom abase
+zone to a combiningzone, they provide proceduresfor divisionsinvolvingsplit zoned
+propertiesthat containFloodPlainzoningasa resultof a former irrigationcanalor lateral.
+Thepipedcanalsor lateralsnow preventthe possibilityof flooding.
+Page 11 of 11 EXHIBIT " E" to ORDINANCE 2019- 019
+ES
+COG
+Deschutes County Board of Commissioners
+1300 NW Wall St, Bend, OR 97703
+541) 388- 6570 - Fax ( 541) 385- 3202 - https:// www. deschutes. org/
+AGENDA REQUEST & STAFF REPORT
+For Board of Commissioners BOCC Wednesday Meeting of December 11, 2019
+DATE: December 4, 2019
+FROM: Tanya Saltzman, Community Development,
+TITLE OF AGENDA ITEM:
+DELIBERATIONS: Split Zone/ Piped Canal Amendments and Consideration of Ordinance
+No. 2019- 019
+On December 11, 2019, the Board of County Commissioners will conduct deliberations on
+Ordinance No. 2019-019, text amendments outlining procedures in the DeschutesCounty Code
+for divisions involving split zoned Flood Plain properties.
+COMMUNITY DEVELOPMENT
+MEMORANDUM
+TO: Deschutes County Board of County Commissioners (" Board")
+FROM: Tanya Saltzman, AICP, Associate Planner
+Peter Gutowsky, AICP, Planning Manager
+DATE: December 5, 2019
+SUBJECT: Split Zone Amendments / " Piped Irrigation Canal Amendments"
+247- 19- 000532- TA) - Deliberations
+On December 11, 2019, the Board of County Commissioners is scheduled to conduct
+deliberations on Ordinance No. 2019- 019, text amendments outlining procedures in the
+DeschutesCountyCodefor divisionsinvolvingsplitzonedFloodPlainproperties.
+Apublichearingwith the Boardwasheldon December4, 2019, duringwhichtwo individuals
+providedtestimonyinfavoroftheamendments. TheBoardthenclosedtheoralandwritten
+records. The entirety of the record was provided to the Board for the December 4 public
+hearing.'
+I. EMERGENCY ADOPTION OPTION
+Bothemergencyandnon -emergencyversionsof the ordinanceareincludedasattachments
+to this memorandum for the Board' s consideration. During the hearing, a party whose
+propertyis eligiblefor the proposedamendmentsrespectfullyrequestedthat the Board
+consider adoption of the ordinance by emergency, given concerns for potential future state
+legislation that could affect criteria for nonfarm dwellings.
+II. NEXT STEPS
+Atthe conclusionof the meeting, the Boardcanchooseoneof the following:
+Continue deliberations to a scheduled date;
+Conclude deliberations and recommend approval of the amendments as proposed;
+1 https:// deschutescountVor. igm2. com/ Citizens/`­­Detail Meeting. aspx?0= 2394
+1 17 NW Lafayette Avenue, Bend, Oregon 97703 1 P.O. Box 6005, Bend, OR. 97708- 6005
+t, ( 541) 388- 6575 @ cddCaadeschutes . org @ wwvvv.deschutes. org/ cd
+Conclude deliberations and recommend approval of the amendments with additional
+minor changes; or
+Conclude deliberations and recommend denial of the proposed amendments.
+Attachments:
+1. Draft Ordinance No. 2019- 019 - Emergency
+2. Draft Ordinance No. 2019- 019 - Non - Emergency
+Exhibits:
+A. DCC 18.96 Zoning Text Changes
+B. DCC 23. 01 Text Changes
+C. Chapter 2. 5 - Comprehensive Plan Amendments
+D. Chapter 5. 12 - Comprehensive Plan Amendments
+E. Staff Findings
+File No: 247- 19- 000532- TA Split Zone / Piped Canal Amendments Page 2 of 2

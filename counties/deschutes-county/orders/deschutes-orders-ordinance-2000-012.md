@@ -1,0 +1,187 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2000-012
+title: 'Ordinance No. 2000-012'
+doc_type: ordinance
+citation: 'Ordinance No. 2000-012'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616804377_2000-648-Ordinance%20No.%202000-012%20Recorded%205_9_2000.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d6fa223c9e28d89d752dd33c3c4696a022975404b26bb5631faee91826a76594
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 279.051
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2000-012 (Ordinance No. 2000-012)
+
+## At a glance
+
+Ordinance No. 2000-012 — orders of Deschutes County. 4 pages.
+
+## Full text
+
+VOL: CJ2000 PAGE: 648
+RECORDED DOCUMENT
+STATE OF OREGON
+COUNTY OF DESCHUTES
+02000- 648 * Vol - Page Printed: 05/ 09/ 2000 14: 31: 02
+DO NOT REMOVE THIS CERTIFICATE
+This certificate constitutes a part of the original instrument in accordance with
+ORS 205. 180( 2). Removal of this certificate may invalidate this certificate and affect
+the admissibility of the original instrument into evidence in any legal proceeding.)
+I hereby certify that the attached instrument was received
+and duly recorded in Deschutes County records:
+DATE AND TIME:
+DOCUMENT TYPE:
+May. 9, 2000; 9: 07 a. m.
+Ordinance ( CJ)
+NUMBER OF PAGES: 3
+MARY SUE PENHOLLOW
+K o
+KDESCHUTES COUNTY CLER
+MA 92000
+REVIEWEDAS TO FORM
+CODE REVIEW COMM.
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DES
+An Ordinance Amending Chapter 2.36, Title 2, *
+Administration, of the DeschutesCounty Code, *
+And Declaring an Emergency.
+ORDINANCE NO. 2000- 012
+COUNSEL
+S COUNTY,
+00 MAY -9 AM9: 07
+MA -
+r
+r , : t #' Its ; UN-
+Cou rY CLERK
+cj
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. AMENDMENT. DeschutesCounty Code Chapter 2.36, Local Contract Review
+Board, is amended to read as described in Exhibit " A," attachedhereto and by this reference incorporated
+herein, with new language underlined and language to be deleted in Strik- ethreugh.
+Section 2. EMERGENCY. This Ordinance being necessaryfor the immediate preservation
+of the public peace, health and safety, an emergency is declared to exist, and this Ordinance takes effect
+on its passage.
+DATED this day of 2000.
+BOARD OF COUNTY COMMISSIONERS FOR
+DESCHUT S COUN , OREGON
+LINDA L. S ARINGEN, Chair
+iATTEST: NNIS R. LUKE, Co missioner
+Recording Secretary TOM DeWOLF, Commissio
+PAGE 1 OF 1 - ORDINANCE NO. 2000- 012 ( 5110100)
+EXHIBIT " A"
+Chapter 2. 36. LOCAL CONTRACT
+REVIEW BOARD
+2. 36. 01. 0. Purpose -Statutory authority.
+2. 36. 020. Creation and functions of board.
+2. 36. 030. Model public contract rules.
+2. 36. 040. Exemptions from competitive
+bidding.
+2. 36. 050. Delegation.
+2. 36. 01. 0. Purpose -Statutory authority.
+The purpose of this chapter is to authorize the
+Board of County Commissioners to perform the
+duties of a local contract review board in lieu of
+permitting the Public Contract Review Board to
+perform the functions of reviewing public
+contracts as required by Oregon Laws 1975,
+Chapter 771.
+Ord. 203- 8 § 1, 1976)
+2. 36. 020. Creation and functions of board.
+The Board of County Commissioners is
+designated a local contract review board to
+perform the functions of the Public Contract
+Review Board.
+Ord. 203- 8 § 2, 1976)
+2. 36. 030. Model public contract rules.
+The Attorney General's Model Public Contract
+Rules effective October 6, 1998, shall be the
+procedural rules of the local contract review
+board. Procedures for personal services
+contracts required by ORS 279.051 are set forth
+in DeschutesCounty CodeChapter 4.06.
+Ord. 98- 092 § 1, 1998; Ord. 97- 030 § 1, 1997)
+2. 36. 040. Exemptions from competitive
+bidding.
+In addition to the exemptions from competitive
+bids or proposals set forth in ORS
+279. 015( 1)( a) -( h) and 279. 015( 2) contracts may
+be awarded as follows:
+A. Contracts, other than contracts for personal
+services, may be awarded without
+competitive bidding pursuant to DCC
+2. 36. 030 for the following classes of
+contracts:
+1. Emergencycontracts.
+2. Contracts $ 10, 000 or over, but under
+25, 000 $ 75, 000 where competitive
+written quotes were obtained.
+3. Contracts $ 5, 000 or over, but under
+10, 000, where competitive written
+quotes were obtained or where it was not
+feasible to obtain competitive quotes
+under the circumstances.
+4. Contracts under $ 5, 000 need not be
+awarded competitively.
+B. Where a contract is awarded under this
+section, the department head or elected
+official awarding the contract shall document
+in the records of the county the quotes
+received, or if no quotes were received, the
+reason why it was not feasible to obtain
+quotes.
+C. Except for emergency contracts, the
+aggregate of all contracts awarded by the
+county under subseetieft n ef this ,, etion
+DCC 2. 36. 040( 3) where it was not feasible
+to obtain competitive quotes and DCC
+2.36. 040( 4) to any one contractor shall not
+exceed $25,000 in any onefiscal year.
+D. When competitive quotes are obtained,
+award of contract shall be to the lowest quote
+in conformance with the specifications.
+E. An oral auote received by telephone shall be
+considered a written auote when it is
+recorded in the records of the county.
+Ord. 2000- 012 § 1, 2000; Ord. 99- 035 § 1,
+1999; Ord. 98- 092 § 1, 1998)
+2. 36. 050 Delegation.
+A. Each county employee and elected official
+designated as a department head of the
+county is authorized to contract in an amount
+not to exceed $ 25, 000 for each contract,
+provided sufficient stuns are appropriated
+and unencumberedin the county budget and
+there are sufficient cash resources available
+PAGE 1 of 2 — EXHIBIT " A" TO ORDINANCE NO. 2000- 012 ( 5110100)
+to pay the maximum consideration set forth
+in each contract.
+B. The Administrative Services Director may
+award competitive bids and enter into
+contracts in an amount not to exceed $ 50, 000
+75,000 for any single contract.
+Ord. 2000- 012 § 1, 2000; Ord. 98- 092 § 1,
+1998)
+PAGE 2 of 2 — EXHIBIT " A" TO ORDINANCE NO. 2000- 012 ( 5110100)

@@ -1,0 +1,464 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2004-007
+title: 'Ordinance No. 2004-007'
+doc_type: ordinance
+citation: 'Ordinance No. 2004-007'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616820434_2004-701-Ordinance%20No.%202004-007%20Recorded%204_15_2004.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a8e82a1c41145a2d3b84e5d72b19a40ccc5decf83785798e1bb5974c6aa3e728
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2004-007 (Ordinance No. 2004-007)
+
+## At a glance
+
+Ordinance No. 2004-007 — orders of Deschutes County. 7 pages.
+
+## Full text
+
+REVIENYED
+CL
+LEGAL COUNSEL
+REVIEWED
+CODE REVIEW COMMITTEE
+DESCHUTES
+COUNTY
+CLERKS
+Y 1 OO'Q NANCY
+COMMISSIONERS' JOURNAL
+11111111111111111111111111111111111111111111111111111111112004 -
+701i
+041151200412;11;50PM
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Chapter 11.12of the
+DeschutesCounty Code, Transferable Development
+Credit Program, To Remove the Requirement for the
+Conveyance of a Bargain and Sale Deed Upon
+Purchase of a Transferable Development Credit, and
+Declaring an Emergency.
+ORDINANCE NO. 2004- 007
+WHEREAS, the Deschutes County Comprehensive Plan states that a goal of the Transferable
+DevelopmentCredit (TDC) Programis to reducegroundwatercontaminationby minimizing the installationof
+new septic systemsin South DeschutesCounty; and
+WHEREAS, DCC Chapter 11. 12, TDC Program, requires that a Bargain and Sale Deed, as well as a
+Restrictive Covenant, be recorded as a condition of sale for a transferable development credit; and
+WHEREAS, it hascometo theattentionof DeschutesCountythatthe BargainandSaleDeedprevents
+the ownerfrom refinancingor sellingthepropertywithout theCountyfirst relinquishingits right of ownership;
+and
+WHEREAS, the Restrictive Covenant alone is sufficient to prevent the installation of a septic system
+without conveying the ownership rights and attendantproblems createdby a Bargain and SaleDeed; and
+WHEREAS, the Transferable Development Advisory Committee convened on March 16, 2004, to
+consider changesto DCC Chapter 11.12, and recommends to the Board of County Commissioners that DCC
+Chapter 11.12 be amendedto eliminate the need for a Bargain and Sale Deed when completinga TDC
+transaction; and
+WHEREAS, after notice and hearing on April 14, 2004, as required by law, the Board has considered
+the recommendation of the TDC Advisory Committee; now, therefore.
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC Chapter 11. 12 is amended to read as described in Exhibit " A,"
+attached hereto and by this reference incorporated herein, with new language underlined and language to be
+deleted in stfikethr- ough.
+PAGE 1 OF 2 - ORDINANCE NO. 2004- 007 ( 04/ 14/ 2004)
+Section 2. EMERGENCY. This Ordinance being necessary for the immediate preservation of the
+public peace, health and safety, an emergencyis declaredto exist, and this Ordinance takes effect on its passage.
+DATED this 14 day of
+12004.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+Date of 1" Reading: day of , 2004.
+Date of 2ndReading: day of ' 2004.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Michael M. Daly
+Tom DeWolf
+Dennis R. Luke
+Effective date:
+L+
+day of , 2004.
+ATTEST:
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2004- 007 ( 04/ 14/ 2004)
+EXHIBIT " A"
+Chapter 11. 12. TRANSFERABLE
+DEVELOPMENT
+CREDIT PROGRAM
+11. 12. 010. Definitions.
+11. 12. 020. TDC transactions.
+11. 12. 030. TDC sending area eligibility
+criteria.
+11. 12. 040. TDC Advisory Committee
+11. 12. 010. Definitions.
+As usedin DCC 11. 12, the following words
+and phrases shall mean as set forth in DCC
+11. 12. 010.
+Certificate of . TDC Purchase" means a
+certificate from Deschutes County that
+documents the purchase of a TDC( s)- b"
+ver -sen or- entity other-4han the Ceeffty.
+Department" means, for purposes of this
+chapter, the Deschutes County CommunitX
+Development Department.
+Restrictive Covenant" means a legal
+instrument which places restrictions on future
+development on a lot or parcel of land in a
+sending area.
+High Priority Deer Migration Corridor
+Area" meansthe areamappedin 2000 by the
+Oregon Department of Fish and Wildlife
+which shows the area of priority protection
+for migrating mule deer within a larger
+migration corridor acknowledged under
+statewide planning Goal 5. A copy of this
+map is on file with the Community
+Development Department.
+Net developable acre" means the acreage in
+a tract of land in a receiving area calculated
+by subtracting the acreage reserved for
+collector road right- of- way and community
+parks and open space from the gross acreage
+of a subject tract.
+GGll a____ A ______ ___ 99 ._______ tel__ 1____ 1
+willing- sellerat a
+ei4faet ex- ptfes.
+Receiving area" means the area designated
+by the County where transferable
+development credits are required in order to
+purchase and develop a tract of land.
+GGSales „ means the legal eantmet
+aeknewledging- the—sale—of TDC9 fr-e
+willing sellef to a willing buyef with
+tsaetieri:
+Sending Area" means the area designated by
+the County in which transferable
+development credits may be sold in exchange
+for a permanent restrictive covenant.
+TDC Report" means a report from a title
+company verifying title to and encumbrances
+on the subject property_
+Transferable Development Credit" ( TDC)
+means the credit given for a restrictive
+covenant granted to Deschutes Countv
+restricting
+that disallows— the placement of a septic
+system. on the subject propert (. n e
+pr - y.
+PAGE - 1 of 5 — EXHIBIT " A" ORDINANCE NO. 2004- 007 ( 04/ 14/ 2004)
+rN
+High Priority Deer Migration Corridor
+Area" meansthe area mappedin 2000by the
+Oregon Department of Fish and Wildlife
+which showsthe areaof priority protection
+for migratingmule deer withina larger
+migration corridor acknowledged under
+statewideplanningGoal5. A copyof this
+map is on file with the Community
+Development Department.
+Net developableacre" meansthe acreagein
+a tractof landin a receivingarea calculated
+by subtractingthe acreage reservedfor
+collector road right- of- way and community
+parks and open space from the gross acreage
+of a subject tract.
+GGll a____ A ______ ___ 99 ._______ tel__ 1____ 1
+willing- sellerat a
+ei4faet ex- ptfes.
+Receivingarea" meansthe area designated
+by the County where transferable
+developmentcredits are requiredin orderto
+purchaseand developa tractof land.
+GGSales „ means the legal eantmet
+aeknewledging- the— sale—of TDC9fr-e
+willing sellef to a willing buyef with
+tsaetieri:
+SendingArea" meansthe area designatedby
+the County in which transferable
+developmentcreditsmaybe soldin exchange
+for a permanent restrictive covenant.
+TDC Report" meansa report from a title
+company verifying title to and encumbrances
+on the subject property_
+Transferable Development Credit" ( TDC)
+means the credit given for a restrictive
+covenant granted to Deschutes Countv
+restricting
+that disallows— the placement of a septic
+system. on the subject propert (. n e
+pr - y.
+PAGE -1 of 5 — EXHIBIT " A" ORDINANCENO. 2004- 007 ( 04/ 14/ 2004)
+Ord. 2004- 007 § 1, 2004; Ord. 2002- 010 § 1,
+2002) This
+11. 12. 020. TDC transactions.
+TDC' s -- My be- eenveved- te
+eerrtr& e4 will - state the
+eensideratien sum — rev
+aagFeedzlffl het;' AAeez; tlp G
+lei
+AB.— Sale of TDCs from the Sending
+Area. The following proceduresshall be
+followed wherifor a property owner
+desires - to sell TDCs from an eligible lot
+c.- Upon Department review and
+or parcel in the Sending Area to
+approval of the TDC report and
+Deschutes County or other TDC
+receipt of payment of the
+purchaser:
+consideration in accordance with
+the County' s agreement with the
+1. - The property owner or any other property owner or the TDC
+interested person i3tirei.,. ser er the Contract pursuant to DCC
+C=BE shall request verification from 11. 12. 010A. 3. b.. Tthe County
+the County that the subject property willshall prepare a Restrictive
+is eligible for a TDC. Covenant that restricts
+2. - The department shall send development on the subject
+the property owner or interested
+property. — This Restrictive
+person written verification to-- tlre
+covenant shall be signed bwthe
+onfirnung County and the property owner.
+the number of TDCs the subject The County shall record the
+properti eligible for based on the Restrictive Covenant. ^--=
+criteria in DCC 11. 12. 030.
+may be in the ferra of a;
+ef
+time ef
+fimdq—
+tshall
+e theh €
+eVerifieation
+letter
+TDC nepAraet and/ of
+vestrie.' ve . even,#
+preverty e-`
+d. - Contemporaneously with the
+3: - Upon mutual agreement of a sale recording of the Restrictive
+between the property owner and.
+Covenant. Count shall provide
+TDC purchaser, the following
+the TDC purchaser with
+transactions shall occur:
+documentation of the TDC
+purehase. aA Ge,... r. gate ef `' RG
+a. - The property owner shall Purehase
+i;
+saed- te
+provide a TDC Report to the PG -- fehaser if ether th fi the
+Dqpartment. A TDC Reqeq4 shall. County. to serve as pf2pf eff
+TDC e - shif3:
+This revert shall be ffm6fAained
+filed with and
+e7 L.=. t1
+Eerrnt
+b. If the TDC purchaser is other
+request that the Ceunty ieri
+eligible, the • mbe- e f T-DGs f r
+than the County-, then the whieh the pfeperty is eligible
+property owner and TDC 2. The GeufAy shah send wr-W
+purchaser shall sign a TDC verifieatiert to the Seller of the
+Contract form provided by the ffamber of TDCs f r- == h eh the
+County. wiil be erAered— irate subjee4property is eligible based
+PAGE - 2 of 5 - EXHIBIT " A" ORDINANCE NO. 2004- 007 ( 04/ 14/ 2004)
+EXHIBIT " A"
+PAGE 3 of 5 EXHIBIT " A" ORDINANC. E NO. 2004- 007 ( 04/ 14/ 2_ 004
+Y.
+Y\
+Y\
+r
+r
+r
+r
+PAGE3 of 5 EXHIBIT " A" ORDINANC.E NO. 2004- 007 ( 04/ 14/ 2_ 004
+DB. Tr--- Assigmment of TDCs to the
+Receiving Area. Prior to tentative plat
+Approval in the Receiving Area, he
+Department must have record of the
+required number f TDCs purchased and
+e— available for transfer to 44e
+developw&FAof afly let in the Reeei-A
+At -ea, T-DGs shed! be tfansfeffed by a
+a
+rs{..
+tl,
+1
+e e,,
+by the Ge ea tractdeed,
+or lot meeting the following criteria
+within the receiving area:
+1. The tract or lot shall be located
+within the La Pine Neighborhood
+Planning Area in the La Pine Urban
+Unincorporated Community and be
+zoned Residential General or
+Residential Center. The TDC
+receiving area is identified on a map
+prepared and maintained by the
+Community Development
+Department.
+2. TDCs shall be' f. n4effed- assigned to
+a lot or tract based on the net
+developable acres at a rate approved
+by Board of County Commissioner
+Resolution.
+3. The Board may, by Resolution,
+adjust the number of TDCs required
+per acre or alter the factors for which
+TDCs are required in the receiving
+area.
+Y\
+IN11111-h M
+C. Non - Residential Uses. Where permitted.
+under DCC 18. 61. 050, non- residential
+uses in the receiving area do not require
+TDCs.
+D. Right to Develop. If an owner of a lot or
+parcel of land eligible for a TDC chooses
+not to participate in the TDC program,
+the owner shall not be restricted from
+developing said lot or parcel in
+accordance with the applicable zoning
+standardsin DCC Title 18, and any other
+applicable regulations; rules or standards.
+Ord. 2004- 007 § 1, 2004; Ord. 2002- 010 § 1,
+2002)
+11.12.030. TDC sending area eligibility
+criteria.
+A. A lot or parcel that meets the following
+criteria is eligible to receive a
+Transferable Development Credit. The
+lot or parcel shall:
+1. Be located within the TDC " sending
+area" identified on a map prepared
+and maintained by the Community
+Development Department;
+2. Be no greater than two acres in area;
+3. Be capableof being servedby an on-
+site sewage disposal system that
+meets current Oregon Department of
+Environmental Quality standards, as
+demonstrated by a satisfactory
+feasibility evaluation for an on-site .
+sewage disposal system or when the
+lot or parcel is shown as being
+eligible for such system on the TDC
+sendingareamap; and
+54. Not be developed with an existing
+sewage disposal system, or if
+developed with an existing sewage
+disposal system, the landowner shall
+disable said system.. or
+35-.- Mas Have received prior
+approval for a site evaluation or an
+PAGE - 4 of 5= EXHIBIT " A" ORDINANC. E NO. 2004- 007 ( 04/ 14/ 2004)
+EXHIBIT " A"
+installed septic system that has
+expired or is no longer valid„—
+B. TDCs shall be assigned to an eligible lot
+or parcel that meets the criteria in DCC
+11. 12. 04730(A), as follows:
+1. An eligible lot or parcel shall receive
+one TDC.
+2. An eligible lot or parcel located in
+the High Priority Deer Migration
+Corridor Area shall receive an
+additional one- half TDC.
+3. The Board of County Commissioners
+may by Resolutionrevise the number
+of TDCs assigned or the factors for
+which TDCs are assigned to eligible
+lots or parcelsin the sendingarea.
+Ord. 2004- 007 § 1, 2004; Ord. 2002- 010 § 1,
+2002)
+11.12.040. TDC Advisory Committee.
+A. Purpose. The TDC Advisory Committee
+is an advisory committee whose purpose
+is to assiststaff in implementing the TDC
+program and to recommend to staff the
+means to accomplish the goals of
+Regional Problem Solving insofar as the
+transfer of development credits from the
+sending area to the receiving area are
+concerned.
+B. Duties. The committee will advise staff
+in evaluating the TDC program for
+record keeping accuracy, determine if
+program goals are being met, consider
+whether any changes to . the TDC
+allocation criteria in the sending area or
+TDC requirements in the receiving area
+are advisable, or if any other revisions to
+the program are warranted. The
+committee may assist the County in
+determining which TDC options to
+exercise.
+C. Committee member terms. Committee
+members will be selectedby staff based
+on the knowledge and expertise that each
+member may contribute to the
+development of the TDC Program. One-
+half the initial members shall serve for
+one year and one- half shall serve for two
+years. Thereafter, members shall serve
+two- year terms. Members may be
+requested to serve additional terms. Staff
+shall report the membership of the TDC
+Advisory Committee to the Board of
+County Commissioners on an annual
+basis.
+D. Committee members. The TDC
+Advisory Committee may include a
+representativefrom eachof the following
+organizations, agencies or professions:
+1. The International Society of
+Appraisers or an Oregon State
+Certified Appraiser;
+2. A firm established for the purpose of
+real estate development or the
+representation of development
+interests;
+3. An individual with recognized
+expertise in hydrology or ground
+water;
+4. An individual with recognized
+expertise in big game wildlife
+management;
+5. The Community Solutions Team for
+Central Oregon;
+6. An individual who resides in the
+designatedsendingarea;
+7. A member of the La Pine
+Community Action Team;
+8. The Deschutes County Community
+Development Department Director or
+designee as an ex officio member.
+9. Staff may select additional members
+as it deems appropriate.
+10. The Deschutes County Community
+Development Department Director or
+designee as an ex officio member.
+Ord. 2003- 033 § 1, 2003; Ord. 2002- 010 § 1,
+2002)
+PAGE - 5 of 5 — EXHIBIT " A" ORDINANC. E NO. 2004- 007 ( 04/ 14! 2004

@@ -1,0 +1,114 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-83-057
+title: 'Ordinance No. 83-057'
+doc_type: ordinance
+citation: 'Ordinance No. 83-057'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616640512_1995-23608-Ordinance%20No.%2083-057%20Recorded%208_22_1983.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 26cc97a2573f95c20e918c964839cb79fa9e8941506d5e0fa44620c5f53e2b5b
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 83-057 (Ordinance No. 83-057)
+
+## At a glance
+
+Ordinance No. 83-057 — orders of Deschutes County. 2 pages.
+
+## Full text
+
+95- 23608
+48 rpuu614
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Adopting
+Environmental Health Rules,
+Prohibiting Pit Privys,
+Providing For fees, Providing
+Penalties, Repealing Ordin-
+ances, Continuing Liabilities,*
+and Declaring an Emergency.
+ORDINANCE NO. 83- 05741ARYSUE
+PENVOLLo1"l, Co- CLERK
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. A certain book or publication, a copy of which
+is on file with the Deschutes County Clerk, marked and entitled
+On Site Sewage Disposal Rules, hereinafter referred to as " Sewage
+Disposal Rules", hereby is adopted in its entirety as the sewage
+disposal rules for unincorporated Deschutes County, Oregon,
+hereinafter referred to as County, for regulating and controlling
+the construction, alteration, repair, operation and maintenance
+of onsite sewage disposal systems in unincorporated Deschutes
+County, said Sewage Disposal Rules so adopted and on file in the
+office of the Clerk hereby are referred to and by this reference
+made a part of this Ordinance as though fully set out herein.
+Section 2. The construction of a pit privy after the date
+of this Ordinance shall not be permitted, Section 1 of this
+Ordinance notwithstanding.
+Section 3. The fees for permits and services under this
+Ordinance shall be the fees prescribed by the Department of
+Environmental Health, State of Oregon. The County may set any
+permit fee at an amount lower than the fees adopted by the State
+of Oregon, or set a fee for a permit for which the State of
+Oregon has failed to set a fee by proper resolution.
+Section 4. It shall be unlawful to construct, alter,
+repair, operate or maintain onsite sewage disposal systems in
+unincorporated Deschutes County, or cause the same to be done,
+contrary to or in violation of any of the provisions of this
+Ordinance.
+Violation of any provision of this Ordinance is a Class A
+infraction.
+Section 5. County Ordinance No. CG - 3 and CG - 5, as amended,
+are hereby repealed. K
+C
+1 - ORDINANCE NO. 83- 057
+vol, 48 ?AcF615
+Section 6. The repeal of any Ordinance by this Ordinance
+shall not release or extinguish any penalty, forfeiture, nui-
+sance, obligation or liability incurred under such Ordinance,
+unless a provision of this Ordinance shall so expressly provide,
+and such Ordinances repealed shall be treated as still remaining
+in force for the purpose of sustaining any proper action or
+prosecution for the enforcement of such penalty, forfeiture,
+nuisance, obligation, or liability.
+Section 7. This Ordinance being necessary for the immediate
+preservation of public peace, health and safety, an emergency is
+declared to exist, and this Ordinance takes effect on its pas-
+sage.
+DATED this/ of
+ATTEST:
+6uu& A&WA'.
+wall Recording Secretary
+2 - ORDINANCE NO. 83- 157
+1983.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+ALWIff A. YO G,
+Cham
+n
+LAURENCE A." TU
+TE, Commissioner
+E, Commissioner

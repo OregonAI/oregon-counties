@@ -1,0 +1,531 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2012-004
+title: 'Ordinance No. 2012-004'
+doc_type: ordinance
+citation: 'Ordinance No. 2012-004'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617040774_2012-150-Ordinance%20No.%202012-004%20Recorded%204_19_2012.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8d54d38940d612b4416abffc5b10d1779cbe6508567a4d953a4d915ad7644252
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.441
+    - ORS 315.141
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2012-004 (Ordinance No. 2012-004)
+
+## At a glance
+
+Ordinance No. 2012-004 — orders of Deschutes County. 12 pages.
+
+## Full text
+
+REVIEWED
+DESCHUTES COUNTY OFFICIAL RECORDS
+LEGAL COUNSEL NANCY BLANKENSHIP, COUNTY CLERK Nd +
+COMMISSIONERS' JOURNAL 44/ 19/2012 49: 36:59 AM
+IIIIIIIIIIIIIIIIIIIIIIIIIIIII
+2012- B
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 18 of the Deschutes
+County Code, to Establish Provisions for Agri- Tourism
+and Other Commercial Events and Activities, and to * ORDINANCE NO. 2012- 004
+Amend the Winery Standards in the Exclusive Farm
+Use Zone, and Declaring an Emergency.
+WHEREAS, the Deschutes County Community Development Department initiated the amendment
+Planning Division File No. TA- 11-3) of the Deschutes County Code (" DCC") Title 18, Chapter 18.16, to
+incorporate the changes to State Law under 2011 Senate Bill 960 for Agri- Tourismand Other Commercial
+Events and Activities and House Bill 3280 for Winery standards; and
+WHEREAS, the Deschutes County Planning Commission held a public hearing on December 8, 2011
+and forwarded to the Deschutes County Board of Commissioners (" Board") a recommendation of approval; and
+WHEREAS, the Board considered this matter after a duly noticed public hearing on March 14, 2012 and
+concluded that the public will benefit from the proposed changes to DCC Title 18 Chapter 18. 16; now,
+therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC Chapter 18.04, TITLE, PURPOSE AND DEFINITIONS, is
+amended to read as described in Exhibit " A," attached hereto and by this reference incorporated herein, with
+new language underlined and language to be deleted in str-ik gh.
+Section 2. AMENDMENT. DCC Chapter 18.16, EXCLUSIVE FARM USE ZONES, is amended to
+read as described in Exhibit " B," attached hereto and by this reference incorporated herein, with new language
+underlined and language to be deleted in strikethfougk.
+Section 3. FINDINGS. The Board adopts as its findings Exhibit " B," attached and incorporated by
+reference herein.
+PAGE I OF 2 - ORDINANCE NO. 2012- 004
+Section 4. EMERGENCY. This Ordinance being necessary for the immediate preservation of the
+public peace, health and safety, an emergency is declared to exist, and this Ordinance takes effect on its passage.
+Dated this of , 2012 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+ANTHONY DEBONE, Chair
+zzw
+ATTEST:
+ALAN UNGER, Vice Chair
+Lie
+Recording Secretary TAMMY BANEY, Com sioner
+1ADate of 1" Reading: day of 12012.
+te of 2"d Reading: day of , 2012.1~11_ Da
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Anthony DeBone
+Alan Unger
+Tammy Baney I/
+Effective date: 1- 'day of ' 2012.
+PAGE 2 OF 2 - ORDINANCE NO. 2012- 004
+Denotes portions of the code not amended by Ordinance 2012- 004.
+Chapter 18. 04. TITLE, PURPOSE AND DEFINITIONS
+18. 04.010. Title.
+18. 04.020. Purpose.
+18. 04.030. Definitions.
+Denotes sections of the Deschutes County Code not amended by Ordinance 2011-
+XXX.
+Agri- tourism" means a commercial enterprise at a working farm or ranch that is
+incidental and subordinate to the existing farm use of the tract that promotes successful
+nriculture generates supplemental income for the owner and complies with Oregon
+Statue and Rule Any assembly of persons shall be for the purpose of taking part in
+agriculturally based operations or activities such as animal or crop care, picking fruits or
+vegetables cooking or cleaning fann products tasting farm products, or learning about
+farm or ranch operations Agri- tourism does not include " commercial events or
+activities." Celebratory gatherings weddings parties, or similar uses are not agri-
+tourism.
+Agricultural Land" means lands classified by the U. S. Soil Conservation Service ( SCS) as
+predominately Class I- VI soils, and other lands in different soil classes which are suitable for farm
+use, taking into consideration soil fertility, suitability for grazing and cropping, climatic conditions,
+existing and future availability of water for farm irrigation purposes, existing land use patterns,
+technological and energy inputs required, and accepted farming practices. Lands in other classes
+which are necessary to permit farm practices to be undertaken on adjacent or nearby lands shall be
+included as agricultural lands in any event.
+Agricultural structure" means any structure considered to be an " agricultural building" under the
+State Building Code ( Section 326) as referenced in DCC 15. 04.010 and is (1) located on a parcel
+that is at least 20 acres in size and contains at least 8.5 irrigated acres, or ( 2) a parcel that is at least
+80 acres in size, regardless of irrigation.
+Agricultural use" means any use of land, whether for profit or not, related to raising, harvesting
+and selling crops or by the feeding, breeding, management and sale of, or the produce of, livestock,
+poultry, fur- bearinganimals or honeybeesor for dairying and the sale of dairy products or any other
+agricultural or horticultural use or animal husbandry or any combination thereof not specifically
+covered elsewhere in the applicable zone. Agricultural use includes the preparation and storage of
+the products raised on such land for human and animal use and disposalby marketing or otherwise.
+Agricultural use also includes the propagation, cultivation, maintenance and harvesting of aquatic
+species. Agricultural use does not include the use of land subject to the provisions of ORS chapter
+321, except land used exclusively for growing cultured Christmas trees.
+Commercial agricultural enterprise" means farm operationswhich will:
+A. Contribute in a substantial way to the area's existing agricultural economy; and
+B. Help maintain agricultural processors and established farm markets. When determining
+whether a farm is part of a commercial agricultural enterprise, not only what is produced, but
+how much and how it is marketed shall be considered.
+EXHIBIT A to Ordinance 2012- 004
+Commercial amusement establishment" means a facility supplying refreshments and various forms
+of entertainment to the generalpublic.
+Commercial event or activity' means any_ meeting, celebratory gathering wedding, party, or
+similar uses consisting of any assembly of persons and the sale of goods or services. It does not
+include a i tourism In DCC 18. 16.042, a commercial event or activity shall be related to and
+supportive of agriculture.
+Commercial farm" as used in DCC 18. 16 means those land tracts shown on the 1991 Assessor's
+records as contiguous ownership tracts under one name ( or separatedonly by a road), zoned EFU,
+receiving special assessment for farm use and in the top 90 percent of assessed farm use values
+arranged in ascending order). These farms are identified in the resource element of the
+comprehensiveplan.
+Commercial forest land" means land which is used for the growing and harvesting of forest tree
+species.
+Commercial residential use" means a building, portion of a building or group of buildings designed
+or used for human occupancy or lodging for which a fee is charged, such as a hotel, motel or tourist
+camp, but excluding quarters intended for permanent occupancy such as a duplex or apartment. A
+manufactured home park is not included in this definition.
+Commercial use" means the use of land primarily for the retail sale of products or services,
+including offices. It does not include factories, warehouses, freight terminals or wholesale
+distribution centers.
+Community center" means a community meeting, retreat and activity facility serving the social or
+recreational needs of community residents or visitors.
+EXHIBIT A to Ordinance 2012- 004
+Denotes portions of the code not amended by Ordinance 2012- 004.
+Chapter 18. 16. EXCLUSIVE FARM USE ZONES
+18. 16.010. Purpose.
+18. 16.020. Uses Permitted Outright.
+18. 16.025. Uses Permitted Subject to the Special Provisions Under DCC Section 18. 16.038 and a
+Review Under DCC Chapter 18. 124 For Items C Through M.
+18. 16.030. Conditional Uses Permitted - High Value and Nonhigh Value Farmland.
+18. 16.031. Nonresidential Conditional Uses on Nonhigh Value Farmland Only.
+18. 16.033. Nonresidential Conditional Uses on High Value Farmland Only.
+18. 16.035. Destination Resorts.
+18. 16.037. Guest Ranch.
+18. 16.038. Special Conditions for Certain Uses Listed Under DCC 18. 16.025.
+18. 16.040. Limitations on Conditional Uses.
+18. 16.042 Auri- Tourism and Other Commercial Events or Activities Limited Use Permit
+18. 16.043 Sinele Permit
+18. 16.050. Standards for Dwellings in the EFU Zones.
+18. 16.055. Land Divisions.
+18. 16.060. Dimensional Standards.
+18. 16.065. Subzones.
+18. 16.067. Farm Management Plans.
+18. 16.070. Yards.
+18. 16.080. Stream Setbacks.
+18. 16.090. Rimrock Setback.
+Denotes sections of the Deschutes County Code not amended by Ordinance 2011- 004.
+18. 16.025. Uses Permitted Subject to the Special Provisions Under DCC Section 18. 16.038 or DCC
+Section 18. 16.042 and a Review Under DCC Chapter 18. 124 where applicable.
+A. Dwellings customarily provided in conjunction with farm use ( farm- related dwellings), subject to DCC
+18. 16.050.
+B. A relative farm assistance dwelling, subject to DCC 18. 16.050.
+C. Churches and cemeteries in conjunction with churches consistent with ORS 215.441, that are not within
+3 miles of an acknowledgedurban growth boundary, on non-high value farmland.
+D. Churches and cemeteries in conjunction with churches consistent with ORS 215.441, that are within 3
+miles of an acknowledged urban growth boundary, subject to the approval of an exception pursuant to
+ORS 197. 732 and OAR chapter 660, division 004, on non-high value farmland.
+E. Expansion of an existing church or cemetery in conjunction with a church on the same tract as the
+existing use.
+F. Utility facilities necessary for public service, including wetland waste treatment systems, but not
+including commercial facilities for the purpose of generating electrical power for public use by sale and
+transmission towers over 200 feet in height. A utility facility necessary for public service may be
+established as provided in DCC 18. 16.038( A).
+G. Winery, as described in ORS 215. 452.
+H. Farm stands, subject to DCC 18. 16.038.
+Page 1 of 8 - EXHIBIT B to Ordinance 2012- 004
+I. A site for the takeoff and landing of model aircraft, including such buildings or facilities as may be
+reasonablynecessary.
+J. A facility for the processingof farm crops, or the production of biofuel as defined in ORS 315.141, thatis located on a farm operation that provides at least one- quarter of the farm crops processed at the
+facility.
+a. The building established for the processingfacility shall not exceed 10, 000 square feet of floor area
+exclusive of the floor area designatedfor preparation, storage or other farm use or devote more than
+10, 000 square feet to the processingactivities within another building supporting farm uses.
+b. A processingfacility shall comply with all applicable siting standards but the standards shall not be
+applied in a manner that prohibits the siting of the processingfacility.
+c. The County shall not approve any division of a lot or parcel that separates a processingfacility from
+the farm operation on which it is located.
+K. Aszri- tourism and other commercial events and activities subject to DCC 18. 16.042.
+Ord. 2012- 004, § 2 2012; Ord. 2010- 022 § 2, 2010; Ord. 2009- 014 § 1, 2009; Ord. 2008- 001 § 2, 2008; Ord.
+2004- 001 § 2, 2004)
+18. 16.038. Special Conditions for Certain Uses Listed Under DCC 18. 16.025.
+A. A utility facility necessary for public use allowed under DCC 18. 16.025 shall be one that is necessary to
+be situated in an agricultural zone in order for service to be provided. To demonstrate that a utilityfacility is necessary, an applicant must show that reasonable alternatives have been considered and that
+the facility must be sited in an exclusive farm use zone due to one or more of the following factors:
+1. Technical and engineeringfeasibility,
+2. The proposed facility is locationally dependent. A utility facility is locationally dependentif it must
+cross land in one or more areas zoned for exclusive farm use in order to achieve a reasonably direct
+route or to meet unique geographical needs that cannot be satisfied on other lands;
+3. Lack of available urban and non- resource lands;
+4. Availability of existing rights of way;
+5. Public health and safety; and
+6. Other requirementsof state and federal agencies.
+7. Costs associated with any of the factors listed in 1-6 above may be considered, but cost alone may
+not be the only consideration in determining that a utility facility is necessary for public service.
+Land costs shall not be included when considering alternative locations for substantially similar
+utility facilities that are not substantially similar.
+8. The owner of a utility facility approved under this section shall be responsible for restoring, as
+nearly as possible, to its former condition any agricultural land and associated improvements that
+are damaged or otherwise disturbed by the siting, maintenance, repair or reconstruction of the
+facility. Nothing in this subsection shall prevent the owner of the utility facility from requiring a
+bond or other security from a contractor or otherwise imposing on a contractor the responsibility for
+restoration.
+9. In addition to the provisions of 1-6 above, the establishment or extension of a sewer system as
+defined by OAR 660- 011-0060( 1)(f) in an exclusive farm use zone shall be subjectto the provisionsof OAR 660- 011-0060.
+10. The provisions above do not apply to interstate gas pipelines and associated facilities authorized byand subject to regulation by the Federal Energy Regulatory Commission.
+11. The County shall impose clear and objective conditions on an application for utility facility siting to
+mitigate and minimize the impacts of the proposedfacility, if any, on surrounding lands devoted to
+farm use, in order to prevent a significant change in acceptedfarm practices or a significant increase
+in the cost of farm practices on surrounding farmlands.
+Chapter 18- 16
+2011)
+Page 2 of 8 - EXHIBIT B to Ordinance 2012- 004
+B. Wineries are subject to the following:
+1. A winery, authorized under DCC 18. 16.025 is a facility that produceswine with a maximum annual
+production o£
+a. Less than 50, 000 gallons and t# at:
+i. Owns an on- site vineyard of at least 15 acres;
+ii. Owns a contiguous vineyard of at least 15 acres;
+iii. Has a long-term contract for the purchase of all of the grapes from at least 15 acres of a
+vineyard contiguous to the winery; or
+iv. Obtains grapes from any combination of i, ii or iii of this subsection; or
+b. At least 50, 000 gallons and than 100,000 g lle the winery:
+i. Owns an on- site vineyard of at least 40 acres;
+ii. Owns a contiguous vineyard of at least 40 acres;
+iii. Has a long-term contract for the purchase of all of the grapes from at least 40 acres of a
+vineyard contiguous to the winery; or
+iv. Obtains grapes from any combination of i. ii, or iii of this sub- section.
+2
+The .. hall .., 1,. w enly the sale 4
+a. Wines pfedueed in eon tffle4ioa with the winefy; eAid
+b. Rems difeetb, felated the sales E)f whieh afe ineidefltal to retail sale of wine on
+C 1,
+items
+1 , 1
+those
+a
+by a
+1: : tea a est., +
+defined ift ORS 62 0101
+4. Prior- te issuanee ef a pefmit to es4ablish a wifiefy, the applieaflt shall shew that vineyards, desefibed
+undef either- 1 ef 2 abeve, have been planted er- that the eentfaet has been exeetAed, as .
+adjaeentlandsi
+2. A winery may:
+a Market and sell wine produced in conjunction with the winery, including the following
+activities:
+i. Wine tours,
+ii Wine tastinlzs in a tasting room or other location at the winery;
+iii. Wine clubs; and
+iv. Similar activities conducted for the primary purpose of promoting wine produced in
+conjunction with the winery;
+b Market and sell items directly related to the sale or promotion of wine produced in conjunction
+with the winery, the marketing and sale of which is incidental to retail sale of wine on- site,
+including food and beverages served by a limited service restaurant, as defined in ORS
+624. 010; and
+c Provide services including private events hosted by the winery or patrons of the winery, at
+which wine produced in conjunction with the winery is featured, that:
+i Are directly related to the sale or promotion of wine produced in conjunction with the
+wine
+ii. Are incidental to the retail sale of wine on- site; and
+iii. Are limited to 25 days or fewer in a calendar year.
+3. Gross Income.
+a The gross income of the winery from the sale of incidental items pursuant to subsection ( 2)( b)
+of this section and services provided pursuant to subsection ( 2)(c) of this section may not
+Page 3 of 8 - EXHIBIT B to Ordinance 2012- 004
+exceed 25 percent of the gross income from the on- site retail sale of wine produced in
+conjunction with the winenL
+b. The winery shall submit to the Deschutes County Community Development Department a
+written statement, preparedby a certified public accountant that certifies compliance with this
+section for the previous tax year by April 15 of each year in which private events are held
+4. A winery _operating under this section shall provide parking for all activities or uses on the lot
+parcel or tract on which the winery is established.
+5. Prior to the issuance of a permit to establish a winery under this section the applicant shall show
+that vineyards described in subsections ( B)(1) of this section have been planted or that the contract
+for the purchaseof grapes has been executed, as applicable.
+6. The siting of a winery shall be subject to the following standards:
+a. Establishment of a setback of at least 100 feet from all property lines for the winery and all
+public gathering places.
+b. Shall comply with DCC Chapter 18. 80, Airport Safety Combining, Zone, and DCC 18. 116.180,
+Building Setbacks for the Protection of Solar Access.
+7. As used in this section, " private events" includes, but is not limited to, facility rentals and
+celebratory atg_ herings.
+8. The winery shall have direct road access and internal circulation.
+9. A winery is subject to the following public health and safety standards:
+a. Sanitation facilities shall include, at a minimum, portable restroom facilities and stand- alone
+hand washing stations.
+b. No event, gathering or activity may begin before 7: 00 a. m. or end after 10: 00 p. m., including
+set-up and take- down of temporary structures.
+c. Noise control.
+i. All noise, including the use of a sound producing device such as. but not limited to. loud
+speakers and public address svstems, musical instruments that are amplified or unamplified.
+shall be in compliance with applicable state regulations.
+ii. A standard sound level meter or equivalent, in good condition, that provides a weighted
+sound pressure level measured by use of a metering characteristic with an " A" frequency
+weighting network and reported as dBA shall be available on- site at all times during private
+events.
+d. Adequate traffic control must be provided by the property owner to address the
+following:
+i. There shall be one traffic control person for each 250 persons expected or
+reasonably expected to be in attendance at any time.
+ii. All traffic control personnel shall be certified by the State of Oregon and shall
+comply with the current edition of the Manual of Uniform Traffic Control Devices.
+e. Structures.
+i. All permanent and temporary structures and facilities are subiect to fire, health and life
+safe requirements, and shall comply with all requirements of the Deschutes County
+Building Safety Division and the Environmental Soils Division and any other applicable
+federal, state and local laws.
+ii. Compliance with the requirementsof the Deschutes County Building Safety Division shall
+include meeting all building occupancy classification requirements of the State of Oregon
+adoptedbuilding code.
+Inspection of event premises authorization. The applicant shall provide in writing a consent to
+allow law enforcement, public health, and fire control officers to come upon the premises for
+which the Limited Use Permit has been grantedfor the purposes of inspection and enforcement
+of the terms and conditions of the permit and DCC Chapter 18. 16 Exclusive Farm Use Zone
+and DCC Chapter 8. 08 Noise Control, and any other applicable laws or ordinances.
+Page 4 of 8 - EXHIBIT B to Ordinance 2012- 004
+10 DCC Chapter 18 16 038(B) Sections ( 2c),Q) ( 7) and ( 9) sunset on January 1, 2014.
+Ord. 2012- 004 § 2, 2012, Ord. 2010- 022 § 2, 2010; Ord. 2009- 014 § 1, 2009; Ord. 2008- 001 § 2, 2008; Ord.
+2004- 001 § 2, 2004)
+1816 042 Agri- Tourism and other Commercial Events or Activities Limited Use Permit
+A Agri- tourismand other commercial events or activities related to and supportive of agriculture ma
+be approved in an area zoned for exclusive farm use only if the standards and criteria in this section
+are met.
+B Application The application shall include the following'.
+1 The General Provisions information required in DCC 22. 08.010.
+2. A written description o£
+a. The proposal.
+b The types of agri- tourismand other commercial events or activities that are proposed to be
+conducted including the number and duration of the ag[ i-tourism and other commercial events
+and activities the anticipated maximum daily attendance and the hours of operation, and how
+the ag' ri-tourism and other commercial events or activities will be related to and supportive of
+agriculture and incidental and subordinate to the existing farm use of the tract.
+c The types and locations of all permanent and temporary structures, access and egress. parking'
+facilities and sanitation and solid waste to be used in connection with the agri- tourism or other
+commercial events or activities.
+3. A traffic management plan that:
+a Identifies the projected number of vehicles and any anticipated use of public roads;
+b Provides an assurance that one traffic control person shall be provided for each 250
+persons expected or reasonablyeexpectedto be in attendance at any time during the agri-
+tourism and other commercial event or activity. The traffic control personnel shall be
+certified by the State of Oregon and shall comply with the current edition of the Manual
+of Uniform Traffic Control Devices.
+c. Demonstrates that the parcel lot or tract has direct access such that the lot, parcel or
+tract on which commercial events will occur:
+i. Fronts on a public road; or
+ii. Is accessed by an access easement or private road, and all underlying property
+owners and property owners taking access between the subject property and the
+public road consent in writing to the use of the road for ag' ri-tourism and other
+commercial events or activities at the time of initial application.
+4 Inspection of Event Premises Authorization. The applicant shall provide in writing' a
+consent to allow law enforcement, public health, and fire control officers and code
+enforcement staff to come upon the premises for which the Limited Use Permit has been
+granted for the purposes of inspection and enforcement of the terms and conditions of
+the permit and DCC Chapter 18. 16 Exclusive Farm Use Zone and DCC Chapter 8. 08
+Noise Control, and any other applicable laws or ordinances.
+C. Approval Criteria.
+Type 1 Up to six ( 6) ag' ri-tourism events in a calendar year on a tract may be approved by a limited
+use permit that is personalto the applicant and is not transferred by, or transferred with, a
+conveyance of the tract, if in compliance with:
+a. Criteria set forth in 18. 16.042( C)(2)( d-i).
+b. May not, individually, exceed one calendar day.
+c. Commercial events or activities are not permitted.
+Page 5 of 8 - EXHIBIT B to Ordinance 2012- 004
+d. Minimum lot or parcel size: 5 acres.
+e. Comply with DCC Chapter 8. 08 Noise Control at all times Sound amplification_ and sound
+producing devices are prohibited.
+f. The maximum attendance is 30 at anY one time for all non- residentsof the tract.
+g. Where there is a conflict between this section and DCC 18. 16.042( C)(4- 12), the more
+restrictive criteria shall apply.
+2. Type 2 Up to six ( 6) agri tourism and other commercial events or activities in a calendar year on a
+tract may be approvedby a limited use permit that is personalto the applicant and is not transferred
+by, or transferred with a conveyance of the tract if in compliance with:
+a. Minimum lot or parcel size: 10 acres.
+b. Agri tourism events may not individually, exceed a duration of 72 consecutive hours,
+excluding set-up and take down of all temporary structures and facilities. The limitation on the
+hours of operations is included within the duration of 72 consecutive hours.
+c. Commercial events or activities may not individually, exceed a duration of 30 consecutive
+hours excluding set-up and take down of all temporary structures and facilities. The limitation
+on the hours of operations is included within the duration of 30 consecutive hours.
+d. Must be incidental and subordinate to existing farm use of the tract and shall be related to and
+supportive of agriculture.
+e. Set-up and take down of all temporary structures and facilities shall occur up to one business
+day prior to the agri- tourismand other commercial events or activities and one business day
+after the agri- tourismand other commercial events or activities between 7: 00 a. m. and 10: 00
+p. M--
+f. May not require that a new permanent structure be built used or occupied in connection with
+the agri- tourismor other commercial events or activities.
+g. May not in combination with other agri- tourismor other commercial events or activities
+authorized in the area materials alter the stability of the land use pattern in the area.
+h. Must comply with ORS 215. 296.
+i. Limited Use Permits approved under this section expire two years from the date of approval.
+J. Limited Permits may be renewed for an additional two years subject to:
+i. An application for renewal, and
+ii Demonstration of compliance with conditions that apply to the limited use permit and
+applicable provisions in this section DCC Chapter 18. 16.042.
+Type 3 Agri- tourismor other commercial events or activities may be approved by a limited use
+permit that is personal to the applicant and is not transferred by or transferred with, a conveyance
+of the tract more frequently or for a longer period than allowed under 18. 16.042( C)(1) and ( 2) if
+the agri- tourismor other commercial events or activities is in compliance with:
+a. Criteria set forth in 18. 16.042( C)(2)( d)(e)( f)(g and ( h).
+b. Must be incidental and subordinate to existing commercial farm use of the tract_ and are
+necessary to support the commercial farm uses or the commercial agricultural enterprises in the
+area.
+c. Minimum lot or parcel size: 160 acres.
+d. Do not exceed 18 commercial events or activities in a calendar year.
+e. Commercial events or activities may not individually, exceed a duration of 24 consecutive
+hours excluding set-up and take down of all temporary structures and facilities. The limitation
+on the hours of aerations is included within the duration of 24 consecutive hours.
+Agri- tourismevents may not individually, exceed a duration of 72 consecutive hours,
+excluding set-up and take down of all temporary structures and facilities The limitation on the
+hours of operations is included within the duration of 72 consecutive hours.
+g. No more than two commercial events or activities may occur in one month.
+h. Limited Use Permits approved under this section expire four years from the date of approval.
+Page 6 of 8 - EXHIBIT B to Ordinance 2012- 004
+i. Limited Use Permits may be renewed at four year intervals subject to:
+i. An application for renewal;
+ii. Public notice and public comment as part of the review process.
+iii Demonstration of compliance with conditions that apply to the limited use permit and
+applicable provisions in this section, DCC Chapter 18. 16.042.
+4. The area in which the agri- tourism or other commercial events or activities are located shall be
+setback at least 100 feet from the property line.
+5. Notification of agri- tourismand other commercial events or activities.
+a The property owner shall submit in writing the list of calendar days scheduled for all agri-
+tourism and other commercial events or activities by April 1 of the subject calendar year or
+within 30 days of new or renewed limited use permits, if after April 1, to Deschutes Count's
+Community Development Department and Sheriff's Office and all property owners within
+500 feet of the subject property
+b. The list of calendar dates for all agri- tourism, commercial events and activities maybe
+amended by submitting the amended list to the same entities at least 72 hours prior to any
+date change.
+c. If such notice is not provided the property owner shall provide notice by Registered Mail to
+the same list above at least 10 day prior to each agri- tourismand other commercial event or
+activi .
+d. The notification shall include a contact person or persons for each agri- tourism and other
+commercial event or activity who shall be easily accessible and who shall remain on site at all
+times, including the person(s) contact information.
+6. Sanitation facilities shall include, at a minimum, portable restroom facilities and stand- alone hand
+washing stations.
+7. Hours of Operation. No agri- tourism and other commercial event or activity may begin before
+7: 00 a. m. or end after 10: 00 p. m.
+8. Overnight camping is not allowed.
+9. Noise Control
+a. All noise including the use of a sound producing device such as, but not limited to, loud
+speakers and public address systems, musical instruments that are amplified or
+unamplified, shall be in compliance with applicable state regulations.
+b. A standard sound level meter or equivalent, in good condition, that provides a weighted
+sound pressure level measured by use of a metering characteristic with an " A" frequency
+weighting network and reported as dBA shall be available on- site at all times during
+agri- tourism and other commercial events or activities.
+10. Transportation Management.
+a. Roadwavs. drivewav aprons, drivewavs and parking surfaces shall be surfaces that
+prevent dust and may include paving, gavel, cinders, or bark/ wood chips.
+b. Driveways extending from paved roads shall have a paved apron, requiring review and
+approval by the County Road Department.
+c. The parcel lot or tract has direct access as defined in DCC Chapter 18. 16.042( B)(3)( c).
+d. Adequate traffic control must be provided by the property owner to address the
+following:
+i. There shall be one traffic control person for each 250 persons expected or
+reasonably expected to be in attendance at any tme.
+ii. All traffic control personnel shall be certified by the State of Oregon and shall
+comply with the current edition of the Manual of Uniform Traffic Control Devices.
+11. Health and Safe, Compliance
+a All permanent and temporary structures and facilities are subject to fire, health and life
+safe requirements and shall comply with all requirements of the Deschutes County
+Page 7 of 8 - EXHIBIT B to Ordinance 2012- 004
+Building Safetv Division and the Environmental Soils Division and any other applicable
+federal, state and local laws.
+b Compliance with the requirements of the Deschutes County Building Safety Division
+shall include meeting all building occupancy classification requirements of the State of
+Oregon adoptedbuilding c ode.
+12 The maximum number of people shall not exceed 500 per calendar day.
+13 Agri- Tourismand other Commercial Events or Activities shall not be allowed:
+a Within the County adopted big game winter ranges during; the months of December
+through March.
+b Within the County adopted big ame migration corridors during the month of April and
+during the months of October and November.
+c Within the County adopted sensitive bird and mammal habitat areas as defined in DCC
+18. 90.020, unless a site has had no nesting a_ ttemptor the nest has failed, as determined
+by a professional wildlife biologist in May of the calendar year in which the application
+is approved unless a site has had no nesting attempt or the nest has failed which could be
+determined in May by a professional wildlife biologist.
+Ord. 2012- 004, § 2, 2012)
+18. 16.043 Sinele Permit.
+A The maximum number of age- tourism and other commercial events or activities on a lot, parcel
+or tract may not exceed the total number of commercial events allowed by any individual land
+use approval including a winery authorized under DCC 18. 16.038( B) and events, outdoor mass
+gatherings or extended outdoor mass gatherings authorized under DCC Chapter 8. 16. B.
+The following permits may not be combined:
+1 Agri- tourism and other commercial events or activities under DCC 18. 16.042,
+2. Winery under DCC 18. 16.038( B),
+3 Events outdoor mass gatherings, extended outdoor mass gatherings, paradesor funeral
+processionsauthorized under DCC Chapter 8. 16,
+4. Home occupation for commercial events or activities.
+Ord. 2012- 004, § 2, 2012)
+Page 8 of 8 - EXHIBIT B to Ordinance 2012- 004

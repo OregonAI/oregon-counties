@@ -1,0 +1,116 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-99-037
+title: 'Ordinance No. 99-037'
+doc_type: ordinance
+citation: 'Ordinance No. 99-037'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616803578_1999-1107-Ordinance%20No.%2099-037%20Recorded%2012_15_1999.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: c376147e8cfd343930634ec6571bcb3c4cf740ba7a9ec5ebddb44b2a4bef84b1
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 99-037 (Ordinance No. 99-037)
+
+## At a glance
+
+Ordinance No. 99-037 — orders of Deschutes County. 4 pages.
+
+## Full text
+
+VOL: CJ1999 PAGE: 1107
+RECORDED DOCUMENT
+STATE OF OREGON
+COUNTY OF DESCHUTES
+01999- 1107 * Vol - Page Printed: 12/ 16/ 1999 08: 56: 31
+DO NOT REMOVE THIS CERTIFICATE
+This certificate constitutes a part of the original instrument in accordance with
+ORS 205. 180( 2). Removal of this certificate may invalidate this certificate and affect
+the admissibility of the original instrument into evidence in any legal proceeding.)
+I herebycertify that the attachedinstrumentwas received
+and duly recorded in Deschutes County records:
+DATE AND TIME:
+DOCUMENT TYPE:
+Dec. 15, 1999; 4:52 p.m.
+Ordinance ( CJ)
+NUMBER OF PAGES: 3
+MARY SUE PENHOLLOW
+DESCHUTES COUNTY CLERK
+KEY N Eo
+DE 161999
+1111qw-Ild
+REVIEWED AS TO FORM REVIEWED
+Code Review Committee nse,
+BEFORETHEBOARDOFCOUNTYCOM USSIONERSOFDESCHUTESCOUNW, 6" do H 4: 52
+An OrdinanceAmending DCC 4.20.045 * MARYSUEi'ENNOLLOW
+and 4.20.050 Relating to the Public COUNTYCLERK
+Land Corner Preservation Fund,
+andDeclaringanEmergency.
+ORDINANCE NO. 99- 037
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, ORDAINS
+as follows:
+Section 1. AMENDMENT. Deschutes County Code 4.20.045, Definiton —
+Instrument, is amended to read as described in Exhibit " A," attached hereto and by this reference
+incorporated herein, with new language underlined and language to be deleted in str nzirough
+Section 2. AMENDMENT. DeschutesCounty Code4.20.050, Feeestablished —
+Disposition, is amended to read as described in Exhibit ` B," attachedhereto and by this reference
+incorporated herein, with new language underlined and language to be deleted in strflwthrough.
+Section 3. EMERGENCY. This Ordinancebeing necessaryfor the immediate
+preservation of the public peace, health and safety, an emergencyis declared to exist, and this
+Ordinance takes effect on its passage.
+1,
+DATED this e --dayof December1999.
+ATTEST:
+qw -
+RecordingSecretary
+PAGE 1 of 1 - ORDINANCE NO. 99- 037 ( 12- 15- 99)
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON,
+r y a) j
+LINDA L. SWEARINGEN, Chair
+R. LUKE, Commissioner
+i
+EXHIBIT " A" TO ORDINANCE 99-037
+4. 20. 045. Definition - Instrument.
+sale, waffwAy deed,
+and -any ether -document described in Oregon
+Revised Statutes 205. 130( 2).
+Ord. 99- 037 § 1, 1999; Ord. 87- 027 § 2,
+1987)
+Page 1 of I — EXHIBIT " A" TO ORDINANCE 99- 037 ( 12- 15- 99)
+EXHIBIT ` B" TO ORDINANCE 99- 037
+4. 20. 050. Fee established - Disposition.
+The CountyClerk .shall collecta fee for the
+recordingof an instrumentas definedin this
+chapter in the amount of five - ten dollars per
+instrument. This fee shall be in addition to
+any other fee chargedby the CountyClerk.
+At least once a month the County Clerk shall
+deposit with the county treasurerall fees
+received pursuant to this chapter in the public
+land corner preservation account.
+Ord. 99- 037 § 2, 1999; Ord. 87- 027 § 3,
+1987; Ord. 86- 014 § 3, 1986)
+Page 1 of 1 — EXHIBIT ` B" TO ORDINANCE NO. 99- 037 ( 12- 15- 99)

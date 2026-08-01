@@ -1,0 +1,340 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2011-013
+title: 'Ordinance No. 2011-013'
+doc_type: ordinance
+citation: 'Ordinance No. 2011-013'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617039219_2011-109-Ordinance%20No.%202011-013%20Recorded%204_11_2011.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 1d870ef056eff276fb448916a388c171e37dcbe29c64f66227955d2a6ea58c07
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2011-013 (Ordinance No. 2011-013)
+
+## At a glance
+
+Ordinance No. 2011-013 — orders of Deschutes County. 9 pages.
+
+## Full text
+
+RE D
+CODE REVIE COMMITTEE
+DESCHUTES COUNTY OFFICIAL
+NANCY BLANKENSHIP, COUNTY
+COMMISSIONERS' JOURNAL
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+2011- 108
+RECORDS
+CJ2011109CLERK 1rd
+04/ 11/201108;38;35 AM
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County Code
+2. 60, Ratifying an IntergovernmentalAgreement * ORDINANCE NO. 2011-013
+Establishing the Central Oregon Health Board as
+an Intergovernmental Entity and Declaring an
+Emergency.
+WHEREAS, the public health service providers in Crook, Jefferson and Deschutes Counties
+Parties")find that it is their mutual self interest, as well as the best interest of the public to fully integrate the
+management, delivery, and oversight of the provision of local health services, including public health and
+behavioral health services; and,
+WHEREAS, the Parties have entered into an intergovernmentalagreement, whose purpose it is to
+establish an intergovernmentalentity, which would enable the Parties to collectively contract with the State
+of Oregon and other public and private healthcare providers; further the coordination and continuity of quality
+health services to the residents of all three counties; and seek to achieve the Triple Aim of improving health
+outcomes, increase satisfaction with the healthcare delivery systems and reduce costs; and,
+WHEREAS, the Board of County Commissioners (` Board") agrees that the intergovernmental
+agreement (IGA) as recommended by the Director of the Health Department is in the best interest of the County;
+and,
+WHEREAS, ORS 190. 085 requires local governments to ratify the creation of
+intergovernmental entities through intergovernmental agreements via ordinances prior to the effective
+date of such agreements; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. The Board hereby declares its intent to create an intergovernmental entity by
+intergovernmentalagreement (IGA) with the Crook County and Jefferson County.
+Section 2. The intergovernmentalentity shall be known as the Central Oregon Health Board.
+Section 3. The IGA, attached as Exhibit A and incorporated by reference, describes the powers, duties
+and functions of the Central Oregon Health Board, and is hereby ratified.
+Section 4. According to the terms of the IGA, the Central Oregon Health Board shall ' be
+formed and the IGA effective upon the ratification of that IGA by the Board, the Crook County Court
+and the Jefferson County Board of Commissioners.
+PAGE 1 OF 2 - ORDINANCE NO. 2011-013 ( 04/ 06/2011)
+Section 5. AMENDMENT. DCC 2. 60 is amended to read as described in Exhibit " B," attached hereto
+and by this reference incorporated herein, with new language un erlined and language to be deleted in
+soike&eugh.
+Section 6. EMERGENCY. This Ordinance being necessary for the immediate preservation of the
+public peace, health and safety, an emergency is declared to exist, and this Ordinance takes effect on its passage.
+DATED this day of - , 2011.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+TAMMY BANEY, Chair
+Xa~A~~
+TONY DEBONE, Commissioner
+al6t' UA'4~
+ALAN UNGER, Commissioner
+Date of 1stReading: V ~ day of 2011.
+Date of 2ndReading: l~ day of 2011.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Tammy Baney
+Tony DeBone
+Alan Unger
+Effective date: V , day of 2011.
+ATTEST:
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2011- 013 ( 04/ 06/2011)
+AREEVIj
+LEGAL COUNSEL
+EXHIBIT A
+CENTRAL OREGON HEALTH BOARD
+INTERGOVERNMENTAL AGREEMENT
+This Agreement, entered into by Deschutes, Jefferson and Crook Counties ( herein collectively
+referred to as " Counties" or " Parties") pursuant to ORS Chapter 190 to form an intergovernmental
+entity to be referred to as the Central Oregon Health Board (" COHB" or " BOARD"). Each Party is a
+political subdivision of the State of Oregon.
+WHEREAS, each of the Parties to this Agreement has authority to preform the functions, duties, and
+responsibilities set out in this Agreement itself or by agreement with the other Parties; and
+WHEREAS, the Parties to this Agreement wish to form an intergovernmental entity to perform the
+functions, duties and responsibilities set out in this Agreement in the interest of 1) furthering economy
+and efficiency in the delivery of local health services, including public health and behavioral health
+services, 2) collectively contracting with the State of Oregon and other public and private health
+entities, 3) furthering coordination and continuity of quality health services to the residents of all three
+Counties; and 4) achieving the Triple Aim: improve health outcomes, increase satisfaction with the
+health systems and reduce costs.
+THE PARTIES AGREE AS FOLLOWS:
+1. PURPOSE: This Agreement establishes and forms a three county intergovernmental entity to
+be known as the Central Oregon Health Board, hereinafter known as BOARD. The BOARD is
+to promote the health of the Central Oregon region and its residents. It seeks to improve
+health outcomes, increase satisfaction with our health systems and reduce cost. The goal is
+to manage resources efficiently and effectively, in collaboration with local and State
+Government, the hospital system, local providers, private insurers, health collaboratives and
+most importantly our community and the people we serve.
+2. EFFECTIVE DATE: This Agreement shall be effective when fully executed by all Parties.
+3. FUNCTIONS: The BOARD will contract and administer contracts with the State of Oregon
+and any other public and private entity to provide or secure a wide range of health services
+including behavioral health, physical health and public health ( collectively " Health Services").
+In addition the BOARD will perform the following:
+a. Conduct a periodic regional health assessment to inform decision- makers on such
+matters as planning, policy development, system design and investments.
+b. Develop and establish policies that will support Health Services on behalf of the
+Central Oregon population.
+C. Improve the coordination of funding for Health Services among the Parties and
+relevant stakeholders. This includes establishing financial systems, maintenance of
+financial reserve requirements, policies, and monitoring sub- capitatedfunds of the
+Parties and other Health Service providers in Central Oregon.
+1 of 5 - INTERGOVERNMENTAL AGREEMENT- Doc# 2011- 176
+oC 2011 ® 176
+For Recording Stamp Only
+d. Develop and adopt a coordinated regional Health Improvement Plan to improve
+collaboration among health care providers.
+e. Collect and analyze health system costs and outcome data to measure the quality and
+performance of the health system in order to lower costs, increase access, improve
+satisfaction and increase efficiency. This includes establishing management
+information systems to meet reporting requirements.
+f. Promote evidence- based practices and prevention programs, including, but not limited
+to: quality assurance guidelines and oversight, utilization management for services
+both inpatient and outpatient, and providing member services including education and
+prevention activities.
+g. Promote models of care that improve the provision of services for patients among
+various providers so that individuals can navigate service systems successfully. This
+would include the development and implementation of processes for hearing,
+monitoring and resolving complaints and grievances.
+h. Hiring employees to perform administrative tasks and other duties as assigned or
+delegated by the Governing Board and Administrative Council.
+4. FUNDING: The BOARD shall receive funding through contracts with the State of Oregon and
+any other public or private entity and shall be fully responsible for all funding of the BOARD'S
+functions, duties and responsibilities under this Agreement. Each Party to this Agreement
+shall receive funding from the BOARD, and each of the Parties to this Agreement shall be fully
+responsible for all funding of that Party's functions, duties and responsibilities under the
+Agreement.
+5. TERM: This Agreement shall be in effect for the life of the BOARD. Should any Party wish to
+withdraw from the BOARD, the remaining Parties shall negotiate a new Agreement.
+6. TERMINATION: This Agreement may be terminated, in writing, by mutual consent of all the
+Parties, or by agreement of any two of the Parties, provided that one of those two Parties is
+Deschutes County. It shall expire with no further action of any of the Parties should the
+BOARD terminate or be dissolved. As the Agreement creates the BOARD, termination of the
+Agreement terminates the BOARD.
+7. DEBTS, LIABILITIES AND OBLIGATIONS: All debts, liabilities, and obligations of any of the
+Parties shall be and shall remain debts, liabilities, and obligations of that or those Parties and
+shall not become debts, liabilities, and obligations of any other Party or Parties or of the
+BOARD. Debts and obligations shall remain the liabilities of the incurring Party, whether or
+not that Party remains a member of the BOARD. All debts, liabilities, and obligations incurred
+by or on behalf of the BOARD shall remain debts, liabilities, and obligations of the BOARD.
+Notwithstanding any other provision of this Agreement, this provision shall survive termination
+or dissolution of this Agreement.
+8. DISSOLUTION: Upon dissolution of the BOARD, any assets, other than the reserve funds
+discussed in Section 10 below, acquired by the BOARD during its existence shall be
+distributed proportionate to a Party's contribution to the operating budget of the Authority
+between all the Parties which are members of the BOARD at the date of dissolution. Except
+as provided in Section 10, no distribution shall be made to any original Parties to this
+Agreement which are no longer members at the date of dissolution. Any indebtedness of the
+BOARD, outstanding at the date of dissolution, shall be satisfied before assets are distributed.
+In satisfying such outstanding indebtedness, assets of the BOARD shall be applied first, and
+2 of 5 - INTERGOVERNMENTAL AGREEMENT- Doc# 2011- 176
+only after those assets have been exhausted may the reserves discussed in Section 10,
+below, be applied to the debt. Should there be sufficient assets to satisfy all debts and claims
+against the BOARD, then each Party shall be entitled to a refund based upon the proportion of
+the Party's funding contributions since the inception of this Agreement.
+9. WITHDRAWAL: If a Party to this Agreement withdraws from this Agreement prior to
+dissolution, that Party shall not be entitled to any distribution of BOARD assets or funds
+except for reserves, as set out in Section 10, below. A withdrawing Party shall be entitled to a
+distribution of any contribution by that Party to the reserve fund, described in Section 10, less
+the amount needed to satisfy all outstanding claims, debts, liabilities and obligations of or
+against the BOARD for or on behalf of that Party prior to or at the time of withdrawal.
+10. RESERVES: The Reserves are those sums contributed after negotiation by the Parties to
+cover start-up and initial administrative expenses. Reserves shall not be considered assets of
+the BOARD for purposes of this Agreement. Should one of the Parties to this Agreement
+withdraw from this Agreement without the remaining Parties dissolving the BOARD or upon
+dissolution of the BOARD, the withdrawing Party shall be entitled to receive a proportionate
+refund of its initial contribution to the reserves of the BOARD and a proportionate refund of its
+enrolled population contribution under State funding made since inception of this Agreement.
+This refund shall be paid from available funds, if any, and shall not, in any event, exceed the
+contributions of the individual withdrawing Party. In determining available funds, a sum equal
+to the amount necessary to cover any outstanding claims, debts, liabilities or obligations of or
+against the BOARD for services rendered to the BOARD prior to or at the time of the
+withdrawal shall be set aside before any distribution Is made.
+11. GOVERNING BOARD: The BOARD shall be governed by a three- member governing board.
+The governing board shall be comprised of one commissioner from each of the Boards of
+Commissioners or the County Court of each County. Each commissioner shall be appointed
+by his or her respective Boards of Commissioners or County Court. The governing board
+shall have the following rights and responsibilities: establish overall governing guidelines,
+appoint members of advisory boards, hire and evaluate the performance of the Executive
+Director, appoint and oversee the Administrative council, oversee the operation of the
+BOARD, and any other right or responsibility deemed necessary and appropriate. The
+governing board has the authority to enact bylaws which shall govern its actions.
+12. GOVERNING BOARD VOTING: Decisions of the BOARD will require a majority vote and
+must include support from Deschutes County. On issues of potential disagreement, the
+Governing Board may request recommendations from the Administrative Council. Under
+extraordinary situations, a County representing a minority view may, with the agreement of
+that County's governing body, ask for a joint meeting of the three Counties' governing bodies.
+13. ADMINISTRATIVE COUNCIL: The Administrative Council (" Council") shall be comprised of
+thirteen- fifteen members: ( 1) one behavioral health representative and ( 1) one public health
+representative from each of the counties which are Parties to this Agreement, to be appointed
+by the governing body of his/ her county and ( 7- 9) members to be appointed by the governing
+board in accordance with the provisions of the adopted bylaws representing stakeholder,
+hospital system, local providers, private insurers, safety net providers and other community
+members as appropriate.
+The Council shall have the following rights and responsibilities: recommend goals and
+objectives for the BOARD; establish standards and administrative and operational policies;
+assure provision of appropriate service delivery; advice on strategic and operational matters;
+3 of 5 - INTERGOVERNMENTAL AGREEMENT- DOc# 2011- 176
+develop projects and action plans in support of regional policies; develop a Health
+Improvement Plan and performance outcomes and any other rights or responsibilities that are
+deemed necessary by the Governing Board. The Council has the authority to enact bylaws
+which shall be approved and adopted by the Governing Board and which shall govern its
+actions.
+14. EXECUTIVE DIRECTOR: The Governing Board shall hire an Executive Director who shall
+have the following rights and responsibilities: monitor Authority activities for contract and
+regulatory compliance, enter into contracts for the provision of physical health, public health,
+social services and behavioral health services, oversee day- to-day operations of the BOARD;
+and work with the Administrative Council to set goals and objectives for the BOARD, establish
+standards and administrative policies and procedures and any other rights and responsibilities
+that are deemed necessary by the Governing Board.
+15. MERGER: This Agreement is intended both as the final expression of the Agreement
+between the Parties with respect to the included terms and as a complete and exclusive
+statement of the terms of the Agreement.
+16. MODIFICATIONS: No modification of this Agreement shall be effective unless and until it is
+made in writing and signed by all Parties.
+17. HOLD HARMLESS: Each of the Parties shall be solely responsible for any liability incurred
+by that Party. To the extent possible under the limits of the Oregon tort Claims Act, each
+Party shall hold the others harmless, indemnify and defend the others' officers, agents and
+employees from any and all liability, actions, claims, losses, damages, or other costs including
+attorney's fees and witness costs ( at both trial and appeal level, whether or not a trial or
+appeal ever take place) that may be asserted by any person or entity arising from, during, or
+in connection with the performance of the work described in this Agreement, except liability
+arising out of the sole negligence of one or more of the other Parties or its or their employees.
+If any aspect of this indemnity shall be found to be illegal or invalid for any reason whatsoever,
+such illegality or invalidity shall not affect the validity of the remainder of this indemnification.
+18. SEVERANCE: if any aspect of this Agreement shall be found to be illegal or invalid for any
+reason whatsoever, such illegality or invalidity shall not affect the validity of the remainder of
+this Agreement.
+19. NONDISCRIMINATION: The Parties shall comply with all applicable federal, state, and local
+laws, rules and regulations on nondiscrimination in employment because of race, color,
+ancestry, national origin, religion, sex, marital status, age, medical condition or disability,
+sexual orientation or any other protected status or class.
+20. CONTRACT EXECUTION IN COUNTERPARTS: This Agreement shall be comprised of three
+separate original documents, identical but for the signature blocks. The governing body of
+each Party shall execute and date one of the separate original documents. Pursuant to
+section 2, this Agreement shall be final upon the date of the last signature. Deschutes County
+shall compile the three separate original documents into one document. From that time
+forward, this compilation shall be considered the original Agreement. Deschutes County shall
+provide a full copy of this Agreement to each of the other Parties and shall maintain the
+original in its records.
+4 of 5 - INTERGOVERNMENTAL AGREEMENT- Doc# 2011- 176
+DATED this day of , 2011.
+DESCHUTES COUNTY BOARD OF DIRE TORS
+TAMMY
+BANE/Y~C, ou/nt
+Commissioner
+ANTHONY ~~
+DeBONE,
+County Commissioner
+C al- l.
+ALAN UNGER, County Commissioner
+5 of 5 -INTERGOVERNMENTAL AGREEMENT- Doc# 201 1- 176
+EXHIBIT B
+Chapter 2. 60. INTERGOVERNMENTAL ENTITIES
+2. 60.010. Purpose.
+2. 60.020. Definition- IntergovernmentalEntity.
+2. 60.030. Accountable Behavioral Health Alliance.
+2. 60.040. Central Oregon Law Enforcement Services.
+2. 60.050 Central Oregon Health Board
+2. 60.010. Purpose.
+The purpose of DCC 2. 60 is to ratify the creation of intergovernmental entities through intergovernmental
+agreements pursuant to ORS 190. 085.
+Ord. 97- 039 § 1, 1997)
+2. 60.020. Definition- IntergovernmentalEntity.
+For purposes of DCC 2. 60, "intergovernmental entity" shall mean an entity created through an
+intergovernmental agreement pursuant to ORS 190 governed by a board or commission appointed by,
+responsibleto, and acting on behalf of the partiesto the intergovernmentalagreement.
+Ord. 97- 039 §1, 1997)
+2. 60.030. Accountable Behavioral Health Alliance.
+A. Deschutes County ratifies the creation of the Accountable Behavioral Health Alliance ( Alliance).
+B. The Alliance shall have the power to enter into contracts, provide mental health services under the
+Oregon Health Plan, provide behavioral health services as a unified entity, and provide all
+administrative services necessary for the provision of these services.
+Ord. 97- 039 §1, 1997)
+2. 60.040. Central Oregon Law Enforcement Services.
+A. Deschutes Countyratifies the creation of Central OregonLaw Enforcement Services ( COLES).
+B. COLES shall have the power to enter into contracts, provide agreedupon law enforcement services as
+a unified entity and provide all administrative and support services necessary for the provision of these
+services.
+Ord. 99- 002 §1, 1999)
+2. 60.050. Bend Metropolitan Planning Organization.
+A. Deschutes County ratifies the creation of the Bend Metropolitan Planning Organization (BMPO).
+B. The BMPO shall have the power to enter into contract, incur debt, own property and provide all
+administrative and support services necessary for the provision of transportation planning services for
+the Bend Metropolitan Area.
+Ord. 2002- 034 § 5, 2002)
+Chanter 2. 60 1 ( 04/ 2011)
+2. 60.060 Central Oregon Health Board
+A Deschutes County ratifies the creation of the Central Oregon Health Board.
+B The Central Oregon Health Board shall have the power to enter into contracts, provide health and
+behavioral health care services as a unified entity and provideall administrative and support
+services necess fart or the provision of such services for the residents of Deschutes, Crook and
+Jefferson counties.
+Ordinance No. 2011-013, §3, 2011)
+Chapter 2. 60 2 ( 04/ 2011)

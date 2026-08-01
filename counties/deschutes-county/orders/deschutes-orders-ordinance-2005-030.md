@@ -1,0 +1,236 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2005-030
+title: 'Ordinance No. 2005-030'
+doc_type: ordinance
+citation: 'Ordinance No. 2005-030'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616979838_2005-819-Ordinance%20No.%202005-030%20Recorded%206_22_2005.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: db0c3def07805df9e411acaee84aa1d9e7fb97fec28530f4055a0038792423db
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2005-030 (Ordinance No. 2005-030)
+
+## At a glance
+
+Ordinance No. 2005-030 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+A-OA4
+L
+CODE REVIEW COMMITTEE
+DESCHUTES COUNTY OFFICIAL RECORDS
+NANCY BLANKENSHIP, COUNTY CLERK
+COMMISSIONERS' JOURNAL
+2005- 819
+V9194/ 0vu v4: 011 Fn
+ror i- xcuruuig otainp umy
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 8 Chapter 24, of the
+DeschutesCounty Code Per -taming to the Project ORDINANCE NO. 2005- 030
+Wildfire Steering Committee.
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC, Title 8, Chapter24 is amended to read as described in Exhibit " All
+attached hereto and by this reference incorporated herein, with new language underlined and language to be
+deleted in stfiket4eug .
+t- 1
+DATED this,) 9—' dayof 2005.
+ATTEST:
+Recording Secretary
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+TOM DEWOLF, Chair
+X. LUKE, Commissioner
+Date of I" Reading: &  day of 2005.
+P4
+Date of 2ndReading -z52? Fdayof 2004.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Tom DeWolf
+Michael M. Daly
+Dennis R. Luke
+I,-*
+Effective date: ON --
+day of 2005.
+PAGE 1 OF I - ORDINANCE NO. 2005- 030 ( 06/ 08/ 05)
+EXHIBIT " A"
+Chapter 8. 24. PROJECT WELDFIRE
+STEERING
+COMMITTEE
+8. 24. 010. Formation.
+8. 24. 020. Membership and expenses.
+8. 24. 030. Election of chair and vice chair.
+8. 24. 040. Quorum.
+8. 24. 050. Meeting schedule.
+8. 24. 050. Powers and duties.
+8. 24. 070. Advisory role.
+8. 24. 010. Formation.
+A steering committee is hereby formed to
+coordinate, develop and implement strategiesto
+mitigate the effects of losses due to wildfires that
+strike DeschutesCounty. The committee shall be
+called the Project Wildfire Steering Committee
+and shall serve as a local coordination group for
+DeschutesCounty.
+Ord. 2003- 032 § 1, 2003; Ord. 2000- 005 § 1,
+2000)
+8. 24. 020. Membership and expenses.
+The committee shall be composed of 15 to 27
+members who reside or represent agencies within
+Deschutes County. All members shall be
+appointed by the Board of County
+Commissioners. The terms of the members shall
+be four years, commencingon January1, of an
+even numbered year. Appointments shall be on a
+calendar basis. Not more than one- half of all
+appointments shall expire in any even numbered
+calendar year.
+A. Committee members shall be representative
+of the entire County. As closely as possible,
+membersshall be madeup of the following
+persons, groups or entities:
+I . A member from the insuranceindustry.
+2. A memberfromthebusinesscommunity.
+3. A member from the marketingl
+communicationsindustry.
+4. The County Forester.
+5. At least two revresentatives of
+Homeowners Associations. 1 ... . ......... ­­ . .............. . .... ­_.____._.
+6. At least four representatives chosen from
+Fjrp__PppaKniqqs and/ or Rural Fire
+Protection Districts in Deschutes Cog" t
+7. A County Commissioner.
+8. A representative from the 9-1 -1 County
+Service District.
+9. A representative from the County
+Community Development Department
+10. A representativeof the private forestry
+community.
+11. A representative from the Sheriff' s
+Office emergency management program.
+12. Up to an additional three at -large
+members.
+B. In addition to the members allowed under A.
+above, the Board may appoint additional
+representatives from:
+I . A representative of the Oregon
+Department of Forestry.
+2. A representative of the U. S. Forest
+Service.
+3. A representative of the Bureau of Land
+Management.
+4. A representative of the Oregon State
+University Extension District.
+5. A revresentative from Central Ore2on
+Community College.
+6. A revresentative from the environmental
+tv.
+C. Committee members shall receive no
+compensation, but shall be reimbursed for
+authorized expenses.
+D. A member of the committee may be removed
+by the Board of County Cominissioners for
+misconduct, nonperformanceof duty, or three
+successive unexcused absences from a
+regularly scheduled meeting.
+E. Vacancies in the committee shall be filled by
+an appointment by the Board of County
+Commissioners for the unexpired term of the
+predecessor in the office.
+F. The membership of the committee shall, as
+much as possible be representative of the
+various geographical parts of Deschutes
+County.
+Page I of 2 - Exhibit A - Ordinance No. 2005- 029 ( Draft 5/ 16/ 2005)
+EXHIBIT " A"
+Ord. 2005- 029 § 1, 2005, Ord. 2003- 032 § 1,
+2003; Ord. 2000- 005 § 1, 2000)
+8. 24. 030. Election of chair and vice chair.
+At its first meetingin Januaryof eachyear, the
+committeeshallelectfromamongits membership
+a chair and a vice chair. No person shall be chair
+for more than two years in succession.
+Ord. 2000- 005 § 1, 2000)
+8. 24. 040. Quorum.
+A majority of the membersof the committee shall
+constitute a quorum. The committee may
+establish rules, regulations, and procedures for its
+operation consistent with the laws of the state and
+DeschutesCounty.
+Ord. 2000- 005 § 1, 2000)
+8. 24. 050. Meeting schedule.
+The cominittee shall have regularly scheduled
+meetings at leastonce every 3 months.
+Ord. 2003- 032 § 1, 2003; Ord. 2000- 005 § 1,
+2000)
+8. 24. 060. Powers and duties.
+Thecommitteeshallhavethefollowingduties:
+A. To reducepotentiallossof life andproperty
+through natural and man -causeddisastersby
+enhancing public awareness, expanding
+community partnerships and prioritizing
+potential hazard mitigation projects, using
+stakeholder and citizen input. This shall be
+accomplished by working to coordinate
+activities with and between other public and
+private groups, entities and persons to plan
+for and implement both wildfire and other
+natural hazard mitigation plans and actions as
+efficiently as possible.
+B. AdvisetheBoardof CountyCommissioners,
+Project Wildfire staff and the Deschutes
+County Office of EmergencyManagement
+and other agencies and programs on adoption
+and implementation of wildfire mitigation
+and other naturalhazardprojects, including
+but not lin-fited to Hazard Mitigation
+programs approved by the Federal
+EmergencyManagementAgency (FEMA).
+Ord. 2003- 032 § 1, 2003; Ord. 2000- 005 § 1,
+2000)
+8. 24. 070. Advisory role.
+The committee may:
+A. Recommend and make suggestions to
+persons, groups, and entities concerning
+disaster response plans, needed changes in
+state or local laws and regulations, and
+provide assistance to such persons, groups,
+and entities to implement such suggestions.
+B. Recommend to public authorities standards
+for regulating the future growth and
+developmentwithin DeschutesCounty and
+its incorpor-ated cities to address disaster -
+planning issues in each jurisdiction.
+C. Perform such other review and make
+whatever other recommendations on disaster
+planning matters as may be appropriate or
+may be requestedby the Board of County
+Commissioners or any city council, person,
+group or entity.
+Ord. 2000- 005 § 1, 2000)
+Page 2 of 2 - Exhibit A - Ordinance No. 2005- 029 ( Draft 5/ 16/ 2005)

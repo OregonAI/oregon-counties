@@ -1,0 +1,478 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-97-048
+title: 'Ordinance No. 97-048'
+doc_type: ordinance
+citation: 'Ordinance No. 97-048'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616785307_1997-20349-Ordinance%20No.%2097-048%20Recorded%206_12_1997.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a58d66ab26053d5a90ddc85a493e59531d8d572be192e5719caa44afa9de0528
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.042
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 97-048 (Ordinance No. 97-048)
+
+## At a glance
+
+Ordinance No. 97-048 — orders of Deschutes County. 13 pages.
+
+## Full text
+
+a _
+REVIEW D
+ss2 S6
+9' 7. 203, 19
+LEGAL COUNSEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 21 * (( j: 172
+of the Deschutes County Code, and * , t
+Declaring an Emergency.
+ORDINANCE NO. 97- 048
+WHEREAS, the Urban Growth Management Agreement ( Agreement) between the City of Sisters and
+DeschutesCounty provides that DeschutesCounty shall retain jurisdiction over quasijudicial land use decisions
+within the unincorporated urbanizable area; and
+WHEREAS, ORS 215.042 provides that the governing body of Deschutes County shall designatethe
+individual to serveasplanning director who is responsiblefor administration of planning; and
+WHEREAS, in Title 21 of the DeschutesCounty Code the definition of Planning Director is in conflict
+with the Agreement; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. Amendment. Section21.04.530, Definition -PlanningDirector, of the DeschutesCounty Code is
+amendedto read as describedin Exhibit A, attachedhereto and by this referenceincorporated herein, with new
+language underlined and language to be deleted in stfilethfough
+Section 2. Amendment. Section 21.60.100, Notification of Action, of the Deschutes County Code is
+amended to read as described in Exhibit B, attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in str4kethfaugh
+Section 3. Amendment. Section 21. 72.040, Resolution of Intent to Rezone, of the Deschutes County Code
+is amendedto read as describedin Exhibit C, attachedhereto and by this referenceincorporatedherein, with new
+language underlined and language to be deleted in s#r-ile4weugh
+Section 4. Amendment. Section 21. 84.010, Enforcement, of the Deschutes County Code is amended to
+read as described in Exhibit D, attached hereto and by this reference incorporated herein, with new language
+underlined and language to be deleted in str-iledffeugh
+Section 5. Amendment. Section 21. 84.040, Evidence, of the Deschutes County Code is amended to read as
+describedin Exhibit E, attachedhereto and by this referenceincorporated herein, with new languageunderlined
+and language to be deleted in st-Filethfeugh
+Section6. Amendment. Section21.88.010, Validity, of the DeschutesCounty Code is amendedto readas
+describedin Exhibit F, attachedhereto and by this referenceincorporated herein, with new languageunderlined
+and language to be deleted in strikethfough
+Section 7. Amendment. Subsection 21. 92.010( G), Mobile Home Standards, of the Deschutes County Code
+is amendedto read as describedin Exhibit G, attachedhereto andby this referenceincorporatedherein, with new
+language underlined and language to be deleted in stfikethf,,,, g
+PAGE 1 - ORDINANCENO. 97- 048 ( 6- 11- 1997)
+11162- p15i'
+Section 8. Amendment. Section 21.96.020. Site Plan Approval Required, of the DeschutesCounty Code
+is amendedto read as describedin Exhibit H, attachedhereto and by this referenceincorporatedherein, with new
+language underlined and language to be deleted in str4 ,ethf,, ugh
+Section 9. Amendment. Section 21. 96. 030, Site Plan: Contents and Procedure, of the Deschutes County
+Code is amendedto read as describedin Exhibit I, attachedheretoand by this referenceincorporatedherein, with
+new language underlined and language to be deleted in s*r-iked,,.,,,, g
+Section10. Amendment. Section21.108.080, Provisionsfor Parkingin the GeneralCommercialDistrict,
+of theDeschutesCountyCodeis amendedtoreadasdescribedin ExhibitJ, attachedheretoandbythisreference
+incorporated herein, with new language underlined and language to be deleted in st-Filethfough
+Section11. Severability. Theprovisionsof thisordinanceareseverable. If anysection, sentence, clauseor
+phraseof this ordinanceis adjudgedto beinvalidby a courtof competentjurisdiction, thatdecisionshallnotaffect
+the validity of the remaining portions of this ordinance.
+Section 12. Codification County Legal Counselshall have the authority to format the provisions
+containedhereinin a mannerthatwill integratetheminto theCountyCodeconsistentwith theDeschutesCounty
+Form and Style Manual for Board Documents. Such codification shall include the authority to make such changes,
+to makechangesin numberingsystemsandto makesuchnumberingchangesconsistentwith interrelatedcode
+sections. In addition, as part of codification of these ordinances, County Legal Counsel may insert appropriate
+legislative history reference. Any legislativehistory referencesincludedhereinarenot adoptedas part of the
+substance of this ordinance, but are included for administrative convenience and as a reference. They may be
+changedto correcterrorsandto conform to proper style without action of the Board of County Commissioners.
+Section 13. Emergency. This ordinance being necessaryfor the immediate preservation of the public
+peace, healthandsafety, anemergencyisdeclaredtoexist, andthisordinancetakeseffectonitspassage.
+DATED this 1lthday of June, 1997.
+RD OF CNUNTY COI/ IMISSIONERS OF
+CHUTES LINTY, GON
+Chair
+ATTEST: ROrERT L. NIPPER, C
+fes
+Recording Secretary
+i NDA L. SWVXRING
+PAGE 2 - ORDINANCE NO. 97- 048 ( 6- 11- 1997)
+EXHIBIT A
+21.04.530. Definition - Planning director.
+The Dieter- of the City' s
+Depai4fnent ortrisate. The Planning
+Director is the individual, or his or her delegate,
+appointed by the Deschutes County Board of
+Commissioners pursuant to ORS 215. 042. ( Ord.
+97- 048 § 1, 1997)
+PAGE 1 - EXHIBIT A TO ORDINANCE 97- 048 ( 6- 11- 1997)
+EXHIBIT B
+21. 60. 100. Notification of action.
+The Planning Director or
+Hearings Body shall notify the applicant for a
+conditional use in writing of the Planning
+G,,..,
+missi Director' s or Hearings Body' s
+action within 10 days after the decision has been
+rendered. ( Ord. 97- 048 § 2, 1997; Ord. PL - 17 §
+20( 10), 1979)
+PAGE 1 - EXHIBIT B TO ORDINANCE 97- 048 ( 6- 11- 1997) 1
+EXHIBIT C
+21. 72. 040. Resolution of intent to rezone.
+If, from the facts presented and findings and
+the report and recommendations of the 1itYg
+Comm trHearin s Officer as required by this
+section, the CityGouneil and County
+Commission determine that the public health,
+safety, welfare and convenience will be best
+served by a proposed change of zone, the City
+Eeuneil and County Commission may indicate its
+general approval in principal of the proposed
+rezoningby theadoptionof a "resolutionof intent
+to rezone." This resolution shall include any
+conditions, stipulations or limitations which the
+Gity cokineil an County Commissionmay feel
+necessary to require in the public interest as a
+prerequisite to final action, including those
+provisions which th„ City
+r,,,
+neil an County
+Commission may feel necessary to prevent
+speculative holding of the property after
+rezoning. T-- fid4liment of all nditions
+Git C it and County Go missir ni Such a
+resolution shall not be used to justify spot zoning
+to create unauthorized zoning categories by
+excluding uses otherwise pennitted in the
+proposed zoning. Upon— eempletien E)
+eemplianee -aetien by the applieant, the Ci
+Eetinei- 1- and Cert, Commission shall, bT
+A. Content of Site Plan. Where a site plan
+is required pursuant to Chapter 21. 96, it shall
+include location of existing and proposed
+buildings, structures, accesses, off- street parking
+and loading spacesand landscaping; existing and
+proposed topography; mechanical roof facilities,
+0162- 0 4
+if subject property is so oriented as to become
+part of the view from adjacent properties;
+architectural perspective, layout and all
+elevations drawn without exaggeration except
+where noted, including locations, areaand design
+of signs, all landscaping and adjacent streets and
+facilities.
+B. Resolution on Intent Binding. The
+fulfillment of all conditions, stipulations and
+limitations contained in the resolution of intent on
+the part of the applicant shall make the resolution
+binding on the Ems--Council— ate County
+Commission. Upon compliance with the
+resolution by the applicant, the City (` ounei1 and
+County Commission shall, by ordinance, effect
+such fee lass ifiea4ief rezoning.
+C. Resolution of Intent Void Upon Failure
+to Comply. The failure of the applicant to
+meet any or all conditions,
+stipulations or limitations contained in a
+resolution of intent, including the time limit
+placed in the resolution, shall render said
+resolution null and void, unless an extension is
+granted by theme Gatineil - ara County
+Commission upon recommendation of the
+Planning Commissioa Hearings Officer. ( Ord.
+97- 048 § 3, 1997; Ord. 95- 050 § 30, 1995; Ord.
+PL - 17 § 23( 6), 1979)
+PAGE 1 - EXHIBIT C TO ORDINANCE 97- 048 ( 6- 11- 1997) 1
+0162- 0161
+EXHIBI' T D
+21. 84. 010. Enforcement.
+It shall be the duty of the Planning Director
+to enforce this title. All departments, officials
+and public employees of the Gity of Sisters
+County, vested with the duty or authority to issue
+permits shall conform to the provisions of this
+title and shall issue no permit, certificate or
+license for any use, building or purpose which
+violates or fails to comply with conditions or
+standards imposed by this title. Any permit,
+certificate or license issued in conflict with the
+provisions of this title, intentionally or otherwise,
+shall be void. ( Ord. 97- 048 § 4; 1997; PL - 17 §
+26( 1), 1979)
+PAGE I - EXHIBIT D TO ORDINANCE 97- 048 ( 6- 11- 1997) 1
+0162= 0162
+EXHIBIT E
+21. 84. 040. Evidence.
+In any prosecution for causing or maintaining
+any condition or use of, or activity on, or
+constructing, moving or maintaining any
+structure on, any premises in violation of this
+zoning title, a person in possessionor control of
+the premises, as owner or lessee at the time of the
+violation, or continuance thereof, shall be
+presumed to be the person who constructed,
+moved, caused or maintained the unlawful
+activity, use, condition or structure. This
+presumption shall be rebuttable and either - 44e
+Gi* yoi1 Deschutes County or the defendant
+in such prosecution shall have the right to show
+that the offense was committed by some person
+other than, or in addition to, an owner or lessee or
+other persons in possession or control of the
+premises; but this shall not be construed as
+relieving a person in possession and control of
+property from any duty imposed upon him by this
+taxed according to the records of the Deschutes
+County Assessor shall be prima facie the person
+in possession or control of the premises. Where
+premises on which the violation is committed are
+commercial or industrial premises on which a
+sign is situated identifying the commercial or
+industrial activity conducted thereof, the same
+shall constitute prima facie evidence that the
+person whose name is thus displayed is in
+possession or control of the premises as owner or
+lessee, but this shall not be construed to relieve
+from responsibility any agent, manager,
+employee or other person who actually
+committed the violation. ( Ord. 97- 048 § 5, 1997;
+Ord. PL - 17 § 26( 4), 1979)
+PAGE 1 - EXHIBIT E TO ORDINANCE 97- 048 ( 6- 11- 1997) 1
+EXHIBIT F
+21. 88. 010. Validity.
+If any section, subsection, sentence, clause or
+phrase of this title is for any reason held by a
+court of competent jurisdiction to be invalid, such
+decision shall not affect the validity of the
+remaining portions of this title. The City Couned
+for the City of
+Cis*
+County Commission
+hereby declares that it would have passed this
+title, and each section, subsection, sentence,
+clause and phrase thereof, irrespective of the fact
+that any one or more sections, subsections,
+sentences, clauses or phrases might be declared
+invalid. ( Ord. 97- 048 § 6, 1997; Ord. PL - 17 § 27,
+1979)
+PAGE 1 - EXHIBIT F TO ORDINANCE 97- 048 ( 6- 11- 1997) 1
+0162- 0164
+EXHIBIT G
+21. 92.010. Provisions applying to special include other site constructed buildings or
+uses. structures.
+5. Additions to Mobile Homes. No
+additions to mobile homes will be allowed that
+G. Mobile Home Standards. Mobile homes would extend residential space of the original
+not meeting structural criteria as established in dwelling. A canopiedporch(s), or patio(s) will be
+this title, and allowed on individual lots, mobile allowed at each entrance, only if the canopy
+home subdivisions or planned unit developments, material is of a type that is identical to the
+or in mobile home parks, shall meet the following construction of, or covering of, the mobile home,
+minimum requirements: or of materials that enhance the design of the
+1. Insignia of Compliance. The mobile mobile home.
+home shall conform to the current Oregon State 6. Storage and Accessory Requirements.
+Electrical, plumbing, heating and structural codes Each mobile home shall be provided with an
+for mobile homes, whose conformance shall be accessorybuilding which enclosesa minimum of
+signified by the display of the " Insignia of 70 squarefeet, for accessorystorage. No storage
+Compliance" of the State of Oregon, pursuant to, will be allowed under the mobile home, nor in
+and under provisions of Oregon Revised Statutes unscreened, or enclosed areas. The accessory
+446. 002 and ORS 446. 200, and all subsequent storage building shall be constructed to Uniform
+amendments thereto. Building Code Standards. Construction of the
+2. Skirting. All nonpermanent mobile required storage building shall be completed
+homes shall have continuous skirting of within 60 days of the date of issuance of the
+nondecaying, noncorroding, rodent - proof building permit.
+material. Skirting shall be vented, and insulated 7. Special Setbacks. Special setbacks, as
+to an R - value as required for foundation determinedby the Planning , Director
+insulation for a modular, or on- site built home. or Hearings Body as an element of Site Plan
+An 18x24 inch access shall be provided in the Review, Conditional Use, or Variance hearing,
+skirting. Skirting shall be installed within 60 may be required in areaswith scenic impact, and
+days of the date of issuance of the building in all areas designated for Landscape
+permit. Management or open space on the
+3. Foundations. All mobile homes not ComprehensivePlan Map. Also, special setbacks
+meeting the structural criteria as outlined in the and landscape requirements may be required
+title, placed on individual lots, or in mobile home where subjectproperty adjoins frame dwelling, or
+subdivisions or planned unit developments, as a modular home, residential units.
+permanent location, shall be placed on a 8. Spatial Requirements. The lot size
+foundation constructed to, or exceeding Oregon requirements for mobile homes, either on
+and Deschutes County Structural Codes for individual lots, mobile home subdivisions, or
+footings and foundations, and insulation, and planned unit developments, or in mobile home
+permanently attached to a noncorrosive, parks, shall be the same as for standard
+nondecaying plate that is integrated as a part of residential units, or modular homes in the same
+that foundation. residential district, those standards being based
+4. Permits. A building permit shall be on the spatial requirement for individual, on- site
+obtained from the Building Official prior to sewage disposal systems. If eventually connected
+construction of any footings and foundations, or to community sewerage, the mobile home density
+prior to moving in and locating of any mobile shall not exceedthe allowed housing unit density
+home on any tract of land. Said permits shall
+PAGE 1 - EXHIBIT G TO ORDINANCE 97- 048 ( 6- 11- 1997) 1
+0162- 0165
+ascribed to the residential district within which
+they are located.
+9. Temporary Mobile Home Permits.
+Temporary usepermits for mobile homesmay be
+authorized by the Planning Director
+or Hearings Body in the following circumstances,
+upon such terms and conditions as prescribed by
+the Planning Commission Director or Hearings
+Body:
+a. Temporary use permits may be granted
+to schools for a specified time;
+b. Temporary use permits may be granted
+in residential zones for blood relatives of the
+family residing on the property, if the mobile
+home will be used because of a medical problem
+requiring the use of such a unit. The existenceof
+a medical problem shall be certified by a medical
+doctor, with description that such a location, for
+minimum nursing and/or care, will be beneficial
+to the patient. The permit shall not exceed one
+year and may only be renewed with another
+certificate from a medical doctor. Such a mobile
+home placement shall not infringe upon the
+spatial requirement for individual on- site sewage
+disposal systems, nor their assigned replacement
+area, for the long-term residential unit on the
+property;
+c. Temporary use permits may be granted
+in connection with construction projects
+including temporary residence, commercial use
+associatedwith other facilities being constructed
+at the site. The duration of such permits shall not
+continue beyond the construction period and the
+permit shall terminate upon occupancy of the
+building being constructed. Set up requirements
+for such permitted temporary location mobile
+homes shall be by the standardfor nonpermanent
+mobile homes, as outlined in this title, and the
+Oregon building, electrical, plumbing, and
+structural codes for mobile homes.
+PAGE 2 - EXHIBIT G TO ORDINANCE 97- 048 ( 6- 11- 1997) 2
+0162- 0166
+EXHIBIT H
+21. 96. 020. Site plan approval required.
+No building, parking, land use, sign or other
+required permit shall be issued for a use subject
+to this section, nor shall such uses be
+commenced, enlarged, altered or changed until a
+final site plan is approved by the Planning
+Director or Hearings Body.
+A. The provisions of this section apply to
+developments and uses contained in the zoning
+ordinance as follows:
+1. Multi -family dwellings.
+2. Planned unit developments.
+3. Mobile home parks.
+4. Commercial zones.
+5. Commercial - Industrial zones.
+6. Industrial zones.
+7. Conditional uses where specified in
+each zone.
+B. A site plan must be tiled under the
+following conditions:
+1. New buildings or structures.
+2. Building alterations affecting the
+exterior design and/ or dimensions of an existing
+structure.
+3. Porches, decks and canopy additions.
+4. Any new permitted land use on
+undeveloped property, such as parking lots,
+concession stands, storage yards, etc.
+5. Site grading of property affecting or
+altering the on-site or off- site drainage.
+6. Signs within the commercial zones.
+7. A change of use within a zone unless
+the site already complies with all of the standards
+of this title.
+C. All conditions of site plan approval
+required by the Planning Gemmission Director or
+Hearings Body shall be complied with prior to
+obtaining any required permits or licenses.
+D. Noncompliance with an approved site
+plan and any conditionsof approvalshall be a
+zoning violation. ( Ord. 97- 048 § 8, 1997; Ord.
+95- 050 § 33, 1995; Ord. 80- 225, Ex. A., 1980;
+PL - 17 § 29( 2), 1979)
+PAGE 1 - EXHIBIT H TO ORDINANCE 97- 048 ( 6- 11- 1997) 1
+0162- 0167
+EXHIBIT I
+21. 96. 030. Site plan: contents and procedure. D. The landscape plan shall indicate:
+A. Any siteplanshallbefiled on aform as l . The size, species, and approximate
+provided by the Planning Department and shall locations of existing natural plant materials
+be accompaniedby such drawings, sketches, and proposed to be retained, and new plant materials
+descriptionsasthe-C4tyPlanningDirector deems proposed to be placed on site.
+necessaryto describe the proposed development. 2. Proposed site grading.
+A plan shall not be deemed complete unless all 3. An explanation of how drainage and
+information requested is provided. soil erosion is to be dealt with during and after
+B. The applicant shall submit a site construction. ( Ord. 97- 048 § 9, 1997; Ord.
+development plan, existing natural plant materials 80- 225, Ex. A., 1980; Ord. PL - 17 § 29( 3), 1979)
+inventory of all trees six inches or greater in
+diameter and other significant species, landscape
+plan, and architectural drawings (indicating floor
+plans and elevations) with the following
+information.
+C. The final site development plan shall
+indicate the following:
+1. Access to site from adjacent rights of
+way, streets and arterials.
+2. Parking and circulation areas.
+3. Location, dimensions ( height and bulk)
+and design of buildings and signs.
+4. Orientation of windows and doors.
+5. Entrances and exits.
+6. Private and shared outdoor recreation
+spaces.
+7. Pedestrian circulation.
+8. Public play areas.
+9. Service areas for uses such as mail
+delivery, trash disposal, above -ground utilities,
+loading and delivery.
+10. Areas to be landscaped.
+11. Exterior lighting.
+12. Special provisions for handicapped
+persons.
+13. Existing topography of the site at
+intervals appropriate to the site; but in no case
+havingacontourintervalgreaterthan10feet.
+14. Signs.
+15. Elevations of all visible sides of
+buildings consistent with Chapter 21. 104.
+16. Other site elements and information
+which will assist in the evaluation of site
+development.
+17. Public improvements.
+PAGE I - EXHIBIT I TO ORDINANCE 97- 048 ( 6- 11- 1997) 1
+EXI11B1T J
+21. 108. 080. Provisions for parking in the
+general commercial district.
+The samespatial requirementsfor parking for
+allowed uses in other Commercial District shall
+apply as required by this Section. Where, during
+site plan review, the applicant can show the
+existence of unreserved, diagonal " on - street"
+parking area, on streets not designated wither as
+urban highway or arterial, within 300 feet from
+the site of proposal, the applicant will be allowed
+to consider, upon development of an impervious
+surface to the standards of this Section, with
+parking bumpers, sidewalk, and curbing, a
+portion of his parking area requirement as being
+satisfied, upon approval by the Planning
+CaFamiss" Director or Hearings Body. ( Ord.
+97- 048 § 10, 1997; Ord. PL - 17 § 32( 8), 1979)
+PAGE 1 - EXHIBIT J TO ORDINANCE 97- 048 ( 6- 11- 1997) 1

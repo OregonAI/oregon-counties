@@ -1,0 +1,691 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2001-033
+title: 'Ordinance No. 2001-033'
+doc_type: ordinance
+citation: 'Ordinance No. 2001-033'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616807195_2001-761-Ordinance%20No.%202001-033%20Recorded%2010_11_2001.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9b87f310be726c27fa655e923de86283aa1989900b39a91e3a01522dceee0b48
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 527.610
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2001-033 (Ordinance No. 2001-033)
+
+## At a glance
+
+Ordinance No. 2001-033 — orders of Deschutes County. 12 pages.
+
+## Full text
+
+H COUNTYOFFICIAL
+MARY SUESPENNOLLOW, COUNTYCLERKCJ 1001'161RE IEWED
+COMMISSIONERS ' JOURNAL
+10/11/200103:52:21PM
+Li AL COUNSEL
+REVIEWED
+CODEREVIEW COMMITTEE
+BEFORETHEBOARDOFCOUNTYCOMMISSIONERSOFDESCHUTESCOUNTY, OREGON
+An OrdinanceAmendingSections18.120.040,
+Building HeightExceptions, and18.04.030,
+Definition — Agricultural Structure, of Title 18,
+ZoningOrdinance, of theDeschutesCountyCode.
+ORDINANCE NO. 2001-033
+WHEREAS, currently, inmostofDeschutesCounty, astructurecannotbehigherthan30 feet in height.
+Anexceptionprocessallowsstructuresupto36feetinheightsubjecttoaland
+use permit applying certain criteria including view protection. However, certain agricultural
+structuresthatareexemptfrombuildingpermitshaveanexemptionfromcertainheight
+restrictionsandthereis currentlyno limit ontheirheight; and
+WHEREAS,
+concernswerebroughtforwardby citizenswho wereinterestedinprotectingscenicviews within DeschutesCounty; and
+WHEREAS, in1995DeschutesCountyenacteda "righttofarm" ordinance (95-024) toprotectfarmandforest -basedactivitesandpracticesanddefinewhataregenerallyaccepted, reasonableandprudentfarmpractices/useswithintheagriculturalcommunity.
+WHEREAS, inJuly2000theDeschutesCountyPlanningCommissionandtheBoardof
+CountyCommissioners (Board) heldajointmeetingtodiscusstheDeschutesCountyZoningOrdinance, Section18.120.040, BuildingHeightExceptions. Afternumerousworksessionsandpublichearings, theBoarddeterminedthatadditionalinformationwasneededtomakeafinaldecision; and
+WHEREAS, thePlanningCommissionheldapublichearingonJuly12, 2001, continuedonAugust9, 2001, toobtainadditionalinformationandafterconsideringtestimonyfromthepublicandinterestedparties, agreedtoforwardarecommendationtotheBoardtoreducetheallowableheightfor certainagriculturalstructures; and
+WHEREAS, afteranoticewasgivenandapublichearingwasconductedonSeptember25, 2001, beforetheBoardinaccordancewithapplicablelaw, theBoardhasconsideredthePlanningCommission'srecommendation; and
+WHEREAS, theattachedproposedamendmentsto18.120.040provideprotectionfortherighttofarmwhileaddressingtheneedforheightrestrictions; now, therefore,
+THEBOARDOFCOUNTYCOMMISSIONERSOFDESCHUTESCOUNTY, OREGON, ORDAINS as follows:
+Section 1. AMENDMENT. Section18.120.040, Building height exceptions, of the
+DeschutesCountyCode, is amendedto read as shown in Exhibit " A," attachedheretoandby this
+PAGE 1 of - ORDINANCE NO. 2001-033 (10/10/2001)
+reference incorporated herein, with new language underlined and deleted language shown in
+Section 2. AMENDMENT. Section18.04.030, Definitions, of the DeschutesCounty
+Code, is amended to read as shown in Exhibit ` B," attached hereto and by this reference
+incorporated herein, with new language underlined.
+DATED this% day of S er, 2001. )
+BOARD OF COUNTY COMMIS" RS OF
+DESCHUTES COUNTY, OREC,
+TOMD OLF, Chair
+ATTEST: D IS R. LUKE, Commissioner
+V6 tc,
+Recording Secretary MICHAEL M. DALY, Commissioner
+PAGE 2 of 2 - ORDINANCE NO. 2001- 033 ( 10/ 10/ 2001)
+EXHIBIT " A"
+18.120.040. Building height exceptions.
+A. The following structures or structural
+parts are not subject to the building
+height limitations of DCC Title 18:
+chimneys not more than three feet six
+inches ( 3' 6") above the highest point of
+the roof, vertical support structures for
+telephone and power transmission lines
+in utility easementsor public rights-of-
+way, not requiring a site plan review as
+defined in the— DCC 18. 124. 060,
+flagpoles not exceeding forty ( 40) feet,
+and agricultural structures as defined in
+this ordinanee— DCC 18. 04. 030 not
+exceeding thirty- six 36) feet. This
+exception does not apply to an Airport
+Development Zone, or Landscape
+Management Combining Zone.
+B. The following structures or structural
+parts may receive exceptions to the
+building height limitations of Title 18 if
+approved as part of a Site Plan Review,
+as defined in the DCC 18. 124. 060 and
+subject to the criteria contained therein,
+public schools, vertical support
+structures for telephone and power
+transmission lines requiring a site plan,
+structures that are necessary for public
+safety and flagpoles. This exception
+does not supercede the more restrictive
+requirements that are found in the
+Airport Safety Combining Zone or
+Landscape Management Combining
+Zone.
+C. An exception ( up to 36 feet) to the
+building height limitations for structures
+not otherwise exempted by DCC
+18.120.040(A) may be approved upon
+findings that:
+1. The structure is not located in a
+Landscape Management Zone,
+except when the structure is a
+single-family dwelling with an
+attached hangar located in an
+unincorporated community and the
+structure has a maximum height of
+35 feet including chimneys,
+antennas, flagpoles or other
+projections from the roof of the
+structure;
+2. The structure is not located within
+100 feet of any rim rock, as defined
+in DCC 18. 04. 030;
+3. After consultation with the applicable
+fire department, the proposed height
+does not exceed the height
+limitation of the department' s fire
+fighting equipment, considering the
+evacuation of the building' s
+occupants and the fire fighting
+requirements of the Department; and
+4. The proposed additional height will
+not adversely impact scenic views
+from existing nearby residences.
+5. The proposed structure shall relate
+harmoniously to the natural
+environment and existing
+development, minimizing visual
+impacts and preserving natural
+features including views and
+topographical features.
+D. An exception to building height
+limitations for agricultural structures
+may be approved upon findings that the
+applicant meets the criteria listed in
+DCC 18. 120. 040( C)( 1) through ( 3) and
+demonstrates that the proposed structure
+is:
+1. an agricultural structure as defined
+in DCC 18. 04. 030
+2. located in an EFU or Forest zone:
+and
+3. necessary to conductgeneral] y
+accepted farming_ practices that are
+typical or customary of Deschutes
+County farmers who are regular]
+involved in the proposed We of
+agriculture. The applicant shall
+document satisfaction of this
+criterion by submitting evidence or
+testimony from an authorized
+Page 1 of 2 — EXHIBIT " A" TO ORDINANCE NO. 2001- 033 ( 10/ 10/ 01)
+representative of the Deschutes
+County Farm Bureau.
+Ord. 2001- 033 § 1, 2001; Ord 2001- 004 § 1,
+2001; Ord. 2001- 016 § 2, 2001; Ord. 98- 035 §
+1, 1998; Ord. 96- 035 § 1, 1996; Ord. 93- 043 §
+20C, 1993; Ord. 92- 055 § 10, 1992; Ord. 92-
+036 § 1, 1992)
+Page 2 of 2 — EXHIBIT " A" TO ORDINANCE NO. 2001- 033 ( 10/ 10/ 01)
+EXHIBIT ` B"
+Section 18. 04. 030
+Agricultural structure" meansany structure
+considered to be an _` agriculturalstm• e
+building" under the StatebBuilding
+eedeCode Section 326) as referenced in
+DCC 15. 04. 010. and is ( 1) located on a
+parcel that is at least 20 acres in size and
+contains at least 8. 5 irrigated acres, or ( 2) a
+parcel that is at least 80 acres in size,
+regardless of irrigation.
+Ord. 2001- 033 § 2, 2001; Ord. 2001- 016
+2, 2001; Ord. 92- 034 § 1, 1992)
+Page 1 of I — EXHIBIT ` B" TO ORDINANCE NO. 2001- 033 ( 10/ 10/ 01)
+ATTACHMENT A
+AGRICULTURAL EXEMPTIONS - HEIGHT
+12. 0 12. 0 23 10. 0
+17. 0 22. 0 24. 5 30. 0
+27. 0 23. 0 23 14. 8
+8. 0 12. 0 14 26. 0
+14. 0 28. 0 17. 6 18. 0
+23. 6 15. 0 13 18. 0
+12. 0 12. 0 16 18. 0
+12. 0 16. 0 16 26. 0
+36. 0 18. 0 48 14. 0
+12. 2 22. 0 23 14. 0
+13. 0 12. 0 14 12. 0
+17. 0 13. 0 27. 6 12. 0
+12. 8 20. 0 21 12. 0
+10. 0 20. 0 16 19. 0
+20. 0 13. 0 16 19. 0
+8. 0 19. 0 19 26. 0
+15. 3 19. 6 16 21. 0
+23. 0 15 15. 0
+30. 0 26. 5 14. 6
+19. 0 25 16. 0
+27. 0 18 15. 0
+16. 0 23 19. 0
+27. 0 16 18. 0
+13. 0 16 30. 0
+18. 0 22. 8 12. 0
+21. 0 10 23. 0
+27. 0 10 24. 0
+26. 0 11 18. 0
+16. 0 8 20. 0
+12. 0 9 18. 00
+23. 6 10 25. 0
+11. 0 17. 6 16. 0
+15. 0 12 36. 0
+18. 0 24 18. 0
+22. 0 18 20. 6
+18. 0 16 16. 0
+28 28. 0
+24. 0
+22. 0
+11. 6
+11. 6
+11. 6
+20. 0
+23. 0
+25. 0
+21. 0
+22. 0
+16. 0
+14. 8
+28. 0
+15. 0
+15. 0
+14. 6
+14. 6
+38. 0
+17. 0
+8. 0
+28. 0
+21. 0
+24. 0
+10. 0
+16. 0
+15. 0
+26. 0'
+10. 0
+20. 0
+18. 0
+17. 0
+28. 0
+18. 0
+16. 0
+24. 0
+14. 0
+15. 0
+16. 0
+16. 0
+16. 0
+14. 0
+17. 5
+10. 0
+20. 0
+16. 0
+10. 0
+21. 6
+23. 0
+18. 0
+21. 0
+21. 0
+48. 0
+14. 0
+20. 0
+10. 0
+14. 0
+12. 0
+36. 0
+STAFF REPORT
+File Number TA -00-010
+Ordinance No. 2001- 033
+HEARING DATE: September25, 2001 at 3:00 p.m.
+Boardof County CommissionersHearingRoom
+AdministrationBuilding — 1130 NW Harriman Street
+Bend, Oregon 97701- 1947
+APPLICANT: Deschutes County
+SUBJECT: TextAmendmenttotheDeschutesCountyCodeTitle18, Building
+Heightexceptions (Section 18.120.040 of the zoning ordinance) to
+consider changes to the allowable height of some agricultural barns/
+structures and windmills used to generate power for non- farm uses.
+Staff Planners: George Read, Director
+Christy Morgan, Assistant Planner
+Currently, in most of Deschutes County, a structure cannot be higher than 30 feet in height.
+An exception process allows structures up to 36 feet in height subject to public notice.
+Howevercertainagriculturalstructuresthatarelocatedona "farm" areexemptfrombuilding
+permits and all height restrictions. Attachment A is a representative list of agricultural
+exemptionsthat have beenissued by DeschutesCountyfrom 1997-2001.
+The County Building Official has adopted a definition of "farm" to include all parcels of 80
+acres in size and parcels of 20 acres in size with at least 8.5 acres of irrigation. Agricultural
+structures on farms of this size or larger are entitled to an outright exemption from height
+restrictions and can therefore be any height.
+In addition, Deschutes County enacted a "right to farm" ordinance in 1995, to protect farm
+and forest -basedeconomicallyproductiveactivitiesin the Countyin orderto assurethe
+continued health, safety, and prosperity of its residents ( See Chapter 9.12 Right to Farm,
+attached). This ordinance defines and protects farm activities and practices that are
+generally accepted, reasonable and prudent within the agricultural community. In
+determiningwhetherany particularfarming or forest practiceis a generallyaccepted,
+reasonableand prudent practice, the "right to farm" ordinancestates that County staff may
+seek the advice of an expert or experts in the particular practice involved from a list of
+expertsprovidedby the DeschutesCountyFarmBureaufor eachcommodityor practices
+area.
+In July 2000, the DeschutesCounty Planning Commissionand Board of County
+Commissionershelda joint meetingto discussthe DeschutesCountyZoningOrdinance,
+Section 18.120.040, Building Height Exceptions. This meeting was held in response to
+concerns broughtforward by citizens who were interested in protecting scenic views within
+the County. After numerous work sessions and public hearings, the Board of
+Staff Report - TA - 00- 010
+Commissioners determined that additional information was needed to make a final decision
+specifically on the following two issues:
+1) Should a height restriction be placed on certain agricultural bams/ structures?
+2) Should the allowable height be increased for windmills used to generate power for
+non- farm uses?
+TheDeschutesCountyPlanningCommissionconductedanadditionalpublichearingon
+July 12, 2001, that was continued on August 9, 2001. Based on the testimony presented at
+thesehearings, the PlanningCommissionvotedonAugust9, 2001, to forwardthefollowing
+recommendations to the Board of County Commissioners:
+1. Allow agricultural structures up to 36' outright.
+2. Allow agricultural structures above 36' if the applicant meets certain criteria to
+demonstrate that the structure will be located in an EFU/ Forest zone, is an
+agricultural structure" as defined in proposed DCC Section 18. 04. 060 ( Exhibit B),
+will be using the structure for an accepted farm use as defined in DCC Section
+18.04.030, and will be usinggenerallyacceptedfarming practices as defined in DCC
+Sections 9. 12. 045 and 9. 12. 060. Planning staff recommends that the burden of
+proof fall on the applicant to document that the agricultural structure will be used for
+an acceptedfarm use, usinggeneralllyacceptedfarmingpracticesby submitting
+evidenceor testimonyfroman authorizedrepresentativeof the DeschutesCounty
+Farm Bureau.
+3. Do not allow windmills for non-agricultural uses to be taller than 30', or 36' with an
+exception. Windmills for agricultural uses would be allowed as defined
+recommendations in 1 and 2 above.
+4. Require public hearing for agricultural structure exceptions.
+STAFF RECOMMENDATION
+Staff recommendsthe Boardof CountyCommissionerstake the following actions:
+1. Conduct a public hearing on September 25, 2001, on the proposed Ordinance
+2001- 033.
+2. Considertestimony receivedonthis proposalsubmittedat the hearingandbefore
+the close of the record.
+3. Adopt the proposed ordinance with revisions ' based on issues raised or
+changes proposed through public testimony.
+Attachments:
+1. Attachment A — Agricultural Height Exemptions
+2. Right to Farm Ordinance
+3. Ordinance 2001- 033
+4. Exhibit A to Ordinance 2001- 033
+5. Exhibit B to Ordinance 2001- 033
+Staff Report - TA - 00- 010
+Chapter 9. 12. RIGHT TO FARM
+9. 12. 010. Short title.
+9. 12. 020. Purpose.
+9. 12. 030. Definitions.
+9. 12. 035. Definition - Facility.
+9. 12. 040. Definition - Farming.
+9. 12. 045. Definition -Farming practice.
+9. 12. 050. Definition - Forest practice.
+9. 12. 055. Definition- Nonresource use.
+9. 12. 060. Definition - Generally accepted.
+9. 12. 065. Definition - Farming and forest
+practices exclusions.
+9. 12. 070. Definition - Nuisance or trespass.
+9. 12. 075. Definition - Pesticide.
+9. 12. 080. Prohibition on enactments that
+make farm and forest uses a
+nuisance or trespass.
+9. 12. 090. Protection of farm and forest uses
+on lands zoned for resource use.
+9. 12. 100. Protection of allowed farm and
+forest uses in zones other than
+EFU and forest zones.
+9. 12. 110. Protection of nonconforming
+farm and forest uses.
+9. 12. 120. Land use ordinances and
+decisions.
+9. 12. 130. Complaints by nonresource users.
+9. 12. 140. Farm practices advisory list.
+9. 12. 150. Affect on livestock control
+districts.
+9. 12. 010. Short title.
+This ordinance may be cited as the Deschutes
+County Right To Farm Ordinance.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 1, 1995)
+9. 12. 020. Purpose.
+A. It is the purpose of DCC 9. 12 to protect farm
+and forest -based economically productive
+activities of Deschutes County in order to
+assure the continued health, safety and
+prosperity of its residents. Farm and forest
+usessometimesoffend, annoy, interfere with
+or otherwise affect others located on or near
+farmandforestlands. DeschutesCountyhas
+concluded in conformance with ORS chapter
+30 that persons located on or near farm and
+forest lands must accept resource uses and
+management_ practices. _
+B. DCC9.12isintendedto limit theavailability
+of remedies based on nuisance or trespass,
+rights of action and claims for relief and
+issuance of citations for infractions over
+which Deschutes County has jurisdiction,
+when they otherwise would either have an
+adverse impact on farm and forest uses that
+DeschutesCounty seeksto protect, or would
+impair full useof the farm and forest resource
+basewithin DeschutesCounty.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 2, 1995)
+9. 12. 030. Definitions.
+For the purposes of DCC 9. 12, unless otherwise
+apparent from the context, certain words and
+phrases used in DCC 9. 12 are defined as set forth
+in DCC 9. 1.2. 035- 075.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 033 § 1, 1995;
+Ord. 95- 024 § 3, 1995)
+9. 12. 035. Definition -Facility.
+Facility" meansany real or personalproperty,
+including appurtenances thereto and fixtures
+thereon, associated with a given use.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 3, 1995)
+9. 12. 040. Definition - Farming.
+Farming" means the cultivation, growing,
+harvesting, processingor selling of plants or
+animals of any kind that lawfully may be grown,
+possessedand sold, including but not limited to
+forage, row crops, grapes, Christmas trees and
+nurserystock, fish, livestock, poultry andratites.
+Exceptasotherwisesetforth herein, farmingmay
+be at either a commercial or a noncommercial
+scale.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 3, 1995)
+9. 12. 045. Definition - Farming practice.
+Farming practice" means a mode of farming,
+including useof pesticides, that:
+1. Is or maybe usedin a farmingoperation
+of a similar nature;
+2. Is consistentwith generally accepted,
+reasonable and prudent methods;
+Chapter 9. 12 1 ( 03/ 2001)
+3. Is or may become a generally accepted,
+reasonable_ and prudent method in
+conjunction with farm use;
+4. Complies with applicable laws; and
+5. Is done in a reasonable and prudent
+manner.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 3, 1995)
+9. 12. 050. Definition - Forest practice.
+Forest practice" means a mode of operation,
+including the useof pesticides, on forestland that:
+1. Is or may be used on forestland of a
+similar nature;
+2. Is a generally accepted, reasonable and
+prudent method of complying with ORS
+527.610 to 527. 770 and the rules adopted
+pursuant thereto;
+3. Is or may become a generally accepted,
+reasonable and prudent method in
+conjunction with forestland;
+4. Complies with applicable laws;
+5. Is done in a reasonable and prudent
+manner; and
+6. May include, but is not limited to, site
+preparation, timber harvest, slash
+disposal, road construction and
+maintenance, tree planting,
+precommercial thinning, release,
+fertilization, animal damage control and
+insect and disease control.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 3, 1995)
+9. 12. 055. Definition- Nonresource use.
+Nonresourceuse" meansanyfacility, activity or
+other use of land that does not constitute a farm
+or forestuse, asdefinedherein, includingbutnot
+limited to residential use.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 3, 1995)
+9. 12. 060. Definition - Generally accepted.
+Generally accepted" means a practice that an
+average person in Deschutes County who is
+regularly involved in the same type of resource
+use would reasonably expect to occur or exist in a
+rural setting.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 3, 1995)
+9. 12. 065. Definition - Farming and forest
+practices exclusions.
+Farming and forest practices" do not include:
+The willful growing of unlawful,
+infested,_ infected or—diseasedplants or
+animals; or
+2. Trespass which involves actual physical
+intrusionontothepropertyof anotherby
+a person or, within a livestock control
+district, by a person's animals.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 3, 1995)
+9. 12. 070. Definition - Nuisance or trespass.
+Nuisance" or " trespass" includes but is not
+limited to actions or claims based on noise,
+vibration, odors, smoke, pesticide spray, dust and
+mist from irrigation. Nuisance also includes
+actions or claims based on otherwise approved
+practicesperformed during non -daylight hours.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 3, 1995)
+9. 12. 075. Definition - Pesticide.
+Pesticide" includes defoliants, desiccants,
+fungicides, herbicides, insecticides, nematocides,
+and other substances included and defined in
+ORS 634. 006( 8).
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 3, 1995)
+9. 12. 080. Prohibition on enactments that
+make farm and forest uses a
+nuisance or trespass.
+The Board of County Commissioners shall enact
+no resolution or ordinance that makes a farm or
+forestpracticecoveredby DCC9.12.090through
+9. 12.110 a nuisance or trespass or provides for
+the abatement of such practices as a nuisance or
+trespass.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 4, 1995)
+9. 12. 090. Protection of farm and forest uses
+on lands zoned for resource use.
+A. No farm or forestpracticeoccurringon lands
+zoned for resource use shall be declared to be
+a public or private nuisance or trespass, or
+support any complaint procedure, or give rise
+to a claim for relief in favor of, or to protect
+the interests of, nonresourceuses or any
+persons or property associated therewith, to
+the extent that such controversy, proceeding
+or claim would arise under an ordinance or
+theinherentauthorityof DeschutesCounty.
+B. DCC 912. 090 applies regardless of:
+Chapter 9. 12 2 ( 03/ 2001)
+The location of the purportedlyaffected
+nonresource use:
+2. Whether the nonresourceusepurportedly
+affected existed before or after the
+occurrence of the farm or forest use;
+3. Whether the farm or forest practice or
+nonresource use has undergone any
+change or interruption; or
+4. Whether the resource use or nonresource
+use is located inside or outside an area
+designated as other than high value
+resource lands.
+1
+C. Lands zoned for resource use include lands in
+EFU zones, forest zones, surface mining
+zones, and flood plain or open space &
+conservation zones where the underlying
+comprehensive plan designation is
+agriculture" or " forest."
+D. If zoning is changedin such a way to place a
+farming or forest practice within a resource
+zone as defined herein, DCC 9. 12. 090 will
+apply to that farming or forest practice after
+the date the zone change becomes effective.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 5, 1995)
+9. 12. 100. Protection of allowed farm and
+forest uses in zones other than
+EFU and forest zones.
+A. On lands other than those zoned for farm or
+forest use, no farm or forest use allowed in a
+zone shall be declared to be a public or
+private nuisance or trespass, or support any
+complaint procedure, or give rise to a claim
+for relief in favor of, or to protect the
+interestsof, nonresourceusesor anypersons
+or property associated therewith, to the extent
+that such controversy, proceeding or claim
+would arise under an ordinance or the
+inherent authority of DeschutesCounty.
+B. DCC 9.12.110shall apply:
+1. To farming practices on commercial
+farms only, notwithstanding the
+definition of farming in DCC 9.12.
+2. Whether or not the farm practice occurs
+within the applicable urban growth
+boundary.
+3. Where the commercial farming or forest
+practice existed before the conflicting
+nonfarm or nonforest use of real property
+that gave rise to the complaint.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 6, 1995)
+9. 12. 110. Protection of nonconforming
+farm and forest uses.
+A. On landswhere farming or forest practices
+occur as a pre-existing nonconforming use in
+a zone not otherwise allowing farm or forest
+practices, no such practices shall be declared
+to be a public or private nuisance or trespass,
+or support any complaint procedure, or give
+rise to a claim for relief in favor of, or to
+protect the interests of, nonresource uses or
+any persons or property associated therewith,
+to the extent that such controversy,
+proceeding or claim would arise under an
+ordinance or the inherent authority of
+DeschutesCounty.
+B. DCC 9.12.110shall apply:
+1. To fanning practices on commercial
+farms only, notwithstanding the
+definition of farming in DCC 9.12.
+2. Whether or not the farm practice occurs
+within the applicable urban growth
+boundary.
+3. Where a fanning or forest practice
+existed before the conflicting nonfann or
+nonforest use of real property that gave
+rise to the complaint.
+4. Where a fanning or forest practice has
+not significantly increased in size or
+intensity from November 4, 1993 or the
+dateon which the zoning is changedto
+make the use a nonconforming one,
+whichever is later.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 7, 1995)
+9. 12. 120. Land use ordinances and
+decisions.
+The fact that DeschutesCounty's comprehensive
+plan and zoning ordinances and that individual
+land use decisionsissued by the County may
+allow the siting, developmentor supportof any
+particular use does not negate the provisions of
+DCC 9. 12 intended to protect a farm or forest
+resource use.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 8, 1995)
+Chapter 9. 12 3 ( 03/ 2001)
+9. 12. 130. Complaints by nonresource users.
+Any persons not engagedin a farm or forest use
+are deemedon notice that DeschutesCounty will
+not issue a citation involving a farm or forest
+practice protected under DCC 9.12, so long as
+such resource use complies with applicable
+provisions of federal and state laws and DCC
+9. 12. In order to protect a farming or forest
+practice from shutdown upon receipt of a
+complaint of nuisance, there shall be a
+presumption of acceptability of the practice in the
+absence of compelling evidence that continuation
+of the practice would result in an immediate
+threat to health and/ or safety to the public, and
+the County shall not take action to cause
+cessation of such practice. If the practice shall
+not have been previously adjudged to be an
+acceptable practice, the County shall, subject to
+DCC 9.12.140, make a timely determination of
+whether a citation should issue.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 9, 1995)
+9. 12. 140. Farm practices advisory list.
+In determining whether any particular farming or
+forest practice is a generally accepted, reasonable
+and prudent practice, County staff may prior to
+issuing a citation, seekthe advice of an expert or
+experts in the particular practice involved from a
+list of experts provided by the DeschutesCounty
+Farm Bureau for each commodity or practices
+area.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 10,
+1995)
+9. 12. 150. Affect on livestock control
+districts.
+Nothing in DCC 9.12 shall apply to or restrict any
+action taken under DCC 6. 08 with respect to
+livestock at large.
+Ord. 2001- 016 § 2, 2001; Ord. 95- 024 § 11,
+1995)
+Chapter 9. 12 4 ( 03/ 2001)

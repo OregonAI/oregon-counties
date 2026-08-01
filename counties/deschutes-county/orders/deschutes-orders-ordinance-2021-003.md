@@ -1,0 +1,1406 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2021-003
+title: 'Ordinance No. 2021-003'
+doc_type: ordinance
+citation: 'Ordinance No. 2021-003'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1624052282_2021-116-Ordinance%202021-003%20Recorded%203_25_2021.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 5d6da0be915d96646f727af25a1eab401b2c15bb624e504edd8b63a69d50d6a0
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 30.260
+    - ORS 682.025
+    - ORS 682.062
+    - ORS 682.285
+    - OAR 333-255-0060
+    - OAR 333-260-0000
+    - OAR 333-265-0000
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2021-003 (Ordinance No. 2021-003)
+
+## At a glance
+
+Ordinance No. 2021-003 — orders of Deschutes County. 36 pages.
+
+## Full text
+
+Recorded in Deschutes County CJ2021- 116
+Nancy Blankenship, County Clerk
+Commissioners' Journal 03/ 25/ 2021 1: 21: 03 PM
+I_E NSEL o`
+6 cOG2 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+2021- 116
+ForRecordingStampOnly
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Chapter 8.30, Ambulance
+Service Area, of the DeschutesCounty Code and * ORDINANCE NO. 2021- 003
+Amending Appendix A to Chapter8.30 _ the
+Ambulance Service Area Plan for Deschutes County.
+WHEREAS, the DeschutesCounty Ambulance ServiceArea ("ASA") Advisory Committee is comprised
+of representativesfrom eachambulanceserviceprovider franchisein eachASA identified in the Plan, aswell asa
+representativefromtheDeschutesCountyHealthDepartment, Deschutes9-1-1, theDeschutesCountyEmergency
+Manager, and a citizen memberandphysicianadvisor; and
+WHEREAS, the Committee appointed a subcommittee of members to review and draft amendments to
+Chapter 8.30 ASA of the Deschutes County Code (" DCC"), including Appendix A to Chapter 8.30 (the ASA
+Plan); and
+WHEREAS, the subcommittee approved these amendments to allow franchisees to use subcontractors
+with prior approvalfromtheDeschutesCountyBoardof CountyCommissioners ("Board"), and also to update,
+edit, and clean up the languageof DCC Chapter 8.30 and the ASA Plan; and
+WHEREAS, DeschutesCounty Legal Counsel has reviewed and approved these changes pursuant to
+DCC 1.01. 012; and
+WHEREAS, the Board consideredthese amendmentsat duly noticed public hearings on March 3, 2021
+and on March 10, 2021 and concluded that the public and ASA operations will benefit from the amendments,
+now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 8.30 is amended to read as described in Exhibit " A," attached hereto
+and by this referenceincorporatedherein, with new languageunderlinedand languageto be deletedin
+sn.
+Section 2. AMENDMENT. Appendix A to DCC 8.30, The Ambulance Service Plan for Deschutes
+County, is herebyadoptedto readas describedwith new languageunderlinedandlanguageto be deletedin
+st --ikethFeughin Exhibit `B," attachedheretoand by this reference incorporated herein.
+PAGE 1 OF 2 - ORDINANCE NO. 2021- 003
+Dated this of e(•1C 204)
+ATTEST:
+tm 149
+Recording Secretary
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+OppbS e-d —
+ANTHONY DeBONE, Chair
+PHIL CHANG, Vice C it
+Dateof 1stReading: / l) dayof AJ G 202t
+D a-k " Ax4
+PATI
+ADAIR, Commissioner
+Dateof 2°aReading: day of aA 20 .
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Patti Adair A
+Anthony DeBone X
+Phil Chang
+Effective date: 2 day of 2024
+ATTEST
+4coc a----
+Re g Secret
+PAGE 2 OF 2 - ORDINANCE NO. 2021- 003
+Chapter 8. 30. DESCHUTES COUNTY AMBULANCE SERVICE AREAS
+8. 30. 010. Title.
+8. 30. 020. Purpose.
+8. 30. 030. Definitions.
+8. 30. 035. Ambulance Service Area ( A&A) Advisory Committee - Established.
+8. 30. 040. Administration.
+8. 30. 045. Service Providers Regulated.
+8. 30. 050.. Franchise - Application.
+8. 30. 055. Franchise - Review of Application.
+8. 30. 060. Franchise - Terms and Renewals.
+8. 30. 065. Franchise - Discontinuance of Service; Transfer.
+8. 30. 070. Subcontracting of Services by Franchisees
+8. 30. 0-70075. Enforcement.
+8. 30. 07-5080. Interruption of Service - Prevention.
+8. 30. 080085. Appeals, Abatement and Penalties.
+8. 30. 085090 Franchise Duties.
+8. 30. 090095. Exemptions.
+8. 30. 100 Appendix A - Ambulance Service Area Plan for Deschutes County, Oregon
+8. 30. 010. Title.
+This title shall be known asthe "Deschutes County Ambulance Service Areas."
+Ord. 2021- 003 § 1, 2021; Ord. 98- 064 § 1, 1998)
+8. 30. 020. Purpose.
+A. The purpose of DCC 8.30 is to establish ambulance services areas, assign emergency ambulance service
+providers, recognize non -emergency and inter -facility ambulance providers, create an ambulance service
+areafASAladvisory committee, provide penalties for violations of its provisions and prescribe effective
+dates.
+B. For the efficient and effective provision of emergency, non -emergency, and inter -facility ambulance
+services in accordance with the Ambulance Service Area (" Plan( ASA Plan), which is found in
+Appendix A to this Chapter, the ambulance service areasshown on the map known as Appendix # 1 of
+the ASA Plan is -are hereby adopted as the ambulance service areas ASA for Deschutes County. The
+Board, after notice to the affected ASA prev-iderfranchisee within each ASA and by the adoption of an
+order, may adjustthe boundariesof an ASA from time to time as necessaryto provide efficient and
+effective emergency ambulance services.
+Ord. 2021- 003 § 1, 2021; Ord. 98- 064 § 1, 1998)
+8. 30. 030. Definitions.
+Unless otherwise apparent from the context, certain words and phrases used in DCC 8.30 are defined as set
+forth in the " rnbulanee SerAee " fea SA Plan for Deschutes County, Oregon, Appendix A to this Chapter.
+Ord. 2021- 003 § 1. 2021; Ord. 2003- 023 § 1, 2003; Ord. 98- 064 § 1, 1998)
+8. 30. 035. Ambulance Service Area ( ASA)- Advisory Committee - Established.
+A. A committee to be known asthe Ambulance Service Area Advisory Committee ( Ccommittee) is hereby
+established.
+Chapter 8. 30 1 ( 95/ 201803/ 2021)
+1. The eenimit ee Committee shall consist of not less than twelve and no more than fourteen members
+from the following:
+a. Emergency department physician.
+b. DeschutesCounty Health Department representative.
+c ".., w.,'. nee s ider representative A rRepresentatives from the franchisees in each
+anshise4of the ASAs within Deschutes County.
+d. Deschutes County Emergency Manager
+e. 9- 1- 1 center representative.
+f. Citizen member.
+2. TheBoardshalldesignatea CountystaffmemberastheASA Administrator. TheAdministratorand
+otheremployeesof the Countyappointedby staff asthe Boardasit deemsappropriateshallbe ex-
+officio members of the eenirnWe Committee.
+B. Members of the Committee shall be appointed by and serve at the pleasure of the Board. The Board may
+appoint additional persons to the eemmittee-Committee to serve as ex-officio members or advisors. The
+Board may approve designation of alternates to serve in the absence of persons appointed to the
+conffnitteeCommittee.
+C. Exceptfor the ASA AdministratorandanyotherCounty staff, appointmentsto the Committeeshallbe
+for staggered eients
+shalltee- or —two-year terms. Membersshall serveuntil their successorsare appointednd qualified.
+Vacanciesshall be filled by the Board for the balanceof the unexpiredterm. Per -sonsMembersof the
+Committee may be appointed to successiveterms.
+D. The eonimit4ee Committee shall elect a chairperson. The ee i# ee- Committee shall meet at such times
+it deemsnecessaryor ascalledby theAdministratoror theBoard. The chairpersonor anytwo members
+of the eeittee Committeemay call a specialmeetingwith five days' noticeto othermembersof the
+eemmitt- e- Committee. However, members may waive such notice.
+E. A quorumconstitutesone-half of the eor:-mittee Committeemembersplus one for the transactionof
+business. _A majority vote of those present and voting is required to passmotions concerning actions to
+be taken by the Committee.
+F. In additionto mother dutiesprescribedbS -within DCC 8.30, theeein: iaee-Committeeshall:
+1. Review and make recommendations to the Administrator regarding the requirements for establishing
+franchises to provide ambulance services within the County.
+2_ Review and make recommendations to the Administrator regarding the ce'eeriteria for
+determiningselectingafranchiseeto provideambulanceserviceswithin theCounty.
+23. Regularly provide information to the Board from pre -hospitalcare consumers, providersand the
+medicalcommunityconcerningthe activitiesandperformanceof franchisees.
+34. PeriodicallyreviewtheASA Planandmakerecommendationsto theBoardin with --regardto:
+a. Standards established in the plan -Plan and improvements to such standards, of or the addition of
+new standardsas required by OAR 333-260-0000 through 333-260-0070;
+b. Coordination between emergency medical service resources;
+c. Dispatchproceduresandcompliance; and
+d. Effectiveness and efficiency of the ASA boundaries.
+45. Implementthe qualityassuranceprogramoutlinedin theASA Planto insureensurecompliancewith
+the ASA Plan.
+56. Perform such other duties as directed by the Board.
+G. Committeemembersshall avoid acting in any mannerwhere a conflict of interestmay arise. Any
+eer.«nifteeCommitteemember having a director indirectfinancialpecuniaryinterest in anymatterbeforethe
+coniffftee Committeefor considerationshall withdrawfrom participationin anyactionby the Chapter
+8. 302 ( 05/ 2201803/2021)
+eem e Committee in said matter. Nothing in DCC 8.30.035 shall limit the ability of any person to
+provide testimony before the eenmitteeCommittee.
+Ord. 2021- 003 § 1, 2021; Ord. 2013- 005 § 1, 2013 Ord. 2003- 023 § 2, 2003; Ord. 98- 064 § 1, 1998)
+8. 30. 040. Administration.
+The Administrator, under the supervision of the Board and with the assistance of the eemmiaeeCommittee,
+shall be responsible for the administration of the ASA Plan and ensure compliance with DCC 8. 30._ In order
+to carry out the duties imposed by the ASA Plan and DCC 8.30, the Administrator, or persons authorized by
+the Administrator, are authorized to enter on the premises of any person regulated by the ASA Plan and DCC
+8. 30 at reasonable times and in a reasonable manner to determine compliance. The Administrator shall also
+haveaccessto recordspertainingto ambulanceserviceoperationsof anypersonregulatedby theASA Plan.
+These records shall be made and provided as requestedby the Administrator.
+Ord. 2021- 003 & 1, 2021; Ord. 98- 064 § 1, 1998)
+8. 30. 045. Service Providers Regulated.
+A , bve May 14, 1997, n No person or entijy shall provide emergency ambulance services within
+Deschutes County unless such person or enti is franchised in accordance with DCC 8. 30 or is an
+ambulance service provider that has been authorized by the Board to contract with, and has in fact
+contracted with, a franchiseeto provide such services pursuant to DCC 8.30.070. Each franchisee retains
+the first right of refusal for non -emergency and inter -facility ambulance transports originating within their
+ASA boundaries.
+as defined i the ASA Plan
+B. If there is more than one application made for a franchise within an ASA, the provider that meets the
+application requirements of DCC 8.30.050 and that was providing ambulance services en the-effeztive
+dateof this Ordin * e pursuant to DCC 8.30 shall be franchised to provide emergency ambulance services
+for the ASA.
+Ord. 2021- 003 § 1, 2021; Ord. 2013- 005 § 1, 2013; Ord. 98- 064 § 1, 1998)
+8. 30. 050. Franchise - Application.
+A. Any person or entijy desiring to provide ambulance service within Deschutes County shall submit an
+application to be assigned a franchise within an ASA w thin : n days of the efr five date fthis ofdi,,. nce
+The application shall be submitted to the Administrator.
+B. Applicationsfor franchisesshallbeon formsprovidedby theBoard. In additionto informationrequired
+by the forms, the Board may require additional information it deems necessary to insur-e ensure
+compliance with DCC 8.30, including the ASA Plan, or to make a more informed decision.
+C. The applicant shall provide the following information:
+1. The name and addressof the person or- geney applyir, 1ppicant.
+2. The ASA the person or entijy desiresto serve, the location( s) from which ambulance services will be
+provided, andthe level of serviceto beprovided.
+3. A statement asto whether or not the applicant will subcontract for any service to be provided. If some
+servicewill beprovidedby subcontract, a copyof thatsubcontractshallbeprovided.
+4. A list of vehiclesto be usedin providing emergencyambulanceservicesincludingyear, makeand
+model, and verification that each vehicle is licensed as a basic and/ or advance life support ambulance
+by the Oregon Health Authority.
+5. A statement that all equipment and supplies in each ambulance conforms to Health Authority
+standards.
+6. A list of personnel to be usedin providing emergency ambulance service and their current Emergency
+Medical Services Provider level and license number, or other appropriate certification.
+Chapter 8. 30 3 ( 05/ 201803/ 2021)
+7. Proof of financial ability to operate, including an operating budget for public bodies or financial
+statement for private entities, references, and a statement 4-- demonstrating the provision of past
+ambulance service. Private companies must include aprofit and loss statementin addition to the above
+materials. Other appropriate financial information such as income tax returns or reports by
+governmentalauthorities shall also be submitted upon request. Public bodies must provide
+information regarding the sourcesand amounts of funding for emergency ambulance services.
+8. Proofof public liability insurancein the amountof not lessthanthe limits of liability providedunder
+the Oregon Tort Claims Act, ORS 30.260 to 30.300. Public' agenciesmay in lieu of insurance establish
+a program of self-insurance in accordancewith State law.
+9. A statement of experience in providing emergency ambulance service of a comparable quality and
+quantityto insureensurecompliancewith DCC 8.30, regulationspromotedthereunder, anyfranchise
+issued, and the ASA Plan.
+10. Statementof ability to comply with the rules and regulations of the ASA Plan and applicable County
+ordinances, in the form of a narrative summary.
+11. A descriptionof any prepaidambulanceplan, includingnumberof yearsof operation, funding and
+term.
+12. Any othermaterialsor informationrequested.
+13. In the caseof an application to transfer or take over an already assignedfranchise:
+a. A detailed summary of how the proposed change will improve emergency ambulance response
+time-, and the quality and level of services to the ASA. It shall also include an assessmentof how
+the proposed change will impact the existing first response system.
+b. Evidence that the call volume in the ASA is sufficient to financially or otherwise justify the
+change in service.
+c. Any other records or materials requested.
+D. TheBoardmay, from time to time, by order, adoptfeesto defraytheactualreasonablecostsincurredby
+Deschutes County in processing applications, and adopt annual franchise fees to defray reasonable costs
+of Deschutes County in administering the ASA Plan and ensuring compliance with DCC 8.30.
+E. Franchise applications shall be reviewed by the ASA ^ mmitteeCommittee, who will make a
+recommendation efas to the assignment of franchises within theeach ASAs to the Board. The assignment
+of franchise within an ASA shall be made by an order of the Board.
+Ord. 2021- 003 § 1, 2021; Ord. 2013- 005 § 1, 2013; Ord. 98- 064 § 1, 1998)
+8. 30. 055. Franchise - Review of Application.
+A. Applicationsshallbereviewedby theeemnaitteeCommittee, who shallmakesuchaninvestigationasit
+deemsappropriate, andwhomayrequestassistanceof otherpersonsasnecessary.
+B. TheAdministratorshallnotify theholderof a franchisef= pr-eviding emergency= mbulanee ..e_ , ieeto an
+A& N-the franchisee within any ASA of any applications by another person to take over that franchise.
+C. Unlessthe time is extendedby the Board for good cause, the eemmittee-Committeeshall make its
+recommendationto the Boardto grant, deny, modify, or attachappropriateconditionsto the application.
+The senunittee Committee shall transmit its recommendation within 60 days after the application.
+D. Upon receipt of the ' s Committee' s recommendation, the Board:
+1. Shall publish notice of its intent to hold a public hearingon the applicationandthe Committee's
+recommendations at least 10 days, but not later than 30 days following publication of such notice.
+2. May requireadditionalinvestigationby the eemmitteeCommitteeif it finds thatthereis insufficient
+information on which to base its action.
+3. Shall, upon the basis of the application, the eeTCommittee' s recommendation, such other
+information asis permittedby DCC 8.30, andsuchinformationasis presentedto the Board at the
+publichearing, makeanordergranting, denying, ormodifying theapplicationor attachingconditions
+thereto.
+Chapter 8. 30 4 ( 055/201803/ 2021)
+4. Shall not make an order adverse to the applicant or to the holder of, or applicant for, another franchise
+effective lessthan 30 days after the date of such order and shall notify such persons in writing of the
+order. The Board may suspend operation of this DCC 8.30.055 and enter an emergency order if it
+finds there is an immediate and serious danger to the public, or it findser a health hazard or public
+nuisance would be created by a delay.
+conditions, and the franchise find-Shellshe, iS unable to pFevide a paAieular- sen,iee, the Board may
+PeFfflitthe fm-nehise, to Suh-PORMtraetSuchSovVieVe, to -aneffier- per -son if the P-AN-w-d- finds that the quality
+F ..
+tie as it deems neeessai,.
+Ord. 2021- 003 § 1, 2021; Ord. 98- 064 § 1, 1998)
+8. 30. 060. Franchise - Terms and Renewals.
+A. ,
+2000.
+A& T-h r- a-fter, and- unlesia-Unless the Board finds that alonger or shorter term is required in the public interest,
+the term of an emergency ambulance service franchise shall be a continuing ten (10) years beginning on
+July 1 and ending June30 ten years later.
+GB. _Unless grounds exist for refusal to renew a franchise under provisions for suspension or revocation
+as set forth within DCC 8.30, or unless tea franchise is to be awarded to a new person or entity, ep,
+uly ' st of eaehyear, the franchises will be automatically renewed on July 1' of each year for a term
+of one ( 1) year, unless the Board notifies the --a franchisee at least 60 days in advance of July 1st; of its
+intent not to renew the franchise. Upon notice from the Board of intent not to renew, the term of the
+current franchise will be no more than frve}- two 2 ears from the date of notice of intent not to
+renew.
+DC. Not more than 180 days and not less than 120 days prior to the expiration of the franchise, any person or
+entity desiring to take over the -a franchise shall submit an application to the Administrator.
+D. Review of all applications for - to- take over ef- a franchise shall be conducted in accordance with the
+provisions of DCC 8.30.
+Ord. 2021- 003 § 1, 2021; Ord. 2018- 004: Ord. 2003- 023 § 3, 2003; Ord. 98- 064 § 1, 1998)
+8. 30. 065. Franchise - Discontinuance of Service; Transfer.
+A. If a franchisee discontinues service before the expiration date of his herits franchise, the Board shall set a
+time by which applications must be submitted for a new franchise in the ASA.
+B. The eem it ee—Committee shall develop an interim plan for coverage of the ASA, using existing
+franchisees and/ or other available resources until the A SA franchise can be reassigned.
+C. TheBoardshallissueatemporarycertificate, validforastatedperiodnottoexceedsixmonths, entitling
+a personto provide emergencyambulanceservicein all or part of the ASA. The Board may renewa
+temporary certificate for one additional six month period. ,
+D. A franchiseemaytransferits franchiseto anotherpersononly uponwritten noticeto andapprovalby the
+Board. Review of an application for transfer of a franchise shall be conducted in the same manner as for
+an application pursuant to DCC 8.30.
+Ord. 2021- 003 § 1, 2021; Ord. 98- 064 § 1, 1998)
+8. 30. 070. Sub - contracting of Services by Franchisees.
+A. A franchisee wishing to contract with another ambulance service provider to provide emergency
+ambulance services within the boundaries of its ASA must first obtain approval from the Board to do so.
+Before such approval will be provided by the Board:
+Chapter 8. 30 5 - ( 05/ 201903/ 2021)
+1. Contracts assigning the provision of emergency ambulance services from a franchisee to a
+subcontracted ambulance service provider shall be in writing. The franchisee will provide the
+proposed contract with a proposed subcontracted ambulance service provider and M supporting
+materials to the Board for its review and approval, and
+2. The proposedsubcontractedambulanceserviceprovider must be vetted and approvedby the
+Board to provide emergency ambulance services using the application process outlined in DCC
+8. 30. 050 - Franchise - Application.
+B. A franchisee may contract with another ambulance service provider to provide non -emergency or inter -
+facility ambulancetransportsso long asthe quality, effectiveness, andscopeof suchservicesareat all
+timesmaintainedby thesubcontractedambulanceserviceprovider. Contractsassigningtheprovisionof
+non -emergency and inter -facility ambulance transports to a subcontracted ambulance service provider
+shall be in writing_
+C. Franchiseesmgy contract for emergencyambulanceservices or non -emergency or inter -facility
+ambulance transports with a private, non -governmental entity or person as otherwise provided herein.
+Franchiseesmay contract with a private, non -governmental entity or person for a term of up to two years.
+Franchisees must request authorization from the Board to renew such contracts at least forty- five ( 45)
+days prior to the expiration of the term of any such contract. Renewal requestsmay be authorized by the
+Boardso long asthe requirementsplacedon subcontractedambulanceserviceprovidersin paragraphs
+A) and ( B) above, as applicable, are maintained, and so long as an acceptable record of service is
+demonstrated to the Board.
+D. Any ambulance service provider approved to contract with a franchisee to provide emergency ambulance
+services or non -emergency or inter -facility ambulance transports as provided herein shall not have the
+status of franchisee, but will rather be an approved subcontractor of the franchisee within the boundaries
+of the franchisee' s ASA.
+E. Any ambulanceserviceprovidercontractingwith a franchiseeto provideemergencyambulanceservices
+or non -emergencyor inter -facility ambulancetransportsas provided herein must comply with all
+applicable requirements found in DCC 8.30.090(A) through ( D) in the performance of such services.
+Ord. 2021- 003 § 1, 2021,)
+8. 30. 0750. Enforcement.
+A. Subjectto the policiesandremediesstatedin DCC 8.30, andpenaltiesprovidedelsewherein DCC 8.30,
+the Administrator shall, upon reasonable cause, make initiate an investigation to determine if there is
+sufficient reason and causeto suspend, modify, revoke, or refuse to renew a franchise asprovided in DCC
+8. 30. 070075.
+B. If in the judgment of the eeFpAnttee-Committeeor Board, there is sufficient evidenceto constitutea
+violation of applicable local, state or federal law, or if the franchise has materially misrepresented facts
+or information given in the application for the franchise, the Board shall notify the franchisee in writing,
+by certified mail, or by personalservice, as is providedby law for the serviceof a summons, of the
+violation and what stepshe must take to cure the violation. The Board shall send a copy of the notice to
+the- committe Committee. C.
+Tendaysfollowingthe receiptof noticeof violation, the Boardmay enter its orderof revocation, modification,
+suspension or non -renewal, and maytherebyrevoke, modify, suspend, or notrenewthe franchise,
+unless prior theretothe franchiseeshall file withthe Boardhis requestfor a hearingon theBoard'
+s noticeof violation. If saidrequestis timelyfiled, or if theBoardmoveson its own, revocation, modification,
+suspension, or non -renewalwill be stayeduntil the Boardcan, at its earliestconvenience, hold
+a publichearingon thematter. Notice of saidhearingshall be givento thefranchiseeby mailand to all
+othersby publicationin a newspaperof generalcirculationin theCountyor theASAat least10 daysprior
+to suchhearing. The burdenof proofat thehearingshall be uponthe Administratorto showby Chapter
+8. 306 ( 05/ 201803/2021)
+substantialevidencein therecordasawholethatthefranchiseefailedto complywith DCC 8.30, theASA
+Plan, state statute, or administrative rule.
+D. In lieu of the suspensionor revocation of the franchise, the Board may order that the violation be corrected
+andmakethe suspensionor revocationcontingentuponcompliancewith the orderwithin the period of
+time statedtherein. Notice of the Board action shall be providedby mail to the franchisee. The notice
+shallspecifytheviolation, the actionnecessaryto correctthe violation, andthe dateby which the action
+must be taken. The franchisee shall notify the Board of the corrective action taken. If the franchisee fails
+to takecorrectiveactionwithin thetime required, the Boardshallnotify the franchiseeby certified mail,
+return receipt requested, or by personal service, that the franchise is suspendedor revoked upon service
+of the notice.
+E. Shouldthefranchiseefail to complywith theBoard'sorder, then -theBoardmaytakeanystepsauthorized
+by law to enforce its order.
+Ord. 2021- 003 1, 2021; Ord. 98- 064 § 1, 1998)
+8. 30. 0-7-5080. Interruption of Service - Prevention.
+Whenever the Board finds that the failure of service would adversely impact the health, welfare or safety of
+the residents of this County, the Board shall, after reasonable notice, but not less than 24 hours' notice to the
+franchisee, hold a public hearing. Upon appropriate findings after the hearing, the Board shall have the right
+to authorize another franchisee or other person to provide services.
+Ord. 2021- 003 § 1, 2021; Ord. 98- 064 § 1, 1998)
+8. 30. 080085. Appeals, Abatements and Penalties.
+A. All the decisions of the Board under DCC 8.30 shall be reviewable by the Circuit Court of the State of
+Oregon for the County of Deschutes, enly-solely by way of writ of review.
+B. The provision of emergency ambulance service by any person in violation of DCC 8.30, or regulations
+promulgated thereunder, is a nuisance and the court may, in addition to other remedies provided by law
+or by DCC 8.30, institute injunctive abatement or other appropriate legal proceedings to temporarily or
+permanently enjoin or abate such emergency ambulance service.
+C. Any person who violates any of the provisions of DCC 8.30 is guilty of a violation. Failure from day to
+day to comply with the terms of these provisions shall be a separate offense for each day. Failure to
+comply with any provision shall be a separateoffense for each such provision.
+D. Violations of these provisions are punishable, upon conviction, by a fine of not more than $500.00 for a
+non -continuing offense, i.e., an offense not spanning two or more consecutive calendar days. In the case
+of a continuing offense, i.e., an offense which spanstwo or more consecutive calendar days, violations of
+the provisions is punishable by a fine of not more than $500.00 per day up to a maximum of $ 1,000.00 as
+provided by law.
+Ord. 2021- 003 § 1, 2021; Ord. 98- 064 § 1, 1998)
+8. 30. 085090. Franchisee Duties.
+The Franchisee:
+A. Shall conduct its operation in compliance with all applicable state and federal laws, rules and regulations,
+the terms of this Ordinanee .DCC 8.30 and the Deschutes County ASA Plan;
+B. Shall not fail or refuse to respond to an emergency call for service when an ambulance is available for
+service;
+C. It is expected that billing and invoicing for services performed by franchisees will be performed
+according to applicable state, federal, or local law.
+ED: Shall not respond to a medical emergency located outside its assignedASA except:
+1. When a request for specific emergency ambulance service is made by the person calling for the
+ambulance and the call doesnot dictate an emergency service response;
+Chapter 8. 30 7 ( 05/ 22M03/ 2021)
+2. When the franchisee assigned to the ASA is unavailable to respond and the franchisee is requested
+by another franchisee or 9- 1-1 dispatch to respond;
+3. When the response is for supplemental assistance or mutual aid.
+DE. Shall not voluntarily discontinue service to. its assignedASA until it has:
+1. Given 60 days written notice to the Administrator, or
+2. Obtained written approval of the Board.
+F. DCC 8.30.0908-5(EA)_(4shall not apply to:
+1. Change, restrictionor terminationof servicewhenrequiredby any public agency, public body or
+court having jurisdiction; or
+2. Transfer of franchises pursuant to DCC 8.30.
+Ord. 2021- 003 § 1, 2021; Ord. 98- 064 § 1, 1998),
+8. 30. 090095. Exemptions.
+A. Nothing in DCC 8.30 prohibits a 911 agency, responsible for the dispatching of emergency services, from
+dispatching an initial responder to the scene of a medical emergency in addition to dispatching an
+emergency ambulance service provider.
+B. DCC 8.30 shall not apply to the following:
+1. Ambulance services and ambulances owned or operated under the control of the United States
+Government; and
+2. Vehicles and aircraft being usedto render temporary assistancein the caseof a major catastrophe or
+emergency with which the ambulance services of the surrounding locality areunable to cope, or when
+directed to be usedto render temporary assistanceby an official at the sceneof an accident; and
+3. Vehicles operated solely on private property or within the confines of institutional grounds, whether
+or not the incidental crossing of any public street, road or highway through the property or grounds
+is involved; and
+4. Ambulances or vehicles not covered by the Deschutes County ASA Plan transporting patients from
+outside the County to a health care facility within the County, or which are passing through without
+a destination in the County.
+Ord. 2021- 003 § 1, 2021; Ord. 98- 064 § 1, 1998)
+Chapter 8. 30 8 ( 05l201803/ 2021)
+V
+0000i
+Q /
+1ES
+AMBULANCE SERVICE AREA PLAN
+FOR
+DESCHUTES COUNTY, OREGON
+Table of Contents
+Chapter 8. 30 APPENDIX A ( 3,L29 83/ 2021)
+I. Certification By Governing Body of
+Deschutes County ASA Plan.................................................................................... Page 4
+II. Overview of Deschutes County....................................................................."...'.'". Page 5
+III. Definitions................................................................................................................ Page 6
+IV. Boundaries
+1. Ambulance Service Area Narratives and Description........................................................ Page 9
+2. Maps.................::............................................................................................................... Page 15
+3. Alternatives to Reduce Response Times........................................................................... Page 15
+V. Systems Elements
+1. Notification/ Response Times............................................................................................ Page 16
+2. Level of Care..................................................................................................................... Page 16
+3. Personnel........................................................................................................................... Page 17
+4. Medical Supervision.......................................................................................................... Page 17
+5. Patient Care Equipment..............................................................................:...................... Page 17
+6. Vehicles............................................................................................................................. Page 17
+7. Training............................................................................................................................. Page 17
+8. Quality Assurance............................................................................................................. Page 18
+8. 1 Structure.......................................................................................................................... Page 18
+8. 2 Process............................................................................................................................. Page 18
+8. 3 Problem Resolution......................................................................................................... Page 19
+8. 4 Sanctions for Non - Compliant Personnel or Providers .................................................... Page 19
+8. 5 Penalties........................................................................................................................... Page 20
+8. 6 Nuisance.......................................................................................................................... Page 20
+9. Nonemergency Transports................................................................................................ Page 20
+VI. Coordination
+1. Authority for Ambulance Service Area Assignment......................................................... Page 21
+2. Entity That Will Administer The ASA Plan..................................................................... Page 21
+3. Complaint Review Process................................................................................................ Page 21
+4. Mutual Aid Agreements.................................................................................................... Page 21
+5. Disaster Response.............................................................................................................. Page 22
+5.1 County Resources Other Than Ambulances.................................................................... Page 22
+5.2 Out of County Resources .................................. :............................................................... Page 22
+5.3 Mass Casualty Incident Plan........................................................................................... Page 22
+6. Coordination...................................................................................................................... Page 23
+7. EMS Responder Guidelines.............................................................................................. Page 23
+8. Personnel and Equipment Resources................................................................................. Page 23
+9. Emergency Communications and Systems Access
+9. 1 Telephone Access............................................................................................................ Page 23
+9. 2 Dispatch Procedures........................................................................................................ Page 24
+9. 3 Radio System................................................................................................................... Page 24
+10. EmergencyMedical ServicesDispatcherTraining......................................................... Page 25
+VII. Provider Selection
+Chapter 8. 30 APPENDIX A ( 5/ 201- 83/ 2021)
+J
+L
+1. Reassignment of an ASA................................................................................................... Page 25
+2. Application Process for Applying for an ASA.................................................................. Page 25
+3. Notification of Vacating an ASA...............:...................................................................... Page 25
+4. Maintenance of Level of Service'..................................................................................... Page 26
+VIII. Franchise Agreement................................................................................................. Page 26
+IX. County Ordinances and Rules.................................................................................. Page 26
+Chapter 8. 30 APPENDIX A ( 83/ 2021)
+I. CERTIFICATION OF DESCHUTES COUNTY AMBULANCE SERVICE AREA
+PLAN
+The undersigned certify pursuant to Oregon Administrative Rule 333-260-0030 (2)( a)(b)(c) that:
+1. Each subject or item contained in the Deschutes County Ambulance Service Plan has been
+addressed and considered in the adoption of the plan lan by this body.
+2. In this governing body'sjudgment, the ambulance service areasestablished in the planRlan
+provide for the efficient andeffectiveprovision of ambulanceservices.
+3. To the extent they are applicable, the County has complied with ORS 682.062 and 682.066
+and existing local ordinances and rules.
+DATED this 231h-lday of jam 2021- 13.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+Alan=Unge:Anthony DeBone, Chair
+Tammy BanPhil Chan, Vice Chair ATTEST:
+Recording
+Secretary Anthony De , o PattiAdair, CommissionerChapter
+8. 30APPENDIX A ( 3, 20183/2021)
+II. OVERVIEW OF DESCHUTES COUNTY
+Deschutes County is located in the geographic center of the state. The County covers
+approximately 3200 square miles, extending east about 105 miles from the crest of the Cascade
+Mountainsto the HarneyCounty line, andspreading53 miles from north to southbeginningatthe
+Jefferson County line and terminating at its southern border along Klamath and Lake Counties.
+Populationof the countyasof 2024-0 was 157,733197,692. The City of Bend, with a populationof
+9100,430, and the City of Redmond with 24-,24530, 667, are the county' s largest cities. Both
+are located on Highway 97, which runs north and south through the county. Other population areas
+are the City of Sisters, located along Highway 20 between Black Butte Ranch and Bend with a
+population of ''M2, 443, andthe City of La Pine in the Southernportion of the county with a
+population of' 2, 443. Health care industry, tourism, and small business provide the basis of
+the county' s economy.
+Chapter 8. 30 APPENDIX A ( 3l90 83/ 2021)
+III. DEFINITIONS
+1. " Address and consider" has the meaning given these terms by ORS 682.062.
+2. Advanced Emergency Medical Technician ( AEMT or Advanced EMT)" means a person
+who is licensed by the Division as an Advanced Emergency Medical Technician. OAR 333-265-
+0000,( 1).
+3. " Ambulance: has the meaning given that term by ORS 682.025( 1).
+4. " Ambulance Service" has the meaning given that term by ORS 682.025(2).
+5. " Ambulance Service Area ( ASA)" means a geographic area which is served by one
+ambulance service provider, and may include all or a portion of a county, or all or portions of two
+or more contiguous counties.
+6. " Ambulance Service Plan" means a written document, which outlines a process for
+establishing a county emergency medical services system. A plan addresses the need for and
+coordination of ambulance services by establishing ambulance service areas for the entire county
+and by meeting the other requirements of these rules. Approval of a plan will not depend upon
+whether it maintains an existing system of providers or changes the system. For example, a plan
+may substitute franchising for an open -market system.
+7. " ASA Advisory Committee ( Committee)" means a committee formed to review
+standards, make recommendations to or set new standards for the Board of County Commissioners
+for all matters regarding EMS and review and make recommendations regarding soundness of the
+ASA.
+8. " ASA Administrator" is the person designatedby the Board of Commissionersto
+administer the ASA ordinance and plan lan.
+9. " Elausex--Priority Dispatch" is a system used by the PSAP to prioritize calls from least
+severe to most severe. Omega, alpha,
+Char -lie, ilea., and Eehe eall .. always esensid,ered emergeney e is
+10. " Communication System" means a system of two- way radio communications between
+ambulances, dispatchers, hospitals and other agencies as needed. A two -channel multi -frequency
+capacity is minimally required.
+11. " Deschutes County Board of Commissioners ( Board)" means the elected governing body
+that hasjurisdiction over the Deschutes County ASA Plan.
+12. " Division" meansthe Oregon Health Authority, Emergency Medical Services and Trauma
+Program.
+13. " EffectiveProvisionof AmbulanceServices" meansambulanceservicesprovidedin
+compliance with the County Ambulance Service Plan provisions or boundaries, coordination and
+system elements.
+14. " Efficient Provision of Ambulance Services" means effective ambulance services
+providedin compliancewith theCountyAmbulanceServicePlanprovisionsfor providerselection.
+Chapter 8. 30 APPENDIX A ( 5,L20183/ 2021)
+15. " Emergency" , means those medical or trauma conditions that manifest themselves by
+symptoms of sufficient severity that a prudent layperson possessingan average knowledge of health
+and medicine would reasonably expect that failure to receive immediate medical care would place
+the health of a person, or the fetus in the case of a pregnant woman, in serious jeopardy. An
+emergency condition also includes any condition specifically dealt with in the emergency medical
+dispatch system adopted by Deschutes County 911.
+16. ` Emergency Ambulance" means that ambulance provider designated by the Board as the
+sole ambulance provider for an assigned ASA.
+17. " Emergency Ambulance Provider" means that ambulance provider designated by the
+county as an emergency ambulance provider for an ASA.
+45—. 18. " Emergency care" means the performance of acts or procedures under emergency
+conditions in the observation, care and counsel of persons who are ill or injured or who have
+disabilities; in the administration of care or medications as prescribed by a licensed physician,
+insofar as any of these acts is basedupon knowledge and application of the principles of biological,
+physical and social science as required by a completed course utilizing an approved curriculum in
+pre -hospital emergency care. However, " emergency care" does not include acts of medical
+diagnosis or prescription of therapeutic or corrective measures. ORS 682.025(3).
+4-6—. 19. " Emergency Medical Responder ( EMR)" means a person licensed by the Division as
+defined in OAR 333- 265- 0000( 14).
+4-7—.20. "Emergency Medical Services (EMS) Agency" means any person, partnership, corporation,
+governmental agency or unit, sole proprietorship or other entity that utilizes Emergency Medical
+Services Providers to provide pre -hospital emergency or non -emergency care. An emergency
+medical services agency may be either an ambulance service or a non -transporting service. OAR
+333- 265- 0000( 15).
+4-8- 21. " Emergency Medical Services Provider ( EMS Provider)" means aperson who has received
+formal training in pre -hospitalandemergencycareandis state -licensedto attendto anyill, injured
+or disabled person. Police officers, fire fighters, funeral home employees and other personnel
+serving in a dual capacity, one of which meetsthe definition of " emergencymedical services
+provider" are " emergency medicals service providers" within the meaning of ORS Chapter 682.
+OAR 333- 265- 0000( 16).
+4-9L-.-22."Emergency Medical Technician ( EMT)" meansa personlicensedby the Division and&
+defined in OAR 333- 265- 0000( 17, 18).
+20-. 23.—" Emergency Medical Technician -Intermediate ( EMT -Intermediate)" means a person
+licensed by the Division and defined in OAR 333-265-0000( 19).
+24- 24. " Paramedic' means a person licensed by the Division and defined in OAR 333-265-
+0000( 20, 27).
+25. " Inter -Facility Ambulance" is one who is licensed by the State of Oregon and provides
+transportation services between hospitals or transfers to and from a hospital to a residential care
+facility, assisted living facility, adult foster care home, convalescent care facility, non -urgent
+medical clinic. rehabilitation center, or private residence.
+Chapter 8. 30 APPENDIX A ( 5QQ1 3/ 2021)
+22 26. " Franchise" means the authorization granted by the Board to provide exclusive emergency
+ambulance services in a specific geographic region within Deschutes County.
+24 27. " Health Officer" means the Deschutes County Health Officer.
+2-5-. 28. " License" meansthosedocumentsissuedby the Division to the owner of an ambulance
+service and ambulance, when the service and ambulance are found to be in compliance with
+ORS 682. 010to 682. 991 and OAR 333- 250- 0000 through 333- 250- 0100 and 333- 255- 0000
+through 333- 255- 0092.
+29. " Non -Emergency" meansthosemedical or traumaconditions that arenot specifically dealt
+with in the emergencymedical dispatchsystemadoptedby the County. Unlessspecifiedby rule,
+those conditions that fall within the emergency medical dispatch system shall immediately be
+transferred to the emergency ambulance providers designated by Deschutes Coupthroughthe 911
+system. 30. "
+Non - EmergencyAmbulance" Non - emergencyambulance provider is onewho is licensedas an
+ambulanceby the Stateof Oregonand providestransportationservices for thoseconditionsthat are
+definedas non -emergency. 2-
+6-. 31. " Nonemergencycare" means. the performanceof actsor procedureson a patientwho is
+notexpectedto die, becomepermanentlydisabled or sufferpermanentharm withinthe next24 hours,
+includingbut not limitedto observation, care and counselof a patientand the administrationof
+medicationsprescribed by a physicianlicensed under ORS chapter677, insofaras anyof thoseacts
+are basedupon knowledgeand applicationof theprinciplesof biological, physical and socialscience
+and are performedin accordancewith scopeof practicerules adoptedby theOregonMedical
+Board in thecourseof providingpre - hospitalcare. See ORS682. 025(8). 32. "
+Non -EmergencyTransportationService" means a personwho holdsa validlicenseto provide
+non - emergencyambulance transportation. 27-.
+33. " NotificationTime" means the lengthof timebetweenthe initialreceipt of therequestfor
+emergencymedical service by eithera provideror a PSAP, and the notificationof allrespondingemergency
+medical service personnel. 2 .
+34. " Owner" means the personhaving all theincidentsof ownershipin anambulanceservice
+or an ambulancevehicle or wherethe incidentsof ownershipare in differentpersons, the person,
+other than a securityinterest holder or leaser, entitledto thepossessionof anambulancevehicle
+or operationof anambulanceservice under a securityagreementor a leasefor a termof 10 or
+moresuccessivedays. 29,
+35. " Patient" means an ill, injured, or disabledperson who may be transportedin anambulance. A—.
+36. ProviderSelection Process" means the processestablishedby thecountyfor selectingan ambulance
+service provider or providers. 3-
+1. 37. "Public ServiceAnsweringPoint ( PSAP)" means a 24--hourcommunicationsfacility established
+as anansweringlocation for 9- 1- 1 callsoriginatingwithin a givenservicearea. Chapter
+8. 30APPENDIX A ( 3, L20183/ 2021)
+3-2-.-38. " Quick Response Team ( QRT)" means an agency that provides initial response and basic
+life support care without transportation capabilities by licensed emergency medical service
+providers.
+33- 39. " Response Time" means the length of time between the notification of each provider and
+the arrival of each provider' s emergency medical service unit( s) at the incident scene.
+3.4- 40. -" Stable Patient" is a patient with the following criteria:
+1. Has vital signs in a normal range that are not changing significantly or expected to
+do so.
+a. Pulse 50- 120.
+b. Systolic blood pressure 90- 190.
+C. Respirations between 10 to 29 breaths per minute.
+2. Does not, and is not expected to, require cardiac monitoring or ALS procedures.
+3. Has a patent natural airway and is not in respiratory distress.
+4. Has no unstabilized injuries that will be aggravated by motion in transport.
+5. Is not experiencing acute changes in level of consciousness.
+3-5- 41. " Supervising Physician" has the meaning of a supervising physician as provided in ORS
+682. 025( 14).
+36—. 42." System Response Time" means the elapsed time from when the PSAP receives the call
+until the arrival of the appropriate provider unit( s) on the scene.
+43. " Unstable Patient" is any patient who cannot be stabilized who is deteriorating or likely to
+deteriorate. A medical, provider contacting 911 for emergency transport may make the determination
+whether or not patient is stable or unstable and requires emergency transport. These patients require
+emergency transport.
+IV. BOUNDARIES
+1. Ambulance Service Area Narratives and Description.
+Deschutes County consists of eight ASAs. The eight ASAs are: (1) Bend; ( 2) Black. Butte Ranch;
+3) Burns; ( 4) Crooked River Ranch; ( 5) La Pine; ( 6) Redmond; ( 7) Sisters; and ( 8) Sunriver. The
+boundaries of each of the eight ambulance service areas are as follows:
+All Townships and Ranges listed are based upon the Willamette Meridian.
+ASA # 1— Bend
+Size of ASA: Approximately 1450 square miles. However, most of the ASA is comprised of either
+the Deschutes National Forest or B. L. M. lands.
+BEGINNING at the intersection of the south line of Section 16, T17S, R8E, with the westerly
+line of Deschutes County; thence east upon the section lines approximately 6.3 miles to the NW
+corner of Section 22, T17S, R9E; thence south upon the section line to the SW corner of the N'/ z
+of said Section 22; thence east 3. 0 miles to the SE corner of the N'/ z of Section 24, T17S, R9E;
+thence north upon the section line to the NE corner of said Section 24; thence east upon the
+section line to the SE corner of Section 18, T17S, R10E; thence north upon the section line to the
+NE corner of said Section 18; thence east upon the section lines 2.0 miles to the SE corner of
+Chapter 8. 30 APPENDIX A ( 3{ 201 g3/ 2021)
+Section 9, T17S, RI OE; thence north upon the section lines 2. 0 miles to the NW corner of Section
+3, T17S, R10E; thence east upon the section lines 3. 0 miles to the SE corner of Section 36, T16S,
+R10E; thence north upon the section line to the NE corner of said Section 36; thence east upon
+the section line to the SW corner of the SE'/ 4 of Section 10, T16S, RI IE; thence east upon the
+southern boundary of Deschutes County Tax Lot 1611000008100 approximately 0.2 miles where
+saidtax lot boundaryturnsin a northeasterndirection; thencenortheasterlyupon saidtax lot
+boundaryline to theintersectionof saidtax lot boundarywith the easternboundaryof Deschutes
+CountyTax Lot 1611000001419; thencenortheasterlyuponthe easternboundaryline of saidtax
+lot to the intersectionof saidtax lot with DeschutesCountyTax Lot 1611000001418; thence
+northeasterly upon the eastern boundary of said tax lot to the intersection of Deschutes County
+Tax Lot 1611000001401; thence northerly upon the eastern boundary of said tax lot to the
+intersection with the western boundary of Deschutes County Tax Lot 1611000007900; thence
+south upon the western boundary of said tax lotto the SW corner of the SW '/4of the NW '/ 4of
+Section 29, T16S, RI IE; thence. east to the SE corner of the SW '/ 4 of the NW '/ 4 of said Section
+29; thence north to the NE corner of the NW '/ 4 of the NW '/ 4 of said Section 29; thence east upon
+the section line to the SE corner of the SW '/ 4 of Section 20, T16S, R11E; thence north to the NE
+corner of the SW '/ 4 of said Section 20; thence east to the SE corner of the NE'/ 4 of said Section
+20; thence north upon the section line to the NE corner of said Section 20; thence east upon the
+section line to the SE corner of the SW '/ 4 of Section 16, T16S, RI IE; thence north to the NE
+corner of the SE'/ 4 of the SW '/ 4 of said Section 16; thence west to the NW corner of the SE'/ 4 of
+the SW '/ 4 of said Section 16; thence north to the NE corner of the SW '/ 4 of the NW '/ 4 of said
+Section 16; thence west to the SW corner of the NW '/ 4of the NW '/ 4of said Section 16; thence
+north upon the section line to the NW corner of said Section 16; thence east upon the section line
+to the NE corner of said Section 16; thence north upon the section line to the intersection with the
+southernmost right- of- way line of US Highway 20; thence perpendicularly across US Highway
+20 in a northeastern direction to the intersection with the southern boundary line of Deschutes
+CountyTax Lot 1611100000300; thencesoutheasterlyalongthe southernboundaryof saidtax lot
+to the SE corner of said tax lot; thence north to the NE corner of the NW '/ 4 of the NW '/ 4 of
+Section 10, T16S, RI IE; thence east upon the section lines to the SW corner of Section 1, T16S,
+RI IE; thence north upon the section line to the NW corner of said Section 1; thence easterly upon
+section lines approximately 2.25 miles to the NE corner of the W '/ 2of the W '/ 2 of section 5,
+T16S, R12E; thencesoutherlyto the SEcornerof the W '/2of the W '/2 of saidsection5; thence
+easterly upon Newcomb Road to the SE corner of section 4, T16S, R12E; thence easterly upon
+the south line of section 3, T16S, R12E, to the intersection with the centerline of the Deschutes
+River; thencesoutherlyalongthe centerlineof theDeschutesRiver to the intersectionwith the
+southline of section9, T16S, R12E; thenceeasterlyuponsaidsectionline to theNE cornerof the
+W '/2 of section16, T16S, R12E; thencesoutherlyto the SEcornerof theNW '/4 of saidsection
+16; thence westerly to the SW corner of the E'/ z of the NW '/ 4 of said section 16; thence
+southerly to the SE corner of the W '/ 2of the W '/ z of said section 16; thence easterly upon
+section lines to the NE corner of section 24, T16S, ROE; also being a point on the Deschutes
+County/Crook Countyboundaryline; thencecontinuingsoutherlyandeasterlyuponthe
+DeschutesCounty/Crook Countyline to the NE cornerof section1, T22S, R21Ealsobeinga
+point on theDeschutesCounty/Lake Countyboundaryline; thencewesterlyuponthe Deschutes
+County/Lake Countyboundaryto ForestHighway 23; thencenortherly uponForestHighway 23
+to thetownshipline betweenT21S andT22S, R16E; thencewesterly uponthe southlinesof
+Township21S, to ForestRoad9710; thencenortherly uponForestRoad9710to the intersection
+of Forest Road 9710 and Forest Road 9714; thence northeast on Forest Road 9714 to the
+intersection of Forest Road 9714 and Forest Road 9711- 840 at the south base of Luna Butte;
+thence north on Forest Road 9711-840 approximately 1 mile to the northwest base of Luna Butte
+where Forest Road 9711- 840 becomes Forest Road 9711- 800; thence northerly on Forest Road
+9711- 800 to the intersection of Forest Road 9711- 800 and Forest Road 9711; thence westerly on
+Chapter 8. 30 APPENDIX A ( 83/ 2021)
+Forest Road 9711 to the intersection of Forest Road 9711 and Forest Road 9711- 200; thence
+northerly on Forest Road 9711-200 approximately 1.75 miles where Forest Road 9711-200
+becomes Forest Road 9701-600; thence continue northerly on Forest Road 9701-600 to the
+intersection of Forest Road 9701- 600 and Forest Road 9701; thence south on Forest Road 9701 to
+the intersection of Forest Road 9701 and Forest Road 9701- 150; thence west on Forest Road
+9701- 150 to the intersection of Forest Road 9701- 150 and Highway 97 at the south entrance to
+the ODOT Weigh Station; thence west across Highway 97 approximately 50 feet to the
+intersection of Highway 97 and an unnamed forest road; thence north on the unnamed forest road
+approximately 1/10th of a mile where the unnamed forest road becomes Forest Road 9700-060;
+thence continue north on Forest Road 9700-060 to the point where Forest Road 9700-060 dead -
+ends into the railroad tracks on the section line shared by Section 1,T19S, R11E and Section 36,
+T18S, R11E; thence southwesterly along the railroad tracks to the section line shared by Section
+10 and Section 11, T19S, RI IE; thence north to the NE corner of Section 11, T19S,
+RI IE; thence westerly upon the section line to the intersection with the centerline of the
+Deschutes River; thence upstream along the centerline of the Deschutes River approximately 1.25
+miles to the east line of section 8, T19S, RI IE; thence southerly upon said section line to the SE
+corner of said section 8; thence westerly upon section lines approximately 7 miles to the SW
+corner of section 8, T19S, R10E; thence northerly upon section lines approximately 2 miles to
+Forest Road 4614; thence westerly upon Forest Road 4614 to Forest Road 950; thence northerly
+upon Forest Road 950 to the centerline of State Highway 372 (a.k.a. CascadeLakes Highway);
+thence westerly upon said centerline to the eastline of section 27, T18S, R9E; thence southerly
+approximately 2.2 miles to the SE corner of section 3, T19S, R9E; thence westerly approximately
+6 miles upon section lines to the SE corner of section 3, T19S, RBE; thence northerly
+approximately 3.5 miles to the NE corner of the SE 1/4 of section 22, T18S, RBE; thence westerly
+to the Deschutes County/ Lane County boundary line; thence northerly upon the Deschutes
+County/ Lane County Boundary line to the Point of Beginning.
+ASA # 2 - Black Butte Ranch
+Size of ASA: Approximately 13 square miles.
+BEGINNING at the NW corner of Section 5, T14S, R9E at the Deschutes/ Jefferson County
+boundary line; thence south upon the section lines to the SW corner of Section 20, T14S, R9E;
+thence east upon the section lines to the SW corner of Section 23, T14S, R9E; thence north upon
+the section line to the NW corner of Deschutes County Tax Lot 1409000002102; thence east upon
+saidtax lot' s northernboundaryto theNE cornerof saidtax lot; thencesoutheasterlyuponsaidtax
+lot' s boundary to its intersection with the eastsection line of Section 23, T14S, R9E (approximately
+221' north of the SE corner of said section); thence north upon the section lines to the point where
+the easterlyboundaryof Section14, T14S, R9E intersectsthe southerlyright-of-way (ROW) line
+of US Highway 20; thence southeasterly along said ROW line to the point perpendicular to the
+westerly intersectionof the US Highway 20 andIndian Ford RoadROW lines (locatedin T14S,
+R9E, Section 13); thence northeasterly across US Highway 20 to said ROW line intersection;
+thencenorthwesterlyuponthe northerly ROW line of US Highway 20 to the intersectionof said
+ROW line with the easterlyROW line of Camp ShermanRoad; thencesouthwesterlyacrossUS
+Highway 20 to the point where US Highway 20 ROW line intersectsthe easterlyROW line of
+George McAllister Road; thence northwesterly upon the US Highway 20 ROW line to the point of
+intersection with the north boundary line of Section 5, T14S, R9E at the Deschutes/Jefferson
+County boundary; thencewest along the north line of said sectionto the Point of Beginning;
+excludingthe physicalintersectionsof US Highway 20 with CampShermanRoadandIndian Ford
+Road.
+Chapter 8. 30 APPENDIX A ( 3/ 20183/ 2021)
+ASA # 3 — Burns
+ALL of T22S, R22E and all of T22S, R23E.
+ASA # 4 - Crooked River Ranch
+Size of ASA: Approximately one square mile.
+ALL of those portions of Crooked River Ranch lying within Deschutes County.
+ASA # 5 - LaPine
+Sizeof ASA: Approximately646squaremiles. However, mostof theASA is comprisedof the
+Deschutes National Forest or in B. L. M. lands and are uninhabited.
+BEGINNING at the intersection of the north line of section 2, T21 S, R6E; thence easterly upon
+the section lines to the NW corner of section 1, T21 S, R7E; thence southerly upon the west line of
+said section 1, to the SW corner of said section 1; thence easterly upon the south line of said
+section 1 to the SE corner of said section 1; thence northerly upon the east line of said section1tothe
+NE cornerof saidsection1; thenceeasterlyapproximately11. 5 milesupon the sectionlines to
+theintersectionwith the centerline of ForestHighway42, ( a. k.a. SouthCenturyDrive); thence northeasterly
+upon said Highwayto theintersectionwith the eastline of section27, T20S, R10E; thence
+northerlyupon sectionlines to theNWcornerof theSW 1/ 4 ofsection23, T20S, R10E; thence
+easterlyto theNE cornerof saidSW 1/ 4; thencenortherlyto theNWcornerof theNE 1/ 4 of
+saidsection23; thenceeasterlyto theNE cornerof saidsection23; thencenortherlyupon section
+lines approximately2 milesto theSW cornerof section1, T20S, R10E; thence easterlyupon
+the southline of saidsection1 to theSW cornerof the SE 1/ 4 of the SW 1/ 4 of saidsection1;
+thencenortherlyto theNWcornerof theSE1/4 oftheSW 1/ 4 ofsaidsection1; thenceeasterlyto
+theNE cornerof theSE 1/ 4 SW1/ 4 ofsaidsection1; thencenortherlyto theNWcornerof theSE
+1/ 4 ofsaidsection1; thenceeasterlyto theNE cornerof saidSE 1/ 4; thencesoutherlyupon the
+eastline of saidsection1 tothecenterline of ForestHighway40, ( a. k.a. SpringRiver Road); thence
+easterlyand northerlyupon said ForestHighwayto theintersectionwith the railroadtracks in
+section5, T20S, R11E; thence southerlyupon said tracksto thenorthline of section8, T20S, R11E;
+thence easterlyupon the northline of saidsection8 totheNE cornerof saidsection8; thence
+southerlyupon sectionlines to theSW cornerof section16, T20S, RI IE; thenceeasterlyupon
+the southline of' saidsection16 to theSE cornerof saidsection16; thencesoutherlyupon section
+lines approximately2 milesto theSW cornerof section27, T20S, RI IE; thenceeasterlyapproximately
+7. 5 milesupon sectionlines to theintersectionof ForestRoad 9710; thencesoutherly
+and easterlyupon said ForestRoad to thesouthline of section35, T21S, ROE; thence easterly
+upon the sectionlines to theintersectionof ForestRoad 23; thencesoutherlyupon said Forest
+Road to theDeschutesCounty/ Lake Countyboundaryline; thencewesterlyupon the Deschutes
+County/ Lake Countyboundaryline to theDeschutesCounty/ Lake County/KlamathCounty
+intersection; thence westerlyupon the DeschutesCounty/ KlamathCounty boundaryline to
+theDeschutesCounty/ KlamathCounty/ Lane Countyintersection; thence northerlyand easterlyalong
+the DeschutesCounty/ Lane Countyboundaryline to thepointof beginning. Chapter
+8. 30APPENDIX A ( 3, 129153/2021)
+ASA # 6 - Redmond
+Size of ASA: Approximately 192 square miles.
+BEGINNING at the common corner of Deschutes, Jefferson and Crook Counties; thence
+southerly upon the Deschutes County/ Crook County boundary line to the NE corner of section
+24, T16S, ROE; thence westerly upon section lines to the SE corner of the W '/ z of the W 1/2 of
+section 16, T16S, R12E; thence northerly to the NE corner of the W 1/2 of the SW 1/4 of the said
+section 16; thence easterly to the center of said section 16; thence northerly to the NE corner of
+the NW 1/4 of said section 16; thence westerly upon the section line to the intersection with the
+centerline of the Deschutes River; thence downstream along the centerline of the Deschutes River
+to the intersection with the south line of section 3, T16S, R12E; thence westerly upon said section
+line to the SW corner of said section 3; thence westerly upon Newcomb Road to the SE corner of
+the W '/ 2of the W 1/2 of section 5, T16S, R12E; thence northerly to the NE corner of the W '/ 2of
+the W 1/2 of the said section 5; thence westerly upon section lines to the SW corner of section
+36, T15S, R11E; thence north to the NW corner of section 25, T15S, RI IE; thence west to the
+SW corner of section 22, T15S, R1 IE; thence north approximately 10 miles upon section lines to
+the Deschutes County/ Jefferson County boundary line; thence easterly upon the Deschutes
+County/ Jefferson County boundary line to the Point of Beginning; excluding all of those portions
+of Crooked River Ranch lying within Deschutes County.
+ASA # 7 - Sisters
+Size of ASA: Approximately 397 square miles. However, a large portion of the ASA is comprised
+of Deschutes National Forest lands that are uninhabited.
+BEGINNING at the intersection of the south line of Section 16, T17S, R8E, with the westerly
+line of Deschutes County; thence eastupon the section lines approximately 6.3 miles to the NW
+corner of Section 22, T17S, R9E; thence south upon the section line to the SW corner of the N'/ z
+of said Section 22; thence east 3. 0 miles to the SE corner of the N'/ z of Section 24, T17S, R9E;
+thence north upon the section line to the NE corner of said Section 24; thence east upon the
+section line to the SE corner of Section 18, T17S, R10E; thence north upon the section line to the
+NE corner of said Section 18; thence east upon the section lines 2. 0 miles to the SE corner of
+Section 9, T17S, R10E; thence north upon the section lines 2. 0 miles to the NW corner of Section
+3, T17S, R10E; thence east upon the section lines 3. 0 miles to the SE corner of Section 36, T16S,
+RI OE; thence north upon the section line to the NE corner of said Section 36; thence east upon
+the section line to the SW corner of the SE'/ 4 of Section 10, T16S, R11E; thence east upon the
+southern boundary of Deschutes County Tax Lot 1611000008100 approximately 0.2 miles where
+said tax lot boundary turns in a northeastern direction; thence northeasterly upon said tax lot
+boundary line to the intersection of said tax lot boundary with the eastern boundary of Deschutes
+County Tax Lot 1611000001419; thence northeasterly upon the eastern boundary line of said tax
+lot to the intersection of said tax lot with Deschutes County Tax Lot 1611000001418; thence
+northeasterly upon the eastern boundary of said tax lot to the intersection of Deschutes County
+Tax Lot 1611000001401; thence northerly upon the easternboundary of said tax lot to the
+intersection with the western boundary of Deschutes County Tax Lot 1611000007900; thencesouthuponthe western
+boundaryof saidtax lot to the SWcornerof the SW '/4 of the NW '/4of Section29, T16S, R11E;
+thence east to the SE cornerof the SW '/4 of the NW '/ 4 of said Section 29; thencenorth to
+the NE corner of the NW '/4 of the NW '/ 4 of said Section 29; thenceeast upon the section line to
+the SE cornerof the SW'/4 of Section20, T16S, R11E; thence northto the NE corner of the SW '/
+4 of said Section20; thenceeast to the SE cornerof the NE '/4 of said SectionChapter8. 30 APPENDIX
+A ( 3, 120I83/ 2021)
+20; thence north upon the section line to the NE corner of said Section 20; thence east upon the
+section line to the SE corner of the SW '/ 4 of Section 16, T16S, R11E; thence north to the NE
+corner of the SE '/ 4 of the SW '/ 4 of said Section 16; thence west to the NW corner of the SEA of
+the SW '/ 4 of said Section 16; thence north to the SE corner of the NW '/ 4 of the NW '/ 4 of said
+Section 16; thence west to the SW corner of the NW '/ 4 of the NW '/ 4 of said Section 16; thence
+north upon the section line to the NW corner of said Section 16; thence east upon the section line
+to the NE corner of said Section 16; thence north upon the section line to the intersection with the
+southernmost right- of- way line of US Highway 20; thence perpendicularly across US Highway
+20 in a northeastern direction to the intersection with the southern boundary line of Deschutes
+County Tax Lot 1611100000300; thence southeasterly along the southern boundary of said tax lot
+to the SE corner of said tax lot; thence north to the NE corner of the NW '/ 4 of the NW '/ 4 of
+Section 10, T16S, R11E; thence east upon the section lines to the SW corner of Section 1, T16S,
+Rl IE; thence north upon the section line to the NW corner of said Section 1; thence west upon
+the section line to the SW corner of Section 36, T15S, RI IE; thence north to the NW corner of
+Section 25, T15S, R11E; thence west to the SW corner of Section 22, T15S, RI IE; thence north
+upon the section lines approximately 3.75 miles to the SW corner of the NW '/ 4of the NW '/ 4of
+Section 3, T15S, RI IE; thence east to the SE corner of the NW '/ 4 of the NW '/ 4 of said Section 3;
+thence north to the NE corner of the SW'/ 4 of the SW'/ 4 of Section 34, T14S, RI 1E; thence east
+to the SE corner of the NE'/ 4 of the SW '/ 4 of said Section 34; thence north to the NE corner of
+the NE '/ 4 of the SW '/ 4 of said Section 34; thence west to the NW corner of the NW '/ 4 of the SW
+4 of said Section 34; thence north upon the western section line of said Section 34 to the
+intersection with McKenzie Canyon Road; thence northeasterly along McKenzie Canyon Road to
+the intersection with the northern section line of said Section 34; thence east upon the section
+lines to the SW corner of the SE'/ 4 of Section 26, T14S, RI IE; thence north to the NW corner of
+the SE'/ 4 of said Section 26; thence east to the NE corner of the SE'/ 4 of said Section 26; thence
+north upon the section lines to the NE corner of the SE'/ 4 of the SE'/ 4 of Section 23, T14S, RI IE;
+thence west to the NW corner of the SW '/ 4 of the SE'/ 4 of said Section 23; thence north 2. 25
+miles to the NE corner of the SW'/ 4 of Section 11, T14S, R11E; thence west to the NW corner of
+the SW'/ 4 of said Section 11; thence north upon the section lines to the NW corner of Section 2,
+T14S, RI IE at the Deschutes County/ Jefferson County boundary line; thence west upon the
+Deschutes County/ Jefferson County boundary line to the intersection of the Deschutes
+County/ Jefferson County/ Linn County Line intersection; thence southerly upon the Deschutes
+County/Linn Countyline to theDeschutesCounty/Linn County/Lane Countyintersection; thence
+southerlyuponthe DeschutesCounty/LaneCountyline to the Point of Beginning; excludingall
+of Black Butte Ranch ASA # 2.
+ASA # 8 - Sunriver
+Size of ASA: Approximately 350 square miles.
+BEGINNING at the intersection of the north line of section 2, T21 S, R6E; thence easterly upon
+the section lines to the NW corner of section 1, T21 S, R7E; thence southerly upon the west line of
+said section 1, to the SW corner of said section 1; thence easterly upon the south line of said
+section 1to the SE corner of said section 1; thence northerly upon the east line of said section 1 to
+the NE corner of said section 1; thence easterly approximately 11.5 miles upon the section lines
+to the intersection with the center line of Forest Highway 42, (a.k.a. South Century Drive); thence
+northeasterly upon said Highway to the intersection with the east line of section 27, T20S, R10E;
+thence northerly upon section lines to the NW corner of the SW 1/4 of section 23, T20S, Rl OE;
+thence easterly to the NE corner of said SW 1/4; thence northerly to the NW corner of the NE 1/4
+of said section 23; thence easterly to the NE corner of said section 23; thence northerly upon
+Chapter 8. 30 APPENDIX A ( 83/ 2021)
+section lines approximately 2 miles to the SW corner of section 1, T20S, R10E; thence easterly
+upon the south line of said section 1 to the SW corner of the SE 1/ 4 of the SW 1/ 4 of said section
+1; thence northerly to the NW corner of the SETA of the SW 1/4 of said section 1; thence easterly
+to the NE corner of the SE 1/4 SW 1/4 of said section 1; thence northerly to the NW corner of the
+SE 1/4 of said section 1; thence easterly to the NE corner of said SE 1/4; thence southerly upon
+the east line of said section 1to the center line of Forest Highway 40, (a.k.a. Spring River Road);
+thence easterly and northerly upon said Forest Highway to the intersection with the railroad tracks
+in section 5, T20S, RI 1E; thence southerly upon said tracks to the north line of section 8, T20S,
+R11E; thence easterly upon the north line of said section 8 to the NE corner of said section 8;
+thence southerly upon section lines to the SW corner of section 16, T20S, R11E; thence easterly
+upon the south line of said section 16 to the SE corner of said section 16; thence southerly upon
+section lines approximately 2 miles to the SW corner of section 27, T20S, RI IE; thence easterly
+approximately 7.5 miles upon section lines to the intersection of Forest Road 9710; thence
+northerly upon Forest Road 9710 to the intersection of Forest Road 9710 and Forest Road 9714;
+thence northeast on Forest Road 9714 to the intersection of Forest Road 9714 and Forest Road
+9711-840 at the south base of Luna Butte; thence north on Forest Road 9711- 840 approximately 1
+mile to the northwest base of Luna Butte where Forest Road 9711- 840 becomes Forest Road
+9711- 800; thence northerly on Forest Road 9711- 800 to the intersection of Forest Road 9711-800
+and Forest Road 9711; thence westerly on Forest Road 9711 to the intersection of Forest Road
+9711 and Forest Road 9711-200; thence northerly on Forest Road 9711-200 approximately 1.75
+miles where Forest Road 9711-200 becomes Forest Road 9701-600; thence continue northerly on
+Forest Road 9701- 600 to the intersection of Forest Road 9701- 600 and Forest Road 9701; thence
+south on Forest Road 9701 to the intersection of Forest Road 9701 and Forest Road 9701- 150;
+thence west on Forest Road 9701- 150 to the intersection of Forest Road 9701- 150 and Highway
+97 at the south entrance to the ODOT Weigh Station; thence west across Highway 97
+approximately 50 feet to the intersection of Highway 97 and an unnamed forest road; thence
+north on the unnamed forest road approximately IAOth of a mile where the unnamed forest road
+becomes Forest Road 9700-060; thence continue north on Forest Road 9700-060 to the point
+where Forest Road 9700-060 dead - ends into the railroad tracks on the section line shared by
+Section 1,T19S, RI IE and Section 36, T18S, RI IE; thence southwesterly along the railroad
+tracks to the section line shared by Section 10 and Section 11, T19S, RI IE; thence north to the
+NE corner of Section 11, T19S, RI IE; thence westerly upon the section line to the intersection
+with the centerline of the Deschutes River; thence upstream along the centerline of the Deschutes
+River approximately 1.25 miles to the east line of section 8, T19S, R11E; thence southerly upon
+said section line to the SE corner of said section 8; thence westerly upon section lines
+approximately 7 miles to the SW corner of section 8, T19S, RI OE; thence northerly upon section
+lines approximately 2 miles to Forest Road 4614; thence westerly upon Forest Road 4614 to
+Forest Road 950; thence northerly upon Forest Road 950 to the centerline of State Highway 372
+a.k.a. CascadeLakes Highway); thence westerly upon said centerline to the east line of section
+27, T18S, R9E; thence southerly approximately 2.2 miles to the SE corner of section 3, T19S,
+R9E; thence westerly approximately 6 miles upon section lines to the SE corner of section 3,
+T19S, RBE; thence northerly approximately 3.5 miles to the NE corner of the SE 1/4 of section
+22, T18S, RBE; thence westerly to the Deschutes County/ Lane County boundary line.
+2. Maps.
+2. 1 ASA Map. ( SeeAppendix # 1)
+This map represents the boundaries of each of the ambulance service areas within
+Deschutes County and the " System Response Time," which includes notification, role out,
+and provider response times. Actual response time is subject to the variables of access,
+Chapter 8. 30 APPENDIX A ( 3/ 2& g3/ 2021)
+weather, road and traffic conditions as well as other circumstances that can impact response
+time.
+3. Alternatives To Reduce Response. Times.
+Heavily forested, mountainous terrain and severewinter weather conditions present difficult access
+and long response time to ground ambulances. In those situations, when an urgent response is
+indicated, the emergency medical services providers may elect to call the nearest appropriate
+rotary -wing air ambulance or the Deschutes County Search and Rescue.
+Emergency medical services providers provide the best available patient care while maximizing
+the available resources. In some instances, for various reasons, an ambulance service provider from
+an adjoining county' s ASA could respond more quickly to an incident.
+V. SYSTEM ELEMENTS
+1. Notification/ Response Times.
+Notification times for ambulances shall be within two ( 2) minutes for 90% of the calls.
+Provider response time: Each franchisee will provide at the time of application a map of
+their proposed ASA which will indicate responsetimes from each oftheir staffed stations. Response
+times will be based upon emergency calls only ( Charlie, Delta, Echo) per the Clausen Priority
+Dispatch System.
+Response time maps should be based on 8 minute, 13 minute and 43 minute response times.
+Any franchiseecan proposea map that reflects different times as long as it is consideredto be
+within reason and approved by the Committee.
+Monitoring of notification and response times shall be accomplished by the following:
+1. 1 Information received from the public, dispatch center, pre -hospital care providers,
+hospitals, or county EMS administration.
+1. 2 Types of information received are written or verbal complaints, patient care report
+forms, radio transmission tapes, notification and response time incident cards,
+trauma registry forms, etc.
+2. Level of Care.
+An ambulanceoperatingin DeschutesCounty and providing basic life support level care must
+consistof a qualified driver andone licensedEMT or above. The EMT must alwaysbe present
+with the patient in the patient compartment of the ambulance.
+An ambulanceoperatingin DeschutesCounty andproviding intermediatelife supportlevel care
+must consist of a qualified driver and one licensed EMT -Intermediate. The EMT -Intermediate
+must always be present with the patient in the patient compartmentof the ambulancewhen
+intermediate level care is required or rendered.
+An ambulance operating in Deschutes County and providing advanced life support level care must
+consistof a qualified driver anda licensedParamedic. TheParamedicmustalwaysbe presentwith
+Chapter 8. 30 APPENDIX A ( 3,120143/ 2021)
+the patient in the patient compartment of the ambulance when ALS care is required or rendered.
+If the driver is not a licensedEMT, thena secondEMT must beavailablefor patient careboth in
+the ambulance and on scene.
+3. Personnel.
+Whenoperatingan ambulancein DeschutesCounty, all personnelmustmeetthe requirementsof
+ORS682.010to 682.991andOAR 333-255-0070through333-255-0073. The practiceof staffing
+an ambulance on a part-time basis with EMTs certified to a higher level of care than is possible at
+other times does not mean or imply that the ambulance service must provide the same higher level
+of care on a regular basis.
+4. Medical Supervision.
+Each EMS agency utilizing EMTs shall be supervised by a physician licensed under ORS 677,
+currently registered and in good standing with the Oregon Medical Board as a Medical Doctor
+MD) or Doctor of Osteopathic Medicine ( DO). The physician must also be approved by the
+Oregon Medical Board as a medical director.
+Each EMS agency or ambulance service may have its own medical director. The medical director
+shall:
+4. 1 comply with the requirements listed in OAR 847-35-0020-0025;
+4. 2 hold at least one meeting a year with the EMTs affiliated with each respective
+ambulance services;
+4. 3 designate an EMT coordinator who shall conduct case reviews in the physicians
+absenceand send summaries of the reviews and problems identified and proposed
+problem resolution to the physician; and
+4. 4 provide or authorize quarterly at least one casereview meeting for all EMTs.
+St. Charles Medical Center in Bend and Redmond, Oregon shall be the Medical Resource Hospitals.
+5. Patient Care Equipment.
+Patient care equipment must meet or exceed the Oregon Health Authority' s requirements as
+specified in ORS 682. 010 to 682. 991 and OAR 333- 255- 0070 through 333- 255- 0073. The
+ambulanceserviceprovidershallmaintaina list of equipmentfor their ambulances, which shallbe
+furnished to the Board upon request.
+6. Vehicles.
+All ambulances must be either a Type I, II, or III and be licensed by the Oregon Health Authority.
+All ambulances must meet or exceed the requirements as set forth in ORS 682. 010 to 682. 991 and
+OAR 333-255-0060. An up-to- date list of each provider' s ambulances shall be furnished to the
+Board upon request.
+7. Training.
+Chapter 8. 30 APPENDIX A ( 5,1281-93/ 2021)
+Training will be consistentwith requirementsof the OregonHealthAuthority andDepartmentof
+Transportation curricula.
+8. , Quality Assurance.
+In order to ensure the delivery of efficient and effective pre -hospital emergency medical care, an
+EMS Quality Assurance Program is hereby established.
+8. 1 Structure
+Deschutes County Ambulance Service Area Advisory Committee ( Committee)", shall be
+formed by ordinance and be composed of not less than twelve and no more than fourteen
+members:
+a. Ambulance service medical director who must be an Emergency
+department physician
+b. Deschutes County Health Department
+C. Ambulance service provider representative from each ASA area
+d. Deschutes County Emergency Manager
+e. 9- 1- 1 center representative
+f. Public member
+Membership and terms of the Committee are outlined in Deschutes County Code 8.30 Ambulance
+Service Area. The ASA Administrator shall be -a non -voting member, except in the case of a tie,
+in order to break the tie.
+The principal function of the committee —Committee shall be to monitor the EMS system within
+Deschutes County.
+8. 2 Process
+The Board, in order to ensure the delivery of the most efficient and effective prehospital
+emergency care possible within Deschutes County with the available resources, has
+directed that the ASA Advisory Committee be established.
+Quality assurancein Deschutes County shall be accomplished through frequent case
+review, peer review, and periodic review by the medical directors and/or Ambulance
+services' governingbodies (seerespectiveProviderProfiles for definitions of governing
+bodies).
+Complaints regarding violation of this ASA Plan, shall be submitted in writing4e4he4kwd
+h shall f r-wafa it to the Committee. The Committee shall then review the matter and
+make recommendations or changes arising from such complaints or questions to the Board.
+The Board shall also resolve any problems involving system operations ( changing
+protocols to address recurring problems, etc.). Ongoing input may be provided by
+consumers, providers or the medical community to any individual on the Board or members
+of the Committee. This individual, in turn, will present the complaint, concern, idea or
+suggestion (in writing) to the full Board for consideration.
+Questions or concerns involving pre -hospital care provided shall be directed to the
+Chapter 8. 30 APPENDIX A ( 54201- 83/ 2021)
+Supervising Physician of the Ambulance service provider. At the Supervising Physician' s
+discretion the complaint shall be passed to the ASA Committee for further review or
+directly to the Professional StandardsDivision of the Oregon Emergency Medical Services
+and Trauma Systems. However, patient care issues that are mandated by the State as
+reportable actions shall be reported by the Supervising Physician directly to the
+Professional Standards Division of the Oregon Emergency Medical Services and Trauma
+Systems.
+8. 3 Problem Resolution
+Problems involving protocol deviation by emergencymedical services providers or
+dispatehers shall be referred to the respective medical director or dispateh
+Problems involving a non -compliant provider shall be reviewed by the Committee with
+possible referral to Board if necessary. The Board may seek background data and
+recommendations from the Committee in such instances. The Board shall provide notice
+to the affected provider and allow them the opportunity to issue comments. However, any
+member of the Committee who may have a conflict of interest in the matter shall declare
+such conflict and refrain from participating in any recommendations made.
+8. 4 Sanctions for Non - Compliant Personnel or Providers
+Suspension or revocation assignment. Upon a recommendation by the Committee, or upon
+its own motion, the Board may suspend or revoke the assignment of an ASA upon a finding
+that the provider has:
+a. willfully violated provisions of an ordinance, the Deschutes County ASA
+Plan or provisions of State or Federal laws and regulations; or
+b. materially misrepresented facts or information given in the application for
+assignment of an ASA or as part of the review of the performance of the
+service furnished by the provider.
+In lieu of the suspension or revocation of the assignment of an ASA, the Board may order
+that the violation be corrected and make the suspension or revocation contingent upon
+compliance with the order, within the period of time fixed by the Board.
+Notice of the Board's action shall be provided to the holder of the assignment, which shall
+specify the violation, the action necessary to correct the violation and the date by which
+the action must be taken. If the holder of the assignment fails to take corrective action
+within the time required, the Board shall notify the holder that the assignment is suspended
+or revoked upon receipt of the notice.
+A person receiving a notice of the assignment, denial of assignment, suspension, or
+revocation of assignment or a notice of corrective action the failure of which may result in
+suspension or revocation of an assignment may request ahearing before the Board by filing
+with the Board a written request for a hearing within fourteen ( 14) days of the notice,
+setting forth the reasons for requesting the hearing and the issues proposed to be reviewed.
+The filing of a hearing request shall stay the action, pending the hearing and the Board' s
+final decision, unless a change is required due to an immediate hazard to the public safety.
+The Board shall set a time and place for the hearing. Within fourteen ( 14) days after the
+conclusionof the hearing, the Boardshall affirm, reverseor modify its original decision.
+Chapter 8. 30 APPENDIX A ( 34291- 3/ 2021)
+8. 5 Penalties
+Any personwho violates any provisions of this ASA Plan or Ordinanceis guilty of a
+violation. Failure from day-to- day to comply with the terms of this ASA Plan or Ordinance
+shallbea separateoffensefor eachsuchday. Failureto comply with any provision of the
+Ordinance shall be a separateoffense for each such provision.
+Violations of the provisions of this ASA Plan or Ordinance are Class A violations
+punishable, upon conviction, by a fine of not more than SevenHundred and twenty Dollars
+720) per violation.
+8. 6 Nuisance
+In addition to the penalties provided in this planPlan, violations of any of the provisions of
+this planPlan and ordinance is declared to be a nuisance and may be abated in the manner
+provided by law.
+9. Non -emergency Ambulance Transports.
+Each Franchisee retains first right of refusal for non -emergency ambulance transports and inter -
+facility ambulance transports. Each Franchisee is authorized to permit, by written agreement, non -
+emergency and inter -facility ambulance transports of a stable patients originating within that
+territory by a-nen-emorge-ney or inter fay « 7+bulaneanother licensed ambulance service
+providero. another- lieensea anib lance Dufatien- af-permis­&ienSuch authorization
+shall last no longer than the term of the € ranslri- seFranchise, or until the then current Franchisee
+loses its Franchise or otherwise ceasesoperations. The dDefinition of " stable patient" is contained
+in the definitions section of this ASA Plan.
+Special Events: A Franchisee may grant permission to another licensed ambulance service agency
+provider for the purpose of servicing special events or occasions. Permission shall be set forth in
+writing and state the duration of the event or occasion and whether ambulance transport will be
+allowed. The dDuration of such permission shall last no longer than the term of the F€ranchise, or
+until the then current Franchisee loses its Franchise or otherwise ceases operations.
+VI. COORDINATION
+1. Authority For Ambulance Service Area Assignments.
+The Board has the authority to assign an ASA within Deschutes County in compliance with ORS
+682. 015 to 682. 991. Applications by new providers, requests for change of assignment, and
+revocation will be considered for approval if such action will improve efficient service delivery
+and benefit public health, safety and welfare. Cities have the authority to develop and apply
+ambulance -licensing ordinances within their jurisdictional boundaries, and nothing in this plan -Plan
+is intended to obviate that authority.
+Future updates to this plan lan and proposals for assignment changes will be the responsibility of
+the Board. The Board shall receive all requests for changes, present those requeststo the Committee
+for their review and recommendations. Upon completing their review, the Committee shall present
+their recommendations to the Board. In addition, the Board has the authority to review service
+providers records and initiate an assignment change or service area revocation. For the purpose of
+this planPlan, the Board shall recognize the Committee as an advisory group.
+Chapter 8. 30 APPENDIX A ( 3/ 201 g3/ 2021)
+The Deschutes County ASA Plan was prepared with a great deal of input from all county pre -
+hospital care providers. The Plan requires that the ambulance services providers maintain service
+records in order that the County can carry out its ASA Plan responsibilities.
+2. Entity That Will Administer the ASA Plan.
+The Deschutes County ASA Committee is hereby established with the adoption of this plenPlan.
+The Committeeshall serveasthe principal entity to administerandacceptwritten proposalsfor
+amendments to this ASA Plan. The een* rtoCommitteewill have a designatedadministrator and chairperson.
+The
+Committeewill be activatedat anytimea concernis submitted, in writing, to theBoard, or when
+deemedappropriateby sevenor moremembersof theCommittee.- The Committeeshall meet
+as needed. This
+Committee, as withany governmentalbody, will be subjectto theOregonOpen MeetingLaw ORS
+Chapter192), but maytemperits activities, within legal limits, accordingto thesensitivityof
+theEMSmatterinvolved. Appeals from the Board, in anycasewherethe Boardwould otherwisehave
+the finaldecisionat thecountylevel shall be directedto theappropriatestate regulatoryagency,
+or a CircuitCourt, as appropriate. The
+Committeeshall periodicallysubmit a briefwrittenreport of its activitiesor recommendationsto
+theBoard. The
+e€ xistenceof thiscommitteeCommittee will: 2.
+1 prevent needlessattention of stateregulatoryagencies to problemsthat can be resolved
+locally; 2.
+2 increase local awarenessof potentialproblems that mayexist; and 2.
+3 increase the awarenessof ambulancemedical directors regarding area concernsand
+activities. 3.
+Complaint Review Process. The
+complaintprocedure can be viewedin ArticleV, section8. 2. Ongoing
+inpat-- Complaints, concerns, ideas, or suggestionsmay be providedby consumers, providers
+or themedicalcommunityto anyindividualon theCommitteeor membersof theBoard. This
+individuaMembers of theCommitteeor Board, in turn, will presentthe complaint, concern, idea
+or suggestionin writingto thefull Boardfor consideration. 4.
+Mutual Aid Agreements. E.,
+eFgeney -Wadi^* servicesAll Franchiseeswithin DeschutesCounty will participatein agenciesshall--
+sign- mutualaid agreementswith other Franchiseesand with the other- emergeney ~ ediG ' the
+Geunt , a with otherprovidersin adjoiningcounties to respondwith needed
+personneland equipmentin accordancewith the agreement. Chapter
+8. 30APPENDIX A ( 83/ 2021)
+All requests for mutual aid shall be made through the appropriate PSAP.
+All mutual aid agreementsaremodified asneededby mutual consentof all parties.
+5. Disaster Response.
+The Committee shall coordinate the EMS medical function of disaster planning with any formal
+disaster management plan developed by the Deschutes County Sheriff or other appropriate ceu* ty
+County authorities or other local govermnent authorities within the County. The Area Trauma
+Advisory Board ( ATAB) Region 7 plan may be utilized in place of the plan outlined below.
+Ambulance provider personnel faced with a multiple - casualty incident shall examine the situation
+in terms of its potential or actual magnitude of disaster, and request any appropriate additional
+resources that may be available.
+5. 1 County Resources Other Than Ambulances
+When resources other than ambulances are required for the provision of emergency
+medical services during a disaster, a request for additional resources shall be made through
+the appropriate PSAP to the County Emergency Services Office.
+The County Emergency Services Manager shall be responsible for locating and
+coordinating all county EMS resources any time that the MCI Plan is implemented.
+The County Emergency Services Manager shall work directly with local agencies,
+departments and governments to coordinate necessary resources during any
+implementation of the MCI Plan.
+5. 2 Out of County Resources
+When resources from outside Deschutes County are required for the provision of
+emergency medical services during a disaster, a request for those resources shall be made
+through the appropriate PSAP.
+5. 3 Mass Casualty Incident ( MCI) Management Plan
+Thepurposeof theMCI plan -Planis to provide guidanceto EMS responsepersonnelin the
+coordination of response activities relating to mass casualty incidents in Deschutes County.
+The MCI plan -Plan is intended for use when any single incident or combination of incidents
+depletes the resources of any single provider or providers during the normal course of daily
+operations or at the request of the Health Officer.
+The MCI Pplan shall identify the responsibility of the provider concerning:
+a. coordination;
+b. communication;
+C. move up;
+d. triage; and
+e. transportation.
+The Committeewill periodically review the medical componentof the MCI plan -Plan andmake
+Chapter 8. 30 APPENDIX A ( 5 20183/ 2021)
+recommended changes to meet the e-es- Conn ' s need. Following the review and changes, the
+Director of Emergency Services will be asked to append the changesto the medical component of
+the CountyEmergencyManagementPlanandthemodified MCI planPlanwill bepromulgated.
+6. Coordination.
+6. 1 In lieu of a unified command system, the highest- ranking officer of the fire or
+police agency in whose jurisdiction the incident occurs shall be the. incident -
+commander.
+6. 2 The senior/highest licensed emergency medical services provider at the scene will
+have overall responsibility for patient care asthe EMS Branch Officer, he/she shall
+work closely with the incident commander.
+6. 3 The on -scene command frequency and staging area will be determined by the
+incident -commander. Dispatch center will advise responding units as to location
+of the staging area.
+7. EMS Responder Guidelines.
+7. 1 An appropriately trained EMS The senior emergeney
+sale* ^
+e provider err
+two first EMS + first to arrive at the scene shall become the EMS Branch officer
+and shall:
+a. assessnature and severity of the incident;
+b. advise appropriate PSAP of the situation;
+C. request appropriate fire and police services, if not already at the scene;
+d. request initiation of EMS mutual aid if needed;
+e. alert area hospital( s) of the situation; and
+f. establish and organize the transportation of all injured or ill patients.
+7. 2 Additional EMS units arriving at the sceneshall: check in with the Staging Officer.
+8. Personnel and Equipment Resources.
+All resources are referenced in Deschutes County' s and local emergency response plans.
+9. Emergency Communications and Systems Access.
+9. 1 Telephone Access:
+The Deschutes County Communications ( 9- 1-1) Center is located in Bend and is
+the Public Safety Answering Point. This center shall receive all emergency service
+requests in Deschutes County. Persons having access to telephone service will
+have access to the Deschutes County Communications Center by dialing 9- 1-1.
+Upon receipt of a request, all emergency service providers in Deschutes County,
+including fire and ambulance, are dispatched by the Deschutes County
+Communications Center in Bend Oregon.
+9. 2 Dispatch Procedures:
+a. The appropriate personnel shall be notified by the dispatcher within an
+average of two ( 2) minutes of receipt of a medical call.
+Chapter 8. 30 APPENDIX A % 5,L201-
+b. The dispatcher will obtain from the caller, and relay to the first responders
+the following:
+1. Location of the incident;
+2. Nature of the incident; and
+3. Any specific instructions or Information that may be pertinent to
+the incident.
+C. EMS personnel shall inform the dispatch center by radio, MDT, or cell
+phone -when any of the following occurs:
+1. In- service;
+2. En - route to scene or destination and type or response;
+3. Arrival on scene or destination;
+4. Transporting patient( s) to hospital or medical facility, the number
+of patients, and name of facility; and
+5. Arrival at receiving facility.
+d. Ambulance personnel shall inform the receiving hospital by radio of the
+following:
+1. Unit identification number;
+2. Age and sex of each patient;
+3. Condition and chief complaint of the --each patient;
+4. Vital signs of each patient;
+5. Treatment rendered; and
+6. Estimated time of arrival
+9. 3 Radio System:
+a. The PSAP shall:
+1. restrict accessto authorized personnel only;
+2. meet state fire marshal standards;
+3. maintain radio consoles capable of communication directly with
+all first response agencies dispatched by the PSAP.
+4. maintain all dispatch logs and recordings required by the Oregon
+Revised Statutes;
+5. be equipped with a back-up power source capable of maintaining
+all functions of the center.
+b. The ambulanceserviceprovider shall equipandmaintainequipmentwith
+Hiulti ehanne' Fadies communication equipment in each ambulance that
+allows for the transmission and reception with dispatch, medical resource
+hospitals, and mutual aid resources - equipment.
+10. Emergency Medical Services Dispatcher Training.
+10. 1 Deschutes County EMS dispatchers must successfully complete an Emergency
+Medical Dispatch ( EMD) training course as approved by the Oregon Emergency
+Management Division and the Board on Public Safety Standards and Training.
+10. 2 All EMS dispatchers are encouraged to attend any class, course or program which
+will enhancetheir dispatching abilities and skills.
+VII PROVIDER SELECTION
+1. Reassignment of an ASA.
+Chapter 8. 30 APPENDIX A ( 3,120143/ 2021)
+In the event that.a reassignment of an ASA is necessary, the eommittee- Committee shall make a
+written recommendation to the Board. The committee shall develop appropriate criteria, utilizing
+the selection processdescribed in this pla* lan to be presented to the Board for consideration and/or
+action by the Board.
+2. Application Process for Applying for an ASA.
+SeeDeschutes County Code 8.30 regarding the application process for applying for an ASA within
+Deschutes Countv.
+3. Notification of Vacating an ASA.
+In the event that an ASA previde-rFranchisee wishes to vacate its ASAFranchise, the provider shall
+provide at least sixty ( 60) days written notice to the Board. The ASA pre Franchisee must
+provide notification in accordance with the provisions of the initial service agreement or contract.
+4. Maintenance of Level of Service.
+In the event that an ASA r-ovkluFranchisee is unable to comply with the standards promulgated
+for the ASA by this P-lanPlan, the provider will promptly notify the Board in writing of its inability
+to comply and identify which standards are involved. The Board will determine if other qualified
+providers are available for the ASA who can comply with the standards. If the Board determines
+no other qualified providers are available, it will apply to the Division for a variance under ORS
+682.285 for avariance from the standards so that continuous ambulance service may be maintained
+by the existing provider.
+VIII. Franchise Agreements.
+Franchises shall be awarded for a minimum ten ( 10) year timeframe unless changed by the Board.
+Only one franchisee may serve in an ASA area.
+Mutual Aid Agreements will not be impacted by this process.
+IX. DESCHUTES COUNTY ORDINANCE
+The Deschutes County Board of Commissioners shall adopt an Ambulance Service Area
+Ordinance. The Ordinance shall include criteria for administering the Deschutes County
+Ambulance Service Area Plan; limiting ambulance services that may operate in the county;
+establishing an application process; ambulance franchise terms; enforcement; preventing
+interruption of service; appeals, abatement and penalties; duties of the franchisee; and
+establishing membership and duties of the advisoryee Committee.
+Chapter 8. 30 APPENDIX A ( 5/ 20193/ 2021)
+L\
+X
+E S
+COG
+a
+c
+Deschutes County Board of Commissioners
+IMSOMWIF 1300 NW Wall St, Bend, OR 97703
+541) 388- 6570 - Fax ( 541) 385- 3202 - https:// www. deschutes. org/
+AGENDA REQUEST & STAFF REPORT
+For Board of Commissioners BOCC Wednesday Meeting of March 24, 2021
+DATE: March 11, 2021
+FROM: Christopher Bell, Legal,
+TITLE OF AGENDA ITEM:
+SECOND READING: Ordinance No. 2021- 003, Text Amendments to DCC 8. 30 Ambulance
+ServiceArea and to DeschutesCountyAmbulance ServiceArea Plan
+BACKGROUND AND POLICY IMPLICATIONS:
+The Deschutes County Ambulance Service Area (' ASA') Subcommittee is proposing changes
+to Chapter 8.30 of the Deschutes County Code, including Appendix A to Chapter 8.30 ( the
+ASA Plan) to allow franchisees the latitude to use subcontractors in to provide certain
+ambulance services with prior approval from the Board of County Commissioners. The
+changes also include grammatical and spelling corrections, and some editing and re-
+organizing to update the Code and the ASA Plan and to make them clearer and more easily
+understandable. These changes have been reviewed and approved by Legal Counsel and
+now come before the BOCC for consideration pursuant to DCC 1.01. 012.
+FISCAL IMPLICATIONS: None
+ATTENDANCE: Chris Bell, Legal; Tom Kuhn, Health

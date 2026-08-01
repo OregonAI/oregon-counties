@@ -1,0 +1,1183 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lane-county
+id: lane-land-use-lc16-229-234
+title: 'LC16.229 234'
+doc_type: ordinance
+citation: 'LC16.229 234'
+authority_level: county_ordinance
+issuing_body: 'Lane County Board of Commissioners'
+source_url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.229_234.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d63459debc700b3c0b42b8459c972577ec8baeea6011486226dbba19d54cc2a7
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.660
+    - ORS 197.667
+    - ORS 541.605
+  related: []
+  supersedes: []
+tags: [lane-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lane County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# LC16.229 234 (LC16.229 234)
+
+## At a glance
+
+LC16.229 234 — land use of Lane County. 23 pages.
+
+## Full text
+
+Lane Code
+CHAPTER 16 CONTENTS
+
+May 2026 16-i
+SUBURBAN RESIDENTIAL ZONE (RA-RCP)
+16.229 Suburban Residential Zone (RA-RCP).
+GARDEN APARTMENT RESIDENTIAL ZONE (RG-RCP)
+16.230 Garden Apartment Residential Zone (RG-RCP).
+RURAL RESIDENTIAL LANDS ZONE (RR-RCP)
+16.231 Rural Residential Lands Zone (RR-RCP).
+DESTINATION RESORT ZONE (DR-RCP)
+16.232 Destination Resort Zone (DR-RCP).
+HISTORIC STRUCTURES OR SITES COMBINING ZONE (/H-RCP)
+16.233 Historic Structures or Sites Combining Zone (/H-RCP).
+NATURAL ESTUARY ZONE (NE-RCP)
+16.234 Natural Estuary Zone (NE-RCP).
+16.229 Lane Code 16.229
+
+May 2026 16-331 LC16.229_234
+SUBURBAN RESIDENTIAL ZONE (RA-RCP)
+RURAL COMPREHENSIVE PLAN
+
+16.229 Suburban Residential Zone (RA-RCP).
+ (1) Purpose.  The purpose of the Suburban Residential Zone (RA-RCP) is:
+  (a) To provide opportunities for people to live in a rural area.
+  (b) To allow primary and accessory residential uses and nonresidential
+uses which may be compatible with primary residential uses.
+  (c) To implement the policies of the Rural Comprehensive Plan,
+primarily those policies related to the residential development of areas identified as
+committed or built upon and located within a community area.
+  (d) To provide protective measures for riparian vegetation along Class I
+streams designated as significant in the Rural Comprehensive Plan.
+ (2) Permitted Uses.  The following uses and activities are permitted subject to
+the general provisions and exceptions specified by this chapter of Lane Code.
+  (a) One single-family dwelling, mobile home or duplex on a legal lot.
+  (b) One single -family dwelling or mobile home on a legal lot, in
+addition to the above, to provide residence for an immediate family member or members
+of the owner; provided that the minimum average density per residential unit complies
+with the following standards:
+   (i) Where a community sewerage system and community water
+system is available, the ratio of residences to area shall not exceed one residence per
+10,000 square feet.
+   (ii) Where an on -site sewage disposal system and community
+water system is available, the ratio of residences to area shall not exceed one residence
+per 20,000 square feet.
+   (iii) Where an individual water system and on- site sewage disposal
+system is available, the ratio of residences to area shall not exceed one residence per acre.
+   (iv) In all cases, an approved means of sewerage must be obtained.
+  (c) One manufactured dwelling in conjunction with an existing dwelling
+as a temporary use for the term of a hardship suffered by the existing resident or a
+relative of the resident subject to compliance with the following conditions:
+   (i) The existing resident or a relative of the existing resident
+suffers a hardship and needs the care of another person living nearby.
+   (ii) To qualify as a relative of the existing resident, a person shall
+be the wife, husband, son, daughter, mother, father, brother, brother -in-law, sister, sister-
+in-law, son- in-law, daughter -in-law, mother -in-law, father -in-law, aunt, uncle, niece,
+nephew, stepparent, stepchild, grandparent or grandchild of the existing resident.
+   (iii) Satisfactory evidence of the hardship is furnished which shall
+include:
+    (aa) A written statement, on a form provided by the
+Department, from the person’s physician, therapist, or other profes sional counselor,
+disclosing the existence and general nature of the hardship.
+    (bb) A written statement, on the form provided by the
+Department, disclosing any family relationship of the person with the hardship and the
+existing resident who will provide care.
+   (iv) The temporary manufactured dwelling will be located on the
+same legal lot as the existing dwelling.
+   (v) The temporary manufactured dwelling will be connected to the
+same on-site sewage disposal system serving the existing dwelling.
+16.229 Lane Code 16.229
+
+May 2026 16-332 LC16.229_234
+   (vi) The temporary manufactured dwelling will comply with
+sanitation and building code requirements.
+   (vii) Approval of temporary manufactured dwelling permits shall be
+valid until December 31 of the year following the year of original permit approval and
+may be renewed once every two years until the hardship situations cease.
+  (d) Residential Home.
+  (e) Buildings accessory to a dwelling, mobile home or duplex, such as
+garages, storerooms, woodsheds, laundry, playhouses, greenhouses, hobby shop, animal
+or fowl shelter, or similar and related accessory uses.
+  (f) Bed and breakfast accommodation.
+  (g) Farm use, subject to conditions and limitations provided herein:
+   (i) The total number of livestock allowed on a property shall be
+limited to the area of the property divided by the total minimum area required for each
+animal listed below:
+    (aa) One horse, cow or swine per acre;
+   or,
+    (bb) One goat or sheep per half acre.
+   (ii) A minimum of 500 square feet of area shall be required for
+each chicken, other fowl or rabbit kept on the property.
+   (iii) The number of colonies of bees allowed on a property shall be
+limited to one colony for each 10,000 square feet of lot area and shall be located no closer
+than 50 feet from any property line.
+  (h) Forest uses, including the propagation and harvesting of forest
+products, but not including a primary processing facility.
+  (i) Roadside stand.
+  (j) Public and semipublic buildings, structures and uses rendering direct
+service to the public in local areas, such as fire stations, utility sub stations, pump stations
+and wells.
+  (k) Noncommercial dog kennels, subject to conditions and limitations
+provided herein:
+   (i) For more than three dogs over four months of age, there shall
+be at least 5,000 square feet of lot area for each dog on the lot.
+   (ii) Where the lot area is 20 acres or less, the maximum number of
+dogs over four months of age shall be eight.
+   (iii) Where the lot area exceeds 20 acres and where more than eight
+dogs over four months of age are accommodated, kennel structures and fenced runs shall
+be required for all such dogs in excess of eight and shall be located at least 100 feet from
+any adjoining property.
+   (iv) All dogs shall be owned by the kennel owner, except those
+temporarily kept for purposes of breeding.
+  (l) Rock, sand, gravel or loam excavation or extraction, subject to
+conditions and limitations herein:
+   (i) The materials excavated or extracted are to be used solely on
+the subject property and are not offered for sale or remuneration.
+   (ii) The materials excavated or extracted do not exceed 500 cubic
+yards annually per acre of the subject property.
+  (m) Guest house.
+  (n) A mobile home park lawfully existing on a property prior to
+February 29, 1984.
+  (o) Noncommercial kennel.
+  (p) Family day care facility in a permitted residence.
+16.229 Lane Code 16.229
+
+May 2026 16-333 LC16.229_234
+  (q) Transportation facilities and uses as specified in LC 16.265(3)(a)
+through (m).
+ (3) Uses Subject to Director’s Approval . The following uses and activities are
+permitted subject to prior submittal and approval of an application pursuant to Type II
+procedures of LC Chapter 14 and the general provisions and criteria specified by this
+chapter of Lane Code:
+  (a) One dwelling or mobile home, and accessory uses, for a person
+employed on the same legal lot as the owner’s dwelling or mobile home, provided:
+   (i) The minimum acreage density per residence unit as specified
+in LC 16.229(2)(b) above is maintained.
+   (ii) The location of the additional residence would not preclude the
+future partitioning of the property, if the residence and property on which it is to be
+located would be partitioned from the parent parcel.  A site plan locating the proposed
+residence and delineating the feasibility of the partition shall be submitted with the
+application.
+  (b) Home occupations, subject to the following conditions and annual
+review:
+   (i) Will be operated by a resident of the property on which the
+business is located.
+   (ii) Will employ no more than five full or part-time persons.
+   (iii) Will be operated in a dwelling or mobile home, or other
+buildings normally associated with uses permitted under LC 16.229(2) above.
+   (iv) Any structure that would not otherwise be allowed in this zone
+shall not be allowed for use as a home occupation.
+   (v) Will not interfere with existing uses on nearby land or with
+other uses permitted under LC 16.229(2) above.
+   (vi) Will comply with sanitation and building code requirements.
+   (vii) Will not be used as a justification for a zone change.
+   (viii) Will comply with any additional conditions of approval.
+   (ix) Approved applications for home occupations shall be valid
+until December 31 of the year that the application was initially ap proved or until
+December 31 of the year for which an extension of the approval was granted by the
+Director as provided below.  Prior to December 31 of each year, the property owner or
+applicant who received initial approval, or a renewal pursuant to this Section, shall
+provide the Director with written request for renewal of the Home Occupation and
+written information sufficient to allow the Director to determine if the Conditions of
+Approval and other approval criteria have been satisfied.  The Director shall review this
+information for each approved home occupation to determine if it continues to com ply
+with the conditions of approval.  Home occupations which continue to comply with the
+conditions of approval shall receive a one -year extension of approval to December 31 of
+the following year, and such extension shall be put in writing by the Director and mailed
+to the owner of the property upon which the home occupation is located.  Home
+occupations which do not comply with the conditions of approval, or for which a request
+for renewal is not received pursuant to this Section, shall not receive extended approval
+by the Director, and the Director shall mail written notice of the decision not to extend
+the approval to the owner of the property upon which the home occupation is located.
+  (c) More intensive farm use than those specified in LC 16.229(2)(g)
+above.
+  (d) Transportation facilities and uses as specified in LC 16.265(3)(n)
+through (q).
+16.229 Lane Code 16.229
+
+May 2026 16-334 LC16.229_234
+ (4) Uses Subject to Hearings Official Approval .  The following uses and
+activities are permitted subject to prior submittal and approval of an application pursuant
+to Type III procedures of LC Chapter 14 and the general provisions and criteria specified
+by this chapter of Lane Code:
+  (a) Animal hospitals.
+  (b) Commercial breeding kennel.
+  (c) Commercial kennel.
+  (d) Campgrounds, camping vehicle parks, tourist parks.
+  (e) Cemeteries, human or animal.
+  (f) Churches.
+  (g) Group care home.
+  (h) Day care nurseries.
+  (i) Golf courses.
+  (j) Lodges and grange halls.
+  (k) Nursing homes.
+  (l) Parks, playgrounds, community centers.
+  (m) Public and private schools.
+  (n) Radio and television transmission facilities.
+  (o) Solid waste disposal facilities.
+  (p) Stables, riding academies and commercial riding.
+  (q) Storage facilities for boats and recreational vehicles.
+  (r) Sewage treatment facilities.
+  (s) Dams, water storage facilities; power generation or transmission
+facilities; electric transmission lines which require a right- of-way of 25 feet in width or
+wider; canals, flumes and pipelines; flood control facilities and irrigation projects.
+  (t) Fish and wildlife habitat management and any accessory uses,
+including a dwelling or mobile home.
+  (u) Mobile home parks.
+  (v) Amusement park, carnival or circus.
+  (w) Correctional institution.
+  (x) Garbage dump, sanitary landfill or solid waste management.
+  (y) Jail or penal farm.
+  (z) Race track.
+  (a-a) Sewage treatment plant.
+  (b-b) Boarding of horses for profit.
+  (c-c) Primary processing facility.
+ (5) Hearings Official Approval Criteria.  Uses identified in LC 16.229(4)
+above must comply with the following criteria:
+  (a) Will not significantly impact existing uses on adjacent and nearby
+lands and other uses permitted in the zone in which the subject property is located.
+  (b) Where necessary, measures are taken to minimize potential negative
+impacts on adjacent and nearby lands.
+  (c) The proposed use is consistent with the policies contained in the
+Rural Comprehensive Plan.
+  (d) Where necessary, adequate provisions for access, sewerage and
+potable water would be provided for the intended use.
+ (6) Area.  The creation of a parcel or lot for RA zoned property shall be
+subject to the following minimum area requirements:
+  (a) Where a community sewerage system and community water system
+is available, the minimum area requirement shall be 10,000 square feet.
+16.229 Lane Code 16.229
+
+May 2026 16-335 LC16.229_234
+  (b) Where an on -site sewage disposal system and community water
+system is available, the minimum area requirement shall be 20,000 square feet.
+  (c) Where an individual water system and on -site sewage disposal
+system is available, the minimum area requirement shall be one acre.
+  (d) In all cases, an approved means of sewerage must be obtained.
+  (e) There is no minimum lot size for a parcel to accommodate uses
+allowed by LC 16.229(2)(j) above.
+ (7) Property Development Standards .  All uses or activities permitted or
+conditionally permitted above shall be subject to the following development standards:
+  (a) Property Line Setbacks.  No structure other than a fence or sign shall
+be located closer than:
+   (i) 20 feet from the right-of-way of a State road, County road or a
+local access public road specified in LC Chapter 15; and
+   (ii) 10 feet from all other property lines except as provided below.
+  (b) For any lot one acre or less in size in a subdivision recorded prior to
+March 30, 1984, the setback for property lines other than front -yard shall be five feet,
+except as provided below.
+  (c) For mobile homes to be located in lawfully existing mobile home
+parks, the setbacks from a projected or existing right -of-way of a County or local -access
+public road shall be the same as required above, and lesser setbacks from all other mobile
+home lot lines are permitted if in compliance with Oregon Administrative Rules, Chapter
+814, Division 28--Department of Commerce, effective on April l, 1986.
+  (d) Riparian Setback Area.  Except for property located between the
+Eugene-Springfield Metropolitan Area General Plan Boundary and the Eugene and
+Springfield Urban Growth Boundaries, where setbacks are provided for in LC 16.253( 9),
+the riparian setback area shall be the area between a line 50 feet above and parallel to the
+ordinary high water of a Class I stream designated for riparian vegetation protection in
+the Rural Comprehensive Plan.  No structure other than a fence shall be located closer
+than 50 feet from the ordinary high water of a Class I stream designated for riparian
+vegetation protection by the Rural Comprehensive Plan.  A lternative standards to permit
+a structure in the riparian setback area may be allowed provided the requirements of LC
+16.253(6) or LC 16.253(9), as applicable, are met.
+  (e) Maintenance, Removal and Replacement of Indigenous Vegeta tion
+within the Riparian Setback Area.  Maintenance, removal and replace ment of indigenous
+vegetation within the riparian setback area designated for riparian vegetation protection
+by the comprehensive plan must comply with the provisions of LC 15.253( 5) or LC
+16.253(9), as applicable.
+  (f) Height.  45 feet shall be the maximum allowable structural height.
+  (g) Signs.
+   (i) Signs shall not extend over a public right -of-way or project
+beyond the property line.
+   (ii) Signs shall not be illuminated or capable of movement
+   (iii) Signs shall be limited to 200 square feet in area.
+  (h) Parking.  Off street parking shall be provided in accordance with LC
+16.250.
+ (8) Telecommunication Towers .  Notwithstanding the requirements in LC
+16.229(2)-(4) above, telecommunication facilities are allowed subject to compliance with
+the requirements of LC 16.264 and with applicable requirements elsewhere in LC
+Chapter 16 including but not necessarily limited to: the riparian vegetation protection
+standards in LC 16.253; Floodplain Combining Zone (LC 16.244); Willamette Greenway
+Development Permits (LC 16.254); the Coastal Resource Management Combining Zones
+16.230 Lane Code 16.230
+
+May 2026 16-336 LC16.229_234
+(LC 16.234, 16.235, 16.236, 16.237, 16.238, 16.239, 16.240, 16.241, 16.242, or 16.243);
+Federal or State of Oregon inventories and regulations applicable to delineated wetlands
+and waters of the nation or state; the Commercial Airport Safety Combining Zone (LC
+16.245) and the Airport Safety Combining Zone (LC 16.246); and the Sensitive Bird
+Habitat protection Standards and Criteria in LC 16.005(4).  (Revised by Ordinance No. 7 -87,
+Effective 6.17.87; 3 -91, 5.17.91; 10 -92, 11.12.92; 13- 97, 12.17.97; 4- 02, 4.10.02; 10- 04, 6.4.04; 5 -04,
+7.1.04; 20-05, 6.16.20; 25-07, 5.5.2026)
+
+GARDEN APARTMENT RESIDENTIAL ZONE (RG-RCP)
+RURAL COMPREHENSIVE PLAN
+
+16.230 Garden Apartment Residential Zone (RG-RCP).
+ (1) Permitted Buildings and Uses .  In the RG -RCP Zone, the following types
+of buildings and uses are permitted as hereinafter specifically provided for by this
+section, subject to the general provisions and exceptions set forth in this chapter:
+  (a) Single-family dwelling.
+  (b) Two family dwelling (duplex).
+  (c) Multiple dwelling.
+  (d) Court apartment, boarding house.
+  (e) Townhouse.
+  (f) Church.
+  (g) Schools, public and private (elementary, junior high, senior high).
+  (h) Public building or structure essential to the physical and economic
+welfare of the area in which located, such as a fire station, library, substation, pump
+station, reservoir, provided that each interior side and rear yard shall be a minimum of 25
+feet in width. No stockpiling or storage of equipment or materials shall be allowed.
+  (i) Accessory buildings and structures.
+  (j) Private parking area.
+  (k) Private parking garage.
+  (l) Residential home.
+  (m) Bed & Breakfast accommodation.
+  (n) Family day care facility in a permitted residence.
+  (o) Residential Care Facility, provided, pursuant to ORS 197.667(4), the
+applicant supplies to the County at the time of application for land use approval a copy of
+the application and non- confidential supportive documentation for state licensing of the
+facility.
+  (p) Transportation facilities and uses as specified in LC 16.265(3)(a)
+through (m).
+ (2) Uses Subject to Director Approval .  The following uses and activities are
+permitted subject to prior submittal and approval of an application pursuant to Type II
+procedures of LC Chapter 14and the general provisions and criteria specified by this
+chapter of the Lane Code.  Uses listed below may be subject to Site Review Procedures
+as specified in LC 16.257, and verification of whether or not this is required must be
+made prior to development of a permitted use:
+  (a) Home Occupations, subject to the following conditions and annual
+review:
+   (i) Will be operated by a resident of the property on which the
+business is located.
+   (ii) Will employ no more than five full or part-time persons.
+   (iii) Will be operated in a dwelling or other buildings nor mally
+associated with uses permitted under LC 16.230(1) above.
+16.230 Lane Code 16.230
+
+May 2026 16-337 LC16.229_234
+   (iv) Any structure that would not otherwise be allowed in this zone
+shall not be allowed for use as a home occupation.
+   (v) Will not interfere with existing uses on nearby land or with
+other uses permitted under LC 16.230(1) above.
+   (vi) Will comply with sanitation and building code requirements.
+   (vii) Will not be used as justification for a zone change.
+   (viii) Will comply with any additional conditions of approval.
+   (ix) Approved applications for home occupations shall be valid
+until December 31 of the year the application was initially approved or until December
+31 of the year for which an extension of the approval was granted by the Director as
+provided below.  Prior to December 31 of each year, the property owner or applicant who
+received initial approval, or a renewal pursuant to this Section, shall provide the Director
+with written request for renewal of the Home Occupation and written information
+sufficient to allow the Director to determine if the Conditions of Approval and other
+approval criteria have been satisfied.  The Director shall review this information for each
+approved home occupation to determine if it continues to comply with the conditions of
+approval.  Home occupations which continue to comply with the conditions of approval
+shall receive a one-year extension of approval to December 31 of the following year, and
+such extension shall be put in writing by the Director and mailed to the owner of the
+property upon which the home occupation is located.  Home occupations which do not
+comply with the conditions of approval or for which a request for renewal is not received
+pursuant to this Section, shall not receive extended approval by the Director, and the
+Director shall mail written notice of the decision not to extend the approval to the owner
+of the property upon which the home occupation is located.
+  (b) Transportation facilities and uses as specified in LC 16.265(3)(n)
+through (q).
+ (3) Uses Subject to Hearings Official Approval .  The following uses are
+permitted subject to prior submittal and approval of an application pursuant to Type III
+procedures of LC Chapter 14 and subject to compliance with the criteria and standards
+specified in this chapter of Lane Code:
+  (a) Heliport, together with accessory land uses relevant and appropriate
+to the operation.
+  (b) Commercial breeding kennel or commercial kennel.
+  (c) Amusement park, carnival or circus.
+  (d) Radio and television stations.
+  (e) Sewage treatment plant.
+  (f) Recreation vehicle park.
+  (g) Campground or picnic area.
+  (h) Home occupations meeting the requirements of LC 16.231(3)(b)
+(RR-RCP Zone).
+  (i) Clinic.
+  (j) Day nursery school.
+  (k) Group care home including residential care facilities as defined by
+ORS 197.660(1).
+  (l) Hospital.
+  (m) Nursing home.
+  (n) Private and public park, playground or community center.
+  (o) Telephone or telegraph exchange, excluding outdoor storage of
+vehicles or materials.
+ (4) Special Use Approval Criteria .  Uses allowed under LC 16.230(3) above
+shall comply with following criteria:
+16.230 Lane Code 16.230
+
+May 2026 16-338 LC16.229_234
+  (a) Conformity with the Rural Comprehensive Plan for Lane County.
+  (b) The location, size, design and operating characteristics of the
+proposed use:
+   (i) Will be compatible with and will not adversely affect the
+livability or appropriate development of abutting properties and the surrounding vicinity,
+and
+   (ii) Will not be adversely affected by the development of abutting
+properties and the surrounding vicinity.  (Consideration may be given to harmony in
+scale, bulk, coverage and density; to the availability of public facilities and utilities; to the
+harmful effect, if any, upon desirable neighborhood character, to the generation of traffic
+and the capacity of surrounding streets and roads; and to any other relevant impact of the
+use.)
+   (iii) Will not be adversely affected by known natural hazards, such
+as floods, slides, erosion.
+   (iv) Will not create a hazardous natural condition such as erosion,
+landslide, flooding.
+ (5) Height.  (Also see LC 16.250.) No building may extend above the sun
+exposure plane.
+ (6) Setback Requirements.  (Also see LC 16.250 and LC Chapter 15.)
+  (a) Property Line Setbacks.  No structure other than a fence or sign shall
+be located closer than:
+   (i) 20 feet from the right-of-way of a State road, County road or a
+local access public road specified in LC Chapter 15; and
+   (ii) 10 feet from all other property lines except as provided below.
+  (b) No yard or open space provided for the purpose of complying with
+the regulations of this section shall be used for public or private parking areas or garages,
+or other accessory buildings.
+  (c) The Riparian Setback Area requirements of LC 16.229(7)(d) and (e)
+shall apply to development of property in the RG-RCP zone.
+ (7) Density.  Where community sewerage facilities are not available, the
+minimum area required shall be 3,000 square feet per dwelling unit.
+ (8) Lot Coverage .  All structures, excluding garages, carports and parking
+spaces, shall not occupy more than 30 percent of the gross area of the lot.
+ (9) Vision Clearance.
+  (a) Vision clearance for corner lots shall be a minimum of 15 feet.
+  (b) Vision clearance on alley -street intersections shall be a minimum of
+seven and one-half feet.
+ (10) Off Street Parking .  The number of permanently maintained off street
+parking spaces required on the site shall be no less than as set forth in the following, and
+shall be constructed simultaneously with the construction of the applicable permitted
+zone use.  A parking space shall be not less than eight feet wide and 18 feet long, and
+shall have provisions for ingress and egress.  Groups of three or more parking spaces
+shall be served by a service drive so that no backward movement or other maneuvering of
+a vehicle within a street, other than an alley, will be required.  No off street parking
+requirements shall be satisfied within required yard areas.
+  (a) Residential Types and Parking Space Required.
+   (i) Dwelling, single-family or two-family - One for each dwelling
+unit.
+   (ii) Dwelling, multiple - 1.5 for each dwelling unit; where
+fractioned, next highest full unit.
+  (b) Institutional Types and Parking Space Required.
+16.230 Lane Code 16.230
+
+May 2026 16-339 LC16.229_234
+   (i) Churches, clubs, lodges -  One for every four fixed seats or
+every eight feet of bench length of every 28 square feet of main auditorium, sanctuary or
+place of worship, where no permanent seats or benches are maintained.
+   (ii) Hospitals - One and one -half spaces for each bed; where
+fractioned, next highest full unit.
+   (iii) Schools.
+    (aa) Elementary and junior high schools -  One and one half
+spaces for each teaching station, plus one for every six fixed seats in the auditorium or
+one for every 42 square feet of seating area, where there are no fixed seats in the
+auditorium; where fractioned, next highest full unit.
+    (bb) High Schools -  One and one half spaces for each
+teaching station, plus one for every four fixed seats in the auditorium or one for every 28
+square feet of seating area where there are no fixed seats in the auditorium; where
+fractioned, next highest full unit.
+   (iv) Libraries, museums, art galleries . One for each 250 square
+feet of gross floor area.
+  (c) Commercial Types and Parking Space Required.
+   (i) Clinic - One space for every 400 square feet of gross floor
+area.
+   (ii) Day Nursery School -  One and one -half spaces for each
+teaching or class station; where fractioned, next highest full unit.
+   (iii) Nursing homes, group care homes -  One space for each two
+beds.
+ (11) Signs.  Only the following signs shall be permitted in the RG-RCP Zone:
+  (a) One unlighted nameplate for each dwelling unit, attached flat against
+the main building, not exceeding 4" x 16" and containing only the names and occupation
+of the resident of the premises.
+  (b) One unlighted temporary sign not exceeding six square feet in area,
+pertaining only to the sale, lease or hire of the particular buildings, property or premises
+upon which it is displayed.
+  (c) One unlighted sign for each housing development, not to exceed 20
+square feet in area, or five feet in any dimension, and containing no advertising matter,
+except the name and street address of the development.
+  (d) Subdivision and directional signs.  (See LC 16.259 for permit
+provision).
+ (12) Fences and Walls.  There shall be erected a masonry wall or wooden fence
+along the perimeter of all off street parking areas, except along any portion of such
+parking area immediately adjacent to a building.  Such wall or fence shall contain not less
+than 60 percent solid face surface and not less than 4' 8" in height; setback shall be in
+accordance with the requirements for this zone; provided no wall or fence required by
+this section shall project nearer than five feet to any access drive.
+ (13) Dedication and Improvement of Easements .  No building permit shall be
+issued, and no use of the property not requiring a building permit shall be made, until the
+applicant for a permit or user of the property has submitted to and has had approved by
+the Planning Commission the required dedications of streets and other easements within
+and around the site, and made the required improvements or provided an agreement and
+bond in lieu of improvements.
+ (14) Lot Dimensions.  (Also see LC 16.250.)
+  (a) Minimum area - 20,000 square feet.
+  (b) Minimum width - 100 feet.
+  (c) Minimum depth - 80 feet.
+16.231 Lane Code 16.231
+
+May 2026 16-340 LC16.229_234
+  (d) The minimum area and width requirements shall not apply to either
+single-family or two -family dwellings established in an RG -RCP zone.  Minimum
+average area and width requirements for single and two -family dwellings are as set forth
+in LC 16.250.
+  (15) Telecommunication Towers .  Notwithstanding the requirements in
+LC 16.230(1)-(3) above, telecommunication facilities are allowed subject to compliance
+with the requirements of LC 16.264 and with applicable requirements elsewhere in LC
+Chapter 16 including but not necessarily limited to: the riparian vegetation protection
+standards in LC 16.253; Floodplain Combining Zone (LC 16.244); Willamette Greenway
+Development Permits (LC 16.254); the Coastal Resource Management Combining Zones
+(LC 16.234, 16.235, 16.236, 16.237, 16.238, 16.239, 16.240, 16.241, 16.242, or 16.243);
+Federal or State of Oregon inventories and regulations applicable to delineated wetlands
+and waters of the nation or state; the Commercial Airport Safety Combining Zone (LC
+16.245) and the Airport Safety Combining Zone (LC 16.246); and the Sensitive Bird
+Habitat protection Standards and Criteria in LC 16.005(4).  (Revised by Ordinance No. 7 -87,
+Effective 6.17.87; 3-91, 5.17.91; 10-92, 11.12.92; 4-02, 4.10.02; 10-04, 6.4.04; 5-04, 7.1.04; 20-05, 6.16.20)
+
+RURAL RESIDENTIAL LANDS ZONE (RR-RCP)
+RURAL COMPREHENSIVE PLAN
+
+16.231 Rural Residential Lands Zone (RR-RCP).
+ (1) Purpose.  The purpose of the Rural Residential Zone (RR-RCP) is:
+  (a) To provide opportunities for people to live in a rural area.
+  (b) To allow primary and accessory residential uses, and non residential
+uses which may be compatible with primary residential uses.
+  (c) To implement the policies of the Rural Comprehensive Plan,
+primarily those policies related to the residential development of areas identified as
+committed, built upon, or as nonresource land.
+  (d) To provide protective measures for riparian vegetation along Class I
+streams designated as significant in the Rural Comprehensive Plan.
+ (2) Permitted Uses.  The following uses and activities are permitted sub ject to
+the general provisions and exceptions specified by this chapter of Lane Code:
+  (a) One single-family dwelling, mobile home, or duplex on a legal lot.
+  (b) A single-family dwelling or mobile home on a legal lot, in addition
+to the above, to provide residence for an immediate family member or members of the
+owner, provided that the minimum average density per residential unit (i.e., residences in
+relationship to acreages: one, two, five or 10 acres, whichever is specified by the zoning
+map) is maintained, and proper sanitation approvals are obtained.
+  (c) One manufactured dwelling in conjunction with an existing dwelling
+as a temporary use for the term of a hardship suffered by the ex isting resident or a
+relative of the resident subject to compliance with the following conditions:
+   (i) The existing resident or a relative of the existing resident
+suffers a hardship and needs the care of another person living nearby.
+   (ii) To qualify as a relative of the existing resident, a per son shall
+be the wife, husband, son, daughter, mother, father, brother, brother -in-law, sister, sister-
+in-law, son- in-law, daughter -in-law, mother -in-law, father -in-law, aunt, uncle, niece,
+nephew, stepparent, stepchild, grandparent or grandchild of the existing resident.
+   (iii) Satisfactory evidence of the hardship is furnished which shall
+include:
+16.231 Lane Code 16.231
+
+May 2026 16-341 LC16.229_234
+    (aa) A written statement, on a form provided by the
+Department, from the person’s physician, therapist, or other profes sional counselor,
+disclosing the existence and general nature of the hardship.
+    (bb) A written statement, on the form provided by the
+Department, disclosing any family relationship of the person with the hardship and the
+existing resident who will provide care.
+   (iv) The temporary manufactured dwelling will be located on the
+same legal lot as the existing dwelling.
+   (v) The temporary manufactured dwelling will be connected to the
+same on-site sewage disposal system serving the existing dwelling.
+   (vi) The temporary manufactured dwelling will comply with
+sanitation and building code requirements.
+   (vii) Approval of temporary manufactured dwelling permits shall be
+valid until December 31 of the year following the year of original permit approval and
+may be renewed once every two years until the hardship situations cease.
+  (d) Residential home.
+  (e) Buildings accessory to a dwelling, mobile home or duplex, such as
+garages, storerooms, woodsheds, laundry, playhouses, greenhouses, hobby shop, animal
+or fowl shelter or similar and related accessory uses.
+  (f) Bed and breakfast accommodation.
+  (g) Farm use, subject to conditions and limitations provided herein:
+   (i) The total number of livestock allowed on a property shall be
+limited to the area of the property divided by the total minimum area required for each
+animal listed below:
+    (aa) One horse, cow or swine per acre;
+    or
+    (bb) One goat or sheep per half acre.
+   (ii) A minimum of 500 square feet of area shall be required for
+each chicken, other fowl or rabbit kept on the property.
+   (iii) The number of colonies of bees allowed on a property shall be
+limited to one colony for each 10,000 square feet of lot area and shall be located no closer
+than 50 feet from any property line.
+  (h) Forest uses, including the propagation and harvesting of forest
+products grown on the property, but not including a primary processing facility.
+  (i) Roadside stand.
+  (j) Public and semipublic buildings, structures and uses rendering direct
+service to the public in local areas, such as fire stations, utility substations, pump stations
+and wells.
+  (k) Noncommercial dog kennels, subject to conditions and limitations
+provided herein:
+   (i) For more than three dogs over four months of age, there shall
+be at least 5,000 square feet of lot area for each dog on the lot.
+   (ii) Where the lot area is 20 acres or less, the maximum number of
+dogs over four months of age shall be eight.
+   (iii) Where the lot area exceeds 20 acres and where more than eight
+dogs over four months of age are accommodated, kennel structures and fenced runs shall
+be required for all such dogs in excess of eight and shall be located at least 100 feet from
+any adjoining property.
+   (iv) All dogs shall be owned by the kennel owner, except those
+temporarily kept for purposes of breeding.
+16.231 Lane Code 16.231
+
+May 2026 16-342 LC16.229_234
+  (l) Rock, sand, gravel or loam excavation or extraction, subject to
+conditions and limitations herein:
+   (i) The materials excavated or extracted are to be used solely on
+the subject property and are not offered for sale or remuneration.
+   (ii) The materials excavated or extracted do not exceed 500 cubic
+yards annually per acre of the subject property.
+  (m) Guest house.
+  (n) A mobile home park lawfully existing on a property prior to
+February 29, 1984.
+  (o) Family day care facility in a permitted residence.
+  (p) Transportation facilities and uses as specified in LC 16.265(3)(a)
+through (m).
+ (3) Uses Subject to Director Approval .  The following uses and activities are
+permitted subject to prior submittal and approval of an application pursuant to Type II
+procedures of LC Chapter 14 and the general provisions and criteria specified by this
+chapter of Lane Code:
+  (a) One dwelling or mobile home for a person employed on the same
+legal lot as the owner’s dwelling or mobile home, provided:
+   (i) The minimum acreage density per residence unit is maintained
+(i.e., not more than one residence per whatever the area requirement is as specified by the
+zoning map).
+   (ii) The location of the additional residence would not preclude the
+future partitioning of the property, if the residence and property on which it is to be
+located would be partitioned from the parent parcel.  A site plan locating the proposed
+residence and delineating the feasibility of the partition shall be submitted with the
+application.
+  (b) Home occupations, subject to the following conditions and annual
+review:
+   (i) Will be operated by a resident of the property on which the
+business is located.
+   (ii) Will employ no more than five full or part-time persons.
+   (iii) Will be operated in a dwelling or mobile home, or other
+buildings normally associated with uses permitted under LC 16.231(2) above.
+   (iv) Any structure that would not otherwise be allowed in this zone
+shall not be allowed for use as a home occupation.
+   (v) Will not interfere with existing uses on nearby land or with
+other uses permitted under LC 16.231(2) above.
+   (vi) Will comply with sanitation and building code requirements.
+   (vii) Will not be used as a justification for a zone change.
+   (viii) Will comply with any additional conditions of approval.
+   (ix) Approved applications for home occupations shall be valid
+until December 31 of the year that the application was initially approved or until
+December 31 of the year for which an extension of the approval was granted by the
+Director as provided below.  Prior to December 31 of each year, the property owner or
+applicant who received initial approval or a renewal pursuant to this Section, shall
+provide the Director with written request for renewal of the Home Occupation and
+written information sufficien t to allow the Director to determine if the Conditions of
+Approval and other approval criteria have been satisfied.  The Director shall review this
+information for each approved home occupation to determine if it continues to comply
+with the conditions of approval.  Home occupations which continue to comply with the
+conditions of approval shall receive a one -year extension of approval to December 31 of
+16.231 Lane Code 16.231
+
+May 2026 16-343 LC16.229_234
+the following year, and such extension shall be put in writing by the Director and mailed
+to the owner of the property upon which the home occupation is located.  Home
+occupations which do not comply with the conditions of approval shall not receive
+extended approval, or for which a request for renewal is not received pursuant to this
+Section, shall not receive extended approval by the Director, and the Director shall mail
+written notice of the decision not to extend the approval to the applicant and the owner of
+the property upon which the home occupation is located.
+  (c) More intensive farm use than those specified in LC 16.231(2)(g)
+above.
+  (d) Transportation facilities and uses as specified in LC 16.265(3)(n)
+through (q).
+ (4) Uses Subject to Hearings Official Approval .  The following uses and
+activities are permitted subject to prior submittal and approval of an application pursuant
+to Type III procedures of LC Chapter 14 and the general provisions and criteria specified
+by this chapter of Lane Code:
+  (a) Animal hospitals.
+  (b) Commercial breeding kennel.
+  (c) Commercial kennel.
+  (d) Campgrounds, camping vehicle parks, tourist parks.
+  (e) Cemeteries.
+  (f) Churches.
+  (g) Group care home.
+  (h) Day care nurseries.
+  (i) Golf courses.
+  (j) Lodges and grange halls.
+  (k) Nursing homes.
+  (l) Parks, playgrounds, community centers.
+  (m) Public and private schools.
+  (n) Radio and television transmission facilities.
+  (o) Solid waste management.
+  (p) Stables, riding academies and commercial riding.
+  (q) Storage facilities for boats and recreational vehicles.
+  (r) Sewage treatment facilities.
+  (s) Dams, water storage facilities; power generation or transmission
+facilities; electric transmission lines which require a right- of-way of 25 feet in width or
+wider; canals, flumes and pipelines; flood control facilities and irrigation projects.
+  (t) Fish and wildlife habitat management and any accessory uses,
+including a dwelling or mobile home.
+  (u) An expansion of a mobile home park meeting the requirements of a
+permitted use under LC 16.231(2)(n) above and which does not exceed 50 percent of the
+number of mobile home spaces lawfully existing as of February 29, 1984; provided the
+expansion includes adequate provisions for access to and within the mobile home park
+and provided adequate provisions are made for sewerage and potable water.
+  (v) A mobile home park on property for which a conditional use permit
+for: a mobile home park had previously been approved by Lane County and not denied
+on appeal to the State; provided:
+   (i) The previous conditional use permit was approved after
+January 1, 1982.
+   (ii) The proposed mobile home park is not substantially different
+than the one previously approved in LC 16.231(4)(v)(i) above.
+16.231 Lane Code 16.231
+
+May 2026 16-344 LC16.229_234
+   (iii) The application for the proposed mobile home park is received
+and accepted prior to January l, 1985.
+   (iv) There are adequate provisions for access to and within the
+proposed mobile home park and adequate sewerage and potable water.
+  (w) Primary processing facility.
+ (5) Conditional Use Criteria .  Uses conditionally permitted under LC
+16.231(4) above are subject to compliance with the following criteria:
+  (a) Will not significantly impact existing uses on adjacent and nearby
+lands and other uses permitted in the zone in which the subject property is located.
+  (b) Where necessary, measures are taken to minimize potential negative
+impacts on adjacent and nearby lands.
+  (c) The proposed use is consistent with the policies contained in the
+Rural Comprehensive Plan.
+ (6) Area.  Land within the Rural Residential Zone shall be designated and
+adopted on the zoning map as RR -1, RR-2, RR-5 or RR-10, and the creation of a parcel
+or lot shall be subject to compliance with LC Chapter 13 and the following minimum
+area requirements:
+  (a) RR-1: 1 acre
+  (b) RR-2: 2 acres
+  (c) RR-5: 5 acres
+  (d) RR-10: 10 acres
+  (e) In either RR-1, RR-2, RR-5 or RR-10, the minimum acreage may be
+less than required above and whatever size is necessary to accommodate uses specified in
+LC .6.231(2)(j) above.
+ (7) Property Development Standards .  All uses or activities permitted or
+conditionally permitted above shall be subject to the following development standards:
+  (a) Property Line Setbacks.  No structure other than a fence or sign shall
+be located closer than:
+   (i) 20 feet from the right-of-way of a State road, County road or a
+local access public road specified in LC Chapter 15; and
+   (ii) 10 feet from all other property lines except as provided below.
+  (b) For any lot one acre or less in size in a subdivision recorded prior to
+March 30, 1984, the setback for property lines other than front -yard shall be five feet,
+except as provided below.
+  (c) For mobile homes to be located in lawfully existing mobile home
+parks, the setbacks from a projected or existing right -of-way of a County or local -access
+public road shall be the same as required above, and lesser setbacks from all other mobile
+home lot lines are permitted if in compliance with Oregon Administrative Rules, Chapter
+814, Division 28 --Department of Commerce, effective on April l, 1986.
+  (d) Riparian Setback Area.  Except for property located between the
+Eugene-Springfield Metropolitan Area General Plan Boundary and the Eugene and
+Springfield Urban Growth Boundaries, where setbacks are provided for in LC 16.253( 9),
+the riparian setback area shall be the area between a line 50 feet above and parallel to the
+ordinary high water of a Class I stream designated for riparian vegetation protec tion in
+the Rural Comprehensive Plan.  No structure other than a fence shall be located closer
+than 50 feet from the ordinary high water of a Class I stream designated for riparian
+vegetation protection by the Rural Comprehensive Plan.  A lternative standards to permit
+a structure in the riparian setback area may be allowed provided the requirements of LC
+16.253(6) or LC 16.253(9), as applicable, are met.
+  (e) Maintenance, Removal and Replacement of Indigenous Vegeta tion
+within the Riparian Setback Area.  Maintenance, removal and replace ment of indigenous
+16.232 Lane Code 16.232
+
+May 2026 16-345 LC16.229_234
+vegetation within the riparian setback area designated for riparian vegetation protection
+by the comprehensive plan must comply with the provisions of LC 16.253( 5) or LC
+16.253(9), as applicable.
+  (f) Height.  None
+  (g) Signs.
+   (i) Signs shall not extend over a public right -of-way or project
+beyond the property line.
+   (ii) Signs shall not be illuminated or capable of movement.
+   (iii) Signs shall be limited to 200 square feet in area.
+  (h) Parking.  Off street parking shall be provided in accordance with LC
+LC 16.250.
+ (8) Telecommunication Towers .  Notwithstanding the requirements in LC
+16.231(2)-(4) above, telecommunication facilities are allowed subject to compliance with
+the requirements of LC 16.264 and with applicable requirements elsewhere in LC
+Chapter 16 including but not necessarily limited to: the riparian vegetation protection
+standards in LC 16.253; Floodplain Combining Zone (LC 16.244); Willamette Greenway
+Development Permits (LC 16.254); the Coastal Resource Management Combining Zones
+(LC 16.234, 16.235, 16.236, 16.237, 16.238, 16.239, 16.240, 16.241, 16.242, or 16.243);
+Federal or State of Oregon inventories and regulations applicable to delineated wetlands
+and waters of the nation or state; the Commercial Airport Safety Combining Zone (LC
+16.245) and the Airport Safety Combining Zone (LC 16.246); and the Sensitive Bird
+Habitat protection Standards and Criteria in LC 16.005(4).  (Revised by Ordinance No. 7 -87,
+Effective 6.17.87; 3 -91, 5.17.91; 10 -92, 11.12.92; 13- 97, 12.17.97; 4- 02, 4.10.02; 10- 04, 6.4.04; 5 -04,
+7.1.04; 20-05, 6.16.2025-07, 5.5.2026)
+
+DESTINATION RESORT ZONE (DR-RCP)
+RURAL COMPREHENSIVE PLAN
+
+16.232 Destination Resort Zone (DR-RCP).
+ (1) Purpose.  The purpose of the Destination Resort Zone (DR-RCP) is:
+  (a) To recognize that large -scale, destination oriented, multiuse
+recreational facilities are appropriate in Lane County.
+  (b) To implement the policies of the Lane County Rural Area
+Comprehensive Plan which address Destination Resorts.
+  (c) To establish a procedure and standards for the development of
+Destination Resort facilities.
+ (2) Permitted Uses.  The following uses and activities are permitted subject to
+the general provisions and exceptions specified by this chapter of Lane Code:
+  (a) Living accommodations, including lodges, hotels, motels, cabins,
+condominiums, single -family and multifamily dwelling units, and structures, such as
+garages normally subordinate to such accommodations, provided at least 75 percent of
+the living accommodations shall be for other than year-round residents.
+  (b) All manner of outdoor and indoor recreational facilities, including,
+but not limited to, golf courses, tennis courts, swimming pools, racquetball and handball
+courts, riding stables and trails, nature trails, and pathways for walking/running/bicycling,
+campgrounds or camps, and parks.
+  (c) Convention facilities and meeting rooms.
+  (d) When incidential to and together with the uses described in LC
+16.232(2)(a),(b) and (c) above, the following uses;
+   (i) Restaurants, lounges and nightclubs.
+   (ii) Theaters and performing arts auditoriums.
+16.232 Lane Code 16.232
+
+May 2026 16-346 LC16.229_234
+   (iii) Health clubs, spas and exercise studios.
+   (iv) Craft and art studios and galleries.
+   (v) Gift shops and retail convenience stores.
+   (vi) Kennels as a service to resort guests only.
+   (vii) Commercial services and speciality shops to provide only for
+the needs of vacationers and visitors.
+   (viii) Airport or heliport.
+   (ix) First aid station or infirmary.
+   (x) Facilities necessary for utility service.
+   (xi) Sewer and water treatment plant.
+   (xii) Farm and forest uses.
+   (xiii) Personal services.
+  (e) Transportation facilities and uses as specified in LC 16.265(3)(a)
+through (q).
+ (3) Special Criteria and Conditions. Application for, and decisions concerning,
+the Destination Resort Zone shall follow the procedures and criteria defined in LC 16.400
+for amendments to the Rural Comprehensive Plan.  Conditions may be established in the
+approval of an application for the one, such conditions to be directed toward the zoning
+itself, the preliminary design of the proposed development or the final
+design/implementation of the proposed development.  A site Review Permit pursuant to
+LC 16.257 shall be required in all cases, irrespective of other conditions, prior to
+approval of development on the site.  A means of ensuring compliance with such
+conditions may be established, such as Letter of Credit, Bond, Assignment of Savings or
+Contact between the applicant and the County.
+ (4) Special Siting and Fire/Safety Standards for Structures.  All structures
+within an approved Destination Resort Zone shall adhere to the following:
+  (a) Setbacks shall comply with LC 16.211(8)(a) of the F-2 zone.
+  (b) Shall maintain a fuel break 50 feet around each structure, and around
+the entire developed portion of the proposed development, in forested and agricultural
+areas where measurable fire hazard exits.  Such fuel breaks may contain vegetation of a
+type which will not readily spread fire, and shall be continually maintained for their
+intended uses.
+  (c) Shall incorporate a fire suppression system acceptable to the local
+fire official and to the County.
+  (d) Shall incorporate fireproof and fire-resistant materials in structures to
+the maximum feasible extent.
+ (5) Other Property Development Standards.  All uses or activities permitted or
+conditionally permitted above shall be subject to the following development standards:
+  (a) Property Line Setbacks.  No structure other than a fence or sign shall
+be located closer than:
+   (i) 20 feet from the right-of-way of a State road, County road or a
+local access public road specified in LC Chapter 15; and
+   (ii) 10 feet from all other property lines except as provided below.
+  (b) Riparian Setback Area.  Except for property located between the
+Eugene-Springfield Metropolitan Area General Plan Boundary and the Eugene and
+Springfield Urban Growth Boundaries, where setbacks are provided for in LC 16.253( 9),
+no structure other than a fence or sign shall be located closer than 100 feet from the
+ordinary high water of a Class I stream designated for riparian vegetation protection by
+the Rural Comprehensive Plan.  A lesser setback may be allowed if:
+   (i) The Department of Fish and Wildlife is consulted by the
+Department at least 10 days prior to issuing a permit for a structure; and
+16.232 Lane Code 16.232
+
+May 2026 16-347 LC16.229_234
+   (ii) The riparian vegetation does not actually extend all the way
+into the 100- foot setback to the location of the proposed structure, and the riparian
+vegetation has not been removed in violation of the below riparian vegetation
+maintenance standards; or
+   (iii) An application for a variance to the above setback standards
+has been approved pursuant to LC 16.256 with findings of compliance to the Rural
+Comprehensive Plan policies for the protection of Class I streams and riparian vegetation.
+  (c) Maintenance, Removal and Replacement of Riparian Vegetation.
+Except as provided in LC 16.253(9), as applicable, the following standards shall apply for
+the maintenance, removal and replacement of indigenous vegetation within the riparian
+setback area designated for riparian vegetation protection by the comprehensive plan:
+   (i) No more of a tract’s existing vegetation shall be cleared from
+the setback and adjacent area than is necessary for a permitted use, accessory buildings,
+necessary access, septic requirements and fire safety requirements.
+   (ii) Construction activities in and adjacent to the setback area shall
+occur in such a manner so as to avoid unnecessary excavation and/or removal of existing
+vegetation beyond that required for the facilities indicated in LC 16.232(5)(c)(i) above.
+Where vegetation removal beyond that allowed in LC 16.232(5)(c)(i) above cannot be
+avoided, the site shall be replaced during the next replanting season to avoid water
+sedimentation.  The vegetation shall be of indigenous species in order to maintain the
+natural character of the area.
+   (iii) A maximum of 25 percent of existing natural vegetation may
+be removed from the setback area.
+   (iv) The following uses and activities are excepted from the above
+standards:
+    (aa) Commercial forest practices regulated by the Oregon
+Forest Practices Act.
+    (bb) Vegetation removal necessary to provide water access
+for a water dependent use.
+    (cc) Removal of dead or diseased vegetation that poses a
+safety or health hazards.
+    (dd) Removal of vegetation necessary for the maintenance or
+placement of structural shoreline stabilization.
+  (d) Development Orientation.  Any commercial, cultural or enter tain-
+ment services provided as a part of the Destination Resort shall be contained within the
+development and shall not be oriented to public highways adjacent to the property.  The
+buildings shall be designed to be compatible in appearance with the living
+accommodations and shall be constructed of similar materials.
+  (e) Impact on Adjacent Properties.  A Destination Resort shall not
+significantly alter the character of the surrounding area in a manner which substantially
+limits, impairs or prevents the normal permitted uses of the surrounding properties.  It
+shall not force a significant change in or significantly increase the cost of farming or
+forestry practices on nearby lands devoted to such uses.
+  (f) Signs.
+   (i) Signs shall not extend over a public right -of-way or project
+beyond the property line.
+   (ii) Signs shall not be flashing or capable of movement.
+   (iii) Signs shall be of a design compatible with the sur rounding
+natural area.
+   (iv) Signs shall be limited to 100 square feet in area.
+16.233 Lane Code 16.233
+
+May 2026 16-348 LC16.229_234
+ (6) Area.  The ratio of developed (structures, paved surfaces, facilities) to
+undeveloped land shall not exceed 50 percent.  (Revised by Ordinance No. 7 -87, Effective 6.17.87;
+10-04, 6.4.04; 5-04, 7.1.04, 25-07, 5.5.2026)
+
+HISTORIC STRUCTURES OR SITES COMBINING ZONE (/H-RCP)
+RURAL COMPREHENSIVE PLAN
+
+16.233 Historic Structures or Sites Combining Zone (/H-RCP).
+ (1) Purpose.  By reason of having a special historical character, an association
+with historic events or persons, their antiquity, uniqueness or representative style of their
+architectural design or method of construction, Historic Structures or Sites are deserving
+of special consideration.  This section is intended to allow the County to review building
+permits or demolition permits to ensure that these and other Historic Structures and Sites
+identified in the future are preserved.
+ (2) Permit Required.  No person may alter or demolish any Historic Structure
+or Site, unless a permit to do so has been issued by the Department upon review in
+accordance with the provisions of this section.
+ (3) Issuance of Permits.  An application for a permit to alter or demolish an
+Historic Structure or Site shall be made by the owner, or his or her authorized agent, in
+the same manner as provided for in this Chapter for any building permit.  The application
+shall be referred to the Planning Director by the Building and Sanitation Division.
+ (4) Planning Director Review .  Alteration of a Historic Structure or Site or
+demolition of a Historic Structure is allowed subject to prior submittal and approval of an
+application pursuant to Type II procedures of LC Chapter 14 and subject to compliance
+with the review criteria at  LC 16.233(5) below.  Prior to rendering a decision, notice of
+the application shall be given to the Lane County Museum Director and the Oregon State
+Historic Preservation Officer.
+ (5) Criteria.
+  (a) A permit to demolish a Historic Structure shall be approved only
+upon submission of evidence that the following criterion is met:  Every reasonable effort
+shall be made to maintain the Historic Structure by any acquisition, protection,
+stabilization, preservation, rehabilitation, restoration or reconstruction project.  (A
+demonstrated lack of private and public funding for maintenance of a structure is
+sufficient cause to allow demolition.)
+  (b) A permit to alter a Historic Structure or Site shall be approved only
+upon submission of evidence that the following criteria are met:
+   (i) Any use or change of use of the building or property should be
+compatible with the historical nature of the property.
+   (ii) Only the minimum alteration of the Historic Structure or
+ Site and its environment necessary to achieve the intended use shall be allowed.
+(Consideration shall be given to the development guidelines listed below.)
+ (6) Development (Alteration) Guidelines.  Due consideration shall be given to
+the following guidelines, based on their relative importance:
+  (a) Only the minimum alteration of the designated historic building,
+structure or site and its environment necessary to achieve the intended use should be
+allowed.
+  (b) The distinguishing original qualities or character of a designated
+building, structure or site and its environment should not be destroyed.  The removal or
+alteration of any historical material or distinctive architectural features should be avoided.
+16.234 Lane Code 16.234
+
+May 2026 16-349 LC16.229_234
+  (c) All designated buildings, structures and sites shall be recognized as
+products of their own time.  Alterations which have no historical basis and which seek to
+create an earlier appearance should be discouraged.
+  (d) Changes which may have taken place in the course of time are
+evidence of the history and development of a building, structure or site and its
+environment.  These changes may have acquired significance in their own right and this
+significance shall be recognized and respected. (Revised by Ordinance No. 7-87, Effective 6.17.87;
+6-10, 9.17.10; 20-05, 6.16.20)
+
+NATURAL ESTUARY ZONE (NE-RCP)
+RURAL COMPREHENSIVE PLAN
+
+16.234 Natural Estuary Zone (NE-RCP).
+ (1) Purpose.  The purpose of the Natural Estuary Zone (NE -RCP) is to assure
+the protection of significant fish and wildlife habitats and the continued biological
+productivity of the estuary and to accommodate the uses which are consistent with these
+objectives.
+ (2) Permitted Uses.  In the NE -RCP Zone, the following types of uses are
+permitted as hereinafter specifically provided for by this section, subject to the general
+provisions and exceptions set forth in this chapter.
+  (a) Low intensity recreation which is water dependent.
+  (b) Educational and scientific observation.
+  (c) Navigational aids.
+  (d) Passive estuarine restoration.
+  (e) Protection of habitat, nutrient, fish, wildlife and aesthetic resources.
+  (f) Low intensity grazing provided the area is a high salt marsh.
+  (g) Dredging necessary for on- site maintenance of existing functional
+tidegates and associated drainage channels and bridge crossing support structures.
+  (h) Rip-rap for protection of uses existing as of October 7, 1977, unique
+natural resources, historical and archeological values and public facilities.
+  (i) Bridge crossings.
+  (j)  The following transportation facilities and uses, provided no filling
+or dredging is required:
+   (i) Operations, maintenance, and repair as defined in LC 15.010
+of existing transportation facilities, services, and improvements, including road, bicycle,
+pedestrian, port, airport and rail facilities, and major regional pipelines and terminals.
+   (ii) Preservation as defined in LC 15.010, and rehabilitation
+activities and projects as defined in LC 15.010 for existing transportation facilities,
+services, and improvements, including road, bicycle, pedestrian, port, airport and rail
+facilities, and major regional pipelines and terminals.
+ (3) Special Uses Approved by the Director .  The following specified uses and
+no others are permitted, subject to prior submittal and approval of an application pursuant
+to Type II procedures of LC Chapter 14 and upon satisfaction of the applic able criteria.
+A Resource Capability Deter mination is re quired as set forth in LC 16.248, except for
+major projects requiring an Impact Assessment as set forth in LC 16.249.
+  (a) (i) Uses.
+    (aa) Communication facilities.
+    (bb) Active restoration of fish and wildlife habitat or water
+quality and estuarine enhancement.
+   (ii) Criteria.
+    (aa) No fill or dredging is required.
+16.234 Lane Code 16.234
+
+May 2026 16-350 LC16.229_234
+    (bb) The use will have minimal impact on natural resources
+in the area affected by the proposed use.  These natural resources are as identified in the
+Lane County Rural Comprehensive Plan.
+    (cc) The location and actions proposed for restoration
+measures are adequate to achieve the stated restoration objective.  Restoration objectives
+shall set forth the original conditions to be restored and the cause of the loss or
+degradation.
+    (dd) Any restoration action related to the distribution and
+attributes (e.g., long- term environmental, social or economic values) that have been lost
+or diminished shall be consistent with the original conditions.
+  (b) (i) Uses. Aquaculture which does not involve estuarine alteration
+other than incidental dredging for harvest of benthic species or removable in- water
+structures such as stakes or racks.
+   (ii) Criteria.
+    (aa) No dredge or fill is required.
+    (bb) The use is consistent with the Lane County Rural
+Comprehensive Plan.
+  (c) (i) Uses.
+    (aa) Boat ramps for public use where no dredging or fill for
+navigational access is needed.
+    (bb) Pipelines, cables and utility crossings, including
+incidental dredging necessary for their installation.
+    (cc) Installation of tidegates in existing functional dikes.
+    (dd) Bridge crossing support structures and dredging
+necessary for their installation.
+   (ii) Criteria.
+    (aa) The use is consistent with the resource capabilities of the
+area in that either the impacts of the use on estuarine species, habitats, biological
+productivity and water quality are not significant, or the resources of the area are able to
+assimilate the use and activity and their effects and continue to function in a manner to
+protect significant wildlife habitats, natural biological productivity and values of
+scientific research and education.
+    (bb) Substantial public benefit is demonstrated.
+  (d) (i) Uses.  Temporary alterations.
+   (ii) Criteria.  A resource capabilities test shall be applied to
+temporary alteration proposals to ensure:
+    (aa) That the short -term damage to resource is consistent
+with resource capabilities of the area; and
+    (bb) That the area and affected resources can be restored to
+their original condition.
+    (cc) The proposed alteration is otherwise in compliance with
+and in support of uses allowed by the NE-RCP zone.
+ (4) Nonconforming Use Exceptions.
+  (a) Docks and Piers.  Actively utilized pier, docks and other structures
+occupying the water surface by means other than fill existing as of July l, 1980 may be
+rebuilt within two years, but not expanded if damaged or destroyed notwithstanding the
+provisions of LC 16.251 regarding nonconforming uses.
+  (b) Log Storage.  Notwithstanding the provisions of LC 16.251
+regarding nonconforming uses, log storage sites in the NE -RCP Zone under lease from
+the Division of State Lands shall be allowed to continue and be renewed.  Leases for
+storage sites in new areas are prohibited.
+16.234 Lane Code 16.234
+
+May 2026 16-351 LC16.229_234
+ (5) Applicable Natural Features.  The boundaries of the NE -RCP Zone are
+determined by the natural estuarine features.  The NE-RCP Zone includes all major tracts
+of salt marsh, tideflats, eelgrass and algae beds.  The entire estuarine areas of the Siltcoos
+River and Berry, Sutton, Big and Tenmile Creeks are within the NE - RCP Zone.  These
+are as defined on the Lane County zoning maps as specified by LC 16.252(8).
+ (6) Uses Subject to State and Federal Permits.
+  (a) When State or Federal permits, leases, easements or similar types of
+authorization are also required for a use, subject to special use approval, information
+required as part of the State or Federal Permit process may be required to be made
+available to the County for the determination that applicable criteria are satisfied.
+  (b) Applicants shall make application for all requisite State and/or
+Federal permits, leases, easements or similar type of authorization within 10 days
+following application for a special use approval in order to avoid unnecessary delays
+caused by the unavailability of State or Federal processing information which may be
+deemed necessary for special use review.
+  (c) Any use authorized by the provisions of this zone shall also require
+the securing of any necessary State or Federal permit, lease, easement or similar type of
+authorization.
+ (7) Additional Criteria Required for Projects Involving Dredge or Fill .  Any
+use or activity permitted above which requires dredging or filling of the estuary must
+meet the following criteria:
+  (a) The use is required for navigation or is otherwise water -dependent
+and requires an estuarine location, or is specifically allowed by the NE-RCP zone; and
+  (b) A need (i.e., a substantial public benefit) is demonstrated and the use
+or alteration does not unreasonably interfere with public trust rights; and
+  (c) No feasible alternative upland locations exist; and
+  (d) Adverse impacts on identified estuarine values are minimized.
+  (e) Mitigation requirements of ORS 541.605 to 541.695 are met.
+  Other uses which could alter the estuary shall only be allowed if the
+requirements in LC 16.234(7)(b), (c) and (d) above, are met.
+ (8) Telecommunication Towers .  Notwithstanding LC 16.234(3) above,
+telecommunication facilities are allowed subject to compliance with the requirements of
+LC 16.264, LC 16.234 and with applicable requirements elsewhere in LC Chapter 16
+including but not necessarily limited to: the riparian vegetation protection standards in
+LC 16.253; Floodplain Combining Zone (LC 16.244); Willamette Greenway
+Development Permits (LC 16.254); the Coastal Resource Management Combining Zones
+(LC 16.234, 16.235, 16.236, 16.237, 16.238, 16.239, 16.240, 16.241, 16.242, or 16.243);
+Federal or State of Oregon inventories and regulations applicable to delineated wetlands
+and waters of the nation or state; the Commercial Airport Safety Combining Zone (LC
+16.245) and the Airport Safety Combining Zone (LC 16.246); and the Sensitive Bird
+Habitat protection Standards and Criteria in LC 16.005(4).
+ (Revised by Ordinance No. 7 -87,
+Effective 6.17.87; 7-91, 6.5.91; 5-96, 11.29.96; 4-02, 4.10.02; 10-04, 6.4.04; 20-05, 6.16.20)
+16.234 Lane Code 16.234
+
+May 2026 16-352 LC16.229_234
+
+PAGES 16-352 THROUGH 16-375
+ARE RESERVED FOR FUTURE EXPANSION

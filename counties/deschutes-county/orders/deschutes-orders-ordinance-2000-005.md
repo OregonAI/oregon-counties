@@ -1,0 +1,222 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2000-005
+title: 'Ordinance No. 2000-005'
+doc_type: ordinance
+citation: 'Ordinance No. 2000-005'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616804348_2000-646-Ordinance%20No.%202000-005%20Recorded%205_9_2000.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 5b07aa2084c3c52fbbb9b07f3661842a628be0fd7480815f8f0dec530aae09eb
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2000-005 (Ordinance No. 2000-005)
+
+## At a glance
+
+Ordinance No. 2000-005 — orders of Deschutes County. 4 pages.
+
+## Full text
+
+VOL: CJ2000 PAGE: 646
+RECORDED DOCUMENT
+STATE OF OREGON
+COUNTY OF DESCHUTES
+CJ2000- 646 * Vol - Page Printed: 05/ 09/ 2000 14: 28: 12
+DO NOT REMOVE THIS CERTIFICATE
+This certificate constitutes a part of the original instrument in accordance with
+ORS 205. 180( 2). Removal of this certificate may invalidate this certificate and affect
+the admissibility of the original instrument into evidencein any legal proceeding.)
+I hereby certify that the attached instrument was received
+and duly recorded in Deschutes County records:
+DATE AND TIME:
+DOCUMENT TYPE:
+May. 9, 2000; 9: 07 a. m.
+Ordinance ( CJ)
+NUMBER OF PAGES: 3
+MARY SUE PENHOLLOW
+K UN
+HEDDESCHLTTESCOUNTY CLERK
+M 0 9 2000
+REVIEWE FORM
+CODE`REVIEW COMM.
+craQlll - dvd
+I , ,
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES
+4"Ika Skil Epgrir"L.; .
+An Ordinance Adding Chapter 8.24 of the Deschutes * C`OtTY CLERK
+CountyCode, CreatingtheProjectImpactSteering
+Committee and Describing the Powers and Duties
+Thereof, and Declaring an Emergency.
+ORDINANCE NO. 2000- 005
+WHEREAS, damage exposure associated with wild fire in Central Oregon is unquestioned; and
+WHEREAS, natural disasters of all types pose a risk to life and property; and
+WHEREAS, a coordinated approach to response planning and loss avoidance is necessary to
+mitigate the effect of losses due to natural disasters; now, therefore, -
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. ADDING. DeschutesCounty Code Chapter 8.24, Project Impact Steering
+Committee, is herebyaddedto readas describedin Exhibit "A," attached hereto and by this reference
+incorporated herein.
+Section 2. EMERGENCY. This Ordinance being necessaryfor the immediate preservation
+of thepublic peace, healthand safety, anemergencyis declaredto exist, andthis Ordinancetakeseffect
+on its passage.
+DATED this A day of 2000.
+BOARD OF COUNTY COMMISSIONERS FOR
+DESCHUTES COUNTY, OREGON
+L Chair
+ATTEST: DENNIS R. LUKE, Commissioner
+C
+6 dv' G -— 7
+Recording Secretary TOM DEWOLF, Commissio
+PAGE 1 OF 1 - ORDINANCE NO. 2000- 005 ( 05/ 08/ 00)
+Chapter 8. 24. PROJECT IMPACT
+STEERING
+COMMITTEE
+8. 24. 010. Formation.
+8. 24. 020. Membership and Expenses.
+8. 24. 030. Election of Chair and Vice Chair.
+8. 24. 040 Quorum.
+8. 24. 050 Meeting Schedule.
+8. 24. 050 Powers and Duties.
+8. 24. 070. Advisory Role.
+8. 24. 010. Formation.
+A joint project steering committee is hereby
+fonned to develop and implement strategies to
+mitigate the effects of losses due to natural
+disasters that strike Deschutes County. The
+cormnittee shall be called the Project Impact
+SteeringCommittee.
+Ord. 2000- 005 § 1, 2000)
+8. 24. 020. Membership and Expenses.
+The committee shall be composed of 12 to 17
+members who reside within Deschutes County.
+All members shall be appointed by the Board of
+County Commissioners. The terms of the
+members shall be four years, commencing on
+January 1, of an even numbered year.
+Appointments shall be on a calendar basis. One-
+half of all initial appointments shall be for a term
+ending December 31, 2001. Not more than one-
+half of all appointments shall expire in any even
+numbered calendar year.
+A. Committee members shall be representative
+of the following persons, groups or entities:
+1. A member from the insuranceindustry.
+2. A member from the business community.
+3. A member from the education
+community.
+4. A member from the health industry.
+5. Special road district( s).
+6. A member from the marketing/
+communications industry.
+7. A management representative from Bend
+Fire Department.
+8. A management representative from Rural
+Fire District 42.
+9. A county commissioner.
+10. 9- 1-1 county service district executive
+board member.
+11. A community development department
+representative.
+12. A member of the forestry community.
+13. Up to an additional five at - large
+members.
+B. Committee members shall receive no
+compensation, but shall be reimbursed for
+authorized expenses.
+C. A member of the committee may be removed
+by the Board of County Commissioners for
+misconduct, nonperfonnance of duty, or three
+successive unexcused absences from a
+regularly scheduled meeting.
+D. Vacancies in the committee shall be filled by
+an appointment by the Board of County
+Commissioners for the unexpired term of the
+predecessor in the office.
+E. No committee member shall serve more than
+two full terms.
+F. The membership of the committee shall, as
+much as possible be representative of the
+various geographical parts of Deschutes
+County.
+Ord. 2000- 005 § 1, 2000)
+8. 24. 030. Election of Chair and Vice Chair.
+At its first meeting in January of each year, the
+committee shall elect from among its membership
+a chair and a vice chair. No person shall be chair
+for more than two years in succession.
+Ord. 2000- 005 § 1, 2000)
+8. 24. 040 Quorum.
+A majority of the members of the committee shall
+constitute a quorum. The committee may
+establish rules, regulations, and procedures for its
+operation consistent with the laws of the state and
+Deschutes County.
+Ord. 2000- 005 § 1, 2000)
+Page I of 2 — EXHIBIT " A" TO ORDINANCE 2000- 005 ( 03/ 29/ 00)
+8. 24. 050 Meeting Schedule.
+The committee shall have a regularly scheduled
+monthly meeting.
+Ord. 2000- 005 § 1, 2000)
+8. 24. 060 Powers and Duties.
+The committee shall havethe following duties:
+A. Carry out a comprehensive program, using
+citizen input and public hearings when
+appropriate, and coordinate its activities with
+other public and private persons, groups and
+entities, to plan for and implement strategies
+to provide permanent benefits through long-
+term mitigation of the potential loss of life
+and property through natural and man - caused
+disasters.
+B. Advise Project Impact staff and Office of
+Emergency Management on adoption and
+implementation of projects, including but not
+limited to Project Impact programs approved
+by the Federal Emergency Management
+Agency ( FEMA).
+Ord. 2000- 005 § 1, 2000)
+8. 24. 070. Advisory Role.
+The committee may:
+A. Recommend and make suggestions to
+persons, groups and entities concerning
+disaster response plans, needed changes in
+state or local laws and regulations, and
+provide assistance to such persons, groups
+and entities to implement such suggestions.
+B. Recommend to public authorities standards
+for regulating the f iture growth and
+development within Deschutes County and
+its incorporated cities to address disaster
+planning issuesin eachjurisdiction.
+C. Perform such other review and make
+whatever other recommendations on disaster
+planning matters as may be appropriate or
+may be requestedby the Board of County
+Commissioners or any city council, person,
+group or entity.
+Ord. 2000- 005 § 1, 2000)
+Page 2 of 2 — EXHIBIT " A" TO ORDINANCE 2000- 005 ( 03/ 29/ 00)

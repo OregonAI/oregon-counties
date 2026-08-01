@@ -1,0 +1,1377 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2020-015
+title: 'Ordinance No. 2020-015'
+doc_type: ordinance
+citation: 'Ordinance No. 2020-015'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1620279123_2020-409-Ordinance%20No.%202020-015%20Recorded%2012_10_2020.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: deb0cadc1790b57ddfa53ccfe737f477be2bae2a512de3bb2df586bc56cfbc66
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 659A.309
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2020-015 (Ordinance No. 2020-015)
+
+## At a glance
+
+Ordinance No. 2020-015 — orders of Deschutes County. 41 pages.
+
+## Full text
+
+REVIEWED
+LEGAL COUNSEL
+Recorded in Deschutes County
+C J2020_ 409
+Nancy Blankenship, County Clerk
+1Commissioners' Journal 2/ 10/2020 2:26: 11 PM
+uCFsCOG2a II  II II I' IIIII'I IIIIIIII II
+2020- 409
+For Recording Stamp Only
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Repealing " Title 03 — Personnel" of
+the Deschutes County Code and Creating " HR- * ORDINANCE NO. 2020- 015
+Personnel Rules".
+WHEREAS, " Title 03 — Personnel" of the DeschutesCounty Codecontainsthe PersonnelRulesfor
+countyemployeesand saidrulescurrentlyonly canbe amendedby the Boardof CountyCommissioners
+BOCC") by ordinance; and
+WHEREAS, thereis no legalmandateto housepersonnelruleswithin theDeschutesCountyCode; and
+WHEREAS, revisions and amendments to the Deschutes County Code require a public hearing, two
+separatereadings, codification logisticsanduponexternalhostingof theDCC, addedcosts; and
+WHEREAS, maintainingthepersonnelrulesasa stand-alonedocumentwill betterallow for timely
+revisions and attendant implementation and reflects that the personnel rules have limited direct application, to
+wit, county employees; and
+WHEREAS, staff is requestingthat saidrulesbe removedfrom Title 03 DCC without any substantive
+changes, except to be renamed asHR-Personnel Rules and renumbered as Sections 1-13; and
+WHEREAS, on December2, 2020, the Board of County Commissionersheld a duly noticedpublic
+hearing to receive testimony and consider whether to repeal Title 03 and create HR — Personnel Rules; now
+therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. REPEALED. DCC Title 03 — Personnel is repealed in its entirety.
+PAGE 1 OF 2 - ORDINANCE NO. 2020- 015
+Section 2. ADOPTION. HR-PersonnelRulesis herebyadoptedto replaceTitle 03 as describedin
+Exhibit "A" attachedheretoandby this referenceincorporatedherein.
+Section 3. EMERGENCY. An emergencyis declaredandthe actionsauthorizedhereintakeeffect as
+of January 1, 2021.
+Dated this of ' j') et—)eM,6 2020
+ATTES4SeetaryR
+BOARD OF COUNTY COMMISSIONERS
+OF.DESCHUTES COUNTY, OREGON
+PATTI ADAI , Chair
+DEBONE, Vice
+lq& 1 ml
+PHILIP G. HAVDERSON, Commissioner
+Date of I" Reading: day of cQrV. , 2020.
+Dateof 2ndReading
+Commissioner
+Patti Adair
+Anthony DeBone
+Philip G. Henderson
+day of I) L(- UA,", 2020.
+Record of Adoption Vote
+Yes No Abstained Excused
+Effective date:  day of , 20ZI
+ATTEST
+cording - etary
+PAGE 2 OF 2 - ORDINANCE NO. 2020- 015
+EXHIBITAOrdinanceNo.
+2020- 015)
+DESCHUTES COUNTY
+HR- PERSONNEL RULES
+January 2021
+Deschutes County - HR- Personnel Rules
+Section1 Introduction to Personnel Rules................................................................................... 4
+1. 010 Purpose............................................................................................................................. 4
+1. 020 Employee Acknowledgement.......................................................................................... 4
+1. 030 Personnel Rules Not a Contract....................................................................................... 4
+1. 040 Adoption, Amendment, Administration.......................................................................... 5
+1. 050 Equal Employment Opportunity...................................................................................... 5
+Section2 Definitions...................................................................................................................... 6
+2. 010 Definitions........................................................................................................................ 6
+Section3 Criminal Convictions Record Checks......................................................................... 9
+3. 010 Policy............................................................................................................................... 9
+3. 020 Purpose............................................................................................................................. 9
+3. 030 Classification Required to Authorize Criminal Background Checks .............................. 9
+3. 040 Retention of Authorization.............................................................................................. 9
+3. 050 Procedures for Obtaining Criminal Background Checks................................................. 9
+3. 060 Retention of Criminal Background Checks................................................................... 10
+3. 070 Use of Criminal Background Checks............................................................................ 10
+3. 080 Limitation on Hiring or Appointing Volunteers............................................................ 10
+Section 4 Application of Personnel Rules to County Employees............................................. 11
+4. 010 Application of Personnel Rules..................................................................................... 11
+4. 020 Represented Employees................................................................................................. 11
+4. 030 At - Will and Contract Positions...................................................................................... 11
+4. 040 Personnel Services Contracts......................................................................................... 11
+4. 050 No Guaranteed Employment.......................................................................................... 11
+4. 060 Amendment or Modification of Personnel Rules.......................................................... 12
+4. 070 Deputy District Attorneys.............................................................................................. 12
+4. 080 Sheriff' s Office.............................................................................................................. 12
+4. 090 Department Policies....................................................................................................... 12
+Section5 Recruitment and Appointment of Employees........................................................... 13
+5. 010 Recruitment of Employees............................................................................................. 13
+5. 020 Probationary Period....................................................................................................... 13
+5. 030 Hiring Former Employees.............................................................................................. 14
+5. 040 Hiring Relatives, Domestic Partners and Personal Acquaintances of Employees ......... 14
+Section6 Hours of Work............................................................................................................ 15
+6. 010 Work Schedules............................................................................................................. 15
+6. 020 Rest and Meal Breaks.................................................................................................... 15
+6. 030 Alternative or Flexible Work Schedules........................................................................ 16
+6. 040 Outside Employment..................................................................................................... 16
+Deschutes County - HR- Personnel Rules Page 1
+Section7 Wage & Salary Administration.................................................................................. 17
+7. 010 Pay Plan......................................................................................................................... 17
+7. 020 Pay Periods and Pay Days.............................................................................................. 18
+7. 030 Wage and Salary Adjustments....................................................................................... 18
+Section8 Personal Conduct........................................................................................................ 20
+8. 010 Code of Ethics................................................................................................................ 20
+8. 020 Conflict of Interest......................................................................................................... 20
+8. 030 Political Activities.......................................................................................................... 22
+8. 040 Personal Appearance, Dress and Grooming.................................................................. 22
+8. 050 Smoking or Use of Tobacco Products........................................................................... 23
+8. 060 Acceptance of Gifts............................................................................................................. 23
+Section9 Promotions, Demotions and Reassignments............................................................. 24
+9. 010 Promotions..................................................................................................................... 24
+9. 020 Demotions and Reassignments...................................................................................... 24
+Section10 Leave........................................................................................................................... 25
+10. 010 Authorization for Leave............................................................................................... 25
+10. 020 Military Leave.............................................................................................................. 25
+10. 030 Leave of Absence Without Pay.................................................................................... 26
+10. 040 Family and Medical Leave........................................................................................... 26
+10. 050 Special Leave - Closure of County Offices................................................................. 26
+10. 060 Victims of Domestic Violence, Sexual Assault or Stalking Leave ............................. 26
+10. 070 Holidays............................................................................................................................ 27
+10. 080 Criminal Proceedings Leave............................................................................................. 27
+Section11 Discipline and Discharge........................................................................................... 28
+11. 010 Discipline..................................................................................................................... 28
+11. 020 Discharge..................................................................................................................... 28
+11. 030 Appeals of Disciplinary Actions ( Non - represented Employees Only)........................ 29
+Section12 Grievances.................................................................................................................. 30
+12. 010 General......................................................................................................................... 30
+12. 020 Procedure..................................................................................................................... 30
+12. 030 Limitations on Grievances........................................................................................... 31
+12. 040 Time Limits.................................................................................................................. 31
+12. 050 Extension of Time Limits............................................................................................ 31
+12. 060 Prohibited Practices..................................................................................................... 31
+Section13 Termination of Employment.................................................................................... 32
+13. 010 Voluntary Terminations............................................................................................... 32
+13. 020 Involuntary Terminations............................................................................................. 32
+13. 030 Loss of Longevity and Seniority.................................................................................. 33
+13. 040 Recall After Layoff...................................................................................................... 33
+13. 050 Death............................................................................................................................ 34
+Deschutes County - HR- Personnel Rules Page 2
+13. 060 Final Paycheck............................................................................................................. 34
+13. 070 Exit Interviews............................................................................................................. 34
+LegislativeHistory notations...................................................................................................... 35
+Deschutes County - HR- Personnel Rules Page 3
+Section 1. INTRODUCTION TO PERSONNEL RULES
+1. 010. Purpose.
+1. 020. Employee Acknowledgment.
+1.030. Personnel Rules Not a Contract.
+1. 040. Adoption, Amendment, Administration.
+1.050. Equal Employment Opportunity.
+1. 010. Purpose.
+The Deschutes County Personnel Rules (" Personnel Rules") are intended to establishpersonnel
+proceduresandto provideguidelinesfor thestandardsof performance, employee
+responsibilities, behavior and conduct that are expected of all Deschutes County employees. The
+PersonnelRules serve as a guideline for personnel administration in the following areas:
+A. Recruiting, selecting, andadvancingemployeesonthebasisof ability, experience,
+knowledge, and skills.
+B. Providing equitable and adequatecompensation.
+C. Training employees, asneeded, to help achieve high performance and operating efficiency.
+D. Retainingemployeesonthebasisof performance, includingregularevaluationsof employee
+performanceandcorrectiveor disciplinaryactionsif necessaryor appropriate.
+E. Assuring, in accordancewith applicablelaws, thefair treatmentof all applicantsand
+employees in recruitment, selection, promotion, training, discipline, discharge and all other
+aspectsof personneladministrationwithout regardto race, color, nationalorigin, sex,
+religion, age, marital status, family relationship, sexual orientation, physical or mental
+disability (providedreasonableaccommodationcanbemadefor anysuchdisability),
+political affiliation, or anyotherclassificationprotectedby Oregonor federallaw, andwith
+properregardfor theprivacyandconstitutionalrightsof applicantsandemployees.
+F. Assuringthatemployeesareprotectedagainstpolitical coercion, areprohibitedfrom using
+their official positionfor thepurposeof interferingwith or affectingtheresultof anelection
+or a nomination for office and, in accordancewith Oregon public employee ethics laws, with
+the exception of official compensation, are prohibited from using their official position for
+the personal benefit or gain of the employee and/or the employee' s relatives.
+1. 020. Employee Acknowledgment.
+EachCountyemployeeshallacknowledge, by signatureon a form approvedby thePersonnel
+Department, that the employee has received, read and understands the Personnel Rules.
+1. 030. Personnel Rules Not a Contract.
+The Personnel Rules are not a contract, either express or implied. Employment with Deschutes
+County is at -will which meansthat either DeschutesCounty or the employee can terminate the
+employment relationship at any time for any reason. DeschutesCounty reservesthe right, at any
+time, unilaterally and without notice, to revise, add to, delete, supplement, or rescind all or any
+partof thePersonnelRulesandanyandall policiesadoptedby theCounty, includingany
+practicesor proceduresfollowed or permittedandanybenefitsprovided, which arenot otherwise
+requiredby law or which arethemandatorysubjectsof bargainingunderanexistingcollective
+bargainingagreementor underprovisionsof Statelaw. Employeeswill benotifiedin writing of
+any changesto the Personnel Rules or to adoptedwritten County policies.
+Deschutes County - HR- Personnel Rules Page 4
+1. 040. Adoption, Amendment, Administration.
+A. Adoption. PersonnelRules are adoptedby County ordinance. The Personnel Rules become
+effective in the samemanner asany other County ordinance and will be made available in the
+Personnel Department and in all departments. If the County maintains an Internet or Intranet
+site or sites, the Personnel Rules shall be available for viewing on the County Internet site
+and the County Intranet site.
+B. Amendment. A request for a change in the Personnel Rules may be submitted to the County
+Administratorin writing atanytime by the Board, anydepartmentheador anyemployee. All
+amendmentsor changesto the Personnel Rules must be approved by the Board and shall be
+adoptedby County ordinance.
+C. Administration of Rules: The County Administrator, through his or her administrative
+departments and offices, shall be responsible for the administration and management of the
+County, includingtheadministrationof thePersonnelRulesandtheCountypersonnel
+system. The County Administrator shall make recommendations to revise theserules,
+administer the classification and compensation plan and implement suchpolicies and
+proceduresasmaybenecessaryto implementandadministerthePersonnelRules.
+1. 050. Equal Employment Opportunity.
+DeschutesCountyis anequalopportunityemployeranddoesnot discriminateagainstany
+employee or applicant for employment with respectto any aspectof recruitment, selection,
+employment, advancement, discipline or discharge on the basis of race; color; national origin;
+sex; religion; marital status; family relationship; sexualorientation; genderidentity; age; physical
+or mentaldisability (providedreasonableaccommodationcanbemadefor anysuchdisability);
+political affiliation; beingavictim of domesticviolence, sexualassault, or stalking; servicein a
+uniformedservice; associationwith aprotectedclass; or anyotherclassificationprotectedby
+Oregon or federal law.
+Deschutes County - HR- Personnel Rules Page 5
+Section 2. DEFINITIONS
+2. 010. Definitions.
+Thefollowing definitionsapplywhenevertheindicatedterm is usedin thePersonnelRules:
+Board" is the Board of County Commissioners of DeschutesCounty, Oregon.
+CollectiveBargainingAgreement" is awritten contractwith arecognizedlaborunionor
+associationrelatingto thetermsandconditionsof employmentof therepresentedgroupof
+employees.
+Contract Employee" is an employee providing services under an employment agreement.
+CountyAdministrator" is theindividual chargedby theBoardof Commissionerswith control
+andsupervisionof Countyadministration, Countydepartments, divisions, offices, districtsand
+agencies, perChapter2.05of theDeschutesCountyCode.
+Department Head" is an individual appointed by the County Administrator to supervise a
+CountyDepartment, or electedby thevotersto superviseadepartmentthatis by statuteor
+charter led by an elected official.
+DeputyDistrict Attorney" is anattorneyappointedby andworking underthedirectionof the
+elected District Attorney.
+Deputies" are appointeesof DeschutesCounty elected officials serving during the term of office
+of the respective elected officials.
+Domestic partners" are:
+1. The same sex;
+2. 18 yearsof ageor older;
+3. Not legally married to anyone;
+4. Each other' s sole domestic partner living together in a spousalequivalent relationship;
+5. Sharingthesameregularpermanentresidence; havedonesocontinuouslyfor at leastsix
+6) monthsimmediatelyprecedingthedateof submittinganaffidavit of domestic
+partnershipandintendto continueto do soindefinitely;
+6. Financially interdependent andjointly responsible for " basic living expenses";
+7. Not relatedby blood socloseasto barmarriagein the Stateof Oregon; and
+8. Are mentally competent to consentto contract currently and when the domestic
+partnership began.
+Employment Agreement" is a contract between the County and an employee which defines all
+or part of theemploymentrelationship. Uponterminationor expirationof anemployment
+agreement, the employment relationship terminates.
+Exempt Employee" is an employee who is exempt from the overtime provisions of the Fair
+Labor Standards Act and State of Oregon overtime laws.
+GoodStanding" meanshavingacurrentperformanceevaluationof meetsor exceedsstandards
+andnotbeingunderanycurrentdisciplineor work improvementplan.
+Grievance" is an oral or written complaint regarding application of the PersonnelRules,
+discipline imposed on an employee or the discharge of an employee.
+Grievant" is the person or personsinitiating a grievance.
+Grieve" means to initiate a grievance.
+Hourly Employee" is anemployeewho workslessthanhalf time on a year-roundbasis.
+Deschutes County - HR- Personnel Rules Page 6
+Job -ShareEmployees" are employees who job -sharearepart-time employeeswho sharea full-
+timepositionnormallyheldby oneemployee, on anequalbasis. It is not two separatehalf-time
+positions.
+Lead worker" is an employee delegatedlimited supervisory duties in writing by the employee's
+department head. Limited supervisory duties include distribution of work assignments, oversight
+of work performed, maintainingabalancedworkloadamonga groupof employees, reviewing
+completed work, and maintenanceof records of work production and attendanceby employees.
+Lead workers do not impose discipline or conduct performance evaluations.
+Length of Service" is an employee's continuous full- time or part-time service with a County
+department.
+Limited DurationPosition" is apositionfundedby adiscreterevenuesourcewith aknown
+expiration date. An employee in a limited duration position may be terminated on the datethe
+fundingexpiresandsuchterminationshallbe consideredavoluntarytermination. Basedupon
+thetermsof the fundingsource, the conditionsof compensationandbenefitsmaydiffer from the
+compensation andbenefits payable to regular County employeesperforming substantially similar
+work. The term of employment of an individual in a limited duration position may exceed 18
+monthswithout conferringwith theindividual. TheCountymay, in its solediscretionandbased
+upon additional discrete revenue, extend the term of employment past the initial funding
+expiration date and such extension shall not change the limited duration status of the employee.
+Longevity" is anemployee'scontinuousfull- time or part-time serviceasa Countyemployee.
+Merit StepIncrease" is anincreasein anemployee'spayfrom onestepof thepaygradefor the
+employee'spositionto ahigherstepof thepay gradefor the employee'sposition.
+Non -Exempt Employee" is an employee subject to the overtime provisions of the Fair Labor
+Standards Act and/ or State of Oregon overtime laws.
+Non - Represented Employees:" All employees who are not represented members of a bargaining
+unit.
+On -Call Employee" is an employee who does not have regular hours of work or a regularly
+assigned work schedule and who is available to work on an as -needed bases. There is no
+guaranteeof anyhoursof work for anyon -call employee.
+Part- time Employee" is an employee who works at least one-half ( 1/2) time.
+Paygrade" is therangeof payassignedto aPositionDescriptiononthesalaryschedule.
+Pay step" is one of the establishedlevels of pay within a pay grade.
+Personal ServicesContract" is a contract between the County and an independent contractor to
+performpersonalservicesfor theCounty.
+Personnel Department" is the County department designatedby the County Administrator to
+administer the Personnel Rules and all other human resource matters for the County.
+PersonnelFile" is anyfile maintainedby theCountywhich containsemploymentrecordsof an
+employee.
+Personnel Rules" arethe rules, policies, and proceduresset forth in DeschutesCounty Code,
+Title 3.
+PersonnelServicesManager" is thepersonchargedby theCountyAdministratorwith the
+responsibilityof coordinatingandoverseeingall personnelmanagementfor theCounty.
+Position" is two or moredescriptionsgroupedby anoccupation, discipline, or typeof work.
+Position Authorization" is authorization for a specific position as approved in the adopted
+Deschutes County - HR- Personnel Rules Page 7
+Position Description" is a written statementof the nature of the work to be performed,
+indicatingdutiesandresponsibilities, representativeexamplesof work andgeneralminimum
+recruiting qualifications. This is also referred to as a " Job Description." The Position Description
+may also be referred to by Position Title.
+Position Title" is the name assigned to a Position Description.
+Probation" or " Probationary Period" is a period of trial service during which an employee's
+work performanceandstandingto becomearegularemployeeis evaluatedby theCounty.
+Regularemployee" is a full-time or part-time employeewhohassuccessfullycompleted
+probationandwho workson ayearroundbasis.
+Regular full- time employee" is a regular employee who is scheduled to work the established
+hoursfor a full-time positionon aregular, year-roundbasis.
+Regularpart-time employee" is a regularemployeewho is scheduledto work atleastone-half
+of theestablishedfull-time work schedulefor theparticularpositiononaregular, year-round
+basis.
+Represented Employees" are employees who are members of a recognized bargaining unit.
+Retiree" is an individual who has retired from County service.
+Seniority" is anemployee'scontinuousfull-time or part-time servicein aparticularposition
+with the County.
+Supervisor" is defined as an employee who has authority over hiring, salary administration,
+evaluation, transfer, promotion, demotion, discipline, grievanceadjustment, or recommendations
+on anypersonnelaction, aswell asday-to-daysupervisoryresponsibilities.
+Temporaryemployee" is apersonwho hasbeenhiredby theCountyto work for aperiodnot to
+exceed 18months. Sometemporary positions may also be limited duration positions.
+Volunteers" arepersonswho performservicesfor theCountyanddonot receivefrom the
+Countysalary, wagesor anyotherform of remunerationfor servicesperformed.
+Deschutes County - HR- Personnel Rules Page 8
+Section 3. CRIMINAL CONVICTIONS RECORD CHECKS
+3. 010. Policy.
+3. 020. Purpose.
+3. 030. Classification Required to Authorize Criminal Background Checks.
+3. 040. Retention of Authorization.
+3. 050. Procedures for Obtaining Criminal Background Checks.
+3. 060. Retention of Criminal Background Checks.
+3. 070. Use of Criminal Background Checks.
+3. 080. Limitation on Hiring or Appointing Volunteers.
+3. 010. Policy.
+In orderfor DeschutesCountygovernmentto operateeffectively, personsselectedfor
+employmentor asapublic servicevolunteerwith DeschutesCountymusthavethehighest
+degreeof citizen and public trust and confidence.
+3. 020. Purpose.
+All DeschutesCounty employees and public service volunteers representthe county to its
+citizens. Many countyemployeesandvolunteershaveresponsibilitiesto regulateandmaintain
+public healthandsafety. SomeCountyemployeeclassificationsrequireaccessto public funds
+andproperty, andpossessaccessto privilegedandproprietaryinformationsubmittedto the
+county in confidence.
+3. 030. Classification Required to Authorize Criminal Background Checks.
+Applicants for employment and appointed volunteers with DeschutesCounty will be required
+to authorize the County to conduct a criminal conviction information check through the
+Oregon StatePolice LEDS system if their job duties require the following activities:
+Delivering services to minors
+Handling/processing cashand/or checks
+Law enforcement related (deputies, detention, parole/probation)
+Certified and/ or licensed Health and Mental Health care workers
+Maintaining confidential medical and/or criminal records
+Building Services
+Any otherclassificationof job dutiesauthorizedby theBoardof CountyCommissioners
+3. 040. Retention of Authorization.
+The Personnel Department, who will request that the Deschutes County District Attorney or
+Sheriff s Office conduct the check, will maintain the criminal convictions authorization form
+signed by the applicant.
+3. 050. Procedures for Obtaining Criminal Background Checks.
+An authorizedemployeeof DeschutesCounty District Attorney' s or Sheriffs Offices, trained
+andauthorizedto performcriminalconvictionchecksthroughtheLEDSsystem, will conduct
+thecheckon theprospectiveemployeeor volunteerandorally reportto thePersonnel
+Department that the applicant' s record indicates " no conviction record" or " conviction
+record". If the applicant' s record is reported as " conviction record", the Personnel Department
+will, under OAR 257- 10- 025( C), request a written criminal conviction report from the OSP
+identification servicessection and pay the applicable fee for this service. The Personnel
+Deschutes County - HR- Personnel Rules Page 9
+Department will make the written criminal conviction record available to the employment or
+volunteer selecting official for his or her consideration in making the selection.
+3. 060. Retention of Criminal Background Checks.
+The written criminal conviction record on personsthat are not hired or appointed asa volunteer
+will be retained in accordancewith the requirements of OAR 166-40-080 for a period of three
+yearsandthereafterwill bedestroyedby shredding. Thecriminal convictionrecordof
+applicants and volunteers with a criminal conviction that are hired or appointed, will become a
+partof theconfidentialpersonnelfiles of that employeeor volunteer. Accessto confidential
+personnelfiles is limited to only authorizedpersonswhohaveanofficial needto accesssuch
+files that is sanctioned by law or regulation.)
+3. 070. Use of Criminal Background Checks.
+Applicants for employment or appointmentas a volunteer that have a felony criminal
+conviction, or ahistoryof convictionof a misdemeanorinvolving moralturpitudeor theft,
+will be closely examined by County Personnel, Legal and Risk Management Departmentsto
+determine if the applicant possessesthe required degreeof citizen and public trust and
+confidence. The County will not rely exclusively on LEDS recordsbut will request
+confirmation from the applicant. Each employment or volunteer selection will, however, be
+made on an individual, case -by- casebasis, taking into account the applicant's qualifications,
+therequirementsof theparticularjob or volunteerpostappliedfor, andtheresultsof the
+criminal conviction check. Factors such as the age of an offender at the time of the offense,
+the type of offense and subsequentrehabilitation, and the public sensitivity of the position
+under consideration, must be taken into account in evaluating a criminal conviction report.
+TheCountyAdministratorand/or Boardof CountyCommissionerswill approvethefinal
+candidate selected for employment or volunteer duties.
+3. 080. Limitation on Hiring or Appointing Volunteers.
+Hiring or appointing a volunteer with a criminal conviction record will require a positive
+recommendationby theselectingofficial andtheapprovalof theappropriatecountyelected
+official or governingbody, afterfull disclosureandconsiderationof thecriminalconviction
+and the applicant.
+Deschutes County - HR- Personnel Rules Page 10
+Section 4 APPLICATION OF PERSONNEL RULES TO COUNTY EMPLOYEES
+4. 010. Application of Personnel Rules.
+4. 020. Represented Employees.
+4. 030. At - Will and Contract Positions.
+4. 040. Personnel Services Contracts.
+4. 050. No Guaranteed Employment.
+4. 060. Amendment or Modification of Personnel Rules.
+4.070. Deputy District Attorneys.
+4. 080. Sheriffs Office.
+4. 090. Department Policies.
+4. 010. Application of Personnel Rules.
+ThePersonnelRulesapplyto all Countyemployees, includingall deputiesandemployees
+working underanelectedofficial, exceptasotherwiseprovidedin this chapter.
+4. 020. Represented Employees.
+Employeessubjectto a collectivebargainingagreementaresubjectto thePersonnelRulesto the
+extent the Personnel Rules do not conflict with the terms of the applicable collective bargaining
+agreement. In the event of conflict between the terms of a collective bargaining agreementand
+thePersonnelRulesor personnelpoliciesadoptedpursuantto theseRules, thetermsof the
+collectivebargainingagreementshalltakeprecedenceandshallbecontrolling.
+4. 030. At - Will and Contract Positions.
+TheCountymaycreate "at -will" and "contract" positionsat its discretion. TheCountycan
+designateanynew employeeor positionasanat -will or contractemployeeor position, unless
+suchdesignationis prohibitedby statuteor by thetermsof anapplicablecollectivebargaining
+agreement. TheCountymayenterinto individual employmentagreementsthatsupersedeall or
+anyportionofthePersonnelRules. At -will employeeshavetherighttoresigntheirpositionwith
+Countyatanytimefor anyreason. TheCountymayterminatetheemploymentof anat -will
+employeeat anytime, for anyreason, with or without notice, andwith or without cause. The
+employment of an employee providing servicesto the•County under an employment agreement
+shall be governedby the terms of the employment agreement.
+4. 040. Personal Services Contracts.
+AnypersonprovidingservicestotheCountyunderapersonalservicescontractis anindependent
+contractor and is not an employee for any purpose of the PersonnelRules.
+4. 050. No Guaranteed Employment.
+ThePersonnelRulesdonot provideanyguaranteeof employmentor guaranteeof employment
+for any definite period of time.
+Deschutes County - HR- Personnel Rules Page 11
+4. 060. Amendment or Modification of Personnel Rules.
+ThePersonnelRulesmayonly beamendedor modifiedby theBoard. No departmenthead,
+manager, supervisoror employeehasanyauthorityto waive, amendor modify thePersonnel
+Rules. Only theBoardor theCountyAdministratorhastheauthorityto enterinto anemployment
+agreement or contract of employment with any employee.
+4.070. Deputy District Attorneys.
+DeputyDistrict Attorneysareat -will employeesand, assuch, mayresignfrom theirpositionor
+havetheir employmentterminatedat anytime, for anyreason, with or without noticeandwith or
+without cause. DeputyDistrict Attorneysaresubjectto appointment, promotion, demotion, re-
+assignmentwithin the office of the elected District Attorney and to discipline or dischargeat the
+sole discretion of the elected District Attorney. Only StepsI and 11of the grievance procedure
+shall be available to Deputy District Attorneys.
+4. 080. Sheriffs Office.
+ThesePersonnel Rules shall be construed so asnot to conflict with the statutory authority of the
+Sheriff to organize the work of the Sheriff' s Office or with the statutory authority of the Sheriff
+to establish hours of work for the Sheriff s Office consistent with applicable law and applicable
+collective bargaining agreements.
+4. 090. Department Policies.
+A. Becauseof thenumberanddiversityof Countydepartments, it is expectedthatdifferent
+operatingpoliciesandproceduresmaybenecessaryfor theefficient andeffectiveoperation
+of the different County departments.
+B. Eachdepartmentheadmay establishoperatingpoliciesandproceduresfor thedepartment
+head's departmentfor thepurposeof addressingoperatingissuesthatareuniqueto that
+department. However, no departmentpolicy regarding personnelmatters shall be effective
+until thepolicy is reviewedandapprovedin writing by theCountyAdministratorandCounty
+LegalCounsel. Departmentpoliciesmaynot conflict with thePersonnelRulesandmaynot
+be less restrictive than the PersonnelRules or any countywide personnel policies approved
+bytheBoard. In theeventof anyconflictbetweenanydepartmentpolicyandthePersonnel
+Rulesor anyCountypolicy, thePersonnelRulesand/or Countypolicy shalltakeprecedence
+and shall be controlling.
+C. Departmentsproposingto establishadepartment -specificpersonnelpolicy mustprovidethe
+proposedpolicyin writingto theCountyAdministrator. TheCountyAdministratorwill
+consultwith CountyLegalCounselregardingtheproposedpolicy. If theproposedpolicy is
+approvedby theCountyAdministratorandCountyLegalCounsel, it maybeimplementedby
+the department.
+D. A copyof eachpolicy implementedby adepartmentshallbeprovidedto thePersonnel
+Department, to CountyLegalCounsel, andto eachdepartmentemployeeandshallbemade
+available for reference within the department and in the Personnel Department.
+Deschutes County - HR- Personnel Rules Page 12
+Section 5. RECRUITMENT AND APPOINTMENT OF EMPLOYEES
+5. 010. Recruitment of Employees.
+5.020. Probationary Period.
+5.030. Hiring Former Employees.
+5.040. Hiring Relatives, DomesticPartners and PersonalAcquaintancesof Employees.
+5. 010. Recruitment of Employees.
+It isthepolicyof DeschutesCountyto recruitandselectthemostqualifiedindividualsfor
+employmentwith DeschutesCounty. Recruitmentandselectionshallbeconductedto ensure
+opencompetition, provideequalemploymentopportunity, andto prohibit discriminationbecause
+of race, color, national origin, sex, religion, age, marital status, family relationship, sexual
+orientation, physicalor mentaldisability (providedreasonableaccommodationcanbemadefor
+anysuchdisability), political affiliation, or anyotherclassificationprotectedby Oregonor
+Federal law. The Personnel Department is responsible for overseeing and administering the
+recruitmentandselectionof Countyemployeesin accordancewith theCounty'sRecruitmentand
+Selection Policy.
+5.020. Probationary Period.
+A. Representedemployees. For employees who are covered by a collective bargaining
+agreement, thelengthandconditionsof probationary (trial service) periodsareprovidedin
+andgovernedby theapplicablecollectivebargainingagreement.
+B. Non -representedemployees. All newly hired andnewly promotednon -represented
+employeesshallbeonprobationary (trial service) statusuntil theemployeecompletesatleast
+twelve ( 12) full months of continuous employment with the County and hasreceived from his
+or her and departmenthead or supervisor a written one-year performance evaluation for
+which the employee is given an overall rating of meetsor exceedsstandards. An employee on
+probationarystatusis not eligibleto beremovedfrom probationandassignedregular
+employee status if the employee does not receive an overall rating of meets or exceeds
+standards on the employee' s one- year performance evaluation.
+1. Eachprobationaryemployeeshallbegivenawritten performanceevaluationat
+approximatelytwo (2) andsix (6) monthsinto theemployee'sprobationaryperiod. Each
+probationaryemployeeshallalsoreceiveaperformanceevaluationattwelve (12)
+months. Theprobationaryevaluationschedulemaynotbemodified exceptby mutual
+agreement between the employee and his or her department head.
+2. An employeeonprobationarystatusis anat -will employeeandassuch, may
+resignfrom his or herpositionat anytime, with or without causeandwith or without
+notice, andmayhavehis or heremploymentterminatedby theCountyat anytime, with
+or without cause and with or without notice. Discipline of or the termination of
+employmentof aprobationaryemployeemaynotbegrieved.
+3. If a department seeksto extend the probationary period for an employee on
+probationarystatus, arequestfor extensionof probationshallbemadeby thedepartment
+headto the County Administrator and may only be granted by the County Administrator.
+Extensionsof probationwill only be grantedin unusualcircumstances, andshallbein
+3-0- dayincrements, not -to - exceed amaximum of 90 days.
+Deschutes County - HR- Personnel Rules Page 13
+4. Employees in limited duration positions whose positions are extended for
+subsequentlimited duration time periods shall not by the virtue of the extension serve
+another probationary period.
+5.030. Hiring Former Employees.
+A. Limited option to reinstate former employees. If an employee resigns his or her position with
+theCountyin goodstanding, uponapprovalof thedepartmentheadandthe County
+Administrator, theemployeemaybereinstatedto his or herformerposition, without lossof
+longevityor creditfor prior Countyservice, for aperiodof time notto exceedthree (3)
+months from the effective date of the employee' s resignation so long as the employee' s
+formerpositionhasnot beeneliminatedor filled throughappointmentor recruitment.
+B. Other former employees. Former employees who are not eligible for reinstatement pursuant
+to subparagraph A of this section, and who are otherwise eligible for re -hire with the County,
+must follow the regular application, recruitment and selection procedureswhen applying for
+vacant positions with the County.
+C. Re -hiring retirees. Individualswhoretire from Countyserviceshallnotberehiredin a
+positionthatwould requiretheCountyto contributeinto aretirementsystematthe sametime
+thattheemployeeis receivingapensionpaymentfrom a County -fundedretirementplan.
+Such employees shall be hired as non -benefited, on -call employees and shall be subject to the
+restrictions of the Public Employee Retirement System asthey relate to retired employees
+returning to work for a PERS employer.
+5.040. Hiring Relatives, DomesticPartners and PersonalAcquaintancesof Employees.
+A. TheCounty's employmentgoalis to hire employeeswho arequalifiedandcompetent, using
+a competitiveprocessthatis valid andfair. The Countywill maintainimpartiality in
+recruitmentandhiring. The Countywill not givehiring preferenceto relatives, domestic
+partnersor personalacquaintancesof currentemployees.
+B. Pursuantto ORS 659A.309 asit currently exists or asamended, the County shall not refuse
+to hire or employanindividual, baror dischargeanindividual from employment, or
+discriminate against an individual in compensationor in terms, conditions or privileges of
+employmentsolelybecausearelativeor memberof anindividual'sfamily worksor has
+worked for the County.
+C. No memberof anindividual's family, astheterm "memberof anindividual'sfamily" is
+defined in ORS 659A. 309( 3) ( wife, husband, son, daughter, mother, father, brother, brother-
+in- law, sister, sister- in- law, son-in- law, daughter- in- law, mother- in- law, father- in- law, aunt,
+uncle, niece, nephew, stepparent or stepchild of the individual), or domestic partner of the
+individual, who is a Countyemployee, shallbepermittedto servein adirectsupervisory
+capacityoveror underthatindividual. If thehiring, assignment, transferor promotionof an
+individual would placetheindividual in apositionof exercisingsupervisory, appointmentor
+grievanceresolutionauthorityoveramemberof theindividual'sfamilyorin apositionof
+beingsubjectto theexerciseof suchauthorityby amemberof theindividual's family, the
+countymay denysuchhiring, assignment, transferor promotionof thatindividual. These
+provisionsshallalsoapplytohiring, providingoversightto, and/orsupervisingof contracted
+staff (i.e., through a temporary staffing agency or a personal services contract).
+Deschutes County - HR- Personnel Rules Page 14
+Section 6. HOURS OF WORK
+6. 010. Work Schedules.
+6. 020. Rest and Meal Breaks.
+6. 030. Alternative or Flexible Work Schedules.
+6. 040. Outside Employment.
+6. 010. Work Schedules.
+A. Reportingtime. Employeesmustbeat their designatedworkspaceon time andreadyto work.
+Employees shall remain at work until the end of the employee' s work day or work shift,
+unlesspermissionto leaveearlieris grantedby theemployee'ssupervisoror department
+head. If an employee is not able to report for work, the employee must notify his or her
+supervisorassoonaspossibleprior to theemployee'sscheduledshift of his or herinability to
+report to work, the reasonthe employee is not able to report to work, and the estimated
+length of time before the employee will be able to return to work. An employee's failure to
+reportto work without prior notification to theemployee'ssupervisoror departmenthead
+shallbe consideredanimplied resignationby theemployeeunlesscircumstancesbeyondthe
+controlof theemployeereasonablypreventtheemployeefrom reportingto work or notifying
+his or her supervisor or department head of the employee's inability to report to work.
+B. Hoursof work. Work hoursareestablishedby theCountyAdministrator. Departmentheads
+shallhavepersonnelavailableto servethepublic at all timesduringwork hours, unless
+otherwiseauthorizedby theCountyAdministrator. Departmentheadsmayestablishflexible
+work schedules, subjectto approvalby theCountyAdministrator, solong astheflexible
+work scheduleis in compliance with other sectionsof the Personnel Rules, the terms of any
+applicablecollectivebargainingagreementandall applicablewageandhourlaws.
+C. Work week and work schedules. The standard work week for Deschutes County employees
+is SundaythroughSaturday. Exceptasmayotherwisebedefinedin acollectivebargaining
+agreement, work schedulesfor eachdepartment shall be determined by the departmenthead,
+subject to approval by the County Administrator.
+6. 020. Rest and Meal Periods.
+A. A. Restperiods. Eachemployeeshallbeprovidedanuninterruptedrestperiodof fifteen (15)
+minutesfor everyfour hoursin a work period, to betakenascloseaspossibleto the
+midpoint of eachfour-hourwork period. Restperiodsmustbeprovidedandtakenseparately
+from theemployee'smealperiodandcannotbe savedup to lengthentheemployee'smeal
+periodor to allow anemployeeto leavework early.
+B. Meal periods.
+1. All employeeswho work more than six (6) hours in a work day shall be given a meal
+periodduringtheemployee'swork shift. Exceptwhen, dueto thenatureand
+circumstances of an employee' s work, an employee is required to remain on duty or to
+performworktasksduringtheemployee'smealperiod, theemployee'smealperiodshall
+betakenascloseaspossibleto themiddleof theemployee's work shift. Mealperiods
+shallbeat leastthirty (30) continuousminutesin length.
+2. Non -dutymealperiodsaretheemployee'sownpersonaltime. Duringanon -dutymeal
+period,- all_b_eJreeAa leave his or her work station and shall. not be _--
+expectedto performanywork. In theeventof anemergencyor othercircumstancein
+Deschutes County - HR- Personnel Rules Page 15
+which an employee is required by his or her supervisor or departmenthead to remain on
+duty or to performwork tasksduringtheemployee'sdesignatedmealperiod, themeal
+period will be paid time.
+3. Mealperiodscannotbeskippedor shortenedto lessthanthirty (30) continuousminutes
+in length to allow an employee to leave work early.
+C. Expression of Breast Milk. An employee shall be allowed an unpaid 30-minute rest period
+to expressmilk duringeachfour-hourwork period, or themajorpartof a four-hourwork
+period, to betakenby theemployeeapproximatelyin themiddleof thework periodunless
+the County determines an undue hardship under state law ( ORS 653. 077). The County may
+require, if feasible, that the employee take the rest periods at the same time as the rest
+periodsor mealperiodsthatareotherwiseprovided. This shallonly applyto employees
+expressingmilk for herchild 18monthsof ageor younger. The Countyshallmake
+reasonableeffortsto providea location, otherthanapublic restroomor toilet stall, in close
+proximity to the employee'swork areafor the employeeto expressmilk in private.
+6. 030. Alternative or Flexible Work Schedules.
+If an employee is interested in working an alternative or flexible work schedule, the employee
+must submit a written request to his or her department head. Alternative or flexible scheduling
+shallonly bepermittedif approvedby theemployee's departmenthead, if departmentoperations
+andpublic servicerequirementswill notbeadverselyaffected, andif thealternativeor flexible
+schedule does not conflict with these Personnel Rules, any applicable collective bargaining
+agreementor any applicable wage and hour law.
+6. 040. Outside Employment.
+Countyemployeesmay, in general, engagein employmentor businessoutsidetheirwork for the
+County. However, employeesshallnotutilizecountytime, materials, equipmentorresourcesfor
+such outside employment or business, or allow such employment or business to conflict with, or
+appearto conflict with, the employee's work for the County or with the interests or businessof
+theCounty. No employeemayperformanyserviceor employment, outsideof County
+employment, or engagein anybusinessfor which theemployeereceivescompensationduring
+theemployee's Countywork hours. Employeesmaybe subjectto otherrequirementsdepending
+on departmentneeds. Questionsor issuesregardinganyactual, potentialor apparentconflict of
+interest shall be resolved by the County Administrator.
+Any outsideemploymentor businessobligationsmustnot interferewith or adverselyaffectthe
+employee' s ability to fulfill all of the employee's responsibilities to the County. If, in the
+judgmentof the employee'sdepartmenthead, anemployee'soutsideemploymentor business
+interferes with or adversely affects the employee's performance of duties for the County, the
+departmentheadmayrequiretheemployeeto terminatetheoutsideemploymentor business.
+Under such circumstances, the failure or refusal of an employee to terminate outside employment
+maybegroundsfor terminationof employmentwith theCounty.
+Deschutes County - HR- Personnel Rules Page 16
+Section 7. WAGE AND SALARY ADMINISTRATION
+7.010. Pay Plan.
+7.020. Pay Periods and Pay Days.
+7.030. Wage and Salary Adjustments.
+7. 010. Pay Plan.
+Thepayplanwill includea scheduleof ratesof pay for all Countypositions. Theobjectiveof the
+payplanis to providea competitivesalarystructureto recruit andretainqualifiedemployees.
+A. Paygradeswill beestablishedbaseduponthefollowing factors:
+1. The relative difficulty and responsibility of work;
+2. The recruiting experienceof the County;
+3. Theprevailingratesof payfor comparablepublic sectoremployers. Prevailingratesof
+payin theprivatesectormaybeuseddependingon thepay gradeor positionbeing
+reviewed.
+4. Cost -of -living;
+5. The financial policies of the County;
+6. Internal equity; and
+7. Other relevant economic considerations.
+B. The Personnel Department is responsible for the development and administration of the
+Countypayplan. A County -wide payplanfor all Countypositionsshallbe adoptedby the
+Boardasapartof theannualbudgetadoptionprocess. Paygradeadjustmentsfor individual
+positionsmaybeapprovedoutsidethebudgetprocessby theCountyAdministratorif no
+budget amendment is required to fund such adjustment or adjustments.
+C. Pay rates.
+l . Generally: Eachemployeeshallbepaid atoneof thestepsin theapprovedpaygradefor
+theemployee'sposition. No employeecanreceivebasepayin excessof theestablished
+maximum step of the pay grade for the employee's position.
+2. Longevitypay. For employeescoveredby a collectivebargainingagreement, longevity
+pay shallbeprovidedin accordancewith thetermsof theapplicablecollectivebargaining
+agreement. For employees not coveredby a collective bargaining agreement, the
+following shall apply:
+a. Longevityis determinedby anemployee's continuousfull-time or part-time service
+asaCountyemployee. Full-time employeeswho haveworkedcontinuouslyfor the
+Countyshallreceiveadditionalpaypermonthfor eachfive yearsof continuous
+service.
+b. For employeesworking lessthanfull-timebut atleasthalf-time, longevity shallbe
+pro -ratedby usingtheratio of theregularlyscheduledwork hoursfor theemployeeto
+theregularlyscheduledwork hoursfor a full-timeposition. Employeesworking less
+than half-time shall not accruelongevity and shall not receive longevity pay.
+c. Longevityamountsfor non -representedemployeesshallbe equivalentto amounts
+providedforin thecollectivebargainingagreementbetweenDeschutesCountyand
+F. SC114E_LocaL3__997--un1essotherwise adjustedby the DeschutesCounty_ Budget
+Committee during the annual budget approval process.
+Deschutes County - HR- Personnel Rules Page 17
+d. Longevity shall terminate in the event of the following:
+1) Voluntaryterminationfor morethanthree (3) months, exceptunderspecial
+circumstancesto be determined by the County;
+2) Discharge for cause;
+3) A lay-off of more than eighteen (18) months;
+4) An unexcused failure to report to work at the termination of an extended leave of
+absence;
+5) Acceptance of other employment without the permission of County while on a
+leave of absence; or
+6) Retirement.
+7. 020. Pay Periods and Pay Days.
+A. Full- time and at leasthalf-time employees. Pay periods for full- time employeesand for
+employeeswho areregularlyscheduledto work atleasthalf-time shallrun from thefirst day
+of themonththroughthelastdayof the samemonth, with paymentfor thatperiodto be
+madeon thelastwork dayof themonth. If thelastdayof themonthfalls on aholidayor a
+weekend, paydayfor thatpayperiodwill bethelastwork dayprecedingtheholidayor
+weekend.
+B. Temporary, hourly andon -call employees. Payperiodsfor temporary, hourly andon -call
+employeesshallrun from thedayafterpayroll cut-off in amonthto thedateof payroll cut-
+off in the subsequent month.
+C. Newemployees. Employeesbeginningemploymentonorbeforethe25thof themonthwill
+receivetheir first paycheckat theendof themonththeybegintheir employment. Employees
+beginningwork afterthe25thof themonthwill receivetheir first paycheckattheendof the
+month following their first month of employment.
+7.030. Wage and Salary Adjustments.
+A. New employees. New employeesshallgenerallybehiredatthefirst stepof thepaygrade.
+Whenanewemployeehasextensiveprior experienceandthedepartmentheadbelievesit is
+justified, anemployeemaybehired atthe secondstepof thepaygrade. Hiring at Step3 or
+aboverequiresprior approvalby theCountyAdministratorandwill only be grantedin
+extraordinary circumstances.
+B. Meritstepincreases. In additionto cost -of -livingpayincreases, if fundsareavailableand
+appropriated, employeesare eligible for merit step increases, provided their performancehas
+metor exceededperformancestandardsestablishedby thedepartmentheadand/or the
+employee' s supervisor. For an employee to receive a merit stepincrease, the employee's
+departmentheadmustcompletea written performanceevaluationof theemployeewith a
+recommendation for the increase. The amount of an authorized merit step increasewill be
+determinedby theadoptedpayplan. Employeeswho areatthetop stepin their paygradeare
+not eligible for merit stepincreases. Employeesshallbeeligible for merit stepincreaseson
+their eligibility date. An employee's eligibility dateis basedonthe employee'sdateof hire as
+follows: If hired on or before the fifteenth ( 15th) of the month, the employee's eligibility date
+shallbethefirst dayof themonthin which theemployeewashired; if hiredonor afterthe
+sixteenth (161h) of the month, the employee's eligibility date shall be the first day of the
+month_fol-lo-wing themonthin which theemployeewashired. Supervisorsshallcompletea
+scheduledperformanceevaluationfor on -callandhourlyemployeesaftertheemployeehas
+Deschutes County - HR- Personnel Rules Page 18
+been employed for at least 12-months and worked at least 1,000 hours. Subsequentscheduled
+evaluations shall be when the employee has worked at least another 12-months and at least an
+additional 1,000 hours. On -call and hourly employees are eligible for a merit step increase
+whenreceivinga scheduledperformanceevaluation. A departmentheadmayauthorizea
+performanceevaluationfor anon -callorhourlyemployeebeforetherequiredhourshave
+been worked, if in the department head' s discretion such an evaluation is necessary or
+prudent. Inunusualcircumstancesandwith CountyAdministratorapproval, adepartment
+headmay authorizeamerit increasealongwith anunscheduledperformanceevaluation.
+C. Cost -of -livingincreases. Aspartof theannualbudgetadoptionprocess, theBoardwill
+determinewhatcost -of -living increase, if any, will be appliedto theCounty'spayplan.
+Increasesare contingent upon the availability and appropriation of funds. Cost -of -living pay
+increasesarenot guaranteedandaresubjectto thediscretionof theBoard.
+D. Uponprior approvalby theCountyAdministrator, anon -representedemployeeis eligibleto
+receive a 5% or 10% differentialfor performingleadwork. Theleadwork mustbeassigned
+in writingbytheemployee'sdepartmenthead. Leadworkmayincludethecoordinationand
+assignment of work duties to assigned employees and/or the review of employee work to
+ensurework quality andcompliancewith applicablemethods, policies, andprocedures.
+Examples of lead work include distribution of work assignments to employees, maintaining a
+balancedworkloadamongagroupof employees, or reviewingthecompletedwork of
+employees. Theleadpaymustbe approvedby theCountyAdministratorin advanceof the
+employeereceivingtheassignedleadduties. Retroactiveleadpayis not allowed.
+E. Uponprior approvalby theCountyAdministrator, anon -representedemployeeis eligibleto
+receiveon -call payat a compensationrateof up to theequivalentof two hoursperdayat
+theircurrenthourlyrate. An employeereceivingon -callpaymustbeabletobecontactedby
+phoneorpagerduringtheon -callperiodandrespondin atimelymannerasdeterminedbythe
+department.
+Deschutes County - HR- Personnel Rules Page 19
+Section 8. PERSONAL CONDUCT
+8. 010. Code of Ethics.
+8. 020. Conflict of Interest.
+8. 030. Political Activities.
+8. 040. Personal Appearance, Dress and Grooming.
+8.050. Smoking or Use of Tobacco Products.
+8. 060. Acceptance of Gifts.
+8. 010. Code of Ethics.
+All Countyemployeeshavearesponsibilityto the Countyandits citizensto engagein dutiesfor
+theCountyin amannerthatwill merit thetrustandconfidenceof thepublic. As such, all County
+employees are expectedto be fair, honest, ethical and professional in their conduct, to adhereto
+the spirit and letter of all applicable laws and regulations that apply to the performance of the
+employee's duties and to refrain from any illegal, dishonest or unethical conduct in the
+performanceof theemployee's duties.
+All Countyemployeesareconsideredto bepublic officials. As such, eachCountyemployeeis
+subject to, is expected to be familiar with, and is expected to conduct himself or herself in
+accordance with the State of Oregon Government Standards and Practices Law ( ORS Chapter
+244) (" Ethics Law") as it currently exists or as amended. The Ethics Law provides, in part: " No
+publicofficialshalluseorattempttouseofficialpositionorofficetoobtainfinancialgainor
+avoidance of financial detriment that would not otherwise be available but for the public
+official' sholdingof theofficial positionor office, otherthanofficial salary, honoraria ...
+reimbursement of expensesor an unsolicited award for professional achievement for the public
+official or thepublic official' srelative, or for anybusinesswith which thepublic official or a
+relative of the public official is associated." Any violation by a Countyemployeeof Stateof
+Oregon Ethics Law is a violation of the DeschutesCounty PersonnelRules.
+If an employee is unsure whether his or her conduct violates or might violate the State of Oregon
+Ethics Law or this codeof ethics, the employee shall notify the employee's immediate supervisor
+or department head to determine an appropriate course of action.
+Full compliance with this code of ethics is the responsibility of eachCounty employee. Any
+violation of this code of ethics will subject the employee to disciplinary action up to and
+includingpossibleterminationof employment. Any employeeaccusedof violatingtheEthics
+Law shallbesolelyresponsiblefor thecostsof his or herdefensebeforetheGovernment
+Standards and Practices Commission. If the charges are dismissed or determined to be
+unfounded, the Board, at the Board' s discretion, may elect to reimburse the employee for some
+or all of the costs incurred by the employee.
+8. 020. Conflict of Interest.
+Countyemployeesshallrefrain from engagingin anyemployment, business, activity, practice, or
+actwhich actuallyconflictswith, potentiallyconflictswith, or givestheappearanceof
+conflicting_ with_ the employe- e' work for the County_or with theinterests_ of theCounty. An-_____-,
+actual conflict of interest exists when an action is taken that directly affects land, a business, or
+Deschutes County - HR- Personnel Rules Page 20
+anyotherfinancialinterestof anemployeeor anemployee'srelativeandis reasonablycertainto
+have a financial impact on the employee or a relative of the employee. A potential conflict of
+interest exists when an employee takes action that reasonably could be expectedto have a
+financial impact on that employee, a relative of the employee, or on a business with which the
+employee or the employee' s relative is associated. For purposes of this section only, " relative"
+meansthespouse, domesticpartner, parent, child, brotherandsisterof eithertheemployeeor the
+employee' s spouse or domestic partner.
+The following activities areprohibited:
+A. Employeesshallrefrain from acceptinggifts, favors, servicesor promisesof future
+employmentthatcouldpossiblyrelateto or is intendedto influencetheperformanceof their
+official duties. This section is not intended to conflict with section 3.28. 060 below.
+B. Employeesshallnot usetheir positionto gainspecialprivilegesor benefitsor to avoid
+financial detriment that would not otherwise be available or avoidable but for the
+employee' s position with County.
+C. No employee shall further, or attempt to further, the personal gain of any County employee
+or relative through the use of confidential information gained in the courseof performing
+her/ his duties for County.
+D. Employeesshallnotparticipate, directly or indirectly, in anybusinessor organizationwhich
+might inappropriatelyinfluencetheemployee'sofficial decisionsandjudgmentsfor the
+County.
+E. Employeesshallnothold anypositionwith anybusiness, organizationor governmentalunit
+which would conflict with the proper performance of the employee's duties or
+responsibilities for the County, or which could influence the employee'sjudgment in the
+conduct of businessbetween the County and such business, organization or governmental
+unit.
+F. Employees who conduct private businesswhich requires accessto public County records
+shall have accessto that information only during the employee's off -duty time. Employees
+shallnotbe givenspecialaccessor specialprivileges, suchasnot imposinga feefor a
+servicethatis generallyfee -basedor beingpermittedto reviewconfidentialinformation
+which is not available to members of the general public.
+G. Employeesarenot to engage, directly or indirectly, eitheron or off thejob, in anyconduct
+which is disruptive to, competitive with, or damaging to the County.
+H. Employees shall not acceptany employment which would inappropriately influence the
+performanceof theemployee's dutiesfor theCounty. Thisprohibition onemployment
+includes serving as an advisor or consultant to any businessor organization, unless that
+activity is conductedasarepresentativeof theCounty.
+I. Employees must disclose any financial interest the employee or the employee's relatives
+havein anybusinessor organizationwhich doesbusinesswith theCounty. TheCountymay
+require the employeeto divest suchinterest if the County deemsthe interest to be in conflict
+with the best interests of the County.
+This list of prohibitedactivitiesis intendedto illustratetypesof actionsthatcreateaconflict of
+interest, apotentialconflict of interest, or theappearanceof aconflict of interest. These
+examples -am not intended to be exhaustive or to limit the types of actions that are prohibited - by
+State of Oregon Ethics Law or Deschutes County policy.
+Deschutes County - HR- Personnel Rules Page 21
+8. 030. Political Activities.
+Employee involvement in certain political activities is protected under the First Amendment.
+However, under Oregon and federal law, there are somerestrictions on the political activities of
+Oregonpublic employees. Countyemployeesareexpectedto befamiliar with andto comply
+with theselawsastheycurrentlyexistor asamended.
+Oregon law ( ORS 260. 432( 2)) requires that: " No public employee shall solicit any money,
+influence, serviceor otherthing of valueor to promoteor opposeanypolitical committeeor to
+promoteor opposethenominationor electionof a candidate, thegatheringof signatureson an
+initiative, referendumor recallpetition, theadoptionof ameasureor therecallof apublicoffice
+holderwhileonthejob duringworkinghours. However, thissectiondoesnotrestricttherightof
+apublic employeeto expresspersonalpolitical views."
+The Hatch Act ( federal law) further requires that employees whoseprincipal job responsibilities
+arefinancedin whole or in partfrom loansor grantsmadeby thefederalgovernmentmaynot
+usetheir official influence to interfere with or affect the result of an election or a nomination for
+office. An employeecoveredby theAct maynot, eitherdirectly or indirectly, coerceor advise
+another employee to contribute anything of value in any form whatsoever to any organization or
+agency for political purposes.
+Theexpressionof personalpolitical viewswhile on thejob duringworking hoursis permitted
+only to the extentthat suchexpressiondoesnot interferewith theperformanceof theemployee's
+dutiesorperformanceof thedutiesof otheremployees. Whileonthejob, duringworkinghours,
+anycommentorsuggestiontofellowemployeesorthepublictovoteacertainwayis prohibited,
+evenif it doesnot interfere with the performance of duties of the employee or other employees.
+Politically relatedactivitiessuchasfundraising, soliciting volunteerhelpon political campaigns
+or disseminatingpartisanelectionmaterialis prohibitedwhile on thejob duringworkinghours.
+8.040. Personal Appearance, Dress and Grooming.
+TheCountyrespectseachemployee'sindividuality andexpectsthateachemployeewill use
+common senseand good judgment in choosing appropriate clothing to wear while performing
+dutiesfor theCounty. TheCountyexpectsits employeesto presenta cleanandprofessional
+appearanceat work. Employees should dressand groom themselvesin accordancewith the
+requirementsof their positionandacceptedsocialstandards, particularlyif theemployee'sjob
+duties involve in -person contact with the public.
+EachCountydepartmentmayestablishappearance, dressandgroomingstandardsfor the
+department's employees which may include the requirement that departmentemployeeswear a
+uniform, asprescribedby thedepartment, while onduty.
+If an employee's immediate supervisor or department head feels that an employee' s personal
+appearance, dressor grooming is inappropriate or offensive, the employee's supervisor or
+departmentheadmayrequiretheemployeeto leavetheworkplaceuntil theemployee's
+appearance, dressandgroomingis appropriatefor work. If anemployeeis requiredto leave
+work_b uause _of inappzopriateappearance, dress or_grooming, the,_employee will not be
+compensatedfor thetime awayfrom work. If anemployeefails or refusesto complywith a
+Deschutes County - HR- Personnel Rules Page 22
+lawful directive of a supervisor or department head to change appearance, dress or grooming that
+the supervisor or departmenthead determines is inappropriate or offensive, the employee will be
+subjectto disciplinaryaction, upto andincludingpossibleterminationof employment.
+Notwithstandingtheforegoing, theCountyshallmakereasonableaccommodationsfor
+appearance, dressor groomingto apersonwith alegallyprotecteddisability or to accommodate
+a bona fide religious belief.
+8.050. Smoking or Use of Tobacco Products.
+Smokinganduseof tobaccoproductsisprohibitedin all Countybuildings, vehiclesand
+equipment, and outside areasdesignatedby the County. Employees may only smoke or use
+tobaccoproductsin designatedareasoutsideCountybuildings, vehiclesor equipment.
+Employeesmayonly usedesignatedrestandmealperiodsfor smokingor useof tobacco
+products. Additionalbreaksfor smokingoruseof tobaccoproductsarenotpermitted.
+Countyfacilities locatedin incorporatedcitieswhosegoverningbodiesadoptordinances
+establishingrulesandregulationswithregardto smokingoruseof tobaccoproductsshallbe
+subject to the terms and conditions of said ordinances. If an applicable city ordinance is more
+restrictivethanstatelaw or this codeprovision, thecity ordinanceshallapply.
+8.060. Acceptance of Gifts.
+TheprovisionsofOregonEthicsLawnotwithstanding, Countyemployees, actingintheirofficial
+capacity, shallnotacceptanygift fromanysourcewith avaluein excessof $100nor, in the
+courseof acalendaryear, smallergifts from a singlesourcewith anaggregatevalueexceeding
+100. Gifts received by County employees, valued at $ 100 or less, shall, to the extent practical,
+besharedwith otherCountyemployees. Countyemployeesmay acceptgifts with deminimis
+value, suchascaps, coffeemugs, pensandpaperweights, andarenot expectedto sharesuch
+gifts. Giftswithavaluein excessof $100shallberefused, returnedtothesender, ordonatedto a
+charitable organization.
+Deschutes County - HR- Personnel Rules Page 23
+Section 9. PROMOTIONS, DEMOTIONS AND REASSIGNMENTS
+9. 010. Promotions.
+9. 020. Demotions and Reassignments.
+9. 010. Promotions.
+A. Process. If a qualified employee applies for an open position, at the discretion of the County
+Administrator, the County may opt to promote the employee to the position and not recruit
+for the position. The County Administrator may, at his or her option, require the employeeto
+takeanyappropriatetestsandgo throughaninterviewor interviewsandabackgroundcheck
+prior to deciding whether to promote the employee to the new position.
+B. Effect of promotionson salary. Whenanemployeeis promotedto a classificationwith a
+higherpaygrade, theemployeewill receiveapay increaseof notlessthanthepercentage
+difference between stepsin the pay grade for the new position, except that the employee's
+paymay not exceedthemaximumpay stepof thepaygradefor thenewposition. If the
+employee' s current pay rate is below the minimum pay step of the pay grade for the new
+position, the employee'spayshallbeincreasedto at leasttheminimumpay stepof thepay
+grade for the new position.
+C. New probationaryperiod. Employeeswho arepromotedto anewpositionmustserveanew
+probationaryperiodof twelve (12) monthsin thenewposition.
+9. 020. Demotions and Reassignments.
+When an employee is demoted for causeto a position with a lower pay grade, the employee's
+paywill bereducedto apaystepwithin thelower paygrade. Whenanemployeeis reassigned
+for administrativepurposesthroughno fault of theemployee, if theemployee'sreassigned
+positionis in alowerpaygrade, normally, theemployee'spaywill bechangedto thestepin the
+paygradefor theemployee'snewpositionthatis closestto theemployee's currentrateof pay. If
+theemployee'sreassignedpositionis in ahigherpaygrade, normally, theemployee's paywill
+be changedto the closest stepin the pay grade for the employee's new position which is not
+lower than the employee' s current rate of pay. Subject to approval of the County Administrator,
+thesalaryof anemployeewho is reassignedto a positionwith alower paygrademaybeheldat
+theemployee's currentrateof pay, without adjustmentsfor cost -of -living increases, until the
+employee' s rate of pay falls within the pay grade for the employee' s reassignedposition.
+Deschutes County - HR- Personnel Rules Page 24
+Section 10. LEAVE.
+10. 010. Authorization for Leave.
+10.020. Military Leave.
+10.030. Leave of Absence Without Pay.
+10.040. Family and Medical Leave.
+10. 050. Special Leave — Closure of County Offices.
+10.060. Victims of Domestic Violence, Sexual Assault or Stalking Leave.
+10. 070. Holidays.
+10. 080. Criminal Proceedings Leave.
+10. 010. Authorization for Leave.
+Exceptasotherwiseprovidedin thesePersonnelRules, anyapplicablecollectivebargainingagreement,
+or asrequiredby law, all requestsfor leavemustbeapprovedby anemployee'ssupervisoror department
+head.
+An employeegrantedaleaveof absencewill berequiredto useall accruedandunusedcompensatory
+time andall accruedandunusedpaid leavetime beforetheemployeemaytakeleavewithout pay. After
+anemployee'spaidtime is exhausted, anyleavegrantedor permittedwill bewithout pay.
+All leaveused (paid or unpaid) shallberecordedontheemployee'smonthlyPayrollTime andLeave
+Worksheet. Each department head is responsible for ensuring that all leave usedby employees in their
+departmentis accuratelyrecordedandreportedon themonthly PayrollTime andLeaveWorksheets.
+10.020. Military Leave.
+A. Militaryleavewithpay. An employeewhohasbeenemployedwiththeCountyforatleastsix (6)
+months and who is a member of the National Guard or the reserve of any branch of the U.S. military
+is entitledto military leavewith payfor a periodnotto exceedfifteen (15) work daysperfederal
+fiscalyear. Suchleavewill begrantedwithoutlossof payorleaveandwithoutimpairmentofmerit
+ratings or other rights or benefits of employment with the County.
+Militaryleavewithpaymaybegrantedonlyto personnelwithcertifiedordersandwill notbepaidif
+the employee does not return to his or her position on the employee' s first scheduledwork day
+following theendof theapproveddutyperiod. Leavewith paywill notbe grantedto thoseemployees
+enteringmilitary servicefor extendedor indefiniteperiodsof time.
+B. Militaryleaveof absencewithoutpay. All Countyemployeeswhoperform "servicein theuniformed
+services," as defined in 38 U. S. C. § 4304, areentitled to military leave without pay pursuant to and in
+accordancewith theprovisionsof theUniformed ServicesEmploymentandReemploymentRights
+Act of 1994 [ 38 U. S. C. §§ 4301, et seq.], as amended. Employees may, but are not required to, use
+accrued and unused time management, vacation or holiday bank leave or accruedand unused
+compensatorytime off for anyperiodof military servicewhich is unpaidby theCounty. Exceptas
+mayotherwiseberequiredbylaw, employeesarenotentitledtouseaccruedsickleaveforperiodsof
+leave for military service.
+C. MilitaryLeavefor Spouses. Duringaperiodof militaryconflict, anemployeewhoisaspouseof a .
+memberof theArmedForces, NationalGuard, or military reserveforcesis entitledto 14daysof leave
+perdeploymentincludingtime beforethedeploymentand/or leavefrom deployment. Theemployee
+mustprovidefive daysadvancenoticeanduseeligiblepaid leavefirst. To beeligible, theemployee
+must work an averageof 20 hours per week for at least 180 calendar days immediately preceding the
+date of leave.
+D. Payroll records. Department headsarerequired to document all military leave taken by an employee
+on theemployee'sPayrollTimeandLeaveWorksheet. Copiesof military ordersshallbesubmittedto
+the Personnel Department and kept in the employee' s Personnel File.
+Deschutes County - HR- Personnel Rules Page 25
+10.030. Leave of Absence Without Pay.
+An employee' s department head may grant a leave of absencewithout pay not to exceed30 calendar
+days. Leaves of absencewithout pay for periods in excessof 30 days must be approved by the County
+Administrator and the employee' s department head except for leaves of absence which, by law, an
+employee is entitled to take.
+10.040. Family and Medical Leave.
+Countyemployeesshallbeeligible to takefamily andmedicalleaveasprovidedunderthefederalFamily
+and Medical Leave Act of 1993 (" FMLA") and the Oregon Family Leave Act ( ORS 659. 010, " OFLA"),
+and pursuant to the DeschutesCounty Family and Medical Leave Policy.
+10. 050. Special Leave — Closure of County Offices.
+In the event of weather -related or other conditions determined to be an emergency by the Board or the
+CountyAdministrator, theBoardor theCountyAdministratormaydecideto closeCountyoffices. For
+purposesof this section, anemergencyincludes, but is not limited to, conditionsdueto thefollowing:
+A. Snow/ ice
+B. Building problem
+C. Bomb threat
+D. Volcano
+E. Forest Fire
+F. Earthquake
+G. Flood
+H. Terrorist threat
+I. Civil unrest
+If Countyofficesarecloseddueto adeclaredemergency, employeeswill begrantedleavewith payfor
+the duration of the closure.
+If Countyofficesareopenfor businessandanemployeedoesnotreportto work dueto weather -relatedor
+other conditions, the time off will be deducted from the employee' s accrued paid leave unless it is
+determinedby theCountyAdministratorthattheemployeecouldnot reportto work dueto circumstances
+beyond the reasonable control of the employee.
+10.060. Victims of Domestic Violence, Sexual Assault or Stalking Leave.
+An employee shall be allowed to take a reasonableamount of leave determined by the County
+Administrator and PersonnelDepartment to addressdomestic violence, sexual assault, or stalking of the
+employee or his or her minor dependents ( ORS 659A. 272). The employee must have been employed with
+theCountyfor at leastsix monthsandworkedanaverageof morethan25 hoursperweekfor at least180
+daysimmediatelybeforetherequestedleave. Theleavemustnot createanunduehardshipon the
+department and it must be for an authorized purpose. An authorized purpose includes seeking legal or law
+enforcement assistance or remedies — seeking medical treatment or recovering from injuries; obtaining
+counselingor servicesfrom avictim servicesprovider; or relocatingor taking stepsto securea safehome
+for the employee or minor child.
+The employee shall provide the Personnel Department and his/her department headwith asmuch advance
+noticeasis practicable. TheCountymayrequirecertificationof theneedfor theleave, suchasapolice
+report; protectiveorder; documentationfrom a law enforcementofficer, attorney, or victim services
+provider.
+Deschutes County - HR- Personnel Rules Page 26
+If approved, the employee must use paid leave (excluding sick leave) which includes time management,
+vacation, compensatory time, or holiday time. If all paid time is exhausted, the employee may request
+unpaid leave.
+Uponrequestfrom anemployee, theCountyshallmakereasonablework safetyaccommodationsfor an
+employee that is victim of domestic violence, sexual assault, or stalking.
+10. 070 Holidays
+Thefollowing shallberecognizedaspaidholidaysfor full-time andpart-time (on apro -ratedbasis)
+Countyemployees: NewYear'sDay, President'sDay, MartinLutherKing'sDay, MemorialDay,
+Independenceday, LaborDay, Veteran's Day, ThanksgivingDay, ChristmasDay, andonefloating
+holiday.
+10. 080 Criminal Proceedings Leave.
+An employeewho is a felonycrimevictim shallbeallowedto takeleaveto attenda felonycriminal
+proceeding involving the employee or immediate family — defined as spouse, domestic partner, father,
+mother, sibling, child, stepchildandgrandparent (ORS659A.192). Theemployeemustprovide
+reasonableadvancenoticeof theleave, providecopiesof thenoticesof thecriminal proceedings, have
+beenemployedwith theCountyfor at leastsix months, andworkedanaverageof morethan25hoursper
+weekfor at least180daysimmediatelybeforetherequestedleave. Theleavemustnot createanundue
+hardshiponthedepartment. If approved, theemployeemustusepaidleave (excludingsickleave) which
+includes time management, vacation, compensatory time, or holiday time. The employee shall not use
+sickleave. If all paidtime is exhausted, theemployeemayrequestunpaidleave.
+Deschutes County - HR- Personnel Rules Page 27
+Section 11. DISCIPLINE AND DISCHARGE.
+11. 010. Discipline.
+11. 020. Discharge.
+11. 030. Appeals of Disciplinary Actions ( Non -represented Employees Only).
+11. 010. Discipline.
+A. General. Employees may be disciplined for causeasdetermined by the employee's
+supervisor, department head, or the County Administrator. As set forth in section 3.40.020,
+probationary, temporary, hourly, andon -callemployees, asat -will employees, mayterminate
+their employmentandmaybedischargedwith or without noticeandwith or without cause.
+B. Formsof Discipline. In general, theCountywill follow principlesof progressivediscipline
+whenimplementingdiscipline. However, the form of disciplineto beimposedin aparticular
+situation will dependon factors such asthe severity of the offense, the number of
+occurrencesof the sameor similar offenses, the employee' s work history and record of prior
+disciplinewith Countyandanyotherrelevantfactors. Disciplinaryactiongenerallywill
+consist of one or more of the following:
+1. Oral warning
+2. Written reprimand
+3. Suspension
+4. Demotion
+5. Discharge
+TheCountyreservestheright, dependingon thecircumstancesof theparticularsituation, not to
+follow progressivedisciplineandto implementor imposeoneor moreof thesedisciplinary
+actions, to bypassoneor moreof thesedisciplinaryactionsor to takeor implementotherforms
+of disciplinaryactionif determinedto beappropriateby theemployee'ssupervisor, department
+head, or theCountyAdministrator. TheCountyfurtherreservestheright to takeor implement
+non -disciplinaryactionsthatmaybeappropriateaspartof acorrectiveactionplan, including, but
+notlimited to, unscheduledperformanceevaluations, work plans, lastchanceagreements,
+additionalsupervisionor training, referralto counselingor mediation, restructuringof job
+assignments, or other actions as deemed appropriate.
+11. 020. Discharge.
+A. Discharge of regular employees: Regular employeesmay be discharged from County service
+for causeasdeterminedby theemployee's departmentheador theCountyAdministrator.
+B. Dischargeduringprobationaryperiod: All employeesonprobationareat -will employees
+and, assuch, mayterminatetheir employmentandmaybedischargedwith or without cause
+and with or without notice asdetermined by the employee's departmenthead or the County
+Administrator.
+C. Dischargeof temporary, hourly andon -call employees: Temporaryandon -call employees
+areat -will employeesand, assuch, mayterminatetheir employmentandmaybedischarged
+with or without causeand with or without notice asdetermined by the employee's
+department head or the County Administrator.
+D. Employees who are discharged for cause are not eligible for rehire in any County Department
+unlesr hiieis_ approv_ed_by,the.CountyAdministrator.
+Deschutes County - HR- Personnel Rules Page 28
+11. 030. Appeals of Disciplinary Actions ( Non -represented Employees Only).
+Disciplinary actions imposed on non -representedemployeesthat are otherwise subject to the
+grievanceprocessmaybegrievedundertheprovisionsof DCC 3.44. Disciplineor dischargeof
+probationary, temporary, hourly andon -call employeesis not subjectto thegrievanceprocess.
+Appealsof disciplinaryactionsimposedonnon -representedemployeesof the Sheriff sOffice
+shallbegovernedby Sheriff s Office policies andproceduresandnot by DCC 3.46.
+Deschutes County - HR- Personnel Rules Page 29
+Section 12. GRIEVANCES
+12. 010. General.
+12. 020. Procedure.
+12. 030. Limitations on Grievances.
+12. 040. Time Limits.
+12. 050. Extension of Time Limits.
+12. 060. Prohibited Practices.
+12. 010. General.
+TheCountywill promptlyconsiderandrespondto employeegrievancesrelatingto discipline,
+discharge, application of the Personnel Rules, or to terms and conditions of employment. The
+Countyprefersto informally correctthecausesof grievancesandencouragessupervisorsand
+employeesto addressandresolveproblemsastheyarise. If thecauseof a grievancecannotbe
+resolved informally, for representedemployees, the grievance proceduresof the applicable
+collective bargaining agreementshall apply.
+12. 020. Procedure.
+For non -represented employees except non -represented employees of the Sheriff' s Office, the
+following procedurefor processingformal grievancesshallbefollowed:
+STEP 1: The aggrieved employee, or group of employees, shall verbally presentthe grievanceto
+the immediate supervisor within fifteen ( 15) calendar days of the occurrence of the issue or
+actiongiving riseto thegrievanceor within fifteen (15) calendardaysof thetime theemployee
+or groupof employeesbecomeawareof theissueor action. Thesupervisorshallgivehis/her
+responsewithin fifteen ( 15) calendar days of the dateof the presentation of the grievance, not
+including the date of presentation.
+STEPII: If thegrievanceis not fully resolvedat StepI, the grievanceshall, in detail, bereduced
+to writing, signedanddatedby theaggrievedemployeeor groupof employees, andpresentedto
+the departmentheadwithin fifteen ( 15) calendar days after the supervisor's responseis given,
+not includingthedateof theresponse. Thedepartmentheadshallrespondin writing to the
+grievancewithin fifteen (15) calendardaysof thedatethewritten grievanceis presentedto the
+department head, not including the date of presentation.
+STEPIII: If thegrievanceis not fully resolvedat StepII, thewritten grievanceshallbe
+presentedby theaggrievedemployeeor groupof employees, alongwith all pertinent
+correspondence, records and information, to the County Administrator within fifteen ( 15)
+calendardays after the departmenthead's responseis given, not including the dateof the
+response. TheCountyAdministratormaymeetwith theaggrievedemployeeor groupof
+employees, the immediate supervisor, and/or the department head before responding to the
+grievance. TheCountyAdministratorshallrespondto thegrievancein writing within fifteen
+15) calendar days after the datethe written grievance is presentedto the County Administrator,
+not including the date of presentation.
+STEPIV: If thegrievanceof a suspensionwithout pay, demotionor dischargeis notresolvedat
+StepIII, thegrievanceshallbesubmittedin writing to theBoardof CountyCommissioners
+within fifteen ( 15) calendardays after the County Administrator' s responseis given, not
+cfate_of theresponse. _If thegrievancerelatesto_suspensionwithoutpay, demotion
+ordischargeofanemployee, theBoardwill holdahearingif requestedbytheemployeebefore
+Deschutes County - HR- Personnel Rules Page 30
+issuingaresponse. If ahearingis notrequestedby theemployee, theBoard, at theBoard's
+discretion, mayhold ahearingbeforeissuingaresponse. Thedecisionof theBoardshallbe
+final and binding. The Board, at the Board' s option, may request advisory arbitration prior to
+holding a hearing on the grievance.
+12. 030. Limitations on Grievances.
+A. Oral warnings are not subject to the grievance process.
+B. Performance evaluations can only be grieved through Step II of the grievance procedure.
+C. Written reprimandscanonly be grievedthroughStepIII of the grievanceprocedure.
+D. Discipline or discharge of probationary, temporary, hourly and on -call employees is not
+subject to the grievance process.
+12. 040. Time Limits.
+If thegrievanceproceduresestablishedby this sectionarenot initiatedby anaggrievedemployee
+or groupof employeeswithin thetime limits setforth in this section, thegrievanceshallbe
+dismissed and it shall be consideredthat the grievance did not exist. If the County fails to
+respondto anygrievancewithin thetime prescribedfor aresponse, thegrievancewill
+automatically advance to the next step.
+12. 050. Extension of Time Limits.
+The time limits for the initiation and completion of the stepsof the grievance procedure may be
+extendedby mutualconsentof thepartiesinvolved, which shouldbedocumentedin writing.
+12. 060. Prohibited Practices.
+No employeemaybedisciplined, retaliatedagainstor discriminatedagainstin anyway because
+of the employee's useof the grievance procedure.
+Deschutes County - HR- Personnel Rules Page 31
+Section 13. TERMINATION OF EMPLOYMENT
+13. 010. Voluntary Terminations.
+13. 020. Involuntary Terminations.
+13. 030. Loss of Longevity and Seniority.
+13. 040. Recall After Layoff.
+13. 050. Death.
+13. 060. Final Paycheck.
+13. 070. Exit Interviews.
+13. 010. Voluntary Terminations.
+To resign in good standing, an employee must give the employee's departmenthead or the
+County Administrator a written notice of resignation at least fourteen ( 14) calendardays prior to
+the effective date of the employee' s resignation. The employee' s department head or the County
+Administrator, may agreeto a shorter period of notice if an employee so requests, in writing, and
+provides a suitable explanation for the shorter notice period. An employee who fails to provide at
+least fourteen ( 14) calendardays notice and fails to obtain permission for a shorter notice period
+may be ineligible for rehire. Unless otherwise approved in advanceby the employee's
+department head and the County Administrator, or asotherwise required by law, an employee
+who voluntarily resigns must be present and on thejob for one full week immediately prior to the
+employee' s termination date and must work on the termination date. If an employee takes any
+unauthorized leave during the employee' s final week of employment, the employee may be
+ineligible for rehire with the County, and the County may, at its discretion, alter the employee's
+termination date.
+Upon receipt of a notice of resignation, the County reservesthe right, at the County' s option, to
+designatea termination date which is earlier than the termination date designatedby the
+employee. If the County electsto designate an earlier termination date, the County shall pay the
+employee for all wages and leave that would have accrued and shall maintain all benefits to
+which the employee would have been entitled if the employee had worked through the
+termination date designatedby the employee.
+13. 020. Involuntary Terminations.
+A. Layoffs/ reductions in force.
+Restructure of the organization, a reduction in budgetedpositions, lack of work, or shortage
+of funds may result in the layoff of employees. In the event of layoff, the County may
+transfer affected employeesinto vacant positions for which the affected employees are
+qualified, in thejudgment of the hiring department head. When a decision is madeto lay off
+employees, the County will baselayoff decisions on the following factors:
+1. Job skill level
+2. Ability
+3. Experience
+4. Education
+5. Training
+7. History of discipline and/or correctiveactions
+Deschutes County - HR- Personnel Rules Page 32
+8. Knowledge of the program, department, and organization
+9. Special skills or certifications
+10. Longevity with the County
+Senioritymaybe consideredwhenthequalificationsandabilitiesof employeesarerelatively
+equal. The County shall notify affected employees of a layoff at least thirty ( 30) calendar
+days in advanceof the lay off.
+B. Disciplinarydischarge. Dischargefor disciplinaryreasonsshallbe governedby DCCChapter
+3. 40— Discipline and Discharge.
+13. 030. Loss of Longevity and Seniority.
+A. An employeelosesall longevityandseniorityin theeventof:
+1. Voluntary terminationfor greaterthanthree (3) monthsexceptunderspecial
+circumstancesasapproved by the County Administrator.
+2. Discharge for cause.
+3. A layoff periodlongerthaneighteen (18) months.
+4. Failure to report to work at the termination of a leave of absence.
+5 Acceptance of other employment without permission of County while on a leave of
+absence.
+6. Retirement.
+B. Time off during alayoff periodshallnot counttowardseniorityor longevityaccrual.
+C. An employee shall not lose seniority with a department if the employee transfers from one
+division or positionto anotherdivision or positionwithin thesamedepartment.
+13. 040. Recall After Layoff.
+If approvalis givento rehireaftera layoff, employeeswill berehiredin theinverseorderof lay
+off, that is, employees laid off last shall be called back first. Employees shall retain a right to
+recall for eighteen ( 18) months from the effective date of a layoff. If employees are recalled from
+alayoff, the following recallproceduresshallbefollowed:
+A. For layoffs of lessthan five ( 5) days, employeesmay be notified of recall in person or by
+telephone and shall have until the next work day following the notification to report to work.
+B. For layoffs of five ( 5) days to one month in duration, employees shall be notified of recall by
+first classmail andby certifiedmail, returnreceiptrequested, sentto theemployeeatthe
+employee' s last known address, and the employee shall have seven ( 7) days from the date the
+certified notice of recall is mailed to report to work..
+C. For layoffs longer than one month in duration, employeesshall be notified of recall by first
+classmail andby certifiedmail, returnreceiptrequested, sentto theemployee's lastknown
+address, and the employee shall have fourteen ( 14) days from the date the certified notice of
+recall is mailed to report to work.
+Employeesareobligatedto notify theDeschutesCountyPersonnelDepartmentin writing of any
+changeof addressfor the employee. Unless a longer period to report to work following a notice
+of recallis agreedto in writing by theCounty, employeesshallreportto work within the
+appli alzLe t mQ_ pei: specified_ in section A,_B or_C above.__If an employee: does not respondao a
+Deschutes County - HR- Personnel Rules Page 33
+notice of recall within the applicable time period designatedin this section, the employee shall
+lose all recall rights.
+13. 050. Death.
+In the event of the death of a County employee, all wages and all eligible leave earnedand
+unpaid to the employee shall be paid to the employee's estate.
+13. 060. Final Paycheck.
+Finalpaycheckswill bedeliveredto terminatedemployeesin accordancewith Oregonlaw.
+Employeesshallbepaidfor all eligible accruedandunusedleaveatthetime of termination.
+Paymentfor anyeligible accruedandunusedleaveshallbepaidwith theemployee's final
+paycheckandshallbepaid attheemployee'srateof payin effectatthetime of termination.
+13. 070. Exit Interviews.
+A. Purpose.
+The purpose of the exit interview is:
+l . To gaininsightinto theeffectivenessof Countypersonnelandmanagementpractices, to
+determinewherepersonnelpoliciesandproceduresmaybein needof reviewor revision,
+to determine whether supervisory or managerial practices needreview, modification or
+improvement, and to obtain other information which could be of assistance to the County
+and the employee' s department.
+2. To providetheemployeewith informationrelatedto theemployee'sseparationfrom
+employment with County, including, but not limited to, information related to
+continuation of health benefits for the employee and eligible dependants of the employee.
+B. Conductingtheexit interview. Unlesswaivedby theCountyAdministratoror refusedby the
+employee, an exit interview is to be conducted with every employee separatingfrom a
+benefitedCountyposition, regardlessof lengthof service, position, or thecircumstancesof
+separation.
+C. Responsibilityof PersonnelDepartment. Although departmentsmay conductinterviewswith
+terminatingemployees, thePersonnelDepartmentshallconductall Countyexit interviews.
+The Personnel Department will analyze the results of each interview to determine how the
+informationreceivedmayrelateto currentpersonnelpoliciesandproceduresandwhether
+anychangesin Countyemploymentpoliciesor proceduresmaybeneededor beneficial.
+D. Timing of exit interview. Theemployee'sdepartmentheadis responsiblefor notifying the
+Personnel Department as soon as the department head learns an employee is separating from
+Countyemployment. ThePersonnelDepartmentwill thenschedulea time for the exit
+interview.
+E. Forms andrecords. The results of exit interviews will be recorded on forms prescribed by the
+PersonnelDepartment. The record of the interview shall be maintained by the Personnel
+Department.
+Personnel Rules legislative history
+Thefollowing ordinancesamendedtheseruleswhentheywerepartof Title 3 in theDeschutes
+County Code:
+Ord. 2011- 024
+Ord. 2011- 006
+Ord. 2009- 027
+Ord. 2009- 012
+Ord. 2007- 017
+Ord. 2001- 032
+Ord. 86- 011
+Ord. 82- 030
+Ord. 81- 053
+Deschutes County - HR- Personnel Rules Page 35
+AGENDA REQUEST & STAFF REPORT
+For Board of Commissioners BOCC Wednesday Meeting of December 9, 2020
+DATE: December 3, 2020
+FROM: David Doyle, Legal, 541- 388- 6625
+TITLE OF AGENDA ITEM:
+CONSIDERATION OF FIRST & SECOND READING: Ordinance No. 2020- 015, Repealing Title
+03 - Personnel of the Deschutes County Code and Creating HR Personnel Rules
+Ea C'
+Deschutes County Board of Commissioners
+1300 NW Wall St., Suite 200, Bend, OR 97701- 1960
+541) 388- 6570 - Fax ( 541) 385- 3202 - www. deschutes. or
+AGENDA REQUEST & STAFF REPORT
+For Board Business Meeting of December 9, 2020
+DATE: December 3, 2020
+FROM: Dave Doyle Legal 388- 6625
+TITLE OF AGENDA ITEM:
+First andSecondReadingandAdoption of Ordinance2020-015, anOrdinanceRepealingTitle 03 -
+Personnel of the DeschutesCounty Code and Creating HR-Personnel Rules
+PUBLIC HEARING ON THIS DATE? No.
+BACKGROUND AND POLICY IMPLICATIONS:
+Boardof Commissionersconducteda duly noticedpublic hearingon December2, 2020andvoted3-0
+to approve the repeal of Title 03 and creation of HR- Personnel Rules.
+FISCAL IMPLICATIONS:
+None.
+RECOMMENDATION & ACTION REQUESTED:
+Move First and SecondReading and Emergency Adoption of Ordinance 2020-015.
+ATTENDANCE: Legal
+DISTRIBUTION OF DOCUMENTS:
+Legal

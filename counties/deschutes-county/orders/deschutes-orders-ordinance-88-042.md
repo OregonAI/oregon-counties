@@ -1,0 +1,2440 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-88-042
+title: 'Ordinance No. 88-042'
+doc_type: ordinance
+citation: 'Ordinance No. 88-042'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616626085_1988-29500-Ordinance%20No.%2088-042%20Recorded%2012_21_1988.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9c89581b78ec8c6d06387990b61a63ceaffb01193f114f2da63a872a3281c7ed
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 88-042 (Ordinance No. 88-042)
+
+## At a glance
+
+Ordinance No. 88-042 — orders of Deschutes County. 56 pages.
+
+## Full text
+
+F
+88-; 49000
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCF
+REV EWED
+An Ordinance Amending Ordinance * "
+aCF ^ g PF :}}
+No. PL - 11, the Bend Urban Area
+zoning Ordinance Adopting Findings*
+and Conclusions and Declaring an
+Emergency.
+ORDINANCE NO. 88- 042
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 4, " Definitions," paragraph 59,
+Dude Ranch," is amended to read as follows:
+Dude Ranch. A ranch operated wholly or in part as a
+resort offering horse - back riding and related activi-
+ties as outdoor recreation opportunities and offering
+only temporary rental accommodations for vacation use
+by nonresidents."
+Section 2. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 4, " Definitions," paragraph 70,
+Flood," is amended to read as follows:
+Flood or Flooding. A general and temporary condition
+of partial or complete inundation of normally dry land
+areas from:
+A. The overflow of inland or tidal waters, and/ or
+B. The unusual and rapid accumulation of runoff
+surface waters from any source."
+Section 3. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 4, " Definitions," is amended by
+the addition of the following:
+1111A. Area of Special Flood Hazard. The land in the
+floodplain within Bend subject to a one percent or
+greater chance of flooding in any given year. Designa-
+tion on maps always includes the letters A or V."
+1120A. Babysitter. A person who provides day care
+services for children in the home of the babysitter for
+not more than five children for eight or more hours in
+a 24- hour period as a home occupation."
+1121A. Base Flood. The flood having a one percent
+chance of being equalled or exceeded in any given year.
+1 - ORDINANCE NO. 88- 042
+V ?, 995 0066
+Also referred to as the 1100 - Year Flood." Designation
+on maps always includes the letters A or V."
+1121B. Bed and Breakfast Inn. A single- family dwelling
+unit where lodging and meals are provided, for compen-
+sation, in which no more than two ( 2) guest rooms are
+provided for no more than six ( 6) travelers or tran-
+sient guests. A guest shall not rent for a time period
+longer than fifteen ( 15) consecutive nights."
+1128A. Building, Height. The vertical distance from
+the average contact ground level of the building to the
+highest point of the building."
+1156A. Development. Any man- made change to improved or
+unimproved real estate, including but not limited to,
+buildings or other structures, mining, dredging,
+filling, paving, excavation or drilling operations
+located with the area of special flood hazard."
+1171A. Flood Insurance Rate Map ( FIRM). The official
+map on which the Federal Insurance Administration has
+delineated both the areas of special flood hazards and
+the risk premium zones applicable to the community."
+1171B. Flood Insurance Study. The official report
+provided by the Federal Insurance Administration that
+includes flood profiles, the Flood Boundary- Floodway
+Map and the water surface elevation of the base flood."
+1171C. Floodway. The channel of a river or other
+watercourse and the adjacent land areas that must be
+reserved in order to discharge the base flood without
+cumulatively increasing the water surface elevation
+more than one foot."
+11109A. Lowest Floor. The lowest floor of the lowest
+enclosed area ( including basement). An unfinished or
+flood resistant enclosure, usable solely for parking of
+vehicles, building access or storage, in an area other
+than a basement area, is not considered a building' s
+lowest floor, provided that such enclosure is not built
+so as to render the structure in violation of the
+applicable non - elevation design requirements of
+Section 23( 7)."
+11144A. Residential Care. Services such as supervi-
+sion; protection; assistance while bathing, dressing,
+grooming or eating; management of money; transporta-
+tion; recreation and the providing of room and board."
+2 - ORDINANCE NO. 88- 042
+0095 0067
+11144B. Residential Care Facility. A facility that
+provides residential care for six or more physically
+handicapped or socially dependent individuals and which
+is licensed by the State Department of Senior
+Services."
+11145A. Roadside Stand. A temporary structure, vehicle
+or area designed or used for the display or sale of
+merchandise on the premises upon which such a stand is
+located."
+11177A. Zero Lot Line Subdivision or Partition. A type
+of residential subdivision or partition utilizing zero
+lot lines between dwelling units and providing for
+individual ownership of each lot."
+Section 4. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 10 " Urban Area Reserve
+Zone - UAR- 10," subsection ( 2), " Permitted Uses," is amended by
+the addition of the following:
+F. Manufactured homes meeting the standards of Sec-
+tion 28 of this Ordinance as ' Class A' manufactured
+homes and located in a parcel of five ( 5) acres or
+larger in size."
+Section 5. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 10, " Urban Area Reserve Zone -
+UAR- 10," subsection ( 3), " Conditional Uses," paragraph ( M), is
+amended to read as follows:
+M. Manufactured homes meeting the standards of Sec-
+tion 28 of this Ordinance as a ' Class A' manufactured
+home and located on a parcel of less than five ( 5)
+acres in size."
+Section 6. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 12, " Suburban Low Density Residen-
+tial District - SR 2 1/ 2 District," subsection ( 2), " Permitted
+Uses," is amended by the addition of the following:
+E. Manufactured homes meeting the standards of Sec-
+tion 28 of this Ordinance as a ' Class A' manufactured
+home and located on a parcel of five ( 5) acres or
+larger in size."
+Section 7. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 12, " Suburban Low Density Residen-
+tial District - SR 2 1/ 2 District," subsection ( 3), " Conditional
+Uses," paragraph H, is amended to read as follows:
+3 - ORDINANCE NO. 88- 042
+0095 0068
+H. Manufactured homes meeting the standards of Sec-
+tion 28 of this Ordinance as a ' Class A' manufactured
+home and located on a parcel less than five ( 5) acres
+in size.
+Section 8. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 14, " Urban Standard Residential
+Zone - RS Zone," subsection ( 3), " Conditional Uses," is amended
+by the addition of the following:
+U. Dwelling groups, subject to the provisions of
+subsection ( 25) of Section 26.
+V. Radio and television transmission facilities.
+W. Bed and breakfast inn, subject to the standards set
+forth in Section 26, subsection ( 26).
+X. Residential care facility."
+Section 9. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 15, " Urban Medium Density Residen-
+tial Zone - RM Zone," subsection ( 2), " Permitted Uses,"
+paragraph H, is amended to read as follows:
+H. Day care, kindergarten or nursery school."
+Section 10. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 15, " Urban Medium Density Residen-
+tial Zone - RM Zone," subsection ( 2), " Permitted Uses," is
+amended by the addition of the following:
+I. Farming, excluding the keeping of livestock."
+Section 11. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 15, " Urban Medium Density Residen-
+tial Zone - RM Zone," subsection ( 3), " Conditional Uses," is
+amended by the addition of the following:
+O. Radio and television transmission facilities."
+Section 12. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 16, " Urban High Density Residen-
+tial Zone - RH Zone," subsection ( 7), " Special Yards and Dis-
+tances Between Buildings," is amended to read as follows:
+117. Special Yards and Distances Between Buildings.
+The following special yards and distances between
+buildings shall be provided:
+4 - ORDINANCE NO. 88- 042
+4095 G069
+A. An inner court providing access to
+double - row dwelling groups shall be a minimum
+of 20 feet.
+B. The distance between principal buildings
+shall be at least 10 feet. This requirement
+shall also apply to portions of the same
+buildings separated from each other by a
+court or other open space."
+Section 13. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 18, " Limited Commercial Zone - CL
+Zone," subsection ( 2), " Permitted Uses," paragraph Z, is amended
+to read as follows:
+Z. Hardware store or paint store."
+Section 14. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 18, " Limited Commercial Zone - CL
+Zone," subsection ( 2), " Permitted Uses," is amended by the addi-
+tion of the following:
+uu. Bus terminal."
+Section 15. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 18( 3), " Limited Commercial
+Zone - CL Zone," " Conditional Uses," paragraph A, is amended to
+read as follows:
+A. New residential dwelling units, excluding mobile
+home parks."
+Section 16. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 18A., " Convenience Commercial Zone
+CC Zone", subsection ( 2), " Permitted Uses", paragraph T, is
+amended to read as follows:
+T. Food and health food store."
+Section 17. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 18A., " Convenience Commercial Zone
+CC Zone", subsection ( 3), " Conditional Uses", is amended by the
+addition of the following:
+J. A building over 30 feet in height."
+Section 18. Ordinance No. PL - ll, Bend Urban Area Zoning
+Ordinance, as amended, Section 18A( 3), " Convenience Commercial
+Zone - CC Zone," " Conditional Uses," paragraph A, is amended to
+read as follows:
+5 - ORDINANCE NO. 88- 042
+0095 0070
+A. New residential dwelling units, excluding mobile
+home parks."
+Section 19. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 18A., " Convenience Commercial Zone
+CC Zone", subsection ( 4), " Height Regulations", is amended to
+read as follows:
+114. Height Regulations. No building or structure
+shall be hereafter erected, enlarged or structurally
+altered to exceed a height of 30 feet without a con-
+ditional use permit."
+Section 20. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 18A., " Convenience Commercial Zone
+CC Zone", subsection ( 7), " Other Required Conditions", is
+amended by the addition of the following:
+D. See Section 26, " Provisions Applying to Special
+Uses," where applicable."
+Section 21. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 19, " Highway Commercial Zone - CH
+Zone," subsection ( 2), " Permitted Uses," is amended by the addi-
+tion of the following:
+dd. Bus terminal."
+Section 22. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 19, " Highway Commercial Zone - CH
+Zone," subsection ( 3), " Conditional Uses," paragraph E, is
+amended to read as follows:
+E. Building over 30 feet in height."
+Section 23. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 19, " Highway Commercial Zone - CH
+Zone," subsection ( 3), " Conditional Uses," paragraph K, is
+amended to read as follows:
+K. Residential use, excluding mobile home parks."
+Section 24. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 19A., " General Commercial Zone -
+CG Zone," subsection ( 2), " Permitted Uses," is amended by the
+addition of the following:
+N. Bus terminal."
+Section 25. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 19A., " General Commercial
+6 - ORDINANCE NO. 88- 042
+095 0®', 1
+Zone - CG Zone," subsection ( 3), " Conditional Uses," paragraph C,
+is amended to read as follows:
+C. Residential use subject to the standards of the RH
+zone, excluding mobile home parks."
+Section 26. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 20, " Industrial Park Zone - IP
+Zone," subsection ( 2), " Permitted Uses," is amended by the dele-
+tion of paragraph ( H).
+Section 27. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 21, " Light Industrial Zone - IL
+Zone," subsection ( 2), " Permitted Uses," is amended by the dele-
+tion of paragraph ( Q).
+Section 28. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 21, " Light Industrial Zone - IL
+Zone," subsection ( 2), " Permitted Uses," is amended by the addi-
+tion of the following:
+S. Wholesale distribution of all standard types of
+prepared or packaged merchandise such as automobile
+supplies, drug and electrical supplies, furniture, food
+products, hardware, leather goods, plumbing supplies,
+textiles and fabrics and general merchandise."
+Section 29. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 21, " Light Industrial Zone - IL
+Zone," subsection ( 2), " Permitted Uses," paragraph H, is amended
+to read as follows:
+H. Assembly, manufacture or preparation of articles
+and merchandise from the following previously prepared
+types of materials: bone, canvas, cellophane, cloth,
+cork, feathers, felt, leather, precious or semi- pre-
+cious metal or stones, shell, textiles, tobacco, wax,
+wire, wood ( excluding sawmills, lumbermills, planing
+mills, molding plants, particle board, wafer board,
+plywood and pulp process) yarns and paint not employing
+a boiling process.
+Section 30. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 21, " Light Industrial Zone - IL
+Zone," subsection ( 7), " Other Required Conditions," paragraph A,
+is amended to read as follows:
+A. All business, service, repair, processing, storage
+or merchandise display on property abutting or across
+the street from a lot in an R zone shall be conducted
+wholly within an enclosed building unless screened from
+the R Zone by a sight - obscuring fence or wall."
+7 - ORDINANCE NO. 88- 042
+0095 0011720
+Section 31. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 22, " General Industrial Zone - IG
+Zone," subsection ( 2), " Permitted Uses," is amended by the addi-
+tion of the following:
+C. Public buildings and public utility structures and
+yards, including railroad yards.
+D. Veterinary clinic.
+E. Commercial parking lot.
+F. Planned unit development subject to the provisions
+of Section 30.
+G. Accessory uses and buildings customarily
+appurtenant to a permitted use, such as incidental
+storage."
+Section 32. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 23, " Flood Plain Combining Zone -
+FP Zone" is amended to read as follows:
+Section 23. FLOOD PLAIN COMBINING ZONE - FP ZONE.
+l. Purpose. It is the purpose of this zone to pro-
+mote the public health, safety and general welfare, and
+to minimize public and private losses due to flood
+conditions in specific areas by provisions designed:
+A. To protect human life and health;
+B. To minimize expenditure of public money and
+costly flood control projects;
+C. To minimize the need for rescue and relief
+efforts associated with flooding and generally
+undertaken at the expense of the general public;
+D. To minimize prolonged business interruptions;
+E. To minimize damage to public facilities and
+utilities such as water and gas mains, electric,
+telephone and sewer lines and streets and bridges
+located in areas of special flood hazard;
+F. To help maintain a stable tax base by provid-
+ing for the sound use and development of areas of
+special flood hazards so as to minimize future
+flood blight areas;
+8 - ORDINANCE NO. 88- 042
+0095 0073
+G. To ensure that potential buyers are notified that
+property is in an area of special flood hazard; and
+H. To ensure that those who occupy the areas of
+special flood hazard assume responsibility for
+their actions.
+112. Application of FP Zone.
+A. The FP Combining Zone shall apply to the area
+identified on the Flood Insurance Rate Map ( FIRM)
+as special flood hazard areas inundated by 100 -
+year flood and floodway areas. The FIA Flood
+Insurance Study for Bend and the FIRM map are
+hereby adopted and by this reference included
+herein. The A and AE zones shown on the FIRM map
+are hereby zoned FP.
+B. When base flood elevation data has not been
+provided on the FIRM, the Planning Director shall
+obtain, review and reasonably utilize any base
+flood elevation and floodway data available from a
+federal, state or other source in order to admini-
+ster this section.
+C. Information to be obtained and maintained:
+a. Where base flood elevation data is pro-
+vided through the Flood Insurance Study or as
+required in subsection ( 2)( B), record the
+actual elevation ( in relation to mean sea
+level) of the lowest floor ( including base-
+ment ) of all new or substantially improved
+structures and whether or not the structure
+contains a basement.
+b. For all new or substantially improved
+floodproofed structures, record the actual
+elevation ( in relation to mean sea level) of
+the structures lowest floor. Obtain and
+maintain the floodproofing certifications
+required in Section 23( 7)( B).
+113. Warning and Disclaimer of Liability. The degree
+of flood protection required by this Section is consid-
+ered reasonable for regulatory purposes and is based on
+scientific and engineering considerations. Larger
+floods can and will occur on rare occasions. Flood
+heights may be increased by man- made or natural causes.
+This Ordinance does not imply that land outside the
+areas will be free from flooding or flood damages.
+This Ordinance shall not create liability on the part
+9 - ORDINANCE NO. 88- 042
+0095 0074
+of the County, any officer or employee thereof, or the
+Federal Insurance Administration for any flood damages
+that result from reliance on this Ordinance or any
+administrative decision made hereunder.
+114. Alteration of Watercourses.
+A. Prior to any alteration or relocation of a
+watercourse, notice of the proposed alteration
+shall be given to affected, adjacent communities
+and the State Department of Water Resources and
+evidence of such notification submitted to the
+Federal Insurance Administration.
+B. The applicant shall maintain the altered or
+relocated portion of said watercourse so that the
+flood carrying capacity is not diminished.
+115. Permit for Use or Development in an FP Zone. No
+development shall occur in an FP Zone unless a permit
+has been received for the work. Except for improvement
+of an existing structure which is less than substan-
+tial, as determined by the County, no permit shall be
+issued unless the work will be reasonably safe from
+flooding, otherwise complies with this Ordinance, and
+all necessary state, federal and local permits will be
+obtained as a condition of approval on any permit in an
+FP Zone. The following information shall be submitted
+with the permit application:
+A. The location of the property with reference to
+channel locations and flood profile elevations.
+B. The existing topography and proposed grading
+plan for the property. Contour intervals shall
+not be more than one - foot for ground slopes up to
+five percent and, for areas immediately adjacent
+to a stream, two - foot for ground slopes between
+five and ten percent and five- foot for greater
+slopes.
+C. The location of existing and proposed diking
+or revetments, if any.
+D. Review of building permits. Where elevation
+data is not available either through the Flood
+Insurance Study or from another authoritative
+source, applications for building permits shall be
+reviewed to assure that proposed construction will
+be reasonably safe from flooding.
+10 - ORDINANCE NO. 88- 042
+9995 0073
+116. Structural Elevation Data Required.
+A. A building permit application for substantial
+improvement to an existing structure or for a new
+structure within an FP Zone shall contain the
+following data referenced to mean sea level.
+a. The level of the lowest habitable floor
+and of any basement floor whether or not
+intended to be habitable.
+b. The level to which the structure is to be
+floodproofed, if applicable.
+B. A statement which notes whether the structure
+contains a basement.
+C. The information required by this subsection
+shall be maintained in the files of the Building
+Department with the subject building permit.
+117. Regulation of Structures in an FP Zone.
+A. Residential Construction.
+a. New construction and substantial improve-
+ment of any residential structure shall have
+the lowest floor, including basement, ele-
+vated to or above base flood elevation.
+b. Fully enclosed areas below the lowest
+floor that are subject to flooding are pro-
+hibited unless designed to automatically
+equalize hydrostatic flood forces on exterior
+walls by allowing for the entry and exit of
+floodwaters. Designs for meeting this re-
+quirement must either by certified by a
+registered professional engineer or architect
+or must meet or exceed the following minimum
+criteria:
+1. A minimum of two openings having a
+total net area of not less than one
+square inch for every square foot of
+enclosed area subject to flooding shall
+be provided.
+2. Openings may be equipped with
+screens, louvers or other coverings or
+devices provided that they permit the
+automatic entry and exit of floodwaters.
+11 - ORDINANCE NO. 88- 042
+0®95 0076
+3. The bottom of all openings shall be
+no higher than one foot above grade.
+B. Non- residential Construction. New construc-
+tion and substantial improvement of any commer-
+cial, industrial or other non- residential struc-
+ture shall either have the lowest floor, including
+basement, elevated to the level of the base flood
+elevation, or together with attendant utility and
+sanitary facilities shall:
+a. Be floodproofed so that below the base
+flood level the structure is watertight with
+walls substantially impermeable to the pas-
+sage of water;
+b. Have structural components capable of
+resisting hydrostatic and hydrodynamic loads
+and effects of buoyancy;
+c. Be certified by a registered professional
+engineer or architect that the design and
+methods of construction are in accordance
+with accepted standards of practice for
+meeting provisions of this subsection based
+on their development and/ or review of the
+structural design, specifications and plans.
+Such certifications shall be provided to the
+County' s Building Official.
+d. Non- residential structures that are
+elevated, not floodproofed, must meet the
+same standards for space below the lowest
+floor as described in Section 23( 7)( A)( a).
+e.
+Applicants floodproofing non- residential
+buildings shall be notified that flood insur-
+ance premiums will be based on rates for
+buildings that are one foot below the flood -
+proofed level ( e. g., a building constructed
+to the base flood level will be rated as one
+foot below that level).
+C. Manufactured Homes. All manufactured homes to
+be placed or substantially improved within the FP
+zone shall be elevated on a permanent foundation
+such that the lowest floor of the manufactured
+home is at or above the base flood elevation and
+be securely anchored to an adequately anchored
+foundation system in accordance with the provi-
+sions of Section 23( 7)( A)( b).
+12 - ORDINANCE NO. 88- 042
+1 11 0095 0077
+118. Construction Materials and Methods.
+A. All new construction and substantial improve-
+ment shall be constructed with materials and
+utility equipment resistent to flood damage.
+B. All new construction and substantial improve-
+ments shall be constructed using methods and
+practices that minimize flood damage.
+C. Electrical, heating, ventilation, plumbing and
+air- conditioning equipment and other service
+facilities shall be designed and/ or otherwise
+elevated or located so as to prevent water from
+entering or accumulating within the components
+during conditions of flooding.
+119. Land Development Standards in a Flood Hazard Area.
+A. In addition to the terms of subsections 7 and
+8 of this section, a subdivision or other land
+development, including all utility facilities,
+within an FP zone shall be designed and con-
+structed to minimize flood damage, including
+special provisions for adequate drainage to reduce
+exposure to flood hazards.
+B. A land development which will alter or relo-
+cate a watercourse shall be designed, constructed
+and maintained to retain the flood - carrying capa-
+city of the watercourse.
+C. A proposed land development of greater than
+either 50 lots or 5 acres shall include data
+showing the base flood elevation.
+1110. Manufactured Home Development Standards.
+A. All manufactured homes to be placed or sub-
+stantially improved within the FP zone shall be
+elevated on a permanent foundation such that the
+lowest floor of the manufactured home is at or one
+foot above the base flood elevation and shall be
+securely anchored to an adequately anchored found-
+ation system in accordance with the provisions of
+Section 23 ( 7) ( A) ( b) .
+B. The placement of a manufactured home in the
+floodway is prohibited.
+13 - ORDINANCE NO. 88- 042
+0095 0078
+11. Utilities Standards in a Flood Hazard Area.
+A. A public utility or facility associated with a
+land development within an FP zone shall be desig-
+ned, located and constructed to minimize or elimi-
+nate flood damage and to avoid raising the water
+elevation in a regulatory floodway.
+B. Any new or replacement water supply system
+shall be designed, located and constructed to
+minimize or eliminate infiltration of floodwaters
+into the system.
+C. Any new or replacement sewerage system shall
+be designed, located and constructed to minimize
+or eliminate infiltration of floodwaters in to the
+system and discharge from the system into the
+floodwaters.
+1112. Floodways. located within areas of special flood
+hazard established in Section 23( 2)( A) are areas desig-
+nated as floodways. Since the floodway is an extremely
+hazardous area due to the velocity of floodwaters which
+carry debris, potential projectiles and erosion poten-
+tial, the following provisions apply:
+A. Encroachments, including fill, new construc-
+tion, substantial improvements and other develop-
+ment are prohibited unless certification by a
+registered professional engineer or architect is
+provided demonstrating that encroachments shall
+not result in any increase in flood levels during
+the occurrence of the base flood discharge.
+B. If subsection ( A) above is satisfied, all new
+construction and substantial improvements shall
+comply with all applicable flood hazard reduction
+provisions of Section 23( 7).
+1113. Technical Variances. A technical variance from
+the requirements of Section 23 may be granted by the
+Planning Director or Hearings Body for new construction
+and for improvements to existing structures which could
+not otherwise be authorized, provided the construction
+or improvements are to be erected or installed on a
+parcel of land one- half acre or less in size, contig-
+uous to or substantially surrounded by lots with exist-
+ing structures constructed below the minimum floor
+elevation established for flood protection purposes. A
+parcel of land in excess of the one- half acre in single
+ownership on the effective date of this Ordinance is
+not excluded from the granting of a technical variance,
+14 - ORDINANCE NO. 88- 042
+11,
+0095 0079
+but the burden of proof required for issuing the vari-
+ance increases as the size of the property under single
+ownership increases, and the variance shall be granted
+only if required to equalize circumstances, considering
+previously developed land adjacent to the parcel for
+which a variance is sought.
+1114. Historic Variance. A variance for historic
+preservation may be granted for the reconstruction,
+rehabilitation or restoration of a structure listed on
+the National Register of Historic Places or the State
+Inventory of Historic Places.
+1115. Other Variances. All other variance applications
+shall be considered according to the terms of Section
+31 of this Ordinance and the following factors:
+A. The danger that materials may be swept onto
+others' property.
+B. The danger to life and property due to flood-
+ing or erosion damage.
+C. The susceptibility of the proposed facility to
+the flood damage and the effect of such damage on
+the individual owner.
+D. The importance of the services provided to the
+community by the proposed facility.
+E. The necessity to the use of a waterfront
+location, where applicable.
+F. The availability of alternate locations not
+subject to flooding or erosion damage.
+G. The relationship of the use to the area flood-
+plain management program.
+H. The safety of access to the property in times
+of flood for ordinary and emergency vehicles.
+I. The expected height, velocity, duration, rate
+of rise and sediment transport of the floodwaters
+and the effect of wave action, if applicable,
+expected at the site.
+J. The cost of providing governmental and utility
+services during and after flood conditions includ-
+ing maintenance and repair of public utilities and
+facilities such as sewer, gas, electrical and
+water systems, streets and bridges.
+15 - ORDINANCE NO. 88- 042
+0095 009),
+1116. Applicants for a variance shall include with
+their application the following information:
+A. The location of the property with reference to
+channel location and flood profile elevation.
+B. The existing topography and proposed grading
+plan for the property. Contour intervals shall
+not be more than one - foot for ground slopes up to
+five percent and for areas immediately adjacent to
+a stream, two - foot for ground slopes between five
+and ten percent and five- foot for greater slopes.
+C. The location of existing and proposed diking
+or revetments, if any.
+1117. Granting of Variances. The Hearings Body or
+Planning Director may grant a variance upon a finding
+that the variance will not result in increased flood
+heights, additional threats to public safety or extra-
+ordinary public expense."
+Section 33. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 24, " Site Plan Review", is amended
+to read as follows:
+Section 24. SITE PLAN APPROVAL.
+111. Purpose. The purpose of site plan approval is to
+ensure compliance with the objectives of this Ordinance
+and the Comprehensive Plan where development may cause
+a conflict between uses in the same or adjoining zones
+by creating unsightly, unhealthful or unsafe conditions
+and thereby adversely affecting the public health,
+safety and general welfare. The purpose shall also be
+to avoid creating undue burdens on public facilities
+and services. In considering a site plan, the Planning
+Director or Hearings Body shall take into account the
+impact of the proposed development on nearby proper-
+ties, on the capacity of the street system, on land
+values and development potential of the area and on the
+appearance of the street and community.
+112. Site Plan Requirements. In all zones, except for
+a single- family, duplex or triplex unit on one lot, all
+new uses, buildings, outdoor storage or sales areas and
+parking lots or alterations thereof shall be subject to
+the provisions of this section. Site plan approval
+shall not be required where a proposed alteration of an
+existing building does not exceed 25% of the size of
+the original structure unless the Planning Director
+finds the original structure or proposed alteration
+16 - ORDINANCE NO. 88- 042
+0095 0®81
+does not meet the requirements of this Ordinance or
+other ordinances of the County.
+113. Non - Compliance.
+A. Non- compliance with a final approved site plan
+or development agreement shall be treated as a
+zoning ordinance violation.
+B. The applicant shall demonstrate continued com-
+pliance with the approved landscape plan estab-
+lished under this section.
+114. Procedure.
+A. Prior to filing a site plan application, the
+applicant shall be encouraged to confer with the
+Planning Department concerning the requirements of
+formal application.
+B. The site plan application shall be filed on a
+form provided by the Planning Department and shall
+be accompanied by drawings containing information
+as specified by the Planning Department. A mini-
+mum of eight ( 8) copies of the site plan shall be
+submitted along with such additional information
+as is deemed necessary for the Planning Director
+or Hearings Body to adequately review the applica-
+tion.
+C. The Planning Director or Hearings Body shall
+approve, with or without conditions, or disapprove
+the site plan. In approving the plan, the Plan-
+ning Director or Hearings Body shall find that all
+provisions of this Ordinance are complied with and
+that all buildings and facilities, access points,
+parking and loading facilities, lighting and walls
+or fences are so arranged that traffic congestion
+is avoided and pedestrian and vehicular safety and
+welfare are protected and there will be minimal
+adverse effect on surrounding property. The
+decision of the Planning Director or Hearings Body
+shall be final unless appealed in accordance with
+the County' s land use procedures.
+115. The Planning Director or Hearings Body may require
+the following in addition to the minimum standards of
+this Ordinance as a condition for site plan approval.
+A. An increase in the required yards.
+B. Additional off- street parking.
+17 - ORDINANCE NO. 88- 042
+C. Screening of the proposed use by a fence or
+landscaping or combination thereof.
+D. Limitations on the size, location and number
+of lights.
+E. Limitations on the number and location of curb
+cuts.
+F. Dedication of land for the creation or en-
+largement of streets where the existing street
+system will be impacted by or inadequate to handle
+the additional burden caused by the proposed use.
+G. Improvement, including but not limited to
+paving, curbing, installing of traffic signals and
+constructing sidewalks of the street system which
+serves the proposed use where the existing street
+system will be burdened by the proposed use.
+H. Improvement or enlargement of utilities serv-
+ing the proposed use where the existing utilities
+system will be burdened by the proposed use.
+Improvements may include, but shall not be limited
+to, extension of utility facilities to serve the
+proposed use and installation of fire hydrants.
+I. Landscaping of the site.
+J. Any other limitations or conditions which it
+considers necessary to achieve the purposes of
+this Ordinance.
+116. Agreement and Security. The developer and owner
+shall, as a condition of approval, execute a develop-
+ment agreement for any improvements required on a form
+approved by the County Counsel and may be required to
+file with the County a performance bond or other secur-
+ity as approved by the County Counsel to assure full
+performance of the required improvements. The bond
+shall be for the cost of the improvements plus 10%.
+117. Site Plan Criteria. Approval of a site plan shall
+be based on the following criteria:
+A. Safety and Privacy. Residential site plans
+shall be designed to provide a safe living en-
+vironment while offering appropriate opportunities
+for privacy and transitions from public to private
+spaces.
+18 - ORDINANCE NO. 88- 042
+0095 00& 3
+B. Special Needs of Handicapped. When deemed
+appropriate, the site plan shall provide for the
+special needs of handicapped persons, such as
+ramps for wheelchairs, drop curbs and handicapped
+parking stalls.
+C. Preservation of Natural Landscape. The land-
+scape and existing grade shall be preserved to the
+maximum practical degree, considering development
+constraints and suitability of the landscape or
+grade to serve the applicant' s functions. Pre-
+served trees and shrubs shall be protected during
+construction.
+D. Pedestrian and Vehicular Circulation and
+Parking. The location and number of points of
+access to the site, the interior circulation
+patterns, designs of parking areas and the separa-
+tion between pedestrians and moving and parked
+vehicles shall be designed to promote safety and
+avoid congestion on adjacent streets.
+E. Buffering and Screening. Areas, structures and
+facilities for storage, machinery and equipment,
+services ( mail, refuse, utility wires and the
+like), loading and parking and similar accessory
+areas and structures shall be designed, located,
+buffered or screened to minimize adverse impacts
+to the site and neighboring properties.
+F. Utilities. All utility installations above
+ground, if such are allowed, shall be located so
+as to minimize adverse impacts on the site and
+neighboring properties.
+G. Public Facilities. The proposed use shall not
+be an undue burden on public facilities, such as
+the street, sewer or water system.
+118. Rectuired Minimum Standards.
+A. Minimum Landscaping Standards. All develop-
+ments subject to site plan approval shall meet the
+following minimum standards for landscaping:
+a. A minimum of 15% of the area of a project
+for multi - family, commercial and industrial
+development shall be landscaped, subject to
+site plan approval.
+b. Street Trees. The placement, spacing and
+pruning of street trees shall be as follows,
+although the Planning Director or Hearings
+19 - ORDINANCE NO. 88- 042
+a
+095 0084
+Body may adjust the placement standard for
+special site conditions:
+1. Street trees shall be located a
+minimum of three feet from the face of a
+curb.
+2. Trees shall be placed a maximum of
+thirty feet apart. Trees shall be
+evenly spaced, with variations to the
+spacing permitted for specific site
+limitations and safety purposes.
+3. An approved tree grate shall be used
+for trees planted in paved or concrete
+area.
+4. As trees grow, they shall be pruned
+to provide a minimum clearance of eight
+feet above sidewalk and fourteen feet
+above street, alley or roadway surfaces.
+5. Existing trees may be used as street
+trees if they are not killed or damaged
+from any new development. Sidewalks of
+variable width and elevation may be
+utilized to save existing street trees.
+6. Existing street trees removed by
+development projects shall be replaced
+by the developer.
+c. Areas of commercial and industrial zones
+used for vehicle maneuvering, parking, load-
+ing or storage shall be landscaped and
+screened as follows:
+1. Landscape coverage of the landscape
+area shall be fifty percent at the time
+of installation and ninety percent at
+five years.
+2. Parking lot landscaping shall con-
+sist of a minimum of seven percent of
+the total parking area plus a ratio of
+one tree per ten parking spaces to
+create a canopy effect.
+3. Landscape buffers between parking
+areas and streets shall have a minimum
+width of three feet with no car overhang
+and eight feet with a car overhang.
+20 - ORDINANCE NO. 88- 042
+0095 0083
+4. Landscape buffers between parking
+abutting a property line shall have a
+minimum width of three feet.
+5. Front or exterior yard landscaping
+may not be substituted for the interior
+landscaping required for interior park-
+ing stalls.
+6. There shall be a minimum distance of
+five feet between parking areas and
+buildings in parking areas adjacent to
+residential dwellings and a five foot
+minimum height and width of a continuous
+evergreen hedge screen ( or five foot
+minimum height of wall or fence) in two
+years from the date a building permit is
+issued.
+7. There shall be a minimum width of
+ten feet for landscape buffers between
+buildings adjacent to streets.
+8. Landscape buffers shall consist of
+evergreen ground cover and shrubs mixed
+with a variety of flowering and decid-
+uous species of trees and shrubs.
+9. Landscaping in a parking or loading
+area shall have a width of not less than
+five feet. Landscaping in a parking or
+loading area shall be located in defined
+landscaped areas which are uniformly
+distributed throughout the parking or
+loading area.
+d. Provision shall be made for the irriga-
+tion of planting areas.
+e. Required landscaping shall be contin-
+uously maintained.
+f. Vegetation planted in accordance with an
+approved site plan shall be maintained by the
+owner, any heir or assignee. Plants or trees
+that die or are damaged shall be replaced and
+maintained.
+B. Shared Areas. Usable outdoor
+shall be provided for the shared
+and their guests in any apartment
+development as follows:
+21 - ORDINANCE NO. 88- 042
+recreation space
+use of residents
+residential
+I
+0495 00843
+a. Units with one or two bedrooms: 200
+square feet of lawn per unit.
+b. Units with three or more bedrooms: 300
+square feet of lawn per unit.
+C. Storage. Areas shall be provided in residen-
+tial developments for the storage of articles such
+as bicycles, barbecues, luggage, outdoor furni-
+ture, etc.
+D. Drainage. Surface drainage shall be contained
+on site."
+Section 34. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 25, " Off - Street Parking and
+Loading," subsection ( 4), " Number of Spaces Required," paragraph
+F), " Commercial," is amended by the addition of the following:
+Beauty parlor and 3 spaces for each of the
+barber shop first 2 beauty or barber
+chairs, and 1 1/ 2 spaces
+for each additional
+chair."
+Section 35. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 25A, " Special Setback Provisions
+on Certain Streets," is amended by the addition of the following:
+112. Landscape Strips and Special Building Lines -
+Purpose and Designation of Streets. The purpose of
+this provision is to conserve and enhance the appear-
+ance of the community along certain streets of special
+significance to the community. These streets are the
+entrance to the City for the traveling public and the
+most frequently used streets in the community by the
+general public. The deterioration of the general
+appearance of these streets will adversely affect the
+health, safety and general welfare of the people of the
+County. Therefore, there is hereby specified and
+hereby established on all properties abutting the
+following named streets and sections of streets a 10 -
+foot building setback line from the street right- of- way
+line. Said areas within this special setback shall be
+landscaped and continuously maintained by the property
+owner. Said landscaping shall be installed upon the
+enlargement of the principal structure on the property,
+the expansion of the use on the property or upon the
+change in use on any property within the specified
+sections of streets. Where applicable, the require-
+ments set forth in this provision shall supercede the
+yard requirements specified for the zones."
+22 - ORDINANCE NO. 88- 042
+0005 008
+Section 36. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 26, " Provisions Applying to
+Special Uses," is amended by the addition of the following:
+1125. Dwelling Groups.
+A. Purpose. This section is intended to make possible
+a more desirable living environment than would be poss-
+ible through a strict application of the provisions of
+this Ordinance. It is intended to encourage reserva-
+tion of a greater proportion of open space for visual
+and recreational uses; to encourage efficient, aesthe-
+tic and desirable uses of land; and to encourage
+greater diversity and variety in the physical develop-
+ment pattern of the County. A permit may not be issued
+for the erection of a dwelling group unless such dwell-
+ing group conforms to all of the following conditions
+and requirements:
+a. The area of the lot on which the dwelling
+group is to be erected shall be at least 20 per-
+cent greater than the aggregate of the minimum lot
+areas otherwise required for the individual dwell-
+ings in the group.
+b. Each building containing a dwelling in the
+group shall front either on a street or other
+public open space at least 50 feet wide or on a
+common yard or outer court, public or private, not
+less than 50 feet wide.
+c. The distances between two principal buildings
+shall not be less than the average of their
+heights and the distance between any principal
+buildings and the nearest lot line other than a
+front lot line shall not be less than the height
+of the building.
+d. Every building containing a dwelling in the
+group shall be within 60 feet of an access roadway
+or drive having a right- of- way of at least 20 -
+feet in width providing vehicular access from a
+public street.
+e. Such dwelling group shall conform to all of
+the requirements of this Ordinance for the dis-
+trict in which it is to be located, except as
+provided in this section.
+f. All dwelling groups shall be subject to site
+plan approval as provided in section 24."
+23 - ORDINANCE NO. 88- 042
+Y
+1126. Bed and Breakfast Inn. The inn shall be subject
+to an annual review for at least the first three years
+after which time, the Planning Director or Hearings
+Body, after public hearings, may approve a permanent
+permit for the inn. The following minimum standards
+shall also apply:
+A. All inns shall be owner - occupied.
+B. Each guest room shall have one off- street
+parking space, in addition to the parking required
+for the dwelling by the provisions of Section 25.
+C. All inns shall be inspected and approved by
+the County Building Official prior to the issuance
+of an occupancy permit. Inspection is limited to
+egress and fire protection. Dwellings must meet
+all requirements for egress as defined in the
+State of Oregon Uniform Building Code. A fee
+shall be paid for inspections.
+D. Only rooms designed as sleeping rooms shall be
+used for guest rooms. Guest rooms shall be pro-
+tected by a smoke detector as required by state
+code.
+E. There shall be at least 400 feet of separation
+along the same street between inns.
+F. Signing shall be in accordance with the County
+Sign Ordinance.
+G. The bed and breakfast inn shall maintain an
+up- to- date guest register listing all guests.
+H. If an approved inn is not established within
+one year of the approval date, or if the use of
+the residence as an inn lapses for over one year,
+the approval shall automatically expire and a new
+application will be required.
+I. All inns shall comply with the provisions of
+the County' s Transient Room Tax Ordinance, where
+applicable."
+1127. Temporary Use. Temporary structures and uses are
+permitted only after obtaining a temporary use permit
+from the Planning Director, and as follows:
+24 - ORDINANCE NO. 88- 042
+0095 0989
+A. In the CC, CL, CG, CH and CB zones:
+a. Christmas tree sales from November 26 to
+December 31.
+b. Fireworks sales from June 23 to July 5.
+c. Non- profit organizations' fund- raising
+sales if the non- profit status of said organ-
+ization is recognized by the Internal Revenue
+Service, not to exceed 15 days in any 60 - day
+period.
+B. In the CH zone, other temporary uses may be
+allowed for a period not to exceed 15 days in any
+60 - day period. Use of a parcel for more than one
+temporary use in any 60 - day period shall be sub-
+ject to site plan review in accordance with all
+standards of this Ordinance.
+C. All temporary uses allowed by Section ( 27) ( A) and
+B) above shall satisfy the following standards:
+a. All necessary permits shall be obtained
+from the County Environmental Health and
+Building Divisions.
+b. All signs shall not exceed a combined
+total of 32 square feet or a sign permit
+shall be obtained in accordance with the
+County Sign Ordinance.
+c. All material employed in the temporary
+use, such as produce, shelters and debris,
+shall be removed by the applicant or property
+owner at the end of the activity.
+d. Access and parking shall be adequate for
+the use."
+1128. Manufactured Homes.
+A. General Provisions.
+a. Manufactured home parks are permitted with
+site plan review approval in the RM and RH zones
+in accordance with the standards of this section
+and the standards for site plan approval.
+b. In addition, manufactured home parks and
+subdivisions may be planned under the provisions
+for planned developments, which may be used to
+25 - ORDINANCE NO. 88- 042
+0095 029
+provide for individual ownership of manufactured
+homes and sites and common ownership and mainte-
+nance of other lands and facilities.
+c. Manufactured home subdivisions for Class A
+manufactured homes are permitted with site plan
+approval in the RS zone in accordance with the
+standards in this section and all other provisions
+of this Ordinance. Manufactured home subdivisions
+for Class B manufactured homes are permitted as a
+conditional use in the RS zone in accordance with
+the standards of this Ordinance.
+d. Nothing in these provisions shall be inter-
+preted as superseding deed covenants or restric-
+tions.
+e. Except as otherwise provided by this section,
+the standards for subdividing and developing land
+within manufactured home parks and subdivisions
+shall be the same as for all other developments in
+accordance with the provisions of this Ordinance.
+f. State Requirements. Where standards for
+manufactured home developments are established by
+state law or Department of Commerce Administrative
+Rule, such requirements shall be in addition to
+the provisions of this section.
+g. Manufactured Housing Construction and Safety
+Standards Code ( also referred to as the HUD Code).
+Title VI of the 1974 Housing and Community Devel-
+opment Act ( 42 U. S. C. 5401 et seq), as amended
+previously known as the Federal Mobile Home Con-
+struction and Safety Act), rules and regulations
+adopted thereunder ( including information supplied
+by the home manufacturer, which has been stamped
+and approved by a Design Approval Primary Inspec-
+tion Agency, and agent of the U. S. Department of
+Housing and Urban Development pursuant to HUD
+rules), and regulations and interpretations of
+said code by the Oregon Department of Commerce,
+all of which became effective for mobile/ manufac-
+tured home construction on June 15, 1976, shall be
+utilized as the minimum construction standard of
+the County to which all manufactured home place-
+ments shall comply except as may be exempted by
+this section.
+h. Definitions. For purposes of this section
+only, the definitions of terms used herein and not
+defined in Section 4 of this Ordinance shall be as
+26 - ORDINANCE NO. 88- 042
+defined in ORS Chapter 446 or Oregon Administra-
+tive Rules Chapter 814, Division 23, as amended.
+B. Manufactured Home Classes. For purposes of these
+regulations, manufactured homes are divided into the
+following types:
+a. A Class A manufactured home shall:
+1. Have more than one thousand ( 1, 000)
+square feet of occupied space in a double -
+section or larger multi - section unit;
+2. Be placed onto a permanent foundation as
+specified in Section 26( 28)( C)( b);
+3. Have wheels, axles and hitch mechanisms
+removed;
+4. Have utilities connected in accordance with
+Oregon Department of Commerce requirements and
+manufacturer' s specifications;
+5. Bear an insignia of compliance with the
+Manufactured Housing Construction and Safety
+Standards Code and be either:
+i. A new, not previously occupied unit;
+or
+ii. A unit which is found, upon inspec-
+tion, to be in good condition and free
+of structural, electrical, mechanical
+and plumbing defects, any of which must
+be corrected prior to placement.
+6. Have shake, shingle, composition or tile
+roofing materials similar in appearance to
+the most predominant type in the area. The
+roof pitch shall be a minimum of 3/ 12;
+7. Siding materials and trim shall be simi-
+lar in appearance or complementary to other
+homes in the area including the type, color
+and horizontal or vertical placement of mate-
+rials;
+8. If a garage or
+it shall be of like
+the dwelling;
+27 - ORDINANCE NO. 88- 042
+carport will be provided,
+materials and color to
+b.
+C.
+0095 000,2
+9. The location and design of porches,
+patios, driveways, walkways and landscaping
+shall be reflective of and complementary to
+the features of homes in the area;
+10. If new and previously unoccupied, shall
+be certified to meet energy efficiency per-
+formance standards equivalent to energy effi-
+ciency standards required of homes conforming
+to the Uniform Building Code.
+A Class B manufactured home shall:
+1. Have more than seven hundred fifty ( 750)
+square feet of occupied space in a single,
+double, expando or multi - section unit ( in-
+cluding those with add - a - room units);
+2. Be placed onto a permanent foundation as
+required in section 26( 28)( C)( b) of this
+Ordinance;
+3. Have wheels, axles and hitch mechanisms
+removed;
+4. Have utilities connected in accordance
+with manufacturer' s specifications and Oregon
+Department of Commerce requirements;
+5. Bear an insignia of compliance with the
+Manufactured Housing Construction and Safety
+Standard Code as of June 15, 1976;
+6. Have composition, shake, shingle or tile
+roofing materials and a minimum pitch of
+2/ 12;
+7. Have non - reflective siding materials and
+trim typical of new conventional built homes
+within the community;
+8. Have a carport or garage of like mate-
+rials and color;
+9. Be in good repair and free of structural,
+electrical, mechanical and plumbing defects,
+any of which must be corrected prior to
+placement.
+A Class C manufactured home shall:
+1. Have more than three hundred and twenty
+320) square feet of occupied space in a
+28 - ORDINANCE NO. 88- 042
+R 11 e, ,
+0095 0093
+single, double, expando or multi - section unit
+including those with add - a - room units);
+2. Be placed onto a support system in accor-
+dance with approved installation standards as
+specified in Section 26( 28)( C)( b);
+3. Be enclosed with foundation siding/ skirt-
+ing in accordance with approved installation
+standards as specified in Section
+26( 28)( C)( b);
+4. Have utilities connected in accordance
+with manufacturer' s specifications and Oregon
+Department of Commerce requirements;
+5. Bear an insignia of compliance with the
+Manufactured Housing Construction and Safety
+Standards Code as of June 15, 1976;
+6. Be in good repair and free of structural,
+electrical, mechanical and plumbing defects,
+any of which must be corrected prior to
+placement.
+d. A Class D manufactured home is any manufac-
+tured home built prior to June 15, 1976, and under
+ORS Chapter 481 is not defined as a recreation
+vehicle. For purposes of determining appropriate-
+ness for placement, Class D manufactured homes
+shall:
+1. Have more than three hundred and twenty
+320) square feet of occupied space;
+2. Be placed onto a support system in accor-
+dance with approved installation standards as
+specified in Section 26( 28)( C)( b);
+3. Be enclosed with foundation siding/ skirt-
+ing in accordance with approved installation
+standards as specified in Section
+26 ( 28) ( C) ( b) ;
+4. Have utilities connected in accordance
+with manufacturer' s specifications and Oregon
+Department of Commerce requirements;
+5. Be in good repair and free of structural,
+electrical, mechanical and plumbing defects,
+any of which must be corrected prior to
+placement.
+29 - ORDINANCE NO. 88- 042
+C. Manufactured Home Placement Standards. All manu-
+factured homes placed within the Bend Urban Area after
+the effective date of this Ordinance shall comply with
+the following:
+a. As defined in Section ( 28)( B), each manufac-
+tured home shall be classified as Class A, B, C or
+D, and shall be permitted within the following
+areas:
+1. Class A - Permitted in manufactured home
+subdivisions in the RS zone and in manufac-
+tured home parks, and as replacements to
+existing nonconforming manufactured homes.
+2. Class B - Permitted in manufactured home
+subdivisions approved as a conditional use in
+the RS zone and manufactured home parks, also
+permitted as replacements for existing non-
+conforming manufactured homes which would be
+classified as Class B, C or D.
+3. Class C - Permitted in all manufactured
+home parks. Also allowed as replacements for
+existing nonconforming manufactured homes in
+a manufactured home subdivision or park for
+units which would be classified as Class C or
+D and as replacements to any other Class D
+unit.
+4. Class D - Permitted only in manufactured
+home parks.
+b. Foundations/ Skirting Support Systems.
+1. All load bearing foundations, supports
+and enclosures shall be installed in confor-
+mance with the Oregon Department of Commerce
+regulations and with the manufacturer' s
+installation specifications ( reference OAR
+Chapter 814, Division 23). Where required,
+all perimeter foundations shall be con-
+structed in accordance with the " Oregon State
+Structural Specialty Code".
+2. All Class A and Class B manufactured
+homes outside of manufactured home parks
+shall be set onto an excavated area with
+perimeter foundation, and the excavated area
+shall be backfilled.
+30 - ORDINANCE NO. 88- 042
+995 9095
+3. Class A and B manufactured homes located
+in manufactured home parks and Class C and D
+manufactured homes must have perimeter found-
+ations as specified above or be installed
+with an approved foundation siding/ skirting
+enclosing the entire perimeter of the home.
+Foundation siding/ skirting and backup framing
+shall be weather- resistent, non- combustible
+or self - extinguishing materials which blend
+with the exterior siding of the home. Mate-
+rials below - grade level and for a minimum
+distance of six ( 6) inches above finish grade
+shall be resistant to decay or oxidation.
+The siding shall be installed in accordance
+with manufacturer' s recommendation or approv-
+ed equal standards.
+c. Except for a structure which conforms to the
+state definition of a mobile home accessory struc-
+ture, no other extension shall be attached to a
+manufacture home, except a garage or carport
+constructed to the Oregon State Structural Spe-
+cialty Code.
+d. All manufactured home lots and spaces shall be
+provided with storm drainage, sanitary sewer,
+electric, telephone and potable water utility
+services with easements dedicated where necessary
+to provide such services. All such utilities
+shall be located underground unless waived by the
+Planning Director where underground service would
+require an exception to local prevalent condi-
+tions.
+e. Manufactured homes shall not be used for
+living purposes unless connected to local water,
+sewers and electrical systems.
+D. Manufactured Home Subdivisions.
+a. Minimum Area Required. A manufactured home
+subdivision shall consist of a minimum area of
+five acres. Manufactured home subdivisions for
+Class B manufactured homes or manufactured home
+subdivisions or expansions thereof less than five
+acres in size may be considered by conditional use
+permit application.
+b. Lot Size and Dimension Requirements. The
+minimum lot area and dimensions within a manufac-
+tured home subdivision shall be the same as that
+allowed within the zone.
+31 - ORDINANCE NO. 88- 042
+0095 0096
+c. Permitted Uses. Manufactured home subdivi-
+sions may contain manufactured homes and related
+accessory structures.
+d. Setbacks. Setbacks for manufactured homes,
+modular homes and accessory structures shall be
+the same as provided in the zone, except that no
+manufactured home shall be located within 15 feet
+of another manufactured home.
+E. Manufactured Home Parks.
+a. Minimum Area Required. All manufactured home
+parks shall consist of a minimum area of five
+acres.
+b. Density. The maximum number of manufactured
+homes allowed within a manufactured home park
+shall not exceed 10 units per acre. The average
+area of a mobile home site shall not be less than
+4, 000 square feet, excluding roadway, recreation
+areas and other accessory facilities. No manufac-
+tured home site shall be less than 2, 000 square
+feet in area.
+c. Access. Manufactured home park accesses shall
+be located on public streets improved to a minimum
+width of 36 feet and which are improved to a point
+intersecting a collector or arterial street.
+d. Permitted Use. Manufactured home parks may
+contain manufactured homes and accessory struc-
+tures permitted in Section 28, community laundry
+and recreation facilities and other common build-
+ings for use by park residents only, and one
+residence which may be other than a manufactured
+home for the use of a caretaker or a manager
+responsible for maintaining or operating the
+property.
+e. Minimum Site Requirements.
+1. Park Streets. The minimum surfaced width
+of the roadway within an accessway shall be
+24 feet if there is no parking allowed and 30
+feet if parking is allowed on both sides.
+The first 50 feet of the accessway, measured
+from the public street, shall be surfaced to
+a minimum width of 30 feet and shall be con-
+nected to the existing public street
+according to plans approved by the County
+Public Works Department.
+32 - ORDINANCE NO. 88- 042
+0095 0097
+2. Improvement Standards. The improvement
+of driveways, walkways, streets, drainage and
+other utilities shall conform to adopted
+state standards for such or shall conform to
+the County' s standard specifications manual,
+whichever is more restrictive."
+Section 37. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 26, " Provisions Applying to
+Special Use Standards," subsection ( 16), " Nursery Schools and
+Kindergartens and Day Care Facilities," is amended to read as
+follows:
+1116. Day Care Facility. Day care facilities shall
+have a minimum site size of 5, 000 square feet and shall
+provide and thereafter maintain outdoor play areas with
+a minimum area of 100 square feet per child of total
+capacity. All outside play shall be enclosed by a
+fence of at least four feet but not more than six feet
+in height. Day care facilities and nursery schools
+shall provide adequate off- street parking and loading
+spaces and may be required to provide a driveway de-
+signed for continuous forward flow of passenger vehic-
+les for the purposes of loading and unloading."
+Section 38. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 27, " Interpretations and Excep-
+tions," subsection 2, " Accessory Structures and Uses," is amended
+to read as follows:
+112. Accessory Uses and Structures.
+A. A greenhouse or hothouse may be maintained acces-
+sory to a dwelling provided there are no sales.
+B. A guest house may be maintained accessory to a
+dwelling provided there are no cooking facilities.
+C. An accessory building shall not be located within
+10 feet of a principal dwelling existing or under con-
+struction on the same lot.
+D. Site - obscuring fences may be located in a required
+front yard or in a vision clearance area provided that
+they shall not exceed 2 1/ 2 feet in height measured
+from the top of the curb.
+E. Solar panels, collectors or other similar solar
+devices may be maintained as accessory structures."
+33 - ORDINANCE NO. 88- 042
+Section 39. Ordinance No.
+Ordinance, as amended, Section
+amended to read as follows:
+PL - 11, Bend Urban Area Zoning
+28, " Nonconforming Uses," is
+1128. Nonconforming Uses. Except as otherwise
+provided in this Ordinance, the lawful use of a build-
+ing, structure or land existing on the effective date
+of this Ordinance, or any amendment thereto, may be
+continued although such use does not conform with this
+Ordinance. Such nonconforming use may be altered,
+restored or replace in accordance with this section.
+No nonconforming use may be resumed after a period of
+interruption or abandonment unless the resumed use
+conforms with the provisions of this Ordinance in
+effect at the time of the proposed resumption.
+1. Verification of Nonconforming Use. Verification
+of the existence of a nonconforming use shall be re-
+quired prior to or concurrently with any application to
+alter or restore the use. The burden shall be upon the
+applicant for alteration or restoration of a noncon-
+forming use to demonstrate its lawful existence. The
+applicant shall demonstrate all of the following:
+a. The nonconforming use was lawful on the effec-
+tive date of the provisions of this Ordinance
+prohibiting the use.
+b. The nonconforming use was actually in exis-
+tence on the effective date of the provisions of
+this Ordinance prohibiting its use, or had pro-
+ceeded so far toward completion that a right to
+complete and maintain the use would be deemed to
+have vested.
+c. The nonconforming use has existed contin-
+uously, or if it has not existed continuously, has
+not been abandoned, or has not been interrupted
+for a period in excess of one ( 1) year.
+The decision verifying the nonconforming use shall be
+made by the Planning Director and shall be appealable
+pursuant to the provisions of the county land use
+procedures ordinance.
+2. Maintenance of Nonconforming Use. Normal mainte-
+nance of a verified nonconforming use shall be per-
+mitted provided that no alterations in the use or
+structure are made which change the size or outward
+appearance of the nonconforming use.
+34 - ORDINANCE NO. 88- 042
+0005 0009
+3. Restoration or Replacement of Nonconforming Use. A
+verified nonconforming use may be restored or replaced
+if all of the following criteria are met:
+a. The nonconforming use has been damaged or destroyed
+by fire or other casualty or natural disaster.
+b. The nonconforming use is restored or replaced
+on the same location as it existed prior to damage
+or destruction.
+c. The restoration or replacement of the noncon-
+forming use is commenced within one ( 1) year of
+the damage or destruction.
+4. Alteration of a Nonconforming Use.
+a. The alteration of a nonconforming use shall be
+permitted when necessary to comply with any lawful
+requirement.
+b. In all cases other than that described in
+paragraph ( a) above, alteration of a nonconforming
+use or structure or physical improvements shall be
+permitted when all of the following criteria are
+met:
+1. The alteration in is necessary to reason-
+ably continue the nonconforming use.
+2. The alteration will have no greater
+adverse impact upon the neighborhood.
+c.
+Any alteration to a nonconforming use per-
+mitted under this section also shall be subject to
+all applicable provisions of this Ordinance,
+including site plan review under Section 24."
+Section 40. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 29, " Conditional Use Permits," is
+amended to read as follows:
+Section 29. CONDITIONAL USE PERMITS.
+111. Purpose. In certain zones, conditional uses may
+be permitted subject to the granting of a conditional
+use permit. Because of their unusual characteristics
+or the special characteristics of the area in which
+they are to be located, conditional uses require spe-
+cial consideration so that they may be properly located
+with respect to the objectives of this Ordinance and
+35 - ORDINANCE NO. 88- 042
+0095 0 u"
+the effect of the conditional use on surrounding prop-
+erties.
+112. The Planning Director or Hearings Body shall have
+the authority to approve, approve with conditions,
+disapprove or revoke conditional use permits subject to
+the provisions of this section.
+113. General Conditional Use Criteria. A conditional
+use permit may be granted only upon findings by the
+Planning Director or Hearings Body that the proposal
+meets all of the criteria in this section, as well as
+all other applicable criteria contained in this Ordi-
+nance. The general criteria are:
+A. That the location, size, design and operating
+characteristics of the proposed use are such that
+it will have minimal adverse impact on the prop-
+erty value, livability and permissible development
+of the surrounding area. Consideration shall be
+given to compatibility in terms of scale, coverage
+and density with the alteration of traffic pat-
+terns and the capacity of surrounding streets and
+to any other relevant impact of the proposed use.
+B. That the site planning of the proposed use
+will, as far as reasonably possible, provide an
+aesthetically pleasing and functional environment
+to the highest degree consistent with the nature
+of the use and the given setting.
+C. That if the use is permitted outright in
+another zone, there is substantial reason for
+locating the use in an area where it is only
+conditionally allowed, as opposed to an area where
+it is permitted outright.
+D. That the proposed use will be consistent with
+the purposes of this Ordinance, the Comprehensive
+Plan, Statewide Goals and any other applicable
+statutes, ordinances or policies.
+114. Application. A request for a conditional use may
+be initiated by a property owner or his authorized
+agent by filing an application with the Planning
+Director. The application shall be accompanied by a
+site plan, drawn to scale, showing the dimensions and
+arrangement of the proposed development. The Planning
+Director or Hearings Body may request other drawings or
+material essential to an understanding of the proposed
+use and its relationship to the surrounding properties.
+36 - ORDINANCE NO. 88- 042
+0095 0101
+115. Review of Application. Before a conditional use
+is permitted, the conditional use shall be reviewed as
+a land use permit consistent with the procedures estab-
+lished by the County land use procedures ordinance.
+116. Action on an Application. The Planning Director
+or Hearings Body may approve, approve with conditions
+or disapprove the application for a conditional use
+permit subject to the land use procedures ordinance.
+In permitting a conditional use, the Planning Director
+or Hearings Body may impose, in addition to regulations
+and standards expressly specified in this Ordinance,
+other conditions found necessary to protect the best
+interests of the surrounding property or neighborhood
+or the urban area as a whole. Any future enlargement
+or alteration of the use shall be reviewed by the
+County and new conditions may be imposed.
+A. In order to grant any conditional use, the
+Planning Director or Hearings Body must find that
+the establishment, maintenance or operation of the
+use applied for will not, under the circumstances
+of the particular case, be detrimental to the
+health, safety or general welfare of persons
+residing or working in the neighborhood of such
+proposed use, or be detrimental or injurious to
+the property and improvements in the neighborhood
+or to the general welfare of the urban area.
+B. A conditional use permit shall become void one
+year after approval, or after such greater or
+lesser time as may be specified as a condition of
+approval, unless within that time the required
+building construction, alteration or enlargement
+has been commenced and diligently pursued or, if
+no such construction, alteration or enlargement is
+required, unless the permitted activity is being
+regularly conducted in the premises. Upon re-
+quest, the Planning Director or Hearings Body may
+extend the permit for a period of one year.
+117. Special Requirements. The request for a building
+to exceed 45 feet in height shall be considered in
+light of the Fire Department' s fire fighting apparatus
+and the location of that apparatus. The community
+should have adequate apparatus before taller structures
+are allowed."
+Section 41. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 30, " Planned Unit Development
+Approval," is amended to read as follows:
+37 - ORDINANCE NO. 88- 042
+0095 0. 02
+Section 30. PLANNED UNIT DEVELOPMENT APPROVAL.
+111. Hearings Body - Approval Required. Where use is
+made of the planned unit development process as pro-
+vided in this section, no building or other permit
+shall be issued for such development or part thereof
+until the Hearings Body or Planning Director has ap-
+proved said development.
+112. Application. The owner or authorized agent may
+file an application for planned unit development appro-
+val with the Hearings Body or Planning Director. The
+application shall be accompanied by a filing fee in an
+amount established by the County Commission.
+113. Minimum Size for Planned Unit Developments. No
+application shall be accepted for an area of less than
+10 acres in any R zone, or for an area of less than 4
+acres in any other zone.
+114. Limitation on Application. No application shall
+be accepted for a use which will require a change of
+zone unless accompanied by an application for a zoning
+amendment as set forth in Section 33.
+115. Plan Required. All applications shall be accom-
+panied by a general development plan drawn to scale
+showing the use or uses, dimensions and locations of
+proposed structures and of areas to be reserved for
+vehicular and pedestrian circulation, parking, public
+uses, landscaping and other open spaces and drawings
+and sketches demonstrating the design and character of
+the proposed uses and the physical relationships of the
+uses. Such other pertinent information shall be in-
+cluded as may be considered necessary by the Hearings
+Body or Planning Director to make a determination that
+the contemplated arrangement or use makes it necessary
+and desireable to apply regulations and requirements
+differing from those ordinarily applicable under this
+Ordinance and the Subdivision Ordinance.
+116. Standards for Approval. In granting approval for
+planned unit development, the Hearings Body or Planning
+Director shall be guided by the following:
+A. Whether applicant has, through investigation,
+planning and programming, demonstrated the sound-
+ness of his proposal and his ability to carry out
+the project as proposed, and whether the construc-
+tion shall begin within six months of the conclu-
+sion of any necessary action by the County, or
+38 - ORDINANCE NO. 88- 042
+CS a': 7e3'
+within such longer period of time as may be estab-
+lished by the Hearings Body or Planning Director.
+B. Whether the proposal conforms with the general
+plans of the County in terms of location and
+general development standards.
+C. Whether the project will accrue benefits to
+the County and the general public in terms of
+need, convenience, service and appearance suffi-
+cient to justify any necessary exceptions to the
+regulations of the Zoning and Subdivision Ordi-
+nance.
+D. Whether the project will satisfactorily take
+care of the traffic it generates by means of
+adequate off- street parking, access points and
+additional street right- of- way and improvements
+and any other traffic facilities required.
+E. Whether the project will be compatible with
+adjacent developments and will not adversely
+affect the character of the area.
+F. Whether the project will satisfactorily take
+care of sewer and water needs consistent with the
+Bend Urban Area General Plan.
+G. A planned unit development shall not be ap-
+proved in any R zone if the housing density of the
+proposed development will result in an intensity
+of land use greater than permitted by the Compre-
+hensive Plan.
+117. Standards and Requirements. Approval of a request
+for a planned unit development is dependent upon the
+submission of an acceptable plan and satisfactory
+assurance that it will be carried out. The following
+minimum standards and requirements shall apply:
+A. A dwelling use permitted in any zone may be
+permitted in a planned unit development.
+B. A mobile home may be permitted in a planned
+unit development. However, mobile home parks
+shall not be allowed in any commercial or indus-
+trial zone.
+C. Developments which either provide for or
+contemplate private streets and ways and common
+areas which will be or are proposed to be main-
+tained by the owners of units or lots within a
+39 - ORDINANCE NO. 88- 042
+0095 0104
+development must organize and maintain an owners'
+association. The owners' association shall con-
+sist of all the owners of units or lots within the
+development and membership in the association must
+be required of all owners; adopt and record bylaws
+as provided by ORS 91. 555; adopt bylaws that
+contain the provisions required by ORS 91. 560; and
+have the power to create a lien upon the unit or
+lot for services, labor or material lawfully
+chargeable as common expenses as provided in ORS
+91. 580. The association' s power to create such a
+lien shall exist whether or not the property is
+subject to the Oregon Unit Ownership Law ( ORS
+91. 505 - 91. 675.)
+D. If the property is not subject to the Unit
+Ownership Law, the association shall also create,
+by contract, the right to claim a lien upon any
+unit or lot for services, labor or material
+chargeable as common expenses. This lien may be
+created by covenants between the association and
+the property owners and shall supplement the lien
+created by ( C) above and require all owners of
+units or lots within the development to consent to
+and pay the reasonable value of services, labor or
+material expended by the County for common ex-
+penses where such County expenditures are made
+because the owners or the owners' association does
+not provide the necessary services, labor or
+material for common expenses.
+E. Streets and roads in planned unit development
+designated developments shall be public roads and
+ways developed to County standards or be private
+roads of a minimum 14 feet wide paved surface for
+one- way traffic, minimum 20 feet wide paved sur-
+face for two- way traffic, and parallel parking as
+permitted shall require minimum additional 8 feet
+of width for each side of parking. In addition to
+these requirements, the Planning Director or
+Hearings Body may specify other requirements
+including, but not limited to, increased or de-
+creased pavement width.
+F. Pedestrian walkways shall be provided for
+adequate pedestrian and bicycle traffic and shall
+be constructed with Portland cement or asphaltic
+concrete to County standards, except as varied by
+the provisions of this section or by the Planning
+Director or Hearings Body.
+40 - ORDINANCE NO. 88- 042
+0005 0105
+G. All utility facilities shall be installed
+underground and in accordance with County stan-
+dards.
+H. The design of all planned unit development
+projects shall provide direct access for all units
+and lots to open space areas and facilities.
+I. A statement must be submitted relative to the
+solar access to be provided by the planned unit
+development.
+8. Hearings Body Action. In taking action, the
+Planning Director or Hearings Body may approve, approve
+with conditions or deny an application as submitted.
+Any planned unit development as authorized shall be
+subject to all conditions imposed and shall be excepted
+from other provisions of this Ordinance only to the
+extent specified in said authorization. Any approval
+of a planned unit development granted hereunder shall
+lapse and become void unless within 12 months after the
+final granting of approval or within such other period
+of time as may be stipulated by the Hearings Body or
+Planning Director as a condition of such approval,
+construction of the buildings or structure involved in
+the development has begun and been diligently pursued.
+The Planning Director or Hearings Body may further
+impose other conditions limiting the time within which
+the development of portions thereof must be completed.
+The decision of the Planning Director or Hearings Body
+shall be final unless appealed in accordance with the
+procedures set forth in the land use procedures ordi-
+nance.
+119. Violation of Conditions. The Planning Director or
+Hearings Body on its own motion may revoke any planned
+unit development approval for non- compliance with the
+conditions set forth in the order granting the said
+approval, after first holding a public hearing and
+giving notice of such hearing as provided in the land
+use procedures ordinance. The foregoing shall not be
+the exclusive remedy, and it shall be unlawful and an
+offense punishable hereunder for any person to con-
+struct any improvement in violation of any condition
+imposed by the order granting the planned unit develop-
+ment approval."
+Section 42. Ordinance No.
+Ordinance, as amended, Section
+read as follows:
+41 - ORDINANCE NO. 88- 042
+PL - 11, Bend Urban Area Zoning
+31, " Variances," is amended to
+0095 0106
+Section 31. VARIANCES.
+111. Authorization to Grant or Deny Variances. Except
+as provided in subsection ( 3), the Planning Director or
+Hearings Body may authorize variances from the stan-
+dards of this Ordinance where it can be shown that,
+owing to special and unusual circumstances related to a
+specific piece of property, the literal interpretation
+of this Ordinance would cause an undue or unnecessary
+hardship; except that no variance shall be granted to
+allow the use of the property for purposes not autho-
+rized within the pertinent zone or to alter any proce-
+dural requirements of this Ordinance. In granting a
+variance, the Planning Director or Hearings Body may
+attach conditions necessary to protect the best inter-
+est of the surrounding property or neighborhood and to
+otherwise achieve the purposes of this Ordinance.
+112. Criteria. No variance shall be granted pursuant
+to the provisions of subsection ( 1) unless the appli-
+cant can establish:
+A. That special conditions exist which are pecu-
+liar to the land, structure or building involved
+and which are not applicable to other lands,
+buildings or structures in the same zone; and
+B. That strict interpretation of the provisions
+of this Ordinance would deprive the applicant of
+rights commonly enjoyed by other properties in the
+same zone under the terms of this Ordinance; and
+C. That the special conditions and circumstances
+do not result from the actions of the applicant
+and such conditions and circumstances do not
+merely constitute pecuniary hardship or inconve-
+nience; and
+D. That granting the variance will be in harmony
+with the objectives of this Ordinance and not
+injurious to the neighborhood or otherwise detri-
+mental to the public welfare.
+113. Authorization to Grant or Deny Variances to On -
+Site Requirements. The Planning Director or Hearings
+Body may authorize a variance from the standards of
+this Ordinance relating to on- site requirements ( e. g.
+yards, parking, etc.), provided that no variance under
+this section shall be greater than 25% of the setback,
+parking or other similar area requirement from which
+the variance is sought.
+42 - ORDINANCE NO. 88- 042
+0095 0107
+114. Criteria for Variances Granted Under Subsection
+M-
+A. In the case of a yard variance, the applicant
+shall show the approval will result in:
+a. More efficient use of the site; and
+b. Preservation of natural features, where
+appropriate; and
+c. Adequate provisions of light and privacy
+to adjoining properties; and
+d. Preservation of natural features of the
+site ( topography, vegetation and drainage)
+which would be adversely affected by applica-
+tion of required parking standards, where
+appropriate.
+115. Application for a Variance. A property owner may
+initiate a request for a variance by filing an applica-
+tion with the Planning Director. The application shall
+be accompanied by a plan, drawn to a suitable scale,
+showing the condition to be varied and the dimensions
+and arrangement of the proposed development. The
+application shall be reviewed in the manner provided
+for in the County' s land use procedures ordinance."
+Section 43. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 32, " Revocation of Permits or
+Variances," is amended to read as follows:
+Section 32. REVOCATION OF PERMITS OR VARIANCES.
+111. Revocation for Non - Compliance With Conditions.
+Any planned unit development permit, conditional use
+permit or variance granted in accordance with the terms
+of this Ordinance may be revoked if any of the condi-
+tions or terms of such permit or variance are violated,
+or if any law or ordinance is violated in connection
+therewith. If, after notice and hearing, a planned
+unit development permit is revoked for a substantial
+violation of any of its conditions, the Board of County
+Commissioners may reconsider any zone change granted in
+connection with the planned unit development and
+restore the zoning existing prior to the permit
+notwithstanding improvements constructed prior to such
+revocations, but any such proposed change of zone shall
+follow the procedures otherwise specified for zone
+changes herein.
+43 - ORDINANCE NO. 88- 042
+112. Public Hearing. The Planning Director or Hearings
+Body shall hold a public hearing on any proposed revo-
+cation after giving written notice to the permittee and
+to other owners of property as set forth in the land
+use procedures ordinance. The Planning Director or
+Hearings Body shall render its decision within 45 days
+after the conclusion of the hearing. If the permittee
+is not satisfied with the action of the Commission, the
+permittee may appeal the Planning Director' s or Hear-
+ings Body' s decision to the Board of County Commis-
+sioners in the manner provided in this section and the
+land use procedures ordinance."
+Section 44. Ordinance No. PL - 11, Bend Urban Area Zoning
+Ordinance, as amended, Section 33, " Amendments," subsection ( 3),
+Standards for Zone Change," is amended to read as follows:
+113. Standards for Zone Chancre. The burden of proof is
+upon the one seeking change. The degree of that burden
+increases proportionately with the degree of impact of
+the change which is sought. The applicant shall in all
+cases establish:
+A. That the change conforms with the Comprehen-
+sive Plan. Specifically, the change is consistent
+with the plan' s intent to promote an orderly
+pattern and sequence of growth.
+B. That the change will not interfere with exist-
+ing development, development potential or value of
+other land in the vicinity of the proposed action.
+C. That the change in classification for the
+subject property is consistent with the purpose
+and intent of the proposed zone classification.
+D. That the change will result in the orderly and
+efficient extension or provision of public ser-
+vices. Also, that the change is consistent with
+the County' s policy for provision of public facil-
+ities.
+E. That there is proof of a change of circum-
+stance or a mistake in the original zoning."
+Section 45. In support of the Amendments contained in sec-
+tions 1 through 44 of this Ordinance, the Board of County Commis-
+sioners adopts as its findings and conclusions the documents
+entitled " Deschutes County Periodic Review Order for the Bend
+Urban Growth Boundary," " Deschutes County Periodic Review Order
+for the Sisters Urban Growth Boundary" and " Deschutes County
+Periodic Review Order for the Redmond Urban Growth Boundary,"
+44 - ORDINANCE NO. 88- 042
+0005 0 . 09
+attached hereto as Exhibits " A," " B" and " C," respectively, and
+incorporates by this reference as if fully set forth herein.
+Section 46. This Ordinance being necessary for the imme-
+diate preservation of the public peace, health and safety, an
+emergency is declared to exist, and this Ordinance takes effect
+on its passage.
+DATED this 1?( 4
+day of 988.
+DESCHUTES COUNTY BOARD
+OF. 60UNZY COMMISSIONERS
+PRANTE, Commissioner
+A E9T: M OOP, issioner
+L-1
+ecording Secretary D MA LI , thkirman
+45 - ORDINANCE NO. 88- 042
+0005 Clio
+EXHIBIT " A"
+DESCHUTES COUNTY PERIODIC REVIEW ORDER
+FOR THE BEND URBAN GROWTH BOUNDARY
+I. Introduction. In Deschutes County, the cities have taken
+the lead in the review of ORS 197. 640 for periodic review.
+The City of Bend Periodic Review Order is being adopted by
+Deschutes County based upon the findings contained in the
+City document entitled " The City of Bend Periodic Review
+Order."
+II. Background Information.
+A. Since the acknowledgment of the Bend Area General Plan
+by LCDC on June 25, 1981, the following amendments have
+been made by the County:
+1. The adoption of the Bend Urban Area General Plan
+Ordinance No. 80- 216 ( 12/ 18/ 80).
+2. An ordinance adopting PL - 11, the Bend Urban Area
+Zoning Ordinance, Ordinance No. 80- 217 ( 12/ 18/ 80).
+3. An Ordinance Creating a joint Bend Urban Area
+Planning Commission, Ordinance No. 80- 226
+12/ 18/ 80).
+4. An ordinance amending PL - 11 to provide for plant
+nurseries as a conditional use in residential
+zones, Ordinance No. 81- 006 ( 3/ 12/ 81).
+5. The Deschutes County Sign Ordinance, Ordinance
+No. 81- 009 ( 4/ 8/ 81).
+6. An ordinance replacing the Phase II Sewer Boundary
+for the Bend Urban Area, Ordinance No. 81- 019
+5/ 9/ 81).
+7. An ordinance adopting the Deschutes County Sub-
+division/ Partition ordinance, Ordinance No. 81- 043
+12/ 31/ 81).
+8. An ordinance amending PL - 10, the Bend Urban
+General Plan, to redesignate certain property
+within the Urban Growth Boundary, Ordinance
+No. 81- 004 ( 12/ 3/ 81).
+9. An ordinance amending PL - 11, to rezone certain
+properties within the Bend Urban Growth Boundary,
+Ordinance No. 81- 045 ( 4/ 6/ 81).
+1 - EXHIBIT " A"
+9095 0111
+10. Ordinance No. 82- 009, an ordinance amending PL - 11
+2/ 17/ 82) .
+11. Ordinance No. 82- 011, the Deschutes County Proced-
+ural Ordinance ( 8/ 3/ 82).
+12. An ordinance amending PL - 11, rezoning certain
+properties zoned RS to CH ( 4/ 21/ 82).
+13. An ordinance amending PL - 11, rezoning certain
+property from RL to CH, Ordinance No. 82- 020
+4/ 21/ 82).
+14. An ordinance amending PL - 11, rezoning certain
+property from RL to CH, Ordinance No. 82- 025
+6/ 8/ 82).
+15. An ordinance amending the north corridor section
+of the Comprehensive Plan, Ordinance No. 82- 019
+7/ 7/ 82).
+16. An ordinance amending PL - 11 by adding Destination
+Resorts as a conditional use, Ordinance No. 82- 038
+9/ 15/ 82) .
+17. An ordinance amending PL - 10, the Bend Urban Area
+Comprehensive Plan, by adding Destination Resorts,
+Ordinance No. 82- 019 ( 9/ 15/ 82).
+18. An ordinance amending PL - 11 regarding location of
+churches, Ordinance No. 82- 044 ( 11/ 9/ 82).
+19. An ordinance amending PL - 11 changing certain
+property from UAR- 10 to Highway Commercial and
+Highway Commercial to UAR- 10, Ordinance No. 83- 024
+3/ 3/ 83).
+20. An ordinance amending PL - 11 to provide certain
+remedies for zoning infractions, Ordinance
+No. 83- 032 ( 3/ 23/ 83).
+21. An ordinance amending Ordinance 82- 011, the County
+Uniform Procedures Ordinance, by providing for
+Solar Access Procedures, Ordinance No. 83- 038
+6/ l/ 83).
+22. An ordinance amending Ordinance No. 81- 043, the
+Deschutes County Subdivision/ Partition Ordinance
+to provide Solar Access performance standards,
+Ordinance No. 83- 039 ( 6/ 1/ 83).
+2 - EXHIBIT " A"
+0095 0112
+23. An ordinance amending PL - 11 to provide for build-
+ing setback and solar access protection, Ordinance
+No. 83- 041 ( 6/ 1/ 83).
+24. An ordinance amending the General Plan redesigna-
+ting Murphy Road from a local street to a
+collector and redesignating Woodside Court to a
+local street, Ordinance No. 83- 042 ( 4/ 20/ 83).
+25. An ordinance adding the definitions for Time Share
+Units as a conditional use in PL - 11, Ordinance
+No. 83- 045 ( 6/ 15/ 83).
+26. An ordinance amending the County Land Use Proce-
+dures Ordinance, deleting the Planning Commission
+from the quasi- judicial hearings body order,
+Ordinance No. 83- 051 ( 6/ 15/ 83).
+27. An ordinance amending Ordinance No. 80- 226,
+creating a joint Bend Urban Area Planning Commis-
+sion, Ordinance No. 84- 006 ( 4/ 4/ 84).
+28. An ordinance amending the road or street minimum
+design standards of Ordinance 81- 043, the
+Deschutes County Subdivision/ Partition Ordinance,
+Ordinance No. 85- 024 ( 8/ 14/ 85).
+29. An ordinance amending the Bend Area General Plan
+adopting a transportation circulation element and
+adopting a bike plan map, Ordinance No. 85- 025
+8/ 14/ 85).
+30. An ordinance to amend PL - 11, the Bend Urban Area
+zoning Ordinance, to regulate hydroelectric
+facilities, Ordinance No. 86- 017 ( 6/ 30/ 86).
+31. An ordinance amending the Bend Area General Plan
+by establishing Goals and Policies relating to the
+Deschutes River Corridor, Ordinance No. 86- 020
+6/ 30/ 86).
+32. An ordinance amending PL - 11, the Bend Urban Area
+Zoning Ordinance, to revise references to the
+Procedures Ordinance, Ordinance No. 86- 033
+4/ 2/ 86).
+33. An ordinance amending PL - 11 to modify penalty
+provision for ordinance infractions, Ordinance
+No. 86- 034 ( 4/ 2/ 86).
+34. An ordinance amending PL - 11 to require certain
+restrictions and conditions of approval for land
+3 - EXHIBIT "
+All
+0095 0113
+use actions on property adjacent to the Deschutes
+River, Ordinance No. 86- 055 ( 6/ 30/ 86).
+35. An ordinance amending Ordinance No. PL - 11 to
+regulate fill and removal along the Deschutes
+River, Ordinance No. 86- 058 ( 6/ 30/ 86).
+36. An ordinance amending PL - 11 to rezone certain
+property from Urban Standard Residential to Urban
+Medium Residential, Ordinance No. 86- 065
+6/ 18/ 86) .
+37. An ordinance establishing procedures for county
+ordinance infractions, Ordinance No. 86- 076
+12/ 3/ 86).
+38. An ordinance amending the Bend Urban Area General
+Plan to change the designation of certain property
+from residential to neighborhood commercial,
+Ordinance No. 87- 002 ( 5/ 13/ 87).
+39. An ordinance amending Ordinance No. 82- 011,
+providing uniform land use procedures, Ordinance
+No. 87- 008 ( 5/ 13/ 87).
+40. An ordinance amending the Bend Area General Plan
+to change the designation of certain property from
+Urban Standard Residential to Highway Commercial,
+Ordinance No. 87- 009 ( 3/ 11/ 87).
+41. An ordinance amending the Bend Area Zoning Ordi-
+nance to rezone certain property from Standard
+Residential to Highway Commercial, Ordinance
+No. 87- 010 ( 3/ 11/ 87)
+42. An ordinance amending PL - 11, the Bend Urban Area
+Zoning Ordinance to rezone certain property from
+Standard Residential to Neighborhood Commercial,
+Ordinance No. 87- 012 ( 4/ 22/ 87).
+43. An ordinance amending PL - 11 to allow reduced
+setbacks for garages in the RL and RS zones,
+Ordinance No. 87- 030 ( 10/ 14/ 87).
+44. An ordinance amending PL - 11 to allow certain
+automobile service stations within 1500 feet of
+each other, Ordinance No. 87- 031 ( 9/ 29/ 87).
+45. An ordinance amending Chapter 2. 28 of the
+Deschutes County Code, establishing specific
+provisions relating to the Historic Preservation
+Ordinance, Ordinance No. 88- 008 ( 8/ 10/ 88).
+4 - EXHIBIT " A"
+00' 45 0114
+46. An ordinance amending Ordinance No. 81- 043, the
+Deschutes County Subdivision/ Partition Ordinance
+relating to standards for streets and roads,
+Ordinance No. 88- 015 ( 5/ 18/ 88).
+47. An ordinance amending PL - 11 rezoning certain
+property from Urban Standard Residential to Urban
+Medium Density Residential, Ordinance No. 88- 016
+4/ 13/ 88) .
+48. An ordinance amending the Sidewalk Requirements of
+Ordinance No 81- 043, the Deschutes County Sub-
+division/ Partition Ordinance, Ordinance No. 88- 033
+10/ 5/ 88).
+B. The county ordinance amendments and changes cited above
+reflect all changes which Deschutes County has made to
+land use regulations within the Bend Urban Area.
+C. In addition to the ordinance amendments cited above,
+the county reviewed the city' s zoning ordinance ( ORS NS
+1178) and adopted all ordinance amendments proposed by
+the city for the Periodic Review Order. ( See Ordinance
+No. 88- 042.)
+III. The Periodic Review Findings and Conclusions.
+A. The specific findings of the City of Bend Periodic
+Review Order are the same for the City of Bend as for
+the urban area of the county.
+B. The county participated with the city in the Periodic
+Review Order of the City of Bend. The Urban Area
+Advisory Committee and Urban Area Planning Commission
+are joint county/ city commissions.
+C. The City of Bend has taken the lead in the urban area
+periodic review. The Urban Area Planning Commission is
+a joint county/ city commission. The Board of County
+Commissioners accepts the recommendations of the Urban
+Area Planning Commission and adopts the city' s findings
+contained in the City of Bend Period Review Order.
+D. Deschutes County has amended the Bend Urban Area Zoning
+Ordinance to include changes consistent with the City
+of Bend amendments for periodic review. In addition,
+the county has revised the Bend Urban Area Zoning
+Ordinance to include numerous other changes, not
+subject to the Periodic Review Order to make the city
+and county ordinances consistent. There are two
+exception which the county took to the city' s ordi-
+nances. These include:
+5 - EXHIBIT " A"
+0095 01i5
+1. Section 28, PL - 11, involving nonconforming uses.
+The County is amending PL - 11 to include noncon-
+forming use language which reflects the require-
+ments of ORS 215. 130. The county has made this
+change in order to make the nonconforming use
+section consistent with the Oregon Revised Statues
+for counties.
+2. Section 26, PL - 11, Bed and Breakfast. The county
+finds that the requirement for annual review of a
+bed and breakfast for at least the first three
+years after issuance of the permit, with the
+possibility of revoking the permit, is inappro-
+priate because it does not adequately describe the
+specific criteria for determining whether to
+revoke the permit. The county has proposed other
+language which allows regulation of the bed and
+breakfast and specifies what standards are to be
+considered in reviewing the use.
+6 - EXHIBIT " A"
+Y
+0®95 0116
+EXHIBIT " B"
+DESCHUTES COUNTY PERIODIC REVIEW ORDER
+FOR THE SISTERS URBAN GROWTH BOUNDARY
+I. Introduction. In Deschutes County the cities have taken the
+lead in the review of ORS 197. 640 for periodic review. The
+City of Sisters Periodic Review Order is being adopted by
+Deschutes County based upon the findings contained in the
+city document entitled " City of Sisters Periodic Review
+Order."
+II. Background Information.
+A. The county has adopted the following Comprehensive Plan
+and Land Use regulations within the Sisters Urban
+Growth Boundary.
+1. An ordinance amending PL - 16, the Sisters Urban
+Area Comprehensive Plan, Ordinance No. 80- 224
+2/ 10/ 81) .
+2. An ordinance amending PL - 17, the Sisters Urban
+Growth Boundary Zoning Ordinance, Ordinance
+No. 80- 225 ( 1/ 22/ 81).
+3. The Deschutes County Sign Ordinance, Ordinance
+No. 81- 009 ( 4/ 5/ 81).
+4. An ordinance amending the Sisters Urban Growth
+Boundary Zoning Map and Zoning Ordinance, Ordi-
+nance No. 81- 038 ( 6/ 1/ 81).
+5. An ordinance amending PL - 16, the Sisters Urban
+Area Comprehensive Plan Map, Ordinance No. 81- 039
+6/ l/ 81).
+6. An ordinance adopting the Deschutes County Sub-
+division/ Partition Ordinance, Ordinance No. 81- 043
+12/ 31/ 81).
+7. An ordinance amending PL - 17, the Sisters Urban
+Growth Boundary Zoning Ordinance, rezoning certain
+property from Urban Area Reserve ( UAR- 10) to Urban
+Area Reserve ( UAR- 2 1/ 2), Ordinance No. 81- 005
+12/ 20/ 81).
+8. An ordinance establishing uniform land use proce-
+dures in Deschutes County, Ordinance No. 82- 011
+8/ 3/ 82).
+1 - EXHIBIT " B"
+0095 0117
+9. An ordinance amending PL - 16, the Sisters Urban
+Area Comprehensive Plan, to expand the Sisters
+Urban Area Growth Boundary to include an addition-
+al 40 acres of land, Ordinance No. 83- 047
+5/ 4/ 83).
+10. An ordinance amending PL - 17, the Sisters Urban
+Area Zoning Ordinance, to rezone certain property
+from F- 3 to UAR- 10, Ordinance No. 83- 048 ( 5/ 4/ 83)
+11. An ordinance amending the road and street minimum
+design standards of Ordinance No. 81- 043, the
+Deschutes County Subdivision/ Partition Ordinance,
+Ordinance No. 85- 024 ( 8/ 24/ 85).
+12. An ordinance amending PL - 16, the Sisters Urban
+Area Comprehensive Plan, Ordinance No. 85- 029
+8/ 14/ 85).
+13. An ordinance amending the County Sign Ordinance,
+Ordinance No. 86- 024 ( 4/ 2/ 86).
+14. An ordinance amending Ordinance No. 81- 043, the
+County Subdivision/ Partition Ordinance, revising
+references to the Procedures Ordinance, Ordinance
+No. 86- 030 ( 4/ 2/ 86).
+15. An ordinance amending PL - 17, the Sisters Urban
+Area Zoning Ordinance, revising reference to the
+Procedures Ordinance, Ordinance No. 86- 038
+4/ 2/ 86).
+16. An ordinance relating to violation of county
+ordinances, providing penalties for violation,
+Ordinance No. 86- 076 ( 12/ 3/ 86).
+17. An ordinance amending Chapter 2. 28 of the
+Deschutes County Code, establishing specific
+regulations relating to historic preservation,
+Ordinance No. 88- 008 ( 8/ 10/ 88)
+III. Periodic Review Findings and Conclusions.
+A. The background information cited above includes all
+ordinance amendments which effect land use in the
+Sisters Urban Area. These ordinance amendments are
+consistent with all changes made by the City of
+Sisters. The specific findings of the Sisters Periodic
+Review Order relating to all issues required for review
+are, therefore, the same for the urban area of the
+county as for the city.
+2 - EXHIBIT " B"
+EXHIBIT " C"
+DESCHUTES COUNTY PERIODIC REVIEW ORDER
+FOR THE REDMOND URBAN GROWTH BOUNDARY
+I. Introduction. In Deschutes County, the cities have taken
+the lead in the review of ORS 197. 640 for periodic review.
+The City of Redmond Periodic Review Order is being adopted
+by Deschutes County based upon the findings contained in the
+city document entitled " The City of Redmond Proposed Local
+Review."
+II. Background Information.
+A. The county has adopted the following Comprehensive Plan
+and Land Use Regulations within the Redmond Urban
+Growth Boundary:
+1. The Redmond Urban Area Comprehensive Plan, Ordi-
+nance No. 80- 202 ( 9/ 17/ 80).
+2. The Redmond Urban Area Zoning Ordinance, Ordinance
+No. 80- 201 ( 9/ 17/ 80).
+3. An ordinance creating the Redmond Urban Area
+Planning Commission, Ordinance No. 80- 227
+12/ 18/ 80).
+4. An Ordinance amending Ordinance No. 80- 201,
+providing new administrative procedures for the
+Urban Area Planning Commission within the Redmond
+Urban Growth Boundary, Ordinance No. 80- 228
+12/ 31/ 80).
+5. Deschutes County Sign Ordinance ( 4/ 6/ 81).
+6. The Deschutes County Subdivision/ Partition Ordi-
+nance No. 81- 043 ( 12/ 31/ 81).
+7. The Deschutes County Land Use Procedures Ordinance
+No. 82- 011 ( 8/ 3/ 82).
+8. An ordinance amending No. 82- 011, providing
+uniform procedures for solar access permits,
+Ordinance No. 83- 038 ( 6/ 1/ 83).
+9. An ordinance amending the County subdivision/ par-
+tition Ordinance No. 81- 043 to provide solar
+access performance standards, Ordinance No. 83- 039
+6/ l/ 83).
+1 - EXHIBIT " C"
+0095 0120
+10. An ordinance amending the Redmond Urban Area
+Zoning Ordinance No. 80- 201 providing for building
+setbacks for solar access, Ordinance No. 83- 040
+6/ 1/ 83).
+11. An ordinance amending Ordinance No. 80- 201, the
+Redmond Urban Area Zoning Ordinance, to provide
+recreational parks within mobile home parks,
+Ordinance No. 84- 003 ( 1/ 18/ 84).
+12. An Ordinance eliminating the requirement that
+appeals be heard by the Redmond Urban Area Plan-
+ning Commission, amending Ordinance No. 80- 227,
+Ordinance No. 84- 005 ( 4/ 4/ 84).
+13. An ordinance amending Ordinance No. PL - 18, the
+Redmond Urban Area Comprehensive Plan, by adopting
+the Redmond Canyon Plan and Map, Ordinance
+No. 84- 025 ( 8/ 29/ 84).
+14. An ordinance amending Ordinance No. 80- 201, the
+Redmond Urban Area Zoning Ordinance, implementing
+the Redmond Canyon Plan, Ordinance No. 84- 026
+8/ 29/ 84).
+15. An ordinance amending the minimum design standards
+for subdivisions by amending Ordinance No. 81- 043,
+Ordinance No. 85- 024 ( 8/ 14/ 85).
+16. An ordinance amending Ordinance No. PL - 18, the
+Redmond Urban Area Comprehensive Plan, adopting a
+new transportation element, Ordinance No. 85- 027
+8/ 14/ 85).
+17. An ordinance amending Ordinance No. PL - 18, the
+Redmond Urban Area Comprehensive Plan, by adopting
+an Access Management Plan, Ordinance No. 85- 035
+12/ 4/ 85).
+18. An ordinance amending the County Sign Ordinance
+No. 81- 009, revising reference to the Procedures
+Ordinance, Ordinance No. 86- 028 ( 4/ 2/ 86).
+19. An ordinance amending Ordinance No. 81- 043, the
+Deschutes County Subdivision/ Partition Ordinance,
+to revise reference to the Procedures Ordinance,
+Ordinance No. 86- 030 ( 4/ 2/ 86).
+20. An ordinance amending Ordinance No. 80- 201, the
+Redmond Urban Area Zoning Ordinance, revising
+reference to the Procedures Ordinance, Ordinance
+No. 86- 031 ( 4/ 2/ 86).
+2 - EXHIBIT " C"
+Vr. Or,
+21. An ordinance establishing
+for violations of county
+No. 86- 076 ( 12/ 3/ 86).
+0095 0121
+infractions procedures
+ordinances, Ordinance
+22. An ordinance amending Ordinance o. 82- 011, provid-
+ing new procedures for land use actions, Ordinance
+No. 88- 005 ( 5/ 18/ 88).
+23. An ordinance amending Chapter 2. 28 of the
+Deschutes County Code, relating to historic
+preservation, establishing a new historic preser-
+vation ordinance, Ordinance No. 88- 008 ( 8/ 10/ 88).
+24. An ordinance amending Ordinance No. 81- 043, and
+establishing amendments to street and road stan-
+dards, Ordinance No. 88- 015 ( 5/ 18/ 88).
+III. Periodic Review Findings and Conclusions.
+A. The background information cited above includes all
+ordinance amendments which affect all land use in the
+Redmond Urban Area Boundary. These ordinance amend-
+ments are consistent with all changes made by the City
+of Redmond. The specific findings of the Redmond
+Periodic Review Order relating to all issues required
+for review are, therefore, the same for the Redmond
+Urban Area of the county as for the city.
+B. The City of Redmond has taken a lead in the Urban Area
+for Periodic Review. The Urban Area Planning Commis-
+sion is a joint county/ city commission. The Board of
+County Commissioners accepts the recommendations of the
+Urban Area Planning Commission and adopted the city' s
+findings contained in the City of Redmond Order.
+C. There have been no Comprehensive Plan or Zoning Ordi-
+nance amendments in the Redmond Urban Growth Boundary
+since the acknowledgment of the Redmond Comprehensive
+Plan on March 20, 1981.
+3 - EXHIBIT " C"

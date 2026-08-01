@@ -1,0 +1,1407 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lane-county
+id: lane-land-use-lc16-090-100
+title: 'LC16.090 100'
+doc_type: ordinance
+citation: 'LC16.090 100'
+authority_level: county_ordinance
+issuing_body: 'Lane County Board of Commissioners'
+source_url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.090_100.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 47e8be629c2d63a0699e177aec68bd9053ed3b2e98bcce14af8954ca4ecf80a0
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 174.120
+    - ORS 215.203
+    - ORS 215.213
+    - ORS 215.283
+    - ORS 30.930
+    - ORS 321.267
+    - ORS 358.480
+    - ORS 418.817
+    - ORS 433.735
+    - ORS 438.605
+    - ORS 443.400
+    - ORS 455.100
+    - ORS 466.005
+    - ORS 468B.050
+    - ORS 527.620
+    - ORS 571.300
+    - ORS 65.001
+    - ORS 822.110
+    - ORS 92.010
+    - OAR 660-033-0020
+    - OAR 845-025-1015
+  related: []
+  supersedes: []
+tags: [lane-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lane County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# LC16.090 100 (LC16.090 100)
+
+## At a glance
+
+LC16.090 100 — land use of Lane County. 30 pages.
+
+## Full text
+
+Lane Code
+CHAPTER 16 CONTENTS
+
+May 2026 16-i
+16.090 Definitions.
+16.095 Compliance With LC Chapter 15, Roads.
+16.096 Compliance with Erosion Prevention Code.
+DEVELOPMENTAL APPROVAL PROCEDURES
+16.100 Development.  Approval Procedures Relationship of Lane Code Chapter 14
+into Lane Code Chapter 16.
+
+May 5, 2026 16-26 LC16.090-100
+16.090 Definitions.
+When a Term Is Not Defined. Terms not defined in this section will have their ordinary
+accepted meanings within the context in which they are used. Webster’s Third New
+International Dictionary of the English Language, Unabridged,  Copyright 1981, Principal
+Copyright 1961, will be considered a standard reference for defining the meanings of terms
+not defined in this section or elsewhere in Lane Code. Where specific terms are not defined
+relating to marijuana and commercial uses in c onnection with recreationa l marijuana as
+regulated by state law, the definitions contained in Oregon Laws, Oregon Revised Statutes
+(ORS), Oregon Administrative Rules (OAR), Oregon Liquor Control Commission
+(OLCC) interpretation(s), and case law interpretations apply directly.
+Conflicting Definitions.  Where a term defined in section 13.030 is defined in another
+section of Lane Code or by other regulations or statutes referenced by this chapter, the term
+in this section will control.
+Definitions. For the purpose of Chapter 16 of the Lane Code, unless the context requires
+otherwise, the following words and phrases mean:
+(1) Acceptance.  Received by and considered by the Director as sufficiently complete to
+begin processing according to the application or appeal review procedures of this
+chapter.
+(2) Accepted Farming Practice.  A mode of operation that is common to farms of a
+similar nature, necessary for the operation of such farms to obtain a profit in money,
+and customarily utilized in conjunction with farm use.
+(3) Accessory.  Incidental, appropriate and subordinate to the main use of a tract or
+structure.
+(4) Accessory Structure.  A detached structure, the use of which is customarily incidental
+to that of the primary structure or the primary use of the land and which is located on
+the same lot or parcel as the primary structure or use.
+(5) Accretion.  The build-up of land along a beach or shore by the deposition of
+waterborne or airborne sand, sediment, or other material.
+(6) Agriculture.  Synonymous with definition of "farm use."
+(7) Agricultural Building  Nothing in this Chapter is intended to authorize the application
+of a state structural specialty code to any agricultural building or equine facility.
+(a) “Agricultural building” means a structure located on a farm or forest operation
+and used for:
+(i) Storage, maintenance or repair of farm or forestry machinery and equipment;
+(ii) The raising, harvesting and selling of crops or forest products;
+(iii) The feeding, breeding, management and sale of, or the produce of, livestock,
+poultry, fur-bearing animals or honeybees;
+(iv) Dairying and the sale of dairy products;
+(v) Any other agricultural, forestry or horticultural use or animal husbandry, or
+any combination thereof, including the preparation and storage of the
+produce raised on the farm for human use and animal use, the preparation
+and storage of forest products and the disposal by marketing or otherwise, of
+farm product or forest products.
+(b) “Agricultural building” does not include:
+(i) A dwelling;
+
+May 5, 2026 16-27 LC16.090-100
+(ii) A structure used for a purpose other than growing plants in which 10 or more
+persons are present at any one time;
+(iii) A structure regulated by the State Fire Marshall pursuant to ORS chapter
+476;
+(iv) A structure used by the public; or
+(v) A structure subject to sections 4001 to 4127, title 42, United States Code (the
+National Flood Insurance Act of 1968), as amended, and regulations
+promulgated thereunder.
+(c) “Equine facility” means a building located on a farm and used by the farm owner
+or the public for:
+(i) Stabling or training equines; or
+(ii) Riding lessons and training clinics;
+(d) “Equine facility” does not include:
+(i) A dwelling;
+(ii) A structure in which more than 10 persons are present at any one time;
+(iii) A structure regulated by the State Fire Marshall pursuant to ORS chapter
+476; or
+(iv) A structure subject to sections 4001 to 4127, title 42, United States Code (the
+National Flood Insurance Act of 1968), as amended, and regulations
+promulgated thereunder.
+(e) A person may not convert an agricultural building authorized for a forest use or
+mixed farm and forest use to another use.
+(8) Alter or Alteration.  Any change, addition or modification in use construction or
+occupancy.  For the purposes of LC 16.234 (NE-RCP), 16.235 (CE-RCP), 16.236 (DE-
+RCP), 16.237 (/SN-RCP), 16.238 (/PW-RCP), 16.239 (/NRC-RCP),  16.240 (/RD-RCP),
+16.241 (/MD-RCP), 16.242 (/DMS-RCP), and 16.243 (/BD-RCP); “alteration” means
+any man-caused change in the environment, including physical, topographic, hydraulic,
+biological, or other similar environmental changes, or changes which affect water quality.
+(9) Altered Shorelines.  Shorelines with bulkheads, seawalls, riprap, or other physical
+structures, but do not include earthen, vegetated dikes.
+(10) Amendment, Minor.  A change to a preliminary plan, plat or map which:
+(a) Does not change the number of lots or parcels created by the subdivision or
+partition;
+(b) Does not "substantially enlarge or reduce" the boundaries of subdivided or
+partitioned area;
+(c) Does not change the general location or amount of land devoted to a specific land
+use; or
+(d) Includes only minor shifting of the proposed parcel or lot lines, location of
+buildings, proposed public or private streets, pedestrian ways, utility easements,
+parks or other public open spaces, septic tank drainfield locations and well
+locations.
+(11) Amendment, Major.  A change to preliminary plan, plat or map which is not a
+minor amendment.
+(12) Anadromous.  Referring to fish, such as salmon, which hatch in fresh water,
+migrate to ocean waters to grow and mature, and return to fresh waters to spawn.
+
+May 5, 2026 16-28 LC16.090-100
+(13) Animal Hospital.  A place where animals or pets are given medical or surgical
+treatment and the boarding of animals is limited to short-term care incidental to the
+hospital use.
+(14) Appearance.  Submission of testimony or evidence in the proceeding, either oral
+or written.  Appearance does not include a name or address on a petition.
+(15) Approval Authority.  A person, or a group of persons, given authority by Lane Code to
+review and/or make decisions upon certain applications according to the review
+procedures of Lane Code Chapter 14.
+(16) Approximate Flood Hazard Study Area.  Flood hazard areas as shown on the
+Federal Flood Hazard Boundary Maps where base flooding elevations have not been
+determined.
+(17) Aquaculture.  The raising, feeding, planting and harvesting of fish, shell fish or
+waterborne plants and associated facilities necessary for the use.
+(18) Area.  The surface included within any set of lines which may be further defined
+in square feet or acres, exclusive of County or local access public street.
+(19) Area of Flood Hazard.  The land in the floodplain within a community subject to
+a one percent chance of flooding in any given year.
+(20) Area Zoned for Rural Residential Use. Are lands that are zoned Rural Residential
+(RR, RCP), not located inside an urban growth boundary as defined in Oregon
+Revised Statute 195.060, and that are subject to an acknowledged exception to a
+statewide land use planning goal relating to farmland or forestland and planned and
+zoned by the county to allow residential use as a primary use.
+(21) Auxiliary.  As used in the F-1 zone and F-2 zone, means a use or alteration of a
+structure or land that provides help or is directly associated with the conduct of a
+particular forest practice. An auxiliary structure is located on site, temporary in
+nature, and is not designed to remain for the forest’s entre growth cycle from planting
+to harvesting. An auxiliary use is removed when a particular forest practice has
+concluded.
+(22) Avulsion.  A tearing away or separation by the force of water.  Land which is separated
+from  uplands or adjacent properties by the action of a stream or river cutting through the
+land to form a new stream bed.
+(23) Base Flood.  A flood that has a one percent chance of being equaled or exceeded in any
+given year.
+(24) Beach.  Gently sloping area of loose material (e.g., sand, gravel and cobbles) that
+extends landward from the low waterline (of the uppermost line of wave and tidal
+action) to a point where there is a definite change in the material type or land form, or
+to the line of vegetation.
+(25) Bed and Breakfast Accommodation.  An accessory use to be carried on within a
+structure designed for and occupied as a single-family dwelling in which no more than
+five sleeping rooms are provided on a daily or weekly period, not to exceed 29
+consecutive days, for the use of travelers or transients for a charge or fee.  Meal service
+at a Bed and Breakfast Accommodation is limited to the preparation and service of
+breakfast, except on the same tract as a winery.  Bed and Breakfast Accommodation is
+a Home Occupation where not specifically listed as a permitted or conditionally
+permitted use.  If the Bed and Breakfast Accommodation is cited as a home occupation
+
+May 5, 2026 16-29 LC16.090-100
+on the same tract as a Winery or Cider Business, two meals may be served per day to
+registered guests at either the Bed and Breakfast or at the Winery or Cider Business.
+(26) Biofuel. The liquid, gaseous or solid fuels derived from biomass, that have been
+converted into processed fuel ready for use as energy by a biofuel producer’s
+customers or for direct biomass energy use at a biofuel producer’s site.
+(27) Biomass. The organic matter that is available on a renewable or recurring basis
+and that is derived from:
+(a) Forest or rangeland woody debris from harvesting or thinning conducted to
+improve forest or rangeland ecological health and reduce uncharacteristic stand
+replacing wildfire risk;
+(b) Wood material from hardwood timber described in ORS 321.267(3);
+(c) Agricultural residues;
+(d) Offal and tallow from animal rendering;
+(e) Food wastes collected as provided under ORS Chapter 459 or459A;
+(f) Yard or wood debris collected as provided under ORS chapter 459 or 459A;
+(g) Wastewater solids; or
+(h) Crops grown solely to be used for energy.
+Biomass does not mean wood that has been treated with creosote
+pentachlorophenol, inorganic arsenic or other inorganic chemical compounds
+or waste, other than matter described above.
+(28) Board.  Board of County Commissioners of Lane County.
+(29) Boarding of Horses.  The boarding of horses for profit shall include the
+following:
+(a) The stabling, feeding and grooming for a fee, or the renting of stalls for the care
+of horses not belonging to the owner of the property; and
+(b) Related facilities, such as training arenas, corrals and exercise tracks.
+The boarding of horses for profit does not include the following:
+(i) The mere pasturage of horses or the boarding of horses not owned by the
+property owner for the purpose of breeding with the owner's stock.
+(ii) The incidental stabling of not more than four horses.
+(iii) The boarding of horses for friends or guests where no charge is made.
+(iv) Equestrian activities when the raising, feeding, training or grooming of
+horses is a farm use by the property owner of the land qualifying for farm
+assessment under regulations of the State Department of Revenue.
+(30) Boarding House.  A dwelling or part thereof, in which lodging is provided by the
+owner which equals or exceeds the limitations of a bed and breakfast
+accommodation.
+(31) Bridge Crossings.  The portion of a bridge spanning a waterway not including
+supporting structures or fill located in the waterway or adjacent wetlands.
+(32) Bridge Crossing Support Structures.  Piers, piling, and similar structures
+necessary to support a bridge span but not including fill for causeways or approaches.
+(33) Building.  The terms "building" and "structure" are synonymous, and mean
+something that which is framed, erected, constructed or placed to stand temporarily
+or permanently on a tract of land.  This definition specifically includes a mobile
+home, manufactured home and accessories thereto, gas or liquid storage tanks
+principally above ground and revetments, rip-rap, boat docks or bridges.  Driveways
+
+May 5, 2026 16-30 LC16.090-100
+or walks not more than six inches higher than the ground on which they rest are not
+buildings.  Retaining walls less than four (4) feet in height and fences not heigher
+than six (6) feet are not considered buildings for the sake of general property line
+setbacks.
+(34) Building Site.  That portion of the lot, parcel or unpartitioned or unsubdivided tract of
+land upon which the building appurtenances are to be placed, or are already existing,
+including adequate areas for sewage disposal, light, air clearances, proper drainage,
+appropriate easements and, if applicable, other items required by the Lane Code.
+(35) Camp.  An area designed for organizational recreation which may include
+facilities such as; swimming pools, meeting halls and indoor shelters for recreation.
+(36) Campground.
+(a) An area designed for short-term recreational purposes and where facilities,
+except commercial activities such as grocery stores and laundromats, are
+provided to accommodate that use.  Space for tents, campers, recreational
+vehicles and motor homes are allowed and permanent open air shelters
+(adirondacks) may be provided on the site by the owner of the development.
+(b) Applicable to Nonimpacted Forest Lands Zone (F1, RCP), Impacted Forest
+Lands Zone (F-2, RCP), and Exclusive Farm Use Zone (EFU-RCP) only, an area
+devoted to overnight temporary use for vacation, recreational or emergency
+purposes, but not for residential purposes and is established on a site or is
+contiguous to lands with a park or other outdoor natural amenity that is
+accessible for recreational use by the occupants of the campground.
+(37) Camping Vehicle Park.  Synonymous with definition of Recreational Vehicle
+Park.
+(38) Carrying Capacity.  Level of use which can be accommodated and continued
+without irreversible impairment of natural resources productivity, the ecosystem and
+the quality of air, land, and water resources.
+(39) Carrying Capacity Management.  The management of coastal resources to ensure
+that public infrastructure systems are appropriately sized, located and managed so
+that the quality and productivity of the resource and other natural areas are protected.
+(40) Cemetery.  Land used or intended to be used for the burial of the dead and
+dedicated for cemetery purposes, including columbariums, crematoriums,
+mausoleums and mortuaries, when operated in conjunction with and within the
+boundary of such cemetery.
+(41) Church.  A building, together with its accessory buildings and uses, where
+persons regularly assemble for worship, and which building, together with its
+accessory buildings and uses, is maintained and controlled by a religious body
+organized to sustain public worship.  A church does not include a school.
+(42) Clinic.  Single or multiple offices for physicians, surgeons, dentists,
+chiropractors, osteopaths and other members of the healing arts, including a
+dispensary in each such building to handle only merchandise of a nature customarily
+prescribed by occupants in connection with their practices.
+(43) Cluster Subdivision.  A subdivision for which the applicable zoning district
+allows relaxed lot area, coverage and setback requirements and alternative types of
+dwellings as specified in LC Chapter 16, and which is consistent with the cluster
+
+May 5, 2026 16-31 LC16.090-100
+subdivision Policy #24 set forth under Goal 2, Land Use Planning of the Lane County
+General Plan Policies.
+(44) Coastal Lakes.  Lakes in the coastal zone that are bordered by a dune formation
+or that have a direct hydrologic surface or subsurface connection with saltwater.
+(45) Coastal Recreation.  Occurs in offshore waters, estuaries, and streams, along
+beaches and bluffs, and in adjacent shorelands.  It includes a variety of activities,
+from swimming, scuba diving, boating, fishing, hunting, and use of off-highway
+vehicles (OHV), shell collecting, painting, wildlife observation, and sightseeing, to
+the uses of coastal resorts and water-oriented restaurants.
+(46) Coastal Shorelands.  Those areas immediately adjacent to the ocean, all estuaries
+and associated wetlands, and all coastal lakes.
+(47) Communication Facility.  A facility constructed for the purpose of transmitting
+telegraph, telephone, microwave, television, radio and other similar signals.
+(48) Compost. The controlled biological decomposition of organic material or the
+product resulting from such a process.
+(49) Comprehensive Plan.  A generalized, coordinated land use map and policy
+statement of the governing body of a local government that interrelates all functional
+and natural systems and activities relating to the use of lands, including, but not
+limited to, sewer and water systems, transportation systems, educational facilities,
+recreational facilities and natural resources and air and water quality management
+programs.  "Comprehensive" means all inclusive, both in terms of the geographic
+area covered and functional and natural activities and systems occurring in the area
+covered by the plan.  "General nature" means a summary of policies and proposals in
+broad categories and does not necessarily indicate specific locations of any area,
+activity or use.  A plan is "coordinated" when the needs of all levels of governments,
+semipublic and private agencies and the citizens of Oregon have been considered and
+accommodated as much as possible.  "Land" includes water, both surface and subsur-
+face, and the air.
+(50) Contiguous.  Having at least one common boundary line greater than eight feet in
+length.  Tracts of land under the same ownership and which are intervened by a street
+(local access, public, County, State or Federal street) shall not be considered
+contiguous.
+(51) County Official.  The Director of a Lane County Department or Division, or any
+Lane County advisory committee or commission acting in its official capacity.
+(52) Cultured Christmas Trees.  Means trees:
+(a) Grown on lands used exclusively for that purpose, capable of preparation by
+intensive cultivation methods such as plowing or turning over the soil;
+(b) Of a marketable species;
+(c) Managed to produce trees meeting U.S. No. 2 or better standards for Christmas
+trees as specified by the Agriculture Marketing Services of the United States
+Department of Agriculture; and
+(d) Evidencing periodic maintenance practices of shearing for Douglas fir and pine
+species, weed and brush control and one or more of the following practices:
+Basal pruning, fertilizing, insect and disease control, stump culture, soil
+cultivation, irrigation.
+(53) Current Employment of Land for Farm Use.  Includes:
+
+May 5, 2026 16-32 LC16.090-100
+(a) Farmland, the operation or use of which is subject to any farm-related
+government program;
+(b) Land lying fallow for one year as a normal and regular requirement of good
+agricultural husbandry;
+(c) Land planted in orchards or other perennials, other than land specified in LC
+16.090(6) below prior to maturity;
+(d) Any land constituting a woodlot not to exceed 20 acres, contiguous to and owned
+by the owner of land specially valued at true cash value for farm use even if the
+land constituting the woodlot is not utilized in conjunction with farm use;
+(e) Wasteland, in an exclusive farm use zone, dry or covered with water, neither
+economically tillable nor grazeable, lying in or adjacent to and in common
+ownership with a farm use land and which is not currently being used for any
+economic farm use;
+(f) Land not in an exclusive farm use zone which has not been eligible for
+assessment at special farm use value in the year prior to planting the current crop
+and has been planted in orchards, cultured Christmas trees or vineyards for at
+least three years;
+(g) Except for land under a single family dwelling, land under buildings supporting
+accepted farm practices, including the processing facilities allowed by ORS
+215.213(1)(u) and the processing of farm crops into biofuel as commercial
+activities in conjunction with farm use under ORS 215.213(2)(c);
+(h) Water impoundments lying in or adjacent to and in common ownership with farm
+use land;
+(i) Land lying idle for no more than one year where the absence of farming activity
+is due to the illness of the farmer or member of the farmer's immediate family.
+For purposes of this paragraph, illness includes injury or infirmity whether or not
+such illness results in death;
+(j) Any land described under ORS 321.267(3) or 321.824(3); and
+(k) Land used for the processing of farm crops into biofuel, as defined in LC 16.090,
+if:
+(i) Only the crops of the landowner are being processed;
+(ii) The biofuel from all of the crops purchased for processing into
+biofuel is used on the farm of the landowner; or
+(iii) The landowner is custom processing crops into biofuel from
+other landowners in the area for their use or sale.
+(54) Date of Creation and Existence. Applicable to Nonimpacted Forest Lands Zone
+(F-1, RCP), Impacted Forest Lands Zone (F-2, RCP), and Exclusive Farm Use Zone
+(EFU, RCP) only. When a lot, parcel or tract is reconfigured pursuant to applicable
+law after November 4, 1993, the effect of which is to qualify a lot, parcel or tract for
+the siting of a dwelling, the date of the reconfiguration is the date of creation or
+existence. Reconfigured means any change in the boundary of the lot, parcel, or tract.
+(55) Day.  A calendar day, computed consistent with ORS 174.120.
+(56) Day Care Nurseries.  Any institution, establishment or place in which are
+commonly received at one time, six or more children not of common parentage,
+under the age of six years, for a period or periods not exceeding 12 hours, for the
+
+May 5, 2026 16-33 LC16.090-100
+purpose of being given board, care or training apart from their parents or guardians
+for compensation or reward.
+(57) Deflation Plain.  The broad interdune area which is wind-scoured to the level of
+the summer water table.  Some deflation plains are delineated wetlands subject to
+protection per Section 7 of the Clean Water Act.
+(58) Department.  The Lane County Department of Public Works.
+(59) Depth.  The horizontal distance between the front and rear boundary lines
+measured in the mean direction of the side boundary lines.
+(60) Design Depth.  The channel depth  authorized by Congress and maintained by the
+U. S. Army Corps of Engineers.  The actual maintained depth of a channel may
+exceed the design or authorized depth because of:
+(a) The limits of dredging precision which causes “overdepth”; and
+(b) The practice, where approved by the Corps of Engineers, of “advanced
+maintenance” overdredging which designates the amount of extra depth to be
+dredged to insure clear project depths for the time period between maintenance
+operations.
+(61) Destroy.  To ruin the structure, organic existence, or condition of: as to pull or
+tear down, to lay waste, to ruin completely or injure or mutilate by clearing, tearing,
+breaking, cutting, spraying with pesticides or herbicides, burning or erosion.
+(62) Development.  The division of a parcel of land into two or more parcels; the
+construction, reconstruction, conversion, structural alteration, relocation or
+enlargement of any structure; any mining. excavation, landfill or grading, including
+the removal or destruction of vegetation within a protected riparian setback area
+designated by the Rural Comprehensive Plan.
+(63) Development, Minimal.  Development which is of minimal economic value and
+is essentially impermanent.  Examples are dune boardwalks, fences which do not
+substantially affect sand erosion or migration, temporary open-sided structures or
+approved septic drainfield serving permitted development.
+(64) Director.  The Director of the Land Management Division of the Lane County
+Public Works Department, or the Director's delegated representative within the
+Department.
+(65) Disposal site. For the purposes of LC 16.212 and 16.292, land and facilities used
+for the disposal, handling or transfer of, or energy recovery, material recovery and
+recycling from solid wastes, including but not limited to dumps, landfills, sludge
+lagoons, sludge treatment facilities, disposal sites for septic tank pumping or cesspool
+cleaning service, transfer stations, energy recovery facilities, incinerators for solid
+waste delivered by the public or by a collection service, composting plants and land
+and facilities previously used for solid waste disposal at a land disposal site.
+(a) “Disposal site” does not include:
+(i) A facility authorized by a permit issued under ORS 466.005 to 466.385 to
+store, treat or dispose of both hazardous waste and solid waste;
+(ii)  A facility subject to the permit requirements of ORS 468B.050 or 468B.053;
+(iii)  A site used by the owner or person in control of the premises to dispose of
+soil, rock, concrete or other similar nondecomposable material, unless the
+site is used by the public either directly or through a collection service;
+(iv) A site operated by a dismantler issued a certificate under ORS 822.110; or
+
+May 5, 2026 16-34 LC16.090-100
+(v) A site used for the storage of dredged materials.
+(66) Dune.  A hill or ridge of sand built up by wind along sandy coasts.
+(67) Dune, Active.  A dune that migrates, grows and diminishes primarily according
+to the force of wind and supply of sand.  The dune has no soil development and little,
+if any, cohesion of underlying sand.  Active dunes include all open sand (vegetation.
+free) areas and active (sparsely vegetated) hummocks and foredunes.  Soil types are
+72K and occasionally Westport series soils.
+(68) Dune Complex.  Various patterns of small dunes with partially stabilized
+intervening areas.
+(69) Dune, Older Stabilized.  A dune that is stable from wind erosion, and that has
+significant soil development and that may include diverse forest cover.  They include
+older foredunes.
+(70) Dune, Recently Stabilized.  A dune which presently has sufficient vegetation to
+be stabilized from wind erosion but which exhibits little, if any, soil development or
+cohesion of underlying sand.  This includes soil-less dunes recently stabilized with
+beach grass and younger stabilized dunes which may possess forest communities and
+some soil development but which lack consolidation of underlying sands.  Soil types
+are of Westport and Netarts series soils.  Recently stabilized dunes include
+conditionally stable foredunes, conditionally stable dunes, dune complexes, and
+younger stabilized dunes.  “Conditionally” stabilized means that stability from wind
+erosion is dependent upon maintaining the vegetative cover.”
+(71) Dune, Younger Stabilized.  A wind-stable dune with weakly developed soils and
+vegetation.
+(72) Dwelling.  A building or portion thereof which is occupied as a residence or
+sleeping place, either permanently or temporarily, but excluding hotels, motels, auto
+courts, guest houses, and camping vehicles.  Where the term, "dwelling," is used in
+Lane Code Chapter 16, it shall mean a single-family dwelling or manufactured home
+unless otherwise noted.
+(73) Dwelling, Multiple.  A building designed and used for occupancy by three or
+more families, all living independently of each other, and having separate
+housekeeping facilities for each family.
+(74) Dwelling, Single-Family.  A detached dwelling designed or used exclusively for
+the occupancy of one family and having housekeeping facilities for one family.
+(75) Dwelling, Two-Family (Duplex).  A building consisting of two separate dwelling
+units with a common roof and common foundation, designed and used exclusively
+for the occupancy of two families living independently of each other and having
+housekeeping facilities for each family.
+(76) Enhancement.  An action which results in a long-term improvement of existing
+functional characteristics and processes that is not the result of a creation or
+restoration action.
+(77) Entrance channel.  That portion of the waterway exposed to wave surge from the
+open sea and which provides protected access or opening to the main channel, as
+authorized by the Corps of Engineers.
+(78) Estuary/Estuarine.  A body of water semienclosed by land, connected with the
+open ocean and within which salt water is usually diluted by fresh water derived from
+
+May 5, 2026 16-35 LC16.090-100
+the land.  The estuary includes:  (a) estuarine water; (b) tidelands; (c) tidal marshes;
+and (d) submerged lands.  Estuaries extend upstream to the head of tidewater.
+(79) Exploration.  Superficial survey measures which do not include active seismic
+surveys or prospect well drilling.
+(80) Existing Manufactured Home Park or Subdivision.  Existing manufactured home
+park or subdivision means a manufactured home park for which the construction of
+facilities for servicing the lot on which the manufactured homes are to be affixed
+(including, at a minimum, the installation of utilities, either final site grading or the
+pouring of concrete pads and the construction of streets) are completed before
+December 18, 1985 the effective date of Lane County's conversion to the Regular
+Flood Insurance Program.
+(81) Expansion to an Existing Manufactured Home Park or Subdivision.  Expansion
+to an existing manufactured home park or subdivision means the preparation of
+additional sites by the construction of facilities for servicing the lots on which the
+manufactured homes are to be affixed (including the installation of utilities, either
+final site grading or pouring of concrete pads, or the construction of streets).
+(82) Family.  An individual or two or more persons related by blood or marriage or
+group of not more than five persons (excluding servants), who need not be related by
+blood or marriage, living together in a dwelling unit.
+(83) Family Day Care Facility.  As authorized and regulated by ORS 418.817, a care
+facility for children within a residential dwelling allowed by the residential,
+commercial or agricultural zone in which the day care center occurs.  Such a facility
+may provide either full-time or part-time supervision and care for no more than 12
+children including the children of the resident-operator(s).
+(84) Farm Use.  Means:
+(a) The current employment of land for the primary purpose of obtaining a profit in
+money by raising, harvesting and selling crops or by the feeding, breeding,
+management and sale of, or the produce of, livestock, poultry, furbearing animals
+or honeybees or for dairying and the sale of dairy products or any other
+agricultural or horticultural use or animal husbandry or any combination thereof;
+(b) The preparation, storage and disposal by marketing or otherwise of the products
+or byproducts raised on such land for human use and animal use;
+(c) The current employment of land for the primary purpose of making a profit in
+money by stabling or training equines including but not limited to providing
+riding lessons, training clinics and schooling shows; or
+(d) The propagation, cultivation, maintenance and harvesting of aquatic species and
+bird and animal species to the extent allowed by the State Fish and Wildlife
+Commission;
+(e) The on-site construction and maintenance of equipment and facitlies usied for the
+activities described in this definition; or
+(f) Not including the use of land subject to the provisions of ORS Chapter 321,
+except land used exclusively for growing cultured Christmas trees as defined in
+LC 16.090 above or land described in ORS 321.267(3) or 321.824(3);
+(g) As used in this definition:
+
+May 5, 2026 16-36 LC16.090-100
+“Preparation” of products or by-products includes but is not
+limited to the cleaning, treatment, sorting, or packaging of
+the products or by-products; and
+“Products or by-products raised on such land” means that
+those products or by-products are raised on the farm
+operation where the preparation occurs or on other farm land
+provided the preparation is occurring only on land being
+used for the primary purpose of obtaining a profit in money
+from the farm use of the land.
+(85) Fill.  The placement by humans of sand, gravel, earth, sediment or other material
+to create new uplands or raise the elevation of land.  Activities such as diking, jetties,
+groins, breakwaters (nonfloating) and dredge material can also be considered fill if
+they:
+(a) Involve the human placement of materials; and
+(b) Create new uplands or raise the elevation of land.
+(86) Flood or Flooding.  A general or temporary condition of partial or complete
+inundation of normally dry land areas from the overflow of inland or tidal waters
+from any source.
+(87) Flood Elevation Determination.  A determination by the Administrator of the
+water surface elevations of the base flood from the approved flood hazard studies.
+(88) Flood Hazard Boundary Map, (FHBM).  An official map of the County furnished
+by the Federal Insurance Administration, labeled a Flood Hazard Boundary Map
+(FHBM) and delineating the boundaries of flood hazard areas.
+(89) Floodplain.  A physical geographic term describing any land area susceptible to
+being inundated by water from any source.
+(90) Floodplain Management.  The operation of an overall program of corrective and
+preventative measures for reducing flood damage, including, but not limited to,
+emergency preparedness plans, flood control works and floodplain management
+regulations.
+(91) Floodplain Management Regulations.  This Floodplain ordinance, together with
+building code requirements, health regulations and any combination thereof, which
+provide standards for the purpose of flood damage prevention and reduction.
+(92) Floodproofing.  Any combination of structural and nonstructural additions,
+changes or adjustments to structures which reduce or eliminate flood damage to real
+estate or improved real property, water and sanitary facilities, structures and their
+contents.
+(93) Floodway, Regulatory.  The channel of a river or other watercourse and the
+adjacent land areas that must be reserved in order to discharge the waters of a base
+flood without cumulatively increasing the water surface elevation.
+(94) Floor, Habitable.  A floor usable for living purposes, which includes working,
+sleeping, eating, cooking or recreation, or a combination thereof.  A floor used only
+for storage purposes is not a habitable floor.
+(95) Foredune.  The first ridge of sand or hummock dunes situated immediately above
+the highest tide line and parallel to the beach.  This includes active foredunes,
+conditionally stable foredunes and older foredunes.  These may be sparsely vegetated
+
+May 5, 2026 16-37 LC16.090-100
+or vegetated to the degree that they are wind stable.  Soil types are Heceta fine sand
+204A and Westport soils 205C and 206D.
+(96) Foredune, Active.  An unstable barrier ridge of sand paralleling the beach and
+subject to wind erosion, water erosion, and growth from new sand deposits.  Active
+foredunes may include areas with beach grass, and occur in sand spits and at river
+mouths as well as elsewhere.
+(97) Foredune, Conditionally Stable.  An active foredune that has ceased growing in
+height and that has become conditionally stable with regard to wind erosion.
+(98) Foredune, Older.  A conditionally stable foredune that has become wind
+stabilized by diverse vegetation and soil development.
+(99) Forest Operation.  Any commercial activity relating to the growing or harvesting
+of any forest tree species as defined in ORS 527.620(6).
+(100) Forest Uses.  Forest uses are:
+(a) the production of trees and the processing of forest products;
+(b) open space, buffers from noise and visual separation of conflicting uses;
+(c) watershed protection and wildlife and fisheries habitat;
+(d) soil protection from wind and water;
+(e) maintenance of clean air and water;
+(f) outdoor recreational activities and related support services and wilderness values
+compatible with these uses; and
+(g) grazing land for livestock.
+(101) Freeboard.  A factor of safety usually expressed in feet above a flood level for
+purposes of floodplain management.
+(102) Garage, Private Parking.  A publicly or privately-owned structure having one or
+more tiers of height used for the parking of automobiles for the tenants, employees or
+owners of the property for which the parking spaces contained in or on said garage
+are required by this chapter, and which is not open for use by the general public.
+(103) Garage, Public Parking.  A publicly or privately-owned structure having one or
+more tiers of height used for the parking of automobiles and open for use by the
+general public, either free or for remuneration.  Public parking garages may include
+parking spaces for customers, patrons or clients which are required by this chapter,
+provided said parking spaces are clearly identified as free parking space(s) for the
+building or use which is required to provide said space(s).
+(104) General Merchandise.  Items for human use, including:  books and stationary,
+newspapers and magazines, clothing, furniture, drugs, curios and antiques, plants and
+flowers, household goods and furnishings, musical instruments and supplies, seeds
+and garden supplies, sporting goods, jewelry, art objects and supplies, pottery,
+handicrafts, photographic supplies, optical goods.
+(105) Grazing.  The use of land for the pasture of horses, cattle, sheep, goats and/or
+other domestic herbivorous animals alone or in conjunction with agricultural pursuits.
+(106) Grazing, Low Intensity.  Low intensity grazing is the use of land for pasture of
+horses, cattle, sheep, goats and/or other domestic herbivores at levels which will not
+damage permanent ground cover.
+(107) Ground Disturbance. Synonymous with the definition of topographic
+modification.
+
+May 5, 2026 16-38 LC16.090-100
+(108) Group Care Home.  Any home or institution maintained and operated for the
+care, boarding, housing or training of six or more physically, mentally or socially
+handicapped persons or delinquent or dependent persons by any person who is not
+the parent or guardian of and who is not related by blood, marriage or legal adoption
+to such persons.
+(109) Guest House, Employee Quarters.  An accessory building without a kitchen or
+cooking facilities and occupied solely by nonpaying guests or by a person or persons
+employed on the premises.  As used in the F-1, F-2, and EFU zones, means an
+accessory building without a kitchen or cooking facilities and solely occupied by
+nonpaying guests.
+(110) Hearings Official.  A person who has been appointed by the Board of County
+Commissioners to serve at its pleasure and at a salary fixed by it.
+(111) Historic Property.  Real property currently listed in the National Register of
+Historic Places and/or an official state listing of historic places, and designated as a
+historic site or structure in the applicable comprehensive plan.  Such property must
+otherwise comply with the definition of historic property in ORS 358.480.
+(112) Historic Structure or Site.  Property which had been identified by Lane County in
+its adopted Rural Comprehensive Plan findings as:
+(a) Historically significant.
+(b) In need of protection in order to preserve its historical significance, and for which
+the means of protection shall be the application of the Historic Structures or Sites
+Combining (/H-RCP) Zone.
+The above sites are also identified separately in LM 11.300.
+(113) Horticultural Specialties.  A crop distinguishable from typical commercial crops
+mentioned in the farm groupings of the EFU zone which are conducive to intensive
+management techniques.
+(114) Housing. A dwelling that is subject to clear and objective standards, conditions
+and procedures. Housing is limited to land within unincorporated communities as
+designated by the Lane County Comprehensive Plan after December 5, 1994,
+nonresource lands, and areas zoned for rural residential uses. Housing does not
+include residential accessory structures or development ancillary to a dwelling, such
+as motor vehicle access and on-site wastewater treatment systems.
+(115) Hydraulic.  Related to the movement or pressure of water.
+(116) Hydraulic hazards.  Hydraulic hazards are those associated with erosion or
+sedimentation caused by the action of water flowing in a river or streambed, or
+oceanic currents and waves.
+(117) Hydraulic processes.  Actions resulting from the effect of moving water or water
+pressure on the bed, banks, and shorelands of water bodies (oceans, estuaries,
+streams, lakes and rivers).
+(118) Improvement Agreement.  An agreement that under prescribed circumstances may
+be used in lieu of required improvements of a performance agreement.  It is a written
+agreement that is executed between the County and a developer, in a form approved by
+the Board of County Commissioners, in which the developer agrees to sign at a time any
+and all petitions, consents, etc., and all other documents necessary to improve an abutting
+road or other required improvements to County standards and to waive all rights or
+remonstrances against such improvements, in exchange for which the County agrees that
+
+May 5, 2026 16-39 LC16.090-100
+the execution of the improvement agreement will be deemed to be in compliance with the
+improvement requirements of the Code.
+(119) Indigenous Vegetation.  Plant species not introduced directly or indirectly into a
+particular area from the outside.  Originating or developing or produced naturally in a
+particular area.
+(120) Intensification.  Any additions which increase or expand the area or amount of an
+existing use or the level of activity.  Remodeling of the exterior of a structure is an
+intensification when it will substantially alter the appearance of the structure.
+Intensification shall not include the completion of a structure for which a valid permit
+was issued as of December 5, 1975.
+(121) Interdune Area.  Low-lying areas between higher sand landforms and which are
+generally under water during part of the year.
+(122) Interior Lot.  A lot, other than a corner lot, having frontage on only one street.
+(123) Intertidal.  Between the levels of mean lower low tide (MLLT) and mean higher
+high tide (MHHT).
+(124) Irrigated. Watered by an artificial or controlled means, such as sprinklers,
+furrows, ditches, or spreader dikes. An area or tract is "irrigated" if it is currently
+watered, or has established rights to use water for irrigation, including such tracts that
+receive water for irrigation from a water or irrigation district or other provider. For
+the purposes of this chapter, an area or tract within a water or irrigation district that
+was once irrigated shall continue to be considered "irrigated" even if the irrigation
+water was removed or transferred to another tract.
+(125) Jetty.  A structure extending seaward from the mouth of a river designed to
+stabilize the river mouth by preventing the build-up of material at the river’s mouth,
+and to direct or confine the stream or tidal flow.
+(126) Kennel; Commercial.  A place of business where dogs are boarded.  No more
+than two of the dogs shall be used for breeding.  The term is not intended to include
+an animal hospital or noncommercial kennel.
+(127) Kennel; Commercial Breeding.  A place of business for the breeding and/or
+selling of dogs.  The term is not intended to include an animal hospital or
+noncommercial kennel.
+(128) Kennel; Noncommercial.  An establishment or premises where three or more
+dogs, over six months of age, are kept or maintained.  No more than two of the dogs
+shall be used for breeding.  The term does not include any animal hospital.
+(129) Lawfully Established Unit of Land.
+(a) A lot or parcel created pursuant to ORS 92.010 to 92.192; or
+(b) Another unit of land:
+(i) Created in compliance with all applicable planning, zoning and
+subdivision or partition ordinances and regulations; or
+(ii) Created by deed or land sales contract, if there were no
+applicable planning, zoning or subdivision or partition
+ordinances or regulations; or
+(iii) That received legal lot verification from the County and was
+noticed pursuant LC 13.140.
+(c) 'Lawfully established unit of land' does not mean a unit of land created solely to
+establish a separate tax account.
+
+May 5, 2026 16-40 LC16.090-100
+(d) A lot or parcel lawfully created shall remain a discrete lot or parcel, unless the lot
+or parcel lines are vacated or the lot or parcel is further divided, as provided by
+law.
+(130) Legal Interest.  An interest in property not confined solely to ownership or
+possessory interest, but including all interests in property which in the discretion of
+the Planning Director, are not inconsistent with the intent and purposes of this
+chapter.  Such interests may include, but are not limited to, the following: owner,
+contract purchaser, lessee, renter, licensee, easement, resolution or ordinance of
+necessity to acquire or condemn adopted by a public or private condemnor.
+(131) Legal Lot.  A lawfully created lot or parcel.  A lot or parcel lawfully created shall
+remain a discrete lot or parcel, unless the lot or parcel lines are vacated or the lot or
+parcel is further divided as provided by law.
+(132) Loading Space.  An off street space or berth on the same lot with a building for
+the temporary parking of a commercial vehicle while loading or unloading
+merchandise or materials and which abuts upon a street, alley or other appropriate
+means of access.
+(133) Lot.  A unit of land that is created by a subdivision of land.
+(134) Lot Line; Front.  The private property line contiguous with the public street line
+or place.  For corner lots, the front lot line shall be the narrowest street frontage or as
+shown on the official plat of the property.
+(135) Lot Line; Rear.  A lot line which is opposite and most distant from the front lot
+line.  In the case of a triangular-shaped lot, the rear lot line for building purposes
+shall be assumed to be a line 10 feet in length within the lot, parallel to and at the
+maximum distance from the front lot line.
+(136) Lot Line; Side.  Any lot line which is not a front or rear line.
+(137) Lot of Record.  A legal lot which meets all of the lot of record standards
+specified in ORS Chapter 215 (Sections 9 to 13, Chapter 884, Oregon Laws) and is
+entitled to a dwelling or mobile home irrespective of land use regulations.
+(138) Lowest Floor.  The lowest floor of the lowest enclosed area (including
+basement).  An unfinished or flood resistant enclosure, usable solely for parking of
+vehicles, building access or storage, in an area other than a basement area, is not
+considered a building's lowest floor, provided that such enclosure is not built so as to
+render the structure in violation of the applicable non-elevation design requirements.
+(139) Low Intensity.  An activity or use conducted at a level that does not require
+developed facilities and can be accommodated without change to an area or resource.
+(140) Main Channel.  That part of a waterway which extends upstream from the
+entrance channel into the estuary proper (also called “inner channel”).  All or
+segments of the main channel may be maintained by dredging.  The main channel
+does not include auxiliary channels or waterways.
+(141) Maintain.  Support, keep, and continue in an existing state or condition without
+decline.
+(142) Maintained Channels and Jetties.  Only those channels or jetties authorized by
+Congress and which are periodically rehabilitated to deepen or stabilize the
+watercourse.
+(143) Manufactured Dwelling. A residential trailer, mobile home, or manufactured
+home. “Manufactured dwelling” does not include any building or structure
+
+May 5, 2026 16-41 LC16.090-100
+constructed to conform the State of Oregon Structural Specialty Code or the Low-
+Rise Residential Dwelling Code adopted pursuant to ORS 455.100 (Duties of
+director) to 455.450 (Prohibited acts) and 455.610 (Low-Rise Residential Dwelling
+Code) to 455.630 (Enforcement) or any unit identified as a recreational vehicle by the
+manufacturer.
+(144) Manufactured Home.  A structure constructed for movement on the public
+highways that has sleeping, cooking and plumbing facilities, that is intended for
+human occupancy, that is being used for residential purposes and that was
+constructed in accordance with federal manufactured housing construction and safety
+standards and regulations in effect at the time of construction. For purposes of
+implementing any contract pertaining to manufactured homes between the
+department and the federal government, "manufactured home" has the meaning given
+the term in the contract. The term "manufactured home" is synonymous with
+“manufactured dwelling,” but does not include a "recreational vehicle."
+(145) Manufactured Home Park or Subdivision.  A parcel (or contiguous parcels) of
+land divided into two or more manufactured home lots for rent or sale.
+(146) Manufactured Structure.  A structure that is designed or able to be relocatable,
+including but not limited to mobile home and recreational vehicles.  The term does
+not apply to any building or structure regulated under the State of Oregon Structural
+Specialty Code.
+(147) Map, Partition.  A final diagram and other documentation relating to a major or
+minor partition.
+(148) Marijuana.  The plant Cannabis family Cannabaceae, any part of the plant
+Cannabis family Cannabaceae and the seeds of the plant Cannabis family
+Cannabaceae.  “Marijuana” does not include industrial hemp, as defined in ORS
+571.300. (OAR 845-025-1015(24))
+(149) Marijuana processing.  A use where a marijuana processor processes marijuana.
+(a) For the purpose of this definition the term “marijuana processor” means a person
+who processes marijuana items in the State of Oregon.  (OAR 845-025-
+1015(28)).
+(b) For the purpose of this definition the term “processes” means the processing,
+compounding, or conversion of marijuana into cannabinoid products,
+cannabinoid concentrates or cannabinoid extracts. (OAR 845-025-1015(39)).
+(c) In accordance with ORS 215.213(1)(u), a facility for processing farm crops may
+be allowed in an Exclusive Farm Use (EFU) zone as part of the marijuana
+production use:
+(i) If the processing facility is located on a farm operation that provides at least
+one-quarter of the farm crops processed at the facility
+(ii) If a building is established or used for the processing facility or
+establishment, the farm operator may not devote more than 10,000 square
+feet of floor area to the processing facility or establishment, exclusive of the
+floor area designated for preparation, storage or other farm use.
+(iii) A processing facility or establishment must comply with all applicable siting
+standards.
+(150) Marijuana production.
+
+May 5, 2026 16-42 LC16.090-100
+(a) A use where a marijuana producer, produces marijuana.  This use is considered a
+farm use, as that term is defined in ORS 215.203.  Additionally, the mature
+marijuana is considered a crop and farm product as it related to the terms “farm”,
+and “farming practice”, as those terms are applied in ORS 30.930.
+(b) Drying and storage of marijuana by a marijuana producer is considered
+“preparation” of a farm product and is included as part of the definition of farm
+use in OAR 660-033-0020(7)(b)(A).
+(c) “Preparation” of a farm product also includes cleaning, treatment, sorting, or
+packaging.
+(d) Wholesale distribution of a farm crop is allowed as part of a farm use, as defined
+in ORS 215.203(2)(a) as “disposal by marketing or otherwise of the products…”.
+(e) For the purpose of this definition the term “produces” means the manufacture,
+planting, cultivation, growing, or harvesting of marijuana. OAR 845-025-
+1015(42))
+(i) The definition of “produces” does not include:
+(aa) Drying of marijuana by a marijuana processor, if
+the marijuana processor is not otherwise producing
+marijuana.
+(bb) The cultivation and growing of an immature
+marijuana plant by a marijuana processor, marijuana
+wholesaler or marijuana retailer if the marijuana
+processor, marijuana wholesaler or marijuana retailer
+purchased or otherwise received the plant from a
+licensed marijuana producer.
+(f) For the purpose of this definition the term “marijuana producer” means a person
+who produces marijuana in the State of Oregon. (OAR 845-025-1015(29))
+(151) Marijuana research.  A use that includes those activities specified in an OLCC
+approved research proposal that are conducted by qualified public or private
+researchers that are in possession of a valid OLCC Marijuana Research Certificate
+pursuant to ORS 845-025-5300.
+(152) Marijuana retail sales.  A use where marijuana is bought and sold by a marijuana
+retailer.
+(a) For the purpose of this definition the term “marijuana retailer” means a person
+who sells marijuana items to a consumer in the State of Oregon.  (OAR 845-025-
+1015(30))
+(153) Marijuana testing laboratory.  A use that includes the testing of marijuana in a
+laboratory certified by the authority under ORS 438.605 to 438.620 and for the
+purposes specified within OAR 845-025.
+(154) Marijuana wholesale distribution.  A use where marijuana is bought and sold by a
+marijuana wholesaler.  This use includes packaging and labeling.
+(a) For the purpose of this definition the term “marijuana wholesaler” means a
+person who purchases marijuana items in the State of Oregon for resale to a
+person other than a consumer.  (OAR 845-025-1015(31))
+(155) Marsh, High Salt.  Includes immature high marsh, mature high marsh and diked
+salt marsh.  These marshes are from two to three feet above tide flat areas and are
+characterized by at least occasional tidal inundation at higher, high tides or, in the
+
+May 5, 2026 16-43 LC16.090-100
+case of diked salt marshes, more infrequently with the opening of tide gates or with
+periodic flooding.
+(156) Mining.  All or any part of the process of mining by the removal of overburden
+and the extraction of natural mineral deposits thereby exposed by any method
+including open-pit mining operations, auger mining operations, processing, surface
+impacts of underground mining, production of surface mining refuse and the
+construction of adjacent or off-site borrow pits except those constructed for use as
+access roads.
+The term does not include excavations of sand, gravel, clay, rock or other
+similar materials conducted by a landowner or tenant on the landowner's or
+tenant's property for the primary purpose of reconstruction or maintenance of
+access roads and excavation or grading operations conducted in the process of
+farming or cemetery operations, onsite road construction or other onsite
+construction or nonsurface impacts of underground mines.
+(157) Minor Navigational Improvements.  Alterations necessary to provide water
+access to existing or permitted uses in conservation management units, including
+dredging for access channels and for maintaining existing navigation but excluding
+fill and in-water navigational structures other than floating breakwaters or similar
+permeable wave barriers.
+(158) Mitigation.  For the purposes of LC 16.234 (NE-RCP), 16.235 (CE-RCP), 16.236
+(DE-RCP); the creation, restoration, or enhancement of an estuarine area to maintain
+the functional characteristics and processes of the estuary, such as its natural
+biological characteristics and processes of the estuary, such as its natural biological
+productivity, habitats, and species diversity, unique features and water quality.
+(159) Mobile Home.  A structure constructed for movement on the public highways,
+that has sleeping, cooking and plumbing facilities, is intended for human occupancy
+and is being used for residential purposes and was constructed between January 1,
+1962 and June 15, 1976, and met the construction requirements of Oregon mobile
+home law in effect at the time of construction.
+(160) Mobile Home Park.  Any place where four or more mobile homes are located
+within 500 feet of one another on a lot, tract or parcel of land under the same
+ownership, the primary purpose of which is to rent space or keep space for rent to any
+person for a charge or fee paid or to be paid for the rental or use of facilities or to
+offer space free in connection with securing the trade or patronage of such person.
+"Mobile Home Park" does not include a lot or lots located within a subdivision being
+rented or leased for occupancy by no more than one mobile home per lot if the
+subdivision was approved by the local government unit having jurisdiction under an
+ordinance adopted pursuant to ORS 92.010 to 92.160.
+(161) Natural Areas. Includes land and water that has substantially retained its natural
+character, which is an important habitat for plant, animal, or marine life.  Such areas
+are not necessarily completely natural or undisturbed, but can be significant for the
+study of natural historical, scientific, or paleontological features, or for the
+appreciation of natural features.
+(162) Natural Hazards.  Natural events that are known to result in death or endanger the
+works of man, such as stream flooding, ocean flooding, groundwater, erosion and
+
+May 5, 2026 16-44 LC16.090-100
+deposition, landslides, earthquakes, weak foundation soils and other hazards unique
+to local or regional areas.
+(163) Nursing Home.  Any home, place or institution which operates and maintains
+facilities providing convalescent or chronic care, or both, which exceeds that as
+defined by "Residential Home".
+(164) Ocean Flooding.  The flooding of lowland areas by salt water owing to tidal
+action, storm surge, or tsunamis (seismic sea waves).  Land forms subject to ocean
+flooding include beaches, marshes, coastal lowlands, and low-lying interdune areas.
+Areas of ocean flooding are mapped by the Federal Emergency Management Agency
+(FEMA).  Ocean flooding includes areas of velocity flooding and associated shallow
+marine flooding.
+(165) 100 Year Flood.  See "Base Flood".
+(166) Ordinary High Water Line.  The ordinary high water line is defined as the line on
+the bank or shore of a river or water body which is attained during mean annual
+flood.  It does not include levels attained during exceptional or catastrophic floods.  It
+is often identifiable by physical characteristics such as a clear natural line impressed
+on the bank, shelving, changes in character in the soil, destruction or absence of
+vegetation not adapted for life in saturated soils or the presence of flotsam and debris.
+In the absence of identifying physical characteristics, the ordinary high water line
+may be determined by Step backwater analysis upon a two-year frequency flood as
+determined by the US Army Corps of Engineers.
+(167) Ordinary Low Water Line.  The ordinary low water line of a river is that point to
+which the waters normally recede when the volume of water is at its low level, not
+determined by the extraordinary year, and further means the line to which the
+Willamette River ordinarily recedes annually in season even though the elevation of
+that line may be higher as a result of the Corps of Engineers' flood control structures
+than would otherwise be the case without such structures.  Submersible lands are also
+considered that land or bank area between the ordinary low and high water line.
+(168) Outdoor Advertising and Structure.  Any card, cloth, paper, metal, wood, plastic
+or painted sign of any kind or character whatsoever, placed for outdoor advertising
+purpose on the ground, on any tree, wall, rock, post, fence, building or structure.  The
+term "placed" as used in this definition of "Outdoor Advertising Sign" and "Outdoor
+Advertising Structure" shall include erecting, constructing, posting, painting,
+printing, tacking, nailing, gluing, sticking, carving or otherwise fastening, affixing or
+making visible in any manner whatsoever.
+(169) Outdoor Mass Gathering. A gathering, as defined by ORS 433.735, that is an
+actual or reasonably anticipated assembly of more than 3,000 persons which
+continues or can reasonably be expected to continue for more than 24 consecutive
+hours but less than 120 hours within any three-month period and which is held
+primarily in open spaces and not in any permanent structure. Any decision for a
+permit to hold an outdoor mass gathering as defined by statute is not a land use
+decision and is appealable to circuit court. Outdoor mass gatherings do not include
+agri-tourism events and activities as provided for by ORS 215.283(4).
+(170) Panhandle.  A narrow extension of a tract, 60 feet or less in width, which is used
+as access to the main portion of the tract.
+(171) Parcel.
+
+May 5, 2026 16-45 LC16.090-100
+(a) Includes a unit of land created:
+(i) by partitioning land as defined in LC 16.090,
+(ii) in compliance with all applicable planning, zoning, and
+partitioning ordinances and regulations; or
+(iii) by deed or land sales contract if there are no applicable planning,
+zoning or partitioning ordinances or regulations.
+(b) It does not include a unit of land created solely to establish a separate
+tax account.
+(172) Parking Area, Automobile.  Space within a public parking area or a building,
+exclusive of driveways, ramps, columns, office and work areas, for the temporary
+parking or storage of one automobile.
+(173) Parking Area, Private.  Privately or publicly-owned property, other than streets
+and alleys, on which parking spaces are defined, designated or otherwise identified
+for use by the tenants, employees or owners of the property for which the parking
+area is required by this chapter and which is not open for use by the general public.
+(174) Parking Area, Public.  Privately or publicly-owned property, other than streets or
+alleys, on which parking spaces are defined, designated or otherwise identified for
+use by the general public, either free or for remuneration.  Public parking areas may
+include parking lots for retail customers, patrons and/or clients as required by this
+chapter.
+(175) Parking Space.  A  permanently  maintained  space with proper access for one
+standard sized automobile.
+(176) Partition.  Either an act of partitioning land or an area or tract of land partitioned.
+(177) Partitioning Land.  Dividing land to create not more than three parcels of land
+within a calendar year, but does not include:
+(a) Dividing land as a result of a lien foreclosure, foreclosure of a recorded contract
+for the sale of real property or the creation of cemetery lots;
+(b) Adjusting a property line as property line adjustment is defined in Lane Code
+16.090;
+(c) Dividing land as a result of the recording of a subdivision or condominium plat;
+(d) Selling or granting by a person to a public agency or public body of property for
+state highway, County road, city street or other right-of-way purposes if the road
+or right-of-way complies with the Lane County Rural Comprehensive plan and
+ORS 215.213(2)(p) to (r) and 215.283(2)(q) to (s). However, any property sold or
+granted for state highway, county road, city street or other right of way purposes
+shall continue to be considered a single unit of land until the property is further
+subdivided or partitioned; or
+(e) Selling or granting by a public agency or public body of excess property resulting
+from the acquisition of land by the state, a political subdivision or special district
+for highways, county roads, city streets or other right of way purposes when the
+sale or grant is part of a property line adjustment incorporating the excess right of
+way into adjacent property. The property line adjustment shall be approved or
+disapproved by the Planning Director. If the property line adjustment is
+approved, it shall be recorded in the deed records of the county where the
+property is located.
+
+May 5, 2026 16-46 LC16.090-100
+(178) Performance Agreement.  A written agreement executed by a subdivider or
+partitioner in a form approved by the Board of Commissioners and accompanied by a
+security also approved by the Board.  The security shall be of sufficient amount to
+ensure the faithful performance and completion of all required improvements in a
+specified period of time.
+(179) Person.  A natural person, or the heirs, executors, administrators or assigns of the
+natural person; or a firm, partnership or corporation, its heirs or successors or assigns;
+or the agent of any of the aforesaid; or any political subdivision, agency, board or
+bureau of the State.
+(180) Personal Services.  Laundering, dry cleaning and dyeing; rug cleaning and repair;
+photographic services; beauty and barber shops; apparel repair and alterations; shoe
+repair and maintenance; etc.
+(181) Planning Commission.  The Planning Commission of Lane County, Oregon.
+(182) Plat.  A final diagram and other documents relating to a subdivision.
+(183) Prefabricated Structure.  A building or structural unit that has been in whole or
+substantial part manufactured at an offsite location to be wholly or partially
+assembled on site, but does not include a mobile home, trailer or recreational vehicle.
+Prefabricated structures are regulated under the State of Oregon Structural Specialty
+Code.
+(184) Preparation.  See “farm use” definition.
+(185) Primary Processing Facility.  A facility for the primary processing of forest
+products.  The primary processing of a forest product means the use of a portable
+chipper, stud mill or other similar equipment for the initial treatment of a forest
+product, to facilitate its shipment for further processing.  Forest products, as used in
+this definition, means timber and other resources grown upon the land or contiguous
+units of land where the primary processing facility is located.
+(186) Processed.  As it applies to farm stands, processed crops and livestock means
+farm products that have been converted into other products through canning, drying,
+baking, freezing, pressing, butchering or other similar means of adding value to the
+farm product, including the addition of incidental ingredients, but not including the
+conversion of farm products into food items that are prepared on-site or intended for
+on-site consumption
+(187) Professional Services.  Medical and health services, legal services and other
+professional services, including those related to:  engineering, architecture, education,
+scientific research, accounting, planning, real estate, etc.
+(188) Property Line.  “Property line” means the division line between two units of land.
+(189) Property Line Adjustment.  A relocation or elimination of all or a portion of a
+common property line between abutting properties that does not create an additional
+lot or parcel.
+(190) Received.  Acquired by or taken into possession by the Director.
+(191) Recreation.  Any experience voluntarily engaged in largely during leisure
+(discretionary time) from which the individual derives satisfaction.
+(a) Low-Intensity Recreation.  Activities that do not require developed facilities and
+can be accommodated without change to the area or resource.  For example,
+boating, hunting, hiking, wildlife photography, and beach or shore activities can
+be low-intensity recreation.
+
+May 5, 2026 16-47 LC16.090-100
+(b) High-Intensity Recreation.  Uses specifically built facilities, or occurs in such
+density or form that it requires or results in a modification of the area or resource.
+Campgrounds, concentrated OHV use, golf courses, public beaches, and marinas
+are examples of high-intensity recreation.
+(192) Recreational Vehicle.  A vacation trailer or other unit, with or without motive
+power, built on a single chassis and which is designed for human occupancy and to
+be used temporarily for recreational camping, seasonal or emergency purposes and
+has a floor space of less than 400 square feet, when measured at the largest horizontal
+projections, is designed to be self-propelled or permanently towable by a light duty
+truck.  The term includes camping trailers, camping vehicles, motor homes, park
+trailers, bus conversions, van conversions, tent trailers, travel trailers, truck campers
+and any vehicle converted for use or partial use as a recreational vehicle.  The unit
+shall be identified as a recreational vehicle by the manufacturer or converter.
+(193) Recreational Vehicle Park.  A development designed primarily for transient
+service on which travel trailers, pickup campers, tent trailers and self-propelled
+motorized vehicles are parked and used for the purpose of supplying to the public a
+temporary location while traveling, vacationing or recreating.
+(194) Refinement Plan.  Refinement plans are a detailed examination of the service
+needs and land use problems peculiar to a particular area.  Refinements of the
+Comprehensive Plan can include specific neighborhood or community plans, or
+special purpose or functional plans (such as water, sewer or transportation plans).  In
+addition, refinement plan can be in the form of major planned unit developments,
+annexation and zoning applications, or other special area studies.
+(195) Removal.  The act of removing or fact of being removed by a person:  i.e., to cut
+the main stem or trunk of vegetation or to spray the foliage of vegetation which
+results in the significant loss of growth or health or the death of vegetation; to
+mechanically or manually disrupt or dislodge the root structure of vegetation
+resulting in significant loss of growth or health or causing the death of vegetation.
+(196) Replacement in Kind.  The replacement of a structure of the same size as the
+original and at the same location on the property as the original.
+(197) Residential Care Facility.  As authorized and regulated by state law, a care
+facility licensed by or under the authority of the Department of Human Resources
+under ORS 443.400 to 443.460 which provides residential care alone or in
+conjunction with treatment or training or a combination thereof for six to 15
+individuals who need not be related.  Staff persons required to meet DHR licensing
+requirements shall not be counted in the number of facility residents, and need not be
+related to each other or to any resident of the facility.
+(198) Residential Home.  As authorized and regulated by state law, a care facility
+licensed by or under the authority of the Department of Human Resources under ORS
+443.400 to 443.460 which provides residential care alone or in conjunction with
+treatment or training or a combination thereof for five or fewer individuals who need
+not be related.  Staff persons required to meet DHR licensing requirements shall not
+be counted in the number of facility residents, and need not be related to each other
+or to any resident of the facility.
+
+May 5, 2026 16-48 LC16.090-100
+(199) Restoration, Active.  Use of specific positive remedial actions, such as removing
+fills, installing water treatment facilities or rebuilding deteriorated urban waterfront
+areas.
+(200) Restoration, Estuarine.  Revitalizing, returning or replacing original attributes
+and amenities such as natural biological productivity, aesthetic and cultural
+resources, which have been diminished or lost by past alterations, activities or
+catastrophic events.  For the purposes of LC 16.234 (NE-RCP), 16.235 (CE-RCP),
+16.236 (DE-RCP); estuarine restoration means to revitalize or reestablish functional
+characteristics and processes of the estuary diminished or lost by past alterations,
+activities, or catastrophic events.  A restored area must be a shallow subtidal or an
+intertidal or tidal marsh area after alteration work is performed, and may not have
+been a functioning part of the estuarine system when alteration work began.
+(201) Restoration, Passive.  The use of natural processes, sequences and timing which
+occurs after the removal or reduction of adverse stresses without other specific
+positive remedial action.
+(202) Restoration, Shorelands.  Revitalizing, returning or replacing original attributes
+and amenities such as natural biological productivity, aesthetic and cultural
+resources, which have been diminished or lost by past alterations, activities or
+catastrophic .events.  For the purposes of LC 16.237 (/SN-RCP), 16.238 (/PW-RCP),
+16.239 (/NRC-RCP), 16.240 (/RD-RCP), 16.241 (/MD; shoreland restoration means
+to revitalize or reestablish functional characteristics and processes of the shoreland
+diminished or lost by past alterations, activities, or catastrophic events.
+(203) Riprap.  A layer, facing, or protective mound of stones randomly placed to
+prevent erosion, scour or sloughing of a structure or embankment; also , the stone so
+used.
+(204) Roadside Stand.  A use providing for the retail sale of any agricultural produce
+where more than one-half of the gross receipts result from the sale of produce grown
+on the unit of land where the roadside stand is located.
+(205) Rural Land.  Land outside urban growth boundaries that is:
+(a) Non-urban agricultural, forest or open space;
+(b) Suitable for sparse settlement, small farms or acreage homesites with no or
+minimal public services, and not suitable, necessary or intended for urban use; or
+(c) In an unincorporated community.
+(206) School.  A place or institution for learning and teaching in which regularly
+scheduled and suitable instruction meeting the standards of the Oregon State Board
+of Education is provided.
+(207) Seasonal Farm Worker Housing.  Housing limited in occupancy by seasonal farm
+workers and their immediate families, which is occupied no more than nine months a
+calendar year.  "Seasonal farm worker" means any person who, for an agreed
+remuneration or rate of pay, performs temporary labor for another to work in
+production of farm products or planting, cultivating or harvesting of seasonal
+agricultural crops or in forestation or reforestation of lands, including but not limited
+to the planting, transplanting, tubing, pre-commercial thinning and thinning of trees
+and seedlings, the clearing, piling and disposal of brush and slash and other related
+activities.
+
+May 5, 2026 16-49 LC16.090-100
+(208) Service Station.  Any building, land area or other premises, or portion thereof,
+used or intended to be used for the retail dispensing or sales of vehicular fuels; and
+including as an accessory use the sale and installation of lubricants, tires, batteries
+and similar accessories.
+(209) Setback/Set Back. The horizontal separation between two or more specified
+features. The setback is a straight line perpendicular to one of the features separated
+by the required setback distance, unless otherwise noted in Lane Code Chapter 16.
+(210) Sewerage Facility or Sewage Facility.  The sewers, drains, treatment and disposal
+works and other facilities useful or necessary in the collection, treatment or disposal
+of sewage, industrial wastes, garbage or other wastes.
+(a) Sewerage Facility, Community.  A sewerage facility, whether publicly or
+privately owned, which serves more than one parcel or lot.
+(b) Sewerage Facility, Individual.  A privately owned sewage facility which serves a
+single parcel or lot for the purpose of disposal of domestic waste products.
+(c) Sewerage Facility, Public.  A sewerage facility, whether publicly or privately
+owned, which serves users for the purpose of disposal of sewage and which
+facility is provided for or is available for public use.
+(211) Shelter Home.  A certified foster home or a licensed facility contracted with the
+state Childrens' Services Division for the purpose of safekeeping of children taken
+into temporary custody pending investigation and disposition, where the
+circumstances are such that the children need not be kept in secure custody.
+(212) Sign.  Any fabricated sign for use outdoors, including its structure, consisting of
+any letter(s), figure, character, mark, point, plane, design, poster, picture, stroke,
+stripe, line, trademark, reading matter or illuminating device which is constructed,
+attached, erected, fastened or manufactured in any manner whatsoever to attract the
+public in any manner for recognized purposes to any place, subject, person, firm,
+corporation, public performance, article, machine or merchandise display.  However,
+the term "sign" shall not include any display of official, court or public notices, nor
+shall it include the flag, emblem or insignia of a nation, government unit, school or
+religious group, except such emblems shall conform to illumination standards set
+forth in this chapter.
+(213) Site, Residential.  An area of more or less intensive development, surrounding a
+dwelling, not less than 60 feet wide, nor less than 6,000 square feet in area and
+comparable to a normal city lot.
+(214) Solid Waste Management. A planned program providing for the collection,
+storage and disposal of solid waste including, where appropriate, recycling and
+recovery.
+(215) Start of Construction.  Includes substantial improvement and means the date the
+building permit was issued, provided the actual start of construction, repair,
+reconstruction, placement or other improvement was within 180 days of the permit
+date.  The actual start means either the first placement of permanent construction of a
+structure on a site, such as the pouring of slab or footings, the installation of piles, the
+construction of columns, or any work beyond the state of excavation; or the
+placement of a manufactured home on a foundation.  Permanent construction does
+not include land preparation, such as clearing, grading and filling; nor does it include
+the installation of streets and/or walkways., nor does it include excavation for a
+
+May 5, 2026 16-50 LC16.090-100
+basement, footings, piers or foundation, or the erection of temporary forms; nor does
+it include the installation on the property of accessory buildings, such as garages or
+sheds not occupied as dwelling units or not part of the main structure.
+(216) State Plane Coordinate System.  The system of plane coordinates which has been
+established by the U.S. Coast & Geodetic Survey for defining and stating the
+positions or locations of points on the surface of the earth within the State of Oregon.
+(217) Structure.  Synonymous with the definition of building.
+(218) Structure in a Flood Hazard Area.  A walled and roofed building, a mobile home
+or a tank used in the storage of gas or liquid which is principally above ground.
+(219) Structure or Facility that Provides Water-Dependent Access.  For the purposes of
+LC 16.234 (NE-RCP), 16.235 (CE-RCP), 16.236 (DE-RCP), 16.237 (/SN-RCP), 16.238
+(/PW-RCP), 16.239 (/NRC-RCP),  16.240 (/RD-RCP), 16.241 (/MD-RCP), 16.242
+(/DMS-RCP), and 16.243 (/BD-RCP); anything constructed or installed, regardless of its
+present condition, functionality or serviceability, that provides or provided water
+dependent uses with physical access to the adjacent coastal water body.  Examples
+include wharves, piers, docks, mooring piling, boat ramps, water intake or discharge
+structures, or navigational aids.  For the purposes of this specific definition, “access”
+means physical contact with or use of the water.
+(220) Subdivide Land.  To divide an area or tract of land into four or more lots within a
+calendar year.
+(221) Subdivision.  Either an act of subdividing land or an area or a tract of land
+subdivided as defined in this section.
+(222) Substantial Damage.  Damage sustained by a structure or manufactured home
+whereby the cost of restoring the structure or manufactured home to its before-
+damaged condition would equal or exceed 50 percent of the market value of the
+structure or manufactured home before the damage occurred.
+(223) Substantial Improvement.  Any repair, reconstruction or improvement of a
+structure, the cost of which equals or exceeds 50 percent of the market value of the
+structure either, (a) before the improvement or repair is started, or (b) if the structure has
+been damaged, and is being restored, before the damage occurred.  For the purpose of
+this definition "substantial improvement" is considered to occur when the first alteration
+of any wall, ceiling, floor or other structural part of the building commences, whether or
+not that alteration affects the external dimensions of the structure.  The term does not,
+however, include either (1) any project or improvement of a structure to comply with
+existing state or local health, sanitary or safety code specifications which are solely
+necessary to assure safe living conditions, or (2) any alteration of a structure listed on the
+National Register of Historic Places or a State Inventory of Historic Places.
+(224) Temporary Alteration.  Dredging, filling, or another estuarine alteration
+occurring over a specified short period of time THAT is needed to facilitate a use
+allowed by an acknowledged plan.  Temporary alterations may not be for more than
+three years and the affected area must be restored to its previous condition.
+Temporary alterations include:  (1) Alterations necessary for federally authorized
+projects (e.g., access to dredged material disposal sites by barge or pipeline and
+staging areas or dredging for jetting maintenance; (2) Alterations to establish
+mitigation sites, alterations for bridge construction or repair and for drilling or other
+
+May 5, 2026 16-51 LC16.090-100
+exploratory operations; and (3) minor structures (such as blinds) necessary for
+research and educational observation.
+(225) Tidal Marsh.  Wetlands from lower high water (LHW) inland to the line of non-
+aquatic vegetation.
+(226) Tract.
+(a) A lot or parcel as defined in LC 16.090.
+(b) For the purposes of LC 16.211, “Tract” means one or more contiguous lots or
+parcels in the same ownership.  A tract is not considered to consist of less than
+the required acreage because it is crossed by a public road or waterway.
+(227) Topographic Modification. Any change made to the natural land surface,
+including grading, excavation, filling, and the removal of vegetation that alters the
+original contours or elevation of the site.
+(228) Urban.  Those places which must have an incorporated city.  Such areas may
+include lands adjacent to and outside the incorporated city and may also:  (a) have
+concentrations of persons who generally reside and work in the area, and (b) have
+supporting public facilities and services.
+(229) Urbanizable.  Those lands within an urban growth boundary and which are
+identified and (a) determined to be necessary and suitable for future urban use areas,
+and (b) can be served by urban services and facilities, and (c) are needed for the
+expansion of an urban area.
+(230) Use.  The purpose for which land, submerged or submersible lands, the water
+surface or a building is arranged, designed or intended, or for which either land or
+building is or may be occupied or maintained.
+(231) Vegetation Removal/Removal of Vegetation. Means the removal of plant roots
+from the ground; the removal or damage of any live plant material, such as cutting,
+pulling, grading, trampling, girdling, application of herbicides, burning, and
+placement of a physical barrier in the form of ground covering; and ground
+disturbance such as grading or resurfacing, and depositing of gravel or other fill
+material.
+(232) Veterinary Clinic.  Synonymous with the definition of “animal hospital.”
+(233) Water Dependent Use.  A use or activity which can be carried out only on, in or
+adjacent to water areas because the use requires access to the water body for
+waterborne transportation, recreation, energy production or source of water.
+(a) For the purposes of LC 16.234 (NE-RCP), 16.235 (CE-RCP), 16.236 (DE-RCP),
+16.237 (/SN-RCP), 16.238 (/PW-RCP), 16.239 (/NRC-RCP), 16.240 (/RD-RCP),
+16.241 (/MD-RCP), 16.242 (/DMS-RCP), and 16.243 (/BD-RCP); the following
+definitions apply:
+(i) “Access” means physical contact with or use of the water;
+(ii) “Energy production” means uses which need quantities of water
+to produce energy directly (e.g. hydroelectric facilities, ocean
+thermal energy conversion);
+(iii) “Recreation” means water access for fishing, swimming,
+boating, or similar.  Recreation uses are water dependent only if
+use of the water is an integral part of the activity.
+
+May 5, 2026 16-52 LC16.090-100
+(iv) “Requires” means the use either by its intrinsic nature (e.g.,
+fishing navigation, boat moorage) or at the current level of
+technology cannot exist without water access;
+(v) “Source of water” means facilities for the appropriation of
+quantities of water for cooling, processing or other integral
+functions.
+(vi) “Water-borne transportation” means use of water access:
+(aa) Which are themselves transportation (e.g.,
+navigation);
+(bb) Which require the receipt of shipment of goods by
+water; or
+(cc) Which are necessary to support water-borne
+transportation (e.g., moorage fueling, servicing of
+watercraft, ships, boats, terminal and transfer facilities.
+(b) Typical examples of “water dependent uses” include the following:
+(i) Aquaculture.
+(2)Certain scientific and educational activities which, by their nature, require access
+to coastal waters, estuarine research activities and equipment mooring and support.
+(3)Commercial.  Commercial fishing marinas and support; fish processing and sales;
+boat sales, rentals, and supplies.
+(4)For the purposes of LC 16.234 (NE-RCP), 16.235 (CE-RCP), 16.236 (DE-RCP),
+16.237 (/SN-RCP), 16.238 (/PW-RCP), 16.239 (/NRC-RCP),  16.240 (/RD-RCP),
+16.241 (/MD-RCP), 16.242 (/DMS-RCP), and 16.243 (/BD-RCP); examples of uses
+that are not “water dependent uses” include restaurants, hotels, motels, bed and
+breakfasts, residences, parking lots not associated with water dependent uses, and
+boardwalks.
+(5)Industrial.  Manufacturing to include boat building and repair; water-borne
+transportation, terminals, and support; energy production which needs quantities of
+water to produce energy directly; water intake structures for facilities needing
+quantities of water for cooling, processing, or more integral functions.
+(6)Recreational.  Recreational marinas, boat ramps and support.
+(234) Water Oriented Use.  A use whose attraction to the public is enhanced by a view
+of or access to coastal waters.
+(a) Water Related Use.  Uses which are not directly dependent upon access to a
+water body, but which provide goods or services that are directly associated with
+water dependent land or waterway use, and which, if not located adjacent to
+water, would result in public loss of quality in the goods or services offered.
+Except as necessary for water dependent or water related uses or facilities,
+residences, parking lots, spoil or dump sites, roads and highways, restaurants,
+businesses, factories and trailer parks are not generally considered dependent on
+or related to water location needs.
+(235) Wetlands.  Those areas that are inundated or saturated by surface or ground water
+at a frequency and duration sufficient to support, and that under normal
+circumstances do support, a prevalence of vegetation typically adapted for life in
+saturated soil conditions.
+16.095 Lane Code 16.100
+
+May 5, 2026 16-53 LC16.090-100
+(236) Width.  The horizontal distance between the side boundary lines measured in the
+mean direction of the front and rear boundary lines.
+(237) Yard.  An open space on the same lot with a building unoccupied and obstructed
+from the ground upward, except as otherwise provided herein.
+(238) Yard, Front.  A yard between the front line of the building (exclusive of steps)
+and the front property line.
+(239) Yard, Rear.  An open, unoccupied space on the same lot with a building between
+the rear line of the building (exclusive of steps, porches and accessory buildings) and
+the rear line of the lot.
+(240) Yard, Side.  An open, unoccupied space on the same lot with a building, between
+the sidewall line of the building and the side line of the lot.
+(241) Youth Camp. A facility either owned or leased, and operated by a state or local
+government, or a nonprofit corporation as defined under ORS 65.001, to provide an
+outdoor recreational and educational experience primarily for the benefit of persons
+21 years of age and younger. Youth camps do not include any manner of juvenile
+detention center or juvenile detention facility.
+(242) Yurt: A round, domed shelter of cloth or canvas on a collapsible frame with no
+plumbing, sewage disposal hook-up or internal cooking appliance.
+ (Revised by Ordinance No. 7 -87, Effective 6.17.87; 12-87, 8.13.87; 19- 87, 10.14.87; 12-90, 10.11.90; 3 -91,
+5.17.91; 10-92, 11.12.92; 12-97, 11.20.97; 5-02, 8.28.02; 10-07, 10.19.07; 2-09, 1.8.10; 6-10; 9.17.10; 7-12,
+12.28.12; 14-08, 11.5.14; 14-09, 12-16-14; 15-08, 12-15-15; 16-01, 2.25.16; 18-07, 12.27.18; 20-05, 6.16.20;
+20-06, 6.16.20, 25-07, 5.5.2026)
+
+16.095 Compliance With LC Chapter 15, Roads.
+Development subject to the provisions of this chapter shall comply with LC Chapter 15,
+Roads.
+(Revised by Ordinance No. 10-04, Effective 6.4.04)
+
+16.096 Compliance with Erosion Prevention Code.
+Development subject to the provisions of this chapter must comply with Erosion
+Prevention code requirements, LC 9.090. (Revised by Ordinance No. 23-06, Effective 5.1.2024)
+
+DEVELOPMENTAL APPROVAL PROCEDURES
+RURAL COMPREHENSIVE PLAN
+
+16.100 Development.  Approval Procedures Relationship of Lane Code Chapter 14
+into Lane Code Chapter 16.
+Lane Code Chapter 14 is the procedure for submittal, acceptance, investigation and review
+of applications for development of lands under the jurisdiction of the Lane County Rural
+Comprehensive Plan with these additions:
+ (1) Definitions.  Abbreviations, terms, phrases, words and their derivatives shall
+be construed as specified in LC 16.090 above instead of as specified in LC 14.015.
+ (2) Ex Parte Contacts.  A communication between County staff and the Planning
+Commission or Board shall not be considered an ex parte conta ct for the purposes of LC
+14.070(5). (Revised by Ordinance No. 7 -87, Effective 6.17.87; 12- 90, 10.11.90; 11-91A, 8.30.91; 5 -02,
+8.28.02; 20-05, 6.16.20)
+
+THIS SPACE INTENTIONALLY LEFT BLANK
+
+16.100 Lane Code 16.100
+
+May 5, 2026 16-54 LC16.090-100
+
+PAGES 16-54 THROUGH 16-56
+ARE RESERVED FOR FUTURE EXPANSION

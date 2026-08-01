@@ -1,0 +1,2483 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/washington-county
+id: washington-land-use-artiipr
+title: 'ARTICLE II - PROCEDURES'
+doc_type: ordinance
+citation: 'ARTICLE II - PROCEDURES'
+authority_level: county_ordinance
+issuing_body: 'Washington County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=465373&nodeId=ARTIIPR&productId=15510
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: ba7c7ba39e44e5388ea47743bb2f70a2902ab92a0b32f937b89523a81fe36cde
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.015
+    - ORS 197.251
+    - ORS 197.311
+    - ORS 197.660
+    - ORS 215.203
+    - ORS 215.213
+    - ORS 215.306
+    - ORS 215.417
+    - ORS 215.427
+    - ORS 215.428
+    - ORS 215.750
+    - ORS 215.755
+    - ORS 215.780
+    - ORS 409.290
+    - ORS 520.005
+    - ORS 522.005
+    - ORS 540.505
+  related: []
+  supersedes: []
+tags: [washington-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Washington County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# ARTICLE II - PROCEDURES (ARTICLE II - PROCEDURES)
+
+## At a glance
+
+ARTICLE II - PROCEDURES — land use of Washington County. 19 sections.
+
+## Full text
+
+ ### ARTICLE II - PROCEDURES
+
+ ### 200 - INTRODUCTION
+
+This Article establishes the procedures to be used in reviewing and taking action
+on development proposals.
+In accordance with Oregon law, a Middle Housing Land Division is not a land use decision,
+a limited land use decision or a discretionary permit for proposed development of
+land. As such, applicable procedures differ from those outlined below. Procedures
+for a Middle Housing Land Division are included in Section 606-6 and Article II does
+not apply.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 3.), 2-7-23, eff. 3-9-23)
+
+ ### 201 - DEVELOPMENT PERMIT
+
+201-1
+Permit Required
+Except as excluded in Section 201-2, and Section 702, no person shall engage in or
+cause a development to occur, as defined in Sections 106-57 and 421-2.2, without first
+obtaining a development permit through the procedures set forth in this Code. The
+Director shall not issue any permit for the construction, reconstruction or alteration
+of a structure or a part thereof without first verifying that a valid development
+permit has been issued. Development authorized by a development permit shall occur
+only as approved.
+( Ord. No. 845 , § 2.A.(Exh. 1, § 2), 4-2-19, eff. 5-2-19)
+201-2
+Exclusions from Permit Requirement
+The following activities are permitted in each district except as limited to particular
+districts below, but are excluded from the requirement of obtaining a development
+permit. Exclusion from the permit requirement does not exempt the activity from otherwise
+complying with all applicable standards, conditions and other provisions of this Code.
+The activities set forth below are not excluded from the requirement to obtain approval
+of erosion control measures to the extent the activity is subject to Section 426.
+201-2.1
+Landscaping outside the floodplain and not involving a structure or parking lot.
+201-2.2
+Any change or repair to a building or other structure that does not alter or expand
+the use thereof, and, except as permitted by Section 440-2, does not require a building
+permit.
+201-2.3
+Erection of a tent for a lawful use not exceeding 10 days in any 30-day period.
+201-2.4
+Farm use, except for grading or as provided in Section 201-2.12 as prohibited by Sections
+421 and 422 and those specific farm uses specifically prohibited in urban land use
+districts. For the purposes of Section 201-2.4, "farm use" does not include the boarding
+or training of horses for profit.
+201-2.5
+An emergency measure necessary for immediate safety of persons or protection of property,
+except those authorized by Section 702 which are exempt from the requirements of this
+Code, provided however, that an application for a development permit shall be promptly
+filed if the measure otherwise would require such a permit but for the emergency.
+201-2.6
+Propagation or cutting of trees except:
+A.
+As specified in Section 407-3;
+B.
+Inside the UGB, trees located within a floodplain, drainage hazard area and/or Significant
+Habitat, which are subject to Section 421 and/or Section 422; or
+C.
+Where the trees were designated for preservation in a prior development action or
+through the master planning process for a development.
+201-2.7
+Establishment, construction, maintenance, preservation or termination of local public
+streets substantially in the public right-of-way together with piping and culverting,
+accessory drainage systems such as catch basins, and necessary accessory structures
+and easements. Notwithstanding this exemption, said facilities within a floodplain
+or drainage hazard area shall obtain a development permit. This development (alteration)
+permit shall be approved if the applicant demonstrates compliance with the applicable
+standards in the following sections: Sections 410, 421, 422, and 426.
+201-2.8
+Except in the EFU, AF-20 and EFC Districts, establishment, construction, maintenance,
+preservation or termination of the following authorized public facilities in the public
+right-of-way directly serving development or as shown on the Transportation System
+Plan or adopted Public Facility Plan, together with piping and culverting and necessary
+drainage systems and accessory structures and easements: sewer and water lines, electrical
+and gas distribution lines, telephone and television cable transmission lines. Notwithstanding
+this exemption, said facilities within a floodplain or drainage hazard area shall
+obtain a development permit. This development (alteration) permit shall be approved
+if the applicant demonstrates compliance with the applicable standards in the following
+sections: Sections 410, 416, 421, 422, and 426.
+201-2.9
+Maintenance, preservation or repair of local public streets or private streets, including
+culverting and piping, accessory drainage systems and necessary accessory structures,
+within a floodplain or drainage hazard area. Work shall comply with local, state and
+federal regulatory requirements, including the requirements of Article IV.
+201-2.10
+In the EFU, EFC, AF-20, and MAE Districts only, operations for the exploration of
+geothermal resources as defined by ORS 522.005 and oil and gas as defined by ORS 520.005,
+including the construction of access roads, subject to the following:
+A.
+There shall be no work in a floodplain, drainage hazard area or an area identified
+in the Rural/Natural Resource Plan as a significant natural resource;
+B.
+A permit is obtained from the Department of Geology and Mineral Industries (DOGAMI)
+prior to commencing work; and
+C.
+Access to the site from a public road shall comply with the sight distance standards
+of Section 501-8.5 F.
+201-2.11
+The following structures accessory to a residential use:
+A.
+Playground equipment and structures;
+B.
+Stone or brick barbecues;
+C.
+Clotheslines;
+D.
+Treehouses, playhouses and storage sheds less than 120 square feet in area;
+E.
+Arbors and trellises;
+F.
+Dog houses totaling no more than 50 square feet;
+G.
+Hutches for rabbits and other small animals totaling no more than 50 square feet;
+H.
+Houses for wild or domestic birds totaling no more than 50 square feet;
+I.
+Basketball hoops, tetherball poles and other permanently mounted sports equipment;
+J.
+Above-ground swimming pools, hot tubs and spas with no permanent plumbing or electrical
+connections.
+Such uses shall not be located in a required front or street side yard and shall be
+set back at least three feet from a side (except a street side yard) or rear property
+line. Such uses, except uses authorized by Section 201-2.11 D., may be placed at a
+side or rear property line if a sight-obscuring fence at least six feet in height
+is located along the property line. No portion of the structure shall extend over
+the property line. The maximum allowed height is 15 feet.
+201-2.12
+The following excavations or fills, except excavations or fills for public transportation
+facilities, provided that no excavation or fill shall occur in the floodplain, drainage
+hazard area or in an area specifically identified as a significant natural resource
+in the Community Plan or the Rural/Natural Resource Plan without first obtaining a
+development permit:
+A.
+Excavations below finish grade for basements and footings of a building, retaining
+wall or other structure authorized by a valid development or building permit;
+B.
+Cemetery graves;
+C.
+Excavations for wells, tunnels or utilities;
+D.
+Excavations or fills for public projects conducted by or under contract of the county;
+E.
+Exploratory excavations affecting or disturbing areas less than 6,000 square feet
+in size, under the direction of soil engineers or engineering geologists;
+F.
+Access roads developed to support forest-related activities, agricultural crop production
+or grazing activities, where the roads:
+(1)
+Are located on property used for an interim agricultural or forest use;
+(2)
+Are solely for providing access to water supplies, equipment or supply storage areas,
+livestock grazing areas, producing fields or orchards, or fence lines;
+(3)
+Do not create a cut or fill greater than three feet in height visible from a public
+road;
+(4)
+Are 16 feet or less in width;
+(5)
+Do not divert drainage onto or cause increased erosion on adjacent properties; and
+(6)
+Do not discharge or threaten to discharge silt onto adjacent properties or into streams
+shown on the latest USGS seven and one-half minute topographic quadrangle map;
+G.
+Accepted farm practices, as defined in ORS 215.203, such as preparation of land for
+cultivation and not including grading for roadwork or pads for structures are subject
+to all of the following:
+(1)
+No piping of drainages serving off-site properties;
+(2)
+If fill is proposed, finished grade is no higher than adjacent property at the property
+line, or fill or excavation area is outside the district setbacks;
+(3)
+Preserves existing drainage pattern, including direction and flow capacity and velocity
+of an existing drainage swale or channel. A drainage swale is a local depression,
+which conveys water to or from an adjoining property. All ponds shall be located outside
+drainage channels;
+(4)
+Except for ponds, all material is either "A" Horizon topsoil (as defined by Natural
+Resources Conservation Service [NRCS]) or if utilized for nursery purposes, the material
+is commonly used to grow nursery crops;
+(5)
+Fill material does not contain hazardous or contaminated substances, putrescibles
+or material such as asphalt, concrete or tires;
+(6)
+Compliance with OAR 603-095 (Agricultural Water Quality Management Program);
+(7)
+All grading activities must be completed within one calendar year of commencing grading
+and the graded area returned to farm use;
+(8)
+Except for nursery farms, imported fill material shall not exceed 5,000 cubic yards;
+(9)
+Charging a fee to place fill is not allowed.
+H.
+Grading that is a soil or water conservation project regulated by the U.S. Department
+of Agriculture, NRCS, and/or the Washington County Soil and Water Conservation District
+(SWCD), or a Water Quality Farm Plan approved by SWCD for a Container Nursery;
+I.
+An excavation which is less than two feet in depth, or which does not create a cut
+slope greater than five feet in height and steeper than one and one-half horizontal
+to one vertical;
+J.
+Imported fill which does not exceed150 cubic yards on any one lot or parcel placed,
+in a single year, on natural terrain and does not obstruct a drainage course, and
+where the fill will be:
+(1)
+Less than one foot in depth and placed on natural slope flatter than five horizontal
+to one vertical; or
+(2)
+Less than three feet in depth when not intended to support structures.
+K.
+Underground pipes and conduits except where such pipes or conduits would introduce
+an urban service outside the Urban Growth Boundary, in accordance with Section 430-105.6;
+L.
+Above ground electric transmission, distribution, communication and signal lines on
+a single pole system where a single pole system is defined as above-ground electrical
+lines and their supporting concrete, wood or metal poles, but does not include self-supporting
+steel lattice-type structures; and
+M.
+Farm related pipes, including but not limited to irrigation and drainage pipes, and
+necessary accessory structures, such as pumps.
+201-2.13
+Continued use of a valid nonconforming use or exercise of a vested right, except that
+any change, alteration, restoration or replacement of a nonconforming use shall require
+a development permit as provided in Section 440.
+201-2.14
+Family day care provider as defined in Section 106-78, except in the EFU, EFC, AF-20,
+AF-10, AF-5, RR-5, Industrial, R-IND and MAE Districts.
+201-2.15
+Emergency or routine repairs or maintenance of a lawfully established communication
+tower or antenna.
+201-2.16
+Transportation improvements required to fulfill a condition of approval of a development
+action.
+201-2.17
+Receive-only satellite dishes as accessory uses to a maximum diameter of ten feet,
+located in a side or rear yard and no closer than three feet to any property line,
+with the center of the dish mounted no more than six feet above grade.
+201-2.18
+Except in the EFU, EFC and AF-20 Districts, a home occupation which meets the standards
+for a Type I home occupation set forth in Section 430-63 but involves no customers entering the premises;
+201-2.19
+Child care provided at a public or private school for before and/or after school care
+exclusively for students affiliated with the school.
+201-2.20
+Direct sale of farm crops as described in ORS 215.203 when a building permit is not
+required.
+201-2.21
+In the EFU, EFC and AF-20 Districts, boarding or training of horses for profit, subject
+to compliance with the standards in Section 430-21 .
+201-2.22
+Shelter home, as defined in ORS 409.290(5), in the R-5, R-6, R-9, R-15 and R-24 Districts
+provided it is in an existing dwelling and on a lot that is at least 15,000 square
+feet in size.
+201-2.23
+Development that involves removal of vegetation down to duff or bare soil and is outside
+the floodplain, drainage hazard area or an area specifically identified as a significant
+natural resource in the Community Plan or the Rural/Natural Resource Plan.
+201-2.24
+Utility facilities in the EFU and AF-20 Districts:
+A.
+The placement of utility facilities, with the exception of water and sewer facilities,
+overhead and in the subsurface of public roads and highways along the public right-of-way
+and when not located within a drainage hazard or floodplain hazard area.
+B.
+The placement of utility facility service lines. Utility facility service lines are
+utility lines and accessory facilities or structures that end at the point where the
+utility service is received by the customer and that are located on one or more of
+the following:
+(1)
+A public right-of-way;
+(2)
+Land immediately adjacent to a public right-of-way, provided the written consent of
+all adjacent property owners has been obtained; or
+(3)
+The property to be served by the utility.
+201-2.25
+In the EFU and AF-20 Districts, on-site filming and activities accessory to on-site
+filming for less than 45 days - See ORS 215.306 for standards.
+201-2.26
+Residential Home, as defined in ORS 197.660, in any district that allows a single-family
+dwelling unit as a Type I action or in any district in an existing dwelling, except
+in the EFU and AF-20 Districts.
+201-2.27
+Private hunting and fishing operations in the EFC District which do not constitute
+development as defined in Section 106-57.
+201-2.28
+Annexation, boundary changes, or extraterritorial extensions pursuant to ORS 198 and
+199.
+201-2.29
+Installation and maintenance of farm-related irrigation and drainage pipes within
+the 100-year floodplain, provided the disturbed soil is already farmed and is outside
+the Water Areas and Wetlands and Fish and Wildlife Habitat and the Riparian Wildlife
+Habitat Significant Natural Resource Areas, as defined in Section 422, and that the
+land disturbance will not alter flood storage capacity or water velocities. The property
+owner shall be required to sign an affidavit stating that all spoils will be removed
+from the flood area and placed in an appropriate disposal site.
+201-2.30
+The following telecommunication facilities located in the public road right-of-way:
+A.
+Small wireless facilities, as defined in Section 430-109.2, subject to the following:
+(1)
+No more than three associated equipment cabinets, not to exceed a total of 17 cubic
+feet, may be mounted on the pole. The cabinet shall be painted with or constructed
+of material with a nonreflective neutral color that matches or is similar to that
+of the pole. All associated ground mounted equipment located in the right-of-way is
+subject to the applicable standards of the road authority (e.g., ODOT, Washington
+County);
+(2)
+Antennas, excluding whip antennas, shall be minimally off-set, as defined in Section
+430-109.2, or located within a cylindrical enclosure mounted on the pole (including
+omni-directional antennas) in order to minimize visual impacts. Visible antennas shall
+be colored or painted with a nonreflective neutral color that matches or is similar
+to that of the pole;
+(3)
+All cabling shall be colored or painted with nonreflective neutral colors that match
+or are similar to that of the pole. If cabling is contained in protective conduit
+then the conduit shall be of the same or similar color as the pole;
+(4)
+Service providers shall provide to the roadway authority copies of all plans and elevation
+schematics for purposes of maintaining an accurate inventory of these exempt facilities;
+(5)
+Notwithstanding Sections 201-2.30(1), (3), and (4), reflective elements may be allowed
+when determined necessary by the applicable roadway authority;
+(6)
+All applicable county, state and federal right-of-way and/or building permits;
+(7)
+Except as exempt under Sections 201-2.30, 201-2.31 or 430-109.3, telecommunication
+facilities and associated equipment are subject to review under CDC Section 430-109;
+and
+(8)
+Abandonment - Section 430-109.11.
+B.
+Colocation of antennas on electric and other utility poles in the public road right-of-way
+where the subject support pole is part of an existing above ground electric transmission,
+distribution, communication or signal line, and where "pole" is defined as a monopole,
+double pole or lattice utility structure, subject to the following:
+(1)
+All requirements of 201-2.30 A. above; and
+(2)
+Within the public road right-of-way, existing poles may be replaced provided the new
+pole is not more than 20 feet higher than pole to be replaced and antennas, excluding
+whip antennas, extend no more than 10 feet above the support pole.
+201-2.31
+The placement of an antenna and/or antenna support structures (including guy wires)
+of amateur radio operators up to a maximum height of 70 feet, provided the antenna
+is mounted to a permanent structure, and provided the antenna and any associated support
+structures are in compliance with district setback standards.
+201-2.32
+Irrigation canals, delivery lines and those structures and accessory operational facilities
+associated with an irrigation district as defined in ORS 540.505. Notwithstanding
+this exemption, said facilities within a floodplain or drainage hazard area shall
+obtain a development permit.
+201-2.33
+Mobile food site that complies with all of the following standards:
+A.
+Sites hosting any number of mobile food units for 12 or fewer hours within a 24-hour
+period. Mobile food units cannot be stored on-site;
+B.
+Each mobile food unit is entirely self-contained with no connections to on-site utilities;
+C.
+Mobile food units(s) are not occupying or obstructing pedestrian walkways, loading
+areas, driveways, drive aisles, bicycle parking areas, or emergency vehicle access;
+D.
+The site is located in the NC, OC, CBD, GC, IND, INST, R-COM, TO:RC, TO:EMP, TO:BUS,
+NCC NB, or NCMU NB Districts, or is in conjunction with an existing permitted institutional
+use; and
+E.
+No modifications are made to the development site, including surface modifications
+and vegetation removal.
+201-2.34
+Temporary hosting/shelter location for homeless persons and/or households in a habitable
+institutional building that is not typically used as a residence, subject to the following:
+A.
+No more than 20 homeless persons hosted at one time;
+B.
+Hosting is limited to 10 consecutive days, and a cumulative total of 60 days per calendar
+year;
+C.
+Must include accessible restroom facilities, including at least one restroom that
+meets ADA requirements;
+D.
+Temporary shelter that includes overnight accommodations/sleeping spaces must have
+an accessible emergency exit.
+For the purposes of this section, a habitable institutional building may include,
+but is not limited to, a building such as a school, a place of worship, or a recreational
+or community center, owned and/or operated by a nonprofit organization, a religious
+institution, a school district, or a parks or community services provider.
+201-2.35
+Vehicle Camping Site for Homeless Persons as defined in Section 106, on a site in
+the following nonresidential districts: FD-20, FD-10, NC, OC, CBD, GC, IND, INST,
+TO:RC, TO:EMP, TO:BUS, NCC NB, NCMU NB, INST NB, CCMU or NMU or on the site of a religious
+institution in any urban district, subject to the following:
+A.
+Written certification from a city, the County or other authorized public agency that,
+at the time of certification, the property owner and site are in compliance with program
+requirements adopted by the city, the County or other public agency, designed to aid
+in transition to stable housing;
+B.
+Located in a parking lot on a site that includes a building occupied by a nonresidential
+commercial interest, religious institution, place of worship, public service nonprofit,
+or public entity, where both the parking lot and building are owned or operated by
+that entity;
+C.
+A storage facility is placed on-site for program participants to store personal items,
+such that the items are not visible from public rights-of-way;
+D.
+Maximum number of vehicles for camping use that will be on-site simultaneously is
+three unless otherwise provided in Oregon Revised Statute and program rules;
+E.
+Parking spaces used for vehicle camping, and storage and sanitary facilities, are
+located:
+1.
+No less than 10 feet from property lines of the subject site; and
+2.
+Storage and sanitary facilities are no less than 20 feet from the property line of
+any off-site residential use; and
+F.
+Vehicle camping does not occupy pedestrian walkways, fire lanes or other emergency
+access areas, or areas needed for corner vision (Section 418-3) or sight distance
+(Section 501-8.5 F.).
+(Ord. No. 828 , § 2.C.(Exh. 1, § 2), 9-26-17, eff. 11-24-17; Ord. No. 826A , § 2.A.(Exh. 1, § 2), 10-24-17, eff. 11-24-17; Ord. No. 827A , § 2.A.(Exh. 1, § 1), 10-24-17, eff. 11-24-17; Ord. No. 831A , § 2.A.(Exh. 1, § 2), 7-17-18, eff. 8-16-18; Ord. No. 832A , § 2.A.(Exh. 1, § 2), 9-18-18, eff. 10-18-18; Ord. No. 855 , § 2.A.(Exh. 1, § 2), 8-6-19, eff. 11-28-19; Ord. No. 856A , § 2.A.(Exh. 1, § 1), 10-22-19, eff. 11-28-19; Ord. No. 866 , § 2.C.(Exh. 3, § 2), 9-1-20, eff. 10-1-20; Ord. No. 867 , § 2.A.(Exh. 1, § 2), 9-1-20, eff. 10-1-20; Ord. No. 889A , § 2.C.(Exh. 3, § 3.), 2-7-23, eff. 3-9-23; Ord. No. 903 , § 2.M.(Exh. 13, § 2.), 10-15-24, eff. 11-14-24; Ord. No. 902A , § 2.B.(Exh. 2, § 2.), 11-5-24, eff. 12-5-24)
+201-3
+Issuance and Effective Date
+201-3.1
+The development permit shall be effective upon the expiration of any local appeal
+period. For the final decision of the County, the development permit shall be effective
+upon issuance.
+201-3.2
+In the event that a final approval of the Board or Hearings Officer is appealed to
+a body of competent jurisdiction, the development permit shall be issued after notice
+of the decision is provided and it shall be the responsibility of the person appealing
+the Board or Hearings Officer decision to seek appropriate judicial remedies halting
+action upon the permit.
+Notwithstanding issuance, however, the holder of the permit shall proceed at the permit
+holder's own risk and shall be deemed to have expressly assumed all risk of proceeding
+and shall save and hold harmless Washington County from any responsibility or liability
+for proceeding with development.
+201-3.3
+Every development permit shall be specific as to the approval granted or development
+authorized. It shall be subject to the standards and conditions set forth in this
+Code, excepting only those variances or exceptions authorized by the Review Authority,
+together with any conditions imposed by the Review Authority. The development permit
+shall be effective immediately unless otherwise conditioned.
+201-4
+Expiration
+201-4.1
+Except as outlined below under Section 201-4.2 or as otherwise specifically provided
+in this Code, a development permit shall expire automatically four years from the
+date of issuance unless one of the following occurs first:
+A.
+The development permit is revoked as provided for in Section 201-7 or as otherwise
+invalidated by a body of competent jurisdiction; or
+B.
+An application for an extension is filed pursuant to Section 201-5; or
+C.
+The development has commenced as provided in Section 201-6.
+D.
+Upon final approval by the County of a permit, if the permit is appealed to a body
+of competent jurisdiction, the four-year permit period shall be tolled until a final,
+unappealed decision by a competent jurisdiction is made.
+In addition to A., B., C. and D., Standard Land Divisions shall expire automatically
+four years from the date of preliminary approval, and property line adjustments shall
+expire automatically four years from the date of approval as specified in Article
+VI.
+201-4.2
+For dwellings allowed under the following provisions, a development permit shall expire
+automatically four years from the date of issuance unless one of the actions outlined
+under Section 201-4.1 occurs first:
+A.
+Replacement Dwellings in the EFC District;
+B.
+Non-Farm Dwellings in the EFU and AF-20 Districts;
+C.
+Marginal Lands Dwellings in the AF-20 District;
+D.
+Lot of Record, Large Ownership and Template Dwellings in the EFC District; and
+E.
+Caretaker residences for public parks and public fish hatcheries.
+201-4.3
+A development permit for a solar access permit shall expire automatically 180 days
+from the date of issuance unless one of the requirements of Section 201-4.1 occur
+first as provided in Section 427-5.7.
+201-4.4
+A development permit for a solar access permit shall expire automatically if construction
+is abandoned or suspended for a period of 180 days or more as provided in Section
+427-5.7 B.
+201-4.5
+Section 201-4 does not apply to development permits for public transportation facilities
+authorized by Article VII.
+201-4.6
+In the EFU and AF-20 Districts, an approved deferred replacement permit pursuant to
+Section 430-8 allows the construction of a replacement dwelling at any time.
+(Ord. No. 877A , § 2.A.(Exh. 1, § 1.), 10-11-21, eff. 11-10-21; Ord. No. 890A , § 2.A.(Exh. 1, § 1.), 2-7-23, eff. 3-9-23)
+201-5
+Extension
+201-5.1
+Extension in all Districts Except the EFU, AF-20 and EFC Districts
+If an extension is desired, the holder of the development permit must file an application
+for an extension prior to expiration of the development permit. Unless approved, an
+extension request does not extend the expiration date. Extension requests shall be
+processed as a Type I action. An extension may be granted for a maximum of two years
+from the original date of expiration except as provided in Section 427-5.8. Subsequent
+extensions may not be granted.
+201-5.2
+Extension in the EFU, AF-20 and EFC Districts
+Applies to all permits in the EFU, AF-20 and EFC Districts except as provided in Section
+201-5.3 below. If an extension is desired, the holder of the development permit must
+file an application for an extension prior to the expiration of the development permit.
+Unless approved, an extension request does not extend the expiration date. Extension
+requests shall be processed as a Type II action. One extension may be granted for
+a maximum period of one year from the original date of expiration when findings are
+made demonstrating compliance with A., B. and C. below. Additional one-year extensions
+may be authorized where applicable criteria for the decision have not changed.
+A.
+The applicant was unable to begin or continue development during the approval period
+for reasons for which the applicant was not responsible;
+B.
+The request for extension is not sought for purposes of avoiding any responsibility
+imposed by this Code or the permit; and
+C.
+There has been no change in circumstances or the law likely to necessitate significant
+modification of the development approval or conditions of approval.
+201-5.3
+Extension of Certain Dwelling Approvals in the EFU, AF-20 and EFC Districts
+For the dwelling approvals listed under Section 201-4.2 only, if an extension is desired,
+the holder of the development permit must file an application for an extension prior
+to the expiration of the development permit. Unless approved, an extension request
+does not extend the expiration date. Extension requests shall be processed as a Type
+I action. In accordance with ORS 215.417 (3), an extension approved under this Section
+is not a land use decision as defined in ORS 197.015.
+A.
+One extension may be granted for a maximum of two years from the original date of
+expiration when there has been no change in circumstances or to the applicable laws
+likely to necessitate significant modification of the development approval or conditions
+of approval.
+B.
+In addition to an extension allowed by A. above, up to five one-year extensions may
+be subsequently approved when:
+(1)
+The applicant makes a written request for the additional extension prior to the expiration
+of the previous extension.
+(2)
+The applicable residential development statute has not been amended following approval
+of the permit, except for amendments to ORS 215.750 made in 2019 that apply to Template
+Dwellings (Section 430-37.2 G.).
+(3)
+No changes in state administrative rule or CDC regulations applicable to the permit
+have occurred since the permit was approved, aside from that noted in (2) above, unless
+allowed by the County.
+(Ord. No. 877A , § 2.A.(Exh. 1, § 1.), 10-11-21, eff. 11-10-21)
+201-6
+When a Development has Commenced
+201-6.1
+This provision applies to authorized projects that are initiated prior to the expiration
+of the development permit, but not completed before the expiration date. Once development
+has commenced, the holder of the development permit is allowed to complete the development
+and the development permit does not expire, except in the case of a Standard Partition
+or Standard Subdivision as noted under CDC Sections 605-2.1.A(4)(c) and 610-2.1.A(3)(c),
+or in the case of permit revocation pursuant to Section 201-7.
+There are two processes for making decisions to determine whether or not development
+has commenced. The Type I process can be summarized as expending a minimum dollar
+amount of money physically altering the land or structure, or changing the use thereof
+or, in the case of development requiring a building permit, issuance of the building
+permit.
+The Type II process can be summarized as expending any combination of time, labor,
+or money physically altering the land or structure, or changing the use thereof; or
+expending a combination of time, labor, or money toward completion of a development
+project without physically altering the land or structure or changing the use thereof
+for reasons beyond reasonable control of the permit holder.
+201-6.2
+Type I decision:
+The authorized development has commenced when the holder of the permit has:
+(1)
+Physically altered the land or structure or changed the use thereof. Examples include
+one or more of the following: preliminary grading for roads, driveways, building sites
+or installation of utilities; interior remodeling of a structure; required off-site
+improvements; and
+(2)
+Such alteration or change is directed toward completion of applicable Code standards
+or Conditions of Approval for the development; and
+(3)
+Is sufficient in terms of money expended to demonstrate a good faith effort to complete
+the development. Sufficient means spending at least: $5,000 for projects involving
+one dwelling on an existing lot or parcel, $10,000 for Standard Partitions and Standard
+Subdivisions with four lots, and $25,000 for all other projects. The expenditures
+must be related to completion of the development; this money must have been spent
+on physically altering the property. Expenditures that could apply to various other
+uses of the land or structure shall be excluded including the cost of purchasing land;
+or
+(4)
+In the case of development requiring a building permit for a dwelling or commercial
+building permit, the land use sign-off for the permit or issuance of the building
+permit shall be conclusive evidence of commencing development. A development permit
+which otherwise would have expired [development has not commenced in accordance with
+(1), (2) and (3) above], but for issuance of a building permit, shall expire automatically
+upon expiration of the building permit. Nothing herein, however, shall be deemed to
+extend the life of said building permit as provided by law.
+201-6.3
+Type II decision:
+The authorized development has commenced when the holder of the permit has:
+(1)
+Physically altered the land or structure or changed the use thereof. Examples include
+one or more of the following: preliminary grading for roads, driveways, building sites
+or installation of utilities; interior remodeling of a structure; required off-site
+improvements; and
+(2)
+Such alteration or change is directed toward completion of the development; and
+(3)
+Is sufficient in terms of time, labor, or money expended to demonstrate a good faith
+effort to complete the development. Expenditures must be related to completion of
+the development. Expenditures that could apply to various other uses of the land or
+structure shall be excluded including the cost of purchasing land; or
+(4)
+Physically altering the land or structure or changing the use thereof could not practically
+occur for reasons beyond reasonable control of the Permit holder and other effort
+expended is sufficient in terms of time, labor, or money spent to demonstrate a good
+faith effort to complete the development. Expenditures must be related to completion
+of the development. Expenditures that could apply to various other uses of the land
+or structure shall be excluded including the cost of purchasing land.
+201-6.4
+In the case of development authorized to be done in phases, each phase must be commenced
+within the time frame specified in the approval, or commenced within two years of
+completion of the prior phase if no time table is specified. The date of phase completion
+in the case of a structure or structures shall be the date of issuance of an occupancy
+permit or final building inspection by the Director for 80 percent or more of the
+structure or structures.
+( Ord. No. 813, § 2.C.(Exh. 3, § 2), 8-23-2016, eff. 11-25-2016 ; Ord. No. 890A , § 2.A.(Exh. 1, § 1.), 2-7-23, eff. 3-9-23)
+201-7
+Revocation of Development Permit
+201-7.1
+Revocation shall be processed as a Type I action. A development permit may be revoked
+upon a finding of:
+A.
+Noncompliance with the standards or conditions set forth in this Code, or any special
+conditions imposed upon the permit;
+B.
+Intentional fraud, misrepresentation or deceit upon the part of the applicant as to
+an issue material to the issuance of the development permit;
+C.
+Abandonment or discontinuance as determined by failure to make reasonable progress
+toward completion of a commenced development for a continuous period of one year.
+Bona fide good faith efforts to market the development shall not constitute abandonment
+or discontinuance; or
+D.
+A change in this Code, the Comprehensive Plan or state law which would make the approved
+development unlawful or not permitted, prior to the development obtaining a vested
+right or nonconforming use status.
+201-7.2
+Revocation shall be effective immediately upon the County providing written notice
+thereof to the holder of the permit. Unless provided otherwise by the revoking authority,
+revocation terminates the authority to continue the use. Continued use without a current
+valid development permit shall be a violation of this Code.
+201-7.3
+The holder of a revoked permit may reapply for a new permit at any time as an entirely
+new application.
+201-7.4
+Revocation is available in addition to and not in lieu of any other remedy provided
+by law and is not a condition precedent to any such remedy.
+201-8
+Transferability of Development Permit
+Unless otherwise provided in the development permit, a development permit shall be
+transferable provided the transferor files a statement with the Director signed by
+the transferee and recorded in the chain of title of the property, indicating that
+the transferee has been provided a copy of the development permit and all conditions
+of approval, understands the obligation and agrees to fulfill the conditions unless
+a modification is approved as provided in this Code. The transferor shall be jointly
+responsible for ensuring compliance until such a statement is filed, at which time
+the transferor's obligation shall be terminated.
+
+ ### 202 - PROCEDURE TYPES AND DETERMINATION OF PROPER PROCEDURE
+
+All land use actions shall be classified as one of the following unless state law
+mandates different or additional procedures for particular land use actions or categories
+of land use actions or specified otherwise by Article VII of this Code. A Middle Housing
+Land Division, per Oregon statute, is not a land use action, therefore categories
+of land use actions outlined below do not apply. Procedural requirements for Middle
+Housing Land Divisions are outlined in Section 606, and Article II does not apply.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 4.), 2-7-23, eff. 3-9-23)
+202-1
+Type I
+202-1.1
+Type I development actions involve permitted uses or development governed by clear
+and objective review criteria. Type I actions do not encompass discretionary land
+use decisions. Impacts have been recognized by the development and public facility
+standards. The intent and purpose of the District is not a consideration of approval
+in Type I uses.
+202-1.2
+The following are Type I actions:
+A.
+Those identified in this Code as Type I actions;
+B.
+Notwithstanding any other provision, structures or uses proposed to implement an approved
+Planned Development, if consistent with the approval:
+(1)
+For purposes of this Section, consistency shall mean that the use or development was
+contemplated by and conforms with the prior approval.
+(2)
+As regards public facilities impacts, the use or structure shall be processed as a
+Type I action only if the impacts, as measured by the accepted standard used in the
+prior approval, are less than or equal to the impacts identified in the prior approval.
+For example, trip generation of the proposed use or structure is less than or equal
+to the trip generation projected in the planned development approval.
+(3)
+If the Director determines that the proposed use or structure was not contemplated,
+does not conform or requires the application of discretionary review criteria or conditions
+of approval, it shall be processed as listed in the applicable district. The Director's
+determination shall not be subject to appeal.
+202-1.3
+Type I development actions shall be decided by the Director without public notice
+or hearing. Notice of a decision shall be provided to the applicant or the applicant's
+representative and owners of the subject property. The decision may be reconsidered
+pursuant to Section 208 or appealed by the applicant as provided in Section 209. The
+hearing shall be conducted as a Type III hearing except that only the applicant and
+owners of the subject property shall be entitled to notice.
+202-2
+Type II
+202-2.1
+Type II land use actions are presumed to be appropriate in the District. They generally
+involve uses or development for which review criteria are reasonably objective, requiring
+only limited discretion. Impacts on nearby properties may be associated with these
+uses which may necessitate imposition of specific conditions of approval to minimize
+those impacts or ensure compliance with this Code.
+202-2.2
+The following are Type II actions:
+A.
+Those identified in this Code as Type II;
+B.
+In all districts other than residential, agricultural or forestry, development or
+uses not specifically identified or classified in this Code which are determined by
+the Director to be substantially similar with similar impacts to uses listed as Type
+I or Type II in the applicable land use district or other provisions of this Code,
+and probably would have been included in the District if considered during adoption
+of this Code. The determination may be challenged in the appeal of the decision on
+the proposed development but is not subject to appeal on its own.
+C.
+In the EFU, EFC and AF-20 Districts, development or uses specifically allowed by ORS
+215.203 and ORS 215.213, or OAR 660, Division 6 or 33, may be determined by the Director
+to be allowed.
+202-2.3
+Notice of proposed Type II actions shall be sent as provided in Section 204. A 14
+calendar day written comment period shall be provided from the time notice is mailed
+to provide interested persons with an opportunity to submit written comments about
+the proposed action before the Director makes a decision on the request. Upon close
+of the comment period the Director shall review all written comments actually received
+by the Department within the comment period and the applicant's response to the comments.
+The Director may also consider responses to questions by staff which clarify or amplify
+information which does not change the original request. Written comments received
+after the comment period and prior to issuance of a decision do not have to be considered
+by the Director. The Director shall then issue a decision. The Notice of the Decision
+shall be mailed pursuant to Section 204-3.4. Any party as defined by Section 205-3.2
+may appeal the decision as provided in Section 209.
+202-3
+Type III
+202-3.1
+Type III actions involve development or uses which may be approved or denied, thus
+requiring the exercise of discretion and judgment when applying the development criteria
+contained in this Code or the applicable Community Plan. Impacts may be significant
+and the development issues complex. Extensive conditions of approval may be imposed
+to mitigate impacts or ensure compliance with this Code and the Comprehensive Plan.
+202-3.2
+The following are Type III actions:
+A.
+Those identified in this Code as Type III;
+B.
+Those not identified or otherwise classified which are determined by the Director
+to be substantially similar to the uses or development designated as Type III, require
+the exercise of significant discretion or judgment, involve complex development issues,
+or which likely will have significant impact. The determination may be challenged
+on appeal of the decision on the proposed development but is not subject to appeal
+on its own; and
+C.
+Quasi-judicial plan amendments.
+202-3.3
+Type III actions shall be decided by the Hearings Officer or Planning Commission after
+a Public Hearing, except that the Board of Commissioners shall decide Type III actions
+for quasi-judicial plan amendments involving EFC, EFU, or AF-20 land or for which
+an exception to Oregon Statewide Planning Goals is requested, or which are required
+by state law to be decided by the governing body. Prior notice shall be given as provided
+in Section 204. Only decisions on quasi-judicial plan amendments shall be subject
+to reconsideration pursuant to Section 208.
+Decisions on Type III actions may be appealed pursuant to Sections 209, 210, 211,
+and 212.
+202-4
+Type IV
+202-4.1
+Type IV actions are legislative. They involve the creation, broad scale implementation
+or revision of public policy. These include amendments to the text of the Comprehensive
+Plan, Community Plans or the Community Development Code. Large scale changes in planning
+and development maps also may be characterized as legislative where a larger number
+of property owners are directly affected.
+202-4.2
+Type IV actions are made through adoption of County ordinances.
+202-4.3
+Unless specifically provided otherwise, the procedures of this Article do not apply
+to legislative action which shall be adopted in accordance with the Washington County
+Charter and State law.
+202-5
+Determination of Proper Procedure Type
+202-5.1
+The Director shall determine whether an application or decision is a Type I, II or
+III action in accordance with the standards set forth above. Questions as to the appropriate
+procedure shall be resolved in favor of the Type providing the greatest notice and
+opportunity to participate. The decision of the Director is not subject to appeal
+on its own, but may be alleged as an error in an appeal of the decision on the proposed
+development. Upon appeal of the decision on the merits of a development action not
+specifically classified in this Code, the appeals authority may determine, based on
+the standards set forth in Section 202, that a different procedure type should have
+been used and direct that the proposed development action be processed accordingly.
+202-5.2
+The determination as to whether a matter is a Type IV Legislative matter shall be
+made by the Director in accordance with the standards of this Code and the County
+Charter. Concurrent actions involving legislative and non-legislative actions shall
+be separated for proper processing. The decision of the Director is not subject to
+appeal on its own, but may be alleged as an error on appeal of the decision on the
+proposed development. Upon appeal of the final decision on the merits of the action,
+the appeals authority may determine, based on the standards set forth in Section 202
+of this Code and the County Charter, that a different procedure type should have been
+used, and direct that the proposed development action be processed accordingly.
+202-5.3
+Notwithstanding any other provision, and, upon payment of the proper fee, an applicant
+may choose to have the proposal processed under a procedure Type (except legislative)
+which provides greater notice and opportunity to participate than would otherwise
+be required.
+202-5.4
+Notwithstanding any other provision, and, at no additional cost to the applicant,
+the Director may choose to process a Type II application under the Type III procedure
+in order to provide greater notice and opportunity to participate than would otherwise
+be required, or in order to comply with the time requirements for reviewing development
+applications in ORS 215.428.
+
+ ### 203 - PROCESSING TYPE I, II AND III DEVELOPMENT ACTIONS
+
+203-1
+Initiation and Withdrawal of Action
+203-1.1
+Type I, II and III development actions may be initiated only by:
+A.
+Application by all the owners or all the contract purchasers of the subject property,
+or any person authorized in writing to act as agent of the owners or contract purchasers.
+For development allowed within a recorded easement, the signature of the other party
+to the easement is not required. In case of an application for a plan designation
+which requires that an exception be taken to Statewide Goals 3 and 4 pursuant to Goal
+2, only one owner/applicant's signature is required. Contract purchasers shall indicate
+in writing that the contract vendor(s) has been notified of the application. If a
+lot or parcel has been divided without the approval of the County and such approval
+was required at the time the division occurred, a development action for approval
+of the improper division may be initiated by the owners of a portion of the existing
+lot or parcel, notwithstanding that less than all of the owners of the existing legal
+lot or parcel have applied for the approval;
+B.
+The Board of Commissioners;
+C.
+The Planning Commission;
+D.
+The Director; or
+E.
+Public agencies or private entities that have statutory rights of eminent domain for
+projects they have the authority to construct.
+203-1.2
+Director Withdrawals
+A.
+Any application, petition for review or motion for reconsideration may be withdrawn
+by the Director at the request of the applicant or petitioner except when an application
+is deemed complete. Once accepted as complete, the application may be withdrawn only
+if the Director determines that:
+(1)
+Written consent to withdraw an application has been obtained from a majority of the
+owners or contract purchasers or the majority interest holders in the property, or
+all signers of the petition for review; and
+(2)
+No existing violation of this Code or the Comprehensive Plan, which might best be
+cured by further processing the application, have been identified on the subject property.
+B.
+Applications for quasi-judicial plan amendments that are not made complete within
+180) days shall be withdrawn by the Director on the 181st day after first being submitted.
+203-1.3
+If an application, petition for review or motion for reconsideration is withdrawn
+after public notice has been provided and the Review Authority has not rendered a
+decision, the Director shall provide written notification to all persons that were
+entitled to be mailed a public notice of pending review of the Type II or Type III
+action and all parties of record stating the application has been withdrawn.
+203-1.4
+Fees for applications and petitions for review withdrawn at the request of the applicant
+shall be refunded, less the actual costs incurred by the County.
+203-2
+Pre-Application Conference
+203-2.1
+No application for a Type II or Type III development action shall be received by the
+Director unless the applicant or the applicant's representative has:
+A.
+Attended a pre-application conference; or
+B.
+Signed a waiver, on a form prepared by the Director, waiving the pre-application conference
+requirement.
+203-2.2
+The purpose of the pre-application conference is to acquaint the applicant or representative
+with the requirements of this Code, the Comprehensive Plan and other relevant criteria.
+It is designed to assist the applicant. The applicant assumes the risk for delays
+or other problems caused by failure to attend.
+It is impossible, however, for the conference to be an exhaustive review of all potential
+issues and the conference shall not bind or stop the County in any way from enforcing
+all applicable regulations.
+203-2.3
+Pre-application conferences shall be scheduled by the Director at the earliest reasonable
+time.
+203-2.4
+As soon as practicable, the Director shall provide the applicant or representative
+with a written summary of the meeting.
+203-2.5
+If a complete application relating to a proposed development action that was the subject
+of a pre-application conference has not been submitted within one year of the conference,
+a new conference or waiver shall be required.
+203-3
+Neighborhood Meeting
+203-3.1
+Intent and Purpose:
+The purpose of the neighborhood meeting is to provide a forum for the applicant, surrounding
+neighbors, and interested members of the Community Participation Organization (CPO)
+to meet and consider a proposed application, and to discus issues/concerns regarding
+the proposal prior to application submittal. This preliminary meeting is intended
+to inform, encourage and maximize citizen involvement early in the development process
+so that the resultant application is more responsive to neighborhood concerns, and
+to expedite and lessen the expense of the review process by avoiding needless delays,
+appeals, remands or denials.
+203-3.2
+The The following application types shall be subject to the neighborhood meeting requirements:
+A.
+Inside the UGB:
+- Partitions, except Middle Housing Land Divisions;
+- Subdivisions, except Middle Housing Land Divisions;
+- Type III Special Uses;
+- Type II Manufactured Dwelling Parks;
+- Type II Adjustment - (Article V only);
+- Type III Variances;
+- Type II Alterations to a Nonconforming Use or Structure (Sections 440-6.2 A.(2)
+and 440-6.2 B.);
+- Residential Planned Developments;
+- Type II or III Development Review - Residential, except Middle Housing or proposals
+that require Type II or Type III review solely because they are within a Significant
+Habitat boundary, but which otherwise would require either a Type I permit or no development
+permit; and
+- Type II or III Development Review - Commercial, Industrial, or Institutional (required
+only when the parcel subject to the application is within 125 feet of a Residential
+District).
+B.
+Outside the UGB:
+- Standard Subdivisions - when greater than 10 lots;
+- Type III Special Uses;
+- Type II New Quarry applications;
+- Type III Variances;
+- Type II Alterations to a Nonconforming Use or Structure (Sections 440-6.2 A.(2)
+and 440-6.2 B.);
+- Type II Adjustment - Lot area only;
+- Type II or III Development Review - Rural Commercial, Rural Industrial, MAE (required
+only when the proposal abuts the AF-5, AF-10, or RR-5 District).
+203-3.3
+Neighborhood Meeting Requirements
+Neighborhood meetings shall be held at a location within the boundaries of the applicable
+CPO. The meeting shall be held on a weekday evening, or weekends at any reasonable
+time. Mailed notice of the meeting shall be provided by the applicant to the surrounding
+neighborhood and applicable CPO. The applicant shall also post notice of the neighborhood
+meeting by posting a sign on the subject site in advance of the meeting. The applicant
+shall prepare meeting notes of major points about the development proposal that were
+discussed at the meeting. The applicant shall be required to hold only one meeting
+prior to submitting an application for a specific site, but may hold more if desired.
+The Board of Commissioners shall establish by Resolution and Order specific requirements
+for notice of posting and conducting of neighborhood meetings for the categories of
+applications described in Section 203. The Board shall describe the requirements and
+procedures for each category of application. These requirements may be amended by
+Resolution and Order of the Board.
+If the applicant fails to hold a neighborhood meeting and the application is deemed
+complete, failure to hold a neighborhood meeting in accordance with these provisions
+and the Resolution and Order prior to submittal of a complete application shall result
+in denial of the application. If the applicant adds one or more tax lots to the development
+application after the neighborhood meeting, the applicant shall hold an additional
+neighborhood meeting with a new notice.
+(Ord. No. 828 , § 2.C.(Exh. 1, § 3), 9-26-17, eff. 11-24-17; Ord. No. 822A , § 2.C.(Exh. 3, § 1), 10-17-17; Ord. No. 885A , § 2.1.(Exh. 1, § 2.), 6-28-22, eff. 7-28-22; Ord. No. 889A , § 2.C.(Exh. 3, § 1.), 2-7-23, eff. 3-9-23; Ord. No. 890A , § 2.A.(Exh. 1, § 1.), 2-7-23, eff. 3-9-23; Ord. No. 902A , § 2.B.(Exh. 2, § 3.), 11-5-24, eff. 12-5-24)
+203-4
+Application
+203-4.1
+Applications for development actions shall be submitted in accordance with the format
+and upon such forms as may be established by the Director.
+203-4.2
+A complete application is one which contains the information required to address the
+relevant standards of this Code and the applicable standards and requirements of the
+Comprehensive Plan as specified by this Code. It shall consist of the following:
+A.
+A completed original application form, signed by all persons required for initiating
+an application under Section 203-1.1. No application shall be deemed complete if it
+is determined that all necessary authorization to file has not been obtained. Failure
+to provide such authorization shall result in denial of the application;
+B.
+A current Washington County tax map(s) showing the subject property(ies);
+C.
+Current county tax maps showing all properties in an adjoining county that are:
+(1)
+Within 500 feet of the subject property(ies) in the Urban area; or
+(2)
+Within 1,000 feet of the subject property(ies) in the Rural area.
+The tax maps shall be obtained from the adjoining county;
+D.
+Documentation of the names and addresses of the owners of record of the properties
+described in C above recorded with the Department of Assessment & Taxation of the
+adjoining county;
+E.
+A site plan of the property illustrating the property boundaries, proposed and existing
+structures and improvements, easements, driveways, water and sewer lines, septic tanks
+and drainfields, all drainage courses, and structures within 250 feet of a drainage
+course. Site plans of the entire property must be drawn at an even scale (1" = 100'
+preferred) with detailed site plans drawn at an even scale (1" = 20' preferred) on
+11×17 paper, or as approved by the Director.
+F.
+Documentation of whether a railroad-highway crossing provides or will provide the
+only access to the subject property.
+G.
+Information required pursuant to Article V, Public Facility and Service Requirements.
+Outside the Urban Growth Boundary, any proposed development action that would generate
+additional vehicular trips (other than one house on an existing vacant lot and uses
+listed as exempt in Article V) shall provide evidence that any access to a public
+road meets the sight distance requirements of Section 501-8.5F. A Sight Distance Evaluation
+or completed Traffic Impact Statement prepared by county staff, or a Sight Distance
+Certification prepared, stamped and signed by a registered Oregon engineer in accordance
+with Sec. 501-8.5F. may serve as evidence;
+H.
+Additional information required by other provisions of this Code, including applicable
+standards and requirements of the Comprehensive Plan as specified by this Code;
+I.
+Additional information directly related to the applicable standards of this Code,
+including applicable standards and requirements of the Comprehensive Plan as specified
+by this Code as deemed essential by the Director to evaluate adequately the specific
+application for compliance with those criteria and standards;
+J.
+A written statement that explains the criteria and standards considered relevant to
+the application, states the facts relied upon in determining that the application
+meets the applicable criteria, standards, and explains the justification for approving
+the application based on the criteria and standards and facts set forth in the application.
+The findings must be substantive, not just recitations of the criteria and standards,
+and shall be supported by evidence in the application;
+K.
+Evidence of compliance with the Neighborhood Meeting requirements required by Section
+203-3, if required;
+L.
+The applicable fees adopted by the Board of Commissioners are hereby incorporated
+by reference as the fees herein. These fees may be amended by Resolution and Order
+by the Board; and
+M.
+For lands within the Clean Water Services boundary, documentation from Clean Water
+Services which specifies the conditions and requirements necessary for the applicant
+to comply with the agency's stormwater connection permit, water quality, erosion control,
+and sanitary sewer standards.
+N.
+For Standard Land Divisions and development actions subject to Type II or III Development
+review on lands within a City Coordination Area (see map(s) on file with Current Planning),
+documentation from the appropriate city that ensures early coordination has occurred
+and confirms the City was informed of the pending application and was provided the
+opportunity to communicate regarding connection to city services. Changes of use that
+do not propose any new structures are exempt from this requirement. The documentation
+shall be no more than 180 days old.
+(Ord. No. 828 , § 2.C.(Exh. 1, § 3), 9-26-17, eff. 11-24-17; Ord. No. 858A , § 2.A.(Exh. 1, § 1), 10-22-19, eff. 11-28-19; Ord. No. 890A , § 2.A.(Exh. 1, § 1.), 2-7-23, eff. 3-9-23; Ord. No. 902A , § 2.B.(Exh. 2, § 3.), 11-5-24, eff. 12-5-24)
+203-5
+Application Submittal and Acceptance
+203-5.1
+Applications shall be submitted to the Director in the number specified on the application
+form. The Director, however, may waive copies of specific documents, maps or exhibits
+upon a determination that the difficulty or burden of copying outweighs the usefulness
+of the copies.
+203-5.2
+No application shall be received by the Department for determination of completeness
+without the appropriate application fee.
+203-5.3
+Except as provided in Sections 203-5.6 and 203-5.7, after the application is deemed
+complete consistent with the requirements of ORS 215.427, the Review Authority shall
+take final action on Type II and III applications for development, including resolution
+of appeals within the following timelines:
+APPLICATION
+INSIDE THE UGB
+OUTSIDE THE UGB
+Type II and III, except as noted below
+120 days
+150 days
+Certain multi-dwelling developments that include affordable housing, as outlined in
+ORS 197.311(3)
+100 days
+N/A
+Mineral and Aggregate uses governed by Section 379
+120 days
+203-5.4
+If an application is incomplete, the Review Authority shall notify the applicant in
+writing of exactly what information is missing within 30 days of receipt of the application
+and allow the applicant to submit the missing information. The application shall be
+deemed complete for the purpose of Section 203-5.3 upon receipt by the governing body
+or its designee of:
+A.
+All of the missing information;
+B.
+Some of the missing information and written notice from the applicant that no other
+information will be provided; or
+C.
+Written notice from the applicant that none of the missing information will be provided.
+203-5.5
+On the 181st day after first being submitted, the application is void if the applicant
+has been notified of the missing information and has not submitted the applicable
+information as described in Section 203-5.4.
+203-5.6
+If the application was complete when first submitted or the applicant submits the
+requested additional information within 180 days of the date the application was first
+submitted and the County has a Comprehensive Plan and land use regulations acknowledged
+under ORS 197.251, approval or denial of the application shall be based upon the standards
+and criteria that were applicable at the time the application was first submitted.
+203-5.7
+The 120-day and 150-day periods set in Section 203-5.3 may be extended for a specified
+period of time at the written request of the applicant. The total of all extensions
+may not exceed 215 days.
+203-5.8
+The decision of the Director as to completeness of an application, including any required
+engineering, traffic or other such studies, shall be based on the criteria for completeness,
+adequacy and methodology set forth in this Code by Resolution and Order of the Board
+or by action of the Director. Rejection by the Director for incompleteness shall be
+based solely on failure to address the relevant standards or supply required information
+and shall not be based on differences of opinion as to quality or accuracy. Acceptance
+indicates only that the application is ready for review.
+203-5.9
+The Review Authority shall approve or approve with conditions an application which
+the Director has determined to be incomplete only if it determines that sufficient,
+accurate information has been submitted and adequately reviewed by the Review Authority
+with an opportunity for review by affected parties or that conditions can be imposed
+to ensure proper review at the appropriate time. In all other cases the Review Authority
+shall defer or deny.
+( Ord. No. 824, § 2.B.(Exh. 2, § 2), 9-5-17 , eff. 11-24-17; Ord. No. 835 , § 2.A.(Exh. 1, § 2), 8-21-18, eff. 9-20-18; Ord. No. 885A , § 2.1.(Exh. 1), 6-28-22, eff. 7-28-22)
+203-6
+Staff Report
+203-6.1
+No decision on Type II and Type III proposed developments shall be made without a
+staff report. This report shall be provided to the applicant, CPO and Review Authority
+without charge. All others may obtain a copy upon request and payment of a reasonable
+fee to cover the cost of reproduction, overhead, and mailing.
+203-6.2
+A staff report shall be available no later than seven calendar days before a hearing
+on Type III actions, including Plan Amendments, or any hearing on appeal. Staff reports
+are mailed approximately seven days prior to the public hearings to the applicant
+and interested parties who request them. Mailing the report does not guarantee sufficient
+time prior to the public hearing to respond to the conditions of approval. Obtaining
+a copy of the staff report in person at the County best assures ample time for review
+and comment at the public hearing.
+203-6.3
+Notwithstanding the above, the staff report may be amended as necessary to address
+issues or information not reasonably known at the time the report is due.
+
+ ### 204 - NOTICE OF TYPE I, II OR III DEVELOPMENT ACTIONS
+
+204-1
+General Provisions
+204-1.1
+All public notices shall be deemed to have been provided or received upon the date
+the notice is deposited in the mail or personally delivered, whichever occurs first.
+204-1.2
+The records of the Department of Assessment & Taxation shall be used for determining
+the property owner of record. Persons not on file with that department at the time
+an application is filed need not be notified. Failure actually to receive notice shall
+not invalidate an action if a good faith attempt was made to notify all persons entitled
+to notice. A sworn certificate of mailing issued by the person conducting the mailing
+shall be conclusive evidence of a good faith attempt to contact all persons listed
+in the certificate. Mortgagees, lien holders, vendors and sellers receiving notice
+shall promptly forward a copy by mail to the purchaser.
+204-1.3
+For notice purposes, the boundary of the subject property shall be the property which
+is the subject of the application, together with all contiguous property under identical
+ownership.
+For notice purposes for development actions for public transportation facilities or
+utilities within existing or proposed public rights of way or utility easements, the
+boundary of the subject area shall be the limits of the area of development within
+the existing or proposed right-of-way or easement.
+For notice purposes for airport-related development actions within Public and Private
+Use Airport Overlay Districts, the boundary of the subject notice area shall be the
+limits of the associated Airport Safety Overlay District, or Airport Safety and Land
+Use Compatibility Overlay District (whichever is applicable).
+204-1.4
+Outside the UGB, in addition to any other notice for Type II and III development actions,
+the applicant shall post the subject property in conformance with standards as set
+forth by Resolution and Order of the Board of Commissioners. Failure to post the subject
+property and file an affidavit of posting with the Director within 28 days of acceptance
+of a complete application shall result in denial of the application.
+204-2
+Type I Actions
+204-2.1
+No public notice of review is required.
+204-2.2
+Written notice of the decision of the Review Authority shall be provided to the applicant
+and property owner of record.
+204-3
+Type II Actions
+204-3.1
+A public notice of pending review shall be mailed to:
+A.
+The applicant or representative and owners of the subject property;
+B.
+All property owners of record:
+(1)
+Within 500 feet of the subject property in the urban area; or
+(2)
+Within 1,000 feet of the subject property in the rural area.
+(3)
+When an access management plan is proposed, property owners within the study area
+defined in 501-8.5 C (3)(a); or
+(4)
+When airport-related development is proposed on property within a Public or Private
+Use Airport Overlay District, property owners within the associated Airport Safety
+Overlay District, or Airport Safety and Land Use Compatibility Overlay District (whichever
+is applicable).
+C.
+The recognized Community Participation Organization in which subject property is located.
+When a Director's Interpretation application submitted pursuant to Section 217 does
+not involve a specific property, public notice of pending review shall be provided
+to all Community Participation Organizations;
+D.
+The owner of an airport, defined by the Department of Transportation as a public use
+airport when:
+(1)
+The subject property is:
+(a)
+Within 5,000 feet of the side or end of a runway of an airport determined by the Department
+of Transportation to be a visual airport; or
+(b)
+Within 10,000 feet of the side or end of the runway of an airport determined by the
+Department of Transportation to be an instrument airport.
+(2)
+Notwithstanding the provisions of Subsection D. (1), a public notice need not be provided
+as set forth in Subsection D. (1) if the proposed action would:
+(a)
+Allow a structure less than 35 feet in height; and
+(b)
+The subject property is outside the runway approach surface as defined by the Department
+of Transportation.
+(3)
+Failure of an airport owner to receive notice which was mailed shall not invalidate
+any decision.
+E.
+The Oregon Department of Agriculture or the United States Department of Agriculture
+for applications for the propagation, cultivation, maintenance and harvesting of aquatic
+and insect species.
+F.
+The Oregon Department of Transportation and the appropriate railroad owner for applications
+in which a railroad-highway crossing provides or will provide the only access to a
+property.
+G.
+The owners of all properties in a Neighborhood Park Area shown on the Park, Trails
+and Pedestrian Connections map in the North Bethany Subarea Plan when an application
+is on a property in a Neighborhood Park Area.
+204-3.2
+The public notice shall contain:
+A.
+The name of the applicant or representative and the County case file number;
+B.
+A description of the subject property reasonably sufficient to inform the reader of
+its location;
+C.
+A concise description of the proposed development action and a listing of review standards;
+D.
+A statement that the complete application, standards and other such information are
+available at the County for review, and the phone number of a county contact person;
+E.
+A statement that this is an opportunity for interested parties to submit written comments
+about the proposed request; that prior to making a decision, the Director will consider
+any written comments actually received by the Department within a 14 calendar day
+comment period; that written comments may be received after the comment period, but
+that the Director does not have to consider these comments prior to making a decision;
+that the Director will then make a decision and send a summary of the decision to
+those persons whose written comments are received by the Department, including comments
+received after the comment period, and those persons that were entitled to be mailed
+a public notice of pending review of the Type II action pursuant to Section 204-3.1;
+and that any person entitled to a notice of the decision, may appeal the decision
+as provided in Section 209;
+F.
+The comment closing date, which shall conclude at the end of the Department of Land
+Use & Transportation's business day, in bold letters; and
+G.
+The following statement in bold letters: NOTICE TO MORTGAGEE, LIENHOLDER, VENDOR OR SELLER: ORS CHAPTER 215 REQUIRES THAT IF
+YOU RECEIVE THIS NOTICE, IT MUST BE PROMPTLY FORWARDED TO THE PURCHASER.
+204-3.3
+After close of the 14 calendar day comment period, the Director promptly shall issue
+a decision based upon review of the use of development in light of the applicable
+standards and the comments received. In addition to comments from those entitled to
+notice, the Director shall consider the written comments of persons who demonstrate
+that their substantial rights may be adversely affected or aggrieved by the decision.
+204-3.4
+Notice of the decision shall be provided to the applicant, all persons who submitted
+written comments, all persons that were entitled to be mailed a public notice of pending
+review of the Type II action pursuant to Section 204-3.1; and the Community Participation
+Organization in which the subject property is located. The notice shall contain:
+A.
+A brief summary of the nature of the action, the decision and conditions of approval,
+if any;
+B.
+A description of the subject property reasonably sufficient to inform the public of
+its location;
+C.
+The date the decision was provided and the due date for an appeal;
+D.
+A statement that the decision may be appealed and a public hearing held by filing
+a signed petition for review within 12 calendar days of the date the decision was
+provided. The statement shall note that the petition shall be filed with the Department
+of Land Use & Transportation by the end of the department's business day of the closing
+date of the appeal period. The elements of a petition for review set forth in Section
+209-3, and the fee, shall be listed. The statement shall note that only those persons
+who responded in writing to the notice of pending review and all persons that were
+entitled to be mailed a public notice of pending review of the Type II action pursuant
+to Section 204-3.1, are entitled to appeal the decision; and
+E.
+A statement that the complete case, including findings and conclusions and conditions
+of approval, if any, are available for review at the County.
+( Ord. No. 828, § 2.C.(Exh. 1, § 4), 9-26-17 , eff. 11-24-17)
+204-4
+Type III Actions
+204-4.1
+Notice of public hearing shall be sent by mail at least 20 days before the hearing.
+204-4.2
+The notice of public hearing shall be mailed to:
+A.
+The applicant or representative and owners of the subject property;
+B.
+All property owners of record:
+(1)
+Within 500 feet of the subject property in the urban area; or
+(2)
+Within 1,000 feet of the subject property in the rural area.
+(3)
+When a new exception area is proposed, all property owners within 1,000 feet of the
+perimeter of the proposed exception areas, in addition to all property owners within
+the proposed exception area;
+(4)
+When an access management plan is proposed, all property owners within the study area
+defined in 501-8.5 C. (3)(a); or
+(5)
+When airport-related development is proposed on property within a Public or Private
+Use Airport Overlay District, all property owners within the associated Airport Safety
+Overlay District or Airport Safety and Compatibility Overlay District (Sections 387
+and 388).
+C.
+The recognized Community Participation Organization within which the subject property
+is located;
+D.
+The owner of an airport, defined by the Department of Transportation as a public use
+airport when:
+(1)
+The subject property is:
+(a)
+Within 5,000 feet of the side or end of a runway of an airport determined by the Department
+of Transportation to be a visual airport; or
+(b)
+Within 10,000 feet of the side or end of the runway of an airport determined by the
+Department of Transportation to be an instrument airport.
+(2)
+Notwithstanding the provisions of Subsection D. (1) notice of hearing need not be
+provided as set forth in Subsection D. (1) if the proposed action would:
+(a)
+Allow a structure less than 35 feet in height; and
+(b)
+The subject property is outside the runway approach surface as defined by the Department
+of Transportation; and
+(3)
+Failure of an airport owner to receive notice which was mailed shall not invalidate
+any decision.
+E.
+Tenants of a mobile home or manufactured dwelling park when a request for a plan amendment
+which would change the land use designation of the property which includes all or
+part of the park. Failure of a tenant to receive a notice which was mailed shall not
+invalidate any plan amendment.
+F.
+The owners of all properties in a Neighborhood Park Area shown on the Park, Trails
+and Pedestrian Connections map in the North Bethany Subarea Plan when an application
+is on a property in a Neighborhood Park Area.
+204-4.3
+The notice of public hearing shall contain:
+A.
+The name of the applicant or owner;
+B.
+The nature of the proposed development;
+C.
+A description of the subject property reasonably sufficient to inform the public of
+its location;
+D.
+The designation of the Review Authority and the time, date and place of the hearing;
+E.
+A statement that all interested persons may appear and provide testimony and that
+only those making an appearance of record shall be entitled to appeal;
+F.
+A statement that the hearing will be conducted in accordance with the Rules of Procedure
+adopted by the Board;
+G.
+The following statement: NOTICE TO MORTGAGEE, LIENHOLDER, VENDOR OR SELLER: ORS CHAPTER 215 REQUIRES THAT IF
+YOU RECEIVE THIS NOTICE, IT MUST PROMPTLY BE FORWARDED TO THE PURCHASER ;
+H.
+The applicable review criteria that apply to the application;
+I.
+A statement that failure of an issue to be raised in the hearing, in person or by
+letter, or failure to provide sufficient specificity to afford the Review Authority
+an opportunity to respond to the issue precludes appeal to the Land Use Board of Appeals
+based on that issue;
+J.
+The name of a County representative to contact and the telephone number where additional
+information may be obtained;
+K.
+A statement that a copy of the application, all documents and evidence relied upon
+by the applicant and applicable criteria are available for inspection at no cost and
+will be provided at reasonable cost;
+L.
+A statement that a copy of the staff report will be available for inspection at no
+cost at least seven days prior to the hearing and will be provided at reasonable cost;
+and
+M.
+A general explanation of the requirements for submission of testimony and the procedure
+for conduct of hearings.
+204-4.4
+In addition to all other notice, at least ten calendar days before a Type III public
+hearing for a quasi-judicial plan amendment, notice shall be provided in a newspaper
+of general circulation in the portion of the county affected.
+204-4.5
+Additional notice of any hearing may be required in accordance with the Rules of Procedure
+adopted by the Board.
+204-4.6
+Notice of the decision shall be provided to the applicant, the owners of the subject
+property and all persons who made an appearance of record. The notice shall contain:
+A.
+A brief summary of the decision, and conditions of approval, if any;
+B.
+A description of the subject property reasonably sufficient to inform the public of
+its location;
+C.
+The date the decision was provided and the due date for an appeal;
+D.
+For quasi-judicial plan amendments, a statement that the decision may be appealed
+and a public hearing held by filing a signed petition for review within 14 calendar
+days of the date the decision was provided. The statement shall note that the petition
+shall be filed with the Department of Land Use & Transportation by the end of the
+department's business day of the closing date of the appeal period. The elements of
+a petition for review set forth in Section 209-3, and the fee, shall be listed. The
+statement shall note that only those persons who made an appearance of record are
+entitled to appeal or request reconsideration of the decision. A statement that a
+motion for reconsideration may be filed as provided in Section 208, but that filing
+a motion does not stop the appeal period from running.
+E.
+For decisions on a development permit for which there is no local appeal:
+(1)
+The date the written decision was signed by the Review Authority; and
+(2)
+A statement that the decision is final when the written decision is signed by the
+review authority and that any appeal must be made to the Land Use Board of Appeals
+no later than 21 days after the date the decision is final. The statement shall note
+that only those persons who made an appearance of record are entitled to appeal the
+decision.
+F.
+A statement that the complete case, including findings and conclusions, and conditions
+of approval, if any, are available for review at the County.
+( Ord. No. 828, § 2.C.(Exh. 1, § 4), 9-26-17 , eff. 11-24-17; Ord. No. 822A, § 2.C.(Exh. 3, § 2), 10-17-17 )
+204-5
+Notice of Hearing and Notice of Decision on Appeal
+Notice of a public hearing conducted by the Review Authority to review a Type II decision
+by the Director, or an appeal of a Type III quasi-judicial plan amendment decision
+to the Board, shall be provided in the same manner as required for Type III actions.
+Notice of hearing on appeal to the Board of Commissioners of a Type III request described
+above shall be provided as required for initial hearing on the Type III proposal.
+Notice of decision on appeal shall be provided to all parties of record. In addition,
+notice of hearing on appeal to the Board shall be provided to all parties to the hearing
+conducted by the Review Authority.
+( Ord. No. 822A, § 2.C.(Exh. 3, § 2), 10-17-17 )
+
+ ### 205 - PUBLIC HEARINGS
+
+Public hearings on all development actions including appeals, but not including legislative
+actions, shall be conducted in accordance with this Section.
+205-1
+Notice
+Notice of public hearing shall be provided in accordance with Section 204 of this
+Code and the Rules of Procedure adopted by the Board.
+205-2
+Rules of Procedure
+Public hearings shall be conducted in accordance with the Rules of Procedure adopted
+by the applicable Review Authority.
+At the beginning of the hearing for an application, a statement shall be made to those
+in attendance that:
+A.
+Lists the applicable substantive criteria;
+B.
+States that testimony and evidence must be directed toward the criteria described
+in A. of this subsection or other criteria in the plan or land use regulation which
+the person believes to apply to the decision; and
+C.
+States that failure to raise an issue with sufficient specificity to afford the decision-maker
+and the parties an opportunity to respond to the issue precludes appeal to the Land
+Use Board of Appeals based on that issue.
+D.
+Failure of the applicant to raise constitutional or other issues relating to proposed
+conditions of approval with sufficient specificity to allow the County to respond
+to the issue precludes an action for damages in Circuit Court.
+205-3
+Parties
+205-3.1
+The following persons, or their authorized representatives, may participate during
+the comment period or public hearing:
+A.
+The applicant or applicant's representative and the owners of the subject property;
+B.
+Those persons entitled to notice;
+C.
+Any other person who demonstrates to the Review Authority that the person's rights
+may be adversely affected or aggrieved by the decision; and
+D.
+At a public hearing on appeal, any person who made an appearance of record in the
+prior proceeding.
+205-3.2
+Only parties shall be entitled to appeal a decision. Only persons who make an appearance
+of record shall be parties to a Type I or Type III action. Only the applicant, persons
+who submitted written comments, persons entitled to notice of pending review, and
+the Community Participation Organization in which the subject property is located
+shall be deemed parties to a Type II action.
+205-3.3
+Appearance of record shall mean:
+A.
+An oral statement made at the hearing sufficiently identifying the speaker and the
+speaker's address; or
+B.
+A written statement giving the name and address of the maker of the statement and
+introduced into the record prior to or at the public hearing. A person's name and
+address on a petition introduced into the record constitutes an appearance of record.
+( Ord. No. 828, § 2.C.(Exh. 1, § 5), 9-26-17 , eff. 11-24-17)
+205-4
+Record
+205-4.1
+Absent mechanical failure or inadvertent error, a verbatim written or mechanical record
+of the hearing shall be made. In addition, written minutes giving a true reflection
+of the matters discussed and the views of the participants may be taken. Such minutes
+shall substitute for a verbatim record in the event of mechanical failure or inadvertent
+error.
+205-4.2
+Failure to comply with Section 205-4.1 shall not invalidate any action provided that
+a de novo appeal or other relief is available.
+205-5
+Procedural Rights
+Subject to the specific standards and limitations set forth in this Code, the following
+procedural entitlements shall be provided at the public hearing:
+205-5.1
+A reasonable opportunity for those persons entitled to notice or who may be adversely
+affected or aggrieved by the decision to present evidence;
+205-5.2
+A reasonable opportunity to cross-examine witnesses, including staff, provided that
+right is asserted at the first reasonable opportunity. Staff similarly shall be entitled
+to reasonable cross-examination of witnesses. The decision to allow cross-examination
+shall be at the discretion of the Hearings Officer;
+205-5.3
+A reasonable opportunity for rebuttal of new material;
+205-5.4
+An impartial Review Authority as free from potential conflicts of interest and pre-hearing
+ex-parte contacts as reasonably possible. It is recognized, however, that the public
+has a countervailing right of free access to public officials:
+A.
+Review Authority members shall disclose the substance of any significant pre-hearing
+ex-parte contacts with regard to the matter at the commencement of the public hearing
+on the matter. The member shall state whether the contact has impaired the impartiality
+or ability of the member to vote on the matter and shall participate or abstain accordingly.
+B.
+A member of the Review Authority shall not participate in any proceeding or action
+in which any of the following has a direct or substantial financial interest: The
+member or the member's spouse, brother, sister, child, parent, father-in-law, mother-in-law,
+partner, any business in which the member is then serving or has served within the
+previous two years, or any business with which the member is negotiating for or has
+an arrangement or understanding concerning prospective partnership or employment.
+Any actual or potential interests shall be disclosed at the meeting of the Review
+Authority where the action is being taken.
+C.
+Disqualification of a Review Authority member due to contacts or conflict may be ordered
+by a majority of the members present and voting. The person who is the subject of
+the motion may not vote.
+D.
+If all members abstain or are disqualified, the administrative rule of necessity shall
+apply. All members present who declare their reasons for abstention or disqualification
+shall thereby be requalified to act.
+E.
+Staff may confer with the Hearings Officer after the close of the record on technical
+review or procedural matters, but may not engage in argument or present additional
+evidence.
+205-6
+Presentations
+205-6.1
+The Review Authority may set reasonable time limits for oral presentations. The Review
+Authority may determine not to receive cumulative, repetitious, immaterial, derogatory
+or abusive testimony. Persons may be required to submit written testimony in lieu
+of oral if the Review Authority determines that a reasonable opportunity for oral
+presentations has been provided.
+205-6.2
+No testimony shall be accepted after the close of the public hearing unless the Review
+Authority sets a deadline for such testimony and provides an opportunity for review
+and rebuttal prior to making a decision.
+205-6.3
+Counsel for the Review Authority may be consulted solely on legal issues without reopening
+the public hearing. Objections alleging that counsel is discussing or testifying as
+to factual matters shall be heard at the discretion of the Review Authority.
+205-6.4
+The presiding officer shall preserve order at all public hearings and shall decide
+questions of order subject to a majority vote of the Review Authority. Persons who
+become disruptive or abusive may be ejected from the hearing.
+205-7
+Continuance
+205-7.1
+All documents or evidence relied upon by the applicant shall be submitted to the local
+government and be made available to the public. If additional documents or evidence
+are provided by any party, the Review Authority may allow a continuance or leave the
+record open for at least seven days to allow the parties a reasonable opportunity
+to respond. Any continuance or extension of the record requested by the applicant
+shall result in a corresponding extension of the time limitations of ORS 215.428.
+205-7.2
+Prior to the conclusion of the initial evidentiary hearing, any participant may request
+an opportunity to present additional evidence or testimony regarding the application.
+The Review Authority shall grant such request by continuing the public hearing or
+leaving the record open for additional written evidence or testimony pursuant to Subsection
+B below.
+A.
+If the Review Authority grants a continuance, the hearing shall be continued to a
+date, time and place certain at least seven days from the date of the initial evidentiary
+hearing. An opportunity shall be provided at the continued hearing for persons to
+present and rebut new evidence and testimony. If new written evidence is submitted
+at the continued hearing, any person may request, prior to the conclusion of the continued
+hearing, that the record be left open for at least seven days to submit additional
+written evidence or testimony for the purpose of responding to the new written evidence.
+B.
+If the Review Authority leaves the record open for additional written evidence or
+testimony, the record shall be left open for at least seven days. Any participant
+may file a written request with the Review Authority for an opportunity to respond
+to new evidence submitted during the period the record was left open. If such a request
+is filed, the Review Authority shall reopen the record and any person may raise new
+issues which relate to the new evidence, testimony or criteria for decision-making
+which apply to the matter at issue.
+C.
+A continuance or extension granted pursuant to Section 205-7 shall be subject to the
+limitations of ORS 215.428 unless the continuance or extension is requested or agreed
+to by the applicant.
+D.
+Unless waived by the applicant, the Review Authority shall allow the applicant at
+least seven days after the record is closed to all other parties to submit final written
+arguments in support of the application. The applicant's final submittal shall be
+considered part of the record, but shall not include any new evidence.
+205-7.3
+For the purposes of Section 205-7:
+A.
+Argument. Means assertions and analysis regarding the satisfaction or violation of legal standards
+or policy believed relevant by the proponent to a decision. Argument does not include
+facts.
+B.
+Evidence. Means facts, documents, data or other information offered to demonstrate compliance
+or noncompliance with the standards believed by the proponent to be relevant to the
+decision.
+205-8
+Evidence
+205-8.1
+The Review Authority may place any person submitting testimony under oath or affirmation.
+Once sworn or affirmed, all testimony subsequently given by the person during the
+hearing or a continuation thereof shall be deemed to be under oath.
+205-8.2
+Cumulative, repetitious, immaterial or irrelevant evidence may be excluded. Evidence
+shall be admissible if it is of a type commonly relied upon by reasonable and prudent
+persons in the conduct of serious affairs. Evidence may be received subject to a later
+ruling regarding its admissibility. Erroneous admission or evidence shall not invalidate
+or preclude action unless shown to have prejudiced the substantial rights of a party.
+205-8.3
+Members of the Review Authority may take official notice of judicially cognizable
+facts of general, technical or scientific facts within their specialized knowledge.
+Such notice shall be stated and may be rebutted.
+205-8.4
+Exhibits shall be marked to provide identification upon review. Unless required for
+an appeal, all exhibits shall be retained by the County for a period of not less than
+30 calendar days after expiration of all appeals. Exhibits may be disposed of as provided
+by the Director.
+205-8.5
+Any member of the Review Authority may visit the subject property and may use information
+gained to reach a decision, provided the information relied upon is disclosed and
+an opportunity to rebut provided.
+
+ ### 206 - BURDEN OF PROOF
+
+206-1
+Except as otherwise provided, the applicant shall bear the burden of proof that the
+proposal is in compliance with the applicable standards. In addition, evidence of
+mistake in adoption of the plan designation or development regulations or subsequent
+change in the affected area are relevant considerations.
+206-2
+Unless specifically identified as jurisdictional, failure to comply with a provision
+of this Article shall invalidate an action only if it prejudices the substantial rights
+of the person alleging the error. Persons alleging procedural error shall have the
+burden of proof as to whether the error occurred and whether the error has prejudiced
+the person's substantial rights.
+
+ ### 207 - DECISION
+
+207-1
+Decision Types
+After review of all evidence submitted into the record the Review Authority may:
+207-1.1
+Approve or deny all or part of the application;
+207-1.2
+Approve all or part with modifications or conditions of approval as described in Section
+207-5;
+207-1.3
+Defer a decision as provided in Section 207-6;
+207-1.4
+Dismiss without prejudice due to procedural error or remand to correct a procedural
+error.
+207-2
+Announcement of Decision
+No decision is final for the purposes of reconsideration or appeal until it has been
+reduced to writing and signed by the Review Authority or its designee. If a public
+hearing has been held, the Review Authority may announce a tentative decision at the
+close of the public hearing, but shall in any case announce a date certain on which
+the decision shall be adopted or issued. If no public hearing has been held, the decision
+shall be announced in writing and made available to all parties as simultaneously
+as reasonably possible.
+207-3
+Basis for Decision
+An approval or denial of a development action shall be based upon substantial evidence
+in the record that addresses the pertinent standards and criteria set forth in the
+applicable provisions of state law, the Comprehensive Plan, this Code and other applicable
+laws as determined by the Review Authority.
+207-4
+Findings and Conclusions
+The Review Authority shall provide brief and concise findings of fact, conclusions
+of law and an order for all development approvals, conditional approvals or denials.
+The findings and order shall set forth the criteria and standards considered relevant
+to the decision, state the facts relied upon and briefly indicate how those facts
+support the decision. In the case of denial, it shall be sufficient to address only
+those standards upon which the applicant failed to carry the burden of proof or, when
+appropriate, the facts in the record that support denial.
+207-5
+Conditions of Approval
+207-5.1
+The Review Authority may impose conditions on any Type II or III development approval.
+Such conditions shall be designed to protect the public from potential adverse impacts
+of the proposed use or development or to fulfill an identified need for public services
+within the impact area of the proposed development. Conditions shall not restrict
+densities to less than that authorized by the development standards of this Code.
+207-5.2
+In addition to conditions imposed pursuant to Section 207-5.1, a condition is valid
+and enforceable when the applicant has:
+A.
+Requested the condition;
+B.
+Consented to the condition in writing or on the record; or
+C.
+Established or commenced the development or use (other than a valid nonconforming
+use) prior to approval; or
+D.
+Submitted graphics or other application materials that were reviewed and approved
+by the Review Authority; the application must substantially comply with the application
+materials except as modified by the Review Authority.
+207-5.3
+Contract for Conditions:
+When the approval requires a contract, conditions shall be set forth in a contract
+executed by the County and the applicant and approved as to form by legal counsel
+for the County. If a contract is required, no development permit shall be effective
+until the conditions are recorded. As a condition of approval, the County may require
+that the contract or a memorandum thereof be filed in the Department of Assessment
+& Taxation, Recording Division and shall appear in the chain of the title of the subject
+property, if recording is required. In addition to any personal remedy, the condition
+shall constitute a burden running with the land in favor of Washington County and,
+unless otherwise provided, shall be removed only with the written authorization of
+the Board of Commissioners. The contract shall be enforceable by and against the parties,
+their heirs, successors and assigns. The contract, however, shall not restrict the
+authority of Washington County from taking future development actions affecting the
+property.
+207-5.4
+Assurance of Compliance with Conditions:
+A bond, cash deposit or other security acceptable to the Review Authority may be required
+from the applicant in an amount sufficient to ensure compliance with a condition of
+approval.
+207-5.5
+Time Limits on Conditions:
+Conditions shall be fulfilled within the time limitations set forth or a reasonable
+time if no time limitations are specified. Failure to fulfill a condition within said
+time may result in initiation of revocation of the approval, citation or such other
+enforcement action as the County deems appropriate.
+207-5.6
+Failure to Fulfill Previous Conditions:
+Notwithstanding any other provision, the Review Authority shall refuse to issue an
+approval with conditions, and deny an application, upon a determination that the applicant,
+or any officer, or principal of the applicant, willfully has failed to fulfill conditions
+of approval imposed in any previous development action and a determination that such
+a decision would encourage compliance or is necessary to protect the public from future
+noncompliance.
+207-5.7
+Modification or Removal of Conditions:
+Modification or removal of conditions of approval may be sought on appeal or as a
+new development action. A new development action shall be processed through the same
+procedure as was used to impose the conditions. Modification or removal of conditions
+of approval shall only be granted if the Review Authority determines that:
+A.
+The applicant or owner has demonstrated that a mistake of law or fact occurred, and
+that the mistake was substantial enough to warrant modification or removal of conditions
+to correct the mistake; or
+B.
+The condition(s) could not be implemented for reasons beyond reasonable control of
+the permit holder and the modification will not require a significant modification
+of the original decision; or
+C.
+The circumstances have changed to the extent that the condition(s) is no longer needed
+or warranted; or
+D.
+The different condition(s) would better accomplish the purpose of the original condition.
+207-6
+Continuances by Planning Commission
+207-6.1
+The Planning Commission may continue the public hearing and defer a decision to a
+date certain. No new notice is required for hearings continued to a date certain.
+Any deferral to a date certain that exceeds 30 days without consent of the applicant
+shall be in the form of an order setting forth the reasons for deferral. Such a deferral
+may be treated as a denial by the applicant for purposes of reconsideration and appeal
+if the applicant files a petition for review within 14 calendar days of written notice
+of the deferral.
+207-6.2
+An indefinite deferral shall require new notice to all persons identified in Section
+204. An indefinite deferral without the consent of the applicant shall be in the form
+of an order setting forth the reason for deferral and may be treated by the applicant
+as a denial for purposes of reconsideration and appeal if the applicant files a petition
+for review within 14 calendar days of written notice of the deferral.
+
+ ### 208 - RECONSIDERATION OF DIRECTOR, HEARINGS OFFICER OR PLANNING COMMISSION DECISIONS
+
+208-1
+Reconsideration as Extraordinary Remedy
+Reconsideration of a Type I decision on a development action or Type III quasi-judicial
+plan amendment decision is available only as an extraordinary remedy upon a determination
+by the Review Authority that:
+208-1.1
+The party requesting reconsideration has sufficiently alleged in writing that a mistake
+of law or fact occurred;
+208-1.2
+The alleged mistake, if found to have occurred, was a substantial factor in the decision;
+and
+208-1.3
+Reconsideration is appropriate to avoid delay or hardship which may be caused by an
+appeal.
+208-2
+Motion for Reconsideration
+A motion for reconsideration must be filed with the Director within seven calendar
+days of the date the notice of decision is provided. The motion shall address the
+factors set forth in 208-1 above. The applicable fee adopted by the Board of Commissioners
+shall be submitted with the request.
+A motion for reconsideration may be filed by the applicant, the Director, or a party
+of record.
+208-3
+Motion for Reconsideration Does Not Stop Appeal Period From Running
+Filing a motion for reconsideration is not a precondition to appealing the decision
+and does not stay the deadline for filing an appeal. To preserve the right to appeal,
+a party must file a petition for review as provided in Section 209. If the initial
+Review Authority grants reconsideration, and ultimately rules in favor of the party
+filing for reconsideration, the party may terminate its appeal.
+208-4
+Motion for Reconsideration as Nonpublic Hearing Item
+Motions seeking reconsideration of a Type III quasi-judicial plan amendment decision
+shall be summarily decided by the Review Authority as a nonpublic hearing item at
+the first reasonably available opportunity. For a Type I decision, within seven calendar
+days, the Director shall issue a written notice of the decision to grant or deny the
+motion for reconsideration to the party requesting reconsideration. The decision as
+to whether to reconsider is not subject to appeal.
+208-5
+Process for Reconsideration
+208-5.1
+Upon granting the motion to reconsider a Type III quasi-judicial plan amendment decision,
+the Review Authority shall schedule and notify the parties of a new public hearing
+on the merits of the issues raised. The reconsideration of the decision shall be limited
+to the issues raised in the motion for reconsideration and the merits of the issues
+raised. Such hearing shall be held at the next reasonably available opportunity.
+208-5.2
+Upon granting the motion to reconsider a Type I decision, the Director shall notify
+the parties of the reconsideration of the application on the merits of the issues
+raised. The reconsideration of the decision shall be limited to the issues raised
+in the motion for reconsideration and the merits of the issues raised. The review
+shall be done at the next reasonably available opportunity.
+208-6
+Reconsideration and Appeals
+If the motion for reconsideration is denied or the decision is not altered upon reconsideration,
+any appeal timely filed shall be processed in accordance with Section 209. If the
+motion is granted and the Review Authority modifies the previous decision, the parties
+to the initial decision shall be notified within ten days of the decision and may
+appeal the decision as modified pursuant to Section 209.
+208-7
+Limited Reconsiderations
+No decision shall be reconsidered more than once.
+
+ ### 209 - APPEALS
+
+209-1
+Decision
+A decision of the Review Authority for quasi-judicial plan amendments may be appealed
+within 14 calendar days after written notice of the decision is provided to the parties.
+Appeals for a Middle Housing Land Division are not addressed in Section 209—See Section
+606. A decision by the Review Authority for all other development actions pursuant
+to Section 209-2 may be appealed within 12 calendar days after written notice of the
+decision is provided to the parties when:
+209-1.1
+A party files a complete petition for review with the Director;
+209-1.2
+The Director files a complete petition for review; or
+209-1.3
+The Board of Commissioners by Minute Order directs that an appeal be initiated. The
+grounds for directing an appeal shall be set forth in the Minute Order.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 5.), 2-7-23, eff. 3-9-23)
+209-2
+Appeal Authority
+209-2.1
+Type I or II Actions
+The Hearings Officer or Planning Commission as designated by Resolution and Order
+of the Board shall hear appeals from Type I and II decisions of the Director. The
+Hearings Officer or the Planning Commission shall be the final decision-maker for
+the County on appeals of the final decision of the Director for Type I or II actions.
+209-2.2
+Type III Actions
+A.
+The Board of Commissioners shall hear appeals of decisions of the Planning Commission
+for Type III quasi-judicial plan amendments. The Board shall be the final decision-maker
+for the County on appeals of these actions.
+B.
+For other Type III development actions, the Hearings Officer or the Planning Commission
+shall be the final decision-maker for the County, except in cases where the decision
+under appeal was issued by the Board.
+( Ord. No. 822A, § 2.C.(Exh. 3, § 3), 10-17-17 )
+209-3
+Petition for Review
+209-3.1
+A petition for review shall contain the following:
+A.
+The name of the applicant and the County case file number;
+B.
+The name and signature of each petitioner and statement of the interest of each petitioner
+to determine party status. Multiple parties may join in filing a single petition for
+review, but each petitioner shall designate a single contact representative for all
+contact with the department. All department communications regarding the petition,
+including correspondence, shall be with this contact representative;
+C.
+The date that notice of the decision was sent as specified in the notice;
+D.
+The nature of the decision and the specific grounds for appeal. Unless otherwise directed
+by the appellate authority, the appeal of Type I and III decisions shall be limited
+to the issue(s) raised in the petition;
+E.
+The number of pages of the petition and a statement that all pages are present; and
+F.
+A statement setting forth the appeal fee specified in the Notice of Decision;
+209-3.2
+The petition for review shall be submitted with the appeal fee specified in the Notice
+of Decision to be paid by cash, check or money order;
+209-3.3
+In quasi-judicial plan amendment appeals to the Board, a request for a partial or
+full de novo hearing as provided in Section 209-5.4, if desired;
+209-3.4
+In quasi-judicial plan amendment appeals to the Board, a request for waiver of transcript
+preparation as provided in Section 209-4.1 if desired; and
+209-3.5
+Failure to file a petition for review with the Department of Land Use & Transportation
+by the end of the department's business day on the due date, with the fee specified
+in the Notice of Decision, shall be a jurisdictional defect. Failure to amend a petition
+to correct any other identified deficiency within 14 calendar days of notice thereof
+shall be a jurisdictional defect.
+209-4
+Transcript Requirements for Appeals of Quasi-Judicial Plan Amendment Decisions
+209-4.1
+A transcript shall be prepared for all quasi-judicial plan amendment appeals of public
+hearing items unless waived by Minute Order of the Board. A transcript shall not be
+required for any other type of appeal to the Board. The Board may choose to waive
+the transcript requirement for quasi-judicial plan amendments only if:
+A.
+The hearing is de novo; or
+B.
+Waiver is consented to by all parties, and the Board, by Minute Order, determines
+that the issues raised in the petition are such that the usefulness of a transcript
+is outweighed by the cost, delay or hardship of preparing the transcript.
+209-4.2
+Unless and until the Board approves a request for waiver of a transcript pursuant
+to Section 209-4.1, the Director shall promptly provide the appellant with a written
+estimate of the cost for preparation of a transcript by the County. The appellant
+shall within 14 days of notification pay the estimated cost or notify the Director
+in writing that the appellant will prepare the transcript. The appeal may be dismissed
+if the appellant fails to pay the cost for preparation of a transcript unless the
+Board approves a request for waiver of transcript pursuant to Section 209-4.1.
+209-4.3
+In lieu of a transcript prepared by the County and payment of the required fee, the
+County shall allow any party to an appeal proceeding held on the record, at the party's
+own expense, to prepare a complete transcript of the public hearing by the Review
+Authority or a transcript of relevant portions of the hearing provided:
+A.
+When a transcript is prepared for only relevant portions of the public hearing, all
+parties, including staff, shall agree and stipulate to the portions of the hearing
+that are relevant and should be transcribed. The transcript shall then be prepared
+for those stipulated portions of the hearing. If the parties cannot agree, then the
+preparer of the transcript shall prepare a complete transcript of the hearing. If
+the Board finds that a partial transcript would have been sufficient, the preparer
+shall be reimbursed by the party requesting preparation of a complete transcript for
+the cost of preparation of the unnecessary portions of the transcript.
+B.
+The transcript shall be prepared within four weeks from the date that the Department
+provides the appellant with a written estimate of the cost of a Department prepared
+transcript pursuant to 209-4.2.
+C.
+A Certificate of Typist shall be submitted with the completed transcript. The Certificate
+of Typist shall contain the following:
+(1)
+The name of the applicant and the County case file number;
+(2)
+The name of the person who provided the tape(s) of the hearing;
+(3)
+The number of pages of the transcript and that all pages are present; and
+(4)
+A sworn notarized statement that the transcript constitutes a true and accurate record
+of the complete or stipulated portions of the proceedings;
+D.
+The appeal may be dismissed if the appellant fails to either pay the fee required
+by Section 209-4.2 or to provide a transcript and Certificate of Typist within the
+time prescribed in Section 209-4.3 B. and 209-4.3 C.
+209-5
+Nature of Hearing
+209-5.1
+All hearings on appeal shall be conducted as public hearings in accordance with Section
+205.
+209-5.2
+Review of the final decision of the Director in Type II actions shall be de novo.
+At the public hearing of an appeal of a Type II action, participants shall be limited
+to the applicant, those who made the appeal and those persons that were entitled to
+be mailed a public notice of pending review of the Type II action pursuant to Section
+204-3.1, and those who made written comments as prescribed in Section 202-2.3.
+209-5.3
+Appeal to the Board of all final decisions of the Hearings Officer shall be confined
+to the record except as provided in Section 209-5.8. Except as provided in Section
+209-5.4 through Section 209-5.6, appeal to the Board of all final decisions of the
+Planning Commission on quasi-judicial plan amendments shall be confined to the record.
+The record shall include:
+A.
+All materials received as evidence at any previous stage;
+B.
+Verbatim Record:
+(1)
+For quasi-judicial plan amendments, unless waived by the Board, a verbatim record
+of the hearing below, in the form of audio recordings, together with a transcription
+thereof prepared pursuant to Section 209-4.2 or 209-4.3, or the minutes thereof if
+no verbatim record is available due to mechanical failure or inadvertent error.
+(2)
+In appeals of all other development actions, unless waived by the Board, a verbatim
+record of the hearing below in the form of audio recordings or the minutes thereof
+if no verbatim record is available due to mechanical failure or inadvertent error.
+However, a party may prepare all or a portion of the transcript for submission to
+the Board;
+C.
+The findings and conclusions supporting the action being appealed; and
+D.
+Oral and written argument from the parties as defined by Section 205-3.1, or their
+representatives presented during the hearing or appeal but not including new evidence.
+209-5.4
+A party, or the Director, may request that the Board conduct a de novo or partial
+de novo hearing for an appeal of a quasi-judicial plan amendment decision issued by
+the Planning Commission. The party filing the petition for review must make such a
+request as part of the petition. Any other party must make such a request no more
+than seven calendar days after the deadline for filing a petition for review has expired.
+When practicable, the requesting party shall advise the other parties and attempt
+to gain their consent. The request shall:
+A.
+Reference the name, case number and date of the decision;
+B.
+Contain the name and address of the requesting party;
+C.
+Indicate the reasons for the request without addressing the merits of the land use
+action; and
+D.
+Indicate any persons known to be opposed to the request.
+209-5.5
+The request for a de novo hearing for appeal of a quasi-judicial plan amendment decision
+issued by the Planning Commission shall be decided by the Board as a nonpublic hearing
+item, except that the Board may make such provision for notice to the parties and
+may take such testimony as it deems necessary to fully and fairly address significant
+procedural or substantive issues raised. The Board shall grant the request only upon
+findings that:
+A.
+A de novo hearing is necessary to fully and properly evaluate a significant issue
+relevant to the proposed development action;
+B.
+The substantial rights of the parties will not be significantly prejudiced; and
+C.
+The request is not necessitated by improper or unreasonable conduct of the requesting
+party or by a failure to present evidence that was available at the time of the previous
+review.
+209-5.6
+Hearings before the Board of Commissioners on items on appeal, either on the record,
+partial de novo, or de novo hearings, shall have the following time limitations:
+A.
+If the item is heard on the record, the appealing party will have 15 minutes to present
+his/her arguments. The opposition will have 15 minutes to present their arguments.
+The appealing party will also have five minutes for rebuttal.
+B.
+For partial de novo hearings, the appealing party will have 20 minutes to present
+his/her arguments. The opposition will have 20 minutes to present their arguments.
+The appealing party will also have five minutes for rebuttal.
+C.
+For a completely de novo hearing, the appealing party will have 30 minutes to present
+his/her arguments. The opposition will have 30 minutes to present their arguments.
+The appealing party will also have five minutes for rebuttal.
+D.
+The Board Chairman retains the authority to allow additional time as he/she deems
+appropriate and only if the party requesting the additional time has delivered to
+the Director or County Administrator, at least one week in advance of the hearing,
+a written statement of the reasons for the request for additional time.
+209-5.7
+In conjunction with determining whether to conduct a de novo hearing for the appeal
+of a quasi-judicial plan amendment, the Board may remand the matter to the prior Review
+Authority. The decision on whether to remand shall not be appealable. Upon remand,
+the appealing party shall be entitled to return of the appeal fee less actual costs
+incurred by the County. Appeal from a decision on remand shall be taken as any other
+appeal.
+209-5.8
+Notwithstanding the above, on appeal of a quasi-judicial plan amendment, the Board
+may solicit or admit new evidence during a hearing on the record for the appeal of
+any decision, including decisions by the Hearings Officer, after considering the factors
+listed in Section 209-5.5.
+209-5.9
+Additional information on appeals is included under CDC Sections 211 and 212.
+( Ord. No. 813, § 2.C.(Exh. 3, § 3), 8-23-2016, eff. 11-25-2016 )
+209-6
+Decision of the Board
+209-6.1
+Decisions of the Board are governed by Section 207.
+209-6.2
+In addition to the decisions listed in Section 207-1, on appeal of a quasi-judicial
+plan amendment, the Board may remand consideration of the appeal of a quasi-judicial
+plan amendment to the prior Review Authority for further proceedings as the Board
+directs.
+
+ ### 210 - RECONSIDERATION OF BOARD DECISION FOR THE APPEAL OF QUASI-JUDICIAL PLAN AMENDMENTS
+
+210-1
+The Board may reconsider a decision for appeal of a quasi-judicial plan amendment
+on its own motion or upon a petition for reconsideration filed by a party with the
+Director within seven calendar days after written notice of the decision is provided.
+210-2
+Filing a petition for reconsideration is not necessary to exhaust administrative remedies
+and perfect an appeal to a body of competent jurisdiction.
+210-3
+The motion or petition shall state the alleged errors necessitating reconsideration.
+A fee may be established by Resolution and Order.
+210-4
+The Board shall summarily decide whether to reconsider at the time the motion is made
+or at the next reasonably available regular Board meeting following filing of the
+petition. Reconsideration shall require the consent of three Commissioners.
+210-5
+If reconsideration is granted, the matter shall be scheduled for a public hearing
+before the Board at the next reasonably available hearing date. Notice of the hearing
+shall be sent by mail no later than 20 calendar days prior to the hearing to all persons
+who made an appearance of record below. The hearing shall be conducted as a hearing
+on the record and new evidence or testimony shall be limited to grounds upon which
+the motion or petition for reconsideration was granted.
+210-6
+No final decision shall be reconsidered by the Board more than once. If more than
+one petition for reconsideration is received in the seven calendar day period provided
+in Section 210-1, the petitions shall be consolidated.
+
+ ### 211 - DATE OF FINAL DECISION
+
+211-1
+Decisions of the Director, the Hearings Officer or Planning Commission on an application
+shall be deemed final and effective upon expiration of the appeal period if no petition
+for review is filed within that time. Decisions of the Hearings Officer or Planning
+Commission on a Type III application, except on appeal of a Director decision on a
+Type I or II application, shall be deemed final and effective on the date notice of
+the decision was provided to the parties. Once final and effective, a decision cannot
+be appealed.
+( Ord. No. 822A, § 2.C.(Exh. 3, § 4), 10-17-17 )
+211-2
+Decisions of the Board on an application shall be deemed final as follows:
+211-2.1
+If no petition for reconsideration is timely filed, the decision shall be deemed final
+on the date notice of the decision was provided to the parties.
+211-2.2
+If a petition for reconsideration is filed and denied, the decision shall be deemed
+final on the date notice of the denial of reconsideration is provided to the parties.
+211-2.3
+If a petition is filed and reconsideration granted, the decision shall be deemed final
+on the date notice of the decision on the development, as reconsidered, is provided.
+211-3
+Only a final decision of the Board, or the Hearings Officer on decisions for which
+the Hearings Officer is the final decision-maker, is appealable to the Land Use Board
+of Appeals.
+211-4
+For purposes of appeals to LUBA, a written decision of the Director or Hearings Officer
+is final on the date it is signed.
+
+ ### 212 - REMAND FROM APPELLATE BODIES
+
+When an application may be remanded from an appellate body, such as the Land Use Board
+of Appeals, to the county for further proceedings, the Review Authority may decide
+whether the matter shall proceed before the Review Authority or a subordinate review
+authority, such as the Hearings Officer or Director. For applications where the decision
+of the Board was appealed, the Board shall decide at a regular meeting as a nonpublic
+hearing item whether the matter shall proceed before the Board or a subordinate review
+authority.
+
+ ### 213 - VESTED RIGHTS
+
+213-1
+Through a Type III procedure, in the course of any County land use process, the Review
+Authority may decide whether a vested right exists.
+213-2
+Whether a vested right is found to exist shall be based on the consideration of the
+following factors as well as any guidance from the Oregon courts:
+A.
+The ratio of expenditures incurred to the total cost of the project;
+B.
+The good faith of the landowner;
+C.
+Whether or not the landowner had notice of any proposed zoning or amendatory zoning
+before starting the improvements;
+D.
+Whether the expenditures have any relation to the completed project or could apply
+to various other uses of the land;
+E.
+The kind of project, the location, and ultimate cost; and
+F.
+Whether the acts of the landowner rise beyond mere contemplated use or preparation,
+such as leveling of land, boring test holes, or preliminary negotiations with contractors
+or architects.
+213-3
+The County shall not decide an issue of whether a vested right exists unless it is
+associated with a Type I, II or III development action or a Type IV legislative process.
+Consideration of a vested right shall not occur unless a decision has been rendered
+by the County for the associated Type I, II or III development action or Type IV legislative
+process. The County will not consider subsequent requests to consider a vested right
+when the initial decision has expired. A vested right issue not associated with an
+accompanying Type I, II, III or IV action shall not be decided by the County and may
+be subject to the jurisdiction of the Circuit Court of the State of Oregon.
+Once a determination has been made by the County that a vested right exists, the development
+must be completed pursuant to the vested development permit. The vested development
+permit shall be subject to the requirements of Sections 201-3, 201-4, 201-5, 201-7,
+and 201-8.
+
+ ### 214 - IMPLEMENTATION OF MEASURE 37
+
+214-1
+Completeness
+The Director may determine that an application is complete notwithstanding failure
+of the applicant to address a county land use regulation if the county previously
+decided to modify, remove or not apply the land use regulation for the subject property
+in response to a Measure 37 claim or demand.
+214-2
+Approval of Development Permit
+Notwithstanding any other provision of this Code, the County may approve an application
+and development permit without the applicant having first demonstrated compliance
+with a County land use regulation provided that:
+214-2.1
+The owner of the property that is the subject of the development permit has obtained
+a decision from the County to modify, remove or not apply the county land use regulation
+as provided for by state law and any County implementing ordinance. The applicant
+shall be required to demonstrate compliance with the land use regulation as modified;
+or
+214-2.2
+The development permit is conditioned to prohibit any development until the property
+owner has obtained a decision to modify, remove or not apply the County land use regulation.
+If the land use regulation is modified, or if the claim or demand is denied as regards
+any land use regulation, the applicant must file an application and demonstrate compliance.
+214-3
+Condition of Approval
+A development approval based on a decision to modify, remove or not apply a County
+land use regulation does not waive any requirement to comply with other land use regulations,
+including any other applicable law of the state or other entity. If the Review Authority
+concludes that a land use regulation continues to restrict or prohibit development
+of a property in a manner inconsistent with the County approval, the approval and
+development permit may be conditioned that no grading, building, occupancy or other
+similar permit shall be issued until the owner of the subject property provides proof
+that a decision has been made to modify, remove or not apply the regulation.
+
+ ### 215 - CODE COMPLIANCE
+
+215-1
+No person shall engage in or cause to occur any development; erect, construct, reconstruct,
+alter, maintain, use or transfer any building or structure; or alter, use or transfer
+any land in violation of the Comprehensive Framework Plan including but not limited
+to this Development Code or the applicable Community Plan.
+215-2
+No building or development permit shall be issued unless it has first been determined
+whether there are existing violations on the property. A building or development permit
+may be denied where there is an existing violation or may include a condition addressing
+any existing violation. In addition to any other materials required by law, applications
+for building permits shall be accompanied by a valid development permit or a statement
+specifying the applicable exemption.
+215-3
+Prosecution of Violations
+Violations of the Comprehensive Framework Plan including but not limited to this Development
+Code and any applicable Community Plan will be prosecuted as provided under Chapter
+1.14 of the Washington County Code.
+
+ ### 216 - VALIDATION OF AN UNLAWFULLY CREATED UNIT OF LAND
+
+216-1
+An application to validate a unit of land created by a sale that did not comply with
+the applicable criteria for creation of a unit of land may be approved through a Type
+II procedure if the unit of land:
+A.
+Is not a lawfully established unit of land; and
+B.
+Could have complied with the applicable criteria for the creation of a lawfully established
+unit of land in effect when the unit of land was sold.
+216-2
+Notwithstanding Section 216-1.B., an application to validate a unit of land under
+Section 216 may be approved if the county approved a permit for the construction or
+placement of a dwelling or other building on the unit of land after the sale. If the
+permit was approved for a dwelling, the dwelling must qualify for replacement under
+the criteria set forth in ORS 215.755 (1)(a) to (e).
+216-3
+The application for a permit for continued use of a dwelling or other building on
+a unit of land that was not lawfully established may be approved if:
+A.
+The dwelling or other building was lawfully established prior to January 1, 2007;
+and
+B.
+The permit does not change or intensify the use of the dwelling or other building.
+216-4
+An application to validate a unit of land is not subject to the minimum lot or parcel
+sizes established by ORS 215.780.
+216-5
+A unit of land becomes a lawfully established parcel when the owner of the unit of
+land causes a Standard Partition plat to be recorded within 90 days after the date
+the County validated the unit of land.
+(Ord. No. 890A , § 2.A.(Exh. 1, § 1.), 2-7-23, eff. 3-9-23)
+216-6
+An application to validate a unit of land shall not be approved if the unit of land
+was unlawfully created on or after January 1, 2007.
+216-7
+Development or improvement of a parcel created under Section 216 must comply with
+the applicable laws in effect when a complete application for the development or improvement
+is submitted as described in ORS 215.427 (3)(a) or 227.178 (3)(a).
+
+ ### 217 - DIRECTOR'S INTERPRETATION
+
+217-1
+Purpose
+The purpose of the Director's Interpretation is to address uses that are not explicitly
+provided for in this Code, to provide further interpretation of terms or phrases within
+this Code, make initial determinations of conformity through a Development and Property
+Information (DPI) request, and provide guidance and documentation for future application
+of this Code.
+In addition to this interpretation process, interpretations can be made by the Board
+pursuant to Resolution and Order 98-35. Revisions to public policy shall not be made
+through Board or Director's Interpretations of this Code. Policy revisions shall be
+considered through a Type IV legislative process as described in Section 202-4. Director's
+Interpretations shall be used to provide guidance for consistent application of Code
+standards. For Type II applications on appeal and Type III applications, the Hearings
+Officer may consider the Director's Interpretation and may use and incorporate the
+interpretation into its findings.
+217-2
+Applicability
+The Director shall have the initial authority and responsibility to interpret all
+terms, provisions, and requirements of this Code.
+217-3
+Procedure
+217-3.1
+A Director's Interpretation may be initiated by:
+A.
+The Director;
+B.
+A property owner or property owner's representative where an interpretation specific
+to that owner's property is requested; or
+C.
+Any person to obtain an interpretation of specific terms within this Code where the
+terms and its interpretation are unrelated to specific property.
+217-3.2
+An application for a Director's Interpretation shall be processed as a Type II procedure
+in accordance with Section 202-2.1 and 202-2.2 of this Code.
+217-3.3
+Notice of a Director's Interpretation shall be provided as set forth in Section 202-2.3
+for an interpretation involving a specific property only.
+217-3.4
+Public notice of pending review of a Director's Interpretation shall be provided to
+all Community Participation Organizations (CPOs) as set forth in Section 204-3.1 C.
+of this Code for an interpretation that does not involve a specific property. Notice
+of decision shall be provided to all CPOs as set forth in Section 204-3.4 of this
+Code.
+217-3.5
+The Director may reject an application for a Director's Interpretation if:
+A.
+The Director determines that the question presented can be decided in conjunction
+with a pending land use application, plan amendment, or land use permit; or
+B.
+The Director determines that there is a compliance case pending in which the same
+issue will be decided.
+217-3.6
+When the Director determines that an application shall not be accepted, the fee submitted
+will be returned to the applicant less a processing fee.
+217-3.7
+The Director's decision to accept or not accept an application under Section 217 shall
+be the County's final decision.
+217-3.8
+The Review Authority may impose conditions on the Director's Interpretation.
+217-3.9
+Appeals shall be processed in accordance with Section 209 of this Code and shall be
+to the Hearings Officer.
+( Ord. No. 828, § 2.C.(Exh. 1, § 6), 9-26-17 , eff. 11-24-17)
+217-4
+Application Requirements
+217-4.1
+An application for a Director's Interpretation shall be submitted when one or more
+of the following apply:
+A.
+The owner of the property or the property owner's representative is requesting an
+interpretation relating to the use of the owner's property.
+B.
+A request has been made to the Director to provide a Development & Property Information
+(DPI) determination.
+C.
+The interpretation of a specific term or terms within this Code is requested.
+D.
+A determination of a similar use is requested.
+217-4.2
+An application shall be submitted on a form provided by the Director along with all
+application fees and evidence that a pre-application meeting has been held.
+217-5
+Determination of Similar Uses
+When making determination of a similar use, the proposed use subject to the interpretation
+must be substantially similar to a use currently identified in the applicable district
+or in other sections of this Code.
+217-6
+Expiration
+A Director's Interpretation shall not expire unless superseded by a subsequent Director's
+Interpretation or change to this Code.

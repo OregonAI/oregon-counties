@@ -1,0 +1,1575 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-94-038
+title: 'Ordinance No. 94-038'
+doc_type: ordinance
+citation: 'Ordinance No. 94-038'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616699131_1994-39848-Ordinance%20No.%2094-038%20Recorded%2010_6_1994.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 6959728a6d9c05c55bb06dc4d80700483047fd2ff811ac409b252fb53fe26b74
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 94-038 (Ordinance No. 94-038)
+
+## At a glance
+
+Ordinance No. 94-038 — orders of Deschutes County. 38 pages.
+
+## Full text
+
+LEGAL_CQyj EL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES CWU". L--,
+An Ordinance Amending Chapters 18. 36
+and 18. 40 of the Deschutes County
+Code, Amending Development Standards
+in the Forest ( F- 1 and F- 2) Zones,
+and Declaring an Emergency.
+ORDINANCE NO. 94- 038
+0137- 0694
+WHEREAS, the Land Conservation and Development Commission filed new
+administrative rule OAR 660- 06 on March 1, 1994, relative to requirements for
+Forest Lands; and
+WHEREAS, the newly adopted rule was made effective upon filing; and
+WHEREAS, the newly adopted rule supersedes county code provisions where
+there is a conflict between the rule and the code; and
+WHEREAS, the Board finds it is in the public interest to make the
+county' s land use regulations be consistent with state law in a timely
+manner; and
+WHEREAS, public hearings have been held on the proposed amendments
+consistent with state and county law; and
+WHEREAS, the Deschutes County Planning Commission recommended adoption
+of the amendments as proposed; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY ORDAINS as
+follows:
+Section 1. ADOPTION OF AMENDMENTS TO CHAPTER 18. 36 OF THE DESCHUTES
+COUNTY CODE. Chapter 18. 36 of the Deschutes County Code, as amended, is
+further amended by the provisions set forth in Exhibit " A", attached hereto
+and by this reference incorporated herein.
+Section 2. ADOPTION OF AMENDMENTS TO CHAPTER 18. 40 OF THE DESCHUTES
+COUNTY CODE. Chapter 18. 40 of the Deschutes County Code, as amended, is
+further amended by the provisions set forth in Exhibit " B", attached hereto
+and by this reference incorporated herein.
+Section 3. ADOPTION OF AMENDMENTS TO SECTION 18. 04. 030 OF THE DESCHUTES
+COUNTY CODE. Section 18. 04. 030 of the Deschutes County Code, as amended, is
+further amended by the definition of " tract" as follows:
+Tract. As used in Chapters 18. 16, 18. 36 and 18. 40, tract means
+one or more contiguous lots or parcels in the same ownership. A
+tract shall not be considered to consist of less than the required
+acreage because it is crossed by a public road or waterway."
+Section 4. SEVERABILITY. The provisions of this ordinance are
+severable. If any sentence, clause, or phrase of this ordinance is found to
+1 - ORDINANCE NO. 94- 038 ( 10- 5- 94)
+IA'
+CROFILMED
+OCT197994
+013' 7- 0695
+be invalid by a court of competent jurisdiction that decision shall not
+affect the validity of the remaining portions of this ordinance.
+Section 5. CORRECTIONS. This ordinance may be corrected by order of
+the Board of County Commissioners to cure editorial and clerical errors and
+to insert appropriate leaislative history references.
+Section 6. CODIFICATION. County Legal Counsel shall have the authority
+to format the provisions contained herein in a manner that will integrate
+them into the County Code consistent with the County Legal Counsel form and
+style for ordinance codification. Such codification shall include the
+authority to make format changes, to make changes in numbering systems and to
+make such numbering changes consistent with interrelated code sections. In
+addition, as part of codification of these ordinances, County Legal Counsel
+may insert appropriate legislative history reference. Any legislative
+history references included herein are not adopted as part of the substance
+of this ordinance, but are included for administrative convenience and as a
+reference. They may be changed to correct errors and to conform to proper
+style without action of the Board of County Commissioners.
+Section 7. REPEAL OF ORDINANCES AS AFFECTING EXISTING LIABILITIES. The
+repeal, express or implied, of any ordinance, ordinance provision, code
+section, or any map or any line on a map incorporated therein by reference,
+by this amending ordinance shall not release or extinguish any duty,
+condition, penalty, forfeiture, or liability previously incurred or that may
+hereafter be incurred under such ordinance, unless a provision of this
+amending ordinance shall so expressly provide, and such ordinance repealed
+shall be treated as still remaining in force for the purpose of sustaining
+any proper action or prosecution for the enforcement of such duty, condition,
+penalty, forfeiture, or liability, and for the purpose of authorizing the
+prosecution, conviction and punishment of the person or persons who
+previously violated the repealed ordinance.
+Section 8. EMERGENCY. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergency is declared
+to exist, and this Ordinance takes effect on its passage.
+DATED this 5th day of October, 1994.
+AT7:,e:;,.
+Recording Secreta y
+2 - ORDINANCE NO. 94- 038 ( 10- 5- 94)
+BO* D OF COUNTY COMMISSIONERS
+OFJDESCHUTEN COUNTY, OREGON
+SC" GEN, Chair
+Win
+TOM( THROOP Comm' ssioner
+x
+BARRY H. SLAUGHTER, tommissioner
+0137- 0696
+NOTE: New language is in bold; deleted language is in brackets [
+EXHIBIT A
+Chapter 18. 36
+FOREST USE - F- 1 ZONE
+Sections:
+18. 36. 010 Purpose
+18. 36. 020 Uses Permitted Outright
+18. 36. 030 Conditional Uses Permitted
+18. 36. 040 Limitations on Conditional Uses
+18. 36. 050 Standards for [ Forest Management] Single - Family
+Dwellings
+18. 36. 060 Siting of Dwellings and Structures
+18. 36. 070 Fire Siting Standards for Dwellings and Structures
+18. 36. 080 Fire Safety Design Standards for Roads
+18. 36. 085 Stocking Requirements
+18. 36. 090 Dimensional Standards
+18. 36. 100 Yards and Setbacks
+18. 36. 110 Stream Setbacks
+18. 36. 120 State Law Controls
+18. 36. 130 Rimrock Setbacks
+18. 36. 140 Restrictive Covenants
+18. 36. 010 Purpose.
+The purpose of the Forest Use Zone is to conserve forest
+lands.
+Ord. 92- 025 § 2, Exhibit B, 1992; Ord. 91- 020 S 1, 1991)
+18. 36. 020 Uses Permitted Outright.
+The following uses and their accessory uses are permitted
+outright, subject to applicable siting criteria set forth in this
+chapter and any other applicable provisions of this title.
+A. Forest operations or forest practices including, but not
+limited to, reforestation of forest land, road construction and
+maintenance, harvesting of a forest tree species, application of
+chemicals and disposal of slash.
+B. Temporary on- site structures that are auxiliary to and
+used during the term of a particular forest operation. As used
+here, temporary structures are those which are portable and/ or not
+placed on a permanent foundation, and which are removed at the con -
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 1
+clusion of the forest operation requiring its use. 0137- 0691
+C. Physical alterations to commercial forest land auxiliary
+to forest practices including, but not limited to, those made for
+purposes of exploration, mining, commercial gravel extraction and
+processing, landfills, dams, reservoirs, road construction or
+recreational facilities. Gravel extraction and processing not
+covered by this section is governed by Chapter 18. 52 of this title.
+D. Uses to conserve soil, air and water quality and to
+provide for wildlife and fisheries resources.
+E. Farm use as defined in ORS 215. 203.
+F. Additional local distribution lines ( e. g. electric, tele-
+phone, natural gas, etc.) within existing rights- of- way or which
+provide service hookups and accessory equipment ( e. g. electric
+distribution transformers, meter cabinets, terminal boxes,
+pedestals).]
+F. Local distribution lines ( e. g., electric, telephone,
+natural gas, etc.) and accessory equipment ( e. g., electric
+distribution transformers, poles, meter cabinets, terminal boxes,
+pedestals), or equipment which provides service hookups, including
+water service hookups.
+G. Temporary portable facility for the primary processing of
+forest products. The facility shall not be placed on a permanent
+foundation and shall be removed at the conclusion of the forest
+operation requiring its use.
+H. Exploration for mineral and aggregate resources as
+defined in ORS Chapter 517.
+I. Towers and fire stations for forest fire protection.
+J. Widening of roads within existing rights- of- way in
+conformance with the transportation element of the comprehensive
+plan including public road and highway projects as described in ORS
+215. 283( 1)( k) through ( n).
+K. Water intake facilities, canals and distribution lines
+for farm irrigation and ponds.
+L. Uninhabitable structures accessory to fish and wildlife
+enhancement.
+M. Maintenance, repair or replacement of existing dwell-
+ings.]
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 2
+013'7- 0698
+M. Alteration, restoration or replacement of a lawfully estab-
+lished dwelling that:
+1. Has intact exterior walls and roof structure;
+2. Has indoor plumbing consisting of a kitchen sink, toilet
+and bathing facilities connected to a sanitary waste
+disposal system;
+3. Has interior wiring for interior lights;
+4. Has a heating system; and
+5. In the case of replacement, is removed, demolished or
+converted to an allowable use within three months of
+completion of the replacement dwelling.
+Ord. 92- 025 § 2, Exhibit B, 1992; Ord. 91- 020 S 1, 1991; Ord. 91-
+002 S 8, 1991)
+18. 36. 030 Conditional Uses Permitted.
+The following uses and their accessory uses may be allowed in
+the Forest Use zone, subject to applicable provisions of the Com-
+prehensive Plan, Section 18. 36. 040 of this title and other appli-
+cable sections of this title.
+A. Private hunting and fishing operations without any
+lodging accommodations.
+B. Caretaker residences for public parks and fish hatcher-
+ies.
+C. Temporary forest labor camps limited to the duration of
+the forest operation requiring its use.
+D. Exploration for and production of geothermal, gas, oil
+and other associated hydrocarbons, including the placement and
+operation of compressors, separators and other customary production
+equipment for an individual well adjacent to the well head.
+E. Log scaling and weigh stations.
+F. Disposal site for solid waste for which the Department of
+Environmental Quality has granted a permit under ORS 459. 245,
+together with equipment, facilities or buildings necessary for its
+operation.
+G. Parks and campgrounds. For the purpose of this section,
+a campground is an area devoted to overnight temporary use for
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 3
+013' 7- 0699
+vacation, recreational or emergency purposes, but not for resi-
+dential purposes. A camping site may be occupied by a tent, travel
+trailer or recreational vehicle. Campgrounds shall not include
+intensively developed recreational uses such as swimming pools,
+tennis courts, retail stores or gas stations.
+H. Mining and processing of oil, gas or other subsurface
+resources, as defined in ORS Chapter 520. 005, and not otherwise
+permitted under subsection ( D) of this section.
+I. Television, microwave and radio communication facilities
+and transmission towers.
+J. Fire stations for rural fire protection [ necessary to
+serve existing development].
+K. Utility facilities for the purpose of generating [ five
+5) megawatts or less of] power. A power generation facility shall
+not preclude more than 10 acres from use as a commercial forest
+operation unless an exception is taken pursuant to OAR 660, Divi-
+sion 4.
+L. Aids to navigation and aviation.
+M. Water intake facilities, related treatment facilities,
+pumping stations and distribution lines.
+N. Reservoirs and water impoundments.
+0. Cemeteries.
+P. New electric transmission lines with right- of- way widths
+of up to 100 feet as specified in ORS 772. 210. New distribution
+lines ( e. g. [ electrical,] gas, oil, geothermal) with rights- of- way
+50 feet or less in width.
+Q. Temporary asphalt and concrete batch plants as accessory
+uses to specific highway projects.
+R. Home occupations as defined in Section 18. 04. 030 and
+subject to Section 18. 128. 040 ( G) of this title.
+S. Expansion of existing airports.
+T. Public road and highway projects as described as ORS
+215. 283( 2)( p) through ( r) and 215. 283( 3).
+U. Private accommodations for fishing occupied on a
+temporary basis subject to other applicable sections of this title
+and the following requirements:
+1[ a]. Accommodations are limited to no more than 15 guest
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 4
+0137- 0700
+rooms as that term is defined in the Oregon Struc-
+tural Specialty Code;
+2[ b]. O[ o] nly minor incidental and accessory retail sales
+are permitted;
+3[ c]. Accommodations are occupied temporarily for the
+purpose of fishing during fishing seasons autho-
+rized by the Oregon Fish and Wildlife Commission;
+and
+4[ d]. Accommodations must be located within one- quarter
+mile of fish - bearing Class I waters as defined in
+OAR 629- 24- 101 ( 7).
+V. Forest management research and experimentation facilities
+as defined by ORS 526. 215 or where accessory to forest operations.
+W. Excavation, grading and fill and removal within the bed
+and banks of a stream or river or in a wetland, subject to Sections
+18. 120. 050 and 18. 128. 040 ( W) of this title.
+X. A manufactured home in conjunction with an existing
+dwelling as a temporary use for the term of a hardship suffered by
+the existing resident or a relative as defined in ORS 215. 283. The
+use shall be subject to the review criteria in Section 18. 116. 090
+of this title, as well as Sections 18. 36. 040 and 18. 36. 060 [ those
+in this chapter]. The manufactured home shall use the same sub-
+surface sewage disposal system used by the existing dwellings if
+that disposal system is adequate to accommodate the additional
+dwelling.
+Y. Forest management dwellings on parcels for which
+preliminary approval was received prior to April 15, 1992 and where
+the dwelling is found to be necessary for and accessory to forest
+operations, including cultured Christmas trees as defined in ORS
+215. 203 ( 3).]
+Y. Single- family dwellings as specified in Section 18. 36. 05-
+0.
+Ord. 92- 068 S 1, 1992)
+18. 36. 040 Limitations on Conditional Uses.
+A use authorized by Section 18. 36. 030 of this title must meet
+the following requirements. These requirements are designed to
+make the use compatible with forest operations and agriculture and
+to conserve values found on forest lands.
+A. The proposed use will not force a significant change in,
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 5
+0137- 0701
+or significantly increase the cost of, accepted farming or forest
+practices on [ adjacent] agricultural or forest lands.
+B. The proposed use will not significantly increase fire
+hazard or significantly increase fire suppression costs or
+significantly increase risks to fire suppression personnel.
+C. Prior to final approval of any use listed in Section
+18. 36. 030, the land owner shall sign and record in the County
+Clerk' s Office a written statement recognizing the rights of
+adjacent and nearby land owners to conduct forest operations
+consistent with the Forest Practices Act and Rules.
+Ord. 92- 025 S 2, Exhibit B, 1992; Ord. 91- 020 S 1, 1991)
+18. 36. 050 Standards for [ Forest Management] Single - Family
+Dwellings.
+A. General Provisions.
+1. Dwellings listed as a conditional use under Section
+18. 36. 030( Y) of this chapter shall meet the following standards:
+a. One of the alternative tests set out in subsections ( B)
+lot of record dwelling), ( C) ( large tract dwelling), or
+D) ( template dwelling) of this section;
+b. If the lot or parcel is part of a " tract," the remaining
+undeveloped lots or parcels of the tract shall be
+consolidated into a single lot or parcel, or the appli-
+cant shall sign and record with the County Clerk cove-
+nants, conditions and restrictions ( on a form substan-
+tially similar to that set forth in Section 18. 36. 140)
+prohibiting the siting of a dwelling on the undeveloped
+portions of the tract. Such covenants, conditions and
+restrictions are irrevocable, unless a statement of
+release is signed by the County Planning Director, or his
+authorized representative.
+C. No other dwellings shall be located on the tract.
+d. The applicant shall provide evidence that any domestic
+water supply is from a source authorized in accordance
+with the Department of Water Resources Oregon Administra-
+tive Rules for the appropriation of ground water ( OAR
+690, Division 10 ) or surface water ( OAR 690, Division 20 )
+and not from a Class II stream as defined in the Forest
+Practices Rule ( OAR 629- 24- 101( 3)).
+For purposes of this section, evidence of a domestic
+water supply means:
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 6
+0137- 0702
+1) Verification from a water purveyor that the
+use described in the application will be
+served by the purveyor under the purveyor' s
+rights to appropriate water; or
+2) A water use permit issued by the Water Re-
+sources Department for the use described in
+the application; or
+3) Verification from the Water Resources Depart-
+ment that a water use permit is not required
+for the use described in the application. If
+the proposed water supply is from a well and
+is exempt from permitting requirements under
+ORS 537. 545, the applicant shall submit the
+well construction report to the county upon
+completion of the well.
+e. If road access to a dwelling is by a road owned and
+maintained by a private party or by the Oregon Department
+of Forestry, the Bureau of Land Management or the U. S.
+Forest Service, then the applicant shall provide proof of
+a long- term road access use permit or agreement. The
+road use permit may require the applicant to agree to
+accept responsibility for road maintenance.
+2. In addition, dwellings listed as a conditional use under
+Section 18. 36. 030( Y) of this chapter shall be subject to the
+following standards or conditions:
+a. The conditional use standards set forth in Section
+18. 36. 040;
+b. The siting criteria set forth in Section 18. 36. 060;
+C. The fire siting standards set forth in Section 18. 36. 070;
+d. The fire safety design standards for roads set forth in
+Section 18. 36. 080;
+e. The stocking requirements set forth in Section 18. 36. 085,
+if applicable; and
+g. Any other provisions made applicable by this title or the
+comprehensive plan.
+3. Dwellings in forest zones shall not be subject to
+conditional use standards.
+B. Lot of Record Dwelling. For approval under this
+subsection, a single- family dwelling shall meet the following
+requirements:
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 7
+0137- 0703
+1. The lot or parcel on which the dwelling would be sited
+was lawfully created prior to January 1, 1985 and was acquired by
+the present owner either prior to January 1, 1985 or by devise or
+by intestate succession from a person who acquired the lot or
+parcel prior to January 1, 1985.
+For the purposes of this subsection, " owner" includes the
+wife, husband, son, daughter, mother, father, brother, brother- in-
+law, sister, sister- in- law, son- in- law, daughter- in- law, mother- in-
+law, father- in- law, aunt, uncle, niece, nephew, step- parent, step-
+child, grandparent or grandchild of the owner or a business entity
+owned by any one or combination of these family members.
+2. The dwelling would be located on a tract that is composed
+of soils not capable of producing 4, 000 cubic feet per year of com-
+mercial tree species and is located within 1, 500 feet of a public
+road. The road shall not be a U. S. Forest Service road or a Bureau
+of Land Management ( BLM) road and shall be maintained and either
+paved or surfaced with rock.
+For the purposes of this section, " public roads" are those
+roads in which the public has a right of use that is a matter of
+public record.
+For the purposes of this section, " commercial tree species"
+means tree recognized under rules adopted by the Oregon Department
+of Forestry under ORS 527. 715 for commercial production.
+3. For lots or parcels located within a Wildlife Area ( WA)
+combining zone, siting of the proposed dwelling would be consistent
+with the limitations on density as applied under the applicable
+density restrictions of Chapter 18. 88 of this title.
+C. Large Tract Dwelling. For approval of a single- family
+dwelling under this subsection, the subject property shall consist
+of at least 240 contiguous acres in one ownership.
+D. Template Dwelling. For approval under this subsection,
+a single family dwelling shall meet the following requirements:
+are:
+1. The lot or parcel is predominantly composed of soils that
+a. Capable of producing 0 to 20 cubic feet per acre
+per year of wood fiber if:
+i) All or part of at least three other lots or
+parcels that existed on January 1, 1993, are
+within a 160 acre square centered on the
+center of the subject tract; and
+ii) At least three other dwellings existed on
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 8
+0137- 0704
+January 1, 1993 on the other lots or parcels.
+b. Capable of producing 21 to 50 cubic feet per acre
+per year of wood fiber if:
+i) All or part of at least seven other lots or
+parcels that existed on January 1, 1993, are
+within a 160 acre square centered on the
+center of the subject tract; and
+ii) At least three dwellings existed on January 1,
+1993 on the other lots or parcels.
+C. Capable of producing more than 50 cubic feet per
+acre per year of wood fiber if:
+i) All or part of at least 11 other lots or
+parcels that existed on January 1, 1993, are
+within a 160 acre square centered on the
+center of the subject tract; and
+At least three dwellings existed on January 1,
+1993 on the other lots or parcels.
+2. Requirements of Applying Template
+a. If a tract 60 acres or larger described in this
+subsection abuts a road or perennial stream, the
+measurement shall be made by using a 160 - acre
+rectangle that is one mile long and one- fourth mile
+wide centered on the center of the subject tract
+and that is to the maximum extent possible aligned
+with the road or stream.
+b. If a road crosses the tract on which the dwelling
+will be located, at least one of the three required
+dwellings shall be on the same side of the road as
+the proposed dwelling. However, one of the three
+required dwellings shall be on the same side of the
+road or stream as the tract and;
+1) Be located within a 160 - acre rectangle that is
+one mile long and one- fourth mile wide cen-
+tered on the center of the subject tract and
+that is to the maximum extent possible aligned
+with the road or stream;
+2) Be within one- quarter mile from the edge of
+the subject tract but not outside the length
+of the 160 - acre rectangle, and on the same
+side of the road or stream as the tract.
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 9
+0137- 0705
+C. If a tract reviewed under this subsection abuts a
+road that existed on January 1, 1993, the measure-
+ment may be made by creating a 160 - acre rectangle
+that is one mile long and one- fourth mile wide cen-
+tered on the center of the subject tract and that
+is to the maximum extent possible, aligned with the
+road.
+A. In addition to other applicable provisions of this chapter, a
+forest management dwelling must meet all of the following re-
+quirements:
+a. The dwelling is necessary for and accessory to forest
+operations, including cultured Christmas trees as defined in ORS
+215. 203( 3). That determination shall be based on review of a
+forest management plan which shall, at a minimum, provide informa-
+tion necessary to complete the forest management form referred to
+in Appendix A of this chapter regarding the condition and produc-
+tivity of the lands to be managed, a chronological description of
+commercial forest management activities to be undertaken by the
+resident( s) or under contract and estimates of yield, labor and
+expenses.
+b. There are no other dwellings on the property which are
+vacant or currently occupied by persons not engaged in forestry
+which could be used as the principal forest management dwelling on
+the forest operation.
+C. The property qualifies for and is enrolled in one of
+Oregon' s forest tax programs.
+d. The dwelling will not significantly interfere with,
+significantly increase the costs of or impede forest or farm man-
+agement on adjacent forest and agricultural lands.
+e. If road access to the dwelling is by a road owned and
+maintained by a private party or by the Oregon Department of For-
+estry, the Bureau of Land Management or the U. S. Forest Service,
+then the applicant shall provide proof of a long- term road access
+use permit or agreement. The road use permit may require the
+applicant to agree to accept responsibility for road maintenance.
+f. The forest lands to be managed by the resident of the
+proposed dwelling meet the stocking and survival requirements of
+the Forest Practices Rule for the Eastern Region in effect at the
+time authorization for a permanent dwelling is requested.
+B. Approval of a forest management dwelling is not subject
+to Section 18. 128. 015 of this title.
+C. Pursuant to OAR 660- 06- 027( a), an application for a
+forest management dwelling is not complete until the applicant pro -
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 10
+0137- 0700
+vides documentation to the Planning Division showing that the
+Oregon Department of Forestry has had the opportunity to review and
+evaluate the condition and productivity of the lands to be managed,
+the plans for management of the lands, estimates of the yield,
+labor and expenses and the siting of the dwelling and related fire
+safety measures. The information must be sufficient to enable the
+Oregon Department of Forestry within 45 days to determine that:
+a. The information describing the productivity and current
+condition of the forest land to be managed is complete and accu-
+rate;
+b. Fulfillment of the forest management plan will result in
+use of the parcel for the required management purpose in terms of
+stocking, stand density and harvest; and
+C. The siting and safety standards in OAR 660- 06- 029 and OAR
+660- 06- 035 have been adequately addressed.
+Ord. 92- 025 S 2, Exhibit B, 1992; Ord. 91- 020 S 1, 1991)]
+18. 36. 060 Siting of Dwellings and Structures.
+A. All new dwellings and structures approved pursuant to
+Section 18. 36. 030 or permitted under Section 18. 36. 020 shall be
+sited in accordance with this section and Section 18. 36. 070.
+Relevant physical and locational factors including, but not limited
+to, topography, prevailing winds, access, surrounding land use and
+source of domestic water shall be used to identify a site which:
+1[ a]. Has the least impact on nearby or adjacent lands zoned
+for forest or agricultural use;
+2[ b]. Ensures that forest operations and accepted farming
+practices will not be curtailed or impeded;
+3[ c]. Minimizes the amount of forest lands used for the
+building site, road access and service corridors; and
+4[ d]. Consistent with the applicable provisions of Section
+18. 36. 070, minimizes the risks associated with wildfire.
+Ord. 92- 025 § 2, Exhibit B, 1992)
+18. 36. 070 Fire Siting Standards for Dwellings and Structures.
+The following fire siting standards shall apply to all new
+dwellings and permanent structures ( including permitted uses),
+except as otherwise noted:
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 11
+A. Access
+0137- 0707
+1. If a water supply, such as a swimming pool, pond, stream
+or lake, is available and suitable for fire protection[, such as a
+swimming pool, pond, stream or lake,] or is required under this
+section, then road access to within 15 feet of the water' s edge
+shall be provided for pumping units. The road access shall be
+constructed and maintained to accommodate the maneuvering of fire
+fighting equipment during the fire season. Permanent signs shall
+be posted along the access route to indicate the location of the
+emergency water source.
+B] 2. Road access to the dwelling or structure shall meet
+the road design standards described in Section 18. 36. 080 of this
+title.
+B. Firebreaks
+C] 1. Primary Firebreak. Prior to use, owners of dwellings
+and structures shall construct a primary firebreak, not less than
+10 feet wide, containing non- flammable materials. This may include
+lawn, walkways, driveways, gravel borders or other similar
+materials.
+D] 2. Secondary Firebreak. Owners of the dwellings and
+structures shall construct a secondary firebreak of not less than
+20 feet outside the primary firebreak. This firebreak need not be
+bare ground, but can include a lawn, ornamental shrubbery or
+individual or groups of trees separated by a distance equal to the
+diameter of the crowns adjacent to each other, or 15 feet,
+whichever is greater. All trees shall be pruned to at least eight
+feet in height. Dead fuels shall be removed.
+E] 3. Fuel Break. Owners of the dwellings and structures
+shall maintain a fuel break extending a minimum of 100 feet in all
+directions around the secondary firebreak. Individual and groups
+of trees within the fuel break shall be separated by a distance
+equal to the diameter of the crowns adjacent to each other, or 15
+feet, whichever is greater. Small trees and brush growing
+underneath larger trees shall be removed to prevent spread of fire
+up into the crowns of the larger trees. All trees shall be pruned
+to at least eight feet in height. Dead fuels shall be removed.
+The fuel break shall be completed prior to the beginning of the
+coming fire season.
+F] 4. No portion of a tree or any other vegetation shall
+extend to within 15 feet of the outlet of a stovepipe or chimney.
+G] C. [ Dwellings] Single- family dwellings, caretaker residences
+and private accommodations for fishing shall not be located on
+hillsides steeper than 30 percent and containing flammable fuels.
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 12
+0137- 0'708
+H] D. The applicant for a single- family dwelling, caretaker
+residence or private accommodations for fishing shall obtain an
+address from the County Address Coordinator and shall display that
+number in a location of the property that is clearly visible from
+the road used as the basis for numbering. The numbers shall not be
+less than three inches in height, shall be painted in a contrasting
+or visible color and shall comply with all other applicable
+standards for signs.
+I] E. Structural Standards.
+1. All dwellings and structures shall use non- combustible or
+fire resistant roofing materials. This means roofing material
+identified as Class A, B or C in the Oregon Uniform Building Code.
+Roof sprinklers are not an acceptable alternative to this standard.
+2. If the dwelling or structure has a chimney, it shall have
+a spark arrester.
+F. Fire Protection. Single- family dwellings, caretaker
+residences and private accommodations for fishing shall be located
+upon a parcel for which fire protection services are available or
+where alternative protective measures are authorized by this
+subsection.
+1. For the purposes of this section fire protection services
+are available if the parcel is located within the boundaries of a
+fire protection district or residential fire protection service is
+provided by contract, as evidenced by a written, signed contract.
+2. If the dwelling or structure is not within a fire
+protection district, the applicant shall provide evidence that the
+applicant has asked to be included in the nearest such district.
+3. If the parcel is not located within a fire protection
+district and it is determined, following application for inclusion
+within the nearest such district, that inclusion in the district
+would be impracticable, alternative means of fire protection shall
+be allowed, consistent with the following standards:
+a. The dwelling or structure shall be equipped with a
+residential fire sprinkler system. For caretaker residences
+or single- family residences, such a sprinkler system shall be
+installed to the minimum requirements of NFPA 13D " Standards
+for the Installation of Sprinkler Systems in One and Two -
+Family Dwellings."
+b. The dwelling shall have on- site water storage
+capabability from a swimming pool, pond, lake, or similar
+water body of at least 4, 000 gallons or a stream having a
+continuous year round flow of at least one cubic foot per
+second. The applicant shall provide verification from the
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 13
+0137- 0709
+Water Resources Department that any permits or registrations
+required for water diversions have been obtained or that such
+permits or registrations are not required under state law for
+the use.
+Ord. 92- 025 § 2, Exhibit B, 1992)
+18. 36. 080 Fire Safety Design Standards for Roads.
+The following standards apply to all roads and driveways,
+except for private roads accessing only commercial forest uses,
+which access uses permitted under Section 18. 36. 020 or approved
+under Section 18. 36. 030 of this title.
+A. Roads, bridges and culverts shall be designed and
+maintained to support a minimum gross vehicle weight ( GVW) of
+50, 000 lbs. If bridges or culverts are involved in the construc-
+tion of a road or driveway, written verification of compliance with
+the 50, 000 lb. GVW standard shall be provided by a professional
+engineer registered in Oregon.
+B. Access roads shall have an unobstructed horizontal
+clearance of not less than twenty ( 20 ) feet and an unobstructed
+vertical clearance of not less than thirteen and one- half ( 13. 5)
+feet, and provide an all- weather surface.
+C. Turnarounds shall have a minimum of fifty ( 50 ) feet of
+turn radius with an all- weather surface and be maintained for turn-
+ing of fire fighting equipment.
+D. Road grades should not exceed 8 percent, with a maximum
+of 12 percent on short pitches. Variations from these standards
+may be granted [ by the fire service having responsibility for the
+area] when topographic conditions make these standards impractical
+and where the local fire protection district states their fire
+fighting equipment can negotiate the proposed road grade.
+Ord. 92- 025 S 2, Exhibit B, 1992)
+18. 36. 085 Stocking Requirement
+All dwellings approved under Section 18. 36. 050 of this Chapter
+shall be subject to the provisions of this section.
+A. Stocking Requirement
+1. Dwellings approved under Section 18. 36. 050 shall include
+a condition requiring the owner to plant a sufficient number of
+trees on the tract to demonstrate that the tract is reasonably
+expected to meet Department of Forestry stocking requirements
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 14
+0137- 0710
+specified in Department of Forestry administrative rules ( OAR 629-
+24- 400 et. seq.) in force at the time the approval is granted.
+2. Consistent with Department of Forestry Administrative
+Rules OAR 629- 24- 401 and OAR 629- 24- 404, stocking shall not be
+required for ( 1) tracts designated by the Department of Forestry as
+Class III forest land and ( 2) tracts of 11 acres or under in one
+contiguous ownership.
+B. Reporting Requirements
+1. The planning director or his designee shall notify the
+county assessor of any stocking requirement condition at the time
+the dwelling is approved.
+2. The property owner shall submit a stocking survey report
+to the county assessor and the assessor shall verify that the
+minimum stocking requirements have been met by the time required
+under Department of Forestry rules. The assessor shall inform the
+Department of Forestry in cases where the property owner has not
+submitted a stocking report or where the survey report indicates
+that minimum stocking requirements have not been met.
+3. Upon notification by the assessor, the Department of
+Forestry shall determine whether the tract meets minimum stocking
+requirements of the Forest Practices Act. That decision shall be
+solely the decision of the Department of Forestry. If the
+department determines that the tract does not meet those require-
+ments, the department shall notify the owner and the assessor that
+the land is not being managed as forest land. The assessor shall
+then remove the forest land designation pursuant to ORS 321. 359 and
+impose the additional tax pursuant to ORS 321. 372.
+The tax penalty imposed by the assessor under this section
+shall be the only sanction for failure to meet stocking require-
+ments.
+18. 36. 090 Dimensional Standards.
+In an F- 1 Zone, the following dimensional standards shall
+apply:
+A. The minimum lot size is 80 acres.
+B. Land divisions creating parcels less than eighty ( 80)
+acres in size may only be approved for uses listed in Section
+18. 36. 030( D) through ( 0), provided that those uses have been
+approved pursuant to Section 18. 36. 040. Such division shall create
+a parcel that is the minimum size necessary for the use.
+C. Notwithstanding subsections ( A) and ( B) above, the
+Planning Director or Hearings Body may waive the 80 - acre minimum
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 15
+0137- 0711.
+lot size to allow a partition of property provided:
+a. The subject property contains a dwelling which existed
+prior to January 25, 1990; and
+b. The dwelling was constructed under a valid building
+permit or was constructed prior to the County' s involvement in
+the permit process and otherwise constitutes a vested use; and
+C. The new parcel containing the dwelling is no larger than
+five ( 5) acres; and
+d. The remaining forest parcel, not containing the dwelling,
+meets the minimum lot size; or
+e. The remaining forest parcel, not containing the dwelling,
+is consolidated with another parcel( s) creating a legal parcel
+which meets the minimum lot size. Consolidation shall occur
+concurrent with final approval of the partition. ]
+C[ D]. Building Height. No non- agricultural building or stru-
+cture shall be erected or enlarged to exceed thirty ( 30) feet in
+height, except as approved under Section 18. 120. 040.
+Ord. 92- 055 S 6, 1992)
+18. 36. 100 Yards and Setbacks.
+A. The front yard setback shall be 40 feet from a property
+line fronting on a local street, 60 feet from a property line
+fronting on a collector and 100 feet from a property line fronting
+on an arterial.
+B. Each side yard setback shall be a minimum of 25 feet,
+except a parcel or lot with a side yard adjacent to zoned forest
+land shall have a minimum side yard of 100 feet.
+C. Rear yards shall be a minimum of 25 feet, except parcels
+or lots with rear yards adjacent to zoned forest land shall have a
+minimum rear yard of 100 feet.
+D. The setback from the north lot line shall meet the solar
+setback requirements in Section 18. 116. 180 of this title.
+E. In addition to the setbacks set forth herein, any greater
+setbacks required by applicable building or structural codes
+adopted by the State of Oregon and/ or the County under Chapter
+15. 04 of this title shall be met.
+Ord. 94- 008 § 18, Exhibit B, 1992; Ord. 92- 025 § 2, Exhibit B,
+1992)
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 16
+0137- 0712
+18. 36. 110 Stream Setbacks.
+All sewage disposal installations such as vault toilets,
+septic tanks and drainfield systems shall be set back from the
+ordinary high water mark along all streams and lakes a minimum of
+100 feet measured at right angles to the ordinary high water mark.
+All structures, buildings or similar permanent fixtures shall be
+set back from the ordinary high water mark along all streams or
+lakes a minimum of 100 feet measured at right angles to the ordi-
+nary high water mark.
+Ord. 92- 025 S 2, Exhibit B, 1992)
+18. 36. 120 State Law Controls.
+Forest operations are governed by the State Forest Practices
+Act. Whenever a use allowed by this section conflicts with or is
+prohibited by the Oregon Forest Practices Act or regulations
+promulgated thereunder, state law shall control.
+Ord. 92- 025 S 2, Exhibit B, 1992)
+18. 36. 130 Rimrock Setback.
+Setbacks from rimrock shall be as provided in Section
+18. 116. 160.
+Ord. 86- 053 S 7, 1986)
+18. 36. 140 Restrictive Covenant
+Restrictive covenants required under this chapter shall
+substantially comply with the form set forth below:
+Declaration of Covenants, Conditions and Restrictions
+Whereas, the undersigned hereinafter
+referred to as " Declarant," is owner in fee simple of the property
+described in Exhibit A attached hereto and incorporated by
+reference herein; and
+Whereas, the Declarant desires to declare his/ her intention to
+create certain covenants, conditions and restrictions in order to
+effectuate and comply with the requirements of Oregon Administra-
+tive Rule ( OAR) 660- 06- 027;
+Declarant hereby declares that all of the property described
+on Exhibit A shall be held, sold, and conveyed subject to the
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 17
+013' 7- 0713
+following covenants, conditions and restrictions:
+It is not lawful to use the property described in this
+instrument for the construction or siting of a dwelling
+or to use the acreage of the tract to qualify another
+tract for the construction or siting of a dwelling.
+These covenants, conditions and restrictions can be removed
+only and at such time as the property described herein is no longer
+protected under the statewide planning goals for agricultural and
+forest lands or the legislature otherwise provides by statute that
+these covenants, conditions and restrictions may be removed, and
+the authorized representative of the county or counties in which
+the property subject to these covenants, conditions and restric-
+tions are located executes and records a release of the covenants,
+conditions and restrictions created by this instrument.
+In witness whereof, the undersigned, being Declarant herein,
+has heretofore set their hand this day of ."
+Ordinance 94- 038 - Forest Use - F- 1 Zone ( October 5, 1994) 18
+0137- 0714
+NOTE: New language is in bold; deleted language is in brackets [
+EXHIBIT B
+Chapter 18. 40
+FOREST USE - F- 2 ZONE
+Sections:
+18. 40. 010 Purpose
+18. 40. 020 Uses Permitted Outright
+18. 40. 030 Conditional Uses Permitted
+18. 40. 040 Limitations on Conditional Uses
+18. 40. 050 Standards for [ Forest Management] Dwellings
+18. 40. 060 Siting of Dwellings and Structures
+18. 40. 070 Fire Siting Standards for Dwellings and Structures
+18. 40. 080 Fire Safety Design Standards for Roads
+18. 40. 085 Stocking Requirements
+18. 40. 090 Dimensional Standards
+18. 40. 100 Yards and Setbacks
+18. 40. 110 Stream Setbacks
+18. 40. 120 State Law Controls
+18. 40. 130 Rimrock Setbacks
+18. 40. 010 Purpose.
+The purpose of the Forest Use Zone is to conserve forest
+lands. ( Ord. 92- 025 S 3, Exhibit C, 1992; Ord. 91- 020 § 11 1991)
+18. 40. 020 Uses Permitted Outright.
+The following uses and their accessory uses are permitted
+outright, subject to applicable siting criteria set forth in this
+chapter and any other applicable provisions of this title.
+A. Forest operations or forest practices including, but not
+limited to, reforestation of forest land, road construction and
+maintenance, harvesting of a forest tree species, application of
+chemicals and disposal of slash.
+B. Temporary on- site structures that are auxiliary to and
+used during the term of a particular forest operation. As used
+here, temporary structures are those which are portable and/ or not
+placed on a permanent foundation, and which are removed at the con-
+clusion of the forest operation requiring its use.
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 1
+0137-- 0715
+C. Physical alterations to commercial forest land auxiliary
+to forest practices including, but not limited to, those made for
+purposes of exploration, mining, commercial gravel extraction and
+processing, landfills, dams, reservoirs, road construction or
+recreational facilities. Gravel extraction and processing not
+covered by this section is governed by Chapter 18. 52 of this title.
+D. Uses to conserve soil, air and water quality and to
+provide for wildlife and fisheries resources.
+E. Farm use as defined in ORS 215. 203.
+F. Additional local distribution lines ( e. g. electric, tele-
+phone, natural gas, etc.) within existing rights- of- way or which
+provide service hookups and accessory equipment ( e. g. electric
+distribution transformers, meter cabinets, terminal boxes,
+pedestals).]
+F. Local distribution lines ( e. g., electric, telephone,
+natural gas, etc.) and accessory equipment ( e. g., electric
+distribution transformers, poles, meter cabinets, terminal boxes,
+pedestals), or equipment which provides service hookups, including
+water service hookups.
+G. Temporary portable facility for the primary processing of
+forest products. The facility shall not be placed on a permanent
+foundation and shall be removed at the conclusion of the forest
+operation requiring its use.
+H. Exploration for mineral and aggregate resources as
+defined in ORS Chapter 517.
+I. Towers and fire stations for forest fire protection.
+J. Widening of roads within existing rights- of- way in
+conformance with the transportation element of the comprehensive
+plan including public road and highway projects as described in ORS
+215. 283( 1)( k) through ( n).
+K. Water intake facilities, canals and distribution lines
+for farm irrigation and ponds.
+L. Uninhabitable structures accessory to fish and wildlife
+enhancement.
+M. Maintenance, repair or replacement of existing dwell-
+ings.]
+M. Alteration, restoration or replacement of a lawfully
+established dwelling that:
+1. Has intact exterior walls and roof structure;
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 2
+I
+0137- 0716
+2. Has indoor plumbing consisting of a kitchen sink, toilet
+and bathing facilities connected to a sanitary waste
+disposal system;
+3. Has interior wiring for interior lights;
+4. Has a heating system; and
+5. In the case of replacement, is removed, demolished or
+converted to an allowable use within three months of
+completion of the replacement dwelling.
+Ord. 92- 025 S 3, Exhibit B, 1992; Ord. 91- 020 S 1, 1991)( Ord. 92-
+025 S 3, Exhibit C, 1992; Ord. 91- 020 S 1, 1991; Ord. 91- 005 § 21,
+1991; Ord. 91- 002 S 9, 1991)
+18. 40. 030 Conditional Uses Permitted.
+The following uses and their accessory uses may be allowed in
+the Forest Use zone, subject to applicable provisions of the Com-
+prehensive Plan, Section 18. 40. 040 of this title and other appli-
+cable sections of this title.
+A. Private hunting and fishing operations without any
+lodging accommodations.
+B. Caretaker residences for public parks and fish hatcher-
+ies.
+C. Temporary forest labor camps limited to the duration of
+the forest operation requiring its use.
+D. Destination Resorts where mapped in a DR zone and subject
+only to the provisions of Chapter 18. 113 and other applicable
+provisions of Title 18 and the Comprehensive Plan not contained in
+this chapter.
+E. Exploration for and production of geothermal, gas, oil
+and other associated hydrocarbons, including the placement and
+operation of compressors, separators and other customary production
+equipment for an individual well adjacent to the well head.
+F. Log scaling and weigh stations.
+G. Disposal site for solid waste for which the Department of
+Environmental Quality ( DEQ) has granted a permit under ORS 459. 245,
+together with equipment, facilities or buildings necessary for its
+operation.
+H. Parks and campgrounds. For the purpose of this section,
+a campground is an area devoted to overnight temporary use for
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 3
+0137- 0717
+vacation, recreational or emergency purposes, but not for resi-
+dential purposes. A camping site may be occupied by a tent, travel
+trailer or recreational vehicle. Campgrounds shall not include
+intensively developed recreational uses such as swimming pools,
+tennis courts, retail stores or gas stations.
+I. Mining and processing of oil, gas or other subsurface
+resources, as defined in ORS Chapter 520. 005, and not otherwise
+permitted under subsection ( E) of this section.
+J. Television, microwave and radio communication facilities
+and transmission towers.
+K. Fire stations for rural fire protection [ necessary to
+serve existing development].
+L. Utility facilities for the purpose of generating [ five
+5) megawatts or less] of power. A power generation facility shall
+not preclude more than 10 acres from use as a commercial forest
+operation unless an exception is taken pursuant to OAR 660, Divi-
+sion 4.
+M. Aids to navigation and aviation.
+N. Water intake facilities, related treatment facilities,
+pumping stations and distribution lines.
+0. Reservoirs and water impoundments.
+P. Cemeteries.
+Q. New electric transmission lines with right- of- way widths
+of up to 100 feet as specified in ORS 772. 210. New distribution
+lines ( e. g. [ electrical,] gas, oil, geothermal) with rights- of- way
+50 feet or less in width.
+R. Temporary asphalt and concrete batch plants as accessory
+uses to specific highway projects.
+S. Home occupations as defined in Section 18. 04. 030 and
+subject to Section 18. 128. 040 ( G) of this title.
+T. Expansion of existing airports.
+U. Public road and highway projects as described as ORS
+215. 283( 2)( p) through ( r) and 215. 283( 3).
+V. Private accommodations for fishing occupied on a
+temporary basis subject to other applicable sections of this title
+and the following requirements:
+1[ a]. Accommodations are limited to no more than 15 guest
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 4
+0137- 07180'718
+rooms as that term is defined in the Oregon Struc-
+tural Specialty Code;
+2[ b]. O[ o] nly minor incidental and accessory retail sales
+are permitted;
+3[ c]. Accommodations are occupied temporarily for the
+purpose of fishing during fishing seasons autho-
+rized by the Oregon Fish and Wildlife Commission;
+and
+4[ d]. Accommodations must be located within one- quarter
+mile of fish - bearing Class I waters as defined in
+OAR 629- 24- 101 ( 7).
+W. Forest management research and experimentation facilities
+as defined by ORS 526. 215 or where accessory to forest operations.
+X. Forest management dwellings necessary for and accessory
+to forest operations, including cultured Christmas trees as defined
+in ORS 215. 203( 3).
+Y. Nonforest Dwelling.]
+X. Single- family dwellings as specified in Section 18. 40. 05-
+0.
+X] Y. Excavation, grading and fill and removal within the
+bed and banks of a stream or river or in a wetland, subject to
+Sections 18. 120. 050 and 18. 128. 040 ( W) of this title.
+Z. A manufactured home in conjunction with an existing
+dwelling as a temporary use for the term of a hardship suffered by
+the existing resident or a relative as defined in ORS 215. 283. The
+use shall be subject to the review criteria in Section 18. 116. 090
+of this title, as well as Sections 18. 40. 040 and 18. 40. 60 of [ those
+in] this chapter. The manufactured home shall use the same sub-
+surface sewage disposal system used by the existing dwellings if
+that disposal system is adequate to accommodate the additional
+dwelling.
+Ord. 92- 025 S 3, Exhibit C, 1992; Ord. 91- 038 § 1, 1991)
+18. 36. 040 Limitations on Conditional Uses.
+A use authorized by Section 18. 40. 030 of this title must meet
+the following requirements. These requirements are designed to
+make the use compatible with forest operations and agriculture and
+to conserve values found on forest lands.
+A. The proposed use will not force a significant change in,
+or significantly increase the cost of, accepted farming or forest
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 5
+0137- 0719
+practices on [ adjacent] agricultural or forest lands.
+B. The proposed use will not significantly increase fire
+hazard or significantly increase fire suppression costs or
+significantly increase risks to fire suppression personnel.
+C. Prior to final approval of any use listed in Section
+18. 40. 030, the land owner shall sign and record in the County
+Clerk' s Office a written statement recognizing the rights of
+adjacent and nearby land owners to conduct forest operations
+consistent with the Forest Practices Act and Rules.
+Ord. 92- 025 § 2, Exhibit B, 1992; Ord. 91- 020 S 1, 1991)
+18. 40. 050 Standards for Single - Family Dwellings.
+A. General Provisions.
+1. Dwellings listed as a conditional use under Section
+18. 40. 030( X) of this chapter shall meet the following standards:
+a. One of the alternative tests set out in subsections ( B)
+lot of record dwelling), ( C) ( large tract dwelling), or
+D) ( template dwelling) of this section;
+b. If the lot or parcel is part of a " tract," the remaining
+undeveloped lots or parcels of the tract shall be
+consolidated into a single lot or parcel, or the appli-
+cant shall sign and record with the County Clerk cove-
+nants, conditions and restrictions ( on a form substan-
+tially similar to that set forth in Section 18. 36. 140)
+prohibiting the siting of a dwelling on the undeveloped
+portions of the tract. Such covenants, conditions and
+restrictions are irrevocable, unless a statement of
+release is signed by the County Planning Director, or his
+authorized representative.
+C. No other dwellings shall be located on the tract.
+d. The applicant shall provide evidence that any domestic
+water supply is from a source authorized in accordance
+with the Department of Water Resources Oregon Administra-
+tive Rules for the appropriation of ground water ( OAR
+690, Division 10 ) or surface water ( OAR 690, Division 20 )
+and not from a Class II stream as defined in the Forest
+Practices Rule ( OAR 629- 24- 101( 3)).
+For purposes of this section, evidence of a domestic
+water supply means:
+1) Verification from a water purveyor that the
+use described in the application will be
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 6
+0137- 0720
+served by the purveyor under the purveyor' s
+rights to appropriate water; or
+2) A water use permit issued by the Water Re-
+sources Department for the use described in
+the application; or
+3) Verification from the Water Resources Depart-
+ment that a water use permit is not required
+for the use described in the application. If
+the proposed water supply is from a well and
+is exempt from permitting requirements under
+ORS 537. 545, the applicant shall submit the
+well construction report to the county upon
+completion of the well.
+e. If road access to a dwelling is by a road owned and
+maintained by a private party or by the Oregon Department
+of Forestry, the Bureau of Land Management or the U. S.
+Forest Service, then the applicant shall provide proof of
+a long- term road access use permit or agreement. The
+road use permit may require the applicant to agree to
+accept responsibility for road maintenance.
+2. In addition, dwellings listed as a conditional use under
+Section 18. 40. 030( X) of this chapter shall be subject to the
+following standards or conditions:
+a. The conditional use standards set forth in Section
+18. 40. 040;
+b. The siting criteria set forth in Section 18. 40. 060;
+C. The fire siting standards set forth in Section 18. 40. 070;
+d. The fire safety design standards for roads set forth in
+Section 18. 40. 080;
+e. The stocking requirements set forth in Section 18. 40. 085,
+if applicable; and
+g. Any other provisions made applicable by this title or the
+comprehensive plan.
+3. Dwellings in forest zones shall not be subject to
+conditional use standards.
+B. Lot of Record Dwelling. For approval under this
+subsection, a single- family dwelling shall meet the following
+requirements:
+1. The lot or parcel on which the dwelling would be sited
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 7
+0137- 0721721
+was lawfully created prior to January 1, 1985 and was acquired by
+the present owner either prior to January 1, 1985 or by devise or
+by intestate succession from a person who acquired the lot or
+parcel prior to January 1, 1985.
+For the purposes of this subsection, " owner" includes the
+wife, husband, son, daughter, mother, father, brother, brother- in-
+law, sister, sister- in- law, son- in- law, daughter- in- law, mother- in-
+law, father- in- law, aunt, uncle, niece, nephew, step- parent, step-
+child, grandparent or grandchild of the owner or a business entity
+owned by any one or combination of these family members.
+2. The dwelling would be located on a tract that is composed
+of soils not capable of producing 4, 000 cubic feet per year of com-
+mercial tree species and is located within 1, 500 feet of a public
+road. The road shall not be a U. S. Forest Service road or a Bureau
+of Land Management ( BLM) road and shall be maintained and either
+paved or surfaced with rock.
+For the purposes of this section, " public roads" are those
+roads in which the public has a right of use that is a matter of
+public record.
+For the purposes of this section, " commercial tree species"
+means tree recognized under rules adopted by the Oregon Department
+of Forestry under ORS 527. 715 for commercial production.
+3. For lots or parcels located within a Wildlife Area ( WA)
+combining zone, siting of the proposed dwelling would be consistent
+with the limitations on density as applied under the applicable
+density restrictions of Chapter 18. 88 of this title.
+C. Large Tract Dwelling. For approval of a single- family
+dwelling under this subsection, the subject property shall consist
+of at least 240 contiguous acres in one ownership.
+D. Template Dwelling. For approval under this subsection,
+a single family dwelling shall meet the following requirements:
+are:
+1. The lot or parcel is predominantly composed of soils that
+a. Capable of producing 0 to 20 cubic feet per acre
+per year of wood fiber if:
+i) All or part of at least three other lots or
+parcels that existed on January 1, 1993, are
+within a 160 acre square centered on the
+center of the subject tract; and
+At least three other dwellings existed on
+January 1, 1993 on the other lots or parcels.
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 8
+0137- 0722
+b. Capable of producing 21 to 50 cubic feet per acre
+per year of wood fiber if:
+i) All or part of at least seven other lots or
+parcels that existed on January 1, 1993, are
+within a 160 acre square centered on the
+center of the subject tract; and
+ii) At least three dwellings existed on January 1,
+1993 on the other lots or parcels.
+C. Capable of producing more than 50 cubic feet per
+acre per year of wood fiber if:
+i) All or part of at least 11 other lots or
+parcels that existed on January 1, 1993, are
+within a 160 acre square centered on the
+center of the subject tract; and
+ii) At least three dwellings existed on January 1,
+1993 on the other lots or parcels.
+2. Requirements of Applying Template
+a. If a tract 60 acres or larger described in this
+subsection abuts a road or perennial stream, the
+measurement shall be made by using a 160 - acre
+rectangle that is one mile long and one- fourth mile
+wide centered on the center of the subject tract
+and that is to the maximum extent possible aligned
+with the road or stream.
+b. If a road crosses the tract on which the dwelling
+will be located, at least one of the three required
+dwellings shall be on the same side of the road as
+the proposed dwelling. However, one of the three
+required dwellings shall be on the same side of the
+road or stream as the tract and;
+1) Be located within a 160 - acre rectangle that is
+one mile long and one- fourth mile wide cen-
+tered on the center of the subject tract and
+that is to the maximum extent possible aligned
+with the road or stream;
+2) Be within one- quarter mile from the edge of
+the subject tract but not outside the length
+of the 160 - acre rectangle, and on the same
+side of the road or stream as the tract.
+C. If a tract reviewed under this subsection abuts a
+road that existed on January 1, 1993, the measure -
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 9
+ment may be made by
+that is one mile long
+tered on the center
+is to the maximum ex
+road.
+A. Forest Management Dwelling.
+0137- 0723
+creating a 160 - acre rectangle
+and one- fourth mile wide cen-
+of the subject tract and that
+tent possible, aligned with the
+In addition to other applicable provisions of this chapter, a
+forest management dwelling must meet all of the following require-
+ments:
+1. The dwelling is necessary for and accessory to forest
+operations, including cultured Christmas trees as defined in ORS
+215. 203( 3). That determination shall be based on review of a
+forest management plan, which shall at a minimum provide informa-
+tion necessary to complete the forest management form referred to
+in Appendix A of this Chapter regarding the condition and produc-
+tivity of the lands to be managed, a chronological description of
+commercial forest management activities to be undertaken by the
+resident( s) or under contract and estimates of yield, labor and
+expenses.
+2. There are no other dwellings on the property which are
+vacant or currently occupied by persons not engaged in forestry,
+which could be used as the principal forest management dwelling on
+the forest operation.
+3. The property qualifies for and is enrolled in one of
+Oregon' s forest tax programs.
+4. The dwelling will not significantly interfere with,
+significantly increase the costs of, or impede forest or farm
+management on adjacent forest and agricultural lands.
+5. If road access to the dwelling is by a road owned and
+maintained by a private party or by the Oregon Department of
+Forestry, the Bureau of Land Management or the U. S. Forest Service,
+then the applicant shall provide proof of a long- term road access
+use permit or agreement. The road use permit may require the
+applicant to agree to accept responsibility for road maintenance.
+6. The forest lands to be managed by the resident of the
+proposed dwelling meet the stocking and survival requirements of
+the Forest Practices Rule for the Eastern Region in effect at the
+time authorization for a permanent dwelling is requested ( OAR 629-
+24- 402).
+B. Approval of a forest management dwelling is not subject
+to Section 18. 128. 015 of this title.
+C. Pursuant to OAR 660- 06- 027( a) an application for a forest
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 10
+U137-0724
+management dwelling is not complete until the applicant provides
+documentation to the Planning Division showing that the Oregon
+Department of Forestry has had the opportunity to review and
+evaluate the condition and productivity of the lands to be managed,
+the plans for management of the lands, estimates of yield, labor
+and expenses and the siting of the dwelling and related fire safety
+measures. The information must be sufficient to enable the Oregon
+Department of Forestry within 45 days to determine that:
+1. The information describing the productivity and current
+condition of the forest land to be managed is complete and
+accurate; and
+2. Fulfillment of the forest management plan will result in
+use of the parcel for the required management purpose in terms of
+stocking, stand density and harvest; and
+3. The siting and safety standards in OAR 660- 06- 029 and OAR
+660- 06- 035 have been adequately addressed.
+D. Non - Forest Dwelling.
+In addition to other applicable provisions of this chapter a
+dwelling not related to forest management must meet the eligibility
+requirements detailed in ( 1) , ( 2 ) and ( 3) , and the review standards
+in ( 4) through ( 5):
+1. The parcel on which the proposed dwelling is to be
+located is within a rural fire protection district or the proposed
+resident presents a signed contract for residential fire protec-
+tion.
+2. The parcel is composed primarily of soils which are:
+a. Capable of 0 to 50 cf/ ac/ yr and where this parcel and at
+least all or part of 7 other parcels exist within a 160 - acre square
+when centered on the center of the subject parcel; or
+b. Capable of above 50 cf/ ac/ yr and where this parcel and at
+least all or part of 11 other parcels exist within a 160 - acre
+square when centered on the center of the subject parcel.
+NOTE: Parcels within urban growth boundaries shall not be counted
+to satisfy the eligibility requirements of subsection ( 2)( a) and
+b).
+3. The parcel on which the dwelling would be located was
+lawfully created prior to January 25, 1990.
+4. The dwelling would not force a significant change in,
+significantly increase the cost of, or impede accepted farming for
+forest practices on adjacent agriculture or forest lands.
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 11
+0137- 0725
+5. The siting of the dwelling meets the standards in Section
+18. 40. 060 and 18. 40. 070.
+6. The parcel on which the dwelling would be located has
+been disqualified from receiving a farm or forest tax deferral.
+7. If road access to the dwelling is by a road owned and
+maintained by a private party or by the Oregon Department of
+Forestry, the Bureau of Land Management or the U. S. Forest Service,
+then the applicant shall provide proof of a long- term road access
+use permit or agreement. The road use permit may require the
+applicant to accept responsibility for road maintenance.
+8. Approval of a non - forest dwelling is not subject to
+Section 18. 128. 015 of this Title.
+C. Sunset Clause. Section 18. 40. 050( B), Non - Forest
+Dwelling, shall be automatically repealed 30 days after the
+effective date of any goal and rule amendments establishing
+secondary lands adopted by the Land Conservation and Development
+Commission ( LCDC).]
+Ord. 92- 025 § 3, 1992; Ord. 91- 020 S 1, 1991)
+18. 40. 060 Siting of Dwellings and Structures.
+A. All new dwellings and structures approved pursuant to
+Section 18. 40. 030 or permitted under Section 18. 40. 020 shall be
+sited in accordance with this section and Section 18. 40. 070.
+Relevant physical and locational factors including, but not limited
+to, topography, prevailing winds, access, surrounding land use and
+source of domestic water shall be used to identify a site which:
+1[ a]. Has the least impact on nearby or adjacent lands zoned
+for forest or agricultural use;
+2[ b]. Ensures that forest operations and accepted farming
+practices will not be curtailed or impeded;
+3[ c]. Minimizes the amount of forest lands used for the
+building site, road access and service corridors; and
+4[ d]. Consistent with the applicable provisions of Section
+18. 40. 070, minimizes the risks associated with wildfire.
+Ord. 92- 025 S 3, Exhibit C, 1992)
+18. 40. 070 Fire Siting Standards for Dwellings and Structures.
+The following fire siting standards shall apply to all new
+dwellings and permanent structures ( including permitted uses),
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 12
+0137- 0726
+A. Access
+1. If a water supply, such as a swimming pool, pond, stream
+or lake, is available and suitable for fire protection[, such as a
+swimming pool, pond, stream or lake,] or is required under this
+section, then road access to within 15 feet of the water' s edge
+shall be provided for pumping units. The road access shall be
+constructed and maintained to accommodate the maneuvering of fire
+fighting equipment during the fire season. Permanent signs shall
+be posted along the access route to indicate the location of the
+emergency water source.
+B] 2. Road access to the dwelling or structure shall meet
+the road design standards described in Section 18. 36. 080 of this
+title.
+B. Firebreaks
+C] 1. Primary Firebreak. Prior to use, owners of dwellings
+and structures shall construct a primary firebreak, not less than
+10 feet wide, containing non- flammable materials. This may include
+lawn, walkways, driveways, gravel borders or other similar
+materials.
+D] 2. Secondary Firebreak. Owners of the dwellings and
+structures shall construct a secondary firebreak of not less than
+20 feet outside the primary firebreak. This firebreak need not be
+bare ground, but can include a lawn, ornamental shrubbery or
+individual or groups of trees separated by a distance equal to the
+diameter of the crowns adjacent to each other, or 15 feet,
+whichever is greater. All trees shall be pruned to at least eight
+feet in height. Dead fuels shall be removed.
+E] 3. Fuel Break. Owners of the dwellings and structures
+shall maintain a fuel break extending a minimum of 100 feet in all
+directions around the secondary firebreak. Individual and groups
+of trees within the fuel break shall be separated by a distance
+equal to the diameter of the crowns adjacent to each other, or 15
+feet, whichever is greater. Small trees and brush growing
+underneath larger trees shall be removed to prevent spread of fire
+up into the crowns of the larger trees. All trees shall be pruned
+to at least eight feet in height. Dead fuels shall be removed.
+The fuel break shall be completed prior to the beginning of the
+coming fire season.
+F] 4. No portion of a tree or any other vegetation shall
+extend to within 15 feet of the outlet of a stovepipe or chimney.
+G] C. [ Dwellings] Single- family dwellings, caretaker residences
+and private accommodations for fishing shall not be located on
+hillsides steeper than 30 percent and containing flammable fuels.
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 13
+013' 7- 0'7
+H] D. The applicant for a single- family dwelling, caretaker
+residence or private accommodations for fishing shall obtain an
+address from the County Address Coordinator and shall display that
+number in a location of the property that is clearly visible from
+the road used as the basis for numbering. The numbers shall not be
+less than three inches in height, shall be painted in a contrasting
+or visible color and shall comply with all other applicable
+standards for signs.
+I] E. Structural Standards.
+1. All dwellings and structures shall use non- combustible or
+fire resistant roofing materials. This means roofing material
+identified as Class A, B or C in the Oregon Uniform Building Code.
+Roof sprinklers are not an acceptable alternative to this standard.
+2. If the dwelling or structure has a chimney, it shall have
+a spark arrester.
+F. Fire Protection. Single- family dwellings, caretaker
+residences and private accommodations for fishing shall be located
+upon a parcel for which fire protection services are available or
+where alternative protective measures are authorized by this
+subsection.
+1. For the purposes of this section fire protection services
+are available if the parcel is located within the boundaries of a
+fire protection district or residential fire protection service is
+provided by contract, as evidenced by a written, signed contract.
+2. If the dwelling or structure is not within a fire
+protection district, the applicant shall provide evidence that the
+applicant has asked to be included in the nearest such district.
+3. If the parcel is not located within a fire protection
+district and it is determined, following application for inclusion
+within the nearest such district, that inclusion in the district
+would be impracticable, alternative means of fire protection shall
+be allowed, consistent with the following standards:
+a. The dwelling or structure shall be equipped with a
+residential fire sprinkler system. For caretaker residences
+or single- family residences, such a sprinkler system shall be
+installed to the minimum requirements of NFPA 13D " Standards
+for the Installation of Sprinkler Systems in One and Two -
+Family Dwellings."
+b. The dwelling shall have on- site water storage
+capabability from a swimming pool, pond, lake, or similar
+water body of at least 4, 000 gallons or a stream having a
+continuous year round flow of at least one cubic foot per
+second. The applicant shall provide verification from the
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 14
+0137 - 07; S
+Water Resources Department that any permits or registrations
+required for water diversions have been obtained or that such
+permits or registrations are not required under state law for
+the use.
+Ord. 92- 025 S 3, Exhibit C, 1992)
+18. 40. 080 Fire Safety Design Standards for Roads.
+The following standards apply to all roads and driveways,
+except for private roads accessing only commercial forest uses,
+which access uses permitted under Section 18. 40. 020 or approved
+under Section 18. 40. 030 of this title.
+A. Roads, bridges and culverts shall be designed and
+maintained to support a minimum gross vehicle weight ( GVW) of
+50, 000 lbs. If bridges or culverts are involved in the construc-
+tion of a road or driveway, written verification of compliance with
+the 50, 000 lb. GVW standard shall be provided by a professional
+engineer registered in Oregon.
+B. Access roads shall have an unobstructed horizontal
+clearance of not less than twenty ( 20) feet and an unobstructed
+vertical clearance of not less than thirteen and one- half ( 13. 5)
+feet, and provide an all- weather surface.
+C. Turnarounds shall have a minimum of fifty ( 50) feet of
+turn radius with an all- weather surface and be maintained for turn-
+ing of fire fighting equipment.
+D. Road grades should not exceed 8 percent, with a maximum
+of 12 percent on short pitches. Variations from these standards
+may be granted ( by the fire service having responsibility for the
+area] when topographic conditions make these standards impractical
+and where the local fire protection district states their fire
+fighting equipment can negotiate the proposed road grade.
+Ord. 92- 025 S 3, Exhibit C, 1992)
+18. 40. 085 Stocking Requirement
+All dwellings approved under this Chapter shall be subject to
+the provisions of this section.
+A. Stocking Requirement
+1. Dwellings approved under this Chapter shall include a
+condition requiring the owner to plant a sufficient number of trees
+on the tract to demonstrate that the tract is reasonably expected
+to meet Department of Forestry stocking requirements specified in
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 15
+0137- 0729
+Department of Forestry administrative rules ( OAR 629- 24- 400 et.
+seq.) in force at the time the approval is granted.
+2. Consistent with Department of Forestry Administrative
+Rules OAR 629- 24- 401 and OAR 629- 24- 404, stocking shall not be
+required for ( 1) tracts designated by the Department of Forestry as
+Class III forest land and ( 2) tracts of 11 acres or under in one
+contiguous ownership.
+B. Reporting Requirements
+1. The planning director or his designee shall notify the
+county assessor of any stocking requirement condition at the time
+the dwelling is approved.
+2. The property owner shall submit a stocking survey report
+to the county assessor and the assessor shall verify that the
+minimum stocking requirements have been met by the time required
+under Department of Forestry rules. The assessor shall inform the
+Department of Forestry in cases where the property owner has not
+submitted a stocking report or where the survey report indicates
+that minimum stocking requirements have not been met.
+3. Upon notification by the assessor, the Department of
+Forestry shall determine whether the tract meets minimum stocking
+requirements of the Forest Practices Act. That decision shall be
+solely the decision of the Department of Forestry. If the
+department determines that the tract does not meet those require-
+ments, the department shall notify the owner and the assessor that
+the land is not being managed as forest land. The assessor shall
+then remove the forest land designation pursuant to ORS 321. 359 and
+impose the additional tax pursuant to ORS 321. 372.
+The tax penalty imposed by the assessor under this section
+shall be the only sanction for failure to meet stocking require-
+ments.
+18. 40. 090 Dimensional Standards.
+In an F- 2 Zone, the following dimensional standards shall
+apply:
+A. The minimum lot size is 80 acres; or
+B. Land divisions creating parcels less than eighty ( 80)
+acres in size may only be approved for uses listed in Section
+18. 40. 030( D) through ( P), provided that those uses have been
+approved pursuant to Section 18. 40. 040 of this title. Such
+division shall create a parcel that is the minimum size necessary
+for the use.
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 16
+0137- 0730
+C. Notwithstanding subsections ( A) and ( B) above, the
+Planning Director or Hearings Body may waive the 80 - acre minimum
+lot size to allow a partition of property provided:
+a. The subject property contains a dwelling which existed
+prior to January 25, 1990; and
+b. The dwelling was constructed under a valid building
+permit or was constructed prior to the County' s involvement in
+the permit process and otherwise constitutes a vested use; and
+C. The new parcel containing the dwelling is no larger than
+five ( 5) acres; and
+d. The remaining forest parcel, not containing the dwelling,
+meets the minimum lot size; or
+e. The remaining forest parcel, not containing the dwelling,
+is consolidated with another parcel( s) creating a legal parcel
+which meets the minimum lot size. Consolidation shall occur
+concurrent with final approval of the partition. ]
+C[ D]. Building Height. No non- agricultural building or stru-
+cture shall be erected or enlarged to exceed thirty ( 30) feet in
+height, except as approved under Section 18. 120. 040.
+Ord. 92- 055 S 5, 1992; Ord. 92- 025 S 3, Exhibit C, 1992; Ord. 91-
+020 S 1, 1991)
+18. 40. 100 Yards and Setbacks.
+A. The front yard setback shall be 40 feet from a property
+line fronting on a local street, 60 feet from a property line
+fronting on a collector and 100 feet from a property line fronting
+on an arterial.
+B. Each side yard setback shall be a minimum of 25 feet,
+except a parcel or lot with a side yard adjacent to zoned forest
+land shall have a minimum side yard of 100 feet.
+C. Rear yards shall be a minimum of 25 feet, except parcels
+or lots with rear yards adjacent to zoned forest land shall have a
+minimum rear yard of 100 feet.
+D. The setback from the north lot line shall meet the solar
+setback requirements in Section 18. 116. 180 of this title.
+E. In addition to the setbacks set forth herein, any greater
+setbacks required by applicable building or structural codes
+adopted by the State of Oregon and/ or the County under Chapter
+15. 04 of this title shall be met.
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 17
+0137- 0731
+Ord. 94- 008 S 19, 1993; Ord. 93- 043 S 5, 1993; Ord. 92- 025 S 3,
+Exhibit C, 1992; Ord. 91- 020 S 1, 1991; Ord. 83- 037 S 11, 1983)
+18. 40. 110 Stream Setbacks.
+All sewage disposal installations such as vault toilets,
+septic tanks and drainfield systems shall be set back from the
+ordinary high water mark along all streams and lakes a minimum of
+100 feet measured at right angles to the ordinary high water mark.
+All structures, buildings or similar permanent fixtures shall be
+set back from the ordinary high water mark along all streams or
+lakes a minimum of 100 feet measured at right angles to the ordi-
+nary high water mark. ( Ord. 92- 025 S 3, Exhibit C, 1992; Ord. 91-
+020 S 1, 1991)
+18. 40. 120 State Law Controls.
+Forest operations are governed by the State Forest Practices
+Act. Whenever a use allowed by this section conflicts with or is
+prohibited by the Oregon Forest Practices Act or regulations
+promulgated thereunder, state law shall control. ( Ord. 92- 025 S 3,
+Exhibit C, 1992)
+18. 40. 130 Rimrock Setback.
+Setbacks from rimrock shall be as provided in Section
+18. 116. 160. ( Ord. 86- 053 S 8, 1986)
+94- 038. exh
+Ordinance 94- 038 - Forest Use - F- 2 Zone ( October 5, 1994) 18

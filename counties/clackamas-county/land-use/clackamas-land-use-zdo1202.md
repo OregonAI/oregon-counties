@@ -1,0 +1,602 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clackamas-county
+id: clackamas-land-use-zdo1202
+title: 'Zdo1202'
+doc_type: ordinance
+citation: 'Zdo1202'
+authority_level: county_ordinance
+issuing_body: 'Clackamas County Board of Commissioners'
+source_url: https://www.clackamas.us/planning/zdo1202
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: 47bf7f0e2bf9ea1d49cf3ab79b0bca3c2d5fa078e683f53bb3444aad215dbe97
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [clackamas-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clackamas County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zdo1202 (Zdo1202)
+
+## At a glance
+
+Zdo1202 — land use of Clackamas County. 8278 characters.
+
+## Full text
+
+ZDO 1202: Zone Changes | Clackamas County 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Translate 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jobs 
+ Events 
+ News 
+ Contact Us 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+
+ 
+ 
+ 
+ Community 
+ 
+ 
+ Business 
+ 
+ 
+ Departments 
+ 
+ 
+ Our County 
+ 
+ 
+ I want to... 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ ZDO 1202:  Zone Changes 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ZDO 1202:  Zone Changes 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 1202.01 Purpose and Applicability Section 1202 is adopted to provide standards, criteria, and procedures under which achange to the zoning maps (hereinafter referred to as a zone change) may beapproved. 1202.02 Submittal Requirements In addition to the submittal requirements identified in Subsection 1307.07(C), anapplication for a zone change shall include a site plan of the subject property showingexisting improvements, and a vicinity map showing the relationship of the subjectproperty to the surrounding area. An application for a zone change to NC Districtalso shall include: The requirements listed in Subsection 1102.02; A vicinity map, drawn to scale, showing the uses and location of improvementson adjacent properties and properties across any road; and A site plan, drawn to scale, showing the following: Property dimensions and area of property; Access to property; Location and size of existing and proposed improvements showing distancefrom property lines and distance between improvements; Location of existing and proposed parking; and Location of existing and proposed pedestrian and bicycle facilities, including pedestrian rest and gathering areas. 1202.03 General Approval Criteria A zone change requires review as a Type III or IV application pursuant to Section1307, Procedures, and shall be subject to the following standards and criteria: The proposed zone change is consistent with the applicable goals and policies of the Comprehensive Plan. If development under the proposed zoning district designation has a need for any of the following public services, the need can be accommodated with the implementation of the applicable service provider's existing capital improvement plan: sanitary sewer, surface water management, and water. The cumulative impact of the proposed zone change and development of other properties under zoning designations shall be considered. The transportation system is adequate and will remain adequate with approval of the proposed zone change. For the purpose of this criterion: Adequate means a maximum volume-to-capacity ratio (v/c), or a minimum level of service (LOS), as established by Comprehensive Plan Tables 5-2a,Motor Vehicle Capacity Evaluation Standards for the Urban Area, and 5-2b,Motor Vehicle Capacity Evaluation Standards for the Rural Area. The evaluation of transportation system adequacy shall be conducted pursuant to the Transportation Planning Rule (Oregon Administrative Rules 660-012-0060). It shall be assumed that the subject property is developed with the primary use, allowed in the proposed zoning district, with the highest motor vehicle trip generation rate. The methods of calculating v/c and LOS are established by the Clackamas County Roadway Standards. The adequacy standards shall apply to all roadways and intersections within the impact area of the proposed zone change. The impact area shall be identified pursuant to the Clackamas County Roadway Standards. A determination regarding whether submittal of a transportation impact study is required shall be made based on the Clackamas County Roadway Standards, which also establish the minimum standards to which a transportation impact study shall adhere. Notwithstanding Subsections 1202.03(C)(4) through (6), motor vehicle capacity calculation methodology, impact area identification, and transportation impact study requirements are established by the ODO Transportation Analysis Procedures Manual for roadways and intersections under the jurisdiction of the State of Oregon. Safety of the transportation system is adequate to serve the level of development anticipated by the proposed zone change. 1202.04 NC District Approval Criteria If the application requests a zone change to NC District, approval of the zone change shall include approval of a specific use for the subject property, including a specific site development plan. In addition to the standards and criteria in Subsection 1202.03, a zone change to NC District shall be subject to the following standards and criteria: The characteristics of the subject property are suitable for the proposed use considering size, shape, location, topography, existence of improvements, and natural features.  The proposed use will not alter the character of the surrounding area in a manner that substantially limits, impairs, or precludes the use of surrounding properties for the primary uses allowed in the zoning district(s) in which surrounding properties are located.  The proposed use complies with any applicable requirements of the NC District and any overlay zoning district(s) in which the subject property is located, Section 800, Special Use Requirements, and Section 1000,Development Standards. Design review pursuant to Section 1102, Design Review, is not required for a use approved through a zone change to NC District. Modifications to the approved use, including the approved site development plan, shall be processed pursuant to Subsection 1307.16(M) or Section 1309, Modification. 1202.05 Alternate Zoning District Designation  An application for a zone change may include a request for the approval of an alternate zoning district designation if it is found that the applicant's preferred designation does not comply with the approval criteria but the alternate designation does. [Amended by Ord. ZDO-224, 5/31/11; Amended by Ord. ZDO-230, 9/26/11; Amended by Ord. ZDO-246, 3/1/14; Amended by Ord. ZDO-250, 10/13/14; Amended by Ord. ZDO-248, 10/13/14; Amended byOrd. ZDO-253, 6/1/15; Amended by Ord. ZDO-258, 1/18/17] Return to the Zoning and Development Ordinance main page. Contact zoninginfo@clackamas.us for additional information." 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Phone: 503-742-4500 
+ Email: zoninginfo@clackamas.us 
+ 
+ 
+ 
+ 150 Beavercreek Road Room #225 Oregon City, OR 97045 
+ 
+ 
+ Office Hours: Monday to Thursday  8 a.m. to 4 p.m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's My Zoning? 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Related Events 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Related Events
+ 
+ 
+ 
+ 
+ Board of County Commissioners, Planning and Zoning 
+ 
+ 
+ Aug 
+ 04 
+ 
+ 
+ 11:00 am 
+ - 11:30 am 
+ 
+ 
+ Land Use Hearing: Z0437-25 and Z0438-25 - Aug. 4, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Aug 
+ 20 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0096-26 - Aug. 20, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Sep 
+ 03 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0207-26 - Sept. 3, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ more events 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ SHORTCUTS 
+ 
+ 
+ 
+ Jobs Procurement Process, Contracts and Grants Pay Online CMap Contact the County Report a Hazard County Code Public Records Request HIPAA/Privacy Concerns Civil Rights ACA Complaint Form Accessibility Statement Title VI Compliance Plan Website Privacy Media Contacts 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ELECTED OFFICIALS 
+ 
+ 
+ 
+ Chair Craig Roberts Commissioner Diana Helm Commissioner Paul Savas Commissioner Martha Schrader Commissioner Ben West   County Assessor/Tax Collector Bronson Rueda County Clerk Catherine McMullen District Attorney John Wentworth Justice of the Peace Kathleen Rastetter Sheriff Angela Brandenburg Treasurer Brian Nava 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can’t find what you're looking for? 
+ 
+ 
+ 
+ 
+ Search Box 
+ 
+
+ 
+ enter your search here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2026 Clackamas County

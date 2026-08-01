@@ -1,0 +1,249 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-85-006
+title: 'Ordinance No. 85-006'
+doc_type: ordinance
+citation: 'Ordinance No. 85-006'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616612097_1985-10396-Ordinance%20No.%2085-006%20Recorded%205_16_1985.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a7feee6683af1ac02a3d774e409e5de1e2d96b753014d8fd0622dcd22983f147
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 85-006 (Ordinance No. 85-006)
+
+## At a glance
+
+Ordinance No. 85-006 — orders of Deschutes County. 4 pages.
+
+## Full text
+
+85- 10396
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES
+An Ordinance Regulating
+Antique, Secondhand and Junk
+Dealers, Providing Defini-
+tions, Requiring Licenses and
+Records, Regulating Activities*
+and Premises, Providing for
+Exemptions, Declaring Nui-
+sances, Providing Penalties
+and License Revocation.
+ORDINANCE NO. 85- 006
+G( 1.1.,{ f t•
+CEiC^ iJ1 S
+Drerel i
+VOL 64 FAGF ? '
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. Definitions. Unless the context requires
+otherwise:
+1) An antique, secondhand or junk dealer shall mean a
+person engaged in the purchase, sale, trade, barter, or
+exchange of antique or secondhand goods, including, but
+not limited to, precious metals, jewelry, coins, fire-
+arms, appliances, hand and power tools, sporting goods,
+binoculars, cameras, watches, televisions, radios,
+recording devices, furniture, calculators, electronic
+devices, bicycles and similar items, for private gain,
+or who have in their possession any junk, including,
+but not limited to, old machinery, machinery parts,
+appliance parts, metal, glass, lumber, wood and dis-
+carded material acquired for the purpose of resale.
+2) " Daily ledger" is a pre - numbered, permanently bound
+book that contains all of the original entry pages in
+the book that were originally bound into the book and
+in which all entries are kept in chronological order.
+3) " Dealer" means an antique, secondhand, or junk dealer.
+4) " Purchase" means, in addition to its commonly accepted
+meaning, acquisition of personal property for the pur-
+pose of resale on consignment.
+Section 2. License Required and Fee. No person shall
+engage in business as a dealer without obtaining a license from
+the Deschutes County Clerk. A license shall be valid for a
+period of one ( 1) year, commencing on July 1 and terminating on
+June 30. The initial annual license fee shall be $ 50. 00 for each
+place of business maintained by a dealer within unincorporated
+Deschutes County. The initial license fee shall not be prorated
+1 - ORDINANCE NO. 85- 006
+VOL 64 263
+for a license purchased after January 1 of the initial year. A
+license, which has not been permanently revoked, may be renewed
+for an annual fee of $ 25. 00.
+Section 3. Application For License. A license shall be
+issued only upon the signed, written application of the dealer
+and shall contain such information respecting the owner of the
+business as the County Clerk shall determine. Upon receipt of
+the application and the fee, the County Clerk shall make such
+investigation, with the assistance of the Sheriff, as the County
+Clerk shall deem adequate to determine the financial responsibil-
+ity of the applicant. The County Clerk shall issue a license to
+the applicant within thirty ( 30) days of the date of receipt of
+the application, unless the investigation shows that the appli-
+cant is unfit. In the event the County Clerk denies an applica-
+tion, appeal shall be in accordance with ORS 34. 010 through
+34. 100. Grounds for denial of an application for a license shall
+include, but not be limited to:
+1) A false statement in the license application;
+2) Conviction of a crime in the nature of theft, deception
+or moral turpitude;
+3) Inability to demonstrate to the Clerk' s satisfaction an
+ability to comply with the terms of this Ordinance; or
+4) Failure to have obtained all necessary zoning,
+planning, building, and sanitation permits.
+Section 4. Exemptions. The provisions of this Ordinance
+shal not apply to:
+1) A bona fide secondhand automobile establishment used
+exclusively for the sale of used automobiles;
+2) An automobile wrecking yard;
+3) A bona fide recycling center;
+4) Any charitable, religious, or non- profit organization;
+5) Any person holding two or fewer yard,
+garage, moving,
+or similar sales annually, provided that said person
+does not offer for sale goods acquired solely for the
+purpose of resale; and
+6) Any person offering antique, secondhand, or junk goods
+for sale at a flea market or similar organized sales
+event two or fewer times annually;
+however, any exempt person or entity which engages in a regulated
+activity by contract with another shall comply with the provi-
+sions of this Ordinance.
+2 - ORDINANCE NO. 85- 006
+4.
+VOL 64 263
+for a license purchased after January1 of the initial year. A
+license, which has not been permanently revoked, may be renewed
+for an annual fee of $ 25. 00.
+Section 3. Application For License. A license shall be
+issued only upon the signed, written application of the dealer
+and shall contain such information respecting the owner of the
+business as the County Clerk shall determine. Upon receipt of
+the application and the fee, the County Clerk shall make such
+investigation, with the assistance of the Sheriff, as the County
+Clerk shall deem adequate to determine the financial responsibil-
+ity of the applicant. The County Clerk shall issue a license to
+the applicant within thirty ( 30) days of the date of receipt of
+the application, unless the investigation shows that the appli-
+cant is unfit. In the event the County Clerk denies an applica-
+tion, appeal shall be in accordance with ORS 34. 010 through
+34. 100. Grounds for denial of an application for a license shall
+include, but not be limited to:
+1) A false statement in the license application;
+2) Conviction of a crime in the nature of theft, deception
+or moral turpitude;
+3) Inability to demonstrate to the Clerk' s satisfaction an
+ability to comply with the terms of this Ordinance; or
+4) Failure to have obtained all necessary zoning,
+planning, building, and sanitation permits.
+Section 4. Exemptions. The provisions of this Ordinance
+shal not apply to:
+1) A bona fide secondhand automobile establishment used
+exclusively for the sale of used automobiles;
+2) An automobile wrecking yard;
+3) A bona fide recycling center;
+4) Any charitable, religious, or non- profit organization;
+5) Any person holding two or fewer yard,
+garage, moving,
+or similar sales annually, provided that said person
+does not offer for sale goods acquired solely for the
+purpose of resale; and
+6) Any person offering antique, secondhand, or junk goods
+for sale at a flea market or similar organized sales
+event two or fewer times annually;
+however, any exempt person or entity which engagesin a regulated
+activity by contract with another shall comply with the provi-
+sions of this Ordinance.
+2 - ORDINANCE NO. 85- 006
+VOL 64 PAGE264
+Section 5. Records Required.
+1) Every dealer conducting business at an establishment,
+and every itinerant dealer, shall keep a daily ledger,
+written in ink, in the English language, of all old
+machinery, machinery parts,
+appliance parts, metal,
+glass, lumber, wood and discarded material acquired for
+the purpose of resale, and precious metal, jewelry,
+coins, firearms, appliances, tools, sporting goods,
+binoculars, cameras, watches, televisions, radios,
+recording devices, furniture, calculators, electronic
+devices, hand and power tools, and bicycles purchased
+by the dealer or his agent, including an accurate and
+sufficiently detailed description
+thereof, name,
+address, race, sex, and date of birth of the person
+from whom purchased or acquired, day and hour of pur-
+chase and price paid, including all serial numbers and
+required seller' s identification. The copy of the com-
+pleted daily ledger sheets shall be mailed or delivered
+to the Sheriff weekly.
+a) Required identification will be one of the follow-
+ing:
+1. A valid driver' s license.
+2. A valid State identification card.
+3. A valid military identification card.
+4. A valid passport,
+visa, or alien registration
+card with photo.
+2) A daily ledger shall be so designedas to serve as both
+the required daily ledger and to generate the required
+copy. The daily ledger shall be in a form approvedby
+the Sheriff.
+3) All records required by this Section shall be main-
+tained by the dealer for a period of two years from the
+date of the latest transaction recorded therein.
+4) All records required by this Section shall be open for
+inspection by any Sheriff' s Department officer at all
+reasonable times. No original entry pages in a daily
+ledger shall be removed,
+detached, or separated from
+the daily ledger. No entry in such records may be
+changed, erased, obliterated or defaced.
+Section 6. Regulation of Premises.
+1) The premises and structures of a dealer shall be kept
+in a sanitary manner.
+3 - ORDINANCE NO. 85- 006
+Y.
+4VOL 64 FACE266
+period of thirty ( 30) days. Upon a finding that any person li-
+censed hereunder has violated any of the terms of this Ordinance,
+made a false statement on his license application, or operated a
+licensed business in violation of any other ordinance or law,
+and
+the license has been previously revoked, the license granted
+hereunder shall be permanently revoked.
+Section 11. Nuisance. The operation, maintenance, use or
+location of an antique, secondhand or junk business by a dealer
+in violation of this Ordinance is declared to be a nuisance.
+DATED this / 5th day of /%% , 1985.
+BO R OF COUNTY COMMISSIONERS
+0 SCHUTES COUNTY, OREGON
+LAU CE A .:' TJJ4TLE,
+ATTEST:! ' LOIS STO PRANTE, Commi
+U ac  - c e- Bol •
+Recordi g Secretary D K M UD IN, Com issioner
+5 - ORDINANCE NO. 85- 006
+ssioner
+01/.

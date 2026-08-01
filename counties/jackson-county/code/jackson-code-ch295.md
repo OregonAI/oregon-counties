@@ -1,0 +1,156 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch295
+title: 'Ch295'
+doc_type: ordinance
+citation: 'Ch295'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/Administrative%20Code/Ch295.pdf?t=202406251613400
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: ee4a9a394214ed12db5a2796efad46c7b83e28eff95b371b1c9c7e1f0067cde3
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 475B.005
+    - ORS 475B.400
+    - ORS 475B.550
+    - ORS 475B.600
+    - ORS 475B.700
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch295 (Ch295)
+
+## At a glance
+
+Ch295 — code of Jackson County. 4 pages.
+
+## Full text
+
+199.5
+
+CHAPTER 295
+Marijuana Advisory Committee
+
+295.01 Establish
+ment; Purpose.
+295.02 Marijuana Advisory Committee Composition; Terms of Office, Functions, and
+Responsibilities.
+295.03 Compensation.
+
+CROS
+S REFERENCES
+
+Authorit
+y of Cities and Counties to Prohibit Establishment of Cannabis-Related
+Businesses – see ORS 475B800
+Medical Marijuana Dispensaries – see General Offense Ch. 640; ORS 475B.400-
+475B.520
+Packaging, Labeling and Dosage of Cannabis and Cannabis Projects – see ORS
+475B.600-475B.655
+Recreational Cannabis Regulation – see ORS 475B.005-475B.399
+Taxation of Retail Sales – see Business Regulation and Taxation Ch. 890; see ORS
+475B.700-475B.760
+Testing of Cannabis and Cannabis Products – see ORS 475B.550-475B.590
+
+295.01 ESTABLISHMENT; PURPOSE.
+
+There is hereby established the Marijuana Advisory Committee.  The purpose of the
+Marijuana Advisory Committee is to provide recommendations to the Board of County
+Commissioners on issues related to marijuana, including issues presented by the
+projection, processing, wholesaling, and distribution of marijuana in the unincorporated
+County.
+
+295.02 MARIJUANA ADVISORY COMMITTEE COMPOSITION; TERMS OF
+OFFICE, FUNCTIONS, AND RESPONSIBILITIES.
+
+(a) The Marijuana Advisory Committee (“Advisory Committee”) shall consist of seven
+(7) members appointed by the Board of County Commissioners (“Board”) to serve four
+(4) year staggered terms that begin on July 1 and end on June 30. Should a vacancy occur
+prior to the expiration date of any term, the vacancy shall be filled by the Board after
+receiving recommendations from the Advisory Committee.
+
+(b) The Advisory Committee membership shall include:
+
+(1) Two (2) members who are actively engaged in the medical or recreational
+marijuana industry including, but not limited to person who:
+295.02 Marijuana Advisory Committee 199.5A
+
+A. Produce medical marijuana in Jackson County
+
+B. Produce recreational marijuana in Jackson County; or
+
+C. Has a business interest in a marijuana wholesaling, processing or retailing
+operation in Jackson County.
+
+(2) The Jackson County Sheriff or his designee.
+
+(3) One (1) member who owns rural residential property in Jackson County and
+who is not engaged in the medical or recreational marijuana industry.
+
+(4) One (1) member who engages in traditional agriculture in Jackson County and
+who is not engaged in the medical or recreational marijuana industry.
+
+(5) Two (2) members who represent the general public.
+
+(c) In addition to the members set forth in paragraph (b) of this section, the Jackson
+County Development Services Director, the Jackson County Watermaster, or designee,
+and one member of the Jackson County Board of Commissioners are appointed as non-
+voting, ex officio members of the Advisory Committee.
+
+(d) If a member fails to attend more than three (3) meetings, unexcused, the Advisory
+Committee may, upon a majority vote, recommend to the Board that the office held by
+that member be declared vacant and that a replacement be appointed to serve the
+remainder of the unexpired term.
+
+(e) The Advisory Committee shall hold a regular meeting at least once quarterly, with
+additional meetings at the request of the Board or as determined by the Advisory
+Committee.
+
+(f) The advisory Committee shall organize and select officers from the members set
+forth in paragraph (b) of this section.
+
+(g) The Advisory Committee shall make recommendations to the Board of
+Commissioners with regard to marijuana including, but not limited to, recommendations
+on:
+
+(1) Land use issues related to the production, processing, wholesaling, and
+distribution of marijuana in unincorporated Jackson County.
+
+(2) Livability issues related to the production, processing, wholesaling, and
+distribution of marijuana in unincorporated Jackson County
+199.5B Marijuana Advisory Committee 295.03
+
+(3) The economic impacts of marijuana in Jackson County.
+
+(4) Water usage and pollution related to the production and processing of
+marijuana in unincorporated Jackson County.
+
+295.03 COMPENSATION.
+
+Members of the Advisory Committee shall serve without compensation. However, all
+expenses necessarily incurred by members shall be paid from budgeted funds of the
+Development Services Department, subject to County policy and budgetary limitations.
+
+(Ord. 2017-15. Passed 10-25-17.)
+ Marijuana Advisory Committee 199.5C
+
+THIS PAGE RESERVED FOR EXPANSION

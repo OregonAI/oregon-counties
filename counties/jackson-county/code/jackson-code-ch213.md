@@ -1,0 +1,253 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch213
+title: 'Ch213'
+doc_type: ordinance
+citation: 'Ch213'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/Administrative%20Code/Ch213.pdf?t=202406251553130
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 37d46d48496e8bc6b59c28bb9745f84d41f85258facd182846e8fda853fd47b8
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.111
+    - ORS 203.230
+    - ORS 203.710
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch213 (Ch213)
+
+## At a glance
+
+Ch213 — code of Jackson County. 5 pages.
+
+## Full text
+
+CODIFIED ORDINANCES OF JACKSON COUNTY
+________
+
+TITLE FOUR - Legislation
+
+Chap. 213 Board of
+ County Commissioners.
+Chap. 214 Ordinances and Orders.
+
+CHAPTER 213
+Board of County Commissioners
+
+213.01 Meetings.
+
+213.02 Notice of Meetings.
+213.03 Agendas, Notices and Legislation.
+213.04 Agenda Items; Information Required.
+213.05 Consent Calendar.
+213.06 Order of Business.
+213.07 Rules for the Conduct of Public Hearings.
+213.08 Travel Expenses.
+213.09 Subdivision Plat Approval.
+
+CROS
+S REFERENCES
+
+Board of
+ County Commissioners - see CHTR. Ch. III; ORS 203.230 et seq.
+County governing bodies - see ORS 203.111 et seq.
+County home rule - see ORS 203.710 et seq.
+Authority re appointments of officers and employees - see ADM. 246.06
+Board as Local Contract Review Board - see ADM. Ch. 208, 275
+Traffic control powers see TRAF. 410.07
+Authority re sewer and water project review - see S.U. & P.S. 1044.06
+Communication of County Counsel with Board of County Commissioners - see
+ADM. 219.02.
+
+213.01 MEETINGS.
+
+(a)
+ Regular meetings of the Board of County Commissioners shall be held each
+Wednesday at 9:30 a.m. in the County Courthouse or at such time(s) and place(s) as the
+Board, by order, may designate.
+213.04 Board of County Commissioners 40
+
+(b) If the regular meeting date falls on a holiday, the regular meeting shall be held at
+9:30 a.m. on the next weekday that is not a holiday. The Board, at its discretion, may, by
+order, dated not less than three days prior to any regularly scheduled Board meeting, change the
+date and time for such weekly Board meeting, provided that such meeting is held within
+the calendar week of such regularly scheduled meeting
+
+(c) The Board, at its discretion, may cancel such weekly Board meeting by order.
+Cancellation due to lack of a quorum shall not require an order by the Board.  Notice of
+any cancellation shall be given pursuant to section 213.02.
+
+(Ord. 21-78/79. Passed 1-24-79; Ord. 80-30. Passed 11-26-80; E.Ord.  2007-16. Passed
+04-11-07; Ord. 2007-17. Passed 04-25-07.)
+
+213.02 NOTICE OF MEETINGS.
+
+Notices of regular and special meetings and of emergency and executive sessions of the
+Board of County Commissioners shall be given in a manner appropriate to the
+circumstances and shall be reasonably calculated to give notice to the general public and
+to persons affected by matters under consideration.
+
+(Ord. 21-78/79. Passed 1-24-79.)
+
+213.03 AGENDAS, NOTICES AND LEGISLATION.
+
+An agenda of all action to be considered at a regular or special meeting of the Board of
+County Commissioners shall be posted in a conspicuous place in the County Courthouse
+at least twenty-four hours immediately preceding the meeting. An executive or
+emergency session will be held after giving notice to members of the Board and the
+general public, stating the specific provision of the law authorizing the executive session.
+In the case of an actual emergency, a meeting may be held upon such notice as is
+appropriate to the circumstances. Copies of all notices and agendas and of ordinances,
+orders and resolutions to be considered thereunder shall be available at the Courthouse to
+interested persons throughout the time that such notices and agendas are required to be
+posted. The Board may take action on an item not on an agenda if the Board members
+present concur that an emergency requires the action.
+
+(Ord. 21-78/79. Passed 1-24-79.)
+
+213.04 AGENDA ITEMS; INFORMATION REQUIRED.
+
+An agenda item for a regular Wednesday meeting shall be submitted to the Board of
+County Commissioners not later than 4:00 p.m. on the Friday preceding the meeting. The
+following information relating to the item shall be submitted:
+41 Board of County Commissioners 213.06
+
+(a) The item title and a brief description of the item;
+
+(b) A statement of any relevant issues of which the Board should be aware prior to the
+action;
+
+(c) Action on the item requested by the submitting agency; and
+
+(d) Any supporting material (reports, studies, correspondence, etc.) necessary or
+convenient for the Board's consideration of an action on the item
+
+(Ord. 21-78/79. Passed 1-24-79.)
+
+213.05 CONSENT CALENDAR.
+
+(a) The Secretary of the Board of County Commissioners shall prepare a consent
+calendar of items which are routine in nature and concerning which no debate is
+expected. When a vote on the consent calendar is taken, all items on the consent calendar
+shall be disposed of by a single motion to adopt the consent calendar, which shall not be
+debatable. The adoption of the consent calendar shall require the unanimous vote of all
+Commissioners present and shall have the same effect as a separate vote on each item. If
+the vote for adoption is not unanimous, then each item on the consent calendar shall be
+voted on separately.
+
+(b) Any item on the consent calendar shall be removed at the request of any
+Commissioner prior to the time a vote is taken on the consent calendar. Any item
+removed from the consent calendar shall be disposed of in the same manner as any other
+separate item.
+
+(Ord. 21-78/79. Passed 1-24-79.)
+
+213.06 ORDER OF BUSINESS.
+
+The order of business at a meeting of the Board of County Commissioners shall be as
+follows:
+
+(a) Request for and discussion of non-agenda items;
+
+(b) Consent calendar;
+
+(c) Public hearings; and
+
+(d) Discussions/deliberations.
+
+(Order 358-81. Passed 11-25-81. Ord. 2003-7. Passed 2-26-03; Ord. 2010-07, Passed 6-9-
+10.)
+213.08 Board of County Commissioners  42
+
+213.07 RULES FOR THE CONDUCT OF PUBLIC HEARINGS.
+
+(a) Rules for the conduct of public hearings are hereby established as follows:
+
+(1) Only the Chairperson or a member of the Board of County Commissioners
+may question a speaker.
+
+(2) There will be no interruption of a speaker from the audience and no debates on
+the floor.
+
+(3) Applause is not permitted
+
+(4) A speaker may criticize a proposal, the Board or an agency of the County, but
+the speaker shall not argue with another speaker directly.
+
+(5) Any speaker may present an opposite view, but not in personal terms.
+
+(6) A person wishing to speak shall raise his or her hand and be recognized by the
+Chairperson conducting the hearing.
+
+(7) After being recognized, the speaker shall state his or her name and address
+before proceeding with his or her statement.
+
+(8) The Chairperson may limit the duration of any presentation to the time
+necessary to cover factual information. Repetition by a speaker shall be
+avoided.
+
+(9) The Commissioner conducting a public hearing shall read these rules prior to
+the presentation of testimony. (Order 90-73. Passed 10-31-73.)
+
+(b) No person shall violate any of the rules set forth in subsection (a) hereof. Whoever
+violates any of such rules shall first be warned by the Chairperson to desist from such
+violation. In the event that such person does not so desist, he or she may be ordered by
+the Chairperson to leave the hearing. In the event that such person refuses or otherwise
+fails to leave such hearing upon being ordered to do so, he or she shall be deemed to be a
+trespasser and may be arrested, prosecuted and punished for such offense.
+
+(Adopting Ordinance. Passed 12-10-85.)
+
+213.08 TRAVEL EXPENSES.
+
+(a) Members of the Board of County Commissioners are expected to file for
+reimbursement for all legitimate expenses directly related to County business incurred
+during travel outside of the County, consistent with County policy for other management
+employees.
+43 Board of County Commissioners 213.09
+
+(b) All mileage, meals and other expenses directly incurred for the purpose of
+performing County business, whether inside or outside the County, shall be reimbursed
+by the County, consistent with County policy for other management employees.
+Commissioners shall keep and submit adequate documentation of the County business
+purpose and the amount of expenses to be reimbursed. Reimbursement for out-of-County
+incurred expenses shall be as directed by the Board.
+
+(Order 486-83. Passed 12-28-83.)
+
+213.09 SUBDIVISION PLAT APPROVAL.
+
+(a) All subdivision plats must be approved by the County Assessor before the plat is
+recorded. Additionally, all subdivision plats must be approved by the Chair of the
+Jackson County Board of Commissioners before the plat is recorded.  In the event that the
+Chair is for any reason unavailable or unable to approve a subdivision plat, the Vice
+Chair of the Jackson County Board of Commissioners, another Commissioner, the
+County Administrator or his/her designee may approve the subdivision plat in place of
+the Chair.
+
+(b) Notwithstanding paragraph (a) of this Section, a subdivision plat which dedicates
+land to the use of the public in an unincorporated area of Jackson County must be
+approved by a majority of the Jackson County Board of Commissioners.
+
+(Ord. 05-14. Passed 09-14-05.)

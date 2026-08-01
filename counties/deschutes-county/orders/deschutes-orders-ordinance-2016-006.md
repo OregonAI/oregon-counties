@@ -1,0 +1,399 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2016-006
+title: 'Ordinance No. 2016-006'
+doc_type: ordinance
+citation: 'Ordinance No. 2016-006'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617128620_2016-532-Ordinance%20No.%202016-006%20Recorded%2012_2_2016.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e32efae644439048489a33df5c0096ac218d212925cc56a2a8cf44d94a9aa90d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.503
+    - OAR 660-004-0010
+    - OAR 660-004-0022
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2016-006 (Ordinance No. 2016-006)
+
+## At a glance
+
+Ordinance No. 2016-006 — orders of Deschutes County. 11 pages.
+
+## Full text
+
+LEGAL COUNSEL
+DESCHUTESCOUNTYOFFICIAL RECORDS Ci2016.531NANCY BLANKENSHIP, COUNTY CLERK v 1 + +
+COMMISSIONERS' JOURNAL
+12/02/201602:44:16PM
+IiIIlItIEIjIlIlILIIIIIIIli0-
+531111
+201
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County Code
+Title 18 to Provide a Definition of Agricultural
+Exempt Buildings and Reducing Setbacks in the
+Forest Use 2 (" F2") Zone for the Haner Park
+Subdivision.
+ORDINANCE NO. 2016- 006
+WHEREAS, the Deschutes County Community Development Department ( CDD) initiated amendments
+Planning Division File No. 247 -16 -000021 -TA) to the Deschutes County Code ( DCC) Title 18, Chapter 18.04,
+Definitions; and Chapter 18. 40, Forest Use Zone ( F- 2) to provide a definition of agricultural exempt buildings
+and reduce setbacks in the F- 2 Zone for Haner Park Subdivision; and
+WHEREAS, the Deschutes County Planning Commission reviewed the proposed changes on March 10,
+2016 and forwarded to the Deschutes County Board of County Commissioners (" Board"), a recommendation of
+approval; and
+WHEREAS, the Board considered this matter after a duly noticed public hearing on October 24, 2016,
+and concluded that the public will benefit from the proposed changes to Deschutes County Code (" DCC") Title
+18; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 18. 04. 030, Defmitions, is amended to read as described in Exhibit
+A," attachedheretoandby this referenceincorporatedherein, with new languageunderlinedandlanguageto
+be deleted in Stfiketlifettgh.
+Section 2. AMENDMENT. DCC 18. 40. 100, Yards and Setbacks, is amended to read as described in
+Exhibit " B," attached hereto and by this referenced incorporated herein, with new language underlined and
+language to be deleted in arikethrough.
+PAGE 1 OF 2 - ORDINANCE NO. 2016- 006
+Section 3. FINDINGS. The Board adopts as its findings Exhibit " C", attached and incorporated by
+reference herein.
+Dated this i2f / 0- 1/, , 2016 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+at,„
+ALAN UNGER, Chair
+14/(
+TAMMY BANEY, Vice C air
+ATTEST:
+5- 7/k, i/ Gc
+Recording Secretary ANTHONY DEBONE, Commissioner
+Date of 1stReading: 9"--13dayof AA -1/. , 2016.
+Date of 2ndReading: 7-( 111day of . 2016.
+Commissioner
+Anthony DeBone
+Alan Unger
+Tammy Baney
+Effectivedate: al: 7 day of
+Record of Adoption Vote:
+Yes No Abstained Excused
+PAGE 2 OF 2 - ORDINANCE NO. 2016- 006
+Denotes portions of this Section not amended by Ordinance 2016-006.
+Section 18. 04. 030. Definitions.
+Agricultural building or equine facility" means buildings and structures that are exempt from the State of
+Oregon Structural Specialty Code as agricultural buildings and eauine facilities as described in ORS,
+455.315. A structural building permit is not required for agricultural buildings or equine facilities located
+on the same lot or parcel receiving special assessment for farm use.
+Ord. 2016-006 & 1, 2016; Ord. 2015-004 §1, 2015; Ord. 2014-009 §1, 2014i Ord. 2013-008 §1, 2013;
+Ord. 2012-007 §1, 2012; Ord. 2012-004 §1, 2012; Ord. 2011-009 §1, 2011; Ord. 2010-022 §1, 2010; Ord.
+2010- 018 § 3, 2010, Ord. 2008- 007 § 1, 2008; Ord. 2008- 015 § 1, 2008; Ord. 2007- 005 § 1, 2007; Ord.
+2007- 020 § 1, 2007; Ord. 2007- 019 § 1, 2007; Ord. 2006- 008 § 1, 2006; Ord. 2005- 041 § 1, 2005; Ord.
+2004- 024 § 1, 2004; Ord. 2004- 001 § 1, 2004; Ord. 2003- 028 § 1, 2003; Ord. 2001- 048 § 1, 2001; Ord.
+2001-044 §2, 2001; Ord. 2001-037 §1, 2001; Ord. 2001-033 §2, 2001; Ord. 97-078 §5, 1997; Ord. 97-017
+1, 1997; Ord. 97- 003 § 1, 1997; Ord. 96-082 § 1, 1996; Ord. 96- 003 § 2, 1996; Ord. 95- 077 § 2, 1995; Ord.
+95- 075 § 1, 1975; Ord. 95- 007 § 1, 1995; Ord. 95- 001 § 1, 1995; Ord. 94- 053 § 1, 1994; Ord. 94- 041 §§ 2
+and 3, 1994; Ord. 94- 038 § 3, 1994; Ord. 94- 008 §§ 1, 2, 3, 4, 5, 6, 7 and 8, 1994; Ord. 94- 001 §§ 1, 2, and
+3, 1994; Ord. 93- 043 §§ 1, 1A and 1B, 1993; Ord. 93- 038 § 1, 1993; Ord. 93-005 §§ 1 and 2, 1993; Ord.
+93- 002 §§ 1, 2 and 3, 1993; Ord. 92- 066 § 1, 1992; Ord. 92- 065 §§ 1 and 2, 1992; Ord. 92- 034 § 1, 1992;
+Ord. 92- 025 § 1, 1992; Ord. 92- 004 §§ 1 and 2, 1992; Ord. 91- 038 §§ 3 and 4, 1991; Ord. 91- 020 § 1, 1991;
+Ord. 91- 005 § 1, 1991; Ord. 91-002 § 11, 1991; Ord. 90- 014 § 2, 1990; Ord. 89-009 § 2, 1989; Ord. 89-004
+1, 1989; Ord. 88-050 §3, 1988; Ord. 88-030 §3, 1988; Ord. 88-009 §1, 1988; Ord. 87-015 §1, 1987; Ord.
+86-056 §2, 1986; Ord. 86-054 §1, 1986; Ord. 86-032 §1, 1986; Ord. 86-018 §1, 1986; Ord. 85-002 §2,
+1985; Ord. 84- 023 § 1, 1984; Ord. 83-037 § 2, 1983; Ord. 83-033 § 1, 1983; Ord. 82- 013 § 1, 1982)
+Page 1 of 1- EXHIBIT A TO ORDINANCE NO. 2016- 006
+18. 40. 100. Yards and Setbacks.
+A. The front yard setback shall be 40 feet from a property line fronting on a local street, 60 feet from a
+property line fronting on a collector and 100 feet from a property line fronting on an arterial.
+B. Each side yard setback shall be a minimum of 25 feet except:
+1. All parcels or lots with a side yard adjacent to zoned forest land shall have a minimum side yard of
+100 feet; and
+2. Tracts 1-58 - located in Haner Park, located in Township 22, Range 09, Section 09BB and Section
+04CC, and Tax Lot 2209000000600 shall have a minimum side yard of 25 feet as long as the side
+yard abuts the Forest Use 2 zone.
+C. Rear yards shall be a minimum of 25 feet, except:
+1. All parcels or lots with rear yards adjacent to zoned forest land shall have a minimum rear yard of
+100 feet; and
+2. Tracts 1-58 located in Haner Park. located in Township 22, Range 09, Section 09BB and Section
+04CC. and Tax Lot 2209000000600 shall have a minimum rear yard of 25 feet as long as the rear
+yard abuts the Forest Use 2 zone.
+D. The setback from the north lot line shall meet the solar setback requirements in DCC 18. 116. 180.
+E. In addition to the setbacks set forth herein, any greater setbacks required by applicable building or
+structural codes adopted by the Stateof Oregon and/or the County under DCC 15.04 shall be met.
+Ord. 2016- 006 § 2. 2016; Ord. 95- 075 § 1, 1995; Ord. 94- 008 § 19, 1994; Ord. 92- 025 § 3, 1992; Ord. 91- 020
+1, 1991; Ord. 83- 037 § 11, 1983)
+Page 1 of 1- EXHIBIT B TO ORDINANCE NO. 2016- 006
+FINDINGS
+1. APPLICABLE CRITERIA:
+Title 22, Deschutes County Development Procedures Ordinance
+II. BASIC FINDINGS:
+A. PROPOSAL: 1) Text amendment to Comprehensive Plan, Chapter 2, Section
+2.2 and Chapter 3, Section 3.3, recognizing non -resource lands process allowed
+under State law to change Exclusive Farm Use zoning; 2) Text amendment to
+zoning code providing a definition of agricultural -exempt and equine buildings;
+and, 3) Reducing setbacks in Forest Use (F-2 zone), for Haner Park Subdivision
+and an adjoining three acre tax lot.
+III. CONCLUSIONARY FINDINGS:
+A. CHAPTER 22. 12, LEGISLATIVE PROCEDURES
+1. Section 22. 12. 010.
+Hearing Required
+FINDING: The applicant meets this criterion because a public hearing will be held
+before the Deschutes County Board of County Commissioners ( Board) on October 24,
+2016.
+2. Section 22. 12. 020. Notice
+Notice
+A. Published Notice
+1. Notice of a legislative change shall be published in a
+newspaper of general circulation in the county at least 10 days
+prior to each public hearing.
+2. The notice shall state the time and place of the hearing and
+contain a statement describing the general subject matter of the
+ordinance under consideration.
+FINDING: Notice is published in the Bend Bulletin newspaper on October 14, 2016 and
+contained the information described in DCC 22. 12. 020( A)( 2).
+B. Posted Notice. Notice shall be posted at the discretion of the
+Planning Director and where necessary to comply with ORS
+203. 045.
+FINDING: This criterion will be met with notice posted in the bulletin board in the lobby
+of the Deschutes County Community Development Department, 117 NW Lafayette,
+Bend.
+PAGE 1 OF 7 - EXHIBIT C TO ORDINANCE 2016- 006
+C. Individual notice. Individual notice to property owners, as
+defined in DCC 22. 08. 010( A), shall be provided at the discretion
+of the Planning Director, except as required by ORS 215.503.
+FINDING: Given the proposed amendments in question do not apply to any specific
+property, no individual notices were sent or required.
+D. Media notice. Copies of the notice of hearing shall be
+transmitted to other newspapers published in Deschutes County.
+FINDING: Notice will be provided to the County public information official for wider
+media distribution. This criterion has been met.
+3. Section 22. 12. 030 Initiation of Legislative Chances.
+A legislative change may be initiated by application of individuals
+upon payment of required fees as well as by the Board of County
+Commissioners.
+FINDING: The application was initiated by the Deschutes County Planning Division,
+which received a fee waiver. This criterion has been met.
+4. Section 22. 12. 040. Hearings Body
+A. The following shall serve as hearings or review body for
+legislative changes in this order:
+1. The Planning Commission.
+2. The Board of County Commissioners.
+FINDING: This criterion will be met.
+B. Any legislative change initiated by the Board of County
+Commissioners shall be reviewed by the Planning Commission prior
+to action being taken by the Board of Commissioners.
+FINDING: The Planning Commission held a public hearing on March 10, 2016, and
+reviewed the proposed changes. That same day, the Planning Commission voted in
+support of the proposed definitions of agricultural/ equine exempt buildings and setback
+standard for Haner Park. Deliberations were continued to March 24 and the Planning
+Commission voted to not support the proposed comprehensive plan amendments
+relating to the non -resource lands process allowed under State law to change EFU
+zoning.
+5. Section 22. 12. 050 Final Decision
+All legislative changes shall be adopted by ordinance
+FINDING: If approved, the proposed legislative changes included in file nos. 247- 16-
+000021-TA/247-16-000022- PA will be implemented by ordinances upon approval and
+adoption by the Board; this criterion will be met.
+IV. PROPOSED TEXT AMENDMENTS:
+PAGE 2 OF 7 - EXHIBIT C TO ORDINANCE 2016- 006
+The proposed text amendments are detailed in the Exhibits A - D attached hereto with
+additional text identified by underline and deleted text by strikethrough. Below are
+explanations of the proposed changes.
+A. Text Amendment To Comprehensive Plan, Chapter 2, Section 2. 2 And Chapter
+3, Section 3.3, Recognizing Non -Resource Lands Process Allowed Under State
+Law To Change Exclusive Farm Use Zoning.
+In designating farm lands in the late 1970s, the County was hampered by the limited
+availability of soil maps. Where soil maps from the NRCS existed those were consulted,
+but the County also included irrigated lands and lands receiving farm deferrals for the
+previous five years and site visits. In general, non - urban, non - forest, undeveloped and
+uncommitted lands were determined to be farm lands. This designation by default
+resulted in some areas being designation agricultural based on best available
+information.
+In previous decisions on proposed plan amendments, county hearings officers and the
+Board have determined that land use planning, implemented through Deschutes County
+Comprehensive Plan policies and zoning, enables rural property owners with EFU
+zoning to demonstrate in a quasi-judicial process, with evidence supporting findings that
+a subject property does not constitute " agricultural lands" as defined in Goal 3 and
+Oregon Administrative Rule ( OAR) 660- 033- 0020( 1). Further, if the property does not
+meet the definition of agricultural lands then an exception to Goal 3 is not required which
+is the typical path for redesignation. The Land Use Board of Appeals affirmed this
+approach in Wetherell v. Douglas County, _ Or LUBA_, ( LUBA No. 2006- 122, October
+9, 2006).
+Oregon Administrative Rules ( OAR) Division 4 interprets the requirements of Goal 2
+Land Use Planning) and ORS 197. 732 regarding exceptions. The definition for
+nonresource lands is described in OAR 660- 004- 0005( 3):
+Land not subject to any of the statewide goals listed in OAR 660-004-0010( 1)(a)
+through ( g) except subsections ( c) and ( d). Nothing in these definitions is meant
+to imply that other goals, particularly Goal 5, do not apply to nonresource land."
+1
+Policy 2.2. 3 directs Deschutes County to:
+1OAR660-004-0010:
+1) The exceptions process is not applicable to Statewide Goal 1 " Citizen Involvement" and Goal 2 " Land
+Use Planning." The exceptions process is generally applicable to all or part of those statewide goals that
+prescribe or restrict certain uses of resource land, restrict urban uses on rural land, or limit the provision of
+certain public facilities and services. These statewide goals include but are not limited to:
+a) Goal 3 "Agricultural Lands"; however, an exception to Goal 3 "Agricultural Lands" is not required for any
+of the farm or nonfarm uses allowed in an exclusive farm use ( EFU) zone under ORS chapter 215 and OAR
+chapter 660, division 33, "Agricultural Lands", except as provided under OAR 660-004-0022 regarding a use
+authorized by a statewide planning goal that cannot comply with the approval standards for that type of use;
+htto:// arcweb. sos. state. or. us/ pages/ rules/ oars 600/ oar 660/ 660 004. html
+PAGE 3 OF 7 — EXHIBIT C TO ORDINANCE 2016- 006
+Allow comprehensive plan and zoning map amendment for individual EFU
+parcels as allowed by State Statute, Oregon Administrative Rules and this
+Comprehensive plan.
+A Hearings Officer in a decision in NNP ( PA -13- 1, ZC- 13- 1) held any failure on the
+county' s part to adopt comprehensive plan policies and code provisions describing the
+circumstances under which EFU- zone land may be converted to a non -resource
+designation and zoning codes does not preclude the county from considering quasi-
+judicial plan amendment and zone change applications to remove EFU zoning. This plan
+amendment further clarifies that the County intends to allow the non -resource lands
+process allowed under State law to change EFU zoning.
+The proposed amendment acknowledges this existing path to change land currently
+designated resource to a non -resource designation as allowed by state law.
+On March 24, the Planning Commission voted to not recommend approval the proposed
+amendments.
+B. Text Amendment To Zoning Code Providing A Definition Of Agricultural -
+Exempt and Equine Buildings.
+State law (ORS455.315)2 allowsexemptionfrom the requirementfor a building
+permit and inspections under Oregon State Structural Specialty Code ( electrical,
+plumbing, and mechanical permits are always required). Since 2001, the authority to
+approve an agricultural exempt building resides with the Building Official. A formal
+application requires the County Planning Division to provide input on whether the
+property is a farm. Deschutes County's zoning ordinances do not define " farm" or
+provide a basis for making a determination on whether a property constitutes a farm.
+Until the late 1990s, the Oregon Uniform Building Code ( UBC) defined farm as " farm
+use" — the same as in ORS 215. 203 ( the EFU Zone). However, when the state
+changed to the International Building Code ( IBC), " farm" was not defined. " Farm
+use" is defined in Deschutes County Code and ORS 215. 203 as:
+Farm use" means the current employment of land for the primary purpose of
+obtaining a profit in money by raising, harvesting and selling crops or by the
+feeding, breeding, management and sale of, or the produce of, livestock, poultry,
+fur -bearing animals or honeybees or for dairying and the sale of dairy products or
+any other agricultural or horticultural use or animal husbandry or any combination
+thereof. " Farm use" includes the preparation, storage and disposal by marketing
+or otherwise of the products or by-products raised on such land for human or
+animal use. " Farm Use" also includes the current employment of the land for the
+primary purpose of obtaining a profit in money by stabling or training equines,
+including but not limited to, providing riding lessons, training clinics and schooling
+shows. " Farm use" also includes the propagation, cultivation, maintenance and
+harvesting of aquatic species and bird and animal species to the extent allowed
+by the rules adopted by the State Fish and Wildlife Commission. " Farm use"
+includes the on- site construction and maintenance of equipment and facilities
+2ORS 455: httos://www. oreaonleaislature. aov/bills laws/ors/ors455. html
+PAGE 4 OF 7 — EXHIBIT C TO ORDINANCE 2016- 006
+used for the activities described above. " Farm use" does not include the use of
+land subject to the provisions of ORS chapter 321, except land used exclusively
+for growing cultured Christmas trees as defined in ORS 215. 203( 3). Current
+employment of the land for farm use also includes those uses listed under ORS
+215. 203( 2)( b).
+CDD' s internal policy is a property must be receiving farm deferral and zoned EFU to
+qualify. Below are approaches used by other central, eastern and western Oregon
+counties. Most provide clear and objective standards to determine what constitutes a
+farm for the purposes of making decisions on agricultural exempt buildings.
+Crook County
+Agricultural Exempt Building: Property must qualify for " farm use" ( land must
+be currently employed for the primary purpose of obtaining profit in money).
+The property must also either be at least 80 acres in size or currently
+employed in a farm use and that such use has produced at least $ 40, 000 in
+gross annual income in at least 2 of the previous 5 years.
+Equine Exempt Building: Same as above but the structure must only be used
+for stabling or training equines including but not limited to providing riding
+lessons, training clinics and schooling shows; storage of hay; and property
+owners must own at least one equine or have the applicable land use
+approval for an equine facility ( such as riding lessons, training, schooling,
+boarding) in the zone.
+Jackson County
+Agricultural Exempt Building: Property must be receiving farm deferral.
+Equine Exempt Building: Same as above and it must be located on a farm.
+Structure must only be used for stabling or training equines including but not
+limited to providing riding lessons, training clinics.
+Jefferson County
+Agricultural Exempt and Eauine Building: Property automatically qualifies if it
+is located in the EFU zone and in farm deferral.
+Klamath County
+Agricultural and Eauine Exempt Building: Property automatically qualifies if it
+is either located in the EFU zone or if not, in farm deferral.
+Lake County
+Agricultural Exempt Building: Property must qualify for " farm use" ( land must
+be currently employed for the primary purpose of obtaining profit in money).
+PAGE 5 OF 7 - EXHIBIT C TO ORDINANCE 2016- 006
+Equine Exempt Building: Same as above and it must be located on a farm.
+Structure must only be used for stabling or training equines including but not
+limited to providing riding lessons, training clinics.
+Staff is proposing a definition for agricultural and equine exempt building that applies
+to property receiving farm deferral, regardless of the underlying zone. According to
+the Oregon Department of Revenue, if land is in an EFU zone and is used primarily
+to make a profit by farming, it qualifies for special farm -use assessment. If land is not
+in an EFU zone but is used as farmland, it may receive the same assessment given
+to all qualifying EFU farmland.
+This text amendment is consistent with Agricultural Lands, Policy 2. 28, which states:
+Support a variety of methods to preserve agricultural lands, such as:
+a. Support the use of grant funds and other resources to assist local farmers;
+b. Work cooperatively with irrigation districts, public agencies and
+representatives and land owners;
+c. Encourage conservation easements, or purchase or transfer of
+development rights programs;
+d. Control noxious weeds;
+e. Encourage a food council or ' buy local' program.
+Allowing property owners with farm deferral status to receive agricultural exempt
+buildings helps preserve agricultural lands and promote farm uses by preserving time
+and expense that would otherwise go towards obtaining a building permit.
+On March 10 the Planning Commission voted to recommend approval of the
+proposed amendment with the staff recommended additional text that specifies the
+agricultural building or equine facility is located on the property ( lot or parcel)
+receiving special assessment for farm use as implemented by the County Assessor' s
+Office.
+In addition, internal discussions between Planning and Building Division since the
+Planning Commission deliberations have resulted in a recommendation to add a
+citation of the applicable state statute ( ORS 455. 315) to the proposed definition. This
+provides clarity through reference to the applicable statewide standards for
+agricultural buildings and equine facilities but does not change the substance of the
+definition.
+With both the recommendations of the Planning Commission and the additional
+reference offered by staff, the proposed definition for consideration reads:
+Agricultural building or equine facility" means buildings and structures that are
+exempt from the State of Oregon Structural Specialty Code as agricultural
+buildings and equine facilities as described in ORS 455. 315. A structural building
+permit is not required for agricultural buildings or equine facilities located on the
+same lot or parcel receiving special assessment for farm use."
+C. Reducing Setbacks In Forest Use ( F-2 Zone), For Haner Park Subdivision
+And An Adjoining Three Acre Tax Lot.
+PAGE 6 OF 7 - EXHIBIT C TO ORDINANCE 2016- 006
+Haner park subdivision and the remnant parcel are located in the southwestern
+portion of Deschutes County. These properties were platted prior to State enabling
+land use legislation. This island of F-2 zoned property is surrounded by land zoned
+Forest Use ( F- 1) and owned by the federal government as part of the Deschutes
+National Forest. Deschutes County is proposing text amendments reducing the
+setbacks in Haner Park subdivision and an adjoining three -acre tax lot to the
+standard 25 feet setback instead of the currently required 100 foot setback. The lot
+sizes in the Haner Park are of a relative small size requiring a variance to the 100
+foot setback to develop any structures on the vast majority lots. No other changes to
+the F- 2 zone are proposed.
+This text amendment is consistent with Forest Lands, Section 2. 3 and its goals and
+policies. The emphasis of this section is on forest management and conservation.
+Policy 2.3.5 is the only policy remotely related to the text amendment:
+Uses allowed in Forest zones shall comply with State Statute and Oregon
+Administrative Rule.
+Any proposed use must still comply with the F-2 zone development standards, which
+are consistent with State Statute and administrative rules.
+On March 10th, the Planning Commission voted to recommend approval of the
+proposed amendment.
+PAGE 7 OF 7 - EXHIBIT C TO ORDINANCE 2016- 006

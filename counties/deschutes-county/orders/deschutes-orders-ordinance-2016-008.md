@@ -1,0 +1,132 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2016-008
+title: 'Ordinance No. 2016-008'
+doc_type: ordinance
+citation: 'Ordinance No. 2016-008'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617127765_2016-87-Ordinance%20No.%202016-008%20Recorded%203_2_2016.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 25ed29caba0ea874b860252a9db9d53d97ebe39bc2bdb502e6879a374ef0f557
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 190.003
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2016-008 (Ordinance No. 2016-008)
+
+## At a glance
+
+Ordinance No. 2016-008 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+REVIEWED DESCHUTES COUNTY OFFICIAL RECORDS r1       ,
+fi NANCY BLANKENSHIP,  COUNTY CLERK vu 01+
+LEGAL EL
+COMMISSIONERS'  JOURNAL
+03/02/201608:19:12AM
+itIIIIIIIIIIIIIIIIIIIIII
+2 1 8
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+AND THE CITY OF REDMOND CITY COUNCIL
+An Ordinance Amending Deschutes County
+Code Title 20, and Declaring an Emergency. ORDINANCE NO. 2016- 008
+WHEREAS, under ORS 190.003 to 190.030, and 197.175, et seq. Deschutes County and the City
+of Redmond are authorized to enter into intergovernmental agreements and are required to prepare and
+adopt comprehensive plans consistent with Statewide Planning Goals; and
+WHEREAS, under OAR 660- 021- 0020,   Deschutes County and the City of Redmond are
+authorized to establish Urban Reserve Areas; and
+WHEREAS, DeschutesCounty andthe City of Redmondrecognizethe importanceof providing
+an orderly transitionof urbanservicesfrom Countyto City jurisdiction and administrationas the
+Redmond Urban Reserve Area transitions from a rural to an urban character; and
+WHEREAS, ORS 190-003, et seq. requires that an intergovernmental agreement relating to the
+performance of functions or activities by one unit of local government for another specify the
+responsibilities between the parties; and
+WHEREAS, DeschutesCounty and the City of Redmondhave adoptedzoning and planning
+regulations in accordance with Oregon Revised Statutes Chapter 227 that regulate and control the
+developmentof landwithin the City andUrbanGrowth Boundary;and
+WHEREAS, the City of Redmond City Council (" City Council") has an adopted set of goals that
+includes: " Enhance the quality of life in the City through the adoption of programs, policies and standards
+that balance growth while maintaining the city' s unique character"; and,
+WHEREAS, the City of Redmondhasidentified that theexisting Urban Holding Zone, UH- 10in
+the unincorporated area of the urban growth boundary does not fulfill the City Comprehensive Plan goals
+andpolicesby specificallydirectingdevelopmentdesignstandardsandlocationsthataredesirableand
+most appropriate for Wireless and Broadcast Communication Facilities; and,
+WHEREAS, Deschutes County Board of County Commissioners (" Board") and City Council
+held a public hearingon February23, 2016to considerthe recommendationof the Urban Area Planning
+Commission, review the existing record and gather additional evidence and public testimony; and
+WHEREAS, the Board and City Council have received the Redmond Planning Commission' s
+recommendation and, after receiving additional evidence and testimony, determined that the requested
+DeschutesCounty Code amendmentswould contribute to the RedmondComprehensivePlan goals and
+policies to maintain and enhance Redmond' s quality of life; and
+PAGE 1 OF 3 ExWBIT 2- ORDINANCE NO. 2016- 008
+WHEREAS, the Board and City Council find that the findings for the adoption of the
+amendments to Title 20 better address the City' s Comprehensive Plan, the applicable state law, the
+Statewide Planning Goals and the City' s standardsand criteria for an amendmentto the Redmond
+Development Code as set forth in Exhibit B; and,
+WHEREAS, the Board and City Council find that the attached code amendments are necessary to
+further these interests and an emergency exists; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+AND THE CITY OF REDMOND ORDAIN as follows:
+Section 1.  AMENDMENT.  DCC Title 20 is amended to read as described in Exhibit " A,"
+attachedheretoandby thisreferenceincorporatedherein,with newlanguageunderlinedandlanguageto
+be deleted in str-iliethfeugh.
+Section 2.  FINDINGS.   The Board and City Council adopt as its findings Exhibit " B" of
+Ordinance 2016-008 and incorporated by reference herein.
+Section 3.  EMERGENCY.  This Ordinancebeing necessaryfor the immediatepreservationof
+the public peace, healthandsafety, an emergencyis declaredto exist, andthis Ordinancetakeseffect on
+its passage.
+Dated this  ' J_ of 2016 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+ALAN UNGER, Chair
+TAMMY BANEY, Vice Chair
+ATTEST:
+a
+Recording Secretary ANTHONY DeBONE, Commissioner
+Date of
+1st
+Reading:   z3 day of 2016 .
+Date of 2'  Reading: Z3 day of    ?-- d. 10, , 2016 .
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Alan Unger
+Tammy Baney r
+Anthony DeBone
+Effective date: L-3- day of      !.  ' j' u4A-     -  , 2016.v
+PAGE 2 OF 3 EXHIBIT 2- ORDINANCE NO. 2016- 008
+Effective date: v day of  /
+3-
+2. 1Q.  ,2016.
+RECOMMENDED and APPROVED by the City Council this
+23rd
+day of Febr : 44 , 2016.
+Air'       . _ L•  .   -
+orgel
+Icott, Mayor
+ATTEST:
+Kelly Mors;, City Recorder
+Effective date:
+24th
+day of February, 2016.
+PAGE 3 OF 3 EXHIBIT 2 - ORDINANCE NO. 2016- 008

@@ -1,0 +1,250 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-83-56
+title: 'Ordinance No. 83-56'
+doc_type: ordinance
+citation: 'Ordinance No. 83-56'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616611674_48-382-Ordinance%20No.%2083-56%20Recorded%208_4_1983.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: f010d6a4dee4aaa38bd152939529ee8a39ea4957afd08b01eab38e8a8c36b7d3
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 83-56 (Ordinance No. 83-56)
+
+## At a glance
+
+Ordinance No. 83-56 — orders of Deschutes County. 5 pages.
+
+## Full text
+
+vet 48 p382
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Adopting Building*
+Codes and Providing Standards,*
+Requiring Permits and Penal-
+ties, Declaring Public
+Nuisances, Providing For Fees,*
+Repealing Ordinance No.' s
+81- 016, 83- 019, and 83- 054,
+Continuing Liabilities, and
+Declaring an Emergency.
+1983
+MARYSUE PENUOLLOW, CO. CLERK
+ORDINANCE NO. 83- 056
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. A certain book or publication, a copy of which
+is on file with the Deschutes County Clerk, marked and entitled,
+Oregon State Structural Specialty Code and Fire and Life Safety
+Regulations, 1983 Edition, Uniform Building Code, hereinafter
+referred to as " Structural Code", hereby is adopted in its en-
+tirety as the structural code for unincorporated Deschutes
+County, Oregon, hereinafter referred to as " County", for regulat-
+ing and controlling the construction, reconstruction, remodeling,
+enlargement, alteration, repair, moving, removal, conversion,
+demolition, occupancy, equipment, use, height, area and mainten-
+ance of buildings or structures in unincorporated Deschutes
+County; and said structural code so adopted and on file in the
+office of the Clerk hereby is referred to and by this reference
+made a part of this Ordinance as though fully set out herein.
+Section 2. A certain book or publication, a copy of which
+is on file with the Deschutes County Clerk, marked and entitled,
+Oregon State Plumbing Specialty Code Statutes and Administrative
+Rules, 1980 Edition, Uniform Plumbing Code, 1979 Edition, herein-
+after referred to as " Plumbing Code", is hereby adopted in its
+entirety as the plumbing code for the County for regulating and
+controlling the erection, installation, alteration, addition,
+repair, relocation, replacement, maintenance or use of plumbing
+systems in unincorporated Deschutes County, and said plumbing
+code so adopted and on file in the office of the Clerk is hereby
+referred to and by this reference made a part of this Ordinance
+as though fully set out herein.
+Section 3. A certain book or publication, a copy of which
+is on, file with the Deschutes County Clerk, marked and entitled,
+Oregon State Mechanical Specialty Code and Mechanical Fire and
+Life Safety Regulations, 1983 Edition, Uniform Mechanical Code,
+1 - ORDINANCE NO. 83- 056
+hereinafter referred to as " Mechanical Code", hereby is adopted
+in its entirety as the mechanical code for unincorporated
+Deschutes County for regulating and controlling the design, con-
+struction, installation, quality of materials, location, opera-
+tion and maintenance of heating, ventilating, cooling, refrigera-
+tion systems, incinerators, and heat producing appliances, except
+boilers and pressure vessels regulated by the State of Oregon,
+Boiler and Pressure Vessel Law, in unincorporated Deschutes
+County, and said mechanical code so adopted and on file in the
+office of the Clerk hereby is referred to and by this reference
+made a part of this ordinance as though fully set out herein.
+Section 4. A certain book or publication, a copy of which
+is on file with the Deschutes County Clerk, marked and entitled,
+State of Oregon Electrical Specialty Safety Code, National Elec-
+trical Code, 1981 Edition, hereinafter referred to as " Electrical
+Code", hereby is adopted in its entirety as the electrical code
+for unincorporated Deschutes County, Oregon, for regulating and
+controlling the design, construction, installation, quality of
+materials, location, operation, erection, addition, repair, relo-
+cation, replacement, and maintenance of electrical service, wir-
+ing, equipment, special occupancies, conditions, communications
+systems, and other specified electrical applications, said Elec-
+trical Code so adopted and on file is hereby referred to by this
+reference and made a part of this ordinance as though fully set
+out herein.
+Section 5. A certain book or publication, a copy of which
+is on file with the Deschutes County Clerk, marked and entitled,
+Uniform Code for the Abatement of Dangerous Buildings, 1982
+Edition, hereinafter referred to as " Building Abatement Code",
+hereby is adopted in its entirety as the building abatement code
+for unincorporated Deschutes County, Oregon, for regulating and
+controlling the repair, vacation, demolition and abatement of
+dangerous buildings in unincorporated Deschutes County, and said
+code so adopted and on file in the office of the Clerk is hereby
+referred to and by this reference made a part of this ordinance
+as though fully set out herein.
+Section 6. A certain book or publication, a copy of which
+is on file with the Deschutes County Clerk, marked and entitled,
+Uniform Fire Code, 1982 Edition, hereinafter referred to as " Fire
+Code", hereby is adopted in its entirety as the fire code of
+unincorporated Deschutes County, Oregon, for regulating the haz-
+ards from storage, handling and use of hazardous substances,
+materials and devices, and from conditions or premises in unin-
+corporated Deschutes County; and said fire code so adopted and on
+file in the office of the Clerk hereby is referred to and by this
+reference made a part of this ordinance as though fully set out
+herein.
+Section 7. No mobile home shall be occupied within unin-
+corporated Deschutes County, Oregon, without first obtaining a
+2 - ORDINANCE NO. 83- 056
+VOL
+placement permit and satisfactory inspection of placement on the
+site, electrical connections and plumbing connections.
+Section 8. No modular or factory- built home shall be
+located in unincorporated Deschutes County, Oregon, until said
+modular or factory- built home has been certified by the State of
+Oregon as meeting all State requirements.
+Section 9. Numbers for addresses shall be placed on all new
+and existing buildings in such a position as to be plainly vis-
+ible and legible from a distance of fifty ( 50) feet. Said num-
+bers or addresses shall contrast with their background and shall
+be the official address number as assigned the property by
+Deschutes County, the City of Bend, the Redmond Fire District, or
+the City of Sisters.
+Section 10. No building permit shall be issued for the
+construction, reconstruction, remodeling, enlargement, altera-
+tion, repair or conversion of any dwelling unit containing two or
+more dwelling units, commercial or industrial structure, or
+public use structure until plans therefore, including plot plan,
+are submitted to the Planning Department and approved by it as
+conforming to the zoning ordinances of Deschutes County, Oregon.
+Section 11. No building permit or mobile home placement
+permit shall be issued if the parcel of land upon which the
+building or mobile home is to be erected or located on, or is
+located on, would be in violation of the zoning ordinances or
+subdivision ordinances of Deschutes County, Oregon. A subdi-
+vision shall be deemed to be in violation of the zoning ordin-
+ances for the purpose of issuing building permits so long as
+roads and other improvements remain uncompleted in accordance
+with the applicable subdivision ordinance.
+Section 12. whenever appropriate in applying the provisions
+of this ordinance, the following definitions apply:
+A. " Appointing Authority", shall mean the Board of County
+Commissioners of Deschutes County, Oregon.
+B. " Building Department", shall mean the office of the
+Deschutes County Building official or his designee.
+C. " Building official", shall mean the person designated
+by the Board as the Building Administrator.
+D. " County", shall mean Deschutes County, a political
+subdivision of the State of Oregon.
+E. " Fire Chief", shall mean the applicable chief of any
+rural fire protection district.
+3 - ORDINANCE NO. 83- 056
+F. " Mobile home", shall have the meaning provided in the
+Deschutes County Zoning Ordinance of 1979.
+G. " Modular or Factory- Built Home", shall mean a factory-
+built dwelling unit designed to be transported to a site and the
+construction meets the standards of the Oregon Prefabricated
+Structures Code, and is a structure for the purposes of this
+Ordinance.
+Section 13. The Building Official as defined herein shall
+administer and enforce this Ordinance, except that the provisions
+of the Fire Code shall be administered and enforced by the appli-
+cable Fire Chief.
+Section 14. The Codes, Laws and Rules adopted by this
+Ordinance as the Deschutes County Building Codes, are adopted as
+constituted on August 1, 1983, and as thereafter constituted.
+The regularly adopted amendments to the Codes, Laws and Rules by
+the State of Oregon, the State Department of Commerce, and the
+State Fire Marshall shall be effective as of the effective date
+of the change, and shall be enforceable by the County as of such
+date.
+Section 15. The fees for permits under this Ordinance shall
+be the fees prescribed by the Department of Commerce, State of
+Oregon. The County may set any permit fee at an amount lower
+than the fees adopted by the State of Oregon, or set a fee for a
+permit for which the State of Oregon has failed to set a fee by
+proper resolution.
+Section 16. The provisions of the Codes, Laws, Rules, and
+Regulations adopted by this Ordinance apply to all buildings,
+structures, and mobile homes in unincorporated Deschutes County,
+Oregon.
+Section 17. It shall be unlawful for any person, firm, or
+corporation to erect, construct, enlarge, alter, repair, move,
+improve, convert, demolish, equip, use, occupy or maintain any
+building, structure, or mobile home in unincorporated Deschutes
+County, or cause the same to be done, contrary to or in violation
+of any of the provisions of this Ordinance.
+violation of any provision of this Ordinance is a Class A
+infraction.
+Section 18. Any act or condition which is in violation of
+any of the provisions of this Ordinance, which is committed, con-
+tinued or permitted, is hereby declared to be a public nuisance,
+and the County may, in addition to any other remedies provided by
+law, institute the proceedings for the enforcement of this
+Ordinance.
+4 - ORDINANCE NO. 83- 056
+e ~
+I
+t
+YU1 4r E _30
+Section 19. The repeal of any ordinance by this ordinance
+shall not release or extinguish any penalty, forfeiture, nui-
+sance, obligation or liability incurred under such ordinance,
+unless a provision of this ordinance shall so expressly provide,
+and such ordinances repealed shall be treated as still remaining
+in force for the purpose of sustaining any proper action or pro-
+secution for the enforcement of such penalty, forfeiture, nui-
+sance, obligation, or liability.
+Section 20. Ordinance No.' s 81- 016, 83- 019, and 83- 054 are
+hereby repealed.
+Section 21. This Ordinance being necessary for the im-
+mediate preservation of public peace, health and safety, an
+emergency is declared to exist, and this Ordinance takes effect
+on its passage.
+DATED this - day of , 1983.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+ATTEST:
+Recording Secretary LAU oner
+5 - ORDINANCE NO. 83- 056

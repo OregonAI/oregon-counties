@@ -1,0 +1,807 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lane-county
+id: lane-land-use-lc16-214
+title: 'LC16.214'
+doc_type: ordinance
+citation: 'LC16.214'
+authority_level: county_ordinance
+issuing_body: 'Lane County Board of Commissioners'
+source_url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.214.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: c9631f0e91c7d5fa158ceb6726ccb219fa9805f9b43446bfcc0f873b20c5cdc8
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 195.300
+    - ORS 197.247
+    - ORS 197.732
+    - ORS 215.276
+    - ORS 215.317
+    - ORS 215.327
+    - ORS 30.936
+    - ORS 433.735
+    - ORS 433.750
+    - ORS 433.755
+    - ORS 433.763
+    - ORS 459.245
+    - ORS 469.300
+    - ORS 469.504
+    - ORS 517.750
+    - ORS 520.005
+    - ORS 522.005
+    - ORS 671.318
+    - ORS 671.520
+    - OAR 660-011-0060
+  related: []
+  supersedes: []
+tags: [lane-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lane County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# LC16.214 (LC16.214)
+
+## At a glance
+
+LC16 — land use of Lane County. 19 pages.
+
+## Full text
+
+May 2026 16-215 LC 16.213_216
+MARGINAL LANDS ZONE (ML-RCP)
+RURAL COMPREHENSIVE PLAN
+ML Zone Table of Contents
+(1) Purpose 215
+(2) Use Table 215
+(3) Use Standards 222
+(4) Conditional Use Review Criteria 230
+(5) Commercial Facilities for Generating Power 231
+(6) Land Divisions 231
+(7) Development Standards 232
+(8) Telecommunication Facilities. 233
+
+16.214 Marginal Lands Zone (ML-RCP)
+(1) Purpose
+The purpose of the Marginal Lands Zone (ML) is to provide an alternative to more restrictive
+farm and forest zoning; provide opportunities for persons to live in a rural environment and to
+conduct farm or forest operations. The ML Zone is applied to specific properties consistent with
+the requirements of ORS 197.247 (1991 Edition), ORS 215.317, ORS 215.327 (2017 Edition),
+and the policies of the Lane County Rural Comprehensive Plan.
+(2) Use Table
+Table of Permitted Uses
+Table 16.214-1 sets forth the uses allowed subject to Type I, II, or III approval procedures in the
+marginal lands districts. This table applies to all new uses, expansions of existing uses, and
+changes of use when the expanded or changed use would require a Type I, II, or, III review,
+unless otherwise specified on Table 16.214-1. All uses and their accessory buildings are subject
+to the general provisions, special conditions, additional restrictions and exceptions set forth in
+LC 16.214.
+As used in Table 16.214-1:
+(a) Uses:
+May 2026 16-216 LC 16.213_216
+(i) “A” means the use is outright allowed or permitted subject to standards.
+(ii) “C” means the use is a Conditional Use, subject to Section (4).
+(b)   Procedures:
+(i) “P” means the use is permitted outright; uses and activities and their
+accessory buildings and uses are permitted subject to the general
+provisions set forth by this chapter of Lane Code.
+(ii) “AL” means Assembly License, subject to LC 3.995.
+(iii) Type I uses and activities are permitted subject to the general provisions
+and exceptions set forth by this chapter of Lane Code.
+(iv) Type II uses may be allowed provided a land use application is submitted
+and approved by the Director pursuant to LC Chapter 14.
+(v) Type III uses may be allowed provided a land use application is submitted
+and approved by the Hearings Official pursuant to LC Chapter 14.
+(c) The “Subject To” column identifies any specific provisions of LC 16.214 to which
+the use is subject. All uses and development are subject to the development
+standard provisions of LC 16.214(7)
+
+May 2026 16-217 LC 16.213_216
+
+Table 16.214-1: Use Table for ML Zones
+I = Type I   II = Type II    III = Type III
+P = Permitted Outright   AL = Assembly License
+ Use Use
+Type
+Local
+Procedure
+Type
+Subject to
+1. Farm, Forest, and Natural Resource Uses
+1.1. Intensive farm or forest operations, including but not
+limited to “farm use” as defined in LC 16.090
+A P
+1.2. Propagation or harvesting of a forest product A P
+1.3. Part-time farms A P
+1.4. Woodlots A P
+1.5. Nonresidential buildings customarily provided in
+conjunction with farm use
+A I
+1.6. A facility for the processing of farm crops or the
+production of biofuel as defined in LC 16.090 or a farm
+used for an establishment for the slaughter, processing
+or selling of less than 1,000 poultry or poultry products
+within a calendar year
+C II (3)(b), (4)
+1.7. A facility for the primary processing of forest products C II (3)(c), (4)
+1.8. Marijuana production A I LC 16.420
+1.9. Marijuana wholesale distribution A I LC 16.420
+1.10. Marijuana research A I LC 16.420
+2. Residential Uses
+2.1. Dwelling on a vacant lot or parcel created before July 1,
+1983
+A P (3)(a),
+(3)(n)
+2.2. Dwelling on a vacant lot or parcel created pursuant to LC
+16.2140
+A P (3)(n)
+2.3. Temporary hardship dwelling A P (3)(n),
+(3)(o)
+3. Commercial Uses
+May 2026 16-218 LC 16.213_216
+Table 16.214-1: Use Table for ML Zones
+I = Type I   II = Type II    III = Type III
+P = Permitted Outright   AL = Assembly License
+ Use Use
+Type
+Local
+Procedure
+Type
+Subject to
+3.1. Home occupation C II (3)(d), (4)
+3.2. A landscape contracting business, as defined in ORS
+671.520, or a business providing landscape architecture
+services, as described in ORS 671.318, if the business is
+pursued in conjunction with the growing and marketing of
+nursery stock on the land that constitutes farm use
+
+C II (4),
+LC
+16.212(5)
+3.3. Commercial activities in conjunction with farm use,
+including the processing of farm crops into biofuel as
+defined in LC 16.090 and not permitted as a farm use
+under Use 1.1, but excluding activities in conjunction with
+a marijuana crop
+
+C II (4)
+3.4. Marijuana processing C II LC 16.420,
+(3)(b), (4)
+4. Mineral, Aggregate, Oil and Gas Uses
+4.1. Operations for the exploration of geothermal resources
+as defined by ORS 522.005
+A P
+4.2. Operations for the exploration for minerals as defined by
+ORS 517.750
+A P
+4.3. Operations conducted for mining and processing of
+geothermal resources as defined by ORS 522.005 and
+oil and gas as defined by ORS 520.005 not otherwise
+permitted
+
+C III (4)
+4.4. Operations for mining, crushing, or stockpiling of
+aggregate and other mineral and other subsurface
+resources
+
+C III (3)(f), (4)
+4.5. Processing as defined by ORS 517.750 of aggregate into
+asphalt or Portland cement
+C III (3)(e), (4)
+4.6. Processing of other mineral resources and other
+subsurface resources
+C III (4)
+5. Transportation Uses
+May 2026 16-219 LC 16.213_216
+Table 16.214-1: Use Table for ML Zones
+I = Type I   II = Type II    III = Type III
+P = Permitted Outright   AL = Assembly License
+ Use Use
+Type
+Local
+Procedure
+Type
+Subject to
+5.1. Climbing and passing lanes within the right of way
+existing as of July 1, 1987
+A P
+5.2. Reconstruction or modification of public roads and
+highways, including the placement of utility facilities
+overhead and in the subsurface of public roads and
+highways along the public right of way, but not including
+the addition of travel lanes, where no removal or
+displacement of buildings would occur, or no new land
+parcels result
+
+A P
+5.3. Temporary public road and highway detours that will be
+abandoned and restored to original condition or use at
+such time as no longer needed
+
+A P
+5.4. Minor betterment of existing public road and highway
+related facilities such as maintenance yards, weigh
+stations and rest areas, within right of way existing as of
+July 1, 1987, and contiguous public-owned property
+utilized to support the operation and maintenance of
+public roads and highways
+
+A P
+5.5. Operations, maintenance, and repair as defined in LC
+15.010 of existing transportation facilities, services, and
+improvements, including road, bicycle, pedestrian, port,
+airport and rail facilities, and major regional pipelines and
+terminals
+
+A P
+5.6. Preservation as defined in LC 15.010, and rehabilitation
+activities and projects as defined in LC 15.101 for
+existing transportation facilities, services, and
+improvements, including road bicycle, pedestrian, port,
+airport and rail facilities, and major regional pipelines and
+terminals
+
+A P
+5.7. Changes in the frequency of transit, rail and airport
+services
+A P
+5.8. Construction of additional passing and travel lanes
+requiring the acquisition of right of way but not resulting
+in the creation of new land parcels
+
+A P
+5.9. Reconstruction or modification of public roads and
+highways involving the removal or displacement of
+buildings but not resulting in the creation of new land
+parcels
+
+A P
+May 2026 16-220 LC 16.213_216
+Table 16.214-1: Use Table for ML Zones
+I = Type I   II = Type II    III = Type III
+P = Permitted Outright   AL = Assembly License
+ Use Use
+Type
+Local
+Procedure
+Type
+Subject to
+5.10. Improvement of public road and highway related
+facilities, such as maintenance yards, weigh stations and
+rest areas, where additional property or right of way is
+required but not resulting in the creation of new land
+parcels
+
+C II (4)
+5.11. Bikeways, footpaths, and recreation trails not otherwise
+allowed as a modification or part of an existing road
+
+C II  (4)
+5.12. Park and ride lots C II (4)
+5.13. Railroad mainlines and branch lines C II (4)
+5.14. Pipelines C II (4)
+5.15. Navigation channels C II (4)
+5.16. Realignment as defined in LC 15.010 not otherwise
+permitted pursuant to this chapter
+C II (3)(g), (4)
+5.17. Replacement of an intersection with an interchange C II (3)(g), (4)
+5.18. Continuous median turn lanes C II (3)(g), (4)
+5.19. New roads as defined in LC 15.010 that are County
+Roads functionally classified as Local Roads or
+Collectors, or are Public Roads or Local Access Roads
+as defined in LC 15.010(35) in areas where the function
+of the road is to reduce local access to or local traffic on
+a state highway
+
+C II (3)(g), (4)
+5.20. Transportation facilities, services, and improvements
+other than those listed in LC 16.211 that serve local
+travel needs
+
+C II (3)(g), (4)
+5.21. Personal-use airports for airplanes and helicopter pads,
+including associated hangar, maintenance and service
+facilities
+
+A I (3)(h)
+6. Utility/Solid Waste Disposal Facilities
+May 2026 16-221 LC 16.213_216
+Table 16.214-1: Use Table for ML Zones
+I = Type I   II = Type II    III = Type III
+P = Permitted Outright   AL = Assembly License
+ Use Use
+Type
+Local
+Procedure
+Type
+Subject to
+6.1. Utility facilities necessary for public service, including
+associated transmission lines as defined in ORS 469.300
+and wetland waste treatment systems but not including
+commercial facilities for the purpose of generating
+electrical power for public use by sale or transmission
+towers over 200 feet in height
+
+A I (3)(i)
+6.2. Commercial utility facilities for the purpose of generating
+power for public use by sale, not including wind power
+generation facilities or photovoltaic solar power
+generation facilities
+
+C II (5), (4)
+6.3. A site for the disposal of solid waste for which a permit
+has been granted under ORS 459.245 by the
+Department of Environmental Quality together with
+equipment, facilities or buildings necessary for its
+operation
+
+C II (4)
+6.4. Changeout to an existing telecommunication tower A I (8)
+6.5. Collocation to an existing telecommunication tower:
+Spectrum Act exemption eligible
+A I FCC 14-
+153
+6.6. Collocation to an existing telecommunication tower A II (8)
+6.7. New telecommunications tower or replacement tower C III (4), (8)
+7. Parks/Public/Quasi-public Uses
+7.1. Community centers owned by a governmental agency or
+a nonprofit organization and operated primarily by and
+for residents of the local rural community
+
+A P
+7.2. Public parks, public playgrounds, and public
+campgrounds
+A I
+7.3. Churches  A P
+7.4. Public or private schools, including all buildings essential
+to the operation of a school
+C II (3)(j)
+7.5. Private parks, private playgrounds A P
+
+May 2026 16-222 LC 16.213_216
+Table 16.214-1: Use Table for ML Zones
+I = Type I   II = Type II    III = Type III
+P = Permitted Outright   AL = Assembly License
+ Use Use
+Type
+Local
+Procedure
+Type
+Subject to
+7.6. Private campground C II (3)(k),
+(3)(q), (4)
+7.7. Golf courses  C II (3)(l),
+(3)(q), (4)
+8. Outdoor Gatherings
+8.1. An outdoor gathering of fewer than 3,000 persons that is
+not anticipated to continue for more than 120 hours in
+any three-month period
+A P or AL (if
+over 1,000
+persons)
+LC 3.995
+8.2. An outdoor mass gathering of more than 3,000 persons,
+that is not anticipated to continue for more than 120
+hours in any three-month period, and which is held
+primarily in open spaces and not in any permanent
+structure as provided in ORS 433.735-760
+
+A III ORS
+433.735-
+760
+8.3. Any outdoor gathering of more than 3,000 persons that is
+anticipated to continue for more than 120 hours in any
+three-month period is subject to review by the Planning
+Commission under ORS 433.763, notwithstanding Type
+III Hearings Official review
+
+C III (LCPC) (3)(m)
+9. Accessory Uses
+9.1. Uses and buildings accessory to existing uses and
+development permitted by LC 16.214.
+
+A P
+
+(3) Use Standards
+(a) A dwelling or mobile home on a vacant legal lot created before July 1, 1983. If
+the legal lot is located within the Willamette Greenway, a flood plain area or a
+geological hazard area, approval of the mobile home or dwelling is subject to the
+provisions of Lane Code relating to the Willamette Greenway, floodplain or
+geological hazards, whichever is applicable.
+(b) A farm processing facility or an establishment for the slaughter, processing, or
+selling of less than 1,000 poultry or poultry products within a calendar year must
+comply with all of the following requirements:
+May 2026 16-223 LC 16.213_216
+(i) The farm on which the facility or establishment is located must provide at
+least one-quarter of the farm crops processed at the facility.
+(ii) If a building is established or used for the processing facility or
+establishment, the farm operator may not devote more than 10,000
+square feet of floor area to the processing facility or establishment,
+exclusive of the floor area designated for preparation, storage or other
+farm use.
+(iii) A processing facility or establishment must comply with all applicable
+siting standards but the standards may not be applied in a manner that
+prohibits the siting of the processing facility or establishment.
+(iv) A county may not approve any division of a lot or parcel or a property line
+adjustment that separates a processing facility or establishment from the
+farm operation on which it is located.
+(c) A facility for the primary processing of forest products shall not seriously interfere
+with accepted farming practices and shall be compatible with farm uses
+described in LC 16.090. Such facility may be approved for a one-year period that
+is renewable and is intended to be only portable or temporary in nature. The
+primary processing of a forest product, as used in this Section, means the use of
+a portable chipper or stud mill or other similar methods of initial treatment of a
+forest product in order to enable its shipment to market. Forest products as used
+in this Section means timber grown upon a tract where the primary processing
+facility is located.
+(d) Home occupation must:
+(i) Be operated by a resident or employee of a resident of the property on
+which the business is located;
+(ii) Employ on the site no more than five full-time or part-time persons at any
+given time;
+(iii) Be operated substantially in the dwelling orother buildings normally
+associated with uses permitted in the ML Zone;
+(iv) Not unreasonably interfere with other uses permitted in the zone in which
+the property is located;
+(v) Comply with sanitation and building code requirements prior to start of
+Home Occupations; and
+(vi) Not be used as justification for a zone change.
+May 2026 16-224 LC 16.213_216
+ (e) New facilities that batch and blend mineral and aggregate into asphalt cement
+may not be authorized within two miles of a planted vineyard. Planted vineyard
+means one or more vineyards totaling 40 acres or more that are planted as of the
+date the application for batching and blending is filed.
+(f) Mining, crushing or stockpiling of aggregate and other mineral and subsurface
+resources are subject to the following:
+(i) A land use permit is required for mining more than 1,000 cubic yards of
+martial or excavation preparatory to mining of a surface area of more than
+one acre.
+(ii) A land use permit for mining of aggregate shall be issued only for a site
+included on the mineral and aggregate inventory in the County’s adopted
+inventory in the Rural Comprehensive Plan.
+(g) Transportation facilities and uses shall comply with the following:
+(i) Identify reasonable build design alternatives, such as alternative
+alignments, that are safe and can be constructed at a reasonable cost,
+not considering raw land costs, with available technology. The jurisdiction
+need not consider alternatives that are inconsistent with applicable
+standards or not approved by a registered professional engineer;
+(ii) Assess the effects of the identified alternatives on farm and forest
+practices, considering impacts to farm and forest lands, structures and
+facilities, considering the effects of traffic on the movement of farm and
+forest vehicles and equipment and considering the effects of access to
+parcels created on farm and forest lands; and
+(iii) Select from the identified alternatives, the one, or combination of
+identified alternatives that has the least impact on lands in the immediate
+vicinity devoted to farm or forest use.
+(h) A personal-use airport as used in this section means an airstrip restricted, except
+for aircraft emergencies, to use by the owner, and, on an infrequent and
+occasional basis, by invited guests, and by commercial aviation activities in
+connection with agricultural operations. No aircraft may be based on a personal-
+use airport other than those owned or controlled by the owner of the airstrip.
+Exceptions to the activities permitted under this definition may be granted
+through waiver action by the Aeronautics Division in specific instances. A
+personal-use airport lawfully existing as of September 13, 1975, shall continue to
+be permitted subject to any applicable regulations of the Aeronautics Division.
+(i) A utility facility that is necessary for public service.
+(i) A utility facility is necessary for public service if the facility must be sited in
+the marginal lands zone in order to provide the service.
+May 2026 16-225 LC 16.213_216
+(aa) To demonstrate that a utility facility is necessary, an applicant
+must show that reasonable alternatives have been considered and
+that the facility must be sited in an marginal lands zone due to one
+or more of the following factors:
+(i) Technical and engineering feasibility;
+(ii) The proposed facility is locationally-dependent. A utility
+facility is locationally-dependent if it must cross land in one
+or more areas zoned for marginal land in order to achieve
+a reasonably direct route or to meet unique geographical
+needs that cannot be satisfied on other lands;
+(iii) Lack of available urban and nonresource lands;
+(iv) Availability of existing rights of way;
+(v) Public health and safety; and
+(vi) Other requirements of state and federal agencies.
+(bb) Costs associated with any of the factors listed in Subsection (aa)
+of this subsection may be considered, but cost alone may not be
+the only consideration in determining that a utility facility is
+necessary for public service. Land costs shall not be included
+when considering alternative locations for substantially similar
+utility facilities and the siting of utility facilities that are not
+substantially similar.
+(cc) The owner of a utility facility approved under Subsection (i) shall
+be responsible for restoring, as nearly as possible, to its former
+condition any agricultural land and associated improvements that
+are damaged or otherwise disturbed by the siting, maintenance,
+repair or reconstruction of the facility. Nothing in this Subsection
+shall prevent the owner of the utility facility from requiring a bond
+or other security from a contractor or otherwise imposing on a
+contractor the responsibility for restoration.
+(dd) The county shall impose clear and objective conditions on an
+application for utility facility siting to mitigate and minimize the
+impacts of the proposed facility, if any, on surrounding lands
+devoted to farm use in order to prevent a significant change in
+accepted farm practices or a significant increase in the cost of
+farm practices on surrounding farmlands.
+May 2026 16-226 LC 16.213_216
+(ee) Utility facilities necessary for public service may include on-site
+and off-site facilities for temporary workforce housing for workers
+constructing a utility facility. Such facilities must be removed or
+converted to an allowed use under the ML Zone or other statute or
+rule when project construction is complete. Off-site facilities
+allowed under this Subsection are subject to Section (4)
+Conditional Use Review Criteria. Temporary workforce housing
+facilities not included in the initial approval may be considered
+through a minor amendment request. A minor amendment request
+shall have no effect on the original approval.
+(ff) In addition to the provisions of Subsection (3)(i)(i)(aa) through
+(dd), the establishment or extension of a sewer system as defined
+by OAR 660-011-0060(1)(f) shall be subject to the provisions of
+660-011-0060.
+(gg) In addition to the requirements in LC 16.214(3)(i)(i)(aa) through (ff)
+above, a utility facility that is a telecommunication facility shall
+comply with LC 16.264;
+(hh) In addition to the requirements in LC 16.214(3)(i)(i)(aa) through
+(gg) above, a utility facility that is a transmission line, as defined
+by ORS 215.276(1)(b), to be located on high value farmland shall
+comply with the requirements of ORS 215.276; and
+(ii) The provisions of Subsection (i) do not apply to interstate natural
+gas pipelines and associated facilities authorized by and subject
+to regulation by the Federal Energy Regulatory Commission.
+(ii) An associated transmission line is necessary for public service upon
+demonstration that the associated transmission line meets either the
+following requirements of Subsection (aa) or Subsection (bb) of this
+Subsection.
+(aa) An applicant demonstrates that the entire route of the associated
+transmission line meets at least one of the following requirements:
+(i) The associated transmission line is not located on high-
+value farmland, as defined in ORS 195.300, or on arable
+land;
+(ii) The associated transmission line is co-located with an
+existing transmission line;
+May 2026 16-227 LC 16.213_216
+(iii) The associated transmission line parallels an existing
+transmission line corridor with the minimum separation
+necessary for safety; or
+(iv) The associated transmission line is located within an
+existing right of way for a linear facility, such as a
+transmission line, road or railroad,that is located above the
+surface of the ground.
+(bb) After an evaluation of reasonable alternatives, an applicant
+demonstrates that the entire route of the associated transmission
+line meets, subject to Subsections (3)(i)(ii)(cc) and (dd), two or
+more of the following criteria:
+(i) Technical and engineering feasibility;
+(ii) The associated transmission line is locationally-dependent
+because the associated transmission line must cross high-
+value farmland, as defined in ORS 195.300, or arable land
+to achieve a reasonably direct route or to meet unique
+geographical needs that cannot be satisfied on other
+lands;
+(iii) Lack of an available existing right of way for a linear
+facility, such as a transmission line, road or railroad, that is
+located above the surface of the ground;
+(iv) Public health and safety; or
+(v) Other requirements of state or federal agencies.
+(cc) As pertains to Subsection (bb), the applicant shall demonstrate
+how the applicant will mitigate and minimize the impacts, if any, of
+the associated transmission line on surrounding lands devoted to
+farm use in order to prevent a significant change in accepted farm
+practices or a significant increase in the cost of farm practices on
+the surrounding farmland.
+(dd) The county may consider costs associated with any of the factors
+listed in section (3)(i)(ii)(bb) above, but consideration of cost may
+not be the only consideration in determining whether the
+associated transmission line is necessary for public service.
+(j) Schools are subject to the following:
+May 2026 16-228 LC 16.213_216
+(i) Are used primarily for residents of the rural area in which the school is
+located.
+(k) Private Campgrounds are subject to the following:
+(i) Except on a lot or parcel contiguous to a lake or reservoir, private
+campgrounds shall not be allowed within three miles of an urban growth
+boundary unless an exception is approved pursuant to ORS 197.732 and
+OAR chapter 660, division 4. A campground shall be designed and
+integrated into the rural agricultural and forest environment in a manner
+that protects the natural amenities of the site and provides buffers of
+existing native trees and vegetation or other natural features between
+campsites. Campgrounds shall not include intensively developed
+recreational uses such as swimming pools, tennis courts, retail stores or
+gas stations. Overnight temporary use in the same campground by a
+camper or camper's vehicle shall not exceed a total of 30 days during any
+consecutive six-month period.
+(ii) Campsites may be occupied by a tent, travel trailer, yurt or recreational
+vehicle. Separate sewer, water or electric service hook-ups shall not be
+provided to individual camp sites except that electrical service may be
+provided to yurts allowed by Subsection (iii).
+(iii) A private campground may provide yurts for overnight camping. No more
+than one-third or a maximum of 10 campsites, whichever is smaller, may
+include a yurt. The yurt shall be located on the ground or on a wood floor
+with no permanent foundation.
+(l) Accessory uses provided as part of a golf course shall be limited consistent with
+the following standards:
+(i) An accessory use to a golf course is a facility or improvement that is
+incidental to the operation of the golf course and is either necessary for
+the operation and maintenance of the golf course or that provides goods
+or services customarily provided to golfers at a golf course. An accessory
+use or activity does not serve the needs of the non-golfing public.
+Accessory uses to a golf course may include: Parking; maintenance
+buildings; cart storage and repair; practice range or driving range;
+clubhouse; restrooms; lockers and showers; food and beverage service;
+pro shop; a practice or beginners course as part of an 18 hole or larger
+golf course; or golf tournament. Accessory uses to a golf course do not
+include: Sporting facilities unrelated to golfing such as tennis courts,
+swimming pools, and weight rooms; wholesale or retail operations
+oriented to the non-golfing public; or housing;
+May 2026 16-229 LC 16.213_216
+(ii) Accessory uses shall be limited in size and orientation on the site to serve
+the needs of persons and their guests who patronize the golf course to
+golf. An accessory use that provides commercial services (e.g., pro shop,
+etc.) shall be located in the clubhouse rather than in separate buildings;
+and
+(iii) Accessory uses may include one or more food and beverage service
+facilities in addition to food and beverage service facilities located in a
+clubhouse. Food and beverage service facilities must be part of and
+incidental to the operation of the golf course and must be limited in size
+and orientation on the site to serve only the needs of persons who
+patronize the golf course and their guests. Accessory food and beverage
+service facilities shall not be designed for or include structures for
+banquets, public gatherings or public entertainment.
+(m) Any outdoor gathering of more than 3,000 people for more than 120 hours within
+any three-month period must comply with the following requirements:
+(i) The applicant has complied or can comply with the requirements for an
+outdoor mass gathering permit set out in ORS 433.750;
+(ii) The proposed gathering is compatible with existing land uses;
+(iii) The proposed gathering shall not materially alter the stability of the overall
+land use pattern of the area; and
+(iv) The provisions of ORS 433.755 shall apply to the proposed gathering.
+(n) Single-family dwelling deeds. The landowner shall sign and record in the deed
+records for the county a document binding the landowner, and the landowner's
+successors in interest, prohibiting them from pursuing a claim for relief or cause
+of action alleging injury from farming or forest practices for which no action or
+claim is allowed under ORS 30.936 or 30.937.
+(o) A temporary hardship dwelling is subject to the following:
+(i) One manufactured dwelling, recreational vehicle, or the temporary
+residential use of an existing building may be allowed in conjunction with
+an existing dwelling as a temporary use for the term of the hardship
+suffered by the existing resident or relative, subject to the following:
+(aa) The hardship dwelling must use the same subsurface sewage
+disposal system used by the existing dwelling, if that disposal
+system is adequate to accommodate the additional dwelling. If the
+hardship dwelling will use a public sanitary sewer system, such
+condition will not be required;
+May 2026 16-230 LC 16.213_216
+(bb) Approval of a temporary hardship dwelling is valid until December
+31st of the year following the year the original permit approval. The
+county shall review the permit authorizing such hardship dwelling
+every two years; and
+(cc) Within three months of the end of the hardship, the manufactured
+dwelling or recreational vehicle shall be removed or demolished.
+In the case of an existing building, the building must be removed,
+demolished, or returned to an allowed nonresidential use.
+(ii) As used in this Section “hardship” means a medical hardship or hardship
+for the care of an aged or infirm person or persons.
+(p) Three-mile setback. For uses subject to this Section:
+(i) No enclosed structure with a design capacity greater than 100 people, or
+group of structures with a total design capacity of greater than 100
+people, shall be approved in connection with the use within three miles of
+an urban growth boundary, unless an exception is approved pursuant to
+ORS 197.732 and OAR chapter 660, division 4, or unless the structure is
+described in a master plan adopted under the provisions of OAR chapter
+660, division 34.
+(ii) Any enclosed structures or group of enclosed structures described in
+Subsection (i) within a tract must be separated by at least one-half mile.
+For purposes of this section, “tract” means a tract that is in existence as
+of June 17, 2010.
+(iii) Existing facilities wholly within the marginal lands zone may be
+maintained, enhanced or expanded on the same tract, subject to other
+requirements of law, but enclosed existing structure within the marginal
+lands zone may not be expanded beyond the requirements of (3)(q).
+ (4) Conditional Use Review Criteria
+An applicant for a Conditional Use permitted in Table 16.214-1 of this Chapter must
+demonstrate compliance with the following criteria.
+(a) Will be compatible with and will not adversely affect the livability or appropriate
+development of abutting properties and the surrounding vicinity, and
+May 2026 16-231 LC 16.213_216
+(b) Will not be adversely affected by the development of abutting properties and the
+surrounding vicinity. (Consideration may be given to harmony in scale, bulk,
+coverage and density; to the availability of public facilities and utilities; to the
+harmful effect, if any, upon desirable neighbhorhood character; to the generation
+of traffic and the capacity of surrounding streets and roads; and to any other
+relevant impact of the use.)
+(c) Will not be adversely affected by known natural hazards, such as floods, slides,
+erosion.
+(d) Will not create a hazardour natural condition such as erosion, landside, flooding.
+(5) Commercial Facilities for Generating Power
+(a) Permanent features of a power generation facility shall not preclude more than:
+(i) 12 acres from use as a commercial agricultural enterprise on high value
+farmland unless an exception is taken pursuant to ORS 197.732 and
+OAR chapter 660, division 4; or
+(ii) 20 acres from use as a commercial agricultural enterprise on land other
+than high-value farmland unless an exception is taken pursuant to ORS
+197.732 and OAR chapter 660, division 4.
+(b) A power generation facility may include on-site and off-site facilities for temporary
+workforce housing for workers constructing a power generation facility. Such
+facilities must be removed or converted to an allowed use under OAR 660-033-
+0130(19) or other statute or rule when project construction is complete.
+Temporary workforce housing facilities not included in the initial approval may be
+considered through a minor amendment request. A minor amendment request
+shall be subject to 660-033-0130(5) and shall have no effect on the original
+approval.
+(c) Permitting. A commercial power generating facility is not subject to the
+requirements for a special use permit and the associated review procedure
+where the facility is compliant with ORS 469.504.
+(6) Land Divisions
+Land in a Marginal Land zone may be divided as follows:
+(a) Into lots or parcels containing at least 10 acres if the lots or parcels are not
+adjacent to land zoned Exclusive Farm Use (E), Nonimpacted Forest Land (F- 1),
+Impacted Forest Land (F-2), or if it is adjacent to such land, the land qualifies for
+designation as marginal land pursuant to ORS Chapter 197 (1991 Edition).
+May 2026 16-232 LC 16.213_216
+(b) Into lots or parcels containing 20 acres or more if the lots or parcels are adjacent
+to land zoned Exclusive Farm Use (E), Nonimpacted Forest Land (F-1) or
+Impacted Forest Land (F-2), and that land does not qualify as marginal land
+pursuant to ORS Chapter 197 (1991 Edition)..
+(c) A parcel of any size necessary to accommodate any of the nonresidential uses
+listed below:
+(i) Use 6.1. Utility facilities necessary for public service, including associated
+transmission lines as defined in ORS 469.300 and wetland waste
+treatment systems but not including commercial facilities for the purpose
+of generating electrical power for public use by sale or transmission
+towers over 200 feet in height.
+(ii) Use 6.2. Commercial utility facilities for the purpose of generating power
+for public use by sale, not including wind power generation facilities or
+photovoltaic solar power generation facilities.
+(iii) Use 6.3. A site for the disposal of solid waste for which a permit has been
+granted under ORS 459.245 by the Department of Environmental Quality
+together with equipment, facilities or buildings necessary for its operation
+not on high value farmland.
+(iv) Use 7.1. Community centers owned by a governmental agency or a
+nonprofit organization and operated primarily by and for residents of the
+local rural community.
+(v) Use 7.3. Churches and cemeteries in conjunction with churches.
+(vi) Use 7.4. Public or private schools for kindergarten through grade 12,
+including all buildings essiential to the operation of a school.
+(vii) Use 7.5. Private parks, playgrounds, and campgrounds.
+(7) Development Standards
+All uses or activities permitted or conditionally permitted in this Chapter shall be subject to the
+following development standards.
+(a) Property Line Setbacks.  No structure other than a fence or sign shall be located
+closer than:
+(i) 20 feet from the right-of-way of a State road, County road or a local
+access public road specified in LC Chapter 15; and
+(ii) 10 feet from all other property lines except as provided below.
+May 2026 16-233 LC 16.213_216
+(b) Riparian Setback Area. A riparian setback area applies to the area between a
+line that is 100 feet from and parallel to the ordinary high water of a Class I
+stream designated in the Rural Comprehensive Plan. No structure other than a
+fence may be located closer than 100 feet from the ordinary high water of a
+Class I stream unless an application for alternative standards in accordance with
+LC 16.253(6). Vegetation maintenance, removal, and replacement standards and
+exceptions to these setbacks are found in LC 16.253.
+(c) Signs.
+(i) Signs cannot extend over a public right-of-way or project beyond the
+property line.
+(ii) Signs cannot be illuminated, flashing, blinking, contain scrolling images,
+or capable of movement.
+(iii) Signs are limited to 200 square feet in area.
+(d) Parking. Off street parking shall be provided in accordance with LC 16.250.
+(8) Telecommunication Facilities.
+Telecommunication facilities are allowed subject to compliance with the requirements of LC
+16.264 and with applicable requirements elsewhere in LC Chapter 16. (Revised by Ordinance: 20-06,
+Effective: 6.16.20; 25-07; 5.5.2026)
+
+This space intentionally left blank.
+
+PAGES 16-93 THROUGH 16-100
+ARE RESERVED FOR FUTURE EXPANSION

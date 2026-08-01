@@ -1,0 +1,970 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lane-county
+id: lane-land-use-lc10-145-165
+title: 'LC10.145 165'
+doc_type: ordinance
+citation: 'LC10.145 165'
+authority_level: county_ordinance
+issuing_body: 'Lane County Board of Commissioners'
+source_url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.145_165.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 05be6cdb58184649b2f25a959735e56196bda912cedd412ffa8c6146a9d13cd4
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.660
+    - ORS 197.667
+  related: []
+  supersedes: []
+tags: [lane-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lane County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# LC10.145 165 (LC10.145 165)
+
+## At a glance
+
+LC10.145 165 — land use of Lane County. 19 pages.
+
+## Full text
+
+Lane Code
+CHAPTER 10 CONTENTS
+
+June 2004 10-i
+GARDEN APARTMENT RESIDENTIAL DISTRICT (RG)
+10.145-10 Permitted Buildings and Uses.
+10.145-15 Conditional Uses.
+10.145-21 Height.
+10.145-23 Setback Requirements.
+10.145-25 Density.
+10.145-26 Lot Coverage.
+10.145-28 Vision Clearance.
+10.145-35 Off-Street Parking.
+10.145-36 Signs.
+10.145-37 Fences and Walls.
+10.145-38 Dedication and Improvement of Easements.
+10.145-40 Lot Dimensions.
+RESIDENTIAL - PROFESSIONAL DISTRICT (RP)
+10.150-10 Permitted Buildings and Uses.
+10.150-15 Conditional Uses.
+10.150-21 Height. (Also see LC 10.300-10.)
+10.150-23 Setback Requirements.
+10.150-25 Density.
+10.150-26 Lot Coverage.
+10.150-28 Vision Clearance.
+10.150-35 Off-Street Parking.
+10.150-36 Signs.
+10.150-37 Fences and Walls.
+10.150-38 Dedication and Improvement of Easements.
+10.150-40 Lot Dimensions.
+10.150-51 Display and Storage.
+RURAL COMMERCIAL DISTRICT (CA)
+10.154-05 Purpose.
+10.154-10 Permitted Buildings and Uses.
+10.154-15 Conditional Uses.
+10.154-21 Height.
+10.154-23 Setback Requirements.
+10.154-28 Vision Clearance.
+10.154-35 Parking.
+10.154-95 Telecommunication Towers.
+LIMITED COMMERCIAL DISTRICT (C-1)
+10.155-10 Permitted Buildings and Uses.
+10.155-15 Conditional Uses.
+10.155-21 Height.
+10.155-23 Setback Requirements.
+10.155-26  Lot Coverage.
+10.155-28 Vision Clearance.
+10.155-35 Off-Street Parking.
+10.155-36 Signs.
+10.155-40 Area.
+NEIGHBORHOOD COMMERCIAL DISTRICT (C-2)
+10.160-10 Permitted Buildings and Uses.
+10.160-15 Conditional Uses.
+10.160-23 Setback Requirements.
+10.160-26 Lot Coverage.
+ Lane Code
+CHAPTER 10 CONTENTS
+
+June 2004 10-ii
+10.160-28 Vision Clearance.
+10.160-35 Off-Street Parking.
+COMMERCIAL DISTRICT (C-3)
+10.165-10 Permitted Buildings and Uses.
+10.165-15 Conditional Uses.
+10.165-23 Setback Requirements.
+10.165-26 Lot Coverage.
+10.165-28 Vision Clearance.
+10.165-35 Off-Street Parking.
+10.145-10 Lane Code 10.145-15
+ 10-426 LC10.145_165
+GARDEN APARTMENT RESIDENTIAL DISTRICT (RG)
+
+10.145-10 Permitted Buildings and Uses.
+In the RG District, the following types of buildings and uses are permitted as hereinafter
+specifically provided for by this section, subj ect to the general provisions and exceptions
+set forth in this chapter:
+ (1) Single-family dwelling.
+ (2) Two-family dwelling (duplex).
+ (3) Multiple dwelling.
+ (4) Court apartment, boarding house.
+ (5) Townhouse.
+ (6) Church.
+ (7) Schools, public and private (elementary, junior high, senior high).
+ (8) Public building or structure essential to the physical and economic welfare
+of the area in which located, such as a fire station, library, substation, pump station,
+reservoir; provided that each interior side and rear yard shall be a minimum of 25 feet in
+width.  No stockpiling or storage of equipment or materials shall be allowed.
+ (9) Accessory buildings and structures.
+ (10) Private parking area.
+ (11) Private parking garage.
+ (12) Home occupations.  (See LC 10.340 for provisions.)
+ (13) Family day care facility in a permitted residence.
+ (14) Residential Home.
+ (15) Residential Care Facility, provided, pursuant to ORS 197.667(4), the
+applicant supplies to the County at the time of application for land use approval a copy of
+the application and non- confidential supportive documentation for state licensing of the
+facility.
+ (16) Transportation facilities and uses as specified in LC 10.500 -15(1) through
+(13). (Revised by Ordinance No. 13-72, Effective 7.21.72; 3-91, 5.17.91; 10-04, 6.4.04)
+
+10.145-15 Conditional Uses.
+The following conditional uses, subject to a conditional use permit granted pursuant to
+the provisions of this chapter providing for the granting of conditional use permits (LC
+10.320).
+ (1) Any of the conditional uses set forth in the general Conditional Use Permit
+section (LC 10.320-15).
+ (2) Clinic.
+ (3) Day nursery school.
+ (4) Group care home including residential care facilities as defined by ORS
+197.660(1).
+ (5) Hospital.
+ (6) Nursing home.
+ (7) Private and public park, playground or community center.
+ (8) Public packing area or parking garage.
+ (9) Telephone or telegraph exchange, excluding outdoor storage of vehicles or
+materials.
+ (10) Kennel, provided the following conditions are satisfied.
+  (a) The maximum number of dogs over four (4) months of age shall be
+five (5).
+  (b) For more than three (3) dogs over four (4) months of age, there shall
+be at least five thousand (5,000) square feet of lot area for each dog on the lot.
+10.145-21 Lane Code 10.145-35
+ 10-427 LC10.145_165
+  (c) All kennel structures and fenced runs accommodating a total of more
+than three (3) dogs over four (4) months of age shall be maintained at least one hundred
+(100) feet from an adjoining property.
+  (d) All dogs shall be owned by the occupant of the premises, except
+those temporarily kept for the purpose of breeding.
+ (11) Transportation facilities and uses as specified in LC 10.500-15(14) through
+(17).
+ (Revised by Ordinance No. 13-72, Effective 7.21.72; 3-91, 5.17.91; 10-04, 6.4.04)
+
+10.145-21 Height.
+(Also see LC 10.300-10.) No building may extend above the sun exposure plane.  (Revised
+by Ordinance No. 13-72, Effective 7.21.72)
+
+10.145-23 Setback Requirements.
+(Also see LC 10.300-15 and LC 15.065.)
+ (1) Front yard setback shall be 15 feet except that garages, carports and
+parking spaces with access from the front or side of the property shall be 20 feet.
+ (2) Side yard setback.
+  (a) Interior - 10 feet;
+  (b) Street - 15 feet;
+  (c) Garages, carports, or parking spaces with access from a street side
+yard - not less than 20 feet from the property line;
+  (d) Where a utility easement is recorded -  not less than the width of the
+easement.
+ (3) Rear yard setback.
+  (a) Interior - 10 feet;
+  (b) Street - 15 feet;
+  (c) Where a utility easement is recorded -  not less than the width of the
+easement, plus an additional five feet.
+ (4) No yard or open space provided for the purpose of complying with the
+regulations of this Section shall be used for public or private parking areas or garages, or
+other accessory buildings.  (Revised by Ordinance No. 13 -72, Effective 7.21.72; 17-73, 1.16.74; 6- 75,
+3.26.75)
+
+10.145-25 Density.
+(Also see LC 10.300- 20.)  Where community sewerage facilities are not available, the
+minimum area required shall be 3,000 square feet per dwelling unit.  (Revised by Ordinance
+No. 13-72, Effective 7.21.72; 3-73,  5.11.73)
+
+10.145-26 Lot Coverage.
+All structures, excluding garages, carports and parking spaces, shall not occupy more
+than 30% of the gross area of the lot.
+ (Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.145-28 Vision Clearance.
+ (1) Vision clearance for corner lots shall be a minimum of fifteen (15) feet.
+ (2) Vision clearance on alley - street intersections shall be a minimum of seven
+and one-half (7-1/2) feet. (Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.145-35 Off-Street Parking.
+The number of permanently maintained off -street parking spaces required on the site
+shall be no less than as set forth in the following, and shall be constructed simultaneously
+with the constructio n of the applicable permitted district use.  A parking space shall be
+10.145-36 Lane Code 10.145-36
+ 10-428 LC10.145_165
+not less than eight feet wide and eighteen feet long, and shall have provisions for ingress
+and egress.  Groups of three or more parking spaces shall be served by a service drive so
+that no backward movement or other maneuvering of a vehicle within a street, other than
+an alley, will be required.  No off -street parking requirements shall be satisfied within
+required yard areas.
+ (1) Residential Types Parking Space Required
+  (a) Dwelling, single -
+family or two-family;
+One for each dwelling unit.
+  (b) Dwelling, multiple. 1.5 for each dwelling unit; where frac tioned,
+next highest full unit.
+ (2) Institutional Types
+  (a) Churches, clubs,
+lodges;
+One for every four fixed seats or every eight
+feet of bench length or every 28 square feet of
+main auditorium, sanctuary or place of
+worship, where no permanent seats or benches
+are maintained.
+  (b) Hospitals; One and one -half spaces for each bed; where
+fractioned, next highest full unit.
+  (c) Schools; Elementary and junior high schools:  one and
+one-half spaces for each teaching station, plus
+one for every six fixed seats in the auditorium
+or one for every 42 sq. ft. of seating area,
+where there are no fixed seats in the
+auditorium; where fractioned, next highest full
+unit.
+High School:  One and one -half spaces for
+each teaching station, plus one for every four
+fixed seats in the auditorium or one for every
+28 sq. ft. of seating area where there are no
+fixed seats in the auditorium; where fractioned,
+next highest full unit.
+  (d) Libraries,
+museums, art galleries.
+One for each 250 square feet of gross floor
+area.
+ (3) Commercial Types
+  (a) Clinic; One space for every 400 sq. ft. of gross floor
+area.
+  (b) Day Nursery
+School;
+One and one -half spaces for each teaching or
+class station, where fractioned, next highest
+full unit.
+  (c) Nursing homes,
+group care homes.
+One space for each two beds.
+(Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.145-36 Signs.
+Only the following signs shall be permitted in the RG District:
+ (1) One unlighted nameplate for each dwelling unit, attached flat against the
+main building, not exceeding 4 inches x 16 inches and containing only the names and
+occupation of the resident of the premises.
+ (2) One unl ighted temporary sign not exceeding six square feet in area,
+pertaining only to the sale, lease or hire of the particular buildings, property or premises
+upon which it is displayed.
+10.145-37 Lane Code 10.150-10
+ 10-429 LC10.145_165
+ (3) One unlighted sign for each housing development, not to exceed 20 square
+feet in area, or five feet in any dimension, and containing no advertising matter except the
+name and street address of the development.
+ (4) Subdivision and directional signs.  (See LC 10.345 for permit provi sion.)
+(Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.145-37 Fences and Walls.
+There shall be erected a masonry wall or wooden fence along the perimeter of all off -
+street parking areas except along any portion of such parking area immediately adjacent
+to a building.  Such wall or fence shall contain not less than 60% solid face surface and
+be not less than 4 feet 8 inches in height, setback shall be in accordance with the
+requirements for this district, provided no wall or fence required by this section shall
+project nearer than five feet to any access drive.  (Revised by Ordinance No. 13 -72, Effective
+7.21.72)
+
+10.145-38 Dedication and Improvement of Easements.
+No building permit shall be issued, and no use of the property not requiring a building
+permit shall be made, until the applicant f or a permit or user of the property has
+submitted to and has had approved by the Planning Commission the required dedications
+of streets and other easements within and around the site, and made the required
+improvements or provided an agreement and bond in lieu of improvements.  (Revised by
+Ordinance No. 13-72, Effective 7.21.72)
+
+10.145-40 Lot Dimensions.
+(Also see LC 10.300-20.)
+ (1) Minimum area - 20,000 square feet.
+ (2) Minimum width - 100 feet.
+ (3) Minimum depth - 80 feet.
+ (4) The minimum area and width requirements shall not apply to either single-
+family or two -family dwellings established in an RG zone.  Minimum average area and
+width requirements for and two-family dwellings are as set forth in LC 10.300-20. (Revised
+by Ordinance No. 13-72, Effective 7.21.72)
+
+RESIDENTIAL - PROFESSIONAL DISTRICT (RP)
+
+10.150-10 Permitted Buildings and Uses.
+In the RP District, the following types of buildings and uses are permitted as hereinafter
+specifically provided for by this section, subject to the general pro visions and exceptions
+set forth in this chapter.
+ (1) Single-family dwelling.
+ (2) Two-family dwelling (duplex).
+ (3) Multiple dwelling.
+ (4) Court apartment, boarding house.
+ (5) Townhouse.
+ (6) Church.
+ (7) Schools, public and private (elementary, junior high or senior high).
+ (8) Public buildings or structures essential to the physical and economic
+welfare of the area in which they are located, such as a fire station, library, substation,
+pump station, reservoir; provided that each interior side and rear yard shall be a minimum
+of 25 feet in width.  No stockpiling or storage of equipment or materials shall be allowed.
+ (9) Home occupations.  (See LC 10.340 for provisions.)
+10.150-15 Lane Code 10.150-15
+ 10-430 LC10.145_165
+ (10) Barber shop.
+ (11) Beauty shop.
+ (12) Clinic.
+ (13) Laboratory, biochemical and x-ray.
+ (14) Offices for the following:
+  (a) Accountant.
+  (b) Attorney.
+  (c) Bookkeeper.
+  (d) Doctor, dentist, optometrist, oculist, chiropractor and others licensed
+by the State of Oregon to practice the healing arts.
+  (e) Engineer, architect,  urban planner, landscape architect, surveyor,
+designer and those engaged in the practice of graphics or drafting.
+  (f) Insurance.
+  (g) Real estate.
+  (h) Stockbroker.
+  (i) Timber broker.
+ (15) Pharmacy, dispensing of drugs and medical supplies only.
+ (16) Studios for the following:
+  (a) Artist.
+  (b) Interior decorator.
+  (c) Photographer.
+ (17) Telephone answering service.
+ (18) Secretarial service.
+ (19) Accessory buildings and structures.
+ (20) Private parking area.
+ (21) Private parking garage.
+ (22) Family day care facility in a permitted residence.
+ (23) Residential Home.
+ (24) Residential Care Facility, provided, pursuant to ORS 197.667(4), the
+applicant supplies to the County at the time of application for land use approval a copy of
+the application and non- confidential supportive documentation for state licensing of the
+facility.
+ (25) Transportation facilities and uses as specified in LC 10.500 -15(1) through
+(13). (Revised by Ordinance No. 13-72, Effective 7.21.72; 3-91, 5.17.91; 10-04, 6.4.04)
+
+10.150-15 Conditional Uses.
+The following conditional uses, subject to a conditional use permit granted pursuant to
+the provisions of this chapter providing for the granting of conditional use permits (LC
+10.320).
+ (1) Any of the conditional uses set forth in the general Conditional Use Permit
+section (LC 10.320-15).
+ (2) Bank.
+ (3) Chapel.
+ (4) Day nursery school.
+ (5) Group care home, including residential care facilities as defined by ORS
+197.660(1).
+ (6) Hospital.
+ (7) Mortuary.
+ (8) Nursing home.
+ (9) Private and public park, playground or community center.
+ (10) Public parking area or parking garage.
+10.150-21 Lane Code 10.150-26
+ 10-431 LC10.145_165
+ (11) Telephone or telegraph exchange, excluding the storage of vehicles or
+materials.
+ (12) Kennel. provided the following conditions are satisfied:
+  (a) The maximum number of dogs over four (4) months  of age shall
+be five (5).
+  (b) For more than three (3) dogs over four (4) months of age, there shall
+be at least five thousand (5,000) square feet of lot area for each dog on the lot.
+  (c) All kennel structures and fenced runs accommodating a total of more
+than three (3) dogs over four (4) months of age shall be maintained at least one hundred
+(100) feet from an adjoining property.
+  (d) All dogs shall be owned by the occupant of the premises: except
+those temporarily kept for the purpose of breeding.
+ (13) Transportation facilities and uses as specified in LC 10.500-15(14) through
+(17).  (Revised by Ordinance No. 13-72, Effective 7.21.72; 3-91, 5.17.91; 10-04, 6.4.04)
+
+10.150-21 Height. (Also see LC 10.300-10.)
+ (1) The maximum height for the main building is two and one -half stories or
+thirty feet in height, whichever is the lesser.
+ (2) The maximum height for any accessory building is one story in height.
+(Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.150-23 Setback Requirements.
+(Also see LC 10.300-15 and LC 15.065.)
+ (1) Front yard setback shall be 15 feet except that garages, carports and
+parking spaces with access from the front of the property shall be 20 feet.
+ (2) Side yard setback:
+  (a) Interior - 10 feet.
+  (b) Street - 15 feet.
+  (c) Garages, carports or parking spaces with access from a street side
+yard - not less than 20 feet from the property line.
+  (d) Where a utility easement is recorded -  not less than the width of the
+easement.
+ (3) Rear yard setback:
+  (a) Interior - 10 feet.
+  (b) Street - 15 feet.
+  (c) Where a utility easement is recorded -  not less than the width of the
+easement.
+ (4) No yard or open space provided for the purpose of complying with the
+regulations of this section shall be used for public or private parking areas or garages, or
+other accessory buildings.
+ (Revised by Ordinance No. 13-72, Effective 7.21.72; 6-75, 3.26.75)
+
+10.150-25 Density.
+(Also see LC 10.300- 20.) Where public sewers are not available, the minimum area
+required shall be 3,000 square feet per dwelling unit.  (Revised by Ordinance No. 13- 72, Effective
+7.21.72)
+
+10.150-26 Lot Coverage.
+All structures excluding garages, carports and parking spaces shall not occupy more than
+30% of the gross area of the lot. (Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.150-28 Lane Code 10.150-35
+ 10-432 LC10.145_165
+10.150-28 Vision Clearance.
+ (1) Vision clearance for corner lots shall be a minimum of fifteen feet.
+ (2) Vision clearance on alley -street intersections shall be a minimum of seven
+and one-half feet. (Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.150-35 Off-Street Parking.
+The number of permanently maintained off -site parking spaces required on the site shall
+be no less than as set forth in the following, and shall be constructed simultaneously with
+the construction of the applicable permitted district use.  A parking space shall be not less
+than eight feet wide and eighteen feet long, and shall have provisions for ingress and
+egress.  Groups of three or more parking spaces shall be served by a service drive so that
+no backward movement or other maneuvering of a vehicle within a street, other than an
+alley, will be required.  No off -street parking requirements shall be satisfied within
+required yard areas.
+ (1) Residential Types Parking Space Required
+  (a) Dwelling,
+single-family or two-family;
+One for each dwelling unit.
+  (b) Dwelling,
+multiple.
+One and one -half for each dwelling unit; where
+fractioned, next highest full unit.
+ (2) Institutional Types
+  (a) Churches,
+clubs, lodges;
+One for every four fixed seats or every eight feet of
+bench length, or every twenty -eight square feet
+where no permanent seats or benches are maintained
+in main auditorium, sanctuary or place of worship.
+  (b) Hospitals; One and one -half spaces fo r each bed; where
+fractioned, next highest full unit.
+  (c) Schools; Elementary and junior high:  One and one -half
+spaces for each teaching station, plus one for every
+six fixed seats in the audi torium or one for every
+forty-two square feet of seating wh ere there are no
+fixed seats in the auditorium; where fractioned, next
+highest full unit.
+High school: One and one -half spaces for each
+teaching station, plus one for every four fixed seats
+in the auditorium or one for every twenty -eight
+square feet of seating area  where there are no fixed
+seats in the auditorium; where fractioned, next
+highest full unit
+  (d) Libraries,
+museums, art galleries.
+One for each 250 square feet of gross floor area.
+ (3) Commercial Types
+  (a) Barber and
+beauty shops;
+1 space for each 150 square  feet of gross floor area
+  (b) Clinic; 1 space for each 400 square feet of gross floor area.
+  (c) Day nursery
+school;
+One and one -half spaces for each teaching or class
+station, where fractioned, next highest full unit.
+  (d)
+ Establishments for the sale
+and consumption on the premises
+of food and beverages;
+One space for each sixty sq. ft. of gross floor area.
+  (c) Nursing
+homes, group care homes;
+one space for each two beds.
+10.150-36 Lane Code 10.150-40
+ 10-433 LC10.145_165
+  (f) Office
+buildings, business and
+professional offices, other business
+and professional services;
+One space for each 400 sq. ft. of gross floor area.
+  (g) Pharmacies; One space for each 150 square feet of gross floor
+area.
+  (h) Retail  estab-
+blishments, except as otherwise
+specified herein;
+One space for each 300 square feet of gross floor
+area.
+  (i) Studios: artist,
+interior decorator,  photographer;
+One space for each 400 square feet of gross floor
+area.
+(Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.150-36 Signs.
+Only the following signs shall be permitted:
+ (1) One unlighted nameplate for each dwelling unit, business or profes sional
+use, attached flat against the main building, and not exceeding 4 inches x 16 inches, con -
+taining only the name and/or business or profession of the occupant of the premises.
+ (2) One unlighted temporary sign not exceeding six square feet in area
+pertaining only to the sale, lease or hire of the particular buildings, property or premises
+upon which it is displayed.
+ (3) One unlighted sign for each housing dev elopment, not to exceed twelve
+square feet in area or four feet in any dimension and containing no advertising matter
+except the name and street address of the development and the location and telephone
+number of the office or manager.
+ (4) One unlighted i dentification sign not exceeding twelve square feet in area
+or four feet in any dimension for each building other than a dwelling, as a directory of the
+business or professional uses within said building.
+ (5) Subdivision and directional signs.  (See LC 10.345 for permit provi sions.)
+(Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.150-37 Fences and Walls.
+There shall be erected a masonry wall or wooden fence along the perimeter of all off -
+street parking areas except along any portion of such parkin g area immediately adjacent
+to a building.  Such wall or fence shall contain not less than 60% solid- face surface and
+be not less than 4 feet 8 inches in height.  Setback shall be in accordance with the
+requirements for this district, provided that no wall or fence required by this section shall
+project nearer than five feet to any access drive.  (Revised by Ordinance No. 13 -72, Effective
+7.21.72)
+
+10.150-38 Dedication and Improvement of Easements.
+No building permit shall be issued, nor shall any use be made of the property which does
+not require a building permit, until the applicant for a permit or user of the property has
+submitted to, and has had approved by the Hearings Official and Board, the required
+dedications of streets and other easements within a nd around the site, and made the
+required improvements or provided an agreement and bond in lieu of improvements.
+
+(Revised by Ordinance No. 13-72, Effective 7.21.72, 16-83, 9.14.83)
+
+10.150-40 Lot Dimensions.
+(Also see LC 10.300-20.)
+ (1) Minimum area - 6,000 square feet.
+ (2) Minimum width - corner lot, 65 feet; interior lot, 60 feet.
+10.150-51 Lane Code 10.154-15
+ 10-434 LC10.145_165
+ (3) Minimum depth - 80 feet. (Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.150-51 Display and Storage.
+Display and storage of merchandise, cartons, containers and trash shall be permitted only
+within an enclosed building or structure. (Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+RURAL COMMERCIAL DISTRICT (CA)
+
+10.154-05 Purpose.
+The Rural Commercial District recognizes that a large portion of Lane County is  rural in
+character and that large- scale urban development is unlikely.  This district is intended to
+provide convenience goods and services needed by rural area residents on a daily basis.
+The Rural Commercial District is to be located in those areas whi ch conform to the
+Comprehensive Plan for Lane County.  (Revised by Ordinance No. 3 -76, Effective 4.7.76; 9 -76,
+8.27.76)
+
+10.154-10 Permitted Buildings and Uses.
+In the Rural Commercial District, the following types of structures and uses are permitted
+as described in this section and subject to the general provisions and exceptions set forth
+in this chapter:
+ (1) One single-family dwelling per lot or one mobile home per lot.
+ (2) Grocery store, general store.
+ (3) Fruit and vegetable store or stand.
+ (4) Dairy product store.
+ (5) Meat market, including locker storage.
+ (6) Public and semipublic building.
+ (7) Retail or wholesale nurseries.
+ (8) Service station, provided greasing and tire repair are performed completely
+within an enclosed building.
+ (9) Feed and seed store.
+ (10) Other uses similar to the above.
+ (11) Transportation facilities and uses as specified in LC 10.500 -15(1) through
+(13). (Revised by Ordinance No. 3-76, Effective 4.7.76; 10-04, 6.4.04)
+
+10.154-15 Conditional Uses.
+The following ty pes of buildings and uses may be allowed, subject to the granting of a
+conditional use permit in accordance with the general provisions of this chapter regarding
+such permits (LC 10.320), and subject to the general provisions and exceptions set forth
+in this chapter:
+ (1) Auction house.
+ (2) Automobile repair shop.
+ (3) Lumber and building materials dealer.
+ (4) New and used farm equipment sales and service.
+ (5) Welding repair.
+ (6) Rental facilities for storing boat and recreational vehicles.
+ (7) Veterinarian clinics.
+ (8) Multiple-family dwellings.
+ (9) Taverns.
+ (10) Residential Care Facility, provided, pursuant to ORS 197.667(4), the
+applicant supplies to the County at the time of application for land use approval a copy of
+10.154-21 Lane Code 10.155-10
+ 10-435 LC10.145_165
+the application and non- confidential supportive documentation for state licensing of the
+facility.
+ (11) Other uses similar to the above.
+ (12) Transportation facilities and uses as specified in LC 10.500-15(14) through
+(17). (Revised by Ordinance No. 3-76, Effective 4.7.76; 9-76, 8.27.76; 3-91, 5.17.91; 10-04, 6.4.04)
+
+10.154-21 Height.
+(Also see LC 10.300- 10.)  No building or structure, nor the enlarge ment of any building
+or structure, shall be hereafter erected or maintained to exceed two and one-half stories or
+35 feet in height. (Revised by Ordinance No. 3-76, Effective 4.7.76)
+
+10.154-23 Setback Requirements.
+(Also see 10.300-15 and 15.065 - .095.)
+ (1) Front yard setback shall be 20 feet.
+ (2) Side yard setback shall be as follows:
+  (a) Interior yard -- 10 feet.
+  (b) Street side yard -- 20 feet.
+ (3) Rear yard setback shall be 10 feet.
+ (4) Setback requirements may be waived for commercial buildings constructed
+side by side pursuant to a variance granted under LC 10.330- 05.
+ (Revised by Ordinance No. 3 -
+76, Effective 4.7.76)
+
+10.154-28 Vision Clearance.
+Vision clearance on corner lots shall be a minimum of 15 feet. (Revised by Ordinance No. 3-76,
+Effective 4.7.76)
+
+10.154-35 Parking.
+As provided in LC 10.300- 05, except that LC 10.300- 05(3)(c) shall not apply to the CA
+District. (Revised by Ordinance No. 3-76, Effective 4.7.76)
+
+10.154-95 Telecommunication Towers.
+Notwithstanding the requirements in LC 10.154- 05 through -35 above,
+telecommunication facilities are allowed subject to compliance with the requ irements of
+LC 10.400 and with applicable requirements elsewhere in LC Chapter 10 including but
+not necessarily limited to: the Floodplain Combining Zone (LC 10.271); Greenway
+Development Permit (LC 10.322); the Coastal Resource Management Combining Zones
+(LC 10.240, 10.245, 10.250, 10.255, 10.260, 10.265, and 10.270); and Federal or State of
+Oregon inventories and regulations applicable to delineated wetlands and waters of the
+nation or state.
+(Revised by Ordinance No. 4-02, Effective 4.10.02)
+
+LIMITED COMMERCIAL DISTRICT (C-1)
+
+10.155-10 Permitted Buildings and Uses.
+In the C-1 District, the following types of buildings and uses are permitted as hereinafter
+specifically provided for by this section, subject to the general provisions and exceptions
+set forth in this chapter.
+ (1) Any use permitted in the RG and RP zones (LC 10.145 and LC 10.150) in
+accordance with the requirements of those respective zones.
+ (2) Auto courts constructed and arranged in accordance with plans approved
+by the Planning Commission.
+ (3) Business and professional offices.
+10.155-15 Lane Code 10.155-28
+ 10-436 LC10.145_165
+ (4) Clinics.
+ (5) Flower and plant nurseries; provided all incidental equipment and supplies,
+including fertilizer and empty cans, are kept within a building.
+ (6) Public parking areas developed in accordance wit h provisions established
+in the general Off-Street Parking section (LC 10.300-05).
+ (7) Service stations, provided greasing and tire repairing are performed
+completely within an enclosed building.
+ (8) Transportation facilities and uses as specified in LC 10.500- 15(1) through
+(13). (Revised by Ordinance No. 13-72, Effective 7.21.72; 10-04, 6.4.04)
+
+10.155-15 Conditional Uses.
+The following conditional uses, subject to a conditional use permit granted pursuant to
+the provisions of this chapter providing for the granting of conditional use permits (LC
+10.320).
+ (1) Any of the conditional uses set forth in the general Conditional Use Permit
+section (LC 10.320-15), except mobile home parks pursuant to LC 10.320-15(1)(p).
+ (2) Kennel, provided the following conditions are satisfied:
+  (a) The maximum number of dogs over four (4) months of age shall be
+five (5).
+  (b) For more than three (3) dogs over four (4) months of age, there shall
+be at least five thousand (5,000) square feet of lot area for each dog on the lot.
+  (c) All kennel structures and fenced runs accommodating a total of more
+than three (3) dogs over four (4) months of age shall be maintained at least one hundred
+(100) feet from an adjoining property.
+  (d) All dogs shall be owned by the occupant of the premises, except
+those temporarily kept for the purpose of breeding.
+ (3) Transportation facilities and uses as specified in LC 10.500-15(14) through
+(17).
+ (Revised by Ordinance No. 13-72, Effective 7.21.72; 3-91, 5.17.91; 10-04, 6.4.04)
+
+10.155-21 Height.
+(Also see LC 10.300- 10.)  No building or structure, nor the enlarge ment of any building
+or structure, shall be hereafter erected or maintained to exceed two and one -half (2-1/2)
+stories or thirty -five (35) feet in height, except apartment houses, whi ch may be
+constructed to a height of three stories, or forty- five (45) feet in height.  (Revised by
+Ordinance No. 13-72, Effective 7.21.72)
+
+10.155-23 Setback Requirements.
+(Also see LC 10.300-15 and 15.065.)
+ (1) Front Yard.  Front yards in C -1 zones shall  be not less than fifteen feet
+deep.
+ (2) Side Yard.  On interior lots there shall be a side yard of not less than five
+(5) feet.  On corner building sites, no building shall be closer than ten feet to the exterior
+side line.
+ (Revised by Ordinance No. 13-72, Effective 7.21.72, 6-75, 3.26.75)
+
+10.155-26  Lot Coverage.
+The main building or buildings and accessory buildings shall not occupy in excess of
+sixty (60) percent of the ground area. (Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.155-28 Vision Clearance.
+ (1) Vision clearance for corner lots shall be fifteen feet.
+10.155-35 Lane Code 10.160-10
+ 10-437 LC10.145_165
+ (2) Vision clearance on alley -street intersections shall be seven and one- half
+feet. (Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.155-35 Off-Street Parking.
+ (1) Parking s pace requirements for "R" zone uses are given under the
+applicable section.
+ (2) Auto courts shall provide at least one garage space of not less than one
+hundred twenty-six (126) square feet net area for each living unit.
+ (3) Business and professional off ices and nurseries shall provide at least one
+parking space for each two thousand (2,000) square feet of lot space or fraction thereof,
+except that, if two or more business or professional offices are located on a single site, a
+minimum of two parking spaces shall be provided for each office.
+ (4) Clinics shall provide at least two parking spaces for each consultation and
+operating room. (Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.155-36 Signs.
+Exterior signs shall be limited to two per business establishment, and shall be designed as
+a part of the building. (Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.155-40 Area.
+(Also see LC 10.300-20.)
+ (1) Size of Lot.
+  (a) Lots shall have a minimum average width of sixty feet and a
+minimum area of six thousand square feet, except that where a lot has an average width
+of less than sixty feet as of January 8, 1969, such lot may be occupied by any use
+permitted in this section.
+  (b) Space required for auto courts shall be not less than twelve hundr ed
+square feet of lot space per dwelling or sleeping unit.  (Revised by Ordinance No. 13-72, Effective
+7.21.72)
+
+NEIGHBORHOOD COMMERCIAL DISTRICT (C-2)
+
+10.160-10 Permitted Buildings and Uses.
+In the C-2 District, the following types of buildings and uses a re permitted as hereinafter
+specifically provided for by this section: subject to the general provisions and exceptions
+set forth in this chapter:
+ (1) Any residential or "R" use which is not lower than the most restricted "R"
+use abutting the C -2  Distric t in accordance with the requirement of the respective "R"
+district.
+ (2) Bakery.
+ (3) Bank.
+ (4) Barber shop or beauty parlor.
+ (5) Book or stationery store.
+ (6) Catering service.
+ (7) Clothes cleaning and/or pressing establishment,
+provided equipment shall be limited to two clothes cleaning units with a rated capacity of
+not more than forty pounds each, and shall be of the closed- type unit, using
+perchlorethylene cleaning solvent.
+ (8) Clubs or lodges, fraternal and religious associations.
+ (9) Confectionery store.
+ (10) Curios and antiques.
+10.160-15 Lane Code 10.160-15
+ 10-438 LC10.145_165
+ (11) Delicatessen store.
+ (12) Department store.
+ (13) Drug store.
+ (14) Dry goods or notions store.
+ (15) Florist or gift shop.
+ (16) Furniture, household goods and furnishings.
+ (17) Laundry agency.
+ (18) Laundry (self-service).
+ (19) Meat market.
+ (20) Millinery or custom dressmaking shops.
+ (21) Musical instruments and supplies.
+ (22) Office supplies and equipment.
+ (23) Paint and wallpaper supplies.
+ (24) Photographer.
+ (25) Plumbing supplies.
+ (26) Printing.
+ (27) Public parking areas developed in accordance with
+provisions established in LC 10.300-05.
+ (28) Restaurants, tea rooms, cafes.
+ (29) Seeds and garden supplies.
+ (30) Service stations, provided greasing and tire repairing are performed
+completely within an enclosed building.
+ (31) Shoe or shoe repair shop.
+ (32) Sporting goods.
+ (33) Surgical supplies and equipment.
+ (34) Tailor, clothing, and wearing apparel shops.
+ (35) Telephone and telegraph exchanges.
+ (36) Theaters (conventional).
+ (37) Other uses similar to the above.
+ The above -specified stores, shops or businesses shall be retail establishments
+selling new merchandise exclusively, and shall be permitted only under the following
+conditions:
+  (a) Such stores, shops or businesses shall be conducted wholly within an
+enclosed building.
+  (b) All products produced shall be sold at retail, on the premises.
+ (38) Transportation facilities and uses as specified in LC 10.500 -15(1) through
+(13).  (Revised by Ordinance No. 13-72, Effective 7.21.72; 10-04, 6.4.04)
+
+10.160-15 Conditional Uses.
+The following conditional uses, subject to a conditional use permit granted pursuant to
+the provisions of this chapter providing for the granting of conditional use permits (LC
+10.320).
+ (1) Any of the conditional uses set forth in the general Conditional Use Permit
+section (LC 10.320-15), except mobile home parks pursuant to LC 10.320-15(p).
+ (2) Kennel, provided the following conditions are satisfied:
+  (a) The maximum number of dogs over four (4) months of age shall be
+five (5).
+  (b) For more than three (3) dogs over four (4) months of age, there shall
+be at least five thousand (5,000) square feet of lot area for each dog on the lot.
+10.160-23 Lane Code 10.165-10
+ 10-439 LC10.145_165
+  (c) All kennel structures and fenced runs accommodating a total of more
+than three (3) dogs over four (4) months of age shall be maintained at least one hundred
+(100) feet from an adjoining property.
+  (d) All dogs shall be owned by the occupant of the premises except
+those temporarily kept for the propose of breeding.
+ (3) Transportation facilities and uses as specified in LC 10.500-15(14) through
+(17).
+ (Revised by Ordinance No. 13-72, Effective 7.21.72; 3-91, 5.17.91; 10-04, 6.4.04)
+
+10.160-23 Setback Requirements.
+(Also see LC 10.300-15 and 15.065.)
+ (1) Front Yard.  Front y ards will not be required except where specified
+setbacks are established for road widening purposes.
+ (2) Side Yard.  Side yards will not be required, but if side yards are created,
+they shall be a minimum of three feet wide and three feet deep.
+ (3) Rear Yard.  No structural improvements except road surfacing will be
+allowed within ten feet of the centerline of the alley.  (Revised by Ordinance No. 13 -72, Effective
+7.21.72; 6-75, 3.26.75)
+
+10.160-26 Lot Coverage.
+Full coverage is allowable, provided minimu m loading space and setbacks have been
+provided.
+ (Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.160-28 Vision Clearance.
+Vision clearance for corner lots on streets with widths of less than sixty-six feet shall be a
+minimum of one foot vision clea rance for each foot of street width under sixty -six feet;
+provided that a vision clearance of more than ten feet shall not be required.  Said vision
+clearance shall be from the curb or walk level to a minimum height of eight feet.  (Revised
+by Ordinance No. 13-72, Effective 7.21.72)
+
+10.160-35 Off-Street Parking.
+ (1) Parking space and loading space shall be provided as specified in the
+General Parking Requirements (LC 10.300-05).
+ (2) Parking space for dwellings shall be in accordance with the requirements
+for the type of dwelling structure as provided in the RG zone (LC 10.145).  (Revised by
+Ordinance No. 13-72, Effective 7.21.72)
+
+COMMERCIAL DISTRICT (C-3)
+
+10.165-10 Permitted Buildings and Uses.
+In the C-3 District, the following types of buildings and use s are permitted as hereinafter
+specifically provided for by this section, subject to the general provisions and exceptions
+set forth in this chapter:
+ (1) Any use permitted in the RG, RP and C -2 Districts (LC 10.145, .150, and
+.160) provided separate residential uses are developed in accordance with the
+requirements of the RG District.
+ (2) Agricultural supplies and machinery sales room.
+ (3) Automobile sales agencies or garages.
+ (4) Builders supplies, including retail sales of lumber; provided that all
+salvaged or building supplies and materials shall not be exposed to view from outside the
+property.
+10.165-15 Lane Code 10.165-15
+ 10-440 LC10.145_165
+ (5) Dry-cleaning establishments using not more than two clothes cleaning
+units, neither of which shall have a rated capacity of more than forty pounds, usi ng
+cleaning fluid which is non- odorous, as well as nonexplosive and nonflammable at
+temperatures below 138.5°F.
+ (6) Feed and fuel stores.
+ (7) Fumigation chambers, when approved by the Oregon State Board of
+Health.
+ (8) Outdoor advertising.
+ (9) Places of amusement, such as billiard parlors, taverns, bowling alleys,
+drive-in theaters, dance halls and games of skill and science, if conducted wholly within a
+completely enclosed building.
+ (10) Plumbing and sheet metal.
+ (11) Professional playfields, including baseball, football, etc.
+ (12) Second-hand stores, if conducted wholly within an enclosed building.
+ (13) Stadiums.
+ (14) A facility which exists for the purpose of providing for the temporary care
+and/or lodging of adult indigent persons shall be all owed, provided that before a building
+permit is issued for the establishment of a new facility or the expansion of an existing
+facility the Planning Commission determines at a public hearing that the site in question
+would not be unduly detrimental to the welfare, health and safety of the public, and the
+immediate residents of the vicinity.
+ (15) Stores (retail and wholesale) and business uses similar to the above and
+normally located in a commercial district, provided that:
+  (a) Where there is manufacturing, compounding, processing or treatment
+of produce for wholesale, a minimum of 25% of the total floor area shall be used for
+retail stores.
+  (b) Use is not objectionable due to odor, dust, smoke, noise, vibration or
+appearance.
+ (16) Transportation facilities and uses as specified in LC 10.500 -15(1) through
+(13). (Revised by Ordinance No. 13-72, Effective 7.21.72; 10-04, 6.4.04)
+
+10.165-15 Conditional Uses.
+The following conditional uses, subject to a conditional use permit granted pursuant to
+the provisions of this chapter providing for the granting of conditional use permits (LC
+10.320).
+ (1) Any of the conditional uses set forth in the general Conditional Use Permit
+section (LC 10.320-15), except mobile home parks pursuant to LC 10.320-15(1)(p).
+ (2) Kennel, provided the following conditions are satisfied:
+  (a) The maximum number of dogs over four (4) months of age shall be
+five (5).
+  (b) For more than three (3) dogs over four (4) months of age, there shall
+be at least five thousand (5,000) square feet of lot area for each dog on the lot.
+  (c) All kennel structures and fenced runs accommodating a total of more
+than three (3) dogs over four (4) months of age shall be maintained at least one hundred
+(100) feet from an adjoining property.
+  (d) All dogs s hall be owned by the occupant of the premises, except
+those temporarily kept for the purpose of breeding.
+ (3) Transportation facilities and uses as specified in LC 10.500-15(14) through
+(17). (Revised by Ordinance No. 13-72, Effective 7.21.72; 3-91, 5.17.91; 10-04, 6.4.04)
+
+10.165-23 Lane Code 10.165-35
+ 10-441 LC10.145_165
+10.165-23 Setback Requirements.
+(Also see LC 10.300-15 and 15.065.)
+ (1) Front Yard.  Front yards will not be required except where specific
+setbacks are established for road widening purposes.
+ (2) Side Yard.  Side yards will not be re quired, but if side yards are created
+they shall be a minimum of three feet wide and three feet deep.
+ (3) Rear Yard.  No structural improvements except road surfacing will be
+allowed within ten feet of the centerline of the alley.  (Revised by Ordinance No . 13-72, Effective
+7.21.72; 6-75, 3.26.75)
+
+10.165-26 Lot Coverage.
+Full overage is allowable, provided minimum loading space and setbacks have been
+provided. (Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.165-28 Vision Clearance.
+Vision clearance for corner lots on streets with widths of less than sixty-six feet shall be a
+minimum of one foot vision clearance for each foot of street width under sixty -six feet,
+provided that a vision clearance of more than ten feet shall not be required.  Said visi on
+clearance shall be from the curb or walk level to a minimum height of eight feet.  (Revised
+by Ordinance No. 13-72, Effective 7.21.72)
+
+10.165-35 Off-Street Parking.
+ (1) Parking space and loading space shall be provided as specified in the
+General Parking Requirements section (LC 10.300-05).
+ (2) Parking space for dwellings shall be in accordance with the require ments
+for the type of dwelling structure as provided in the RG zone. (Revised by Ordinance No. 13-72,
+Effective 7.21.72)
+10.165-35 Lane Code 10.165-35
+ 10-442 LC10.145_165
+
+PAGES 10-442 THROUGH 10-475
+ARE RESERVED FOR FUTURE EXPANSION

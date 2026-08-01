@@ -1,0 +1,1238 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lane-county
+id: lane-land-use-lc16-210
+title: 'LC16.210'
+doc_type: ordinance
+citation: 'LC16.210'
+authority_level: county_ordinance
+issuing_body: 'Lane County Board of Commissioners'
+source_url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.210.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 6e589cb3cdb31def2cd6aeafe4fc863fe17d86fc94c995a3e646ed4faffeb697
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 195.120
+    - ORS 197.015
+    - ORS 197.732
+    - ORS 197.770
+    - ORS 215.130
+    - ORS 215.402
+    - ORS 215.705
+    - ORS 30.936
+    - ORS 308A.365
+    - ORS 308A.371
+    - ORS 308A.718
+    - ORS 321.359
+    - ORS 433.735
+    - ORS 433.750
+    - ORS 433.755
+    - ORS 433.763
+    - ORS 459.245
+    - ORS 526.215
+    - ORS 527.620
+    - ORS 537.545
+    - ORS 772.210
+    - OAR 660-034-0035
+    - OAR 660-034-0040
+  related: []
+  supersedes: []
+tags: [lane-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lane County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# LC16.210 (LC16.210)
+
+## At a glance
+
+LC16 — land use of Lane County. 29 pages.
+
+## Full text
+
+May 2026 16-57 LC 16.210
+NONIMPACTED FOREST LANDS ZONE (F-1, RCP)
+RURAL COMPREHENSIVE PLAN
+
+F-1 Zone Table of Contents
+(1) Purpose 57
+(2) Use Table 57
+(3) Use Standards 65
+(4) Conditional Use Review Criteria 73
+(5) Siting Standards for Uses, Activities, and Structures in Forest Zones 74
+(6) Fire-Siting Standards for Dwellings and Structures 76
+(7) Land Divisions 80
+(8) Telecommunication Facilities.  85
+
+16.210 Nonimpacted Forest Lands (F-1, RCP)
+(1) Purpose
+The purpose of the Nonimpacted Forest Land (F-1) Zone is to protect and maintain forest lands
+for grazing, and rangeland use and forest use, consistent with existing and future needs for
+agricultural and forest products. The F-1 zone is also intended to allow other uses that are
+compatible with agricultural and forest activities, to protect scenic resources and fish and wildlife
+habitat, and to maintain and improve the quality of air, water, and land resources of the county.
+The F-1 zone has been applied to lands designated as Forest in the Comprehensive Plan. The
+provisions of the F-1 zone reflect the forest land policies of the Comprehensive Plan as well as
+the requirements of ORS Chapter 215 and OAR 660-006. The minimum parcel size, prohibition
+of new dwellings, and other standards established by this zone are intended to promote
+commercial forest operations.
+(2) Use Table
+Table of Permitted Uses
+Table 16.210-1 sets forth the uses allowed in the F-1 zone subject to Type I, II, or III approval
+processes. This table applies to all new uses, expansions of existing uses, and changes of use
+when the expanded or changed use would require a Type I, II, or, III process, unless otherwise
+specified on Table 16.210-1. All uses and their accessory buildings are subject to the general
+provisions, special conditions, additional restrictions, siting standards, fire siting standards, and
+exceptions set forth in LC 16.210.
+May 2026 16-58 LC 16.210
+As used in Table 16.210-1:
+(a) Use Type:
+“A” means the use is allowed outright or permitted subject to standards.
+“C” means the use is a Conditional Use, subject to Section (4) and other
+listed criteria.
+(b) Local Procedure Type:
+“P” means the use is permitted outright; uses and activities and their
+accessory buildings and uses are permitted subject to the general
+provisions set forth by this Chapter.
+“AL” means Assembly License, subject to LC 3.995.
+Type I uses and activities are permitted subject to the general provisions
+and exceptions set forth by this chapter of Lane Code.
+Type II uses may be allowed provided a land use application is submitted
+and approved by the Director pursuant to LC Chapter 14.
+Type III uses may be allowed provided a land use application is submitted
+and approved by the Hearings Official pursuant to LC Chapter 14.
+(c) The “Subject To” column identifies any specific provisions of LC 16.210 to which
+the use is subject. All uses and development are subject to the development
+standards provisions of LC 16.210(5)(b) and (6)(c). Residences, dwellings, and
+structures must comply with LC 16.210(5) and (6).  Any new structure subject to
+LC 16.210(5)(a) is subject to a Type II procedure pursuant to LC Chapter 14.
+(d) A determination by the Director for whether or not a use fits within the
+classification of uses listed as Type I, Permitted Outright, or Assembly License in
+the use table may constitute a "permit" as defined by ORS 215.402(4),
+"…discretionary approval of a proposed development of land…" An owner of land
+where the use would occur therefore may request to elevate review of a Type I,
+Permitted Outright, or Assembly License use to a Type II land use application
+pursuant to LC Chapter 14. The burden of proof in the application will be upon
+the owner of land to demonstrate that the proposed use fits within the
+classification.
+
+May 2026 16-59 LC 16.210
+Table 16.210-1: Use Table for Nonimpacted Forest Zones
+I = Type I   II = Type II    III = Type III   P = Permitted Outright    AL = Assembly License
+
+Use Use
+Type
+Local
+Procedure
+Type
+Subject
+to
+1. Forest, Farm and Natural Resource Uses
+1.1. Forest operations or forest practices including, but not limited
+to, reforestation of forest land, road construction and
+maintenance, harvesting of a forest tree species, application of
+chemicals and disposal of slash
+A P
+1.2. Temporary on-site structures which are auxiliary to and used
+during the term of a particular forest operation
+A I (5)(b),
+(6)(c)
+1.3. Physical alterations to the land auxiliary to forest practices
+including, but not limited to, those made for purposes of
+exploration, mining, commercial gravel extraction and
+processing, landfills, dams, reservoirs, road construction or
+recreational facilities
+A P
+1.4. Uses to conserve soil, air and water quality and to provide for
+wildlife and fisheries resources
+A P
+1.5. Farm use as defined in LC 16.090. A P
+1.6. Uninhabitable structures accessory to fish and wildlife
+enhancement
+A I (5)(b),
+(6)(c)
+1.7. Agricultural building A I (5)(b),
+(6)(c)
+1.8. Log scaling and weigh stations C II (4), (5),
+(6)
+1.9. Forest management research and experimentation facilities as
+defined by ORS 526.215 or where accessory to forest
+operations
+C II (4), (5),
+(6)
+1.10. Marijuana production A I LC
+16.420,
+(5)(b),
+(6)(c)
+1.11. Marijuana wholesale distribution A I LC
+16.420,
+(5)(b),
+(6)(c)
+1.12. Marijuana research A I LC
+16.420,
+(5)(b),
+(6)(c)
+May 2026 16-60 LC 16.210
+Table 16.210-1: Use Table for Nonimpacted Forest Zones
+I = Type I   II = Type II    III = Type III   P = Permitted Outright    AL = Assembly License
+
+Use Use
+Type
+Local
+Procedure
+Type
+Subject
+to
+2. Residential Uses
+2.1. Caretaker residences for public parks and public fish
+hatcheries
+A II (3)(m),
+(5), (6)
+2.2. Alteration, restoration, or replacement of a lawfully established
+dwelling
+A I or II (3)(a),
+(3)(m)-
+(o), (5),
+(6)
+2.3. Temporary hardship dwelling C II (3)(b),
+(3)(m),
+(4), (5),
+(6)
+3. Commercial Uses
+3.1. Temporary portable facility for the primary processing of forest
+products
+A I (5)(b),
+(6)(c)
+3.2. Temporary forest labor camps A I (5)(b),
+(6)(c)
+3.3. Private hunting and fishing operations without any lodging
+accommodations
+A P or II (5), (6)
+3.4. Parking of up to seven dump trucks and trailers C II (4)
+3.5. Home occupations C II (3)(c), (4)
+3.6. Permanent facility for the primary processing of forest products C II (3)(h), 0,
+(5), (6)
+3.7. Permanent logging equipment repair and storage C II (4), (5),
+(6)
+3.8. Private seasonal accommodations for fee hunting operations C II (3)(d),
+(4), (5),
+(6)
+3.9. Private accommodations for fishing occupied on a temporary
+basis
+C II (3)(o),
+(4), (5),
+(6)
+3.10. Marijuana processing, provided an on-site dwelling is present C II LC
+16.420,
+(4)
+May 2026 16-61 LC 16.210
+Table 16.210-1: Use Table for Nonimpacted Forest Zones
+I = Type I   II = Type II    III = Type III   P = Permitted Outright    AL = Assembly License
+
+Use Use
+Type
+Local
+Procedure
+Type
+Subject
+to
+4. Mineral, Aggregate, Oil and Gas Uses
+4.1. Exploration for aggregate resources as defined in ORS
+chapter 517
+A P
+4.2. Exploration for and production of geothermal, gas, oil and
+other associated hydrocarbons, including the placement and
+operation of compressors, separators and other customary
+production equipment for an individual well adjacent to the well
+head
+A P
+4.3. Mining and processing of oil, gas or other subsurface
+resources, as defined in ORS chapter 520, and not otherwise
+permitted by 4.2 above (e.g. compressors, separators, and
+storage servicing multiple wells), and mining and processing of
+aggregate and mineral resources as defined in ORS chapter
+517
+C III (4), (4)(d)
+4.4. Temporary asphalt and concrete batch plants as accessory
+uses to specific highway projects
+C II (4)
+5. Transportation Uses
+5.1. Climbing and passing lanes within the right of way existing as
+of July 1, 1987
+A P
+5.2. Reconstruction or modification of public roads and highways,
+including the placement of utility facilities overhead and in the
+subsurface of public roads and highways along the public right
+of way, but not including the addition of travel lanes, where no
+removal or displacement of buildings would occur, or no new
+land parcels result
+A P
+5.3. Temporary public road and highway detours that will be
+abandoned and restored to condition or use in effect prior to
+construction of the detour at such time as no longer needed
+A P
+5.4. Minor betterment of existing public road and highway related
+facilities such as maintenance yards, weigh stations and rest
+areas, within right of way existing as of July 1, 1987, and
+contiguous public-owned property utilized to support the
+operation and maintenance of public roads and highways
+A P
+5.5. Operations, maintenance, and repair as defined in LC 15.010
+of existing transportation facilities, services, and
+improvements, including road, bicycle, pedestrian, port, airport
+and rail facilities, and major regional pipelines and terminals
+A P
+May 2026 16-62 LC 16.210
+Table 16.210-1: Use Table for Nonimpacted Forest Zones
+I = Type I   II = Type II    III = Type III   P = Permitted Outright    AL = Assembly License
+
+Use Use
+Type
+Local
+Procedure
+Type
+Subject
+to
+5.6. Dedication of right-of-way, authorization of construction and
+the construction of facilities and improvements, where the
+improvements are consistent with clear and objective
+dimensional standards
+A P
+5.7. Preservation as defined in LC 15.010, and rehabilitation
+activities and projects as defined in LC 15.101 for existing
+transportation facilities, services, and improvements, including
+road bicycle, pedestrian, port, airport and rail facilities, and
+major regional pipelines and terminals
+A P
+5.8. Changes in the frequency of transit, rail and airport services A P
+5.9. Construction of additional passing and travel lanes requiring
+the acquisition of right of way but not resulting in the creation
+of new land parcels
+C II (4)
+5.10. Reconstruction or modification of public roads and highways
+involving the removal or displacement of buildings but not
+resulting in the creation of new land parcels
+C II  (4)
+5.11. Improvement of public road and highway related facilities, such
+as maintenance yards, weigh stations and rest areas, where
+additional property or right of way is required but not resulting
+in the creation of new land parcels
+C II  (4)
+5.12. Bikeways, footpaths, and recreation trails not otherwise
+allowed as a modification or part of an existing road
+C II (4)
+5.13. Park and ride lots C II (4)
+5.14. Railroad mainlines and branch lines C II (4)
+5.15. Pipelines C II (4)
+5.16. Navigation channels C II (4)
+5.17. Realignment as defined in LC 15.010 not otherwise permitted
+pursuant to this chapter
+C II (3)(i), (4)
+5.18. Replacement of an intersection with an interchange C II (3)(i), (4)
+5.19. Continuous median turn lanes C II (3)(i), (4)
+May 2026 16-63 LC 16.210
+Table 16.210-1: Use Table for Nonimpacted Forest Zones
+I = Type I   II = Type II    III = Type III   P = Permitted Outright    AL = Assembly License
+
+Use Use
+Type
+Local
+Procedure
+Type
+Subject
+to
+5.20. New roads as defined in LC 15.010 that are County Roads
+functionally classified as Local Roads or Collectors, or are
+Public Roads or Local Access Roads as defined in LC
+15.010(35) in areas where the function of the road is to reduce
+local access to or local traffic on a state highway
+C II (3)(i), (4)
+5.21. Transportation facilities, services, and improvements other
+than those listed in LC 16.210 that serve local travel needs
+C II (3)(i), (4)
+5.22. Expansion of lawfully existing airports C II (4), (5),
+(6)
+6. Utility and Power Generation
+6.1. Local distribution lines (e.g. electric, telephone, natural gas) &
+accessory equipment (e.g. electric distribution transformers,
+poles, meter cabinets, terminal boxes, pedestals), or
+equipment that provides service hookups, including water
+service hookups
+A P
+6.2. Water intake facilities, canals and distribution lines for farm
+irrigation and ponds
+A P
+6.3. Disposal  site for solid waste approved by the governing body
+of a city or county or both and for which the Oregon
+Department of Environmental Quality has granted a permit
+under ORS 459.245, together with equipment, facilities or
+buildings necessary for its operation;
+C II (4), (5),
+(6)
+6.4. Television, microwave and radio communication facilities and
+transmission towers
+C II (4), (5),
+(6)
+6.5. New electric transmission lines with right-of-way widths of up
+to 100 feet as specified in ORS 772.210. New distribution lines
+(e.g. gas, oil, geothermal, telephone, fiber optic cable) with
+rights-of-way 50 feet or less in width
+C II (4)
+6.6. Water intake facilities, related treatment facilities, pumping
+stations and distribution lines
+C II (4), (5),
+(6)
+6.7. Reservoirs and water impoundments C II (4)
+6.8. Commercial utility facilities for the purpose of generating power C II (3)(f), (4),
+(5), (6)
+6.9. Telecommunication tower changeout A I (8)
+May 2026 16-64 LC 16.210
+Table 16.210-1: Use Table for Nonimpacted Forest Zones
+I = Type I   II = Type II    III = Type III   P = Permitted Outright    AL = Assembly License
+
+Use Use
+Type
+Local
+Procedure
+Type
+Subject
+to
+6.10. Collocation to an existing telecommunication tower: Spectrum
+Act exemption eligible
+A I (8)
+6.11. Telecommunication tower collocation  A II (8)
+6.12. New telecommunication tower or replacement tower C III (4), (5),
+(6), (8)
+7. Public and Quasi-public Uses
+7.1. Towers and fire stations for forest fire protection A II (5), (6)
+7.2. Youth camps A II (3)(i), (5),
+(6)
+7.3. Aids to navigation and aviation C II (4), (5),
+(6)
+7.4. Firearms training facility as provided in ORS 197.770 C II (4), (5),
+(6)
+7.5. Fire stations for rural fire protection C II (4), (5),
+(6)
+7.6. Cemeteries C II (4)
+7.7. Public parks and public campgrounds, including those uses
+specified under OAR 660-034-0035 or OAR 660-034-0040
+C II (4), (5),
+(6)
+7.8. Private parks and private campgrounds C II (3)(g),
+(4), (5),
+(6)
+7.9. Storage structures for emergency supplies C II  (3)(k),
+(4), (5),
+(6)
+8. Outdoor Gatherings
+8.1. An outdoor gathering of fewer than 3,000 persons, that is not
+anticipated to continue for more than 120 hours in any three-
+month period
+A P or AL (if
+over 1,000
+persons)
+ LC 3.995
+May 2026 16-65 LC 16.210
+Table 16.210-1: Use Table for Nonimpacted Forest Zones
+I = Type I   II = Type II    III = Type III   P = Permitted Outright    AL = Assembly License
+
+Use Use
+Type
+Local
+Procedure
+Type
+Subject
+to
+8.2. An outdoor mass gathering of more than 3,000 persons, that is
+not anticipated to continue for more than 120 hours in any
+three-month period, and which is held primarily in open spaces
+and not in any permanent structure as provided in ORS
+433.735-760
+A III ORS
+433.735-
+760
+8.3. Any outdoor gathering of more than 3,000 persons that is
+anticipated to continue for more than 120 hours in any three-
+month period is subject to review by the  Planning Commission
+under ORS 433.763, notwithstanding Type III Hearings Official
+review
+C III (LCPC) (3)(l)
+9. Accessory Uses
+
+9.1. Uses and structures accessory to existing uses and
+development permitted by LC 16.210.
+A P or II (3)(o),
+(5), (6)
+
+(3) Use Standards
+(a) Alteration, restoration, or replacement of a lawfully established dwelling, subject
+to the following:
+The dwelling was lawfully established;
+The lawfully established dwelling:
+(aa) Has intact exterior walls and roof structures;
+(bb) Has indoor plumbing consisting of a kitchen sink, toilet and
+bathing facilities connected to a sanitary waste disposal system;
+(cc) Has interior wiring for interior lights; and
+(dd) Has a heating system;
+In the case of replacement, is removed, demolished, or converted to an
+allowable nonresidential use within three months of the completion of the
+replacement dwelling.
+(b) A temporary hardship dwelling is subject to the following:
+May 2026 16-66 LC 16.210
+One manufactured dwelling (MH), or recreational vehicle (RV), or the
+temporary residential use of an existing building may be allowed in
+conjunction with an existing dwelling as a temporary use for the term of
+the hardship suffered by the existing resident or relative, subject to the
+following:
+(aa) The hardship dwelling must use the same subsurface sewage
+disposal system used by the existing dwelling, if that disposal
+system is adequate to accommodate the additional dwelling. If a
+public sanitary sewer system is available, the hardship dwelling
+may connect to the public system and not use a subsurface
+sewage disposal system;
+(bb) Except as provided in (3)(b)(i)(cc) below, approval of a temporary
+hardship dwelling permit is valid until December 31 of the year
+following the year of original permit approval and may be renewed
+once every two years until the hardship situation ceases or unless
+in the opinion of the Lane County Sanitarian the on-site sewage
+disposal system no longer meets DEQ requirement;
+(cc) Within 90 days of the end of the hardship situation, the MH or RV
+must be removed from the property or demolished. In the case of
+an existing building, the building must be removed, demolished, or
+returned to an allowable nonresidential use; and
+(dd) The temporary hardship dwelling will comply with Oregon
+Department of Environmental Quality review and removal
+requirements;
+As used in this section “hardship” means a medical hardship or hardship
+for the care of an aged or infirm person or persons; and
+A temporary hardship dwelling approved under (3)(b) above cannot be
+eligible for replacement under (3)(b) above.
+(c) A home occupation must:
+Be operated by a resident or employee of a resident of the property on
+which the business is located;
+Employ on the site no more than five full-time or part-time persons at any
+given time;
+Be operated substantially in the dwelling or other buildings normally
+associated with uses permitted in the F-1 Zone;
+Not unreasonably interfere with other uses permitted in LC 16.210;
+Comply with sanitation and building code requirements prior to start of
+Home Occupation; and
+May 2026 16-67 LC 16.210
+Not be used as a justification for a zone change.
+ (d) Private seasonal accommodations for fee hunting operations are subject to the
+following requirements:
+Accommodations are limited to no more than 15 guest rooms as that term
+is defined in the Oregon Structural Specialty Code;
+Only minor incidental and accessory retail sales are permitted; and
+Accommodations are occupied temporarily for the purpose of hunting
+during either or both game bird or big game hunting seasons authorized
+by the Oregon Fish and Wildlife Commission.
+(e) Private accommodations for fishing occupied on a temporary basis are subject to
+the following requirements:
+Accommodations limited to no more than 15 guest rooms as that term is
+defined in the Oregon Structural Specialty Code;
+Only minor incidental and accessory retail sales are permitted;
+Accommodations occupied temporarily for the purpose of fishing during
+fishing seasons authorized by the Oregon Fish and Wildlife Commission;
+and
+Accommodations must be located within one-quarter mile of fish-bearing
+Class I waters.
+(f) A commercial utility facility for the purpose of generating power cannot preclude
+more than 10 acres from use as a commercial forest operation, unless an
+exception is taken pursuant to OAR 600, Division 4.
+(g) Private Parks and Private Campgrounds.
+Campgrounds in private parks may be permitted, subject to the following:
+(aa) Except on a lot or parcel contiguous to a lake or reservoir,
+campgrounds are not allowed within three miles of an urban
+growth boundary unless an exception is approved pursuant to
+ORS 197.732 and OAR chapter 660, division 4;
+(bb) A campground must be designed and integrated into the rural
+agricultural and forest environment in a manner that protects the
+natural amenities of the site and provides buffers of existing native
+trees and vegetation or other natural features between campsites;
+(cc) Campgrounds authorized by this rule cannot include intensively
+developed recreational uses such as swimming pools, tennis
+courts, retail stores, or gas stations;
+May 2026 16-68 LC 16.210
+(dd) Overnight temporary use in the same campground by a camper or
+camper's vehicle cannot exceed a total of 30 days during any
+consecutive six-month period;
+(ee) Campsites may be occupied by a tent, travel trailer, yurt, or
+recreational vehicle. Separate sewer, water, or electric service
+hook-ups cannot be provided to individual camp sites except that
+electrical service may be provided to yurts allowed by Section
+(3)(g)(i)(ff); and
+(ff) A private campground may provide yurts for overnight camping.
+No more than one-third or a maximum of 10 campsites, whichever
+is smaller, may include a yurt. The yurt must be located on the
+ground or on a wood floor with no permanent foundation.
+(h) Permanent facility for the primary processing of forest products.
+Located in a building or buildings that do not exceed 10,000 square feet
+in total floor area; or
+Located in an outdoor area that does not exceed one acre excluding
+laydown and storage yards; or
+Located in a proportionate combination of indoor and outdoor areas
+described in Sections (3)(h)(i) and (ii); and
+Adequately separated from surrounding properties to reasonably mitigate
+noise, odor, and other impacts generated by the facility that adversely
+affect forest management and other existing uses, as determined by Lane
+County.
+(i) Certain transportation facilities and uses must comply with the following:
+Identify reasonable build design alternatives, such as alternative
+alignments, that are safe and can be constructed at a reasonable cost,
+not considering raw land costs, with available technology. Lane County
+need not consider alternatives that are inconsistent with applicable
+standards or not approved by a registered professional engineer;
+Assess the effects of the identified alternatives on farm and forest
+practices, considering impacts to farm and forest lands, structures and
+facilities, considering the effects of traffic on the movement of farm and
+forest vehicles and equipment and considering the effects of access to
+parcels created on farm and forest lands; and
+Select from the identified alternatives, the one, or combination of
+identified alternatives that has the least impact on lands in the immediate
+vicinity devoted to farm or forest use.
+(j) Youth Camps
+May 2026 16-69 LC 16.210
+The purpose of a youth camp is to provide for the establishment of a
+youth camp that is generally self-contained and located on a parcel
+suitable to limit potential impacts on nearby and adjacent land and to be
+compatible with the forest environment. Changes to or expansions of
+youth camps established prior to June 14, 2000, are subject to the
+provisions of ORS 215.130.
+An application for a proposed youth camp must comply with the following:
+(aa) The number of overnight camp participants that may be
+accommodated must be determined by Lane County, based on
+the size, topography, geographic features and any other
+characteristics of the proposed site for the youth camp. Except as
+provided by paragraph (3)(j)(ii)(bb) a youth camp cannot provide
+overnight accommodations for more than 350 youth camp
+participants, including staff.
+(bb) Lane County may allow up to eight (8) nights during the calendar
+year when the number of overnight participants may exceed the
+total number of overnight participants allowed under paragraph
+(3)(j)ii)(bb).
+(cc) Overnight stays for adult programs primarily for individuals over 21
+years of age, not including staff, cannot exceed 10 percent of the
+total camper nights offered by the youth camp.
+(dd) The use will not force a significant change in, or significantly
+increase the cost of, accepted farming or forest practices on
+agriculture or forest lands.
+(ee) A campground as described in Subsection (3)(g) cannot be
+established in conjunction with a youth camp.
+(ff) A youth camp cannot be allowed in conjunction with an existing
+golf course.
+(gg) A youth camp cannot interfere with the exercise of legally
+established water rights on adjacent properties.
+The youth camp must be located on a lawful parcel that is:
+(aa) Suitable to provide a forested setting needed to ensure a primarily
+outdoor experience without depending upon the use or natural
+characteristics of adjacent and nearby public and private land.
+This determination is based on the size, topography, geographic
+features and any other characteristics of the proposed site for the
+youth camp, as well as, the number of overnight participants and
+type and number of proposed facilities.
+(bb) Is at least 40 acres in size.
+May 2026 16-70 LC 16.210
+(cc) Suitable to provide a protective buffer to separate the visual and
+audible aspects of youth camp activities from other nearby and
+adjacent lands. The buffers must consist of forest vegetation,
+topographic or other natural features as well as structural
+setbacks from adjacent public and private lands, roads, and
+riparian areas. The structural setback from roads and adjacent
+public and private property is 250 feet unless the governing body,
+or its designate sets a different setback based upon the following
+criteria that may be applied on a case-by-case basis:
+(A) The proposed setback will prevent conflicts with
+commercial resource management practices;
+(B) The proposed setback will prevent a significant increase in
+safety hazards associated with vehicular traffic; and
+(C) The proposed setback will provide an appropriate buffer
+from visual and audible aspects of youth camp activities
+from other nearby and adjacent resource lands.
+(dd) Suitable to provide for the establishment of sewage disposal
+facilities without requiring a sewer system as defined in OAR 660-
+011-0060(1)(f). Prior to granting final approval, the governing body
+or its designate must verify that a proposed youth camp will not
+result in the need for a sewer system.
+A youth camp may provide for the following facilities:
+(aa) Recreational facilities limited to passive improvements, such as
+open areas suitable for ball fields, volleyball courts, soccer fields,
+archery or shooting ranges, hiking and biking trails, horseback
+riding or swimming that can be provided in conjunction with the
+site's natural environment. Intensively developed facilities such as
+tennis courts, gymnasiums, and golf courses are not allowed. One
+swimming pool may be allowed if no lake or other water feature
+suitable for aquatic recreation is located on the subject property or
+immediately available for youth camp use.
+(bb) Primary cooking and eating facilities must be included in a single
+building. Except in sleeping quarters, the governing body, or its
+designate, may allow secondary cooking and eating facilities in
+one or more buildings designed to accommodate other youth
+camp activities. Food services are limited to the operation of the
+youth camp and provided only for youth camp participants. The
+sale of individual meals may be offered only to family members or
+guardians of youth camp participants.
+(cc) Bathing and laundry facilities except that they cannot be provided
+in the same building as sleeping quarters.
+May 2026 16-71 LC 16.210
+(dd) Up to three camp activity buildings, not including primary cooking
+and eating facilities.
+(ee) Sleeping quarters including cabins, tents, or other structures.
+Sleeping quarters may include toilets, but, except for the
+caretaker's dwelling, cannot include kitchen facilities. Sleeping
+quarters can be provided only for youth camp participants and
+must not be offered as overnight accommodations for persons not
+participating in youth camp activities or as individual rentals.
+(ff) Covered areas that are not fully enclosed.
+(gg) Administrative, maintenance, and storage buildings; permanent
+structure for administrative services, first aid, equipment and
+supply storage, and for use as an infirmary if necessary or
+requested by the applicant.
+(hh) An infirmary may provide sleeping quarters for the medical care
+provider (e.g. Doctor, Registered Nurse, Emergency Medical
+Technician, etc.).
+(ii) A caretaker's residence may be established in conjunction with a
+youth camp, if no other dwelling exists on the subject property.
+A proposed youth camp must comply with the following fire safety
+requirements:
+(aa) The fire siting standards in Section (6).
+(bb) A fire safety protection plan must be developed for each youth
+camp that includes the following:
+(A) Fire prevention measures;
+(B) On site pre-suppression and suppression measures; and
+(C) The establishment and maintenance of fire safe area(s) in
+which camp participants can gather in the event of a fire.
+(cc) Except as determined under paragraph (3)(j)(v)(dd), a youth
+camp's on-site fire suppression capability must at least include:
+(A) A 1000 gallon mobile water supply that can access all
+areas of the camp;
+(B) A 30 gallon-per-minute water pump and an adequate
+amount of hose and nozzles;
+(C) A sufficient number of fire-fighting hand tools; and
+May 2026 16-72 LC 16.210
+(D) Trained personnel capable of operating all fire suppression
+equipment at the camp during designated periods of fire
+danger.
+(dd) An equivalent level of fire suppression facilities may be
+determined by the governing body, or it’s designate. The
+equivalent capability must be based on the Oregon Department of
+Forestry's (ODF) Wildfire Hazard Zone rating system, the
+response time of the effective wildfire suppression agencies, and
+consultation with ODF personnel if the camp is within an area
+protected by ODF and not served by a local structural fire
+protection provider.
+(ee) The provisions of paragraph (3)(j)(v)(dd) may be waived by the
+governing body, or its designate, if the youth camp is located in an
+area served by a structural fire protection provider and that
+provider informs Lane County in writing that on-site fire
+suppression at the camp is not needed.
+The Director, or its designate, requires as a condition of approval of a
+youth camp, that the land owner of the youth camp sign and record in the
+deed records for the county a document binding the land owner, or
+operator of the youth camp if different from the owner, and the land
+owner's or operator's successors in interest, prohibiting them from
+pursuing a claim for relief or cause of action alleging injury from farming
+or forest practices for which no action or claim is allowed under ORS
+30.936 or 30.937.
+(k) Storage structures for emergency supplies located west of the summit of the
+Coastal Range to serve communities and households located in tsunami
+inundation zones, as depicted on tsunami inundation maps prepared by
+Department of Geology and Mineral Industries (DOGAMI):
+Areas within an urban growth boundary cannot reasonably accommodate
+the structures;
+The structures are located outside tsunami inundation zones and
+consistent with evacuation maps prepared by Department of Geology and
+Mineral Industries (DOGAMI);
+Sites where the structure could be co-located with an existing use
+approved under this section are given preference for consideration;
+The structures are of a number and size no greater than necessary to
+accommodate the anticipated emergency needs of the population to be
+served;
+The structures are managed by a local government entity for the single
+purpose of providing for the temporary emergency support needs of the
+public; and
+May 2026 16-73 LC 16.210
+Notice of application for proposed storage structures is provided
+according to LC Chapter 14 to Lane County Emergency Management.
+ As used in this section, “storage structures for emergency supplies”
+means structures to accommodate those goods, materials and equipment
+required to meet the essential and immediate needs of an affected
+population in a disaster. Such supplies include food, clothing, temporary
+shelter materials, durable medical goods and pharmaceuticals, electric
+generators, water purification gear, communication equipment, tools and
+other similar emergency supplies.
+(l) Any Outdoor gathering of more than 3,000 people for more than 120 hours within
+any three-month period must comply with the following requirements:
+The applicant has complied or can comply with the requirements for an
+outdoor mass gathering permit set out in ORS 433.750;
+The proposed gathering is compatible with existing land uses;
+The proposed gathering shall not materially alter the stability of the overall
+land use pattern of the area; and
+The provisions of ORS 433.755 shall apply to the proposed gathering.
+(m) For single-family dwellings, the landowner must sign and record in the deed
+records for the County a document binding the landowner, and the landowner's
+successors in interest, prohibiting them from pursuing a claim for relief or cause
+of action alleging injury from farming or forest practices for which no action or
+claim is allowed under ORS 30.936 or 30.937.
+(n) For single-family dwellings, the approval is valid for four years from the date of
+approval, unless otherwise specified in the approval or by other provisions of
+Lane Code.  Notwithstanding the requirements of LC Chapter 14, an application
+for a two year extension of the timelines for the permit approval can be made and
+approved pursuant to LC Chapter 14.
+(o) If the proposed structure is located on the same site as the existing dwelling, the
+application is exempt from LC 16.210(5)(a). For the purpose of LC 16.210(3)(o),
+the “same site” is defined as a square with dimensions of 200 feet which is
+centered on the footprint of the established dwelling.
+(4) Conditional Use Review Criteria
+A Conditional Use listed in Table 16.210-1 of this zone that references this section may be
+allowed provided the following requirements are satisfied. These requirements are designed to
+make the use compatible with forest operations and agriculture and to conserve values found on
+forest lands.
+(a) The proposed use will not force a significant change in, or significantly increase
+the cost of, accepted farming or forest practices on agriculture or forest lands.
+May 2026 16-74 LC 16.210
+(b) The proposed use will not significantly increase fire hazard or significantly
+increase fire suppression costs or significantly increase risks to fire suppression
+personnel.
+(c) A written statement recorded with the deed or written contract with the county or
+its equivalent is obtained from the land owner that recognizes the rights of
+adjacent and nearby land owners to conduct forest operations consistent with the
+Forest Practices Act and Rules for Use 2.3, Use 3.6, Use 3.10, Use 6.6, and Use
+7.8.
+(d) For Use 4.3: the use will not significantly conflict with the existing uses on
+adjacent and nearby lands.
+(5) Siting Standards for Uses, Activities, and Structures
+The following siting criteria apply to all new uses, activities, and structures allowed by LC
+16.210. These criteria are designed to make such uses compatible with forest operations, to
+minimize wildfire hazards and risks and to conserve values found on forest lands. The Director
+must consider the criteria in this section together with the requirements of Section (6) to identify
+the building site.
+(a) Residences, dwellings, and structures must be sited as follows:
+
+(b) Setbacks. Structures other than a fence or sign cannot be located closer than:
+20 feet from the right-of-way of a state road, County road, or a local
+access public road specified in LC Chapter 15.
+30 feet from all property lines other than those described in Section
+(5)(b)(i).
+The minimum distance necessary to comply Sections (5)(a) and (6).
+May 2026 16-75 LC 16.210
+Riparian Setback Area. A riparian setback area applies to the area
+between a line that is 100 feet from and parallel to the ordinary high water
+of a Class I stream designated in the Rural Comprehensive Plan. No
+structure other than a fence may be located closer than 100 feet from the
+ordinary high water of a Class I stream unless an application for
+alternative standards is approved in accordance with LC 16.253(6).
+Vegetation maintenance, removal, and replacement standards and
+exceptions to these setbacks are found in LC 16.253.
+(c) Domestic Water Supplies.  For new dwellings and non-farm structures on vacant
+land, evidence must be provided that the domestic water supply is from a source
+authorized in accordance with the Water Resources Department's administrative
+rules for the appropriation of ground water or surface water and not from a Class
+II stream as defined in the Forest Practices Rule, OAR Chapter 629.  If the water
+supply is unavailable from public sources or sources located entirely on the
+property, then the applicant must provide evidence that a legal easement has
+been obtained permitting domestic water lines to cross the properties of affected
+owners.  For purposes of LC 16.210(5)(c) above, evidence of domestic water
+supply means:
+Verification from a water purveyor that the use described in the
+application will be served by the purveyor under the purveyor's rights to
+appropriate water;
+A water use permit issued by the Water Resources Department for the
+use described in the application; or
+Verification from the Water Resources Department that a water use
+permit is not required for the use described in the application. If the
+proposed water supply is from a well and is exempt from permitting
+requirements under ORS 537.545, the applicant must submit the well
+constructor's report to the Director upon completion of the well.
+(d) As a condition of approval, if road access to the dwelling is by a road owned and
+maintained by a private party or by the Oregon Department of Forestry, the U.S.
+Bureau of Land Management, or the U.S. Forest Service, then the applicant must
+provide proof of a long-term road access use permit or agreement. The road use
+permit may require the applicant to agree to accept responsibility for road
+maintenance.
+(e) Approval of a dwelling is subject to the following requirements:
+Approval of a dwelling requires the owner of the tract to plant a sufficient
+number of trees on the tract to demonstrate that the tract is reasonably
+expected to meet Department of Forestry stocking requirements at the
+time specified in department of Forestry administrative rules.
+The Director must notify the County Assessor of the above condition at
+the time the dwelling is approved.
+Stocking survey report:
+May 2026 16-76 LC 16.210
+(aa) If the lot or parcel is more than ten acres, the property owner must
+submit a stocking survey report to the County Assessor and the
+Assessor will verify that the minimum stocking requirements have
+been met by the time required by Department of Forestry rules;
+and
+(bb) Upon notification by the Assessor, the Department of Forestry will
+determine whether the tract meets minimum stocking
+requirements of the Forest Practices Act. If the Department of
+Forestry determines that the tract does not meet those
+requirements, that department will notify the owner and the
+Assessor that the land is not being managed as forest land. The
+Assessor will then remove the forest land designation pursuant to
+ORS 321.359 and impose the additional tax.
+(f) Signs.
+Signs cannot extend over a public right-of-way or project beyond the
+property line;
+Signs cannot be illuminated, flashing, blinking, contain scrolling images,
+or capable of movement; and
+Signs are to be limited to 200 square feet in area.
+(6) Fire-Siting Standards for Dwellings and Structures
+The following fire-siting standards or their equivalent apply to new residences, dwellings,
+manufactured dwellings, or structures allowed in Lane Code 16.210:
+(a) The dwelling must be located upon a parcel within a fire protection district or
+must be provided with residential fire protection by contract. If the dwelling is not
+within a fire protection district, the applicant must provide evidence that the
+applicant has asked to be included within the nearest such district. If the Director
+determines that inclusion within a fire protection district or contracting for
+residential fire protection is impracticable, the dwelling must comply with the
+following fire safety plan requirements:
+The means selected may include a fire sprinkling system, onsite
+equipment and water storage or other methods that are reasonable, given
+the site conditions;
+If a water supply is required for fire protection, it must be a swimming
+pool, pond, lake, or similar body of water that at all times contains at least
+4,000 gallons or a stream that has a continuous year round flow of at
+least one cubic foot per second;
+The applicant must provide verification from the Water Resources
+Department that any permits or registrations required for water diversion
+or storage have been obtained or that permits or registrations are not
+required for the use;
+May 2026 16-77 LC 16.210
+Road access must be provided to within 15 feet of the water's edge for
+firefighting pumping units. The road access must accommodate the
+turnaround of firefighting equipment during the fire season. Permanent
+signs must be posted along the access route to indicate the location of
+the emergency water source; and
+A 100-foot wide primary safety zone and a 100-foot wide secondary
+safety zone surrounding the perimeter of the dwelling or manufactured
+dwelling structures must be provided and maintained in perpetuity in
+compliance with the standards in (6)(c).
+(b) Fire Safety Design Standards for Roads and Driveways.
+Private driveways, roads or bridges accessing only commercial forest
+uses are not subject to compliance with these fire safety design standards
+for roads and driveways. The route of access for firefighting equipment,
+from the fire station to the destination point, across public roads, bridges,
+private roads or private access easements and driveways must comply
+with the standards specified below. Evidence of compliance with the
+standards specified in (6)(b) should include objective information about
+the firefighting equipment, the physical nature of the access route, the
+nature of any proposed improvements to the access route, and it may
+also include a written verification of compliance from the agency providing
+fire protection, or a written certification of compliance from an Oregon
+Registered Professional Engineer.  As used herein, "road" means a way
+of access used for more than one use and accessory uses. As used
+herein, "driveway" means a way of access used for only one dwelling.
+Road and Driveway Surfaces.  Roads must have unobstructed widths of
+at least 20 feet including:  travel surfaces with widths of at least 16 feet
+constructed with gravel to a depth sufficient to provide access for fire
+fighting vehicles and containing gravel to a depth of at least six-inches or
+with paving having a crushed base equivalent to six inches of gravel, an
+unobstructed area two feet in width at right angles with each side of the
+constructed surface, curve radii of at least 50 feet, and a vertical
+clearance of at least 13 feet 6 inches.  Driveways must have:  constructed
+widths of at least 12 feet with at least six inches of gravel or with paving
+having a crushed base equivalent to six inches of gravel and must have a
+vertical clearance of 13 feet 6 inches.
+Turnarounds.  Any dead-end road over 200 feet in length and not
+maintained by Lane County must meet these standards for turnarounds.
+Dead-end roads must have turnarounds spaced at intervals of not more
+than 500 feet.  Turnarounds must comply with these design and
+construction standards:
+May 2026 16-78 LC 16.210
+(aa) Hammerhead Turnarounds.  Hammerhead turnarounds (for
+emergency vehicles to drive into and back out of to reverse their
+direction on the road) must intersect the road as near as possible
+at a 90 degree angle and extend from the road at that angle for a
+distance of at least 20 feet.  They must be constructed to the
+standards for driveways in LC 16.210(6)(b)(i) above and must be
+marked and signed by the applicant as "NO PARKING."  Such
+signs must be of metal or wood construction with minimum
+dimensions of 12 inches by 12 inches; or
+(bb) Cul-de-sac Turnarounds.  Cul-de-sac turnarounds must have a
+right-of-way width with a radius of at least 45 feet and an improved
+surface with a width of at least 36 feet and must be marked and
+signed by the applicant as "NO PARKING."  Such signs must be
+of metal or wood construction with minimum dimensions of 12
+inches by 12 inches; and
+(cc) Cul-de-sacs or hammerhead turnarounds cannot cross any slope
+which will allow chimney-effect draws unless the dangerous
+effects of the chimney-effect draws have been mitigated by the
+location of the road and, where necessary, by the creation of
+permanent fire breaks around the road.
+Bridges and Culverts.  Bridges and culverts must be constructed to
+sustain a minimum gross vehicle weight of 50,000 lbs. and to maintain a
+minimum 16-foot road width surface or a minimum 12-foot driveway
+surface.  The Planning Director may allow a single-span bridge utilizing a
+converted railroad flatcar as an alternative to the road and driveway
+surface width requirements, subject to verification from an engineer
+licensed in the State of Oregon that the structure will comply with the
+minimum gross weight standard of 50,000 lbs.
+Road and Driveway Grades.  Road and driveway grades cannot exceed
+16 percent except for short distances when topographic conditions make
+lesser grades impractical.  In such instances, grades up to 20 percent
+may be allowed for spans not to exceed 100 feet.  An applicant must
+submit information from a Fire Protection District or engineer licensed in
+the State of Oregon demonstrating that road and driveway grades in
+excess of eight percent are adequate for the firefighting equipment of the
+agency providing fire protection to access: the use, firefighting equipment,
+and water supply.
+Identification.  Roads must be named and addressed in compliance with
+LC 15.305 through 15.335.
+May 2026 16-79 LC 16.210
+Driveway Vehicle Passage Turnouts.  Driveways in excess of 200 feet
+must provide for a 20-foot long and eight-foot wide passage space (turn
+out) with six inches in depth of gravel and at a maximum spacing of 400
+feet.  Shorter or longer intervals between turnouts may be authorized by
+the Planning Director where the Director inspects the road and
+determines that topography, vegetation, corners or turns obstruct
+visibility.
+Modifications and Alternatives. The standards in (6)(b)(i) through
+(6)(b)(vii) above may be modified by the approval authority provided the
+applicant has submitted objective evidence demonstrating that an
+alternative standard would insure adequate access for firefighting
+equipment from its point of origination to its point of destination.
+(c) Fuel-Free Breaks.  The owners of dwellings and structures must maintain a
+primary safety zone surrounding all structures and clear and maintain a
+secondary safety zone on land surrounding the dwelling that is owned or
+controlled by the owner in compliance with these requirements.
+Primary Safety Zone.  The primary safety zone is a fire break extending a
+minimum of 30 feet in all directions around dwellings, manufactured
+dwellings and structures, unless otherwise specifically stated in LC
+16.210.  The goal within the primary safety zone is to exclude fuels that
+will produce flame lengths in excess of one foot.  Vegetation within the
+primary safety zone could include green lawns and low shrubs (less than
+24 inches in height).  Trees must be spaced with greater than 15 feet
+between the crown and pruned to remove dead and low (less than eight
+feet) branches.  Accumulated leaves, needles, and other dead vegetation
+must be removed from beneath trees.  Nonflammable materials (i.e.,
+rock) instead of flammable materials (i.e., bark mulch) must be placed
+next to the house.
+(aa) As slope increases, the primary safety zone must increase away
+from the house, parallel to the slope and down the slope, as
+shown in the table and figure below:
+Table 16.210-2 Minimum Primary Safety Zone
+
+Slope
+Feet of Primary
+Safety Zone
+Feet of Additional Primary
+Safety Zone Down Slope
+0%  30  0
+10%  30  50
+20%  30  75
+25%  30  100
+40%  30  150
+
+May 2026 16-80 LC 16.210
+Figure 16.210-1
+
+Secondary Safety Zone.  The secondary safety zone is a fuel break
+extending a minimum of 100 feet in all directions around the primary
+safety zone.  The goal of the secondary safety zone is to reduce fuels so
+that the overall intensity of any wildfire would be lessened and the
+likelihood of crown fires and crowning is reduced.  Vegetation within the
+secondary safety zone must be pruned and spaced so that fire will not
+spread between crowns of trees.  Small trees and brush growing
+underneath larger trees must be removed to prevent spread of fire up into
+the crowns of the larger trees.  Dead fuels must be removed.
+(d) The dwelling must have a fire retardant roof.
+(e) Dwellings or manufactured dwellings must be sited at least 30 feet away from a
+ravine, ridge, or any slope greater than 40 percent slope.
+(f) If the dwelling has a chimney or chimneys, each chimney must have a spark
+arrester.
+(7) Land Divisions
+(a) The minimum area requirement for the creation of new or adjusted lots or parcels
+for land designated as Nonimpacted Forest Land (F-1) is 80 acres. The creation
+of a new or adjusted lot or parcel must comply with LC Chapter 13.
+May 2026 16-81 LC 16.210
+(b) New land divisions or adjustments less than the parcel size in Subsection (a)
+may be approved in accordance with LC Chapter 13 for any of the following
+circumstances:
+The following uses in Table 16.210-1 may be approved pursuant to the
+criteria in Section (4) and provided that the parcel created from the
+division is the minimum size necessary for the use:
+(aa) Use 4.1. Exploration for and production of geothermal, gas, oil and
+other associated hydrocarbons
+(bb) Use 1.4. Log scaling and weigh stations
+(cc) Use 3.7. Permanent facility for the primary processing of forest
+products.
+(dd) Use 3.8. Permanent logging equipment repair and storage.
+(ee) Use 4.3. Mining and processing of oil, gas, or other subsurface
+resources, as defined in ORS Chapter 520, and not otherwise
+permitted, and mining and processing of aggregate and mineral
+resources as defined in ORS Chapter 517.
+(ff) Use 6.2. Water intake facilities, related treatment facilities,
+pumping stations, and distribution lines.
+(gg) Use 6.4. Television, microwave and radio communication facilities
+and transmission towers.
+(hh) Use 6.7. Reservoirs and water impoundments
+(ii) Use 6.8. Commercial power generating facilities
+(jj) Use 7.3. Aides to navigation and aviation
+(kk) Use 7.4. Firearms training facilities
+(ll) Use 7.5. Fire stations for rural fire protection
+(mm) Use 7.6. Cemeteries.
+(nn) Use 7.7. Public parks
+(oo) Use 7.8. Private parks and campgrounds
+For the establishment of a parcel for a dwelling that has existed since
+before June 1, 1995, subject to the following requirements:
+(aa) The parcel established may not be larger than five acres, except
+as necessary to recognize physical factors such as roads or
+streams, in which case the parcel cannot be larger than 10 acres;
+and
+May 2026 16-82 LC 16.210
+(bb) The parcel that does not contain the dwelling is not entitled to a
+dwelling unless subsequently authorized by law or goal and the
+parcel either:
+(A) Meets the minimum land division standards of the zone; or
+(B) Is consolidated with another parcel, and together the
+parcels meet the minimum land division standards of the
+zone.
+(cc) Restrictions
+(A) An application for the creation of a parcel pursuant to
+paragraph (7)(b)(ii) or (iii) must provide evidence that a
+restriction on the remaining parcel, not containing the
+dwelling, has been recorded with the county clerk. The
+restriction must prohibit dwellings unless authorized by law
+or goal on land zoned for forest use except as permitted
+under Subsection (b).
+(B) A restriction imposed under this subsection is irrevocable
+unless a statement of release is signed by the county
+planning director of the county where the property is
+located indicating that the comprehensive plan or land use
+regulations applicable to the property have been changed
+in such a manner that the parcel is no longer subject to
+statewide planning goals pertaining to agricultural land or
+forest land.
+
+To allow a division of forest land to facilitate a forest practice as defined in
+ORS 527.620 that results in a parcel that does not meet the minimum
+area requirements of Subsection (a). Approvals are based on findings
+that demonstrate that there are unique property specific characteristics
+present in the proposed parcel that require an amount of land smaller
+than the minimum area requirements of Subsection (a) in order to
+conduct the forest practice. Parcels created pursuant to this paragraph:
+(aa) Are not eligible for siting of a new dwelling;
+(bb) May not serve as the justification for the siting of a future dwelling
+on other lots or parcels;
+(cc) May not, as a result of the land division, be used to justify
+redesignation or rezoning of resource lands; and
+(dd) May not result in a parcel of less than 35 acres, unless the
+purpose of the land division is to:
+May 2026 16-83 LC 16.210
+(A) Facilitate an exchange of lands involving a governmental
+agency; or
+(B) Allow transactions in which at least one participant is a
+person with a cumulative ownership of at least 2,000 acres
+of forest land.
+To allow a division of a lot or parcel zoned for forest use if:
+(aa) At least two dwellings lawfully existed on the lot or parcel prior to
+November 4, 1993;
+(bb) Each dwelling complies with the criteria for a replacement dwelling
+under paragraph (3)(a)(i);
+(cc) Except for one parcel, each parcel created under this paragraph is
+between two and five acres in size;
+(dd) At least one dwelling is located on each parcel created under this
+paragraph; and
+(ee) The landowner of a parcel created under this paragraph provides
+evidence that a restriction prohibiting the landowner and the
+landowner’s successors in interest from further dividing the parcel
+has been recorded with the county clerk of the county in which the
+parcel is located. A restriction imposed under this paragraph is
+irrevocable unless a statement of release is signed by the county
+planning director of the county in which the parcel is located
+indicating that the comprehensive plan or land use regulations
+applicable to the parcel have been changed so that the parcel is
+no longer subject to statewide planning goals protecting forestland
+or unless the land division is subsequently authorized by law or by
+a change in a statewide planning goal for land zoned for forest
+use.
+(ff) A lot or parcel may not be divided if an existing dwelling on the lot
+or parcel was approved under a statute, an administrative rule or a
+land use regulation as defined in ORS 197.015 that required
+removal of the dwelling or that prohibited subsequent division of
+the lot or parcel.
+A division of a lot or parcel if the proposed division of land is for the
+purpose of allowing a provider of public parks or open space, or a not-for-
+profit land conservation organization, to purchase one of the resulting
+parcels as provided in (aa) through (dd) below:
+(aa) A parcel created by the land division that is not sold to a provider
+of public parks or open space or to a not-for-profit land
+conservation organization must comply with the following:
+May 2026 16-84 LC 16.210
+(A) If the parcel contains a dwelling or another use allowed
+under LC 16.210, the parcel must be large enough to
+support continued residential use or other allowed use of
+the parcel;
+(B) If the parcel does not contain a dwelling, the parcel is
+eligible for siting a dwelling as may be authorized under
+ORS 195.120 or as may be authorized under ORS
+215.705, based on the size and configuration of the parcel.
+(bb) Before approving a proposed division of land under this section,
+the Planning Director must require as a condition of approval that
+the provider of public parks or open space, or the not-for-profit
+conservation organization, present for recording in Lane County
+Deeds and Records, an irrevocable deed restriction prohibiting the
+provider or organization and their successors in interest from:
+(A) Establishing a dwelling on the parcel or developing the
+parcel for any use not authorized in LC 16.210 except park
+or conservation uses; and
+(B) Pursuing a cause of action or claim of relief alleging an
+injury from farming or forest practices for which a claim or
+action is not allowed under ORS 30.936 or 30.937.
+(cc) If a proposed division of land under (7)(b)(v) results in the
+disqualification of a parcel for a special assessment described in
+ORS 308A.718 or the withdrawal of a parcel from designation as
+riparian habitat under ORS 308A.365, the owner must pay
+additional taxes as provided under ORS 308A.371 or 308A.700 to
+308A.733 before the Planning Director may approve the division.
+(dd) The Planning Director is required to maintain a record of lots and
+parcels that do not qualify for development of the property under
+restrictions imposed by (7)(b)(v)(aa)(B) above. The record must be
+readily available to the public.
+A division of a lawfully established unit of land may occur along an
+acknowledged urban growth boundary where the parcel remaining
+outside the urban growth boundary is zoned as F-1 and is smaller than 80
+acres, provided that:
+(aa) If the parcel contains a dwelling, it must be large enough to
+support continued residential use.
+(bb) If the parcel does not contain a dwelling, the parcel:
+(A) Is not eligible for siting a dwelling, except as may be
+authorized under ORS 195.120;
+May 2026 16-85 LC 16.210
+(B) May not be considered in approving or denying an
+application for siting any other dwelling; and
+(C) May not be considered in approving a redesignation or
+rezoning of forest lands, except to allow a public park,
+open space, or other natural resource use.
+(c) A landowner allowed a land division under Subsection (b) must record with the
+county clerk an irrevocable deed restriction prohibiting the owner and all
+successors in interest from pursuing a cause of action or claim of relief alleging
+injury from farming or forest practices for which a claim or action is not allowed
+under ORS 30.936 or 30.937.
+(d) The Director or hearing authority may not approve a property line adjustment
+of a lot or parcel in a manner that separates a temporary hardship dwelling or
+home occupation from the parcel on which the primary residential use exists.
+(8) Telecommunication Facilities
+Telecommunication facilities are allowed subject to compliance with the requirements of LC
+16.264 and applicable requirements elsewhere in LC Chapter 16. (Revised: Ordinance: 20-06, Date
+Passed: 6.16.20; 25-07; 5.5.2026)
+
+This space intentionally left blank.
+
+PAGES 16-87 THROUGH 16-91
+ARE RESERVED FOR FUTURE EXPANSION

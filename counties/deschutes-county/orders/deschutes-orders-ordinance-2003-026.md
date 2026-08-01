@@ -1,0 +1,217 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2003-026
+title: 'Ordinance No. 2003-026'
+doc_type: ordinance
+citation: 'Ordinance No. 2003-026'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616819455_2003-1064-Ordinance%20No.%202003-026%20Recorded%207_10_2003.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 997908390592972465fd72cdaa6a5ce632313920ebebca7eb4daa62bea99d480
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2003-026 (Ordinance No. 2003-026)
+
+## At a glance
+
+Ordinance No. 2003-026 — orders of Deschutes County. 4 pages.
+
+## Full text
+
+REVIEWED
+LEGAL COUNSEL
+REVIEWED
+V Qr
+CODE REVIEW COMMITTEE
+DESCHUTES
+COUNTY CLERK CJ1003.1064NANCY
+COMMISSIONERS' JOURNAL
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+07I10IZ0O302;56;14PM
+2003- 1064
+For Recording Stamp Only
+BEFORETHE BOARD OF COUNTY COMMISSIONERSOFDESCHUTESCOUNTY, OREGON
+An Ordinance Amending Title 18 of the
+DeschutesCountyCode, theDeschutesCounty * ORDINANCE NO. 2003- 026
+ZoningOrdinance, to RemovetheMulti -family
+use limitation within the Sunriver Commercial
+Zone, and Declaring an Emergency.
+WHEREAS, on March 17, 2003, Herb Hoffart submittedto DeschutesCounty an applicationfor a
+ComprehensivePlanandZoningOrdinanceAmendmentto removethe multi -family limitationwithin the
+Commercial area of the Sunriver Urban Unincorporated Community; and
+WHEREAS, onMay22, 2003, thePlanningCommissionhelda dulynoticedpublichearingonthe
+application and voted to recommend to the Board of County Commissioners (" Board") approval of the proposed
+amendments; and
+WHEREAS, on July 2, 2003, the Board held a duly noticed public hearing on the proposed
+amendments; and
+WHEREAS, the Board approvedthe ComprehensivePlan Amendmentsin OrdinanceNo. 2003-027,
+incorporatedby referenceherein, andthe text amendmentsin Exhibit "A," attached and incorporated by
+reference herein, are necessaryto implement the ComprehensivePlan, now, therefore,
+THE BOARD OFCOUNTY COMMISSIONERSOF DESCHUTESCOUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 18.108.050, Urban Unincorporated Community Zone — Sunriver,
+Commercial District, is amended to read as described in Exhibit " A," attached hereto and by this reference
+incorporated herein, with new languageunderlined and languageto be deleted in st ilk.
+PAGE 1 OF 2 - ORDINANCE NO. 2003- 026 ( 07/ 09/ 03)
+5r
+Section 2. EMERGENCY. This Ordinance being necessary for the immediate preservation of the
+publicpeace, healthandsafety, anemergencyis declaredto exist, andthis Ordinancetakeseffectonits passage.
+DATED this 0/ 1-6dayof ' 2003.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHU S COUNTY, OREGON
+DENNIS R. LUKE, C air
+TOM DEWOLF, Commissioner
+Date of I" Reading: day of , 2003.
+Date of 2"
+d
+Reading: day of , 2003.
+Record of Adoption Vote
+Commissioner Yes No Abstained
+Dennis R. Luke
+Tom DeWolf 7
+Michael M. Daly
+Excused
+Effective date: day of , 2003.
+ATTEST:
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2003- 026( 07/ 09/ 03)
+DALY,
+EXHIBIT " A"
+Chapter 18. 108. URBAN B. Conditional Uses Permitted. The following
+UNINCORPORATED COMMUNITY ZONE conditional uses may be permitted subject to
+SUNRIVER DCC 18. 128 and a conditional use permit.
+1. Public buildings and public utility
+18. 108. 050. Commercial - C District. buildings and structures.
+A. Uses Permitted Outright. Any combination
+2. Club, lodge or fraternal organization.
+3. Commercial off- streetparking lot. of the following usesandtheir accessoryuses 4. Bus passenger station.
+are permitted outright in the C district.
+5. Interval ownership and/or time- share unit1. Recreational path.
+or the creation thereof.
+2. Ambulance service.
+6. Miniature golf.
+3. Library. 7. Bed and breakfast inn.
+4. Church.
+8. Inn.
+5. Bus stop. 9. Residential facility. 6. Community center. 10. A building or buildings each not
+7. A building or buildings each not
+exceeding 8,000 square feet of floorexceeding 8,000 square feet of floor spacehousing any combination of: spacehousing any combination o£ a. Bowling alley.
+a. Retail/ rental store, office and service
+b. Car wash.
+establishment.
+b. Art galleries
+c. Dancing or music school, nursery
+C. Dry cleaner and/ or self- service
+school, kindergarten and day-care
+laundry establishment. facility.
+d. Theater exceeding 4,000 square feetd. Radio and television sales and
+in floor area.
+service.
+e. Radio and television broadcasting
+e. Veterinary clinic or kennel operated
+studios and facilities, except towers. entirely within an enclosedbuilding.
+f Restaurant, bar and cocktail lounge,
+f. Automotive repair and maintenance
+including entertainment.
+garage, or tire store, provided the
+g. Automobile service station. business is wholly conducted within
+h. Technical and business school. an enclosedbuilding.
+i. Catering establishment. C. Use Limits.
+j. Crafts in conjunction with retail sales 1. Multiple -family residential dwelling
+occurring on premises, such as units, allowed on -
+w -,:.....
+y 3f th fee
+stained glass/ pottery, etc.). aer- es— e€ the nine acres vacant as of
+k. Medical and dental clinic, office and December 31, 1997 in the C District,
+laboratory. shall be subject to the provisions of DCC
+1. Theater not exceeding 4,000 square 18.108.040(C) and (D), andthe following
+feet of floor area. requirements:
+8. Multiple - family residential dwelling a. No dwelling unit shall have more
+units, subject to the provisions of DCC than three bedrooms.
+18. 108. 050( C)( 1). b. Individual dwelling units shall not
+9. Residential dwelling units constructed in exceed 2, 250 square feet of habitable
+the same building as a commercial use, floor area.
+subject to the provisions of DCC c. One off-streetparking spaceshall be
+18. 108. 050( C)( 2). provided for each bedroom within
+10. Post Office. each dwelling unit, with a maximum
+11. Administrative and office facility of two spacesallowed per dwelling
+associated with a community association unit.
+or community use. 2. Residential dwelling units constructed in
+12. Police facility. the same building as a commercial use
+PAGE 1 of 2 — EXHIBIT " A" TO ORDINANCE 2003- 026 ( 07/ 09/ 03)
+Y'
+EXHIBIT " A"
+developed in the C district shall be 4. Front Yard. The front yards shall be a
+subjectto the following requirements: minimum of 10 feet.
+a. Residential dwelling units shall be 5. Side Yard. None, except when a side lot
+developed above first floor line is adjoining a lot in an RS or RM
+commercial use. District, and then the side yard shall be a
+b. No dwelling unit shall have more minimum of 10 feet. The required side
+than two bedrooms. yards shall be increasedby one-half foot
+c. Individual dwelling units shall not for each foot by which the building
+exceed 850 square feet of floor area. height exceeds 20 feet.
+d. One off- streetparking spaceshall be 6. Rear Yard. None, except when a rear lot
+provided for each bedroom within line is adjoining a lot in an RS or RM
+eachdwelling unit. District, and then the rear yard shall be a
+3. Uses permitted either outright or minimum of 10 feet. The required rear
+conditionally in the C District shall not yard shall be increasedby one-half foot
+involve the transport of chemicals which for each foot by which the building
+would present a significant hazard. height exceeds 20 feet.
+D. Special Requirements for Large Scale Uses.
+7. Lot Coverage. No requirements.
+Any of the uses listed in DCC
+Ord. 2003- 026 § 1, 2003; Ord. 98- 016 § 1,
+18. 108. 050( A)( 7) or DCC 18. 108. 050( B)( 10)
+1998; Ord. 97- 078 § 2, 1997)
+may be allowed in a building or buildings
+each exceeding 8,000 square feet of floor
+space if the Planning Director or Hearings
+Body finds:
+1. That the intended customers for the
+proposed use will come from the
+community and surrounding rural area, or
+the use will meet the needs of the people
+passing through the area. For the
+purposes of DCC 18. 108. 050( D), the
+surrounding rural area shall be that area
+identified as all property within five
+miles of the boundary of the Sunriver
+Urban Unincorporated Community;
+2. The use will primarily employ a work
+force from the community and
+surrounding rural area; and
+3. That it is not practical to locate the use in
+a building or buildings under 8,000
+square feet of floor space.
+E. Height Regulations. No building or structure
+shall be hereafter erected, enlarged or
+structurally altered to exceed 30 feet in
+height.
+F. Lot Requirements. The following lot
+requirements shall be observed:
+1. Lot Area. No requirements.
+2. Lot Width. No requirements.
+3. Lot Depth. 100 feet.
+PAGE 1 of 2 — EXHIBIT " A" TO ORDINANCE 2003- 026 ( 07/ 09/ 03)

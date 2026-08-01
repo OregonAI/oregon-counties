@@ -1,0 +1,333 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-98-037
+title: 'Ordinance No. 98-037'
+doc_type: ordinance
+citation: 'Ordinance No. 98-037'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616799297_1998-45604-Ordinance%20No.%2098-037%20Recorded%208_31_1998.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e0ac328d7d2e0e3638a87c3b79331f80a4d1cf8d6f4ee48452e3152807eec091
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 98-037 (Ordinance No. 98-037)
+
+## At a glance
+
+Ordinance No. 98-037 — orders of Deschutes County. 4 pages.
+
+## Full text
+
+N REVIEWED AS TO FORM REVIEWED
+169 0044
+CODE REVIEW COMM.
+95.. 45604
+LEGAL COUNSEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESC1 UTES COUNTY, O UN
+An Ordinance Amending Title 18, the Deschutes * 3,:: to"
+CountyZoningOrdinance, Relatingto Nonconforming * ;-
+CO
+Uses and Declaring an Emergency. * -? G
+r ( P GI
+ORDINANCE NO. 98- 037
+a'
+rfi
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY--v6kE N,
+ORDAINS as follows: c' N
+Section 1. AMENDING. Deschutes County Code Section 18.120.010, Nonconforming
+uses, is amended to read as set forth in Exhibit " A," attached hereto and by this reference incorporated
+herein, with new language underlined and language to be deleted in str-ikethFeegk.
+Section 2. EMERGENCY. This ordinance being necessaryfor the immediate preservation
+of the public peace, health and safety, an emergency is declared to exist, and this ordinance takes effect
+on its passage.
+DATED this 26h day of August, 1998.
+ATTEST:
+Recording Secretary
+BOARD OF COUNTY COMMISSIONERS OF
+MICROFILMED CSEPU ii'
+OC  141998 6z"Ti 1N' 3
+PAGE I of 1 - ORDINANCE No. 98- 037 ( 8/ 26/ 98)
+EXHIBIT " A" 169 0045
+18.120.010. Nonconforming uses.
+Except as otherwise provided in this title,
+the lawful use of a building, structure or land
+existing on the effective date of this title, or -any
+amendment thereto or any ordinance codified
+therein may be continued although such use or
+structure does not conform with the standards
+for new development specified in this title. A
+nonconforming use or structure may be altered,
+restored or replaced subject to this section. No
+nonconforming use or structure may be resumed
+after a one year period of interruption or
+abandonment unless the resumed use conforms
+with the provisions of this title in effect at the
+time of the proposed resumption.
+A. Expansion or Replacement of a
+Nonconforming Structure.
+1. Nonconforming Structure. For the
+purposes of this section, a nonconforming
+structure is one that was lawfully established
+and violates current setbacks of this title but
+conforms with respect to use.
+2. Replacement or Expansion without
+Additional Encroachment in Setback Area. A
+nonconforming structure may be replaced with a
+new structure of the same size on the same
+footprint as the preexisting nonconforming
+structure or may be expanded with an addition
+thatdoesnot projectinto thesetbackareaat any
+point along the footprint of the structure, subject
+to all other applicable provisions of this title.
+3. Replacement or Expansion with
+Additional Encroachment in Setback Area.
+Replacementor expansionof a nonconforming
+structure that would involve an additional
+projection into the front, side or rear yard
+setback area at any point along the footprint of
+the existing or preexisting structure may be
+allowed provided such additional projection into
+the setback area ( 1) does not exceed 900 square
+feet; ( 2) does not exceed the floor space of the
+existing or preexisting structure; ( 3) does not
+cause the structure to project further toward the
+front, side or rear property lines than the closest
+point of the existing or preexisting structure;
+and ( 4) meets the variance approval standards
+set forth in paragraphs 18. 132. 025( A)( 1),
+A)( 2), ( A)( 3) and ( A)( 4) of this title.
+Such replacements or expansions must
+conform with all other applicable provisions of
+this title.
+B. Verification of Nonconforming Use.
+1. Subject to the procedures set forth in
+this section and in ehapte '',x: 40 Title 22 of the
+county codefor processingdeclaratoryrulings,
+the planning division will verify whether or not
+a use constitutes a valid nonconforming use in
+accordance with the provisions of this section
+and applicable state law. Verification of the
+existence of a nonconforming use is required
+prior to or concurrent with any application to
+alter or restore the use. The bur -den of preen
+shall be on the appliea-at ty- cderaenstrate its
+la-wful e ; sten,,,
+2. Subject to paragraph ( F)( 2) of this
+section, the The applicant shall demonstrate all
+of the following:
+a4 -.The nonconforming use was lawfully
+established on or before the effective date of the
+provisions of this - title the zoning ordinance
+prohibiting the use:
+2. The nefieenfefminget, I1
+of this title prohibiting the use, or had proceeded
+so far toward lawful completion as of the date it
+became nonconforming that a right to complete
+and maintain the use would be vested.. -i
+b3.The nonconforming use as it existed on
+the dateit becamenonconforming, considering
+the nature and the extent of the actual use of the
+propegy, has net beeninterr pted continued
+without abandonment or interruption for
+periedin excess — e€ ene- year or
+wed; and
+c. Any alteration in the nature and extent
+of the nonconforming use was done in
+compliance with applicable zoning ordinance
+standards governing alterations of
+nonconforming uses.
+3. For purposes of determining whether an
+abandonment or interruption of use has occurred
+the followingshallhall apply:
+a. The reference period for determining
+whether an abandonment or interruption of a
+nonconforming use or an aspect thereof has
+occurred shall be one year.
+PAGE 1 OF 3 - EXHIBIT " A" TO ORDINANCE NO. 98- 037 ( 8/ 26/ 98)
+EXHIBIT " A"
+b. An abandonment or interruption in a use
+or portion thereof may arise from the complete
+cessation of actual use of a property for a one-
+year period or may arise from a change in the
+nature or extent of the use made of the property
+for a one -:year period or more.
+c. An interruption or abandonment that
+constitutes less than full cessation of the use or a
+portion thereof may, in accordance with
+paragraph ( F)( 4) of this section, result in a
+declaration of a continuing use, but of a lesser
+intensity or scope than what would have been
+allowable if the nature and extent of the use as of
+the date it becamenonconforming had continued.
+d. Absent an approved alteration, a change
+in the nature of the use may result in a
+determination that the use has been abandoned or
+has ceased if there are no common elements
+between the activities of the previous use and the
+current use.
+e. Changeof ownership or occupancy shall
+not constitute an interruption or abandonment
+provided that, absent an approved alteration the
+continuing use made of the property falls within
+the allowed scopeof use made of the property by
+previous owners or occupants.
+f. Factors to be considered in determining
+whether there has been a change in the nature
+and/ or extent of a use shall include, but are not
+limited to, consideration of the type of activities
+being conducted, the operating characteristics of
+the activities associated with the use ( including
+off- site impacts of those activities), the frequency
+of use, the hours of operation, changes_ in
+structures associated with the use and changes in
+the degree to which the activities associated with
+the use occupy the site.
+C. Maintenance of a Nonconforming Use.
+Normal maintenance of a verified
+nonconforming use or structure shall be
+permitted. Maintenance does not include
+alterations which are subject to paragraph
+subsection ( E) below - of this section.
+D. Restoration or Replacement of a
+Nonconforming Use. A verified nonconforming
+use may be restored or replaced if all of the
+following criteria are met:
+1. Restoration is made necessary by fire,
+natural disasteror other casualty.-,
+169 0046
+2. The nonconforming use is restored or
+replaced on the same location and is the same size
+or smaller than it was prior to the damage or
+destruction.-; and
+3. The restoration or replacement of the
+nonconforming use is commenced within one
+year of the damage or destruction.
+E. Alterationof aNonconformingUse.
+1. The alteration of a nonconforminguse
+shall be permitted when necessary to comply
+with any lawful requirement.
+2. Any otheralterationto a nonconforming
+use .
+i '
+I u : dcr this eeti shall t may be
+permitted subject to all applicable provisions of
+this title, including site plan review and upon a
+finding that the . Ater- atien doet a
+f , use of s fiufes asseeiated with
+that ,
+o
+eh e in use.
+vR Of a fiefle0fififffflifig Use
+shall be permiaed when neeessar-y to eemply
+with any la-wful fequir-ement.
+2. in all eases ether- thaft that deSGFibe
+physieal or, s b
+Waw tt... ., .::: 1„:...,.,.., may be
+heafings A'A"hen both of the folio -wing
+site
+o
+et!
+a. The altefation is neeessai=y to feasonably
+b. The alteration will have no greater
+adverse impact on the neighborhood.
+3. For the purposes of paragraph ( E)( 2)of
+this subsection, an " alteration of a
+nonconforming use" shall include any changein
+the use of the property that would constitute a
+change in the nature or extent of the use of the
+ro e
+F. Procedure.
+1. Any application for verification of a
+nonconforming use or to expand, alter, restore
+or replace a nonconforming use shall be
+processed in conformance with the applicable
+procedures set forth in this section and the
+applicable procedures for deel . fpAen, full g
+unde of Title 22, the Deschutes County
+Uniform Development Procedures Ordinance.
+2. Notwithstanding section 22.20.010 of the
+DeschutesCounty Code, the initial decision on an
+application for an alteration of a nonconforming
+use shall be made administratively, without a
+PAGE 2 OF 3 - EXHIBIT " A" TO ORDINANCE NO. 98- 037 ( 8/ 26/ 98)
+EXHIBIT " A"
+public hearing. The Planning Director may give
+prior notice of the pending application pursuant
+to section 22. 20. 020 of the Deschutes County
+Code.
+3. Except asallowed by subparagraph (a) of
+this paragraph, the burden of proof shall be on a
+verification applicant to prove the existence
+continuity, nature and extent of the use.
+a. Notwithstanding section 22. 24. 050 of the
+Deschutes County Code, if an applicant
+demonstrates by a preponderance of the evidence
+that the nature and extent of the use sought to be
+verified is of the same nature and extent as the
+use of the properly for the 10 -year period
+immediately precedingthehe application, without
+interruption or abandonment, it shall be presumed
+that the nonconforming use, as proven, lawfully
+existed at the time the use became nonconforming
+and has continued without interruption or
+abandonment until the date of application.
+b. The presumption may be rebutted bya
+preponderance of evidence showing that the use
+was unlawful prior to the time it became
+nonconforming, or that the use prior to the 10 -
+year period was of a different nature or different
+in extent than the use, as proven, or that the use
+prior to the 10 - year period was interrupted or
+abandoned. If the presumption is so rebutted, the
+presumption shall disappear and be of no further
+aid to the applicant.
+4. If the proof demonstrates the continued
+existence of a valid non -conforming use, but of a
+different nature or extent than that claimed by the
+applicant, the hearings body may declare there to
+be a valid nonconforming use to the extent
+proven.
+5. An approval of a verification,
+replacement or restoration of a nonconforming
+use verification shall not be conditioned; an
+approval shall be sufficiently detailed to describe
+the allowed parameters of the verified use.
+However, an approval of an alteration of a
+nonconforming use may be conditioned in a
+manner calculated to ensure mitigation of adverse
+impacts so that the change has no greater adverse
+impact to the neighborhood.
+6. After a decision has been rendered on
+an application for a verification of a
+nonconforming use ( including any appeals
+169 - 0047
+provided for under Title 22 and under state law),
+the applicant shall not be entitled to reapply
+under section 22. 28. 040 for another verification
+determination involving the same use of the
+property. ( Ord. 98- 037 § 1, 1998; Ord. 95- 050 §
+1, 1995; Ord. 93- 043 § 20, 1993; Ord. 91- 038 §
+1, 1991)
+PAGE 3 OF 3 - EXHIBIT " A" TO ORDINANCE No. 98- 037 ( 8/ 26/ 98)

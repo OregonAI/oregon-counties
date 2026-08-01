@@ -1,0 +1,144 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-98-009
+title: 'Ordinance No. 98-009'
+doc_type: ordinance
+citation: 'Ordinance No. 98-009'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616797675_1998-06711-Ordinance%20No.%2098-009%20Recorded%202_18_1998.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 7460758a888d147d2d4c27203e890c6a1bcbffc95bfeb9536e5f2e4c857bf751
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 98-009 (Ordinance No. 98-009)
+
+## At a glance
+
+Ordinance No. 98-009 — orders of Deschutes County. 2 pages.
+
+## Full text
+
+REVIEW D S TO FORM
+QT— O6 711
+EVIEWED
+M163,. 2M
+CODE:' REVIEW COMM.
+V '
+LEGAL COUNSEL
+BEFORETHEBOARDOFCOUNTYCOMMISSIONERSOFDESCHUTESCOUNTY` REAON
+SU
+AnOrdinanceAmendingDeschutesCountyCode
+G ' Sections5.08.015, Definition -Antique, Secondhand
+r_0
+or Junk Dealer, 5.08.090, Records Required, and * :
+5.08.110, PurchasesFromMinors, andDeclaring * ='
+an Emergency. * f
+ORDINANCE NO. 98- 009
+THE BOARD OF COUNTY COMMISSIONERSOF DESCHUTESCOUNTY, OREGON,
+ORDAINS as follows:
+Section 1. AMENDMENT. Deschutes County Code Sections 5.08.015, Definition -
+Antique, secondhandorjunkdealer, 5.08.090, Recordsrequired, and5.08.110, Purchasesfromminors,
+are amended to read as described in Exhibit " A," attached hereto and by this reference incorporated
+herein, withnewlanguageunderlinedandlanguagetobedeletedin stf+kethFOHgh.
+Section 2. EMERGENCY. ThisOrdinancebeingnecessaryfor theimmediatepreservation
+of thepublicpeace, healthandsafety, anemergencyis declaredto exist, andthisordinancetakeseffect
+on its passage.
+DATEDthis I I" dayof February, 1998.
+BOARD OF COUNTY COMMISSIONERS OF
+P)ESCHUTES COUNTY, OREGON
+ANCY, P9PI _ SCflLANGE9, Chair
+ATTEST: ROBERT L. NIPPER, Com ssioner
+RecordingSecretary INDA L. SWEA EjCommissioner
+PAGEI OFI - ORDINANCENO. 98-009 (2/11/98) t
+EXHIBIT " A" Ul63729W
+5. 08. 015, Definition - Antique, secondhand
+or junk dealer.
+Antique, secondhand or junk dealer" means
+a person engaged in the purchase, sale, trade,
+barter, consignment or exchange of antique or
+secondhand goods, including, but not limited to,
+precious metals, jewelry, coins, firearms,
+appliances, handandpowertools, sportinggoods,
+binoculars, cameras, watches, televisions, radios,
+recording devices, furniture, calculators,
+electronic devices, bicycles and similar items, for
+private gain, or who havein their possessionany
+dunk, including, but not limited to, old machinery,
+machinery parts, appliance parts, metal, glass,
+lumber, wood and discarded material acquired for
+the purpose of resale. ( Ord. 98- 009 § 1, 1998;
+Ord. 85- 006 § 1, 1985)
+5. 08. 090. Records required.
+A. Every dealer conductingbusinessat an
+establishment, and every itinerant dealer, shall
+keep a daily ledger, written in ink, in the English
+language, of all old machinery, machineryparts,
+appliance parts, metal, glass, lumber, wood and
+discarded material acquired for the purpose of
+resale, and precious metal, jewelry, coins,
+firearms, appliances, tools, sporting goods.
+binoculars, cameras, watches, televisions, radios,
+recording devices, furniture, calculators,
+electronic devices, hand and power tools and
+bicycles purchasedby the dealer or his agent,
+including an accurateand sufficiently detailed
+description thereof, name, address, race, sex and
+date of birth of the person from whom purchased,
+consigned or acquired, day and hour of purchase
+and price paid, including all serial numbers and
+required seller's identification. The copy of the
+completed daily ledger sheets shall be mailed a
+delivered to the sheriff ave aily.
+1. Required identification will be one of the
+following:
+a. A valid drivers license;
+b. A valid state identification card;
+c. A valid military identification card;
+d. A valid passport, visa or alien
+registration card with photo.
+B. A daily ledger shall be so designed as to
+serve as both the required daily ledger and to
+generate the required copy. The daily ledger
+shall be in the form approved by the sheriff.
+C. All records required by this section shall
+be maintained by the dealer for a period of two
+years from the date of the latest transaction
+recorded therein.
+D. All records required by this section shall
+be open for inspection by any sheriffs
+department officer at all reasonable times. No
+original entry pages in a daily ledger shall be
+removed, detachedor separatedfrom the daily
+ledger. No entry in such records may be
+changed, erased, obliterated or defaced. ( Ord.
+98- 009 § 1, 1998; Ord. 95- 030 § 1, 1995; Ord.
+85- 006 § 5, 1985)
+5. 08. 110. Purchases from minors.
+No dealer may purchase, consign or acquire
+from a personunder 18yearsof ageany antique,
+junk or secondhand merchandise, or other article.
+except rags and paper. ( Ord. 98- 009 § 1, 1998;
+Ord. 95- 030 § 1, 1995; Ord. 85- 006 § 7, 1985)
+Page 1 of I - EXHIBIT " A" to ORDINANCENO. 98- 009 ( 2/ 11/98)

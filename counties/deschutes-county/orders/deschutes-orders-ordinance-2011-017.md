@@ -1,0 +1,7153 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2011-017
+title: 'Ordinance No. 2011-017'
+doc_type: ordinance
+citation: 'Ordinance No. 2011-017'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1625594298_2011-3115-Ordinance%20No.%202011-017%20Recorded%2012_6_2011%20%281%29.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: c51f66a09c3c2cf556212faa771d933740c63748a329624cad000ec842142333
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 195.025
+    - ORS 197.005
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2011-017 (Ordinance No. 2011-017)
+
+## At a glance
+
+Ordinance No. 2011-017 — orders of Deschutes County. 180 pages.
+
+## Full text
+
+REVIEWED
+LEGAL COUNSEL
+DESCHUTES COUNTY OFFICIAL RECORDSNANCY BLANKENSHIP, COUNTY CLERK w 1011.3115COMMISSIONERS' JOURNAL
+111111111loll 111111111111111111611 12/ 06/201108:09:13 AM
+2013- 3115
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 23, of the Deschutes
+County Comprehensive Plan, and Amending Certain
+Sections of the Deschutes County Comprehensive
+Plan Adopted in Deschutes County Code Title 23 to
+Adopt a Regional Economic Opportunity Analysis
+and Regional Large-Lot Industrial Land Policies for
+Central Oregon
+ORDINANCE NO. 2011-017
+WHEREAS, in 2010 the Deschutes County, in collaboration with Crook and Jefferson counties and
+their respective cities, initiated a process for conducting a Regional Economic Opportunity Analysis ("REOA")
+for Central Oregon, and
+WHEREAS, the REOA was completed in May 31, 2011; and
+WHEREAS, Statewide Planning Goal 2, Land Use Planning, OAR 660- 009-0030, and 1000 Friends of
+Oregon v. City of Dundee, 203 Or App 207 ( 2005) require Deschutes County to locally adopt the REOA as part
+of the county's comprehensive plan in order for local governments in the county to base land use decisions upon
+it; and
+WHEREAS, the Deschutes County Planning Commission held a public hearing on August 25, 2011, to
+review the REOA and corresponding regional large-lot industrial land policies, and recommended adoption of
+the proposed Comprehensive Plan amendments; and
+WHEREAS, the Board of County Commissioners (" Board") held a duly noticed public hearing on
+month September26 and October 31, 2011; and
+WHEREAS, the Board finds it in the public interest to adopt the REOA and corresponding regional
+large-lot industrial land policies into the Comprehensive Plan; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 23.48, Urbanization, is amended to read as described in Exhibit
+A," attached hereto and by this reference incorporated herein, with new language underlined and language to
+be deleted in st ~nr- eugh.
+Section 2. AMENDMENT. DCC 23.52, Economy, is amended to read as described in Exhibit " B,"
+attached hereto and by this reference incorporated herein, with new language underlined and language to be
+deleted in hfo> .
+PAGE 1 OF 2 - ORDINANCE NO. 2011- 017
+Section 3. AMENDING. Section 4.2 of the Deschutes County Comprehensive Plan, adopted in
+Deschutes County Code 23. 01.010, is amended to read as described in Exhibit " C," attached and incorporated
+by reference herein, with new language underlined and deleted language set forth in str kethfough;
+Section 4. FINDINGS. The Board adopts as its findings Exhibit " D," attached and incorporated by
+reference herein.
+Section 5. AMENDING. DCC 23. 01.010, COMPREHENSIVE PLAN, is amended to read as described
+in Exhibit " E," attached hereto and by this reference incorporated herein, with new language underlined and
+language to be deleted in stf ~ ; .
+Dated this of , 2011
+ATTEST:
+hAx~ 6-9-r
+Recording Secretary
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+TAMMY B Y, Chair
+ANTHONY De BONE, Vice Chair
+6j, 6-m-
+ALAN UNGER, Commissioner
+Date of 1
+sc
+Reading: day of n6jk4*A,,-20I 1.
+Date of 2"d Reading:- day of4) , 011.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Tammy Baney li - -
+Anthony DeBone - Lf~-
+Alan Unger
+Effective date: day of Y r , 2Q+r
+PAGE 2 OF 2 - ORDINANCE NO. 2011- 017
+Chapter 23. 48. URBANIZATION
+23. 48.010. Urbanization.
+23. 48.020. Goals.
+23. 48.030. Urban Growth Boundary Policies.
+23. 48.040. Urban Reserve Area Policies
+23. 48.050. Regional Economic Onnortunity Policies
+23. 48.010. Urbanization.
+A major emphasis in Oregon's land use planning is locating the majority of new development in urban areas.
+The rural areas are primarily to be protected for natural resource utilization. Between the urban areas
+incorporated cities) and the rural areas lies what is referred to as the urbanizing area. Usually under the
+jurisdiction of the County, this is the area where the future population will be located and where the city'sservices must be extended.
+In Deschutes County the incorporated cities of Bend, Redmond and Sisters have been given the authority,by the County, to prepare plans for their respective urban areas. These plans are coordinated with the
+County's planning effort and will eventually be adopted as part of the County's comprehensive plan. In
+addition to a plan each city also prepares an urban area zoning ordinance and a cooperative agreement for
+mutually administering the urbanizing area.
+All three incorporated cities were growing at rapid rates by the time the Deschutes County Year 2000
+ComprehensivePlan was adopted in 1979. At that time, the County estimated Bend's urban area contained
+a population of 33, 000 people, Redmond's was approximately 7, 500, and Sisters' approximately 900. All of
+the cities were expected to continue their growth to the year 2000. The 2000 Census results for Bend,Redmond, and Sisters were 52, 029, 13, 481, and 959, respectively. In 2000, 58 percent of the County'spopulation lived in urban areas.
+The fourth city in Deschutes County is the City of La Pine. Incorporated on November 7, 2006, the City of
+La Pine's 2006 population estimate of 1, 590 was certified by Portland State University, Population and
+Research Center on December 15, 2007. As of January 1, 2009, La Pine is coordinating with the OregonDepartment of Land Conservation and Development to develop its first comprehensive plan, which when
+acknowledged, will officially recognize an urban growth boundary.
+The Deschutes County Coordinated Population Forecast, adopted in August 2004 estimated that by the year
+2025, the County's population will reach 240,811 people. The 2004 forecast estimated 109,389 people in
+Bend, 45, 724 people in Redmond, 3, 747people in Sisters, and 81,951 in non- urban, unincorporated areas.
+If population growth occurs as forecasted in 2004, 66 percent of the County's population will reside in
+urban areas by 2025.
+PAGE 1 OF 10 - EXHIBIT " A" TO ORDINANCE 2011-017
+As a result of the La Pine incorporation, Deschutes County updated its Coordinated Population Forecast
+with Ordinance 2009-006. The purpose of this modification was to adopt a conservative twenty-year
+population forecast for the City of La Pine that can be used by city officials and the Oregon Department of
+Land Conservation and Development to estimate future land need and an urban growth boundary.
+Deschutes County's 2004 Coordinated Population Forecast applied a conservative 2. 2% annual average
+growth rate to estimate the county's unincorporated population from 2000 to 2025. This method applied the
+growth rate as a compounding rate throughout the entire forecast. Recognizing that incorporation occurred
+on November 7, 2006, it is reasonable to apply a 2. 2% annual average growth rate to La Pine's estimated
+population, starting in July 1, 2007, the first time Portland State University's Population Research Center
+officially certified the City of La Pine in an Annual Population Report. By extending the growth rate to the
+Year 2025, La Pine's population will be 2, 352. The non- urban unincorporated population decreases by
+2, 352 from its original projection of 81,951 to 79, 599. Extending the growth rate to the Year 2029 results in
+a twenty year population estimate of 2, 566for La Pine.
+Such growth will undoubtedly create severe problems for the provision of public services and adequate
+amounts of residential, commercial and industrial lands. Other problems are the protection of important
+aesthetic values, needed improvements in appearance and function of existing developments, safety and
+aesthetic problems, as well as energy and service costs, created by strip development; and problems with
+coordination and cooperation between the various agencies serving the public in urban areas, a problem
+which already exists.
+PAGE 2 OF 10 - EXHIBIT " A" TO ORDINANCE 2011-017
+Some opportunities also exist. Cities in Deschutes County are located in one of the most beautiful and
+livable environments in the State. All of the communities have within their authority the power to guide
+their community's growth for the public's benefit. Cooperation and mutual effort between the cities, special
+districts and the County could mean urban environments that not only function efficiently but are attractive
+and desirable places to live.
+Deschutes, Crook and Jefferson counties and their respective cities in 2010 and 2011, undertook an
+unprecedented regional evaluation of the economic opportunities and constraints associated with users of
+large industrial parcels in the Central Oregon region. During the 1990s, the Central Oregon Region
+undertook a dramatic transformation from an economy concentrated largely in wood products into a service
+based economy serving a .growing and diverse tourism and household base Accelerated in migration and
+tourism growth gave wa to rapid economic expansion escalation in home prices and a systematic shift in
+the local economy from goods producing activities to service oriented industries While initially
+representing a diversification of the local economy, this shift led to an over- reliance upon these types of
+industries. During the recent recession the regional economy's vulnerabilities became apparent
+Suitable land for today's industrial development forms emerged as one of Oregon's most severe
+development challenges As a region Central Oregon specifically targeted basic industries with large lot
+industrial needs to support the region's economic development objectives Through Oregon's statewide
+planning framework a Regional Economic Opportunity Analysis ( REOA) evaluated Central Oregon's
+opportunities, competitiveness ability, and willingness to recruited and organically grown firms requiring
+new large scale development models That REOA dated May 3l 2011 is attached to the findings in
+Exhibit C to Ordinance 2011- 017
+The Central Oregon region needs a critical mass of competitive and diverse vacant developable industrial
+sites in order for site selectors representing potential industrial recruitment opportunities to consider the
+region. A regional consensus has been agreed upon to establish and pro- activelymanagea regional land
+supply of large-lot industrial sites to enable the region to become competitive in industrial recruitment This
+regional strategy includes individual site infrastructure improvement assessment and implementation
+programs and requirements Regional planningmanagement and governance of a sustainable large-lo t
+industrial vacant land supply will involve Central Oregon city and county governments including advice
+and guidance from Central Oregon Planning Directors Association Economic Development in Central
+Oregon and Oregon Business Development Department to assure an adequate self- renewingregional
+supply of developable and competitive vacant industrial sites
+The purposes of DCC 23. 48 are to provide the link between the urban and rural areas, and to provide some
+basic parameters within which the urban areas of Deschutes County shall develop, although the specific
+urban area plan for each community shall be the prevailing document for guiding growth in its respective
+area. These policies will permit the County to review each urban area plan against common criteria and
+assure consistencyCounty-wide.
+Ord. 2010- 017 § 1, 2011; 2009- 006 § 3, 2009; Ord. 2004- 012 § 4, 2004; Ord. 2002- 005 § 1, 2002; Ord. 2000-
+017 § 1, 2000; Ord. 92- 051, 1992; PL-20, 1979)
+23. 48.020. Goals.
+1. To provide for an orderly and efficient transition from rural to urban lands.
+2. To assure that planning and implementation of plans in the urban areas are consistent with the best
+interest of both urban and urbanizing area residents.
+3. To retain and enhance the character and quality of the urban areas as growth occurs. To recognize
+and respect the unusual natural beauty and character of the area.
+PAGE 3 OF 10 - EXHIBIT " A" TO ORDINANCE 2011- 017
+4. To provide a sound basis for urbanization by establishing proper relationshipsbetween residential,
+commercial, industrial and open land uses; fostering intergovernmental cooperation; and providing
+an efficient transportation system.
+5. To retain and enhance desirable existing areas and to revitalize, rehabilitate and redevelop less
+desirable existing areas; to encourage and promote innovations in development techniques in order
+to obtain maximum livability and excellence in planning and design for development.
+6. To recognize the City of Redmond ComprehensivePlan as the policy document that provides the
+basis for implementingland use plans and ordinances in Redmond's Urban Growth Boundary. The
+general purpose is to provide for one principal means of implementing the Redmond
+ComprehensivePlan.
+7. To build a strong and thriving regional economy by establishing and actively maintaining a
+competitive portfolio of large lot employment sites and coordinating public investments policies
+and regulations to support regional and state economic development objectives in Central Oregon
+Ord. 2010- 017 1, 2011; 2006- 018 § 1, 2006; Ord. 2002- 005 § 1, 2002; Ord. 2000- 017 § 1, 2000; Ord. 92-
+051, 1992; PL- 20,1979)
+23. 48.030. Urban Growth Boundary Policies.
+1. Urbanization. Urbanization policies refer to an unincorporated urban growth areas within an urban
+growth boundary but outside the boundaries of a city, and are intended to assist in the decision
+making about the conversion of rural to urban uses, and to help in the development of consistent
+urban area plan. More detailed policies for the urban areas of Bend, Redmond and Sisters are
+specified in the urban area plans and they shall be the primary documents for coordination and land
+use decisions in their respective areas.
+a. Urban growth boundaries identify and separate urbanizable land from rural land. Conversion of
+urbanizable land to urban uses shall be based on consideration of.
+1. Orderly and economic provision for public facilities and services;
+2. Availability of sufficient land for the various uses to insure choices in the marketplace; and
+3. Encouragement of developmentwithin urban areas before conversion of urbanizable areas.
+b. Urban growth boundaries shall be established or expandedbased upon the following:
+1. Demonstrated need to accommodate long-range urban population growth requirements
+consistent with LCDC goals;
+2. Need for housing, employment opportunities and livability;
+3. Orderly and economic provision for public facilities and services;
+4. Maximum efficiency of land uses within and on the fringe of the existing urban area;
+5. Environmental, energy, economic and social consequences;
+6. Retention of agricultural land as defined, with Class I being the highest priority for
+retention and Class VI the lowest priority; and,
+7. Compatibility of the proposedurban uses with nearbyagricultural activities.
+2. Coordination.
+a. Within an urban growth boundary City and County land use regulations and standards shall be
+mutually supportive, jointly proposed and adopted, administered and enforced, and plans to
+integrate the type, timing and location of development of public facilities and services in a
+manner to accommodate demand as urbanizable lands become more urbanized, and to guide the
+community's growth.
+b. Urban development shall be permitted in areas where services are available or can be provided
+in a manner which will minimize costs related to necessary urban services such as schools,
+parks, highways, police, garbage disposal, fire protection, libraries and other facilities and
+services.
+PAGE 4 OF 10 - EXHIBIT " A" TO ORDINANCE 2011- 017
+c. Deschutes County adopts by reference the goals, policies, programs, elements, and statements
+of intent of the Redmond Comprehensive Plan, the officially adopted comprehensive plan for
+the City of Redmond and its surroundingUrban Growth Boundary.
+3. Residential development.
+a. Residential developments should be located so that they are convenient to places of
+employment and shopping facilities, and they should be developedin ways which are consistent
+with the character of the topography and soils on the site. Residential areas should offer a wide
+variety of housing densities in locations best suited to each.
+b. Residential densities indicated on general plans should be respectedand reflected in City and
+County codes, ordinances and developmentpolicies.
+c. In residential areas, development should be encouragedwhich have side yards or rear yards
+along arterial streets as a means of reducing congestion through turning movements in and out
+of driveways.
+d. Higher density residential areas should be concentrated near commercial services and public
+open space.
+4. Commercial.
+a. Commercial facilities should be allocated in a reasonable amount and in a planned relationship
+to the peoplethey will serve. Any future expansionof commercial uses should be developed as
+centers rather than strips and very carefully considered so that they do not cause unnecessary
+traffic congestionand do not detract from the appearance of the community.
+b. Neighborhood commercial shopping areas, parks, school and public uses may be located within
+residential districts and should have development standards which recognize the residential
+area. Development standards should be established for those commercial uses which will
+provide off- street parking, landscaping, access control, sign regulations and design review.
+c. Strip commercial developments along highways should not be extended. Commercial uses
+along major streets and highways shall be subject to special development standards relating to
+landscaping, setbacks, signs and median strips. No further commercial development outside
+urban growth boundaries, rural service centers, planned developments, or destination resorts
+shall be permitted.
+d. All commercial shopping centers shall be subject to special development standards relating to
+setbacks, landscaping, physical buffers, screening, access, signs, building heights and design
+review. Care shall be taken to control the size of any new commercial developmentsthat may
+be required as growth occurs. Sites shall not be oversized to a point where additional uses
+which would generate traffic from outside the intended service area are necessary to make the
+development an economic success.
+5. Industrial.
+a. Community efforts should be directed toward preserving prime industrial lands for industrial
+purposes. Industrial areas shall be protected from incompatible commercial and residential
+uses.
+b. Industrial areas of the community shall be located where necessary services can be provided
+and with good access to transportation facilities.
+c. Community efforts should be directed toward improving the general appearance of commercial
+and industrial areas so that they make a positive contribution to the environment of the
+community.
+d. Industrial areas shall provide for new industry in a park-like setting.
+e. All industrial centers shall be subject to special development standards relating to setbacks,
+landscapingphysical buffers, screening, access, signs, building heights and design review.
+6. Community appearance.
+a. Because of slow natural growth and their effective use as a visual and noise buffer, and their
+relationship to air quality, trees or stands of trees shall be protected whenever feasible in
+industrial, commercial, residential and other urban developments.
+PAGE 5 OF 10 - EXHIBIT " A" TO ORDINANCE 2011- 017
+8.
+b. Community appearance shall continue to be a major concern. Landscaping, sign regulations
+and building design review shall contribute to an improved environment. Major natural
+features such as rock outcrops, stream banks, canyons, or stands of trees should be preserved as
+a community asset as the area develops.
+c. Attempts by each community to identify those characteristics which give the community its
+individual identity and to preserve and expand those characteristics as growth occurs shall be
+encouragedby the County.
+d. Sign regulations shall be adopted which limit the size, location and number of signs in
+commercial and industrial areas and have amortization provisions to remove existing signs
+which do not conform with the regulations within a reasonable period of time.
+Urban transportation.
+a. Expressways and arterial streets should have landscaped median strips wherever possible
+together with left- turn refuge lanes. Public transportation routes should be encouraged
+throughout the area and, if necessary, special provisions made in street design to accommodate
+ways.
+b. Streets and highways should be located and constructed in a manner which will accommodate
+both current and future traffic needs. Implementation of arterial and collector road systems
+should be joint County and City effort with strict time schedules and priorities.
+c. Interurban transportation facilities should be located in or near the central business district or
+main highway. Special consideration will be needed to evaluate public transportation needs and
+possibilities within the urban area.
+d. Except for major arterial and collector streets, street patterns in residential areas should be
+designed to provide convenient access to each living unit but not encourage through-traffic.
+Major and collector streets should be secured and developed under a strict time frame so that a
+reasonable circulation pattern will result.
+e. Provisions should be considered which will permit mass transit vehicles on arterial and
+collector streets within residential areas in the future.
+Facilities and services.
+a. Efforts should be made over a sustained period of time to place utility lines underground in
+existing and new residential areas.
+b. Parks should be located within walking distance of every dwelling unit in the community.
+Parks should be centrally located and easily accessible to the areas they are intended to serve
+see Recreation).
+c. Certain private recreational uses such as golf courses or riding stables can be successfully
+integrated into residential areas provided the location, design and operation are compatible with
+surrounding residential developments.
+d. Fire protection in the planning area should be considered as a common problem by the City,
+County, water district and the fire protection district, and equipment should reflect the character
+of land uses in the community.
+e. Efforts should be made to encourage Federal and State agenciesto locate in urban areas.
+f. Efforts should be made to group public offices in a more or less common location as a
+convenience to the public.
+Other.
+a. In many cases, home occupations are a legitimate use within residential areas and should be
+permitted provided that the use displays no outward manifestations of business other an a small
+business sign attached to the wall of the house.
+b. Recreation vehicle storage should be permitted in planned residential areas and these facilities
+shall be landscapedand otherwise screened from adjacent residential uses.
+c. Consistent with policies in the Historic and Cultural chapter rehabilitation and/or
+redevelopmentof older residential areas shall be encouraged.
+PAGE 6 OF 10 - EXHIBIT " A" TO ORDINANCE 2011- 017
+d. All development in Deschutes County shall comply with all applicable state and federal rules,
+regulations and standards.
+Ord. 2006- 018 § 1, 2006; Ord. 2005-023 § 1, 2005; Ord. 2002- 005 § 1, 2002; Ord. 2000- 017 § 1, 2000; Ord.
+92- 051, 1992; PL-20, 1979)
+23. 48.040. Urban Reserve Area Policies.
+1. Redmond Urban Reserve Area. The following policies apply to the division and development of
+land in the area designatedRedmond Urban Reserve on the County Comprehensive Plan map.
+a. The Redmond Urban Reserve Area ( RURA) shall be designatedwith an urban reserve
+boundary located on the County's Comprehensive Plan Map.
+b. The County shall implement the Urban Reserve Area designation through the application of a
+RURA Combining Zone. The text of this combining zone shall be added and maintained in
+Title 18, County Zoning, of the Deschutes County Code.
+c. Until included in the Redmond Urban Growth Boundary, lands zoned Multiple Use
+Agricultural, Surface Mining, Rural Residential, or EFU in the RURA shall continue to be
+planned and zoned for rural uses, but in a manner that ensures a range of opportunities for the
+orderly, economic and efficient provision of urban services when these lands are included in
+the urban growth boundary.
+d. The County, by designating a RURA, shall adopt and implement land use regulations that
+ensure development and division of land in the Multiple Use Agricultural, Surface Mining or
+Rural Residential zoning districts, will not hinder the efficient transition to urban land uses
+and the orderly and efficient provision of urban services.
+These land use regulations shall include:
+1. Prohibition on the creation of new parcels less than ten acres;
+2. Regulations that prohibit zone changesor plan amendments allowing more intensive
+uses, including higher residential density, than permitted by the acknowledged zoning in
+effect as of the date of establishment of the urban reserve area. Such regulations shall
+remain in effect until such time as the land is included in the Redmond Urban Growth
+Boundary.
+e. Partitions of land zoned Exclusive Farm Use shall be allowed according to state law and the
+County Zoning Ordinance.
+f. The City of Redmond and Deschutes County shall adopt a RURA Agreement consistent with
+their respective comprehensive plans and the requirements of OAR 660- 021-0050.
+g. New arterial and collector right- of-way established in the RURA shall meet the right- of-way
+standards of Deschutes County or the City of Redmond, whichever is greater.
+h. The siting of new development shall be regulated along existing and future arterial and
+collector right- of-way, designated on the County's Transportation System Plan, for the
+purpose of ensuring the opportunity for future urban development and public facilities.
+i. The siting of a single family dwelling on a legal parcel is permissible if the single family
+dwelling would otherwise have been allowed under law, existing prior to the designation of
+the parcel as part of the Redmond Urban Reserve Area.
+j. City of Redmond shall collaborate with Deschutes County to assure that the County owned
+1800 acres in the RURA is master planned before it is incorporated into Redmond's urban
+growth boundary.
+Ord. 2002- 005 § 1, 2002; Ord. 2000- 017 § 1, 2000; Ord. 92- 051, 1992; PL-20, 1979; Ord. 2005- 023 § 1,
+2005)
+PAGE 7 OF 10 - EXHIBIT " A" TO ORDINANCE 2011- 017
+23. 48.050. Regional Economic Opportunity Policies.
+1. Deschutes County supports a multi jurisdictional cooperative effort to pursue a regional approach
+to establish a competitive supply of sites particularly designed to address out- of-region industries
+that may locate in Central Oregon.
+2. Deschutes Coun recognizes the importance for maintaining an appropriate available large-lot
+industrial land supply that is readily developable in Central Oregon.
+3. The Central Oregon Large Lot Industrial Regional Economic Opportunity Analysis ( REOA)
+dated May 31, 2011 and the City of La Pine Strengthsand Weaknesses outlined on Pages 61 and
+62 of Exhibit C to Ordinance 2011-017 are incorporated and adopted by reference herein
+Findings from the REOA recognize:
+a. The Central Oregon region comprised of Jefferson Crook and Deschutes counties and its
+respective cities recognize the market reality that the region currently serves as an integrated
+cohesive economic unit, sharing work force and commercial amenities and should be
+marketed as such to increase its perceived scale in the market.
+b. The Central Oregon region needs a critical mass of competitive and diverse vacant
+developable large lot industrial sites in order for site selectors representing potential industrial
+recruitment to consider the region along with all of the other needed support factors
+including adequately skilled workforce workforce training programs worker housing,
+supportive local government utility services transportation and quali of life
+c. Developing and maintaining a supply of large readily available industrial sites is not currently
+part of regional economic development efforts, therefore the region's jurisdictions have
+developed Goal 9 compliance based on proiected growth and the attraction of a large
+industrial user that is recognized as an exogenous impact to these projections.
+d. The unmet short- term need for large-lot industrial sites in Central Oregon is an additional
+component of a city's twenty- year land supply.
+e. Competing as a cohesive region allows Central Oregon to market a larger available work
+force, the size of which is often a key locational criterion for firms.
+f. The need for large lot industrial sites is a regional need with the economic development
+benefits widely distributed regardlessof the specific firm location.
+g_ Large-lot industrial lands supply initiative exceeds the capaci of angle jurisdiction.
+h. A large-lot industrial site is 50 acres or larger with specific site attributes and amenities.
+i. Short term supply is a readily available inventory of 6 large sites in at least three separate
+iurisdictions that provide for an adequatesupply of sites to prospective industries or site
+selectors. Two of the 6 sites are to be 100 to 200 acres and one site would be 200+ acres.
+1 At least one of the 6 short term ( readily available/ developablein 6 months) sites would
+consist of a major, centrally located large-scale development property near the region's
+geographic and workforce center, and where key infrastructure is in place and has excess
+capacity, either the north end of Bend or the southern end of Redmond east of Highway 97.
+4. The short term supply of 6 sites is a community development objective of Central Oregon for
+establishing large-lot industrial uses.
+5. The supply of up to 6 sites, located in existing or amended Urban. Growth Boundaries ( UGBs)
+addresses the short- term large lot industrial regional land need in Central Oregon and can be
+incorporated as an additional component of a city's twenty year land supply.
+6. The supply of up to 17 long- term sites, which includes the 6 short term sites represents the
+currently projected (total) 20- year regional land supply of this special industrial land
+classification.
+7. Replenishing the short term inventory shall be initiated when large lot employers demonstrate a
+commitment to short term sites by completing land use entitlements and executing site-
+development permits, including building permits subject to the following replenishment
+mechanism:
+PAGE 8 OF 10 - EXHIBIT " A" TO ORDINANCE 2011- 017
+a. To maintain a competitive short teen ready supply of large-lot employment sites with the
+characteristics specified in the REOA only a total of six vacant and developable sites shall
+ever be made available at one time.
+8. Central Oregon cities and counties shall within 6 months of the adoption of this policy, execute
+Memorandums of Understanding (MOUs that specify
+a. Cities after conducting alternative lands and public facility analyses but prior to any
+entitlement process, receive formal support from Economic Development for Central Oregon
+EDCO) that potential sites contain necessary site characteristics and standards as defined in
+the REOA to attract large-lot industrial recruiters.
+b. Establishment of a regional authority, responsible for fonnally supporting regional large lot
+industrial sites after cities identify potential candidates through alternative lands and public
+facili analyses, but prior to any entitlement process.
+c. A Regional Advisory Committee ( RAC) will be convened ( at least annually with each city
+and county providing activi reports relating to the short term land supply. Facilitating the
+RAC will be the responsibility of the counties ( ORS 195. 025) and will rotate each year,
+starting alphabetically with Crook County.
+9. Cities are required to comply with state land use program requirements when changing land
+designations or amending a UGB, including conducting a local inventory to determine whether a
+local deficit exists.
+10. Cities are directed to not conduct regional inventories where and because the counties have
+established plan policies under their statutory coordinating authority to limit and dispersethe
+number of sites that can be included in the various UGBs as well as a program to manage the
+supply.
+11. To meet the requirements of Division 024 when amending a UGB to include a site in compliance
+with the regional plan, cities will be required to provide an estimated employment projection for
+the site at frill build out within the planning period by applying the REOA analysis and plan to the
+particulars of the site.
+12. When a city investigates and concludes that a potential qualifying large lot industrial site exists or
+can be assembled inside of its UGB ( and the existing site zoning will be amended with the large
+lot overlay zoning assignment), that city must replace that original [ future] buildable land supply
+or evaluate and conclude that the previously identified future land supply is no longer needed.
+13. Participating cities, when examining candidate sites, shall conduct their alternative land and
+public facilities analyses and inventor oy f employment lands by first examining if the short- term
+regional need can be met inside the implementing city's UGB before assessing lands adjacent to
+it as required by state law. Cites are not required to evaluate inventories throughout the region
+because the adopted county plan has limited supply and specified site dispersal as noted in the
+REOA.
+14. Participating cities, after conducting alternative lands and public facility analyses but prior to any
+entitlement process, shall receive formal support from EDCO that candidate site(s) contain
+necessary site characteristics and attributes, as defined in the REOA, to attract large-lot industrial
+recruiters
+16. Deschutes County, fulfilling coordination duties specified in ORS 195. 025 shall approve and
+update its comprehensive plan when participating cities within their jurisdiction legislatively or
+through a quasi- judicial process designate regionally significant sites.
+16. Participating cities in Deschutes County ( and in the 3- CountyREOA region shall adopt a large-
+lot industrial overlav zone that establishes and maintains the region's large lot industrial site
+inventory and manages usage of such lands.
+17. Deschutes County supports EDCO, a non- profit organization facilitating new job creation and
+capital investment to monitor and advocate for the region's efforts of maintaining an inventory of
+appropriate sized and located industrial lots available to the market
+PAGE 9 OF 10 - EXHIBIT " A" TO ORDINANCE 2011- 017
+18. Deschutes County, in collaboration with other Central Oregon's counties and cities and EDCO
+will coordinate and seek assistance from state agenciesto continually support a regional
+economic development replenishment strategy.
+19. Deschutes Countv will strengthenlong-term confidence in the economy by building innovative
+public to private sector partnerships.
+20. Deschutes County will collaborate with regional public and private representativesto engage the
+Oregon Legislature and state agenciesand their commissions to address public facility,
+transportation and urbanization issues that can stymie economic development opportunities in
+Central Oregon.
+21. Participating cities in Deschutes County will support the existing economic base by providing
+adequate land and infrastructure to make city sites attractive to businesses willing to invest in
+high job density and industrial activity.
+22. Cities in Deschutes County will continue to provide high quality physical infrastructure to serve
+the needs of business.
+Ord. 2010- 017 § 1, 2011)
+PAGE 10 OF 10 - EXHIBIT " A" TO ORDINANCE 2011- 017
+Denotes portions of the code not amended by Ordinance 2011- 017.
+Chapter 23. 52. ECONOMY
+23. 52.020. Goals.
+23. 52.020. Goals.
+1. To diversify and improve the economy of the area.
+2. To enhance and maintain the existing natural resource, commercial and industrial segments of the
+local economy.
+3. To build a strong and thriving regional economy by establishing and actively maintaining a
+competitive portfolio of large lot employment sites and coordinating public investments policies
+and regulations to support regional and state economic developmentobjectives in Central Oregon.
+2010-017 § 2, 2011; Ord. 2002- 005 § 1, 2002; Ord. 2000- 017 § 1, 2000; Ord. 80- 203, 1980; PL-20, 1979)
+PAGE I OF I - EXHIBIT " B" TO ORDINANCE 2011- 017
+ect~ ow ~ c,~ baw~zat~ ow
+Background
+This section describes the coordination between the County and the cities of Bend, La Pine,
+Redmond and Sisters on Urban Growth Boundaries ( UGBs) and Urban Reserve Areas ( URAs).
+Statewide PlanningGoal 2 recognizes the importance of coordinating land use plans.
+City, county, state and federal agency and special district plansand actions
+related to land use shall be consistent with the comprehensive plans of cities and
+counties and regional plans adopted under ORS Chapter 268."
+Oregon Revised Statute 197. 015(5) goes further to define comprehensive plan coordination.
+A plan is "coordinated" when the needs of all levels of governments, semipublic
+and private agencies and the citizens of Oregon have been considered and
+accommodated as much as possible."
+Population
+An important basis for coordinating with cities is adopted population projections. Having an
+estimate of anticipated population is the first step to planning for future growth and
+conservation. ORS 195. 025(1) requires counties to coordinate local plansand population
+forecasts. The County oversees the preparation of a population forecast in close collaboration
+with cities. This is important because the population of the County has increased significantly in
+recent decades and a coordinated approach allows cities to ensure managed growth over time.
+Sources 1980 1990 2000 2010
+Population Research Center July I estimates 62, 500 75, 600 116,600 172,050
+US Census Bureau April I counts 62, 142 74, 958 115,367 157,733
+Source: As noted above
+In 1996 Bend, Redmond, Sisters and the County reviewed recent population forecasts from the
+Portland State University Center Population and Research Center ( PRC) and U.S. Census
+Bureau, Department of Transportation, Woods and Poole, Bonneville Power Administration
+and Department of Administrative Services Office of Economic Analysis. After reviewing these
+projections, all local governments adopted a coordinated population forecast. It was adopted by
+Deschutes County in 1998 by Ordinance 98- 084.
+The results of the 2000 decennial census and subsequentpopulation estimates prepared by the
+PRC revealed that the respective populations of the County and its incorporated cities were
+growing faster than anticipated under the 1998 coordinated forecast. The cites and the County
+re- engagedin a coordination process between 2002 and 2004 that culminated with the County
+adopting a revised population forecast that projected population to the year 2025. It was
+adopted by Ordinance 2004- 012 and upheld by the Land Use Board of Appeals on March 28,
+2005.
+The following table displaysthe 2004 coordinated population forecast for Deschutes County
+and the UGBs of the cities of Bend, Redmond, and Sisters.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4.2 URBANIZATION
+PAGE I OF 10 - EXHIBIT " C" TO ORDINANCE 201 1- 017
+Year Bend UGB Redmond UGB Sisters UGB Unincorporated
+County
+Total County
+2000 52, 800 15,505 975 47, 320 116,600
+2005 69, 004 19,249 1, 768 53, 032 143,053
+2010 81, 242 23, 897 2, 306 59, 127 166,572
+2015 91, 158 29, 667 2, 694 65, 924 189,443
+2020 100,646 36, 831 3, 166 73, 502 214, 145
+2025 109,389 45, 724 3, 747 81, 951 240,811
+Source: 2004 Coordinated Population Forecast for Deschutes County
+The process through which the County and the cities coordinated to develop the 2000- 2025
+coordinated forecast is outlined in the report titled " Deschutes County Coordinated
+Population Forecast 2000- 2025: Findingsin Support of Forecast."
+The fourth city in Deschutes County is the City of La Pine. Incorporated on November 7,
+2006, the City of La Pine's 2006 population estimate of 1, 590 was certified by PRC on
+December 15, 2007. As a result of La Pine's incorporation, Deschutes County updated its
+Coordinated Population Forecast with Ordinance 2009- 006.
+The purpose of this modification was to adopt a conservative 20 year population forecast for
+the City of La Pine that could be used by city officials and the Oregon Department of Land
+Conservation and Development to estimate its future land need and a UGB.
+The following table displaysthe coordinated population forecast for Deschutes County, the
+UGBs of the cities of Bend, Redmond, and Sisters, and La Pine from 2000 to 2025. By extending
+the growth rate to the year 2025, La Pine's population will be 2, 352. The non- urban
+unincorporated population decreases by 2, 352 from its original projection of 81, 951, to 79, 599.
+Year
+Bend
+UGB
+Redmond
+UGB
+Sisters
+UGB
+La Pine
+UGB
+Unincorporated
+County
+Total County
+2000 52, 800 15, 505 975 47, 320 116,600
+2005 69, 004 19, 249 1, 768 53, 032 143,053
+2010 81, 242 23, 897 2, 306 1, 697 57, 430 166,572
+2015 91, 158 29, 667 2, 694 1, 892 64, 032 189,443
+2020 100,646 36, 831 3, 166 2, 110 71, 392 214, 145
+2025 109,389 45, 724 3, 747 2, 352 79, 599 240,811
+Source: 2004 Coordinated Population Forecast for Deschutes County - updated 2009
+2030 Population Estimate
+This Comprehensive Plan is intended to manage growth and conservation in the
+unincorporated areas of the County until 2030. Because the official population forecast extends
+only to 2025, County staff used conservative average annual growth rates from the adopted
+population forecast to estimate population out to 2030. The following table estimates
+Deschutes County population by extending the adopted numbers out an additional five years.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4.2 URBANIZATION
+PAGE 2OF 10- EXHIBIT "C" TO ORDINANCE 2011- 017
+Year
+Bend Redmond Sisters La Pine Unincorporated
+UGB UGB UGB UGB County
+Total County
+2030 119,009 51, 733 4, 426 2, 632 88, 748 266,538
+Source- C rn, nrv estimates based on the 2004 d
+DC d' I ' h b Ieoor mat pu anon Forecast ass own a ow
+Bend's average annual growth rate from 2025 to 2030 is 1. 70%
+Redmond's average annual growth rate from 2025 to 2030 is 2. 50%
+Sisters' based their population on forecasted rates of building growth, residential housing units, and persons per dwelling unit
+La Pine's average annual growth rate from 2025 to 2030 is 2. 20%
+Deschutes County's unincorporated area average annual growth rate from 2025 to 2030 is 2. 20%
+As the pie chart below indicates, if population occurs as forecasted, 67% of the County's
+population will reside in urban areas by 2030.
+In 2030
+Unincorporated
+Area Bend
+33% 4; 6
+te€ s
+2°h
+l
+Such growth will undoubtedly require strategically managing the provision of public services and
+maintaining adequate amounts of residential, commercial and industrial lands. Growth pressures
+will also require programmatic approaches to maintain open spaces, natural resources, and
+functional ecosystems that help define the qualities of Deschutes County.
+Urban Growth Boundary Amendments
+Bend
+The City of Bend legislativelyamended its UGB as part of a periodic review acknowledgment in
+December 2004. The Bend City Council and the Board of County Commissioners adopted
+concurrent ordinances that expanded the Bend UGB by 500 acres and satisfied a 20 year
+demand for industrial land.
+In July 2007, the Bend-La Pine School District received approvals to expand the City of Bend
+UGB to include two properties for the location of two elementary schools, one at the Pine
+Nursery, the other on Skyliner Road.
+Sisters
+The City of Sisters legislativelyamended its UGB in September 2005 when its City Council and
+the Board of County Commissioners adopted respective ordinances. The Sisters UGB
+expansion covered 53 acres and satisfied a 20 year demand for residential, commercial, light
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4.2 URBANIZATION
+PAGE 3 OF 10 - EXHIBIT " C" TO ORDINANCE 201 1- 017
+La Fine _ Redn-ond
+1% 19%
+industrial, and public facility land. In March 2009, Sisters amended their UGB to facilitate the
+establishment of a 4- acre fire training facility for the Sisters/Camp Sherman Fire District.
+Redmond
+The City of Redmond legislativelyamended its UGB in August 2006 when its City Council and
+the Board of County Commissioners adopted respective ordinances. The Redmond UGB
+expansion covered 2, 299acres and satisfied a 20 year demand for residential and neighborhood
+commercial land.
+La Pine
+In 2010 La Pine adopted its first Comprehensive Plan. La Pine established a UGB that matches
+the city limits, because the City contains sufficient undeveloped land for future housing,
+commercial and industrial needs over a 20- yearperiod. The Plan map includes land use
+designations intended to provide an arrangement of uses to ensure adequate and efficient
+provision of public infrastructure for all portions of the City and UGB.
+Urban Reserve Area
+Redmond
+In December 2005, Redmond City Council and the Board of County Commissioners adopted a
+5, 661 acre URA for the City. It is the first URA in Central Oregon because most cities find
+planning farther into the future than the 20- yearUGB timeframe, challenging.
+Coordination
+As noted above, Statewide Goal 2 and ORS promote land use planning coordination. The
+purposes of the urbanization goals and policies in this section are to provide the link between
+urban and rural areas, and to provide some basic parameters within which the urban areas of
+Deschutes County can develop, although the specific comprehensive plan for each community
+remains the prevailing document for guiding growth in its respective area. These policies
+permit the County to review each city's comprehensive plan to ensure effective coordination.
+The Redmond and Deschutes CountyCommunityDevelopment Departmentsreceived the Oregon
+Chapterof American PlanningAssociation's ( OAPA) ProfessionalAchievement in PlanningAward in
+2006 for the " Redmond Urban Reserve Area / Urban Growth Boundary
+ExpansionProject."
+The followingquote taken from the OregonChapterof the American
+PlanningAssociation's 2006 Awards Program shows why the Redmond
+CommunityDevelopmentDepartmentwas chosen for this award.
+An outstanding effort to address Redmond's rapid population growth,
+includingthe successfuldesignationof an Urban Reserve and the
+imminent designation of an Urban Growth Boundary, a " Framework
+Plan" with a requirement for master planning, and the establishment of
+Great NeighborhoodPrinciples."
+Regional Economic Opportunity Analysis
+h
+1}. H.MKY l. JV~4hn w. q
+P4 n -J A- J
+Nam o,.. aAr~ o. Qrnr.u
+K:r . ter. .
+Deschutes Crook and Jefferson counties and their respective cities, in 2010 and 2011,
+undertook an unprecedented regional evaluation of the economic opportunities and constraints
+associated with users of large industrial parcels in the Central Oregon region. During the
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4.2 URBANIZATION
+PAGE 4OF 10- EXHIBIT "C" TO ORDINANCE 2011- 017
+1990s, the Central Oregon Region undertook a dramatic transformation from an economy
+concentrated largely in wood products into a service based economy serving a growing and
+diverse tourism and household base. Accelerated in- migrationand tourism growth gave way to
+rapid economic expansion, escalation in home prices, and a systematic shift in the local
+economy from goods producing activities to service oriented industries. While initially
+representing a diversification of the local economy, this shift led to an over- reliance upon these
+types of industries. During the recent recession, the regional economy's vulnerabilities became
+apparent.
+Suitable land for today's industrial development forms emerged as one of Oregon's most severe
+development challenges. As a region, Central Oregon specificallytargeted basic industries with
+large lot industrial needs to support the region's economic development objectives. Through
+Oregon's statewide planningframework, a Regional Economic Opportunity Analysis (REOA)
+evaluated Central Oregon's opportunities, competitiveness, ability, and willingness to recruited
+and organically grown firms requiring new large scale development models. That REOA, dated
+May 31, 2011 is attached to the findings in Exhibit C to Ordinance 2011- 017.
+The Central Oregon region needs a critical mass of competitive and diverse vacant, developable
+industrial sites in order for site selectors representing potential industrial recruitment
+opportunities to consider the region. A regional consensus has been agreed upon to establish
+and pro- activelymanage a regional land supply of large-lot industrial sites to enable the region
+to become competitive in industrial recruitment. This regional strategy includes individual site
+infrastructure improvement assessment and implementation programs and requirements.
+Regionalplanning, management, and governance of a sustainable large-lot industrial vacant land
+supply will involve Central Oregon city and county governments, including advice and guidance
+from Central Oregon PlanningDirectors Association, Economic Development in Central
+Oregon and Oregon Business Development Department to assure an adequate, self- renewing
+regional supply ofdevelopable and competitive vacant industrial sites.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4.2 URBANIZATION
+PAGE 5 OF 10- EXHIBIT " C" TO ORDINANCE 201 1- 017
+ect~ ow -~.2 ~ t. rbaw~zat~ ow ~ ol,% czes
+Goals and Policies
+Goal I Coordinate with cities, special districts and stakeholders to support
+urban growth boundaries and urban reserve areas that provide an
+orderly and efficient transition between urban and rural lands.
+Policy 4. 2.1 Participate in the processes initiated by cities in Deschutes County to create
+and/or amend their urban growth boundaries.
+Policy 4. 2.2 Promote and coordinate the use of urban reserve areas.
+Policy 4. 2.3 Review the idea of using rural reserves.
+Goal 2 Coordinate with cities, special districts and stakeholders on urban
+growth area zoning for lands inside urban growth boundaries but
+outside city boundaries.
+Policy 4. 2.4 Use urban growth area zoning to coordinate land use decisions inside urban
+growth boundaries but outside the incorporated cities.
+Policy 4. 2.5 Negotiate intergovernmental agreements to coordinate with cities on land use
+inside urban growth boundaries and outside the incorporated cities.
+Policy 4. 2.6 Develop urban growth area zoning with consideration of the type, timing and
+location of public facilities and services provision consistent with city plans.
+Policy 4. 2.7 Adopt by reference the comprehensive plans of Bend, La Pine, Redmond and
+Sisters, as the policy basis for implementing land use plans and ordinances in
+each city's urban growth boundary.
+Goal 3 Coordinate with cities, special districts and stakeholders on policies
+and zoning for lands outside urban growth boundaries but inside
+urban reserve areas.
+Policy 4. 2.8 Designatethe Redmond Urban Reserve Area on the County Comprehensive
+Plan Map and regulate it through a Redmond Urban Reserve Area ( RURA)
+Combining Zone in Deschutes County Code, Title 18.
+Policy 4. 2.9 In cooperation with the City of Redmond adopt a RURA Agreement consistent
+with their respective comprehensive plans and the requirements of Oregon
+Administrative Rule 660- 021-0050 or its successor.
+Policy 4. 2.10 The following land use policies guide zoning in the RURA.
+a. Plan and zone RURA lands for rural uses, in a manner that ensures the
+orderly, economic and efficient provision of urban services as these lands are
+brought into the urban growth boundary.
+b. New parcels shall be a minimum of ten acres.
+c. Until lands in the RURA are brought into the urban growth boundary, zone
+changesor plan amendments shall not allow more intensive uses or uses that
+6 DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4.2 URBANIZATION
+PAGE 6 OF 10 - EXHIBIT " C" TO ORDINANCE 201 1- 017
+generate more traffic, than were allowed prior to the establishment of the
+RU RA.
+d. For Exclusive Farm Use zones, partitions shall be allowed based on state law
+and the County Zoning Ordinance.
+e. New arterial and collector rights-of-way in the RURA shall meet the right-of-
+way standards of Deschutes County or the City of Redmond, whichever is
+greater, but be physicallyconstructed to Deschutes County standards.
+f. Protect from development existing and future arterial and collector rights-of-
+way, as designated on the County's Transportation System Plan.
+g. A singlefamily dwelling on a legalparcel is permitted if that use was permitted
+before the RURA designation.
+Policy 4. 2.1 1 Collaborate with the City of Redmond to assure that the County-owned 1, 800
+acres in the RURA is master planned before it is incorporated into Redmond's
+urban growth boundary.
+Goal 4 To build a strong and thriving regional economy by establishing and
+actively maintaining a competitive portfolio of large lot employment
+sites and coordinating public investments,` policies and regulations to
+support regional and state economic development objectives in
+Central Oregon.
+Policy 4. 2.12 Deschutes County supports a multi- jurisdictionalcooperative effort to pursue a
+regional approach to establish a competitive supply of sites particularly designed
+to address out- of-region industries that may locate in Central Oregon.
+Policy 4. 2.13 Deschutes County recognizes the importance for maintaining an appropriate
+available large-lot industrial land supply that is readily developable in Central
+Oregon.
+Policy 4. 2.14 The Central Oregon Large Lot Industrial Regional Economic Opportunity
+Analysis (REOA) dated May 31, 2011 and the City of La Pine Strengths and
+Weaknesses outlined on Pages61 and 62 of Exhibit C to Ordinance 201 1- 017
+are incorporated and adopted by reference herein. Findingsfrom the REOA
+recognize:
+a. The Central Oregon region, comprised of Jefferson, Crook and Deschutes
+counties and its respective cities recognize the market reality that the region
+currently serves as an integrated, cohesive economic unit, sharing work force
+and commercial amenities, and should be marketed as such to increase its
+perceived scale in the market.
+b. The Central Oregon region needs a critical mass of competitive and diverse
+vacant, developable large lot industrial sites in order for site selectors
+representing potential industrial recruitment to consider the region, along
+with all of the other needed support factors including adequately skilled
+workforce, workforce training programs, worker housing, supportive local
+government, utility services, transportation, and quality of life.
+c. Developing and maintaining a supply of large readily available industrial sites is
+not currently part of regional economic development efforts, therefore the
+region's jurisdictions have developed Goal 9 compliance based on projected
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011 7
+CHAPTER 4 URBAN GROWTH MANAGEMENT REFERENCES
+PAGE 7 OF 10 - EXHIBIT " C" TO ORDINANCE 201 1- 017
+growth, and the attraction of a large industrial user that is recognized as an
+exogenous impact to these projections
+d. The unmet short- term need for large-lot industrial sites in Central Oregon is
+an additional component of a city's twenty-year land supply
+e. Competing as a cohesive region allows Central Oregon to market a larger
+available work force, the size of which is often a key locational criterion for
+firms.
+f. The need for large lot industrial sites is a regional need with the economic
+development benefits widely distributed regardless of the specific firm
+location.
+g. Large-lot industrial lands supply initiative exceeds the capacity of any single
+jurisdiction.
+h. A large-lot industrial site is 50 acres or larger with specific site attributes and
+amenities.
+i. Short term supply is a readily available inventory of 6 large sites in at least
+three separate jurisdictions that provide for an adequatesupply of sites to
+prospective industries or site selectors. Two of the 6 sites are to be 100 to
+200 acres and one site would be 200+ acres.
+At least one of the 6 short term ( readily available/ developablein 6 months)
+sites would consist of a major, centrally located large-scale development
+property near the region's geographic and workforce center, and where key
+infrastructure is in place and has excess capacity, either the north end of Bend
+or the southern end of Redmond east of Highway 97
+Policy 4. 2.15 The short term supply of 6 sites is a community development obiective of
+Central Oregon for establishinglarge-lot industrial uses
+Policy 4. 2.16 The supply of up to 6 sites, located in existing or amended Urban Growth
+Boundaries ( UGBs), addresses the short- term large lot industrial regional land
+need in Central Oregon and can be incorporated as an additional component of
+a city's twenty year land supply.
+Policy 4. 2.17 The supply of up to 17 long-term sites which includes the 6 short term sites
+represents the currently projected ( total) 20- yearregional land supply of this
+special industrial land classification.
+Policy 4. 2.18 Replenishing the short term inventory shall be initiated when large lot employers
+demonstrate a commitment to short term sites by completing land use
+entitlements and executing site- developmentpermits including building permits
+subject to the following replenishment mechanism::
+a. To maintain a competitive short term ready supply of large lot employment
+sites with the characteristics specified in the REOA only a total of six vacant
+and developable sites shall ever be made available at one time
+Policy 4. 2.19 Central Oregon cities and counties shall within _ 6 months of the adoption of this
+policy, execute Memorandums of Understanding_(MOUs) that specify-
+a. Cities, after conducting alternative lands and public facility analyses but prior
+to any entitlement process, receive formal support from Economic
+Development for Central Oregon (EDCO) that potential sites contain
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4.2 URBANIZATION
+PAGE 8 OF 10- EXHIBIT " C" TO ORDINANCE 201 1- 017
+necessary site characteristics and standards as defined in the REOA to attract
+large-lot industrial recruiters.
+b. Establishment of a regional authority, responsible for formally supporting
+regional large lot industrial sites after cities identify potential candidates
+through alternative lands and public facility analyses but prior to any
+entitlement process.
+c. A RegionalAdvisory Committee ( RAC) will be convened ( at least) annually
+with each city and county providing activity reports relating to the short term
+land supply. Facilitatingthe RAC will be the responsibility of the counties
+ORS 195.025) and will rotate each year, starting alphabeticallywith Crook
+Coun
+Policy 4. 2.20 Cities are required to comply with state land use program requirements when
+changingland designationsor amending a UGB, including conducting a local
+inventory to determine whether a local deficit exists.
+Policy 4. 2.21 Cities are directed to not conduct regional inventories where and because the
+counties have established plan policies under their statutory coordinating
+authority to limit and disperse the number of sites that can be included in the
+various UGBs as well as a program to manage the supply.
+Policy 4. 2.22 To meet the requirements of Division 024 when amending a UGB to include a
+site in compliance with the regional plan, cities will be required to provide an
+estimated employment projection for the site at full build out within the planning
+period by applyingthe REOA analysisand plan to the particulars of the site.
+Policy 4. 2.23 When a city investigates and concludes that a potential qualifying large lot
+industrial site exists or can be assembled inside of its UGB ( and the existing site
+zoning will be amended with the large lot overlay zoning assignment), that city
+must replace that original [future] buildable land supply or evaluate and conclude
+that the previously identified future land supply is no longer needed.
+Policy 4. 2.24 Participating cities, when examining candidate sites, shall conduct their
+alternative land and public facilities analysesand inventory of employment lands
+by first examining if the short- term regional need can be met inside the
+implementing city's UGB, before assessing lands adjacent to it as required by
+state law. Cites are not required to evaluate inventories throughout the region
+because the adopted county plan has limited supply and specified site dispersal as
+noted in the REOA.
+Policy 4. 2.25 Participating cities, after conducting alternative lands and public facility analyses,
+but prior to any entitlement process, shall receive formal support from EDCO
+that candidate site(s) contain necessary site characteristics and attributes, as
+defined in the REOA, to attract large-lot industrial recruiters
+Policy 4. 2.26 Deschutes County, fulfilling coordination duties specified in ORS 195. 025 shall
+approve and update its comprehensive plan when participating cities within their
+jurisdiction legislativelyor through a quasi-judicialprocess designateregionally
+significant sites.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT REFERENCES
+PAGE 9 OF 10 - EXHIBIT " C" TO ORDINANCE 201 1- 017
+Policy 4. 2.27 Participating cities in Deschutes County ( and in the 3- County REOA region
+shall adopt a large-lot industrial overlay zone that establishes and maintains the
+region's large lot industrial site inventory and manages usage of such lands
+Policy 4. 2.28 Deschutes County supports EDCO, a non- profit organization facilitating new job
+creation and capital investment to monitor and advocate for the region's efforts
+of maintaining an inventory of appropriate sized and located industrial lots
+available to the market
+Policy 4. 2.29 Deschutes County, in collaboration with other Central Oregon's counties and
+cities and EDCO, will coordinate and seek assistance from state agencies to
+continually support a regional economic development replenishment strategy.
+Policy 4. 2.30 Deschutes County will strengthen long-term confidence in the economy bX
+building innovative public to private sector partnerships.
+Policy 4. 2.31 Deschutes County will collaborate with regional public and private
+representatives to engage the Oregon Legislature and state agencies and their
+commissions to address public facility, transportation and urbanization issues
+that can stymie economic development opportunities in Central Oregon.
+Policy 4. 2.32 Participating cities in Deschutes County will support the existing economic base
+by providing adequate land and infrastructure to make city sites attractive to
+businesses willing to invest in highjob density and industrial activity.
+Policy 4. 2.33 Cities in Deschutes County will continue to provide high quality physical
+infrastructure to serve the needs of business.
+10 DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4.2 URBANIZATION
+PAGE 10 OF 10- EXHIBIT " C" TO ORDINANCE 201 1- 017
+FINDINGS
+PROPOSED PLAN AMENDMENT
+The proposed amendments to Deschutes County's Comprehensive Plan are described
+in Ordinance 2011-017, Exhibits A, B, and C. Added language is underlined and
+deleted shown as str- ikethmugh.
+REVIEW CRITERIA
+Ordinance 2011- 017 formally adopts the 2011 Central Oregon Regional Economic
+Opportunity Analysis ( REOA) and several regional large-lot industrial land policies into
+its comprehensive plan. Deschutes County lacks specific criteria in Deschutes County
+Code ( DCC) Titles 18, 22, or 23 for reviewing a legislative plan amendment.
+Nonetheless, since Deschutes County is initiating one, the County bears the
+responsibility for justifying that the amendments are consistent with Oregon Revised
+Statutes ( ORS), Statewide Planning Goals, Oregon Administrative Rules ( OARs), and
+its existing Comprehensive Plan.
+The findings are organized as follows:
+Section ( 1) ORS 195. 025
+Section ( 2) Statewide Planning Goal 1, Citizen Involvement
+Section ( 3) Other ORS
+Section ( 4) OAR Division 9, Economic Development
+Section ( 5) Other Statewide Planning Goals
+Section ( 6) Deschutes County Comprehensive Plan
+Section ( 7) Deschutes County Comprehensive Plan Update
+Section ( 8) Planning Commission Recommendation
+Section ( 1), ORS 195. 025
+ORS 195. 025: ( 1) In addition to the responsibilities stated in ORS 197. 175, each
+county, through its governing body, shall be responsible for coordinating all planning
+activities affecting land uses within the county, including planning activities of the
+county, cities, special districts and state agencies, to assure an integrated
+comprehensive plan for the entire area of the county.
+Finding: Deschutes County, through its governing body, is exercising its statutory
+coordinating authority to address an unmet regional need for large-lot industrial sites.
+This authority will assure there is an integrated comprehensive plan between Deschutes
+County and its respective cities by encouraging Bend, La Pine, Redmond, and Sisters
+to address a short- term specialized employment land need of six industrial sites, 50
+acres or larger in three different jurisdictions. Deschutes County is specifically fulfilling
+its regional coordination responsibilities by formalizing, through policies, a regional
+governance and land use planning framework that describe the roles and
+PAGE 1 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+responsibilities of a regional entity, such as Central Oregon Intergovernmental Council
+COIC).1 COIC serves as the Economic Development District representing Crook,
+Deschutes and Jefferson counties as designated by the Economic Development
+Administration.2 Deschutes County is applying its coordination authority to cities as
+well, for those willing to fulfill this regional employment need, consistent with Oregon's
+Statewide Planning Program. Deschutes County is now leading and encouraging the tri-
+county region to coordinate as a single entity promoting large-lot industrial employments
+sites that best serve the region as a whole to create family wage jobs, region economic
+diversification and place Central Oregon on the map for regional, national and
+international industrial recruitment.
+In exercising its coordination authority, Deschutes County recognizes its responsibility
+to explain how a regional approach to large-lot employment sites complies with
+Oregon's land use system. To address testimony about this regional approach,
+Deschutes County is explaining the reasons for its choices, citing supporting evidence
+in the record, and making appropriate findings of compliance against applicable state
+statutes, statewide planning goals, and administrative rules.
+ORS 195. 025: ( 2) For the purposes of carrying out ORS chapters 195, 196 and 197,
+counties may voluntarily join together with adjacent counties as authorized in ORS
+190. 003 to 190. 620.
+Finding: Deschutes County is voluntarily coordinating with Crook and Jefferson counties
+and the cities of Prineville, Madras, Bend, Redmond Sisters and La Pine as authorized
+in ORS 190. 003- 190. 620. Deschutes County wants to assure that Crook and Jefferson
+counties also exercise their coordination authority with parallel plan amendments so
+there is a collective and regional response to an unprecedented opportunity to establish
+and maintain a supply of large-lot industrial sites in Central Oregon. These efforts will
+result in the joint adoption of a REOA, produced by Johnson- Reid LLC, with technical
+support from Business Oregon and Economic Development for Central Oregon, draft
+policies, and findings.
+Section ( 2) - Statewide Planning Goal 1, Citizen Involvement
+Goal: To develop a citizen involvement program that insures the opportunity for citizens
+to be involved in all phases of the planning process.
+The citizen involvement program shall incorporate the following components:
+1. Citizen Involvement To provide for widespread citizen involvement.
+COIC is a Council of Governments organized under ORS 190 by the three counties and seven cities of Central
+Oregon. COIC is governed by a 15- member board made up of elected officials appointed by each of the member
+governments
+and appointed representatives of key economic sectors.
+Central Oregon Comprehensive Economic Development Strategy, Approved by the Central Oregon Community
+Investment Board, November 29, 2007, 5. One function of the Economic Development District is developing and
+maintaining and updating the Comprehensive and Economic Development Strategy ( CEDS). The CEDS is the result
+of a local planning effort, and serves as a guide for regional growth.
+PAGE 2 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+2. Communication To assure effective two-way communication.
+3. Citizen Influence To provide the opportunity for citizens to be involved in all phases
+of the planning process.
+4. Technical Information To assure that technical information is available in an
+understandable form.
+5. Feedback Mechanisms - To assure that citizens will receive a response from policy-
+makers.
+Finding: Deschutes County has undertaken an extensive process to satisfy the
+components of Goal 1. As demonstrated below, Deschutes County has been
+transparent and diligent in its commitment to allow ample opportunities for citizens and
+stakeholders to participate in this process, raise important questions, offer opinion about
+the REOA, and to receive answers about why local policy makers have chosen to adopt
+the policies and actions included in this comprehensive plan amendment.
+Deschutes County received a Technical Assistance ( TA) Grant from the Department of
+Land Conservation and Development in 2010 to evaluate Central Oregon's
+opportunities, competitiveness, and ability to recruit new and locally grown firms
+requiring new large scale development models. Johnson-Reid LLC, was selected from a
+pool of consultants to develop a REOA. The TA Grant enabled Deschutes County to
+kick- off this project by convening an industrial land forum on June 28, 2010 in
+Redmond. Representatives from Johnson- Reid LLC, Business Oregon, IronWolf
+Community Resources, Economic Development for Central Oregon, and Deschutes
+County spoke at the event. The purpose was to engage business leaders and listen to
+their perspective about large-lot industrial sites and regional competitiveness.
+Over the course of eleven months, the REOA then went through several iterations with
+the assistance of a Regional Advisory Committee ( RAC). The RAC consisted of Central
+Oregon cities, counties, Johnson-Reid LLC, Business Oregon, Department of Land
+Conservation and Development, Department of State Lands, COIC, 1, 000 Friends of
+Oregon, Economic Development for Central Oregon, Central Oregon Association of
+Realtors and private area developers. The RAC met officially six times and reviewed
+several iterations of the REOA before it was finalized in May 2011, one month prior to
+the completion of the TA Grant. The culmination of the project was a Regional Forum
+held in Bend at the Deschutes Service Center on May 24, 2011 to share the results of
+the REOA and answer audience questions.
+Deschutes County formally initiated a post acknowledgment plan amendment on June
+23, 2011. The Deschutes County Planning Commission held two hearings on August 11
+and 25 respectively and received two sets of testimony from 1, 000 Friends of Oregon
+criticizing certain elements of the REOA. After receiving all the testimony, including
+Business Oregon and Economic Development for Central Oregon's written and oral
+statements, the Planning Commission closed the hearing on August 25, deliberated and
+recommended the Board of County Commissioners ( Board) adopt the plan amendment.
+The Board held two hearings, one on September 25, the other on October 31. In
+PAGE 3 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+recognition of the technical questions raised by 1, 000 Friends of Oregon, the Board on
+October 3 directed staff to:
+Retain the services of Jerry Johnson with Johnson- Reid LLC, the firm hired to
+produce the REOA to respond in writing.
+Coordinate with Business Oregon and Economic Development for Central
+Oregon
+to revisit 1, 000 Friends' arguments, respond in writing or testify on the
+Coordinate with the Department of Land Conservation and Development to
+revisit 1, 000 Friends arguments, respond in writing, and testify on the 31St
+Reconvene the RAC prior to the public hearing on the 31st to update everyone
+on the County's efforts to coordinate expert testimony and provide substantial
+evidence in the record.
+In response to the following questions and argument raised by 1, 000 Friends of Oregon,
+the county finds that 1, 000 Friends of Oregon largely has not cited review criteria or
+standards against which the county's legislative decision must be reviewed against, nor
+has it asserted factual errors in the county's analysis or interpretation of information
+before it. Lacking specific allegations of error in its legislative decision, the county finds
+that it can do little more than reiterate information from the record to better explain its
+decision. The county finds that clearer explanation of its decision furthers the obligations
+to provide effective and meaningful citizen involvement as required by Statewide
+Planning Goal 1, but that the county is not obligated to defend its decision against
+criticism or challenge that is not sufficiently detailed to enable the county to understand
+the concern and offer a full response.
+The county finds that in this legislative action it must demonstrate compliance with state
+statutes, the statewide planning goals and associated administrative rules in a manner
+that weighs and balances its interpretation of information with that of other participants
+in this planning process. Deschutes County is basing its decision on an adequate
+factual base supported by substantial evidence in the record and is choosing to rely on
+the REOA and expert testimony provided by Johnson-Reid LLC, Business Oregon and
+Economic Development for Central Oregon.3 The County recognizes that when a
+reasonable person could reach the decision made by the local government, in view of
+all the evidence in the record, the choice between conflicting evidence belongs to the
+local government.4
+What trends, activities, and success nationally indicate an opportunity exists to
+attract large-lot industrial users in Central Oregon? How do national trends
+translate or apply to Central Oregon?
+3
+DLCD v. Douglas County, 37 Or LUBA 129, 132 ( 1999) ( citing 1000 Friends of Oregon v. City of North Plains, 27 Or
+LUBA 372, 377-78, aff'd 130 Or App 406, 882 P2d 1130 ( 1994). Substantial evidence is evidence a reasonable
+person would rely on in reaching a decision.
+a
+Younger v. City of Portland, 305 Or 346, 360, 752 P2d 262 ( 1988).
+PAGE 4 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Deschutes County finds that to have a fully- developedprogram that serves the
+broadest range of area citizens and businesses, it is critical to be competitive in
+the segment of economic development that depends on the availability of readily-
+served, large-lot employment sties. As such, as a matter of policy, the county
+chooses to identify and implement a program to create a large-lot land supply
+that enables Central Oregon to be a competitive region for industrial recruitment.
+Central Oregon's traditional industrial base remains active in the local economy,
+and the region would like to increase its emphasis on industrial employment to
+strengthen that base.5 The region's supply of affordable land, low cost utilities,
+quality of life, and organized economic development landscape makes it an
+attractive option for growth in many traded sector industries.6 While many locally
+based service- sector businesses are an essential part of a region's business mix
+and quality of life, they are not as effective in creating new living wage jobs.'
+Central Oregon economic development efforts have been negatively impacted by
+a lack of readily available large-lot industrial sites. Major employers in traded
+sector industries ( export industries) are the primary drivers of economic growth,
+providing the impetus for net growth in the regional economy and supporting a
+wide range of support industries. At the state and local level, policy makers
+understand the importance that large-scale employers can have on the local
+economy. In 2007 Central Oregon was home to three firms with 1, 000 or more
+employees and an additional five with at least 500.8
+In a structural sense, globalization has changed the way manufacturers conduct
+business. Cost and efficiency are the central tenants of an increasingly
+competitive market. Firms are increasingly pressured to develop more capital
+intense production models, placing a greater emphasis on economies of scale,
+as well as production efficiency and flexibility. Time- to-market for firms has
+become an even more crucial factor as they make decisions to locate new plants
+and facilities. The result has been the emergence of a clear real estate trend,
+creating a global demand for large development ready industrial sites, with the
+immediacy of utility services ( both public and private sector) of critical
+importance.9
+Deschutes County's choice to pursue a regional approach to large-lot industrial
+employment sites is also consistent with Central Oregon's Comprehensive
+Economic Development Strategy (CEDS). According to this report, two of Central
+Oregon's Long-Term Priority Goals are:
+Goal XIII: Sufficient supply of land affordable for commercial, industrial
+and residential development.
+Johnson- Reid LLC, Central Oregon Large Lot Industrial Regional Economic Opportunity Analysis, May 31, 2011, 1.
+6
+Ibid.
+7
+Ibid., 4.
+8
+Ibid.
+Ibid., 2.
+PAGE 5 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Goal XVI: Ongoing regional planning is in place to preserve and enhance
+the region's economic appeal and effect orderly economic development.
+One of Central Oregon Community Investment Board's short- term priorities
+promotes:
+Structures and processes of public and private organizations to effectively
+create, adapt, foster and sustain economic development in Central
+Oregon.10
+Through the CEDS planning process, past regional needs and issues processes,
+the 2007 infrastructure needs inventory, and through other methods of economic
+analysis, the following projects, programs and activities have been identified for
+focus over the next six years:
+Support of industry clusters.
+Assist in the retention, expansion and recruitment of secondary wood
+products, aerospace production and parts, targeted sectors including
+apparel and sporting goods, aerospace including information technology,
+renewable energy, light industrial and manufacturing, and research and
+development."
+As noted in the CEDS, new traded sector and investment is critical for building a
+strong regional economy. A strategy that increases prosperity for all Central
+Oregon residents in rural and urban communities by balancing, diversifying and
+developing the region's economy has been promoted by economic development
+theorists and practitioners as a critical underpinning of a health community or
+regional economy. Three objectives promote:
+1. Facilitating new job creation and economic diversification through
+recruitment of diverse new traded- sector companies across all industries
+that offer family-wage employment;
+2. Facilitating new job creation through expansion of existing traded- sector
+companies across all industries that offer family-wage employment; and
+3. Supporting retention of existing traded- sector companies across all
+industries that offer family-wage employment.
+12
+Local trends documenting large lot recruiters visiting Central Oregon are also
+quite noteworthy. The following list cites this evidence:
+According to Business Oregon, Central Oregon experienced four active
+recruitments in the past six months looking at industrial lots 50 acres and
+greater. One firm was looking for a site in the 100 to 150 range, while
+10
+See note 2 above ( Central Oregon Comprehensive Economic Development Strategy), 4 and 17.
+11
+Ibid.
+Ibid., 14.
+PAGE 6 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+three have been looking for sites in the 150 to 200 acre range. One firm
+was lost due to the uncertainty of and land use actions that were required,
+and the properties proposed were eliminated from consideration and it is
+not known if the company has reached a final location decision. That
+search started in the 50- 100 lot size and then expanded to the 150- 200 lot
+size. The other three are still in the active stage and no additional details
+can be furnished because of nondisclosure agreements that are in place.
+13
+The La Pine Industrial Group has had several companies look at our
+certified 77- acre site in La Pine but the most active prospect was the
+Ferguson Corporation out of Virginia. They were looking for a site for a
+Northwest distribution center for their product line of bathroom and other
+plumbing fixtures. They wanted a site that would accommodate an initial
+500, 000 sq. ft. of buildings and would be expandable to 1, 000,000 sq. ft.
+Initial employment was to be 200 workers, expanding to 400 in the second
+phase. There was also a requirement for a rail spur with extensive on- site
+trackage to move products in and out. They were not sure our site was
+large enough so Mid- State Electric Cooperative developed a site plan to
+show that it could meet their specifications.
+14
+Jon Stark, Redmond Economic Development Manager for Economic
+Development for Central Oregon described a recruiter recently visiting
+Redmond.
+15
+Michael Williams, Oregon Business Development, Industrial Lands
+Specialist, described recruiters visiting Central Oregon, as well as the
+heightened interest expressed by companies once Facebook committed to
+a site in Prineville.
+16
+What is it about competing regions and their industrial land supply that has
+enabled their success?
+Successful local and regional industrial recruitment in the 21St Century must
+consider global competition factors. Communities, regions and states that focus
+primarily or exclusively on outdated governance paradigms are ill suited for
+keeping up with fast paced global economic and industrial marketplace changes.
+Industries must be nimble to be successful in the competitive global marketplace.
+Manufacturers must be able to quickly produce new products at expanded,
+renovated or new production facilities in " just- in-time" fashion. Often
+accomplished through on- site expansion on areas reserved for that purpose,
+industrial site selectors must choose sites large enough to build-in future
+expansion capacity. Government must be responsive to align its regulatory and
+13
+Jerald Johnson, Johnson- Reid LLC, Response to REOA Critiques and Questions Submitted by 1000 Friends of
+Oregon, October 21, 2011, 5
+14
+Lee Smith, General Manager La Pine Industrial Group, October 27, 2011, email.
+15
+Oral Testimony, Board of County Commissioners public hearing, October 31, 2011.
+Ibid.
+PAGE 7 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+process requirements to meet market demands if it wishes to capture the
+considerable benefits of high value industrial development."
+Appendix B of the REOA provides examples in the Pacific Northwest and the
+Western United States of local governments proactively planning for industrial
+development.18 Communities like Quincy, Washington for example, examined
+their community assets, in this case large capacities of electricity resulting from
+the closure of several foundries and invested in large-lot industrial sites that
+today accommodate six large acreage industrial users. '
+9
+Deschutes County chooses to initiate a similar program to compete for large-lot
+industrial employers. The REOA documents the strengths and weaknesses of
+Central Oregon's economy. Deschutes County, by exercising its statutory
+coordination authority, wants to leverage its strengths and employ new economic
+development tools to create a dynamic and competitive large-lot industrial land
+supply portfolio and inventory that appeal to industrial site selectors. According to
+the REOA and testimony by Business Oregon and Economic Development for
+Central Oregon, Central Oregon needs a critical mass of competitive and diverse
+vacant, developable industrial sites in order for site selectors representing
+potential industrial recruitment to consider the region.20
+Does a competitive portfolio of large-lot employment site create a strong and
+thriving economy?
+The county finds that maintaining a competitive portfolio of employment sites is
+not a guarantee of a strong and thriving economy, but examples abound of the
+benefits of having such a supply. The county finds that as a matter of policy
+providing the opportunity for businesses that need such a portfolio of sites is
+better for the community than not providing the opportunity. For example, citing
+Economic Development for Central Oregon's written testimony, the Facebook
+industrial site in Prineville already has 52 full- time employees involved in the
+operation of the facility and expects an additional 12- 15 jobs next year. The
+majority of these jobs are highly technical and well- paid. Additionally, more than
+1, 200 workers helped construct the facility over the past 20 months, with an
+average of 300 on the site on any given day.21 Local leaders in Prineville and
+Crook County have been very vocal and public in their support of attracting data
+centers because they have seen the positive economic impact of multiple
+hundreds of millions of dollars being spent in their community. These facilities
+17
+See note 5 above, ( Johnson-Reid LLC, May 31, 2011, REOA), 2.
+18
+See note 13 above ( Jerald Johnson, Johnson- Reid LLC, October 21, 2011), 8. As outlined in the experience of the
+areas summarized in Appendix B of the REOA, areas with less unique site qualifications must stress low barriers to
+entry.
+19
+See note 5 above, ( Johnson-Reid LLC, May 31, 2011, REOA), 60- 69. Hillsboro, OR, Austin, TX, Hermiston, OR,
+Morrow County, OR, Reno, NV, and Salt Lake City, UT are also profiled.
+20
+Ibid., 1.
+21
+Roger Lee, Economic Development of Central Oregon Technical Response to 1, 000 Friends of Oregon Objections
+to Central Oregon REOA and Deschutes County Plan Amendment, August 17, 2011. 2
+PAGE 8 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+require extensive investments in infrastructure and they require the large
+industrial- zoned land with access to municipal infrastructure that the REOA
+seeks to identify.22
+Why should Central Oregon as a region invest limited resources to provide for
+large-lot industrial sites ( 50 acres>)?
+In 2008, the Oregon Economic and Community Development Department ( now
+Business Oregon) recognized that large, ready to go industrial sites have been
+the state's most significant development challenge and one of the most
+noticeable changes in real estate trends in the last few years. This change in
+demand and the changing nature of OECDD's account base clearly document
+that global business trends have emerge as key elements of Oregon's
+economy.23 Global accounts have tended to be very attractive to the state and
+community bringing leading edge technology, large capital investments, labor
+intensive and high wage rate employment opportunities. The shortage and even
+lack of large sites is now resulting in opportunity loss to our communities and
+state.24
+Deschutes County finds that as a matter of policy, it may choose how to structure
+its community and economic development activities, provided those activities are
+consistent with applicable local, state and federal laws and policies, including
+those for land use planning. Central Oregon chooses to invest in large-lot
+industrial sites because it is an additional tool to broaden the region's economic
+attractiveness. While trade sector industries are primary drivers of job creation,
+the REOA does not assume that large employers are those drivers. Instead,
+large-lot industrial demand recognizes that accommodating these types of users
+reflects a reasonable component of an economic development strategy.25
+Furthermore, Economic Development for Central Oregon recognizes that the
+recruitment of companies in new and existing industries is an important
+component of any successful economic development program and diversification
+strategy. New companies bring a different mix of professional and technical talent
+to communities that can spawn other businesses and technologies.26
+Business Oregon is mandated by ORS 197. 717(2) to " provide a local
+government with state and national trend" information to assist in compliance
+with ORS 197. 712 ( 2)( a)." The department reviewed the Central Oregon area,
+and made the following recommendations:
+22
+Ibid., 3.
+23
+Bev Thacker, Rail Served & Large Industrial Sites Memorandum, March 11, 2008, 1.
+24
+Ibid., 2 and 3. The chart on page 3, while not a comprehensive record, shows that the demand for large sites has
+increased in the measurement period and that employment has moved to higher employment densities.
+25
+Jerry Johnson, Johnson- Reid LLC, Response to May 17th Letter from 1, 000 Friends, May 31, 2011, REOA,
+Appendix C, 2.
+Roger Lee, Economic Development for Central Oregon Letter, June 3, 2011, REOA. Appendix C, 3.
+PAGE 9 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Given its current size and expected growth, it is not unreasonable to
+assume that the region being examined as part of the current Central
+Oregon Large Lot Economic Opportunity Analysis should have a mix of
+large-lot sizes for potential employers and site selectors to choose
+from. Such a mix would have at least multiple ready sites in the 200,
+100 and 50- acre plus acreage ranges in order to meet expected 20
+year land supply needs.27
+According to Business Oregon, Central Oregon experienced four active
+recruitments in the past six months looking at industrial lots 50 acres and
+greater. One firm was looking for a site in the 100 to 150 range, while three
+have been looking for sites in the 150 to 200 acre range. One firm was lost
+due to the uncertainty of and land use actions that were required, and the
+properties proposed were eliminated from consideration and it is not known if
+the company has reached a final location decision. That search started in the
+50- 100 lot size and then expanded to the 150- 200 lot size. The other three
+are still in the active stage and no additional details can be furnished because
+of nondisclosure agreements that are in place.28
+There is no evidence that large industrial lots mean many jobs.
+The county finds that its policy decision to promote a portfolio of large-lot
+employment sites is not merely an empirical exercise relying on the experiences
+of other regions or jurisdictions. The county further finds that regulations
+governing land use planning do not establish legal standards or thresholds by
+which to judge the efficacy of public policy of economic development. Lacking
+such standards, the county finds that evidence in the record supports the
+decision to proceed with the plan amendment. For example, Economic
+Development for Central Oregon's written testimony notes that, in Bend, the
+largest technology company, Bend Research, has had more than a dozen
+companies spun out of its operations as such that employment counts of these
+new" businesses now greatly exceeds its own employment. It is highly doubtful
+that these companies would be in Central Oregon if not for the parent company.29
+Are jobs from large-lot employers better than small lot employers?
+Deschutes County finds that the current proposal is not one where a particular
+class of employers is better or more valuable than another, and that participation
+in this regional approach enhances rather than detracts from employment
+opportunities and quality of life in the region. The county is choosing targeted
+basic industries with large-lot industrial needs to support the region's economic
+development objectives. While many locally based service- sector businesses
+are an essential part of a region's business mix and quality of life, they are not as
+27
+See note 5 above ( Johnson-Reid LLC, May 31, 2011, REOA), 46.
+28
+See note 13 above ( Jerald Johnson, Johnson- Reid LLC, October 21, 2011), 5.
+See note 21 above ( Roger Lee, August 17, 2011), 3.
+PAGE 10 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+effective in creating new living wage jobs.30 Since 2002, wage levels in Central
+Oregon have averaged a 3. 2% annual rate of growth, comparatively better than a
+2. 8% annual growth rate at the State level. However, Deschutes County's
+average 2009 wage level of $ 35, 295 was well below the statewide average.
+Lower relative wage rates coupled with housing affordability concerns can limit
+the region's ability to attract a high quality workforce to the region.31
+The county finds that analysis in the REOA does not diminish the importance of
+small, start-up firms. What it does do is note that these firms represent only a
+portion of the spectrum of firms, and a balanced economic development program
+would provide for these types of firms as well as larger industrial firms. The two
+categories are complimentary, not competitive.32 Efforts to help existing
+companies ( large and small) to grow or sustain their employment have been in
+place for more than a decade. Efforts to help start-ups and early stage
+companies are also solidly established. Economic Development for Central
+Oregon understands that most jobs come from existing companies, which is why
+it dedicates more than 50% of its efforts to fostering entrepreneurship and the
+retention/ expansion of existing traded- sector companies.33
+Evidence provided in the REOA, page 43, Figure 25, indicates that large
+industrial lots would result in a net job loss in the region. It seems that
+businesses with 20 or more employees are firing more people than they are
+hiring. If this economic sector is shrinking in the western US generally, why
+should we expect to see growth in Central Oregon in particular?
+Johnson-Reid LLC, responded to this question by stating that the contention here
+is that since larger firms have been losing jobs in aggregate, the Region will be
+unable to capture new larger firms in the future. To understand the relationship
+between these numbers you need to differentiate between net and gross activity.
+While contractions in aggregate have exceeded expansions for larger firm sizes,
+the cited table also shows that the number of firms has increased significantly.
+As shown on the table, the birth and death of firms is an ongoing phenomenon,
+and a very substantial number of new firms are formed annually through births or
+expansions. The ratio of births relative to deaths is most positive in the over 20
+employee range cited in 1000 Friends critique. The relevant metric for projecting
+the prospective capture for Central Oregon is the birth and expansion number,
+not the aggregate employment number. As noted in the REOA, firms primarily
+become prospective recruitment targets when they are formed or find their
+existing facilities or business environment inadequate. As a result, the number of
+births ( which can include new firms as well as firms expanding into a new
+classification) is a key indicator of the depth of potential market demand. As the
+30
+See note 5 above ( Johnson-Reid LLC, May 31, 2011, REOA), 4.
+31
+Ibid., 20.
+32
+See note 25 above ( Jerry Johnson, Johnson- Reid LLC, May 31, 2011, REOA, Appendix C), 3.
+See note 26 above ( Roger Lee, June 3, 2011) , 2.
+PAGE 11 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+primary target of the REOA is firms exogenous to the current economy, the firm
+death estimates are not relevant to the forecast.sa
+The county finds that while trends identified in the REOA may lead one to a
+particular opinion about the future, there is no guarantee that the trend will
+continue into the future or if the issue is relevant to the broader effort to craft an
+economic development strategy for the future of Central Oregon.35 Deschutes
+County acknowledges that while larger firms in aggregate did lose jobs, it is
+important to recognize that many large firms expanded considerably during the
+period outlined in the 1, 000 Friends May 17 letter.36 Deschutes County and
+Central Oregon are choosing to invest in large-lot industrial sites because the
+industries targeted in the REOA have been deemed as the most likely to locate in
+the region by both Business Oregon, Economic Development for Central Oregon,
+and a finding reinforced by the subsequent research done by Johnson-Reid LLC.
+Industries requiring large acreages that hold promise for the Central Oregonregion include: data centers, warehouse/ distribution centers, and select high
+technology/ biosciences operations. According to global data center site selector
+David Aaroe, (co- founderand principal, Fortis Construction), Central Oregon has
+all the elements to rival Central Washington as a top location for the data center
+industry in North America.37
+As noted in the REOA, currently Central Oregon has a shortage of large vacant
+industrial sites and is rarely a serious competitor for industrial recruitment due to
+this scarcity. Again, Deschutes County chooses to adopt a REOA and implement
+a large-lot industrial siting program because it is identified by established experts
+as a roadmap to resolve this land supply shortage and improve the regional
+economy and employment opportunities.
+REOA does not show that large companies would set up shop in a communitylike ours.
+The county finds that the REOA does not show that large companies would not
+set up shop in the region. It is not the responsibility of the REOA to provide a
+definitive, purely factual answer to policy and planning issues before decision
+makers. The REOA provides relevant information and analysis to inform elected
+officials acting in their legislative capacity.
+Should each prospective industry identified in the REOA, pages 40- 45 be
+reviewed individually for warranting a site requirement between 50 to 200+ acres
+based on its own site characteristic needs?
+34
+See note 13 above ( Jerald Johnson, Johnson-Reid LLC, October 21, 2011).35
+See note 4 above ( Younger v. City of Portland). The county is engaged in a legislative action for which it can makeits own interpretations of information before it, provided a reasonable person could reach a similar conclusion when
+providedwith potentially conflicting or competing interpretations.s
+See note 25 above ( Jerry Johnson, Johnson- Reid LLC, May 31, 2011, REOA, Appendix C), 3.37
+See note 21 above ( Roger Lee, August 17, 2011), 3.
+PAGE 12 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+The Department of Land Conservation and Development does not believe these
+steps are necessary.38 Deschutes County finds that it is reasonable to concludethat prospective industries identified in the REOA should not be narrowly or
+individually reviewed against site characteristics. There is a common
+misperception that an industry such as distribution, manufacturing or food
+processing has a single consistent set of site requirements that make planningeasy. Another related source of confusion is the inconsistent use and
+understanding of the term " site." Sometimes it means a single tax lot and a singleuser. Sometimes it means a location where raw land is developed into an
+industrial park that might include multiple related or unrelated end users or even
+a mix of use types.39 According to the REOA, several factors contribute to lot-
+size demanded by industrial users:
+Requirements for setbacks, access, parking and environmental mitigation and
+avoidance;
+Industries want buffering for security, storage and noise;
+Many industries require land for expansion for their long-term business plan;
+Large parcels are also a good way to build a cluster of industries around a
+high profile anchor business; and
+Efficiencies can be obtained by clustering industrial users into large master-
+planned business parks.ao
+The REOA's recommended competitive large-lot industry inventory, page 46, is
+difficult to discern given the short term and long term totals. Are the short term
+needs in addition to the long term needs, or do the long term needs incorporatethe short term needs?
+As noted by Johnson-Reid LLC, the long-term needs number is inclusive of the
+short term needs figure.41 Deschutes County finds that the REOA providesreasonable information and analysis pointing to an unmet land need for large-lotemployment sites, currently not part of regional economic development efforts.42
+Deschutes County, by exercising its statutory coordination authority, is choosingto focus on a short- term inventory that identifies six, 50 acre or greater sites, in
+three different jurisdictions, with two of those sites being between 100 to 200
+acres, and one over 200 acres.43 Oregon's prescriptive land use planning systemnonetheless requires, that Deschutes County and ( given its regional emphasis)Central Oregon identify the employment land supply for a twenty year planning
+38
+Karen Swirsky and Tom Hogue, Department of Land Conservation and Development October 18, 2011 Letter, 2.39
+Ibid.
+40
+See note 5 above ( Johnson-Reid LLC, May 31, 2011, REOA), 3.
+41
+See note 13 above ( Jerald Johnson, Johnson- Reid LLC, October 21, 2011), 9.
+See note 5 above ( Johnson-Reid LLC, May 31, 2011, REOA), 5.43
+Ibid., 46- 47.
+PAGE 13 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+period.44 Therefore, in this case, a total of seventeen sites represent the twenty
+year regional land supply of large-lot employment sites.as
+The county finds that a twenty year land supply from an economic developmentstandpoint is inconsequential. Business Oregon recognizes that Central Oregon'sfirst priority should be establishing a readily available inventory of six large sites
+in at least three separate jurisdictions.46 Economic development professionalssuch as Business Oregon advise the county to emphasize a short- term supplywith mechanisms to insure consistent replenishment because of the uncertaintyof trying to forecast long-term needs in a period of rapidly changing conditions.
+Johnson-Reid LLC, concurs. Recognizing the inherent uncertainty in producing a
+20- year forecast, the REOA recommends that the County focus on maintaining a
+readily developable short- term supply, with a mechanism for maintaining that
+supply. In addition, we would strongly recommend that periodic review of what
+an appropriate site inventory would be, incorporating input from industryspecialists. From an economic development perspective, short- term availabilityof a range of appropriate sites is what is critical. The supply for the longerplanning period has limited immediate impact on economic development
+prospects, although it can be useful in anticipating likely areas for replacement of
+inventory if consumed.47
+Viewed from this perspective, the long-term ( 20 year) supply's value is in
+identifying sites that can replace the short term inventory if absorbed or if market
+conditions and needs shift. Deschutes County is proposing the following policiesthat concentrate this program's efforts on the short- term supply, includingsafeguards that ensure replenishment sites are not exploited in violation of
+Oregon's land use planning program:
+The unmet short- term need for large-lot industrial sites in Central Oregon is an
+additional component of a city's twenty-year land supply.
+Short term supply is a readily available inventory of 6 large sites in at least
+three separate jurisdictions that provide for an adequate supply of sites to
+prospective industries or site selectors. Two of the 6 sites are to be 100 to
+200 acres and one site would be 200+ acres.
+At least one of the 6 short term ( readily available/ developable in 6 months)sites would consist of a major, centrally located large-scale development
+property near the region's geographic and workforce center, and where keyinfrastructure is in place and has excess capacity, either the north end of
+Bend or the southern end of Redmond, east of Highway 97.48
+44
+See OAR 660- 009-0025( 2). http:// arcweb.sos. state.or. us/pages/ rules/oars 600/ oar 660/ 660 009 html45
+See note 5 above ( Johnson-Reid LLC, May 31, 2011, REOA), 46.46
+Michael J. Williams, Business Oregon Letter, May 19, 2011, REOA, Appendix C, 3.47
+See note 13 above ( Jerald Johnson, Johnson- Reid LLC, October 21, 2011), 2.48
+See note 5 above ( Johnson-Reid LLC, May 31, 2011, REOA), 47. In the professional opinion of the economic
+development professionals contributing to this analysis, a competitive portfolio of industrial sites would include a
+collection of large industrial parcels in some selected communities, and a major, centrally located large-scale
+PAGE 14 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+The supply of up to 6 sites, located in existing or amended Urban Growth
+Boundaries ( UGBs), addresses the short- term large-lot industrial regionalland need in Central Oregon and can be incorporated as an additional
+component of a city's twenty year land supply.
+The supply of up to 17 long-term sites, which includes the 6 short term sites,
+represents the currently projected ( total) 20- year regional land supply of this
+special industrial land classification.
+Replenishing the short term inventory shall be initiated when large lot
+employers demonstrate a commitment to short term sites by completing land
+use entitlements and executing site- developmentpermits, including buildingpermits, subject to the following replenishment mechanism:
+a. To maintain a competitive short term ready supply of large-lot
+employment sites with the characteristics specified in the REOA, only a
+total of six vacant and developable sites shall ever be made available at
+one time.
+The policies above recognize that projecting the demand for industrial land in the
+50 acre or greater size range is inherently highly speculative, as it is a thinlytraded and highly competitive sector. With fewer transactions and multiple areas
+competing for these transactions, there is an unusually high degree of
+uncertainty in any forecast. The degree of uncertainty however, is offset byCentral Oregon emphasizing a short term ready supply, with a mechanism to
+replace supply in a timely manner when needed. The notion of replenishment is
+always to maintain an adequate short- term supply of sites. It can be triggeredwhen a site is committed to development. Deschutes County is choosing to
+define a large-lot employer's commitment to a site when it completes the land
+use entitlement process and executes site development permits ( ex. grading),including building permits.
+What is the 20- year employment land supply for the REOA?
+Deschutes County, by exercising its statutory coordination authority, is choosingto focus on a short- term inventory that identifies six, 50 acre or greater sites, in
+three different jurisdictions, with two of those sites being between 100 to 200
+acres, and one over 200 acres. Oregon's prescriptive land use planning system
+nonetheless requires, that Deschutes County and ( given its regional emphasis)Central Oregon identify the employment land supply for a twenty year planningperiod. Therefore, in this case, a total of seventeen sites represent the twenty
+year regional land supply of large-lot employment sites. As noted by Johnson-
+Reid LLC, the recommended inventory is intended to reflect a regionally and
+development near the region's geographic and workforce center, and where key infrastructure is in place and has
+excess capacity. This would be optimally located on the north end of Bend, but infrastructure challenges will makethis choice problematic for at least the short- term. The next most optimal location is on the southern end of
+Redmond, east of Highway 97. The area has few neighbors, possible secondary transport access and most of the
+municipal and franchise utilities with excess capacity.
+PAGE 15 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+nationally competitive portfolio of large industrial lots. The longer term inventory'svalue would be in identifying sites that can replace the short term inventory if
+absorbed or if market conditions and needs shift. The REOA does not
+recommend accommodation of the indicated long term need, but only the
+maintenance of a short- term inventory.49
+How does the REOA conclude that Central Oregon needs lots substantiallylarger than those in and around Portland?
+The county finds that the REOA has been appropriately and reasonably tailored
+to address conditions and policies unique to the Central Oregon region. The
+county finds that comparisons to other regions are useful and instructive, but not
+determinative, of plans and policies for the region. The county finds that in this
+legislative effort, no comparison of employment needs to the Portland
+metropolitan area, or other region, is required or necessarily persuasive.
+The REOA is an economic development driven effort, with extensive input from
+Economic Development for Central Oregon and Business Oregon. The
+recommended inventory is intended to reflect a regionally and nationally
+competitive portfolio of large industrial lots. The REOA recommends adoption of
+the short term inventory, not the long term. Oregon's land use planning system
+nonetheless requires the identification of a twenty-year land need. As discussed
+above, the longer term inventory's value is in identifying sites that can replace the
+short term inventory if absorbed or if market conditions and needs shift.
+Deschutes County therefore is choosing through policies to identify the logical
+steps to maintain a competitive short- term inventory while still complying with
+OAR 660- 009 through the adoption of land use policies.
+The REOA claims a land need that far exceeds the land need identified by anyother Oregon jurisdiction when viewed in light of expected employment growth.Why is Central Oregon's land need so disproportionate to any other jurisdiction in
+the state?
+The county finds that its interpretation of information and analysis in the REOA
+supports adoption of the legislative proposal before it. The county further finds
+that estimates of land need are based on best available information and should
+not be held to an unreasonably high level of precision. Accordingly, comparisonto other jurisdictions in Oregon is dependent on different information and
+analysis, and may not be relevant to conditions in Central Oregon.
+Has the REOA fulfilled the requirement of OAR 660- 009-0015( 2) and the
+requirement to identify the number of sites based on site characteristics typical of
+expected uses?
+See note 13 above ( Jerald Johnson, Johnson- Reid LLC, October 21, 2011), 4.
+PAGE 16 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+The county finds that that the REOA provides a reasonable and sufficient factual
+and analytical basis for the Board to conclude in this legislative action that
+requirements of Statewide Planning Goal 9 are met. Both Goal 9 and Division
+009 require that employment land planning be based on comparative location
+advantages and an articulation of opportunities based on national, state, regionaland local trends. The REOA cites large-lot employment trends and dynamics of
+the global market place, the strengths and challenges of Central Oregon's
+economy and the opportunities for the region to compete for large-lot employersin the data center, high technology and warehouse and distribution industries.50
+Deschutes County is proposing the following policies that identify the specificeconomic development opportunities being pursued:
+Deschutes County supports a multi- jurisdictionalcooperative effort to pursue
+a regional approach to establish a competitive supply of sites particularlydesigned to address out- of-region industries that may locate in Central
+Oregon.
+The Central Oregon region, comprised of Jefferson, Crook and Deschutes
+counties and its respective cities recognize the market reality that the region
+currently serves as an integrated, cohesive economic unit, sharing work force
+and commercial amenities, and should be marketed as such to increase its
+perceived scale in the market
+The Central Oregon region needs a critical mass of competitive and diverse
+vacant, developable large-lot industrial sites in order for site selectors
+representing potential industrial recruitment to consider the region, along with
+all of the other needed support factors including adequately skilled workforce,
+workforce training programs, worker housing, supportive local government,
+utility services, transportation, and quality of life.
+The unmet short- term need for large-lot industrial sites in Central Oregon is
+an additional component of a city's twenty-year land supply.
+Competing as a cohesive region allows Central Oregon to market a largeravailable work force, the size of which is often a key locational criterion for
+firms.
+Short term supply is a readily available inventory of 6 large sites in at least
+three separate jurisdictions that provide for an adequate supply of sites to
+prospective industries or site selectors. Two of the 6 sites are to be 100 to
+200 acres and one site would be 200+ acres.
+At least one of the 6 short term ( readily available/ developable in 6 months)
+sites would consist of a major, centrally located large-scale development
+property near the region's geographic and workforce center, and where keyinfrastructure is in place and has excess capacity, either the north end of
+Bend or the southern end of Redmond, east of Highway 97.51
+50
+See note 5 above ( Johnson-Reid LLC, May 31, 2011, REOA), 7- 11; 21- 29; 30- 34.51
+See note 48 above ( Johnson-Reid LLC, May 31, 2011, REOA), 47.
+PAGE 17 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Has the REOA satisfied the requirements of Goal 9 by providing an employmentforecast that justifies the amount of land it concludes is required for large-lotswithin the 20- yearplanning period
+Goal 9 and Division 009 do not require an employment forecast or planningbased on an initial employment forecast.52 The county finds that traditional
+industrial land need determination is based on a formulaic approach, utilizing
+population and employment projections applied to a square footage per
+employee ratio to arrive at a total acreage number.
+53
+Deschutes County is
+choosing a different course, one that adopts a REOA that recognizes global
+competition factors. Oregon's land use program as expressed in OAR 660- 009,
+while laudable does not structurally account for the recent demand of large-lot
+employers and rapidly growing industries that are building production and
+research capabilities to establish global scale. Additional demand comes from
+industries looking for regional production or as a result of specific logistical
+concerns. Facebook for an example chose an available and ready- to-develop
+site in Prineville based upon an affordable and adequate water supply, affordable
+energy prices, year round cool nights to reduce cooling costs, and various local
+incentives, not a population or employment forecast produced by the city as
+many as 19 years prior.54 Deschutes County acknowledges that unlike office
+demand, the need for most types of industrial space is difficult to determine using
+employment projections. Most industrial uses generate comparatively few jobs
+per square foot of leasable area, and space needs have little to do with changesin the numbers of jobs in production or distribution business.55
+Deschutes County has drafted the following policy to comply with Oregon's land
+use planning program, requiring an employment projection be prepared as an
+input to a UGB amendment under Division 024 when changing land designations
+or amending a UGB:
+To meet the requirements of Division 024 when amending a UGB to include a
+site in compliance with the regional plan, cities will be required to provide an
+estimated employment projection for the site at full build out within the
+planning period by applying the REOA analysis and plan to the particulars of
+the site.
+Does the REOA and Deschutes County's plan amendment require that the
+inventory for large-lot employment sites, OAR 660- 009-0015( 3) ( immediate & 20
+year) be completed as part of this legislative process?
+52
+See note 38 above ( Department of Land Conservation and Development October 18, 2011 Letter), 3.53
+See note 5 above ( Johnson-Reid LLC, May 31, 2011, REOA), 3- 4.54
+Ibid., 4.
+55
+See note 46 above ( Michael J. Williams, May 19, 2011), 2. The Urban Land Institute, a well- respected
+organization in real estate, sustainable development and land use, has specifically deemphasized employmentgrowth as a determinant of the demand for industrial space in its leading publication on real estate market analysis.
+PAGE 18 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+The county finds that no requirement in state law requires it to at this time
+complete an inventory or other analysis of how to meet identified need. The
+necessary OAR 660- 009 analysis will have to be in place at the time land
+designations are changed or a UGB amended to comply with OAR 660- 024.
+Central Oregon's innovative approach proposed in the REOA splits the
+determination of site need, the assignment of site dispersal and a site supply
+management program legislated by Deschutes County's statutory coordination
+authority from
+subsequentcity actions that determine site deficit and location to
+comply with Goal 14.6 Deschutes County is recommending the following planpolicies to comply with OAR 660- 009-0015( 3):
+Cities are required to comply with state land use program requirements when
+changing land designations or amending a UGB, including conducting a local
+inventory to determine whether a local deficit exists.
+Cities are directed to not conduct regional inventories where and because the
+counties have established plan policies under their statutory coordinating
+authority to limit and disperse the number of sites that can be included in the
+various UGBs as well as a program to manage the supply.
+Is it accurate that once a 20- year need is identified that the jurisdictions that
+adopt this plan are under an obligation to bring in the entire amount under OAR
+660- 009-0025( 2) and OAR 660- 024-0050( 4)
+According to the REOA, large-lot employment sites are an unmet land need,
+currently not part of regional economic development efforts. Deschutes County,by exercising its statutory coordination authority, is choosing to focus on a short-
+term inventory that identifies six, 50 acre or greater sites, in three different
+jurisdictions, with two of those sites being between 100 to 200 acres, and one
+over 200 acres. Oregon's prescriptive land use planning system nonetheless
+requires that Deschutes County and ( given its regional emphasis) Central
+Oregon also identify the employment land supply for a twenty year planningperiod (total land supply). A total land supply of seventeen sites represents the
+twenty year regional land supply of large-lot employment sites.
+It is important to acknowledge that a twenty year land supply from an economic
+development standpoint is inconsequential. Business Oregon recognizes that
+Central Oregon's first priority should be establishing a readily available and
+developable inventory of six large sites in at least three separate jurisdictions.Economic development, viewed outside the context of Oregon's land use
+planning system would focus entirely on a short- term supply with mechanisms to
+insure consistent replenishment. Viewed from this perspective, the long-term (20
+year) supply's value is in identifying sites that can replace the short term
+inventory if absorbed or if market conditions and needs shift. As noted above,
+Deschutes County is proposing policies that concentrate this program's efforts on
+ss
+See note 38 above ( Department of Land Conservation and Development October 18, 2011 Letter), 3.
+PAGE 19 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+the short- term supply, including safeguards that ensure replenishment sites are
+not exploited. The following policies satisfy OAR 660- 009-025( 2) and 660- 024-
+0050(4):
+The supply of up to 17 long-term sites, which includes the 6 short term sites,
+represents the ( currently projected) total 20- year land supply of this special
+industrial land classification.
+Cities are directed to not conduct regional inventories where and because the
+counties have established plan policies under their statutory coordinating
+authority to limit and disperse the number of sites that can be included in the
+various UGBs as well as a program to manage the supply.
+Does the number of sites required rely on " market choice?"
+Johnson-Reid LLC, responded, stating the REOA does not have a finding relying
+upon " market choice," but does note the reality that the competitive position of
+the Region is reliant upon the availability of multiple viable and readily available
+sites. A finding of the REOA is that six readily available large industrial sites
+constitutes the adequate supply necessary to meet public policy objectives.57
+The county finds that the Oregon Court of Appeals recently opined that " market
+choice is an infinitely pliable and elastic term" in the context urban growth
+boundary planning.58 The commenter has not offered a workable definition of
+market choice" upon which Deschutes County can conclude whether or not this
+legislative decision may turn. Therefore, Deschutes County declines to engage
+in making a definitive conclusion about undefined terms. Economic recruitment
+benefits from some degree of market choice. Firms evaluating prospective
+locations are a more likely to consider Central Oregon if multiple appropriate
+sites can be seen in a single trip. The region is hoping to establish and maintain
+a " competitive portfolio" of large-lot industrial sites. This would include an
+inventory of readily available and appropriate sites consistent with baseline
+criteria, allowing the region to clear the initial site selection screening. To the
+extent that multiple prospective sites are available in the region, Central Oregon's
+competitive position would be enhanced as site selectors prefer to have multiple
+options before physically visiting an area such as Central Oregon.59
+As stated earlier, Deschutes County, by exercising its statutory coordination
+authority, is choosing to focus on a short- term inventory that identifies six, 50
+acre or greater sites, in three different jurisdictions, with two of those sites beingbetween 100 to 200 acres, and one over 200 acres. Prioritizing short term sites
+is substantiated in the REOA and by Business Oregon's written testimonyreferenced in Appendix C. Oregon's land use planning system still requires that
+Deschutes County and ( given its regional emphasis) Central Oregon identify the
+57
+See note 13 above ( Jerald Johnson, Johnson- Reid LLC, October 21, 2011), 9.58
+1000 FRIENDS OF OREGON v. LCDC. 239 P. 3d 272 ( 2010) http:// www.publications. oid.state. or.us/ Al 35375htm59
+See note 5 (Johnson-Reid LLC, May 31, 2011, REOA), 46.
+PAGE 20 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+employment land supply for a twenty year planning period. As noted above, a
+total of seventeen sites represent the twenty year regional land supply of large-lotemployment sites. This is strictly a land use planning requirement.
+What facts and assertions presented in the REOA justify the number of large-lotindustrial sites is needed?
+As noted above, the county finds that the REOA provides adequate and
+reasonable information and analysis upon which to base a decision in this
+legislative action. The county finds that it is not the role of the REOA to provide
+an absolute or definitive answer, without discussion and policy input from local
+decision-makers, about a long-term need for employment land to advance
+community livability in Central Oregon.
+Deschutes County is choosing to rely on a methodology for gross land demand in
+the large-lot segment. The REOA cites firms with more than 500 employees as a
+general proxy for large-lot demand. According to Business Oregon, this is a very
+conservative assumption.60 Using the current profile of firms by size in the
+Western United States and Central Oregon, combined with birth and expansion
+patterns, Johnson-Reid LLC, generated a model of annual large firm location
+activity in the region.61 What is modeled is a prospective demand, assuming that
+a competitive inventory is available and maintained, allowing the region to
+capture a " fair share" of market activity.
+Figure 28 only uses the births and expansions of large businesses to determine
+how many more businesses central Oregon should see in the next 20 years. For
+land need purposes, shouldn't the net expansion rate be used?
+As explained by Johnson-Reid LLC, 1, 000 Friends of Oregon contends that the
+analysis is flawed due to our use of the firm birth rate as opposed to net growth
+less deaths). This approach does not reflect a flaw in the analysis, and they
+appear to have misunderstood the nature of the forecast. The model was
+designed to identify the pool of prospective deals as opposed to net growth. As
+Central Oregon doesn't have these firms and is looking to compete for them
+when they are seeking locations, the death rate isn't relevant locally. The model
+is designed to predict the number of prospective location decision that the
+Region has the potential to compete for. The level of decisions anticipated is
+consistent with the experience of the recruitment specialists consulted as part of
+this analysis, as well as the current level of recruitment activity in the region.62
+Exactly what is the evidence that this need is "exogenous" or above and beyond
+the needs already accounted for by the OED forecasts?
+60
+See note 46 above ( Michael J. Williams, May 19, 2011), 2.61
+See note 5 above ( Johnson-Reid LLC, May 31, 2011, REOA), 43- 46.62
+See note 13 above ( Jerald Johnson, Johnson- Reid LLC, October 21, 2011), 6- 7.
+PAGE 21 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+The OED forecast included in the REOA is assumed to be contextual as opposedto a reference forecast. The forecasts do reflect an extension of historic trends,and were never intended to be used in either this type of work or to be extended
+over a twenty year forecast. The REOA does not include or incorporate an
+employment forecast for the twenty year period.
+63
+Johnson-Reid LLC, found that traditional approaches to project employment landneeds evaluate the land market in a simple algebraic relationship, convertingprojected employment growth into associated space and land needs necessaryto accommodate that growth. Our approach in the Central Oregon REOA was tolook at the potential for the region to compete for firms making locationsdecisions that are exogenous to the employment trends in traditional forecasts.These are typically national or international firms making location decisions thatconsider locales in the broader Northwest or Western United States. Recruitingthese industries is not a " zero sum game", for Central Oregon or the State of
+Oregon. If for example a firm is attracted that would have otherwise located in
+Spokane, it is a net gain for the Region as well as the State. Maintaining a
+competitive inventory of sites is a sound economic development strategy. Beingcompetitive" does not always translate into being successful, but it does
+increase the likelihood of success. The focus of the findings of the REOA is that
+establishing and maintaining a competitive portfolio of large industrial sites
+enhances economic development prospects in Central Oregon. The growthtargeted by this supply is exogenous to the underlying employment forecasts of
+the region, and if not accommodated would not be expected to be realized. Thisis prospective or potential growth, and not growth inherent to the underlyingtrends in the region.sa
+As discussed above, there are a substantial number of large firms regularlyseeking sites that are not currently available within the region, precludingeconomic development organizations such as Business Oregon and Economic
+Development for Central Oregon from marketing the area to these prospects . 65
+Traditional formulaic approaches to Goal 9, relying on population and
+employment projections do not account for global competition and market trends
+associated with large-lot employers. The REOA documents national and state
+economic trends that provide the basis for Deschutes County to pursue this
+unmet land need.
+Oregon's economic growth is expected to outpace growth at the national level.
+By 2018, the State's employment is expected to grow by over 14% with Oregon'spopulation growing by 9% over the same interval. Additionally, Global Insight, a
+national leader in economic forecasting, project's Oregon's Growth State Product
+to have the second highest growth rate in the nation in the coming years.
+Through 2017, the OEA forecasts 223, 000 new jobs in the Oregon economy.
+63
+Ibid., 9.
+64
+Ibid., 2.
+See note 5 above ( Johnson-Reid LLC, May 31, 2011, REOA), 5.
+PAGE 22 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Mirroring national forecasts, a significant share ( 41%) are expected to fall in
+Professional & Business Services and Health Services. The state is expected to
+add over 25, 000 new manufacturing jobs based on the 2010 base, roughly8, 000
+of which are expected to be high wage High Tech Manufacturing jobs .6
+Changes in global business patterns have pressured firms to develop more
+capital intense production models, placing a greater emphasis on economies of
+scale, as well as production efficiency and flexibility. The result has been the
+emergence of a clear real estate trend, creating a global demand for large
+development ready industrial sites. Shifting global market factors have increased
+the need for large-lot industrial sites over the last several decades. Warehouse
+properties have substantially increased in size as distribution reflects increasing
+returns to scale as well as the concentration of production in larger production
+facilities. Production facilities are also increasingly scaled for global as opposed
+to regional or national needs. The following are examples of recent warehouse
+projects that have located to the State of Oregon, as compiled by Business
+Oregon:
+Jurisdiction Tenant Site Size Square Footage
+Alban Target 175 acres 1.3 million
+Hermiston Wal Mart 200 acres 1.3 million
+Lebanon Lowes 204 acres 1. 3 million
+Salem Home Depot 50 acres 500, 000
+As shown in the preceding table, the emerging module for distribution facilities
+now regularly tops 1.0 million square feet of building area, with site sizes in
+excess of 200 acres. Over 55 projects have shopped the State of Oregon over
+the last ten years with site demand over 50 acres, averaging over 5 new projects
+per year. Business Oregon currently has 10 estimated outstanding leads in this
+size category. Business Oregon estimates that they see approximately 15
+serious inquiries a year for large scale manufacturing sites. Combined with
+warehouse/ distribution inquiries, Business Oregon sees over 20 annual inquiries
+a year statewide for large-lot industrial sites. As not all leads are picked up by
+Business Oregon, one would expect the overall activity to be significantly higher.67
+Section ( 3) - Other ORS
+ORS 195. 025: ( 1) In addition to the responsibilities stated in ORS 197. 175, each
+county, through its governing body, shall be responsible for coordinating all planning
+activities affecting land uses within the county, including planning activities of the
+county, cities, special districts and state agencies, to assure an integrated
+comprehensive plan for the entire area of the county.
+66
+ibid., 16.
+Ibid., 21- 22.
+PAGE 23 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Finding: See Section 1, page 1.
+ORS 195. 025: ( 2) For the purposes of carrying out ORS chapters 195, 196 and 197,counties may voluntarily join together with adjacent counties as authorized in ORS
+190. 003 to 190. 620.
+Finding: See Section 1, page 2.
+ORS 197. 712: ( 1) In addition to the findings and policies set forth in ORS 197.005,197. 010 and 215.243, the Legislative Assembly finds and declares that, in carrying out
+statewide comprehensive land use planning, the provision of adequate opportunities for
+a variety of economic activities throughout the state is vital to the health, welfare and
+prosperity of all the people of the state.
+2) By the adoption of new goals or rules, or the application, interpretation or
+amendment of existing goals or rules, the Land Conservation and DevelopmentCommission shall implement all of the following:
+a) Comprehensive plans shall include an analysis of the community's economic
+patterns, potentialities, strengths and deficiencies as they relate to state and national
+trends.
+Finding: Deschutes County is proposing comprehensive plan amendments to complywith the requirement to include an analysis of Central Oregon strengths and
+weaknesses by adopting a REOA and several regional economic development policiesthat recognize Central Oregon's potential for establishing and maintaining large-lotindustrial sites as it relates to state and national trends. The REOA identifies the
+strengths and challenges of the Central Oregon economy and concludes that the
+competitive characteristics of Central Oregon can be strengthened through taking a
+regional approach to large-lot industrial siting.68 Even though some individual
+jurisdictions in the region are too small to be considered viable candidates for many
+targeted industries, it is imperative that Central Oregon act as a cohesive unit, sharing
+work force and commercial amenities so it can be marketed as such to increase its
+perceived scale and competitiveness in the global marketplace.
+ORS 197. 712: ( 2)(b) Comprehensive plans shall contain policies concerning the
+economic development opportunities in the community.
+Finding: Deschutes County is exerting its statutory coordination authority by
+collaborating with the cities of Bend, La Pine, Redmond, and Sisters, as well as
+Jefferson and Crook counties to respond to a specific employment need identified in a
+REOA for large-lot industrial sites. Deschutes County is choosing to adopt a REOA and
+several regional industrial land policies to comply with ORS 197. 712 ( 2)(b) that
+recognizes Central Oregon's economic development opportunities for establishing and
+Ibid., 25; 31- 34.
+PAGE 24 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+maintaining large-lot industrial sites. These policy choices, cited below, are supported
+by findings with evidence cited in the REOA.69
+Deschutes County supports a multi- jurisdictionalcooperative effort to pursue
+a regional approach to establish a competitive supply of sites particularly
+designed to address out- of-region industries that may locate in Central
+Oregon.
+The Central Oregon region, comprised of Jefferson, Crook and Deschutes
+counties and its respective cities recognize the market reality that the region
+currently serves as an integrated, cohesive economic unit, sharing work force
+and commercial amenities, and should be marketed as such to increase its
+perceived scale in the market
+The Central Oregon region needs a critical mass of competitive and diverse
+vacant, developable large-lot industrial sites in order for site selectors
+representing potential industrial recruitment to consider the region, along with
+all of the other needed support factors including adequately skilled workforce,
+workforce training programs, worker housing, supportive local government,
+utility services, transportation, and quality of life.
+The unmet short- term need for large-lot industrial sites in Central Oregon is
+an additional component of a city's twenty-year land supply.
+Competing as a cohesive region allows Central Oregon to market a larger
+available work force, the size of which is often a key locational criterion for
+firms.
+ORS 197. 712: ( 2)(c) Comprehensive plans and land use regulations shall provide for
+at least an adequate supply of sites of suitable sizes, types, locations and service levels
+for industrial and commercial uses consistent with plan policies.
+Finding: As noted above, Deschutes County is exerting its statutory coordination
+authority to encourage cities to address an unmet large-lot industrial land need by
+adopting a REOA and several regional industrial land policies to comply with
+requirements to provide for an adequate supply of sites of suitable sizes, types,
+locations and service levels for industrial uses. Deschutes County is choosing to focus
+on a short- term inventory that identifies six, 50 acre or greater sites, in three different
+jurisdictions, with two of those sites being between 100 to 200 acres, and one over 200
+acres. Regulations and comprehensive plan policies that provide an adequate supply of
+sites of suitable sizes, types, locations and service levels for industrial uses will occur
+when participating cities implement OAR 660 Division 9 and Division 24. The REOA
+identifies site need characteristics for large-lot industrial sites and recommends a
+69
+Ibid., 31 and 45. The REOA describes target industries with large lot needs that have a demonstrated track record
+for creating enormous exogenous absorption of properly zoned industrial sites. Furthermore, the REOA identifies a
+model of prospective demand based on annual large firm location activity. The model assumes that if a competitive
+inventory is available and maintained in Central Oregon, the region can capture a " fair share" of market activity.
+PAGE 25 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+competitive large-lot industrial inventory.70 Deschutes County complies with ORS
+197. 712(2)( c) by adopting the following policies:
+A large-lot industrial site is 50 acres or larger with specific site attributes and
+amenities.
+Short term supply is a readily available inventory of 6 large sites in at least
+three separate jurisdictions that provide for an adequate supply of sites to
+prospective industries or site selectors. Two of the 6 sites are to be 100 to
+200 acres and one site would be 200+ acres.
+At least one of the 6 short term ( readily available/ developable in 6 months)
+sites would consist of a major, centrally located large-scale development
+property near the region's geographic and workforce center, and where key
+infrastructure is in place and has excess capacity, either the north end of
+Bend or the southern end of Redmond, east of Highway 97.
+The supply of up to 17 long-term sites, which includes the 6 short term sites,
+represents the currently projected ( total) 20- year regional land supply of this
+special industrial land classification.
+Replenishing the short term inventory shall be initiated when large lot
+employers demonstrate a commitment to short term sites by completing land
+use entitlements and executing site- developmentpermits, including building
+permits, subject to the following replenishment mechanism:
+a. To maintain a competitive short term ready supply of large-lot employment
+sites with the characteristics specified in the REOA, only a total of six
+vacant and developable sites shall ever be made available at one time.
+Central Oregon cities and counties shall, within 6 months of the adoption of
+this policy, execute Memorandums of Understanding ( MOUs) that specify:
+1. Cities, after conducting alternative lands and public facility analyses, but
+prior to any entitlement process, receive formal support from Economic
+Development of Central Oregon that potential sites contain necessary site
+characteristics and standards as defined in the REOA to attract large-lot
+industrial recruiters.
+Participating cities, when examining candidate sites, shall conduct their
+alternative land and public facilities analyses and inventory of employment
+lands by first examining if the short- term regional need can be met inside the
+implementing city's UGB, before assessing lands adjacent to it as required by
+state law. Cites are not required to evaluate inventories throughout the region
+because the adopted county plan has limited supply and specified site
+dispersal as noted in the regional EOA.
+Ibid., 39 and 46.
+PAGE 26 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+ORS 197, 712: ( 2)(d) Comprehensive plans and land use regulations shall provide for
+compatible uses on or near sites zoned for specific industrial and commercial uses.
+Findinq: Deschutes County is exerting its statutory coordination authority to encouragecities to address an unmet large-lot industrial land need by adopting a REOA and
+several regional industrial land policies to comply with the requirement for providingcompatible uses on or near sites zoned for specific industrial purposes. Regulations and
+comprehensive plan policies that provide for compatible uses on or near sites zoned for
+large-lot industrial uses will occur when participating cities implement OAR 660 Division
+9 and Division 24. To fulfill its coordination role, Deschutes County complies with ORS
+197. 712(2)( d) by adopting the following policy:
+Participating cities in Deschutes County (and in the 3- CountyREOA region)
+shall adopt a large-lot industrial overlay zone that establishes and maintains
+the region's large-lot industrial site inventory.
+ORS 197. 712: ( 2) (g) Local governments shall provide:
+A) Reasonable opportunities to satisfy local and rural needs for residential and
+industrial development and other economic activities on appropriate lands outside urban
+growth boundaries, in a manner consistent with conservation of the state's agricultural
+and forest land base; and
+8) Reasonable opportunities for urban residential, commercial and industrial needs
+overtime through changes to urban growth boundaries.
+Finding: Deschutes County is exerting its statutory coordination authority to encourage
+cities to address an unmet large-lot industrial land need by adopting a REOA and
+several regional industrial land policies to comply with responsibilities to provide
+reasonable opportunities for industrial lands to be accommodated through changes to
+UGBs. Regulations and comprehensive plan policies that provide these opportunities to
+satisfy industrial development on appropriate lands outside UGBs and overtime through
+changes to UGBs will occur when participating cities implement OAR 660 Division 9 and
+Division 24. Deschutes County complies with ORS 197. 712(2)( g) by adopting the
+following policies:
+Cities are required to comply with state land use program requirements when
+changing land designations or amending a UGB, including conducting a local
+inventory to determine whether a local deficit exists.
+Cities are directed to not conduct regional inventories where and because the
+counties have established plan policies under their statutory coordinating
+authority to limit and disperse the number of sites that can be included in the
+various UGBs as well as a program to manage the supply.
+Participating cities, when examining candidate sites, shall conduct their
+alternative land and public facilities analyses and inventory of employment
+lands by first examining if the short- term regional need can be met inside the
+implementing city's UGB, before assessing lands adjacent to it as required by
+PAGE 27 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+state law. Cites are not required to evaluate inventories throughout the region
+because the adopted county plan has limited supply and specified site
+dispersal as noted in the regional EOA.
+Section ( 4) - OAR Division 9, Economic Development
+OAR 660- 009-0010 - Application
+1) This division applies to comprehensive plans for areas within urban growth
+boundaries. This division does not require or restrict planning for industrial and other
+employment uses outside urban growth boundaries. Cities and counties subject to this
+division must adopt plan and ordinance amendments necessary to comply with this
+division.
+Finding: Deschutes County is fulfilling its statutory coordination responsibilities by
+collaborating with the cities of Bend, La Pine, Redmond, and Sisters, as well as
+Jefferson and Crook counties to respond to a specific employment need identified in a
+REOA for large-lot industrial sites in Central Oregon. As noted above, Deschutes
+County is adopting Ordinance 2011-017, which includes a REOA and several regional
+industrial land policies to comply with OAR 660- 0090-0010.
+OAR 660- 009-0010: ( 2) Comprehensive plans and land use regulations must be
+reviewed and amended as necessary to comply with this division as amended at the
+time of each periodic review of the plan pursuant to ORS 197. 712(3). Jurisdictions that
+have received a periodic review notice from the Department ( pursuant to OAR 660- 025-
+0050) prior to the effective date of amendments to this division must comply with such
+amendments at their next periodic review unless otherwise directed by the Commission.
+Finding: Deschutes County started its periodic review in 1988 and completed it on
+January 23, 2003. In 2003, the Oregon Legislature amended ORS 197. 629(3)
+exempting counties from periodic review, excluding portions of its population within the
+UGB of a city.
+OAR 660- 009-0010: ( 3) Cities and counties may rely on their existing plans to meet
+the requirements of this division if they conclude:
+a) There are not significant changes in economic development opportunities ( e. g., a
+need for sites not presently provided for in the plan) based on a review of new
+information about national, state, regional, county and local trends; and
+b) That existing inventories, policies, and implementing measures meet the
+requirements in OAR 660- 009-0015 to 660- 009-0030.
+Finding: Existing economic development plans do not address a specific land need for
+large-lot industrial sites. Deschutes County is amending its comprehensive plan under
+its regional coordination responsibilities ( ORS 195.025) to address global competition
+factors for large-lot industrial sites. For a region to be attractive enough to motivate
+industrial site selectors to visit, investigate and recommend the region, it must offer a
+diversity of large-lot industrial sites ( that are either served or serviceable) along with all
+PAGE 28 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+of the other needed support factors including: adequate size and skill level of the
+workforce, workforce training programs, worker housing, supportive local government,
+utility services and transportation, and quality of life. Industries know that to attract and
+keep valuable employees, they need to locate in areas with desirable living
+environments offering quality of life amenities such as recreation, quality education
+systems, shopping diversity, health care, and affordable and attractive housing. The
+Central Oregon region is recognized as being endowed with an abundant supply of
+such amenities.
+The Central Oregon region needs a critical mass of competitive and diverse vacant,
+developable industrial sites in order for site selectors representing potential industrial
+recruitment opportunities to consider the region. One or two sites in one or two
+jurisdictions will not be adequate to generate regional interest or a visit according to
+industrial recruitment specialists from the Business Oregon. Deschutes County is
+choosing to pursue a regional approach to establish a competitive supply of sites
+particularly designed to address those ( unaccounted for) out- of-region ( and state)
+industries that can locate in Central Oregon after shopping the globe for the best large-
+lot industrial development site they can find. This type of land need ( or demand) is
+systematically missed and unaccounted for in conventional industrial land needs
+assessments in Oregon communities, which often rely solely upon recent local trends to
+establish forecasts.
+OAR 660- 009-0010: ( 4) For a post- acknowledgementplan amendment under OAR
+chapter 660, division 18, that changes the plan designation of land in excess of two
+acres within an existing urban growth boundary from an industrial use designation to a
+non- industrial use designation, or an other employment use designation to any other
+use designation, a city or county must address all applicable planning requirements,
+and:
+a) Demonstrate that the proposed amendment is consistent with its most recent
+economic opportunities analysis and the parts of its acknowledged comprehensive plan
+which address the requirements of this division; or
+b) Amend its comprehensive plan to incorporate the proposed amendment, consistent
+with the requirements of this division, or
+c) Adopt a combination of the above, consistent with the requirements of this division.
+Finding: Deschutes County is exerting its statutory coordination authority to encourage
+cities to address an unmet large-lot industrial land need by adopting a REOA and
+several regional industrial land policies to comply with OAR 660- 009-0010( 4).
+Deschutes County is not amending land within a UGB. Participating cities will need to
+address this criterion when they conduct their alternative land and public facilities
+analyses and inventory of employment lands when examining if the short- term regional
+need can be met inside their respective UGBs. Deschutes County complies with this
+subsection by adopting the following policies:
+PAGE 29 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Cities are required to comply with state land use program requirements when
+changing land designations or amending a UGB, including conducting a local
+inventory to determine whether a local deficit exists.
+Cities are directed to not conduct regional inventories where and because the
+counties have established plan policies under their statutory coordinating
+authority to limit and disperse the number of sites that can be included in the
+various UGBs as well as a program to manage the supply.
+When a city investigates and concludes that a potential qualifying large-lot
+industrial site exists or can be assembled inside of its UGB ( and the existing
+site zoning will be amended with the large-lot overlay zoning assignment),
+that city must replace that original [ future] buildable land supply or evaluate
+and conclude that the previously identified future land supply is no longer
+needed.
+Participating cities, when examining candidate sites, shall conduct their
+alternative land and public facilities analyses and inventory of employment
+lands by first examining if the short- term regional need can be met inside the
+implementing city's UGB, before assessing lands adjacent to it as required by
+state law. Cites are not required to evaluate inventories throughout the region
+because the adopted county plan has limited supply and specified site
+dispersal as noted in the regional EOA.
+OAR 660- 009-0010: ( 5) The effort necessary to comply with OAR 660- 009-0015
+through 660- 009-0030 will vary depending upon the size of the jurisdiction, the detail of
+previous economic development planning efforts, and the extent of new information on
+national, state, regional, county, and local economic trends. A jurisdiction's planning
+effort is adequate if it uses the best available or readily collectable information to
+respond to the requirements of this division.
+Finding: Deschutes County is choosing to implement a REOA that recognizes global
+competition factors and economic trends that provide the basis to pursue an unmet land
+need. Traditional formulaic approaches to Goal 9 rely on population and employment
+projections. However, this methodology does not account for global competition and
+market trends associated with large-lot employers. Oregon's land use program as
+expressed in OAR 660- 009 does not structurally account for the recent demand of
+large-lot employers and rapidly growing industries that are building production and
+research capabilities to establish global scale. As documented in the REOA, additional
+demand comes from industries looking for regional production or as a result of specific
+logistical concerns." Deschutes County complies with OAR 660- 009-0010( 5) by
+adopting a 2011 REOA into its comprehensive plan. As noted by Business Oregon:
+The completion of this study and the implementation of its findings by the
+communities of Central Oregon should prove to be a major step forward in the
+Ibid., 4.
+PAGE 30 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+provision of large-lot sites for potential employers, as well as family-wage jobs to
+its citizens. Our recommendation for adoption is based on the following:
+The methodology of the Regional Economic Opportunity Analysis ( REOA) is
+correct in its targeted approach to current industry trends, site selection
+considerations, and land entitlement issues.
+2. The REOA is correct in its recognition and analysis of the regional context in
+which all high- value industrial recruitments take place.
+3. The REOA is correct in the narrowness and the economy of its mission and
+findings: the identification of a limited number of high- value locations to serve
+the large-lot needs of a region over a short and long term planning horizon.
+Methodology. The methodology of the study follows best practices in economic
+development with its focus on a specific cross- section of industry and a specific
+land need. This process is consistent with Oregon Business Development's Key
+Industry strategy, which identifies industries that are considered to be globally
+competitive in Oregon. Further, industry identifications are made in a number of
+exhibits and summaries that cite recent large-lot placements across the state and
+the nation.72
+OAR 660- 009-0010: ( 6) The amendments to this division are effective January 1,
+2007. A city or county may voluntarily follow adopted amendments to this division prior
+the effective date of the adopted amendments.
+Finding: Deschutes County initiated the plan amend in 2011, therefore this division
+applies.
+OAR 660- 009-0015 - Economic Opportunities Analysis
+Cities and counties must review and, as necessary, amend their comprehensive plans
+to provide economic opportunities analyses containing the information described in
+sections ( 1) to ( 4) of this rule. This analysis will compare the demand for land for
+industrial and other employment uses to the existing supply of such land.
+1) Review of National, State, Regional, County and Local Trends. economic
+opportunities analysis must identify the major categories of industrial or other
+employment uses that could reasonably be expected to locate or expand in the planning
+area based on information about national, state, regional, county or local trends. This
+review of trends is the principal basis for estimating future industrial and other
+employment uses as described in section ( 4) of this rule. A use or category of use could
+reasonably be expected to expand or locate in the planning area if the area possesses
+the appropriate locational factors for the use or category of use. Cities and counties are
+strongly encouraged to analyze trends and establish employment projections in a
+geographic area larger than the planning area and to determine the percentage of
+employment growth reasonably expected to be captured for the planning area based on
+z
+See note 46 above ( Michael J. Williams, May 19, 2011), 1.
+PAGE 31 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+the assessment of community economic development potential pursuant to section ( 4)
+of this rule.
+Finding: Deschutes County, by adopting the REOA into its comprehensive plan,
+recognizes a trend analysis that shows successful local and regional industrial
+recruitment in the 21St century must consider global competition factors.
+3
+Noteworthy
+trends are noted below:
+Communities, regions and states that focus primarily or exclusively on outdated
+governance paradigms are ill suited for keeping up with fast paced global
+economic and industrial marketplace changes. Industries must be nimble to be
+successful in the competitive global marketplace. Manufacturers must be able to
+quickly produce new products at expanded, renovated or new production
+facilities in " just- in-time" fashion. Often accomplished through on- site expansion
+on areas reserved for that purpose, industrial site selectors must choose sites
+large enough to build-in future expansion capacity. Government must adapt and
+align its regulatory and process requirements to meet market demands if it
+wishes to capture the considerable benefits of high value industrial development.
+Site selectors shopping the international marketplace of large-lot industrial sites
+determine the type of land supply product they will consider. For an individual
+vacant industrial site to be competitive, it must be large enough to offer future
+expansion on- site. It must be proximate to other competitive sites and governed
+by a regulatory structure that is responsive to the needs of industry.
+Manufacturing employment opportunities in particular are needed to establish a
+diversified and thereby more stable and balanced regional employment outlook.
+New manufacturing and other high value employment opportunities require an
+attractive supply of vacant industrial sites to be competitive in global industrial
+recruitment pursuits. New land supply methods are needed, too.
+This large-lot industrial lands supply initiative exceeds the capacity of any single
+jurisdiction. It is an industrial recruitment reality that in order to be competitive,
+regional clout and appeal, along with a critical mass of diverse attractive sites,
+are needed. The 21st century site selection factors in the global marketplace of
+industrial recruitment and site development prioritize:
+Expedited site development with certainty and minimal time delay;
+Opportunities to expand and/or diversify manufacturing activity on- site, taking
+advantage of existing infrastructure and facilities investment; and
+Availability of a high quality work force and training programs.74
+Local trends documenting large lot recruiters visiting Central Oregon are also
+quite noteworthy. The following list cites this evidence:
+73
+See note 5 above ( Johnson-Reid LLC, May 31, 2011, REOA), 7, 13, 18.
+Ibid., 1, 2, 6.
+PAGE 32 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+According to Business Oregon, Central Oregon experienced four active
+recruitments in the past six months looking at industrial lots 50 acres and
+greater. One firm was looking for a site in the 100 to 150 range, while
+three have been looking for sites in the 150 to 200 acre range. One firm
+was lost due to the uncertainty of and land use actions that were required,
+and the properties proposed were eliminated from consideration and it is
+not known if the company has reached a final location decision. That
+search started in the 50- 100 lot size and then expanded to the 150- 200 lot
+size. The other three are still in the active stage and no additional details
+can be furnished because of nondisclosure agreements that are in place.
+75
+The La Pine Industrial Group has had several companies look at our
+certified 77- acre site in La Pine but the most active prospect was the
+Ferguson Corporation out of Virginia. They were looking for a site for a
+Northwest distribution center for their product line of bathroom and other
+plumbing fixtures. They wanted a site that would accommodate an initial
+500, 000 sq. ft. of buildings and would be expandable to 1, 000,000 sq. ft.
+Initial employment was to be 200 workers, expanding to 400 in the second
+phase. There was also a requirement for a rail spur with extensive on- site
+trackage to move products in and out. They were not sure our site was
+large enough so Mid- State Electric Cooperative developed a site plan to
+show that it could meet their specifications.76
+Jon Stark, Redmond Economic Development Manager for Economic
+Development for Central Oregon described a recruiter recently visiting
+Redmond."
+Michael Williams, Oregon Business Development, Industrial Lands
+Specialist, described recruiters visiting Central Oregon, as well as the
+heightened interest expressed by recruiters once Facebook committed to
+a site in Prineville.'a
+OAR 660- 009-0015: ( 2) Identification of Required Site Types. The economic
+opportunities analysis must identify the number of sites by type reasonably expected to
+be needed to accommodate the expected employment growth based on the site
+characteristics typical of expected uses. Cities and counties are encouraged to examine
+existing firms in the planning area to identify the types of sites that may be needed for
+expansion. Industrial or other employment uses with compatible site characteristics may
+be grouped together into common site categories.
+Finding: Deschutes County is choosingto rely on a methodology for gross land demand
+in the large-lot segment. The REOA cites firms with more than 500 employees as a
+general proxy for large-lot demand. According to Business Oregon, this is a very
+75
+See note 13 above ( Jerald Johnson, Johnson- Reid LLC, October 21, 2011), 5
+76
+See note 14 above ( Lee Smith, October 27, 2011).
+77
+See note 15 above ( Oral Testimony, Board of County Commissioners public hearing, October 31, 2011.
+Ibid.
+PAGE 33 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+conservative assumption.79 Using the current profile of firms by size in the Western
+United States and Central Oregon, combined with birth and expansion patterns,
+Johnson-Reid LLC, generated a model of annual large firm location activity in the
+region.80 What is modeled is a prospective demand, assuming that a competitive
+inventory is available and maintained, allowing the region to capture a " fair share" of
+market activity.
+A large-lot industrial site is defined to be 50 acres or larger with specific attributes and
+amenities that are typical and related to that industry and support its activities.81 As
+noted below, the REOA documents the number of sites by type reasonably expected to
+be needed to accommodate the expected employment growth based on the site
+characteristics typical of expected uses:
+The goal of this regional effort is not to generate an acreage calculation of
+needed vacant industrial land supply but rather to identify the variety and size
+range of vacant industrial sites needed to make the region attractive to site
+selectors and competitive in the global marketplace - a qualitative rather than
+quantitative outcome. This effort is the first step in providing an adequate supply
+of large industrial sites to support stable, family-wage jobs in traded sectors in
+the short- term and to build future job creation capacity in the long-term ( through
+land banking and a renewing large-lot industrial land supply) so that established
+employers do not have to move out of the region to be quick, efficient,
+competitive and successful.
+Sites designated to meet the regional demand for large-lot industrial uses should
+be able to meet most of these criteria ( identified in Table 1) where practical.
+While physical and workforce issues cannot be addressed by actions by an
+individual jurisdiction, the remaining locational criteria largely involve
+infrastructure investments, which can be actively targeted to enhance the supply
+of competitive sites. Additionally, jurisdictions actively engaging property owners
+in discussions about land price, lot configuration, and investments necessary to
+make sites usable, can provide a context for owners' readiness to sell their
+property.
+Table 1 - Site Need Characteristics for LLI Uses in Central Oregon
+Physical
+Size - Large-lot demand is defined in the context of this analysis as sites 50- acres or above.
+Sites of significantly larger size provide for greater flexibility, as they can meet large site needs
+as well as providing the ability to be subdivided. Size reflects contiguous usable area, as
+opposed to any net usable area.
+Slope - Industrial development has a very limited capacity to deal with slopes. This is
+particularly true in areas such as Central Oregon, in which the geology makes grading costly.
+79
+See note 46 above ( Michael J. Williams, May 19, 2011), 2.
+80
+See note 5 above ( Johnson-Reid LLC, May 31, 2011, REOA), 43- 46.
+Ibid., 2.
+PAGE 34 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Table 1 - Site Need Characteristics for LLI Uses in Central Oregon
+Confi guration - Rectangular` sites provide for the most ; efficient layouts. Sites with irregular
+configurations need to be larger to accommodate similar levels of development.
+Infrastructure
+Transportation
+o AutofTruck
+o Rail
+o Airport
+General Aviation
+Commercial'
+International
+Utilities
+o Water
+o Sewer
+o Natural Gas
+o Electricity
+o Telecommunications
+Major communications capacity
+Route diversity
+Fiber optics
+Location
+Workforce
+o Locations within acceptable distance of appropriately scaled and skilled labor market
+o Appropriate housing options for workforce and executives
+Special Considerations
+o Availability - Owner willing to sell at market consistent price
+o Ownership - Willingness to hold, front infrastructure investments
+o Flexibility - Ability to meet a variety of demands
+o Site Certification - Not necessary, but criteria should be at least inclusive of the
+certification criteria
+o Funding - Viability of funding necessary infrastructure to support development
+Economic recruitment benefits from some degree of market choice. Firms
+evaluating prospective locations are more likely to consider Central Oregon if
+multiple appropriate sites can be seen in a single trip. The region wants to
+establish and maintain a " competitive portfolio" of large-lot industrial sites. This
+would include an inventory of readily available and appropriate sites consistent
+with baseline criteria, allowing the region to clear the initial site selection
+screening. To the extent that multiple prospective sites are available in the
+region, Central Oregon's competitive position would be enhanced as site
+selectors prefer to have multiple options before physically visiting. Testimony
+from economic development specialists from Economic Development for Central
+Oregon and Business Oregon substantiated the importance of having multiple
+options in the region.82
+82
+See note 15 above ( Oral Testimony, Board hearing, October 31, 2011). Roger Lee, Jon Stark and Michael
+Williams spoke to the importance of establishing multiple vacant and developable sites to attract recruiters to Central
+Oregon.
+PAGE 35 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+The following matrix identifies large-lot site locational needs:
+Table 2 - Recommended Competitive Large Lot Industrial Inventory
+50- 100 Acres 100- 200 Acres 200+ Acres
+Short Term
+o f Sites 3 2 1
+Jurisdictions 3 2 1
+Long Term
+of Sites 10 5 2
+Jurisdictions 5 3 2
+A readily available and developable inventory of six large sites in at least three
+separate jurisdictions will provide for an adequate supply to prospective
+industries or site selectors. While Table 2 presents both a short term and long
+term inventory, the short term inventory is what is relevant from an economic
+development perspective. The longer term inventory's value would be in
+identifying sites that can replace the short term inventory if absorbed or if market
+conditions and needs shift. Based on the projected level of demand for these
+sites, replenishment of the inventory will likely be needed on a regular basis.
+What is important from an economic development perspective is maintaining an
+inventory of appropriately sized and located lots available to the market in any
+given period. From a market perspective, sites need to be readily developable
+with infrastructure in lace or readily available, controlled by a willing seller and
+appropriately priced.$
+OAR 660- 009-0015: ( 3) Inventory of Industrial and Other Employment Lands.
+Comprehensive plans for all areas within urban growth boundaries must include an
+inventory of vacant and developed lands within the planning area designated for
+industrial or other employment use.
+a) For sites inventoried under this section, plans must provide the following information:
+A) The description, including site characteristics, of vacant or developed sites within
+each plan or zoning district;
+8) A description of any development constraints or infrastructure needs that affect
+the buildable area of sites in the inventory; and
+C) For cities and counties within a Metropolitan Planning Organization, the
+inventory must also include the approximate total acreage and percentage of sites
+within each plan or zoning district that comprise the short- term supply of land.
+b) When comparing current land supply to the projected demand, cities and counties
+may inventory contiguous lots or parcels together that are within a discrete plan or
+zoning district.
+c) Cities and counties that adopt objectives or policies providing for prime industrial
+land pursuant to OAR 660- 009-0020( 6) and 660- 009-0025( 8) must identify and
+inventory any vacant or developed prime industrial land according to section 3(a) of this
+rule.
+See note 5 above ( Johnson-Reid LLC, May 31, 2011, REOA), 6, 41, 46- 47.
+PAGE 36 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Finding: Deschutes County, by exercising its statutory coordination authority, is
+choosing to focus on a short- term regional inventory that identifies six, 50 acre or
+greater sites, in three different jurisdictions, with two of those sites being between 100 to
+200 acres, and one over 200 acres. Oregon's prescriptive land use planning system
+requires that Deschutes County and ( given its regional emphasis) Central Oregon
+perform an inventory of industrial lands. This requirement at this particular point in time
+is premature because Deschutes County, through its statutory authority, must first
+provide the legal foundation to encourage Bend, La Pine, Redmond, and Sisters to
+address a short- term specialized employment land need. Deschutes County is
+specifically fulfilling its regional coordination responsibilities by formalizing, through
+policies, a regional governance and land use planning framework that describe the roles
+and responsibilities of a regional entity, such as COIC. Deschutes County is applying its
+coordination authority to cities as well, for those willing to fulfill this regional employment
+need, consistent with Oregon's Statewide Planning Program. Deschutes County
+nonetheless recognizes the importance of addressing OAR 660- 009-0015( 3) and the
+requirement of an inventory. It is complying with the requirement that specifies city and
+counties to inventory industrial and other employment lands by adopting the following
+policies:
+Cities are required to comply with state land use program requirements when
+changing land designations or amending a UGB, including conducting a local
+inventory to determine whether a local deficit exists.
+Cities are directed to not conduct regional inventories where and because the
+counties have established plan policies under their statutory coordinating
+authority to limit and disperse the number of sites that can be included in the
+various UGBs as well as a program to manage the supply.
+To meet the requirements of Division 024 when amending a UGB to include a
+site in compliance with the regional plan, cities will be required to provide an
+estimated employment projection for the site at full build out within the
+planning period by applying the REOA analysis and plan to the particulars of
+the site.
+When a city investigates and concludes that a potential qualifying large-lot
+industrial site exists or can be assembled inside of its UGB ( and the existing
+site zoning will be amended with the large-lot overlay zoning assignment),
+that city must replace that original [ future] buildable land supply or evaluate
+and conclude that the previously identified future land supply is no longer
+needed.
+Participating cities, when examining candidate sites, shall conduct their
+alternative land and public facilities analyses and inventory of employment
+lands by first examining if the short- term regional need can be met inside the
+implementing city's UGB, before assessing lands adjacent to it as required by
+state law. Cites are not required to evaluate inventories throughout the region
+because the adopted county plan has limited supply and specified site
+dispersal as noted in the REOA.
+PAGE 37 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Participating cities, after conducting alternative lands and public facility
+analyses, but prior to any entitlement process, shall receive formal support
+from EDCO that candidate site(s) contain necessary site characteristics and
+attributes, as defined in the REOA, to attract large-lot industrial recruiters.
+OAR 660- 009-0015: ( 4) Assessment of Community Economic Development Potential.
+The economic opportunities analysis must estimate the types and amounts of industrial
+and other employment uses likely to occur in the planning area. The estimate must be
+based on information generated in response to sections ( 1) to ( 3) of this rule and must
+consider the planning area's economic advantages and disadvantages. Relevant
+economic advantages and disadvantages to be considered may include but are not
+limited to:
+a) Location, size and buying power of markets;
+b) Availability of transportation facilities for access and freight mobility,
+c) Public facilities and public services;
+d) Labor market factors;
+e) Access to suppliers and utilities,
+f) Necessary support services;
+g) Limits on development due to federal and state environmental protection laws, and
+h) Educational and technical training programs.
+Finding: Led by Economic Development for Central Oregon in participation with local
+leaders, the Central Oregon region has gone through the lengthy process of identifying
+specific industry sectors for business recruitment, retention, and entrepreneurial
+support . 84 Several of these industries have had successful results to- date, while others
+are relatively young in Central Oregon. The amount, recognized as short- term supply is
+described above in an earlier finding. In the summaries below, the REOA draws largely
+from Economic Development for Central Oregon's evaluation of industries in Central
+Oregon as well as extensive research and evaluation produced as a part of the Oregon
+Business Plan.
+Renewable Energy Development - Renewable or clean energy development is a
+global industry on the rise. In 2008, Global Insight forecasted U. S. employment
+growth related to " green industries" would reach 2. 5 million over the next ten
+years. In Oregon, solar manufacturing has been an early entrant, taking
+advantage of Oregon's existing and highly related semiconductor industry and
+proximity to large U. S. West Coast markets. Central Oregon currently has a small
+but diverse cluster of renewable energy related industries ranging from solar
+power and fuel cells to wind power and biomass production.
+Aviation/ Aerospace- There is an existing concentration relating to Redmond's
+airport and Bend's metro area. Specifically, Lancair has been operating in
+Redmond since 1992. Oregon's aviation industry includes 200 firms providing
+manufacturing, first and second supply chain services, and product distribution.
+84
+See note 2 above ( Central Oregon Comprehensive Economic Development Strategy), 20. Industry sectors cited in
+the REOA are also referenced in this report.
+PAGE 38 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Oregon's kit plane manufacturers also provide over 70 percent of all of the kit
+planes sold within the U. S. each year to global customers.
+Software - Oregon is home to more than 1, 500 software companies, and is
+particularly strong in the areas of: electronic design automation, financial
+solutions, open source, educational and training software, embedded software
+and healthcare applications. Central Oregon itself is home to over two dozen
+established software engineering firms. Software development firms are typically
+smaller in scale, where quality of life and telecom infrastructure is important.
+However, the Central Oregon region and the State of Oregon face both human
+and financial capital challenges to further development of the Software/IT cluster.
+Biosciences - Oregon's bioscience industry has over 600 companies and
+research institutions. Biosciences include research and development, medical
+devices, medical diagnostics, human and animal therapeutics, pharmaceuticals,
+reagents, research services, bio- agriculture, bio- fuels, and medical software
+operations. Bioscience is a $ 2. 5 billion traded sector industry in Oregon. While
+Oregon is not seen as a bioscience hub nationally, Central Oregon is home to a
+segment of Oregon's promising bioscience future, specializing in pharmaceutical
+research and development. However, biosciences are highly workforce
+dependent and are often related to large- scale, higher education resources,
+which are currently absent in the region.
+Data Centers - Data centers are an emerging economic development engine in
+Oregon bringing significant capital investment to regional communities. The
+Central Oregon region offers key critical components in the recruitment of data
+center projects, specifically affordable electric power, municipal water and sewer
+capacity, robust telecom infrastructure, ability to attract technical talent to operate
+data center facilities, and a climate that can significantly lower power usage.
+These factors were instrumental in EDCO's recruitment of both Bend
+Broadband's Vault project and Facebook's $ 188 million investment in Prineville.
+Recreation Equipment - Oregon is home to some of the world's most recognized
+brands in footwear and sports apparel. Locally headquartered firms include Nike,
+Columbia Sportswear and the North American headquarters of Adidas.
+Additionally, hotbed recreational regions such as Hood River and Central Oregon
+have long seen start-up recreational equipment firms flourish into significant
+contributors to local economies. Central Oregon specifically is home to diverse
+range of mountain, river, and recreational vehicle and equipment manufacturers.
+Higher Education - Central Oregon is just beginning the process of establishing
+planning efforts in the establishment of a higher education facility in the region.
+Local policy market and economic development professionals realize the broader
+importance of higher education on workforce quality, culture, and business
+development. Higher education facilities are typically campus style development
+PAGE 39 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+requiring large affordable sites with good telecom and transportation
+infrastructure. Sites need to be proximate to population centers.
+Regional Distribution Centers - Central Oregon can play a role in distribution,
+with Highway 97 representing an option to the 1-5 Corridor. Option planning is
+taking a larger role in logistics and is expected to play a bigger role in diversifying
+risk away from a single supply route.
+Wood Products - The Wood Products cluster is a long standing economic driver
+in Central Oregon. The cluster includes primary and secondary wood products,
+machinery manufacturing, paper & pulp manufacturing, wholesaling, and
+business management. Where Central Oregon was once a primary wood
+products region, secondary wood products manufacturing now accounts for 25%
+of all manufacturing employment in the region. While wood products have largely
+been a low growth industry over the last decade, the Central Oregon region is
+targeting additional value- added firms. Moreover, innovated new- age primary
+lumber production models have emerged in recent years of which Central
+Oregon would have a distinct competitive advantage.
+While it is unlikely that several industries being targeted by communities within
+Central Oregon will generate significant demand for large-lot industrial land,
+some sectors have a demonstrated track record for creating enormous
+exogenous absorption of properly-zoned industrial sites. For example, software,
+recreational equipment and aviation/ aerospace all have precedent for large
+corporate campuses: respectively Microsoft in Redmond, Washington; Thor
+Industries in Elkhart, Indiana; Cessna in Wichita, Kansas. Typical companies,
+however, require building footprints well under the 40- 50 acre threshold we have
+defined as a large-lot industrial site. These needs are generally met by the
+existing land use process in Oregon. Industries requiring large acreages that hold
+promise for the Central Oregon region include:
+Data centers
+Warehouse/ distribution centers
+Select high technology/ biosciences operations85
+OAR 660- 009-0015: ( 5) Cities and counties are strongly encouraged to assess
+community economic development potential through a visioning or some other public
+input based process in conjunction with state agencies. Cities and counties are strongly
+encouraged to use the assessment of community economic development potential to
+form the community economic development objectives pursuant to OAR 660- 009-
+0020(1)(a).
+Finding: Deschutes County chose to form a RAC to help guide the development of the
+REOA. Besides representatives of local government, members included Economic
+85
+See note 5 above ( Johnson-Reid LLC, May 31, 2011, REOA), 28- 30, 31- 34. The REOA also cites targeted
+industries with large land needs in Appendix B, starting on page 60.
+PAGE 40 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Development for Central Oregon, Department of Land Conservation and Development,
+Business Oregon, Department of State Lands, 1, 000 Friends of Oregon, COIC, Central
+Oregon Association of Realtors and Johnson-Reid LLC. The RAC developed a
+community vision, which summarizes what the region's economic development goals
+are as they particularly relate to large-lot industrial demand.
+To build a strong and thriving regional economy by establishing and actively
+maintaining a competitive portfolio of large-lot employment sites and coordinating
+public investments, policies and regulations to support regional and state
+economic development objectives.86
+OAR 660- 009-0020 - Industrial and Other Employment Development Policies
+1) Comprehensive plans subject to this division must include policies stating the
+economic development objectives for the planning area. These policies must be based
+on the community economic opportunities analysis prepared pursuant to OAR 660- 009-
+0015 and must provide the following:
+a) Community Economic Development Objectives. The plan must state the overall
+objectives for economic development in the planning area and identify categories or
+particular types of industrial and other employment uses desired by the community.
+Policy objectives may identify the level of short- term supply of land the planning area
+needs. Cities and counties are strongly encouraged to select a competitive short- term
+supply of land as a policy objective.
+Finding: Deschutes County chooses to identify and implement a program to create a
+regional large-lot land supply that enables Central Oregon to be a competitive region for
+industrial recruitment. Central Oregon's traditional industrial base remains active in the
+local economy, and the region would like to increase its emphasis on industrial
+employment to strengthen that base. While many locally based service- sector
+businesses are an essential part of a region's business mix and quality of life, they are
+not as effective in creating new living wage jobs.87 Deschutes County, by exerting is
+statutory coordination authority, wants to leverage its strengths and employ new
+economic development tools to create a dynamic and competitive large-lot industrial
+land supply portfolio and inventory that appeal to industrial site selectors. As noted in
+the REOA, Central Oregon wants to implement a program that assures a regional
+industrial land inventory is adequate to support the specific needs of large-lot industrial
+users.
+88
+Deschutes County is adopting a REOA in conjunction with several regional industrial
+land policies to comply with OAR 660- 009-0020( 1)(a). These policies clearly recognize
+an economic development objective. The last two policies in particular underscore a
+competitive short- term supply of land as a policy objective.
+86
+Ibid., 7.
+87
+Ibid., 4.
+88
+Ibid., 5. The primary economic development objective of this analysis is to ensure that the regional industrial land
+inventory is adequate to support the specific needs of large lot industrial users
+PAGE 41 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+The Central Oregon region, comprised of Jefferson, Crook and Deschutes
+counties and its respective cities recognizes the market reality that the region
+currently serves as an integrated, cohesive economic unit, sharing work force
+and commercial amenities, and should be marketed as such to increase its
+perceived scale in the market.
+The Central Oregon region needs a critical mass of competitive and diverse
+vacant, developable large-lot industrial sites in order for site selectors
+representing potential industrial recruitment to consider the region, along with
+all of the other needed support factors including adequately skilled workforce,
+workforce training programs, worker housing, supportive local government,
+utility services, transportation, and quality of life.
+Developing and maintaining a supply of large readily available industrial sites
+is not currently part of regional economic development efforts, therefore the
+region's jurisdictions have developed Goal 9 compliance based on projected
+growth, and the attraction of a large industrial user that is recognized as an
+exogenous impact to these projections.
+A large-lot industrial site is 50 acres or larger with specific site attributes and
+amenities.
+The short term supply of 6 sites is a community development objective of
+Central Oregon for establishing large-lot industrial uses.
+Short term supply is a readily available inventory of 6 large sites in at least
+three separate jurisdictions that provide for an adequate supply of sites to
+prospective industries or site selectors. Two of the 6 sites are to be 100 to
+200 acres and one site would be 200+ acres.
+OAR 660- 009-0020: ( 1)(b) Commitment to Provide a Competitive Short- Term Supply.
+Cities and counties within a Metropolitan Planning Organization must adopt a policy
+stating that a competitive short- term supply of land as a community economic
+development objective for the industrial and other employment uses selected through
+the economic opportunities analysis pursuant to OAR 660- 009-0015.
+Finding: As noted in the previous finding, Deschutes County satisfies OAR 660- 009-
+0020(1)(b) by adopting the following policy:
+The short term supply of 6 sites is a community development objective of
+Central Oregon for establishing large-lot industrial uses.
+OAR 660- 009-0020: ( 1)(c) Commitment to Provide Adequate Sites and Facilities. The
+plan must include policies committing the city or county to designate an adequate
+number of sites of suitable sizes, types and locations. The plan must also include
+policies, through public facilities planning and transportation system planning, to provide
+necessary public facilities and transportation facilities for the planning area.
+PAGE 42 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Finding: Deschutes County is exercising its statutory coordination authority to
+encourage cities to address an unmet large-lot industrial land need by adopting a REOA
+and several regional industrial land policies to comply with OAR 660- 009-0020( 1)(c). As
+noted above, Deschutes County must first provide the legal foundation to encourage
+Bend, La Pine, Redmond, and Sisters to address a short- term specialized employment
+land need. Deschutes County is specifically fulfilling its regional coordination
+responsibilities by formalizing, through policies, a regional governance and land use
+planning framework that describe the roles and responsibilities of a regional entity, such
+as COIC. Deschutes County is applying its coordination authority to cities as well, for
+those willing to fulfill this regional employment need, consistent with Oregon's Statewide
+Planning Program.
+The timing for committing cities to designate suitable sizes, types and locations of large-
+lot employment sites, consistent with public facility and transportation system plans
+however, will occur when cities choose to implement this program. As mentioned above,
+Deschutes County, by adopting the REOA into its Comprehensive Plan is identifying the
+short- term and twenty year need. Through policies, Deschutes County is also
+establishing the legal framework for regional governance. Cities in Central Oregon will
+be responsible for addressing unmet short- term need for large-lot industrial sites and
+conducting buildable lands inventories consistent with the statewide planning program.
+OAR 660- 009-0020( 1)(c) admittedly does not fit neatly with a regional approach to
+large-lot industrial siting. Deschutes County nonetheless recognizes the importance of
+addressing this administrative rule to assure cities comply with it. The commitment to
+establish and maintain a supply of large-lot industrial sites ultimately rests with all the
+local governments in the tri- county region. Deschutes County satisfies this
+administrative rule by adopting the following policies:
+Deschutes County recognizes the importance for maintaining an appropriate
+available large-lot industrial land supply that is readily developable in Central
+Oregon.
+The supply of up to 6 sites, located in existing or amended Urban Growth
+Boundaries ( UGBs), addresses the short- term large-lot industrial regional
+land need in Central Oregon and can be incorporated as an additional
+component of a city's twenty year land supply.
+Participating cities in Deschutes County will support the existing economic
+base by providing adequate land and infrastructure to make city sites
+attractive to businesses willing to invest in high job density and industrial
+activity.
+Cities in Deschutes County will continue to provide high quality physical
+infrastructure to serve the needs of business.
+Deschutes County, fulfilling its coordination duties specified in ORS 195. 025,
+shall approve and update its comprehensive plan when participating cities
+within their jurisdiction legislatively or through a quasi- judicial process
+designate regionally significant sites.
+PAGE 43 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Cities are required to comply with state land use program requirements when
+changing land designations or amending a UGB, including conducting a local
+inventory to determine whether a local deficit exists.
+To meet the requirements of Division 024 when amending a UGB to include a
+site in compliance with the regional plan, cities will be required to provide an
+estimated employment projection for the site at full build out within the
+planning period by applying the REOA analysis and plan to the particulars of
+the site.
+Participating cities, when examining candidate sites, shall conduct their
+alternative land and public facilities analyses and inventory of employment
+lands by first examining if the short- term regional need can be met inside the
+implementing city's UGB, before assessing lands adjacent to it as required by
+state law. Cites are not required to evaluate inventories throughout the region
+because the adopted county plan has limited supply and specified site
+dispersal as noted in the REOA.
+OAR 660- 009-0020: ( 2) Plans for cities and counties within a Metropolitan Planning
+Organization or that adopt policies relating to the short- term supply of land, must include
+detailed strategies for preparing the total land supply for development and for replacing
+the short- term supply of land as it is developed. These policies must describe dates,
+events or both, that trigger local review of the short- term supply of land.
+Finding: According to the REOA, large-lot employment sites are an unmet land need,
+currently not part of regional economic development efforts. Deschutes County, by
+exercising its statutory coordination authority, is choosing to focus on a short- term
+inventory that identifies six, 50 acre or greater sites, in three different jurisdictions, with
+two of those sites being between 100 to 200 acres, and one over 200 acres. Oregon's
+prescriptive land use planning system nonetheless requires that Deschutes County and
+given its regional emphasis) Central Oregon also identify the employment land supply
+for a twenty year planning period (total land supply). A total land supply of seventeen
+sites represents the twenty year regional land supply of large-lot employment sites.
+It is important to acknowledge that a twenty year land supply from an economic
+development standpoint is inconsequential. Business Oregon recognizes that Central
+Oregon's first priority should be establishing a readily available and developable
+inventory of six large sites in at least three separate jurisdictions. Economic
+development, viewed outside the context of Oregon's land use planning system would
+focus entirely on a short- term supply with mechanisms to insure consistent
+replenishment. Viewed from this perspective, the long-term (20 year) supply's value is in
+identifying sites that can replace the short term inventory if absorbed or if market
+conditions and needs shift. Deschutes County is proposing the following policies,
+consistent with OAR 660- 009-0020( 2) that concentrates this program's efforts on the
+short- term supply, including safeguards that ensure replenishment sites are not
+exploited:
+PAGE 44 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+The unmet short- term need for large-lot industrial sites in Central Oregon is
+an additional component of a city's twenty-year land supply.
+Short term supply is a readily available inventory of 6 large sites in at least
+three separate jurisdictions that provide for an adequate supply of sites to
+prospective industries or site selectors. Two of the 6 sites are to be 100 to
+200 acres and one site would be 200+ acres.
+At least one of the 6 short term ( readily available/ developablein 6 months)sites would consist of a major, centrally located large-scale development
+property near the region's geographic and workforce center, and where keyinfrastructure is in place and has excess capacity, either the north end of
+Bend or the southern end of Redmond, east of Highway 97.
+The supply of up to 6 sites, located in existing or amended Urban Growth
+Boundaries ( UGBs), addresses the short- term large-lot industrial regionalland need in Central Oregon and can be incorporated as an additional
+component of a city's twenty year land supply.
+The supply of up to 17 long-term sites, which includes the 6 short term sites,
+represents the currently projected ( total) 20- year regional land supply of this
+special industrial land classification.
+Replenishing the short term inventory shall be initiated when large lot
+employers demonstrate a commitment to short term sites by completing land
+use entitlements and executing site- developmentpermits, including buildingpermits, subject to the following replenishment mechanism:
+a. To maintain a competitive short term ready supply of large-lot employment
+sites with the characteristics specified in the REOA, only a total of six
+vacant and developable sites shall ever be made available at one time.
+Central Oregon cities and counties shall, within 6 months of the adoption of
+this policy, execute Memorandums of Understanding (MOUs) that specify:
+a. Cities, after conducting alternative lands and public facility analyses, but
+prior to any entitlement process, receive formal support from Economic
+Development of Central Oregon that potential sites contain necessary site
+characteristics and standards as defined in the REOA to attract large-lotindustrial recruiters.
+b. Establishment of a regional authority, responsible for formally supportingregional large-lot industrial sites after cities identify potential candidates
+through alternative lands and public facility analyses, but prior to any
+entitlement process.
+c. A Regional Advisory Committee ( RAC) will be convened ( at least)
+annually with each city and county providing activity reports relating to the
+short term land supply. Facilitating the RAC will be the responsibility of the
+counties ( ORS 195.025) and will rotate each year, starting alphabetically
+with Crook County.
+PAGE 45 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Deschutes County supports Economic Development of Central OregonEDCO), a non- profit organization facilitating new job creation and capitalinvestment to monitor and advocate for the region's efforts of maintaining an
+inventory of appropriate sized and located industrial lots available to the
+market.
+Deschutes County, in collaboration with other Central Oregon's counties and
+cities and EDCO, will coordinate and seek assistance from state agencies to
+continually support a regional economic development replenishment strategy.
+The policies above recognize that projecting the demand for industrial land in this size
+range is inherently highly speculative, as it is a thinly traded and highly competitivesector. With fewer transactions and multiple areas competing for these transactions,there is an unusually high degree of uncertainty in any forecast. The degree of
+uncertainty however, is offset by emphasizing a short term ready supply, with a
+mechanism to replace supply in a timely manner when needed.
+OAR 660- 009-0020: ( 3) Plans may include policies to maintain existing categories or
+levels of industrial and other employment uses including maintaining downtowns or
+central business districts.
+4) Plan policies may emphasize the expansion of and increased productivity from
+existing industries and firms as a means to facilitate local economic development.
+5) Cities and counties are strongly encouraged to adopt plan policies that include
+brownfield redevelopment strategies for retaining land in industrial use and for qualifyingthem as part of the local short- term supply of land.
+6) Cities and counties are strongly encouraged to adopt plan policies pertaining to
+prime industrial land pursuant to OAR 660- 009-0025( 8).
+7) Cities and counties are strongly encouraged to adopt plan policies that include
+additional approaches to implement this division including
+Finding: These specific administrative rules are not requirements; therefore Deschutes
+County is not required to incorporate specific policies to address them.
+OAR 660- 009-0025 - Designation of Lands for Industrial and Other EmploymentUses
+Cities and counties must adopt measures adequate to implement policies adoptedpursuant to OAR 660- 009-0020. Appropriate implementing measures include
+amendments to plan and zone map designations, land use regulations, public facilityplans, and transportation system plans.
+1) Identification of Needed Sites. The plan must identify the approximate number,
+acreage and site characteristics of sites needed to accommodate industrial and other
+employment uses to implement plan policies. Plans do not need to provide a different
+type of site for each industrial or other employment use. Compatible uses with similar
+site characteristics may be combined into broad site categories. Several broad site
+categories will provide for industrial and other employment uses likely to occur in most
+PAGE 46 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+planning areas. Cities and counties may also designate mixed-use zones to meet
+multiple needs in a given location
+Finding: Deschutes County is exercising its statutory authority and choosing to
+collaborate with the cities of Bend, La Pine, Redmond, and Sisters, as well as Jeffersonand Crook Counties by responding to a specific employment need identified in a REOAfor large-lot industrial sites in Central Oregon. Deschutes County is adopting a REOA
+and several regional industrial land policies to comply with OAR 660- 009-0025( 1). As
+described above, the REOA defines the short and long term need to accommodate
+large-lot industrial sites. Regulations and comprehensive plan policies that provide an
+adequate supply of sites of suitable sizes, types, locations and service levels for
+industrial uses will occur when cities conduct their alternative land and public facilities
+analyses and inventory of employment lands when examining if the short- term regionalneed can be met inside their respective UGBs, consistent with OAR 660 Division 9 and
+Division 24. Deschutes County satisfies OAR 660- 009-0025( 1)by adopting the followingdraft policies:
+The Central Oregon Large Lot Industrial Regional Economic OpportunityAnalysis ( REOA) dated May 31, 2011 is incorporated and adopted byreference herein. Findings from the REOA recognize:
+o Large-lot industrial lands supply initiative exceeds the capacity of any
+single jurisdiction.
+o A large-lot industrial site is 50 acres or larger with specific site attributes
+and amenities.
+o Short term supply is a readily available inventory of 6 large sites in at least
+three separate jurisdictions that provide for an adequate supply of sites to
+prospective industries or site selectors. Two of the 6 sites are to be 100 to
+200 acres and one site would be 200+ acres.
+o At least one of the 6 short term ( readily available/ developablein 6 months)sites would consist of a major, centrally located large-scale development
+property near the region's geographic and workforce center, and where
+key infrastructure is in place and has excess capacity, either the north end
+of Bend or the southern end of Redmond, east of Highway 97.
+The supply of up to 6 sites, located in existing or amended Urban Growth
+Boundaries ( UGBs), addresses the short- term large-lot industrial regionalland need in Central Oregon and can be incorporated as an additional
+component of a city's twenty year land supply.
+The short term supply of 6 sites is a community development objective of
+Central Oregon for establishing large-lot industrial uses.
+Deschutes County recognizes the importance for maintaining an appropriateand available large-lot industrial land supply that is readily developable in
+Central Oregon.
+PAGE 47 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Participating cities, when examining candidate sites, shall conduct theiralternative land and public facilities analyses and inventory of employmentlands by first examining if the short- term regional need can be met inside the
+implementing city's UGB, before assessing lands adjacent to it as required bystate law. Cites are not required to evaluate inventories throughout the regionbecause the adopted county plan has limited supply and specified site
+dispersal as noted in the regional EOA.
+The supply of up to 17 long-term sites, which includes the 6 short term sites,represents the currently projected ( total) 20- year regional land supply of this
+special industrial land classification.
+When a city investigates and concludes that a potential qualifying large-lotindustrial site exists or can be assembled inside of its UGB ( and the existingsite zoning will be amended with the large-lot overlay zoning assignment),that city must replace that original [ future] buildable land supply or evaluate
+and conclude that the previously identified future land supply is no longerneeded.
+Replenishing the short term inventory shall be initiated when large lot
+employers demonstrate a commitment to short term sites by completing land
+use entitlements and executing site- developmentpermits, including buildingpermits, subject to the following replenishment mechanism:
+a. To maintain a competitive short term ready supply of large-lot employmentsites with the characteristics specified in the REOA, only a total of six
+vacant and developable sites shall ever be made available at one time.
+OAR 660- 009-0025: ( 2) Total Land Supply. Plans must designate serviceable landsuitable to meet the site needs identified in section ( 1) of this rule. Except as providedfor in section ( 5) of this rule, the total acreage of land designated must at least equal thetotal projected land needs for each industrial or other employment use categoryidentified in the plan during the 20- yearplanning period.
+Finding: According to the REOA, large-lot employment sites are an unmet land need,currently not part of regional economic development efforts. Deschutes County, byexercising its statutory coordination authority, is choosing to focus on a short- term
+inventory that identifies six, 50 acre or greater sites, in three different jurisdictions, withtwo of those sites being between 100 to 200 acres, and one over 200 acres. Oregon'sprescriptive land use planning system nonetheless requires that Deschutes County and
+given its regional emphasis) Central Oregon also identify the employment land supplyfor a twenty year planning period ( total land supply). A total land supply of seventeensites represents the twenty year regional land supply of large-lot employment sites.
+It is important to acknowledge that a twenty year land supply from an economic
+development standpoint is inconsequential. Business Oregon recognizes that Central
+Oregon's first priority should be establishing a readily available and developableinventory of six large sites in at least three separate jurisdictions. Economic
+development, viewed outside the context of Oregon's land use planning system would
+PAGE 48 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+focus entirely on a short- term supply with mechanisms to insure consistent
+replenishment. Viewed from this perspective, the long-term (20 year) supply's value is in
+identifying sites that can replace the short term inventory if absorbed or if market
+conditions and needs shift. As noted above, Deschutes County is proposing policiesthat concentrate this program's efforts on the short- term supply, including safeguardsthat ensure replenishment sites are not exploited. The following policies satisfy OAR
+660- 009-025( 2):
+The supply of up to 17 long-term sites, which includes the 6 short term sites,represents the ( currently projected) total 20- year land supply of this specialindustrial land classification.
+Cities are directed to not conduct regional inventories where and because the
+counties have established plan policies under their statutory coordinatingauthority to limit and disperse the number of sites that can be included in the
+various UGBs as well as a program to manage the supply.
+OAR 660- 009-0025: ( 3) Short- Term Supply of Land. Plans for cities and countieswithin a Metropolitan Planning Organization or cities and counties that adopt policiesrelating to the short- term supply of land must designate suitable land to respond to
+economic development opportunities as they arise. Cities and counties may maintainthe short- term supply of land according to the strategies adopted pursuant to OAR 660-
+009- 0020(2).
+Finding: As described above, the REOA defines the region's short term need to
+accommodate large-lot industrial sites. Deschutes County satisfies this oar 660- 0090-
+0025(3) by adopting the following draft policies:
+The supply of up to 6 sites, located in existing or amended Urban Growth
+Boundaries ( UGBs), addresses the short- term large-lot industrial regionalland need in Central Oregon and can be incorporated as an additional
+component of a city's twenty year land supply.
+Short term supply is a readily available inventory of 6 large sites in at least
+three separate jurisdictions that provide for an adequate supply of sites to
+prospective industries or site selectors. Two of the 6 sites are to be 100 to
+200 acres and one site would be 200+ acres.
+At least one of the 6 short term ( readily available/ developablein 6 months)sites would consist of a major, centrally located large-scale developmentproperty near the region's geographic and workforce center, and where keyinfrastructure is in place and has excess capacity, either the north end of
+Bend or the southern end of Redmond, east of Highway 97.
+Replenishing the short term inventory shall be initiated when large lot
+employers demonstrate a commitment to short term sites by completing land
+use entitlements and executing site- developmentpermits, including buildingpermits, subject to the following replenishment mechanism:
+PAGE 49 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+a. To maintain a competitive short term ready supply of large-lot employmentsites with the characteristics specified in the REOA, only a total of six
+vacant and developable sites shall ever be made available at one time.
+The notion of replenishment is always to maintain an adequate short- term supplyof sites. It can be triggered when a site is committed to development. Deschutes
+County is choosing to define a large-lot employer's commitment to a site when it
+completes the land use entitlement process and executes site developmentpermits ( ex. grading), including building permits.
+OAR 660- 009-0025: ( 3) (a) Except as provided for in subsections ( b) and ( c), cities and
+counties subject to this section must provide at least 25 percent of the total land supplywithin the urban growth boundary designated for industrial and other employment uses
+as short- term supply.
+b) Affected cities and counties that are unable to achieve the target in subsection ( a)above may set an alternative target based on their economic opportunities analysis.
+c) A planning area with 10 percent or more of the total land supply enrolled in Oregon'sindustrial site certification program pursuant to ORS 284. 565 satisfies the requirementsof this section.
+Finding: OAR 660- 009-025( 3)(a) requires cities and counties to provide at least 25
+percent of the total land supply within the UGB designated for industrial and other
+employment uses as short- term supply. Deschutes County, by exercising its statutorycoordination authority, is encouraging Bend, La Pine, Redmond, and Sisters to address
+a short- term specialized employment land need of six industrial sites, 50 acres or largerin three different jurisdictions. Seventeen sites, which include the 6 short term sites,
+represent the currently projected (total) 20- year regional land supply of this specializedindustrial land classification. The short- term inventory therefore represents 35% of the
+total supply. As noted earlier, Deschutes County is specifically fulfilling its regionalcoordination responsibilities by formalizing, through policies, a regional governance and
+land use planning framework that describe the roles and responsibilities of a regionalentity, such as COIC. Deschutes County is applying its coordination authority to cities
+as well, for those willing to fulfill this regional employment need, consistent with
+Oregon's Statewide Planning Program.
+The policies below demonstrate that participating cities will satisfy the requirement of
+accommodating 25% of the total land supply in UGBs when they conduct their
+alternative land and public facilities analyses and inventory of employment lands,consistent with OAR 660 Division 9 and Division 24:
+Participating cities, when examining candidate sites, shall conduct their
+alternative land and public facilities analyses and inventory of employmentlands by first examining if the short- term regional need can be met inside the
+implementing city's UGB, before assessing lands adjacent to it as required bystate law. Cites are not required to evaluate inventories throughout the region
+PAGE 50 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+because the adopted county plan has limited supply and specified site
+dispersal as noted in the regional EOA.
+Replenishing the short term inventory shall be initiated when large lot
+employers demonstrate a commitment to short term sites by completing land
+use entitlements and executing site- developmentpermits, including building
+permits, subject to the following replenishment mechanism:
+a. To maintain a competitive short term ready supply of large-lot employment
+sites with the characteristics specified in the REOA, only a total of six
+vacant and developable sites shall ever be made available at one time.
+OAR 660- 009-0025: ( 4) If cities and counties are required to prepare a public facility
+plan or transportation system plan by OAR chapter 660, division 011 or division 012, the
+city or county must complete subsections ( a) to ( c) of this section at the time of periodic
+review. Requirements of this rule apply only to city and county decisions made at the
+time of periodic review.
+Finding: Deschutes County started its periodic review in 1988 and completed it on
+January 23, 2003. In 2003, the Oregon Legislature amended ORS 197. 629(3)
+exempting counties from periodic review, excluding portions of its population within the
+urban growth boundary (UGB) of a city.
+OAR 660- 009-0025: ( 5) Institutional Uses. Cities and counties are not required to
+designate institutional uses on privately owned land when implementing section ( 2) of
+this rule. Cities and counties may designate land in an industrial or other employment
+land category to compensate for any institutional land demand that is not designated
+under this section.
+Findin : This administrative rule does not apply since the REOA identifies opportunities
+to establish and maintain large-lot industrial sites in Central Oregon.
+OAR 660- 009-0025: ( 6) Compatibility. Cities and counties are strongly encouraged to
+manage encroachment and intrusion of uses incompatible with industrial and other
+employment uses. Strategies for managing encroachment and intrusion of incompatible
+uses include, but are not limited to, transition areas around uses having negative
+impacts on surrounding areas, design criteria, district designation, and limiting non-
+essential uses within districts.
+Finding: Deschutes County, by exercising its statutory coordination authority, is
+encouraging Bend, La Pine, Redmond, and Sisters to address a short- term specialized
+employment land need of six industrial sites, 50 acres or larger in three different
+jurisdictions. Deschutes County complies with this administrative rule by adopting the
+following policy:
+Participating cities in Deschutes County shall adopt a large-lot industrial
+overlay zone that establishes and maintains the region's large-lot industrial
+site inventory and manages usage of such lands.
+PAGE 51 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+OAR 660- 009-0025: ( 7) Availability. Cities and counties may consider land availability
+when designating the short- term supply of land.
+Finding: The REOA acknowledges the difficult tasks of assembling multiple smaller
+parcels into a cohesive " large-lot" product.89 Deschutes County recognizes that the key
+to the site selection process is that it is essential for candidate sites to be truly
+development-ready instead of simply "buildable." A general lack of development-ready
+sites to choose from eliminates a city or region from contention early in the site selection
+process. This is why Deschutes County is focusing on the short- term supply of a readily
+available inventory of up to 6 sites in at least three separate jurisdictions in order to
+provide an adequate supply of sites to prospective industries or site selectors. Two of
+the 6 sites are to be 100 to 200 acres and one site would be 200+ acres. This is
+consistent with the REOA's recognition that firms in the site selection process prefer to
+have multiple options within a region that meet their criteria. Ideally this would include
+multiple ownerships, as well as multiple jurisdictions. This allows for competitive
+pricing, a wider range of options, as well as making the area more attractive for site
+visitation.90
+OAR 660- 009-0025: ( 8) Uses with Special Siting Characteristics. Cities and counties
+that adopt objectives or policies providing for uses with special site needs must adopt
+policies and land use regulations providing for those special site needs. Special site
+needs include, but are not limited to large acreage sites, special site configurations,
+direct access to transportation facilities, prime industrial lands, sensitivity to adjacent
+land uses, or coastal shoreland sites designated as suited for water- dependent use
+under Goal 17. Policies and land use regulations for these uses must.
+a) Identify sites suitable for the proposed use;
+b) Protect sites suitable for the proposed use by limiting land divisions and permissible
+uses and activities that interfere with development of the site for the intended use; and
+c) Where necessary, protect a site for the intended use by including measures that
+either prevent or appropriately restrict incompatible uses on adjacent and nearby lands.
+Finding: Deschutes County, through its governing body, is exerting its statutory
+coordinating authority to address an unmet regional need for large-lot industrial sites.
+This authority will assure there is an integrated comprehensive plan between Deschutes
+County and its respective cities by encouraging Bend, La Pine, Redmond, and Sisters
+to address a short- term specialized employment land need of six industrial sites, 50
+acres or larger in three different jurisdictions. Deschutes County is specifically fulfilling
+its regional coordination responsibilities by formalizing, through policies, a regional
+governance and land use planning framework that describe the roles and
+responsibilities of a regional entity, such as COIC. Deschutes County is applying its
+coordination authority to cities as well, for those willing to fulfill this regional employment
+need, consistent with Oregon's Statewide Planning Program. Deschutes County's
+process directs the tri- countyregion to coordinate as a single entity promoting large-lot
+89
+Ibid., 24.
+Ibid.
+PAGE 52 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+industrial employments sites that best serve the region as a whole to create family wage
+jobs, region economic diversification and place Central Oregon on the map for regional,
+national and international industrial recruitment.
+Deschutes County complies with this administrative rule and its emphasis on special
+siting characteristics by adopting the following policies:
+The Central Oregon region, comprised of Jefferson, Crook and Deschutes
+counties and its respective cities, recognizes the market reality that the region
+currently serves as an integrated, cohesive economic unit, sharing work force
+and commercial amenities, and should be marketed as such to increase its
+perceived scale in the industrial recruitment marketplace.
+The Central Oregon region needs a critical mass of competitive and diverse
+vacant, developable industrial sites in order for site selectors representing
+potential industrial recruitment to consider the region, along with all of the
+other needed support factors including adequately skilled workforce,
+workforce training programs, worker housing, supportive local government,
+utility services, transportation, and quality of life.
+Developing and maintaining a supply of large readily available industrial sites
+is not currently part of regional economic development efforts, therefore the
+region's jurisdictions have developed Goal 9 compliance based on projected
+growth, and the attraction of a large industrial user that is recognized as an
+exogenous impact to these projections.
+The exogenous short- term need for large-lot industrial sites in Central Oregon
+is an additional component of a city's twenty-year land supply.
+Competing as a cohesive region allows Central Oregon to market a larger
+available work force, the size of which is often a key locational criterion for
+firms.
+The need for large-lot industrial sites is a regional need, with the economic
+development benefits widely distributed regardless of the specific firm
+location.
+Large-lot industrial lands supply initiative exceeds the capacity of any single
+jurisdiction.
+A large-lot industrial site is 50 acres or larger with specific site attributes and
+amenities.
+Short term supply is a readily available inventory of 6 large sites in at least
+three separate jurisdictions that provide for an adequate supply of sites to
+prospective industries or site selectors. Two of the 6 sites are to be 100 to
+200 acres and one site would be 200+ acres.
+At least one of the 6 short term ( readily available/ developable in 6 months)
+sites would consist of a major, centrally located large-scale development
+property near the region's geographic and workforce center, and where key
+PAGE 53 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+infrastructure is in place and has excess capacity, either the north end of
+Bend or the southern end of Redmond, east of Highway 97.91
+The supply of up to 6 sites, located in existing or amended Urban Growth
+Boundaries ( UGBs), addresses the short- term large-lot industrial regional
+land need in Central Oregon and can be incorporated as an additional
+component of a city's twenty year land supply.
+The supply of up to 17 long-term sites, which includes the 6 short term sites,
+represents the currently projected ( total) 20- year regional land supply of this
+special industrial land classification.
+Replenishing the short term inventory shall be initiated when large lot
+employers demonstrate a commitment to short term sites by completing land
+use entitlements and executing site- developmentpermits, including building
+permits, subject to the following replenishment mechanism:
+a. To maintain a competitive short term ready supply of large-lot employment
+sites with the characteristics specified in the REOA, only a total of six
+vacant and developable sites shall ever be made available at one time.
+Participating cities in Deschutes County (and in the 3- CountyREOA region)
+shall adopt a large-lot industrial overlay zone that establishes and maintains
+the region's large-lot industrial site inventory and manages usage of such
+lands.
+OAR 660- 009-0030 - Multi- Jurisdiction Coordination
+1) Cities and counties are strongly encouraged to coordinate when implementing OAR
+660- 009-0015 to 660- 009-0025.
+2) Jurisdictions that coordinate under this rule may.
+a) Conduct a single coordinated economic opportunities analysis; and
+b) Designate lands among the coordinating jurisdictions in a mutually agreed
+proportion.
+Findin : The Land Conservation and Development Commission adopted amendments
+to OAR chapter 660, division 9 on December 1, 2005. One of those amendments
+enabled cities and counties to conduct a single, regional EOA. This specific
+administrative rule allows cities and counties to coordinate EOAs and to designate lands
+among the coordinating jurisdictions in a mutually agree proportion.92 Under this new
+rule, regional coordination is strongly encouraged, but not required. During rule making,
+no method was
+specified
+or mandated for REOAs, therefore counties are free to use a
+sensible method.
+3
+As described in these findings, Deschutes County is exercising its
+coordination authority by collaborating with the cities of Bend, La Pine, Redmond, and
+Sisters, responding to a specific employment/land need identified in a REOA for large-
+91
+See note 48 above ( Johnson-Reid LLC, May 31, 2011, REOA), 47.
+92
+http:// www.oregon. gov/LCD/ docs/economicdevelopment/ g9 rule fact sheet. pdf
+See note 38 above ( Department of Land Conservation and Development October 18, 2011 Letter), 1.
+PAGE 54 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+lot industrial sites in Central Oregon. Deschutes County is also coordinating with two
+adjoining counties by voluntarily joining together with Crook and Jefferson and their
+respective cities as authorized in ORS 190. 003 to 190.620, to collaborate on an
+unprecedented regional evaluation of the economic opportunities and constraints
+associated with users of large industrial parcels in the Central Oregon region. The
+REOA provides an extraordinary opportunity as demonstrated by the accompanying
+draft policies to establish and maintain a regional supply of large-lot industrial sites.
+Deschutes County complies with this subsection by adopting the following policies:
+Deschutes County supports a multi jurisdictional cooperative effort to pursue
+a regional approach to establish a competitive supply of large-lot industrial
+sites particularly designed to address out- of-region industries that may locate
+in Central Oregon.
+Short term supply is a readily available inventory of 6 large sites in at least
+three separate jurisdictions that provide for an adequate supply of sites to
+prospective industries or site selectors. Two of the 6 sites are to be 100 to
+200 acres and one site would be 200+ acres.
+Participating Central Oregon cities and counties shall, within 6 months of their
+adoption of this policy, execute Memorandums of Understanding (MOUs) that
+specify:
+1. Cities, after conducting alternative lands and public facility analyses, but
+prior to any entitlement process, receive formal support from Economic
+Development of Central Oregon that potential sites contain necessary
+site characteristics and standards as defined in the REOA to attract
+large-lot industrial recruiters.
+2. Establishment of a regional authority, responsible for formally
+supporting regional large-lot industrial sites after cities identify potential
+candidates through alternative lands and public facility analyses, but
+prior to any entitlement process.
+3. A Regional Advisory Committee ( RAC) will be convened ( at least)
+annually, with each city and county providing activity reports relating to
+short term land supply. Facilitating the RAC will be the responsibility of
+the counties ( ORS 195.025) and will rotate each year, starting
+alphabetically with Crook County.
+Participating cities, after conducting alternative lands and public facility
+analyses, but prior to any entitlement process, shall receive formal support
+from Economic Development of Central Oregon that candidate site(s) contain
+necessary site characteristics and attributes, as defined in the REOA, to
+attract large-lot industrial recruiters.
+PAGE 55 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Section ( 5) - Other Statewide Planning Goals
+The parameters for evaluating these specific amendments are based on an adequatefactual base and supportive evidence demonstrating consistency with Statewide
+Planning Goals.
+Finding: The following findings demonstrate that Ordinance 2011- 017 complies with
+applicable statewide planning goals and state law.
+Goal 1, Citizen Involvement; see Section 2 starting on page 2
+Goal 2, Land Use Planning, is met because ORS 197. 610 allows local
+governments to initiate post acknowledgments plan amendments ( PAPA). An
+Oregon Land Conservation and Development Department 45- day notice was
+initiated on June 23, 2011.94 This FINDINGS document provides the adequatefactual basis and documented analysis for this plan update. Furthermore, OAR 660-
+009- 0030 ( Multi jurisdiction Coordination), and 1000 Friends of Oregon v. City of
+Dundee, 203 Or App 207 ( 2005) require Deschutes County to locally adopt the
+REOA as part of the comprehensive plan in order for local governments in the
+county to base land use decisions upon it.
+Goal 3, Agricultural Lands and Goal 4, Forest Lands, is not applicable because
+the County is adopting a technical document and several regional coordination and
+large-lot industrial land policies into its Comprehensive Plan. No plan designation
+changes, zoning map changes, development or land use changes are being
+proposed on agricultural or forest lands.
+Goal 5, Natural Resources, Scenic and Historic Areas, and Open Spaces, is not
+applicable because the County is adopting a technical document and several
+regional coordination and large-lot industrial lands policies. No development or land
+use changes are being proposed on or near inventoried Goal 5 resource lands.
+Goal 6, Air, Water and Land Resources Quality, is not applicable because the
+County is adopting a technical document and several regional coordination and
+large-lot industrial land policies into its Comprehensive Plan. No development or
+land use changes are being proposed that impact air, water and land resource
+qualities.
+Goal 7, Natural Hazards, is not applicable because the County is adopting a
+technical document and several regional coordination and large-lot industrial land
+policies into its Comprehensive Plan. No development or land use changes are
+being proposed that impact natural hazards.
+Goal 8, Recreational Needs, is not applicable because the County is adopting a
+technical document and several regional coordination and large-lot industrial land
+sa
+Deschutes County completed period review on January 23, 2003.
+PAGE 56 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+policies into its Comprehensive Plan. No development or land use changes are
+being proposed on recreational resources.
+Goal 9, Economic Development, is applicable because in coordination with its
+regional partners, Deschutes County has prepared a regional evaluation of the
+economic opportunities and constraints associated with users of large industrial
+parcels in the Central Oregon. This approach recognizes the market reality that
+Central Oregon currently serves as an integrated economic unit.
+Goal 9 specifies that Comprehensive Plans for urban areas shall:
+1. Include an analysis of the community's economic patterns, potentialities,
+strengths, and deficiencies as they relate to state and national trends;
+Findings: This requirement has already been addressed. See the findings
+addressing ORS 197. 712(1) above on page 24.
+2. Contain policies concerning the economic development opportunities in the
+community
+Finding: This requirement has already been addressed. See the findings addressing
+ORS 197. 712(2)( b) above on page 24.
+3. Provide for at least an adequate supply of sites of suitable sizes, types, locations,
+and service levels for a variety of industrial and commercial uses consistent with
+plan policies;
+Finding: This requirement has already been addressed. See the findings addressing
+ORS 197. 712(2)( c) above on page 25.
+4. Limit uses on or near sites zoned for specific industrial and commercial uses to
+those which are compatible with proposed uses
+Finding: This requirement has already been addressed. See the findings addressing
+ORS 197. 712(2)( d) above on page 27.
+Goal 9 Planning Guidelines specify:
+A principal determinant in planning for major industrial and commercial
+developments should be the comparative advantage of the region within which
+the developments would be located. Comparative advantage industries are those
+economic activities which represent the most efficient use of resources, relative
+to other geographic areas.
+Finding: The REOA documents large-lot trends and dynamics, importance of large-
+lot supply and market choice, and target industry opportunities in Central Oregon. As
+discussed above, Economic Development for Central Oregon in participation with
+PAGE 57 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+local leaders, has gone through the lengthy process of identifying specific industry
+sectors for business recruitment, retention, and entrepreneurial support.
+2. The economic development projections and the comprehensive plan which is
+drawn from the projections should take into account the availability of the
+necessary natural resources to support the expanded industrial development and
+associated populations. The plan should also take into account the social,
+environmental, energy, and economic impacts upon the resident population.
+Finding: Deschutes County is fulfilling its coordination responsibilities by
+collaborating with the Cities of Bend, La Pine, Redmond, and Sisters, as well as
+Jefferson and Crook Counties by responding to a specific employment land need
+identified in a REOA for large-lot industrial sites in Central Oregon. Participating
+cities will need to address this guideline when they conduct their alternative land and
+public facilities analyses and inventory of employment lands when examining if the
+short- term regional need can be met inside their respective UGBs. Deschutes
+County complies with this guideline that underscores the importance of available
+natural resources to support expanded industrial development by adopting the
+following policy:
+Participating cities, when examining candidate sites, shall conduct their
+alternative land and public facilities analyses and inventory of employment
+lands by first examining if the short- term regional need can be met inside the
+implementing city's UGB, before assessing lands adjacent to it as required by
+state law. Cites are not required to evaluate inventories throughout the region
+because the adopted county plan has limited supply and specified site
+dispersal as noted in the regional EOA.
+3. Plans should designate the type and level of public facilities and services
+appropriate to support the degree of economic development being proposed.
+Findin : This requirement has already been addressed. See the findings addressing
+OAR 660- 009-0020( l)(c) above on page 43.
+4. Plans should strongly emphasize the expansion of and increased productivity
+from existing industries and firms as a means to strengthen local and regional
+economic development.
+Finding: Deschutes County is choosing targeted basic industries with large-lot
+industrial needs to support the region's economic development objectives. While
+many locally based service- sector businesses are an essential part of a region's
+business mix and quality of life, they are not as effective in creating new living wage
+jobs. Since 2002, wage levels in Central Oregon have averaged a 3. 2% annual rate
+of growth, comparatively better than a 2. 8% annual growth rate at the State level.
+However, Deschutes County's average 2009 wage level of $35, 295 was well below
+the statewide average. Lower relative wage rates coupled with housing affordability
+concerns can limit the region's ability to attract a high quality workforce to the region.
+PAGE 58 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+The REOA does not diminish the importance of small, start-up firms. What it does do
+is note that these firms represent only a portion of the spectrum of firms, and a
+balanced economic development program would provide for these types of firms as
+well as larger industrial firms. The two categories are complimentary, not
+competitive. Efforts to help existing companies ( large and small) to grow or sustain
+their employment have been in place for more than a decade. Efforts to help start-
+ups and early stage companies are also solidly established. Economic Development
+for Central Oregon understands that most jobs come from existing companies, which
+is why it dedicates more than 50% of its efforts to fostering entrepreneurship and the
+retention/ expansion of existing traded- sector companies.
+5. Plans directed toward diversification and improvement of the economy of the
+planning area should consider as a major determinant, the carrying capacity of the
+air, land and water resources of the planning area. The land conservation and
+development actions provided for by such plans should not exceed the carrying
+capacity of such resources.
+Findin : This is a carrying capacity issue and not a coordination one. The air, land
+and water resource carrying capacity of the region will be accounted for, managed
+and maintained during the identification and development of regional large-lot
+industrial sites. This will be achieved through individual jurisdictions applying their
+Comprehensive Plan policies and development code regulations/standards to
+evaluate and regulate large-lot development proposals and through application of
+development regulations and guidance found in the ( required to be adopted) large-
+lot industrial overlay zone.
+Deschutes County is fulfilling its coordination responsibilities by collaborating with
+the cities of Bend, La Pine, Redmond, and Sisters, as well as Jefferson and Crook
+Counties by responding to a specific employment need identified in a REOA for
+large-lot industrial sites in Central Oregon. Participating cities will need to address
+this guideline, which is also cited in Goal 6, when they conduct their alternative land
+and public facilities analyses and inventory of employment lands when examining if
+the short- term regional need can be met inside their respective UGBs.
+Goal 10, Housing is not applicable because, unlike municipalities, unincorporated
+areas are not obligated to fulfill certain housing requirements.
+Goal 11, Public Facilities is not applicable because the County is adopting a
+technical document and several regional coordination and large-lot industrial land
+policies into its Comprehensive Plan. No development or land use changes are
+being proposed that impact public facilities.
+Goal 12, Transportation, is not applicable because the County is adopting a
+technical document and several regional coordination and large-lot industrial land
+policies into its Comprehensive Plan. No development or land use changes are
+being proposed that impact local or state transportation facilities.
+PAGE 59 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Goal 13, Energy Conservation, is not applicable because the County is adopting a
+technical document and several regional coordination and large-lot industrial land
+policies into its Comprehensive Plan. No development or land use changes are
+being proposed that warrant energy conservation.
+Goal 14, Urbanization, is met because developing and maintaining a supply of
+large readily available industrial sites is not currently part of regional economic
+development efforts, therefore the region's jurisdictions have developed Goal 9
+compliance based on projected growth, and the attraction of a large industrial user
+that is recognized as an exogenous impact to these projections. The exogenous
+need for large-lot industrial sites in Central Oregon is an additional component of a
+city's twenty-year land supply. No expansion of urban areas is proposed with these
+amendments. As noted below, one of Deschutes County's draft policies specify the
+obligations of participating cities to conduct alternative land and public facilities
+analyses and inventories of employment land consistent with OAR Division 9 and
+24:
+Cities are required to comply with state land use program requirements when
+changing land designations or amending a UGB, including conducting a local
+inventory to determine whether a local deficit exists.
+Participating cities, when examining candidate sites, shall conduct their
+alternative land and public facilities analyses and inventory of employment
+lands by first examining if the short- term regional need can be met inside the
+implementing city's UGB, before assessing lands adjacent to it as required by
+state law. Cites are not required to evaluate inventories throughout the region
+because the adopted county plan has limited supply and specified site
+dispersal as noted in the regional EOA.
+Goals 15 through 19 are not applicable to any amendments to the County's
+comprehensive plan because the county has none of those types of lands.
+Section ( 6) - Deschutes County Comprehensive Plan
+Urbanization Chapter
+Finding: This plan amendment is consistent with the Comprehensive Plan, DCC 23. 48,
+Urbanization Goals and Policies as shown in Ordinance 2011-017, Exhibit A. This
+amendment specifically fulfills the County's fourth urbanization goal, by providing a
+factual basis for urbanizing large-lot industrial sites in Central Oregon and fostering
+intergovernmental cooperation.
+Economy Chapter
+Findin : This plan amendment is consistent with the Comprehensive Plan, DCC 23. 52,
+Economy Goals and Policies as shown in Ordinance 2011-017, Exhibit B. These
+findings demonstrate that there is a deficiency of large-lot industrial sites in Central
+Oregon. Providing for this specialized land need will diversify and improve the economy
+PAGE 60 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+of the area and enhance industrial segments of the local economy, thereby satisfying
+Goals 1 and 2. This effort will increase employment opportunities throughout the region
+and help implement plans and programs in a tri- countyregion to develop industrial
+lands consistent with Policies 3.a, 3.b and 3.g.
+Section ( 7) - Deschutes County Comprehensive Plan Update
+Deschutes County adopted an updated Comprehensive Plan on August 10, 2011. The
+effective date of the updated Plan is November 9, 2011.
+Urbanization Chapter
+Findin : This plan amendment is consistent with the Comprehensive Plan, Section 4.2,
+Urbanization, Urbanization Goals and Policies as shown in Ordinance 2011-017, Exhibit
+C. This amendment specifically fulfills the County's first and second urbanization goals,
+by providing a factual basis for urbanizing large-lot industrial sites in Central Oregon
+and fostering intergovernmental cooperation.
+Section ( 8) - Planning Commission Recommendation
+On August 25, 2011 the Planning Commission closed the public hearing and
+recommended that the Board of County Commissioners adopt the REOA and large-lot
+industrial land policies into Deschutes County's Comprehensive Plan. The Planning
+Commission's also directed staff to determine how to incorporate a refinement to page
+26 of the REOA. As background, the REOA cites strengths and weaknesses of each
+municipality in the tri- countyarea. These profiles were derived from a June 2010
+Central Oregon Industrial Lands Forum. There's a footnote acknowledging this point in
+the REOA on page 25.
+Stakeholders from La Pine wanted La Pine's strengths and weaknesses to reflect new
+information as italicized below. The Board finds that the revised listing is appropriate
+and should be incorporated as part of this plan amendment.
+LA PINE ( DESCHUTES COUNTY)
+La Pine is Oregon's newest City, incorporated in December 2006. La Pine has a state
+certified shovel ready site and is well- suited for the REOA short term plan. Past
+challenges with the water and sewer districts have been resolved by mutual agreement
+between the La Pine Water and Sewer Districts and the City of La Pine.
+Strengths/ Advantages Challenges/ Disadvantages
+State of Oregon Certified Shovel-ready 50+ • Sewer and ' water districts - in transition
+acre industrial site available and proximate to the city. To be absorbed by the City
+to rail
+Neighboring small and medium sites
+available for a variety of options
+early to mid- 2012
+Transportation challenges; TSP to be
+completed by mid- 2012
+PAGE 61 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+The most favorable electric rates in Central City codes, adopted and scheduled to be
+Oregon implemented early 2012
+More than adequate water and sewer .
+Need large "keystone" employercapacity for new industry
+A new flexible land use code and supportive
+city leaders
+The county is in control of some industrial
+sites
+Enterprise Zone, for tax relief for new or
+expanded industry
+La Pine is well connected to 3 major
+economic hubs - Central Oregon, Eugene and
+Klamath County. Conveniently located near
+Highway 97 and Highway 31. Highway 58 is
+27 miles to the south and is a direct route to
+5 and Eugene.
+BNSF rail mainline thru industrial park. Near
+passenger rail line. " Best Rail Industrial site
+in Central Oregon."
+Low housing costs. Riverfront homes,
+ranches, and community neighborhoods are
+available.
+La Pine has a large labor pool of skilled labor
+and diverse population with extensive work
+experience as indicated by large amount of
+commuters traveling north.
+Hub of Central Oregon's year- round outdoor
+recreation paradise. Gateway to Cascade
+Lakes National Scenic Byway, Newberry
+National Volcanic Monument and National
+Oregon Outback Scenic Byway.
+Staff updated Exhibit A, DCC 23. 48.050. Regional Economic Opportunity Policies as
+follows:
+3. The Central Oregon Large Lot Industrial Regional Economic Opportunity Analysis
+REOA) dated May 31, 2011 and the City of La Pine Strengths and Weaknesses
+outlined on Pages 61 and 62 of Exhibit C to Ordinance 2011- 017 are incorporated
+and adopted by reference herein.
+Attachment:
+Regional Economic Opportunity Analysis
+PAGE 62 OF 62 - EXHIBIT " D" TO ORDINANCE 2011- 017
+Chapter 23. 01. 010 COMPREHENSIVE PLAN
+23. 01.010. Introduction.
+A. The Deschutes County Comprehensive Plan, adopted by the Board in Ordinance 2011- 003
+and found on the Deschutes County Community Development Department website, is
+incorporated by reference herein.
+B. The Deschutes County Comprehensive Plan amendments, adoptedby the Board in Ordinance
+2011-027, are incorporated by reference herein.
+C The Deschutes County Comprehensive Plan amendments, adoptedby the Board in Ordinance
+2011- 017 are incorporated by reference herein.
+Ord. 2011- 017 § 5, 2011; Ord. 2011- 027 § 1 through 12, 2011; Ord. 2011-003 § 3, 2011)
+PAGE I OF I - EXHIBIT " E" TO ORDINANCE 2011- 017
+Document Reproduces Poorly
+Archived)
+i JEFFERSON
+1
+a
+f
+R
+77
+W CROOk
+OE' acrwnes
+x
+C
+u Tri- CountyRegion
+CENTRAL OREGON LARGE LOT INDUSTRIAL
+REGIONAL ECONOMIC OPPORTUNITIES ANALYSIS
+MAY 31, 2011
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA
+ACKNOWLEDGEMENTS
+This project was funded by a Department of Land Conservation and Development Technical Assistance Grant
+and in- kind contributions of participating jurisdictions.
+REGIONAL ADVISORY COMMITTEE ( RAC)
+RAC Members included:
+Nick Lelack, Project Manager, Deschutes County
+Peter Gutowsky, Deschutes County
+Pam Hardy, 1000 Friends of Oregon
+Tom Hogue, Department of Land Conservation and Development
+Karen Swirsky, Department of Land Conservation and Development
+Clark Jackson, Oregon Business Development Department
+Roger Lee, Economic Development for Central Oregon ( EDCO)
+Brian Meece, Central Oregon Association of Realtors
+Doug Parker, Department of State Lands
+Wayne Pearson, Economic Development for Central Oregon ( EDCO)/ Jefferson County
+Eric Porter, City of Sisters
+Brian Rankin, City of Bend
+Heather Richards, City of Redmond
+John Russell, Department of State Lands
+Jon Skidmore, Jefferson County
+Lee Smith, La Pine Industrial Group
+Nick Snead, City of Madras
+Bill Zelenka, Crook County
+Scott Edelman, City of Prineville
+David Ditz, Project Executive - Juniper Ridge (DMA, Inc.)
+CONSULTING STAFF
+Johnson Reid LLC
+Jerry Johnson, Principal
+Chris Blakney, Project Manager
+Angelo Planning Group
+D. J. Heffernan, Senior Planner
+Rebecca Dann, Planner
+IronWolf Community Resources
+Larry Pederson, Principal
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA
+TABLE OF CONTENTS
+1. PROJECT INTRODUCTION .....................................................................................................................1
+Problem Statement ......................................................................................................................................1
+Framework for Regional Economic Opportunities Analysis 5
+II. COMMUNITY VISION 5
+A. REGIONAL GOAL AND INTRODUCTION ...............................................................................................................5
+Regional Approach .......................................................................................................................................5
+B. COMMUNITY VISION STATEMENT 6
+III. TREND ANALYSIS 7
+A. NATIONAL ECONOMIC TRENDS 7
+Introduction 7
+Short- Term Outlook 7
+Long- Term Outlook 11
+B. STATE ECONOMIC TRENDS 13
+General Industry Trends 13
+Risk Factors 17
+C. LOCAL TRENDS & CONDITIONS 18
+Economic Factors 18
+IV. TARGET INDUSTRY ANALYSIS 21
+A. LARGE-LOT TRENDS AND DYNAMICS 21
+Large Lot Trends 21
+Importance of Large-lot Supply and Market Choice 22
+Competitive Inventories 24
+B. STRENGTHS AND CHALLENGES IN THE CENTRAL OREGON ECONOMY 25
+Madras ( Jefferson County) 26
+La Pine ( Deschutes County) 26
+Prineville ( Crook County) 26
+Bend ( Deschutes County) 27
+Redmond ( Deschutes County) 28
+Sisters ( Deschutes County) 28
+C. TARGET INDUSTRY OPPORTUNITIES IN CENTRAL OREGON 28
+D. SITE/ RESOURCECHARACTERISTICS OF KEY DEVELOPMENT CLASSES 30
+Targeted Industries with Large Lot Needs .................................................................................................31
+Central Oregon Viability for the Data Center Industry ...............................................................................31
+Central Oregon Viability for the High Technology Industry .......................................................................33
+Central Oregon Viability for the Warehouse & Distribution Industry ........................................................33
+E. REGIONAL LARGE-LOT DEMAND 35
+Long Range Employment Forecast .............................................................................................................35
+Industry Placement Velocity ......................................................................................................................36
+V. ASSESSMENT OF POTENTIAL 39
+A. SITE NEED CHARACTERISTICS ........................................................................................................................39
+B. GROSS LAND DEMAND ................................................................................................................................43
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA
+APPENDIX A: LETTERS FROM ECONOMIC DEVELOPMENT PROFESSIONALS 49
+APPENDIX B: EXAMPLES OF LOCAL GOVERNMENTS PROACTIVELY PLANNING FOR INDUSTRIAL
+DEVELOPMENT 59
+APPENDIX C: CORRESPONDENCES RESPONDING TO REGIONAL ECONOMIC OPPORTUNITY ANALYSIS 70
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA
+I. PROJECT INTRODUCTION
+Deschutes County, in coordination with its regional partners, has prepared this regional evaluation of the
+economic opportunities and constraints associated with users of large industrial parcels in the Central Oregon
+region. This approach recognizes the market reality that Central Oregon currently serves as an integrated
+economic unit.
+A regional consensus has been agreed upon to establish and pro- actively manage a regional land supply of large-lot
+industrial sites to enable the region to become competitive in industrial recruitment. This regional strategy will
+include individual site infrastructure improvement assessment and implementation programs/ requirements.
+Regional planning, management, and governance of a perpetual large-lot industrial vacant land supply will involve
+Central Oregon city and county governments ( and staff) including advice and guidance from Central Oregon Cities
+Organization ( COCO, Economic Development in Central Oregon ( EDCO) and Oregon Business Development
+Department ( OBDD) to assure an adequate, self- renewingregional supply of developable and competitive vacant
+industrial sites.
+An outcome of regional significance requires a collective regional effort. This project proposes to create and
+manage a regional supply of vacant, developable large-lot industrial sites to accommodate stable, family-wage
+employment opportunities of local and regional significance. Although site development will be fundamentally
+implemented at the local jurisdictional level, the organization, coordination, promotion and governance of this
+regional industrial lands strategy and inventory is proposed to be implemented at a coordinated, collaborative
+regional level. The ultimate outcome of diversified and stable family-wage job creation will be advanced through
+provision of an adequate and competitive industrial site land supply to engage the global, national and regional
+industrial recruitment marketplace and successfully recruit major employers to the region.
+The Central Oregon region needs a critical mass of competitive and diverse vacant, developable industrial sites in
+order for site selectors representing potential industrial recruitment to consider the region. One or two sites in one
+or two jurisdictions will not be adequate to generate regional interest or a visit according to industrial recruitment
+specialists from OBDD. Consequently, a multi- jurisdictionalcooperative effort has been initiated to pursue a
+regional approach to establish a competitive supply of sites particularly designed to address those ( unaccounted
+for) out- of-region ( and state) industries that can locate in Central Oregon after shopping the globe for the best
+large-lot industrial development site they can find. This type of land need ( or demand) is systematically missed and
+unaccounted for in local, conventional industrial land needs assessments in Oregon communities.
+PROBLEM STATEMENT
+During the 1990s the Central Oregon region undertook a dramatic transformation from a goods producing
+economy concentrated largely in wood products into a service based economy serving a growing and diverse
+tourism and household base. Accelerated in- migrationand tourism growth gave way to rapid economic expansion,
+escalation in home prices, and a systematic shift in the local economy from goods producing activities to service
+oriented industries. While initially representing a diversification of the local economy, this shift has led to an over-
+reliance upon these types of industries. During the recent recession, the regional economy's vulnerabilities
+became apparent.
+Central Oregon's traditional industrial base remains active in the local economy, and the region would like to
+increase its emphasis on industrial employment to strengthen that base. The region's supply of affordable land,
+low cost utilities, quality of life, and organized economic development landscape makes it an attractive option for
+growth in many traded sector industries. Central Oregon economic development efforts have been negatively
+impacted by a lack of readily available large-lot industrial sites. Manufacturing employment opportunities in
+particular are needed to establish a diversified and thereby more stable and balanced regional employment
+outlook. New manufacturing and other high value employment opportunities require an attractive supply of
+DESCHUTES COUNTY ) CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 1
+vacant industrial sites to be competitive in global industrial recruitment pursuits. New land supply methods are
+needed,too.
+In a structural sense, globalization has changed the way manufacturers conduct business. Cost and efficiency are
+the central tenets of an increasingly competitive market. Firms are increasingly pressured to develop more capital
+intense production models, place a greater emphasis on economies of scale, as well as production efficiency and
+flexibility. Time- to-market for firms has become an even more crucial factor as they make decisions to locate new
+plants and facilities. The result has been the emergence of a clear real estate trend, creating a global demand for
+large development ready industrial sites, with the immediacy of utility services ( both public and private sector) of
+critical importance. Through Oregon's statewide planning framework, this analysis is intended to evaluate Central
+Oregon's opportunities, competitiveness, ability, and willingness to accommodate recruited and existing firms
+requiring new large scale development models.
+Successful local and regional industrial recruitment in the 215` Century must consider global competition factors.
+Communities, regions and states that focus primarily or exclusively on outdated governance paradigms are ill
+suited for keeping up with fast paced global economic and industrial marketplace changes. Industries must be
+nimble to be successful in the competitive global marketplace. Manufacturers must be able to quickly produce
+new products at expanded, renovated or new production facilities in " just- in-time" fashion. Often accomplished
+through on- site expansion on areas reserved for that purpose, industrial site selectors must choose sites large
+enough to build-in future expansion capacity. Government must be responsive to align its regulatory and process
+requirements to meet market demands if it wishes to capture the considerable benefits of high value industrial
+development.
+Site selectors shopping the international marketplace of large-lot industrial sites determine the type of land supply
+product they will consider. For an individual vacant industrial site to be competitive, it must be large enough to
+offer future expansion on- site. It must be proximate to other competitive sites and governed by a regulatory
+structure that is responsive to the needs of industry.
+Within this analysis a large lot industrial site is defined to be 50 acres or larger with specific site attributes and
+amenities that appeal to that industry and support its activities. This delineation is consistent with the State of
+Oregon's Certified Industrial Site program, which is Business Oregon's primary tool to certify and market industrial
+sites as ' project ready' within 180 days or less. The certified sites programs has had a distinct emphasis on large
+lots with an average size of 64 acres and more than half of the lots being in assemblages of over 50 acres. There
+have been 65 sites certified in Oregon since 2004 and there has been development on more than 50% of those
+properties. The importance of this inventory is attested by the number of employers that have located on certified
+sites, several of which are summarized in Figure 1. This activity took place despite the fact that the economy was
+experiencing one of the most severe recessions in history.
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 2
+FIGURE 1: EMPLOYMENT ACTIVITY ON CERTIFIED SITES (2009- 2010)
+Company Community) Activity on Certified Site
+Facebook ( Prineville) 2010 New Facility Announcement 200 Construction/35
+Permanent
+Home Depot ( Salem) 2010 New Facility Announcement 175Jobs
+Sanyo (Salem) 2009 Opening 200 Jobs by 2010
+Solaicx( Portland) 2010 Expansion 60Jobs
+Ferrotec ( Fairview) 2010 New Facility Announcement 30Jobs
+Genentech ( Hillsboro) 2010 Fully Operational 30OJobs
+Crown Works Dental ( Sutherlin) 2009 Facility Opens 125Jobs
+Source: Oregon Business Development
+So why is lot size often a critical component of a company's site selection decision? Below are some technical and
+market requirements provided by Oregon Business Development that contribute to lot- size demanded by
+industrial users:
+1) On average, industrial sites are only 40% to 60% developable. While the footprint for a large facility
+might only be five or ten acres, requirements for setbacks, access, parking, and environmental mitigation
+and avoidance ( i. e. wetlands) usually require more room than the facility itself.
+2) Industries want buffering around their site for a number of very good reasons ( security, storage, and
+noise). This has been the case for a number of the largest technology and green- industry related
+recruitments.
+3) Many industries, particularly true in the fast growing clean- energy arena, require land for expansion for
+their long-term business plan. While expansion space is not always taken advantage of, it is an essential
+part of the site selection strategy due to the cost of future expansion and the flexibility offered.
+4) large parcels are also a good way to build a cluster of industries around a high profile anchor business,
+which proves the value of the location to other businesses that are less willing to trail- blaze or be first into
+a region. The anchor businesses often pull suppliers to the region, further enhancing their economic
+benefit.
+5) Efficiencies can be obtained by clustering industrial users into large master- planned business parks.
+Land use efficiencies can be achieved when businesses are allowed to develop their facilities as needed,
+while also having the assurance that there will be nearby parcels available for future expansion. Energy,
+water, waste, and material flows can be streamlined in a park setting where multiple businesses can take
+advantage of common infrastructure investments and, in some cases, take advantage of each other's
+energy and waste streams.
+The emphasis of this analysis is on " sites" as opposed to land. Firms require sites that can accommodate their
+current and anticipated future needs. The traditional formula approach to industrial land needs determination is
+based upon population and employment projections applied to a square footage per employee ratio to arrive at a
+total acreage number. The necessary range of parcel sizes, lot configuration, required site attributes, land
+banking/growth options, and critical infrastructure factors are essentially de- prioritized, subordinated or ignored in
+this traditional static acreage calculation approach. This approach can work for residential and commercial
+projections, but is poorly suited to the calculation of industrial site needs.1
+1 Unlike office demand, the need for most types of industrial space is difficult to determine using employment projections. Most industrial
+uses generate comparatively few jobs per square foot of leasable area, and space needs have little to do with changes in the number of
+jobs in production or distribution business... Warehouse and distribution demand ( for example) is usually generated by changes in
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 3
+For a region to be attractive enough to motivate industrial site selectors to visit, investigate and recommend the
+region, it must offer a diversity of large-lot industrial sites ( that are either served or serviceable) along with all of
+the other needed support factors including adequately skilled workforce, workforce training programs, worker
+housing, supportive local government, utility services and transportation, and quality of life. Facebook's recent
+move to Prineville was based upon an affordable and adequate water supply, affordable energy prices, year round
+cool nights to reduce cooling costs, and various local incentives. The Facebook site offered on- site expansion
+opportunity that is already being exercised.
+Much of the recent demand for large lot industrial comes from rapidly growing industries that are building
+production and research capabilities to establish global scale. Additional demand comes from industry looking for
+regional production or as a result of specific logistical concerns ( i. e. location near markets or suppliers, access to
+specific transportation modes). Warehousing and distribution is an important component of the economy that
+keeps international ports expanding and strengthens Oregon's export markets for consumer, industrial and
+agricultural products.
+Major employers in traded sector industries ( export industries) are the primary drivers of economic growth,
+providing the impetus for net growth in the regional economy and supporting a wide range of support industries.
+At the state and local level, policy makers understand the importance that large-scale employers can have on the
+local economy. In 2007 Central Oregon was home to three firms with 1, 000 or more employees and an additional
+five with at least 500. The State's Industrial Site Certification Program has been a success in coordination with
+active recruitment efforts. Nevertheless, suitable land for today's industrial development forms has emerged as
+one of Oregon's most severe development challenges. As a region, Central Oregon has specifically targeted basic
+industries with large lot industrial needs to support the Region's economic development objectives. While many
+locally based service- sector businesses are an essential part of a region's business mix and quality of life, they are
+not as effective in creating new living wage jobs.
+Figure 2 is a list of some of the annual economic impacts of industrial lands that is based on operating payrolls and
+a multiplier that takes into effect spending by the company and its employees in the region. These impacts are
+substantial and dwarf the job and income productivity of alternative productive land uses ( i. e. agriculture,
+forestry). This is particularly true in Central Oregon, which has relatively low agricultural yields per acre.
+FIGURE 2: ECONOMIC IMPACT OF EMPLOYMENT LAND
+Central Oregon's efforts to identify and promote a number of large lot areas for industry is, in a national context,
+relatively modest and completely appropriate for its current size, level of support services, and current and
+planned infrastructure. Maintaining a portfolio of competitive sites ranging from 50 to over 200 acres should
+result in substantial economic benefits and land use efficiencies.
+corporate logistics and freight volumes, not job growth." Reol Estote Market Analysis: Methods and Case Studies, Second Edition, ULI
+Press, 2009.
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 4
+Source: Oregon Business Development
+FRAMEWORK FOR REGIONAL ECONOMIC OPPORTUNITIES ANALYSIS
+This report is designed to meet the requirements of Oregon Statewide Planning Goal 9 and the administrative rule
+that implements Goal 9 (OAR 660- 009). This report is a Regional Economic Opportunities Analysis, and is allowed
+under the provisions of OAR 660- 009-0030 ( multi- jurisdictional coordination). The following table describes the
+requirements of OAR 660- 009 and where those requirements are met within the report. As a regional EOA with a
+specific focus on large lot industrial property, the report will not meet all requirements for local jurisdictions.
+Requirement of OAR- 009 Location Addressed in Report
+660- 009-0015( 1) Review of national, state, regional,
+Chapter 3
+county, and local trends
+660- 009-0015( 2) Identify required site types Chapter 5
+660- 0090015(3) Inventory of industrial and other
+employment lands
+660- 009-0015( 4) Assessment of community
+Chapters 3 and 4
+economic development potential
+660- 009-0020 Industrial and other employment
+development policies
+660- 009-0025( 1) Identification of needed sites Chapter 5
+660- 009-0025( 2) Total land supply
+660- 009-0025( 3) Short- term supply of land
+11. COMMUNITY VISION
+A. REGIONAL GOAL AND INTRODUCTION
+REGIONAL APPROACH
+The Central Oregon region [ comprised of Jefferson, Crook and Deschutes counties] proposes regional coordination
+and cooperation to attract new industrial employers. Economic activity in the region crosses jurisdictional
+boundaries, as does the labor force. While geographically separate, the jurisdictions in the region function in a
+manner similar to other metropolitan areas, which often share boundaries. The shared economic function within
+Central Oregon supports a regional approach to economic development, particularly with respect to large basic
+industries.
+Developing and maintaining a regional supply of large readily available industrial sites will allow Central Oregon
+communities to compete for a broader range of economic development opportunities than they are currently
+capable of. There are a substantial number of large firms regularly seeking sites that are not currently available
+within the region, precluding economic development organizations such as Business Oregon and EDCO from
+marketing the area to these prospects. As attracting this type of activity is not currently part of regional economic
+development efforts, providing an ability to appeal to this segment is seen as additive to existing economic
+development efforts. In other words, the region's jurisdictions have developed Goal 9 compliance based on
+projected growth reflective of traditional patterns, and the attraction of a large industrial user would be
+considered an exogenous impact to these projections.
+The primary economic development objective of this analysis is to ensure that the regional industrial land
+inventory is adequate to support the specific needs of large lot industrial users. As a result, a substantial amount
+of attention is paid to the site selection process utilized by candidate firms. Large firms go through a methodical
+and deliberate site selection process for " development-ready" sites. Successful recruitment of these firms requires
+a competitive selection of " development-ready" sites meeting a variety of physical and locational requirements. A
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 5
+development-ready site, or a " shovel- ready" site, is defined as a property in which site improvement can begin
+within 180 days of purchase and development application. Such sites are either served or readily served by
+requisite infrastructure and utilities, environmental and other constraints are known and documented, and
+permitting can be fast- tracked for rapid facility operations.
+The geographic region evaluated in the analysis is the Central Oregon Counties of Deschutes, Jefferson, and Crook.
+More specifically, the primary urban areas within this broad geographic region include the Cities of Bend,
+Redmond, Prineville, Madras, Sisters, and La Pine. Consistent with Statewide Planning Goal 9, this process will
+outline the particular site needs and characteristics associated with potential targeted industries in the region. An
+in- depthinventory of potential suitable sites in the region to meet regional economic goals and opportunities will
+be a subsequent work task for the jurisdictions in the region.
+While not all jurisdictions are likely to need and/or desire the large lot industrial sites necessary to accommodate
+these users, the regional availability of these sites is considered desirable for all jurisdictions. As an example, a
+major industrial employer locating in a jurisdiction with an appropriate site will provide employment opportunities
+for the regional workforce, as well as the opportunity for support industries in other jurisdictions. Competing as a
+cohesive region allows Central Oregon to market a larger available work force, the size of which is often a key
+locational criteria for firms.
+The need for large lot industrial sites is a regional need, with the economic development benefits widely
+distributed regardless of the specific firm location. While individual jurisdictions could work towards establishing
+independent land inventories to meet this prospective need, a regional approach appeared most responsive to
+what is seen as a regional issue.
+The goal of this regional effort IS NOT to generate an acreage calculation of needed vacant industrial land supply
+BUT rather is to identify the variety and size range of vacant industrial sites needed to make the region attractive
+to site selectors and competitive in the global marketplace - a qualitative as well as quantitative outcome. This
+effort will provide an adequate supply of large industrial sites to support stable, family- wage jobs in traded sectors
+in the short- term and to build future job creation capacity in the long-term ( through land banking and a renewing
+large-lot industrial land supply) so that established employers do not have to move out of the region to be quick,
+efficient, competitive and successful.
+This large-lot industrial lands supply initiative exceeds the capacity of any single jurisdiction. It is an industrial
+recruitment reality that in order to be competitive, regional clout and appeal along with a critical mass of diverse,
+attractive sites is needed. The 21't Century site selection factors in the global marketplace of industrial recruitment
+and site development prioritize: 1) expedited site development with certainty and minimal time delay; 2)
+opportunities to expand and/or diversify manufacturing activity on- site, taking advantage of existing infrastructure
+and facilities investment; and 3) the availability of a high quality work force and training programs.
+Central Oregon has the potential to compete well under these criteria as a region, but not as individual
+jurisdictions. It is due to the Central Oregon quality of life factor that so many people and businesses have
+relocated to the region in the past decade. This region has been the fastest growing in the state. The same quality
+of life amenities in Central Oregon that have attracted so many new residents is a major draw and appeal for new
+industries looking to locate a facility. These industries want to locate in an appealing living environment that will
+serve to attract and retain talented and valued employees.
+B. COMMUNITY VISION STATEMENT
+The project's Regional Advisory Committee developed a community vision, which summarizes what the region's
+economic development goals are as they particularly relate to large lot industrial demand. The following is the
+stated vision:
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 6
+TO BUILD A STRONG AND THRIVING REGIONAL ECONOMY BY ESTABLISHING AND ACTIVELY MAINTAINING A
+COMPETITIVE PORTFOLIO OF LARGE LOT EMPLOYMENT SITES AND COORDINATING PUBLIC INVESTMENTS,
+POLICIES AND REGULATIONS TO SUPPORT REGIONAL AND STATE ECONOMIC DEVELOPMENT OBJECTIVES
+As outlined in the vision statement, the region is concerned with maintaining a competitive portfolio of large lot
+industrial sites. This is viewed as supportive of regional and statewide economic development objectives. In
+addition, the vision supports a coordination of investments and policies to this end.
+Consistent with this vision, the focus of this analysis is on the establishment and maintenance of a short- term
+competitive supply of large lot industrial sites that are " development ready", which are available to allow the
+region to compete for major industrial employers cross shopping the region against other potential locations.
+III. TREND ANALYSIS
+A. NATIONAL ECONOMIC TRENDS
+INTRODUCTION
+The trend analysis section provides the foundation of economic information that will shape realizable economic
+opportunities potential for a jurisdiction, resulting potential job growth scenarios, and ultimately employment land
+need over the planning horizon.
+In the trend analysis, it is understood that the region, state, and nation as a whole are currently navigating
+economic conditions not seen in a generation. Ultimately, current economic conditions make it difficult to produce
+highly timely national trend analysis. Johnson Reid therefore, heavily utilizes the economic forecast " of record" by
+the federal government, the non- partisan Congressional Budget Office biannual economic forecast.
+SHORT-TERM OUTLOOK
+Gross Domestic Product
+Over the previous two quarters, economic growth has stabilized with a noticeable rebound as federal stimulus
+spending has filtered into the economy and businesses inventory replenishment has spurred manufacturing
+activity. Growth in the first quarter measured a 3. 2% increase following a 5. 6% increase during the previous
+quarter. However, economic growth, as the recovery takes hold is likely to remain muted in the near term in light
+of existing economic turmoil, and continued uncertainly of financial markets. On the basis of previous recessions
+and recoveries, the following factors are also expected to contribute to a more measured recovery period2.
+Evidence from the United States and other countries suggest that recovery from recessions triggered by
+financial crisis and large declines in asset prices tends to be more protracted.
+Changes in federal stimulus: While federal stimulus spending associated with the American Recovery and
+Reinvestment Act ( ARRA) may have helped moderate the severity of the recession in 2009, its effects are
+beginning to fade.
+Loss of investment income and more limited availability of credit are likely to limit growth in consumer
+spending in the near term.
+Congressional Budget Office. " The Budget and Economic Outlook" January 2010.
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 7
+FIGURE 3: NEAR- TERM GROSS DOMESTIC PRODUCT
+6%
+4%
+s
+2%
+0
+c7
+0
+0%
+c7
+M
+2%
+N
+4%
+Q
+6% Actual . Forecast
+8
+r` n n
+O O O
+N 00 00 00 00 rn rn rn rn O O O O N M
+O O O O O O O O O 1 .- 4 a 1 4 ~ .- 1 rl
+Cf Y ( Y CY ( Y C7 Cl Cl C C! Cl < 7 C
+1 N M N N Nq:r 14 N M Cr .- 0 N M e- 4 N M if
+SOURCE: Bureau of Economic Analysis, Congressional Budget Office
+GDP growth during 2010 averaged a 2. 9% annualized rate of growth, and is projected to expand modestly in a
+range from 2. 8% to 2. 9% through 2013.
+Employment
+Since the beginning of the recession, payroll employment has fallen by greater than 7 million jobs, reflecting both
+the loss of employment and a drop in the labor force. A signature element of the current recession has been both
+the depth and duration of employment losses from the peak period of the economic cycle as determined by the
+National Bureau of Economic Research. As of June 2010 the current recession is expected to be the deepest and
+most lengthy period of sustained unemployment since the Great Depression.
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 8
+FIGURE 4: NATIONAL UNEMPLOYMENT TREND
+12. 0%
+10. 0%
+d
+0 8. 0%
+oc
+c
+6. 0%
+Ift
+0
+a 4. 0%
+E
+of
+j 2. 0%
+0. 0%
+O O e-1 . 1 N N M M r u, V1 w' l0 n r` oo 0o a, a, O
+O O O O O O O O O O O O O O O O O O O 4 .-
+i
+C 3 C 3 C 3 C 3 C 3 C 7 C 3 C 3 C 3 C 3 C
+SOURCE: Bureau of Labor Statistics
+At current, unemployment remains at a seasonally adjusted rate of 9. 5%, down slightly from its October peak of
+10. 1%. The unemployment rate is expected to remain high, and lag the broader economic recovery as there is
+significant slack in the economy. As the jobs situation begins to recover, workers who have quit pursuing
+employment are likely to reenter the labor force, delaying unemployment recovery. However, it appears that the
+national employment situation is stabilizing, with the pace of year- over-year job losses declining since the first
+quarter of 2009 and finally turning positive by the beginning of 2010.
+NGURE 5: YEAR- OVER-TEAR tMPLOYMENI
+400
+UNITED JTATES
+200
+0
+c
+d
+E - 200
+0
+400
+W
+3 - 600
+d
+2
+800
+Z
+1, 000
+4 R o 4 o Q o Q o 9 9 9 0 0 0 0 0
+9 11
+a
+I-
+3 a> c
+o 3 a> c 3 a> c -
+M
+n z
+co
+n Z `- o
+co
+n Z f0, 2
+SOURCE : Bureau of Labor Statistics
+DEscHUTEs COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 9
+Consumer Spending
+While a recent upward trend is an encouraging sign of recovery, spending by households is likely to remain
+constrained by slow income growth, lost wealth, and limited credit availability. Similarly, the overbuilding of
+residential and commercial space and units exhibited during the real estate bubble created sizable vacancies in
+both sectors. Subsequently, a rebound in investment spending is likely to be much slower than in a typical recovery
+period. In the near term consumer spending growth is expected to come in below its long- term average.
+FIGURE 6: PERSONAL CONSUMPTION EXPENDITURES
+SOURCE: Bureau of Economic Analysis
+Other Factors
+Housing Starts have remained stable since mid- 2009 and were actually up 17% in the first quarter on a year-
+over- year basis. However, the current rate of housing starts remains noticeably weak and is just over a third of
+the 15- year average.
+Asset Prices remain highly volatile in light of broad based economic and to a certain extent political
+uncertainty. Since January of 2008 the Dow Jones Industrial Average has displayed a Hi- Low range of roughly
+5, 000 points.
+Inflation in the United States remains low. At 1. 7%, change in the Consumer Price index is low relative to
+historical averages. Reflecting a large amount of slack remaining in the economy, inflation risk is low, and is
+expected to, at best, remain unchanged, and possibly decline further in the near- term. If this trend holds true,
+the impact will likely be a stable monetary policy with the Federal Reserve keeping its target rate low for some
+time.
+Federal Debt held by the public as a percentage of total output has reached its highest level since World War
+II. Under current policies this condition is expected to exacerbate further. Persistent deficits can have severe
+economic consequences, including the crowding out of private investment, limiting the effective use of fiscal
+policy, and increasing the risk of a fiscal crisis.
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 10
+In Millions of Chained ( 2005) dollars, Seasonally Adjusted
+LONG- TERM OUTLOOK
+During the first half of the next growth cycle, GDP is forecasted to grow rapidly enough to close the considerable
+gap between existing and potential GDP. Beyond the near- term, the United States economy is expected to return
+to a typical growth cycle and growth at roughly the same pace as potential output, averaging 2. 4% annual growth
+between 2015 and 2020. While growth patterns are expected to return to normal, economic growth in the coming
+decade is likely to be more measured relative to historical averages. Factors moderating long-term economic
+growth include:
+Demographic factors are expected to create a reduction in the potential labor force and potential hours
+worked, which account for three- fourths of the economy.
+Federal Debt will increasingly displace business investment and thus growth in capital services.
+Total factor productivity growth is forecasted to average 1. 3% annual growth, slightly above its average
+rate of growth since the productivity slowdown of the 1970s but below the 60- year average.
+FIGURE 7: LONG- TERM GDP FORECAST
+4%
+3% 3. 396-
+2. 99$ 2. 896 2. 998 2. 8%
+3. 096 2. 936
+r 2% - - - - - 2. 396- 2. 2/00 2. 2x60 2. 3
+3
+0
+l`7 1% - - - - - - - -
+a
+0
+0%
+0. 0%
+e
+C
+Forecast
+Actual
+2%
+3%
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+SOURCE: Congressional Budget Office and HIS Global Insight
+Inflation, as measured by the PCE price index will average 1. 7% annually during the latter half of the coming
+decade. The Federal Reserve will continue to use its monetary influence to control inflation risk in the next cycle.
+The Fed is expected to maintain the rate of PCE near the top of its target range.
+Long- term unemployment is expected to average 5% during the latter half of the decade, roughly equivalent to
+what is considered to be the natural rate of unemployment. Over the next ten years, the U.S economy is expected
+to add over 14 million employment positions according to the Bureau of Labor Statistics ( BLS). The national
+economy is forecasted to continue its exhibited trend toward more service oriented industries. A staggering 62% of
+new employment is expected to be concentrated in only two industries, Education & Health Services, and
+Professional & Business Services. Over the forecast-term, only the Manufacturing and Mining & Logging industries
+are expected to contract in size.
+DESCHUTEs COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 11
+FIGURE 8: NATIONAL EMPLOYMENT FORECAST BY INDUSTRY 2010- 2020
+Government
+Other Services
+Leisure & Hospitality
+Education & Health
+Professional & Business
+Financial Activities
+Information
+T. W.U.
+Retail Trade
+Wholesale Trade
+Manufacturing
+Construction
+Mining & Logging
+6 0
+1, 087
+722
+830
+4, 938
+56
+114
+338
+59 2
+229
+1, 027
+1, 108
+97
+2, 000 - 1, 000 0 1, 000 2, 000 3, 000 4, 000 5, 000 6, 000
+Employment Change ( In 000's)
+SOURCE: Bureau of Labor Statistics and JOHNSON REID
+Factors affecting economic growth moving forward
+Financial Markets: The financial situation of many banks remains delicate; however, the risk of further
+deterioration is moderating. Ease and cost of credit is likely to be more limited moving forward, but far
+improved from current conditions.
+Monetary Policy: The Federal Reserve is likely to continue aggressive monetary support for the economic
+recovery until the risk of higher inflation outweighs the risk of economic deterioration. The recent economic
+crisis saw the Fed take a larger and more nontraditional role in its monetary influence, namely the purchase of
+large amounts of mortgage backed securities on the open market. This has created a more complicated view
+of Fed influence and monetary policy actions. With nearly twice its pre- recessionasset holding, the Fed can
+now withdraw monetary influence by either raising its target Federal Funds Rate or reducing its asset holding.
+Fiscal Policy: The fiscal impacts of the ARRA have already begun to wane and are expected to turn negative by
+2011. Moving forward, mounting federal deficits could limit the government's fiscal capabilities in the long-
+term while placing upward pressure on tax rates.
+Investment: Inventory levels are beginning to equalize, and firms are more likely to increase production to
+more closely match sales. However, the spread between housing vacancies and housing starts remains high,
+and a rebound in housing investment is unlikely until later in the cycle. Investment in durable equipment and
+software is expected to lead the recovery. Many industry sources predict a " pent up" demand for facilities
+and equipment that will materialize in terms of companies seeking immediate, development-ready locations.
+Consumer Spending: Growth is expected to remain protracted through 2011. Persistently high unemployment
+will limit income growth and dampen consumer spending growth even further.
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 12
+B. STATE ECONOMIC TRENDS
+GENERAL INDUSTRY TRENDS
+Oregon experienced exceptional employment growth between mid- 2003 and 2007. Growth began slowing
+towards the end of 2006 and continued through 2007. The Oregon Employment Department's employment
+estimates for second quarter 2010 indicate that Oregon is following the U.S. economy with decreasing job losses
+and a turning point in the unemployment rate. Figure 7 demonstrates how closely tied the Oregon economy is to
+economic trends at the national level. Since 1939, Oregon has tracked the peaks and valleys of the U. S. economy.
+Also illustrated is improved diversity in Oregon's economy as evidenced by alleviation of the volatility that plagued
+Oregon during the 1980's recession.
+FIGURE 9: U. S. AND OREGON HISTORICAL EMPLOYMENT TREND: 1939- 2009
+160, 000 2, 000
+United States
+1, 800140, 000
+c : Oregon
+1, 600 _ZZ
+8 120, 000 0
+1, 400 °o
+d 100, 000
+E 1, 200
+o
+as
+a 80, 000 1, 000 >
+E o
+W CL
+W
+60, 000
+800
+W
+A C
+y~ 600
+40, 000 d
+400
+20, 000 200
+0 0
+O N Ln W 4 mt r` O M to m N Ln w ri Q n O M w m N Ln w
+M d' ~ ~ u1 V7 ~ l0 lD tD tD r` n n a0 00 a0 01 Qi 01 O) O O O
+01 01 01 01 01 01 01 Oi Q1 01 01 01 Q1 Q1 01 G1 01 01 01 01 01 O O O
+rl ey rl .- 1 rl rl rl rl rl rl rl rl e-1 .- 1 e/ ~ .- 1 eH .- 1 ri .- i N N N
+SOURCE., Bureau of Labor Statistics
+Oregon's economic growth since 2005, but prior to the current precipitous slowdown, is due in large part to
+explosive growth in exports. For example, between first quarter 2007 and first quarter 2008, Oregon exports
+increased by 23. 7%, more than six points higher than the U. S. growth during the same period. Oregon's export
+growth is primarily due to export growth in agricultural products which grew by 82. 2% and computer and
+electronics products which grew by 24. 8%. Computer and electronics account for nearly 40% of total Oregon
+exports. Several other industries experienced high growth in exports during the same period: Waste and Scrap
+71. 6%), Nonmetallic Mineral Products (+ 54. 0%), Chemicals (+ 47. 6%), Primary Metal Manufacturing (+31. 0%),
+Miscellaneous Manufactured Commodities (+ 26. 0%) and Wood Products (+ 23. 8%).
+Industry Analysis
+The first quarter of 2010 represented the first positive quarterly job increase since 2008. Figure 8 outlines a
+breakdown of Oregon's primary industries, where they appear to be in the cycle, and forecasts of growth over the
+near- term.
+DESCHUTES COUNTY ) CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 13
+Almost all service sectors posted seasonally adjusted job growth in early 2010. Housing market dynamics are
+expected to continue dragging down the Construction and Financial Activities Sectors in the near- term, but growth
+should turn positive in 2011. A similar trend is anticipated for Oregon's Wood Products industry. Positive spots in
+the economy include High- Tech Manufacturing, Food Processing, and Education & Health Services.
+FIGURE 10: OREGON ECONOMIC CONDITIONS AND ESTIMATES BY INDUSTRY
+Recovery Growth Projections
+Industry Signal 2010 2011 Comments
+Wood Products
+Stabilizin
+5. 4%
+g
+Computer & Electronic Equipment 4
+Positive
+0. 1%
+Transportation Equipment
+Contractin
+10. 3%
+g
+Metals and Machinery
+Stabilizing
+n/a
+Food Processing 4
+Positive
+6. 8%
+Construction
+Contractin
+15. 0%
+g
+Information F~7*
+Flat Growth h
+0. 0%
+Financial Activities
+Stabilizin
+1. 4%
+g
+Professional & Business
+bilizinSt
+0. 1%
+ga
+Education & Health 4
+Positive
+1. 9%
+Leisure & Hospitality j
+Flot Growth
+0. 8%
+Government F 47 0. 5%
+Slowly recovering but still feeling the housing
+5. 7% market
+3. 7%
+4. 5%
+2. 8%
+0. 8%
+1. 3%
+Good corporate earnings
+Still among Oregon's most troubling sectors
+Sector never got too bad
+Among Oregon's strongest sectors
+Commercial real estate extending the decline
+Newspaper & publishers feeling a weak retail
+2. 8% sector
+2. 2%
+5. 9%
+2. 1%
+Weakness in real estate limits growth in 2010.
+Stable sector poised for a robust 2011 recovery
+Among Oregon's strongest sectors.
+Performed poorly in 2009 with little near- term
+0. 7% growth expected.
+Negative state and local growth partially offset
+0. 3% by Federal gains.
+SOURCE: Oregon Office of Economic Analysis and Johnson Reid, LLC
+Economic Recovery Prospects
+In the State of Oregon, the consensus among economists is that the State economy is holding in a soft- patch
+period, as federal stimulus and inventory investment fade by the third quarter of 2010. Businesses are beginning to
+feel better about the economy, while persistently high unemployment has kept consumer sentiment down.
+However, the outlook for Oregon is positive relative to other parts of the nation. In the most recent publication of
+the Federal Reserve Bank of Philadelphia's Coincident Index of Economic Indicators, Oregon posted a 1. 2%
+improvement, ranking 13th in the country and 1st in the West. Moreover, according to the Oregon Office of
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 14
+Economic Analysis ( OEA), Oregon's risk of slipping into recession is now currently below the 50% mark for the first
+time since late 2007.
+FIGURE 11: FEDERAL RESERVE BANK OF PHILADELPHIA'S COINCIDENT INDEX OF ECONOMIC INDICATORS
+Employment Factors
+Similar to trends at the national level, the State of Oregon began exhibiting a decrease rate of job losses ( on a year-
+over- year basis) beginning by mid- 2009. However, at the state level jobs have yet to turn positive but are certainly
+trending in a positive direction. The State's unemployment rate has moved in a positive direction, down to 10. 5%
+from a 2009 peak of 11. 6%, seasonally adjusted. Nevertheless, Oregon's rate remains elevated relative to the
+national average.
+Document Reproduces Poorly
+Archived)
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 15
+FIGURE 12: YEAR- OVER-YEAR EMPLOYMENT CHANGE, STATE OF OREGON
+80, 000
+60, 000
+40, 000
+NEME_
+c
+20, 000
+0 0
+CL
+E 20, 000
+W
+40, 000
+d
+60, 000
+4 -
+80, 000
+100, 000
+d
+120, 000
+140, 000
+Oro Oro Oro 01 01 01 01 O~ O`b O1 OP SP 65 005 005 ' b0 .~ O
+a~ PJav ~pJ ~~C ~aJ PJQ; ~p~ ~~C ~a~ Pp~i ~pJ ~e~ ~aJ PJQo ~p~
+e
+SOURCE. Oregon Employment Department
+Over the longer- term, Oregon's economic growth is expected to outpace growth at the national level. By 2018, the
+State's employment is expected to grow by over 14% with Oregon's population growing by 9% over the same
+interval. Additionally, Global Insight, a national leader in economic forecasting, project's Oregon's Growth State
+Product to have the second highest growth rate in the nation in the coming years. Oregon's high growth prospects
+are due to a number of factors:
+0 Population growth, primarily due to net in- migration
+0 Relative location near Canada and Asian countries
+0 High commodity prices
+0 Export growth
+0 Business Cost Advantages
+0 Affordable housing
+0 Biotechnology and Clean Technology
+0 Renewable Energy and Sustainable Development
+0 Quality of life
+0 State tax incentives, including the Single Sales Factor Tax
+Through 2017, the OEA forecasts 223, 000 new jobs in the Oregon economy. Mirroring national forecasts, a
+significant share ( 41%) are expected to fall in Professional & Business Services and Health Services. The state is
+expected to add over 25, 000 new manufacturing jobs based on the 2010 base, roughly 8, 000 of which are
+expected to be high wage High Tech Manufacturing jobs.
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 16
+FIGURE 13: FORECASTED EMPLOYMENT GROWTH BY INDUSTRY, STATE OF OREGON 2010- 2017
+Construction 1900
+Manufacturing 25, 00
+Wood Products
+High Tech 000
+Transportation & Equipment
+Retail Trade
+Wholesale Trade
+Information
+Professional & Business
+Health Services
+Leisure & Hospitality
+toGovernment
+10, 000 20, 000 30, 000 40, 000 50, 000 60, 000
+Jobs
+SOURCE: Oregon Office of Economic Analysis ( OEA)
+RISK FACTORS
+While signs of systematic economic recovery are emerging, the State of Oregon still faces notable downside risk in
+key sectors. Housing and real estate remain weak, and Oregon's dependence on the stability of export markets is a
+regular concern. Other factors which could affect the Oregon's economic outlook include:
+Credit Markets: While conditions are improving, consumers and businesses are still facing greater difficulty
+getting loans relative to the previous cycle. This is also a risk reflected nationwide.
+Prolonged Housing Market Weakness: While signs are emerging that the housing market has hit bottom, a
+full housing recovery remains several years off. However, Oregon has fared better than most western states,
+and if the economic recovery beats expectations, Oregon will be better off than most of the region.
+Fading Inventory Cycle and Federal Stimulus: Much like in the national analysis, these two metrics are
+credited with propping up the economy over the previous two quarters. With support broadly expected to
+wane, uncertainty is on the horizon.
+Global Economic Conditions: As mentioned previously, Oregon's economy is highly export based and Oregon
+has above average exposure to global economic conditions, particularly conditions among its major trading
+partners. Expectations for economic growth in Asian countries such as China are a positive sign for Oregon.
+Energy Prices: Currently low energy prices relative to the previous cycle will be a short- term boon for the
+economy, as businesses with the ability will chase cost savings. However, price increases are expected to
+return commensurate with broad based economic recovery, and maintaining a cost based competitive
+advantage is likely to be central to Oregon's economic development success.
+4, 300
+1, 500
+13,80
+12, 700
+3, 100
+54,8
+600
+8, 400
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 17
+C. LOCAL TRENDS & CONDITIONS
+ECONOMIC FACTORS
+The Central Oregon economy was historically dominated by Wood Products Manufacturing and Natural Resources.
+In recent decades, this changed dramatically as population influences and tourism activity spurred growth in
+service oriented industries and manufacturing diversity. Central Oregon became among the fastest growing
+regions in the West. Affluent new residents attracted to the region's quality of life brought wealth from outside the
+region, fueling demand for services and housing with the infusion of their disposable income.
+Central Oregon was among the hardest hit regions in the state during the current recession, with unemployment
+rates remaining near 15% in the current quarter, significantly higher than the statewide average.
+FIGURE 14: COMPARATIVE UNEMPLOYMENT ANALYSIS 2003- CURRENT
+25. 0%
+Crook
+20. 0% , Deschutes
+Jefferson ;
+C
+15. 0%
+Oregon
+d
+E
+10. 0%
+M 5. 0%
+0. 0%
+O'5 O'5 ON ( Z~ Qy A`' Oh OrO Q10 01 01 O1b Q% OO. O°1 O°, ti0
+SOURCE. Oregon Employment Department
+Several key factors have contributed to both the depth and duration of Central Oregon's economic weakness.
+Firstly, industries that supplied goods and services to Central Oregon's real estate development market and served
+a rapidly growing population were largely responsible for its robust economic expansion. With the bursting of the
+housing bubble in 2007, the concentration of the regional economy dependent on real estate development
+created an economic contraction as dramatic as its rise. Central Oregon has lost one in four construction jobs since
+the peak of the cycle.
+Secondly, Central Oregon's new service concentrated economy is far more susceptible to changes in consumer
+sentiment and disposable income. The national recession's impact on tourism markets, consumer spending, and
+the acquisition of vacation properties or second homes compounded Central Oregon's decline. The Central Oregon
+economy was highly dependent upon " discretionary" activity, which tends to be very cyclical.
+Thirdly, unemployment in Central Oregon has remained persistently high in part as the result of continued
+population growth attracted to the region's quality of life. Central Oregon maintained positive in- migration
+through 2009. Coupled with stagnated employment growth, this in effect has kept unemployment high by
+maintaining higher labor force levels.
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 18
+As such, Central Oregon's last year- over-year employment gain occurred in 2007, with the region posting
+employment losses every quarter since. Manufacturing continues to depress the employment situation in both
+Deschutes and Crook Counties, posting 15% and 16% job losses in 2009, respectively. Employment losses are
+moderating however, and bright spots in the economy are emerging. Several industries including Wholesale Trade
+and Education & Health Services have maintained growth throughout the recession and several other industries,
+including Leisure & Hospitality have been showing year- over-year increases in employment in the second quarter
+of 2010.
+POPULATION
+Central Oregon's dramatic Population rise was largely the effect of significant in- migration. During the 2000- 2009
+decade, Central Oregon averaged 4. 0% annual population growth while adding more 65, 500 new residents.
+Despite an influx of retirement age residents, 55% of residents are working age between the age of 25 and 64. This
+is consistent with the statewide average.
+FIGURE 15: LOCAL POPULATION GROWTH TREND
+The City of Bend is the primary demographic hub in the region, accounting for 37% of the regional population and
+44% of growth during the last decade. Over the next 20- years, the OEA estimates Central Oregon will continue
+demographic growth at a 2. 1% annual pace adding 45, 000 new residents by 2020. However, this State developed
+rate of growth may be slightly conservative in nature, Deschutes County's 2004 coordinated population forecast is
+projecting 47, 000 new residents in Deschutes County alone over the same interval.
+EDUCATION
+An area's level of educational attainment is often used as a proxy for the skill level of the population base. From an
+economic development perspective, Central Oregon is consistent with regional averages, with 29% of the working
+age population having at least a bachelor's degree. However, a 2010 study of Central Oregon's ( Deschutes County)
+competitiveness evaluated Central Oregon in light of a sample of competitive economic peers in the west. The
+study found Central Oregon to be in the middle of the road relative to its peers. An educated and skilled workforce
+is a competitive asset among Central Oregon's target industries. An inability to " stand out" in this metric may limit
+the region's ability to recruit employers within specific industries.
+DESCHUTES COUNTY ( CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 19
+3uum. C: ruruanu 3IDEe rupuiauon nesearcn renter
+FIGURE 16: COMPARISON OF EDUCATIONAL ATTAINMENT
+Boulder County, CO %
+I I I
+Ada County, ID 34
+I I
+Washington County, UT 2 %
+I
+Kootenai County, ID = 23%
+Central Oregon 29%
+Portland 33%
+I l
+Oregon 8%
+0% 10% 20% 30% 40% 50% 60% 70%
+of Working Age Pop. With a Bachelor's Degree
+SOURCE. Headwaters Economics, U. S. Census Bureau, and Johnson Reid, LLC
+WAGES
+Since 2002, wage levels in Central Oregon have averaged a 3. 2% annual rate of growth, comparatively better than
+a 2. 8% annual growth rate at the State level. Deschutes County's average 2009 wage level of $ 35, 295 was well
+below the statewide average. Lower relative wage rates coupled with housing affordability concerns can limit the
+region's ability to attract a high quality workforce to the region.
+FIGURE 17: CENTRAL OREGON WAGE TRENDS
+38, 000
+36, 000 Sg ,
+34, 315 Bend MSA $ 35, 195
+34, 000 0A 37a - -
+3 $
+32, 00017 $31, 491
+30, 091
+30, 000 - - - - -
+18153 Portland Metro $ 4 33
+28, 000 - - - - - - -
+26, 000 - - - - - - -
+24, 000 - - - - - - -
+Oregon 40, 740
+22, 000 - - - - - - -
+20, 000
+2002 2003 2004 2005 2006 2007 2008 2009 $ 20, 000 $ 27, 500 $ 35, 000 $ 42, 500 $ 50, 000
+Average Annual Wage
+SOURCE. Oregon Employment Department, Covered Employment Survey
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 20
+IV. TARGET INDUSTRY ANALYSIS
+A. LARGE-LOT TRENDS AND DYNAMICS
+Changes in global business patterns have pressured firms to develop more capital intense production models,
+placed a greater emphasis on economies of scale, as well as production efficiency and flexibility. The result has
+been the emergence of a clear real estate trend, creating a global demand for large development ready industrial
+sites. As such, large, development ready sites have emerged as one of Oregon's most severe development
+challenges.
+Workforce characteristics, quality of life, proximity to large U.S. West Coast markets, and coordinated public
+involvement and recruitment have landed Oregon " on the radar" of many large-scale projects shopping for sites in
+the United States. Many of these projects have been concentrated in cutting edge industries important to the
+State of Oregon's economic development targets. The state and region have had measured success in the
+placement of large-scale projects, with lack of suitable sites ( size & infrastructure), lack of market choice, and time
+duration to entitle and develop sites commonly cited as development constraints.
+Large scale global firms represent an important prospective economic development engine for the state and
+region. Global scale firms have the ability to open new markets, bring cutting edge technology to the region, are
+associated with high wage jobs, and expend significant capital investment. As an additional benefit, the high
+assessed value of these projects contribute significantly to the stability of the tax base that allows provision of
+necessary services to all residents of the region. Therefore, the goal of this process is to evaluate Central Oregon's
+opportunities for large scale economic growth in light of statewide planning goals and practices, as well as land
+and infrastructure availability.
+LARGE LOT TRENDS
+Shifting global market factors have increased the need for large lot industrial sites over the last several decades.
+Warehouse properties have substantially increased in size as distribution reflects increasing returns to scale as well
+as the concentration of production in larger production facilities. Production facilities are also increasingly scaled
+for global as opposed to regional or national needs. The following are examples of recent warehouse projects that
+have located to the State of Oregon, as compiled by Business Oregon:
+Jurisdiction Tenant Site Size Square Footage
+Albany Target 175 acres 1.3 million
+Hermiston Wal Mart 200 acres 1. 3 million
+Lebanon Lowes 204 acres 13 million
+Salem Home Depot 50 acres 500, 000
+As shown in the preceding table, the emerging module for distribution facilities now regularly tops 1.0 million
+square feet of building area, with site sizes in excess of 200 acres. Over 55 projects have shopped the State of
+Oregon over the last ten years with site demand over 50 acres, averaging over 5 new projects per year. Business
+Oregon currently has 10 estimated outstanding leads in this size category.
+Manufacturing has also shifted to larger site needs, with examples including Genentech, SolarWorld and Intel's
+new expansion in Hillsboro. Each of these required sites are in excess of 50 acres in size, with Intel's located on
+land held in reserve adjacent to a currently operating facility. While these projects show a need for large sites,
+they also speak to a desire for even larger sites than immediately needed to provide flexibility. While Intel didn't
+immediately need the land used for their recent expansion when building the initial Ronler Acres facility, the
+flexibility provided by this excess property made the site more competitive vis- a-vis alternative locations that had a
+greater probability of limiting future expansion options.
+DESCHUTES COUNTY ( CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 21
+Business Oregon estimates that they see approximately 15 serious inquiries a year for large scale manufacturing
+sites. Combined with warehouse/ distribution inquiries, Business Oregon sees over 20 annual inquiries a year
+statewide for large lot industrial sites. As not all leads are picked up by Business Oregon, one would expect the
+overall activity to be significantly higher.
+Economic Development for Central Oregon ( EDCO) is currently working with 72 companies seriously considering a
+location in Central Oregon, of which five would require a site 20- 50 acres in size, while three would require a site in
+excess of 100 acres. Industries that have contacted EDCO for large acreage sites include the following:
+Distribution and warehousing;
+Data centers;
+Renewable energy equipment manufacturing;
+Energy production facilities ( biomass, solar, geothermal, synthetic fuels),
+High technology; and
+General durable goods manufacturing.
+Johnson Reid completed a survey of industrial brokers active within the State of Oregon in 2010, asking a series of
+questions with respect to market activity for large lot industrial sites. These surveys revealed the following:
+Industrial brokers surveyed fielded an estimate of eleven 50+ acre parcel queries annually over the last
+ten years, largely by technology manufacturers and warehouse/ distribution users.
+Technology manufacturers comprised 35% of all 50+ acre site queries over the last decade, indicating
+continued viability and continued growth potential for the cluster.
+For every public lead that generated a large site query fielded by a broker, private brokerages fielded
+nearly 3 large site queries independent of public economic development involvement.
+The State loses at least one large site query annually due explicitly to site unavailability, however Johnson
+Reid concludes more are also likely lost due to site unavailability but limited broker involvement and firm
+confidentiality prevent verification.
+Almost one of every three sites purchased by large users over the last ten years has not yet realized
+development. In other words supply capacity should include at least 33% land investment and
+transaction demand" capacity to enable firms adequate choice for the large site market to function.
+In summary, Business Oregon fields over 20 inquiries annually for large lot industrial land, while EDCO fields an
+additional amount. If the broker experience holds true, the actual volume of prospective site queries is in excess
+of 80 annually statewide.
+IMPORTANCE OF LARGE-LOT SUPPLY AND MARKET CHOICE
+Oregon is entering an increasingly competitive dynamic in the recruitment and retention of global large scale
+employers and producers. In their search for suitable site locations for business expansion, firms typically follow a
+site selection process and evaluation of regional characteristics and livability, workforce/industry dynamics,
+operating costs/ incentives, and availability of a selection of sites ready for immediate development. A
+development-ready site, or a " shovel- ready" site, is one in which site improvement can begin within 180 days of
+purchase and development application. Such sites are served by requisite infrastructure and utilities,
+environmental and other constraints are known and documented, and permitting can be fast- tracked for rapid
+facility operations. Many large business location searches are conducted by hired site selectors; their task is to
+present their clients with a " short list" of feasible options. Because of their mandate, site selectors admittedly look
+for reasons to remove sites from consideration because of some inadequacy in characteristics; their job is not to
+keep sites in consideration based on promised improvements in any deficient condition.
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 22
+Initial Location Candidates
+Workforce and Existing Cluster
+A
+s
+0
+O,,,
+e01,
+001
+d
+ti•
+c
+oc
+a
+o~
+0
+a"
+oa0
+n`
+Johnson Reid has organized this process into a
+simple model that follows the progression of firms'
+decision criteria in location analysis. In addition to
+identifying a progression of selection criteria,
+Johnson Reid have found land diversity and market
+choice to be of particular importance. Industrial
+recruiters at Business Oregon and other entities
+around the state strongly assert that a lack of sites
+puts Oregon at a distinct competitive disadvantage
+relative to competitor communities across the
+nation. The consensus has emerged that a general
+lack of development-ready sites to choose from
+eliminates a city or region from contention very
+early in the site selection process. Moreover,
+market choice among several sites further
+preserves price stability and transaction certainty
+that tends to deteriorate in a single- seller scenario,
+threatening placement of potential firm.
+Additional industrial development and business trends affecting large-lot industrial demand include:
+Companies trending toward expanded portfolios.
+Among key industries such as high- tech/renewable energy manufacturing and biosciences, evolving
+production models requiring substantial capital investment and reinvestment have created a need for
+land capacity beyond current needs. Firms require land holdings with flexibility and expansion capacity.
+The value of this flexibility to a firm exceeds the marginal cost of holding land for many firms, leading to
+firms seeking sites often well in excess of immediate space needs.
+Higher fuel and energy costs are forcing firms into more regionally distinct operations for sourcing their
+raw materials and/or distributing their finished products.
+Large, available vacant structures are a popular commodity for some industries where time- to-market is a
+critical element of location decisions.
+Location incentives are playing an increasing role in location criteria, at least in the context of " leveling
+the playing field" among competitor locations.
+Low cost, high capacity existing utility infrastructure is emerging as a deterministic quality in site criteria
+for many targeted industries; if capacity does not currently exist it must be available within the project
+timelines for sites to remain in consideration.
+For most companies making location decisions, land is a " means to an end"; that is, they need the land to locate
+some kind of facility so they can produce the product or service that is their primary business. They want:
+Diverse sites in a region to choose from in the early stages of their search; most companies want to pick
+and choose.
+A single point of contact/ negotiation; companies are not interested in protracted negotiations with
+multiple parties; they want the process to be as quick and painless as possible.
+Prospects are very concerned how the land procurement process affects their project time lines and
+ultimate time- to-market of their product; often, in fact, the actual land price is of lesser consideration to
+the company than how quickly and easily the property transaction moves forward.
+Prospects are highly unlikely to be patient when it comes to services ( water, wastewater, power); the
+availability of service needs to fit into the project timeline, and not be a roadblock issue.
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 23
+Location
+ecisi
+Assembling multiple smaller parcels into a cohesive " large lot" product can be a very difficult task. Among the
+barriers to land assemblies are:
+Property owners unwilling to sell ( for many reasons: price, tax impact, sentimental value, replacement
+costs, and viable alternative locations).
+The sheer cost of the land; owners have an inflated expectation, or perhaps only one ownership out of a
+larger site assembly is a problem.
+Ownership interests are fractured ( often true in family inheritance situations); this issue often is
+combined with absentee ownership, so that owners don't really have a " stake" in the transaction and its
+impact on the community.
+Regulatory environment ( zoning, environmental overlays, mandated parcel size).
+Infrastructure demands caused by land assembly, and the commensurate ability to finance necessary
+improvements.
+Legal issues, including clear title, easements, and encumbrances.
+As these possible barriers are viewed from the standpoint of the business making a location decision, it is not
+difficult to perceive why multiple parcels often represent a " deal- killer" to companies who do not have the time,
+patience, or expertise to wade through a possible quagmire of issues.
+The key to the site selection process is that it is essential for candidate sites to be truly development-ready instead
+of simply " buildable". A general lack of development-ready sites to choose from eliminates a city or region from
+contention early in the site selection process. In addition, firms in the site selection process prefer to have
+multiple options within a region that meet their criteria. Ideally this would include multiple ownerships, as well as
+multiple jurisdictions. This allows for competitive pricing, a wider range of options, as well as making the area
+more attractive for site visitation.
+COMPETITIVE INVENTORIES
+While the State's land use system is concerned with meeting demand over the next 20- years, of more critical
+importance is the availability and maintenance of a competitive inventory of readily available sites. As the Central
+Oregon region considers new, large industrial site supply, the region specifically seeks to provide a supply of large,
+development-ready sites that is competitive with other markets nationwide.
+Johnson Reid prepared a number of surveys over the last several years, documenting the supply of development-
+ready site inventory ( 180- day) marketed by national competitors. Johnson Reid would underscore that at least
+two of the competitors shown - Albuquerque and Austin - have identified replacement industrial land supply
+exceeding a thousand acres according to officials interviewed. The City of Hillsboro is also actively working
+towards increasing its large lot industrial acreage inventory.
+Competitive 50- 100 Acre Sites 100+ Acre Sites 50+ Acre Sites
+Market Site Count Acreage Site Count Acreage Site Count Acreage
+Colorado Springs 20 1, 500 5 500 25 2, 000
+Raleigh 2 126 12 1, 470 14 1, 596
+Austin ( Round Rock) 5 380 6 855 11 1, 235
+Albuquerque 3 225 9 900 12 1, 125
+Hillsboro 1 78 0 0 1 78
+SOURCE: Johnson Reid Survey ( Feb. 2010)
+Many site selectors will require the ability to review multiple options in the region in order to reduce the risks
+associated with varying levels of environmental mitigation, local government policy, site avoidance factors and
+planned levels of infrastructure utility investment.
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 24
+Central Oregon competes with regions across the country that offer significantly greater development-ready
+industrial land supply, selection, diversity, and lower land cost. Continued inability to factor competitiveness as
+borne out by surveyed industrial broker activity, including diversity of large industrial site supply and competitive
+cost, sacrifices the region's long-term competitiveness for these key industries. As noted by EDCO, "with many
+options ( depending upon the geographic scope of the search) we have seen a resistance by site selectors,
+corporate real estate professionals and company representatives to invest the time and travel to visit the region
+without more than just one or two large lots to consider."
+B. STRENGTHSAND CHALLENGES IN THE CENTRAL OREGON ECONOMY
+In June of 2010 Deschutes County and the consultant team moderated the Central Oregon Industrial Lands Forum.
+Participants in the forum discussed economic development trends at a national and regional level, as well as
+specific opportunities and challenges for Central Oregon.
+In this section, the findings of this session are summarized, as well as additional input from the Regional Advisory
+Committee and the consultant team. The Central Oregon region has a number of strengths with respect to
+economic development, including the following key attributes:
+Quality of Life - The region's extensive recreation amenities and commercial services base are a
+substantial advantage. While the concentration of destination resorts in the area attest to the
+attractiveness of these assets, their existence also supports a much more substantial services amenity
+base than the full- time population could support. This makes it easier to attract executives as well as a
+quality work force. With advancements in telecommunications, firms are more footloose now than
+traditionally, and quality of life criteria play a greater role in location decisions.
+Access - The Central Oregon communities serve as the commercial hub of a much broader rural area. In
+addition, Highway 97 provides a major north/ south alternative to Interstate 5. Central Oregon's location
+makes it a natural commercial services hub for a very broad area. While Highway 97 is not perceived to
+be of equal value as Interstate 5 as a north/ south link, its function is equivalent and sometime superior for
+many prospective firms.
+Commercial Air Service - The Redmond Municipal Airport provides commercial service links, while Bend,
+Madras and Prineville have general aviation airports. This is supportive of firms making location decisions
+for quality of life reasons, while still maintaining a functional and convenient link to major metropolitan
+areas.
+Rail - The region has made major investments in the Regional Freight Depot, supported by Connect
+Oregon grants.
+Natural Resource Proximity.
+The primary challenges facing the area are related to scale and accessibility. While the region as a whole has a
+significant population base, none of the jurisdictions are considered large enough to meet many firms initial
+screening. In addition, Central Oregon's distance from the Interstate system is a major impediment for many
+prospective firms.
+The competitive characteristics of Central Oregon can be strengthened through a regional approach. Individual
+jurisdictions in the region are too small to be considered viable candidates for many of the targeted firms. The
+region acts as a cohesive economic unit, sharing work force and commercial amenities, and should be marketed as
+such to increase its perceived scale in the market.
+The following is a more detailed profile of the individual strengths and challenges facing each of Central Oregon's
+major communities with respect to the suitability for large-lot industrial.3
+3 Profiles gathered from the June 28, 2010 Central Oregon Industrial Lands Forum.
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 25
+MADRAS ( JEFFERSONCOUNTY)
+The City of Madras has some strong industrial sites near the airport, including large lot industrial properties with
+rail access. The City's position at the intersection of Highways 26 and 97 provides logistical advantages,
+particularly for firms needing access to the Portland metropolitan area and Interstate 84. The airport is also a
+major facility that provides an amenity for certain businesses. Within Central Oregon, the Madras area is at the
+northern edge of the population and economic base, placing it at a disadvantage for regional distribution as well as
+for firms looking for large work forces.
+Strengths/ Advantages Challenges/ Disadvantages
+The Oregon Transportation Planning Rule is an
+Industrial airport issue on Hwy 97
+Airport has improvements scheduled
+Available industrial sites proximate to rail
+There is no a continuous 4- lane highway
+between Madras and Bend
+Relative skill set of work force
+Some areas do not have large surplus of gas
+Opal Springs provides ample water
+and electricity
+Strong agricultural and manufacturing section
+businesses
+Most proximate to the Portland metro area
+Most proximate to 1- 84
+Highways 97 and 26 run through middle of
+Madras
+Development costs substantially than other
+Central Oregon cities
+LA PINE ( DESCHUTESCOUNTY)
+Similar to Madras, La Pine's position at the southern edge of the Central Oregon region places it at disadvantage
+for regional-serving distribution. The City does have some advantages for firms looking to serve both Central
+Oregon as well as the Klamath Falls area to the south.
+Strengths/ Advantages Challenges/ Disadvantages
+There are industrial sites available • Sewer and water districts independent of City
+They do have some larger lots available • Sewer and water systems not coordinated
+In transition between County codes and CityThe County is in control of some of the sites
+codes
+Most proximate to Northern California, • Transportation challenges; necessary
+Klamath Falls improvements
+Active economic development efforts
+Very near passenger rail line ( Chemault)
+PRINEVILLE ( CROOK COUNTY)
+While the City of Prineville is located at the eastern edge of the Central Oregon region, it has strong rail access and
+relatively easy truck/ auto access to Redmond, Madras and Bend. The Regional Freight Depot represents a major
+public investment. The City has a reputation as being business friendly, and the recent siting of Facebook has
+raised the jurisdiction's profile in economic development circles. The area has excellent and affordable housing
+stock. While the City has a number of industrial sites, many of these are either poorly located or constrained. The
+City has historically competed well within the region as a relatively low cost location with a strong labor force, but
+DESCHUTES COUNTY ( CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 26
+this advantage has diminished somewhat with the declines in the region's real estate markets. Sites at the
+western edge of town are best located to serve regional needs.
+Strengths/ Advantages
+Ease of permitting
+Rail access/freight depot - City owned and
+operated short line rail service and the
+Regional Freight Depot
+General aviation airport adjacent to industrial
+properties with expansion underway
+Larger, available workforce
+Challenges/ Disadvantages
+Sites are a distance off Hwy. 97 and Hwy. 126
+has limited capacity
+Grade differentials in sites make some easier
+to serve via rail ( lower level) than others
+higher level)
+Ochoco Lumber mill site bordered by 2
+highways so " double indemnity" for any
+development activity triggering TPR issues.
+Recognized as future mixed use site.
+Potential large lot industrial lands not
+protected under current zoning from splitting
+into smaller parcels.
+Somewhat warmer climate, but cool evenings • Water supply challenges
+Community welcoming of
+development/ newcomers/jobs
+Prineville is centrally located to
+Redmond/Bend with relatively lower
+priced land for industrial use to other Central
+Oregon area
+Facebook data center under development at
+airport location causing high interest by other
+firms seeking future locations
+BEND (DESCHUTES COUNTY)
+As the largest city in Central Oregon, Bend is most commonly cited as the desired location for new firms
+considering locating in the region. The City offers a wide range of commercial services and executive housing
+options, and as a result of recent trends, provides affordable housing as well. The current scarcity of industrial
+land in the city is the primary challenge to future economic development, with sites that are small, expensive and
+often facing substantial transportation problems.
+Strengths/ Advantages Challenges/ Disadvantages
+Largest metro area in region Scarcity of industrial land
+Regional employment center Price of industrial land
+Most " urban" of regional cities Overall costs to develop
+Immediate access to natural amenities Relatively complex/ sophisticatedpermitting
+process
+Central Oregon Community College main
+Water and sewer capacity limited
+campus
+Good communication infrastructure TPR is an issue
+Juniper Ridge master- planned mixed- use Ongoing " discussions" with LCDC about UGB
+community expansion ( remand, negotiations, etc.)
+While Bend has the greatest level of services and scale, its vacant industrial land inventory is severely limited.
+DEscHUTEs COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 27
+REDMOND ( DESCHUTES COUNTY)
+The City of Redmond serves as a major hub of the region, and the commercial airport provides a key advantage.
+The community has historically seen land prices somewhat below Bend, and is well situated to serve the region
+due to its central location. The area has some small and medium sized industrial sites, and the range of
+commercial services trails only Bend in the region.
+Strengths/ Advantages Challenges/ Disadvantages
+465 acres located in the industrial area in the
+Commercial airport city limits currently in holding zone of open
+Space Park Reserve - rezoning prevented by
+TPR.
+Affordability of industrial land coming backAvailable water/ wastewater capacity into line with market
+Good telecom infrastructure
+Central regional location allows workforce
+drawn from all over region
+Available small/ medium sites
+Can large public entity land holdings (irrigation
+district and DSL) be brought into play?
+TPR is always a factor when land is being
+considered for development
+The diverse public entities that own land might
+have different objectives
+COCC technology center
+Family- centric, stable community
+Enjoys a business friendly reputation; Ease and
+speed of permitting
+BNSF rail mainline through town
+Prineville freight depot/short line railroad
+SISTERS (DESCHUTESCOUNTY)
+The City of Sisters is located at the western edge of region, and is poorly situated for serving the broader region
+and capitalizing upon the depth of the workforce. The community does offer a strong amenity base for its size, as
+well as extensive executive housing options nearby.
+Strengths/ Advantages Challenges/ Disadvantages
+Natural amenities • Small community ( 2, 000 population)
+Small airport • Possible expansion land not in city limits
+Transportation system needs funding, butStreamlined permitting process
+some elements coming into place
+Large parcels abut city limits
+Community is interested in/ supportiveof
+economic development
+Available lots are plotted into small parcels in
+industrial parks
+80 acre Forest Service site in town might
+become available which could trigger TPR
+issues
+Possible water/ wastewater limitations ( notJust joined Redmond's E zone
+really clear)
+C. TARGET INDUSTRY OPPORTUNITIES IN CENTRAL OREGON
+Led by the Economic Development for Central Oregon ( EDCO) in participation with local leaders, the Central
+Oregon region has gone through the lengthy process of identifying specific industry sectors for business
+recruitment, retention, and entrepreneurial support. Several of these industries have had successful results to-
+date, while others are relative young in Central Oregon. In the summaries below, Johnson Reid draws largely from
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 28
+EDCO's evaluation of industries in Central Oregon as well as extensive research and evaluation produced as a part
+of the Oregon Business Plan.
+Renewable Energy Development
+Renewable or clean energy development is a global industry on the rise. In 2008 Global Insight forecasted U.S.
+employment growth related to " green industries" would reach 2.5 million over the next ten years. In Oregon, solar
+manufacturing has been an early entrant, taking advantage of Oregon's existing and highly related semiconductor
+industry and proximity to large U.S. West Coast markets. Central Oregon currently has a small but diverse cluster
+of renewable energy related industries ranging from solar power and fuel cells to wind power and biomass
+production.
+Aviation/ Aerospace
+There is an existing concentration relating to Redmond's airport and Bend's metro area. Specifically, Lancair has
+been operating in Redmond since 1992. Oregon's aviation industry includes 200 firms providing manufacturing,
+first and second supply chain services, and product distribution. Oregon's kit plane manufacturers also provide
+over 70 percent of all of the kit planes sold within the U.S. each year to global customers.
+Software
+Oregon is home to more than 1, 500 software companies, and is particularly strong in the areas of: electronic
+design automation, financial solutions, open source, educational and training software, embedded software and
+healthcare applications. Central Oregon itself is home to over two dozen established software engineering firms.
+Software development firms are typically smaller in scale, where quality of life and telecom infrastructure is
+important. However, the Central Oregon region and the State of Oregon face both human and financial capital
+challenges to further development of the Software/IT cluster.
+Biosciences
+Oregon's bioscience industry has over 600 companies and research institutions. Biosciences include research and
+development, medical devices, medical diagnostics, human and animal therapeutics, pharmaceuticals, reagents,
+research services, bio- agriculture, bio- fuels, and medical software operations. Bioscience is a $ 2. 5 billion traded
+sector industry in Oregon. While Oregon is not seen as a bioscience hub nationally, Central Oregon is home to a
+segment of Oregon's promising bioscience future, specializing in pharmaceutical research and development.
+However, biosciences are highly workforce dependent and are often related to large scale higher education
+resources, which are currently absent in the region.
+Data Centers
+Data centers are an emerging economic development engine in Oregon bringing significant capital investment to
+regional communities. The Central Oregon region offers key critical components in the recruitment of data center
+projects, specifically affordable electric power, municipal water and sewer capacity, robust telecom infrastructure,
+ability to attract technical talent to operate data center facilities, and a climate that can significantly lower power
+usage. These factors were instrumental in EDCO's recruitment of both Bend Broadband's Vault project and
+Facebook's $ 188 million investment in Prineville.
+Recreation Equipment
+Oregon is home to some of the world's most recognized brands in footwear and sports apparel. Locally
+headquartered firms include Nike, Columbia Sportswear and the North American headquarters of Adidas.
+Additionally, hotbed recreational regions such as Hood River and Central Oregon have long seen start-up
+recreational equipment firms flourish into significant contributors to local economies. Central Oregon specifically is
+home to diverse range of mountain, river, and recreational vehicle and equipment manufacturers.
+Higher Education
+Central Oregon is just beginning the process of establishing planning efforts in the establishment of a higher
+education facility in the region. Local policy market and economic development professionals realize the broader
+importance of higher education on workforce quality, culture, and business development. Higher education
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 29
+facilities are typically campus style development requiring large affordable sites with good telecom and
+transportation infrastructure. Sites need to be proximate to population centers.
+Regional Distribution Centers
+Central Oregon can play a role in distribution, with Highway 97 representing an option to the I- 5 Corridor. Option
+planning is taking a larger role in logistics and is expected to play a bigger role in diversifying risk away from a
+single supply route.
+Wood Products
+The Wood Products cluster is a long standing economic driver in Central Oregon. The cluster includes primary and
+secondary wood products, machinery manufacturing, paper & pulp manufacturing, wholesaling, and business
+management. Where Central Oregon was once a primary wood products region, secondary wood products
+manufacturing now accounts for 25% of all manufacturing employment in the region. While wood products have
+largely been a low growth industry over the last decade, the Central Oregon region is targeting additional value-
+added firms. Moreover, innovated new- age primary lumber production models have emerged in recent years of
+which Central Oregon would have a distinct competitive advantage.
+D. SITE/ RESOURCECHARACTERISTICS OF KEY DEVELOPMENT CLASSES
+Figure 18 highlights specific land, workforce, and operations characteristics among key industrial classifications in
+Central Oregon. For this stage in this analysis, Manufacturers fall under a single category, whereas subsequent
+drafts will explicitly underscore development site needs and characteristics of specific industries.
+SOURCE: EDCO
+The findings in Figure 18 reflect the findings in the progressive criteria " funnel model". With the exception of data
+centers which have highly unique utility requirements, availability of a qualified and ample workforce is of upmost
+importance. For some industries such as Distribution and Warehousing, access to transportation networks is a key
+concern.
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 30
+FIGURE 18: KEY INDUSTRIAL LAND/ INDUSTRYCHARACTERISTICS
+TARGETED INDUSTRIES WITH LARGE LOT NEEDS
+While it is unlikely that several industries being targeted by communities within the Central Oregon region will
+generate significant demand for large-lot industrial land, some sectors have a demonstrated track record for
+creating enormous exogenous absorption of properly-zoned industrial sites. For example, software, recreational
+equipment and aviation/ aerospace all have precedent for large corporate campuses: respectively Microsoft in
+Redmond, Washington; Thor Industries in Elkhart, Indiana; Cessna in Wichita, Kansas. Typical companies,
+however, require building footprints well under the 40- 50 acre threshold we have defined as a large lot industrial
+site. These needs are generally met by the existing land use process in Oregon.
+Industries requiring large acreages that hold promise for the Central Oregon region include:
+Data centers
+Warehouse/ distribution centers
+Select high technology/ biosciences operations
+Changing economic conditions and global trends are impacting each of these industries, creating opportunities for
+rural and small metropolitan areas. The tri- county region already has established operations in each of these
+sectors and precedent for large- acreage users. Appendix B contains a summary of other geographic areas where
+each of these sectors has grown from a similar small foundation to become national leaders - some in a relatively
+short period of time. Additionally, any one of these sectors has the potential to create the exogenous demand that
+would trigger the need for additional large, industrial- zoned land in Central Oregon since so few of these sites exist
+particularly in the region's largest cities.
+CENTRAL OREGON VIABILITY FOR THE DATA CENTER INDUSTRY
+According to global data center site selector David Aaroe, ( co- founderand principal, Fortis Construction), Central
+Oregon has all the elements to rival Central Washington as a top location for the data center industry in North
+America. Other site selectors from across the country are already focused on the tri- county area as a result of
+Oregon's largest data center project with the construction of the Facebook campus at Prineville ( currently 125
+acres, 300, 000 sf).
+The combination of low cost- not the lowest- reliable electric power, incentives, telecom capacity
+and the area's climate could make the Central Oregon area as competitive as any in North America for
+the data center industry."
+2011 presentation by David Aaroe, Principal, Fortis Construction
+A leading global data center site selection firm
+A key component that could lead to explosive growth in the Central Oregon area is enormous Bonneville Power
+Administration power transmission lines that transport electricity from hydroelectric generation the Columbia
+Gorge to California. These transmission lines are located such that Prineville, Redmond, Bend, and La Pine all
+become viable locations for the data center industry. This steady, inexpensive base load electric power is in high
+demand by the data center industry.
+Low cost, high capacity power is at the very top of the site location criteria list for the data center industry. The
+ability to quickly and reliably add load to the system is also critical. As quickly illustrated by the national district-
+by- districtmap below, tri- county rates are well below the national average for electricity in all sectors. For
+industrial customers, Central Oregon providers offer rates up to nearly 20% below the national average and 50%
+below neighboring California where considerable data center activity is currently centered.
+DEScHUTEs COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 31
+Document Peproduces Poorly
+Archived)
+FIGURE 19: INDUSTRIAL POWER RATES
+Another key factor is the requirement for robust telecom infrastructure. Over the past 12 years, more than $ 100
+million in infrastructure has been invested in the region, including a self- healingfiber loop for incumbent provider
+CenturyLink ( formerly Qwest), numerous fiber rings by competitive local and regional providers and multiple
+Points of Presence ( POP). With multiple telecom routes via San Francisco, Portland and Seattle, the tri- county
+region's access to markets in Asia is especially good.
+Perhaps one of the greatest natural assets the area possesses for data centers is the significant year- round cooling
+factor offered by the high desert climate. Simply stated, cool nights year- round and low humidity enable data
+centers to use less power for cooling servers- making the center much more cost efficient.
+Reasonable power costs, power savings made possible by the region's climate, the lack of a sales tax in Oregon and
+meaningful incentives ( property and incomes tax exemptions) all combine to make the Central Oregon region a
+globally competitive location.
+Because of the significant investments characterized by data centers both in mission critical
+infrastructure and physical plant ( typical cost per square foot is $1, 000), most companies require large industrial
+sites for future expansion. The current inventory of appropriately zoned sites with proximity to needed
+infrastructure in Central Oregon is potentially uncompetitive, and as such could be a major impediment to further
+growth of the sector for next 10- 15 years.
+The economic development community recognizes that most jobs come from existing companies, and fostering
+entrepreneurship and retention expansion of existing traded- sector companies is a major focus of regional efforts.
+Recruitment of new companies in new and existing industries, however, is an important component of any
+successful economic development program and diversification strategy. New companies bring a different mix of
+professional and technical talent to communities that can spawn other businesses and technologies. Intel's
+expansion to Hillsboro in the late 1970s is a good example in Oregon. At that time it was a recruitment project, but
+in the subsequent decades the global leader in semiconductor technology and production spun off more than 100
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 32
+companies that significantly contributed to the overall diversification of Oregon and of course many well- paying
+jobs.
+CENTRAL OREGON VIABILITY FOR THE HIGH TECHNOLOGY INDUSTRY
+While the Central Oregon region clearly has different attributes than either the Hillsboro or Austin examples
+outlined in Appendix B, it does have some of the key components that make the high technology sector a viable
+option for industry targeting. Several important technology sectors have a foothold in the region including:
+Semiconductor and peripherals manufacturing ( Microsemi, TriQuint Semiconductor, Nanometrics)
+Renewable/alternative energy equipment and software ( Advanced Energy, Idatech, PV Trackers, E1, InEnTec)
+Software (Vertex, GL Solutions, Novis, Manzama, AudetteMedia, Team Unify)
+Biosciences ( Bend Research, MediSISS, Agere Pharmaceutical, Phillips, Accelrys).
+This small but successful and diversified group of high technology companies provides a foundation on which to
+build a broader industry, provided that other site location fundamentals are in place.
+The Central Oregon region scores well on most critical location factors. Power rates are among the lowest in the
+nation and nearly half of those in neighboring California. Not all communities are equally prepared, but generally
+water and wastewater capacity is adequate to accommodate high technology industry needs. Oregon's property
+tax incentives offered through the Enterprise Zone program generally favor high technology projects with
+significant capital expenditures, much as it benefits companies in the data center industry. Higher education
+infrastructure to develop local scientific and technical talent needs improvement within the region, and is currently
+considered by site selectors to be a barrier, however many technology companies acknowledge that most talent
+recruitment today is done on a national or international basis. Access to local technical, engineering, and scientific
+coursework and degrees are a plus and can be a swing factor between one site or another, however an area with
+quality of life and some technical talent can attract other technology employers. It happened in Hillsboro and
+Austin not because of the university infrastructure there, but because other site location factors worked ( access to
+power, water & wastewater facilities) and there were well educated people who chose to live there or could be
+recruited from other places.
+A potentially significant barrier is the lack of large industrial lot options that have proper zoning and necessary
+infrastructure, specifically in Bend and Redmond which have been of greatest interest for companies, site selectors
+and corporate real estate professionals. That Bend, one of Oregon's seven largest cities and among the fastest
+growing ( both in terms of net jobs the past decade and population), has no industrial- zoned lots over 20 acres
+would be inconceivable in most states.
+According to EDCO, the sector with the most activity in terms of location decisions and new production facilities in
+the past five years has been renewable energy equipment and related manufacturers. Included are solar power
+panel fabrication ( thin film and silicon) polycrystalline refinement, and solar power generation- all which require
+large acreages with appropriate zoning. Biomass and gas-fired electric power plants also have a need for large
+industrial acreage, but usually prefer a rural location if adequate infrastructure can be developed cost effectively.
+While existing computer and electronics manufacturers in the area have historically operated in facilities on
+acreages less than 40 acres, there are many examples in Oregon and across the country where once small high
+technology firms have grown into large campuses. Hewlett- Packard in Boise, ID and Corvallis, OR; Micron in Boise,
+Microsoft in Redmond, WA all serve as excellent examples of local companies that organically grew into large,
+multi- building campuses that greatly exceed the 40- 50 acre threshold established by this REOA.
+CENTRAL OREGON VIABILITY FOR THE WAREHOUSE & DISTRIBUTION INDUSTRY
+Because of its removed location from major interstates, the tri- county has not historically been a target for the
+warehouse and distribution industry. Still, some significant distribution activities do occur - primarily tire
+distribution by the Les Schwab Company, which has over 2 million square feet under roof at its warehouse
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 33
+DocumentlleproducesPoorly
+Archived)
+operations in Prineville. There, tires and auto components manufactured globally are consolidated and distributed
+to 400+ stores in a seven state area. The company is the # 1 highest volume customer for the Port of Portland and
+operates one of the largest distribution operations in Oregon.
+In addition to this warehouse, several durable goods manufacturers in the area have
+larger-scale distribution nationally from their Central Oregon location, including
+Bright Wood Corporation, Deschutes Brewery, Keith Manufacturing, Contact
+r.. Industries, Jeld- Wen, and Advanced Energy ( PV Powered). Online retailer
+w Altrec. com also consolidates and distributes orders directly from its
+Redmond, OR warehouse and does so cost competitively vis- a-vis other
+west coast locations.
+Over the past decade, consolidation has been the dominating trend in
+wan
+rrr..
+warehouse and distribution - fewer but larger DCs located in strategic
+geographic area - to achieve greater efficiencies and cost advantages
+sarn k offered by economies of scale. With the sharp rise in fuel prices in
+gad recent years, industry experts are predicting that the industry could
+migrate to smaller facilities serving smaller distribution areas. Key to this
+a. more dispersed model is the availability of rail to more cost effectively
+La nd'
+transport goods (approximately within the regional distribution area.
+Rather than the 11 or 9 state model, respectively, offered by Salt Lake City, UT
+or Reno- Sparks, NV the smaller 5 to 7 state model successfully utilized by Les
+Schwab for the past 50 years might prove more cost effective with $ 5- 6 dollar
+per gallon fuel prices.
+in general, companies will respond to the higher fuel prices by expanding their distribution networks to
+include additional DCs, but it remains to be seen just how big the impact will be. Some will tweak their
+networks by adding one or two DCs or relocating one or two of them in order to economize on freight-
+miles and fuel consumption."
+2010 report by ProLogis, a leading global provider of distribution facilities
+Led by the Prineville Railway, the nation's only municipally-owned short- line railroad, Central Oregon has been
+working to expand its ability to provide logistics and freight connections between Class I railroads and traditional
+truck distribution models. Over the past several years, the Prineville Railway has invested nearly $ 10 million in a
+new freight depot, track, and railcar handling equipment to efficiently transfer rail freight to trucks either for final
+destination delivery or for warehousing. With ongoing global upward pressure on oil prices, these projects could
+be the beginning of a wave of investments in to accommodate a growing transloading facility. Planning is already
+underway for a unit- train switch yard upgrade adjacent to the UPRR/BNSF mainline just on the northern borders of
+the Redmond UGB and expanded warehouse and distribution facilities in Prineville.
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 34
+E. REGIONAL LARGE-LOT DEMAND
+LONG RANGE EMPLOYMENT FORECAST
+Figure 20 outlines estimated growth in employment projected by the Oregon Employment Department ( OED) for
+the Central Oregon region. The OED's most recent projection estimates employment growth by industry over a 10-
+year horizon beginning in 2008. For the purposes of this analysis, Johnson Reid applied the State's 10- year growth
+rates to 2010 base year estimates of employment by industry and extrapolated growth through 2030.
+FIGURE 20: BASELINE LONG RANGE EMPLOYMENT FORECAST
+Industry
+Base Estimate
+2010 2015
+Year
+2020 2025 2030
+10230
+Change AAGR
+Natural Resources 1, 044 1, 075 1, 107 1, 140 1, 174 130 0. 6%
+Construction 4, 093 4, 123 4, 153 4, 183 4, 213 120 0. 1%
+Manufacturing 5, 493 5, 747 6, 013 6, 290 6, 581 1, 088 0. 9%
+Wholesale Trade 2, 238 2, 287 2, 337 2, 388 2, 440 202 0. 4%
+Retail Trade 10, 138 10, 804 11, 514 12, 271 13, 077 2, 939 1. 3%
+T. W.U. 1, 605 1, 735 1, 876 2, 027 2, 192 587 1. 6%
+Information 1, 437 1, 433 1, 428 1, 424 1, 420 17) 0. 1%
+Financial Activities 3, 741 3, 910 4, 086 4, 270 4, 463 722 0. 9%
+Professional & Business 7, 001 7, 607 8, 266 8, 981 9, 759 2, 758 1. 7%
+Education & Health 10, 099 11, 478 13, 045 14, 826 16, 850 6, 751 2. 6%
+Leisure & Hospitality 9, 981 10, 643 11, 349 12, 102 12, 905 2, 924 1. 3%
+Other Services 2, 533 2, 687 2, 851 3, 024 3, 209 676 1. 2%
+Public Administration 11, 985 12, 742 13, 547 14, 403 15, 313 3, 328 1. 2%
+TOTAL 71, 388 76, 271 81, 571 87, 331 93, 596 22, 208 1. 3%
+SOURCE. Oregon Employment Department and Johnson Reid, LLC
+Over the next 20- years the Central Oregon region is expected to add roughly 22, 208 new employees according to
+State projections. The bulk of projected growth is expected to fall within the Health, Leisure & Hospitality, and
+Professional & Business Services sectors. However, State level projections are often demographically driven
+methodologies, developed for long range budgetary and government planning purposes. They very rarely reflect
+the qualitative economic development goals of local jurisdictions and economic development agencies. For
+example, as mentioned above, EDCO and the tri- county region have committed to the broad based recruitment,
+retention, and organic expansion of the region's Software/IT industry, which is generally under the information
+NAICS classification. However, this economic development goal is not reflected in the State's forecast of
+Information employment. In other words, aspirational goals, policies, and dedication of resources have real direct
+impacts on the path of economic development likely in a local geography.
+More importantly is an inherent disconnect between any trended forecast methodology and the potential demand
+for large-lot industrial employers. By nature, large industrial placements are " game- changers", whereas a single
+placement can change the economic landscape of a community. The employment impacts are not reliably
+forecastable". Communities are best served by providing a range and supply of suitable options for prospective
+recruitments in addition to organic expansions. This is particularly prevalent in today's landscape, where firms,
+products and even entire industries shopping Oregon for suitable sites did not even exist a cycle ago. The
+Facebook placement in Prineville is a prime example of a firm and industry that did not exist even 10- years ago.
+While large lot users may reflect growth of existing industries, they are more often reflective of a regional, national
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 35
+or global site selection process, and are competitive in nature. A survey of site selection professionals found that
+large firms go through a methodical site selection process for " development-ready" sites and that agencies seek to
+maximize quantity and selection of large "development-ready" sites for successful employer recruitment. A
+development-ready site, or a " shovel- ready" site, is one in which site improvement can begin within 180 days of
+purchase and development application. Such sites are served by requisite infrastructure and utilities,
+environmental and other constraints are known and documented, and permitting can be fast- tracked for rapid
+facility operations. If all these conditions cannot be met in accordance with project time frames, sites will not be
+kept on the list for further consideration. The key to the site selection process, therefore, is that it is essential for
+candidate sites to be immediately development-ready instead of simply "buildable." Furthermore, a general lack of
+development-ready sites to choose from eliminates a city or region from contention early in the site selection
+process. Until sites win development-ready status, they are not truly effective supply for large industrial site
+demand as viewed by firms seeking to potentially locate in the region. It is critical to keep in mind that the site
+selection process begins as a process of elimination; it only becomes selection after a short list of potential sites
+that meet all pertinent criteria has been created.
+INDUSTRY PLACEMENT VELOCITY
+For the reasons cited previously, a matrix is included, showing recent target industry placements, large and
+medium nationwide, in addition to industrial recruitment activity in Oregon4to demonstrate a snapshot of large-
+lot characteristics and the velocity of recruitments handled by Business Oregon.
+Oregon Business Development, 2010
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 36
+FIGURE 21: SELECTED LARGE LOT RECRUITMENTS IN OREGON AND SOUTHERN WASHINGTON
+YEAR PROJECT LOCATION LOTSIZE BUILDING SIZE COMMENTS
+1996 Target Albany, Or 175 acres 1.3 msf
+1997 Wal- Mart Hermiston, Or 200 acres 1.3 msf
+2002 Dollar- Tree Ridgefield, Wa 75 acres 800, 000 sf
+2002 Familian ( Plumbing) Tri- Cities, Wa 75 acres 500, 000 sf
+2002 Wal- Mart ( Cold Storage) Granview,Wa 100+ acres 900, 000sf
+2004 Lowes ( certified) Lebanon, Or 204 acres 1.3 msf to 2.2 msf
+2004 Olympic ( Vanity Fair) Shafter, Ca 100+ acres 900, 000 sf
+2005 Amy's Kitchen White City 50
+2006 October ( cold storage) Salem, Or Lost 145 +acres 1 msf
+2006 NOAH- PepsiCo Albany 204 acres 2.5 msf
+2006 Private Project (Technology) Northern Oregon 1-5 100+ 1 msf
+2006 Project GoForth Salem Area 75- 100 1 msf
+2006 Genentech ( certi fied) Hillsboro 50 range 500, 000 sf
+2006 Apricus N- Oregon 250 Very large Wentto Singapore
+2006 Jindo- china Oregon 100
+2006 Pacific Ethanol Boardman 137
+2007 SolarWorld Hillsboro 75 range 1 msf
+2007 NN2 Lost-Cal Hillsboro 150 1.5 msf Optisolar
+2007 Crystal Lost Malaysia Millersberg 100 Wentto Malaysia
+2007 HOT-lost N. Oregon 100
+2007 Gold Rush E- Oregon 350 est Verylarge
+2007 Navitas Oregon 150/200 EverGreen-lost
+2007 Apricus Northern Oregon 200 2.5 msf REC
+2007 Fed Ex Troutdale 78 500, 000 sf
+2008 Valancia Northern Oregon 100 1 msf+ Delayed
+2008 Schott 1-5 50+ 200, 000 sf, expansion
+to 800, 000 sf
+New Mexico
+2009 SEH Vancouver 75 1msf+- Leasing Space to HP.
+2009 Cambridge 1-5 50 500, 000 sf Plainfield
+2009 Facebook ( certified) Prineville 118 147, 000 sf Room for up to four
+datacenters.
+2010 Home Depot ( certified) Salem 50 to 100 400, 000+ 50 Acres Plus Option
+2010 Big Solar Portland/1-5 250 1. 4 msf February 2010 Lead
+2010 Green Manufacturing Mid- Valley 100 December 09 Lead
+Source: Oregon Business Development
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 37
+FIGURE 22: MATRIX OF RECENT MAJOR TARGET INDUSTRY PLACEMENTS
+industry/ Activity Company Location Land/Site Size
+Solar; plant for solar panels and power systems Xtreme Power/ Wixom, Michigan 320 acres
+Wind: plants in Brighton-blades and nacelles Windsor- blades
+Pueblo- towers
+Vestas Colorado ( 3 locations) Brighton= 176 acres
+Windsor-75 acres
+Pueblo= 800 acres
+Wind: plan[ for concrete tower bases Tindall Newton, KS 144 acres
+Solar: facility for R&D and panels Green 2V Rio Rancho, NM 124 acres
+Wind: plant for nacelles Siemens Hutchinson, KS 108 acres
+Batteries: plant for leaf batteries Nissan Leaf Batteries Smyrna, TN 72 acres
+Solar: plant for solar receivers Schott Solar Rio Rancho, NM 80 acres
+787 fuselage Boeing Charleston, SC 1.2 millions . ft. building only)
+Parts depot Lockheed Martin Papillion, NE 85, 600 sq. ft. ( building only)
+R& D Lockheed Martin San Diego, CA 158,000 sq. ft. ( building only)
+Service Cessna Valencia, Spain 152, 000 sq. ft. ( building only)
+Drone production General Atomics Sabre Springs, CA 193,000 sq. ft. ( building only)
+Helicopter training academy 2 licopter Ft. Worth, TX 160, 897 sq. ft. building only)
+Helicopter hangar addition Helicopter01 Amarillo, TX 97, 678 sq. ft. ( building only)
+Software testing Galmont Consulting Lexington, KY 4, 000 s
+q. ft. ( building only)
+Global software development facility HSBC Burnaby, BC 146, 000 sq. ft. ( building only)
+Company H. Q. Projekt202 Austin, TX 8, 500 sq. ft.
+Software support Microsoft Austin, TX 10, 000 sq. ft
+Innovation and technology center Microsoft Reston, VA 63, 000 sq. ft. ( building only
+Computer lab Microsoft Redmond, WA 57, 000 s q. ft. ( building only)
+Office space Microsoft Bellevue, WA 1. 34 million sq. ft. ( office lease)
+Pharmaceutical development facility Analytical Biochemist Laboratories Columbia, MO 90, 000 sq. ft. ( building only)
+Corporate campus Biogen Idec RTP, NC 176 acres
+Fill and finish facility Genentech Hillsboro, OR 75 acres
+Insulin manufacturing facility Mann Kind Danbury, CT 251,875 sq. ft. ( building only)
+Mammalian cell culture proteins Pfizer County Cork, Ireland 130,000 sq. ft. ( building only)
+Contract manufacturing Cook Pharmica Bloomington, IN 250, 000 sq. ft. ( building only)
+Data center E bay South Jordan, UT 250,000 sq.ft. ( building only)
+Data center Oracle West Jordan, UT 200,000 sq. ft. ( building only)
+Data Center National Security Agency Camp Williams, UT 200 acres
+Data Center Cisco Systems Allen, TX 140, 000 sq. ft. ( building only)
+Data Center Apple Maiden, NC 500,000 sq. ft. ( building only)
+Data Center Target Brooklyn Park, MN 111, 800 sq. ft. ( building only
+Data Center Equinix EI Segundo, CA 177, 000 sq. ft. ( building only)
+Data Center Advanced Data Centers Sacramento, CA 500, 000 sq. ft. ( building only)
+Data Center Facebook Prineville, OR
+1
+147, 000 sq. ft. ( building only)
+Data Center Microsoft Quincy, WA 470, 000 sq. ft. ( building only)
+Innovation Center Western Michigan U. Kalamazoo, MI 69, 000 sq. ft. ( building only)
+Aviation programs Western Michigan U. Battle Creek, MI 92, 000 s
+q. ft building and 20 acres
+Tre burn Corporate Park North Carolina State I.J. Raleigh, NC 256 acres
+Biomedical campus U of Arizona and A. S.U Phoenix, AZ 28 acres
+Campus expansion University of Memphis Memphis, TN 250, 000 sq. ft. building only)
+Campus expansion for student housing SMU Dallas, TX Redevelopment of bakery facility
+Campus expansion Duke Durham, NC 1.3 million sq. ft. ( building only)
+Factory store Danner Boots Portland, OR 59, 000 sq. ft. ( building only)
+Paddle craft production Johnson Outdoors Old Town, ME N/A
+Custom skis Wagner Custom Skis Telluride, CO N/A
+Sports research lab New Balance Boston, MA 3, 000 sq. ft. building only
+SOURCE. Iron Wolf
+It should be noted that Business Oregon's database reflects only a subset of overall activity in this market, with
+many firms making decisions without contacting the agency, or working more directly with regional economic
+development agencies such as EDCO.
+Over the previous two years Central Oregon has seen a total of 53 major recruitment leads evaluate the region.
+The majority of leads ended quickly as the region did not meet the firm's minimum criteria. Most commonly, the
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 38
+region missed on lack of Interstate highway transportation routes, lack of large acreage parcels, or specific
+infrastructure limitations. However, the region did make it to the visitation process in four of the 15 instances it
+passed the first criteria round with one, the Facebook placement, actually locating in the region.
+FIGURE 23: SUMMARY OF INDUSTRIAL RECRUITMENT LEADS
+RECRUITMENT LEADS FOR CENTRAL OREGON
+June 2008 - June 2010
+Total Leads 53
+Central Oregon Did not Make Minimum Criteria 37 of 53
+Made Minimum Criteria 15 of 53
+Got to the Site Visit State 4 of 53
+Firm Located in the Region 1 of 53
+SOURCE. EDCO and Business Oregon
+As noted previously in this report, Central Oregon's lack of appropriate sites largely precludes it from competing
+for many prospective leads at it is unable to meet the minimum criteria specified.
+V. ASSESSMENT OF POTENTIAL
+Information gathered from research as well as extensive input from State and regional economic development
+professionals were incorporated into an estimation of regional large lot industrial needs.
+A. SITE NEED CHARACTERISTICS
+Site needs for the targeted large lot industrial users are inherently difficult to assess based on the high level of
+uncertainty in industrial recruiting. Site requirements for specific industries are discussed in this section, but there
+are a great number of site requirements that are generally common among most major industrial users.
+Business Oregon maintains a matrix of site needs for major industry sectors that they are actively recruiting. While
+the matrix is not limited to large lot users, the requirements outline provide guidance with respect to site
+requirements by major industry group. The following table summarizes key site characteristics required and
+preferred by several major development types. While key characteristics are often listed as preferred, these may
+be required by specific firms or used as screening variables to differentiate competition. The Central Oregon
+region expresses a desire to maintain a competitive portfolio of sites, which would imply sites having preferred as
+well as required characteristics.
+A more generalized summary column is included, showing large lot site requirements. This recognizes that while
+one may target specific industries, the nature of large lot demand and firm characteristics is highly variable. The
+generalized site requirements summarize key characteristics that are broadly valued by the identified industries.
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 39
+Y ~
+yyyyiS
+X%% N QQ
+N
+2 p z z y
+Z
+M
+x a m
+2 b Q
+Q N x ~
+v°j K C
+O
+O
+L zd
+N
+C
+d
+x x%° 1! 1
+OD awl dal
+o
+oe o o
+p
+x Q°
+z O W OZ z
+N X° W 1'
+z z
+p
+y a
+a am
+1
+aa c
+3 Q
+N
+C b O O
+x x x p e01O z z d ,r°f d
+X
+e09a0
+1
+m
+G
+W N x
+m
+v Y
+W
+n n
+a C a C
+u°i
+Y
+C
+x x x
+n z oc a`+ o a o X o o d$ acri ° o x° o
+m o
+n z" z z ac z c
+a`
+n to u+
+o
+LL
+x x x~
+c
+a~ O°.`w w$ o`a ozm~ daduam
+o
+Xoo wa°, goraaz. r
+o Xozz Sz 5
+mzz a` zu`
+0
+o
+d
+n N N
+C
+7
+Y
+x x x
+b
+Oi N W d o d C
+O
+x a0 °
+Y 00 a0
+Oe W 1' ` a+
+e x
+O
+p
+d z"' ipii
+1O
+a myz iza c
+n m
+7
+x x% O Vhfd N W O W 0
+C „
+q N 6 d d d
+X a0 °
+d
+asti
+d c
+l0 °
+d N z`
+z S Z
+O
+M
+e
+O c
+m
+d 6 p
+m
+Q
+X%
+N
+O ,° y d d d O d
+p 6 4 1
+m
+d N
+p
+x aD ° M N°
+C6
+t0 X Y
+Oc K K z C
+O
+O
+l7
+i
+n
+0
+n
+L
+D
+H
+C
+4 x%
+N d d d O d
+X O O X01tOMI O
+O X°
+i^
+O
+n n
+za Baez c
+in
+N
+O
+o
+N
+6o
+C 1'
+N
+x x x
+N
+d o d
+0
+K y d d d M
+Y
+N g
+o
+m
+d` K
+p p
+d d ~
+i
+Y
+N 6 6 C 1 K
+p O d
+o aLy
+V' m a
+a
+N
+O
+M
+N
+m d
+J
+c
+m
+O
+o
+W
+d~ n
+C H
+6
+NA
+o
+W
+o
+z
+q d
+i
+C C C C~
+f
+A
+o
+3 Y Y
+N N
+a c c n o Z d o
+O m p
+Y
+c . Y. c
+z o
+c
+o w d a
+o
+Y~ Z q n c ` o
+to C G O G
+y
+O LL d N
+qa
+N N , 1..1 y
+p
+a
+zmoo°o E o;; aq A
+a a
+aC F
+c_ c_ ma o
+o
+moa
+g
+u
+O
+Yf N
+E
+2
+C
+c
+LL
+q
+u 6 S ae LL O
+y 5
+c
+Uu
+Z
+c
+F 3 N z w Ia-
+x
+C
+O
+C
+L
+O
+1
+d
+Ca
+3
+c0
+a a ~ C
+d d v n p
+d o. ~
+d«
+ee Q
+O O
+L
+r a z z
+Q
+y
+d ae Q C
+aC o` 2 Z N
+3
+m
+Ln
+Q
+O
+W
+H
+2
+W
+Q~
+J
+Q
+z
+O
+t7
+z
+O
+W
+O
+J
+K
+H
+2
+v
+z2
+0
+r
+2
+N
+W
+c
+As outlined in the preceding table, site requirements can be grouped into several broad categories. The
+following is a brief summation of the basic categories of site requirements:
+PHYSICAL
+Size - Large lot demand is defined in the context of this analysis as sites 50- acres or above. Sites
+of significantly larger size provide greater flexibility, as they can meet large site needs as well as
+providing the ability to be subdivided.
+Slope - Industrial development has a very limited capacity to deal with slopes. This is particularly
+true in areas such as Central Oregon, in which the geology makes grading costly.
+Configuration - Rectangular sites provide for the most efficient layouts. Sites with irregular
+configurations need to be larger to accommodate similar levels of development.
+INFRASTRUCTURE
+TRANSPORTATION
+o Auto/ Truck
+Interstate
+Highway
+Major Arterial
+o Rail
+o Marine Port
+o Airport
+General Aviation
+Commercial
+International
+UTILITIES
+o Water
+o Sewer
+o Natural Gas
+o Electricity
+o Telecommunications
+Major communications capacity
+Route diversity
+Fiber optics
+LOCATION
+WORKFORCE
+o Locations within acceptable distance of appropriately scaled labor market
+o Housing options for workforce and executives
+SPECIAL CONSIDERATIONS
+Availability - Owner willing to sell at market consistent price
+Ownership -Willingness to hold, front infrastructure investments
+Flexibility - Ability to meet a variety of demands
+Site Certification - Not necessary, but criteria should be at least inclusive of the certification
+criteria
+Funding - Viability of funding necessary infrastructure to support development
+Sites designated to meet the regional demand for large lot industrial uses should be able to meet most of
+these criteria where practical. While physical and workforce issues cannot be addressed by actions of an
+individual jurisdiction, the remaining locational criteria largely involve infrastructure investments, which
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 41
+can be actively targeted to enhance the supply of competitive sites. Additionally, jurisdictions actively
+engaging property owners in discussions about land price, lot configuration, and investments necessary to
+make sites usable can provide a context for owners' readiness to sell their property.
+Outside of size and configuration, the following are key characteristics associated with a competitive land
+supply for Central Oregon, which should be considered as the criteria under which sites are evaluated to
+meet identified needs. This list of criteria reflects input from EDCO.
+Availability
+The site must be under ownership of an entity that is willing to sell the site at market- appropriate
+pricing. Sites controlled by unmotivated or unrealistic owners are of little use for the stated
+community economic development objectives.
+Infrastructure
+Utilities - Municipal water and sanitary sewer, electric power, natural gas and telecom in
+capacities needed for specific companies or industries are critical. The ranking and magnitude
+needed for each varies from industry to industry. If nearly all utilities noted above are not in
+place or proximate to the site, and without some existing unused capacity, most companies will
+not consider a community ( or that site at least) further. Most private businesses, even large
+ones, are not coincidentally experienced developers, and even with experience their timelines
+for projects are such that they are unwilling and/or unable to wait while major infrastructure
+projects are executed by public sector entities.
+Transportation - Most projects, with a few exceptions, have significant transportation and
+logistics aspects. It is important to note that the current access approval process in Oregon
+whether on a state highway or not) is broken and a significant barrier to economic development
+in general and large lot development specifically. The Transportation Planning Rule ( TPR) and
+relationship with LCDC approval is specifically creating the greatest problems for land
+development in the Central Oregon region.
+Workforce
+Throughout the tri- county area, the question for larger projects is first and foremost about
+quantity of available workers. Bend or the Deschutes County MSA is often the smallest area in
+the field of consideration during a site selection process. Quality can also be an issue, but at the
+end of the day, communities have little influence on either, at least at the point when companies
+come looking. The current unemployment statistics, which indicate an available workforce,
+could indeed make Central Oregon attractive to prospective employers if there are available sites
+to accommodate them.
+Education & Training
+Some companies are keenly interested in higher education opportunities both for the overall
+workforce and continuing education of their employees. That the Central Oregon region has
+been underserved for both higher education and training opportunities is a factor noted by
+several large projects in the past as a concern.
+Incentives
+While Oregon is not a " big player" in the incentives game nationally, the state does have in place
+several incentives that favor large, capital intensive projects. Specifically, few areas have the
+type of property tax incentives Oregon offers that can exempt these taxes for 3- 15 years. Nearly
+all Central Oregon industrial areas have access to these incentives through the enterprise zone
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 42
+and/or Strategic Investment Program. At the same time, Oregon does not have the type of
+payroll or jobs- based incentives available as in other places in the country.
+B. GROSS LAND DEMAND
+From an economic development perspective, Central Oregon seeks to offer a range of readily developable
+sites that are supportive of regional and statewide economic development objectives, as well as
+competitive with alternative regions.
+The demand for large industrial sites within Central Oregon cannot be derived using typical employment
+projections by industry, extrapolating future anticipated growth patterns based on historical patterns.
+Establishing and maintaining a competitive large lot industrial inventory is intended to expand upon the
+range of potential economic development opportunities that Central Oregon can compete effectively for.
+Central Oregon as a region will be competing for large lot recruitments within a broader context that will
+likely include Idaho, Washington and Northern California. The following table provides a profile of firm
+changes by size of enterprise within this broader area over a one year period.
+FIGURE 25: BIRTHS, DEATHS, EXPANSION & CONTRACTION OF FIRMS, 2006- 2007
+Size of
+Initial year establishments
+Change in establishments
+Percent change in establishments
+Establishment births
+Establishment deaths
+Establishment expansions
+Establishment contractions
+Percent change in establishments due to births
+Percent change in establishments due to deaths
+Initial year employment
+Change in employment
+Percent change in employment
+Change in employment due to births
+Change in employment due to deaths
+Change in employment due to expansions
+Change in employment due to contractions
+Percent change in employment due to births
+Percent change in employment due to deaths
+Percent change in employment due to expansions & births
+Percent change in employment due to contractions & deaths
+TOTAL 1 1-4 1 5-9 1 10- 19 1 20- 99 1 100- 499 1 500+
+1, 067,847 469, 155 172, 870 109, 832 112, 019 51, 354 152, 617
+30, 002 14, 386 2, 955 1, 882 4, 423 3, 175 3, 181
+2. 8% 3. 1% 1. 7% 1. 7% 3. 9% 6. 2% 2. 1%
+156, 065 92, 869 16, 242 9, 816 12, 751 6, 771 17, 616
+126, 063 78, 483 13, 287 7, 934 8, 328 3, 596 14, 435
+298, 061 98, 603 52, 935 37, 671 41, 205 17, 966 49, 681
+296, 885 65, 083 64, 334 47, 564 49, 639 20, 493 49, 772
+14. 6% 19. 8% 9. 4% 8. 9% 11. 4% 13. 2% 11. 5%
+11. 8% 16. 7% 7. 7% 7. 2% 7. 4% 7. 0% 9. 5%
+18, 258,562 970, 374 1, 124,249 1, 406,925 3, 444,532 2, 756,375 8, 556,107
+37, 174 179, 815 31, 231 2, 741 43, 809 76, 264 56, 540
+0. 2% 18. 5% 2. 8% 0. 2% 1. 3% 2. 8% 0. 7%
+1, 176,589 162, 490 101, 728 110, 507 234, 975 173, 062 393, 827
+1, 031,368 133, 995 82, 878 93, 033 192, 320 134, 396 394, 746
+1, 918,836 234, 651 147, 836 154, 902 334, 050 252, 161 795, 236
+2, 026,883 83, 331 135, 455 169, 635 420, 514 367, 091 850, 857
+6. 4% 16. 7% 9. 0% 7. 9% 6. 8% 6. 3% 4. 69
+5. 6% - 13. 8% - 7. 4%
+17. 0% 40. 9% 22. 2%
+16. 7% - 22. 4% - 19. 4%
+6. 6% - 5. 6% - 4. 9%
+18. 9% 16. 5% 15. 4%
+18. 7% - 17. 8% - 18. 2%
+SOURCE: US Census Bureau, Statistics of US Businesses
+As shown in the table, firms with 500 or more employees represented 14% of total firms in 2006, but 47%
+of total employment. Firms over 100 employees represented 19% of firms and 62% of total employment.
+While the net change in establishments in these size ranges is significant, the number of births ( new firms)
+exceeds the net change in establishments by 384%. For firms with 500 or more employees, births exceed
+the net change by 554%. Firms primarily become prospective recruitment targets when they are formed
+or find their existing facilities or business environment inadequate. As a result, the number of births
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 43
+which can include new firms as well as firms expanding into a new classification) is a key indicator of the
+depth of potential market demand. The following table summarizes a profile of firms by size range in the
+Western Unites States in 2008. This shows close to 27, 000 firms with 100 or more employees, of which
+10, 800 are in industries that are historically considered to be industrial oriented. The nature of industrial
+space usage is highly variable, and many industries not historically associated with industrial space now
+utilize this type of space. An example of this would be industries previously categorized under
+information, which would include major employers that have recently located on industrial space such as
+Facebook and Google.
+FIGURE 26: PROFILE OF FIRMS BY SIZE RANGE AND INDUSTRY, WESTERN UNITED STATES, 2008
+1111 Total Firms b Size Range
+industry code description Firms 1-4 5-6 10. 19 2049 50. 99 100. 249 250- 499 SOD-999 1, 000+
+Forestry, fishing, hunting, and Agriculture Support 5, 315 3, 592 698 486 319 134 65 15 3 3
+Mining, quarrying, and oil and gas extraction 1, 332 566 216 242 186 60 49 8 3 2
+Utilities 1, 849 841 284 223 220 124 97 35 13 12
+Construction 124,560 78, 572 20, 929 12, 801 8, 204 2, 571 1, 169 237 55 22
+Manufacturing 58, 383 22, 430 10, 621 9, 214 8, 547 3, 846 2, 609 734 268 114
+Wholesale trade 78, 309 41, 552 14, 795 10, 505 7, 408 2, 415 1, 221 284 91 38
+Retail trade 154,392 68, 746 38, 164 23, 342 14, 340 5, 642 3, 380 736 39 3
+Transportation and warehousing 31, 667 16, 963 5, 261 4, 004 3, 158 1, 226 740 185 87 43
+Information 27, 199 15, 027 3, 728 3, 325 2, 696 1, 231 750 265 114 63
+Finance and insurance 73, 237 43, 916 13, 712 8, 657 4, 517 1, 284 728 236 134 53
+Real estate and rental and leasing 66, 337 48, 318 9, 997 4, 989 2, 074 605 270 60 17 7
+Professional, scientific, and technical services 148,273 103,085 21, 137 12, 653 7, 382 2, 316 1, 199 303 107 91
+Management of companies and enterprises 6, 786 2, 380 1, 047 1, 018 1, 082 530 432 167 83 47
+Administrative and Support and Waste Mang and Remediation Srvs 60, 140 33, 713 9, 437 6, 532 5, 285 2, 419 1, 869 578 204 103
+Educational services 15, 693 7, 259 2, 690 2, 379 2, 044 716 418 101 40 46
+Health care and social assistance 132,605 68, 873 29, 995 17, 375 10, 057 3, 321 2, 094 417 199 274
+Arts, entertainment, and recreation 25, 090 16, 820 2, 823 1, 991 1, 874 886 494 120 47 35
+Accommodation and food services 106,050 34, 423 19, 804 23, 497 21, 531 5, 135 1, 371 185 76 28
+Other services ( except public administration) 99, 577 61, 316 20, 480 10, 516 5, 422 1, 246 475 73 35 14
+TOTAL FOR ALLSECTORS 1, 219,028 670,528 225,897 153,763 106,351 35, 707 19, 430 4, 739 1, 615 998
+PERCENTOFTOTAL 55. 0% 18. 5% 12. 6% 8. 7% 2. 9% 1. 6% 0. 4% 0. 1% 0. 1%
+TOTA FO R I N DUSTRIAL- ORI EN TE D S ECTORS 354,908 194,071 61, 327 43, 279 32, 822 12, 601 7, 705 2, 053 718 332
+INDUSTRIAL- ORIENTED PERCENT OF TOTAL 54. 7% 17. 391 12. 2% 9. 2% 3. 6% 2. 2% 0. 6% 0. 2% 0. 1%
+Source: U. S. Census Bureau
+A similar profile for Central Oregon shows a total of 70 firms with more than 100 employees. This
+represents 0. 9% of total firms in the area. If the regional profile was consistent with the Western United
+States, with 2. 2% of firms having 100 employees or more, the region would have a total of 162 firms of
+this size. For firms having 500 employees or more, this number would increase the firm total from 7 to 17
+in Central Oregon.
+DESCHUTES COUNTY ( CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 44
+FIGURE 27: PROFILE OF FIRMS BY SIZE RANGE AND INDUSTRY, CENTRAL OREGON, 2008
+Total Firms by Size Range
+Indust code description Firms 1-4 5-6 10. 19 20- 49 50. 99 100- 249 250. 499 500- 999 1, 000~
+Forestry, fishing, hunting, and Agriculture Support 54 43 7 1 1 2 0 0 0 0
+Mining, quarrying, and oil and gas extraction 11 6 2 1 2 0 0 0 0 0
+Utilities 38 23 5 4 4 2 0 0 0 0
+Construction 1, 398 1, 046 194 101 44 10 3 0 0 0
+Manufacturing 366 173 77 48 35 18 11 2 2 0
+Wholesale trade 310 184 58 42 21 5 0 0 0 0
+Retail trade 984 477 238 131 90 34 10 4 0 0
+Transportation and warehousing 161 103 26 14 10 3 4 0 1 0
+Information 143 82 24 19 7 7 2 1 1 0
+Finance and insurance 412 256 94 40 17 3 2 0 0 0
+Real estate and rental and leasing 447 355 51 28 11 0 2 0 0 0
+Professional, scientific, and technical services 722 550 89 51 31 0 1 0 0 0
+Management of companies and enterprises 29 13 7 2 4 3 0 0 0 0
+Administrative and Support and Waste Mang and Remediation Srvs 371 238 59 32 33 7 2 0 0 0
+Educational services 74 37 13 11 11 2 0 0 0 0
+Health care and social assistance 614 322 128 85 43 24 9 2 0 1
+Arts, entertainment, and recreation 128 75 21 9 16 3 3 0 1 0
+Accommodation and food services 593 184 116 165 105 17 3 2 1 0
+Other services ( except public administration) 515 313 127 52 19 4 0 0 0 0
+TOTAL FOR ALL SECTORS 7, 370 4, 480 1, 336 836 504 144 52 11 6 1
+PERCENTOFTOTAL 60. 8% 18. 191. 11. 3% 6. 8% 2. 09/6 0. 7% 0. 1% 0. 1% 0. 0%
+TOTA L FO R I N DUSTR IAL- ORI ENTED S ECTO RS 2, 644 1, 767 419 241 147 45 20 2 3 0
+INDUSTRIAL- ORIENTED PERCENTOFTOTAL 66. 8% 15. 894 9. 1% 5. 6% 1. 7% 0. 8% 0. 1% 0. 1% 0. 0%
+Source: U. S. Census Bureau
+Firms sized at 500 employees or larger can be a general proxy for large lot industrial site demand. The
+Central Oregon region currently accounts for 0. 27% of firms of 500 employees or more in the Western
+United States. The ratio of large firms in Central Oregon relative to the overall number of firms ( 0. 09%) is
+less than half the ratio in the broader Western United States ( 0. 21%). Using the current profile of firms by
+size in the Western United States and Central Oregon, combined with birth and expansion patterns
+summarized in Figure 25, Johnson Reid can generate a model of annual large firm location activity in the
+region.
+FIGURE 28: ESTIMATED ANNUAL LARGE FIRM LOCATION ACTIVITY
+Central Western
+Oregon us
+7, 370 1, 219,028
+6 1, 615
+of Total 0. 08% 0. 13%
+Share of Western US 0. 37% 100. 00%
+Firms - 1, 000+ Employees 1 998
+of Total 0. 01% 0. 08%
+Share of Western US 0. 10% 100. 00%
+Firms - 50G+ Employees 7 2, 613
+of Total 0. 09% 0. 21%
+Share of Western US 0. 27% 100. 00%
+Estimated Annual Birth Rate 1/ 11. 5% 11. 5%
+Expansion Annual Rate 1/ 32. 69. 32. 69,o
+Annual Births 1 302
+Annual Expansions 2 851
+Estimated Annual Activity 3 1, 152
+1/ Assumes patterns consistent with Western US data summarized in Figure 21.
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 45
+Assuming Central Oregon retains its current mix of firms, one could expect average annual large firm
+activity of 3 location decisions per year, or 15 over a five year horizon. Not all of these will require new
+sites, as many will be able to expand at existing locations or locate in vacant or underutilized existing
+facilities. If Central Oregon's share of large employers mirrored its share of overall employment, the level
+of annual estimated activity would increase to 7 firms. It should be noted that the demand for large lot
+industrial land is also a function of supply. In other words, if no sites are available to accommodate these
+users the region will get none of these users. What is modeled is a prospective demand, assuming that a
+competitive inventory is available and maintained, allowing the region to capture a " fair share" of market
+activity.
+Economic recruitment benefits from some degree of market choice. Firms evaluating prospective
+locations are a more likely to consider Central Oregon if multiple appropriate sites can be seen in a single
+trip. As outlined in the vision statement, the region is hoping to establish and maintain a " competitive
+portfolio" of large lot industrial sites. This would include an inventory of readily available and appropriate
+sites consistent with baseline criteria, allowing the region to clear the initial site selection screening. To
+the extent that multiple prospective sites are available in the region, Central Oregon's competitive
+position would be enhanced as site selectors prefer to have multiple options before physically visiting an
+area such as Central Oregon.
+Business Oregon is mandated by ORS 197. 717 ( 2) to " provide a local government with state and national
+trend" information to assist in compliance with ORS 197. 712 ( 2)( a)." The department has reviewed the
+Central Oregon area, and made the following recommendations:
+Given its current size and expected growth, it is not unreasonable to assume that the
+region being examined as part of the current Central Oregon Large Lot Economic
+Opportunity Analysis should have a mix of large lot sizes for potential employers and site
+selectors to choose from. Such a mix would have at least multiple ready sites in the 200,
+100 and 50- acre plus acreage ranges in order to meet expected 20 year land supply
+needs.
+Working with EDCO and Business Oregon, the following matrix of large-lot site needs has been developed.
+FIGURE 29: RECOMMENDED COMPETITIVE LARGE LOT INDUSTRIAL INVENTORY
+50- 100 ACRES 100- 200 ACRES 200+ ACRES TOTAL
+Number of Sites 3 2 1 6
+Jurisdictions 3 2 1
+Number of Sites 10 5 2 17
+Jurisdictions 5 3 2
+The preceding table summarizes what has been determined to be a regionally and nationally competitive
+portfolio of large industrial lots. A readily available and developable inventory of six large sites in at least
+three separate jurisdictions will provide for choice to prospective industries or site selectors. While the
+table presents both a short term and long term inventory, the short term inventory is what is relevant
+from an economic development perspective. The longer term inventory's value would be in identifying
+sites that can replace the short term inventory if absorbed or if market conditions and needs shift. Based
+on the projected level of demand for these sites, replenishment of the inventory will likely be needed on a
+regular basis.
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 46
+Maintaining an appropriate available lot supply that is readily developable is a key priority for the region,
+and strongly affirmed in the community vision. Projecting the demand for industrial land in this size range
+is inherently highly speculative, as it is a thinly traded and highly competitive sector. In other words, with
+fewer transactions and multiple areas competing for these transactions, there is an unusually high degree
+of uncertainty in any forecast. The degree of uncertainty can be offset by emphasizing short term ready
+supply, with a mechanism to replace supply in a timely manner when needed. While this may be
+achieved during a periodic review, there should also be provisions for more rapid response if the market
+supports it.
+In the professional opinion of the economic development professionals contributing to this analysis, a
+competitive portfolio of industrial sites would include a collection of large industrial parcels in some
+selected communities, and a major, centrally located large- scale development near the region's
+geographic and workforce center, and where key infrastructure is in place and has excess capacity. This
+would be optimally located on the north end of Bend, but infrastructure challenges will make this choice
+problematic for at least the short- term. The next most optimal location is on the southern end of
+Redmond, east of Highway 97. The area has few neighbors, possible secondary transport access and most
+of the municipal and franchise utilities with excess capacity.
+Another three large lot parcels available throughout the region is also recommended as part of a
+competitive portfolio. These sites would be 100 to 200 acres in size, and located in three distinct
+jurisdictions. Recommended jurisdictions include Bend, Prineville and La Pine. The City of Madras has
+available land within its current UGB for a large lot industrial user.
+What is important from an economic development perspective is maintaining an inventory of
+appropriately sized and located lots available to the market in any given period. From a market
+perspective, sites need to be readily developable with infrastructure in place or readily available,
+controlled by a willing seller and appropriately priced. While long term ( 20- year) needs are delineated,
+the critical issue is to establish and maintain the short- term inventory. Longer term planning can allow for
+sites to progress towards being available to meet short- term demands in future periods. As the
+projection of needs for large lot industrial needs is unusually speculative, a focus on short- term needs is
+probably more prudent, with mechanisms established to allow for maintenance of an adequate inventory
+in the region. In addition, the nature of industrial demand is likely to change over a twenty year period,
+and the nature of a regionally and nationally competitive portfolio of sites would be expected to change
+commensurately. Reflecting this, a process to allow for ongoing updating and refinement of the identified
+need for these types of sites should be established.
+The following are additional factors that should be considered in establishing and maintaining a
+competitive supply:
+It should be noted that while Johnson Reid is evaluating large lot site needs as independent of
+the need for smaller sites, the targeted employers are often " game changers", which will
+generate a range of associated site needs within the region for suppliers and support businesses.
+While likely smaller in scale, the ability of the region to serve associated industrial growth is seen
+as critical.
+Land banking is a relatively common pattern in large lot industrial land use. Firms often seek
+sites that are well in excess of their immediate needs, but capable of supporting later expansion
+of their operations. While land is being "banked" by an employer is not developed, this
+sequestered land is not available to the market and subsequently of limited use in economic
+development efforts. In effect, banked land should be treated as though it were held by an
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EGA PAGE 47
+unwilling/ uncooperativeseller, as per earlier discussions in this report. While it may serve longer
+term needs, it should not be counted towards meeting short term needs.
+The ability to cost effectively serve sites with adequate infrastructure should be a key
+determinant in their usefulness for economic development. Industrial land is characterized by
+relatively low values per square foot, providing limited ability to be burdened with off- site
+infrastructure costs. In addition, even when fiscally viable, infrastructure provision may only be
+available in a time frame that is inadequate to meet identified needs. Certain industrial users can
+have significant offsite impacts associated with their operations. These operational externalities
+may make cause conflicts with neighboring uses, limiting the appropriate locational options for
+these types of firms.
+While the research indicates a range of large lot site sizes and characteristics are needed within
+Central Oregon, a degree of flexibility should be maintained, recognizing the imprecision
+inherent in twenty year forecasts. A property that would allow for a range of partitioning options
+for large lot industrial would be considered to be highly desirable. As an example, a 400 acre site
+that can be subdivided into parcels as small as 50 acres would have the ability to accommodate
+either a very large user, or a series of smaller users. This would provide more flexibility in terms
+of potential configurations than two 100 acre sites and four 50 acre sites.
+Maintaining a competitive inventory of sites in the region will require regular replacement of sites as
+consumed, with modifications made to determinations of appropriate inventory based on available
+information and periodic reviews. Again, particular emphasis should be placed on the short- term
+immediately available inventory, which is what is most critical in economic development efforts.
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 48
+APPENDIX A: LETTERSFROM ECONOMIC DEVELOPMENT
+PROFESSIONALS
+DESCHUTES COUNTY I CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 49
+November 8, 20 10
+Nick Lelack, AICP
+Deschutes County
+117 NW Lafayette,;
+Larry Pederson
+IronWolf Comi
+17079 SW Too:
+Portland OR 9'
+RE: Large
+Dear Mr. Lelack:
+business
+or ~
+business growls
+Planning Director
+ommunity Development Dept.
+3end. OR 97701
+Resources
+Ct.
+Site Demand
+Changing Global market factors have brought significant changes to the profile of the industrial
+property and buildingdemand over the past fifteen years. For example, warehouse properties
+have dramatically i7creased
+in size and interior ceiling heights (cube storage) as distribution
+takes on new dimensions to scale and reflect the concentration of production in larger "global"
+production facilities. Likewise, production facilities scale in size to producein mass and
+compete on global scalerather than regional or national levels.
+As an example of the increase in warehouse dimensions can be seen in the list of the " historic"
+warehouse propertiesbuild since 1995; as follows.
+Albany- Target; 175 acres- 1.3 million SF
+Hermiston-'Val-Mart; 200 acres 1.3 million SF
+Lebanon-Lowes; 204 acres + 1. 3 million SF
+Salem-Hom6Depot; 50 acres 500,000 SF
+The total number of "warehouse" projectsthat have shoppedOregon, in the past ten years, with
+site demand over 50 acres, is estimated at well over 55 projects, or around 5 warehouse " type"
+projects a year on
+average. Currently, we have as many as 10 outstandingleads in this size and
+category. !
+Manufacturing has also
+seen a movement to larger scale as demonstrated by the following recent
+new Oregon compan>es and expansions:
+Hillsboro-Genentech: +50 acres
+Hillsboro- SolarWorld; +75 acres
+Intel Expansion
+i
+Business Oregon recruitmentstaff estimates we see around 15 "serious" inquiries a year for large
+scale manufacturing sites. Currently, we have two very active accounts outstanding in this
+category, code namb Apollo and DK. In addition, we have multiple interests in an existing large
+facility outside of thesenumbers.
+775 Summer St NE, Suite 200 • Solem, OR 97301- 1280 .
+123 • fox 503- 581-5115 • TTY 800- 735-2900 • www. oregon4biz.com
+Overall, we estimat
+or building categor,
+these largeprojects,
+Given its current sis
+examined as part of
+should have a mix <
+Such a mix would l
+in order to meet exl
+users, many site sel
+to reduce the comrr
+government policy,
+investment.
+that ten to fifteen percent of all our recruitment leads fall into the large site
+The trend, if anything, seems to skew towards an increase in the number of
+and expected growth, it is not unreasonable to assume that the region being
+ie current Central Oregon Large Lot Economic Opportunity Analysis
+large lot sites for potential employers and site selectors to choose from.
+ve at least multiple ready sites in the 200-, 100- and 50-plusacreage ranges
+cted 20 year land supply needs. Given the complexity of placing such large
+tors will require the ability to review multiple options in the region in order
+i risks associated with varying levels of environmental mitigation, local
+ite avoidance factors and plannedlevels of infrastructure and utility
+Please let me know you have any questionsand good luck on your analysis,
+1~-
+Bruce Laird
+Clean Technology
+Oregon Business 1
+Officer
+Department
+November 17, 2010
+Nick Lelack, AICP
+Planning Director
+Deschutes County Community Development Department
+117 NW Lafayette
+Bend, OR 97701
+Dear Mr. Lelack:
+As a professional who works with all jurisdictions in the state of Oregon promoting business investment,
+I can't speak enough about the need for industrial land, especially those that are large lot and ready to
+develop. Once industry makes a decision on a location, they tend to move very quickly and taking time
+to go through extra steps to get a piece of property ready to go will eliminate sites quickly from
+consideration. When we worked on the Facebook project, we started in January of 2008 and
+announced in December 2009. It took less than one year to get through the siting process, which is an
+incredibly short time.
+Recently, I was with a site selection consultant looking for 65 acre parcels in Oregon for a distribution
+center and we were visiting a city of approximately 10, 000 people. I asked him, since he travels all over
+the US siting projects, what amount of industrial land should be available and ready to go in a city of
+that size his response was that for a city of 10, 000 people they should have at a minimum 350 acres of
+ready to go industrial land. Currently that city had approximately 150 acres available. Many of our
+communities in Oregon want a greater inventory for development opportunities ...this is a consistent
+message regardless of location in the state. Every community that wants to promote growth should
+have some parcels that are at least 50 acres up to 100 acres with the opportunity to divide parcels to
+meet company needs.
+We at Business Oregon want to make industrial land project ready we want to bring our communities
+up to a level of knowledge about their properties so that there are no surprises. That is why our land
+readiness and site certification programs are important. Companies and site selection professionals
+expect this level of readiness as a standard.
+Regarding Central Oregon, I find it a challenge to get prospects to look beyond interstate road systems,
+even though Highway 97 has become a significant corridor in Oregon. It will only make our jobs harder
+if Central Oregon has limited alternatives when it comes to a lack of large industrial parcels. Having a
+sufficient inventory will put Central Oregon on the same playing field of other communities even with
+the transportation challenges. They need a variety of alternative sized sites as well as having all their
+industrial properties ready to go.
+When you look at a state the size of South Carolina and then read that they just increased their
+industrial land inventory statewide by 6000 acres, you know that in order to be in the game, you must
+have ample inventory in all locations in the state. Central Oregon is a significant Metropolitan Statistical
+Area ( MSA) for Oregon and each county ( Jefferson, Crook & Deschutes) should have sufficient inventory
+to keep the people working in the region rather than see them move to other locations to find jobs.
+I support all the efforts underway to increase the industrial land inventory in Central Oregon and am
+more than happy to answer any questions. I can be reached at 503- 551-0997.
+Warm regards,
+Jill A. Miles, CEcD
+National Recruitment Officer
+Business Oregon
+C: Larry Pederson, Iron Wolf Community Resources
+ECONOMIC DEVELOPMENT
+FOR CENTRAL OREGON
+November 23, 2010
+Nick Lelack, AICP
+Planning Director
+Deschutes County Community Development Dept.
+117 NW Lafayette, Bend, OR 97701
+Dear Nick:
+I am writing to support the recent pilot project to expand the inventory of large lot industrial
+sites in the Central Oregon region. Founded nearly30 years ago, Economic Development for
+Central Oregon is the tri- countyarea's primary business developmentand recruitment
+organization with four offices. Over the past decade and a half we have recruited 89
+manufacturingand high technologycompanies to the area and assisted in the expansion of
+another 67 traded sector firms, many of which are the region's largest employers. With this
+foundation of real world experience,
+we believe EDCO is uniquely qualified to provide useful
+market- based information about the need for industrial and specifically large lot industrial
+inventory.
+Large Lot Definition
+Based on current supply, what comprises a large lot can vary greatlyfrom community to
+community in Central Oregon. For example, a largelot in Prineville, Madras and La Pine is 50+
+acres. In Bend or Sisters it is 5- 10 acres. From a market perspective, 5- 10 acres is clearly not
+considered a largelot, so these prospectiveprojects don't look ( or look long) at Bend for a
+location currently.
+Lead and inquiry activity passing through EDCO suggest that 20- 50 acres are considered large
+lot, and there are a limited number of projectsthat fall into the "mega" category of 100+ acres.
+Regional Industrial Land Supply
+While some communities within the region have a better inventory than others, for many years
+the tri- countyarea overall has had a significantdeficit of largerindustrially-zoned land that is
+project ready. Bend, the largestcity and Oregon's 5"' largest metropolitan statistical area, has had
+the least inventory in terms of total acreage, total large lot industrial and total industrial land
+overall as a ratio to employment. Most traded- sector companieslooking to expand or relocate to
+Oregon that will consider the Hwy 97 corridor and central part of the state start with Bend.
+Redmond lies near the center both geographicallyand for the regional workforce. For these
+reasons, alongwith an established reputation for being responsive and friendly to business, it is
+often looked at by expandingor relocatingcompanies as well. Importantly, it has for much of
+the past decade, effectively served to supply a portion of Bend's inventory of industrial land -
+specificallylargeracreage.
+EDCO • 109 NW Greenwood Avenue, Suite 102• Bend, OR 97701 • 800- 342-4135 • www. edcoinfo.com
+DLCD - Central Oregon Regional Industrial Land Initiative
+An inventory of largelot industrial parcelshas historicallyexisted in Prineville and La Pine and to
+a lesser degree in Madras, which developedits first new industrial park in decades about five
+years ago. Generally, the region has inventory where the marketplacehistorically has expressed
+the least interest.
+Market Demand
+EDCO is the region's clearinghouse for traded sector expansionand relocation projects,
+including large lot industrial prospects. Over the past five years, there has been a small but steady
+stream of prospects looking for large acreages. Few of these projects have located in the region,
+in part because of the supply issue. The most recent largelot location decision in the regionis
+Facebook with their selection of a 125 acre industrially-zone parcelin Prineville earlier this year.
+If all phasesare built, nearly one million square feet of data center space could be constructed.
+EDCO is currentlyworking with 72 companiesthat are seriously consideringCentral Oregon for
+expansion or relocation. Five ( 5) of these would meet the 20- 50 acre " large lot" threshold and
+three ( 3) the 100+ acre " mega" size noted on the previous page. These are not just leads or
+inquiries, but rather companies that have the regionon the list of finalists, which we refer to as
+pending projects". Lead or prospect activity (i. e. companiesor site selectors justlooking) is
+usuallythree to four times the volume of our pendingprojectslist.
+In our experience, industries requiringlargeacreage include:
+distribution and warehousing;
+data centers;
+renewable energy equipment manufacturing;
+energy production facilities ( biomass, solar, geothermal, synthetic fuels)
+high technology (severalsub- sectors); and
+general durable goodsmanufacturing.
+An issue the region struggleswith regularlyis the ability to market multiple largelot locations to
+prospective users. With many options (depending on the geographicscope of the search - i. e.
+multi- state, national, international) we have seen a resistance by :site selectors, corporate real
+estate professionalsand company representatives to invest the time and travel to visit the region
+without more than just one or two large lots to consider. Greater inventory (acreages) and
+variety (communities) are needed to better compete for these projects.
+It is also worth noting that while most communities offer bare land to new industrial employers,
+most manufacturingand technology companies are looking for existingbuildingsor industrial
+complexesto meet their needs. This is especiallytrue today when existingfacilities can be
+purchased well below construction costs. Today, many companies are simplylooking for a good
+deal, and one that will not require them to get familiar with all state and local building and
+developmentprocesses. Often, an accelerated timeline offered by an existingbuilding (even if it
+needs modification), is also a driving reason alongwith lower upfront capital expenditures.
+Industrial Land Supply Characteristics
+The size of an industrial parcelis certainly only one of many factors in the site selection process.
+Access to utilities, workforce, transportation, education and training services, and incentives are
+EDCO - 109 NW Greenwood Avenue, Suite 102• Bend, OR 97701 - 800- 342-4135 - www. edcoinfo.com
+DLCD - Central Oregon Regional Industrial Land Initiative
+all important location factors for largeprojects. However, if there are no viable, ready-to-go sites
+somewhere to physicallylocate - the discussion about these other factors never starts.
+Additionally, if owners of industrially-zoned land are not motivated sellers it has the result of
+effectivelytakingthose lands out of the community's inventory. This " ghost" inventory of
+having, but not really having industrial land, common in central and eastern Oregon.
+Once the viability of the site question has been answered, most largeindustrial users need access
+to the following for a community to move to the next stage of consideration:
+Infrastructure
+Utilities - Municipal water and sanitary sewer, electric power, natural gas and telecom in
+capacities needed for specificcompanies or industries is critical. The importance ranking
+and magnitude needed for each varies from industry to industry. If nearly all utilities
+noted above are not in placeor very nearby or without some capacity, most companies
+will not consider a community (or that site at least) further. Most private businesses, even
+largeones, are not coincidentally experienceddevelopers.
+Transportation - Most projects, with a few exceptions, have significanttransportation
+and logisticsaspects. It is important to note that the current access approvalprocess in
+Oregon (whether on a state highwayor not) is broken and a barrier to economic
+developmentin generaland largelot developmentspecifically. The Transportation
+PlanningRule ( TPR) and relationship with LCDC approvalis specifically creating the
+greatest problemsin the Central Oregon region.
+Workforce
+Throughout the tri- countyarea, the question for larger projects is first and foremost
+about quantity. Bend or the Deschutes County MSA is often the smallest area in the field
+of consideration for a site selection process. Quality can also be an issue, but at the end
+of the day, communities have little influence on either, at: least at the point when
+companiescome looking.
+Education & Training
+Some companies are keenly interested in higher education opportunities both for the
+overall workforce and continuing education of their employees. That the Central Oregon
+region has been underserved for both higher education and training opportunitiesis a
+factor noted by several large projects in the past as a concern.
+Incentives
+While Oregon is not a " big player" in the incentives game nationally, the state does have
+in place several incentives that favor large, capital intensive projects. Specifically, few
+areas have the type of property tax incentives Oregon offers that can exempt these taxes
+for 3- 15 years. Nearly all Central Oregon industrial areas have access to these incentives
+through the enterprisezone program. At the same time, Oregon does not have the type
+of payroll or jobs- basedincentives available as in other places in the country.
+Certification, as offered through a local or state agency, can be helpful, but in our experience has
+not been a large determinant in being able to attract new, largeusers. The exercise certainlyhas
+benefit in addressingissues, but most of the companies and site selectors have not inquiredabout
+EDCO • 109 NW Greenwood Avenue, Suite 102• Bend, OR 97701 • 800- 342-4135 • www. edcoinfo.com
+DLCD - Central Oregon Regional Industrial Land Initiative
+certification. In our experience, those who are familiar with the! term and process don't know
+how its rigor compares to programs in other states.
+EDCO Recommendation
+The current process for inclusion of largelot industrial is not working. Additionally, the Central
+Oregon region does not have a compellingnumber of "project ready" large lot sites to lure larger
+prospects to the area. As noted earlier, the region has the greatest inventory where the
+marketplace generallyhas the least interest. What would be compellingwould be a collection of
+largeindustrial parcelsin some selected communities ( not all) and a major, centrally located large-
+scale developmentnear the region's geographicand workforce center, and where key
+infrastructure ( outlined on the previouspage) is in place and has excess capacity.
+Addition of Large Lot Parcels to Selected Communities
+EDCO suggests the addition of three large lot parcelsthrough this regionalapproach, in Bend,
+Prineville and La Pine. Madras currently has an area that can serve a 40 acre user and up to a 200
+acre user. We suggest that these parcelsbe no less than 100 acres in size and not largerthan 300
+acres. Selection criteria should be based on:
+proximity adjacent to the existing UGB;
+topographyconducive to accommodating large industrial facilities;
+proximity to needed infrastructure; and
+motivated seller with financial strengthto hold largeacreage parcelsand extend utilities.
+Creation of Regional Industrial Complex
+From a market perspective, the logicalplaceto locate a regionalfacility, Central Oregon's
+Research Triangle" would be between Bend and Redmond. Since such a development is
+inconsistent with Oregon's land use laws, the second most optin:ial location would be on the
+north end of Bend. Transportation, municipal water, sanitary sewer and natural gas infrastructure
+challenges discovered during the developmentprocess for the City of Bend's juniper Ridgemake
+this choice problematic - at least for the next three to five years.
+The next optimal location for a development to meet regionaldemand for industrial property is
+on the southern end of Redmond, east of Hwy 97. The area has few neighbors, possible
+secondarytransport access and most of the municipaland franchise utilities with excess capacity.
+It is a compellinglocation in the marketplace.
+The supply of large-lot industrial land should be reviewed by the region's cities, counties and
+economic developmentorganizationsperiodically. We suggest e five ( 5) year timeframe for re-
+evaluation. If the inventory has not been absorbed, then no changes are made to the supply.
+Conversely, property acquired by end users during that time would be replaced.
+Thank you for the opportunity to provide comment and support for the process to expandthe
+region's inventory of largeindustrial parcels. It is an important initiative to help the region
+diversifyand rebuild its economy.
+Sincerely,
+EDCO • 109 NW Greenwood Avenue, Suite 102• Bend, OR 97701 • 800- 342-4135 • www. edcoinfo.com
+DLCD - Central Oregon Regional Industrial Land Initiative
+Roger J. Lee
+Executive Director
+EDCO • 109 NW Greenwood Avenue, Suite 102• Bend, OR 97701 • 800- 342-4135 • www. edcoinfo.com
+APPENDIX B: EXAMPLES OF LOCAL GOVERNMENTS PROACTIVELY
+PLANNING FOR INDUSTRIAL DEVELOPMENT
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 59
+Document Reproduces Poorly
+Archived)
+Community: Quincy, Washington ( Grant County)
+Key Industry Site Location Factors:
+Proximity to large capacity, low cost power
+Access to municipal water and sewer ( large capacity)
+Mission critical telecom infrastructure ( speed and capacity)
+Large acreage industrial sites ( with proximity to utilities)
+Climate conducive for lower cost cooling
+Meaningful incentives, tax climate
+Population: 2000: 5, 044 2010: 6, 750 % Change: +33. 8%
+Number of 50+ acre industrial sites absorbed 1990- 2000: 0
+Number of 50+ acre industrial sites absorbed in past decade: 5
+Number of 50+ acre industrial sites now available: 6
+Economic Outcomes
+In 2004, the rural town of Quincy, WA was essentially 100% agriculturally based economy in a county with
+some of Washington's highest chronic unemployment rates. The community had no technology
+companies operating there and, as a result, no local technology jobs. Poverty rates also ranked among
+the highest in the state.
+A key asset the community did have that aligned well for the data center industry was the fact that it had
+over 500 megawatts of stranded electric power capacity resulting from closure of several foundries within
+Grant County. Rates set by the local PUC were also very attractive for large users - among the lowest in
+the country. The community and county overall had numerous large industrial sites that could
+accommodate significant projects such as Microsoft's 1.5 million square foot data center facility.
+Today, there has been an 8 percentage point improvement in the unemployment rate and six major
+technology companies ( Yahoo!, Microsoft, Dell, Intuit, T- Mobile & Ask. com) have a presence in Quincy.
+DESCHUTES COUNTY ( CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 60
+While critics ( most of which are outside community) make arguments that the jobs produced for the
+electric power used is a poor economic development tradeoff, the reality is that these centers would be
+built somewhere to accommodate market demand for mobile devices, online computing capacity and
+Internet- based software and professional services. The community, via its local and professional
+economic development organizations, had tried to attract other industries with little success. The data
+center industry has brought sustained economic activity that is benefiting most residents.
+Other economic impacts in Quincy and Grant County, WA include:
+2. 9+ billion in facility construction and IT infrastructure investment
+275 average construction jobs since 2004 ( peaks exceeding 600)
+200 full time direct hire positions with technology companies
+250 full time contract employees for facility maintenance ( ongoing)
+Capital investments alone from data center development have added considerably to the local property
+tax base, which supports local government, schools and special districts.
+Of importance was the fact that Washington's land use system was able to accommodate six new large
+acreage industrial users in a very concentrated timeframe. Oregon's current land use law would never
+allow a community of 6, 000 residents to have such an inventory, especially given a historical lack of
+demand for such development property. Nonetheless, the availability of this inventory was integral in the
+area attracting major new employment concentrations.
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 61
+INDUSTRY FOCUS: HIGH TECHNOLOGY
+Community: Hillsboro, Oregon ( Washington County)
+Population: 2000: 70, 187 1 2010: 91, 611 1 % Change: +30. 5%
+Industry Target: High Technology
+Number of 50+ acre industrial sites absorbed 2000- 2010: 6
+Number of 50+ acre industrial sites now available: 5
+Key Industry Site Location Factors:
+Proximity to large power capacity at low cost
+Access to municipal water and sewer ( large capacity)
+Large acreage industrial sites ( with proximity to utilities)
+Proximity to technical, scientific talent ( existing critical mass & higher education)
+Meaningful incentives, tax climate
+Economic Outcomes
+Home to Intel, Hillsboro has been planning for and working toward growth of its high technology
+employment base for more than 25 years. Utilizing a large and renewable resource from its Coast Range
+watershed, Hillsboro offers the semiconductor, bioscience and renewable energy equipment
+manufacturing industry a valuable resource for process water. Additionally, the community is
+strategically located to tap significant electric power transmission capacity in the Portland metro area,
+which is also another common thread in high technology manufacturing.
+Intel opened its first Hillsboro facility, Hawthorn Farm in 1979. This campus was followed by the opening
+of the Jones Farm location near the airport in 1982 and the Ronler Acres location in 1994. The Ronler
+Acres development was the result of a substantial effort by the City to assemble a site with multiple
+ownerships to provide for a large lot industrial opportunity. Along with several smaller campuses, Intel
+Oregon had approximately 15, 500 employees, making it the largest Intel site and the largest private
+employer in Oregon.
+Intel is directly or indirectly responsible for more than 100 spin-off high technology companies and has
+played a leading role in attracting other national and international high technology manufacturers to the
+Hillsboro area ( TOK America, Tokai Carbon, Lattice Semiconductor, FEI Company, Sun Microsystems,
+Epson, etc.).
+Significant capital investments in infrastructure and physical plant characterize these high technology
+companies. For these reasons, large, well- served industrial sites are required. Recent examples include
+pharmaceutical giant Genentech ( 75 acres), Solar World ( 93 acres), and TriQuint ( 32 acres). In 2007,
+SolarWorld AG acquired the Komatsu silicon wafer production facility in Hillsboro. The Komatsu site is
+approximately 93 acres total, and included 480, 000 sf manufacturing and approximately 60 acres of
+excess land for additional fabs or support buildings. SolarWorld has since built an additional 500, 000 sf
+module manufacturing facility on the site. TriQuint Semiconductors has a 32- acre corporate campus in
+Hillsboro, which manufactures semi- conductors ( 4" to 6" wafers) and offers integrated technologies for
+wireless and base station communications applications. Complete engineering design, manufacturing,
+testing, research and development are included at this facility. TriQuint has completed thee expansions at
+their Hillsboro HQ since 2006.
+DESCHUTES COUNTY ) CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 62
+Dwumant Reproduces Poorly
+Archived)
+Hillsboro has continued to plan for future industrial development of its high technology cluster. The City
+has strategically focused industrial development efforts in the northern section of the City and is
+supporting that decision through zoning, industrial infrastructure, and transportation access. Despite
+having approximately 850 additional buildable acres within the City's North Industrial Area ( Shute,
+Evergreen, and Helvetia Industrial Areas), the sites have been hampered by multiple ownership patterns,
+wetlands and natural resource issues, and lack of infrastructure.
+The City has completed a strategy intended to prepare approximately 700 acres of vacant land in the
+North Industrial area for development. The strategy addresses the key challenges to development in this
+area including infrastructure concept design and funding; mitigation of wetlands and environmentally
+sensitive lands; and land assembly (with the goal of providing a 100 acre site that is truly "shovel ready").
+The city also realizes that high quality and reliable infrastructure ( roads, water, sewer, electricity) is
+necessary. Millions of dollars are being invested, or are programmed for investment by local utility
+suppliers in phases over the next 10 years to accommodate development of these key industrial lands.
+While Hillsboro is one of the best positioned communities from an industrial land perspective, only two or
+three other options exist for large lot users in within cities in the greater Portland area, a metro with
+nearly 2 million residents.
+That Hillsboro is preparing for the future with an inventory of large-lot industrial land positions it for
+future success. It is hard to imagine how the community could accommodate additional large
+technology-based companies ( either through recruitment or from organic growth of existing businesses)
+without such an inventory.
+DESCHUTES COUNTY ( CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 63
+Community: Austin, TX (Austin County)
+Population: 2000: 656, 562 2010: 790, 390 1 % Change: + 20. 4%
+Number of 50+ acre industrial sites absorbed 2000- 2010: xxx
+Number of 50+ acre industrial sites now available: 11
+Key Industry Site Location Factors:
+Proximity to large power capacity at low cost
+Access to municipal water and sewer ( large capacity)
+Large acreage industrial sites ( with proximity to utilities)
+Proximity to technical, scientific talent ( existing critical mass & higher education)
+Meaningful incentives, tax climate
+Economic Outcomes
+Austin is considered to be a major national center for high technology development and manufacturing.
+Among its largest employers are Dell, Freescale Semiconductor, IBM, Apple, Advanced Micro Devices,
+Silicon Labs, Hewlett- Packard, Google, AMD, Applied Materials, Cirrus Logic, Cisco Systems, eBay/ PayPal,
+Bioware, Intel, Samsung, Silicon Laboratories, Oracle and Rackspace.
+The proliferation of technology companies has led to the region's nickname, " the Silicon Hills", and
+spurred development that has greatly expanded the city. Austin is also emerging as a hub for
+pharmaceutical and biotechnology companies; about 85 companies in the bioscience industry are based
+in Austin.
+While the presence of some of the companies noted occurs in more intensive developments ( high rise
+buildings in a downtown location), the majority of technology employers in the Austin area have
+considerable space for their operations.
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 64
+Community: Hermiston, Oregon
+Population: 2000: 13, 154 2010: 16, 795 1 % Change: +27. 7%
+Number of 50+ acre industrial sites now available: 8
+Hermiston is a progressive, growth- oriented urban center for an area based economically on distribution
+warehousing, agriculture, food processing, utilities and other light industry. Centrally located, Hermiston
+has become a transportation center accessed by Interstate Highways 1- 84 (east to west) and 1- 82 (north
+and south) as well as rail and river transportation systems. As well as large properties up to and including
+a 300- acre site that is subdividable with railroad spur frontage. The City will work with developers of
+industrial and commercial business that create job opportunities for local citizens to assist with location of
+infrastructure to appropriate sites. The Port of Umatilla has helped in the development of industrial parks
+in the area, and has recently attracted a newAmazon facility on their nearby McNary property.
+Key Industry Site Location Factors:
+Clean water
+Economical power
+Transportation access ( Interstate and Columbia River)
+Advanced communications
+Room to grow
+Economic Outcomes
+The City of Hermiston strong locational attributes and readily available industrial land supply has
+supported growth in agricultural processing, utilities and distribution/ warehousing. Major employers
+include:
+Wal- Mart Distribution Center - 850 employees
+Lamb Weston - 700 employees
+Hermiston Foods ( NORPAC) - 500 employees
+Marlette Homes - 450 employees
+Union Pacific Railroad - ( 315 employees)
+Good Shepherd Health Care System - ( 358 employees)
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 65
+msonBOAROMAN
+gone
+C7
+Lexington
+Heppner
+Boardman Industrial Park
+Airport Industrial Park
+South Morrow Industrial Park
+Community: Morrow County, Oregon
+Population: 2000: 10, 995 1 2010: 11, 175 % Change: + 1. 6%
+Number of 50+ acre industrial sites now available: 2, 500 subdividable
+acres
+The Port of Morrow has led economic development efforts within Morrow
+County. The Port serves the industrial community by continually
+developing its three industrial parks, and offers assistance with financial
+services. Connections to the local labor market are also provided. The Port
+offers industrial building sites from 1 to 2, 000 acres in size as an economical
+alternative to metropolitan areas.
+Key Industry Site Location Factors:
+Clean water
+Economical power
+Transportation access ( Interstate and Columbia River)
+Advanced communications
+Room to grow
+Economic Outcomes
+Building on its reputation as a prominent food processing center, the Port is also home to fiber and seed
+processing industries, lumber processing and transportation facilities. Port tenants include:
+McGinn Brothers Trucking
+Morrow Cold Storage
+Devin Oil
+Oregon Hay Company
+Oregon Potato
+Pacific Rock Products
+Portview Ranches
+Rivercrest Farms, Inc.
+Tidewater Terminal Services
+Vanco
+Watts Brothers Re- Pack Facility
+DESCHUTES COUNTY ( CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 66
+Community: Reno, Nevada ( Washoe County)
+Population: 2000: 180, 480 2010: 225, 221 1 % Change: +24. 8%
+The greater Reno, NV area has grown over the past two decades into a significant
+regional distribution center for the West Coast. Its geographic location provides
+optimal service to a six to nine- state area, but most strategically to California - the
+most populous and largest state economy in the United States. Warehouse and
+distribution is a major industry and source of employment in the Reno- Sparks area, comprising nearly 13%
+of all jobs. The area has established a large Foreign Trade Zone ( FTZ) of nearly 7, 500 acres and many
+large-scale distribution centers have a presence in the Reno-
+Sparks area including:
+si PetSmart ( 990, 000 sf)
+I~ N
+MEPT USA ( 700, 000 sf)
+Kmart
+VP JCPenney
+Toys R Us (300,000 sf)
+90M Barnes & Noble ( 642, 000)
+C4
+Denver Husgvarna
+r. DU m1e~
+US Ordinance
+San0 Patagonia ( 171, 000 sf)
+AZ 11.011mks Walmart ( 890,000 sf)
+VA
+Urban Trends ( clothing) - 430, 000 sf
+MW Sherwin- Williams
+The area shaded dark green represents Starbucks ( 160, 000 sf)
+1 daytrucksen,-ace Snap-on Tools ( 120, 000 sf)The area shaded light green represents
+2 day truck ser%ice Several of the large scale distribution centers have located in
+the Tahoe- Reno Industrial Center ( TRIC), a 110, 000 acre
+industrial park is among the largest in the nation. Since 2000, TRIC has attracted 83 companies and
+construction of nearly five million square feet of warehouse and industrial buildings.
+markets that it has 900 megawatts of power available for, .
+companies. The development is well served with rail and
+highway access, but prior to its conception, the rural area
+east of Reno had no historical industrial development - -
+giving credence to the " build it and they will come"
+strategy employed more famously at the 7, 000 acre/'
+Research Triangle in North Carolina. 17
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 67
+The park also
+Community: Salt Lake City, Utah ( Salt Lake County)
+Population: 2000: 898, 387 1 2010: , 029, 655 1 % Change: + 14. 6%
+Key Industry Site Location Factors:
+Strategic geographic location for target metropolitan markets
+Access to multiple interstate and rail transportation systems
+Availability of low cost, large acreage land
+Meaningful incentives, tax climate
+The Salt Lake City, UT area is geographically positioned to serve an eleven- state area in the Western U.S.
+with one day truck service - making it a hub for the nation's distribution industry. Key factors supporting
+Utah's status as a distribution destination include an extensive freeway system with more than 43, 155
+miles of highways and roads; a major rail system with more than 1, 400 miles of railroad track stretching
+throughout the state; an international airport handling over 550 million pounds of air cargo and air freight
+annually. Salt Lake City is also a Customs Port of Entry, serving as a full- service port city. Utah's low
+operating costs and available labor force make Utah an attractive location for the distribution industry.
+Over 1, 500trucking companies have a presence in the state.
+A long list of companies have large scale distribution operations in the greater Salt Lake City area,
+including:
+The Hershey Company ( chocolate food
+products) - 600, 000 sf warehouse
+Overstock.com ( consumer products) -
+950, 000 sf warehouse
+Sephora USA ( beauty products) - 320, 000
+sf warehouse
+U.S Foodservice ( wholesale food products)
+265, 000 sf warehouse
+Huish Detergents ( private label
+detergents) - 200, 000 sf warehouse
+Icon Health & Fitness ( exercise equipment
+mfg. & distribution) - 300, 000 sf facility
+Lifetime Products ( sports equipment mfg.
+distribution) - 2. 6 million sf complex
+Nestle USA ( packaged frozen foods)
+Merit Medical Systems ( medical devices,
+supplies)
+Nu Skin Enterprises ( beauty products) -
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 68
+est. 400, 000 sf warehouse
+RC Wiley Home Furnishings (furniture manufacture and distribution) 860, 000 sf warehouse
+ICU Medical ( medical devices and supplies) - 450, 000 sf facility (140,000 sf distribution)
+Walmart ( large scale retailer)
+Easton ( sporting goods) - 140, 000 sf distribution
+Salt Lake City and surrounding communities have planned for growth of this industry, which has seen
+considerable expansion in the past two decades. Nearly all of the distribution centers noted above
+require large scale industrial parcels for initial buildings and future growth.
+DESCHUTES COUNTY ( CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 69
+APPENDIX C: CORRESPONDENCES RESPONDING TO REGIONAL
+ECONOMIC OPPORTUNITY ANALYSIS
+DESCHUTES COUNTY CENTRAL OREGON REGIONAL LARGE-LOT EOA PAGE 70
+534 SW Third Avenue, Suite 300 • Portland, OR 97204 • ( 503) 497- 1000, fax ( 503) 223- 0073 • www. friends.org
+1000 Southern Oregon Office • PO Box 2442 • Grants Pass, OR 97528 • ( 541) 474-1 155 • fax ( 541) 474- 9389
+friends Willamette Valley Office • 220 East 11 th
+Avenue, Suite 5 • Eugene, OR 97401 • ( 541) 520- 3763 • fax ( 503) 575- 2416
+of Oregon Central Oregon Office • 115 NW Oregon Ave # 21 • Bend, OR 97701 541) 719- 8221 • fax ( 866) 394- 3089
+May 17, 2010
+Nick Lelack
+Deschutes County Development Department
+1300 NW Wall Street
+Bend, OR 97701
+Re: Central Oregon REOA
+Dear Nick,
+I am writing today to provide comments on behalf of 1000 Friends of Oregon on the most recent draft
+of the REOA. As I mentioned at the end our last meeting, we support the basic principle behind the
+REOA effort: cooperative efforts on land use decisions in order to improve Central Oregon's
+economic prospects.
+Our primary concern with the current draft is that it not only fails to comply with the land use law, but
+it is inconsistent with important policies behind those laws; policies that are sound principles of good
+governance. Our concerns center around Goals 9 (Economic Development) and 14 (Urbanization).
+Together, these Goals require cities to examine larger economic opportunities in light of community
+character, strengths, weaknesses, geographical and natural assets, market opportunities, labor force,
+infrastructure, and other qualities. Regional coordination is required, and regional planning is
+encouraged. The principle behind Goal 9 is that the EOA provides the basis to determine the
+economic opportunities that would be most effective to pursue. In other words, Goal 9 requires a
+region to take a realistic look at itself in the larger economic context, to determine what it needs to do
+to be economically successful. This is a sound principle.
+Specifically, according to Goal 9 an EOA should look at
+inventories of areas suitable for increased economic growth and activity after taking
+into consideration the health of the current economic base; materials and energy
+availability and cost; labor market factors; educational and technical training
+programs; availability of key public facilities; necessary support facilities; current
+market forces; location relative to markets; availability of renewable and non-
+renewable resources; availability of land; and pollution control requirements.
+OAR 660- 015-0000( 9).
+Celebrating Thirty-five Years of Innovation
+With this factual basis under Goal 9, Goal 14 directs a jurisdiction to determine what capacity is
+needed to accommodate that growth. The capacity need should grow out of the facts; it might be in
+the form of new land, or it might be using existing land differently or more efficiently, or it might be
+using existing vacant buildings, or any combination of those options. Or, the " capacity" needed
+might be in the form of better education of citizens, or improvements to key infrastructure such as
+rail. For example, if the goal is to bring in high tech and bioscience, different capacity and
+infrastructure is needed than for mobile home manufacturing or server farms like the Facebook
+installation. Looking at just one industry sector, every solar- related business that has located in
+Oregon has done so inside existing urban growth boundaries, and in some instances ( such as Solar
+World in Hillsboro), using existing buildings as well.
+Unfortunately, this Draft EOA fails to truly address these basic principles. Although it includes many
+critical facts, such as the strengths and weaknesses of various areas, those facts are not actually used
+to analyze the potential they create. The strengths and weaknesses are not considered in light of the
+larger market forces; they are merely recited. Further, potentially critical distinctions are not made,
+such as the difference in the percentage of people with college degrees in Bend v. Madras, and what
+difference that might make in the kinds of businesses that choose one town over the other, and how
+that might influence the location of a large lot. There is no analysis of whether any of the strengths
+and weaknesses would actually cause any large employer to locate in Central Oregon. And, there is
+no analysis of the needs those businesses would have. For example, some large employers, such as
+information technology businesses or biotech, may house many more employees per acre with less
+infrastructure than server farms such as Facebook, which required over 100 acres and most of the
+available electric and water capacity for the city of Prineville for only 35 permanent employees. In
+short, without an analysis of the likely needs, this REOA is simply incomplete.
+Importantly, there is no analysis of other efforts necessary to attract new employers or grow jobs at
+existing employers, such as course offerings at the local university, or better transit for potential
+employees. Instead, the REOA creates an artificially limited scope by proclaiming the community
+goal to be
+To build a strong and thriving regional economy by establishing and actively
+maintaining a competitive portfolio of large lot employment sites...
+There is little support in the region's comprehensive plans that there is truly a goal of attracting the
+kinds of employers that require large lots when statements about large employers are read in context.
+By placing the assumption that large lot employers create a strong and thriving economy in the
+vision statement" the document tries to avoid the task of making the case that employers that require
+large lots would actually improve the local economy. The document simply assumes that this is true.
+Actually, research shows that the opposite is true. The vast majority of job growth comes from
+existing small businesses.
+Lfr'i0e0nods
+Central Oregon Office • 1 15 NW Oregon Ave # 21 • Bend, OR 97701
+541) 719- 8221 • fax ( 866) 394- 3089
+mi
+When the REOA analyzes how many lots and acres are necessary it considers only one statistic: that
+regionally we have a smaller percentage of large industries than is common in the western U. S.,
+which it explains includes Washington, Oregon, Idaho, and California. This analysis fails to account
+for the small size of Central Oregon cities compared with places like Seattle, Portland, the San
+Francisco Bay Area, Los Angeles, and Boise, all of which were included in the western regional
+statistic. It is not obvious that small cities under 100,000 will attract as large a percentage of
+companies with more than 500 employees as large cities with over a million people in the region. In
+fact, common sense would suggest the exact opposite result. Smaller towns would be expected to
+have smaller businesses. The analysis of how many large lots are required does not consider any
+other factors.
+Even assuming that Central Oregon could attract as many employers of over 500 people as Portland,
+there is another analytical error in this reasoning. Most of the cities in the REOA analysis area have
+already expanded their UGBs to account for their anticipated population growth over the next 20
+years. ( Bend will likely have that process complete in the next two years.) As a result, if this REOA
+is going to justify bringing in more land than will be needed in 20 years under normal conditions, it
+has to show why employment will grow faster than population. There is no analysis in the REOA that
+supports this conclusion. The analysis showing that central Oregon has a smaller percentage of large
+employers than the western U. S. in general actually supports the conclusion that the local trend is for
+smaller employers. It doesn't provide a basis for a reasonable expectation of extraordinary economic
+growth.
+Central Oregon has many attributes that could attract new businesses and cause existing ones to stay
+and grow. The region is very desirable to the " creative class" of young people looking for
+outstanding recreational opportunities. The region has a well developed economic development
+community and will soon have a university. While the REOA lists some of these facts, none of them
+is actually used in an analysis of the kinds of companies that may stay and grow or locate in central
+Oregon, or the type of capacity, infrastructure, and other elements those companies might need. A
+potentially valuable way to approach this question would be to look at other regions that have
+accomplished the economic growth this REOA hopes for. What assets did they have? What
+strategies did they use to make the most of those assets? Do we have similar conditions here? If not,
+could we create them?
+The REOA appears to assume that large, established employers in traded sector industries are the
+primary drivers of job creation, and that cities need to focus their efforts on attracting these businesses
+away from other areas. Assumed growth in this segment of the economy appears to be the basis of
+the REOA recommendation to set aside large tracts of land to serve these employment needs, above
+and beyond the need established by the employment forecast. However, research indicates that small,
+start-up companies are the true creators of overall job growth, and that large, established firms shed
+more jobs via layoffs and closures than they create via new hiring.
+Lftlioe
+Central Oregon Office • 115 NW Oregon Ave # 21 • Bend, OR 97701
+s ( 541) 719- 8221 • fax ( 866) 394- 3089
+Economic development literature that I have located generally recommends nurturing the strengths or
+assets that already exist in an area, rather than attempting to fundamentally change the employment
+base. For example, the International Economic Development Council's guidance on business
+retention and expansion explains that " real job growth over time comes from local business
+expansion."
+1
+Research since the 1970s shows that most new jobs come from the growth of small
+businesses that already exist in the community.2 In light of this research, the new concept of
+Economic Gardening" is beginning to gain significant popularity in economic development circles:
+regions should establish programs to nurture existing, growing businesses. Littleton, Colorado is one
+example. It has added 15, 000 jobs to a town of 40, 000 since 1987. Its history can be found at
+hqp:// www.littleton- gov.org/ bia/economicgardenin .
+These trends apply both locally and nationally, and in both good and bad economic conditions. This
+table from the Kauffman Foundation report titled " The Importance of Startups in Job Creation and
+Job Destruction" shows that for all but seven years from 1977 to 2005, existing firms suffered net job
+losses, while smaller start-ups grew jobs:
+Table 2:
+U. S. Job Growth at Startups
+versus Existing Firms, 1977- 2005
+1977
+t •
+3, 678 254
+i f
+505,053
+1978 2 389 561 1, 584,463
+1979 2, 839,666 1, 143 865
+1980 2, 493 488 1, 615,875
+1981 3, 126 098 2, 271,818
+1982 2, 759,993 2, 554,516
+1983 2, 235 799 4, 227,716
+1984 2, 558 051 1, 994,505
+1985 2, 878 640 132, 860
+1986 3, 036,472 663, 117
+1987 3, 261050 2, 060,647
+1988 2, 988 404 169, 818
+1989 2 878 562 572, 196
+1990 2, 919,266 458, 161
+1991 2, 666,705 4, 008,737
+1992 2, 802,951 2, 341,570
+1993 2, 623,685 888, 863
+1994 2, 902,461 1, 142,396
+1995 2, 935,062 710,181
+1996 2, 953,276 1, 193,941
+1997 3, 059,236 246, 371
+1998 3, 455,186 130, 450
+1999 3, 220,463 744, 582
+2000 3, 086,508 524, 335
+2001 2, 890,248 2, 397,512
+2002 3, 223,919 5, 021,578
+2003 3, 125,422 1, 067,903
+2004 3, 116,725 1, 226,832
+2005 3, 569,440 1, 088,343
+Source: Business Dynamics Statistics, recunfigured by
+Tin) Kane, The Kauffman Foundation.
+1
+See http:// www.iedconline. org/?p= Guide_BRE.
+2
+See Richard Greene, " Job Growth in Private Industry," Monthly Labor Review, September 1982, critiquing the work of
+David Birch the MIT researcher who was first able to demonstrate statistically that job growth comes from small existing
+firms, not from importinglarge external firms. Additionally, the article compares Birch's work with other more recent
+studies attempting to replicate his work with other data.
+1000 Central Oregon Office • 115 NW Oregon Ave # 21 • Bend, OR 97701
+friends ( 541) 719- 8221 • fax ( 866) 394- 3089
+o/ Oreglm
+In addition, the larger a firm is, the more likely it is to shed more jobs than it creates. The following
+table is taken from the draft REOA and covers our four- state region:
+rIGURE c4: DIRTHS, UEATHS, UPANSION & LONTRACTION OF FIRMS, 2006- 20U7
+Initial year establishments
+Change in establishments
+Percentchangein establishments
+Establishment births
+Establishment deaths
+Establishment expansions
+Establishment contractions
+Percentchangein establishments due to births
+Percent change in establishments due to deaths
+Initial year employment
+Changein employment
+Percent changein employment
+Changein employment due to births
+Changein employment due to deaths
+Changein employment due to expansions
+Changein employment due to contractions
+Percent change in employment due to births
+Percent change in employment due to deaths
+Percent change in employment due to expansions & births
+1, 067,847 469, 155 172, 870 109, 832 112, 019 51, 354 152, 617
+30, 002 14, 386 2, 955 1, 882 4, 423 3, 175 3, 181
+28% 3. 1% 1. 7% 1. 7% 33% 6. 2% 2. 1%
+156, 065 92, 869 16, 242 9, 816 12, 751 6, 771 17, 616
+126, 063 78, 483 13, 287 7, 934 8, 328 3, 596 14, 435
+298, 061 98, 603 52, 935 37, 671 41, 205 17, 966 49, 681
+296, 885 65, 083 64, 334 47, 564 49, 639 20, 493 49, 772
+14. 6% 19. 8% 9. 4% 8. 9% 11. 4% 13. 2% 115%
+11. 8% 16. 7% 7. 7% 7. 2% 7. 4% 7. 0% 9. 5%
+18, 258,562 970, 374 1, 124,249 1, 406,925 3, 444,532 2, 756,375 8, 556,107
+37, 174 179, 815 31, 231 2, 741 43, 809 76, 264 56, 540
+0. 2% 18. 5% 2. 8% 0. 2% 1. 3% 2. 8% 0. 7%
+1, 176,589 162, 490 101, 728 110, 507 234, 975 173, 062 393, 827
+1, 031,368 133, 995 82, 878 93, 033 192, 320 134, 396 394, 746
+1, 918,836 234, 651 147, 836 154, 902 334, 050 252, 161 795, 236
+2, 026,883 83, 331 135, 455 169, 635 420, 514 367, 091 850, 857
+6A% 16. 7% 9. 0% 7. 9% 6. 8% 6. 3% 4. 6%
+5. 6% 13. 8% 7. 4% 6. 6% 5. 6% 4. 9% 4. 6%
+17. 0% 40. 9% 22. 2% 18. 9% 16. 5% 15. 4% 139%
+SUUMU; U5 Gen5u5 Bureau, 5tafistics of US Businesses
+Comparing the " Change in Employment" rows shows that the smallest firms gained 18% during
+2006- 2007, stepping down from there to firms over twenty employees, which had a net loss of jobs.
+Note that existing 1-4 employee firms gained 234,651 jobs due to expansion, yet lost only 83, 331 due
+to contractions. Compare this to the hundreds of thousands of jobs that were lost to contraction in
+firms over ten people in size, beyond those gained due to expansion, even during the favorable
+economic conditions of 2006 and 2007.
+Given this research, and the fact that the REOA acknowledges that the local trend is for small
+businesses, the REOA should explain why central Oregon should be seeking to change this trend,
+rather than reinforce it.
+At the outset this REOA looks impressive because of its size and cost. It states over and over that
+large employers need large lots. The implicit assumption is that if we have the lots, the large
+employers will come. But that assumption is not supported in the facts and analysis. The report
+points out that new companies have located on large lots in and around the Portland region, but that
+does not prove that the same or similar companies would have located here if we only had the land.
+1000 Central Oregon Office • 115 NW Oregon Ave # 21 • Bend, OR 97701
+friends ( 541) 719- 8221 • fax ( 866) 394- 3089
+of Ore~m
+Portland has numerous assets that central Oregon lacks such as the education level of its workforce,
+several colleges and universities, interstate access, an international airport, and an international
+shipping port. Some of those assets likely made a difference in the decisions to move to Portland,
+rather than Bend, Prineville, or Madras.
+1000 Friends supports efforts to achieve regional cooperation on land use decisions that improve
+central Oregon's economic outlook more than any smaller jurisdiction could have achieved alone. A
+more robust analysis might reveal opportunities to create regional economic growth greater than
+historic economic growth. It' s just that this document fails to do it.
+I look forward to working closely with this group to make the land use system support economic
+growth in our area. Please feel free to call if you have any questions.
+Sincerely,
+Pam Hardy
+Staff Attorney & Central Oregon Advocate
+Lfriends
+Central Oregon Office • 115 NW Oregon Ave # 21 • Bend, OR 97701
+541) 719- 8221 • fax ( 866) 394- 3089
+n
+business
+or e s
+business grows
+May 19, 2011
+Nick Lelack
+Deschutes County Development Department
+1300 NW Wall Street
+Bend, OR 97701
+Re: Central Oregon REOA
+Dear Nick:
+Business Oregon recommends that the findings of the Central Oregon Regional Advisory
+Committee ( RAC) should be formally adopted by the participating communities and the
+Land Conservation and Development Commission.
+The completion of this study and the implementation of its findings by the communities of
+Central Oregon should prove to be a major step forward in the provision of large-lot sites
+for potential employers, as well as family-wage jobs to its citizens. Our recommendation
+for adoption is based on the following:
+1. The methodology of the Regional Economic Opportunity Analysis (REOA) is
+correct in its targeted approach to current industry trends, site selection
+considerations, and land entitlement issues.
+2. The REOA is correct in its recognition and analysis of the regional context in
+which all high- value industrial recruitments take place.
+3. The REOA is correct in the narrowness and the economy of its mission and
+findings: the identification of a limited number of high- value locations to serve
+the large-lot needs of a region over a short and long tern planninghorizon.
+Methodology: The methodology of the study follows best practices in economic
+development with its focus on a specific cross- section of industry and a specific land need.
+This process is consistent with Oregon Business Development's Key Industry strategy,
+which identifies industries that are considered to be globally competitive in Oregon.
+Further, industry identifications are made in a number of exhibits and summaries that cite
+recent large-lot placements across the state and the nation.
+The focus on sites is an important one and is a welcome approach. Site selectors focus on
+narrow site requirements and regional inputs that meet specific needs. These needs vary
+significantly from employer to employer. While some employers may focus on labor force
+considerations, others may be more concerned with sites with superior water treatment,
+775 Summer St, NE, Suite 200 • Salem, OR 97301- 1280
+503- 986-0123 • fax 503- 581-5115 • TTY 800- 735-2900 • www. oregon4biz.com
+power capacity, or needed redundancy in telecommunications. Further, other employers
+may be focused on avoidance factors, as their operations may not be compatible with
+nearby residential and commercial uses`.
+The consultant was correct in deriving a methodology for gross land demand in the large-
+lot segment. It is our experience that these exercises are imprecise (it is hard to forecast 5
+years in the future let alone 20), but can be used for consideration of scale and
+appropriateness. The consultant used firms with more than 500 employees as a ` general
+proxy' for large-lot demand. This is a very conservative assumption for multiple reasons.
+First, firms with 500 employees are well within the range of what is considered small
+business. The U. S. Small Business Administration defines small manufacturing businesses
+as having a maximum between 500 and 1, 500employees and small wholesaling to have
+between a 100 and 150 employeesz. Facilities in these employment ranges for
+manufacturing and small wholesaling can exceed the 50- acre threshold. Second, many of
+the large-lot employers in the state and the country start at levels well below 500
+employees and ramp- up production and employment over a period of years and even
+decades. Third, highly efficient, automated and capital intensive industries are producing
+more product with fewer employees. Since 1975, U. S. inflation adjusted manufacturing
+output has more than doubled while employment in manufacturing has shrunk by more
+than 30%3.
+The Urban Land Institute, a well respected organization in real estate, sustainable
+development and land use, has specifically deemphasized employment growth as a
+determinant of the demand for industrial space in its leading publication on real estate
+market analysis: "Unlike office demand, the need for most types of industrial space is
+difficult to determine using employment projections. Most industrial uses generate
+comparatively few jobs per square foot of leasable area, and space needs have little to do
+with changes in the number ofjobs in production or distribution businesses.
+i4
+The consultant was correct to cross- check his findings from the admittedly blunt
+employment context' with economic development professionals, at the state and local
+level, who work with businesses and real estate concerns on a daily basis. Those methods
+are included in the REOA and were appropriately blended with the gross land demand
+methodology mentioned above. Further, ample supporting evidence was provided,
+including actual industry recruitments in Oregon and Southern Washington (Figure 20),
+Recent Major Target Industry Placements ( Figure 21), Industrial Development Profile
+Matrix ( Figure 23). Finally, a balanced account of the strengths and challenges associated
+with large lot development was presented for each of the participating counties.
+i
+All of the factors mentioned above are also incorporated into the Governor's Shovel Ready Industrial Site
+Certification Program.
+Source: hup:// www.sba. gov/content/ what-sbas- definition-small- business-concem
+3
+Federal Reserve. U.S. Bureau of Labor Statistics
+Real Estate Market Analysis Methods and Case Studies, Second Edition, U LI Press
+Regional Context: Regions are considered to be more essential to site selection than
+specific towns or communities for a variety of reasons. Most large employers count on
+labor sheds for workers that extend beyond the city of origin. The broad range of skills and
+backgrounds needed to fulfill the needs of the largest and most sophisticated
+manufacturing, research and warehousing facilities are not frequently met by a single
+community. Further, needed educational programs are usually met through regional
+college and community college systems. Mobility considerations, an increasingly
+important supply chain factor, are also provided on a regional basis as the major transfer
+points between ports, airports, highways, and rail systems are usually developed with a
+regional service area clearly in mind.
+The regional focus on the implementation of the plan should also prove to be a substantial
+economic advantage. Regional decision making around site selection, infrastructure
+financing and marketing will all be viewed as assets by recruiters and potential users.
+Findings: A readily available and developable inventory of six large sites in at least three
+separate jurisdictions will provide for some diversity in locations and features in order to
+meet the highly individualized needs of prospective industries. This is a modest
+recommendation for a region the size of Central Oregon and should be the region's first
+priority. A further recommendation to plan for a long-term inventory of 17 sites in five
+communities is also reasonable given Central Oregon's potential for long-term growth.
+The mechanisms for providing these sites should be thought over carefully, in order to
+insure a consistent level of short- term competitive sites.
+Having multiple sites in multiple communities increases the chances of meeting the needs
+of a specific employer and is an essential component of any 20- yearinventory. One
+employer might find a northerly Portland-facing location in Madras as a perfect fit, while
+another employer might find a Southern, more California facing, location in La Pine to be
+more appropriate. The identification of sites in both Redmond and Bend are essential, as
+these are the two largest and most recognizable communities in the region. Prineville is
+quickly raising its profile as a center for new industry with its recruitment of Facebook and
+its certification of three industrial sites, with one more pending. Further, these sites are
+likely to have differing site- specificattributes as they relate to labor force, transportation,
+utilities, and avoidance issues that employers will seek out for highly individualized
+reasons.
+In summary, this is a state of the art approach for identifying the land needs of industry. It
+recognizes the targeted and diverse set of regional and site- specificfactors that traded
+sector large-lot users require. A regional large-lot strategy benefits a variety of businesses
+and we are confident that the very capable communities in the three county region can
+focus on multiple priorities, including those of large and small business whether they are
+existing or new, locally grown or based in another state or country. This effort should
+become a model for the state, moving towards a land provision model that encourages land
+efficiency and economic growth through a strategic emphasis on industry analysis, local
+capacity and regional cooperation.
+Sincerely,
+c.(+f
+Michael J. Williams
+Oregon Business Development, Industrial Lands Specialist
+Master of Regional Planning
+Adjunct Professor, Portland State School of Urban Studies and Planning
+c: Land Conservation and Development Commission
+JOHNSONREID
+LAND USE ECONOMICS
+May 31, 2011
+Nick Lelack
+DESCHUTESCOUNTY DEVELOPMENT DEPARTMENT
+1300 NW Wall Street
+Bend, OR 97701
+SUBJECT: Response to May 17th Letter from 1000 Friends of Oregon Relating to the Central
+Oregon REOA
+Dear Nick:
+This letter responds to a May 17th letter received from 1000 Friends of Oregon as it relates to the
+Regional Economic Opportunities Analysis ( REOA). The letter was drafted by Pam Hardy, who was also
+active in the advisory committee that assisted in the development of the REOA. I have structured my
+response to parallel the aforementioned letter, and have tried to address the range of substantive
+issues raised.
+GENERAL COMMENTS ON THE REOA
+Strengths and Weaknesses not adequately considered
+Ms. Hardy claims that the strengths and weaknesses of various areas were not
+adequately considered in the REOA. As an example, she cites issues such as the
+relative percentage of the population with college degrees in Bend v. Madras, and the
+potential impact that may have on the two jurisdictions' relative attractiveness.
+I would respond to Ms. Hardy's contention on multiple fronts. First of all, the point of
+the Regional approach in Central Oregon was to recognize that the individual
+communities worked cooperatively as a largely cohesive economic unit, with business
+and commuting patterns reflecting this relationship. As a result, the labor force was
+seen as mobile within the region. The study does not make a distinction within the
+region as to which jurisdiction will be most viable for certain employment types, but it
+does outline the relative strengths and weaknesses from an economic development
+perspective of the constituent jurisdictions.
+In addition, the identified target industries reflect those with locational needs
+consistent with the Central Oregon region. The targeted industries have been
+deemed as the most likely to locate in the region by both Business Oregon and
+Economic Development for Central Oregon ( EDCO), a finding reinforced by the
+subsequent research done by Johnson Reid.
+316 SW Washington, Suite 1020 Portland, OR 97204 503/ 295-7832
+Large Lot Employers
+Ms. Hardy feels that the case is not made that large lot employers create a strong and
+thriving economy. We would agree that attracting these types of employers is not a
+necessary condition or alone enough to create a " strong and thriving economy". The
+intent of the technical advisory committee in developing the vision statement was to
+state a desire to maintain this type of inventory. It was perceived by the group to
+represent an additional tool to broaden the region's economic attractiveness, but by
+no means to represent the entirety of their economic development efforts.
+III. Lot Supply Relative to Other Communities
+The newest version of the REOA has addressed many of Ms. Hardy's comments
+regarding the ability of smaller cities to attract large employers. As outlined in
+Appendix B, we have seen a number of similarly sized or smaller jurisdictions have
+considerable success in attracting large firms.
+IV. Link between REOA and Population Projections
+The critique points out that individual jurisdictions within the region have population
+and employment forecasts already in place, and incremental increases in employment
+will entail employment growing faster than population. While population and
+employment growth projections are expected to be coordinated, they do not have to
+be synchronized. Central Oregon as a region has had a consistent disconnect between
+population and employment numbers. Between 2000 and 2010, Central Oregon
+added 47, 000 residents, reflecting a 31% increase. During that same period, covered
+employment in the region increased by 5, 521jobs, or 9%. Due to the high percentage
+of retirement and second homes in Central Oregon, the relationship between
+population and employment has historically been unusually weak.
+The magnitude of any marginal shift in employment related to the limited number of
+sites identified through the REOA is not particularly significant relative to the overall
+employment needs in Central Oregon. If the inclusion of these lands increases
+employment in the region, population numbers can be adjusted commensurately if
+the region sees fit.
+V. REO assumes that large, established employers in traded sector industries are the primary
+drivers of job creation.
+As noted previously, the REOA does not assume that large employers are the primary
+drivers of job creation, although we would maintain that traded sector industries are
+primary drivers. The REOA's findings on large lot industrial demand reflect that
+accommodating these types of users reflects a reasonable component of an economic
+development strategy. As outlined in the REOA, these types of users are actively
+seeking locations, and Central Oregon to a large extent has been unable to compete
+effectively for this type of industrial activity.
+We would agree with 1000 Friends research on " economic gardening". This concept
+is hardly new, and simply reflects a semantic if not substantive shift in economic
+development efforts. Start-up firms are an important component of economic
+growth, and have been for many decades. While larger firms in aggregate did lose
+jobs, it is important to recognize that many large firms expanded considerably during
+the period outlined in the 1000 Friends letter, and that many of the start- ups were
+established to serve the larger firms.
+Again, the REOA does not diminish the importance of small, start-up firms. What it
+does do is note that these firms represent only a portion of the spectrum of firms, and
+a balanced economic development program would provide for these types of firms as
+well as larger industrial firms. The two categories are complementary, not
+competitive.
+VI. Central Oregon is not the Portland Region.
+We readily recognize that economic development opportunities in Central Oregon will
+be fundamentally different than those in the Portland metropolitan area, and have
+made efforts to reflect this in the REOA. As part of this effort, we recruited extensive
+participation by industrial recruiters from Business Oregon and EDCO, as well as
+including Larry Pederson of IronWolf on our team. The input of these participants was
+invaluable in generating a list of viable target industries specific to Central Oregon, as
+well as documenting their specific needs.
+In summary, we believe that the comments provided by 1000 Friends have been either substantively
+addressed by recent edits, or reflect a misunderstanding of the work and findings. The large lot
+industrial demand outlined in the REOA is intended to address the potential for exogenous industrial
+opportunities that the region is not currently competitive for, and not to diminish the more general
+need to appeal to a broad spectrum of firm types and sizes. During the preparation of this report we
+consistently sought the best available information from the most experienced practitioners, and the
+findings of the REOA are reflective of this input. The targeted industries are regionally- specific, their
+requirements well documented, and represent viable economic development opportunities for the
+region.
+Sincerely,
+Jerry Johnson
+Principal
+Johnson Reid, LLC
+1 =1
+ECONOMIC DEVELOPMENT
+FOR CENTRAL OREGON
+June 3, 2011
+Nick Lelack
+Deschutes County Planning Department
+1300 NW Wall Street
+Bend, OR 97701
+Dear Nick,
+I would like to respond to a letter submitted to you regarding the Central Oregon Regional
+Economic Opportunities Analysis (REOA) by 1000 Friends of Oregon dated May 17, 2010. ( I
+believe the letter's author intended the date to be 2011.) As a member of the REOA over the past
+nine months, my first comment is to point out that the group is comprised of every community
+development and top planner for the cities and counties in the Central Oregon area. These are our
+local land use experts working day- by-day in the field. None appears to share the view, position or
+perspectiveexpressedby the letter.
+Generally, I found the letter relatively hard to follow from one subject to another and some were
+covered in the same paragraph. Many of the points made within the letter:
+do not pertain to the task at hand, namely to determine if a shortageof large acreage
+industrial land is a hindrance to overall economic development and diversification efforts,
+are focused on economic development strategy, not economic opportunities (and uses
+references of relatively simplistic or " in vogue" economic development concepts),
+attempt to insert 1000 Friends subjective statements about specific industries and even
+companiesinto what should be a part of the REOA methodology, and
+clearly comes from a perspectivethat favors the status quo for our current land use system
+rather than the innovation.
+This letter is an attempt to coherently address the major concerns raised by 1000 Friends, not in the
+order cited in the letter, but by category.
+Status Quo
+The first few pages attempt to make a case that existing land use law provides all the tools necessary
+for communities to meet large and small industrial development needs. If this were the case, the
+DLCD grant for this project would be a complete waste of valuable time and resources. The
+implication that large industrial lot needs could somehow be met using existing land alreadyinside
+Urban Growth Boundaries ( UGBs) or vacant buildings is simply wishful thinking. If history has
+provided any lessons for Oregon communities the past decade they would be that there is a natural
+propensity for industrial land within UGBs to be converted from industrial zoning to other uses.
+Most Central Oregon communities have alreadycompleted inventories of industrial land and for
+some there are virtually no options or they are extremely limited. Similarly, while considerable
+aggregate inventory currently exists for existing industrial buildings in the region, they consist mostly
+of small footprints, problematic adjacent zoning and uses, older structures - none can meet the need
+of a large user even if consolidation was physically or economically feasible.
+Page 2 of 4 1000 Friends Technical Response June 3, 2011
+The argument also is made that the solar equipment manufacturing industry in Oregon has been
+able to grow, adding companies and jobs within existing UGBs. While it is true that former
+semiconductor manufacturingfacilities in Oregon have been a compelling asset to the industry, the
+simple fact remains that locating such industrial developments outside UGBs is not legal in this
+state. Given the sheer shortageof rural industrial land inventory and the requirement of companies
+to develop their own onsite water and wastewater treatment, we should expect to see nearly 100% of
+any industrial sector to grow within UGBs, and more specifically within the city limits of
+municipalities. This again assumes that the status quo, in the face of persistent demand, is adequate
+to deal with large lot users. This assumption is dubious.
+The real question really remains: how many companiesneedinglargeindustrial- zone acreage
+bypassedOregon because of the widely acknowledgeddearth of such properties? The REOA
+attempts and, we believe succeeds, to quantify this inherently difficult metric.
+Subjective Commentary
+EDCO finds it very interesting that 1000 Friends have boldly made a value statement not only about
+an industry communities in the region have selected to target, but actually a company that located
+recently in the region. To this point, it is clear that the community in which that company located is
+pleasedwith the result. Contradicting their own statement claiming that " There is no analysisof
+whether any of the strengths or weaknesses would actually cause any largeemployer to locate in
+Central Oregon" yet names that large employer, Facebook, that purchased125 acres. Clearly, there
+is very recent precedent, there is demand and there will be more. Apparently, because 1000 Friends
+does not " like" the volume of land or utilities used by the facility or industry in general, this is not a
+relevant example.
+Economic Opportunities Analysis Scope & Economic Development Assumptions
+The implication that a community's large industrial lot needs - capacity to accommodate current or
+future opportunities - can be met via improved education of its residents is entirely out of the scope
+of the REOA. A case is also made that economic development strategies are not adequately
+outlined as a part of the work to be completed by REOA. The purpose of the study was not to
+provide an A- Z roadmap for economic development and the many and complicated steps needed to
+achieve success for a community, the region, or for any specific industry. As a point of clarification,
+these strategiesare alreadyin place. The scope of the REOA is to determine if a
+shortageof large
+acreage industrial land is a hindrance to economic growth and diversification efforts. If so, the
+REOA is to recommend steps to address this deficiency.
+Comments made in the letter infer that attraction of large industrial lot users is the only strategy of
+local and regional economic development efforts. Nothing could be further from the truth.
+Efforts to help existing companies (large and small) to grow or sustain their employment have been
+in place for more than a decade. Efforts to help start-ups and early stage companies are also solidly
+established. Local and regional recruitment efforts to attract new firms do not focus only on large
+employersor large facilities. Quite the contrary! A majority of time, money and effort is directed to
+smaller operations - most of which may never have need of a largeindustrially-zoned lot. This has
+been documented in presentationsby the consultant and within the REOA. Most importantly, the
+REOA is not a prescription of how to do economic development as 1000 Friends implies.
+EDCO understands that most jobs come from existing companies, which is why it dedicates more
+than 50% of its efforts to fostering entrepreneurshipand the retention/ expansion of existing traded-
+sector companies. Recruitment of companies in new and existing industries, however, is an
+EDCO. 109 NW Greenwood Avenue, Suite 102• Bend, OR 97701 • 800- 342-4135 • www. edcoinfo.com
+Page 3 of 4 1000 Friends Technical Response June 3, 2011
+important component of any successful economic development program and diversification
+strategy. New companiesbring a different mix of professional and technical talent to communities
+that can spawn other businesses and technologies. Intel's expansion to Hillsboro in the late 1970s is
+a good examplein Oregon. At that time it was a recruitment project, but in the subsequentdecades
+this global leader in semiconductor technology and production spun off more than 100 companies
+many small) that significantly contributed to the overall diversification of Oregon and of course
+many well- payingjobs.
+The letter also mistakenly tries to make the case that that large employment is generatedby large
+industrial lot users, which necessitates the amenities and resources, such as higher education found
+only in larger metro areas. With several industries, this is not the case. While a typical
+manufacturing company needing 50- 100 acres and building 200,000 - 1, 000,000 square feet would
+employ thousands of people, this does not hold true for the data center industry, warehousing and
+distribution industry and certain high technology manufacturers such as are found in electronics and
+the renewable energy industry (i. e. polycrystalline refinement). In fact, it is more likely that
+companiesin these sectors will actually seek less populated areas to locate operations because of
+several cost factors including land, transportation capacity, utilities and labor.
+Furthermore, there should be no assumption, as is made in the 1000 Friends letter, that location of
+these operations, on a per company basis, generates a large jump in economic or population growth.
+Similarly, population growth rarely determines where large facilities are located.
+A case is made in the letter that small employers create jobs and largeemployers (a false premise for
+largeindustrial lot users) shed jobs. Research on this topic is far from conclusive. An obvious
+question raised by this hypothesisis: What happens to start up activity in the absence of large
+employers? That is to say, if you have a dearth of larger employers, from which a disproportionate
+number of small ventures spring, what is the corresponding rate of new or small company job
+growth. Would the Seattle area have over 1, 000software firms if Microsoft were located in New
+Mexico? The fact remains that the " who creates jobs" argument misses the point of the REOA.
+Without placesfor larger employers OR industries that need large acreage, Central Oregon (and the
+state overall) implicitly forces out these operations. A real world exampleof where this is
+happening is Boulder, Colorado.
+The Boulder area is a hotbed for startup activity, research and development and technology transfer
+from area universities, anchored by the University of Colorado. But strict planning controls in
+Boulder force out the most successful companiesbecause there is literally no place for companiesof
+size to locate. Some find homes in neighboring communities, others leave the state altogether. This
+trend is documented in a 2010 study by Headwaters Economics of Bozeman, MT that specifically
+compares peer communities in the western U. S. to Central Oregon (Deschutes County).
+Toward the end of the 1000 Friends letter, it makes reference that Central Oregon simply can't
+compete with urban areas for largeprojects. The fact is that we do compete on a regular basis with
+areas with much larger populations including Boise, Spokane, Seattle ( and surrounding communities)
+Portland, Reno and other small/ midsize metros that offer similar lifestyle attributes and mix of
+business location factors. Often, Central Oregon is competing for projects where owners or
+managers are not looking for a dense urban area for their operations where the cost of land is
+expensive, transportation routes too congested, labor costs and competition are high.
+EDCO. 109 NW Greenwood Avenue, Suite 102• Bend, OR 97701 • 800- 342-4135 • www. edcoinfo.com
+Page 4 of 4 1000 Friends Technical Response June 3, 2011
+Lastly, the letter reiterates the position of 1000 Friends of Oregon that the REOA is lacking and that
+their organization supports regional cooperation and land use decisions that foster economic
+growth. The proposal outlined in the REOA to create an inventory of six sites initially region-wide
+that would be exclusive for large-lot users is innovative, does not dismantle Oregon's land use
+system and provides some options and alternatives to attract employersto the region. It also
+enjoys the unified support of city and county planning directors, Oregon's economic development
+department, and EDCO. To say the least, it is disappointing that the work encompassedby the
+REOA garnered so little support and so little constructive feedback from 1000 Friends. Still, now
+is the time to move on and move forward. With unemployment rates in Central Oregon more than
+double state and national averages, action, not rhetoric or preservation of the status quo is needed.
+Respectfully,
+AP-
+Roger J. Lee
+Executive Director
+EDCO. 109 NW Greenwood Avenue, Suite 102• Bend, OR 97701 • 800- 342-4135 • www. edcoinfo.com
+Central Oregon
+Association of
+REALTORS_
+2112 N. E. 4th Street • Bend, OR 97701
+541) 382- 3452 • FAX ( 541) 383- 3020
+www. centraloregonrealtors.com
+June 10, 2011
+Nick Lelack
+Planning Director
+Deschutes County Community Development Department
+1300 NW Wall St.
+Bend, OR 97701
+Dear Nick,
+The Central OregonAssociation of REALTORS® expresses its support for the Regional
+Economic Opportunity Analysis and urges the Land Conservation and Development
+Commission to approve the report's findings and recommendations. We also encourage
+all of the other local governments in the region to cooperate with each other and
+Deschutes County in this regional effort to implement the REOA's recommendations.
+The economic crisis that has gripped Central Oregonsince 2007 is largely the result of a
+rapid decline in the real estate development and construction industry and the subsequent
+collapseof home prices. Our region has long been subjected to economic disruptions
+caused by our overreliance on a few industries. Without a more diversified economy this
+pattern of growth and collapse will continue, at some point permanently tarnishing our
+high quality of life image. It is vital that state and local governments act to improve our
+economic competitiveness while there is a rare political consensus regardingthis problem
+and its severity. To that end, the REOA represents fresh thinking and an innovative
+approach that has the potential to improve Central Oregon's economic competitiveness,
+create jobs and put people back to work.
+The REOA points out Central Oregon's natural disadvantagesthat impact our economic
+competitiveness. Unfortunately there is little we can do about those factors. More
+importantly the REOA does an excellent job of identifying the obstacles to economic
+developmentposed by the state's complex and burdensome land use system.
+1. Economic development trends and patterns changewithin the 20- yearplanning
+period enshrined in land use law.
+2. Time is critical to the private sector. Long time periods for infrastructure
+developmentand transportation plan updates are significant barriers to economic
+development.
+REALTORD - is a registered mark which identifies a professional in real
+estate who subscribes to a strict Code of Ethics as a member of the
+NATIONAL ASSOCIATION OF REALTORS.
+REALTOR
+3. The immediate availability and diversity of sites is more important to businesses
+than a community's 20- year supply of land. Economic developmentrequiresa
+real inventory of quality sites at any given time to meet the private sector's needs.
+It is clear from the REOA that Central Oregon's ability to meet the needs of businesses
+and to do so rapidly is essential to our competitiveness. Unfortunately, our top down,command and control land use system lacks the flexibility and responsiveness that we
+need to attract and retain manufacturers and other employersneedinglarge tracts of land.
+If the system worked properly we would currently have an adequatesupply of large lots
+for industrial development.
+One of the criticisms of the REOA by 1000 Friends of Oregonis that a local trend toward
+small business developmentshould be the focus of our economic developmentefforts.
+Perhapsthey missed the main point of the document: one of the principle reasons for this
+trend is the lack of shovel ready large sites suitable for industrial development. The
+REOA identifies a real problem with our economic competitiveness and proposes a
+targeted solution. A comprehensive approach to economic developmentinvolves
+accommodatingall types of businesses, large and small. Purposefully excluding largeemployers from our region will prevent us from diversifying our economy.
+The uncertaintycreated by our land use laws and regulatory policy is a deterrent to
+private sector investment and growth. As the city of Bend's experience demonstrates, the
+UGB expansion process is lengthy, expensive and unpredictable. Any community that
+attempts a land use action in the vicinity of a state highway faces the challengeof the
+Transportation Planning Rule. In addition to those bureaucratic barriers to expeditiousland use actions, cities and counties are likely to face numerous and protracted legalchallengesfrom powerful anti- growthpressure groups taking advantageof Oregon's verylow bar for appeals. The recent example of Solopowermoving to Portland explicitly to
+avoid a political battle with local activists in Hillsboro demonstrates the problems a
+community may face in trying to land a large employerproviding family wage jobs.
+A new process is needed. There is no existing model to rely on because Oregon's land
+use system has prevented necessary land from being available for large lot industrial
+developmentwhen opportunities arise. DLCD officials have asked us, " What would youdo if you could do things differently?" They've asked us to " innovate" for them. They'vestated they want this new concept to succeed. The REOA is a reasonable proposal to do
+things differently, to innovate. It will not solve all of our problems, but it is a critical partof our future economic success. If Central Oregoncontinues to be burdened by a nearlyforty year old land use system that is not responsive to the economic conditions of today,much less tomorrow, then our quality of life will continue to erode.
+For the REOA to have a positive impact on our economic competitiveness it must
+provide flexibility to local governments in identifying and securinglarge sites for
+potential industrial development. Eligible sites must be "shovel ready" immediately. A
+20- year land supply is not real inventory, and a false inventory is worse than havingnone.
+Requirements that eligible sites be adjacent to UGBs also will limit the effectiveness of
+the program. For example, areas east of Bend in the vicinity of the airport and/or sewage
+treatment plant are capable of being served by utilities and would otherwise be candidates
+for industrial development, but are not adjacentto the city's UGB. We also need to
+consider both public and private land for eligibility.
+The REOA also will be less effective if sites adjacentto city boundaries are required to
+be brought into a UGB. There should be flexibility to allow sites to remain in the county,
+perhapsunder a new zoning designation. If local governments wish to bring eligible sites
+into their UGBs they should be able to do so under an expedited process, whether or not
+the sites are in an urban reserve. If cities are requiredto go through the normal UGB
+expansion process this program will not work in a timely fashion. The process is too
+cumbersome and subjectto lengthy legal battles that will deter potential employers.
+If the real goal is job creation in a timely manner, then Central Oregon needs LCDC's
+blessingand support for an expedited process. The future implementationof this regionallarge lot industrial program may take multiple paths. The first would be pursuing
+necessary plan changesto create a new largelot industrial ( LLl) zone in county
+jurisdictions, not necessarilywithin a city UGB. The second would be through a
+streamlined UGB expansionprocess for this new zone. In practicality, with only a few
+publicly-owned possible exceptions, eligible sites do not exist within our existing UGBs;and if they do, changingto the large lot industrial zone would be a downzone and
+therefore economicallyunlikely.
+We appreciate the opportunity to work on this project and COAR looks forward to beinginvolved with the implementationand site evaluations going into the future.
+Sincerely,
+J
+William Robie
+Government Affairs Director

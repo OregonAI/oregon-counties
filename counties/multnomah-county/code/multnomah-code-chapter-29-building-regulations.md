@@ -1,0 +1,3049 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-code-chapter-29-building-regulations
+title: 'Chapter 29: Building Regulations'
+doc_type: ordinance
+citation: 'Chapter 29: Building Regulations'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://multco.us/file/chapter_29:_building_regulations/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 0d31a2b01d204ab103500d9ee542b3180fb2ac62b00a7816ecc0eb5677648b5f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 15.120
+    - ORS 183.310
+    - ORS 311.255
+    - ORS 368.073
+    - ORS 477.020
+    - ORS 479.730
+  related: []
+  supersedes: []
+tags: [multnomah-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter 29: Building Regulations (Chapter 29: Building Regulations)
+
+## At a glance
+
+Chapter 29: Building Regulations — code of Multnomah County. 42 pages.
+
+## Full text
+
+CHAPTER 29:  BUILDING REGULATIONS
+§§:
+
+BUILDING CODE
+
+29.001-  Title; Area Of Application.
+29.002  Policy.
+29.003 Adoption Of State Building Code By
+Reference.
+29.004  Fire Code Compliance.
+29.005  Deleted by Ord. 1264
+29.006 Determination Of Buildings As
+Unsafe.
+29.007 Notice To Owner Of Unsafe Building;
+Contents.
+29.008  Limited Use Of Unsafe Building.
+29.009 Hearing; Abatement Of Unsafe
+Building Nuisance.
+29.010  Fees.
+29.011 Permits For Temporary Buildings Or
+Structures.
+29.012  Repealed by Ord. 1186
+29.013  Repealed by Ord. 1186
+29.014  Certificate of Occupancy.
+ELECTRICAL CODE
+
+29.100-  Title; Area Of Application.
+29.101  Policy.
+29.102 Adoption Of The State Of State
+Electrical Specialty Safety Code By
+Reference.
+29.103 Determination Of Building As
+Unsafe.
+29.104  Application For Permit.
+29.105  Plans And Specifications.
+29.106  Fees.
+PLUMBING CODE
+
+29.200-  Title; Area Of Application.
+29.201  Policy.
+29.202 Adoption Of The State Plumbing
+Specialty Code By Reference.
+29.203  Deleted by Ord. 1264
+29.204 Determination Of Buildings As
+Unsafe.
+29.205  Other Permits Required.
+29.206  Violations.
+29.207  Fees.
+GRADING AND EROSION CONTROL
+(Excluding West of Sandy River Plan Area)
+Deleted by Ord. 1264
+WEST OF SANDY RIVER GRADING AND
+EROSION CONTROL
+Deleted by Ord. 1264
+CONDOMINIUMS
+Deleted by Ord. 1264
+STREET STANDARDS - PART 1: GENERAL
+PROVISIONS
+
+29.500- Title.
+29.501  Definitions.
+29.502  Area Of Application.
+29.503  Policy; Powers Of Director.
+29.504 Administration And
+Enforcement.
+29.505  Institution Of Legal Proceedings.
+29.506  Permits Required.
+29.507 Variances From Requirements Of
+This Code Or Adopted Rules.
+29.508 Acceptance Of Deeds And
+Easements For Road Purposes.
+STREET STANDARDS - PART 2:
+ADOPTION OF RULES
+
+29.530- Initiation Of Rule Adoption.
+29.531  Approval Of Rule Form; Filing.
+29.532 Contents Of Notice Of Intent To
+Adopt.
+29.533  Notice Publication.
+29.534  Review And Comment Period.
+29.535  Rule Adoption.
+29.536  Postponement Of Rule Action.
+29.537  Request For Public Hearing.
+29.538  Public Hearing Notice Contents.
+29.539 Publication Of Notice Of Public
+Hearing.
+2 Multnomah County – Chapter 29 – Building Regulations
+29.540 Public Hearing; Action On Rule;
+Filing.
+29.541 Appeal To The Board Of County
+Commissioners.
+29.542 Appeal And Review Request
+Contents.
+29.543 Commissioner Request For
+Review.
+29.544  Date Of Hearing.
+29.545  Notice Of Appeal Hearing.
+29.546  Conduct Of Appeal Hearing.
+29.547  Temporary Rules.
+29.548 Requirements For Effective
+Temporary Rule.
+29.549 Effective Date Of Temporary
+Rule.
+29.550  Duration Of Temporary Rule.
+STREET STANDARDS - PART 3: RULE
+GUIDELINES
+
+29.560-  General Guidelines.
+29.561  Functional Classification.
+29.562  Local Streets Category.
+29.563  Land Use Category.
+29.564  Collector Streets Category.
+29.565  Scenic Route Category.
+29.566 Transit Corridor Streets
+Category.
+29.567  Arterials Category.
+29.568 Urban And Rural Streets
+Category.
+29.569  Freeways Category.
+29.570  Transitways Category.
+29.571 Right-Of-Way And Improvement
+Standards.
+29.572 Rules For Streets, Roads And
+Rights-Of-Way.
+29.573  Rules For Drainage Facilities.
+29.574 Rules For Traffic Control And
+Traffic Control Devices.
+29.575 Rules For Pedestrian Paths And
+Bikeways.
+29.576  Rules For Sanitary Sewer.
+29.577  Rules For Utility Location.
+29.578  Rules For Right-Of-Way Use.
+29.579  Rules For Street Lighting.
+29.580  Rules For Street Trees.
+29.581 Rules For Development Support
+And Financing.
+29.582 Rules For Accessways.
+29.583  Rules For Street Closure.
+FLOOD HAZARD REGULATIONS
+Deleted by Ord. 1264
+BRIDGE SPECIAL EVENTS
+29.701  Title.
+29.702  Findings.
+29.703  Definitions.
+29.704  Special Event Permit Required.
+29.705 Categories of Special Events,
+Conditions.
+29.706 Special Event Permit Application
+Deadlines.
+29.707 Permit Application Review
+Procedure.
+29.708 Permit Application Review
+Criteria.
+29.709  Contents of Special Event Permit.
+29.710  Insurance Requirements.
+29.711 Revocation of Special Event
+Permit.
+29.712 Special Event Permit Application
+Fee, Deposit and Cost Recovery.
+29.713 Interference with a Special Event
+Prohibited.
+29.714  Cancellation, Recovery of Costs.
+
+ Chapter 29 – Building Regulations   3
+(S-1 – LU 2018)
+BUILDING CODE
+
+§ 29.001 TITLE; AREA OF APPLICATION.
+
+ This subchapter shall be known as the Building
+Code and applies to the unincorporated areas of the
+county.
+(‘ 90 Code, § 9.10.005, 07/01/1998; Ord. 164, passed,
+05/11/1978)
+
+§ 29.002 POLICY.
+
+ The Board has determined that it is necessary to
+provide for the regulation of building constr uction
+and administration of standards, including enforc e-
+ment, of the state building code adopted by the state
+and that this subchapter is necessary for the prote c-
+tion of the public health, safety and ge neral welfare
+of the residents of the county. In addition, the Board
+has determined that certain o ptional state building
+code regulations providing standards for fire -flow,
+fire apparatus means of approach, and alternatives to
+those standards are necessary to implement Co m-
+prehensive Plan policies pertaining to fire protec-
+tion.
+(Ord. 1264, Amended, 10/25/2018; Ord. 1049, Amended,
+09/16/2004; ‘ 90 Code, § 9.10.020, 07/01/1998; Ord. 164,
+passed, 05/11/1978)
+
+§ 29.003 ADOPTION OF STATE BUILDING
+CODE BY REFERENCE.
+
+Those portions of the state building code consti-
+tuting the structural specialty code, mechan ical spe-
+cialty code, and the one - and two -family dwelling
+specialty code, are adopted and by this re ference in-
+corporated as part of this subchapter. The provisions
+of this subchapter shall take precedence over the
+similar provisions of the state specialty codes.
+(Ord. 1264, Amended, 10/25/2018; Ord. 1186, Amended,
+10/13/2011; Ord. 1049, Amended, 09/16/2004; ‘ 90 Code, §
+9.10.030, 07/01/1998; Ord. 583, passed, 07/21/1988; Ord. 531,
+passed, 10/09/1986; Ord. 256, passed, 11/06/1980; Ord. 164,
+passed, 05/11/1978)
+
+§ 29.004 FIRE CODE COMPLIANCE.
+
+ Prior to land use review, the applicant shall
+demonstrate that the proposed development is in
+compliance with the most current version of the Or-
+egon Fire Code.  Documentation o f compliance
+shall be on forms provided by the Planning Director.
+Depending on the location of the parcel, the follow-
+ing agency shall review:
+
+(A) A property served by a structural fire ser-
+vice provider shall have the proposed development
+reviewed by the fire official serving it.
+
+(B) For properties located outside of the bound-
+aries of a structural fire service provider, the proper-
+ty owners shall provide to Land Use Planning, evi-
+dence that a request for structural fire service has
+been made to the appropriate fir e district.  If struc-
+tural fire protection is not available, alternative
+means of fire protection may be authorized by the
+applicable building official in accordance with the
+Oregon Fire Code.
+(Ord. 1264, Added, 10/25/2018)
+
+§ 29.006 DETERMINATION OF
+BUILDINGS AS UNSAFE.
+
+ Any building or structure which has any of the
+conditions or defects described in this section shall
+be considered unsafe, if the conditions or defects are
+found to endanger the life, health, property or safety
+of the public or the occup ants. Any building or
+structure found to be unsafe under this subcha pter is
+declared to be a public nuisance and shall be abated
+by repair, rehabilitation, demolition or r emoval. A
+building is unsafe whenever the building official de-
+termines:
+
+ (A) Any doo r, aisle, passageway, stairway or
+other means of exit is not in conformance with the
+building code effective at the time of construction.
+
+ (B) Stress in any structural materials or member
+or portion of a member, due to all loads, both vert i-
+cal and lateral , is more than one and one -half times
+the working stress or stresses allowed by this cha p-
+ter for new buildings of similar construction, pu r-
+pose or location.
+
+  (C) Any portion has been damaged by fire,
+earthquake, wind, flood, deterioration or such other
+cause as to result in wracking, warping, buckling or
+settling of any portion of the structure so as to r e-
+duce structural strength or stability 33% or more for
+4 Multnomah County – Chapter 29 - Building Regulations
+(S-1 – LU 2018)
+supporting members, or 50% or more for nonsu p-
+porting members, below the minimum strength
+requirements of current building code r equire-
+ments.
+
+ (D) Any portion, or any member, appurte-
+nance or ornamentation, either interior or exterior,
+is not of sufficient strength or stability, or is not
+anchored, a ttached or fastened in place securely
+and is therefore  reasonably likely to fall, become
+detached or dislodged, or collapse and cause inju-
+ry to persons or damage to property.
+
+ (E) Exterior or interior bearing walls or other
+vertical structural members list, lean or buckle to
+the extent that a plumb line pass ing through the
+center of gravity does not fall within the middle
+one-third of the base of the vertical component.
+
+ (F) Any building or structure used or intended
+to be used for dwelling purposes, because of inad-
+equate maintenance, dilapidation, decay, da mage,
+faulty construction or arrangement, inad equate
+light, air or sanitation facility, is determined to be
+unsanitary, unfit for human habitation or to be in
+such condition as would likely cause injury, sick-
+ness or disease.
+
+Cross reference:
+ Nuisances ge nerally, see §§ 15.225 through
+15.236
+(‘ 90 Code, § 9.10.060, 07/01/1998; Ord. 531, passed,
+10/09/1986; Ord. 195, passed, 04/26/1979; Ord. 164, passed,
+05/11/1978)
+
+§ 29.007 NOTICE TO OWNER OF UNSAFE
+BUILDING; CONTENTS.
+
+ (A) Upon determination by the buil ding offi-
+cial that any building or structure is unsafe as pro-
+vided in § 29.006 of this subchapter, the building
+official shall furnish to the owner and the person
+in charge of the building or structure, written no-
+tice of the d etermination and its basis. Th e notice
+shall require repair, improvement, demolition, re-
+moval or elim ination of the causes creating the
+unsafe co ndition, which may include immediate
+vacation of the buil ding, structure or any portion
+thereof, and shall also require the commencement
+within 48 hours of any work necessary to abate
+the nuisance and provide a completion date for
+that work.
+
+ (B) Service of the notice provided under div i-
+sion (A) of this section shall be as required for
+service of process by law, upon the owner of rec-
+ord, and if the owner is not found within the coun-
+ty, notice may be served by registered mail return
+receipt. If that se rvice is ineffective, service may
+be had by publication as provided by ORS 15.120.
+The time prescribed for the unsafe building nui-
+sance to be abat ed, as provided in division (A) of
+this section, shall commence to run upon service
+of notice or, in the case of service by publication,
+upon the first day of publication.
+
+Cross-reference:
+ Unsafe buildings (electrical code), see § 29.103
+ Unsafe buildings (plumbing code), see § 29.204
+(‘ 90 Code, § 9.10.070, 07/01/1998; Ord. 164, passed,
+05/11/1978)
+
+§ 29.008 LIMITED USE OF UNSAFE
+BUILDING.
+
+ (A) Any building, structure or portion thereof
+vacated upon order of the building official shall
+not be reoccupied  until the required corrections
+have been completed, inspected and approved by
+the building official.
+
+ (B) Posting of unsafe buildings shall be by
+appropriate displayed notice, as prescribed by the
+building official, at the entrance to the building
+and shall prohibit entry, occupancy or use to such
+extent as in the judgment of the building official is
+necessary under the circumstances. The notice
+shall remain posted until removal is authorized in
+writing by the building official. The building offi-
+cial may authorize entry by persons the building
+official considers necessary to effect abatement of
+the unsafe building nuisance.
+(‘ 90 Code, § 9.10.080, 07/01/1998; Ord. 164, passed,
+05/11/1978)
+ Chapter 29 - Building Regulations  5
+  (S-1 - LU 2018)
+§ 29.009 HEARING; ABATEMENT OF
+UNSAFE BUILDING NUISANCE.
+
+ Upon determination and notice to the owner that
+an unsafe building nuisance exists and failure or r e-
+fusal of the owner to abate the nuisance, the buil ding
+official shall cause the matter to be presented to the
+Board for the county for a hearing to show cause why
+an unsafe building nuisance should not be d eclared to
+exist and to order abatement of the nuisance. Notice of
+a hearing shall be served, not less than ten days prior
+to the hearing, upon the owner of the building and any
+person in possession in the manner pr escribed by §
+29.007(B) of this subcha pter. After hearing and upon
+determination by the Board that a nuisance exists, the
+Board may order abatement of the nuisance and pros-
+ecution of the owner for violation of this subchapter.
+The Board's order shall const itute authority for the
+building off icial to proceed to abate the nuisance by
+performance of any specific act necessary, including
+entry upon the land and removal of the unsafe struc-
+ture. Any expense incurred shall be authorized by the
+Board to be paid by the county, and the costs shall be
+levied against the real property and charged to its
+owner in the manner of, and collected as provided for,
+special assessments under ORS 311.255.
+(‘ 90 Code, § 9.10.090, 07/01/1998; Ord. 164, passed, 05/11/1978)
+
+§ 29.010 FEES.
+
+ The fees as set by Board resolution shall apply
+under this subchapter in addition to those provided in
+the state building code. Where conflicts occur with
+fees provided in the state building code, the fees in
+this subchapter shall prevail.
+
+Cross-reference:
+ Fees for services of Department of Community
+Services, see Ch. 27
+(Ord. 1061, Amended, 05/26/2005, eff. 7/1/2005; Ord. 978,
+Amended, 03/07/2002; Ord. 971, Amended, 12/20/2001; Ord.
+956, Amended, 01/18/2001; ‘ 90 Code, § 9.10.100, 07/01/1998;
+Ord. 728, passed, 08/13/1992; Ord. 623, passed, 07/20/1989; Ord.
+583, passed, 07/21/1988; Ord. 557, passed, 08/20/1987; Ord. 467,
+passed, 05/29/1985; Ord. 400, passed, 10/13/1983; Ord. 278,
+passed, 08/20/1981; Ord. 256, passed, 11/06/1980; Ord. 195,
+passed, 04/26/1979; Ord. 164, passed, 05/11/1978)
+
+§ 29.011 PERMITS FOR TEMPORARY
+BUILDINGS OR STRUCTURES.
+
+ (A) In addition to those permits provided in se c-
+tion 302 of the Structural Specialty Code and Fire and
+Life Safety Code, the building official may a pprove
+permits for buildings or structures of a temp orary na-
+ture, not to exceed 90 days. The board of a ppeals may
+approve the permits for periods in excess of 90 days,
+but not to exceed one year.
+
+ (B) Temporary buildings and structures shall
+comply with provisi ons of this subchapter only to the
+extent required by the building official or board of ap-
+peals as may be considered necessary to pr event inju-
+ry to persons or damage to property and shall be con-
+sistent with the intent and purpose of this subchapter.
+(‘ 90 Code, § 9.10.110, 07/01/1998; Ord. 164, passed, 05/11/1978)
+
+§ 29.014 CERTIFICATE OF OCCUPANCY.
+
+(A) No building or structure, except single family
+and duplex dwellings, and no land shall be used or
+occupied, and no change in the existing occupancy of
+a building, structure or land or portion thereof shall be
+made, until a Certificate of Occupancy as required by
+the Building Code has been issued by the Building
+Official.
+
+(B) Changes in the use of a building, structure or
+of land shall not be made except in compliance with
+the provisions of the Zoning Code.
+
+ (C) If it is found that the building, structure or
+land complies with the provisions of the Zoning Code,
+the Building Official shall issue a Certificate of
+Occupancy as required by the Building Code.
+
+ (D) A temporary Certificate of Occupancy may be
+issued by the Building Official for the use of a portion
+or portions of a building or land prior to the
+completion or occupation of the entire building or use.
+
+ (E) The Certificate of Occupancy shall be posted
+in a conspicuous place on the premises and shall not
+be removed except by the Building Official.
+(Ord. 1264, Added, 10/25/2018)
+6                                              Multnomah County – Chapter 29 - Building Regulations
+(S-1 – LU 2018)
+(pages 6-10 blank)
+ Chapter 29 - Building Regulations  7
+  (S-1 - LU 2018)
+(blank page)
+8                                              Multnomah County – Chapter 29 - Building Regulations
+(S-1 – LU 2018)
+(blank page)
+ Chapter 29 - Building Regulations  9
+  (S-4 - LU 2011)
+(blank page)
+10                                              Multnomah County – Chapter 29 - Building Regulations
+(S-4 – LU 2011)
+(blank page)
+ Chapter 29 - Building Regulations  11
+  (S-1 - LU 2018)
+ELECTRICAL CODE
+
+§ 29.100- TITLE; AREA OF APPLICATION.
+
+ This subchapter shall be known as the Electrical
+Code and applies to unincorporated areas within the
+county.
+(‘ 90 Code, § 9.20.005, 07/01/1998; Ord. 425, passed,
+07/05/1984)
+
+§ 29.101 POLICY.
+
+ The Board has determined that it is necessary,
+for the protection of the public health, safety, and
+welfare, for the county to adopt, administer and e n-
+force the State Electrical Specialty Safety Code in
+unincorporated areas of the county.
+(‘ 90 Code, § 9.20.020, 07/01/1998; Ord. 425, passed,
+07/05/1984)
+
+§ 29.102 ADOPTION OF THE STATE OF
+OREGON ELECTRICAL
+SPECIALTY SAFETY CODE BY
+REFERENCE.
+
+ Those portions of the state Building Code co n-
+stituting the Electrical Specialty Code as authorized
+by ORS 479.730 and adopted by the Director of the
+Department of Commerce, pursuant to ORS 183.310
+to 183.550, are adopted and by reference incorp o-
+rated as part of this subchapter. The provisions of
+this subchapter shall take precedence over any sim i-
+lar provisions of the Electrical Specialty Safety
+Code.
+(‘ 90 Code, § 9.20.030, 07/01/1998; Ord. 584, passed,
+07/21/1988; Ord. 425, passed, 07/05/1984)
+
+§ 29.103 DETERMINATION OF BUILDING
+AS UNSAFE.
+
+ (A) Any building, portion, or premises, used in
+conjunction, which has any of the described cond i-
+tions or defects, shall be consi dered unsafe, if the
+conditions or defects are found to endanger life,
+health, property or safety of the public or occupants.
+
+ (B) A building is unsafe when any electrical
+wiring, appliance, devices or equipment within the
+scope of the Electrical Specialt y Safety Code are
+found to exist in a dangerous or unsafe condition
+with the potential for creating electrical shock or fire
+hazard.
+ (C) The building official shall take whatever ac-
+tion necessary to cause the abatement of the unsafe
+condition, in accordan ce with the rules and proc e-
+dures set forth in §§ 29.001 through 29.011 of this
+chapter.
+
+Cross-reference:
+ Abatement of unsafe buildings, see § 29.007 et
+seq.
+(‘ 90 Code, § 9.20.040, 07/01/1998; Ord. 425, passed,
+07/05/1984)
+
+§ 29.104 APPLICATION FOR PERMIT.
+
+ To obtain a permit, the applicant shall first file
+an application in writing on a form furnished for
+that purpose. Every application shall:
+
+ (A) Identify and describe the work to be co v-
+ered by the permit for which application is made.
+
+ (B) Describe the land on which the proposed
+work is to be done by legal description or street a d-
+dress or similar description that will readily identify
+and definitely locate the proposed building or work.
+
+ (C) Be accompanied by plans, diagrams, co m-
+putations or specifications and other data as required
+in this subchapter.
+
+ (D) Be signed by a general supervisor electr i-
+cian, limited supervising manufacturing plant ele c-
+trician, limited supervisor industrial electrician, or
+property owner, all who may be required to submit
+evidence to indicate such authority.
+
+ (E) Give such other applicable data and info r-
+mation as may be required by the building official.
+(‘ 90 Code, § 9.20.050, 07/01/1998; Ord. 425, passed,
+07/05/1984)
+
+§ 29.105 PLANS AND SPECIFICATIONS.
+
+ (A) A one -line electrical diagram, load su m-
+mary and other data shall be submitted in a min i-
+mum of two sets with each application for a permit
+for electrical wiring intended to supply a connected
+load of over 200 amperes or for installation of wi r-
+ing in the following buildings or other development:
+12                                              Multnomah County – Chapter 29 - Building Regulations
+(S-1 – LU 2022)
+  (1) A building of more than two stories in
+height, excluding single-family residences.
+
+  (2) Buildings with an aggregate ground a r-
+ea exceeding 10,000 square feet.
+
+  (3) Buildings with occupant loads of 300 or
+more persons.
+
+  (4) Trailer parks.
+
+ (B) Plans, engineering calculations and other
+data shall be submitted in two sets with each appl i-
+cation for permit for a wiring system over 600 volts.
+
+ (C) Plans for installations with service voltage
+exceeding 600 volts shall bear the signature and seal
+of a state-registered professional engineer. All other
+plans shall bear the signature of the supervising
+electrician, registered for the electrical contractor
+submitting such plans or the signature and seal of a
+state-registered engineer.
+
+ (D) Exception: The building official may waive
+the submission of plans, calcul ations or other data
+upon finding that the nature of the work applied for
+is such that reviewing of plans is not necessary to
+obtain compliance with this code.
+(Ord. 1309, Amended 8/18/2022; ‘ 90 Code, § 9.20.060,
+07/01/1998; Ord. 425, passed, 07/05/1984)
+
+§ 29.106 FEES.
+
+ (A) The fees under this subchapter shall be as
+set by Board resolution.
+
+ (B) Refunds.
+
+  (1) The building official may authorize the
+refunding of any fee paid hereunder which was e r-
+roneously paid or collected.
+
+  (2) The building official may authorize the
+refunding of not more than 80% of the permit fee
+paid when no work has been done under a permit is-
+sued in accordance with this subchapter.
+  (3) The building official may authorize the
+refunding of not more than 80% of the plan r eview
+fee paid when an application for permit for which a
+plan review fee has been paid is withdrawn or ca n-
+celled before any plan reviewing is done.
+
+  (4) The building official shall not autho rize
+the refunding of any fee except upon written appl i-
+cation filed by the original permittee not later than
+180 days after the date of fee payment.
+
+Cross-reference:
+ Fees for services of Department of Community
+Services, see Ch. 27.
+(Ord. 1061, Amended, 05/26/2005, eff. 7/1/2005; Ord. 978,
+Amended, 03/07/2002; Ord. 971, Amended, 12/20/2001; Ord.
+956, Amended, 01/18/2001; ‘ 90 Code, § 9.20.070, 07/01/1998;
+Ord. 584, passed, 07/21/1988; Ord. 558, passed, 08/20/1987;
+Ord. 532, passed, 10/09/1986; Ord. 482, passed, 11/07/1985;
+Ord. 425, passed, 07/05/1984)
+
+ Chapter 29 - Building Regulations  13
+PLUMBING CODE
+
+§ 29.200- TITLE; AREA OF APPLICATION.
+
+ This subchapter shall be known as the Plumbing
+Code and applies to unincorporated areas within the
+county.
+(‘ 90 Code, § 9.30.005, 07/01/1998; Ord. 362, passed,
+01/13/1983)
+
+§ 29.201 POLICY.
+
+ The Board has determined that it is necessary,
+for the protection of the public health, safety and
+general welfare, for the county to adopt, administer
+and enforce the state Plumbing Specialty C ode in
+unincorporated areas of the county.
+(‘ 90 Code, § 9.30.015, 07/01/1998; Ord. 362, passed,
+01/13/1983)
+
+§ 29.202 ADOPTION OF THE STATE
+PLUMBING SPECIALTY CODE
+BY REFERENCE.
+
+ Those portions of the state Building Code co n-
+stituting the Plumbing Specialty Code, as authorized
+by ORS 477.020 and adopted by the Director of the
+Department of Commerce, pursuant to ORS 183.310
+to 183.550 and identified as OAR Chapter 814, are
+adopted and incorporated as part of this subchapter.
+The provisions of this subchapte r shall take prec e-
+dence over any similar provisions of the Plumbing
+Specialty Code.
+(‘ 90 Code, § 9.30.030, 07/01/1998; Ord. 585, passed,
+07/21/1988; Ord. 362, passed, 01/13/1983)
+
+§ 29.204 DETERMINATION OF
+BUILDINGS AS UNSAFE.
+
+ (A) Any building, portion,  or premises, used in
+conjunction, which has any of the conditions or d e-
+fects, hereafter described, shall be considered u n-
+safe, if the conditions or defects are found to enda n-
+ger life, health, property or safety or the public or
+occupants.
+
+ (B) A building is unsafe whenever unsanitary or
+dangerous conditions exist, due to improperly i n-
+stalled, poorly maintained, defective, damaged, i n-
+complete, or malfunction of any piping, plumbing or
+sewage system.
+ (C) The building official shall take whatever ac-
+tion nec essary to cause abatement of the unsafe
+condition in accordance with the rules and proc e-
+dures set forth in §§ 29.001 through 29.011 of this
+chapter.
+
+Cross-reference:
+ Nuisances, see §§ 15.225 through 15.236
+ Abatement of unsafe buildings, see § 29.007 et
+seq.
+(‘ 90 Code, § 9.30.050, 07/01/1998; Ord. 362, passed,
+01/13/1983)
+
+§ 29.205 OTHER PERMITS REQUIRED.
+
+ (A) Nothing in this subchapter shall affect the
+necessity of obtaining all applicable permits and
+paying all fees prescribed by other rules, ordinanc es
+or statutes of the county or the state.
+
+ (B) Nothing in this subchapter shall affect the
+powers and duties of county health officials in any
+respect, and those powers and duties, together with
+all regulations pertaining, shall be capable of exe r-
+cise and enforcement in addition to this subchapter.
+(‘ 90 Code, § 9.30.080, 07/01/1998; Ord. 362, passed,
+01/13/1983)
+
+§ 29.206 VIOLATIONS.
+
+ A person shall not:
+
+ (A) Violate or procure, aid or abet, in the viol a-
+tions of any final order concerning the application of
+a provision of the State Building Code in a partic u-
+lar case made by the director, an advisory board, a
+state administrative officer or any local appeals
+board, building official or inspector.
+
+ (B) Engage in or procure, aid or abet any other
+person t o engage in any conduct or activity for
+which a permit, certificate, label or other formal a u-
+thorization is required by any specialty code or other
+regulation without first having obtained such permit,
+certificate, label or other formal authorization.
+(‘ 90 Code, § 9.30.090, 07/01/1998; Ord. 362, passed,
+01/13/1983)
+14                                              Multnomah County – Chapter 29 - Building Regulations
+§ 29.207 FEES.
+
+ Before a permit may be issued for the install a-
+tion, alteration, renovation or repair of a plumbing
+or sewage disposal system, fees shall be collected as
+set by Board resolution. Fees charged in this section
+relate to individual building or structure systems.
+Multiple service, private plumbing or sewage di s-
+posal systems, included but not limited to planned
+unit developments, shall be subject to plan review
+fees as set forth by Board resolution.
+
+Cross-reference:
+ Fees for services of Department of Community
+Services, see Ch. 27.
+(Ord. 1264, Amended, 10/25/2018; Ord. 1061, Amended,
+05/26/2005, eff. 7/1/2005; Ord. 978, Amended, 03/07/2002;
+Ord. 971, Amended, 12/20/2001; Ord. 956, Amended,
+01/18/2001; ‘ 90 Code, § 9.30.100, 07/01/1998; Ord. 800,
+passed, 10/06/1994; Ord. 775, passed, 09/16/1993; Ord. 729,
+passed, 08/13/1992; Ord. 625, passed, 07/20/1989; Ord. 585,
+passed, 07/21/1988; Ord. 559, passed, 08/20/1987; Ord. 533,
+passed, 10/09/1986; Ord. 467, passed, 05/29/1985; Ord. 362,
+passed, 01/13/1983)
+
+ Chapter 29 - Building Regulations  15
+GRADING AND EROSION CONTROL
+(Excluding West of Sandy River Plan Area)
+
+Deleted by Ord. 1264
+
+WEST OF SANDY RIVER GRADING AND
+EROSION CONTROL
+
+Deleted by Ord. 1264
+16                                              Multnomah County – Chapter 29 - Building Regulations
+(S-1 2024)
+STREET STANDARDS - PART 1: GENERAL
+PROVISIONS
+
+§ 29.500- TITLE.
+
+ This subchapter shall be known as the Street
+Standards Law, and may be so cited and referred to.
+(‘ 90 Code, § 11.60.005, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.501 DEFINITIONS.
+
+ For the purpose of this subchapter, the follo w-
+ing definitions shall apply unless the context r e-
+quires a different meaning.
+
+ FUNCTIONAL CLASSIFICATION. The vari-
+ous types of local streets, collectors, scenic routes,
+transit corridor streets, arter ials, freeways, and
+transitways as defined and classified in the adopted
+county transportation system  plan and its roadway
+functional classification map (§§ 29.561 through
+29.570).
+
+ PLAN. The county comprehensive land use plan
+or any of its component part s, such as the transpor-
+tation system plan, any of the community plans, and
+the like.
+(Ord. 1264, Amended, 10/25/2018; ‘ 90 Code, § 11.60.010,
+07/01/1998; Ord. 529, passed, 09/25/1986; Ord. 162, passed,
+04/20/1978)
+
+§ 29.502 AREA OF APPLICATION.
+
+ The provisions of this subchapter are applicable
+to every public right -of-way within the unincorp o-
+rated area of the county, all county roads within i n-
+corporated cities, and all easements or accessways
+which may be required by the county code.
+(‘ 90 Code, § 11.60.030, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.503 POLICY; POWERS OF
+DIRECTOR.
+
+ It shall be county policy and the director shall
+be charged with the responsibility to:
+
+ (A) Exercise the county's authority under ORS
+368, ORS 382, the county code, and other authoriz-
+ing statutes to adequately supervise, direct and con-
+trol the la ying out, opening, establishment, chang-
+ing, alter ation, straightening, working, grading,
+maintaining and keeping in repair the streets and
+roads, and to exerc ise the authority for the im-
+provement, the regulation of use, and the vacation or
+closure of streets and roads where appropriate.
+
+ (B) Promulgate such rules as shall be necessary
+for the administration and enforcement of this su b-
+chapter.
+
+ (C) Require the  following from property ow n-
+ers, to the extent that they benefit from required or
+permitted improvements and to the extent that i m-
+provements are necessary to implement their share
+of the plan or protect the public from the undesir a-
+ble effects of proposed land uses:
+
+  (1) Dedication of right -of-way required by
+county standards.
+
+  (2) Improvement of road or street to county
+standards.
+
+  (3) Construction of storm drainage facilities
+at county standard to serve the drainage basin, abu t-
+ting property developme nts and street and road i m-
+provements.
+
+  (4) Installation of traffic controls, and d e-
+vices, at county standard, necessary to accommodate
+circulation and a mix of traffic types.
+
+  (5) Construction of pedestrian and bic ycle
+facilities, at county standard, n ecessary for safe ci r-
+culation.
+
+  (6) Installation of street lighting facilities at
+county standard.
+
+  (7) Payment of all engineering and co n-
+struction costs for improvements and facilities r e-
+quired in this subsection.
+
+  (8) Construction of sanitary sewer s, w ater,
+and other utilities at the governing jurisdiction
+standard.
+ Chapter 29 - Building Regulations  17
+  (S-1 2024)
+ (D) The county may participate in improv ements
+that exceed the requirements of division (C) of this
+section and where it is in the general public interest it
+may require payment equiva lent to the cost of im-
+provements and facilities rather than act ual construc-
+tion of those facilities and improv ements. In such cas-
+es the county shall provide at least the equivalent im-
+provements and facilities within a specified time peri-
+od.
+
+ (E) Establish and set fees for obtaining permits in
+accordance with the  county’s authority under ORS
+368, ORS 382, SB 1566 (2024), the county code, and
+other authorizing statutes.
+(Ord. 1329, Amended, 1024/24; ‘ 90 Code, § 11.60.040,
+07/01/1998; Ord. 529, passed, 09/25/1986; Ord. 162, passed,
+04/20/1978)
+
+§ 29.504 ADMINISTRATION AND
+ENFORCEMENT.
+
+ (A) The director shall be responsible for admi nis-
+tering this subchapter and all rules adopted under it.
+
+ (B) The director shall have the authority to initiate
+enforcement proceedings.
+
+ (C) Consistent with MCC 39.1510 and notwit h-
+standing any provision of this subchapter or the rules
+or manuals adopted hereunder; the director shall en-
+force this subchapter, and the rules and manuals
+adopted hereunder as provided in MCC §§ 39.1515
+through 39.1565.
+(Ord. 1264, Amended, 10/25/2018; Ord. 1107, Amended,
+01/17/2008; ‘ 90 Code, § 11.60.050, 07/01/1998; Ord. 162,
+passed, 04/20/1978)
+
+§ 29.505 INSTITUTION OF LEGAL
+PROCEEDINGS.
+
+ Upon recommendation of the director, the County
+Attorney, acting in the name of the county, may bring
+an action or proceeding in a court of competent juris-
+diction to compel compliance with or restrain by in-
+junction any violations of this su bchapter or the rules
+adopted under it.
+(‘ 90 Code, § 11.60.060, 07/01/1998; Ord. 162, passed,
+04/20/1978)
+
+§ 29.506 PERMITS REQUIRED.
+
+ A permit or agreement shall be required for any
+construction within the right -of-way or for any su b-
+stantial modification of existing construction or u se in
+the right -of-way and for any other matter relating to
+this subchapter that the director considers appr opriate
+and for which a rule has been adopted. The director
+may establish, issue, administer and enforce permits
+necessary to implement this subchap ter. Fees may be
+assessed for permits as set by Board resolution.
+
+Cross-reference:
+ Plumbing Code, see §§ 29.200 through 29.207
+(‘ 90 Code, § 11.60.070, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.507 VARIANCES FROM
+REQUIREMENTS OF THIS CODE
+OR ADOPTED RULES.
+
+ (A) The requirements of this subchapter or rules
+adopted under it may be varied by the director when
+written information substantiates that such requested
+variance is in keeping with the intent and purpose of
+this s ubchapter and adopted rules, and the requested
+variance will not adversely affect the intended fun c-
+tion of the street or other related facility.
+
+ (B) All documents pertaining to the variance a c-
+tion whether approved or denied, shall be filed for fu-
+ture information including the director's action and the
+reasons.
+(‘ 90 Code, § 11.60.080, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.508 ACCEPTANCE OF DEEDS AND
+EASEMENTS FOR ROAD
+PURPOSES.
+
+ Upon recommendation of the county engineer, the
+Chair is authorized to accept on behalf of the Board
+deeds of land for county road or public road purposes
+and easements required for road improv ement or
+maintenance purposes made by petition or proposal
+pursuant to ORS 368.073 (1985 edition).
+(‘ 90 Code, § 11.60.510, 07/01/1998; Ord. 619, passed,
+06/22/1989)
+
+18                                              Multnomah County – Chapter 29 - Building Regulations
+STREET STANDARDS - PART 2: ADOPTION
+OF RULES
+
+§ 29.530- INITIATION OF RULE
+ADOPTION.
+
+ The director, a member of the planning co m-
+mission or any member of the Board may propose
+adoption, amendment or repeal of a rule under this
+subchapter.
+(‘ 90 Code, § 11.60.090, 07/01/1998; Ord. 162, passed,
+04/20/1978)
+
+§ 29.531 APPROVAL OF RULE FORM;
+FILING.
+
+ A proposed rule shall be approved as to form by
+the County Attorney and filed with the direct or, the
+clerk of the Board and with the staff of the planning
+commission.
+(‘ 90 Code, § 11.60.100, 07/01/1998; Ord. 162, passed,
+04/20/1978)
+
+§ 29.532 CONTENTS OF NOTICE OF
+INTENT TO ADOPT.
+
+ Notice of intent to adopt a proposed rule shall
+contain the following information:
+
+ (A) Description of the proposed action, such as,
+adoption, repeal or amendment.
+
+ (B) A summary of the intent, subject and co n-
+tent of the proposed rule.
+
+ (C) Complete text of the proposed rule where
+practicable, or the location, time and contact person
+for obtaining a copy of the complete text of the pr o-
+posed rule.
+
+ (D) The time limit, location, contact person and
+format for submitting views and comments on the
+proposed rule.
+
+ (E) The time limit, location, format and contact
+person for requesting postponement of the action on
+the proposed rule.
+ (F) The time limit, location, format and contact
+person for requesting a public hearing on the pr o-
+posed rule.
+(‘ 90 Code, § 11.60.110, 07/01/1998; Ord. 162, passed,
+04/20/1978)
+
+§ 29.533 NOTICE PUBLICATION.
+
+ The notice of intent to adopt a rule shall be filed
+with the clerk of the Board prior to publication. In
+addition to such notice as may be required by law,
+notice of intent to adopt a rule shall be made in the
+following manner:
+
+ (A) Publication in a newspaper of general circu-
+lation at least 15 days before the close of the review
+period.
+
+ (B) Posting in a prominent location in the cou n-
+ty courthouse at least 15 days before the close of the
+review period.
+(‘ 90 Code, § 11.60.120, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.534 REVIEW AND COMMENT
+PERIOD.
+
+ The review period for submitting comments
+shall be 15 days and shall commence with public a-
+tion of notice of intent to adopt a proposed rule.
+(‘ 90 Code, § 11.60.130, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.535 RULE ADOPTION.
+
+ If at the close of the review period there have
+been no requests for a postponement or a public
+hearing, the director shall, within ten days of th e
+close of the review period, consider the review
+comments and either adopt or reject the proposed
+rule or adopt the rule with modifications. If a pr o-
+posed rule is to be substantially amended as a result
+of review comments, it must be considered as a
+newly proposed rule. The adopted rule shall be filed
+with the director, the clerk of the Board and with the
+staff of the planning commission, within ten days of
+the close of the review period.
+(‘ 90 Code, § 11.60.140, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+ Chapter 29 - Building Regulations  19
+§ 29.536 POSTPONEMENT OF RULE
+ACTION.
+
+ If within the review period an interested person
+requests postponement of the intended action, the di-
+rector, if the grounds are judged to be sufficient, shall
+postpone the intended action, no less than ten days nor
+more than 90 days to allow the requesting person an
+opportunity to submit data, views or a rguments. A re-
+quest for postponement must be made in writing to the
+contact person listed in § 29.532(E) of this subchapter
+and must include a statement of the identity and inter-
+est of the requesting person and of the grounds for re-
+questing postponement.
+(‘ 90 Code, § 11.60.150, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.537 REQUEST FOR PUBLIC HEARING.
+
+If within the review period ten or more persons, or
+an association with ten or more members or a corpora-
+tion requests, in writing, a public hearing on the pro-
+posed rule, the director shall announce and conduct a
+public hearing.
+(‘ 90 Code, § 11.60.160, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.538 PUBLIC HEARING NOTICE
+CONTENTS.
+
+ Notice for a public hearing on a proposed rule
+shall contain the following information:
+
+(A) Description of the proposed action, such as,
+adoption, repeal or amendment.
+
+(B) A summary of the intent, subject and co ntent
+of the proposed rule.
+
+(C) The date, time, place and presiding officer of
+the public hearing and the manner in which inte rested
+persons may present their views.
+
+(D) Complete text of the proposed rule if pract i-
+cable or the location, time and contact person for ob-
+taining a copy of the complete text of the pr oposed
+rule.
+ (E) The time limit, location, format and contact
+person for appealing the decision to the Board.
+(‘ 90 Code, § 11.60.170, 07/01/1998; Ord. 162, passed,
+04/20/1978)
+
+§ 29.539 PUBLICATION OF NOTICE OF
+PUBLIC HEARING.
+
+ The notice of a public hearing shall be pu blished
+in a newspaper of general circulation within the coun-
+ty at least ten days before the hearing. N otice of t he
+public hearing shall also be given by mail to all parties
+who have submitted comments and to the mailing list
+of the interested parties.
+(‘ 90 Code, § 11.60.180, 07/01/1998; Ord. 162, passed,
+04/20/1978)
+
+§ 29.540 PUBLIC HEARING; ACTION ON
+RULE; FILING.
+
+ The director shall conduct the public hearing. At
+the close of the hearing the director shall adopt, r eject
+or amend the proposed rule. No further notice is re-
+quired for continuation of a hearing to a date ce rtain.
+The director shall file notice of the action with the
+clerk of the Board and with the staff of the pla nning
+commission, within five days of the public hearing.
+Filing of the notice of action with the clerk of the
+Board initiates a ten-day appeal period. If no appeal is
+made, the action of the director shall take effect at the
+end of the appeal period.
+(‘ 90 Code, § 11.60.190, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.541 APPEAL TO THE BOARD OF
+COUNTY COMMISSIONERS.
+
+ Any interested person may appeal the actio n of
+the director on a rule after a public hearing on the mat-
+ter. Any member of the Board may also request re-
+view of the action. Appeal must be made in wri ting
+and filed with the director within ten days of the filing
+of the notice of action with the clerk  of the Board.
+Members of the Board must request review within the
+same period.
+(‘ 90 Code, § 11.60.200, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+20                                              Multnomah County – Chapter 29 - Building Regulations
+§ 29.542 APPEAL AND REVIEW REQUEST
+CONTENTS.
+
+ The appeal request shall contain  the following
+information:
+
+ (A) An identification of the decision or action
+being appealed, including its date.
+
+ (B) A statement of the identity and interest of
+the person making the appeal.
+
+ (C) The specific grounds for the appeal.
+(‘ 90 Code, § 11.60.210, 07/01/1998; Ord. 162, passed,
+04/20/1978)
+
+§ 29.543 COMMISSIONER REQUEST FOR
+REVIEW.
+
+ A member of the Board may initiate review by
+requesting that the matter be placed on the agenda
+for the Board's next regular meeting.
+(‘ 90 Code, § 11.60.220, 07/01/1998; Ord. 162, passed,
+04/20/1978)
+
+§ 29.544 DATE OF HEARING.
+
+ Upon receipt of a valid appeal, the director shall
+schedule a hearing by the Board at the Board's next
+regular meeting for which the agenda has not closed
+and the date of which permits ten days to publish
+notice in a newspaper of general circulation.
+(‘ 90 Code, § 11.60.230, 07/01/1998; Ord. 162, passed,
+04/20/1978)
+
+§ 29.545 NOTICE OF APPEAL HEARING.
+
+ The county shall prepare notice for appeal hea r-
+ings. The notice shall contain the informa tion d e-
+scribed in § 29.538(D) and (E) of this subchapter.
+Notice shall be published in a newspaper of general
+circulation in the county least ten days prior to the
+hearing. The county shall also notify by mail pe r-
+sons who have submitted comments on the proposed
+rule and to the mailing list of interested parties.
+(‘ 90 Code, § 11.60.240, 07/01/1998; Ord. 162, passed,
+04/20/1978)
+§ 29.546 CONDUCT OF APPEAL
+HEARING.
+
+ The appeal hearing shall be conducted at a regu-
+lar meeting of the Board. The Board may adopt , re-
+peal or amend the rule in question. The Board's a c-
+tion shall take the form of a Board order.
+(‘ 90 Code, § 11.60.250, 07/01/1998; Ord. 162, passed,
+04/20/1978)
+
+§ 29.547 TEMPORARY RULES.
+
+ The county may be confronted with a situation
+where it is necessary to put a rule into immediate ef-
+fect in order to protect the public or the interest of
+particular parties. In that case and where there is not
+sufficient time to follow the procedural requir e-
+ments set forth in §§ 29.530 through 29.546 of this
+subchapter, the county is authorized to adopt tempo-
+rary rules.
+(‘ 90 Code, § 11.60.260, 07/01/1998; Ord. 162, passed,
+04/20/1978)
+
+§ 29.548 REQUIREMENTS FOR
+EFFECTIVE TEMPORARY RULE.
+
+ The director may proceed without prior notice
+or hearing, or upon any abbreviate d notice or hea r-
+ing as practicable, to adopt a rule without the notice
+otherwise required by this subchapter. In that case,
+the director shall:
+
+ (A) File a certified copy of the rule with the d i-
+rector, the clerk of the Board and with the staff of
+the planning commission.
+
+ (B) File with the rule the director's finding that
+failure of the county to act promptly will result in
+serious prejudice to the public interest or to the i n-
+terest of the parties concerned. Findings shall be
+supported by a statement of s pecific facts and re a-
+sons.
+ Chapter 29 - Building Regulations  21
+ (C) Take appropriate measures to make the tem-
+porary rule known to the persons who may be affected
+by the temporary rule, including public ation in a
+newspaper of general circulation in the county as
+promptly after filing the rule as practicable and giving
+notice of the rule by mail to persons who may be af-
+fected by it.
+(‘ 90 Code, § 11.60.270, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.549 EFFECTIVE DATE OF
+TEMPORARY RULE.
+
+ A temporary rule ado pted in compliance with §
+29.547 and this section becomes effective immed iate-
+ly upon filing with the clerk of the Board or at a later
+time which may be designated in the rule itself.
+(‘ 90 Code, § 11.60.280, 07/01/1998; Ord. 162, passed,
+04/20/1978)
+
+§ 29.550 DURATION OF TEMPORARY
+RULE.
+
+ A temporary rule may be effective for a period of
+not longer than 120 days. No temporary rule may be
+renewed after it has been in effect 120 days. The di-
+rector may, however, adopt an identical rule on notice
+in accordance with the procedure set forth in this sub-
+chapter.
+(‘ 90 Code, § 11.60.290, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+22                                              Multnomah County – Chapter 29 - Building Regulations
+STREET STANDARDS - PART 3: RULE
+GUIDELINES
+
+§ 29.560- GENERAL GUIDELINES.
+
+ (A) The functional classifications, urban bound-
+ary map, policies, and access requirements for var i-
+ous land uses, as adopted in the county comprehen-
+sive plan, or any of its component parts, such as the
+transportation system plan, and the definitions and
+standards in this subchapter shall serve as guidelines
+for requirements, standards and rules adopted under
+this subchapter.
+
+ (B) Under the current county policy which sti p-
+ulates that urban level services should be pr ovided
+by municipalities, the municipality standard may be
+specified where deemed appropriate by the director.
+(Ord. 1264, Amended, 10/25/2018; ‘ 90 Code, § 11.60.300,
+07/01/1998; Ord. 529, passed, 09/25/1986; Ord. 162, passed,
+04/20/1978)
+
+§ 29.561 FUNCTIONAL CLASSIFICATION.
+
+ (A) Functional classification categorizes roads
+and streets by their operational purpose. Some of the
+key factors considered when adopting the functional
+classifications in the plan were the following:
+
+  (1) Relation between street traffic and land
+use of abutting properties.
+
+  (2) Volume and kinds of traffic.
+
+  (3) Traffic speed.
+
+  (4) Relative origins and destinations of traf-
+fic and lengths of trips.
+
+ (B) The basic hierarchy of functional classific a-
+tion is local street, collector, scenic route, transit
+corridor street, arterial, freeway and transi tway. The
+categories in §§ 29.562 through 29.570 of this su b-
+chapter define these functional classifications as
+well as other items necessary for street standards.
+
+ (C) The director may change an existing fun c-
+tional classification or designate a functional  classi-
+fication of collector or above for a new roadway,
+under the provisions of the rule adoption procedure
+of this subchapter. Such changes or designations
+shall be consistent with the general intent of the
+plan. All new roads are local unless otherwise clas-
+sified under these provisions.
+(‘ 90 Code, § 11.60.310, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.562 LOCAL STREETS CATEGORY.
+
+ Local streets provide access to abutting property
+and do not serve to move through traff ic. Local
+streets will be further categorized by adjacent land
+use into residential, commercial, and industrial local
+streets.
+(‘ 90 Code, § 11.60.320, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.563 LAND USE CATEGORY.
+
+  Within the local street classification, there may
+be considerable difference between the kind of i m-
+provement specified where commercial or industrial
+land uses access a local street, as compared to the
+kind of improvement specified for residential a c-
+cess. Generally, a local street classification in a
+commercial or industrial area will require an i m-
+provement equal to that specified for a collector
+classification.
+(‘ 90 Code, § 11.60.325, 07/01/1998; Ord. 529, passed,
+09/25/1986)
+
+§ 29.564 COLLECTOR STREETS
+CATEGORY.
+
+ Collector streets category gather area traffic
+from local streets within a one -half mile radius and
+connect it to the arterial system. They are not i n-
+tended to serve through traffic, and they are the
+lowest order of street designed to carry tran sit vehi-
+cles.
+
+ (A) Major collectors have traffic volumes ge n-
+erally in the range of 4,000 to 10,000 vehicles per
+day.
+
+ (B) Neighborhood collectors have traffic vo l-
+ume generally in the range of 1,000 to 4,000 veh i-
+cles per day. Abutting land uses are genera lly resi-
+dential in character.
+(‘ 90 Code, § 11.60.330, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+ Chapter 29 - Building Regulations  23
+§ 29.565 SCENIC ROUTE CATEGORY.
+
+ Scenic route category denotes a street which o f-
+fers unique scenic views and is used as a sceni c and
+recreational drive. Restrictions may be imposed to
+preserve the scenic character.
+(‘ 90 Code, § 11.60.333, 07/01/1998; Ord. 529, passed,
+09/25/1986)
+
+§ 29.566 TRANSIT CORRIDOR STREETS
+CATEGORY.
+
+ Transit corridor streets category denotes a street
+which serves a significant function of carrying high -
+grade transit service. Its traffic carrying function is
+secondary to its transit function. Ease of pedestrian
+movement and pedestrian safety are main consider a-
+tions on this type of street.
+(‘ 90 Code, § 11.60.336, 07/01/1998; Ord. 529, passed,
+09/25/1986)
+
+§ 29.567 ARTERIALS CATEGORY.
+
+ (A) Arterial streets carry higher volumes of tra f-
+fic, are often four lanes, and are the main traffic a rter-
+ies.
+
+  (B) Principal arterials are generally four lanes or
+more and can carry a large volume of traffic, usually
+in excess of 25,000 vehicles per day. A significant
+feature of the principal arterial is its function to ca rry
+through trips; that is, trips which have not orig inated
+in or are not destined for the county area.
+
+ (C) Major arterials are generally four lanes which
+can carry a large volume of traffic, usually in excess
+of 20,000 vehicles per day. Their function is to serve
+intracounty trips; that is, trips which have at least one
+trip end within the county area.
+
+ (D) Minor arterials are generally four lanes which
+can carry traffic volumes usually in excess of 10,000
+vehicles per day. Their function is also to serve intra-
+county trips.
+(‘ 90 Code, § 11.60.340, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.568 URBAN AND RURAL STREETS
+CATEGORY.
+
+ Streets may be further categorized by their loc a-
+tion within broad land use categories. Urban roads and
+streets are those within areas designated urban in the
+comprehensive plan. Rural roads and  streets are those
+within areas designated rural or natural resource in the
+comprehensive plan. The same hierarchy applies in
+both cases, but given the higher traffic volumes of ur-
+ban areas, there may be considerable difference be-
+tween the kind of improvement required for urban and
+rural roads of the same classification.
+(Ord. 1264, Amended, 10/25/2018; ‘ 90 Code, § 11.60.350,
+07/01/1998; Ord. 529, passed, 09/25/1986; Ord. 162, passed,
+04/20/1978)
+
+§ 29.569 FREEWAYS CATEGORY.
+
+ Freeways are high speed roadw ays with grade
+separated interchanges and no access to abutting prop-
+erties. Their only function is to move traffic from one
+area to another and they generally can ca rry traffic
+volumes in excess of 60,000 vehicles per day. A size-
+able portion of freeway tra ffic co nsists of through
+trips.
+(‘ 90 Code, § 11.60.360, 07/01/1998; Ord. 162, passed,
+04/20/1978)
+
+§ 29.570 TRANSITWAYS CATEGORY.
+
+ Transitways are rights-of-way devoted exclusively
+for transit use, either bus or rail.
+(‘ 90 Code, § 11.60.370, 07/01/1998; Ord. 162, passed,
+04/20/1978)
+
+§ 29.571 RIGHT-OF-WAY AND
+IMPROVEMENT STANDARDS.
+
+ The basic standards for right -of-way and i m-
+provements shown in Tables 1 and 2 adopted by refer-
+ence of this subchapter are established by this sub-
+chapter. A County Design and  Construction Manual
+will be prepared and maintained by the d irector which
+will establish more specific standards, and design and
+construction criteria. Periodic upda ting of the manual
+by written approval of the director is authorized by
+this subchapter.
+
+24                                              Multnomah County – Chapter 29 - Building Regulations
+
+(‘ 90 Code, § 11.60.380, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.572 RULES FOR STREETS, ROADS
+AND RIGHTS-OF-WAY.
+
+ Requirements and standards may be established
+by administrative  rule or the County Design and
+Construction Manual for streets, roads, and rights -
+of-way under this subchapter, and may include the
+following subjects:
+
+ (A) Criteria for application of functional class i-
+fications and variable standards.
+
+ (B) Permits, agre ements and issuance and i m-
+provement procedures.
+
+ (C) Dedication procedures.
+
+ (D) Plan and profile format and submission pr o-
+cedures.
+
+ (E) Horizontal and vertical alignment:
+
+  (1) Widths;
+
+  (2) Intersections;
+
+  (3) Horizontal and vertical curve radii;
+
+  (4) Grade.
+ (F) Standard drawings for typical and structural
+sections.
+
+ (G) Surveying standards.
+
+ (H) Location, number, and size of facilities.
+
+ (I) Construction details and inspections.
+
+ (J) Other matters of design, construction or
+procedure.
+(‘ 90 Code, § 11.60.390, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+ Chapter 29 - Building Regulations  25
+  (S-1 2022)
+§ 29.573 RULES FOR DRAINAGE
+FACILITIES.
+
+ Requirements and standards for drainage facil ities
+may be established by administrative rule or the
+County Design and C onstruction Manual under this
+subchapter, and may include the following subjects:
+
+ (A) Criteria for determination of need.
+
+ (B) Permits, agreements and issuance and i m-
+provement procedures.
+
+ (C) Plan and profile format and submission.
+
+ (D) Design factors, including:
+
+  (1) Runoff values;
+
+  (2) Capacity;
+
+  (3) Diameter;
+
+  (4) Grade;
+
+  (5) Location;
+
+  (6) Alignment;
+
+  (7) Separation from sanitary sewers.
+
+ (E) Construction details and inspection, including:
+
+  (1) Materials;
+
+  (2) Maintenance-holes;
+
+  (3) Joints;
+
+  (4) Anchor walls;
+
+  (5) Connections to existing buildings and
+sewers;
+
+  (6) Testing;
+
+  (7) Easements;
+
+  (8) Specifications.
+
+ (F) Other matters of design, construction or pro-
+cedure.
+(Ord. 1309, Amended, 08/18/2022; ‘ 90 Code, § 11.60.400,
+07/01/1998; Ord. 529, passed, 09/25/1986; Ord. 162, passed,
+04/20/1978)
+
+§ 29.574 RULES FOR TRAFFIC CONTROL
+AND TRAFFIC CONTROL
+DEVICES.
+
+ Requirements and standards for traffic control and
+traffic control devices may be established by adminis-
+trative rule or the County Design and Co nstruction
+Manual under this subchapter, and may i nclude the
+following subjects:
+
+ (A) Functional classification.
+
+ (B) Criteria for establishing need.
+
+ (C) Permits, agreements, and issuance and i m-
+provement procedures.
+
+ (D) Plan and profile format and submission.
+
+ (E) Truck and transit routes, including transit
+stops, noise, weight regulation and environmental and
+economic impacts on surrounding area.
+
+ (F) Location, number and size of facilities.
+
+ (G) Other matters per taining to design, co nstruc-
+tion, regulation, and procedures.
+(‘ 90 Code, § 11.60.410, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.575 RULES FOR PEDESTRIAN PATHS
+AND BIKEWAYS.
+
+ Requirements and standards for pedestrian pat hs
+and bikeways may be established by administrative
+rule or the County Design and Construction Manual
+under this subchapter, and may include the follo wing
+subjects:
+
+ (A) Functional classification.
+
+ (B) Criteria for establishing need.
+
+ (C) Permits, agre ements, and issuance and i m-
+provement procedures.
+26                                              Multnomah County – Chapter 29 - Building Regulations
+ (D) Plan and profile format and submission.
+
+ (E) Standard drawing, both typical and structur-
+al section.
+
+ (F) Horizontal and vertical alignment.
+
+ (G) Construction details and inspection.
+
+ (H) Other matt ers pertaining to design, co n-
+struction, relocation or procedure.
+(‘ 90 Code, § 11.60.420, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.576 RULES FOR SANITARY SEWER.
+
+ The requirements for sanitary sewer design and
+construction shall conform to the rules, regulations
+and standards of the governing jurisdiction:
+
+ (A) Relationship to state Department of Env i-
+ronmental Quality Standards.
+
+ (B) Plans and profiles.
+
+ (C) Specifications.
+
+ (D) Separation from drainage.
+
+ (E) Capacity and diameter.
+
+ (F) Location, grade, depth, alignment and
+easements.
+
+ (G) Materials.
+
+ (H) Testing.
+
+ (I) Other matters of design, construction and
+procedure.
+
+Cross-reference:
+ Sewerage, see §§ 27.750 through 27.794
+ Plumbing Code, see §§ 29.200 through 29.207
+(Ord. 1061, Amended, 05/26/2005, eff. 7/1/2005; ‘ 90 Code, §
+11.60.430, 07/01/1998; Ord. 529, passed, 09/25/1986; Ord. 162,
+passed, 04/20/1978)
+
+§ 29.577 RULES FOR UTILITY LOCATION.
+
+ Requirements and standards for the location and
+installation of utilities in the right -of-way or county
+controlled easement may be established by admini s-
+trative rule or the County Design and Construction
+Manual under this subchapter, and may include the
+following subjects:
+
+ (A) Permits and issuance procedures.
+
+ (B) Liability, insurance and bonds.
+
+ (C) Construction and location details.
+
+ (D) Maintenance, removal and relocation.
+
+ (E) Inspections.
+
+Cross-reference:
+ Electrical Code, see §§ 29.100 through 29.106
+(‘ 90 Code, § 11.60.440, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.578 RULES FOR RIGHT-OF-WAY
+USE.
+
+ Requirements and standards for right -of-way
+use may be established by administrative rule or the
+County Design and Construction Manual under this
+subchapter, and may include the following subjects:
+
+ (A) Permits, agreements and issuance, i m-
+provement, or use procedures.
+
+ (B) Allocation of costs.
+
+ (C) Location, number and size of facilities.
+
+ (D) Design factors and standards.
+
+ (E) Construction details and inspection.
+
+ (F) Maintenance, removal, and relocation.
+
+ (G) Liability, bonds, and control.
+
+ (H) Special or temporary use of the roads or
+right-of-way.
+ Chapter 29 - Building Regulations  27
+ (I) Other matters of design, construction and pro-
+cedure.
+(‘ 90 Code, § 11.60.450, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.579 RULES FOR STREET LIGHTING.
+
+ Requirements and standards for street lighting
+may be established by administrative rule or the
+County Design and Construction Manual under this
+subchapter, and may include the following subjects:
+
+ (A) Need criteria;
+
+ (B) Permits, agreements, and issuance and i m-
+provement procedures;
+
+ (C) Design and location details;
+
+ (D) Construction details and inspection;
+
+ (E) Jurisdiction; and
+
+ (F) Other matters of design, construction and pr o-
+cedure.
+(‘ 90 Code, § 11.60.460, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.580 RULES FOR STREET TREES.
+
+ Requirements and standards for street trees may
+be established by administrative rule or the County
+Design and Con struction Manual under this su bchap-
+ter, and may include the following subjects:
+
+ (A) Permit, agreement and issuance procedures.
+
+ (B) Species and location.
+
+ (C) Maintenance and removal.
+
+ (D) Other matters of design, installation and pro-
+cedure.
+(‘ 90 Code, § 11.60.470, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.581 RULES FOR DEVELOPMENT
+SUPPORT AND FINANCING.
+
+ Requirements and standards for development sup-
+port and financing may be established by admi nistra-
+tive rule or the County Design and Construction Man-
+ual under this subchapter, and may include the follow-
+ing subjects:
+
+ (A) Cost sharing for oversizing:
+
+  (1) Selection criteria and procedures;
+
+  (2) Design criteria;
+
+  (3) Administrative procedures.
+
+ (B) Payment in lieu of construction:
+
+  (1) Selection criteria and procedures;
+
+  (2) Design criteria;
+
+  (3) Administrative procedures.
+
+ (C) Other matters pertaining to development sup-
+port and financing.
+(‘ 90 Code, § 11.60.480, 07/01/1998; Ord. 529, passed,
+09/25/1986; Ord. 162, passed, 04/20/1978)
+
+§ 29.582 RULES FOR ACCESSWAYS.
+
+ Administrative rules for accessway design and
+construction under this subchapter may address the
+following subjects:
+
+ (A) Permits and issuance procedures;
+
+ (B) Plan and profile format and submission pr o-
+cedures;
+
+ (C) Horizontal and vertical alignment;
+
+  (1) Widths;
+
+  (2) Intersections;
+
+  (3) Grades;
+
+ (D) Standard drawings for typical and structural
+sections; and
+
+ (E) Other matters pertaining to design, co nstruc-
+tion or procedure.
+(‘ 90 Code, § 11.60.485, 07/01/1998; Ord. 529, passed,
+09/25/1986)
+28                                              Multnomah County – Chapter 29 - Building Regulations
+§ 29.583 RULES FOR STREET CLOSURE.
+
+ Administrative rules for street closure under this
+subchapter may address the following subjects:
+
+ (A) Procedures;
+
+ (B) Temporary closure;
+
+ (C) Short term closure;
+
+ (D) Permanent closure; and
+
+ (E) Other matters pertaining to policy, stan d-
+ards, and procedures.
+(‘ 90 Code, § 11.60.488, 07/01/1998; Ord. 529, passed,
+09/25/1986)
+ Chapter 29 - Building Regulations  29
+FLOOD HAZARD REGULATIONS
+
+Deleted by Ord. 1264
+30                                              Multnomah County – Chapter 29 - Building Regulations
+BRIDGE SPECIAL EVENTS
+
+§ 29.701 TITLE.
+
+ This subchapter will be known as the Bridge
+Special Events Ordinance.
+(Ord. 1008, Added, 02/27/2003, eff. 03/29/2003)
+
+§ 29.702 FINDINGS.
+
+ (A) Multnomah County operates and maintains
+six bridges over the Willamette River, known as the
+Broadway, B urnside, Hawthorne, Morrison, Sel l-
+wood, and Sauvie Island. These bridges are a crucial
+part of the regional transportation system for v e-
+hicular, bicycle and pedestrian traffic; this is their
+primary use. Although the bridges are extensions of
+streets and r oads on the ground, they are probably
+best considered as limited public fora for activities
+and events outside of the primary use, as they have
+not traditionally been used to the same extent as
+parks and streets for public expression purposes.
+Moreover, the closure of a bridge to pedestrian, b i-
+cycle and/or vehicle traffic has a substantially grea t-
+er impact to the community than the closure of
+streets and roads on the ground, as the areas served
+by the bridges do not have as many or sometimes
+any alternative routes.  Additionally, the drawbrid g-
+es are subject to the needs of river traffic as mandat-
+ed by federal law.
+
+ (B) The critical transportation role also gives
+the bridges unique symbolic and commercial signi f-
+icance for the metropolitan area.  For example , the
+unique, solitary presence of a bridge may highlight a
+public demonstration, provide a filmmaking loc a-
+tion, or accommodate a parade crossing the w ater.
+The county maintains each of these bridges and
+must coordinate necessary maintenance work, r e-
+pairs and renovation with the ongoing river and
+deck traffic and any proposed activity outside of
+these main functions.
+
+ (C) The section of the Willamette River these
+bridges cross is subject to the National Marine Fis h-
+eries Service (NMFS) listing under the Fe deral En-
+dangered Species Act (ESA) to protect salmon and
+steelhead fish. If the county authorizes activities in
+this protected area, they must be undertaken in full
+compliance with the ESA. Further, all activities in
+the regulated area must be undertaken in compliance
+with any other applicable local, state or federal envi-
+ronmental protection or hazardous substance law,
+regulation or code including but not limited to the
+Clean Water Act; the Comprehensive Environme n-
+tal Response, Compensation, and Liability A ct
+(CERCLA); the Hazardous Materials Transportation
+Act of 1975; Hazardous Materials Transportation
+Uniform Safety Act; and the Resource Conservation
+and Recovery Act.
+
+ (D) The county coordinates the day to day ope r-
+ation of the passage of river traffic be low deck with
+bridge traffic on deck. The county is subject to fe d-
+eral maritime law mandates to open the bridges u p-
+on demand for river traffic. In most instances the
+City of Portland or the State of Oregon have juri s-
+diction over the streets and highways th at directly
+connect to the bridges.
+
+ (E) The Broadway Bridge carries four lanes of
+traffic with an average daily volume of thirty tho u-
+sand vehicles and more than one thousand pedestr i-
+ans and bicyclists. Drawbridge openings are nece s-
+sary about twenty -five times per month mainly to
+accommodate grain terminal traffic. Additionally,
+the unique double -leaf Rall -bascule design causes
+openings to last twenty minutes or longer in dur a-
+tion; over three times longer than the other county
+drawbridges.
+
+ (F) The five -lane Burnside Bridge is a major
+link between downtown Portland and the east side.
+The bridge has two bike lanes and two sidewalks.
+About 40,000 vehicles and more than 1,000 pede s-
+trians and bicyclists cross the bridge daily. Burnside
+Street and bridge are designated as an official emer-
+gency transportation route under the regional Eme r-
+gency Management Plan. The bridge, as part of this
+“lifeline corridor,” is the one non -freeway river
+crossing which emergency vehicles and suppliers
+are asked to use. Burnside B ridge drawbridge open-
+ings are necessary about 40 times per month with
+average opening times running from five to eight
+minutes.
+
+ (G) The Hawthorne Bridge is a vertical lift
+drawbridge located farthest upriver of the other
+three drawbridges. It has a limited vertical clearance
+that makes openings for river traffic necessary about
+200 times per month and 300 times in the summer
+ Chapter 29 - Building Regulations  31
+months, with average opening times running from
+five to eight minutes. On the deck, over 30,000
+vehicles including more than 750 pu blic bus trips
+traverse the Hawthorne’ s four lanes every day. The
+sidewalks flanking the roadway accommodate
+several thousand daily pedestrian and bicycle trips.
+
+ (H) The Morrison Bridge carries six lanes of traffic
+that includes access to Interstates 5 and 84, ma king it a
+major highway corridor. With links to two interstate
+freeways, the Morrison Bridge carries the most traffic of
+the county bridges at 50,000 v ehicles daily and 600
+pedestrians and bicyclists daily. Drawbridge openings
+are necessary about  30 times per month with average
+opening times running from five to eight minutes.
+There is a sidewalk on the north and south side of the
+bridge.
+
+ (I) The Sauvie Island Bridge is the only road access
+to the island. The two -lane bridge sees about 4,000
+vehicles daily and is also a popular bicycle crossing.
+The bridge also serves many commercial conveyances:
+during the harvest season, hundreds of truckloads of
+corn, cucumbers and other produce cross the bridge t o
+the mainland from the island’ s farms. Commer cial
+traffic also includes trucks and employees commuting to
+an industrial area on the island  s southern tip. There is a
+sidewalk on the north and south side of the bridge.
+Because of the compelling and overriding community
+need for a ccess to the Island th is bridge is not suitable
+for a complete closure event.
+
+(J) The Sellwood Bridge has a daily volume of over
+30,000 vehicles. This narrow bridge is Oregon ’s most
+heavily traveled two -lane bridge. This heavy roadway
+traffic is further complicated by only one , narrow four
+foot, three -inch sidewalk on the north side. Given the
+Sellwood Bridge’s dimensions, a bridge use permit
+requesting the Sellwood Bridge would have to be at
+most a one vehicle lane closure. The Sellwood Bridge is
+the only bridge serving south metropolitan Multnomah
+County; the nearest bridge to the south is over ten miles
+away in Oregon City. Like the Sauvie Island Bridge this
+bridge pr ovides unique and limited access to the area
+served and therefore is also not suitable for a complete
+closure event.
+(K) Each bridge is a vital link to its service area,
+some obviously more than others. When a bridge is
+closed to pedestrian or vehicle traffic it can create
+bottlenecks at the other available routes and frustr a-
+tion and inconvenience to the communit y. Unlike
+most city streets that may be closed for an event
+there is not a bridge just around the block to use. In
+this regard, it is important to note that for any event
+that would seek to close the bridge, there are ample
+streets and roads and other publ ic spaces on either
+side of the river where such events can be held.
+
+ (L) Bridge sidewalks where available provide
+exposure to a greater number of bridge users than
+would a roadway event that merely excludes traffic.
+The use of bridge sidewalk gives visi bility to an
+event and access to the symbolic nature of the
+bridge while preserving the public need for a clear
+roadway. For permit applications requesting a
+roadway closure, the sidewalk is a viable alternative
+that does not interfere with public order or  safety. A
+non-exclusive sidewalk or vehicle lane use may not
+even require a permit be obtained.
+
+ (M) Under this ordinance any party seeking to
+close or restrict in any way a bridge to vehicle
+and/or pedestrian/bicycle access must obtain written
+consent f rom the City of Portland or the State as
+well as the written consent of the county as ev i-
+denced by a duly executed county permit. Due to the
+amount of daily traffic and the unique role the
+bridges play, there must be a minimum number of
+participants to qualify for a complete closure event.
+Although a filming event may involve less people
+than other events, they usually do involve several
+individuals, equipment, plus the need to control the
+areas in the shoot and on occasion curious onloo k-
+ers, such that the cumulative impact is similar.
+
+ (N) This ordinance establishes a permit proc e-
+dure and criteria that will provide for a systematic
+and objective review of bridge use permit applic a-
+tions.  The review criteria are content -neutral and
+are used to evaluate th e permit applications, most
+notably for the impact on river and road traffic, the
+structural integrity of the bridges and the cost to the
+county of accommodating proposed bridge events.
+The permit criteria for using county bridges will
+preserve the primary  transportation duty of the
+bridges while a ccommodating public activities on
+the bridges.
+32                                              Multnomah County – Chapter 29 - Building Regulations
+ (O) An event using one of the four drawbridg-
+es (Burnside, Broadway, Hawthorne, or Morri-
+son) is subject to the rights of prevailing river
+traffic. The two fixed -span bridges (Sellwood or
+Sauvie Island) have only two vehicle lanes while
+the drawbridges have at least four vehicular traf-
+fic lanes. A permit application must address the
+physical attributes of the requested bridge to as-
+sess the traffic impacts of a proposed  use. The
+permit review criteria address separately the use
+of the sidewalk and roadway for activities.
+
+ (P) The permit review criteria address time of
+a proposed bridge use for traffic impacts. The five
+metropolitan bridges’  proximity to downtown
+Portland makes rush -hour time periods, roughly
+6:30AM until 9AM and 4PM until 6:30PM, a
+time of critical need for bridge access.  Converse-
+ly, Sundays from 3am until noon are times of less
+bridge traffic use that are more readily available
+for bridge events. All approved Events will in-
+volve mitigation plans for traffic impacts to the
+extent necessary.
+
+ (Q) The permit review procedure begins with a
+permit application filed with the Multnomah
+County Transportation Program. The applic ation
+will request use of a spe cific bridge(s), area
+(sidewalk/roadway), time of day, event duration,
+expected event size, applicant contact infor-
+mation, secondary applicant contact information,
+special needs, and a detailed description of the
+proposed event including mitigation of any traffic
+impacts.
+
+ (R) The permit will be subject to review and
+approval by the Board, the Chair or the Director
+of the Department of Community Services de-
+pending on factors such as the size of the event,
+the time of the event or whether alcohol is to be
+used during the event.
+
+ (S) The county will establish the fees and
+rates for implementing this permit program by
+resolution.
+(Ord. 1264, Amended, 10/25/18; Ord. 1061, Amended,
+05/26/2005, eff. 7/1/2005; Ord. 1008, Added, 02/27/2003,
+eff. 03/29/2003)
+
+§ 29.703 DEFINITIONS.
+
+ For the purpose of this subchapter, the follo wing
+definitions will apply unless the context requires a dif-
+ferent meaning:
+
+ ANNUAL EVENT.   A recurring event that has
+previously complied with requirements for a permit as
+set forth in this ordinance.
+
+ BRIDGE.  One of the Willamette River Bridges
+operated and maintained by Multnomah County,
+namely the Sellwood, Broadway, Burnside, Ha w-
+thorne, Morrison or the Sauvie Island.
+
+ COMPLETE CLOSURE OF LANE OR SIDE-
+WALK: The exclusion of the public from any veh icle
+or sidewalk for any period of time.
+
+ COMPLETE CLOSURE EVENT.   Any special
+event that will require complete closure to the public
+of motor vehicle access on any bridge surface right -of-
+way for a period of time that is either:
+
+ (A) A continuous 30 minutes or longer in length;
+or
+
+ (B) Any proposed combination or series of i nter-
+mittent complete public motor vehicle access cl osures,
+which in the judgment of the county bridge manager
+pose a significant risk of substantial public inconven-
+ience or disruption.
+
+ COUNTY CHAIR.  The Chair of the Multnomah
+County Board of Commissioners or the Chair's design-
+ee.
+
+ DIRECTOR.  The Director of the County's D e-
+partment of Community Services or the Director's de-
+signee.
+
+ EVENT MONITOR .  Persons provided by  the
+sponsor who are stationed at the location of the sp ecial
+event to assist in the safe and orderly staging of the
+event.
+
+ FILMING USE.   A special event, which uses a
+bridge for the production of a film, video, or any other
+visual or audio recording.
+ Chapter 29 - Building Regulations  33
+ PRIMARY BRIDGE USE .  The provision of pe-
+destrian, bicycle and vehicle access on the bridge's sur-
+face right -of-way; and the county's maintenance and
+operation of the bridge including the coordination of
+river traffic under the bridge with the surface use in
+compliance with all applic able maritime laws and reg-
+ulations.
+
+ SIDEWALK.  Any multi -use pathway designed
+for both bicycle and pedestrian use or a sidewalk.
+
+ SPECIAL EVENT  or EVENT.  Any temporary
+activity held on a bridge, which significantly inte rferes
+with the normal operation and maintenance of the
+structure or the normal vehicular or pedestrian traffic;
+or which employs a bridge in a use outside of its pri-
+mary use. PROVIDED any small temporary pedestri-
+an, bicycle or motor vehicle parade or pr ocession con-
+ducted and contained solely within a bridge sidewalk
+or vehicle lane, and which does not otherwise exclude
+the public's access to those areas and does not require
+consent of the US Coast Guard, is not a special event
+under this subchapter and does not require a permit.
+
+ SPECIAL EVENT PERMIT.  A permit issued by
+the county to a sponsor to conduct a special event.
+
+ SPECIAL EVENT VENUE .  The confines of a
+special event as defined in a special event permit.
+
+ SPONSOR.  The person, entity or authorized
+agent thereof, responsible for all aspects and liabi lity
+of planning, organizing and conducting the sp ecial
+event including applying for, canceling, or r equesting
+changes to the event.
+
+ UNDUE HARDSHIP.   Is established where the
+event requires a protracted complete closure or several
+intermittent or peak hours complete closures of a
+bridge, that would subject residents, businesses and
+property owners within a designated radius of the
+bridge to unreasonable inconvenience or disru ption of
+their regular travel routes.
+
+ UNDUE INTERFERENCE WITH PRIMARY
+USE.  Is established where the event requires a pr o-
+tracted complete closure of the bridge, vehicle lane or
+sidewalk; or several intermittent or peak traffic hours
+complete closures of those areas such that the even t
+would unreasonably disrupt the operation of the bridge
+for its primary use.
+(Ord. 1061, Amended, 05/26/2005, eff. 7/1/2005; Ord. 1008, Add-
+ed, 02/27/2003, eff. 03/29/2003)
+
+§ 29.704 SPECIAL EVENT PERMIT
+REQUIRED.
+
+ (A) Except as provided in this subchapte r, a spe-
+cial event permit is required to stage and conduct a
+special event.
+
+ (B) No special event permit which requires the
+closure or use of the roadway or sidewalks on a bridge
+will be effective unless the sponsor obtains written au-
+thorization from the City of Portland or the state to
+close or use the city or state streets, highways, bike
+lanes, sidewalks or ramps as appr opriate that directly
+access the bridge.
+
+ (C) It is unlawful for any person to promote or
+manage any pending special event for which a  special
+event permit has not been issued, unless such person
+engaging in those activities clearly indicates in any ad-
+vertising, promotional materials, media releases or any
+other similar communication whether oral, written, or
+visual, that the event is st ill pending approval by the
+county.
+(Ord. 1008, Added, 02/27/2003, eff. 03/29/2003)
+
+§ 29.705 CATEGORIES OF SPECIAL
+EVENTS, CONDITIONS.
+
+ (A) Non-exclusive sidewalk or vehicle lane use for
+a celebration, procession, athletic event or other use, is
+not a s pecial event and does not require a permit, de-
+posit or cost recovery or insurance, if:
+
+  (1) Held and fully contained on the sid ewalk
+or vehicle lane;
+
+  (2) 200 people or less or for a filming use;
+
+  (3) All traffic control laws obeyed;
+
+  (4) No county support or services required;
+
+  (5) No closure of bridge to river traffic;
+34                                              Multnomah County – Chapter 29 - Building Regulations
+  (6) No exclusion of the general public from
+sidewalk or the lane; and
+
+  (7) No attachment of banners, signs,
+equipment or other objects to the bridge; or plac e-
+ment of people o r equipment to exceed bridge load
+ratings; or any alteration of any kind to the bridge.
+
+Provided that, should the proposed non -exclusive
+use under this subsection not comply with one or
+more of the above conditions, a permit, deposit, cost
+recovery and insurance may be required.
+
+ (B) Complete sidewalk closure event for a cel e-
+bration, procession, athletic event or other use; r e-
+quires a permit and is subject as applicable to the
+following conditions:
+
+  (1) Must be held and fully contained within
+area designated on sidewalk;
+
+  (2) More than 200 people or for a filming
+use;
+
+  (3) Minimal county support and services
+may be required dependent upon size of the event,
+no alcohol service or consumption allowed;
+
+  (4) Plans for crowd control including event
+monitors, security, fire safety and emergency med i-
+cal services may be required dependent upon size of
+the event;
+
+  (5) Deposit, cost recovery, liability insu r-
+ance and indemnification may be required depen d-
+ent upon size of the event;
+
+  (6) U.S. Coast Guard’s consent required for
+closure of bridge to river traffic;
+
+  (7) Any proposed use of the bridge invol v-
+ing any of the following must comply with all cou n-
+ty requirements relating to traffic control, traffic
+safety and bridge integrity including but not li mited
+to load rating limits:
+
+   (a) The attachment of banners, signs,
+equipment or other objects to the bridge, or any a l-
+teration to the bridge; or
+   (b) The placement or grouping of pe o-
+ple, animals, vehicles, equipment or any other o b-
+jects on the bridge;
+
+ (C) Complete closure of vehicle lane(s) but not
+all vehicle lanes, for a celebration, procession, at h-
+letic event or other use; requires a permit and is sub-
+ject as applicable to the following conditions:
+
+  (1) Must be held and fully contained within
+designated traffic lane(s);
+
+  (2) More than 200 people or a filming use;
+
+  (3) County support required, no alcohol
+service or consumption allowed;
+
+  (4) Plans for: crowd control including event
+monitors, security, traffic control, fire safety and
+emergency medical services are required;
+
+  (5) Dependent on size of event a deposit
+and cost recovery may be required;
+
+  (6) Liability insurance and indemnific ation
+required;
+
+  (7) U.S. Coast Guard’s consent required for
+closure of bridge to river traffic;
+
+  (8) Any proposed use of the bridge invol v-
+ing any of the following must comply with all cou n-
+ty requirements relating to traffic control, traffic
+safety and bridge integrity including but not li mited
+to load rating limits:
+
+   (a) The attachment of banners, sig ns,
+equipment or other objects to the bridge, or any a l-
+teration to the bridge;
+
+   (b) The placement or grouping of pe o-
+ple, animals, vehicles, equipment or any other o b-
+jects on the bridge;
+
+ (D) Complete closure event for a celebration,
+procession, athlet ic event or other use requires a
+permit and is subject as applicable to the following
+conditions:
+ Chapter 29 - Building Regulations  35
+  (1) Must be contained within area designa t-
+ed on permit;
+
+  (2) 300 or more people or for a filming use;
+
+  (3) County support required;
+
+  (4) Plans as nece ssary for: crowd control
+including event monitors, security, traffic control,
+fire safety and emergency medical services are r e-
+quired;
+
+  (5) Deposit, cost recovery, liability insu r-
+ance and indemnification required;
+
+  (6) U.S. Coast Guard’s consent required for
+closure of bridge to river traffic;
+
+  (7) Service and consumption of alcohol is
+subject to county Board approval at its discretion;
+
+  (8) Any proposed use of the bridge invol v-
+ing any of the following must comply with all cou n-
+ty requirements relati ng to traffic control, traffic
+safety and bridge integrity including but not li mited
+to load rating limits:
+
+   (a) The attachment of banners, signs,
+equipment or other objects to the bridge or any a l-
+teration to the bridge; or
+
+   (b) The placement or grou ping of pe o-
+ple, animals, equipment, vehicles or any other o b-
+jects on the bridge,
+
+  (9) The Sellwood and the Sauvie Island
+Bridges are not available for complete closure
+events.
+(Ord. 1008, Added, 02/27/2003, eff. 03/29/2003)
+
+§ 29.706 SPECIAL EVENT PERMIT
+APPLICATION DEADLINES.
+
+ (A) Except as otherwise provided in subsection
+(B), a completed permit application for a special
+event must be submitted to the county Transporta-
+tion Program as follows:
+  (1) Annual event  applications that require
+US Coast Guard  consent must be filed with the
+county no later than January 31 of the event year, or
+45 days before the event, whichever date is earlier.
+
+  (2) Any other special event applications
+that require US Coast Guard consent must be filed
+with the county no late r than 45 days prior to the
+event.
+
+  (3) For any other annual event subject to
+Board review under MCC 29.707, applications must
+be filed with the county no later than January 31 of
+the event year, or no later than 30 days prior to the
+event, whichever is earlier.
+
+  (4) For any other special event subject to
+Board review under MCC 29.707, applications must
+be filed with the county no later than 30 days prior
+to the event.
+
+  (5) For all other special events, applications
+must be submitted no later than 15 days prior to the
+event.
+
+ (B) The county may accept late applications for
+special event permits, where good cause is shown
+for the expedited review; there is no conflict with
+river use requirements under federal law and the
+county has the available staff and resources to pe r-
+form the review in a shorter time than as set forth in
+subsection (A).
+(Ord. 1264, Amended, 10/25/2018; Ord. 1008, Added,
+02/27/2003, eff. 03/29/2003)
+
+§ 29.707 PERMIT APPLICATION REVIEW
+PROCEDURE.
+
+ (A) All permits for proposed specia l events that
+involve either:
+
+  (1) A complete closure event of four hours
+or longer in length, except any such closure during
+the hours of 3 AM to 12 PM on a Sunday; or
+
+  (2) The sale or consumption of alcoholic
+beverages on the bridge;
+
+will be reviewed by the Board.
+36                                              Multnomah County – Chapter 29 - Building Regulations
+ (B) All permits for a complete closure event
+outside the hours of 3 AM to 12 PM (noon) on a
+Sunday and less than 4 hours in length or for an
+event that requests the complete closure of a
+lane or sid ewalk during peak traffic hours (i.e.
+weekdays: 6:30 AM to 9 AM and 4  PM to 6:30
+PM), will be reviewed by the Chair.
+
+ (C) Any special event permit application
+not covered under subsections (A) and (B) will
+be reviewed by the Director.
+
+ (D) Upon the receipt of a complete applica-
+tion as provided in § 29.708, the LUTP will:
+
+  (1) Within two working days, deter-
+mine whether the proposed event, based on the
+category of the event under § 29.705, requires a
+deposit under § 29.712 to cover the additional
+costs; and
+
+  (2) If a deposit is necessary, contact the
+sponsor by telephone or fax no later than the
+next working day and request the amount from
+the sponsor.  Upon receipt of the deposit or de-
+termination it is not necessary:
+
+   (a) Schedule the permit appl ication
+on the Board’s regular agenda for deliberation at
+its next available regularly scheduled public
+meeting,
+
+   (b) Forward the permit applic ation
+to the Chair’s office for review; or
+
+   (c) Forward the permit applic ation
+to the Director’s office for review,
+
+  (3) Contact the U.S. Coast Guard to ini-
+tiate the consent review if the permit application
+requests bridge closure to river traffic, and
+
+  (4) On any pending completed special
+event application prepare a written report to the
+Board, the Chair or the Director as applicable,
+regarding the proposed special event and its po-
+tential impact on the structural integrity of the
+bridge and any foreseen conflicts with previous-
+ly scheduled activities or construction projects.
+ (E) If the sponsor does not submit the de-
+posit within five working days of the date the
+county initially requested the deposit, all further
+review of the application will cease and the ap-
+plication will be deemed denied.
+
+ (F) The sponsor of the proposed special
+event to be heard by the Board is required to at-
+tend the Board meeting to explain the event and
+to answer any questions of the Board and or the
+public regarding the event.  If the sponsor does
+not attend the meeting, the Board may summari-
+ly deny the application without further review.
+
+ (G) The Board by resolution will a pprove,
+approve with contingencies, amend or deny any
+permit.  The Chair or the Director, by a written
+decision will approve, approve with contingen-
+cies, amend or deny any permit.
+
+ (H) The Board, the Chair or the Director as
+applicable will review the p ermit and the pro-
+posed special event for compliance with all the
+criteria as set forth in § 29.708.
+
+ (I) No complete closure event of either the
+Sauvie Island Bridge or the Sellwood Bridge
+will be authorized under this subchapter.
+
+ (J) The Chair or the D irector will complete
+review of a permit within three working days of
+receipt from the  County Transportation Pro-
+gram.
+
+ (K) Notwithstanding subsection 29.707 (A),
+the special event held every June and commonly
+known as the “Rose Festival Grand Floral Pa-
+rade” will not be subject to prior Board approval
+under this section to obtain a permit.
+
+ (L) Any decision to approve, deny, amend
+or revoke any permit application or permit made
+by the Director, the Chair or the Board, is a final
+county decision and any fur ther review must be
+to the State Circuit Court.
+(Ord. 1264, Amended, 10/25/2018; Ord. 1008, Added,
+02/27/2003, eff. 03/29/2003)
+ Chapter 29 - Building Regulations  37
+§ 29.708 PERMIT APPLICATION REVIEW
+CRITERIA.
+
+ (A) The sponsor must submit a completed sp e-
+cial event permit application to the county transpor-
+tation program no later than the date required by §
+29.706 for an appl ication to be accepted by the
+county.  The county will issue a special event permit
+if the county d etermines that the application estab-
+lishes compliance with all requireme nts and appli-
+cable criteria as set forth in subsection (B) and (C)
+respectively.
+
+ (B) Each permit application must be submitted
+with the application fee and must contain:
+
+  (1) The sponsor’s name, address, tel ephone
+number and if available, the sponsor’s  facsimile
+number or email address;
+
+  (2) The identification of the bridge(s)to be
+used, including a description of the portion of the
+bridge, including traffic lanes and sidewalks, that is
+to be used for the special event;
+
+  (3) The date, starting and ending time of
+the proposed special event, including an estimate of
+time necessary for set up and take down of equi p-
+ment used in the event;
+
+  (4) The date the application is received by
+the County Transportation Program;
+
+  (5) Identification of other go vernment
+agencies if any, who must be notified or consent to
+the special event.
+
+ (C) In addition to the requirements set forth in
+subsection (B), the application will be reviewed for
+compliance with the following criteria to the extent
+applicable:
+
+  (1) The event will be conducted in compl i-
+ance with all applicable laws in a safe and orderly
+manner, will not damage county owned or mai n-
+tained real or personal property; and is in compl i-
+ance with county requirements relating to traffic
+control, traffic safet y and bridge integrity including
+but not limited to load rating limits.
+
+  (2) County resources, if required, are avai l-
+able to stage and conduct the event;
+
+  (3) The event will not conflict with prev i-
+ously scheduled or approved construction, maint e-
+nance or other activities;
+
+  (4) The event will not cause undue interfe r-
+ence with the bridge for its primary use or cause u n-
+due hardship to those residences, businesses and
+property owners within a one mile radius of the
+bridge;
+
+  (5) The sponsor has agreed to defend, hold
+harmless and indemnify the county and has ad e-
+quate insurance to cover all potential liability to
+honor that obligation;
+
+  (6) The sponsor has provided adequate
+plans for crowd control, traffic control, security, fire
+safety and emergency medical services;
+
+  (7) The sponsor has paid the requisite fee
+and if applicable the deposit;
+
+  (8) The event will not cause or contribute to
+a violation of any applicable federal, state or local
+environmental protection law or regulation, inclu d-
+ing but not limited to the Endangered Species Act or
+the Clean Water Act, as established by a compr e-
+hensive environmental analysis of the proposed
+event and its impact on the river if appropriate;
+
+  (9) That any hazardous substances, hazar d-
+ous materials or hazardous waste used, stored or r e-
+leased in anyway in connection with the event will
+be handled in a manner consistent with any applic a-
+ble laws and regulations; including but not limited
+to any local, state or federal law or regulation rela t-
+ing to the storage, relea se, spill or discharge of ha z-
+ardous substances, hazardous material or hazardous
+waste, as defined under any applicable local, state or
+federal law or regulation.
+
+ (D) The county may deny the issuance of a sp e-
+cial event permit if at any time the county det er-
+mines that:
+
+  (1) The sponsor fails to provide all the i n-
+formation required under § 29.708 (B);
+38                                              Multnomah County – Chapter 29 - Building Regulations
+  (2) The special event cannot be co nducted
+in compliance with one or more of the applicable
+criteria set forth at § 29.708 (C);
+
+  (3) The sponsor fails t o comply with the
+terms and conditions of the permit application;
+
+  (4) The sponsor within the past 24 months
+has failed to conduct a previously authorized special
+event in accordance with the law or the terms of a
+permit;
+
+  (5) If the sponsor was to obt ain the wri tten
+approval of any other public agency whose jurisdi c-
+tion includes or is impacted by the special event in
+advance of the county issuing the permit and has not
+obtained the approval or the previously granted a p-
+proval of the other public agency has been wit h-
+drawn or revoked; or
+
+  (6) An emergency has been declared purs u-
+ant to MCC §§ 27.300 et seq. that will impact the
+use of the bridge; or the bridge is subject to unfor e-
+seen emergency repair or has been declared unsafe
+for any reason by the county bridge manager.
+
+(E) (1) Following receipt of a completed permit
+application for a four hour or longer co mplete clo-
+sure event outside the hours of 3 AM to 12 PM
+(noon) on a Sunday or a peak traffic hours event as
+provided under § 29.707, the county’s Pu blic A f-
+fairs Office will notify by electronic mail, neighbor-
+hood and business associations sanctioned by the
+City of Por tland or otherwise recognized and l ocat-
+ed within a one mile radius of the east and west side
+terminus of the specified bridge. This noti ce will in-
+clude the dates and hours of the requested closure,
+explanation of how to submit comments or other
+participation before the Board or the Chair, prior to
+the decision on the application, and the phone num-
+ber and name of a county contact person for  more
+information.
+
+  (2) Following a final decision to approve a
+complete closure event or a peak traffic hours event
+as provided under § 29.707, the county’s Public A f-
+fairs Office will notify by electronic mail, neighbo r-
+hood and business associations sa nctioned by the
+City of Portland or otherwise recognized and loca t-
+ed within a one mile radius of the specified bridge
+of the decision.  This notice will include the dates
+and hours of the approved closure, the bridge to be
+closed, and the phone number and name of a county
+contact person for more information.
+
+  (3) Prior to the complete closure event, the
+Public Affairs Office will issue a news release to l o-
+cal news media and emergency services, including
+the dates and hours of the closure and the bridge to
+be closed
+(Ord. 1264, Amended, 10/25/2018; Ord. 1061, Amended,
+05/26/2005, eff. 7/1/2005; Ord. 1008, Added, 02/27/2003, eff.
+03/29/2003)
+
+§ 29.709 CONTENTS OF SPECIAL EVENT
+PERMIT.
+
+ A special event permit will contain the follo w-
+ing information, terms or conditions, as applicable:
+
+ (A) Identification of the bridge; including a d e-
+scription of the portion of the bridge, including tra f-
+fic lanes and sidewalks, that is to be used for the
+special event
+
+ (B) The date, starting time and ending time of
+the special event;
+
+ (C) The time required for any and all set up,
+break down, and clean up related to the special
+event;
+
+ (D) The name, address and phone number of at
+least one person authorized to act for or on behalf of
+the sponsor.
+
+ (E) The number of persons, number and type of
+animals, and vehicles, the number of bands, other
+musical units and equipment capable of producing
+sound, if any, and limitation thereon pertaining to
+noise abatement;
+
+ (F) The plans for traffic control, crowd control,
+security, fire sa fety and emergency medical se r-
+vices, each subject to approval by the county;
+
+ (G) Approval from the United States Coast
+Guard for the closure of the bridges to river traffic;
+ Chapter 29 - Building Regulations  39
+ (H) The specifications, plans and location of any
+temporary structures, equipment, signs or ba nners to be
+located on or attached in an authorized manner to the
+bridges;
+
+ (I) The conditions and restrictions relating to the
+use, storage and disposition of hazardous su bstances,
+hazardous materials or hazardous waste as those terms
+are defined in any applicable local, state or federal law
+or regulation;
+
+ (J) The number and location of event monitors and
+other support personnel to be provided by the sponsor;
+
+ (K) The conditions or restrictions on the use of
+alcoholic beverages and authorization for and conditions
+of the exclusive control or regulation of ve ndors and
+related sales activity by the sponsor during the special
+event;
+
+ (L) Confirmation that county has received any and
+all fees as required by § 29.712.
+
+ (M) Any and all envi ronmental protection a ssess-
+ments, plans, reports or similar documents for which the
+sponsor was required by the county or other government
+agency to obtain to conduct the Event.
+
+ (N) Adequate provisions for clean -up and mainte-
+nance costs.
+
+ (O) Any and al l written consents or permits as
+required by the City of Portland, or any other go vern-
+ment agency with regulatory authority over the special
+event location or activities;
+
+ (P) A copy of written notice sent to Tri-met;
+
+ (Q) Indemnification of county by sp onsor with
+respect to any claims, liabilities, suits, damages, losses,
+expenses or costs, including but not limited to attorney
+fees and other legal costs relating to or arising out of the
+special event or activities of the sponsor in connection
+with the special event.
+
+ (R) Proof of public liability insurance.
+(Ord. 1008, Added, 02/27/2003, eff. 03/29/2003)
+§ 29.710 INSURANCE REQUIREMENTS.
+
+ (A) The sponsor of a complete closure event
+must provide public liability insurance coverage for
+the special event  and sponsor’s activities, including
+volunteers and all other participants in connection
+with the special event.  Sponsors of other events
+may be required to provide insurance based on the
+category and size of the event as provided under §
+29.705.  Such in surance must name Multnomah
+County, its officers, employees, and agents, as an
+additional insured.  Insurance coverage must be
+maintained for the duration of the special event.
+Notice of cancellation must be provided immediat e-
+ly to the county and with a m inimum of 30 days no-
+tice prior to the termination of the policy.
+
+ (B) The sponsor’s current effective insurance
+policy, or copy, along with necessary endorsements,
+must be filed with the county at least 15 calendar
+days before the start of the special eve nt, unless the
+county for good cause modifies the filing requir e-
+ment.
+(Ord. 1008, Added, 02/27/2003, eff. 03/29/2003)
+
+§ 29.711 REVOCATION OF SPECIAL
+EVENT PERMIT.
+
+ (A) The Board may revoke a special event pe r-
+mit if at any time it is determined:
+
+  (1) That one or more of the grounds for d e-
+nial of issuance of a permit as set forth at § 29.708
+(D) (1)-(6) is or are applicable;
+
+  (2) The event is being conducted in viol a-
+tion of any condition of the special event permit, i n-
+cluding but not limited to any disc ontinuance for
+any reason of insurance coverage for the event;
+
+  (3) The event sponsor has failed to obtain
+any other permit, written consent or similar formal
+approval as required by another government agency
+with jurisdiction over the event location or activi-
+ties;
+
+  (4) The special event permit was issued in
+error or contrary to law, or
+40                                              Multnomah County – Chapter 29 - Building Regulations
+  (5) The sponsor has failed to pay upon re a-
+sonable demand any additional county costs i n-
+curred pursuant to the permit as provided under §
+29.712.
+
+ (B) Except as prov ided in § 29.711(C), notices
+of revocation will be in writing and specifically set
+forth the reasons for the revocation.
+
+ (C) If there is an emergency requiring immed i-
+ate revocation of a special event Permit, the county
+may notify the sponsor orally of th e revocation, but
+will issue a notice of revocation as provided in §
+29.711 (B) as soon as reasonably practical therea f-
+ter.
+
+ (D) The Chair or the Director are authorized to
+act in lieu of the Board to revoke any previously a p-
+proved permit pursuant to subs ections (A) -(C) of
+this section.
+(Ord. 1008, Added, 02/27/2003, eff. 03/29/2003)
+
+§ 29.712 SPECIAL EVENT PERMIT
+APPLICATION FEE, DEPOSIT
+AND COST RECOVERY.
+
+ (A) The Board by resolution will establish a
+permit application fee and a minimum deposit
+amount.  The county will draw from the deposit to
+cover the costs identified in this section on an actual
+cost incurred basis.
+
+ (B) The deposit will be required if the County
+Transportation Program  estimates, based upon ini-
+tial review of the permit a pplication, that the event
+is likely to require any of the following:
+
+  (1) More than 10 hours of county admini s-
+trative services in preparation for and during the
+event, including but not limited to costs incurred
+for: document drafting, contacting and or meeting
+with the U.S. Coast Guard or other government
+agencies; providing expanded public notice; legal
+services; reviewing plans for traffic control, crowd
+control, fire safety, security or emergency medical
+services; conducting or attending special community
+meetings or similar activities;
+
+  (2) County personnel will need to be i n-
+volved or its equipment used in the set-up or the op-
+eration of the event;
+  (3) County personnel will need to be i n-
+volved or its equipment used in the removal of a l-
+terations or attachments; clean-up, or repair of coun-
+ty facilities because of the special event; or
+
+  (4) Any other extraordinary costs directly
+attributable to the staging and conducting of the
+special event.
+
+ (C) If at any time the county determines any de-
+posit previously submitted is inadequate to cover the
+county’s charges or costs, any additional funds r e-
+quired, or a reasonable estimate thereof, will be
+billed and collected from the sponsor.  The county
+reserves the right to stop any further review of an
+application, deny t he issuance of the permit or r e-
+voke an existing permit if the sponsor fails to depos-
+it any outstanding costs and charges identified and
+billed to sponsor under this section.
+
+ (D) If the sponsor fails to comply with any obl i-
+gations imposed upon it under th is subchapter and
+the county incurs any costs or expenses, directly r e-
+lating to sponsor’s failure to comply, the sponsor
+will be billed for actual county costs incurred to
+remedy or mitigate sponsor’s failure to comply.
+
+ (E) If after the special event ha s occurred or is
+cancelled, there is a surplus in the sponsor’s deposit
+account and the county determines that there are no
+further costs to be billed or charged to the sponsor in
+connection with the special event, the county will
+refund to the sponsor, su bject to any administrative
+processing fees the remaining balance of the deposit
+account.
+(Ord. 1264, Amended, 10/25/2018; Ord. 1008, Added,
+02/27/2003, eff. 03/29/2003)
+
+§ 29.713 INTERFERENCE WITH A
+SPECIAL EVENT PROHIBITED.
+
+ It is unlawful for any perso n to interfere with a
+permitted special event.  The following acts, among
+others, are prohibited by this section, when done
+with the intent to cause interference or without the
+permission of the sponsor:
+
+ (A) Blocking, obstructing or impeding the pa s-
+sage of participants, vehicles or animals in the sp e-
+cial event route.
+ Chapter 29 - Building Regulations  41
+ (B) Walking or running; driving a vehicle; ri d-
+ing a bicycle or skateboard through, between, with
+or among participants, vehicles or animals.
+
+ (C) Dropping, throwing, rolling or flying any
+object toward, among or between participants, veh i-
+cles or animals.
+
+ (D) Throwing, squirting, dumping or dropping
+any liquid or gaseous substance on, toward, among
+or between participants vehicles or animals.
+
+ (E) Grabbing at; taking hold of; hitting, pul ling
+or pushing any participant, vehicle or animal or any-
+thing in the possession of any participant.
+
+ (F) Vending or offering for sale any food or
+merchandise within the special event area of the
+bridge during the time the event is to be conducted
+without first having obtained the written permission
+of the sponsor.
+(Ord. 1008, Added, 02/27/2003, eff. 03/29/2003)
+
+§ 29.714 CANCELLATION, RECOVERY OF
+COSTS.
+
+ If an event is cancelled or postponed by the
+sponsor, all costs the county has incurred in conne c-
+tion with the event are collectible from the sponsor
+and may be deducted from the deposit.
+(Ord. 1008, Added, 02/27/2003, eff. 03/29/2003)
+
+§ 29.999 PENALTY.
+
+No person shall violate any requirement of
+Bridge Special Events §§ 29.700 et. seq. or rule
+adopted under it. Each violation is subject to a civil
+penalty not to exceed $500.00.  It is a separate viola-
+tion for each day during any portion of which a vio-
+lation of any provision of this subchapter or rule
+adopted under it occurs.
+(Ord. 1126, Amended, 12/11/2008; Ord. 1008, Amended,
+02/27/2003, eff. 03/29/2003; ‘ 90 Code, § 11.60.990,
+07/01/1998; Ord. 162, passed, 04/20/1978)
+42                                              Multnomah County – Chapter 29 - Building Regulations

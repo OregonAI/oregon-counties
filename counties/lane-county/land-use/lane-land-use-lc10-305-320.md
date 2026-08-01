@@ -1,0 +1,579 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lane-county
+id: lane-land-use-lc10-305-320
+title: 'LC10.305 320'
+doc_type: ordinance
+citation: 'LC10.305 320'
+authority_level: county_ordinance
+issuing_body: 'Lane County Board of Commissioners'
+source_url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.305_320.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 318697163fab91d0225de9551ff6e57df6f3c336e298ea49d5c35276e030717a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [lane-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lane County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# LC10.305 320 (LC10.305 320)
+
+## At a glance
+
+LC10.305 320 — land use of Lane County. 12 pages.
+
+## Full text
+
+Lane Code
+CHAPTER 10 CONTENTS
+
+June 2020 10-i
+NONCONFORMING LOTS, NONCONFORMING USES  OF LAND,
+NONCONFORMING STRUCTURES AND NONCONFORMING USES OF
+STRUCTURES AND PREMISES
+10.305-05 Purpose.
+10.305-10 Nonconforming Lots of Record.
+10.305-15 Nonconforming Uses of Land (or Land with Minor Structures).
+10.305-20 Nonconforming Structures.
+10.305-25 Nonconforming Uses of Structures or of Structures and Premises in
+Combination.
+10.305-30 Repairs and Maintenance.
+10.305-35 Uses Under Conditional Use or Temporary Permit Provisions Not
+Nonconforming Uses.
+10.305-40 Public Land.
+PROCEDURES FOR ZONING, REZONING AND AMENDMENTS TO
+REQUIREMENTS
+10.315-05 Purpose.
+10.315-20 Criteria.
+10.315-35 Initiation/Application.
+10.315-40 Moratorium on Permits and Applications-Legislative Matters.
+10.315-55 Planning Commission Public Hearing and Notice--Legislative
+Matters.
+10.315-57 Review Procedures.
+10.315-60 Action by the Board of Commissioners.
+10.315-65 Order of Intent to Rezone (also includes Rezoning of Specific
+Properties.
+10.315-90 Official Zone District Ordinance and Zoning Maps.
+10.315-92 Treatment of Vacated Property.
+10.315-93 Error in Legal Description.
+CONDITIONAL USE PERMITS
+10.320-05 Purpose.
+10.320-15 Conditional Uses.
+10.320-20 Criteria.
+10.320-30 Conditions.
+10.320-35 Application.
+10.320-55 Review Procedure.
+10.305-05 Lane Code 10.305-15
+June 16, 2020 10-721 LC10.305_320
+NONCONFORMING LOTS, NONCONFORMING USES OF LAND,
+NONCONFORMING STRUCTURES AND NONCONFORMING USES OF
+STRUCTURES AND PREMISES
+
+10.305-05 Purpose.
+Within the Districts established by this chapter or amendments that may later be adopted,
+there exist lots, structures and us es of land and structures which were lawful before this
+chapter was passed or amended, but which would be prohibited, regulated or restricted
+under the terms of this chapter or future amendments.
+ It is the intent of this chapter to permit these nonconform ities to continue until
+they are removed or abandoned, but not to encourage their survival.  Such uses are
+declared by this chapter to be incompatible with permitted uses in the Districts involved.
+It is further the intent of this chapter that nonconformi ties shall not be enlarged upon,
+expanded or extended, not be used as grounds for adding other structures or uses
+prohibited elsewhere in the same District.
+ To avoid undue hardship, nothing in this chapter shall be deemed to require a
+change in the plans,  construction or designated use of a building, structure or use for
+which a building permit in accordance with the County Building Code (Chapter 11 of this
+Code) has been legally issued prior to the effective date of adoption or amendment of this
+chapter, except that applications for extension of a building permit shall not be approved
+to exceed a time of one year from the date of the adoption or amendment.  (Revised by
+Ordinance No. 13-72, Effective 7.21.72)
+
+10.305-10 Nonconforming Lots of Record.
+In any D istricts, except the EFU, A -1, A-2, FM, F -1, F-2 and FF Districts where use of
+pre-existing parcels is provided in a different manner, in which single -family dwellings
+or mobile homes are allowed by other provisions of this chapter, a single-family dwelling
+or mobile home and customary accessory buildings may be erected on any single lot of
+record otherwise conforming to the requirements of all applicable County laws at the
+effective date of adoption or amendment of this chapter making the lot nonconforming .
+A single lot of record shall be either any tract of land existing as a unit or contiguous
+units of land under single ownership; any lot or parcel in an approved subdivision or
+partition; a parcel of land upon which a subsurface sewage disposal system ha s been
+approved and installed pursuant to a permit issued by Lane County; each parcel of land
+appurtenant to such subsurface sewage disposal system shall constitute a single lot of
+record.  This provision shall apply even though such lot fails to meet the requirements for
+an area or width, or both.  Other regulations for the District in which such lot is located.
+(Revised by Ordinance No. 13- 72, Effective 7.21.72; 12- 76, 12.31.76; 7-77, 8.12.77; 1-82, As Amended,
+4.16.82)
+
+10.305-15 Nonconforming Uses of Land (or Land with Minor Structures).
+Where, at the effective date of adoption or amendment of this chapter, lawful use of land
+exists that is made no longer permissible under the terms of this chapter as enacted or
+amended, and where such use involves no individual structure with a replacement cost
+exceeding $1,000, such use may be continued, so long as it remains otherwise lawful,
+subject to the following provisions:
+ (1) No such nonconforming use shall be enlarged or increased, nor extended to
+occupy a gre ater area of land than was occupied at the effective date of adoption or
+amendment of this chapter.
+10.305-20 Lane Code 10.305-25
+June 16, 2020 10-722 LC10.305_320
+ (2) No such nonconforming use shall be moved in whole or in part to any
+other portion of the lot or parcel occupied by such use at the effective date of ad option or
+amendment of this chapter.
+ (3) If any such nonconforming use of land ceases for any reason for a period
+of more than one year, any subsequent use of such land shall conform to the regulations
+specified by this chapter for the district in which land is located.
+ (4) No additional structure not conforming to the requirements of this chapter
+shall be erected in connection with such nonconforming use of land.
+ (5) Additional structures for fencing, or otherwise visually improving a
+nonconforming use of land which will not extend the size, area, or operation of the
+nonconforming use of land and will not materially prolong its economic life, may be
+permitted subject to approval of a Site Review Permit as provided in LC 10.335 below.
+(Revised by Ordinance No. 13-72, Effective 7.21.72; 12-76, 12.31.76)
+
+10.305-20 Nonconforming Structures.
+Where a lawful structure exists at the effective date of adoption or amendment of this
+chapter that could not be built under the terms of this chapter as adopted or later amended
+by reason of restrictions on area, lot coverage, height, yards, or other characteristics of
+the structure or its location on the lot, such structure may be continued so long as it
+remains otherwise lawful, subject to the following provisions:
+ (1) No such structure may be enlarged or altered in a way which increases its
+nonconformity.
+ (2) Should such structure be destroyed by any means to an extent of more than
+50 percent of its replacement cost at time of destruction, it shall not be reconstructe d,
+except in conformity with the provisions of this chapter. (Revised by Ordinance No. 13- 72,
+Effective 7.21.72; 12-76, 12.31.76)
+
+10.305-25 Nonconforming Uses of Structures or of Structures and Premises in
+Combination.
+If a lawful use of a structure, or of structure and premises in combination, exits at the
+effective date of adoption or amendment of this chapter that would not be allowed in the
+district under the terms of this chapter, the lawful use may be continued so long as it
+remains otherwise lawful, subject to the following provisions:
+ (1) No existing structure devoted to a use not permitted by this chapter in the
+district in which it is located shall be enlarged, extended, constructed, reconstructed,
+moved, or structurally altered, except as allowe d in this section and except a structure
+may be moved out of an existing or proposed street right-of-way to another portion of the
+parcel or lot upon which it is located.
+ (2) Any nonconforming use may be extended throughout any parts of a
+building which were manifestly arranged or designed for such use at the time of adoption
+or amendment of this chapter, but no such use shall be extended to occupy any land
+outside such building.
+ (3) If no structural alterations are made, any nonconforming use of a struct ure,
+or structure and premises, may be changed to another nonconforming use in the same
+manner and procedure provided for Temporary Use Permits in LC 10.325 below if it is
+determined the character and nature of the proposed use will contribute to less
+incompatibility between the existing nonconforming structure, or structure and premises,
+and the uses and structures existing in the surrounding vicinity.
+ (4) Remodeling, additions or enlargements of existing single-family dwellings,
+duplexes, churches and schools may be made if otherwise conforming to the
+10.305-25 Lane Code 10.305-25
+June 16, 2020 10-723 LC10.305_320
+requirements in effect for the district in which located pertaining to height, yard, setback,
+coverage, and vision clearance.
+ (5) Any structure, or structure and land in combination, in or on which a
+nonconforming use is superseded by a permitted use, shall thereafter conform to the use
+regulations for the district in which such structure is located, and the nonconforming use
+may not thereafter be resumed.
+ (6) Additional structures for fencing, covering, or  visually improving a
+nonconforming use of a structure, or structure and premises in combination, which will
+not extend the size, area, or operation of the nonconformity and will not materially
+prolong its economic life may be permitted subject to approval  of a Site Review Permit
+as provided in LC 10.335 below.
+ (7) When a nonconforming use of a structure, or structure, and premises in
+combination, is discontinued or abandoned for one continuous year, the structure, or
+structure and premises in combination, shall not thereafter be used, except in
+conformance with the regulations of the district in which it is located.
+ (8) Where nonconforming use status applies to a structure and premises in
+combination, removal or destruction of the structure shall establis h the nonconforming
+use of land only.  Destruction for the purpose of this provision is defined as damage to an
+extent of more than 50 percent of the assessed true cash value of the building at the time
+of destruction.
+ (9) Notwithstanding the provisions of this or other sections of LC Chapter 10,
+a single-family dwelling, mobile home or duplex in an NR; EFU; FM; FF -20; GR -10;
+AGT; RR-1, -2, -5 District may be replaced without a partition approved pursuant to LC
+Chapter 13 if:
+  (a) The single -family dwelli ng, mobile home or duplex has been
+removed because it is no longer fit for human habitation.  The single -family dwelling,
+mobile home or duplex must have been occupied within one year of the date of removal.
+The necessary permits must be obtained and subs tantial construction begun within four
+years of the date of removal.
+  (b) The single -family dwelling, mobile home or duplex has been
+destroyed.  The single-family dwelling, mobile home or duplex must have been occupied
+within one year of the date of remov al.  The necessary permits must be obtained and
+substantial construction begun within four years of the date of the destruction.
+ (10) Notwithstanding the provisions of this or other section of LC Chapter 10, a
+single-family dwelling in an RA; R-1; RG; RP or any commercial or industrial zone may
+be replaced without a partition approved pursuant to LC Chapter 13 if:
+  (a) The single-family dwelling has been removed because it is no longer
+fit for human habitation.  The single-family dwelling must have been occupied within one
+year of the date of removal.  The necessary permits must be obtained and substantial
+construction begun within four years of the date of removal.
+  (b) The single -family dwelling has been destroyed.  The single -family
+dwelling, mobile home or duplex must have been occupied within one year of the date of
+removal.  The necessary permits must be obtained and substantial construction begun
+within four years of the date of the destruction.
+ (11) A mobile home located in an RA; R -1; RG; RP or a ny commercial or
+industrial zone shall be allowed to continue as a nonconforming use.  However, if a
+mobile home located in an RA, R -1, RG, RP or any commercial or industrial zone is
+discontinued for any reason for more than six months, it shall not be re -established.
+(Revised by Ordinance No. 13-72, Effective 7.21.72; 12-76, 12.31.76; 7-77, 8.12.77)
+
+10.305-30 Lane Code 10.315-35
+June 16, 2020 10-724 LC10.305_320
+10.305-30 Repairs and Maintenance.
+ (1) On any nonconforming structure or structure devoted in whole or in part to
+any nonconforming use, work may be done on ordinary repairs or on repair or
+replacement of walls, fixtures, wiring or plumbing, to an extent not exceeding an
+accumulative total of 50 percent of the assessed true cash value of the building at the time
+said structure became nonconforming, provided that the cubic content of the building as it
+existed at the time of passage or amendment of this chapter shall not be increased.
+ (2) Nothing in this chapter shall be deemed to prevent the strengthening or
+restoring to a safe condition of any building or par t thereof declared to be unsafe by any
+official charged with protecting the public safety upon order of such official. (Revised by
+Ordinance No. 13-72, Effective 7.21.72)
+
+10.305-35 Uses Under Conditional Use or Temporary Permit Provisions Not
+Nonconforming Uses.
+Any use for which a Conditional Use or Temporary Permit has been granted as provided
+in this chapter and remains valid shall not be deemed a nonconforming use. (Revised by
+Ordinance No. 13-72, Effective 7.21.72)
+
+10.305-40 Public Land.
+Unzoned public land notwithstanding subsequent zoning may be used for the purposes
+intended when the land was acquired, notwithstanding the use provisions of the district in
+which the land is situated. (Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+PROCEDURES FOR ZONING, REZONING AND AMENDMENTS TO
+REQUIREMENTS
+
+10.315-05 Purpose.
+As the Comprehensive Plan for Lane County is implemented, changes in District and
+other requirements of this chapter will be required.   Such amendments shall be made in
+accordance with  the procedures of this section. ( Revised by Ordinance No. 13-72, Effective
+7.21.72; 5-81, 4.8.81)
+
+10.315-20 Criteria.
+Zonings, rezonings and changes in the requirements of this chapter shall be enacted to
+achieve the general purpose of this chapter and shall not be contrary to the public interest.
+In addition, zonings and rezonings shall be consistent with the specific purposes of the
+Zone District classification proposed, applicable Comprehensive Plan elements and
+components, and Statewide Planning Goals for any portion of Lane County which has not
+been acknowledged for compliance with the Statewide Planning Goals by the Land
+Conservation and Development Commission.  Any zoning or rezoning may be effected
+by Ordinance or Order of the Board of County Commissioners, the Planning Commission
+or the Hearings Official in accordance with the procedures in this section. ( Revised by
+Ordinance No. 13-72, Effective 7.21.72;6-80, 9.1.80; 5-81, 4.8.81)
+
+10.315-35 Initiation/Application.
+ (1) By Planning Commission.  The zoning of unzoned properties, the rezoning
+of properties and amendment of this chapter may be initiated by the Planning
+Commission upon its own motion or upon petition by the Planning Commission upon
+request of the Board of Commissioners as provided in LC 10.315-35(2) below.
+ (2) By Board of Commissioners.  The zoning of unzoned properties, the
+rezoning of properties and the amendment of this chapter may be initiated by the Board
+10.315-40 Lane Code 10.315-60
+June 16, 2020 10-725 LC10.305_320
+of Commissioners in the form of a request to the Planning Commissions that they
+consider the proposed zoning, rezoning or amendment.
+ (3) By Applicant.  Application for the zoning or rezoning of properties may be
+made by any person pursuant to Type III procedures of LC Chapter 14. ( Revised by
+Ordinance No. 13-72, Effective 7.21.72;6-80, 9.1.80; 5-81, 4.8.81; 16-83, 9.14.83; 20-05, 6.16.20)
+
+10.315-40 Moratorium on Permits and Applications-Legislative Matters.
+ (1) After any matter for zoning, rezoning or amendment to this chapter
+affecting particular property has received tentativ e action by the Board, but has not yet
+become final and effective, no Zoning, Land Division or Building Code Application or
+request shall be accepted, granted, issued or approved, except as herein provided.
+ (2) After such final action, granting of pending  or subsequent Applications or
+requests shall be in accordance with the requirements of the Zoning District classification
+or requirements as amended by the final action.
+ (3) The provisions of this subsection (LC 10.315-40) shall not be applicable to
+the issuance of Building, Plumbing Permits, or on- site sewage for normal repairs or
+corrections, nor shall the provisions apply when the proposed Application or request
+meets both the requirements of the existing Zoning District requirement and the proposed
+change or amendment, or to the approval of a final minor partition, a major partition map,
+or subdivision plat. (Revised by Ordinance No. 13-72, Effective 7.21.72; 5-81, 4.8.81; 18-81, 1.4.82)
+
+10.315-55 Planning Commission Public Hearing and Notice--Legislative Matters.
+ (1) The Planning Commission shall hold not less than one public hearing on
+each proposed legislative zoning or rezoning and amendment to the requirements of this
+chapter.
+ (2) Notice of the time and place of hearing shall be given at least 1 0 days in
+advance by publication in a newspaper of general circulation in the County or in the
+territory concerned.
+ (3) The Planning Commission shall review the Application or proposal and
+shall receive pertinent evidence and testimony as to why or how the proposed change is
+inconsistent with the criteria provided in LC 10.315- 20 above for zoning, rezoning and
+amendment to the requirements of this chapter.  The Commission shall determine
+whether the testimony at the hearing supports a finding that the proposal does or does not
+meet the required criteria, and shall recommend to the Board of Commissioners
+accordingly that the proposal be adopted or rejected.  (Revised by Ordinance No. 6 -80, Effective
+9.1.80)
+
+10.315-57 Review Procedures.
+Applications for zoning or rezoning of specific properties shall be heard by the Hearings
+Official pursuant to Type III procedures of LC Chapter 14. ( Revised by Ordinance No. 6 -80,
+Effective 9.1.80; 5-81, 4.8.81; 18-81, 1.4.82; 16-83, 9.14.83; 20-05, 6.16.20)
+
+10.315-60 Action by the Board of Commissioners.
+ (1) Upon receipt of an affirmative Planning Commission recommendation for
+legislative matters provided in LC 10.315- 55 above, the Board of Commissioners shall
+schedule a public hearing as provided in LC 10.315- 60(2) below.  The Board may
+schedule such a public hearing in the absence of an affirmative Planning Commission
+recommendation.
+ (2) Prior to taking any action which would alter or modify a Planning
+Commission recommendation or Hearings Official's Order, the Boa rd of Commissioners
+may first refer the proposed alteration or modification to the Planning Commission or
+10.315-65 Lane Code 10.315-65
+June 16, 2020 10-726 LC10.305_320
+Hearings Official for a recommendation.  Failure of the Commission or Hearings Official
+to report within 20 days after the referral, or such longer pe riod as may be designated by
+the Board, shall be deemed to be approval of the proposed alteration or modification.  It
+shall not be necessary for the Commission or Hearings Official to hold a public hearing
+on the proposed alteration or modification.
+ (3) In reversing a recommendation of the Planning Commission or Order of
+the Hearings Official, the Board of Commissioners shall indicate by Order the basis for
+its decision. (Revised by Ordinance No. 6-80, Effective 9.1.80; 5-81, 4.8.81; 18-81, 1.4.82)
+
+10.315-65 Order of Intent to Rezone (also includes Rezoning of Specific Properties.
+ (1) If, from the facts presented as required by this Code, it is determined by the
+Hearing Body that granting a Zoning or Rezoning Application would comply with the
+general purpose of this chapter only if the property in question would be developed as
+proposed in a reasonable time rather than being in a state of speculative holding, the
+Hearing Body shall indicate its general approval in principle of the zoning or rezoning by
+the adoption of an "Order of Intent to Zone or Rezone" said property.  This Order shall
+include any conditions, stipulations or limitations which the Hearing Body determines are
+necessary to require in the public interest as prerequisite to final action, inc luding those
+provisions necessary to prevent speculative holding of the property after zoning or
+rezoning; and such conditions, stipulations or limitations shall be incorporated as part of
+the site plan as provided below.
+ (2) A site plan shall be required  as provided in this chapter for Site Review
+Permits and shall be binding upon the property.  Upon approval of the Order of Intent by
+the Hearings Official or Board, the property under these provisions shall be plainly
+marked as "SR" on map attached as an exhibit to the Order and on the Zoning Map.  Any
+approved site plan may be amended or it may be released from the restrictions of such
+site plan by application to and approval by the Hearings Official pursuant to Type III
+procedures of LC Chapter 14.  No other changes shall be made constituting a departure
+from the approved site plan except by amendment or release as herein provided.
+ (3) The fulfillment of all conditions, stipulations and limitations contained in
+the Order of Intent on the part of the appl icant shall make the Order a binding
+commitment upon Lane County.  Upon completion of compliance action required by the
+Order of Intent, the applicant shall make application, pursuant to Type II procedures of
+LC Chapter 14 , for effectuation of the zoning.  Determination that the conditions of the
+Order of Intent have been met shall be pursuant to a routine administrative action by the
+Director.  If the applicant has completed the necessary compliance action required by the
+Order of Intent, the Director shal l approve the application and effectuate the zoning by
+Administrative Order.
+ (4) One extension of the two- year time period to complete the compliance
+action required by the Order of Intent may be applied for by the applicant through
+submitting an application for an extension of the Order of Intent.  The application shall be
+reviewed by the Director pursuant to Type II procedures of LC Chapter 14, and may be
+approved if it complies with the following criteria.
+  (a) The application was submitted to and acce pted by the Department
+prior to the expiration of the two-year time period.
+  (b) The applicant has made a good faith, reasonable effort and progress
+in completing the necessary compliance action.
+  (c) The reason for delay in completing the necessary comp liance
+conditions could not have been reasonably avoided.
+  (d) The uncompleted compliance action can be completed within a time
+period not to exceed two years beyond the original time set forth for completing the
+10.315-90 Lane Code 10.315-90
+June 16, 2020 10-727 LC10.305_320
+compliance action. (Revised by Ordinance No. 6-80, Effective 9.1.80; 5-81, 4.8.81; 18-81, 1.4.82; 16-83,
+9.14.83; 20-05, 6.16.20)
+
+10.315-90 Official Zone District Ordinance and Zoning Maps.
+ (1) The establishment and change of boundaries of Districts shall be made by
+Ordinance or by Order.  Attached and referenc ed to the Ordinance or Order shall be a
+map of the lands affected by the Ordinance or Order.
+ (2) Final zoning designations shall be marked on durable and accurate maps
+capable of being reproduced.  One set of prints shall be made from the masters adopted
+by reference in the Ordinance and filed for record with the Ordinance.  Subsequent zone
+changes or Zoning District boundary changes shall be made by Ordinance or Order and
+attached map, adopted by reference, and filed for record with the Ordinance or Order.
+ (3) A set of up -to-date Zoning Maps shall be maintained for the convenience
+of the County and the public.  The Zoning Maps shall indicate the location and
+geographical boundaries of the various Districts and shall set forth the District
+classifications applicable to the land indicated on the Zoning Maps.  The Zoning Maps
+shall be maintained on file in the Planning Division and shall be available at reasonable
+times for inspection by the public.  All amendments to the original District boundaries
+shall be reflected on the Zoning Maps.  On the face of new or revised maps shall be the
+appropriate reference numbers (e.g., Ordinance, Order or Journal Number) of the
+Ordinance or Ordinances or Order or Orders zoning the lands covered by the map.
+ (4) Where a Zone District boundary is to be determined by a map enacted under
+this section, rather than by a legal description, and where uncertainty exists regarding the
+specific zone boundary, the following rules shall apply.
+  (a) Boundaries indicated as approximately  following the centerlines of
+streets, highways or alleys shall be construed to follow such centerlines.
+  (b) Boundaries indicated as approximately following platted lot lines
+shall be construed as following such lot lines.
+  (c) Boundaries indicated as a pproximately following city limits shall be
+construed as following such city limits.
+  (d) Boundaries indicated as following railroad lines and public utility
+easements shall be construed to be midway between the main tracks or utility easements,
+whichever is applicable.
+  (e) Boundaries indicated as following shorelines shall be construed to
+following the high-water line.  In the event of a change of high -water line, the boundary
+will follow the line no matter how it shifts.  Boundaries indicated as follow ing the
+centerlines of streams, rivers, canals or other bodies of water shall be construed to follow
+said centerline, and no matter how the centerline should shift, the boundary would remain
+the centerline as shifted.
+  (f) Boundaries indicated as parallel to or extensions of features indicated
+in LC 10.315-90(4)(a) through (e) above shall be so construed.  Distances not specifically
+indicated within this chapter adopting a specific zone boundary shall be determined by
+the scale of the map attached as an exhibit to the Ordinance.
+  (g) Where physical features existing on the ground are at variance with
+those shown on the official Zoning Map, or in other circumstances not covered by LC
+10.315-90(4)(a) through (f) above, the Planning Commission shall interpret  the zone
+boundaries.
+  (h) Where a zone boundary divides an ownership of property, unless the
+same is indicated by dimensions within the Ordinance or Order adopting the zone
+boundary, the boundary shall be determined by the use of the scale appearing on t he map
+10.315-92 Lane Code 10.320-15
+June 16, 2020 10-728 LC10.305_320
+attached as an exhibit to the Ordinance or Order. ( Revised by Ordinance No. 13 -72, Effective
+7.21.72;1-76, 1.28.76; 17-79, 1.11.80; 14-80, 7.16.80; 6-80, 9.1.80; 5-81, 4.8.81)
+
+10.315-92 Treatment of Vacated Property.
+Where a public street or alley is officially vacated, the Zoning District requirements
+applicable to the property to which the vacated area becomes a part shall apply to the
+vacated property. (Revised by Ordinance No. 1-76, Effective 1.28.76)
+
+10.315-93 Error in Legal Description.
+Notwithstanding any other provision in this chapter, where the sole basis for a zoning or
+rezoning, whether initiated by Application, the Planning Commission or the Board, is in
+error in a legal description, if applicable in the Ordinance or Order zoning or intended to
+zone the property, the zoning or rezoning shall be referred to the Planning Director for
+investigation and a report.  After such investigation and report, the zoning or rezoning
+shall be considered in accordance with the proc edures for hearings provided in LC
+10.315-55. (Revised by Ordinance No. 8-78, Effective 5.17.78; 6-80, 9.1.80)
+
+CONDITIONAL USE PERMITS
+
+10.320-05 Purpose.
+Certain types of uses require special consideration prio r to their being permitted in a
+particular District.  The reasons for requiring such special consideration include, among
+others, the size of the area required for the full development of such uses, the nature of
+the traffic problems incidental to oper ation of the uses, and the effect such uses have on
+any adjoining land uses and on the growth and development of the County as a whole.
+All uses permitted conditionally possess unique and special characteristics making
+impractical their inclusion as out right uses in many of the various Districts herein
+defined.  Location and operation of desig nated Conditional Uses shall be subject to
+review and authorized only by issuance of a Conditional Use Permit.  The purpose of
+review shall be to determine that the ch aracteristics of any such use shall not be
+unreasonably incompatible with the type of uses permitted in surrounding areas, and for
+the further purpose of establishing such conditions as may be reasonable so that the basic
+purposes of this chapter shall be served.  Nothing herein shall be construed to require the
+granting of a Conditional Use Permit. (Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.320-15 Conditional Uses.
+ (1) In addition to those Conditional Uses provided speci fically within the
+various Zoning District classifications, the following uses are designated Conditional
+Uses and may be permitted in any Zoning District classification, except as expressly
+limited.
+  (a) Airport, heliport, or aircraft landing field, toge ther with accessory
+land uses relevant and appropriate to the operation.
+  (b) Amusement park.
+  (c) Carnival or circus, outdoor.
+  (d) Cemetery, animal.
+  (e) Cemetery, human.
+  (f) Correctional institution.
+  (g) Garbage dump, sanitary landfill.
+  (h) Golf course.
+  (i) Jail.
+  (j) Penal farm.
+10.320-20 Lane Code 10.320-30
+June 16, 2020 10-729 LC10.305_320
+  (k) Race track.
+  (l) Radio and television stations.
+  (m) Rock, sand, gravel, and loam excavation.
+  (n) Sewage treatment plant.
+  (o) Stable and academy, commercial riding.
+  (p) Mobile home park.  (See Mobile Home Park Section for additional
+requirements.)
+  (q) Tourist park.
+  (r) Camping vehicle park.
+  (s) Campground.
+ (2) Where a use is not authorized in any zone, or where ambiguity exists
+concerning the appropriate classification or procedure for the e stablishment of a
+particular use or type of development, such use or type of development may be
+established by a Conditional Use Permit in accordance with the provisions of this section
+(LC 10.320).
+  (3) Notwithstanding the requirem ents in LC 10.320- 05 through - 55,
+telecommunication facilities are allowed subject to compliance with the requirements of
+LC 10.400 and with applicable requirements elsewhere in LC Chapter 10 including but
+not necessarily limited to: the Floodplain Combini ng Zone (LC 10.271); Greenway
+Development Permit (LC 10.322); the Coastal Resource Management Combining Zones
+(LC 10.240, 10.245, 10.250, 10.255, 10.260, 10.265, and 10.270); and Federal or State of
+Oregon inventories and regulations applicable to delineat ed wetlands and waters of the
+nation or state. (Revised by Ordinance No. 13-72, Effective 7.21.72; 4-02, 4.10.02)
+
+10.320-20 Criteria.
+A Conditional Use Permit may be granted only if the proposal conforms to all of the
+following criteria:
+ (1) Conformity with the Comprehensive Plan for Lane County.
+ (2) The location, size, design and operating characteristics of the proposed use:
+  (a) Will be compatible with and will not adversely affect the livability or
+appropriate development of abutting properties and the surrounding vicinity, and
+  (b) Will not be adversely affected by the development of abutting
+properties and the surrounding vicinity.  (Consideration may be given to harmony in
+scale, bulk coverage and density, to the availability of public facilities and utilities; to the
+harmful effect, if any, upon desirable neighborhood character, to the generation of traffic
+and the capacity of surrounding streets and roads; and to any other relevant impact of the
+use.)
+  (c) Will not be adv ersely affected by known natural hazards, such as
+floods, slides, erosion.
+  (d) Will not create a hazardous natural condition such as erosion,
+landslide, flooding. (Revised by Ordinance No. 13-72, Effective 7.21.72; 10-82, 7.9.82)
+
+10.320-30 Conditions.
+Reasonable conditions may be imposed in connection with the Conditional Use Permit as
+necessary to meet the purposes of this section.  Guarantees and evidence may be required
+that such conditions will be or are being complied with.  Su ch conditions may include,
+but are not limited to, requiring:
+ (1) Special yards and spaces.
+ (2) Fences and walls.
+ (3) Surfacing of parking areas to requirements of County or other appropriate
+agencies.
+10.320-35 Lane Code 10.320-55
+June 16, 2020 10-730 LC10.305_320
+ (4) Street and road dedications and improvements (or bonds).
+ (5) Control of points of vehicular ingress and egress.
+ (6) Special provisions on signs.
+ (7) Landscaping and maintenance thereof.
+ (8) Maintenance of the grounds.
+ (9) Control of noise, vibration, odors or other similar nuisances.
+ (10) Limitation of time for certain activities.
+ (11) A time period within which the proposed use shall be developed.
+ (12) A limit on total duration of use. (Revised by Ordinance No. 13-72, Effective 7.21.72)
+
+10.320-35 Application.
+Application for a Conditional Use Permit may be made by any person pursuant to Type
+III procedures of LC Chapter 14.  (Revised by Ordinance No. 13 -72, Effective 7.21.72; 10-76, 1.1.77;
+5-81, 4.8.81; 16-83, 9.14.833; 20-05, 6.16.20)
+
+10.320-55 Review Procedure.
+Applications for Conditional Use Permits shall be heard by the Hearings Official
+pursuant to Type III procedures of LC Chapter 14.  (Revised by Ordinance No. 16-83, Effective
+9.14.833; 20-05, 6.16.20)
+10.320-55 Lane Code 10.320-55
+June 16, 2020 10-731 LC10.305_320
+
+PAGES 10-731 THROUGH 10-750
+ARE RESERVED FOR FUTURE EXPANSION

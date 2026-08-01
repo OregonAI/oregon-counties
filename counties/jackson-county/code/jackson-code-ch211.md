@@ -1,0 +1,138 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch211
+title: 'Ch211'
+doc_type: ordinance
+citation: 'Ch211'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/Administrative%20Code/Ch211.pdf?t=202406251552360
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 03aef5da51072ee1720c092a4d3ce74c9c62df9f6dbde656b038046061a024d5
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 182.040
+    - ORS 20.140
+    - ORS 203.115
+    - ORS 21.580
+    - ORS 30.315
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch211 (Ch211)
+
+## At a glance
+
+Ch211 — code of Jackson County. 3 pages.
+
+## Full text
+
+2019 Replacement
+
+CHAPTER 211
+Fees
+
+211.01 Repealed.
+211.02 Establish
+ment of Fees; Review of Fees; Standards.
+
+CROSS REFERENCES
+
+Liability for fees - see ORS 20.140
+Fee exemptions - see ORS 21.580, 52.430
+Procedures by Charter counties to enforce fee ordinances - see ORS 30.315
+State boards and commissions to pay counties for services; exceptions - see ORS
+182.040 et seq.
+Statutory power to set; semi-annual limitation - see ORS 203.115
+Fees for recording of tax deeds and contracts - see ADM. 217.01
+Refunds by County Clerk - see ADM. 217.02
+Deposit of fees - see ADM. 222.04
+Appeal of Animal Control Division fees and charges - see GEN. OFF. 610.06
+Fees for renaming of roads - see S.U. & P.S. 1032.07, 1032.08
+Fee for permits for working in County road rights of way - see S.U. & P.S.
+1034.08, 1034.09
+Building permit fees - see B. & H. Ch. 1448
+
+211.01 (P. Ord. 2002-37. Passed 10-25-00; REPEALED by Ord 2018-8. Passed 10-10-
+18.)
+
+211.02 ESTABLISHMENT OF FEES; REVIEW OF FEES; STANDARDS.
+
+(a) Establishment of Fees - The Board of County Commissioners may adopt by order
+fees and charges to recover for the various services, licenses, and permits offered by the
+County.
+
+(b) Review of Fees -  The Board of County Commissioners may review and revise by
+order fees and charges on the schedule of rate review and revision permitted under ORS
+203.115 or any successor statute subsequently enacted.
+
+(c) Cost Standards and Criteria - " Costs" shall be defined herein.  The standards and
+criteria used in establishing "costs" as defined herein shall be the standards and criteria
+the Board of County Commissioners shall consider in establishing and revising all fees
+and charges.
+31 Fees 211.02
+  2019 Replacement
+
+(d) Definition of Costs: “Costs”, as used in this chapter, are to consist of the following
+elements:
+
+(1) Direct Costs - means all applicable operational costs including, but not
+restricted to, salaries, wages, fringe benefits, services and supplies, incurred by
+the department in order to impose the regulation, perform the service, or
+provide the product for which the fee or charge is being levied.
+
+(2) Indirect C osts - means all applicable costs incurred by the department in the
+provision of managerial, administrative, and general support of those imposing
+the regulation, performing the service, or providing the product for which the
+fee or charge is being levied.
+
+(3) Capital Assets - means the annual depreciation expense of those capital assets
+used by the department in order to impose the regulation, perform the service,
+or provide the product for which the fee or charge is being levied.
+
+(4) General Overhead  - means the expenses not otherwise included in the
+categories of direct costs, indirect costs, and capital assets but that are incurred
+by the County in order to impose the regulation, perform the service, or
+provide the product f or which the fee or charge is being levied.  General
+overhead includes those expenses incurred by central service departments,
+which provide managerial, administrative, and general support, that are not
+otherwise charged to the operating departments.
+
+(e) Severability. - If any portion of this section is found to be unconstitutional or
+invalid, the Jackson County Board of Commissioners hereby declares that it would have
+enacted the remainder of this section regardless of the absence of any such invalid part.
+
+(Ord. 89-11. Passed 10-4-89; Ord. 91-22. Passed 12- 18-91; Ord. 92-6. Passed 6 -24-92;
+Ord. 93-16. Passed 5-19 -93; Ord. 94-12. Passed 6-8-94; Ord. 95-4. Passed 2- 1-95; Ord.
+95-44. Passed 9-6-95; Ord. 97-7. Passed 4-9-97; Ord. 98-19. Passed 9-2-98; Ord. 98-29.
+Passed 12-30- 98; Ord. 99-1. Passed 2-3-99; Ord. 99-3. Passed 3- 31-99; Ord. 2000- 3.
+Passed 3-10-00; Ord. 2001-3. Passed 6-5-01; Ord. 2002-15. Passed 7 -3-02; Ord. 2003-22.
+Passed 7-16-03; Ord. 2003-23. Passed 8-20- 03; Ord. 2004- 9. Passed 9-1-04; Ord. 2004-
+18. Passed 12-22- 04; Ord. 2005- 11. Passed 8-31-05; Ord. 2006-9. Passed 9-20 -06; Ord.
+2007-23. Passed 8-29- 07. Ord. 2008-7. Passed 8-27-08; Ord. 2009 -5. Passed 8-26-09;
+Ord. 2010-10. Passed 9-8-10; Ord. 2011- 10. Passed 6-29-11; Ord. 2012-3. Passed 7-05-
+12; 2013-5. Passed 7-24-10; Ord. 2013-5. Passed 7-24-13; Ord. 2014-7. Passed 08-06-14;
+Ord 2015-10. Passed 08-05-15; Ord 2016-6. Passed 04-20-16 ; Ord.2016-14. Passed 08-
+24-16; Ord. 2018-8. Passed 10-10-18.)
+ Fees 32
+  2019 Replacement
+
+THIS PAGE RESERVED FOR EXPANSION.

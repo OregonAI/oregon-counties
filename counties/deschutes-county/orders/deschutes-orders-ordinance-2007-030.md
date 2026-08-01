@@ -1,0 +1,335 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2007-030
+title: 'Ordinance No. 2007-030'
+doc_type: ordinance
+citation: 'Ordinance No. 2007-030'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616982633_2007-1611-Ordinance%20No.%202007-030%20Recorded%2011_5_2007.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d39d5c3c84657719028a2a306da28ad29c00fded9885a056c6a3136e20c90c49
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2007-030 (Ordinance No. 2007-030)
+
+## At a glance
+
+Ordinance No. 2007-030 — orders of Deschutes County. 6 pages.
+
+## Full text
+
+REVIEWED
+LEGAL COUNSEL
+IEWED
+COD REVIEW COMMITTEE
+COUNTY
+NANCYUBLANKENSHIP,F000NTYCLERKDS
+COMMISSIONERS' JOURNAL ,
+Jill[ 111111111
+11105/2007 02, 29,02 PM
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance AmendingDeschutes County Code.
+Chapter 1. 01 to Remove the Requirement of a Code * ORDINANCE NO. 2007- 030
+Review Committee and Declaring an Emergency.
+WHEREAS, the Deschutes County Administrator (" Administrator") determined that the Code ReviewCommittee required in Deschutes CountyCode ("DCC") Chapter 1. 01 is no longer necessary; and
+WHEREAS, the Board agrees that delegatingto the Administrator the responsibilityof determiningtheform and style of the Deschutes County Code is appropriate; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC Chapter 10.01, Code Adoption, is hereby amended to read as
+described in Exhibit " A", attached and incorporated by reference herein, with new languageunderlined and
+deleted languagesetforth in str- ikethfoug#..
+PAGE 1 OF 2 - ORDINANCE NO. 2007-030 ( 10/ 29/07)
+Section 4. EMERGENCY. This Ordinance beingnecessary for the public peace, health and safety,an emergency is declared to exist and this Ordinance takes effect on its passage.
+Dated this N S of 2007 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+ATTEST:
+I
+RecordingSecretary TAMMY B , COMM S ONER
+ir
+Date of 1StReading: dY day of 2007.
+Date of 2°d Reading: U' ' dayof 2007.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Michael M. Daly
+Dennis R. Luke
+Tammy Baney V
+Effective date: kkdLof k/L"-I 007
+ATTEST:
+1" L4-L ( b~
+RecordingSecretary
+PAGE 2 OF 2 - ORDINANCE NO. 2007-030 ( 10/ 29/07)
+Chapter 1. 01. CODE ADOPTION
+1. 01.010. Adoption of Deschutes County
+Code.
+1. 01.011. Deschutes County Code Review
+Committee.
+1. 01.012. Review Procedure.
+1. 01.015. Form and Style Manual.
+1. 01.020. Name of Code- References.
+1. 01.030. Code References Apply to All
+Amendments.
+1. 01.040. Title, Chapter and Section
+Headings.
+1. 01.050. Effect of Code adoption.
+1. 01.060. References to Documents as Code
+Provisions.
+1. 01.070. Prosecutions, Collections and
+Other Acts Unaffected.
+1. 01.080. Constitutionality.
+1. 01.090. Codification.
+1. 01.095. Existing liabilities.
+1. 01.010. Adoption of Deschutes County
+Code.
+Hereby adopted is the Deschutes County Code
+Book. The code shall include all existing and
+subsequentamendments. An annual update of
+the code book will be published in January of
+each year.
+Ord. 95- 026 § 1, 1995; Ord. 87- 014 § 1, 1987)
+1. 01.011. Deschutes County Code Review
+Committee.
+A. It is policy of Deschutes County Board of
+Commissioners to provide an accurate,
+current code.
+B_ To implement this policy, Lesehutes Genfzoo
+Code Review Committee shall be ereated as
+eedif cation midptib}io-alten - of- eede. The
+eede will be published aimeally, for- - a
+fninimufn fee, whi the t l ees
+of sen4ee. Thy ~ ttee s the County
+Administrator shall be responsibilities
+responsible for all edits to the Deschutes
+County Form and Style Manual
+Chapter 1. 01 1
+Page l of 3 - EXHIBIT " A" to ORDINANCE 2007-030
+C. The County Administrator's responsibilties
+shall include Deschutes County employee
+education and training on code publication
+procedure and maintenance of the Deschutes
+County Form and Style Manual.
+Ord. 2007-030 § 1 2007; Ord. 95- 026 § 1, 1995)
+1. 01.012. Review Procedure.
+A. All codes will be in one automated format
+which will allow all proposed changes to
+codes to be prepared on disk or online
+directly from an up- to-date codified code.
+B. The proposed ordinance will then be
+submitted to
+proposed erdinantee-the or- dinaneeis the
+mit4ed to Legal Counsel for content and
+format review.
+C.- Upon approval by Legal Counsel, an agenda
+request is submitted to the Board of County
+Commissioners for bBoard review and
+approval/denial.
+D. if approved by the Board, then the code is
+codified by Legal Counsel and reprinted fe
+publication published on the County's
+website.
+E. If denied, the code remains unaltered. This
+Ord. 2007-030 J1, 2007; Ord. 2002-003 § 1,
+2002; Ord. 95- 026 § 1, 1995)
+1. 01.015. Form and Style Manual.
+The Deschutes County Form and Style Manual is
+hereby adopted as the uniform system governing
+the form and style of Deschutes County legal
+documents.
+Ord. 95- 026 § 1, 1995)
+10/ 2007)
+1. 01.020. Name of Code- References.
+A. This code shall be known as the " Deschutes
+County Code," and it shall be sufficient to
+refer to such code as the " Deschutes County
+Code" in any prosecution for the violation of
+any provision thereof or in any proceedingat
+law or in equity.
+B. It shall be sufficient to designate any
+ordinance adding to, amending, correcting or
+repealing all or any part or portion thereof as
+an addition to, amendment to, correction or
+repealof the Deschutes County Code.
+CFurther reference may be had to the titles,
+chapters, sections and subsections of the
+Deschutes County Code, and such reference
+shall apply to that numbered title, chapter,
+section or subsection as it appears in the
+code.
+Ord. 2007- 030 § 1, 2007; Ord. 87- 014 §2, 1987)
+1. 01.030. Code References Apply to All
+Amendments.
+Whenever a reference is made to this code as the
+Deschutes County Code," or to any portion
+thereof, or to any ordinance, order or resolution
+of Deschutes County, Oregon, codified herein,
+the reference shall apply to all amendments,
+corrections and additions heretofore, now and
+hereafter made.
+Ord. 87- 014 §3, 1987)
+1. 01.040. Title, Chapter and Section
+Headings.
+Title, chapter and section headings contained
+herein shall not be deemed to govern, limit,
+modify or in any manner affect the scope,
+meaning or intent of the provisions of any title,
+chapter or section hereof.
+Ord. 87- 014 §4, 1987)
+1. 01.050. Effect of Code Adoption.
+The provisions of this code shall not in any
+manner affect matters of record which refer to or
+are otherwise connected with ordinances, orders
+and resolutions, which are therein specifically
+designated by number or, otherwise, and which
+are included within the code, but such references
+Chapter 1. 01 2
+Page 2 of 3 - EXHIBIT " A" to ORDINANCE 2007- 030
+shall be construed to apply to the corresponding
+provisions contained within this code.
+Ord. 87- 014 §5, 1987)
+1. 01.060. References to Documents as Code
+Provisions.
+The last efdinanee, order- or- mselutien ineluded
+in this eede was Ordifianee 86 049, passedApril
+16- 1987: The following ordinances, passed
+subsequentto Ordinance 86- 049, but prior to the
+adoption of this code, to the extent they have not
+been subsequently amended or repealed, are
+hereby adopted and made a part of this code:
+Ordinances 86- 051, 86- 060, 86- 063, 86- 066,
+86- 068, 86- 069, 86- 071, 86- 072, 86- 073, 86- 075,
+86- 076, 86- 077, 87- 001, 87- 003, 87- 004, 87- 005,
+87- 006 and 87- 007.
+Ord. 2007- 030 § 1, 2007; Ord. 87- 014 §6, 1987)
+1. 01.070. Prosecutions, Collections and
+Other Acts Unaffected.
+ANeither the adoption of this code nor the
+repeal nor amendments hereby of any
+ordinance, order or resolution, or part or
+portion thereof, shall in any manner affect the
+prosecution for violations of ordinances,
+which violations were committed prior to the
+effective date hereof,.
+B. The adoption of the code or the repeal or
+amendments hereby ordinance, order
+or resolution, or part or portion thereof, shall
+not be construed as a waiver of any license,
+fee or penalty at such effective date due and
+unpaid under such ordinances, orders or
+resolutions,
+CnerThe adoption of the code or the repeal or
+amendments hereby ordinance, order
+or resolution, or part or portion thereof, shall
+not be construed as affecting any of the
+provisions of such ordinances, orders or
+resolutions relating to the collection of any
+such license, fee or penalty, or the penal
+provisions applicable to any violation
+thereof,.
+D_ ner-teThe adoption of the code or the repeal
+or amendments hereby of any ordinance,
+order or resolution, or part or portion thereof,
+shall not affect the validity of any bond or
+cash deposit in lieu thereof required to be
+10/ 2007)
+posted, filed or deposited pursuant to any
+ordinance, order or resolution, and all rights
+and obligations thereunder appertaining shall
+continue in full force and effect.
+Ord. 2007- 030 fl, 2007; Ord. 87- 014 §7, 1987)
+1. 01.080. Constitutionality.
+A. If any section, subsection, sentence, clause or
+phrase of this code is for any reason held to
+be invalid or unconstitutional, such decision
+shall not affect the validity of any remaining
+portion or portions of this code, unless:
+1. The code section, subsection, sentence,
+clause or phraseprovides otherwise;
+2. The remaining part or parts are so
+essentially and inseparably connected
+with and dependent upon the
+unconstitutional or invalid part that it is
+apparent that the remaining part or parts
+would not have been enacted without the
+unconstitutional or invalid part; or
+3. The remaining part or parts, standing
+alone, are incomplete and incapable of
+being carried out in accordance with the
+board's intent.
+B. If for any reason this entire code should be
+declared invalid or unconstitutional, then the
+original ordinances, orders and resolutions
+shall be in full force and effect.
+Ord. 87- 014 §8, 1987)
+1. 01.090. Codification.
+A. Legal Counsel
+Review Gemmi4ee shall have the authority to
+codify adopted ordinances in a manner that
+will integrate them into the County Code
+consistent with the prescribed form and style
+for ordinance codification.
+B. Sueh The codification may include format
+changes, changesin code numbering systems
+and cross- referencingsystems and other,
+similar non- substantive changes.
+4C. As part of codification process, Legal
+Counsel or the Desebutes Getinty Code
+Review Gemmiaee-may insert appropriate
+legislative history references.
+DLegislative history references are included
+for administrative convenience and not as
+Chapter 1. 01 3
+Page3 of 3_ EXHIBTT "A" to ORDINANCE 2007- 030
+part of the substance of the ordinance or
+code.
+EE. The text of this code or any adopting
+ordinance may be corrected by the- Deselitites
+County Cede Review Gemmi#ee or Legal
+Counsel to cure editorial and clerical errors.
+D. Codification changes authorized under this
+section are intended to be non- substantivein
+nature and may be made without action of the
+Board.
+Ord. 2007- 030 § 1, 2007, Ord. 98- 065 § 1, 1998;
+Ord. 97- 056 § 1, 1997; 93- 010 § 1, 1993)
+1. 01.095. Existing Liabilities.
+The repeal, express or implied, of any ordinance,
+ordinance provision, code section, or any map or
+line on a map by any ordinance shall not release
+or extinguish any duty, condition, penalty,
+forfeiture, or liability incurred under such
+ordinance, unless a provision of the ordinance
+shall so expressly provide, and such ordinance
+repealed shall be treated as still remaining in
+force for the purpose of sustaining any proper
+action or prosecutionfor the enforcement of such
+duty, condition, penalty, forfeiture, or liability,
+for the purpose of authorizing the prosecution,
+conviction and punishment of the person or
+persons who violated the repealedordinance.
+Ord. 97- 056 §2, 1997)
+1. 0/2007)
+I, Susan Ross, as a member of the Code Review Committee ( CRC), wish to
+express my support for the elimination of the CRC.
+f
+Susan Ross Date

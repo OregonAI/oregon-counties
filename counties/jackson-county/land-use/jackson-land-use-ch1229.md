@@ -1,0 +1,200 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-land-use-ch1229
+title: 'Ch1229'
+doc_type: ordinance
+citation: 'Ch1229'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/12%20Planning/Ch1229.pdf?t=202406181505150
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e641574cb0510235b757b8485d5d8b0994e7c592f177584864c32d350958f7e8
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [jackson-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch1229 (Ch1229)
+
+## At a glance
+
+Ch1229 — land use of Jackson County. 4 pages.
+
+## Full text
+
+CHAPTER 1229
+MEASURE 37 CLAIMS
+
+1229.01 P
+urpose.
+1229.02 Definitions.
+1229.03 Claim Filing Procedures.
+1229.04 County Administrator Investigation and Recommendations.
+1229.05 Board of Commissioners Decision.
+1229.06 Repealed.
+
+1229.01 PURPOSE.
+
+This Ordinance is intended to implement the provisions added to Chapter 197 of the
+Oregon Revised Statutes by Ballot Measure 37 (November 2, 2004).
+
+(E.Ord 2005-10. Passed 4-27-05; P.Ord. 2005-9. Passed 5-5-05.)
+
+1229.02 DEFINITIONS
+
+As used in this Ordinance, the following words and phrases mean:
+
+(a) County Administrator - The County Administrator of Jackson County, Oregon.
+
+(b) Claim - A claim filed under Ballot Measure 37.
+
+(c) Exempt Land Use Regulation - A land use regulation that:
+
+(1) Restricts or prohibits activities commonly and historically recognized as public
+nuisances under common law;
+
+(2) Restricts or prohibits activities for the protection of public health and safety,
+such as fire and building codes, health and sanitation regulations, solid or
+hazardous waste regulations, and pollution control regulations;
+
+(3) Is required in order to comply with federal law;
+
+(4) Restricts or prohibits the use of property for the purpose of selling pornography
+or performing nude dancing; or
+
+(5) Was enacted prior to the date of acquisition of the property by the owner or a
+family member of the owner who owned the subject property prior to
+acquisition or inheritance by the owner, whichever occurred first.
+
+31 Measure 37 Claims 12290.03
+
+(d) Family Member - Includes the wife, husband, son, daughter, mother, father, brother,
+brother-in-law, sister, sister-in-law, son-in-law, daughter-in-law, mother-in-law, father-
+in-law, aunt, uncle, niece, nephew, stepparent, stepchild, grandparent, or grandchild of
+the owner of the property, an estate of any of the foregoing family members, or a legal
+entity owned by any one or combination of these family members or the owner of the
+property.
+
+(e) Land Use Regulation - Includes:
+
+(1) Any statute regulating the use of land or any interest therein;
+
+(2) Administrative rules and goals of the Land Conservation and Development
+Commission;
+
+(3) Local government comprehensive plans, zoning ordinances, land division
+ordinances, and transportation ordinances;
+
+(4) Metropolitan service district regional framework plans, functional plans,
+planning goals and objectives; and
+
+(5) Statutes and administrative rules regulating farming and forest practices.
+
+(f) Owner - The present owner of the property, or any interest therein.
+
+(g) Valid Claim - A claim submitted by the owner of real property that is subject to a
+land use regulation adopted or enforced by the County that restricts the use of the private
+real property in a manner that reduces the fair market value of the real property.
+
+(E.Ord 2005-10. Passed 4-27-05; P.Ord. 2005-9. Passed 5-5-05.)
+
+1229.03 CLAIM FILING PROCEDURES
+
+(a) A person seeking to file a claim under this Ordinance must be the owner of the
+property that is the subject of the claim at the time the claim is submitted. The claim shall
+be filed with the County Administrator’s office.
+
+(b) A claim shall be submitted using the county’s most recent claim form filled out in
+its entirety.  Information shall include, but is not limited to:
+
+(1) The name(s), address(es) and telephone number(s) of all owners, and anyone
+with any interest in the property;
+1229.04 Measure 37 Claims 32
+
+(2) A report prepared by a title insurance company licensed to do business in the
+State of Oregon identifying the person(s) holding title to the property, a legal
+description of the property, all conveyances of title to the property from the
+date the property was first acquired by a Family Member to present (including
+copies of all conveyance documents), and any exceptions to title to the
+property;
+
+(3) The amount of the claim, based on the alleged reduction in value (diminished
+value) of the real property;
+
+(4) The current land use regulation(s) that allegedly restricts the use (diminished
+the value) of the real property and allegedly causes a reduction in the fair
+market value of the subject property;
+
+(5) The zoning map and comprehensive plan designations on the date on which the
+property was acquired;
+
+(6) The desired use of the property; and
+
+(7) Copies of any leases or Covenants, Conditions and Restrictions (ACCR’s)
+applicable to the real property, if any, that impose restrictions on the use of the
+property.
+
+(c) Notwithstanding an owner’s failure to provide all of the information required by
+subsection (2) of this section, the County may review and act on a claim.
+
+(d) For claims received for real property located within the urban growth boundary of a
+city, the County Administrator shall provide to the city a copy of the claim.  A notice
+shall accompany the copy of the claim advising that if the claim is declared to be valid,
+the Board of Commissioners may modify, remove or not apply the land use regulation or
+land use regulations to allow the owner to use the property for a use permitted at the time
+the owner acquired the property, and that the city has 30 days to respond  to the claim
+with written comments and/or a written offer to pay just compensation to the owner in
+lieu of any modification, removal or nonapplication of a land use regulation or land use
+regulations.
+
+(E.Ord 2005-10. Passed 4-27-05; P.Ord. 2005-9. Passed 5-5-05. E. Ord 2005-16. Passed
+09-14-05. P.Ord. 2005-17. Passed 09-28-05.)
+33 Measure 37 Claims 1229.06
+
+1229.04 COUNTY ADMINISTRATOR INVESTIGATION AND
+RECOMMENDATION
+
+Following an investigation of a claim, the County Administrator shall forward a
+recommendation to the Board of Commissioners that the claim be:
+
+(a) Denied;
+
+(b) Investigated further; or
+
+(c) Declared valid, and that either: (i) compensation be paid to the owner upon
+completion of an appraisal by an appraiser licensed by the Appraiser Certification and
+Licensure Board of the State of Oregon, or (ii) the Board of Commissioners modify,
+remove or not apply the land use regulation or land use regulations to allow the owner to
+use the property for a use permitted at the time the owner acquired the property.
+
+(E.Ord 2005-10. Passed 4-27-05; P.Ord. 2005-9. Passed 5-5-05.)
+
+1229.05 BOARD OF COMMISSIONERS DECISION
+
+The Board of Commissioners shall consider the recommendation of the County
+Administrator and any written comments it receives, and shall take final action on the
+recommendation by adoption of an Order.  The Board of Commissioners may, in its
+discretion, hold a public hearing before adoption of an Order.
+
+(E.Ord 2005-10. Passed 4-27-05; P.Ord. 2005-9. Passed 5-5-05.)
+
+1229.06 (Ord. 2005-2. Passed 2-16-05; E. Ord 2005-16. Passed 09-14-05; REPEALED
+Ord 2005-17. Passed 09-28-05.)

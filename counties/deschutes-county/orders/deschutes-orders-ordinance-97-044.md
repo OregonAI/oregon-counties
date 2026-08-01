@@ -1,0 +1,190 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-97-044
+title: 'Ordinance No. 97-044'
+doc_type: ordinance
+citation: 'Ordinance No. 97-044'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616785263_1997-20346-Ordinance%20No.%2097-044%20Recorded%206_12_1997.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 16cfb0b684379f8492e2c9a9c6d5d1b91ae657c9325ece4b5a7065a8ed0fd88f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 144.087
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 97-044 (Ordinance No. 97-044)
+
+## At a glance
+
+Ordinance No. 97-044 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+0. 62- 0336--- REoiEWED--
+9' 7- 203, 16
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES CO TY, MOMNSEL
+An Ordinance Amending Chapter 2.54, Administration, * 97 k ^_-*' 12 AM10: 5
+of the Deschutes County Code, Pursuant to ORS 144.087,
+and Declaring an Emergency. i u'r
+ORDINANCE NO. 97- 044
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. Amendments: The provisions of Chapter 2. 54, require amendments to implement the
+Deschutes County Corrections Supervisory Authority Board as previously adopted by the Deschutes County
+Board of Commissioners on March 5, 1997. The amendments, as set forth in Exhibit " A", attached hereto and
+by this reference incorporated herein, are hereby adopted with new language set forth as underlined type and
+deleted language in strikeout.
+Section 2. Severability. The provisions of this ordinance are severable. If any section, sentence, clause
+or phraseof this ordinance is adjudged to be invalid by a court of competentjurisdiction, that decision shall not
+affect the validity of the remaining portions of this ordinance.
+Section 3. Codification. County Legal Counsel shall have the authority to format the provisions
+contained herein in a manner that will integrate them into the County Code consistent with the Deschutes
+County Form and Style Manual for Board Documents. Such codification shall include the authority to make
+such changes, to make changes in numbering systems and to make such numbering changes consistent with
+interrelated code sections. In addition, as part of codification of these ordinances, County Legal Counsel may
+insert appropriate legislative history reference. Any legislative history references included herein are not
+adopted as part of the substance of this ordinance, but are included for administrative convenience and as a
+reference. They may be changed to correct errors and to conform to proper style without action of the Board of
+County Commissioners.
+Section 4. Emergency. This ordinance being necessaryfor the immediate preservation of the peace,
+health and safety, an emergencyis declaredto exist, and this ordinance takes effect on its passage.
+DATED this 11`hdayof June, 1997.
+T:
+7Y],
+Recording Secretary
+PAGE 1 - ORDINANCE NO. 97- 044 ( 6- 4- 1997)
+BrRD OF OUNTY COMMISSIONERS
+0 DESCHI( J S COUNTY. OREGON
+M7, L.//NIPPE Co rp Ion er
+A L. SWEARINGEN, Commissioner
+f.
+E_.._.._
+EXHIBIT A
+to Ordinance 97- 044
+Chapter 2. 54. ADMINISTRATION
+2. 54. 010. Board name.
+2. 54. 020. Purpose.
+2. 54. 030. Board membership.
+2. 54. 040. Compensation; expense
+reimbursement.
+2. 54. 050. Meetings, attendance and
+quorum.
+2. 54. 060. Powers and duties.
+2. 54. 070. Conflicts of interest.
+2. 54. 080. Appeal.
+2. 54. 090. Discretionary authority.
+2. 54. 010. Board name.
+The name of the board shall be the Deschutes
+County Corrections Supervisory Authority Board,
+hereinafter referred to as " the board." ( Ord. 97-
+009 § 1, 1997)
+2. 54. 020. Purpose.
+The purpose of the board is to operate
+corrections supervision services and custodial
+facilities within Deschutes County pursuant to
+ORS 144. 087. ( Ord. 97- 009 § 1, 1997)
+2. 54. 030. Board membership.
+A. The membership of the board shall
+consist of:
+1. one county commissioner;
+2. the county sheriff,
+3. the county administrator;
+4. the director of community justice for
+Deschutes County and
+5. three electors of Deschutes County to be
+appointed by the Sheriff.
+B. The chair of the board shall be the
+Sheriff of DeschutesCounty.
+C. The Deschutes County Corrections
+Director for the Sheriffs Department and the
+Department Manager for Adult Parole and
+Probation shall provide administrative support to
+the board, but shall not be members of the board.
+Ord. 97- 044 § 1, 1997; Ord. 97- 009 § 1, 1997)
+2. 54. 040. Compensation; expense
+reimbursement.
+No board member shall receive
+compensation, but shall be reimbursed for
+authorized expenses. ( Ord. 97- 009 § 1, 1997)
+1 - EXHIBIT A to Ordinance 97- 044 ( 6- 4- 97)
+0162- 013' 7
+2. 54. 050. Meetings, attendance and
+quorum.
+A. The board shall hold at least one regular
+meetingeachmonthat a time andplacefixed by
+it.
+B. A majority of the board shall constitute a
+quorum.
+C. The meetings of the board will be on the
+third Tuesday of every month where the third
+Tuesday is a legal business day. The board shall
+comply with all appropriate provisions of the
+Public Meetings Act as set forth in ORS Chapter
+192 as amended from time to time by the Oregon
+Legislature. ( Ord. 97- 044 § 1, 1997; Ord. 97- 009
+1, 1997)
+2. 54. 060. Powers and duties.
+A. The board shall be responsible for inmate
+sanctions and supervision, and policies and
+procedures for correction supervision services
+and custodial facilities within Deschutes County.
+B. All terms of imprisonment or
+incarceration of 12 months or less ordered by
+Deschutes County Courts must be served at the
+direction of the board, except as provided in ORS
+137. 124, 137. 593( 2)( d) and 423. 478. ( Ord. 97-
+009 § 1, 1997)
+2. 54. 070. Conflicts of interest.
+A member of the board shall not participate
+in any board proceedingor action in which any of
+the following have a direct, substantial financial
+interest: the member or his spouse, brother, sister,
+child, parent, father- in- law, mother- in- law, or any
+businesswith which he is negotiating for or has
+an arrangement or understanding concerning
+prospective investment or employment. Any
+actual or potential interest shall be disclosed at
+the meeting of the board where the matter is
+being considered. (Ord. 97- 009 § 1, 1997)
+2. 54. 080. Appeal.
+The decision of the board shall be the final
+decision of the county. ( Ord. 97- 009 § 1, 1997)
+2. 54. 090. Discretionarvauthori
+All decisions of the Deschutes County
+Corrections Supervisory Authority Board are
+discretionary. Chapter 2. 54 is intended to carry
+out the provisions and intent of the Oregon
+0162- 0138
+Legislature as adopted in Senate Bill 1145,
+Chapter 423, Oregon Laws ( 1995). The
+implementation of SB 1145 by the Deschutes
+County Board of Commissioners, under
+Ordinance No. 97- 009 and this ordinance, is to
+provide the greatest scope of delegation and
+discretion to the Deschutes County Corrections
+SupervisoryAuthorityBoard to meet the needs of
+the community and to join with the State of
+Oregon to implement the partnership as outlined
+by SB 1145. ( Ord. 97- 044 § 1, 1997)
+2 - EXHIBIT A to Ordinance 97- 044 ( 6- 4- 97)

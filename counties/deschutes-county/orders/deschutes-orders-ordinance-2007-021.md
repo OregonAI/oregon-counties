@@ -1,0 +1,633 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2007-021
+title: 'Ordinance No. 2007-021'
+doc_type: ordinance
+citation: 'Ordinance No. 2007-021'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616982353_2007-1574-Ordinance%20No.%202007-021%20Recorded%2010_11_2007.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 827c9149e2717fd0d5c779cc647688e9235bc0f9363acce7c60c5d46cf00d73a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2007-021 (Ordinance No. 2007-021)
+
+## At a glance
+
+Ordinance No. 2007-021 — orders of Deschutes County. 9 pages.
+
+## Full text
+
+REVIEWED
+LEGAL COUNSEL
+CODE RE
+Qf r~ \
+ED
+RAIEW"COMMITTEE
+NANCYUBLANKENSHIP,F000NTYCLERKDS1~~1 L001.1514
+COMMISSIONERS' JOURNAL ,
+Miu~uim
+2007- 1574
+10111100704, 30,14 PM
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending the Deschutes County Code
+Title 18, Supplementary Provisions for Home * ORDINANCE NO. 2007- 021
+Occupations.
+WHEREAS, at the request of the Board of County Commissioners (" Board") in response to issues that
+occurred through application of the Code adopted in 2004 in response to issues that occurred throughapplication
+of the code adopted in 2004, Deschutes County Community Development Departmentstaff initiated changesto
+the Home Occupation provisions in the Deschutes County Code (" DCC"); and
+WHEREAS the Planning Commission considered this matter after public hearings on March 22, 2007
+and April 26, 2007 and forwarded amendments to the zoning regulations for Home Occupations to the Board;
+and
+WHEREAS the Board considered this matter after a public hearing on August 20, 2007 and concluded
+that the public will benefit from changesto the land use regulations for home occupations; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 18. 116.280, Home Occupations is amended to read as described in
+Exhibit " A," attached hereto and by this reference incorporated herein, with new language underlined and
+language to be deleted in stril gh.
+PAGE 1 OF 2 - ORDINANCE NO. 2007- 021 ( 9/ 24/07)
+Section 3. FINDINGS. The Board of Commissioners adopts as it findings in support of this
+amendment as in Exhibit " B" attached and incorporated by reference herein.
+Dated this / nAof 2007
+ATTEST:
+64d'
+Recording Secretary
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+MICHAEL M. DALY, CHAIR
+DENNIS R. LUKE, VICE CHAIR„
+TAMMY" BANRY, COMMIS
+If
+NER
+Date of 1StReading: ' dayof ' 2007.
+Date of 2"d Reading: 4:~dayof 2007.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Michael M. Daly t/
+Dennis R. Luke
+Tammy Baney
+Effective date: J-Ir day of , 20013,
+ATTEST:
+6W, 4~6XhtA-
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2007- 021 ( 9/ 24/07)
+Chapter 18. 116. SUPPLEMENTARY
+PROVISIONS
+18. 116.010. Authorization of similar uses.
+18. 116.020. Clear vision areas.
+18. 116.030. Off- street parking and
+loading.
+18. 116.031. Bicycle parking.
+18. 116.035. Bicycle commuter facilities.
+18. 116.040. Accessory uses.
+18. 116.050. Manufactured homes.
+18. 116.070. Placement standards for
+manufactured homes.
+18. 116.080. Manufactured home or RV as
+a temporary residence on an
+individual lot.
+18. 116.090. A manufactured home as a
+temporary residence for
+medical condition.
+18. 116.095. Recreational vehicle as a
+temporary residence on an
+individual lot.
+18. 116.100. Building projections.
+18. 116.200. Repealed.
+18. 116.120. Fences.
+18. 116.130. Hydroelectric facilities.
+18. 116.140. Electrical substations.
+18. 116.150. Endangered species.
+18. 116.160. Rimrock setbacks outside of
+LM combining zone.
+18. 116.170. Solar height restrictions.
+18. 116.180. Building setbacks for the
+protection of solar access.
+18. 116.190. Solar access permit.
+18. 116.200. Repealed.
+18. 116.210. Residential homes and
+residential facilities.
+18. 116.215. Family childcare provider.
+18. 116.220. Conservation easements on
+property adjacent to rivers
+and streams- Prohibitions.
+18. 116.230. Standards for class I and II
+road projects.
+18. 116.240. Protection of historic sites.
+18. 116.250. Wireless telecommunications
+facilities.
+18. 116.260. Rock crushing outside the SM
+zone.
+18. 116.270. Conducting filming activities
+in all zones.
+18. 116.280. Home Occupations.
+18. 116.280. Home Occupations.
+A. Home OccupationsUses Permitted
+Outright In All Zones.
+1. Home occupations that operate from
+within a dwelling, have
+characteristics that are
+indistinguishable from the residential
+use of a dwelling, and meet the
+criteria in paragraph (A)(2) shall be
+considered uses accessory to the
+residential use of a dwelling.
+2. Home occupations under this
+subsection ( A) that meet the
+following criteria are uses permitted
+outright under Title 18 of the
+Deschutes County Code, the
+Deschutes County Zoning
+Ordinance, in all zones:
+a. Af ed o
+n
+Is conducted
+within a dwelling only by
+residents of the dwelling;
+b. Does not serve clients or
+customers on- site;
+c. Does not occupy more than 25
+percent of the floor area of the
+dwelling;
+d. DE) not have epefatiffg
+dust, glare -#lasflashing lights e
+that °
+e
+doteetable off site,neise
+and; Does not produce odor,
+dust, glare, flashing lights, noise
+smoke or vibrations in excess of
+that created by normal residential
+use.
+e. Does not include the on-
+prv~ jte advertisement,
+display or sale of stock in trade.
+B. Types_ . The following deser-ibes the
+types
+of
+i
+eme eeetipatiens allowed
+Deschutes- CetmP-In addition to the
+home occupations allowed in Section A
+above, three Types of home occupations
+maybe allowed with limitations on
+location and intensity of allowed uses.
+Type 1 allows low intensity uses and
+Types 2 and 3 allow progressively
+greater intensity of uses.
+fC. Type 1. Where permitted outright, a
+Type 1 home occupation does not
+require a land use permit but shall be
+subject to the following
+lititatiens. Acriteria. A Type 1 home
+occupation: is one that!
+Ia. Does not require a minimum
+parcel size.
+2. is eafried Is conducted within
+a dwelling and/or a residential
+accessory structure only by
+reside- --- areside.nts of the
+dwelling;
+4. Does not occunv more than 25
+percent of the combined floor
+area of the dwelling including
+attached garage and one
+accessory structure.
+5. Does of genefate Creates no
+more than five ( 5) YES-trips to
+the site per day terthe- site for
+customers or clients, including
+parcel delivery services;
+6e. May include employees or
+contractors that work off- site;
+Q. Does not produce prolonged
+odor, dust, glare, flashing lights
+or noise smoke, and vibrations in
+excess of that created by normal
+residential use;
+e8. Does not involve the on-
+prentisesite advertisement
+display or sale of stock in trade,
+other than vehicle or trailer
+sign a7ea*d-
+9. Does not include building, or
+ground mounted signs.
+10. Does not include outsides
+storage of equipment or
+materials used in the operation of
+the home occupation.
+11. Has adequate access and on- site
+parking for not more than one ( 1)
+customer, or delivery vehicle at
+any given time.
+12. Allows on- site one ( 1) business-
+related vehicle or truck not
+exceeding 15, 000 pounds gross
+vehicle weight and one ( 1 other
+non- motorized wheeled
+e ui ment ( trailer) which shall
+not exceed 3, 000 pounds gross
+vehicle weight.
+13. Complies with all requirements
+of the Deschutes County
+Building Safety Division and the
+Environmental Health Division
+and any other applicable state or
+federal laws. Compliance with
+the requirements of the
+Deschutes County Building
+Safety Division shall include
+meeting all building occIMancy
+classification requirementsof the
+state- adoptedbuilding code.
+14. Is conducted in such a wa y that it
+is compatible with the residential
+character, or in resource zones,
+resource- oriented character of its
+location.
+15. Does not involve any external
+changesto the dwelling in which
+the home occupation will be
+established that would give the
+dwelling an outward appearance
+of a business.
+16. Allows for- servicing, inspecting,
+loading, and or dispatching of
+vehicles and equipment
+incidental to the home
+occupation and stored within the
+dwelling, attached garage o
+accessory structure.
+D. Type 2. A Type 2 home occupation
+may be allowed as a condtional use
+with an approved conditional use
+permit subject to the approval criteria
+below. A Type 2 home occupation is
+not subject to the approval criteria
+for a conditional use permit in DCC
+Chapter 18. 128.01. 5 or a site plan
+review under DCC Chapter 18. 124.
+2 home oeeupa4ions may be allowed
+as eenditional uses with an appfeve
+eenditiena; rase- pefmit.-c.,~ use-s
+Type 2 home occupations are subject
+to the standards of the zone in which
+the home occupation will be
+established and Uie following .
+A Type 21 home eeeupation is HE)
+subaeFt to the approval eriter-i f
+e0fiditie" -- pertnit in PGG
+Ghaptei- 18. 128 or site p!
+18. 124.__ A Type
+2 home occupation is one Met:
+al. Is conducted from a property that
+is at least one- half ( 1/ 2) acre in
+size.
+2. 1} GIs conducted within
+a dwelling and/or an accessory
+building stricture by residents of
+the dwelling and no more than
+two ( 2) employeeswho report to
+the property for work.
+3. May include employees or
+contractors that work off site.
+d4. Does not occupy more than 25
+percent, up to a maximum of
+1, 500 square feet, of the
+combined floor area of the
+dwelling, including attached
+garage; and one ( 1) aeeessei:}
+accesso structure. The
+that ean be devoted to a Type 2
+heme eeeupatien is 1, 500square
+feet.
+d5. M4y_ h3eladeineludeson- site
+sales of products associated with
+the home occupation that are
+incidental and subordinate to the
+home occupation.
+e6. Creates no more than ten ( 10)
+business-related vehicle trips to
+the site per day by employees,
+customers or clients, and parcel
+delivery services.
+17. Has adequateaccess and- and on-
+site parking ' . } eI S an
+ettstefnefs-J'Or not more than four
+4) customer and employee, or
+delivery vehicles at any given
+time.
+g8. Is limited to the hours of 8: 00
+a. m. to 5: 00 p. m., Monday
+through Friday, for operation.
+139. Does not involve any external
+changes to the dwelling or the
+accessory buildi ig- stnicture in
+which the home occupation will
+be established that would give
+any building an outward
+appearance of a business. Any
+sueh aiteffltions heave been
+feviewed and appfeved by the
+Besehutes Ce my Plannin
+Divisien.
+i 10. Does not use inater-ials
+fneehanie l equipment hieh
+will be detrimental - to the
+eder, light-- inteffereneewith
+otherfaetors: Does not produce
+prolonged odor, dust, glare
+flashing lights, noise, smoke, or
+vibrations in excess of that
+created by normal residential
+use.
+j H . Complies with all requirements
+of the Deschutes County
+Building Safety Division and the
+Environmental Health Division
+and any other applicable state or
+federal laws. Compliance with
+the requirements of the
+Deschutes County Building
+Safety Division shall include
+meeting all building occupancy
+classification requirements of the
+state- adoptedbuilding code.
+k12. May have one ( 1) sign,
+ground- mounted or wall-
+mounted, as defined in DCC
+Chapter 15.08, that is no more
+than three ( 3) square feet in area,
+non- illuminated„ The _ffound-
+mounted sign and support shall
+not exceed 6 feet in height and is
+located on the property from incidental to the home
+which the home occupation will occupation and stored within the
+operate. Such signs do not dwelling, attached garage or
+require a sign permit under DCC accessory structure.
+Chapter 15.08, Signs. 21n. The following uses afe net
+113. May be subject to an annual aflewed--as 4) Te 2 hem
+inspection, as a condition of an eeetipationsDoes not include the
+approval, to ensure compliance following activities:
+with the requirements of this ia. Repair, towing, or
+section and the conditions of an storage of motorized
+approved conditional use permit. vehicles and equipment,
+14. Allows on- site one ( 1) business- including but not limited to
+related vehicle or truck not automobiles, trucks, trailers,
+exceeding 15, 000 pounds gross recreational vehicles, and
+vehicle weight and one ( 1) other boats.
+non- motorized wheeled trailer iib. Detailing, painting, and
+which shall not exceed 10,00 0 upholstery of motorized
+pounds gross vehicle weight. vehicles.
+n315. May Does not include iiic. Businesses that store and
+outside storage of equipment or use vehicles with a gross
+materials used in operation of the vehicle weight rating of
+home occupation. greater than or equal to
+16. Is conducted in such a way that it 15, 000 pounds or equipment
+is compatible with the residential with an operating weight
+character, or in resource zones greater than or equal to
+resource- oriented character of its 310,000 pounds.
+location.. iN~d. Appliance repair.
+17. All employee, customer and ve. Welding or machine
+delivery vehicle parking spaces shop.
+shall be on- site and shall be
+located outside of the required E3. Type 3. Type 3 home occupations
+zone setbacks. may be allowed as conditional uses
+18. Any structure on the property with an approved conditional use
+where the home occupation is per nt. ekpermit. Such uses are
+conducted shall be of a We subject to the standards of the zone in
+normally associated with the which the home occupation will be
+zone where it is located. established,
+19. Does not include structural el- in DCC E# apte_r Section
+alterations affecting the 18. 128.015, and the following
+residential appearance of a limitations. A lope 3- heme
+building to accommodate the oeeupatiaii is not subjeet to site plaii
+home occupation except when review under DCC Chapter 18. 124.
+otherwise required by law, and, A Type 3 home occupation-i&--one
+then., only after the plans for that:
+such alterations have been 1. Is conducted from a property that
+reviewed and approved by the is at least one- half ( 1/ 2) acre in
+Deschutes County Planning size.
+Division. 2a. Is conducted in such a way that it
+20. Allows servicing, inspecting, is compatible with the residential
+loading, and or dispatching of character, or in resource zones,
+vehicles and equipment
+resource- oriented character of its
+location.
+3b. Is earried on.1s conducted within
+a dwelling and/or an accessory
+building structure by membe
+the-€ amily{-who reside in
+residents of the dwelling and no
+more than two ( 2) employees
+who report to the property for
+work. May have a maximum of
+five 5) employees at the home
+occupation located on property
+in an EFU, MUA10, or RRIO
+zone and that is at least 10 acres
+in size.
+4. May include employees or
+contractors that work off site.
+pf: epefty t-- is-jeaat
+EFU Fefest
+N4.UAInsof
+RRIO
+Zone and that at least 10 aeres
+i,.,
+not thanmay fnere111 JlL°
+the Pfepefty fee weds.
+5e. Does not occupy more than 35
+percent of the combined floor
+area of the dwelling, including
+an attached garage; and one ( 1)
+accessory4mi4ding, structure.
+d6. May ilncludes on- site sales of
+products associated with the
+home occupation that are
+incidental and subordinate to the
+home occupation.
+e7.
+u fr- equeneythat will
+eausa- iceturbanec Of
+enee to near-by land
+ean- eCreates no more than
+twenty ( 20) business-related
+vehicle trips to the site per day
+by employees, customers or
+clients, including parcel delivery
+services.
+A. Has adequate access and on- site
+parking for not more than five
+5) customer, employee, or
+delivery vehicles at any given
+time. Vehicles used by the
+operator- to eenduetthe- heme
+ehi le weight o 15, 000
+Y.
+pounds Faust be aFlied
+sereened- aeeerding to tho
+regttiraments of DGC
+g_9. Is limited to the hours and days
+of operation proposed by an
+applicant and approved with a
+conditional use permit.
+10.- Does not involve any
+external changesto the dwelling
+or accessory structure in which
+the home occupation will be
+established that would give the
+dwelling an outward appearance
+of a business. ^ ° tftiet fe °
+the- prepeftywhere the h~ ee
+of a 3e ne - associated
+with the zone where it is leeated.
+a€= eeting the residential
+allowed to aeeemmeda4e the
+er- equifed by law, and
+alterations have been ed
+mid appfeved by the Desehtite~
+rte. nt" nl„ . n:,
+M. Does not use materials er
+will be detrimental to the
+adjoining r- esideneesbeeause E)
+tbf84ion, - fle+ s , dos+ smoke,
+aeters. Does not produce
+prolonged odor, dust, glares
+flashing lights, noise smoke, or
+vibrations in excess of that
+created by normal residential
+use.
+j. Complies with all requirements
+of the Deschutes County
+Building Safety Division and the
+Environmental Health Division
+and any other applicable state or
+federal laws. Compliance with
+the requirements of the
+Deschutes County Building
+Safety Division shall include
+meeting all building occupancy
+classification requirementsof the
+state- adoptedbuilding code.
+k13.- May have one ( 1) sign,
+ground- mounted or wall-
+mounted, as defined in DCC
+Chapter 15.08, that is no more
+than three ( 3) square feet in area,
+non- illuminated;. The gound-
+mounted sign and support
+structure shall not exceed 6 feet
+in height and is located on the
+property from which home
+occupation will operate. Such
+signs do not require a sign permit
+under DCC Chapter 15.08,
+Signs.
+l 14. May include outside storage of
+equipment and materials on
+parcels approved for a home
+occupation, not to be included in
+the 35 percent of combined floor
+area. if the subieet
+B
+t 10
+7' i't'[ ttCtl"tt~
+i. A- sjght-ebsearing € eitee, as
+v. Intreduee
+materiaals,-ineloding, but -net
+15m. The heme- eesupetien
+12 ineiiflis by the planning
+division te ensure ea
+with - ta Fequ r- ements of this
+se etien- aroma--the-- eerut ions
+required for approval of the
+use. Allows for servicing,
+inspecting, loading, and or
+dispatching vehicles and
+equipment incidental to the
+home occupation and stored
+within the buffered and screened
+outside area.
+16. Requires review of the home
+occupation approval every 12
+months by the planning division
+to ensure compliance with the
+requirements of this section and
+the conditions required for
+approval of the use.
+17. Conducts all home occupation
+activities within one or more
+structures on the propea that
+are of a type normally associated
+with the zone where it is located.
+18. Locates all employee, customer
+and delivery vehicle parking
+spaces on- site and outside of the
+required zone setbacks.
+19. Parks all vehicles used by the
+operator to conduct the home
+occupation that have a gross
+vehicle weight of 1. 5,000 or more
+pounds in a. Wage, an accessory
+structure or within a screened
+area according to the
+requirements of DCC
+1. 8.1 16. 280(E)( 21)(a through
+Lei.
+20. No structural alteration affecting
+the residential appearance of a
+building shall be allowed to
+accommodate the home
+occupation except when
+otherwise required by law, and
+then only after the plans for such
+alterations have been reviewed
+and approved by the Deschutes
+County Planning Division.
+21. Includes no outside storage
+unless the subject property is 10
+or more acres in size and the
+storage is setback a minimum of
+20 feet from all property lines,
+and is maintained to screen
+materials and equipment from
+residences on adjacent
+properties. The form of
+screeningmay include, but is not
+limited to:
+a. A sight- obscuringfence, as
+defined in DCC 18. 04.030.
+b. Intervening tree cover.
+c. Topography.
+d. Existing buildings on site.
+e Introduced landscape
+materials, including, but not
+limited to, trees and/or shrubs on
+an earthen berm.
+Ord 2007- 021 § 1, 2007; Ord 2004-002 § 24,
+2004)

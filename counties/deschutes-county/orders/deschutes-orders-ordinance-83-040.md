@@ -1,0 +1,490 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-83-040
+title: 'Ordinance No. 83-040'
+doc_type: ordinance
+citation: 'Ordinance No. 83-040'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616640740_1995-32011-Ordinance%20No.%2083-040%20Recorded%206_8_1983.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: bd5eaf6eebf0f22ed58a5fcd5c66d00d4021a48cb6d5ebbecbba83528ce25396
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 83-040 (Ordinance No. 83-040)
+
+## At a glance
+
+Ordinance No. 83-040 — orders of Deschutes County. 11 pages.
+
+## Full text
+
+95- 32011 VOL 47 PAGE536
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Ordin-
+ance No. 80- 201, the Redmond
+Urban Area Zoning Ordinance,
+Providing for Building Set-
+backs For the Protection of * i
+Solar Access and Solar Access
+Permits, Providing For Defin- * JUN 81983itions and Procedures, and
+Providing For Permits. * MARYSUEp,ENVOLCOV',!, Co. CCEaK
+ORDINANCE NO. 83- 040
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. Section 1. 030, PURPOSE, of Ordinance No. 80- 201,
+is amended by the addition of the following:
+To regulate the placement, height and bulk of build-
+ings; and the placement and growth of vegetation
+within the County to insure access to solar energy by
+reasonably regulating interests in property within the
+County, as authorized under ORS 215. 044 and ORS
+105. 880 through 105. 890, to promote and maximize the
+conservation of energy by preserving the option to
+utilize solar energy and to implement the Comprehen-
+sive Plan policies relating to solar energy.
+To encourage the design of new buildings, structures
+and developments which use solar energy and protect
+future options to use solar energy by protecting solar
+access."
+Section 2. Article 1., Section 1. 050, DEFINITIONS, of
+Ordinance No. 80- 201, is hereby amended to add the following new
+definitions:
+Exempt Vegetation. A tree or other plant that is
+shown by the sun chart accompanying a solar access
+permit application to cast existing shade on a
+protected area.
+Existing. Existing at the time of application.
+Highest Shade Producing Point. The highest shade
+producing point of the structure two hours before and
+after the solar zenith on December 21.
+NC ED
+i
+1 - ORDINANCE NO. 83- 040
+VOL 47 PACE537
+Northern Lot Line. For the purposes of Section 5. 300,
+Building Setbacks for the Protection of of Solar
+Access, the northern lot line shall be the northerly
+edge of the lot on which an applicant' s structure is
+located, unless directly north of the lot is an
+unbuildable area, in which case northern lot line
+means the northerly edge of the buildable area.
+Potential Structure. For purpose of solar access
+protection on a potential structure is any structure
+or building that could be built as a permitted use in
+a particular location under existing development
+standards under the existing Deschutes County
+Comprehensive Plan.
+Productive Solar Collector. A solar collector that
+provides no less than ( a) 10 per cent of a building' s
+annual total energy requirements; or ( b) 50 per cent
+of a building' s annual water heating requirements.
+Protected Area. The specific area which is provided
+solar access for specific hours and dates under this
+Ordinance.
+Shade. A shadow, except a shadow caused by a narrow
+object, including but not limited to a utility pole,
+an antenna, a wire, or a flagpole.
+Solar Access. Protection from shade for a specific
+area during specific hours and dates, but not includ-
+ing protection from shade cast by exempt vegetation.
+Solar Access Permit. The instrument issued by the
+County which limits the size of non- exempt vegetation
+on certain lots in the vicinity of a recorded solar
+collector.
+Solar Collector. Any object that uses solar radiation
+for a useful purpose, including but not limited to
+windows, walls, roofs and collectors.
+Solar Height Restriction. The allowable height of
+buildings, structures and non- exempt vegetation on a
+property burdened by the solar access of another
+property.
+Solar Heating Hours. The hours and dates during which
+solar access is provided.
+2 - ORDINANCE NO. 83- 040
+vok. 47 PACE538
+Substantially Shaded. Less than 80 per cent of the
+available solar insolation is available during winter
+solar heating hours to either the south roof and/ or
+wall of an existing or potential structure.
+Unbuildable Area. An area in which a structure could
+not be built as a permitted use under existing devel-
+opment standards for the area under the existing
+Deschutes County Comprehensive Plan.
+Sunchart. A photograph or photographs, taken in ac-
+cordance with the guidelines of the Planning director,
+which plots the position of the sun during each hour
+of the day and each month of the year relative to a
+protected area. The sunchart shall contain at a
+minimum:
+A) Solar altitude in 10 degree increments;
+B) Solar azimuth measured from true south in
+15 degree increments;
+C) If the solar collector is more than 20
+feet wide, the southern skyline as seen
+from the two end points and from the
+center point o the lower edge of the
+protected area; and
+D) A clear delineation of the existing ob-
+jects which cast shadows on the protected
+area, including hills, structures, and
+deciduous and evergreen vegetation.
+Winter Solar Heating Hours. The time period extending
+two hours before and after the solar zenith on
+December 21.
+Section 3. Article IV, of Ordinance No. 80- 201, is amended
+by the addition of the following:
+Section 4. 170. BUILDING SETBACKS FOR THE PROTECTION
+OF SOLAR ACCESS.
+1) Purpose. The purpose of this Section is to
+provide as much solar access as practical during the
+winter solar heating hours to existing or potential
+buildings by requiring all new structures to be con-
+structed as far south on thier lots as is necessary
+and feasible.
+3 - ORDINANCE NO. 83- 040
+VOL 47 PACUE539
+2) Standards. Every new structure or addition
+to an existing structure shall meet the following
+standards except as provided in ( c) below:
+A) South Wall Protection Standard. The
+south wall protection standard is
+established in Appendix A, and all new
+structures or additions shall meet this
+standard if feasible. If it is not
+feasible due to physical constraints of
+the lot, including but not limited to
+rock outcroppings, septic systems,
+existing legal restrictions or lot
+dimensions, as determined by the
+Planning Director, then the structure
+or addition must be located as far to
+the south on the lot as feasible and
+must meet the standard set forth in ( B)
+below.
+B) South Roof Protection Standard. All
+new structures or additions to existing
+structures shall meet the standard for
+south roof protection set forth in
+Appendix B.
+C) Exceptions. The south roof protection
+standard shall not apply only if the
+applicant establishes:
+1. That the structure cannot be
+located on the lot without
+violating the requirements
+contained in Appendix B; and
+2. That the structure is built with
+its highest point as far to the
+south as feasible; and
+i) that the structure is a
+single family residence with
+a highest point less than or
+equal to 16 feet high; or, if
+not a single family resi-
+dence;
+ii) that it is a permitted or
+conditional use for the lot.
+4 - ORDINANCE NO. 83- 040
+vOL 47 FACE540
+3) Exemptions.
+A) The governing body may exempt from the
+provision of this Section any area
+which it determines that solar uses are
+not feasible because the area is al-
+ready substantially shaded due to heavy
+vegetation, steep north facing slopes,
+and any area or zone in which taller
+buildings are planned.
+B) The Planning Director shall exempt a
+structure from the provisions of this
+Section if the structure will shade
+only a protected area in which solar
+uses are not feasible because the pro-
+tected area is already substantially
+shaded at the time a request for
+exemption is made and approved by the
+Planning Director.
+C) The Planning director shall exempt a
+structure from the provisions of
+Section 4. 170 of this Ordinance if the
+structure is in conformance with a
+solar height restriction as provided in
+Sections 4. 300 and 6. 030 of Ordinance
+81- 043, Deschutes County Subdivision/
+Partition Ordinance, as amended.
+Section 4. 180. SOLAR ACCESS PERMIT.
+1) Purpose. The purpose of this Section is to
+provide solar access to productive solar collectors by
+establishing limitations, on a case by case basis, for
+the growth of vegetation on certain lots in the
+vicinity of a productive solar collector.
+2) Application for Solar Access Permit.
+A) Any owner may submit an application for
+a solar access permit to provide solar
+access for a productive solar collector
+located on the owner' s real property.
+B) The application for a solar access per-
+mit shall be on forms prescribed by the
+County and shall contain at a minimum:
+1. A legal description of the appli-
+cant' s lot, including a statement
+that the applicant is the owner of
+5 - ORDINANCE NO. 83- 040
+VOL 47 PAGE542
+the lot, and a description of the
+nature of the applicant' s interest
+in the lot;
+2. Documentation to show that the
+solar collector is or will be a
+productive solar collector within
+one year of application;
+3. Descriptive drawings of the solar
+collector showing its dimensions
+and precise location;
+4. A sunchart and a statement of the
+solar heating hours for which
+solar access is sought;
+5. A statement that there is no
+reasonable alternative location
+for the solar collector that would
+result in a lesser burden on a
+neighboring lot;
+6. A statement that trimming the
+vegetation on the applicant' s lot
+will not permit an alternative
+location that would lessen the
+burden on a neighboring lot;
+7. A list of the lots that are within
+150 feet to the south, southeast,
+or southwest of the solar collect-
+or, including street, alleys and
+other ubuildable areas; a legal
+description for each such lot; the
+owner or record and his address;
+the exempt vegetation located on
+the lot; and any existing non-
+exempt vegetation likely to en-
+croach on the protected area.
+8. A statement that none of the lots
+impacted are located on a north
+facing slope with a grade that
+exceeds, on average, 15 per cent.
+9. A plot plan showing the location
+of and delineating all exempt and
+non- exempt vegetation as shown on
+the sunchart photograph as well as
+any non- exempt vegetation not
+shown on the sunchart which may
+6 - ORDINANCE NO. 83- 040
+VOL 47 PACE542
+encroach on the protected area in
+the future. The plot plan shall
+also include:
+i) The exact site of the solar
+collector, its height and
+its orientation.
+ii) Scale.
+iii) An indication of true north.
+iv) A survey of the lot.
+C) The solar access permit application
+shall be approved if:
+1. The solar collector is or will be
+a productive solar collector;
+2. The protected area to be created
+by the solar access permit is
+reasonably located. A solar
+access permit shall be denied
+under this paragraph if the
+applicant could trim his own
+vegetation to permit an alterna-
+tive location that would be less
+burdensome upon a burdened neigh-
+boring lot. A solar access permit
+shall also be denied under this
+paragraph if there is an alternate
+location that would impose a
+lesser burden on a neighboring lot
+or lots.
+3. The applicant requests solar
+heating hours no greater than two
+hours before and after the solar
+zenith from September 22 to March
+21, and three hours before and
+after the solar zenith from March
+22 to September 21;
+4. The solar access provided by the
+permit does not burden any lot:
+with a north facing slope with a
+grade that exceeds, on average, 15
+per cent; or which is more than
+150 feet from the solar collector;
+and
+7 - ORDINANCE NO. 83- 040
+VOL 47 FACE543
+5. The application is accurate and
+complete.
+3) Solar Access Permit Issuance and
+Recordation.
+A) Upon the approval of an application,
+the County shall issue and acknowledge
+a solar access permit creating the
+solar access requested in the appli-
+cation.
+B) Upon receiving such a permit, the
+County Clerk shall:
+1. Record the solar access permit in
+the chain of title of the appl-
+icant' s lot and of each neighbor-
+ing lot identified in the appli-
+cation; and
+2. Keep a copy of the approved appli-
+cation on file in County Records.
+C) The form of the solar access permit
+shall be as prescribed by the County
+and shall contain at a minimum:
+1. A legal description of the appli-
+cant' s lot and each neighboring
+lot to be burdened by the solar
+access created by the solar access
+permit; and
+2. A complete description of the
+solar access restrictions appli-
+cable to each neighboring lot,
+including the solar heating hours
+during which solar access is
+provided, and a sunchart showing
+the plotted skyline, including
+vegetation and structures, and a
+scaled drawing showing the size
+and location of the protected area
+and its orientation with respect
+to true south; and
+3. A reference to where the approved
+application may be obtained.
+8 - ORDINANCE NO. 83- 040
+VOL 47 PACE544
+4) Obligation Created by Solar Access Permit.
+The owner of any lot burdened by a solar access permit
+shall trim any vegetation not exempted on the burdened
+lot that shades the protected area created by the
+solar access permit, provided that there is no vegeta-
+tion on the lot benefited by the solar access permit
+that also shades the protected area. The cost of such
+trimming shall be borne by the owner of the benefited
+lot if the vegetation existed at the time of permit
+application as shown on the plot plan; and for all
+other vegetation, by the owner of the burdened lot.
+Before any trimming is required, the collector owner
+must certify that the collector is still productive.
+5) Termination of Solar Access Permit.
+A) The Planning Director shall terminate
+the solar access permit with respect to
+all or part of the neighboring lots
+burdened by the solar access permit if
+a petition for termination is submitted
+by the applicant or the applicant' s
+successor in interest, or the collector
+is not productive for 12 consecutive
+months.
+B) The County Clerk Shall record the
+termination of the solar access permit
+in the chain of title of each lot
+affected by the termination.
+Section 5. Subsection ( 6), Section 3. 010, of Ordinance No.
+80- 201, is amended by the addition of the following:
+d) The setback from the northern lot line shall meet
+the solar setback requirements in Section 4. 170."
+Section 6. Subsection ( 6), Section 3. 020, of Ordinance No.
+80- 201, is amended by the addition of the following:
+d) The setback from the northern lot line shall meet
+the solar setback requirements in Section 4. 170."
+Section 7. Subsection ( 6), Section 3. 030, of Ordinance No.
+80- 201, is amended by the addition of the following:
+d) The setback from the northern lot line shall meet
+the solar setback requirements in Section 4. 170."
+Section 8. Subsection ( 6), Section 3. 040, of Ordinance No.
+80- 201, is amended by the addition of the following:
+9 - ORDINANCE NO. 83- 040
+voL 47 PAGE545
+d) The setback from the northern lot line shall meet
+the solar setback requirements in Section 4. 170."
+Section 9. Subsection ( 6), Section 3. 045, of Ordinance No.
+80- 201, is amended by the addition of the following:
+d) The setback from the northern lot line shall meet
+the solar setback requirements in Section 4. 170."
+Section 10. Subsection ( 5), Section 3. 050, of Ordinance No.
+80- 201, is amended by the addition of the following:
+e) The setback from the northern lot line shall meet
+the solar setback requirements in Section 4. 170."
+Section 11. Subsection ( 5), Section 3. 060, of Ordinance No.
+80- 201, is amended by the addition of the following:
+h) The setback from the northern lot line shall meet
+the solar setback requirements in Section 4. 170."
+Section 12. Subsection ( 6), Section 3. 070, of Ordinance No.
+80- 201, is amended by the addition of the following:
+e) The setback from the northern lot line shall meet
+the solar setback requirements in Section 4. 170."
+Section 13. Subsection ( 5), Section 3. 080, of Ordinance No.
+80- 201, is amended by the addition of the following:
+e) The setback from the northern lot line shall meet
+the solar setback requirements in Section 4. 170."
+Section 14. Subsection ( 5), Section 3. 090, of Ordinance No.
+80- 201, is amended by the addition of the following:
+c) The setback from the northern lot line shall meet
+the solar setback requirements in Section 4. 170."
+Section 15. Subsection ( 6), Section 3. 110, of Ordinance No.
+80- 201, is amended by the addition of the following:
+a) The setback from the northern lot line shall meet
+the solar setback requirements in Section 4. 170."
+Section 16. Subsection ( 6), Section 3. 120, of Ordinance No.
+80- 201, is amended by the addition of the following:
+a) The setback from the northern lot line shall meet
+the solar setback requirements in Section 4. 170."
+10 - ORDINANCE NO. 83- 040
+VOL 47 FACE546
+Section 17. Subsection ( 4), Section 3. 130, of Ordinance No.
+80- 201, is amended by the addition of the following:
+b) The setback from the northern lot line shall meet
+the solar setback requirements in Section 4. 170."
+Section 18. Ordinance 80- 201 is amended by the addition of
+Section 4. 035, Solar Height Restrictions, which reads as follows:
+Section 4. 035. Solar Height Restrictions. No
+building, structure or non- exempt vegetation may
+exceed the solar height restriction established on a
+burdened property by the solar access of a benefited
+property."
+DATED this day of J nA. 1983.
+ATTEST:
+PW
+C_,
+SUSAkt
+gANSTONEMAN
+D- Recording Secretary
+11 - ORDINANCE NO. 83- 040
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+INA eb,- jp
+M•: • . . -
+LAURENCE A:' TUTTLE, \ Commissioner

@@ -1,0 +1,1151 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2015-029
+title: 'Ordinance No. 2015-029'
+doc_type: ordinance
+citation: 'Ordinance No. 2015-029'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1625589850_2015-495-Ordinance%20No.%202015-029%20Recorded%2012_4_2015.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: f5f412f8b26913b26b67e8e1dea38be91e5cf8c33f7537ad13467c3bb3a6e1bd
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - OAR 660-022-0030
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2015-029 (Ordinance No. 2015-029)
+
+## At a glance
+
+Ordinance No. 2015-029 — orders of Deschutes County. 28 pages.
+
+## Full text
+
+yR
+EVIEWED
+NANCYOBLANKENSHIP, F000NTY
+CLEFICIAL
+cj 20+}4+Q
+LEC3AL` rC0TNSEL
+COMMISSIONERS'  JOURNAL
+12/04/201501'52'07PM
+1111111141IIIIIIIIIIIII1I201 -4
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending DeschutesCounty Code
+Title 23, the Deschutes County Comprehensive Plan,    *  ORDINANCE NO. 2015- 029
+to amend Section 5. 12 and The Tumalo Community     *
+Plan, and to Change the Plan Designation on Certain     *
+Property from Tumalo Residential 5-Acre Minimum     *
+to Tumalo Industrial and Declaring an Emergency.
+WHEREAS, C. R. Contracting, I, LC proposed a Plan Amendment to Deschutes County Code (" DCC"),
+Title 23, the DeschutesCountyComprehensivePlan, Section5.12, LegislativeHistory,theTumaloCommunity
+Plan, and to change the comprehensive plan designation of certain property from Tumalo Residential 5-Acre
+Minimum to Tumalo Industrial; and
+WHEREAS, after notice was given in accordance with applicable law, a public hearing was held on
+August 18, 2015 before the Deschutes County Hearings Officer, and on October 7, 2015 the Hearings Officer
+approved the Plan Amendment; and
+WHEREAS, because no appeal was filed, the Board of County Commissioners (" Board") did not
+initiate review of the application and the decision does not require an exception to the goals or concern lands
+designated for forest or agricultural use,  pursuant to DCC 22. 28. 030( B),  the Board must approve the
+comprehensive plan designation change; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1.  AMENDMENT.  DCC Section 23. 01. 010, Introduction, is amended to read as described in
+Exhibit " A", attachedandincorporatedby referenceherein, with new languageunderlinedanddeletedlanguage
+set forth in stri a „- h.
+Section 2. AMENDMENT. The DeschutesCounty Comprehensive Plan Appendix B, Tumalo
+Community Plan, is amended to read as described in Exhibit" B", attachedand incorporated by referenceherein
+with new language underlined and deleted language set forth in stfiketlifeugh.
+Section 3. AMENDMENT. DeschutesCounty ComprehensivePlan Section 5.12, Legislative History,
+is amended to read as described in Exhibit" C", attached and incorporated by reference herein with new
+language underlined and deleted language set forth in t et-hrough.
+Section 4.  AMENDMENT.  The Deschutes County Comprehensive Plan Map, is amended to change
+the plan designation for certain property described in Exhibit " D" and depicted on the map set forth as Exhibit
+E", with both exhibits attached and incorporated by reference herein, from. Turnalo Residential 5-Acre
+Minimum to Tumalo industrial.
+Page 1 of 2 - ORDINANCE NO. 2015- 029
+Section 5.  FINDINGS. The Board adopts as its findings in support of this decision, the Decision of the
+I-learings Officer, Exhibit" F", attached and incorporated by reference herein.
+Section 6.  EMERGENCY.  This ordinance being necessary for the preservation of the public peace,
+healthandsafety, anemergencyisdeclaredtoexistandthisOrdinancetakeseffectonitspassage.
+Dated this
+2
+of    / V
+C/ V ,    , 2015 BOARD OF COUNTY COMMISSIONERS
+OF DESCHIJTES COUNTY, OREGON
+ANTHONY DeBONE, Chair
+aim UM,
+ALAN UNGER, Vice Chair
+ATTEST:
+Recording Secretary TAMMY BANEY, issioner
+Date of I" Reading:  30 day of Al.    , 2015.
+Date of
+2nd
+Reading:  day of OT 2015.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Tammy l3a.ney
+Anthony DeBone v
+Alan Unger'
+7,
+Effective date:  V day of O 2015.
+Page 2 of 2 - ORDINANCE NO. 2015- 029
+Chapter 23. 01 COMPREHENSIVE PLAN
+23. 01. 010. Introduction.
+A.       TheDeschutesCountyComprehensivePlan,adoptedbytheBoardin Ordinance2011-003
+andfound on the DeschutesCounty Community DevelopmentDepartmentwebsite, is
+incorporated by reference herein.
+B.       TheDeschutesCountyComprehensivePlanamendments, adoptedbytheBoardin Ordinance
+2011-027, are incorporated by reference herein.
+C.       TheDeschutesCountyComprehensivePlanamendments, adoptedbytheBoardin Ordinance
+2012- 005, are incorporated by reference herein.
+D.       TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2012- 012, are incorporated by reference herein.
+E.       TheDeschutesCountyComprehensivePlanamendments, adoptedbytheBoardin Ordinance
+2012- 016, are incorporated by reference herein.
+F.       The DeschutesCounty ComprehensivePlanamendments, adoptedby the Board in Ordinance
+2013- 002, are incorporated by reference herein.
+G.       The DeschutesCounty ComprehensivePlanamendments, adoptedby the Board in Ordinance
+2013-009, are incorporated by reference herein.
+H.       The DeschutesCounty ComprehensivePlanamendments, adoptedby the Board in Ordinance
+2013-012, arc incorporated by reference herein.
+1. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2013-007, are incorporatedby referenceherein.
+J. The DeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2014-005, are incorporated by reference herein.
+K.       TheDeschutesCountyComprehensivePlanamendments, adoptedbytheBoardin Ordinance
+2014-006, are incorporated by reference herein.
+L.       The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2014-012, are incorporatedby referenceherein.
+M.      The DeschutesCounty ComprehensivePlanamendments, adoptedby the Board in Ordinance
+2014-021, are incorporated by reference herein.
+N.       The Deschutes Count y Comprehensiverehensive Plan amendments, adopted by the Board in OrdinanceP
+2014- 027, are byincorporated b reference herein.P
+O.       The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in
+Ordinance 2015-021, are incorporated by referenceherein.
+P.       The DeschutesCounty Comprehensive Plan amendments, adopted by the Board in
+Ordinance 2015- 029, are incorporated by reference herein.
+Ord. 2015- 029 § 1.,2015; Ord. 2015- 021. § 1, 2015; Ord. 201. 4- 27 § 1, 2014; Ord. 2014- 121 § 1, 2014; Ord.
+2014- 12 § 1, 2014; Ord. 2014- 006 § 2, 2014; Ord. 2014- 005 § 2, 2014; Ord. 2013- 012 § 2, 2013; Ord. 2013-
+009 § 2, 2013; Ord. 2013- 007 § 1, 2013; Ord. 2013- 002 § 1, 2013; Ord. 2013- 001 § 1, 2013; Ord. 2012- 016
+1, 2012; Ord. 2012- 013 § 1, 2012; Ord. 2012- 005 § 1, 2012; Ord. 2011- 027 § 1 through 12, 2011; Ord.
+2011 . 017 repealed; Ord. 201 1-003 § 3, 2011)
+Click here to be directed to the Comprehensive Plan ( http:// www. deschutes.org/compplan)
+PAGE 1 OF 1 EXHIBIT" A" TO ORDINANCE 2015- 029
+Denotes portions of this Section not amended by Ordinance 2015- 029.
+Land Use Designations and Inventory
+DeschutesCounty ComprehensivePlandesignationsidentifygenerallandusesfor Tumaloand
+provide the legal framework for establishing zoning districts.   Zoning regulates land uses that
+are allowed in each respective district. Table 4 lists Tumalo comprehensive plan designations
+and correspondingzoning districts. Table 5 summarizesexistingproperty inventorieswithin
+those zoning districts.  Tumalo Comprehensive Plan designations are then described in greater
+detail.
+Table 4 - Tumalo Land Use Designations
+Comprehensive Plan Designations Zoning Districts
+Commercial ( TUC)  Commercial District( TUC)
+Floodplain ( FP) Floodplain ( FP)
+Industrial District ( TUI)
+Industrial ( TUI)
+Re: do. rt.. l / TI IQ1
+Research and Development ( TURF)
+Research and Development District ( TURE)
+Residential ( TUR)
+Residential District( TUR)
+Residential 5 Acre Minimum ( TUR5)    Residential Five Acre Minimum District ( TUR5)
+Table 5 - Tumalo Land Use Inventory*
+Zone
+Residential Commercial / Industrial Undeveloped
+ry
+Total Number
+Units Developments Parcels of Parcels
+TUC ,      28 17 57 102
+TUR 93 0 37 127
+TUR5,       75 0 2827 4-0099
+TURE 0 2 I 3
+TUI 0 2 01 23
+Total 196 2 1 123 334
+Assessor' s Data 2009
+Industrial ( TUI). An " Industrial" designation allows a limited range of industrial uses to serve
+Tumalo and the surrounding area.  The designation recognizes nonconforming industrial uses
+PAGE 1 OF 2 EXHIBIT" B" TO ORDINANCE 2015- 029
+and
+properties suitable for limited amounts of additional industrial development.  It applies to This
+designation is concentrated around the Knife River operation that fronts O. B. Riley Road and
+U. S. 20.
+PAGE 1 OF 2 EXHIBIT" B" TO ORDINANCE 2015- 029
+Sectovt, 5. 12 LesisLat% ve H-Istorj
+Background
+This section contains the legislativehistory of this Comprehensive Plan.
+Table Si 1.1 Comprehensive Plan Ordinance History
+Ordinance
+Date Adopted/
+Chapter/ Section Amendment
+Effective
+All, except
+Transportation, Tumalo
+and Terrebonne
+2011- 003 8- 10- I I/ 1 1- 9- 11 Community Plans,
+Comprehensive Plan update
+Deschutes Junction,
+Destination Resorts and
+ordinances adopted in
+2011
+2. 5, 2. 6, 3. 4, 3. 10, 3. 5,
+Housekeepingamendmentsto
+2011- 027 10- 31- 1 I/ 1 I- 9- 1 I
+4. 6, 5. 3, 5. 8, 5. I I,
+ensure a smooth transition to
+23. 40A, 23. 40B,
+the updated Plan
+23. 40. 065, 23. 01. 010
+23. 60, 23. 64 ( repealed),
+Updated Transportation
+2012- 005 8- 20- 12/ 11- 19- 12 3. 7 ( revised), Appendix C
+System Plan
+added)
+2012- 012 8- 20- 12/ 8- 20- 12 4. 1, 4. 2
+La Pine Urban Growth
+Boundary
+2012- 016 12- 3- 12/ 3- 4- 13 3. 9 Housekeepingamendments to
+Destination Resort Chapter
+Central Oregon Regional
+2013- 002 1- 7- 13/ 1- 7- 13 4. 2 Large- lot Employment Land
+Need Analysis
+ComprehensivePlanMap
+Amendment, changing
+2013- 009 2- 6- 13/ 5- 8- 13 1.3
+designation of certain
+roP ert from AgricultureY tog
+Rural Residential Exception
+Area
+Comprehensive PlanMap
+2013- 012 5- 8- 13/ 8- 6- 13 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+NewberryCountry: A Plan
+2013- 007 5- 29- 13/ 8- 27- 13 3. 10, 3. I I for Southern Deschutes
+County
+DESCHUTES COUNTY COMPREHENSIVE PLAN- 20I 1
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 1 1 GOAL 5 ADOPTED ORDINANCES
+PAGE 1 OF 2- EXHIBIT" C" TO ORDINANCE 2015- 029
+Ordinance
+Date Adopted/
+Chapter/ Section Amendment
+Effective
+Comprehensive PlanMap
+2013- 016 10- 21- 13/ 10- 21- 13 23. 01. 0 I 0 Amendment, including certain
+property within City of Sisters
+Urban Growth Boundary
+Comprehensive PlanMap
+2014- 005 2- 26- 14/ 2- 26- 14 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+2014- 012 4- 2- 14/ 7- 1- 14 3. 10, 3. I I Housekeeping amendments to
+Title 23.
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+2014- 021 8- 27- 14/ 11- 25- 14 23. 01. 010, 5. 10 property from Sunriver Urban
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+m.-
+ComprehensivePlanMap
+Amendment, changing
+2014- 027 12- 15- 14/ 3- 31- 15 23. 01. 010, 5. 10 designation of certain
+property from Agriculture to
+Rural Industrial
+Comprehensive PlanMap
+Amendment, changing
+2015- 021 11- 23- 15/ 2- 2- 16 23. 01. 010 designation of certain
+property from Agriculture to
+SurfaceMining.
+Comprehensive PlanMap
+Amendment, changing
+2015- 029 1 1- 30- 15/ 1 1- 30- 15 23. 01. 010
+designation of certain
+property from Tumalo
+Residential 5- Acre Minimum to
+Tumalo Industrial.
+2 DESCHUTES COUNTY COMPREHENSIVE PLAN- 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 12LEGISLATIVE HISTORY
+PAGE, 2 OF 2— EXHIBIT" C" TO ORDINANCE 2015- 029
+LEGAL DESCRIPTION
+A tract of land located in the Southeast ont quarter of the Southwest crle
+quartor of St t. orz 31,  Town, h p 16 South,  Range 12 Eil, st,  # i. M. ,  Oe C'strMte.6 County,
+Orcgan,  dencrfhi+ rrd 40  : fo, l. lows
+Ali that certain tract,  of land,       described in Volume 189,  Page 2601,  Delictute
+County Deed Records,
+CKCEP U c  ' S"t'sE, RiXRot! the f01101, 4109 dt,  cx. ibcd tract u.'.  land;;
+Beginning at the Sout, I ea$ t corner of the Southeast one- quarter of the Soutl', west
+one- quarterone- guarter of Section 11,  Township 16 South,  Range 12 East,  W. H. ;  thence
+N 00" 03' 08"  W,  along the Zast line of said Southeast one- quarter of the
+Southwest tsrie_ quor. t er.,  a, distance of 174.% , feet;  thence leaving said l, ine.
+N 90° OO' OO"  w,   116. 29 sect,  thence S
+164594!
+0"       9x1 . 12 feet;  thence
+S 06u11' 15"  W,  85. 02 fret to the south line of said Southeast one.,. quarter of the
+Soot. t west of e- qu, fitt   "'   thence S  } 39 ' 42' ;' 0"  F;,  along said lino,  156. 00 feet to the
+p i rrt.  of beginning.
+PAGE 1 OF 1 -- EXHIBIT" D" TO ORDINANCE NO. 2015- 029
+Id,
+d;
+df
+Iv( i d g
+fd i l
+iZ-
+Vg
+P:; e
+Plan Amendment o' "
+From TuR5
+Residential 5 Ac. Min.)
+To Tul( Industrial)
+0,
+0R/
+Ey R
+1 I 4 t p kl
+t       `
+ff 17,01,'".,,''',•,
+i
+1
+y,'
+t
+d; 4 l
+f
+l}  f I t
+iA
+J
+r
+h
+I
+i
+PROPOSED PLAN AMENDMENT
+Legend
+Applicant: CLR Contracting, LLCpp g i BOARD OF COUNTY COMMISSIONERS
+Subject Property Owner: CLR Inc.
+OF CHUT CO ITY, OREGON
+Address: 64435 Strickler Ave, Bend
+TUBS- Residential 5 Acre Minimum any D on • cn r
+TURE- Research& Development Ordinance 2015- 029
+Ir
+to Ordinance2015- 029
+Alan Unggr, Vice Chalr
+III: IL. i ..,
+TUI- Industrial a • W     , COmm155i0iry
+L)
+EFU- Tumalo/ Redmond/ Bend Subone
+0 150 300 ATTEST Recording Secretary
+Feet is d y/ qf
+SM- Surface Mining
+EffecDated
+tive
+th
+Date:
+f 30
+Ntivember, 2015
+wNovam6er tli, zdls
+Community Development Department
+Planning Division Building Safety Division Environmental Soils Division
+117 NW Lafayette Avenue Bend Oregon 97701- 1925
+541) 388- 6575 FAX ( 541) 385- 1764
+http:// www. co. deschutes. or. us/ cdd/
+HEARINGS OFFICER DECISION
+FILE NUMBERS:      247- 15- 000272- ZC and 217- 15- 000273- PA
+SUBJECT:       The applicant requests a Plan Amendment and Zone Change to change
+the zoning from Tumalo Residential- 5 Acre Minimum ( TuR5) to Tumalo
+Industrial ( Tul) and the plan designation from Residential 5- Acre Minimum
+TuR5) to Industrial ( Tul) for the subject 5.39 acre property.
+APPLICANT:    C.R. Contracting, LLC
+OWNER:  CLR Inc.
+AGENT:   Sharon R. Smith
+Bryant Lovlien & Jarvis PC
+LOCATION:     The property has an assigned address of 64435 Strickler Avenue, Bend,
+and is further identified as tax lot 401 on the County Assessor' s Map 16-
+12- 31.
+STAFF REVIEWER:    Matthew Martin, AICP, Associate Planner
+HEARINGS OFFICER: Dan R. Olsen
+SUMMARY OF DECISION: The plan amendment, zone change and text amendments are
+approved, subject to a condition of approval.
+Except as noted by " Hearings Officer" the findings below are taken from the staff report and all
+are the findings of the Hearings Officer.
+I. BASIC FINDINGS:
+A.       Location:  The property has an assigned address of 64435 Strickler Avenue, Bend, and
+is further identified as tax lot 401 on the County Assessor' s Map 16-12-31.
+B.       Lot of Record:  Pursuant to the findings in Lot of Record Determination LR- 04- 28, the
+subject property is recognized as legal lot of record.
+C.       Zoning and Plan Designation: The Subject Property is zoned Tumalo Residential 5
+Acre Minimum District ( TUR5) and is within the Surface Mining Impact Area ( SMIA)
+Combining Zone.    It is designated Residential 5-  Acre Minimum  ( TUR5)  on the
+Comprehensive Plan Map.
+EXHIBIT " F" TO ORDINANCE 2015- 029
+D.       Site Description:    The subject property is approximately 5.39 acres and generally
+rectangular in shape except for an irregularly shaped southeast corner.   Vegetation
+consists of scattered juniper and pine trees with sage, bitterbrush, and other native ground
+cover.  The topography is generally flat with portions sloping to the south. The property is
+unused but developed with a well,  pump house,  and gravel driveways traversing the
+property.
+a3
+5'
+iy.
+fid gY x
+it      , 4
+t
+14:4''t -
+y`+
+R. j e  "
+t
+k
+i
+5
+t
+n xa
+A,',:',"'
+cg r   ' eb
+4;
+7.
+4-
+4
+G
+r
+0
+e
+5
+e  :%:
+i.
+S'
+za
+A
+e vim    ". b
+x R
+44+   #
+gy,
+3
+3`
+e
+r
+i°
+p
+44-!
+ra e.
+x      ..
+b
+S   :       -         '
+l
+ate   '
+W
+a: r  ` ,   .  ., Y
+e`
+s.  c
+s
+dd
+p ' t
+6 "'    +'   F y_;
+Vi      °-      f
+l View looking South/ Southwest
+ti
+I v ,,     xk m
+I.
+E.       Surrounding Land Use:    Properties to the north and west are zoned TUR5 and
+developed with residential uses,  some with small scale agriculture,  and elevated
+significantly higher than the subject property.   The properties to the south are zoned
+Exclusive Farm Use ( EFU) and developed with residential and agricultural uses.  The
+property adjacent to the east is zoned TUI and is currently being developed with a mini
+storage facility ( land use file 247- 14- 000413- SP).  The properties to the southeast and
+further east are zoned Surface Mining ( SM) and developed with the Knight River facility.
+F. Proposal:   Applicant requests a Zone Change and Plan Amendment for the subject
+property to change the zoning from Tumalo Residential-5 Acre Minimum  (TuR5) to
+Tumalo Industrial  ( Tul)  and the plan designation from TuR5 to Tul.    No specific
+development is proposed for the property at this time.
+G.       Hearing:
+Hearings Officer: A public hearing was conducted on August 18, 2015.  Several
+persons testified and the following exhibits were received:
+H- 1 Fidler letter dated August 18.
+H- 2 Ross/ Resnick letter dated August 13
+H- 3 Baker letter dated August 18.
+I stated that I have no relationship to the applicant or any conflicts of interest.    There
+were no ex parte contacts. I did not conduct a site visit.  I provided an opportunity
+EXHIBIT " F" TO ORDINANCE 2015- 029
+for any person to raise procedural or other objections but none were raised.
+At the conclusion of the hearing, the applicant asked the record be kept open for
+additional submittals.  The request was granted as follows:
+September 8, 2015 at 5: 00pm for new evidence
+September 15, 2015 at 5: 00pm for rebuttal evidence to new evidence
+September 22, 2015 at 5: 00pm for applicant' s rebuttal but no new evidence
+Numerous submittals were received and with one exception are admitted into the
+record.  An email from Dick and Lois Allen was received by staff on September 17,
+2015, after the close of the written record on September 8, 2015.
+H.       Public Notice: The Planning Division mailed written notice of the applicant' s proposal
+and the public hearing to the owners of record of all property located within 250 feet of
+the subject property.
+Hearings Officer:  No objections or concerns regarding notice have been raised.
+Land Use History:  There are no previous land use approvals for the subject property.
+II.       APPLICABLE STANDARDS:
+Chapter 18. 136, Amendments
+1. Section 18. 136. 010, Amendments
+DCC Title 18 may be amended as set forth in DCC 18. 136.  The procedures for text
+or legislative map changes shall be as set forth in DCC 22. 12.  A request by a
+property owner for a quasi-judicial map amendment shall be accomplished by
+filing an application on forms provided by the Planning Department and shall be
+subject to applicable procedures of DCC Title 22.
+FINDING:  The applicant has requested a quasi-judicial map amendment and filed the
+applications for a plan amendment/ zone change.  The applications are being reviewed
+under the procedures of DCC Title 22.
+Hearings Officer:  Also proposed are text amendments as discussed below.
+2. Section 18. 136, 020, Rezoning Standards
+The applicant for a quasi- judicial rezoning must establish that the public interest
+is best served by rezoning the property.   Factors to be demonstrated by the
+applicant are:
+A.       That the change conforms with the Comprehensive Plan, and the change is
+consistent with the plan' s introductory statement and goals.
+EXHIBIT " F" TO ORDINANCE 2015- 029
+FINDING:  Staff finds that the following are the applicable portions of the comprehensive plan
+Title 23 of the DCC):
+Chapter 4, Urban Growth Management
+Section 4. 1, introduction
+Purpose
+The Urban Growth Management chapter, in concert with the other
+chapters of this Plan, specifies how Deschutes County will work
+with cities and unincorporated communities to accommodate
+growth while preserving rural character and resource lands.
+Section 4. 7
+Background
+The Tumalo Community Plan was adopted in Ordinance 2010- 027 is
+hereby incorporated into this Plan as Appendix B.
+FINDING:  This chapter establishes no approval criteria.  The Tumalo Community Plan
+is discussed below.
+Tumalo Community Plan
+Land Use
+Land Use Designations and Inventory
+Hearings Officer: As part of the proposal, the applicant seeks two text amendments to the
+Tumalo Community Plan and staff proposes one.
+Amendment# 1
+Although not included in Table 4, the TUI designation is discussed on page 9 of the Tumalo
+Community Plan and the designation was approved by Ordinance 2005- 017.   The proposed
+amendment addresses this omission and corrects the table so the Comprehensive Plan
+designations and Zoning Districts match. The table below includes the proposed changes with
+the added text identified by underline and the deleted text identified by
+stri
+thhrroug
+Table 4- Tumalo Land Use Designations
+Comprehensive Plan Designations Zoning Districts
+Commercial( TUC) Commercial District( TUC)
+Floodplain ( FP)      Floodplain ( FP)
+industrial( TUI)       Industrial District( TUI)
+Residential(
+T'
+R) Research and Development( TURE)     Research and Development District( TURF)
+Resideno: al-
+S Acre Min      ( TIPS) Residential( TUR)    Residential District( TUR)
+Residential) Acre Minimum( TURD Residential Five Acre Minimum District( TUR5)
+EXHIBIT" F" TO ORDINANCE 2015- 029
+Amendment# 2
+Approval of the proposed plan amendment and zone change requires amendment of the Table
+5 changing the total number of TUR5 and TUI zoned parcels.  The table below includes the
+proposed changes with the added text identified by underline and the deleted text identified by
+strikethreugh.
+Table 5- Tumalo Land Use Inventory*
+Zone Residential Units
+Commercial/ Industrial Undeveloped Total Number of
+Developments Parcels Parcels
+TUC 28 17 57 102
+TUR 93 0 37 127
+TUR5 75 0
+mm
+48 2 00 99
+TUBE 0 2 I 3
+TUI 0 2 01 23
+Total 196 21 123 334
+Assessor' s Data 2009
+Amendment# 3
+The text description of the TUI designation is currently very specific and this amendment isp 9 y rY p
+necessary to allow for properties other than the Knife River operation to be designated as
+Industrial. The text below includes the proposed changes with the added text identified by
+underline and the deleted text identified by etrikethretigh.
+Industrial ( TUI). An " Industrial" designation allows a limited range of industrial
+uses to serve Tumalo and the surrounding area.   The designation recognizes
+nonconforming industrial uses   - .
+efTumalo '
+a
+Surface Mining z a and properties suitable for limited amounts
+of additional industrial development,     It applies to This designation is
+concentratedaround the Knife River operationthat fronts O.B. RileyRoadand
+U. S. 20.
+Hearings Officer:   The staff report characterizes these changes as necessary updates to
+address omissions.  The applicant states that they merely reflect existing conditions. See Fourth
+Supplemental Burden of Proof.  Terry Fidler Excavation contends that they are substantive and
+create a class of industrial use beyond the mining that already is allowed.  The unrefuted
+testimony is that there are other TUI zoned properties with uses not associated with surface
+mining. The TUI District as provided for in the zoning code clearly allows more than surface
+mining related industrial uses and there is a separate surface mining designation.  It is not clear
+how the Tumalo Community Plan, the zoning code and the actual land uses got out of sync, or
+how other industrial uses were approved without a change to the Community Plan language.  I
+find that the changes are substantive but necessary and appropriate so as to reflect the uses
+permitted in the zone and actual existing conditions.
+EXHIBIT " F" TO ORDINANCE 2015- 029
+Goals and Policies
+Land Use Goal
+Protect and enhance the rural small- town character of Tumalo by supporting
+public services, healthy active lifestyles and social connections among residents
+and stakeholders.
+Hearings Officer:   Staff concluded that the proposed zone change and plan amendment to
+industrial use would not adversely impact the rural small-town character of Tumalo as it is
+limited to the 5.39 acre subject property. In its Sept.8, letter, Fidler argues that this policy is
+violated as the proposal would extend the incompatible impacts of Hwy 20, which the Knife
+River site buffers, into quieter areas. I agree with Fidler that the size of the parcel at issue, is not
+necessarily determinative, but do not see how the proposal expands the impact of Hwy 20.  As
+discussed below,  industrial use of the site may impact nearby properties but this " goal" is
+directed at the overall community. In fact, it is doubtful that it is an approval standard at all, at
+least as relates to the type of proposal at issue, since it seems to be directed toward promoting
+certain things deemed desirable.  I do not see how the proposal would interfere with the
+provision of public services or encouraging healthy lifestyles and social connections.
+Community Policies
+1. Consider adding Tumalo State Park to the Tumalo Rural Community
+boundary.
+FINDING:  Tumalo State Park is not subject to the proposed plan amendment and zone
+change.    Furthermore,  neither the subject property owner nor Oregon State Parks
+Department can be required to modify the Tumalo Rural Community boundary as part of
+this request.
+2. Coordinate with community groups and organizations that are working to
+improve the livability, economy and access to Tumalo.
+FINDING:   Notice of the public hearing was provided in compliance with the county
+procedures ordinance.  Notice was mailed to the Tumalo Business Association and no
+comments were submitted.   Staff also attempted to contact the Tumalo Community
+Association and learned the group is no longer active.
+3. Support economic development initiatives and tourism in the Tumalo area.
+FINDING:  The applicant argues the proposal will enhance economic development as it
+will allow for greater economic opportunities than the present TUR5 zoning.   Staff
+agrees.
+Hearings Officer:   It appears that there is a very limited amount of industrial land in the area
+and that there is a demand for such land, this inevitably will result in more economic activity
+than a single home on a large parcel as currently zoned.
+EXHIBIT " F" TO ORDINANCE 2015- 029
+4.       Review the Tumalo community goals and policies every five years to
+determine if they meet the current and future needs of the area.
+FINDING:  This policy is not applicable to this proposal.
+5. Support the school district in improving opportunities to use Tumalo
+Community School facilities for education,  recreation and enrichment
+programs for students, parents and area residents.
+FINDING:  This policy is not applicable to this proposal.
+Open Space and Recreation Policies
+6. Establish Tumalo as a regional bicycle destination through land use,
+transportation and recreation policies and programs.
+7.       Encourage parks and open space, and where feasible, acquire land for
+open space.
+8.       Preserve public access to the river.
+9.       Preserve publically owned lands along the Deschutes River by designating
+them as open space.
+10.      Support infrastructure improvements including formal river access points,
+public signage,   lighting,   sanitary facilities and improved parking
+conditions.
+11.      Establish a multi- use trail system from Tumalo State Park to Tumalo.
+12.      Support community efforts to create and maintain local parks.
+13.      Coordinate implementation of bikeways with signs and best maintenance
+practices on County arterials and collectors.
+14.      Support community efforts to designate the segment of the Deschutes
+River through Tumalo as an Oregon Scenic Waterway for its recreational
+values.
+15.      Support the development of a trails and recreation master plan.
+16.      Explore the future expansion of the Bend Metro Park and Recreation
+District to include the Tumalo area.
+FINDING:  Staff believes these open space and recreational policies are not applicable
+to this proposal because there are no identified bicycle, trail, park, open space, or river
+standards or requirements associated with the subject property.
+Land Use Policies
+1. Conform land use regulations to the requirements of Unincorporated
+Communities as defined in OAR 660 Division 22 or any successor.
+FINDING:    Conformance with the requirements of Unincorporated Communities as
+defined in OAR 660 Division 22 is addressed below.
+2. Ensure County plans and land use regulations require that new uses
+authorized within Tumalo do not adversely affect agricultural uses in the
+surrounding exclusive farm use zones.
+EXHIBIT" F" TO ORDINANCE 2015- 029
+FINDING:  Staff conducted a site visit to the area and reviewed aerial photos.  These
+inspections revealed some agricultural uses occurring on nearby EFU zoned lands.  The
+distance of the subject property from these agricultural uses on EFU zoned properties,
+along with the Tumalo Industrial Zone ( DCC 18. 67. 060) allowing "... a limited arrange of
+industrial use," will minimize impacts.  Furthermore, the County can impose conditions of
+approval for specific site-development proposals to ensure compatibility with adjacent
+agricultural uses.
+Hearings Officer:    Mr.  Fidler testified that he has some cattle on his EFU properties,
+expressing a generalizedconcern about noise and dust.  Other than that,  the record just
+indicates that there are "some" apparently limited agricultural uses in the area with an indication
+that most are some distance from the site. Virtually all of the concerns raised in opposition are
+directed at impacts on rural residential uses, traffic, water and so on. It is possible that a re-
+designation to industrial may have the potential greater impacts than the existing rural
+residential designation but the record provides no basis for such a finding. Moreover, again, it
+does not appear that this policy is an applicable approval standard. It is directed toward drafting
+plan and code language, not a particular application.
+3.       Apply setbacks for homes built along the rim forming the Deschutes River
+Canyon and Laidlaw Butte to protect scenic views visible from the
+community.
+FINDING: This policy is not applicable to this proposal.
+4. Coordinate with Tumalo Community Association,   Tumalo Business
+Association and similar local organizations on land use issues,  where
+appropriate.
+FINDING:  The Tumalo Business Association was mailed notice of the public hearing
+and did not comment.  The Tumalo Community Association is not currently active.  No
+other local organizations were identified to receive notice.
+5. Encourage the preservation of historical structures such as the Tumalo
+Community Church( 1905) and the Laidlaw Bank and Trust( 1910).
+FINDING: This policy is not applicable to this proposal.
+Residential Area Policies
+6.       Designate residential lands on the comprehensive plan map with a
+corresponding residential district on the zoning map.
+7. Designate residential lands so they are proximate to the commercial area.
+8.       Designate Residential 5 acre lands on the perimeter of the community.
+9. Designate higher density residential lands in the bowl formed by the
+Deschutes River canyon.
+FINDING:  The applicant is not proposing residential designation or zoning.  Therefore,
+these policies are not applicable to this proposal.
+EXHIBIT " F" TO ORDINANCE 2015- 029
+10.      Permit livestock in the residential districts subject to use limitations.
+FINDING:  This policy is not applicable to this proposal.
+11.      Plan and zone for a diversity of housing types and densities suited to the
+capacity of the land to accommodate water and sewage requirements.
+FINDING: The proposed zone change will decrease the amount of land available for
+housing by one single family dwelling pursuant to current TUR5 zoning.  As the Tumalo
+Community Plan indicates, residential uses are the predominate use within Tumalo and
+there are presently a large number of vacant residential lots within Tumalo.   The,
+applicant argues that removing one TUR5 lot will not inhibit the ability to provide a
+diversity of housing types and densities in Tumalo. Staff agrees.
+Commercial Area Policies
+12.      Limit access from U.S. 20 so it is safe and economically viable.
+13.      Encourage design standards in the commercial district so new
+development is compatible with the rural character of the community and
+reduces negative impacts on adjacent residential districts.
+14.      Prohibit livestock from being permanently stabled in the commercial
+districts.
+15.      Prohibit additional lands from bein g designated commercial until ang
+economic analysis review is completed.
+16.      Allow residential uses and mixed residential/ commercial uses,  while
+preventing residential uses from dominating or setting development
+standards in the commercial district.
+17.      Utilize approval standards for conditional uses in the commercial district to
+consider the impact on nearby residential and commercial uses and the
+capacity of public facilities and services.
+18.      Prohibit replatting for exclusively residential purposes in the commercial
+district.
+FINDING:  The applicant is not proposing commercial designation or zoning.  Therefore,
+these policies are not applicable to this proposal.
+Industrial Area Policies
+19.      Allow only the following new or expanded industrial uses in the Tumalo
+rural community boundary:
+a. Uses authorized under Goals 3 and 4( farm and forest uses);
+b.       Expansion of a use existing on the date of this rule;
+c. Small- scale, low impact uses;
+d.       Uses that require proximity to rural resource, as defined in OAR 660-
+004- 0022( 3)( a);
+e.       New uses that will not exceed the capacity of water and sewer
+service available to the site on the effective date of this rule; or, if
+such services are not available to the site, the capacity of the site
+itself to provide water and absorb sewage;
+f. New uses more intensive than those allowed under subsection ( a)
+through ( e) of this section, provided an analysis set forth in the
+EXHIBIT " F" TO ORDINANCE 2015- 029
+Comprehensive Plan demonstrates,   and land use regulations
+ensure:
+i. That such uses are necessary to provide employment that
+does not exceed the total projected work force within the
+community and the surrounding rural area;
+ii. That such uses would not rely upon a work force employed
+by uses within urban growth boundaries; and
+iii.       That the determination of the work force of the community
+and surrounding rural area considers the total industrial and
+commercial employment in the community and is coordinated
+with employment projections for nearby urban growth
+boundaries.
+FINDING:  These policies are taken from OAR 660-022-0030 (Planning and Zoning of
+Unincorporated Communities). Subsection (g)(A)(B) was not adopted into the Tumalo
+Community Plan. Even though they do not apply, they are as follows:
+g)      Industrial uses,   including accessory uses subordinate to industrial
+development,  as provided under either paragraph  ( A)  or  ( B)  of this
+subsection:
+A)      Industrial developments sited on an abandoned or diminished
+industrial mill site, as defined in ORS 197. 719 that was engaged in
+the processing or manufacturing of wood products, provided the
+uses will be located only on the portion of the mill site that is
+zoned for industrial uses; or
+B)      Industrial development, and accessory uses subordinate to the
+industrial development, in buildings of any size and type, in an
+area planned and zoned for industrial use on January 1, 2004,
+subject to the territorial limits and other requirements of ORS
+197. 713 and 197. 714.
+There is no development proposal for the subject property at this time.  Compliance with
+the use criteria and standards of the TUI zone ( DCC 18. 67. 060) will be reviewed upon
+application for site- specific development.    A subsequent application will need to
+demonstrate that Policy 19(e) is met.
+Public Facilities Goal
+Ensure water and sewage treatment systems encompass the appropriate scale
+and cost.
+FINDING:   The Tumalo Rural Community is not presently served by a community
+sewage treatment system and only a portion of the community, not including the subject
+property is served domestic water by the Laidlaw Company.
+EXHIBIT " F" TO ORDINANCE 2015- 029
+Public Facility Policies
+1.       Determine residential minimum lot sizes by the capacity of the land to
+accommodate available water and wastewater facilities.
+FINDING:   No residential use or zoning is proposed.   Therefore, this policy is not
+applicable to this proposal.
+2.       Encourage high quality fire protection in Tumalo and the surrounding area.
+FINDING:   Fire protection for the subject property is currently provided by the Bend
+Rural Fire Protection District# 2.
+3.       Encourage early planning and acquisition of sites needed for public
+facilities( e.g. school, roads, water supply facility, parks).
+FINDING:  The policy is not applicable to this proposal.
+4. Coordinate development within the Laidlaw Water District to determine if
+connection to its water system is required.
+FINDING:  Notice of these applications was sent to the Laidlaw Water District and no
+comments were received.
+5.       Support replatting of lots in the area comprising the Laidlaw Plat and other
+lands designated commercial to create lots large enough to accommodate
+a DEQ approved on- site sewage disposal system.
+FINDING: The subject property is not part of the Laidlaw Plat.
+6. Support the protection of the Tumalo Town Ditch easement and its
+distribution system.
+7.       Support the development and management of the domestic water system
+for Tumalo so that cumulative development will not result in public health
+hazards or adverse environmental impacts that violate state or federal
+water quality regulations.
+8. Coordinate with the Tumalo residents and business owners on the creation
+of a sewer district, if the community initiates district formation.
+FINDING:  These policies are not applicable to this proposal.
+Transportation Goal
+Provide a safe and efficient system for all modes of transportation, including
+active modes,  to support local economic development, recreational uses, and
+community health.
+Hearings Officer: Staff initially recommended denial of the proposal due to inadequacies in the
+transportation analysis provided by the applicant.  On August 17, the applicant submitted a new
+Supplemental Transportation Impact Analysis that Peter Russell, Senior Transportation Planner
+found acceptable.  See discussion below.
+EXHIBIT" F" TO ORDINANCE 2015- 029
+Road Network Policies
+1.       Review the existing Transportation System Plan policies and standards for
+Tumalo.
+2.       Review existing roadway design requirements to ensure complete streets
+which accommodate all modes of travel.
+FINDING: These policies are not applicable to this proposal.
+Road and Sidewalk Policies
+3.       Implement road development standards for Tumalo that minimize
+pavement width and are consistent with the small- scale character of the
+community.
+4. Utilize land development and grant funding opportunities to improve street
+segments identified for improvement in the Transportation System Plan.
+5.       Provide functional, cost effective sidewalks that are consistent with the
+rural character of the community.
+6.       Provide sidewalks or multi- use paths where they are needed for safety, as
+set forth in the Transportation System Plan.
+7. Construct sidewalks specified on community roads without curbs and
+gutters, distant from property lines, to allow room for utilities.
+FINDING: The provision of sidewalks/ paths will be addressed in a future development
+application.
+U. S. 20 Policies
+8. Coordinate with the Tumalo community and Oregon Department of
+Transportation to implement both short and long- term improvements to
+solve transportation problems, including at the Cook Avenue and U.S. 20
+intersection.
+9.       Enhance the roadside environment, through tree planting, signage or other
+means.
+10.      Promote safe access and slower speeds on U. S. 20 through Tumalo.
+11.      Retain and enhance access across U.S. 20 using above, below, or at grade
+crossings to support pedestrian,  bicycle and equestrian access to
+recreation and community services.
+FINDING:   The subject property does not take access from U. S. 20.   Notice of the
+applications was sent to the Oregon Department of Transportation and no comments
+were received.
+Hearings Officer:  See discussion under the Transportation Planning Rule.
+2. Section 18. 136. 020, Rezoning Standards ( Continued)
+B.       That the change in classification for the subject property is consistent with
+the purpose and intent of the proposed zone classification.
+EXHIBIT " F" TO ORDINANCE 2015- 029
+FINDING:  The purpose of the TUI zone is listed under DCC 18. 67. 060 as follows:
+The purpose of the Industrial District is to allow a limited range of industrial uses
+to serve the community and the surrounding area.
+FINDING:  There is currently no development proposed but the applicant intends to use
+the property to relocate its current business operations.   Those operations include
+storage of equipment used in road paving and related office uses.  Likely development
+includes a 10-12,000 square foot, maintenance and storage building with an office as
+well as a paved storage/ circulation area.  Equipment storage associated with industrial
+activities (such as road paving) is one of the limited permitted uses in the TUI zone.
+C.       That changing the zoning will presently serve the public health, safety and
+welfare considering the following factors:
+1. The availability and efficiency of providing necessary public
+services and facilities.
+FINDING:  The applicant indicates public services and facilities will not be required to
+utilize the property for the storage of industrial equipment.  Bend Rural Fire provides fire
+protection, water could be provided by private on- site well, and septic could be provided
+on- site.  As previously indicated, the submitted traffic study is deficient in its analysis
+therefore staff cannot evaluate if the anticipated traffic impacts have been adequately
+mitigated.  The applicant indents on address this with a supplemental submittal.
+Hearings Officer:  At the hearing I asked for clarification of the rather cryptic comment from the
+Bend Fire Department. In its Second Supplemental Burden of Proof statement the applicant
+represents that it discussed the comments with the Fire Marshall and they are intended as a
+general admonishment that fire regulations may impose restrictions on the use or storage of
+regulated materials on the subject property. That appears to be consistent with the best reading
+of the comment.
+2.      The impacts on surrounding land use will be consistent with the
+specific goals and policies contained within the Comprehensive Plan.
+FINDING:  No specific development is proposed at this time so specific impacts cannot
+be assessed.  However, the relevant plan goals and policies are addressed herein.
+Hearings Officer:  I read this standard as requiring consideration of the potential impacts of the
+entire range of uses allowed in the TUI designation and zone.  As discussed above, however,
+there appear to be very few policies relevant to this proposal or that raise compliance issues. In
+its September 8, letter Fidler cites to an arguably applicable standard not raised by staff.
+Comp Plan Chapter 4, Urban Growth Management, Section 4. 1 states that the purpose of the
+comprehensive plan is " to accommodate growth while preserving rural character and resource
+lands." Since the proposal would remove land from rural residential and add industrial, the
+argument is that this is inconsistent with this policy because the industrial land would not " mesh
+with rural and agricultural surrounding uses."
+In and of itself, this policy is so general as to not provide any meaningful guidance to a specific
+provision.  It provides no locational guidance.  For example,  it could but does not,  permit
+designation of land as commercial or industrial only if surrounded by other commercial/ industrial
+EXHIBIT " F" TO ORDINANCE 2015- 029
+land or otherwise isolated so as to not impact rural character. Rather, Chapter 4 refers to the
+Tumalo Community Plan for implementation guidance. As discussed above, the TCP has few
+applicable standards to guide this proposal.  But it does clearly permit new or expanded
+industrial uses so long as meet the standards of Policy 19, in particular being small scale, low-
+impact uses. That limitation appears to be how the County chose to " accommodate growth while
+preserving local character." This conclusion is consistent with the fact that the uses allowed
+under Site Plan Review appear to be limited to those with minimal impacts.  More intensive uses
+require a conditional use approval.   The zone also grants fairly broad authority to address
+impacts with increased setbacks, landscaping and so on.
+At the hearing, concerns were raised about potential impacts on wells and on access to the
+Baker/ Ross- Resnick well. Again, it is not at all clear that there are approval standards at this
+stage that are relevant to these issues. The plan amendment/ zone change in itself will not affect
+water or access, although it opens the door to consideration of whether to approve uses that
+may have such impacts.  The developmentreview stage is where such impacts may be
+considered and addressed based on a specific proposed use.
+in its Third Supplemental Burden of Proof that it is willing to provideThe applicant asserts r Its g ppP Pp
+continued access to the Baker/ Ross- Resnick well.   It may be that a prescriptive easement or
+other legal right exists. If it does not, the current owner could cut off access under the current
+zoning. Denying this application would have no impact on this issue. It is more likely (although
+not certain) that the Bakers and Ross- Resnick will be able to secure some sort of assurance by
+working with the applicant and county through the land development process.
+Finally, as to the concerns about noise, approval certainly increases the odds that a use noisier
+than a residence will be approved for the site.  But there is insufficient basis, particularly given
+the approval standards, to deny on this basis.  Again, the TUI zone grants fairly broad discretion
+to address impacts associated with a specific proposed use and that should be used to provide
+reasonable mitigation as necessary.
+D.       That there has been a change in circumstances since the property was last
+zoned, or a mistake was made in the zoning of the property in question.
+FINDING:  There have been several changes of circumstances since the property was
+zoned TUR5 in 1997 through Ordinance No.  97- 032 that justify the proposed zone
+change:
+1) The Knife River properties were rezoned from Tumalo Residential to TUI via ZC- 04-
+5.
+2) The primary Knife River Facility has undergone substantial development including
+the construction of an office building and truck shop ( SP- 05- 6), a ready- mix concrete
+recycling facility ( SP- 05- 38), and alterations of both of those facilities ( SP- 06- 5 and
+SP- 08- 36 respectively).
+3) The Creative Real Estate Solutions LLC property was approved for 40,000 square
+feet of mini- storage ( 247- 14-000413) on the adjacent property to the east.
+The applicant argues this substantial amount of industrial development adjacent to the
+subject property has decreased the suitability of the site for residential development and
+increased its utility as an industrial site.  Staff agrees.
+EXHIBIT " F" TO ORDINANCE 2015- 029
+Oregon Administrative Rules
+OAR 660, Division 12, Transportation Planning Rule
+OAR 660- 012- 060, Plan and Land Use Regulation Amendments.
+1)      Amendments to functional plans, acknowledged comprehensive plans, and
+land use regulations which significantly affect a transportation facility shall
+assure that allowed land uses are consistent with the identified function,
+capacity,  and performance standards ( e. g.  level of service,  volume to
+capacity ratio, etc.)  of the facility. This shall be accomplished by either:
+a)      Limiting allowed land uses to be consistent with the planned
+function, capacity and performance standards of the transportation
+facility;
+b)      Amending the TSP to provide transportation facilities adequate to
+support the proposed land uses consistent with the requirements of
+this division;
+c)      Altering land use designations, densities, or design requirements to
+reduce demand for automobile travel and meet travel needs through
+other modes; or
+a)      Amending the TSP to modify the planned function,  capacity and
+performance standards, as needed, to accept greater motor vehicle
+congestion to promote mixed use, pedestrian friendly development
+where multimodal travel choices are provided.
+2)      A plan or land use regulation amendment significantly affects a
+transportation facility if it:
+a)      Changes the functional classification of an existing or planned
+transportation facility;
+b)      Changes standards implementing a functional classification system;
+c)      Allows types or levels or land uses which would result in levels of
+travel or access which are inconsistent with the functional
+classification of a transportation facility; or
+d)      Would reduce the performance standards of the facility below the
+minimum level identified in the TSP.
+3)      Determinations under subsections  ( 1)  and ( 2)  of this section shall be
+coordinated with affected transportation facility and service providers and
+other affected local governments.
+FINDING:   This above language is applicable to the applicant' s proposal because it
+involves an amendment to an acknowledged plan.  The applicant is not proposing any
+land use development of the property at this time and has indicated that future
+development may include industrial development.
+Hearings Officer:   The applicant submitted a Supplemental Transportation Impact Analysis
+dated August 17.  Unlike the first analysis, it correctly looks at the range of uses permitted under
+the requested designation and zone.  It states that  " an unrestricted zone change would
+EXHIBIT " F" TO ORDINANCE 2015- 029
+significantly affect the transportation system as defined by TPR criteria." On the other hand,
+ODOT did not respond and the TPR permits approval without mitigation in such a case.
+The Senior Transportation Planner indicates in his August 18 email that he concurs with the
+analysis and conclusions. But it appears that he does not actually concur with the statement that
+the 3 pm peak trips are de minimus and do not need to be addressed. Rather, he suggests a
+condition prohibiting shift start/ end from 4- 6 pm.
+In its application, the applicant suggests that traffic generation from the site be restricted to that
+generated by the use it says it intends to pursue and in its Second Supplemental Burden of
+Proof suggests such that a shift limitation makes little practical sense given the number of trips it
+intends to generate.
+As I understand it, however, the issue is not the overall number of trips but the peak hour trips,
+even though they are minimal. The applicant testified that the majority of its crews leave on
+Sunday and return late Friday. The impression conveyed by the description of its intended use
+is one of a fair amount of flexibility in terms of scheduling. Further, the County apparently has
+experience with conditions on shift scheduling.
+Accordingly, I find that a condition of approval requiring that employee shifts commence and
+end outside of the 4-6 p.m. period is warranted.
+OAR 660, Division 15, Statewide Planning Goals and Guidelines
+FINDING:    Findings regarding the Statewide Planning Goals and Guidelines are
+provided below:
+Goal 1,  Citizen Involvement.   The Planning Division has provided notice of the
+proposed plan amendment and zone change to the public through individual notice to
+affected property owners, the applicant will be posting a "proposed land use action sign,"
+and notice of the public hearing will be in the " Bend Bulletin" newspaper. In addition, a
+public hearing will be held on the proposed plan amendment/ zone change.
+Goal 2, Land Use Planning.  Goals, policies, and processes related to zone change
+applications are included in the Deschutes County Comprehensive Plan, and Title 18 of
+the Deschutes County Code.       The application of these processes and
+policies/ regulations are documented within this staff report.
+Goal 3, Agricultural Lands.  Because the property is within an unincorporated
+community it is not agricultural land or zoned EFU. As discussed herein, staff believes
+the proposed zone change will not adversely affect agricultural uses on surrounding EFU
+lands on account of the limited range of industrial uses permitted in the TUI.  Additional
+mitigation measures could be imposed as upon review of a future site- specific
+development proposal.
+Goal 4, Forest Lands.   The existing site and surrounding areas do not include any
+lands that are zoned for, or that support, forest uses.
+Goal 5, Open Spaces, Scenic and Historic Areas and Natural Resources.   The
+existing site and surrounding areas are not included in the County' s Goal 5 inventory.
+EXHIBIT " F" TO ORDINANCE 2015- 029
+Goal 6,  Air,  Water and Land Resources Quality.    No specific development is
+proposed at this time.   Development of the property would not likely result in significant
+adverse impacts to air, water, or land resources quality due to the small size of the site
+and that any future development would be subject to local, state, and federal regulations
+protecting these resources.  With that said, comments received from adjacent property
+owners Bakers and Ross/ Resnick- and express concerns with contamination of and
+access to the shared well they use that is located on the subject property.  Recognizing
+and understanding their concerns, staff notes that the rezoning of the property will not
+impact water quality or access to the well.  These impacts will be dictated by any future
+use of the property and the provisions of the private well agreement. The applicant has
+indicated they will address these comments in a supplemental submittal.
+Goal 7, Areas Subject to Natural Disasters and Hazards. This goal is not applicable
+because the subject property is not located in a known natural disaster or hazard area.
+Goal 8, Recreational Needs.  The proposed plan amendment and zone change do not
+affect recreational needs.
+Goal 9,  Economy of the State.   This goal is to provide adequate opportunities
+throughout the state for a variety of economic activities.   By increasing the types and
+intensity of industrial uses available to the property, staff believes the proposal will
+increase economic opportunities on the property.
+Goal 10, Housing.  The goal of Goal 10 is "To provide for the housing needs of citizens
+of the state" and is further explained stating:
+Buildable lands for residential use shall be inventoried and plans shall
+encourage the availability of adequate numbers of needed housing units at
+price ranges and rent levels which are commensurate with the financial
+capabilities of Oregon households and allow for flexibility of housing location,
+type and density.
+The applicant argues that because Goal 10 defines needed housing as housing within
+urban growth boundaries and the subject property is outside a UGB then Goal 10 is not
+applicable.  Staff agrees with this conclusion. Staff adds that, as the Tumalo Community
+Plan indicates, residential uses are the predominate use within Tumalo and there are
+presently a large number of vacant residential lots within Tumalo.  Removing one TUR5
+lot will not inhibit the ability for Tumalo to provide a diversity of housing types and
+densities.   Therefore, staff believes this proposal will have no adverse impact on the
+availability of housing on the area.
+Goal 11, Public Facilities and Services. The applicant' s proposal will have no adverse
+effect on the provision of public facilities and services to the subject site.
+Goal 12, Transportation. This report states in a foregoing finding that the
+transportation impacts of proposed plan amendment and zone change were not
+adequately addressed in the materials submitted at the time of the issuance of the staff
+report.  However, as previously founds, the Supplemental Transportation Impact
+Analysis dated August 17 shows the traffic impacts will be mitigated with a condition of
+approval requiring that employee shifts commence and end outside of the 4- 6 p.m.
+period is warranted.
+EXHIBIT" F" TO ORDINANCE 2015- 029
+Goal 13, Energy Conservation.  Staff believes that the proposal will not have an effect
+on energy use or conservation, until such time as it is developed.
+Goal 14, Urbanization.  The subject property is within the Tumalo Rural Community
+boundary.  This proposal does not change the types or intensity of uses allowed in, nor
+does it change the boundary of, the Tumalo Rural Community.
+Goals 15 through 19.    These goals,  which address river,  ocean,  and estuarine
+resources, are not applicable because the subject property is not located in or adjacent
+to any such areas or resources.
+IV.      CONCLUSION AND CONDITION OF APPROVAL
+Based on the record and the foregoing findings and conclusion, the application for a
+Plan Amendment from TuR5 to Industrial ( Tul) and for a zone change from Tumalo
+Residential- 5 Acre Minimum ( TuR5) to Tumalo Industrial ( Tul) the subject 5. 39 acre
+property is APPROVED subject to the following condition of approval:
+Any industrial use approved for the subject property shall demonstrate that it can and
+will employ effective measures to ensure that the start and end of employee shifts occur
+outside of the 4:00 to 6:00 p.m. peak hour. This condition may be removed or modified
+only after notice and public hearing and upon demonstration by the applicant that
+impacts on the US 20/ OB Riley- Cook Avenue intersection will be avoided or mitigated,
+or that intersection conditions have changed so as to warrant modification or removal."
+Further, the following text amendments are APPROVED:
+Table 4- Tumalo Land Use Designations
+Comprehensive Plan Designations Zoning Districts
+Commercial( TUC)
+W
+Commercial District( TUC)
+Floodplain ( FP)      Floodplain( FP)
+Research
+and-
+D . ele en.` TURF) Industrial( TUI)       Industrial District( TUI)
+Residential- MA) Research and Development( TURF)     Research and Development District( TURF)
+p„_„ aential 5- Aere Mini em- M 5 Residential:( TUR)    Residential District( TUR)
+Residential S Acre Minimum( TUR5) Residential Five Acre Minimum District( TUR5)
+EXHIBIT" F" TO ORDINANCE 2015- 029
+Table 5- Tumalo Land Use Inventory*
+Zone Residential Units
+Commercial/ Industrial Undeveloped Total Number of
+Developments Parcels Parcels
+TUC 28 17 57 102 .
+TUR 93 0 37 127
+TURS 75 0 28 2Z 00 99
+TURE 0 2 I 3
+TUI 0 2 01.    2 3.
+Total 196 21 123 334  `.
+Assessor' s Data 2009
+Industrial ( TUI). An " Industrial" designation allows a limited range of industrial
+uses to serve Tumalo and the surrounding area.   The designation recognizes
+nonconforming industrial uses   - .  --   _   -   •  •  --    •_ .
+and properties suitable for limited amounts
+of additional industrial development.     tt applies to This designation is
+concentrated around the Knife River operation that fronts O.B. Riley Road and
+U. S. 20.
+Dated this
+7th
+day of October, 2015.    Mailed this_ day of October, 2015.
+it:
+0i/
+4.1/4,_,:f
+Dan R. Olsen
+Hearings Officer
+EXHIBIT" F" TO ORDINANCE 2015- 029

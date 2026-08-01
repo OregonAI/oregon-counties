@@ -1,0 +1,566 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-93-057
+title: 'Ordinance No. 93-057'
+doc_type: ordinance
+citation: 'Ordinance No. 93-057'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616697287_1993-41434-Ordinance%20No.%2093-057%20Recorded%2011_15_1993.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: c019b1d1de867d6ae7106fc5be82b363a970f8ac54621a8f7817c63e1266c6db
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 93-057 (Ordinance No. 93-057)
+
+## At a glance
+
+Ordinance No. 93-057 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+REVIEWED
+s3- 41434
+LEGAL COUNSEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES UOUNTY,
+An Ordinance Amending Section *''' i i f;
+Title 17, to Change Street Widths
+2
+U0
+for Local Roads in Urban Areas and * =;
+Rural Service Centers and * f{
+Declaring an Emergency.
+0128 -0 4'
+ORDINANCE NO. 93- 057
+t i3 1
+WHEREAS, the Board of County Commissioners for Deschutes
+County adopted Ordinance 93- 012 to update Title 17, the Subdivision
+and Partition Ordinance; and
+WHEREAS, that ordinance inadvertently changed the street width
+standard for local streets in urban areas and rural service
+centers; and
+WHEREAS, the Board desires to change that street width
+standard back to what it was prior to the enactment of Ordinance
+93- 012; now, therefore:
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. AMENDMENT OF ROAD STANDARD. The width standard
+for local streets in urban areas and rural service centers, as set
+forth in Table A of Title 17, the Subdivision and Partition
+Ordinance, is hereby changed from 28 feet to 36 feet, as set forth
+in Exhibit A, attached hereto and by this reference incorporated
+herein.
+Section 2. DELETIONS AND ADDITIONS. Provisions that are to
+be deleted as a result of the enactment of the above - referenced
+sections are shown in brackets; provisions that are being added are
+shown bold- faced.
+Section 3. REPEAL OF ORDINANCES AS AFFECTING EXISTING
+LIABILITIES. The repeal, express or implied, of any ordinance,
+ordinance provision, or code section by this ordinance shall not
+release or extinguish any duty, condition, penalty, forfeiture, or
+liability incurred under such ordinance, unless a provision of this
+ordinance shall so expressly provide, and such ordinance repealed
+shall be treated as still remaining in force for the purpose of
+sustaining any proper action or prosecution for the enforcement of
+such duty, condition, penalty, forfeiture, or liability, and for
+the purpose of authorizing the prosecution, conviction and
+punishment of the person or persons who violated the repealed
+ordinance.
+1 - ORDINANCE NO. 93- 057
+i 81993
+MC,_, rONv1ED
+C
+0128- 0443
+Section 4. EMERGENCY AND EFFECTIVE DATE. This Ordinance
+being necessary for the immediate preservation of the public peace,
+health and safety, an emergency is declared to exist, and this
+Ordinance takes effect on its passage.
+DATED this 16) day of November, 1993.
+AT .
+LebliTdingSecretdry
+2 - ORDINANCE NO. 93- 057
+BOARD OF COUNTY COMMISSIONERS
+OF DESCH TES COUNTY, OREGON
+it
+N Y POPEEN, coss n
+A W ) v 0
+BARRY 9. SLAUGHT R, Commissioner
+C
+A lq
+wO
+1
+ZT
+P4
+m
+P4
+H
+dro
+a
+Exhibit
+Page
+0128- 041Aq
+U
+a4- 3 4J 4j
+Al
+4- 3
+N N N N 1 N 1 1 1 1 I N 1
+n
+N
+O
+1--
+1to
+w D o O D
+W
+cn
+Ill
+o
+l
+en en
+M
+0
+1
+r
+1 r  1
+i .-- 1 r• 1 1 1- 1 I 1 1 1 1 1 1
+aoN 0o
+N coN 0 00M
+enO' N
+OO
+O
+00
+n
+O ... O OO
+r v
+M V' V' V'
+11
+V' M V' Q' Q. V'
+D
+O
+00
+I
+ro
+O O
+D % D
+O
+N
+O
+cl'
+O
+00
+O
+00
+O
+10
+O O
+as a a x a a as a a s a
+m m m m m m m m m m m m m
+i y1 41
+M r'• 1
+N 4- 1 i- 1 1j N 4-)
+O O o o O O O O O o o O O
+C C C C C C C C C C C C C
+m m m m m m m m m m m m m
+U
+coa-)
+a. 1 4j
+N ro
+i Ll U
+C
+O
+C
+N N N N N N N N N N
+Nlop
+N N
+OU Oa D. H W
+OP jp
+dP dP dP O O O X p dP O O dP N
+p p c0 1 1 1 1n D 00 1 1n 1
+U
+Al
+w9
+ram
+t2
+n
+N
+O
+1--
+1to
+w D o O D
+W
+cn
+Ill
+o
+l
+en en
+M
+0
+1
+r
+1 r  1 I 1
+O
+ID
+en 00
+t•') - N 1
+o
+N
+H
+nr"1 coN aoN 0o
+N coN 0 00M
+enO' N
+OO
+O
+00
+n
+O ... O OO
+U
+O
+11 co
+I -D 1 D
+O
+00
+I
+ro
+O O
+D % D
+O
+N
+O
+cl'
+O
+00
+O
+00
+O
+10
+O O O 1
+u
+m
+co
+v a
+u u14
+q M f'• 1 N N M M r'• 1
+DI
+N /'• 1 fvl O N
+4J w
+c. m
+N
+ou
+u m
+a y
+a
+m •- 1
+A N
+Nm
+N u C
+x O ro
+O b
+3 C m
+o x
+O N 3
+a m
+b C U
+a-.1)
+C ro
+y .- t .•
+O w u a
+U 0
+al w
+m N O
+NN I1
+al > C
+A U ' C3 O
+u >
+b m ro C +
+m Z d . i ro
+a,
+u
+c m
+1 y o A
+N m tT m iJ
+u O N
+N
+to 04 0
+E A ro
+A
+0 ~ C W d N
+Ll N O u ro
+N ' l7
+m .
+i
+u
+al ' O ill 4) 0
+0.1
+1 C u m u CL
+4)
+vui y+ N'
+3 . 0 a
+C N C a ro ro m
+N
+4) cob H N - 4 . — 4
+u U >
+od O
+U o4 --0I tin
+0- 1 N 11 10 ' CS
+E •.>r U N Cm 'O
+w
+O Wgo0 r
+U m N ro w ro :34.)
+Q N d C a1u com M -4 't7 N
+m u N MA
+pN
+M 0 U •F 0 0
+C 4) m 0 H U N a-) • 4 C
+m V : r+ > tr x tr m a o a o
+E = -+ m C•+ 3 0
+i 01.0414U O FG 'O O 'd 1 A C
+m v >. aC
+N m E 33pm4 02aoV ,
+o " w3 '1 m m - C C
+u aJ m U U .+
+C
+m a
+to -. r u C C .-/ u b U •.+
+0 a- 0 o ro b . Q m m m u 3
+E m E b ' a 0 4 Q> m
+q N u u •- 1 u to W
+N -.+ >. O O u 0 >. "
+cl .
+0
+Y N GroU U> u E mN a
+a u Its Id m A w — 4
+cl .
+I
+O C m C O
+Rs
+3
+90-,y --I 90O 0, N m 4-1
+J U10
+10 V u m m N A b 1Q 10 O
+1+ go . 0 A C uN
+r+ w
+1 A ro 4-3 t3 m O > s
+I ' O ro N A J-/
+y LL C ro r+ - 4 - H p ro C C
+v rd ro to 3 w - 0 U •-+ tT
+C m a- u 4 C
+v . 0 N: 3 N N a-) m' 0 N m m
+314-) C IT m 1 N 1
+D >+ 01mC0+b1-, yb d
+11 A -•, a- 1 •- I •.-/ m C O 1 >
+N >ro u
+O g H A A Pl w a U H H
+4 N M V' Ill % D 1` 00 01
+w9
+ram
+t2
+n
+ocel
+00
+cn
+Ill
+o
+l
+en en
+M
+1 I 1 r  1 I 1
+O
+ID
+en 00
+t•') - N 1
+o
+N coN nr"1 coN aoN 0o
+N coN 0 00M
+enO' N
+OO
+O
+00
+n
+O ... O OO O
+11 co
+I -D 1 D
+O
+00
+I
+ro
+O O
+D % D
+O
+N
+O
+cl'
+O
+00
+O
+00
+O
+10
+O O O 1
+u
+m
+u u14
+f•. I
+ri; u
+u
+rt u
+O O
+C u
+i
+to
+ro O tb
+v
+m to O m 1
+U
+t01
+U
+coa-)
+a. 1 4j
+N ro
+i Ll U
+C
+O
+C
+rou t toU
+C
+O O > O ,
+la
+w
+fa
+5
+O O
+U rl RC
+u
+k.
+u
+P
+3
+a OU Oa D. H W
+4J w
+c. m
+N
+ou
+u m
+a y
+a
+m •- 1
+A N
+Nm
+N u C
+x O ro
+O b
+3 C m
+o x
+O N 3
+a m
+b C U
+a-.1)
+C ro
+y .- t .•
+O w u a
+U 0
+al w
+m N O
+NN I1
+al > C
+A U ' C3 O
+u >
+b m ro C +
+m Z d . i ro
+a,
+u
+c m
+1 y o A
+N m tT m iJ
+u O N
+N
+to 04 0
+E A ro
+A
+0 ~ C W d N
+Ll N O u ro
+N ' l7
+m .
+i
+u
+al ' O ill 4) 0
+0.1
+1 C u m u CL
+4)
+vui y+ N'
+3 . 0 a
+C N C a ro ro m
+N
+4) cob H N - 4 . — 4
+u U >
+od O
+U o4 --0I tin
+0- 1 N 11 10 ' CS
+E •.>r U N Cm 'O
+w
+O Wgo0 r
+U m N ro w ro :3 4.)
+Q N d C a1u com M -4 't7 N
+m u N M A
+pN
+M 0 U •F 0 0
+C 4) m 0 H U N a-) • 4 C
+m V : r+ > tr x tr m a o a o
+E = -+ m C•+ 3 0
+i 01.0414U O FG 'O O 'd 1 A C
+m v >. aC
+N m E 33pm4 02 aoV ,
+o " w3 '1 m m - C C
+u aJ m U U .+
+C
+m a
+to -. r u C C .-/ u b U •.+
+0 a- 0 o ro b . Q m m m u 3
+E m E b ' a 0 4 Q> m
+q N u u •- 1 u to W
+N -.+ >. O O u 0 >. "
+cl .
+0
+Y N GroU U> u E m N a
+a u Its Id m A w — 4
+cl .
+I
+O C m C O
+Rs
+3
+90-,y --I 90O 0, N m4-1
+J U10
+10 V u m m N A b 1Q10 O
+1+ go . 0 A C uN
+r+ w
+1 A ro 4-3 t3 m O > s
+I ' O ro N A J-/
+y LL C ro r+ - 4 - H p ro C C
+v rd ro to 3 w - 0 U •-+ tT
+C m a- u 4 C
+v . 0 N: 3 N N a-) m' 0 N m m
+314-) C IT m 1 N 1
+D >+ 01mC0+ b1-, yb d
+11 A -•, a- 1 •- I •.-/ m C O 1 >
+N >ro u
+O g H A A Pl w a U H H
+4 N M V' Ill % D 1` 00 01

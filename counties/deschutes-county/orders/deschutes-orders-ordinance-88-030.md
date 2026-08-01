@@ -1,0 +1,637 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-88-030
+title: 'Ordinance No. 88-030'
+doc_type: ordinance
+citation: 'Ordinance No. 88-030'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616625796_1988-18191-Ordinance%20No.%2088-030%20Recorded%208_17_1988.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 82b86938786f621a68ec32c924127651c89461067302b33b28327f8fbf07f3b8
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 88-030 (Ordinance No. 88-030)
+
+## At a glance
+
+Ordinance No. 88-030 — orders of Deschutes County. 13 pages.
+
+## Full text
+
+REVIEWED
+8818191
+Lr - Al. COUNSEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHU TY­,- ORE- i,- M
+An Ordinance Amending Ordi- * t __,
+nance No. PL - 15, Deschutes iii_%
+County Zoning Ordinance of *"+ PORI 14391979, as Amended, Revising * Co
+Provisions Concerning Flood
+Plain Zone, and Declaring an
+Emergency.
+ORDINANCE NO. 88- 030
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. Paragraphs ( 40), " Flood Hazard Area", ( 41),
+Flood Hazard Boundary Map", ( 42), " Flood Plain Profile", of
+Section 1. 030, " Definitions", of Ordinance No. PL - 15, Deschutes
+County Zoning Ordinance of 1979, as amended, are hereby repealed.
+Section 2. Paragraphs ( 125A), " Substantially Shaded", and
+125B), " Sunchart", of Section 1. 030, " Definitions", of Ordinance
+No. PL - 15, Deschutes County Zoning Ordinance of 1979, as amended,
+are renumbered Paragraphs ( 125B) and ( 125C), respectively.
+Section 3. Section 1. 030, " Definitions", of Ordinance No.
+PL - 15, Deschutes County Zoning Ordinance of 1979, as amended, is
+further amended to include the following new and amended defini-
+tions.
+10A) Area of Shallow Flooding. Such areas are
+designated ' AO' or ' AH' Zone on the Flood Insurance
+Rate Map ( FIRM). In such areas, the base flood depths
+range from one to three feet, a clearly defined channel
+does not exist, the path of flooding is unpredictable
+and indeterminate, and velocity flow may be evident.
+For purposes of this definition, ' AO' is characterized
+as sheet flow and ' AH' indicates ponding.
+10B) Area of Special Flood Hazard. The land in the
+flood plain within a community subject to a one percent
+or greater chance of flooding in any given year. Such
+areas are designated by the letter ' A' or ' V' on the
+Flood Insurance Rate Map ( FIRM).
+38) Flood or Flooding. A general and temporary condition
+of partial or complete inundation of normally dry land areas
+from:
+A. The overflow of inland or tidal waters;
+and/ or
+1 - ORDINANCE NO. 88- 030 MED
+iJO
+Kc cj D
+0093 1440
+B. The unusual and rapid accumulation of runoff
+of surface waters from any source.
+39) Flood, Base. The flood having a one percent
+chance of being equaled or exceeded in any given year.
+Also referred to as the 1100 - year flood'. Such areas
+are designated by the letter ' A' or ' V' on the Flood
+Insurance Rate Map ( FIRM).
+40A) Flood Insurance Rate Map. ( FIRM)'. The offi-
+cial map on which the United States Federal Insurance
+Administration has delineated both the areas of special
+flood hazards and the risk premium zones applicable to
+the community. The FIRM is adopted by reference in
+Ordinance No. 88- 031.
+41A) Flood Insurance Study. The official report
+provided by the Federal Insurance Administration that
+includes flood profiles, the Flood Boundary- Floodway
+Map, and the water surface elevation of the base flood
+condition of partial or complete inundation of normally
+dry land areas. The Study is adopted by reference in
+Ordinance No. 88- 031.
+42A) Flood Plain Development. Any man- made change
+to improved or unimproved real estate, including, but
+not limited to, buildings or other structures, mining,
+dredging, filling, grading, paving, excavation or
+drilling operations, located within the area of special
+flood hazard.
+43) Floodway. The channel of a river or other water
+course, and the adjacent land areas, that must be re-
+served in order to discharge the base flood without
+cumulatively increasing the water surface elevation
+more than one foot.
+67J) Lowest Floor. The lowest floor of the lowest
+enclosed area of a structure, including the basement.
+An unfinished or flood resistant enclosure, usable
+solely for parking of vehicles, building access or
+storage, in an area other than a basement area, is not
+considered a building' s lowest floor, provided that
+such enclosure is not built so as to render the struc-
+ture in violation of the applicable non - elevation
+design requirements of Section 4. 210( 6) this Ordinance.
+76) New Construction. Any structure for which the
+start of construction commenced on or after the effec-
+tive date of this Ordinance. For purposes of the Flood
+Plain Zone ( FP), ' new construction' means any structure
+for which the start of construction commenced on or
+2 - ORDINANCE NO. 88- 030
+0093 1441
+after the date of adoption of the amendments to the
+Flood Plain Zone in Ordinance No. 88- 030.
+125A) Substantial Improvement. Any repair, recon-
+struction or improvement of a structure, the cost of
+which equals or exceeds 50 percent of the market value
+of the structure either:
+A. before the improvement or repair is started;
+or
+B. if the structure has been damaged and is
+being restored, before the damage occurred.
+For the purposes of this definition, ' substantial
+improvement' is considered to occur when the first
+alteration of any wall, ceiling, floor or other struc-
+tural part of the building commences, whether or not
+that alteration affects the external dimensions of the
+structure. The term does not, however, include either:
+C. any project for improvement of a structure to
+comply with existing state or local health,
+sanitary or safety code specifications which
+are solely necessary to assure safe living
+conditions; or
+D. any alteration of a structure listed on the
+National Register of Historic Places or a
+State Inventory of Historic Places."
+Section 4. Section 4. 210, " Flood Plain Zone ( FP)", of
+Ordinance No. PL - 15, Deschutes County Zoning Ordinance of 1979,
+as amended, is further amended to read as follows:
+01. Purposes. The purposes of the Flood Plain Zone
+are: to implement the Comprehensive Plan Flooding
+Section; to protect the public from the hazards
+associated with flood plains; to conserve impor-
+tant riparian areas along rivers and streams for
+the maintenance of the fish and wildlife re-
+sources; and to preserve significant scenic and
+natural resources while balancing the public
+interests with those of individual property owners
+in the designated areas.
+02. The Flood Plain Zone shall include all areas
+designated as " Base Flood" areas by the Flood
+Insurance Study for Deschutes County. When flood
+base elevation data has not been provided in the
+flood insurance study, the Planning Division will
+obtain, review and reasonably utilize any base
+3 - ORDINANCE NO. 88- 030
+3.
+4.
+flood elevation or floodway data
+federal, state or other sources,
+the location of a flood plain or
+Uses Permitted Outright.
+available from
+in determining
+floodway.
+A. Agricultural use conducted without establish-
+ing or utilizing a structure. For purposes
+of this paragraph, a ' structure' does not
+include a boundary fence as long as such
+fence is designed to impede as little as pos-
+sible the movement of floodwaters and flood -
+carried material.
+B. Management, propagation and harvesting of a
+forest product.
+C. Open space.
+D. Portions of a residential use that do not
+contain structures, such as lawn, garden or
+play areas.
+Conditional Uses Permitted.
+A. A roadway, bridge or utility structure,
+except a landfill, that will not impede the
+waters of a base flood.
+B. Incidental storage of material or equipment
+that is either not subject to damage by
+flood, or is mobile and readily removable
+from the area within time available after
+flood warning. If such material is not
+readily removable, it shall be anchored to
+prevent flotation and shall not obstruct
+water flow. Material or equipment stored
+shall include only items which will not
+create a hazard to the health or safety of
+persons, property, animals or plant life
+should the storage area be inundated.
+C. Single- family dwellings on an individual lot,
+and manufactured housing on an individual
+lot in compliance with Sections 5. 100, 5. 110,
+5. 120, 5. 130, 5. 140 and 5. 150 of this Ordi-
+nance.
+D. Agricultural or residential related accessory
+buildings.
+4 - ORDINANCE NO. 88- 030
+0093 1443
+E. Hydroelectric facilities in accordance with
+Sections 5. 210 and 8. 050( 22) of this Ordi-
+nance.
+F. Excavation, grading and fill and removal in
+accordance with Sections 6. 060 and 8. 050( 23)
+of this Ordinance.
+G. Recreational uses requiring only structures
+having an insignificant effect on flood
+waters, such as golf courses, tennis courts,
+driving ranges, archery ranges, picnic
+grounds, boat launchings ramps, swimming
+areas, wildlife or nature preserves, game
+farms, fish hatcheries, shooting preserves
+and hunting or fishing areas.
+H. Subdividing or partitioning land in accor-
+dance with the provisions of this Ordinance
+and Title 17 of the Deschutes County Code.
+I. Expansion or substantial improvement of an
+existing dwelling, agricultural related
+structure or accessory building.
+5. Limitations on Conditional Uses. The following
+limitations shall apply to all uses allowed by
+subsection 4 of this Section:
+A. No dwelling units, including manufactured
+housing, accessory buildings and farm use
+structures, shall be allowed, or additions to
+such structures allowed, in the floodway of
+any river or stream.
+B. No dwelling unit, including manufactured
+housing, accessory structures and farm use
+buildings, shall be located in the flood
+plain unless it can be demonstrated by the
+applicant that no alternative exists on the
+subject lot which would allow the structure
+to be placed outside of the flood plain.
+C. Dwelling units, including manufactured
+housing, accessory structures and farm use
+buildings, shall be allowed only in areas of
+shallow flooding.
+D. No subdivision or partition shall be allowed
+which creates the potential for additional
+residential dwelling units in the flood
+plain.
+5 - ORDINANCE NO. 88- 030
+uu93 1444
+E. A land use which would alter or relocate a
+water course shall not be allowed.
+F. The cumulative effect of any proposed devel-
+opment, when combined with all other existing
+and anticipated development, shall not
+increase the water surface elevation of the
+base flood more than one foot in any point.
+G. Development which involves new construction
+or fill or removal in the floodway shall not
+be allowed unless certification by a regis-
+tered professional engineer is provided,
+demonstrating that the proposal shall not
+result in any increase in flood levels during
+occurrence of a base flood discharge, that
+all necessary state and federal permits have
+or can be obtained, and that all other
+criteria and standards of this Ordinance have
+been satisfied.
+6. An application for a conditional use in an FP Zone
+shall, at a minimum, contain the following inform-
+ation:
+A. A detailed explanation of why it is necessary
+to conduct the proposed use in the flood
+plain zone.
+B. A site plan, drawn to scale and accompanied
+by such drawings, sketches and descriptions
+as are necessary to describe and illustrate
+the proposed use. This site plan shall
+include, at a minimum, existing and proposed
+site contours in relation to the base flood
+elevation, existing and proposed structures,
+drainage facilities, and an explanation of
+how erosion will be dealt with during and
+after construction of the use.
+C. The location of the property with regard to
+the channel of the river or stream.
+D. The location of existing and proposed diking
+or abutments, if any.
+E. The level of the lowest habitable floor and
+of any basement floor, for any dwelling unit
+or structure.
+F. The level to which the structure is to be
+floodproofed, if applicable.
+6 - ORDINANCE NO. 88- 030
+7.
+0093 1445
+G. Elevations on the site plan shall be estab-
+lished by a licensed surveyor or engineer,
+and shall be in relation to mean sea level.
+H. Certification by a registered professional
+engineer or architect that the floodproofing
+methods for any structure meet the flood -
+proofing criteria established by the Federal
+Emergency Management Agency and set forth in
+subsection 7 of this Section.
+I. A description of the extent to which the
+watercourse will be altered or relocated as a
+result of the proposed development.
+J. All other elements or information which will
+assist in the evaluation of the proposed
+development and conformance with the appli-
+cable criteria.
+K. Certification by a registered professional
+engineer verifying the floodproofing of
+structures shall be obtained showing the
+actual elevation in relation to mean sea
+level of the lowest floor, ( including base-
+ment), of all new or substantially improved
+structures prior to occupancy or use of a
+structure.
+L. All records of any application for a condi-
+tional use and all certification of eleva-
+tions shall be maintained in the records of
+the Planning Division for public inspection.
+Criteria to Evaluate Conditional Uses.
+A. A conditional use permit in a Flood Plain
+Zone shall not be approved unless all stan-
+dards established by the Federal Emergency
+Management Agency and this Ordinance are
+addressed and findings made by the hearings
+body that each of the standards and criteria
+are satisfied.
+B. A conditional use permit shall be based upon
+findings which relate to the property and
+existing and proposed structure. They shall
+not pertain to the property owner, inhabi-
+tants, economic or financial circumstances.
+C. All structures in the flood plain shall meet
+the following standards.
+7 - ORDINANCE NO. 88- 030
+01093 1446
+a. Anchoring.
+i. All new construction and substantial
+improvements shall be anchored to
+prevent flotation, collapse or lateral
+movement of the structure.
+ii. All manufactured homes must be
+anchored to prevent flotation, collapse
+or lateral movement, and shall be
+installed using methods and practices
+that minimize flood damage. Anchoring
+methods may include, but are not limited
+to, use of over - the - top or frame ties to
+ground anchors ( see FEMA' s ' Manufactured
+Home Installation in Flood Hazard Areas'
+guidebook for additional techniques, on
+file with the Planning Division).
+b. Construction Materials and Methods.
+i. All new construction and substantial
+improvements shall be constructed with
+materials and utility equipment resis-
+tant to flood damage.
+ii. All new construction and substan-
+tial improvements shall be constructed
+using methods and practices that mini-
+mize flood damage.
+iii. Electrical, heating, ventilation,
+plumbing and air- conditioning equipment
+and other service facilities shall be
+designed and/ or otherwise elevated or
+located so as to prevent water from
+entering or accumulating within the
+components during conditions of flood-
+ing.
+C. Utilities.
+i. All new and replacement water supply
+systems shall be designed to minimize or
+eliminate infiltration of flood waters
+into the system.
+ii. New and replacement sanitary
+systems shall be designed to minimize or
+eliminate infiltration of floodwaters
+into the system and discharge from the
+system into flood waters.
+8 - ORDINANCE NO. 88- 030
+U `093 1447
+on- site waste disposal systems
+shall be located to avoid impairment to
+them or contamination from them during
+flooding.
+D. Subdivision and Partition Proposals.
+a. All subdivision and partition proposals
+shall be consistent with the need to
+minimize flood damage.
+b. All subdivision and partition proposals
+shall have public utilities and facili-
+ties such as sewer, gas, electrical and
+water systems located and constructed to
+minimize flood damage.
+C. All subdivision and partition proposals
+shall have adequate drainage provided to
+reduce exposure to flood damage.
+E. Review of Building Permits. Where elevation
+data is not available either through the
+Flood Insurance Study or from another author-
+itative source, applications for building
+permits shall be reviewed to assure that
+proposed construction will be reasonably safe
+from flooding. The test of reasonableness is
+a local judgment and includes use of histori-
+cal data, high- water marks, photographs of
+past flooding, etc., where available.
+Failure to elevate at least two feet above
+grade in these zones may result in higher
+insurance rates.)
+F. Specific Standards. In the Flood Plain Zone,
+the following requirements must be met:
+a. Residential Construction.
+i. New construction and substantial
+improvement of any residential structure
+shall have the lowest floor, including
+basement, elevated to or above base
+flood elevation.
+ii. Fully enclosed areas below the
+lower floor that are subject to flooding
+are prohibited, unless they are designed
+to automatically equalize hydrostatic
+flood forces on exterior walls by
+allowing for the entry and exit of
+9 - ORDINANCE NO. 88- 030
+floodwaters. Designs for
+requirement must either b
+a registered professional
+architect, or must meet o
+following criteria:
+uu9 1448
+meeting this
+e certified by
+engineer or
+r exceed the
+1. A minimum of two openings having a
+total net area of not less than one
+square inch for every square foot
+of enclosed area subject to flood-
+ing shall be provided.
+2. The bottom of all openings shall be
+no higher than one foot above
+grade.
+3. Openings may be equipped with
+screens, louvers or other coverings
+or devices, provided that they
+permit the automatic entry and exit
+of floodwaters.
+b. Non - Residential Construction. New
+construction and substantial improve-
+ments of any commercial, industrial or
+other non- residential structure shall
+either have the lowest floor, including
+basement, elevated to the level of the
+base flood elevation, or, together with
+attendant utility and sanitary facilit-
+ies, shall:
+i. Be floodproofed so that below the
+base flood level the structure is
+watertight with walls substantially
+impermeable to the passage of water.
+ii. Have structural components capable
+of resisting hydrostatic and hydrodyna-
+mic loads and effects of buoyancy.
+iii. Be certified by a registered
+professional engineer or architect that
+the design and methods of construction
+are in accordance with accepted stan-
+dards of practice for meeting provisions
+of this subsection, based on their
+development and/ or review of the struc-
+tural design, specifications and plans.
+Such certifications shall be provided to
+the County as set forth in subsection
+6( H) of this Ordinance.
+10 - ORDINANCE NO. 88- 030
+09 3 1449
+iv. Non- residential structures that are
+elevated, but not floodproofed, must
+meet the same standards for space below
+the lowest floor as described in subsec-
+tion 7( F) of this Section.
+v. Applicants for floodproofing non-
+residential buildings shall be notified
+that flood insurance premiums will be
+based on rates that are one foot below
+the floodproofed level ( e. g. a building
+constructed to the flood level will be
+rated as one foot below that level).
+C. Manufactured Homes. All manufactured
+homes to be placed or substantially
+improved shall be elevated on a perma-
+nent foundation such that the lowest
+floor of the manufactured home is at or
+above the base flood elevation. Such
+manufactured homes shall be securely
+anchored to an adequately anchored
+foundation system in accordance with the
+provisions of subsection 7( C) of this
+Section.
+G. Floodways. In floodways where potential
+extreme hazards exists due to the velocity of
+flood waters which carry debris, potential
+projectiles and erosion potential, the
+following provisions shall apply:
+a. Encroachments, including fill, new
+construction, substantial improvements
+and other development, are prohibited
+unless certification by a registered
+professional engineer or architect is
+provided demonstrating that encroach-
+ments shall not result in any increase
+in flood levels during the occurrence of
+the base flood discharge.
+b. If subsection ( G)( a) of this Section is
+satisfied, all new construction and
+substantial improvements shall comply
+with all applicable sections of this
+Ordinance.
+8. Yard and Setback Requirements: In an FP Zone, the
+following yard and setback requirements shall be
+maintained:
+11 - ORDINANCE NO. 88- 030
+C)'0941 1450
+A. The front setback shall be a minimum of 20
+feet from a property line fronting on a local
+street, 30 feet from a property line fronting
+on a collector and 50 feet from an arterial.
+B. There shall be a minimum side yard of 10 feet
+for all uses.
+C. The minimum rear yard shall be 20 feet.
+D. The setback from a northern lot line shall
+meet the solar setback requirements in
+Section 5. 300.
+E. The minimum yard setback for a non- farm use
+from the property line adjacent to a farm use
+not owned by the applicant shall be 100 feet.
+9. Stream Setback. To permit better light, air,
+vision, stream and pollution control, to protect
+fish and wildlife areas and to preserve the
+natural scenic amenities along streams and lakes,
+the following setbacks shall apply:
+A. All sewage disposal installations such as
+septic tanks or septic drainfields shall be
+setback from the mean high- water line or mark
+along all streams or lakes a minimum of 100
+feet, measured at right angles to the high-
+water line or mark. In those cases where
+practical difficulties preclude the location
+of the facilities at a distance of 100 feet,
+and the County Sanitarian finds that a closer
+location will not endanger public health or
+safety, a setback exception may be permitted
+to locate these facilities closer to the
+stream or lake, but in no case closer than 25
+feet.
+B. All structures, buildings or similar perma-
+nent fixtures shall be set back from the
+high- water line or mark along all streams or
+lakes a minimum of 100 feet measured at right
+angles from the high- water line or mark.
+10. Dimensional Standards. In an FP zone, the follow-
+ing dimensional standards shall apply:
+A. Lot Coverage. The main building and acces-
+sory buildings located on any building site
+or lot shall not cover in excess of 30% of
+the total lot area.
+12 - ORDINANCE NO. 88- 030
+0091 1451
+B. Building Height. No non- agricultural build-
+ing or structure shall be erected or enlarged
+to exceed 2 stories or more than 30 feet in
+height.
+C. Minimum lot size shall be 10 acres for all
+areas which have received an exception to the
+Statewide Planning Goals for resource uses.
+Areas which have not received an exception to
+the Statewide Planning Goals shall have a
+minimum lot size of 80 acres.
+11. Warning and Disclaimer of Liability. The degree
+of flood protection required by this Ordinance is
+considered reasonable for regulatory purposes and
+is based upon scientific and engineering consider-
+ations. Larger floods can and will occur on rare
+occasions. Flood heights may be increased by
+man- made or natural causes. This Ordinance shall
+not create liability on the part of Deschutes
+County, any officer, agent or employee thereof, or
+the Federal Insurance Administration, for any
+flood damages that result from reliance on this
+Ordinance or any decision lawfully made hereunder.
+012. Use variances or variances to the standards
+established by subsections 5 and 7 of this Section
+shall not be allowed."
+Section 5. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergency
+is declared to exist, and this Ordinance takes effect on its
+passage.
+DATEDthis 1
+rvl
+day of , 1988.
+BOARD OF COUNTY COMMISSIONERS
+OF MSCHUT- ES COUNTYn OREGON
+LOISARIPTOW PRANTE, Commissioner
+ATT ST: TbM LT bOP,
+e
+Recording Secretary D K MAUDLIN,
+13 - ORDINANCE NO. 88- 030
+ioner
+irman
