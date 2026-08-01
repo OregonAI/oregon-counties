@@ -1,6 +1,6 @@
-# {{CORPUS_NAME}}
+# Oregon Counties — Code, Ordinances, Policy and Land Use
 
-> Non-authoritative, AI-friendly reference for {{CORPUS_SCOPE_DESCRIPTION}}.
+> Non-authoritative, AI-friendly reference for policy instruments of Oregon's 36 counties — codified county code and ordinances, board and county-court orders, administrative policy (HR, purchasing, public records, IT), and land use (comprehensive plans, zoning, development codes).
 > Full verbatim text of jurisdiction-authored documents is included in-repo;
 > third-party materials are summarized with links to official sources.
 > Always verify against the authoritative source linked in each document.

@@ -1,4 +1,4 @@
-# STATUS — {{CORPUS_NAME}}
+# STATUS — Oregon Counties — Code, Ordinances, Policy and Land Use
 
 Generated TEMPLATE — not yet regenerated for this corpus; run `corpus-generate-status --config _meta/corpus.yml --output STATUS.md`. Non-authoritative; see DISCLAIMER.md.
 

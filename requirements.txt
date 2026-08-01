@@ -1,0 +1,5 @@
+# src/ingest_counties.py extracts county PDFs via src/extract.py. Same extractor as
+# oregon-audits and federal-reference, so the page-furniture and heading-guard behaviour is
+# shared rather than a third implementation that drifts from the other two.
+pypdf
+PyYAML

@@ -1,5 +1,5 @@
 {
- "corpus": "{{CORPUS_ID}}",
+ "corpus": "oregon-counties",
  "n_nodes": 0,
  "n_edges": 0,
  "n_edges_external": 0,

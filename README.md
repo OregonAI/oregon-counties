@@ -1,4 +1,4 @@
-# {{CORPUS_NAME}}
+# Oregon Counties — Code, Ordinances, Policy and Land Use
 
 > ## ⚠️ NON-AUTHORITATIVE — AI-friendly reference only
 > Curated copies/summaries, not official text. Always verify at the
@@ -6,7 +6,7 @@
 
 Part of the OregonAI civic corpus platform
 ([reference architecture](https://github.com/OregonAI/corpus-toolkit)).
-Archetype: **{{ARCHETYPE}}**. MCP interface: contract v1.
+Archetype: **document**. MCP interface: contract v1.
 
 | Entry point | For |
 |---|---|

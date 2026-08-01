@@ -1,4 +1,4 @@
-# Changelog — {{CORPUS_NAME}}
+# Changelog — Oregon Counties — Code, Ordinances, Policy and Land Use
 
 Keep a Changelog format; ISO dates. Change types: Added, Source-Updated,
 Superseded, Repealed, Removed, Verified, Fixed, Security.

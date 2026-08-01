@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "source-group.schema.json",
+  "title": "County source group",
+  "description": "One file per county under _meta/sources/. Counties are the unit of update checking: 36 counties on a dozen platforms move at unrelated rates, and a single manifest would make every county's drift one county's problem. Validated in CI via plugins.extra_schema_checks.",
+  "type": "object",
+  "required": ["group", "title", "county", "crawl", "last_checked", "upstream_signal", "sources"],
+  "additionalProperties": false,
+  "properties": {
+    "group": {
+      "type": "string",
+      "pattern": "^[a-z][a-z-]*$",
+      "description": "Must equal the filename without .yml, and the county slug without the -county suffix"
+    },
+    "title": { "type": "string" },
+    "county": {
+      "type": "string",
+      "pattern": "^[a-z][a-z-]*-county$",
+      "description": "The registry slug in _meta/counties.yml"
+    },
+    "crawl": {
+      "type": "object",
+      "description": "THE ROBOTS DETERMINATION FOR THIS COUNTY, recorded so it is reviewable in a PR rather than buried in a fetcher. Five source hosts serve `User-agent: ClaudeBot / Disallow: /`; the operator's decision (PLAN.md Phase 12) is that the text of county law is authored by the county and the vendor is a host, not the author. `decision` records what was concluded FOR THIS COUNTY and `basis` records why, per source host.",
+      "required": ["decision", "checked", "hosts"],
+      "additionalProperties": false,
+      "properties": {
+        "decision": {
+          "enum": ["proceed", "excluded", "unavailable"],
+          "description": "proceed: ingest. excluded: deliberately not ingested. unavailable: the host refused an honestly-identified agent at the HTTP layer, so there is nothing to decide — we do not retry disguised as a browser."
+        },
+        "checked": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+        "basis": { "type": "string" },
+        "hosts": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["host", "robots_url", "ai_block"],
+            "additionalProperties": false,
+            "properties": {
+              "host": { "type": "string" },
+              "robots_url": { "type": ["string", "null"] },
+              "ai_block": {
+                "type": "boolean",
+                "description": "true when robots.txt names an AI crawler and gives it Disallow: /"
+              },
+              "content_signal": { "type": ["string", "null"] },
+              "notes": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "last_checked": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "upstream_signal": {
+      "type": "string",
+      "description": "Human note: what upstream mechanism announces a change here, and how often it actually moves. There is no county with a change feed, so this is usually 're-fetch and re-hash'."
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "url", "family", "format", "sha256"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9._-]+$" },
+          "url": { "type": "string", "pattern": "^https?://" },
+          "family": {
+            "enum": ["code", "orders", "policies", "land-use"],
+            "description": "Determines the subdirectory, and therefore the doc_type"
+          },
+          "format": { "enum": ["pdf", "html", "xml", "json"] },
+          "sha256": {
+            "type": "string",
+            "pattern": "^([0-9a-f]{64})?$",
+            "description": "Content hash as corpus-detect-changes computes it on a fresh fetch — NOT the document's source_sha256, which hashes our extractor's output. Storing one in the other's field swaps one permanent false positive for another while looking fixed. May be empty ONLY before the first refresh_source_hashes run."
+          },
+          "title": { "type": "string" },
+          "citation": { "type": "string" },
+          "last_checked": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+          "notes": { "type": "string" }
+        }
+      }
+    }
+  }
+}

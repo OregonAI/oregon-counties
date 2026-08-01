@@ -1,11 +1,11 @@
-# AGENTS.md — {{CORPUS_NAME}}
+# AGENTS.md — Oregon Counties — Code, Ordinances, Policy and Land Use
 
-Corpus of the OregonAI civic corpus platform. Archetype: {{ARCHETYPE}}.
+Corpus of the OregonAI civic corpus platform. Archetype: document.
 Read `_meta/corpus.yml` for configuration; the platform rules live in
 OregonAI/corpus-toolkit `docs/`.
 
 ## Purpose
-Non-authoritative, AI-friendly mirror of {{CORPUS_SCOPE_DESCRIPTION}}.
+Non-authoritative, AI-friendly mirror of policy instruments of Oregon's 36 counties — codified county code and ordinances, board and county-court orders, administrative policy (HR, purchasing, public records, IT), and land use (comprehensive plans, zoning, development codes).
 Never a source of truth — every answer must cite and link the
 authoritative source.
 
