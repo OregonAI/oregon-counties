@@ -1,0 +1,415 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord343-pdf
+title: 'ORD343-PDF'
+doc_type: ordinance
+citation: 'ORD343-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17769/ORD343-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 9fc831ca04399745471295f7fb9deccd3f9c6306cb190e86f5580938f34345d9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.946; figure agreement 0.853; dictionary ratio 0.911. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.010
+    - ORS 215.020
+    - ORS 215.203
+    - ORS 215.223
+    - ORS 215.402
+    - ORS 215.406
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 95%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD343-PDF (ORD343-PDF)
+
+## At a glance
+
+OCR-derived text of ORD343-PDF. Not human-verified.
+
+## Full text
+
+he
+                                                                                                                    y|
+
+ ise                           FOR       THE        COUNTY     OF     YAMHILL
+
+         SITTING          FOR       THE        TRANSACTION            OF    COUNTY          crerumee         sg)”
+
+In    the    Matter           of    an     Ordinance
+to    Implement           Planning              Commission
+Resolution No.   83-7                      Authorizing                            ORDINANCE          NO.       S49
+an Amendment   to the                      Yamhill  County
+Zoning       Ordinance,              No.        310,     1982,
+requested           by    Denis           R.    Burger
+
+       THE  BOARD   OF COMMISSIONERS                             OF       YAMHILL    COUNTY,   OREGON,
+(the    Board)    on the 8thday  of                                       June,   1983,   sat.for   the
+transaction              of    County           business,            in    special          session,.        Com-
+missioners           Robin          J.     Hamblet,           Dave        Bishop,       and    Ted      Lopus-
+zynski       being        present.
+
+        WHEREAS,  pursuant                      to ORS        215.402 to 215.422  and 1301.01
+(C)    (8)  of the Yamhill                      County        Zoning Ordinance,decisions   by
+the    Yamhill           County          Planning            Commission           to     approve        or    deny
+requests   for amendment to                             the Zoning Ordinance     are -final,
+unless   an aggrieved party                             appeals   to the Board within     fifteen
+days,  or unless   the Board                            in its discretion    elects pursuant
+to §1301.05   of the Zoning                             Ordinance   to review the decision
+on    its    own     motion          within            fifteen        days,       and
+
+     WHEREAS,  the Planning Commission has adopted a Resolution
+approving an amendment    to the Zoning Ordinance   upon the ap-
+plication of the above named person(s),      a copy of said Resolu-
+tion being attached hereto    and by this reference    incorporated
+herein   as if fully set forth herein,   and
+
+     WHEREAS,             more than                 fifteen days have elapsed since this
+decision was              announced                 by the Planning Commission and no ap-
+peals  to or reviews    by the Board   have  been  requested,   NOW,
+THEREFORE,   based  upon  and  for the  reasons   set  forth  in the
+attached   Resolution,
+
+       IT    IS     HEREBY          ORDAINED            BY    THE     BOARD       that       the    Official
+Zoning Map of. the Yamhill County  Zoning Ordinance be and
+hereby  is amended consistent with and as set forth in the
+attached Resolution of the Yamhill County Planning Commission.
+
+     This Ordinance being necessary  for the health,   safety and
+welfare of the citizens   of Yamhill County,   and an emergency
+having been declared shall be effective    upon passage hereof.
+
+       DONE       this        8thday           of             June,        1983        at    McMinnville,                 Oregon.
+
+ATTEST:                                                             YAMHILL         COUNTY         BOARD      OF         COMMISSIONERS
+
+                                                                                                    ROBIN      J.         HAMBLET
+
+                                                                           DPN
+                                                                            Eb DAVE eta
+                                                                     Commissioner   BISHOP
+                                                                                           (>
+
+med.              via          y,                                         i
+                     Ah              i)                                   LAL
+TORNe             GRAY,       JR./{ |                                Commissioter              // TED        LOPUSZYNSKI
+gory        ue      County          “Gowhsel
+In     the    Matter         of         an     Amendment              to        the            )
+Yamhill         County            Zoning            Ordinance,                                )            RESOLUTION NO. 83-7                                            Hise
+Ordinance            No.         310,         1982       as     requested                      )
+by    Denis        R.      Burger                                                             )
+
+                     THE     PLANNING                COMMISSION                  of    Yamhill             County,        Oregon,        on     the        2nd     day’
+of    June      sat        for     the         transaction                 of       County          business         at    a regularly               scheduled
+session. Planning Commissioners Treadway,    Bunn, Miller, Stockhoff, Grimn, |
+Weidemann,  Bennette and Sadler were present.
+           WHEREAS,  the Yamhill County Board of Commissioners adopted the
+Yamhill        County             Zoning            Ordinance,                 Ordinance             No.     310,     1982       on     the     Ist    day
+of December,  1982, being                                 the       Yamhill)           County          Zoning        Ordinance           text        and
+Official Zoning Map; and
+                     WHEREAS,                ORS     215.020           provides               that         a governing           body     may        create
+a county planning commission and, pursuant to ORS 215.406, may designate
+the planning commission to serve as 4 hearings officer with all_the
+power        and     duties             of     a hearing              officer           as         prescribed         by    ORS       215.010         and
+215.402         to      215.422;               and
+          WHEREAS, the Yamhill County Board of Commissioners created the
+Yamhill County Planning Commission by adoption of an unnumbered Board
+Order on the 6th day of November, 1957 and designated that planning
+commission as the hearings body for petitions for amendments to the
+Yamhill County Zoning Ordinance, Ordinance No. 310, 1982 by adoption of
+Ordinance            No.         138     on        the    Ist       day        of     June,         1977;     and
+                     WHEREAS,                it     appears           to       the     Planning             Commission           that     a petition
+submitted on behalf of Denis R. Burger has been filed with the Yamhill
+County Department of Planning and Development,  pursuant to Section 1207
+of Ordinance No. 310 to amend said Ordinance,  and change the Official Zoning
+Map designation from Agriculture/Forestry Large Holding to Light Industrial
+for     a parcel            described                as       being        a     two    (2)         acre     portion        of    a     forty-four               (44)
+acre     tract;        and
+                     WHEREAS,                the     Planning              Commission,                on     the     2nd    of    June        held     a     pub-
+lic hearing as required by ORS 215.223 and 215.416 on the proposed amend-
+ment and voted to approve the request based on the findings and conclusions
+attached hereto as Exhibit "A" and by this reference made a part hereof;
+     NOW THE"EFORE,  IT IS HEREBY RESOLVED that the Official Zoning Map be
+and hereby is amended to show the Zoning Designation on a two (2) acre por-
+tion of Yamhill County Tax Lot 5510-1801 as Light Industrial as shown on
+the sketch plan attached hereto as Exhibit B and by this reference made a
+part hereof.
+         This        resolution                   shall        be     in       force     and         effect         from    and       after      the        date
+the change is properly recorded on the Official Zoning Map.   The Yamhill
+County Planning Director be and hereby is directed and authorized to amend
+said Official Zoning Map in conformance with this Ordinance.
+
+         DONE        this         2nd        day     of       June,        1983.
+
+         AYES:              Treadway,                Bunn,          Weidemann,                Grimm,         Miller,        Stockhoff,            Bennette,
+
+                            Sadler
+
+         NAYES:
+
+         ABSTENTIONS :
+
+Approved           by      the     Chairman               this        2nd        day    of         June,     1983
+
+ATTEST:                                                                                       YAMHILL         COUNTY        PLANNING           COMMISSION
+              /]
+iynn
+Planning
+         Stéiger
+                   Director
+                                                     J
+                                                                ff                           Bick          Sadler,
+                                                                                                                      CH  Chairman
+               Docket;            .                    PA~125-83/Z-235-83
+               Request:                                An            amendment                       to the            Yamhill                 County Comprehensive
+                !                     ;                P                1974  to                      change            the Pl                 Map deaignation  from
+weg   _                                                     riculture/Forestry  Large   Holding”     to   “Light
+Bhyilrt                                                 Industrial" on a two (2) acre portion of a forty-
+   PE                                                   four   acre tract.   An amendment   to   the    Yashill
+                                                       County                       Zoning                Ordinance,             No.           310,         1982     to        change
+           AL                                              the           official                    zoning            map     from           “EF-407AF-20°                    to        "RI°
+                                                        on           a    two            (2)        acre            portion     of        a    forty-four             (44)              acre
+                                                           tract.
+ s             Location:                                Approximately five (5) miles  Southwest of the City
+                                                        of MeMinnville, West of County Road No. 431, in the
+                                                        Southeast                         1/4            of    Section         10,        T5S-R5W,            Tax     Lot           5510-
+                                                           1801.                                                                                        Oo
+               Applicant:                                  Denis               R.     Burger                                                             P
+
+     Findings              of    Fact
+
+     1         The     applicant                       has               requested                   a        plan     amendment/zone                    change           on        a     two
+               (2)    acre                portion            of           the         subject                  property         to        allow         for        development
+               and     operation                      of         a       winery.
+
+     2.        There  4s currently      a one                                                   thousand    one hundred   and fifty  (1,150)
+               square  foot  pole  building                                                     located  on the   property.   Approximately
+               twenty   (20) acres   of   the                                                  property    are  planted   to grapes and the
+                remainder                  of        the         property                      is        predominantly                   in    grain         and     hay        crops.
+               The  proposed  winery   site is                                                            in a wooded                portion            of    the     property
+               that previously   has not been                                                            cultivated.
+
+     3.        The  proposed winery    site                                                is  served   by a ten                              (10)   foot wide    gravel
+               road   with  a  sixty  (60)                                                foot     right-of-way.                                 The    applicant     has
+               indicated   plans  to widen                                                the   road  surface  to                             twenty    (20)  feet.
+
+     4,        In addition    to the   twenty     (20)   acres    of grapes  recently     planted     on
+               the   property,    the    applicant        has    indicated    plans    to   plant     an
+               additional     twenty    (20)    acres    of grapes     in 1984    and    twenty    (20)
+               acres   more in 1985.      The    proposed      grape  plantings    would    result    in
+               an  additional    thirty    (30)    acres    of   uncultivated    land    coming    into
+               production.
+
+     5.        The     proposed                      winery               would                process               grapes     grown            on    the     property                  and
+               from  local    vineyards.     The  final   capacity   of the  winery    is
+               expected   to be 25,000   gallons   annually.    It is anticipated   that
+               the winery   would  be built  in 1984.
+
+     6.        The     impact                   of    the            wineryon water                                  supplies            in    the     areais         expected
+               to     be        minimal.                     The               winery                would             depend            on     water         for     cleaning
+               equipment,
+                       etc.                                  There                  is         no        irrigation            required               for     grapes.
+
+               “the applicant  has indicated   that  the winery   needs  to be locate”
+                near  the  vineyards   for   both   expense   and    product   quality
+                tOneidereetoas.
+                            \
+
+                Geta ‘on the  proposed   two                                                         (2) acre winery   site                           are agricultural
+                Clase IV,   Yamhill   silt                                                          loam   with slopes    of                           between 7  to 20
+                percent.
+                 FH odgs
+               Surrounding    properties   are characterized         by intensive      agricultural
+              production     including    grain and hay crops,           livestock      grazing   and
+              woodlots.     An adjacent    property   owner     has    indicated     that he has    no
+             (objection    to   the  proposed    winery    so    long     ao  the winery     doesn't
+           vi adversely      impact   water   supply    in    the     area   end  as    long  as  the
+              access   roadway    is improved   to necessary        standards.
+
+         10.    Parcels  in the  area   of  the  subject    property   range   in size   from
+                approximately   three   (3)  acres    to over   one  hundred   (100)   acres.
+                Properties  to the   northeast    are   zoned  "AF-10"   and were   excepted
+                during            the                County                    Exceptions                           Process          (Code            Area         6.11).                 The
+                predominant                          zoning               in        the        area            is    “EF-40"         and        "“AF-20."
+
+         11.    The County   definition  of farm use    includes   "the preparation                                                                                                       and
+                storage   of  the products   raised  on   such  land   for man's use                                                                                                      and
+                animal  use and disposal   by marketing   or otherwise."
+
+         12.    The  County Sanitarian                                              has   indicated                      that        a        site     evaluation                       needs
+                to be approved  for  the                                             parcel.
+
+         13.    The        County                Engineer                       has            reviewed                the     proposal                and     has        found             no
+                conflicts                  with            the           Road            Department's                    interests.
+                                                                                                                        Saat
+      tidal      ot                      ee.                         _.                                            7          Me
+14.    The            DEQ     has         rev          ea          the     proposal                 and         has         @..            no         conflicts                  with
+        the           Department's                     interests.                                                                                      2
+
+15.    The             Yamhill              SWCD             has         reviewed                the          proposal                    and          has           found            no
+        conflicts                   with         the         District's                  interesta.
+
+16.     The  Sheridan  PAC  reviewed   the application    at their                                                                                         May   2,          1983
+        meeting   and recommended   approval  of  the  request   by                                                                                        a cua            kiana
+        vote.                                                                                                                                    XO
+
+Conclusionary                        Findings
+
+Approval
+
+The           following                  conclusionary                     findings                 can         be       made        for         approval                   of        the
+application:
+
+ 1.       Approval                  of     the         request            would            assist             in       maintaining                    an     appropriate
+              rate           and          pattern              of         economic                    growth                   consistent                            with         the
+          agricultural   character     of                                            the       County                  by complimenting   vineyard
+          production   proposed    for                                              the        parcel                    and vineyard   production
+          throughout the  County.
+
+2.        The              proposal               is          consistent                       with           those                industrial                        policies
+          regarding                  proximity                to     agricultural                        resources                   in     that           the        proposed
+          winery              would         facilitate                    on-site              vineyard                  production.
+
+3.        In          that     the         site         of     the        proposed                  "RI"           zone        and        winery             is        located
+          in          an     uncultivated                      area            of        the    property                      and     because                the        winery
+          would   facilitate      a  thirty    (30)   acre    increase    of   lands    in
+          production   on  the  property,   the   request    would be  consistent    with
+          County  policies   regarding   preservation     of agricultural    lands.
+
+4.        In that   the proposed   winery   would  facilitate   proposed    and existing
+          agricultural     production    within   the County   (iee.    vineyards),   the
+          use would    be consistent   with  the overall   intent    and purpose   of the
+          Comprehensive    Plan.
+
+5.        Approval                   of     the          requested                    zone          change                  would          be         in     the        public
+          interest                  and     would            serve         a        need       in        that           the        proposed                winery            would
+          facilitate    further   agricultural      production     within    the  County   and
+          would   enhance    the   reputation     of   an  increasingly..popular           and
+          economically    viable   Yamhill   County    induotry.      Further,   waote water
+          disposal   ia regulated    by DEQ   standards     and   development     is  subjec~
+          to County    site   design   review    requirements        and,   therefore,     any
+          impacts  the winery    may  have  on adjacent      lands would     be minimal.
+
+ 6.       The          requested                zone         change            is        timely          considering                       the        existence                  of        a
+          twenty    (20)    acre   vineyard     on   the     subject    property    and   the
+          continued     expansion    of  grape    production       throughout   the County.
+          Further,     the   proposed   winery     would     be   dependent   upon   on-site
+          utilities     and   services    and  would     not    necessitate   expansion     of
+          public   services.
+
+7.        Although  there  are  other   “RI”                                               zoned   lands  in the                                County,  they                      are
+          essentially   developed   and   it                                               is  beneficial   from                                a production                       and
+          economic                  standpoint                 to        have        a     winery             near            the     vineyard.                       Further,
+              the  intended    use   of the property    as a winery   is similar   to the
+              definition    of farm use as set    forth    in ORS 215.203(2)(a)  in that
+              the   operation      of   the proposed      winery   would   include    the
+          preparation,    storage   and  marketing                                                         of  grapes   grown                               on  the  site.
+          Therefore,  the   requested   zone change                                                         from  "AF-20"  to                              “RI”  would   be
+          minor               and         the         applicant's                        burden            of           proof             can         be     considered
+              relatively                  light.
+
+ 8.       The              public          need         is         best         served              by        the           proposed              action               in        that
+          establishment                          of      a     winery               necessitates                        a      significant                       investment
+          and  approval     of   the   zone   change    provides     the   applicant     with
+          certainty    that    such   an    investment    will    be    recognized    as    an
+          authorized     permitted      use.     Further,    the   applica,t      is basing
+          proposed  vineyard     production    on the  ability   to operate     a winery    on
+          the   site   while                      having             the flexibility                            to  process  grapes grown  off-
+          site.      County                      policy              recognizes   the                           plan   amendment/zone   change
+          procedure                  as    the         Spe tepe tate                 method              of        authorizing                    such           a    use.
+, The    following                conclusionary                                 findings          can ‘be            made         in        ledppere              of   trie
+  an    exception            to        the             applicable                     County       resjource                   goals:                      |
+                                                                                                               |                                                               |
+  Ll.    The    proposed  win                             y    facility  should   be provided   for  because   the
+         use     is oriented                             to     agricultural    resources.    The   winery   will
+         enhance   the                  agricultural   character   of the County                                                                       by processing
+         grapes  grown                   on Yamhill  County  vineyards   and will                                                                       help  maintain
+         the  economic   growth  of  the                                               County        by        adding             to            the        Ecorse        wine
+         industry  of  Yamhill  County.                                                                                                                                      |
+
+         Although                 a         winery,             could                  be        established                      in            other            locations
+         throughout                   the        County,                 the      applicant               has        indicated                        an       intention       to
+         substantially     commit;   this  propertyto grape  production                                                                                                and  in
+         order  to process    these   grapes in an economic manner,  the                                                                                               winery
+         should  be located   on-site.
+
+         Denial         of        thie            request                would          essentially                   preveny                   agricultural                  use
+         of agricultural        lands    in  that     the   County's   policy    has    been    tc
+         consider    the   “RI”    District     as     a further     refinement      of  County
+         resource   zones   and   as a further        means   of promoting   and   preserving
+        -agrdteultural    production     within    the County.      Changing   the site      from
+         an  agricultural     designation      to   a    resource   industrial    designation
+         would  enhance    rather    than hinder       the agricultural    character      of the
+         property            and            the         County.                                                                             |
+
+         The    proposed                        winery         facility                     would         be       consistent                         with       permitted
+         usea      on        adjacent                     lands                  in     that        the            winery              ie        agriculturally
+         related             and                adjacent                  lands             are     plan             and         gone             designated               for,
+         agricultural                           uses.           Further,                    environmental                         concerns                      associated |
+         with      the        proposal                        are         regulated                 by         DEQ     and         Cooney                      oite    cence        |
+        /standarde            to miniaize                           iepacts                 on    ae jacene           lands.
+
+        ee      pment ai     a              w    ash                ie     al                        i                     :            1h       yt
+  US
+tor          4
+
+ Ls
+LOT G
+
+                                   oa         SBD                                                                                                    +
+
+       “DESCRIPTION:                    Beginning            at    the     NeW.     corner           of     the        John     Boyd     claim            number     58,
+
+        in       Township          5     south,       Range        5,     West     of    the     Willamette               Meridian             in        Yamhill
+
+        County;             thence        south       0°33'30"            West     along        the       West         line     of     said     John        Boyd
+
+        Land       Claim,          882.61           feet     to    a     point     thence        north           85°     29'     East     314.29            feet;
+
+        thence          North          88°    06'     East        117.54       feet;      thence           South         70°     36’     East            142.63
+                   F                                                                                        a
+        feet       to       point(A) which             is     the       N.W.     corner         of    the        2 acre         tract     being            changed         to
+
+      ’ Resource             Industrial;              thence           South     20°     East        310        feet     to     point(B)            thence         South        ~
+
+       60" East              438       feet    to     point        @      thence        North        20°        West     310     feet     to        point     @;)     .
+
+        thence          West       60°       North     438        feet     returning            to    point        A.         Points      A,        B,     C, DB
+
+        scribe          a    parallelgram              encompassing               the     2    acre        R.I.         site.
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 94.6% of
+the word sequence, and on 85.3% of the figures. Dictionary-recognizable words: 91.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

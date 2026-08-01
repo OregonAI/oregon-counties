@@ -1,0 +1,152 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/curry-county
+id: curry-code-article-1-division-20
+title: 'Article 1 - Division 20'
+doc_type: ordinance
+citation: 'Article 1 - Division 20'
+authority_level: county_ordinance
+issuing_body: 'Curry County Board of Commissioners'
+source_url: https://www.currycountyor.gov/Article%201%20-%20Division%2020.pdf?t=202407101004170
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 1a7327ea9a1e7cccc5ff6a5e2261eb45b78f4219f223b8fbf2cf19b8cf73c472
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.944; figure agreement 0.776; dictionary ratio 0.947. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [curry-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 94%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Article 1 - Division 20 (Article 1 - Division 20)
+
+## At a glance
+
+OCR-derived text of Article 1 - Division 20. Not human-verified.
+
+## Full text
+
+FILEDIN CURRY COUNTY               CJ:2019-47
+                                                            Renee’ Kolen, County Clerk    02/22/2019 9:08:12 AM
+                                                            Commissioners’ Journal                     3 PAGES
+
+                  BEFORE THE BOARD OF COUNTY COMMISSIONERS
+
+                     IN AND FOR THE COUNTY OF CURRY, OREGON
+
+In the Matter of an Amendment tothe     )
+Curry County Code Authorizing Advisory)                                           _       5
+Questions to be Placed on the Ballot.     ) | ORDINANCE NO.                | 4~       0
+By the Board of Commissioners             )
+
+The Board of Commissioners for the County of Curry ordains as follows:
+
+SECTION 1:       TITLE
+
+        This Ordinance shall be known as Ordinance Number          Kal - Of           , amending
+the Curry County Code with respect to General Administration, Article One, adding
+Division Twenty, an Ordinance Authorizing the Board of Commissioners to Place
+Advisory Questions on the Ballot;
+
+SECTION 2: ADOPTION
+
+      Exhibit A, attached hereto and incorporated by reference, is adopted as an
+amendment and new Division 20 in Article One of the Curry County Code.
+
+SECTION 3: SEVERANCE CLAUSE
+
+        If any section, subsection, provision, clause of paragraph of this Ordinance shall
+be adjudged or declared by any court of competent jurisdiction to be unconstitutional or
+invalid, such judgment shall not affect the validity of the remaining portions of the
+Ordinance, and it is hereby expressly declared that every other section, subsection,
+provision clause or paragraph of this Ordinance enacted, irrespective of the enactment
+or validity of the portion thereof declared to be unconstitutional or invalid, is valid.
+
+SECTION 4: EMERGENCY CLAUSE
+
+       The Board of Commissioners for the County of Curry deems this Ordinance
+necessary for the immediate preservation and protection of the public peace, health,
+safety and general welfare for Curry County and declares an emergency exits, and this
+Ordinance shall be effective on February 20, 2019.
+
+1 | Ordinance Advisory Ballot Questions
+DATED this 20" Day of February, 2019.
+
+                                           CURRY COUNTY BOARD OF COMMISSIONERS
+
+                                             Ch            aasct, Chair
+
+                                                Ab sect         at        214 NindA
+                                             Court Boice, Vice Chair             J
+
+                                             ay DA
+                                             Sue Gold, WARD
+
+Attest:
+
+ Jol                 Vyit
+Recording Secretary
+
+Approved as to form:
+
+                                          pel
+John Huttl
+Curry County Legal Counsel
+
+First Reading:      Fel,      20,2019
+Second Reading:            NCLLE
+Emergency Adoption: fe     2p 2007
+Effective Date:        YG t 4 22. 2O/9
+
+2 | Ordinance Advisory Ballot Questions
+                                          EXHIBIT A
+
+SECTION 1.20.010 TITLE
+
+This Ordinance shall be known as an Ordinance Authorizing the Board of
+Commissioners to Place Advisory Questions on the Ballot;
+
+SECTION 1.20.020 AUTHORIZATION TO PLACE ADVISORY QUESTIONS
+The Board of County Commissioners for Curry County may, upon a majority vote,
+submit questions on matters of County concern to the voters of Curry County for a non-
+binding advisory vote at any election.
+
+SECTION 1.20.030 STATUTORY COMPLIANCE
+Questions on matters of County concern placed on the ballot for an advisory vote shall
+comply with all the requirements of the Oregon Statutes and administrative rules
+governing elections.
+
+3 | Ordinance Advisory Ballot Questions
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 94.4% of
+the word sequence, and on 77.6% of the figures. Dictionary-recognizable words: 94.7%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

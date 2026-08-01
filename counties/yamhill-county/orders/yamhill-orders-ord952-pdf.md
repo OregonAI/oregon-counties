@@ -1,0 +1,187 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord952-pdf
+title: 'ORD952-PDF'
+doc_type: ordinance
+citation: 'ORD952-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/20513/ORD952-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: f1e731bffb3f4ae1d3dafc8a90bc3a1d50fcbf7af940e9cafb7a4b39341648e3
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.045
+    - ORS 223.230
+    - ORS 223.393
+    - ORS 223.505
+    - ORS 233.680
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# ORD952-PDF (ORD952-PDF)
+
+## At a glance
+
+ORD952-PDF — orders of Yamhill County. 4 pages.
+
+## Full text
+
+Yamhill County Ordinance No. 952
+IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+FOR T
+HE COUNTY OF YAMHILL
+SI
+TTING FOR THE TRANSACTION OF COUNTY BUSINESS
+In
+ the Matter of Authorizing the Y amhill
+County Yamhill County Commercial Property
+Assessed Clean Energy Program  and
+Adopting the Yamhill County CPACE
+Program Code; Declaring an Emergency and
+Setting the Effective Date
+ORDIN
+ANCE 952
+THE
+ BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board) sat for
+the transaction of county business on June 18, 2026, Commissioners Kit Johnston, Mary Starrett ,
+and David “Bubba” King being present.
+THE
+ BOARD ADOPTS THE FOLLOWING FINDINGS:
+WH
+EREAS, On January 15, 2026, the Yamhill County Board of Commissioners directed
+staff to create and implement a Commercial Property Assessed Clean Energy (CPACE) program,
+as allowed under ORS 233.680 – 233.685; and
+WH
+EREAS, The CPACE program is an economic development tool that facilitates private
+investment in energy efficiency and seismic stability upgrades of commercial property and multi-
+family dwellings by recording a lien/special assessment on the property, whi ch allows lenders to
+extend better terms to owners of qualified real property; and
+WHE
+REAS, The funding agreement is an entirely private action between the commercial
+property owner and lender; and now, therefore
+THE
+ BOARD ORDAINS AS FOLLOWS:
+Se
+ction 1. Authorization of County CPACE Program; Adoption of the Yamhill County
+CPACE Program Code. The Yamhill County Commercial Property Assessed Clean Energy
+(CPACE) Program is hereby authorized. The Yamhill County CPACE Program Code, attached
+hereto as Exhibit A, is hereby adopted in support of the program.
+Se
+ction 2. Severability. Invalidity of a section or part of a section of this Ordinance shall
+not affect the validity of the remaining sections or parts of sections.
+Yamhill County Ordinance No. 952
+Section 3. Emergency Clause; Effective Date. Pursuant to the provisions of ORS
+203.045(4)-(9), an emergency has been declared to exist. This Ordinance shall therefore become
+effective upon passage.
+DATED this 18 day of June, 2026, at McMinnville, Oregon.
+YAMHILL COUNTY BOARD O F COMMISSIONERS
+ATTEST AYE NAY
+________________________________ _X__ ____
+KERI HINTON Chair KIT JOHNSTON
+County Clerk
+By:______________________ ________________________________ _X__ ____
+Deputy CAROLINA ROOK Commissioner  MARY STARRETT
+FORM AP PROVED BY:
+___________________________ ________________________________ _X__ ____
+JODI GOLLEHON Commissioner  DAVID “BUBBA” KING
+Yamhill County Counsel
+YAMHILL COUNTY CODE Exhibit A
+Chapter 3.30: Yamhill County CPACE Program Code Page 1 of 2
+YAMHILL COUNTY CODE
+CHAPTER 3: REVENUE, FINANCE, AND PURCHASING
+Chapter 3.30: Yamhill County CPACE Program Code
+TABLE OF CONTENTS
+Section Title
+3.30.01 PURPOSE
+3.30.02 ADMINISTRATION
+3.30.03 AUTHORIZED PROJECTS
+3.30.04 PARTICIPANTS
+3.30.05 FEES
+3.30.06 FINANCING
+3.30.07 DEFAULT
+LEGI
+SLATIVE HISTORY
+3.30.01 Pur
+pose. The Yamhill County Commercial Property Assessed Clean Energy (CPACE) P rogram is an
+economic development program authorized pursuant to the provisions of ORS 233.680 – 233.685. The CPACE
+Program facilitates private investment in energy efficiency and seismic stability upgrades of commercial property
+and multi-family dwellings by recording a lien or special assessment on the property, allowing lenders to extend
+better terms to owners of qualified real property.
+[ADOPTED VIA ORDINANCE NO. 952 eff 06/18/26]
+3.30.02 Ad
+ministration. The Commercial Property Assessed Clean Energy (CPACE) program shall be
+administered by the County Administrator or their designee. The County may choose to contract or enter into an
+agreement with a third party to conduct all or part of the program management upon order of the Yamhill County
+Board of Commissioners (Board).
+[ADOPTED VIA ORDINANCE NO. 952 eff 06/18/26]
+3.30.03
+Authorized Projects.
+a) The projects eligible for the CPACE program shall include those authorized in ORS 233.680 – 233.685,
+including as subsequently amended by the Oregon Legislature, for commercial, industrial, or multi -family
+dwellings with four or more units (“Authorized Project”).
+b) An Authorized Project must:
+(i) Be permanently affixed to a qualifying real property;
+(ii) Be in at least one of the following five categories:
+1. Energy efficiency;
+2. Renewable energy;
+YAMHILL COUNTY CODE Exhibit A
+Chapter 3.30: Yamhill County CPACE Program Code Page 2 of 2
+3. Energy storage;
+4. Smart electric vehicle charging stations; or
+5. Water efficiency; and
+(iii) Exceed the efficiency required by current development and/or utility standards.
+[ADOPTED VIA ORDINANCE NO. 952 eff 06/18/26]
+3.30.04
+Participants.
+a) Participation in the CPACE Program shall be limited to commercial, industrial, and multi- family housing
+property owners.
+b) The County shall not endorse, recommend, or screen lenders or participants for the CPACE Program.
+c) Each participant shall be responsible for conducting its own due diligence prior to participating in the CPACE
+Program.
+[ADOPTED VIA ORDINANCE NO. 952 eff 06/18/26]
+3.30.05 F
+ees. The application fee for the CPACE Program shall be 1% of the total project cost for the Authorized
+Project, with a minimum fee of $2,500 and a maximum of $15,000, excluding any costs for recording. This fee
+shall be non-refundable.
+[ADOPTED VIA ORDINANCE NO. 952 eff 06/18/26]
+3.30.06
+Financing.
+a) All financing agreements that result from the CPACE Program shall be a private transaction between the
+lender and property owner. The County shall not be liable for a default due to non-payment.
+b) P rivate financing shall be secured by a “Special Benefit Assessment Lien ”, w ith the same priority, as
+determined under ORS 223.230 (3), as a lien for assessments for local improvements arising under ORS
+223.393.
+c) The County shall not pledge, offer, or encumber its full faith and credit for any Special Benefit Assessment
+Lien under the CPACE Program.
+d) The Special Benefit Assessment Lien shall be recorded by the property owner with the Yamhill County Clerk
+and entered into the lien docket. Any costs or fees associated with the recording shall be the sole responsibility
+of the property owner.
+[ADOPTED VIA ORDINANCE NO. 952 eff 06/18/26]
+3.30.07 D
+efault. Should a default arise from a  private financing agreement, the lender shall have recourse as
+provided under ORS 223.505 to 223.650. Neither the County, nor its governing body, executives, or employees
+are personally liable as a result of exercising any rights or responsibilities granted under the CPACE Program.
+[ADOPTED VIA ORDINANCE NO. 952 eff 06/18/26]
+LEGI
+SLATIVE HISTORY
+Adopt
+ed via Ordinance No. 952 on 06/18/2026, effective 06/18/2026.

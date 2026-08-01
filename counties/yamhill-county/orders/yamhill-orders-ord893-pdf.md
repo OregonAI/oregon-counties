@@ -1,0 +1,110 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord893-pdf
+title: 'ORD893-PDF'
+doc_type: ordinance
+citation: 'ORD893-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17305/ORD893-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: ec496c805c1fe8ae6a4ce0c2f2b8ba8de139a0f3fa238cb72168b4a5d0df2073
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.909; figure agreement 0.847; dictionary ratio 0.880. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 91%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD893-PDF (ORD893-PDF)
+
+## At a glance
+
+OCR-derived text of ORD893-PDF. Not human-verified.
+
+## Full text
+
+BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                                FOR THE COUNTY OF YAMHILL
+
+                  SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Repealing Ordinance 891, a Comprehensive _ )
+Plan and a Zoning Map Amendment ona 10.1-Acre portion                  _)                Ordinance 893
+of Tax Lot 3315-3800 (Applicant Michael Kelley),          Planning     )
+Docket PAZ-01-15, and Declaring an Emergency                           )
+
+        THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board)
+sat for the transaction of county business on October 8, 2015, Commissioners Allen Springer,
+Mary Starrett and Stan Primozich being present.
+
+        IT APPEARING TO THE BOARD that on April 30, 2015, the Board adopted Ordinance
+891, a plan amendment and zone change for a portion of Tax Lot 3315-3800, to allow a vineyard
+located on the property to be partitioned from the home.         That decision was appealed to LUBA.
+On July 22, 2015, at the request of the applicant, the Board withdrew its decision to adopt
+Ordinance 891, for reconsideration. On September 16, 2015 the applicant formally withdrew his
+application for a plan amendment/zone change. NOW, THEREFORE
+
+           THE BOARD ORDAINS AS FOLLOWS:
+
+           Section 1.   Ordinance 891 is hereby repealed.
+
+          Section 2.     This Ordinance being necessary for the health, safety and welfare of the
+citizens of Yamhill     County, and an emergency having been declared to exist, is effective
+immediately.
+
+           DONE this 8" day of October, 2015, at McMinnville, Oregon.
+
+ATTEST:                                   YAMHILL       COUN         OARD        OF COMMISSIONERS
+
+BRIAN VAN BERGEN                                  Mun
+County Clerk                              Chair     7      7     are            eevee
+    y:      —                                     (cm          —s~          oa
+                                                                             ao,
+    eputy/Lucy Flores Mendez          Mice Chai?          WA     “MARY ay
+
+F           PROVED       BY:              Cs                                \      Aig
+                                          Co                                    : Ivit
+
+wos        S. Sadlo                  y,
+AssiStant County Counsel
+                                                                                  Accepted by Yamhill County
+                                                                                  Board of Commissioners on
+                                                                                         \O'K\S __ by Board Order
+                                                                                  #(S= NX
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 90.9% of
+the word sequence, and on 84.7% of the figures. Dictionary-recognizable words: 88.0%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

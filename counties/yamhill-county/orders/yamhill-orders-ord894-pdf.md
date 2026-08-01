@@ -1,0 +1,1470 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord894-pdf
+title: 'ORD894-PDF'
+doc_type: ordinance
+citation: 'ORD894-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17304/ORD894-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 0412f63f0dba6be2adfa7958943795dae951f1bbf5e8be86ed612c10a2ec6998
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.996; figure agreement 0.950; dictionary ratio 0.961. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.610
+    - ORS 197.615
+    - ORS 197.830
+    - OAR 660-004-0010
+    - OAR 660-004-0020
+    - OAR 660-004-0022
+    - OAR 660-011-0060
+    - OAR 660-012-0060
+    - OAR 660-023-0020
+    - OAR 660-023-0030
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 100%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD894-PDF (ORD894-PDF)
+
+## At a glance
+
+OCR-derived text of ORD894-PDF. Not human-verified.
+
+## Full text
+
+BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                                FOR THE COUNTY OF YAMHILL
+
+               SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of a Comprehensive Plan Amendment and
+
+                                                                    ee”
+a Zoning Map Amendment to exchange nearly equal amounts
+of land zoned EF-80 Exclusive Farm Use and RI Resource                            Ordinance 894
+
+                                                                    Ne
+Industrial in order to accommodate an existing composting
+
+                                                                    Ne
+facility on a 17-Acre portion of Tax Lot 5309-2100
+
+                                                                    Ne
+(Applicant Water Truck Services) Planning Docket PAZ-02-15,
+
+                                                                    Neel Ne
+and Declaring an Emergency
+
+         THE   BOARD      OF    COMMISSIONERS        OF YAMHILL               COUNTY,   OREGON      (the
+Board) sat for the transaction of county business on October 22, 2015, Commissioners Mary
+Starrett and Stan Primozich being present and Commissioner Allen Springer being excused.
+
+         IT APPEARING          TO THE BOARD     that Water Truck Services has requested a plan
+amendment and zone change for an approximately 17-acre portion of Tax Lot 5309-2100 (14425
+SE Wallace Road, Dayton); and
+
+         IT APPEARING TO THE BOARD that this matter came before the Planning
+Commision for public hearing on September 3, 2015 and that the Planning Commission voted 8-
+0 to recommend approval of the application by the Board of Commissioners; and
+
+         IT APPEARING TO THE BOARD that this matter came before the Board on October
+15, 2015 for public hearing and that, following the hearing and deliberation, the Board voted 3-0
+to approve the application and to continue the matter to this date for adoption of a final written
+decision and findings in support of approval; NOW, THEREFORE
+
+         THE BOARD ORDAINS AS FOLLOWS:
+
+         Section |,   The findings and condition attached as Exhibit “A” and incorporated
+herein by reference are hereby adopted in support of this ordinance.
+
+        Section 2.    The Comprehensive Plan and Zoning Maps of Yamhill County are hereby
+amended as specified in the attached Exhibit “B,” incorporated herein by this reference, to reflect
+a plan and zoning designation of +9.03 acres of EF-80 Exclusive Farm Use, and +7.97 acres of
+RI, Resource Industrial, for the approximately 17-acre portion of Tax Lot 5309-2100 identified
+on the attached Exhibit “B” map.   Plan and zone designations of the remainder of Tax Lot 5309-
+2100 remain unchanged.
+
+it
+
+                                                                                         BO.      15-432.
+          Section 3.    This Ordinance being necessary for the health, safety and welfare of the
+citizens of Yamhill    County, and an emergency having been declared to exist, is effective
+immediately.
+
+          DONE     this 22"! day of October, 2015, at McMinnville, Oregon.
+
+ATTEST:                                YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+BRIAN VAN BERGEN                                        [EXCUSED]
+County Clerk                           Chair                ALLEN SPRINGER
+
+FORM APPROVED BY:
+
+|Ads
+Tibethy S. Sadlo
+Sedjor Assistant County Counsel
+
+                                                                                ORDINANCE 894
+                                                                         (BOARD ORDER |5~4347)
+                                                                                        Page 2
+                                       Exhibit A ~ Ordinance 894
+
+                              FINDINGS IN SUPPORT OF APPROVAL
+
+DOCKET NO.:              PAZ-02-15
+
+SUMMARY          OF APPROVAL:             Approval of a comprehensive plan amendment and zone
+                  change to exchange nearly equal amounts of land zoned EF-80 Exclusive Farm Use
+                  and land zoned RI Resource Industrial. This approval involves 9.03 acres of RI
+                  zoned land being planned Agriculture and rezoned to EF-80, and 7.97 acres of EF-
+                  80 land being planned Industrial and rezoned to RI. The exchange results in an
+                  additional 1.06 acres of Agricultural-Planned and EF-80 zoned property.
+
+APPLICANT/OWNER:                   Water Truck Services, Inc, represented by Wendie     Kellington,
+                                   Kellington Law Group
+
+TAX LOT:          5309-2100
+
+LOCATION:         14425 SE Wallace Road, Dayton
+
+ZONE:            EF-80 Exclusive Farm Use and RI Resource Industrial
+
+CRITERIA:        Sections 303, 402, 701, and 1208.02 of the Yamhill County Zoning Ordinance.
+                 Comprehensive. Plan policies may be applicable. OAR 660-04 (Exception process
+                 for Goal 3); OAR 660-012-0060 (Transportation Planning Rule).
+
+FINDINGS:
+
+A.      Background Facts
+
+1.   Property Size: 96.24 acres.
+
+2. Access: Wallace Road (State Highway 221).
+
+3.   On-site Land Use:     The property contains three large storage buildings along with several
+     smaller accessory structures. The property also contains a foundation of a large building that
+     was the location of a former berry packing plant. The majority of the 96 acres is in farm use.
+     The eastern 60+ acres drops down to the floodplain of Lambert Slough and contains riparian
+     vegetation and an open field. Approximately 35 acres of the upper field is planned and zoned
+     RI, Resource Industrial.   The remainder of the land is planned and zoned EF-80, Exclusive
+     Farm Use.
+
+4,   Surrounding Land Use and Zoning: Property to the north is owned by Carlton Nursery and is
+     zoned a mixture of RI, Resource Industrial and EF-80, Exclusive Farm Use. Property to the
+     south is zoned EF-80. Property to the east, across the river, is in Marion County and appears
+   to be entirely in farm use. A 2.5 acre property to the west is owned by Wilco Farmers and is
+   zoned RJ, Resource Industrial. The remainder of the property bordering to the west is zoned
+   EF-80 Exclusive Farm Use.
+
+   Water: Provided by an on-site well.
+
+   Sewage Disposal:    Provided by an on-site septic system.
+
+   Fire Protection:   Dayton Rural Fire Department.
+
+   Previous Actions: In 1973, Carlton Nursery Co. received approval! for a partition that created
+   the subject parcel (Docket P-291-73). In 1979, the County adopted Ordinance 202, which
+   zoned a portion of the property RI, Resource Industrial and concluded that this portion of the
+   property was committed to non-farm/non-forestry uses.        In 1991, Norpac Foods received
+   approval for the placement of an oil storage tank (Docket SDR-02-91). On December 29,
+    1993, Yamhill County adopted new zoning maps through Ordinance 565. In 2012 a similar
+   use and site design review application was approved to allow on-site composting of what DEQ
+   classifies as “Type | and 2” feedstocks. On October 30, 2014, as modified on November 4,
+   2014 in SDR-05-14, Yamhill County approved a modification to that approval of the on-site
+   composting operation.      On November 12, 2014, Carlton Farms appealed that approval.
+   Thereafter the parties worked cooperatively to resolve that appeal to change the location of the
+   approved composting activities. This approval resolves that appeal by adjusting the RI-zoned
+   areas where composting may occur, and by establishing an area planned and zoned RI where
+   a restrictive covenant will prohibit composting. The approved compost operation is subject to
+   the same conditions of approval as applied in SDR-05-14, other than those pertaining to
+   compost activity location. Compost activity is allowed as provided in SDR-05-14 with the
+   location adjusted as provided in this approval decision.
+
+   Groundwater Limited Area: The property is located in a Groundwater Limited Area, identified
+   by the Oregon Water Resources Department.
+
+10. Overlay Districts:   FIRM 410710445D shows the eastern portion (approximately 60 acres) of
+    the property as being within the 100-year floodplain.
+
+il. Fish and Wildlife: The property is not located in identified fish or wildlife habitat.     The
+    property is not located in the big game winter range.
+
+12. Soils: The Yamhill County soil survey shows approximately half of the property has Cloquato
+    silt loam and 4 is Woodburn silt loam. The property also contains small enclaves of Amity
+    and Newberg silt loam. All are rated as agricultural Class II soils.
+
+Page 2—   ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+B.      Zone Change Provisions and Analysis
+
+L.   A quasi-judicial change to a zoning map may be authorized, pursuant to Subsection 1208.01,
+     provided that the request satisfies all applicable requirements of this ordinance, and also
+     provided that the applicant demonstrates compliance with the following criteria, except as
+     provided in Subsection 1208.02:
+
+          A,   The proposed change is consistent with the goals, policies and any other applicable
+               provisions of the Comprehensive Plan.
+
+                There is an existing, demonstrable need for the particular uses allowed by the
+                requested zone, considering the importance of such uses to the citizenry or the
+                economy of the area, the existing market demand which such uses will satisfy, and
+                the availability and location of other lands so zoned and their suitability for the
+                uses allowed by the zone.
+
+                The proposed change is appropriate considering the surrounding land uses, the
+                density and pattern of development in the area, any changes which may have
+                occurred in the vicinity to support the proposed amendment and the availability of
+                utilities and services likely to be needed by the anticipated uses in the proposed
+                district.
+
+                Other lands in the County already designated for the proposed uses are either
+                unavailable or not as well-suited for the anticipated uses due to location, size or
+                other factors.
+
+          E.    The amendment is consistent with the current Oregon Administrative Rules (OAR's)
+               for exceptions, if applicable.
+
+        Regarding criterion 1208.02(A): The majority of the Yamhill County Goals and Policies
+        are aspirational and are not approval criteria. Due consideration is given to arguably
+        applicable goals and policies in the following sections of these findings. Some of the
+        county’s goals and policies conflict with one another and not all of them apply to this
+        decision. The applicable county goals and policies are to be used as a guide to aid decision
+        makers, including the county in making this decision. Where applicable goals or policies
+        conflict, the decision makers are required to weigh the evidence and resolve conflicts
+        between potentially applicable goals. The proposal is consistent with the county goals and
+        policies as discussed below:
+
+Page 3 - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+              e   Section]. URBAN GROWTH           AND CHANGE AND ECONOMIC
+                  DEVELOPMENT
+
+       Section IB Rural Area Development
+
+       Goal Statement 1. To provide an adequate amount of land, development areas
+       and sites to accommedate those uses which are customarily found in rural
+       areas or require or are better suited to rural locations, without compromising
+       the basic goa] relating to urban containment and orderly urban development.
+       (66)
+       Policies
+
+       C. All proposed rural area development and facilities:
+
+                  1.     Shall be appropriately, if not uniquely, suited to the area or site
+                         proposed for development;
+                  2.     Shall not be located in any natural hazard area, such as a
+                         floodplain or area of geologic hazard, steep slope, severe
+                         drainage problems or soil limitations for building or sub-surface
+                         sewage disposal, if relevant;
+                         Shall be furnished with adequate access and an adequate
+                         individual or community water supply, if required; and shall not
+                         be justified solely or even primarily on the argument that the
+                         land is less costly than alternative better sites or that federal or
+                         state aid is available in the form of subsidized water supply or
+                         sewerage extensions from nearby urban centers. (67)
+
+       D.          No proposed rural area development shall require or substantially
+                   influence the extension of costly services and facilities normally
+                   associated with urban centers, such as municipal water supply and
+                   sanitary sewerage or power, gas and telephone services, nor shall it
+                   impose inordinate additional net costs on mobile, centralized public
+                   services, such as police and fire protection, school busing or refuse
+                   collection. (68)
+
+FINDINGS:
+
+Section I.B addresses rural area development and includes a relevant goal statement and two
+policies. The proposal is consistent with and otherwise complies with Goal Statement 1 because
+it continues to provide for an adequate amount of land dedicated for rural uses. The proposed
+designation changes will not alter the overall commitment of the affected areas to rural uses and,
+given that the subject property is not located adjacent to or near an urban area, it does not impede
+the basic goal of expanding urban development in a concentrated and orderly manner.
+
+Page 4—     ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+The proposal is consistent with and otherwise complies with Policy C because it maintains the
+existing, appropriately suited levels of development and public facilities. No new public facilities
+are needed to implement development under the proposed configuration that would otherwise not
+be needed to implement development under the current configuration. The area of the property
+where the plan and zone designation exchange will take place is not located in any natural hazard
+area. And, given that the uses that will take place under the reconfigured parcel already have
+adequate transportation access and water, and because no additional transportation or water needs
+will result under the proposed changes, these services and facilities will continue to be adequate.
+
+The proposal is consistent with and otherwise complies with Policy D because the proposal will
+not require or otherwise substantially influence the extension of costly services and facilities
+normally associated with urban uses. The proposal retains the property as rural land and allows
+only rural levels of uses. Additionally, as noted above, adequate rural levels of public facilities
+and services already exist for uses on the subject property and the nature, type and scale of uses
+that will occur after the proposal designation switch will remain the same as the current designation
+configuration.
+
+The proposal is consistent with and otherwise complies with relevant provisions of the Yamhill
+County Land Use Comprehensive Plan Section I.B Rural Area Development.
+
+              e     Section LF Economic Development
+
+          Goal Statement 1.      To maintain a rate and pattern of economic           growth
+          sufficient to prevent recurring high levels of unemployment and under-
+          employment in the county, balance the real property tax base of the various
+          cities, and strengthen local economic bases. (92) R
+
+          Policy:
+
+          B. Yamhill County will encourage economic development projects which do
+          not conflict with the predominant timber and agricultural character of the
+          county.
+
+FINDINGS:
+
+Comprehensive Plan Section LF is focused on promoting economic development in Yamhill
+County.     The county finds that the proposal is consistent with and otherwise complies with Goal
+Statement 1 because the proposed reconfiguration maintains the existing level of economic uses
+at the subject property by retaining nearly the same amount of RI zoning on the subject property.
+The slight 1.06-acre reduction in RI-zoned land will not adversely affect economic development
+on the property because the lost land was located on a portion of the property that was not
+particularly developable for RI uses and, following adoption of this ordinance, the RI area will
+contain more usable land in a better location than it previously held. Overall, this reconfiguration
+
+Page 5 - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+will make the property more useful, contribute to the established real property tax base, and help
+to maintain the economic base of the local area.
+
+The proposal is consistent with and otherwise complies with Policy B because approval of the plan
+and zoning designation exchange will provide for a slight increase in agricultural uses on the
+property and will maintain a resource industrial use that promotes the agricultural character of this
+area of the county.
+
+The proposal is consistent with and otherwise complies with relevant provisions of the Yamhill
+County Land Use Comprehensive Plan Section I.F Economic Development.
+
+             e     Section I.H Industrial Development
+
+       Goal Statement 1. To concentrate industries of similar types, service needs,
+       and performance characteristics within designated areas of each of the existing
+       urban centers; to encourage adequate land for new industrial development
+       within urban grewth boundaries; to encourage the relocation of existing
+       industries from undesirable locations in order to eliminate land use conflicts;
+       to attract new industries in accordance with the need to achieve a more
+       balanced local property tax and employment base, while maintaining a high
+       standard of environmental quality; and to protect the stability and functional
+       aspect of industrial areas by protecting them from incompatible uses.
+
+       Policies:
+
+       E. Industrial uses will be located so that adequate buffer space is provided
+       between incompatible land uses.
+
+        G.       Agricultural, forestry and mineral resource-oriented industry will be
+       accommodated in areas close to the resources utilized, provided that such
+       industrial uses are compatible with any nearby urban development, city water
+       supply and sewerage are not required, and waste discharges constitute no
+        threat to the environment.
+
+       H. Established industrial areas may be extended and new industrial areas
+       designated by plan amendment where development trends warrant such
+       extension or designation and full urban services are extended into the area, if
+       appropriate, and the extension or designation of land use and services is
+       consistent with all other goals and policies of the comprehensive plan. (139)
+
+FINDINGS:
+
+The proposal is consistent with and otherwise complies with Section LH, Goal Statement 1 because
+the proposed designation reconfiguration helps to protect the stability and functional aspects of a
+resource industrial area by facilitating relocation of a portion of the operation in order to eliminate
+
+Page 6 - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+land use conflicts with activities taking place to the north of the compost facility. Approval of this
+proposal will promote both agricultural activity and industrial development of the county.
+
+The proposal is consistent with and otherwise complies with Policy E because approval of the
+proposal will relocate an area currently designated RI on the northwest portion of the property
+southward and away from adjacent uses to the north that may find compost use of the existing area
+conflicting with their current uses. The proposal helps provide adequate buffer space to the uses
+to the north while continuing to maintain an adequate buffer for the land uses to the south.
+
+The proposal is consistent with and otherwise complies with Policy G because it allows for the
+continuation and future expansion of an agricultural resource-oriented industry that is surrounded
+by the resources utilized for that industry. There is no nearby urban development that the proposal
+need be compatible with and, as noted above, city water and sewerage services are not required.
+Because the use simply maintains an existing use with only a reconfigured footprint and the
+composting operations will continue to operate under Department of Environmental Quality
+permits, waste discharges will likely continue to comply with applicable law and not constitute a
+threat to the environment.
+
+The proposal is consistent with and otherwise complies with Policy H because, although the
+proposal results in no net increase in resource industrial designated lands, it relocates resource
+industrial uses to new areas of the subject property and the extension is consistent with all other
+goals and policies of the comprehensive plan.     Additional facilities and services are not needed
+and no urban services will be extended onto the subject property.
+
+The proposal is consistent with and otherwise complies with relevant provisions of the Yamhill
+County Land Use Comprehensive Plan Section IH Industrial Development.
+
+            e      Section Il. THE LAND AND WATER
+
+       A.       Agricultural Lands
+
+       GOAL STATEMENT 1. | To conserve Yamhill County's farm lands for the
+       production of crops and livestock and to ensure that the conversion of farm
+       land te urban use where necessary and appropriate occurs in an orderly and
+       economical manner. (104) R
+
+       POLICIES:
+
+       A. Yamhill County will provide for the preservation of farm lands through
+       appropriate zoning, recognizing comparative economic returns to agriculture
+       and alternative uses, changing ownership patterns and management practices,
+       changing market conditions for agricultural produce, and various public
+       financial incentives. (105)
+
+Page 7 - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+       H. No proposed rural] area development shall substantially impair or conflict
+       with the use of farm or forest land, or be justified solely or even primarily on
+       the argument that the land is unsuitable for farming or forestry or, due to
+       ownership, is not currently part of an economic farming or forestry enterprise.
+
+FINDINGS:
+
+The proposal is consistent with and otherwise complies with comprehensive plan Section ILA,
+Goal Statement 1, because the proposal conserves and even slightly increases the amount of
+Yamhill County farmland for continued productions of crops. The proposal does not provide for
+or allow the conversion of farmland for urban use.
+
+The proposal is consistent with and otherwise complies with Policy A because it continues to
+provide for the preservation of farmland through appropriate zoning. While the proposal seeks to
+reconfigure the location of RI areas and EF areas on a split-zoned parcel, it not only preserves, but
+actually increases the amount of land that can be used for agricultural purposes. Both of the areas
+that will be designated for farm use are on the edges of areas currently being farmed.
+
+The proposal is consistent with and otherwise complies with Policy H because it does not introduce
+any new activities that could substantially impair or conflict with farm use of the subject property.
+The long-present resource industrial use that occurs on the premises does not impair farming
+activity, it complements farming activity. Indeed, as noted above, it supports not only immediately
+surrounding farming activity, but the activity of wineries and other agricultural operations in the
+greater area that need a place to compost organic wastes.
+
+The proposal is consistent with and otherwise complies with relevant provisions of the Yamhill
+County Land Use Comprehensive Plan Section [1.A, Goal Statement 1 and related policies.
+
+            e   GOAL STATEMENT 2. To conserve Yamhill County's soil resources
+                in a manner reflecting their suitability for forestry, agriculture and
+                urban development and their sustained use for the purposes designated
+                on the county plan map.
+
+       POLICIES:
+
+       A. Yamhill County will continue to preserve those areas for farm use which
+       exhibit Class I through IV soils as identified in the Capability Classification
+       System of the U.S. Soil Conservation Service.
+
+FINDINGS:
+
+The proposal is consistent with and otherwise complies with Goal Statement 2 because it conserves
+high value soils for agriculture and agriculture-related uses consistent with designations on the
+county plan map for those soils types. While the proposal represents a reconfiguration of uses on
+the subject property, the soils types in the areas proposed for reconfiguration are predominantly
+
+Page 8 — ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+classified as type II soils. Consequently, the areas identified for active farming are capable of
+continuing to support agricultural use.
+
+The proposal is consistent with and otherwise complies with Policy A because it continues to
+preserve class II soils for agricultural and agricultural resource-industrial related activities.
+
+The proposal is consistent with and otherwise complies with relevant provisions of the Yamhill
+County Land Use Comprehensive Plan Section ILA, Goal Statement 2 and related policies.
+
+            e     SECTION VIL         IMPLEMENTATION, EVALUATION AND
+                  REVIEW
+
+       A.       Citizen Involvement
+
+       POLICY:
+
+       A. Yamhill County will continue to implement an ongoing citizen
+       involvement program that provides county residents opportunity to be
+       involved in all phases of the planning process.
+
+       B.       Review and Update
+
+       POLICY:
+
+       A. Yamhill County will review any development concepts or proposals which
+       conflict with the Plan Map, goals or policies in light of changing needs and
+       conditions and in keeping with established procedures of Plan evaluation,
+       amendment, and update.
+
+FINDINGS:
+
+The proposal is consistent with and otherwise complies with the relevant citizen involvement
+policies embodied in Section VILA.      The county is reviewing this proposal under State-
+acknowledged procedures that promote and facilitate public participation in the land use decision
+making process.
+
+The proposal is consistent with and otherwise complies with the relevant review and update
+policies embodied in Section VILA. The county is reviewing the proposal, which changes the plan
+map and zoning district map, under established procedures for such amendments.
+
+The proposal is consistent with and otherwise complies with the relevant provisions of the Yamhill
+County Land Use Comprehensive Pian Section VII. The applicant has therefor demonstrated
+compliance with YCZO 1208.02(A).
+
+Page   9- ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+3.       Regarding criteria 1208.02(B) and (D) generally: as noted in finding A.8, the existing
+composting facility was approved on the property in 2012, and that approval was modified in
+October and November of 2014. While the applicant or some other person or entity may be able
+to establish composting operations in other areas of the county, this property is better suited than
+other lands     so zoned   because   it has   an existing,   established,   composting   facility.   The
+reconfiguration of the RI Resource Industrial zone will allow for the efficient, continued use of the
+existing composting facility while rezoning an acre of property back to farm use. The Exhibit 12
+map in the record of this proceeding shows the zoning for the greater area around the subject
+property. This map identifies various possible alternative areas for the proposed use and includes
+specific sites and generalized areas. The subject property is identified in red with a green star.
+Possible alternative sites are indicated by purple stars, This exhibit was relied upon by the county
+in its analysis for 1208.02 as well as for the analysis required by both OAR 660-023-0020(2)(b)
+and (c).
+
+4.      Regarding YCZO      1208.02(B), the county finds as follows:
+
+There is a demonstrable need for the EF-80 and RI zoned uses for the citizenry and economy of
+the area. The comprehensive plan recognizes that commercial farm uses are a significant
+component of the county’s economy. Resource-related industrial uses support robust agricultural
+activity. The county recognized the importance of, and need for, rural industrial uses in the area
+when it adopted an exception to the resource goals for the operation of a cannery on the subject
+parcel, That decision was subsequently granted acknowledgment by LCDC. The nature of the RI
+uses in this area have evolved over time to meet market need and demand. Today that demand
+warrants the composting activity that now takes place on the property and for its efficient
+continuation.    The compost activity directly supports the agricultural sector, in particular the
+growth of wine-related agricultural activity.
+
+The subject property contains a compost facility that is important to the farm economy in the area.
+Given the scarcity of RI planned and zoned properties in the area, the general unavailability of
+sites that are appropriately zoned, and the fact that this proposal simply reconfigures the plan and
+zone designation boundaries on a property where a compost facility has already been established,
+there is no property better suited for the uses that will be developed on the property. The proposal
+complies with YCZO 1208.02(B).
+
+5,      Regarding 1208.02(D), the county finds as follows:
+
+There are several possible types of alternative sites that are indicated on Exhibit 12, which is
+located in the record and supports these findings. Of greatest relevance are RI zoned properties in
+the vicinity of the subject property — one located directly across SE Wallace Road (Hwy 221), and
+another property directly to the north on SE Palmer Creek Road. The Board finds that RI-zoned
+property to the immediate north is not properly considered because it is developed with RI uses.
+Other exception areas for consideration include Mineral Resource (MR) zoned properties, both
+along the Willamette River and to the west, and Very Low Density Residential (VLRD) zoned
+properties. Also, identified for consideration is the City of McMinnville.
+
+Page 10- ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+The proposed use cannot be reasonably accommodated on nonresource land that would not require
+an exception. As is plainly evident from Exhibit 12, the subject property is surrounded by resource
+land that is composed of high value soils, or land that has received an exception to the resource
+goals, or urban areas. Existing exception areas are developed and the reasons for the exception do
+not permit the proposed compost use. Urban areas and compost facilities don’t mix due to
+objections from urban dwellers related to odor. This has been apparent in the news accounts
+identified in the record of this matter concerning the City of North Plains and the nearby Recology
+compost facility located in Washington County.     Given the area’s location within the Willamette
+Valley, there is no reasonably viable nonresource land to consider under this factor.
+
+The proposed use cannot be reasonably accommodated on land that is already irrevocably
+committed to nonresource uses not allowed by Goal 3, whether in existing unincorporated
+communities or by increasing the density of uses on committed lands. The nature of the proposed
+rural industrial use, composting, is one that occupies the surface of the land and is not the type of
+use that can be facilitated by increasing the density or intensity of the use. The most ideal
+committed lands that could possibly accommodate the proposed use are the existing RI lands either
+directly across Hwy 221 or located to the north. As explained below, those lands are not
+reasonably available to accommodate the compost use.
+
+The adjacent property cannot reasonably accommodate the proposed use because the size of the
+RI zoned parcel (2.52 acres) is smaller than the acreage needed and involved in the map
+amendment (7.97 acres). Additionally, composting operations would need to be established at the
+site, which would incur start-up costs, making it prohibitively expensive. Even if that site were to
+be combined with the existing operations on the subject property, the 2.52-acre parcel would not
+be sufficient to accommodate the expansion needs and would require frequent compost vehicle
+crossings of an intersection in order to turn cooking compost or to facilitate sales. This would pose
+an increased risk to vehicles traveling on both SE Wallace Road and SE Alderman Road. For
+these reasons, the adjacent property cannot reasonably accommodate the proposed use.
+
+The RI zoned property to the north on SE Palmer Creek Road is of sufficient size to accommodate
+the compost uses. However, that property is fully developed with existing uses. Consequently,
+conversion of that property to support the compost use would entail ending an existing business,
+removal of existing structures and equipment, and the establishment of new infrastructure needed
+for composting operations. This is not reasonable.
+
+Exhibit 12 shows several different Mineral Resource zoned properties in the area. The MR zoned
+properties along the Willamette River are within the floodplain. Location of a compost facility
+within a floodplain area is not reasonable for economic as well as public safety reasons. Another
+MR-zoned site is identified to the west of the subject property. However, that site is in active
+mining use. Use of that property for the proposal would have adverse economic consequences
+because it would require halting the mining operation and incurring start-up costs for the
+composting facility. Additionally, it would likely require an exception to statewide planning Goal
+5 if that property is identified as a significant Goal 5 resource site. For these reasons, it is
+unreasonable for that mining area to accommodate the proposed use.
+
+Page 11   - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+Exhibit 12 identifies one of several similarly situated Very Low Density Residential exception
+areas that can be considered. Those exception areas include minimum parcel sizes of 2.5 or 5 acres
+depending on the zone district. The Board finds that generally these parcels are too small to
+accommodate the proposed use. In addition, these very low density residential exception areas
+tend to clump residential use properties together, so conversion of any parce! into compost use
+would likely generate resource industrial — residential use conflicts. The Board finds that it is not
+reasonable to locate industrial uses in exception areas granted for residential use purposes.
+
+There are no existing committed lands in the greater area that can accommodate the proposed use.
+
+The proposed use cannot be reasonably accommodated inside an urban growth boundary.               The
+closest urban growth boundaries to the subject property are McMinnville, shown on Exhibit 12,
+and Dayton, located to the north of the subject property just off the map edge of Exhibit 12. Neither
+nearby city can reasonably accommodate the proposed compost facility uses that would be
+facilitated by the proposed exception and map amendments. In addition to the large footprint the
+compost facility would require, the general off-site impacts that result from the cooking of compost
+materials are not well-suited to the compact arrangement of uses within urban areas. While such
+impacts are typical of rural areas, in part because the typical distances between uses are much
+greater in rural areas, the impacts from processing and cooking of compost tend to conflict with
+urban uses, and it is not reasonable to relocate the existing compost operation to an urban area,
+
+The there are no additional public facilities or services proposed or needed to accommodate the
+proposed use. There are presently adequate public facilities and services provided to the subject
+property to accommodate the expansion of the compost facility that the map amendments would
+allow.
+
+Therefore, as explained herein, while there are other lands in the County that are already designated
+for RI uses, they are not as well-suited for the RI uses that currently take place and will continue
+to take place on the subject property, because they are not located in the same general area. This
+is the one of the few established compost facilities in the area. Furthermore, any RI designated
+properties in the area would have to establish a new compost facility at significant cost to the
+operator, whereas the composting operations at the subject property are already well established.
+The proposal simply reconfigures where those RI uses can occur on the subject property by
+exchanging RI designated land with EF-80 designated land and keeps roughly the same balance of
+RI to EFU land that exists today. In that respect, no other properties are as well-suited for the
+anticipated uses that are already planned for the property. The proposal is consistent with YCZO
+1208.02(D).
+
+6.     Regarding YCZO 1208.02(C), the applicant was required to demonstrate that the proposed
+change is appropriate, considering the surrounding land uses, the density and pattern of
+development in the area, any changes that may have occurred in the vicinity to support the
+proposed amendment, and the availability of utilities and services likely to be needed by the
+anticipated uses in the proposed district. While the surrounding area is predominantly in farm use
+and is rural in character, there are other nearby rural businesses. Carlton Plants is located north of
+the existing composting facility. The manager of Carlton Plants has requested to have the
+
+Page 12 - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+composting piles extend into a different area so that it will be more compatible               with his
+neighboring business. This application is, in part, to accommodate that request.
+
+The surrounding area is generally in farm use and is rural in character. This proposal exchanges
+some land planned for RI uses, with land planned for EF uses on a property that has an existing RI
+compost use.     The uses that would result from the proposal are appropriate for the rural
+environment and the density and pattern of development in the area and will help support the uses
+on those other properties.
+
+No changes have occurred in the vicinity to support the proposed amendment and no additional
+utilities or services will need to be extended to the anticipated uses that will take place with the
+proposed district reconfiguration.
+
+Regarding the availability of utilities and services in the area: the property has an on on-site well
+but does not have an on-site sewer system, and one is not needed for the use.     Other services, such
+as electricity, telephone, sheriff and fire protection, are already available in the area. The proposal
+complies with YCZO 1208.02(C).
+
+7.      Regarding YCZO 1208.02(E): the application includes a request and justification for a
+reasons exception.  Findings determining applicable reasons exception criteria are met, are
+provided below. Accordingly, this standard is met.
+
+YCZO      1208.02 Conclusion:
+
+The applicant has demonstrated that the proposal is consistent with the YCZO        1208.02 standards
+for a quasi-judicial change to the zoning map.
+
+Cc        Goal Exception Previsions and Analysis
+
+Although the application is for exchanging areas of property planned and zoned RI Resource
+Industrial and EF-80 Exclusive Farm Use, with more resulting acreage being planned and zoned
+EF-80, state law requires justification of an exception to Statewide Planning Goals in order to
+rezone the EF-80 property to RI.       In addition, while the intended use of the property is for a
+composting facility, and composting is allowed in the farm zone on non-high value farmland, the
+applicant’s property is high value farmland, thus triggering the requirement for an exception.
+Oregon Administrative Rule (OAR) 660-004 contains the requirements for taking an exception to
+the goals. Those standards are met as explained below.
+
+OAR 660-004-0010 discusses the application of the Goal 2 exceptions process to certain goals.
+Subsection (1)(a) specifically addresses Goal      3 — Agricultural Lands,     and provides that the
+exceptions process in applicable to:
+
+        (a) Goal 3 “Agricultural Lands;” however, an exception to Goal 3 “Agricultural
+       Lands” is not required for any of the farm or nonfarm uses allowed in an exclusive
+       farm use (EFU) zone under ORS chapter 215 and OAR chapter 660, division 33,
+
+Page 13     - ORDINANCE 894, EXHIBIT A-          FINDINGS IN SUPPORT OF APPROVAL
+        “Agricultural Lands,” except as provided under OAR 660-004-0022 regarding a
+        use authorized by a statewide planning goal that cannot comply with the approval
+       standards for that type of use;
+
+FINDING:    As discussed in more detail below, the proposed plan designation and zoning is a use
+provided under OAR 660-004-0022 (industrial development on resource land located outside of
+an urban growth boundary) and is therefore subject to the exceptions process because it is not a
+use allowed in an exclusive farm use zone. The applicant notes that while composting is allowed
+in EFU zones, it is not allowed on high value farmland, and the subject property is considered high
+value farmland.
+
+OAR 660-004-0020 provides the criteria for a reasons exception. Each of the relevant OAR 660-
+004-0020 provisions is addressed separately below. Note that OAR 660-004-0020(1) invokes
+OAR 660-004-0022, and that the relevant provisions under OAR 660-004-0022 are addressed
+under OAR 660-004-0020(1).
+
+OAR 660-004-0020(1) provides:
+
+        (1) If a jurisdiction determines there are reasons consistent with OAR 660-004-
+        0022 to use resource lands for uses not allowed by the applicable Goal or to allow
+       public facilities or services not allowed by the applicable Goal, the justification
+       shall be set forth in the comprehensive plan as an exception. As provided in OAR
+       660-004-0020(1), rules in other divisions may also apply.
+
+FINDING: This is a gatekeeping provision that requires an applicant to demonstrate that there are
+reasons consistent with those set forth under OAR 660-004-0020 to take a reasons exception. If
+those reasons are met, then the reasons exceptions analysis can proceed; if the reasons are not met,
+then the proposed use is not permissible through a reasons exception.
+
+As demonstrated immediately below, the proposed use satisfies the requirements provided under
+OAR 660-004-0022.
+
+OAR 660-004-0022(1) provides, in relevant part:
+
+        (1) For uses not specifically provided for in this division, or in OAR 660-011-0060,
+       660-012-0070,    660-014-0030 or 660-014-0040,       the reasons shall justify why the
+       state policy embodied in the applicable goals should not apply.
+
+FINDING:     The requirements set forth in this provision do not apply because the use is a use
+specifically provided for in another section of the division.
+
+OAR 660-004-0022(3) provides:
+
+Page 14-—- ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+        (3) Rural Industrial Development: For the siting of industrial development on
+        resource land outside an urban growth boundary, appropriate reasons and facts
+        may include, but are not limited to, the following:
+
+        (a) The use is significantly dependent upon a unique resource located on
+        agricultural or forest land. Examples of such resources and resource sites include
+        geothermal wells, mineral or aggregate deposits, water reservoirs, natural
+       features, or river or ocean ports;
+
+        (6) The use cannot be located inside an urban growth boundary due to impacts that
+        are hazardous or incompatible in densely populated areas; or
+
+        (c) The use would have a significant comparative advantage due to its location
+        (e.g., near existing industrial activity, an energy facility, or products available from
+        other rural activities), which would benefit the county economy and cause only
+        minimal loss of productive resource lands. Reasons for such a decision should
+        include a discussion of the lost resource productivity and values in relation to the
+        county's gain from the industrial use, and the specific transportation and resource
+        advantages that support the decision.
+
+FINDING: The proposed use is for industrial development (resource industrial) on resource land
+(EFU) outside an urban growth boundary. The proposed use is eligible for a reasons exception
+because it meets the reasons provided for under subsections (a) and (c) above.
+
+The   proposal   satisfies   the requirements   of OAR   660-004-0022(3)(a)     because    the resource
+industrial use at issue, composting, relies significantly upon feedstock (biological waste material)
+generated by surrounding and nearby agricultural operations, including wineries and commercial
+horse operations. The commercial viability of the proposed industrial use relies upon a steady
+flow of feedstock from these agricultural uses.
+
+The proposed use has a significant comparative advantage to other compost facilities due to its
+close proximity to the farms and wineries that require its services, and therefore meets the
+requirements of OAR 660-004-0022(3)(c).        This comparative advantage results in lower
+transportation costs for customers to the facility as well as a savings in the time required to deliver
+feedstock to the site and/or to purchase compost. This is the only compost facility in the immediate
+area and the area benefits from the comparative advantage it has from its location. Expansion onto
+EFU land as part of a designation exchange will allow the compost facility to expand to take even
+greater advantage of this comparative advantage.
+
+For each of the reasons provided above, the proposed siting of industrial development on resource
+land is consistent with OAR 660-004-0022 and is eligible for a reasons exception. The proposal
+is consistent with OAR 660-004-0020(1).
+
+OAR 660-004-0020(2) provides:
+
+Page 15 - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+          (2) The four standards in Goal 2 Part II(c) required to be addressed when taking
+          an exception to a goal are described in subsections (a) through (d) of this section,
+          including general requirements applicable to each of the factors:
+
+FINDING:       Each of the four standards of Goal 2 part II(c) is addressed separately below in the
+responses to OAR 660-004-0020(2)(a) through (d).
+
+OAR 660-004-0020(2)(a) provides:
+
+        (a) "Reasons justify why the state policy embodied in the applicable goals should
+        not apply." The exception shall set forth the facts and assumptions used as the basis
+       for determining that a state policy embodied in a goal should not apply to specific
+       properties or situations, including the amount of land for the use being planned and
+          why the use requires a location on resource land;
+
+FINDING:      There are several reasons that justify why the state policy embodied in Goal 3 should
+not apply in this instance.
+
+First, the reconfiguration of designations on the subject property will result in a net gain in EFU
+designated land. Unlike most exceptions to Goal 3, which result in a net loss of land in resource
+production, approval of the proposed map amendments will result in an increase in high value
+farmland zoned for agricultural production.
+
+Second, the county has demonstrated a need for resource industrial-designated property through
+the taking of an exception that included land on the subject property and by having that exception
+acknowledged. That exception accommodates the composting facility that currently operates on
+the subject property. That need for such a facility continues, and approval of this exception will
+facilitate the expansion of the resource-based industrial uses on the subject property. Resource
+industrial uses, by definition, are heavily dependent upon natural resources and require proximity
+to, if not location on, resource land.
+
+Third, the purpose of the exception is to allow a map amendment that establishes a configuration
+of existing plan designations and zoning districts on the subject property that promotes a better
+harmony between uses on the subject and adjacent properties. This will permit expanded resource-
+based industrial uses that will support additional agricultural economic activity with even fewer
+potential impacts on existing adjacent uses.
+
+Fourth, the topography of the subject property precludes compatible expansion of the needed
+resource industrial use in a way that mitigates potential adverse impacts on adjacent properties.
+The current plan designation and zoning district configuration forces expansion of the composting
+operation to the areas closest to adjacent properties, especially in the north. Eastward expansion
+of the compost use is not possible due to the steep elevation change adjacent to the existing
+operations. Approval of the exception and the proposed map amendment will move expansion of
+the composting operation from the north, which has been a concern of Carlton Farms located to
+the north, to the central portion of the subject property.
+
+Page 16     - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+Each of these reasons justify an exception to Goal 3 in this instance. Collectively, they provide
+reasons for why an exception should be granted in this instance. The proposal complies with OAR
+660-004-0020(2)(a).
+
+QAR 660-004-0020(2\(b) provides:
+
+       (b) “Areas that do not require a new exception cannot reasonably accommodate
+       the use”. The exception must meet the following requirements:
+
+       (A) The exception shall indicate on a map or otherwise describe the location of
+       possible alternative areas considered for the use that do not require a new
+       exception. The area for which the exception is taken shall be identified;
+
+        (B) To show why the particular site is justified, it is necessary to discuss why other
+       areas that do not require a new exception cannot reasonably accommedate the
+       proposed use. Economic factors may be considered along with other relevant
+       factors in determining that the use cannot reasonably be accommodated in other
+        areas. Under this test the following questions shall be addressed:
+
+       (i) Can the proposed use be reasonably accommodated on nonresource land that
+       would not require an exception, including increasing the density of uses on
+       nonresource land? If not, why not?
+
+       (ii) Can the proposed use be reasonably accommodated on resource land that is
+       already irrevocably committed to nonresource uses not allowed by the applicable
+       Goal, including resource land in existing unincorporated communities,             or by
+       increasing the density of uses on committed lands? If not, why not?
+
+       (tii) Can the proposed use be reasonably accommodated inside an urban growth
+       boundary? If not, why not?
+
+       (iv) Can the proposed use be reasonably accommodated without the provision of a
+       proposed public facility or service? If not, why not?
+
+       (C) The “alternative areas” standard in paragraph B may be met by a broad review
+       of similar types of areas rather than a review of specific alternative sites. Initially,
+       a local government adopting an exception need assess only whether those similar
+       types of areas in the vicinity could not reasonably accommodate the proposed use.
+       Site specific comparisons are not required of a local government taking an
+       exception unless another party to the local proceeding describes specific sites that
+       can more reasonably accommodate the proposed use. A detailed evaluation of
+       specific alternative sites is thus not required unless such sites are specifically
+       described, with facts to support the assertion that the sites are more reasonable, by
+       another party during the local exceptions proceeding.
+
+Page 17 - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+FINDINGS:     The Exhibit 12 map in the record of this proceeding is relied upon for these findings.
+The map shows the zoning for the greater area around the subject property. The map identifies
+various possible alternative areas for the proposed use and includes specific sites and generalized
+areas. The subject property is identified in red with a green star. Possible alternative sites are
+indicated by purple stars. Exhibit 12 is used in the analysis for both OAR 660-023-0020(2)(b) and
+(c).
+
+There are several possible types of alternative sites that are indicated on Exhibit 12. Of greatest
+relevance are RI zoned properties in the vicinity of the subject property — one located directly
+across SE Wallace Road (Hwy 221), and another property directly to the north on SE Palmer Creek
+Road.   The RI zoned property to the immediate north is not considered because it is developed
+with RI uses. Other exception areas for consideration include Mining Resource (MR) zoned
+properties, both along the Willamette River and to the west, and Very Low Density Residential
+(VLRD) zoned properties. Also, identified for consideration is the City of McMinnville.
+
+This standard requires explicit responses to a series of questions that follow.
+
+The proposed use cannot be reasonably accommodated on nonresource land that would not require
+an exception. As is plainly evident from Exhibit 12, the subject property is surrounded by resource
+land that is composed of high value soils, or land that has received an exception to the resource
+goals, or urban areas. Existing exception areas are developed and the reasons for the exception do
+not permit the proposed compost use. Urban areas and compost facilities don’t mix due to
+objections from urban dwellings related to odor.     This has been painfully apparent in the news
+concerning the City of North Plains and the nearby Recology compost facility located in
+Washington County.      Given the area’s location within the Willamette Valley, there is no
+reasonably viable nonresource land to consider under this factor.
+
+The proposed use cannot be reasonably accommodated on land that is already irrevocably
+committed to nonresource uses not allowed by Goal 3, whether in existing unincorporated
+communities or by increasing the density of uses on committed lands. The nature of the proposed
+rural industrial use, composting, is one that occupies the surface of the land and is not the type of
+use that can be facilitated by increasing the density or intensity of the use. The most ideal
+committed lands that could possibly accommodate the proposed use are the existing Ri lands either
+directly across Hwy 221 or located to the north. As explained below, those lands are not
+reasonably available to accommodate the compost use.
+
+The adjacent property cannot reasonably accommodate the proposed use because the size of the
+RI zoned parcel (2.52 acres) is smaller than the acreage needed and involved in the map
+amendment (7.97 acres). Additionally, the applicant or some other entity or person would need to
+establish composting operations at the site, which would incur start-up costs, making it
+prohibitively expensive. Even if that site were to be combined with the existing operations on the
+subject property, the 2.52-acre parcel would not be sufficient to accommodate the expansion needs
+and would require frequent compost vehicle crossings of an intersection in order to turn cooking
+compost or to facilitate sales. This would pose an increased risk to vehicles traveling on both SE
+
+Page 18 - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+Wallace Road and SE Alderman Road. For these reasons, the adjacent property cannot reasonably
+accommodate the proposed use.
+
+The RI zoned property to the north on SE Palmer Creek Road is of sufficient size to accommodate
+the compost uses, however that property is fully developed with existing uses.           Consequently,
+conversion of that property to support the compost use would entail ending an existing business,
+removal of existing structures and equipment, and the new establishment of the infrastructure
+needed for composting operations. This is not reasonabie.
+
+Exhibit 12 (in the record) shows several different Mineral Resource zoned properties in the area.
+The MR zoned properties along the Willamette River are within the floodplain. Location of a
+compost facility within a floodplain area is not reasonable for economic as well as for public safety
+reasons. Another MR zoned site is identified to the west of the subject property. However, that
+site is in active mining use. Use of that property for the proposal would have adverse economic
+consequences because it would require halting the mining operation and incurring start-up costs
+for the composting facility.     Additionally, it would likely require an exception to statewide
+planning Goal 5 if that property is identified as a significant Goal 5 resource site. For these reasons,
+it is unreasonable for that exception area to accommodate the proposed use.
+
+Exhibit 12 identifies one of several similarly situated Very Low Density Residential exception
+areas that can be considered. Those exception areas include minimum parcel sizes of 2.5 or 5 acres
+depending on the zone district. Generally, these parcels are too small to accommodate the
+proposed use.    In addition, these very low density residential exception areas tend to clump
+residential use properties together, so conversion of any parcel into compost use would likely
+generate resource industrial — residential use conflicts. It is not reasonable to locate industrial uses
+in exception areas granted for residential use purposes.
+
+There are no existing committed lands in the greater area that can accommodate the proposed use.
+
+The proposed use cannot be reasonably accommodated inside an urban growth boundary.                 The
+closest urban growth boundaries to the subject property are McMinnville, shown on Exhibit 12,
+and Dayton, located to the north of the subject property just off the map edge of Exhibit 12. Neither
+can reasonably accommodate the proposed compost facility uses that would be facilitated by the
+proposed exception and map amendments. In addition to the large footprint the compost facility
+would require, the general off-site impacts that result from the cooking of compost materials are
+not well-suited to the compact arrangement of uses within urban areas. While such impacts are
+typical of rural areas, in part because the typical distances between uses are much greater in rural
+areas, the impacts from processing and cooking of compost is not reasonably located in urban
+areas.
+
+There are no additional public facilities or services proposed as needed to accommodate the
+proposed use. There are presently adequate public facilities and services provided to the subject
+property to accommodate the proposed map amendments and the expansion of the compost facility
+that the map amendments would support.
+
+Pape 19-~- ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+The proposal complies with OAR 660-004-0020(2)(a).
+
+OAR 660-004-0020(2)(c) provides:
+
+        (c) “The long-term environmental, economic, social and energy consequences
+        resulting from the use at the proposed site with measures designed to reduce
+        adverse impacts are not significantly more adverse than would typically result from
+        the same proposal being located in areas requiring a goal exception other than the
+        proposed site.” The exception shall describe: the characteristics of each alternative
+        area considered by the jurisdiction in which an exception might be taken, the
+        typical advantages and disadvantages of using the area for a use not allowed by
+        the Goal, and the typical positive and negative consequences resulting from the use
+        at the proposed site with measures designed to reduce adverse impacts. A detailed
+        evaluation of specific alternative sites is not required unless such sites are
+        specifically described with facts to support the assertion that the sites have
+        significantly fewer adverse impacts during the local exceptions proceeding. The
+        exception shall include the reasons why the consequences of the use at the chosen
+        site are not significantly more adverse than would typically result from the same
+        proposal being located in areas requiring a goal exception other than the proposed
+        site. Such reasons shall include but are not limited to a description of: the facts
+        used to determine which resource land is least productive, the ability to sustain
+        resource uses near the proposed use, and the long-term economic impact on the
+        general area caused by irreversible removal of the land from the resource base.
+        Other possible impacts to be addressed include the effects of the proposed use on
+        the water table, on the costs of improving roads and on the costs to special service
+        districts;
+
+FINDING: Exhibit 12 (in the record) shows that the vast majority of land within the greater area
+surrounding the subject property is in resource use. Given the area’s location within the Willamette
+Valley, soils are generally of high quality and are very productive. Consequently, there are no
+least productive properties to target for analysis and this justification considers resource land
+generally.
+
+The economic consequences of developing the proposed uses in resource areas that require a new
+exception are significantly greater than if the plan and zoning map amendments occur solely on
+the subject property. On the subject property, there will be a net gain in resource plan and zoned
+land as a consequence of the proposed zoning exchange. This means the county will realize the
+economic benefits of an expanded compost operation that is integrated to the existing operation,
+as well as an increase in agricultural productivity because the land to be exchanged is high value
+farm land and is adjacent to land currently in farm use. The same cannot be said of other resource
+lands in the area. In all instances, conversion of resource land to resource industrial use will take
+that land out of agricultural production with long term economic consequences. Additional
+economic costs will derive from establishing a new industrial use at an undeveloped location and
+the costs of either relocating the existing facilities to the new location, or of running a composting
+operation that has components at different locations. The farther away the alternative resource
+
+Page 20 - ORDINANCE 894, EXHIBIT A-              FINDINGS IN SUPPORT OF APPROVAL
+land is from the subject property, the higher those long term operating costs will be. The best
+economic consequences result from granting an exception to Goal 3 and allowing the proposed
+exchange of zoning designations within the subject property.
+
+The social consequences of granting an exception for the subject property are also much less than
+of doing the same on other resource land. The subject property already has a resource industrial
+use approved for the property. Consequently, expansion of that compost uses would not appear
+nearly as disruptive to the social character of the area in the same way as the creation of a new
+resource industrial use on land previously used only for farm or forest purposes. Locating resource
+industrial uses in an immediate area for which an exception had already been taken and that has
+been historically planned for resource industrial uses is likely to be more socially acceptable than
+the unnecessary conversion of resource land for resource industrial use.
+
+There should be a minimal to no difference in the environmental consequences of replacing land
+in resource use with resource industrial uses and vice versa. In neither instance is the land in a
+natural environment state.      Compost facility operations must operate within DEQ permit
+guidelines, so adverse environmental impacts are minimal and are monitored. Agricultural or
+forest use of property, while not subject to environmental permitting, are not viewed as having
+extreme adverse environmental impacts. The area on the subject property proposed for the
+exception is on the higher-elevated portions of the subject property, consequently approval of the
+exception is unlikely to adversely impact the water table or otherwise impact the environment in
+the event of the Willamette River flooding. Some of the other areas that would require a goal
+exception are within the floodplain and could result in greater adverse environmental impacts in
+flood situations.
+
+Expansion of the compost facility operations will not result in an increase in energy consumption
+because the same amount of material can be brought to and processed at the site as now. The only
+difference is the slight adjustment of the composting location on the property to avoid conflicts
+with Carlton Farms. If the expansion area is located at some other site where an exception is
+required, energy expenditures will increase as a result of the travel back and forth between
+locations and other inefficiencies that would result from separate operations. If the entire compost
+facility operations are relocated to the new site, then there will be the associated costs of preparing
+the new site for full compost facility operations, relocating the facility and decommissioning the
+existing facility. All of which would make the energy expenditures at other locations greater than
+those that would flow from granting the proposed exception.
+
+For the reasons provided above, the applicant has demonstrated that the long-term ESEE
+consequences that would result from the use at the proposed site are not significantly more adverse
+than would typically result from the same proposal being located in areas requiring a goal
+exception other than the proposed site. The proposal complies with OAR 660-004-0020(2)(c).
+
+OAR 660-004-0020(2)(d) provides:
+
+          (d) “The proposed uses are compatible with other adjacent uses or will be so
+          rendered through measures designed to reduce adverse impacts.” The exception
+
+Page 21    - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+          shall describe how the proposed use will be rendered compatible with adjacent
+          land uses. The exception shall demonstrate that the proposed use is situated in such
+          a manner as to be compatible with surrounding natural resources and resource
+          management or production practices. “Compatible” is not intended as an absolute
+          term meaning no interference or adverse impacts of any type with adjacent uses.
+
+FINDING: This proposal directly responds to this provision that promotes compatibility with
+adjacent uses. As noted above, the purpose of the map change proposal is to reconfigure the
+footprint of existing plan and zone designations on the subject property to mitigate potential
+adverse impacts on resource industrial uses to the north and residences to the south. This proposal
+achieves this by moving areas for compost use farther away from these adjacent uses resulting in
+a net increase in EFU land available for agriculture than without the exception.         Through this
+approval, expansion of the compost facility will be more compatible with these adjacent uses than
+they currently are because the compost processing and cooking areas will be farther away from
+adjacent uses and out of the “line of sight” of prevailing winds.
+
+The map amendment proposal that the exception will support will also be compatible with
+surrounding natural resource uses. The existing composting facility has operated adjacent to
+farming activity on surrounding properties for some time and the subject property itself without
+any conflicts, That should not change with the proposed map amendment. In fact, following
+approval of the map amendment, there will be an additional 1.06 acres of EF-80 land adjacent to
+other EF-80 land currently in agricultural use. This net-gain in EFU land should promote
+agricultural production in the area,
+
+The proposal satisfies the requirements of OAR 660-004-0020(2)(d).
+
+For the reasons provided above, the proposed map amendments comply with the requirements for
+a reasons exception to the resource goals.
+
+E.   STATEWIDE PLANNING GOALS
+
+ Goal 1 Citizen Involvement: To develop a citizen involvement program that insures
+ the opportunity for citizens to be involved in all phases of the planning process.
+
+FINDINGS:
+
+Yamhill County has an acknowledged zoning ordinance that ensures citizen involvement in all
+phases of the planning process. This application is being processed following the procedures set
+forth in the YCZO. Those procedures provide for public notice and an opportunity for citizens to
+participate orally and in writing in the county proceedings for this proposal.
+
+The proposal is consistent with Goal 1.
+
+Page 22     - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+Goal 2 — Land Use Planning: To establish a land use planning process and policy
+framework as a basis for all decisions and actions related to use of land and to assure
+an adequate factual base for such decisions and actions.
+
+FINDINGS:
+
+Yamhill County has established a land use planning process and policy framework through
+adoption of and adherence to the provisions of the Yamhill County Comprehensive Land Use Plan
+and the Yamhill County Zoning Ordinance. This proposal is being evaluated under the procedures
+and approval criteria set forth in the YCZO, which assures that there is an adequate factual base
+for a decision on the proposed action. The record contains information establishing an adequate
+factual base for this decision.
+
+The proposal is consistent with Goal 2.
+
+ Goal 3 — Agricultural Land:     To preserve and maintain agricultural lands.
+
+FINDINGS:
+
+The proposal helps preserve and maintain agricultural lands in a number of ways. First, the EFU
+zoned portion of the property will see a net gain of 1.06 acres of high quality soils. Second, the
+EFU portions of the property will gain a large strip of usable land adjacent to the largest
+agricultural field on the subject property, which should add efficiencies to the commercial farming
+operations that take place there.
+
+The proposal is consistent with Goal 3.
+
+Page 23 - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+ Goal 4 ~ Forest Land:    To conserve forest lands.
+
+FINDINGS:
+
+Goal 4 is not applicable to this proposal as the subject property and proposed action do not affect
+any forest plan designation or use. The subject property is not acknowledged as forestland and is
+not otherwise suitable for commercial forest use.
+
+The proposal is consistent with Goal 4.
+
+ Goal 5 — Open Spaces, Scenic and Historic Areas, and Natural Resources:                  To
+ conserve open space and protect natural and scenic resources.
+
+FINDINGS:
+
+Goal 5 requires local governments to adopt programs that will protect natural resources and
+conserve scenic, historic and open space resources for present and future generations. Goal 5 and
+the Goal 5 rule sets forth a process where local governments must inventory, analyze and then
+develop programs to protect these resources, which include mineral and aggregate resources. See
+OAR 660-023-0030 through -0050.
+
+Yamhill County has gone through the Goal 5 process and has identified its Goal 5 resources. None
+exist on the western portion of the subject property.    This proposal does not impact any Goal 5
+resources.
+
+The proposal is consistent with Goal 5.
+
+Goal 6— Air, Water and Land Resources Quality:          To maintain and improve the quality
+of the air, water, and land resources of the state.
+
+FINDINGS:
+
+Goal 6 addresses waste and process discharges from development, and is aimed at protecting air,
+water and land from impacts from those discharges. The existing discharge outfall on the property
+is maintained in the RI district. This proposal will not allow any new types of uses that cannot
+already take place on the subject property, it only changes where those activities can take place.
+Some of those activities will require future county development approvals.     Future development
+on the RI zoned portions of the property will be subject to the provisions of the YCZO, which may
+operate to mitigate potential adverse impacts to air, water and land resource quality. Additionally,
+for the compost uses that take place in the RI areas of the property, the operator is required to
+obtain a DEQ permit and comply with permit requirements, which operate to protect air, water and
+land resources.
+
+The proposal is consistent with Goal 6.
+
+Page 24 ~ ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+Goal 7 — Areas Subject to Natural Disasters and Hazards:           Yo protect life and property
+from natural disasters and hazards.
+
+FINDING:
+
+Goal 7 requires that local government planning programs include provisions to protect people and
+property from natural hazards such as landslides and floods. The portions of the subject property
+that are the focus of this proposal are not in an area identified by the county as subject to natural
+disasters or hazards.
+
+The proposal is consistent with Goal 7.
+
+Goal 8 ~ Recreational Needs: To satisfy the recreational needs of the citizens of the
+state and visitors and, where appropriate, to provide for the siting of necessary
+recreational facilities to include destination resorts.
+
+FINDING:
+
+Goal 8 ensures the provision of recreational facilities to Oregon citizens.       The county has not
+identified the subject property as a site needed for the county’s recreational needs. The proposal
+will not impact the provision of recreational facilities to the public.
+
+The proposal is consistent with Goal 8.
+
+ Goal 9 — Economic Development: To provide adequate opportunities throughout the
+ state for a variety of economic activities vital to the health, welfare, and prosperity of
+ Oregon's citizens.
+
+FINDINGS:
+
+The economic benefits of the proposal are many. The operation on the Resource Industrial planned
+and zoned area is one of the few commercial compost facility located in the area. Given the strong
+presence of commercial agricultural activity in the area, there is a significant need for disposal of
+organic materials. It is inappropriate to dispose of compostable materials in a landfill if they can
+be safely and economically processed into useable products, as they are at the subject facility. The
+most economically beneficial means of processing organic wastes is through composting. In
+particular, this facility serves and will continue to serve the significant needs of the many Yamhill
+County and local area wineries. Service to commercial agriculture, in particular wineries, is a
+significant economic benefit to Yamhill County.
+
+Although the proposal will result in less land dedicated to resource industrial use, the proposed
+map amendment will improve the economic benefits to be gained from the combined RI and EFU
+uses because the proposal results in more operationally usable area dedicated to the RI use and
+wiil make areas of previously unusable resource industrial dedicated lands available for EFU uses.
+
+Page 25    - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+Consequently, both components of the land designation exchange will contribute to improved
+economic development in Yamhill County.
+
+The proposal is consistent with Goal 9.
+
+Geal 10 — Housing:     To provide for the housing needs of the citizens of the state.
+
+FINDINGS:
+
+Goal 10 requires that communities pian for the residential needs of their residents. The county has
+not identified the subject property as necessary for the county to meet its residential land needs or
+as being suitable for residential use. While a portion of the property did receive an exception to
+the resource statewide planning goals, it was for resource industrial uses, not for residential uses.
+This proposal will not change the plan designation or zoning for land identified for residential uses
+and will not otherwise adversely affect residential land.
+
+The proposal is consistent with Goal 10.
+
+ Goal 11 — Public Facilities and Services: To plan and provide a timely, orderly and
+ efficient arrangement of public facilities and services to provide as a framework for
+ urban and rural development.
+
+FINDINGS:
+
+The proposal does not affect the planning or development of future public facilities or services.
+Given that the end uses already exist on the property and that the proposal simply reconfigures
+those uses on the property without a need to relocate or to provide additional public facilities and
+services to the site, the proposal raises no Goal 11 issues or adverse consequences related to the
+county’s provision of public facilities and services.
+
+The proposal is consistent with Goal 11.
+
+ Goal 12—Transportation:       To provide and encourage a safe, convenient and economic
+ transportation system,
+
+FINDINGS:
+
+Goal 12 is implemented through the Transportation Planning Rule (TPR) located at OAR 660-012.
+OAR 660-012-0060(1) states that land use changes that significantly affect a transportation facility
+require mitigation measures to address the anticipated transportation impacts. Such changes can
+include amendments that change the comprehensive plan designation or the zoning district
+designation of property because they hold the potential to alter the function, capacity or
+performance standards of a transportation facility by altering the number and types of vehicle trips
+allowed by the changed designations.
+
+Page 26 - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+The focus of the Goal 12 analysis is whether a change ‘significantly affects’ a transportation
+facility. Ifa change does not “significantly affect” transportation, Goal 12 is satisfied and no
+further analysis or action is required under the goal. OAR 660-012-0060(2) sets out when a
+proposal significantly affects a transportation facility:
+
+          (2)   A plan or land use regulation amendment significantly affects a
+                transportation facility if it:
+                (a)     Changes the functional classification of an existing or planned
+                        transportation facility;
+                (b)     Changes standards implementing a functional classification system,
+                (co)    Allows types or levels of land uses which would result in levels of
+                        travel or access which are inconsistent with the functional
+                        classification of a transportation facility; or
+                (a)     Would reduce the performance standards of the facility below the
+                        minimum acceptable level identified in the TSP.         OAR    660-012-
+                        0060(2).
+
+Often, a traffic impact study is required to demonstrate compliance with Goal 12. In this instance
+a traffic study is not necessary because the overall uses and the scope of allowed uses on the subject
+property will not change, just their locations.
+
+The county's transportation system plan (TSP) is based on the reasonably anticipated traffic levels
+generated by the uses consistent with the plan designations for a property. In this instance, the
+TSP is based on the traffic volumes that would be generated by 26.50 acres of resource industrial
+activity. Given that the proposed designation exchange results in 25.26 acres of RI designated
+land, and that RI uses generate more traffic trips than EFU uses, the proposal results in a net
+reduction of vehicle trips over that provided for under the county's approved TSP. Consequently,
+the proposal will not allow types or levels of land uses that would result in levels of travel or access
+that are inconsistent with the functional classification of impacted transportation facilities, nor will
+it reduce the performance standards of any facilities because the total number of vehicle trips
+resulting from the proposal represents a decrease in the number of trips anticipated under the TSP
+and for which the functional capacity of surrounding transportation facilities is adequate.
+
+Furthermore, because the proposal does not change the functional classification of any existing or
+planned facilities, and does not change the functional classification system implementing
+standards, the proposal does not significantly affect a transportation facility.
+
+The proposal is consistent with Goal 12.
+
+ Goal 13 — Energy Conservation:        To conserve energy.
+
+FINDINGS:
+
+Goal 13 mandates that uses developed on the land shall be managed and controlled so as to
+maximize the conservation of all forms of energy, based upon sound economic principles. This
+
+Page 27     - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+action does not result in any additional energy consumption on the subject property because it
+simply reconfigures where existing permitted uses can take place on the subject property.      It
+does not authorize any different or additional uses on the property.
+
+Therefore the proposal is consistent with Goal 13.
+
+Geal 14 - Urbanization:      To provide for an orderly and efficient transition from rural
+to urban land uses.
+
+FINDINGS:
+
+Goal 14 sets out the general processes and requirements to convert rural land to urban land. This
+action does not convert rural land to urban land; it only reconfigures the location of RI and EF uses
+on the subject property. It does not change the nature of the permitted uses or allow urban uses on
+rural land.
+
+The proposal is consistent with Goal 14.
+
+ Goal 15 — Willamette River Greenway: To protect, conserve, enhance and maintain
+ the natural, scenic, historical, agricultural, economic and recreational qualities of
+ lands along the Willamette River as the Willamette River Greenway.
+
+FINDINGS:
+
+Goal 15 requires that local governments protect, conserve and enhance several aspects of the
+Willamette River through creation of the Willamette River Greenway. No portion of the subject
+property is adjacent to the Willamette River or lies within the Willamette River Greenway. While
+some of the eastern portion of the property lies within the Willamette River floodplain, the area
+addressed by this proposal lies on the western portion of the property, well away from the
+Willamette River. The proposal allows continuation of long-standing uses that have operated
+without adverse impact to, and harmoniously with, the Willamette River, and relocates a portion
+of the RI zoning footprint away from lower-lying lands to the upland portions of the property.
+
+The proposal is consistent with Goal 15.
+
+Goals 16 through 19 (Estuarine Resources, Coastal Shorelands, Beaches and Dunes, and
+Ocean Resources):
+
+FINDINGS:
+
+There are no coastal, ocean, estuarine, or beach and dune resources related to the property affected
+by this proposal.    Therefore, these goals are not relevant and the proposal will not affect
+compliance with Goals 16 through 19.
+
+The proposal is consistent with all Statewide Planning Goals.
+
+Page 28   - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+OVERALL          CONCLUSIONS FOR APPROVAL:
+
+L.      The request is for a comprehensive plan amendment and zone change to exchange nearly
+        equal amounts of land zoned EF-80 Exclusive Farm Use and land zoned RI Resource
+        Industrial. The proposal involves 9.03 acres of RI zoned land being rezoned to EF-80, and
+        7.97 acres of EF-80 land being rezoned to RI, including an exception to Goal 3, which the
+        Board hereby approves.
+
+2.     The   proposed      plan   amendment   and   zone   change   is   consistent    with   applicable
+       Comprehensive Plan goals and policies.
+
+3.      The proposed change is consistent with all applicable Yamhill County code provisions
+        including the zone change criteria of Section 1208.02.
+
+4.      Due to the unique circumstances of the site the proposal complies with OAR 660-04-0020
+        for a reasons exception.
+
+ 5.     The proposed change complies with all applicable Statewide Planning Goals including
+        the Transportation Planning Rule.
+
+DECISION:
+
+Based upon the demonstration of compliance with all applicable YCZO provisions, County Plan
+provisions, state law requirements and the evidence in the record, the Board approves the proposed
+comprehensive plan designation map and zoning district map changes and reasons exception.
+
+At the request of the Parties, the Board also modifies SDR-05-14 Condition 3, to read as follows:
+
+“The composting facility shall be modified as shown on Exhibit 1, Pages 4, 5, and 6 of the
+application, and located wholly within the RI Resource Industrial zone, with the exception that no
+Composting Facility Operations as defined in the Restrictive Covenant which is Exhibit 13 to
+PAZ-02-15,       shall occur in the area prohibited by said Restrictive Covenant      unless the parties
+thereto agree in writing.”
+
+SDR-05-14 may be modified consistent with applicable law without requiring an amendment to
+this Decision.
+
+CONDITION OF APPROVAL
+
+1       The Applicant shall record the Declaration of Restrictive Covenant attached as Exhibit 4
+to the Applicant’s application in the Deed and Mortgage Records of Yamhill County within a
+period of 27 days after the following events have occurred: (1) County provides the Department
+of Land Conservation and Development with notice of the final approval of the Application on the
+required forms as required by ORS        197.610 to 197.625 and ORS      197.830(9), and (2) County
+
+Page 29 - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+provides the required published and individual notice to all persons entitled to individual notice of
+this Approval Decision under ORS 197.615 and the County Code.
+
+Page 30 - ORDINANCE 894, EXHIBIT A- FINDINGS IN SUPPORT OF APPROVAL
+               EXHIBIT -B- MAP FOR ORDINANCE NO. 894
+     ADOPTED BY THE YAMHILL COUNTY BOARD OF COMMISSIONERS
+                           OCTOBER 22, 2015
+                          DOCKET PAZ-02-15,
+   APPROVAL TO CHANGE THE COMPREHENSIVE PLAN AND ZONING MAP
+       BETWEEN INDUSTRIAL (1) / RESOURCE INDUSTRIAL (RI) AND
+AGRICULTURE/FORESTRY LARGE HOLDING (AFLH) / EXCLUSIVE FARM (EF-80)
+
+         CHANGE APPLIES TO THE SHADED AREAS AS IDENTIFIED ABOVE
+
+                         Map Scale is: 1 Inch = 500 Feet
+
+                                                           80. 15-437
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 99.6% of
+the word sequence, and on 95.0% of the figures. Dictionary-recognizable words: 96.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

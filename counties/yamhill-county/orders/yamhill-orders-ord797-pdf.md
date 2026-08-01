@@ -1,0 +1,383 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord797-pdf
+title: 'ORD797-PDF'
+doc_type: ordinance
+citation: 'ORD797-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17424/ORD797-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: b04e15d11496b8b2eb0545f38eb7f4f986c8870a4bc2cc5593ae46744cb8c17c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.959; figure agreement 0.542; dictionary ratio 0.955. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - OAR 660-012-0060
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 96%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD797-PDF (ORD797-PDF)
+
+## At a glance
+
+OCR-derived text of ORD797-PDF. Not human-verified.
+
+## Full text
+
+Film 92
+         BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON                                      734
+
+                                       FOR THE COUNTY OF YAMHILL
+
+                   SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+Approval of a Comprehensive Plan Amendment and Zone Change                   )
+from HI - Heavy Industrial to Commercial on a 3.36 Acre Parcel,              )     Ordinance 797
+Docket PAZ-04-06, Applicant Julie Dean, Tax Lot 5632-1200,                   )
+and Declaring an Emergency                                                   )
+
+         THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the oard                            sat for
+the transaction of county business November 29, 2006, Commissioners Leslie Lewis, Kathy George and
+Mary P. Stern being present.
+
+        IT APPEARING TO THE BOARD that Julie Dean applied to the Yamhill County Department of
+Planning (Planning Docket PAZ-04-06) for a Comprehensive Plan amendment and zone change, and
+
+         IT APPEARING TO THE BOARD that this matter was heard by the Yamhill County Planning
+Commission at a duly noticed public hearing on October 5, 2006, after which the Commission voted to
+recommend approving the application; the Board held a duly noticed public hearing November 8, 2006.
+After due consideration of the Application (there being no opponents or objections), the Board
+tentatively voted 3-0 to approve the Application, NOW, THEREFORE,
+
+         IT IS HEREBY ORDAINED BY THE BOARD, that the application is approved as detailed in
+the Findings for Approval, attached as Exhibit A and by this reference incorporated herein. This
+ordinance, being necessary for the health, safety, and welfare of the citizens of Yamhill County, and an
+emergency having been declared to exist, is effective upon passage. A map of the area is appended as
+Exhibit B.
+
+DONE this 29th day of November, 2006, at McMinnville, Oregon.
+
+ATTEST                                           YAMHILL COUNTY BOARD OF COMMISSIONERS
+JAN COLEMAN                             sped                Ae            [x (osu
+County Clerk                             got     OF Dy      i                LESLIE LEWIS
+
+                                         eae)
+Deputy Anne Britt
+
+APPROVED ASTOFORM:                                       V\, \Qu          ) SA.
+     4   “    g    Fon. ;                                Commissioner \      MARY P. STERN
+
+Rick Sanai, Assistant County Counsel
+
+\\Yam-main\Admin\Users\sanair\LU\DeanforthVersion.wpd
+
+                                                                                      B.0+ ©Olo-UkS
+                                                                                                         Film 92
+                                                                                                         735
+
+Findings for Approval
+
+DOCKET NO.:              PAZ-04-06
+
+REQUEST:                  For a Comprehensive Plan amendment from HI - Heavy Industrial to
+                          Commercial for a 3.36 acre parcel.
+
+APPLICANT:                Julie Dean
+
+TAX LOT:                  5633-1200
+
+LOCATION:                 32020 SW West Valley Highway, Sheridan, Oregon
+
+CRITERIA:                 Sections 501, 701, 702, and 1208.02 of the Yamhill County Zoning Ordinance.
+                          Section 904, Limited Use Overlay may also be applied. Comprehensive Plan
+                          policies may be applicable. OAR 660-012-0060 Transportation Planning Rule
+
+FINDINGS:
+
+A. Background Facts
+
+1.          Lot Size: 3.36 acres.
+
+2.          Access:    West Valley Highway.
+
+3.          On-Site Land Use:       The subject parcel is a site of an old lumber mill that was abandoned in
+            1970s. The parcel is situated between Southern Pacific Railroad to the north and West
+            Valley Highway to the south. The site is overgrown with brush, grass and trees which are
+            mostly along the railroad right-of-way. There are two structures on the property that were
+            left over from the lumber mill. One is an old shop building and the other served as an office
+            building. A trucking company used the site from 1999 until 2002.
+
+4.          Surrounding Land Use:       Land in the surrounding area contains rural residential, heavy
+            industrial uses (i.e. lumber mills) and farm uses which include grass and livestock grazing.
+
+3;          Surrounding Zoning: The parcels to the east and the west are zoned AF-10,
+            Agriculture/Forestry Small Holding. Parcels to the north, across the railroad line, and to the
+            south across West Valley Highway are zoned EF-80 Exclusive Farm Use.
+
+6.          Soils: The Yamhill County Soil Survey indicates that approximately 64% of the soil on
+            subject tract is Class II, Chehalem (CeC) high value farm land. Approximately 30% of the
+            soil is Class I, Chehalis (Ch)), prime farmland and approximately 6% of the soil is Class VI,
+            Willakenzie (WeF) non-high value soil.
+
+hs          Taxes:    The tract is taxed as an industrial undeveloped property.
+
+8.          Water:    Existing well.
+
+9.          Sewage Disposal:     There is an existing septic system on Tax Lot 5633-1200.
+
+                                                                                                  B.0-06-46S
+                                                                                                       Film 92
+                                                                                                       736
+
+B. Ordinance Provisions and Analysis
+
+L.           The request must comply with the standards and criteria in the Yamhill County Zoning
+             Ordinance (YCZO) Section 1208.02. These provisions are:
+
+      (A)      That the proposed change is consistent with the goals, policies, and any other applicable
+               provisions of the Comprehensive Plan.
+
+      (B)      That there is an existing demonstrable need for the particular uses allowed by the
+               requested zone, considering the importance of such uses to the citizenry or the economy
+               of the area, the existing market demand which such uses will satisfy, and the availability
+               and location of other lands so zoned and their suitability for the uses allowed by the zone.
+
+      (C)      That the proposed change is appropriate considering the surrounding land uses, the
+               density and pattern of development in the area, any changes which may have occurred in
+               the vicinity to support the proposed amendment and the availability of utilities and
+               services likely to be needed by the anticipated uses in the proposed district.
+      (D)      That other lands in the county already designated for the proposed use are either
+               unavailable or not as well-suited for the anticipated uses due to location, size, or other
+               factors.
+
+      (E)      That the amendment is consistent with the current Oregon Administrative Rules for
+               exceptions, if applicable.
+
+      These criteria are addressed, respectively, in Findings B.2 through B.6 below.
+
+ Ze            As noted above, in 1979 the Yamhill County Board of Commissioners adopted Ordinance
+               202 which took an exception to goal 3 and designated the property as HI Heavy Industrial
+               use because it was physically developed in and irrevocably committed to non-farm uses.
+               As noted above the subject parcel was a site of a (now defunct) lumber mill. The lumber
+               mill was closed down in 1970s. Now the site is just a vacant lot. For a time between
+               1999 and 2002 the site was used for a trucking operation. None of the uses proposed by
+               the applicant are listed as permitted or conditional uses in the HI Heavy Industrial zoning
+               district.   Therefore, the applicant is requesting to change the zone to LI Light Industrial
+               use and AF-10 Agriculture/Forestry Small Holding. As noted in finding A.4 the
+               surrounding area is in rural residential use, industrial use and farm use.
+
+               Yamhill County Revised Goals and Policies - Policy I.F.1.b. Yamhill County will
+              encourage economic development projects which do not conflict with the predominant
+              timber and agricultural character of the county.
+
+               The applicant stated that the proposed use (horse boarding) is both appropriate and
+              needed in the west valley area. The proposed use would be an asset to the surrounding
+              agricultural area as well as the rural residential area. The proposed use is a type of
+              business generally used by residents of agricultural and residential areas.
+
+               Yamhill County Revised Goals and Policies - Policy I.B.1.c. All proposed rural area
+              development and facilities:
+                                                                                             Film 92
+                                                                                             737
+
+ 1)        Shall be appropriately, if not uniquely, suited to the area or site proposed for
+development;
+
+ 2)        Shall not be located in any natural hazard area, such as a floodplain or area of
+geologic hazard, steep slope, severe drainage problems or soil limitations for building or
+sub-surface sewage disposal, if relevant;
+
+ 3)        Shall be furnished with adequate access and an adequate individual or
+community water supply, if required; and shall not be justified solely or even primarily on
+the argument that the land is less costly than alternative better sites or that federal or state
+aid is available in the form of subsidized water supply or sewerage extensions from nearby
+urban centers.
+
+ The proposed use of the subject tract is appropriate for the proposed area. It is situated
+between City of Sheridan and the City of Willamina.       It is also situated in an area bound by
+railroad tracks on the north side and a State highway to the south. It is located in an area
+that is mix of agricultural, industrial and rural residential use. The subject tract is not in a
+floodplain or any other hazard area. The subject tract has a direct access onto the State
+Highway. All utilities are present and so is the infrastructure.
+
+ Yamhill County Revised Goals and Policies - Policy I.B.1.d. No proposed rural area
+development shall require or substantially influence the extension of costly services and
+facilities normally associated with urban centers, such as municipal water supply and
+sanitary sewerage or power, gas and telephone services, nor shall it impose inordinate
+additional net costs on mobile, centralized public services, such as police and fire
+protection, school busing or refuse collection.
+
+ The above policy was addressed in the paragraph above..
+
+ Yamhill County Revised Goals and Policies - Policy L.H.1.b,        To the greatest extent
+possible, industrial areas will be located within urban growth boundaries.      Those industrial
+areas located outside urban growth boundaries will be compatible with the industrial
+development goal and will be located where they can be adequately served by necessary
+major utility lines, including electric power substations and transmission lines, trunk sewer
+lines, trunk water lines, and where appropriate, trunk gas lines.
+
+ The subject tract is already plan designated for industrial use.
+
+ Yamhill County Revised Goals and Policies - Policy I.H.1.c,        Industrial uses which are
+incompatible with surrounding residential or commercial development and cannot bear the
+cost of abating their incompatible characteristics, whether related to performance or
+appearance, will be encouraged to locate or relocate only within urban centers, where
+contact with residential development is, or will be at a minimum, and where all required
+services are immediately available.
+
+ The proposed use (equine accessories sales and service operation) is very low impact.          It
+does not generate noise, vibration, glare, fumes, odor, electrical interference or other
+disturbance beyond what normally occurs in the applicable zoning district. The only
+significant impact might be the traffic. The applicant will have to contact ODOT for all
+appropriate permits.
+                                                                                              Film 92
+                                                                                              738
+
+        Yamhill County Revised Goals and Policies - Policy LH.1.f, The county will develop
+       appropriate performance, design and specification standards and requirements for all
+       existing and possible future industrial uses to guide their location or relocation in the
+       county and within existing industrial areas of the county.
+
+        The County has developed design standards which would be applied at the time the
+       applicant applies for the Site Design Review.
+
+        Yamhill County Revised Goals and Policies - Policy LH.1.J,      Industrial development will
+       utilize the transportation system in an efficient and safe manner and reduce energy
+       consumption by identifying for industrial development areas with alternative transportation
+       opportunities, and by locating employment opportunities close to public transportation and,
+       where appropriate, in community areas.
+        The proposed use is located next to the State Highway half way between City of Sheridan
+       and the City of Willamina. The applicant indicated that the proposed use should generate
+       5 to 10 new employment opportunities for the local area.
+
+        Yamhill County Revised Goals and Policies - Policy I.H.1.n The county will recognize
+       and encourage small scale industries as viable alternatives to larger, conventional
+       enterprises.
+
+        The proposed use is small scale when comparing it to the other industrial uses in the area..
+
+         Regarding the need for the proposed use, criterion (B), the applicant did not submit a full
+      market study. However, the applicant did indicate that all facilities in the eastern portion of
+      the county do not have any available space.
+
+      Regarding criterion 1208.02 (C), the surrounding property consists of small scale farm uses
+       and rural residential areas. Approval of this zone change would allow establishment of a
+       very similar and compatible use to farm and rural residential uses in the surrounding area.
+       The surrounding properties are zoned EF-80 Exclusive Farm, AF-10 and HI. This
+       conversion would be consistent with the surrounding property zoning. Regarding the need
+       for utilities and services, the property already has a well and septic system for a single
+       family residence.   Water is provided by an on-site well. Access is by State Highway.
+
+      Regarding criterion 1208.02 (D), there is very limited amount of land zoned LI in the
+       County. And none is available in the western portion of the county. The AF-10 is more
+       prevalent; however, the combination of LI and AF-10 that the applicant desires is
+       nonexistent.
+
+      Regarding criterion 1208.02 (E), no exception is required.
+
+      Goal 12 (Transportation Rule) Provisions and Analysis
+
+      The provisions of the Transportation Planning Rule, implementing Goal 12, must be
+       addressed. OAR 660-12-060 contains the provisions that must be met:
+
+(1)   Amendments to functional plans, acknowledged comprehensive plans, and land use
+       regulations which significantly affect a transportation facility shall assure that allowed land
+       uses are consistent with the identified function, capacity, and level of service of the
+                                                                                                Film 92
+                                                                                                739
+
+              facility.
+
+Zs           As noted above, approval of the request would restrict the use of the property to light
+              industrial and rural residential uses, which does not involve movement of heavy machinery
+              and large commercial truck traffic. Therefore, the proposed uses are not as traffic
+              intensive as heavy industrial uses. The proposal will be subject to ODOT permitting
+              process.
+
+CONCLUSION:
+
+The request complies with the Comprehensive Plan Goals and Policies. The requested use is appropriate
+             for the area considering the level of services needed and available, and considering
+              surrounding development.
+
+  The request will comply with the Transportation Planning Rule if all permits from Oregon Department
+                 of Transportation are obtained. As noted above, approval of the request would restrict
+                the use of the property to commercial and rural residential uses, which does not involve
+                movement of heavy machinery and large commercial truck traffic. Therefore, the
+                proposed uses are not as traffic intensive than heavy industrial uses. The proposal will
+                be subject to the ODOT permitting process.
+
+     End
+Yamhill County Map
+          —-_-
+     oO
+    ‘O
+
+                       2;
+     >
+                 O
+                 =
+
+                       =
+
+                                =U
+                                U
+                                0
+                                O
+                                U
+                                m
+                                —
+                                                                               <
+a
+
+    Nea          wes
+
+                                                                      i)           w>
+                                             =e
+                                             =                    1    ‘O=a
+
+                            :          ELPHIAN    -_ )        y           oO       9A
+                                       SCHOOL]    -      -/           8            <
+                                                                                   on
+                                                                                   « -
+
+                                 SAVAGE:
+                                . ROAD
+
+                                                                                         B.8-06-465
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 95.9% of
+the word sequence, and on 54.2% of the figures. Dictionary-recognizable words: 95.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

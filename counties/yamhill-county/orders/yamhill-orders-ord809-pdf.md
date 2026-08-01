@@ -1,0 +1,265 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord809-pdf
+title: 'ORD809-PDF'
+doc_type: ordinance
+citation: 'ORD809-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17403/ORD809-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 0050ae2301cd650644ce6783a78cce15642cbf382e9491ac756a947a0b6ffb6c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.985; figure agreement 0.870; dictionary ratio 0.927. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD809-PDF (ORD809-PDF)
+
+## At a glance
+
+OCR-derived text of ORD809-PDF. Not human-verified.
+
+## Full text
+
+Vol 98
+                                                404                                            G7
+
+         BEFORE THE BOARD OF COMMISSIONERS                      OF THE STATE OF OREGON
+
+                                FOR THE COUNTY OF YAMHILL
+
+                   SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Approval of a Zone Change from EF-20 Exclusive          )
+Farm Use to AF-40 Agriculture Forestry for a 24.8 Acre Parcel,           )
+Tax Lot 3523-900, Docket no. Z-03-07, Applicant Marcel van der           )    Ordinance 809
+Sluys, & Declaring an Emergency                                          )
+
+          THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the “Board”) sat
+for the transaction of county business on May 23, 2007, Commissioners Kathy George, Mary P. Stern, and
+Leslie Lewis being present.
+
+         IT APPEARING TO THE BOARD that Marcel van der Sluys applied to the Yamhill County
+Department of Planning (Planning Docket Z-03-07) for a zone change from EF-20 Exclusive Farm Use to
+AF-40 Agriculture Forestry Use, and
+
+         IT APPEARING TO THE BOARD that the matter was heard by the Yamhill County Planning
+Commission at a duly noticed public hearing on May 3, 2007, after which the Commission voted 8-0 to
+recommend approving the application, and no-one has appealed that approval. NOW, THEREFORE,
+
+         IT IS HEREBY ORDAINED BY THE BOARD, that the application is approved as detailed in the
+Findings for Approval, attached as Exhibit “A” and by this reference incorporated herein. This ordinance,
+being necessary for the health, safety, and welfare of the citizens of Yamhill County, and an emergency
+having been declared to exist, is effective upon passage.
+
+          DONE this 23" day of May, 2007, at McMinnville, Oregon.
+
+ATTEST                                  YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+                                                aby           thar
+                                        Chair                    KATHY GEORGE
+
+                                                a
+                                         Commissioner
+                                                               PSG
+                                                                 MARY P. STERN
+
+APPROVED AS TO FORM:                         5A       :   “ (Vy, ss
+             .                           Cothmissioner    ”      LESLIE LEWIS
+     4A          CZ.     ¢
+Rick Sanai, Assistant County Counsel
+
+                                                                               Ordinance 809 (van der Sluys )
+                                                                                   "B.0 -O7F- Hef |
+                                                           Vol 98
+                                                           405
+
+Findings    Docket Z-03-07 (van der Sluys)
+Page 2
+
+REQUEST:                 Zone change from EF-20 Exclusive Farm Use to AF-40 Agriculture Forestry
+                        Use.
+
+APPLICANT:               Catherine A. Wright representing Marcel van der Sluys
+
+TAX LOTS:                3523-900
+
+LOCATION:               Northeast of the intersection of Meadow Lake Road and Panther Creek
+                        Road, Carlton
+
+CRITERIA:               Sections 402, 403 and 1208.04 of the Yamhill County Zoning Ordinance; the
+                        Yamhill County Comprehensive Plan.
+
+A. Background Facts
+
+1.       Lot Size: 24.8 acres
+
+2.       Access: Meadow Lake Road.
+
+         On-Site Land Use: Currently, undeveloped with most of the parcel forested.
+
+         Surrounding Zoning: Property to the east and west is zoned EF-20 and property to the south
+         is zoned EF-80. The parcels to the north are zoned AF-40,
+
+         Surrounding Land Use: The land to the north is predominantly forested.         Land to the south,
+         east and west appears to exhibit a mixture of farm and forestry uses.
+
+         Water: Proposed on-site well.
+
+         Sewage Disposal:       An on-site septic system would be required.
+
+         Soils: The Yamhill County Soil Survey indicates approximately 43% of the soil on the subject
+         parcel is Hazelair (HcB) which is rated as Class T1I non-high value soils. Approximately 28%
+         is Willakenzie (WeD) which is rated as Class II], high-value farmland and approximately 12%
+         is Willakenzie (WeE) which is rated as Class IV, high-value farmland.
+
+         Fire Protection: Carlton Rural Fire District.
+
+10.      Taxes: Market value.
+
+il.      Other Factors: Until late 1993 the property was zoned AF-20. In December of 1993 the lot
+         was rezoned EF-20, at the requirement of the State following the passage of HB 3661.
+
+                                                                              Ordinance 809 (van der Sluys )
+                                                                                     B.d -OF-
+                                                                                            44 (
+                                                            Vol 98
+                                                            406
+Findings       Docket Z-03-07 (van der Sluys)
+Page 3
+
+B._ Ordinance Provisions and Analysis
+
+1.       The requested zone change complies with the review criteria found in Section 1208.04 of the
+         Yamhill County Zoning Ordinance, as follows:
+
+         Review Criteria for Amendments          from Exclusive Farm Use to Agricultural/Forestry
+         Zones
+
+         Certain properties that were zoned Agriculture/Forestry prior to December 29, 1993 were
+         rezoned to Exclusive Farm Use as part of Periodic Review. (The rezoning became effective
+         on February 14, 1997.) When the Exclusive Farm Use designation does not adequately reflect
+         the mixed agricultural and forest use of the property, a quasi-judicial zone map change back
+         to Agricultural/Forestry may be authorized, pursuant to Subsection 1208.01, and provided
+         that the applicant demonstrates compliance with the following:
+
+         A,        The area to be rezoned consists primarily of foothill and ridgetop holdings above the
+                  flat terrace and valley floor commercial agriculture areas, and below the contiguous
+                   timberlands of the Coast Range.
+
+         B.        At least 50% of each parcel that is proposed to be rezoned is forested.
+
+         Cc        At least 50% of each parcel that is proposed          to be rezoned    was     designated
+                   Agriculture/Forestry prior to December 29, 1993.
+
+         dD,       The area being rezoned contains such a mixture of agricultural and forest uses that
+                   neither Goal 3 nor Goal 4 can be applied alone.
+
+         E.        The proposed amendment shall result in an area of at least 160 contiguous acres with
+                   the requested designation, including adjacent land.
+
+         F.        Any amendment that would reduce          the   minimum   lot size   complies     with    the
+                   requirements of Section 1208.03(F).
+
+         The above criteria are addressed in Findings B.2 through B.7 below.
+
+         Regarding the location of the parcel as specified in criterion (A) above, the elevation of the
+         subject parcel ranges from approximately 340 feet in the northwest corner to the lowest point
+         of approximately 220 feet at the southern end of the parcel. The topography is primarily
+         foothills and is above the flat terrace and valley floor commercial agriculture areas, and below
+         the contiguous timberlands of the Coast Range The request meets this criterion.
+
+         Regarding     criterion (B) above, the 1992     aerial photograph of the parcel shows             that
+         approximately 52.4% of the parcel is forested and somewhat more forestation is shown in the
+
+                                                                              Ordinance 809 (van der Sluys )
+                                                       Voi 98
+                                                       407
+Findings   Docket Z-03-07 (van der Sluys)
+Page 4
+
+       2005 aerial photo.   The parcel also contains some open areas.       The purpose section of the
+       Agriculture/Forestry District states in part:
+
+               The purpose of the Agriculture/Forestry District is to identify and protect lands desig-
+               nated as Agriculture/Forestry Large Holding on the Comprehensive Plan, that are a
+               mixture of agricultural and forest management operations, and other uses which are
+               compatible with such operations.
+
+       Due to the mixed nature of the use of the property it appears that the requested change would
+       be appropriate. The request meets this criterion.
+
+       Regarding criterion (C), the Official 1980 County Zoning Map, which was valid until
+       December 29, 1993, shows the subject parcel was zoned AF-20 Agriculture/Forestry use (See
+       attached map).   The request meets this criterion.
+
+       Regarding criterion (D) the lot contains Class III and IV soils and is, therefore, considered
+       agricultural land pursuant to Goal 3; however, the parcel also contains at least 50% of forested
+       area. The majority of the soils are capable of producing 40 to 145 cubic feet of wood fiber per
+       acre per year. Therefore, the lot is not exclusively suitable for Goal 3 use or Goal 4 use.
+
+       Regarding criterion (), the request will result in at least 160 contiguous acres of the requested
+       designation of AF-40,
+
+       Criterion (F) does not apply since the approval of the request would not reduce the minimum
+       lot size on the property. The applicant wishes to increase the minimum lot size to 40 acres.
+
+CONCLUSIONS        and DECISION
+
+1.     The request is for a zone change from EF-20 Exclusive Farm Use to AF-40 Agriculture
+       Forestry Use. Total area proposed to be rezoned is 24.8 acres.
+
+       The zone change is appropriate to reflect the mixed uses on the property.
+
+       The request complies with the criteria listed in Section 1208.04 of the Yamhill County Zoning
+       Ordinance.
+
+4.     The proposed designation is appropriate for the intended use of the property.
+
+5.     The proposed change will continue to allow the opportunity for growing and harvesting trees.
+
+Based on the above findings and conclusions, the request by Catherine Wright representing Marcel
+van der Sluys, for a zone change from EF-20 Exclusive Farm Use to AF-40 Agriculture Forestry Use
+on Tax Lot 3523-900, is hereby approved.
+
+                                                                             Ordinance 809 (van der Sluys )
+
+                                                                                  B.0 04 -et}
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.5% of
+the word sequence, and on 87.0% of the figures. Dictionary-recognizable words: 92.7%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

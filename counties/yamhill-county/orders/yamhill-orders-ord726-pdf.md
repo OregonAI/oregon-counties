@@ -1,0 +1,403 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord726-pdf
+title: 'ORD726-PDF'
+doc_type: ordinance
+citation: 'ORD726-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17485/ORD726-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 1c6f190bee023babe8b343192c40803da2d9eabffde3e7f0ffc36e9322d4056d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.957; figure agreement 0.637; dictionary ratio 0.939. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 96%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD726-PDF (ORD726-PDF)
+
+## At a glance
+
+OCR-derived text of ORD726-PDF. Not human-verified.
+
+## Full text
+
+APR 2 +: 2003
+             IN THE BOARD OF COMMISSIONERS OF THE STATE OG OR BGRIN P 4 232
+                                                                                    .            yi        4     a ts fe
+
+                                 FOR THE COUNTY OF YAMHILL                              au OO weds
+                  SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of an Application for a Zone Change )
+from VLDR 2.5 Very Low Density Residential to)
+AF-10 Agriculture/Forestry for a Parcel Located at )               ORDINANCE 726
+24285 NE Zard Lane, Newberg, Tax Lots              )
+3219CA-901 and 902, Applicant Robin Vachter,       )
+Docket Z-02-02, and Declaring an Emergency         )
+
+        THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board)
+sat for the transaction of county business on April 24, 2003, Commissioners Leslie Lewis and Kathy
+George being present and Mary P. Stern excused.
+
+        IT APPEARING TO THE BOARD that Robin Vachter applied to the Department of
+Planning and Development (Planning Docket Z-02-02) for a zone change from VLDR 2.5 to AF-10
+on a parcel known as 24285 NE Zard Lane, Newberg, Tax Lots 3219CA-901 and 902.. On March
+6, 2003, the Planning Commission held a hearing on the application and forwarded the request to
+the Board of Commissioners with a recommendation for approval. On April 10, 2003, the Board
+deliberated and voted 3-0 to approve the application, and directed staff to prepare the necessary
+findings for approval; NOW, THEREFORE,
+
+        IT IS HEREBY ORDAINED BY THE BOARD that the application is approved with
+conditions as detailed in the Findings for Approval, attached as Exhibit “A” and by this reference
+incorporated. This ordinance, being necessary for the health, safety, and welfare of the citizens of Yamhill
+County, and an emergency having been declared to exist, is effective upon passage.
+
+        DONE      this 24" day of April, 2003, at McMinnville, Oregon.
+
+                                         xX       ILL COUNTY BOARD OF COMMISSIONERS
+
+                                          Chair                 “LESLIE LEWIS
+                                                  Kath          <frprys
+                                          Commissioner!        | KATHY GEORGE
+APPROVED AS TO FORM:                                  Unavailable for signature
+SK           42      p     2              Commissioner             MARY P. STERN
+
+Rick Sanai
+Assistant County Counsel                                            F:\Users\sanair\LU\WachterBOFindingsZ-02-02.wpd
+
+                                                                                             ORDINANCE 726
+                                                                                                               Page 1
+
+                                                                                                      B.0. #6328
+                                                                               uk     69 ce L8G
+                                          ORDINANCE 726
+                                           EXHIBIT “A”
+
+HEARING DATE:          March 6, 2003 before the Planning Commission
+
+DOCKET NO.:            Z-02-02
+
+REQUEST:               Zone change from VLDR-2.5 Very Low Density Residential to AF-10 Agriculture
+                       Forestry Small Holding. The purpose of this request is to allow breeding, raising
+                       and training of equines. An approval of this request would also provide for riding
+                       lessons to general public.
+
+APPLICANT:             Robin L. Vachter
+
+TAX LOTS:              3219CA-901 and 902
+
+LOCATION:              24285 NE Zard Lane, Newberg, Oregon
+
+CRITERIA:              Sections 501 and 1208.03 of the Yamhill County Zoning Ordinance; the Yamhill
+                       County Comprehensive Plan.
+
+FINDINGS:
+
+A. Background Facts
+
+1.    Lot Size: Five (5) acres. The property is made up ofa southern portion of Lot G and Lot F of
+      Ramsey Terrace Estates Subdivision. This subdivision was platted on May 2, 1912.
+
+      Access:   Zard Lane from Hwy. 99W.
+
+      On-site Land Use: Tax Lot 3219CA-901, 902, located on the east side of Stevenson Road and
+      south side of Zard Lane, is wooded and relatively flat. The parcel contains a dwelling and two
+      large accessory buildings. There is an ongoing equestrian operation which includes raising, training,
+      selling ofhorses and providing riding lessons in cooperation with Chehalem Parks and Recreation.
+      The applicant also submitted a letter from City of McMinnville expressing an interest in the
+      equestrian program provided by the applicant.
+
+      Surrounding
+               Land Use: The surrounding area contains rural residential and small scale farm uses
+      on lots of approximately 1.5 to 10 acres in size. Inrecent years, several subdivisions have been
+      created to the west and south of the parcel. The surrounding parcels are very similar to the subject
+      area. Adjacent parcel to the southwest contains a cemetery. Chehalem Creek to the east of the
+
+                                                                                         ORDINANCE 726
+                                                                                                  Page 2
+                                                                             aut 49 nce 184
+       subject parcel forms the Newberg Urban Growth Boundary (UGB). The Newberg City Limits
+       boundary is approximately 700 feet to the east of the subject area.
+
+5.     Surrounding Zoning:      Adjacent land to the south and east is currently zoned AF-10
+       Agriculture/Forestry Small Holding. Land to the north and west is zoned VLDR-2.5 Very Low
+       Density Residential.
+
+6.     Soils: Sheet 15 of the Yamhill County Soil Survey indicates that the entire property is composed
+       of Amity (Am) agricultural Class II high-value soil. This type of soil exhibits slopes of 0 to 2%.
+
+ve     Taxes: The entire property is taxed at market value.
+
+8.     Water:   Existing well.
+
+9.     Sewage Disposal: Existing septic system.
+
+10.    Previous Actions: None.
+
+11.    Discussion: The VLDR zoning district allows one horse per one acre of land owned by the
+       propertyowner. The applicant wishes to keep a larger number of horses on the subject parcel
+       than is currently allowed in the VLDR zoning district. The applicant stated that she wishes to
+       breed, raise and train horses. As apart ofher activity, the applicant also intends to provide riding
+       lessons to the public.
+
+B. Ordinance Provisions and Analysis
+
+1.     The request complies with the standards and criteria in the Yamhill County Zoning Ordinance
+       (YCZO) Section 1208.02.         These provisions are:
+
+       (A)      That the proposed change is consistent with the goals, policies, and any other
+                applicable provisions of the Comprehensive Plan.
+
+       (B)      That there is an existing demonstrable need for the particular uses allowed by the
+                requested zone, considering the importance of such uses to the citizenry or the
+                economy of the area, the existing market demand which such uses will satisfy, and
+                the availability and location of other lands so zoned and their suitability for the uses
+                allowed by the zone.
+
+       (C)   _ That the proposed change is appropriate considering the surrounding land uses, the
+                density and pattern of development in the area, any changes which may have
+                occurred in the vicinity to support the proposed amendment and the availability of
+                utilities and services likely to be needed by the anticipated uses in the proposed
+                district.
+
+                                                                                          ORDINANCE 726
+                                                                                                     Page 3
+                                                                       sun TS ves 4482
+(D) — That other lands in the county already designated for the proposed use are either
+        unavailable or not as well-suited for the anticipated uses due to location, size, or
+        other factors.
+
+(E)   — That the amendment is consistent with the current Oregon Administrative Rules for
+        exceptions, if applicable.
+
+The zone change requires that the request complies with the goals and policies of the Yamhill
+County Comprehensive Plan. The 1976 Comprehensive Plan Map indicated the land is plan
+designated VLDR Very Low Density Residential. This was reaffirmed by the 1980 Exception
+Process as part of Code Area 1.8. The plan amendment portion of this request is not necessary
+in order to change the zoning district designation. There are several properties in the area which
+are plan designated VLDR but are zoned AF-10 Agriculture/Forestry Small Holding. The smallest
+minimum lot size this plan designation allows is two (2) acres. The property is five (5) acres in size.
+The present zoning on the subject property is VLDR-2.5. The AF-10 zone allows placement of
+asingle family dwelling on a parcel subject to septic and building permits. The proposed zoning
+designation of AF-10 allows the smallest minimum lot size of five (5) acres using lot size averaging.
+The AF-10 zone also allows farm use without the limitation on livestock. The subject parcel does
+contain a dwelling.
+
+Regarding Comprehensive Plan goals and policies, the land is currently planned and zoned for rural
+residential use. Policy II.A.1.a states:
+
+        Yamhill County will provide for preservation of farm lands through appropriate
+        zoning, recognizing comparative economic returns to agriculture and alternative
+        uses, changing ownership patterns and management practices, changing market
+        conditions for agricultural produce, and various financial incentives.
+
+In addition, Policy II.A.2.a states:
+
+        Yamhill County will continue to preserve areas for farm use which exhibit Class I
+        through IV soils as identified in the Capability Classification System of the U.S. Soil
+        Conservation Service.
+
+The entire site is composed of Class II soil and is primarily committed to the equestrian operation.
+
+The Comprehensive Plan commits the county to protect farm resources, so present use of the
+parcel should be the determining factor for an approval of this application. The site is currently
+used for an equestrian operation and the applicant stated that she will continue with the operation.
+(Finding A.3).
+
+Yamhill County Revised Goals and Policies - Policy I.H.1.g. states:
+
+Agricultural, forestry and mineral resource-oriented industry will be accommodated in areas
+close to the resources utilized, provided that such industrial uses are compatible with any
+                                                                                     ORDINANCE 726
+                                                                                              Page 4
+                                                                 FNL    rs)   47    LBS
+
+nearby urban development, city water supply and sewerage are not required, and waste
+discharges constitute no threat to the environment.
+
+Even though the equestrian operation is within 700 feet of the City of Newberg and near rural
+residential uses, the operation existed for many years without creating any conflicts with the other
+uses, and no city water or sewer is available to, or required by the equestrian operation.
+
+A significant part of the economy of Yamhill County is based upon agricultural and forestry related
+industries.
+
+Yamhill County Revised Goals and Policies - Policy LF.1.b. states:
+Yamhill County will encourage economic development projects which do not conflict with
+the predominant timber and agricultural character of the county.
+
+The proposed equestrian operation is an agricultural activity.
+
+Regarding criterion 1208.02 (B), the need relevant to this request is related an equestrian operation
+which will provide recreational and educational opportunities for children and adults in Yamhill
+County. The applicant submitted a letter from the City of McMinnville supporting this use. The
+City of McMinnville Parks and Recreation Department wishes to establish a relationship with the
+equestrian operation as noted in the letter. The applicant already has a working relationship with
+the Chehalem Parks and Recreation Department. The present zoning does not allow more than
+five horses on the parcel, which is not enough to continue the operation and provide services to
+both Park and Recreation programs. Criterion (B) requires the consideration of other land zoned
+for the requested use and their suitability for the uses allowed by the zone. While much of the
+county has lands in resource zoning which allows equestrian operation, the operation has been in
+existence on this property for some time. Since the applicant has a significant investment in the
+parcel and the improvements, it would be difficult to change the location of the operation.
+
+Regarding criterion 1208.02 (C), as noted in Finding A.4, the surrounding properties consists of
+rural residential and small scale farm uses. Approval of this zone change would allow establishment
+of an equestrian operation which is similar to farm uses in the surrounding area. Additionally, the
+request would limit the creation ofnew parcels and the ability to develop dwellings. As stated
+above, the property is five (5) acres in size which could be divided into two parcels and could have
+an additional single family dwelling established without additional land use approval. The number
+of permitted dwellings is reduced to one by this change in zoning to AF-10. Regarding theneed
+for utilities and services, the property already has a well and septic system for a single family
+residence. An equestrian operation would need adequate water, access and on-site parking.
+Water is provided by an on-site well. Access is by Zard Lane, and is certainly adequate. The
+subject parcel is five (5) acres in size and, therefore, should not have problem providing adequate
+parking for the operation. Based on the applicant’s preliminary map, there appears to be adequate
+room for the facilities needed to establish the use.
+
+                                                                                   ORDINANCE 726
+                                                                                            Page 5
+                                                                        can TOD ong ABS
+5:    Regarding criterion 1208.02 (D), the farm use is already established on the subject tract, see
+      Finding B.3, above.
+
+6.    Regarding criterion (E), the subject area is part of an exception Code Area 1.8 which was
+      excepted on April 23, 1980 as part of Yamhill County Ordinance No.234, therefore, the area is
+      not subject to Goals 3 and 4. The proposed 2.5-acre minimum lot size is not considered to be an
+      urban scale of development, so Goal 14 does not apply. No other Goals apply to this request, and
+      no additional exception is required.
+
+Gc.   Goal 12 (Transportation Rule) Provisions and Analysis
+
+1.    The provisions of the Transportation Planning Rule, implementing Goal 12, must be addressed.
+      OAR 660-12-060 contains the provisions that must be met:
+
+      ()      Amendments to functional plans, acknowledged comprehensive plans, and land use
+              regulations which significantly affect a transportation facility shall assure that
+              allowed land uses are consistent with the identified function, capacity, and level of
+              service of the facility. This shall be accomplished by either:
+              (a)     Limiting allowed land uses to be consistent with the planned function,
+                       capacity and level of service of the transportation facility;
+              (b)     Amending the TSP [Transportation System Plan] to provide transportation
+                      facilities adequate to support the proposed land uses consistent with the
+                      requirements of this division; or,
+              ())     Altering land use designations, densities, or design requirements to reduce
+                      demand for automobile travel and meet travel needs through other modes.
+
+      (2)     A plan or land use regulation amendment significantly affects a transportation
+             facility if it:
+              (a)      Changes the functional classification of an existing or planned transportation
+                      facility;
+              (b)     Changes standards implementing a functional classification system;
+              (c)   _ Allows types or levels of land uses which would result in levels of travel or
+                      access which are inconsistent        with   the functional   classification   of a
+                      transportation facility; or
+              (d)      Would reduce the level of service of the facility below the minimum
+                      acceptable level identified in the TSP.
+
+      Regarding (1) and (2), The applicant stated that she does not anticipate more than six automobiles
+      per day. This calculation is averaged over a year and is based on how many people she can handle
+      inaday. The Planning Department coordinated with the Public Works Department to assure that
+      the use would not exceed the capacity of the road. The response from the Public Works Director,
+      William A. Gille, P.E., P.L.S., concluded that six additional automobiles on Zard Lane would not
+      require a traffic impact study and he does not anticipate any degradation to the roadway.
+
+                                                                                       ORDINANCE 726
+                                                                                                    Page 6
+                                                                                FILE   fo     rape   LASS
+
+       Therefore, it appears that the proposed use is consistent with the identified function, capacity, and
+       level of service of the local roads.
+
+CONCLUSIONS:
+
+1,     The request is for a zone change from VLDR-2.5 Very Low Density Residential to AF-10
+       Agriculture/Forestry Small Holding
+
+2      The request complies with the Comprehensive Plan Goals and Policies.
+
+3.     The requested use is appropriate for the area considering the level of services needed and
+       available, and considering surrounding development.
+
+4.     The request complies with the Transportation Planning Rule.
+
+Based on the above findings, analysis, and conclusions, the Board approves the request by Robin L.
+Vachter for a zone change from VLDR-2.5 Very Low Density Residential to AF-10 Agriculture/Forestry
+Small Holding   on a tract of land identified as Tax Lot 3219CA-901 and 902.
+
+                                                                                            ORDINANCE 726
+                                                                                                      Page 7
+_                               _                                           :          wus   73    ae        LBB
+
+                EXHIBIT                "B"        FOR         ORDINANCE                      NO.        726
+
+                              ZONE CHANGE FROM
+                 VLDR-2.5 VERY LOW DENSITY RESIDENTIAL TO
+                 AF-1@ AGRICULTURE/FORESTRY SMALL HOLDING
+
+                                                                                                        233,08
+                                                                     <x
+                                                          Mi S SOKO
+
+                                                                     8
+                                                                     se
+
+                                                       SKS eeSKS
+                                                               ‘SKK
+                                                                soso
+                                                       x 282 “ S55
+                                                                Neca
+                                                                 6
+                                                             teoS
+                                                                 x
+                                                         SxS<%
+                                                             <S
+                                                             S
+                                                        <x
+                                                         i
+
+                      SOMOS                                         S28 <
+                               220
+
+PREPARED   BY   YAMHILL   COUNTY     DEPARTMENT   OF    PLANNING   AND   DEVELOPMENT
+
+                                                                                                  ORDINANCE 726
+           ‘| AREA SUBJECT     TO AMENDMENT                                                            EXHIBIT °B"
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 95.7% of
+the word sequence, and on 63.7% of the figures. Dictionary-recognizable words: 93.9%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

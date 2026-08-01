@@ -1,0 +1,483 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord606-pdf
+title: 'ORD606-PDF'
+doc_type: ordinance
+citation: 'ORD606-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17578/ORD606-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 4ad58e92e6a63815c44fd430c8b26602aae404a050e56e86e1575d1bcddbc1ff
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.970; figure agreement 0.837; dictionary ratio 0.941. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.045
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 97%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD606-PDF (ORD606-PDF)
+
+## At a glance
+
+OCR-derived text of ORD606-PDF. Not human-verified.
+
+## Full text
+
+Wa
+
+                                                                           cin 60 acc 137
+                IN THE BOARD OF COMMISSIONERS                  OF THE STATE OF OREGON
+
+                                    FOR THE COUNTY OF YAMHILL
+
+                       SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+     In the Matter of an Ordinance Amending the
+     Yamhill County Comprehensive Plan (1974) to
+
+                                                          SS
+     Change the Designation from Agriculture/
+     Forestry Small Holding to Commercial
+
+                                                          OO
+     Amending the Official Zoning Map from
+     Agriculture/Forestry (AF-10) to Recreation                    ORDINANCE 606 |
+     Commercial (RC) on Approximately 9 Acres,
+     Tax Lot 6801-3300;     Applicant Gene Zinda and
+     Alan Hay; Planning Docket PAZ-6-95; Effective
+     August 6, 1996.
+
+              THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON ("the Board")
+     sat for the transaction of county business in special session on May 8, 1996, Commissioners Robert
+     Johnstone, Thomas E.E. Bunn, and Dennis L. Goecks being present;
+
+            WHEREAS,      on December 11, 1995, the Department of Planning and Development received
+     an application from Gene Zinda and Alan Hay ("applicant"), Planning Docket PAZ-6-95, to change
+     the comprehensive plan designation from Agriculture/Forestry Small Holding to Commercial and
+     the official Zoning Map from Agriculture/Forestry (AF-10) to Recreation Commercial (RC), on an
+     approximately 9 acre parcel known as Tax Lot 6801-3300; and
+
+             WHEREAS, on February 1, 1996 the Yamhill County Planning Commission held a public
+     hearing to consider the application and continued the matter to March 7, 1996, at which time the
+     application failed to receive five votes required for approval and the Planning Commission referred
+     the matter with their comments to the Board; and
+
+            WHEREAS, on April 3, 1996, the Board held a public hearing on the application at which
+     testimony and evidence were received, and the matter was continued to April 10, 1996, and that
+     following the close of the hearing and the record, the Board deliberated and by vote of 2 to 1 (with
+     Commissioner Bunn voting against) tentatively approved the application for the comprehensive plan
+     amendment and zone change, and directed staff to prepare an ordinance and findings in support of
+     approval; and
+
+             WHEREAS, the findings and conclusions attached hereto as Exhibit "A" and incorporated
+     herein by this reference provide a justification for approval of the application; and
+
+            WHEREAS, on April 24, 1996, the Board met and heard the first reading of this ordinance
+     and thereafter heard the second reading on May 8, 1996; and
+
+                                                                                          ORDINANCE 606
+                                                                                                    Page 1
+                                                                                      rx 60 vce 138
+           WHEREAS, the attached Exhibit "A" demonstrates that the proposed amendments to the Yamhill
+County Comprehensive Plan, Plan Map, and Official Zoning Map of Yamhill County are in the best interests
+of the citizens of Yamhill County, NOW THEREFORE,
+
+           THE YAMHILL COUNTY BOARD OF COMMISSIONERS HEREBY ORDAINS                                         as follows:
+
+        Section 1.    The Yamhill County Comprehensive Plan and Plan Map (1974) are hereby amended
+as specified in the attached Exhibit "B", made part of this ordinance by reference, to reflect a plan
+designation of "Commercial" on the parcel described and shown in Exhibit "B".
+
+        Section 2.      The Official Zoning Map of Yamhill County is hereby amended as specified in the
+attached Exhibit "B" to reflect a zoning designation of "Recreation Commercial" on the parce! described and
+shown on Exhibit "B".
+
+           Section 3.               The findings attached as Exhibit "A" and incorporated herein by reference are hereby
+adopted in support of this ordinance.
+
+           Section 4.               Tn accordance with ORS 203.045(9), this ordinance shall become effective on August
+6, 1996.
+
+AYES:                       Commissioners Johnstone and Goecks.
+
+NAYS:               ’       Commissioner Bunn.
+
+           DONE at McMinnville, Oregon this 8th day of May, 1996.
+
+           BANA
+              ME Gy 9
+AT PES TOA                  de,                           YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+                                                          Conia             (] ROBERT JOHNSTONE
+                                                            /
+                                                           Ther                 €.€. Arn
+                                                          Commissioner           THOMAS     E.E. BUNN
+
+APPROVED                AS TO FORM         BY:
+
+   Of         ces       A       .                                           -
+  Magy                                                        Sa                 heel                A—
+JOHN C. PINKSTAFF                                         Commissioner           DENNIS L. GOECKS
+Yamhill Assistant County Counsel
+
+HA\admin\pinkstj\lu\ord606.2
+
+                                                                                                  ORDINANCE 606
+                                                                                                          Page 2
+                                              EXHIBIT "A"                        rid    60 vce       199
+                                              Ordinance 606
+
+    PLANNING COMMISSION REFERRAL:                   March 7, 1996
+
+    ADOPTION OF ORDINANCE BY BOARD OF COMMISSIONERS:                            April 24, 1996
+
+    DOCKET:                       PAZ-6-95
+
+    REQUEST:                      Zone change from AF-10, Agriculture Forestry, to RC, Recreation
+                                  Commercial; Comprehensive Plan map amendment from Agricul-
+                                  ture Forestry Small Holding to Commercial,      for the purpose of
+                                  allowing an RV park.
+
+    APPLICANT:                    Gene Zinda and Alan Hay
+
+    TAX LOT:                      6801-3300
+
+    LOCATION:                     At the southwest corner of the intersection of Grand Ronde Road
+                                  and Highway 22.
+
+    LOT SIZE:                     9 acres
+
+    REVIEW CRITERIA:              Section 1208 of the Yamhill County Zoning Ordinance.
+
+    FINDINGS:
+
+    A.     Background Facts
+
+    1.      Proposal:   The applicants are requesting a zone change and comprehensive plan
+    amendment in order to develop this property into an RV park. No details as to the exact design
+    of the RV park have been provided at this time. Site design review and compliance with Section
+    1003 of the YCZO, Travel Trailer Parks, will be required prior to the start of any development.
+
+    2.      Access: The property is adjacent to Grand Ronde Road and Highway 22. Approval from
+    the Oregon Department of Transportation would be required in order to directly access the state
+    highway. ODOT has indicated that it is unlikely that access to the highway would be approved
+    since alternative access is available from Grand Ronde Road.
+
+    3.      On-Site Land Use: The property is currently undeveloped but apparently has been used
+    for agriculture in the past. Agency Creek forms the western property line. Topography is
+    generally level except near the creek.
+
+    4.     Surrounding Land Use and Zoning:      The surrounding area contains a mixture of land uses
+—
+
+    and zoning districts.   Land on the eastern side of Grand Ronde Road is zoned VLDR-2.5 and
+
+                                                                                   Exhibit "A" - Page 1
+                                                                                        Ordinance 606
+                                                                        rin OO race 140
+consists of a number of small lots developed with residences. Land directly north of the subject
+property is zoned Public Assembly Institutional and is developed with a church. Other lands to
+the north are also zoned VLDR-2.5 and are developed with residences, although the average lot
+size in this area is larger than the residential area to the east. The northeast corner of the
+intersection is zoned Neighborhood Commercial and contains a commercial building that appears
+to have been used as a store, but is now closed.      Lands to the west and south are zoned AF-10.
+The nearest agricultural or forest resource land is more than 1/4 mile away.
+
+5.      Water:    The property is within the Grand Ronde Water District.     A letter in the file from
+the water district indicates that they have adequate water supply to serve the proposed RV park.
+
+6.       Sewage Disposal: The property is within the Grand Ronde Sewer District. A letter in the
+file from the sewer district indicates that they have adequate sewer capacity to serve the proposed
+development.
+
+7.      Fire Protection:      The property is within the Willamina Rural Fire District, who have
+indicated that there would be no conflicts related to providing fire service to the site.
+
+8.      Taxes:   The property is receiving a farm tax deferral.
+
+9.      Soils:   Sheet 53 of the Soil Survey shows that the area consists entirely of Grand Ronde
+silty clay loam, Class III.    This soil is not high-value farmland.
+
+10.     Previous Actions:      The parcel was created by partitioning in 1984 (docket P-1396-84).
+
+B.      Zone Change Review Criteria and Analysis
+
+1.      The request must comply with the standards and criteria in the Yamhill County Zoning
+Ordinance (YCZO) Section 1208.02.          These provisions are:
+
+        "A.      That the proposed change is consistent with the goals, policies, and
+                 any other applicable provisions of the Comprehensive Plan.
+
+        "B.      That there is an existing demonstrable need for the particular uses
+                 allowed by the requested zone, considering the importance of such
+                 uses to the citizenry or the economy of the area, the existing market
+                 demand which such uses will satisfy, and the availability and
+                 location of other lands so zoned and their suitability for the uses
+                 allowed by the zone.
+
+        "C.      That the proposed change is appropriate considering the sur-
+                 rounding land uses, the density and pattern of development in the
+                 area, any changes which may have occurred in the vicinity to
+
+                                                                                   Exhibit "A" - Page 2
+                                                                                         Ordinance 606
+                                                                       rik BO rxce 141
+               support the proposed amendment and the availability of utilities and
+               services likely to be needed by the anticipated uses in the proposed
+               district.
+
+        "D.    That other lands in the county already designated for the proposed
+               use are either unavailable or not as well-suited for the anticipated
+               uses due to location, size, or other factors.
+
+        "E.    That the amendment is consistent with the current Oregon Ad-
+               ministrative Rules for exceptions, if applicable."
+
+       These criteria are addressed in Findings B.2 through B.6, below.
+
+2.     The Board finds that the proposed change is consistent with the goals, policies, and any
+other applicable provisions of the Comprehensive Plan, as required by YCZO       § 1208.02A.
+
+2.1    Regarding Comprehensive Plan goals and policies, Policy (h) of Goal I.G.1 addresses
+commercial development:
+
+       “Recreational commercial uses will be encouraged to locate within urban growth
+       areas or in compatible urban commercial areas where their location and space
+       requirements can be most satisfactorily fulfilled."
+
+        An RV park normally requires a larger lot than would be found in an urban commercial
+area. Grand Ronde is an unincorporated community, so has no defined urban growth boundary.
+The subject property is approximately one mile from the center of the community, so is consistent
+with this policy.
+
+2.2    Policy (j) of Goal II.C.1. addresses stream protection, as follows:
+
+       "It is the policy of Yamhill County to protect riparian vegetation from damage that
+       may result from land use applications for development that is otherwise permitted
+       outright or conditionally under county zoning regulations. To achieve this goal,
+       Yamhill County will review land use applications for development in riparian
+       vegetation that might result from the development. For purposes of this policy,
+        "riparian areas” refers to areas within 100 feet measured horizontally from the
+       ordinary high water line of streams identified as "Fish habitat” in the compre-
+       hensive plan inventory (Natural) Resource Conservation Plan, Yamhill County,
+       Oregon May 1979 - U.S.D.A - Soil Conservation Services), that are not regulated
+       under the Forest Practices Act.”
+
+        Agency Creek, which borders the western property line of the site, is shown as a spawning
+and rearing stream for resident trout and anadromous fish. Consequently, any future commercial
+
+                                                                                Exhibit "A" - Page 3
+                                                                                      Ordinance 606
+                                                                                rin OO vace ‘Uae
+     development will be required to maintain the 100 foot setback required by the Comprehensive
+     Plan.
+
+     3.     The Board finds that there is an existing demonstrable need for the particular uses allowed
+     by the requested zone, considering the importance of such uses to the citizenry or the economy
+     of the area, the existing market demand which such uses will satisfy, and the availability and
+     location of other lands so zoned and their suitability for the uses allowed by the zone, as required
+     by YCZO §1208.02B.
+
+     3.1     There is a demonstrable need for the proposed RV park. Construction of the Spirit
+     Mountain casino has led to an increase in the number of people visiting the Grand Ronde area,
+     and this will generate those visitors who might be interested in overnight RV accommodations.
+     There are no other lands in this area of Yamhill County that are zoned to allow an RV park. A
+     small RV park currently exists in Polk County in the Fort Hill area. An RV park with 72 sites,
+     located on the south side of Highway 18, east of Fire Hall Road, was recently approved by Polk
+     County. The Confederated Tribes of the Grand Ronde also have plans to build an RV park
+     adjacent to the casino. The applicants submitted information from a number of RV clubs in the
+     region attesting to the need for additional RV parks in the area. Given the high volume of traffic
+     on highway 18 there is a demonstrable need for four RV parks in the Fort Hill/Grand Ronde area.
+
+     4.       The Board finds that the proposed change is appropriate considering the surrounding land
+     uses, the density and pattern of development in the area, any changes which may have occurred
+     in the vicinity to support the proposed amendment and the availability of utilities and services
+     likely to be needed by the anticipated uses in the proposed district, as required by YCZO
+rm
+
+     §1208.02C.
+
+     4.1      The primary surrounding land use is residential, with higher density to the east and north
+     and lower density and larger lot sizes to the west and south.            There is a potential for
+     incompatibilities between the established residential areas and the transient visitors who would
+     patronize the RV park, although existing roads and the Agency Creek riparian area would provide
+     some buffering, which will mitigate possible conflicts relate to noise, lighting and increased
+     traffic. The Board finds that the proposed change is appropriate considering the surrounding land
+     uses.
+
+     4.2      The primary change which has occurred in the area which supports the need for the
+     proposed amendment is the development of the Spirit Mountain casino, which is attracting visitors
+     to the area and has presumably produced a need for overnight accommodations for casino patrons.
+     The Board finds that the proposed change is appropriate considering the density and pattern of
+     development in the area, and any changes which may have occurred in the vicinity to support the
+     proposed amendment.
+
+     4.3      Regarding the availability of utilities and services that will be needed by the RV park, the
+     applicant has.submitted letters indicating that the subject property could be served by the Grand
+     Ronde Community Water Association and Grand Ronde Sanitary District. The availability of
+     these utilities makes this site more appropriate for an RV park than most other areas of the county,
+
+                                                                                       Exhibit "A" - Page 4
+                                                                                            Ordinance 606
+                                                                       rick 60 vce 143
+which would have to rely on septic systems and wells. The Willamina Fire District, which serves
+the area, has not indicated any problems with providing fire protection services.
+
+4.4     The adequacy of the existing transportation system requires consideration. Several letters
+have been submitted, and testimony was offered at the Planning Commission hearing expressing
+concerns about traffic safety, particularly at the intersection of Grand Ronde Road and Highway
+22. The applicants have submitted a traffic impact study prepared by Associated Transportation
+Engineering and Planning (ATEP). That study indicates that an RV park at the site will generate
+approximately 320 vehicle trips per weekend day. The study finds that this will have no net
+impact on the surrounding street system, but does recommend construction of a 150" left turn lane
+for northbound traffic into the site from Grand Ronde Road.
+
+        OAR 660-12, the Transportation Planning Rule that administers Goal 12, requires that any
+amendment to the Comprehensive Plan that will affect a transportation facility must assure that
+the allowed use is consistent with the function, capacity and level of service of the facility. Since
+the ATEP study indicates that the RV park would not change the functional classification of the
+roads in the area, the proposed zone change and comprehensive plan amendment comply with
+requirements of the Transportation Planning Rule. The Director of Public Works has indicated
+a specific concern about pedestrian traffic in the area and the Jack of shoulders or other safe
+walking areas.
+
+        The Board finds that compliance with this provision in YCZO §1208.02C will be assured
+by imposing a condition which will require the applicants to construct a left turn lane into the site
+on Grand Ronde Road, and provide a paved shoulder for bicycle and pedestrian traffic adjacent
+to the site.
+
+4.5.    The Yamhill County Department of Public Works indicated staff reviewed the file and find
+no conflicts with our interests. Any new road approaches to the county road will require a permit.
+ODOT submitted a letter expressing concerns about impact on the transportation network. The
+project is subject to the Transportation Planning Rule, which requires that the use be consistent
+with the function, capacity and level of services of transportation facilities. Traffic would have
+a direct impact on Highways 18 and 22, and add to congestion at the Highway 18 - Highway 22
+and Highway 18 - Grand Ronde Road intersections. ODOT requests that a transportation impact
+study be prepared by the applicant and approved by both the county and ODOT prior to approval
+of the zone change. Access to the site from Highway 22 is unlikely to be approved. In response
+to ODOT's concerns, applicants submitted a transportation impact study for approval by both the
+county and ODOT.
+
+        The Board finds that the transportation impact study satisfies the concerns expressed by
+ODOT, and that the proposed change is appropriate considering the availability of utilities and
+services likely to be needed by the anticipated uses in the proposed district.
+
+5.     The Board finds that other lands in the county already designated for the proposed use are
+either unavailable or not as well-suited for the anticipated uses due to location, size, or other
+factors, as required by YCZO §1208.02D as follows.
+
+                                                                                  Exhibit "A" - Page 5
+                                                                                         Ordinance 606
+                                                                                    rik OO rxce 144
+       5.1     The RC district is the only zoning district that permits private RV parks. (The Parks,
+       Recreation and Open Space, PRO district allows public travel trailer parks, such as might be
+amin
+
+       operated by the State Parks Department, but not private parks.) The applicants have indicated that
+       this location has been chosen in order to be within reasonable distance of the Spirit Mountain
+       casino.
+
+               There is no other land in Yamhill County zoned RC within the vicinity of the casino
+       (although, as discussed in Finding B.3, there is other land in Polk County that may be rezoned
+       for an RV park, and there is tribal land near the casino which may be used for an RV park).
+       There is other undeveloped land zoned RC near the Flying M Ranch, but its location is obviously
+       not as well-suited to serve casino clientele. All other land in the county zoned RC is already
+       developed.
+
+       6.      The Board finds that the amendment complies with YCZO §1208.02E. The property is
+       zoned AF-10, so an exception to Statewide Planning Goals 3 and 4 has already been taken. As
+       indicated in Finding B.4, the request is consistent with Goal 12, the Transportation Planning Rule,
+       so an exception to that goal is not required.
+
+       CONCLUSIONS:
+
+       1.      The request is for an amendment to the Yamhill County Comprehensive Plan map from
+       Agriculture/Forestry Small Holding to Commercial, and a zone change from AF-10
+       Agriculture/Forestry to RC Recreation Commercial.
+
+       2.         The proposal complies with the criteria YCZO   §1208.02.
+
+       DECISION:
+
+       Based on the findings and conclusions, the request for a zone change from AF-10 to RC, and a
+       Comprehensive Plan amendment from Agriculture Forestry Small Holding to Commercial for the
+       purpose of allowing an RV park on Tax Lot 6801-3300, is hereby approved, subject to the
+       following conditions:
+
+       1.      Prior to any development of the property, the applicant shall receive site design approval,
+       pursuant to Section 1101 of the Yamhill County Zoning Ordinance.
+
+       2.    Any development shall maintain a 100 foot setback from the normal high water mark of
+       Agency Creek, and all existing riparian vegetation shall be maintained within this setback area.
+
+       3.       At the time of site development, the developers shall be responsible for construction of a
+       150 foot long left turn lane on Grand Ronde Road to provide access to northbound traffic, and
+       shall widen the shoulders along Grand Ronde Road adjacent to the site for pedestrian and bicycle
+       traffic. In the alternative, and if approved by the County Public Works Director, a bond may be
+       posted to insure future construction of these improvements.
+       H:\admin\pinkstj\lu\96. 114
+
+                                                                                        Exhibit "A" - Page 6
+                                                                                             Ordinance 606
+                                                            ix     GO race 145
+     EXHIBIT        "B" FOR        ORDINANCE            No.       606
+                ZONING AND COMPREHENSIVE PLAN
+                        MAP AMENDMENT
+                 TO CHANGE THE ZONING MAP
+                       DESIGNATION FROM
+       "AF-10" AGRICULTURE/FORESTRY SMALL HOLDING
+               TO "RC" RECREATION COMMERCIAL
+
+                         STATE     HIGHWAY     22
+
+                                               RD
+                                               RONDE
+                                               GRAND
+
+                                                                 NOT TO SCALE
+
+                           AREA SUBJECT TO COMPREHENSIVE
+                           PLAN AND ZONE MAP AMENDMENT
+                           TAX LOT 6801-3300
+
+PREPARED   BY YAMHILL   COUNTY   DEPARTMENT   OF PLANNING   AND    DEVELOPMENT
+
+                                                                 ORDINANCE      = 606
+                                                                 Exhibit "B"
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.0% of
+the word sequence, and on 83.7% of the figures. Dictionary-recognizable words: 94.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

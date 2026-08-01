@@ -1,0 +1,319 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord856-pdf
+title: 'ORD856-PDF'
+doc_type: ordinance
+citation: 'ORD856-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17327/ORD856-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 4a245a5142e90ff73f225450212ad2cc38d9cd8a73b49e5ee0b8f04cbcfd267e
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.955; figure agreement 0.833; dictionary ratio 0.946. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.780
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 96%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD856-PDF (ORD856-PDF)
+
+## At a glance
+
+OCR-derived text of ORD856-PDF. Not human-verified.
+
+## Full text
+
+BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                                 FOR THE COUNTY OF YAMHILL
+
+                    SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Approval of a Zone Change from AF-80                   )
+Agriculture/Forestry, to F-80 Forestry, Applicant Old Elk               )    Ordinance 856
+Mountain Tree Farm LLC, Tax Lot 5725-1000, Planning                     )
+Docket Z-03-10, and Declaring an Emergency                              }
+
+           THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board)
+sat for the transaction of county business on July 21, 2010, Commissioners Kathy George, Leslie
+Lewis, and-Mary-P--Sterm being present.
+
+           IT APPEARING TO THE BOARD that Old Elk Mt. Tree Farm, LLC                  applied for a Zone
+Change from AF-80, Agriculture/Forestry to F-80, Forestry, and
+
+          IT APPEARING TO THE BOARD that the Planning Commission heard this matter at a
+duly noticed public hearing on July 1, 2010 and heard from the applicant (there being no opponents),
+then voted unanimously to approve the application, NOW, THEREFORE,
+
+          IT IS HEREBY ORDAINED BY THE BOARD, that the application is approved detailed
+in Exhibit "A," the Findings for Approval, hereby incorporated into this Ordinance by this reference.
+This ordinance, being necessary for the health, safety, and welfare of the citizens of Yamhill County,
+and an emergency having been declared to exist, is effective immediately.         A map is appended as
+Exhibit "B".
+
+           DONE this 21st day of July, 2010, at McMinnville, Oregon.
+
+ATTEST:                                YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+County Clerk                Pe                          J      OQ -     KATHY GEORGE
+
+      ‘                                          Unavailable for signature
+
+       Ai
+Deputy Anne Britt                      Aoufimissioner                   MARY P. STERN
+
+APPROVED AS TO FORM:                   Ze oe            a   Ube:ae
+    Vi          2       y                 mmissioner                    LESLIE LEWIS
+
+Rick Sanai
+Senior Assistant County Counsel
+                                                                                     €.o0.l0-48s5
+                                                            Ordinance 856 - Old Elk Mountain Tree Farm LLC
+Findings   - Docket Z-03-10 (Old Elk Mountain Tree Farm, LLC)
+Page 2
+
+FINDINGS FOR APPROVAL
+
+DOCKET NO.:             Z-03-10
+
+REQUEST:                Zone change from AF-80, Agriculture/Forestry to F-80, Forestry.
+
+APPLICANT:              Old Elk Mt. Tree Farm, LLC
+
+TAX LOT:                5725-1000
+
+LOCATION:               East of the intersection of Willamina Creek Road and Tindle Creek Road
+
+AREA SIZE:              The entire parcel is 415.3 acres. The area proposed to be rezoned is
+                         approximately 300 acres.
+
+CRITERIA:               Sections 401, 403 and 1208 of the Yamhill County Zoning Ordinance; the
+                        Yamhill County Comprehensive Plan Goals and Policies.
+
+FINDINGS:
+
+A, Background Facts
+
+1.       Lot Size: Approximately 415.3 acres.
+
+2.       Access: The parcel has frontage on Willamina Creek Road.
+
+3.       On-Site Land Use: The application states the parcel is currently in forest use with some areas
+         that are open fields. The application contains a detailed description of the previous forest
+         operations. The parcel contains one single family dwelling.
+
+4,       Surrounding Zoning and Land Use: The surrounding area to the south and west is zoned AF-
+         10, Agriculture/Forestry, and the property to the north and east is zoned F-80, Forestry and
+         AF-80, Agriculture/Forestry. The surrounding area is primarily forested with some rural
+         residences. The area parcel sizes range from approximately 10 to 100 acres.
+
+5.       Water: Grand Ronde Water District.
+
+6.       Sewage Disposal: Existing septic system.
+
+7.       Soils: See the Yamhill County Soil Analysis Detail in the file.
+
+8.       Fire Protection: West Valley Rural Fire District.
+
+9.       Taxes: The Yamhill County tax records show the parcel is receiving forest deferral.
+
+10,      Overlay Zones: None.
+
+                                                             Ordinance 856 - Old Elk Mountain Tree Farm LLC
+                                                                                     Bo- (D-43as
+Findings     - Docket Z-03-10 (Old Elk Mountain Tree Farm, LLC)
+Page 3
+
+B.   Ordinance Provisions and Analysis
+
+1.      The Board finds that the request complies with the review criteria found in Section 1208.03
+        of the Yamhill County Zoning Ordinance, as follows:
+
+        Review           Criteria     for   Amendments     to   or     within     Exclusive     Farm      Use     and
+        Agricultural/Forestry Zones
+
+        A quasi-judicial zone change to (1) amend the designation of land from Exclusive Farm Use,
+        Agriculture/Forestry, or Forest to another of these zones, or (2} change the minimum lot size
+        of land designated Exclusive Farm Use or Agriculture/Forestry, may be authorized, pursuant
+        to Subsection 1208.01, provided that the request satisfies all applicable requirements of this
+        ordinance, and also provided that the applicant demonstrates compliance with the following
+        criteria:
+
+        A,          The proposed amendment shall comply with the goals, policies, and other applicable
+                 provisions of the comprehensive plan.
+
+                 The proposed designation shall be appropriate for the existing or intended use of the
+                 property.
+
+                    The proposed amendment shall result in an area of at least           160 contiguous acres with
+                    the requested designation, including adjacent land.
+
+                    For proposed changes within or to an Exclusive Farm                 Use designation, the new
+                    minimum         lot size shall be appropriate      to maintain      the existing commercial
+                    agricultural enterprise in the area.
+
+                    For proposed changes within or to an Agriculture/Forestry designation,                   the new
+                    minimum lot size shall be shown to assure:
+
+                    L.        The opportunity for economically efficient forest and agriculture practices
+                              typically occurring in the area; and
+
+                    2,        The opportunity for the continuous growing and harvesting of forest tree
+                              species; and
+
+                    3.        The conservation of other forest values found on forest lands.
+
+                    Any amendment that would change the zone map designation to reduce the minimum
+                    lot size on property within an Exclusive Farm Use or Agriculture/Forestry district
+                    shall not be granted final approval by Yamhill county until the amendment has been
+                    considered and approved by the Land Conservation and Development Commission
+                 pursuant to ORS 215.780(2).          The following rules shall apply:
+
+                                                                     Ordinance 856 - Old Elk Mountain Tree Farm LLC
+Findings   - Docket Z-03-10 (Old Elk Mountain Tree Farm, LLC)
+Page 4
+
+                 1.      Conditional approval. Following receipt of an application for a zone change
+                         as otherwise provided by this ordinance, the county shall determine whether
+                         to grant or deny the application in accordance with criteria established in this
+                         section 1208.03. Ifthe application is granted, the county shall enter an order
+                         of conditional approval, subject to final approval by the Land Conservation
+                         and Development Commission.
+
+                 2.      Referral of Order of Conditional Approval. After conditional approval by
+                         Yamhill County, the application, county findings, order of conditional
+                         approval and a request for Commission action shall be referred to the
+                         Department of Land Conservation and Development.
+
+                 3.     Final Approval. An amendment conditionally approved by Yamhill County
+                         shall not take effect until the county adopts an order or ordinance authorizing
+                        final approval after receipt of written confirmation of the county's conditional
+                         approval by the Land Conservation and Deéfethogmdeut lio@mdisi@il 2/30/96]
+
+         The above criteria are addressed in Findings B.2 through B.5 below.
+
+         Regarding criterion (A), applicable goals from the Yamhill County Comprehensive Land Use
+         Plan, Section II.A.1, Goal reads:
+
+                 To conserve Yamhill County’s farm lands for the production of crops and livestock
+                 and to ensure that the conversion of farm land to urban use where necessary and
+                 appropriate occurs in an orderly and economical manner.
+
+         The majority of the subject parcel is currently in forest use and has been predominantly in
+         forest use in the past. According to the application the parcel has been receiving forest deferral
+         since at least 1974. The proposed zone, F-80, would more accurately reflect the existing uses
+         on the subject parcel. The applicant is not proposing an urban use; the minimum lot size is to
+         remain 80 acres.
+
+         Section JLA.2, Goal reads:
+
+                 To conserve Yamhill County’s soil resources in a manner reflecting their suitability
+                Jor forestry, agriculture and urban development and their sustained use for the
+                purposes designated on the county plan map.
+
+         The Yamhill County Soil Survey shows the majority of the portion of the parcel to be rezoned
+         is composed of soils capable of producing at least 145 cubic feet of wood fiber per acre per
+         year. The application states the majority of the property consists of hilly ground with slopes
+         generally in the 10% to 20% slope range. The requested zone change will preserve the
+         County’s soil resources for their suitability for forest use.
+
+         Section II.B.1, Goal reads:
+
+                                                              Ordinance 856 - Old Elk Mountain Tree Farm LLC
+Findings   - Docket Z-03-10 (Old Elk Mountain Tree Farm, LLC)
+Page 5
+
+               To conserve and to manage efficiently the county’s forest and range resources, thereby
+               ensuring a sustained yield of forest products, adequate grazing areas for domestic
+               livestock, habitat for fish and wildlife, protection of forest soils and watershed, and
+               preservation of recreational opportunities.
+
+       As described above, the proposed zone change would conserve the county’s forest resources
+       that currently exist on the property.
+
+3.     Regarding criterion (B), as mentioned above, the majority of the subject parcel is currently in
+       forest use and the applicant states they intend to continue timber use on the property; the zone
+       change from an agriculture/forestry zone to a forestry zone would more accurately reflect the
+       current and intended use of the property.
+
+4,     Regarding criterion (C), the subject parcel is approximately 415.3 acres and approximately 114
+       acres of the parcel is currently zoned F-80. Additionally, the subject site is adjacent to land to
+       the east that is currently zoned F-80, therefore, the request is consistent with criterion (C).
+
+5.     Regarding criteria (D), (E) and (F), these criteria are not applicable since the request does not
+       include reducing the minimum lot size on the property.         The applicant wishes to keep the
+       minimum lot size at 80 acres.
+
+CONCLUSION:
+
+1.     The request is for a zone change from AF-80, Agriculture/Forestry to F-80 Forestry Use. The
+       total area proposed to be rezoned is approximately 300 acres.
+
+2.     The zone change is appropriate due to the fact that the majority of the parcel is currently in
+       forest use and is well suited for forest uses.
+
+3.     The request complies with the criteria listed in Section 1208.03 of the Yamhill County Zoning
+       Ordinance and is consistent with the applicable goals found in Yamhill County’s
+       Comprehensive Plan.
+
+4.     The proposed designation is appropriate for the existing and intended use of the property.
+
+DECISION:
+
+Based on the above findings and conclusions, the request by Old Elk Mountain Tree Farm, LLC, for
+a zone change from AF-80, Agriculture/Forestry to F-80, Forestry Use on approximately 300 acres
+of Tax Lot 5725-1000, is hereby approved.
+
+                                                                                           “B-0.(0 -435~
+                                                            Ordinance 856 - Old Elk Mountain Tree Farm LLC
+                 EXHIBIT MAP FOR ORDINANCE NO. 856
+                            ZONE CHANGE
+      ADOPTED BY THE YAMHILL COUNTY BOARD OF COMMISSIONERS
+                             JULY 21, 2010
+                      FOR A ZONE CHANGE FROM
+                            AF-80 Agriculture/Forestry
+                                        TO
+                                 F-80   FORESTRY
+
+CHANGE APPLIES TO TAX LOT 5725-1000 DESCRIBED AND HIGHLIGHTED ABOVE
+
+APPROXIMATE SCALE - 1 INCH = 900 FEET
+
+                                                            B.o-10-435
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 95.5% of
+the word sequence, and on 83.3% of the figures. Dictionary-recognizable words: 94.6%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

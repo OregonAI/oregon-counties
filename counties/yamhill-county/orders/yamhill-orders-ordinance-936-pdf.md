@@ -1,0 +1,1803 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ordinance-936-pdf
+title: 'Ordinance-936-PDF'
+doc_type: ordinance
+citation: 'Ordinance-936-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/15432/Ordinance-936-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: bcb40ffe6d1d57cfa7a3ac95816450e80c8b5f557aa65e43baaf7edc65b6510c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.944; figure agreement 0.747; dictionary ratio 0.898. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 162.075
+    - ORS 195.300
+    - ORS 30.930
+    - ORS 92.010
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 94%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Ordinance-936-PDF (Ordinance-936-PDF)
+
+## At a glance
+
+OCR-derived text of Ordinance-936-PDF. Not human-verified.
+
+## Full text
+
+IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                                  FOR THE COUNTY OF YAMHILL
+
+                     SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter   of Approving    a Zone    Map
+Change from Exclusive Farm Use (EF-80) to                   ORDINANCE       936
+Agriculture Forestry Small Holding (AF-10)
+for Tax Lots: R4307 02301; Applicant: Caleb
+and Haley Bunn; and Declaring an Emergency
+
+THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board) sat for
+the transaction of county business on August 15, 2024, Commissioners Lindsay Berschauer, Kit
+Johnston, and Mary Starrett being present.
+
+IT APPEARING        TO THE BOARD     as follows:
+
+       WHEREAS, On March 4, 2024, Caleb and Haley Bunn requested a zone map change for
+Tax Lot R4307 02301 from Exclusive Farm Use (EF-80) to Agriculture Forestry Small Holding
+(AF-10) on the portion of their property with the Comprehensive Plan designation of Very Low
+Density Residential (VLDR); and
+
+        WHEREAS, This matter came before the Planning Commission for public hearing on
+July 11, 2024, and the Planning Commission voted unanimously to recommend approval of the
+application by the Board of Commissioners; and
+
+       WHEREAS, Pursuant to YCZO         1208.01(C), the Board is not required to hold an
+additional public hearing if the zone map change request does not include a Comprehensive Plan
+map amendment; and now, therefore
+
+THE BOARD ORDAINS AS FOLLOWS:
+
+       Section 1.      Tax Lot No. R4307 02301, as identified in-the attached Exhibit A, is
+hereby rezoned to Agriculture Forestry Small Holding (AF-10).
+
+         Section 2.    The findings attached as Exhibit B, and incorporated herein by this
+reference, are hereby adopted in support of this Ordinance.
+
+         Section 3.    This Ordinance being necessary for the health, safety, and welfare of the
+citizens of Yamhill County, and an emergency having been declared to exist, is effective
+immediately.
+
+//
+
+                                                                  Yamhill County Ordinance No. _936__
+                                                                                             Page 1 of 2
+                                                                                            B.O. 24-256
+DATED    this 15th day of August 2024, at McMinnville, Oregon.
+
+                                    YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+ATTEST                                                                                      AYE      NAY
+                                    posta facclaur)                                          x
+KERI HINTON              .          Chair LINDSAY BERSCHAUER
+County Clerk                 :
+
+py.   on,
+      Cand hte   Jick,
+Deputy CAROLINA ROOK
+                                     ke Lab  dh.
+                                    Commissioner KIT JOHNSTON
+                                                                                            x
+
+FORM APPROVED BY:
+
+JODI GOLLEHON                       Commissioner MARY STARRETT
+Assistant Yamhill County Counsel
+
+                                                                   Approved by the Yamhill County Board of
+
+                                                                   Comunissioners on 08/15/2024
+
+                                                                   via Board Order 24-256
+
+                                                                 Yamhill County Ordinance No. 936__
+                                                                                                   Page 2 of 2
+                                                                                                                                                        Woo'sdeWAJUNOO|IYWeA MAWYy/:SAAY
+Wh
+       40 | eBed                                                                                                     all
+       vgs
+                                          ——                 +                                     J                                                                 400?
+       9sz-rz O'a—                    =
+
+                                                                                                                                                                                                PAGE __| OF__[
+                                                                                                                                                                                    6 EXHIBIT
+                                                                                         ta
+     HSV
+                                               ner
+                                                                   ya}
+                                                     —   =       sei                 |        |   r     yf                                            ALO                        gqalo er
+                     fee}
+                     eo)
+                            oy
+                                 st
+
+                                                                                                                     )
+
+                                                                                                                          )
+                                                                                                                               +
+                                                                                              /                 ie        ae             | ‘o]              aoe|d JO Sseippe pul}          )
+                                                                                                                                         —                   -              -        aU)           ered
+                                                                                ET                vey   oupeledyy Senet    gap yep,   Sites   teeny     aecoz        SID        DG                  ?
+                                                                  Wes]   WANE
+                                                         g€z0z SID Band                                                                                                         Wd beh ‘€z/L/Zb
+WL
+                                             Woo'sdewAjUNOO|IYLUeAMAMy//:ScU
+                                                       4009
+                     8L ey
+
+                                                                                      Page 2 of 3
+                                                                      =
+              LbOV
+
+                                                                  (3
+                                                                            _! OF.,
+                                                                      EXHIBIT
+                                                                            PAGE
+                               | L-YqyIA
+                               Scud.
+f    08-445
+                                 L-UaTA
+                                                a5
+                                           90e|d Jo sseuppe pul      oy ,
+                     EZ?     SID aNIGNd
+                                                              We vE:h ‘€z/Z/zb
+                                                                                                                        Wy: sayy
+                                                                                                                 I YWeANOO
+                                                                                                       Woo" SdeWAJU
+
+                                                                                                                                         Page 3 of 3
+                               veo
+              a
+              2
+              a
+              2
+                       veo”
+                  =
+                  Hy
+                                                                                                                                     .
+TTpPSts   a
+                                     Ye                                                                                                  ;
+                              MILT   STS,       he                                            [%       90e|   d e puld
+                                                                                                         Jo sseipp              J.           4
+                              Mid tbiddidddidte—          8                                                                   i
+                                      SUED IE   ER TES,       stone a ydety haniclelae 949   no HHUA   GEZOZ SID HGNd
+                                dezoz si sand                                                                        Wd £1: '€Z/L/Zb
+i
+    Docket Z-01-24 Wright/Bunn
+           ee
+e
+——————   es.
+       SES
+
+                                 I.   Staff Report
+
+                                                Exhibit B
+                                             Page 1 of 41
+    YAMHILL COUNTY DEPARTMENT OF PLANNING AND DEVELOPMENT
+                         STAFF REPORT
+    SE      — ———————————                    SS
+
+    HEARING DATES: July 11th — Planning Commission Hearing
+                   TBD — Board of Commissioners Hearing
+
+    DATE:                   June 26, 2024
+
+    DOCKET NO.:             Z-01-24
+
+    REQUEST:                Approval of a zone change from Exclusive Farm Use (EF-80) to
+                            Agriculture Forestry Small Holding (AF-10).
+
+    APPLICANT:              Gothexiie Wright
+
+    OWNER:                  Caleb and Haley Bunn
+
+    TAX LOT:                4307-2301
+
+    LOCATION:               Located to the south of address 290 SE Locks Rd. Dayton.
+
+    ZONE:                   EF-80, Exclusive Farm Use
+
+    CRITERIA:               Sections 402, 501 and 1208.02 of the Yamhill County Zoning
+                            Ordinance. Oregon Administrative Rule, OAR 660-12-0060
+                            Transportation Planning Rule.
+
+    REFERRALS:              Public Works — No comments received to date.
+                            Dayton Rural Fire District - No comments received to date.
+                            SWCD- No comments received to date.
+                            ODOT — No comments received to date.
+                            Water Master — No comments received to date.
+                            DLCD —No comments received to date.
+                            Sanitarian — No comments received to date.
+
+    EXHIBITS:               I         Staff Report
+                            Il.       Application
+                                      a. Letter of Incompleteness
+                                      b. Response to Letter of Incompleteness
+                            Ill.      Exclusive Farm Use EF-80 and Agriculture and Forestry Small
+                                      Holding (AF-10) Zoning Ordinances
+                            IV.       Public Notice
+                            V.        Public Agency Reports
+                            VI.       Comments Received
+
+5                 a                                           SS                           SERS
+    Docket Z-01-24 | Bunn                                                                    Page 1
+                                                                                                Exhibit B
+                                                                                            Page 2 of 41
+ YAMHILL COUNTY DEPARTMENT OF PLANNING AND DEVELOPMENT
+                                        STAFF REPORT
+
+FINDINGS:
+
+A.      Background Facts
+
+ L      Parcel size:    14.7 acres
+
+2.      Access: There is a proposed driveway with access to SE Locks Rd.
+
+3.      On-site Land Use: Currently the parcel is being used for farming including raising
+        Christmas trees, flowers, bees, and grazing cattle, There are no structures on the
+        property. Henry Creek runs through the property on the west side and the Yamhill River
+        borders the southwest property. There are approximately 5.6 acres of fir trees along the
+        river and creek.
+
+4.      Surrounding Zoning and Land Use: The property is bordered to the west by the City of
+        Lafayette. To the north, south and west is Exclusive Farm Use, EF-80 District, and to the
+        east is Very Low Density Residential, VLDR, District. Uses in the area include farming,
+        housing, as well as commercial uses to the north, along nearby Highway 99. The
+        Lafayette Sewer Plant is nearby to the west.
+
+5.     ' Water: The application indicates that water will be provided by a well.
+
+6.      Sewage Disposal: A proposed septic.
+
+7.      Previous Actions: There is no previous land use history associated with the parcel.
+
+8.      Overlay District: A portion of the western property is within the Flood Plain Overlay
+        District. The property is not within any other overlay districts.
+
+B.      Zone Change and Plan Amendment Provisions and Analysis
+
+1.      The property is zone EF-80, but most of the parcel has a Comprehensive Plan of VLDR,
+        very low density residential. A small portion at the far west side of the property has a
+        Comprehensive Plan designation of AFLH. Property to the east has a VLDR
+        Comprehensive Plan designation and is zone VLDR-1. The request is to only change the
+        zoning within the VLDR Comprehensive Plan. The application is not requesting any
+        change to the zoning of the portion of the property which is subject to the AFLH
+        Comprehensive Plan designation. The applicant is requesting the zone change due to the
+        need for a smaller agricultural and residential parcel within Yamhill County.
+
+2       This zone change application must comply with the Oregon Revised Statutes, and the
+        Oregon Administrative Rules, which will be addressed throughout this report.
+
+3.      The application must also comply with the standards and criteria in YCZO Section
+        1208.02. These provisions are:
+
+SS                                                      ————                       EE
+Docket Z-01-24 | Bunn                                                                 Page 2
+                                                                                     Exhibit B
+                                                                                          Page 3 of 41
+ YAMHILL COUNTY DEPARTMENT OF PLANNING AND DEVELOPMENT
+                      STAFF REPORT
+E
+a EEESS
+
+       (A)     The proposed change is consistent with the goals, policies, and any other
+               applicable provisions of the Comprehensive Plan.
+
+               Though most of the Yamhill County Goals and Policies are aspirational and not to
+               be mistaken for, or interpreted as, approval criteria it is required that they be
+               considered. It is a fact that some of the goals and policies conflict with one
+               another. They are simply to be used as a guide to aid decision-makers. For
+               example, where goals or policies conflict the decision makers need to weigh the
+               evidence and decide which goal or policy the request satisfies. Therefore, the
+               Planning Commission and Board of Commissioners would need to decide
+               whether it is more appropriate for the 14.7-acre tract to be preserved for the more
+               agricultural-focused uses or if it is better suited to allow for both small farm and
+               rural residential use.
+
+               The applicant states that the comprehensive Plan designation for most of the
+               property is VLDR.    The VLDR designation is consistent with Section I. A. of the
+               Yamhill County Comprehensive Land Use Plan in that it encourages low density
+               residential development in areas contiguous with existing cities and with access to
+               services. (Goal 3, Policy B.) This area is adjacent to the city limits of Lafayette
+               and is near to other low density residential zoning with parcels ranging in size
+               from 0.89 acres to 23 acres. The described use is consistent with both the
+               comprehensive plan and physical development in the area.
+
+4.     @B)     There is an existing demonstrable need for the particular uses allowed by the
+               requested zone, considering the importance of such uses to the citizenry or the
+               economy of the area, the existing market demand which such uses will satisfy, and
+               the availability and location of other lands so zoned and their suitability for the
+               uses allowed by the zone.
+
+               The applicant’s response includes their wish to have a small commercial farm and
+               homestead in an area where parcels of this size with a home, are limited. The
+               applicant believes that it is not feasible for a farm of this size to support the gross
+               sales necessary to qualify for a farm dwelling under the current zoning. The
+               applicant explains that the AF-10 zoned parcels are of great importance to the
+               citizenry of Yamhill County and the economy. They state that a significant
+               portion of Yamhill County’s economy comprises the hospitality business, hotels,
+               restaurants, wineries, breweries, etc., thus requiring additional agriculture product
+               to the area that support niche farming that compliment the large-scale farms in the
+               area. The applicant further describes that the availability of these types of parcels
+               is very limited. The applicant provided a list of 12 available properties, see
+               exhibit 2, all of which would not meet their needs.
+
+5.     (©)     The proposed change is appropriate considering the surrounding land uses, the
+               density and pattern of development in the area, any changes which may have
+               occurred in the vicinity to support the proposed amendment and the availability of
+
+5 SSS
+Docket Z-01-24 | Bunn                                                                            Page 3
+                                                                                                 Exhibit B
+                                                                                             Page 4 of 41
+ YAMHILL COUNTY DEPARTMENT OF PLANNING AND DEVELOPMENT
+                      STAFF REPORT
+SSS                        SE
+
+               utilities and services likely to be needed by the anticipated uses in the proposed
+               district.
+
+               A significant portion of the property is designated VLDR, Very Low Density
+                Residential on the County’s comprehensive plan. The applicant wishes to apply a
+                zone change only to the that portion of the property. Many of the surrounding
+                properties are zoned VLDR. The request for a zone change would be in character
+                with the surrounding area. Most of the surrounding properties include single
+               family residences, with parcel sizes ranging from 0.85 acres to 23 acres. The
+               applicant does not wish to subdivide the property and requests the AF-10 zone,
+               which would limit the intensity of development to the area. The AF-10 zone is
+               considered a rural residential district similarly to the VLDR district.
+
+6.     (D)     Other lands in the county already designated for the proposed uses are either
+               unavailable or not as well-suited for the anticipated uses due to location, size, or
+               other factors.
+
+               According to the applicant, there are very few other lands in the area currently
+               with a Comprehensive Plan designation of VLDR and which meet the criteria of
+               Yamhill County’s Comprehensive Plan Goal 3, Policy B. The applicant states that
+               there are very few, if any, other options for a rural parcel of approximately 10
+               acres with a dwelling, close to city services. The applicant concludes that there
+               are currently no such properties listed for sale in Yamhill County. The proposed
+               use includes a small-scale farm and a single-family residence. The applicant
+              . intends to raise flowers, goats, bees, chickens, and orchard fruit. Due to the size,
+                the location, existing nearby uses, and the designated Comprehensive Plan of
+               VLDR, this property would be best suited for the AF-10 designation.
+
+7.     (8)     The amendment is consistent with the current Oregon Administrative Rules for
+               exceptions, if applicable.
+
+               This amendment is consistent with the existing Comprehensive Plan designation
+               of VLDR and as such does not require the application of any exceptions.
+
+C.     Goal 12 (Transportation Rule) Provisions and Analysis
+
+1.     The provisions of the Transportation Planning Rule, implementing Goal 12, must be
+       addressed. OAR 660-12-060 contains the provisions that must be met:
+
+       (1) Ifan amendment to a functional plan, an acknowledged comprehensive plan, or a
+       land use regulation (including a zoning map) would significantly affect an existing or
+       planned transportation facility, then the local government must put in place measures as
+       provided in section (2) of this rule, unless the amendment is allowed under section (3),
+       (9) or (10) of this rule. A plan or land use regulation amendment significantly affects a
+       transportation facility if it would:
+
+a                               6                          SS               SS
+Docket Z-01-24 | Bunn                                                                           Page 4
+                                                                                                Exhibit B
+                                                                                            Page 5 of 41
+ YAMHILL COUNTY DEPARTMENT OF PLANNING AND DEVELOPMENT
+                      STAFF REPORT
+LSS—————E———E—————————————
+
+               (a) Change the functional classification of an existing or planned transportation
+               facility (exclusive of correction of map errors in an adopted plan);
+
+               (b) Change standards implementing a functional classification system; or
+
+               (c) Result in.any of the effects listed in paragraphs (A) through (C) of this
+               subsection based on projected conditions measured at the end of the planning
+               period identified in the adopted TSP. As part of evaluating projected conditions,
+               the amount of traffic projected to be generated within the area of the amendment
+               may be reduced if the amendment includes an enforceable, ongoing requirement
+               that would demonstrably limit traffic generation, including, but not limited to,
+               transportation demand management. This reduction may diminish or completely
+               eliminate the significant effect of the amendment.
+
+                        (A) Types or levels of travel or access that are inconsistent with the
+                        functional classification of an existing or planned transportation facility;
+                         (B) Degrade the performance of an existing or planned transportation
+                        facility such that it would not meet the performance standards identified in
+                         the TSP or comprehensive plan; or
+                         (C) Degrade the performance of an existing or planned srangporeation
+                        facility that is otherwise projected to not meet the performance standards
+                         identified in the TSP or comprehensive plan.
+
+       Regarding this criterion, the Applicant did not submit a traffic impact analysis to the
+       Planning Department nor did Planning staff receive any comments or concerns from the
+       county Public Works Department regarding the Applicant’s request. The request is for a
+       single-family dwelling, which should not produce more than 10 trips per day. Therefore,
+       it appears that the proposed use is consistent with the existing characteristics of the area.
+       The road infrastructure appears to be able to support the single-family residence. If
+       required, a new driveway would be subject to Yamhill County Public Works permitting
+       process.
+
+CONCLUSIONS FOR APPROVAL:
+
+1;     The request is for a zone change from EF-80, Exclusive Farm Use, to AF-10, Agriculture
+       Forestry Small Holding, residential rural.
+
+       The proposal is consistent with Comprehensive Plan goals and policies.
+
+       The proposal is consistent with Section 1208.02 of the Yamhill County Zoning
+       Ordinance.
+
+eS                                                                        SS                         SST
+Docket Z-01-24 | Bunn                                                                            Page 5
+                                                                                                 Exhibit B
+                                                                                             Page 6 of 41
+     YAMHILL COUNTY DEPARTMENT OF PLANNING AND DEVELOPMENT
+                          STAFF REPORT
+
+    CONCLUSIONS           FOR DENIAL:
+
+    1,        The applicant has not demonstrated that the request satisfies Sections 1208.02(B) and (D)
+              in that it has not been shown that there is a need for those uses allowed in the requested
+              zone and that other land within the County is either unavailable or not as well suited for
+              the use.
+
+2.            The applicant has not adequately demonstrated that the use complies with the
+              Transportation Planning Rule.
+
+3:            The proposal is inconsistent with Comprehensive Plan goals and policies
+
+RECOMMENDATION:
+
+A        staff recommendation will be given after the receipt of additional testimony.
+
+Docket Z-01-24 | Bunn                                                                              Page 6
+                                                                                                  Exhibit B
+                                                                                               Page 7 of 41
+Docket Z-01-24 Wright/Bunn
+
+                             Il.   Application
+
+                                             Exhibit B
+                                         Page 8 of 41
+                                                      914-4 000005 - PLUG
+                                                                                                                             Docket        “Ze -Ol-              HY
+            YAMHILL COUNTY DEPARTMENT OF PLANNING & DEVELOPMENT                                                              Date               4-4-9
+                                                                                                                             Rec'd by            le
+
+                   LAND USE APPLICATION                                                                                      Receint# GIFT
+                                                                                                                             Fee                $3,604.00
+525 NE Fourth Street, McMinnville, OR 97128 e Tel: 503-434-7516 « Fax: 503-434-7544
+
+                                  APPLICANT                                                        LEGAL OWNER (IF DIFFERENT)
+
+     Last name                        First                               MI | Last name                                   First                                  MI
+
+     Wright, Catherine A.                                                        Caleb Bunn and Haley Bunn
+     Mailing address (Street or PO Box)                                           Mailing address (Street or PO Box)
+
+     PO Box 625                                                                  3209 Lorian Lane SE
+     City                             State                             Zip | City                                         State                                  Zip
+
+     McMinnville, OR               97128                                         Salem, OR                97302
+     Telephone                                                                    Telephone
+     503-472-0344                                                                971-241-6600
+     E-mail address                                                       ‘       E-mail address
+
+     catherine@twslaw.net                                                        bunncaleb@yahoo.com
+     If the applicant is not the legal owner, state interest in property:
+
+                                                           PROPERTY INFORMATION
+
+     Tax Lot(s):      4307-2301                                           Zone:        EF-80
+
+     Size of Tract (include all adjacent tax lots)        Approximately 14.7 acres
+
+1, TYPE OF APPLICATION (what is requested?); Zone change from EF-80 to AF-10.
+
+2.     JUSTIFICATION        FOR    REQUEST          YCZO    Section(s):       YCZO Section 1208.02 and consistent with Comprehensive Plan designation of VLDR.
+
+       A Planner will assist you in identifying the review criteria that apply to your request. The review criteria are used to determine
+       whether your application will be approved or denied. {t is your responsibility to provide adequate written justification and
+       any other evidence you feel is relevant to explain how your request complies with the review criteria. Failure to provide
+       adequate justification may result in your application being denied or deemed incomplete until additional information is
+       provided.                                                                                                                \
+
+3.      Present use of property:     Raising flowers, bees, cattle grazing, Christmas trees.
+
+4.      Please list the type of buildings that are currently on the property (i.e. manufactured home, pole building, agricultural barn,
+        etc.):
+               None.
+
+5.      Is there a septic system on the property?              [_ ]ves
+6. How will water be provided?                                   4    Well                                 [] Other
+7. What road and/or easement is the property accessed from? SE Locks Road
+
+                                                                                                                                                Exhibit B
+                                                                                                                                            Page 9 of 41
+  Land Use Application
+  Page 2 of 2
+
+  8.   To your knowledge, do any of the following natural hazards exist on the property?
+
+              Floodplain                              [     | Areas of erosion                         [| Steep slopes
+       [|Fish or wildlife habitat                     [] Soil limitations for building or septic
+  THE APPLICANT MUST SUBMIT:
+
+  4.   Completed application form, signed by the applicant and property owner (if different).                     The owner's signature must be
+       notarized.                                                                                             .
+- 2.   Site plan drawn to scale showing property tines, location and size of all existing buildings, existing and proposéd access
+       roads, and location and size of any proposed new buildings.
+
+  3.   Written justification of how the application complies with the approval criteria. Attach additional sheets to this form.
+
+  4.   Filing fee (make check payable to Yamhill County).
+
+       General land use application used for Conditional Use, Variance, Site Design Review, Floodplain, Willamette River Greenway,
+  Comprehensive Plan Amendment and Zoning District Boundary Amendment, Comprehensive Plan Amendment,                           and Zone Change.
+
+                                       NOTE:        Fees are not transferrable or refundable.
+
+  I hereby declare under penalties of false swearing (ORS 162.075 and 162.085) that the above information is true and correct
+  to the best of my knowledge. | understand that issuance of an approval based on this application will not excuse me from
+  complying with other effective ordinances and laws regulating the use of the land and buildings.
+
+  I hereby grant permission for and consent to Yamhill County, its officers, agents, and employees coming upon the above-
+  described property to gather information and inspect the property whenever it is reasonably necessary for the purpose of
+  processing this application.
+
+                                                              Coon e-C2=—                                                    aan
+                                                                    J
+
+                                                          Applicant's signature                                                          Date
+
+                                                          Property owner's signature (if different)                                      Date
+
+  State of.     Dgonn       -
+
+  County of.
+
+  Signed before me on this              |        day of            Marner                                    20 Lf                ji
+  by Livhorne Aural
+
+                                OFFICIAL STAMP
+                              JULIE ANDERSON
+                           NOTARY PUBLIC - OREGON                                    (Ube          ndiutorrn
+                           COMMISSION NO, 1034897                                              -
+               MY COMMISSION EXPIRES MARCH 15, 2027                               Notary Public for Oregon
+                                                                                  My Commission expires            315 [27
+  F:\Share\FORMS\PLANNING\pplications\2023\LANDUSE_APPL.docx
+
+                                                                                                                                 Exhibit B
+                                                                                                                            Page 10 of 41
+Land Use Application
+Page 2 of 2
+
+8.   To your knowledge, do any of the following natural hazards exist on the property?
+
+          Floodplain                                  [areas       of erosion                        [|         Steep slopes
+     [| Fish or wildlife habitat                      [| Soil limitations for building or septic
+THE APPLICANT MUST SUBMIT:
+
+4.   Completed        application form, signed by the applicant and property owner (if different).              The owner’s signature must be
+     notarized.
+
+2.   Site plan drawn to scale showing property lines, location and size of all existing buildings, existing and proposed access
+     toads, and location and size of any proposed new buildings.
+
+3.   Written justification of how the application complies with the approval criteria. Attach additional sheets to this form.
+
+4.   Filing fee (make check payable to Yamhill County).
+
+     General land use application used for Conditional Use, Variance, Site Design Review, Floodplain, Willamette River Greenway,
+Comprehensive Plan Amendment and Zoning District Boundary Amendment, Comprehensive Plan Amendment, and Zone Change.
+
+                                          NOTE:    Fees are not transferrable or refundable.
+
+| hereby declare under penalties of false swearing (ORS 162.075 and 162.085) that the above information is true and correct
+to the best of my knowledge. | understand that issuance of an approval based on this application will not excuse me from
+complying with other effective ordinances and laws regulating the use of the land and buildings.
+
+| hereby grant permission for and consent to Yamhill County, its officers, agents, and employees coming upon the above-
+described property to gather information and inspect the property whenever it is reasonably necessary for the purpose of
+processing this application.
+
+                                                        Applicant's signature                                                            Date
+
+                                                           LAE
+                                                        Property owner's signature (if different)
+                                                                                                                          03 /o1[zoz4
+                                                                                                                                  Date
+
+State of Megan
+County of.     ary          a   UAL
+
+Signed before me on this              ]        day of        Mandy                                         20    ay               ‘
+
+by Palel                Cunn
+
+                                 OFFICIAL STAMP
+                                JULIE ANDERSON                                            .
+                            NOTARY PUBLIC - OREGON                                 h Loy          Andi      AV
+                  g         COMMISSION NO, 1034897                                            -
+             MY COMMISSION EXPIRES MARCH 15, 2027                               Ndfary Public for Oregon
+                                                                                My Commission expires           Siike)| 27
+
+F:AShare\FORMS\PLANNING    pplications\2023\LANDUSE_APPL.docx
+
+                                                                                                                                  Exhibit B
+                                                                                                                             Page 11 of41
+Land Use Application
+Page 2     of 2
+
+8.   To your knowledge, do any of the following natural hazards exist on the property?
+
+           Floodplain                               [| Areas of erosion                             [| Steep slopes
+     [| Fish or wildlife habitat                    [ | Soil limitations for building or septic
+THE APPLICANT MUST SUBMIT:
+
+4.   Completed application form, signed by the applicant and property owner (if different).               The owner's signature must be
+     notarized.
+
+2.   Site plan drawn to scale showing property lines, location and size of all existing buildings, existing and proposed access
+     roads, and location and size of any proposed new buildings.
+
+3. Written justification of how the application complies with the approval criteria. Attach additional sheets to this form.
+
+4,   Filing fee (make check payable to Yamhill County).
+
+     General land use application used for Conditional Use, Variance, Site Design Review, Floodplain, Willamette River Greenway,
+Comprehensive Plan Amendment and Zoning District Boundary Amendment, Comprehensive Plan Amendment, and Zone Change.
+
+                                         NOTE:     Fees are not transferrable or refundable.
+
+| hereby declare under penalties of false swearing (ORS 162.075 and 162.085) that the above information is true and correct
+to the best of my knowledge. | understand that issuance of an approval based on this application will not excuse me from
+complying with other effective ordinances and laws regulating the use of the land and buildings.
+
+| hereby grant permission for and consent to Yamhill County, its officers, agents, and employees coming upon the above-
+described property to gather information and inspect the property whenever it is reasonably necessary for the purpose of
+processing this application.
+
+                                                      Applicant's signature                                                      Date
+
+                                                                                                                      3) | 12024
+                                                      Property owner's signature (if different)                          TT      Date
+
+State of          Oe gor
+County of Yarns
+                  UG
+
+Signed before me on this             |       day of        Mar aa                                     20 py               5
+
+by         Alas Bunn.
+
+                                  OFFICIAL STAMP                                           . Alum
+                                 JULIE ANDERSON
+                             “haste
+                             COMMISBION NO.
+                  MY COMMISSION EXPIRES MARCH 16, 2027
+                                                                                  jdt
+                                                                              Notary Public for expires
+                                                                              My Commission      Oregon   3- |B- wT
+
+F:\Share\FORMS\PLANNINGpplications\2023\LANDUSE_APPL.docx
+
+                                                                                                                         Exhibit B
+                                                                                                                     Page 12 of41
+                              PROPERTY INFORMATION
+
+Tax Lot Subject to Zone Change: 4307-2301
+
+Ownership: Caleb Bunn and Haley Bunn.       See Exhibit A.
+
+                               ZONE CHANGE CRITERIA
+
+                                    Summary of Request
+
+The property in question is currently zoned “EF-80, but most of the parcel has a
+Comprehensive Plan of VLDR (Very Low Density Residential). A small portion at the far
+west side of the property has a Comprehensive Plan designation of AFLH. Property to the
+east has a VLDR Comprehensive Plan designation and is zoned VLDR-1 (with some
+adjacent parcels zoned VLDR 2.5). (See attached Exhibits B and C.)
+
+                                   REVIEW CRITERIA
+
+1208.02 Review criteria:
+
+A,    The proposed change is. consistent with the goals, policies and other applicable
+      provisions of the Comprehensive Plan.
+
+The Comprehensive Plan designation for the majority of this property is VLDR. The VLDR
+designation is consistent with Section IA of the Yamhill County Comprehensive Land Use
+Plan in that it encourages low density residential development in areas contiguous with
+existing cities and with access to services. (Goal 3, Policy B.) This area is adjacent to the
+city limits of Lafayette and is typical of the type of area described in Goal 3, Policy B.
+
+B.     There is an existing, demonstrable need for the particular uses allowed by the
+       requested zone, considering the importance of such uses to the citizenry or the
+       economy of the area, the existing market demand which such uses will satisfy, and the
+       availability and location of other lands so zoned and their suitability for the uses
+       allowed by the zone.
+
+The applicants wish to conduct a small commercial farm and homestead. This requires a
+small acreage which allows farming but on which applicants can also reside. Applicants’
+farming operations are too small to generate sufficient income and the size parcel they can
+work with is too small to generate the necessary income to qualify for a primary farm
+dwelling under the current zoning. Applicants need a very specific type of property, a small
+
+                                             -|-
+
+                                                                                       Exhibit B
+                                                                                  Page 13 of 41
+acreage with a dwelling. Such parcels are very rare in this area. This property, if zoned AF-
+10, would meet their needs. The property has been in applicant Caleb Bunn’s family for
+many generations and applicants hope to retain it and use it to operate their small farm. The
+products (flowers, honey, chickens, fruit) which applicants intend to continue to produce are
+products which will serve the restaurant/food and hospitality industries which are prevalent
+in Yamhill County.
+
+C.     The proposed change is appropriate considering the surrounding land uses, the
+       density and pattern of development in the area, any changes which may have
+       occurred in the vicinity to support the proposed amendment and the availability of
+       utilities and services likely to be needed by the anticipated uses in the proposed
+       district.
+
+The proposal is for a zone change to AF-10 within the VLDR comprehensive plan area. This
+is consistent with the land uses in the surrounding area. To the west of the property is the
+City of Lafayette. To the east are small, residential parcels of 1-5 acres. To the north is a
+parcel in combined agricultural and residential use. To the south is an undeveloped parcel
+currently in agricultural use. A change of zone to AF-10 on this 14.7 acre parcel would allow
+placement of one dwelling on this property, but would not otherwise change the land use.
+Thus, a larger, rural residential parcel is in keeping with surrounding uses. Water would be
+provided by a well on the subject property, and a septic system would be installed on the
+subject property. A parcel of 14.7 acres, most of which is not within the flood zone, can
+appropriately accommodate both a well and septic system. The property adjoins a county
+road (SE Locks Road) and power is available (and currently serves multiple residential
+parcels on the east side of SE Locks Road).
+
+D.     Other lands in the county already designated for the proposed uses are either
+       unavailable or not as well suited for the anticipated uses due to location, size or other
+      factors.
+
+There are very few other lands in the area currently with a Comprehensive Plan designation
+of VLDR and which meet the criteria of Yamhill County’s Comprehensive Plan Goal 3,
+Policy B. The applicant has very few, if any, other options for a rural parcel of
+approximately 10 acres with a dwelling, close to city services. There are currently no such
+properties listed for sale in Yamhill County. The applicant wishes to operate a small farm
+on the subject property and reside on site in order to make operation of such farm
+economically feasible.   The applicant intends to raise flowers, goats, bees, chickens, and
+orchard fruit, and to maintain the existing trees.
+
+                                                                                          Exhibit B
+                                                                                      Page 14 of 41
+E.     The amendment is consistent with the current administrative rules (OARs) for
+       exceptions, if applicable.
+This amendment is consistent with the existing Comprehensive Plan designation of VLDR
+and as such does not require the application of any exceptions.
+
+                             ADDITIONAL INFORMATION
+
+1.     The subject property is zoned EF-80, but is subject to two Comprehensive Plan
+       designations. The majority of the property has a Comprehensive Plan designation of
+       VLDR. A small portion on the west side of the property has a Comprehensive Plan
+       designation of AFLH. This application is for a change only to the zoning within the
+       VLDR Comprehensive Plan designation. The applicant is not requesting any change
+     * to the zoning of the portion of the property which is subject to the AFLH
+       Comprehensive Plan designation.
+
+2.     Part of the western boundary of the property is bordered in part by the South Yamhill
+       River. A portion of the subject property which lies adjacent to the river is subject to
+       flooding. See attached Exhibit D.
+
+                                                                                        Exhibit B
+                                                                                    Page 15 of 41
+                                  EXHIBIT LIST
+
+         Deed
+ge Sis
+
+         Comprehensive Plan map
+         Zone map
+         Flood map
+
+                                                     Exhibit B
+                                                 Page 16 of41
+  BARGAIN AND SALE DEED
+» James L. Bunn, Trustee of the Jim Bunn
+ Revocable Living Trust
+ 16900 S Hwy 99W
+ Amity, OR 97101
+
+          to
+
+ Caleb Bunn and Haley Bunn
+ 3209 Lorian Lne SE
+ Salem, OR 97302
+
+ SEND TAX STATEMENTS TO:
+ Caleb and Haley Bunn                                                 OFFICIAL YAMHILL COUNTY RECORDS                 202400451
+ 3209 Lorian Ln SE                                                     KERIHINTON, COUNTY CLERK
+
+ serra
+                  0
+
+ AFTER RECORDING, RETURN TO:
+ Caleb and Haley Bunn
+                                                                            LUN UNIAN
+                                                                            00664911202400004510020025
+                                                                             ”                    7
+                                                                                                                               ses
+                                                                                                            01/19/2024 11:38:59 AM
+ 3209 Lorian Ln SE                                                     DMR-DDMR           Cnt=1 Stn=3 SUTTONS
+ Salem, OR 97302                                                       $10.00 $5.00 $11.00 $60.00             _       oe
+
+                                        BARGAIN AND SALE DEED - Statutory Form
+
+ James L. Bunn, Trustee of the Jim Bunn Revocable Living Trust, grantor, conveys to Caleb Bunn and Haley Bunn,
+ Grantees, the following described real property situated in Yamhill County, Oregon:
+
+         See attached Exhibit A
+ The true consideration for this conveyance is $80,000.
+
+ BEFORE SIGNING OR ACCEPTHING THIS INSTRUMENT, THE PERSON TRANSFERRING FEE TITLE SHOULD INQUIRE
+ ABOUT THE PERSON’S RIGHT, IN ANY, UNDER ORS 195.300, 195.301 AND 195.305 TO 195.336 AND SECTIONS 5 TO 11,
+ CHAPTER 424, OREGON LAWS 2007, SECTIONS 2 TO 9 AND 17, CHAPTER 855, OREGON LAWS 2009, AND SECTIONS 2
+ TO 7, CHAPTER 8, OREGON LAWS 2010. THIS INSTRUMENT DOES NOT ALLOW USE OF THE PROPERTY DESCRIBED
+ IN THIS INSTRUMENT IN VIOLATION OF APPLICABLE LAND USE LAWS AND REGULATIONS. BEFORE SIGNING OR.
+ ACCEPTING THIS INSTRUMENT, THE PERSON ACQUIRING FEE TITLE TO THE PROPERTY SHOULD CHECK WITH
+ THE APPROPRIATE CITY OR COUNTING PLANNING DEPARTMENT TO VERIFY THAT THE UNIT OF LAND BEING
+ TRANSFERRED          IS A LAWFULLY ESTABLISHED LOT OR PARCEL, AS DEFINED IN ORS 92.010 OR 215,010, TO VERIFY
+ FARMING OR FOREST PRACTICES, AS DEFINED IN ORS 30.930, AND TO        INQUIRE ABOUT THE RIGHTS OF
+ NEIGHBORING PROPERTY OWNERS, IF ANY, UNDER ORS 195.300, 195.301, AND 195.305 TO 195.336 AND SECTION 5
+ TO 11, CHAPTER 424, OREGON LAWS 2007, SECTIONS 2 TO 9 AND 17, CHAPTER855, OREGON LAWS 2009, AND
+ SECTIONS 2 TO 7, CHAPTER 8, OREGON LAWS 2010.
+
+ Dated this } 4       day of     [enV           ory                   , 2026}                       BS
+                                                                                                          CALA
+
+                                                                                yr     L. Bunn, Trustee
+
+ STATE OF OREGON                        )
+                                        ) ss.
+ County of Yamhill                      )
+
+         On the |4_       of      UOLA        7 room personally appeared                      the   above-names   James   L.   Bunn,   who
+ acknowledged that the foregoiig instrumeht was his voluntary act and deed.
+         Before me:                              OFFICIAL STAMP
+                               S                JULIE ANDERSON          }            Laveen Odean,
+                                           NOTARY PUBLIC-
+                                           COMMISSION  NO, OREGON
+                                                            1034897     |         7
+                                                                                NOTARY PUBLIC FOR OREGON
+                               MY COMMISSION EXPIRES MARCH 15, 2027
+                                                                                                                      Exhibit A
+                                                                                                                      Pagel hits
+                                                                                                                      Page 17 of 41
+"EXHIBIT A"
+
+Date: 27 October 2023
+
+Bunn - Legal Description “A” (14.7 Ac. more or less)
+
+A tract of land in Section 7, Township 4 South, Range 3 West, Yamhill Couey, Oregon, being
+more particularly described as follows:
+
+Beginning at the northwest corner of Block 78 of the FISK'S SUBDIVISION Franklin Martin
+Donation Land Claim; thence East 1597.1 feet along the north line of said Block 18 to an iron
+rod as shown by CS-13127; thence East 10 feet to the northeast corner of Block 18 of said
+FISK’S SUBDIVISION Franklin Martin DLC; thence South 00°04'26" East 196.31 feet; thence
+North 89°59° 53” West 10 feet to an iron rod as shown by GS-13127; thence continuing North
+89°59" 53” West 284.98 feet to an iron rod as shown by CS-13127; thence South 74°30"
+West 1200.30 feet to an iron rad as shown by CS-13127; thence continuing South 74°30’43”
+West 200 feet more or less to the northerly bank of the Yamhill River; thence westerly along the
+river bank to the southeast camer of the Joel Perkins DLC; thence North 40° East 484.44 feet
+along the west line of said FISK'S SUBDIVISION Franklin Martin DLC to the beginning point.
+The intention of this deed is, and the deed conveys to, the western boundary of Locks Rd based
+on the understanding that the Locks Rd is 40 feet rather than 60 feet wide.
+
+                                                                                           ExhibitA         /,
+                                                                                           Page 2 of 2
+                                                                                                Exhibit B
+                                                                                         Page 18 of 41
+                                                                                                                               Woo'sdeWAqUNOD|IYWeAMMM//:SOY
+WL                                                                                                                  a
+          Ly 40 6) e6ed                                                                                                 —_
+                                                                  |
+          gq yaiuxa
+                                                                      yan
+                                                                                          |                                             7
+                                                                                                   ||
+                                                                                          |
+                                                                                                                                                            ,Ww
+                                                                                                   |
+                                                                        —                                                                                          7
+                                                                                                        |
+                                                                      YA                                                                               e
+                                                                                                                                                       u     :         |
+                                                                                  -
+                                                                                                                                                             ;
+                                                                                                                                                       Bz
+                                                                                                                                                             (O}
+                                                                                                                                                       :     e
+                                                                        UGA                                 :
+     HV
+                                                Oey
+                                                                      YaTA
+                                                                                      Yann
+                                                            —
+                                                  <==   =   —   =                         :   i
+                                                                              =       =           ot            a            Allo
+                                                                                                                                                   gg10 EF
+                                     (s2)
+                                            +
+                          ive]
+                                 Q
+                                                                                                                                aoejd JO Sseippe pul
+                                                                                                                                                           bq a7 +
+                                                                                                                                GEZO? SID WHA
+                                                                                                                                                  Wd LEb ‘€z/L/Zb
+                                                            dezoz SID aNd
+ub
+             LyJ0 07 eBeq                               wos'sdeuAjUnoo|IyWweA mwwy/:sdyY
+         augiuxs
+                                  8L ev
+                            LVR
+                                          SoU.
+é    08-44
+                                             L-YaTA
+                                          LeYaTA
+                                                      aoeid so sseuppe pury   |!)
+                                                          Oz SID 29nd               ae
+                                  G€70Z SID Jan
+                                                                       Wd v&:} ‘ez/2izb
+12/7/23, 2:13 PM                                                                 Public GIS 2023B
+
+                                     {   sunt), Public Mappiny   Apple   Sale dn teach Ey
+          Public GIS 2023B
+
+                                                                                                                                                 —_—
+
+                                                                                                       &
+                                                                          We LSI,
+
+                                                                                                           i
+
+                                                                                                       ~
+            Find address or place
+
+                                                                                            RQ
+                                                                                                 Ry,
+                                                                                                 SX
+                                                                                                                                         (|
+                                                                                                                                             —
+                                                                                                                                           y
+                                                                                                                                           ;
+
+                                                                                                                                       ul
+                                                                                                                                  “|
+
+                                                                                                           a
+                                                                                                           cs
+                                                                                                                       SE
+                                                                                                                       Locks
+                                                                                                                       Rd
+
+                                                                                                                8g
+                                                                                                                   «
+
+                                                                                                                   i
+                                                                                                                                                 /
+
+                                                                                                                       Pu 94907
+                                                                                                                       as
+
+                                                                                                 s
+                                                                                                 *
+                                                                                                                                             s
+                                                                                                                                         A
+                                                                                                                                                 ay
+                                                                                                                                         B55
+
+                                                                                                                                  a
+                                                                                                                                       i<j
+                                                                                                                                            &
+
+hitps://www. vamhillcountymaps.com                                                                                                                     4H
+                                     TANKERSLEY             & WRIGHT,              LLC
+                                                     ATTORNEYS AT LAW
+                                                        PO BOX 625
+                                                 701 NE EVANS STREET
+                                              McMINNVILLE, OREGON          97128
+                                                 Website: www.twslaw.net
+CATHERINE A, WRIGHT                              Telephone 503-472-0344                              JULES DRABKIN - Retired
+catherine@twslaw.net                              Facsimile 503-472-7629                 THOMAS C. TANKERSLEY - Retired
+
+                                                    April 2, 2024
+
+                                                                                              Ee
+          Tiffanie Willis                                                                 ; — RECEIVED
+          Yamhill County Planning and Development
+          400 NE Baker Street                                                                 4    APR 04 2024
+          M ebainnville,
+                i    i   OR 97128                                                        ‘'        YAMHILL COUNTY
+                                                                                                   HeRIIEReT
+
+          Re:          Caleb and Haley Bunn
+                       Docket No. Z-01-24
+
+          Dear Tiffanie:
+
+                You requested additional information to address the criteria of Yamhill County
+          Zoning Ordinance §1208.02(B) and (D).
+
+                   Section 1208.02(B) provides: “There is an existing, demonstrable need for the
+          particular uses allowed by the requested zone, considering the importance of such uses
+          to the citizenry or the economy of the area, the existing market demand which such uses
+          will satisfy, and the availability and location of other lands so zoned and their
+          suitability for the uses allowed by the zone.”
+
+                  The need for smaller agricultural and residential parcels in Yamhill County can
+          be shown by the very limited supply of such parcels. While there are some smaller
+          parcels zoned and suitable for agricultural uses, their location may not be appropriate
+          and/or they do not allow siting of a dwelling because the income requirements for a
+          farm dwelling cannot be met on smaller parcels. As such, small-scale family farming
+          is generally a second occupation. Having a dwelling on the farm site is necessary to
+          dedicate the most time possible to tending crops and livestock. There are many factors
+          that can go into the critical timing of tasks that need done when farming including
+          weather, soil conditions, and livestock status, all of which can change unexpectedly.
+          Tending to and watering crops, letting out and taking in livestock for the day, as well
+          as addressing unexpected situations that may arise is not practical from afar.
+          Additionally, most such parcels are sought for small family farming operations which
+          rely on having suitable land which is relatively close to the customers they will be
+          supplying. Most often, these customers are CSA (Community Supported Agriculture)
+          members or are hotels and restaurants in McMinnville and Newberg. Farms in Grand
+          Ronde and Willamina are generally too far from these customers to facilitate efficient
+          and affordable business. Such farms need to be relatively close to the customers and
+          must allow the farmer to reside on the property in order to most efficiently and
+          affordably farm it.
+
+                                                                                                                Exhibit B
+                                                                                                           Page 22 of 41
+Tiffanie Willis
+April 2, 2024
+Page 2
+
+           Such parcels are of great importance to the citizenry of Yamhill County and the
+   economy, and support uses such as those intended by the owners which in turn supports
+   local residents and businesses. A significant portion of Yamhill County’s economy
+   (approximately 17 percent - see Exhibit 1) comprises the hospitality business - hotels,
+  restaurants, wineries, breweries, etcetera. Many of these businesses want to promote
+  local produce, whether that is flowers in a hotel or tasting room, ingredients for
+  restaurants, or farmer’s markets selling local produce to the public. There is a
+  consistent and growing market demand for local produce grown on small family farms
+  and niche crops which are not supplied by commercial scale farms.
+
+           Farming is the backbone of our nation and is Yamhill County's primary industry.
+   Small   farms are the connective tissue to a community.       According to the USDA
+  National Institute of Food and Agriculture, "Family and small farms are vital to our
+  economy and well-being as a nation. Not only do they support the competitiveness and
+  sustainability of rural and farm economies, they serve to protect and enhance natural
+  resources and the environment, provide a nursery for the development of new
+  enterprises and marketing systems, [and] maintain rural populations. These farms, most
+  of which are family-owned and operated, confront considerable challenges due to
+   current trends, such as increased ‘movement into cities, an aging population, farm
+  consolidation, and changing weather patterns." With limited parcels that are viable for
+  small-scale farming, re-zoning is a means to bridge the gap to enable these important
+  and dwindling enterprises to continue. Parcels of around 5 to 25 acres are generally too
+  small to be considered useful for large commercial farms and are only put into
+  production and nurtured by small scale family farms.
+
+          As shown by the review of parcels currently available on the market (see Exhibit
+  2), there are no other parcels currently available which are zoned AF-10 and very few
+  which can accommodate a small agricultural enterprise and a dwelling.
+
+         Section 1208.02(D) provides: “Other lands in the County already designated for
+  the proposed uses are either unavailable or not as well-suited for the anticipated uses
+  due to location, size or other factors.”
+
+           A review of parcels in Yamhill County containing 5 to 25 acres currently
+  available for sale in March, 2024 is summarized on the enclosed chart.
+
+          The owners need a piece of property which can accommodate agricultural uses
+  and a home. It also needs to be small enough to manage without employees, and
+  affordable. Twelve parcels were identified, none of them currently zoned AF-10, and
+  none of them, for various reasons, suitable for the uses allowed in an AF-10 zone.
+  (Specifically, agriculture and/or forestry, and a dwelling.)
+
+         Many of these parcels were not buildable. Many of them were heavily forested,
+  and some of them had steep slopes. The review identified only one parcel which was
+
+                                                                                       Exhibit B
+                                                                                   Page 23 of 41
+Tiffanie Willis
+April 2, 2024
+Page 3
+
+   buildable and suitable for agricultural uses. However, that property, on Garfield Street
+   in Carlton, is only 7 acres and lies more than 50 percent within the flood zone which
+   leaves it unsuitable for most agricultural enterprises.
+
+           This review indicates that small agricultural parcels of approximately ten acres
+  which allow a dwelling, as is generally allowed in the AF-10 zone, are very hard to find
+  in Yamhill County. The owners’ need for such a parcel, and the inability to find a
+  similarly situated parcel within Yamhill County, demonstrates the need for such parcels
+  in this area. Allowing a change of zone for this parcel will allow the owners to conduct
+  their small family farm on a suitable, affordable parcel which is well suited for their
+  needs.
+
+                                              Very truly yours,
+
+                                              TANKERSLEY & WRIGHT, LLC
+
+                                              Catherine A. Wright
+
+  CAW:jca
+  Enc.
+  cc:     Caleb and Haley Bunn
+
+                                                                                        Exhibit B
+                                                                                    Page 24 of 41
+      Cerisus
+QuickFacts
+Yamhill County, Oregon
+QuickFacts provides statistics forall states and counties. Also for cities and towns with a population of 5,000 ur more.
+                                                       .                                  pany                                              Yauntiltl County,
+                                           All Topics                                            i                                          Oreyint
+
+                                         Population Esthmates, July 1, 2022, (V2022)
+
+                                         Population
+                                        _Popuitation estimates, July 1, 2023, (V2023)                           _                   a   _                       GS 108,644
+                                      [_onuttion Estimates, Jaly 1, 2022, (V2022)                                                                               GS 108,362
+                                         Population estimates base, Aprit 1, 2020, (V2023)              a                                                       & 101,726
+                                         Population estimates base, April 1, 2020, (V2022)                                                                      & 107,726
+                                         Population, percent change ~ April 1, 2020 (estimates base) lo July 1, 2023, (V2023)                                     B 09%
+                                         Population, percent chonge  - April 1, 2020 (estimutes buse) to July 1, 2022, (V2022)                                    4 06%
+                                         Population, Census, April 1. 2020                                                                                         107,722
+                                         Population, Census, April 1, 2010                                                                                          99,193
+                                         Age and Sex
+                                         Persons under5 years, percent                                                                                            B 3.0%
+                                         Persons under (8 years, percent                                                                                         & 208%
+                                         Persons 65 yeurs and over, percent                                                                                      &    18.9%
+                                         Female persons, percent                                                                                                 B V.%
+                                         Race and Hispanic Origin
+                                         White alone, percent                                                                                                    & 90.9%
+                                         Black or African American
+                                                                alone, percent                       (47                                                          &    13%
+                                         American Indian and Alaska Nutive alone, percent                  1)                                                     20%
+                                         Asian alone. percent      £0                                                                                             B 20%
+                                         Native Hawaiian und Other Pacific Istunder alone, percent ¢:)                                                            A 03%
+                                         Two or More Raves, percent                                                                                               B38%                     .
+  .                                      Hispanic or Latino, percent         12                                     2                                            4 173%                        .
+                                         White alane, not Hispanic or Latino, percent                                                                            & 5.5%
+                                         Population Characteristics
+                                          Veterans, 2018-2022                                                                                                          7,510
+                                         Foreign born persons, pereent, 2018-2022                                                                                       7.4%
+                                         Housing
+                                         Housing units, July 1, 2022, (¥2022)                                                                                       41,254
+                                         Owner-occupied housing unit rate, 2018-2022                                                                                 0.4%
+                                         Median vulne of owner-vecupied housing units, 2018-2022                                                                  $408,500
+                                         Median selected monlily owner costs -with a mortgage, 2018-2022                                                            31,939
+                                         Median selected monthly owner costs -without a mortgage. 2018-2022                                                           S631
+                                         Median gross rent, 2018-2022                                                                                               $1,302
+                                         Bullding permits, 2022                                                                                                         539
+                                         Families & Living Arrangements
+                                         Households, 2018-2022                                                                                                        38371
+                                         Persons per household,         2018-2022                                                                                       2.65
+
+                                          Living in same house | year ago, percent of persons age | yeart, 2018-2022                                                  844%
+                                          Language other than linglish spoken at home, percent of persons age 5 yearst, 2018-2022                                     12.9%
+                                         Computer and Internet Use
+                                          Houscholus with a computer, percent, 2018-2022                                                                              95.3%
+                                          Households with a broalband Internet subscription, perccut, 2018-2022                                                       89.7%
+                                         Education
+                                          High school graduate or higher, percent of persons age 25 yeurs*, 2018-2022                                                 89.9%
+                                          Bachelor's degree or higher, percent of persons age 25 years. 2018-2022                                                     29.3%
+                                         Health
+                                         With a disability. under age 65 years, percent, 2018-2022                                                                     17%
+                                         Persons without health insurance, under age 65 years. percent                                                               & 18%
+
+                                        Economy
+                                         In civiliun lubor force, total, percent ofpopulation age 16 yeurst, 201-2022                                                 59.6%
+                                         Ineivilian labor foree, female, percent of population uge 16 years, 2018-2022                                                54.9%
+                                        Tata! accommodation and food services        sles, 2017 ($1,000) te)                                                       190,070
+                                         Total health cure and sucial assistonee receipts/revemue,  2017 ($1,000) (.                                                531,005
+                                         Total transportation and warehousing receipts/tevenue, 2017 ($1,000) 1.4                                                   44,984                         |
+                                      © Total retail sales, 2057 ($1,000)re                                                                                       1,122.21     EXHIBIT
+                                         Total retil sales per capita. 2017         te)                                                                              $10,656 ExhVGE    =
+                                                                                                                                                                       Page 25 of 41
+Docket Z-01-24
+Tax Lot 4307-2301
+Owners: Caleb and Haley Bunn
+Applicant: Catherine A. Wright, Tankersley & Wright, LLC
+
+ ACRES | LOCATION                BUILDABLE?             PRICE     NOTES
+ 9        Old Railroad Grade   | No                $109,000.00 | Heavily forested
+          Road, Yamhill
+ 10.8   | Sheridan               Yes, per listing | $298,000.00 | Steep slopes, heavily
+                                                                  forested
+
+ 6.54   | Lincoln Avenue,       No                 $298,000.00 | EF-20/too small
+          Yamhill
+ 7        Garfield Street,       Yes, per listing | $300,000.00 | 50%+ within flood zone
+          Carlton
+ 20       Peavine Road,         No                 $429,000.00 | EF-40
+          McMinnville
+
+ 8        Bridge Street,         Yes               $919,000.00 | Development property/city
+          Sheridan                                               approved for subdivision
+ 23       Quarry Road,          No                 $658,000.00 | EF-20, wooded, vineyard
+          Newberg
+ 22       Cove Orchard           Yes               $630,000.00 | EF-20, too expensive
+
+ 7        Highway 18,            Probably not      $550,000.00 | Adjoins highway, not
+          Sheridan                                                suitable for livestock
+
+ 22       Spirit Mountain        Yes               $550,000.00 | Heavily forested F-80, not
+          Road, Grand Ronde                                      suitable for agriculture
+
+ 20       Fort Hill Road,        Yes               $450,000.00 | Heavily forested F-80, not
+          Willamina                                               suitable for agriculture
+
+ 26       River Bend Road,       Yes, per listing | $439,000.00 | EF-80 forested. Almost
+          McMinnville                                             entirely within flood zone.
+
+                                                                                             Exhibit 2
+                                                                                           Page | of 1
+                                                                                            Exhibit B
+                                                                                       Page 26 of 41
+Docket Z-01-24 Wright/Bunn
+
+                         Ill. Public Notice
+
+                                           Exhibit B
+                                      Page 27 of 41
+                 APPLICANT:                   (ithowns    Warehe
+                                              PoP        a5
+                                              MeNnnwle            02      41125
+                                                            ot                            .
+            ss     F                                                             Cone                                         ; 9024
+                                                                  of
+\,       =i phanne                  (weds Gen~__, on the al F day
+                                                                                                                           PIN
+                                          No.        Olt                          to the property owners identified by the
+sent the attached public notice of Docket                this sheet.
+                                             listed on
+numbers listed above, and interested persons
+
+STATE OF OREGON                                               .
+County of Yamhill
+                                                                  2 S m~       day of    ‘co                              2024
+                        t acknowledged before me this
+The foregoing instrumenwas
+by hey               he     ue       MLV Arne
+                 d                                                             y  7
+                           OFFICIAL STAMP                                      eb                     ee
+                          CARLA L BRENNAN
+                 F   NOTARY PUBLIC - OREGON                            Notary Public For Oregon            Z
+     |     eee       COMMISSION NO, 1007457                                                          f -aY- As”
+     j_MY COMMISSION EXPIRES JANUARY 24, 2025                          My Commission Expires
+                                                                                                  FORM: #12 « UPDATED: 3/19/2019 10:12 AM
+F:\Share\FORMS\PLANNINGIADDRESS_PUB_NOTICE2.doc                                                                              Exhibit B
+                                                                                                                        Page 28 of 41
+                 R4307   01203                        R4307       02100 WYMAN     HENRY C &   R4307     01208 HOLDERBY LORETTA L
+                                                                  CHRISTIE A TRUST                      HOLDERBY CEDRICK N
+            HAGLE MICHAEL O
+                                                  WYMAN       HENRY C & CHRISTIE A TRUSTEES              3359 SE LOCKS RD
+            3405 SE LOCKS RD
+                                                           2844 PONTE VERDE LANE                         DAYTON, OR 97114
+            DAYTON, OR 97114
+                                                                   DAVIS, CA 95616
+
+                                                      R4307       02201 KATZLER VALERIE D                  R4307 01206
+   R4307      01205 MYER MELISSA C
+             MYER PATRICK D                                     KATZLER PETER AJR                           BUNN DAVID
+                                                                  3280 SE LOCKS RD                       13545 SE BUNN LN
+            3351 SE LOCKS RD
+                                                                  DAYTON, OR 97114                       DAYTON, OR 97114
+            DAYTON, OR 97114
+
+                                                                  R4307 01202                               R4307 02200
+              R4307 03000
+                                                               COPLEY-ZILL MARY L                        ASHLEY TIMOTHY R
+            D & J RANCHES LLC
+                                                                3275 SE LOCKS RD                        7640 SE WEBFOOT RD
+           5801 SE BANSEN LN
+                                                                DAYTON, OR 97114                          DAYTON, OR 97114
+           DAYTON, OR 97114
+
+                                                          R4307     01204 FRANK DANIEL                     R4307    01200
+   R4307        01201 JOHNSON         MAY L
+                                                                   ABBE HEATHER                             BUNN    DAVID
+            JOHNSON       DAVID E
+                                                                  3117 SE LOCKS RD                       13545 SE BUNN LN
+            3119 SE LOCKS RD
+                                                                  DAYTON, OR 97114                       DAYTON, OR 97114
+            DAYTON, OR 97114
+
+                                                  R4307 01007 BUNN JANECE T CO-TRUSTEE                     R4307    01006
+                 R4307   01100
+                  BUNN   DAVID                        BUNN BENJAMIN A JR CO-TRUSTEE             EXPANSION INTERNATIONAL INC
+                                                            13570 SE LOCKS LOOP RD                5400 W FRANKLIN RD STE J
+            13545 SE BUNN        LN
+                                                                  DAYTON, OR 97114                         BOISE, ID 83705
+            DAYTON, OR 97114.
+
+                                                           R4307      01002/1003/1004                       R4307   02800
+                 R4307   01005
+                                                                    BUNN DAVID L                         KHALIL & SONS INC
+                 BUNN ZELDA K
+                                                                  13545 SE BUNN LN                        2240 SW 3RD ST
+            1912 NW KALE WY
+                                                                  DAYTON, OR 97114                      CORVALLIS, OR 97333
+         MCMINNVILLE,      OR 97128
+
+                                                  R4307   00900 BUNN JANECE T CO-TRUSTEE                    R4307    01000
+              R4307 02600
+                                                          BUNN BEN A JR CO-TRUSTEE                       BECKWITH    BOZEB B
+             FOUR D'S & KLLC
+                                                              13570 SE LOCKS LOOP RD                      13465 SE BUNN LN
+        ATTN: JOAN & DEAN KOCH
+                                                                  DAYTON, OR 97114                       DAYTON, OR 97114
+        2600 NW HIGH HEAVEN RD
+         MCMINNVILLE, OR 97128
+                                                      R4307       00700 HENRY WAYLAND W         R4307     02400/2500    BUNN LONA J
+R4307     01001 BECKWITH KATHLEEN             M
+                                                   HENRY WAYLAND W FAMILY REVOCABLE                       BUNN THOMAS        E
+    BECKWITH WAYNE E TRUSTEE
+                                                              14200 N HIGHWAY 99W                         2900 SE LOCKS RD
+            3455 SE LOCKS RD
+                                                                  DAYTON, OR 97114                        DAYTON, OR 97114
+            DAYTON, OR 97114
+
+        R4307     02301 BUNN      HALEY                             R4307   02700             R4307 02300 BECKWITH KATHLEEN M
+                                                                  LAFAYETTE CITY OF                BECKWITH WAYNE E TRUSTEE
+                  BUNN CALEB
+                                                                    535 NE 5TH ST                         13465 SE BUNN LN
+            3209 LORIAN LN SE
+                                                              MCMINNVILLE, OR 97128                       DAYTON, OR 97114
+                SALEM, OR 97302
+
+                                                                                                               Z01-24
+             Catherine Wright
+                                                                                                             R4307-2301
+                PO Box 625
+                                                                                                                Bunn
+          McMinnville, OR 97128
+                                                                                                                 TW
+
+                                                                                                                     Exhibit B
+                                                                                                                Page 29 of 41
+                                  Yamhill County
+            DEPARTMENT                 OF PLANNING               AND DEVELOPMENT
+                          400 NE BAKER STREET ¢ McMINNVILLE, OREGON 97128
+  Phone:(503) 434-7516 © Fax:(503)434-7544 © TTY: (800) 735-2900 Internet Address: www.yvamhillcounty.gow/238
+
+                                     NOTICE OF PUBLIC HEARING
+                                      Thursday, July 11, 2024, 7pm
+                                  Yamhill County Courthouse, Room 32
+                                              535 NE 5th Street
+                                            McMinnville, Oregon
+                          Attend via Zoom: https://us06web.zoom.us/j/97354678574
+                                           Webinar ID: 97354678574
+
+         The YAMHILL COUNTY PLANNING COMMISSION will hold a public hearing at the above time
+and place to consider the request described below. The request may be heard later than the time indicated,
+depending on the agenda schedule. Interested parties are invited to send written comment or may appear and
+testify at the hearing either in person or via Zoom. Comments submitted the day of the hearing will not be
+accepted via e-mail or fax but must be submitted in writing (12 copies) at the hearing. All issues and concerns
+should be raised for consideration by the Planning Commission prior to the close of the hearing because any
+appeal may be limited to the record of the hearing. Failure to raise an issue, either in person or in writing, or
+failure to provide statements or evidence sufficient to allow an opportunity to respond to the issue precludes
+an affected party's appeal of the decision to the Land Use Board of Appeals on that issue.
+
+         The application, all documents and evidence submitted by or on behalf    of the applicant and applicable
+criteria are available for inspection, and copies may be purchased at a reasonable cost. A staff report will be
+available for inspection at no cost seven days prior to the hearing, and copies will be available for purchase at
+a reasonable cost. The location of the hearing is accessible to persons with disabilities. Please call the
+Planning Department if you will need any special accommodations to attend or participate in the meeting. For
+further information, contact Tiffanie Willis at the Yamhill County Department of Planning and Development,
+400 N.E. Baker St., McMinnville, 97128, at willist@yvamhillcounty.gov, or at (503) 434-7516.
+
+DOCKET NO.:                    Z-01-24
+
+REQUEST:                       Approval of a zone change from EF-80, Exclusive Farm Use District to AF-10,
+                               Agriculture and Forestry Small Holding District.
+
+PLAN DESIGNATION:              Very Low Density Residential
+
+APPLICANT:                     Catherine Wright
+
+OWNER:                         Caleb and Haley Bunn
+
+TAX LOT:                       4307-2301
+
+LOCATION:                      Property to the south of address 290 SE Locks Rd., Dayton
+
+CRITERIA:                       Section 1208.02 of the Yamhill County Zoning Ordinance.
+
+NOTICE TO MORTGAGEE, LIENHOLDER, VENDOR, OR SELLERS:                           ORS Chapter 215 requires that if
+you receive this notice, it must be promptly forwarded to the purchaser.
+                                                                                                        Exhibit B
+                                                                                                   Page 30 of 41
+     Exhibit B
+Page 31 of 41
+Z-01-24 (Wright/Bunn)
+Public Notice
+Page 2
+
+                                                                                             the review
+The decision on the requested zone change will be based on whether the request complies with
+criteria foundin Section 1208.02 of the Yamhill County Zoning Ordinance, as follows:
+
+1208.02           Review Criteria
+
+                                                                                on 1208.01, provided
+A quasi-judicial change to a zoning map may be authorized, pursuant to Subsecti
+that the request satisfies all applicable requirements of this ordinance,       and also provided that the
+applicant demonstrates compliance with the following criteria:
+
+A,        That the proposed change is consistent with the goals, policies, and any other applicable
+          provisions of the Comprehensive Plan.
+
+B.        That there is an existing demonstrable need for the particular uses allowed by the requested zone,
+                                                                                               the existing
+          considering the importance of such uses to the citizenry or the economy of the area,
+                                                                                                       so
+          market demand which such uses will satisfy, and the availability and location of other lands
+          zoned and their suitability for the uses allowed by the zone.
+
+                                                                                                      and
+c         That the proposed change is appropriate considering the surrounding land uses, the density
+                                                                          occurred in the vicinity to
+          pattern of development in the area, any changes which may have
+                                                                                        likely to be needed
+          support the proposed amendment and the availability of utilities and services
+          by the anticipated uses in the proposed district.                                            :
+
+                                                                                                      le or
+D.        That other lands in the county already designated for the proposed use are either unavailab
+          not as well-suited for the anticipated uses due to location, size, or other factors.
+                                                                                                      s, if
+E.        That the amendment is consistent with the current Oregon Administrative Rules for exception
+          applicable.
+
+                                                                                                      Exhibit B
+                                                                                                Page 32 of 41
+     Exhibit B
+Page 33 of 41
+       Procedures Regarding Hearings by the Planning Commission Acting on
+                      Quasi-judicial Actions in Yamhill County
+
+The Nature and Conduct
+of Public Hearings                                            Rules of Evidence
+
+ilk   Parties    to   quasi-judicial     proceedings    are   1.    No person shall present irrelevant, immaterial,
+      entitled to an opportunity to appear, either in              or unduly repetitious testimony or evidence.
+      person or through a representative, to present
+      and   rebut testimony    and     evidence   before an   2.   Testimony and evidence must be directed
+      impartial authority, to record the proceedings,              toward the criteria applicable to the subject
+      and to receive a written notice of the decision,              hearing.
+      based on the record made at the hearing.
+                                                              3.    Failure        to     raise   an   issue    accompanied by
+                                                                    statements or evidence sufficient to afford the
+      The following persons qualify as parties:                     Commission and parties an opportunity to
+                                                                    respond to the issue precludes appeal based
+      (a)   the applicant;                                         on that issue beyond the local level.
+
+      (b)   all persons that are entitled by ordinance
+            to receive a notice of the hearing; and           Hearing Procedure
+      (c)   other persons who demonstrate that the            Inthe conduct of a hearing, the Planning Commission
+            action affects a substantial right of those       shall have the authority to:
+            persons.
+                                                              1.    Determine who qualifies as a party;
+
+      No person shall testify without:                        2.    Regulate the course, sequence,                     and decorum
+                                                                   of the hearing,
+      (a)   receiving recognition from the Planning
+            Commission chairperson;                           3.    Dispose of procedural requirements or similar
+                                                                    matters;
+      (b)   stating his or her full name and address,
+            and                                               4.    Rule      on        offers    of proof     and     relevancy      of
+                                                                    evidence and testimony;
+      (c)   ifrequested, stating the basis on which he
+            or she is entitled to status as a party. A        5.   Impose reasonable limitations on the numberof
+            challenge to this status may be made by                witnesses heard and set reasonable time limits
+            the Planning Commission or another                     for oral presentations and rebuttal testimony;
+            party.    A ruling shall     be made     by the
+            Planning    Commission          regarding   the   6.    Grant,     deny,        or approve       with     conditions     the
+            person's right to testify.                              matter being heard.
+
+      No person shall be disorderly, abusive, or
+      disruptive of the orderly conduct of the meeting.       Burden of Proof
+      Audience     demonstrations,   applause,  and
+      display signs shall not be permitted.     The           The burden of proof is placed upon the applicant.
+      chairperson of the Commission shall have the            Such proof shall show that the request complies with
+      authority to inform, reprimand, or remove any           all applicable    standards    and   criteria of the
+      person or persons for violation of the rules of         Comprehens ive   Plan  and  Zoning Ordinance:
+      conduct.
+
+Order of Procedure
+
+                                                                                                                            PAGE 1 OF 2
+                                                                                                                         Exhibit B
+                                                                                                                     Page 34 of 41
+                                                                      Sh    Prior to the conclusion of the initial hearing, any
+      Announce      the        nature   and   purpose      of the            party   may    request an opportunity           to present
+      hearing;                                                               additional testimony or evidence regarding the
+                                                                             application. The Commission shall grant such
+      Ask for disclosure of any potential conflicts of                       a request by continuing the public hearing or
+      interest or ex parte contact            by those     on the            leaving the record open for additional written
+      Commission;                                                            evidence or testimony.
+
+      Ask parties of the hearing if there is a challenge              14,    Upon conclusion of the initial hearing, if there is
+      to the ability of any member of the Commission                         no request to present additional testimony or
+      to make an unbiased decision on the case; .                            evidence, the Commission shall decide whether
+                                                                             to close the hearing and render a decision or
+      State that testimony and evidence must be                              continue the hearing to a later date.     The
+      directed toward the relevant criteria or other                         Commission may request proposed findings
+      criteria in the plan or ordinance which a person                       and conclusions from any party to the hearing.
+      believes to apply to the decision;
+
+      State that failure to raise an issue accompanied                Appeal of Commission Decisions
+      by statements or evidence sufficient to afford
+      the Commission and parties an opportunity to                    of:    A decision of the Planning Commission may be
+      respond to the issue precludes appeal beyond                           appealed     to  the    Board     of    County
+      the local level;                                                       Commissioners for review. A petition for review
+                                                                             must be submitted to the Planning Department
+      Request the Planning Director or his designee                          within fifteen (15) days of the date of decision.
+      to present a summary of staff findings and the                         The date of decision is the date the notice of
+      criteria applicable to the request;                                    decision is mailed, not the date of the hearing.
+
+      Allow the applicant to be heard first, testifying                      Only parties to the subject action may appeal
+      on his own behalf or by a representative.                              the Commission's decision.
+      Allow   parties     or     witnesses    in   favor   of the
+      proposal to be heard;                                           Accommodation                            of        Physical
+                                                                      Impairments
+      Allow   parties     or    witnesses     opposed      to   the
+      proposal to be heard;
+                                                                      Please notify the Planning Department of any special
+10.   Ask for comments submitted by governmental                      physical or language needs as far in advance of the
+      agencies;                                                       hearing as possible. The courthouse is handicapped
+                                                                      accessible.
+ial   Allow rebuttal testimony:                                       TDD 503-434-7519.
+We,   Ask for the staff recommendation.
+
+                                                                                                                 FORM #07     / REV: 2/29/16
+                                                                      C:\Userstarmstrongs\AppDatalLocal\Microsoft\Windowa\Temporary Internet
+                                                                      Files\Content.Outlook\1370ZF 1S\Hearing procedure - PC.WPD
+
+                                                                                                                               PAGE 2 OF 2
+                                                                                                                            Exhibit B
+                                                                                                                       Page 35 of 41
+                                  Yamhill County
+                DEPARTMENT              OF PLANNING AND DEVELOPMENT
+                          525 NE 4TH STREET | McMINNVILLE, OREGON 97128
+                     Phone: (503) 434-7516 | Fax: (503)434-7544 | TTY: (800) 735-2900
+                            Internet Address: http://www.co.yamhill.or.us/planning
+
+ June 21, 2024
+
+ To:        0 Public Works                                                   0 ODOT
+            O SWDC                                        :                  O Water Master
+            O Dayton Rural Fire Dept.                                       0 Sanitarian
+            O City of Lafayette                                              ODLCD       -
+
+ Re:        Docket Z-01-24, Catherine Wright, Tax Lot R4307-2301
+
+ The referenced docket is currently under consideration by Yamhill County.                    A request for approval of
+ a zone change from Exclusive Farm Use (EF-80) to Agriculture Forestry Small Holding (AF-10). The
+ request involves an approximately 14.7-acres parcel located south of the address 290 SE Locks Rd.,
+ Dundee.
+
+ Your recommendations and suggestions will be used to guide the decision-maker when reviewing this
+ request. If you wish to have your comments on the enclosed material considered, please return this
+ form by this date: July 8, 2024.
+
+ Your prompt reply will facilitate the processing of this application and will ensure consideration of your
+ recommendations. Please check the appropriate space below and provide any comments you wish in
+ the space provided, or on additional sheets.         :            ;
+
+                                                PLEASE NOTE
+ If a comment is not received by the deadline indicated, the decision-making authority will assume that
+ there is no conflict between the request and the interests of your agency or organization and make its
+ decision accordingly.
+
+          C1.     Wehave reviewed the file and find no                03.     Please refer to the enclosed letter.
+                 conflicts with our interests.
+                                                                      04.     All existing and proposed primary
+          02.    <A formal recommendation is under                            and repair drainfield sites must be
+                 consideration and will be submitted to                       within the property lines that they
+                 you by:                                                       serve or a recorded easement must be
+                                                                              provided.
+
+Signed.                                                       Title                               Date
+                                                                                                                Exhibit B
+                                                                                                           Page 36 of 41
+                                                                      a
+
+                                                               bind               glib] ae [L295 p>
+
+                              Yamhill County
+         DEPARTMENT                OF PLANNING AND DEVELOPMENT
+                      400 NE BAKER STREET « McMINNVILLE, OREGON 97128
+                  Phone: (503) 434-7516 e Fax: (503)434-7544 » TTY: (800) 735-2900
+                         Internet Address: http://www.co.yamhill.or.us/planning
+
+June 18, 2024
+
+VIA EMAIL
+
+News Register
+611 E Third St.
+McMinnville, Oregon 97128
+
+VIA EMAIL:      Ccrafton@newsregister.com
+
+Please publish the following notice of public hearing in the June 21, 2024, issue of the News
+Register. Please bill this office and supply us with an affidavit of publication.
+
+Sincerely,   LF
+
+Kenneth P. Friday
+Planning Director
+
+                                           PUBLIC NOTICE
+
+PUBLIC NOTICE IS HEREBY GIVEN that the Yamhill County Planning Commission will hold a public
+hearing on July 11, 2024, at 7:00 P.M. in room 32 of the Yamhill County Courthouse, located at
+535 East Fifth Street, McMinnville to consider: DOCKET 2-01-24, a request by Catherine
+Wright for approval of a zone change from EF-80, Exclusive Farm Use District to AF-10,
+Agriculture and Forestry Small Holding District. The property involved is plan designated
+VLDR Very Low Density Residential. The parcel is identified as Tax Lot 4307-2301 and is
+located at south of the property addressed as 290 SE Locks Rd, Dayton. This application is
+being reviewed based on criteria in Section 1208.02 of the Yamhill County Zoning Ordinance.
+Interested parties: are invited to send written comment to willist@co.yamhill.or.us or may
+appear and testify at the hearing. Comments submitted the day of the hearing will not be
+accepted via e-mail or fax but must be submitted in writing (12 copies) at the hearing. Failure
+to raise an issue, either in person or in writing, or failure to provide statements or evidence
+sufficient to allow the Planning Commission an opportunity to respond to the issue precludes
+an affected party's appeal of the decision to the Land Use Board of Appeals on that issue.
+Additional information is available from the County Planning Department at 503-434-7516.
+Dated June 21, 2024, Ken Friday, Planning Director.
+
+To participate in the hearing using Zoom please use the link below to join the webinar:
+https://usO06web.zoom.us/j/97354678574
+
+                                                                                                  Exhibit B
+                                                                                             Page 37 of 41
+Tiffanie Willis
+                        SS                                                                            SSS
+                                                                                                        SS SEES:
+
+From:                            DLCD Plan Amendments <plan.amendments@dlcd.oregon.gov>
+Sent:                            Monday, April 8, 2024 9:04 AM
+To:                              Tiffanie Willis
+Subject:                         Confirmation of PAPA Online submittal to DLCD
+
+Yamhill County
+
+Your notice of a proposed change to a comprehensive plan or land use regulation has been received by the Oregon
+Department of Land Conservation and Development.
+Local File #: Z-01-24
+DLCD File #: 001-24
+Proposal Received: 4/8/2024
+First Evidentiary Hearing: 7/11/2024
+Submitted by: willist@yamhillcounty.gov
+
+If you have any questions about this notice, please reply or send an email to plan.amendments@dicd.oregon.gov.
+
+                                                                                                       Exhibit B
+                                                                                                   Page 38 of 41
+      Docket Z-01-24 Wright/Bunn
+VSS            ———————————
+
+                       IV. Public Agency Reports
+
+                                                Exhibit B
+                                           Page 39 of 41
+                                    Yamhill County
+                DEPARTMENT                OF PLANNING             AND DEVELOPMENT
+                            525 NE 4TH STREET | McMINNVILLE, OREGON 97128
+                       Phone: (503) 434-7516 | Fax: (503)434-7544 | TTY: (800) 735-2900
+                               Internet Address; http:/Avww.co. yamhill.or.us/planning
+
+ June 21, 2024
+
+ To:          Public Works                                             0 ODOT
+              O SWDC                                                   O Water Master
+              0 Dayton Rural Fire Dept.                                O Sanitarian
+              G City of Lafayette                                      O DLCD
+
+ Re:       Docket Z-01-24, Catherine Wright, Tax Lot R4307-2301
+
+ The referenced docket is currently under consideration by Yamhill County. A request for approval of
+ a zone change from Exclusive Farm Use (EF-80) to Agriculture Forestry Small Holding (AF-10), The
+ request involves an approximately 14.7-acres parcel located south of the address 290 SE Locks Rd.,
+ Dundee.
+
+ Your recommendations and suggestions will be used to guide the decision-maker when reviewing this
+ request. If you wish to have your comments on the enclosed material considered, please return this
+ form by this date: July 8, 2024.
+
+ Your prompt reply will facilitate the processing of this application and will ensure consideration of your
+ recommendations. Please check the appropriate space below and provide any comments you wish in
+ the space provided, or on additional sheets.        *                                    P
+
+                                              PLEASE NOTE
+ [fa comment    is not received by the deadline indicated, the decision-making authority will assume that
+ there is no conflict between the request and the interests of your agency or organization and make its
+ decision accordingly.
+
+           1.      Wehave reviewed the file and find no          03.     Please refer to the enclosed letter.
+                   conflicts with our interests.
+                                                                 O4.     All   existing       and    proposed     primary
+         2.        A formal recommendation is under                      and repair drainfield sites must be
+                   consideration and will be submittedto                 within the property lines that they
+                   you by:                                               serve or a recorded easement must be
+                                                                         provided.
+
+Signed          _<¥ ==                                      Title_ “ZEUS                            Date   6/a. /pstf
+
+                                                                                                                     Exhibit B
+                                                                                                                Page 40 of 41
+ Docket Z-01-24 Wright/Bunn
+EE                ___.____e
+
+     Comments Received
+
+                               B.O, 24-256
+                                   Exhibit B
+                              Page 41 of 41
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 94.4% of
+the word sequence, and on 74.7% of the figures. Dictionary-recognizable words: 89.8%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

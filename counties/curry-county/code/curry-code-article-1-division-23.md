@@ -1,0 +1,385 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/curry-county
+id: curry-code-article-1-division-23
+title: 'Article 1 - Division 23'
+doc_type: ordinance
+citation: 'Article 1 - Division 23'
+authority_level: county_ordinance
+issuing_body: 'Curry County Board of Commissioners'
+source_url: https://www.currycountyor.gov/Article%201%20-%20Division%2023.pdf?t=202407101004170
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 2502ae1ca2ecc6073c62285be8933bd46c8b9372e5abd387c9a75746b9bf90d7
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.961; figure agreement 0.876; dictionary ratio 0.962. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [curry-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 96%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Article 1 - Division 23 (Article 1 - Division 23)
+
+## At a glance
+
+OCR-derived text of Article 1 - Division 23. Not human-verified.
+
+## Full text
+
+FILEDIN CURRY COUNTY              CJ:2019-324
+                                                           Renee’ Kolen, County Clerk = 10/21/2019 2:17:24 PM
+                                                          Commissioners’ Journal                     4 PAGES
+
+                        IN THE BOARD OF COUNTY COMMISSIONERS
+
+                       IN AND FOR THE COUNTY OF CURRY, OREGON
+
+In the Matter of an Amendment
+
+                                           ee”
+to the Curry County Code
+
+                                           ee
+Regarding General Administration                  ORDINANCE NO. 19-12
+
+                                           ee
+of the County Code Creating a
+
+                                           ee
+Suicide Prevention and Awareness
+Council                                    ee
+                                           eet
+
+          The Board of Commissioners for the County of Curry ordains as follows:
+
+SECTION 1: TITLE
+
+          This Ordinance shall be known as Ordinance No. 19-12, an Ordinance amending
+the Curry County Code with respect to General Administration, Article One.
+
+SECTION 2: ADOPTION
+
+      Exhibit “A”, attached hereto and incorporated by reference, is adopted as an
+amendment and new Section Twenty Three to the Curry County Code.
+
+SECTION 3: SEVERANCE CLAUSE
+
+       If any section, subsection, provision, clause or paragraph of this Ordinance shall
+be adjudged or declared by any court of competent jurisdiction to be unconstitutional or
+invalid, such judgment shall not affect the validity of the remaining portions of the
+Ordinance; and it is hereby expressly declared that every other section, subsection,
+provision clause or paragraph of this Ordinance enacted, irrespective of the enactment
+or validity of the portion thereof declared to be unconstitutional or invalid, is valid.
+
+          DATED this         lo?      day of Odtetor/                        , 2019.
+
+1JOrdinance            No.   19-12
+                                       BOARD OF CURRY COUNTY COMMISSIONERS
+
+                                           a
+                                       Christopher ‘SPaasch, Chair
+
+                                           ZOurt Boice, Vice Chair FCPS
+
+                                            a          ell
+                                       ‘Sué-Gold, ConimissioneX
+
+Attest:
+
+  Dol             V- Ke cf
+Recording Secretary
+
+Reviewed as to     Form:
+
+  Qe Nuat
+John Huttl
+Curry     County Counsel
+
+First Reading:            G- / ie) ~/ Gq
+Second Reading:        (J      -/6     ~/@
+Emergency Adoption:
+Effective Date:        /-1H-         B80
+
+2/|Ordinance        No.     19-12
+                                                  “EXHIBIT A”
+
+                                                 ARTICLE ONE
+
+DIVISION Twenty Three             SUICIDE PREVENTION AND AWARENESS COUNCIL
+
+1.23.010         Creation of a Suicide Prevention and Awareness Council
+There is hereby established for Curry County a Suicide Prevention and Awareness Council (“Council”).
+
+1.23.020         Powers and Duties
+
+(1) The Curry County Suicide Prevention and Awareness Council shall develop and recommend to the
+agencies that serve within the county, and to the public, plans and tools to provide for and influence the
+prevention and awareness of suicide in Curry County.      (2) Duties include but are not limited to the study
+of preventing suicide, plans for the prevention of suicide, and informing agencies and the general public
+of resources and plans to bring awareness to suicides in the county.
+
+1.23.030         Meetings
+The Council will establish regular meetings, which will be conducted pursuant to Oregon’s Public
+Meetings Laws and Rules.     The Council has power to establish regular meeting dates and times.      Until
+the Council establishes another date and time, Council meetings shall be the first Wednesday of every
+other month at 5pm.    Additional meetings may be convened as long as Oregon Public Meetings Laws
+and Rules are followed.
+
+1.23.040         Membership; Terms of Office; Compensation
+The Council will consist of members of agencies and societal segments that are impacted by, provide for,
+and influence prevention, awareness and suicidal attempts.        The Council shall be comprised of fifteen
+members.    Membership shall include a representative from the following: a first responder (i.e.
+Sheriff, Police, Fire, Cal Ore); Medical representative (doctor, nurse, hospital board member); youth
+education (school); social worker or counselor; Juvenile programming; Veterans programming or
+services; a city mayor or administrator; member of a tribal community; member from the faith based
+community; two teenage ambassadors from different school districts; media; and three lay people. The
+lay people shall be from each geographic region of the county: the North Region is from the Coos
+County Border south to Sisters Rock; the Central Region is from Sisters Rock to Burnt Hill Creek; the
+South Region is from Burnt Hill Creek to the California Border.
+
+Council membership is a four-year term.     All members shall be appointed by and serve at the pleasure of
+the Curry County Board of Commissioners.       Once at least eight members have been appointed, the
+Council shall convene a meeting. At that meeting, lots or straws will be drawn to determine position
+numbers.   Position numbers shall have staggered terms so that Position One serves for one year;
+Position Two serves for two years; and Position Three serves for three years; Positions Four and Five
+serve for four years. After the initial term, all positions shall be four-year terms.
+
+Appointments shall expire on December 31° of the appropriate year.
+Ail members of the Council shall serve without compensation.     Meeting attendance may be by
+telephonic or electronic means.
+
+1.23.050        Administration of Council Business
+The Council shall appoint a Chair, Vice-Chair and a Secretary. The secretary shall post all agendas,
+document meeting proceedings, and submit minutes to the Board of Commissioners after each meeting.
+                                                                              FILED IN CURRY COUNTY                 CJ:2019-326
+                                                                              Renee’ Kolen, County Clerk   = 10/23/2018 11:01:20 AM
+                                                                              Commissioners’ Journal                       7 PAGES
+
+In the Matter of Correcting          )       Notice Correcting Scrivener’s Error
+
+Scrivener’s Error                    )       Ordinance No. 19-12
+
+Certificate of Re-recording (Property Record) / Certificate of Re-filing (Book of Record)/ Commissioners
+Journal (CJ)
+
+         CJ: 2019-324
+
+Below signed Curry County Lega! Counsel, pursuant to Curry County Ordinance No. 17-05 authorizing
+counsel to correct scrivener’s errors hereby provides notice of correction of scrivener’s          error, to wit:
+
+                     Erroneous order/resolution number
+
+               \v   Erroneous exhibit: Filed with    incorrect Exhibit “A”.   The attached Exhibit “A” is the
+correct Exhibit.
+
+                    Other:
+
+         The prior order/resolution/ordinance/document: Ordinance No. 19-12 accompanies this notice.
+
+RE-CORDED / RE-FILED AT THE REQUEST OF CURRY COUNTY LEGAL COUNSEL TO CORRECT Ordinance
+No. 19-12 as above stated.
+
+Dated this 72 day of Ore bes                          20/ g :
+
+                                                            Qe? ul
+                                                     John R. Hutt
+                                                     Curry County Counsel
+                                                  “EXHIBIT A”
+
+                                                 ARTICLE ONE
+
+DIVISION Twenty Three               SUICIDE AWARENESS AND PREVENTION COUNCIL
+
+1.23.010           Creation of a Suicide Awareness and Prevention Council
+There is hereby established for Curry County a Suicide Awareness and Prevention Council (“Council”).
+
+1.23.020            Powers and Duties
+
+(1) The Curry County Suicide Awareness and Prevention Council shail develop and recommend to the
+agencies that serve within the county, and to the public, plans and tools to provide for and influence the
+awareness and prevention of suicide in Curry County.      (2) Duties include but are not limited to the study
+of preventing suicide, plans for the prevention of suicide, and informing agencies and the general public
+of resources and plans to bring awareness to suicides in the county.
+
+1.23.030            Meetings
+The Council will establish regular meetings, which will be conducted pursuant to Oregon’s Public
+Meetings Laws and Rules.       The Council has power to establish regular meeting dates and times.       Until
+the Council establishes another date and time, Council meetings shail be the first Wednesday of every
+other month at 5pm.       Additional meetings may be convened as long as Oregon Public Meetings Laws
+and Rules are followed.
+
+1.23.040            Membership; Terms of Office; Compensation
+The Council will consist of members of agencies and societal segments that are impacted by, provide for,
+and influence awareness, prevention, and suicidal attempts.       The Council shall be comprised of
+seventeen members.        Membership shall include a representative from the following:      law enforcement
+officer; first responder (i.e. EMT, Fire); medical (doctor, nurse, hospital board member, community care
+organization); youth education; trained social worker, therapist, counselor, or peer support; substance
+abuse/recovery; elder services; juvenile programming; veterans programming or services; a city mayor
+or administrator; tribal community; faith based community; one youth ambassador; media; and three
+lay people.
+
+Council membership is a four-year term, except the youth ambassador which shall serve a one year
+term. All members shall be appointed by and serve at the pleasure of the Curry County Board of
+Commissioners.       Once at least nine members have been appointed, the Council shall convene a
+meeting.      At that meeting, lots or straws will be drawn to determine position numbers.    Position
+numbers shall have staggered terms so that Position One serves for one year; Position Two serves for
+two years; and Position Three serves for three years; Positions Four and Five serve for four years. After
+the initial term, all positions, with the exception of the youth ambassador, shall be four-year terms.
+
+Appointments shall expire on December 31* of the appropriate year.
+All members of the Council shall serve without compensation. Meeting attendance may be by
+telephonic or electronic means.
+
+1.23.050        Administration of Council Business
+The Council shall appoint a Chair, Vice-Chair and a Secretary. The secretary shall post all agendas,
+document meeting proceedings, and submit minutes to the Board of Commissioners after each meeting.
+                                                            FILED IN CURRY COUNTY            CJ:2019-324
+                                                            Renee'Kolen, County Clerk = 1021/2019 2:17:24 Pa
+                                                            Commissioners’ Jounal                   4 PAGES
+
+                     IN THE BOARD OF COUNTY COMMISSIONERS
+
+                   IN AND FOR THE COUNTY OF CURRY, OREGON
+
+In the Matter of an Amendment
+
+                                            Se”
+to the Curry County Code
+
+                                            ee
+Regarding General Administration                    ORDINANCE NO. 19-12
+
+                                            Oe
+of the County Code Creating a
+
+                                            Oe
+Suicide Prevention and Awareness
+                                            ee
+Council
+                                            we
+
+       The Board of Commissioners for the County of Curry ordains as follows:
+
+SECTION
+    1: TITLE
+       This Ordinance shall be known as Ordinance No. 19-12, an Ordinance amending
+the Curry County Code with respect to General Administration, Article One.
+
+SECTION 2: ADOPTION
+
+      Exhibit “A”, attached hereto and incorporated by reference, is adopted as an
+amendment and new Section Twenty Three to the Curry County Code.
+
+SECTION 3: SEVERANCE CLAUSE
+
+       If any section, subsection, provision, clause or paragraph of this Ordinance shail
+be adjudged or declared by any court of competent jurisdiction to be unconstitutional or
+invalid, such judgment shall not affect the validity of the remaining portions of the
+Ordinance; and it is hereby expressly declared that every other section, subsection,
+provision clause or paragraph of this Ordinance enacted, irrespective of the enactment
+or validity of the portion thereof declared to be unconstitutional or invalid, is valid.
+
+       patents            [day ot                 Odtoler/ __ 2019.
+
+1jOrdinance        No.    19-12
+                                      BOARD OF CURRY COUNTY COMMISSIONERS
+
+Attest:
+
+  Sol               T- “ip wot
+Recording Secretary
+
+ARON                 Wie
+
+John      Hutti
+Curry        County Counsel
+
+First Reading:            G- / 8 “ff Fg
+Second Reading:           /2 -/6      ~/9
+Emergency Adoption:
+Effective Date:           J/-14-2A0
+
+2{Ordinance            No.    19-12
+                                                 “EXHIBIT A”
+
+                                                ARTICLE ONE
+
+DIVISION Twenty Three              SUICIDE PREVENTION AND AWARENESS COUNCIL
+
+1.23.010        Creation of a Suicide Prevention and Awareness Council
+There is hereby established for Curry County a Suicide Prevention and Awareness Council (“Council”).
+
+1.23.020         Powers and Duties
+
+(1) The Curry County Suicide Prevention and Awareness Council shall develop and recommend to the
+agencies that serve within the county, and to the public, plans and toois to provide for and influence the
+prevention and awareness of suicide in Curry County. (2) Duties include but are not limited to the study
+of preventing suicide, plans for the prevention of suicide, and informing agencies and the general public
+of resources and plans to bring awareness to suicides in the county.
+
+1.23.030         Meetings
+The Council will establish regular meetings, which will be conducted pursuant to Oregon’s Public
+Meetings Laws and Rules. The Council has power to establish regular meeting dates and times. Until
+the Council establishes another date and time, Council meetings shail be the first Wednesday of every
+other month at Spm.    Additional meetings may be convened as long as Oregon Public Meetings Laws
+and Rules are followed.
+
+1.23.040         Membership; Terms of Office; Compensation
+The Council will consist of members of agencies and societal segments that are impacted by, provide for,
+and influence prevention, awareness and suicidal attempts. The Council shall be comprised of fifteen
+members. Membership shail include a representative from the following: a first responder (i.e.
+Sheriff, Police, Fire, Cal Ore); Medical representative (doctor, nurse, hospital board   member); youth
+education (school); social worker or counselor, Juvenile programming; Veterans programming or
+services; a city mayor or administrator; member of a tribal community; member from the faith based
+community; two teenage ambassadors from different school districts; media; and three lay people. The
+lay people shalt be from each geographic region of the county: the North Region is from the Coos
+County Border south to Sisters Rock; the Central Region is from Sisters Rockto Burnt Hill Creek; the
+South Region is from Burnt Hill Creek to the California Border.
+
+Council membership is a four-year term.    Ail members shall be appointed by and serve at the pleasure of
+the Curry County Board of Commissioners.      Once at least eight members have been appointed, the
+Council shall convene a meeting.    At that meeting, lots or straws will be drawn to determine position
+numbers.   Position numbers shalt have staggered terms so that Position One serves for one year;
+Position Two serves for two years; and Position Three serves for three years; Positions Four and Five
+serve for four years. After the initial term, all positions shail be four-year terms.
+
+Appointments shall expire on December 31* of the appropriate year.
+Ail members of the Council shall serve without compensation. Meeting attendance may be by
+telephonic or electronic means.
+
+1.23.050        Administration of Council Business
+The Council shall appoint a Chair, Vice-Chair and a Secretary. The secretary shall post afl agendas,
+document meeting proceedings, and submit minutes to the Board of Commissioners after each meeting.
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 96.1% of
+the word sequence, and on 87.6% of the figures. Dictionary-recognizable words: 96.2%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

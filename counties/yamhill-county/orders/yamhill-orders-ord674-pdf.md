@@ -1,0 +1,1172 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord674-pdf
+title: 'ORD674-PDF'
+doc_type: ordinance
+citation: 'ORD674-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17559/ORD674-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: d609ccf830de221f88f2fef4a7c7fbec2f9f4a51c8ad066f7e4b7749e14f987a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.991; figure agreement 0.870; dictionary ratio 0.959. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.835
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD674-PDF (ORD674-PDF)
+
+## At a glance
+
+OCR-derived text of ORD674-PDF. Not human-verified.
+
+## Full text
+
+“ee                                                                            ay 68 nce O26
+
+               IN THE BOARD OF COMMISSIONERS OF THE STATSOFIOREGONT 55
+                                  FOR THE COUNTY OF YAMHILL
+                   SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+In the Matter of an Ordinance Relating to Planning
+Dockets Z-01-98 and SU-01-98, Tax Lot 3230-100
+applicant Baker Rock Crushing Company; Confirm-
+ing the Validity of Ordinance 650; Determining after                     ‘ORDINANCE 674
+Public Hearing on Remand from the Land Use Board
+of Appeals that the Applicant had Satisfied Yamhill
+County Comprehensive Plan Policy V.A.1.b, LUBA No.
+98-141; Declaring an Emergency.
+
+THE BOARD OF COMMISSIONERS                   OF YAMHILL COUNTY, OREGON (“the Board”) sat
+for the transaction of county business in formal session on November 4, 1999, commissioners
+Robert Johnstone, Thomas E.E. Bunn and Ted Lopuszynski being present.
+
+THE BOARD MAKES THE FOLLOWING FINDINGS:
+
+A.         On August 4, 1998 the Board adopted Ordinance 650 to approve the application of Baker
+Rock Crushing Company to site an Asphalt Batch Plant on Tax Lot 3230-100. County records
+regarding Baker Rock’s application are memorialized in Planning Dockets Z-01-98 and SU-01-
+98. In its operative part, Ordinance 650 provided as follows:
+
+           “Section 1. The Official Zoning Map of Yamhill County is hereby amended on the
+           approximately 18 acre portion of the 20 acre tract known as Tax Lot 3230-100 as
+           specified in the attached Exhibit "B" to reflect a zoning designation of "HI".
+
+           “Section 2. Aggregate processing and an asphalt batch plant is hereby determined to be
+           similar to permitted uses in the “HI” (Heavy Industrial) district.
+
+           “Section 3. The findings attached as Exhibit "A" and incorporated herein by reference are
+           hereby adopted in support of this ordinance.
+
+           “Section 4. A Limited Use Overlay is hereby applied to that portion of tax lot 3230-100
+           that is rezoned to “HI” (Heavy Industrial).   Under the Limited Use Overlay, permitted
+           uses shall be limited to those uses the applicant has described as being part of its
+           proposal, which include the installation of an asphalt batch plant, the on-site processing
+           and storage of finished products and materials necessary for the production of asphalt,
+           and other uses incidental thereto. Under the Limited Use Overlay to be applied to the
+           site, all other uses listed as allowed in the Heavy Industrial District under YCZO     § 703.02
+           will only be allowed subject to established conditional use procedures. In addition, the
+           approval of the Limited Use Overlay shall be subject to the following conditions:
+                                                                                                  B.0.99- 2/¥
+                                                                                       ORDINANCE 674
+                                                                                                     Page 1
+                                                                                   ris B8 vce O27
+
+       ey
+              An application for site design review shall be submitted and approved by the
+              county prior to any change in the type or scale of uses occurring on the parcel. As
+              part of the site design review, the developer may be required to complete off-site
+              road improvements if the city and county Public Works Directors determine that
+              the roads that will be used to transport materials to and from the site are
+              inadequate to handle the truck traffic generated by the use.
+
+       “
+              All necessary DEQ permits shall be obtained for the asphalt batch plant.
+
+       «3
+               A floodplain development permit shall be obtained prior to any new development
+               that will occur on portions of the parcel that are below 100 feet in elevation above
+               sea level. Development includes grading, excavation, placement of fill material
+               and structures.
+
+       “A,    A Willamette River Greenway permit shall be obtained prior to any new
+              development in the Greenway.
+
+       “5,    Trucks used for transporting materials to and from the facility shall be required to
+              use the existing truck route from the site via 14" Street, River Street, 11" Street,
+              Wynooski Road, and Highway 219, to the extent the route remains as a designated
+              truck route.
+
+       “Section 5, This ordinance being necessary for the health, safety, and welfare of the
+       citizens of Yamhill County, and an emergency having been declared to exist, is effective
+       upon passage.”
+
+B.       The City of Newberg appealed Ordinance 650 to the Land Use Board of Appeals,
+asserting the Board had committed a series of errors in approving Baker Rock’s application. The
+case number assigned to the appeal by the Land Use Board of Appeals was LUBA No. 98-141.
+
+C.   On July 29, 1999 the Land Use Board of Appeals issued a Final Opinion and Order in
+LUBA No. 98-141. LUBA rejected all assignments of error raised by the City of Newberg in its
+appeal of Ordinance 650 except for one. The assignment of error sustained by LUBA was the
+City’s contention that the County erred in failing to consider Yamhill County Comprehensive
+Plan Policy V.A.1.b which provided as follows:
+
+       “Yamhill County will, in making land use decisions relative to industrial or other
+       uses likely to pose a threat to air quality, consider proximity of the proposed uses
+       to residential areas and meteorological factors such as seasonal prevailing wind
+       direction and velocity.”
+
+D.      Because LUBA sustained the single assignment of error, it remanded the County’s land
+use decision in Ordinance 650 back to Yamhill County. LUBA No. 98-141 was not appealed to
+the Oregon Court of Appeals and therefore became the final appellate decision on the matter.
+
+                                                                                   ORDINANCE 674 |
+                                                                                            Page 2
+                                                                                    rx B8 mace O28
+
+ E.      On October 28, 1999 the Board held a pubic hearing in Room 32 of the county
+ courthouse to consider the LUBA remand of Ordinance 650. Public Notice of the hearing had
+ provided that the only evidence or testimony which would be accepted must relate to Yamhill
+ County Comprehensive Plan Policy V.A.1.b. After the chair had opened the public hearing, the
+ City of Newberg requested the Board to expand the scope of the public hearing in order for the
+ City to address issues in addition to Plan Policy V.A.1.b. After considering the City’s request,
+ the Board determined that the hearing should proceed as noticed, and that the Board would only
+ accept evidence and testimony relevant to Plan Policy V.A.1.b.
+
+ F,      After consideration of preliminary matters described in paragraph (E), the Board
+ proceeded with the public hearing to consider the LUBA remand of Ordinance 650. Proponents
+ and opponents introduced evidence and testimony related to air quality and meteorological
+ conditions in order for the Board to consider the affect of Yamhill County Comprehensive Plan
+ Policy V.A.1.b.
+
+ G.      At the conclusion the public hearing on October 28, 1999 the chair announced the record
+ of the hearing was closed to the receipt of additional evidence.   The Board then deliberated the
+ issue and determined that the applicants had satisfied Plan Policy V.A.1.b, and that the decision
+ made by Ordinance 650 should be confirmed.         The matter was continued until November 4, 1999
+ for staff to prepare findings in support of the Board’s tentative decision of October 28, 1999.
+ NOW, THEREFORE,
+
+ THE YAMHILL COUNTY BOARD OF COMMISSIONERS                          ORDAINS AS FOLLOWS:
+
+ Section 1.        Confirmation of Ordinance 650.
+
+         The land use decision made by Ordinance 650, August 4, 1998 is hereby confirmed.
+
+ Section 2.        Compliance with Plan Policy V.A. Lb.
+
+         In accordance with the Final Opinion and Order in LUBA No. 98-141, July 29, 1999, the
+         Board has considered whether Yamhill County Comprehensive Plan Policy V.A.1.b
+         precludes the Board from approving Baker Rock Crushing Company’s application
+         through the Board’s adoption of Ordinance 650. The Board specifically finds that Baker
+         Rock Crushing Company has satisfied YCCP V.A.1.b, and that Ordinance 650 should be
+         confirmed.
+
+ Section 3.        Findings in Support.
+
+         In support of this Ordinance, the Board adopts the Findings attached and incorporated as
+         Exhibit “A.”
+
+ Ml
+
+Hl
+
+                                                                                    ORDINANCE 674
+                                                                                                   Page 3
+                                                                                 ux O8 vce O29
+Section 4.     Emergency clause.
+
+        This ordinance being necessary for the health, safety, and welfare of the citizens of
+        Yamhill County, and an emergency having been declared to exist, is effective
+        immediately.
+
+AYES:          Commissioners Johnstone, Bunn and Lopuszynski.
+
+NAYS:          None.
+
+DONE    at McMinnville, Oregon on November 4, 1999.
+
+ATTEST                                 YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+CHARLES STERN                                “Vedat nbd                   Mane
+County Clerk                           Chairman               ROBERT JOHNSTONE
+
+                        WHITE      — Commissioner             THOMAS E. E. BUNN
+
+JOHN
+   M. GRAY, J Re \                     Commissioner      (_/ TED LQPUSZYNSKI
+Yamhill ERA Cou
+
+                                                                                   whitec\plan\bakreord.wpd
+
+                                                                                   ORDINANCE 674
+                                                                                            Page 4
+                                                                                         run 68 ee 030
+
+                                            EXHIBIT “A”
+                                           ORDINANCE 674
+
+                                   FINDINGS FOR APPROVAL
+                                         ON REMAND
+                               ZONE MAP CHANGE APPLICATION
+                              BAKER ROCK CRUSHING COMPANY
+                                      DOCKET NO. Z-01-98
+
+A.      Type of Application:
+         The applicant, Baker Rock Crushing Company, is seeking a zone map change for most of its
+property, tax lot 3230-100. The property is currently zoned “Mineral Resource-2” (MR-2), and the
+applicant has requested that the property be zoned “Heavy Industrial” (HI). The applicant intends to
+place an asphalt batch plant on the upper terrace of the property, following site design review. To that
+end, the applicant has also requested from the County a determination that an asphalt batch plant is a
+heavy industrial use, similar to other uses allowed in the HI zone.
+         To accommodate expansion of Roger’s Landing Marine Park, the applicant has arranged to
+make available to Yamhill County approximately one acre of the riverfront portion of its property
+adjacent to the park. The southeast corner of tax lot 3230-100 would retain its current zoning, because
+parks are conditionally allowed in the MR district, but not in the HI district. The area that would
+remain in MR-2 zoning extends +350 feet west from the eastern boundary of tax lot 3230-100.
+        On August 4, 1998, the Board of Commissioners (Board) approved the application.         By
+Ordinance 650, the County rezoned tax lot 3230-100 from MR-2 to HI, determined that asphalt
+batching is a similar use to uses listed as allowed in the HI zone, and applied a Limited Use Overlay to
+the property, to limit allowed uses to those proposed by the applicant.
+         The City of Newberg (City) was originally part of this application, and had tentatively agreed
+to allow installation of the batch plant on tax lot 3229-2700, which the City owns and which is adjacent
+to the applicant’s parcel. Ultimately, the City opposed the application to develop either its parcel or the
+applicant’s parcel. Subsequent to the County’s approval of the application, the City appealed to the
+Land Use Board of Appeals (LUBA) and the County’s decision was remanded.
+         This document represents the County’s additional findings supporting its decision to approve
+the application, in response to the Final Opinion and Order issued by LUBA on July 29, 1999, in
+LUBA No. 98-141 (LUBA Opinion). The record of the original proceedings on this application is
+included by this reference in the record of this proceeding on remand. The original findings of fact in
+this matter are hereby incorporated by reference in these findings, as if set out fully here. Reference
+should be made to the original findings for background information and findings regarding the County’s
+decision that are not repeated or discussed below.
+B.      Summary of LUBA’s Decision, LUBA No. 98-141
+        LUBA summarized the facts leading to its decision as follows:
+            “The subject property is a 20-acre parcel located between 14" Street on the
+            north and the Willamette River on the south, within the city’s urban growth
+            boundary (UGB) but outside the city limits. The property is bordered on the
+            west by River Road with scattered rural residences further to the west. On the
+            east, the property is bordered by two city-owned vacant parcels formerly used
+            for landfill and sewage treatment purposes and a marine park called Roger’s
+
+                                                                            EXHIBIT “A” to Ordinance 674
+                                                                                                   Page 1
+                                                                                                  FILH    68      PACE      O31
+
+          Landing. Adjacent to Roger’s Landing and the city-owned parcels to the east
+          is the Smurfit pulp and paper mill on 145 acres of land zoned HI. To the north
+          of 14" Street lay vacant property zoned for agricultural and forestry uses, and
+          further north, a railroad line and residential uses that are within the city limits.
+          “The subject property is topographically marked by a steep escarpment that
+          separates the lower portion of the property near the river within the river’s
+          flood plain from an upper bench. The lower portion of the property is located
+          within the Willamette River Greenway. Intervenor has operated an aggregate
+          processing and storage facility on the property for 25 years that has involved
+          shipping aggregate to the site by barge, washing and crushing the rock, and
+          then transporting the aggregate on trucks via 14" Street to its ultimate
+          destination.’ At the height of intervenor’s aggregate operation in 1993,
+          intervenor’s operation produced 283,000 tons of aggregate and generated an
+          average of 22 trucks per hour using the 14" Street truck route.
+               “The subject property is designated ‘industrial’ under both the city and
+               county comprehensive plans. In 1979, the city and county entered into
+               an Urban Area Growth Management Agreement (UAGMA) that
+               requires, in relevant part, that zone changes outside city limits but
+               within the UGB ‘shall be processed by Yamhill County and shall be
+               forwarded to the City Council for its recommendation.” UAGMA
+               VII(3)(a). Where the city’s recommendation is required, the VAGMA
+               provides that ‘the City and County need not agree upon a decision.’
+               UAGMA II(5)(b). The UAGMA does not specify what standards are
+               applied in processing a zone change or other applications within the
+               UGB, but does provide that:                                                ;
+                ‘The 1979 Comprehensive Plan Land Use Map adopted by the City of
+               Newberg on July 2, 1979, shall be the plan map for the area within
+               the [UGB], and shall replace conflicting portions of the Yamhill
+               County Comprehensive Plan Map (1974) pertinent to this area.
+               Where said maps conflict, Yamhill County shall initiate the process
+               necessary for consideration of a map amendment.’ UAGMA
+               IiI(1).’Ctalics added)
+          “Pursuant to UAGMA II(D, the county adopted Ordinance 214, which
+          provides in relevant part:
+                ‘The [commissioners have] reviewed the City’s Comprehensive Plan,
+               a copy of which is attached and by this reference is made a part
+               hereof, and hereby adopts the City Plan Map designations for that
+               area of Yamhill County which is within the City’s UGB and is outside
+               of the corporate limits of the City. The Planning Director is hereby
+               authorized and directed to amend the Yamhill County Comprehensive
+               Plan [YCCP] Map accordingly.
+                dn amending the [YCCP], where the [YCCP] does not have a
+               designation which corresponds to the City Plan Map designation, the
+               Director my designate such property as “Future Urbanizable Lands.”
+
+! The Board notes that prior to the applicant’s acquisition of the site, it was operated by Macaulay Rock Products.
+
+                                                                                      EXHIBIT “A” to Ordinance 674
+                                                                                                                         Page 2
+                                                                                           FILA   68   PACE   032
+
+                (Italics added)
+            “Tn February 1998, intervenor and the city jointly applied to the county for
+            (1) a zone change from MR-2 to HI, (2) a similar use determination, and (3)
+            a Willamette River Greenway Permit for an area including the subject
+            property and one of the adjacent city-owned lots. The purpose of the
+            application was to allow intervenor to operate a permanent asphalt batch
+            plant on the city lot. A permanent asphalt batch plant is prohibited in the
+            MR-2 zone, but is allowed, subject to a similar use determination, in the HI
+            zone. At some point thereafter, intervenor dropped plans to locate the plant
+            on the city-owned lot, and instead proposed locating it on the lower portion
+            of the subject property. As proposed, the asphalt batch plant would produce
+            approximately 50,000 tons of asphalt per year, and generate five truck trips
+            during the peak hour.
+            “Pursuant to UAGMA VII(3)(a), the application was forwarded to the city
+            for its recommendation. The city council adopted a resolution that
+            recommended denial of the requested zone change, similar use
+            determination and Willamette River Greenway permit. Intervenor then
+            withdrew its request for a Willamette River Greenway Permit, and modified
+            its application to propose placing the asphalt batch plant on the upper bench
+            of its property, outside the Willamette River Greenway, The commissioners
+            conducted an evidentiary hearing on June 11, 1998, at which the city
+            testified in opposition. On July 2, 1998, the commissioners closed the
+            record, deliberated and voted to approve the zone change and similar use
+            determination.   The commissioners reopened the record on August 4, 1998,
+            to receive testimony rebutting certain alleged ex parte communications, and
+            on that date issued its written decision approving the requested zone change
+            and similar use determination.”    LUBA decision, p. 2-5.
+         In its appeal to LUBA, the City made four assignments of error. LUBA identified nine
+additional subassignments of error, and determined that one of those subassignments was
+meritorious.
+       The subassignment of error that was sustained by LUBA concerned Yamhill County
+Comprehensive Plan Policy V.A.1.b., which reads:
+            “Yamhill County will, in making land use decisions relative to industrial or
+            other uses likely to pose a threat to air quality, consider proximity of the
+            proposed use to residential areas and meteorological factors such as
+            seasonal prevailing wind direction and velocity.”
+         In the original proceedings, the Board failed to adopt findings addressing this policy,
+because no party argued that it might apply. Before LUBA, for the first time in these proceedings,
+the City argued “that the proposed asphalt batch plant will impact air quality, particularly with
+respect to nearby residential uses, and that the challenged decision must be remanded to address
+YCCP V.A.1.b.” (LUBA Opinion, p. 10)
+        In response, the County argued that:
+             “YCCP V.A.Lb. is not applicable, because it is applicable only when a
+            land use decision is likely to pose a threat to air quality.” The county made
+            findings with respect to other criteria that the applicant must obtain all
+            necessary Department of Environmental Quality (DEQ) permits and satisfy
+
+                                                                            EXHIBIT “A” to Ordinance 674
+                                                                                                   Page 3
+                                                                                   un 68 nce 033
+            all applicable DEQ regulatory requirements, and that ‘the very low levels of
+            emissions’ from the proposed plant do not pose human health risks, Record
+            23. To the extent complaints about emissions go to odor rather than health
+            risks, the county argues that such complaints do not constitute evidence of a
+            ‘threat to air quality’ within the meaning of YCCP V.A.1.b. We understand
+            the county to argue that the Board should interpret YCCP V.A.1.b. as being
+            limited to the kind of air quality concerns addressed by DEQ, and that the
+            above findings and their supporting evidence ‘clearly supports’ a finding
+            either that YCCP V.A.1.b. is inapplicable or that the proposed asphalt batch
+            plant is consistent with that provision.” (LUBA Opinion, p.11)
+        On this point, LUBA held as follows:
+            “We decline to interpret YCCP V.A.1.b. as the county suggests. It is not at
+            all clear that YCCP V.A.1.b. is ditected or limited to the types of emissions
+            that DEQ regulates. To the extent the county relies on ORS 197.835(11)(b),
+            findings that the plant’s ernissions do not pose human health risks do not
+            ‘clearly support’ a finding of compliance with YCCP V.A.1.b.”
+         It is also notable, for the purposes of the remand proceeding, that LUBA identified no other
+errors or oversights in the County’s decision. In that regard, the County has already determined, as
+required by YCZO 1208.02(C), that:
+            “The proposed [zone] change is appropriate considering the surrounding
+            land uses, and the density and pattern of development in the area * * *”
+
+        In determining that the applicant had met this requirement, LUBA stated:
+            “The city faults the county’s finding regarding odor, noise, and dust
+            impacts. The city argues that the evidence the county relied upon indicates
+            that asphait plants can be operated in proximity with residential
+            development without causing noise and dust problems, but, according to the
+            city, nothing in the record discusses the impacts of odor from asphalt plants.
+            “Intervenor responds by citing to evidence in the record that neighbors of
+            the proposed asphalt plant in its former location had never complained
+            regarding odor, noise, or other emissions. We agree with intervenor that the
+            cited evidence constitutes substantial evidence supporting the county’s
+            findings regarding adverse impacts from odor, noise, and dust.” LUBA
+            Opinion, p. 18.
+
+Cc:     County’s Interpretation of Plan Policy V.A.1.b.
+         1       The first step in addressing Plan Policy V.A.1.b. is for the Board to determine what
+it means. In this regard, Yamhill County Zoning Ordinance (YCZO) Section 1208.02 A, requires an
+applicant for a zone change to demonstrate that:
+            “The proposed change is consistent with the goals, policies and any other
+            applicable provisions of the comprehensive plan.”
+LUBA’s opinion directs the Board to determine the extent to which plan policy V.A.1.b. is
+applicable to the applicant’ s proposal, what the policy means, and specifically, whether the Board
+intends through the policy to regulate air quality beyond the level of regulation that would be
+imposed by the Oregon Department of Environmental Quality (DEQ) under the Clean Air Act and
+state laws implementing the Act. LUBA did not fault any findings made by the Board, and did not
+interpret plan policy V.A.1.b. LUBA remanded the decision to allow the Board to articulate the
+
+                                                                           EXHIBIT “A” to Ordinance 674
+                                                                                                  Page 4
+                                                                                             rin 68 vce O34
+
+meaning of the policy and to adopt appropriate findings addressing it. The County adopted Plan
+Policy V.A.1.b., is entitled to interpret its meaning, and is entitled to deference for its interpretation.
+         2.       The Meaning of the Express Language of Plan Policy V.A.1.b.
+          24       “Likely to pose a threat to air quality.” By its terms, Plan Policy V.A.1.b. is
+relevant when Yamhill County is making a land use decision relative to industrial or other uses
+“Tikely to pose a threat to air quality.” The Board interprets this phrase to relate to industrial and
+other uses likely to pose more than an incidental threat to air quality, and specifically to the types of
+air quality impacts regulated by DEQ, and the degree to which DEQ regulates those impacts. A
+facility is not “likely to pose a threat to air quality” if the applicant demonstrates that the facility will
+likely be able to obtain a DEQ air quality permit and be operated in conformance with the permit.
+The Board reserves judgment regarding whether the policy would be implicated in the case of a
+proposed facility requiring a “Title V” major source Air Contaminant Discharge Permit from DEQ.
+The Board nevertheless concludes, for all of the reasons stated herein, that the policy is not
+implicated by a proposal to construct a facility that is likely to be subject to a “minimal” or “regular”
+Air Contaminant Discharge Permit, and appears capable of obtaining such a permit.
+          2.2     The Board does not intend, through Plan Policy V.A.1.b., to independently regulate
+air pollutants or air quality impacts, or to impose restrictions under policy V.A.1.b. in addition to
+restrictions imposed by DEQ. As stated numerous times in the original findings for approval, the
+County relies on DEQ, its regulations and expertise, to ensure that air quality impacts of proposed
+development are adequately considered and mitigated. Based on testimony and evidence in the
+original record of these proceedings, the County concluded, and continues to conclude, that it is
+reasonable to expect that the applicant can meet all state and federal environmental regulations
+applicable to the proposed use. The facility is currently located at Farmington, Oregon, and operates
+under a regular Air Contaminant Discharge Permit issued by DEQ. A condition of approval requires
+the applicant to obtain all necessary DEQ permits, and if DEQ will not issue a permit, the facility
+cannot be operated on the subject property. To the extent any goal or policy of Yamhill County
+requires consideration of air quality impacts, the Board finds that compliance with those policies,
+including plan policy V.A.1.b., can be met through imposition of the condition.
+         2.3     The Board does not intend, through policy V.A.1.b., to regulate air quality impacts
+of proposed facilities, or to require applicants to consider “threats to air quality” that are incidental,
+are not regulated by, or are not of concern to DEQ. The Board intends for this policy to be directed
+and limited to the types of emissions that DEQ regulates and the degree of regulation imposed by
+DEQ, and for DEQ to continue to have sole authority to monitor and regulate air quality impacts.
+        2.4     Meaning of “consider.”” Webster’s Third New International Dictionary
+(unabridged, 1993) defines “consider” to mean:
+              “1; to reflect on : think about with a degree of care or caution * * * 2;
+              REFLECT, DELIBERATE, PONDER * * * CONSIDER often indicates
+              little more than think about. It may occasionally suggest somewhat more
+              conscious direction of thought, somewhat greater depth and scope, and
+              somewhat greater purposefulness.” (no emphasis added)
+         2.4.1   The Board accepts this definition of the term. Since the Board is only required by
+the policy to “consider” the potential impact of a proposal, an applicant can be required by the
+policy only to ensure that the Board did in fact “think about” those impacts. There is no reasonable
+reading of the policy that would lead to a conclusion that the applicant must prove that such impacts
+do not exceed a certain level. Policy V.A.1.b. is satisfied if the record demonstrates that the Board
+(after determining that the proposed use is “likely to pose a threat to air quality”) “thought about”
+
+                                                                                EXHIBIT “A” to Ordinance 674
+                                                                                                       Page 5
+                                                                                              ris 88 vce O35
+
+“proximity of the proposed use to residential areas and meteorological factors such as seasonal
+prevailing wind direction and velocity.”
+        2.4.2    The Board also notes that it has also “thought about” the potential impacts of the
+proposed facility on the surrounding area under YCZO section 1208.02(C), which requires the
+County to find that:
+                “The proposed change is appropriate considering the surrounding land
+                uses, the density and pattern of development in the area, any changes which
+                may have occurred in the vicinity to support the proposed amendment and
+                the availability of utilities and services likely to be needed by the
+                anticipated uses in the proposed district.”
+As stated, LUBA has already determined that, in the original proceedings, the applicant
+demonstrated compliance with this standard, and County findings addressing the standard are
+adequate, As part of its analysis of the evidence relied upon by the County, LUBA concluded that
+the record contains “substantial evidence supporting the county’s findings regarding adverse impacts
+from odor, noise, and dust.” LUBA Opinion, p. 18. The Board has therefore already considered
+the appropriateness of the use in relation to surrounding land uses, including residential uses, and
+has concluded that the zone change is appropriate in terms of the limited impacts likely to occur due
+to odor, noise and dust from the proposed facility.
+        2.5    Meaning of phrase “proximity of the proposed use to residential areas and
+meteorological factors such as seasonal prevailing wind direction and velocity.”
+         2.5.1    The express language of Plan Policy V.A.1.b. requires that the Board, under
+specified circumstances, consider “proximity of the proposed use to residential areas and
+meteorological factors such as seasonal prevailing wind direction and velocity.” The text and
+context of the provision leads the Board to conclude that it directs the Board to consider
+meteorological factors that may tend to aggravate or mitigate the impact of a proposed facility on
+nearby residential areas. Thus, the Board is not required to consider all meteorological phenomena
+that might be in play in the area of the proposed development, but only those meteorological factors
+likely to create, exacerbate, or mitigate impacts on nearby residential areas.
+        2.5.2     | Webster’s Third New International Dictionary, (Unabridged,   1993) defines
+“meteorological” to mean, “relating to meteorology.” Webster’s defines “meteorology” to mean, “1
+a:ascience that deals with the atmosphere and its phenomena (as variations of heat, moisture, or
+winds)—compare CLIMATOLOGY b : a science that deals with weather and weather forecasting 2
+: the atmospheric phenomena and weather of a region.” Webster’s defines “weather” to mean “1:
+state of the atmosphere at a definite time and place with respect to heat or cold, wetness or dryness,
+calm and storm, clearness or cloudiness ; meteorological condition.”
+
+         2.5.3   The County finds that the only meteorological factors that are relevant to this
+discussion are the ones raised by-participants in the original and remand proceedings: “seasonal
+prevailing wind and velocity, ” and temperature inversions. The Board has received no evidence
+suggesting that any other weather phenomena are relevant to this decision, or would tend to create,
+exacerbate, or mitigate to any significant degree the impact of the facility on nearby residential
+areas. The Board concludes that meteorological factors other than temperature inversions and
+seasonal prevailing wind and direction are not significant in assessing the possible impacts of the
+proposed facility, and accepts as true and adequate the information regarding temperature inversions
+and seasonal prevailing wind direction and velocity submitted by the applicant.
+       3.      The purpose and underlying policy of Plan Policy V.A.1.b. In the Yamhill
+County Comprehensive Plan, the “Introduction to 1979 Amendments (Ord. 206)” states:
+
+                                                                             EXHIBIT “A” to Ordinance 674
+                                                                                                      Page 6
+                                                                                      FILR    68    PACE     036
+
+             “Implementation of the County goals and policies can occur several ways.
+            Many are implemented through county ordinance. Other goals and policies
+            will apply to individual issues or proposals put forth by both private and
+            public sectors. Still others will require action dependent upon the County’s
+            fiscal resources through time.
+             When certain goals and policies conflict with others, the final decision will
+             require a weighing of the merits in order to achieve a balanced decision.
+             Through time, the goals and policies are guides for consistent, reasonable
+             and balanced land use decisions.”
+         3.1     As described above, the Board interprets Plan Policy V.A.1.b. to relate to industrial
+and other uses likely to pose more than an incidental threat to air quality. The policy is not
+implicated if the applicant demonstrates. that the facility will be subject to a “minimal” or “regular”
+Air Contaminant Discharge Permit, and is likely to receive and to be operated in conformance with
+the permit. When implicated, the policy requires the Board to consider wind direction, velocity, and
+other relevant meteorological phenomena, and whether these phenomena are likely to cause,
+exacerbate, or mitigate air quality impacts to nearby residential areas.
+         3.2,   The policy itself is located in Section V. of the plan, entitled “Environmental
+Quality.” Subsection A. is entitled “Air, Water and Land Resources Quality.” The “Goal
+Statement” under Section V.A. is:
+             “1,   To conserve and to protect natural resources, including air, water, soil
+             and vegetation and wildlife, from pollution or deterioration which would
+             dangerously alter the ecological balance, be detrimental to human health,
+             or compromise the beauty and tranquility of the natural environment.”
+          3.3      The Goal stated in Section V.A. is clearly aspirational, and not an approval criteria.
+It states an ideal that serves as a basic consideration for the County when developing the
+implementing regulations in its zoning ordinance. To further understand the context and purpose of
+policy V.A.1.b, all of the policies under Goal Statement V.A.1. are listed here:
+             “a, Yamhill County will cooperate with the State Department of
+             Environmental Quality in enforcing state and federal regulations designed
+             to achieve a high air quality.
+            b, Yamhill County will, in making land use decisions relative to industrial
+            or other uses likely to pose a threat to air quality, consider proximity of the
+            proposed use to residential areas and meteorological factors such as
+            seasonal prevailing wind direction and velocity.
+             c. Yamhill County will cooperate with the State Department of
+             Environmental Quality in implementing noise control regulations,
+            d. Consideration will be given to adopting an ordinance requiring
+            environmental impact review of all major public and private development
+            proposals and the social and economic costs and benefits associated with
+            any particular development proposal will be properly evaluated prior to
+            public endorsement or approval.
+             e. In order to maintain and improve the quality of the county’s air, water
+             and land resources, Yamhill County will seek to minimize irreversible and
+             other long-term impacts in its development of energy resources; support
+             efforts, where feasible, for the appropriate and efficient recovery of energy
+
+                                                                             EXHIBIT “A” to Ordinance 674
+                                                                                                           Page 7
+                                                                                       FILK   b8     PACE   037
+               as a means to reduce waste problems, and encourage a program to recover
+               and recycle used motor oil.”
+         3.4      The context of policy V.A.1.b. supports the Board’s conclusion that it is
+aspirational, and not an approval criteria, Goal V.1. and its related policies describe the County’s
+interest in considering the environmental impact of its decisions, and addressing conflicts between
+proposed development and environmental amenities. If the goal and its policies were not
+aspirational, but were instead taken at face value as approval criteria, no development could be
+approved, because all development proposals impact the natural environment. Considering the
+language of the policy, the comprehensive plan introduction, the aspirational purpose of Section V.
+of the plan in general, as well as the specific purpose of policy V.A.1.b., the Board concludes that
+the policy is not an approval criteria, and is satisfied if the record demonstrates that the Board
+considered the extent to which meteorological factors, such as seasonal prevailing wind direction
+and velocity, cause, exacerbate, or mitigate the impact on nearby residential areas of a facility that is
+likely to pose.a threat to air quality.
+         3.5      When interpreting policy V.A.1.b., the Board finds that there is no significant
+difference between the “purpose” of the policy, or its “underlying policy,” and that for the purpose
+of this discussion the two are one and the same.
+        3.6       The Board’s consideration of the purpose and underlying policy of policy V.A.1.b.
+does not alter its conclusion that the policy does not require the applicant to address air quality
+impacts other than to comply with a condition of approval that the applicant obtain all necessary
+permits required by DEQ.                                                    :
+         3.7     It is also important to note the Board’s responsibility, when interpreting its
+comprehensive plan policies, to weigh, or balance, potentially conflicting policies. As stated, the
+introduction to the 1979 amendments to the plan requires such balancing in order to resolve
+conflicts between provisions, and to provide consistent decision making over time.
+          In this regard, the Board notes the extensive findings made in Ordinance 650 interpreting
+and addressing other Yamhill County Comprehensive Plan Policies. For instance, Comprehensive
+Planning Goal 1.H.1 and Policies 1.H.1., 1.H.1.b., and other policies under Goal 1.H.1, promote the
+goal of locating industrial uses within urban growth boundaries, in areas that are plan designated for
+industrial uses. Goal 1.H.1. encourages the County to “protect the stability and functional aspect of
+industrial areas by protecting them from incompatible uses.” Policy 1.H.1.a. also urges the County
+to protect industrial areas “from encroachment of other urban uses.” In weighing the relative
+importance of Policy V.A.1.b. against these other goals and policies, the Board finds that industrial
+facilities capable of complying with applicable state and federal environmental regulations should
+be located, whenever possible, within urban growth boundaries, (UGB) and within plan-designated
+industrial areas. In this instance, the Board declines to interpret Policy V.A.1.b. in a manner that
+would foreclose an industrial use from locating within a UGB in a plan-designated industrial area.
+         4,      Whether the county’s interpretation of plan policy V.A.1.b. is contrary to a
+state statute, land use goal or rule that the comprehensive plan provision or land use
+regulation implements.
+         4.1       Section V. of the Yamhill County Comprehensive Plan is entitled, “Environmental
+Quality.” Subsection “A” is entitled “Air, Water and Land Resources Quality.” Notes in the
+Introduction to the Plan indicate that, while the plan has been updated to meet the requirements of
+the Statewide Land Use Planning Goals, the original Comprehensive Plan predated the adoption of
+those goals. A notation in the plan text indicates that Plan Policy V.A.1-b. pre-dated adoption of the
+Statewide Goals, Because Plan Policy, V.A. has the identical title to Statewide Land Use Planning
+
+                                                                             EXHIBIT “A” to Ordinance 674
+                                                                                                    Page 8
+                                                                                         cin BS sce        038
+
+Goal 6, the Board concludes that Plan Policy V.A. is intended to carry out Goal 6, which reads:
+
+             “To maintain and improve the quality of the air, water and land resources
+             of the state.
+             All waste and process discharges from future development, when combined
+             with such discharges from existing developments shall not threaten to
+             violate, or violate applicable state or federal environmental quality
+             statutes, rules and standards.    With respect to the air, water and land
+             resources of the applicable air sheds and river basins described or included
+             in state environmental quality statutes, rules, standards and implementation
+             plans, such discharges shall not:
+             1. exceed the carrying capacity of such resources, considering long range
+             needs;
+             2.   degrade such resources; or
+
+             3. threaten the availability of such resources.
+             Waste and Process Discharges—refers to solid waste, thermal, noise,
+             atmospheric or water pollutants, contaminants, or products therefrom.
+             Included here also are indirect sources of air pollution which result in
+             emissions of air contaminants for which the state has established
+             standards.”
+         4.2      Plan policy V.A.1.b. has been acknowledged by the Land Conservation and
+Development Commission as being in compliance with the Statewide Land Use Planning Goals,
+including Goal 6. Goal 6 itself is therefore not directly applicable in these proceedings. However,
+Goal 6 supports the Board’s interpretation of Plan Policy V.A.1.b. First, LUBA has established that
+“Goal 6 does not require a local government to demonstrate that its decision will not cause any
+adverse environmental impact on individual properties." Salem Golf Club v. City of Salem, 28 Or
+LUBA 561, 583 (1995). Second, Goal 6 is oriented to the kinds of discharges regulated by state and
+federal agencies, and states that those discharges “shall not threaten to violate, or violate applicable
+state or federal environmental quality statues, rules and standards.” The Board’s interpretation of
+policy V.A.1.b., that it is limited in scope to the types of emissions that DEQ regulates, is
+completely in syne with Goal 6.
+D.      Additional Findings of Fact and Conclusions of Law
+         1.      The remand hearing was strictly limited to the acceptance of evidence and argument
+regarding the applicability of YCCP V.A.1.b, and whether the applicant has demonstrated
+compliance with the policy. The Board also finds that evidence in the original record, and findings
+adopted to address other plan policies and standards in the County’s zoning code, support the
+Board’s determination in this proceeding that Plan Policy V.A.1.b. has been met.
+         2.      In the original findings adopted by the Board in this matter, the Board found that the
+facility would be capable of complying with DEQ regulations governing air quality, and attached a
+condition requiring that the applicant obtain all necessary DEQ permits. To fully address policy
+V.A.1.b., consistent with the above interpretations, the Board adopts the following findings.
+        3.        Air Quality Information Submitted by the Applicant
+         3.1      The applicant submitted information in this proceeding regarding the DEQ permit
+process for its proposed facility. The applicant described three basic types of air contaminant
+discharge permits that are issued by DEQ: “minimal,” “regular,” and “Title V.” Facilities that will
+
+                                                                              EXHIBIT “A” to Ordinance 674
+                                                                                                     Page 9
+                                                                                       ris 08 vce O39
+
+emit major quantities of pollutants (like the Smurfit Mill) operate under a Title V “major source”
+Air Contaminant Discharge Permit (ACDP). Very small facilities may under certain circumstances
+obtain a “minimal” permit, if the facility will emit less than five tons of particulates per year, and.
+less than ten tons per year of any gaseous substance. All other facilities, including facilities of the
+type proposed for the subject parcel, are subject to a “regular” ACDP. The applicant has established
+that it intends to move an existing facility from a location on Farmington Road, and that the existing
+facility operates under a regular ACDP. Odor is a pollutant that is currently regulated by DEQ, and
+DEQ requires that the applicant control odor emissions at the Farmington Road facility.
+        3.2     The applicant stated that air quality impacts (including odor) from its proposed
+facility would be minimal, and would at no time reach levels that would be considered a significant
+health risk or nuisance, or would upset the quiet enjoyment of nearby residences. To support this
+position, the applicant submitted letters from six neighbors of the proposed facility at its current
+location on Farmington Road, and a map showing the location of the residences in relation to the
+facility. As stated, the applicant is proposing to move the Farmington Road facility to Tax Lot
+3230-100. The letters are summarized as follows:
+                  3.2.1    A letter from John and Luann Court, dated October 5, 1999, states that they
+        have been neighbors of Baker Rock for over 15 years, and have never experienced a
+        problem with Baker Rock. The letter also states: “We have never detected any offensive
+        odors being emitted from the Asphalt Plant.” The Courts are located east-southeast of the
+        facility at its current location.
+                  3.2.2    A letter from Eshraghi Nursery, dated October 14, 1999, The letter states,
+        in relevant part: “We have been on this location since 1990. * * * [have never experienced
+        any type of odor coming from the asphalt plant which is located directly behind both our
+        growing area and retail store.” The Kshraghi Nursery is located to the southwest of the
+        facility at its current location.
+                3.2.3.   A letter from Ron and Lucille Wold, dated October 15, 1999.       The letter
+        states, in relevant part, “We have lived as neighbors of Baker Rock Co. on its eastern side
+        for 12 years. In that time we have not been aware of any condition that bothered us. There
+        has been no odor of offensive emissions from an asphalt plant established there, we are not
+        even aware of when that was done. Occasionally we will notice a plume of white steam so
+        we know only by that that it is in operation.”
+                3.2.4    A letter from Tualatin Hills Park & Recreation District,    Jenkins Estate
+        Center Supervisor, dated September 28, 1999, which states, in relevant part, “For many
+        years we have been neighbors with Baker Rock and have a positive relationship with them.
+        Never have we had a complaint from a client or staff regarding any odor from the Baker
+        Rock Facility.” The Jenkins Estate is located northeast of the facility at its current location.
+                  3.2.5    A letter from Cooper Mountain Kennel, dated October 1, 1999, which
+        states, in relevant part: “There has never been an odor from the Baker plant * * *” The
+        Cooper Mountain Kennel is located due north of the facility at its current location.
+                 3.2.6   A letter from Victor Pinkerton, dated October 17, 1999, which states that he
+        has been a neighbor on Baker Rock’s southern boundary for 19 years. The letter also states
+        that “no problem exists” with the asphalt plant, and that “Odor, which may occur 2 times a
+        year in the early morning calm, is nothing more than you would experience driving by a
+        road being paved and for about the same length of time. It is not objectional or even worth
+        considering for that matter.”
+
+                                                                            EXHIBIT “A” to Ordinance 674
+                                                                                                        Page 10
+                                                                                           FILE   08        PAGE   040
+         3.3      Letters from neighbors of the facility at its current location support the applicant’ s
+claim that its facility will not generate excessive odors, and is not likely to create nuisance air
+quality conditions for surrounding uses at its proposed location. (Notably, the letters also support
+information submitted by the applicant regarding temperature inversions and wind direction and
+velocity in the Willamette Valley. Of the letters submitted, the only person to ever smell asphalt
+smelled it in an “early morning calm,” no more than twice per year, along the southern boundary of
+the property.)
+          3.4      The Board recognizes that most industrial uses have nuisance characteristics or pose
+health risks, but specifically finds that the nuisance characteristics and health risks of the proposed
+facility are not significant, and are not likely to have a significant impact on nearby residences. The
+letters also describe the applicant as a conscientious neighbor, responsive to community needs. This
+aspect of the letters supports the applicant’s claim that the proposed facility will be well run,
+minimizing the risk of incidents which may cause episodes of unacceptable air quality. The Board
+finds that this evidence, in conjunction with other evidence and testimony received in the original
+hearings and remand hearing, supports a conclusion that the proposed facility is unlikely to pose a
+threat to air quality, or to create health risks or nuisance conditions for residential areas in proximity
+to the proposed use or elsewhere.
+         3.5     The applicant has also stated that production from the plant will vary from hour to
+hour, day to day, and season to season. The applicant has stated that most paving occurs during the
+summer, and that although the plant will operate year round, the bulk of production will occur
+during the period of June, July, August and September, when weather is most conducive to
+construction projects. The Board received no information disputing the applicant’s testimony in this
+regard.
+        4.       Air Quality Information Submitted by Opponents
+         4.1      The City of Newberg participated in the remand proceeding through City Planner
+Barton Brierley, who submitted evidence related to air quality, including a web page from the
+Government of Newfoundland and Labrador, and a web page from the Tennessee Department of
+Environment and Conservation. The Newfoundland web page states that asphalt plants have the
+potential to emit considerable quantities of dust into the atmosphere, and to have other problems
+related to the spillage of petroleum products and waste disposal, necessitating “a standardized set of
+procedures to ensure adequate controls are in place at all sites and that pollution control equipment
+is being correctly used and maintained.” The Tennessee web page states that, in Tennessee, an
+asphalt plant is an “air contaminant source” that requires a construction permit from the Tennessee
+Division of Air Pollution Control. Neither of these web pages constitutes substantial evidence of
+potential air quality impacts that have not been considered by the Board in the original proceedings
+or in these remand proceedings. The applicant will be subject to the jurisdiction of DEQ, and has
+already stated its intent and ability to obtain a “regular” Air Contaminant Discharge Permit from
+DEQ.
+         42,     The City also submitted a letter to the Board dated October 27, 1999, which states
+that “The air quality threats of the asphalt plant are documented in many places in the record,
+including pages 180, 260, 263, 265, 266, 278, 283, 284, 286, 287, and 288.” The documents
+referred to by the City are summarized as follows:
+
+                  4.2.1    Record, p. 180—Letter from Mrs. Pauline Ogden, dated 6/8/98. Ms. Ogden
+        states in her letter that asphalt smells when it is spread on roads, and that: “I can’t fathom
+        that there would be no fumes from the plant that is making it and loading those trucks with
+        the hot tarry stuff and driving it through the neighborhood.”
+
+                                                                              EXHIBIT “A” to Ordinance 674
+                                                                                                        Page 11
+                                                                                 FILK   68       PAE   041
+In her letter, Mrs. Ogden cites no evidence to support a claim that the plant will emit odors.
+She only states that she believes that it will. The applicant noted in response that when she
+is referring to “hot tarry stuff” being driven through the neighborhoods, she may be
+confusing asphalt trucks with torch-down roofers, who transport odorous loads of roofing
+tar. Torch-down roofing is, according to the applicant, virtually unregulated, and emits
+smoke and strong odors while it is being transported and applied. As for concerns that the
+proposed facility will emit a level of odor commensurate with the level emitted by the laying
+of asphalt pavement, the applicant testified that, according to information at EPA’s web site,
+the largest source of emissions from asphalt is the road surface itself, during application.
+Contrary to the City’s assertion, there is nothing in Mrs, Ogden’s letter “documenting” a
+threat to air quality from the proposed facility.
+
+        4.2.2    Record, p. 260—Letter from Lisa Jenkins, Duck Pond Cellars.       Ms. Jenkins
+states in her letter that wineries need protection from asphalt batch plants. She provides no
+evidence of this, nor does she provide any information regarding how emissions from the
+proposed facility would ever reach her winery, or any other winery. The data on wind
+velocity and direction in the record does not support a theory that the proposed facility will
+harm the grapes at Duck Pond Cellars, which is not in close proximity to the plant. This
+letter also does not document a threat to air quality from the proposed facility.
+
+         4.2.3   Record, p. 263—This is a newspaper article about a facility in Bend, not run
+by the applicant, which says nothing about air quality, and is totally irrelevant to this
+proceeding.
+
+        4.2.4    Record, p. 265—This is an editorial by Keith Hay, which also says nothing
+about potential air quality impacts from the facility, and is also totally irrelevant.
+
+        4.2.5   Record, p. 266—This is a letter to the editor of the Newberg Graphic from
+Kelly Highley, criticizing DEQ. There is no evidence in this letter relating to asphalt plants,
+much less evidence documenting that an asphalt plant represents a “threat to air quality.”
+
+        4.2.6    Record, p. 278—This is the same letter from Keith Hay, mentioned above,
+which does not discuss air quality impacts from the facility, and does not document that an
+asphalt plant represents a “threat to air quality,” as claimed by the City’s letter.
+
+         4.2.7   Record, p. 283—Letter from Kelly Highley, undated. This letter contains
+no documentation regarding threats to air quality or asphalt plants. Its only references to air
+pollution are the following: “Then there is the noise and air pollution,” and “And let’s not
+forget about the smell.”
+
+        4.2.8   Record, p. 284—Letter from Nancy Lesser, stating: “Rains & wind always
+develop from the SW—so all the noxious fumes would come my way & then into Newberg
+proper.” This information is refuted by the City’s own data on “average winds” and is also
+not information documenting that an asphalt plant represents a “threat to air quality.”
+
+          4.2.9   Record, p. 286—Letter from Anna L, Beach. Referring to the Smurfit Mill,
+she stated that she sees a “trace of some substance on her car on clear days, and Pm sure we
+don’t need any more fall outs, from the Asphalt plants.” There is no evidence in this letter
+that there would be any “fallout” from the asphalt plant, which would employ a bag house to
+
+                                                                   EXHIBIT “A” to Ordinance 674
+                                                                                             Page 12
+                                                                                               FILE   68    bape      042
+
+          contain emissions, and would not be a “major source” of air contaminants, like the Smurfit
+          Mill.
+
+                   4.2.10 Record, p. 287—Letter from Steve Wozniak. This letter states that
+          “prevalent winds” are toward Newberg, and that “weather inversions would put emissions at
+          ground level.” This letter is a comment on the prevailing winds and meteorological
+          conditions, but contains no evidence or “documentation” that an asphalt plant represents a
+          “threat to air quality.”           ;
+
+                  4.2.11 P.288—Letter from Linda Mealue. This letter says, without any
+          documentation, that an asphalt batch plant would be unhealthy. It also states that the plant
+          would pollute the air, “Especially on our many inversion days.” Again, there is no
+          documentation in this letter of a “threat to air quality,” as claimed by the City.
+
+           4.3     The City’s letter points to every instance in the record where opponents either used
+_ the word “inversion” or offered unsubstantiated fears regarding environmental degradation from the
+  plant. The letters themselves don’t tend to prove anything except how certain people feel about the
+  proposal, and do not, separately or in combination, constitute substantial evidence of a “threat to air
+  quality” posed by the proposed facility.
+
+          44       Mrs. Pauline Ogden testified at the hearing. She described potential air quality
+ impacts from the proposed facility, and stated that she talked to Kevin McGillivray at DEQ, who
+ Stated that an asphalt plant produces hydrocarbons, volatile organic compounds, and semi-organic
+ compounds, and that all of these substances pose health risks. She stated that fugitive emissions will
+ also be released from the facility, and provided other air quality information. The Board notes that,
+ in response, the applicant stated that its facility will be fully permitted by DEQ, and will be operated
+ in full conformance with its DEQ permit.        The applicant stated that, the better the operator, the less
+ likely there will be fugitive emissions due to mismanagement. The letters from neighbors of the
+ plant at its existing location suggest that the applicant is a good neighbor and a conscientious
+ member of the community in which the facility is currently located. The applicant also read into the
+ record a portion of an Oregonian article, which states, in relevant part:
+
+              “State environmental officials side with Huddleston’s assertions that asphalt
+              plants are generally clean and nonpolluting.
+                  “Steve Crane, an engineer with the stated Department of Environmental
+                  Quality, monitors asphalt operations. Of the 51 operations he has inspected
+                  this year, not one was out of compliance with strict state regulations.
+                  “*There’s always a little black smoke that goes up when they fire up the
+                  boilers,’ he says, ‘But most of them I’ve seen are pretty doggone clean.’”
+ The Board notes Mrs. Ogden’s concerns, but finds that the applicant is capable of operating the
+ proposed facility in accordance with state environmental laws. The Board has attached a condition
+ requiring that the applicant obtain all DEQ permits necessary for operation of the facility, and has
+ concluded that the applicant is capable of operating the facility in conformance with law.
+          4.5     Pat Haight testified at the remand hearing, essentially, that if there is any air
+ pollution that would be generated by the facility, the County should deny the application. The
+ Board declines to interpret Plan Policy V.A.1.b. in the manner proposed by Ms. Haight. Ms. Haight
+ also stated her belief that the trucks transporting asphalt from the site will emit odors, from asphalt
+ and from diesel exhaust. The Board notes Ms. Haight’s concerns, but also notes that the County
+
+                                                                                  EXHIBIT “A” to Ordinance 674
+                                                                                                            Page 13
+                                                                                            EL   ie   Pare   043
+
+does not regulate diesel or other vehicle exhaust—that is DEQ’s responsibility. The Board also
+notes that the trucks will be traveling on a designated truck route. The applicant has stated that
+trucks transporting asphalt are not a significant source of asphalt odors, and Ms. Haight did not
+provide any evidence, other than her personal belief, disputing the applicant’s claims.
+         4.6      Virginia Jungwirth testified at the remand hearing, with regard to air quality, that
+she and her husband smelled air pollution at their home near the proposed site, and later determined
+that the Smurfit plant was burning tires. The Board notes these concerns, but finds that they are not
+directly relevant to the applicant’s proposal, or to the findings required by plan policy V.A.1.b.
+         4.7    Chris Lauringer testified that, as a petroleum derivative, asphalt is carcinogenic.
+The Board notes Ms. Lauringer’s concerns, but repeats that air emissions from the facility will be
+regulated by DEQ, and declines to impose a “no impact” standard with regard to air quality impacts,
+under policy V.A.1.b.
+        5.            Meteorological Information Submitted by the Applicant
+          5.1     The applicant submitted a letter from a meteorological consultant, Dr. Fred W.
+Decker, describing the seasonal prevailing wind direction and velocity in the vicinity of its proposed
+facility. Dr. Decker also submitted information documenting his expertise in the areas of
+meteorology, climatology, physics, astronomy and education, and the Board accepts that Dr. Decker
+is an expert in the field of meteorology.
+        5.2           Dr. Decker’s letter states, in relevant part:
+              “You have asked that I provide data and analysis regarding meteorological
+              factors such as seasonal prevailing wind direction and velocity at a site
+              south of       Newberg, OR, along the Willamette River.   The site has been
+              identified to me as Tax Lot 3230-100 and is a 20 acre parcel. I understand
+              that the proposal is to place an asphalt batch plant on the northern end of the
+              property along 14" Street near Waterfront Street.
+              “Pertinent wind speed and direction data are included in the following data
+              sets:
+
+              “Summer and winter wind roses for Newberg, Feb. ’95 through Sept. ’96.
+              “Daily weather summary data for Newberg for the year ending 30 Sept.
+              1999.
+              “Tabulated wind rose data for the most recent year at Aurora, OR, and at
+              Salem, OR.
+
+              “Long-term wind roses for Portland and Salem airport stations.
+              “T have examined the foregoing wind data sets and considered them in the
+              context of relevant seasonal weather patterns dominating the Willamette
+              Valley. This examination led to the following summary statement of
+              conclusions as to the seasonal prevailing winds at the Newberg site
+              identified above for the asphalt batch plant.
+              “During winter (Jan., Feb., Mar.) the prevailing wind blows from south at
+              an estimated average speed of 8 mph. The speed at night (8 pm to 8 am)
+              decreases on the average. The most frequent calm occurs in January about
+              35% of the time at night. The least frequent calm occurs during days (8 am
+              to 8 pm) in February only 7% of the time.
+
+                                                                                EXHIBIT “A” to Ordinance 674
+                                                                                                      Page 14
+                                                                                          FILE   68   PACE   044
+
+              “In spring (Apr., May, June) the prevailing wind blows from the west-
+              southwest at estimated average speed of 7 mph. Calm occurs most often in
+              April at night (31%) and least often in May during days (14%).
+              “Th summer (July, Aug., Sept.) the prevailing wind blows from north at an
+              estimated average speed of 5 mph. Calm occurs most often at night in
+              September (54%) and least often in September days (25%).
+              “Tn fall (Oct., Nov., Dec.) the prevailing wind blows from south at estimated
+              average speed of 6 mph. Calm occurs most often in October at night (30%)
+              and least often in November during days (10%).
+              “The foregoing prevailing winds result from the dominance of storms
+              approaching from the west beginning in October and continuing into spring
+              interspersed with fair weather patterns increasing in May and June. In
+              summer the dominant fair weather pattern prevails with weaker average
+              wind speeds but with dominant daytime vertical convection currents rising
+              from the warmer surface regions. This continues into October on the
+              average until arrival of the fall storms. Each approaching storm from the
+              west has south winds ahead of it for a longer time that the westerlies behind
+              it, and this results in the prevalence of the south wind. The major fair
+              weather pattern has a “ridge” of high pressure offshore to the west and
+              north winds over the land. When this persists in summer or occurs at any
+              time, northerly winds blow in the Willamette Valley.”
+        5.3       The meteorological information submitted by the applicant establishes that during
+the times of highest plant output, (June, July, August and September) prevailing winds blow away
+from nearby residential areas. In June, winds are toward the Smurfit mill, at an estimated average
+speed of seven mph. In July, August, and September, prevailing winds are toward agricultural areas
+in Marion County, at an estimated average speed of five mph. Such winds would tend to mitigate or
+prevent potential air quality impacts from the proposed facility on residential areas in proximity to
+the site. Prevailing winds from the west-southwest during April, May and June would also tend to
+direct any emissions from the plant toward the Smurfit Mill, and also appear likely to mitigate
+potential air pollution impacts from the proposed facility. At other times of the year, prevailing
+winds are from the south, at 6-8 mph. The Board has not conducted pollutant transport modeling
+studies to fully assess the impacts of such winds on nearby residential areas, but does not interpret
+policy V.A.1.b. as requiring either the County or the applicant to conduct such studies. As stated,
+DEQ is responsible for regulating air quality impacts, and the County does not intend to regulate
+such impacts through policy V.A.1.B.
+          5.4     The Board finds that prevailing wind data submitted by the applicant is credible,
+reliable, and sufficient for the purposes of allowing the County to consider “seasonal prevailing
+wind direction and velocity” under policy V.A.1.b.
+        6.        Meteorological Information Submitted by Opponents
+         6.1     The City of Newberg’s letter dated October 27, 1999, also contained information
+regarding prevailing wind direction and velocity. The letter states:
+              “The City of Newberg has conducted wind pattern studies at its Waste
+              Water Treatment Plant. This plant is within a mile of the subject property,
+              and wind patterns there are similar to those at the subject property. These
+              wind pattern studies show that prevailing wind patterns are from the north,
+              northeast, south, and southwest (See Attachment C), Average wind speed is
+
+                                                                             EXHIBIT “A” to Ordinance 674
+                                                                                                      Page 15
+    ay                            |                                                             six D8 vcr O45
+
+                     about 3 miles per hour. These wind patterns are also documented on page
+                     284 and 287 of the record. These low average wind speeds tend to cause
+                     pollutants to drift in the air rather than being dispersed.”
+         Exhibit C to the letter contains two wind roses, one exhibiting data on winds during May through
+         October, and the other during November through April. The wind roses are not self-explanatory.
+         Neither diagram indicates the period in which data was collected, or whether data from more than
+         one season was collected. Mr. Brierley testified on behalf of the City regarding the data, but did not
+         provide a detailed explanation in addition to his letter. His letter concluded that “Prevailing wind
+         patterns would slowly carry pollutants from the site to nearby residential areas to the north and
+         northeast.”             :
+                  6.2      The applicant’s attorney rebutted Mr. Brierley’s testimony. Todd Sadio stated that
+         the data cited in the City of Newberg’s letter appeared to have been gathered and tabulated or
+         analyzed without the assistance of a meteorologist. The applicant’s consulting meteorologist used
+         data from the sewage treatment plant in his analysis, but indicated to the applicant’s attorney that the
+         data from the sewage treatment plant was not adequate, standing alone, to establish prevailing
+         winds, According to the applicant’s attorney, a wastewater treatment facility official told the
+         applicant’s consulting meteorologist that the anemometer at the sewage treatment plant is too close
+         to a roof line, and the readings must be adjusted upward to account for wind blockage. It is not clear
+         whether the readings provided in the City’s letter and exhibits have been adjusted to account for the
+         location of the anemometer.   The station is also not a certified meteorological station, so it is unclear
+         whether it provides accurate readings. The applicant’s attorney also noted that the wind roses
+         attached to Mr. Brierley’s letter appear to show winds predominantly from north to south in the
+         period May through October, which would mitigate any air pollution impacts on residential areas in
+         Newberg during the period in which most production will occur at the facility.
+                  6.3     The Board considered all information on prevailing wind direction and velocity that
+         was provided or referenced during the hearing process, and finds that information regarding
+         prevailing wind direction and velocity that was submitted by the applicant is more accurate and
+         complete than the information submitted by the City of Newberg. To the extent there are conflicts
+         between data submitted’and analysis conducted by the City and by the applicant, the Board resolves
+         such conflicts by relying on data submitted, and analysis conducted, by the applicant’s
+         meteorologist.
+                  6.4      The City’s letter also provided information for the Board to consider regarding the
+         incidence of temperature inversions in the Newberg area. To document the incidence of temperature
+         inversions as a meteorological factor relevant for the Board to consider under Plan Policy V.A.1.b.,
+         the City’s letter cited a statement in the Yamhill County Comprehensive Plan, 1974, page 26, as
+         follows:
+                     ‘While Yamhill County and the Willamette Valley may generally claim an
+                     equable and salubrious climate, the Valley is virtually enclosed by
+                     mountains and is poorly ventilated during periods of prolonged temperature
+                     inversions, giving rise to acute air pollution conditions, particularly in late
+                     summer and fall.”
+         The City’s letter also stated that additional documentation regarding inversions can be found at
+         pages 179 and 288 of the record. Page 179 is a letter from Linda D. Mealue, received on June 9,
+         1998. It states, in relevant part:
+                      “A consideration to be looked at is Newberg’s many inversion days & often
+(                     a week or more affecting all of Newberg’s 17,000 people. Many of these
+
+                                                                                      EXHIBIT “A” to Ordinance 674
+                                                                                                            Page 16
+                                                                                           FILE    68      PARE   046
+            people are elderly, children & infants, think of their health. If this plant
+            were to the north of Newberg perhaps it would not harm so many people.”
+            (emphasis in original)
+Page 288 of the original record is also from Linda Mealue.      It states, in relevant part, and without
+documentation:
+            “This plant would be unhealthy for people with sinus, allergy, skin and
+            respiratory problems, It is also a very likely source of cancer, * * * this
+            plant would be polluting to our river & air (Especially on our many
+            inversion days)!”
+         6.5     In response to the information submitted by the City of Newberg, the applicant’s
+attorney stated that he read the statement from the 1974 County Comprehensive Plan to Dr. Decker,
+the applicant’s consulting meteorologist, and that Dr. Decker stated that he did not know of
+“prolonged” inversions in either Newberg or the Willamette Valley generally. Dr. Decker stated
+that temperature inversions usually occur at night, in winter, and not usually in the summer. All-day
+inversions are most likely to occur only in the winter. Dr. Decker also stated that such inversions
+usually disappear in the morning, because the ground heats the cooler air near the ground and it
+rises, mixing with the already warmer air above.                              ;
+         6.6      The applicant’ s attorney also indicated that he had received an e-mail message from
+Dr. Decker on the morning of the hearing, documenting that most true inversions occur during the
+winter, at night, and that they are least likely to occur in March through October. Quoting from Dr.
+Decker’s e-mail, Mr. Sadlo, an attorney for the applicant, stated:
+
+            “Stagnation and trapping of emissions in surface air occurs with an
+            inversion in which the surface and the air next to it is actually cooler than *
+            the air aloft. This inverts the ordinary situation with wind movement and
+            the air temperature progressively cooler at higher levels.
+            ae ok ok
+
+            “The stagnation occurs mostly in the late fall and early winter, March and
+            October being the transition months of decreasing occurrence and
+            increasing occurrence, respectively.
+                                                     ok OK OR
+
+                  “Whereas the winter occasions of inversion can last through periods of
+                  more than one full day, the inversions that develop during the night in
+                  late spring, summer, and early fall get destroyed by the solar heating of
+                  the surface so that they survive only briefly after dawn.
+                 “An activity which releases heat to the air causes that air to rise
+                 buoyantly in convection currents going upward into the air above the
+                 inversion. Thus, a heat-releasing process like the batch asphalt plant
+                 actually propels air around it upward when the wind is calm at the
+                 surface. The pattern of air movement then resembles the smoke
+                 movement from a fire, the visible smoke rising some distance before
+                 getting carried laterally to the upper air currents. This beneficial
+                 convection upward occurs in all inversions but the very deepest and most
+                 extreme, those having the greatest temperature difference between
+                 surface chill and upper air warmth.”
+           6.7         Considering the information regarding temperature inversions presented by all
+
+                                                                              EXHIBIT “A” to Ordinance 674
+                                                                                                    Page 17
+                                                                                       un 68 ce O87
+parties to the original and remand hearings, the Board concludes that such inversions do occur,
+and when occurring, may exacerbate air pollution impacts of the proposed facility. The fact that
+such inversions are most likely to occur at night, in winter, decreases the potential impact from
+this meteorological phenomenon, considering that the proposed facility is not likely to be
+operated at night, and will operate at higher capacity during the drier summer months, when the
+incidence of the phenomenon decreases. The fact that the facility will produce heat also tends to
+mitigate the impact of a temperature inversion on operation of the facility, by causing pollutants
+to rise above the inversion.
+        7.       Description of nearby residential areas
+         7A      The Board made findings in the original proceedings on this matter that
+described residential uses in the area of the proposed use. The Board hereby finds that those
+findings are adequate to meet the requirement of Policy V.A.1.b that the Board “consider the
+proximity of the proposed use to residential areas,” and that no further findings in that regard are
+necessary.
+         72      Exhibit “A” to Ordinance 650, page 3, paragraphs 3 and 4, describe residential
+uses in proximity to the proposed use. Finding C.1.2.4.1 (Ord, 650, Exhibit A, page 9) also
+describes the location of residences in relation to the site. No additional substantial evidence or
+information was received by the Board in the remand hearing that detracts in any significant way
+from the conclusions made in the original findings regarding the location and proximity of
+residential uses in relation to the proposed facility.
+        73      At the remand hearing, the City of Newberg submitted additional information for
+the Board to consider regarding residential areas in proximity to the proposed use. The City
+submitted a map (Attachment B to Barton Brierley letter dated October 27, 1999), showing
+homes and residential areas in proximity to the proposed use. In its consideration of proximately
+located residential areas, the Board notes that the information provided by the City supplements,
+and does not conflict with, information considered in the original proceedings.
+         8.      Conclusions regarding impacts from the proposed facility on nearby
+residential areas that are caused, exacerbated, or mitigated by meteorological conditions,
+including seasonal prevailing wind direction and velocity
+         8.1      In the original proceedings on this matter, the Board found that “air discharges
+(from the facility) will fully comply with all state and federal requirements and will not
+constitute a threat to the environment.”   Findings, Ord. 650 Exhibit A, p. 11.   Based on testimony
+and evidence submitted in the original proceedings on this matter and at the remand hearing, the
+Board finds that the proposed facility is not “likely to pose a threat to air quality.” However, the
+applicant has also submitted sufficient information to allow the County to fully consider issues
+that the Board would need to consider if it determined that the facility is likely to pose a threat to
+air quality, and the Board has fully considered those issues.
+          8.2     Combining information in the record regarding nearby residential uses, air
+quality information relevant to the proposed facility, and information regarding seasonal
+prevailing wind direction and velocity and other relevant meteorological phenomenon, the Board
+finds that nearby residences may, on occasion, smell asphalt. Conflicting evidence has been
+received in this regard, and the Board concludes that, even if residents in close proximity to the
+proposed facility or elsewhere occasionally smell asphalt, such smells may or may not be
+attributable to the proposed facility. In any case, the Board concludes that such odors will be
+sporadic, and will not present a significant risk to human health, or significantly detract from the
+livability of residences, businesses or other uses in proximity to the proposed facility or
+
+                                                                          EXHIBIT “A” to Ordinance 674
+                                                                                                Page 18
+                                                                                 cue G8 ace O48
+
+' elsewhere.   During times of highest plant output, June, July, August and September) prevailing
+ winds blow toward the Smurfit mill or to the south, away from most residential areas, and away
+ from those residences in closest proximity to the proposed facility. In short, following its
+ consideration of the factors that the Board is directed to consider under Policy V.A.1.b., the
+ Board continues to conclude that the applicant has met its burden of demonstrating that the
+ requested zone change and similar use determination, as limited by the Limited Use Overlay
+ Zone, meets all applicable plan and zone requirements.
+          9        Conclusion
+ For the reasons stated herein the Board concludes that the applicant has demonstrated
+ compliance with Yamhill County Plan Policy V.A.1.b.
+
+                                                                         EXHIBIT “A” to Ordinance 674
+                                                                                               Page 19
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 99.1% of
+the word sequence, and on 87.0% of the figures. Dictionary-recognizable words: 95.9%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

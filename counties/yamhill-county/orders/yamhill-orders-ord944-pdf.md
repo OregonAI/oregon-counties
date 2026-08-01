@@ -1,0 +1,566 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord944-pdf
+title: 'ORD944-PDF'
+doc_type: ordinance
+citation: 'ORD944-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/19461/ORD944-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: fbd84395d65fab47fea33eaa74fa01166b4e629897d54adebc191ed0d8a2a4d6
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# ORD944-PDF (ORD944-PDF)
+
+## At a glance
+
+ORD944-PDF — orders of Yamhill County. 12 pages.
+
+## Full text
+
+Yamhill County Ordinance No. 944
+ IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+ FOR THE COUNTY OF YAMHILL
+
+ SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Approving a Zone Map
+Change from Heavy Industrial (HI) to Light
+Industrial (LI) with a Limited Use Overlay for
+Tax Lots 4318-801 and 4318-900; Applicant:
+Charles Eggert, and Declaring an Emergency
+
+ORDINANCE 944
+
+THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board) sat for
+the transaction of county business on January 15, 2026, Commissioners Bubba King, Kit
+Johnston, and Mary Starrett being present.
+
+IT APPEARING TO THE BOARD as follows:
+
+         WHEREAS, on February 20, 2025, Charles Eggert requested a zone map change from
+Heavy Industrial (HI) to Light Industrial (LI) for Tax Lots 4318-801 and 4318-900, located at
+13245 SE Fletcher Road, Dayton, Oregon; and
+
+        WHEREAS, the subject property has been designated Industrial under the Yamhill County
+Comprehensive Plan for more than fifty-five (55) years and has historically been used for
+industrial meat processing and related industrial uses; and
+
+        WHEREAS, this matter came before the Yamhill County Planning Commission for public
+hearing on June 5, 2025; and
+
+WHEREAS, the Board of Commissioners held a duly noticed public hearing on
+December 11, 2025, at which time testimony and evidence were received; and
+
+WHEREAS, the Board reviewed the Staff Report, exhibits, agency comments, and public
+testimony and determined that the request complies with the Yamhill County Comprehensive
+Plan, the Yamhill County Zoning Ordinance, and the Oregon Administrative Rules; and
+
+        WHEREAS, the Board finds that applying a Limited Use Overlay is appropriate to ensure
+that only light-industrial-scale uses occur on the subject property in order to maintain
+compatibility with surrounding agricultural and rural residential uses; and now, therefore
+
+THE BOARD ORDAINS AS FOLLOWS:
+
+ Section 1. Tax Lots 4318-801 and 4318-900, as identified in the attached Exhibit A,
+are hereby rezoned from Heavy Industrial (HI) to Light Industrial (LI) and are subject to a
+Limited Use Overlay (LU) that allows only those uses permitted in the Light Industrial District
+Yamhill County Ordinance No. 944
+under YCZO §702.02(A) through (L) and those uses previously approved as similar uses in the
+LI District, including RV storage and mini-storage.
+S
+ection 2. The findings attached as Exhibit B and incorporated herein by this
+reference, are hereby adopted in support of this Ordinance.
+S
+ection 3.  This Ordinance being necessary for the health, safety,  and welfare of the
+citizens of Yamhill County, and an emergency having been declared to exist, is effective
+immediately.
+DAT
+ED this 15th day of January, 2026, at McMinnville, Oregon.
+YAM
+HILL COUNTY BOARD OF COMMISSIONERS
+A
+TTEST AYE NAY
+________________________________
+ ____ ____
+KERI HINTON Chair KIT JOHNSTON
+County Clerk
+B
+y:______________________ ________________________________ ____ ____
+Deputy CAROLINA ROOK   Commissioner BUBBA KING
+F
+ORM APPROVED BY:
+___________________________
+ ________________________________ ____ ____
+KALEB RAEVER  Commissioner MARY STARRETT
+Assistant Yamhill County Counsel
+X
+X
+X
+
+EXHIBIT B
+FINDINGS IN SUPPORT OF APPROVAL
+ORDINANCE 944
+(Board Order 26-009)
+
+HEARING DATES: June 5, 2025 – Planning Commission Hearing
+December 11, 2025 – Board of Commissioners Hearing
+
+DOCKET NO.: Z-01-25
+
+REQUEST: Approval of a zone change from Heavy Industrial (HI) to Light Industrial (LI).
+
+APPLICANT: Charles Eggert
+
+OWNER: CharlieCo LLC
+TAX LOT:                 4318-801 and 4318-900
+LOCATION: 13245 SE Fletcher Rd., Dayton, Oregon
+CRITERIA: Sections 702 and 1208.02 of the Yamhill County Zoning
+Ordinance. Section 904, Limited Use Overlay may also be applied.
+Comprehensive Plan policies may be applicable. Oregon
+Administrative Rule, OAR 660-12-0060 Transportation Planning
+Rule.
+1. Background Facts
+1. Parcel size: Tax Lot 4318-801 is approximately 4.5 acres and Tax Lot 4318-900 is
+approximately 9.2 acres.
+2. Access: The property is accessed by a driveway on Tax Lot 4318-900 with direct access to
+SE Fletcher Road.
+3. On-site Land Use:    Historically the parcel has been used as a slaughter facility with an
+approved DEO wastewater facility. There are several buildings including a warehouse,
+main plant/facility, animal pens, shop, oat milk processing building, and around 7-acres of
+trees and vegetation that borders the Yamhill River.
+
+4. Surrounding Zoning and Land Use: The parcels to the north (across the Yamhill River)
+are zoned EF-80, Exclusive farm use and appear from the aerial imagery and site visit to
+be primarily employed as grass seed or hay fields. The parcels to the south (across SE
+Fletcher Road) are also zoned EF-8U and appear to be primarily in agricultural use, in this
+case primarily hazelnut orchards and some small hay fields. The parcels to the east and
+west are zoned AF-10 and developed with one single family dwelling. The Urban Growth
+
+Boundary of the City of Dayton is approximately less than 4 a mile southeast of the
+subject tract.
+
+5. Water: The subject tract is served by one or more wells.
+
+6. Sewage Disposal: Wastewater is served by an on-site DEQ-approved wastewater treatment
+and septic system.
+
+7. Previous Actions: SDR-32-17, Site design review for a wastewater treatment facility.
+SDR-08-03, site design review for a storage facility TS-62-78, temporary structure.
+PAZ06-94/SDR-11-94, zone change from AF-10 (Agriculture/Forestry Small Holding)
+to HI (Heavy Industrial) and site design review for expansion of meat processing plant.
+
+8. Overlay District: A portion of the northern property is within the Flood Plain Overlay
+District with an identified wetland area. The property appears to be within the airport
+overlay district.
+
+9. Soils: The Yamhill County Soil Survey indicates the property is composed
+predominantly of Woodburn Silt Loam (WuB), which is a Class II agricultural soil.
+There is also some Terrace Escarpment (Te, Class VI) on the downhill slope at the north
+end of the property toward the Yamhill River and a small amount of Chehalis Silty Clay
+Loam (Ck, Class II).
+
+10. Fire Protection: Dayton Rural Fire Protection District
+
+2. Zone Change and Plan Amendment Provisions and Analysis
+
+The applicant seeks to change the zoning designation of the subject property from Heavy
+Industrial (HI) to Light Industrial (LI) to better align zoning with current market demand and to allow
+adaptive reuse of the existing industrial buildings.
+
+Up until recently, the subject property has been operated as an animal slaughter and meat
+processing facility serving regional agricultural producers. That operation relied on heavy industrial
+zoning to accommodate intensive processing, wastewater treatment, and industrial infrastructure.
+However, in recent years the facility has ceased regular operations, and the property has not been
+actively used for heavy industrial processing. As market conditions have changed, the existing heavy
+industrial use has become less viable, and the property has not attracted buyers or tenants under its
+current zoning. With this change in circumstances, the applicant seeks to allow the property to transition
+to a broader range of light industrial uses that are more consistent with current market demand and
+surrounding land uses. The existing buildings, wastewater system, and utility infrastructure on site are
+well suited to support light industrial, storage, distribution, and small-scale manufacturing uses with
+minimal modification, allowing the property to remain in productive industrial use while reducing
+impacts on the surrounding rural area.
+
+This comprehensive plan amendment and zone change application must comply with the
+Yamhill County Comprehensive Plan, the Oregon Revised Statutes, and the Oregon
+Administrative Rules, which will be addressed throughout this report.
+
+The application must also comply with the standards and criteria in YCZO Section
+1208.02. These provisions are:
+
+(A) The proposed change is consistent with the goals, policies, and any other
+applicable provisions of the Comprehensive Plan; and
+
+(B) There is an existing demonstrable need for the particular uses allowed by the
+requested zone, considering the importance of such uses to the citizenry or the
+economy of the area, the existing market demand which such uses will satisfy, and
+the availability and location of other lands so zoned and their suitability for the
+uses allowed by the zone; and
+
+(C) The proposed change is appropriate considering the surrounding land uses, the
+density and pattern of development in the area, any changes which may have
+occurred in the vicinity to support the proposed amendment and the availability of
+utilities and services likely to be needed by the anticipated uses in the proposed
+district; and
+
+(D) Other lands in the county already designated for the proposed uses are either
+unavailable or not as well-suited for the anticipated uses due to location, size, or
+other factors; and
+
+(E) The amendment is consistent with the current Oregon Administrative Rules for
+exceptions, if applicable.
+
+An analysis of each respective provision follows.
+
+1. Analysis: Is the proposed change consistent with the goals, policies, and any other
+applicable provisions of the Comprehensive Plan?
+
+Though most of the Yamhill County Goals and Policies are aspirational and not to be mistaken
+for, or interpreted as, approval criteria it is required that they be considered. It is a fact that some of the
+goals and policies conflict with one another. They are simply to be used as a guide to aid decision-
+makers. For example, where goals or policies conflict the decision makers need to weigh the evidence
+and decide which goal or policy the request satisfies. Therefore, the Planning Commission and Board of
+Commissioners would need to decide whether it is more appropriate for the 13.7-acre tract to be
+preserved for heavy industrial uses or if it is better suited to allow for light industrial uses.
+
+The comprehensive plan designation for the property has been Industrial for over 55 years. The
+industrial designation is consistent with Section 11.05.01.08 of the Yamhill County Comprehensive
+Land Use Plan and Goal 9 of the statewide planning goals in that it encourages land for employment
+activities, “commercial and industrial development takes a variety of shapes and leads to economic
+activities that are vital to the health, welfare and prosperity of Oregon’s citizens.” Industrial uses
+include, but are not limited to manufacturing, assembly, fabrication, processing, storage, etc. The
+provision of adequate urban services 1s a major concern in an industries location and operation. The
+subject area is near to the city limits of Dayton, Lafayette and McMinnville. Major transportation links
+are within a mile and include State Highways 18 and 99. The location has been supported by the existing
+
+infrastructure and services available nearby for years. The owner/applicant is seeking a zone change that
+will reduce the impacts on the surrounding neighborhoods while maintaining critical and limited access
+to industrial zoned parcels. With this request for a zone change, the only changes occurring on the
+subject parcels will be the zoning designation from heavy industrial to light industrial, which will
+continue to support the economic vitality min a way that is more harmonious with the surrounding
+residential and farming uses. Therefore, the request is consistent with the goals, policies and other
+applicable provisions of the Comprehensive Plan.
+
+2. Analysis: Is there an existing demonstrable need for the particular uses allowed by the
+requested zone, considering the importance of such uses to the citizenry or the economy of the
+area, the existing market demand which such uses will satisfy, and the availability and
+location of other lands so zoned and their suitability for the uses allowed by the zone.
+
+ The parcels in question, currently zoned Heavy Industrial, are crucial to the ongoing
+economic vitality of the region. Industrial zones are essential in supporting local job creation, skilled
+labor, and the production and distribution of goods and services that the community relies on. These
+areas serve as key assets, providing not only employment opportunities but also contributing to the
+broader economic ecosystem by supporting surrounding businesses and industries. The requested
+zoning change is consistent with the character of the existing uses on the subject tract, which have
+been in place for over 50 years.
+
+ The Dayton Natural Meat Processing facility, a longstanding establishment in the area,
+has been an essential resource for nearby farms and the surrounding community. Its operations have
+integrated well with the local environment, supporting the agricultural sector and providing a critical
+service to local producers. However, as markets evolve, so too must the types of businesses that
+occupy such spaces.
+
+ The owner of the property has requested a zoning change to better align with current
+market demands, while ensuring the change will be less intensive both environmentally and in terms
+of resource consumption. This adjustment is in response to a broader shift in the local and regional
+economy, aiming to ensure the site remains productive and sustainable for the long term. In
+conclusion, the proposed zoning change will preserve the industrial character of the area while
+positioning it for a future that is more adaptable and less environmentally burdensome. This ensures
+continued economic growth, job retention, and the long-term viability of the area, in line with both
+community and market needs.
+
+3. Analysis: Is the proposed change appropriate considering the surrounding land uses, the
+density and pattern of development in the area, and any changes which may have occurred
+in the vicinity to support the proposed amendment, and is there availability of utilities and
+services likely to be needed by the anticipated uses in the proposed district?
+
+The subject parcel is currently zoned Heavy Industrial, with the County’s comprehensive plan
+designating the tract as Industrial. This zoning designation is consistent with the intended use of the site,
+aligning with the broader industrial framework that supports the local economy.
+
+ The surrounding area is predominantly rural residential and agricultural in nature, with several
+large-scale agricultural processing facilities located nearby. Notable examples include G & D Evers
+
+Farm, Creekside Valley Farms, and Bernards Brothers Farm, all of which operate near the subject
+parcel. These facilities underscore the importance of industrial zoning in supporting agricultural
+activities in the region. Additionally, both Lafayette and Dayton are within a mile of the subject tract,
+providing immediate access to urban infrastructure, markets, and labor forces. The proximity to these
+cities reinforces the relevance of industrial uses in this area, as they serve as hubs for both economic
+activity and population density. The requested zoning change would maintain the industrial character of
+the area while ensuring compatibility with surrounding land uses. Given the agricultural and industrial
+facilities already established nearby, this change is consistent with the existing landscape and would not
+disrupt the character of the region. Rather, it offers an opportunity to adapt to evolving market demands
+while continuing to contribute to the local economy and infrastructure
+
+4. Analysis: Are other lands in the county already designated for the proposed uses either
+unavailable or not as well-suited for the anticipated uses due to location, size, or other
+factors?
+
+According to the applicant, there are very few other parcels in the area that are designated as
+Industrial under the County’s comprehensive plan. This makes the subject parcel uniquely suited for
+industrial development, as it offers one of the few available opportunities to support industrial growth
+within the region.
+
+Furthermore, the applicant notes that the size and existing infrastructure of the property make it
+an ideal candidate for industrial use. The property is well-equipped to accommodate the needs of
+potential industrial tenants, with ample space and the necessary infrastructure already in place to support
+such uses.
+
+In contrast, the only other comparable property for sale in the region is significantly larger, more
+expensive, and located much further from the central economic hubs of Yamhill County. This makes the
+subject parcel not only more accessible but also more cost-effective for prospective businesses looking
+to invest in the area. The applicant believes this site offers a practical and economically viable option for
+industrial development, helping to meet market demand while minimizing the distance and logistical
+challenges associated with more remote locations.
+
+5. Analysis: Is the amendment consistent with the current Oregon Administrative Rules for
+exceptions, if applicable?
+
+This amendment is consistent with the existing Comprehensive Plan designation of Industrial and
+as such does not require the application of any exceptions.
+
+3. Goal 12 (Transportation Rule) Provisions and Analysis
+
+1. The provisions of the Transportation Planning Rule, implementing Goal 12, must be
+addressed. OAR 660-12-060 contains the provisions that must be met:
+
+(1) If an amendment to a functional plan, an acknowledged comprehensive plan, or a land use
+regulation (including a zoning map) would significantly affect an existing or planned-
+transportation facility, then the local government must put in place measures as provided in
+section (2) of this rule, unless the amendment is allowed under section (3), (9) or (10) of this
+
+rule. A plan or land use regulation amendment significantly affects a transportation facility if
+it would:
+
+(a) Change the functional classification of an existing or planned transportation facility
+(exclusive of correction of map errors in an adopted plan),
+(b) Change standards implementing a functional classification system, or
+(c) Result in any of the effects listed in paragraphs (A) through (C) of this subsection
+based on projected conditions measured at the end of the planning see fuse £5 period
+identified in the adopted TSP. As part of evaluaiing projected conditions, the amount
+of traffic projected to be generated within the area of the amendment may be reduced
+if the amendment includes an enforceable, ongoing requirement that would
+demonstrably limit traffic generation, including, but not limited to, transportation
+demand management. This reduction may diminish or completely eliminate the
+significant effect of the amendment.
+(A) Types or levels of travel or access that are inconsistent with the
+functional classification of an existing or planned transportation facility,
+(B) Degrade the performance of an existing or planned transportation
+facility such that it would not meet the performance standards identified in
+the TSP or comprehensive plan, or
+(C) Degrade the performance of an existing or planned transportation
+facility that is otherwise projected to not meet the performance standards
+identified in the TSP or comprehensive plan.
+
+2. In regard to the traffic-related criteria, the Applicant did not submit a formal traffic impact
+analysis to the Planning Department, as there is no identified new business tied to the zone
+change request at this time. Additionally, no comments or concerns were received from the
+County Public Works Department or the Oregon Department of Transportation regarding the
+proposed zoning change.
+
+ Given that this request is solely for a zone change and not tied to a specific development
+proposal, a traffic impact analysis was not deemed necessary at this stage. However, any
+future land use application for a site design review—should a business or development
+proposal arise —will be subject to the full review process, which would include referral to
+the Yamhill County Public Works Department for assessment of traffic and infrastructure
+impacts.
+
+Based on the current conditions, it appears that the road infrastructure in the area is
+capable of supporting the proposed industrial uses, given that the subject parcel is
+situated within an industrially zoned area and surrounded by similar uses. If a new
+driveway or access point is required in the future, it would be subject to Yamhill
+County’s permitting process, ensuring that any potential impacts are appropriately
+managed.
+
+Therefore, it seems that the proposed zoning change is consistent with the existing
+infrastructure and characteristics of the area, with no immediate concerns raised
+regarding traffic.
+
+4. Limited Use Overlay Provisions
+
+1. The Section 904.02 of the Yamhill County Zoning Ordinance states that the limited use
+overlay may be applied by the Board of Commissioners or the Planning Commission to Plan
+Amendments and/or zone changes.
+2. Section 904.03 of the YCZO contains provisions for limited use overlays. It states:
+
+(A)  When the Limited Use Overlay District is applied, the uses permitted in the underlying
+zone shall be limited to those specifically referenced in the ordinance adopting the Limited
+Use Overlay District.
+
+(B)  The Limited Use Overlay District may be used to require conditional use approval for
+uses normally permitted outright.
+
+(C) Reasonable conditions may be imposed in the Limited Use Overlay District as are
+necessary to assure compliance with the provisions of the Comprehensive Plan and this
+ordinance,
+
+(D) Until the overlay has been removed or amended, the only permitted uses in an LU district
+shall be those specifically referenced in the adopting ordinance.
+
+3. Since the Light Industrial zone allows for industrial uses which have not been evaluated to
+determine whether they are suitable to the area, it is appropriate to apply a Limited Use
+Overlay to limit uses that are permitted on this parcel to only uses allowed in the Light
+Industrial District.
+
+The LU Overlay will include the following uses that are only permitted in the Light Industrial zone.
+Specifically, those addressed in Section 702.02 (A-L):
+
+A. Manufacture of machine tools, medical and dental equipment, electronic instruments, mobile
+homes, and food products not generating noxious odors;
+B. Farm, industrial or contractor’s equipment or materials manufacture, storage, sales, repair or
+service, including automobile repair garage;
+C. Warehousing, wholesale storage and distribution, and motor freight terminals contained only
+within a building;
+D. Fruit, nut or vegetable packing, processing warehousing or cold storage operations;
+E. Winery;
+F. Veterinary hospital;
+G. Accessory uses;
+H-Temporary structures as may be-required during-construction of an authorized permanent
+structure. Such temporary structure shall be removed upon final inspection of the permanent
+structure by the Building Inspector;
+I. Community or municipal water supply system;
+J. Community or municipal sewer system; and
+K. Signs, pursuant to the sign provisions set forth in section 1006;
+L. Dwelling for a caretaker or watchman in conjunction with permitted use.
+
+And the following uses that have been approved as a similar use in the LI District:
+• RV Storage
+• Mini-storage
+
+CONCLUSIONS FOR APPROVAL:
+
+1. The request is for a zone change from HI, Heavy Industrial, to LI, Light Industrial.
+2. The proposal is consistent with Comprehensive Plan goals and policies.
+3. The proposal is consistent with Section 1208.02 of the Yamhill County Zoning Ordinance.
+Specifically:
+a. There is an existing, demonstrable need for the particular uses allowed by the
+requested Light Industrial zoning, as the subject property contains existing industrial
+buildings and infrastructure capable of supporting light manufacturing, processing,
+warehousing, and similar employment uses, and there is a continuing demand in
+Yamhill County for such sites.
+b. The proposed change is appropriate considering the surrounding land uses, the density
+and pattern of development in the area, changes that have occurred in the vicinity, and
+the availability of utilities and services. The property has been used for industrial
+purposes for more than fifty years, is surrounded primarily by agricultural and
+agricultural processing uses, is located near the City of Dayton and major
+transportation corridors, and is served by existing water and wastewater systems,
+making it suitable for Light Industrial use.
+c.  Other lands in the County already designated for Light Industrial use are either
+unavailable or not as well-suited for the anticipated uses due to location, size, cost, or
+lack of existing infrastructure, whereas the subject property is uniquely situated and
+equipped to accommodate light industrial businesses without requiring major new
+public facilities.
+d.  The property was previously rezoned to Heavy Industrial by PAZ-06-94/SDR-11-94
+and has been lawfully developed and used for industrial purposes for decades,
+establishing it as an industrial site that is appropriately designated for continued
+industrial use under the Comprehensive Plan and zoning ordinance.
+4. The proposal complies with the Transportation Planning Rule.
+5. The Limited Use Overlay is appropriate to ensure compatibility with surrounding land uses.
+
+*END*
+4S 3W Sec18
+FOSTER
+LAFAYETTE
+FLETCHER
+Yamhill County Map
+Building Footprints
+Sections
+Taxlot Parcels
+1/14/2026, 1:12:06 PM 0 0.07 0.140.04 mi
+0 0.1 0.20.05 km
+1:5,824
+4S 3W Sec20
+4S 4W Sec02
+4S 3W Sec16
+4S 3W Sec194S 4W Sec23 4S 3W Sec22
+4S 3W Sec21
+4S 3W Sec07
+4S 3W Sec05
+4S 4W Sec14 4S 3W Sec17
+4S 3W Sec09
+4S 4W Sec24
+4S 4W Sec11
+4S 3W Sec03
+4S 4W Sec13
+4S 3W Sec06
+4S 3W Sec08
+4S 3W Sec15
+4S 3W Sec10
+4S 4W Sec01
+4S 4W Sec12
+4S 3W Sec18
+4S 3W Sec04
+YOUNGMAN
+THOMPSON
+CRUICKSHANK
+LOOPREID
+ASH
+KREDER
+LOCKS LOOP
+WATER (DAYTON)
+ARNOLD
+BREYMAN ORCHARDS
+HAWN CREEK
+MATTEY STOLLER
+WARMINGTON
+RIVERWOOD
+ST. JOSEPH
+FOSTER
+SWEET CIDER/THOMPSON
+FLETCHER
+WEBFOOT
+LOCKS
+LAFAYETTE
+MCDOUGAL
+NECK
+99W
+99W
+221
+221
+18
+18
+18
+99W
+99W
+99W
+DAYTON
+LAFAYETTE
+MCMINNVILLE
+Yamhill County Map
+City Boundaries
+Highways
+County Roads
+County Roads
+Railroads
+Non TLs
+RAILS
+ROADS
+WATER
+Sections
+Taxlot Parcels
+1/14/2026, 1:18:04 PM 0 0.55 1.10.28 mi
+0 0.85 1.70.42 km
+1:44,935

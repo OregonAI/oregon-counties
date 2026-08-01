@@ -1,0 +1,322 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord445-pdf
+title: 'ORD445-PDF'
+doc_type: ordinance
+citation: 'ORD445-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17696/ORD445-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 27fd83abb09f18ec45aaae11629c287be75e4e59f677ce1be5a3c1aa15be4766
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.958; figure agreement 0.795; dictionary ratio 0.940. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.110
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 96%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD445-PDF (ORD445-PDF)
+
+## At a glance
+
+OCR-derived text of ORD445-PDF. Not human-verified.
+
+## Full text
+
+rin 4e pee 543
+
+                       IN     THE       BOARD             OF     COMMISSIONERS             OF    THE     STATE    OF    oREGON
+      .                                                                                                                       Res
+wee       = 7 - A7O                                       FOR THE COUNTY OF YAMHILL                                               hea
+                              SITTING               FOR        THE      TRANSACTION         OF     COUNTY       BUSINESS
+
+          In the Matter of an Ordinance
+          to Change the Zone Designation
+          on a Four Acre Portion of a
+          Parcel  Identified as Tax Lot
+          5405-1200  from EF-40 to LI,                                                   ORDINANCE        445
+          by Authorizing an Amendment
+          to the Official   Zoning Map of
+          Yamhill County,   Requested by
+          Michael        A.        Lambert,               and       Declar-
+          ing    an    Emergency
+
+                      THE BOARD    OF                   COMMISSIONERS    OF YAMEILL   COUNTY,   OREGON   (the
+          Board)       on the   27th                    day of May,   1987,  sat  for  the  transaction    of
+          county       business    in                   special  session,   Commissioners     David  E. Bishop,
+          Ted    Lopuszynski,                      and     Donald         D.     Porter     being        present.
+
+                 WHEREAS, Michael A. Lambert has applied to the Yamhill
+          County Department of Planning and Development to change the offi-
+          cial zoning designation   from EF-40 to LI on a four acre portion
+          of the parcel identified as Tax Lot 5405-1200,   more particularly
+          identified on the attached Exhibit   "B"; and
+
+                 WHEREAS,                     Tax       Lot 5405-1200                 is currently designated                     "Light
+          Industrial"   on                    the       Comprehensive                 Plan Map;  and
+
+                  WHEREAS,  ORS 215.110   and the Yamhill County Zoning Ordinance,
+          No.  310,   1982, Section  1301.01(C)   provides  that the Planning Com-
+          mission's    determination to approve    a zone change is final unless   it
+          is appealed to the Board,     or unless   the Board elects to review the
+          decision           on     its           own    motion;          and
+
+                      WHEREAS,                on    May        7,      1987,     the     Yamhill        County    Planning          Commis-—
+          sion held a public hearing in Room                                             32 of the        Yamhill County Court-
+          house to consider said application                                             and voted        5 to 2 to allow the
+          application;  and
+
+                      WHEREAS,                a    public           hearing       was     held     in    Room    32    of   the     Yamhill
+          County Courthouse  on May 27, 1987, to consider an                                                      ordinance to
+          implement the decision of the Planning Commission                                                       to allow said
+          application;  and
+
+                 WHEREAS, the findings of fact and conclusionary findings for
+          approval are sufficient to justify the approval of said application;
+          NOW    THEREFORE,
+
+                      THE     YAMHILL               COUNTY           BOARD       OF    COMMISSIONERS            ORDAINS      AS     FOLLOWS:
+
+                 Section  1. The official     zoning map of Yamhill County shall be
+          and hereby is amended     to change   the zoning designation   from "EF-40"
+          to "LI" on the    four acre  portion    of Tax Lot 5405-1200 as  more par-
+          ticularly   identified on the attached Exhibit      "B".
+
+                Section 2.   The findings of fact and conclusionary        findings
+          for approval  set forth in  the  staff  memorandum   of  May  7, 1987,  are
+          hereby adopted in support   of  this  action  and are   attached  hereto   as
+          Exhibit           "A".
+
+                   Section                3.   Any development                          of the four acre portion of                        Tax
+          Lot    5405-1200                shall be subject to                           Section 1101 of the Yamhill                        County
+          Zoning       Ordinance,                   No.         310,     1982,         relating     to    site    design          review     pro-
+          cess     and        standards.
+
+          ORDINANCE               445     -       Page     1
+                                                                                     ilk 49 nce 544
+           Section  4.   This                  ordinance   being        necessary  for the health,
+safety,      and welfare    of                 the  citizens   of       Yamhill  County,  and an
+emergency having                been       declared      to    exist,     shall      be    effective            upon
+passage hereof.
+
+           DONE   at    McMinnville,                Oregon     this     27th   day    of    May,        1987.
+
+ATTEST:                                                  YAMHILL        COUNTY     BOARD     OF    COMMISSIONERS
+
+                                                              pays “= DAVID
+                                                         Chairman
+                                                                       ecetty?
+                                                                            E. BISHOP
+                                                                                   Date: Plex,                  ET (FET
+
+                                                                “Hed
+                                                         Commissioner            VU TED/LOPUSZYNSKI
+                                                                                   Date:          Mons 27,             1287
+
+J!        M.
+               LEO
+               GRAY,    J                                Commissioner
+                                                                           |       DONALD     D.
+                                                                                                  =     PORTER
+     a   411   Count                   1                                           Date:           Lt           2Z,    é   PT
+
+     ORDINANCE    445       -   Page       2
+                                                         EXHIBIT        "A"                                     AR                 AR
+                                                                                                    FILE     AB        nce         DLO
+                                                   ORDINANCE           445
+
+          Docket:                        Z-2-87
+         . Request                       A   zone           change     from        EF-40     to     LI      for       automobile
+                                         sales          &    repair     on     a    four     (4)      acre            portion           of
+                                         &   parcel      that    is   classified    as   Light
+                                         Industrial   on the Comprehensive Plan Map.
+          Location:                      Approximately    three  (3)   miles   South   of the
+                                         City of    McMinnville,    on the East side of Hwy
+                                         99W        at        the      intersection                 with             Old     Station
+                                         Road,   Tax Lot No.    5405-1200.
+          Applicant:                     Michael    A., Lambert
+
+FINDINGS          OF    FACT
+
+ ds       The applicant   has requested    a zone change from EF-40 to LI
+          on a 4 acre portion of    an 18.43    acre parcel.     The subject
+          property  is presently plan designated     Light Industrial.
+
+          The subject    .property is    undeveloped, has historically been
+          in   agricultural     production    and  is presently   planted to
+          grain.     The site    is flat and is bordered by Highway 99W on
+          the southwest and by Old.Station Road on the east and north.
+
+          The     applicant            proposes              to   establish          an      automobile                    sales    and
+          repair    business    on   the   property                                    (see application).                           Two
+          buildings     of   approximately     2,000                                   square     feet  each                        are
+          proposed   to    be established    on the                                    site   (see attached                        plot
+          plan).
+
+          The applicant previously       sold  vehicles     at   a    site located
+          approximately     1/4 mile north of the subject property,          on the
+          west side    of    the   highway.      Additionally,      the   applicant
+          operated  an    auto repair     and parts   salvage business      located
+          approximately     1200 feet west of the      highway.      The business
+          was authorized       as a nonconforming use,     however,    the sale of
+          vehicles           at    the       intersection              of     Trestleview                Lane        and     Highway
+           99W   was   determined    to   be   a violation of County     land use
+           regulations.    At the    direction    of  the Planning   Commission,
+           the   applicant    was   informed    of the violation   in November,
+           1986,   and the   applicant    immediately    removed   the vehicles
+           from        the        edge        of        the         highway.               Since           that            time,    the
+          applicant           has      been        in       contact     with        the     County           to       verify        the
+           zoning        necessary     to                    accommodate    the proposed  auto  sales-
+           repair       business   and   as                  a  result   the   subject   property   was
+           selected          as    a   potential              business         site.
+
+          The subject  property                             was excepted  from applicable                                  Statewide
+on,
+
+          Goals as part of plan                             acknowledgement   in 1979.
+
+          A zone change   from EF-40 to       LI on     15 acres    of the subject
+          property was    applied    for   in 1978     (Z-156-78).    The Planning
+          Commission  denied the request        in May    of 1979,    primarily on
+          the basis   that no public need was shown and that no willing
+          buyer was   available    to    specify a      proposed use.      In June,
+          1979 the   Board of     Commissioners     approved     the zone change.
+          Subsequently,                  a     neighboring                  property              owner           appealed-the
+          approval  of    the request     to the   LCDC;   where the Commission
+          reversed  the decision of the County.          Later,    the LCDC action
+          was appealed     to the    Court of    Appeals,    and the LCDC action
+          was affirmed.        Ultimately    the   Supreme      Court     denied the
+          petition    for    review   and   the County    repealed     its previous
+          approval  in 1981.
+
+          The   subject  property   is in   immediate    proximity                                                             to PGE
+          electric   and GTE telephone service.    Water and sewer                                                             are to
+          be provided by an on-site well and septic system.
+
+      EXHIBIT     "A"
+                                                                                                               FILH        45        PACE yin
+
+             Zoning           on     surrounding                    properties               includes             EF-40/AF-20                      to    the
+             north           and         east       and        LI        to      the        south        and      west.                Surrounding
+             land           uses     include             farming,               rural        residential,                         an    automobile
+             wrecking              yard,            an    agricultural                       chemical             operation,                   a    steel
+             fabrication                  business,                 an     iron         works        operation,                        anda         ditch
+             digging            business.
+
+             A review       of the LI zoned sites in the                                                  County  indicated   that
+             there    are      2  undevelop ed LI sites                                                    presently    existing.
+             However,     it is not known whether these                                                   sites are for sale or
+             available      for development.
+
+ 10.         At         this         writing,              no            public             agency             comments                 have            been
+             received.
+
+ 11.         The        McMinnville                 PAC    met           to     consider            the        application                 on       April
+             29,        1987;        however,             no        quorum            was    present            and,              therefore,              no
+             recommendation                        could       be        made.
+
+CONCLUSIONARY                      FINDINGS
+
+APPROVAL
+1.       In        that        the       property              is        plan     designated               Light             Industrial                 and
+         the        proposal                  is    to         amend            the         zoning        to          LI     in        conformance
+         with    the                      existing                   plan   designation,                               the        request                 is
+         consistent                      with   the                 Comprehensive    Plan.                                      Further,                the
+         property                  was    excepted              during            the        process            for         acknowledgement
+         of         the            County           Comprehensive                           Plan;,         and,              therefore,                 the
+         requested                  amendment                  is        consistent            with        applicable                    Statewide
+       Goals.
+
+         The applicant has demonstrated         a need for the       proposed    auto
+         repair-sal es    business      in  that   the   business     use   has  been
+         ongoing  and   apparently    operating   succeseful ly    at    a  location
+         1/4 mile    north of     the subject property      for approximately         3
+         years.   Approval     of    the   zone   amendment     would      allow  the
+         applicant                  to     relocate             the           existing         business                to       an      area       where
+         such           a      use         is       permitted                    by         zoning         and             would          remedy           a
+         previous                  zoning          violation.
+
+         The proposed       amendment       is   timely considering that the zone
+         change    to    LI _   has     been     requested         to    accommodate      the
+         relocation      of     an    existing      business       and    considering     the
+         existing development          in the      area.       Lands to       the south and
+         west are devoted         to  industrial      type    uses   and  approval    of the
+         requested    amendment       would    change      the   zoning     on   the subject
+         property     to    LI,      consistent       with     other     area properties.
+         Further,    the proposed        use    will   be     accommodated       by existing
+         telephone                   and           electric                   services             and         will         only         require           a
+         rural              level        of     service             for        water         and     sewer,                  i.e.         well          and
+         septic               system.
+
+         The  subject                     property  was                        selected   by the  applicant    because
+         of  its  close                   proximity   to                       the   existing    auto   repair   sales
+         business,    the location on Highway 99W,           the presence of other
+         businesses      in   the area      and    the    Light     Industrial    plan
+         designatio n    present   on   the    property,     and  the  determinat ion
+         by  the Board     of Commission  ers   that   auto   sales   and  repair  are
+         a    permitted       use    in     the    LI   District      (See   attached
+         memorandum).
+
+SITE DESIGN                   REVIEW
+If     the        application                 is    approved,                  development                 of         the         site     must          be
+subject            to       site     design              review.
+                                                                                                  FIL#   45   PACE   517
+                SKETCH        MAP   FOR     OFFICIAL        ZONING               MAP        AMENDMENT
+
+                           EXHIBIT        "B"     FOR     ORDINANCE               NO.445
+
+                                ZONE      CHANGE        ADOPTED            BY     THE
+
+                     YAMHILL        COUNTY        BOARD     OF           COMMISSIONERS
+
+                                             MAY    27,     1987
+
+                         TO    CHANGE      THE     OFFICIAL               ZONING            MAP
+
+                                     FROM        "EF-40"     TO           "LI"
+
+                                                                            |
+
+Change    applies   to the          shaded       portioy\
+of Tax    Lot  5405-1200                                         \
+                                                                     \
+
+Sketch    prepared    by      Yamhill        County       Department                   of     Planning    &   Development.
+Exhibit   "B"
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 95.8% of
+the word sequence, and on 79.5% of the figures. Dictionary-recognizable words: 94.0%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

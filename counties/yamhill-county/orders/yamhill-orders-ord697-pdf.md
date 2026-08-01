@@ -1,0 +1,519 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord697-pdf
+title: 'ORD697-PDF'
+doc_type: ordinance
+citation: 'ORD697-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17537/ORD697-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: f214a1489de195f985aa6e34e42520ff0740f2ee89f79971a6eecd7330f751bc
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.983; figure agreement 0.803; dictionary ratio 0.932. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD697-PDF (ORD697-PDF)
+
+## At a glance
+
+OCR-derived text of ORD697-PDF. Not human-verified.
+
+## Full text
+
+Ol MAR 12. Alt -08
+       IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                          FOR THE COUNTY OF YAMHILL
+
+            SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of an Ordinance Amending the           )
+Comprehensive Plan Map from AF-10 (Agriculture )
+Forestry Small Holding) to PAI (Public Assembly )}          ORDINANCE 697
+Institutional on Tax Lot 3219-2200; Applicant        )
+Leonard Attrell; Planning Docket PAZ-08-00,          )
+and Declaring an Emergency.                          )
+
+       THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON                            (the
+Board) stat for the transaction of county business on March 8, 2001, Commissioners
+Robert Johnstone, Thomas E. E. Bunn and Leslie Lewis being present.
+
+       WHEREAS, Leonard Attrell (the "applicant") submitted an application to the
+Department of Planning and Development, Planning Docket PAZ-08-00, requesting a
+change to the Comprehensive Plan Map from AF-10 (Agriculture/Forestry Small
+Holding) to PAZ-08-00 for Tax Lot 3219-2200, an approximately 4.6 acre parcel west of
+the City of Newberg abutting on the west side Valley View Memorial Park; and
+
+        WHEREAS, on February 1, 2001, the Yamhill County Planning Commission held
+a duly noticed public hearing to consider the application and thereafter approved the
+application; and
+
+       WHEREAS, the Board held a duly noticed public hearing on February 22 , 2001
+at the Yamhill County Courthouse, hearing testimony from the applicant and his attorney,
+Michael Gunn, there being no opponents present; and
+
+       WHEREAS, on February 5, 2001, after closing the hearing and deliberating, the
+Board voted to approve the request 3-0 on three of the items and 2-1 on one of the items,
+Commissioner Thomas Bunn voting no, as described in the Findings; and
+
+         WHEREAS, the findings and conclusions attached hereto as Exhibit "A" provide
+justification for approval of the amendment to the Comprehensive Plan Map of Yamhill
+County as specified in map Exhibit "B"; Now therefore,
+
+     THE YAMHILL COUNTY BOARD OF COMMISSIONERS                         ORDAINS AS
+FOLLOWS:
+
+       The application of Leonard Attrell, Planning Docket PAZ-08-00, requesting a
+change to the Comprehensive Plan Map from AF-10 (Agriculture/Forestry Small
+
+                                                                            Ao. #0|-isB
+                                                                      ORDINANCE 697
+                                                                                     Page 1
+Holding) to PAZ-08-00 for Tax Lot 3219-2200, an approximately 4.6 acre parcel west of
+the City of Newberg, is hereby approved for the reasons and in the manner set forth in
+Exhibit "A", the Findings for Approval, herein incorporated by reference; and this
+ordinance being necessary for the health, safety and welfare of the citizens of Yamhill
+County, and an emergency having been declared to exist, is effective upon passage.
+
+          DONE   at McMinnville, Oregon, this 8 day of March, 2001.
+
+                                 YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+                                    Pb
+                                     A (forert
+                                        Oe PsTineJOHNSTONE
+                                 Chairman
+
+                                    Thoms             €..8.
+                                 Commissioner        THOMAS E., E. BUNN
+
+FORM APPROVED BY:
+      °            i
+
+RICK SANAI                       Cotumissioner     Y LESYIE LEWIS
+Assistant County Counsel
+
+FAADMIMSANANLU\AttrellBOPetCemetery.wpd
+
+                                                                       ORDINANCE 697
+                                                                                Page 2
+Exhibit “A”
+Findings for Approval
+
+HEARING DATE:                             February 1, 2001
+
+DOCKET NO.:                               PAZ-08-00
+
+REQUEST:                                  Approval of a Comprehensive Plan map amendment from Very
+                                          Low Density Residential to Public Facilities, a zone change from
+                                          AF-10 Agriculture/Forestry Small Holding to “PAI” Public
+                                          Assembly Institutional; and Site Design Review and Similar Use to
+                                          allow a pet cemetery.
+
+APPLICANT:                                Leonard Attrell, represented by attorney Michael Gunn
+
+PROPERTY OWNER:                           SCC, Inc., d.b.a. Valley View Memorial Park
+
+TAX LOT:                                  3219-2200
+
+LOCATION:                                 Approximately 1/3 of a mile west of City of Newberg, north of
+                                          Dayton Avenue and abutting on the west side to Valley View
+                                          Memorial Park.
+
+CRITERIA:                                 Sections 802, 1101, 1206 and 1208 of the Yamhill County Zoning
+                                          Ordinance.   Comprehensive Plan policies may be applicable.
+
+FINDINGS:
+
+A.         Background Facts:
+
+1.         Property size: 4.6 acres.
+
+2.         Access: Dayton Avenue outside City of Newberg
+
+3.         On-site Land Use: The property is on the southwest side of a small hill and on top of
+           which is the existing cemetery. The parcel is rectangular. Presently, no specific uses are
+           on the parcel. Although the property is between Highway 99W and Dayton Avenue, it has
+           access to Dayton Avenue.
+
+4.         Surrounding Zoning and Land Use: The property in the immediate vicinity to the east is
+           Valley View Memorial Park Cemetery, which is zoned “PAI’ Public Assembly
+           Institutional.       The parcels, immediately to the west, south and north, are zoned VLDR     2.5
+           Very Low Density Residential. Farther out, the surrounding county property is zoned for
+           residential use, including VLDR-2.5, AF-10 and city residential zoning. The property to
+           the southwest of the subject parcel has a nut processing facility.
+
+FAADMINSANANLU\AttrellFindingsPAZO8.wpd
+Findings for Approval
+PAZ-08-00 (Leonard Attrell)
+Page 2
+
+5.        Water: Water will be provided from an existing well on the Valley View Memorial Park
+          property to the east.
+
+6.         Sewage Disposal: On-site septic system will be only option. The applicant indicated that
+           he is not planning to install restrooms on the subject parcel. He also stated that the
+           existing restrooms on the Valley View Memorial Park property will also serve this use.
+
+7.        Fire Protection: Newberg Rural Fire District
+
+8.         Soils: Sheet 22 of the Yamhill County Soil Survey shows that the parcel is composed
+          entirely of Woodburn soils (WuC and WuB), with an agricultural capability of Class II and
+          I.
+
+9.         Taxes: The parcel has a cemetery tax exemption status.
+
+10.       Previous Actions: No previous action is on file.
+
+11.       Description of Proposal: The applicant needs to expand the existing cemetery onto the
+          subject parcel and also provide a burial site for pets. The applicant owns and operates the
+          Valley View Memorial Park on the parcel abutting the subject property to the east. The
+          cemetery was established approximately 90 years ago,
+
+12.       Exception area: The subject property was part of the code area 1.8, adopted on April 23,
+          1980. It was adopted as a part of Exceptions Statement II. The property was part of an
+          area identified as land “committed” to rural residential use.
+
+B.        Zone Change and Plan Amendment Provisions and Analysis
+
+1.        The Plan Amendment portion of the request is not subject to local review criteria, but is
+          subject to ORS and OAR criteria.
+
+2.        The zone change portion of the request must comply with the standards and criteria in
+          YCZO Section 1208.02. These provisions are:
+
+          (A)        The proposed change is consistent with the goals, policies, and any other
+                     applicable provisions of the Comprehensive Plan.
+
+          (B)        There is an existing demonstrable need for the particular uses allowed by the
+                     requested zone, considering the importance of such uses to the citizenry or the
+                     economy of the area, the existing market demand which such uses will satisfy, and
+                     the availability and location of other lands so zoned and their suitability for the
+                     uses allowed by the zone.
+
+FAADMIN\SANANLU\ArellFindingsPAZO8,
+                                  wpd-
+Findings for Approval
+PAZ-08-00 (Leonard Attrell)
+Page 3
+
+           (C)         The proposed change is appropriate considering the surrounding land uses, the
+                       density and pattern of development in the area, any changes which may have
+                       occurred in the vicinity to support the proposed amendment and the availability of
+                       utilities and services likely to be needed by the anticipated uses in the proposed
+                       district.
+
+           (D)         Other lands in the county already designated for the proposed uses are either
+                       unavailable or not as well-suited for the anticipated uses due to location, size, or
+                       other factors.
+
+           (E)         The amendment is consistent with the current Oregon Administrative Rules for
+                       exceptions, if applicable.
+
+           Regarding criterion (A) above, since an exception to Statewide Planning Goals 3 and 4 has
+           already been taken for the subject parcel, Comprehensive Plan goals and policies related to
+           agricultural and forest lands are not applicable. The application addresses most Plan
+           goals and policies, which the Planning Commission and Board may review. Plan goals
+           and policies, which staff feels, may be pertinent are:
+
+           Oregon Statewide Planning Goals and Guideline - Goal 9 - Economics, which states "To
+           provide adequate opportunities throughout the State for a variety of economic activities
+           vital to the health, welfare, and prosperity of Oregon's citizens ... Comprehensive plans
+           and policies will contribute to a stable and healthy economy in all regions of the State."
+
+           The applicant states that this application, if approved, will allow for an additional
+           economic activity associated with the expansion of an existing cemetery. Additionally, he
+           states that the establishment of a pet cemetery will enhance the economic base of the
+           community.
+
+           Oregon Statewide Planning Goals and Guideline - Goal 10 - Housing, which states "To
+           provide for the housing needs of citizens."
+
+           This plan and zone change will have no effect upon surrounding residential area. The AF-
+           10 zone would allow the subject parcel one dwelling. The zone change would also allow
+           one home as a dwelling with a permitted use for a caretaker of the cemetery.
+
+           Yamhill County Revised Goals and Policies, G.IV.A.1. To develop a timely, orderly and
+           efficient arrangement of public services and facilities to serve as a framework for urban
+           and rural development, including public lands and buildings, parks and recreation areas
+           and facilities, schools, police and fire protection, domestic water supply, sanitary and
+           storm sewerage and other drainage facilities, and power, gas and telephone services.
+           (166)
+
+FAADMIN\SANANLU\AtrellFindingsPAZ08.wpd.
+Findings for Approval
+PAZ-08-00 (Leonard Attrell)
+Page 4
+
+            The proposed plan and a zone change will have no adverse effect upon public services as
+            existing facilities are on the site and are adequate. If anything, the applicant is providing a
+            public service by providing a place of interment for deceased persons and is proposing to
+            expand his service to inter deceased pets as well.
+
+3.          Regarding criteria 1208.02 (B) and (D), the applicant performed a survey of all properties
+            within a 2- mile radius, covering approximately 20 sq. miles, from the subject property.
+            The applicant determined that there are seven existing “PAI” zoned properties within the
+            surveyed area, Of those seven properties,
+
+            »          Two properties contain a church, and thus are not available properties.
+
+            »          One property contains approximately nine acres, which is owned by Chehalem
+                       Park and Recreation District. The district is planing to develop the parcel as a
+                       park, and thus this is not an available property.
+
+            »          Three properties are existing cemeteries (Dundee and Noble Burial) and, therefore,
+                        are not available properties.
+
+            >          One property contains approximately 4.28 acres and is owned by North Valley
+                       Friends Church. It is contiguous to an existing church located on N. College St. (at
+                       the base of Chehalem Mountain) and is not available. The church plans to use the
+                       property for future expansion.
+
+           Thus, the applicant has shown that there are no other available “PAT” zoned properties that           |
+            would be suitable for his needs.       Although not required to do so, the applicant also
+            surveyed all available properties within the City of Newberg and the City of Dundee, to
+            determine if there are any available properties in those jurisdictions.
+
+            »          The City of Newberg does not have any properties that are zoned for use as a
+                       cemetery. Any proposed use would have to be processed as a conditional use
+                       application. For that reason, the applicant states are no available properties that are
+                       suitable within the City of Newberg for the proposed use.
+
+            »          The City of Dundee has a public zone "P" Public, which allows cemeteries as a
+                       conditional use. The applicant has determined that, currently no available
+                       properties are zoned “P” for public use, which would be of similar size, in the City
+                       of Dundee. The absence of properties coupled with the fact that the City of
+                       Dundee allows cemeteries only as a conditional use, indicates that there are no
+                       suitable properties available in the City of Dundee.
+
+           The intent of this application is to expand the existing cemetery, which has been at the
+           present location for more than 90 years. Trying to open a new cemetery away from his
+           established location would be impractical for the applicant
+FAADMIN\SANANRLUMttrellFindingsPAZ08.wpd_
+Findings for Approval
+PAZ-08-00 (Leonard Attrell)
+Page 5
+
+4,         Regarding criterion 1208.02(C), the applicant indicated that the proposed use would not
+           affect the neighboring properties in the area. He indicated that approval of the zone
+           change and comprehensive plan amendment will improve the character of the
+           neighborhood.            The applicant will be constructing certain improvements (grave sites,
+           landscaping, etc.) on the subject property, and will be maintaining the subject property
+           pursuant to the same high character maintenance standards as the existing cemetery
+           property. Despite the fact, that the use has been at the same location more than 90 years,
+           the residential growth of the area has not stopped. There has been a rapid growth in the
+           Newberg/Dundee area during the past 10 years. This shows a need for the proposed use
+           and justifies the expansion of the existing cemetery into the subject property.
+           Furthermore, the increased growth has also led to many requests for the creation of a pet
+           cemetery.        There are no “pet cemeteries” located in Yamhill County at this time.
+
+           The public services, necessary for the future cemetery, are similar to those needed for the
+           existing use. The services, necessary for the use, are already available. The applicant will
+           obtain water from a well on the existing cemetery property immediately to the east. Septic
+           services are also available on the existing cemetery property as the subject property will
+           not need septic service. The proposed zone change should have no adverse effect upon
+           public services.
+
+5.         Exception requirements, criterion 1208.02 (E), are addressed in section C of this report.
+
+Cc.        Goal Exception Provisions and Analysis
+
+           Oregon Administrative Rule (OAR) 660-04 contains requirements for taking goal
+           exceptions. This area was approved for a “committed” exception in 1980, based on the
+           number of small subdivision lots and existing rural residential development pattern. The
+           area was zoned VLDR-2.5 and AF-10 allowing for rural residential development. The
+           Board of Commissioners has previously found that a new exception is not required
+           because a “committed exception” to Goals 3 and 4, adopted prior to 1986, did not limit the
+           future use of the exception area. This is because the “committed exception” was taken
+           before the effective date of the rule (3/20/86). Therefore, no additional goal exception is
+           required.
+
+D.         Site Design Review Criteria and Analysis
+
+1.         Site design review is required for any development in a “PAI” district. Section 1102.02 of
+           the YCZO governs site design review. Review of a site development plan shall be based
+           upon consideration of the following:
+
+           (1)          Characteristics of adjoining and surrounding uses;
+
+           (2)         Economic factors relating to the proposed use;
+
+FAADMIN\SANARLUMttrellFindingsPAZ08.wpd_
+Findings for Approval
+PAZ-08-00 (Leonard Attrell)
+Page 6
+
+           (3)         Traffic safety, internal circulation and parking;
+
+           (4)         Provisions for adequate noise and/or visual buffering from non-compatible uses;
+
+           (5)         Retention of existing natural features on site;
+
+           (6)         Problems that may arise due to development within potential hazard areas.
+
+           (7)         Comments and/or recommendations of adjacent and vicinity property owners
+                       whose interests may be affected by the proposed use.
+
+           Regarding criterion (1), a cemetery is inherently a park-like setting, which will not require
+           on-site screening from neighboring uses.
+
+           Regarding criterion (2), the proposal is for expansion of an existing use and it is implied
+           that the applicant has economic means to proceed with the expansion. No other economic
+           factors, related to the site design, were identified.
+
+           Regarding criterion (3), the existing cemetery has adequate room for parking and internal
+           circulation. The property has an existing access onto Dayton Avenue. The applicant plans
+           to maintain the existing access as it is and does not anticipate any changes to the design of
+           the access. The Yamhill County Public Works has not yet responded to the referral.
+
+           Regarding criterion (4), same argument can be made as in D.2 above.       The cemetery is
+           inherently a park-like setting, a place for meditation and quiet repose, which would not
+           require installation of any sound barriers from neighboring uses.
+
+           Regarding consideration (5), any natural features, such as trees, will be maintained in their
+           original state.
+
+           Regarding consideration (6), the applicant identified no hazard area and none are on the
+           record.
+
+           Regarding criterion (7) above, no comments have been received from surrounding
+           property owners. One would expect that if there are any concerns, those would be
+           presented during the public hearing.
+
+           Similar Use Provisions and Analysis
+
+           The purpose of Section 1206 of the YCZO is to provide for those uses not specifically
+           listed in a particular zoning district but are similar in character, scale and performance to
+           the permitted uses specified in zoning districts in which a similar use may be authorized.
+
+FAADMIN\SANANLU\AttrellFindingsPAZ08.wpd
+Findings for Approval
+PAZ-08-00 (Leonard Attrell!)
+Page 7
+
+           A "cemetery" is a permitted use in a “PAT’ zone. However, the definition of "cemetery"
+           pursuant to Oregon Health Services (OHS) is that of “human remains,” which means that a
+           pet cemetery is not a permitted use in a “PAI” zone.
+
+           The applicant states that a pet cemetery is a similar use to a "cemetery" pursuant to YCZO
+           801.04, He states that a pet cemetery is similar in character, scale, and performance to
+           the permitted use of a cemetery. The only difference is that pet remains will be buried in a
+           pet cemetery versus human remains in a standard cemetery.
+
+           ld          Pursuant to YCZO 1206.02 A, the applicant indicates that the proposed use of a pet
+                       cemetery is consistent with the purpose and scope of the “PAT” zone requirement.
+
+           >          Pursuant to YCZO 1206.02 B, the applicant indicates that the proposed use
+                      conforms with the applicable standards and limitations of the underlying zoning of
+                       “PAT,” as shown above.
+
+           >           Furthermore, the applicant indicates that he does not believe there are any existing
+                       pet cemeteries in Yamhill County. He also states that, based on requests from
+                       potential clients for a pet cemetery, the creation of a pet cemetery is justified.
+
+           Limited Use Overlay Provisions
+
+           OAR 660-04-18(3)(a) states that when a “reasons” exception is taken, plan and zone
+           designations must limit uses to only those that are justified in the exception.
+
+           The City of Newberg has requested that approval would include a limited use overlay.
+           Since there is no requirement for an exception to be taken, the county does not have the
+           legal authority to impose a limited use overlay on an approval of this application.
+           Furthermore, county planning staff does not believe that the applicant intends to use the
+           parcel for any other uses except for what is being proposed in the application.
+
+CONCLUSIONS:
+
+1.         The request for a Comprehensive Plan amendment from Very Low Density Residential
+           (VLDR) to Public Facilities and a zone change from “AF-10" Agriculture Forestry Small
+           Holding to “PAT’ Public Assembly Institutional is approved.
+
+           The “pet cemetery” complies with Section 1206 of the Yamhill County Zoning Ordinance
+           in that the use is similar in character, scale and performance to other uses allowed in the
+           “PAI” Public Assembly Institutional zone (note: this particular finding is adopted by a
+           vote of 2-1, with Commissioner Thomas E.E. Bunn dissenting).
+
+           The proposed zone change is consistent with Comprehensive Plan goals and policies, and
+           the request satisfies Section 1208.02 of the Yamhill County Zoning Ordinance. This
+
+FAADMIN\SANANLUAAtirelFindingsPAZO8.wod
+Findings for Approval
+PAZ-08-00 (Leonard Attrell)
+Page 8
+
+           proposal is for an expansion of an existing use on an adjacent parcel and there are no other
+           lands in the immediate vicinity that would allow siting of a cemetery. With appropriate
+           landscaping, the use can be made compatible with surrounding uses.
+
+4.         The request satisfies the criteria of Section 1101 of the Yamhill County Zoning Ordinance
+           for a Site Design Review. This approval be subject to a condition stating that the applicant
+           shall submit to the planning department a site design review map showing all items listed
+           in Section 1101.04 (A, B, and C) of the Yamhill County Zoning Ordinance.
+
+FAADMINISANANLU\UittellFindingsPAZO8.wpd
+                               EXHIBIT             "BY" FOR                  ORDINANCE                         No. 697
+                                   COMPREHENSIVE PLAN AMENDMENT                                                 FROM
+                                  VERY LOW DENSITY RESIDENTIAL                                                 (VLDR)
+                                           TO PUBLIC FACILITIES
+                                    ZONING MAP AMENDMENT FROM
+                         AF-IO0 AGRICULTURE/FORESTRY SMALL HOLDING                                                         TO
+                                PAL (PUBLIC ASSEMBLY  INSTITUTIONAL)
+
+                                                                         284.6
+
+                   TAX   LOT   3219-2200
+                   4.6   AC,
+                                             528
+
+                                                                                                 825
+
+                                                   87.88
+                                                           248.5
+
+                                                                                                       H2.54
+
+                                                                                 i98
+
+Prepared      by     Yamhill    County     Department              of   Planning       and   Development
+
+stotetelatetetl                                                                                                         ORDINANCE     No.     976
+                                                                                                                                    EXHIBIT   “B”
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.3% of
+the word sequence, and on 80.3% of the figures. Dictionary-recognizable words: 93.2%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

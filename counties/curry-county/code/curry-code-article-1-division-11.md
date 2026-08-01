@@ -1,0 +1,405 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/curry-county
+id: curry-code-article-1-division-11
+title: 'Article 1 - Division 11'
+doc_type: ordinance
+citation: 'Article 1 - Division 11'
+authority_level: county_ordinance
+issuing_body: 'Curry County Board of Commissioners'
+source_url: https://www.currycountyor.gov/Article%201%20-%20Division%2011.pdf?t=202407101004170
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 4b0662e121ea07a617344d0dabe242fef96bdef905a7429f478ba50ddcb47a72
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.983; figure agreement 0.919; dictionary ratio 0.976. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.352
+    - ORS 203.035
+  related: []
+  supersedes: []
+tags: [curry-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Article 1 - Division 11 (Article 1 - Division 11)
+
+## At a glance
+
+OCR-derived text of Article 1 - Division 11. Not human-verified.
+
+## Full text
+
+BEFORE THE BOARD OF CURRY COUNTY COMMISSIONERS
+
+                IN AND FOR THE COUNTY OF CURRY, OREGON
+
+In the Matter of the Adoption
+of a Measure 49 Vested Rights
+Ordinance to Determine Whether                 ORDINANCE NO, O3-CL
+an Applicant has a Common
+Law Vested Right to Complete
+and Continue a Use Allowed by
+
+                                                                                  AdOD
+a Measure 37 Waiver
+
+       The Board of Commissioners for the County of Curry ordains as
+follows:
+
+SECTION 1 TITLE
+
+         This ordinance shall be known as Ordinance    08:02   , an ordinance
+amending the Curry County Code to provide a Measure 49 vesting rights
+section.
+
+SECTION 2 FINDINGS
+
+A.       On November 2, 2004, the voters of the State of Oregon approved
+         Ballot Measure 37 which added provisions to the Oregon Revised
+         Statutes (ORS) Chapter 197 to require, under certain
+         circumstances, payment of just compensation to landowners if a
+         government land use regulation reduced property value. In lieu of
+         payment for just compensation,   Ballot Measure 37 authorized the
+         governing body of a local government to modify, remove, or not
+         apply the land use regulation. (Such actions are generally referred
+         to as “Measure 37 waivers.”)
+
+         The Board of Curry County Commissioners approved multiple
+         Measure 37 claims in lieu of payment of just compensation.
+
+                                                                    HLED WITH
+                                                                    FEB 21 2008
+Page 1
+                                                               CURRY COUNTY CLERK
+C.    In June of 2007 the Legislative Assembly referred House Bill 3540 to
+      the voters. House Bill 3540 substantially amended ORS 197.352.
+      House Bill 3540 was considered by the voters in the election of
+      November 6, 2007 as Ballot Measure 49. The voters approved
+      Measure 49, and Measure 49 became effective December 6, 2007.
+
+D.    Section 5 of House Bill 3540 provides as follows with respect to
+      development of property in accordance with Measure 37 relief:
+
+             SECTION 5. A claimant that filed a claim under ORS 197.352
+      on or before the date of adjournment sine die of the 2007 regular
+      session of the Seventy- fourth Legislative Assembly is entitled to
+      just compensation as provided in ...
+
+             (3) a waiver issued before the effective date of this 2007 Act
+      to the extent that the claimant’s use of the property complies with
+      the waiver and the claimant has a common law vested right on the
+      effective date of this 2007 Act to complete and continue the use
+      described in the waiver.
+
+E.    The State of Oregon has determined that a local government may
+      determine vesting rights under Section 5(3) of House Bill 3540 for
+      those Measure 37 waivers the local government issued. Thus, it is
+      appropriate to establish a process for Curry County’s determination
+      whether a “claimant’s use of the property complies with the waiver
+      and the claimant has a common law vested right on the effective
+      date of this 2007 Act to complete and continue the use described in
+      the waiver.”
+
+SECTION 3 ADOPTION
+
+       Exhibit “A”, attached hereto and incorporated by this reference, is
+adopted as an amendment to the Curry County Code; to wit, as a new
+Article One Section 11.
+
+SECTION 4 SEVERANCE CLAUSE
+
+        if any section, subsection, provision, clause or paragraph of this
+Ordinance shall be adjudged or declared by any court of competent
+jurisdiction to be unconstitutional or invalid, such judgment shall not
+affect the validity of the remaining portions of this Ordinance. It is
+expressly declared that every other section, subsection, provision clause
+or paragraph of this Ordinance, irrespective of the enactment or validity
+of the portion thereof declared to be unconstitutional or invalid, is valid.
+
+Page 2
+SECTION 5 EMERGENCY CLAUSE
+
+          This ordinance being necessary for the immediate preservation of
+the health, safety and welfare of the community, an emergency is
+declared to exist and this ordinance shall take effect upon its passage.
+                             a
+          apoptep THIS     _/7 _ day of February, 2008.
+
+                              BOARD      OF CURRY   COUNTY   COMMISSIONERS
+
+                              Georgia    Yee Nowlin,    i
+
+                           Ade La Bonteé, Vice Chair
+                          U/
+                               —        ABSENT      —
+                              Marlyn Schafer, Commissioner
+
+Attest:
+
+tice K. Cte
+Recording Secretary
+
+Approved as to Form:
+
+ (| ; Honea        lab)
+M. Gerard Herbage
+Curry County Legal Counsel
+
+First Reading:      xr/4/o8
+Second Reading: #/4/28
+Emergency Adoption: °/4/od
+Effective Date: o//4/4
+
+Page 3
+                                EXHIBIT “A”
+
+                             ARTICLE ONE
+
+DIVISION ELEVEN          MEASURE 49 VESTED RIGHTS
+
+SECTION 1.11.010         AUTHORITY
+
+      This division is enacted pursuant to ORS 203.035.
+
+SECTION 1.411.020        PURPOSE
+
+       The purpose of this division is to establish a procedure for
+determining whether a property owner who was granted a waiver from
+land use regulations pursuant to ORS 197.352 before it was amended by
+the adoption of Ballot Measure 49, enacted by the voters on November 6,
+2007, has a common law vested right to complete and continue the use
+described in the waiver.
+
+SECTION 1.11.030         DEFINITIONS
+
+      For purposes of this division, the following definitions apply:
+
+(1)   “Applicant” means a person who has obtained Measure 37 relief
+      from the Board and the State of Oregon, and who has applied to the
+      Public Services Department for a Final County Vesting Decision.
+
+(2)   “Application” means an application form created by the Public
+      Services Director and filed with the Public Services Department by
+      an applicant for a Final County Vesting Decision.
+
+(3)   “Board” means the Board of Curry County Commissioners.
+
+(4)   “Completed Application” means an application deemed complete by
+      the Director of Public Services or his designee.
+
+(5)   “Final County Vesting Decision” means a final written decision by
+      the Board on an application that the applicant does or does not
+      have a vested right to continue and complete a use under a Board
+      order granting the applicant Measure 37 relief.
+
+Page 1
+SECTION 1.11.040          APPLICATION
+
+(1)   Any person who wishes to complete or continue any use of property
+      allowed pursuant to a Measure 37 waiver shall file an application for
+      a Final County Vesting Decision as required by Measure 49. Until
+      the Board’s determination of vested rights has been made, permits
+      shall be issued.
+
+(2)   Acompleted application shall include the following information:
+
+      (a)    Name, address, telephone number and signature of the
+      owner filing the application.
+
+      (b)    Acopy of the conveyance document that shows the
+      applicant’s interest in the subject real property and inciudes a legal
+      description and physical address of the property.
+
+      (c)    Copies of both Curry County’s and the State of Oregon’s
+      orders approving a waiver for the subject property.
+
+      (dq)   Acopy of any land use approvals and construction permits
+      issued that allow development of the subject property.
+
+      (e)    identification of expenditures made to.develop the subject
+      property and the dates of those expenditures.
+
+      (f)    A written statement describing how the applicant’s use of the
+      subject property is consistent with the waiver, and how the
+      applicant has a common law vested right to complete or continue
+      the use described in the waiver.
+
+      (g)    An application fee, if any, if set by Board Resolution.
+
+SECTION 1.11.050             PROCESS
+
+(1)   An applicant shall submit applications to the Public Services
+      Department with the information required in Section 1.11.040
+      above. The Public Services Director or his designee is empowered
+      to determine when the application becomes a completed
+      application and may require additional information beyond that
+      originally submitted when necessary to address the criteria to
+      establish   a common    law vested right. The applicant is responsible
+      for the completeness and accuracy of all information submitted with
+      the application and all of the supporting documentation.
+
+Page 2
+(2)   The Public Services Director or his designee will prepare a staff
+      report that describes the vested rights application, sets forth
+      pertinent facts, and makes a recommendation on how the
+      application should be resolved. The Public Services Department
+      shall forward the staff report to the Board, County Legal Counsel,
+      and the applicant, and make it available to others upon request in
+      accordance with the County’s public record policy.
+
+(3)   |The Board shall make the Final County Vesting Decision as outlined
+      in Section 1.11.060 below. The Board will exercise reasonable
+      efforts to make a timely decision on a completed application.
+
+SECTION 1.11.060         PUBLIC HEARING
+
+(1)   |The Board shall conduct a public hearing on the application to make
+      a Final County Vesting Decision.
+
+(2)   |The Board shall consider the Public Service Director’s (or his
+      designee’s) recommendation and all documents, evidence and
+      testimony in the record.
+
+(3)   In determining whether the applicant has a vested right to continue
+      and to complete a use allowed under a Board order granting
+      Measure 37 relief, the Board shall consider the following factors
+      based upon evidence submitted in the application:
+
+      (a)    |The amount of money spent on developing the use in relation
+      to the actual cost of establishing the use.
+
+      (6)   The good faith of the property owner.
+
+      (c) | Whether the property owner had notice of the proposed
+      change in law before beginning development.
+
+      (d)   Whether the improvements could be used for other uses that
+      are allowed under the new law.
+
+      (e)   The kind of use, location and cost of the development.
+
+      (f)   Whether the owner’s acts rise beyond mere contemplated
+      use or preparation, such as the leveling of land, boring test holes, or
+      preliminary negotiations with contractors or architects.
+
+      (g)   Other relevant factors.
+
+Page 3
+(4)   | The Board shal! enter an order determining whether an applicant’s
+        use of the subject property complies with the waiver and whether
+        applicant had a common law vested right on December 6, 2007, to
+       complete and continue the use described in the waiver.
+
+SECTION 1.11.070            NOTICE OF PUBLIC HEARINGS
+
+(1)    Notice of a public hearing under this division shall be mailed to the
+       following not less than seven days prior to a scheduled hearing:
+
+       (a)   The applicant.
+
+       (b)   The Department of Land Conservation and Development.
+
+       (c)    Owners of real property located within 500 feet of the
+       property that is the subject to the Final County Vesting Decision as
+       those owners are identified by existing records in the Curry County
+       Assessor’s Office.
+
+(2)    Notice shall also be posted on the Commissioners’ Bulletin Board in
+       the Courthouse Annex and E Mailed to the media at least seven days
+       prior to the hearing.
+
+(3)    The notice shail include a brief summary of the Public Service
+       Director’s report.
+
+(4)    The failure of any person to receive notice of a public hearing shall
+       not affect or invalidate a proceeding under this division.
+
+SECTION 1.11.080            NOTICE OF FINAL COUNTY VESTING DECISION
+
+       Not later than five (5) working days after the Board has made and
+signed a Final County Vesting Decision, the Public Services Department
+shall provide notice of the decision by first class mail to the persons
+named in this subsection:
+
+(1)    The Applicant.
+
+(2)    The Department of Land Conservation and Development.
+
+(3)    Owners of real property located within 500 feet of the property that
+       is subject to the Final County Vesting Decision as those owners are
+       identified by existing records in the Curry County Assessor’s Office.
+
+Page 4
+(4)   Persons who testified before the Board, or who submitted written
+      evidence, comments or arguments into the record before the
+      Board.
+
+SECTION 1.11.090          JUDICIAL REVIEW OF FINAL COUNTY VESTING
+                          DECISION
+
+(1)   A Final County Vesting Decision of the Board made under this
+      division is not a land use decision subject to review by the Land Use
+      Board of Appeals.
+
+(2)   A Final County Vesting Decision of the Board made under this
+      division is subject to review by the Curry County Circuit Court ina
+      Writ of Review proceeding filed under Oregon Revised Statutes
+      Chapter 34 by an Applicant or a person adversely affected by a
+      Final County Vesting Decision.
+
+(3)   Judicial review of a Final County Vesting Decision by the Board is:
+
+      (a)     Limited to the evidence in the record before the Board at the
+      time it made and signed a Final County Vesting Decision.
+
+      (b)    Available only for issues that are raised before the Board with
+      sufficient specificity to afford the Board and Applicant an
+      opportunity to respond.
+
+SECTION 1.11.100          EFFECT OF VESTED RIGHTS DETERMINATION
+                          ON SUBSEQUENT OWNERS
+
+      A Final County Vesting Decision by the Board under this ordinance
+shall apply to a future owner or otherwise run with the land to the fullest
+extent allowed by law when the Final County Vesting Decision determines
+that:
+
+(1)   Anapplicant’s use of the subject property complies with the
+      Measure 37 waiver issued by the Board; and
+
+(2)   The applicant has a common law vested right as of December 6,
+      2007, to complete and continue the use described in the waiver.
+
+Page 5
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.3% of
+the word sequence, and on 91.9% of the figures. Dictionary-recognizable words: 97.6%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

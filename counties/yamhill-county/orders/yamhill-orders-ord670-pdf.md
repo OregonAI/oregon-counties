@@ -1,0 +1,766 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord670-pdf
+title: 'ORD670-PDF'
+doc_type: ordinance
+citation: 'ORD670-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17556/ORD670-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 2079acff54e2f68cce631bcb19c1c1508bce296096b3021ac8746409c194fc49
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.987; figure agreement 0.759; dictionary ratio 0.945. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 836.616
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD670-PDF (ORD670-PDF)
+
+## At a glance
+
+OCR-derived text of ORD670-PDF. Not human-verified.
+
+## Full text
+
+99 APR IS P3:26
+          IN THE BOARD       OF COMMISSIONERS            OF THE STATE OF OREGON
+
+                              FOR THE COUNTY        OF YAMHILL
+
+                 SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+                                                                              val    7 tae
+In the Matter of an Ordinance Amending the          )                 FALE   66 PAGE Leb
+Yamhill County Comprehensive Plan (1974)            )
+Map from "AFLH"      (Agriculture Forestry Large    )
+Holding) to "Public"and Amending the Official       )              ORDINANCE        670
+Zoning Map from "EP-80" (Exclusive Farm Use)        )
+to "PALF" (Public Airports/Landing Fields), and     )
+Taking an Exception to Goal 3 on a 7.3 acre         )
+portion of Tax Lot 3309-2301, Approving a           )
+Lot Line Adjustment to Add the 7.3 acres from       _)
+Tax Lot 3309-2301 to Tax Lot 3309-2400, and         +)
+Approving Site Design Review to Construct           )
+Aircraft Hangars on the 7.3 acre portion of         )
+Tax Lot 3309-2301; Applicant Dennis                 )
+Sturdevant; Docket PAZ-01-99, L-02-99,              )
+SDR-02-99, and Declaring an Emergency.              )
+
+       THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board)
+sat for the transaction of county business in special session on April 15, 1999, Commissioners
+Robert Johnstone, Ted Lopuszynski, and Thomas E. E. Bunn being present.
+
+       WHEREAS, on January 15, 1999, the Department of Planning and Development received
+an application by Dennis Sturdevant ("applicant"), Planning Docket PAZ-01-99, L-02-99, SDR-
+02-99, for a Comprehensive Plan map amendment from "AFLH" (Agriculture Forestry Large
+Holding) to "Public", a zone change from "EF-80" (Exclusive Farm Use) to "PALF" (Public
+Airports/Landing Fields), an Exception to Statewide Planning Goal 3 on a 7.3 acre portion of Tax
+Lot 3309-2301,    a lot line adjustment to add the 7.3 acres from Tax Lot 3309-2301       to Tax Lot
+3309-2400 (Chehalem Airpark), and site design review to construct aircraft hangars on the 7.3
+acre portion of Tax Lot 3309-2301; and
+
+       WHEREAS,       on February 9, 1999, the application was deemed complete, and on March
+4, 1999, the Planning Commission held a public hearing to consider the application and thereafter
+voted 7-0 to recommend approval of the request; and
+
+        WHEREAS, on April 1, 1999, the Board held a public hearing on the application, and
+following the close of the hearing, voted unanimously to tentatively approve the plan amendment,
+zone change,   exception to statewide Goal 3, lot line adjustment, and site design review; and
+
+                                                                                  ORDINANCE 670
+                                                                                       Exhibit "A"
+                                                                BA.      94-255               Page 1
+       WHEREAS,       the findings and conclusions attached hereto as Exhibit "A" and incorporated
+herein by this reference provide justification for approval of the application for the amendment to
+the Yamhill County Comprehensive Plan Map and Official Zoning Map, and that approval thereof
+is in the best interests of the citizens of Yamhill County;          Now Therefore,
+
+       THE YAMHILL COUNTY BOARD OF COMMISSIONERS ORDAINS AS FOLLOWS:
+
+       Section 1. The Yamhill County Comprehensive Plan Map (1974), as amended, is hereby
+amended to reflect a plan designation of "P" (Public) on the 7.3 acre portion of Tax Lot 3309-2301
+as more particularly shown on the map attached hereto and incorporated herein as Exhibit "B."
+
+       Section 2.      The Official Zoning Map, as amended, is hereby amended to reflect a zoning
+designation of "PALF" (Public Airports/Landing Fields) on the 7.3 acre portion of Tax Lot 3309-
+2301 as more particularly shown on the map attached hereto and incorporated herein as                    Exhibit
+"BO
+
+       Section 3.       A lot line adjustment is approved to transfer the 7.3 acres from Tax Lot
+3309-2301 to Tax Lot 3309-2400,         as more particularly shown on the map attached hereto and
+incorporated herein as Exhibit "B."
+
+        Section 4.     Site design review        is approved to construct aircraft hangars on the 7 acre
+portion of Tax Lot 3309-2301.
+
+        Section 5. The lot line adjustment and site design review approvals under this ordinance
+are subject to the following conditions:
+
+       1.      The adjusted lots shall be surveyed pursuant to Section 6.120 of the Yamhill County
+               Land Division       Ordinance   and a copy       of the survey shall be submitted to the
+               Planning Director prior to final approval.
+
+       2.      A copy of the instrument(s) conveying the adjusted property shall be submitted to
+               the Planning Department prior to recording with the County Clerk. The names on
+               the instrument(s) conveying the property shall be the same as they appear in the tax
+               records of Yamhill County.             :
+
+       3.      The   instruments     conveying     the   adjusted.   properties   shall   either   describe   the
+               readjusted lots in their entirety, or, if the instrument describes only that area being
+               conveyed from one property to the adjoining property, the following statement shall
+               be placed on the instrument:
+
+                       "This conveyance is made solely as an adjustment of common boundary
+                       between adjoining properties, and does not create a separate parcel that can
+                       be conveyed independently of adjacent land."
+
+                                                                                             ORDINANCE 670
+                                                                                                  Exhibit "A"
+                                                                                                         Page 2
+                                                                                rd OG ace L2U6
+       4.      All building locations shall comply with FAA standards for minimum distances from
+               the runway unless a letter is submitted from either the FAA or State Aeronautics
+               Division affirming that the hangers may be located closer to the runway.            The
+               buildings shall be located at least 30 feet from all property lines unless they are less
+               than 15 feet in height, in which case they may be located a minimum of 3 feet from
+               the side or rear property line.
+
+        Section 5.    In adopting the plan amendment specified in Section 1, the County hereby
+takes an exception to Statewide Planning Goal 3.
+
+        Section 6.    The findings attached as Exhibit "A" and incorporated herein by reference
+are hereby adopted in support of this ordinance.
+
+       Section 7.      Emergency Clause.     This ordinance being necessary for the health, safety,
+and welfare of the citizens of Yamhill County, and an emergency having been declared to exist,
+is effective upon passage.
+
+       DONE at McMinnville, Oregon this 15th day of April, 1999.
+
+                                            Pobact Cpbeties
+                                       YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+                                       Chairman              (OBERT JOHNSTONE
+
+By:    5                                Ted         Loonie pycaber
+Deputy              ‘Ain White         Commissioner       () TEDLOPUSZYNSKI
+FQRM    APPROVED BY:                      a
+  ONC        eaug                           [hormes—           E.€.       Bunn.
+SOHN C. PINKSYAFF                      Commissioner           THOMAS      E. E. BUNN
+ Assistant County Counsel
+
+EAADMIN\PINKSTNLUIPAZ0199, WPD
+
+                                                                                     ORDINANCE 670
+                                                                                          Exhibit "A"
+                                                                                                Page 3
+                                   ORDINANCE 670
+
+                                       EXHIBIT "A"                      rik    OG nek 267
+
+PLANNING COMMISSION'S APPROVAL:                           March 4, 1999
+
+BOARD OF COMMISSIONERS' APPROVAL:                         April 15, 1999
+
+DOCKET:                     PAZ-01-99, L-02-99, SDR-02-99
+
+REQUEST:                    A lot line adjustment to add approximately 7 acres of tax lot
+                             3309-2301 to tax lot 3309-2400 (Chehalem Airpark), which
+                            requires a Comprehensive Plan map amendment from Agriculture
+                            Forestry Large Holding to Public, a zone change from EF-80
+                            Exclusive Farm Use to PALF Public Airports/Landing Fields
+                            district, and an Exception to Statewide Planning Goal 3 on the 7
+                            acre portion of tax lot 3309-2301.   The request is also for site
+                            design review to construct aircraft hangars on the 7 acre portion
+                            of tax lot 3309-2301.
+
+APPLICANT:                  Dennis Sturdevant
+
+TAX LOTS:                   3309-2301 and 2400
+
+LOCATION:                   On the east side of Dopp Road, just north of the airport runway.
+
+REVIEW CRITERIA:            Sections 803 and 1208 of the Yamhill County Zoning Ordinance;
+                            the Yamhill County Land Division Ordinance; OAR 660-04,
+                            Exception Process.
+
+FINDINGS:
+
+A.   Background Facts:
+
+1.   Property size: 7.3 acres of tax lot 3309-2301 is proposed to be rezoned and added to the
+     airport, tax lot 3309-2400.
+
+2.   Access: The airport fronts Dopp Road.      The proposed expansion area would be
+     accessed from the airport property.
+
+3.   On-site Land Use: The area that is proposed to be rezoned contains a hangar/pole
+     building on the west end, an orchard in the center, and a cleared field on the east end.
+     The remainder of that tax lot contains a single family residence near Dopp Road.       The
+
+                                                                              ORDINANCE 670
+                                                                                   Exhibit "A"
+                                                                                         Page 1
+                                                                           rik GG nceLZe8
+      airport, which consists of Tax Lots 3309-2400, 2403, 2405, 2406, 2408 and 3310-305,
+      contains a paved runway, a hangar/office building, fueling area and an area for tying
+      down aircraft.
+
+      Surrounding Land Use: The surrounding area is a level valley bisected by Chelialem
+      Creek,   The area is used for farming, but there are a number of dwellings in the
+      vicinity, including four dwellings on smail lots adjacent to the airport. Ewing Young
+      School is approximately 1/4 mile to the north, and there is a church approximately 3/4
+      mile to the northwest on North Valley Road. About 4 mile to the southeast, where the
+      topography changes from the valley floor to hills, is a large area of rural residential
+      properties.
+
+      Surrounding Zoning: Except for the airport properties, which are zoned PALF, the
+      surrounding area is zoned EF-80. The rural residential area to the southeast is zoned
+      AF-10, and Ewing Young School is zoned Public Assembly Institutional.
+
+      Water: Any water would be supplied by a well.
+
+      Sewage Disposal: None existing on the 7.3 acres.    There is an on-site septic system
+      serving the airport office building.
+
+      Fire Protection: Newberg Rural Fire Protection District
+
+      Soils: Sheet 15 of the Yamhill County Soil Survey shows that the entire area is
+      composed of Briedwell (Br) soil, which is Class II high-value farmland.
+
+10.   Taxes: The 7.3-acres is taxed at market value
+
+11.   Previous Actions: Tax Lot 3309-2300 was divided from Tax Lot 3309-2301 in 1974
+      (Docket P-325-74). A plan amendment and zone change from EF-40 to PALF were
+      approved in 1992 on Tax Lots 3309-2408 and what is now 3310-305 (Docket PAZ-01-
+      32).
+
+12.   Description of Proposal: The applicant proposes acquiring 7.3 acres from a property
+      that is adjacent to the north, and using the property to construct aircraft hangars. Since
+      the property is zoned EF-80, a zone change and exception to Statewide Planning Goal 3
+      are required.
+
+      Zone Change and Plan Amendment Provisions and Analysis
+*
+
+      The Plan Amendment portion of the request is not subject to local review criteria.
+
+                                                                            ORDINANCE 670
+                                                                                   Exhibit "A"
+                                                                                         Page 2
+                                                                    Fils     b6   ace Le
+
+The zone change portion of the request must comply with the standards and criteria in
+YCZO Section 1208.02.       These provisions are:
+
+(A)     The proposed change is consistent with the goals, policies, and any other
+        applicable provisions of the Comprehensive Plan.
+
+(B)     There is an existing demonstrable need for the particular uses allowed by the
+        requested zone, considering the importance of such uses to the citizenry or the
+        economy of the area, the existing market demand which such uses will satisfy,
+        and the availability and location of other lands so zoned and their suitability for
+        the uses allowed by the zone.
+
+(C)     The proposed change is appropriate considering the surrounding land uses, the
+        density and pattern of development in the area, any changes which may have
+        occurred in the vicinity to support the proposed amendment and the availability
+        of utilities and services likely to be needed by the anticipated uses in the
+       proposed district.                                                          :
+
+(D)     Other lands in the county already designated for the proposed uses are either
+        unavailable or not as well-suited for the anticipated uses due to location, size,
+        or other factors.
+
+(E)     The amendment is consistent with the current Oregon Administrative Rules for
+        exceptions, if applicable.
+
+YCZO 1208.02 (A).       The Comprehensive Plan goals and policies which may be
+pertinent are:
+
+Agricultural Lands Policy IL.A.2.a: Yamhill County will continue to preserve those
+areas for farm use which exhibit Class I through IV soils as identified in the Capability
+Classification System of the U.S. Soil Conservation Service.
+
+The airport and the area that is proposed for rezoning contain Class II high-value
+farmland, so the proposal does not comply with this goal.
+
+Transportation Policy II.A.1.q: The status and proposed location or expansion of all
+airport facilities will be specifically designated in the plan map, as amended, and, if
+under county jurisdiction, will be accorded a planned-unit development designation in
+the zoning ordinance, in order to assure a compatible association of airport growth
+with surrounding urban development.
+
+                                                                           ORDINANCE 670
+                                                                                Exhibit "A"
+                                                                                       Page 3
+                                                                              rin OG vce 270
+
+      If the plan designation is changed from EF to Public and an exception to Goal 3 is
+      taken, then the proposed comprehensive plan designation of Public will be in
+      compliance with the statewide goals, and the zone change to PALF would be consistent
+      with the applicable comprehensive plan goals and policies.as required by YCZO
+      1208.02(A).             ,
+
+      YCZO 1208.02 (B). The Board finds that there is an existing demonstrable need for
+      the particular uses allowed by the requested zone, considering the importance of such
+      uses to the citizenry or the economy of the area, the existing market demand which
+      such uses will satisfy, and the availability and location of other lands so zoned and their
+      suitability for the uses allowed by the zone, as required by YCZO     1208.02 (B).
+
+4.1   The proposed use of the property is for the construction of hangars. The applicant has
+      indicated that there is a lack of available hangar space for rent in the county, and that
+      there is a waiting list of more than 20 people looking for hangar space at the airport.
+      Letters from people who are on waiting lists for hangar space at both Chehalem Airpark
+      and other airports in the vicinity have been submitted as evidence of this shortage.
+      Staff contacted Galen McBee, manager of the McMinnville airport, who said that
+      hangars for 20 single engine planes were constructed at the airport last year, and
+      additional larger hangars for twin engine planes were built this year. He stated that this
+      helped with the need for hangars, but that there is still a short waiting list. The owner
+      of Sportsman Airpark in Newberg recently picked up an application for site design
+      review to build more hangars there.
+
+4.2   In order to address the economic importance of airport uses, the applicant has submitted
+      copies of brochures from the ODOT Aeronautics Section describing the economic
+      contribution that aviation makes to the state and area economy.     That information states
+      that in 1995 the total output stemming from Chehalem Airpark was approximately $4.6
+      million. Total full-time employment related to all airport activities, including
+      secondary impacts, was estimated at 48 jobs, with an annual payroll of approximately
+      $684,300 [see article "Economic Impact of Airports, Chehalem Airpark", ODOT -
+      Aeronautics Section page 120].
+
+      The availability and suitability of other PALF zoned lands is discussed in Finding B.6.
+
+      YCZO 1208.02. (C). The Board finds that the proposed change. is appropriate
+      considering the surrounding land uses, the density and pattern of development in the
+      area, any changes which may have occurred in the vicinity to support the proposed.
+      amendment and the availability of utilities and services likely to be needed by the
+      anticipated uses in the proposed district, and therefore complies with YCZO 1208.02
+      (C).
+
+                                                                              ORDINANCE 670
+                                                                                   Exhibit "A"
+                                                                                           Page 4
+                                                                           ria OG oe AT
+
+5.1   The land uses in the immediate vicinity consist of farm uses and residences. There is
+      also a school within 1/4 mile and a church less than one mile away. The airport is
+      compatible with many types of farm uses since part of the airport activity involves
+      agricultural practices such as aerial spraying, Christmas tree harvesting, and using a
+      helicopter to shake hazelnuts out of trees.   The overall housing density in the area is
+      low because of the EF zoning, and there is unlikely to be much additional residential
+      development. The majority of the AF-10 zoned area on the hills to the southeast has
+      also been developed, although there are some vacant lots where dwellings would be
+      permitted. The proposed change is appropriate considering that it is an expansion of an
+      existing use, and will not affect the development pattern in the area, which will remain
+      very low in density due to the surrounding zoning.
+
+      There are no known changes which have occurred in the vicinity that would support
+      the proposed zone change. No additional utilities or services are needed.
+
+      YCZO 1208.02(D)      The Board finds that other lands in the county already designated
+      for the proposed uses are either unavailable or not as well-suited for the anticipated uses
+      due to location, size, or other factors, as required by YCZO 1208.02(D).
+
+6.1   This criteria requires a finding that other land zoned PALF is either unavailable or not
+      as well suited for the proposed use of airport hangars.   There are other airstrips in the
+      county that are designated PALF.     Although hangars could possibly be constructed at
+      some of these airstrips to meet the need for hangar space in the county, it would not
+      address the issue of Chehalem Airpark’s desire to expand their operations. Location
+      also plays a role in where pilots want to base their planes. In addition, Chehalem
+      Airpark bas a paved runway, which many pilots find preferable to a grass or dirt strip.
+
+      Staff requested that the applicant provide information about uses occurring on property
+      owned by Chehalem Airpark that is already zoned PALF, to determine whether the
+      hangars could be located on existing airport property. The airport currently consists of
+      12.5 acres that is zoned PALF. Within this area are the paved runway, a 2500 square
+      foot office and a 4900 square foot hangar. The runway extends in an east-west
+      direction the full width of the property. Federal Aviation Regulations Part 77, as well
+      as Section 907 of the YCZO, delineate the distance a building must be from the
+      runway. No buildings are allowed within the primary surface, which extends 125 feet
+      from the centerline of the runway. Beyond the primary surface is the transitional zone.
+      Buildings shall not extend above an imaginary surface which extends upward at a slope
+      of 7:1 from the outer edge of the primary surface. Thus if the proposed hangars were
+      to be 10 feet in height, they could be no closer than 195 feet from the centerline of the
+      runway. The applicant has submitted a map showing that the airport property extends
+      approximately 200 feet south of the runway. Staff analysis shows that the distance may
+
+                                                                              ORDINANCE 670
+                                                                                   Exhibit "A"
+                                                                                         Page 5
+                                                                                          a   yeh
+
+                                                                        rie O8 ne Let
+
+     be even less than this, closer to 150 feet. Regardless, there is not enough room to
+     construct hangars within the PALF designated area that would meet the required 30
+     foot setback from property lines and still be at least 195 feet from the runway
+     centerline.                              :
+
+     Exception requirements, criterion (E), are addressed in section C of these findings.
+
+     Goal Exception Requirements and Analysis
+Ip
+
+     The 7-acre portion of Tax Lot 3309-2301 is currently protected as agricultural land
+     under Statewide Planning Goal 3. OAR 660-12-065(3)(0) states that "Expansions or
+     alterations of public use airports that do not permit service to a larger class of
+     airplanes" is consistent with Goals 3, 4, 11 and 14. Chehalem Airpark has been
+     proposed for inclusion on the list of public use airports adopted by ODOT
+     Administrative Rule (Aviation Section). Although it has not been formally adopted by
+     the Transportation Commission, adoption is expected to occur on March 18, 1999.
+     Consequently, findings for taking an exception to Goal 3 are included in this decision.
+
+     Oregon Administrative Rule (OAR) 660-04 contains the requirements for taking goal _
+     exceptions. OAR 660-04-020 contains four factors that must be addressed when taking
+     an exception to a goal. They are:
+
+     (a)    Reasons justify why the state policy embodied in the applicable goals should not
+            apply.
+
+     (b)    Areas which do not require a new exception cannot reasonably accommodate the
+            use.
+
+     (c)    The long-term environmental, economic, social and energy consequences
+            resulting from the use at the proposed site with measures designed to reduce
+            adverse impacts are not significantly more adverse than would typically result
+            from the same proposal being located in other areas requiring a Goal exception.
+
+     (d)    The proposed uses are compatible with other adjacent uses or will be so
+            rendered through measures designed to reduce adverse impacts.
+
+     OAR 660-04-020(a).      OAR 660-04-022 states that the reasons justifying why the state
+     policy embodied in the goal should not apply include, but are not limited to, that there
+     is a demonstrated need for the proposed use, and either: 1) a resource upon which the
+     use is dependent can be reasonably obtained only at the exception site and the use must
+     be located near the resource; or 2) the use has special features or qualities that
+
+                                                                             ORDINANCE 670
+                                                                                  Exhibit "A"
+                                                                                        Page 6
+                                                                                     (3
+                                                                         eux OG mele
+ necessitate its location on or near the proposed exception site. The request complies
+  with 2) because the proposal is to expand an existing airport by constructing additional
+  hangars. By nature, this must occur on property located within direct proximity of the
+  airport runway. As discussed in Finding B.6, there is insufficient space for the airport
+_ expansion on land zoned PALF for which an exception has already been taken.
+
+ OAR 660-04-020 (b).     Since the proposal is to expand the Chehalem Airpark, it is only
+ necessary to analyze lands adjacent to the airport to determine whether they could
+ reasonably accommodate the use ~ exception lands in other areas would not be suitable
+ because they would not have direct access to the airport runway. As stated in Finding
+ B.6, land within the current airport boundary that is zoned PALF cannot reasonably
+ accommodate the proposed new hangars because of existing buildings and the
+ mandatory distance from runways that new buildings can be constructed. There is no
+ other adjacent exception land. Of the surrounding resource land, the hangars could not
+ be constructed on lands to the west, because it would require aircraft to taxi across
+ Dopp Road. Constructing the hangars on land to the east would remove land from a
+ 144-acre commercial farm parcel. The land to the south consists of a 10-acre and 24-
+ acre parcel, both in farm use. The configuration of these parcels is not as suitable for
+ airport expansion, and not as easily accessible from the runway because there is a row
+ of trees and a road between the airport and these properties..   The 7-acre area which is
+proposed to be rezoned is the most suitable area for airport expansion because of the
+ small parcel size, the existing building which is already being used as a hangar, the
+ limited nature of the farm use occurring on the parcel, and the direct access to the
+airport runway.
+
+OAR 660-04-020 (c). The proposal is for an exception to allow an expansion of an
+existing airport in a rural area. Although there would likely be an increase in the
+number of flights to and from the airport, this will not significantly change the
+economic, social, environmental or energy consequences resulting from the use. The
+airport does not prevent farming activities from occurring in the area. The 7 acres that
+are proposed to be added to the airport are not currently in farm use, and removing that
+land from the resource base will not have any long-term economic impact on the area.
+
+OAR 660-04-020 (d). As discussed in Finding B.5, airport activities are compatible
+with and used in many aspects of farming. Approving the zone change will likely
+result in an increase of aviation activities and number of flights, since it will allow more
+aircraft to be based at the airport. The primary impact from increased flights is
+increased noise levels both from aircraft warming up on the ground and flying over
+properties.   The airport has instituted noise abatement procedures to reduce the impact
+on nearby noise-sensitive uses, including directing aircraft to avoid flying over the
+church and school. On-the-ground noise will have the greatest effect on the two houses
+
+                                                                         ORDINANCE 670
+                                                                              Exhibit "A"
+                                                                                      Page 7
+                                                                               rity OB nce           ?74
+     to the west and to lot 2200, which is adjacent to the north. The Planning Commission
+     may want to consider requiring as a condition of approval that fencing or vegetation be
+     placed along the northern and western property lines of the 7-acre area if concerns
+     about noise are raised by these property owners.
+
+     Limited Use Overlay Provisions
+iy
+
+     OAR 660-04-18(3)(a) states that when a reasons exception is taken, plan and zone
+     designations must limit uses to only those that are justified in the exception. The
+     findings in this report have focused on the proposed use of the property for aircraft
+     hangars.     However, ORS 836.616(2) contains a list of other airport-related activities
+     that must be allowed at public use airports, including emergency medical flight
+     services, law enforcement and firefighting activities, flight instruction, aircraft
+     maintenance, crop dusting and other agricultural activities, aircraft rental and sales, sale
+     of aeronautic equipment and supplies, and aeronautic recreational and sporting
+     activities. The YCZO has not been amended to reflect that these activities must be
+     permitted.
+
+     Section 904.03 of the YCZO contains provisions for limited use overlays.         It states:
+
+     (A)        When the Limited Use Overlay District is applied, the uses permitted in the
+                underlying zone shall be limited to those specifically referenced in the ordinance
+                adopting the Limited Use Overlay District.
+
+     (B)        The Limited Use Overlay District may be used to require conditional use
+                approval for uses normally permitted outright.
+
+     (C)        Reasonable conditions may be imposed in the Limited Use Overlay District as
+                are necessary to assure compliance with the provisions of the Comprehensive
+                Plan and this ordinance.
+
+     (D)        Until the overlay has been removed or amended, the only permitted uses in an
+                LU district shall be those specifically referenced in the adopting ordinance.
+
+     Although Chehalem Airpark has not, as of the date of this report, been officially
+     designated by ODOT as a public use airport, it appears fairly certain that it will be so
+     designated. Since the uses listed in ORS 836.616 must be allowed at a public use
+     airport, the Board finds that it is not necessary to place a limited use overlay on the
+     airport.
+
+                                                                               ORDINANCE 670
+                                                                                    Exhibit "A"
+                                                                                          Page 8
+                                                                               eux OD vuced fe b fs)
+                                                                                                 clad]
+                                                                                                 one
+
+    Lot Line Adjustment Analysis
+=
+
+    The application includes a request for a lot line adjustment to transfer 7.3 acres from
+    Tax Lot 3309-2301 to Tax Lot 3309-2400, leaving a parcel in the EF-80 district just
+    over an acre in size and containing a dwelling. The approval standards for lot line
+    adjustments are found in Section 7.020 of the Yamhill County Land Division Ordinance .
+    (LDO), as follows:
+
+    (I)    All parcel sizes, property-line setbacks, and other dimensional attributes
+           resulting from a lot-line adjustment shall conform to the provisions of this
+           ordinance and the Zoning Ordinance or other ordinance. ‘Conditions that
+           existed legally prior to the application that do not conform to the ordinance
+           provisions shall be allowed to continue.
+
+    (2)    Lot-line adjustments shall conform to the Comprehensive Plan and Official Map,
+           any criteria of the Zoning Ordinance, and any state requirements of Oregon
+           Revised Statutes chapters 92, 197, and 215.
+
+    (3)    A lot-line adjustment shall not result in the creation of a new lot or a replat of
+           an existing subdivision or partition.
+
+    (4)    All lots resulting from a lot-line adjustment shall have legal access to a public
+           road pursuant to Sections 6.010 and 6.020.
+
+    Section 803.06(B) of the YCZO states that the minimum parcel size for an aircraft
+    landing field shall be 10 acres. The parcel size for any other use, the minimum parcel
+    width, and the maximum depth-to-width ratio shall be established by the decision-
+    making body. The proposed adjustment will increase the size and width of the airport
+    tract and decrease the depth to width ratio. The new configuration is suitable for the
+    proposed use. Tax Lot 3309-2301 did not conform to the minimum lot size in the EF-
+    80 district prior to the adjustment, so that situation is allowed to continue.
+
+    The adjustment does not involve the creation of a new lot or a replat, in accordance
+    with approval standard (3). The readjusted lots will both have access to Dopp Road, in
+    accordance with standard (4).
+
+    Section 402.09(B)(2) contains standards for lot line adjustments in the EF district.   The
+    applicable standard is:
+
+                                                                           ORDINANCE 670
+                                                                                Exhibit "A"
+                                                                                      Page 9
+                                                                     ae DB ac l276
+            Any parcels subject to an alteration in size through a lot-line adjustment shall be
+            shown to be of a size at least as appropriate to maintain the existing commercial
+            agricultural enterprise in the area as were the parcels prior to the adjustment.
+
+     Currently, lot 2301 is 8.4 acres in size and lot 2400 is 1.8 acres. If the adjustment is
+     approved, the lot sizes will be approximately 1 acre and 9 acres. None of the lot sizes          !
+                                                                                                  |
+     involved is large enough to affect the commercial agricultural enterprise in the area.
+
+     Site Design Review Provisions
+si
+
+     Site design review is required for any new development in the PALF district. The
+     applicant has submitted two different site plans. The first shows three 10-bay hangars
+     to be constructed (over a 5 year time frame) on the eastern half of the 7-acre expansion
+     area. The buildings are shown as being 48' by 240', and are separated by taxiways.
+     The site plan shows the hangars will be located 3 feet from the northern property line.
+     The second site plan is more generalized and shows two smaller hangars located along
+     the northern property line near the center of the expansion area.
+
+     Section 1101.02(A) states that the review of a site development plan shall be based
+     upon consideration of the following:
+
+     1,     Characteristics of adjoining and surrounding uses;
+
+     2.     Economic factors relating to the proposed use;
+
+     3.     Traffic safety, internal circulation and parking;
+
+     4.     Provisions for adequate noise and/or visual buffering from noncompatible uses;
+
+     3,     Retention of existing natural features on site;
+
+     6.     Problems that may arise due to development within potential hazard areas.
+
+     7.     Comments and/or recommendations of adjacent and vicinity property owners
+            whose interests may be affected by the proposed use.
+
+     The airport expansion would have the greatest effect on the two dwellings on lots 2300
+     and the remainder of 2301 to the west, and lot 2200 to the north. Warming up and
+     taxiing aircraft could result in increased noise impacts to these properties. The Board
+
+                                                                           ORDINANCE 670
+                                                                                Exhibit "A"
+                                                                                       Page 10
+                                                                            aus UO bev?
+      finds that the conditions of approval setback requirements will be adequate to assure
+      compliance with LDO section 7.020(1).
+
+      Regarding problems that may arise due to development within potential hazard areas,
+      the site plan showing three hangars on the eastern half of the property does not comply
+      with FAA standards for safe distances between buildings and runways. As explained in
+      Finding B.6, a building 10 feet in height must be located at least 195' from the
+      centerline of the runway. The first site plan shows the hangars would be less than 100'
+      from the runway centerline. The 7-acre expansion area is wide enough to accommodate
+      the hangars on the northern half of the parcel, although it may require removing part or
+      all of the orchard. A revised site plan showing a hangar location that complies with the
+      FAA standards will need to be submitted, along with additional information on the
+      height and other dimensions of the proposed hangars. A condition of approval will
+      assure compliance with this requirement.
+
+      Notice was sent to all property owners within 500 feet of the subject property. The
+      Board considered all comments received.
+
+      The proposal must also comply with the development standards of the PALF district,
+      which requires 30 setbacks from all property lines. There is an exception for accessory
+      buildings to be located 3 feet from the side or rear property line if they are less than 15
+      feet in height, 60 feet from a road and 10 feet from any dwelling. No information has
+      been provided concerning the proposed height of the hangars, but it would be feasible
+      for them to meet the accessory building standards.A condition of approval will assure
+      compliance with this requirement.
+
+CONCLUSIONS FOR APPROVAL:
+
+1,    The request is for a Plan amendment from Agriculture Forestry Large Holding to
+      Public and a zone change from EF-80 Exclusive Farm Use district to PALF Public
+      Airports/ Landing Fields district, including taking a "reasons" exception, a lot line
+      adjustment to add 7.3 acres to Chehalem Airpark, and site design review for the
+      construction of hangars.
+
+      The applicant has submitted evidence that there is a need for additional hangar space in
+      the county.
+
+ 3.    The hangars must be located on land with direct access to the airport runway. There is
+       insufficient room to construct hangars on airport property that is already zoned PALF.
+       There is no other adjacent exception land. The 7.3 acres is not currently in
+
+                                                                              ORDINANCE 670
+                                                                                   Exhibit "A"
+                                                                                       Page 11
+                                                                            rin OG vce d278
+
+       agricultural use, and because of its small size there will be less impact to the
+       agricultural land base in the area than if other adjacent lands were rezoned.
+
+4.     The request complies with the standards for a lot line adjustment in LDO Section
+       7.020 and YCZO Subsection 402.09(B)(2).
+
+5.     The site plan submitted with the application will need to be revised to show that the
+       hangar location will not conflict with airport imaginary surfaces.
+
+DECISION:
+
+Based upon the above findings and conclusions, the Board approves the request by Dennis
+Sturdevant for a Comprehensive Plan map amendment from "AFLH" (Agriculture Forestry
+Large Holding) to "Public", a zone change from "EF-80" (Exclusive Farm Use) to "PALF"
+(Public Airports/Landing Fields), and an Exception to Statewide Planning Goal 3 on a 7.3
+acre portion of Tax Lot 3309-2301, and also a lot line adjustment to add the 7.3 acres from
+Tax Lot 3309-2301 to Tax Lot 3309-2400 (Chehalem Airpark), and site design review to
+construct aircraft hangars on the 7.3 acre portion of Tax Lot 3309-2301, subject to the
+following conditions:
+
+1.     The adjusted lots shall be surveyed pursuant to Section 6.120 of the Yamhill County
+       Land Division Ordinance and a copy of the survey shall be submitted to the Planning
+       Director prior to final approval.
+
+2.     A copy of the instrument(s) conveying the adjusted property shall be submitted to the
+       Planning Department prior to recording with the County Clerk. The names on the
+       instrument(s) conveying the property shall be the same as they appear in the tax
+       records of Yamhill County.
+
+3.     The instruments conveying the adjusted properties shall either describe the readjusted
+       lots in their entirety, or, if the instrument describes only that area being conveyed
+       from one property to the adjoining property, the following statement shall be placed on
+       the instrument:
+
+               This conveyance is made solely as an adjustment of common boundary
+               between adjoining properties, and does not create a separate parcel that
+               can be conveyed independently of adjacent land.
+
+4,     All building locations shall comply with FAA standards for minimum distances from
+       the runway uless a letter is submitted from either the FAA or State Aeronautics
+       Division affirming that the hangers may be located closer to the runway.   The
+
+                                                                              ORDINANCE 670
+                                                                                   Exhibit "A"      ~
+                                                                                          Page 12
+                                                                         ru 66 neLe7g
+        buildings shall be located at least 30 feet from all property lines unless they are less
+        than 15 feet in height, in which case they may be located a minimum of 3 feet from the
+        side or rear property line.
+
+FAADMIN\PINKST|LU\PAZOL99F,
+                         WPD
+
+                                                                             ORDINANCE 670
+                                                                                  Exhibit "A"
+                                                                                      Page 13
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.7% of
+the word sequence, and on 75.9% of the figures. Dictionary-recognizable words: 94.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

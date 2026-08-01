@@ -1,0 +1,338 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord660-pdf
+title: 'ORD660-PDF'
+doc_type: ordinance
+citation: 'ORD660-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17550/ORD660-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 2bf2a59b2b76a1c89527c9057313914dad68b333dc101460d0171e119f772be9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.966; figure agreement 0.849; dictionary ratio 0.910. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 97%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD660-PDF (ORD660-PDF)
+
+## At a glance
+
+OCR-derived text of ORD660-PDF. Not human-verified.
+
+## Full text
+
+ew   65 ace 740
+                                                                                                        98 SEP -3 pq uy
+                          IN THE BOARD        OF COMMISSIONERS                   OF THE    STATE       OF OREGON
+
+                                              FOR THE           COUNTY          OF YAMHILL
+
+                                SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+     In the Matter of an Ordinance Amending the
+     Yamhill County Comprehensive Plan
+     Map to Amend the Urban GrowthBoundary
+     for the City of Sheridan to Add to the UGB                                         ORDINANCE 660
+     and Plan Designate as "Future Urbanizable"
+     and “Residential” 1.38 Acres of Land Known
+     as Tax Lot 5635-300; Taking an Exception to
+     Statewide Goal 3; Applicant City of Sheridan;
+     Planning Docket PAZ-4-98; and Declaring an
+     Emergency.
+
+               THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY,                                           OREGON    (the Board) sat for
+     the    transaction    of   county   business   in       formal   session    on   September   3,    1998,   Commissioners   Ted
+     Lopuszynski, Robert Johnstone, and Thomas E.E. Bunn being present.
+
+              WHEREAS, the City of Sheridan has made application in Docket PA-04-98 to amend the City of
+     Sheridan Urban Growth Boundary (UGB) to add to the UGB 1.38 acres of land (Tax Lot 5635-300) which
+     is designated "AFLH" (Agriculture/Forestry Large Holding) on the Yamhill County Comprehensive Plan
+     Map,    and to take an exception to Statewide Goal 3 therefor; and
+
+               WHEREAS,          the County action will involve amending the Comprehensive Plan map                          to plan
+     designate the subject property as "Future Urbanizable" with the City’s “Residential” Plan designation and
+     take an exception to Statewide Goal 3, while maintaining the current “EF-80" (Exclusive Farm Use) zoning
+     designation on the property; and
+
+             WHEREAS, this UGB amendment must comply with the seven factors of Statewide Land Use
+     Planning Goal 14 ("Urbanization") and the standards required by Goal 2, Part Il(c) (Land Use Planning",
+     Part II, Exceptions"); and                          ‘
+
+              WHEREAS, on July 7, 1998, the Sheridan Planning Commission and the Yamhill County Planning
+     Commission conducted a joint public hearing regarding the application, received testimony and evidence,
+     and upon deliberation voted to recommend that the City Council and the Board of Commissioners approve
+     the application; and
+
+             WHEREAS, on August 3, 1998, the City of Sheridan City Council held a duly noticed hearing,
+     and adopted Ordinance 1998-9, approving the proposed UGB amendment, designating the subject property
+     as “Residential”      on the City Comprehensive Plan, and taking an Exception to Statewide Goal 3, based on
+     written findings, and submitted it to the County for adoption; and
+
+               WHEREAS, on August 20, 1998, based upon the facts and record presented containing the
+     justification for the proposed UGB amendment, attached hereto and incorporated herein as Exhibit "A",
+     the Board deliberated and voted unanimously to grant tentative approval for the proposed UGB amendment
+     and Goal 3 Exception, and directed staff to prepare written findings for approval of the application; and
+
+                                                                                                            £0.98 ~ 697
+                                                                                                                  ORDINANCE 660
+                                                                                                                          Page 1
+oy BS ve TAL
+             WHEREAS, the Board finds that adoption of the proposed UGB amendment will comply with the
+    seven factors of Statewide Land Use Planning Goal 14 ("Urbanization") and the standards required by Goal
+    2, Part I(c) ("Land Use Planning", Part II, Exceptions"), and that the ordinance is necessary to allow the
+    change in the City of Sheridan UGB; and
+
+             WHEREAS, the attached findings and agreement demonstrate that approval of this amendment to
+    the City of Sheridan UGB is in the best interests of the citizens of Yamhill County; Now Therefore,
+
+             THE YAMHILL COUNTY BOARD OF COMMISSIONERS ORDAINS AS FOLLOWS:
+
+            Section 1.      The Yamhill County Comprehensive Plan (1974) Map, as amended, is hereby
+    amended to add to the City of Sheridan Urban Growth Boundary (UGB), and plan designate as "Future
+    Urbanizable," and “Residentiai” land known as Tax Lot 5635-300, as more particularly set forth in Exhibit
+    "B" attached hereto and made a part of this ordinance by reference.
+
+             Section 2.              Tn adopting the UGB amendment specified in Section 1, the County hereby takes
+    an exception to Statewide Planning Goal 3.
+
+           Section 3.       The findings attached as Exhibit "A", and incorporated herein by reference, are
+    hereby adopted in support of this ordinance.
+
+            Section 4      This ordinance being necessary for the health, safety, and welfare of the citizens
+    of Yamhill County, and an emergency having been declared to exist, is effective upon passage.
+
+                   E4tieMicMinnville, Oregon this 3rd day of September, 1998.
+                 BOARD        Op
+                          x                         YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+                                                     At        ae ailable    for     sang   tpe.
+                                                    Chairman                TED LOPUSZYNSKI
+
+                                                        Bhar thule
+                                                    Commissioner
+                                                              C) ROBERT JOHNSTONE
+
+    FORM APPR 7,                   BY:
+
+     GL                                                Themes           6.8. Bu
+   BOHN Cc. PAY                                     Commissioner            THOMAS    E.E. BUNN
+   POHN C County Counsel
+
+    lu\paz4-98
+
+                                                                                                  ORDINANCE 660
+                                                                                                            Page 2
+“sue BD vue M2
+                                           ORDINANCE 660
+                                             Exhibit “A”
+
+     ADOPTED BY BOARD OF COMMISSIONERS:                                '     September 3, 1998
+
+     DOCKET:                    County Docket PAZ-04-98; City Planning File 98-05-13
+
+     REQUEST:                   Expansion of the City of Sheridan Urban Growth Boundary to .
+                                include a 1.38 acre parcel, and change the Comprehensive Plan
+                                map designation from the county Agriculture/Forestry Large
+                                Holding to the city Residential Plan Designation, and take an
+                                exception to Goal 3.
+
+     APPLICANT:                 City of Sheridan
+
+     OWNER:                     Gerald, Mary and Terry Cannady, Ora and Katie Garver
+
+     TAX LOT:                   5635-300
+
+     LOCATION:                  Between West Valley Highway (business 18) and the Yamhill
+                                River, on the east side of Sheridan
+
+     REVIEW CRITERIA:           Sheridan Urban Area Growth Management Agreement; OAR
+                                660-04, Exception Process; the Yamhill County Comprehensive
+                                Plan; City of Sheridan Comprehensive Plan.
+
+     FINDINGS:
+
+     A,   Background Facts:
+
+     1.   Property size: 1.38 acres
+
+     2.   Access: West Valley Highway
+
+     3.   On-site Land Use: The parcel contains a narrow, level area adjacent to the highway,
+          then slopes steeply down to the Yamhill River. The property contains scattered trees
+          and brush.
+
+     4.   Current Zoning: EF-80 Exclusive Farm Use
+
+                                                                                     Ordinance 660
+                                                                                        Exhibit “A”
+                                                                                            Page 1
+oy BD    ce 743
+
+          Surrounding Land Use: The Yamhill River is to the south.      There are four small lots
+          along the highway west of [ot 300, each developed with a single family dwelling.        To
+          the north is a larger agricultural parcel.
+
+          Soils: The small size of the parcel and the small scale of soils maps makes it difficult to
+          classify the soils. However, the parcel appears to be made up of Stoney Land (SL) on
+          the terrace adjacent to the highway and Chehalem (CeC) soil on the sloping river bank.
+
+          The City’s Ordinance 1998-9, amending the comprehensive plan map to expand the
+          UGB and establish the “Residential” designation on the City’s Comprehensive Plan, and
+          taking an exception to Statewide Goal 3, contains City Council Findings in support of
+          the application.   The Board agrees with those findings and hereby adopts the city’s
+          findings and incorporates them herein by this reference.
+
+          Urban Area Growth Management Agreement Provisions
+    is
+
+          Section VII of the Urban Area Growth Management Agreement states that amendments
+          of the UGB shall be treated as a map amendment to both the city and county
+          Comprehensive Plans. The county does not have any specific approval criteria for
+          Comprehensive Plan map amendments.
+
+          The Management Agreement contains a list of seven factors which must be considered
+          for a UGB amendment. The seven factors are identical to the factors which must be
+          considered under Statewide Planning Goal 14, Urbanization, for changing a UGB.            The
+          Board concurs with the findings in the City application addressing these factors.
+
+             al 3 Exception Requirement:
+
+          The parcel is zoned EF-80, so is subject to protection under Goal 3. The policy of
+          Goal 3 is to preserve and maintain agricultural lands. In order to take an exception to
+          this Goal, the county and city must determine that the land is either physically
+          developed or irrevocably committed to non-agricultural uses, or that there are reasons
+          which justify the land should be used for purposes other than agriculture. In this case,
+          an exception can be justified because the parcel is both physically developed and
+          irrevocably committed so that agricultural use of the lot is impracticable.
+
+          Half of the parcel is a steep riverbank, which is unsuitable for farming.     The remainder
+          of the parcel is less than 100 feet wide, and contains a trunk sewer line and three
+          manholes.    The parcel is also adjacent to a highly traveled road (West Valley
+
+                                                                                          Ordinance 660
+                                                                                             Exhibit “A”
+                                                                                                 Page 2
+° a)   65   PACE     TAA
+
+               Highway), which serves as a physical barrier between lot 300 and the larger farm
+               parcel to the north. These physical developments make lot 300 unavailable for farming.
+
+       3.      OAR 660-04-028 requires the following factors to be addressed to demonstrate that the
+               land is irrevocably committed:
+
+               (a)     The characteristics of the exception area;
+
+               (b)         The characteristics of the adjacent lands;
+
+               (c)     The relationship between the exception area and the lands adjacent to it;
+
+               (a)     Existing adjacent uses;
+
+               (e)     Existing public facilities and services (water and sewer lines, etc.);
+
+               (p)     Parcel size and ownership patterns of the exception area and adjacent lands,
+
+               (g)     Neighborhood and regional characteristics;
+
+               (h)     Natural or man-made features or other impediments separating the exception
+                       area from adjacent resource land;
+
+               @       Physical development; and
+
+               @)      Other relevant factors.
+
+       4.      The lot is on a narrow strip of land between West Valley Highway and the Yamhill
+               River. To the west are four small residential lots lying between lot 300 and the city
+               limits. (Staff suggested to the city that these lots be included in the UGB amendment,
+               but apparently two of the property owners were opposed to being included.) The parcel
+               to the east is an even narrower strip of land between the road and river. Lands on the
+               south side of the river are in both the city and county, and are zoned for residential use.
+               As stated previously, the road separates the parcel from the agricultural parcels to the
+               north. For these reasons, and the reasons contained in the City’s findings accompanying
+               City Ordinance 1998-9, the Board finds that these factors make farm use of the lot
+               impracticable, and that an exception to Statewide Goal 3 is justified.
+
+                                                                                                Ordinance 660
+                                                                                                   Exhibit “A”
+                                                                                                       Page 3
+uy BB we TAB
+     CONCLUSIONS:
+
+     1.     The application is to add 1.38 acres to the Urban Growth Boundary of the city of
+            Sheridan, and to change the Comprehensive Plan map to the city Residential
+            designation.
+
+     2.     An exception to Goals 3 is justified because the lots are both physically developed and
+            irrevocably comnmitted so that agricultural use is not practicable.
+
+     3,     The findings in the city application as supplemented by these findings justify how the
+            request complies with the seven factors for a UGB amendment found in the Urban Area
+            Growth Management Agreement.
+
+     RECOMMENDATION:
+
+     Based on the findings in the City application and these supplemental findings, the Board hereby
+     approves the request by the City of Sheridan for an Urban Growth Boundary amendment to
+     add Tax Lot 5635-300 to the UGB, including taking an exception to Statewide Planning Goal
+     3, be approved.
+
+     F:\admin\pinkstj\lu\paz498ff.
+                                wpd
+
+                                                                                        Ordinance 660
+                                                                                           Exhibit “A”
+                                                                                               Page 4
+EH   85   “ACE   746
+
+                       EXHIBIT "B" FOR ORDINANCE No. 660
+
+            EXPANSION OF THE CITY OF SHERIDAN URBAN GROWTH BOUNDARY,
+                 and COMPREHENSIVE PLAN MAP AMENDMENT FROM THE
+             COUNTY AGRICULTURE/FORESTRY LARGE HOLDING DESIGNATION
+                         TO THE CITY RESIDENTIAL DESIGNATION
+
+                                            AREA SUBJECT TO AMENDMENT:
+                                            Tax Lots 5635-300
+
+                        Prepared by Yamhill County Department of Planning and Development
+
+                                                                                      ORDINANCE     660
+                                                                                      Exhibit "B"
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 96.6% of
+the word sequence, and on 84.9% of the figures. Dictionary-recognizable words: 91.0%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

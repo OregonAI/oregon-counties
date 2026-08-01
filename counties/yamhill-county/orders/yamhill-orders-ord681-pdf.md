@@ -1,0 +1,616 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord681-pdf
+title: 'ORD681-PDF'
+doc_type: ordinance
+citation: 'ORD681-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17544/ORD681-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: a68010a71ff4f1bc56299c8016cf660097645d7fb265501677752362080483e1
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.983; figure agreement 0.760; dictionary ratio 0.950. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD681-PDF (ORD681-PDF)
+
+## At a glance
+
+OCR-derived text of ORD681-PDF. Not human-verified.
+
+## Full text
+
+rile BB vee 1453
+                                                                                    00 MAR 30. PI2225
+             IN THE BOARD OF COMMISSIONERS               OF THE STATE OF OREGON
+
+                                FOR THE COUNTY OF YAMHILL
+
+                  SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Approving a Zone
+Change for that Portion of Property
+North of the West Fork of Palmer Creek
+from EF-80 Exclusive Farm Use
+
+                                              we
+to VLDR - 2 Very Low Density
+Residential, a 4 Lot Subdivision on                            ORDINANCE 681
+Approximately Ten Acres on Tax Lot
+4320-400 and 4320-500; PAZ-05-97;
+Applicants Brian and Nancy Hayward,
+and Declaring an Emergency
+
+        THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board) sat
+for the transaction of county business on March 30, 2000, Commissioners Ted Lopuszynski, Thomas
+E.E. Bunn, and Robert Johnstone being present.
+
+        THE BOARD MAKES THE FOLLOWING FINDINGS:
+
+A. On August 13", 1997, the applicants Brian and Nancy Hayward filed a land use application with
+the Planning Department for a Comprehensive Plan amendment and zone change.
+
+B. On March 9, 1999, the applicants added to their land use application a request for a subdivision and
+lot line adjustment.
+
+C. On November 4" , 1999 the Yamhill County Planning Commission held a duly noticed public
+hearing, received evidence and testimony, and voted to leave the record open until November 26" and
+reconvene to deliberate on December 2™, 1999.                                         :
+
+D. On December 2", 2000 the Yamhill County Planning Commission recommended denial of the
+request,
+
+E. On February 24" , 2000, the Yamhill County Board of Commissioners held a duly noticed public
+hearing, received evidence and testimony, and voted to leave the record open until March 14, 2000,
+and reconvene for deliberation on March 16, 2000.
+
+F. On March 16, 2000, the Yamhill County Board of Commissioners voted to approve the application
+for a zone change and subdivision north of the west fork of Palmer Creek but not the zone change,
+subdivision, or lot-line adjustment south of the west fork of Palmer Creek, and directed staff to
+prepare findings in support of this decision.
+
+        WHEREAS, the Findings in attached Exhibit "A" demonstrate that the proposed change to the
+                                                                                        B.0 BOO-B2AY
+                                                                     Yamhill County Ordinance 681
+                                                                                             Page 1
+                                                                                           p            —_
+                                                                                     rie DS race 145
+Official Zoning Map of Yamhill County is in the best interests of the citizens of Yamhill County;
+Now Therefore,
+
+THE YAMHILL COUNTY BOARD OF COMMISSIONERS ORDAINS AS FOLLOWS:
+
+        Section 1. The Official Zoning Map of Yamhill County is hereby amended as specified in
+the attached Exhibit “B" to reflect a change in zoning designation from EF-80 Exclusive Farm Use
+to VLDR - 244 Very Low Density Residential;
+
+         Section 2. The Findings attached as Exhibit "A" and incorporated herein by reference are
+hereby adopted in support of this ordinance.
+
+        Section 3, This ordinance being necessary for the health, safety, and welfare of the citizens
+of Yamhill County, and an emergency having been declared to exist, is effective upon passage.
+
+DONE   at McMinnville, Oregon this 308    day of March, 2000.
+
+ATTEST                                YAMHILL COUNTY BOARD              OF COMMISSIONERS
+
+                                      Chairman               TEI LOPUSZYNSKI
+
+                                               Thorer- €.@, Ru
+                                      Commissioner           THOMAS E.E. BUNN
+
+FORM APPROVED BY:
+
+    ht
+Rick Sanai
+           L~                              Palo
+                                      Commissioner
+                                                   t Qe  huetene _
+                                                     (ROBERT JOHNSTONE
+Assistant County Counsel
+
+FAADMIN\SANARLU\HAY        WABO.WPD
+
+                                                                   Yamhill County Ordinance 681
+                                                                                           Page 2
+                                                                                                   FILK   68      te 1455
+
+Exhibit “A” - Findings for Approval
+Docket PAZ-05-97 (Hayward)
+Page 1
+
+                                                   Exhibit “A”
+                                            Findings for Approval
+
+HEARING DATE;            March 16, 2000
+
+DOCKET:                  PAZ-05-97 / S-01-99 / L-36-99
+
+REQUEST:                 The request involves approximately 34.4 acres. Approximately 15 acres, located north of
+                         the west fork of Palmer Creek, is within Dayton’s Urban Growth Boundary and is plan
+                         designated by Yamhill County as Future Urbanizable and by the city of Dayton as
+                         Residential. The remaining property south of Palmer Creek is designated on the Yamhill
+                         County Comprehensive Plan as Agriculture/Forestry Large Holding (AFLH).The request
+                         is for approval of a zone change for the entire property from EF-80 Exclusive Farm Use
+                         to VLDR-2 % Very Low Density Residential. The request also includes a proposal for a
+                         9-lot subdivision for approximately two acres, Tax Lot 4320-400 to Tax Lot 4320-500,
+
+APPLICANTS:              Brian and Nancy Hayward
+
+TAX LOTS:                4320-400, 500
+
+LOCATION:                Approximately 700 feet south of the intersection of Webfoot Road and Ferry Street on
+                         the east side of Webfoot Road.
+
+CRITERIA:                Sections 402.09(B)(2), 502.06(B) and 1208.02 of the Yamhill County Zoning Ordinance;
+                         the Yamhill County Land Division Ordinance.
+
+FINDINGS:
+
+A.     Background Facts:
+
+1.     Property size: The primary parcel in question is Tax Lot 4320-400 and is 34.4 acres in size.
+
+2.     On-site Land Use: The property has access to Webfoot Road. The parcel is divided by the west fork of
+       Palmer Creek that runs from the west to the east. For the purposes of this staff report the west fork of
+       Palmer Creek shall just be referred to as Palmer Creek. The parcel contains uneven topography and slopes
+       up to the north and south from Palmer Creek. The parcel is mostly forested with deciduous trees and
+       underbrush. There is a small portion of property on the southern end-of the lot that appears to contain an
+       old apple orchard.
+
+3.     Surrounding Land Use: The property to the north is inside of Dayton’s Urban Growth Boundary and
+       appears to contain rural residences. A portion of this parcel contains a berry patch. The rest of the property
+       appears to contain trees and underbrush. Property to the northeast is in the Dayton City limits and contains
+       aresidential subdivision. Property to the south, east and west contain a mixture of farm uses which include
+       orchards and berry patches.
+
+4,     Surrounding Zoning: Property to the north is zoned LDR-9000 Low Density Residential with a 9,000
+       square foot minimum lot size. Property to the northeast, inside the city of Dayton is zoned for residential
+       use. The remainder of the surrounding property is zoned EF-80 Exclusive Farm Use.
+                                                                                                     Fin G8 ree 145
+Exhibit “A” - Findings for Approval
+Docket PAZ-05-97 (Hayward)
+Page 2
+
+5.       Water: The lots will be served by on-site wells.
+
+6.       Sewage Disposal: On-site sewage disposal systems.
+
+7.       Fire Protection: Dayton Rural Fire District
+
+8.       Soils: Sheet 36 of the Yamhill County Soil Survey shows that a little over half of the parcel is composed of
+         Woodburn (WuB) and Amity (Am) silt loam. These soils are Class II and are both high-value farmland.
+         The remainder of the property is a mixture of Cove (Cs) and terrace escarpments (Te). These soils are
+         Class III and VI respectively, and are not high-value farmland.
+
+9.       Taxes: Farm deferral.
+
+10.      Further consideration: Flood Insurance Rate Map 410229 0329 C shows that some property          on either side
+         of Palmer Creek is within the 100-year flood plain. The floodplain area is uneven but extends
+         approximately 200-300 feet from Palmer Creek.
+
+B.       Zone Change and Plan Amendment Provisions and Analysis
+
+1.       Approval of a request for a zone change must be based on compliance with the standards and criteria in
+         YCZO Section 1208.02.     These provisions are:
+
+         (A)      The proposed change is consistent with the goals, policies, and any other applicable provisions of
+                  the Comprehensive Plan.
+
+         (B)      There is an existing demonstrable need for the particular uses allowed by the requested zone,
+                  considering the importance of such uses to the citizenry or the economy of the area, the existing
+                  market demand which such uses will satisfy, and the availability and location of other lands so
+                  zoned and their suitability for the uses allowed by the zone.
+
+         (C)      The proposed change is appropriate considering the surrounding land uses, the density and
+                  pattern of development in the area, any changes which may have occurred in the vicinity to
+                  support the proposed amendment and the availability of utilities and services likely to be needed
+                  by the anticipated uses in the proposed district.
+
+         (D)      Other lands in the county already designated for the proposed uses are either unavailable or not
+                  as well-suited for the anticipated uses due to location, size, or other factors.
+
+         (E)      The amendment is consistent with the current Oregon Administrative Rules for exceptions, if
+                  applicable.
+
+2.       Regarding criterion (A) above, we find that no Comprehensive Plan goals and policies apply. Some Plan
+         policies which are nonetheless worth discussing include:
+
+         Policy 1.B.1.c.: All proposed rural area development and facilities: ...(2) Shall not be located in any
+         natural hazard area, such as a flood plain or area of geologic hazard, steep slope, severe drainage
+         problems or soil limitations for building or sub-surface sewage disposal, if relevant;
+
+         A significant portion of the acreage is within the 100 year flood plain, as shown on FIRM 410249 0329 C.
+         There are some steep slopes that need to be taken into consideration if building occurs.    We find the
+     7                 -_                                                                              Fin BB vce 145
+Exhibit “A” - Findings for Approval
+Docket PAZ-05-97 (Hayward)
+Page 3
+
+         applicant has re-designed the subdivision to address the slope concerns.      All but two of the lots have been
+         evaluated for subsurface sewage disposal so sub-surface sewage disposal does not appear to be a severe
+         limitation.
+
+         Policy .B.1.d.: No proposed rural area development shall require or substantially influence the extension
+         of costly services and facilities normally associated with urban centers, such as municipal water supply
+         and sanitary sewerage or power, gas and telephone services, nor shall it impose inordinate additional net
+         costs on mobile, centralized public services, such as police and fire protection, school busing or refuse
+         collection,
+
+         We find the proposed zone change would not require the extension of utilities, since sewer and water
+         service will be provided through on-site systems. The city of Dayton has submitted a public agency report
+         that cautions that water and sewer services will not be extended to this subdivision. Other services such as
+         electricity, telephone, sheriff and fire protection already serve the area.
+
+         Policy I.B.2.a.: Yamhill County will continue to recognize that the appropriate location of very low density
+         residential development is in designated large areas where commitments to such uses have already been
+         made through existing subdivision, partitioning, or development and by virtue of close proximity to
+         existing urban centers; or in small, limited areas having unique scenic, locational and other suitable site
+         qualities where the anticipated magnitude or density of development is not such as to require more than a
+         very basic level of services, such as single local-road access, individual domestic wells and sewage-
+         disposal systems, and possible rural fire protection.
+
+         The property to the north of the subject parcel is within Dayton’s UGB and is zoned for rural residential
+         development. The portion of the subject property north of Palmer Creek is somewhat influenced by the
+         city and the existing rural residential development. However, we find the property south of Palmer Creek
+         is not as affected by the existing development. The southern portion is bordered by larger farm holdings
+         that vary from 15 to 34 acres. Regarding the anticipated magnitude of development, it does appear to only
+         require a very basic level of services.
+
+         Policy ILA.L.h.: No proposed rural area development shall substantially impair or conflict with the use of
+         farm or forest land, or be justified solely or even primarily on the argument that the land is unsuitable for
+         farming or forestry or, due to ownership, is not currently part of an economic farming or forestry
+          enterprise.
+
+         There are some farm uses in the area which could conflict with rural residential uses. From the testimony
+         provided by the applicant it appears that farm use of the property would have severe limitations. However,
+         as indicated in the above policy, this alone would not justify approval of a plan amendment and zone
+         change for rural residential use.
+
+3.       Regarding criterion (B), and (D) the applicant did state that there was a high demand for smaller homesites
+         and submitted evidence from last year of parcels that were for sale. Similar requests have identified the
+         market demand and have cited the lack of property on the market to satisfy the demand. This argument was
+         made in a similar zone-change request (to VLDR-2.5) considered by the county in 1991. This request was
+         appealed to the Land Use Board of Appeals (LUBA). In their opinion on that case, LUBA stated:
+
+                   "The county explains in its findings that this existing potential for residential development on
+                   VLDR-2.5 zoned properties is not ‘available’ to satisfy need for rural housing on 2.5 acre lots
+                   because only a small number of VLDR-2.5 zoned properties are presently for sale. We reject that
+                   explanation. The number of VLDR-2.5 zoned properties on the market for sale at any given point
+                                                                                                     rit OB vce 1 458
+Staff Report
+Docket PAZ-05-97/ S-01-99 / L-36-99 (Hayward)
+Page 4
+
+                   in time is at best an indirect measure of the need or market demand for such properties.” Freidman
+                   y. Yamhill County, 23 Or LUBA 306, 311 (1992).
+
+         Regarding exception land surrounding Dayton, three exception areas exist that have rural residential zoning
+         similar to that requested by the applicant. The exception areas are identified as areas 5.1, 5.2 and 5.3.
+         These figures do not include land inside the Urban Growth Boundary.       The following is the combined
+         information on these study areas as of June 1999:
+
+       Zone             Existing Lots          Developed Lots            Vacant Lots               Potential New Lots
+
+     VLDR-1                   4                         4                      0                             4
+     VLDR 2.5                 8                         8                      0                             1
+
+      AF-10                   19                        16                     3                             0
+
+         Based on the above information we find there is presently not a significant amount of Jand in the Dayton
+         area currently zoned VLDR. The property to the north is zoned for Low Density Residential use and could
+        be divided to provide rural residential lots. We find this evidence and other evidence demonstrates a lack
+         of availability of similarly zoned property.
+
+        Regarding criterion (C), the applicant has demonstrated the proposed change is appropriate considering the
+        surrounding land uses, the density and pattern of development in the area, any changes which may have
+        occurred in the vicinity to support the proposed amendment and the availability of utilities and services
+        likely to be needed by the anticipated uses in the proposed district. The most significant change in the area
+        is the Plamer Creek Addition. It is a subdivision located northeast of the subject property that has been
+        developed during the last several years. The presence of this subdivision can be argued to have some
+        affect on the property north of Palmer Creek but does not appear to have any significant affect south of
+        Palmer Creek. Other than this subdivision, there appears to have been little development in the area for
+         quite some time. Regarding services, we find the proposed development appears to only require a basic
+         level of service.
+
+        Regarding the criterion (E), an exception to Goal 3 will be required for that area south of Palmer Creek, as
+        addressed in Section (C) of these findings below.
+
+         Goal Exception Provisions and Analysis
+Ia
+
+        The portion of the subject property south of the west fork of Palmer Creek is currently protected as
+        agricultural land under Statewide Planning Goal 3. An exception to that Goal must be approved in order to
+        rezone the parcel to VLDR.
+
+         Oregon Administrative Rule (OAR) 660-04 contains the requirements for taking goal exceptions.           OAR
+         660-04-020 contains four factors that must be addressed when taking an exception to a goal. They are:
+
+         (a)       Reasons justify why the state policy embodied in the applicable goals should not apply.
+
+         (b)       Areas which do not require a new exception cannot reasonably accommodate the use.
+
+         (c)       The long-term environmental, economic, social and energy consequences resulting from the use
+                   at the proposed site with measures designed to reduce adverse impacts are not significantly more
+                                                                                                      FILA    b8     vse 1 Qh
+ Findings
+ Docket PAZ-05-97/ 8-01-99 / L-36-99 (Hayward)
+ Page 5
+
+                   adverse than would typically result from the same proposal being located in other areas requiring
+                   a Goal exception.
+
+          (d)      The proposed uses are compatible with other adjacent uses or will be so rendered through
+                   measures designed to reduce adverse impacts.
+
+ 3.       Regarding factor (a), OAR 660-04-022 states that the reasons justifying why the state policy embodied in
+          the goal should not apply include, but are not limited to, that there is a demonstrated need for the proposed
+          use, and either: (1) a resource upon which the use is dependent can be reasonably obtained only at the
+          exception site and the use must be located near the resource; or (2) the use has special features or qualities
+          that necessitate its location on or near the proposed exception site. The request does not comply with (1)
+          because rural residential development is not related to or dependent upon any resource. The applicant
+          argued that the request complies with (2) because the property has special characteristics that would be
+          beneficial to locate rural residences. Specifically, the applicant stated, and we find, that the topography
+          and vegetation on the parcel make it attractive for trespassers who engage in illicit activities. This leads to
+          vandalism, theft and other nuances (like garbage) on the property. The applicant has submitted letters from
+          farmers in the area which indicate that the property is not suitable for farm use. However, we do not find
+          these reasons sufficient to justify an exception to Goal 3 for that portion of the property south of Palmer
+          Creek.
+
+ 4.       Factor (b) was discussed previously in Finding B.3, which found that there are other areas around Dayton
+          and within the UGB that will allow dwellings. However, we find that the availability of areas zoned for
+          rural residential development is somewhat limited.
+
+ 5.       Regarding factor (c), there are no specific energy considerations related to development at the proposed
+          location. There do appear to be some environmental consequences from this type of development.
+          Specifically, development could affect the west fork of Palmer Creek. The property does have a flood
+          plain designation so development near the creek would be difficult. Additionally, the applicant’s engineer
+          has made suggestions to only build on the upper areas away from the upper bank. Finally, the city of
+          Dayton has requested that there be a public green space dedicated along the creek.      Economic
+          considerations center on the applicant’s investment and return from developing the site. There would be
+          minimal economic benefit to citizens or to the county regardless of whether the development would occur.
+          The applicant claims there would be great social benefit from allowing the development. He feels that the
+          illegal activities along this area would be greatly reduced by allowing people to live in the area.
+
+ 6.       The consideration of compatibility required by factor (d), there have been no specific impacts on
+          neighboring uses which could be alleviated through conditions.
+
+ 7.       The OAR allows consideration of other factors which may make farm use on the lots impracticable. The
+          applicant states that there are limitations to farm use because of the creek and associated high water table in
+          the flood plain. Erosion and soil limitations are also cited by the applicant. We find these limitations make
+          farming impracticable.
+
+          VLDR Considerations
+rp
+
+          Section 502.06(B)(2)(a) of the Yamhill County Zoning Ordinance (YCZO) indicates that the minimum size
+          of any newly-created parcel in the VLDR-2.5 district shall be 2.5 acres, except in the case of parcel-size
+          averaging, when the minimum parcel size shall be one (1) acre. We find the request complies with this
+          standards because the proposed smallest lots may be approximately 1.46 acres, but the average lot size is
+          over 2.5 acres.
+Findings                                                                                                       9)          As
+Docket PAZ-05-97/ S-01-99 / L-36-99 (Hayward)                                                           FILA   OG     "ACE 1 &b0
+Page 6
+
+2.         Section 502.06(E) requires that a parcel abut at least 20 feet on a public road or be served by an easement
+           at least 30 feet in width. We find all lots proposed satisfy this standard. We find the access will be safe
+           and passable. Prior to issuance of building permits, the developers will need to receive approval from the
+           fire district that access to the building sites meets fire access standards.   Any necessary road widening or
+           improvements will be the responsibility of the developer.
+
+           Subdivision Ordinance Provisions and Analysis
+if
+
+1.         The Yamhill County Land Division Ordinance (LDO) Chapter 6 contains general design standards for
+           subdivisions. All applicable standards must be met prior to final subdivision approval. The following
+           findings will address the more relevant standards.
+
+2.         Section 6.000 (4) states that the Planning Director shall require a developer, subdividing or partitioning
+           land within the UGB that will result in less than 10 acre parcels, to submit a plan illustrating how the
+           parcels can be further re-divided to urban densities without interfering with the orderly development of
+           streets. The city of Dayton is required to review and concur on sucha plan. Therefore, the developer will
+           be required to submit a drawing of that portion of the parcel within the Dayton UGB showing an
+           arrangement of lots and streets that will permit a later re-division of the area into 7000 square foot lots.
+
+3.         Section 6.010(1) requires that road improvements be completed or proper security posted as specified in
+           Section 13.000. The applicant will be required to submit an engineered road design that includes a full
+           plan and profile and construction cost estimate for approval by the county Public Works department.
+
+4.         Section 6.010(8) lists the specifications for private easement. The developer has designed the subdivision
+           to be served by private easement. This requires that no more than three parcels are served by said easement
+           and it must be at least 30-feet in width. Lots 4, 5, 6, and 7 are all served by a private easement. That
+           portion of the easement south of Lot 9 needs to be a dedicated 60-foot wide street up to the point that the
+           Lot 7 easement begins.    With this change the proposed plan would satisfy these standards.
+
+5.         Section 6.070 states that lands which are unsuitable for development due to inadequate drainage or other
+           conditions likely to be harmful to the safety and general health of future residents or the general public
+           shall not be developed for building purposed unless adequate methods for overcoming these conditions are
+           submitted and approved by all appropriate agencies. Section 6.030(6) of the LDO requires lot drainage to
+           be designed to the specifications adopted by the Board of Commissioners. The developer will be required
+           to submit a drainage plan to the County Public Works Department prior to final subdivision approval. The
+           drainage system must be designed to avoid unnecessary concentration of storm drainage water from each
+           lot to other lots or parcels.
+
+6.         Subsection 6,090 requires all lots within a subdivision to have an adequate quantity and quality of water to
+           support the proposed use.    Since no public or community water system is available to serve the lots, the
+           developer will either need to submit well reports for the lots, as required by subsection (4), place the
+           disclaimer statement on the face of the plat, as required by subsection (5), or receive conditional use
+           approval for establishment of a community water system.
+
+7.         Subsection 6.100 contains options and requirements for sewage disposal. No public or city sewer services
+           are available, so each lot will be required to be served by an individual on-site subsurface sewage disposal
+           system. Site evaluations will be required for each lot prior to final plat approval. The ordinance requires
+           the location of the approved drainfield site shown on the face of the final plat along with a statement
+           indicating that placement of drainfields shall require approval and permit by the county sanitarian.
+           However, the County Surveyor has informed the Planning Department that information like drainfield
+           locations, which can be changed administratively, may not be drawn on the face of the final plan.
+           Therefore, we find a map prepared by a surveyor showing the location of the drainfields submitted and
+Findings                                                                                                     arN            ax
+Docket PAZ-05-97/ S-01-99 / L-36-99 (Hayward)                                                        FRE     OF      and         AO
+                                                                                                                8     1      4ah4
+Page 7
+
+           kept on file with the Planning Department will be sufficient. Additionally, those parcels that are denied for
+           standard systems and receive approval for alternative systems will need that noted on the face of the
+           subsurface sewage disposal map.
+
+8.         Section 6.120 contains requirements and standards for surveying subdivisions.      Since the lots will be less
+           than 10 acres in size, a survey complying with these standards will be required.
+
+CONCLUSIONS:
+
+1.         The request is for approval of a zone change for the entire property from EF-80 Exclusive Farm Use to
+           VLDR-2 % Very Low Density Residential. The request also includes a proposal for a 9-lot subdivision,
+           Tax Lot 4320-400 and Tax Lot 4320-500.
+
+2.         We find the proposed zone change for that portion of property within the Urban Growth Boundary is
+           consistent with Comprehensive Plan goals and policies, and is appropriate because it is in close proximity
+           to the city of Dayton.
+
+3.         With conditions, the subdivision can comply with the Yamhill County Land Division Ordinance.
+
+4.         For that portion of property north of the west fork of palmer creek we find that the request complies with
+           the Yamhill County Comprehensive Plan and the zone change provisions in section 1208.02 of the Yamhill
+           County Zoning Ordinance.
+
+5.         An exception to statewide planning goal 3 has not been justified for the property south of the west fork of
+           Palmer Creek.
+
+The Board of Commissioners denies the request by Brian and Nancy Hayward for a Comprehensive Plan
+amendment of the property south of Palmer Creek from Agriculture/Forestry Large Holding (AFLH) to Very Low
+Density Residential (VLDR).      The Board also denies the zone change, subdivision and lot-line adjustment portion
+of the request south of Palmer Creek.
+
+The Board of Commissioners approves the zone change for that portion of property north of Palmer Creek to be
+changed from EF-80 Exclusive Farm Use to VLDR-2 % Very Low Density Residential. The Board also grants
+preliminary approval of the subdivision for that portion north of Palmer Creek subject to the following conditions:
+
+1.         Each lot shall be surveyed and a final plat prepared in accordance with Section 6.120 of the Yamhill
+           County Land Division Ordinance No. 497. The final subdivision plat shall only allow the creation of new
+           lots 1, 2, and 3 as shown on the preliminary map.
+
+2.         The Yamhill County Planning Docket Number S-1-99 shall be shown on the face of the final plat.
+
+3.         A 30-foot wide (minimum) nonexclusive easement for ingress and egress shall be assigned to provide
+           access to Lots 2 and 3, surveyed, and shown on the face of the final plat. This easement shall be granted at
+           the time of conveyance of any of the lots.
+
+4.         The road providing access to the lots shall be constructed to county specifications, or a road construction
+           agreement shall be completed and recorded, prior to final plat approval.
+
+5.         Road plan and profile drawings shall be submitted to and approved by the County Engineer prior to final
+           plat approval.
+Findings
+Docket PAZ-05-97/ S-01-99 / L-36-99 (Hayward)
+                                                                                                run OS -sceLa62
+Page 8
+
+         The applicant shall submit a drainage plan prepared by a registered engineer.    The drainage plan shall be
+         submitted to and approved by the County Public Works Director prior to final plat approval.
+
+         The subdivision shall be shown to have adequate quality and quantity of water to support the proposed use.
+         Prior to final plat approval, the developer shall comply with Subsection 6.090(3) of the Land Division
+         Ordinance by providing wells to each lot. In lieu of this requirement, a statement shall be placed on the
+         face of the final plat which states:
+
+                  “No municipal, public utility, community water supply or private well system will be provided to
+                  the purchaser of those lots noted hereon.”
+
+         An approved septic drainfield area and replacement area shall be provided for each lot. Their location shall
+         be surveyed and depicted on a map to be submitted to the Director. Parcels that are denied for standard
+         sewage disposal systems and receive approval for alternative systems shall have that noted on the face of
+         the subsurface sewage disposal map.
+
+        A five-foot easement along property lines adjacent to roads, or a reasonable alternative, shall be provided
+         for utilities and depicted on the face of the final plat.
+
+10.      Prior to final plat approval the applicant shall submit to the city of Dayton a shadow plat of that portion of
+         the parcel within the Dayton's urban growth boundary showing an arrangement of lots and streets that will
+         permit a later re-division of the area into 7000 square foot lots. Said shadow plat shall be reviewed and
+         approved by the city of Dayton.
+
+FAADMIN\SANARLU\HAY             WAFND.     WPD
+                                                                                                                            bg esp 16
+
+                                                                                                                                            sf
+                                                                                                                     FILE
+
+                                                                                                                                             ae)
+                          EXHIBIT            "BY FOR             ORDINANCE                            No. 681
+                                         ZONING       MAP    AMENDMENT                       FROM
+                                EF-80 (EXCLUSIVE FARM                                       USE) TO
+                          VLDR-2.5 (VERY LOW DENSITY                                        RESIDENTIAL)
+
+                                                                                   y°,
+                                                                                         }
+                                                       ESKER
+                                                       eecececerererenecen
+                                                        SKK
+                                                         SSS
+                                                         SRR
+                                                          SRK
+                                                          MNOS
+
+                                                           SKK
+                                                           SKE
+                                                            RSS
+                                                            SRK
+                                                               SKN
+
+                                                                 K
+                                                                 KKK KKKESKS
+                                                                   KRG
+                                                                      KKK,
+                                                                       KKK
+                                                                         RRLG
+                                                                          KKSCLR,
+
+                                                                                                            1079.3
+                                                                                 POSE
+                                                                       9°6IS]
+
+                                                                                 60S
+
+Prepared   by   Yamhill    County        Department    of   Planning            and     Development
+
+                                                                                                            ORDINANCE         No.     68!
+            “AREA    SUBJECT        TO    AMENDMENT                                                                         EXHIBIT   “BY
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.3% of
+the word sequence, and on 76.0% of the figures. Dictionary-recognizable words: 95.0%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

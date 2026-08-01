@@ -1,0 +1,401 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord551-pdf
+title: 'ORD551-PDF'
+doc_type: ordinance
+citation: 'ORD551-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17617/ORD551-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 38a939e9d3a4007442b6eed7397b4946bd698ea702f7aa06bf093ad4d6e91739
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.897; figure agreement 0.914; dictionary ratio 0.927. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 90%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD551-PDF (ORD551-PDF)
+
+## At a glance
+
+OCR-derived text of ORD551-PDF. Not human-verified.
+
+## Full text
+
+By
+
+In the Matter of an Ordinance
+
+                                                                             SS
+Amending the Yamhill County
+Zoning Map to Change, on a
+
+                                                                             SS
+Portion of Tax Lot 5625-1301,
+the Zone Map Designation
+
+                                                                             Sw SS
+from    AF-20            (Agriculture/Forestry)                                          ORDINANCE        551
+to VLDR-5  (Very Low Density
+Residential/5 Acre Minimum Lot
+
+                                                                             www
+size); Docket Z-1-93; Applicants
+Kenneth and Linda Budeau;  and
+Declaring        an          Emergency.
+
+        THE      BOARD              OF        COMMISSIONERS                OFwe      YAMHILL      COUNTY,         OREGON        (the
+Board),       sat            for         the       transaction              of         county     business         in     special
+session        on        April  7,  1993,                      Commissioners                   Debi     Owens,      Dennis         L.
+Goecks,       and        Ted Lopuszynski                       being present.
+
+     WHEREAS,                  on  January   26,  1993,                                 Kenneth   and    Linda   Budeau
+("Applicant")                 applied to the Department                                 of Planning   and  Development
+for a zone map amendment from AF-20 to VLDR-5    (Very Low Density
+Residential/5  acre minimum lot size)   on a  10 acre portion of an
+18.53 acre parcel known as Tax Lot    5625-1301,   identified on the
+attached        Exhibit                  "B";      and
+
+        WHEREAS,                   on        March        4,     1993            the         Yamhill     County          Planning
+Commission           held a public hearing to consider the application and
+thereafter           voted unanimously to approve the requested zone change;
+and
+
+         WHEREAS, on April 7, 1993, the Board held a public hearing on
+the     application and voted unanimously to implement     the Planning
+Commission’s  approval  of the zone change    application     by amending
+the Official  Zoning Map from AF-20 to  VLDR-5     (Very  Low   Density
+Residential/5  acre minimum   lot size) on  a   10   acre  portion    of an
+18.53     acre           parcel              known       as    Tax     Lot           5625-1301,         identified         on     the
+attached        Exhibit                  "B";      and
+
+        WHEREAS,               the            findings          and        conclusions                attached      hereto         as
+Exhibit       "A"            and        by     this      reference               incorporated            herein         provide         a
+justification                  for           the   approval           of   the         application;         and
+
+        WHEREAS,                   the         attached         Exhibit                "A"     demonstrates             that      the
+proposed amendment to the Official Zoning Map of Yamhill County is
+in the best interests of the citizens of Yamhill County; NOW THERE-
+FORE,
+
+ORDINANCE     551        —    Page       1
+                                                                                                          FILK         55      PACE     221
+
+          THE       YAMHILL             COUNTY    BOARD     OF     COMMISSIONERS              ORDAINS            as     follows:
+
+      Section 1.                          The  Official    Zoning  Map  of  Yamhill                                County  is
+hereby amended as                        specified  in  the  attached  Exhibit  "B",                              to reflect
+a zoning designation                           of VLDR-5 on the             10         acre    portion            of        Tax       Lot
+5625-1301 identified                           on Exhibit "B".
+
+          Section            2.         The    findings     attached        as         Exhibit      "A"     and         incorpo-
+rated      herein            by     this       reference     are    adopted            in    support      of      this         ordi-
+nance.
+
+      Section                 3.   This ordinance being necessary                                   for the                 health,
+safety,   and                welfare   of the citizens  of Yamhill                                   County,                 and an
+emergency            having             been    declared    to     exist,         is    effective         upon          passage.
+
+          DONE      at       McMinnville,            Oregon        this     7th        day    of    April,             1993.
+
+                                                    nO             mew                        OF    COMMISSIONERS
+
+                                                    Chdir
+                                                                 phe KC DEBI
+                                                                         bhre OWEN
+                                                                               nde
+                                                                              ,
+
+                                                                     <>
+                                                    Commissioner                  DENNIS       L.    GOECKS
+
+FORM     APPRQVED                 BY:
+
+UhlOHN C2 PINKSTAFF
+              ed                                      Fed LeperTD’pyar
+                                                    Commissioner’  LOPUSZYNSKI
+Assistant            County             Counsel
+
+ec\gql1u92092.002
+
+ORDINANCE        551     -   Page        2
+                                                                                                                run DO vce 222
+                                                          EXHIBIT           "A"
+                                                       Ordinance             551
+
+PLANNING           COMMISSION              APPROVAL:              March           4,     1993
+
+ADOPTION           OF    ORDINANCE              BY   BOARD        OF    COMMISSIONERS:                          April     7,        1993
+
+DOCKET:                         Z-1-93
+
+REQUEST:                        Zone       change         from      AF-20             Agriculture/Forestry                          to
+                                VLDR-5 Very               Low Density                   Residential,                  five-acre
+                                minimum lot               size
+
+APPLICANTS :                    Kenneth          and      Linda        Budeau
+
+TAX    LOT:                     A       portion      of    5625-1301
+
+LOCATION:                       Approximately                one-half mile north of Highway                                              18   on
+                                the west side                of Cherry Hill Road,  Sheridan
+
+COMPREHENSIVE               PLAN          DESIGNATION:
+
+                    The east portion of the property is designated
+                    "Agriculture/Forestry Large Holding" on the Plan
+                    map, while the west part is within the Sheridan
+                    Urban Growth Boundary and is designated "Urban"                                                             on
+                    the County              Plan       and       "Residential"                   on       the     City
+                    Plan.
+
+FINDINGS :
+
+A.     Background               Facts
+
+         be         Lot     Size:           The      subject           tax        lot     is     18.53           acres.         The
+request        applies              to    a portion          of     this          lot     totalling               about        10
+acres.
+
+         2.         Access:               Cherry       Hill       Road,           a     paved        county           road.
+
+        3.6         On-Site              Land Use:          A mix of                   farm and           woodlot         use.  The
+farm    use        includes              grain and         pasture.                    The crop           land is         all at the
+east     end       of     the       property         and     not       in    the         area        of    the        requested
+zone    change.             There          is     a barn         near       the         west     end       of     the     property.
+
+      4.      Surrounding Land Use:    The area is                                                   a mix of farm and
+forest   use.    The  predominant farm  use in the                                                   area is livestock,
+although           there        are       large      cultivated              fields             to    the        east.         The        city
+limits        of    Sheridan              are     about       400      feet            west     of    the        property.
+
+         5.             Surrounding             Zoning:           Land       to         the     east       across         Cherry
+Hill Road is zoned EF-40 Exclusive Farm Use.                                                          To        the    west,         zoning
+is VLDR-5.  All other areas are zoned AF-20.
+
+Exhibit "A" - Page                  1
+Ordinance 551
+                                                                                                                    FILK     55     PACE        223
+
+        6.       Soils:            Sheet           48        of     the       Yamhill       County           Soil        Survey
+indicates that the soils on the subject   10 acres are comprised
+predominantly of Steiwer silty clay loam with 5 to 20 percent
+slopes  (StD), which has an agricultural Capability Class    IV
+rating.   Portions of the property in the bottom of   a drainage
+have    steeper        Steiwer            and       Panther                  soils,     which          are     Class         VI.
+
+        7.       Taxes:            Farm        deferral.
+
+        8.       Water:  Not specified                                   by    the     applicants,                 but     a well          is
+the    most     likely alternative.
+
+        De       Sewage           Disposal:                   An        on-site        system          would        be     required.
+
+        10.  Previous Actions:   A farm                                            dwelling        (Docket           FD-33-92)
+was    denied in November of 1992.
+
+B.     Ordinance        Provisions                  and            Analysis
+
+         ds   The request                     must comply with                         the standards and criteria
+in    the Yamhill County                      Zoning Ordinance                         (YCZO) Section 1208.02.
+These        provisions           are:
+
+        “(a)   That the proposed change                                            is consistent with the
+        goals, policies, and any other                                             applicable provisions of
+        the     Comprehensive                  Plan.
+
+        "(b)      That        there           is        an        existing           demonstrable              need         for
+        the particular uses allowed by the requested zone,
+        considering the importance of such uses to the citizen-
+        ry or the economy of the area,  the existing market
+        demand which such uses will satisfy,    and the availabil-
+        ity and location of other lands  so   zoned  and their
+        suitability for the uses allowed   by  the  zone.
+
+        "(c)   That the proposed change                                            is appropriate consider-
+        ing the surrounding land uses,                                             the density and pattern
+        of     development               in     the          area,           any     changes       which           may      have
+        occurred         in       the     vicinity                  to       support        the    proposed                amend-
+        ment     and    the        availability                         of    utilities           and        services
+        likely to be needed                             by        the     anticipated             uses        in    the
+        proposed district.
+
+        "(d) That other lands in                                    the county already                        designated
+        for the proposed use are                                    either unavailable                        or not as
+        well-suited for the anticipated                                              uses    due       to     location,
+        size,  or other factors.
+
+        "(e) That the amendment is consistent with the                                                              current
+        Oregon Administrative Rules for exceptions, if                                                              applica-
+        ble."
+
+These        criteria     are       addressed,                      respectively,                 in     Findings            B.2
+through        B.6,    below.
+
+Exhibit "A" - Page            2
+Ordinance 551
+                                                                                                    FILK        o}8)     PACE   2A
+
+         2.      Regarding Comprehensive Plan goals and policies,   the
+land     is    currently planned for urban use.   The only plan goal,
+policy        or    other       provision           identified      is    Plan       Section        I.A,         “Urban
+Area    Development,"                Policy         3.b,   which    states:
+
+        “Yamhill County will continue to recognize     that the
+        appropriate  location of low-density residential     devel-
+        opment is in areas where adequate    access and   services
+        to satisfy the scale and ultimate development can and
+        will be provided.    Such areas would generally be with-
+        in, or contiguous with,   existing urban centers,    but may
+        also be in selected small areas having unique scenic
+        qualities or, where the need may be demonstrated,       in
+        selected outlying areas of varying size appropriate
+        site qualities  and other supporting services."
+
+The    request        complies          with        the    Comprehensive            Plan    map.
+
+        The        Board       finds    that        YCZO    Section      1208.02(a)          is     satisfied
+because the proposed zone change is within                                         an urban        area and
+consistent with Policy 3.b and no conflict                                         with any        Comprehensive
+Plan policies  has been identified.
+
+      3.   The Board finds that YCZO Section 1208.02(b)  is satis-
+fied because there is an existing demonstrable  need for the
+particular uses allowed by the requested zone,  considering the
+importance           of     such     uses      to    the    citizenry         or    the    economy         of      the
+area,  the existing market demand which such uses will satisfy,
+and the availability and location of other lands    so zoned and
+their suitability   for the uses allowed by the zone.
+
+        The        need     relevant        to      this    request      is    related       to     the     require-
+ments of the applicants.   The applicants purchased the property
+with the intent of constructing a dwelling,    and at that time
+approval of the residential use in the AF-20     zone was feasible.
+A request  for a dwelling in conjunction with farm use was,
+however,  denied for the property in 1992.    The land is not
+suitable  for commercial agricultural  operations.    The applicants
+desire to place a home on the property in order to better care
+for their property and their livestock.
+
+The use is important to the citizenry and the economy of the area
+and will satisfy the market demand for such use by virtue of the
+fact that the zone change is needed to satisfy applicants’
+reasonable expectations  that they would be allowed to construct  a
+dwelling when they purchased the property.   Because a portion of
+the    property           is    within      the      Urban    Growth      Boundary          (UGB),         the         zone
+change  is a reasonable alternative. There may be other available
+lands which are zoned to permit the use but not as suitable  for
+the proposed use based on location factors.
+
+        4.          The    Board       finds        that    YCZO   Section          1208.02(c)         is        satis-
+fied because the                   proposed change is appropriate considering the
+surrounding  land                  uses,  the density and pattern of development in
+
+Exhibit "A" - Page             3
+Ordinance 551
+                                                                                                        rin OO ve 2EO
+the area,  any changes which may have occurred in the vicinity to
+support the proposed amendment and the availability of utilities
+and services  likely to be needed by the anticipated uses in the
+proposed           district.
+
+        The        surrounding               area          is    a    mix    of    farm     and       forest         use,     with
+the predominant farm use being livestock, and large cultivated
+fields to the east.   The request is only about 400 feet from the
+Sheridan city limits.    Substantial residential development has
+taken     place       in     the       vicinity                 in    recent       years,        including            a     manufac-
+tured     home       park        just        inside             the    city       limits        near     their        land.        The
+land    adjacent to the west                               is zoned          VLDR-5.   Moreover, much of                           the
+land    on the north side of                               Sheridan          within the UGB is already
+zoned     VLDR-5.            The       City           of    Sheridan             does    not     object        to     the
+request.
+
+      The property is located on an isolated stretch of Cherry
+Hill Road between neighboring residences,         and has been used by
+kids to park,   loiter,   and  discard   bottles  and trash,  as well as
+numerous poachers.      Neighbors   with  children   favored the   zone
+change to  allow  the   proposed   residence   to alleviate  these   prob-
+lems.
+
+       Fire protection and PGE and school bus routes are available
+to the site.       Subsurface    sewage and water would be required
+before    building    permits   would   be issued.     The zone change would
+result    in,. at most,    two new dwellings,      which would not create
+undue demands      on services     in the area.     Since the property is in
+the  City     of Sheridan   UGB,   it is  only  a  matter   of time before
+development      in the surrounding area occurs.          No other services
+would likely be needed by the uses on the property.
+
+        5.          The    Board            finds          that       YCZO       Section        1208(d)         is    satisfied
+because other lands  in the county already designated  for the
+proposed use are either unavailable or are not as well-suited                                                                        for
+the anticipated uses due to location,   size, or other factors.                                                                       As
+stated        in    Finding           B.3        above,          there       may    be     other        available            lands
+which        are    zoned        to    permit              the       use    but    which        are     not     as    suitable
+for    the     proposed              use,        based          on    location          factors.
+
+        6.    The Board finds                              that YCZO Section 1208.02(e)  is                                  satis-
+fied    because no exception                               to the statewide planning goals                                   is
+required.
+
+CONCLUSIONS:               Based            on    the       foregoing             findings,            the    Board         con-
+cludes:
+
+         1.         The    request               is    for       a    zone       change        from     AF-20        Agricul-
+ture/Forestry              ‘to       VLDR-5           Very       Low       Density       Residential.
+
+        2.          The    property               is       within          the    Sheridan        Urban         Growth
+Boundary.
+
+Exhibit  "A" - Page              4
+Ordinance 551
+                                                                     FILK   59     -   226
+
+        3.       The amendment is consistent with the            goals,          policies
+and    other     applicable provisions of the Yamhill            County          Comprehen-
+sive    Plan     as   required   by   YCZO   Section   1208.02(a).
+
+         4.      The requested use complies with the quasi-judicial                     zone
+change        standards in YCZO Sections 1208.02(b) through (e).
+
+ec\1u93092.001
+
+Exhibit "A" - Page       5
+Ordinance 551
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 89.7% of
+the word sequence, and on 91.4% of the figures. Dictionary-recognizable words: 92.7%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

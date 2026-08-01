@@ -1,0 +1,468 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord841-pdf
+title: 'ORD841-PDF'
+doc_type: ordinance
+citation: 'ORD841-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17348/ORD841-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 9afe781072fe6e0132a6bd449350a08f108a09e8d46eef2416f9e47db8d69b6d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.979; figure agreement 0.851; dictionary ratio 0.957. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - OAR 660-012-0060
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD841-PDF (ORD841-PDF)
+
+## At a glance
+
+OCR-derived text of ORD841-PDF. Not human-verified.
+
+## Full text
+
+BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                                 FOR THE COUNTY OF YAMHILL
+
+                     SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Approval of a Comprehensive Plan amendment                  _)
+from Public to Commercial and a zone change from Parks,                      )
+Recreation and Open Space (PRO) to Recreation Commercial                     )
+(RC); the subject property being located at 8243 NE Abbey                    )    Ordinance 841
+Road, Carlton, Tax Lot no. 5316-2800, and Declaring an                       )
+Emergency                                                                    )
+
+         THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the
+Board) sat for the transaction of county business on September 9, 2009, Commissioners Leslie
+Lewis, Kathy George and Mary P. Stern being present.
+
+        IT APPEARING TO THE BOARD that Bruce Bandstra applied for a Comprehensive
+Plan amendment from Public to Commercial and a zone change from Parks, Recreation and
+Open Space to Recreation Commercial, and
+
+           IT APPEARING TO THE BOARD that the Planning Commission heard this matter at
+a duly noticed public hearing on July 9, 2009 and voted unanimously to recommend approval of
+the application to the Board, and the Board held a duly noticed public hearing on September 2,
+2009, and, after hearing from the applicant and his representative (no opponents being present)
+voted unanimously to approve the application, NOW, THEREFORE,
+
+          IT IS HEREBY ORDAINED BY THE BOARD, that the application is approved as
+detailed in the Findings for Approval, attached as Exhibit "A" and by this reference incorporated
+herein. This ordinance, being necessary for the health, safety, and welfare of the citizens of
+Yamhill County, and an emergency having been declared to exist, is effective upon passage.
+
+           DONE this 9" day of September, 2009, at McMinnville, Oregon.
+
+ATTEST:                                 YAMHILL COUNTY BOARD OF COMMISSIONERS
+REBEKAH STERN DOLD tar                          Met                    Y (Ure
+County Clerk    yay                 ;                                  LESLIELEWIS
+
+By:                                                 te qt         hewn
+Deputy Anne Br tt                               issioner \             KATHY GEORGE
+
+APPROVED AS TO FORM:                        |         ;      .     .                  55
+      4       ,              /          Cominissioner                  MARY P. STE.
+
+Rick Sanai, Assistant County Counsel
+                                                             Accepted by Yamhill County
+                                                             Board of Commissioners on
+                                                             9         9fot. by Board Order
+                                                                 #057 5d
+DWT 13330739v1 00835 12-000003
+Exhibit "A" - FINDINGS:
+
+DOCKET:                         PAZ-02-09
+
+REQUEST:                        Approval of a Comprehensive Plan amendment from Public to
+                                Commercial and a zone change from PRO Parks, Recreation and
+                                Open Space to RC Recreation Commercial. The purpose of the
+                                change is to allow the expansion of the existing bed and breakfast
+                                to a “Country Inn” and to allow the serving of evening meals to
+                                guests,
+
+APPLICANT:                      Bruce Bandstra
+
+REPRESENTATIVE:                 Jeff Evans, Attorney at Davis Wright Tremaine.
+
+TAX LOTS:                       3331-100
+
+LOCATION:                       8243 NE Abbey Road, Carlton, Oregon
+
+CRITERIA:                       Sections 405, 601,   904, and 1208.02 of the Yamhill County Zoning
+                                Ordinance, applicable Comprehensive Plan policies, and OAR 660-
+                                12-0060 Transportation Planning Rule.
+
+         Background Facts:
+i>
+
+1,       Property size: 20.72 acres.
+
+2.       Access: Abbey Road, a paved County road.
+
+3,       On-site Land Use: The parcel is approximately a triangle with the hypotenuse along
+         Abbey Road. The northeast section of the parcel contains a pond that is used for trout
+         fishing.    The applicant estimates the pond is approximately 4.5 acres in size.
+         Approximately 3/4 of the pond is on the applicant’s property. The highest elevation is
+         300 feet which is at the northwest comer of the lot. The lowest elevation is a little less
+         than 160 feet along the southwest corner of the lot. The property is developed with
+         several structures including the main house, a carriage house, meditation/reading cottage
+         and several outbuildings.     There is a small open grass field near the middle of the
+         property with the remainder of the parcel forested.
+
+4.       Surrounding Land Use: Property in the surrounding area is generally in farm use.     Land
+         to the east, across Abbey Road, is owned and farmed by the Trappist Abbey. The
+         entrance to the Trappist Abbey is approximately % mile north of the subject parcel. The
+         uses in the surrounding area include grass and grain crops, livestock and vineyards.
+
+5.       Surrounding Zoning: Zoning to the north and east is EF-80, Exclusive Farm Use. Zoning
+         to the west is EF-40. The zoning south of the furthest point of the parcel is MR-1
+         Mineral Resource.
+
+DWT 13330739v} 0083512-000003                                                         B.0 01-560
+         Water: The existing dwelling on the subject property is served by an on-site well.
+
+         Sewage Disposal: Provided by an on-site septic system.
+
+         Fire Protection: Carlton Rural Fire District
+
+         Soils: The     Yamhill   County   Soil Survey   shows    approximately     2/3 of the property is
+         Carlton silt loam, agricultural Class II soils. The remaining third is made                      up of
+         Willakenzie Class IV soils and Wapato Class III soils.
+
+10.      Taxes: Classified as open space.      One acre is at market value.       The remaining acreage is
+         receiving farm deferral.
+
+ii.      Previous Actions and History: On June 20, 1979 the property was identified as part of
+         Ordinance 202. Ordinance 202 listed properties that qualified for an Exception to
+         Statewide planning Goals 3 and 4 based on the property being physically developed or
+         irrevocably committed to nonresource use.’ In 1994 the property owners were approved
+         for Site Design Review (Docket # SDR-01-94) to operate a retreat facility, which the then
+         owners named “His Hiding Place”. The owners at that time were offering lodging
+         accommodations in both the “Main House” and the “Bunk House.” In addition to the
+         lodging, the previous owners also hosted weddings throughout the summer and special
+         events for groups and individuals. The current owners of the subject parcel, Bruce and
+         Susan Banstra, requested approval for a similar use approval to allow the retreat center to
+         be used as a bed and breakfast and to host weddings              and similar events.      This was
+         approved through Docket SU-01-07.
+
+12.      Floodplain: FIRM 410249 0175 C, shows that the property, is not within the 100-year
+         flood hazard area.
+
+13.      Fish and Wildlife: Alvaough the property has a stream running through it, and a pond with
+         fish, the property is not identified as critical fish or wildlife habitat. (Approximately 1/4
+         of a mile downstream (southwest) the stream is identified as resident trout spawning and
+         rearing.)
+
+14,      Groundwater Limited Area: The property is not identified as being in a Critical or
+         Groundwater Limited Area.
+
+15.      Request:      The applicant desires to establish a “Country Inn.”            In the pre-application
+         conference Mr. Bandstra described the size of the facility he desired as being
+         approximately 15 rooms. The zoning ordinance does not have a separate classification of
+         “Country Inn.” The ordinance allows a “Motel” in the HC Highway Commercial zone.
+         The HC zone did not appear to be appropriate for this area as the property was not adjacent
+         to the highway and the definition in “Motel” did not specify dining or food service. The
+         RC Recreation Commercial zone allows a “Resort” which is defined as: Any area of land
+         or water used for open-land commercial or private recreation where overnight lodging,
+
+        ‘it should be noted that this application is significantly different from previous requests for
+lodging in the rural area because the subject property has had an exception from Goals 3 and 4 taken
+based on the property being built and committed to something other than resource use.
+
+DWT 13330739v1 00835 12-000003
+         meals, and related tourist services are provided in conjunction with such recreational use.
+         The existing recreational use on the property is the fishing pond. While the requested use
+         appears to fall within the definition of “Resort”, because there is not a category of
+         “Country Inn”, the decision-makers may want to consider adding a new category, either
+         through ordinance amendments or through approval of a similar use application.
+
+         Zone Change and Plan Amendment Provisions and Analysis
+Ip
+
+         Approval of a request for a zone change must be based on compliance with the standards
+         and criteria in YCZO Section 1208.02. These provisions are:
+
+         (A)      The proposed change is consistent with the goals, policies,         and any other
+                  applicable provisions of the Comprehensive Plan.
+
+         (B)      There is an existing demonstrable need for the particular uses allowed by the
+                  requested zone, considering the importance of such uses to the citizenry or the
+                  economy of the area, the existing market demand which such uses will satisfy, and
+                  the availability and location of other lands so zoned and their suitability for the
+                  uses aliowed by the zone.
+
+         (C)     The proposed change is appropriate considering the surrounding land uses, the
+                 density and pattern of development in the area, any changes which may have
+                 occurred in the vicinity to support the proposed amendment and the availability of
+                 utilities and services likely to be needed by the anticipated uses in the proposed
+                 district,
+
+         (D)   — Other lands in the county already designated for the proposed uses are either
+                  unavailable or not as well-suited for the anticipated uses due to location, size, or
+                  other factors.
+
+         (E)      ~The amendment is consistent with the current Oregon Administrative Rules for
+                  exceptions, if applicable.
+
+         Regarding criterion (A) above, the Applicant addressed all of the applicable goals and
+         polices of the Comprehensive Plan on pages 2-6 of the applicant’s narrative. Those
+         responses are sufficient to demonstrate compliance with this criterion and are
+         incorporated here by reference.
+
+         Criterion (B) and (D) are similar so they will be considered together. With Criterion (B),
+         the applicant needs to show there is an existing demonstrable need for the particular uses
+         allowed by the requested zone, considering the importance of such uses to the citizenry or
+         the economy of the area, the existing market demand which such uses will satisfy, and
+         the availability and location of other lands so zoned and their suitability for the uses
+         allowed by the zone. Similar to that is 1208.02(D), which requires showing that those
+         other parcels, already zoned for the proposed use are either unavailable or not as well
+         suited to the proposed use due to location, size or other factors.
+
+DWT 13330739v1 0083512-000003
+        To    address   these factors       the applicant    submitted   anecdotal   information   about his
+        experience with the Brookside Inn and the desires expressed by his clientele.              The guests
+        have requested dinners.    Related to that, the applicant has also received numerous
+        requests for dining related to their corporate meetings.     The Applicant’s narrative
+        response to criterion (B) and (D) are incorporated here as findings. The applicant’s
+        concluding paragraph to support 1208.02(B) states:
+
+                  “The success and growth of the Yamhill County wine industry is dependent upon
+                 the ability to attract tourists and visitors with alternatives for traveling to wine
+                 country destinations in other parts of the country. To the extent that Yamhill
+                 county can offer a variety of dining and lodging accommodations, the more likely
+                 it will be that Yamhill County can continue to enhance this sector of its economy.
+                 Brookside Inn is uniquely positioned to accommodate a portion of the existing,
+                 unmet market demand, and would like to satisfy a portion of that demand through
+                 the expansion of dining options and increased capacity.”
+
+        The statements in the application and the conclusion are directly in line with a draft
+        report on the Yamhill County Agri-Business Economic and Community Development Plan
+        related to The Future for Yamhill County Tourism.       The report states, “The most
+        significant and most promising opportunities to expand Yamhill County tourism appear
+        to include:
+
+                 Lodging: more lodging properties offering more rooms, a various price points -
+                 Jrom luxury to affordable, in all parts of the county with convenient access to the
+                 wineries.      Ancillary facilities; meeting rooms, restaurants, spas, etc.”
+
+        Near the top of page 6 it lists “Success Factors”. The draft report states, “Key ingredients
+        jor success in growing Yamhill County’s tourism sector are identified below:
+
+         i       Expanding        lodging   options:   The   most   immediate   need   is for   a variety    of
+                 additional lodging properties and more hotel rooms to accommodate overnight
+                 stays, across the county.
+                 Attracting travelers who stay in hotels and related establishments                is crucial.
+                 From 1991-2007, expenditures of Oregon lodgers increased year-to-year an
+                 average of 17% in comparison with a 6% increase in day travelers.”
+
+         There appears to be a need for additional accommodations and the ancillary facilities that
+         the applicant proposes to supply. That being said, the next question is whether other
+         lands in the County already designated for the proposed use are either unavailable or not
+         as well suited for the anticipated uses due to location, size or other factors. The RC zone
+         is not an abundant zone in the County. The only RC zone within this area was the Bayou
+         Golf Course, which has approximately 100 acres between two tax lots. Based on the
+         availability of other RC zones, it does not appear that other County zoned property is
+         available for the use.
+
+         One of the “other factors” that makes other locations not as well suited for the proposed
+         use is the existence of the small lake on the property. The lake is actually what appeared
+         to have spurred the owner to request the property be designated PRO in the late 1970's.
+
+DWT 13330739v1 0083512-000003
+         At that time the location was referred to as “Walden Pond.”     It would be difficult, if not
+         impossible, to find any other properties in the County that contain a similar arrangement.
+
+         Regarding criterion (C), public notice was mailed to surrounding property owners.      So far
+         no written comments have been received.     The existing structures and therefore the focus
+         of the use is located near the middle of the property. During the similar use application
+         that was processed in March of 2007 our office also received no objections from
+         neighboring properties. Jt appears the existing forest, the topography, and the layout of
+         the property all work together to make the use appropriate and compatible considering
+         the surrounding land uses.
+
+         Regarding the availability of utilities and services in the area, an expansion of the number
+         of rooms may need additional septic service. The lot appears io be large enough and
+         have adequate soils to allow for on site septic to serve the use. Other services such as
+         electricity, telephone, sheriff and fire protection already serve the property. No extension
+         of water or sewer service is being relied upon for this request.
+
+         Regarding criterion (E), exceptions to Goal 3 and 4 were already taken in 1979 the as part
+         of Ordinance 202. DLCD has written in a letter stating that “[u]nless the comty and
+         applicant can show that the use will be limited by application of a base zone and/or a
+         limited use overlay zone to allow only a “rural” use consistent with Goal 14, a reasons
+         exception to Goal 14 is required.” As DLCD suggested, the Applicant requested that the
+         County utilize Section 904 of the Yamhill County Zoning Ordinance to place a Limited
+         Use Overlay on the rezoned property. This would ensure compliance with Goal 14, and
+         no exception would be necessary. The limited use overlay proposed in the Staff Report is
+         consistent with DLCD’s approach to Goal 14 in other jurisdictions, and would result in
+         less dense development potential than what is currently allowed. As displayed in the
+         codes for many surrounding and similarly situated counties in the state, including Polk,
+         Linn, Washington, and Douglas counties, the provisions from the Marion County code
+         cited in the Staff Report (incorporated here by reference) are consistent with DLCD’s
+         efforts to ensure compliance with Goal 14. The proposed limitations carried out through
+         the Limited Use Overlay District are consistent with the rural commercial uses DLCD
+         has allowed in other counties throughout the state, including Marion County, and are thus
+         consistent with Goal 14. In addition, as discussed in the Staff Report, the requested
+         Recreation Commercial District has larger minimum lot size than does the existing PRO
+         zone. This further ensures that the rural nature of the property and the surrounding area
+         will be preserved.
+
+         Goal 12 (Transportation Rule) Provisions and Analysis
+is)
+
+         The provisions of the Transportation Planning Rule, implementing Goal 12, must be
+         addressed. OAR 660-012-0060 contains the provisions that must be met:
+
+         (1)      Amendments to functional plans, acknowledged comprehensive plans, and land
+                  use regulations which significantly affect a transportation facility shall assure
+                  that allowed land uses are consistent with the identified function, capacity, and
+                  level of service of the facility. This shall be accomplished by either:
+                  (a)      Limiting aliowed land uses to be consistent with the planned function,
+                           capacity and level of service of the transportation facility;
+
+DWT 13330739v1_ 0083512-000003
+                  (2)      Amending the TSP [Transportation System Plan] to provide transportation
+                           facilities adequate to support the proposed land uses consistent with the
+                           requirements of this division; or,
+                  (c)  _ Altering land use designations, densities, or design requirements to reduce
+                          demand for automobile travel and meet travel needs through other modes.
+         (2)     A plan or land use regulation amendment significantly affects a transportation
+                 facility if it:
+                  (a)     Changes the functional classification of an existing or planned
+                          transportation facility;
+                 (b)      Changes standards implementing a functional classification system;
+                  (c)     Allows types or levels of land uses which would result in levels of travel or
+                           access   which   are   inconsistent   with   the functional   classification   of a
+                           transportation facility; or
+                  (a)      Would reduce the level of service of the facility below the minimum
+                           acceptable level identified in the TSP.
+
+         Regarding (1) and (2), the applicant has not submitted a traffic study. However, much of
+         the use is already established on the property. The applicant desires to increase the
+         number of rooms to rent and allow limited dining opportunities. The applicant maintains
+         that Abbey Road is well under-capacity and it is reasonable to presume that the proposed
+         minimal increase in daily visitors will not have significant affect on the transportation
+         system. While this appears to be true, the Applicant will be required to submit a
+         transportation impact analysis as a condition of approval.        Given the limitation on
+         allowed uses pursuant to the Limited Use Overlay and larger minimum lot size of the RC
+         zone, the Board finds that the comprehensive plan amendment and zone change do not
+         significantly affect a transportation facility.
+
+         Limited Use Overlay Provisions
+iy
+
+         OAR     660-04-18(3){a)     states that when    a reasons      exception   is taken, plan and zone
+         designations must limit uses to only those that are justified in the exception.
+
+         Section 904.03 of the YCZO contains provisions for limited use overlays. It states:
+
+         (A)      When the Limited Use Overlay District is applied, the uses permitted in the
+                  underlying zone shail be limited to those specifically referenced in the ordinance
+                  adopting the Limited Use Overlay District.
+
+         (B)      The Limited Use Overlay District may be used to require                   conditional    use
+                  approval for uses normally permitted outright.
+
+         (C)   — Reasonable conditions may be imposed in the Limited Use Overlay District as are
+                 necessary to assure compliance with the provisions of the Comprehensive Plan
+                 and this ordinance,
+
+         (D)      Until the overlay has been removed or amended, the only permitted uses in an LU
+                  district shall be those specifically referenced in the adopting ordinance.
+
+DWT 13330739v1 00835 12-000003
+         Because the RC Recreation Commercial zone allows other commercial uses which have
+         not been evaluated to determine whether they are appropriate to the area, it is appropriate
+         to apply a Limited Use Overlay to allow uses on the rezoned area to a 20-room Country
+         Inn with the following limits on accessory uses:
+
+                    The property is not approved for a restaurant.’
+
+                    Lunch or dinner may be served to overnight guests of the Country Inn or an
+                    equivalent number equal to the capacity of the Inn.
+
+                    On-site gatherings, with meal service, are limited to no more than 200 people.
+
+                    Additional construction on the property is limited to a footprint of no more than
+                    3,500 square feet.
+
+THE BOARD FINDS:
+
+1.       The request is for a Comprehensive Plan amendment from Public to Commercial and a
+         zone change from PRO to RC.
+
+2.       The proposed zone change is consistent with Comprehensive Plan goals and policies.
+
+3.       An exception to Goal 14 is not required because the uses are limited by application of a
+         limited use overlay consistent with the provisions of Section 904.03 of the YCZO.
+
+4,       The proposed change is consistent with the zone change criteria of Section 1208.02.
+
+5.       The proposed change complies with the Transportation Planning Rule.
+
+DECISION:
+
+The request by Bruce Bandstra for a Comprehensive Plan amendment from Public to Commercial
+and a zone change from PRO Parks, Recreation and Open Space to RC Recreation Commercial is
+hereby approved, with the following conditions of approval:
+
+1.       The property is not approved for a restaurant, as defined in the findings for the limited use
+         overlay.
+
+        Lunch or dinner may be served to overnight guests of the Country Inn or an equivalent
+        number based on the capacity of the Inn.
+
+         On-site gatherings are limited to no more than 200 people.
+
+* For purposes of this Ordinance, a “restaurant” is defined as a facility that derives more than
+fifty percent of its revenue from the preparation and sale of food and drink to the public in a
+format that serves walk-in customers without reservations and provides more than a single-
+seating per meal.
+DWT 13330739v1 0083512-000003
+  4.       Additional construction on the property is limited to
+                                                                 a footprint of no more than 3,500
+           square feet.
+
+                                                                                      "B.0.01-S60
+DWT 13330739v1 0083512-000003
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.9% of
+the word sequence, and on 85.1% of the figures. Dictionary-recognizable words: 95.7%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

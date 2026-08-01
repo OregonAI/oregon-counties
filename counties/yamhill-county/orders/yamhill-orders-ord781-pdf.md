@@ -1,0 +1,4748 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord781-pdf
+title: 'ORD781-PDF'
+doc_type: ordinance
+citation: 'ORD781-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17438/ORD781-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 10f5e13f49da3b0b0eb04fd9330189a9b1469bb7f7bccbca547e534c5ab1d164
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.918; figure agreement 0.706; dictionary ratio 0.921. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 162.075
+    - ORS 195.036
+    - ORS 195.145
+    - ORS 197.251
+    - ORS 197.296
+    - ORS 197.298
+    - ORS 215.110
+    - OAR 660-004-0010
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 92%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD781-PDF (ORD781-PDF)
+
+## At a glance
+
+OCR-derived text of ORD781-PDF. Not human-verified.
+
+## Full text
+
++ eat
+
+                                                                                    06    APR 5     AT 35
+                 IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+                                   FOR THE COUNTY OF YAMHILL
+                     SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Approving an Urban Growth Boundary Amendment               +)
+for the City of Newberg to Add Eight Parcels currently within the           )
+Newberg Urban Reserve Area, Docket no. PA-03-05, Tax Lots                   )      ORDINANCE 781
+3218AB-1000, 1001, 1100, 1101, 1200, 1300, 1400 and 1600,                   )
+Applicant Coyote Homes Inc., and Declaring an Emergency                     )
+
+         THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board) sat for the
+transaction of county business on Wednesday, March 29, 2006, Commissioners Leslie Lewis, Kathy George.
+and Mary P: Stern being present.
+
+       IT APPEARING TO THE BOARD that Coyote Homes Inc. applied for an urban growth boundary                          |
+amendment to include to include eight parcels that are currently within Newberg Urban Reserve Area, tax               |
+lots 3218AB-1000, 1001, 1100, 1101, 1200, 1300, 1400 and 1600.
+
+         The Newberg Urban Area Management Commission (NUAMC) and Newberg City Council held duly
+noticed public hearings on this application and it was approved by both bodies. A duly noticed public hearing
+was held March 15, 2006, before Yamhill County Board of Commissioners. The applicant appeared, no
+opponents appeared, and the Board voted 3-0 to approve the application.
+
+         NOW,    THEREFORE,     IT IS HEREBY     ORDAINED      BY THE BOARD:
+
+    The application is approved as detailed in Exhibit “A”, attached and hereby incorporated into this
+ordinance. This ordinance, being necessary for the health, safety, and welfare of the citizens of Yamhill
+County, and an emergency having been declared to exist, is effective upon passage.
+
+DONE this 29" day of March, 2006, at McMinnville, Oregon.
+
+ATTEST                                    YAMHILL COUNTY BOARD OF COMMISSIONERS
+JAN COLEMAN                     sida,        7              IX Norse.
+                              BOARD Op My Chbir             U "LESLIE LEWIS
+
+                                                           hee                   GEORGE
+
+APPROVED
+       4Ail      él. y
+                         ry
+                AS TO FORME rrnve"™            a
+                                          Commissioner             MARY P. STERN *
+Rick Sanai
+Assistant County Counsel                  \\Yam-main\ddmin\Users\sanair\L U\CoyoteWillcutsUGBAmendment.wpd
+
+                                                                                                  Ordinance 781
+                                                                                  B.0.0-205                  —Pase!
+Exhibit “A” - Findings
+
+DOCKET NO.:                               PA-03-05 (Newberg File No. UGB-05-014)
+
+REQUEST:                                  To amend the Newberg Urban Growth Boundary to include eight
+                                          parcels that are currently within Newberg Urban Reserve Area
+                                          (URA).
+
+APPLICANT:                                Coyote Homes Inc.
+
+TAX LOTS:                                 3218AB-1000, 1001, 1100, 1101, 1200, 1300, 1400 and 1600
+
+LOCATION:                                 Generally located northwest of the intersection of Crater Lane and
+                                          Lynn Drive
+
+COMPREHENSIVE            PLAN:    VLDR Very Low Density Residential (The property is also within the
+                                 Newberg Urban Reserve Area)
+
+ZONE:                            VLDR-1     Very Low Density Residential
+
+CRITERIA:                                 Newberg Urban Area Management Agreement, Statewide Planning
+                                          Goals, Yamhill County Comprehensive Plan Goals and Policies
+                                          and the Oregon Administrative Rules.
+
+FINDINGS:
+
+A. Background Facts
+
+L.      Size: Approximately 9.82 acres.
+
+2:      Access: Crater Lake and Lynn Drive to the east, and Chehalem Drive to the west. Chehalem Drive
+        is a county road.
+
+        On-site Land Use: The subject parcels are situated on fairly flat, open terrain. Tax Lots 3218AB-
+        1000 and 1400 are vacant fields, and appear suitable for housing development. Tax Lots 3218AB-
+        1001, 1100, 1101, 1200, 1300 and 1600 each contain single-family dwellings situated on open fields,
+        and are sparsely forested. They also appear to be suitable for future development. Tax Lot 3218AB-
+        1001 also contains a machine shop, which was granted as a home occupation in 2000 (see Previous
+        Actions, below).
+
+        Current Zoning: VLDR-1 Very Low Density Residential.
+
+        Surrounding Land Use: The surrounding properties to the south and west are rural residential lands,
+        and appear to be in light farm use with a mixture of grass and grain crops. Forest cover is sparse. The
+        land to the north and east is in the Newberg city limits and is in residential use.
+
+        Surrounding Zoning: Zoning to the south and west is VLDR-1. To the north and east the parcel is
+        bordered by the Newberg City limits, so city zoning applies.
+
+        Water: City water will be available once the parcels are annexed.
+                                                                                                   B.0-0@-205
+Docket PA-03-05 (Newberg City Docket UGB-05-013)
+Page 3
+
+            Sewage Disposal: City sewer will be available once the parcels are annexed.
+
+            Fire Protection: Newberg Rural Fire District
+
+10.         Soils: Woodburn, rated as agricultural Class II soil.
+
+11.          Taxes: Parcels are taxed at full market value.
+
+12.         Previous Actions: Tax Lot 3218AB-1000 - A partitioning application was approved in 1994 which
+            created one new parcel, Tax Lot 3218AB-1001 (Docket P-7-94). Tax Lot 3218AB-1001- In 2000,
+            a conditional use application for a home occupation to allow operation of a machine shop was
+            approved. Tax Lot 3218AB-1100 - A partitioning application was approved in 1993 which created
+            one new parcel, Tax Lot 3218AB-1101 (Docket P-14-93). Tax Lot 3218AB-1300 - A partitioning
+            request was approved in 1978 which created Tax Lots 3218AB-1701 and 1702 (Docket P-889-78).
+            Tax Lot 3218AB-1400 - A minor partitioning request was approved in 1992 which created Tax Lot
+            3218AB-1401 (Docket P-28-92). A lot-line adjustment was approved in 1998 which transferred 4
+            acre from Tax Lot 3218AB-1400 to Tax Lot 3218AB-1401. Two additional lot-line adjustments
+            were approved in 2000, each involving Tax Lots 3218AB-1400 and 1401. The first action adjusted
+            each parcel to approximately 1.04 acres. The second lot-line adjustment reconfigured the lot line into
+            two l-acre parcels.
+
+13.         Exception: On May 3, 1979 Yamhill County adopted Exceptions Statement I which included the
+            property in Code Area 1.5, West Chehalem Drive exception area. This area was challenged and
+            Exceptions Statement II was adopted by the Board of Commissioners April 23, 1980. At that time
+            an exception to Goals 3 and 4 were taken based on the area being committed to rural residential use
+            and the property was given a VLDR Very Low Density Residential comprehensive plan designation.
+            Tn 1995 Yamhill County and the City of Newberg adopted the Urban Reserve Area. Yamhill County
+            adopted Ordinance 596 on July 19, 1995 which identified the subject parcel as part of Newberg
+            Urban Reserve Area F.
+
+14.         Fish and Wildlife:              The property is not identified as being on any county adopted fish and wildlife
+            habitat plan.
+
+15.         Coordinated Population Projection: Under ORS 195.036 cities are required to coordinate their
+            population projections with the counties. The last coordinated population projection for Newberg
+            is 33,200 for the year 2020. On November 29, 2005 the city of Newberg mailed a letter to Yamhill
+            County requesting that their revised population projections be recognized as a coordinated
+            population forecast.
+
+B.    Urban Growth Boundary Amendment Criteria
+
+1.          Criteria for UGB amendment requests include the Newberg Urban Area Growth Management
+            Agreement, the statewide planning goals, and the city and county Comprehensive Plans. The review
+            standards from the first three of these are detailed in the city's staff report, appended and hereby
+            incorporated into this Ordinance. The application did consider the Yamhill County Comprehensive
+            Plan and much of the justification of Newberg’s Comprehensive Plan criteria follows similar
+            reasoning for justification of the Yamhill County Comprehensive Plan Criteria. Thus that
+
+\\Yam-main\Admin\Users\sanair\LU\CoyoteWillcutsUGBAmendment.wpd.
+DOCKET PA-03-05 (Newberg File No.: UGB-05-13)
+Page 4
+
+            justification is hereby incorporated and adopted by this Ordinance.
+
+             Even thought the majority of the Yamhill County Goals and Policies are aspirational and not to be
+             mistaken for, or treated as, approval criteria it is appropriate they be considered.
+
+2            The Yamhill County Comprehensive Plan, Section I.A., Goal 1, directs County:
+
+                         To encourage the containment of growth within existing urban centers,
+                         provide for the orderly, staged, diversified and compatible development of
+                         all of the cities of Yamhill County, and assure an efficient transition from
+                         rural to urban land use.
+
+            In 1995 the urban reserve area project was completed. The Newberg Urban Reserve Area (URA)
+            land supply was intended to provide adequate land for the City of Newberg needs to 2020. The
+            subject parcel was included in the URA. The main issues that appear to need to be resolved are the
+            transportation issues and the transfer of jurisdiction of roadways as discussed in Section C. The
+            March, 2005 Newberg Transportation System Plan notes that at such time when Newberg annexes
+            land along Chehalem Drive into its UGB the jurisdiction would transfer to Newberg. Adjacent
+            properties to the north and east are within the City limits so conversion of this block of land is a
+            natural progression of development in this area.                                                :
+
+3.          The Yamhill County Comprehensive Plan, Section II, Goal 2, Policy a. states:
+
+                         Yamhill County will continue to preserve those areas for farm use which exhibit Class I
+                         through IV soils as identified in the Capability Classification System of the U.S. Soil
+                         Conservation Service.
+
+            The majority of the property is made up of high-value farmland which consists of agricultural Class
+            LIV soils. However, as noted above an exception to Goal 3, related to the protection of agricultural
+            land was taken in 1980. The exception was based on the subject parcel and surrounding area being
+            irrevocably committed to rural residential use. Therefore the goals and policies related to the
+            protection of farm land do not apply to the subject parcel.                    ;
+
+C.   Urban Growth Boundary Transportation Issues
+
+1.          The Yamhill County Transportation Plan Section 5.2.2 has Goals and Policies that deal with issue
+            of UGB amendments and Annexations. Goals 4, 5, and 6 of this section state:
+
+            4,           It is the policy of Yamhill County to coordinate the County Transportation System Plan with
+                         the transportation plans of the ten incorporated cities within Yamhill County. The County
+                       . will emphasize continuity in the classification of roads and appropriate design standards
+                        for roadways which link urban areas with rural areas outside Urban Growth Boundaries.
+                        At the time of UGB amendment Yamhill County and the City involved shall agree on
+                        classification and design standards of all County Roads within the proposed UGB area
+                        prior to finalization of the amendment.
+
+            de           County policy will encourage the expeditious transfer _of jurisdiction of roadways        to
+
+\WYam-main\Admin\Users\sanair\LU\CoyoteWillcutsUGBAmendment.wpd
+DOCKET PA-03-05 (Newberg File No.: UGB-05-13)
+Page 5
+
+                         incorporated cities in conjunction with annexation. It is the policy of Yamhill County that
+                         developers of property who propose annexation and who have frontage on a road that does
+                         not meet city road standards shall have the primary responsibility for upgrading the road
+                         to city standards. Roads shall be upgraded at the time of annexation, or the developer shall
+                         sign an agreement with the city to upgrade the road at the time of development. Transfer
+                         ofjurisdiction shall require the approval of both the County and the City in accordance with
+                         the provisions in Oregon Revised Statutes 373.270.
+
+            6.           It is the policy of Yamhill County to require the transfer, or an agreement to transfer with
+                         specific time lines and milestones as part of the agreement, of jurisdiction of County
+                         roadways within urban growth boundaries to their respective cities at the time of
+                         annexation.
+
+            These items are addressed in the application prepared by SR Design LLC and the City’s findings for
+            ordinance 2006-2636, both of which are appended and hereby incorporated into this Ordinance,
+            which also adopts their findings and conclusions.
+
+\\Yam-main\Admin\Users\sanait\LU\CoyoteWillcutsUGBAmendment.wpd
+   ;                                                                   UGB AMENDMENT APPLICATION                                                         -_—")
+           | =f Sriseco                                               (QUASI-JUDICIAL REVIEW)
+            ~~                1S                             .        OFFICE USE      ONLY:                 (Pre-Application Conference is required on Type 3 )
+                                                                      Total Ap Fee:                    File#+                Project Cost:
+                                                                      Less Pre-Ap Fee:                 Date:                  Receipt:
+                                                                      Balance Due:                     Date:,                Receipt:
+  TYPES - PLEASE CHECK ONE:
+ -€ Urban Growth Boundary Amendment
+ __ Other: (Explain),
+
+   APPLICANT INFORMATION:
+
+                                                                                                                                                                     —
+  APPLICANT: Mike Willcuts.         <> €&- [“Tees                          Corer              Hoon       / Ke,
+   ApprEss: P.O. Box 490 Newberg, OR_97132
+                                  MOBILE:                              CCA:                      * (503-538-3599
+   PHONE: 503-538-0984
+~ OWNER (if different from above): See attached list of owners                           PHONE-
+       ADDRESS: See attached list of owners
+  ENGINBER/SURVEYOR: Steve Roper, P.E., SR Design LLC                                              PHONE: 503-469-1213
+       ApprESS: 8196 SW Hall Blvd., Suite 232, Beaverton, OR 97008
+
+       GENERAL INFORMATION:
+
+  PROJECT NAME:.                                                               PROJECT    LOCATION: Between Crater Land and Chehalem Dr. North of Columbia Dr.
+
+                          : Growth Boundary Amendment
+                       Urban
+  PROJECT DESCRIPTION/USE
+                                                                                                                            SITE SIZE: approx 8.82;       acre: Dd
+  MAP/TAX LOT NO.(i.e. 3200AB-400); Map 32 18AB, Lots 1000, 1001, 1100, 1200, 1300, 1400, and 1600 ZONE: VLDR-1_
+
+  COMP PLAN DESIGNATION: VLDR                        :               TOPOGRAPHY::. Relatively FLat
+  CURRENT UsE: Rural Single Family Residential
+  SURROUNDING USES:                   :        .
+ Nortu: R-1/ 6.6 Single Family Residential                                               souTH; Rural Residential
+  EAST: Rural Residential                                                                west; R-1 Single Family Residential
+
+    SPECIFIC PROJECT CRITERIA AND REQUIREMENTS ARE ATTACHED
+                                                                                                               r of Consent
+  General Checklist: [1 Fees O Noticing Information 0 Title Report O Criteria Response O Owner Signature/Lette
+  UGB Amendment Checklist: 0 Site Plan (Map & Legal Description D1 Dedications D Easements
+
+                                                          ntgih eVare in all respects true, complete, and correct to the best of my knowledge and
+                                                           eA tefl standards, regulations, and procedures officially adopted by the City of
+                                                          otha giving applicant authorization, or submit letters of consent. Incomplete or
+
+                                                            FIG ~.                                 See attached list of owners
+                                                   ° :           hp                                Owner Signature                .                  :      Date
+  Applicant Signatass———
+
+ MMick&- R Wud                                           Se. |Thes
+  Print Name               Carine            How            oO.                                   Print Name
+: Attachments: General Information,       Criteria, Noticing Procedures, City of Newberg Fee Schedule, Checklist, Yamhill County
+  Application, Yamhill County Fee         Schedule               ;
+
+                                                                                                        a
+
+                                                                                                                                         G.0-0l2-20S
+       ‘To your knowledge, do any of the following natural hazards exist on the property?
+                                                                                                               [] Steep Splopes
+        [] Floodplain                                     [] Areas of erosion
+        [] Fish or wildlife habitat                       [] Soil limitations for building or septic
+
+THE APPLICANT MUST SUBMIT:
+                                                                                                                            notarized.
+1.   . Completed application form, signed by the applicant and property owner (if different). The owner's signature must be
+                                                                                                                          access roads,
+2.    Site plan drawn to scale showing property lines, location and size of all existing buildings, existing and proposed
+      and location and size of any proposed new buildings.
+                                                                                                                         form.
+3.    Written justification of how the application complies with the approval criteria. Attach additional sheets to this
+
+4. _ Filing fee (make check payable to Yamhill County).
+
+                                  NOTE: Fees are not transferrable or refundable.
+           Se
+
+                                                                                                          is true and correct to the
+| hereby declare under penalties of false swearing (ORS 162.075 and 162.085) that the above information
+                                                                                                           me from complying with
+best of my knowledge. | understand that issuance of an approval based on this application will not excuse
+other effective ordinances and laws regulating the use of the land and buildings.
+
+| hereby grant permission for and consent to Yamhill               Cquin , its officers, agents, and employees coming upon the above-described
+                                                                       never it is reasonably necessary for the          purpose of processing this.
+property to gather information and inspect the proper’
+
+                                                                                                           G          paler
+application.
+
+                                                                                                                                                Date
+
+                                                        See attached list of owners                                                                    —
+                                                        Property owner's signature (if different)                           ,                   Date
+
+State of         Ore On On
+
+County of        Na wal ri \
+
+                                      {4%              day of          .   Qe     D Lemlhel                                               20,    OF
+Signed before me on this
+
+by              Qpoi         Ss Wada)
+
+                                ICIAL SEAL                                        Notary Public for Oregon WA              de             4 hb
+                                  WADLOW                                          My Commission expires”        Warn            “AG       S70)
+                                      :C-OREGON                                                                  .                    ‘
+                                  JN NO. 331156
+                                     : MAR. 29, 2009
+                                                                                      rN B. tj sh F)
+
+                                         Property Owner Consent                             ined        -
+
+       We, the undersigned, are the legal recorded owner(s) and herby approve the request for
+       this Urban Growth Boundary Amendment Application
+
+        hereby declare under penalties of false swearing (ORS 162.075 and 162.085) that the
+        above information is true and correct to the best of my knowledge. I understand that
+        issuance of an approval based on this application will not excuse me from complying
+       -with other effective ordinances and laws regulating the use of the land and buildings.
+
+       Thereby grant permission for and consent of Yamhill County, its officers, agents, and
+       employees coming upon the above-described property whenever it is reasonably
+     _ necessary for the purpose of processing this application. |
+
+    * Property Owner — Tax Lot #3218 AB 1400
+
+       sinbeec                  weal      hoe Me Onmae               Date   Ld ee 1      ee 20E¢
+
+       Printed Name_—?              nes Tob   Ee.    A2ieork
+
+       Stateof           O feqon
+
+       County of           Yoon bill
+
+        Signed before me on this              ya                day of September, 2005
+
+       By        Shoal          <   UDadlos      \
+
+                OFFICIAL SEAL                                                                      WA
+              SHAI S WADLOW               Notary Public for Oregon   A,       ° WA      >
+         NOTARY PUBLIC-OREGON
+            COMMISSION NO. 391156
+MY COMMISSION EXPIRES MAR. 29, 20091      My Commission expires_     Naw       29     9009
+                                                                                           Heresrd.
+                                      Property Owner Consent
+
+        We, the undersigned, are the legal recorded owner(s) and herby approve the request oa
+        this Urban Growth Boundary Amendment Application
+
+        I hereby declare under penalties of false swearing (ORS 162.075 and 162.085) that the
+        above information is true and correct to the best of my knowledge. I understand that
+        issuance of an approval based on this application will not excuse me from complying
+        with other effective ordinances and laws regulating the use of the land and buildings.
+
+         I hereby grant permission for and consent of Yamhill County, its officers, agents, and
+        employees coming upon the above-described property whenever it is reasonably
+        necessary for the purpose of processing this application.
+
+      * ‘Property Owner — Tax Lot #3218 AB 1100
+
+                             :                                                           aa oY
+         Signature                                                 Date             g - AEDS
+
+         Printed Name__£ [zah OK                LZ Has cock
+
+         State of     Ore aon
+
+         County of      Yamlail\
+
+         Signed before me on this.      gg                      day of 2 piem bec. 2005
+
+        By           War          S Und los)
+
+              SS TAALSEAL              Notary Public for Oregon    Ln           F    4      /    LLL.   »)
+            SHAI S WADLOW                                           Nt                     9
+f        NOTARY PUBLIC-OREGON                     iSSi      i
+          COMMISSION NO. 391156        My Gommunsion expires              acc        AT.        1004
+MY COMMISSION EXPIRES MAR. 29, 2008
+                                            Property Owner Consent
+
+         We, the undersigned, are the legal recorded owner(s) and herby approve the request for
+         this Urban Growth Boundary Amendment Application
+
+         I hereby declare under penalties of false swearing (ORS 162.075 and 162.085) that the
+         above information is true and correct to the best of my knowledge. I understand that
+         issuance of an approval based on this application will not excuse me from complying
+         with other effective ordinances and laws regulating the use of the land and buildings.
+
+         Lhereby grant permission for and consent of Yamhill County, its officers, agents, and
+         employees coming upon the above-described property whenever it is reasonably
+         necessary for the purpose of processing this application.BY APPOI~TMENT OLY Wed
+
+         Property Owner — Tax Lot #3218 AB 1600
+
+         signature Mantes,             Zl   penecnaledl Ladd              Date         Fd Ff- 0S
+
+         Printed Name        2 rive.         Fitzgerald                   Ladd
+
+         State of    Oreg On
+
+         County of       Va mls Uf
+
+         Signed before me on this                [4 Yh               day of September 20 0S
+         By      Shai        S Wradlow)
+
+              P ie ata                      Notary Public for owyn            LL, In     d     YJ de>
+
+wD                                                                               ah      4 F   si   9
+          NOTARY, PUBLIC-OREGON                          ission expires   \
+                                             My-Co:
+           COMMISSION NO. 391156
+                            29, 2009
+ MY COMMISSION EXPIRES MAR.
+                                 Property Owner Consent               (‘oT *
+
+We, the undersigned, are the legal recorded owner(s) and herby approve the request for
+this Urban Growth Boundary Amendment Application
+
+I hereby declare under penalties of false swearing (ORS 162.075 and 162.085) that the
+above information is true and correct to the best of my knowledge. I understand that
+issuance of an approval based on this application will not excuse me from complying
+with other effective ordinances and laws regulating the use of the land and buildings.
+
+I hereby grant permission for and consent of Yamhill County, its officers, agents, and
+employees coming upon the above-described property whenever it is reasonably
+necessary for the purpose of processing this application.
+
+                fl
+Property Owner/+/Tax Lot #3218 AB 1000
+
+Signature      a                   <    Aus                Date       ashe        KT
+
+Printed Name th Naa              J here        S          Ose                Hip ay          qa le
+
+Stateof         © ea ov)
+
+County of           Vow   Will
+
+Signed before me on this         \ an                 day of      _Sse pte mbec    , 20 OS
+
+By        Shai         Sib   Yudlou)                                               :
+
+       OFFICIAL SEAL
+     sSHAI S$ WAD                Notary Public for Oregon. WA         r de LLib.>
+
+                                  My Commission expires   Macdh         29 ' 200       9
+                                                                                     Coy oT h
+                                          Property Owner Consent
+
+   We, the undersigned, are the legal recorded owner(s) and herby approve the request for
+   this Urban Growth Boundary Amendment Application
+
+    I hereby declare under penalties of false swearing (ORS 162.075 and 162.085) that the
+    above information is true and correct to the best of my knowledge.          I understand that
+    issuance of an approval based on this application will not excuse me from complying
+
+                                                                                                    re
+   with other effective ordinances and laws regulating the use of the land and buildings.
+
+   I hereby grant permission for and consent of Yamhill County, its officers, agents, and
+   employees coming upon the above-described property whenever it is reasonably
+   necessary for the purpose of processing this application.
+
+    Property Ownep— Tax Lot #3218 AB 1200
+                                                                                          at
+
+    Signature    5                                 x                  Date     oe     I
+                     v4                   lag
+
+   Printed Nan Mare                             jihad S                      Crone Hors De
+
+    Stateof                reg ov
+
+    County of             ewes Wn. il \
+
+    Signed before me on this               \o Mh                 day of September. 20 OS
+
+    By.         Shai           S     wWadlouwd
+
+                orethsiow
+              SHAI S WADLOW
+          NOTARY PUBLIC-OREGON        -
+                                                       ;
+                                           Notary Public for Oregon   Lau fu    xf     UldbcD
+           COMMISSION NO. 391156                                      Mach     29      Zaoy
+                EXPIRES MAR. 29, 2009      My   Commission expires
+MY COMMI SSION
+                                                                                                Qayere
+
+                                          Property Owner Consent
+
+       _ We, the undersigned, are the legal recorded owner(s) and herby approve the request for
+         this Urban Growth Boundary Amendment Application
+
+        I hereby declare under penalties of false swearing (ORS 162.075 and 162.085) that the
+        above information is true and correct to the best of my knowledge. I understand that
+        issuance of an approval based on this application will not excuse me from complying
+        with other effective ordinances and laws regulating the use of the land and buildings.
+
+        I hereby grant permission for and consent of Yamhill County, its officers, agents, and
+        employees coming upon the above-described property whenever it is reasonably
+        necessary for the purpose of processing this application.
+
+        Property Owner — Tax          Lot B28 AB 1300                                       }
+
+                         fre oJ                                                                 ot           lo
+      . Signature                                 na T                Date          G       / g Je
+
+        Printed NamelA wre                        iS             (Aes                   Nf,              a5 /
+                                                                                                                  4
+
+        State of     Occa, on
+
+        County of     Youn lai L\
+
+        Signed before me on this                 yah             day of      Septem lef, 20057
+
+             OFFICIAL SEAL                 Notary Public for Oregon   WA        .       f        Wht,    )
+           SHA! S WADLOW                                        8
+        NOTARY PUBLIC-OREGON
+                              6                               ies
+                                           My Commission ex pires     Vacch             29, 2009
+         COMMISSION NO. 39115
+                           29, 2009          y                                                   200)
+MY COMMISSION EXPIRES MAR.
+                                        Property Owner Consent                       Wetueiars
+
+       We, the undersigned, are the legal recorded owner(s) and herby approve the request for
+       this Urban Growth Boundary Amendment Application
+
+       I hereby declare under penalties of false swearing (ORS 162.075 and 162.085) that the
+       above information is true and correct to the best of my knowledge. I understand that
+       issuance of an approval based on this application will not excuse me from complying
+       with other effective ordinances and laws regulating the use of the land and buildings.
+
+       I hereby grant permission for and consent of Yamhill County, its officers, agents, and
+       employees coming upon the above-described property whenever it is reasonably
+       necessary for the purpose of processing this application.
+
+       Property Owner — Tax Lot #3218 AB 1001
+
+       Signature LU.                    O    Ve                       Date    i 2 5-4 ae
+
+       Printed Name      VAL Usta~             Loa re      % (eon
+
+       Stateof       Ore ap ay
+
+       County of        Yow       ith
+
+       Signed before me on this              nard                 day of Se ote mle 2>     2005
+
+       By        Sat        S         Urdlowd
+
+                                                                                                 p)
+                                            Notary Public for Oregon Lh       dd Ld          ME       )
+              OFFICIAL SEAL
+            SHAIS WADLOW                             tos      F
+         NOTARY PUBLIC-OREGON
+                                            My Commission expires     Uarrh     9,       IdaMA
+          COMMISSION NO. 391156
+MY COMMISSION EXPIRES MAR. 29, 2009
+                       September 23, 2005
+
+       REQUEST FOR
+        Urban Growth
+Boundary Amendment
+
+ City of Newberg
+    Map # 32 18AB Lots #1000, 1001, 1100,    .
+                1200, 1300, 1400, and 1600 -
+
+                                  AGENT:
+                             SR Design LLC
+                      Contact: Jeff Caines
+             8196 SW Hall Blvd., Suite 232
+                        Beaverton, OR   97008
+                     office (503) 469-1213
+                        fax (503) 469-8553
+
+                             APPLICANT:
+                        Coyote Homes Inc.
+                   Contact: Mike Willcuts
+                              P.O. Box 490
+              ~       Newberg, OR 97132
+                            (503) 538-0984
+
+                              G.0- 06-205
+                               oye   :
+|. APPLICATION / GENERAL        :
+  INFORMATION / REQUEST    .
+Table of Contents
+                      °
+
+             APPLICATION / GENERAL INFORMATION / REQUEST
+
+      Il.    UGB CRITERIA & FINDINGS
+
+     Tl.     REDUCED PLAN SET
+
+             APPENDIX / EXHIBITS
+
+            Exhibit 1 - Tax Maps
+            Exhibit 2 — Comprehensive Plan / Urban Reserve Map
+            Exhibit 3 — Zoning Map           ;
+            Exhibit 4 — Study Area “F” (Newberg Urban Reserve Area Project)
+            Exhibit 5 — Title Reports
+            Exhibit 6 — Newberg Housing and Residential Land Needs Report
+            Exhibit 7— Yamhill County “Exception Statement II” 1980 report
+            Exhibit 8 — Soils Map
+            Exhibit 9 — Aerial Photo with Soils Map overlay
+
+Coyote Homes                                                                  Urban Growth Boundary Amendment
+September 23, 2005                                                                                          2
+          GENERAL INFORMATION
+
+            Agent:                       SR Design LLC                                        .
+                                         Attn: Jeff Caines
+                                         8196 SW Hall Blvd., Suite 232
+                                         Beaverton, OR 97008
+
+            Applicant/Property Owner:    Coyote Homes Inc.
+                                         Mike Willcuts
+                                         P.O. Box 490
+                                         Newberg, OR 97132
+
+            Tax Lot Information          Map # 32 18AB Lots # 1000, 1001, 1100, 1200, 1300, 1400,
+                                         and 1600
+
+            Location:                    The seven parcels are located in the area east of Chehalem
+                                         Drive, west of Crater Lane, south of Tax Lot 900 and north of
+                                         Columbia Drive. Lots 1000, 1001, and 1400 have frontage on
+                                         Chehalem Drive. Lots 1100, 1200, and 1300 have frontage on
+                                         Crater Lane, and Lot 1600 has frontage on Columbia Drive.
+
+            Current Zoning:              All lots under review are currently zoned with the Yamhill
+                                         County Low Density Residential (VLDR-1).
+
+            Proposed Comp. Plan
+            and Zoning:                  The Applicant is requesting an Urban Growth Boundary
+                                         Amendment for the above referenced properties. The Applicant
+                                         is requesting that the property under review be brought in to the
+                                         UGB with a Comprehensive Plan designated of MDR and
+                                         subsequent Zoning designation of R-2.
+
+            Project Area(s):              Lot   1000:   approximately   1.0 acres / 43,560 sq. ft.
+                                          Lot   1001:   approximately   1.0 acres / 43,560 sq. ft.
+                                          Lot   1100:   approximately   1.0 acres / 43,560 sq. ft.
+                                        _ Lot   1200:   approximately   1.24 acres / 54,014 sq. ft
+                                         Lot 1300: approximately 1.05 acres / 45,738 sq. ft
+                                         Lot 1400: approximately 1.04 acres / 45,302 sq. ft
+                                         Lot 1600: approximately 2.49 acres / 108,464 sq. ft
+
+Coyote Homes                                                                 Urban Growth Boundary Amendment
+September 23, 2005                                                                                     :       3
+       REQUEST:
+
+   The Applicant is requesting an Urban Growth Boundary Amendment to include approximately 8.82 acres
+   of property, which is currently located in Yamhill County in to the Urban Growth Area for the City of
+   Newberg. The subject site is currently located in the City’s Urban Reserve area and has been identified as
+   property to eventually become part of the City of Newberg as the population’ grows and the need for
+   additional lands are need for future residents. The applicant is The Applicant is requesting that the
+   property under review be brought in to the UGB with a Comprehensive Plan designated of MDR and
+   subsequent Zoning designation of R-2.
+
+       SITE DESCRIPTION:
+
+   All seven lots are located with the in the VLDR-1 (Low Density Residential) Yamhill County zoning
+   designation. The area under consideration is located between Crater Lane on the east and Chehalem Drive
+   to the west. The area under review is located on the western fringe of Newberg’s city limits. West of
+   Chehalem Drive (west of the site under review) additional pieces of land designated as Urban Reserve
+   Area. This Urban Reserves Land acts as a buffer between Yamhill County agricultural lands and the City
+   of Newberg’s urbanized area. The lands directly to the east of the site contain residential dwelling units
+   developed to City of Newberg R-1 zoning standards. The properties to the north contain residential
+   dwelling units developed to the City of Newberg R-1/6.6 zoning standards. Lot 1600 extends to the south
+   and has frontage that extends to Columbia Drive. Two public schools and a community center were
+   constructed within the City limits north of the site under review and should be able to serve the parcels
+   under UGB amendment consideration. The schools were built in this area in anticipation of future
+   development and growth in this area of the City and general area.
+
+Coyote Homes                                                                Urban Growth Boundary Amendment
+September 23, 2005                                                                                         4.
+         VI.        Yamhill County Comprehensive Plan Amendment Criteria —- Yamhill County
+                    Comprehensive Plan: The applicant must demonstrate compliance with the following
+                    criteria:
+                          Section I:   Urban Growth and Change and Economic Development
+                                                A. Urban Area Development
+         SUMMARY
+         Growth in Yamhill County is being most heavily influenced by spillover from the Portland
+         metropolitan area. The northeast section of the county has been absorbing the brunt of this
+         growth pressure and will continue to do so in the future. Due to a vigorous policy to attract
+         additional industry into the city, McMinnville should also see rapid population growth in
+         coming years. Future growth pressures will increase the potential for sprawl development, a
+         condition that results in higher costs in providing pubic facilities and services due to the
+         extension, then under-utilization, of those services. Economic, energy, and environmental
+         considerations point to the need for containing urban growth to existing urban centers. An
+         established urban growth boundary for each city of Yamhill County will assist in the orderly
+         and efficient transition from rural to urban land uses.
+GOAL STATEMENT
+    1.   To encourage the containment of growth within existing urban centers, provide for the orderly,
+         staged, diversified and compatible development of all of the cities of Yamhill County, and assure an
+         efficient transition from rural to urban land use.
+POLICIES
+               A. Yamhill County will, in cooperation with the cities and special districts of the county,
+                    encourage urban growth to take the form of a series of compact, balanced communities, each
+                    with its own business and community center and each related to industrial areas and other
+                    centers of employment.
+               B.   Yamhill County will cooperate and coordinate with each of the cities in the development of
+                    urban growth boundaries and will adopt an urban area growth management agreement with
+                    each city which outlines a growth management plan for unincorporated areas within the
+                    boundary and the means by which the boundary can be modified.
+               C. Yamhill County will recognize the lands within established urban growth boundaries.as the
+                    appropriate and desired location for urban development.
+               D. Yamhill County will coordinate with the City of Newberg to adopt an Urban Reserve Area
+                     (URA). The URA identifies high priority lands to include with the Newberg UGB to meet
+                     long-term urban growth needs to the year 2030. Interim rural development within the Urban
+                     Reserve Area will be regulated with tools such as corridor plans, shadow plats, clustering and
+                    -redevelopment plans to ensure that long-term options for urban development are protected.
+         Comment:      The proposed UGB Amendment is an effort to enable urban growth in an
+         efficient compact manner. This Application is in cooperation with both the City of Newberg
+         and Yamhill County in order to create a smooth transition between county property and the
+         newly expanded City limits. Finally, the land under review for the expanded Urban Growth
+         Boundary Amendment uses land that is identified as Urban Reserve for the City of Newberg.
+
+Coyote Homes                                                                      Urban Growth Boundary Amendment
+September 23, 2005 (Revised: October 6, 2005)                                                                   19
+GOAL STATEMENT
+    2.   To encourage the containment of urban services and facilities and other public capital improvements
+         within existing urbanizing areas in order to achieve an orderly pattern of urban growth.
+POLICIES
+               A. Yamhill County will continue to seek full cooperation and coordination among the cities, the
+                  school districts, other special-purpose districts of the county and the county itself in jointly
+                    planning and programming all land use, urban services and facilities and other public
+                    improvements having an impact on the rate and direction of urban growth.
+               B. Yamhill County will seek to establish a. general commitment by all providers of urban
+                  services that no subdivision of lands in designated urban areas on the Plan Map will be
+                    permitted without the provision of urban services commensurate with the location, nature and
+                    scale of the proposed development, recognizing the overall capital program for community
+                    services and the ultimate net cost to the community of the services to be provided.
+               €.   Yamhill County will coordinate with the cities to ensure that rural residential development
+                    contiguous with urban growth boundaries does not restrict long-term options for urban
+                    expansion.
+         Comment:       The proposed UGB Amendment will allow for the containment of urban
+         services and facilities within existing urbanizing areas in order to achieve an orderly pattern
+         of urban growth. The proposed expansion is adjacent to land that is currently served by urban
+         services. In addition, the development pattern proposed for this project is located in an area
+         where addition Urban Reserve land is located to the west, thus creating a buffer between the
+         urban area and the county’s rural land.
+GOAL STATEMENT
+    3.   To create convenient and attractive residential neighborhoods, which can be efficiently serviced with
+         roads, utilities, schools, parks and commerce, and can take advantage of desirable physical features;
+         and to give a satisfactory range of choice to the prospective householder through the imaginative use
+         of a variety of design concepts.
+POLICIES
+               A. Yamhill County will continue to recognize that the appropriate location of medium-density
+                    residential development is in areas having a full range of urban services and amenities within
+                    or immediately adjacent to central business districts; immediately adjacent to public traffic
+                    generators, such as schools, parks, hospitals, and regional or neighborhood shopping centers;
+                    or in selected small areas having unique scenic qualities and a location where community
+                    water supply and sewage-disposal systems, adequate access by way of a road of collector or
+                    higher status and other urban services necessary to meet the needs of the intended residents
+                    can and will be provided.
+               B. Yamhill County will continue to recognize that the appropriate location of low-density
+                  residential development is in areas where adequate access and services to satisfy the scale of
+                    ultimate development can and will be provided. Such areas would generally be within, or
+                    contiguous with, existing urban centers, but may also be in selected small areas having unique
+                    scenic qualities or, where the need may be demonstrated, in selected outlying areas of varying
+                    size having appropriate site qualities and other supporting services.
+
+Coyote Homes                                                                       Urban Growth Boundary Amendment
+September 23, 2005 (Revised: October 6, 2005)                                                                     20
+               D. City Growth and Development
+
+         Comment:         The proposed project is for medium density residential dwelling units. County
+         and city roads and utilities are currently serving the area. The expansion of the Urban Growth
+        Boundary will only help enhance the current road system and infrastructure either by
+        upgrading the existing system(s) or by creating a new system within the proposed subdivision.
+        In addition, the proposed project is located near other medium density residential
+        developments. This type of housing is needed, according to the Residential Needs Analysis
+        report and will help contribute to a diverse rangeof housing types.
+
+SUMMARY
+        Each of the ten cities in Yamhill County has established, or is in the process of establishing,
+        an urban growth boundary. The staged extension of city services will facilitate orderly urban
+        expansion. Growth pressures in and around the cities of McMinnville and Newberg make
+        these areas particularly vulnerable to land use conflicts.
+POLICIES
+               A. All urban growth boundaries in the county will be delineated as shown on the plan
+                    map and no extension of urban land uses or city water and sewer services beyond the
+                    designated urban growth boundaries will be undertaken without concurrent
+                    amendments to both the respective city and county comprehensive plans.
+               B.   Yamhill County will encourage major land uses or functional areas and domestic
+                    water supply and sanitary sewer service areas in the cities to develop progressively
+                    outward and to be extended on a staged basis until they become coextensive with and
+                    fully service the designated urban area.
+               C. The designated residential area west of Hill Road and east of the Lafayette-Riverside
+                    industrial area (in McMinnville) will be denied city water and sewer services until all
+                    other designated residential areas are substantially developed, and such services will
+                    not be extended across Baker Creek, the North Yamhill River, or Highway 18 except
+                    in the designated PUD area.
+             D. The designated PUD area (along Three Mile Lane in McMinnville) will be retained for
+                the time being in its present agricultural and limited commercial, industrial and public
+                    uses and be designated for the uses shown on the plan map, and the area will be
+                    developed in accordance with the general policies of this plan and the following
+                    principles set out in the recommendations of the city and county planning
+                    commissions relative to Three Mile Lane land use policy:
+                        1.Both Yamhill County and the City of McMinnville recognize that residential,
+                            commercial and industrial development along Three Mile Lane is desirable if it
+                            is of good quality and design. Further, such development should be staged in
+                            accordance with need and be compatible with the traffic-carrying function of
+                            Three Mile Lane, and the design capacity of the sewer and water service
+                            extensions into the area. Therefore, both governing bodies will consider
+                            applications for zone changes to property within their jurisdiction provided that
+                            the planned unit development concept is utilized.
+
+Coyote Homes                                                                      Urban Growth Boundary Amendment
+September 23, 2005 (Revised: October 6, 2005)                                                                   21
+                      2. Both Yamhill County and the City of McMinnville will look favorably upon
+                           mixed urban development projects; that is, that integrated designs for
+                           commercial, industrial and residential uses will be encouraged.
+                      3. Both Yamhill County and the City of McMinnville, in considering applications
+                           for zone changes, will place heavy emphasis upon:
+                               «   the minimization of entrances onto Three Mile Lane;
+
+                               »   the development of on-site circulation systems;
+                               «   the provision of deep setbacks, landscaping, buffer strips, sign controls,
+                                   and the setting of an adequate setback line from the existing right-of-
+                                   way line;
+                               «   the provision of service roads and acceleration and deceleration lanes
+                                   and left-turn refuges when and where necessary and practicable.
+             E.   The City of McMinnville will adopt an annexation policy and urban service policy
+                  which would qualify properties for annexation and the extension of urban services
+                  based on applicable statewide goals and the applicable policies in the McMinnville
+                  Comprehensive Plan. In the case of Three Mile Lane, annexation and extension of
+                  urban services will include, but not be limited to, the following considerations:
+                      « the location and area of the land to be annexed shall be defined as the boundary
+                          of the sewer service area east to County Roads 92 and 464 and areas
+                          approximately 1500 feet north of Three Mile Lane and approximately 1200
+                          feet south of the Lane;                                                 :
+                      " the present and proposed use of the land to be annexed;
+                      » the availability of, and current service policies concerning access, water supply
+                          and sewerage; and
+                      " the need to annex the land to the city.
+             F.   An Urban Reserve Area is designated for the City of Newberg as shown on the
+                  Comprehensive Plan Map. The URA identifies high-priority land to include within the
+                  City of Newberg UGB on a phased basis to meet urban growth needs to the year 2030.
+                  Interim rural development with the designated Urban Reserve Area shall be regulated
+                  and reviewed as outlined in the City of Newberg/Yamhill County Urban Growth
+                  Management Agreement to ensure that long term opportunities for urban development
+                  are protected. (Ord. 596)
+        Comment:    This project is located in the Urban Reserve Area and identified it the City of
+        Newberg’s Comprehensive Plan. As stated above, this land has already been listed as high-
+        priority land to be included in the City’s future expansion for new urban land to be developed.
+
+Coyote Homes                                                                      Urban Growth Boundary Amendment
+September 23, 2005 (Revised: October 6, 2005)     :                                                             22
+                                                    E. HOUSING
+SUMMARY
+         Through its regulatory and legislative powers, the county can greatly influence choices in
+         housing types, location, density, and cost within its boundaries. The rising costs in land, labor,
+         materials and financing, combined with increasing population pressure, have created a
+         housing problem in Yamhill County reflected in both the quantity and quality of the existing
+         stock. The county has numerous housing units in need of rehabilitation to make them safe,
+         sanitary and decent places in which to live. Federally subsidized housing programs have
+         provided some relief for those who could not otherwise afford quality shelter, yet it appears
+         that man in need are still unaided. In 1978, the county enacted a new building, mechanical and
+         plumbing ordinance, which adopts by reference the Uniform Building Code, the Uniform
+         Mechanical Code, and the Uniform Plumbing Code of 1976 published by the International
+         Conference of Building Officials. Home occupations are widely practiced in both urban and
+         rural areas of Yamhill County.
+GOAL STATEMENT
+    1.   To assure the provisions of safe, sanitary and decent housing for all residents of the county at a
+         reasonable cost.
+POLICIES
+            A. Yamhill County will continue to cooperate with all governments and housing agencies
+               within the region in promoting unified housing policies and action programs as well as
+               an equitable distribution of assisted housing throughout the county.
+             B. Yamhill County will continue to administer uniform building, mechanical and
+                  plumbing codes for all new construction, as well as consider the adoption and
+                  administration of a uniform housing code to assure the maintenance and upgrading of
+                  existing housing units to code standards.
+               C. Yamhill County will provide opportunities for a variety of housing types in different
+                  residential environments, including single-family structures, conventional and modular
+                  type construction, and mobile homes to serve the housing needs of all components of
+                  the county population.
+            D. Yamhill County will encourage an adequate supply of new and rehabilitated housing
+               units for rental or purchase by low- and moderate-income families and individuals
+               through support of, and participation in, state and federal programs.
+             E.   Yamhill County will coordinate its efforts with each city in order to avoid potential
+                  conflicts with respect to countywide housing opportunities and demand.
+            F. Yamhill County will establish a process by which builders and citizens can receive an
+                  energy efficiency evaluation of their site and house plans.
+             G. Yamhill County will provide assistance to local realtors, developers, contractors and
+                  other members of the building community to inform buyers of total life-cycle housings
+                  costs.
+
+            H. Home occupations will continue to be recognized and reasonably regulated in all
+               medium and low-density residential areas in accordance with accepted standards and
+               practice in urban environments.
+
+Coyote Homes                                                                    Urban Growth Boundary Amendment
+September 23, 2005 (Revised: October 6, 2005)                                                                 23
+            I.   A reasonable expansion of the concept and definition of home occupation will apply to
+                 very low density residential and agricultural small and large holding areas where
+                 small-scale, family-operated, home-craft industry or repair service has been
+                 traditionally carried on, and such uses will be reasonably regulated, subject to
+                 limitations on location, scale, performance characteristics, commercial character, and
+                 visibility from bounding roads or adjoining property.
+        Comment:     As stated in previous sections of this application: This goal requires a
+        community to plan for and accommodate needed housing types, including multifamily and
+        manufactured housing, and to inventory buildable residential lands, project future needs for
+        such lands, and to plan and zone enough buildable land to meet those needs. It also prohibits
+        local plans from discriminating against needed housing types. This goal for housing in the
+        City of Newberg’s Comprehensive Plan is to provide for diversity in the type, density and
+        location of housing within the City to ensure there is an adequate supply of affordable housing
+        units to meet the needs of City residents of various income levels. Housing density and mix
+        policies are set forth in the Plan, rather than housing types, as the most important development
+        criteria to be used to classify different types of residential areas on the City.
+        In 1995, the City adopted an Urban Reserve Area. The URA includes 916 acres of land with
+        approximately 750 acres of buildable land. After combining the existing population within the
+        City and the future population in the UGB, a total of approximately 34,700 people could be
+        accommodated. Some of the factors used to determine which properties should be given a
+        URA designation included continuity to the UGB and City limits, percentage of study area
+        designated rural residential, percentage of study area designated agricultural, transportation
+        access, sewer and water potential and natural boundaries. The site under review was originally
+        included in Area F of the URA study, as described below:
+        Area F: . The area under review for the UGB Amendment is located in the southern half of
+        the original Area F study in 1995 (exhibit 4). This half has been developed as rural residential
+        on small lots and acreage. Chehalem Drive traverses the area in a north-south orientation on
+        the western boundary of the study area. Crater Lane borders the eastern side of the study site.
+        The only natural condition affecting future development is some water drainage ways. There
+        are both storm and sanitary sewer line’s located in the southeastern boundary of the subject
+        site, At this time, there may not currently be adequate service to meet the future demand if
+        this site under review develops to its full potential. As the area develops, new utility lines
+        (sanitary and storm sewer) will need to be installed to meet the future demands of the area. In
+        addition to the new sewer lines being installed, new pump stations may need to be installed or
+        upgraded to the existing pump stations may need to occur. These issues will be resolved prior
+        to the construction of new residential units.
+        In the fall of 1996, the City undertook a residential needs analysis to identify the twenty (20) -
+        year needs for residential land that resulted in revisions to the City’s Comprehensive Plan and
+        Development Code. As the following tables demonstrate, there is currently a need for
+        additional medium and high density zoned land to meet projected increases in population
+        growth in the next twenty (20)-years. For the planning period ending in 2025, there is a
+        significant shortfall in every residential land category. The proposed UGB amendment will
+        help the City meet its Goal 10 obligations to provide a suitable inventory of buildable
+        residential lands and to provide for opportunities for a diversity in the type, density and
+        location of housing units to ensure an adequate supply of affordable housing.
+
+Coyote Homes                                                                   Urban Growth Boundary Amendment
+September 23, 2005 (Revised: October 6, 2005)                                                                24
+         Development of the subject site, based on the mix of housing zones proposed by the applicant,
+         would be consistent with housing policies of the City’s Comprehensive Plan and with
+       ' requirements of the Development Code. Attached with this application is a copy of the City’s
+         Residential Land Needs Report.
+
+Coyote Homes                                              :        :       Urban Growth Boundary Amendment
+September 23, 2005 (Revised: October 6, 2005)                                                            25
+          SECTION III. Transportation, Communications and Public Utilities
+                                                   A. Transportation
+SUMMARY
+          Efforts need to be coordinated among local, regional, state and federal agencies in order to
+          develop a sound transportation system for the county. The regional transportation needs must
+          be addressed primarily in respect to the utilization of the county's arterials as State
+          thoroughfares.   A major concern of the county is to develop a transportation system that will
+          maintain and enhance the quality of life enjoyed by its residents. Due primarily to the
+          increasing traffic load and traffic hazards on all county roads, there is a need to control access
+          points for future development. In view of the rapidly increasing cost and decreasing supply of
+          energy, it is imperative that all transportation decisions take into account the conservation of
+          energy. The provisions of adequate bicycling and pedestrian paths within the county is a
+          concern of the county residents. Such modes of transportation lend themselves particularly to
+          the rural nature of the county. There is a potential for the McMinnville Municipal airport to be
+          developed into a Basic Transport facility. Rail freight service to the county is provided by
+          Southern Pacific Railroad. The county operates a limited public transit system. In order to
+          protect the scenic-resources of the county, outstanding highway views should be designated as
+          scenic areas.
+GOAL STATEMENT
+     1.   To provide and encourage an efficient, safe, convenient and economic transportation and
+          communication system, including road, rail, waterways, public transit and air, to serve the needs of
+          existing and projected urban and rural development within the county, as well as to accommodate the
+          regional movement of people and goods and the transfer of energy, recognizing the economic, social
+          and energy impacts of the various modes of transportation.
+POLICIES
+             A. Yamhill County will encourage the establishment of a transportation system
+                  supportive of a geographically distributed and diversified industrial economy for the
+                  county including coordination with all city comprehensive plans.
+             B.   All transportation-related.decisions will be made in consideration of land use impacts
+                  including but not limited to adjacent land use patterns, both existing and planned, and
+                  their designated uses and densities.
+             C.   Yamhill County will cooperate and establish close liaison with the State Department
+                  of Transportation, the cities of the county, the Tri-County Metropolitan Transportation
+                  District of Oregon (Tri-Met), the Southern Pacific Railroad, the Federal Aviation
+                  Administration, Federal Highway Administration, and private utility companies
+                  operating in the county, in respect to matters relating to the location, design and
+                  programming of roads, railroads, public transit facilities, airports, transmission lines,
+                  pipelines, waterways, energy corridors and communications facilities to guide and
+                  accommodate the emerging development patterns of the county.
+             D. Yamhill County will, in cooperation with the State Highway Division and the cities of
+                the county, establish a comprehensive list of recommendéd road improvements
+                throughout the county, establish a suitable review mechanism for arriving at and
+                amending priorities on a continuing basis and work towards the creation of an on-
+
+Coyote Homes                                                                     Urban Growth Boundary Amendment
+September 23, 2005 (Revised: October 6, 2005)                                                                  26
+                  going capital improvement program closely coordinated with all agencies of
+                  government responsible, including cities for road location, construction, finance and
+                  maintenance.
+            E. Yamhill County will cooperate with and support the State Highway Division, the Mid-
+               Willamette Valley Council of Governments, and any other county or regional
+               transportation agency in an effort to establish a viable-and productive regional
+                  transportation planning process and operations system geared to identifying,
+
+                                                                                                                     ne
+                  prioritizing and resolving both present and future transportation needs, with special
+                  reference to our county and regional network.
+            F. Yamhill County will establish by ordinance in cooperation with the State Highway             —
+                  Division, the cities of the county, adjoining counties, the U.S. Postal Service and all
+                  affected special purpose districts, including fire protection districts, a system for
+                  naming all public roads and numbering property as prescribed by ORS 215.110(1)(©),
+                  and in doing so will give full consideration to the costs, benefits and timeliness of such
+                  action.
+               G. Yamhill County will appoint a committee of interested citizens to study all State
+                  highways within the county and inventory and evaluate the aesthetic features of the
+                  views from such highways, consider the eligibility of specific sections for designation
+                  as scenic areas under the provisions of the Scenic Areas Act, and make appropriate
+                  recommendations to the Planning Commission and Board of Commissioners in respect
+                  to a petition to the Scenic Area Board to hold hearings on the possible designation of
+                  scenic areas within Yamhill County.                                                  ;
+
+            H. Yamhill County will, in cooperation with the cities of the county, and in consultation
+                  with the Mid-Willamette Valley Council of Governments, the State Public Transit
+                  Division, the Public Utility Commissioner, and private companies providing transit
+                  services, make a comprehensive study of public transit possibilities, including bus and
+                  rail, and if economically feasible, will seek such services as are found to be safe,
+                  efficient, and convenient in serving the transportation needs of the residents of the
+                  county.                                               .
+            I.    Yamhill County will encourage bicycle and pedestrian traffic as an element of the
+                  transportation system by coordinating with the cities within the county to develop an
+                  integrated system of safe and convenient bicycle and pedestrian ways to complement
+                  other modes of transportation.
+            J.    Yamhill County will require new development to:
+                      1. Limit access points on highways designated as arterials when alternative access
+                          points are feasible.
+                      2. Provide a frontage setback requirement of 50 feet from the public right-of-way
+                            of all designated arterials within the county for commercial and industrial
+                            development; and
+                      3. Minimize direct access points onto arterial right-of-ways by encouraging the
+                            utilization of common driveways.                  ~
+            K. All county transportation-related decisions will be made in particular consideration of
+               energy efficiency and conservation.
+
+Coyote Homes                                                                       Urban Growth Boundary Amendment
+September 23, 2005 (Revised: October 6, 2005)                                                                   27
+            L. Yamhill County will establish programs, such as van or car-pooling to increase vehicle
+                 occupancy and reduce unnecessary passenger car travel.
+            M. Transportation needs for the disadvantaged, such as the low income, the handicapped,
+               and the elderly, will be considered in the development of the county transportation
+                 system.
+
+            N. Yamhill County will utilize existing facilities and right-of-ways to the fullest extent
+               possible provided that such use is consistent with the county comprehensive plan.
+            O. All transportation-related decisions will be made in support of the efficient and
+                 economic movement of people, goods, and services throughout the region, and will be
+                 based on the location and adequacy of facilities for such goods and services.
+            P.   The county plan and zoning ordinance will continue to recognize the need for
+                 protecting the McMinnville Municipal Airport as a vital county-wide transportation
+                 facility and efforts will be made to regulate land use in the environs of the airport to
+                 prevent the erection of further airport hazards and obstructions, at the same time
+                 preventing any residential encroachment upon the critical noise contours.
+            Q. The status and proposed location or expansion of all airport facilities will be
+               specifically designated in the plan map, as amended, and, if under county jurisdiction,
+               will be accorded a planned-unit development designation in the zoning ordinance, in
+               order to assure a compatible association of airport growth with surrounding urban
+               development.
+            R. The county will continue to work with the State, the City of Newberg, and the City of
+               Dundee on alternatives for routing Highway 99W traffic through or around Newberg
+               and Dundee.
+        Comment:      Based on the previous discussion with regards to the City’s Transportation
+        regulations: The primary objective of this goal is to provide a safe, convenient and economic
+        transportation system. The City’s Comprehensive Plan contains several goals and policies
+        designed to guide the planning and provision of a safe, convenient and economic
+        transportation system in cooperation with state, county, and neighboring communities in the
+        region. The City’s 1997 Urban Reserve Project report includes an analysis of transportation
+        system impacts and possible improvements based on a comparison of two alternative land-use
+        scenarios. The orderly and economic provision of public services and facilities, including the
+        transportation system, was among the criteria used to evaluate the URA’s.
+        Newberg’s Transportation Plan update shows the current and Planning Commission’s
+        recommendation for Chehalem Drive. According to Figure 6-1 of the Transportation System
+        Plan (March 2005), Chehalem Drive is classified as a Major Collector street. The City’s
+        Planning Commission, on their periodic review of the Transportation System Plan, has
+        recommended that Chehalem Drive remain a Major Collector street. As stated in the TSP, the
+        recommendation includes:
+       _Chehalem Drive: Recommend that the City of Newberg and Yamhill County reconstruct those
+        sections of Chehalem Drive under each respective jurisdiction, between Ore 240 and North
+        Valley Road to major collector street standards to include bicycle lanes and sidewalks on
+        both sides of the street. This project is approximately 1.57 miles, and is estimated to cost
+        approximately $4.0 million. Approximately one-half of this segment is within the UGB; the
+        remaining portion of this project is located outside of the City’s UGB and within its
+
+Coyote Homes                                                                     Urban Growth Boundary Amendment
+                                                                                                              28
+September 23, 2005 (Revised: October 6, 2005)
+        designated Urban Reserve Area, and therefore is currently within the jurisdiction of Yamhill
+        County. At such time when Newberg annexes these Urban Reserves into its UGB, this portion
+        of the project would become the City’s responsibility.
+        Improvements to Chehalem Drive will provide adequate access for the area, thereby reducing
+         the potential for arterial traffic traveling on nearby local streets, and provide better access
+        for bicyclists and pedestrians. Chehalem Drive is eitherinside the Newberg UGB or Urban
+        Reserve Area. For purposes of cost attribution, it was assumed that the City would be
+         responsible for the total cost of this project.
+        A transportation study was not conducted for this project. At the pre-application meeting held
+        with the City of Newberg (September 7, 2005) staff stated that the total number of lots
+        proposed did not require a Traffic Impact Study. This was due to the threshold level of 400
+        vehicle trips per day at the pm peak. The Applicant is proposing to build approximately 38
+        homes, thus being under the threshold amount. If in the future a transportation study is
+        required, the Applicant will submit a study by a transportation engineer to meet this
+        requirement.
+        Future development in the area will pay for transportation improvements through existing
+        Transportation System Development Charges. These are estimated as follows:
+             38 Single Family at $1,709.35 each equals $64,955.30
+        Thus, future development would generate sufficient SDC revenue to pay its share of capacity
+        improvements, and generate additional funds for other capacity improvements throughout the
+        City as identified in the Transportation System Plan. Please note that Lot 38 can be
+        subdivided in the future. When Lot 38 is subdivided, SDC fees will be paid to the City at that
+        time. For this application, the SDC fees are based on the total number of proposed lots at this
+        time.
+        By meeting the goals and policies of Newberg’s Comprehensive Plan, the Applicant believes
+        that they are also in compliance with Yamhill County’s Comprehensive Goals and Policies.
+        By including this site within Newberg’s UGB, the property is better to serve many of the
+        transportation policies set out by the County. These include utilizing the existing facilities and
+        right-of-ways to the fullest extent possible; and working with the City of Newberg for their
+        transportation needs for the future expansion of urbanized areas.
+
+                                                       B. Utilities
+SUMMARY
+        Transmission lines and pipelines cross miles of land, consume many acres of ri, ght-of-way,
+        and have a significant impact on land use. The Public Utility Commission has allowed for
+        local review of utility location with its agency coordination program. The county recognizes
+        the effects that the development of utilities has on land use and sees a need for close
+        consideration and cooperation with the utility companies.
+GOAL STATEMENT
+        (See goal statement under Public Facilities and Services)
+POLICIES
+
+Coyote Homes                                                                   Urban Growth Boundary Amendment
+September 23, 2005 (Revised: October 6, 2005)                                                                29
+            A. Yamhill County will review all right-of-way acquisitions for utility lines and facilities
+               and, where appropriate, require:
+                   .1, That the route or corridor chosen locate on or parallel to existing public or
+                          private right-of-ways and avoid the creation of unusable parcels;
+                     2. That the route or corridor chosen have a minimum visual impact along highways
+                          and in residential areas, blend well with the natural landscape, and create
+                         minimum conflict with present and planned uses of the land;
+                     3. That clearing for, and construction of, transmission lines, pipelines and other
+                          utility facilities be performed in a manner which will maximize preservation of
+                         natural beauty and conservation of natural resources, and which will minimize
+                         scarring of the landscape or siltation of streams;
+                     4. That following construction of utility facilities, construction areas will be
+                         cleaned up and efforts will be made to restore the landscape and the land
+                         capability to its original condition prior to construction; and
+                     5, That a maintenance program for utility facilities include maintenance of the
+                          environmental preservation and restoration achieved during all phases of
+                          construction.
+Comment: The utilities brought in to the area to serve the future residential dwelling units are small in size
+and scale than what the purpose of this Summary indicates. However, the utilities brought in to serve the site
+will be located in areas as to minimize any visual impacts that may be created. For example, the use of
+overhead power lines will be kept to a minimum, as required by Newberg’s Development Code. Also, the
+clearing of land will be minimized since the majority of the utilities will be placed in the right-of-way,
+underneath the existing of future roadway extension. Therefore, no additional clearing may be necessary
+since the existing or future roadway may be wide enough to consolidate all the utilities underneath the
+ground.
+
+Coyote Homes                                                                      Urban Growth Boundary Amendment
+                                                                                                                30
+September 23, 2005 (Revised: October 6, 2005)
+                                                SECTION V. Environmental Quality
+                                            A. Air, Water and Land Resources Quality
+SUMMARY
+        Yamhill County has retained an overall high-quality natural environment, yet the impact of
+        human activities on the environment has upset the natural ecological balances and the high
+        aesthetic quality of the county in the past, and poses the threat of future deterioration. The
+        increasing demands put upon the air resources of the county affect the capability of those
+        resources to provide for a clean, enjoyable and safe environment. The Willamette Valley is
+        prone to air pollution as a result of climatic and physiographic conditions. Suspended
+        particulates from a number of sources, including automobiles, dust, field and slash burning,
+        and industry process losses, pose the largest air pollution problem for Yamhill County.
+GOAL STATEMENT
+    1. To conserve and to protect natural resources, including air, water, soil and vegetation and wildlife,
+        from pollution or deterioration which would dangerously alter the ecological balance, be detrimental
+        to human health, or compromise the beauty and tranquility of the natural environment.
+POLICIES
+            A. Yamhill County will cooperate with the State Department of Environmental Quality in
+               enforcing state and federal regulations designed to achieve high air quality.
+            B. Yamhill County will, in making land use decisions relative to industrial or other uses
+               likely to pose a threat to air quality, consider proximity of the proposed use to
+                  residential areas and meteorological factors such as seasonal prevailing wind direction
+                  and velocity.                                       :
+
+            C. Yamhill County will cooperate with the State Department of Environmental Quality in
+               implementing noise control regulations.           ;
+            D. Consideration will be given to adopting an ordinance requiring environmental impact
+                  review of all major public and private development proposals and the social and
+                  economic costs and benefits associated with any particular development proposal will
+                  be properly evaluated prior to public endorsement or approval.
+             E.   Inorder to maintain and improve the quality of the county's air, water and land
+                  resources, Yamhill County will seek to minimize irreversible and other long-term
+                  impacts in its development of energy resources; support efforts, where feasible, for the
+                  appropriate and efficient recovery of energy as a means to reduce waste problems; and
+                  encourage a program to recover and recycle used motor oil.
+        Comment:      As stated above: This goal requires local comprehensive plans and
+        implementing measures to be consistent with state and federal regulations an matters of air,
+        water and land resources quality. The Yamhill County and Newberg Comprehensive Plans,
+        contain several policies intended to ensure conformance with state federal regulations
+        governing air, water and land resources quality. No watercourses exist in the area. Negligible
+        impacts are anticipated to existing air quality in the area. The proposed UGB amendment
+        would be consistent with the City’s Plan policies by providing public sanitary sewer capable
+        of supporting ‘future urban level development as a preferred alternative to allowing low
+
+Coyote Homes                                                                    Urban Growth Boundary Amendment
+September 23, 2005 (Revised: October 6, 2005)                                                                 31
+         density rural residential development with individual septic systems as allowed under current
+         county zoning regulations
+GOAL STATEMENT
+    2.   To preserve and enhance the charm and amenity values of the county, while accommodating change,
+         through ensuring harmony between urban development and the natural environment, at the same time
+         cultivating more attractive urban environments in which to live, work and play.
+POLICIES
+             A. Yamhill County will, in cooperation with the cities, work to establish high standards
+                for urban development and redevelopment, initiate incentives and regulatory programs
+                to achieve such standards and seek abatement of the aesthetic degradation of the
+                environment resulting from conflicting land uses and blighted neighborhoods,
+                indiscriminate waste disposal, offensive outdoor storage and advertising, and the lack
+                of adequate natural and landscaped open space.
+             B.   Yamhill County will work to maintain a healthy natural balance among the many life
+                  forms existing together within the region.
+         Comment:      The subject site is located in an area of Newberg where the development pattern
+         is proposed in an area where addition Urban Reserve land is located to the west, thus creating
+         a buffer between the urban area and the county’s rural land. The City of Newberg and
+          Yamhill County have worked together to come up with a viable plan to accomplish a smooth
+          transition between charm and amenity values of the county, while accommodating change,
+          through ensuring harmony between urban development and the natural environment, at the
+         same time cultivating more attractive urban environments in which to live.
+
+Coyote Homes                                                                  Urban Growth Boundary Amendment
+September 23, 2005 (Revised: October 6, 2005)                                                               32
+URBAN GROWTH          BOUNDARY
+                                         CRITERIA AND FINDINGS
+
+J. Newberg Urban Area Management Agreement: Amendment of the Urban Growth Boundary shall
+   be treated as a map amendment to both City and County Comprehensive Plan Maps. Change of the
+   Boundary shall be based upon consideration of the following factors:
+
+    (a) Demonstrated need to accommodate long-range urban population growth requirements consistent
+        with LCDC goals. The following Statewide goals apply to this application: Goal 1, Citizen
+        Involvement; Goal 2, Land Use Planning; Goal 3, Agricultural Lands; Goal 5, Open Spaces,
+        Scenic and Historical Areas, Natural resources; Goal 6, Air Water and Land Resources Quality;
+        Goal 8, Recreational Needs; Goal 10, Housing; Goal 11, Public Facilities and Services; Goal 12, .
+        Transportation; and Goal 14, Urbanization. (Goals 4, 7, 9, and 15-19 do not apply to this site.)
+
+    Findings:
+
+    Goal 1, Citizen Involvement:           The properties under review are located within Study Area “F” of the
+    Newberg Urban Reserve Area Project (exhibit 4), which was adopted by the City and Yamhill County in
+    1993. A public involvement program was implemented as part of the Urban Reserve Area Project in
+    1992 and 1993. In 1997, a study was prepared that examined this, and other, Urban Reserve Areas
+    (URAs) in detail, and that provided a buildable lands inventory and land use needs analysis, preliminary
+    infrastructure and transportation plans, a prioritization plan for the URAs, and amended urban services
+    agreement between the City of Newberg and Yamhill County. In conjunction with this 1997 study, a
+    citizen involvement and intergovernmental coordination program was prepared and implemented to
+    assure that the results of the study accurately reflected the desire of residents and property owners in the
+    City and County. The City held two workshops for property owners and other interested parties-in the
+    URA’s in 1997, which was attended by 60-70 people. A questionnaire was also distributed at that time to
+    solicit additional citizen input in the URA planning process.
+
+    Public notice was provided to all properties within 500 feet of the site and the site has been posted.
+    Public notice was provided to the Oregon Department of Land Conservation and Development per state
+    regulations.
+
+    Goal 2, Land Use Planning:       This goal stipulates that land use decisions be made in accordance with a
+  _ comprehensive plan, and that suitable “implementation ordinances” to the plan’s policies must be
+   adopted. It requires that plans be based on “factual information”, that local plans and ordinances are
+    coordinated with those of other jurisdictions and agencies, and that plans be reviewed periodically and
+    amended as needed. Goal 2 also contains standards for taking exceptions to statewide goals. This
+    includes the exception where a property is physically developed to the extent that it is no longer available
+    for uses allowed by the applicable goal and the land subject to the exception is irrevocably committed to
+    uses not allowed by the applicable goal because existing adjacent uses and other relevant factors make
+    uses allowed by the applicable goal impracticable. The City of Newberg’s Comprehensive Plan was
+    originally adopted in 1979 and has been amended several times since the date of the original adoption.
+    An updated Residential Needs Analysis and Policy with Recommended Comprehensive Plan and
+    Development Code amendments was last revised in 2004.
+
+    The City’s Development Code implements the Comprehensive Plan. An amended Newberg Urban Area
+    Growth Management Agreement between the City of Newberg and Yamhill County was adopted to
+
+Coyote Homes                                                                   Urban Growth Boundary Amendment
+September 23, 2005                                                                                               5
+    ensure coordination and cooperation between the City and County in the management of growth within
+    the Newberg Urban Growth Boundary (UGB) and URA’s. This agreement establishes a process for
+    maintaining ongoing planning efforts, designed to keep pace with growth and change, recognizing that
+    intergovernmental coordination is essential to assure citizens of the City and County that growth occurs
+    in an orderly and efficient manner.
+
+    Goal 3, Agricultural Lands:    This goal required counties to inventory agricultural lands and to
+    “preserve and maintain” them for farm use. The properties under review are currently zoned VLDR-1
+    (Low Density Residential). In 1980, Yamhill County identified the properties under review as “land
+    committed to rural residential use” in Exceptions Statement II (exhibit:7). The exception land definition
+    identified this general area as having a mixture of soil types ranging from Class II soil type to Class VI
+    soil type. The City of Newberg Inventory of Natural and Cultural Resources indicates that most soils in
+    the vicinity are flat and at least moderately fertile, though nearly all types have some problem with
+    drainage. The site consists primarily of WuB Woodburn silt loam soils. Woodburn soils are identified as
+    Class II soils by the SCS.
+
+    The Exceptions Statement II document includes a discussion noting that good roads, rural fire services,
+    fair or better water availability, and mostly fair soil suitable for septic systems characterize the area
+    involved. This area is currently committed to rural residential development.
+
+    The Inventory of Natural and Cultural Resources report states the City’s recognition that urban expansion
+    will undoubtedly occur on prime Class II soils, but notes that wasteful land use practices should be             ;
+    discouraged. The proposed addition of the project site into the UGB would provide needed area for urban
+    expansion adjacent to the City, where services are available or can be readily extended, thereby avoiding
+    leap-frog development or other land consumption practices.
+
+    Goal 5, Open Spaces, Scenic and Historic Areas, and Natural Resources:             This goal encompasses
+    12 different resource types, including wildlife habitats, mineral resources, and wetlands  and waterways.
+    Goal 5 requires inventories of resources to be conducted and policies to be adopted whereby the local
+    jurisdiction can manage these resources. The City of Newberg prepared an Inventory of Natural and
+    Cultural Resources in 1981 as part of its comprehensive planning program. This inventory includes the
+    following resources: agricultural lands; forestlands; mineral and aggregate resources; fish and wildlife; °
+    water; air quality; and open space, scenic, natural, historic, and recreational resources. The properties
+    under review consist primarily of WuB Woodbum silt loam soils (exhibit 8 & exhibit 9). Woodburn soils
+    are identified as Class II soils by the SCS, as indicated on the Oregon Soil Survey maps. Most of the area
+    is used for residential use in conjunction with undeveloped areas. The site contains no identified forest
+    lands, mineral resources, and aggregate resources, fish, wetlands or waterways, and no known
+    archeological, open space, scenic, natural historic and recreational resources. The County has no
+    identified wildlife resource information in this area. Negligible impacts are anticipated to existing air
+    quality in the area, especially once full residential development occurs on the site.
+
+    Goal 6, Air, Water and Land Resource Quality:           This goal requires local comprehensive plans and
+    implementing measures to be consistent with state and federal regulations an matters of air, water and
+    land resources quality. The Newberg Comprehensive Plan, Ordinance 1967, contains several policies
+    intended to ensure conformance with state federal regulations governing air, water and land resources
+    quality. No water courses exist in the area. Negligible impacts are anticipated to existing air quality in the
+    area. The proposed UGB amendment would be consistent with the City’s Plan policies by providing
+    public sanitary sewer capable of supporting future urban level development as a preferred alternative to
+
+Coyote Homes                                                                   Urban Growth Boundary Amendment
+September 23, 2005                                                                                               6
+    allowing low density rural residential development with individual septic systems as allowed under
+    current county zoning regulations.
+
+    Goal 8, Recreation Needs: This goal requires a community to evaluate its area and facilities for
+    recreation and to develop plans to deal with the projected demand for them. The City’s Comprehensive
+    Plan includes policies designed to ensure recreational facilities and service are expanded to meet growing
+    recreational demands of the community. Chehalem Park and Recreation District (CPRD) has established
+    a 19-acre park directly north of the school facility on Foothills and Chehalem Drive to meet the
+    recreational needs of the area.
+
+    Goal 10, Housing: This goal requires a community to plan for and accommodate needed housing types,
+    including multifamily and ‘manufactured housing, and to inventory buildable residential lands, project
+    future needs for such lands, and to plan and zone enough buildable land to meet those needs. It also
+    prohibits local plans from discriminating against needed housing types. This goal for housing in the City
+    of Newberg’s Comprehensive Plan is to provide for diversity in the type, density and location of housing
+    within the City to ensure there is an adequate supply of affordable housing units to meet the needs of City
+    residents of various income levels. Housing density and mix policies are set forth in the Plan, rather than
+    housing types, as the most important development criteria to be used to classify different types of
+    residential areas on the City.
+
+    In 1995, the City adopted an Urban Reserve Area. The URA includes 916 acres of land with
+    approximately 750 acres of buildable land. After combining the existing population within the City and
+    the future population in the UGB, a total of approximately 34,700 people could be accommodated. Some
+    of the factors used to determine which properties should be given a URA designation included continuity
+    to the UGB and City limits, percentage of study area designated rural residential, percentage of study
+    area designated agricultural, transportation access, sewer and water potential and natural boundaries. The
+    site under review was originally included in Area F of the URA study, as described below:
+
+    Area F:      The area under review for the UGB Amendment is located in the southem half of the original
+    Area F study in 1995 (exhibit 4). This half has been developed as rural residential on small lots and
+    acreage. Chehalem Drive traverses the area in a north-south orientation on the western boundary of the
+    study area. Crater Lane borders the eastern side of the study site. The only natural condition affecting
+    future development is some water drainage ways. There are both storm and sanitary sewer line’s located
+    in the southeastern boundary of the subject site. At this time, there may not currently be adequate service
+    to meet the future demand if this site under review develops to its full potential. As the area develops,
+    new utility lines (sanitary and storm sewer) will need to be installed to meet the future demands of the
+    area. In addition to the new sewer lines being installed, new pump stations may need to be installed or
+    upgraded to the existing pump stations may need to occur. These issues will be resolved prior to the
+    construction of new residential units.
+
+    In the fall of 1996, the City undertook a residential needs analysis to identify the twenty (20)-year need
+    for residential land that resulted in revisions to the City’s Comprehensive Plan and Development Code.
+    As the following tables demonstrate, there is currently a need for additional medium and high density
+    zoned land to meet projected increases in population growth in the next twenty (20)-years. For the
+    planning period ending in 2025, there is a significant shortfall in every residential land category. The
+    proposed UGB amendment will help the City meet its Goal 10 obligations to provide a suitable inventory
+    of buildable residential lands and to provide for opportunities for a diversity in the type, density and
+    location of housing units to ensure an adequate supply of affordable housing.
+
+Coyote Homes                                                                  Urban Growth Boundary Amendment
+September 23, 2005                                                                                             7
+    Development of the subject site, based on the mix of housing zones proposed by the applicant would be
+    consistent with housing policies of the City’s Comprehensive Plan and with requirements of the
+    Development Code. Attached with this application is a copy of the City’s Residential Land Needs
+    Report.
+
+    Goal 11, Public Facilities and Service: This goal calls for efficient planning of public services such as
+    sewers, water, law enforcement, and fire protection. The primary objective of this goal is to encourage
+    planning of public services to meet the community’s needs and capacities rather than being forced into
+    the situation of responding to development as it occurs. The City’s Comprehensive Plan includes the goal
+    to plan and develop a timely, orderly and efficient arrangement of public facilities and services to serve
+    as a framework for urban development. Water, sanitary sewer and storm water management facilities
+    were evaluated as part of the URA analysis conducted by the City of Newberg in 1997. In that study, it
+    was determined that these services can be provided in the project area, subject to completion of a new
+    sanitary sewer pump station which was built though the LID process. Part of the project site may use the
+    pump station, thus rendering the station’s use at maximum capacity. It is the intent of the Applicant to
+    create a proposal that will utilize a gravity feed system in order to minimize the impact on the exiting
+    pump station. A general review of the project was conducted by a registered engineer, and it was
+    determined that public facilities can be extended to the site in an orderly and efficient arrangement. The
+    Applicant has also submitted service provider letters to the various service agencies (i.c., fire, police,
+    parks) in order to obtain their standpoint on whether or not they would be able to serve the area in an
+    efficient manner.
+
+    Goal 12, Transportation:        The primary objective of this goal is to provide a safe, convenient and
+    economic transportation system. The City’s Comprehensive Plan contains several goals and policies
+    designed to guide the planning and provision of a safe, convenient and economic transportation system in
+    cooperation with state, county, and neighboring communities in the region. The City’s 1997 Urban
+    Reserve Project report includes an analysis of transportation system impacts and possible improvements
+    based on a comparison of two alternative land-use scenarios. The orderly and economic provision of
+    public services and facilities, including the transportation system, was among the criteria used to evaluate
+    the URA’s.
+
+    Newberg’s Transportation Plan update shows the current and Planning Commission’s recommendation
+    for Chehalem Drive. According to Figure 6-1 of the Transportation System Plan (March 2005) Chehalem
+    Drive is classified as a Major Collector street. The City’s Planning Commission, on their periodic review
+    of the Transportation System Plan, has recommended that Chehalem Drive remain a Major Collector
+    street. As stated in the TSP, the recommendation includes:
+
+    Chehalem Drive: Recommend that the City of Newberg and Yamhill County reconstruct those sections of
+    Chehalem Drive under each respective jurisdiction, between Ore 240 and North Valley Road to major
+    collector street standards to include bicycle lanes and sidewalks on both sides of the street. This project
+    is approximately 1.57 miles, and is estimated to cost approximately $4.0 million. Approximately one-half
+    of this segment is within the UGB; the remaining portion of this project is located outside of the City’s
+    UGB and within its designated Urban Reserve Area, and therefore is currently within the jurisdiction of
+    Yamhill County. At such time when Newberg annexes these Urban Reserves into its UGB, this portion of
+    the project would become the City’s responsibility.
+
+    Improvements to Chehalem Drive will provide adequate access for the area, thereby reducing the
+   potential for arterial traffic traveling on nearby local streets, and provide better access.for bicyclists and
+
+Coyote Homes                           *                                       Urban Growth Boundary Amendment
+September 23, 2005                                                                                               8
+   pedestrians. Chehalem Drive is either inside the Newberg UGB or Urban Reserve Area. For purposes of
+   cost attribution, it was assumed that the City would be responsible for the total cost of this project.
+
+    A transportation study was not conducted for this project. At the pre-application meeting held with the
+    City of Newberg (September 7, 2005) staff stated that the total number of lots proposed did not require a
+    Traffic Impact Study. This was due to the threshold level of 400 vehicle trips per day at the pm peak. The
+    Applicant is proposing to build approximately 38 homes, thus being under the threshold amount. If in the
+    future a transportation study is required, the Applicant will submit a study by a transportation engineer to
+    meet this requirement.
+
+    Future development in the area will pay for transportation improvements through existing Transportation
+    System Development Charges. These are estimated as follows:
+
+          38 Single Family at $1,709.35 each equals $64,955.30
+
+    Thus, future development would generate sufficient SDC revenue to pay its share of capacity
+    improvements, and generate additional funds for other capacity improvements throughout the City as
+    identified in the Transportation System Plan. Please note that Lot 38 can be subdivided in the future.
+    When Lot 38 is subdivided, SDC fees will be paid to the City at that time. For this application, the SDC
+    fees are based on the total number of proposed lots at this time.
+
+    Goal 14, Urbanization:        The objective of this goal is to provide for an orderly and efficient transition .
+    from rural to urban land use. This goal requires all cities to estimate future growth and needs for land and
+    then plan and zone enough land to meet those needs. It calls for each city to establish an “urban growth
+    boundary” (UGB) to “identify and separate urbanizable land from rural land.” According to Section
+    IV.B, Urban Growth Boundary, of the Comprehensive Plan, the UGB for Newberg was established to
+    separate urban and urbanizable areas from land which are to remain in rural uses through the year 2010.
+    The UGB contains approximately 3,952 acres, as compared with the current City area of approximately
+    2,780 acres. 1,043 acres have been identified as being vacant and buildable. Anticipated development
+    needs are expected to exceed the area currently within the UGB.                                              ;
+    The UGB was adopted based on anticipated needs for housing, employment and livability. In accordance
+    with Statewide planning goals. The UGB is designed to accommodate multiple tasks including a
+    projected population of 27,000 people; the orderly and economic provision of public facilities and
+    services; and to provide for maximum efficiency of land uses both within and on the fringe of the
+    existing urban area. Environmental, social, energy, and economic consequences and the compatibility of
+    proposed urban uses with nearby agricultural activities were also considered in the location of the UGB.
+    Seven factors are specified by Goal 14 that must be considered in establishing and changing UGB. These
+    seven factors, including the establishment of the urban growth boundary (a), are addressed in this
+    application (b) through (g) of this section.
+
+    (b) Need for housing, employment opportunities, and livability:
+
+    Based on the 2010 population forecast of 24,000 for the City as shown in the Newberg Housing and
+    Residential Land Needs Report (exhibit 6), and the certified population estimates of 18,064, there
+    remains a projected increase of 5,936 people for the planning period through 2010. The certified U.S.
+    Census counts indicate a population growth rate of 38% in Newberg form 1990 to 2000, which is the
+
+Coyote Homes                                                                   Urban Growth Boundary Amendment
+September 23, 2005                                    :                                                          9
+             of an average of 3.3% increase per year. The growth rate experienced over the past decade is
+    equivalent
+   notably consistent with the Newberg Housing and Residential Land Needs Report forecast of 2.88 %
+   increase.
+
+                                       POPULATION AND POPULATION PROJECTIONS
+                                                                    2000-2040
+                                                                    TABLE 1
+     Location               2000 (1)                      2010                      2020                      2030              2040
+     Yamhill County (2) __| 84,992                        101,152                   119,589                   138,095           155,779
+     Newberg UGB (3)        18,438                        24,497                    33,683                    42,870            54,097
+     City of Newberg (4) _| 18,064                        24,000                    33,000                    42,000            53,000
+     (1) 2000 data for City & County from US Census Bureau; UGB data are estimate by City of Newberg
+    (2) Yamhill County projections from Oregon Office of Economic Analysis, 1997 Long-Term Population Forecast
+    (3) Newberg UGB projections computed using 2000 estimate from City of Newberg and PSU growth rates for Newberg
+    (4) City of Newberg projections from PSU Population Research Center, cohort-component method, 3/25/2004
+
+    According to the City’s population projections, the population of Newberg is expected to continue to
+    grow over the next 20-years. According to the 2004 population projections, approximately 15,000 new
+    residents will have moved into the City of Newberg between the year 2000 and 2030. This population
+    increase will require an adequate supply of residential, commercial, and industrial land in order to
+    maintain a jobs/housing balance in the area, and to provide adequate job opportunities and housing
+    choice to maintain livability in the community.
+    A housing analysis was conducted in 2004 to study the availability of land in the Newberg area to
+    determine the amount of residential land needed in the City of Newberg for each needed housing type for
+    the next 20 years. This study was able to demonstrate that both a housing and land shortage within the
+    UGB of the City of Newberg was unavoidable and concluded that an expansion of the “City’s
+    identifiable residential capacity is projected to be largely exhausted without action to increase capacity.”
+
+    The table below shows the net surplus/ (deficit) by housing category to demonstrate the need for
+    increased capacity.
+                                                                    TABLE 2
+                                   NET SURPLUS/ (DEFICIT) BY PLAN CATEGORY
+                                          Land Needed       Buildable  Surplus/ (Deficit)
+                                          by Plan Category  Land       by Plan Category
+                                          2005-25   2005-40 Within UGB 2005-25    2005-40
+
+                    Medium Growth
+                    LDR                          837            1,638          357.25               (480)        (1,281)
+                    MDR                          163            318            73.12                (89)         (245)
+                    ADR                          70          - 136             2.11                 (68)         (134)
+
+                    High Growth
+                    LDR                          1,394          2,473          357.25               (1,037)       (2,116)
+                    MDR                          272            482            73.12                99)           (409)
+                    HDR                          116            206            2d                   (114)         (204)
+
+Coyote Homes                                                                                             Urban Growth Boundary Amendment
+September 23, 2005                                                                                                                     10
+                     Low Growth
+                     LDR              602        1,287      357.25          (245)      (929)
+                     MDR              117        251        73.12           (44)       (178)
+                     HDR              50         107        2.11            (48)       (105)
+    The Net Surplus/ (Deficit) table, shown above, includes projected residential land needs for the various
+    housing types provided for in the Newberg Housing and Residential Land Needs Report: Low Density
+    Residential (LDR); Medium Density Residential (MDR); and High Density Residential (HDR). This
+    study shows the available lands available per category as of 2005. The Surplus/ (Deficit) category shows
+    that there is already a deficit of land, which is needed in order to keep up with demand. The evidence
+    presented in the table above and within the Newberg Housing and Residential Land Needs Report clearly
+    demonstrates that the current supply of vacant developable and appropriately zoned land is inadequate to
+    meet the needs of the community over the next several years.
+
+    In summary, the population and residential housing growth within the City has increased consistently
+    over the past several years. The Urban Reserve Area land that has been brought into the UGB has started
+    to be developed with residential units. There is currently a low amount of available, developable land
+    within the city for residential development. Suitable residentially zoned land is in short supply to meet
+    residential growth needs in the immediate future and especially over the next five to ten years according
+    to City sources including the Comprehensive Plans and the Newberg Housing and Residential Land
+    Needs Report.
+
+    (c) Orderly and economic provision for public facilities and services:
+
+    Utilities can be brought in and extended from the existing utilities from the north and the east. A
+    development has already extended utilities to the northern boundary of the site. The existing utilities,
+    located in Crater Lane and Lynn Drive can be extended to serve the proposed development. Please refer
+    to the potential Lot Layout plan which demonstrates that utilities can be brought in, in an orderly and
+    economic fashion. Please note, that tax lot 1600 has an existing septic system on the lot. It is the intention
+    of the applicant to eventually take the existing home off of the septic system and connect it with the
+    City’s public facilities. This can be done in a number of ways or stages depending on the overall
+    development pattern. The Applicant will be willing to work with Staff to determine the best approach to
+    include this property in to the UGB Amendment with the expectation of bringing the property in to the
+    City of Newberg.
+
+    (d) Maximum efficiency of land uses within and on the fringe of the existing urban area.
+
+    The proposed amendment will provide for maximum efficiency of land use on the fringe of the urban
+    area through the extension of public utilities that would allow for development at an urban scale. For the
+    proposed use of the area under review, the Applicant is requesting the Comprehensive Plan designated of
+    MDR and subsequent Zoning designationof R-2. This designation would allow the type of development
+    that is harmonious in agreement with the use of nearby properties located east and north of the site with
+    in the City limits. The properties to the north were recently brought into the City of Newberg in 2001.
+    This land was given the Comprehensive Plan Map Designation of LDR-6.6 Low Density Residential 6.6
+    d.u. /ac, However, the land just north of that has the MDR Comprehensive Plan Map Designation. In
+    addition, there is a large area to the south east of the subject site that is also designated MDR. Thus, it is
+
+Coyote Homes                                                                   Urban Growth Boundary Amendment
+September 23, 2005                                                                                           11
+    not a large leap to demonstrate that the MDR Comprehensive Plan Map Designation could be compatible
+    lying adjacent to LDR6.6 and LDR Comprehensive Plan Map Designation land. The applicant is seeking
+    a similar designation in order to develop the land in manner that will allow flexibility to the homebuilder
+    and yet compatible with the surrounding properties. In addition, MDR lands are in short supply,
+    according to the housing needs study (see Table 2) and thus fill a housing need. Finally, the area could
+    potentially provide an overall density of approximately 38 Single Family residential units, which can
+    efficiently be served by extension of public utilities. (Please note that Lot 38 may be divided in the
+    future.) The overall number of lots may change depending on the City’s Development Code at the time
+    of either Annexation or Land Division approval.
+
+    (e) Environmental, energy, economic and social consequences (EESC);
+
+   Environmental consequences:       The site is developed with single-family homes with a few vacant lots.
+   Although the lands west of the site are classified as agricultural in nature, the properties under review are
+   zoned VLDR lots with homes fronting Chehalem Drive. Chehalem Drive serves as both a visual and
+   physical buffer between the agricultural uses west of the site. There are no known historic sites that exist
+   on the project area.
+
+   Energy consequences: The provision of needed medium-density housing will help to conserve energy
+   resources by expanding an existing efficient land use pattern. The proposed site is within a close
+   proximity of public facilities, thus potentially reducing the reliance on automobile transportation.
+
+   Economic consequences: Until the parcels are annexed, there is negligible economic impact. Upon
+   annexation, a complete economic impact statement may be required and additional service requirements
+   and the costs associated with them will be analyzed at that time. For example, development activity will
+   likely generate more traffic in the area but that same development activity will also generate additional
+   transportation fees and fund those local road improvements.                ;
+
+   Social Consequences:     The long-term socioeconomic benefits to the community will be enhanced by
+   helping to create a “complete community”, where jobs, housing, goods and services are located in
+   reasonable proximity to one another. Employers will be more inclined to retain and create well-paying
+   jobs where a supply of housing choices is readily available to meet the needs for their employees. There
+   are public schools, a community center and a park within easy walking distance of the proposed site for
+   the UGB amendment.
+
+   The applicant strongly believes that including these parcels, under review, within the urban growth
+   boundary at this time will be a greater benefit to the City than any negative impact that may have been
+   identified or listed above.
+
+    ()   Retention of agricultural land as defined, with Class I being the highest priority for retention
+         and Class VI the lowest priority; and
+
+    The City of Newberg Inventory of Natural and Cultural Resources indicates that most soils in the vicinity
+    are flat and at least moderately fertile, though nearly all types have some problem with drainage. The site
+    consists primarily of WuB Woodburn silt loam soils. Woodburn soils are identified as Class II soils by
+    the SCS. The land definition identified in this general area as having a mixture of soil types ranging from
+    Class II soil type to Class VI soil type. Yamhill County identified the property under review as “lands
+    committed to rural residential use” in Exceptions Statement II, issued in 1980. Therefore, it has been
+
+Coyote Homes                                                                   Urban Growth Boundary Amendment
+September 23, 2005                                                                                             12
+    previously determined that the site is not well suited for use as agricultural land, and has low priority for
+    retention as agricultural land.
+
+  - (g) Compatibility of the proposed urban uses with other adjacent uses.
+
+    Oregon’s land use laws were designed to protect farmland and to establish city boundaries. Where these
+    boundaries terminate, potential conflict with adjacent activities, including farming activity can occur.
+    Urban reserve areas, by their very nature, exist on the fringes of these city boundaries. These parcels
+    were included within the Newberg’s Urban Reserve Area in anticipation of development occurring by
+    2020. Newberg’s Development Code has been designed to mitigate impacts of new development on
+    surrounding land uses. Impacts on this area, which may occur because of existing farm practices, can also
+    be mitigated by proper installation of amenities such as landscaping and screening at time of
+    development.
+
+    The area under consideration is located between Chehalem Drive to the west and the western fringe of
+    Newberg’s city limits. West of Chehalem Drive (west of the site under review) there are additional pieces
+    of land designated as Urban Reserve Area. This Urban Reserves Land acts as a buffer between Yamhill
+    County agricultural lands and the City of Newberg’s urbanized area. The lands directly to the west of the
+    site contain residential dwelling units developed to City of Newberg R-1 zoning standards. The property
+    to the north contains residential dwelling units developed to the City of Newberg R-1/6.6 zoning
+    standards. Two public schools and a community center were constructed within the City limits north of
+    the site under review and should be able to serve the parcels under UGB amendment consideration. The
+    schools were built in this area in anticipation of future development and growth in this area of the City
+    and general area.                                             :
+
+    II. Newberg Comprehensive Plan Amendment Criteria - Newberg Development Code, Section
+           151.122: The applicant must demonstrate compliance with the following criteria:
+
+        A. The proposed change is consistent with and promotes the goals and policies of the Newberg
+             Comprehensive Plan and this code.
+
+        Newberg Comprehensive Plan Policies and Goals:
+
+        Agricultural Lands — Goal: To provide for the orderly and efficient transition from rural to
+        urban land uses.
+
+        Agricultural Lands — Policy 1. The conversion of urbanizable land from agricultural to urban
+        land uses shall be orderly and efficient.
+
+    As previously noted, in 1992 and 1993 an urban reserve area project was completed. The Urban Reserve
+    Area land supply was intended to provide adequate land for the City’s needs until 2020. As shown on
+    Table 2, a current shortfall of residential land has been identified. These parcels were included within the
+    urban reserve area and conversion from agricultural and county-zoned VLDR-1 (Low Density
+    Residential) lands to urban land uses are occurring in an orderly and efficient manner. Adjacent
+    properties to the east and north have been either developed or are in the process of being developed with
+    residential units. Conversion of this site, from urban reserve to be within the UGB is the next logical step
+    and order of progression for any urban development to occur.             7
+
+Coyote Homes                                                                   Urban Growth Boundary Amendment
+September 23, 2005                        .                                                                  13
+        Agricultural Lands — Policy 2. Inclusion of lands in agricultural use within the Urban Growth
+        Boundary is recognition of a commitment to future urbanization; as such, lands are necessary
+        to meet long-range population and economic needs, based on criteria outlined in the statewide
+        Urbanization Goal.
+
+    The site under review is currently zoned VLDR-1 (Low Density Residential) land. This area is mostly
+    developed with single-family residential units; a couple of parcels are undeveloped at this time. As
+    shown in Table 2, there is a shortage of medium and high-density lands available to meet the City’s
+    needs. If the current trends continue, the inclusion of this land into the UGB will become vital for the city
+    to meet the housing needs of future residents.
+
+        Air, Water, and Land Resource Quality — Goal: To maintain and, where feasible, enhance the
+         air, water and land resource qualities within the community.
+
+        Air, Water, and Land Resource Quality — Policy 3: As public sanitary sewer systems become
+        available, all development shall connect to the public system. To encourage economic
+         development, the City may permit subsurface sewerage disposal where the system meets State
+         and County requirements and where unique circumstances exist.
+
+    The property owners on the area of the proposed UGB amendment will connect to a public sanitary
+    sewer system. A study will be done to determine if the current regional sanitary sewer and associated
+    pump station will be able to handle the added capacity of the new development. The Applicant is
+    designing the area under review to go directly into a gravity sewer system in order to minimize any
+    impact of the existing sewer pump station that serves this area. In any situation, the future development
+    of the site will connect into a public sanitary system in order to meet the goals and policies of the City’s
+    Comprehensive Plan.
+
+        Housing — Goal: To provide for a diversity in the type, density and location of housing within
+        the City to ensure there is an adequate supply of affordable housing units to meet the needs of
+        City residents' of various income levels.
+
+        Housing — Location Policy 2 (a): Medium and high-density areas should be located for
+        immediate access to collector streets or minor arterials and should not cause traffic to move
+        through low-density areas. High-density areas should be easily accessible to arterial streets.
+        They should also be located near commercial services and public open spaces.
+
+    The subject site has two existing streets that border the site on both the east and west of the site.
+    Chehalem Drive borders the site on the west and Crater Lane is located on the east side of the site.
+    Chehalem Drive provides convenient access to Highway 240 and Highway 99. In addition, Chehalem
+    Drive provides convenient access to nearby employment centers within the City of Newberg. Two public
+    schools and a community center have been constructed within the last few years within the general area
+    to the north of this site. The schools were built in this area in anticipation of future growth in the general
+    vicinity of the subject site.
+
+        Transportation — Goal 5: Maximize pedestrian, bicycle and other non-motorized travel
+        throughout the city.                                        =
+
+Coyote Homes                                                                    Urban Growth Boundary Amendment
+September 23, 2005                                                                                             14
+        Transportation — Policy d: Public sidewalks shall be provided along all public street frontages.
+        Pedestrian traffic shall be separated from automobile traffic whenever possible.
+
+    The ultimate use of the subject site will be residential dwelling units. Upon development of the site, Staff
+    will review the project to ensure that the goals of the Comprehensive Plan are met. If required, the
+    subdivision will be built with sidewalks along all public streets to keep a buffer between pedestrian and
+    vehicular traffic.
+
+        Transportation — Goal 9: Create effective circulation and access for the local transportation                ,   E
+        system.                                                                                :                         I
+
+    A Traffic Impact Study has been prepared by Kittleson & Associates to study the area to the north of this
+     site. A transportation study was not conducted for this project. At the pre-application meeting held with
+     the City of Newberg (September 7, 2005) staff stated that the total number of lots proposed did not
+     require a Traffic Impact Study. This was due to the threshold level of 400 vehicle trips per day at the pm
+    peak. The Applicant is proposing to build approximately 38 homes, thus being under the threshold
+     amount. If in the future a transportation study is required, the Applicant will submit a study by a                     |
+     transportation engineer to meet this requirement.
+
+        Public Facilities and Services — Goal: To plan and develop a timely, orderly and efficient                           |
+        arrangement of public facilities and services to serve as a framework for urban development.
+
+        Public Facilities and Services — Policy 1(a): The provision of public facilities and services shall
+        be used as tools to implement the land use plan and encourage an orderly and efficient
+        development pattern.
+
+        Public Facilities and Services — Policy 2(c): Developments with urban densities should be
+        encouraged to locate within the area, which can be serviced by Newberg's present sanitary
+        sewer system.
+
+    The public utilities can be extended to connect to the existing services in the area, which will serve the
+    proposed site once a formal development application has been submitted to the City (i.c., after the UGB
+    amendment and annexation is complete). A study will be done to determine if the current regional
+    sanitary sewer and associated pump station will be able to handle the added capacity of the new
+    development. In any situation, the future development of the site will connect into a public sanitary
+    system in order to meet the goals and policies of the City’s Comprehensive Plan. Please note, that tax lot
+    1600 has an existing septic system on the lot. It is the intention of the applicant to eventually take the
+    existing home off of the septic system and connect it with the City’s public facilities.   This can be done in
+    a number of ways or stages depending on the overall development pattern. The Applicant will be willing
+    to work with Staff to determine the best approach to include this property in to the UGB Amendment
+    with the expectation of bringing the property in to the City of Newberg.
+
+        Urbanization — Goal To provide for the orderly and efficient transition from rural to urban
+        land uses.
+
+    As previously noted above, the land has been included within the Newberg’s Urban Reserve Area to
+    provide adequate land for the City’s needs through 2020. Since these parcels were already included
+    within the urban reserve area, conversion from agricultural / VLDR-1 (Low Density Residential) land to
+
+Coyote Homes                                                                   Urban Growth Boundary Amendment
+September 23, 2005                                                                                           15
+   urban land uses is occurring in an orderly and efficient manner. In addition, the study of the utilities and
+   traffic impact prepared in conjunction with this application found that public services and facilities can
+   be effectively provided to the site rot support the urban level of service for a low to medium density
+    residential development.
+
+        Urbanization — Policy 1(f): In expanding or otherwise altering the Urban Growth Boundary,
+        the Boundary shall follow road rights-of-way, lot lines, or natural features.
+
+    The proposed UGB amendment would modify the existing boundary to coincide with the west line of
+    Chehalem Drive, which includes tax lots: 1000, 1001, 1100, 1200, 1300, 1400, and 1600 on Map 32-
+    18AB.
+
+        Urbanization — Policy 1(h): The designated Urban Reserve Area identifies the priority lands to
+        include within the Newberg Urban Growth Boundary to meet projected growth needs to
+        provide a thirty (30) to fifty (50) year land supply. Designated Urban Reserve Area lands will
+        be included within the Urban Growth Boundary on a phased basis at periodic review. Property
+       _ owners will also have the opportunity to request that land within the designated Urban Reserve
+        Area be included within the Newberg Urban Growth Boundary, based on the criteria outlined
+        in LCDC Goal 14 and the Urban Growth Management.
+
+    The Urban Reserve Areas were evaluated and prioritized for inclusion in the UGB a number of years
+    ago. Since that time, the properties to the north of this site have been through the UGB amendment
+    process in 2001. These properties were zoned R-1/6.6 with properties zoned R-2 abutting the R-1/6.6
+    properties to the north. The Applicant requests to have this site reviewed for inclusion within the UGB
+    and designated with a MDR comprehensive planning designation and a R-2 zoning designation. This
+    application demonstrates compliance with criteria specified in Statewide Goal 14, Urbanization.
+    Responses to this section can be reviewed earlier in this report.
+
+Coyote Homes                                                                  Urban Growth Boundary Amendment
+September 23, 2005                                                                                          16
+         B. Public facilities and services are or can be reasonably made available to support the uses
+               allowed by the proposed change.
+
+    The proposed Urban Growth Boundary Amendment itself does not require provision for public facilities.
+    As previously noted, future development can readily be served by the extension of utilities from the
+    surrounding area. Please note, that tax lot 1600 has an existing septic system on the lot. It is the intention
+    of the Applicant to eventually take the existing home off of the septic system and connect it with the
+    City’s public facilities. This can be done in a number of ways or stages depending on the overall
+    development pattern. The Applicant will be willing to work with Staff to determine the best approach to
+    include this property in to the UGB Amendment with the expectation of bringing the property in to the
+    City of Newberg.
+
+    Utilities can be brought in and extended from the existing utilities from the north and the east. A
+    development has already extended utilities to the northern boundary of the site. The existing utilities
+    located in Crater Lane and Lynn Drive can be extended to serve the proposed development. Please refer
+    to the potential Lot Layout plan which demonstrates that utilities can be brought in an in an orderly and
+    economic fashion. The Applicant will prepare a detailed site plan for submittal to the City of Newberg to
+    demonstrate that all utilities are designed with adequate capacity to service every proposed and future lot
+    within the subject site.
+
+    It    ORS Standards:
+
+         ORS 197.298: ORS 197.298 establishes priorities for land to be included within an urban growth
+         boundary. ORS 197.298 (1)(a) states: “In addition to any requirements established by rule addressing
+         urbanization, land may not be included within an urban growth boundary except under the following
+         priorities: (a) First priority is land that is designated urban reserve land under ORS 195.145, rule or
+         metropolitan service district action plan.”
+
+    As noted in Exhibit 2, and the findings starting on page 5, the land under review is currently located
+    within the urban reserve area, and as a result has the urban reserve designation on the City
+    Comprehensive Plan Map.
+
+         OAR 660-Division 4: OAR 660-Division 4 exceptions standards interpret the Goal 2 Exception
+         Process as it applies to statewide Goals 3 to 19. OAR 660-004-0010(1)(c)(B) states: “When a local
+         government changes an established urban growth boundary applying Goal 14 as it existed prior to the
+         amendments adopted April 28, 2005, it shall follow the procedures and requirements set forth in Goal
+         2 "Land Use Planning," Part II, Exceptions. An established urban growth boundary is one which has
+         been acknowledged by the Commission under ORS 197.251, 197.625 or 197.626. Revised findings
+         and reasons in support of an amendment to an established urban growth boundary shall demonstrate
+         compliance with the seven factors of Goal 14 and demonstrate that the following standards are met:
+         (i) Reasons justify why the state policy embodied in the applicable goals should not apply (This
+         factor can be satisfied by compliance with the seven factors of Goal 14); (ii) Areas which do not
+         require a new exception cannot reasonably accommodate the use; (iii) The long-term environmental,
+         economic, social and energy consequences resulting from the use at the proposed site with measures
+         designed to reduce adverse impacts are not significantly more adverse than would typically result
+         from the same proposal being located in areas requiring a goal exception other than the proposed site,
+         and (iv) The proposed uses are compatible with other adjacent uses or will be so rendered through
+         measures designed to reduce adverse impacts.”                          ,
+
+Coyote Homes                                                                    Urban Growth Boundary Amendment
+September 23, 2005                                                                                             17
+    The seven factors of Goal 14 were addressed earlier in this application. Please refer to pages 5 through 13
+    of this application for the facts and findings. In addition the property was designated as “Exception
+    Lands” in 1980 by Yamhill County (exhibit 7).
+
+    IV.     Goal 14 Factors:
+          (a) Demonstrate need to accommodate long-range urban population growth requirements consistent
+                 with LCDC goals;
+          (b)    Need for housing, employment opportunities;
+          (c)    Orderly and:economic provision for public facilities and services;                    ;
+          (d) Maximum efficient of land uses within and on the fringe of the existing urban area,
+          (ec)   Environmental, energy, economic, and social consequences;
+          (f) Retention of agricultural lands as defined, with Class I being the height priority for retention and
+              Class VI the lowest priority; and
+          (g) Compatibility of the proposed urban uses with nearby agricultural activities.
+
+    The seven factors of Goal 14 have been addressed earlier in the application. Please refer to the findings
+    for this section.
+
+    V.    Conclusion:     As shown in Table 2 of this report, there will be a significant shortage of land
+    available for residential development within the City by 2010, if not sooner. The proposed UGB
+    amendment and subsequent Comprehensive Plan and Zoning designation will allow the city to meet
+    housing demand. Changing the Plan designation to allow for higher density urban level development as
+    opposed to very low rural residential development that is currently allowable on the site under County
+    zoning would help the City meet their hosing needs.                                       .
+
+    The Newberg/Yamhill County Urban Reserve Project examined this area in detail and determined that
+    the site would be suitable for meeting the public need for additional land within the City’s UGB.
+    Inclusion of this property within the UGB would help to assure a livable, economically healthy and
+    complete community and provide for a long-term jobs and housing balance. -
+
+    The site can be relatively economically and efficiently served by extensions of public utilities that have
+    the capacity to serve the proposed development, as discussed in the Utility Report.
+
+    Based on all of the above-mentioned findings, the application meets the criteria for an Urban Growth
+    Boundary Amendment.
+
+Coyote Homes                                                                     Urban Growth Boundary Amendment
+September 23, 2005                                                                                             18
+(            MADISON GARDENS
+
+                                                                                                                                                                     ty        PHONE: (503) 469-1213 FAX: (503) 469-1
+                                                                                                                                                            8196 SW HALL BLVD, STE 232
+                                                                                                                                                                               BEAVERTON, OR 97008 -
+                                                                                                                          :
+                                                                                                                                     Giee™® | sr Designuc
+                                                                                                                                                     TORE
+                    DR
+                    LYNN
+
+    CRATER   LANE
+
+                                                                                                                                                       ceed Bo
+                                                                                                                                                             oy
+                                                                                                                          a
+                                                                                                   NTS
+                                                           ‘SHEET INDEX
+
+                                                                                                                                MADISON GARDENS
+                                                                                                                                                        COYOTE HOMES INC.
+                                                           Ct COVER SHEET
+                                                           C2 POTENTIAL LOT LAYOUT
+
+                                                                                                                                  COVER SHEET
+
+                                                                                                                                                                              NEWBERG, OREGON
+                                                                                                                                                                                P.O, BOX 490
+                                                 ly        APPLICANT
+                                                           PHONE: (503) 538-0984
+
+                                        ao
+                                                           Fax (603)-536~3599
+                                                           CONTACT: MIKE WLLCUTS
+
+                                  2%
+                                   Xp,
+                                       -a%,Re,
+                               4. On
+                                                      1      Iv         INEER
+                                                           Sk DESON LLC
+
+                                  1S,
+                                                          LEGAL LOCATION
+                                 ee               I       TOWNSHIP 3 SOUTH,
+                                                                         7, RANGE 2 WEST, A WLAN IETTE, UERIDIAN
+                                                          ADCATED GN THE NORTHEAST QUARIER CE SECTION 18
+                                                          GIy Mie!
+                                                               OF NERSERG, YAMHILL COUNTY, OREGON                 1200,   ||B
+                           HALF Sm                        1300, 1400"ANDAND TAX1500LoT 3 2 TBAB 1000, 1001, 1100,
+                                                          ‘Tax
+
+                                                                                                                                 CHICO2
+    a                                                                 _                                        1 Ey     |!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        aie)$
+                                                                                                      a}
+                                                                                                      a             i                                                                                                                                                                                                                                                                                                                                               82
+                                                                                                      g         a                                                                                                      VESEND:                                                                                                                                                                                                                                      r bee
+                                                                                              .       ||         Lb eee                                                              °                            aSTWE SAMTARY/STORM
+                                                                                                                                                                                                                               SEER CLEANOUT                                                                                                                                                                                                                       Se $53
+                                                                                          a                         |                                                                .                        [BUSTNG SANTARY/STORM SEWER CLEANOUT                                                                                                                                                                                                            Sb      388
+                                                                                          a                         terme                                                            ae                                                                                    ee                                                                                                                                                                                  Bl     Sze
+                                                                                                                    i            a                                                   °                            sree Sayan sven wnlsote                                                                                                                                                                                                   I                 Q       age
+                                                                                                                    i                                                                west exci                                                                                                                                                                                                                                                                S| B88
+                                                                                                  Vineet
+                                                                                                                                     ut                                              x                        ERSTING ARE HYDRANT                                                                                                                                                                                                  ar
+                                                                                                      =  |                                                                                                        ee
+                                                                                                                                                                                                                  asnWNe STORM SEWER
+                                                                                                                                                                                                                                                                                                                                                                                                                                   d<                                         d
+                                                                                                                                                                                                                                                                                                                                                                                                                               fan                                            4
+                                                                                                                                                                                                                  DaSTWG PROPERTY Une                                                                                                                                                                                          :                                              5
+                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        no
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        Zo             *
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        OoEOi |n_z
+                                                                                                                                                                                                                                                                                                                                                                                                                                                              |2
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        Of           /Wgs
+                                                                                                                                                                                                                  /
+                                                                                                                                                                                                                                                                                                                                                                                                                                    I                   96&5         |555
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Qs
+                                                                                                                                                                                                              i                                                                                                                                                                                                                                         OZ                 |weg
+    eel ana As
+            Po                                                                                                                       oe                                                  eh                   \                                   ok                                                                                                                                         *                                ||                        (2ge28
+           EHo           '
+                         fyd 'ere Ht
+                                  f
+                                                                                                                                     LARA                                                A A                                                               \                                                                                                                                 pd                        if 1                             x = |°
+           tuo           ota tat                                                                                                     yoo
+                                                                                                                                       Vovr                 Vvyiy
+                                                                                                                                                                                 Voy                                  SN ~                                   \                                      \                                               \                                            1                          3 f                         m
+           |             !   !    !                                                                                                      |                  \                                                                             \                            \                                \                                               \                                        {                      of\
+    aaa
+           mi
+           --—p---- beseptacend
+                                eee
+                                 —
+                                     |
+                                    Toe
+                                                                                                                                         ey   TERMYONLL                                                                                                                                                     4\                                                                                       ii
+          Po
+          re                           e
+                                                       i
+                                                       | ee
+                                                      oe                            eee
+                                                                                                                                         y  tous
+                                                                                                                                             or
+                                                                                                                                             | ee     ne
+                                                                                                                                                  On Gs                                                                                                                                                          \
+                                                                                                                                                                                                                                                                                                                                                            \
+                                                                                                                                                                                                                                                                                                                                                                1
+                                                                                                                                                                                                                                                                                                                                                                                                     lj
+                                                                                                                                                                                                                                                                                                                                                                                                     rity                                       |
+            \        !                                 H   Ht eateesaetenieit oa                                                             i   \      \                        \                    \               \                       4                            \                                         i                                              |                                i                Py}                                   f44dyaqs
+          ,                                           |,   \I cairn            I4                          .        benef                            a pp                                                             a                                                         a                                                                                       a                                \                                      E
+er
+ ee ae                   eee               eee!       Ss
+                                                         J a ae           ae
+                                                                               |                                             i       ‘               |
+                                                                                                                                                     /                       !                                \foyovoy
+                                                                                                                                                                                                                  \ '  :                                                                                                 \                                              \                                    1                 |                :
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    a        el
+                                                                                                                                                                         !                                |                           \                \                        \                                            \                                              \                                    \
+—                ee                                                                                                                                                      oof                                          Spey                                                          yo                                                                                      \                                    \                              E
+                 ib :                             i
+                                                                                                                                                                        ee   ce                                                                                                                                                                                                 t+                               4|
+                                                                                                                                                                        i  i aa a                                                                              :                    \                                                I                                          ;                                                                             ls
+            sia    ha |                                                                                                                                                                                                                                                                 \                                                                                                                                                       gale
+                 peat                                                                                                                                               er
+                 '                 !              !
+                                                                                                                                                                                                                                                                   |                                                                                                                 1                                |!                        eee                   |
+                                                                                                                                                                    [                                 |                           |                                |                        \                                            \                                           |                                                          £O|s                  [8
+[                              :
+                               _                                                                                                                                i                                 |                           I                                |                                i,                                           4                                           \                                                      ae                  aaa
+                                                                                                                                                            f                                 i                           i                                t                                    t                                                +—__1                                                                                          opera
+                                                                                                                                                 are,                                    f;                               tT CHEHALEM                                                               OR |                                                                                     TT                                                 Sean
+                                                                                                                                                                                                                                                                                                                                                                                                                                                LAYOUT
+                                                                                                                                                                                                                                                                                                                                                                                                                                                ‘SIEET NUMBER
+\                                                                                                                                                                                                                                                                                                                                .                                                                                                                            a,
+                                                                                                  LEGEND
+                                                                                  °      PROPOSED SANITARY SEWER MANHOLE
+
+                                                                                                                                                                                                      PHONE: (803) 469-1213 FAN (603) 469-
+                                                                                  °      PROPOSED STORM SEWER MANHOLE
+
+                                                                                                                                                                                           8196 SW HALL BLYD., STE. 232
+                                                                        ae
+
+                                                                                  ®      PROPOSED WATER VALVE
+
+                                                                                                                                                                           CCR = PORT
+                                                                                         PROPOSED SANITARY/STORM SEWER CLEANOUT
+
+                                                                                                                                                                                                      BEAVERTON, OR 97008
+                                                                                         BASTING SANITARY/STORM SEWER CLEANOUT
+                                                                   in
+
+                                                                                                                                                                    SR Design t10
+                                                                                 ®       EASTING STORM SEWER MANHOLE
+                                                                   a
+                                                                                 i)      [BASTING SANITARY SEVER MANHOLE
+                                                                   Z|
+                                                                   b=
+                                                                                 =
+                                                                                 *
+                                                                                         BASTING CATCHEASN
+                                                                                         BASTING FIRE HYDRANT
+                                                                   =!           v:   EOSTING WATER UNE
+                                                                        ee
+
+                                                                                                                                          DR.
+                                                                             ——s —_ iste sauitaay sever
+                CRATER LANE.                  pone ere ret i eee
+
+                                                                                                                                                                                                                          EXPRES 12-31-08
+                                                                                                                                                                    a)
+                                                                             — 2 — — onsmns stow sever
+                                                                             PROPOSED WATER UNE -
+
+                                                                                                                                          COLUMBIA
+
+                                                                                                                                                                    ae
+                                                                                                                                                                Rai
+                                                                                                                                                       ge
+                                                                             ——=-— prorosen sutary sever
+              Lo-------=4
+
+                                                                                         PROPOSED STORM SEWER
+a
+                                      8
+
+                                                                                                                                                       POTENTIAL LOT LAYOUT
+                                                                                                                                                         MADISON GARDENS
+                                                                                                                                                                                        COYOTE HOMES INC.
+             a
+
+                                                                                                                                                                                           NEWBERG, OREGON
+                                                                                                                                                                                             P.O. BOX 490
+    L ciatmieinieiaieimintas = meee
+
+                                                                                          1                1    ~   1      1          '
+                                                                                          | tO
+                                                                                           oCet                                       |
+                                                                                         a
+                                                                                         ae
+
+                                                                                                                                                     THE
+                                                                                         a                                        |
+                                          8
+
+                                                                                              a
+                                                                                              SITE     PLAN
+                                                                                              SCALE:   I"=50°
+                                                                                               HALF SIZE
+                                                                                                       CHEHALEM_DR.
+                                                                                                                                                                                                                                                                                        EXHIBIT 4
+                       Rr                                            O£O
+                                                            A HILLSBORO  SILVERTON  , HWY,
+                                                                              ERTON Hy                                                                 fu                                                oo      | a |
+                       |                           7
+                                                   4
+             .             RIS                     r                                                                                              |                                                      X4              ‘
+      “ a4       o Pyr]{s00                                                                                                                                                                              a                                                                         de
+     PY nog
+                                                                                                                                                                                                                                                                                   +
+                 q          600                    a                                                                                                                                      I300           <x
+  as                                                                                                                                                                                      2000                                                                                     =.
+ he              r                                 ’
+                                                   "                                                                       G
+                                                                                                                                                                                                         S                    /Toz
+ ,     a           wi                                                                                                     iS)                               800                            100,    5Ti]
+                                                                                                                                                                                                                                                                                   =
+    Te             A Fo,                                                               1900            }190)              |W                              boa
+                                                                                                                                                              :                          avea           /700‘Fo!                                                                   a
+    iwx                                                LLL                                                                                                                              Faees            /                                                                         re
+                 - Alll
+                   gl}      700                        1000 E
+                                                                 Flo!                       3300             |.3100              3000                 [3700
+                                                                                                                                                                                                                            —
+ ; Sic            Pa                                                                                    3400                    | 320)                                                          al         wa IN STREET                                         !          =I TI
+ , = 2”           othe                                           x
+                                                                 E3500]
+                                                                                                   4                            |-3202                                     N\_         70]       PW           7Ace-)o|of sl
+ i
+                                                                                                            3203                  zr00-f+        [zeEs
+                                                                                                                                                    ]
+                                                                                                                                                                       8                                                                      LT                           ala ~l=
+                                                                                                                                                             {18
+         :
+ [Pz                                                                                                                                                                                                                     3
+                  i                                              y               [
+                                                                                      PTE      Fe                                                                          ta  o                               / \Fe o    al   1s    d=   |g {/
+                  “W500
+                                                                                                                                 Le
+                                                                 E                3600                      |_
+                                                                                                                      :
+                                                                                                                      |3700
+                                                                                                                                                   Pere on a        7 28 2
+                                                                                                                                                                 PEELE     1 ved                               .
+                                                                                                                                                                                                               NE ee ecech ale
+                                                                                                                                                                                                                  T                                                        2
+       NS
+                  Zz                                                                                                                  |                          falaleq-Le                                                  Bao  1S= os9                                  ZE
+                                                                 5
+                                                                                 fI                         95                              Qi
+                                                                                                                                                                                                                               AS iter                                         s§
+                                                                                                                                                                       ofa
+                                                                                                                                                                       a   t oo
+                                                                                                                                                                             ee                  /éo0 | 300
+                                                                                                                                                                                                        (202                   AM   ISISS
+                                                                 Eceeeee                                         CHEHALEM!
+                                                                                                                                                                                                                     5       SIS ISREIS lal
+                                                                                                                                                                                                                                          |   a]81S                     A;“<
+                                                                                                                                                 Nokive                          Sf:             /§0°0
+                              4900                                                                                                                                                                                  LOT Sealey ee fae} 8]
+                                                            Pah
+                                                            To          44co                   “AI.                                                                                                                                                                 a     3k
+                                                                                                                                  delglel
+                                                                                                                      H3o1
+                                                                                                                                                                       te AaeheHe
+                                                                                                                                                                Wt                          3]           Udo
+                                                                                                                                                                                                                                                       ;
+                                                                                                                                                                                                                                                                2
+                                                                                 “Sk.                                             =/E/m                                a
+                                                                                            z-7,                                                                                        eae
+                                                            4500                        TI                            4300/4200                                        ——~——=
+                                                                                        Su
+                                                                                                                                                  P3800
+                                                                                                   (Pu.                                                                                                                                                    ad
+                                                                                        x          We
+                                                                            .%
+                                                                                        JEog       {IA[28        .                                                 i                                                                                                           .
+                                                                                                                                                                  t
+                                             “CULLER                 ROAD
+                                                                                                                                                        asuls
+                                                                                                                                                        4a
+                                                                                                                                                       Se
+                                                                                                                                                       Sky
+                                                                                                                                                          i
+                                                                                                                                                       Qs
+                                                                                                                                                        @ SUti
+                           ON,                                                                                                                          oe
+‘Sis   asa Sn        aenanlneiree era
+                                                                                                                                                        SPo                                                                     '                  ‘
+       @
+                                        en   nie       ee
+                                               LEGEND
+                                                                                                                                                                                                                  SSS SEES
+                            “— —~—Reserve area boundary                                                                                                       NEWBERG
+                                                         °                                                                                                                                URBAN                RESERVE AREA PROJECT
+                                   Urban Growth Boundary
+                             ———               Study area bou ndary
+                                                                                                                                                                                                                               STUDY ARFA                  “F«
+ a
+                           2GGHAN J3aKs
+                               {noAv7
+                             uu Las                                                               “ud     W3IVH3HO             ©
+                    =            ro
+                      waaoy S *RGBNONG
+                    iam wy TeaNos3a
+
+                                                                                                                                                                        fiaraimreeranrannarel
+                                                                                                                                                          gg
+                                                                                                                                                      8
+                                                                                                                                                                       ee ae
+                                                                                                                                                                        t {
+                                                          ANOAVT LOT “TWLINALOd
+                                                            SNAGHVS NOSICVIN
+ “ON! SAWOH SLOAOD
+      NoO3uO ‘OuaBRaN
+        06% X08 ‘O'd
+
+                                                                                                                                                               sneet
+                                                                                  VIaNN100
+
+                                                                                                               28M35 muOIS aaSodoNd
+
+                                                                                                                                                               boone
+                                                                                                             2GNS ANYLINYS cESod0uE
+                                                                                                                 NN BLM cBSOEOUs
+oa
+
+                                                                                                                 AGKSS MRIOLS ONUSO a
+                                                      yeeLas
+
+                                                                                                              22H3S ANVLINYS ONS                                  SNV1 waLvyo
+                                                                                  “ud                              SAN Lym oNUSEG
+
+                                                                                                                                        »
+                                                                                                                ANYEGAH SRL ONS
+
+                                                                                                                                               NNAT
+                              2ee TUS “GA7a TH MS 9618
+ ‘siee-6or (cos). xv 12i~69h {c0s) rayon
+                                     800L6 YO 'NOL3AV3E
+
+                                                      on usisod US
+
+                                                                                                                   NSvErOLYD ONUSIS
+
+                                                                                                                                        "eon
+                                                                                                     SONNY SGHRS ALES          ONUSH
+                                                                                                         THON 85H3S MRCS ONUSOG
+                                      + oven
+
+                                                                                                                                               “Yd
+                                                                                              ANONYTIO WGNSS MYOLS/AUVLINS ONUSECL
+                                                                                             ANON WINES MIOLS/AUAINS CBSOEONE
+                                                                                                                SATVA 8BIVIA a350d0¥d
+                                                                                                       SOMNWN UBNES MUCUS CBSOOUE
+                                                                                                    STIOHNYH 2GHGS AUYLINS O3S0d0ud
+                                                                                                                       ws
+                                                                                                                                                                                                                                                                                                         EXHIBIT 4:
+                                 ZiT}                         ul Saloni                     SILVERTON
+                                              a                                                                            1H
+                 a
+
+                                                                                                                                       yy.                    fc                                                           ]
+                                                                                                                                                                                                                               =             SS=
+        35           4       ee
+                           Miv} 500           £                                                                                                                                                                                 w                                                                   £
+                                                                                                                                                               .                 ;                             fifi             a8                                                                  :
+                                                                                                                                                                                                                                                                                                    ad
+PS
+o
+                     gifecoo                      f
+                     Q
+                                                                                                                      5
+                                              le
+a                    7
+                                                                                                                                                                       toe                                     Zooo
+                                                                                                                                                                                                                               3}a)           120)    /Toz                                          :
+Pay                                               ;                                                          a       Q|S                                           woo\:
+                                                                                                                                                                                                                                                                                                    2
+                                                                                                                                                                                                      (( gre
+                                                                                                                                                                                                         2looe \ JWI al i700
+                                                                                                                                                                                                                                                                         |                           L
+                     4                            ee
+        ce           700                          :                  100)     |e
+                                                                               3300e [3100                                      [3000                        —Ta5g                                           eel A
+                                                                                                                                                                                                           2500                           / MAIN           sreeet                       ;       nil
+        ze           3                                me                                             (on         EV                                                                       g\\              T
+ae
+¥
+ 2
+             Q
+                     x\e
+                     Sil co
+                         200. |                                 5soo[>43600 |] [20a
+                                                                td                                                               Ao0-
+                                                                                                                                   Bs) 3 Hg                                                                                                                                                     25
+                                                                               | [3700eee |, [eso
+                                                                                    PORTE     E EY pps
+                                                                                               [370] [AR
+                                                                                                                                wy     me        a2
+                                                                                                    3             B00 / 1400
+                                                                                                                                                                   enaodhohsbab
+                                                                                                      |  T S fepa
+                                                                                                                                                                                                Lol   Lok t¥
+                                                                                                                  l-ft -|io        |p       ui Ys
+                                                                                                                                                                                                                    2774
+                                                                                                                            o foot
+                                                                                                                                                                                                                                          Sigg ep weaal
+                                                                                                                                                         |& |
+                                                                                                                                      E TES ® |SJa/9}9ae
+                                                                                                                                                                                                                                                           =|,
+                                                                                                                                                                                                                                                                                                2x
+                                                                                                                                                                                                                                                                    _        -_
+XE                                                              4              f                                                                                                                                                                                                                i
+                     Zz                                         4                                        9                                                                                                                                                                                      ak
+                           \                                                                                                                 9                                            °           boo                             {140
+                                                               [>q             Fq                        a                                   iS                                                 3a/400(7>—                            200 |               UISISlaiISES            a             é
+                                                                Ect eset                                         CHEHALE™M                   Sokive
+                                                                                                                                                                                          e
+                                                                                                                                                                                                ae                                    300 |     |S        S18 heal
+                                                                                                                                                                                                                                                                                            :
+                                                                                                                                                                                                                    /500                        ORM RT Ris}salks3                               <
+                                                                                                                                                                                                                                                                                                Xe
+                               ; 4900                   4100                4400             ; as]                 430                                             °                                   ]            TWH
+    :            :                                                                                                                                                                        1                g    Q        Hele         8
+                                                                                     an                                          ie)                  S                                   8                     8    8      S              -
+                                                                              SL               8                                 8                    /aia                            [                    fae                 EE Ie00 |.
+                                                                                      at        nee                              TT]                                                      rie                  bade
+                                                         4500                         S2 |,                        #320 |4200                         [3800                          PI               ===—
+                                                                                     Sig        [Pw
+                                                                                     a          we
+                                                                                     %               w
+                                                                              “x8               ia.                                                                          |
+                                             CULLEN
+                                                  LEN                 ROAD
+                                                                       ROA                                                                                     lig
+                                                                                                                                                               232
+                                                                                                                                                              aE
+                                                                                                                                                               M Xs
+                                                                                                                                                               c
+                                                                                                                                                               Uru2o
+‘insect                  neta     cna nen
+                                                                                                                                                               Jo
+         ©
+                                            sie       Ye aa
+                                             LEGEND
+                               .———Reserve area bounda
+                                                       ry ©                                                                                                            NEWBERG URBAN RES ERVE AREA PROJ
+                                     Urban Growth Boundary                                                                                                                                                                                                                            ECT
+                                             Study area bou ndary
+                                                                                                                                                                                                                                                          STUDY AREA “Ee
+III. HOUSING AND RESIDENTIAL LAND NEEDS ANALYSIS
+                                                                                    in the
+The objective of this section is to determine the amount of residential land needed        :
+City of Newberg for each needed housing type for the next 20 years.
+                                                                                        A
+The following analysis uses a methodology suggested by Planning for Residential Growth:
+                                                                             and  Growth
+Workbook for Oregon's Urban Areas produced by the Transportation                        to
+                                                                               been followed
+Management Program (TGM). The steps used in this methodology have
+                                        data available for the City of Newberg .  Since the City
+the greatest extent possible, given the
+                                                                                        such as
+of Newberg is a small city, much of the data which is available for larger urban areas,         l
+                                                   2000   U.S.  Census   and detailed historica
+Public Use Microdata Samples (PUMS) from the
+                                                                            not all of the
+data from prior versions of the U.S.-Census is not available. Consequently,
+suggested analysis steps in the Workbook have been conducted.
+
+A.       NEW HOUSING UNITS NEEDED IN THE NEXT 35 YEARS
+
+Existing population and historical growth
+                                                                              l
+The 2000 Census showed a population of 18,064 in Newberg and 84,992 in Yamhil
+                                                                           indicated for
+County as of April, 2000, as shown in Table 3.1 below. The value of 18,438
+                                                                            City.of
+the population within the Newberg Urban Growth Boundary was computed by the
+                                                                     additional 374
+Newberg as the sum of the 2000 City population and an estimate of an
+people within the UGB but outside the City limits.
+
+                                                                                         from
+Population projections for the City of Newberg and Yamhill County have been drawn
+                                                                                           on
+separaté sources. The Newberg projections were computed by staff at the Populatint
+                                               (PSU), which  utilized the  cohort- compone
+Research Center at Portland State University
+                                                                                          ons
+method to account for the influence of births, deaths, and migration’ on future populati
+for the City of Newberg,’ The Population Research Center figures      indicate that  Newberg
+will grow from 18,000 residents in 2000 to 53,000 residents by 2040 (Table III.1).
+                                                                                              of
+The Yamhill Cotinty projections were released by the Office of Economic Analysis (OEA)
+                                                                                      the State
+the Oregon Department of Administrative Services, the main forecasting body for
+                                                      Populat ion Forecast s  were  released  in
+of Oregon. The-latest Long Term Employment and                                               for
+                                                              ion projecti on  of  101,152
+January 1997. The forecast shows a Yamhill County populat                        .
+2010, increasing to 155,779 by 2040.
+                                                                                    the rates
+The population projection for the Newberg UGB area was estimated by applying
+implied by the PSU figures for the City of Newberg to the entire area within the UGB.
+
+                                                                                  are
+The population for 2000 and population projections for 2010, 2020; 2030, and 2040
+shown in Table 3.1 below.       —
+
+                                                                                     2000 to 2040.
+'     Edmonston, Barry. Population Projection for Newberg, Yamhill County, Oregon:
+                                                                                    25, 2004.
+     Population Research Center, Portland State University, Portland, Oregon. March
+
+                                                                                                     PAGE 21
+NEWBERG HOUSING AND RESIDENTIAL LAND NEEDS REPORT
+                                                  TABLE 3.1
+                                   POPULATION AND POPULATION PROJECTIONS
+                                                  2000-2040
+                                                                       as                                         a                           eS
+        ESUREES       ott ates
+                                                 84,992               101,152             119,589            138,095                155,779
+          Yamhill County (2)
+                                                                      24,497               33,683       :     42,870                54,097
+          Newberg UGB            (3)              18,438
+                                                  18,064              24,000               33,000             42,000                53,000
+          City of Newberg (4)
+                                                                                   e by City of Newberg
+    : (1) 2000 data for City & County from US Census Bureau; UGB data areestimat
+                                                                              1997  Long-Term Population Forecast
+      (2) Yamhill County projections from Oregon Office of Economic Analysis,
+                                                                                        and PSU growth rates for Newberg
+      (3) Newberg UGB projections computed using 2000 estimate from City of Newberg
+                                                                                     mponent   method, 3/25/2004
+      (4) City of Newberg projections from PSU Population Research Center, cohort-co
+
+                                                                                           3.2
+    The growth rates implied by these estimates and projections are shown below. Table and
+                                                    (AAGR)  for the populati on estimate s
+    below shows the annual average growth rate
+    projections for Yambill County and the City of Newberg. -              :
+
+                                                     TABLE 3.2
+                                       AVERAGE ANNUAL GROWTH RATE (AAGR) '
+                                           FOR POPULATION PROJECTIONS
+                                                  "2000-2040          ;
+
+                                                           1.76%                :    1.72%                       1.63%         oa
+          Yamhill County (1)
+                                                                                     3.06%          .         2:85%                      2.73%.
+          Newberg UGB (2)                                  2.88%
+                                                                            .        3.06%                    2.85%                      2.73%     |
+          City of Newberg (3)                              2.88%
+                                                                                                              Population Forecast
+    :     (1) Yamhill County projections from Oregon Office of Economic Analysis, 1997 Long-Term
+                                          growth  rates were  set equal to those  computed  for the City of  Newberg   by PsUS
+          (2) Newberg UGB population
+                                           from  PSU    Population   Research  Center, cohort-com  ponent   method,  3/25/2004
+~         (3) City of Newberg projections
+
+                                                                                            Census
+    ‘As shown in Table 3.2, the annual average growth rate (AAGR) implied by the U.S.
+                                                                                        for  2010,
+    for population for Yamhill County in 2000 and the OEA forecasts is 1.76 percent
+                                                                                                SU
+    decreasing to 1.72 percent for 2020, 1.63 percent for 2030, and 1.53 percent for 2040..P
+                                                                                                 to
+    estimates for the City of Newberg show an AAGR of 2.88 percent for 2010, an increase
+    3,06 percent for 2020, and subsequent decreases to 2.85   percent for 2030 and  2.73   percent
+    for 2040.
+                                                                                 :     .
+    Household Projections
+                                                                                              been
+    The average household size for mew households in Newberg through 2040 has
+    estimated at 2.76. The total number of new households in 2010       through 2040 was projected
+                                                                                                 d
+    by dividing the new projected population in each year by the projected average househol
+    size for new households. Table III.3:shows the results of this analysis.
+
+                                                                                                             =                          PAGE 22
+    NEWBERG HOUSING AND RESIDENTIAL LAND NEEDS REPORT
+                                                                                                  TABLE 3.3
+                                                                                    NEW HOUSEHOLD PROJECTION
+                                                                                                  2010-2040
+
+k                                                                                                           :                                                    d
+                                                          6,059                                15,245           + 5,524               24,432             8,852             35,659             12,920
+     ‘Newberg UGB                     2.76                                  2,195,
+                                                                                                                                                                                              12,658
+                                                                                               14,936              5.412             (23,936             8,672             34,936
+     City of Newberg                  2.76,              5,936              2,151
+                                                                                                                                                                                             in group quan)
+    ‘Nores 200 > Caanr dm forthe Gy of Nevbrg igureindians an evenge hourhaldshe of 276 penonlhouichelds this tne, 69 pers he Newberg populasion resided ingroup qu, Not houehald pul (peron
+    {snoteccnunted  for ln the verge howsehald sae
+                                                                   for 2010, 5,412 new
+As shown in Table 3.4, there are 2,151 new households projected
+                                                                         and 12,658 new
+households projected for 2020, 8,672 new households projected for 2030,
+households projected for 2040 for the City of Newberg. For the area within the Newberg
+                                                                       2010, 5,524 new
+Urban Growth Boundary, the projections are for 2,195 new households in
+                                                                            in 2040.
+households in 2020, 8,852 new households in 2030, and 12,920 new households
+The projected total number of new housing units needed in the community in the next 20
+years is equivalent to the projected number of new households for-2020.
+
+National, State and Local Demographic and Economic Trends and Factors that may Affect
+the 20-Year Projection of Structure Type and Mix
+This section is intended to determine how the projected number of new households will be
+                                                                                  this
+distributed among different housing structure types in 20 years. In order to make
+determination, it is necessary to analyze factors that will likely influence housing choice in
+the future                    (eg., the decision to buy a single-family home                                                                      as opposed                  to renting an
+                                                                                   areas).
+apartment, the need for housing a seasonal labor force, second homes in recreation
+ Major state and national housing and demographic trends, which may influence the housing.
+ types that will be needed in the next 20 years, are summarized ‘below. This information
+about’ national and state housing trends is a summary of information in Planning for
+ Residential Growth: A Workbook for Oregon's Urban Areas.                    ,
+      © Households are becoming smaller. More households are being formed by “empty nesters,”
+         young singles, and couples than by the “traditional family”.                     ;
+      © Declining household sizes suggest (with other things, especially income, being equal) a shift
+                                                                           ;
+          toward smaller-sized housing.
+      © Age of the head of the household is increasing. Aging of the baby boomers is the primary
+          cause of this factor.                  .                             .
+
+      © Greater household age generally indicates a greater propensity toward home ownership.
+          However, home ownership rates decline in the 65 and older age group. Older households
+          also have a tendency to “trade down” to smaller housing types as their children leave the
+                   household.
+           ©       Household incomes are generally increasing though they have not kept pace with housing
+                   prices or rents. Demand for-more affordable housing types (e.g, manufactured homes,
+                   apartments, townhouses, and small-lot single-family houses) will increase as housing costs
+                   continue to outstrip income growth.          ;
+
+                                                                                                                                                 om                                        PAGE 23
+NEWBERG HOUSING AND RESIDENTIAL LAND NEEDS REPORT
+In conclusion, smaller households, older households and higher housing costs are expanding
+markets for “alternative housing” and reducing the demand for traditional large-lot single-
+family development. Housing types which will see greater demand include smaller-lot single-
+family developments, manufactured housing, clustered single-family housing, duplexes,
+condominiums, and zero-lot line houses.
+
+There is no indication that local trends in Newberg and Yamhill County significantly
+                                                                                         the
+contradict the degree to which larger trends affecting the nation as a whole will affect
+                                                                                 had an
+local market for housing. According to the 2000 U.S. Census, the State of Oregon
+                                                                                   size is
+average household size of 2.51 persons, so the City of Newberg’s average household
+somewhat higher than the statewide average.
+
+Local Demographic Characteristics of the Population and, if Possible, Household Trends
+that Relate to Demand for Different Types of Housing
+Some of the best indicators of housing needs are household incomes by household size and
+age of head of household. Ideally, an analysis would examine these statistics cross-tabulated
+against each other. However, cross-tabulation of this data can only be obtained from Public
+Use Microdata Samples (PUMS) from the 2000 Census for larger metropolitan areas. The
+smallest geographic level for which PUMS data is available is 100,000 people. The PUMS
+area that includes the City of Newberg contains Yamhill, Polk, and Marion Counties. This
+information is not useful for conducting a housing analysis for the City of Newberg.
+Therefore, non-cross-tabulated data is examined separately in order to determine the
+connection of this demographic information to housing need.                 ;
+
+                                                                                         d, °
+Table 3.4 provides a summary of household income, age of the head of househol
+household size, and tenure for the City of Newberg in 2000. This informat ion is-examin ed.
+in more detail in subsequent tables.
+
+                                                                   =                 PAGE 24
+NEWBERG HOUSING AND RESIDENTIAL LAND NEEDS REPORT
+                                                  TABLE 3.4 |
+                        CITY OF NEWBERG
+               HOUSEHOLD INCOME, SIZE, AGE OF HEAD
+                      OF HOUSEHOLD, AND TENURE, 2000
+
+            Household Income
+                      <$10,000                               312                        5.10%
+                      $10-14,999                             355                       5.80%
+                         $15-24,999                          872                       14.30%
+                         $25-34,999                          893                       14.60%
+                         $35-49,999                         1,003                      16.40%
+                         >$50,000                          2,666                        43.70%
+            TOTAL                                          6,101                       100.00%
+            MEDIAN INCOME
+            Household Size                        i                                              :
+                          1                                1,326                       21.70%
+                         2                    |        _ 1,899                         31.10%
+                         3                                 1,075                       17.60%
+                         4                                 1,019                       16.70%
+                         5+                                 780                        12.80%.
+            TOTAL                                          6,099                       100.00%
+                                                                                          PETG
+            Age of Head of Household                  ht
+                         15-24                              459            :            7.50%
+                         25-34                             1,285       .       :       21.10%
+                         35-44                             1,519               24.90%
+                         45-54                |            1,155                       18.90%
+                         55-64          ,                   603                        ‘9.90%
+                         65+                               1,078                       17.70%
+           |TOTAL                                          6,099                   100.00%
+            Renter Households                              2,276                    37.30%
+            Owner Households                               3,823                       62.70% ©
+            Source; 2000 U.S. Census, SF1 & SF3
+            Note: Small discrepancies in the number OE households are due to sampling in the
+            Census tabulation
+
+Table 3.5 illustrates housing types. “trials          down        by tenure, which indicates whether the
+housing is renter- or owner-occupied.
+
+NEWBERG HOUSING AND RESIDENTIAL LAND NEEDS REPORT                                  2                 PAGE 25
+                                              TABLE 3.5
+                              CITY OF NEWBERG STRUCTURE TYPE BY TENURE
+
+   Single-family detached                                                                       3.40%      3,814
+                                          76.20%                23.80%                           0.00%      286
+   Single-family attached
+                                          89.40%                 3.90%           107             6.70%      1,599
+   Multi-family (2+ units)                                                                                  708
+                                                                79.80%           95              13.40%
+   Manufactured homes
+                                                                60.00%            )              0.00%
+     t
+
+   Source: 2000 U.S, Census, SF3
+
+ ‘As shown in Table 5.5, in 2000 there were 6,427 housing units in the City of Newberg. Of
+ these, 6,094 were occupied and 333 were vacant - a vacancy rate of 5.2%. Of the occupied
+ housing units, 2,323 were renter-occupied (38.1% of occupied units and 36.1% of all units)
+ and 3,771 were owner-occupied (61.9% of occupied units and 58.7% of all units).
+
+ Single-family detached housing           units had   the highest percentage                 of ownet-occupancy.
+ Single-family attached units, none of which were vacant at the time of the Census, were
+                                                                                     of all
+ overwhelmingly occupied by renters. Multi-family units, which comprise one-quarter,
+                                                                                      were
+ housing units in Newberg, were primarily occupied by renters. Manufactured homes
+ owner-occupied at almost an 80 percent rate, suggesting that these units are a popular
+ alternative to ownership of single-family homes. However, manufactured homes had the
+ highest vacancy rate of any category for the City.
+
+" Table 3.6 below -examines housing tenure by thé age classification of the head of the
+ household.
+                                    TABLE 3.6
+               CITY OF NEWBERG AGE OF HOUSEHOLD                      HEAD         BY TENURE
+                                       2000 ©  :
+
+  "Under 25                                           85.60%                 5        SC*«     «2AM
+   25-34                                    vo         52.60%                                  47 40%
+   35-44                                               38.70%                                  61.30% |
+   45-54                                               19.90%                                  80.10%
+   55-64                                               25.40%                                  74.60%
+   65+                                :                28.20%            :                     71.80%
+
+   Source; 2000 U.S, Census, SF3.
+
+                                                                             ~                            PAGE 26
+ NEWBERG HOUSING AND RESIDENTIAL LAND NEEDS REPORT
+  ‘As shown in Table 3.6, propensity for home ownership in Newberg is the least among
+                                                                                            the
+  younger households and generally increases with age. As houscholds age past 55,
+                                                                                       :
+  homepwnership percentage begins to decline again.
+                                                                                          were
+  Among the youngest householder age group (1 5-24 years), over 85% of households
+                                                             ds in Newberg. Househol ders aged.”
+  renters in 2000, as compared to 38 percent of all househol
+                                                                             of 52.6% and
+  25-34 were almost equally split between renters and homeowners, with rates
+               respectively.        Householders    aged             35-44   had home      ownership   rates approximately
+  47.4%,
+                                                                                 aged 45-54
+  equal to those of Newberg as a whole, where as the 80.1% rate for householders
+                             for the     City.   For              householders   aged   55-64    and age   65    and     older,
+  was    the highest
+  homeownership rates remained in the 70-75% range.
+                                                                                                                The median
+  Table 3.7 below shows how income correlates with the age of the householder.
+                                                                       shown in Table
+  household income in 2000 for Newberg was $44,206 (see Table 3.4). As
+                                                                               the middle
+  3.7, 11% of all households were in the bottom two income groups, 29% were in
+  two income groups, and 60% were in the top two income groups.
+                                                  TABLE 3.7
+                                              CITY OF NEWBERG
+                                     AGE OF HOUSEHOLD HEAD BY INCOME
+                                                                     “200
+
+    Under 25                                                            22.40%                16.30%               100.0%
+                                          .               :             15.50%   14.30%       24.20%               100.00%
+    25-34
+                                          .              .               9.70%    12.60%      19.70%               100.00%
+    35-44
+                                     aor           "Qs                   6.90%    13.20%       8.70%               100.00%
+  | 45-54
+                                        3.90%            ;              11.60%    12.70%      11.30%               100.00%
+    55-64
+    654                                 12.30%                f         24,50%    15.90%                        __100,00%
+
+    Source: 2000 U.S, Census, SF3
+
+                                                                               was in the
+  Younger households where the age of the head of the household (householder).
+                                                                                 than the
+  under 25 age group, along with those age 65 and older, had lower incomes
+  population as a whole and many more households in the Very Low income group.
+                                                                                      much
+_ Households where the householder was in the 25 to 34 and 35 to 44 age group had as a’
+                                                                     City populati on
+  lower percentages in the Wety Low and Low-income group than the
+                                                                                       than
+  whole. Householders age 35 to 64 had higher percentages in the Very High category
+  the City of Newberg average.
+                                                                                   levels,
+  Households with the householder beyond retirement age (65+ years) had low-income
+  with rates more than twice as high as-the City for the Very Low and Low-income categories.
+                                                                                          to
+  However, it should -be remembered’that, relative to housing need, these households tend
+ ‘be “cash poor and equity rich,” medning that they have high home-ownership ratés (72%,
+ see Table III.6) and have frequently paid off their mortgages. Therefore, the reduced income
+
+                                                                                                ~                      PAGE 27
+  NEWBERG HOUSING AND RESIDENTIAL LAND NEEDS REPORT
+                                                                               housing
+that these post-retirement households have does not necessarily translate into    ;
+affordability problems.
+
+B.          HOUSING DEMAND SUMMARY
+                                                                                           rm
+Our housing needs analysis is split into two components. The first ‘of these is a short-te
+
+                                                                                                                    —
+                                                                                         The
+demand analysis, based primarily on recent demographic and market trends in the area.
+                                                 through 2040. In addition , three  scenario s
+second component evaluates longer-term trends
+                                                                                       cohort,
+were evaluated.        The medium growth scenario is based on the PSU forecasts by age
+                                                                               which increased
+    and represents our baseline findings. A high growth scenario was evaluated         rate by
+                                                                          reduced the
+    the average annual growth rate by 1.0%, while the low growth scenario
+                                                                                   ons, with
+    0.59%. Both of these scenarios utilized the same age cohort modeling: assumpti        age
+    growth above and beyond the natural rate of growth assumed to have the same
+    distribution characteristics as assumed in the PSU model.
+
+Short-Term Residential Demand
+                                                                             2004 to 2008
+The short-term residential demand analysis describes housing demand from
+                                                                  demogra phicall  y driven
+and has two components or modules. The first component is a
+                                                                         character istics   of
+model, which is based on the current and projected age and income
+                                                                               a third  party
+households in the Newberg area. Data for the model was derived from Claritas,
+                                                                                                      and 2008.
+    data provider, and included a detailed age by income profile of the area for 2004
+                                                                             ome cohort
+A total of 11 income ranges and 11 age ranges are used, yielding 121 age-inc
+célls.
+                                                                                          -
+The age-income cohort data is converted to projected housing demand by tenure, using
+                                                                     ty data is combine d
+propensities by each age-income cohort to rent or own.’ The propensi
+                                                                                 increase in. -
+with the current and projected age-income cohort distributions to generate a net
+                                                                                                    a
+ownership and rental households. Turnover housing demand is then evaluated to produce
+more accurate profile of housing demand by income range. A turnover demand rate of 10%
+                                                                                              yields:
+annually was assumed for ownership housing, and 45% rate for rental units, This step
+                                                           ted profile of  demand    by  househo ld
+a net increase in demand for units, as well as an anticipa
+                                                                converte d  to affordab le housing
+income range. The demand by household income range was
+payments by income range.
+                                                                                         ion
+ The demarid by tenure and income was further segmented using the housing product
+                                             d  observed housing   product ion by  type  and
+ component of the model, The model evaluate
+                                                  d demand   by  price segment   and  tenure
+price range within the Newberg area, and converte
+                                                                                rm housing
+into demand by housing product type on the basis of recent trends, The short-te
+production model assumed: no dramatic change in market inputs that would substantially
+impact the development environment.               — .
+
+                                                                                  ds by
+The short-term model was used for_a five-year-period. The net change in househol
+cohort group is converted to structural demand for both owner and  rental housing   units
+
+                                                                                     calibrated for the   City of
+2      Based oh American Housing Survey data, updated to reflect current dollars and
+       Newberg based on 2000 Census Data.
+
+                                                                                   ~                      PAGE 28
+NEWBERG        HOUSING AND RESIDENTIAL LAND NEEDS REPORT
+                                                                                           an
+using a matrix of propensities to own and rent by cohort. In addition to producing
+                                                                                      profile
+analysisof structural demand, the model also forecasts a demand profile. This
+                                                                                       yields
+represents the anticipated profile of overall demand, including tutnover demand. This
+the following demand numbers through 2008:
+                                                                   OF NEWBERG
+          TABLE 3.8: PROJECTED SHORT-TERM RESIDENTIAL DEMAND, CITY
+                                     _ MEDIUM GROWTH SCENARIO, 2004-2008
+                                                  eric
+                                                     ey          ie,
+                                                                       4a0
+
+    use
+                                                      23%                       22                 4.0%           5.8% ©
+Under $10,000
+                                                      24                        19                 4.2%           5.6%
+$10,000-$14,999                                                                                               15.4%
+$15,000-$24,999                                           54                    48                10.1%
+$25,000-$34,999                                       65                        52                11.3%       15.2%
+                                                          83                    61                14.7%       18.6%
+$35,000-$49,999
+                                                    160                         94                28.0%       26.0%
+$50,000-$74,999
+                                                     86                         37                15.0%        ‘9.7%
+$75,000-$99,999                                                                                                2.9%
+$100,000-$149,999                                    70                         17;                9.1%
+                                                     26                           5                3.3%        0.7%
+$150,000-$249,999                                                                                              0.0%
+$250,000-$499,999                                      3                          0                0.4%
+                                            :              0                        O°             0.0%           0.0%
+$500,000 or More
+                                 :                  594                      "355             100,0%         100.0%
+Overall
+
+               OWNERSHIP HOUSING                                                     RENTAL HOUSING
+
+               More
+           or 00
+      $500,0                 }                                          $500,000 or More
+
+   $250,000-$499,999                                              $250,000-$499,999
+   $150,000-$249,999                                              $150,000-$249,999
+   $100,000-$149,999                                              $100,000-$149,999
+      $75,000-8:99,.999                                                 $75,000-$99,999
+      $50,000-$74,9.99                                                  $50, 000-$74,999
+
+      $35,000-$49,999        |                                          $35,000-$49,999
+      $25,000-$34,999                                                   $25,000-$34,999 :
+      $15,000-$24,999                                                   $15,000-$24,999
+      $10,000-$14,999                                                   $10,000-$14,999 \iim
+          Under $10,000                                                      Under $10,000
+                           0% >      10%    20%            30%                               0%       10%   20%       30%
+
+1/ Income stated in 2003 Dollars.
+
+While structural demand calculations “are useful in assessing the net new-need for housing,
+the profile of demand is more critical for developers to understand, as it provides a more
+
+NEWBERG HOUSING AND. RESIDENTIAL LAND NEEDS REPORT
+                                                                                                  ~                      PAGE 29
+                                                                                        is
+accurate picture of the market into which he is building. As a result, new construction
+more likely. to reflect the projected profile rather than structural demand.
+                                                                               next five
+The projected distribution of demand by tenure in the City of Newberg over the
+                                                                        medium   growth
+years is approximately 34% renter and 66% owner occupied under the
+scenario.
+
+The following tables summarize the results of the high and low growth scenarios:
+
+      ‘TABLE 3.9:       PROJECTED SHORT-TERM RESIDENTIAL DEMAND,                                CITY OF NEWBERG
+                               : HIGH GROWTH SCENARIO, 2004-2008
+                                                                    wads             ey
+
+Under $10,000                   .               >)                          38              3.9%             5.8%
+                                                -           40              35              4.2%             5.6%
+$10,000-$14,999
+$15,000-$24,999                     ;                      90               92             10.1%            15.4%
+                                                          104               96             11.2%            15.3%
+$25,000-$34,999
+                                                          134              113             14.7%            18.6%
+$35,000-$49,999
+                                                          259              166             28.0%            26.0%
+$50,000-$74,999                                                                                              9.7%
+$75,000-$99,999                                           139               65             15.0%
+$100,000-$149,999                                         102               26              9.1%             2.9%
+$150,000-$249,999                                          37                 7             3.3%             0.7%
+$2.50,000-$499,999                                      .    6                0             0.4%             0.0%
+                                                                0                0          0.0%             0.0%
+$500,000 or More
+Overall                                                   946              638            100.0%           100.0%
+
+     "TABLE 3.10: PROJECTED SHORT-TERM RESIDENTIAL DEMAND, CITY OF NEWBERG
+                       ~ LOW GROWTH SCENARIO,       20              eae
+
+Under $10,000       ~                                       15      ee)                     4.0%             5.8%
+$10,000-$14,999                                             18              1.              4.2%           5.6%
+$15,000-$24,999                         ;                  37               25             10.1%   ~        15.4%
+                                                    -      46               29             11.3%            15.2% .
+$25,000-$34,999
+                                                           56               33            14.6%             18.6%
+$35,000-$49,999
+                                                          114               58            28.0%             26.0%     -
+$50,000-$74,999
+$75,000-$99,999                                            62               25             15.0%             9.8%
+$100,000-$149,999                           4              56               14              9.2%             2.9%
+$150,000-$249,999                                          21                5              3.3%             0.7%
+                                                ..           3               0              0.4%             0.0%
+$250,000-$499,999
+$500,000 or More                                    .        0               0              0.0%             0.0%
+Overall .                                               - 428              213            100.0%           100.0%
+
+                                                                                            ~          :            PAGE 30
+NEWBERG HOUSING AND RESIDENTIAL LAND NEEDS REPORT
+More detail on the short term demand model output is available in Appendix A to this
+report.
+
+Long-Term Residential Demand                          :
+The long-term residential demand forecast assumes the PSU forecasts, and assumes that the
+City accommodates the projected residential demand over the forecast period. A total of
+10,636 dwelling units are projected to be demanded within the City of Newberg through
+2025. The demand numbers reflect an assumed. structural vacancy rate of 5% for residential
+units within the UGB. This is considerably the 2000 Census average rate for the City of
+Newberg of almost 18% (897 vacant units out of a total of 5,019), but is more reflective of
+what would be expected with marginal growth in the future.
+
+The distribution of this demand is as follows:
+
+         TABLE 3.11: PROJECTED LONG-TERM RESIDENTIAL DEMAND, CITY OF NEWBERG
+                                          SCENARIO, 2004-2025
+
+Through 2025, the medium growth scenario anticipates net new demand for 6,704 housing
+units-within the City of Newberg’s urban area.   As shown in the next two tables, the high
+growth scenario anticipates demand for 11,176 new units during this period, while the low
+growth scenario projects demand for 4,829 new units.                  :
+
+         “TABLE 3.12: PROJECTED LONG-TERM RESIDENTIAL DEMAND, CITY OF NEWBERG
+                           HIGH GROWTH SCENARIO, 2004-2025
+
+ 2004-08
+
+ 2021-25
+ Total
+
+NEWBERG HOUSING AND RESIDENTIAL LAND NEEDS REPORT             Sow                  PAGE 31
+                                                                                      Pree]
+
+      TABLE 3,13: PROJECTED LONG-TERM RESIDENTIAL DEMAND, CITY OF NEWBERG
+                          LOW GROWTH SCENARIO, 2004-2025
+
+As shown in Figure 3.14, the demand for eden units through 2025 is eaeucel to
+outpace available carrying capacity by a significant amount.
+
+- FIGURE 3.14: PROJECTED LONG-TERM RESIDENTIAL RECONCILIATION, CITY OF NEWBERG
+                         ALL GROWTH SCENARIOS, 2005-2025
+
+                     RECONCILIATION - ALL RESIDENTIAL DEMAND
+
+                                                 pct
+            o    2B  2  eg Sn   A8aaew    nydsezeagagaes          8
+                $sss 2.8se ens8    8&S 8:28.83
+                                       BS      5 228  8a
+                                                     s§
+                                8SRRBRSRRRRKRKKKRRARAR   &€ 8 8a &9
+            seseggses
+
+When the forecast is extended through 2040, the need for additional residential capacity
+increases commensurately.
+
+NEWBERG HOUSING AND RESIDENTIAL LAND NEEDS REPORT              —                PAGE 32
+                                                                      NEWBERG                                                                 ~
+ FIGURE 3.15: PROJECTED LONG-TERM RESIDENTIAL RECONCILIATION, CITY OF
+                        ALL GROWTH SCENARIOS, 2005-2040
+
+                        RECONCILIATION - ALL RESIDENTIAL DEMAND
+        20,000
+        18,000
+        16,000
+        14,000      =
+
+   wn   12,000
+   2    10,000
+         8,000
+
+                                                                                                                                     2040
+                                                                                                                 2035
+                                                                                               2030
+                                                                             2025
+                                                          2020
+                                          2015
+                          2010
+                 2005
+
+    conciliation of     Residential Capacit              d Projected Demand
+‘As outlined in the following table, the City of Newberg’s residential capacity is insufficient to
+support projected residential demand through 2025, with that need increasing through
+2040,    In terms of units, the medium              growth scenario shows a 4,170 unit deficit through
+2025, increasing to a 9,953 unit deficit through 2040.                                                ;
+
+                          TABLE 3.16: CAPACITY LEss DEMAND BY PERIOD.
+                                 ALL GROWTH SCENARIOS,                        2005-2040
+
+                                   2013          2,352       1,484         222      (1,193)    (2,569)     (4,246)       (6,018)    (7,801)
+                                   2010          2,278           972       (677)    (2,563).   (4,522)     (6,487)       (8,542)   (10,609)
+                                   2008          2,130           (121)   (2,669)    (5,775)    (9,249)    (11,833)      (14,563) (17,309)
+
+                                   2013           375            237         35     (190)      ~—«(410)_-—S«677)~—         (960)    (1,244)
+                                   2010           363            155       (108) ~~ (409).     (721): (1,035)            (1,362)    (1,692)
+                                   2008           340             (19)     (426) ~~ (921)-—«(1,475) (1,887)              (2,322)    (2,760)
+
+The demand for residential units was converted to acreage demand using an average
+                                                                                                as
+residential density of 6.27 units per acre reflecting recent trends by zoning classification
+well as the composition of remaining buildable lands.      While  this is consisten t with recent
+trends by zoning classification and the remaining supply of residential capacity, the zoning of
+any future capacity is cannot be know-at this time. As a result, the unit reconciliation is seen
+as the most relevant measure of need for planning purposes.
+
+                                                                                                  ~                                PAGE 33
+NEWBERG HOUSING AND RESIDENTIAL LAND NEEDS REPORT
+                                                                                     unit per
+Additional density unit demand was converted into net acreage using recent ; density
+acre patterns by housing type.                    .
+
+                     TABLE 3.17: SUMMARY OF ESTIMATED HOUSING ACREAGE NEED
+
+                                                                z                                                             :
+   Single Family                        ;
+                                    50%           33377     6,611     414                        815                  1,596
+      Conventional
+                                                    492       963     8.00                           61                 120
+     Artached                               7%
+
+   Multi-Family            :
+                                    15%           1,022     2,000    12.00                           85                 167
+     Medium Density
+                                    23%           1,533     3,000    22.00                           70                136
+     High Density
+   Manufactured Homes
+                                                    140       275     8.80                           16                  31
+     Parks                                  2%
+                                            2%      140       275     6.50       °                   22                 42,
+     Subdivisions
+   TOTAL                           100%           6,704    13,124     6.27                     1,069              2,093
+
+                                                                                           .
+   Single Family
+                                    50%           5,626     9,980     414                . 1,358                  2,409
+     Conventional                                                                                                   183
+     Attached                       7%              826     1,466     8,00                   103
+
+   Multi-Family
+                                    15%           1,702     3,020    12,00                       142                   252
+     Medium Density
+                               1    23%           2,554     4,530    22.00                       116                   206
+     High Density
+                                   if                                                                     :
+   Manufactured Homes
+                                        2%          233°      414     8,80                           27                  47
+    * Parks                                                                                                   2          64
+      Subdivisions                      2%          233       414     6.50                           36
+                                   100% "        11,176    19,823   _ 6.27                     1,782              3,161,
+   TOTAL
+
+   Single Family                                                                                                  ;
+                                   50%            2,431     5,193     4.14                      587               1,254
+     -Conventional |
+   "Attached                            ™%-       357         763     8,00                           45                 95
+   Multi-Family                                                                      ,
+     ‘Medium Density               15%              736     «S71.    12.00                           61                131
+      High Density.                23%            1,103     2,357    22.00.                          50                107
+   Manufactured Homes
+     Parks                              2%          101       215     8,80                           ul                 24
+                                        2%          101       215     6.50                           16                 33
+     Subdivisions
+
+   TOTAL                           100%          4829-     10,315     6.27                      770               1,645
+
+                                                                             =                   ‘                      PAGE 34
+NEWBERG HOUSING AND RESIDENTIAL LAND NEEDS REPORT
+                                                                                  both a 20- and
+Estimated land need was further segmented into land needed by plan category, over       :
+35-year horizon.
+                                                                                EED BY P:
+                                                                                eae
+
+Single Family                                                                                                                  0             0
+                                   1,596       15                                        0               1,596
+  Conventional             815
+                                                    0             61                    a                     0             120              0
+  Attached                  61       120
+
+Multi-Family                                                      85                     0                    0             167              0
+  Medium Density             85      167            0
+                                                    0               0                  70                     0                0          136
+  High Density               70      136
+                                                             =
+Manufactured Homes                                                                       0                    0              31              0
+  Parks                      16          31         0             16
+                                                                    0                    0                   42                   0          0
+                             22          42      22
+  Subdivisions
+                                                837              163                   70                1,638              318           136
+TOTAL                     1,069    2,093
+
+Multi-Family                                                                             0                    0             252              0
+   Medium Density           142      252             0           142
+                                                    0               0                 116                     0                   0       206
+   High Density             116      206
+Manufactured Homes                   :                   .
+                             27       47           0              27              -      0                    0              47              0
+  Parks                                                                                                                        0             0
+                             36       64         36                 0                    0                  64
+  Subdivisions
+                          1,782    3,161      1,394              272                  116                2,473              482           206
+TOTAL
+
+LOW GROWTH
+
+                                                                        z                            :                2
+Single Family                                                                            0               1,254                 0             O-
+   Conventional”           587     1,254        587                ()
+                                      95           0              45                     0                    0              95              0
+  Attached                  45
+                                                                            :                F           E
+Multi-Family                                                                                                  0             131              0
+   Medium Density            61      131            0             61                    0
+                                     107            0               0                  50                     0                0          107
+   High Density              50
+                                                                                                                  .                   r
+Manufactured Homes                                                                                                         24                0
+                                     24           it)             11                     0                    0
+  Parks                      11
+                                         33      16                 0                    o                   33                   0          0
+   Subdivisions              16
+                                   1,645       602               117                   50                1,287            * 251           107
+TOTAL                   "770
+
+                                                                                      current buildable
+‘The resulting indicated need for land by plan category was then reconciled with the
+                                                                        land by major  ‘residential plan
+land supply within the UGB to calculate the net surplus or deficit of
+category. This estimate is summarized in the following table:              :
+
+                                                                                                 ~                                    PAGE 35
+NEWBERG HOUSING AND RESIDENTIAL LAND NEEDS REPORT
+MEDIUM GROWTH                            :
+  LDR                                        837     1,638     357.25          (480)      (1,281)
+  MDR                                        163       318      73.12           (89)         (245)
+                                              70       136        2.11          (68)         (134)
+  HDR
+HIGH GROWTH
+                                         1,394       2,473     357.25        (1,037)       (2,116)
+  LDR
+  MDR                                      272         482      73.12          (199)     * (409)
+  HDR                                      116         206        2.11         (114)         (204)
+
+LOW GROWTH                                                                           :
+      LDR                         -          602     1,287     357.25          (245)         (929)
+      MDR                                    117       251      73.12           (44)         (178)
+      HDR       ;                             50       107       211            (48)         (105)
+
+TV.         SUMMARY, RESIDENTIAL NEEDS
+This section compares the mix of projected housing types to the mix of existing
+development; compares projected residential density to existing residential density; compares
+                                                                                            to
+20-year land ‘need to land availability; and discusses whether any measures ate required
+                                                                                      the
+meet housing mix or density projections, or to provide for additional land to address
+                                                                                                       -
+residential, commercial, ‘and industrial.land needs for the next20 and 35 years for the
+Newberg Urban Area.                                 5
+                                                                                              family
+The projected mix of housing typés is largely consistent with recent trends, with single
+dwellings accounting for over half of projected housing units. The share of single family
+units is well below pre-1991 levels, but reflects current development economics.
+
+       TABLE 4s       COMPARISON OF HISTORICAL AND PROJECTE D HOUSING DISTRIBUTION
+                                                    Sea
+
+                                  64.0%            54.9%.    53.1%           504%          50.4%
+Single Family
+Duplex            :           -       5.6%          4.6%      3.0%            73%         * 7.9%
+                                  19.4%        ©   28.6%     38.6%           38.1%         38.1%
+Multi-Family
+                                  11.0%            11.9%      5.4%            4.1%          4.2%
+Manufactured Homes
+
+The model does not assume a constrained land supply, therefore land pricing is not assumed
+to escalate significantly outside the rate of general inflation. An assumption of constrained
+supply would increase the proportion of demand allocated to duplex and multi-family units.
+
+                                                                         ~                  PAGE 36
+NEWBERG HOUSING AND RESIDENTIAL LAND NEEDS REPORT
+                                                                                             ble
+ Our analysis clearly indicates that the City of Newberg does not have adequate identifia
+                                                                        dwelling  unit forecast.
+-residential capacity to accommodate its twenty-year population and
+                                                                                               d
+ The estimated deficit is projected to be over 4,500 units, which translates into an estimate
+                                                                                        vacancy
+ incremental acreage need of 1,069 acres at recent density levels. This assumes a 5%
+factor, but excludes any market factor.’            In practice, the demand for residential land precedes
+                                                                                     need to
+actual absorption, to allow for land and home development. As a result, the actual         is
+                                                                        in our   analysis
+accommodate demand would exceed our forecast. Committed land
+                                                                                    to  meet
+assumed to be vacant, with the residential capacity on this property allocated
+projected demand.
+                                                                                       capacity
+During the next ten years of the planning horizon, the City’s identifiable residential
+                                                                 capacity.  The   metropol itan
+is projected to be largely exhausted without action to increase
+                                                                                for overflow
+area’s location along the Highway 99W Corridor also makes it a likely location
+                                                                           evaluate d in the
+residential demand from the Portland metropolitan area, which is not
+medium growth scenario.
+
+V.        MEASURES
+                                                                             for the next
+The following measures are recommended to address the residential land needs
+20 years for the Newberg Urban Area:
+     1)   Ensure    that residential development            meets projected densities. Projected densities
+                                                                                    City
+          have been set low to correspond with recent development patterns, but the
+          should still examine measures to encourage residential densities to approach the
+          maximum allowed in each zone.
+                                                                                  units and
+     2)   Rezone some R-1 land to R-2 or R-3 to allow for additional multi-family
+          manufactured home units, or take steps to encourage greater production of: multi-
+          family units on R-2 and R-3-zoned land.                         J               :
+                                                                                    Urban
+     3)   Upon formal acceptance of one of the scenarios evaluated, add land to the
+          Growth Boundary or convert other-lands for residential uses consistent with
+          demonstrated need. Additional lands should. be added as Urban Reserves consistent
+          with the projected 2040 need.
+
+                                                                                                  to recognize that the
+>A      “market factor”, as used in this document, refers to an adjustment sometimes made
+                                       supply of alternative sites to function efficiently, As a result, merely
+     Jand market needs an adequate
+     meeting the demand for land in aggregaté does not allow for proper market function unless adequate
+                                                                                               valid concern.that
+     options are available. While this factor was not used in this analysis, it does address a
+     should be recognized.
+
+                                                                                       md                     PAGE 37
+NEWBERG HOUSING AND RESIDENTIAL LAND NEEDS REPORT
+                                                                                                        7
+                                                                                        ;
+                                                                err     —s
+                                             3  BAkAREA
+                         CLT                                           AAAAARAD                          ESARAAS
+            ce    ERTN       TURY TS D
+                                    M        A K A A E T A R SAAAAAAAS               A A A A R ARARAAAALA                  er
+            :       .     FASLEAAAA      DAD                                      MR                               DALAL
+
+                 Board o
+                    Apri
+                         f
+                                                 -yamni
+
+                         l
+                                                        l
+
+                           e
+                           C
+                             s
+                             O
+                                                          c
+
+                               ,
+                               M
+                                                            o
+
+                                 9
+                                 M
+                                                              m
+
+                                   g
+                                   I
+                                                                n
+
+                                     9
+                                     S
+                                                                  t
+
+                                       0
+                                       S
+                                                                    y
+                                         I O N S
+                                                         q
+
+                                                 i
+                                                 §
+
+EXHIBIT 7
+                                                                                                                                                                                                                                                                                                                                                                                                                                tory, tO Gerne tne mits OF propnetary junsuiciict
+                                                                                                        ~              Regional                       Director {(ARDE) Region                                                                                         I                                                                                                                                                         Federal; State or local governmant or to estat
+                                                                                                                               U.S. Fish and Wildlife Service                                                                                                                                                                                                                                                                   geographical scope of the regulatory programs of
+                                                                                                                                                                                                                                                                                                                                                                                                                                ment agencies. Parsons intending to engage in acti
+                                                                                                                               “ Lloyd 500 Bldg., Suite 1692                                                                                                                                                                                                                                                                    volving modifications within or adjacent to wetla
+                                                                                                                                    500 N.E.:-Multnomah Street                                                                                                                                                                                                                                                                  should seek the advice of appropriate Federal, Stati
+                                                                                                                                      Portland, Oregon 97232                                                                                                                                                                                                                                                                    agencies concerning spacified agency regulatory ¢
+                                                                                                                                                                                                                                                                                                                                                                                                                                and proprietary jurisdictions that may affect such a
+                                                                                                                                                                           .                                                                                                      .                                                        ie:                                                                                              .
+                     ot                                                     7                                                  “2                                                                                                     Bs
+os"        ae   gl                          '                .                                                                                                         a                                                   .                                                      2                  i
+      _*                  is                é
+                     a
+                                                                                                                                                                   ;                                                                                                                                                               .                                                                                                                                                                                                       6       — Priv
+                                   :                                        5                                                                                  :
+                                                                                                                                                                                                                                                                                                                                            °                                                                                                                                                                                                           unc
+                                                                                                                                                                                                                                                                                                                                                                                                                                                     .                                                              ;                                   pho
+                               :                     ECOLOGICAL                                                                                       :                                     a                                                                                 :                                                                        ‘
+                                                     :       SYSTEM                                                                                                                                                    &
+                                                                                                                                                                                                                                                                                                                                                                                                                        .
+                                                                                                                                                                                                                                                                                                ‘                                                                                                                                    E — ESTUARINE
+                                                          “ Ecological                                                     "                      .                                                                               f                               a                         =                                                                                            °
+                                                                                                                                                 a8                                                         i- Subtidal 3 -                                                           ee                         zi                                                          :                                                                                                                                                                               1
+                                                                                                   Ly                                   T
+                                                                                                                                                                                                                                                                                                                           -.                                   :                                                                                                                                                                      . 2 = Intartiv
+                                                                                                                                                                               ae                             |                              a                        |                             al                                                                                                                                                                                                                                                       L
+                                                                                                  AB ~  ROCK                        UB — UNCONSOLIDATED                                                                                                                                                                                                             T                                               T                   .            l
+                                                                                                  _ BOTTOM                                        BOTTOM                           *                         AB                AQUATIC BED                            RF — REEF
+                                                                                                                                                                                                                                                                                                     OW     — OPEN WATERY
+                                                                                                                                                                                                                                                                                                          Unknown Batiom                                                                                       s                                                                           T                                  T                          T
+                                                                                                                                                                                                                                                                                                                                                               AB            AQUATIC BED                           AF — REEF                         FL       FLAT                     $8—STREAMBED
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             RS    - ROCKY
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             — SHONE
+                                                                                              “1 Bedtock                                    4 CobblayGravel                                                 3 Submergent Algal | 7 Moluse                                                                    :                         =                    1 Submergent
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ga ~
+                                                                                         ©"             2 Boulder.                          2 Sand                                                      2 Submergent                       Vanculat                   3 Worm                                                                               2 Submecpont Yaeuter
+                                                                                                                                                                                                                                                                                                                                                                                              Aigal                2 Molisse            "1 Cobbi                   !                           1 Cobble/Gravel               1 Badvoc!
+                                                                                         at
+                                                                                                    -                      .                3   Mud                                                     4 Floating-laeved ~                                                            =.                                                                  6    Unknown Submi
+                                                                                                                                                                                                                                                                                                                                                                                                                   3 wa                     lee                                                i                 ee               rt rey                     tt
+                                                                                                                                    7       4   Organic                                                 5 Floating                                                                                                                                                                                                                          a                                                  3   Mud                       6    Vv           ated
+                                                                                                                                                                                                        & Unknown Submergent                                                                                                                                                                                                                4                                                  4   Organic
+                                                                                                                                                                                                        7 Unkoawn Surtace                                                                                                                                                                              .                    +
+                                                                                                                                                                                                                                                                                                                                                                                                                                            H
+                                                                                                                                                                                                                                                                                                                                                                                                                                            6
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               joneur
+                                                7“                                                                                                                             7                                                                              =                                                                                                                                            .
+                                        *            EGOLOGICAL                                                                                                                                                                                                                                                                                                                                                                                                        if
+                                                                                                                                                                                                        «                                                 2                                                           .                :    .                                                                                                                          BY
+                                       .               SYSTEM .                                                                     x
+                                                             “
+                                                                                                                                                                                                                                                                                                                           : P — PALUSTRINE                                                                                                                                                          E
+                                                                    .                                                                                                                               ¥
+                                                          No Subsystem                              [                  TT:                                                                      a                 |                                                                                                                                                              }
+                                                                                                                                                                                                                                                                                        T                                  T                                                 —T                                                     2]
+                                                     ee                     oo
+                                                                         class       +
+                                                                                                  ‘AB — ROCK:
+                                                                                                    BOTTOM
+                                                                                                                                UB — UNCONSOLIDATED
+                                                                                                                                                                                                                                                                                                                           ML — MOSS;                                                                                                                                                                    T                                          4
+                                                                                                                                   “*  BOTTOM   -                                                           ‘AB — AQUATIC                  BED        -                                FL            FLAT                                                                                                                                                                                                                                          Ow - ort.
+                                                                                                                                                                                                                                                                                                                              LICHEN                                                 5M — EMERGENT                                          SS — SCRUM/SHAUE
+                                                                     Subclass                     “1 Bedrock                              1 Cobble/Geavel                                       =. Submaigent Algal”                                                  1 Cobble/Gravel
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    FO       — FORESTED                              Unknown
+                                                                            =                       2       Boulder                                                                                                                                                                                                            1 Moss                          | 1 Pei                         a]                                                          ag Deciduous                 1 Braad-leaved Deciduous
+                                                                 .                                                                      +2 Sand
+                                                                                                                                          3 Mud                                                   2 Submergent Vascular
+                                                                                                                                                                                                  3 Submargant Mose                                                   2 Sand
+                                                                                                                                                                                                                                                                      3 Mud                                                    2       Lichen                    2 Nor       ent
+                                       .                                                                                                 4 Organic                                                      4 Floating leaved                                             4 Organic                                                                                  3. Natiow-leaved Nonpersistent . 22                                                     raved     Decid
+                                                                                                                                                                                                                                                                                                                                                                                                                                                          ed Evaigreen
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 a       |            ed     Deca
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       "3 Broad-laaved Eveigraan
+                                                                     -           =                                                                        ae                           ie               5 Floating                                                                                                                                                      4 Bioed-laaved                Nonpatsisient                 4                      vac Evatgenen               4                 Nesdlarleaved Evergreen
+                                                                                                        :                                                                                               6 Unknown Submergent                                          5 Vegelsted Pioneer
+                                                                                                                                                                                                                                                                      6 Vegatated Nan-pioneet                                                                                                aved Parsistent                        5
+                                                                                                                                            a                                                           7    Unknown              Sudece                                                                                                                                                     ed Parnistant                          & Daciduaus                                        § Oead
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       4 Daciduous
+                                                                                                                                                                                                                                                                                                                                                                                              *                                     T       Evargisen                                  7, Evergreen
+                                                                                                                                                                                                                                                                                                                          so
+                                                     ECOLOGICAL                                     .                                                                                                                                                                                                                              a
+                                                       SYSTEM                                                                   :                                                           “                                                                             :                                               R — RIVERINE
+                                                         -                       .                            .                                                                                                                                                                                                                                                                                                                                                                                                          :
+                                                                 Ecological
+                                                             Subsystem
+                                                                                                                                                          i                                             a                                      T                                                                                                 ca
+                                                                                                                                                                                                                                                                                                                                                 nes|
+                                                                                                                                                                                                                                                                                                                                                                                                                                T                                                                            —                         :
+                                                                                                                                        -1-—Tidat                                                                     2 — Lower Perennial                                                                    3 — Upper Perenni:                                                                            4 — Intermittent                                                 5 —        Unknown                   Porennial
+                                                                                                                                                                           Aa — ROCK                          UB — UNCONSOLIDATED
+                                                                                                  EM — EMERGENTIN                                            BOTTOM.        BOTTOM.         AB — AQUATIC BED                                                                                                                                       #
+                                                                                                                                                                                                                                                                                                                                                  FL- FLAT.                                                                                     AS — AucKY
+                                                                                                                                                                                                                                                                                                                                                                                                          S8~STAEAMBED                             "SHORE                   Ba — BEACH/@AR                        OW -- OPEN WATER}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     “Unkoown Bros
+                                                                                                                                                             1 Bedrock 1 Cobbla/Gravel = 1 Submergent Algal                                                                                                                                1 CobbieiGravel                                              1 ConbleGrovel                           1 Bedrock
+                                                                                              A                                                       latent 2 Boulder  2                                                                                                                                                                                                                                                                                                       Cobbla/Gravat
+                                                                                                                                                                      "3 Sana
+                                                                                                                                                                          Mua          +3 2 Submergent
+                                                                                                                                                                                             Sabeacpant Vascular
+                                                                                                                                                                                                        Move                                                                                                                               3 Ma
+                                                                                                                                                                                                                                                                                                                                           2 Sead
+                                                                                                                                                                                                                                                                                                                                                                                                       32 Mud
+                                                                                                                                                                                                                                                                                                                                                                                                           Sana                                  2       Bouldes             a       Sand
+                                                                                                                  :                                                            .                                       4 Organic
+                                                                                                                                                                                                                          "                                                       loating-leave
+                                                                                                                                                                                                                                                                              5 Floating                                                   5 Vegetaled Flonase                                              tganle                                                                                                                             .
+                                                                                                                      gy
+                                                                                                                                                                                                                                                                              ¢       Unknown Submargent                                   6     Vegalsted Noa-ploneer
+                                                                                                                                                                                                                                                                                      Unknown Surface                     =~.
+                                                                                                   U1) Et — EMERGENTS wee onty lound Ia the Riverioe Thiel end Riverina Low jot otsonisl Ecological Subsystem.
+                                                                                                                                                                                                                                                                                                                                                           All other clsutee ate found in ll Riverine Ecologyeal Subsysteins.,
+                                                                                                                   CONE WO             Tab        |
+Newbe rg-Dandue
+
+                                                         LDR9,000,                                                                           WLDR-I,
+TONING CLASSIFICATION AND PLAN DESIGNATION: LDR='12,000,
+ViDR=2lgy          VLDR=d,         AF-10,        AF-20,         fi-Au/ LIK and VILDR
+
+                                      £93070                                         .                 oe                       aes             _
+TOTAL ACREAGE: ,,
+TOTAL NUMBER OF PARCELS: 4000
+TOTAL NUMBER.OF PARCELS                      AccUPLED                BY A HOUSE OR MOBILE                        HOME:      207 (322 unite)
+                                                                                                                                             ——
+EXISTING, VACANT PARCELS 10 ACRES OR LESS TN SIZRt_ 66
+
+SCS SOIL CLASS (IN ACRES) +
+Glasy £0. Clann IT 1392 Class                                   [11    248 thas             IV    79        Clase VI_2h?7__
+
+FOREST        SITE CLASS            (IN    ACRES):
+
+Fo 0      Fb -28¥e 473 Fd.18Fea 0 FLO                                                    No Class 1320
+
+DISGUESTON!
+                                                                    area     1s    committed           to    rival         realdential:              develap-
+The     entizea         Nawbérg-Dund ae
+                                   study
+                                            of      this       area        is contained            in 14           different           subdivisions.
+mont,         -Ovar 30 pareent                                                                                                                           parcels
+                                                        of    the. study           area     consisting              predominantly               of
+with     the       remaining         portion
+                                          size and eltuated dn subdivigtondike                                             clusters,            The entlre
+10 acres or less in                                                                                                             fas     fale        or    better
+area     in    lucated        in     4a rural           fire        district,            axhibit “godd ‘raada,
+                                                 has mostly                faty aod?        sultability               for: septic systems,                         =~
+water avallablilty,                   and
+                                                         on the west by che City of                                Qundee       and on the   aast
+The study sraa de bordered
+                         Of                              the 400 total parcels, 396                                ara 10       acres or less in
+by tha Clty of Newberg.
+                          contain         dwelling            unite,          Tha        16 parcels          in     this     study       area         that
+size,and           207                                                                                                                              extene«
+                              tn     size    are,            without         exception,           aurroundead              ow bordeted
+exceed        20    acres
+ively by developed parcels laga th       aeres.in sine.
+                                      LOan                                                                          Agricultural activity
+                                                                                                                   gardeng and orchards
+in this study area has been restricted to small family
+                                                                             and parcelizationof                         chis         area    and its
+and,     given           the extensive subdiviston                                                                                                            wild
+                              to two        urban            areas,        this     rural        reanidential              settlement           pattern
+gloge     proximlty
+                                            Thus,            thie     area        ts committed              to     rural     realdentist                 develop-
+euntinue           to    dominate.
+ment,                                        es
+
+HOARD     ACTION          1979:                  3 te
+
+Maintaia           existing        plen-degignation                    for        entlee     study          area
+     “Cone Areéa               1:8 (Nrr-couteeled lotle Area
+
+                        234
+
+                              wel
+
+                                Plan    Designation         Changad   lo AFL   f Aone
+                                       Changed   Lu   AF/20
+SCALE:   1"   Uo mile
+                                Subdivision
+
+                               Junds     Camaitted     lo    Rural    Kestaentlal   Use
+                                                  YAMHILL COUNTY, OREGON
+                                                    SDIL ASSOCIATIONS
+
+              AREAS DOMINATED BY SOMEWHAT EXCESSIVELY TO POORLY DRAINED,                                        NEARLY LEVEL
+              AND GENTLY SLOPING STREAM BOTTOH ‘SOILS.
+               1,     Cloquato ~ Chehalis - Nevberg amsociation                                  .
+               2,     Wapace = Cove aswoctation                                                         F
+              AREAS DOMINATED BY WELL TO POORLY DRAINED SOILS ON NEARLY LEVEL-TO STEEPLY
+              SLOPING ‘TERRACES, FANS. AND FOOTSLOFES,
+              3.      Woodburn = Willamerte association .                                  :
+              4,      Terrace   Escarpment,      - Woodburn            association
+              5,      Amity - Aloha = Dayton association
+              6.      Chehalem ~ Carltan association     *
++ Village,                                                                      TO VERY
+              AREAS DOMINATED BY WELL TO POORLY DRAINED SOILS ON GENTLY SLOPING   E
+WN,           STEEP FOOTHILLS OF THE ‘COAST RANGE.
+              7.      Willakenzte association, gentle to strong slopes
+              B.      Willakenz{e ascociation, nodarately' steep to steep slopes
+              9,      Peavine association, gentle to strong slopes
+              10, Peavine association, moderately steep to steep slopes
+             . 11,    Dupee'=   Hazelair      association
+              12] Hazelair - Panther association
+              LJ. Laurelwood         association,          gentle       to atrong              alopes
+              Y4. Laurelwood association, moderately ateep to steep . aloper
+              15, Jory - Yamhill    association   =
+              16..Sory ~ Yamhill - Nekia association
+                                                                          VERY STEEP
+              AREAS DOMINATED BY WELL DRATHED' SOILS ON GENTLY SLOPING TO
+              TOPOGRAPHY OF THE COAST RANGE.
+                                             association,             gentle        to moderately           steep   slopes
+              17,     Astoria   - Hembre
+              18.     Astoria - Henbre     association, steep slopes
+              19,     Olyic association, gentle to maderately ateep mlopen
+              20,     Olyie apaoc{ation, steep slopes                ‘
+              21.     Melby - Ead ~ Dlyic association
+              22,     Ead = Olyic, association                              steep slopes
+              23,     Heabre - Klickitat association, gentle to moderately slopes
+              24.     Hembre ~ Klickitat association, steep to very steep
+
+                                                 ‘Tah mop Ih Intended bar ponoetl ploonirg Sack
+                                                           mary eaniain mes
+                                            daliosation thaw                       rales diferent
+                                                                         val vlog tall
+                                            pee teens            wn the       Une         nll emp
+                                           Fatmareeoaentlanal  plareing« rel on te bapeInt
+                                                    Sealed destin
+
+                     SOIL       LIMITATIONS FOR ROAD. AND                                                    STREETS
+                                       DEVELOPED FROM
+                                    GENERAL SOIL MAP
+                                    YAMHILL COUNTY, OREGON
+                                US, DEPARTHENT OF, AGRICULTURE
+                                1% COOPERATIDH WITR OREGOI AGR                                                      8
+                                ASSISTING YAMHILL SOIL AKU RAT                           EXHIBIT
+                                JHE PRINTING OF THIS PUALICATI
+                                cUUNTY.
+                                                            Anieiery           (a7N
+                                      Coyote Homes     UGB
+
+                                                                          aiphoate sid
+
+http://ice.or.nres.usda.gov/servlet/com.esri.esrimap.Esrimap?ServiceName=yamhill
+                                                                              &Cl        EXHIBIT 9
+                                                                                    “uoneprdoyuism Jo osnstar ‘suorssuuo ‘sion deur10 oyqisuodarjou st Aumoo
+                                                                      ‘W00e= HT              SUL “SOMIANSE PEyUseMUIOAGF st Woddns o} Ayuno o~) Aq poureyureay
+                                                                    ane         |     SLEEP SID OL “BeP SIO Amog [IyaTex otp Futsn poonpord sem deur sry
+                                                                                                                         oven
+                                                                                                                            08
+                                                                                                                        “voce
+                                                                                                                           809
+                                        wopdysseq-s5019-950,
+                                         soup snpyg Apadarg
+                                                                                                                        over,
+                                                                                                                           00g
+                             ArOOUROMMUBES ON-PUET ILL
+                                             wopduasag vod
+                                                     pe        WO
+                                         oooto avarzex
+                                              Aaqumyy 40] ser,
+                                                      9000
+                                                  poomoqy sian
+                                                          oO
+                                                    sarsy [eaay
+                                              4           )
+        h                                           yeog arnbs
+            b            “146 YO OWAEMAN 06> XO Od
+                                                  ssmppy Site
+                                  ONI SHWOH ALOAOD
+                                                   quody Sung
+                                                      0
+                -                           * ssurppy sims
+                                  ALOA09 ONI SANOH.
+                                                     ere)
+                                              oostPI00
+                                         soquinyy quno39y
+                                         00010 vsized
+                                              equ 30[ KEL,
+    -               de                       © suo84jod yopaq
+,   _ * (dey Munog qT A
+a:   APPLICANT’S
+     ADDITIONAL
+     INFORMATION
+                 ae                  ¥              ORDINANCE NO. 2006-2636
+
+                   AN ORDINANCE DECLARING THAT: CERTAIN TERRITORY BE
+                   INCLUDED IN THE CITY OF NEWBERG URBAN GROWTH BOUNDARY
+                   TOGETHER WITH A COMPREHENSIVE PLAN CHANGE FROM A
+                   YAMHILL COUNTY VLDR DESIGNATION TO A CITY OF NEWBERG
+                   MDR_ COMPREHENSIVE PLAN DESIGNATION.       THE SITE IS
+                   LOCATED BETWEEN CRATER LANE AND CHEHALEM DRIVE, AT
+                   LYNN DRIVE, YAMHILL COUNTY TAX LOTS 3218AB-1000, -1001,
+                   -1100, -1101, -1200 -1300, and -1400.
+
+                                                                   RECITALS:
+
+1.         On September 26, 2005, Coyote Homes, Inc., on behalf of the property owners in the
+           area, initiated a request for an urban growth boundary amendment, and comprehensive
+           plan change to the City of Newberg designation to MDR (Medium Density Residential)
+           for approximately 8.82 acres. Coyote Homes, Inc. subsequently revised the request to 7.6
+            acres.
+
+2s         Notice was published in the Graphic Newspaper on November 30, 2005 which is at least
+           ten days prior to the public hearing before the Newberg Urban Area Management
+           Commission on December 14, 2005, and on November 12, 2005 notice of the Newberg
+           Urban Area Management Commission meeting was posted on the site, and on November
+           30, 2005, notice was posted at four public places to comply with Oregon Revised Statute                                       ‘
+           requirements.                                                                    ;
+
+3.        On December 14, 2005 a hearing was held by the Newberg Urban Area Management
+           Commission and the Newberg Urban Area Management Commission, by a majority vote,
+           recommended to the City Council and Yamhill County Board of Commissioners approval
+            of     the    requested         amendment.                Further,        the      Newberg   Urban   Area   Management
+            Commission recommended that at the time of annexation, the City of Newberg provide
+            Yamhill County with written acceptance of jurisdiction over the Chehalem Drive right-
+            of-way.
+
+4,         On December 27, 2005 notice of this proposed urban growth boundary amendment was
+           mailed to the owner of record as identified in Yamhill County Assessor's Office, and all
+           adjoining property owners within a distance of 500 feet.
+
+5.         Notice was published in the Graphic Newspaper on December 31, 2005, which is at least
+           ten days prior to the public hearing before the City Council on January 17, 2006; and on
+           January 3, 2006 notice of the City Council meeting was posted on the site and at four
+           public places to comply with Oregon Revised Statute requirements.
+
+City of Newberg:     ORDINANCE NO. 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                                         1
+6.        - After proper notice, on January 17, 2006 at the hour of 7:00 PM in the Newberg Public
+      *     Safety Building, 401 E. Third, the City Council held a Public Hearing on the item:
+            accurately stated objections to jurisdiction, bias, and ex-parte contact; considered public
+            testimony; examined the record; heard the presentation from staff and the applicant;
+            examined and discussed the appropriate criteria to judge the project (as listed in the staff
+            report); considered all relevant information regarding the item; and deliberated.
+
+THE CITY OF NEWBERG ORDAINS AS FOLLOWS:
+
+1.          The City Council finds that the requirements of the Newberg Urban Area Management
+            Agreement - Urban Growth Boundary Amendment Criteria, Newberg Comprehensive
+            Plan Amendment - Newberg Development Code, Section 151.122, Statewide LCDC
+            Goals,      ORS       197.296(2),          ORS       197.298,        OAR           660-Division    4, and Goal    14 Factors
+            regarding urban growth boundary amendments have been met.
+
+2.          The City Council adopts the findings                               which       are    attached    hereto   as Exhibit A   and
+            incorporated herein by reference.
+
+3.          It is hereby ordered and declared that the property described in Exhibit                                      B and shown in
+            Exhibit C, is hereby included within the Newberg Urban Growth Boundary.
+
+4,          The territory described in Exhibit B and shown in Exhibit C, is hereby changed from a
+            Yamhill County VLDR Comprehensive Plan Designation to a City of Newberg MDR
+            Comprehensive Plan Designation. The "Newberg, Oregon Comprehensive Plan Map"
+            shall be amended to indicate this change.
+
+5.          It is the intent of the Newberg City Council to request jurisdiction of Chehalem Drive and
+            Crater Lane abutting the property at the time of annexation.
+
+      >     EFFECTIVE DATE of this ordinance is 30 days after the adoption date, which is: February 16, 2006.
+ADOPTED by the City Council of the City of Newberg, Oregon, this 17th day of January ,
+2006, by the following votes:
+
+AYE:        6                       Nay:        0                       ABSENT:                  0.       ABSTAIN:        0
+
+                                                                        James H. Bennett, City Recorder
+
+ATTEST By the Mayor this 19" day of January, 2006.
+
+Bob Stewart, Mayor
+
+                                                     EGISLATIVE HISTO:
+By and through Newberg ‘Urban Area Management Committee at fhe 12/14/2005 meeting.
+
+City of Newberg:   ORDINANCE NO. 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                                               2
+                                                                                                        EXHIBIT “A”
+                                       URBAN GROWTH BOUNDARY FINDINGS
+                                                  UGB-05-013
+                      Approval of an urban growth boundary amendment for 10 acres.
+
+           Newberg    Urban    Area Management      Agreement     -Urban    Growth     Boundary
+           Amendment Criteria: Amendment of the Urban Growth Boundary shall be treated
+           as a map amendment to both City and County Comprehensive Plan maps. Change
+           of the boundary shall be based upon consideration of the following factors:
+
+            (a)        Demonstrated need to accommodate long-range urban population growth
+                       requirements consistent with LCDC goals. The following Statewide goals apply
+                       to this application: Goal 1, Citizen Involvement; Goal 2, Land Use Planning;
+                       Goal 3, Agricultural Lands; Goal 5, Open Spaces, Scenic and Historic Areas,
+                       Natural Resources; Goal 6, Air, Water and Land Resources Quality; Goal 8,
+                       Recreation Needs, Goal 10, Housing; Goal 11, Public Facilities and Services;
+                       Goal 12, Transportation; and Goal 14, Urbanization. [Goals 4, 7, 9 and 15-19
+                       do not apply to this site.]
+
+            Findings:
+
+            Goal 1, Citizen Involvement.                         The property under review is located within Study Area
+            “P”of the Newberg Urban Reserve Area Project adopted by the City and Yamhill County
+            in 1995, A public involvement program was implemented as part of the initial Urban
+            Reserve Area Project in 1992 and 1993. In 1997, a study was prepared that examined the
+            six Urban Reserve Areas (URAs) in detail, and that provided a buildable lands inventory
+            and land use needs analysis, preliminary infrastructure and transportation. plans, a:
+            prioritization plan for the URAs, and an amended urban services agreement between the
+            City of Newberg and Yamhill County. In conjunction with this 1997 study, a citizen
+            involvement and intergovernmental coordination program was prepared and implemented
+            to assure that the results of the study accurately reflected the desires of residents and
+            property owners inthe City and County. The City held two workshops for property
+            owners and other interested parties in the URAs in 1997 attended by 60 to 70 people. A
+            questionnaire was also distributed at that time to solicit additional citizen input in the
+            URA planning process.
+
+           Public notice has been provided to all properties within 500 feet of the site and the site
+           has been posted. Public notice has been provided to the Oregon Department of Land
+            Conservation and Development per state regulations.
+
+            Goal 2, Land Use Planning. This goal stipulates that land use decisions be made in
+            accordance with a comprehensive plan, and that suitable “implementation ordinances” to
+            the plan’s policies must be adopted.     It requires that plans be based on “factual
+           information”, that local plans and ordinances be coordinated with those of other
+           jurisdictions and agencies, and that plans be reviewed periodically and amended as
+           needed.    Goal 2 also contains standards for taking exceptions to statewide goals. An
+
+City of Newberg:   ORDINANCE NO. 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc.                             3
+           exception may be taken when a statewide goal cannot or should not be applied to a
+           particular area or situation. The City’s Comprehensive Plan was originally adopted in
+           1979 and has been amended several times since then. Updated Comprehensive Plan
+           population and land need forecasts were adopted in November 2005.
+
+            The City’s Development Code implements the Comprehensive Plan.  An amended
+            Newberg Urban Area Growth Management Agreement between the City and Yamhill
+            County was adopted in 1997 to ensure coordination and cooperation between the City
+            and County in the management of growth within the Newberg Urban Growth Boundary
+            (UGB) and URAs.        This agreement establishes a process for maintaining ongoing
+            planning efforts, designed to keep pace with growth and change, recognizing that
+            intergovernmental coordination is essential to assure citizens of the City and County that
+            growth occurs in an orderly and efficient manner.
+
+            Goal 3, Agricultural Lands. This goal requires counties to inventory agricultural lands
+            and to. “preserve and maintain” them for farm use.     The property under review is
+            currently zoned VLDR-1 (very low density residential).     In 1980, Yamhill County
+            identified the property under review as “lands committed to rural residential use” in
+            Exceptions Statement II.                    The exception land definition identified this general area as
+            having a mixture of soil types ranging from Class IL soil type to Class VI soil type. The
+            City of Newberg Inventory of Natural and Cultural Resources indicates that most soils in
+            the vicinity are flat and at least moderately fertile, though nearly all types have some
+            problems with drainage. The site consists primarily of WuB Woodburn silt loam soils.
+            Woodburn soils are identified as Class II soils by the SCS.                            "
+
+            The Exceptions Statement II document includes a discussion noting that the area:involved
+            is characterized by good roads, rural fire service, fair or better water availability, and has
+            mostly fair soil suitability for septic systems.                             This area is currently committed to rural’
+            residential development.                                                                                         °
+
+            The Inventory of Natural and Cultural Resources report states the City’s recognition that
+            urban expansion will undoubtedly occur on prime Class II soils, but notes that wasteful
+            land uses practices should be discouraged. The proposed addition of the project site into
+            the UGB would provide needed area for urban expansion adjacent to the City, where
+            services are available or can be readily extended, thereby avoiding leap-frog development
+            or other land consumptive practices.
+
+           Goal 5, Open Spaces, Scenic and Historic Areas, and Natural Resources. This goal
+           encompasses 12 different resource types, including wildlife habitats, mineral resources,
+           and wetlands and waterways. Goal 5 requires inventories of resources to be conducted
+           and policies to be adopted whereby the local jurisdiction can manage these resources.
+           The City of Newberg prepared an Inventory of Natural and Cultural Resources in 1981 as
+           part of its comprehensive planning program.       This inventory includes the following
+           resources: agricultural lands; forest lands; mineral and aggregate resources; fish and
+           wildlife; water; air quality; and open space, scenic, natural, historic and recreational
+            resources.         The property under review consists primarily of WuB                            Woodburn silt loam
+
+City of Newberg:    ORDINANCE NO. 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                                       4
+            soils. Woodburn soils are identified as Class II soils by the SCS. The site contains no
+            identified forest lands, mineral resources and aggregate resources, fish, wetlands or
+            waterways,           and     no    known         archeological,           open       space,    scenic,   natural,     historic    and
+            recreational resources.               The County has no identified wildlife resource information in this
+            area. Negligible impacts are anticipated to existing air quality in the area.
+
+            Goal_6,          Air,      Water_and_             Land        Resources             Quality.      This    goal      requires     local
+            comprehensive plans and implementing measures to be consistent with state and federal
+            regulations on matters of air, water and land resources quality.            The Newberg
+            Comprehensive Plan, Ordinance 1967 contains several policies intended’ to ensure
+            conformance with state and federal regulations governing air, water and land resources
+            quality. No water courses exist in the area. Negligible impacts are anticipated to existing
+            air quality in the area. The proposed UGB amendment would be consistent with the
+            City’s Plan policies by providing public sanitary sewer capable of supporting future
+            urban level development as a preferred alternative to allowing low density rural
+            residential development with individual septic systems as allowed under current county
+            zoning.
+
+            Goal 8, Recreation Needs.                        This goal requires a community to evaluate its areas and
+            facilities for recreation and to develop plans to deal with the projected demand for them. -
+            The City’s Comprehensive Plan includes policies designed to ensure -recreational
+            facilities and services are expanded to meet growing recreational demands of the
+            community. Chehalem Park and Recreation District (CPRD) has established a 19 acre
+            park directly north of the school facilities on Foothills and Chehalem Drive to’meet:the
+            recreational needs of the area. Additional park facilities will be needed to serve Ghebalets
+            Drive area as it develops.                                                          1
+
+            Goal 10, Housing. This goal requires a community to plan for and accommodate needed
+  )         housing types, including multifamily and manufactured housing, and’ to ‘inventory
+            buildable residential lands, project future needs for such lands, and. to plan and zone
+            enough buildable land to meet those needs.            It also prohibits local plans from
+            discriminating against needed housing types.       The goal for housing in the City of
+            Newberg’s Comprehensive Plan is to provide for diversity in the type, density and
+            location of housing within the City to ensure there is an adequate supply of affordable
+            housing units to meet the needs of City residents of various income levels. Housing
+            density and mix policies are set forth in the Plan, rather than housing types, as the most
+            important development criteria to be used to classify different types of residential areas in
+            the City.
+
+            In 1995 the City adopted an Urban Reserve Area. The URA includes 916 acres of land
+            with approximately 750 acres of buildable land. After combining the existing population
+            within the City and the future population in the UGB, a total of approximately 34,700
+            people could be accommodated.                          Some of the factors used to determine which properties
+            should be given              a URA        designation included contiguity to the UGB                             and City limits,
+            percentage of study-area designated rural residential, percentage of study area designated
+
+City of Newberg:    ORDINANCE NO. 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636,.doc                                                        5
+              ey
+
+        * agricultural,         transportation          access,      sewer       and    water    potential,   and   natural    boundaries.
+           The subject site was originally included in Area F of the URA study, as described below:
+
+           Area F.        The subject area is located in the southern half of the original Area F study in
+            1995. This half has been developed as rural residential on small lots and acreage.                                        The
+           northern half has been developed into low and medium density residential land within the
+           City of Newberg. There remain a few scattered residences and some vacant land in the
+           northern section of Area F.        Chehalem Drive traverses the area in a north-south
+           orientation.    This is a major county road carrying reasonable levels of traffic that
+           continues north into Washington County. North Valley Road is the northern boundary of
+           this urban reserve area. The only natural condition affecting future development is some
+           minor drainage ways. Periodic flooding has occurred in this area due to inadequate storm
+           water drainage ways. A sewer pump station was built using LID funds to service new
+           development in the northern section of Area F, from approximately Mountainview to
+           Foothills Drive. Water service was provided to the new development with the extension
+           of main lines in Crater Lane and Chehalem Drive. Sanitary sewer and water lines are
+           available to the southeast of the subject site in Lynn Drive. At this time, there is adequate
+           service to meet the future demand for the site.
+
+           In 2004, the City undertook a residential needs analysis to identify the need for
+           residential land for the next 20-years. The Ad Hoc Committee on Newberg’s Future
+           recommended that this URA area be included in the Urban Growth Boundary with
+           approximately 45 acres of land designated LDR and 40 acres of land designated MDR
+
+           As shown in the Tables A, B, C, and D of these findings, there is currently a need for
+           additional medium density zoned land to meet projected increase in population growth by
+           2025.
+
+           For the planning period ending in 2025, there is a significant shortfall in every residential
+           land category.              The proposed            UGB       amendment            will help the City meet its Goal          10
+           obligations to provide a suitable inventory of buildable residential lands and to provide
+           for opportunities for a diversity in the type, density and location of housing units to
+           ensure an adequate supply of affordable housing.
+
+           Development of the site, based on the designation proposed by the applicant, would be
+           consistent with housing policies of the City’s Comprehensive Plan and with requirements
+           of the Development Code.
+
+            Goal 11, Public Facilities and Services.                            This goal calls for efficient planning of public
+            services such as sewers, water, law enforcement,                                    and fire protection.          The primary
+           objective of this goal is to encourage planning of public services to meet the community’s .
+           needs and capacities rather than being forced into the situation of responding to
+           development as it occurs. The City’s Comprehensive Plan includes the goal to plan and
+           develop a timely, orderly and efficient arrangement of public facilities and services to
+           serve as a framework for urban development. Water, sanitary sewer and storm water
+           management facilities were evaluated as part of the detailed URA analysis conducted by
+
+City of Newberg:   ORDINANCE NO. 2006-2636
+CADocuments and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                                                  6
+           the City in 1997. That study determined that these services can be provided in the project
+           area, subject to completion of a new sanitary sewer pump station which was built through
+           the LID process in the vicinity of these lots. The pump station is currently at capacity,
+           however, the subject site may be served using gravity flow with the existing utility
+           infrastructure in Lynn Drive.
+
+           Goal 12, Transportation.        The primary objective of this goal is to provide a safe,
+           convenient and economic transportation system.          The City’s Comprehensive Plan
+           contains several goals and policies designed to guide the planning and provision of a safe,
+           convenient and economic transportation system in cooperation with state, county and
+           neighboring communities in the region. The City’s 1997 Urban Reserve Project report
+           includes an analysis of transportation system impacts and possible improvements based
+           on a comparison of two alternative land-use scenarios.         The orderly and economic
+           provision of public services and facilities, including the transportation system, was
+           among the criteria used to evaluate the URAs.
+
+            In 2005, the City of Newberg adopted an updated Transportation System Plan.                           This plan
+            includes several recommended road improvements in the general vicinity of the site.
+           They include:
+
+            >           Chehalem Drive: A recommendation that the City of Newberg and Yamhill
+                        County reconstruct those sections of Chehalem Drive under each respective
+                       jurisdiction, between Highway 240 and North Valley Road to major collector                                  ©
+                       street standards to include bicycle lanes, and sidewalks on both sides of the street.
+                        This project is approximately 1.57 miles, and is estimated to cost approximately
+                        $4.0 million. Approximately one-half of this segment is within the City limits; ‘the
+                        remaining portion of this project is located outside of the City’s UGB and within
+                        its Urban         Reserve       Area,      and therefore is currently   within the jurisdiction.of
+                        Yamhill County. At such time when Newberg annexes these areas into the City,
+                       this portion of the project would become the City’s responsibility. Improvements
+                       to Chehalem Drive will provide adequate access for the area, thereby reducing the
+                       potential for arterial traffic traveling on nearby local streets, and provide better
+                       access for bicyclists and pedestrians.
+
+           A Traffic Impact Study has been prepared by Charbonneau Engineering, Inc. in
+           conjunction with this application. The following transportation system improvements are
+           recommended to enhance local street connectivity and improve circulation patterns
+           within the site vicinity.
+
+           ld          Chehalem Drive Cross-Section Improvements - Chehalem Drive should be
+                       improved to major collector standards as per the City of Newberg TSP.
+
+            >           Crater Lane Improvements                          - Crater lane should be improved   to local street
+                        standards.
+
+City af Newberg:   ORDINANCE NO. 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                                   7
+            Additional details of the study methodology, findings, and recommendations are provided
+            within the Traffic Study Report (Attachment F).
+
+            Future development in the area will pay for transportation improvements through existing
+         ‘ Transportation             System        Development             Charges.            These     are estimated     based    on       the
+            applicant’s submitted concept plan:
+
+                         48 Single Family at $1,709.35 each equals                                                          $82,048.80
+
+            Thus, the minimum future development would generate sufficient SDC revenue to pay its
+            share of capacity improvements, and generate additional funds for other capacity
+            improvements throughout the City as identified in the Transportation System Plan.
+
+            Goal 14, Urbanization.                      The objective of this goal is to provide for an orderly and
+            efficient transition from rural to urban land use. This goal requires all cities to estimate
+            future growth and needs for land and then plan and zone enough land to meet those
+            needs. It calls for each city to establish an “urban growth boundary” (UGB) to “identify
+            and separate urbanizable land from rural :land.” The City of Newberg UGB                                                contains
+            approximately 3,555 acres. The City of Newberg Comprehensive Plan Section IV.B
+            identifies approximately 778 acres as vacant and buildable, with anticipated residential
+            needs expected to exceed the area currently located within the UGB. ° Seven factors are
+            specified by Goal 14 that must be considered in establishing and changing UGBs.                                           These
+            seven factors are addressed in this application in items (a) through (g) of this section.                                     .
+
+            (b)      . Need for housing, employment opportunities, and livability;
+
+            Finding:         In November             2005, the Comprehensive Plan was revised to include updated
+            population forecasts through the year 2040.” As shown in Table A, based on the: year
+            2025 population forecast of 38,352 and the 2005 population forecast of 21,132, there is a
+            projected increase of 17,220 people for the next 20 years. The Portland State University
+            Population Research Center estimated an AAGR (average annual growth rate) of 3.1%
+            from 1990-2005 for the City of Newberg. The AAGR for the estimated population from
+            2005-2025 is 3.0% and decreases to an AAGR of 2.3% for the estimated population from
+            2025-2040.                                                                                              '
+
+                                                               Table A
+                                                       UGB Population Forecasts
+
+                                                       Anticipated             | UGB Population                     Population
+                                                        Population                  Estimate as of              Remaining To
+                                                                                               2005     —«.             Serve
+             Population 2025                                38,352                         21,132                       17,220
+            Population 2040                                54,097                          21,132                       32,965
+            Source: City of Newberg, Comprehensive Plan, November 2005
+
+                   are                   ee             Se                            er                      eee          ee                  —t
+City of Newberg:   ORDINANCE NO. 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                                                    8
+           According to the City’s adopted population projections, the population of Newberg is
+           expected to continue to grow at an average rate of 3.0% annually over the next 20 years.
+           The additional 17,220 residents will result in approximately 6,704 new households by
+           2025.    This population increase will require an adequate supply of residential,
+           commercial and industrial land in order to maintain a jobs/housing balance in the area,
+           and to provide adequate job opportunities and housing choices to maintain livability in
+           the community.
+
+           A Housing and Residential Needs Analysis was conducted by. Johnson-Gardner in 2004.
+           In November 2005, Section IV of the Comprehensive Plan was revised to include
+           updated housing needs derived from that analysis. These needs were based on a variety
+           of factors, including population growth, housing cost, and income levels.
+
+           “fables B includes an analysis of housing needs based on historical evidence of quantities
+            and types of housing developed, and an analysis of the amount of land that will be
+           required to meet future needs for residential development to accommodate projected
+            growth of the community.
+
+           Applying the growth forecasts established by the Comprehensive Plan, it is estimated that
+           the City will require 6,740 units by 2025 and an additional 6,420 units by 2040, as shown
+           below in Table B. Half of the projected units will be in single-family detached dwellings.
+
+                                                                    TABLE B
+                        Future Housing Need By Housing Type (number of dwellings)                                     -
+                           . Single Family                      ‘Multi-Family                          Manufactured.
+                       ‘Detached | Attached | Medium | High                                    Parks        Subdivision | Total
+                                              Density | Density
+                             50%                1%                15%               23%           2%            2%        ‘|,   100%     -
+     2005 to                3;377               492              1,022              1,533.”       140           140             6,704
+      2025                                        ‘
+     2026 to                3,234               471               978               1,467         135           135             6,420
+      2040                     :                                                        ‘
+      Total                 6,611               963              2,000              3,000         275           275             13,124
+   Source:     City of Newberg, Comprehensive Plan, November 2005
+
+           Table C includes projected residential land needs for the various housing types provided
+           for in the Comprehensive Plan: Low Density Residential (LDR); Medium: Density
+           Residential (MDR); and High Density Residential (HDR).          The table shows planned
+             densities in order to calculate the needed acres needed for development. The planned
+           densities are equivalent to the maximum densities allowed in each designation. Recent
+           trends have indicated’ that development within the MDR (medium density residential)
+           designation is closer to 5.8 units/acre compared with the planned density of 9 units/acre.
+           The concept plan for the subject site has an approximate density of 5 units/acre, close to
+           recent trends for MDR and far below the planned density for the this designation. In order
+           to create an efficient use of land, the City of Newberg has, committed to take steps to
+
+                                                      ——EEE
+City of Newberg:   ORDINANCE NO. 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc
+             increase the density in this category. This may include a requirement for duplex or multi-
+             family only in the MDR designation, excluding detached single-family homes.
+
+             The Table shows that 874 acres are needed to accommodate population growth for the
+             next 20 years with an additional 1 ae acres needed to accommodate 2040 population
+             estimates.
+
+                                                                    Table C
+                                                    Buildable Residential Land Need
+
+                                                         Dwelling                  Buildable             Dwelling           Buildable
+                                                         Units                     Acres                 Units              Acres
+        Plan                     Density                 Needed                    Needed                Needed             Needed
+        Designation | (du/ac.)                  -        (2005-2025) | (2005-2025) | (2026-2040) | (2026-2040)
+          LDR         44                                 2,691         612           3,234         735
+          MDR         9                                  1,556         173           1,719         191
+          HDR         16.5                               1,473         89            1,367         83
+        Total                                            5,720"                    874                   6,320              1,009
+          Source:     City of Newberg, Comprehensive Plan, November 2005
+
+            The land need in Table C is compared with the buildable land supply within the current
+            UGB to find the number of acres needed to accommodate future growth, as shown in
+            Table D. The Table-shows that an additional 380 acres will need to be within the UGB to
+            accommodate growth to the year 2025. Beyond the year 2025, an additional 1,009 acres
+            will be needed to accommodate growth to the year 2040.
+
+                                                                        Table D
+                                              Buildable Residential Land Needs vs. Supply
+                               Plan                 Buildable | Buildable|                     Surplus      | Buildable
+                         Designation                  Acres             Acres in               (Deficit)           Acres
+                                                     Needed                UGB                 for 2005-          Needed
+                                                    2005-2025 |           (2004)                  2025           2026-2040
+                               LDR                     612                  359                   (253)             735
+                             MDR                       173                   142                 (31)                191
+                              HDR                       89                    13                 (76)                83
+                              Total                    874                  514                  (380)              1,009
+                           Source:     City of Newberg, Comprehensive Plan, November 2005
+
+            The evidence presented above clearly demonstrates that the current supply of vacant
+            developable and appropriately zoned land is inadequate to meet the needs of the
+            community over the next several years. There will be a negative supply of available low,
+
+' The dwelling units needed for the time period of 2005-2025 was reduced from 6,704 (Table B) to 5,720 (Table C)
+to account for dwelling units that were in process of being built during 2004 and are now part of the current
+residential inventory.
+
+ey
+City of Newberg:    ORDINANCE NO. 2006-2636
+C:ADocuments and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                                            10
+           medium and high-density land by 2025, if not before, to meet the community’s need for
+           residential land.
+
+           In summary, population and residential housing growth has averaged approximately 3%
+           per year over the last ten years.       There is currently a low amount of available,
+           developable land within the city for residential development. As an example, the supply
+           of Medium Density Residential (R-2) land has decreased at a faster rate than other
+           residential zones in the City.                    Suitable residentially zoned land is in short supply to meet
+           residential growth needs over the next five to ten years according to the City’s residential
+           land need analysis.
+
+           (c)         Orderly and economic provision for public facilities and services;
+
+           Finding:    The majority of the site can readily be served by the extension of utilities
+           currently located in Lynn Drive and Crater Lane. The southern most portion of the site
+           will require future utility improvements in Columbia Drive before that portion of the site
+           can be annexed and consequently developed.
+
+                    Water: Based on a maximum density of approximately 76 dwelling units, the area
+                    could be served by six-inch water lines. A new reservoir on Corral Creek Rd. and
+                    one new well has been completed in the last two years. A second new well is under
+                    construction and will become on line by summer 2006. These facilities have the
+                    potential to increase the City’s overall water storage ability by 50% per day. The
+                    water treatment plant will be expanded to accommodate the well field expansion by
+                     2006.
+
+           Sanitary sewer:             The subject site can feasibly be served via gravity flow from the sewer
+           main line located in Lynn Drive.                                                                             :
+
+           Storm water management: There is currently no storm water provision on the site. On-
+           site detention may be required to limit the impact of storm water on adjacent properties.
+
+(dq)       (Maximum efficiency of land uses within and on the fringe of the existing urban area.
+
+Finding: The proposed amendment will provide for maximum efficiency of land use on the
+fringe of the urban area through extension of public water and sanitary sewer that allow for
+development at an urban scale. As currently zoned by the County, low-density rural residential
+development could occur, yet soils on the site are not suitable for septic drain fields. The
+proposed use of the area for medium density urban residential development is harmonious with
+the use of nearby properties located to the north and east of the site within the City boundary.
+Properties to the west and south are predominantly zoned for agricultural use. Land needed for
+medium density residential development will be added to the City’s buildable lands inventory.
+The area could potentially provide an overall density of approximately 76 units, which can
+efficiently be served by extensions of public utilities.
+
+(e)        Environmental, energy, economic and social consequences;
+                                                                                               ee:
+
+City of Newberg:   ORDINANCE NO. 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                            NW
+, Finding:
+
+ Environmental consequences:                        The site consists primarily of a Christmas tree farm and single-
+ family homes.              Although the land west of the site is in agricultural use, the area cannot be
+ classified as strictly agricultural in nature due to the many VLDR lots and homes on Chehalem
+ Drive. Chehalem Drive serves as both a visual and physical buffer between the agricultural uses
+ west side of the site and the project area. No known historic sites exist in the project area.
+ Energy consequences: The provision of needed medium density housing will help to conserve
+ energy resources by expanding an existing efficient land use pattern. The site is within close
+ proximity of two schools, a community center, and a park, thus reducing reliance on automobile
+ transportation.
+
+ Economic consequences: Until the parcels are annexed, there is negligible economic impact.
+ Upon annexation, a complete economic impact statement will be required and additional service
+ requirements and the costs associated with them will be analyzed at that time. As an example,
+ development activity will likely generate more traffic in the area but that same development
+ activity will also generate additional transportation system development fees to fund local road
+ improvements.
+
+ Social consequences:                 The long-term socioeconomic benefits to the community will be, fulfilled
+ by creating housing opportunities for households of all sizes and income levels. In the 2004
+ Housing and Residential Land Needs Report, the projected residential demand for duplexes and
+ multi-family was over 45% of the total projected housing needs from 2004-2025. The requested
+ MDR (Medium Density Residential) designation for this site fulfills part of that need. ‘This will
+ allow the City of Newberg to enable a diverse range of citizens to find housing and create a well
+ rounded community.                                                                                                     :
+
+ Staff concludes that including these parcels in the urban growth boundary at this time will be a
+ greater benefit to the City than any impacts that have been identified above.
+
+ fp         Retention of agricultural land as defined, with Class I being the highest priority for
+            retention and Class VI the lowest priority; and
+
+ Finding:        The site contains a diverse array of soil types of which some are not deemed to be high
+ quality soils for intensive agriculture use. As shown on the soils map, soils on the site are a
+ mixture of soil types. In many cases, the area also has poor drainage. Yamhill County identified
+ the property under review as “lands committed to rural residential use” in Exceptions Statement
+ Il, issued in 1980. Therefore, it has been previously determined that the site is not well-suited
+ for use as agricultural land, and has low priority for retention as agricultural land.
+
+ (g)         Compatibility of the proposed urban uses with other adjacent uses.
+
+ Finding:           Oregon’s land use laws were designed to protect farm land and to establish city
+ boundaries.   Where these boundaries terminate, potential conflict with adjacent activities,
+ including farming activity can occur. Urban reserve areas, by their very nature, exist on the
+ fringes of these city boundaries.                     These parcels were included within Newberg’s Urban Reserve
+
+       aT                      SEE
+ City of Newberg:   ORDINANCE NO. 2006-2636
+ C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                      12
+Area in anticipation of development occurring by 2020.                                     Newberg’s Development Code has been
+designed to mitigate impacts of new development on surrounding land uses. Impacts on this area
+which      may      occur as a          result of existing farming practices can also be mitigated by proper
+installation of amenities such as landscaping and screening at time of development.
+
+The area under consideration is located between Chehalem Drive and the western fringe of
+Newberg’s city limits. Chehalem Drive acts as a natural visual boundary between adjacent
+agricultural uses on larger parcels and residential development to the east. Land directly east of
+the site contains residential dwellings developed to City of Newberg R-1 zoning standards. The
+property to the north contains residential dwelling units developed to the City of Newberg R-
+1/6.6A zoning standards.
+
+16         Newberg Comprehensive Plan Amendment Criteria - Newberg Development Code,
+           Section 10.20.030: The applicant must demonstrate compliance with the following
+           criteria:
+
+A.         The proposed change is consistent with and promotes the goals and policies of the
+           Newberg Comprehensive Plan and this Code.
+
+           NEWBERG COMPREHENSIVE PLAN POLICIES AND GOALS:
+
+           AGRICULTURAL LANDS - Goal: To provide for the orderly and efficient transition
+           from rural to urban land uses.
+
+           AGRICULTURAL                     LANDS - Policy 1.                   The conversion of land from agricultural to
+           urban land uses shall be orderly and efficient.
+
+Finding: As previously noted, in 1992 and 1993 an urban reserve area project was. completed.
+The Urban Reserve Area land supply was intended to provide adequate land for the City’s needs
+to 2020.    As shown in Tables B, C, and D a current shortfall of residential land has. been
+identified. These parcels were included within the urban reserve area-and.conversion from
+agricultural to urban land uses is occurring in an orderly and efficient manner.        Adjacent
+properties within the City limits have recently been fully developed. Conversion of this block of
+land is the next logical order of progression for development to occur.
+
+           AGRICULTURAL LANDS - Policy 2. Inclusion of lands in agricultural use within the
+           Urban Growth Boundary is recognition of a commitment of future urbanization, as
+           such lands are necessary to meet long-range population and economic needs, based on
+           criteria outlined in the statewide Urbanization Goal.
+
+Finding:     The site under review has historically been used for low intensity agricultural
+purposes, such as filbert and walnut orchards. Tables B, C and D demonstrate that there will be
+a substantial shortage of land in the City available for medium density housing should growth
+rates and corresponding housing development trends experienced over the past few years
+continue. Inclusion of the property under review within the UGB would help to alleviate the
+shortages of land available for residential use expected to occur by 2025, if not sooner.
+
+                                            ee                               es                es                           ———I
+City of Newberg:   ORDINANCE NO. 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                                  13
+Re
+
+     te
+                AIR, WATER, AND LAND RESOURCE QUALITY - Goal: To maintain and where
+                feasible, enhance air, water and land resource qualities within the community.
+
+                AIR, WATER,                AND       LAND        RESOURCE                QUALITY - Policy 3.   As public sanitary
+                sewer becomes available, all development shall connect to the public system.
+
+     Finding: Sanitary sewer service is available to the east in Lynn Drive to serve the majority of
+     site. Currently, the existing homes are on septic sewer systems. When development occurs, all
+     residences will connect to City sewer service.
+
+                HOUSING - Location Policy 2(a). Medium and high-density areas should be located
+                for immediate access to collector streets or minor arterials and should not cause traffic
+                to move through low-density areas. High-density areas should be easily accessible to
+                arterial streets.           They should also be located near commercial services and public open
+                spaces.
+
+     Finding:           The two primary accesses for the development are located on Chehalem Drive and
+     Lynn Drive. Chehalem Drive provides convenient access to Highway 240 and Highway 99W
+     and to nearby employment and commercial areas without passing through low-density residential
+     areas. Two public schools and a community center were recently constructed in close vicinity of
+     the site. The schools were built in this area in anticipation of future growth in the general
+     vicinity.                         :
+
+                 TRANSPORTATION                       ~- Goal 9: Create effective circulation and access for the local’
+                transportation system.                                                                                               i
+
+     Finding:    The Traffic Impact Study prepared for this application includes an analysis of
+     potentially affected roadways and intersections and recommends roadway improvements to
+     provide for adequate circulation and access for future development in the area. Improvements to
+     adjacent public streets will be required to conform to standards in the City’s Transportation
+     System Plan (TSP) and Development Code at time of future development.
+
+     The following transportation system improvements are recommended                                     to enhance local street
+     connectivity and improve circulation patterns within the site vicinity.
+
+                 >           Chehalem Drive Cross-Section Improvements - Chehalem Drive                                 should be
+                             improved to major collector standards as per the City of Newberg TSP.
+
+                 >           Crater Lane Improvements — Crater lane should be improved to local street
+                             standards
+
+     Additional details of the study methodology, findings, and recommendations are provided within
+     the Traffic Study Report (Attachment F).
+
+     City of Newberg:    ORDINANCE NO. 2006-2636
+     C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                               14
+           PUBLIC FACILITIES AND SERVICES - Policy I(a).               The provision of public
+           facilities and services shall be used as tools to implement the land use plan and
+           encourage an orderly and efficient development pattern.
+
+           PUBLIC    FACILITIES AND        SERVICES         ~- Sewer and Water Policy 2(c).
+           Developments with urban densities should be encouraged to locate within the area,
+
+                                                                                                                                            Se
+           which can be served by Newberg’s present sanitary sewer system.
+
+Finding: As previously noted, public utilities can be extended to connect to existing services in
+Lynn Drive and Crater Lane to efficiently serve the future development of the site.
+
+           URBANIZATION - Goal 1.                            To provide for the orderly and efficient transition from
+           rural to urban land uses.
+
+Finding: As previously noted, the land has been included within Newberg’s urban reserve area
+to provide adequate land for the City’s needs to 2020. Since these parcels were included within.
+the urban reserve area, conversion from agricultural to urban land uses is occurring in an orderly
+and efficient manner.                  In addition, the Utility Study and Traffic Impact Study prepared in
+conjunction with this application found that public services and facilities can be efficiently
+provided to the site to support an urban level of medium density residential development.
+
+           URBANIZATION - Policy 1(f). In expanding or otherwise altering the Urban Growth
+           Boundary, the Boundary shall follow road rights-of-way, lot lines, or natural features.
+
+Finding:           The proposed UGB amendment would modify the existing boundary to coincide with
+the west        line of tax lots 3218AB-1000,                        -1001,      -1400,       and   -1300   as shown on: the! map   in.:-
+Exhibit C.
+
+            URBANIZATION - Policy 1(h). The designated Urban Reserve Area identifies the
+           priority lands to include within the Newberg Urban Growth Boundary to meet
+           projected growth needs to provide a thirty (30) to fifty (50) year land supply.
+           Designated Urban Reserve Area lands will be included within the Urban Growth
+           Boundary on a phased basis at periodic review. Property owners will also have the
+           opportunity to request that land within the designated Urban Reserve Area be included
+           within the Newberg Urban Growth Boundary, based on the criteria outlined in LCDC
+           Goal 14 and the Urban Growth Management [Agreement].
+
+Finding: The Urban Reserve Areas were evaluated and prioritized for inclusion in the UGB
+approximately ten years ago. The City of Newberg is currently in the process of evaluating
+which land will be included in the UGB to meet projected growth needs. In the meantime, the
+applicant has requested that land within the Urban Reserve Area be included in the UGB. This
+application demonstrates compliance with criteria specified in Statewide Goal 14, Urbanization.
+Responses to the Goal 14 criteria are found elsewhere in this report.
+
+           B.          Public facilities and services are or can be reasonably made available to support
+                       the uses allowed by the proposed change.
+
+City of Newberg:    ORDINANCE NO. 2006-2636
+CADocuments and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                                         15
+Finding: The proposed Urban Growth Boundary Amendment itself does not require provision
+of public facilities. As previously noted, future development can readily be served the extension
+of utilities currently located in Foothills and Crater Lane. As indicated below, public utilities
+appear to have adequate capacities to accommodate the future demands of the area.
+
+            Water:       Based on a maximum density of approximately 76 dwelling units, the area could
+            be served by six-inch water lines. A new reservoir on Corral Creek Rd. and one new well
+            has been completed in the last two years. A second new well is under construction and
+            will become on line in summer 2006. These facilities have the potential to increase the
+            City’s overall water storage ability by 50% per day. The water treatment plant will be
+            expanded to accommodate the well field expansion by 2006.
+
+            Sanitary sewer: The subject site can feasibly be served via gravity flow from the sewer
+            main line located in Lynn Drive.
+
+            Storm water management: There is currently no storm water provision on the site. On-
+            site detention may be required to limit the impact of storm water on adjacent properties.
+
+            An elementary school and a middle school are located approximately one half mile from
+            the project area, and a high school is located approximately 1.5 miles away.
+
+UI.         ORS Standards:
+
+°           ORS 197.296(2).               This ORS requires a City to provide sufficient buildable land within a
+            City’s boundary, and to analyze and determine residential housing patterns. Review of
+            an urban growth boundary, comprehensive plan or other functional plan to accommodate
+            estimated housing needs for 20 years may be done through the periodic review or any
+            other legislative review.                                                         ‘
+
+Finding: The City is currently in the process of evaluating housing needs for the next 20 years.
+This proposal is not initiated by that review process, but includes land that is under review for
+inclusion into the UGB. The proposal being considered is being heard as a site-specific quasi-
+judicial review. The findings are based on the residential needs analysis that was conducted as
+part of the City’s period review process. In addition, the Newberg Comprehensive Plan provides
+that “property owners will also have the opportunity to request that land within the designated
+Urban Reserve Area be included within the Newberg Urban Growth Boundary, based on the
+criteria outlined in LCDC Goal 14 and the Urban Growth Management Agreement.”
+
+The Newberg Urban Area Growth Management Agreement provides the following mechanism
+for a site specific urban growth boundary amendment: “Amendment of the Urban Growth
+Boundary may be initiated by the Yamhill County Board of Commissioners, the Newberg City
+Council, or by an individual owner(s) of property who request(s) inclusion in or exclusion from
+the urban Growth Boundary”.
+
+An updated residential needs analysis was completed in 2004. As previously shown in Tables A,
+B, C and D of these findings, there is currently a need for additional medium density zoned land
+
+—                            See
+City of Newberg:    ORDINANCE NO. 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                   16
+' to meet projected increases in population by 2025. For the planning period ending in 2025, there
+ is a significant shortfall in every residential land category. The proposed amendment will help
+ the City meet the requirements of ORS 197.296(2) by providing a suitable inventory of buildable
+ residential land to the year 2025.
+
+             ORS       197.298.          ORS       197.298 establishes priorities for land to be included within an
+             urban growth boundary. ORS 197:298 (1)(a) states: “In addition to any requirements
+
+                                                                                                                                           —
+             established by rule addressing urbanization, land may not be included within an urban
+             growth boundary except under the following priorities: (a) First priority is land that is
+             designated urban reserve land under ORS 195.145, rule or metropolitan service district
+             action plan.”                                                              :                            é
+
+ Finding: As noted in Exhibit A - Findings, page 1, the property under review is located with an
+ urban reserve area adopted by the City and Yamhill County in 1995.
+
+             OAR 660-Division 4. OAR 660-Division 4 exceptions standards interpret the Goal 2
+             Exception Process as it applies to statewide Goals 3 to 19. OAR 660-004-0010(1)(c)(B)
+             states: “When a local government changes an established urban growth boundary, it shall
+             follow the procedures and requirements set forth in Goal 2 “Land Use Planning,” Part II,
+             Exceptions. An established urban growth boundary is one which has been acknowledged
+             by the Commission under ORS 197.251. Revised findings and reasons in support of an
+             amendment to an established urban growth boundary shall demonstrate compliance with
+             the seven factors of Goal                   14 and demonstrate that the following standards are met:. (i)
+             Reasons justify why the state policy embodied in the applicable goals should not apply
+             (This factor can be satisfied by compliance with the seven factors of Goal 14.); (ii) Areas.
+             which do not require a new exception cannot reasonably accommodate the use; (iii) The
+             long-term environmental, economic, social and energy consequences resulting from the
+             use at the proposed                 site with measures                designed to reduce adverse impacts are not
+             significantly more              adverse than would                 typically result from the same           proposal being
+             located in areas requiring a goal exception other than the proposed site; and (iv) The
+             proposed uses are compatible with other adjacent uses or will be so rendered through
+             measures designed to reduce adverse impacts.”         ;
+
+  Finding:          The seven factors of Goal 14 have been addressed in Exhibit A - Findings, pages 1-11.
+  The property was designated as “Exception Lands” in 1980 by Yamhill County.
+
+  IV.         Goal 14 Factors:
+              a)     Demonstrated                  need       to    accommodate              long-range   urban    population    growth
+                         requirements consistent with LCDC goals.
+              (b)        Need for housing, employment opportunities, and livability;
+              (c)        Orderly and economic provision for public facilities and services;
+              (d)        Maximum efficiency of land uses within and on the fringe of the existing urban
+                         area.
+              (e)        Environmental, energy, economic and social consequences;
+              (f)        Retention of agricultural land as defined, with Class I being the highest priority
+                         for retention and Class VI the lowest priority; and
+
+  LLL                                                                                                             —————————————
+  City of Newberg: ORDINANCE NO. 2006-2636
+  C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                                        17
+            (g)         Compatibility of the proposed urban uses with nearby agricultural activities.
+
+Finding:          See Exhibit A - Findings, pages 1-11.
+
+V.          Conclusion: As shown in Tables A, B, C and D of this report, there will be a significant
+            shortage of land available for residential development within the City by 2025, if not
+            sooner.      The proposed change will help to address the projected shortage by changing the
+           Plan designation on the property to allow for medium density urban level development as
+           opposed to the very low rural residential development that is currently allowable on the
+           site under County zoning.
+
+           The Newberg/Yamhill County Urban Reserve Project examined this area in detail and
+            determined that the site would be suitable for meeting the public need for additional land
+            within the City’s UGB. Inclusion of this property within the UGB would help to assure a
+            livable, economically healthy and complete community and provide for a long-term
+           jobs/housing balance.
+
+           The site can be relatively economically and efficiently served by extensions of public
+           utilities that have capacity to serve the proposed development.
+
+     Based on all of the above mentioned findings, the application meets the criteria for an
+                              Urban Growth Boundary amendment.                           ‘
+
+City of Newberg:    ORDINANCE NO, 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636,doc            18
+                                                                                     EXHIBIT “B” - LEGAL DESCRIPTION
+
+TAX LOT            3218AB-1000
+Parcel 1 of Partition Plat 1994-28, recorded June 13, 1994 in Film 3 Page 487, Plat Records,
+Yamhill County, Oregon.
+
+TAX LOT            3218AB-1001
+Parcel 2 of Partition Plat 1994-28, recorded June 13, 1994 in Film 3 Page 487, Plat Records of
+Yamhill County, Oregon.
+
+TAX LOT            3218AB-1100
+Parcel 1 of Partition Plat No. 94-23, Recorded May 27, 1994 in Film 3 Page 480 Record of Plats
+for Yamhill County, Oregon.
+
+TAX LOT            3218AB-1101
+Parcel 2 of Partition Plat 94-23, recorded May 27, 1994 in Film 3 Page 480, Record of Plats for
+Yamhill County, Oregon.
+
+ TAX LOT _3218AB-1200
+ PARCEL I:
+A tract of land in the William Jones Donation Land Claim in the Northwest Quarter of Section
+ 18, Township 3 South, Range 2 West, of the Willamette Meridian, more particularly described as
+follows: BEGINNING at the Southeast comer of that certain tract of land which was conveyed
+by George L. Kelty and wife to Richard Brain Hurlstone on May 11, 1910, and recorded in Book
+58, Page 418, of Deed Records; thence North 1 deg. 30 sec. West 4.30 chains; thence West 5.25
+chains; thence South 1 deg. West 4.25 chains to the South line of said Richard Brain Hurlstone:
+tract; thence South 89 deg. 14 min. East 4.58 chains to the place of beginning. : EXCEPTING
+THEREFROM the following described property: Beginning at the Southeast corner of a certain.
+tract of land conveyed to Richard Hurlstone recorded in Book 58, Page 418, Yamhill County:
+Deed Records, thence North 00 deg. 38 min. West along:the centerlirie of County Road No. 66a
+distance of 141.24 feet; thence South 89 deg. 53 min. 36 sec. West, 340.79 feet to an iron rod on
+the East line of a certain tract of land conveyed to William Hurlstone recorded in Book 69, Page
+489, of Yamhill County Deed Records; thence South 00 deg. 17 min. 23 sec. West 141.24 feet to
+an iron rod in the South line of said Richard Hurlstone Deed; thence South 89 deg. 56 min. 37
+sec. East along the South line of said Richard Hurlstone Deed 308.88 feet to an iron rod; thence
+North 88 deg. 25 min. East, 34.20 feet to the point of beginning.
+
+City of Newberg:   ORDINANCE NO. 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                           19
+TAX LOT 3218AB-1300
+PARCEL I:
+A tract of land in the William Jones Donation Land Claim in the Northwest one-quarter of
+Section 18, Township 3 South, Range 2 West of the Willamette Meridian in Yamhill County,
+Oregon, more particularly described as follows: Beginning at the Southeast corner of a certain
+tract of land conveyed to Richard Hurlstone recorded in Book 58, Page 418, Yamhill County
+Deed Records; thence North 00°38' West along the center line of County Road No. 66, a distance
+of 141.24 feet; thence South 89°53'36" West 340.79 feet to an iron rod on the East line of a
+certain tract of land conveyed to William Hurlstone, recorded in Book 69, Page 489, Yamhill
+County Deed Records; thence South 00°17'23" West 141.24 feet to an iron rod in the South line
+of said Richard Hurlstone deed; thence South 89°56'37" East along the South line of said Richard
+Hurlstone deed, 308.88 feet to an iron rod; thence North 88°25' East 34.20 feet to the point of
+beginning.
+
+TAX LOT             3218AB-1400
+Parcel 2 of Partition Plat 93-40, recorded August 4, 1993 in Film 3 Page 378, Record of Plats for
+Yamhill County, Oregon.
+
+City of Newberg:   ORDINANCE NO, 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc   20
+       __ REQUFOR
+               ES COUNTCIL ACTION -
+                               DATE ACTION REQUESTED: 2006, January 17
+
+     Ordinance _XX                       Resolution__                          Motion ___                Information
+     No. 2006-2636                        No.
+                 Date Submitted: December 30, 2005                                     Contact Person (Preparer) for this
+                                                                                       Ordinance: Harper Kalin
+     SUBJECT:   Urban Growth Boundary                                                  Dept.: Planning    and Building    Department
+     Amendment for 7.6 acres and plan change to                                            ®                             Bee
+     MDR (Medium Density Residential).                                                 File No.: UGB 05-013
+
+HEARING TYPE:                      _X__ Quasi-Judicial                      __ Legislative
+
+RECOMMENDATION:
+
+       Adopt Ordinance No. 2006-2636 for the City of Newberg Urban Growth Boundary together
+       with a Comprehensive Plan Change from a Yamhill County VLDR to a City of Newberg
+       MDR Comprehensive Plan Designation. The site is located between Crater Lane and
+       Chehalem Drive, at Lynn Drive (Yamhill County Tax Lots 3218AB-1000,                                                -1001, “AIDH: +
+       1101, -1200 -1300, and -1400).
+
+BACKGROUND:
+
+1,          On September 26, 2005, Coyote Homes, Inc., on behalf of the property owners in the
+            area, initiated a request for an urban growth boundary amendment, and comprehensive
+           plan change to the City of Newberg designation to MDR                                     (Medium Density Residential)
+            for approximately 8.82 acres. Coyote Homes, Inc. subsequently revised the request to 7.6
+            acres.
+
+2.          The site is located between Crater Lane and Chehalem Drive at Lynn Drive, and south of
+            Josie’s Meadow Subdivision. The site carries a Yamhill County Comprehensive Plan
+            designation of VLDR-1 (Very Low Density Residential). The property was designated as
+            “Exception Lands” in 1980 by Yamhill County. Five of the lots contain residential
+            dwellings. The balance of the area is vacant and a Christmas tree farm. The existing
+            structures are served by individual septic. systems.
+
+3.          The property was designated for future urban growth by the City and County with the
+            adoption of the Urban Reserve Areas (URA’s) in 1995. In 2005, the Ad Hoc Committee
+            for Newberg’s Future recommended to the Newberg City Council that these parcels, as
+            part of the Northwest URA, be added to the UGB in order to meet residential land use
+
+City of Newberg: ORDINANCE NO. 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc                                           21
+           needs from 2005-2025.      The Committee recommended that 45 acres of this area be
+           designated LDR, and 40 acres be designated MDR.
+4.         From 1990-2005, the City has grown by an average of 3.1 % per year. The adopted
+           comprehensive plan projects that population will continue to grow by an average of 3.0%
+           per year until 2025. After that time, population growth is projected to grow at 2.3% per
+           year until the year 2040.                                                            :
+
+Ds         The property can receive sewer service through a gravity main line to Lynn Drive.
+
+6.         The applicant has requested a MDR (Medium Density Residential) Comprehensive Plan
+           Designation. This would be consistent with the recommendations of the Ad Hoc
+           Committee on Newberg’s Future, as they have recommended that roughly half of the
+           Chehalem Drive URA be designated MDR. Recent trends for this designation show the
+           actual build out density to be far below the planned density. In addition, the committee
+           found a large projected need for housing near the upper end of the MDR density. Thus,
+           another recommendation of the Ad Hoc Committee was to consider steps to encourage
+           development in the MDR district to be developed closer to 9 units per acre. The City
+           Council has initiated a process to consider ways to achieve this goal. Provisions that may
+           be considered include lower minimum lot sizes, a requirement for duplex or multi-family
+           only in the MDR designation, excluding detached single-family homes, minimum density
+           requirements or incentives, or so forth. Thus, it is possible that the applicant’s concept
+           development plan (single family residential at approximately 5 units per acre):may not
+           ultimately be the plan that is approved for this site.                            i
+
+7.         On December 17, 2005 a hearing was held by the Newberg Urban Area Management
+           Commission and the Newberg Urban Area Management Commission, by a majority vote;
+           recommended to the City Council and Yamhill County Board of Commissioners approval:
+           of the requested amendment.       Further, the Newberg Urban Area Management
+           Commission recommended that at the time of annexation, the City of Newberg provide
+           Yamhill County with written acceptance of jurisdiction over the Chehalem Drive right-
+           of-way.
+
+FISCAL          IMPACT:              There is no fiscal impact as a result of amending the urban growth
+boundary.   At time of future annexation, application fees, system development charges, and
+additional property taxes will be collected. The fiscal impacts on public utilities and services
+will be identified in more detail at that time.
+
+STRATEGIC ASSESSMENT: As noted in NUAMC Reso. 2005-012, for the planning period
+ending in 2025, there is a significant shortfall in every residential land category. The proposed
+UGB amendment will help the City meet its obligations to provide a suitable inventory of
+buildable residential lands and to provide for opportunities for a diversity in the type, density and
+location of housing units to ensure an adequate supply of affordable housing.
+
+                                       ee
+City of Newberg:   ORDINANCE NO, 2006-2636
+CADocuments and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc           22
+SUBMITTED BY:                                                                                  APPROVED BY:
+
+Barton Brierley, AICP                                                                James Bennett, City Manager
+Planning and Building Director
+
+ATTACHMENTS:
+   1. Ordinance 2006-2636 w/findings, legal description and map - attached
+  2. NUAMC Resolution 2005-012 as adopted with
+                 Exhibit A: Findings (by reference)
+                 Exhibit B: Legal Description (by reference)
+                   Boop
+
+                 Exhibit C: Taxlot Map (by reference)
+                 Exhibit D: Site Map
+             e. Exhibit E: Aerial Photo
+        NUAMC Minutes of December 14, 2005 w/public comment registration sheets
+     Fue
+
+        Yamhill County NUAMC Staff Report
+        UGB-05-013 application - attached
+        Traffic Impact Study - attached
+    Beers
+
+        Notice affidavit — attached
+        Comments/Correspondence Received— none as of 12/30/05
+        Newberg Comprehensive Plan- by reference
+     0. Newberg Development Code - by reference
+
+                                                                                                                   B-0 06-205"
+City of Newberg:      ORDINANCE NO. 2006-2636
+C:\Documents and Settings\kalin\Local Settings\Temporary Internet Files\OLK70\02006-2636.doc
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 91.8% of
+the word sequence, and on 70.6% of the figures. Dictionary-recognizable words: 92.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

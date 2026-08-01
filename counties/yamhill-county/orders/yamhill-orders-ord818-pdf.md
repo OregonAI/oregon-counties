@@ -1,0 +1,312 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord818-pdf
+title: 'ORD818-PDF'
+doc_type: ordinance
+citation: 'ORD818-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17395/ORD818-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 6d7f022d1118c72bcae65425d9fba0b3431fdecb6c45d564af8c208a3e853a99
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.986; figure agreement 0.888; dictionary ratio 0.941. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.780
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD818-PDF (ORD818-PDF)
+
+## At a glance
+
+OCR-derived text of ORD818-PDF. Not human-verified.
+
+## Full text
+
+Vol 100
+                                             41990
+                                                                               ‘G?    OCT 18      P3038
+
+         BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                               FOR THE COUNTY           OF YAMHILL
+
+                  SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Approval of a zone change from EF-80, Exclusive Farm)
+use to AF-40 Agriculture Forestry Use, Docket Docket Z-04-07,                  )     Ordinance 818
+Tax Lot 5435-601, Applicant Denny Elmer, and Declaring an Emergency            )
+
+           THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the “Board”’)
+sat for the transaction of county business on October 17,2007, Commissioners Kathy George, Mary
+P. Stern and Leslie Lewis being present.
+
+         IT APPEARING TO THE BOARD that Denny Elmer requested approval ofa zone change
+from EF-40 Exclusive Farm Use to AF-40 Agriculture Forestry Use, and
+
+          IT APPEARING TO THE BOARD that the matter was heard at a duly noticed public
+hearing September 6, 2007 before the Planning Commission, which unanimously approved the
+application, and no appeal was filed. NOW, THEREFORE,
+
+            IT IS HEREBY      ORDAINED       BY THE BOARD,        that the application is approved as
+detailed in the Findings for Approval, attached as Exhibit “A” and by this reference incorporated
+herein. This ordinance, being necessary for the health, safety, and welfare of the citizens of Yamhill
+County, and an emergency having been declared to exist, is effective upon passage.
+
+          DONE this 17 day of October, 2007, at McMinnville, Oregon.
+
+ATTEST:                                YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+JAN COLEMAN
+County Clerk
+
+    pw    ~~                   vr     ” Cofamissioner        “LESLIE LEWIS
+
+Rick Sanai, Assistant County Counsel
+
+FALU\ElmerDennyZ-04-07Finds.wpd
+
+                                                                                   B.0.07- 446
+                                                                               Ord. 818   Elmer
+                                                       Vol 100
+                                                        4991
+
+Exhibit A Findings
+Docket Z-04-07 (Denny Elmer)
+Page 2
+
+DOCKET NO.;             Z-04-07
+
+REQUEST:                Zone change from EF-40 Exclusive Farm Use to AF-40 Agriculture
+                        Forestry Use.
+
+APPLICANT:              Denny Elmer
+
+TAX LOT:                5435-601
+
+LOCATION:               Approximately 1,300 feet southeast of the intersection of Mayette Drive and
+                        Walnut Drive, Amity
+
+CRITERIA:               Sections 402, 403 and 1208.03 of the Yamhill County Zoning Ordinance;
+                        the Yamhill County Comprehensive Plan.
+
+FINDINGS:
+
+A, Background Facts
+
+1,      Lot Size: 5 acres
+
+2.      Access: Mayette Drive.
+
+        On-Site Land Use: Currently, undeveloped with most of the parcel forested.
+
+        Surrounding Zoning and Land Use:      Property to the north, east and west is zoned EF-40
+        with the majority of these properties in farm use including hay and orchards. The property
+        to the south is zoned AF-40 and these properties are primarily forested.
+
+        Water: Proposed on-site well.
+
+        Sewage Disposal:    An on-site septic system would be required.
+
+        Soils: The Yamhill County Soil Survey indicates the entire parcel is composed of Nekia
+        (NeD), Yamhill (YaE) and Jory (TRE) soils, which are rated as Class III and IV, high-value
+        soils.
+
+8.      Fire Protection: Amity Rural Fire District.
+
+9,      Taxes: Market value.
+
+B.   Ordinance Provisions and Analysis
+
+1,      This approval of the requested zone change is based on the request complying with the
+                                                                             Ord. 818   — Elmer
+                                                                                        B.0.0F 446
+                                                         Vol 100
+                                                         4992
+
+Exhibit A Findings
+Docket Z-04-07 (Denny Elmer)
+Page 3
+
+      review criteria found in Section 1208.03 of the Yamhill County Zoning Ordinance, as
+       follows:
+
+      Review Criteria for Amendments To or Within Exclusive Farm Use and
+      Agriculture/Forestry Zones.
+
+      A quasi-judicial zone change to (1) amend the designation of land from Exclusive Farm
+      Use, Agriculture/Forestry, or Forest to another of these zones, or (2) change the minimum
+      lot size of land designated Exclusive Farm Use or Agriculture/Forestry, may be
+      authorized, pursuant to Subsection 1208.01, provided that the request satisfies all
+      applicable requirements of this ordinance, and also provided that the applicant
+      demonstrates compliance with the following criteria:
+
+      A,          The proposed amendment shall comply with the goals, policies, and other
+                  applicable provisions of the comprehensive plan.
+
+                  The proposed designation shall be appropriate for the existing or intended use of
+                  the property.
+
+                  The proposed amendment shall result in an area of at least 160 contiguous acres
+                  with the requested designation, including adjacent land.
+
+                  For proposed changes within or to an Exclusive Farm Use designation, the new
+                  minimum lot size shall be appropriate to maintain the existing commercial
+                  agricultural enterprise in the area.
+
+                  For proposed changes within or to an Agriculture/Forestry designation, the new
+                  minimum lot size shail be shown to assure:
+
+                  L.      The opportunity for economically efficient forest and agriculture practices
+                          typically occurring in the area; and
+
+                  2.      The opportunity for the continuous growing and harvesting of forest tree
+                          species; and
+
+                  3.      The conservation of other forest values found on forest lands.
+
+                  Any amendment that would change the zone map designation to reduce the
+                  minimum lot size on property within an Exclusive Farm Use or
+                  Agriculture/Forestry district shall not be granted final approval by Yamhill county
+                  until the amendment has been considered and approved by the Land Conservation
+                  and Development Commission pursuant to ORS 215.780(2).         The following rules
+
+                                                                               Ord. 818    Elmer
+                                               Vol 100
+                                               1993
+Exhibit A Findings
+Docket Z-04-07 (Denny Elmer)
+Page 4
+
+              shall apply:
+
+               1.     Conditional approval. Following receipt of an application for a zone
+                      change as otherwise provided by this ordinance, the county shall determine
+                      whether to grant or deny the application in accordance with criteria
+                      established in this section 1208.03. If the application is granted, the county
+                      shall enter an order of conditional approval, subject to final approval by
+                      the Land Conservation and Development Commission.
+
+              2.      Referral of Order of Conditional Approval. After conditional approval by
+                      Yamhill County, the application, county findings, order of conditional
+                      approval and a request for Commission action shall be referred to the
+                      Depariment of Land Conservation and Development.
+
+              3.      Final Approval.   An amendment conditionally approved by Yamhill County
+                      shall not take effect until the county adopts an order or ordinance
+                      authorizing final approval after receipt of written confirmation of the
+                      county's conditional approval by the Land Conservation and Development
+                      Commission.                                  [Amended by Ord. 618 12/30/96]
+
+       The above criteria are addressed in Findings B.2 through B.5 below.
+
+       Regarding criterion (A), applicable goals from the Yamhill County Comprehensive Land
+       Use Plan, Section 1.4.1, Goal reads:
+
+               To conserve Yamhill County’s farm lands for the production of crops and livestock
+              and to ensure that the conservation of farm land to urban use where necessary and
+              appropriate occurs in an orderly and economical manner.
+
+       The majority of the subject parcel is in forest use. The proposed zone, AF-40, would more
+       accurately reflect the existing use on the subject parcel. The applicant is not proposing an
+       urban use and the minimum lot size requirement is to remain 40 acres.
+
+       Section ILA.2, Goal reads:
+
+               To conserve Yamhill County’s soil resources in a manner reflecting their suitability
+              for forestry, agriculture and urban development and their sustained use for the
+              purposes designated on the county plan map.
+
+       According to the Yamhill County Soil Survey, the parcel is composed of Class III and IV
+       soils which are capable of producing 120 to 130 cubic feet of wood fiber per acre per year.
+       The requested zone change will preserve the County’s soil resources for their suitability for
+       forest and farm use.
+                                                                             Ord. 818   Elmer
+                                                         Vol 100
+                                                         1994
+Exhibit A Findings
+Docket Z-04-07 (Denny Elmer)
+Page 5
+
+       Section IL.B.1, Goal reads:
+
+                To conserve and to manage efficiently the county's forest and range resources,
+                thereby ensuring a sustained yield of forest products, adequate grazing areas for
+                domestic livestock, habitat for fish and wildlife, protection of forest soils and
+                watershed, and preservation of recreational opportunities.
+
+       The proposed zone change would conserve the county’s forest resources that currently exist
+       on the property.
+
+3.     Regarding criterion (B), as mentioned above, the subject parcel is currently in forest use;
+       the zone change from an exclusive farm zone to an agriculture/forestry zone would more
+       accurately reflect the current use of the property.
+
+4,     Regarding criterion (C), the subject parcel is contiguous with several hundred acres of
+       property zoned AF-40, therefore, the request is consistent with criterion (C).
+
+5.     Regarding criteria (D), (E) and (P), these criteria are not applicable since the request does
+       not include reducing the minimum lot size on the property.     The applicant wishes to keep
+       the minimum lot size at 40 acres.
+
+CONCLUSION:
+
+1.     The request is for a zone change from EF-40 Exclusive Farm Use to AF-40 Agriculture
+       Forestry Use. Total area proposed to be rezoned is 5 acres.
+
+2.     The zone change is appropriate to reflect the mixed uses on the property.
+
+3,     The request complies with the criteria listed in Section 1208.03 of the Yamhill County
+       Zoning Ordinance.
+
+4,     The proposed designation is appropriate for the existing and intended use of the property.
+
+5.     The proposed change will continue to allow the opportunity for growing and harvesting
+       trees,
+
+DECISION:
+
+Based on the above findings and conclusions, the request by Denny Elmer, for a zone change from
+EF-40 Exclusive Farm Use to AF-40 Agriculture Forestry Use on Tax Lot 5435-601, is hereby
+approved.
+
+                                                                              Ord. 818   Elmer
+
+                                                                                     G.0.04-44,
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.6% of
+the word sequence, and on 88.8% of the figures. Dictionary-recognizable words: 94.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

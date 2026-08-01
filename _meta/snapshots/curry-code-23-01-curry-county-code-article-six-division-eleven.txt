@@ -1,0 +1,606 @@
+FILEDIN CURRY COUNTY                CJ:2023-17
+                                                              Renee’ Kolen, County Clerk   01/12/2023 2:47:26 PM
+                                                              Commissioners’ Journal                    14 PAGE
+
+                          IN THE BOARD OF COUNTY COMMISSIONERS
+
+                         IN AND FOR THE COUNTY OF CURRY, OREGON
+
+In   the     Matter          of    an    Ordinance   )
+Amending the Curry County Code,                      )   ORDINANCENO. QD-O\
+Article    Six,     Division      Six   (Emergency   )
+Management)                                          )
+
+The Curry County Board of Commissioners hereby ordains as follows:
+
+SECTION           1: TITLE
+
+This Ordinance shall be known as Ordinance   OD-O\|       , an ordinance amending the Curry
+County Code with respect to the Emergency Management Code, Article Six, Division Six,
+
+SECTION 2: PURPOSE
+It is the policy of the State of Oregon that preparations for emergencies and governmental
+responsibility for responding to emergencies be placed at the local government level. Pursuant to
+State statute, the executive officer or governing body of each county or city is responsible for the
+emergency services system or emergency management agency within the respective jurisdiction.
+It is the purpose of this ordinance to comply with these State requirements and to set out the
+procedures for emergency response so that the County is better able to protect the health and
+welfare of its citizens. The Curry County Emergency Management Director is appointed as the
+Emergency Program Manager to administer the Emergency Department and Program.
+
+The authority to declare a state of emergency rests with the County Board of Commissioners. In
+order of descending authority, the following persons shall have the authority to declare a local state
+of emergency or its termination. No such person shall declare or terminate a local state of
+emergency unless, despite reasonable efforts to contact each and every person of a higher authority
+to make such a declaration, such efforts were unsuccessful and if the situation presents such a
+grave risk of loss of life or serious physical injury as to necessitate declaration of a local state of
+emergency immediately. However, all reasonable and practical attempts to contact persons of
+higher authority shall be made as soon as the situation allows.
+                Chair of the Curry County Board of Commissioners
+           gp
+
+                Vice-chair of the Curry County Board of Commissioners
+                Commissioner of the Curry County Board of Commissioners
+                Sheriff of Curry County
+           ene
+
+                Emergency Management Director of Curry County
+
+The Board or their authorized representative may, on behalf of the County, enter into such
+reciprocal aid, mutual aid, joint powers agreements, intergovernmental assistance agreements or
+other compacts or plans with other governmental entities for the protection of life and property.
+Such agreements may include the furnishing or exchange of supplies, equipment, facilities,
+personnel and/or services. Such powers and functions may be exercised in light of the exigencies
+of the emergency or disaster and may waive compliance with time consuming procedures and
+formalities prescribed by law pertaining thereto.
+
+SECTION 3: REPEALER
+                  and ADOPTION
+
+The Current Article Six, Division Six (Curry County Emergency Management) is hereby repealed
+and replaced in its entirety by the Code Provisions attached hereto and incorporated by reference.
+
+SECTION 4: SEVERANCE CLAUSE
+
+If any section, subsection, provision, clause or paragraph of this Ordinance shall be adjudged or
+declared by any court of competent jurisdiction to be unconstitutional or invalid, such judgement
+shall not affect the validity of the remaining portions of the Ordinance; and it is hereby expressly
+declared that every other section, subsection, provision clause or paragraph of this Ordinance
+enacted, irrespective of the enactment or validity of the portion thereof declared to be
+unconstitutional or invalid, is valid.
+
+SECTION 5: EMERGENCY               CLAUSE
+
+The Board of Commissioners for the County of Curry deems this Ordinance necessary for the
+immediate preservation and protection of the public, peace, health, safety and general welfare for
+Curry County and declares an emergency exists; this Ordinance shall be in full force and effect on
+its passage.
+
+        DATED this 4" day of January, 2023.
+
+                                          BOARD     OF CURRY      COUNTY      COMMISSIONERS
+
+ Michael : FitzGerald, OSB #950738
+
+                                                                    (L
+ Curry County Counsel
+
+ EFFECTIVE DATE:      JANUARY 4, 2023
+                                                 ourt Boice, Commissioner     / 7    32.2
+                                            ARTICLE SIX
+
+DIVISON SIX                              EMERGENCY         MANAGEMENT                DEPARTMENT
+
+SECTION 6.06.010                 STATEMENT OF PURPOSE AND AUTHORITY
+
+It is the policy of the State of Oregon that preparations for emergencies and governmental
+responsibility for responding to emergencics be placed at the local government level. Pursuant to
+State statute, the executive officer or governing body of each county or city is responsible for the
+emergency services system or emergency management agency within the respective jurisdiction.
+It is the purpose of this ordinance to comply with these State requirements and to set out the
+procedures for emergency response so that the County is better able to protect the health and
+welfare of its citizens.
+
+SECTION 6.06.020                DEFINITIONS
+
+   a)   "Agency" as used in this document,        refers to Oregon        State Department     of Emergency
+        Management.
+
+   b)   "Authorized representative", in the case of a city or town; the mayor, city manager, town
+        manager, town administrator, executive secretary, police chief or on-duty shift commander
+        of the police department, fire chicf or on-duty shift commander of the fire department,
+        health director or chairperson of the board of health and the emergency management
+        director; and, in the case of a governmental unit that is not a city or town, the chief
+        executive officer or his designee.
+
+        “Board” as used in this document, refers to the Curry County Board of Commissioners.
+
+        “Department” as used in this document,             refers   to the     Curry     County    Emergency
+        Management Department.
+
+        “Disaster” as used in this document, refers to an occurrence of natural catastrophe,
+        technological accident, or human-caused event that has resulted in severe property damage,
+        deaths, and/or multiple injuries.
+
+        “Disaster Response” as used in this document, refers to a response by organizational units
+        of local government exceeding mutual aid directed toward any emergency in an attempt to
+        mitigate the effects of the emergency upon the public welfare.          The effects of the
+        emergency, either actual or potential, must be of such magnitude   that available resources
+        must be directed to the response effort.
+
+   g) “Emergency Management” as used in this document, refers to the managerial function
+        charged with creating the framework within which communities reduce vulnerability to
+        hazards and cope with disasters; federal, state, territorial, tribal, substate regional, and local
+        governments,     nongovernmental      organizations,    private     sector     organizations,   critical
+     infrastructure owners and operators, and all other organizations and individuals who
+     assume an emergency management role.
+
+h)   “Emergency” as used in this document, refers to any manmade or natural event or
+     circumstances causing or threatening loss of life, injury to person or property, human
+     suffering, or financial loss and includes, but is not limited to, fire, explosion, flood, severe
+     weather, drought, earthquake, volcanic activity, spills or releascs of oil or hazardous
+     material as defined in ORS 466.605, contamination, utility or transportation emergencies,
+     disease, blight, infestation, civil disturbance, riot, sabotage, and war.
+
+     “Emergency Response” as used in this document, refers to prompt action directed at
+     safeguarding the public’s welfare through procedures designed to minimize danger to life,
+     health, property loss, or related impacts. The level of response is a function of the severity
+     of the emergency, the impact or potential impact upon persons or property, and the ability
+     of government to respond given limitations of budget, personnel, and equipment.
+
+Dd   “Emergency Services” as used in this document, refers first responders: fire, police, and
+     emergency medical technicians.
+
+k)   "Employee", as used in this document, refers to a person employed full-time or part-time
+     by a governmental unit, a volunteer officially operating under a governmental unit, or a
+     person contractually providing services to a governmental unit.
+
+1)   "Governmental unit", as used in this document, refers to a city, town, county, regional
+     transit authority, water or sewer commission, district, or a law enforcement council.
+
+     "Incident command system, or ‘ICS’", as used in this document, refers to the standardized
+     national incident management system that establishes an on-scene management system of
+     procedures for controlling personnel, facilities, equipment and communications from
+     different agencies at the scene of an emergency or other event for which mutual aid
+     assistance is provided.
+
+     "Law enforcement council", as used in this document, refers to a nonprofit corporation
+     comprised of municipal police chiefs and other law enforcement agencies established to
+     provide: (i) mutual aid to its members pursuant to mutual aid agreements; (ii) mutual aid
+     or requisitions for aid to non-members consistent with section 8G of this chapter or section
+     99 of chapter 41; and (iii) enhanced public safety by otherwise sharing resources and
+     personnel.
+
+0) “Mutual Aid” as used in this document, refers to the cross-jurisdictional provisions,
+     materials, and/or facilities from one party or governmental unit to another when existing
+     resources are, or may be found to be, inadequate.
+
+p) "Public safety incident", as used in this document, refers to an event, emergency or natural
+     or man-made disaster, that threatens or causes harm to public health, safety or welfare and
+     that exceeds,   or reasonably    may    be expected    to exceed,   the response    or recovery
+         capabilities of a governmental unit including, but not limited to, a technological hazard,
+         planned event, civil unrest, health-related event and an emergency, act of terrorism and
+         training and exercise that tests and simulates the ability to manage, respond to or recover
+         from any such event.
+
+    q)   State of Emergency    as used   in this document,   refers to an operational   condition   of
+         government declared pursuant to Section 6.06.060, wherein the usual and customary
+         procedures of government may be suspended to enable immediate resource deployment to
+         safeguard life and property in accordance with the Curry County Emergency Operations
+         Plan.
+
+SECTION 6.06.030                INCIDENT COMMAND             SYSTEM
+
+The Board adopts the National Incident Management System (NIMS) and the Incident Command
+System (ICS). These are the preferred incident management tools and will be integrated into all
+county emergency response and operations plans.
+
+6.06.031         Incident Command Post
+The Emergency Services Director shall be responsible for the deployment and establishment of
+the Incident Command Post. The County Emergency Services Director or their designee shall
+perform the duty of incident commander and shall make all personnel assignments according to
+need. In accordance with the Incident Command System, the County Emergency Services Director
+will be relived as the Incident Commander upon the arrival of a more qualified responder for that
+specific incident. Whenever an emergency affects two or more political subdivisions, the concept
+of Unified Command shall be put into effect
+
+SECTION 6.06.040        COUNTY EMERGENCY MANAGEMENT                      DEPARTMENT
+
+6.06.041       Organization
+The Curry County Emergency Management Department maintains an emergency coordination
+system by planning, preparing, and providing for the mitigation, response and recovery
+coordination for emergencies and disasters in the County. The Department is responsible for
+organizing and coordinating all jurisdictions, agencies, and organizations involved in disaster
+preparedness, mitigation, response, and recovery, ensuring all local plans and procedures are
+developed and maintained to meet local, state, and federal requirements. The Director of the
+Department reports directly to the Board. The Department may consist of, but is not limited to:
+Emergency Management Director, Emergency Managers, Coordinators, Specialists, and Aquatic
+Safety.
+
+6.06.042        Responsibility and Authority of Emergency Management within Curry
+County (ORS 401.305).
+There is hereby formed in Curry County an Emergency Management Department. The County
+Emergency Program Manager has responsibility for the organization, administration, and
+operation of the Curry County Emergency Management Department, subject to the direction and
+control of the County governing body and this chapter. The Department is directly responsible to
+the executive officer or governing body of the county, and shall perform the following emergency
+management functions at a minimum: Coordination of the planning activities necessary to prepare
+and maintain a current emergency operations plan, management and maintenance of emergency
+operating facilities from which elected and appointed officials can direct emergency and disaster
+response activities; establish an incident command structure for management of a coordinated
+response by all local emergency service agencies; and coordinate with the Oregon Department of
+Emergency Management to integrate effective practices in emergency preparedness and response
+as provided in the National Incident Management System established by Homcland Security
+Presidential Directive 5 of February 28, 2003.
+
+The County Emergency Management Director, on behalf of the County, shall have the authority
+to enter into mutual aid agreements between the County and cities within the County or
+neighboring counties, pursuant to Section 6.06.070-072. These agreements may provide for the
+support of the activities of these other jurisdictions during a state of emergency but may not provide
+for the assumption of control over non-Curry County personnel, equipment, and resources.
+
+6.06.043         Emergency Management Director
+The Emergency Management Director will:
+    a) Establish and identify personnel and material needs and to process, as eligible, requests for
+         federal or state funding;
+    b) Represent the county with other agencies regarding funding and performance matters;
+    c) Represent jurisdictions within the county without cmergency management programs,
+    d) Develop and maintain emergency operations plans for jurisdictions within the county
+        without emergency management programs;
+    e) Adopt operational procedures and practices to prepare county to respond to and recover
+         from major emergencies or disasters;
+    f) Provide for the coordination of emergency plans, programs, and operations within the
+        county, cities, neighboring jurisdictions, and other public and private agencies with
+        emergency management responsibilities.
+    g) Guide each county department in development, implementation, review and maintenance
+         of emergency response plans for each       critical   facility, and   department   continuity   of
+         operations plans for Board approval;
+    h)   Provide or arrange for training necessary to support these plans,
+    i)   Develop and conduct practice exercises to give county officers and employees practice in
+         directing, coordinating and supporting operations under emergency conditions;
+   j)    Negotiate intergovernmental agreements for Board approval that further planning and
+         preparedness to meet projected emergencies or disasters,
+   k)    Provide for the procurement of personnel, equipment, materials, and supplies from higher
+         authority, and for the accounting of thereof for use in the event of a declared emergency;
+    1)   Coordinate and apply for state and federal funds to achieve and maintain an effective
+         program;
+    m)   Advise County officials and incident commanders during an emergency and in the
+         development of a declaration of an emergency;
+   n)    Serve as contact for damage reports during and immediately following emergencies;
+   0)    Maintain a plan for the collection, evaluation, and dissemination of emergency incident
+         status information, and for recommending to the Board whether potential or actual damage
+         justifies a declaration of emergency;
+    p)   Administer the County Emergency Management Program;
+    q)   Administer the County Emergency Management Agency;
+    r)   Create and train teams that will be responsible for:
+             (a) Incident management and coordination in an Emergency Operations Center (EOC)
+                 environment within the scope of the emergency operations plan approved by the
+                 Board;
+              (b) Participating in Incident Command System (ICS) training;
+              (c) Participating in county emergency operations plan (EOP) exercises and event
+                  driven EOC activations.
+   s)    Designate and train individuals to perform the EOC functions including operations,
+         planning, logistics, finance, public information, safety, liaison, and legal counsel as well as
+         other positions that may be needed in a large-scale event.
+   t)    Coordinate with the Curry County Emergency Services Director to identify and train
+         individuals to perform the ICS functions including incident commander, operations,
+         planning, logistics, finance, public information, safety, liaison, and legal counsel as well as
+         other positions that may be needed in a large-scale event.
+   u)    Recommend to the Board any ordinances, policies, or procedures which would assist the
+         Board and other county officials in the performance of their duties in preparing for,
+         responding to, and recovery from an emergency.
+
+The Department will simultaneously notify Board and the Sheriff of all Emergency              Operations
+Center activations. The Emergency Program Manager, appointed by the board, coordinates with
+and supports the Emergency Services Director in regard to emergency and disaster response, and
+administers the Emergency Management Program, including the management and implementation
+of the Emergency Operations Plan and shall be responsible for day-to-day emergency management
+operations as defined by ORS 401.025.
+
+6.06.044    Curry County Emergency Operations Plan
+The Emergency Management Department shall be responsible                    for   the   preparation   and
+implementation of an emergency operations plan, hereinafter referred to as "plan." This plan shall
+be a written document detailing mitigation, preparedness, response, and recovery processes for use
+in dealing with actual or potential emergencies or disasters and shall provide a framework within
+which emergency response agencies may function to safeguard life and property. The plan is
+intended to be used only as a guide and does not carry the force of law. All County departments
+are authorized to take immediate action outside of the plan when human life is threatened. Nothing
+within this section requires the County to provide services to a City exceeding provision of the
+[Emergency Operations Plan.
+
+SECTION 6.06.050                 EMERGENCY         OPERATIONS CENTER
+
+To facilitate emergency or disaster response, an Emergency Operations Center (EOC) may be
+established as needed. The EOC will be staffed and equipped to enable radio communications with
+field units and on-site command posts, and with the State of Oregon Emergency Coordination
+Center, the State of Oregon Department of Emergency Management (OEM), and Emergency
+Management Agency.
+6.06.051      Location of EOC
+The EOC shall be established in one of the following locations, unless the locations are deemed
+unsafe for EOC operations:
+           a. Curry County Emergency Operations Center located in the basement of the Curry
+                     County Courthouse at 29808 Colvin Street, Gold Beach, Oregon 97444 whose
+                     mailing address is 94235 Moore Street, Suite 213, Gold Beach, Oregon 97444;
+
+              b.     City of Brookings Emergency    Operations   Center located   at 888   Elk Drive,
+                     Brookings, Oregon 97415.
+
+A mobile EOC will be deployed to field locations as needed.
+
+The EOC shall be operated pursuant to the Incident Command System.                The Emergency
+Management Director   or his/her designee shall perform the duty of EOC  Director   and shall make
+all personnel assignments according to need. The      EOC   will provide support   to  the Incident
+Commander. The EOC will be staffed by personnel from County government and other entities as
+needed. The Emergency Program Manager will schedule quarterly training for EOC personnel.
+
+SECTION 6.06.060                DECLARATION OF STATE OF EMERGENCY
+A local state of emergency may be declared by the Board or their designee as provided in this
+section after a determination is made by the Sheriff, Emergency Management Director, or their
+designees that an emergency or disaster has occurred or is imminent. A declaration of local state
+of emergency may be verbal or in writing and shall state the conditions and factors that necessitate
+such action and specify the geographical area covered by the declaration. Such area, event
+description, and duration shall be no larger than necessary to effectively respond to the emergency.
+
+6.06.061             Parties Authorized to Declare State of Emergency
+The authority to declare a state of emergency rests with the County Board of Commissioners. In
+order of descending authority, the following persons shall have the authority to declare a local state
+of emergency or its termination. No such person shall declare or terminate a local state of
+emergency unless, despite reasonable efforts to contact each and every person of a higher authority
+to make such a declaration, such efforts were unsuccessful and if the situation presents such a
+grave risk of loss of life or serious physical injury as to necessitate declaration of a local state of
+emergency immediately. However, all reasonable and practical attempts to contact persons of
+higher authority shall be made as soon as the situation allows.
+                Chair of the Curry County Board of Commissioners
+                Vice-chair of the Curry County Board of Commissioners
+           eoaogep
+
+                Commissioner of the Curry County Board of Commissioners
+                Sheriff of Curry County
+                Emergency Management Director of Curry County
+
+6.06.063       Notification of State of Emergency
+Any Declaration of Emergency by the Board shall be promptly sent to the Oregon Department of
+Emergency Management in writing and include:
+    1. A certification signed by the county governing body, or an authorized representative of
+        such, that all local resources have been expended; and,
+   2.   A   preliminary     assessment   of    property   damage        or     loss,   injuries,   and     deaths.
+
+The public shall be notified through general publicity of said Declaration.
+
+6.06.064         Termination of State of Emergency
+As soon as practical after the Declaration of a State of Emergency, if not already terminated, the
+Curry County Board of Commissioners shall meet in person or by telephone and determine
+whether existing conditions require the continuation of the state of emergency.             Upon a
+determination that the emergency no longer exists,   or when the threat of an emergency has  passed,
+the local state of emergency shall be terminated in accordance with this section.
+
+6.06.065       Authority,     Control,   and     Management        of        Resources     During        State   of
+Emergency
+Whenever a state of emergency has been declared to exist within unincorporated Curry County, or
+upon the request of a municipality's governing body, the Board of County Commissioners is
+empowered to order and enforce the measures necessary to meet the emergency. Ilowever, if
+circumstances prohibit the timely action of the Board of County Commissioners, the Chair of the
+Board may order emergency measures provided that approval from a majority of the Board of
+County Commissioners is sought and obtained at the first available opportunity, or the Chair's
+order will become null and void. A partial list of emergency measures which may be ordered by
+the Board of Commissioners includes:
+
+   a)   Redirect County funds for emergency use;
+   b)   Suspend standard County procurement procedures,
+   c)   Extend governmental authority to nonpublic resources (i.e. personnel and equipment)
+        required to support regular County resources. When property is taken under such power,
+        the owner of the property is entitled to reasonable compensation.
+   d)   Enter into mutual aid agreements and agreements with other public and private agencies
+        for use of resources, including police and law enforcement;
+   e)   Establish a curfew for the emergency area;
+   f)   Evacuate persons from the emergency area;
+   g)   Limit the number of persons who may congregate in public within the emergency area,
+   h)   Restrict and regulate vehicular and pedestrian traffic to, from, and within the emergency
+        area;
+   i)   Curtail or suspend commercial activity within the emergency area,
+   j)   Direct all rescue and salvage work, and do all things deemed advisable and necessary to
+        alleviate the immediate condition;
+   k)   Designate persons to coordinate the work of public and private relief agencies operating in
+        such atea and exclude from such area any person or agency refusing to cooperate with and
+        work under such coordinator or to cooperate with other agencies engaged in emergency
+        work;
+   1)   Control, restrict, and regulate the distribution and use of food, feed, fuel, clothing, other
+        commodities, materials, goods, and services by rationing, freezing, use of quotas,
+      prohibitions on shipments, price fixing, allocation, or other means,
+   m) Direct activities in connection with the use, conservation, and salvage                       of essential
+        materials, services, and facilities. These materials, services, and facilities may                  include
+           production, transportation, power and/or communication facilities, the training and supply
+           of labor, health and medical care, housing, rehabilitation, education, child care, recreation,
+           and consumer protection; and
+    n)     Take any other action that may be necessary for the management of resources following
+           an emergency.
+
+6.06.066          Powers of the Sheriff
+Upon the declaration of a local State of Emergency, the Sheriff of Curry County, or a designee,
+shall have the following powers:
+      1. To issue a closure order closing to all persons any county road or local access road in Curry
+         County. Any closure order issued by the Sheriff, or a designee, shall be no larger than
+         reasonably necessary to effectively respond to the emergency.
+     2. To request other public agencies, private persons or private entities for permission to issue
+         a closure ordet for roads, waterways or other property under their jurisdiction or control.
+         To prohibit any person from entering or remaining in an area subject to a closure order.
+   Ww
+
+     4, Coordinate with Curry County Emergency Services, state agencies, and federal agencies
+         to maintain traffic flow and conduct mitigation measures to minimize the impact to citizens
+         using the closed area.
+     5. Authorize the Rural Fire Chief of the affected unincorporated area in Curry County to order
+         and conduct evacuation measures as determined by the Rural Fire Chief.
+    6.   The members of the Sheriffs Office and such other law cnforcement and peace officers
+         are further authorized to enforce the orders, rules and regulations made or issued pursuant
+         to this Division.
+    7.   During the period of a declared emergency or disaster, a person shall not:
+              a. Enter or remain upon the premises of any establishment not open for business to
+                  the general public, unless such person is the owner or authorized agent of the
+                  establishment.
+              b. Violate any of the orders duly issued by the Board or authorized personnel.
+              c. Willfully obstruct, hinder, or delay any duly authorized County officer, employee
+                  or volunteer in the enforcement or exercise of the provisions of this chapter, or of
+                  the undertaking of any activity pursuant to this chapter.
+
+6.06.067          Scope and Effect of Rules and Orders During a State of Emergency
+The authority to issue or promulgate rules and orders under this chapter may be exercised with
+respect to the entire area over which the Board has jurisdiction or to any specified part thereof. All
+rules and orders issued under authority conferred by this chapter shall have the full force and effect
+of law during a declared state of emergency. All previously existing ordinances, rules, and orders
+inconsistent with this chapter shall be inoperative during the period of time and to the extent such
+inconsistencies exist.
+
+6.06.068        Price Gouging Prohibited
+During a disaster declared by the Governor or an emergency declared by the Board, the value
+received for goods and services sold within the designated disaster area may not exceed the prices
+ordinarily charged for comparable goods and services in the same market area at, or immediately
+before, the time of the emergency. However, the value received may include reasonable expenses
+and a charge for any attendant business risk, in addition to the cost of the goods and services that
+necessarily are incurred in procuring the goods and services during the emergency. Each sale or
+offer for sale violating this provision constitutes a separate offense.
+
+6.06.069       Penalty and Enforcement
+Any person, firm, corporation, association or entity who violates any cmergency measure taken
+by the Board of County Commissioners under authority of this Chapter shalt be subject, upon
+conviction, to a fine of not more than $1,000.00 per offense. Each day of violation shall be deemed
+a separate offense for purposes of imposition of penalty, This Chapter shall be enforceable in the
+manner provided by Article 10 of Curry County Code (Enforcement).
+
+SECTION 6.06.070               ACQUISITION   OF   RESOURCES,   MUTUAL                            AID
+AGREEMENTS,      AUTO           AID   AGREEMENTS,   AND   MEMORANDUMS-                            OF
+UNDERSTANDING.
+
+The foregoing shall apply to all executive, legislative and judicial powers and functions conferred
+upon the County and its officers, employees and authorized agents, Mutual Aid Agreements, Auto
+Aid Agreements, and Memorandums of Understanding developed during and before an emergency
+or disaster shall be filed with the Curry County Clerk. Under the provisions of ORS Chapter 401,
+Stale resources   are available when   the appropriate response   to an emergency    is beyond    the
+capability of the county in which it occurs, the County fails to act, or the emergency involves two
+or more Counties and the Governor determines that lack of coordination is hampering the
+effectivencss of response to the emergency.
+
+ The Board or their authorized representative may, on behalf of the County, enter into such
+reciprocal aid, mutual aid, joint powers agreements, intergovernmental assistance agreements or
+other compacts or plans with other governmental entities for the protection of life and property.
+Such agreements may include the furnishing or exchange of supplies, equipment, facilities,
+personnel and/or services. Such powers and functions may be exercised in light of the exigencics
+of the emergency or disaster and may waive compliance with time consuming procedures and
+formalities prescribed by law pertaining thereto.
+
+This section shall not affect, supersede or invalidate any other statutory or contractual mutual aid
+or assistance agreements involving parties to the agreement. A party may enter into supplementary
+mutual aid agreements with other parties or jurisdictions.
+
+6.06.071         Authorization For Assistance
+Pursuant to the Oregon Resource Coordination Assistance Agreement (ORCAA) Implementation
+Guide, the County hereby authorizes the Emergency Management Department to request
+assistance or to respond to requests for assistance using ORCAA.
+
+Under this section and the provisions of ORCAA, the Board of County Commissioners ts
+authorized to extend government authority to nongovernmental resources (i.e. personnel,
+equipment) that may support regular government forces during an emergency and may enter into
+agreements with other public and private agencies for use of resources. Eminent domain applies
+as provided by ORS Chapter 35.
+6.06.072        Mutual Aid Administered and Received Pursuant to ORCAA Guidelines
+The joining of Municipalities to the County Mutual Aid Agreement, manner of requests for Mutual
+Aid Assistance, responsibilities of the parties, and form of requests shall be conducted as provided
+by ORCAA, as currently exists or as may be amended. If provisions of this Division conflict with
+the provisions of ORCAA, they shall be superseded.
+
+6.06.073        Joining of Municipalities to County Mutual Aid Agreement
+If a City wishes to join the agreement, the Mayor or, if authorized, the City Manager may act on
+behalf of the City to join the agreement by notifying the director of the agency in writing. The
+municipality shall be a party to the agreement 30 days after receipt by the Department of the written
+notification.
+A City that has joined the agreement may opt out of the agreement in the same manner as provided
+for joining the agreement and by notifying the agency in writing of its intention to opt out. The
+removal of the municipality from the agreement shall take effect 10 days after receipt by the agency
+of the written notification.
+If a governmental unit that is not a City wishes to join the agreement, the chief executive officer
+of the governmental unit may act on its behalf to join the agreement by notifying the director of
+the agency in writing. The governmental unit shall be a party to the agreement 30 days after receipt
+by the agency of the written notification.
+If a governmental unit that is not a City has joined the agreement but wishes to opt out of the
+agreement, the chief executive officer of the governmental unit may act on its bchalfto opt out of
+the agreement by notifying the agency in writing. The removal of the municipality from the
+agreement shall take effect 10 days after receipt by the agency of the written notification.
+
+6.06.074       Requests for Mutual Aid Assistance
+The requesting party shall be responsible for the overall operation, assignment and deployment of
+resources and personnel provided by a sending party consistent with the incident command system.
+The sending party shall retain direct supervision, command and control of personnel, equipment
+and resources provided by the sending party unless otherwise agreed to by the requesting party
+and the sending party. During the course of rendering mutual aid assistance under the agreement,
+the sending party shall be responsible for the operation of its equipment and for any damage thereto
+unless the sending party and the requesting party agree otherwise.
+
+Except as otherwise agreed to by the parties, the requesting party shall seek reimbursement under
+any applicable federal and state disaster assistance programs for the costs of responding to the
+public safety incident. The requesting party and each sending party shall receive, based on the
+documented costs of providing mutual aid assistance, its pro rata share of the disaster assistance
+reimbursement provided to the requesting party.
+
+Each party to the agreement shall waive all claims and causes of action against each other party to
+the agreement that may arise out of their activities while rendering or receiving mutual aid
+assistance under the agreement,    including travel outside of its jurisdiction, and shal! defend,
+indemnify and hold harmless cach sending party from all claims by third parties for property
+damage or personal injury which may arise out of the activities of the sending party or its
+employees, including travel, while providing mutual aid assistance under the agreement.
+6.06.075          Responsibilities of Sending Party
+A sending party shall document its costs of providing mutual aid assistance under the agreement,
+including direct and indirect payroll and employee benefit costs, travel costs, repair costs and the
+costs of materials and supplies. A sending party shall also document the use of its equipment and
+the quantities of materials and supplies used while providing mutual aid assistance under the
+agreement. While providing mutual aid assistance under the agreement, employees of a sending
+party shall:
+      1. Be afforded the same powers, duties, rights, and privileges as they are afforded in the
+         sending party's geographical jurisdiction or location; and
+     2. Receive the same salary, including overtime, that they would be entitled to receive if they
+         were operating in their own governmental unit. In the absence of an agreement to the
+         contrary, the sending party shall be responsible for all such salary expenses, including
+         overtime.
+
+All expenses incurred by the sending party in rendering mutual aid assistance pursuant to the
+agreement shall be paid by the sending party; provided, however, that a requesting party and a
+sending party may entcr into supplementary agreements for reimbursement of costs associated
+with providing mutual aid assistance incurred by a sending party.
+
+6.06.076       Responsibilities of Receiving/Requesting Party
+A party that receives a request for mutual aid assistance shall provide and make available, to the
+extent reasonable and practicable under the circumstances, the resources requested;         provided,
+however, that a sending party may withhold requested resources to the extent necessary to provide
+reasonable protection and coverage for its own jurisdiction.
+
+While in transit to, returning from and providing mutual aid assistance under the agreement,
+employees of a sending party shall have the same rights of defense, immunity and indemnification
+that they otherwise would have under the law if they were acting within the scope of their
+employment under the direction of their employer. A sending party shall provide to, and maintain
+for, each of its employees who provide mutual aid assistance under the agreement the same
+indemnification, defense, right to immunity, employee benefits, death benefits, workers'
+compensation or similar protection and insurance coverage that would be provided to those
+employees if they were performing similar services in the sending party's jurisdiction.
+
+6.06.077        Form of Request for Mutual Aid Assistance
+A request by a party to receive mutual aid assistance under the agreement shall be made, either
+orally or in writing, by an authorized representative of the requesting party and shall be
+communicated to an authorized representative of the sending party or to the agency; provided,
+however, that if the request is communicated orally, the requesting party shall reduce the request
+to writing and deliver it to the sending party or to the agency at the earliest possible date, but not
+later than 72 hours after making the oral request. A party to the agreement may request mutual aid
+assistance during, in anticipation of or as a result of a public safety incident.
+An oral or written request for mutual aid assistance under the agreement shall include the following
+information:
+     1. A description of the public safety incident;
+   2.    The   nature, type and amount    of personnel, equipment,    materials,   supplies   or other
+         resources being requested;
+         The manner in which the resources shall be used and deployed;
+         A reasonable estimate of the length of time for which the resources shall be needed;
+   NPY
+
+         The location to which the resources shall be deployed; and
+         The requesting party's point of contact.
+
+6.06.078      Filing of Mutual Aid Agreements
+All Mutual Aid Agreements entered into by the County shall be promptly filed with the Curry
+County Clerk.

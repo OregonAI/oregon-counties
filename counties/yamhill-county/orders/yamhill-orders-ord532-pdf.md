@@ -1,0 +1,491 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord532-pdf
+title: 'ORD532-PDF'
+doc_type: ordinance
+citation: 'ORD532-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17645/ORD532-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 7a367ae38ccdb6f437e3eff2f86aa7634192344a4fbbf9c05f2a76d38aab5c7c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.986; figure agreement 0.783; dictionary ratio 0.953. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD532-PDF (ORD532-PDF)
+
+## At a glance
+
+OCR-derived text of ORD532-PDF. Not human-verified.
+
+## Full text
+
+ws
+
+            IN    THE    BOARD         OF        COMMISSIONERS                       OF    THE    STATE          OF     OREGON
+
+      PA     y.. 23      Y             FOR           THE     COUNTY            OF         YAMHILL
+                                                                                                                 1092 APR 17
+                  SITTING        FOR        THE        TRANSACTION                    OF    COUNTY          BUSINESS
+
+In    the   Matter        of     an    Ordinance
+Amending the Yamhill County
+Comprehensive Plan Map and
+Zoning      Map     to    Change,               on     Tax
+
+                                                                             eSSSS
+Lot    3309-2408          and     a    Portion
+of    Tax   Lot     3310-302,               the        Plan       Map
+Designation             From    Agriculture/                                                ORDINANCE             532
+Forestry Large Holding to
+Public, and the Zone Map De-
+signation         From       EF-40          to       PALF;
+Planning Docket PAZ-01-92,
+Applicants  Dennis and Nancy
+Sturdevant,  and Declaring an
+Emergency
+
+      THE   BOARD   OF    COMMISSIONERS   OF  YAMHILL    COUNTY,   OREGON   (the
+Board),   sat   for    the   transaction   of  county    business   in  special
+session   on April      15,   1992,  Commissioners    Ted   Lopuszynski,    Debi
+Owens,      and     Dennis        L.        Goecks           being           present.
+
+      WHEREAS,     Dennis   and  Nancy   Sturdevant   ("Applicants")                                                                  have
+applied   to   the    Department   of  Planning   and  Development                                                                  for   a
+Comprehensive Plan Map amendment from Agriculture/Forestry Large
+Holding to Public and a zone map amendment from EF-40 to PALF on
+Tax Lot 3309-2408 and a portion of Tax Lot 3310-302; and
+
+     WHEREAS,  on                 March                5,   1992 the  Yamhill  County  Planning
+Commission held a                 public               hearing to consider the application and
+thereafter          voted        unanimously                      to     recommend                to   the        Board        that     the
+Comprehensive             Plan        Map        and       Official              Zoning          Map   be        amended       to     grant
+the    application;             and                           :
+
+         WHEREAS,         on    April            1,     1992           the    Board          held      a public           hearing        on
+the    application;             and
+
+      WHEREAS,   the findings and  conclusions attached                                                                    hereto  as
+Exhibit   "A" and by this reference incorporated herein                                                                    provide a
+justification for the approval  of the application,  including                                                                          the
+taking of an exception to Statewide Land Use.Planning Goal 3;                                                                           and
+
+      WHEREAS,             the attached Exhibit  "A" demonstrate                                                        the proposed
+amendment   to            the Yamhill  County Comprehensive  Plan                                                        Map and the
+Official Zoning                Map of Yamhill County are in the                                             best        interests        of
+the citizens  of               Yamhill County;  NOW THEREFORE,
+
+ORDINANCE         532     - Page            1
+         THE     YAMHILL              COUNTY        BOARD    OF     COMMISSIONERS                     ORDAINS           as    follows:
+
+      Section       1.     The   Yamhill    County   Comprehensive    Plan    Map    is
+hereby    amended      as specified      in the attached     Exhibit   "B",   made     a
+part   of    this      ordinance     by   reference,    to  reflect    a   plan    map
+designation       of     "Public"    for   Tax  Lot   3300-2408   and    the   shaded
+portion of Tax Lot 3310-302.
+
+      Section   2.                      In   adopting               the   Plan            amendment                specified   in
+Section   1,  the                     county   hereby               takes    an           exception                to  Statewide
+Planning Goal 3.
+
+         Section            3.          The        Official         Zoning          Map         of     Yamhill               County    is
+hereby         amended           as    specified           in the     attached             Exhibit             "B",      to     reflect
+a   zoning       designation                  of    PALF     on     Tax       Lot     3309-2408                and       the     shaded
+portion         of    Tax        Lot        3310-302.
+
+         Section           4.         The     findings       attached           as        Exhibit            "A"     and      incorpo-
+rated     herein           by     this        reference        as     adopted             in    support            of    this     ordi-
+nance.
+
+         Section            5.         This        ordinance         being          necessary                for        the     health,
+safety,         and        welfare            of     the     citizens           of        Yamhill             County,            and   an
+emergency            having           been    declared        to     exist,          is    effective               upon       passage.
+
+         DONE        at    McMinnville,               Oregon         this       15th           day     of    April,            1992.
+
+                                                     YAMHILL         COUNTY          BOARD            OF    COMMISSIONERS
+
+                                                     Chairman             Y         CrED        LOPUSZYNSKI
+
+                                                     Comiissioner                    DEBI            OWENS
+
+JOHNDM.         GRAY       SR-.                      Commissioner                    DENNIS            L.     GOECKS
+Yamhill         County           Counsel
+
+psturdev.wor
+
+ORDINANCE            532        - Page        2
+                                              ORDINANCE 532
+                                                 Exhibit "A"
+                                          Findings for Approval
+
+DATE OF APPROVAL
+BY PLANNING
+COMMISSION:                              March 5, 1992
+
+DATE OF PRELIM-
+INARY APPROVAL
+BY BOARD OF
+COMMISSIONERS:                           April 1, 1992
+
+DATE OF ADOPTION
+OF IMPLEMENTING
+ORDINANCE AND
+FINAL DECISION:                          April 15, 1992
+
+DOCKET:                          PAZ-01-92
+
+APPLICANT:                       Dennis and Nancy Sturdevant
+
+REQUEST:                         A Comprehensive Plan map amendment from Agriculture/Forestry
+                                 Large Holding to Public, and a zone change from EF-40 Exclusive
+                                 Farm Use to PALF Public Airports/Landing Fields District.
+
+TAX LOT:                         3309-2408 and a portion of 3310-302
+
+LOCATION:                        Approximately 3.5 miles west. of the City of Newberg on the east side
+                                 of Dopp Road.
+
+A:   Background Facts
+
+1.      Property size:   The total area affected by the zone change is approximately 7 acres.
+
+2.      Access:   Dopp Road, a county road.
+
+3.       On-site Land Use: The two acre property identified by tax lot 3809-2408 has an existing
+         metal pole building that measures approximately 70’x70’. This. building has an existing
+         concrete slab in the front and is used as an aircraft hangar. The remaining five acres of the
+         requested zone change is a portion of tax lot 8310-302. This parcel includes a portion of the
+         existing runway, and the remainder appears to have been used during the past year for
+         growing a grass or grain crop.
+
+EXHIBIT "A" - ORDINANCE         532
+Page 1
+          Surrounding Land Use:       The uses in the area include a grade school, rural residences, and
+          large and small-scale agriculture. The Ewing Young grade school is located one-half mile
+          north of the existing runway. Rural residential uses are found on both the north and south
+          sides of the existing runway. There are three dwellings with outbuildings that are used as
+          hangar space on the south side of the runway. Agricultural uses are found on neighboring
+          properties and vary in size from five to over 200 acres. The agricultural uses are generally
+          orchards, grain or livestock production.
+
+          Surrounding Zoning:       Considering only the subject seven acres, the surrounding zoning is EF-
+          40 to the south, east and approximately half of the north and west property lines.     The
+          remaining half of the north and west property lines is zoned PALF Public Airport and Landing
+          Field. This area contains the existing airstrip. The current PALF zoning was designated by
+          Ordinance No 202 in 1979. The land was judged to be physically developed and committed to
+          the airstrip use.
+
+          Soils: Sheet 15 of the Yamhill County Soil Survey indicates that the soil type on the subject
+          seven acres is Briedwell silt loam with slopes of up to three percent (Br). Soil of this type is
+          rated as agricultural Class II.
+
+          Reason for Request: The applicants have indicated that they intend to move their existing
+          aerial spraying and aircraft maintenance business to the subject parcel. The applicants have
+          stated that no chemicals will be stored on the property. Their aircraft travels to the spray area
+          and is loaded with chemicals on the site. This type of operation can be located on the property
+          without obtaining the zone change. The other half of their operation dealing with aircraft
+          maintenance does require the zone change to PALF and an approved site design review.
+
+          Water:   Private well.
+
+          Fire Protection:   Newberg RFD.
+
+10.       Taxes:   Farm deferral.
+
+11.       Previous Action: Dockets Z-62-73 and Z-55-72; similar requests for a zone change on
+          approximately 20 acres to rural residential use were denied by the Planning Commission.
+          Docket S-6-67, Chehalem Airpark Subdivision. Docket C-125-74, conditional use approval for a
+          nonfarm dwelling.
+
+B.    Oregon Administrative Rule Provisions and Analysis
+
+1.        Oregon Administrative Rule (OAR) Chapter 660, Division 4, explains the requirements for
+          taking exceptions to statewide goals. The subject property is considered agricultural land by
+          virtue of its Class II soil (see Finding A.7). The property is not on the county inventory of
+          forest lands, so Goal 3, but not Goal 4, applies.   An exception to Goal 8 is required if the land
+          is to be designated for any use other than exclusive farm.
+
+          OAR 660-04-018 outlines the optional procedures for taking exceptions. The first is to base the
+          exception on "physical development" and/or "irrevocable commitment" of the property to non-
+          agricultural use. This type is intended to recognize and allow existing types of development.
+          The second is a "reasons" exception, which allows a jurisdiction to zone property with a non-
+
+EXHIBIT "A" - ORDINANCE 532
+Page 2
+      agricultural designation if there are grounds for the change. The former path has been taken
+      in this case because the subject property is physically developed or irrevocably committed to an
+      airport use.
+
+      OAR 660-04-025 and 660-04-028 outlines the requirements for taking an exception based on
+      physical development and irrevocable commitment to nonresource use. These criteria are:
+
+              660-04-025(1) A local government may adopt an exception to a goal when the
+              land subject to the exception is physically developed to the extent that it is no
+              longer available for uses allowed by the applicable goal.
+
+              (2) Whether land has been physically developed with uses not allowed by an
+              applicable Goal, will depend on the situation at the site of the exception. The exact
+              nature and extent of the areas found to be physically developed shall be clearly set
+              forth in the justification for the exception. The specific area(s) must be shown on a
+              map or otherwise described and keyed to the appropriate findings of fact. The findings
+              of fact shall identify the extent and location of the existing physical development on the
+              land and can include information on structures, roads, sewer and water facilities, and
+              utility facilities. Uses allowed by the applicable goal(s) to which an exception is being
+              taken shall not be used to justify a physically developed exception.
+
+              660-04-028(1) A local government may adopt an exception to a goal when the land
+              subject to the exception is irrevocably committed to uses not allowed by the applicable
+              goal because existing adjacent uses and other relevant factors make uses allowed by
+              the applicable goal impracticable.
+
+              (2) Whether land is irrevocably committed depends on the relationship between the
+              exception area and the lands adjacent to it. The findings for a committed exception
+              therefore must address the following:
+
+              (a)   The characteristics of the exception area;
+
+              (b)   The characteristics of the adjacent lands;
+
+              (c)   The relationship between the exception area and the lands adjacent to it; and
+
+              (d)   The other relevant factors set forth in OAR 660-04-028(6).
+
+      The area studied as being physically developed is outlined on the map in Exhibit C. The area
+      includes the following tax lot numbers, 3309-2400, 2402 2408, 2405, 2406, 2407, 2408 anda
+      portion of 3310-302. This area includes land already zoned PALF and uses that can be
+      considered part of the existing airstrip.
+
+      The existing PALF zone consists of the four of the above tax lots.   Specifically these are 3309-
+      2400, 2403, 2405, and 2406.    These four tax lots combine to create a rectangular area
+      approximately 150 feet wide by 1600 feet long. The only use of this area is the grass- surface
+      runway. There are landing lights along this area and an access road along the south property
+      line, however no structures exist.
+
+      The southwest corner of the study area contains tax lot number 3309-2407. This parcel
+      contains a residence, outbuildings and what appears to be two hangars. One hangar measures
+
+EXHIBIT "A" - ORDINANCE       582
+Page 3
+         80’x83’ and the other measures 33’x40’.   Both of these hangars appear to be presently in use.
+         The next parcel adjacent to the east also contains a residence and hangar facility.   The
+         hangar/machine shed measures 40’x40’ and does appear to be in use. The next parcel to the
+         east is identified by tax lot 3309-2402. This parcel also contains a residence with an attached
+         garage/hanger. Again this hangar did house an aircraft and was in use.
+
+         The last two areas to be discussed are the subject of the zone change request. The first, tax lot
+         8309-2408 contains one large metal building. The applicants have indicated that this building
+         is 70’x70’ and is used by the owner to store his own aircraft. The second area is a portion of
+         tax lot 3310-302. This area extends 700 feet from the end of the existing PALF zone and tax
+         lot 3309-2408. There are no structures in this location. The applicants have stated "The 700’
+         parcel of land is currently and has been used as an extension to the runway since Chehalem
+         Airpark was established." In reviewing the past docket files there is a letter dated November
+         2, 1972, from George L. Buley, Chief of the Federal Aviation Administration’s Airports
+         Planning Branch that states, "...the map indicated a runway   1600’ long, while, in fact, the
+         airport is listed on the sectional charts and in the Airman’s Information Manual as 2300’ long."
+         This appears to support the applicant’s claim and indicates that at least the FAA believed
+         another 700 feet of runway was in use.
+
+         With the exception of the existing PALF zone, the surrounding area is zoned predominantly
+         EF-40 Exclusive Farm Use. Zoning of this type allows farm uses and related activities. The
+         zone requested in the application would allow airports and related uses. The fact that the
+         above-described properties adjacent to the existing PALF zone have hangars and related
+         aircraft maintenance facilities, and the 700 feet of land to the east has been used in the past as
+         a runway, demonstrates that the area is physically developed and irrevocably committed to the
+         airport use.
+
+C.   Ordinance Provisions and Analysis
+
+i        Section 1204 of the Yamhill County Zoning Ordinance (YCZO) states that exceptions to
+         statewide goals are subject only to the requirements of the Oregon Administrative Rules
+         discussed in Section B of this report. The Plan Amendment portion of this request is not
+         subject to local review criteria.
+
+         The zone change portion of the subject request must comply with the standards and criteria in
+         YCZO Section 1208.02. These provisions are:
+
+         (a)     That the proposed change is consistent with the goals, policies, and any other
+                 applicable provisions of the Comprehensive Plan.
+
+        (b)      That there is an existing demonstrable need for the particular uses allowed by the
+                 requested zone, considering the importance of such uses to the citizenry or the
+                 economy of the area, the existing market demand which such uses will satisfy, and the
+                 availability and location of other lands so zoned and their suitability for the uses
+                 allowed by the zone.
+
+         (c)     That the proposed change is appropriate considering the surrounding land uses, the
+                 density and pattern of development in the area, any changes which may have occurred
+
+EXHIBIT "A" - ORDINANCE        532
+Page 4
+              in the vicinity to support the proposed amendment and the availability of utilities and
+              services likely to be needed by the anticipated uses in the proposed district.
+
+      (d)     That other lands in the county already designated for the proposed use are either
+              unavailable or not as well-suited for the anticipated uses due to location, size, or other
+              factors.
+
+      (e)     That the amendment      is consistent with the current Oregon Administrative Rules for
+              exceptions, if applicable.
+
+      The findings regarding these criteria are provided in subsections 3 through 7 below.
+
+      Regarding Comprehensive Plan goals and policies, Goals II.A.1 and II.A.2 of the Plan are,
+      respectively:
+
+              To conserve Yamhill County’s farm lands for the production of crops
+              and livestock and to ensure that the conversion of farm land to urban
+              use where necessary and appropriate occurs in an orderly and
+              economical manner; and
+
+              To conserve Yamhill County’s soil resource in a manner reflecting their
+              suitability for forestry, agriculture and urban development and their
+              sustained use for the purposes designated on the County plan map.
+
+      The soil survey indicates that the parcel is characterized by Class II soils. This soil type is to be
+      preserved for farm use according to Policy A under Goal II.A.2. A examination of the parcel
+      and surrounding area has indicated, however, that the existing development and uses
+      associated with the airstrip has created practical difficulties with implementing farm use. The
+      size and proximity of nonfarm uses combined with existing development renders the parcel
+      unsuitable for farm use. Although the land is unsuitable for farm use the applicants have
+      indicated that they intend to establish a crop-dusting service for local farmers. This use would
+      be associated with the surrounding agricultural area.
+
+      Regarding the need in the area for the proposed change, the change would result in extension
+      of an existing private airstrip. Presently there are three public airport and landing fields in
+      Yamhill County. Five other areas in the county have private runways zoned PALF. Although
+      there are other areas zoned PALF, the amount of land with this designation is limited. The
+      next closest area with this designation is Sportsman Airpark on the east side of Newberg,
+      approximately six miles away. The applicants have stated that this facility will not allow
+      operation of any additional spray or maintenance facility. They have indicated that approval of
+      this request will provide farmers with an increased accessibility to crop-dusting and expand an
+      airstrip that is not heavily congested with surrounding industrial facilities.
+
+      Regarding the appropriateness of the request, the runway and related facilities exist adjacent
+      to the zone change request. The airstrip has existed for at least 20 years. The applicants have
+      only requested extension of this existing use. The Utilities and services likely to be needed by
+      the anticipated use already exist on site. The density and pattern of development on lands
+      inside the study area supports the airstrip use. Outside of this study area there is some
+      development, however most of the neighboring residences are on parcels of over 5 acres. The
+      level of development is not so intense that it would interfere with the airport extension. The
+
+EXHIBIT "A" - ORDINANCE       532
+Page 5
+       only use that might be in conflict is Ewing Young School. The location of the school would be
+       more of a concern if the applicants were storing chemicals on the property. Because their
+       practice is to load the chemicals on site this is not anticipated to be a problem. As stated in
+       finding A.4 the school is located one half mile to the north of the existing runway. The
+       airstrip runs in an east west direction. No take-offs or landings would fly over the school. As
+       stated previously the runway has existed for approximately 20 years. No objections to the
+       proposed expansion have been received from the school as of the writing of this report.
+
+6.     Finding B.6 and C.4 of this report apply to criterion (d), above, as well.
+
+%      Regarding criterion (e), the OAR requirements are addressed in section B of this report.
+
+CONCLUSIONS:
+
+1.     The request is for an amendment to the Yamhill County Comprehensive Plan map for
+       approximately seven acres from Agriculture/Forestry Large Holding, to Public and a zone
+       change for the same property from EF-40 Exclusive Farm Use to PALF Public
+       Airports/Landing Fields District.
+
+2.     The unique circumstances of the subject site are such that reasons exist why the property
+       should not be subject to Goal 3 requirements.
+
+3.     Areas that do not require a new exception cannot reasonably accommodate the use because of
+       unavailability of suitable land with the unique characteristics of having the proper zoning
+       designation.
+
+A,     The uses allowed by the proposed change are compatible with other uses in the vicinity.
+
+5.     The request is consistent with the goals and policies of the Yamhill County Comprehensive
+       Plan.
+
+DECISION:
+
+Based on the above findings, analysis, and conclusions, the application of Dennis and Nancy
+Sturdevant is granted to change the plan map designation and zone map designation on the property
+identified in Exhibit "B" from Agriculture/Forestry Large Holding to Public and from EF-40 Exclusive
+Farm Use to PALF Public Airports/Landing Fields District.
+
+EXHIBIT "A" - ORDINANCE       532
+Page 6
+                                                               "B"        FOR         ORDINANCE            NO:      532
+                                   EXHIBIT
+
+                                              PLAN             AMENDMENT/ZONE                           CHANGE
+
+                                  BY        THE           YAMHILL               COUNTY            BOARD        OF    COMMISSIONERS
+                 ADOPTED
+                                                                     APRIL            15,        1992
+
+                                              CHANGE                 TO    OFFICIAL                ZONING           MAP
+                                       TO
+                                                              FROM        EF-40             TO    PALF
+
+                                                                                                                 ——
+                                                                                                                      3310-302
+  RD.
+
+                                                  1@00'
+
+                                                                                                                                     ;SUte
+                 4509-2400
+
+            3309-2403 | [2405                                 3309-2406
+           -2407 | -2500           2402                   |                  —r—“__————s—shetr
+   DopP.
+
+                  Scale      1"    =        400!
+
+                  Change     applies               to         all    of    tax        lot    3309-
+
+                           and    the        shaded             portion              of    tax    lot
+                  2408
+                  3310-302
+
+                                  by        the     Department                  of        Planning       and   Development.
+           Map    prepared
+
+EXHIBIT   "B"
+ORDINANCE     532
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.6% of
+the word sequence, and on 78.3% of the figures. Dictionary-recognizable words: 95.3%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

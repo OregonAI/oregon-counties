@@ -1,0 +1,495 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord733-pdf
+title: 'ORD733-PDF'
+doc_type: ordinance
+citation: 'ORD733-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17462/ORD733-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 845301a68da2f6a0901670bc133e58162ee5c03592f6d25864c17ce29083bab3
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.981; figure agreement 0.749; dictionary ratio 0.946. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD733-PDF (ORD733-PDF)
+
+## At a glance
+
+OCR-derived text of ORD733-PDF. Not human-verified.
+
+## Full text
+
+ae ofl 78 ' vce                    465
+                                                                   ‘od        «(JANNN 1D   Po   4.        0   0   O41   4 9g
+                                                                    04
+
+                  IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                                       FOR THE COUNTY OF YAMHILL
+
+                             SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of a Comprehensive Plan amendment from                     )
+Very Low Density Residential to Industrial;                              )
+a zone change from VLDR 2.5 to LI Light Industrial,                      ) ORDINANCE 733
+Tax Lot 4411-905, located at 3200 NE Lone Oak Road,                      )
+applicants Duane and Diane Sharer, Docket No. PAZ-04-03                  )
+
+         THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board)
+sat for the transaction of county business on January 15, 2004, Commissioners Kathy George, Mary P.
+Stern, and Leslie Lewis being present.
+
+        IT APPEARING TO THE BOARD that Duane and Diane Sharer applied to the Department
+of Planning for a Comprehensive Plan amendment from Very Low Density Residential to Industrial; a
+zone change from VLDR 2.5 to LI Light Industrial in order to allow expansion of an existing mini-
+storage business. A public hearing was before the Planning Commission which voted unanimously to
+forward the application for consideration by the Board without a recommendation for approval or denial.
+The Board held a duly noticed public hearing on December 11, 2003, continued until December 23,
+2003, and the Board voted 2-1 to approve the application (Commissioner Stern in the minority), and
+directed staff to prepare the necessary findings; NOW,     THEREFORE,
+
+        IT IS HEREBY ORDAINED BY THE BOARD that the application is approved as detailed in
+the Findings for Approval, attached as Exhibit “A” and by this reference incorporated. A map is
+attached as Exhibit “B”.
+
+             DONE this 15" day of January, 2004, at McMinnville, Oregon.
+
+ATTEST                                      YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+                                                    act        her
+                                            Chair           ) KATHY
+                                                              vo IRGE
+                                                       My D      Ste
+
+                                            Commissioner       MARY          P. STERN
+
+APPROVE sDiAg.6 FORM:                               Nal io hk hn
+   74         ;          7                  Commissioner        FESLIE LEWIS
+     iA    fi Ln’
+Rick Sanai
+Assistant County Counsel
+F:\Users\sanair\LU\PAZ04-03,wpd
+
+                                                                                                     OrRowance 7S
+                                                                                                     Bo   o¥-
+                                                                                               run 18 ce 4b€
+Findings for Approval - Docket PAZ-04-03 (Sharer)                                                    000 143
+Page 2
+
+                                                                                          Ordinance 733
+
+DOCKET NO.:                                 PAZ-04-03
+
+REQUEST:                                    Approval of a Comprehensive Plan amendment from Very Low
+                                            Density Residential to Industrial; a zone change from VLDR 2.5 to LI
+                                            Light Industrial in order to allow expansion of a mini-storage business.
+
+APPLICANT:                                  Duane and Diane Sharer
+
+TAX LOT:                                    4411-905
+
+LOCATION:                                   3200 NE Lone Oak Road
+
+CRITERIA:                                   Sections 702, and 1208.02 of the Yamhill County Zoning Ordinance.
+
+FINDINGS:
+
+A.            Background Facts:
+
+1.            Lot Size: Approximately 3.85 acres
+
+2,            Access:          Lone Oak Road
+
+3.            On-Site Land Use: The adjacent tax lot contains a residence. The subject tax lot contains
+              outbuildings associated with the storage business. A site map showing the configuration of the
+              lot and storage buildings is attached with the application.
+
+4.            Surrounding Land Use and Zoning: Adjacent properties are zoned VLDR 2.5. The area is
+              characterized by rural residential uses. Across the State Highway to the west is an area zoned
+              Neighborhood Commercial that contains commercial uses. Across the State Highway to the
+              southeast is an area of property zoned LI Light Industrial.
+
+5.            Water:         Provided by an on-site well.
+
+6.            Sewage Disposal: An on-site septic system.
+
+7.            Fire Protection: McMinnville Rural Fire District
+
+8.            Taxes: Farm Deferral
+
+F:A\Users\sanair\LU\PAZ04-03.wpd
+
+                                                                                                       ORDIWANCE ISS
+                                                                                                       0.    04-4 /
+                                                                                              en    (8 race 407
+                                                                                                     000144
+Findings for Approval - Docket PAZ-04-03 (Sharer)
+Page 3
+
+9.           Previous Related Actions: The applicant received approval of a conditional use for a home
+             occupation to allow storage of recreational vehicles inside of an accessory building.         That
+             request was approved in 1994 under Docket C-17-94. In 1998 the Planning Commission
+             reviewed Docket C-07-98/V-10-99, a request to modify a previous home occupation
+             approval to allow up to 46,000 square feet of additional storage and to vary from the 10%
+             parcel coverage standard. The Planning Commission denied this request.
+
+10.          The request is simply to approve a plan amendment from Very Low Density Residential to
+             Industrial and a zone change from VLDR 2.5 to LI Light Industrial. The purpose of the request
+             is to allow expansion of a mini-storage business. The request does not include a site design
+             review with specifics of the mini-storage expansion.
+
+11.          Exception: This property was part of code area 4.5 (St.         Joe’s) which was adopted in
+             Exceptions Statement II on April 23, 1980.
+
+B.           Zone Change and Plan Amendment Provisions and Analysis
+
+1.           The Plan Amendment portion of the request is not subject to local review criteria, but is subject
+             to ORS and OAR criteria.
+
+2.           The zone change portion of the request complies with the standards and criteria in YCZO
+             Section 1208.02. These provisions are:
+
+             (A)          The proposed change is consistent with the goals, policies, and any other
+                          applicable provisions of the Comprehensive Plan.
+
+             (B)          There is an existing demonstrable need for the particular uses allowed by the
+                          requested zone, considering the importance of such uses to the citizenry or the
+                          economy of the area, the existing market demand which such uses will satisfy,
+                          and the availability and location of other lands so zoned and their suitability for
+                          the uses allowed by the zone.
+
+             (CQ) _ The proposed change is appropriate considering the surrounding land uses, the
+                          density and pattern of development in the area, any changes which may have
+                          occurred in the vicinity to support the proposed amendment and the availability
+                          of utilities and services likely to be needed by the anticipated uses in the proposed
+                          district.
+
+             (D)          Other lands in the county already designated for the proposed uses are either
+                          unavailable or not as well-suited for the anticipated uses due to location, size, or
+                          other factors.
+
+F.\Users\sanair\LU\PAZ04-03,wpd
+                                                                                              rin (8 vce 48
+                                                                                                  000145
+Findings for Approval - Docket PAZ-04-03 (Sharer)
+Page 4
+
+             (E)      — The amendment is consistent with the current Oregon Administrative Rules for
+                        exceptions, if applicable.
+
+3h          Regarding criterion (A) above, since an exception to Statewide Planning Goals 3 and 4 has
+             already been taken for the subject parcel, Comprehensive Plan goals and policies related to
+             agricultural and forest lands are not applicable. (Regardless of whether or not a “reasons”
+             exception is approved, as explained further in section C of this report, the parcel still has an
+             acknowledged “committed” exception to Goals 3 and 4 so it is not subject to requirements for
+             protection of farm and forest land.) Other Plan goals and policies which may be pertinent are:
+
+             Yamhill County Revised Goals and Policies - Policy L.F.1.b. Yamhill County will
+             encourage economic development projects which do not conflict with the predominant
+             timber and agricultural character of the county.
+
+             The applicant stated that this use has co-existed with surrounding agricultural uses for the past
+             eight years with no adverse impacts. Our staff does not know of any complaints from farm
+             operators regarding the use of this storage facility.
+
+             Yamhill County Revised Goals and Policies - Policy B.1.c. All proposed rural area
+             development and facilities:
+
+                          1)     Shall be appropriately, if not uniquely, suited to the area or site proposed
+                         for development;
+
+                          2)      Shall not be located in any natural hazard area, such as a floodplain or
+                          area of geologic hazard, steep slope, severe drainage problems or soil limitations
+                         for building or sub-surface sewage disposal, if relevant;
+
+                          3)      Shall be furnished with adequate access and an adequate individual or
+                         community water supply, if required; and shall not be justified solely or even
+                         primarily on the argument that the land is less costly than alternative better sites
+                         or that federal or state aid is available in the form of subsidized water supply or
+                          sewerage extensions from nearby urban centers.
+
+             The above policy was adequately addressed by the applicant on Page 10 of the application.
+
+             Yamhill County Revised Goals and Policies - Policy I.B.1.d. No proposed rural area
+             development shall require or substantially influence the extension of costly services and
+            facilities normally associated with urban centers, such as municipal water supply and
+            sanitary sewerage or power, gas and telephone services, nor shall it impose inordinate
+
+F:\Users\sanair\LU\PAZ04-03.wpd
+                                                                                          FILN ‘18 race 40
+                                                                                                 000146
+Findings for Approval - Docket PAZ-04-03 (Sharer)
+Page 5
+
+             additional net costs on mobile, centralized public services, such as police and fire
+            protection, school busing or refuse collection.
+
+             The above policy was adequately addressed by the applicant on Page 11 of the application,
+             which is hereby incorporated into the Findings in its entirety by this reference.
+
+             Yamhill County Revised Goals and Policies - Policy LH.1.b, To the greatest extent
+            possible, industrial areas will be located within urban growth boundaries. Those
+             industrial areas located outside urban growth boundaries will be compatible with the
+             industrial development goal and will be located where they can be adequately served by
+             necessary major utility lines, including electric power substations and transmission lines,
+             trunk sewer lines, trunk water lines, and where appropriate, trunk gas lines.
+
+             Notice of this request was sent to the City of McMinnville.    The City staff had the opportunity
+             to voice objection if rezoning this area will conflict with their goal and the county’s goal of
+             keeping industrial areas within the UGB but voiced no opposition.
+
+             This industrial use does not need the extension of utility lines in order to serve the use.
+
+             Yamhill County Revised Goals and Policies - Policy LH.1.c, Industrial uses which are
+             incompatible with surrounding residential or commercial development and cannot bear
+             the cost of abating their incompatible characteristics, whether related to performance or
+             appearance, will be encouraged to locate or relocate only within urban centers, where
+             contact with residential development is, or will be at a minimum, and where all required
+             services are immediately available.
+
+             This type of industrial use is very low impact. It does not generate noise, vibration, glare,
+             fumes, odor, electrical interference or other disturbance beyond what normally occurs in the
+             applicable zoning district. The only significant impact is the visual impact of the storage facility
+             on adjacent property.   Some of this could be addressed by appropriate landscaping during the
+             site design review process.
+
+             Yamhill County Revised Goals and Policies - Policy LH.1.f, The county will develop
+             appropriate performance, design and specification standards and requirements for all
+             existing and possible future industrial uses to guide their location or relocation in the
+             county and within existing industrial areas of the county.
+
+             The County has developed design standards which would be applied at the time the applicant
+             applies for the Site Design Review. One area of concern is the parcel coverage standard of the
+             LI Light Industrial Zone is 30 percent. In Docket C-07-98/V-10-98, the applicant requested
+             to add 46,000 sq. ft. of building area, which raised their parcel coverage to more than 40%.
+
+F:\Users\sanair\LU\PAZ04-03.wpd
+                                                                                        run (3 ince 470
+                                                                                                           tr
+
+Findings for Approval - Docket PAZ-04-03 (Sharer)                                             U 0 0 1 4 (
+Page 6
+
+            Near the bottom of page 1 of the request the applicant states that after approval of this request
+            and the “. .. subsequent site design review application would allow the applicant’s to construct
+            three (3) additional storage buildings on the property. This would effectively double the size of
+            the existing business.” The concern is that the size of building the applicant desires to construct
+            will also require a variance to the design standards. That matter is not under review in this
+            application.
+
+             Yamhill County Revised Goals and Policies - Policy LH.1.I, Industrial development will
+            utilize the transportation system in an efficient and safe manner and reduce energy
+            consumption by identifying for industrial development areas with alternative
+            transportation opportunities, and by locating employment opportunities close to public
+            transportation and, where appropriate, in community areas.
+
+            Yamhill County Revised Goals and Policies - Policy .H.1.n The county will recognize and
+            encourage small scale industries as viable alternatives to larger, conventional
+            enterprises.
+
+            The applicant has addressed these policies on page 12 of the application, which is hereby
+            incorporated into the Findings in its entirety by this reference.
+
+4.          Regarding the need for the proposed use, criterion (B), the applicant’s representative Mark
+            Fancy testified he logged phone calls received from April 10, 2003 to July 30, 2003. The calls
+            illustrate the types of requests the applicant receives and this illustrates there is a need for this
+            type of storage facility in the area. As for the availability and suitability of other LI zoned lands,
+            this will be discussed in Finding B.6.
+
+5.          Regarding criterion (C), the surrounding land uses are a combination of small scale farm uses
+            and rural residences. With regard to utility needs, the proposed use would not have any
+            significant needs to expand the utility services. The existing facility, as proposed, would not
+            require any additional utilities and services than already exist in the area or that could be
+            provided by a private well and septic system.
+
+6.          Regarding criteria (D), the applicant submitted an analysis of other lands that are plan designed
+            and zoned LI Light Industrial. The applicant evaluated Light Industrial properties within the
+            County. The applicant focused on those that has less than $5,000 assessed value of
+            improvements. The study then looked at each of those sites within the County to determine
+            which ones might be suitable for development of a storage facility. Those findings are found on
+            pages 6-9 of the application. Our Department believes the survey was a reasonable approach
+            and the findings on the specific sites were adequate to eliminate them from consideration.
+cE          Exception requirements, criterion (E), are addressed in section C of this report.
+
+FAUsers\sanair\LU\PAZ04-03.wpd
+                                                                                          en “(8 ce 473.
+                                                                                                     000148
+Docket PAZ-04-03 (Sharer)
+Page 7
+
+c.           Goal Exception Provisions and Analysis
+
+             In the past Yamhill County has made the following arguments regarding “committed”
+             exceptions:
+                           Oregon Administrative Rule (OAR) 660-04 contains requirements for taking goal
+                           exceptions. This area was approved for a “committed” exception in 1980, based
+                          on the number of small contiguous parcels and the existing rural residential
+                          development pattern. The area was zoned AF-10 allowing for rural residential
+                          development. The Board of Commissioners has previously found that a new
+                          exception is not required because a “committed exception” to Goals 3 and 4,
+                          adopted prior to 1986, did not limit the future use of the exception area. This is
+                          because the “committed exception” was taken before the effective date of the
+                          rule (3/20/86). Therefore, no additional goal exception is required.
+
+             DLCD has previously argued that even if a committed exception is taken that additional
+             exceptions are still necessary to approve a plan amendment/zone change.             DLCD has
+             submitted a letter stating that an exception to Goal 14 is necessary or the use would need to be
+             limited to less than that which is allowed in an unincorporated community. Land within an
+             unincorporated community is limited to buildings less than 40,000 square in area in order to be
+             considered an appropriate use for the community. There is no guidance given as to what limit
+             of square footage would prevent rural property from being viewed as an urban scale of use. If
+             the applicant later requests to expand the use beyond what is allowed in an unincorporated
+             community, then a Goal 14 exception would be appropriate at that time.
+
+             Limited Use Overlay Provisions
+iy
+
+             The purpose of the Limited Use Overlay District is to limit permitted use(s) and activities in a
+             specific location to only those uses and activities which are justified and approved through
+             Comprehensive Plan Amendments and/or zone changes. The approval of this application is
+             based on the use being a storage facility. The limited use overlay zone limits the use to mini-
+             storage/recreational vehicle storage.
+
+             Goal 12 (Transportation Rule) Provisions and Analysis
+i=
+
+             The provisions of the Transportation Planning Rule, implementing Goal 12, must be addressed.
+             OAR 660-12-060 contains the provisions that must be met:
+
+             (1)          Amendments to functional plans, acknowledged comprehensive plans, and land
+                          use regulations which significantly affect a transportation facility shall assure
+
+F:\Users\sanair\LU\PAZ04-03.wpd
+                                                                                       cun (8 ace 472
+Docket PAZ-04-03 (Sharer)
+                                                                                                “000149
+Page 8
+
+                         that allowed land uses are consistent with the identified function, capacity, and
+                         level of service of the facility. This shall be accomplished by either:
+                         (a)      Limiting allowed land uses to be consistent with the planned function,
+                                  capacity and level of service of the transportation facility;
+                         (b)     Amending the TSP [Transportation System Plan] to provide transportation
+                                 facilities adequate to support the proposed land uses consistent with the
+                                  requirements of this division; or,
+                         (o)      Altering land use designations, densities, or design requirements to reduce
+                                  demand for automobile travel and meet travel needs through other modes.
+
+            (2)          Aplan or land use regulation amendment significantly affects a transportation
+                        facility if it:
+                         (a)      Changes the functional classification of an existing or planned
+                                  transportation facility;
+                         (b)      Changes standards implementing a functional classification system;
+                         (c)      Allows types or levels of land uses which would result in levels of travel or
+                                  access which are inconsistent with the functional classification of a
+                                  transportation facility; or
+                         (d)      Would reduce the level of service of the facility below the minimum
+                                  acceptable level identified in the TSP.
+
+2.          Regarding (1) and (2), the request is to allow a plan/amendment zone change. Page 3 of the
+            application explains what the applicant believes the anticipated trip generation would be from
+            this type of facility. The figures are based on the standard trip generation manual from the
+            Institute of Transportation Engineers. The applicant submitted portions of this manual with the
+            application. The trips from similar uses varied from 17 to 194 vehicle trips per day. Even
+            taking the high of 194 vehicle trips per day, it appears the use would be consistent with the level
+            of service of the transportation facility. Therefore, the request complies with the
+            Transportation Planning Rule.
+
+CONCLUSIONS:
+
+1.          The request for a Plan amendment from VLDR Very Low Density Residential to I Industrial
+            and a zone change from VLDR 2.5 to LI Light Industrial is hereby approved.
+
+2.          The proposed zone change is consistent with Comprehensive Plan goals and policies. There
+            are no other lands that would be available to site a storage facility. With conditions, the storage
+            facility would be compatible with surrounding agricultural and residential uses.
+
+FAUsers\sanair\LU\PAZ04-03.wpd
+                                                                                      run (8 race. 4/2
+Docket PAZ-04-03 (Sharer)                                                                      0 0 0 1 5 0
+Page 9                                                                                                            |
+
+3%           Since this area was a committed exception, no other exception is needed.      In addition, since
+             this request did not include site design review for expansion, no Goal 14 exception is needed.
+             If the applicant requests to expand the use beyond what is allowed in an unincorporated
+             community, then a Goal 14 exception would be appropriate at that time.                               |
+
+4.           The applicant has demonstrated that there is a need for the use which other lands in the
+             unincorporated area would not be able to satisfy.
+
+5.           The applicant has demonstrated that the level of anticipated traffic will not overburden the local   |
+             roads.                                                                                               |
+
+DECISION:
+
+The request by Diane and Duane Sharer, for a plan amendment and zone change from VLDR 2.5 Very
+Low Density Residential to LI Light Industrial on Tax Lot 4411-905 is hereby approved, subject to a
+limited use overlay zone with the following restrictions:
+
+Ls           Uses shall be limited to mini-storage and the storage of personal property and vehicles,
+             including boats and recreational vehicles.
+
+2.           Any expansion of the use must be shown to be consistent with Goal 14 or have an exception
+             taken to Goal 14.
+
+                                                                  F.\Users\sanair\LU\PAZ04-03.wpd
+
+                                                                                         ORO    whuce      FEZ
+F:\Users\sanair\LU\PAZ04-03.wpd
+                                                                                         B.0.0%-      ¥Y
+                                                          rin     (8 ince 47/4
+                                                                  COOLS.
+               EXHIBIT “B” MAP FOR ORDINANCE NO, 733
+                 PLAN AMENDMENT AND ZONE CHANGE
+     ADOPTED BY THE YAMHILL COUNTY BOARD OF COMMISSIONERS
+                           JANUARY 15, 2004
+           FOR A COMPREHENSIVE PLAN AMENDMENT FROM
+         VERY LOW DENSITY RESIDENTIAL TO INDUSTRIAL AND
+               TO CHANGE OFFICIAL ZONING MAP FROM
+                VERY LOW DENSITY RESIDENTIAL VLDR 2.5
+                                 TO
+                            LI LIGHT INDUSTRIAL
+
+CHANGE APPLIES TO THE SHADED PORTION OF TAX LOT 4411-905 DESCRIBED ABOVE
+APPROXIMATE SCALE - 1 INCH = 200 FEET                         B.0.04-4/
+                                                                ORDINANCE   TSS
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.1% of
+the word sequence, and on 74.9% of the figures. Dictionary-recognizable words: 94.6%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

@@ -1,0 +1,725 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord552-pdf
+title: 'ORD552-PDF'
+doc_type: ordinance
+citation: 'ORD552-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17618/ORD552-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 76426252325c280a7f6abde79fee2945b09c1acaf29e6c5adf3d82f9690c18da
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.982; figure agreement 0.743; dictionary ratio 0.958. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.301
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD552-PDF (ORD552-PDF)
+
+## At a glance
+
+OCR-derived text of ORD552-PDF. Not human-verified.
+
+## Full text
+
+ria DO vce                287                        ‘g
+              “Okey                                                                                                                                     cD,
+
+                   IN     THE        BOARD         OF     COMMISSIONERS                  OF    THE        STATE         OF    OREGON”
+                                                                                                                               \
+                                                   FOR THE COUNTY OF YAMHILL                                                        %,             &
+           G3-A5G                                                                                                                          \
+                          SITTING            FOR        THE     TRANSACTION               OF       COUNTY         BUSINESS                     &
+
+     In the Matter of an Ordinance
+     Amending the Yamhill County
+     Comprehensive Plan Map and
+     Zoning Map to Change,    on a
+     1.18 acre portion of Tax Lots
+     5423-1400  and 1401,  the Plan Map
+     Designation From Agriculture/                                                                 ORDINANCE            552
+     Forestry Large Holding to Quarry,
+     and     the        Zone        Map      Designation
+     from     AF-20            to    MR-2;         Planning
+     Docket PAZ-1-93; Applicant                                      Martin
+     and Wright Paving Co.; and
+     Declaring            an        Emergency.
+
+     THE     BOARD        OF        COMMISSIONERS                   OF    YAMHILL        COUNTY,               OREGON        ("the         Board"),
+     sat for the transaction of county business in special session on
+     April 21, 1993, Commissioners Debi Owens and Dennis L. Goecks being
+     present.
+
+     THE     BOARD        MAKES            THE      FOLLOWING              FINDINGS:
+
+     A.       Martin            and       Wright          Paving           Company         ("Applicant")                     has     applied                       to
+     the     Department               of     Planning               and    Development                  for     a Comprehensive                          Plan
+     Map     amendment               from Agriculture/Forestry                                 Large           Holding        to Quarry                       and
+     a     zone     map        amendment                from     AF-20       to       MR-2         on     a    1.18      acre       portion                        of
+     Tax     Lots        5423-1400                and     1402           identified           on        the     attached           Exhibit                     "B"
+     and     the        entirety             of     Tax       Lots        5423-1402            and        5424-1001.
+
+     B.    On March 4,                       1993 the Yamhill County Planning Commission held
+     a public hearing                        to consider the application and thereafter voted
+     to recommend  denial of  the application  in whole; and the   Board
+     thereafter voted to review the application on its own motion.
+
+     Cc.      On         April         7,         1993        the        Board        held         a     public          hearing                   on         the
+     application                and        voted         unanimously               to     take           the     following               action:
+
+                  (1)     Grant tentative approval  for a                                              plan map amendment and a
+                  zone    map change for the 1.18 portion                                               of Tax Lot 5423-1400 and
+                  1401     identified                    on    the         attached            Exhibit            "B"        from          Agricul-
+              ture/Forestry                       Large        Holding           to     Quarry            and    AF-20         to        MR-2;                and
+
+                  (2)      Remand            the        remainder           of     the        application               to     the         Planning
+              Commission for reconsideration in light                                                          of the mutual request
+              of the  applicant and opponents  at the                                                          April  7, 1993 public
+              hearing as explained in Exhibit  "A".
+
+(J   D.        The findings and                          conclusions attached hereto as Exhibit   "A"
+     and     by this reference                           incorporated herein provide a justification
+     for     the        Board’s             action        of     April        7,      1993.
+
+                                                                                                                 ORDINANCE           552       —-       Page            1
+                                                                                                            FILA    59        PACE     288
+
+E.    The attached   Exhibit   "A"  demonstrates   that   the  proposed
+amendment  to  the Yamhill   County  Comprehensive   Plan  Map  and  the
+Official Zoning Map of Yamhill County are in the best interests of
+the citizens of Yamhill County.     NOW THEREFORE,
+
+THE     YAMHILL        COUNTY            BOARD       OF    COMMISSIONERS                ORDAINS        as     follows:
+
+      Section 1.                        The Yamhill   County Comprehensive                                    Plan        Map  is
+hereby amended as                        specified in the attached Exhibit                                     "B",       made a
+part  of  this                ordinance    by  reference,                           to  reflect  a                      plan  map
+designation of                "Quarry"  for the 1.18 acre                           portion of Tax                      Lot 5423-
+1400     and     1401        identified              on    Exhibit         "B".
+
+         Section         2.             The        Official        Zoning         Map     of     Yamhill            County            is
+hereby     amended            as        specified         in the     attached            Exhibit        "B",       to     reflect
+a     zoning     designation                  of    MR-2     on    the     1.18         acre     portion           of     Tax        Lot
+5423-1400         and        1401        identified           on    Exhibit         "B".
+
+       Section 3. The findings attached as Exhibit "A" and incorpo-
+rated herein by this reference are adopted in support of this ordi-
+nance.
+
+      Section 4.  Except as affected by sections 1 through 3 of this
+Ordinance, the remainder of Planning Docket PAZ-1-93 is remanded to
+the Yamhill County Planning Commission for reconsideration in light
+of the joint request of the applicant and opponents as described in
+Exhibit         "A".
+
+      Section  5.   This    ordinance   being   necessary  for the  health,
+safety,   and welfare    of   the  citizens   of   Yamhill  County,  and  an
+emergency having been declared to exist, is effective upon passage.
+
+         DONE     at    McMinnville,                  Oregon        this     21st        day     of    April,            1993.
+
+ATTEST, ys seeing,                                   YAMHILL        COUNTY        BOARD         OF    COMMISSIONERS
+                        ie
+
+                                                          Dl on Q                         ade is
+                                                     Chairman                     DEBI         OWENS
+
+                                                          ——— a
+                                                     Commissioner                 DENNIS         L.    GOECKS
+
+FORM_APPROVED                       3
+
+      COT                                                 (Not     Available            for     Signature)
+Son            GRAY7               fj                Commissioner                 TED LOPUSZYNSKI
+Yamhitl        Cou            Counsel
+
+                                                                                                ORDINANCE          552    —   Page     2
+                                                                                                      FILK OO PACE 289
+                                               EXHIBIT           "A"
+                                        Ordinance 552
+                                   Findings for Approval
+
+BOARD
+HEARING:              April       7,     1993
+
+FINAL
+DECISION:             April       21,        1993
+
+DOCKET:               PAZ-1-93
+
+REQUEST:              Comprehensive Plan map                           amendment from Agri-
+                      culture/Forestry Large                           Holding to Quarry and                              zone
+                      change       from        AF-20        Agriculture/Forestry                                to    MR-1
+                      Mineral           Resource for expansion of an existing
+                      quarry.            Based on stipulation of applicant at
+                      Board       hearing            on    April        7,    1993,        zone        change
+                      request          was     modified           to     MR-2.
+
+APPLICANT :           Martin       & Wright               Paving       Co.
+
+TAX   LOTS:           5423-1400,  1401 and 1402 and 5424-1001.   The
+                      Board’s decision as set forth in this ordinance
+                      approved the request only to the 1.18 acre portion
+                      of Tax Lots 5423-1400 and 1401 identified in.
+                      Exhibit "B" to this ordinance.   The subject 1.18
+                      acres       is     located           to    the     northwest              of     the           existing
+                      MR-1       property            and    is    known           as    the     "Sly            property."
+                      Except       as     to    the        property           affected           by            this
+                      ordinance,              the     remainder              of    the    application                    was
+                      remanded           to    Planning           Commission.
+
+LOCATION:             North       of     and    adjacent           to        Amity       Road         (State           Highway
+                      153)       approximately                  three        miles       east         of        Amity.
+
+PROPERTY      OWNERSHIP:
+
+                      The tax lots on                     the east           side are owned by the
+                      applicant.  The                     property           on the west side is owned
+                      by     Richard          Sly.
+
+FINDINGS      FOR   APPROVAL:
+
+A.    Background      Facts
+
+Le     Lot Size:  The tax lots on the east side total   13.5 acres,
+       and the property on the west side is 1.18 acres,    for a total
+       of 14.68 acres.   This decision changes the plan and zone
+       designation         for    the     Sly       property            (1.18          acres)         only.
+
+                                                                                  EXHIBIT       "A™        —    ORDINANCE 552
+                                                                                                                        Page 1
+                                                                                                 rin OO race 290
+
+     2.   Access:             Amity       Road,      a    state       highway
+
+     3.   On-Site         Land Uses   The subject property is in the Amity
+          Hills.          The property is on a south-facing slope with an
+          elevation            of    about        400     feet     above      sea     level      at       Amity           road,
+          rising         to    over       600     feet     at    the    northwest           corner.                 The    land
+          is   in    a    fairly          narrow         valley.        The    areas        proposed                for    the
+          zone change are in woodlot use                                on    the east and unmanaged
+          scrub land on the west.   There                               is    an existing quarry on Tax
+          Lot 5423-1500  (identified in the county inventory as the
+          Anderson-A site), which is not in the area subject to this
+          request.
+
+          Surrounding Land Use:   The area is in mixed farm and forest
+          use.   Farm uses are predominantly livestock in the immediate
+          vicinity, but orchards and field crops are raised in the
+          general  area. On the east side. adjacent                                          use is woodlot.
+          There are 14 dwellings within one-quarter                                          mile and three
+          within         500       feet    of     the     proposed         zone      change      area,              according
+          to   the       county       address            map.      There      is     land     about               1000    feet
+          north      of       the    existing            quarry       site    zoned        for   mineral                 resource
+          use, but staff                  does not         know whether              the    site         is        currently
+          being utilized                  for rock         extraction.
+
+          Surrounding  Zoning:  All adjacent land is zoned AF-20
+          Agriculture/Forestry.    There is farmland in the area zoned
+          EF-40 Exclusive Farm Use.     The quarry site to the north is
+          zoned MR-1 Mineral Resource.
+
+          Soils:  Sheet 51 of the Yamhill County                                       Soil Survey indicates
+          that the soils on the subject property                                       are comprised of a
+          mixture of soils, the most predominant                                       being Stony land
+          (Class VI).  Others soils are Jory and                                       Yamhill  (Class IV                         due
+          to   slopes          of    over       20   percent).
+
+          Taxes:          Farm deferral,                  except       Tax    Lot     5424-1001,                   which    is     on
+          forest         deferral.
+
+          The proposed expansion of the site includes new excavation
+          on most of the proposed   zone-change area.  The south end of
+          Tax Lot 5424-1001  is proposed for stock piling of crushed
+          rock.          Crushing          activities            will    remain        in    the         present
+          location            in    the    bottom         of    the    old    pit.
+
+          The existing quarry is identified on the acknowledged county
+          inventory of aggregate sites as the Anderson-A site (No.
+          65).   The analysis of the site during the inventory process
+          (Exhibit C) concluded,   "This quarry site has a stable record
+          of good quality rock production"  and indicated                                                 estimated
+          rock reserves  at 2,000,000 cubic yards at that                                                 time  (Exhibit
+          C, page 2).   The analysis also anticipated the                                                 need for
+
+‘)                                                                                   EXHIBIT       "A"        —    ORDINANCE   552
+                                                                                                                           Page 2
+                                                                                                 rue DO vce 294
+      additional  land to the north                               of    the high wall  (Exhibit                              C,
+      pages  2 and 3) ; the portion                               of    this request to the
+      northwest          of    the       existing           MR-zoned          land       includes             that          area.
+
+10.   During       the    April          7,     1993       hearing,          the    applicant                indicated              a
+      willingness to rezone the                             existing quarry site to MR-2   (and
+      thus prohibit a hot-batch                             operation on site)  and decrease
+      the    area    of       expansion           on       the    property          to     the     east.               County
+      legal counsel advised the Board that the Board had no
+      jurisdiction in the present proceeding to change the zone
+      designation of the existing MR-1 quarry, and that another
+      application             would       be     necessary.                 The    Board        elected            to
+      consider       the       request           as    the       the    Sly       property,             but       to    remand
+      consideration             of the remainder of the                             application to                      be
+      considered by             the planning commission                             simultaneously                      with
+      consideration of a new application by                                         the     applicant                  to
+      rezone the existing quarry to MR-2.
+
+Bs   Oregon     Revised         Statute           and       Administrative                 Rule         Provisions                 and
+Analysis
+
+1.    Both     areas      of    property              subject          to    this     request            are       currently
+      zoned     AF-20,         an       exclusive           farm       use    zone.         Oregon            Revised
+      Statute (ORS) 215.298(2) requires that a permit for
+      aggregate mining in exclusive farm use zones be issued only
+      for "a site included on the inventory in an acknowledged
+      comprehensive             plan."            The       proposal          is     for    expansion                  of    the
+      operation at an inventoried site (Finding A.9).   The new
+      area is not currently part of the inventory site.    The Plan
+      amendment portion of this request is to add the new acreage
+      to the county aggregate inventory.   The zone change is not
+      required;   the applicant decided to request the zone change
+      along     with      the       Plan       amendment           rather          than     pursue            a
+      conditional             use       permit.
+
+      Statewide          Goal       5    reads:
+
+              To    conserve             open     space          and    protect          natural             and       scenic
+              resources.
+
+      Mineral and             aggregate resources are specifically recognized
+      in the Goal             as being a natural resource to be identified and
+      protected.              Oregon Administrative Rules  (OAR) Chapter 660,
+      Division 16, describes the requirements    for complying                                                              with
+      statewide Goal 5.   This division requires    that Goal 5
+      resources be inventoried by the county and determined                                                                 to    be
+      "significant"             or       "not     significant"                based        on    the         "location,
+      quality,       and       quantity"              of    the    resource           site.             Only
+      significant             sites       are     required             to    be    placed        on      the
+      inventory.   The specific rule provisions  that address   these
+      requirements  are considered in the following   findings.
+
+                                                                                    EXHIBIT       "A™    —    ORDINANCE            552
+                                                                                                                             Page       3
+                                                                                                          FILK        00        Pack     292
+
+OAR    660-16-000(2) requires                         determination of the                                    location of
+the    resource.   Most of the                        area subject to this                                    request is
+proposed  for            excavation.                 The     Sly property was predicted                                           to
+be needed in             1981 at the                time     of the earlier inventory.
+
+OAR 660-16-000(2) also requires a determination of the
+quality and quantity of the resource.    This analysis has
+been accomplished for the existing quarry (see Exhibit C to
+application).   When the original inventory was completed,
+whether       a    site          was    considered           "significant"                  was               not     stated
+using    that term.                    However, from the range                           of actions taken,
+it is    possible to                   infer the intent of the                           decision-makers.
+The    following             designations             were         given       to     various                  aggregate
+sites:
+
+      Quarry       plan          designation/Mineral                     Resource           zone
+      Quarry       plan          designation/Exclusive                     Farm          Use         zone
+      Agriculture/Forestry                         plan     designation/Exclusive                                    Farm       Use
+      zone
+
+It    appears          the       first     two      categories            were        considered
+significant, and the                       final group not significant.                                             The
+Anderson-A quarry is                       in the first group.  The site                                            was
+estimated          to    have          2,000,000           cubic     yards          in    reserve                    10    years
+ago     (Finding         A.9);          about       490,000         cubic        yards          had            been
+removed in the 30 years before analysis.    It is unlikely
+that those reserves are contained entirely within the
+existing MR-zoned area because the line was drawn fairly
+tightly around the existing operation.   This,   combined with
+the forecast in 1981 that expansion to the north would be
+required,          leads          staff       to    the     finding        that          there                is
+significant             aggregate             resource on the                  portion               of        the        zone
+change area             northwest             of the existing                  quarry.
+
+OAR    660-16-005                requires          identification                of      uses         that            may
+conflict          with       a    significant              inventoried              site.             During               the
+original          analysis,             the    only       potential            conflicting                         use
+identified was residential use (see application’s Exhibit C,
+page 1).   That appears to still be the case.    No significant
+farming activity takes place immediately adjacent to the
+subject property.    Rock crushing will take place in the same
+location as it is currently.   The new location of excavation
+would be closer to some residences,   but farther from others.
+The earlier analysis  indicated there had been complaints   to
+the    county          regarding           heavy      traffic            and     blasting                     but     none
+recently          at    that       time.           There     have        been       no    complaints                       in
+recent       years.
+
+OAR    660-16-005(2)                   requires       that,         if    conflicting                         uses        are
+identified,  the                  economic,  social, environmental, and energy
+consequences  of                  the conflicting uses must be determined.
+
+                                                                               EXHIBIT         "A"        —    ORDINANCE           552
+                                                                                                                            Page       4
+                                                                                                       in D0 vce 293
+This     requires           review           of    these        consequences               of         the     quarry         on
+the     conflicting              use     and       of    the     conflicting               use         on     the
+quarry.
+
+(a)      Impacts           of    residential              use        on    the     revised             quarry
+operation
+
+Regarding            the    economic              consequences              of     residential                 use      on
+the     quarry,           the    operation              may     be    required           to      run        ina
+different manner than if no residences were nearby,    but that
+situation would be the same with or without the requested
+zone change.   No environmental or energy consequences    of
+residential use on the quarry operation have been
+identified.    The social impacts of residential use include
+possible complaints regarding the method of operation of the
+quarry (e.g. early hour noise, excessive dust, truck
+traffic).   Again, these impacts are likely to be the same
+with or without the requested zone change and alteration of
+the operation.
+
+(b)      Impacts           of    the     revised          quarry           operation             on     residential
+use
+
+No     energy        or    economic           impacts           have       been     identified.
+Regarding            social          (including           aesthetic)               impacts,             the       MR    zone
+requires buffering vegetation and setbacks from zone
+boundaries and existing dwellings.  Noise and dust impacts
+will be substantially the same as the current operation
+produces.   Regarding environmental effects, one reason for
+the requested zone change indicated to staff is that in
+order to quarry more rock from the existing area,  the
+operator         would          be    required           to     go    below        the     groundwater
+table,  and thus potentially impact water resources.   Some
+dewatering is already taking place,  and the water is or was
+being disposed of into a county road ditch.    DOGAMI has
+already instructed the operator to revise their water
+disposal practices.
+
+OAR 660-16-010 requires the county to develop a program to
+resolve conflicts by (1) protecting the resource site,  (2)
+allowing         conflicting                 uses       fully,        or     (3)    limiting                conflicting
+uses.          The    county,          during           the     original           aggregate                inventory
+process,  protected  some resource sites                                           via the MR                 zone
+designation,   and allowed other uses in                                           some cases                 by zoning
+the     site     Exclusive             Farm        Use        (see    also       Finding              B.4).       The
+decision         of       the    county           was    to     protect          this      quarry             from      on-
+site     conflicting                 uses.
+
+Oregon         Revised          Statutes           Section           215.296        requires                that       the
+use     not:
+
+                                                                                 EXHIBIT        "A"     -— ORDINANCE   552
+                                                                                                                   Page 5
+                                                                                                  FILM     DO        Pate     294
+
+      (a)    Force     a     significant               change          in    accepted        farming
+             practices             on     surrounding             lands          devoted     to      farm       or
+             forest         use;        or
+
+      (b)    Significantly                   increase           the    cost       of    accepted          farm        or
+             forest         practices            on    surrounding                lands     devoted            to     farm
+             or     forest         use.
+
+      The   letter     from         the       owner        of    the    northwestern               property
+      proposed for zone change (see                               Exhibit D to application)
+      stated that he runs cattle on                               his property, does not use                                the
+      subject       land,     and         does       not    object          to    the    request.              The
+      property on the east is surrounded                                     by forest           land.  Buffer
+      requirements in the MR zone should                                     alleviate           any potential
+      conflict with these criteria.
+
+C.   Ordinance       Provisions               and     Analysis
+
+1.    The   zone     change         portion           of    the       subject          request      must        comply
+      with the standards and criteria in                                     the Yamhill County Zoning
+      Ordinance (YCZO) Section 1208.02.                                      These provisions are:
+
+      (a)    That the proposed                       change is consistent with the goals,
+             policies, and any                       other applicable provisions of the
+             Comprehensive                   Plan.
+
+      (b)    That there is an existing demonstrable need for the
+             particular uses allowed by the requested zone, con-
+             sidering the importance of such uses to the citizenry
+             or the economy of the area, the existing market demand
+             which such uses will satisfy, and the availability and
+             location of other lands                             so zoned and             their          suitability
+             for the uses allowed by                             the zone.
+
+      (c)    That the proposed change is appropriate considering                                                            the
+             surrounding land uses,  the density and pattern of
+             development                in    the     area,       any       changes       which          may    have
+             occurred in the vicinity to support the proposed amend-
+             ment and the availability of utilities and services
+             likely to be needed by the anticipated uses in the
+             proposed district.
+
+      (d)    That other lands in the county already designated  for
+             the proposed use are either unavailable or not as well-
+             suited for the anticipated uses due to location,  size,
+             or    other      factors.
+
+      (e)    That     the     amendment               is    consistent             with     the     current
+             Oregon Administrative                          Rules       for      exceptions,              if
+             applicable.
+
+                                                                                  EXHIBIT    "A"     —    ORDINANCE          552
+                                                                                                                       Page    6
+                                                                                     FILH      5D     PACE         295
+
+These    criteria        are    addressed,           respectively,             in     Findings               C.2
+through      C.6,     below.
+
+Regarding       Comprehensive Plan goals and policies,  the land is
+currently       planned and zoned for farm use.   Policy II.A.l.a
+states:
+
+        Yamhill County will provide for preservation of                                              farm
+        lands through appropriate  zoning, recognizing
+        comparative           economic        returns     to    agriculture                   and
+        alternative uses,  changing ownership patterns   and
+        management practices,   changing market conditions   for
+        agricultural           produce,        and    various      financial                  incentives.
+
+In    addition,       Policy        II.A.2.a     states:
+
+        Yamhill County will continue to preserve areas for                                                   farm
+        use which exhibit Class I through IV soils as
+        identified in the Capability Classification System                                                   of
+        the U.S. Soil Conservation Service.
+
+The    sites    are    predominantly            Class     VI    soil,     although                  there
+are areas       of    Class     IV    soil.      However,        Policies              II.F.1l.a             and
+b states
+
+        a.     Mineral        and    aggregate        resources         will         be       recognized
+        as a nonrenewable resource important to the growth and
+        development of the county and the surrounding region.
+
+        b.   Yamhill County will continue to cooperate with
+        state and federal agencies within the region to
+        identify lands that are,                     can,  or    should be utilized                           for
+        sources or processing of                     mineral     aggregates;  will
+        determine present and future needs;                              and         will formulate
+        and implement necessary measures for                             the         protection of
+        such sources or sites;  and sites that are found to                                                   be
+        compatible with the Plan goals will be recognized
+        through appropriate plan designations and zone
+        districts        on    the    Plan     and    zone     maps.
+
+The Comprehensive Plan commits the county to protect both
+farm and aggregate resources,    so a determination regarding
+which use should prevail   in this circumstance must be made.
+The inventory findings   state there is a considerable
+quantity of rock at the site suitable    for fill,  embankment,
+and topping (Exhibit C,                 page 2).  The areas                that could                  be
+considered farmland are                 steep (Finding A.6)                and mostly
+wooded.   Livestock graze the Sly property,  but it is not
+considered high quality farm ground.    The good quality of
+the rock compared to the relatively low quality of the land
+
+                                                                EXHIBIT        "A"        —   ORDINANCE           552
+                                                                                                       Page         7
+                                                                                                      FILA OO #ACE 256
+
+      for farming make                it reasonable               for the Commission                          to   find
+      that the balance                tips in favor               of the aggregate.
+
+      Regarding criterion  (b), the application states that
+      alternative sites are not available   (Exhibit A, page 5,
+      Section I).  The applicant stated that their needs are site-
+      specific, and alluded to the                              site     having          a certain             type      of
+      rock not readily available.
+
+      Regarding        the     appropriateness                   of    the        request,            the     northwest
+      portion of the zone change is a relatively small expansion
+      at the existing quarry site.  This expansion will permit
+      benching of a high wall in the quarry, making it safer for
+      workers and residents of the adjacent property.   Much of the
+      available rock is apparently located in the eastern portion
+      of the zone-change area.                            The fact the quarry already exists
+      without apparent conflict                           also provides evidence the use is
+      appropriate.
+
+      Regarding criterion                 (d), since              the proposal is to                          expand      the
+      existing quarry,  it                is perhaps              better-suited than
+      alternative            sites     where        no     quarry        exists.              The      application
+      states,     "There         are    no     other        sites           in    the    county            which       would
+      accomplish        this         need."         The     need       referred            to    is         "spec.-
+      quality     rock"        but     the     special           qualities              are     not        described.
+
+      Regarding        criterion             (e),    no     exception              is    required.
+eed
+
+      YCZO Section            404.09     lists zone change                         criteria            specific          to
+      the MR zone.             These     criteria are:
+
+      (a)     That sufficient                 quality and quantity                         of    mineral
+              resource exists                 at the proposed site                         to    fulfill           a
+              market         need.
+
+      (b)     That approval of the zone change will not                                                cause
+              immediate or long-term land-use conflicts                                                that cannot
+              be satisfactorily mitigated.      If conflicts are
+              identified,   findings   shall be made concerning the
+              economic,   social,  environmental,   and energy
+              consequences    of allowing the MR use;    anda
+              determination shall                    be made that the benefits to the
+              public outweigh the                    detriments suffered as a result of
+              said conflict.
+
+      Based on the information in the Goal 5 analysis                                                      (Exhibit       C),
+      the request complies with criterion (a) above.
+
+      Criterion        (b)     is     similar        to    the        OAR        requirements               discussed
+      in    Findings     B.5         through        B.7    of     this           report.         The        economic,
+
+                                                                                  EXHIBIT       "A"    —    ORDINANCE   552
+                                                                                                                    Page 8
+                                                                                                     FILK     AD        PACE     297
+
+          social,        environmental,  and energy consequences                                     of      the
+          request        are addressed in Finding B.6.
+
+    10.   YCZO     Section       404.07           lists     standards         that      operators             of
+          aggregate quarries within                         the MR zones are required to
+          observe.   These operating                        standards regulate setbacks,
+          screening,  on-site roads,                        blasting hours,  and reclamation.
+          Noise and           dust    standards rely on state regulations.   These
+          standards           will    apply to the new area, should the request be
+          approved.
+
+    11.   The    YCZO contains two Mineral Resource zones:  the MR-1 and
+          the    MR-2.   The applicant initially requested the MR-1 zone,
+          but    stipulated to a modification of the request to MR-2 at
+          the    April 7, 1993 hearing.  The existing site                                          is zoned            MR-1.
+          The    only distinction between the two zones is                                          that the            MR-1
+          allows        "portable          concrete         batching       or    portable            hot-mix
+          batching        plants"          while     the        MR-2   does     not.        ORS      215.301
+          states:
+
+                   No    application              shall     be    approved       to     allow        batching             and
+                   blending          of    mineral         and    aggregate          into     asphalt          cement
+                   within       two       miles     of     a planted       vineyard....
+
+          The quarry is within two miles of vineyards in the Amity
+          Hills, according to the map Vineyards of Yamhill County
+          (Oregon Grape Press,  1990).
+
+    CONCLUSIONS         FOR    APPROVAL:
+
+    1.    The request is for an amendment to the Yamhill County
+          Comprehensive Plan map from Agriculture/Forestry Large
+          Holding to Quarry and a zone change from AF-20
+          Agriculture/Forestry to MR Mineral Resource.   The Board
+          believes  the plan amendment/zone change is presently
+          appropriate for the Sly property only.
+
+          The existing quarry is a significant aggregate resource
+          listed on the county inventory of aggregate sites.
+
+          The    inventory           site    does         not    include      the      area    subject             to     this
+          request.
+
+          The economic, social,  environmental, and energy                                               consequences
+          of approval of the request have been considered                                                and have
+          been found to support the Board’s action.
+
+          Although the request apparently conflicts with the Yamhill
+          County Comprehensive Plan goal of conserving   farmland, the
+          beneficial  aspects of the project considering other Plan
+
+                                                                                EXHIBIT       "A"    —      ORDINANCE          552
+C
+
+                                                                                                                        Page     9
+                                                                                            FILN OOD age 28
+
+              policies balance the negative effects.                           The request is
+              consistent with the intent and purposes                          of the goals and
+              policies  of the Plan when considered as                         a whole.
+
+      6.      The request is appropriate  insofar as the quarry                                is already
+              operating, and impacts will be substantially the                                 same as
+              existing conditions.
+
+      Te      There are no areas that will accommodate                          the    proposed       uses
+              that do not require a zone change.
+
+      8.      The   Comprehensive        Plan    recognizes         a   need    to    develop
+              aggregate       resources.
+
+      9.      The site is within two miles                  of planted vineyards,  so the
+              MR-1 zone is inappropriate.                   Also, the applicant has
+              stipulated to a modification                  of the application to MR-2.
+
+      DECISION:
+
+      The   Board    grants     a plan     map   amendment         from   Agriculture/Forestry
+      Large    Holding     to   Quarry     and   a   zone    map    amendment         from    AF-20    to
+      MR-2 on that 1.18 acre portion of Tax Lots 5423-1400 and 1401                                          as
+      identified on the attached Exhibit "B".   The remainder of the
+      planning docket is remanded to the Yamhill County Planning
+      Commission      in   accordance       with     the    implementing         ordinance.
+
+7.)                                                                       EXHIBIT     "A"    — ORDINANCE     552
+a                                                                                                     Page        10
+                                                                                   Fix OO race 2G
+                      EXHIBIT        "B"    FOR    ORDINANCE                 552
+
+                  COMPREHENSIVE         PLAN   AND ZONING     MAP      AMENDMENT
+
+                           TO CHANGE THE COMPREHENSIVE PLAN
+                                  MAP DESIGNATION FROM
+                          "AGRICULTURE/FORETRY LARGE HOLDING"
+                                TO "QUARRY" NAD THE ZONE
+                            FROM AF-20 AGRICULTURE/FORESTRY
+                                TO MR-2 MINERAL RESOURCE
+
+                                                                                           AN
+                                                                                 Scale - 1"     = 200’
+
+                                                Tax Lot 5423-1500
+
+                                                               Amity    Road    (State Hwy.     153)
+
+     Shaded   area orily is subject to amendment
+
+2)   Map   prepared   by Yamhill   County   Department   of Planning   and     Development
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.2% of
+the word sequence, and on 74.3% of the figures. Dictionary-recognizable words: 95.8%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

@@ -1,0 +1,6034 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord951-pdf
+title: 'ORD951-PDF'
+doc_type: ordinance
+citation: 'ORD951-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/20512/ORD951-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 4d6bd05019234575bbc04c071a6c031bde16b540d571679c5a22ab77b31d87c0
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 192.610
+    - ORS 442.015
+    - ORS 677.100
+    - ORS 682.015
+    - ORS 682.025
+    - ORS 682.031
+    - ORS 682.036
+    - ORS 682.062
+    - OAR 333-255-0060
+    - OAR 333-255-0070
+    - OAR 333-260-0000
+    - OAR 333-260-0020
+    - OAR 411-054-0005
+    - OAR 847-035-0030
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Yamhill County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# ORD951-PDF (ORD951-PDF)
+
+## At a glance
+
+ORD951-PDF — orders of Yamhill County. 232 pages.
+
+## Full text
+
+Yamhill County Ordinance No. 951
+IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+FOR
+ THE COUNTY OF YAMHILL
+SI
+TTING FOR THE TRANSACTION OF COUNTY BUSINESS
+In
+ the Matter of Repealing Ordinance No 946,
+and Adopting Yamhill County Code Chapter
+5.05 as the Yamhill County Ambulance
+Service Code; and Declaring an Emergency
+ORDI
+NANCE 951
+THE
+ BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board) sat for
+the transaction of county business on May 7, 2026, Commissioners K it Johnston, Mary Starrett ,
+and David “Bubba” King being present.
+THE
+ BOARD ADOPTS THE FOLLOWING FINDINGS:
+WHE
+REAS, ORS 682.062 (1) provides that each county shall develop a plan for the county
+or two or more contiguous counties may develop a plan r elating to the need for and coordination
+of ambulance services and establish one or more ambulance service areas consistent with the plan
+for the efficient and effective provision of ambulance services.
+WH
+EREAS, On March 6, 2003, the Board adopted Ordinance 723, the Yamhill County
+Ambulance Service Ordinance (“ASO”) , requiring the establishment of an Ambulance Service
+Area Advisory Committee (“the ASA Committee”) to develop an Ambulance Service Area Plan
+WH
+EREAS, on December 21, 2004, the Board adopted Ordinance 751, which amended
+Ordinance 723 and which adopted the official Yamhill County Ambulance Service Area Plan,
+now codified in the Yamhill County Code under Title 5, YCC 5.05, “Yamhill County
+Ambulance Service Code” (“ASA Code”).
+WHE
+REAS, in accordance with ORS 682 and OAR 333-260-0000 through 333-260-
+0070, in December of 2023 Yamhill County submitted its proposed amended Yamhill County
+Ambulance Service Area Plan to the Oregon Health Authority (“OHA”) for review and approval
+and, following revisions and modifications as requested by OHA, submitted its most recent
+amended Yamhill County Ambulance Service Area Plan to OHA on August 22, 2025.
+WH
+EREAS, on October 1,  2025, the ASA Committee recommended approval of the
+amended Ambulance Service Area Plan and amendment of the ASA Code to the Board.
+WH
+EREAS, on November 24, 2025, Yamhill County received written conditional
+approval from OHA of its amended Ambulance Service Area Plan.
+Yamhill County Ordinance No. 951
+WHEREAS, on February 12, 2026, the Board adopted Ordinance 946 repealing the prior
+ASA Code and adopting the amended Ambulance Service Area Plan and amendment of the ASA
+Code as recommended by the ASA Committee.
+W
+HEREAS, it has since been determined that, due to a scrivener’s error, the amended
+ASA Code adopted under Ordinance 946 did not include certain information recommended by
+the ASA Committee and required by OHA but that this required information is now included in
+the ASA Code attached hereto as Exhibit A; and now, therefore
+T
+HE BOARD ORDAINS AS FOLLOWS:
+S
+ection 1. Repeal of Existing ASA Code. The ASA Code, codified as Yamhill County
+Code Chapter 5.05 under Ordinance No. 946, is hereby repealed in its entirety.
+S
+ection 2. Adoption of Codified ASA Code. The codified ASA Code attached hereto as
+Exhibit A is hereby adopted and shall be codified as Yamhill County Code Chapter 5.05.
+S
+ection 3. Severability. Invalidity of any section or part of a section of this Ordinance or
+the ASA Code shall not affect the validity of the remaining sections or parts of sections thereto.
+S
+ection 4. Declaring an Emergency. This Ordinance being necessary for the health,
+safety, and welfare of the citizens of Yamhill County, and an emergency having been declared to
+exist, is effective immediately.
+DAT
+ED this 7 day of May, 2026, at McMinnville, Oregon.
+YAM
+HILL COUNTY BOARD OF COMMISSIONERS
+A
+TTEST AYE NAY
+________________________________
+ _X_ ____
+KERI HINTON Chair KIT JOHNSTON
+County Clerk
+B
+y:______________________ ________________________________ _X_ ____
+Deputy CAROLINA ROOK   Commissioner MARY STARRETT
+F
+ORM APPROVED BY:
+___________________________
+ ________________________________ _X_ ____
+Kaleb Raever Commissioner  DAVID “BUBBA” KING
+Yamhill County Counsel
+Yamhill County Ordinance No. 951
+Exhibit A
+(
+see attached)
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 1 of 29
+TABLE OF CONTENTS
+Section Title
+5.05.01 SHORT TITLE
+5.05.02 AUTHORITY
+5.05.03 POLICY AND PURPOSE; ADOPTION OF AMBULANCE SERVICE AREA PLAN
+5.05.04 OVERVIEW OF COUNTY (DEMOGRAPHIC AND GEOGRAPHIC DESCRIPTION)
+5.05.05 DEFINITIONS
+5.05.06 BOUNDARIES; EMERGENCY MEDICAL SERVICE ACTIVITY
+5.05.07 RESPONSE TIME ZONES; REPORTING STANDARDS
+5.05.08 RESPONSE TIME REPORTING AND ACCOUNTABILITY
+5.05.09 ASA BOUNDARIES NARRATIVE DESCRIPTION
+5.05.10 MAPS DEPICTING “9-1-1,” FIRE DI STRICTS, AND INCORPORATED CITIES
+5.05.11 ALTERNATIVES TO REDUCE RESPONSE TIMES
+5.05.12 9-1-1 DISPATCHED CALLS
+5.05.13 PRE-ARRANGED NON-EMERGENCY TRANSFERS AND INTER-FACILITY TRANSFERS
+5.05.14 NOTIFICATION AND RESPONSE TIMES
+5.05.15 LEVEL OF CARE
+5.05.16 PERSONNEL
+5.05.17 MEDICAL SUPERVISION
+5.05.18 AMBULANCE SERVICE LICENSE AND PATIENT CARE EQUIPMENT
+5.05.19 VEHICLES
+5.05.20 TRAINING
+5.05.21 QUALITY IMPROVEMENT; STRUCTURE; PROCESS
+5.05.22 ANNUAL REVIEW OF PLAN AND PROVIDERS; OTHER BUSINESS
+5.05.23 CONFIDENTIALITY
+5.05.24 QUALITY IMPROVEMENT; PROBLEM RESOLUTION
+5.05.25 SANCTIONS; SUSPENSION, MODIFICATION, OR REVOCATION OF A COUNTY ASA
+5.05.26 ORDINANCE VIOLATION; NUISANCE
+5.05.27 ENTITY THAT SHALL ADMINISTER AND REVISE THE ASA PLAN
+5.05.28 COMPLAINT REVIEW PROCESS
+5.05.29 MUTUAL AID AGREEMENTS
+5.05.30 CONTRACTOR AGREEMENTS
+5.05.31 DISASTER RESPONSE
+5.05.32 MASS CASUALTY INCIDENT PLAN
+YAMHILL COUNTY CODE
+TITLE 5: HEALTH AND SAFETY
+Chapter 5.05: Yamhill County Ambulance Service Code
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 2 of 29
+LEGISLATIVE HISTORY
+APPENDIX A- Yamhill County Ambulance Service Area Plan
+APPENDIX B- Yamhill County Ambulance Service Area Boundary Map
+APPENDIX C- EMS Volume Location by Incident Map; 2021
+APPENDIX D- EMS Volume Heat Map; 2021
+APPENDIX E- EMS Volume Distribution Graph
+APPENDIX F- Yamhill County Response Time Zones Map
+APPENDIX G- EMS Response Time Standards Chart
+APPENDIX H-Yamhill County Incorporated Cities Map
+APPENDIX I- Yamhill County Fire District Map
+APPENDIX J- Yamhill County Fire Station & Fire Stations with EMS Assets Map
+APPENDIX K- Recommended Minimum EMS Ambulance Unit Staffing by ASA (2020 Data) to Meet 90%
+Response Time Standard Table
+APPENDIX L Mass Casualty Incident Plan
+APPENDIX M County Emergency Operations Plan
+5.05.01 Title.
+a) Title. This Ordinance shall be known as the Yamh ill County Ambulance Service Ordinance and may be so
+cited and pled.
+[ADOPTED VIA ORDINANCE NO. XXX eff XX/XX/XX]
+5.05.02 Authority
+a) This Chapter is adopted pursuant to ORS 682.031, ORS 682.036, and ORS 682.062, and is implemented
+in accordance with OAR 333-260-0020 through 333-260-0060. These statutes and administrative rules
+require each county to develop, adopt, and maintain an Ambulance Service Area (ASA) Plan, to establish
+one or more ambulance service areas for the efficient and effective provision of ambulance services, and
+to regulate and coordinate ambulance operations w ithin the County subject to approval by the Oregon
+Health Authority.
+5.05.03 Policy and Purpose; Adoption of Plan
+a) Policy and Purpose. The Yamhill County Board of Commissioners finds:
+(i.)  That ORS 682.031 requires Yamh ill County to develop and adopt a plan for the county, or jointly
+with one or more contiguous counties, relating to the need for and coordination of ambulance
+services, and to establish one or more Ambulance Service Areas (ASAs) consistent with that
+plan to ensure the efficient and effective provision of emergency medical services and
+ambulance transportation within the County.
+(ii.)  That this Chapter, together with the Yamh ill County Ambulance Service Area Plan (ASA Plan),
+constitutes the comprehensive plan for ambulan ce and emergency medical services within
+Yamhill County. The ASA Plan establishes the County’s Ambulance Service Areas (ASAs),
+defines the standards and procedures for the selection and regulation of ASA Providers, and
+formalizes the structure and responsibilities of the Ambulance Service Area Advisory
+Committee to ensure efficient, effective, a nd coordinated delivery of emergency medical
+services throughout the County.
+(iii.)  That state law, specifically ORS 682.031 and OAR 333-260-0020, requires Yamhill County to
+develop and adopt an Ambulance Service Area Plan that coordinates ambulance services
+within the County while recognizing the author ity of incorporated cities and rural fire
+protection districts to operate and regulate emergency medical services within their respective
+jurisdictions, subject to the County’s ASA Plan.
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 3 of 29
+(iv.) That the provision of coordinated, efficient, a nd effective ambulance services under the Yamhill
+County ASA Plan shall be accomplished primarily through intergovernmental cooperation and
+system coordination. Yamhill County shall pr omote voluntary compliance with the ASA
+Plan and may employ enforcement actions or other remedies only when cooperative
+measures are insufficient to ensure compliance or protect the public interest.
+b) Adoption of ASA Plan. The Yamhill County Ambulance Service Area Plan, attached and incorporated
+as Appendix A, is hereby adopted as the official ambulance service area plan for Yamhill County.
+The Plan shall be forwarded to the Oregon Department of Human Services, Health Division, for
+approval. Future amendments to the Plan may be made by Board Order with notice to the Oregon
+Department of Human Services, Health Division.
+5.05.04 Overview of County (Demographic and Geographic Description)
+a) County Background. Yamhill County is one of 36 counties in the State of Oregon. Yamhill County’s
+name derives from the Yamhelas Indians, members of the Native American Kalapuya Tribe. It is
+located in the Willamette Valley and is part of the Portland, Oregon, Metropolitan Statistical Area
+(MSA).
+b) History. The Yamhill District (l ater becoming county) was established in 1843, five years before the
+Oregon Territory was created. It originally spread over 12,000 square miles, which were eventually
+partitioned into twelve present counties. Today, Yamhill County consists of 718 square miles. The
+County seat of government is located in McMinnville.
+c) Geography. The county is composed of a total area of 718 square miles, of which 716 square miles is
+land with the remaining 2.5 square miles being water. It is the fifth-smallest county in Oregon by
+area. The tallest mountain in the county is Trask Mountain in the northwest corner of the county.
+The transportation network for Yamhill County is dominated by a road system of northeast-to-
+southwest and north-to-south paved highways that are part of the state highway transportation
+system. Local travel is by secondary and county roads that are significantly influenced by drainage
+patterns of rivers and mountains in the county.
+d) Adjacent Counties. Adjacent counties include Washington County (north), Clackamas County (east),
+Marion County (southeast), Polk County (south), and Tillamook (west).
+e) Demographics. Historical population data for Yamhill County is as follows: Census year 1860
+population 3,245 with no percent change; 1870 population 5,012 with a 54.5 percent change; 1880
+population 7,945 with a 58.5 percent change; 1890 population 10,692 with a 34.6 percent change;
+1900 population 13,420 with a 25.5 percent change; 1910 population 18,285 with a 36.3 percent
+change; 1920 population 20,529 with a 2.3 percent change; 1930 population 22,036 with a 7.3
+percent change; 1940 population 26,336 with a 19.5 percent change; 1950 population 33,484 with a
+27.1 percent change; 1960 population 32,478 with a
+ change; 1970 population 40,213
+with a 23.8 percent change; 1980 population 55,332 with a 37.6 percent change; 1990 population
+65,551 with an 18.5 percent change; 2000 population 84,992 with a 29.7 percent change; 2010
+population 99,193 with a 16.7 percent change; 2020 population 107,722 with an 8.6 percent change;
+and 2021 estimated population 108,239 with less than one percent change.
+f) Economy. Yamhill County ranks seventh out of Oregon's thirty-six counties in annual market value
+of its agricultural production. This agricultural production includes wheat, barley, horticulture, and
+dairy farming, with 13,201 acres in 1997 planted in orchards. One-third of the county is covered
+with commercial timber, and the economic mainstay of the western part of the county is logging and
+timber products. Yamhill County is a significant focus of Oregon's wine industry, having the largest
+area of any Oregon county planted in vineyards. Six of the state's American Viticultural Areas are
+wholly or partly in the county: Chehalem Mountains AVA, Dundee Hills AVA, Eola-Amity Hills
+AVA, McMinnville AVA, Ribbon Ridge AVA, and Yamhill-Carlton District AVA. Over 80
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 4 of 29
+wineries and 200 vineyards represent the largest concentration of wine growers and producers in any
+county in the state.
+g) Education. Yamhill County Institutions of Higher Education (IHEs) include Linfield University,
+George Fox University, the Chemeketa Community College Yamhill Valley Campus, and the
+Portland Community College Newberg Center.
+5.05.05  Definitions. The words and phrases in this Ordinance shall have the meaning provided in ORS Chapter
+682 and OAR Chapter 333, Divisions 250, 255, 260, and 265, unless specifically defined herein to have
+a different meaning. Other specific definitions for words and phrases in this Ordinance include:
+a) “9-1-1" means a universal telephone number used to request emergency medical assistance.
+b) “Administrative Rules” means the rules relating to emergency medical services adopted by the Oregon
+Health Authority.
+c) “Administrator” means the Health and Human Services Director for Yamhill County Health and Human
+Services department or their designee.
+d) “Advanced Life Support (ALS)” means out of hospital emergency care which encompasses procedures,
+treatments, and techniques within the Advanced EMT (AEMT), EMT Intermediate (EMT-I), Paramedic, or
+Registered Nurse scope of practice and are author ized by the EMS Supervising Physician. The maximum
+functions that may be assigned to an AEMT, EMT-I and Paramedic are listed in OAR 847-035-0030.
+e) "Advanced Life Support (ALS) Ambulance" means an ambulance that meets all County and State
+requirements of an ALS capable EMS unit defined a bove. "Ambulance" means any privately or publicly
+owned motor vehicle, aircraft, or watercraft that is regularly provided or offered to be provided for the
+emergency transportation of persons who are ill or injured or who have disabilities (ORS 682.025(1)).
+f) "Ambulance Service" means any individual, partnership, corporation, association, governmental agency or
+other entity that holds a Division-issued ambulance service license to provide emergency and non-emergency
+care and transportation to sick, injured or disabled persons. Ambulance Services do not include specialty
+transport teams, ambulances owne d or operated under the control of United States government, vehicles
+operated solely on facility grounds, transportation of clients from outside of the county to a health care facility
+within the county, or ambulance or vehicles which are passing through without destination in the county.
+g) "Ambulance Service Area (ASA)" means a geographic area, which is served by one ambulance service
+provider, and may include all, or a portion of a county, or all or portions of two or more contiguous counties
+(OAR 333-260)
+h) "ASA Plan" is a plan that addresses the need for and coordination of ambulance services by establishing
+ambulance service areas for the entire county and by meeting the other requirements of these rules (OAR 333-
+260). “ASA Advisory Committee” means the governing body that makes recommendations to the Board on
+the County’s ambulance service system and other as pects of the County’s ASA Plan. The ASA Committee
+interfaces with the Board through the Administrator.
+i) "ASA Provider" means a licensed ambulance provider designate d by the Board as the sole provider of
+emergency ambulance service in a Yamhill County ASA. “Base Fee" means the fee charged for the pick-up
+of a patient, exclusive of mileage. This fee shall be all-inclusive and shall not include "flag drop" or any other
+charges.
+j) “ASA Advisory Committee” means the governing body that makes recommendations to the Board on the
+County’s ambulance service system  and other aspects of the Count y’s ASA Plan.  The ASA Committee
+interfaces with the Board through the Administrator.
+k) “Base Fee” me
+ ans the fee charged for the pick-up of a patient,  exclusive of mileage. This fee shall be all-
+inclusive and shall not include "flag drop" or any other charges.
+l) “Basic Life Support (BLS)” means out of hospital emergency car e which encompasses procedures,
+treatments, and techniques within  the Emergency Medical Responder (EMR) and/or Emergency Medical
+Technician (EMT) scope of practice and are authorized by the Yamhill County EMS Supervising Physician.
+The maximum functions that may be assigned to an EMR or EMT are listed in OAR 847-035-0030.
+m) “Basic Life Support (BLS) Ambulance” means an ambulance, which meets all County and State
+requirements and is staffed and equipped to providing service as defined by rule. “Board” means the Yamhill
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 5 of 29
+County Board of County Commissioners.
+n) “Board” means the Yamhill County Board of County Commissioners.
+o) “County” means Yamhill County, Oregon. "Division" means the Oregon Health Authority (OAR 333.260).
+p) “Division” means the Oregon Health Authority (OAR 333.260).
+q) "Emergency" means those medical or trauma conditions that manifest themselves by symptoms of sufficient
+severity that a prudent layperson possessing an average knowledge of health and medicine would reasonably
+expect that failure to receive immediate medical attention would place the he alth of a person, or the fetus in
+the case of a pregnant woman, in serious jeopardy.
+r) "Emergency Medical Dispatch (EMD)" means that system adopted by the County used to interrogate a
+caller requesting medical transportation in an effort to determine the severity of the medical condition.
+s) “Emergency Medical Services (EMS)” means those pre-hospital functions and services which are required
+to prepare for and respond to medical emergencies,  including transport, treatment, communications,
+evaluation, and public education. Inter-facility medical transportation is not considered EMS and thus does
+not constitute an EMS response. 9
+t) “Emergency Medical Technician (EMT)” means a person who is licensed by the Authority as an
+Emergency Medical Technician.
+u) “Employee” means any full-time paid or part-time paid person acting within the scope of their duties and for
+or on behalf of an ambulance service. “Franchise” me ans an exclusive franchise to provide emergency and
+nonemergency ambulance service issued by the Board pursuant to this Ordinance.
+v) "Hospital" has the meaning set forth in ORS 442.015(15).
+w) "Inter-Facility Transfer" means any transfer, after initial assessment and stabilization, from and to a health
+care facility to include hospital to hospital; clinic to hospita l; hospital to rehabilitation; and hospital to long-
+term care.
+x) “Incident Command System (ICS)” means a management tool employe d during disasters and emergency
+responses to organize and coordinate response operations.
+y) “License” means a non-transferable, non-assignable authorization granted to the person, agency or entity to
+whom it is issued, authorizing the person, agency or entity whose name appears thereon to do business in the
+county.
+z) “Mass Casualty Incident (MCI)" means any incident involving, or potentially involving, multiple patients
+as defined by rule. “Medical Resource Hospital (MRH)” means the medical communications facility which
+provides on-line-medical-control for Multnomah and Clackamas counties.
+aa) "Mutual Aid” means an agreement between emergency responders to lend assistance across jurisdictional
+boundaries. "Non-Emergency" means those conditions that are not specifically dealt with in the emergency
+medical dispatch system adopted by the County. The C ounty may further delineate categories that may be
+handled by a non-emergency ambulance provider (e.g. inter-facility transfer).
+bb) "Non-Emergency Ambulance Services" means pre -arranged or non-emergency ambulance transfers and
+inter-facility ambulance transfers provided by a licensed ambulance service when the person being transported
+needs the availability of medical assistance. It does not include stretcher cars, secure transport, or medical
+taxes that do not provide medical services.
+cc) "Notification Time" means the length of time between the initial receipt of the request for emergency
+medical service by either a provider or  an emergency dispatch center (9 - 1-1), and the notification of all
+responding EMS personnel. 10 “Offline Medical Control (OLMC)” means performing EMS actions or
+medication administration under standing orders or protocols.
+dd) “Online Medical Control (OLMC)” means a medical facility designated by the county as authorized to
+provide on-line-medical-control advice and support to Paramedics, EMTs, and first responders.
+ee) "Patient” means a person who is ill or injured or who ha s a disability and who receives emergency or
+nonemergency care from an EMS provider. "Per Mile Charge" means a charge per mile in addition to the base
+charge.
+ff) “Person” means an individual, partnership, company, asso ciation, corporation, or any other legal entity,
+including any receiver, trustee, assignee, or similar re presentative. "Provider" means any public, private, or
+volunteer entity providing EMS.
+gg) “Quick Response Team” , or “QRT” means an EMS unit supplied by a designated provider that may be
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 6 of 29
+capable of BLS or ALS care but is not able to transport a patient. "Residential Care Facility" means a program
+within a physical structure, which provides or coordinates a range of services, available on a 24-hour basis,
+for support of residential independence in a residential setting (OAR 411-054-0005). "
+hh) “Response Time" or “Response Times” mean the length of time between the notification of each provider’s
+ambulance and the arrival of each provider's EMS unit(s) at the incident scene.
+ii) “Supervising Physician" means a physician licensed under ORS 677.100 to 677.228, actively registered and
+in good standing with the Oregon Medical Board, who provides direction of emergency or nonemergency care
+provided by ASA Providers. Additionally, Supervising Physician means a physician contracted with or
+employed by the County to act as the Supervising Physician and who shall perform those functions as outlined
+in this chapter and rule.
+jj) “Transport Unit” means an ambulance that is licensed and appropriately equipped and staffed to transport a
+patient.
+kk) “Wheelchair Car” means a motor vehicle for hire that is constructed, equipped, or regularly provided for
+non-emergency transportation of persons in wheelchairs and semi-reclining wheelchairs (no more than forty-
+five (45°) reclining) or requiring wheelchair car transportation for reasons related to health conditions and not
+requiring an ambulance or transport in a supine or recumbent position.
+5.05.06 Boundaries; Emergency Medical Service Activity
+a) Oregon state regulations require each county to es tablish an Ambulance Service Area (ASA) Plan under
+ORS 682.062.
+b) The ASA Plan must be approved by both the Board and then by the Oregon Health Authority. Therefore,
+it is the responsibility of Yamhill County as the local EMS regulatory agency to assure that safe and
+reliable EMS response and ambulance transportation are available to the citizens and visitors of the county.
+c) It is the intent of the Board to regulate, but not restrict, non-emergency ambulance, inter-facility
+ambulance and wheelchair car services within the Count y. It is the intent of the Board to regulate the
+primary emergency transportation agency within the County.
+d) To ensure the effective and efficient provision of  EMS within Yamhill County, the Board reserves the
+right, giving consideration to subjects and items required by law, to make modifications and enhancements
+to the ASA Plan.
+e) Yamhill County hereby establishes the Ambulance Service Areas (ASAs) shown on the maps and
+described in the legal boundary descriptions attach ed to this Ordinance as Appendix B, which is
+incorporated herein by reference and made part of this Ordinance.
+f) Analysis of EMS volume within the County has identified the location density and distribution of activity,
+as revealed in Appendices C, D, and E which are attached to this Ordinance and incorporated herein by
+reference. The temporal dispersal of EMS activity  has been charted to provide ambulance service
+providers valuable information to assist in staffing and deployment of EMS resources.
+5.05.07 Response Time Zones; Reporting Standards
+a) The primary objective of Response Time zones is to provide the most timely and efficient response to the
+residents and visitors of the County in a cost-effective manner (“Response Time Zone” or “Response Time
+Zones”). These Response Time Zones are stratified based on factors such as population density, major
+routes of travel, topography, and access. Since EMS volume is strongly correlated to population density,
+that is the major determinant of Response Time Zone designation. Historical Response Times from
+ambulance and EMS resource stations have been analyzed as well and compared against both population
+density and EMS call volume activity distribution.
+b) In addition, Yamhill County has
+  determined that further categorization of Response Times is appropriate
+based on the severity of the patient’s condition. Life threatening and significantly serious illness or injury
+require a faster response than other, less urgent EMS requests. Scientific data and industry studies have
+shown that Response Time is far less important to patient outcome for less emergent cases than for critical,
+life endangering conditions. The County has established two levels of EMS response that overlay the four
+Response Time Zones. These are defined as ALS (Advanced Life Support) and BLS (Basic Life Support).
+c) ALS cases should receive responses that include the use of emergency warning devices (EWDs), such as
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 7 of 29
+lights and sirens, and be held to shorter time frames. BLS cases should receive responses that do not
+include the use of EWDs and are held to less stringent Response Time standards.
+d) Yamhill County is divided into four time zones for response. These zones are classified as: URBAN, with
+Response Time standards of 10 and 15 minutes fo r ALS and BLS, respectively; SUBURBAN, with
+Response Time standards of 12 and 17 minutes; RURA L, with Response Time standards of 35 and 40
+minutes; and FRONTIER with a “Best Effort” standa rd for both ALS and BLS. as depicted on the
+Response Time Zone Map adopted as Appendix F and incorporated herein by this reference.
+e) The Urban Response Time Area is defined as the area of Yamhill County with a population density of
+1,001 persons, or more, per square mile. The Suburban Response Time Area is defined as that area of
+the County with a population density of between 501 persons per square mile and 1,000 per square mile.
+The Rural Response Time Area is composed of those portions of Yamhill County that are populated to a
+density of 501 or less persons per square mile. Lastly, the Frontier Response time Area is classified as
+those areas with a population density of less than 501 persons per square mile and that lack roadway
+access, or that require a drive time — this is a component of Re sponse Time — that exceeds 30 minutes.
+The Frontier Response Time Area was established by mutual consensus of the Yamhill County ASA
+Committee and includes those incorporated Cities outside the Urban zone.
+f) There is one exception to these zone designations. That  is the town of Yamhill. While Yamhill is very
+densely populated, sufficiently so to meet the herein definition of Urban, the actual aggregate number of
+people residing there is insufficient to generate a ny significant EMS volume. Therefore, this ASA Code
+identifies Yamhill as a Rural Response Time Area.
+g) The minimum performance level for each Response Time  standard is 90 percent of all dispatched EMS
+requests, except for those occurring during extreme weather conditions that interfere with vehicular travel,
+hospital-to-hospital transfers, or other similar circumstances that would prohibit a normal response.
+Complying with the Response Time Zone standards are the primary responsibility of each ASA Provider,
+as set forth in the Response Time Zone standards and performance criteria adopted as Appendix G and
+incorporated herein by this reference.
+5.05.08  Response Time Reporting and Accountability The County has established the following process and
+procedure for the reporting, assessment, and acc ountability of Response Times by designated ASA
+providers:
+a) Performance reports. ASA Providers will submit performance reports to the Administrator on a quarterly
+basis, and Administrator will distribute these reports to the ASA Committee. The performance reports will
+be submitted in a form approved by the Administrator; at a minimum, the reports must track monthly
+compliance with each Response Time standard and must include mutual aid performance data.
+b) Review. The ASA Committee will review each ASA provider’s performance report at quarterly meetings.
+c) Audits. All data submitted for review of perfor mance standard compliance by ASA Providers may be
+audited by the Administrator at any time.
+d) Compliance Reports. Each ASA Provider will be he ld accountable to delineated required performance
+standards through public compliance reporting.
+e) Each ASA Provider’s performance will be reported to the community-at-large through a readily available
+public reporting process (dashboard) that identifies each performance standard and the ASA Provider’s
+compliance success.
+f) This public reporting process (compliance reports and dashboard) will be posted prominently on the
+County’s EMS website.
+g) Annual report. The Adminis trator will conduct an a nnual evaluation of the pe rformance of the ASA
+Providers and will report its findings to the Board. This requirement in no way limits the ability of the
+Administrator to conduct further
+ evaluations as deemed necessary.
+h) Explanatory Reports. The ASA Committee may require an explanatory report from any ASA Provider
+who fails to meet any establishe d performance standard in any re porting period. Such a report will be
+submitted to the Administrator, and the Administrator will distribute this report to the ASA Committee.
+i) Action Plan. Failure of an ASA Provider to meet the established performance standards in three
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 8 of 29
+consecutive quarters, or four quarters in any six-quarter period, will require the ASA Provider to develop
+an action plan. Such a plan will detail concrete steps, at least some of which being immediate, the ASA
+Provider will take to achieve full compliance, and a timeline for achieving full compliance. This report
+will be submitted to the Administrator, and the Admin istrator will distribute this report to the ASA
+Committee.
+5.05.09 ASA Boundaries Narrative Description
+a) ASA # 1 East shall be assigned to  Tualatin Valley Fire & Rescue. Situated in Yamhill County, Oregon,
+beginning at the point where Yamhill and Clackamas counties meet at the Northeast corner of Section 13,
+T3S, R2W, W.M; Thence northwest following the Ya mhill County line approximately 17.7 miles to a
+point on the north line of Section 18, T2S, R3W, a pproximately 750 feet west of NE Spring Hill Road;
+Thence southerly to the south line of said Section 18, to a point approximately 2,200 feet west of NE
+Spring Hill Road; Thence S10°E generally parallel with NE Spring Hill Road, to the east end of the curve
+and the south side of NE Laughlin Road approximate ly 2,000 feet west of NE Spring Hill Road; Thence
+southwesterly along the easterly side of NE Laughlin  Road approximately 1,900 feet to the west line of
+the Phillip Thompson Donation Land Claim No. 58; Thence S 5°E, approximately 3,300 feet to the
+northeast corner of U.S. Government Lot 10, near the center of Section 30, T2S, R3W; Thence west on
+the north line of said Lot 10, a distance of 942.31 feet to a 10” diameter stone shown on Survey No. 6805
+of Yamhill County Survey Records; Thence S 0°08’51”E a distance of 2,690.83 feet to a 6” diameter stone
+on the south line of said Section 30 and shown per said Survey No. 6805; Thence S19°E approximately
+1.08 miles to a point the north line of Section 6, T3S, R3W, lying approximately 1,900 feet west of NE
+North Valley Road; Thence west approximately 1,130 feet to the North ¼ corner of said Section 6; Thence
+south on the center line of said S ection 6 a distance of approximately  1.0 mile to the North ¼ corner of
+Section 7, T3S, R3W, Thence west approximately 2,640 feet to the northwest corner of said Section 7;
+Thence south on the west lines of Section 7 and 18 approximately 1.40 miles to the northerly line of a
+tract described in Instrument No. 200529012 (Park Trust to Mahon); Thence easterly approximately 1.78
+miles to the northeasterly corner of the Calvin W. Ish Donation Land Claim No. 49; Thence southerly on
+the easterly line of said Ish Claim No. 49 to the property line between Revana Family Partners, Deed No.
+20060169, and Andrew H. Wilder, Deed No. 20017231; Thence southeasterly along the Revana/Wilder
+line to the west line of Section 21, T3S, R3W; Th ence South approximately 1.60 miles to the southwest
+corner of Section 28, T3S,R3W; Thence east along the south line of Section 28 approximately 3,700 feet
+to the west property line of Caroline Crabtree-Osbor ne; Thence south and east on the Crabtree-Osborne
+lines to the east line of Section 33, T3S, R3W; Thence south on the east line of Section 33 approximately
+4,630 feet to the southerly side of Archery Summit Road ; Thence southeasterly on the southerly side of
+Archery Summit Road to Oregon Highway 18 and continuing on an easterly projection to the Portland &
+Western Railroad; Thence northeasterly along the railroad to the south side of Fulquartz Landing Road
+(CR 79); Thence along Fulquartz Landing Road to the west side of NE Crawford Road (CR 181); Thence
+south along the west side of NE Crawford Road to the southerly side of Riverwood Road (CR80); Thence
+southeasterly along the southside of Riverwood Road to northwest corner of County Survey 3598 by J.G
+Hefty, dated September 1912; Thence along the said survey lines S78°13’E, approximately 1,989 feet;
+thence S77°16’E, approximately 489.60 feet; Thence N80°34’E, approximately 905.80 feet to the
+Willamette River; Thence Northerly and following the Willamette River downstream to the north line of
+Section 6, T4S, R1W and the county line; Thence west and north along the exterior of T3S, R1W, and the
+county line to the place of beginning.
+b) ASA #2 North shall be assigned to the McMinnville Fire District. Beginning on the northerly Yamhill
+County line at a point on the north line of Section 18, T2S, R3W, approximately 750 feet west of NE
+Spring Hill Road; Thence southerly to the south lin e of said Section 18, to a point approximately 2,200
+feet west of NE Spring Hill Road; Thence S10°E generally parallel with NE Spring Hill Road, to the east
+end of the curve and the south side of NE Laughlin Road approximately 2,000 feet west of NE Spring Hill
+Road; Thence southwesterly along the easterly side of NE Laughlin Road approximately 1,900 feet to the
+west line of the Phillip Thompson Donation Land Claim No. 58; Thence S 5°E, approximately 3,300 feet
+to the northeast corner of U.S. Government Lot 10, near the center of Section 30, T2S, R3W; Thence west
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 9 of 29
+on the north line of said Lot 10, a distance of 942.31 feet to a 10” diameter stone shown on Survey No.
+6805 of Yamhill County Survey Records; Thence S 0°08’51”E a distance of 2,690.83 feet to a 6” diameter
+stone on the south line of said Section 30 and shown per said Survey No. 6805; Thence S19°E
+approximately 1.08 miles to a point the north line of Section 6, T3S, R3W, lying approximately 1,900 feet
+west of NE North Valley Road; Thence west approx imately 1,130 feet to the North ¼ corner of said
+Section 6; Thence south on the center line of said Se ction 6 a distance of approximately 1.0 mile to the
+North ¼ corner of Section 7, T3S, R3W, Thence west  approximately 2,640 feet to the northwest corner
+of said Section 7; Thence south on the west lines of Section 7 and 18 approximately 1.40 miles to the northerly line
+of a tract described in Instrument No. 200529012 (Park Trust to Mahon); Thence easterly approximately 1.78 miles
+to the northeasterly corner of the Calvin W. Ish Donation Land Claim No. 49; Thence southerly on the easterly line
+of said Ish Claim No. 49 to the property line between Revana Family Partners, Deed No. 20060169, and Andrew H.
+Wilder, Deed No. 20017231; Thence southeasterly along the Revana/Wilder line to the west line of Section 21, T3S,
+R3W; Thence South approximately 1.60 miles to the southwest corner of Section 28, T3S,R3W; Thence east along
+the south line of Section 28 approximately 3,700 feet to the west property line of Caroline Crabtree-Osborne; Thence
+south and east on the Crabtree-Osborne lines to the east line of Section 33, T3S, R3W; Thence south on the east
+line of Section 33 approximately 4,630 feet to the southerly side of Archery Summit Road; Thence southeasterly on
+the southerly side of Archery Summit Road to Oregon Highway 18 and continuing on an easterly projection to the
+Portland & Western Railroad; Thence northeasterly along the railroad to the south side of Fulquartz Landing Road
+(CR 79); Thence along Fulquartz Landing Road to the west side of NE Crawford Road (CR 181); Thence south
+along the west side of NE Crawford Road to the southerly side of Riverwood Road (CR80); Thence southeasterly
+along the southside of Riverwood Road to northwest corner of County Survey 3598 by J.G Hefty, dated September
+1912; Thence along the said survey lines S78°13’E, approximately 1,989 feet; thence S77°16’E, approximately
+489.60 feet; Thence N80°34’E, approximately 905.80 feet to the Willamette River; Thence southerly and upstream
+along the Willamette River and easterly county line to the point where Yamhill and Polk Counties meet; Thence west
+along the Yamhill and Polk County line to the west side of SW Broadmead Road; Thence northeasterly along the
+west side of SW Broadmead Road to the south line of Section 25, T5S, R5W; Thence west on the section lines of
+Section 25 and 26 to the South Yamhill River; Thence northeasterly and following the Yamhill River downstream
+to the Bellevue-Hopewell Highway Bridge; Thence westerly along the southerly side of Bellevue-Hopewell
+Highway (OR 153) to the west side of Delashmutt Road (CR 28); Thence northerly along the west side of Delashmutt
+Road approximately 1,800 feet to the south line of Section 22, T5S, R5W; Thence north approximately 1.0 miles
+along the east section lines of 22 and 15 to the north side of SW Sauter Road; Thence westerly along the north side
+of SW Sauter Road through the “S” curve, approximately 4,500 feet to a point near the Boundy/Christensen property
+line. Thence north passing through milepost 39 of OR HWY 18 approximately 3,150 feet to the southeast corner of
+Erratic Rock State Nature Site; Thence west along the south line of Erratic Rock State Nature Site approximately
+1,000 feet to the southwest corner thereof adjacent with SW Dusty Drive; Thence north along a series of common
+property lines, approximately 5,600 feet to the northeast corner of the Momtazi Family LLC property described in
+Instrument No. 1997-16865 of the Yamhill County Clerk’s Records; Thence west Momtazi property approximately
+1,320 feet to the east line of Section 9, T5S, R5W; Thence south along the section line approximately 1,320 feet to
+the east ¼ corner of Section 9; Thence west along the centerline of Section 9 approximately 1,850 feet; Thence south
+approximately 2,640 feet to the southeast corner of Dave Waddell property; Thence west approximately 2,640 feet
+to the southwest corner of Dave Waddell property; Thence north approximately 2,500 feet to the southerly corner
+of the James Colman Donation Land Claim No. 40; Thence N 54°W along the Colman Donation Claim
+approximately 990 feet to the east side of SW Muddy Valley Road (CR 19); Thence northerly up the east side of
+SW Muddy Valley Road to the bridge across Muddy Creek in the northwest ¼ of Section 4, T5S, R5W; Thence
+northwesterly upstream along Muddy Creek approximately 3.25 miles to the south line of Section 19, T4S, R5W;
+Thence west approximately 0.9 Miles to the southeast corner of Section 24, T4S, R6W; Thence north 2 miles on
+the section lines to the northeast corner of Section 13, T4 S, R6W; Thence west 4 miles on the section lines to the
+southwest corner of Section 9 T4S, R6W; Thence north 2 miles to the southeast corner of Section 32, T3S, R6W;
+Thence west 1 mile to the west county line; Thence north 12 miles and east approximately
+
+19.3 miles along the county line to the place of beginning.
+c) ASA #3 South Central shall be assigned to the Sheridan Fire District. Beginning at the intersection of the
+Yamhill and Polk County line and the west side of SW Broadmead Road located in Section 2, T6S, R5W;
+Thence northeasterly along the west side of SW Br oadmead Road to the south line of Section 25, T5S,
+R5W; Thence west on the section lines of Section 25 and 26 to the South Yamhill River; Thence
+northeasterly and following the Yamhill River downstream to the Bellevue-Hopewell Highway Bridge;
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 10 of 29
+Thence westerly along the southerly side of the Bellevue-Hopewell Highway (OR 153) to the west side
+of Delashmutt Road (CR 28); Thence northerly along the west side of Delash mutt Road approximately
+1,800 feet to the south line of Section 22, T5S, R5W;Thence north approximately 1.0 miles along the east
+section lines of 22 and 15 to the north side of SW Sauter Road; Thence westerly along the north side of
+SW Sauter Road through the “S” curve, approximately 4,500 feet to a point near the Boundy/Christensen
+property line. Thence north passing through milepost 39 of OR HWY 18 approximately 3,150 feet to the
+southeast corner of Erratic Rock State Nature Site; Thence west along the south line of Erratic Rock State
+Nature Site approximately 1,000 feet to the southwest corner thereof adjacent with SW Dusty Drive;
+Thence north along a series of common property lines , approximately 5,600 feet to the northeast corner
+of the Momtazi Family LLC property described in Instrument No. 1997-16865 of the Yamhill County
+Clerk’s Records; Thence west Momtazi property approximately 1,320 feet to the east line of Section 9,
+T5S, R5W; Thence south along the section line approximately 1,320 feet to the east ¼ corner of Section
+9; Thence west along the centerline of Section 9 approximately 1,850 feet; Thence south approximately
+2,640 feet to the southeast corner of Dave Waddell property; Thence west approximately 2,640 feet to the
+southwest corner of Dave Waddell property; Thence  north approximately 2,500 feet to the southerly
+corner of the James Colman Donation Land Claim No. 40; Thence N 54°W along the Colman Donation
+Claim approximately 990 feet to the east side of  SW Muddy Valley Road (CR 19); Thence northerly up
+SW Muddy Valley Road to the bridge across Muddy Cree k in the northwest ¼ of Section 4, T5S, R5W;
+Thence northwesterly upstream along Muddy Creek approximately 3.25 miles to the south line of Section
+19, T4S, R5W; Thence west approximately 0.9 Miles to  the southeast corner of Section 24, T4S, R6W;
+Thence north 2 miles on the section lines to the northeast corner of Section 13, T4S, R6W; Thence west
+4 miles on the section lines to the southwest corner of Section 9 T4S, R6W; Thence south 4 miles on the
+section lines to the southwest corner of Section 33, T4S, R6W; Thence east on the south line of Section
+33 approximately 0.18 miles to the westerly side of Rock Creek Road (CR 415); Thence southwesterly
+along the westerly side of Rock Creek Road approximately 4.8 miles to the west line of Section 21, T5S,
+R6W; Thence south on the section lines 2.25 miles to the southerly side of Oregon Highway 18 Business
+(W. Main Street); Thence southwesterly along the southerly side of Oregon Hwy 18 approximately 0.9
+miles to the east line of Section 6, T6S, R6W; Thence south on the east line of Section 6 approximately
+0.75 miles to the Yamhill and Polk County Line. Thence east on the County line approximately 9.3 miles
+to the east side of SW Broadmead Road and the point of beginning.
+d) ASA # 4 West shall be assigned to the Grand Ronde Fire Department. Be ginning on the Yamhill and
+Tillamook County line at the northwest corner of Section 5, T4S, R6W; Thence east 1 mile to the northeast
+corner of Section 5, T4S, R6W; Thence south 6 miles on the section lines to the southwest corner of
+Section 33, T4S, R6W; Thence east on the south line of Section 33 approximately 0.18 miles to the
+westerly side of Rock Creek Road (CR 415); Thence southwesterly along the westerly side of Rock Creek
+Road approximately 4.8 miles to the west line of Section 21, T5S, R6W; Thence south on the section lines
+2.25 miles to the southerly side of Oregon Highway 18 Business (W. Main Street); Thence southwesterly
+along the southerly side of Oregon Hwy 18 approxima tely 0.9 miles to the east line of Section 6, T6S,
+R6W; Thence south on the east line of Section 6 approximately 0.75 miles to the Yamhill and Polk County
+Line. Thence west, north, east, and north approximately 44.75 miles on the county line to the point of
+beginning.
+5.05.10 Maps Depicting “9-1-1,” Fire Districts and Incorporated Cities
+a) Maps depicting Incorporated Cities are adopted as Appendix H and incorporated herein by this reference.
+b) Maps depicting Fire districts are adopted as Appendix I and incorporated herein by this reference.
+c) Maps depicting Fire Stations and Fire Stations  with EMS assets are adopted as Appendix J and
+incorporated herein by this reference.
+5.05.11 Alternatives to Reduce Response Times
+a) The County has policies and procedur es in effect that monitor emergency ambulance Response Time
+performance by all ASA Providers. The County expects the ASA Providers to employ industry best practices,
+data driven strategies, and sound professional judgment in meeting established Response Time requirements.
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 11 of 29
+The goal is to responsibly, reliably, and safely deliver Response Times, while also considering certain clinical
+outcomes in addition to Response Times.
+b) Employing the use of closer, first response units in responding to critical EMS cases, or even Quick Response
+Teams (QRT), are mechanisms organizations are encouraged to use to reduce Response Times to emergencies.
+These types of EMS units, while not transport capable, can deliver trained personnel faster to the scene than
+more regionally located ambulances.
+c) Other methodologies the County expects each ASA Pr ovider to implement to reduce Response Times and
+improve patient outcomes include:
+(i) Develop and use standard operating procedures,
+(ii) Support a trained and qualified workforce,
+(iii) Maintain adequate communications equipment,
+(iv) Utilize coordinated communication,
+(v) Promote information exchanges among public safety response agencies,
+(vi) Coordinate with hospitals to reduce wait times; and
+(vii) Educate the public on the 9-1-1 system and services.
+d) Research from Europe, and a few pilot programs in the United States, have shown that drones (UAV) may
+provide an option for many EMS systems to improve re sponse to critical emerge ncies and improve patient
+outcomes. They appear to be most advantageous for rural and frontier regions where EMS response can easily
+exceed 20 minutes. When UAVs are equipped with AEDs (Automatic External Defibrillators) and EpiPens,
+as an example, and configured to provide two- way audio communication, they can deliver life-saving
+modalities to the patient’s side and permit instruction to direct by-standers on usage.
+e) Some UAV systems have been developed that use remote outside storage structures that maintain battery
+charge for the unit and protect it from inclement weather conditions. These “drone stations” could be located
+strategically throughout a remote or rural region to enhance the response capability of the local EMS services.
+When equipped with video capabilities, UAVs may also be used to provide situational awareness for EMS
+units and communications centers by deployment over particular incidents, especially when multiple patients
+are involved or safety conditions at a scene are in  question. While limited by battery life, UAVs still have
+important applications for EMS systems and individual units, such as First Responder apparatus.
+f) Some medical device manufacturing companies have introduced the concept of community wide distribution
+of AEDs, including in personal residenc es. These devices are connected to a network that incorporates with
+the local 911 communications center which allows the devices to be alerted when a potential cardiac arrest is
+occurring within a set distance. Individuals of the lay public can remove the AED from its wall-mounted
+station and respond to the scene to render aid. The id ea that the public can respond to many out-of-hospital
+cardiac arrests (OHCA) with an AED faster than EMS providers is factual in many cases. This concept could
+be expanded in the future to include EpiPens and tourniquets. In addition, some communities have launched
+registries for AEDs that are located in public buildings  and private companies, maintaining that information
+with their emergency communications centers. In these cases, when an OHCA call is received by the 911
+center, they are able to locate the closest AED and advise the caller.
+g) The County recognizes that it is not just Response Times that lead to a reduction in mortality. In fact, there is
+a significant amount of research that indicates, outside  of cardiac arrests, Response Times have a minimal
+impact on patient outcomes and length of stay time in the hospital. It is often the case that time to first clinical
+intervention plays a more significant role in out of hospital survival rates. Research shows there is no evidence
+of increased mortality for priority patients where ALS Response Time exceeded 10:59 minutes . Other studies
+concluded that, “a paramedic response time within eight minutes was not associated with improved survival
+to hospital discharge. Adherence to the eight-minute response time guideline in most patients who access out-
+of-hospital emergency services is not supported by these results”. Additionally, focusing solely on Response
+Times can have a negative impact ove rall on syste
+ m performance. First, the community needs to invest
+significant dollars for the cost of readiness to assure the ambulance can arrive in the designated time interval.
+Second, many more paramedics are needed in the system staffing those ambulances. Third, crews are held to
+a Response Time standard that can only be achieved by the constant use of red lights and sirens. This exposes
+them to a higher incidence of ambulance-involved mo tor vehicle collisions and potentially crewmember
+injuries along with an increased fatigue factor that has the potential for clinical errors. To this end, the County
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 12 of 29
+will closely monitor Response Times to ensure they do not exceed the established benchmarks but will also
+continually review the efficacy of Response Times in general. The County will further begin development of
+clinical performance standards that have been shown to  be related directly to patient outcomes. The County
+will strive to establish consensus-accepted clinical performance standards as an important measure of the
+quality of the system’s overall performance and as required benchmarks for achievement for ASA Providers.
+h) Over the next five years, the ASA Committee will be considering what clinical data is identified as important
+by current in-field medical research for patient care , as well as improved patient  outcomes, and determine
+how that information may be collected. The ASA Committee has been charged with reviewing and
+determining what clinical performance standards should be used in the Yamhill EMS system in the future.
+5.05.12 9-1-1 Dispatched Calls
+a) Yamhill County utilizes the Yamhill Communica tions Agency (YCOM) and the Newberg-Dundee
+Communications Center (NDCC) to provide emergency medical services (EMS) call answering,
+processing, and dispatching. NDCC transfers incoming EMS requests to the Washington County
+Consolidated Communications Agency (WCCCA) for final disposition of the case.
+b) Upon a request for medical assistance, YCOM or WCCCA shall simultaneously dispatch the closest
+available fire department first -response unit, if applicable, and the appropriate emergency ambulance
+service. Dispatch performance shall be monitored internally by the dispatch centers and externally by the
+Yamhill County Department of Health.
+c) YCOM uses the International Academies of Emergenc y Dispatch Medical Priority Dispatch System for
+triaging and prioritizing EMS calls. WCCCA uses the APCO EMS triage system. Both centers shall
+maintain operational readiness to incorporate em erging communication technologies, including voice,
+text, image, and video transmissions, consistent with modern 911 standards. The network and PSAP shall
+be capable of receiving e nhanced location data and multimedia content to support accurate and efficient
+emergency response.
+d) PSAP operations, facilitie s, and employee training shall conform to minimum standards recognized by
+public safety industry organizations. These orga nizations include the International City/County
+Management Association (ICMA), National Emergenc y Number Association (NENA), Association of
+Public-Safety Communications Officials (APCO), Inte rnational Association of Fire Chiefs (IAFC),
+Commission on Accreditation for Law Enforcement Agencies (CALEA), and the National Fire Protection
+Association (NFPA).
+5.05.13 Pre-Arranged Non-Emergency Transfers and Inter-Facility Transfers
+a) All pre-arranged, non-emergency ambulance services a nd inter-facility ambulance transfers originating
+within Yamhill County shall be included within the franchise rights and ambulance service area
+boundaries granted to ASA Providers.
+b) This section does not apply to ambulances or vehi cles exempt from the ASA Plan, including but not
+limited to specialty transport teams, ambulances owned or operated under the control of the United States
+Government, vehicles operated solely on facility gr ounds, transportation of patients from outside the
+County to a health ca re facility within the County, or ambulance s or vehicles passing through without a
+destination in the County. Non-emergency ambulance se rvices also do not include stretcher cars, secure
+transport, or medical taxis that do not provide medical services.
+c) The assigned ASA Provider shall have the right of first refusal for non-emer gency ambulance services
+and inter-facility ambulance transfers originating with in its a
+ ssigned ASA. This right shall not apply to
+any person who is not an assigned ASA Provider and who had an existing written contract prior to July 1,
+2009, with a health care provider located in Yamhill County for non-em ergency ambulance services or
+inter-facility ambulance tr ansfers. if the assigned ASA Provid er refuses a non-emergency ambulance
+service or inter-facility ambulance transfer, a pers on who is not an assigned ASA Provider may provide
+the non-emergency ambulance service or inter-facility transfer.
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 13 of 29
+d) Non-emergency ambulance services and inter-facility ambulance tran sfers are excluded from Response
+Time reporting requirements but may be subject to additional reporting requirements established by the
+ASA Committee or the Board. All other operational ru les, service standards, and customer service
+requirements applicable to emergency ambulance serv ices shall also apply to  non-emergency and inter-
+facility ambulance transfers.
+5.05.14 Notification and Response Times
+a) The County relies upon both WCCCA and YCOM to provide the services of notification and tracking call
+disposition for all EMS cases in the County. Through their Computer Aided Dispatch (CAD) systems and
+radio communications networks, both centers maintain the records needed, as well as historical
+performance of all ASA Providers within the County. Response Times for each ASA Provider are captured
+within the centers’ data bases and available to the County and associated organizations.
+b) The County and the Ambulance Service Area (ASA ) Committee shall regularly review Response Time
+data to evaluate performance and identify areas of  concern. Once identified, ef forts shall be made to
+improve out-of-compliance performance. The County shall provide assistance as needed to support plans
+established to assure maintenance of adequate response time performance by all ASA Providers.
+5.05.15 Level of Care
+a) Currently, the ASA Providers designated by the County to provide EMS within their individual ASAs
+provide predominantly Advanced Life Support. However, on occasion, sufficient ALS practitioners may
+not be available or scheduled, in which case the ASA Provider staffs Basic Life Support ambulances to
+provide care. Some ASA Providers expect to place standard BLS ambulance units into service on a
+regular basis. All ASA Providers have ALS and if the ASA Provider drops exclusively to a lower level
+of care (i.e. BLS only) notification will be provided to the County and other ASA Providers with whom
+they have mutual aid agreements.
+b) The recommended minimum number of EMS ambulance units, based on 2020 data, needed in each ASA
+within the County to meet the 90 percent response time standard is set forth in Appendix K, which is
+adopted and incorporated herein by this reference. ASA Providers are required to meet the 90 percent
+response time standard and are allowed to staff their agency as they see fit in order to meet the 90
+percent standard.
+c) Changes to the recommended minimum number of EMS ambulance units needed (as described in the
+table above) should be data driven and recommended by the ASA Committee to the Board in order to
+update the ASA Plan. This should be done every 5 years. ASA Providers are still allowed to staff their
+system as they see fit to meet the 90% response time standard as stated above.
+5.05.16 Personnel
+a) When operating an ambulance in Yamhill County, all ASA Provider personnel must meet the
+requirements of ORS Chapter 682 and OAR 333-255-0070 (1), (4) or (6).
+b) Anyone staffing an ambulance must not have consumed alcohol beverages in the eight hours before
+working or in any way be impaired by the ingestion of alcohol. Anyone staffing an ambulance must not
+be taking any medications that would impair their ability to care adequately and safely for a patient.
+c) Each person staffing an ambulance or providing pre-hospital emergency medical care in the County is
+required to display their level of certification/licensure and, at a minimum, their first name on the
+outermost garment of their work uniform and must make reasonable efforts to display this information
+under other circumstances. At a minimum, this uniform shall bear the name of the agency or ASA
+Provider providing the service. Reasonable exceptions are made for clothing used to protect the
+responders from injury or illness including turnout gear
+ , hazardous materials suits, or other personal
+protective equipment.
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 14 of 29
+d) Each person staffing an ambulance or providing pre-hospital emergency medical care is required to wear
+a standardized uniform as determined by the employing agency. Uniforms shall be clean and free of
+excessive wear and tear and free of blood and/or bodily materials. Reasonable exceptions shall be
+granted to uniforms soiled during the course of providing service as long as they are cleaned and
+changed at the first appropriate opportunity.
+e) Each ASA Provider shall have in place a pre-employment and for-cause drug and alcohol screening
+program. This program shall be on file with the Administrator. Each ASA Provider shall have in place a
+criminal background check program. This program shall be on file with the Administrator. Upon a
+reasonable request by the Administrator, a criminal background check may be required of any person
+providing direct patient services.
+5.05.17 Medical Supervision
+a) Each ASA Provider utilizing EMTs shall be supervised by a physician licensed under ORS 677, actively
+registered and in good standing with the Board of Medical Examiners as a Medical Doctor (M.D.) or
+Doctor of Osteopathic Medicine (D.O.). The Board of Medical Examiners must also approve the
+physician as a Supervising Physician. Each ASA Provider or ambulance service will identify a
+Supervising Physician. The Supervising Physician shall comply with the medical requirements listed in
+OAR 847-35-0025.
+b) Willamette Valley Medical Center and Providence Newberg shall be the Yamhill County EMS System
+Medical Resource Hospitals. Other hospitals outside of those listed may be used as required for proper
+patient care and transport.
+5.05.18 Ambulance Service License and Patient Care Equipment
+a) All ambulances and ambulance services in Yamhill County must be licensed with the Oregon Health
+Authority, EMS Section, and be equipped with equipment and supplies that comply with the OARs for
+ALS, ILS and BLS ground ambulances. Patient care equipment must meet all requirements as specified
+in ORS 682.015 to 682.991 and OAR 333-255-007 (2), (3), (4) (5), or (7).
+b) If a QRT is used as a first responder, it should be fully equipped to provide the service level set by the
+ASA Provider, and meet those personnel, training, and medical supervision requirements which apply
+from the Oregon Health Authority.
+c) All ASA Providers shall maintain a list of equipment for their units, which will be furnished to the ASA
+Committee or Board upon their request.
+d) The County shall work with its ASA Committee to standardize the medical equipment and supplies used
+on each ASA Provider’s apparatuses.
+5.05.19 Vehicles
+a) All ambulance must be Type I, II, or III and licensed by the Oregon Health Authority prior to any
+emergency medical service. All ambulances must meet or exceed the requirements as set forth in ORS
+682.015 to 682.991 and OAR 333-255-0060. A current list of each ASA Provider's ambulances shall be
+maintained and furnished to the Administrator, the ASA Committee, or the Board upon request.
+b) ASA Providers shall use ambulances which are in good condition and shall meet or exceed either the
+current National Fire Protection Association (NFPA) 1917 or Commission on Accreditation of
+Ambulance Services (CAAS) General Vehicle Standards, their successors, or previously accepted
+standards at the time of the vehicles’ original manufacture. When such standards conflict with State of
+Oregon standards, the State standards shall prevail.
+c) Each ASA Provider shall repl ace any ambulance in its fleet having over 250,000 miles on its chassis
+unless an exception is granted by the County based upon a written request supported by an upgraded
+vehicle preventative maintenance program for that vehicle acceptable to the County.
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 15 of 29
+5.05.20 Training
+a) Yamhill County accepts both Oregon’s level specific, state certification education/training requirements
+and standards requirements, and standards and continuing education for EMS providers.
+b) Each ASA Provider shall meet State-required certific ation levels, to be certified and/or licensed by the
+appropriate State agency, to participate in a medical audit process, and to provide special training and
+support to personnel in need of specific training.
+c) Additional educational/training requirements may be required by the ASA Providers’ Supervising
+Physicians, to accommodate such things as protocol changes, in-service, quality improvement, system
+enhancements, and individual remediation.
+5.05.21 Quality Improvement; Structure; Process;
+a) Each ASA Provider shall have a quality assurance and improvement program aimed at monitoring the
+provision of care provided by its EMS practitioners. These programs shall include mechanisms to identify
+errors or omissions of appropriate care, mandated medical protocols, or necessary documentation of care
+provided, by specific practitioners. These programs shall include processes to retrain or educate identified
+individuals needing remediation.
+b) To ensure the delivery of efficient and effective pre-hospital emergency medical care within available
+resources, the Board hereby establishes the Yamhill County Ambulance Service Area (ASA) Committee.
+The ASA Committee, originally created by Ordinance No. 723 on February 6, 2003, shall serve as the
+advisory body to the Board and the Administrator on all matters concerning emergency medical services
+system performance, coordination, and quality improvement.
+c) The ASA Committee shall be composed of the following members, appointed by Board Order:
+(i) The Administrator or their designee (1);
+(ii) One (1) EMS representative from each ASA within Yamhill County (4 total);
+(iii) One (1) 9-1-1 Coordinator from each Yamhill County dispatch center (2 total);
+(iv) One (1) Administrator or designee from each hospital located within Yamhill County (2 total);
+(v) One (1) public member;
+(vi) One (1) physician advisor or emergency physician;
+(vii) One (1) representative of a fire department or fire district not assigned an ASA within Yamhill
+County or any other county; and
+(viii) One (1) representative of Yamhill County Emergency Management.
+d) The Board shall appoint members of the ASA Committee for staggered terms, which may be renewed. Any
+member of the ASA Committee who may have a conflict of interest in any matter must declare such conflict
+and refrain from participating in any recommendations made.
+e) The ASA Committee functions to review standards, make recommendations for improvement or new
+standards to the Board for all matters regarding EMS, and reviews and makes recommendations regarding
+the soundness of the ASA Plan. The ASA Committee, through its existence, will offer a local focus for EMS
+system issues and encourage local resolution of EMS system problems. The ASA Committee will maintain
+a compilation of all Quality Assurance/Improvement policies enacted, as well as all investigations and their
+outcomes.
+f) The ASA Committee is established to:
+(i) Act in an advisory capacity for quality management issues to an ASA Provider at their request.
+(ii) Develop and monitor performance standards.
+(iii) Evaluate written proposals for amendments to the ASA Plan and forward its recommendations to
+the Board.
+(iv) Monitor ASA Provider quality assurance programs to include:
+1. Compliance with statutes, ordinances, and rules.
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 16 of 29
+2. Compliance with standards for pre-hospital notification, response, and patient care.
+3. Problem resolution and sanctions for non-compliance.
+5.05.22 Annual Review of Plan and Providers; Other Business
+a) The ASA Committee will annually review and make recommendations regarding the effectiveness and
+efficiency of the ASA Plan and pre-hospital emergency medical care, including but not limited to:
+(i) Coordination between EMS resources.
+(ii) Dispatch procedures and compliance (ambulance and other emergency resources).
+(iii) Internal audit and quality assurance processes for ASA Providers. Recommendations from
+provider quality assurance within system. Quality assurance findings from other agencies.
+(iv) Input from public, ASA Providers, and medical community on performance.
+(v) Effective and efficient ASA boundaries.
+(vi) Performance criteria and data sources.
+(vii) Quarterly updates from ASA Providers.
+(viii) Review and revise ASA Plan as necessary.
+(ix) Interagency cooperation in disaster and mutual aid planning.
+b) The ASA Committee shall also review each ASA Provider annually for compliance with the requirements
+of this ASA Plan. Service record standards and documentation shall conform to the licensing and
+operational requirements for ambulance services established by the Oregon Health Authority in OAR
+Chapter 333.
+c) The ASA Committee will be activated at any time a concern is submitted or when deemed appropriate by
+the Committee Chair, the Administrator, or three or more ASA Committee members. The ASA Committee
+may form subcommittees to deal with specific issues, such as quality assurance, protocol development, and
+disaster planning.
+5.05.23 Confidentiality
+a) The ASA Committee and any subcommittees, as with any governmental body, will be subject to the
+Oregon Public Meetings Law (ORS Chapter 192). However, State and federal law require that patient
+records be kept confidential. The ASA Committee will comply with Oregon Public Meetings Law, ORS
+192.610 through 192.690, but shall prevent the public disclosure of health privacy information or any
+other protected information, as required by state or federal law.
+5.05.24 Quality Improvement; Problem Resolution
+a) The ASA Committee will review concerns about the ASA Plan, service delivery, and system response
+issues. Concerns must be directed to the Administrator in writing before they are raised in the ASA
+Committee. The Administrator will maintain a record of all correspondence and subsequent findings or
+actions.
+b) Problems involving protocol deviation by EMTs or dispatchers will first be referred to the respective
+ASA Provider representative, Supervising Physician or dispatch supervisor.
+c) Problems involving a non-compliant ASA Provider may, at the Administrator’s discretion, be referred
+with background information and recommendations to the Board. The Board may seek further
+background data and recommendations from the ASA Committee in such instances.
+5.05.25 Sanctions; Suspension, Modification, or Revocation of a County ASA
+a) In addition to any other remedies provided under this ASA Plan or under State or federal law, the
+Administrat
+or is authorized upon reasonable cause to investigate whether there is sufficient reason to
+suspend, modify, or revoke the franchise of an ASA Provider.
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 17 of 29
+(i) If, in the judgment of the Administrator, there is sufficient evidence of a violation of the ASA
+Plan or applicable local, state, or federal law, or sufficient evidence that an ASA Provider has
+materially misrepresented facts or information given in its application for an ASA franchise, and
+such conduct warrants suspension, modification, or revocation of an ASA franchise, then the
+Administrator shall notify the Board in writing. The Administrator shall send a copy to the ASA
+Provider and the ASA Committee.
+(ii) No less than ten (10) business days following the issuance of the notice of violation under this
+section, the Board may enter its order of revocation, modification, suspension, or non-renewal,
+and may thereby revoke, modify, or suspend the ASA franchise, unless prior thereto the ASA
+Provider submits a written request for a public hearing or the Board on its own schedules a
+public hearing on the matter. Notice of any such hearing will be given to the ASA Provider by
+mail. The purpose of the hearing will be for the Board to determine whether good cause exists to
+revoke, modify, suspend, or not renew the ASA franchise.
+(iii) In lieu of the suspension, modification, or revocation of an ASA franchise, the Board may order
+that the violation or misrepresentation be corrected and make the suspension or revocation
+contingent upon compliance with the order within the period of time stated therein. Notice of the
+Board action shall be provided by mail to the ASA Provider. The notice shall specify the
+violation, the action necessary to correct the violation, and the date by which the action must be
+taken. The ASA Provider shall notify the Board of the corrective action taken.
+(iv) Any decision by the Board to suspend, modify, or revoke an ASA franchise must be by written
+order. A copy must be delivered to the ASA Provider by certified and regular mail or by personal
+service.
+5.05.26 Ordinance Violation; Nuisance
+a) Any violation of a provision of this Code shall be punishable as a violation of a County ordinance under
+ORS Chapter 153. Such violation shall be punishable, upon conviction, by a fine not to exceed $500. Each
+day of a continuing violation constitutes a separate offense.
+b) In addition to the penalties provided in this Ordinanc e, violations of any provision of this Ordinance or
+the Yamhill County Ambulance Service Area Plan are de clared to be a nuisance and may be regarded as
+such in all actions, suits, or proceedings. The Board may initiate injunctive abatement or other appropriate
+legal proceedings to temporarily enjoin or abate such ambulance services.
+5.05.27 Entity That Shall Administer and Revise the ASA Plan
+a) The Administrator, under the supervision of the Board and with the assistance of the ASA Committee, is
+responsible for the administration of the ASA Plan. The Administrator has access to records pertaining to
+ambulance service operations of any service regula ted by this ASA Plan; these records will be made
+available within five working days to the Administr ator by the agency owning or in possession of said
+records.
+5.05.28 Complaint Review Process
+a) Concerns regarding violations of this Ordinance or the Yamhill County Ambulance Service Area (ASA) Plan,
+or questions involving pre-hospital care, must be submitted in writing to the Administrator. The Administrator
+shall forward the concern to the ASA Committee for review and recommendation. The ASA Committee may
+also address and resolve system operation issues. The Ad ministrator shall maintain a written record of all
+correspondence, findings, and actions taken.
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 18 of 29
+b) Members of the public, ASA Providers, the medical commu nity, or any other interested entity may submit
+ongoing input or concerns to any member of the ASA Committee or the Board. Such input must be submitted
+in writing and presented to the ASA Committee for consideration at a public meeting.
+c) The ASA Committee shall hear complaints and make recommendations to the Administrator by majority vote
+of members present. Recommendations of the ASA Committee must be approved by the Administrator prior
+to action or implementation. Any recommendation of the ASA Committee or  decision of the Administrator
+may be appealed to the Board.
+d) Citizen and Provider Complaints; Filing of Formal Complaint with the ASA Provider.
+(i) A person wishing to file a complaint regarding ambulance services provided under this Ordinance
+must first contact the responsible ASA Provider. Upon request, the ASA Provider shall provide a
+written complaint form describing the complaint pr ocess. The complaint is not considered filed
+until a written complaint is received by the ASA Provider.
+(ii) The ASA Provider must acknowle dge the complaint within five (5) business days of receipt. The
+acknowledgment will include the date the complaint was received and information about the
+complaint process.
+(iii) The ASA Provider will complete an informati on discovery process with the complainant. The
+ASA Provider will notify the complainant if additional information is needed from the
+complainant; if so, it must be furnished within ten (10) calendar days or another mutually agreed
+upon time frame, or the complaint may be resolved without this information.
+(iv) No later than twenty-one (21) calendar days from the date the complaint was received, the ASA
+Provider will produce a response to the complainant along with instructions for filing appeals to
+the ASA Committee. If the ASA Provider cannot resolve the issue in no later than twenty-one
+(21) calendar days, then the ASA Provider shall notify the complainant in writing as soon as it is
+known that a delay will occur, state when a decision will be made, and specify the reason for
+delay.
+(v) The ASA Provider will send a copy of the complaint and its response to the Administrator.
+(vi) If the complainant is satisfied, then Step 1 of the complaint process ends. If the complainant is
+dissatisfied, then they may proceed to Step 2.
+a) Appeal of Decision to the ASA Committee; Complainants dissatisfied with any determination of an
+ASA Provider may appeal to the ASA Committee. The appeal process is set forth below.
+(i) A complainant under step 1 or its representativ e must file a written appeal of the ASA Provider’s
+determination with the Administrat or within thirty (30) calendar days of the determination. The
+appeal must state the date, the complaint, the desired resolution, and the reason the complainant
+has objected to the ASA Provider’s determination.
+(ii) The Administrator will acknowledge the appeal within five (5) business days of receipt. The
+acknowledgment will include the date the appeal was received and information about the
+complaint process.
+(iii) The Administrator will complete an information discovery and technical assistance period that
+includes the Complainant and the ASA Provider and will submit the appeal and all relevant
+information to the ASA Committee no later than twenty-one (21) calendar days from the date of
+the appeal. The ASA Committee will then issue a written decision no later than forty-five (45)
+calendar days from the date of the appeal. If the ASA Committee overturns the ASA Provider’s
+decision, then the ASA Committee may require the ASA Provider to submit a corrective action
+plan within fourteen (14) calendar days to the Administrator.
+(iv) The Administrator will notify the Complainant of the ASA Committee’s determination and what
+future steps will be taken, if any, to address the complaint.
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 19 of 29
+5.05.29 Mutual Aid Agreements Under authority of ORS Chapter 190, each ASA Provider shall execute a
+written mutual aid agreement with each other ASA Provider in the County and with each provider assigned
+to an adjoining ASA in an adjacent county, to respond with personnel and equipment in cases of need. At
+minimum, each mutual aid agreement must include the following elements:
+a) Equipment and Personnel. All equipment and personnel used by responding ambulance service
+providers must be duly licensed and comply with applicable rules of the Oregon Health Authority.
+b) Limited Use. All mutual aid agreements must state that the providers agree to limited use of mutual aid,
+and that no provider will rely on mutual aid to respond to more than 5 percent of its monthly, quarterly,
+or annual volume.
+c) Extreme danger. Responding ambulance service providers must retain the right to refuse to commit
+equipment and personnel to a physical location in which extreme danger to life or equipment exists. The
+senior officer of the responding agency shall be the sole judge of the extent and imminence of such
+danger.
+d) Sole discretion. Upon receipt of a request for aid, the responding ambulance service provider must
+retain the right to respond in a manner that it deems appropriate. Responses under mutual aid
+agreements must be voluntary and discretionary, and any failure to respond must not give rise to any
+legal claim by the requesting party, any other party to the agreements, or anyone not a party to the
+mutual aid agreement.
+e) Chain of Command. When equipment and personnel are furnished pursuant to the mutual aid
+agreement, all patient care activities of the responding ambulance service provider must be coordinated
+through the incident commander or their designee.
+f) Non-waiver of Ambulance Charge. Mutual aid agreements shall not waive, nor be construed to waive,
+the right of any ASA Provider to charge the individual receiving services for medical care provided in
+the jurisdiction of the other party.
+g) Waiver of Claim. Each party to the mutual aid agreement must waive all claims against the other for
+compensation for any loss, damage, personal injury, or death occurring as the consequence of the
+performance of the mutual aid agreement. Nothing within the mutual aid agreement shall waive the right
+of any agency or member of any agency to compensation now permitted or required by law or to such
+compensation that may be agreed to by the parties.
+h) Withdrawal. Each mutual aid agreement must provide that any party may withdraw from the agreement
+by providing at least six months’ written notice to all other parties of its intent to withdraw. Providers
+may agree to a longer notice requirement.
+5.05.30Contractor Agreements An ASA Provider who utilizes a contractor, other than a Quick Response Team
+within its ASA to provide any part of its response commitments, must maintain a written agreement to
+outline performance criteria standards for the contractor. The ASA Provider must notify the Administrator
+in writing of any contracting ar rangement and the Administrator must approve any contracting
+arrangement before it is implemented. The Administrat or is authorized to a pprove a written contract
+between an ASA Provider and a public or private pr ovider for emergency ambulance services within a
+County ASA only if the Administrator determines all of the following criteria have been satisfied:
+a) The ASA Committee has issued a written determination that the public or private provider has satisfied
+all elements contained in Section 9(3) of the ASA Ordinance.
+b) The contract term may not exceed four years, and may not be renewed without a determination from the
+ASA Committee that the public or private provider has met the service requirements of this Ordinance
+and the ASA Plan through the date of review.
+c) The contract must provide that it may be terminated at
+  will by action of the Board, either by its own
+motion or upon a recommendation of the ASA Committee or the Administrator.
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 20 of 29
+d) Once the Administrator approves the contract, the public or private provider may provide emergency
+ambulance services in a County ASA only in accordance with the terms of the contract and the
+requirements of the ASA Plan.
+5.05.31 Disaster Response All ASA Providers shall be actively invol ved in planning for and responding to any
+declared disaster within the County. Planning and response shall be in accordance with both a Mass
+Casualty Incident Plan and the County Emergency Operations Plan.
+a) County Resources Other Than Ambulances When in-county resources are required for the provision of
+EMS during a disaster, a request for additional resources may be made through the 9-1-1 center as follows:
+(i) Fire resources may be requested through mutual aid, usually by authority of the senior fire
+officer or incident commander on site.
+(ii) Law enforcement resources may be requested through mutual aid, usually by authority of the
+senior law enforcement officer on site.
+(iii) Coordination for county resources other than emergency response agencies will be done through
+the PSAPs by activating Yamhill County Emergency Management (503) 434-4584 business
+number or (503) 434-6500.
+a) Out of County Resources When out-of-county resources are required for the provision of EMS during a
+disaster, a request for additional resources may be made through the appropriate PSAP as follows:
+(i) through the Oregon State Conflagration Act, usually by authority of the Yamhill County Fire
+Defense Board Chief or incident commander on site.
+(ii) Law enforcement resources may be requested through mutual aid, usually by the authority of the
+senior law enforcement officer on site.
+(iii) Coordination for out-of-county resources other than emergency response agencies will be done
+through the PSAPs by activating Yamhill County Emergency Management.
+(iv) Out-of-county resources will be coordinate d through Yamhill County Emergency Management
+by coordinating with emergency management centers in adjoining counties:
+1. Polk County Emergency Management
+2. Clackamas County Emergency Management
+3. Tillamook County Emergency Management
+4. Lincoln County Emergency Management
+5. Washington County Emergency Management
+6. Marion County Emergency Management
+(v) Resources needed beyond this will be coordinated through the State Emergency Management
+division by activating the OERS SYSTEM: 1-800-452-0311.
+5.05.32 Mass Casualty Incident Plan The MCIP will provide guidance to  EMS response personnel in the
+coordination of response activities relating to mass casualty incidents within the County, consistent with
+the Yamhill County Emergency Operations Plan. See Appendix L for Mass Casualty Incident Plan.
+5.05.33 Creation, Maintenance, and Ad option of the MCIP Plan The County plan is created, in consultation
+with its Department of Emergenc y Management, the Fire Defense Board, law enforcement agencies,
+public health and neighboring jurisdictions, a mass casualty plan to be used in any mass casualty incident.
+The plan will be adopted after review by the Am bulance Ser
+ vice Area Co mmittee and reviewed at
+minimum every 5 years. Provisions for mass casualty response will be included in all mutual aid
+agreements.
+5.05.34 MCIP Coordination
+a) The highest-ranking officer on scene of the fire agency having jurisdiction of the incident may be the
+incident commander in all fire-related, mass casualty, and HAZMAT incidents. For other kinds of incidents,
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 21 of 29
+refer to the Yamhill County Emergency Operations Plan. The incident commander may delegate authority
+for on-scene command and operation but will retain overall responsibility.
+b) The incident command system (ICS) will be utilized for overall scene management.
+c) The ranking EMT at the scene or the individual appointed by the incident commander will have overall
+responsibility for medical care and will work under the direction of the incident commander. Failure to
+establish the primary ICS positions of command, medical, triage, treatment, and transport early in the
+incident will lead to long-term problems and delays.
+d) The incident commander may determine the on-scene command frequency and staging area.
+5.05.35 Response Guidelines
+a) The Response Unit First on the Scene
+(i) Establishes command.
+(ii) Assesses nature and severity of incident.
+(iii) Advises appropriate 9-1-1 PSAP/s of situation.
+(iv) Advises County Emergency Management of incident.
+(v) Requests appropriate fire police, and EMS resources services.
+(vi) Establish appropriate objectives.
+(vii) Establishes medical branch: triage, treatment and transportation groups as soon as practical.
+(viii) Establishes fire or rescue division as needed.
+b) Command Functions
+(i) Establish appropriate and effective incident command organization.
+(ii) Establish objectives and priorities.
+(iii) Develop / carry -out plan of action.
+(iv) Mitigate hazard / stabilize scene.
+(v) Prioritize rescue and extrication functions.
+(vi) Establish prompt triage and treatment of priorities within resources.
+(vii) Arrange rapid transport and documentation of patients.
+(viii) Coordinate order of mutual aid res ponse.
+5.05.36 Response to Terrorism Refer to Yamhill County Emergency Operations Plan for a complete outline of
+terrorism response. When resources are required, a request for additional resources may be made through
+the appropriate PSAP.
+5.05.37 Personnel and Equipment Resources
+a) Non-Transporting EMS Provider
+(i) When operating a non-transport EMS response unit in Yamhill County, all personnel must meet
+the requirements ORS Chapter 682 and OAR 333-255-0070 (1), (4) or (6).
+(ii) Anyone staffing a non-transport EMS response unit must not have consumed alcohol beverages
+in the eight hours before working or in any way be impaired by the ingestion of alcohol. Anyone
+staffing a non-transport EMS response unit must not be taking any medications or substances
+that would impair their ability to care adequately and safely for a patient.
+(iii) Each person staffing a non-transport EMS response unit and providing pre-hospital emergency
+medical care in the County is required to display their level of certification/licensure and, at a
+minimum, their name on the outermost garment of their work uniform and must make reasonable
+efforts to dis
+play this information under other circumstances. At a minimum, this uniform shall
+bear the name of the agency or ASA Provider providing the service. Reasonable exceptions are
+made for clothing used to protect the responders from injury or illness (i.e. turnouts, hazardous
+materials suits, personal protective garments, etc.)
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 22 of 29
+(iv) Each person staffing a non-transport EMS response unit and providing pre-hospital emergency
+medical care is required to wear a standardized uniform as determined by the employing agency.
+Uniforms shall be clean and free of excessive wear and tear and free of blood and/or bodily
+materials. Reasonable exceptions shall be granted to uniforms soiled during the course of
+providing service as long as they are cleaned and changed at the first appropriate opportunity.
+(v) Each ASA Provider shall have in place a pre-employment and for-cause drug and alcohol
+screening program. This program shall be on file with the Administrator. Each ASA Provider
+shall have in place a criminal background check program. This program shall be on file with the
+Administrator. Upon a reasonable request by the Administrator, a criminal background check
+may be required of any person providing direct patient services.
+b) Hazardous Materials
+(i) Refer to Yamhill County Emergency Operations Plan for a complete outline of hazardous
+materials response. When resources are required, a request for additional resources may be made
+through the appropriate PSAP.
+c) Search and Rescue
+(i) Refer to Yamhill County Emergency Operations Plan for a complete listing of search and rescue
+response and resources. When resources are required, a request for additional resources may be
+made through the appropriate PSAP.
+(ii) The majority of search and rescue within Yamhill County is provided by the Yamhill County
+Sheriff's Office through the Emergency Services Division. They are on-call and available on a
+24-hour, 365-days-a-year basis. In many instances, Search and Rescue will act as first responders
+in remote areas that are inaccessible to conventional ambulances. Search and Rescue shall either
+transport to the nearest ambulance or, at their discretion, use the services of an air ambulance,
+whichever is medically appropriate. Search and Rescue teams have direct radio contact with all
+local ambulances, hospitals, and the 9-1-1 Centers. In winter months, Search and Rescue will
+respond to remote areas covered with snow and not accessible by the usual ambulance service.
+When ALS is needed, Search and Rescue will transport the ambulance crews to the patient.
+d) Specialized Rescue
+(i) Refer to Yamhill County Emergency Operations Plan for a complete listing of rescue response
+and resources. Some of the common required resources are listed below. When resources are
+required, a request for additional resources may be made through the appropriate PSAP.
+e) Extrication Resources
+(i) Each ASA Provider is responsible for assuring that extrication equipment is available within its
+ASA. Each ASA Provider is required to keep a current up to date list and provide it annually and
+upon request to the County.
+(ii) Extrication equipment is available by the following jurisdictions within each Ambulance Service
+Area (ASA). Within ASA 1, extrication equipment is available through Dundee Fire at (503)
+554-8442 and Tualatin Valley Fire & Rescue at 503-649-8577. Within ASA 2, extrication
+equipment is available through Amity at 503-835-2311, Carlton at 503-852-6233, Dayton at 503-
+864-3558, Lafayette at 503-864-2451, McMinnville at 503-435-5800, Willamina at 503-879-
+1709, and Yamhill at 503-662-4653. Within ASA 3, extrication equipment is available through
+Sheridan at 503-843-2467. Within ASA 4, extrication equipment is available through Grand
+Ronde at 503-879-3473.
+5.05.38 Emergency Communications and System Access
+a) Telephone; Public Safety Answering Points
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 23 of 29
+(i) 9-1-1 is the primary method for accessing EMS in each County ASA. The Yamhill
+Communications Agency and Newberg 9-1-1 center are the two primary PSAPs in the County
+that provide emergency and non-emergency medical dispatch services.
+(ii) In defining the ASAs, every effort was made to recognize the PSAP service boundaries. In areas
+outside a PSAP’s designated control region, protocols must be in place to relay the information
+to the appropriate dispatching PSAP.
+(iii) In many areas, fire district boundaries were also considered in the development of this ASA
+Plan. Fire district boundaries usually provide a logical division of response areas by travel time
+and are consistent with population centers. These districts help to provide continuity of service
+delivery in fire, rescue, and EMS.
+b) Yamhill Communications Agency
+(i) YCOM provides dispatch services for ASAs # 2-4 which include the majority of Yamhill County
+and northern portions of Polk County. Phone number: 503-434-6500
+(ii) Newberg Emergency Communications (NEWCOM) 911Newberg 9-1-1 provides dispatch
+services for ASA # 1, including the Cities of Newberg and Dundee, as well as the surrounding
+rural area.
+(iii) All Yamhill County 9-1-1 calls are routed to either YCOM or Newberg PSAPS and dispatched
+or relayed from their facilities.
+(iv) Each ASA Provider in Yamhill County must be capable of contacting and effectively
+communicating with both PSAPs via radio, telephone, and other specified communications
+technologies, such as mobile data terminals. The primary method of contacting the PSAPs is by
+radio.
+(v) Both YCOM and Newberg 9-1-1 are supported, in part, by user fees paid by ASA Providers in
+the County. ASA Providers will continue to be charged user fees in accordance with current
+PSAP user fee formulas. Phone number: 503-554-7720
+c) Washington County Consolidated Communications Agency
+(i) WCCCA provides dispatch services for the TVF&R EMS units responding within any County
+ASA. Phone Number: 503-629-0111
+d) PSAP Accreditation
+(i) Newberg 9-1-1 is currently accredited through the Oregon Accreditation Alliance. They must
+meet related standards and indicate the ability to maintain standards related to EMS for their
+duration of the contract.
+(ii) YCOM is currently seeking accreditation through the International Academy of Emergency
+Dispatch (IAED), using the Medical Priority Dispatch Systems (MPDS) and the Oregon
+Accreditation Alliance. YCOM must continually demonstrate its ability to meet performance and
+quality assurance process and standards required by IAED in order to maintain accreditation.
+(iii) YCOM implemented ProQA® in December of 2018 and expanded its quality assurance program
+to further meet certain IAED requirements. IAED certification site visits were paused due to
+COVID and account management transition.
+(iv) YCOM’s quality assurance program is supported by their Supervising Physician and Program
+Manager, who participate in the Oregon/Washington Priority Dispatch Focus Group and attend
+national IAED Navigator® Conferences annually. Staff use the Priority Dispatch ProQA®
+Emergency Medical Priority Dispatching System (MPDS) for the processing of all medical calls.
+Quality assurance is measured by corresponding Priority Dispatch Advanced Quality Assurance
+(AQUA®) standards. Supervisory Staff are Certified EMD-Q’s. For 2021, YCOM’s Agency
+Performance Threshold (APT) was 8.82 for all calls.
+(v) In addition, EMD performance is measured for every sudden cardiac arrest case based upon the
+American Heart Association (AHA) standards. For 2021, agency wide, YCOM staff averaged 77
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 24 of 29
+total seconds for the following steps to occur: problem description to cardiac arrest recognition,
+which averaged 24 seconds; cardiac arrest recognition to positioning the patient, which averaged
+34 seconds; and positioning the patient to the delivery of the first compression, which averaged
+19 seconds.
+e) Dispatch Procedures
+(i) Yamhill County is a mixture of suburban, rural and frontier service areas. EMS services are
+provided by a mixture of career and volunteer practitioners who are available 24 hours a day.
+(ii) The dispatch system consists of the communication centers at YCOM and Newberg 9-1-1, with
+telephone answering and radio dispatch capabilities. The radio system consists of both two-way
+radio communications and radio-pager technologies, which provide one-way alerting and voice
+transmittal from dispatch and alpha-numerical paging that utilizes commercial telephone paging
+technology for one-way alerting and text messages
+(iii) The dispatch center obtains from the caller, and relays to the responders, at least the following
+information: the location of the incident, the nature of the incident, and any specific instructions
+or information that may be pertinent. In addition, the dispatch center will perform caller
+interrogation to determine the seriousness of the call and provide EMS unit pre-arrival
+instructions for rendering aid to the patient.
+(iv) Dispatch will transmit alert tones followed w ith location and nature of incident information
+concerning the call. If no response from duty personnel is received within five (5) minutes, then
+the dispatch center will re-alert the appropriate agency. If there is no response within three (3)
+minutes after the second alert, the next closest responder agency will be dispatched. The third
+alert will include the alert tones for the original agency as well as the next closest responder
+agency.
+(v) The first emergency medical responder to arrive and evaluate the scene and patient will notify
+other responding units of the situation. Based on the condition of the patient and the resources
+required to render appropriate aid, additional responding units may choose to continue to the
+scene or cancel their response.
+(vi) EMS personnel shall inform the dispatch center when any of the following occur: when an EMS
+unit becomes in-service; when an EMS unit begins responding from a location other than its
+station, in which case the unit will state the location from which it is responding; when an EMS
+unit is en route to the scene or to the destination, including the type of response; when an EMS
+unit arrives on the scene or at the destination; when the appropriate EMS unit reports on-scene
+and patient conditions; when any EMS unit at the scene reports what resources are required for
+the incident; when an EMS begins transporting the patient(s) to a hospital or other medical
+facility, including the number of patients and the name of the facility; when an EMS unit leaves
+the scene, if this is different from transport notification; when an EMS unit arrives at the
+destination or when it has arrived back at its station or quarters; and when an EMS unit is out of
+service with estimated unavailable time.
+f) Dispatch Notification Times
+(i) Centers are required to answer requests for emergency assistance within 10 seconds, 90% of the
+time. Centers are required to dispatch all life-threatening medical calls within 3 minutes and all
+other medical calls within 4 minutes 90% of the time. Exclusions as defined by National Fire
+Protection Association (NFPA) 1221 or other industry’s best practices may be considered. Data
+on notification times shall be provided and reviewed by the ASA Committee every 6 months.
+g) Radio System Communications
+(i) Radios are the primary link between the dispatch centers and ambulances, as well as other
+emergency responders. All ASA Providers will utilize the dispatch services of the ASA PSAPs
+and possess radios capable of accessing all common fire channels within Yamhill County and
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 25 of 29
+have the ability to communicate seamlessly with the ASA PSAPs and other ASA Providers and
+responders. The systems used by each ASA Provider must be capable of effectively receiving
+and transmitting voice and/or data messages on specific radio frequencies, designated by the
+County, as assigned by the coordinating PSAPs.
+(ii) All ambulances will maintain and use multi-channel mobile radios and multi-channel handheld
+radios. Radios and other communications equipment used by each ASA Provider must be
+compatible with PSAP procedures and meet the technical standards of systems used by YCOM
+and Newberg 9-1-1. It is each ASA Provider's responsibility to procure, install and maintain all
+technologies, or other equipment, used in the delivery of communications services. Essential
+communications equipment, as mutually defined by ASA Providers and PSAPs, will be installed
+in all ambulances and supervisory vehicles.
+(iii) All radio and telephone commu nications, including pre-arrival instructions and call time
+tracking, must be recorded on a mutually accessible media.
+(iv) Each ambulance must be provided with cellular telephones for supplemental communications
+capabilities as a backup system to radios.
+(v) PSAP radio systems must meet the following requirements: (1) be physically restricted to
+authorized personnel only; (2) meet National Fire Protection Association (NFPA) standards and
+all State or County standards; (3) maintain and use consoles with the ability to communicate with
+EMS providers and hospitals; (4) maintain and use emergency phone lines and primary radio
+frequencies that are recorded with a 24-hour, time-taped device capable of play-back to the
+desired second, which is equipped with a voice recorder for immediate play-back of distress
+calls; (5) store time-tape recordings for no less than 7 months; (6) utilize clear text/plain English
+for radio traffic; and (7) equip its center with a back-up power source capable of indefinitely
+maintaining all functions of the center in the event the regular power supply is interrupted.
+(vi) In 2016, during the transfer of ASA #1 from Newberg Fire District to Tualatin Valley Fire and
+Rescue (TVF&R), the primary dispatch center for ASA #1 changed. 9-1-1 calls in ASA #1 are
+answered by Newberg-Dundee Communications Center and then transferred to the Washington
+County Consolidated Communications Agency (WCCCA) for dispatch services. Because of this
+change, the Newberg 9-1-1 Center has transitioned to police dispatch only, routinely transferring
+EMD and Fire calls to WCCCA, and law enforcement calls outside the city limits of Newberg
+and Dundee, to YCOM.
+(vii) YCOM’s dispatch system combines two-way radio communication and radio-pager technology
+with digital alpha-numerical notification and delivery. Digital paging is done via CAD interface,
+utilizing YCOM’s two paging servers which provide capability of messaging through SMTP
+(email) and SMS (text) protocols. YCOM is  a Pulsepoint® Connected organization, and
+simultaneously sends secondary notifications to both Pulsepoint® and Active 9-1-1 subscribers.
+Station alerting capability exists through SMTP and tone alerting radio interface.
+h) EMS Dispatcher Training
+(i) An integral part of the EMS component of the PSAPs in the County is the employment of
+appropriately trained individuals using approved, standardized support tools for handling EMS
+calls. Therefore, all EMS dispatchers are required to successfully complete an Emergency
+Medical Dispatch (EMD) training course approved by the State of Oregon Department of Public
+Safety Standards and Training (DPSST) and to possess current DPSST EMD certification.
+Dispatchers must also possess current and verifiable First Aid/CPR certification.
+(ii) In addition: (1) each PSAP is responsible for acquiring and maintaining a State of Oregon
+approved EMD system; (2) each PSAP is responsible for ensuring all dispatch employees are
+certified as EMD dispatchers through the State of Oregon; (3) each PSAP is responsible for
+ensuring all dispatch employees are First Aid/CPR certified; (4) strict adherence to medical
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 26 of 29
+dispatch protocol is required, except in the event deviation from protocol is clearly justified due
+to special circumstances; (5) compliance with EMD questions and pre-arrival instructions shall
+be a routine part of an integrated quality improvement process and shall be reported monthly
+with response statistics; and (6) if an automated EMD system is used, a manual back-up system
+with current EMD cards must be available in the event of system failure, and all dispatch
+employees must be trained and certified in the use of the manual card system.
+(iii) The PSAP shall provide comprehensive internal orientation and ongoing training and testing that
+encompasses EMD certification, CAD system use, system status management, geography,
+medical priority dispatch protocols, first responder notification protocols and procedures, air
+medical notification procedures, disaster management policies and procedures, voice radio
+system operation (including medical and field communications equipment), paging system
+conventions and uses, data radio system operations, radio telephone usage, and emergency
+operations center procedures.
+(iv) Communications personnel will be encouraged to attend any courses, conferences, or workshops
+that directly relate to their work and enhance their skills. The communications dispatcher's goal
+is to meet or exceed DOT Emergency Medical Dispatch Course Standards. Communications
+personnel must meet all current and future standards adopted by the State or County.
+i) Computer Aided Dispatch System
+(i) The PSAP utilizes a computer aided dispatch (CAD) system to record dispatch information for
+all service requests. The CAD system is capable of tracking, at a minimum, the date, hour,
+minutes, and seconds of several time stamps throughout the EMS assignment for each unit
+engaged in the call.
+(ii) Dispatchers must be trained to complete mutually approved manual procedures for each dispatch
+of an ambulance when the computer system fails or becomes inoperable. Following the
+resumption of normal service of the CAD system, personnel must retroactively enter the data
+recorded on the manual dispatch cards during the outage into the CAD system.
+j) Data and Reporting Requirements
+(i) The long-term success of an EMS system is predicated upon its ability to both measure and
+manage its operations. Therefore, each ASA Provider must maintain and provide detailed
+operational, clinical, and administrative data in an electronic format and manner that facilitates
+retrospective analysis. Security features preventing or recording unauthorized access or changes
+in data must be in place, including full audit trail documentation.
+k) Quality Improvement and Medical Control
+(i) Each ASA Provider's electronic data system must be capable of capturing and reporting common
+data elements used within the EMS system. The PSAP's data system must be capable of
+demonstrating adherence to medical dispatch protocols, adherence to medical priority dispatch
+questioning, and provision of pre-arrival instructions.
+(ii) At least one employee from each ASA Provider will be assigned to participate in the quality
+assurance/improvement process utilized by YCOM and Newberg 9-1-1.
+l) Management of Personnel
+(i) The PSAPs and ASA Providers are responsible for the management and supervision of their
+employees. ASA Providers, in conjunction with YCOM, Newberg 9-1-1, and WCCCA
+management, will cooperate in the resolution of problems and disputes.
+5.05.39 Provider Selection
+a) Initial Assignment of ASAs
+(i) Unless there has been more than one application made for an ASA franchise, any applicant who
+meets the application requirements and who was providing service on the effective date of the
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 27 of 29
+ordinance adopting this ASA Plan shall be franchised to continue to provide Ambulance Service
+for the ASA in which the applicant was serving.
+(ii) If more than one application is made for an ASA franchise within 180 days of the effective date
+of the ordinance adopting this ASA Plan, then each application shall be considered by the ASA
+Committee for recommendation to the Board.
+5.05.40 Reassignment
+a) Francise Term and Renewal
+(i) An initial Franchise issued under this ASA Plan shall be valid from the date of issuance for ten
+years and may be renewed.
+(ii) Not more than one hundred eighty (180) days and not less than ninety (90) days prior to the
+expiration of a Franchise granted under this ASA Plan, each ASA Provider who desires to renew
+a Franchise shall notify the Administrator. Any other Ambulance Service providers duly licensed
+in the State of Oregon to provide BLS or ALS ambulance service may also submit applications
+during this time frame.
+(iii) Review of all applications for renewal or assumption of a Franchise will be conducted in the
+same manner as the review of applications for the initial assignment of the ASAs.
+b) Transfer of Franchises
+(i) An ASA Provider may transfer its Franchise to another entity only upon the Board’s written
+approval of a written request to transfer the Franchise and the Board’s approval of an application
+submitted by the replacement provider.
+(ii) The transfer of a Franchise must occur as follows: (1) the Board must approve the written request
+for a transfer at a public meeting; and (2) review of all applications for the transfer of the
+Franchise must then be conducted in the same manner as the review of applications for the initial
+assignment of the ASAs.
+c) Early Discontinuance of Service by ASA Provider
+(i) An ASA Provider that intends to discontinue providing EMS and related service before the
+expiration of its Franchise must provide the Administrator with at least 180 days’ written notice
+prior to discontinuing service. The Administrator shall notify the ASA Committee and then set a
+time by which applications must be submitted for the ASA franchise. The ASA Committee shall
+develop an interim plan for coverage of the ASA, using other existing ASA Providers and/or
+other available public or private resources until the ASA can be reassigned.
+d) Temporary Reassignments
+(i) The Board may, on its own motion or upon a recommendation of the ASA Committee, issue a
+temporary certificate, valid for a stated period not to exceed twelve (12) months, entitling
+another current ASA Provider or another public or private Ambulance Service Provider to
+provide emergency ambulance service in all or part of the ASA. The Board may renew a
+temporary certificate for one additional six (6) month period.
+5.05.41 Application for an ASA Any Ambulance Service provider duly licensed in the State of Oregon to provide
+BLS or ALS ambulance service may s ubmit an application within 180 days  of the effective date of the
+ordinance that adopts this ASA Plan to become a fra nchised provider of services in any County ASA or
+ASAs. The application shall be in writi ng and contain the following information:
+a) Legal name and address of applicant submitting application.
+b) “Doing Business As” (DBA) name of applicant submitting application.
+c) Owner(s)’ of the applicant and their residential street address(s).
+d) Owner(s)’ phone number and email address(es).
+e) Oregon ambulance service license number.
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 28 of 29
+f) Date of original licensure by the state of Oregon to provide ambulance services, with all renewal dates and a
+listing of any lapses in licensure.
+g) List of any actions taken against the applicant by the State of Oregon or any county within the state.
+h) Type/level of ambulance service proposed to be provided (Medical First Response, BLS or ALS)
+i) A list of vehicles to be used in providing emergency ambulance services in the ASA or ASAs, including the
+year, make and model, and verification that each vehicle is licensed by the state of Oregon.
+j) A list of personnel to be used in providing emergency ambulance service in the ASA or ASAs, the role of
+each person, and where applicable each person’s current Emergency Medical Technician level and
+certificate number.
+k) The ASA or ASAs proposed to be serviced, both in narrative description form and by detailed map
+presentation.
+l) Reason designation is sought by applicant to provide ambulance services in each referenced ASA.
+m) Identification of the current ASA Provider serving each specified ASA.
+n) Whether the existing ASA Provider of each specifi ed ASA agrees to relinquish said ASA to the applicant.
+o) If an existing ASA Provider has not agreed to relinquish the specified ASA to the applicant, then an
+explanation why the service the applicant proposes would improve ambulance services in the specified
+ASA.
+p) A statement as to whether or not the person would contract for any emergency ambulance services to be
+provided.
+q) An affirmative statement that the applicant is financially solvent and capable of providing the specified
+emergency ambulance services in the specified ASA.
+r) Report of any bankruptcy by applicant in the last five years.
+s) Submission with the application of audited financial statements for the applicant, if they exist. If not, the last
+three years’ internal financial statements.
+t) The source of funding the applicant expects to receive in order to provide a sustained operation servicing the
+specified ASA.
+(i) If funding includes billing for services, then the rates the applicant intends to charge for their
+ambulance services.
+u) Consistent with the Oregon Tort Claims Act, proof of general liability insurance coverage amounts not less
+than the following:
+(i) $150,000 to any claimant for any number of claims for damage to or destruction of property,
+including consequential damages, arising out of a single accident or occurrence.
+(ii) $750,000 for any number of claims for damage to or destruction of property, including
+consequential damages, arising out of a single accident or occurrence.
+(iii) $1 million to any claimant as general and special damages for all other claims arising out of a
+single accident or occurrence.
+(iv) $2 million for any number or type of claims, other than claims of damage to or destruction of
+property, arising out a single accident or occurrence.
+v) The fully completed and signed application must be submitted to the Administrator. Upon receipt of an
+application, the application shall be reviewed by the ASA Committee, which shall make a recommendation
+to the Board on whether to approve or deny the application. The assignment or reassignment of any ASA
+must be made by a written order of the Board.
+5.05.42 Notification of Vacating an ASA Any ASA Provider who intends to cease operation or vacate the
+provision of services to an ASA, or any portion ther eof, must prove at least six months’ notice to the
+County, through the Administrator. The notice shall be in writing and state the
+ reason for termination of
+ambulance services.
+YAMHILL COUNTY CODE
+Chapter 5.05 Yamhill County Ambulance Service Code Page 29 of 29
+5.05.43 Maintenance Level of Service In the event an ASA Provider intends to cease operations and forfeit their
+designated ASA, said ASA Provider shall continue services for at least six months, or until the County is
+able to identify and assign a replacement Ambulance Service provider.
+a) In areas of the County where geographic or other limitations might hinder the adequate provision of
+ambulance services, the County may enter intergovernmental agreements with counties, cities or fire
+districts in order to provide efficient and effective ambulance service by means of public or private
+Ambulance Service Providers.
+b) In the event an ASA Provider is replaced or removed as the service provider of a County ASA for any
+reason, the ASA Provider will continue to provide services until such time as a new ambulance service
+provider can begin services. Each ASA Provider must cooperate fully with the County to ensure that any
+reassignment of an ASA does not disrupt ambulance service levels.
+Adopted via Ordinance No. 411 on 06/19/1985; eff. 06/19/1985
+Repealed by Ordinance No. 646 on 06/11/1998; eff. 07/11/1998
+Adopted via Ordinance No. 646 on 06/11/1998; eff. 07/11/1998
+Amended by Ordinance No. 744 on 08/19/2004; eff. 08/19/2004
+Repealed by Ordinance No. 761 on 02/28/2005; eff. 03/01/2005
+Adopted via Ordinance No. 761 on 02/28/2005; eff. 03/01/2005
+Repealed by Ordinance No. 924 on 02/16/2023; eff. 05/17/2023
+Adopted via Ordinance No. 924 on 02/16/2023; eff. 05/17/2023
+Amended by Ordinance No. 927 on 06/22/2023; eff. 06/22/2023
+Repealed via Ordinance No. 946 on [05/07/2026]; eff. [MM/DD/YYYY]
+Adopted via Ordinance No. 946 on [05/07/2026]; eff. [MM/DD/YYYY]
+LEGISLATIVE HISTORY
+APPENDIX A
+Ambulance Service Area Plan
+ii
+TABLE OF CONTENTS
+CERTIFICATION BY GOVERNING BODY OF COUNTY AMBULANCE SERVICE PLAN [OAR 333-260-
+0020(3) 1] ................................................................................................................................ 1
+OVERVIEW OF COUNTY (DEMOGRAPHIC AND GEOGRAPHIC DESCRIPTION) [OAR 333-260-
+0020(3) 2] ................................................................................................................................ 2
+COUNTY BACKGROUND.......................................................................................................................... 2
+HISTORY............................................................................................................................................. 2
+GEOGRAPHY............................................................................................................................... ......... 2
+ADJACENT COUNTIES ............................................................................................................................. 2
+INCORPORATED CITIES........................................................................................................................... 2
+DEMOGRAPHICS................................................................................................................................... 3
+Historical population ............................................................................................................................................ 3
+ECONOMY ............................................................................................................................... ........... 3
+EDUCATION ......................................................................................................................................... 3
+DEFINITIONS [OAR 333-260-0020(3) 3] ......................................................................................... 4
+BOUNDARIES [OAR 333-260-0020(3) 4] ........................................................................................ 8
+ASA BOUNDARIES .............................................................................................................................. .. 9
+EMERGENCY MEDICAL SERVICE (EMS) ACTIVITY WITHIN THE COUNTY ......................................................................... 9
+ASA Map(s) with Response Time Zones [OAR 333-260-0020(3) 4.(a)] .............................................. 11
+ASA Boundaries Narrative Description [OAR 333-260-0020(3) 4.(b)] ............................................... 15
+A. ASA # 1 East ..................................................................................................................................... 15
+B. ASA #2 North ................................................................................................................................... 16
+C. ASA #3 South Central ........................................................................................................ ............... 18
+D. ASA # 4 West ... ................................................................................................................................ 19
+Map(s) Depicting “9-1-1,” Fire Districts and Incorporated Cities [OAR 333-260-0020(3) 4.(c)] .......... 20
+INCORPORATED CITIES.................................................................................................................................... 20
+FIRE DISTRICTS ............................................................................................................................................. 21
+FIRE STATIONS & FIRE STATIONS WITH EMS ASSETS .............................................................................................. 22
+Alternatives Considered to Reduce Response Times [OAR 333-260-0020(3) 4.(d)] ........................... 23
+USE OF DRONES IN EMS ................................................................................................................................. 23
+COMMUNITY AEDS ....................................................................................................................................... 24
+ALTERNATIVE TO RESPONSE TIME STANDARDS ...................................................................................................... 24
+CLINICAL PERFORMANCE STANDARDS................................................................................................................. 25
+SYSTEM ELEMENTS [OAR 333-260-0020(3) 5]......................................................................... 25
+9-1-1 DISPATCHED CALLS [OAR 333-260-0020(3) 5.(a)] ......................................................................... 25
+PUBLIC SAFETY ANSWERING POINT (PSAP) /D ISPATCH CENTERS .............................................................................. 25
+PRE-ARRANGED NON-EMERGENCY TRANSFERS AND INTER-FACILITY TRANSFERS [OAR 333-260-0020(3) 5.(b)] ... 26
+NOTIFICATION AND RESPONSE TIMES [OAR 333-260-0020(3) 5.(C)] .......................................................... 26
+iii
+LEVEL OF CARE [OAR 333-260-0020(3) 5.(d)]....................................................................................... 27
+PERSONNEL [OAR 333-260-0020(3) 5.(e)] ........................................................................................... 28
+MEDICAL SUPERVISION [OAR 333-260-0020(3) 5.(f)] ............................................................................. 28
+AMBULANCE SERVICE LICENSE AND PATIENT CARE EQUIPMENT [OAR 333-260-0020(3) 5.(g)] ......................... 29
+VEHICLES [OAR 333-260-0020(3) 5.(h)] .............................................................................................. 29
+TRAINING [OAR 333-260-0020(3) 5.(i)] .............................................................................................. 30
+QUALITY IMPROVEMENT [OAR 333-260-0020(3) 5.(j)] ........................................................................... 30
+QUALITY IMPROVEMENT;S TRUCTURE [OAR 333-260-0020(3) 5.(j)(A)] ..................................................................30
+QUALITY IMPROVEMENT; PROCESS [OAR 333-260-0020(3) 5.(j)(B)] ...................................................................... 31
+QUALITY IMPROVEMENT; PROBLEM RESOLUTION .................................................................................................. 32
+NUISANCE................................................................................................................................................... 33
+COORDINATION [OAR 333-260-0020(3) 6] .................................................................................... 33
+ENTITY THAT SHALL ADMINISTER AND REVISE THE ASA PLAN [OAR 333-260-0020(3) 6.(a)]........................... 33
+COMPLAINT REVIEW PROCESS [OAR 333-260-0020(3) 6.(b)] ................................................................... 33
+MUTUAL AID AGREEMENTS [OAR 333-260-0020(3) 6.(c)] ...................................................................... 35
+CONTRACTOR AGREEMENTS............................................................................................................................. 36
+DISASTER RESPONSE [OAR 333-260-0020(3) 6.(d)] ............................................................................... 37
+COUNTY RESOURCES OTHER THAN AMBULANCES [OAR 333-260-0020(3) 6.(d)(A)] ................................................... 37
+OUT-OF-COUNTY RESOURCES [OAR 333-260-0020(3) 6.(d)(B)] ........................................................................... 37
+MASS CASUALTY INCIDENT PLAN (" MCIP") [OAR 333-260-0020(3) 6.(d)(C)] ......................................................... 38
+RESPONSE TO TERRORISM [OAR 333-260-0020(3) 6.(d)(D)] ................................................................................ 39
+PERSONNEL AND EQUIPMENT RESOURCES [OAR 333-260-0020(3) 6.(e)] .................................................... 39
+NON-TRANSPORTING EMS PROVIDER [OAR 333-260-0020(3) 6.(e)(A)] ................................................................. 39
+HAZARDOUS MATERIALS [OAR 333-260-0020(3) 6.(e)(B)] .................................................................................. 40
+SEARCH AND RESCUE [OAR 333-260-0020(3) 6.(e)(C)] ....................................................................................... 40
+SPECIALIZED RESCUE [OAR 333-260-0020(3) 6.(e)(D)] ....................................................................................... 40
+EXTRICATION RESOURCES [OAR 333-260-0020(3) 6.(e)(E)] ................................................................................. 41
+Emergency Communications and System Access [OAR 333-260-0020(3) 6.(f)] .................................. 42
+Telephone; Public Safety Answering Points [OAR 333-260-0020(3) 6.(f)(A)] ................................................. 42
+YAMHILL COMMUNICATIONS AGENCY (YCOM) ............................................................................................................ 42
+NEWBERG 9-1-1 COMMUNICATIONS CENTER ............................................................................................................... 42
+PSAP ACCREDITATION.............................................................................................................................................. 42
+DISPATCH PROCEDURES [OAR 333-260-0020(3) 6.(f)(B)] .................................................................................... 43
+RADIO SYSTEM; COMMUNICATIONS [OAR 333-260-0020(3) 6.(f)(C)] ..................................................................... 44
+EMS DISPATCHER TRAINING [OAR 333-260-0020(3) 6.(f)(D)] ............................................................................. 45
+COMPUTER AIDED DISPATCH SYSTEM ................................................................................................................. 46
+DATA AND REPORTING REQUIREMENTS............................................................................................................... 46
+QUALITY IMPROVEMENT AND MEDICAL CONTROL ................................................................................................. 46
+MANAGEMENT OF PERSONNEL......................................................................................................................... 47
+PROVIDER SELECTION [OAR 333-260-0020(3) 7] ............................................................................. 47
+INITIAL ASSIGNMENT OF ASAS [OAR 333-260-0020(3) 7.(a)] .................................................................. 47
+REASSIGNMENT [OAR 333-260-0020(3) 7.(b)] ...................................................................................... 47
+FRANCHISE TERM AND RENEWAL ...................................................................................................................... 47
+iv
+TRANSFER OF FRANCHISES............................................................................................................................... 47
+EARLY DISCONTINUANCE OF SERVICE BY ASA PROVIDER .......................................................................................... 47
+APPLICATION FOR AN ASA [OAR 333-260-0020(3) 7.(c)] ........................................................................ 48
+NOTIFICATION OF VACATING AN ASA [OAR 333-260-0020(3) 7.(d)] ......................................................... 49
+MAINTENANCE OF LEVEL OF SERVICE [OAR 333-260-0020(3) 7.(e)]........................................................... 49
+Ambulance Service Area Plan; December 2023 1
+CERTIFICATION BY GOVERNING BODY OF COUNTY AMBULANCE
+SERVICE PLAN [OAR 333-260-0020(3) 1]
+CERTIFICATION BY GOVERNING BODY OF COUNTY AMBULANCE SERVICE PLAN
+The undersigned members of the Yamhill County Board of Commissioners (the "Board")
+together with the Chair and Administrator of the Ambulance Service Area Advisory Committee
+(the "ASA Committee") hereby certify, pursuant to Oregon Administrative Rule 333-260-0030
+(2)(a)-(c), that:
+A. Each subject or item contained in the Yamhill County Ambulance Service Plan has been
+addressed and considered in the adoption of the plan by the Board upon the
+recommendation of the ASA Committee.
+B. In the Board's judgment, the ambulance service areas established by Ordinance No. 946
+as amended and ratified by the ASA Committee provide for the efficient and effective
+provision of ambulance services in Yamhill County.
+C. To the extent applicable the Board and ASA Committee have complied with ORS Chapter
+682 and existing local ordinances and rules in developing and approving this Plan.
+DONE AT MCMINNVILLE, OREGON THIS 7th DAY OF May, 2026.
+YAMHILL COUNTY, OREGON
+BOARD OF COMMISSIONERS
+YAMHILL COUNTY, OREGON
+ASA ADVISORY COMMITTEE
+Chair Chair
+C
+ommissioner Administrator
+Commissioner
+APPROVED AS TO FORM:
+By:
+Yamhill County Counsel
+Ambulance Service Area Plan; December 2023 2
+OVERVIEW OF COUNTY (DEMOGRAPHIC AND GEOGRAPHIC
+DESCRIPTION) [OAR 333-260-0020(3) 2]
+COUNTY BACKGROUND
+Yamhill County is one of 36 counties in the State of Oregon. Yamhill County’s name derives
+from the Yamhelas Indians, members of the Native American Kalapuya Tribe. It is located in the
+Willamette Valley and is part of the Portland, Oregon, Metropolitan Statistical Area (MSA).
+HISTORY
+The Yamhill District (later becoming county) was established in 1843, five years before the
+Oregon Territory was created. It originally spread over 12,000 square miles, which were
+eventually partitioned into twelve present counties. Today, Yamhill County consists of 718
+square miles. The County seat of government is located in McMinnville.
+GEOGRAPHY
+The county is composed of a total area of 718 square miles, of which 716 square miles is land
+with the remaining 2.5 square miles being water. It is the fifth-smallest county in Oregon by
+area. The tallest mountain in the county is Trask Mountain in the northwest corner of the
+county.
+The transportation network for Yamhill County is dominated by a road system of northeast-to-
+southwest and north-to-south paved highways that are part of the state highway
+transportation system. Local travel is by secondary and county roads that are significantly
+influenced by drainage patterns of rivers and mountains in the county.
+ADJACENT COUNTIES
+Washington County (north)
+Clackamas County (east)
+Marion County (southeast)
+Polk County (south)
+Tillamook (west)
+INCORPORATED CITIES
+Amity McMinnville (county seat)
+Carlton Newberg
+Dayton Sheridan
+Dundee Willamina
+Lafayette Yamhill
+DEMOGRAPHICS
+Historical population
+Census Population Percent
+Change
+1860 3,245 —
+1870 5,012 54.5%
+1880 7,945 58.5%
+1890 10,692 34.6%
+1900 13,420 25.5%
+1910 18,285 36.3%
+1920 20,529 2.3%
+1930 22,036 7.3%
+1940 26,336 19.5%
+1950 33,484 27.1%
+1960 32,478 3.0%
+1970 40,213 23.8%
+1980 55,332 37.6%
+1990 65,551 18.5%
+2000 84,992 29.7%
+2010 99,193 16.7%
+2020 107,722 8.6%
+2021 est. 108,239 < 1%
+ECONOMY
+Yamhill County ranks seventh out of Oregon's thirty-six counties in annual market value of its
+agricultural production. This agricultural production includes wheat, barley, horticulture, and
+dairy farming, with 13,201 acres in 1997 planted in orchards. One-third of the county is covered
+with commercial timber, and the economic mainstay of the western part of the county is
+logging and timber products.
+Yamhill County is a significant focus of Oregon's wine industry, having the largest area of any
+Oregon county planted in vineyards. Six of the state's American Viticultural Areas are wholly or
+partly in the county: Chehalem Mountains AVA, Dundee Hills AVA, Eola-Amity Hills AVA,
+McMinnville AVA, Ribbon Ridge AVA, and Yamhill-Carlton District AVA. Over 80 wineries and
+200 vineyards represent the largest concentration of wine growers and producers in any county
+in the state.
+EDUCATION
+Yamhill County Institutions of Higher Education (IHEs) include Linfield University, George Fox
+University, the Chemeketa Community College Yamhill Valley Campus, and the Portland
+Community College Newberg Center.
+DEFINITIONS [OAR 333-260-0020(3) 3]
+Oregon Administrative Rules (OARs) set forth by the Oregon Health Authority provide several
+standard definitions; Yamhill County has incorporated these below for use in this ASA plan.
+Yamhill County has established additional definitions. If any of the following terms appear in
+this ASA Plan, they shall be defined as indicated below.
+"9-1-1" means a universal telephone number used to request emergency medical assistance.
+“Administrative Rules” means the rules relating to emergency medical services adopted by the
+Oregon Health Authority.
+“Administrator” means the Health and Human Services Director for Yamhill County Health and
+Human Services department or their designee.
+“Advanced Life Support (ALS)” means out of hospital emergency care which encompasses
+procedures, treatments, and techniques within the Advanced EMT (AEMT), EMT Intermediate
+(EMT-I), Paramedic, or Registered Nurse scope of practice and are authorized by the EMS
+Supervising Physician. The maximum functions that may be assigned to an AEMT, EMT-I and
+Paramedic are listed in OAR 847-035-0030.
+"Advanced Life Support (ALS) Ambulance" means an ambulance that meets all County and State
+requirements of an ALS capable EMS unit defined above.
+"Ambulance" means any privately or publicly owned motor vehicle, aircraft, or watercraft that
+is regularly provided or offered to be provided for the emergency transportation of persons
+who are ill or injured or who have disabilities (ORS 682.025(1)).
+"Ambulance Service" means any individual, partnership, corporation, association, governmental
+agency or other entity that holds a Division-issued ambulance service license to provide
+emergency and non-emergency care and transportation to sick, injured or disabled persons.
+Ambulance Services do not include specialty transport teams, ambulances owned or operated
+under the control of United States government, vehicles operated solely on facility grounds,
+transportation of clients from outside of the county to a health care facility within the county,
+or ambulance or vehicles which are passing through without destination in the county.
+"Ambulance Service Area (ASA)" means a geographic area, which is served by one ambulance
+service provider, and may include all, or a portion of a county, or all or portions of two or more
+contiguous counties (OAR 333-260)
+"ASA Plan" is a plan that addresses the need for and coordination of ambulance services by
+establishing ambulance service areas for the entire county and by meeting the other
+requirements of these rules (OAR 333-260).
+“ASA Advisory Committee” means the governing body that makes recommendations to the
+Board on the County’s ambulance service system and other aspects of the County’s ASA Plan.
+The ASA Committee interfaces with the Board through the Administrator.
+"ASA Provider" means a licensed ambulance provider designated by the Board as the sole
+provider of emergency ambulance service in a Yamhill County ASA.
+“Base Fee" means the fee charged for the pick-up of a patient, exclusive of mileage. This fee
+shall be all-inclusive and shall not include "flag drop" or any other charges.
+“Basic Life Support (BLS)” means out of hospital emergency care which encompasses
+procedures, treatments, and techniques within the Emergency Medical Responder (EMR)
+and/or Emergency Medical Technician (EMT) scope of practice and are authorized by the
+Yamhill County EMS Supervising Physician. The maximum functions that may be assigned to an
+EMR or EMT are listed in OAR 847-035-0030.
+“Basic Life Support (BLS) Ambulance” means an ambulance, which meets all County and State
+requirements and is staffed and equipped to providing service as defined by rule.
+“Board” means the Yamhill County Board of County Commissioners.
+“County” means Yamhill County, Oregon.
+"Division" means the Oregon Health Authority (OAR 333.260).
+"Emergency" means those medical or trauma conditions that manifest themselves by
+symptoms of sufficient severity that a prudent layperson possessing an average knowledge of
+health and medicine would reasonably expect that failure to receive immediate medical
+attention would place the health of a person, or the fetus in the case of a pregnant woman, in
+serious jeopardy.
+"Emergency Medical Dispatch (EMD)" means that system adopted by the County used to
+interrogate a caller requesting medical transportation in an effort to determine the severity of
+the medical condition.
+“Emergency Medical Services (EMS)” means those pre-hospital functions and services which are
+required to prepare for and respond to medical emergencies, including transport, treatment,
+communications, evaluation, and public education. Inter-facility medical transportation is not
+considered EMS and thus does not constitute an EMS response.
+“Emergency Medical Technician (EMT)” means a person who is licensed by the Authority as an
+Emergency Medical Technician.
+“Employee” means any full-time paid or part-time paid person acting within the scope of their
+duties and for or on behalf of an ambulance service.
+“Franchise” means an exclusive franchise to provide emergency and non-emergency ambulance
+service issued by the Board pursuant to this Ordinance.
+"Hospital" has the meaning set forth in ORS 442.015(15).
+"Inter-Facility Transfer" means any transfer, after initial assessment and stabilization, from and
+to a health care facility to include hospital to hospital; clinic to hospital; hospital to
+rehabilitation; and hospital to long-term care.
+“Incident Command System (ICS)” means a management tool employed during disasters and
+emergency responses to organize and coordinate response operations.
+“License” means a non-transferable, non-assignable authorization granted to the person,
+agency or entity to whom it is issued, authorizing the person, agency or entity whose name
+appears thereon to do business in the county.
+“Mass Casualty Incident (MCI)" means any incident involving, or potentially involving, multiple
+patients as defined by rule.
+“Medical Resource Hospital (MRH)” means the medical communications facility which provides
+on-line-medical-control for Multnomah and Clackamas counties.
+"Mutual Aid” means an agreement between emergency responders to lend assistance across
+jurisdictional boundaries.
+"Non-Emergency" means those conditions that are not specifically dealt with in the emergency
+medical dispatch system adopted by the County. The County may further delineate categories
+that may be handled by a non-emergency ambulance provider (e.g. inter-facility transfer).
+"Non-Emergency Ambulance Services" means pre-arranged or non-emergency ambulance
+transfers and inter-facility ambulance transfers provided by a licensed ambulance service when
+the person being transported needs the availability of medical assistance. It does not include
+stretcher cars, secure transport, or medical taxis that do not provide medical services.
+"Notification Time" means the length of time between the initial receipt of the request for
+emergency medical service by either a provider or an emergency dispatch center (9- 1-1), and
+the notification of all responding EMS personnel.
+“Offline Medical Control ” means performing EMS actions or medication administration under
+standing orders or protocols.
+“Online Medical Control ” means a medical facility designated by the county as authorized to
+provide on-line-medical-control advice and support to Paramedics, EMTs, and first responders.
+"Patient” means a person who is ill or injured or who has a disability and who receives
+emergency or nonemergency care from an EMS provider.
+"Per Mile Charge" means a charge per mile in addition to the base charge.
+“Person” means an individual, partnership, company, association, corporation, or any other
+legal entity, including any receiver, trustee, assignee, or similar representative.
+"Provider" means any public, private, or volunteer entity providing EMS.
+“Quick Response Team”, or “QRT” means an EMS unit supplied by a designated provider that
+may be capable of BLS or ALS care but is not able to transport a patient.
+"Residential Care Facility" means a program within a physical structure, which provides or
+coordinates a range of services, available on a 24-hour basis, for support of residential
+independence in a residential setting (OAR 411-054-0005).
+"Response Time" or “Response Times” mean the length of time between the notification of
+providers who transport and the arrival of each provider's EMS unit(s) at the incident scene.
+“Supervising Physician" means a physician licensed under ORS 677.100 to 677.228, actively
+registered and in good standing with the Oregon Medical Board, who provides direction of
+emergency or nonemergency care provided by ASA Providers. Additionally, Supervising
+Physician means a physician contracted with or employed by the County to act as the
+Supervising Physician and who shall perform those functions as outlined in this chapter and
+rule.
+“Transport Unit” means an ambulance that is licensed and appropriately equipped and staffed
+to transport a patient.
+“Wheelchair Car” means a motor vehicle for hire that is constructed, equipped, or regularly
+provided for non-emergency transportation of persons in wheelchairs and semi-reclining
+wheelchairs (no more than forty-five (45°) reclining) or requiring wheelchair car transportation
+for reasons related to health conditions and not requiring an ambulance or transport in a
+supine or recumbent position.
+Ambulance Service Area Plan; December 2023 8
+BOUNDARIES [OAR 333-260-0020(3) 4]
+Oregon state regulations require each county to establish an Ambulance Service Area (ASA)
+Plan1:
+Each county shall develop a plan for the county, or two or more
+contiguous counties may develop a plan, relating to the need for
+and coordination of ambulance services and establish one or more
+ambulance service areas consistent with the plan for the efficient
+and effective provision of ambulance services.
+The ASA Plan must be approved by both the Board and then by the Oregon Health Authority.
+Therefore, it is the responsibility of Yamhill County as the local EMS regulatory agency to assure
+that safe and reliable EMS response and ambulance transportation are available to the citizens
+and visitors of the county.
+It is the intent of the Board to regulate, but not restrict, non-emergency ambulance, inter-
+facility ambulance and wheelchair car services within the County.
+It is the intent of the Board to regulate the primary emergency transportation agency within the
+County.
+To ensure the effective and efficient provision of EMS within Yamhill County, the Board
+reserves the right, giving consideration to subjects and items required by law, to make
+modifications and enhancements to the ASA Plan.
+The Yamhill County ASA Plan designates several ambulance service areas (ASA) within the
+County. Each ASA is awarded to a single emergency ambulance service provider (ASA Provider)
+in the form of a franchise. To assure that the public’s safety and interests continue to be served
+by this arrangement, the County actively promotes and monitors Quality Improvement,
+program development and system performance.
+1 ORS 682.062
+Ambulance Service Area Plan; December 2023 9
+ASA BOUNDARIES
+There are four ASAs in Yamhill County, as shown in the following graphic.
+Minor changes to ASA boundaries may be made by an order of the Board, following a
+recommendation by the ASA Committee to the Administrator.
+EMERGENCY MEDICAL SERVICE (EMS) ACTIVITY WITHIN THE COUNTY
+Analysis of EMS volume within the County has identified the location density and distribution of
+activity, as revealed in the following maps.
+The temporal dispersal of EMS activity has been charted to provide ambulance service
+providers valuable information to assist in staffing and deployment of EMS resources.
+EMS Volume Location by Incident;
+EMS Volume Heat Map; 2021
+ASA Map(s) with Response Time Zones [OAR 333-260-0020(3) 4.(a)]
+The primary objective of Response Time zones is to provide the most timely and efficient
+response to the residents and visitors of the County in a cost-effective manner (“Response Time
+Zone” or “Response Time Zones”). These Response Time Zones are stratified based on factors
+such as population density, major routes of travel, topography, and access. Since EMS volume is
+strongly correlated to population density, that is the major determinant of Response Time Zone
+designation. Historical Response Times from ambulance and EMS resource stations have been
+analyzed as well and compared against both population density and EMS call volume activity
+distribution.
+In addition, Yamhill County has determined that further categorization of Response Times is
+appropriate based on the severity of the patient’s condition. Life threatening and significantly
+serious illness or injury require a faster response than other, less urgent EMS requests.
+Scientific data and industry studies have shown that Response Time is far less important to
+patient outcome for less emergent cases than for critical, life endangering conditions. The
+County has established two levels of EMS response that overlay the four Response Time Zones.
+These are defined as ALS (Advanced Life Support) and BLS (Basic Life Support).
+ALS cases should receive responses that include the use of emergency warning devices (EWDs),
+such as lights and sirens, and be held to shorter time frames. BLS cases should receive
+responses that do not include the use of EWDs and are held to less stringent Response Time
+standards.
+Annual EMS Volume Distribution by Hour of the Day
+EMS VOLUME
+Yamhill County is divided into four time zones for response. These zones are classified as:
+URBAN, with Response Time standards of 10 and 15 minutes for ALS and BLS, respectively;
+SUBURBAN, with Response Time standards of 12 and 17 minutes; RURAL, with Response Time
+standards of 35 and 40 minutes; and FRONTIER with a “Best Effort” standard for both ALS and
+BLS.
+The Urban Response Time Area is defined as the area of Yamhill County with a population
+density of 1,001 persons, or more, per square mile. The Suburban Response Time Area is
+defined as that area of the County with a population density of between 501 persons per
+square mile and 1,000 per square mile. The Rural Response Time Area is composed of those
+portions of Yamhill County that are populated to a density of 501 or less persons per square
+mile. Lastly, the Frontier Response time Area is classified as those areas with a population
+density of less than 501 persons per square mile and that lack roadway access, or that require a
+drive time — this is a component of Response Time — that exceeds 30 minutes. The Frontier
+Response Time Area was established by mutual consensus of the Yamhill County ASA
+Committee and includes those incorporated Cities outside the Urban zone.
+There is one exception to these zone designations. That is the town of Yamhill. While Yamhill is
+very densely populated, sufficiently so to meet the herein definition of Urban, the actual
+aggregate number of people residing there is insufficient to generate any significant EMS
+volume. Therefore, this ASA Plan identifies Yamhill as a Rural Response Time Area.
+The minimum performance level for each Response Time standard is 90 percent of all
+dispatched EMS requests, except for those occurring during extreme weather conditions that
+interfere with vehicular travel, hospital-to-hospital transfers, or other similar circumstances
+that would prohibit a normal response.
+EMS Response
+Level
+Response Time
+Standard
+Minimum
+Compliance
+URBAN
+BLS 15 Minutes or less 90%2
+ALS 10 Minutes or less 90%
+SUBURBAN
+BLS 17 Minutes or less 90%
+ALS 12 Minutes or less 90%
+RURAL
+BLS 40 Minutes or less 90%
+ALS 35 Minutes or less 90%
+FRONTIER
+BLS & ALS Best Effort
+Complying with the Response Time Zone standards are the primary responsibility of each ASA
+Provider.
+Response Time Reporting & Accountability
+The County has established the following process and procedure for the reporting, assessment,
+and accountability of Response Times by designated ASA providers:
+2 90% is used because it represents 1 standard deviation.
+1) Performance reports. ASA Providers will submit performance reports to the
+Administrator on a quarterly basis, and Administrator will distribute these reports to the
+ASA Committee. The performance reports will be submitted in a form approved by the
+Administrator; at a minimum, the reports must track monthly compliance with each
+Response Time standard and must include mutual aid performance data.
+2) Review. The ASA Committee will review each ASA provider’s performance report at
+quarterly meetings.[1]
+3) A
+udits. All data submitted for review of performance standard compliance by ASA
+Providers may be audited by the Administrator at any time.
+4) Compliance Reports. Each ASA Provider will be held accountable to delineated required
+performance standards through public compliance reporting.
+a. Each ASA Provider’s performance will be reported to the community-at-large
+through a readily available public reporting process (dashboard) that identifies
+each performance standard and the ASA Provider’s compliance success.
+b. This public reporting process (compliance reports and dashboard) will be posted
+prominently on the County’s EMS website.
+5) Annual report. The Administrator will conduct an annual evaluation of the performance
+of the ASA Providers and will report its findings to the Board. This requirement in no
+way limits the ability of the Administrator to conduct further evaluations as deemed
+necessary.
+6) Explanatory Reports. The ASA Committee may require an explanatory report from any
+ASA Provider who fails to meet any established performance standard in any reporting
+period. Such a report will be submitted to the Administrator, and the Administrator will
+distribute this report to the ASA Committee.
+7) Action Plan. Failure of an ASA Provider to meet the established performance standards
+in three consecutive quarters, or four quarters in any six-quarter period, will require the
+ASA Provider to develop an action plan. Such a plan will detail concrete steps, at least
+some of which being immediate, the ASA Provider will take to achieve full compliance,
+[1] If an ASA provider has contracted part, or all, of its territory for EMS provision to another entity, the ASA
+pr
+ovider nevertheless will be held responsible for their contracted provider’s performance.
+and a timeline for achieving full compliance. This report will be submitted to the
+Administrator, and the Administrator will distribute this report to the ASA Committee.
+RESPONSE TIME ZONES MAP:
+ASA Boundaries Narrative Description [OAR 333-260-0020(3) 4.(b)]
+The following four sections describe the boundaries of Ambulance Service Areas adopted by the
+Board through Ordinance No. 946 [May 1, 2026]:
+A. ASA # 1 East
+Assigned to Tualatin Valley Fire & Rescue.
+Situated in Yamhill County, Oregon, beginning at the point where Yamhill and Clackamas
+counties meet at the Northeast corner of Section 13, T3S, R2W, W.M; Thence northwest
+following the Yamhill County line approximately 17.7 miles to a point on the north line of
+Section 18, T2S, R3W, approximately 750 feet west of NE Spring Hill Road; Thence southerly to
+the south line of said Section 18, to a point approximately 2,200 feet west of NE Spring Hill
+Road; Thence S10°E generally parallel with NE Spring Hill Road, to the east end of the curve and
+the south side of NE Laughlin Road approximately 2,000 feet west of NE Spring Hill Road;
+Thence southwesterly along the easterly side of NE Laughlin Road approximately 1,900 feet to
+the west line of the Phillip Thompson Donation Land Claim No. 58; Thence S 5°E, approximately
+3,300 feet to the northeast corner of U.S. Government Lot 10, near the center of Section 30,
+T2S, R3W; Thence west on the north line of said Lot 10, a distance of 942.31 feet to a 10”
+diameter stone shown on Survey No. 6805 of Yamhill County Survey Records; Thence S
+0°08’51”E a distance of 2,690.83 feet to a 6” diameter stone on the south line of said Section 30
+and shown per said Survey No. 6805; Thence S19°E approximately 1.08 miles to a point the
+north line of Section 6, T3S, R3W, lying approximately 1,900 feet west of NE North Valley Road;
+Thence west approximately 1,130 feet to the North ¼ corner of said Section 6; Thence south on
+the center line of said Section 6 a distance of approximately 1.0 mile to the North ¼ corner of
+Section 7, T3S, R3W, Thence west approximately 2,640 feet to the northwest corner of said
+Section 7; Thence south on the west lines of Section 7 and 18 approximately 1.40 miles to the
+northerly line of a tract described in Instrument No. 200529012 (Park Trust to Mahon); Thence
+easterly approximately 1.78 miles to the northeasterly corner of the Calvin W. Ish Donation
+Land Claim No. 49; Thence southerly on the easterly line of said Ish Claim No. 49 to the
+property line between Revana Family Partners, Deed No. 20060169, and Andrew H. Wilder,
+Deed No. 20017231; Thence southeasterly along the Revana/Wilder line to the west line of
+Section 21, T3S, R3W; Thence South approximately 1.60 miles to the southwest corner of
+Section 28, T3S,R3W; Thence east along the south line of Section 28 approximately 3,700 feet
+to the west property line of Caroline Crabtree-Osborne; Thence south and east on the Crabtree-
+Osborne lines to the east line of Section 33, T3S, R3W; Thence south on the east line of Section
+33 approximately 4,630 feet to the southerly side of Archery Summit Road; Thence
+southeasterly on the southerly side of Archery Summit Road to Oregon Highway 18 and
+continuing on an easterly projection to the Portland & Western Railroad; Thence northeasterly
+along the railroad to the south side of Fulquartz Landing Road (CR 79); Thence along Fulquartz
+Landing Road to the west side of NE Crawford Road (CR 181); Thence south along the west side
+of NE Crawford Road to the southerly side of Riverwood Road (CR80); Thence southeasterly
+along the southside of Riverwood Road to northwest corner of County Survey 3598 by J.G
+Hefty, dated September 1912; Thence along the said survey lines S78°13’E, approximately 1,989
+feet; thence S77°16’E, approximately 489.60 feet; Thence N80°34’E, approximately 905.80 feet
+to the Willamette River; Thence Northerly and following the Willamette River downstream to
+the north line of Section 6, T4S, R1W and the county line; Thence west and north along the
+exterior of T3S, R1W, and the county line to the place of beginning.
+B. ASA #2 North
+Assigned to the McMinnville Fire District.
+Beginning on the northerly Yamhill County line at a point on the north line of Section 18, T2S,
+R3W, approximately 750 feet west of NE Spring Hill Road; Thence southerly to the south line of
+said Section 18, to a point approximately 2,200 feet west of NE Spring Hill Road; Thence S10°E
+generally parallel with NE Spring Hill Road, to the east end of the curve and the south side of NE
+Laughlin Road approximately 2,000 feet west of NE Spring Hill Road; Thence southwesterly
+along the easterly side of NE Laughlin Road approximately 1,900 feet to the west line of the
+Phillip Thompson Donation Land Claim No. 58; Thence S 5°E, approximately 3,300 feet to the
+northeast corner of U.S. Government Lot 10, near the center of Section 30, T2S, R3W; Thence
+west on the north line of said Lot 10, a distance of 942.31 feet to a 10” diameter stone shown
+on Survey No. 6805 of Yamhill County Survey Records; Thence S 0°08’51”E a distance of
+2,690.83 feet to a 6” diameter stone on the south line of said Section 30 and shown per said
+Survey No. 6805; Thence S19°E approximately 1.08 miles to a point the north line of Section 6,
+T3S, R3W, lying approximately 1,900 feet west of NE North Valley Road; Thence west
+approximately 1,130 feet to the North ¼ corner of said Section 6; Thence south on the center
+line of said Section 6 a distance of approximately 1.0 mile to the North ¼ corner of Section 7,
+T3S, R3W, Thence west approximately 2,640 feet to the northwest corner of said Section 7;
+Thence south on the west lines of Section 7 and 18 approximately 1.40 miles to the northerly
+line of a tract described in Instrument No. 200529012 (Park Trust to Mahon); Thence easterly
+approximately 1.78 miles to the northeasterly corner of the Calvin W. Ish Donation Land Claim
+No. 49; Thence southerly on the easterly line of said Ish Claim No. 49 to the property line
+between Revana Family Partners, Deed No. 20060169, and Andrew H. Wilder, Deed No.
+20017231; Thence southeasterly along the Revana/Wilder line to the west line of Section 21,
+T3S, R3W; Thence South approximately 1.60 miles to the southwest corner of Section 28,
+T3S,R3W; Thence east along the south line of Section 28 approximately 3,700 feet to the west
+property line of Caroline Crabtree-Osborne; Thence south and east on the Crabtree-Osborne
+lines to the east line of Section 33, T3S, R3W; Thence south on the east line of Section 33
+approximately 4,630 feet to the southerly side of Archery Summit Road; Thence southeasterly
+on the southerly side of Archery Summit Road to Oregon Highway 18 and continuing on an
+easterly projection to the Portland & Western Railroad; Thence northeasterly along the railroad
+to the south side of Fulquartz Landing Road (CR 79); Thence along Fulquartz Landing Road to
+the west side of NE Crawford Road (CR 181); Thence south along the west side of NE Crawford
+Road to the southerly side of Riverwood Road (CR80); Thence southeasterly along the southside
+of Riverwood Road to northwest corner of County Survey 3598 by J.G Hefty, dated September
+1912; Thence along the said survey lines S78°13’E, approximately 1,989 feet; thence S77°16’E,
+approximately 489.60 feet; Thence N80°34’E, approximately 905.80 feet to the Willamette
+River; Thence southerly and upstream along the Willamette River and easterly county line to
+the point where Yamhill and Polk Counties meet; Thence west along the Yamhill and Polk
+County line to the west side of SW Broadmead Road; Thence northeasterly along the west side
+of SW Broadmead Road to the south line of Section 25, T5S, R5W; Thence west on the section
+lines of Section 25 and 26 to the South Yamhill River; Thence northeasterly and following the
+Yamhill River downstream to the Bellevue-Hopewell Highway Bridge; Thence westerly along the
+southerly side of Bellevue-Hopewell Highway (OR 153) to the west side of Delashmutt Road (CR
+28); Thence northerly along the west side of Delashmutt Road approximately 1,800 feet to the
+south line of Section 22, T5S, R5W; Thence north approximately 1.0 miles along the east section
+lines of 22 and 15 to the north side of SW Sauter Road; Thence westerly along the north side of
+SW Sauter Road through the “S” curve, approximately 4,500 feet to a point near the
+Boundy/Christensen property line. Thence north passing through milepost 39 of OR HWY 18
+approximately 3,150 feet to the southeast corner of Erratic Rock State Nature Site; Thence west
+along the south line of Erratic Rock State Nature Site approximately 1,000 feet to the southwest
+corner thereof adjacent with SW Dusty Drive; Thence north along a series of common property
+lines, approximately 5,600 feet to the northeast corner of the Momtazi Family LLC property
+described in Instrument No. 1997-16865 of the Yamhill County Clerk’s Records; Thence west
+Momtazi property approximately 1,320 feet to the east line of Section 9, T5S, R5W; Thence
+south along the section line approximately 1,320 feet to the east ¼ corner of Section 9; Thence
+west along the centerline of Section 9 approximately 1,850 feet; Thence south approximately
+2,640 feet to the southeast corner of Dave Waddell property; Thence west approximately 2,640
+feet to the southwest corner of Dave Waddell property; Thence north approximately 2,500 feet
+to the southerly corner of the James Colman Donation Land Claim No. 40; Thence N 54°W along
+the Colman Donation Claim approximately 990 feet to the east side of SW Muddy Valley Road
+(CR 19); Thence northerly up the east side of SW Muddy Valley Road to the bridge across
+Muddy Creek in the northwest ¼ of Section 4, T5S, R5W; Thence northwesterly upstream along
+Muddy Creek approximately 3.25 miles to the south line of Section 19, T4S, R5W; Thence west
+approximately 0.9 Miles to the southeast corner of Section 24, T4S, R6W; Thence north 2 miles
+on the section lines to the northeast corner of Section 13, T4S, R6W; Thence west 4 miles on
+the section lines to the southwest corner of Section 9 T4S, R6W; Thence north 2 miles to the
+southeast corner of Section 32, T3S, R6W; Thence west 1 mile to the west county line; Thence
+north 12 miles and east approximately 19.3 miles along the county line to the place of
+beginning.
+C. ASA #3 South Central
+Assigned to the Sheridan Fire District.
+Beginning at the intersection of the Yamhill and Polk County line and the west side of SW
+Broadmead Road located in Section 2, T6S, R5W; Thence northeasterly along the west side of
+SW Broadmead Road to the south line of Section 25, T5S, R5W; Thence west on the section
+lines of Section 25 and 26 to the South Yamhill River; Thence northeasterly and following the
+Yamhill River downstream to the Bellevue-Hopewell Highway Bridge; Thence westerly along the
+southerly side of the Bellevue-Hopewell Highway (OR 153) to the west side of Delashmutt Road
+(CR 28); Thence northerly along the west side of Delashmutt Road approximately 1,800 feet to
+the south line of Section 22, T5S, R5W; Thence north approximately 1.0 miles along the east
+section lines of 22 and 15 to the north side of SW Sauter Road; Thence westerly along the north
+side of SW Sauter Road through the “S” curve, approximately 4,500 feet to a point near the
+Boundy/Christensen property line. Thence north passing through milepost 39 of OR HWY 18
+approximately 3,150 feet to the southeast corner of Erratic Rock State Nature Site; Thence west
+along the south line of Erratic Rock State Nature Site approximately 1,000 feet to the southwest
+corner thereof adjacent with SW Dusty Drive; Thence north along a series of common property
+lines, approximately 5,600 feet to the northeast corner of the Momtazi Family LLC property
+described in Instrument No. 1997-16865 of the Yamhill County Clerk’s Records; Thence west
+Momtazi property approximately 1,320 feet to the east line of Section 9, T5S, R5W; Thence
+south along the section line approximately 1,320 feet to the east ¼ corner of Section 9; Thence
+west along the centerline of Section 9 approximately 1,850 feet; Thence south approximately
+2,640 feet to the southeast corner of Dave Waddell property; Thence west approximately 2,640
+feet to the southwest corner of Dave Waddell property; Thence north approximately 2,500 feet
+to the southerly corner of the James Colman Donation Land Claim No. 40; Thence N 54°W along
+the Colman Donation Claim approximately 990 feet to the east side of SW Muddy Valley Road
+(CR 19); Thence northerly up SW Muddy Valley Road to the bridge across Muddy Creek in the
+northwest ¼ of Section 4, T5S, R5W; Thence northwesterly upstream along Muddy Creek
+approximately 3.25 miles to the south line of Section 19, T4S, R5W; Thence west approximately
+0.9 Miles to the southeast corner of Section 24, T4S, R6W; Thence north 2 miles on the section
+lines to the northeast corner of Section 13, T4S, R6W; Thence west 4 miles on the section lines
+to the southwest corner of Section 9 T4S, R6W; Thence south 4 miles on the section lines to the
+southwest corner of Section 33, T4S, R6W; Thence east on the south line of Section 33
+approximately 0.18 miles to the westerly side of Rock Creek Road (CR 415); Thence
+southwesterly along the westerly side of Rock Creek Road approximately 4.8 miles to the west
+line of Section 21, T5S, R6W; Thence south on the section lines 2.25 miles to the southerly side
+of Oregon Highway 18 Business (W. Main Street); Thence southwesterly along the southerly
+side of Oregon Hwy 18 approximately 0.9 miles to the east line of Section 6, T6S, R6W; Thence
+south on the east line of Section 6 approximately 0.75 miles to the Yamhill and Polk County
+Line. Thence east on the County line approximately 9.3 miles to the east side of SW Broadmead
+Road and the point of beginning.
+D. ASA # 4 West
+Assigned to the Grand Ronde Fire Department.
+Beginning on the Yamhill and Tillamook County line at the northwest corner of Section 5, T4S,
+R6W; Thence east 1 mile to the northeast corner of Section 5, T4S, R6W; Thence south 6 miles
+on the section lines to the southwest corner of Section 33, T4S, R6W; Thence east on the south
+line of Section 33 approximately 0.18 miles to the westerly side of Rock Creek Road (CR 415);
+Thence southwesterly along the westerly side of Rock Creek Road approximately 4.8 miles to
+the west line of Section 21, T5S, R6W; Thence south on the section lines 2.25 miles to the
+southerly side of Oregon Highway 18 Business (W. Main Street); Thence southwesterly along
+the southerly side of Oregon Hwy 18 approximately 0.9 miles to the east line of Section 6, T6S,
+R6W; Thence south on the east line of Section 6 approximately 0.75 miles to the Yamhill and
+Polk County Line. Thence west, north, east, and north approximately 44.75 miles on the county
+line to the point of beginning.
+Map(s) Depicting “9-1-1,” Fire Districts and Incorporated Cities [OAR 333-260-
+0020(3) 4.(c)]
+INCORPORATED CITIES:
+Ambulance Service Area Plan; December 2023 21
+FIRE DISTRICTS
+Yamhill County Map
+December 19, 2022
+02 . 5
+1:432,000
+51 0 mi
+City Limits Dayton Lafayette Sheridan County Carlton FPD Dundee RFPD
+Amity Dundee McMinnville Willamina Fire Districts Dayton RFPD Gaston RFPD
+048 1 6 k m
+Carlton Gaston Newberg Yamhill Amity RFPD Dundee City Lafayette City
+Oregon Metro, Bureau of Land Management, State of Oregon, State of
+Oregon DOT, State of Oregon GEO, Esri Canada, Esri, HERE, Garmin,
+Yamhill County GIS
+Yamhill County 2018
+Ambulance Service Area Plan; December 2023 22
+FIRE STATIONS & FIRE STATIONS WITH EMS ASSETS:
+Ambulance Service Area Plan; December 2023 23
+Alternatives Considered to Reduce Response Times [OAR 333-260-0020(3) 4.(d)]
+The County has policies and procedures in effect that monitor emergency ambulance Response
+Time performance by all ASA Providers. The County expects the ASA Providers to employ
+industry best practices, data driven strategies, and sound professional judgment in meeting
+established Response Time requirements. The goal is to responsibly, reliably, and safely deliver
+Response Times, while also considering certain clinical outcomes in addition to Response Times.
+Employing the use of closer, first response units in responding to critical EMS cases, or even
+Quick Response Teams (QRT), are mechanisms organizations are encouraged to use to reduce
+Response Times to emergencies. These types of EMS units, while not transport capable, can
+deliver trained personnel faster to the scene than more regionally located ambulances.
+Other methodologies the County expects each ASA Provider to implement to reduce Response
+Times and improve patient outcomes include:
+1. Develop and use standard operating procedures,
+2. Support a trained and qualified work force,
+3. Maintain adequate communications equipment,
+4. Utilize coordinated communication,
+5. Promote information exchanges among public safety response agencies,
+6. Coordinate with hospitals to reduce wait times; and
+7. Educate the public on the 9-1-1 system and services.
+Other ways being considered to reduce the time for lifesaving care to arrive at the patient’s side
+include the following:
+U
+SE OF DRONES IN EMS:
+Research from Europe, and a few pilot programs in the United States, have shown that drones
+(UAV) may provide an option for many EMS systems to improve response to critical
+emergencies and improve patient outcomes. They appear to be most advantageous for rural
+and frontier regions where EMS response can easily exceed 20 minutes. When UAVs are
+equipped with AEDs (Automatic External Defibrillators) and EpiPens, as an example, and
+configured to provide two-way audio communication, they can deliver life-saving modalities to
+the patient’s side and permit instruction to direct by-standers on usage.
+Some UAV systems have been developed that use remote outside storage structures that
+maintain battery charge for the unit and protect it from inclement weather conditions. These
+“drone stations” could be located strategically throughout a remote or rural region to enhance
+the response capability of the local EMS services.
+When equipped with video capabilities, UAVs may also be used to provide situational
+awareness for EMS units and communications centers by deployment over particular incidents,
+especially when multiple patients are involved or safety conditions at a scene are in question.
+While limited by battery life, UAVs still have important applications for EMS systems and
+individual units, such as First Responder apparatus.
+C
+OMMUNITY AEDS
+Some medical device manufacturing companies have introduced the concept of community
+wide distribution of AEDs, including in personal residences. These devices are connected to a
+network that incorporates with the local 911 communications center which allows the devices
+to be alerted when a potential cardiac arrest is occurring within a set distance. Individuals of
+the lay public can remove the AED from its wall-mounted station and respond to the scene to
+render aid. The idea that the public can respond to many out-of-hospital cardiac arrests (OHCA)
+with an AED faster than EMS providers is factual in many cases.
+This concept could be expanded in the future to include EpiPens and tourniquets. In addition,
+some communities have launched registries for AEDs that are located in public buildings and
+private companies, maintaining that information with their emergency communications
+centers. In these cases, when an OHCA call is received by the 911 center, they are able to locate
+the closest AED and advise the caller.
+A
+LTERNATIVE TO RESPONSE TIME STANDARDS
+The County recognizes that it is not just Response Times that lead to a reduction in mortality. In
+fact, there is a significant amount of research that indicates, outside of cardiac arrests,
+Response Times have a minimal impact on patient outcomes and length of stay time in the
+hospital. It is often the case that time to first clinical intervention plays a more significant role in
+out of hospital survival rates. Research shows there is no evidence of increased mortality for
+priority patients where ALS Response Time exceeded 10:59 minutes
+3. Other studies concluded
+that, “a paramedic response time within eight minutes was not associated with improved
+survival to hospital discharge. Adherence to the eight-minute response time guideline in most
+patients who access out-of-hospital emergency services is not supported by these results”4.
+Additionally, focusing solely on Response Times can have a negative impact overall on system
+performance. First, the community needs to invest significant dollars for the cost of readiness
+to assure the ambulance can arrive in the designated time interval. Second, many more
+paramedics are needed in the system staffing those ambulances. Third, crews are held to a
+Response Time standard that can only be achieved by the constant use of red lights and sirens.
+This exposes them to a higher incidence of ambulance-involved motor vehicle collisions and
+potentially crewmember injuries along with an increased fatigue factor that has the potential
+for clinical errors.
+5
+3 Pons PT, Haukoos JS, Bludworth W, et al. Paramedic response time: Does it affect patient survival? Acad Emerg
+Med. 2005;12(7):594—600
+4 Blackwell TH, Kline JA, Willis JJ, et al. Lack of association between prehospital response times and patient
+outcomes. Prehosp Emerg Care. 2009; 13(4):444—450
+5 Grissinger M. An exhausted workforce increases the risk of errors. P T. 2009 Mar;34(3):120-3
+To this end, the County will closely monitor Response Times to ensure they do not exceed the
+established benchmarks but will also continually review the efficacy of Response Times in
+general. The County will further begin development of clinical performance standards that have
+been shown to be related directly to patient outcomes. The County will strive to establish
+consensus-accepted clinical performance standards as an important measure of the quality of
+the system’s overall performance and as required benchmarks for achievement for ASA
+Providers.
+C
+LINICAL PERFORMANCE STANDARDS
+Over the next five years, the ASA Committee will be considering what clinical data is identified
+as important by current in-field medical research for patient care, as well as improved patient
+outcomes, and determine how that information may be collected. The ASA Committee has
+been charged with reviewing and determining what clinical performance standards should be
+used in the Yamhill EMS system in the future.
+SYSTEM ELEMENTS [OAR 333-260-0020(3) 5]
+9-1-1 DISPATCHED CALLS [OAR 333-260-0020(3) 5.(a)]
+PUBLIC SAFETY ANSWERING POINT (PSAP) /D ISPATCH CENTERS
+Yamhill County utilizes The Yamhill Communications Agency (YCOM) and the Newberg-Dundee
+Communications Center (NDCC) to provide EMS call answering, processing and dispatching
+services. NDCC transfers incoming EMS requests to the Washington County Consolidated
+Communications Agency (WCCCA) for the disposition of the case.
+Upon request for medical assistance, YCOM or WCCCA will simultaneously dispatch the closest
+fire department first responder unit, if applicable, and the appropriate emergency ambulance
+service. Actual dispatch processing and performance is closely monitored and tracked
+internally by the dispatch centers and externally by the Yamhill County Department of Health.
+YCOM uses the International Academies of Emergency Dispatch’s Medical Priority Dispatch
+System for triaging and prioritization of EMS calls. WCCCA uses the APCO EMS triaging system.
+Both WCCCA and YCOM are aware that the public is quickly adopting new technologies with
+their computers and wireless devices and expect to be able to communicate with today’s 911
+systems. A new generation of access devices presents a technology challenge to systems
+originally designed to interface with only fixed landline 911 calls. With the seemingly constant
+advancement of new technologies prevalent in today’s 911 environment, incorporating a high
+degree of readiness into the 911 emergency call delivery and receipt system is necessary. The
+network and PSAP originally intended to carry and receive voice and a minimal amount of
+location data needs to be ready to support substantial amounts of data including text
+messaging, pictures, and video available to the calling public.
+Key public safety industry organizations recognize that the ongoing evolution of 911 requires
+establishing minimum standards for PSAP employee training, operations, technology, and
+facilities. These organizations include:
+1. International City/County Management Association (ICMA)
+2. National Emergency Number Association (NENA)
+3. Association of Public-Safety Communications Officials – International (APCO)
+4. International Association of Fire Chiefs (IAFC)
+5. Commission on Accreditation for Law Enforcement Agencies (CALEA)
+6. National Fire Protection Association (NFPA)
+PRE-ARRANGED NON-EMERGENCY TRANSFERS AND INTER-FACILITY TRANSFERS [OAR 333-260-
+0020(3) 5.(b)]
+All pre-arranged, non-emergency ambulance services and inter-facility ambulance transfers
+originating within Yamhill County shall be included within the franchise rights and ambulance
+service area boundaries granted to ASA Providers as identified in this ASA Plan. This does not
+apply to ambulances and vehicles that are exempt from the ASA Plan, including but not limited
+to: specialty transport teams, ambulances owned or operated under the control of the United
+States government, vehicles operated solely on facility grounds, transportation of clients from
+outside of the County to a health care facility within the County, or ambulance or vehicles
+which are passing through without destination in the County. In addition, non-emergency
+ambulance services do not include stretcher cars, secure transport or medical taxis that do not
+provide medical services.
+The assigned ASA Provider has the right to first refuse requests for non-emergency ambulance
+services or inter-facility ambulance transfers originating within their assigned ASAs; provided,
+however, that an ASA Provider’s right to first refuse such requests does not apply to any person
+who is not an assigned ASA Provider and who had an existing written contract prior to July 1,
+2009, with a health care provider located in Yamhill County for non-emergency ambulance
+services or inter-facility ambulance transfers. In any case, if the assigned ASA Provider refuses a
+non-emergency ambulance service or inter-facility ambulance transfer, a person who is not an
+assigned ASA Provider may provide the non-emergency ambulance service or inter-facility
+transfer.
+Non-emergency ambulance services and inter-facility ambulance transfers are excluded from
+Response Time reporting requirements but may be subject to future reporting requirements
+established by the ASA Committee or the Board. All other rules, requirements and customer
+service expectations relating to the provision of emergency ambulance services shall apply to
+the provision of non-emergency and inter-facility ambulance transfers.
+NOTIFICATION AND RESPONSE TIMES [OAR 333-260-0020(3) 5.(C)]
+The County relies upon both WCCCA and YCOM to provide the services of notification and
+tracking call disposition for all EMS cases in the County. Through their Computer Aided Dispatch
+(CAD) systems and radio communications networks, both centers maintain the records needed,
+as well as historical performance of all ASA Providers within the County. Response Times for
+each ASA Provider are captured within the centers’ data bases and available to the County and
+associated organizations.
+The County and its ASA Committee regularly review each ASA Provider’s Response Times and
+identify areas of concern. Once identified, efforts are made to improve out-of-compliance
+performance. The County provides assistance as needed to support plans established to assure
+maintenance of adequate response time performance by all ASA Providers.
+LEVEL OF CARE [OAR 333-260-0020(3) 5.(d)]
+Currently, the ASA Providers designated by the County to provide EMS within their individual
+ASAs provide predominantly Advanced Life Support. However, on occasion, sufficient ALS
+practitioners may not be available or scheduled, in which case the ASA Provider staffs Basic Life
+Support ambulances to provide care. Some ASA Providers expect to place standard BLS
+ambulance units into service on a regular basis. All ASA Providers have ALS and if the ASA
+Provider drops exclusively to a lower level of care (i.e. BLS only) notification will be provided to
+the County and other ASA Providers with whom they have mutual aid agreements.
+The following table identifies the recommended minimum number of EMS ambulance units,
+based on 2020 data, needed in each ASA within the County to meet the 90% response time
+standard. ASA Providers are required to meet the 90% response time standard and are allowed
+to staff their agency as they see fit in order to meet the 90% standard.
+**the above map is a heat map. The colors move from green to red indicating a higher number of ambulances
+recommended.
+Changes to the recommended minimum number of EMS ambulance units needed (as described
+in the table above) should be data driven and recommended by the ASA Committee to the
+Board in order to update the ASA Plan. This should be done every 5 years. ASA Providers are
+still allowed to staff their system as they see fit to meet the 90% response time standard as
+stated above.
+PERSONNEL [OAR 333-260-0020(3) 5.(e)]
+When operating an ambulance in Yamhill County, all ASA Provider personnel must meet the
+requirements of ORS Chapter 682 and OAR 333-255-0070 (1), (4) or (6).
+Anyone staffing an ambulance must not have consumed alcohol beverages in the eight hours
+before working or in any way be impaired by the ingestion of alcohol. Anyone staffing an
+ambulance must not be taking any medications that would impair their ability to care
+adequately and safely for a patient.
+Each person staffing an ambulance or providing pre-hospital emergency medical care in the
+County is required to display their level of certification/licensure and, at a minimum, their first
+name on the outermost garment of their work uniform and must make reasonable efforts to
+display this information under other circumstances. At a minimum, this uniform shall bear the
+name of the agency or ASA Provider providing the service. Reasonable exceptions are made for
+clothing used to protect the responders from injury or illness (i.e. turnouts, hazardous materials
+suits, personal protective garments, etc.)
+Each person staffing an ambulance or providing pre-hospital emergency medical care is
+required to wear a standardized uniform as determined by the employing agency. Uniforms
+shall be clean and free of excessive wear and tear and free of blood and/or bodily materials.
+Reasonable exceptions shall be granted to uniforms soiled during the course of providing
+service as long as they are cleaned and changed at the first appropriate opportunity.
+Each ASA Provider shall have in place a pre-employment and for-cause drug and alcohol
+screening program. This program shall be on file with the Administrator. Each ASA Provider
+shall have in place a criminal background check program. This program shall be on file with the
+Administrator. Upon a reasonable request by the Administrator, a criminal background check
+may be required of any person providing direct patient services.
+MEDICAL SUPERVISION [OAR 333-260-0020(3) 5.(f)]
+Each ASA Provider utilizing EMTs shall be supervised by a physician licensed under ORS 677,
+actively registered and in good standing with the Board of Medical Examiners as a Medical
+Doctor (M.D.) or Doctor of Osteopathic Medicine (D.O.). The Board of Medical Examiners must
+also approve the physician as a Supervising Physician. Each ASA Provider or ambulance service
+will identify a Supervising Physician. The Supervising Physician shall comply with the medical
+requirements listed in OAR 847-35-0025.
+Willamette Valley Medical Center and Providence Newberg shall be the Yamhill County EMS
+System Medical Resource Hospitals. Other hospitals outside of those listed may be used as
+required for proper patient care and transport.
+AMBULANCE SERVICE LICENSE AND PATIENT CARE EQUIPMENT [OAR 333-260-0020(3) 5.(g)]
+All ambulances and ambulance services in Yamhill County must be licensed with the Oregon
+Health Authority, EMS Section, and be equipped with equipment and supplies that comply with
+the OARs for ALS, ILS and BLS ground ambulances. Patient care equipment must meet all
+requirements as specified in ORS 682.015 to 682.991 and OAR 333-255-007 (2), (3), (4) (5), or
+(7).
+If a QRT is used as a first responder, it should be fully equipped to provide the service level set
+by the ASA Provider, and meet those personnel, training, and medical supervision requirements
+which apply from the Oregon Health Authority.
+All ASA Providers shall maintain a list of equipment for their units, which will be furnished to
+the ASA Committee or Board upon their request.
+The County is working with its ASA Committee to standardize the medical equipment and
+supplies used on each ASA Provider’s apparatuses.
+VEHICLES [OAR 333-260-0020(3) 5.(h)]
+All ambulance must be Type I, II, or III and licensed by the Oregon Health Authority prior to any
+emergency medical service. All ambulances must meet or exceed the requirements as set forth
+in ORS 682.015 to 682.991 and OAR 333-255-0060. A current list of each ASA Provider's
+ambulances shall be maintained and furnished to the Administrator, the ASA Committee, or the
+Board upon request.
+ASA Providers shall use ambulances which are in good condition and shall meet or exceed
+either the current National Fire Protection Association (NFPA) 1917 or Commission on
+Accreditation of Ambulance Services (CAAS) General Vehicle Standards, their successors, or
+previously accepted standards at the time of the vehicles’ original manufacture. When such
+standards conflict with State of Oregon standards, the State standards shall prevail. Each ASA
+Provider shall replace any ambulance in its fleet having over 250,000 miles on its chassis unless
+an exception is granted by the County based upon a written request supported by an upgraded
+vehicle preventative maintenance program for that vehicle acceptable to the County.
+TRAINING [OAR 333-260-0020(3) 5.(i)]
+Yamhill County accepts both Oregon’s level specific, state certification education/training
+requirements and standards requirements, and standards and continuing education for EMS
+providers.
+Each ASA Provider shall meet State-required certification levels, to be certified and/or licensed
+by the appropriate State agency, to participate in a medical audit process, and to provide
+special training and support to personnel in need of specific training.
+Additional educational/training requirements may be required by the ASA Providers’
+Supervising Physicians, to accommodate such things as protocol changes, in-service, quality
+improvement, system enhancements, and individual remediation.
+QUALITY IMPROVEMENT [OAR 333-260-0020(3) 5.(j)]
+Each ASA Provider shall have a quality assurance and improvement program aimed at
+monitoring the provision of care provided by its EMS practitioners. These programs shall
+include mechanisms to identify errors or omissions of appropriate care, mandated medical
+protocols, or necessary documentation of care provided, by specific practitioners. These
+programs shall include processes to retrain or educate identified individuals needing
+remediation.
+Q
+UALITY IMPROVEMENT; STRUCTURE [OAR 333-260-0020(3) 5.(j)(A)]
+The Board, in order to ensure the delivery of the most efficient and effective pre-hospital care
+possible with the available resources, has directed establishment of an ASA Committee. The
+ASA Committee was created by Ordinance No. 723, February 6, 2003, and is composed of the
+following positions. Members are appointed to the positions by Board Order:
+• Administrator or their designee (1)
+• EMS personnel selected from each ASA of Yamhill County (4)
+• 9-1-1 Coordinator from each Yamhill County dispatch center (2)
+• Administrator or designee from each hospital located within Yamhill County (2)
+• Public member (1)
+• Physician Advisor/emergency physician (1)
+• Fire Department or Fire District representative from an organization that is not
+assigned an ASA in Yamhill County or any other county (1)
+• Yamhill County emergency management representative (1)
+Commissioners and other Yamhill County staff may attend as ex-officio members of the ASA
+Committee.
+The Board appoints members of the ASA Committee for staggered terms, which may be
+renewed.
+Any member of the ASA Committee who may have a conflict of interest in any matter must
+declare such conflict and refrain from participating in any recommendations made.
+QUALITY IMPROVEMENT; PROCESS [OAR 333-260-0020(3) 5.(j)(B)]
+The ASA Committee functions to review standards, make recommendations for improvement
+or new standards to the Board for all matters regarding EMS, and reviews and makes
+recommendations regarding the soundness of the ASA Plan. The ASA Committee, through its
+existence, will offer a local focus for EMS system issues and encourage local resolution of EMS
+system problems. The ASA Committee will maintain a compilation of all Quality
+Assurance/Improvement policies enacted, as well as all investigations and their outcomes.
+The ASA Committee is established to:
+1. Act in an advisory capacity for quality management issues to an ASA Provider at their
+request.
+2. Develop and monitor performance standards.
+3. Evaluate written proposals for amendments to the ASA Plan and forward its
+recommendations to the Board.
+4. Monitor ASA Provider quality assurance programs to include:
+a. Compliance with statutes, ordinances, and rules.
+b. Compliance with standards for pre-hospital notification, response, and patient
+care.
+c. Problem resolution and sanctions for non-compliance.
+A
+NNUAL REVIEW OF PLAN AND PROVIDERS
+The ASA Committee will annually review and make recommendations regarding the
+effectiveness and efficiency of the ASA Plan and pre-hospital emergency medical care, including
+but not limited to:
+1. Coordination between EMS resources.
+2. Dispatch procedures and compliance (ambulance and other emergency resources).
+3. Internal audit and quality assurance processes for ASA Providers. Recommendations
+from provider quality assurance within system. Quality assurance findings from other
+agencies.
+4. Input from public, ASA Providers, and medical community on performance.
+5. Effective and efficient ASA boundaries.
+6. Performance criteria and data sources.
+7. Quarterly updates from ASA Providers.
+8. Review and revise ASA Plan as necessary.
+9. Interagency cooperation in disaster and mutual aid planning.
+The ASA Committee will also review each ASA Provider annually for compliance with this ASA
+Plan requirements. Service record guidelines are outlined in license requirements for
+Ambulance Services established through the State Health Authority (OAR Chapter 333).
+OTHER BUSINESS
+The ASA Committee will be activated at any time a concern is submitted or when deemed
+appropriate by the Committee Chair, the Administrator, or three or more ASA Committee
+members. The ASA Committee may form subcommittees to deal with specific issues, such as
+quality assurance, protocol development, and disaster planning.
+C
+ONFIDENTIALITY
+The ASA Committee and any subcommittees, as with any governmental body, will be subject to
+the Oregon Public Meetings Law (ORS Chapter 192). However, State and federal law require
+that patient records be kept confidential. The ASA Committee will comply with Oregon Public
+Meetings Law, ORS 192.610 through 192.690, but shall prevent the public disclosure of health
+privacy information or any other protected information, as required by state or federal law.
+QUALITY IMPROVEMENT;P ROBLEM RESOLUTION
+The ASA Committee will review concerns about the ASA Plan, service delivery, and system
+response issues. Concerns must be directed to the Administrator in writing before they are
+raised in the ASA Committee. The Administrator will maintain a record of all correspondence
+and subsequent findings or actions.
+Problems involving protocol deviation by EMTs or dispatchers will first be referred to the
+respective ASA Provider representative, Supervising Physician or dispatch supervisor.
+Problems involving a non-compliant ASA Provider may, at the Administrator’s discretion, be
+referred with background information and recommendations to the Board. The Board may seek
+further background data and recommendations from the ASA Committee in such instances.
+Quality Improvement; Sanctions for Non-Compliant Providers [OAR 333-260-0020(3) 5.(j)(C)]
+Sanctions for non-compliant ASA Providers may include the following.
+SUSPENSION,M ODIFICATION, OR REVOCATION OF A COUNTY ASA
+In addition to any other remedies provided under this ASA Plan or under State or federal law,
+the Administrator is authorized upon reasonable cause to investigate whether there is sufficient
+reason to suspend, modify, or revoke the franchise of an ASA Provider.
+1. If, in the judgment of the Administrator, there is sufficient evidence of a violation of the
+ASA Plan or applicable local, state, or federal law, or sufficient evidence that an ASA
+Provider has materially misrepresented facts or information given in its application for
+an ASA franchise, and such conduct warrants suspension, modification, or revocation of
+an ASA franchise, then the Administrator shall notify the Board in writing. The
+Administrator shall send a copy to the ASA Provider and the ASA Committee.
+2. No less than ten (10) business days following the issuance of the notice of violation
+under this section, the Board may enter its order of revocation, modification,
+suspension, or non-renewal, and may thereby revoke, modify, or suspend the ASA
+franchise, unless prior thereto the ASA Provider submits a written request for a public
+hearing or the Board on its own schedules a public hearing on the matter. Notice of any
+such hearing will be given to the ASA Provider by mail. The purpose of the hearing will
+be for the Board to determine whether good cause exists to revoke, modify, suspend, or
+not renew the ASA franchise.
+3. In lieu of the suspension, modification, or revocation of an ASA franchise, the Board may
+order that the violation or misrepresentation be corrected and make the suspension or
+revocation contingent upon compliance with the order within the period of time stated
+therein. Notice of the Board action shall be provided by mail to the ASA Provider. The
+notice shall specify the violation, the action necessary to correct the violation, and the
+date by which the action must be taken. The ASA Provider shall notify the Board of the
+corrective action taken.
+4. Any decision by the Board to suspend, modify, or revoke an ASA franchise must be by
+written order. A copy must be delivered to the ASA Provider by certified and regular
+mail or by personal service.
+O
+RDINANCE VIOLATION
+Any violation of a provision of this ASA Plan shall be punishable as a violation of a County
+ordinance under ORS Chapter 153. Such violation shall be punishable, upon conviction, by a fine
+not to exceed $500. Each day of a continuing violation constitutes a separate offense.
+N
+UISANCE
+In addition to the penalties provided in the ordinance, violations of any of the provisions of this
+ASA Plan and associated ordinance(s) is declared to be a nuisance and may be regarded as such
+in all actions, suits, or proceedings. The Board may initiate injunctive abatement or other
+appropriate legal proceedings to temporarily enjoin or abate such ambulance services.
+COORDINATION [OAR 333-260-0020(3) 6]
+ENTITY THAT SHALL ADMINISTER AND REVISE THE ASA PLAN [OAR 333-260-0020(3) 6.(a)]
+The Administrator, under the supervision of the Board and with the assistance of the ASA
+Committee, is responsible for the administration of this ASA Plan. The Administrator has access
+to records pertaining to ambulance service operations of any service regulated by this ASA Plan;
+these records will be made available within five working days to the Administrator by the
+agency owning or in possession of said records.
+COMPLAINT REVIEW PROCESS [OAR 333-260-0020(3) 6.(b)]
+Concerns regarding violations of this ASA Plan, or questions involving pre-hospital care
+provided, must be submitted in writing to the Administrator. The Administrator will then
+forward the concern to the ASA Committee for its review and findings or recommendations.
+The ASA Committee may also resolve any problems involving system operations. The
+Administrator will maintain a written record of correspondence and subsequent findings or
+actions.
+The public, ASA Providers, the medical community, or any other entity may provide ongoing
+input to any individual on the ASA Committee or members of the Board. This individual, in turn,
+may present the complaint, concern, idea or suggestion (in writing) to the full ASA Committee
+for consideration.
+The ASA Committee will hear complaints, and it shall make recommendations to the
+Administrator, by majority vote of those attending the meeting at which the discussion and
+recommendation is made. Any recommendations made by the ASA Committee must be
+approved by the Administrator prior to action or implementation. Any recommendations by the
+ASA Committee or decision by the Administrator may be appealed to the Board.
+C
+ITIZEN COMPLAINTS /P ROVIDER COMPLAINTS
+Step 1. Filing of Formal Complaint with the ASA Provider.
+a) A person desiring to make a complaint about ambulance services provided under this
+ASA Plan must first contact the ASA Provider. Upon request, the ASA Provider will
+provide a complaint form that includes information about the complaint process. The
+complaint is not official until the complainant files the written complaint with the ASA
+Provider.
+b) The ASA Provider must acknowledge the complaint within 5 business days of receipt.
+The acknowledgment will include the date the complaint was received and information
+about the complaint process.
+c) The ASA Provider will complete an information discovery process with the complainant.
+The ASA Provider will notify the complainant if additional information is needed from
+the complainant; if so, it must be furnished within 10 calendar days or another mutually
+agreed upon time frame, or the complaint may be resolved without this information.
+d) No later than 21 calendar days from the date the complaint was received, the ASA
+Provider will produce a response to the complainant along with instructions for filing
+appeals to the ASA Committee. If the ASA Provider cannot resolve the issue in no later
+than 21 calendar days, then the ASA Provider shall notify the complainant in writing as
+soon as it is known that a delay will occur, state when a decision will be made, and
+specify the reason for delay.
+e) The ASA Provider will send a copy of the complaint and its response to the
+Administrator.
+f) If the complainant is satisfied, then Step 1 of the complaint process ends. If the
+complainant is dissatisfied, then they may proceed to Step 2.
+Step 2. Appeal of Decision to the ASA Committee.
+Complainants dissatisfied with any determination of an ASA Provider may appeal to the ASA
+Committee. The appeal process is set forth below.
+a) A complainant under step 1 or its representative must file a written appeal of the ASA
+Provider’s determination with the Administrator within 30 calendar days of the
+determination. The appeal must state the date, the complaint, the desired resolution,
+and the reason/s the complainant has objected to the ASA Provider’s determination.
+b) The Administrator will acknowledge the appeal within 5 business days of receipt. The
+acknowledgment will include the date the appeal was received and information about
+the complaint process.
+c) The Administrator will complete an information discovery and technical assistance
+period that includes the Complainant and the ASA Provider, and will submit the appeal
+and all relevant information to the ASA Committee no later than 21 calendar days from
+the date of the appeal. The ASA Committee will then issue a written decision no later
+than 45 calendar days from the date of the appeal. If the ASA Committee overturns the
+ASA Provider’s decision, then the ASA Committee may require the ASA Provider to
+submit a corrective action plan within 14 calendar days to the Administrator.
+d) The Administrator will notify the Complainant of the ASA Committee’s determination
+and what future steps will be taken, if any, to address the complaint.
+MUTUAL AID AGREEMENTS [OAR 333-260-0020(3) 6.(c)]
+Under authority of ORS Chapter 190, each ASA Provider shall execute a written mutual aid
+agreement with each other ASA Provider in the County and with each provider assigned to an
+adjoining ASA in an adjacent county, to respond with personnel and equipment in cases of
+need.6 At minimum, each mutual aid agreement must include the following elements:
+1. Equipment and Personnel. All equipment and personnel used by responding
+ambulance service providers must be duly licensed and comply with applicable rules
+of the Oregon Health Authority.
+2. Limited Use. All mutual aid agreements must state that the providers agree to limited
+use of mutual aid, and that no provider will rely on mutual aid to respond to more
+than 5 percent of its monthly, quarterly, or annual volume.
+3. Extreme danger. Responding ambulance service providers must retain the right to
+refuse to commit equipment and personnel to a physical location in which extreme
+danger to life or equipment exists. The senior officer of the responding agency shall be
+the sole judge of the extent and imminence of such danger.
+4. Sole discretion. Upon receipt of a request for aid, the responding ambulance service
+provider must retain the right to respond in a manner that it deems appropriate.
+Responses under mutual aid agreements must be voluntary and discretionary, and any
+failure to respond must not give rise to any legal claim by the requesting party, any
+other party to the agreements, or anyone not a party to the mutual aid agreement.
+5. Chain of Command. When equipment and personnel are furnished pursuant to the
+mutual aid agreement, all patient care activities of the responding ambulance service
+provider must be coordinated through the incident commander or their designee.
+6 ASA Providers may utilize the reference document “Mutual Aid Agreements” under Addendum A of this ASA Plan,
+for guidance in the development and execution of mutual assistance agreements.
+6. Non-waiver of Ambulance Charge. Mutual aid agreements shall not waive, nor be
+construed to waive, the right of any ASA Provider to charge the individual receiving
+services for medical care provided in the jurisdiction of the other party.
+7. Waiver of Claim. Each party to the mutual aid agreement must waive all claims against
+the other for compensation for any loss, damage, personal injury, or death occurring
+as the consequence of the performance of the mutual aid agreement. Nothing within
+the mutual aid agreement shall waive the right of any agency or member of any
+agency to compensation now permitted or required by law or to such compensation
+that may be agreed to by the parties.
+8. Withdrawal. Each mutual aid agreement must provide that any party may withdraw
+from the agreement by providing at least six months’ written notice to all other
+parties of its intent to withdraw. Providers may agree to a longer notice requirement.
+Mutual aid agreements are kept on file with the Yamhill County Fire Defense Board and can be
+accessed by any officer on duty at the following numbers:
+Fire District Station Contact Number
+Amity 503-835-2311
+Carlton 503-852-6233
+Dayton 503-864-3558
+Dundee 503-554-8442
+Grand Ronde 503-879-3473
+Lafayette 503-864-2451
+McMinnville 503-435-5800
+Newberg 503-529-1720 Station 20
+Sheridan 503-843-2467
+Willamina 503-879-1709
+Yamhill 503-662-4653
+CONTRACTOR AGREEMENTS
+An ASA Provider who utilizes a contractor, other than a Quick Response Team within its ASA to
+provide any part of its response commitments, must maintain a written agreement to outline
+performance criteria standards for the contractor. The ASA Provider must notify the
+Administrator in writing of any contracting arrangement and the Administrator must approve
+any contracting arrangement before it is implemented.
+The Administrator is authorized to approve a written contract between an ASA Provider and a
+public or private provider for emergency ambulance services within a County ASA only if the
+Administrator determines all of the following criteria have been satisfied:
+a. The ASA Committee has issued a written determination that the public or private
+provider has satisfied all elements contained in Section 9(3) of the ASA Ordinance.
+b. The contract term may not exceed four years, and may not be renewed without a
+determination from the ASA Committee that the public or private provider has met
+the service requirements of this Ordinance and the ASA Plan through the date of
+review.
+c. The contract must provide that it may be terminated at will by action of the Board,
+either by its own motion or upon a recommendation of the ASA Committee or the
+Administrator.
+Once the Administrator approves the contract, the public or private provider may provide
+emergency ambulance services in a County ASA only in accordance with the terms of the
+contract and the requirements of the ASA Plan.
+DISASTER RESPONSE [OAR 333-260-0020(3) 6.(d)]
+All ASA Providers shall be actively involved in planning for and responding to any declared
+disaster within the County. Planning and response shall be in accordance with both a Mass
+Casualty Incident Plan and the County Emergency Operations Plan.
+C
+OUNTY RESOURCES OTHER THAN AMBULANCES [OAR 333-260-0020(3) 6.(d)(A)]
+1. When in-county resources are required for the provision of EMS during a disaster, a
+request for additional resources may be made through the 9-1-1 center as follows:
+a. Fire resources may be requested through mutual aid, usually by authority of the
+senior fire officer or incident commander on site.
+b. Law enforcement resources may be requested through mutual aid, usually by
+authority of the senior law enforcement officer on site.
+c. Coordination for county resources other than emergency response agencies will
+be done through the PSAPs by activating Yamhill County Emergency
+Management (503) 434-4584 business number or (503) 434-6500.
+O
+UT-OF-COUNTY RESOURCES [OAR 333-260-0020(3) 6.(d)(B)]
+1. When out-of-county resources are required for the provision of EMS during a disaster, a
+request for additional resources may be made through the appropriate PSAP as follows:
+a. Additional fire resources may be requested through inter-county mutual aid or
+through the Oregon State Conflagration Act, usually by authority of the Yamhill
+County Fire Defense Board Chief or incident commander on site.
+b. Law enforcement resources may be requested through mutual aid, usually by
+the authority of the senior law enforcement officer on site.
+c. Coordination for out-of-county resources other than emergency response
+agencies will be done through the PSAPs by activating Yamhill County Emergency
+Management.
+d. Out-of-county resources will be coordinated through Yamhill County Emergency
+Management by coordinating with emergency management centers in adjoining
+counties:
+i. Polk County Emergency Management
+ii. Clackamas County Emergency Management
+iii. Tillamook County Emergency Management
+iv. Lincoln County Emergency Management
+v. Washington County Emergency Management
+vi. Marion County Emergency Management
+e. Resources needed beyond this will be coordinated through the State Emergency
+Management division by activating the OERS SYSTEM: 1-800-452-0311.
+
+MASS CASUALTY INCIDENT PLAN (" MCIP") [OAR 333-260-0020(3) 6.(d)(C)]
+The MCIP will provide guidance to EMS response personnel in the coordination of response
+activities relating to mass casualty incidents within the County, consistent with the Yamhill
+County Emergency Operations Plan. See Appendix L for Mass Casualty Incident Plan
+CREATION, MAINTENANCE AND ADOPTION OF THE MCIP PLAN
+The County plan is created, in consultation with its Department of Emergency Management,
+the Fire Defense Board, law enforcement agencies, public health and neighboring jurisdictions,
+a mass casualty plan to be used in any mass casualty incident. The plan will be adopted after
+review by the Ambulance Service Area Committee and reviewed at minimum every 5 years.
+Provisions for mass casualty response will be included in all mutual aid agreements.
+MCIP COORDINATION
+1. The highest-ranking officer on scene of the fire agency having jurisdiction of the incident
+may be the incident commander in all fire-related, mass casualty, and HAZMAT
+incidents. For other kinds of incidents, refer to the Yamhill County Emergency
+Operations Plan. The incident commander may delegate authority for on-scene
+command and operation but will retain overall responsibility.
+2. The incident command system (ICS) will be utilized for overall scene management.
+3. The ranking EMT at the scene or the individual appointed by the incident commander
+will have overall responsibility for medical care and will work under the direction of the
+incident commander. Failure to establish the primary ICS positions of command,
+medical, triage, treatment, and transport early in the incident will lead to long-term
+problems and delays.
+4. The incident commander may determine the on-scene command frequency and staging
+area.
+
+RESPONSE GUIDELINES
+1. Response unit first on the scene:
+a) Establishes command
+b) Assesses nature and se verity of incident
+c) Advises appropriate 9-1-1 PSAP/s of situation
+d) Advises County Emergency Management of incident
+e) Requests appropriate fire police, and EMS resources services
+f) Establish appropriate objectives
+g) Establishes medical branch: triage, treatment and transportation groups as
+soon as practical.
+h) Establishes fire or rescue division as needed.
+2. Command functions:
+a) Establish appropriate and effective incident command organization.
+b) Establish objectives and priorities
+c) Develop / carry -out plan of action
+d) Mitigate hazard / stabilize scene
+e) Prioritize rescue and extrication functions
+f) Establish prompt triage and treatment of priorities within resources
+g) Arrange rapid transport and documentation of patients
+h) Coordinate order of mutual aid response
+RESPONSE TO TERRORISM [OAR 333-260-0020(3) 6.(d)(D)]
+Refer to Yamhill County Emergency Operations Plan for a complete outline of terrorism
+response. When resources are required, a request for additional resources may be made
+through the appropriate PSAP.
+PERSONNEL AND EQUIPMENT RESOURCES [OAR 333-260-0020(3) 6.(e)]
+NON-TRANSPORTING EMS PROVIDER [OAR 333-260-0020(3) 6.(e)(A)]
+When operating a non-transport EMS response unit in Yamhill County, all personnel must meet
+the requirements ORS Chapter 682 and OAR 333-255-0070 (1), (4) or (6).
+Anyone staffing a non-transport EMS response unit must not have consumed alcohol beverages
+in the eight hours before working or in any way be impaired by the ingestion of alcohol. Anyone
+staffing a non-transport EMS response unit must not be taking any medications or substances
+that would impair their ability to care adequately and safely for a patient.
+Each person staffing a non-transport EMS response unit and providing pre-hospital emergency
+medical care in the County is required to display their level of certification/licensure and, at a
+minimum, their name on the outermost garment of their work uniform and must make
+reasonable efforts to display this information under other circumstances. At a minimum, this
+uniform shall bear the name of the agency or ASA Provider providing the service. Reasonable
+exceptions are made for clothing used to protect the responders from injury or illness (i.e.
+turnouts, hazardous materials suits, personal protective garments, etc.)
+Each person staffing a non-transport EMS response unit and providing pre-hospital emergency
+medical care is required to wear a standardized uniform as determined by the employing
+agency. Uniforms shall be clean and free of excessive wear and tear and free of blood and/or
+bodily materials. Reasonable exceptions shall be granted to uniforms soiled during the course
+of providing service as long as they are cleaned and changed at the first appropriate
+opportunity.
+Each ASA Provider shall have in place a pre-employment and for-cause drug and alcohol
+screening program. This program shall be on file with the Administrator. Each ASA Provider
+shall have in place a criminal background check program. This program shall be on file with the
+Administrator. Upon a reasonable request by the Administrator, a criminal background check
+may be required of any person providing direct patient services.
+H
+AZARDOUS MATERIALS [OAR 333-260-0020(3) 6.(e)(B)]
+Refer to Yamhill County Emergency Operations Plan for a complete outline of hazardous
+materials response. When resources are required, a request for additional resources may be
+made through the appropriate PSAP.
+S
+EARCH AND RESCUE [OAR 333-260-0020(3) 6.(e)(C)]
+Refer to Yamhill County Emergency Operations Plan for a complete listing of search and rescue
+response and resources. When resources are required, a request for additional resources may
+be made through the appropriate PSAP.
+The majority of search and rescue within Yamhill County is provided by the Yamhill County
+Sheriff's Office through the Emergency Services Division. They are on-call and available on a 24-
+hour, 365-days-a-year basis. In many instances, Search and Rescue will act as first responders in
+remote areas that are inaccessible to conventional ambulances. Search and Rescue shall either
+transport to the nearest ambulance or, at their discretion, use the services of an air ambulance,
+whichever is medically appropriate. Search and Rescue teams have direct radio contact with all
+local ambulances, hospitals, and the 9-1-1 Centers. In winter months, Search and Rescue will
+respond to remote areas covered with snow and not accessible by the usual ambulance service.
+When ALS is needed, Search and Rescue will transport the ambulance crews to the patient. See
+Appendix M for Emergency Operating Procedures.
+S
+PECIALIZED RESCUE [OAR 333-260-0020(3) 6.(e)(D)]
+Refer to Yamhill County Emergency Operations Plan for a complete listing of rescue response
+and resources. Some of the common required resources are listed below. When resources are
+required, a request for additional resources may be made through the appropriate PSAP. See
+Appendix M for Emergency Operating Procedures.
+EXTRICATION RESOURCES [OAR 333-260-0020(3) 6.(e)(E)]
+Each ASA Provider is responsible for assuring that extrication equipment is available within its
+ASA. Each ASA Provider is required to keep a current up to date list and provide it annually and
+upon request to the County.
+Extrication equipment is available by the following jurisdictions within each ASA:
+ASA 1:
+Fire District Station Contact Number
+Dundee Fire (503) 554-8442
+Tualatin Valley Fire & Rescue 503-649-8577
+ASA 2:
+Fire District Station Contact Number
+Amity 503-835-2311
+Carlton 503-852-6233
+Dayton 503-864-3558
+Lafayette 503-864-2451
+McMinnville 503-435-5800
+Willamina 503-879-1709
+Yamhill 503-662-4653
+ASA 3:
+Fire District Station Contact Number
+
+Sheridan 503-843-2467
+ASA 4:
+Fire District Station Contact Number
+Grand Ronde 503-879-3473
+Ambulance Service Area Plan; December 2023 42
+Emergency Communications and System Access [OAR 333-260-0020(3) 6.(f)]
+Telephone; Public Safety Answering Points [OAR 333-260-0020(3) 6.(f)(A)]
+9-1-1 is the primary method for accessing EMS in each County ASA. The Yamhill Communications
+Agency and Newberg 9-1-1 center are the two primary PSAPs in the County that provide emergency
+and non-emergency medical dispatch services.
+In defining the ASAs, every effort was made to recognize the PSAP service boundaries. In areas
+outside a PSAP’s designated control region, protocols must be in place to relay the information to the
+appropriate dispatching PSAP.
+In many areas, fire district boundaries were also considered in the development of this ASA Plan. Fire
+district boundaries usually provide a logical division of response areas by travel time and are
+consistent with population centers. These districts help to provide continuity of service delivery in
+fire, rescue, and EMS.
+Y
+AMHILL COMMUNICATIONS AGENCY (YCOM)
+YCOM provides dispatch services for ASAs # 2-4 which include the majority of Yamhill County and
+northern portions of Polk County. Phone number: 503-434-6500
+Newberg Emergency Communications (NEWCOM) 911Newberg 9-1-1 provides dispatch services for
+ASA # 1, including the Cities of Newberg and Dundee, as well as the surrounding rural area.
+All Yamhill County 9-1-1 calls are routed to either YCOM or Newberg PSAPS and dispatched or relayed
+from their facilities.
+Each ASA Provider in Yamhill County must be capable of contacting and effectively communicating
+with both PSAPs via radio, telephone, and other specified communications technologies, such as
+mobile data terminals. The primary method of contacting the PSAPs is by radio.
+Both YCOM and Newberg 9-1-1 are supported, in part, by user fees paid by ASA Providers in the
+County. ASA Providers will continue to be charged user fees in accordance with current PSAP user fee
+formulas.
+Phone number: 503-554-7720
+Washington County Consolidated Communications Agency (WCCCA)
+WCCCA provides dispatch services for the TVF&R EMS units responding within any County ASA.
+Phone Number: 503-629-0111
+PSAP ACCREDITATION
+Newberg 9-1-1 is currently accredited through the Oregon Accreditation Alliance. They must meet
+related standards and indicate the ability to maintain standards related to EMS for their duration of
+the contract.
+YCOM is currently seeking accreditation through the International Academy of Emergency Dispatch
+(IAED), using the Medical Priority Dispatch Systems (MPDS) and the Oregon Accreditation Alliance.
+YCOM must continually demonstrate its ability to meet performance and quality assurance process
+and standards required by IAED in order to maintain accreditation.
+YCOM implemented ProQA® in December of 2018 and expanded its quality assurance program to
+further meet certain IAED requirements. IAED certification site visits were paused due to COVID and
+account management transition.
+YCOM’s quality assurance program is supported by their Supervising Physician and Program Manager,
+who participate in the Oregon/Washington Priority Dispatch Focus Group and attend national IAED
+Navigator® Conferences annually. Staff use the Prio rity Dispatch ProQA® Emergency Medical Priority
+Dispatching System (MPDS) for the processing of all medical calls. Quality assurance is measured by
+corresponding Priority Dispatch Advanced Quality Assurance (AQUA®) standards. Supervisory Staff
+are Certified EMD-Q’s. For 2021, YCOM’s Agency Performance Threshold (APT) was 8.82 for all calls.
+In addition, EMD performance is measured for every sudden cardiac arrest case, based upon the
+American Heart Association (AHA) standards. For 2021, agency wide, YCOM staff averaged 77 total
+seconds for the following steps to occur:
+1) Problem description to cardiac arrest recognition (24 seconds on average)
+2) Cardiac arrest recognition to position patient (34 seconds on average)
+3) Position patient to first compression delivered (19 seconds on average).
+D
+ISPATCH PROCEDURES [OAR 333-260-0020(3) 6.(f)(B)]
+Yamhill County is a mixture of suburban, rural and frontier service areas. EMS services are provided
+by a mixture of career and volunteer practitioners who are available 24 hours a day.
+The dispatch system consists of the communication centers at YCOM and Newberg 9-1-1, with
+telephone answering and radio dispatch capabilities. The radio system consists of both two-way radio
+communications and radio-pager technologies, which provide one-way alerting and voice transmittal
+from dispatch and alpha-numerical paging that utilizes commercial telephone paging technology for
+one-way alerting and text messages.
+The dispatch center obtains from the caller, and relays to the responders, at least the following
+information:
+1) Location of incident.
+2) Nature of incident.
+3) Any specific instructions or information that may be pertinent.
+In addition, the dispatch center will perform caller interrogation to determine the seriousness of the
+call and provide EMS unit pre-arrival instructions for rendering aid to the patient.
+Dispatch will transmit alert tones followed with location and nature of incident information
+concerning the call. If no response from duty personnel is received within five (5) minutes, then the
+dispatch center will re-alert the appropriate agency. If there is no response within three (3) minutes
+after the second alert, the next closest responder agency will be dispatched. The third alert will
+include the alert tones for the original agency as well as the next closest responder agency.
+The first emergency medical responder to arrive and evaluate the scene and patient will notify other
+responding units of the situation. Based on the condition of the patient and the resources required to
+render appropriate aid, additional responding units may choose to continue to the scene or cancel
+their response.
+EMS personnel shall inform the dispatch center when any of the following occur:
+1) When an EMS unit becomes in-service.
+2) When an EMS unit begins responding from a location other than its station. In these
+situations, the unit will state the location from which it is responding.
+3) When an EMS unit is en route to the scene or to the destination, including the type of
+response.
+4) When an EMS unit arrives on the scene or at the destination.
+5) The appropriate EMS unit should report on-scene and patient conditions.
+6) Any EMS unit at the scene should report what resources are required for the incident.
+7) When an EMS begins transporting the patient(s) to a hospital or other medical facility, the
+number of patients and the name of the facility.
+8) When an EMS unit leaves the scene, if this is different from #7.
+9) When an EMS unit arrives at the destination or when it has arrived back at its
+station/quarters.
+10) When an EMS unit is out of service with estimated unavailable time.
+Dispatch Notification Times:
+Centers are required to answer requests for emergency assistance within 10 seconds, 90% of the
+time. Centers are required to dispatch all life-threatening medical calls within 3 minutes and all
+other medical calls within 4 minutes 90% of the time. Exclusions as defined by National Fire
+Protection Association (NFPA) 1221 or other industry best practices may be considered. Data on
+notification times shall be provided and reviewed by the ASA Committee every 6 months.
+R
+ADIO SYSTEM; COMMUNICATIONS [OAR 333-260-0020(3) 6.(f)(C)]
+Radios are the primary link between the dispatch centers and ambulances, as well as other
+emergency responders. All ASA Providers will utilize the dispatch services of the ASA PSAPs and
+possess radios capable of accessing all common fire channels within Yamhill County and have the
+ability to communicate seamlessly with the ASA PSAPs and other ASA Providers and responders. The
+systems used by each ASA Provider must be capable of effectively receiving and transmitting voice
+and/or data messages on specific radio frequencies, designated by the County, as assigned by the
+coordinating PSAPs.
+All ambulances will maintain and use multi-channel mobile radios and multi-channel handheld radios.
+Radios and other communications equipment used by each ASA Provider must be compatible with
+PSAP procedures and meet the technical standards of systems used by YCOM and Newberg 9-1-1. It is
+each ASA Provider's responsibility to procure, install and maintain all technologies, or other
+equipment, used in the delivery of communications services. Essential communications equipment,
+as mutually defined by ASA Providers and PSAPs, will be installed in all ambulances and supervisory
+vehicles.
+All radio and telephone communications, including pre-arrival instructions and call time tracking,
+must be recorded on a mutually accessible media.
+Each ambulance must be provided with cellular telephones for supplemental communications
+capabilities as a backup system to radios.
+PSAP radio systems must meet the following requirements:
+1) Be physically restricted to authorized personnel only.
+2) Meet National Fire Protection Association (NFPA) standards and all State or County
+standards.
+3) Maintain and use consoles with the ability to communicate with EMS providers and hospitals.
+4) Maintain and use emergency phone lines and primary radio frequencies that are recorded
+with a 24-hour, time-taped device capable of play-back to the desired second, which is
+equipped with a voice recorder for immediate play-back of distress calls.
+5) Store time-tape recordings for no less than 7 months.
+6) Utilize clear text/plain English for radio traffic.
+7) Equip its center with a back-up power source capable of indefinitely maintaining all functions
+of the center in the event the regular power supply is interrupted.
+In 2016, during the transfer of ASA #1 from Newberg Fire District to Tualatin Valley Fire and Rescue
+(TVF&R), the primary dispatch center for ASA #1 changed. 9-1-1 calls in ASA #1 are answered by
+Newberg-Dundee Communications Center and then transferred to the Washington County
+Consolidated Communications Agency (WCCCA) for dispatch services. Because of this change, the
+Newberg 9-1-1 Center has transitioned to police dispatch only, routinely transferring EMD and Fire
+calls to WCCCA, and law enforcement calls outside the city limits of Newberg and Dundee, to YCOM.
+YCOM’s dispatch system combines two-way radio communication and radio-pager technology with
+digital alpha-numerical notification and delivery. Digital paging is done via CAD interface, utilizing
+YCOM’s two paging servers which provide capability of messaging through SMTP (email) and SMS
+(text) protocols. YCOM is a Pulsepoint® Connected organization, and simultaneously sends secondary
+notifications to both Pulsepoint® and Active 9-1-1 subscribers. Station alerting capability exists
+through SMTP and tone alerting radio interface.
+EMS D
+ISPATCHER TRAINING [OAR 333-260-0020(3) 6.(f)(D)]
+An integral part of the EMS component of the PSAPs in the County is the employment of
+appropriately trained individuals using approved, standardized support tools for handling EMS calls.
+Therefore, all EMS dispatchers are required to successfully complete an Emergency Medical Dispatch
+(EMD) training course approved by the State of Oregon Department of Public Safety Standards and
+Training (DPSST) and to possess current DPSST EMD certification. Dispatchers must also possess
+current and verifiable First Aid/CPR certification.
+In addition:
+1) Each PSAP is responsible for acquiring and maintaining a State of Oregon approved EMD
+system.
+2) Each PSAP is responsible for ensuring all dispatch employees are certified as EMD
+dispatchers through the State of Oregon.
+3) Each PSAP is responsible for ensuring all dispatch employees are First Aid/CPR certified.
+4) Strict adherence to medical dispatch protocol is required, except in the event deviation
+from protocol is clearly justified due to special circumstances.
+5) Compliance with EMD questions and pre-arrival instructions shall be a routine part of an
+integrated quality improvement process and shall be reported monthly with response
+statistics.
+6) If an automated EMD system is used, a manual back-up system with current EMD cards
+must be available in the event of system failure. All dispatch employees must be trained
+and certified in the use of the manual card system.
+The PSAP shall provide comprehensive internal orientation and ongoing training and testing that
+encompasses EMD certification, CAD system use, system status management, geography, medical
+priority dispatch protocols, first responder notification protocols and procedures, air medical
+notification procedures, disaster management policies and procedures, voice radio system operation
+(including medical and field communications equipment), paging system conventions and uses, data
+radio system operations, radio telephone usage, and emergency operations center procedures.
+Communications personnel will be encouraged to attend any courses, conferences, or workshops
+that directly relate to their work and enhance their skills. The communications dispatcher's goal is to
+meet or exceed DOT Emergency Medical Dispatch Course Standards. Communications personnel
+must meet all current and future standards adopted by the State or County.
+C
+OMPUTER AIDED DISPATCH SYSTEM
+The PSAP utilizes a computer aided dispatch (CAD) system to record dispatch information for all
+service requests. The CAD system is capable of tracking, at a minimum, the date, hour, minutes, and
+seconds of several time stamps throughout the EMS assignment for each unit engaged in the call.
+Dispatchers must be trained to complete mutually approved manual procedures for each dispatch of
+an ambulance when the computer system fails or becomes inoperable. Following the resumption of
+normal service of the CAD system, personnel must retroactively enter the data recorded on the
+manual dispatch cards during the outage into the CAD system.
+D
+ATA AND REPORTING REQUIREMENTS
+The long-term success of an EMS system is predicated upon its ability to both measure and manage
+its operations. Therefore, each ASA Provider must maintain and provide detailed operational, clinical,
+and administrative data in an electronic format and manner that facilitates retrospective analysis.
+Security features preventing or recording unauthorized access or changes in data must be in place,
+including full audit trail documentation.
+Q
+UALITY IMPROVEMENT AND MEDICAL CONTROL
+Each ASA Provider's electronic data system must be capable of capturing and reporting common data
+elements used within the EMS system. The PSAP's data system must be capable of demonstrating
+adherence to medical dispatch protocols, adherence to medical priority dispatch questioning, and
+provision of pre-arrival instructions.
+At least one employee from each ASA Provider will be assigned to participate in the quality
+assurance/improvement process utilized by YCOM and Newberg 9-1-1.
+MANAGEMENT OF PERSONNEL
+The PSAPs and ASA Providers are responsible for the management and supervision of their
+employees. ASA Providers, in conjunction with YCOM, Newberg 9-1-1, and WCCCA management, will
+cooperate in the resolution of problems and disputes.
+PROVIDER SELECTION [OAR 333-260-0020(3) 7]
+INITIAL ASSIGNMENT OF ASAS [OAR 333-260-0020(3) 7.(a)]
+The initial assignment of ASAs will occur as follows:
+1. Unless there has been more than one application made for an ASA franchise, any applicant
+who meets the application requirements and who was providing service on the effective date
+of the ordinance adopting this ASA Plan shall be franchised to continue to provide Ambulance
+Service for the ASA in which the applicant was serving.
+2. If more than one application is made for an ASA franchise within 180 days of the effective
+date of the ordinance adopting this ASA Plan, then each application shall be considered by the
+ASA Committee for recommendation to the Board.
+REASSIGNMENT [OAR 333-260-0020(3) 7.(b)]
+FRANCHISE TERM AND RENEWAL
+An initial Franchise issued under this ASA Plan shall be valid from the date of issuance for ten years
+and may be renewed.
+Not more than one hundred eighty (180) days and not less than ninety (90) days prior to the
+expiration of a Franchise granted under this ASA Plan, each ASA Provider who desires to renew a
+Franchise shall notify the Administrator. Any other Ambulance Service providers duly licensed in
+the State of Oregon to provide BLS or ALS ambulance service may also submit applications during this
+time frame.
+Review of all applications for renewal or assumption of a Franchise will be conducted in the
+same manner as the review of applications for the initial assignment of the ASAs.
+TRANSFER OF FRANCHISES
+An ASA Provider may transfer its Franchise to another entity only upon the Board’s written approval
+of a written request to transfer the Franchise and the Board’s approval of an application submitted by
+the replacement provider. The transfer of a Franchise must occur as follows:
+1. The Board must approve the written request for a transfer at a public meeting.
+2.
+Review of all applications for the transfer of the Franchise must then be conducted in the
+sa
+me manner as the review of applications for the initial assignment of the ASAs.
+EARLY DISCONTINUANCE OF SERVICE BY ASA PROVIDER
+An ASA Provider that intends to discontinue providing EMS and related service before the expiration
+of its Franchise must provide the Administrator with at least 180 days’ written notice prior to
+discontinuing service. The Administrator shall notify the ASA Committee and then set a time by which
+applications must be submitted for the ASA franchise. The ASA Committee shall develop an interim
+plan for coverage of the ASA, using other existing ASA Providers and/or other available public or
+private resources until the ASA can be reassigned.
+T
+EMPORARY REASSIGNMENTS
+The Board may, on its own motion or upon a recommendation of the ASA Committee, issue a
+temporary certificate, valid for a stated period not to exceed twelve (12) months, entitling another
+current ASA Provider or another public or private Ambulance Service Provider to provide emergency
+ambulance service in all or part of the ASA. The Board may renew a temporary certificate for one
+additional six (6) month period.
+APPLICATION FOR AN ASA [OAR 333-260-0020(3) 7.(c)]
+Any Ambulance Service provider duly licensed in the State of Oregon to provide BLS or ALS
+ambulance service may submit an application within 180 days of the effective date of the ordinance
+that adopts this ASA Plan to become a franchised provider of services in any County ASA or ASAs. The
+application shall be in writing and contain the following information:
+1) Legal name and address of applicant submitting application.
+2) “Doing Business As” (DBA) name of applicant submitting application.
+3) Owner(s)’ of the applicant and their residential street address(s).
+4) Owner(s)’ phone number and email address(es).
+5) Oregon ambulance service license number.
+6) Date of original licensure by the state of Oregon to provide ambulance services, with
+all renewal dates and a listing of any lapses in licensure.
+7) List of any actions taken against the applicant by the State of Oregon or any county
+within the state.
+8) Type/level of ambulance service proposed to be provided (Medical First Response, BLS
+or ALS)
+9) A list of vehicles to be used in providing emergency ambulance services in the ASA or
+ASAs, including the year, make and model, and verification that each vehicle is licensed
+by the state of Oregon.
+10) A list of personnel to be used in providing emergency ambulance service in the ASA or
+ASAs, the role of each person, and where applicable each person’s current Emergency
+Medical Technician level and certificate number.
+11) The ASA or ASAs proposed to be serviced, both in narrative description form and by
+detailed map presentation.
+12) Reason designation is sought by applicant to provide ambulance services in each
+referenced ASA.
+13) Identification of the current ASA Provider serving each specified ASA.
+14) Whether the existing ASA Provider of each specified ASA agrees to relinquish said ASA
+to the applicant.
+15) If an existing ASA Provider has not agreed to relinquish the specified ASA to the
+applicant, then an explanation why the service the applicant proposes would improve
+ambulance services in the specified ASA.
+16) A statement as to whether or not the person would contract for any emergency
+ambulance services to be provided.
+17) An affirmative statement that the applicant is financially solvent and capable to
+provide the specified emergency ambulance services in the specified ASA.
+18) Report of any bankruptcy by applicant in the last five years.
+19) Submission with the application of audited financial statements for the applicant, if
+they exist. If not, the last three years’ internal financial statements.
+20) The source of funding the applicant expects to receive in order to provide a sustained
+operation servicing the specified ASA.
+i. If funding includes billing for services, then the rates the applicant intends to
+charge for their ambulance services.
+21) Consistent with the Oregon Tort Claims Act, proof of general liability insurance
+coverage amounts not less than the following:
+i. $150,000 to any claimant for any number of claims for damage to or
+destruction of property, including consequential damages, arising out of a
+single accident or occurrence.
+ii. $750,000 for any number of claims for damage to or destruction of property,
+including consequential damages, arising out of a single accident or occurrence.
+iii. $1 million to any claimant as general and special damages for all other claims
+arising out of a single accident or occurrence.
+iv. $2 million for any number or type of claims, other than claims of damage to or
+destruction of property, arising out a single accident or occurrence.
+The fully completed and signed application must be submitted to the Administrator. Upon receipt of
+an application, the application shall be reviewed by the ASA Committee, which shall make a
+recommendation to the Board on whether to approve or deny the application. The assignment or
+reassignment of any ASA must be made by a written order of the Board.
+NOTIFICATION OF VACATING AN ASA [OAR 333-260-0020(3) 7.(d)]
+Any ASA Provider who intends to cease operation or vacate the provision of services to an ASA, or
+any portion thereof, must prove at least six months’ notice to the County, through the Administrator.
+The notice shall be in writing and state the reason for termination of ambulance services.
+MAINTENANCE OF LEVEL OF SERVICE [OAR 333-260-0020(3) 7.(e)]
+In the event an ASA Provider intends to cease operations and forfeit their designated ASA, said ASA
+Provider shall continue services for at least six months, or until the County is able to identify and
+assign a replacement Ambulance Service provider.
+1. In areas of the County where geographic or other limitations might hinder the adequate
+provision of ambulance services, the County may enter intergovernmental agreements with
+counties, cities or fire districts in order to provide efficient and effective ambulance service by
+means of public or private Ambulance Service Providers.
+In the event an ASA Provider is replaced or removed as the service provider of a County ASA for any
+reason, the ASA Provider will continue to provide services until such time as a new ambulance service
+provider can begin services. Each ASA Provider must cooperate fully with the County to ensure that
+any reassignment of an ASA does not disrupt ambulance service levels.
+APPENDICIES
+APPENDIX B
+APPENDIX C
+APPENDIX D
+APPENDIX E
+Annual EMS Volume Distribution by Hour of the Day
+APPENDIX F
+APPENDIX G
+APPENDIX H
+APPENDIX I
+Yamhill CountyM ap
+APPENDIX J
+APPENDIX K
+WHEN RESPONDING ON A
+MASS – CASUALTY
+INCIDENT
+- Res
+pond according to response assignment for MCI zone.
+-
+Enroute, contact Medical Coordination Center if operational.
+- Enro
+ute, Review MCI Field Guide.
+- If you are on a move - up, advise Medical Coordination Center
+on arrival.
+IF RESPONDING TO SCENE
+-
+Proceed to Staging Area specified by Operations.
+- On a
+rrival, drop personnel and equipment as needed.
+- Dr
+iver and vehicle stay in Staging Area.
+NEVER SEPARATE DRIVER,
+VEHICLE, AND STRETCHER
+APPENDIX L
+April, 2013
+Table of Contents - 1
+YYaammhhiillll  CCoouunnttyy
+Mass - Casualty Incident Plan
+Table of Contents
+Sect
+ions:
+1. Definitions
+2. General Guidelines
+3. Command Structure
+4. Resource Lists
+5. Field Guides
+6. Zone Response Assignments
+7. Zone Maps
+8. Post - Incident Analysis
+Section 1
+DEFINITIONS
+Yamhill County
+Mass-Casualty Incident Plan
+April, 2013
+Section 1 – Definitions
+Page - 1
+COMMAND POST (CP): An ad hoc group which is formed specifically to
+mitigate an incident.  The Command Post may vary in size and type depending
+on the size and type of incident.  The Command Post’s function is to provide a
+central stationary location to assist the IC in incident command and control.  The
+CP is the field office for management functions, such as logistics, planning, and
+finance.  It will be composed of designated officials of various agencies.  An
+example of these agencies would be Law Enforcement, Fire, EMS, and Public
+Works.  Prompt set-up of this control function has been proven to be paramount
+in the successful handling of large incidents.
+DISASTER:  An unforeseen, unplanned for emergency which exceeds the day -
+to - day capabilities of local government.
+Helicopter Emergency Medical Services (HEMS):  The HEMS is the licensed
+helicopter ambulance service available to our county.  Depending on the size of
+incident this list may include the National Guard and Coast Guard.  The
+dispatch centers will maintain an updated list of available HEMS.
+EMS: Emergency Medical Services.
+EXTRICATION GROUP LEADER:  An officer assigned to oversee the removal
+of patients from vehicles or structures and coordinate their movement from the
+incident site to the treatment area.
+INCIDENT COMMANDER (IC):  The individual responsible for the management
+of all incident operations at the incident site.
+INCIDENT COMMAND SYSTEM (ICS): The combination of facilities,
+equipment, personnel, procedure, and communications operating within a
+common organizational structure, with responsibility for the assigned resources
+to effectively accomplish stated objectives pertaining to an incident
+MASS CASUALTY INCIDENT (MCI):  An incident in which the number of
+patients exceeds local resources.  All patients are at one general location with a
+common time of insult.
+April, 2013
+Section 1 – Definitions
+Page - 2
+MCI PLAN:  A plan which coordinates the response of multiple EMS agencies
+and resources in order to assure the delivery of adequate pre-hospital care and
+orderly distribution of patients to appropriate hospitals.  The plan may be
+implemented on the following incidents:
+1.
+Total patients exceeds 5 stretcher patients, or;
+2. 4
+critical patients, or;
+3.
+Any incident or combination of incidents which will exceed t he
+resour
+ces of the local EMS agency.
+The MCI Plan is organized into preplanned responses of various EMS
+personnel and vehicles needed to mitigate multiple patient incidents involving
+different numbers of patients.  Criteria for the correct plan selection is as
+follows:
+PLAN
+PATIENTS AMBULANCES
+A 5 – 10 5 – 6
+B 11 – 20 8 – 10
+C 21 – 30 13 – 15
+D 31 – 40 18 – 20
+E 41 – 50 23 – 25
+GREEN 51 – 150 30 – 40
+YELLOW 151 – 300 50 – 75
+RED 301 – 500 75 - 100
+MEDICAL BRANCH DIRECTOR:  An official assigned to oversee all EMS
+functions during an MCI.  The Medical Branch Director functions as a member
+of the Operations Section and may have three (3) direct subordinates:  Triage
+Group Leader, Treatment Group Leader, Transportation Group Leader.  The
+Medical Branch Director should be the individual that has the most knowledge
+of area EMS capabilities.  He/She will formulate a plan of action for the incident,
+relay to his/her subordinates, and troubleshoot any EMS problems.  The
+Medical Branch Director will keep Incident Command advised of any changes in
+the strategic plan.
+April, 2013
+Section 1 – Definitions
+Page - 3
+MEDICAL COORDINATION CENTER (MCC): When activated the MCC may
+be responsible for coordinating patient destinations, contacting area hospitals to
+determine and monitor their status, notifying area hospitals of inbound injured,
+and keeping the Transport Group Leader informed of each hospital status.
+The Yamhill County MCC’s are located at Station 1, Station 20, Station 8, and
+Station 9.
+MEDICAL RESOURCE HOSPITAL (MRH): Medical Resource Hospital (MRH)
+based in Portland, OR is a service provided by the OHSU Emergency
+Department for paramedics in the field.  OHSU Emergency room physicians are
+available 24/7 by radio or phone
+to give medical advice
+to approve medication orders
+to direct resuscitation and end-of-life efforts
+to explain to patients the consequences of refusing treatment
+to clarify protocols
+This assistance is provided to EMS personnel in Multnomah, Clackamas,
+Washington, Columbia, and Hood River counties.
+When an MCI in Yamhill County requires patients be transported to hospitals in
+the Portland metropolitan area, MRH is a resource that will alert hospitals on the
+nature and scope of the Yamhill County MCI and will coordinate patient
+distribution to the various Portland areas hospitals.
+OVERHEAD TEAM:  A team of specially trained individuals formed to manage
+an incident.  These individuals may be from one or more agencies, and may be
+utilized when an incident overwhelms an agencies’ ability to assign their own
+personnel to manage functions within their own emergency system.
+SINGLE COMMAND STRUCTURE:  A command structure with one officer in
+command of the entire scene.
+STRIKE TEAM (Ambulance):  A response team of five (5) transporting
+ambulances with a strike team leader from specified areas with common
+communication.  This team would stage at a designated location and respond to
+the staging area together.
+April, 2013
+Section 1 – Definitions
+Page - 4
+STAGING AREA MANAGER: An officer assigned the various tasks related to
+the arrival of EMS personnel and vehicles.  This officer will work directly with the
+Medical Branch Director and the MCC to assure adequate personnel, vehicles
+and equipment are on the scene, and that they are staged in a manner which
+provides for a smooth flow into the scene.  Tasks might include staging
+incoming vehicles and personnel, stockpiling equipment, and informing the
+Medical Branch Director of the levels of EMS personnel as they arrive.
+TASK FORCE (EMS):  A response team of five (5) pieces of apparatus from a
+specified region with common radio communication.  This team ideally should
+consist of three (3) engines and two (2) rescue units capable of transport.  The
+EMS Task Force will be led by a Task Force Leader.
+TRANSPORTATION GROUP LEADER:  An officer assigned to coordinate the
+distribution of patients to available and appropriate hospitals.  The
+Transportation Group Leader will communicate with the MCC or Resource
+Hospital to obtain availability of hospitals, and as patients are ready for
+transport, assign a hospital destination.  The Transportation Group Leader will
+then communicate patient information to the MCC or Resource Hospital.
+TREATMENT GROUP LEADER:  An officer assigned to coordinate treatment
+of patients in the treatment area and allocate the resources appropriately.  The
+Treatment Group Leader will re-triage patients as they arrive in the treatment
+area and assign each patient to a treatment area based on triage tag level.
+EMS Personnel will be assigned to the treatment area as they arrive on scene.
+TRIAGE GROUP LEADER:  An officer assigned the task of triaging patients in
+the incident area.  This will normally be one of the first officers assigned and the
+Triage Group Leader may head up a triage team in larger incidents.  The Triage
+Group Leader will coordinate with the Extrication Group Leader (if assigned) or
+extrication personnel to oversee the movement of patients to the treatment
+area.
+UNIFIED COMMAND STRUCTURE:  A horizontal command structure with
+command officers of various agencies operating at the same level.
+Section 2
+GENERAL
+GUIDELINES
+Yamhill County
+Mass-Casualty Incident Plan
+April, 2013
+Section 2 – General Guidelines
+Page - 1
+The Goal Is To Activate Systems, Not Stress Them!
+Discipline Is The Key To This Goal
+1. When confronted with any mass casualty incident, it will be the
+res
+ponsibility of the first arriving unit to determine the most appropri ate
+l
+evel of MCI response, and then implement the incident command system.
+This MCI Plan can be implemented or not used at the discreti on of the
+comm
+and people on scene.  It is a tool.
+2.
+Definitions and responsibilities shall be detailed within the MC I Plan to
+prov
+ide standardized and coordinated response to any MCI.  All other
+areas should be addressed in an ASA plan or at the local level.
+3. Triage of patients will be accomplished utilizing the S. T. A. R.  T.
+pri
+nciples. (Simple Triage and Rapid Treatment)
+4. Communications during an MCI shall be accomplished via de dicated
+freque
+ncies depending on whether the incident is local or regional .
+5
+. Local government has the responsibility for protecting life, environmen t,
+and
+property during an MCI or disaster.  This MCI plan is meant to s erve
+as a
+n adjunct to county or ASA or MCI Disaster Plans, not a replacement.
+6. The National Incident Management System (NIMS) will be utilized to
+manage any incident.  Recognizing the different experience levels  of
+di
+fferent agencies and personnel, it is up to each individual agenc y to
+i
+mplement the NIMS on incidents in their jurisdiction and manage th e
+i
+ncident.
+7.
+Mobilization will be determined using the pre-planned respo nses
+deve
+loped by each agency.  This is located in Section 6.
+8. When an incident threatens to overwhelm an agency’s dispatch center ,
+tha
+t agency may request that the MCC is activated is a specific  area.
+April, 2013
+Section 2 – General Guidelines
+Page - 2
+Communications
+1. Requests for assistance from mutual aid agencies should be m ade
+throug
+h the Public Service Answering Point (PSAP) of the agency i n
+comm
+and of the incident.  Station 82, YCOM, Fire Com etc. U pon
+not
+ification of zone and plan level, the PSAP should refer to the
+appropr
+iate MCI Dispatch Sheet and contact the agencies or PSAP listed.
+2. The PSAP should radio, when possible, or landline mutual ai d agencies
+w
+ith the MCI zone and plan level.  Agencies that are responding should
+the
+n refer to the appropriate MCI Zone and Plan Level to see whic h
+apparat
+us or the types and numbers are sent.
+3. Apparatus responding to the scene sh ould be given general directions to
+the
+ incident, location of the staging area, and contact the Stagi ng Area
+Manager
+ on the appropriate radio frequency.  Apparatus moving up  to
+cov
+er will contact the appropriate PSAP or MCC when in position to cover
+the district.
+4. All communication with hospitals will be made through MRH or MCC vi a
+the
+ Transportation Group Leader.
+5. The MRH or the MCC will landline area hospitals to determine availabilit y.
+This wi
+ll be recorded on the Patient Transport Log and then rela yed to the
+Trans
+portation Group Leader.  Communication with the Transportati on
+Group Leader
+can be with either radio or cell phone.
+6. As patients leave the scene by ambulance, the Transportation Gr oup
+Leader
+ will contact the MRH or the MCC and give them a brief patient
+report: (M-4 transporting 2 patients, ETA 8 minutes. Patient 1 Red  Tagged
+(or
+ critical), chest injuries, GCS 11, Pt. 2 Yellow or non-critical, back pai n
+and
+arm fracture, GCS 15).  MRH or MCC will then landline the receivi ng
+hosp
+ital and relay this information.  Patient information will be recorded o n
+the
+ Patient Transport Log which MRH or MCC will also have.
+Section 3
+COMMAND
+STRUCTURE
+Yamhill County
+Mass-Casualty Incident Plan
+April, 2013
+Section 3 – Command Structure
+Page - 1
+The following organizational charts represent the suggested structure of the
+Medical Branch of the Incident Command System. These charts are intended to
+assist the Medical Branch Director in organizing an effective and efficient
+structure. The charts are organized according to the number of patients injured
+and correspond with the respective Mass - Casualty Incident Plan level ( A - E ).
+With good pre-planning, the command structure in EMS incidents can be
+anticipated in advance, thus eliminating confusion at the scene. It is not the
+intent of this section to limit the structure being set up, or limit the number of
+personnel to involve. Every incident and every agency is different. These charts
+merely serve as a blueprint when preplanning, training, and may provide the
+needed framework when it is time to manage an incident.
+April, 2013
+Section 3 – Command Structure
+Page - 2
+MEDICAL BRANCH
+MCI - PLAN A
+Medical Branch Director /
+ Transportation
+  I
+       I
+   _________________ _I__________________
+   I  I          I
+        I       I          I
+ Triage/Extrication    Treatment     _ _ _I_ _ _
+   I        I
+   ____I____   ______I________
+   I    I   I   I    I
+   I    I   I   I    I
+  Team 1    Team 2    Level 1   Level 2  Level 3
+5 - 10 Patients
+April, 2013
+Section 3 – Command Structure
+Page - 3
+MEDICAL BRANCH
+MCI - PLAN B
+ Medical Branch Director    Staging
+  I    I
+  ___________________I_________________ I
+ I   I         I
+ I            I       I
+ Triage / Extrication   Treatment   Transportation
+ I     I
+ I       I
+   ____I____     _______ I________
+   I  I    I    I    I
+   I  I    I    I   I
+  Team 1     Team 2    Level 1   Level 2    Level 3
+  I
+  I
+ Crew
+11 - 20 Patients
+April, 2013
+Section 3 – Command Structure
+Page - 4
+MEDICAL BRANCH
+MCI - PLAN C
+   Medical Branch Director
+       I
+   _______________________  _I____________________
+      I           I     I         I
+      I             I             I                I
+S
+taging     Triage    Treatment    Transport
+   I  I        I
+   I       I                I
+   I    _____ _I_______         I
+   I   I   I    I          I
+   I   I   I    I          I
+  Extrication    Level 1   Level 2   Level 3         Aide
+   I   I    I
+   I   I     I
+   I   I     I
+ Team 1   Crew   Crew
+     I         I
+ Team 2   Crew
+     I
+ Team 3
+21 - 30 Patients
+April, 2013
+Section 3 – Command Structure
+Page - 5
+MEDICAL BRANCH
+MCI - PLAN D
+        Medical Branch Director
+       I
+  _______________________I_______________________
+ I   I   I           I
+ I        I         I           I
+Staging      Triage         Treatment          Transport
+  I       I            I
+  I           I               I
+  I    _______I_______          I
+  I    I   I    I           I
+  I    I   I    I           I
+  Extrication     Level 1   Level 2   Level 3   Aide
+  I    I   I  I
+  I    I   I  I
+  I    I   I  I
+  Team 1    Crew   Crew   Crew
+       I         I   I
+  Team 2    Crew   Crew
+       I         I
+  Team 3    Crew
+       I
+  Team 4
+31 - 40 Patients
+April, 2013
+Section 3 – Command Structure
+Page - 6
+MEDICAL BRANCH
+MCI - PLAN E
+   Medical
+  Branch Director     Aide
+   I  I
+   _______________________I____________I____________
+   I     I    I    I
+     I        I       I       I
+ Triage   Treatment   Transport    Staging
+   I   I     I
+   I          I          I
+   I   ________I_________   I
+   I   I    I    I   I
+   I   I    I    I   I
+Extrication     Level 1   Level 2   Level 3   Aide
+ I  I   I     I
+ I  I   I     I
+ I  I   I     I
+ Team 1     Crew  Crew   Crew
+      I         I   I     I
+ Team 2     Crew  Crew   Crew
+      I       I   I
+ Team 3     Crew  Crew
+      I       I
+ Team 4     Crew
+      I
+ Team 5
+41 - 50 Patients
+Section  4
+RESOURCE
+LISTS
+Yamhill County
+Mass-Casualty Incident Plan
+April, 2013
+Section 4 – Resources
+Page - 1
+First Responders // Quick Response Teams
+AGENCY UNIT ALS BLS RESCUE
+TOOL
+TRANSPORT
+CAPABLE
+Amity Fire R-5 X1
+Carlton Fire R-7 X1
+Dayton Fire R-6 X 1
+Dundee Fire R-3 X1
+Gaston Fire R-11 X1 X
+Lafayette Fire R-10 X
+McMinnville Fire E-1 X 1
+Newberg Fire R-21 X 1 X
+Sheridan Fire R-9 X1
+West Valley Fire R-8 X1
+Yamhill Fire R-4 X1
+YAMHILL COUNTY EMS TASK FORCE
+(For Response to Other Counties)
+When Possible, Send a TASK FORCE LEADER
+TASK FORCE ENGINE RESCUE
+TASK
+FORCE
+LEADER
+RESPONSE
+AREA STAGING LOCATION
+CHARLIE
+E-25
+E-1
+E-61
+R-21 On Call
+Duty Officer
+North and
+East
+Newberg Station or
+Yamhill Station
+DELTA
+E-91
+E-
+1
+E-51
+R-8
+R-4
+On Call
+Duty Officer
+South and
+West
+Amity Station or
+Sheridan Station
+April, 2013
+Section 4 – Resources
+Page - 2
+YAMHILL COUNTY STRIKE TEAMS
+(For response to other counties when possible send a STRIKE TEAM or TASK FORCE LEADER)
+TEAMS UNITS STRIKE TEAM
+LEADER RESPONSE AREA STAGING LOCATIONS
+1
+M-1
+M-10
+M-20
+M-21
+M-9
+Newberg Fire Dept    On
+Call Duty Officer
+Multnomah County
+Clackamas County
+I-84 Corridor
+North Marion County
+Newberg Fire Station
+414 E. 2nd St
+Newberg, OR 97132
+2
+M-1
+M-10
+M-20
+M-21
+M-9
+McMinnville Fire Dept    On
+Call Duty Officer
+Washington County
+Columbia County
+Clatsop County
+Yamhill Fire Station
+275 S. Olive St.
+Yamhill, OR 97148
+3
+M-1
+M-10
+M-20
+M-9
+M-8
+Mc
+Minnville Fire Dept    On
+Call Duty Officer
+South & East of
+Yamhill County
+Amity Fire Station
+700 S. Trade St.
+Amity, OR 97101
+4
+M-1
+M-10
+M-20
+M-9
+M-8
+We
+st Valley Fire Dept or
+Sheridan Fire Dept
+On Call Duty Officer
+Central & South
+Coast
+Grande Ronde Station
+28480 McPherson
+Grand Ronde, OR 97347
+April, 2013
+Section 4 – Resources
+Page - 3
+AMBULANCE RESOURCES LISTED BY COUNTY
+(  Within  3  hours  of  Yamhill  County )
+COUNTY   PSAP LOCATION PHONE
+NUMBER
+Benton Benton County Corvallis 1-541-766-6911
+Clackamas     C - COMM
+AMR - Northwest Oregon City 1-503-655-8911
+1-503-231-6300
+Clatsop  Clatsop
+Medix Astoria 1-503-325-4411
+1-503-861-1990
+Columbia  Columbia County St. Helens 1-503-397-1521
+Lane  Central Lane Comm.
+Florence PD
+Eugene
+Florence
+1-541-344-2211
+1-541-997-3515
+Lincoln  WVCC Lincoln City
+Newport 1-503-585-8910
+Linn  Linn County Albany 1-541-967-3911
+Marion  WVCC Salem 1-503-585-8910
+Multnomah Multnomah County
+AMR Northwest Portland 1-503-823-0911
+1-503-2316300
+North Marion County NOR - COMM Woodburn 1-503-982-2340
+Polk  WVCC Salem 1-503-585-8910
+Tillamook  Tillamook County Tillamook 1-503-842-2561
+Washington WCCCA
+Metro West Amb. Beaverton 1-503-629-5766
+1-503-648-6656
+HELOCOPTER EMERGENCY MEDICAL SERVCICE RESOURCES
+SERVICE PHONE  NUMBER ROTOR
+WING
+FIXED
+WING
+Life Flight / Portland 1-800-452-7434 2 2
+Reach 1-800-338-4045 1 1
+Air Link / Bend 1-800-621-5433 1 2
+Oregon National Guard      1-800-452-0311 10 0
+Coast Guard / North Bend 1-541-756-9220 4 0
+Airlift  NW / Seattle Area 1-800 426-2430 4 1
+Mercy Flights / Medford 1-800-903-9000 1 1
+April, 2013
+Section 4 – Resources
+Page - 4
+HOSPITAL RESOURCES
+Within 3 hours of Yamhill County
+HOSPITAL  ER PHONE SPECIALTY
+Albany General 1-541-812-4194 Level 3 Trauma
+Columbia Memorial // Astoria 1-503-338-7508 Level 4 Trauma
+Emanuel // Portland 1-503-413-4121
+Level 1 Trauma
+Peds & Peds Trauma
+Burn Center
+Good Sam // Corvallis 1-541-768-5021 Level 2 Trauma
+Lebanon Community 1-541-451-7115 Level 4 Trauma
+Meridian Park // Tualatin 1-503-692-7467
+North Lincoln 1-541-996-7118 Level 4 Trauma
+Pacific Communities 1-541-574-1818 Level 4 Trauma
+Peace Harbor // Florence 1-541-997-1076 Level 4 Trauma
+Providence Newberg 1-503-537-1785  No designation
+Sacred Heart // Eugene 1-541-686-6929  No designation
+Salem Memorial 1.503-814-1300 Level 2 Trauma
+Tillamook  1-503-815-2280 Level 4 Trauma
+OHSU // Portland 1-503-494-7333 Level 1 Trauma
+Peds & Peds Trauma
+West Valley Hospital // Dallas 1-503-623-7333 Level 4 Trauma
+McKenzie-Willamette // Springfield 1-541-726-4580 Level 3 Trauma
+Sacred Heart // River Bend Eugene 541-222-6929 Level 2 Trauma
+WVMC // McMinnville 503-472-7192 Level 3 Trauma
+MC
+I TRAILERS & HAZ MAT TRAILERS
+AGENCY MCI TRAILER HAZ MAT TRAILER
+McMINNVILLE FIRE MCI-1 HAZ MAT-1
+NEWBERG FIRE MCI-2 HAZ MAT-2
+SHERIDAN FIRE MCI-9
+YAMHILL FIRE MCI-4
+April, 2013
+Section 4 – Resources
+Page - 5
+OTHER EMS CAPABLE UNITS
+Typical Staffing in (   ) All Units BLS Unless Otherwise Noted
+AGENCY UNIT UNIT UNIT UNIT UNIT
+AMITY FIRE BR-5 (2) E-53 (3) BR-57 (2) E-52 (4)
+CARLTON FIRE E-72 (4) BR-7 (2) E-74 (4) E-77 (3)
+DAYTON FIRE E-61 (3) BR-6 (3) BR-63 (2)
+DUNDEE FIRE E-31 (4) BR-37 (4)
+GASTON FIRE E-1171 (4) E-1172 (4)
+LAFAYETTE FIRE E-101 (3) E-102 (3) R-101 (2)
+McMINNVILLE FIRE S-1 (4) E-1 (4) E-15 (4) BR-1 (4)
+NEWBERG FIRE E-20 (2) TX E-21 (2) E-201 (4) BR-20 (2) BR-21 (2)
+SHERIDAN FIRE E-91 (5)  SQ-9 (2)  BR-97 (2) BR-98 (2) R-9 (5)
+WEST VALLEY FIRE E-8 (2) E-82 (2) E-81 (2) BR-8 (2) BR-82 (2)
+YAMHILL FIRE BR-4 (2) E-42 (4) E-43 (3) E-41 (4) Car 4 (1-2)
+R
+ESCUE EQUIPMENT AND CAPABILITIES
+AGENCY
+RESCUE
+TOOL
+AIR
+BAGS GENERATOR LIGHTS TORCH
+ROPE
+RESCUE BOAT
+AMITY FIRE BR57 R5 R5 R5
+CARLTON FIRE E72 E72, E74, E77 AT 7
+DAYTON FIRE R6 R6 R6 E61
+DUNDEE FIRE R3 R3 R3 / E36
+R3 /
+E36
+GASTON FIRE STA 11
+LAFAYETTE FIRE E101, R101, E102
+McMINNVILLE FIRE SQ1 E1 SQ1
+E15,E16, SQ-1
+MCI-1
+SQ1 STA1
+NEWBERG FIRE R21 E20 R21
+E20, E21. R21,
+E202,E212
+STA 20
+R21 WR20
+SHERIDAN FIRE R9 M91 E91 R9
+WEST VALLEY FIRE SQ8 SQ81 R8 R8 STA 81
+YAMHILL FIRE E42 STA4 R4 BR4 E41
+Y C S O 2
+Section 5
+FIELD
+GUIDES
+Yamhill County
+Mass-Casualty Incident Plan
+April, 2013
+Section 5 – Field Guide
+Page - 1
+Are you the first arriving EMS unit?
+|
+|
+|
+ Yes ______________________________ No - Go to page 2
+  |
+  |
+  |
+1.
+Establish Command.
+2. Im
+plement MCI  Plan and relay the following
+In
+formation to dispatch :
+- P
+lan level
+-
+Zone number
+- Exa
+ct location / Landmarks
+- D
+rill ? Not a drill ?  ( Repeat X 2 )
+- Lo
+cation of staging area
+- Main radio frequency
+3. Establish Medical Branch ___________ Go to page 6
+4. Establish Triage Group _____________ Go to page 7
+5. Following triage if patient count is over 50, request additional
+resources accordingly. Consider activating the county EOC
+April, 2013
+Section 5 – Field Guide
+Page - 2
+* * * START HERE   If you are not the first arriving EMS Unit
+FIRST - Look up response assignment
+      Are you responding to the scene?
+      |
+ Yes _________________ ______________ No
+   |        |
+ENROUTE :  ENROUTE :
+       |                                                                    |
+
+/ Contact MCC if established otherwise contact Incident Command
+       |        |
+Proceed to scene      Proceed to Move - up location
+   |      |
+       |            |
+Review MCI Plan                    Review MCI Plan
+   |  |
+   |      |
+Don EMT level identification           Review Move - up area maps
+   |  |
+       |        |
+Contact Med. Branch near scene            ON ARRIVAL
+   |  Contact Dispatch / MCC
+ |  |
+Did you receive an assignment?                     |
+    |      Maintain contact with Dispatch / MCC
+       |
+ No _________________________ Yes
+  |          |
+       |            |
+Proceed to staging  Med. Branch Dir. ___________ Go to page 6
+       |
+On arrival :             Triage Group Lead. __________ Go to page 7
+Contact Operations
+Drop equipment and            Treatment Group Lead. _______ Go to page 8
+personnel as needed.
+Never separate Driver,   Transport Group Lead.  ________ Go to page 9
+vehicle and stretcher.
+    Other________ Report to Med. Branch Dir. or
+      Refer to specific checklist
+April, 2013
+Section 5 – Field Guide
+Page - 3
+Incident Dispatcher
+CHECKLIST
+Function:  Communications
+Objective: To manage the dispatch and radio communications of the Incident.
+You report to:  Dispatch Supervisor
+ Incident Command er
+H
+as the first EMS unit arrived?
+|
+|
+|
+ Yes ______________________________ No - Go to page 2
+  |
+       I
+(  ) Announce Upgrade to MCI.
+  Broadcast should include the following information:
+- P
+lan level
+-
+Zone number
+- Exa
+ct location
+-
+Drill? Not a drill
+- As
+sign Radio Frequency
+(  ) Dispatch additional units to the scene - see Section 6 for Zone
+ Response Assignments
+(  )    Notify C12 or DC1 (MFD) ---Activate MCC?
+(  )  Dispatch units moving up to other locations
+(  )  Record Unit Times
+(  )  Provide Incident Support
+(  )    Upgrade / Downgrade as necessary.
+April, 2013
+Section 5 – Field Guide
+Page - 4
+Incident Dispatcher
+CHECKLIST
+*** Start Here  If the first EMS Unit has not arrived
+Has the first EMS Unit arrived?
+I
+                No - or - Initial call indicates need for MCI
+
+(  )  Dispatch MCI - see Section 6 for Zone Response Assignments
+      Broadcast should include the following information:
+
+ - Plan level
+ - Zone number
+ - Exact location
+ - Drill? Not a drill?
+ - Assign Radio Frequency
+
+(  )  If Plan A - Notify C12 or DC1 - Activate MCC?
+
+(  )  If Plan B or Greater - Activate MCC
+
+(  )  Dispatch units moving up to other locations
+
+(  )  Record Unit Times
+(  )  Provide Incident Support
+(  )  Upgrade / Downgrade as necessary.
+April, 2013
+Section 5 – Field Guide
+Page - 5
+Incident Command
+CHECKLIST
+
+PRIORITIES:
+Life safety
+Incident Stabilization
+Property Conservation
+
+[   ] 1. Arrival.....Give Size Up and Establish Command.
+
+                   Does this involve FIRE?   [   ]
+                                       MEDICAL?   [   ]
+                                       HAZ MAT?   [   ]
+
+[   ] 2. Does IC need to be transferred?
+
+[   ] 3. Immediate needs ASSIGNMENTS / ADDITIONAL RESOURCES.
+
+[   ] 4.Set up Command Post ........ Give location.
+
+[   ] 5. Assign Safety Officer.
+
+[   ] 6. Passport system in operation?
+
+[   ] 7. Secure area.....Traffic / Crowd Control- - - Police.
+
+[   ] 8. Assign Staging Officer / Area.
+
+[   ] 9. Set up Operations Branch........Refer to Tactical Worksheet.
+
+[   ] 10. More delegating needed?
+
+[   ] 11.Staff briefing and begin planning process.
+
+[   ] 12. Finance, Logistics, Planning sectors needed? From here refer to Tactical
+Worksheet.
+
+April, 2013
+Section 5 – Field Guide
+Page - 6
+Medical Branch Director
+
+Function:  Medical Branch
+
+Objective:  To manage the Medical Branch
+
+You report to:  Incident Command
+
+{ }  Make rapid assessment of incident
+{ }  Designate Triage Group Lead.
+{ }  Implement MCI Plan. (Refer to page 1)
+{ }  Don Identification Vest
+{ }  Review entire checklis t and develop a plan of action
+{ }  Establish a Medical Branch
+{ }  Review EMS structure for MCI Plan
+{ }  Designate the following officers if necessary:
+
+ { } Triage (Already done?)
+ { } Treatment
+ { } Staging
+ { } Transport
+ { }  Extrication (Coordinate with Incident Command)
+ { } Resource
+ { } Public Information
+ { } EMS Command Aide
+
+    DON’T HESITATE TO COMBINE SEVERAL OF THE ABOVE POSITIONS
+
+{ }  Distribute vests, ID tags etc.
+{ }  Inform the officers of the following:
+ { } Overall plan of action
+ { } Location of Medical Command post
+ { } Any changes in plan
+ { } All resources assigned by EMS Branch Dir.
+ { } Areas of Medical Operations
+{ }  Inform Treatment Officer of the number of patients
+{ }  Inform Resource Officer of potential needs
+{ }  Coordinate with IC to establish helicopter landing zone
+{ }  Get status reports from all officers every 10 minutes
+{ }  Meet with Public Information Officer
+April, 2013
+Section 5 – Field Guide
+Page - 7
+Triage Group Leader
+
+Function:  Triage Group Leader
+Objective:  To prioritize patients according to severity of injury
+
+You report to:  Medical Branch Director
+
+{ }  Don ID vest
+{ }  Review entire checklist
+{ }  Develop a plan of action for triage of patients
+{ }  Assign additional personnel if needed
+{ }  Triage patients as quickly as possible
+{ }  Inform Med. Branch Director of the number of patients
+
+{ }  Advise Med. Branch Dir. of the security needs of triage area
+{ }  Develop a plan for the movement of patients to treatment
+{ }  Coordinate the movement of patients
+{ }  Advise Med. Branch Dir. if an Extrication Officer is needed
+{ }  Obtain the location of treatment areas
+
+{ }  Supervise the Extrication Group Lead, if one is assigned
+{ }  Assign 1 EMT with 1 Firefighter for movement of patients
+{ }  Inform Med. Branch Dir. of any resource needs
+{ }  Act as Extrication Group Lead. if one is not assigned
+
+April, 2013
+Section 5 – Field Guide
+Page - 8
+Treatment Group Leader
+
+Function:  Treatment Group Leader
+Objective: To coordinate treatment of all patients
+
+You report to:  Medical Branch Director
+
+{ }  Don ID vest
+{ }  Review entire checklist
+{ }  Develop a plan of action for the treatment of patients
+{ }  Advise Med. Branch Dir. of personnel needs
+
+{ }  Obtain MCI kit and establish 3 treatment areas
+{ }  Advise Triage / Extrication of treatment areas
+{ }  Re - triage patients as they enter treatment area
+{ }  Assemble treatment teams and assign to treatment areas
+
+{ } Advise Med. Branch Dir. of security needs of the Treatment area
+{ }  Inform Med. Branch Dir. of potential equipment needs
+{ }  Identify ambulance loading zone with Transport Group
+{ }  Signal Transport Group when patients are ready for transport
+
+April, 2013
+Section 5 – Field Guide
+Page - 9
+Transport Group Leader
+
+Function: Transport Group Leader
+Objective:  To coordinate flow of patients to appropriate medical facilities
+You report to:  Medical Branch Director
+
+{ }  Don ID vest
+{ }  Review entire checklist
+{ } Coordinate with MCC in contacting area hospitals to determine
+the number of critical and non - critical patients they can treat
+ Log this on Hospital/patient tracking log
+{ }  Establish ambulance loading zone, inform:
+ { } Med. Branch Dir.
+ { } Staging
+ { } Treatment
+{ }  Follow the rule of thumb for patient transport, when possible:
+1 critical patient per ambulance, or
+2 non - critical per ambulance
+{ }  Direct loaded ambulances to appropriate hospitals, inform them:
+ { } Transport Group will contact receiving hospital
+ { } Don’t contact hospital unless necessary
+{ }  Log the following info on the Hospital/patient tracking log:
+ { } Patient number (Patient # 1, patient # 2, ETC.)
+ { } Triage tag number
+ { } Time enroute to hospital
+ { } Hospital destination
+ { } Ambulance unit number
+ { } Patient triage level
+ { } Brief description of injuries
+{ }  Inform MCC of the following when ambulance departs:
+ Coordinate the transfer if info to the receiving hospital
+ { } Ambulance destination
+ { } Ambulance number
+ { } Time enroute
+ { } Number and level of patients on board
+ { } Brief description of injuries (if time permits)
+{ }  Keep Staging updated on needs
+{ } Coordinate with MCC the contact of area hospitals when MCI
+terminated.
+April, 2013
+Section 5 – Field Guide
+Page - 10
+Staging Area Manager
+
+Function: Staging Area Manager
+
+Objective:  To stage ambulances
+
+You report to:  Medical Branch Director
+
+{ }  Don ID vest
+{ }  Review entire checklist
+{ }  Establish a staging area which is accessible and easy to ID
+{ }  Coordinate ambulance flow with Transport Group
+{ }  Coordinate equipment needs with Resource Group
+{ }  As ambulances arrive:
+{ } Log in arrival time on ambulance staging log
+{ } ID EMT levels
+{ } Stockpile equipment needs for Resource Officer
+{ } Send supplies and spare EMT’s to Resource.
+{ } Never separate driver, vehicle, and stretcher
+{ } Distribute ID tags if necessary
+{ }  Keep Med. Branch Dir. informed of ambulance status
+
+{ }  If personnel arrive in private vehicles:
+ { } Log in arrival time
+ { } Name
+ { } ID EMT level
+ { } Distribute ID tags
+ { } Inform resource Officer
+
+{ }  Act as Resource Officer if one is not assigned
+
+April, 2013
+Section 5 – Field Guide
+Page - 11
+Extrication Group Leader
+
+Function: Extrication Group Leader
+Objective: Transport victims to treatment areas and gain access as needed.
+
+You report to:  Triage Group Leader
+
+{ }  Don ID vest
+{ }  Review entire checklist
+{ }  Size-up gaining access/disentanglement problems  (if any)
+{ }  Develop a plan to move patients to treatment areas
+{ }  Communicate plan to extrication teams
+{ }  Coordinate with Fire / Rescue gaining access problems
+{ }  Report equipment needs to Extrication Group Leader
+ Trauma - 1 long backboard / patient
+ Trauma - 1 C - collar / patient
+ Trauma - 1 set head immobilizers
+ Medical - 1 flat stretcher / patient
+{ }  Report personnel needs to Extrication Group Leader
+{ }  Extrication teams should be made up of the following:
+ 1 - Firefighter or rescue worker
+ 1 - First Responder or EMT
+{ }  Coordinate patient movement plan with Triage Group
+{ }  Obtain treatment area locations from Triage Group
+{ } After all patients have been removed, send personnel to resource
+area.
+
+April, 2013
+Section 5 – Field Guide
+Page - 12
+EMS Resource Group Leader
+
+Function: Resource Group Leader
+
+Objective:  Stockpile equipment and manpower
+
+You report to:  Med. Branch Dir.
+
+{ }  Don ID vest
+{ }  Review entire checklist
+{ }  Establish a resource staging area for:
+ 1.  EMS personnel
+ 2.  EMS equipment
+ 3.  Rehab for fire and EMS personnel
+
+{ }  Categorize personnel according to skills / EMT level ETC.
+{ }  Distribute EMT ID if needed
+{ }  Attempt to mark or tag equipment before use
+{ }  Inform Med. Branch Dir. of any needs
+
+April, 2013
+Section 5 – Field Guide
+Page - 13
+
+              Incident Command Tactical Worksheet
+DIVISION  ASSIGNMENTS UNITS
+ASSIGNED CHECK LIST
+[   ]  Command Post Set-up
+[   ]  Situation Status
+[   ]  Transfer Of Command
+[   ]  Aide For Command
+[   ]  Offensive Strategy
+[   ]  Defensive Strategy
+[   ]  Sectorize W/Assignment
+[   ]  Additional Alarms
+[   ]  Level II Staging
+[   ]  Progress Reports
+[   ]  Red Cross/Chaplain
+[   ]  Review and Revise Plan
+[   ]  Recall Box Alarm
+[   ]  Return App. To Service
+[   ]  Terminate Command
+[   ]  Primary Search
+[   ]  All Clear
+[   ]  Secondary Search
+[   ]  Pt. Triage and Treatment
+[   ]  Pt. Transportation
+[   ]  Medical Operations
+[   ]  Attack and Backup Lines
+[   ]  Water Supply
+[   ]  Attic and Concealed Spc.
+[   ]  Exposure and Extent
+[   ]  Ventilation
+[   ]  Utilities Shut Off
+[   ]  Salvage
+[   ]  Lights and Air
+1st [   ]  Re-hab Rotation
+Alarm [   ]  Public Information
+2nd [   ]  Investigator
+Alarm [   ]  Police Crowd / Traffic
+3rd [   ]  Overhaul
+Alarm [   ]  Photographer
+Rescue / Medical Check List
+Fire Incident Check List
+Responding Apparatus
+
+Section 6
+ZONE
+RESPONSE
+ASSIGNMENTS
+
+Yamhill County
+Mass-Casualty Incident Plan
+
+April, 2013
+Section 6 – Zone Response Assignments
+Page - 1
+ZONE 1 McMinnville – North (North Mac)
+EMS DISTRICT McMinnville
+PLAN MEDIC  UNIT RESCUE AIR SPECIAL AGENCIES
+A
+5 - 10
+McMinnville – 3
+Newberg - 2
+Closest
+HEMS X 1
+Standby
+McMinnville
+Engine &
+Squad
+McMinnville
+Newberg
+B
+11 - 20
+Newberg – 1
+Sheridan – 1
+West Valley – 1
+Metro West - 2
+Carlton Closest
+HEMS X 2
+Lafayette Eng.
+MCI 1
+Sheridan
+West Valley
+Carlton / Lafayette
+Metro West
+C
+21 – 30
+Dallas – 1
+Salem - 1
+Metro West – 2
+Polk Co. – 1
+Dundee
+
+Closest
+HEMS X 3
+Dayton Engine
+MCI 2
+Dundee / Dayton
+Dallas / Salem
+Metro West
+Polk Co.
+D
+31 - 40
+Marion Co.
+Strike Team
+Dayton
+
+Closest
+HEMS X 4 Carlton Engine
+Marion Co.
+Dayton
+Carlton
+E
+41 - 50
+Linn Benton
+Strike Team Newberg Closest
+HEMS X 5 Yamhill Engine
+Newberg
+Yamhill
+Linn Co.
+
+MOVE – UP ASSIGNMENTS
+PLAN EAST CENTRAL WEST OTHER
+A
+1 – Sheridan Amb.
+1 – West Valley Amb.
+To Station 1
+B
+1 – Metro W. Amb
+1 – St. Paul Amb.
+To Station 20
+1 – Sheridan Amb.
+1 – Salem Amb.
+To Station 1
+1 - Dallas
+Ambulance
+To Station 9
+Alert  Air Link
+C
+Dayton Rescue
+To Station 10  Alert  Airlift  NW
+D
+Forest Grove
+Rescue
+To Station 4
+
+Alert
+Coast
+Guard
+E
+Amity Rescue
+To Station 1
+
+April, 2013
+Section 6 – Zone Response Assignments
+Page - 2
+ZONE 1 McMinnville – South (South Mac)
+EMS DISTRICT McMinnville
+PLAN MEDIC  UNIT RESCUE AIR SPECIAL AGENCIES
+A
+5 - 10
+McMinnville – 3
+Newberg – 1
+Sheridan - 1
+Dayton
+Closest
+HEMS X 1
+Standby
+McMinnville
+Eng. & Squad
+
+McMinnville
+Newberg
+Sheridan
+Dayton
+B
+11 - 20
+Sheridan – 1
+West Valley – 2
+Newberg – 2
+
+Amity
+
+Closest
+HEMS X 2
+Dayton
+Engine
+MCI-1
+Sheridan
+West Valley
+Newberg – Amity
+Dayton
+C
+21 – 30
+Dallas – 1
+Metro West – 1
+Polk Co. – 1
+Salem - 1
+Lafayette
+Carlton
+Closest
+HEMS X 3
+Sheridan
+MCI-9
+Amity / Carlton
+Lafayette / Salem
+Polk Co.
+D
+31 - 40
+Marion Co.
+Strike Team Dundee Closest
+HEMS X 4
+Lafayette
+Engine
+Dundee
+Lafayette
+Marion Co.
+E
+41 - 50
+Linn Benton
+Strike Team Sheridan Closest
+HEMS X 5
+West Valley
+Engine
+Linn Co.
+Sheridan
+West Valley
+
+MOVE – UP ASSIGNMENTS
+PLAN EAST CENTRAL WEST OTHER
+A
+1 – Sheridan Amb.
+1 – Newberg Amb.
+To Station 1
+B
+1 – Metro W. Amb
+1 – St. Paul Amb.
+To Station 20
+1 – Metro West
+1 – Salem Amb.
+To Station 1
+1 - Dallas
+Ambulance
+To Station 9
+Alert  Air Link
+C
+1 – Salem And
+1 – Metro W.
+Amb. To Station 1
+ Alert  Airlift  NW
+D   Alert Coast Guard
+E
+Yamhill Res. To St. 1
+Gaston Res. To St. 4
+
+April, 2013
+Section 6 – Zone Response Assignments
+Page - 3
+ZONE 2 Newberg
+EMS DISTRICT Newberg
+PLAN MEDIC  UNIT RESCUE AIR SPECIAL AGENCIES
+A
+5 - 10
+Newberg – 3
+McMinnville – 1
+St. Paul - 1
+Newberg
+Dundee
+Closest
+HEMS X 1
+Newberg
+Engine
+Newberg
+Dundee
+McMinnville
+St. Paul
+B
+11 - 20
+McMinnville – 2
+Metro West – 2
+AMR - 1
+TVF&R Closest
+HEMS X 2
+Dundee
+Engine
+McMinnville
+Metro West
+AMR
+Dundee
+C
+21 – 30
+North Marion
+Strike Team
+Dayton
+Lafayette
+Closest
+HEMS X 3
+Yamhill
+Engine
+Woodburn
+Dayton
+Yamhill
+Lafayette
+D
+31 - 40
+Marion Co.
+Strike Team Yamhill Closest
+HEMS X 4
+Dayton
+Engine
+AMR
+Yamhill
+Dayton
+E
+41 - 50
+Washington Co.
+Strike Team
+McMinnville
+TVF&R
+Closest
+HEMS X 5
+Carlton
+Engine
+Marion Co.
+McMinnville
+Wash. Co.
+Carlton
+
+MOVE – UP ASSIGNMENTS
+PLAN EAST CENTRAL WEST OTHER
+A
+1 – McMinnville
+Ambulance
+To Station 20
+1 – Sheridan
+Ambulance
+To Station 1
+
+B
+1 – Sheridan
+Ambulance
+To Station 20
+1 – West Valley +
+1 – Sheridan
+Amb. To Station 1
+1 – Dallas
+Ambulance
+To Station 9
+Alert Air Link
+C
+1 – West Valley
+Ambulance
+To Station 20
+1-Salem Amb.To St. 1
+McMinn. Rescue
+To Station 10
+ Alert Airlift NW
+D
+Gaston Rescue
+To Station 4  Alert
+Coast Guard
+E
+
+April, 2013
+Section 6 – Zone Response Assignments
+Page - 4
+ZONE 3 Dundee
+EMS DISTRICT Newberg
+PLAN MEDIC  UNIT RESCUE AIR SPECIAL AGENCIES
+A
+5 - 10
+Newberg – 3
+McMinnville – 1
+St. Paul 1
+Newberg
+Dundee
+
+Closest
+HEMS X 1
+Newberg Eng.
+Dundee Eng.
+Newberg
+McMinnville
+St. Paul
+Dundee
+B
+11 - 20
+McMinnville – 2
+West Valley – 1
+Sheridan – 1
+Metro West - 1
+Dayton Closest
+HEMS X 2
+Dayton
+Engine
+MCI -1
+West Valley
+Metro West
+Dayton
+Sheridan
+C
+21 – 30
+North Marion
+Strike Team Carlton Closest
+HEMS X 3
+Lafayette
+Engine
+Woodburn
+Carlton
+Lafayette
+D
+31 - 40
+Marion Co.
+Strike Team
+McMinnville
+TVF&R
+
+Closest
+HEMS X 4
+Yamhill
+Engine
+AMR
+McMinnville
+Yamhill
+Wash. Co.
+E
+41 - 50
+Washington Co.
+Strike Team
+Lafayette
+Yamhill
+Closest
+HEMS X 5
+McMinnville
+Engine
+Marion Co.
+Lafayette
+Yamhill
+McMinnville
+
+MOVE – UP ASSIGNMENTS
+PLAN EAST CENTRAL WEST OTHER
+A
+1 – McMinn. Amb.
+1 – Metro We. Amb.
+To Station 20
+1 – Sheridan
+Ambulance
+To Station 1
+
+B
+1 – Metro We. Amb.
+1 – TVF&R Rescue
+To Station 20
+Sheridan Amb. To St. 1
+MW. Amb. To St. 4
+1 – Dallas
+Ambulance
+To Station 9
+Alert Air Link
+C   Alert Airlift NW
+D
+1 – Pacific West
+Ambulance
+To Station 8
+Alert
+Coast Guard
+E
+Gaston Rescue
+To Station 4
+
+April, 2013
+Section 6 – Zone Response Assignments
+Page - 5
+ZONE 4 Yamhill – North East
+EMS DISTRICT McMinnville
+PLAN MEDIC  UNIT RESCUE AIR SPECIAL AGENCIES
+A
+5 - 10
+McMinnville – 2
+Newberg – 3
+Yamhill
+Gaston
+Closest
+HEMS X 1
+Standby
+Yamhill Engine
+Gaston Engine
+McMinnville
+Newberg
+Yamhill
+B
+11 - 20
+McMinnville -1
+Metro West -2
+Sheridan - 1
+Newberg
+Carlton
+Closest
+HEMS X 2
+Newberg
+Engine
+McMinnville
+Squad
+Sheridan
+West Valley
+Newberg
+Lafayette / Carlton
+C
+21 – 30
+AMR
+Strike Team
+Lafayette
+Dundee
+Closest
+HEMS X 3
+Forest Grove
+Engine
+Dundee
+Engine
+AMR
+Lafayette
+Dundee
+.
+D
+31 - 40
+Marion Co.
+Strike Team Dayton  Closest
+HEMS X 4
+Newberg
+Engine
+Marion Co.
+Dayton
+Newberg
+E
+41 - 50
+Linn Benton
+Strike Team
+Sheridan
+Amity
+Closest
+HEMS X 5
+Dayton
+Engine
+Dayton
+Sheridan
+Amity
+
+MOVE – UP ASSIGNMENTS
+PLAN EAST CENTRAL WEST OTHER
+A
+1 – Sheridan Amb.
+To Station 1
+B
+1 – Metro W. Amb
+1 – St. Paul Amb.
+To Station 20
+1 – West Valley Amb.
+To Station 1  Alert Air Link
+C
+Dayton Rescue
+To Station 10  Alert  Airlift  NW
+D
+Forest Grove
+Rescue
+To Station 4
+
+Alert
+Coast
+Guard
+E
+
+April, 2013
+Section 6 – Zone Response Assignments
+Page - 6
+ZONE 4 Yamhill
+EMS DISTRICT McMinnville
+PLAN MEDIC  UNIT RESCUE AIR SPECIAL AGENCIES
+A
+5 - 10
+McMinnville – 3
+Newberg – 2
+Yamhill
+Carlton
+Closest
+HEMS X 1
+Standby
+Yamhill Engine
+Carlton
+Engine
+McMinnville
+Newberg
+Yamhill
+Carlton
+B
+11 - 20
+Newberg – 1
+Metro West - 2
+Sheridan – 1
+McMinnville
+Gaston
+Closest
+HEMS X 2
+McMinnville
+Engine
+And Squad
+MCI-1
+
+Newberg, McMinn.
+Wash. Co
+Sheridan
+C
+21 – 30
+AMR
+Strike Team
+Lafayette
+Dundee
+Closest
+HEMS X 3
+Gaston
+Engine
+Dundee
+Engine
+AMR, Gaston
+Lafayette, Dundee
+D
+31 - 40
+Marion Co.
+Strike Team
+
+Dayton
+
+Closest
+HEMS X 4
+
+Newberg
+Engine
+MCI-2
+Marion Co. Co.
+Dayton
+Newberg
+E
+41 - 50
+Linn Benton
+Strike Team
+Sheridan
+Amity
+Closest
+HEMS X 5
+
+Dayton
+Engine
+
+Dayton
+Sheridan
+Amity
+
+MOVE – UP ASSIGNMENTS
+PLAN EAST CENTRAL WEST OTHER
+A
+1 – Newberg Amb.
+To Station 1
+B
+1 – Metro W. Amb
+1 – St. Paul Amb.
+To Station 20
+1 – Newberg
+Ambulance
+To Station 1
+Pacific West
+Ambulance
+To Station 8
+Alert Air Link
+C
+Gaston Res. To St. 4
+Dundee Rescue
+To Station 10
+ Alert  Airlift  NW
+D   Alert Coast Guard
+E
+
+April, 2013
+Section 6 – Zone Response Assignments
+Page - 7
+ZONE 5 Amity - North
+EMS DISTRICT McMinnville
+PLAN MEDIC  UNIT RESCUE AIR SPECIAL AGENCIES
+A
+5 - 10
+McMinnville – 3
+Sheridan - 1
+Newberg – 1
+Amity-Perrydale
+Dayton
+Closest
+HEMS X 1
+Standby
+
+Dayton
+Engine
+Amity Engine
+McMinnville
+Dayton, Amity
+Sheridan
+Newberg
+B
+11 - 20
+West Valley – 2
+Newberg – 1
+Dallas - 2
+McMinnville
+Lafayette
+Closest
+HEMS X 2
+
+McMinnville
+Engine
+MCI-1
+McMinnville
+West Valley
+Lafayette, Newberg
+Dallas
+C
+21 – 30
+Salem – 1
+Sheridan – 1
+Polk Co. – 1
+Salem - 1
+Dundee
+Sheridan
+Closest
+HEMS X 3
+Sheridan
+Engine
+MCI-9
+Dundee
+Sheridan, Dallas
+Polk Co., Salem
+D
+31 - 40
+Marion Co.
+Strike Team
+
+Carlton
+Dallas
+
+Closest
+HEMS X 4
+
+West Valley
+Engine
+
+Carlton
+West Valley
+Dallas
+Marion Co.
+E
+41 - 50
+Linn - Benton
+Strike Team Yamhill Closest
+HEMS X 5
+
+Dundee
+Engine
+
+Yamhill
+Dundee
+Linn Co.
+
+MOVE – UP ASSIGNMENTS
+PLAN EAST CENTRAL WEST OTHER
+A
+1 – Newberg Amb.
+To Station 1
+B
+1 – Metro West Amb.
+1 – Sheridan Amb.
+To Station 1
+ Alert Air Link
+C
+1 – Metro W. Amb
+1 – St. Paul Amb.
+To Station 20
+1 – Metro West
+ To Station 1
+1 – Pac. West
+Ambulance
+To Station 9
+Alert  Airlift  NW
+D    Alert Coast Guard
+E
+Yam. Resc. To St. 10
+Gaston Rescue
+To Station 4
+
+April, 2013
+Section 6 – Zone Response Assignments
+Page - 8
+ZONE 5 Amity South
+EMS DISTRICT McMinnville
+PLAN MEDIC  UNIT RESCUE AIR SPECIAL AGENCIES
+A
+5 - 10
+McMinnville - 2
+Sheridan - 1
+Dallas - 1
+West Valley - 1
+      Dayton
+Salem Eng.
+Closest
+HEMS X 1
+Standby
+
+Dayton
+Engine
+Squad 1
+
+McMinnville
+Sheridan
+West Valley
+Dayton
+Dallas
+Salem
+B
+11 - 20
+McMinnville - 1
+Newberg - 1
+Salem - 2
+Dallas - 1
+
+McMinnville
+Amity
+
+Closest
+HEMS X 2
+Engine From
+McMinnville &
+Spring Valley
+MCI-9
+McMinnville
+Spring Valley
+Newberg
+Sheridan
+Amity, Salem
+C
+21 – 30
+Newberg – 1
+Sheridan – 1
+Salem – 1
+West Valley – 1
+Polk Co. - 1
+Lafayette
+Carlton
+Polk
+Closest
+HEMS X 3
+SW Polk
+Engine
+MCI-1
+Newberg
+Lafayette, Carlton
+Sheridan, Salem
+Polk
+D
+31 - 40
+Marion Co.
+Strike Team
+
+Dundee
+Carlton
+
+Closest
+HEMS X 4
+
+Salem
+Engine
+
+Dundee
+Sheridan
+        Marion Co.
+E
+41 - 50
+Linn - Benton
+Strike Team Newberg Closest
+HEMS X 5
+
+Dundee
+Engine
+
+Newberg
+Salem
+Linn Co.
+
+MOVE – UP ASSIGNMENTS
+PLAN EAST CENTRAL WEST OTHER
+A
+1 – Newberg Amb.
+To Station 1
+B
+1 – Sheridan Amb.
+To Sta. 1
+1 – West Valley Amb.
+To Sta. 9 Alert Air Link
+C
+1 – West Valley Amb.
+To Sta. 1
+
+1 – West Valley Amb.
+To Sta. 9
+
+Alert Airlift NW
+D
+1- Metro West Amb.
+1-St. Paul Amb.
+To Sta. 20
+Gaston R-11
+To Sta. 4
+1—Pac. West Amb.
+To Sta. 8 Alert Coast Guard
+E
+Yamhill  R-4
+To St. 10
+
+April, 2013
+Section 6 – Zone Response Assignments
+Page - 9
+ZONE 6 Dayton – North (Fairview North)
+EMS DISTRICT McMinnville
+PLAN MEDIC  UNIT RESCUE AIR SPECIAL AGENCIES
+A
+5 - 10
+McMinnville – 3
+Newberg – 1
+Sheridan - 1
+Amity
+Dayton
+Closest
+HEMS X 1
+Standby
+Dayton  Engine
+McMinnville
+Squad
+Lafayette Eng
+McMinnville
+Dayton, Amity
+Sheridan
+Newberg/ Lafayette
+B
+11 - 20
+Sheridan – 1
+West Valley – 1
+Newberg – 2
+McMinnville
+Dundee
+Closest
+HEMS X 2
+
+McMinnville
+Engine
+
+Newberg, Dundee
+West Valley
+McMinnville
+Sheridan
+C
+21 – 30
+Dallas – 1
+Polk Co. – 1
+Salem - 2
+Lafayette Closest
+HEMS X 3
+Dundee
+Engine
+Salem
+Dallas
+Lafayette
+Dundee
+D
+31 - 40
+Linn-Benton
+Strike Team
+
+Carlton
+
+Closest
+HEMS X 4
+
+Sheridan
+Engine
+
+Linn Co.
+Sheridan
+Carlton
+E
+41 - 50
+AMR
+Strike Team
+Yamhill
+Sheridan
+Closest
+HEMS X 5
+West Valley
+Engine
+
+West Valley
+Sheridan
+Yamhill
+AMR
+
+MOVE – UP ASSIGNMENTS
+PLAN EAST CENTRAL WEST OTHER
+A
+1 – West Valley And
+1 – Newberg Amb.
+To Station 1
+B
+1 – Metro W. Amb
+1 – St. Paul Amb.
+To Station 20
+1 – Metro West
+Ambulance
+To Station 1
+1 – Pac. West
+Ambulance
+To Station 9
+Alert Air Link
+C
+Yamhill
+Rescue
+ To Station 1
+ Alert  Airlift  NW
+D
+Gaston
+Rescue
+To Station 10
+ Alert Coast Guard
+E
+
+April, 2013
+Section 6 – Zone Response Assignments
+Page - 10
+ZONE 6 Dayton - South
+EMS DISTRICT McMinnville
+PLAN MEDIC  UNIT RESCUE AIR SPECIAL AGENCIES
+A
+5 - 10
+McMinnville – 3
+Salem – 1
+Sheridan - 1
+Amity
+Dayton
+Closest
+HEMS X 1
+Standby
+
+Dayton
+Engine
+Amity Engine
+McMinnville
+Dayton, Amity
+Sheridan
+Dallas
+B
+11 - 20
+Newberg – 2
+West Valley – 1
+Salem – 1
+Dallas - 2
+McMinnville
+Spring
+Valley
+Closest
+HEMS X 2
+
+McMinnville
+Engine
+Salem Engine
+Newberg
+McMinnville
+West Valley
+Salem, Dallas
+C
+21 – 30
+Newberg – 1
+Sheridan – 1
+Polk Co. – 1
+Salem - 1
+Lafayette
+Dallas
+Closest
+HEMS X 3
+Sheridan
+Engine
+Newberg, Lafayette
+West Valley
+Sheridan, Dallas
+Polk Co., Salem
+D
+31 - 40
+Marion Co.
+Strike Team
+Dundee
+Sheridan
+
+Closest
+HEMS X 4
+
+West Valley
+Engine
+
+Dundee
+Sheridan
+West Valley
+Marion Co.
+E
+41 - 50
+Linn - Benton
+Strike Team Carlton Closest
+HEMS X 5
+
+Dundee
+Engine
+
+Dundee
+Carlton
+Linn Co.
+
+MOVE – UP ASSIGNMENTS
+PLAN EAST CENTRAL WEST OTHER
+A
+1 – Newberg Amb.
+To Station 1
+B
+1 – Metro West Amb.
+1 – Sheridan Amb.
+To Station 1
+ Alert Air Link
+C
+1 – Metro W. Amb
+1 – St. Paul Amb.
+To Station 20
+1 – Metro West
+ To Station 1
+1 – Pac. West
+Ambulance
+To Station 9
+Alert  Airlift  NW
+D    Alert Coast Guard
+E
+Yam. Resc. To St. 10
+Gaston Rescue
+To Station 4
+
+April, 2013
+Section 6 – Zone Response Assignments
+Page - 11
+ZONE 7 Carlton
+EMS DISTRICT McMinnville
+PLAN MEDIC  UNIT RESCUE AIR SPECIAL AGENCIES
+A
+5 - 10
+McMinnville – 3
+Newberg - 2
+Carlton
+Yamhill
+Closest
+HEMS X 1
+Standby
+Carlton Engine
+Lafayette
+Engine
+McMinnville
+Newberg
+Yamhill / Carlton
+Lafayette
+B
+11 - 20
+Sheridan – 1
+West Valley – 1
+Newberg – 1
+Metro West - 2
+Lafayette Closest
+HEMS X 2
+McMinnville
+Engine
+And Squad
+Yamhill Engine
+Sheridan
+West Valley
+Newberg
+Lafayette
+C
+21 – 30
+AMR
+Strike Team Dundee Closest
+HEMS X 3
+Dayton Engine
+Gaston Engine
+TVF&R
+Engine
+AMR
+Dundee
+Wash. Co.
+D
+31 - 40
+Marion Co.
+Strike Team
+Dayton
+
+Closest
+HEMS X 4
+
+Dundee
+Engine
+
+Marion Co.
+Dayton
+Dundee
+E
+41 - 50
+Linn Benton
+Strike Team Newberg Closest
+HEMS X 5
+Dayton
+Engine
+Newberg
+Engine
+Linn Co.
+Newberg
+Dayton
+
+MOVE – UP ASSIGNMENTS
+PLAN EAST CENTRAL WEST OTHER
+A
+1 – Sheridan Amb.
+1 – West Valley Amb.
+To Station 1
+B
+1 – Metro W. Amb
+1 – St. Paul Amb.
+To Station 20
+1 – Sheridan Amb.
+1 – Salem Amb.
+To Station 1
+1 - Dallas
+Ambulance
+To Station 9
+Alert Air Link
+C
+Dayton Rescue
+To Station 10  Alert  Airlift  NW
+D
+Forest Grove
+Rescue
+To Station 4
+
+Alert
+Coast
+Guard
+E
+Amity Rescue
+To Station 1
+
+April, 2013
+Section 6 – Zone Response Assignments
+Page - 12
+ZONE 8 West Valley
+EMS DISTRICT West Valley
+PLAN MEDIC  UNIT RESCUE AIR SPECIAL AGENCIES
+A
+5 - 10
+West Valley – 2
+Sheridan - 2
+McMinnville - 1
+West Valley
+Sheridan
+Closest
+HEMS X 1
+Standby
+2 – Sheridan
+Engines
+West Valley
+Sheridan
+McMinnville
+B
+11 - 20
+McMinnville – 2
+Newberg – 1
+Pac West – 1
+Tillamook - 1
+McMinnville
+Nestucca
+Closest
+HEMS X 2
+Sheridan
+Engine
+Nestucca
+Engine
+McMinn., Sheridan
+Newberg, Pac W.
+Nestucca
+Tillamook
+C
+21 – 30
+Dallas – 2
+Pac West – 1
+Tillamook - 2
+Dayton
+Dallas
+Closest
+HEMS X 3
+McMinn. Engine
+McMinn. Squad
+MCI - 1
+Dallas, Dayton
+Pac West
+Tillamook
+McMinnville
+D
+31 - 40
+Marion Co.
+Strike Team
+Amity
+
+Closest
+HEMS X 4
+Amity
+Engine
+Amity
+Marion Co.
+E
+41 - 50
+Linn – Benton
+Strike Team Dundee Closest
+HEMS X 5
+Dundee
+Engine
+Dundee
+Linn Co.
+
+MOVE – UP ASSIGNMENTS
+PLAN EAST CENTRAL WEST OTHER
+A
+1 – Newberg
+Ambulance
+To Station 1
+McMinn. Amb. – St. 8
+McMinn. Amb. – St. 9
+B
+1 – St. Paul Amb.
+1 – Metro West Amb.
+To Station20
+Newb. Amb. – St. 1
+MW Amb. – St. 4
+Carl. Resc. – St. 1
+Newberg Amb. – St. 8
+Salem Amb.
+To Station 9
+Alert Air Link
+C   Alert Airlift NW
+D   Alert Coast Guard
+E
+
+April, 2013
+Section 6 – Zone Response Assignments
+Page - 13
+ZONE 9 Sheridan
+EMS DISTRICT Sheridan
+PLAN MEDIC  UNIT RESCUE AIR SPECIAL AGENCIES
+A
+5 - 10
+Sheridan – 2
+West Valley – 2
+Dallas - 1
+West Valley
+Rescue And
+Engine
+Closest
+HEMS X 1
+Sheridan
+Engine
+Sheridan
+McMinnville
+West Valley
+Polk Co.
+B
+11 - 20
+Dallas – 2
+McMinnville – 3
+Polk Co. - 1
+McMinnville Closest
+HEMS X 2
+Sheridan
+Engine
+MCI-9
+SQ-9
+McMinnville
+Sheridan
+Polk Co.
+C
+21 – 30
+Newberg – 2
+Polk Co. - 2 Dallas Closest
+HEMS X 3
+McMinnville
+Engine and
+Squad, EMS
+Chief
+Newberg
+McMinnville
+Polk Co.
+D
+31 - 40
+Marion Co.
+Strike Team Dallas Closest
+HEMS X 4
+Salem FD EMS
+Chief
+Amity
+Marion Co.
+E
+41 - 50
+Linn – Benton
+Strike Team Salem FD Closest
+HEMS X 5
+Albany or
+Corvallis FD
+EMS Chief
+Linn-Benton Co.
+Salem FD
+
+MOVE – UP ASSIGNMENTS
+PLAN EAST CENTRAL WEST OTHER
+A
+McMinn. Amb. – St. 9
+1 – Pac. West Amb.
+To Station 8
+Mac MCI Trailer 1 to
+Station 9
+B
+1 – Metro West
+Ambulance
+To Station 20
+1 – New. Amb. - St. 1
+1 – Metro W. Amb.
+To Station 4
+1 – Newberg
+Ambulance
+To Station 9
+
+Alert Reach & Air Link
+
+C
+1 – St. Paul Amb.
+1 – AMR Amb.
+To Station 20
+2 – Metro West
+Ambulances
+To Station 1
+1 – Polk Co.
+Ambulance
+To Station 9
+Alert National Guard
+McNary Filed
+D
+Alert
+Coast
+             Guard
+E
+
+April, 2013
+Section 6 – Zone Response Assignments
+Page - 14
+ZONE 10 Lafayette
+EMS DISTRICT McMinnville
+
+MOVE – UP ASSIGNMENTS
+PLAN EAST CENTRAL WEST OTHER
+A
+1 – Sheridan Amb.
+1 – Newberg Amb.
+To Station 1
+
+B
+1 – Metro W. Amb
+1 – St. Paul Amb.
+To Station 20
+1 – Metro West
+1 – Salem Amb.
+To Station 1
+1 - Dallas
+Ambulance
+To Station 9
+Alert Air Link
+C
+1 – Salem And
+1 – Metro W.
+Amb. To Station 1
+ Alert  Airlift  NW
+D    Alert Coast Guard
+E   Yamhill Res. To St. 1
+Gaston Res. To St. 4
+
+PLAN MEDIC  UNIT RESCUE AIR SPECIAL AGENCIES
+A
+5 - 10
+McMinnville – 3
+Newberg – 1
+Sheridan - 1
+Dayton
+Closest
+HEMS X 1
+Standby
+Dayton
+Engine
+McMinnville
+Squad
+McMinnville
+Newberg
+Sheridan
+Dayton
+B
+11 - 20
+Sheridan – 1
+West Valley – 1
+Newberg – 2
+
+Lafayette Closest
+HEMS X 2
+McMinnville
+Engine
+Carlton Engine
+Sheridan
+West Valley
+Newberg
+Carlton / Lafayette
+C
+21 – 30
+Dallas – 1
+Metro West – 1
+Polk Co. – 1
+Salem - 1
+Dundee Closest
+HEMS X 3
+Dundee
+Engine
+Dundee
+Salem 911
+D
+31 - 40
+Marion Co.
+Strike Team
+Amity
+
+Closest
+HEMS X 4
+
+Sheridan And
+Amity Engine
+
+Amity
+Sheridan
+Marion Co
+E
+41 - 50
+Linn Benton
+Strike Team Sheridan Closest
+HEMS X 5
+Yamhill
+Engine
+Gaston Engine
+
+Linn Co.
+Sheridan
+Yamhill
+April, 2013
+Section 6 – Zone Response Assignments
+Page - 15
+ZONE 11 Gaston
+EMS DISTRICT McMinnville
+PLAN MEDIC  UNIT RESCUE AIR SPECIAL AGENCIES
+A
+5 - 10
+Metro West - 2
+McMinnville - 2
+Newberg - 1
+Gaston
+Yamhill
+Closest
+HEMS X 1
+Standby
+Yamhill Engine
+Carlton
+Engine
+McMinnville
+Newberg
+Yamhill / Carlton
+Wash. Co.
+B
+11 - 20
+Metro West – 1
+Newberg - 2
+McMinnville - 1
+Carlton Closest
+HEMS X 2
+
+McMinnville
+Engine
+And Squad
+
+Newberg, McMinn.
+Carlton
+
+C
+21 – 30
+AMR
+Strike Team
+Lafayette
+Dundee
+Closest
+HEMS X 3
+Gaston
+Engine
+Dundee
+Engine
+AMR, Gaston
+Lafayette, Dundee
+Coast Guard
+D
+31 - 40
+Marion Co.
+Strike Team
+
+Dayton
+
+Closest
+HEMS X 4
+
+Newberg
+Engine
+Marion Co. Co.
+Dayton
+Newberg
+E
+41 - 50
+Linn Benton
+Strike Team
+Sheridan
+Amity
+Closest
+HEMS X 5
+
+Dayton
+Engine
+
+Sheridan
+Amity
+
+MOVE – UP ASSIGNMENTS
+PLAN EAST CENTRAL WEST OTHER
+A
+B
+1 – Metro W. Amb
+1 – St. Paul Amb.
+To Station 20
+1 – Sheridan
+Ambulance
+To Station 1
+Pacific West
+Ambulance
+To Station 8
+Alert Air Link
+C    Alert  Airlift  NW
+D    Alert Coast Guard
+E
+
+Section 7
+ZONE
+MAPS
+Yamhill County
+Mass-Casualty Incident Plan
+
+Section 8
+POST-INCIDENT
+ANALYSIS
+Yamhill County
+Mass-Casualty Incident Plan
+April, 2013
+Section 8 – Post-Incident Analysis
+Page - 1
+Post-Incident Analysis
+
+Purpose
+
+To look for success, and to insure that mass casualty incidents are investigated
+and critiqued so that changes, if needed, in response, training, communications,
+and planning can be made.  The goal is to use an incident as a training / learning
+tool to improve future incident response.  The Incident Commander and Medical
+Branch Director shall insure that the incident is analyzed and critiqued.  This
+analysis is not to be confused with, or held in conjunction with a Critical Incident
+Stress Debriefing.
+
+Timing
+
+The post-incident analysis should be conducted in a convenient location within two
+(2) weeks following the incident.  Timely notification should be given to all agencies
+who participated in the incident.
+
+Report
+
+After the post-incident analysis, a typed, objective case study should be submitted
+to the host community and to the ATAB 1 and/or 2 MCI Committee.
+It will include a minimum of:
+
+1. Sources used, avoiding individual names.
+
+2. Successes found.
+
+3. Constructive criticisms and recommended solutions to problems in:
+
+ Training
+ Prehospital Response
+ Incident Communication
+ Hospital Response
+ Planning
+
+4. A chronological listing of incident events.
+
+MCI  PLAN
+
+MCI  PLAN
+
+MCI  PLAN
+
+APPENDIX M

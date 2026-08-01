@@ -1,0 +1,452 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord805-pdf
+title: 'ORD805-PDF'
+doc_type: ordinance
+citation: 'ORD805-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17416/ORD805-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 125b541ae46ab3d7ea3c39bd93826ee9970e1c3af589d7e86a44cc8a0971876d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.983; figure agreement 0.622; dictionary ratio 0.954. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD805-PDF (ORD805-PDF)
+
+## At a glance
+
+OCR-derived text of ORD805-PDF. Not human-verified.
+
+## Full text
+
+BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                                   FOR THE COUNTY OF YAMHILL
+
+                    SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In The Matter Of Approval of a Comprehensive Plan amendment            )
+from Agriculture/Forestry Smal] Holding to Commercial;                 )
+a zone change from AF-10 Agriculture/Forestry Small Holding            —)     Ordinance 805
+to HC Highway Commercial, Tax Lot 3325-600, Docket                     )
+PAZ-06-04, Applicant Willie Owens.                                     ,)
+
+           THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the “Board”)
+sat for the transaction of county business on March 21, 2007, Commissioners Kathy George, Leslie
+Lewis, and Mary P. Stern being present.
+
+           IT   APPEARING      TO    THE     BOARD    that Willie   Owens   requested   approval   of a
+Comprehensive Plan amendment from Agriculture/Forestry Small Holding to Commercial; a zone
+change from AF-10 Agriculture/Forestry Small Holding to HC Highway Commercial.
+
+          IT APPEARING TO THE BOARD that the matter was heard and approved 5 to 4 by the
+Planning Commission at a duly noticed public hearing on November 3, 2005. A public hearing was
+held before the Board on March 7, 2007. After hearing testimony from the applicant (these being no
+opponents) the Board voted 2 to 1 (Commissioner Stern voting no) to approve the application.
+NOW, THEREFORE,
+
+             IT IS HEREBY ORDAINED BY THE BOARD, that the application is approved as
+detailed in the Findings for Approval, attached as Exhibit “A” and by this reference incorporated
+herein.
+
+           DONE this 21* day of March, 2007, at McMinnville, Oregon.
+
+ATTEST:                                    YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+JAN COLEMAN
+
+By:(Ornne/               if                    E
+Deputy Anne Britt             ee           G fp issioner    \          MARY    P. STERN
+
+APPROVED AS TO FORM                 ; oa                   LM (4Vowse
+   4 Va         2    ;         Tere        Confnissioner    ”          LESLIE LEWIS
+
+Rick Sanai, Assistant County Counsel
+
+                                                                                    G0. 04-285
+Exhibit “A” FINDINGS
+
+DOCKET NO.:           PAZ-06-04
+
+REQUEST:              Approval of a Comprehensive Plan amendment from Agriculture/Forestry Small
+                      Holding to Commercial; a zone change from AF-10 Agriculture/Forestry Small
+                      Holding to HC Highway Commercial. The purpose of the zone change is to
+                      expand the existing three acre Highway Commercial Zone over the entire 14 acres
+                      of the subject parcel,
+
+APPLICANT:            Willie Owens
+
+TAX LOT:              3325-600
+
+LOCATION:             9660 NE Fox Farm Road, Newberg, Oregon
+
+CRITERIA:             Sections 501, 904, and 1208.02 of the Yamhill County Zoning Ordinance. Section
+                      904, Limited Use Overlay may also be applied. Comprehensive Pian policies may
+                      be applicable. OAR 660-12-0060 Transportation Planning Rule.
+
+      Background Facts:
+>
+
+      Property size: 14.66 acres. The southern 3 acres of the property are already zoned HC Highway
+      Commercial. The remaining acreage is the subject of this request. Unless specified otherwise,
+      references to the “subject property” will be the approximately 11.66 acres presently zoned AF-10.
+
+      Access: Fox Farm Road, a paved county road.
+
+      On-site Land Use: The property contains a residence, garage, shed, barn, greenhouses and
+      commercial barn. The commercial barn is one that is set up to advertise for barn kits that may be
+      purchased. The land has been used in the past for nursery and bark dust sales. The property is in
+      the immediate vicinity of Highway 99W. It is near the location for the planned interchange to
+      serve the Newberg/Dundee bypass. The existing three acres zoned HC are covered by the
+      boundary of the interchange. The southwest portion of the proposed zone change (approximately
+      1.4 acres) is also covered by the area of the proposed interchange.
+
+      Surrounding Zoning and Land Use: Highway 99W borders the property to the southeast. Across
+      Highway 99W is property that is zoned VLDR 2.5 Very Low Density Residential. Land to the
+      south is zoned NC Neighborhood Commercial and contains a towing business. The parcel further
+      to the southwest, across Highway 99W contains a gas station which is within the city limits of
+      Dundee, Land to the north is zoned AF-10 Agriculture/Forestry Small Holding and VLDR 2.5.
+      Much of the AF-10 property is planted to vineyard. Across Fox Farm Road to the west are two
+      acres zoned RI Resource Industrial and the remainder zoned VLDR-1. The RI zone contains a
+      winery. The VLDR-] property is planted to a vineyard. Another winery exists to the northeast,
+      also on an Ri zone. The property is within close proximity to the city of Dundee which contains
+      commercial and residential uses. The commercial uses include restaurants.
+
+      Water: City of Dundee.   (The application indicates there are two water meters.)
+
+      Sewage Disposal: On-site septic system.
+
+                                                                                          BO-0F-28D
+       Fire Protection: Dundee Rural Fire District
+
+       Soils: Sheet 21 of the Yamhill County Soil Survey shows that the parcel is composed of
+       approximately 1/3 Amity (Am) and 2/3 Woodburn soils, (WuB and WuC) with an agricultural
+       capability of Class II and Ii.
+
+       Taxes: Tract land.
+
+10.    Previous Actions: The property has a number of land use actions that resulted in the present
+       zoning. They include PA-86-80/Z-185-80, Z-218-82/PA-112-82/PUD-16-82.                In 1987 Ordinance
+       443 was adopted to take the entire 14.66 acres into Dundee’s Urban Growth Boundary (UGB).
+       However, the City of Dundee decided not to accept the property into their UGB. The property also
+       received conditional use approval and a variance in 1986 to store/sell barkdust. In 1998 the
+       property was granted a conditional use approval to have a barn on the property to advertise for
+       barn kits.
+
+11.    Description of Proposal: There is no use specified in the request. The application states that,
+       “Applicants desire to expand their business to allow for additional commercial use permitted in the
+       Highway Commercial Zone, specifically set forth in the Permitted Uses Section 603.02.”
+
+12.    Exception area: The subject property was part of code area 1.8 adopted on April 23, 1980 as part
+       of Exceptions Statement I. The property was part of an area identified as land “committed” to
+       tural residential use.
+
+13,    Ordinance No. 747 was adopted by the Board of Commissioners on September 30, 2004.               This
+       ordinance adopted an Interchange Overlay District that would restrict the application of zone
+       changes for three years while an interchange plan was developed.         The applicant filed a
+       placeholder application the week prior to the adoption of this overlay district. The application was
+       made complete prior to 180-days from the time the request was filed so it is not subject to
+       Ordinance No, 747 or Section 908 of the Yamhill County Zoning Ordinance.
+
+       Permitted Use Provisions and Analysis
+cg
+
+       The applicant states that the, “Applicants desire to expand their business to allow for additional
+       commercial use permitted in the Highway Commercial Zone, specifically set forth in the Permitted
+       Uses Section 603.02."         The permitted uses in the HC zone are as follows:
+
+603.02 Permitted Uses.
+                 In the HC     District, the following uses shall be permitted subject to the standards and
+                 limitations set forth in subsection 603.07 and pursuant to Section 1101 for site design
+                 review:
+
+                             Automobile service station,
+               QAAmoOO>
+
+                             Drive-in restaurant, restaurant, or refreshment stand;
+                             Food store, maximum floor area of two thousand (2,000) square feet;
+                             Fruit or vegetable stand, commercial;
+                             Gift, souvenir or antique shop,
+                             Motel;
+                             Dwelling in conjunction with a permitted use. Site design review is not required
+                             for the dwelling;
+                ACCESSONY USES;
+
+       Be
+                Temporary structures as may be required during construction of an authorized
+                permanent structure. Such temporary structure shall be removed upon final
+                inspection of the permanent structure by the Building Inspector;
+       SAS      Community or municipal water supply system;
+                Community or municipal sewer system; and
+                 Signs, pursuant to the sign provisions set forth in Section 1006,
+
+The HC Highway Commercial zone also has a provision to add other uses to the permitted use
+section. This is done by following the procedures for a similar use and establishing that the
+requested use is similar to one that is already permitted within the zone. In addition to the
+permitted uses, RV Sales have been approved in this zone as a similar use. Since the request is not
+for any single use, any of the above uses need to be considered to be potentially sited on the
+subject property. In addition, the Planning Commission and Board of Commissioners considered
+the fact that approval of this request would result in 14.66 acres of property zoned HC Highway
+Commercial. The HC zone has the following minimum lot size:
+
+        Minimum Parcel Size, The minimum parcel size shall be 20,000 square feet for any use,
+        except the minimum parcel size for a motel shall be one (1) acre and the minimum parcel
+        size for a planned unit development shall be two (2) acres.
+
+Therefore, there is a distinct possibility that the resulting 11.66 acres could be divided into smaller
+parcels and have a number of uses established on those smaller parcels.
+
+Zone Change and Plan Amendment Provisions and Analysis
+
+Approval of a request for a zone change must be based on compliance with the standards and
+criteria in YCZO Section 1208.02.    These provisions are:
+
+(4)     The proposed change is consistent with the goals, policies, and any other applicable
+        provisions of the Comprehensive Plan.
+
+(B)     There is an existing demonstrable need for the particular uses allowed by the requested
+        zone, considering the importance of such uses to the citizenry or the economy of the area,
+        the existing market demand which such uses will satisfy, and the availability and location
+        of other lands so zoned and their suitability for the uses allowed by the zone.
+
+()      The proposed change is appropriate considering the surrounding land uses, the density
+        and pattern of development in the area, any changes which may have occurred in the
+        vicinity to support the proposed amendment and the availability of utilities and services
+        likely to be needed by the anticipated uses in the proposed district.
+
+(D)     Other lands in the county already designated for the proposed uses are either unavailable
+        or not as well-suited for the anticipated uses due to location, size, or other factors.
+
+(       The amendment is consistent with the current Oregon Administrative Rules for exceptions,
+        if applicable.
+
+Regarding criterion (A) above, since an exception to Statewide Planning Goals 3 and 4 has already
+been taken for the subject parcel, Comprehensive Plan goals and policies related to agricultural
+and forest lands are not applicable. The application makes general statements about how the
+intended use satisfies the goal and policies of the comprehensive plan. The main focus of the
+argument appears to be that this will be a mixed use insofar as the residence will remain on the
+property in conjunction with the commercial use. There are more specific Comprehensive Plan
+goals and policies which should be considered.
+
+Policy .B.1.d.: No proposed rural area development shall require or substantially influence the
+extension of costly services and facilities normally associated with urban centers, such as
+municipal water supply and sanitary sewerage or power, gas and telephone services, nor shall it
+ impose inordinate additional net costs on mobile, centralized public services, such as police and
+fire protection, school busing or refuse collection.
+
+The application stated, and the Board finds, that the use will not require the extension of costly
+additional services.
+
+Yamhill County Revised Goals and Policies - Policy IF.1.b. Yamhill County will encourage
+economic development projects which do not conflict with the predominant timber and
+agricultural character of the county.
+
+Although the subject property and neighboring land is not specifically zoned for agricultural uses,
+there are agricultural uses that exist on adjacent land. To the north and west are parcels that are
+planted to vineyard. (It should be noted that the property to the west has an application for a 39-lot
+subdivision to create parcels of approximately two acres.) The application stresses how much
+commercial use already exists in the surrounding area. The “commercial use” mentioned by the
+applicant includes the two nearby wineries in the RI Resource Industrial zones. It should be noted
+that Yamhill County does not consider the uses allowed in the RI zone to be the same or similar to
+uses allowed in the County’s commercial zones. The RI zone is intended to allow the processing
+and sale of food products grown in the local agricultural area. The uses in the RI zone would be
+within the agricultural character of the County and should not be used to justify the rezoning of
+nearby lands for commercial use.
+
+Goal LG.1. To create an environment for commercial development which will preserve and
+enhance the vitality of the central business districts, assure safer, more convenient and attractive
+community and neighborhood commercial centers, and protect prime commercial sites for use in
+advance of need.
+
+Most of the uses listed in the HC zone are ones that can be found in the downtown central business
+district. The applicant stated, and the Board finds, that there is substantial evidence in the whole
+record that there is an insufficient number of suitable HC zoned properties which are available to
+satisfy the current demand.
+
+Policy L.G.1.b. The county will discourage the expansion of strip commercial and provide for the
+redevelopment of strip commercial areas.
+
+Due to its close proximity to Highway 99W and the location of other commercial uses, the Board
+does not consider this location strip development.
+
+Policy LG.1.d.   Yamhill County will adopt landscape and design criteria for all forms of
+commercial development occurring outside of urban growth boundaries.
+At the time of development, the landscaping requirements will be applied to this property.
+
+Regarding the availability of other lands already zoned for the proposed use, criterion 1208.02(B)
+and (D), the applicant’s representative stated that she surveyed the Commercial zone in a two mile
+radius. The study submitted listed 12 properties, along with reasons as to why none of these
+properties would satisfy the need for a nursery. The application demonstrates, and the Board
+finds, the need related to nursery products satisfies this crinterion.
+
+Regarding criterion (C), the surrounding lands include commercial and rural residential uses. The
+commercial uses in the County include motorcycle parts sales, barkdust/nursery business and a
+towing yard. Nearby resource industrial uses include two wineries. With appropriate
+landscaping/screening of the use, the request should not be in conflict with the neighboring
+commercial/industrial uses. The surrounding rural residential uses have a greater chance of
+conflicting with the proposed use. Notice was mailed to the surrounding property owners. There
+have been no objections from the neighboring property owners.
+
+Goal Exception Provisions and Analysis
+
+The request needs an exception to Goal 14. The applicant has chosen to pursue a “reasons
+exception.” Oregon Administrative Rule (OAR) 660-04 contains the requirements for taking a
+“reasons” exception to Goal 14 for the property going from AF-10 to HC.
+
+OAR 660-04-020 contains four factors that must be addressed when taking an exception to a goal.
+They are:
+
+(a)     Reasons justify why the state policy embodied in the applicable goals should not apply.
+
+(b)     Areas which do not require a new exception cannot reasonably accommodate the use.
+
+(c}     The long-term environmental, economic, social and energy consequences resulting from
+        the use at the proposed site with measures designed to reduce adverse impacts are not
+        significantly more adverse than would typically result from the same proposal being
+        located in other areas requiring a Goal exception.
+
+(d)     The proposed uses are compatible with other adjacent uses or will be so rendered through
+        measures designed to reduce adverse impacts.
+
+Regarding factor (a), the applicant adequately addressed the Goal 14 factors. This is typically
+done when property is considered for inclusion in an Urban Growth Boundary (UGB).          This
+property was considered for inclusion in the UGB for Dundee in 1987. At the time there was little
+in the way of intensive farm use going on in the surrounding area. Since then there have been two
+vineyards established on adjacent properties and two wineries established.
+
+OAR 660-04-022 states that the reasons justifying why the state policy embodied in the goal
+should not apply include, but are not limited to, that there is a demonstrated need for the proposed
+use, and either: 1) a resource upon which the use is dependent can be reasonably obtained only at
+the exception site and the use must be located near the resource; or 2) the use has special features
+or qualities that necessitate its location on or near the proposed exception site. The Board finds
+this has been adequately addressed.
+     Factor (b), is addressed in Finding B.3. One of the questions listed in OAR-660-004-
+     0020(2)(b)(B) is whether the proposed use could reasonably be accommodated in other areas that
+     do not require an exception. This has been adequately addressed by the applicant.
+
+     Regarding factor (c), the environmental, economic, social and energy (ESEE) analysis needs to be
+     done regarding this request. In response to this standard the application states, “The subject
+     property meets this standard by actually creating a significantly less adverse impact than other
+     areas that may require a Goal 14 exception due to the fact that it is already commercial in
+     character. The use is consistent with the environmental, economic, social, and energy
+     consequences that the surrounding parcels (exhibit) and by rezoning this parcel to Highway
+     Commercial makes its impact less than other areas.” This has been adequately addressed by the
+     applicant.
+
+     Regarding factor (d) the proposed uses need to be compatible with other adjacent uses or be so
+     rendered through measures designed to reduce adverse impacts. The Board finds that the proposed
+     use(s) will be in character with the other commercial uses in the area.
+
+     At the bottom of page 6 of the request the applicant’s representative goes on to present argument
+     that the subject property is already physically developed and irrevocable committed to other uses
+     to the point that it is no longer available for “. . . agricultural or forestry use.” The Board agrees
+     with this statement, and finds the property qualifies for an exception to Goal 14.
+
+     Goal 12 (Transportation Rule) Provisions and Analysis
+iP
+
+     Because of the proximity of the proposed HC Highway Commercial zone to Highway 99W, the
+     provisions of the Transportation Planning Rule, implementing Goal 12, must be addressed. OAR
+     660-12-060 contains these provisions:
+
+     ()      Amendments to functional plans, acknowledged comprehensive plans, and land use
+              regulations which significantly affect a transportation facility shall assure that allowed
+              land uses are consistent with the identified function, capacity, and level of service of the
+             facility. This shall be accomplished by either:
+              (a)      Limiting allowed land uses to be consistent with the planned function, capacity
+                       and level of service of the transportation facility;
+             (b)       Amending the TSP [Transportation System Plan] to provide transportation
+                      facilities adequate to support the proposed land uses consistent with the
+                       requirements of this division; or,
+             (¢)      Altering land use designations, densities, or design requirements to reduce
+                      demand for automobile travel and meet travel needs through other modes.
+
+     (2)     A plan or land use regulation amendment significantly affects a transportation facility if
+             it:
+             (@)      Changes the functional classification of an existing or planned transportation
+                     facility;
+             (b)      Changes standards implementing a functional classification system;
+             (oe)     Allows types or levels of land uses which would result in levels of travel or access
+                     which are inconsistent with the functional classification of a transportation
+                     facility; or
+             (@d)     Would reduce the level of service of the facility below the minimum acceptable
+                      level identified in the TSP.
+2.      Regarding (2), the applicant has submitted a transportation report form Tom R. Lancaster P.E.,
+        P.T.O.E. and Geoffrey A. Judd, E.L.T. of Lancaster Engineering (hereby incorporated into these
+        findings by this reference) demonstrating compliance with the Transportation Planning Rule and
+        Section 1208.02(C) of the YCZO.
+
+CONCLUSIONS:
+
+lL      The request is for approval of a Comprehensive Plan amendment from Agriculture Forestry
+        Small Holding (AFSH) to Commercial (C) and a zone change from AF-10 Agriculture Forestry
+        Small Holding to HC Highway Commercial.
+
+2.      The request satisfies Section 1208.02(A) because it would allow development consistent with
+        Policy 1.G.1.b.
+
+3.      The request satisfies Section 1208.02(B) because the applicant has provided adequate justification
+        to show that there is an existing demonstrable need for uses allowed in the HC Highway
+        Commercial zone.
+
+4,      The request satisfies Section 1208.02(D) because it has been demonstrated that other areas already
+        zoned for the proposed use are unavailable or not as well suited for the proposed use.
+
+5.      The request has been shown to satisfy the Transportation Planning Rule.
+
+6.      The applicant has demonstrated compliance with Goal 14.
+
+APPROVAL:
+
+Willie Owens’ request for approval of a Comprehensive Plan amendment from Agriculture/Forestry Small
+Holding to Commercial and a zone change from AF-10 Agriculture/Forestry Small Holding to HC
+Highway Commercial is hereby APPROVED, wit the following conditions:
+
+The property is subject to a limited use overlay restricting allowed uses to a nursery and accessory uses.
+
+The applicant shall perform any and all traffic infrastructure improvements required by the Oregon
+Department of Transportation.
+
+FALU\OwensWilleBOFinds.wpd
+
+                                                                                        G.0-04F- 220
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.3% of
+the word sequence, and on 62.2% of the figures. Dictionary-recognizable words: 95.4%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

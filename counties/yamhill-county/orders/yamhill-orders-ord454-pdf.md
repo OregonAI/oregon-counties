@@ -1,0 +1,375 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord454-pdf
+title: 'ORD454-PDF'
+doc_type: ordinance
+citation: 'ORD454-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17702/ORD454-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: b776575fae8a1c2a35b23d3287a92a7c3dff527ab3d49ec0df283b06879983d9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.968; figure agreement 0.803; dictionary ratio 0.925. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 97%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD454-PDF (ORD454-PDF)
+
+## At a glance
+
+OCR-derived text of ORD454-PDF. Not human-verified.
+
+## Full text
+
+agate
+
+         t7-      629                             FOR        THE         COUNTY              OF    YAMHILL
+
+                             SITTING            FOR    THE         TRANSACTION                     OF     COUNTY        BUSINESS
+
+        In the Matter of an Ordinance
+        Amending the Yamhill County
+        Comprehensive           Plan,            1974,            to
+        Allow an Expansion of the
+        Urban Growth Boundary of the                                                        ORDINANCE            NO.     454
+        City of Dundee  to Include
+        Tax Lot 3325BC~00600   (Kay
+        and     Thomas       Edwards,            Owners)
+        County Planning Docket PA-2-87;
+        and Declaring an Emergency
+
+                 THE    BOARD        OF    COMMISSIONERS                          OF    YAMHILL            COUNTY,        OREGON             (the
+        Board)   on October   28,   1987,  sat for the transaction of county
+        business   in special     session,  Commissioners David E. Bishop,
+        Ted Lopuszynski,    and Donald D. Porter being present.
+
+                 WHEREAS,       Kay        L.     Edwards               and           Thomas        W.     Edwards,        owners            of
+    “Tax Lot 3325BC-00600  have applied to the Planning and Develop~
+     ment Departments  of the City of Dundee and Yamhill County  in
+     order to amend the comprehensive   plan maps of the city and the
+     county to allow an expansion of the urban growth boundary of the
+     City of Dundee to encompass   said parcel;  and
+
+                WHEREAS,  Tax Lot 3325BC-00600   is currently                                                      partially within
+        and    without the incorporated   limits of the City                                                       of Dundee; and
+
+                 WHEREAS,       pursuant               to     the            Dundee           Urban       Area         Growth     Manage-
+        ment     Agreement           adopted           June            17,        1981,           under     authority            of     Board
+        Order     81-287,       a     joint           session                of       the     Planning           Commissions             of
+        Yamhill        County        and    the        City            of     Dundee              was    held     October         1,     1987
+        to    consider        said        application                   at        a    public           hearing;         and
+
+                 WHEREAS,       on        October            1,        1987,           the        Yamhill        County        Planning
+        Commission           voted        unanimously                   to        recommend              approval         of     the     applica-
+        tion     and    to    recommend               that         the        Board           amend        the    Yamhill         County            Com-
+        prehensive    Plan,               1974        to     amend            the       urban           growth     boundary             as     re-
+        quested;   and
+
+                 WHEREAS,       on        October            1,        1987,           the        City     of    Dundee        Planning
+        Commission voted unanimously   to recommend to the                                                              Dundee        City
+        Council  that said application be approved;   and
+
+                 WHEREAS,       Section               C.2.         of        said       Dundee           Urban     Area        Growth          Manage-
+        ment Agreement provides   that following a public hearing at the
+        planning commission  level,   the governing bodies shall make a de~
+        termination based upon the facts and record presented at the public
+        hearing;  and
+
+                 WHEREAS,       on        October            21,        1987,           the        Board        considered             said       appli-
+        cation upon the record                         of the joint public hearing conducted by                                                       the
+        City of Dundee and the                         Yamhill County Planning Commissions  on
+        October 1, 1987;  and
+
+             WHEREAS,  after consideration of the record and transcript                                                                              of
+        the planning commissions'   hearing, the Board voted unanimously                                                                             to
+        grant the application;  and
+
+              WHEREAS,   the applicant has prepared findings of fact and con-
+        clusionary    findings for approval as reflected on the attached
+        Exhibit   "A", which are adopted by the Board and incorporated   into
+        this ordinance as if fully set forth herein;     and
+
+        ORDINANCE        454     -    Page        1
+                                                                                                           civ 45 nce2066
+
+        WHEREAS, based upon                         Exhibit  "A", it appears                           appropriate                    to
+grant    the application as                         set forth below;  and
+
+      WHEREAS,  an exception                             to Statewide Planning                         Goal       2    is    appro-
+priate   for the reasons  set                            forth in Exhibit  "A":                        and
+
+      WHEREAS,               Exhibit  "A" demonstrates compliance                                       with          the    re-
+quirements   of              Statewide Planning Goal 14; and
+
+      WHEREAS,  the Board finds that the approval of the applica-
+tion is in the best interests      of the citizens of Yamhill County
+both inside and outside     the Dundee city limits because    the parcel
+currently   is split by the Dundee city limits and is fully developed
+as a restaurant    site and therefore    the Dundee land use and develop-
+ment regulations    are better suited for controlling    land use activi-
+ties on the subject parcel;     and
+
+      WHEREAS,  the Board finds that on balance Exhibit   "A" demon~
+strates   that the approval of the application  is consistent with
+Statewide Planning Goal 14 and is in the public    interest;  NOW
+THEREFORE,
+
+        THE     YAMHILL           COUNTY           BOARD       OF    COMMISSIONERS               ORDAINS              AS    FOLLOWS:
+
+      Section 1.   Subject to Section    2 below, based upon the find-
+ings of fact and conclusionary    findings adopted by the Board and
+set forth in the attached Exhibit     "A" and by this reference    in-
+corporated herein,   the Yamhill County Comprehensive Plan,     1974 is
+hereby amended as follows:
+
+              a.        To allow the expansion of the urban growth
+                        boundary of the City of Dundee   to include
+                        Tax Lot 3325BC-00600  as identified on the
+                        attached Exhibit  "B" which is incorporated
+                        herein by this reference;  and
+
+              b.        To     designate            the    parcel       referred            to    in       this
+                        section         as        "Future       Urbanizable"           on        the       Yam-
+                        County         comprehensive                 plan    map.
+
+     Section 2.   That the plan amendment described in Section 1
+above shall become effective when a parallel ordinance  amending
+the City of Dundee comprehensive plan map to allow expansion of
+the City of Dundee's urban growth boundary to encompass Tax Lot
+3325BC-00600 is enacted by the Dundee City Council and filed in
+the office of the city recorder of the City of Dundee.
+
+        Section           3.      This           ordinance          being    necessary            for       the        health,
+safety,       and       welfare         of        the    citizens       of     Yamhill           County,              and    an
+emergency having been                            declared       to    exist,        shali        become           effective
+upon passage hereof.
+
+        DONE       at     McMinnville,                  Oregon       this    28th     day        of     October,             1987.
+
+ATTEST                                                  YAMHILL       COUNTY        BOARD        OF     COMMISSIONERS
+
+                                                        Chairman
+                                                                DEEty 2             DAVID        E.     BISHOP
+                                                           _                        Date:              Cet 28, 98D
+                                                            feel
+                                                        Commissionet/               ahaa                      SKI
+                                                                                    Date:                      26,          LGEF
+APPROVED        7 "TO           FORM     BY:
+
+6s             me         aR                            Commissioner                DONATED.               PORTER
+Yamhill        County           Cotinsel                                            Date:             ct                          7
+
+ORDINANCE           454        - Page        2
+                                                                                                                                    rium 49 ee20B7
+                                                FINDINGS
+                                                                           EXHIBIT
+                                                                          ORDINANCE
+                                                                                    "A"
+                                                                                     453
+                                                                        OF FACT AND CONCLUSIONARY                                   FINDINGS
+                                                                                                                                                     4,
+                                                      APPLICATIONFOR UGB PLAN
+                                                      AMENDMENT
+                                                              ‘BY T.W. EDWARDS
+
+ I.   INTRODUCTION.
+
+      This property is. presently. being used for John's Family Restaurant. The
+      building is old and needs to be replaced. . The City-County Boundry divides
+      the property.   The replacement building would be built on the part of the
+      property that.is in the County; therefore, would not qualify for city water
+      and    sewer       services.
+
+      The    City    of    Dundee            is      not        extending          water     and      sewer     to       buildings      outside
+      the    city    limits.               We     are       requesting             that    the     portion       of       this      property
+      outside       of    the     city          be    annexed           to    the    city.
+
+      There    would       be     no        change          in usage.
+
+It.   LcDC    CRITERIA.
+
+      (1)     Demonstrated                  Need      to        Accommodate          ‘Long ‘Range         Urhan          Population’ Growth
+              Requirements                 ‘Consistent             with       .LCDC’Goals.                           :
+
+              A community the size of Dundee, Oregon, ‘has a need for a minimal
+              amount of commercial properties.   The only commercial property
+              available in this community is along Highway 99W and consists of
+              various businesses on each side of the main highway.   This property
+              consists of .7 acres situated between Highway 99W and the Southern
+              Pacific Railroad and is presently being used by John's Family
+              Restaurant.
+
+      (2)     Need       for     Housing,             Employment              Opportunities
+                                                                                     and’ Livability.
+
+              The    preservation                    of     commercial             activity        at    this     location           will     con-
+              tinue the present employment that                                          occurs there and                 allow the oppor-
+              tunity for additional employees.                                           Presently, there                 are 12 people
+              employed at the restaurant.
+
+      (3)     Orderly          and         Economic             Provision          for    Public        Facilities            and    Services.
+
+              The inclusion of this area within                                           the Urban Growth Boundary would
+              allow extremely orderly and sound                                           economic development of public
+              facilities             and        services.               The    property          is     immediately              adjacent      to
+              the    city        limits           and       would       allow       logical        extension             of   public        facil~
+              ities       to     the        property.
+
+      (4)     Maximum          Efficiency                  of    Land    Uses       Within       and’ On      the        Fringe
+                                                                                                                             of the
+              Existing           Urban          Area.
+
+              This property's inclusion in the Urban Growth                                                   Boundary would                 allow
+              maximum efficiency of land uses because there                                                   is no creation                 of
+
+                                                                               1
+
+        EXHIBIT            "A"         -    ORDINANCE                   45%
+                                                                                                               FIL “xd ace20B8
+
+              an     island             and    the    property          is    immediately           adjacent           to     the    city
+              boundary.   It is presently zoned residential and is not suitable
+              for this use due to the noise from Highway 99W and the Southern
+              Pacific Railroad.
+
+       (5)    Environmental,                    Energy,        Economic            and    Social        Consequences.
+
+              There          is no negative                 long     term environmental                   impact        by including
+              this property within the Urban Growth Boundary.                                                        It is adjacent
+              to the city limits, already used for commercial                                                       activity, and
+              would          not        require       losses       of     energy         efficiency            by    moving     the
+              community services beyond the current city. boundary.  The in~
+              clusion of this property is economically sound for the same
+              veasons.  The social consequences are negligible and in fact
+              positive              if       anything,       because          it    takes    an     area        basically           unusable
+              and develops it. for its highest and best use.                                                     Furthermore, the
+              commercial activities.on the property benefit                                                    not only those
+              employed by such activities, but the consumer                                                    as well.
+
+       (6)    Retention                 of    Agricultural          Land'as           Defined       with        Class       1 being     the
+              ‘Highest            Priority           for    Retention           and      Class     6,    the Lowest            Priority.
+
+              This       property              is    being    used        for      a parking        lot        and    would     not    be
+              suitable              for       any    other    use.                                         :
+
+       (7)    Compatibility                    of    the    Proposed         Urban        Uses    With         Nearby       Agricultural
+              Activities.
+
+              The proposed                    use of the property is compatible with surrounding
+              uses in that                    there is no heavy or significant agricultural use in
+              the area.
+
+IIt.   GOAL   2 ~- LAND             USE       PLANNING.
+
+       (1)    Goal 2          Exceptions.
+
+              Part       2     (a).           The Land Subject to the Exceptionis Physically
+                                               Developed to the Extent  that it is No Longer Avail~
+                                              ‘able for Uses ‘Allowed by the Applicable Goal.
+
+              The       land        subject          to    this    application             has    been         used    extensively          for
+              years          as     a    restaurant          and     is      sufficiently           developed           that        agricult-
+              ural activity is no longer reasonable.                                             This property                is surrounded
+              by commercial activity:     (1)  Mobil O11                                         Station, (2)                  used car lot,
+               (3) wine shop,   (4)   restaurant.
+
+                                  (b)         The Land Subject to the Exception is Irrevocably
+                                              Committed te Uses Not Allowedby the Applicable Goal
+                                             ‘Because Existing Adjacent Uses and Other Relevant
+                                              Factors Makes Uses by the Applicable Goal Impracticable.
+
+         EXHIBIT             "A"         -     ORDINANCE           43%
+         Page       2
+                                                                                              FILE        A5     nce2U69
+
+            It generally is not good for agricultural activity and
+            there is.so much commercial activity on it at. present that
+            it is developed to a point where it is not usable for
+            agricultural            purposes.
+
+             (ec)   ‘The     Following       Standards            aré’ Met.
+
+                    ' (1):    The agricultural               goals       should’ not      be applied
+                             because  this property is not suitable.for
+                             agriculture, is used for non-agricultural
+                             purposes, and already is urbanized.
+
+                    ' (2)    As     was    noted     in     the    discussion       above,        .the
+                             proposed        area     .is    not    detrimental        to    long        term
+                              environmental,              economic,        social    and     energy
+                              consequences, which                  may    result    from the         use    of
+                              the proposed’ site.
+
+                      (3)    As     also    discussed,
+                                                     the present                    use     and     proposed       uses
+                              are    compatible           with     other      adjacent      uses     and    have
+                              no    adverse        impact.
+
+EXHIBIT    "A"      - ORDINANCE            45%
+Page   3
+                           SKETCH           MAP    FOR     COMPREHENSIVE                PLAN        AMENDMENT
+                                      EXHIBIT            "B"   FOR    ORDINANCE               NO:    453                FILE   45   ne   2070
+
+                           COMPREHENSIVE                  PLAN    AMENDMENT             ADOPTED         BY     THE
+
+                                 YAMHILL           COUNTY        BOARD        OF     COMMISSIONERS
+
+                                                         OCTOBER      28,      1987
+
+                          TO    CHANGE        THE        COMPREHENSIVE               PLAN      DESIGNATION
+
+                                 TO        ALLOW        INCLUSION        IN    THE      DUNDEE        UGR.
+
+                                 Applicant:                      Thomas        &    Kay       Edwards
+                                 Address:                        773 S.E           Edwards Dr.
+                                                                 Dundee,           OR 97115
+
+                                 Phone:                          (503)        538-1385
+                                 Tax        Lot    No.:          3325BD-600,              3325BC~3700
+
+                                 Docket           No:            PA-2-87
+
+Scale:   1"
+
+Change   applies    to    the   Shaded            portion        of   Tax      Lot      No:     3325BD-600
+Sketch   prepared    by    Yamhil1/ County                 Department              of   Planning           &   Development.
+                                       f
+                                      /
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 96.8% of
+the word sequence, and on 80.3% of the figures. Dictionary-recognizable words: 92.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

@@ -1,0 +1,448 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord336-pdf
+title: 'ORD336-PDF'
+doc_type: ordinance
+citation: 'ORD336-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17785/ORD336-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 1f282086571230c83ec03e31255f7835052f3ec8ec4d14f4af4649dbc7a9ae60
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.972; figure agreement 0.799; dictionary ratio 0.903. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.010
+    - ORS 215.020
+    - ORS 215.223
+    - ORS 215.402
+    - ORS 215.406
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 97%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD336-PDF (ORD336-PDF)
+
+## At a glance
+
+OCR-derived text of ORD336-PDF. Not human-verified.
+
+## Full text
+
+/                FILED              F
+     IN     THE     BOARD       OF     COUNTY        COMMISSIONERS                         OF    THE     STATE     QRv¥@REGONTY,          ORES
+
+$3-187                    FOR THE COUNTY OF YAMHILL                                                                May 6       |} us AH 83
+             SITTING        FOR THE           TRANSACTION               OF               COUNTY       BUSINESS      CHARI ES
+     In the Matter of an Ordinance      to
+
+                                                                             YS
+     Implement Planning Commission
+
+                                                                             wee
+                                                                              eS YS YY
+     Resolution No.    83-3 Authorizing                                                    ORDINANCE        NO.    ISG
+     an Amendment   to the Yamhill
+     County         Zoning       Ordinance,              No.     310,
+     1982,        requested            by    Liberty           Com-
+     munications,               Inc.
+
+             THE        BOARD    OF     COMMISSIONERS                  OF         YAMHILL             COUNTY,      OREGON      (the
+     Board)   on the 4th day of May,   1983,  sat for the transaction                                                                of
+     County business,    in regular  session,  Commissioners  Robin J.
+     Hamblet,   Dave Bishop and Ted Lopuszynski    being present.
+
+          WHEREAS,    Ordinance No.  138 of the Board,   dated the lst day
+     of June,   1977,   designated the Yamhill   County Planning Commission
+     as the hearings body for determining whether requests        for amend-
+     ment to the Yamhill County      Zoning Ordinance   shall be granted or
+     denied;   and
+
+          WHEREAS,  pursuant to Ordinance No.    138 and ORS 215.402   to
+     215.422,   such decisions by the Planning Commission     to approve or
+     deny requests    for amendment to the Zoning Ordinance are final
+     unless   an aggrieved party appeals    the Planning Commission's    de-
+     cision to the Board within     fifteen days or unless the Board in
+     its discretion elects to review the decision on its own motion
+     within         fifteen          days;         and
+
+         WHEREAS,  the Yamhill   County Planning Commission has adopted
+     a resolution  approving   an amendment to the Zoning Ordinance upon
+     the application of the above-named     corporation,   a copy of which
+     is attached hereto   and by this referenc=    incorporated as if fully
+     set forth herein;   and
+
+          WHEREAS,  more than fifteen days                                                have elapsed  since this de-
+     cision was announced by the Yamhill                                                  County Planning Commission
+     and no appeals    to or reviews by the                                               Board have been requested;
+
+             NOW,        THEREFORE,           based       upon         and               for    the    reasons      set      forth    in
+     the     attached           Resolution,              IT     IS     HEREBY                  ORDAINED     that       the    Official
+     Zoning Map of the Yamhill County Zoning Ordinance be and hereby
+     is amended consistent with and as set forth in the attached Re-
+     solution of the Yamhill County Planning Commission.
+
+          This Ordinance   being necessary for the health, safety and
+     welfare   of the citizens  of Yamhill County, and an emergency having
+     been declared,   shall be effective upon passage hereby.
+
+             DONE        this    4th        day     of   May,         1983,at                  McMinnville,         Oregon.
+
+     ATTEST:                                                           YAMHILL                  COUNTY     BOARD       OF    COMMISSIONERS
+
+           Gs           STERN
+          URGE      Clerk
+
+                                                                       Commissioner                             DAVE    BISHOP
+
+                                                                       Commissionet/                        (fed       LOPUSZYNSKI
+Aa        HE        .    Garrettgon
+      ounty “Gouneel
+
+     Page      1 - ORDINANCE                 No.     33G@
+In    the       Matter        of     an      Amendment            to    the              )
+Yamhill          County        Zoning             Ordinance,                             )              RESOLUTION          NO.     83-3
+Ordinance             No.     310,        1982      as     requested                     )
+by    Liberty           Communications,                    Inc.
+
+           THE PLANNING COMMISSION of Yamhill County,    Oregon, on the 2lst day
+of April,  1983, sat for the transaction of County business at a regularly
+scheduled  session.   Planning Commissioners Sadler,   Schatz,  Grimm, Weidemann,
+Bennette,  Stockhoff, Miller, Bunn and Treadway were present.
+           WHEREAS,  the Yamhill County Board of Commissioners adopted the
+Yamhill County Zoning Ordinance,    Ordinance No. 310,  1982 on the Ist day
+of December,   1982, being the Yamhill County Zoning Ordinance text and
+Official Zoning Map; and
+           WHEREAS, ORS 215.020 provides that a governing body may create
+a county          planning              commission           and,           pursuant               to    ORS    215.406,           may     designate
+the    planning              commission             to     serve        as     a    hearings                 officer       with     all        the
+power       and       duties         of      a    hearing         officer           as       prescribed              by    ORS     215.010           and
+215.402          to
+            215.422; and
+          WHEREAS,    the Yamhill County Board of Commissioners created the
+Yamhill County Planning Commission by adoption of an unnumbered Board
+Order on the 6th day of November,     1957 and designated that planning
+commission as the hearings body for petitions for amendments to the
+Yamhill County Zoning Ordinance,    Ordinance No. 310,      1982 by adoption of
+Ordinance No.   138 on the Ist day of June,    1977; and
+          WHEREAS,    it appears to the Planning Commission that a petition
+submitted on behalf of Liberty Communications,       Inc. has been filed with the
+Yamhill County Department of Planning and Development,          pursuant to Section
+1207 of Ordinance No. 310 to amend said Ordinance,        and change the Official
+Zoning          Map     designation                 from     "EF-40"               to    "PWS"           for    a parcel           described           as.
+being       a
+         20,000 square foot portion of a 16.76 acre tract; and            .
+           WHEREAS,  the Dayton Planning Advisory Committee reviewed the
+amendment request at a public meeting and recommended approval of the
+request; and
+           WHEREAS,  the Planning Commission,  on the 21st day of April, 1983
+held a public hearing as required by ORS 215.223 and 215.416 on the proposed
+amendment and voted to approve the request based on the findings and conclusions
+attached          hereto           as     Exhibit          "A"        and    by     this       reference                 made     a part        hereof;
+                      NOW     THEREFORE,             IT     IS        HEREBY        RESOLVED                 that    the    Official            Zoning
+Map    be       and     hereby          is       amended         to    show        the       Zoning           Designation           on     a    20,000       square
+foot portion of Yamhill County                                        Tax Lot           4316-1300 as "PWS" as shown on                                     the
+sketch plan attached hereto as                                        Exhibit           "B" and by this reference made                                     a part
+hereof.
+                       This resolution shall                           be in force                  and       effect from and                  after
+the     date          the change is properly                           recorded on                  the       Official Zoning                  Map.
+The    Yamhill              County        Planning          Director               be    and        hereby          is    directed         and
+authorized              to    amend          said    Official               Zoning           Map        in    conformance           with        this
+Ordinance.
+                      DONE     this          21st    day     of        April,           1983.
+AYES:           Sadler,           Schatz,             Grimm,       Weidemann,              Bennette,         Stockhoff,
+
+                Miller,           Bunn       and       Treadway
+
+NAYES:               None
+
+ABSTENTIONS:                None
+
+Approved        by    the    Chairman            on   this   9th    day       of   May,    1983
+
+      This resolution shall be in force and effect from and after the
+date the change is properly recorded on the Official Zoning Map.   The
+Yamhill County Planning Director be and hereby is directed and authorized
+to amend said Official Zoning Map in conformance with this Ordinance.
+
+         DONE    this       9th       day   of    May,   1983             .
+
+ATTEST:                                                                   YAMHILL         COUNTY    PLANNING   COMMISSION
+
+                                        ,                                                  _@
+
+       five MOG ET                                                                 LA              LL
+                                  A                                                          ee
+
+Lyfn     Steiger                                                          Dick      Sadlet,       Chairman
+Planning        Director
+
+                                                                                                                            —
+                                                                                                                                 oe
+                           EXHIBIT          "A"
+
+FINDINGS      FOR    APPROVAL         OF    PLAN     AMENDMENT/ZONE                     CHANGE         REQUEST
+
+                    DOCKET     PA-124-83/2-233-83
+
+Findings      of    Fact
+
+Les   The    applicant        has     requested            a    Plan     Amendment/Zone                     Change
+      from    "Residential/EF-40"                   to     "Public        Facility/PWS"                     ona
+      20,000  square foot                 portion of a            larger 16.76 acre parcel
+      for the purpose of                  establishing            a cable communications
+      facility.
+
+      The    proposed        cable        communications                site      is         located        within
+      the    Dayton     Urban        Growth       Boundary             (UGB)      but         outside        of    the
+      Dayton City limits.    Under the terms of the Management
+      Agreement  adopted by the City of Dayton and Yamhill County,
+      plan amendment requests within the UGB must be reviewed at
+      a joint hearing of the City and County Planning Commissions.
+      Subsequent  to the joint hearing,   the City Council  and Board
+      of Commissioners must concur    in a decision to amend the Com-
+      prehensive  Plan Map.
+
+      The applicant has addressed Yamhill County Comprehensive Plan
+      goals  and policies,   zone change criteria and Goal 2 exceptions
+      criteria.   Additionally,     the applicant has submitted a geo-
+      technical  assessment   of the proposed cable communications     site
+      and a site profile    sketch.
+
+      Facilities  proposed to be located at the                                         site         include  an         earth
+      receiving  station  for satellite signals,                                        a 50         foot tower          for
+      receiving       off-air         broadcast            TV    stations          from         Portland           and
+      Salem,  and a single  story structure                                (22'         x     30')     for    housing
+      equipment  and receiving gear.
+
+      Liberty       Communications,                Inc.,        has    been       awarded             the    cable
+      TV franchise    for the Cities of Newberg,       Dundee, ‘Lafayette,
+      McMinnville   and Dayton.     At present,    Liberty's   cable com-
+      munication   facilities    are located in Newberg.       However,    the
+      application   indicates    that.the  close proximity of the New-
+      berg communications     site to the Chehalem Mountains        inter-
+      feres with signal quality.        Consequently,    Liberty began a
+      search for a new cable communications         site either within or
+      adjacent   to one of the franchise      service   areas.
+
+      Liberty       evaluated         potential            cable        communications                  sites        for
+      compliance       with         the    following            criteria:              (a)     The     site       must     be
+      nearly equidistant between the McMinnville    and Newberg   ser-
+      vice areas;    (b) The site must be near the cable routing con-
+      necting the cities;    (c) The site must have a direct line of
+      access to a relay station on Chehalem Mountain;     and (d) The
+      site must be free of terrestrial microwave    interference   to
+      satellite   signal reception.
+
+      The application        indicates    that Liberty tested the suitability
+      of more than 20 potential           sites using    "on site"   field measure-
+      ments and engineering          studies.    The  applicant    states  that the
+      subject     site   outside   of  Dayton  met   the  four  criteria   outlined
+      above.     Further,     future development      in the area will not inter-
+      fere   with    the  reception    of  broadcast    television   and satellite
+      signals.
+ Exhibit      "A"
+
+                                           a Pies
+
+       The applicant  states that the proposed communications   site
+       outside of Dayton would provide Newberg,  Dayton,  Dundee,
+       Lafayette        and       McMinnville          with     the    best        available            signal    and
+       also increase Liberty's   regional interconnect capacity;
+       thereby enhancing   the quality and volume of educational,
+       institutional,  civic and other local access programming.
+
+       The proposed cable communications    site is located just in-
+       side the Dayton UGB,   northwest  of the intersection of Neck
+       Road and Water Street.    The site fronts on Water Street to
+       the Southwest  and is bounded on the northeast by the Yamhill
+       River.   The northeast portion of the site slopes    steeply to
+       the Yamhill River.    The site is located outside of the boun-
+       daries of the 100 year floodplain.
+
+LO's   If the requested Plan Amendment/Zone Change      is approved,
+       the applicant proposes   to relocate the existing tower and
+       satellite dish located in Newberg to the subject parcel out—
+       side of Dayton.   The portion of the parcel     supporting    the
+       cable communication   facilities  would  be leased   from  the   owner
+       of the 16.76 acre parcel.     Partitioning  is not anticipated.
+
+ill.   The    geotechnical            assessment            prepared        by     CH2M     Hill        recommends
+       that    the     facilities           be      located     at    the     northwestern               portion
+       of    the    site,     and     as    close      as     possible        to    Neck        road.      The     en-
+       gineer concludes   that construction of the                                   proposed facilities
+       as recommended   should have no significant                                   impact on the sta-
+       bility of the existing   slope.
+
+12.»   Soils on the subject property include agricultural Class II
+       Aloha silt loam adjacent to Water Street and Class VI Terrace
+       escarpments    adjacent to the Yamhill River.        Aloha soils are
+       used for vegetable     and berry crops,    orchards,     small grains
+       and hay and pasture plants.        Slopes adjacent     to   the river
+       range  from 20 to 40%.      The soil material    on   the  Terrace    es-
+       carpments   is silty and sandy and supports        brush,    ash,  oak
+       and Douglas    fir.   These vegetated    slopes adjacent to the river
+       are well   suited to wildlife use.
+
+13.    Adjacent parcels   inside of the Dayton UGB are designated    for
+       residential  use on the Dayton Comprehensive Plan.    The  city
+       limits of Dayton parallels   the north side of Neck Road and
+       abuts the northwest boundary of the subject property.     Adja-
+       cent parcels within the city limits are zoned R-l.
+
+14.    Parcels  to the east of the proposed cable communications   site
+       lie outside of the UGB and are designated AFLH/EF-40.   Larger
+       parcel agricultural  uses predominant to the east of the UGB.
+
+15s    The proposed facilities would be unmanned with no employees
+       working permanently    on the site.    The applicant  anticipates
+       2 to 3 employee   trips weekly to the site for repair,     main-
+       tenance and security.     The application  indicates  that  no
+       sewer or water  facilities will be required to     accommodate
+       the proposed use.
+16.    The following public  agency responses have been                                            received        as
+       of this writing:
+       A.  Dayton Rural Fire District - No conflicts.
+       B.     City     of     McMinnville            (Airport         Commission)           -    No     conflicts.
+       Cc.    Continental   Telephone  - No conflicts.
+       D.     County Sanitarian    - No conflicts,  provided                                     there      is   no
+              sewage  flow.
+17.    The    Dayton        PAC     reviewed         this     proposal        April        14,     1983    and     recom—
+       mended        approval        of    the      Plan    Amendment/Zone            Change.
+                                                                                                                            rere
+                                                                                                                            egg
+Exhibit       "A"
+
+Conclusionary          Findings        for    Approval
+
+isa   The proposed site would facilitate      and improve  cable tele-
+      vision  services   to the City of Dayton   and Yamhill County.
+      This will improve    the extent and quality of educational
+      programming,   will enhance   the use of cable as a public
+      facility by improving the quality and extent of regional
+      interconnect   services  and will improve   local and county-
+      wide communication    services.
+
+      The subject  request would place the cable communications
+      site at a location that will have a minimum impact on
+      surrounding  land uses and will provide a buffer to facili-
+      tate an efficient   transition from rural to urban land uses.
+
+      No development would occur within the floodplain and vege-
+      tation adjacent to the river would not be disturbed with
+      construction of the cable communications site.
+
+      The     amount    of       agricultural        land     to    be    taken   out   of    produc-—
+      tion     is   minimal,        cannot     be    efficiently           utilized     and    is    not
+      currently        in    production.
+
+      The proposed property is of an adequate  size and shape  for
+      a cable communications  site and streets will adequately
+      serve the type of traffic that will be generated by such
+      use.                       a
+
+      The proposed use is consistent with the purpose        of the PWws
+      District  as set forth in Section    804 and is also listed
+      as a permitted use in that District.       The site profile   sketch
+      submitted by the applicant    demonstrates    compliance with the
+      standards   of the PWS District.
+
+      The applicant has demonstrated that there is an existing need
+      for the proposed use in that:    (a) Liberty has experienced
+      problems with signal interference    at the existing cable com-
+      munications  site in Newberg;  (b) Liberty's   service  area has
+      expanded with the award of recent franchises     and the proposed
+      cable communications  site outside of Dayton would provide New-
+      berg,     Dayton,          Dundee,     Lafayette        and       McMinnville     with    the    best
+      available signal;   (c) By utilizing    the                          subject  site, Liberty
+      would be able to dramatically     increase                           incoming and outgoing
+      access programming,    thus improving   the                          diversity of its ser-
+      vices to Yamhill County residents;      and                          (d) There are no other
+      cable     communication              sites    located        in    the   area.    The    use    is   a
+      consequence           of    technological   change                which could not have           been
+      anticipated           by    designating   sites  in               advance of need.
+
+      The proposed    zone change to PWS is timely in that the addition
+      of the Dayton,     Lafayette   and McMinnville     franchises   have given
+      Liberty the opportunity      to plan on a regional       scale.    A new
+      communications     site would be required to serve the McMinnville
+      franchise   area,   and Liberty wanted to improve the quality           of
+      signal to the other cities        served.    Liberty tested the signal
+      quality at several      alternative    sites prior to selecting the
+      Dayton  site as the preferred       alternative.     McMinnville must
+      receive   service by the summer of 1983 under the terms            of the
+      franchise   agreement;    therefore,    it is necessary     for Liberty to
+      pursue a plan amendment/zone        change without delay.
+
+      There are no other lands currently     zoned PWS which are
+      available to accommodate    the proposed use in that Yamhill
+      County does not zone land PWS in advance of a specific
+      development proposal.    Zone changes to PWS are evaluated
+      on a site specific basis for compatibility with the Com-
+      prehensive  Plan and adjacent development patterns.
+                                            EXHIBIT       "'B"
+                   COMPREHENSIVE PLAN AMENDMENT ADOPTED
+                                                         BY THE
+                      YAMHILL COUNTY BOARD OF COMMISSIONERS
+                                            May    4,    1983
+                   TO    CHANGE    THE. COMPREHENSIVPLAN
+                                                    E:                    DESIGNATION
+                        FROM    "Residential"       TO    "Public        Facility"
+                                              and
+                           TO   CHANGE THE OFFICIAL ZONING                  MAP
+                                    FROM "EF-40" TO "pws"
+
+            Applicant:            Liberty     Communications,              Inc.
+            Address:              P.O. Box        409
+                                  Newberg,        OR 97132
+            Phone:                538-7480
+            Tax!   Lower          4316-1300
+            Docket       No:      PA-124-83/Z-233-83
+
+                                                                 Total     Holding
+
+                                      66 eee eo el               Urban     Growth     Boundary
+
+                                      legsusaeageuoas            City     Limits
+
+                                                                 Change     applies  to shaded   portion
+                                                                 of Tax     Lot 4316-1300
+
+                                                                                  43/6-/200
+
+CITY   OF    DAYTON
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.2% of
+the word sequence, and on 79.9% of the figures. Dictionary-recognizable words: 90.3%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

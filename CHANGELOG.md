@@ -4,6 +4,24 @@ Keep a Changelog format; ISO dates. Change types: Added, Source-Updated,
 Superseded, Repealed, Removed, Verified, Fixed, Security.
 Repo-curation dates only — official effective dates live in frontmatter.
 
+## [Unreleased] — Yamhill and Curry recovered
+
+### Added
+- **380 more scans recovered** (95% of 400 candidates): Yamhill 324, Curry 56. Corpus now
+  **3,335 documents across 27 counties, 598 OCR-derived**, with 9,704 edges and 1,526
+  documents citing state law.
+- Yamhill 147 -> 497; its full 360-ordinance board record is now present rather than the 6%
+  that happened to carry a text layer.
+- Curry 2 -> 63; its entire county code, previously a complete blank.
+
+### Notes
+- Both families had been SKIPPED on the reasoning that publishing the readable minority would
+  show an arbitrary, era-shaped slice of a countable set. That was correct when the choice
+  was 6% or nothing; `ocr_recover.py` removed the trade-off, and the profiles now say so
+  rather than carrying stale reasoning.
+- 15 rejections (11 below the agreement bar, 4 under 100 words) and 6 fetch failures. Nothing
+  was promoted that failed a gate.
+
 ## [Unreleased] — OCR recovery
 
 ### Added

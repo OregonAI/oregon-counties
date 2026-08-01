@@ -1,0 +1,2162 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord650-pdf
+title: 'ORD650-PDF'
+doc_type: ordinance
+citation: 'ORD650-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17571/ORD650-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 72e75dddb7fd3252a8f3a0dd8ee227f6b0b7a0b33a4f7d59b3432e0a04ddcb6f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.988; figure agreement 0.881; dictionary ratio 0.957. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.732
+    - ORS 197.763
+    - ORS 215.422
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD650-PDF (ORD650-PDF)
+
+## At a glance
+
+OCR-derived text of ORD650-PDF. Not human-verified.
+
+## Full text
+
+.    can 7      wo
+                                                                        5B WG-4 P4 25
+      FILK    04     me   Ole
+
+             IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                                FOR THE COUNTY OF YAMHILL
+
+                   SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of an Ordinance Amending the
+Official Zoning Map from MR-2 (Mineral/Resource
+District) to HI (Heavy Industrial District)
+on a portion of a 20 Acre Tract Known as Tax Lot                       ORDINANCE 650
+3230-100; Applicant Baker Rock Crushing Company;
+Planning Docket Z-01-98, SU-01-98; and Declaring an
+Emergency.
+
+       THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board)
+sat for the transaction of county business in special session on August 4, 1998, Commissioners
+Ted Lopuszynski, Robert Johnstone, and Thomas E.E. Bunn being present.
+
+       WHEREAS, on February 9, 1998, the Department of Planning and Development received
+an application by Baker Rock Crushing Company ("applicant"), Planning Docket Z-01-98, SU-01-
+98, and WRG-01-98 to change the Official Zoning Map from MR-2 (Mineral/Resource District
+to HI (Heavy Industrial District) on an approximately 18 acre portion of a 20 Acre Tract Known
+as Tax Lot 3230-100, and from PWS (Public Works/ Safety) to HI (Heavy Industrial District), on
+Tax Lot 3229-2700, to consider aggregate processing and an asphalt batch plant as similar to
+permitted uses in the HI district, and to approve a Willamette River Greenway permit to conduct
+the processing and batching within the Greenway; and
+
+       WHEREAS,           on March   5, 1998   and March   19, 1998,   the Yamhill County Planning
+Commission held a duly noticed public hearing to consider the application and thereafter voted 4-4
+on a motion to approve the application, and voted unanimously to forward the application to the
+Board:with no recommendation from the Planning Commission; and
+
+        WHEREAS, on June 11, 1998, the Board held a duly noticed public hearing to consider
+the matter, at which testimony and evidence was received, and the application for the Willamette
+River Greenway permit and the zone change request for Tax Lot 3229-2700 owned by the City
+of Newberg were both withdrawn, and the evidentiary record was left open until June 18, 1998
+for additional written testimony and evidence, until June 25, 1998 for rebuttal, and until June 30,
+1998 for final argument, at which time the evidentiary record was closed.       On July 2, 1998, the
+Board deliberated and voted unanimously to tentatively approve the application, as amended, with
+conditions, and directed staff to prepare an ordinance and findings for approval; and
+
+                                                                                      ORDINANCE 650
+                                                                                              Page 1
+                                                                                 BO. BR S93
+        un Od nec2L28
+
+              WHEREAS,         on July 30, 1998, pursuant to ORS 215.422(3), the Board reopened the
+oo,
+
+      evidentiary record, placed on the record the written and oral communications received by the Board
+      concerning their decision and announced the content of such communications and the participants’
+      right to rebut the substance of the communication at a special session of the Board on August 4,
+      1998.   On August 4, 1998, the Board held a duly notice hearing, disclosed certain additional alleged
+      ex parte contacts, and    accepted evidence and testimony limited to rebuttal of the substance of the
+      alleged ex parte contacts disclosed by the Board.
+
+              WHEREAS, the findings and conclusions attached hereto as Exhibit "A" and incorporated
+      herein by this reference provide justification for approval of the application for the amendment to
+      the Official Zoning Map of Yamhill County and the similar use determination, and that approval
+      thereof is in the best interests of the citizens of Yamhill County;    Now Therefore,
+
+              THE YAMHILL COUNTY BOARD OF COMMISSIONERS ORDAINS AS FOLLOWS:
+
+              Section 1. The Official Zoning Map of Yamhill County is hereby amended on the
+      approximately 18 acre portion of the 20 acre tract known as Tax Lot 3230-100 as specified in the
+      attached Exhibit "B" to reflect a zoning designation of "HI".
+
+              Section2. Aggregate processing and an asphalt batch plant is hereby determined to be
+      similar to permitted uses in the “HI” (Heavy Industrial) district.
+
+              Section 3. The findings attached as Exhibit "A" and incorporated herein by reference are
+      hereby adopted in support of this ordinance.
+
+              Section 4. A Limited Use Overlay is hereby applied to that portion of tax lot 3230-100 that
+      is rezoned to “HI” (Heavy Industrial). Under the Limited Use Overlay, permitted uses shall be
+      limited to those uses the applicant has described as being part of its proposal, which include the
+      installation of an asphalt batch plant, the on-site processing and storage of finished products and
+      materials necessary for the production of asphalt, and other uses incidental thereto. Under the
+      Limited Use Overlay to be applied to the site, all other uses listed as allowed in the Heavy Industrial
+      District under YCZO § 703.02 will only be allowed subject to established conditional use
+      procedures. In addition, the approval of the Limited Use Overlay shall be subject to the following
+      conditions:
+
+               1.     An application for site design review shall be submitted and approved by the county
+                      prior to any change in the type or scale of uses occurring on the parcel. As part of the
+                      site design review, the developer may be required to complete off-site road
+                      improvements if the city and county Public Works Directors determine that the roads
+                      that will be used to transport materials to and from the site are inadequate to handle
+                      the truck traffic generated by the use.
+
+              2.      All necessary DEQ permits shall be obtained for the asphalt batch plant.
+
+                                                                                            ORDINANCE 650
+                                                                                                    Page 2
+    rin G4 462429
+        3.       A floodplain development permit shall be obtained prior to any new development
+                 that will occur on portions of the parcel that are below 100 feet in elevation above sea
+                 level. Development includes grading, excavation, placement of fill material and
+                 structures,
+
+        4,       A Willamette River Greenway permit shall be obtained prior to any new development
+                 in the Greenway.
+
+        5.       Trucks used for transporting materials to and from the facility shall be required to use
+                 the existing truck route from the site via      14"   Street, River   Street,   11"   Street,
+                 Wynooski Road, and Highway 219, to the extent the route remains as a designated
+                 truck route.
+
+       Section 5 This ordinance being necessary for the health, safety, and welfare of the citizens
+of Yamhill County, and an emergency having been declared to exist, is effective upon passage.
+
+        DONE at McMinnville, Oregon, this 4" day of August, 1998.
+
+ATTEST                                   YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+                                            i
+                                         Chaifman                (4D LOPYSZYNSKI
+
+                                             “elas
+                                                Oph aL JOHNSTONE
+                                         Commissioner
+                                               (aa
+                                                       Gna
+
+JOHN C. PINKSTAFF
+                                          TV howo-£.£.THOMAS
+                                         Commissioner
+                                                          Burn—
+                                                             E.E. BUNN
+Assistant County Counsel
+
+H:\ADMIN\PINKSTS\LU\z198
+
+                                                                                         ORDINANCE 650
+                                                                                                       Page 3
+run OA re2430
+                                         EXHIBIT “A”
+                                       ORDINANCE 650
+                                  FINDINGS FOR APPROVAL
+                              ZONE MAP CHANGE APPLICATION
+                             BAKER ROCK CRUSHING COMPANY
+                                     DOCKET NO. Z-01-98
+
+Type of Application:
+
+The applicant, Baker Rock Crushing Company, is seeking a zone map change for most of its property,
+tax lot 3230-100. The property is currently zoned “Mineral Resource-2” (MR-2), and the applicant
+has requested that the property be zoned “Heavy Industrial” (HI).
+
+Under the applicant’s proposal, the southeast corner of tax lot 3230-100 would retain its current
+zoning to accommodate plans for expansion of Roger’s Landing Marine Park. The area that would
+remain in MR-2 zoning extends +350 feet west from the eastern boundary of tax lot 3230-100, which
+abuts Roger’s Landing Marine Park. Zoning of this corner would remain MR-2, because parks are
+conditionally allowed in the MR district, but not in the HI district.
+
+The applicant has indicated a willingness to lease, or otherwise make available, approximately one
+acre of riverfront property in this area to the county for park purposes, under terms to be negotiated.
+The applicant has also requested that the county determine that an asphalt batch plant is a heavy
+industrial use, similar to other allowed heavy industrial uses. The applicant intends to place an asphalt
+batch plant on the property, following site design review.
+
+The City of Newberg was originally part of this application, and agreed to allow installation of the
+batch plant on tax lot 3229-2700, which the city owns and which is adjacent to the applicant’s parcel.
+Tax lot 3229-2700 was the site of the city’s wastewater treatment plant, is currently zoned “Public
+Works/Safety” (PWS) and is being used by the city as a fill disposal area.
+
+Based on the City’s consent, the applicant originally requested that tax lot 3229-2700 be rezoned from
+PWS to HI, and that the county issue a Willamette River Greenway permit to allow installation of the
+plant within the greenway on tax lot 3229-2700. The City has since testified that it is opposed to the
+rezoning of its property and to the issuance of a greenway permit. Based on the city’s objections, the
+applicant withdrew its request for a greenway permit on June 25, 1998. On July 2, 1998, the Board
+of Commissioners indicated that it was prepared to deny the request for rezoning of tax lot 3229-2700,
+because it appeared that the City had implicitly withdrawn its consent, and the applicant had no
+objection. The County has therefore denied the request to rezone tax lot 3229-2700, and also treats
+the actions of the City of Newberg and the applicant as a stipulated withdrawal of the request to rezone
+tax lot 3229-2700.
+
+                                                                                   EXHIBIT “A” - Page 1
+                                                                                      ORDINANCE 650
+FILE      64.   PACE 2131
+
+The City’s consent to a zone change and issuance of a greenway permit for tax lot 3229-2700 was
+originally part of an arrangement between the City, the applicant, and Yamhill County, to facilitate
+expansion and improvement of Roger’s Landing Marine Park. Even though the City of Newberg has
+withdrawn its support for the original “land swap” arrangement, the applicant has stated that it remains
+committed to facilitating park expansion onto its land.
+
+Justification for Request:
+
+A.     Background Facts:
+
+Tax lot:                    3230-100
+
+Applicant:                  Baker Rock Crushing Company
+
+Owner:                      Hard Rock Enterprises
+
+Parcel Size:             +t 20.18 acres
+
+Parcel Location:            At the corer of 14th Street and Waterfront Street, south of the City of
+                         Newberg, on the Willamette River.
+
+Parcel Zoning:              County zone designation: “Mineral Resource” (MR-2) City of Newberg
+                            Comprehensive    Plan   Designation: “Industrial” (1). The Newberg
+                         Comprehensive Plan Map designation applies to this application, as described
+                         under “Applicable Review Criteria,” below. Part of the parcel is within the
+                         Willamette River Greenway and Floodplain Overlay District.
+
+Access:                     Fourteenth Street and Waterfront Streets. The existing access driveway is on
+                            Fourteenth Street, near College Street.
+
+On-Site Land Use:      Aggregate Processing Activities. The riverfront is developed with a dock and
+dolphin to allow the mooring of barges and the unloading of aggregate from the Willamette River and
+other facilities located along the river, which is then stockpiled on the southern end of the property
+near the river. At times, there has been a conveyor near the river for unloading barges and loading
+trucks.    Rock crushing and processing are currently allowed uses of the property.
+
+In the northwest corner of the property, above the floodplain, there are storage buildings and a truck
+scale. The site is fenced. There is also an indeterminant riparian area through the middle of the site,
+which includes a stream and several large ponds. The applicant has maintained these ponds and
+surrounding vegetation, and has proposed dedicating this natural area to public uses through a
+conservation/trail easement, which would connect Roger’s Landing Marine Park to other publicly
+owned land south of the applicant’s parcel.
+
+                                                                                   EXHIBIT “A” - Page 2
+                                                                                      ORDINANCE 650
+                                                                                  aun 64 nr2dd2
+Surrounding Planning, Zoning and Land Use:               Tax Lot 3230-100 is within and completely
+surrounded by an area plan designated “Industrial” in the Newberg Comprehensive Plan.                  The
+boundary of the designated “Industrial” area is approximately 1500 feet at its closest location from the
+western boundary of the parcel, more than 300 feet from its closest point to the northern boundary
+of the property, and up to approximately 600 feet from the northern boundary. The area to the
+southwest of the property is also plan designated “Industrial,” and includes the now closed Newberg
+Landfill. All land to the east of the property is also plan designated “Industrial.” This area includes:
+1) two parcels owned by the City of Newberg; 2) Roger’s Landing Marine Park (which is owned by
+Smurfit Corporation and leased to Yamhill County); and 3) the Smurfit paper mill, an existing, 145
+acre heavy industrial use. Roger’s Landing is zoned AF-20. It contains parking lots, a boat ramp, and
+a water intake structure maintained by Smurfit Corporation. The park is surrounded on its northern
+and eastern border by the Smurfit Mill.
+
+Of the two city parcels, tax lot 3229-2700 was originally part of this application. Tax lot 3229-2700
+is situated at the base of a bluff along 14th Street, at the corner of 14th Street and River Street. It was
+once a wastewater treatment plant; is currently zoned “Public Works/Safety;” has no vegetation; and
+is currently being used by the City of Newberg as a fill area for waste soil, pavement, rocks and other
+materials. The southernmost of the two city parcels (Tax Lot 3229-2800) is vacant and contains
+almost no vegetation. It is also zoned “Public Works/Safety.”
+
+To the south, the subject parcel abuts the Willamette River and the now closed Newberg Landfill,
+which is owned by Yamhill County. The closed landfill will be subject to post-closure monitoring
+activities for the next 50-60 years, but is otherwise a vacant, grassy hill with vegetated riparian areas
+that are subject to annual flooding.    To the west, on the eastern side of Waterfront Street, are two
+parcels containing dwellings. One of the dwellings is in a dilapidated condition and appears vacant.
+There are other residences on Waterfront Street. This area is zoned “Very Low Density Residential,”
+5 acre minimum (VLDR-5), and as stated, is plan designated “Industrial” by the City of Newberg. The
+dwellings in this area are separated from the existing structures on the applicant’s parcel by vegetation
+and topography.
+
+To the north is 14th Street, and across 14th Street is vacant land, including two approximately one acre
+vacant lots, and two lots owned by Smurfit Corporation totaling + 6.8 acres. These parcels are zoned
+Agriculture/Forestry, 10 acre minimum (AF-10), and plan designated “Industrial” by the City of
+Newberg. Just north of these lots is a railroad track, and the City Limits of Newberg. Just inside city
+limits, apartments have been constructed. A portion of the upper story of some of the apartments and
+the back wall of the apartment garages can be seen across the Smurfit property, when standing along
+14th street on the subject parcel.
+
+Water:                  Buildings on Tax Lot 3230-100 are serviced by the City of Newberg.
+                        River water is used for rock processing operations.
+
+Sewage Disposal:        There is an on-site septic system serving the office located on the parcel. No
+                        additional sewage disposal is required for the proposed use.
+
+                                                                                     EXHIBIT “A” - Page 3
+                                                                                        ORDINANCE 6506
+                                                                                     ius B4 rc2433
+Fire Protection:       Newberg Rural Fire Protection District
+
+Previous Actions:      1973: Conditional use      approval   for   sand   and   gravel   stockpiling   and
+                       processing (C-93-73).
+
+                       1976:   Zoning changed to MR (Z-89-76).
+
+                       1980:   Floodplain development permit, greenway permit and conditional use
+                               approval for placement of a portable concrete batching plant (C-387-
+                               80, CFP-18-80),
+
+                       1991:   Approval to alter the conditional use to relocate office, portable scales
+                               and access road.
+
+B.   Applicable Review Criteria
+
+1.   The request is to rezone all of tax lot 3230-100 from Mineral Resource (MR-2) to Heavy
+Industrial (HI), except for the southeast corner, which would remain MR-2 to accommodate expansion
+of Roger’s Landing Marine Park. The applicant is also requesting a determination that operation of
+an asphalt batching facility is similar to other heavy industrial uses, and would be an allowed use in
+the heavy industrial zone.
+2. For the requested zone change, the applicable review criteria are found in Yamhill County
+Zoning Ordinance (YCZO) § 1208.02, which reads as follows:
+        “1208.02 Review Criteria.
+       A quasi-judicial change to a zoning map may be authorized, pursuant to Subsection
+       1208.01, provided that the request satisfies all applicable requirements of this
+       ordinance, and also provided that the applicant demonstrates compliance with the
+       following criteria, except as provided in Subsection 1208.03:
+       A.      The proposed change is consistent with the goals, policies and any other
+       applicable provisions of the Comprehensive Plan.
+       B.      There is an existing, demonstrable need for the particular uses allowed by the
+       requested zone, considering the importance of such uses to the citizenry or the
+       economy of the area, the existing market demand which such uses will satisfv, and the
+       availability and location of other lands so zoned and their suitability for the uses
+       allowed by the zone.
+       C       The proposed change is appropriate considering the surrounding land uses,
+       the density and pattern of development in the area, any changes which may have
+       occurred in the vicinity to support the proposed amendment and the availability of
+       utilities and services likely to be needed by the anticipated uses in the proposed
+       district.
+       D.      Other lands in the County already designated for the proposed uses are either
+
+                                                                                   EXHIBIT “A” - Page 4
+                                                                                      ORDINANCE 650
+                                                                                           uk O4 nce2134
+        unavailable or not as well-suited for the anticipated uses due to location, size or other
+       factors.
+       E.          The amendment is consistent with the current Oregon Administrative Rules for
+           exceptions, if applicable. ”
+3.         For the similar use determination, YCZO § 703.04 states:
+                   “Any use not specifically listed as a permitted use in this district that
+                   is similar in character, scale and performance to the permitted uses
+                   specified in subsection 703.02, may be allowed as a similar use subject
+                   to the provisions of Section 1206, and pursuant to the Type A
+                   application procedure set forth in Section 1301.”
+           3.1     The permitted uses listed in § 703.02 are as follows:
+                   ‘A,     Grain elevators, feed mills and seed cleaning plants;
+                   B.      Manufacture of forest products, including sawmills, planing
+                   mills, plywood and particle board plants and pulp and paper mills;
+                  Cc.     Auto wrecking yards;
+                  D.       Animal slaughtering, meat-packing and rendering plants;
+                  &.       Facilities for the processing or production of oil, natural gas,
+                  geothermal resources or other hydrocarbons;
+
+                  F.       Manufacture    of clay products,   brick,   tile and cement     and
+                   including mining of materials used in production;
+                   G.      Outdoor storage of raw materials            or finished products
+                   associated with any permitted use;
+                  Hi.      Temporary structures as may be required during construction
+                   of an authorized permanent structure. Such temporary structure shall
+                   be removed upon final inspection of the permanent structure by the
+                  Building Inspector;
+                  L        Community or municipal water supply system;
+                  J.       Community or municipal sewer system; and
+                   K.      Signs, pursuant to the sign provisions set forth in Section 1000.
+                  L.      Dwelling for caretaker or watchman in conjunction with
+                  permitted use. If a dwelling is a mobile home it shall, in addition to the
+                   requirements of this section, also be subject to the mobile home
+                   standards set forth in Section 1002.”
+           3.2‘    The criteria for reviewing a similar use request are listed in YCZO             § 1206, as
+follows:
+                   ‘1206.01 Purpose and Scope.
+
+                                                                                         EXHIBIT “A” - Page 5
+                                                                                            ORDINANCE 650
+                                                                                      rie 64 rce2435
+
+               The purpose of this section is to provide for those uses not specifically
+               listed in a particular zoning district but which are similar in character,
+               scale and performance to the permitted uses specified therein. Those
+               zoning districts in which a similar use may be authorized are:
+                                                  OR
+
+               G.      Heavy Industrial (HI)
+
+               1206.02 Review Criteria.
+          A similar use may be authorized pursuant to subsection 1206.01 above and
+          subject to the Type A application procedure set forth in Section 1301 and
+          provided that the applicant demonstrates that the proposed use satisfies the
+          following criteria:
+          A,   The use is consistent with the purpose and scope set forth in subsection
+          1206.01 and with the purpose of the underlying zoning district; and
+          B. The use conforms with the applicable standards and limitations of the
+          underlying zoning district.”
+         3.3. The “applicable standards and limitations” of the heavy industrial district are
+listed in YCZO § 703.07, as follows:
+           ‘In the HI District, the following standards and limitations shall apply:
+          A,   Parcel Size and Dimensions.
+          1.   Minimum Parcel Size. The minimum parcel size for any use shall be two
+          (2) acres.
+          2. Depth-to-Width Ratio. The maximum depth-to-width ratio for any newly-
+          created parcel shall be 3:1.
+          B.   Setbacks.
+          The minimum setback for all yards shall be thirty (30) feet for all uses, and
+          except five (3) feet for all yards for signs, and except as provided for accessory
+          uses in subsection 703.07(6).
+          C. Parcel Coverage.
+          The maximum parcel coverage shall be appropriate to the use, subject to
+          Section 1101 for site design review.
+          D. Access.
+          Before a principal use may be established on any parcel as provided in this
+          section, the parcel shall have a legal, safe and passable means of access by
+          abutting at least twenty (20) feet either directly upon a public road, or by a
+          private easement which is at least thirty (30) feet in width for its entire length
+          and which also abuts upon a public road for at least thirty (30) feet. Nothing
+
+                                                                                    EXHIBIT “A” - Page 6
+                                                                                       ORDINANCE 650
+                                                                                un OA ee2136
+
+   in this section shall be construed to vary or waive the requirements for
+   creation of new access contained in any Land Division Ordinance legally
+   adopted by Yamhill County.
+   E. Clear-Vision Areas.
+  A clear-vision area shail be maintained on the corner of any parcel at the
+  intersection of any two of the following: county roads; public roads; private
+  roads serving four or more parcels; and railroads. A clear-vision area shall
+  contain no sight-obscuring structures or plantings exceeding thirty (30) inches
+  in height within a triangle formed by the lot corner nearest the intersection,
+  and the two points twenty (20) feet from this corner as measured along the
+  parcel lines adjacent to the intersecting rights-of-way. Trees exceeding this
+  height may be located such that their branches extend into this triangle,
+  provided they are maintained to allow at least twelve (12) feet of visual
+  clearance within the triangle below the lowest hanging branches.
+   F. Height.
+   1, The maximum building height for all structures shall be sixty (60) feet; and
+   2, Appurtenances usually required to be placed above the roof level and not
+   intended for human occupancy such as spires, belfries, cupolas, antennas,
+   water tanks, ventilators, chimneys and wind generators are not subject to the
+   height limitations of this ordinance.
+   G. Accessory uses.
+  An accessory use shall comply with the standards and limitations for principal
+   uses except as follows:
+   1. Structures.
+   a. No separate accessory structure shall be erected within ten (10) feet of any
+   other building on the same parcel.
+  b. An accessory structure not more than fifteen (15) feet in height, at least sixty
+  (60) feet from a road, and at least ten (10) feet from any dwelling, may be
+  located a minimum distance of three (3) feet from the property line in a side
+  yard or rear yard.
+   2. Fences, Walls and Hedges.
+   Fences, walls and hedges may be permitted in any required yard or along the
+   edge of any yard, subject to the clear-vision requirements of subsection
+   703.07(B).
+   Al. Off-street Parking.
+   Off-street parking and loading requirements for any use in the HI District shall
+   be as provided in Section 1007.”
+Applicable Plan Map Designation.           The Newberg Urban Area Growth Management
+
+                                                                           EXHIBIT “A” - Page 7
+                                                                               ORDINANCE 650
+                                                                                                  rik 64 nce2L37
+     Agreement, (“Management Agreement” or “Agreement") dated July 2, 1979, is applicable to this
+     approval because the parcel in question is outside of the Newberg City Limits, and within the
+     Newberg Urban Growth Boundary (UGB). Under the terms of the Agreement, zone changes outside
+     Newberg City Limits but within the Newberg UGB are to be processed by Yamhill County. (p. 6)
+     Under the same agreement, the Newberg Comprehensive Plan Map, also adopted July 2, 1979, is the
+     applicable plan map for the area within the Newberg Urban Growth Boundary. The Management
+     Agreement provides procedural requirements that have been complied with in reviewing this
+     application, but does not include approval criteria relevant to this application.
+     When making a land use decision concerning property within the Agreement area, it is the county’s
+     responsibility to interpret the Agreement, and to make all interpretations of law related to the County’s
+     decision, The City retains its advisory function, under the procedures outlined in the agreement. The
+     County interprets the Management Agreement to require only that the County apply City of Newberg
+     plan map designations within the Newberg UGB. Other County interpretations of the Agreement and
+     law applicable to this application are as outlined in these findings.
+     Cc.      Findings and Conclusions for Approval
+
+     The applicant has demonstrated compliance with the applicable criteria of the Yamhill County
+     Comprehensive Plan and Zoning Ordinance, as detailed in these findings. The record of these
+     proceedings provides the factual basis for approval.
+     1.       Zoning Map Amendment
+             11      The applicant has requested a zone change to allow installation of a permanent asphalt
+     batching facility on tax lot 3230-100. The applicant has current authority to conduct rock crushing
+aN
+
+     and processing on tax lot 3230-100.
+             1.2     YCZO § 1208.02(A) requires that the County find that: ‘The proposed change is
+     consistent with the goals, policies and any other applicable provisions of the Comprehensive Plan.”
+                      1.2.1    The county finds that the goals and policies specified in this section are
+     applicable to this approval, and that no other goals, policies or other provisions are applicable. The
+     county has not identified any comprehensive plan goals or policies that are approval criteria. The
+     goals and policies discussed in these findings below are aspirational and help to establish the context
+     for decision making by the county.
+                      1.2.2 The Goals and Policies of the Newberg Comprehensive Plan are not applicable
+     to this application. Under the terms of the Newberg Urban Area Growth Management Agreement,
+     only the Planning Map designations of the Newberg Plan are relevant to this application. No plan map
+     amendments are being requested by the applicant, and the proposed industrial zoning and use of the
+     subject parcel is consistent with the City’s designation of the land as “Industrial” in its comprehensive
+     plan. Indeed, under the City’s comprehensive plan, designation of the subject parcel as “Heavy
+     Industrial” is more appropriate than its current zoning. The City’s plan states that “Heavy industrial
+     uses should be located in the area near Smurfit Newsprint, an existing pulp and paper mill.” Both of
+     the subject parcels are located in close proximity to the Smurfit mill.
+
+           ' City of Newberg, “Comprehensive Plan Text Ordinance 1967 (7/2/79) (Last amended 11/4/96) p. 49.
+
+                                                                                              EXHIBIT “A” - Page 8
+                                                                                                  ORDINANCE 650
+                                                                                           fix 64 ine2138
+
+               1.2.3    Yamhill County Comprehensive Planning Goal § 1.H.1 states that the
+county will strive:
+        ‘To concentrate industries of similar types, service needs, and performance
+        characteristics within designated areas of each of the existing urban centers; to
+        encourage adequate land for new industrial development within urban growth
+        boundaries,    to encourage the relocation of existing industries from          undesirable
+        locations   in order   to eliminate   land use   conflicts;   to attract new   industries   in
+        accordance with the need to achieve a more balanced local property tax and
+        employment base, while maintaining a high standard of environmental quality; and
+        to protect the stability and functional aspect of industrial areas by protecting them
+        Jrom incompatible uses.”
+The proposed use promotes this goal. It is an industrial use that will be located in an area that has long
+been plan designated for industrial use by the City of Newberg, and is within an urban growth
+boundary near other industrial uses. The facility is of recent design, meets or can be conditioned to
+meet all applicable environmental requirements, and will be required by the Oregon Department of
+Environmental Quality (DEQ) to continue meeting those requirements. Because the site is designed
+to receive aggregate by existing river and road transportation networks, conforming the zoning of the
+site to its plan designation will help to maintain the functionality and stability of the area for industrial
+uses.
+                1.2.4 Yamhill County Comprehensive Plan Policy § 1.H.1.a. states:
+        ‘Heavy industrial uses with seasonal or high nuisance characteristics will be
+        encouraged to locate or relocate only in or immediately adjacent to urban areas where
+        all required services are available, well removed and shielded from existing or
+        projected residential development; and conversely, that prime heavy industrial sites
+        will be identified and protected from encroachment of other urban uses pending
+        acquisition and development.”
+                         1.2.4.1 An asphalt batching facility is a heavy industrial use. During normal
+business hours the site will produce truck noise that is consistent with other common industrial
+operations. Particulates and gasses at the facility will be controlled by a bag house and other pollution
+control equipment. Proper design and operation of the facility will ensure compliance with all DEQ
+permits. The proposed use has lower nuisance characteristics than the rock crushing uses that are
+currently allowed on the subject parcel. The facility would be located immediately adjacent to an
+urban area, where all required services, such as water, electricity, roads, and river access are available.
+The proposed facility site along 14th street is isolated from the river and from Roger’s Landing
+Marine Park. At that location, the facility would be separated from the nearest residential area to the
+north by a road, a railroad, and at least 260 feet of vacant land that is plan-designated for industrial
+uses by the City of Newberg, zoned AF-10 by the county, and owned by Smurfit Corporation.
+Buffering will be further enhanced by the 30 foot setback required in the heavy industrial zone, and
+by vegetative and other screening that can be required through site design review. As stated, the
+proposed use would be in an area that has long been plan designated and used for industrial uses. Site
+design review and setbacks ensure that the facility will be separated from neighboring uses and
+shielded from them to a level sufficient to prevent conflicts. The site, in close proximity to the city’s
+
+                                                                                       EXHIBIT “A” - Page 9
+                                                                                          ORDINANCE 650
+                                                                                         rik 64 2439
+other heavy industrial sites and containing the only river barge access in the city of Newberg, is
+considered a prime heavy industrial site. Heavy industrial uses located on tax lot 3230-100 would be
+located in or adjacent to an urban area where all required services are available, and would be well
+removed and shielded from existing or projected residential development.
+                        1.2.4.2   As discussed in other findings herein, substantial evidence in the
+record as a whole establishes that streets in the area are adequate for truck traffic anticipated to be
+generated by the proposed use of the site. The site appears to have adequate storm drainage, and to
+the extent additional storm drainage facilities or design is necessary, such facilities or design can be
+provided on site, and required as part of site design review.
+                        1.2.4.3.  The county interprets Comprehensive Plan Policy § 1-E.1.a to
+encourage siting of heavy industrial uses in areas-where all services that are needed for the proposed
+use are available. There is substantial evidence in the record as a whole that all services the applicant
+requires for its proposed use are currently available to the site, and that no additional services will be
+required.
+                1.2.5 Yamhill County Comprehensive Plan Policy § 1.H.1.b. states:
+                ‘To the greatest extent possible, industrial areas will be located within
+                urban growth boundaries. Those industrial areas located outside
+                urban growth boundaries will be compatible with the industrial
+                development goal and will be located where they can be adequately
+                served by necessary major utility lines,       including electric power
+                substations, and transmission lines, trunk sewer lines, trunk water
+                lines, and where appropriate, trunk gas lines.”
+
+The proposal promotes this policy because it would occur within the Newberg Urban Growth
+Boundary.
+                1.2.6 Yamhill County Comprehensive Plan Policy § 1.H.1.e. states:
+                ‘Industrial uses will be located so that adequate buffer space is
+               provided between incompatible land uses.”
+                        1.2.6.1 In the vicinity of the proposal is the largest heavy industrial facility in
+Yamhill County,    a County Marine Park, and scattered housing. As stated, there are apartments to the
+north, within the City of Newberg.
+                        1.2.6.2   Buffering for the proposed facility site is provided as specified in
+finding 1.2.4 and is adequate to meet this policy.     There is substantial evidence in the record as a
+whole that neighboring heavy industrial uses are not incompatible with uses at Roger’s Landing
+Marine Park, including letters from the Yamhill County Parks Division and the Director of the Oregon
+State Marine Board. The storage and transport uses that will continue to be made of the portion of
+tax lot 3230-100 located near the dock have occurred for many years, and are not incompatible with
+uses of Roger’s Landing. The park has existed for many years in the shadow of the Smurfit pulp and
+paper mill, and has been compatible with that operation, which exceeds by many orders of magnitude
+the applicant’s proposal.   The county is working to expand the park onto a part of the applicant’s
+property, and closer to existing industrial-type operations on the property, suggesting that the uses
+being made of the park are compatible with nearby industrial operations. Park use is greater in
+
+                                                                                   EXHIBIT “A” - Page 10
+                                                                                       ORDINANCE 650
+                                                                                       rus O4 er2L40
+evenings and on weekends, and park users usually launch their boats from the park for travel to other
+parts of the river. Existing buffering, stringent state and federal pollution control requirements that
+would apply to operation of the proposed facility, and additional buffering that could be required
+through site design review, all contribute to the adequacy of buffering in compliance with this policy.
+                1.2.7 Yamhill County Comprehensive Plan Policy § 1.H.(g) states:
+                ‘Agricultural, forestry and mineral resource-oriented industry will be
+                accommodated in areas close to the resources utilized, provided that
+               such    industrial   uses   are   compatible   with   any   nearby   urban
+                development, city water supply and sewerage are not required, and
+                waste discharges constitute no threat to the environment.”
+Asphalt production is a “mineral resource-oriented industry.” The applicant intends to obtain materials
+by truck, but to also utilize barges and the existing docking/unloading facility on tax lot 3230-100.
+The applicant owns and operates a sand and gravel extraction site on the Willamette at river mile 65
+in St. Paul, purchases aggregate from a facility on the river in Wilsonville, and has permits for
+removal of aggregate from the river. The applicant’s barge facility on tax lot 3230-100 puts it in close
+proximity to those resources. The applicant has rights to use river water for processing activities, and
+does not need city water or sewer service, other than the facilities that are currently located on or
+available to tax lot 3230-100. No runoff or sewage will be discharged to the river, and air discharges
+will fully comply with all state and federal requirements and will not constitute a threat to the
+environment. The applicant has demonstrated compatibility of the proposal with nearby urban
+development as described throughout these findings, and consistency with Plan Policy § 1.H.(g).
+The applicant has demonstrated that the proposed change is consistent with the goals, policies and
+applicable provisions of the Comprehensive Plan.
+
+        1.3 YCZO § 1208.02(B) requires that the County find that:
+        “There is an existing, demonstrable need for the particular uses allowed by the
+        requested zone, considering the importance of such uses to the citizenry or the
+        economy of the area, the existing market demand which such uses will satisfy, and
+        the availability and location of other lands so zoned and their suitability for the uses
+        allowed by the zone.”
+         1.3.1 In addressing this finding, the County considers the Newberg area, including the urban
+and urbanizable land within the Newberg Urban Growth Boundary, to be the relevant area for
+analysis. This approach is reasonable, considering that 1) the use is an urban, heavy industrial use;
+2)   the use will be located with the Newberg UGB, in an area that            has been plan designated
+“Industrial” by the City of Newberg based on the city’s perceived present and future need for industrial
+zoned land; 3) the applicant has stated that its primary market for products from its proposed facility
+will be the area within the Newberg UGB (although it will also be able to serve rural Yamhill County
+and other nearby cities).
+
+                                                                                    EXHIBIT “A” - Page 11
+                                                                                        ORDINANCE 650
+                                                                                              FILE   b4   PACE 214i
+
+        1.3.2 There is an existing, demonstrable need for heavy industry in the Newberg area.? Heavy
+industry provides jobs, and is an important component of a diversified economy. Yamhill County is
+largely rural, and industrial areas outside of urban growth boundaries in the county are exceedingly
+scarce. Land within urban growth boundaries is the appropriate place for industrial uses. Within the
+City of Newberg, there are only two parcels zoned for heavy industrial uses. One is part of the
+Smurfit Mill, and the other is the City’s wastewater treatment plant. Neither is available--both are part
+of developed and fully operational facilities.
+      1.3.3 There are no undeveloped sites zoned for heavy industrial uses outside of the Newberg
+UGB in close proximity to the UGB boundary.
+        1.3.4 Within the Newberg UGB, there is only one site zoned heavy industrial by the county
+that is not currently developed.. That site is a collection of tax lots containing at most 4-5 acres of
+developable land, next to the Smurfit wastewater treatment facility.           It is not on the market, and is
+reportedly being retained by Smurfit Corporation as a reserve for future wastewater treatment uses.
+It is not “available” for the proposed use. At any rate, the existence of one alternative site zoned for
+heavy industrial uses cannot be deemed to satisfy an existing need or market demand for heavy
+industrial land--it gives the applicant and others wishing to develop heavy industrial uses only one
+choice. The Smurfit site is also not as well-suited for the anticipated use (and other heavy industrial
+uses) because it has no barge access. In order to fully use the Smurfit site, the applicant would need
+to truck aggregate from the subject parcel, (which is currently zoned for mineral aggregate uses
+including rock crushing), through the same truck route the applicant now proposes to use. If the
+applicant’s zone change request is denied, tax lot 3230-100 would continue to be zoned for mineral
+aggregate uses, and use by the applicant of the Smurfit site for a batch plant would increase the
+impacts on the neighborhood along the truck route.
+        1.3.5 In its comprehensive plan, the City of Newberg has identified a need for industrially
+zoned land. Table [V-9° to the city’s Comprehensive Plan Text shows that the need for industrial land
+in the City of Newberg is rising from 490 acres needed in 1990, to 730 acres needed in the year 2000,
+and 1,087 acres in the year 2010. Table IV-1 of the plan shows that the city has justified the need for
+the amount of land it has plan designated “Industrial” within its urban growth boundary.‘ The City’s
+plan demonstrates that there is an existing, demonstrable need for industrially zoned land within the
+Newberg UGB, considering market demand, the location of other industrially zoned lands, and the
+suitability of available lands.
+        1.3.6 There is a need for asphalt in the Newberg area. Asphalt is used for new roads, road
+repairs and reconstruction, driveways, parking areas and other uses, and is important to the citizenry.
+The applicant has estimated that there is a market for approximately 48,000 tons of asphalt yearly in
+the Newberg area. There are also significant markets for asphalt in other nearby Yamhill County
+cities and in rural Yamhill County, and all of these markets are expanding as the population of
+Newberg and Yamhill County grows. Between 1990 and 1997, Yamhill County grew by 13,649
+people, to its current population of 79,200, a growth rate of 20.8%. During the same period, Newberg
+
+    ? The uses allowed by the requested zone are listed in YCZO § 703.02 and quoted above in the
+      “Applicable Review Criteria” section of these findings.
+    > City of Newberg, “Comprehensive Plan Text Ordinance 1967 (7/2/79) (Last amended 11/4/96) p. 51.
+    4 Id, p. 39.
+
+                                                                                        EXHIBIT “A” - Page 12
+                                                                                            ORDINANCE 650
+                                                                                       ux OF rce2142
+grew at a rate of 28.1%, to its current population of 16,765. Due to its close proximity to the Portland
+metropolitan area, Newberg can be expected to receive continued spillover from the Portland area as
+a result of high regional growth coupled with a tight Metro urban growth boundary.
+         1.3.7 Aggregate, the main ingredient in asphalt, is exceedingly heavy and its cost rises the
+further it must be transported. It costs approximately $2.15 per hour, per ton to truck asphalt, which
+causes the cost of asphalt to rise significantly as the distance to the source increases. The record
+establishes that, due to a small number of local facilities, there is little competition in Yamhill County
+and Newberg area asphalt markets, which has resulted in significantly higher asphalt prices. This
+problem will be exacerbated as demand for asphalt paving products rises, without an increase in the
+number of local competitive suppliers.
+The applicant has demonstrated compliance with YCZO § 1208.02(B).
+
+        1.4 YCZO § 1208.02(C) requires that the County find that:
+         ‘The proposed change is appropriate considering the surrounding land uses, the
+        density and pattern of development in the area, any changes which may have
+        occurred in the vicinity to support the proposed amendment and the availability of
+        utilities and services likely to be needed by the anticipated uses in the proposed
+        district.”
+       1.4.1 For purposes of this analysis, the “area” is the area designated “Industrial” in the
+Newberg Comprehensive Plan; residential areas to the north of the subject property that abut the
+designated “Industrial” area, and residential areas along the designated truck route through which
+trucks accessing the site must travel.
+       1.4.2 The pattern and density of land uses surrounding the site, and the distance and buffering
+between the site and residential areas to the north, has been described elsewhere in these findings. The
+density. of housing in the immediate vicinity of the subject parcels is very low by county or city
+standards. The “pattern of development in the area” is predominantly heavy industrial, considering:
+1) the presence of the Smurfit mill, which is the largest heavy industrial use anywhere in Yamhill
+County; 2) the presence of a closed landfill subject to 50-60 years of post closure monitoring; 3) the
+past use of the City of Newberg parcels as a sewage treatment plant; 4) the use of the applicant’s
+parcel, and current zoning of that parcel, for the transport, storage, sorting, crushing and other
+processing of aggregate.
+        1.4.3 As stated, there is also scattered housing to the west, and there are apartments to the
+north, within current city limits. Other findings herein establish that there is adequate buffering
+between the proposed use and these uses. Considering these surrounding land uses, as well as the
+density and pattern of development in the area, the proposed use is appropriate. No known changes
+have occurred in the vicinity to support or detract from the appropriateness of the proposed
+amendment. The vicinity is plan-designated by the City of Newberg for industrial uses, and remains
+appropriate for those uses.
+       1.4.4 The proposed change is also appropriate considering the existence of Roger’s Landing
+Marine Park abutting the property to the east. The park has coexisted with the adjacent Smurfit Mill,
+and with aggregate processing and storage activities on tax lot 3230-100, for many years. The
+
+                                                                                   EXHIBIT “A’ - Page 13
+                                                                                       ORDINANCE 650
+                                                                                           fix G4 ee@143
+applicant has proposed to make a major contribution to improvement of the park in two ways: first,
+by providing land for park expansion, and second, by providing a conservation/hiking easement
+through preserved areas on the applicant’s property.       These actions will significantly improve the
+public utility of the Newberg waterfront. To the extent the applicant’s ability to participate in park
+improvements is facilitated by this approval, those anticipated improvements support this approval.
+         1.4.5 The requested change is also appropriate because industrial-type uses have historically
+occurred on the subject parcel. Tax lot 3230-100 has been the site of aggregate transport, storage and
+processing activities for many years, including operation of a rock crusher as a permitted use. The
+new designation will allow the applicant to make full use of the property in a manner that is fully
+consistent with its past use for aggregate processing and storage.
+         1.4.6   There is considerable discussion in the record concerning the appropriateness of the
+change considering possible impacts on the truck route to be used as access for the sité, and the
+neighborhood along the truck route. The route of the trucks to and from the site will invariably be
+Wynooski Road to 11th Street to River Street to 14th Street.
+                  1.4.6.1. This route passes through, and next to, industrial uses, but also passes through
+a residential area and by a community park. It has, however, been a designated truck route for many
+years. Garbage trucks used the route for decades to access the Newberg Landfill. The applicant, and
+the applicant’s predecessor, have used this route to transport aggregate to and from its processing
+operations since 1973.
+                  1.4.6.2 The applicant has current authority to use tax lot 3230-100 for transporting,
+storing and crushing aggregate.     In 1993, at the height of its rock crushing operations, the applicant
+hauled 283,000 tons of rock from the site. That is an average of 22 full and empty trucks per hour,
+compared with 5 trips in a peak hour anticipated for operation of the proposed batch plant. Compared
+to potential impacts under current zoning, use of the property under the proposed zone change will
+result in greatly diminished impacts to the existing truck route and the neighborhood through which
+it passes. That impact will be further diminished to the extent the applicant is able to utilize river
+transport facilities currently located on the site.
+               1.4.6.3 The County is the Road Authority for the access route to the proposed facility.
+The County Public Works Director has indicated that Wynooski Road has been widened and improved.
+to handle trucks; that 14th Street is somewhat narrow, but has been handling truck traffic adequately
+for years; that the slide area on 14th street has been repaired, and is stable; that 11th Street has also
+been widened and improved to handle truck traffic.
+               1.4.6.4 The applicant’s Traffic Impact Review, performed by Kittleson & Associates,
+(dated June 10, 1998) indicates that the truck route providing access to the site is adequate for the
+proposed use, and will retain an adequate level of service considering the applicant’s anticipated use.
+The Kittleson review is incorporated herein by this reference. Granting this approval will not
+significantly affect the functional capacity or level of service of the haul route. Existing access roads
+are adequate for the proposed use, and the applicant’s proposed use will not unduly impact existing
+roads.
+                 1.4.6.5 The applicant’s Traffic Impact Review also identified several areas in which
+the truck route could be improved to more appropriately handle traffic generated by the proposed use,
+
+                                                                                    EXHIBIT “A” - Page 14
+                                                                                        ORDINANCE 650
+                                                                                         rx GA nr 24 44
+as well as use by residents, other industrial and commercial users, and patrons of Roger’s Landing.
+To the extent access road impacts are attributable to the applicant’s proposed use, the applicant can
+be required to contribute to road repairs or improvements through the County’s site design review.
+                  1.4.6.6 The applicant’s proposed use is consistent with the overall heavy industrial
+character of the area. The applicant is not proposing to intensify its use of the parcels, only to change
+the type of processing that will occur on the property. Allowing the requested zone change will result
+in lesser traffic impacts on the neighborhood along the truck route than are likely given the current
+zoning of the property. The applicant’s proposal will not cause an inappropriate increase in street
+damage or traffic impacts on vicinity streets from the situation that presently occurs or is likely to
+occur given current allowed use of the parcel.
+         1.4.7 The proposed change is appropriate considering the availability of utilities and services
+likely to be needed by the anticipated uses in the proposed district. When an applicant has provided
+sufficient detail regarding its anticipated long-term use of the property subject to a zone change
+application, the county interprets YCZO § 1208.02(C) as requiring the County to consider only the
+applicant’s proposed use as the “anticipated use.” In this instance, the applicant has described the use
+it intends to make of the subject parcel in sufficient detail, and has stated that all utilities and services
+that it is likely to need for its anticipated use are available at the site. Those services, including, but
+not limited to, sewer, water, electricity and other energy sources, fire and police protection, schools,
+street lighting and all other services and utilities, exist to the level they are likely to be needed by the
+applicant for its anticipated uses.
+        1.4.8 As an alternative to finding 1.4.7, and only to the extent a reviewing authority does not
+accept the County’s interpretation of its ordinance found in finding 1.4.7, the county finds that the
+ptoposed change is appropriate considering the availability of utilities and services likely to be needed
+by heavy industrial uses in the proposed district. This criterion does nof require that the site have
+services available for all conceivable heavy industrial uses. As stated, all public utilities and services
+that would be necessary for heavy industrial uses generally are available at the site, and are currently
+adequate for heavy industrial uses generally. Although there is no evidence that City sewer service
+is currently available at the site, lack of current sewer service alone is not sufficient to make the
+proposed change inappropriate. The site is within the Newberg Urban Growth Boundary, and
+arrangements could conceivably be made to obtain sewer service from the City. It is also conceivable
+that appropriate sewage treatment facilities could be constructed on-site to accommodate a specific
+heavy industrial use other than the use proposed by the applicant. No use could be made without all
+necessary permits, which might limit the types of heavy industrial uses that could be made on the
+property. The fact that not all heavy industrial uses could ultimately be permitted at the site does not
+make the zone change inappropriate.
+         1.4.9 In addition to the above findings, the “anticipated uses” specified in YCZO § 1208.02(C)
+consist solely of the applicant’s proposed uses, because the county is imposing a Limited Use Overlay
+on the subject parcel under YCZO § 904, limiting uses allowed outright on the property to the uses
+that have been proposed by the applicant.
+
+        1.4.10   In support of their opposition to this application, the City of Newberg submitted a
+letter dated April 7, 1998 from the Mayor, which states in pertinent part:
+
+                                                                                     EXHIBIT “A” - Page 15
+                                                                                         ORDINANCE 650
+                                                                                               FILM   b4    nce 2145
+
+                     a. “the City held a legislative public hearing on this issue which included testimony
+      from fourteen opponents. Many of the opponents would live in the area of the proposed asphalt plant
+      and expressed concerns regarding traffic, odor, noise, dust and other impacts on the area.”
+
+                      b. “The City Council discussed the conflicts in the Newberg Comprehensive Plan.
+      Specifically, the Plan provides for industrial uses in this area, but also mentions the need for
+      complying with the Willamette River Greenway policy.
+
+                     c. “The community, since the Comprehensive Plan was developed, has started to place
+      a higher value on the Willamette River Greenway concepts than retaining this area as an industrial
+      site. The Council expressed a commitment to joining into a partnership with Yamhill County to plan
+      the area for more recreationally oriented uses. A specific time line for this partnership was not
+      discussed, but the council expressed hope that it would be in the not too distant future.
+
+                     The Board has considered, but finds the City’s arguments unpersuasive for the
+      following reasons:
+
+                     a. Although this informs the Board of the number of opponents who expressed
+      concerns about traffic, odor, noise, dust and other impacts, this statement merely states there are
+      concerns, and does not contain any specific testimony or evidence to explain the nature and extent of
+aan
+
+      such “concerns” so that it does not raise any issues with sufficient specificity to allow the parties or
+      the Board to respond to the issues. If such general concerns are sufficient to raise the issues, then the
+      Board finds that each of the concerns have been adequately addressed as follows:
+
+                     First, the traffic impacts were addressed in the Traffic Impact Review by Kittleson
+      & Associates as described in finding 1.4.6. which found among other things that the truck route to the
+      site is adequate for the proposed use.
+
+                       Second, the odor, noise, and dust are subject to regulatory jurisdiction of DEQ, and
+      as a condition of approval under the Limited Use Overlay, the applicant will be required to obtain all
+      necessary DEQ permits and satisfy all applicable DEQ regulatory requirements. The applicant
+      submitted evidence (publication by the National asphalt Pavement Association (NAPA) entitled
+      “Modern Asphalt Plants Are Designed to Operate in a People Environment “) describing Hot Mix
+      Asphalt (HMA) facilities and products, that there is no evidence that the very low levels of emissions
+      pose human health risks, that they are subject to EPA storage and emission standards prevent release
+      of liquids, dust and smoke. The Board finds that it is feasible for the HMA plant to satisfy EPA and
+      DEQ requirements and to operate without the adverse environmental impacts suggested by the
+      opponents. A condition will be placed upon the approval to assure compliance with applicable
+      environmental regulations.
+
+                                                                                        EXHIBIT “A” - Page 16
+                                                                                            ORDINANCE 650
+                                                                                          cin O4 rec 2446
+
+                b. The City refers to the Newberg Comprehensive Plan in general, but fails to explain
+how the city plan (as opposed to the city plan map) applies as approval criteria, or which specific
+provisions in the city plan the city is raising. The city acknowledges that the city plan provides for
+industrial uses in this area, without explaining how the city plan designation of HI can be ignored.
+The City states that the plan mentions the need for complying with the Willamette River Greenway
+policy, but the Willamette River Greenway is not relevant because the applicant amended their
+application to move the site of the plant to an area of their property which is above the 100-year
+floodplain and outside the greenway making a Greenway permit unnecessary.
+
+                 c. The City’s statement that the community, since the Comprehensive Plan was
+developed, has started to place a higher value on the Willamette River Greenway concepts than
+retaining this area as an industrial site, again fails to provide a basis for ignoring the City’s HI plan
+map designation for the subject property. Unless and until the city’s HI plan map designation is
+changed, the Urban Area Growth Management Agreement requires that plan map designation be
+applied, and this is so notwithstanding that community greenway values may have changed since
+adoption of the HI plan map designation, and the city now wants              to plan the area for more
+recreationally oriented uses at some unspecified time in the future.
+
+        1.4.11 In support of their opposition to this application, the City of Newberg submitted a
+Resolution dated April 16, 1998 with attached Findings, which include the following contentions:
+
+                  a. Criteria for a Willamette River Greenway Permit have not been met.
+
+                b. “Surrounding area includes Willamette River, Rodgers Landing, the Smurfit mill
+and residential neighborhoods.”
+
+                  c. “Traffic patterns of heavy trucks through residential neighborhoods” and “adjacent
+to the recreational uses of the boat landing” will have significant impacts, generating 20-22 truck trips
+per day.
+
+                  d. “The recreational use and enjoyment of the boat landing areas would be seriously
+disturbed” by the associated silo, the heated asphalt processing and truck traffic.
+
+                e. “Credible” testimony of opposition regarding impacts of “odor, noise, and air quality,
+water quality, and land quality impacts.”
+
+           The Board has considered, but finds the City’s arguments unpersuasive for the following
+reasons:
+
+                                                                                  EXHIBIT “A’ - Page 17
+                                                                                      ORDINANCE 650
+                                                                                        rk O4 ince@447
+                a. The criteria for a Willamette River Greenway Permit are not relevant because the
+plant will be sited outside of the greenway.
+
+               b. By its statement that the “surrounding area includes Willamette River, Rodgers
+Landing, the Smurfit mill and residential neighborhoods,”the City is apparently arguing that the zone
+change is not appropriate considering the surrounding area. See YCZO section 1208.02(C) (listing
+surrounding area as one of the factors to be considered along with pattern of development in the area.
+The city does not explain how these surrounding uses make the proposed use inappropriate.
+Assuming however they mean that the proposed use is not compatible with the residential and marine
+park uses, then the City’s arguments must fail for the following reasons:
+
+                First, the City’s Industrial Plan Map designation is the predominant designation in the
+area. The higher density residential neighborhood within the city north of the subject property is ly
+close to the heavy industrial Smurfit paper mill. North of the subject site lies the Smurfit railroad spur,
+and other parcels which are City Plan Map designated Industrial and zoned HI and used for wood
+stockpiling. An asphalt batch plant could be established within the HI zoned property. Although there
+are a few residences in the VLDR-5 zone to the west of the subject property, those residences in the
+VLDR zone are as close to the HI zoned property to the north. Thus, those residences are already
+impacted by the heavy industrial Smurfit paper mill, and potentially by other future HI uses to the
+north.
+
+                Second, the Rodgers Landing park is already adjacent to a heavy industrial use in the
+Smurfit paper mill. Also, there is no conflict with the existing or proposed development or uses at the
+park according to the letter dated June 9, 1998 from the Oregon State Marine Board and the letter
+dated June 4, 1998 from the Yamhill County Park Board.
+
+                  c. The City also argues that the proposed zone change should be denied because
+“traffic patterns of heavy trucks through residential neighborhoods and adjacent to recreational uses
+of the boat landing will have significant impacts, generating 20-22 truck trips per day.” However, the
+truck traffic from rock crushing operations in the past has generated an average of 22 truck trips per
+hour (see finding 1.4.6.2) and the truck route to the site is adequate for the proposed use see Traffic
+Impact Review by Kittleson & Associates (as described in finding 1.4.6.). And the Marine Board and
+Park Board did not find conflicts with the marine park due to traffic problems.
+
+                d. The City’s contention that boat landing areas would be seriously disturbed by the
+associated silo, asphalt processing and truck traffic, is not persuasive in light of the testimony to the
+contrary by the agencies (Marine Board and Yamhill County Park Board) with jurisdiction over the
+marine park.
+
+                                                                                    EXHIBIT “A” - Page 18
+                                                                                        ORDINANCE 650
+                                                                                         FILH   64    PACE 2448
+
+                   e. The City’s reference to “credible” testimony of opposition regarding impacts of
+“odor, noise, and air quality, water quality, and land quality impacts” and “dust and noise” adds little
+to the general conclusory statement contained in the letter from the Mayor, except that it adds the
+words water quality and land quality impacts. First, as required by a condition of approval, applicants
+will be required to obtain any necessary air discharge permits from DEQ, and a water quality
+discharge permit from DEQ for any discharges to the Willamette River. Second, it is unclear what
+the City means by land quality impacts, but assuming that means effects upon the river uses, there
+is no anticipated development within the Greenway, and; as required by a condition of approval, if
+there is such development, a Greenway permit will be required which would address land quality
+impacts. Third, the city presented no evidence that applicant will not be able to obtain the necessary
+DEQ permits or will violate DEQ regulatory requirements,
+         In conclusion, the Board finds that the request conforms to the underlying Comprehensive Plan
+map designation of Industrial, an asphalt batch plant will not have a significantly greater impact than
+aggregate processing activities that have occurred on the property in the past, and there is adequate
+access to the site via a designated truck route.
+
+        1.4.12 In support of their opposition to this application, the City of Newberg submitted letter
+dated June 17, 1998 from Mike Soderquist, Director to the city’s Community Development Office,
+which    suggests a concern that truck traffic might use other city streets instead of the truck route.
+However, the Board has considered, but finds the City’s arguments unpersuasive because the applicant
+will be required, as a condition of approval, to use the designated truck route for the access route to
+the facility.
+
+The applicant has demonstrated compliance with YCZO § 1208.02(C).
+
+         L5     YCZO § 1208.02(D) requires that the County find that:
+         ‘Other lands in the County already designated for the proposed uses are either
+         unavailable or not as well-suited for the anticipated uses due to location, size or
+         other factors.”
+         1.5.1 This criterion requires that the County consider other lands in the county that are already
+designated for the proposed uses, and determine whether they are as well-suited for the anticipated
+use considering location, size or other factors. Findings addressing YCZO § 1208.02(A) and (B) are
+relevant in addressing this criterion. Those findings establish that: 1) it is important for the applicant
+to establish the proposed use in the Newberg area; 2) the use is an industrial use that is intended to
+serve primarily the Newberg market; 3) industrial uses serving predominantly the Newberg market
+are most appropriately located on land plan designated industrial, within the Newberg UGB; 4) there
+are no other heavy industrial lands within or near the Newberg UGB that are available for the
+proposed use; 5) even if it were “available,” the only identified existing site is not as well-suited for
+the proposed use because it does not have barge access, and its use as a batch plant would increase
+impacts along the 11th Street truck route. Tax lot 3230-100 has been used for aggregate transport,
+storage and processing activities over the last 26 years, and is currently configured for such uses.
+
+                                                                                   EXHIBIT “A” - Page 19
+                                                                                       ORDINANCE 650
+                                                                                        rie B4 ur 2449
+
+None   of the other sites have established river transport facilities.     Due to size, location, and
+configuration as an aggregate processing operation, the subject property is well suited for the proposed
+use. Other sites are not as well-suited.
+         1.5.2 It has been noted that the current zoning of the site would theoretically allow operation
+of a batch plant as a conditional use. However, YCZO § 404.04 F. 1. allows only a portable batch
+plant as a conditional use in the MR-2 zone. This use is not equivalent to the applicant’s proposal,
+and is not adequate for the applicant’s purposes. In the first place, the MR-2 zone was designed to
+apply to resource extraction areas, which are normally found on large parcels in rural areas. The
+setbacks that apply to extraction and processing in the MR-2 zone are generally 500 feet, meaning that
+the only place processing could occur on the applicant’s parcel is on the floodplain (YCZO § 404.07
+A. 2.) The Board has received considerable testimony to the effect that the plant should not be located
+in close proximity to the river, and the applicant has addressed those concerns by proposing to place
+the facility away from the river. That can only be done if the property is rezoned for heavy industrial
+uses. In addition, the applicant has stated that a portable batch plant, which is temporary by nature,
+cannot adequately respond to market conditions, and would not allow the applicant to offer the level
+of competition most likely to cause reductions in the price of asphalt in the Newberg area. A
+permanent operation allows for certainty of operations, certainty that is not available with a temporary
+facility. With a permanent facility, the company can more appropriately anticipate changing market
+requirements. The economics of batching operations, and the ability of the applicant to invest in site
+improvements, both increase markedly if the applicant is allowed to be a permanent participant in
+local markets.
+
+        1.5.3   Portable batch plants are allowed uses in MR-1 zones and, as stated, are allowed
+conditionally in MR-2 zones.     Other than the applicant’s parcel, MR zones are resource extraction
+sites, and are usually found in rural areas. These sites are not available for a permanent batch plant,
+and are less suitable for the production of asphalt than the proposed site, which is located within the
+UGB    of the area containing the primary market for the products of the facility, on property plan-
+designated industrial, which also has barge access and all other necessary utilities. Batch plants in MR
+zones in rural areas are more likely to be prohibited or objectionable as being too close to an
+established, sizable vineyard. Batching asphalt is an urban, industrial use that is most appropriately
+located in an urban industrial area.       The predominance of vineyards in Yamhill County makes
+temporary or permanent batch plants in conjunction with mineral resource extraction sites less suitable
+than the proposed site.
+The applicant has demonstrated compliance with YCZO § 1208.02(D)
+
+        1.6 YCZO § 1208.02(E) requires that the County find that:
+        ‘The amendment is consistent with the current Oregon Administrative Rules for
+        exceptions, if applicable.”
+The applicant does not need, and is not requesting, an exception from statewide planning goals. This
+section is inapplicable.
+
+                                                                                  EXHIBIT “A” - Page 20
+                                                                                      ORDINANCE 650
+                                                                                  FILK   64      PACE 2150
+
+2.     Similar Use Determination
+
+         2.1 Asphalt batching, mineral and aggregate processing and stockpiling are not specifically
+listed as permitted or conditional uses in the HI district, but may be allowed under YCZO §§ 703.04
+and 1206, which are set forth in the “Applicable Review Criteria” section, above.
+        2.2 YCZO § 1206.02(A) states that, in order to approve a “similar use,” the county must
+find that: ‘The use is consistent with the purpose and scope set forth in subsection 1206.01 and
+with the purpose of the underlying zoning district.” Section 1206.01 states:
+        “The purpose of this section is to provide for those uses not specifically listed in a
+       particular zoning district but which are similar in character, scale and performance
+       to the permitted uses specified therein,”
+The purpose of the Heavy Industrial zoning district is stated in YCZO §703.01 as follows:
+        ‘The purpose of the HI District is to provide for industrial uses with high-nuisance
+       characteristics that are incompatible with adjacent urban residential uses or for
+       industrial uses where space or performance characteristics demand a specialized
+       locale. All required services shall be available to the site, including necessary major
+       utility lines and sewer and water facilities. Whenever appropriate, heavy industrial
+       uses shall be located within urban growth boundaries so that necessary urban-level
+       services can be provided in an efficient and economic manner.”
+         2.2.1 As noted above under “Applicable Review Criteria,” the list of permitted heavy
+industrial uses in YCZO § 703.02 includes the following:
+        “E)    Facilities for the processing or production of oil, natural gas, geothermal
+       resources or other hydrocarbons;
+
+       (F)    Manufacture of clay products, brick, tile and cement and including mining of
+       material used in production;
+
+       (G)    Outdoor storage of raw materials or finished products associated with any
+       permitted use.”
+        2.2.2. The stockpiling and processing of aggregate into asphalt is similar in character, scale
+and performance with uses listed in §703.02(E), (F) and (G). Asphalt production includes the
+processing of hydrocarbon products by mixing them with aggregate. The manufacture of cement and
+of asphalt both involve the processing and blending of aggregate with other materials to form a
+product suitable for pavement and other construction uses. Stockpiling of aggregate constitutes the
+outdoor storage of raw materials associated with asphalt production.
+       2.2.3 Since asphalt production is similar in character, scale, and performance to permitted uses
+in the HI zone, allowing it as a permitted use in the zone, along with related processing and storage
+activities, is consistent with the purpose and scope of YCZO § 1206.01.
+        2.2.4 Asphalt production is also consistent with the purpose of the HI zone. Due to modern
+emission control systems, properly designed, constructed and operated asphalt batch plants do not
+have “high-nuisance characteristics” that would make them incompatible with adjacent urban
+residential uses. However, an asphalt batch plant is a heavy industrial installation, and one that
+
+                                                                                EXHIBIT “A” - Page 21
+                                                                                    ORDINANCE 650
+                                                                                        FILE   b4    nop 2151
+
+demands a specialized locale due to space and performance characteristics. All utilities and services
+required for operation of an asphalt batch plant are currently available to the site, and the site is within
+an urban growth boundary.
+        2.2.5    As described elsewhere in these findings, aggregate        requires significant areas for
+stockpiling and storage. The proposed site contains areas that are not well-suited for most uses, but
+are well suited for the delivery and storage of aggregate. The proposed site has been designed,
+constructed, and used extensively for the delivery of aggregate by barge, and the storage of aggregate
+in areas near the dock. Allowing the proposed use will allow the county to participate in design
+improvements to the property (through site design review), and will allow the applicant to facilitate
+improvements to Roger’s Landing Marine Park adjacent to the facility.
+        2.2.6 Because aggregate, the main ingredient in asphalt, is heavy, batch plants “demand a
+specialized locale” that is close to the source of production of aggregate or close to the market being
+served. For that reason, batch plants are sometimes installed at extraction sites in rural areas.
+However, given the number of vineyards in the county, and the perception that asphalt and wine
+production are incompatible, placing the use within its primary market area, near its shipping hub, is
+a better solution.
+        2.2.7. To the extent repairs to the truck route are necessary to facilitate applicant’s proposed.
+use, the applicant’s contribution to such repairs can be apportioned and required as part of site design
+review. These findings describe a number of reasons why it is most appropriate for this particular
+heavy industrial use to be located within urban growth boundaries. Allowing it to be so located also
+allows urban-level services to be provided to the facility in an efficient and economic manner.
+The applicant has demonstrated compliance with YCZO § 1206.02(A).
+
+       2.3.     YCZO § 1206.02(B) states that, in order.to approve a “similar use” the county
+must also find:
+         ‘The use conforms with the applicable standards and limitations of the underlying
+        zoning district.”
+      2.3.1 Applicable standards in the HI district include minimum setbacks of 30 feet, 60 foot
+maximum building height for all structures, and frontage on a public road or access by easement.
+
+         2.3.2 The County interprets this criterion to require that the applicant describe its proposed
+use with sufficient detail to allow the county to determine if the applicant is likely to be able to obtain
+necessary building permits, complete site design review, and carry out its plans for use of the subject
+property. This criterion does not require that the county receive and review completed plans for the
+facility at this stage of the proceedings.
+        2.3.3.   In accordance with the above interpretation, the applicant has described its proposed
+use of the property to include construction and operation of an asphalt batch plant. The plant itself
+is currently in operation at another location, where it is being replaced with a much larger facility. The
+applicant has described the proposed facility, and submitted a picture of it to the record. The county
+concludes that the applicant has made a sufficient showing for the purposes of this section that the
+
+                                                                                     EXHIBIT “A” - Page 22
+                                                                                         ORDINANCE 650
+                                                                                      FILK   64   PACE 2152
+
+proposed facility conforms to applicable standards and limitations of the Heavy Industrial zoning
+district, as set out under “Applicable Review Criteria,” above. The proposed asphalt batch plant and
+the existing aggregate processing and stockpiling can conform to these standards.
+
+The applicant has demonstrated compliance with YCZO § 1206.02(B).
+
+3.     Additional Findings to Address Concerns of City of Newberg
+        3.1    Pursuant to ORS 197.763(6), the Board closed the evidentiary record in these
+proceedings on June 30, 1998, and on July 2, 1998, the Board, by a 3-0 vote, made an oral tentative
+decision approving the application under the applicable criteria, and directed staff to prepare an
+ordinance and findings which would constitute the final written decision. After the tentative decision
+but before the final decision, City of Newberg, by letter dated July 8, 1998, requested reconsideration
+of the Board’s tentative decision. Although the City’s letter of July 8, 1998 is part of the record of
+these proceedings for purposes of appeal to LUBA, the Board did not reopen the evidentiary record
+and the City’s July 8, 1998 letter is not part of the evidentiary record in these proceedings. However,
+in the interests of intergovernmental cooperation, the County makes the following additional findings
+in support of its decision. These findings address concerns raised by the City of Newberg that are
+contained in the record of this proceeding, to the extent those concerns may not be addressed
+elsewhere in these findings. Many, ifnot all, of these additional findings may be unnecessary because
+they address matters that were not raised in a manner requiting, under state law or county ordinance,
+that they be addressed by the county.        To that extent, these additional findings should not be
+considered evidence that the County believes any of the issues addressed in these additional findings
+were properly raised or are otherwise relevant to the county’s decision.
+        3.2     Interpretation of Newberg Urban Area Growth Management Agreement
+       3.2.1 As stated above, the Newberg Urban Area Growth Management Agreement
+(“Management Agreement”) applies to this approval. Under the Management Agreement, the
+Newberg Comprehensive Plan Map, adopted July 2, 1979 is the applicable plan map for the area
+within the Newberg Urban Growth Boundary.           The Management Agreement provides procedural
+requirements that have been complied with in reviewing this application, but does not include
+approval criteria relevant to this application.
+        3.2.2   The subject parcel is within Yamhill County, and is not within the City of Newberg.
+Section VII.3 of the Management Agreement states, in relevant part:
+        ‘The City of Newberg and Yamhill County recognize that each jurisdiction has
+        authority to zone within its legal boundaries.   However, the Urban Growth Boundary
+        recognizes the eventual assumption of authority by the City of Newberg.      Therefore,
+        the following procedures are established:
+                a.      Zone change outside city limits but within the Urban Growth
+                Boundary. The application shall be processed by Yamhill County and
+                shall be forwarded to the City Council for its recommendation. ”
+        3.2.3   The Yamhill County Planning Commission held hearings on the proposal on March
+
+                                                                                 EXHIBIT “A” - Page 23
+                                                                                     ORDINANCE 650
+                                                                                          ix G4 oce2153
+5 and March 19, 1998.            Following a deadlock vote, the proposal was forwarded to the Board of
+Commissioners without recommendation. The proposal was also forwarded to the Newberg City
+Council for its recommendation. The City of Newberg held a hearing on the proposal on April 6,
+1998, and voted to recommend denial of the applicant’s request. The proceedings of the City of
+Newberg, and its recommendation, are part of the record of this proceeding.
+        3.2.4   The County has fully complied with the requirements of the Management Agreement.
+There is nothing in the Management Agreement suggesting that the county should, or must defer to
+the City of Newberg in interpreting Yamhill County ordinances or plan provisions that apply to the
+proposed use.       There is nothing in the agreement suggesting that the County must apply City of
+Newberg zoning ordinance or comprehensive plan provisions in reviewing the proposed use or any
+other land use applications for parcels within the Newberg UGB that are not within the City of
+Newberg.
+           3.3     County Justification for Determination that City’s “Industrial” Plan Designation
+Allows County Zone Designation of “Heavy Industrial” without a Plan Map Amendment
+                3.3.1 Atno time during the period during which the evidentiary record was open in
+these proceedings did the City of Newberg claim that its “Industrial” plan map designation was not
+the applicable plan designation for heavy industrial uses. At no time did the City claim that an
+amendment to the Newberg Plan or Plan Map would be required before the county could rezone the
+subject parcel to accommodate “Heavy Industrial” uses.
+               3.3.2 Inastaff report to the City Council dated March 25, 1998, City Manager Duane
+Cole and City Community Development Director Michael Soderquist indicated that the city’s
+Willamette River Greenway policies conflict with the Industrial Plan Map designation of the site. City
+staff concluded its report by recommending that the site be rezoned to Heavy Industrial.
+                    3.3.3.   The text of the Newberg Plan, page 45, states , under “Plan Classifications,” as
+follows:
+                    ‘For the purpose of evaluating and eventually implementing the
+                   proposed Comprehensive Plan, descriptions of land use classifications
+                   are essential. Explanations of the map designations are as follows:
+                                                             ek oR
+
+                     9. Industrial Use Areas (IND) The objective of this designation is
+                     to provide land for a variety of light industrial, heavy industrial and
+                     industrial park areas.
+                    Heavy industrial uses should be located in the area near Smurfit
+                    Newsprint, an existing pulp and paper mill. Other designated areas
+                     should be developed to light industrial or industrial park type uses.”
+                     (emphasis added)
+                 3.3.4 The Smurfit Mill is within 750 feet of the subject parcel, in a plan designated
+ “Industrial” (IND) area. The mill itself, (including smokestack), is located on the western edge of
+
+     5   “Request for Council Action,” Resolution No. 98-2104, March 25, 1998, p. 3.
+
+                                                                                       EXHIBIT “A” - Page 24
+                                                                                           ORDINANCE 650
+                                                                                              FILA   64   te OL    A
+
+the Smurfit Mill property, directly adjacent to Roger’s Landing Park. The subject parcel is “located
+in the area near Smurfit Newsprint.”
+               3.3.5      The County finds that there is nothing in the Newberg Comprehensive Plan
+or zoning ordinances indicating that the City’s Industrial Zone is not the appropriate zone for Heavy
+Industrial Uses, or that some other zone is the appropriate zone. To the contrary, the plan indicates
+that Heavy Industrial uses are appropriate in areas plan designated “Industrial” and that such uses
+should be located in the area near Smurfit Newsprint, where the subject parcel is located.
+             3.3.6 The City’s “M-3 Heavy Industrial District” is described in the City of
+Newberg Development Code as follows:
+                10.40.392       The M-3 Heavy Industrial District is intended to create,
+               preserve and enhance areas containing manufacturing or related
+                establishments which are potentially incompatible with most other
+                establishments, and is typically appropriate to areas which are most
+                distant from      residential areas,    and which     have   extensive   rail or
+                shipping facilities. The M-3 district is intended to be consistent with
+                the ‘industrial’ designation of the Comprehensive Plan.” (emphasis
+                added)
+                           3.3.6.1 Elsewhere in these findings, the County has established that the
+applicant’ s proposed use will be adequately buffered from residential areas, and that the site includes
+developed Willamette River barge access.
+                        3.3.6.2 The County finds that its Heavy Industrial district is substantially
+similar to and consistent with the City’s M-3 zone, and is also consistent with the “Industrial”
+designation of the City’s comprehensive plan.
+               3.3.7 Section 10.40.394 of the City of Newberg’s Development Code describes the
+“Permitted Buildings and Uses” in the M-3 zone to include the following:
+                 “industrial and commercial buildings and uses. All manufacturing,
+                warehousing, wholesaling, compounding, assembling, processing,
+                storing, researching, treating or testing or any combination thereof
+                of     items,   materials,   goods,    or   natural   mineral    resources     is
+                permitted.
+                In addition, all industrial and commercial uses not listed elsewhere
+                in the Code,        and those uses listed in 10.40.384 are permitted.”
+                (emphasis added)
+                3.3.8      The county finds that the uses allowed in the City’s M-3 zoning district are
+ substantially similar to uses allowed in the County’s Heavy Industrial zoning district.
+                 3.3.9 The County finds that the current Newberg Plan Map designation for the
+ subject parcel accommodates the county’s “Heavy Industrial” designation, as well as the use for the
+ subject property proposed by the applicant.
+         3.4     Consideration of Newberg Comprehensive Plan Goals and Policies
+
+                                                                                           EXHIBIT “A” - Page 25
+                                                                                               ORDINANCE 650
+                                                                                                         FILK   64   PACE 2155
+
+                     3.4.1         This section includes a description of Newberg Comprehensive Plan Goals
+     and Policies as they relate to the proposal. As stated elsewhere in these findings, none of these Goals
+     and Policies apply to the proposal.               These findings are provided in the alternative, in case a
+     reviewing authority determines that the Newberg Comprehensive Plan Goals and Policies do apply
+     to this approval.
+                     3.4.2         The County has not identified any Newberg Comprehensive Plan goals or
+     policies that are approval criteria.
+                    3.4.3 As part of its original application, the applicant submitted proposed findings
+     addressing City of Newberg comprehensive planning goals and policies. The County subsequently
+     has determined that none of the Newberg goals and policies apply to this approval. However, to the
+     extent a reviewing authority determines that such goals and policies do apply, or need to be
+     considered for some other reason, the applicant has demonstrated that the proposed change is
+     consistent with all applicable Newberg comprehensive planning goals and policies.
+                     3.4.4         These findings address the following Goals and Policies of the “City of
+     Newberg Comprehensive Plan Text Ordinance 1967.” (“Newberg Plan’):
+                     I        Goals & Policies -
+                     D.       Wooded Areas;
+
+                     E. Air, Water, and Land Resource Quality;
+
+                     F.       Areas Subject to Natural Disasters and Hazards;
+
+                         G.       Open     Space,   Scenic,   Natural,   Historic   and   Recreational
+aN
+
+                     Resources;
+
+                     H.       The Economy;
+
+                     J.       Urban Design;
+
+                     K. Transportation;
+                     M.       Energy; and
+                     N.       Urbanization.
+                      3.4.5 Newberg Planning Goal If. D.--Wooded Areas. Those portions of Goal IE.D.
+     and its related policies that are even remotely related to the proposal are discussed in this section:
+                         ‘Goal:     To retain and protect wooded areas.
+                     Policies:           1, Existing wooded areas shall be encouraged to remain as open
+                         areas for wildlife habitat and limited recreational use.
+                     2. Development in drainageways shall be limited in order to prevent
+                     erosion and protect water quality. Trees provide needed protection
+                     jrom erosion and should be maintained.”
+     The applicant’s proposed use of the site will primarily utilize areas that are currently committed to
+     industrial type uses, including the storage and processing of aggregate.                Remnants of the natural
+     “gallery forest” characteristic of the Willamette River and its setting can be found on the site and
+
+                                                                                                 EXHIBIT “A” - Page 26
+                                                                                                     ORDINANCE 650
+                                                                                  vie O4 oer2156
+
+on adjoining lands. The conceptual site plan developed by the applicant recognizes the need to
+maintain and reestablish this landscape element by extending existing areas of natural vegetation into
+and through the site. The applicant has not proposed development in any know drainageway.
+                3.4.6     Newberg Planning Goal IIL. E.--Air, Water, and Land Resource Quality.
+                ‘Goal: To maintain, and where feasible, enhance the air, water and
+                land resource qualities within the community.
+               Policies:
+               1. Development shall not exceed the carrying capacity of the air,
+               water or land resource qualities within the community
+               2. Water quality in the Willamette River and tributary streams shall
+                be protected.
+               3.    As public sanitary sewer systems become available, all
+               development shall connect to the public system.     To encourage
+               economic development, the City may permit subsurface sewerage
+               disposal where the system meets State and County requirements and
+               where unique circumstances exist.
+                4, The Newberg airshed shall be protected from excessive pollution
+               levels resulting from urbanization.
+                35. New industry should be located in areas which minimize impacts
+               upon the air, water, and land resource        base,   as well as upon
+               surrounding land uses.
+                6. The City will cooperate with State and Federal agencies which
+               regulate environmental quality and shall adhere to the standards
+               established by these agencies in the issuance of any permits or
+               approvals given by the City.    This policy is intended to cover
+               discharges and emissions which may impair air, water or land
+               quality or exceed the established standards for noise and other
+               emissions.
+                7. The threat of excessive noise will be considered when reviewing
+                land use requests. In addition, any new commercial and industrial
+                developments shall conform to DEQ noise pollution standards.
+                8. The City will continue to support soil conservation measures
+                designed to prevent unnecessary losses through excavation, stripping,
+                erosion, and sedimentation.
+
+                9. The City will seek abatement of the aesthetic degradation of the
+                environment resulting from blighted neighborhoods, indiscriminate
+                waste disposal, offensive outdoor storage.
+                10.     The City shall promote community cleanup programs.
+
+                                                                                EXHIBIT “A” - Page 27
+                                                                                     ORDINANCE 650
+                                                                                        rs 64 nccQ457
+
+                il. The City will continue to encourage and support the three R’s of
+                recycling (re-use, reduction and recycling).
+                        3.4.6.1   The issues raised by this goal are addressed elsewhere in these
+findings, particularly those findings addressing Yamhill County planning goals and policies. The
+proposed use will be subject to regulation by the State Department of Environmental Quality, and
+will not exceed the carrying capacity of the air, water or and resource base. There will be no water
+emissions or polluted runoff from the site, but the applicant will be required to comply with all local,
+state and federal laws, including but not limited to those related to surface water drainage, air and
+water discharges and noise. The facility will mix asphaltic cement with aggregate, and will have a
+bag house and any other equipment required to control air pollution as deemed necessary by DEQ.
+
+                        3.4.6.2 The proposed site will minimize impacts upon the air, water, and land
+resource base, as well as upon surrounding land uses, because, as proposed, it will be adequately
+buffered from surrounding land uses.       Additional screening and buffering requirements can be
+addressed through site design review.    The area is near other heavy industrial uses in the Newberg
+area, in an area that the Newberg Plan states is appropriate for heavy industrial uses.
+                        3.4.6.3 The site and area are characterized by past and present industrial uses.
+The applicant’s property is an operational mineral aggregate processing site. The neighboring City
+of Newberg property is a decommissioned waste water treatment site.             Following closure and
+demolition of the City’s site in 1988 it was leveled and filled. The impact of past industrial uses is
+clearly evident on and around the site. The applicant’s long term plans include the minimization of
+on-site aggregate processing. Use areas will be designed and implemented to improve site operation
+efficiencies. Areas of concern include appropriate screening of operational areas, containment and
+channeling of water runoff, and site operations in accordance with operational permit requirements
+established by state agencies. Specific attention will be given to the containment and appropriate
+discharge of site generated water runoff and processing emissions. Primary site operations will
+occur in three locations, all of which are currently operational under authority of the MR-2 Zoning
+District. These areas consist of the materials intake point, barge slips at the rivers edge, the upland
+office/scale, stockpile and shop area, and the proposed asphaltic batch plant location. The batch
+plant will be sited out of the Greenway, away from the neighboring Roger’s Landing Park, and
+within required setbacks. The proposed use of the property will result in noise levels that are
+significantly reduced from those that are currently allowed and anticipated at the site from crushing
+operations. The operator of the facility will be required to comply with DEQ noise pollution
+standards.
+                        3.4.6.4 The remaining policies related to this goal (8 through 11) are directed
+to City of Newberg efforts. The applicant has not proposed extensive excavation or stripping of the
+property. The aesthetics of the site will be addressed through site-design review.
+                3.4.7. Newberg Planning Goal II. F.--Areas Subject to Natural Disasters and Hazards:
+                ‘Goal: 1.    The City will coordinate with the Federal Emergency
+               Management Agency to ensure continued compliance with federal
+               flood plain regulations.
+
+                                                                                  EXHIBIT “A” - Page 28
+                                                                                       ORDINANCE 650
+                                                                                                   ew BA oer 2458
+                2. The largest floodplain area within the Urban Growth Boundary
+                is located within the Willamette Greenway.               As such, this area will be
+                subject to Greenway plans and regulations.
+                3. In other areas of potential or existing hazards, development shall
+                be subject to special conditions. Reasonable development may be
+               permitted in these areas when                 it can be shown,     based on sound
+                engineering and planning criteria, that adverse impacts can be
+                mitigated and kept to a minimum.      Hazardous areas shall be
+                considered to be lands with slopes 20% or greater, potential and
+                existing         slide   areas,   fault   areas,   and   areas   with   severe     soil
+                limitations.”
+The proposed location of the asphalt batch plant in not in a floodplain, greenway, or area of potential
+or existing hazards.     There is an escarpment on the property along 14th street that has a slope of
+greater than 20%, but there is no development planned for this area. This area of road slumped or
+slid during the 1995-96 heavy rain events. The County Public Works Director has indicated that this
+slope has been stabilized, and that 14th Street is suitable for uses proposed by the applicant. There
+is also an access road on the property that is moderately sloped, at a 3-10% gradient. The proposal
+will not subject life or property to any additional risks from natural disasters and hazards.
+               3.4.8 Newberg Planning Goal II. G.--Open Space, Scenic, Natural Historic and
+Recreational Resources. Those portions of Goal IL G. and its related policies that are even remotely
+related to the proposal are discussed in this section:
+                Goals:      1.       To ensure that adequate land shall be retained in
+                permanent open space use and that natural, scenic and historic
+                resources are protected.
+                2. To provide adequate recreational resources and opportunities for
+                the citizens of the community and visitors.
+                3.   To protect, conserve, enhance.and maintain the Willamette River
+                Greenway.
+                Policies:
+                                                           re ok
+
+                1,     Open Space & Natural Resources Policies
+                                                            ROK
+
+                           e.       The floodplains and natural drainageway areas                    in
+                Newberg should be preserved with a largely open character to
+                provide a basic open space framework for the community.                            The
+                capacities of these areas shall be maintained to provide a natural
+                storm water and natural drainage system as weil as to continue to
+                provide a natural habitat for local fish and wildlife.                      Natural
+                drainageways should be kept in open space uses.                         Bicycle and
+                pedestrian pathways might be included in these areas. Care should
+
+                                                                                                 EXHIBIT “A” - Page 29
+                                                                                                     ORDINANCE 650
+                                                                                FIL   64 r2159
+
+be taken to minimize disturbances in these often erosive and steep
+areas. All uses should be compatible with the specific sites.
+                                   2h ok ok
+
+2. Scenic Resources Policies a. The City shall take steps to maintain
+and improve the visual quality of the City.
+                                   ae          ok
+
+3.   Historic Resources Policies          a.        The continued preservation of
+Newberg’s     designated   historic            sites   and structures   shall   be
+encouraged.
+                                   te ok ok
+
+4. Recreation Policies a. Recreational facilities and services shall
+expand to meet growing recreational demands.
+                                   KOE
+
+b. To ensure that adequate lands shall be available for recreation,
+areas which are suitable recreational sites due to locational and
+natural qualities shall be designated as park land on the land use
+plan map.   Other less specific park sites shall also be indicated on the
+plan.
+                                   * KOK
+
+5. Willamette River Greenway Policies a. Newberg will encourage
+the protection,   conservation, enhancement and maintenance of the
+Willamette River Greenway.
+
+                                        aeteok
+
+b. Newberg recognizes the importance of the Willamette River as a
+regional resource which should be maintained for its natural, scenic,
+economic, recreational, agricultural and historic value.
+                                   aK
+
+d. Recreational activities shall be encouraged consistent with the
+statewide Willamette River Greenway Goal.
+e. Newberg should actively promote programs to preserve the
+Willamette River for recreational and open space uses.
+f. Additional public access to the river should be provided in the
+Newberg area.
+g.   The current boat launching site is a proposed acquisition area,
+which in cooperation with Yamhill County, should be purchased for
+public use when funds become available.
+
+                                                                           EXHIBIT “A’ - Page 30
+                                                                               ORDINANCE 650
+                                                                                       au G4 2460
+                h. The City shall encourage the establishment of river oriented uses
+                such as boat landings, docks and people oriented attractions such as
+                restaurants and tourist or community related facilities,
+                i. Existing waterfront parklands shall be developed to maximize their
+                water orientation.
+
+                j. The City’s Willamette Greenway program will emphasize the
+                 recreational use of the Greenway.
+                k    Waterfront      recreational   and park   development     along   the
+                Willamette River will be given emphasis to provide recreational
+                resources for future generations.
+                m. New development within the floodplain shall conform to Flood
+                Hazard and stream corridor protection regulations.
+                n. Public and private recreational development will be encouraged
+                on Sites suitable for the proposed uses.
+                o. The City will seek to establish increased public access to areas of
+                prime recreational significance and the development of additional
+                water based recreational opportunities.
+                p. Developments within the Greenway shall be encouraged to donate
+                land within the 100 year flood plain to either the City or Chehalem
+                Park and Recreation District. Transfer of development rights and
+                other alternative approaches should be considered as a way of
+                implementing this policy.
+                q.   The use of the riverfront for commercial, residential and open
+                space recreation purposes shall be encouraged, preserving as nearly
+                as possible the natural character of the area.
+                r. Extractive processes should be screened from view, should conirol
+                dust through watering or other acceptable practices, and should
+                consider limiting their hours of operation to daylight times only.
+                s. All sites will be planned for re-use upon depletion of the resource.
+                 The property owner is responsible for planning and reconstructing
+                the site. Re-use of the site will be consistent with the land use
+                policies outlined in the comprehensive plan.”
+                        3.4.8.1 The site has not been designated as a natural, scenic or historic
+resource by the City of Newberg. The applicant’s proposal does not impact any identified natural,
+scenic or historic resources or identified viewpoints.
+                        3.4.8.2 The applicant has not requested authority to site a recreational facility,
+and is not negatively impacting any public or private recreational facilities. In response to testimony
+received at the hearing and withdrawal of the City of Newberg from the original application, the
+applicant moved the proposed site of the batch plant away from Roger’s Landing Marine Park, and
+
+                                                                                   EXHIBIT “A” - Page 31
+                                                                                       ORDINANCE 650
+                                                                                         rus O4 or 2461
+out of the Willamette River Greenway. Current proposals will likely result in site improvements to
+areas of the subject property within the Greenway, including the extension of Roger’s Landing
+Marine Park onto applicant’s property, and the eventual dedication of a hiking trail/conservation
+easement through applicant’s property, connecting the park with other publicly owned lands to the
+southwest. These improvements can only occur through future public/private cooperation including
+the applicant, but the applicant has stated a willingness to participate in such cooperative approaches
+in a manner that addresses Goal II. G. and related policies of the Newberg Plan.
+                          3.4.8.3 The applicant is proposing to maintain existing uses on portions of
+its property, and to site a new asphalt batch plant on the northern end of its property, away from the
+floodplain and greenway.      The applicant is also proposing to maintain the character of existing
+riparian areas on the property that currently serve as a natural drainage way across the property. Site
+design review will help to ensure that existing natural storm water and natural drainage systems are
+maintained on the site. The wetlands and riparian areas the applicant intends to maintain on the
+floodplain provide visual amenities, and also provide significant wildlife habitat. The use of the site
+for an asphalt batch plant, and the proposed location of that facility away from natural amenities,
+ensures compatibility with natural resources on the site and nearby public amenities.
+                       3.4.8.4 The site has not been designated as park land on the City’s planning
+maps, or in any of the City’s inventories. It has been designated as industrial land. The applicant
+has proposed to participate in efforts to improve neighboring Roger’s Landing Park by allowing
+expansion of the park onto the applicant’s property.       The State Marine Board has stated that the
+preferred alternative for park improvements, and the only one to meet the “critical objectives” for
+the project, involves expansion of the park onto the applicant’s parcel. The Marine Board is willing
+to provide more than $500,000 for park improvements that meet its critical objectives. The Marine
+Board and County Parks Department have also stated that the applicant’ s proposed use is compatible
+with the use of neighboring property for park purposes.
+                        3.4.8.5 The applicant’s proposal will help to maintain the Willamette River
+as a regional resource , including its natural, scenic, economic, recreational, agricultural and historic    -
+value. The applicant has offered to participate in riverfront improvements and public access
+proposals that could significantly improve the riverfront. At the same time, the applicant will
+maintain existing barge docking facilities on its property that are the only such facilities near the City
+of Newberg.
+                         3.4.8.6 The applicant’s willingness to participate in improvements to
+recreational facilities along the river, and to maintenance and improvement of natural areas on its
+property within the greenway, promotes Goal II. G. and many of the policies listed in relation to the
+Goal. The use of the river for commercial barge traffic does not, and will not, significantly interfere
+with recreational use of the river by boaters.
+                        3.4.8.7 The opportunity to address the reclamation of the Newberg riverfront,
+from Roger’s Landing to Chehalem Creek, requires both public and private participation.               The
+applicant has stated its willingness to be a participant in that effort.
+                          3.4.8.8 Denying the application will not result in improvements to the
+riverfront, since the site is currently zoned for aggregate resource processing and storage. Approving
+the application significantly promotes Goal ILG. and its policies by providing site design review
+
+                                                                                   EXHIBIT “A” - Page 32
+                                                                                       ORDINANCE 650
+                                                                                   nL       64   MACE 2162
+
+opportunities, promoting expansion of Roger’s Landing Park, and promoting the applicant’s abilities
+to provide other public access amenities within the Willamette River Greenway, as have been
+specified by the applicant.
+                       3.4.8.9 “Extractive processes” are not currently taking place on the subject
+property, and are not being proposed by the applicant.
+                3.4.9    Newberg Planning Goal II. H.--The Economy. Those portions of Goal ILH.
+and its related policies that are even remotely related to the proposal are discussed in this section:
+                 ‘Goal: To develop a diverse and stable economic base.
+                Policies:   1, General Policies:
+                                                   * OK OK
+
+                b, The city shall encourage economic expansion consistent with local
+                needs.
+                                                   eK   OR
+
+                d.   Newberg will encourage the development of industries which
+                represent the most efficient use of existing resources including land,
+                air, water, energy and labor.
+                                                   eR
+
+                2. Industrial Areas Policies:
+                a. Industrial expansion shall be located and designed to minimize
+                impacts on surrounding land uses.
+                b, The city shall encourage industrial development, preferring firms
+                that: Meet or exceed state or local environmental standards,      Utilize
+                the existing labor force and help to reduce seasonal unemployment
+               fluctuations; and Are efficient consumers of energy
+                c Newberg shall actively pursue the inclusion of large industrial sites
+                within the urban growth boundary.
+                d. The City shall reserve land for industrial development prior to
+                demand and attract new industries in accordance with future
+                community needs.
+                                                   RR   ok
+
+               ff Concerted community efforts should be made to see that industrial
+                development expands outward from existing areas rather than
+                occurring in haphazard patterns.”
+                         3.4.9.1 The need for an asphalt batch plant in the Newberg area, and the
+efficiency of this particular site, is discussed elsewhere in these findings, and helps to establish that
+Goal II. H. and related policies are met by the proposed use. The applicant’s proposal promotes the
+most efficient use of the property since the property already has developed barge access. Energy and
+
+                                                                                  EXHIBIT “A” - Page 33
+                                                                                      ORDINANCE 650
+                                                                                   au B4 2163
+economic efficiency will be promoted because asphalt used in the Newberg area will be produced
+locally, and heavy aggregate materials can be delivered to the site from facilities along the
+Willamette River, by barge.
+                        3.4.9.2   The proposed facility will require skilled labor to operate, and the
+applicant has stated that it is an equal opportunity employer. The jobs offered by the applicant will
+be primarily year-round, and not seasonal.
+                    3.4.9.3 The applicant’s proposed facility will be located and designed to
+minimize impacts on surrounding land uses. The operator must obtain all required permits and
+complete site design review prior to operating.
+                        3.4.9.4   The proposed facility will be required to meet state and local
+environmental standards, will utilize the existing labor force, will help reduce seasonal
+unemployment fluctuation by providing full time jobs, and will promote energy efficiency by
+providing asphalt near target markets, and by use of the river to transport aggregate.
+                        3.4.9.5 The City designated the area for industrial use in its comprehensive
+plan, and the subject parcel will be used for industrial development as envisioned by the plan. The
+pattern of development in the area is not haphazard--it is occurring within the Urban Growth
+Boundary, in the immediate vicinity of other Heavy Industrial uses, as envisioned by the Newberg
+Plan.
+                3.4.10 Newberg Planning Goal II. J.--Urban Design. Those portions of Goal ILJ. and
+its related policies that are even remotely related to the proposal are discussed in this section:
+                Goal:   To maintain and improve the natural beauty and visual
+                character of the city
+
+                2. Industrial Areas Policies:
+                a. Industrial development should be encouraged to locate in
+                industrial parks offering good access, buffering and landscaping.
+                b.   Industrial developments should be well landscaped and
+                maintained and existing trees should be preserved where possible.
+                c. Where industrial uses abut residential zones or uses, special
+                development standards relating to setbacks, screening, signs,
+                building height and architectural review should be established.
+                                                  ok   OR
+
+               6. Specific Plans a. The city shall encourage the use of specific
+               plans to coordinate development and create neighborhood identity.
+                Specific plans are intended to serve as master plans for land
+                development or redevelopment and may be applied to one parcel or
+                multiple parcels. Specific plans will be used to promote coordinated
+               planning concepts and pedestrian oriented mixed use development.
+
+                                                                                 EXHIBIT “A’ - Page 34
+                                                                                     ORDINANCE 650
+                                                                                       ak G4 nr2L64
+                                                   ok   RM
+
+                        3.4.10.1 The facility will not be located within the City, and is not subject to
+City site design review.     The facility will be subject to county site design review, and the City and
+other interested parties may participate in that review. With proper buffering and site design review,
+the facility will improve the natural beauty of the site. The facility will not detract from the natural
+beauty of the City of Newberg, due to buffering and site design review, and because it is not being
+constructed in the City of Newberg.
+                      3.4.10.2 The county will ensure, through site design review, that the site is
+properly landscaped and maintained, and that existing trees are preserved where possible.
+                        3.4.10.3 The County will apply setbacks, screening, and limitations on signs,
+building height and other aspects of the project to improve compatibility between the proposed use
+and abutting residential uses.
+                        3.4.10.4 No industrial park was located by the applicant that was suitable for
+the proposed use, and other findings herein establish the suitability of the subject property for the
+proposed use.
+                        3.4,10.5 There is no “specific plan” that applies to the subject property.
+                         3.4.11 Newberg Planning Goal II. K.--Transportation. Those portions of Goal
+ILK. and its related policies that are even remotely related to the proposal are discussed in this section:
+                           ‘Goal 1; Establish cooperative agreements to address
+                        transportation based planning, development, operation
+                        and maintenance.
+                        Policies:
+                        a. The city shall coordinate with the State Department
+                        of Transportation to manage access to the state
+                        highway system and to implement the State Highway
+                        Improvement Program.
+                        b. The city shall coordinate its Transportation System
+                        Plan with the planning process of other jurisdictions to
+                        assure    adequate    connections    to   streets      and
+                        transportation systems outside city boundaries.
+                                                       ee
+
+                           Goal 2: Establish consistent policies which require
+                           concurrent consideration of transportation/land use
+                           system impacts.
+
+                           Policy: Transportation systems shall be used to guide
+                           urban development and shall be designed to serve
+                           anticipated future needs.
+                           Goal 3:    Promote reliance on multiple modes of
+
+                                                                                     EXHIBIT “A” - Page 35
+                                                                                         ORDINANCE 650
+                                                                           “ILK   64.   ner     24165
+
+        transportation and reduce reliance on the automobile.
+        Policies:
+        a. Design the transportation system and related
+        facilities to accommodate   multiple modes of
+        transportation where appropriate              and encourage
+        their integrated use; and
+         1. The city shall plan for a network of transportation
+        facilities and services including but not limited to air,
+         water, rail, auto, pedestrian, bicycle and public
+        transit.
+                                      ke
+
+        Goal 4: Minimize the impact of regional traffic on
+        the local transportation system.
+Policies:
+        a.    Enhance     the   efficiency  of the    existing
+        collector/arterial street system to move local traffic
+        off the regional system.
+        b. Provide for alternative routes for regional traffic.
+                                     oR    OK
+
+        fi Minimize        the use of local streets for regional
+         traffic.
+                                     oR oe
+
+        h, The city actively supports the development of a by-
+        pass of the city along a southern alignment, and the
+        development of a northern east/west minor arterial
+        street,
+                                      OR
+
+        Goal       7:   Minimize   the capital improvement        and
+        community        costs   to implement   the    transportation
+        plan.
+        Policies:
+                                      ROR
+
+        h.      Transportation facilities shall be designed to
+        minimize impacts on:
+
+            o       Present and planned land use patterns
+            e       Natural and scenic resources
+
+                                                                        EXHIBIT “A” - Page 36
+                                                                            ORDINANCE 650
+                                                                         FILK   64   Pate 2166
+
+ e          Air resource quality, including noise
+ o           Water and land resource quality, and
+ @ Existing and planned transportation facilities.
+LI New developments and existing developments
+undergoing expansion or modification shall be
+designed to accommodate planned      long-term
+transportation        improvement          projects     which     are
+adjacent to the development.
+j.     The city shall encourage the use of specific area
+plans        in   order   to    minimize       the     impacts      of
+ transportation facilities on neighboring properties.
+ Goal      8: Maintain    and    enhance       the    city’s   image,
+ character and quality of life.
+ Policies:
+ a. Adopt transportationNand use system design
+ standards which emphasize visual and aesthetic
+ quality.
+                                OK OR
+
+ ce. Encourage plans which protect the integrity of
+ existing neighborhoods, commercial, and industrial
+ areas,
+                                ee    oR
+
+ Goal 9: Create effective circulation and access for
+ the local transportation system.
+ Policies:
+                                ORR
+
+ b.     Enhance existing and add alternative routes for
+ local travel.
+                                OK
+
+     Goal 10: Maintain the viability of existing rail, water
+     and air transportation systems.
+     Policies:
+     a. Encourage and support compatible transportation
+     and land use development.
+ b. Evaluate and mitigate potential losses whenever
+ possible,
+
+                                                                         EXHIBIT “A” - Page 37
+                                                                             ORDINANCE 650
+                                                                                        rin G4 we 2h B7
+                        1. The city shall maintain the viability of existing rail,
+                        water, and air transportation systems.
+                                                  KOR RP
+
+                             3.4,11.1 As discussed elsewhere in these findings, the proposed use
+will result in a decrease in truck traffic from historical levels of traffic generated at the site,
+and existing transportation facilities are adequate for the proposed use.
+                        3.4.11.2 The applicant’s proposed use will help to maintain facilities
+for the off-loading of barges that are located on the subject property, and thus will help to
+maintain the viability of existing water transportation systems, as specified in Newbere’s
+planning goals and policies.
+                          3.4.11.3 Potential impacts of the applicant’s proposed use on traffic
+in nearby neighborhoods is discussed elsewhere in these findings. The applicant’s proposal
+will protect the integrity of existing neighborhoods by utilizing an existing truck route that
+is suitable for the use, and will not harm the integrity of commercial or industrial areas.
+                             3.4.11.4 The proposed facility will not increase or otherwise impact
+regional traffic.
+                    3.4.11.5 Ifthe Newberg by-pass is ever built, the presence of a local supplier
+of asphalt will provide competition and the lower prices for asphalt that inhere when markets
+are competitive, as discussed elsewhere in these findings.
+              3.4.11.6 Impacts on the transportation system from the proposed use will be
+decreased from impacts that are likely given the uses currently allowed on the subject
+property.
+
+                 3.4.12 Newberg Planning Goal I.L--Public Facilities and Services, is not
+relevant to the proposal. All necessary services and facilities are available at the site, and no
+additional services are required, as discussed elsewhere in these findings.
+                    3.4.13 Newberg Planning Goal H.M.--Energy.          Those portions of Goal II.M.
+and its related policies that are even remotely related to the proposal are discussed in this
+section:
+                    ‘Goal:     To conserve energy through efficient land use
+                    patterns and energy-related policies and ordinances.
+                    Planning Policies:
+                             a, The city will encourage energy-efficient
+                             development patterns. Such patterns shall
+                             include the mixture of compatible land uses
+                             and a compactness of urban development.
+                                                  oR   RM
+
+The proposal is consistent with this goal and policy. The site is an operational mineral
+resource site. Its basic use will not change, but it will be used in a manner that optimizes its
+
+                                                                                     EXHIBIT “A” - Page 38
+                                                                                         ORDINANCE 650
+                                                                                    rue G4 acc2L68
+    efficiency and energy conservation. Transportation systems that provide for the most
+    efficient delivery of resource materials at the most effective cost will be utilized. The site
+    adjoins the Smurfit Newsprint mill property, the area designated by the city plan for heavy
+    industrial uses, in accordance with the policy of compact energy-efficient urban development
+    and land use.
+                    3.4.14 Newberg Planning Goal II. N.--Urbanization. Those portions of Goal
+    ILN. and its related policies that are even remotely related to the proposal are discussed in
+    this section:
+
+                    “Goals: 1. To provide for the orderly and efficient transition
+                    from rural to urban land uses.
+                                                 ae okok
+
+                        3. To create a quality living environment through a
+                        balanced growth of urban and cultural activities.
+                       Policies:
+                       1. Urban growth boundary and urban reserve area
+                       policies
+                                                 Pe
+
+                       d.   The urban growth        boundary   shall   designate
+                       urbanizable land.
+                        e. The city will support development within the areas
+                       outside the City limits but within the Newberg Urban
+                       Growth Boundary or Urban Reserve Area based on
+                       the following standards or restrictions:
+                                                 RK
+
+                       New commercial and industrial uses will generally be
+                       discouraged within the UGB and Urban Reserve
+                       Area.”
+                        3.4.14.1   As described elsewhere in these findings, the proposed use is an
+urban use, and is most appropriately sited within an urban growth boundary. The statement that new
+industrial uses will generally be discouraged within the UGB is inconsistent with many other parts
+of the Newberg plan, including the plan map, which designates land for industrial development
+within the UGB; the land use needs inventory of the plan (p.39, 51) which shows the need for
+additional industrial land, and is presumably a basis for the “Industrial” plan map designation; and
+the industrial use classification explanation (p. 49) which states that heavy industrial uses should be
+located near the Smurfit Mill.
+                      3.4.14.2 The County interprets this provision as discouraging the amendment
+of plan designations for areas within the UGB or urban reserves, to commercial or industrial
+
+                                                                                   EXHIBIT “A” - Page 39
+                                                                                       ORDINANCE 650
+                                                                                aun G4 2469
+
+designations. As such, it is not relevant to the applicant’s proposal, which is within an area that is
+currently plan designated for industrial uses by the City of Newberg.
+        3.5   City of Newberg Concerns Regarding Impacts            From Heavy Industrial Uses that
+are not Proposed by the Applicant.
+               3.5.1 The applicant has specified that it intends to construct an asphalt batch plant
+on the property, and has provided the county with an explanation of the proposed use that was
+adequate to make findings of compliance with all applicable criteria. To dispel any concerns that
+the site might be used for Heavy Industrial uses that may have a greater impact on the surrounding
+area than the use proposed by the applicant, the applicant has agreed to imposition of a Limited Use
+Overlay Zone on the subject property, under YCZO § 904. Imposition of the Limited Use Overlay
+Zone as specified herein, improves the compatibility of the proposed change with surrounding land
+uses, and the overall appropriateness of the change, in conformance with YCZO § 1208.02 and
+applicable provisions of the Yamhill County Plan.
+                 3.5.2   The purpose of the Limited Use Overlay District is stated in YCZO § 904.01,
+as follows:
+                 ‘The purpose of the Limited Use Overlay District is to limit permitted
+                use(s) and activities in a specific location to only those uses and
+                activities which are justified and approved through Comprehensive
+                Plan exceptions under ORS 197.732 or other authorized statutory or
+                administrative rule procedure. ”
+The county finds that it is appropriate in this instance to limit the permitted uses and activities on
+the subject property to only those uses and activities which the applicant has justified as meeting
+applicable criteria.
+                 3.5.3   YCZO § 904.02 states as follows:
+
+                  ‘The LU Overlay District shall apply to that specific area for which
+                 a reasons exception has been taken or other area as deemed
+                 appropriate to protect Goal 5 resources.    The Limited Use Overlay
+                 District is intended to carry out the administrative rule requirement
+                for exceptions pursuant to OAR 660-14-018 and ORS 197.732 and
+                for Goal 5 resource protection pursuant to OAR 660-16-010. ”
+The LU Overlay is more restrictive than the underlying zone. The county finds that it is appropriate
+in this instance to apply the LU Overlay because the applicant has requested that the overlay be
+imposed, and to protect Goal 5 resources existing in the vicinity of the proposed site.
+                 3.5.4   The uses permitted in the Heavy Industrial zone are listed in YCZO § 703.02
+as follows:
+                 “A. Grain elevators, feed mills and seed cleaning plants;
+
+                 B. Manufacture of forest products, including sawmills, planing mills,
+                 plywood and particle board plants and pulp and paper mills;
+                 C. Auto wrecking yards;
+
+                                                                                 EXHIBIT “A” - Page 40
+                                                                                     ORDINANCE 650
+                                                                                    run G4
+                                                                                                      9 4
+                                                                                                  ct E fey   70
+               D, Animal slaughtering, meat-packing and rendering plants;
+               E. Facilities for the processing or production of oil, natural gas,
+               geothermal resources or other hydrocarbons;
+
+               FE. Manufacture of clay products, brick, tile and cement and including
+               mining of materials used in production,
+               G. Outdoor storage of raw materials or finished products associated
+               with any permitted use;
+               HH. Temporary structures as may be required during construction of
+               an authorized permanent structure. Such temporary structure shall
+               be removed upon final inspection of the permanent structure by the
+               Building Inspector;
+               L. Community or municipal water supply system;
+               J, Community or municipal sewer system; and
+               K. Signs, pursuant to the sign provisions set forth in Section 1006.
+               L. Dwelling for caretaker or watchman in conjunction with permitted
+               use. If a dwelling is a mobile home it shall, in addition to the
+               requirements of this section, also be subject to the mobile home
+               standards set forth in Section 1002.”
+               3.5.5   YCZO § 904.03 states:
+               A.   When   the Limited   Use Overlay District is applied,      the uses
+               permitted in the underlying zone shall be limited to those specifically
+               referenced in the ordinance      adopting the Limited     Use   Overlay
+               District.
+               B. The Limited Use Overlay District may be used to require
+               conditional use approval for uses normally permitted outright.
+               C. Reasonable conditions may be imposed in the Limited Use Overlay
+               District as are necessary to assure compliance with the provisions of
+               the Comprehensive Plan and this ordinance.
+               D. Until the overlay has been removed or amended, the only permitted uses
+               in an LU district shall be those specifically referenced in the adopting
+               ordinance.”
+        3.6 In conformance with YCZO § 904.03 and the request of the applicant, the County finds
+that it is appropriate to apply a Limited Use Overlay to that portion of tax lot 3230-100 that the
+County is rezoning from MR-2 to Heavy Industrial. Under the Limited Use Overlay, permitted uses
+would be limited to those uses the applicant has described as being part of its proposal, which
+include the installation of an asphalt batch plant, the on-site processing and storage of finished
+products and materials necessary for the production of asphalt, and other uses incidental thereto.
+Under the Limited Use Overlay to be applied to the site, all other use listed as allowed in the Heavy
+
+                                                                                 EXHIBIT “A” - Page 41
+                                                                                     ORDINANCE 650
+                                                                                       ru B4 e271
+Industrial District under YCZO § 703.02 would only be allowed subject to established conditional
+use procedures.
+         3.7 In addition to the limited uses in the Limited Use Overlay described above, the approval
+of this application shall be subject to the following conditions:
+        1.        An application for site design review shall be submitted and approved by the county
+                  ptior to any change in the type or scale of uses occurring on the parcel. As part of the
+                  site design review, the developer may be required to complete off-site road
+                  improvements if the city and county Public Works Directors determine that the roads
+                  that will be used to transport materials to and from the site are inadequate to handle
+                  the truck traffic generated by the use.
+        2.        All necessary DEQ permits shall be obtained for the asphalt batch plant.
+        3.        A floodplain development permit shall be obtained prior to any new development
+                  that will occur on portions of the parcel that are below 100 feet in elevation above sea
+                  level. Development includes grading, excavation, placement of fill material and
+                  structures,
+
+        4.        A Willamette River Greenway permit shall be obtained prior to any new development
+                  in the Greenway.
+        3.        Trucks used for transporting materials to and from the facility shall be required to use
+                  the existing truck route from the site via 14" Street, River Street, 11" Street,
+                  Wynooski Road, and Highway 219, to the extent the route remains available as a
+                  designated truck route.
+
+3.8   Contacts with Board Members
+         3.8.1    In this case, the Board held its evidentiary hearing in this proceeding on June 11,
+1998. At the conclusion of that hearing the Board, in response to a request to leave the record open
+pursuant to ORS 197.763, ordered the record to remain open for additional written evidence until
+June 18, 1998, for written rebuttal until June 25, 1998, and for written legal argument until June 30,
+1998, and the Board continued the docket item for deliberation on July 2, 1998, at which time it
+approved a zone change to allow the asphalt batch plant.
+
+        3.8.2     Before the final written decision, there have been instances of what may arguably be
+considered ex parte contacts with each of the members of the Board, as more particularly described
+below, in the form of: (1) a motion to reconsider filed by the City of Newberg against the zone
+change; (2) newspaper editorials against the zone change; (3) newspaper articles describing the zone
+change; (4) letters to the editor against the zone change; (5) television and radio reports regarding
+the zone change; (6) notes received from citizens regarding the zone change; and (7) telephone calls
+against the zone change.
+
+        3.8.3.    Following these contacts, the City Attorney of Newberg advised the attorney for the
+
+                                                                                    EXHIBIT “A” - Page 42
+                                                                                        ORDINANCE 650
+                                                                                 enn 64 2172
+County that it is the City’s position that the County is required to extend the proceedings for the
+purpose of disclosure of the ex parte contacts and to allow rebuttal, and that new evidence may be
+introduced during such extended proceedings, citing Horizon Construction, Inc. v. City of Newberg
+(Horizon J), 114 Or App 249 (1992), and Horizon Construction, Inc. v. City of Newberg (Horizon
+I), LUBA No. 93-065 (7/28/93),
+
+         3.8.4. The Board finds that Horizon I and Horizon IT do not apply and that there is no
+requirement under ORS 215.422 for notice and opportunity for rebuttal where an ex parte contact
+is received after the decision has already been made and the board expressly states that the ex parte
+contacts could not be and were not relied upon by the Board in reaching their decision because the
+contacts came after the record was closed and after the decision had been made.
+
+        3.8.5. Moreover, the Board finds that to the extent that the ex parte contacts were received
+by the board after deliberations and orally voting to approve an application but before final written
+findings have been adopted, and were critical of the decision of the board, such communications
+were not relied on by the board in reaching its decision .Cf J.C. Reeves Corporation v. Washington
+County, 31 Or LUBA __ (1996), aff’d 147 Or App 241 (1997).
+
+         3.8.6. However, to the extent that the Board is required to consider such communications
+as ex parte contacts, on July 30, 1998, pursuant to ORS 215.422(3), the Board reopened the
+evidentiary record, placed on the record the written and oral communications received by the Board
+concerning their decision and announced the content of such communications and the participants’
+right to rebut the substance of the communication at a special session of the Board on August 4,
+1998. On August 4, 1998, the Board disclosed certain additional alleged ex parte contacts, and
+accepted evidence and testimony limited to rebuttal of the substance of the alleged ex parte contacts
+disclosed by the Board. Giving due weight to all evidence received, the Board finds that no evidence
+received as a result of the hearing pursuant to ORS 215.422 provided a basis for changing its earlier
+decision.
+
+FAadmin\pinkstj\lu\bakerfnd.wpd
+
+                                                                                EXHIBIT “A’ - Page 43
+                                                                                    ORDINANCE 650
+                                                                      cin DF
+
+      EXHIBIT "B" FOR ORDINANCE No. 650
+
+               ZONING MAP AMENDMENT FROM
+                                                   AL (HI/LU),
+MINERAL RESOURCE DISTRICT (MR-2) TO HEAVY INDUSTRI
+      INCLUDING APPLICATION OF A LIMITED USE OVERLAY.
+
+      ___| |         FOURTEENTH         :                    STREET
+
+                                                                       350
+
+                                                                   Area to
+                                                                 remain MR-2.
+
+                               AREA SUBJECT TO AMENDMENT:
+                               Tax Lot 3230-100, excluding approximately
+                               two acres in the southeast corner of the parcel.
+
+                                                             and Development
+           Prepared by Yamhill County Department of Planning
+
+                                                                             ORDINANCE     650
+                                                                             Exhibit "B”
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.8% of
+the word sequence, and on 88.1% of the figures. Dictionary-recognizable words: 95.7%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

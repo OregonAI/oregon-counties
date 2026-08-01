@@ -1,0 +1,1393 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord484-pdf
+title: 'ORD484-PDF'
+doc_type: ordinance
+citation: 'ORD484-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17672/ORD484-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: aa124de9b64fe00ef9166c90c57ff7f6d9de07924d4c8d55fc690f0ce78a67fe
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.932; figure agreement 0.549; dictionary ratio 0.921. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 93%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD484-PDF (ORD484-PDF)
+
+## At a glance
+
+OCR-derived text of ORD484-PDF. Not human-verified.
+
+## Full text
+
+nye              IN    THE         BOARD          OF            COMMISSIONERS              OF     THE     STATE          OF   OREGON
+
+      39-335                                       FOR THE COUNTY OF YAMHILL                                                                Br
+                       SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+      In the Matter of an Ordinance                                              )
+      Amending  the Yamhill County                                               )
+      Comprehensive                Plan,           1974,           and           )
+      Amending         the     Comprehensive                         Plan        )
+      Map  Thereof            to Allow   an Expan-                               )                                                              :
+      sion  of  the           Urban  Growth  Boun-                               )    ORDINANCE              NO.        484         eine            A
+      dary of the City of Sheridan                                               )
+      to Include 8.2 Acres Owned and                                             )
+      Utilized        by      the       Federal                  Bureau          )
+      of Prisons,  Planning Docket                                               )
+      PA-1-89,  and Declaring an Emer-                                           )
+      gency                                                                      )
+
+               THE   BOARD              OF        COMMISSIONERS                      OF YAMHILL   COUNTY,                       OREGON              (the
+      Board)      sat for              the        transaction of                      county business on                       May 24,              1989
+      in    special           session,                      Commissioners                       Ted     Lopuszynski,                 David               E.
+      Bishop     and       Dennis            L.        Goecks            being       present.
+
+           WHEREAS,    the  Federal    Bureau   of Prisons                                                    has         applied   to                  the
+      Department    of   Planning   and   Development   in                                                   order         to  expand                   the
+      urban  growth boundary of the City of Sheridan                                                               to     include          an           8.2
+      acre parcel known as Tax Lot 5635-1000; and
+
+               WHEREAS,            on    May               4,     1989     the       Yamhill            County          Planning       Commis-—
+      sion  held  a public    hearing                                       to  consider  the    application                                            and
+      thereafter  voted  unanimously                                       to recommend  to   the Board  that                                           the
+      Board amend   its comprehensive                                       plan to allow the expansion of                                              the
+      urban     growth         boundary                    as     requested;               and
+
+             WHEREAS,  on                May               24,     1989     the       Board           held    a    public          hearing               on
+      the   application;                 and
+
+           WHEREAS,  the findings                                    of    fact and              conclusionary   findings  for
+      approval   attached  hereto                                    as    Exhibit               "A" and  by  this  reference
+      incorporated                  herein                  provide         a        sufficient              basis            to   grant                the
+      application             of       the        Federal            Bureau           of     Prisons          as        set    forth       above;
+      and
+
+             WHEREAS,    in order to approve this request,    an exception must
+      be taken to Statewide Planning Goal 3 and based upon the findings
+      for   an    exception   to Goal 3 included   in Exhibit    "A", the Board
+      finds    that it would be appropriate    to take such an exception;    and
+
+      ORDINANCE         484        -    Page           1
+      WHEREAS,    Statewide   Planning    Goal   14    requires  that   the
+procedures   and requirements   of Goal  2 for goal exceptions be
+followed   whenever  an urban growth boundary       is amended to include
+rural  land and the findings     set forth   in Exhibit    "A" demonstrate
+compliance     with       Goal     14;     and
+
+      WHEREAS,   the   attached      Exhibit   "A"  demonstrates       that   an
+amendment   to the Yamhill      County Comprehensive     Pian,    1974 and the
+Comprehensive     Plan   Map   and  an amendment    to  the    Sheridan   Urban
+Growth   Boundary    are    in  the   best  interests  of   the    citizens   of
+Yamhill     County;       Now,     Therefore,
+
+      THE     YAMHILL            COUNTY          BOARD      OF     COMMISSIONERS               ordains       as
+follows:
+
+      Section 1.        Based   upon   the   findings    of   fact   and  con-
+clusionary    findings   attached   hereto    as Exhibit    "A"  and   by this
+reference    incorporated   herein,   the   Yamhill   County    Comprehensive
+Plan,  1974,   and the Comprehensive      Plan Map are hereby amended as
+follows:
+
+      a.      To allow the expansion  of the                          urban growth boundary                  of
+      the    City of Sheridan to include an                           8.2 acre parcel owned                  by
+      the    United       States       government          on    behalf     of    the    Federal     Bureau
+      of  Prisons   and  known  as  Tax Lot  5635-1000,  as  more  par-
+      ticularly    identified  on  the  attached   map  identified    as
+      Exhibit  "B" and incorporated herein by this reference;     and
+
+      (b)     To     designate           the     parcel     referred        to    in    this     section     as
+      "Future         Urbanizable"               on   the        Yamhill     County        Comprehensive
+      Plan    Map.
+
+     Section 2.                That        based    upon    the   findings                 of   fact        and
+conclusionary             findings         set   forth   in    Exhibit   "A"                and   by       this
+reference      incorporated              herein,      an        exception        is     hereby     taken     to
+Statewide    Planning    Goal   3 to   allow   expansion   of  the  City   of
+Sheridan's    Urban  Growth   Boundary   to  include   the  subject   parcel
+referred   to above,   and that said exception      shall  be incorporated
+into and become part of the Yamhill County Comprehensive Plan.
+
+      Section 3.      This   ordinance   being   necessary    for the
+health,   safety and welfare  of the citizens  of Yamhill  County and
+an emergency having been declared    to exist shall become effective
+upon passage hereof.
+
+ORDINANCE     484     -   Page     2
+                                                                                                  rue AB   136
+
+                                           Oregon    this   24th     day    of           May,    1989.
+     DONE       at    McMinnville,
+
+                                          YAMHILL    COUNTY    BOARD       OF        COMMISSIONERS
+ATTEST
+
+              STERN.                          et        Loaoouohe
+CHARLES                                                                              =     wis
+                                          Chairman            OTED     “a
+                                                               Date:        S-Z                   5?
+
+                                             MHS               St    E.
+                                                                        yBISHOP
+                                          Commissioner         DAVID
+                                                               Date:            = -2S-89
+
+                                             Pn,
+              GRA’                        Commissioner          DENNIS          L.       GOECKS
+sa                                                                                   SfZ6/FF%
+          1   Cow          Counsel                              Date:
+
+ ORDINANCE           484   -   Page   3
+                                                                                                                                             cL          A8           ae L317
+
+                                         Yamhill                County                Ordinance               No.             485
+
+                                         Expansion                    of        Sheridan               Urban             Growth
+                                         Boundary                   to        Include               Tax      Lot          5635-1000
+
+                                                                       Exhibit "A*
+
+I.       INTRODUCTION
+
+The     City        of     Bliestdan,           op       behalf          of    the      Pederai           Perce:          of        Priecne,            has        initiated
+thig      amendment                     to        the          acknowledged                       Urban      Growth                  Boundary                 (UGE          +
+
+                                                                                                                                                                                Q
+accommodsie                    development               of     a Staff              Training        Center             for        staff         members             of    ti
+
+                                                                                                                                                                                0
+sdjacsnt        Sheridan            Federal              Corrections                 Institution          (FCI).              The         UGB       amendment                   is
+limited        to        8.2     acres       of         land     owned           by         the     Bureau         of         Prisons            adjacent            to    the
+Northwest           corner of the FCI complex.
+
+In      conjunction                with         the           UGB             amendment,               the     Bureau                     proposes             that        the
+Comprehensive                    Plan        designation               for       the         subject         property                be      changed                from         a
+Yamhill        County             Agriculture                 Forest           Large         Holding         (AFLH)                designation                to     a    City
+of     Sheridan           Public        Facilities             (PF)       designation.                 Subsequent                  to      the     UGB             and    plan
+amendment                process,         the        Bureau           will       initiate           annexation                of     the         subject           property
+and a zone change                   from          EF-40        to Public             Facilities (PF).
+
+The     Bureau            of     Prisons          has     prepared              an     Environmental                 Assessment                    as    required           by
+the     National               Environmental                  Policy          Act.          Much       of    the         site,          facility,        and         impact
+information               has     been        extracted               from           this     Assessment                prepared             by         Louis         Berger
+&      Associates.                Information                  contained               in     the      original           Urban             Growth                 Boundary
+and      Comprehensive                          Plan           Amendment                      Report           for             the         Sheridan                 Federal
+Correctional              Institute (FCI) and                   Federal          Prison           Camp       (FPC)        was also used.
+
+    Exhibit          "A"         - Page              1
+                                                                                                                                                                        as         EB ows 1318
+
+IL      GENERAL              INFORMATION
+
+A.      Vicinity     Characteristics
+
+        1,     Locational and Land Characteristics
+
+               The       site           for         the           proposed             Staff        Training             Center               is located                adjacent          to
+               the           northwest                           corner          of      the         Sheridan              FCI                along            Ballston            Road,
+               approximately                                 1         mile      south          of         the         Central                 Business              District             of
+               Sheridan.                     See        Exhibit               1, Vicinity Map.
+
+               The       existing                       City           of     Sheridan          UGB         and          city       limits            abut         the       southern
+               and       eastern                    boundaries                   of     the         subject            property.                     The        present            limits
+               are       a        result                of        a     similar        land         use     action             necessary                  to      site       the     FCI.
+               See       Exhibit                   2,        Existing            UGB.           The         proposed                UGB             amendment                  includes
+               only          the            8.2     acre               site     which         is necessary                to        facilitate                 development                of
+               a Staff Training Center.                                          See Exhibit 3, Proposed. UGB.
+
+               Ths       subjeet                   property                   proposed         to     be     included               in        the         UGB       is developed
+               with           a        single                    family         home          and         garage           presently                      being         used       as      a
+               temporary                          construction                   office,            and      is        gently             sloping.                 It     also          lies
+               outside                 of         the            South          Yamhill             River         flood          plain.                   The      site        can        be
+               characterized                            as rural residential land.
+
+        2.     Surrounding                        Land            Uses
+
+               The           property                    immediately                   south          and         east      of           the         subject            property          is
+               occupied                     by      the               Sheridan         FCI          and     FPC.                A        small            agricultural               field
+               which              is    owned                    by     the      Green         Crest         Cemetery                    is     immediately                  north        of
+               the       site.                The            Green             Crest     Cemetery                 is     north           of         the     field.           Lands        to
+               the           west                  across                   Ballston          Road           are          used                for         agricultural               crop
+               production.                        See Exhibit 4, Existing Land                                     Uses.
+
+     Exhibit       "A"        -        Page                  2
+            I    waruxa
+         dey,   Ayuyai,            :                                                     wajes          oL
+        ot
+4319
+
+                                             7                            :                        ia         Kyung xI0d         ae
+                                       (7        >                  7                              -         Ayunog   quer   -
+                                  Ry
+nu 48
+
+                              ”
+                          o                                                                                                           uepiayus
+                                                                              Aywiy
+                                                                              "Mm       63   AMH
+                              >
+                                                                                                         SAUL
+
+                                                                                                                                                 3
+                                             a       ee
+
+                                                                                                                                                  Page
+                                                                                                                                                  -
+                                                                                                                                                 wan
+                                                 one   all   | 29   AMH
+                                                                               4
+                                                                                   \%
+
+                                                                                                                                                  Ex. hibit
+                                  4 eepung
+                                                          woe [Ib
+        Srofinon pUelOd OL                                                    wl
+                                             |
+                                                                               [as   °      2400   4800
+
+                                                                               FY
+Legend
+m=uame   EXISTING   URBAN       GROWTH       BOUNDARY
+                                                            Existing   Urban   Growth      Boundary
+
+         Exhibit    "A"     -   Page     4              4
+                                                                                         Exhibit2
+                                                                                  2400   4800
+
+                                                                        v    aie
+Legend
+manus EXISTING URBAN GROWTH BOUNDARY                   Proposed   Urban Growth Boundary
+mass    PROPOSED       URBAN   GROWTH   BOUNDARY                             Exhibit .   3
+       Exhibit   "A"    -   Page   5               5
+                                                                                 cy     48 1322
+
+                                                            City Sewage
+
+                                                                                  |
+                                                                                  |
+                                                                                                 |
+                                                              Federal
+
+                                                                        |
+                                                                        |
+              RD.
+7
+              [BALLSTON
+
+ Tf       T               _
+                              SL
+                              T                [ YAMHILL COUNTY T.
+                                                  POLK   COUNTY
+                                                                            qT
+
+Legend                                                                                       °     600   1200
+
+EB COMMERCI¢ AL                            =        OPEN                          dp
+                                                                                  GX         =
+il    INDUSTRIAL                                    SEE CITY OF SHERIDAN
+                                                    COMPREHENSIVE PLAN
+      INSTITUTIONAL
+                                                                                      Existing    Land Use
+      RESIDENTIAL
+oO     AGRICULTURE                                                                                 a
+                                                                                                 Poe     A
+      Exhibit "A"                 - Page   6
+                                                                                                                                                                       ay 48                          Ade3
+3.   Comprehensive                        Plan and Zoning Designations
+
+     The      site        of        the         proposed                 Staff        Training              Center,                as     well         as     the            property            to
+     the      immediate                     north              and         west         is       currently                designated                    Agriculture-Forest
+     Large      Holding                   (AFLH)               on        the     Yamhill                  County          Comprehensive                                Plan         Map        and
+     zoned          EF-40                (Exclusive                  Farm             Use).               The           FCI         site         is     designated                        Public
+     Facility        on            the      City          of        Sheridan            Comprehensive                          Plan             Map         and         zoned             Public
+     Facility         (PF).                     See            Exhibits            5         &       6,         Existing                Comprehensive                              Plan        and
+     Existing Zoning Designations.
+
+     A      Comprehensive                             Plan               amendment                       from           the             current              Yamhill                  County
+     designation                   tu     the      City             of     Sheridan                 Public             Facility            designation                       is     proposed
+     in     conjunction                    with           the            UGB       change.                       Subsequent                 to         annexation                     of       the
+     area      to         the            City      of          Sheridan,               the          subject              property                will         be            zone          Public
+     Facility         (PF).                This           action           is     consistent                    with      the           action          taken                to     site       the
+     Sheridan             FCI.                  See            Exhibits           7         &       8,      Proposed                    Comprehensive                              Plan        and
+          repce:d     Zoning               Designations.
+
+     Accessibility
+
+     Access          to            the      site          is        identical           to          the         approved                 access             for         the         Sheridan
+     FCI.           The            Staff         Training                 Center             will         share         the         same              point            of         access       for
+     Ballston         Road.                     Access              to     Highway                  18      is     via        the         interchange                        on      Ballston
+     Road.
+
+     The      proposed                   Staff        Training                  Center           will           create         no        increase                 in        trips        to    and
+     from      the            FCI         by       FCI          personnel               who              will     use         it        during          their           normal                work
+     hours.           Occasional                      and            non-regular                    visits         by      outside               state             and            local        law
+     enforcement                    personnel                  or        Department                  of         Justice            officials           to     the            Center            will
+     generate             a         very         small              number             of        additional               trips            to         and         from             the        site.
+     The      existing                   road      network                 is     more              than          adequate                 to         service               the      traffic.
+     (EA, p. III-3).
+
+ Exhibit       "A"             -        Page          7
+             RD.
+            BALLSTON
+
+                                        [ Yasui, county |                     _d
+                                             POLK   COUNTY
+
+Legend
+                                                                                              a=
+                                                                                                 600   1200
+CITY OF SHERIDAN                       YAMHILL COUNTY
+    PUBLIC FACILITY                    D   AGRICULTURE/FORESTRY
+                                           LARGE HOLDING
+FAR COMMERCIAL                         O     LIGHT INDUSTRIAL                          Existing
+(I) tient wroustriat                   [J    Pustic assemerysinst.
+                                                                                       Comprehensive Plan
+[J    RESIDENTIAL
+                                            Exhibit          "A"   -      g
+                                                                       Page        3
+[7]   SEE   CITY       OF   SHERIDAN
+         RD.
+         PALLSTON
+|       |
+         t
+
+                            T YAMHILL COUNTY a |         =j
+                                POLK COUNTY
+
+Legend                     YAMHILL COUNTY
+                                                                                    %_    600_   1200
+                                                                             Gr
+CITY OF SHERIDAN           oO   EFU   DISTRICT     (EF-40)                   dD     ca
+    PUBLIC FACILITY        f) arcu (ar-20)
+FR commerciat              []] tient troustriac
+(I) went tnoustriat        FA RECREATION COMMERCIAL                               Existing Zoning
+a   RESTRICTED      RES.   [I] pusic assemecysinstT                aan
+                                                              ExXhLloL               Frhihit     6
+    SEE CITY OF SHERIDAN   7) very LOW DENSITY RES             pace      9
+    ZONING M
+                                                                             FILA     48   ce       1326
+
+              RD.
+              [_SALLSTON
+
+                           NS
+
+                                SN
+                                     SO
+
+                                           T YAmHitt county   |         I
+                                               POLK COUNTY
+
+    Legend                                                                                               600_    1200
+                                                                                    Gr      %_
+    CITY OF SHERIDAN
+        PUBLIC FACILITY
+                                          YAMHILL
+                                          D
+                                                       COUNTY
+                                                AGRICULTURE/FORESTRY
+                                                LARGE HOLDING
+                                                                                    QD
+    FAR OCoMMeRcIAL                       tat] LIGHT     INDUSTRIAL                 Proposed
+    (IJ tient inoustriac                  [J    Pustic AsseMBLy/INST.
+                                                                                    Comprehensive               Plan    -
+    [7   RESIDENTIAL
+                                               Exhibit       "A" - Page 10                      a   ss          =
+"   [7] SEE CITY OF SHERIDAN
+                                                                                    wee     327
+                                                                        FILE   A8
+
+     |              ___       ____Lvamnit county |      _I
+                                       POLK COUNTY                                  =
+
+Legend                            YAMHILL COUNTY
+                                                                    LX         9__ 600 _ 1200
+CITY OF SHERIDAN                  (J eru oistrict (er-40)           ap           a)
+    PUBLIC FACILITY               4 AFtu (ar-20)
+FN commenctat                     []] tient inoustriar
+(J went twoustriac                FA RECREATION COMMERCIAL              Proposed          Zoning
+(A       RE AEstRicteo Res.       1D    rustic ASSEMBLY/INST      wan
+( SER SITY DE SHERIDAN 7) very Low DENSITY RES               Pace 11           Exhibit       8
+                                                                                                                                                    run 48 -icc1 328
+B.   Site Characteristics
+
+     1,    Topography
+
+           The      site         is     essentially               flat.                The         proposed                project         will         require              no
+           modification               to the existing site topography.                                             (EA, p.Ill-1).
+
+     2.    ‘Soils
+
+           According             to      the       Soil         Survey            of        Yamhill           County,             the     soil     type           on       the
+           eastern         portion                of      the         site         where               the         Training             Center            is         to     be
+           located         is         classified            as        Amity             Silt           Loam          (Am).               The       soil           on       the
+           western         half          of        the      site,           which            will           remain          undisturbed,                is        Dayton
+           Silt     Loam         (De).            Amity          Silt       Loam             is a          Class      II soil.           Dayton         Silt           Loam
+           is a Class III soil.
+
+           a.       Amity             Series
+
+                    The         Amity             series         consists              of        somewhat                poorly         Gained           soiis            that
+                    formed              in        mixed         old     alluvium.                       These            soils     are      found            on        broad
+                    valley             terraces            with             slopes           of        0      to     2      percent.               The            ground
+                    elevation                ranges         from            150        to        200       feet.          Amity         soils     are          used        for
+                    vegetable                 crops,        small            grain,              hay,        and         pasture.               They           are        also
+                    used for recreation,                          wildlife habitat, and homesites.
+
+           b.        Dayton            Series
+
+                    The          Dayton                series      consists                 of     poorly            drained            soils      that           formed
+                     in    old         alluvium            on         the         Willamette                  Valley         terraces.              These                 soils
+                    are         limited            in     depth         by         a        very           firm      clay        subsoil.           The              ground
+                     elevation               ranges          from            150        to        200        feet.           Dayton             soils        are          used
+                     for grass seed, spring grain,                                     hay,        pasture, and                  wildlife habitat.
+
+ Exhibit    “A"      - Page                  12                              12
+                                                                                                                                                               ry 48 e329
+
+                                                                                                                                                                                           2
+     3.    Vegetation
+
+           The         site                     is         primarily                non-productive                        agricultural                  land          with               the
+           exception                       of        the        existing            house,           garage,             and         yard        at     the        east        of        the
+           property.                            The             land         is      now         mostly             unmanaged                       pasture.                Several
+           clusters                  of         Oregon             Ash            intersperse                the         agricultural                 land.           The           home
+           site            is         surrounded                             by      conifers                and          ornamental                    deciduous                   trees
+           including                  Oak                 and     Black            Walnut.                  These          trees            will       not     be      disturbed
+           by the proposed                                 project.          (EA, p. II-5).
+
+     4.    Drainage and Runoff
+
+           The        site            is        located            within            the        watershed                 of        the     South            Yamhill            River,
+           one        of         the             principal                  drainage             systems             in        Yamhill                County.              A        field
+           survey               of         the            subject            property            has         revealed                no      water           bodies            on        the
+           site.
+
+           The        Flood                     Insurance                   Rate         Man         preduced                  by     the          Federal
+           Management                                Agency             that         iseludes                the         subject            property               (Community
+           Panel           #410257                        0002         C)     shows            that         the     proposed                Staff       Training               Center
+           is     located                   outside               of         the         100-year             and         500-year                 flood       plain           of        the
+           South       Yamhill                       River.
+
+     5.    Current              Land                 Use
+
+           The        majority                       of     the        8.2        acre      site       is     mostly            agricultural                 land     no        longer
+           in      production.                              The        eastern             end        of      the        property             is      developed                with         a
+           large           house                     and        garage.                  The         house          is     currently                  being         used            as      a
+           temporary                       construction                     office       for the FCI.
+
+C.   Existing Services                      and Facilities
+
+     1,    Water           and Sewer
+
+           The        City                 of         Sheridan               currently             provides               water            and        sewer         service                to
+           the        Sheridan                       FCI.              The         proposed            Staff             Training            Center            will        tie           into
+           existing                  City            water         and            sewer        lines         on     the             FCI     site.            The      capacities
+           presently                  available                   to        the     FCI        are         adequate             to        serve       the     limited               needs
+ Exhibit        "A"    -         Page                 13                                  13
+                                                                                                                                                 rx: 48 n1330
+          of the Training Center.
+
+   2.     Fire Protection
+
+          The      subject             property               is       located                within          the          service                 area         of         the
+          Sheridan            RFPD.            Since           the         proposed             project         involves                   renovation                of     an
+          existing            structure               only,          no          increased             demand                   for          fire         protection
+          service is anticipated.
+
+   3.     Police Protection
+
+          The      subject             property                is      currently                within          the              jurisdiction                   of         the
+          Yamhill         County            Sheriff's               Office.               However,              it         is        anticipated                that         it
+          will    be      annexed              to       the          City         of     Sheridan             and          the         City          of     Sheridan
+          Police          Department                    will          ultimately                 assume              jurisdiction                     for            police
+          protection           services.
+
+          The      Sheridan               Pclice         Pepartment                      is     located              approximately                        sne             mile
+          north     of        the    subject            property.                      Police       staff       consist               of         three      full-time
+          officers and eight reserves.
+
+          Federal         law        enforcement                      personnel               who        will         be         at         the      FCI         at         all
+          times        will     also       take        the          lead     for        overall         security                of         the     facility.              (EA,
+          p. Ill-5).
+
+   4.     Schools
+
+          The      project           site        is     located              in         the      Sheridan             School                     District.                The
+          District        operates             Fauleoner                  Grade          School,         Chapman                      Grade          School,               and
+          Sheridan            High        School.             The          operation             of     the     proposed                     Training            Center
+          will    not     require           an        influx         of     additional                personnel                 and        their         families           to
+          the     area.             The     Sheridan                 School            systems          will        not          be        impacted             by         the
+          proposed Training Center. (EA, p. III-2).
+
+   5.     Miscellaneous              Services
+
+          Electricity,              natural           gas,          telephone,                and       solid         waste                 services            are         all
+          available           at     the       FCI       site.              Presently,                natural         gas             is     not         used        as     an
+                                                                            14
+Exhibit     "A"      -    Page            14
+                                                                                                          nut AB cc BBE
+     energy       source         on     the      site.        The      operation         of    the       Staff       Training
+     Center       will     not        increase       demand          for     these      services.            The     existing
+     structure      has        been      in   use    for      many         years,    first    as     a   residence,         and
+     recently       as     a     construction            office.            The      Staff     Training            Center     is
+     expected       to    require        approximately          the        same      levels   of     these     services      as
+     has been provided                in the past.
+
+it    "A"     -    Page        15                        15
+                                                                                                                                                                ek        48 -ince
+                                                                                                                                                                                       13
+
+                                                                                                                                                                                            C.¥)
+I.   CONCEPTUAL                     DEVELOPMENT                              PLAN
+
+     Plan Description
+
+     The    Bureau           of     Prisons                has        purchased                the     8.2        acre        homesite                  adjacent         to     the
+     Sheridan          FCI        and          proposes                to      convert               the      existing              home               and      garage,        and
+     the      land        into        a         Staff               Training             Center             for        Sheridan                   FCI          personnel         in
+     support of the Institutes' operations.
+
+     The    facility          will         make                full     use        of        the      existing              structures                 and      will     require
+     no    additional             structures                    to     be      constructed.                       An         extensive                 interior         remodel
+     of    the       home           will            be        necessary.                     The       remodel               will            consist           of      providing
+     segregated              restroom                    facilities            both             up      and        down                stairs,           converting             the
+     downstairs              into          a            reception             area             and         offices,               and            the          upstairs         into
+     classrooms.             The         attic will continue                            to be used for storage.
+
+     The      garese          would             only            te      partially              remodeled                for        inforiasi                 indoor/ouzdoor
+     gatherings,            and also            te provide room                          for physical fitness                          training classes.
+
+     The      remaining              farm                acreage             will        be          developed               with            a     baseball            diamond,
+     outdoor        courts for volleyball,                             and lawn                tennis.
+
+     The      access         drive             to        the         existing           house          will       be        widened               and         covered          with
+     gravel.           An      additional                      50     parking            spaces            will        be     provided                  in     front     of     the
+     house.          No      existing                   trees        will     be     removed                in order              to     accommodate                     parking
+     facilities.       (EA, p. I-2).
+
+     Adequacy          of Services                      and     Facilities
+
+     1.        Water        and Sewer
+
+              Significant                 water               and      sewer            service            improvements                          are         being      made      in
+              the      area         in         order            to     serve            the        Sheridan            FCI        facility.                   These      include
+              extension             of              a     14-inch            water            line    which            provides              a water                capacity     of
+               375,000            gallons                 per         day,         and         construction                  of         an        additional             28-acre
+              sewage          lagoon                to treat waste                  water            from     the FCI               site.
+
+ Exhibit         "A"        - Page                  16                                  16
+                                                                                                                                                           cu 48 eI 33:
+              The        proposed            Staff            Training            Center            will        be         linked           to     the         FCI's            water
+              and        sewer         system.                The          demands            placed            on     the         system            by        the        training
+              facility          will        be      minimal                and     well           within         the         capacity               of         the        existing
+              FCI system.
+
+    2.        Fire Protection
+
+              The        proposed            Staff            Training             Center            does            not     require               the         construction
+              of     any        new         structures.                     Improvement                    of        the      existing               structures                   will
+              be      interior              only.               The           existing              structure                 is        already                 within            the
+              jurisdiction              of         the         Sheridan                RFPD.                The              proposed                Steff            Training
+              Center            represents               no     added             burden            to     fire            protection               services               in     the
+              area.
+
+    3.        Police       Protection
+
+              The        proposed                Staff        Training             Center                would         add         ts       the       resnonsibilities
+              of     the        City        of     Sheridan                Police           Department                     once         the        site        is    srnnexed.
+              However,               the         Training                 Center           will      also        become                 a        part          of     the         FCI
+              complex.                The         Bureau             of     Prisons          will         take        the      lead           in    maintaining                   on-
+              site       security            for        this         portion           of     the         complex,                 as       they          have            for     the
+              remaining              portions of the complex                                which house                    prison inmates.
+
+    4.        Schools
+
+              The        proposed            Staff         Training               Center            is    expected                 to       have          no        impact          on
+              the Sheridan                 school system.
+
+    5.        Miscellaneous                 Services
+
+              The          proposed                 Staff                 Training            Facility                is      expected                    to         have           no
+              significant              impact              on             Electrical,             Natural              Gas,             Telephone,                   or          Solid
+              Waste         services.                    The         single        family                home         on      the           site         has         consumed
+              these        services               for     a     number              of       years.              The          proposed                  Staff         Training
+              Center            is     expected                 to         have        a      similar                level         of        demand                 for         these
+              services as the single family home.
+
+aoaxhibit
+       Dist        "A"      -        Page
+                                        g          17                             17
+                                                                                                                                                   rin 48 weed3d
+  REGULATORY                       ISSUES
+
+  UGB     Amendment                  Criteria
+
+  The        City             of       Sheridan                     and           Yamhill                  County              have          adopted            an
+  Intergovernmental                    Agreement                    to     govern            the         management              and       change       of     the
+  acknowledged                Sheridan             UGB.              The      Intergovernmental                         Agreement                 states      that
+  change         of     the          UGB       shall           be         based             upon         consideration               of     the     following
+  factors:
+
+  1.       Demonstrated                      need              to         accommodate                        long-range                   urban         growth
+          requirements;
+
+  2.      Need         for housing,            employment                    opportunities,                 and liveability;
+
+  3.      Orderly         and economic                    provision of public                            facilities and services.
+
+  4.       Maximum                  effisieney            of         land         uses         within        an¢d         on     the       fringe       of     the
+          existing        urban           area;
+
+  5.       Environmental,                   energy,        economic,                   and social consequences;
+
+  6.       Retention               of agricultural              land         until needed                  for development;                 and,
+
+  1        Compatibility                     of          proposed                  urban             uses          with        nearby             agricultural
+          activities.
+
+          This         section            contains        findings                to     address           the     seven         factors          for   a    UGB
+           amendment.
+
+           Factor        1:                  Demonstrated                         need         to        accommodate                 long-range              urban
+                                             growth            requirements.
+
+           The         staff         at      the         Sheridan                 FCI         are         responsible            for        managing           the
+           inmates             at     the      250-bed                   minimum              security           Federal             Prison        Camp        and
+           the         500-bed               medium                      security              Federal              Correctional                   Institution.
+           Adequate                 training        of     the            staff        to      manage            the        prison        population         must
+           be     carried            out     on      an        on-going                basis        in     order       to      train       new      personnel,
+                                                                             18
+Exhibit          "A"     - Page              18
+                                                                                                                                                                       et 48 oace1 335
+
+          and        to upgrade                and refine                  the training of existing staff.
+
+          In       order           to          efficiently                   manage                     the         entire             complex,                   all         facilities
+          necessary               for          management                         of         the         facility           are        being            located                in        close
+          proximity            to        the         FCI.             There              is no            adequate                space               within           the        existing
+          complex            to          house             the         Training                    Center.                 The           existing                 single            family
+          home          adjacent                to         the         site             meets             the         long-term                   needs             of        the          FCI
+          staff,       and         it     is        an     efficient                   use         of     the         subject            property.                       Due         to     its
+          close        proximity                to        the         FCI         complex                  its      continued                    use        as     a        residential
+          site        is unsuitable.
+
+          Factor        2:                      Need                 for          housing,                      employment                        opportunities,                           and
+                                                liveability;
+
+          The        proposed             UGB             amendment                          and         proposed                use        of        the        site        will         have
+          no     impact             on         housing               or      permanent                        employment                         opportunities                      in     the
+          areca.        The             proposed                Sis!i         Training                   Center             will         be       staffed               by     existing
+          FCI        personnel.                     No         additicnai                    permanent                    employment                        opportunities                    or
+          demand             fer         housing                will         be         generated                    by      the         proposal.                       Temporary
+          construction                   jobs             for         the          interior                   remodel              of            the         existing                single
+          family home                   and garage                   will be created by the proposal.
+
+          The        liveability               of        the     Sheridan                    area         will        be     generally                  enhanced                    by     the
+          proposed            annexation                       and         development.                             The          proposed                   use        of      the         site
+          as     a     Staff            Training                 Center                 is     an         efficient                use           of     the            land.               The
+          proposed             use             will            not         unduly                  burden             City             services                  and          will         not
+          generate            any          unnecessary                       traffic                to        and         from          the           site,        as        would           be
+          the case           if the training center                                    was located away                            from           the        FCI.
+
+          Factor        3:                      Orderly                and         economic                   provision                of        public           facilities               and
+                                                services.
+
+          The         proposed                 Staff           Training                  Center               site         can          be        served                with         public
+          facilities          and          services                  that          are         in         the        process                of        being            extended              to
+          the        existing            FCI             complex,                  as         described                   above.                  The            Staff         Training
+          Facility           will        not         require               the          expansion                of        any         public           service              or      public
+          facility supplied by the City of Sheridan.
+
+Exhibit        "A" - Page                       19                                     19
+                                                                                                                                                                       FILE      48       ace   13a   |
+
+          Factor 4:                                 Maximum                 efficiency                of         land            uses            within                 and       on     the
+                                                    fringe of the existing urban area;                                                                             ;
+
+          An          Urban                  Growth                  Boundary                  facilitates                      land             use          efficiency                  by
+          encouraging                        more            compact           development                        within               its        boundary,                      and      by
+          reducing                     speculative                   pressures             on          resource                      lands              outside                  of      the
+          boundary.                     A      UGB            also     functions                to     separate                  urban            and          resource                 land
+          uses and thereby minimize conflicts.
+
+          The        proposed                  Staff          Training          Center               site         is        a    logical               extension                  of     the
+          Urban              Growth                  Boundary.                      The          amendment                            would              allow                  for      the
+          efficient               use         of a property                   which            is no             longer              suited            for             its prior         use
+          as     a farm                 dwelling              due      to     the     siting            of        the           FCI      complex                        on      adjacent
+          parcels.
+
+          The         proposed                    amendment                  will     also             not         cause               conflicts                       with       nearby
+          agricvltural                        iand            uses.            Tle             subject                 property                   is          no             longer       in
+          production,                       and         is     also         effectively                 isolated                     from              other                 productive
+          acres.                 It     is     surrounded               on      twe            sides         by         the          FCi          complex.                       To      the
+          north        is         the        Green            Crest         Cemetery                 property.                       Ballston             Road                separates
+          the        site         from             agricultural              lands         to        the          west.                Further,                        the     proposed
+          use        will             not      generate               additional                traffic                or       demand                  for             other          urban
+          land uses which                          may        conflict        with agricultural                             activities in the area.
+
+          Factor            5:                     Environmental,                               energy,                         economic,                               and           social
+                                                   consequences;
+
+          a.          Environmental]                         Consequences
+
+          The        proposed                  Staff          Training         Center                will         not           have         a     significant                    Impact
+          on     the             Environment.                         Documentation                         of         this          finding             is            discussed          at
+          length            in        the         Environmental                 Assessment                        prepared               for           the             project,          and
+          is only briefly summarized here.
+
+          The         Training                 Center            would         make              use         of         an       existing                structure.                      No
+          other              structures                       would           be          required.                             No      natural                         development
+          limitations,                      such        as    flood         plains        or     steep             slopes              affect            the             site     either.
+          Due         to         its         close           proximity          to        the        FCI,              the       Training                 Center                 can      be
+
+Exhibit        "A"      - Page                     20                           an
+                                                                                                                                                                      FILR         48         PACE 1337
+
+          linked             to        public            sewer           and             water            services                already                being            provided            to
+          that           site.               Given              these          conditions,                      no      significant                       alteration               of        the
+          landscape                will be necessary.
+
+          b.            Energy
+
+          The           single              family         home               on         the       subject             property                    has         been         consuming
+          energy               resources                  for      many              years.                 Operation                    of         the         structure               as     a
+          Staff              Training                   Center            will               not          increase                the          demand                     for      energy
+          resources                above                what       is     typically                  demanded                     for     a single                   family         home.
+          No            modification                        to          the         existing                    transmission                        lines            is         expected.
+          (EA,p.III-3).
+
+          The           proposed                  site      will         also            not         generate                additional                       vehicle           trips        for
+          staff          personnel.                      The       training                  facility            is     to        be      used            predominantly                       by
+          on-duty              personnel.                       Due       to        its        close            proximity                to         the         FCI,        there         will
+          be 0           need          to drive            to and from                       the Training                    Center.
+
+          c.            ¥sonomic                   snd Social Consequences
+
+          The           proposed              Staff          Training                   Center             will        have            few          if        any     economic                or
+          social             consequences                         to          the            City          of         Sheridan                 or             Yamhill             County.
+          Operation                    of     the         Staff         Training                   Center             will        be     managed                     by     Bureau            of
+          Prison             personnel                   already          in        the         area        or        planned                 to         be     in        the     area        as
+          a     result            of        the         construction                    of      the        FCI.              No         additional                   personnel               and
+          their          families                 will     be      moving                 into        the        area        as         a result                of     this       project.
+          As        a    result,              no         additional                direct            or     indirect               jobs            are         anticipated,                  nor
+          will          there           be         any      additional                   demand                 placed             on         the         school            system            or
+          other social services                                 in the area.
+
+          Factor 6:                                 Retention                       of         agricultural                            land              until            needed             for
+                                                    development.
+
+          The           site       proposed                 for          development                        of         the         Staff             Training                   Center         is
+          productive                   agricultural                land.            Soils are predominantly                                        Class            II and III.
+
+          Productive                              agricultural                       soils                are          not             unique                   to         this          site.
+          Approximately                             95-percent                     of          the         land          within                the             City             limits        of
+Exhibit       "A"        -     Page                21                                   21
+                                                                                                                                                                          nn AB cc4338
+          Sheridan                       consists                of         Class         I-IV           soils          and        lands         adjacent              to      the            City
+          are        also            suited                 to        agricultural                  use.                It is recognized                        that         agriculture
+          continues                      to     be          a         significant              component                      of     the     local            economy           and            the
+          City         and               County                  are         committed                   to        the        retention            of      agricultural                  lands
+          for        production                            until           it has        been            demonstrated                       that        the         land      is needed
+          for development.
+
+          It     has            been                 demonstrated                         that               the        site       adjacent               to        the       northwest
+          corner               of         the          Sheridan                FCI           complex                is needed                for        the     specific             use        of
+          the        Bureau                     of          Prisons.                    The             efficient              management                      of      the      complex
+          requires                   that            there             be     a        training               facility,            and      that         the        facility             be     in
+          close            proximity                        to         the        FCI.             The            proposed            site         meets            these      criteria.
+          No         other                property                     within           the        existing               urban            growth             boundary              is        able
+          to meet                   these criteria.
+
+          Factor               7:                          Compatibility                           of         proposed                urban             uses          with           nearby
+                                                           agricult:-;2! activities.
+
+          Use          of                the          proposed                    site          for           a         Staff         Training                 Center           will            be
+          compatible                          with           nearby               agricultural                     land        uses.               The         subject         property
+          is    no         longer                in         production,                  and            is     also       effectively                   isolated           from          other
+          Productive                       acres.                     It     is surrounded                         on     two        sides         by     the        FCI       complex.
+          To      the               north             is         the         Green            Crest               Cemetery               property.                   Ballston             Road
+          separates                      the site from                       agricultural                     lands       to the           west.
+
+          Further,                   the         proposed                     use        will           not        generate                any      additional               traffic            or
+          demand                         for           other                 urban              land                uses           which            may              conflict                 with
+          agricultural                         activities                  in the area.
+
+   Exception          Criteria
+
+   The    purpose                   of        this          section               is    to      address                 the        Exception              Criteria            set         forth
+   in    Goal         2,            Part              II         as         amended                 by            the         1983         Oregon              Legislature                     and
+   implemented                      by          the              Department                    of            Land         Conservation                    and          Development
+   through OAR                      660-04-000.
+
+   The    Exception                  Criteria contained                                 in Goal               2, Part II are:
+                                                                                              22
+Exhibit        "A"         -         Page                  22
+   1.       Reasons            justify            why      the        state         policy               embodied                    in    the         applicable              goals
+           should          not        apply         (This        factor            can            be     satisfied               by compliance                          with         the
+           seven factors of Goal                            14).
+
+   2.      Areas              which          do         not        require               a         new             exception                    cannot             reasonably
+           accommodate                     the use;
+
+   3.      The            long         term              environmental,                                 economic,                         social             and             energy
+           consequences                      resulting               from           the                use         at          the         proposed                site             with
+           measures              designed                 to       reduce           adverse                    impacts                    are         not      significantly
+           more           adverse             than             would         typically                   result                from            the      same             proposal
+           being          located             in        areas         requiring                    a         goal         exception                    other            than         the
+           proposed site; and,
+
+   4.      The        proposed             uses          are     compatible                       with         other            adjacent               uses        or        will     be
+           8G renZarcd                through            measures            desigued                   to reduce               adverse               impacts.
+
+  The      exceptions                oriteria        overlap               with      the           seven            factors               ts     be         considered               for
+  a      UGB       amendment.                       This         section            contains                   a        discussion               of         the      exception
+  criterion         which            has      not        already             been            adequately                    addressed                   under            the         UGB
+   Amendment              Criteria.
+
+   Criteria         #3:          The          long         term            environmental,                           economic,                   social            and         energy
+   consequences                resulting             from            the      use            at         the         proposed                   site         with        measures
+   designed         to     reduce            adverse            impacts             are           not         significantly                     more          adverse               than
+   would          typically           result             from          the         same                 proposal                being            located                in      areas
+   requiring        a goal       exception                other        than        the proposed                         site.
+
+  The      site     for        the     proposed                Staff        Training                   Center             is     immediately                      adjacent            to
+   the     existing            FCI           complex.                   As         has             been             mentioned,                    it        will        be          used
+   predominantly               by FCI staff during                          their regular                      work shifts.
+
+   The         proposed               site         for         the         Staff             Training                    Center                 has          three            unique
+   advantages             that        other         properties               outside               of        the         Urban             Growth             Boundary                do
+   not:
+
+   a.      The        site       can         be      connected                to     existing                      City         water            and         sewer            service
+                                              23                              23
+Exhibit         "A"       -     Page          2
+                                                                                                                                                       rit 48 1340
+
+            without expansion of the existing systems.
+
+    b.      Employees                  using             the         training                      facility         will            not         have         to         make         any
+            additional                 vehicle                trips         to         travel                from            the          FCI         complex              to        the
+            training            facility.                Therefore,                    there               will     be       no       additional              strain           on    the
+            public roads system.
+
+    e.      The       only             significant                  improvements                             necessary                to         make             the     Training
+            Center              operational                   are     an         interior                  remodel             of     the        existing               house       and
+            a garage,                 the        construction                    of            a     gravel         parking               lot,        and         the     widening
+            of       the         existing                driveway                 to               accommodate                        two-way                traffic.                 No
+            additional             structures                   or        additional                   modifications                       to     the        topography               of
+            the site are necessary.
+
+    City of Sheridan                   Comprehensive                        Plan
+
+   The      Lend       Conservation                       and         Development                           Commission                     (LCDC)              seknowledged
+    thet    the      City         of        Sheridan                                           nsive         Plan        was         in     compliance                   wiih       the
+                                                                                           i
+
+    A     change      of        the         acknowledged                        Urban                Growth             Boundary                (UGB)             is considered
+    an     amendment                        to          both          the         City                and          County                 Comprehensive                         Plans.
+    Therefore,         this           UGB          amendment                      is           reviewed             for        consistency                   with        the        goal
+    and     policy         direction              provided                 in     the               City      of        Sheridan                and     Yamhill            County
+    Comprehensive                 Plans.
+
+    Each     goal          in     the            Sheridan             Comprehensive                               Plan         is     supported                   by     numerous
+    policies       which          provide                more             specific                 direction             and        guidance                for        compliance
+    with     the      goal.                 The         following                is        a        listing         of       each          goal         and            appropriate
+    policies,       with          findings               provided                to        explain                why        the          proposed                UGB      change
+    and     plan       amendment                         is     consistent                          with          the        goal          or         policy.             Policies
+    contained              in         the         Plan              but         not                referenced                here           are          not            considered
+    applicable        to the proposal.
+
+    1,       Land      Use        Planning
+
+             Policy 1:                The         City          shall            review                the         Comprehensive                        Land             Use        Plan
+                                      and         all         supporting               documents                        at     least            every        five        years        to
+                                                                                      24
+Exhibit      "A"       -        Page             24
+                                                                                                                                                                FILK 48 we A S44
+
+                            ensure            that             a          factual                basis             for             planning                 decisions            is
+                            maintained.                       All     plan               review          shall               be     undertaken                    consistent
+                            with     the           Statewide                    Citizen               Involvement                          Goal           and      with         the
+                            City's Citizen                    Involvement                       Program.
+
+          Findings:         The      City              recently             finalized                  its        Periodie                    Review              Order     and
+                            sent         it    to             the          Department                        of              Land               Conservation                and
+                            Development                       for          final               review.                      The      need             for         the     Staff
+                            Training           Center                 was            not         included                    in      the         Periodie               Review
+                            Order         because               the         Bureau               of      Prisons                   had        not         identified        the
+                            need     for           a     Staff            Training                Center                    until         after           the      City     had
+                            completed                  its' Periodic                 Review.
+
+   2.     Agricultural           Lands
+
+          Goal    1:        To      preserve                       the              economic                 viability                    of          agriculture               by
+                            preserving             prime            agriculiurai land for Zarming.
+
+          Findings:         Agriculture                  is     an         important                   component                         of      the        econemy              of
+                            Sheridan.                   Approximately                            95%         of             the     land            area        within      the
+                            existing          UGB              consists                  of      SCS         Class                 I-IV         agricultural              soils.
+                            An      estimated                       100             acres             within                 the          existing                UGB       are
+                            actually                    devoted                      to          agricultural                                 use.                (Sheridan
+                            Comprehensive                      Plan, p. 11).
+
+                            The     area           proposed                 to           be      included                   within            the      Sheridan            UGB
+                            consists          of         predominantly                           Class            II        and      III        agricultural              soils.
+                            However,                   based          on            an         analysis                of         need          and         the     lack         of
+                            sites    within              the         existing                  UGB       suitable                   for         the       location         of     a
+                            training               center,                     it         is      appropriate                              to         designate             the
+                            agricultural                 soils            on         the         project                    site     for            the      unique         and
+                            specific          development of a Staff Training Center.
+
+          Policy 2:         Agricultural                  land             conversion                   to             urban          uses            shall        be      done
+                            only         when                 adequate                    public             facilities                       and         services          are
+                            available to the area(s) proposed for development.
+
+          Findings:         As      documented                       in         Section               II(B)             of         this         report,            the     area
+Exhibit     "A"        -   Page      25                                    25
+                                                                                                                                                        fit 48 4342
+
+                            proposed              to         be        included                  within            the     Sheridan                   UGB               ean     be
+                            served           with                urban            facilities                 and         services                that            are         being
+                            extended              to serve              the adjacent                        FCI.
+
+          Policy 3:         The          City               shall            encourage                       Yamhill                 County                 to         restrict
+                            commercial                           and         residential                           development                          outside                the
+                            Sheridan          Urban               Growth               Boundary.
+
+          Findings:         Sheridan              and             Yamhill               County                   have      historically                     discouraged
+                            expansion                 of     the        UGB            south               of Highway                 18        to     accommodate
+                            commercial                     or residential development.
+
+                            This        UGB            amendment                       is        consistent               with         this           policy.                Only
+                            public        facility/institutional                                      land         uses         are         proposed                   for     the
+                            subject property.
+
+  3.      Open    Spseces, Scenic                 ard Historie Areas                                  and Natural                   Resources
+
+          Geal    is        Tc     conserve                  cpen           spaces,                   and        orecerve             naturel,               seenie           and
+                            cultural resources.
+
+          Findings:         As     a     component                     of        the        EA         process,            a        partial           archaeological
+                            survey           of            the      8.2-acre                     Bureau             of         Prisons               site        has         been
+                            completed.                      The         purpose                  of        the     survey            was         to     identify              any
+                            cultural              resources                      known                to         exist         in      the            project                area,
+                            characterize                     the         prehistoric                        and         historical               development                     of
+                            the        general              area,           and         interpret                  the     data            in     the        context            of
+                            regional         developments.
+
+                            No         archaeologically                               significant                  areas            were              found             in     the
+                            immediate                      vicinity              of     the            proposed                Staff            Training               Center.
+                            The         existing                 structures                 on        the        site     were             also        not        found         to
+                            be architecturally significant.
+
+                            The        majority                  of the           site           will remain                   as open               space         in order
+                            to         provide               a      recreational                            area         for         the         staff            and          will
+                            protect               a         small            prehistoric                         archaeological                        site            on      the
+                            southwest                 portion of the property.
+                                                                            26
+Exhibit     "A"        -   Page         26
+                                                                                                                                            a 48 14349
+   4,     Water         Resources
+
+          Policy        1:     The       City        shall           support            the      upgrading                and            maintenance                 of
+                                the     water        system            as     a     vital        element            to        the        continued                well-
+                               being of the community.
+
+          Findings:            The      proposed               use     will        not     require            an     upgrade                of        the        City's
+                               water      system.
+
+   5.     Economy             of the City
+
+          Goal     1:          To diversify and improve                                the city's economy.
+
+          Policy 7:            The       City            shall         promote                those       industries                     that         are         non-
+                               polluting,            energy-efficient,                         and       which                utilize            local            labor
+                               ang rex          meterials.
+
+          Findings:            The       City            has          identified               the      Sheridan                FC]              as         a     non-
+                               polluting,           energy-efficient                          industry             that        will         provide                jobs
+                               within         the     community,                   and         has     committed                    to     the        long-term
+                               operation            of     the         facility          through          a        previous               similar               action.
+                               The      UGB         amendment                 to       provide          for        a Staff               Training               Center
+                                is     consistent              with         the        past      actions            of        the          City         and        this
+                                Plan     Policy.
+          Policy             10:Future          industrial              growth             found         to         be         incompatible                        with
+                               residential               use         shall        be      directed             away             from             existing            or
+                               proposed         areas of residential development.
+
+          Findings:             The      adopted               Sheridan            Comprehensive                         Plan            illustrates               that
+                                the     anticipated                  growth            pattern          for        the         City         is        north         and
+                                west     of     the        existing           downtown                 area.             Development                    patterns
+                                in     Sheridan            are        shaped             and         directed            by     topographical                       and
+                                floodplain constraints.
+
+                                Approval            of         this         UGB          Amendment                   will            not         change             the
+                                anticipated           pattern           of growth.
+
+Exhibit    "A"          -     Page       27                             27
+                                                                                                                                          rue 48 4344
+                        The        site      proposed                to        be        Included                 within        the        Sheridan           UGB
+                        is    the       preferred                  location               of      the        Bureau            of        Prisons          because
+                        it    Is     located            in     close               proximity                to      urban           development,                yet
+                        is     effectively                   separated                    from             the       city           by         the        physical
+                        barrier of State Highway                                    18.
+
+    6.   Public Facilities and Services
+
+         Policy 2:      The        City      shall           not     provide                   water         or     sewer           services              to lands
+                        outside the urban growth                                    boundary.
+
+         Findings:      The         site         preferred               by         the         Bureau             of         Prisons           is    currently
+                        outside            the          UGB          and            the          City's           jurisdiction.                 Sheridan          is
+                        expanding                 the         infrastructure                           base         needed                to         meet       the
+                        utility            requirements                       of         the          FCI.               The          proposed                State
+                        Tcsining            Center             will           be      ble             to     tic        jito        the        City        system
+                        threugh            the      FCI        water               and         sewer          system.                No        exsansion         of
+                        either system                   is necessary.
+
+         Policy 8:      Developable                 areas           which                are          most         easily           served           by     public
+                        facilities           and         services                  shall         be        identified               and        promoted          as
+                        priority development                          areas.
+
+         Findings:      See        Finding for Policy                      2, above.
+
+         Policy 13:                 A      high standard                      of fire protection                              shall       be         maintained
+                                    and expanded                    as needed.
+
+         Findings:      The        single         family           home             on         the     subject            property              is    currently
+                        within             the      Sheridan                   RFPD.                  Since             the         proposed               project
+                        involves                 renovation                    of          an         existing                structure               only,      no
+                        increased demand for fire protection service                                                            is anticipated.
+
+    7    Transportation
+
+         Policy   13:               The            City              shall                 ensure                   that             transportation
+                                    improvements                      are            used             to      guide            urban            development
+                                    and are designated to serve anticipated future needs.
+
+E   hibit "A" - Page 28                                             28
+                                                                                                                                       ith 48                        13845
+
+          Findings:      The        existing             transportation                          network                  in    the         area          provides
+                         adequate                access         to         the         site.             State             Highway             18         is     well-
+                         maintained                and         relatively                   lightly                traveled,            as         is     Ballston
+                         Road.              The         road         network                is     sufficient                  and      no         new          public
+                         roads           will     be      required.                     The            utilization               of     existing                public
+                         roads           will     be      required.                    The             utilization               of     existing                public
+                         roads           will      maximize                the         public               investment                 in     the         existing
+                         road network.
+
+          Policy   14:              The          City     shall           coordinate                   with         Yamhill            County             and      the
+                                    Oregon              Department                     of         Transportation                       with             regard      to
+                                    City          actions            and         needs             which             may         affect             traffic         on
+                                    state           and         county                 roads                within             the          urban              growth
+                                   boundary.
+
+          Findingss                 Ballston            Roed          is     under               the        jurisdicticn               of     the         Yamhill
+                                    Csuniy              Public             Works            Department                         and      Staie            Highway
+                                    18      is     under        the         jurisdiction                    of      the        Oregon          Department
+                                    of          Transportation.                                  Both              agencies             will            have        an
+                                    opportunity                 to         participate                   in         this        land         use         decision.
+                                    It     is     documented                     in      the           EA          that        both         Ballston             Road
+                                    and          Highway             18     have            more            than           adequate            capacity             to
+                                    accommodate                      the         proposed                Staff             Training           Center              with
+                                    no      adverse            impact             on        existing               traffic           conditions.                  (EA,
+                                    p. III-3).
+
+   8.     Energy
+
+          Policy 73      The            City        shall            encourage                        developments                      which              contain
+                         provisions               for     energy             efficiency                       and/or            retain         options             for
+                         future considerations or renewable sources of energy.
+
+          Findings:      As    a        Federal          agency,            the         Bureau                of     Prisons           is     mandated              to
+                         use       less           energy             in      order               to         reduce              energy              costs          and
+                         conserve               energy         resources.                    The         facility              will     be     designed             to
+                         be        energy-efficient                              and             will          use             energy          conserving
+                         equipment.                (Draft        EIS for original FCI siting, P.II-1).
+Exhibit   "A"      - Page          29                            29
+                                                                                                                                                       run AB 161348
+   9.     Land       Use           and Urbanization
+
+          Goal       1:             To      provide             for        an         orderly                and          efficient                transition            from
+                                    rural to urban land use.
+
+          Findings:                 The      Staff            Training                Center                 requires                 urban             facilities        and
+                                    services;            therefore,                  the     development                         is         most         appropriately
+                                    accommodated                      within           an     Urban                Growth              Boundary.                 Inclusion
+                                    of     the      site         within              the     Sheridan                 UGB              will        provide         for     an
+                                    efficient transition in land uses for the following reasons:
+
+                                    °        The         UGB          Amendment                     will        only            include            land        designated
+                                             for           public                facility                    uses.                     Urban              residential,
+                                             commercial,                       and         industrial                development                        will     continue
+                                             to      be         directed               to      the             north            of          State         Highway          18
+                                             within the existing UGB.
+
+                                    a        The           training              center                 will         be         separated                  from        lands
+                                             committed                    te     agricultural                  use         by         the        Sheridsn         FCI      on
+                                             the         south        and        east,        Ballston                Road             on        the     west,     and     by
+                                             the cemetery                      to the north.
+
+          Goal       2:             To     ensure        a compact               urban growth                        pattern.
+
+          Findings:                 Approval             of         this        UGB           Amendment                          will            not       establish        a
+                                    precedent              for        a         change             in         the         pattern                 or     direction         of
+                                    growth          in        Sheridan.                    Urban             development                         will     continue         to
+                                     be directed to the north of State Highway                                                             18.
+
+   Yamhill      County              Comprehensive                   Plan
+
+   The    Yamhill                   County         Comprehensive                            Plan             contains                 goals             which      closely
+   parallel         the            statewide             planning               goals.                   A         listing             of         each          goal      and
+   appropriate                policies           follows,           with          finding               presented                     to         explain         why      the
+   proposed         UGB/plan                amendment                  complies               with             the        goal             or     policy.         Policies
+   contained                  in     the     Plan             but         not         referenced                     here             are          not         considered
+   applicable        to the proposal.
+
+Exhibit       "A"         -        Page     30                                  30
+   1.     Urban        Area    Development
+
+          Goal 1:             To      encourage            the          containment                        of         growth             within              existing
+                              urban      centers,           provide                for         the         orderly,               staged,              diversified
+                              and      compatible           development                        of        all     of         the     cities         of        Yamhill
+                              County,          and      assure           an         efficient                   transition               from            rural        to
+                              urban land use.
+          Findings:           As     described            above,             the          proposed                training               center              site     is
+                              isolated           from       other                 resource                 lands.                  It     can            also        be
+                              efficiently            served            with          existing                   public            water           and             sewer
+                              services.
+
+                              The      proposed         amendment                    is        in     support               of     an     existing                urban
+                              industrial          use       and         will             not         require                 expansion                  of         many
+                              public      urban         service.                  The          proposed                amendment                  will        assure
+                              an efficient transition from rural to urban land use.
+
+          Policy co:          Yemnill          County         wiii       reeognize                       the      lané:            within          estatlisned
+                              urban       growth           houncarfes                     as         the         appropriate                 and             desired
+                              location         for urban development.
+
+          Findings:           As     summarized             in     Section                IV(B)           of      this        report,         the            existing
+                              Sheridan           UGB       does         not         contain                a      site        which          is        suited         to
+                              the needs          of the Bureau                    of Prisons.
+
+                              The      preferred           site         of         the         Bureau                 of      Prisons             is     uniquely
+                              suited      to      the      proposed                use         because                it     is     accessible                to    on-
+                              duty      FCI       staff,         and         it     can         be         efficiently                  served           with        all
+                              necessary          urban facilities and services.
+
+          Goal    2:          To       encourage                 the          containment                        of          urban         services                 and
+                              facilities          and       other                 public            capital                 improvements                       within
+                              existing           urbanizing             areas             in        order             to      achieve              an        orderly
+                              pattern of urban growth.
+
+          Findings:           As       stated         above,            there             is        no          site         within          the             existing
+                              urbanized            area       of        Sheridan                    suited             to         the     needs              of      the
+                              Bureau        of       Prisons.            Approval                   of         this        UGB          Amendment                   will
+                                                                   31
+Exhibit     "A"        -   Page        31
+                                                                                                                                                            PILR            48        ace   348
+
+                            not      change            the        direction                 of      urban               growth             in     Sheridan,                  and
+                            sewer          and        water                facilities              are        already                being             extended                  to
+                            accommodate                    the FCI.
+
+  2.      City Growth            and Development
+
+          Policya:          All      urban                 growth                boundaries                        in         the         County              will            be
+                            delineated            as        shown             on       the         Plan            Map          and         no        extension                  of
+                            urban         land        uses            or     city           water             and         sewer             services               beyond
+                            the     designated                   urban           growth              boundaries                     will         be        undertaken
+                            without            concurrent                  amendments                     to        both            the     respective                      City
+                            and County Comprehensive                                        Plans.
+
+          Findings:         Approval              of             the         UGB                 Amendment                           will         result               in        a
+                            concurrent                amendment                       of         both         the         Sheridan                    and      Yamhill
+                            County              Comprehensive                          Plans.                      Subsequent                    to         the         UGB
+                            Azendment,                     the         City           inte:ds                 to        annex             and          sezone                the
+                            lands         within            the            UGB             area          to         Publie            Facilities.                           This
+                            approach             will           enable             urban            facilities                  and         services               i
+
+                                                                                                                                                                   4)
+
+                                                                                                                                                                             8
+                            delivered            and            administered                       under                City         policies               consistent
+                            with     the state's land use goals.
+
+  3.      Agricultural           Lands
+
+          Goal     1:       To     conserve                Yamhill            County's               farm               lands        for        the         production
+                            of     crops        and        livestock               and        to     ensure               that        the         conversion                  of
+                            farm         land         to        urban          use          where              necessary                    and            appropriate
+                            occurs        in an orderly and economical                                             manner.
+
+          Findings:         The          site         of         the          proposed                    Staff                 Training                   Center                is
+                            productive             agricultural                       land.              Agriculture                       is     a         significant
+                            component              of           the        local           and      county                economy                 and         Sheridan
+                            and     Yamhill                County             are          committed                     to     the         conservation                         of
+                            farm     lands.
+
+                            However,             it        is         appropriate                   to        convert                approximately                           8.2
+                            acres         of     farm             land           to         urban             use         given             the            Bureau                of
+                            Prisons            need         for        a      training               center               adjacent                    to     the            FCI;
+Exhibit      "A"        -   Page         32                            32
+                                                                                                                                           rn 48 4349
+                         and,         because            the         site         is     small             and         isolated            from                other
+                         agricultural lands.
+
+          Goal 2:        To     conserve             Yamhill                County's                soil      resources               in        a         manner
+                         reflecting            their               suitability                for      forestry,                   agriculture                   and
+                         urban        development                    and        their         sustained            use        for        the         purposes
+                         designated on the County                                 Plan        Map.
+
+          Findings:      The     area         proposed               to     be         included            within           the      Sheridan                  UGB
+                         includes            productive                  agricultural                soils.            About             95%              of     the
+                         land     within           the        existing                Sheridan             UGB         consists            of         Class        I-
+                         IV     soils        and      virtually                 all      lands         adjacent               to     the            UGB          are
+                         designated as agricultural land.
+
+                         The          soil      characteristics                         of       agricultural                    lands           are            also
+                         typically            suited           to         urban          development                    (gentle            topography,
+                         well-drained              sails).
+
+                         The     siie        proposed               te     be         included         within           the         UGR         is        needed
+                         and     is     suited           to        the      unique            requirements                  of      the         Bureau            of
+                         Prisons.
+
+  4.      Public    Facilities and Services
+
+          Policy a:      Yamhill             County            will         coordinate                with         the        cities            within            its
+                         jurisdiction                to            provide               an         orderly            phasing              of             water,
+                         sanitary            sewerage,               storm             drainage            and     other            public            services
+                         and    facilities within                     the urban               growth         boundaries.
+
+          Findings:      Sheridan            possesses               the         infrastructure                   base           needed              to        meet
+                         the     utility        requirements                     of      the        training           center.              City               water
+                         and      sewer            systems                have         the      capacity               to        serve          its        needs.
+                         The          phasing                 of          water,              sewer              and          storm                 drainage
+                         improvements                  will          be     coordinated                    with        Yamhill             County                and
+                         other affected parties.
+
+          Policy h:      Yamhill             County           will        work          with        cities        within           the     county,               the
+                         Yamhill             County                Historical                Society,            the        Oregon                  Historical
+                                                                    33
+Exhibit     "A"     -   Page      33
+                                                                                                                  rx           48 ‘vce 1350 |
+
+                      Society,       the         Oregon        State         Museum         of      Anthropology,                    the
+                      State        Historical           Preservation              Officer,         the         Heritage              and
+                      Conservation                Administration,                  and       all         other           interested
+                      groups         to        identify            and      preserve       sites          of       historic            or
+                      archaeological             interest.
+
+          Findings:   A     Phase     I archaeological                   survey     of     the      8.2        acre       site       has
+                      been     completed.                 A        single     prehistoric          archaeological                    site
+                      was     observed           in     the        southwest       portion         of      the         site.         The
+                      structures          to     be    remodeled            on    the    site      are         located          in   the
+                      northeast           corner.             No      additional         structures              are      required.
+                      Therefore,           the        prehistoric           archaeological              site      will         not     be
+                      disturbed.      (EA, p.II-43)
+
+Exhibit     "A"   - Page      34                         34
+                                                                                                                                                                     rue 48                  A B54 -
+
+Vv.      SUMMARY
+
+The     Urban             Growth               Boundary                        and        Comprehensive                          Plan      Amendment                   described             in
+this    report            represents                    a      logical                  extension           of        the         City's         UGB,          and      will        provide
+for an        efficient                use     of the                    subject           property.                  The         amendment               and        comprehensive
+plan      change              have           been            shown                 to     be        necessary               in     order         to      support            the         larger
+Sheridan            Federal              Correctional                              Institution,             a         facility           that           the      community                 has
+embraced            as        an        industry               which                provides             economic                 and      employment                  opportunities
+to the area.
+
+The          findings                  contained                    in         this        report            and            the          Environmental                      Assessment
+demonstrate               that           the        expansion                      of     the        UGB         to        include         the        subject         property,            and
+the     subsequent                     development                        and           operation           of         a     Staff         Training             Center            will     not
+adversely           impact              the         community.                            The        proposed               Staff        Training             Center         will        make
+use     of      existing                structures                       on         the         site.            Only             minor          site         modifications                for
+pecking        and        recreational                        fields               will    be        necessary.                   Public         services             already            being
+extended            tc        the        Sheridan                   FC!            wili        be    asdenuate               to      serve         the         Training            Cefter.
+
+The       findings              contained                      in         this            report           also            demonstrate                   that         the         proposed
+annexation           meets              the City's adopted standards                                         for such actions,                        most       notably:
+
+        °            The            annexation                      is     a       timely            and        economical                 transition                from         rural     to
+                     urban             land        uses;          and
+
+         °           The               annexation                        takes            advantage                   of         planned          expansions                 of         public
+                     services;
+
+Finally,       the        findings                 of        this         report           show          that         the        propopsed              Comprehensive                     Plan
+Change         from            from            a        Yamhill                    County           Agriculture                   Forest         Large          Holding             (AFLH)
+designation              to        a    City            of     Sheridan                   Public         Facilities               (PF)      designation;               and,         a     zone
+change         from            EF-40               to        Public                Facilities            (PF)         will        benefit          of     the        public         health,
+safety,        welfare,                 convenience                           by        providing           a         needed             expansion              to     the        Sheridan
+FCI    in the most                     efficient and cost effective                                        manner            possible.
+
+Given        that        the           Staff        Training                   Center               is necessary                  for the          efficient           operation            of
+the     FCI,        and        that          the         subject               site        has       been        proven             to     be     the         most     suitable            site
+for    the      training                center,               it         is appropriate                    for         the        Sheridan              Planning            Commission
+Exhibit              "A"            - Page                   35                                     35
+                                                                                                                           rile 48 94352
+
+                                                                                                                                            2,
+and       Yamhill       County            Planning         Commission           to     recommend                 approval       of     an
+amendment        to     the    Sheridan            Urban    Growth       Boundary            and        a    Comprehensive           Plan
+Change       from       a     Yamhill          County        Agriculture             Forest         Large            Holding   (AFLH)
+designation      to     a     City        of   Sheridan       Public         Facilities       (PF)           designation       for    the
+subject     property.         It     is    also     appropriate        for     the     Sheridan             Planning      Commission
+to    recommend       approval            of   a    zone    change      from         EF-40         to       Public     Facilities    (PF)
+for the subject property.
+
+                "A"         - Page 36                          36
+     Exhibit
+EXHIBIi.       3"
+
+FOR    ORDINANCE      NO.   484
+
+TO    CHANGE    THE    COMPREHENSIVE      PLAN    MAP    TO    ALLOW   EXPANSION
+
+OF    THE    URBAN    GROWTH   BOUNDARY    OF    THE    CITY    OF   SHERIDAN   ON
+
+TAX    LOT    NO.    5635-1000
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 93.2% of
+the word sequence, and on 54.9% of the figures. Dictionary-recognizable words: 92.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

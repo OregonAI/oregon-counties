@@ -1,0 +1,482 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord710-pdf
+title: 'ORD710-PDF'
+doc_type: ordinance
+citation: 'ORD710-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17488/ORD710-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 81e910af0b8ed3a2dc3bd07a887231e60078111ac38c80d748470a22c7fb3275
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.958; figure agreement 0.754; dictionary ratio 0.948. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - OAR 660-004-0018
+    - OAR 660-004-0025
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 96%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD710-PDF (ORD710-PDF)
+
+## At a glance
+
+OCR-derived text of ORD710-PDF. Not human-verified.
+
+## Full text
+
+FILK    73   PACE   530
+
+                                                                                                         2 APRI8 P4x9
+                     IN THE BOARD OF COMMISSIONERS                   OF THE STATE OF OREGON
+—s
+
+                                        FOR THE COUNTY OF YAMHILL
+
+                         SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+     In the Matter of Affirming the Planning
+
+                                                                ee
+     Commission’s Approval of a Application for a
+     Zone Change from AF-10 Agriculture Forestry                            ORDINANCE 710
+
+                                                                ee
+     Small Holding to Very Low Density Residential
+
+                                                                ee
+     VLDR 2.5 for a 13.51 acre parcel, applicants
+
+                                                                ee
+     Albert and Ella Kroenig, Tax Lot 5429-1200,
+     Docket Z-01-01, and Declaring an Emergency
+
+                                                                Ne
+     THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board) sat for the
+     transaction of county business in formal session on April 18, 2002, Commissioners Robert Johnstone,
+     Thomas E. E. Bunn, and Leslie Lewis being present.
+
+     THE BOARD MAKES THE FOLLOWING FINDINGS:
+
+     A.      The applicants, Albert and Ella Kroenig,, applied for a zone change from AF-10 Agriculture
+     Forestry Small Holding to Very Low Density Residential VLDR 2.5 for a 13.51 acre parcel, tax lot 5429-
+     1200, located at addresses 9155, 9461 and 9600 Laughter Lane, Amity, Oregon.
+
+     B.        A duly noticed public hearing was held by the Yamhill County Planning Commission on March 7,
+     2002. The applicants appeared with attorney Michael G. Gunn of Newberg. No opponents appeared, and no
+     letters in opposition were entered into the record. The Commission duly deliberated and voted 7-2 to approve
+     the application for the reasons set forth in Exhibit “A”, attached and hereby incorporated by reference.
+     NOW, THEREFORE:
+
+     ITIS HEREBY ORDERED BY THEBOARD that the Planning Commission’s approval of application Z-01-
+     01 is affirmed for the reasons stated in the Findings for Approval and attached and incorporated into this
+     Board Order as Exhibit “A”; and, this action being necessary for the health, safety, and welfare of the people
+     of Yamhill County, this ordinance takes effect immediately.
+
+     DONE at McMinnville, Oregon this 18" day of April, 2002.
+
+                                               YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+                                                “ba Khel ne
+                                               Chairman                     ROBERT            JOHNSTONE
+                                                 id                                e
+                                                   [                   €.    € «       waht    fe Ota,
+                                                                                                  E Pat
+                                               Commissioner                 THOMAS E.E. BUNN
+     FORM APPROVED BY:                                          A
+       Nem Ben”                                 Ob 2             [ 4        [Leset:
+     RICK SANAI                                Commissioner      “           MESLIE LEWIS
+     Assistant County Counsel
+                                               PF: \Users\sanair\L U\KroenigOrdnanceZ0101.wpd
+
+                                                                                                               Bo FO2> 22"
+                                                                                                          Ordinance 710-
+                                                     EXHIBIT      "A"                                            FILK        73    PACE        531
+
+                    FINDINGS     FOR     APPROVAL         REGARDING            ZONE          CHANGE             Z-01-01
+
+A.      Background              Facts
+
+           1.         Lot     size:      A     combined         total     of      approximately                       13.51        acres
+
+           2.         Access:  The property has                         one access point,                         Laughter
+Lane,           a    private driveway off of OR                         State Hwy 99W.
+
+           3.         On-site         Land     Use:      The     eastern          portion                of     the     property
+is fairly level and has about seven   (7) acres in a grass                                                                    field.
+The property contains three  (3) existing residences,   two                                                                   (2)
+barns,  and several other outbuildings.                                           One dwelling is located
+near the eastern property line,   and the                                         other two  (2) houses are
+located near the western property line.                                            The grass field is
+located between the dwellings.
+
+           4.         Surrounding Zoning and                     Land     Use:   Land to the south and
+west       is        zoned EF-80  ("Exclusive                    Farm     Use").    Properties to the
+east,           across        State     Hwy     99W,     are     zoned       VLDR        2       1/2          ("Very     Low
+Density              Residential").              The     property         to      the        north            contains            two
+(2)     different              zones.          The     western        half     of     the         northern              property
+is zoned AF 10  ("Agriculture/Forestry Small                                                 Holding"),                 and       the
+eastern half is zoned VLDR 2 1/2   ("Very Low                                                Density
+Residential"),                   This         VLDR     zone     was     modified             in        1998      at     the
+request of Selleck,   the property owner.   Subsequent  to approval
+of the said zone change,   Selleck has partitioned the property
+several  times.   The Amity city limits come as close as 750'    to
+the north of the subject property and 300'    to the east of the
+subject property.
+
+           5.         Water:          On-site         wells     appear       to     be       the         only     option.
+
+           6.    Sewage          Disposal:              Septic        systems         are         the         only      option            in
+this       area.
+
+      7.  Soils:   Sheet 50 of the Yamhill   County Soil Survey
+indicates   the majority of the property consists of Woodburn      (WuB)
+soils which are located on the eastern end of the parcel.        This
+soil  is rated as Class   II for agricultural purposes.   The
+remaining   1/3 of the parcel consists of a mixture of Cove     (Cs and
+Cn),  Woodburn   (WuB),   and Terrace   Escarpments                                               (Te)        with      an
+agricultural   rating   of Class   III,  IV,  and V.
+
+      8.  Previous Actions:   Docker SE-19-78, a special   exception,
+was granted to allow creation of a 1.64 acre parcel    around an
+existing residence.    Docket P-899-78 approved the separation of
+the 1.64 acres.   A map showing the separation was prepared,     but
+it    is      not      clear     if     it     was     ever    recorded.
+
+           9.         Flood     Plain:          FIRM     map     410249        0477          C     shows         that        a    few
+acres of              the southwestern corner                     of     the      property                is     in     the
+100-year              flood hazard area.
+
+        10.           Taxes:          Three     (3)     acres     is     taxed       at          market          value;           10.74
+
+PAGE       1-FINDINGS            REGARDING             ZONE    CHANGE        Z-01-01
+                                                                                                               rite 73 vce AO?
+acres           is    taxed       at         farm   deferral.
+
+          11.         Exception:                The   property             was    found      to    be     a    committed
+exception              in    Code        Area       5.16,         adopted        by    Exception's             Statement         II,
+April  23, 1980                   and         was   plan         designated           VLDR   Very        Low    Density
+Residential.
+
+     12.  Request:    The                           request  is to allow the property to be
+rezoned to VLDR 2 1/2.                               If approved,  the new zoning would allow
+the three   (3) existing                            dwellings to be divided off and the
+creation              of    two        (2)     additional           home-sites.
+
+-      Zone          Change       Provisions            and        Analysis
+
+   1.  Approval of a request  for a                                        zone change            must        be based      on
+compliance with the standards    and                                       criteria in            YCZO        1208.02.
+These provisions  are:
+
+      A.              The    proposed change is consistent with                                         the    goals,
+policies              and    any other applicable provisions of                                         the    Comprehensive
+Plan.
+
+      B.    There is an existing,  demonstrable need for the
+particular uses allowed by the requested zone,      considering the
+importance of such uses to the citizenry or the economy of the
+area,    the existing market demand which such uses will satisfy,
+and the availability and location of other lands so zoned and
+their suitability for the uses allowed by the Zone.
+
+      C.   The proposed change is appropriate   considering the
+surrounding land uses,    the density and pattern of development in
+the area,    any changes which may have occurred in the vicinity to
+support   the proposed amendment and the availability of utilities
+and services likelyto be needed by the anticipated uses in the
+proposed              district.
+
+      D.  Other lands in the County already designated for the
+proposed uses are either unavailable or not as well-suited for
+the anticipated uses due to location,  size or other factors.
+
+     E.   The amendment is consistent with the current Oregon
+Administrative Rules   (OAR's) for exceptions, if applicable.
+
+    2..         Regarding          criterion               (A)     above,
+
+        A.  A zone change to VLDR 2 1/2 is consistent with the
+Comprehensive    Pian designation of Very Low Density Residential
+(VLDR).    The County has previously concluded that a property plan
+designated VUDR complies with the Comprehensive     Plan Goals and
+Policies              for    rural            residential           use.
+
+                       1).   The applicants                        have     satisfied         Comprehensive              Plan
+Goal       I.B.2        which states:
+
+                       Yamhill               County   will         continue           to   recognize           that   the
+
+PAGE       2-FINDINGS              REGARDING           ZONE         CHANGE        Z-01-01
+                                                                                    rin Td owe O33
+             appropriate        location          of    very     low    density     residential
+             development is in designated large areas where
+             commitments  to such uses have already been made   through
+             existing subdivision,  partitioning,  or development
+             and     by    virtue    of    close       proximity        to   existing      urban
+             centers
+
+                    a.    The subject property complies with the
+aforesaid goal,       because    it is part of an exception area 5.16
+zoned for residential         use.    The County has previously concluded
+that a property plan designated VLDR complies with the
+Comprehensive Plan Goals.           Furthermore,    the subject property
+satisfies Goal I.B.2         in that it is part of the exception.         Rural
+residential     development      is located to the north of this property.
+While the city limits do exist to the north and east of the
+subject property,       they follow Ash Stale and Salt Creek,         which
+provide   a significant physical boundary to an extension of the
+City limits;     thus,    it is not amenable to integrated neighborhood
+designs.    The subject property is adjacent to an area to the
+north which is committed to rural residential              development.    If
+approved,   the zoned change and the resulting magnitude of
+development     would only result        in two (2)  additional home sites.
+These two    (2) home sites,       together with the existing residents         in
+the area,   would not require more than a very basic level of
+services   such as single local access roads and individual
+septic/water       systems.         Therefore,          this     is    the   very   kind     of
+property    that     was    anticipated          for    rural     residential        development.
+
+        The referral        from the       City of Amity noted that                  the city          will
+not    provide water        or sewer       to the property.   Policy                 I.B.1.d
+states:
+
+             No    proposed     rural       development           shall      require    or
+             substantially            influence         the     extension      of   costly
+             services and facilities normally                           associated with
+             urban centers, such as municipal                           water,  supply
+             and     sanitary       sewerage       or power
+
+      The property already contains three       (3) residences which are
+served by on-site     systems.    Approval of the request   could result
+in two   (2)  additional   home-sites which would be expected to
+inatall   individual water and septic systems.       Approval   of the
+request   should not result in the extension of water or sewer
+service.
+
+           2).  Since the subject property is zoned
+Agriculture/Forestry  Small Holding 10,  it has already had                                       an
+exception taken to Statewide Planning Goal 3, and thus an
+exception to Goal 3 is not required for approval.
+
+   3.  Regarding criteria    (B) and  (D) above,  criteria   (B) requires
+showing there is a need for the uses permitted by the zone
+considering various   factors,    Criteria   (D) requires  showing   that
+other lands   in the county already designated     for the proposed use
+are either unavailable    or not as well-suited    for the anticipated
+
+PAGE    3-FINDINGS        REGARDING       ZONE    CHANGE        Z-01-01
+                                                                                             iy 13 vce 534
+uses        due    to    location,        size,      or     other     factors.            Since    these       are
+closely           related      criteria,          they      will    be    addressed         together.
+
+      A.  The applicant has                         surveyed all VLDR 2 1/2 zoned
+properties within a 2 mile                          radius of the subject property                           which
+is     an    area       approximately          13    sq.     miles       in   size    which       is    an
+extremely            large     area   with        the      results       of   the    survey       showing       there
+are     a    total       of   16   VLDR    2   1/2       zoned     parcels,         with    11    of    them
+currently containing improvements,      and 5 parcels with no
+improvements    (it should be noted that Selleck just obtained
+partition approval    associated with 2 additional parcels on tax
+lot 4201).    The applicant has shown that and the Board concludes,
+that  "other lands in the County"    do not require the applicant    to
+survey every available parcel     in the County as persons who desire
+property   in the Amity area would not look to other lands     in the
+County,  which is the reason of the survey the applicant
+conducted.    Also,  two  (2) lots in Selleck's   subdivision have just
+obtained           building        permits.          Additionally,             Selleck       has       applied       to
+have the last remaining acreage divided into three       (3) parcels,
+thereby creating two    (2) more vacant rural residential      lots.
+With the building and land divisions,      the total number of vacant
+lots will be increased to six      (6). It is evident  from this
+study,  together with the testimony of Marc Willcuts,       a realtor
+with Coldweil Banker,    that there are few residential     lots
+available  for development    in the immediate area of Amity.
+Accordingly,   approximately 31% of the total number of parcels are
+not     available.
+
+      B.   The applicant  also provided information from Selleck's
+zone change request that sets forth that in 1981 only 50% of the
+VLDR 2 1/2 zoned properties were developed;        however,   in 1986,     75%
+of the parcels were developed,     which remained constant until         1997
+when the remaining parcels were developed;        now,  69% of the
+parcels   are developed.   The reason for the undeveloped parcels            is
+primarily because of Selleck's     zone change approval     in 1998     and
+subsequent partitions.     The applicant    further submits     that the
+Portland State University census      states that the population of
+Yamhill   County has increased in excess of 25% over the last ten
+ (10) years.    While the population has increased,      as well as the
+demand for VLDR 2 1/2 zoned properties       having increased,      the
+supply has not increased accordingly.        The applicants     submit,
+which is supported by the testimony of Marc Willcuts,           that five
+ (5) available parcels are simply not enough parcels considering
+the     importance            of   such    uses      to     the     citizenry        or    the    economy       of
+the area.    The market demand is fairly high,    which further
+buttresses   the finding that five   (5) available parcels   is an
+insufficient    number of available parcels.
+
+   4.  Regarding criteria   (C)    set forth above,  the subject
+property contains  three  (3) dwellings on the 13.5 acres.        This
+development pattern is similar to that north and east of the
+subject parcel.   This development would fit in nicely with the
+density and pattern of development       in the area to the north and
+east.   Regarding utilities     and services,   the existing dwellings
+and other rural residential      uses in the surrounding area are
+
+PAGE        4-FINDINGS         REGARDING          ZONE      CHANGE       Z-01-01
+                                                                                                                  FILA        73        Pate       505
+served by            septic and well.                        All        of them also have readily
+available            services  such as                      fire        and police protection,  schools,
+telephone,            and         electric              service         to       the         site.
+
+    5.       Regarding                criterion            (E)     above,
+
+          A.         ‘The subject property                             is part               of an exception                       area 5.16
+that     was        excepted on April   23,                            1980 as               part of Yamhill                       County
+Ordinance            #234;            therefore,            the        subject           property                is      not       subject               to
+Goal     3     or    Goal         4    as     an    exception               has    already                been        taken.
+
+         B.         Doug     White            of    DLCD         has    written               in     a    letter          clarifying
+that it is DLCD's interpretation that for a reasons exception
+there is a need to address OAR 660-14-0040.   DLCD does believe
+that an exception to Goal 14 needs to be taken; however,  DLCD
+does not believe that OAR 660-14-0040        does not need to be
+addressed.    However,    in the past,   the County has found that an
+acknowledged exception area       (coupled with a plan designation of
+rural  residential)    is not required to have an additional
+exception            taken            under        OAR    660-04-018                   (2)     and        (3).           In    Ordinance
+645,     the        Board         of    Commissioners                   found           the        following:
+
+            However,   as explained below,   the Board is not persuaded
+that DLCD's    interpretation   is a correct application of the rule
+because  the rule itself states that it only applies        to exceptions
+adopted after the effective date of the rule,        which was March 20,
+1986; whereas,    the exception by the County was a "physically
+developed"   and "irrevocably committed"    exception taken in 1980,
+before  the effective date of the rule.       Therefore,  no new
+justification is required to change the zoning designation of
+property            which        was        the     subject            of    a    previous                developed                and
+committed exception taken by the County before 1986.    There                                                                                      have
+been several modifications  to OAR 660-004-0018; one of the
+modifications occurred on July 28,  1998 and eliminated OAR
+660-004-0018                (4)        which        had     stated:
+
+        Applicabilityof OAR 660-04-0018.   This                                                           rule only applies                               to
+a   plan and zoning designation and exceptions                                                            adopted by local
+government                following               the    effective               date         of     this        rule          (which              was
+March         20,    1986).
+
+         Therefore,  there is an                                 argument that an exception                                        to     Goal            14
+needs     to be addressed.   OAR                                 660-004-0025  states:
+
+         Exception                Requirements                   for    Land       Physically                    Developed                 to
+Other     Uses
+
+                     1)      A        local        government               may    adopt             an    exception                to         a    goal
+when the land subject                              to    the exception is                          physically developed to
+the extent that it is                              no    longer available                          for uses allowed by the
+applicable            goal.
+
+          2)   Whether land has been physically developed with
+uses not allowed by an applicable goal,  will depend on the
+situation at the site of the exception.    The exact nature and
+
+PAGE     5-FINDINGS                   REGARDING           ZONE         CHANGE           Z-01-01
+                                                                     FILER    73     Pare   ASR
+extent     of   the   areas   found   to   be    physically   developed      shall     be
+clearly set forth         in the justification for the exception.    The
+specific area  (s)        must  be shown on a map or otherwise described
+and keyed to the appropriate findings of fact.     The findings of
+fact ghall   identify the extent and location of the existing
+physical   development on the land and can include information on
+structures,   roads,  sewer, and water facilities, and utility
+facilities.    Uses allowed by the applicable goal   (s) to which an
+exception is being taken shall not be used to justify a
+physically developed exception.
+
+      The applicant has provided a description regarding the built
+and committed exception and a map showing the type of development
+that exists on the property.    There   is also an air photo, as the
+map and air photo are very useful pieces of information.      The
+dwellings  are located near the east and west property lines.     The
+open field between the residences     is the only area devoted to
+farm use,  and the applicant  submitted testimony which states that
+there are only a few acres of the subject property which are
+presently in grass use which means that the subject property is
+no longer functionally available allowed by the applicable goal.
+Thus,  the applicant has satisfied the built and developed
+exception to Goal 14.
+
+/kroefind
+
+PAGE     6-FINDINGS     REGARDING     ZONE      CHANGE   Z-01-01
+                                                                                                                        FILK   73   PACE   907
+
+                  EXHIBIT MAP FOR ORDINANCE NO. 710
+                              ZONE CHANGE
+      ADOPTED BY THE YAMHILL COUNTY BOARD OF COMMISSIONERS
+                              APRIL 18, 2002
+                TO CHANGE OFFICIAL ZONING MAP FROM
+             AF-10 AGRICULTURE/FORESTRY SMALL HOLDING
+                                   TO
+                 VLDR 2.5 VERY LOW DENSITY RESIDENTIAL
+                                                                                             oo
+
+                     s.
+                          .                      mocsssagesrgeesl490'
+                                                             SS encssssse=ces
+                                  house q   22227    i? aa \    existing driveway                                  =}
+                              }                       shed ff             7              }
+                                                 wl    Oh                            |
+              ®o
+              a       j:                        Cl           C4
+                                                                 ame                              ;
+                                     TL 1200                         on       ad
+              eo =                   13.5 Ac,
+                                            <                    H
+                                                                 }                                    open field
+          a                   .                              /                   .
+                                                         i                1460
+      /
+
+CHANGE APPLIES TO TAX LOT 5429-1200 DESCRIBED ABOVE
+
+APPROXIMATE SCALE - | INCH = 200 FEET
+
+PLANNING DOCKET Z-01-01
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 95.8% of
+the word sequence, and on 75.4% of the figures. Dictionary-recognizable words: 94.8%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

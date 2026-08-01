@@ -1,0 +1,1155 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord563-pdf
+title: 'ORD563-PDF'
+doc_type: ordinance
+citation: 'ORD563-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17594/ORD563-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: f83373b954c97e0abca15d1c5076f6d3d01b9f2288249c7ef174749087705c3b
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.984; figure agreement 0.818; dictionary ratio 0.946. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD563-PDF (ORD563-PDF)
+
+## At a glance
+
+OCR-derived text of ORD563-PDF. Not human-verified.
+
+## Full text
+
+\y
+
+                                                                                                                          yarn               C
+                      IN THE        BOARD       OF COMMISSIONERS                       OF THE      STATE            OF OREGON”
+                                                                                                                            1999       NOV                1: SO
+                                                  FOR THE           COUNTY        OF YAMHILL                                333 NV 26                PA
+                                                                                                                                   C
+                         SITTING            FOR       THE     TRANSACTION                OF   COUNTY          BUSINESS. gijity                   C
+
+     In    the        Matter        of     an     Ordinance
+     Amending            the    Yamhill            County
+
+                                                                                 eee
+     Comprehensive Plan Map to change
+     the plan map designation from
+     "Very Low Density Residential"  to
+     "Future Urbanizable"  on                                                                 ORDINANCE             563
+     approximately                   10    acres        known        as
+     Tax Lot 3228-1800 to allow
+     an expansion of the City of
+     Newberg’s               Urban        Growth        Boundary;
+
+                                                                                 ee
+     Applicant Marvin                      Schneider;
+     and Declaring an                      Emergency.
+
+     THE    BOARD        OF     COMMISSIONERS                 OF     YAMHILL            COUNTY,      OREGON           ("the            Board"),
+     sat for the transaction of county business                                                     in special   session on
+     November   24,  1993,  Commissioners Dennis                                                      L.  Goecks   and   Ted
+     Lopuszynski being present.
+
+     THE    BOARD            MAKES        THE     FOLLOWING              FINDINGS:
+
+     A.    Marvin     Schneider ("the  applicant")  has  applied  to   the
+     Department of Planning and Development for a Comprehensive Plan Map
+     amendment    from Very Low Density Residential to Future Urbanizable
+     on    Tax         Lot     3228-1800              to     allow         an     expansion              of     the        urban             growth
+     boundary of the City of Newberg onto the property.   The application
+     was  filed   simultaneously with  the  City  of  Newberg  under   the
+     provisions  of the Newberg Urban Area Growth Management Agreement,
+     September  25,  1979.
+
+     B.          On     September               14,         1993         the    Newberg            Urban            Area        Management
+     Commission                ("NUMAC")           held        a    public             hearing      on        the     application                    at
+     the    Newberg            Waste        Water           Treatment           Plant.         NUMAC          voted        to      recommend
+     to    the        Newberg        City       Council            and    the    Board        of   Commissioners                        that     the
+     application               be     granted.
+
+     Cc.    On November  10,  1993 the Board held a public  hearing on the
+      application.   The Board received testimony and evidence.   The Board
+     voted unanimously to approve the application and directed staff to
+     prepare   the  implementing   ordinance to adopt the decision.    This
+     ordinance is intended to be the county’s final land use decision on
+      the matter.
+
+     D.    The          findings and conclusions prepared by city and county staff
+     attached           hereto as Exhibit   "A" is by this reference incorporated
+     herein.              Exhibit   "A" includes   justification provided   by the
+
+                                                                                                                             ORDINANCE   563
+                                                                                                                                     Page 1
+
+                                                                                                                                13.0. GR EVE
+applicant.  The attached Exhibit "A" demonstrates that the proposed
+amendments to the Yamhill County Comprehensive Plan Map are in the
+best interests of the citizens of Yamhill County.    NOW THEREFORE,
+
+THE    YAMHILL          COUNTY      BOARD   OF    COMMISSIONERS            ORDAINS       as   follows:
+
+         Section         1.         The   Yamhill        County     Comprehensive             Plan   Map    is
+hereby      amended            to     reflect      a     plan     map      designation         of    "Future
+Urbanizable"     for the  approximate   10 acre   tract known   as Tax Lot
+3228-1800.     The purpose of the amendment     is to allow an expansion
+of  the  urban     growth boundary   of  the  City   of Newberg   onto the
+identified property.
+
+      Section 2.   The findings  attached                            as Exhibit          "A" is incorpo-
+rated herein by this reference     and is                           adopted   in         support of this
+ordinance.   Exhibit  "B" contains a map                            showing the          location of the
+subject tax lot.
+
+      Section  3.   This    ordinance   being   necessary   for  the health,
+safety,   and welfare    of   the  citizens   of    Yamhill  County,  and  an
+emergency having been declared to exist,         is effective upon passage.
+
+         DONE    at      McMinnville,           Oregon     this     24th    day    of    November,       1993.
+
+ATTEST                                      YAMHILL        COUNTY       BOARD     OF    COMMISSIONERS
+
+                                             ot           BMeebibils       Lt     Seda
+                                            Chairman                    DEBE     OWENS
+
+                                                 GO. Hh
+                                            Commissioner                DENNIS     L.    GOECKS
+
+JOHN( M.        GRAY,     JRC \\            Commissioner                THD’ LOPUSZYNSKI
+Yamh        County            Counsel
+
+                                                                                               ORDINANCE   563
+                                                                                                       Page 2
+                               EXHIBIT   "A"               -—- Ordinance         563
+                                    Findings               for Approval
+
+DATE     OF
+NUMAC     HEARING:                  September         24,        1993
+
+DATE     OF
+BOARD     HEARING:                  November         10,        1993
+
+DATE     OF       FINAL
+ADOPTION:                           November         24,        1993
+
+DOCKET        :                     PA-2-93         (City        of    Newberg    File     No.       UGB-2-93)
+
+APPLICANT:                          Marvin       Schneider
+
+REQUEST:                            Amend     the     Newberg            Urban   Growth        Boundary       (UGB)
+                                    to    include          an    additional       10    acres.
+
+LOCATION:                           2808     Wynooski            Road,     Newberg;      Tax        Lot   3228-
+                                    1800
+
+EXISTING           COMPREHENSIVE          PLAN     AND      ZONING        DESIGNATIONS:
+
+                                    Plan-designated County Very Low Density
+                                    Residential and zoned VLDR-2} Very Low
+                                    Density Residential
+
+PROPOSED           COMPREHENSIVE          PLAN     AND      ZONING        DESIGNATIONS:
+
+                                    The    proposed             Newberg     Comprehensive             Plan
+                                    designation             is Industrial, and                 the    proposed
+                                    zone is M-3             Heavy Industrial.                  The    property
+                                    would be designated Future                         Urbanizable           on    the
+                                    County Comprehensive Plan.
+
+FINDINGS           FOR    APPROVAL:
+
+A.     Background           Facts
+
+1.       The applicant wishes to build an organic composting facility
+         in the Newberg vicinity.   This parcel of land is currently
+         in the county, outside the Urban Growth Boundary and zoned
+         and planned for residential use.    The applicant requests
+         that the UGB be amended to include this                                  10 acre parcel              to
+         allow the development of this facility.                                    The applicant             notes
+         that although 709 acres of industrial planned land is
+         located within the UGB Section, only 36 acres are zoned                                                  M-3
+         under the Newberg Zoning Ordinance.    This area is ina
+         potential          Urban     Reserve       Area,         indicating       the     City’s         intent
+         to       urbanize    the     area    in    the         future.
+
+                                                                             EXHIBIT     "A™   to    Ordinance      563
+                                                                                                              Page       1
+ The Board adopts    sections  I through IV of the City of
+ Newberg’s   "Findings   for Approval of an Urban Growth Boundary
+ Amendment and Comprehensive Plan Amendment"       attached to
+ these  findings   as appendix   "1."  Appendix "1" is
+ incorporated            into      these        findings          as    if    fully        set     forth
+ herein.
+
+ The    Newberg        Urban       Area     Management             Commission              conducted        a
+ public        hearing       on    the     request          on    September         14,      1993.         Upon
+ consideration of the staff report and recommendation and
+ comments  received in writing and orally at the hearing, the
+ Commission voted unanimously to recommend approval of the
+ request.
+
+ The Newberg City Council considered the request at a public
+ hearing on November  1, 1993.  The Council passed a motion to
+ approve the request.
+
+Urban     Growth       Boundary          Amendment              Criteria
+
+ Criteria to           be addressed in UGB amendment requests  include
+ the Newberg           Urban Area Growth Management Agreement,  the
+ statewide        planning          goals,           and    the    city       and   county
+ Comprehensive Plans.  The review standards  from the first
+ three of these are detailed in section II of Appendix   "1."
+
+ The Yamhill County Comprehensive Plan Goals and Policies,
+ Section I.A,   "Urban Area Development,"  contains policies
+ regarding urban growth that are aspirational,     but none that
+ provide review criteria.    The Plan policy in this section
+ that staff has identified as relevant is Policy a under Goal
+ 1, as follows:
+
+          Yamhill       County       will,           in    cooperation          with        the     cities        and
+          special       districts           of       the    county,          encourage            urban    growth
+          to    take    the       form     of    a    series       of    compact,           balanced
+          communities, each with its                             own business and                  community
+          center and each related to                             industrial areas                  and other
+          centers       of    employment.
+
+ There are,   in addition,   policies relevant to industrial
+ development.    The request   is, however,  for the UGB amendment
+ only.   Although the applicant has made his intentions      known
+ (heavy        industrial          use),        this       is    immaterial           to    the     decision
+ required.   Although the subject site is at the edge of the
+ current UGB,   the impact of the use will not be excessive
+ "sprawl"  because  it will utilize the same roads as and is in
+ the vicinity of existing heavy industrial users.    The
+ request does not appear to be in conflict with the above
+ policy.
+
+ Regarding the            review criteria                   addressed in the staff report
+ to the NUAMC,            the first issue                   is the need for the requested
+
+                                                                         EXHIBIT      "A"    to    Ordinance      563
+                                                                                                             Page       2
+     amendment.  The specific criteria are from the Urban Area
+     Management Agreement, which states the decision to amend the
+     UGB must be based on, among other things:
+
+     (a)     Demonstrated need                 to accommodate long-range urban
+             population growth                 requirements consistent with LCDC
+             goals.
+
+     (b)     Need     for   housing,           employment          opportunities,                      and
+             livability.
+
+     City    staff     recommended             denial        because         of     a    lack        of
+     justification of need, based on an inventory of 709 acres                                                            of
+     undeveloped industrial land in the city.   The applicant,
+     however, pointed out a city Plan policy that heavy
+     industrial        land     is     encouraged            to   be    located           in     the        vicinity
+     of the existing            paper mill and that                     most of the vacant
+     industrial land            is zoned for medium                     industrial use and                          is
+     not located near               Smurfit Newsprint.    NUAMC believed this to
+     be a significant               point,  and found that there is a need for
+     more heavy industrial land.   County staff believes                                                    that
+     NUAMC’s findings on this point are reasonable.
+
+     The    Board     finds     that        the    remaining           NUMAC        approval               criteria
+     stated in section II of Appendix   "1" have been met.    In
+     support of the finding,  the Board adopts the justification
+     statements submitted by the applicant.     The justification
+     statements are attached as Appendix    "2" to these findings,
+     and are incorporated into these   findings by this reference.
+
+     The    Department         of     Land     Conservation             and        Development
+     commented on           the proposal in a letter dated October                                              1, 1993.
+     DLCD did not           object to the request, but stated that                                              the
+     application must be                shown to be consistent with                                   the
+     "reasons"  exception               requirements of the Oregon
+     Administrative            Rules         (OARS),     and      that       the        use     of        the     land
+     must be limited to that use which is justified.   The
+     applicant has submitted information regarding this
+     requirement  (Appendix "2"). The request  is currently                                                        for    a
+     UGB    amendment         only;     the       annexation           and        zone    change             request
+     will come        later.          The    OARs      are    properly             considered                at    that
+     time.
+
+CONCLUSION    and     DECISION:
+
+     Based on the findings and analysis    above, the Board
+     concludes that the criteria    for an urban growth boundary
+     amendment have been met.    The application  is allowed.
+
+                                                                         EXHIBIT          "A"    to       Ordinance   563
+                                                                                                                  Page 3
+                  FINDINGS   FOR APPROVAL OF AN URBAN GROWTH BOUNDARY AMENDMENT
+                                AND A COMPREHENSIVE PLAN MAP AMENDMENT >
+                                             September 14, 1993
+
+             APPLICANT:             Marvin Schneider
+
+             REQUEST:               Urban Growth Boundary Amendment for 10 acres on the southeast
+                                    side of Newberg with related plan text amendments addressing land
+rie                                 supply.
+
+      *--;   COMP      PLAN:        VLDR to IND
+
+             LOCATION:              2409 Wynooski
+
+             TAX     LOT:           3228-1800
+
+             FILE NO:               UGB-2-93
+             CRITERIA:              Newberg Urban Area Growth Management Agreement - Section Vil;
+                                    Statewide Planning Goals; Newberg Ordinance 1967, Section 4-
+
+             EXHIBITS:
+                                                Us
+
+             1.       Site Map (attached)
+             2.       Wetlands Map (attached)
+             3.       Application (attached).              ee
+             4,       Urban Reserve Area proposed boundaries (attached)
+             5.       Floodplain Map (attached)             = af
+
+             iF       SUMMARY
+
+             The applicant wishes to build an organic composting facility in the Newberg vicinity. This
+             parcel of land is currently in the county, outside the Urban Growth Boundary and zoned
+             and planned for residential use. The applicant requests that the Newberg Urban Growth
+             Boundary be amended to include this 10 acre parcel to allow the development of this
+             facility. The applicant notes that all Comprehensive Plan policies are met and that,
+             although 709 acres of industrial planned land in the Urban Growth Boundary (UGB), only
+             36 acres are currently zoned M-3, and very little of this planned land meets
+             Comprehensive Plan policies for location of M-3 land. This area is in a potential Urban
+             Reserve Area, indicating the City’s intent to urbanize the area in the future.
+
+                                                                                   Ech “A”
+I.     URBAN GROWTH        BOUNDARY AND COMPREHENSIVE               PLAN AMENDMENT
+       CRITERIA
+
+A.     Urban Area Growth Management Agreement Criteria
+
+       The Newberg Urban Area Growth Management Agreement (UGMA) sets forth the
+       procedure and criteria for UGB amendments. Section VII of the agreement states
+       that decisions shall be based on the following factors:
+
+       1.     Demonstrated need to accommodate long-range urban population growth
+              requirements consistent with LCDC goals.
+       2.     Need for housing, employment opportunities, and livability.
+       3.     Orderly and economic provision for public facilities and service.
+       4.     Maximum efficiency of land uses within and on the fringe of the existing
+              urban area.
+       5.     Environmental, energy, economic and social consequences.
+       6.    Retention of agricultural land as defined, with Class | being the highest
+             priority for retention and Class VI the lowest priority.
+       T     Compatibility of the proposed urban uses with nearby agricultural activities.
+
+B.     Statewide Planning Goals
+
+       The proposal must be consistent with the Statewide Planning Goal 14 -
+       Urbanization, other LCD Statewide Planning goals, and address exception criteria
+       of OAR 660, Division 4, if appropriate.
+
+Cc.    Comprehensive Plan Map Amendment Criteria
+
+       Ordinance 1967 sets forth the criteria for Plan Map Amendments. Section 4 of
+       Ordinance 1967 states that the procedure for amending the Comprehensive Plan
+       Map shall be the same as used for zoning district boundary changes. The zone
+       change criteria are set forth in Section 600-606 of the Newberg Zoning
+       Ordinance and read as follows:
+
+       1.    The proposed change is consistent with and promotes the objectives of the
+             Comprehensive “Plan and of the Zoning Ordinance of the city;
+
+       2.    There is a public need for a change of the kind in question;
+
+       3.    The need will be best served by changing the classification of the particular
+             piece of property in question as compared with other available property.
+
+IIL.   NEWBERG     COMPREHENSIVE         PLAN GOALS AND POLICIES
+
+The following goals, policies, and sections from the Newberg Comprehensive        Plan are
+relevant to the request:
+
+                                                                       Exh A”           2.
+                                                                         App
+                                                                           \- T°
+Comprehensive      Plan Descriptions
+
+The Plan Classification section of the Comprehensive Plan Description describes
+the Industrial Plan designation:
+
+Industrial Use Areas (IND)
+
+The objective of this designation is to provide land for a variety of light industrial,
+heavy industrial and industrial park areas.
+
+Heavy industrial uses should be located in the area near Smurfit Newsprint, an
+existing pulp and paper mill. Other designated areas should be developed to light
+industrial or industrial park type uses.                                :
+Air, Water, and Land Resource Quality Policy 3
+
+As public sanitary sewer systems become available, all development shall connect
+to the public system. To encourage economic development, the City may permit
+subsurface sewerage disposal where the system meets State and County
+requirements and where unique circumstances exist.
+
+Public Facilities and Services - All Facilities and Services Policy a
+
+The provision of public facilities and services shall be used as tools to implement
+the land use plan and encourage an orderly and efficient development pattern.
+
+Public Facilities and Services - Sewers and Water Policy a
+
+All existing development within the City limits will connect to public sewer and water
+systems as soon as they become available.
+
+Urbanization Goal 1
+
+To provide for the orderly and efficient transition from rural to urban land uses.
+
+Urbanization - Urban Growth Boundary Policy f
+
+In expanding or otherwise altering the Urban Growth Boundary, the Boundary shall
+follow road rights-of-way, lot lines, or natural features.
+
+Urbanization - Annexation     Policy c
+
+Property outside the Urban Growth Boundary may be annexed only upon inclusion
+of such property into the Urban Growth Boundary.
+
+                                                                          Exh A
+                                                                          App   | -   r3
+FACTS
+
+The applicant’s property consists of 1 tax lot totalling approximately 10 acres.   The
+property is located on TL 3228-1800. It is currently planned VLDR and zoned
+VLDR2 1/2 in the county. Its proposed City plan designation is IND.
+
+The natural features of this site include a drainageway with a Nationally Inventoried
+Wetland which bisects the site east-west, numerous mature tree stands, and gently
+sloping terrain. The applicant indicates that only 6 of the 10 acres are suitable for
+development.            ;
+
+The parcel is accessible from Wynooski Rd., a county              road with a collector
+designation in the Newberg Transportation System Plan.
+
+The surrounding conditions are as follows:
+
+North:             City residential and agricultural land; zoned M2
+South:             County agricultural land; zoned AFLH (Agriculture Forestry Large
+                   Holding)
+East:              County agricultural land; zoned AFLH and VLDR
+West:              County land; Newberg Transfer & Recycling Station; zoned VLDR
+
+The City’s Waste Water Transfer Plant and Smurfit pulp mill are in the vicinity of this
+parcel.                1
+
+The Comprehensive Plan includes the following land use requirements:
+
+Industrial land available within the Urban Growth Boundary in 1991 is 709 acres.
+The need for industrial land in 1990 is estimated to be 490 acres; the need for land
+in 2000 is 730 acres; and the need for land in 2010 is 1087 acres. An economic
+development analysis and employment forecast developed for the City in 1991 by
+a consultant indicated that the need for industrial land would be 721 and 775 acres
+for years 2000 and 2010 respectively.
+
+The availability of utilities is as follows:
+
+Sewer:                   Sewer is not presently available to the property. A sewer
+               ,         pump station is needed to serve industrial properties in the
+                         southeast section of the present UGB. This pump station is
+                         estimated to be developed:in 2-3 years. A septic system will
+                         need to serve this property until the station is developed.
+
+Water:                   Water service can be extended to this site.   There is a water
+                         main on Wynooski.
+
+                                                                           Exh A
+                                                                            age
+                                                                              1 Pt
+Storm Sewer:        There is no storm system presently in this area except for
+                    ditches on the side of the road.
+
+The site consists primarily of WuB Woodburn silt loam soils with Ah Aloha soils on
+the east end of the property. Woodburn and Aloha soils are identified as Class II
+soils by the SCS;
+
+The subject site is included in a urban reserve area (URA) study area. The urban
+reserve area project is in process and a hearing on the urban reserve area is
+scheduled for the City Council this winter. This site is in proposed area E (see
+Exhibit 4).
+
+The proposed use is allowed in the City’s M-3 zone with a conditional use permit.
+
+                                                                 Exh A
+                                                                  Ap| - Pe >
+Newberg Urban Growth Boundary Amendment
+Applicant: Marvin Schneider
+Subject Property: Tax Lot #3228- 1800
+
+JUSTIFICATION STATEMENT:
+
+The following material is presented as justification of the proposed Urban Growth
+Boundary (UGB) amendment. The justification is segregated into three parts in response
+to the UGB Amendment Criteria.
+
+Part 1 - Urbanization Factors:
+
+a.     The City of Newberg has been studying the potential inclusion of lands on the
+       periphery of the present UGB and city limits for designation as Urban Reserve.
+       The subject property is included within study area E of the Urban Reserve Area
+       Study.
+
+       The applicant, Mr. Schneider, has tendered a purchase offer to the present owner
+       of the property contingent upon obtaining the necessary land use approvals to
+       utilize the subject property as a heavy industrial processing site.   The proposed
+       activity is related to waste reduction, fuel processing and the preparation of
+       materials for agricultural composting.
+
+       The City of Newberg has a single Industrial comprehensive plan designation. The
+       city zoning ordinance regulates three industrial zones M-1, M-2 and M-3 which
+       authorizes a range of industrial uses. The code requires approval of conditional use
+       permits for specific industrial activities within each zoning district.
+
+       The 1990 census data reflected a July 1, 1990 city population of 13,020,
+       constituting a growth of 25.26% from 1980 to 1990. The comprehensive plan
+       projects a population of 27,000 by the year 2010, an anticipated growth of 207%
+       over the next 17 years. Growth of this magnitude will require a substantive
+       increase in industrial development to maintain balanced growth and consistency
+       with economic plan policies during the planning term. The city comprehensive
+       plan encourages the diversification of the local economy through the development
+       of new-industries and the retention and expansion of existing industries.
+
+       The plan, Table IV-1 indicates that there are presently 709 acres of designated
+       industrial lands within the UGB and city limits to meet the cities needs until the
+       year 2010. The plan states that “Heavy industrial uses should be located near
+       Smurfit Newsprint, an existing pulp and paper mill. Other designated areas should
+       be developed to light industrial or industrial park type uses."
+
+       There are currently two sites within the city zoned M-3 for heavy industrial uses,
+       representing approximately 36.15 acres, 5% of the total industrial lands
+       designation. A supplemental report of industrial lands may be developed indicating
+
+                                                                                   Exh A
+                                                                                     App 2- ¢-|
+Newberg Urban Growth Boundary Amendment
+Applicant: Marvin Schneider
+Subject Property: Tax Lot 43228-1800
+Page 2
+
+     industrial lands occupied, vacant, and available within the existing marketplace.
+     However, it is assumed that only lands in proximity to the Smurfit Newsprint Mill
+     are deemed suitable for heavy industrial development and useage. The site
+     proposed for inclusion into the UGB is 10 acres in area; with approximately 6 acres
+     suitable for development. Inclusion of the subject property would increase heavy
+     industrial zoning and useage by approximately 17%. An estimated 27-32 new jobs
+     will be created in conjunction with the proposed development. The majority of the
+     jobs will be compensated at family-wage rates, capable of supporting a family
+     within the local economy.                           :
+
+b.   The proposed amendment responds to the need for local employment opportunities
+     and community livability. Local employment is stable but reflects an
+     unemployment    rate between 7-8%,    with seasonal fluctuations.   Income levels in
+     Yamhill County are typically 8-12% less than other areas within the Portland
+     Metropolitan Statistical Area (PMSA).
+
+     The amendment proposed will provide a basis for annexing and rezoning the
+     subject property to accommodate a heavy industrial development that would like to
+     be operational as soon as possible. The processing facility will employ between 27
+     and 32 full time skilled and semi-skilled workers. The comprehensive plan
+     encourages economic diversity to “lessen the percentage of persons who live in
+     Newberg but must work elsewhere. . ." To sustain the projected growth in
+     population and housing the city will need to realize a concurrent growth in the
+     industrial and commercial sectors to create the new jobs to sustain community
+     growth and balance.
+
+     The plan suggests that “new industry should be located in areas which minimize
+     impacts upon the air, water, and local resource base, as well as upon surrounding
+     land uses. The site is bordered on the north by lands within the UGB designated
+     for industrial use under city and Smurfit ownership; the Newberg Transfer and
+     Recycle Center to the east, a heavy industrial use in a Public Works Safety zone;
+     Hess Creek lays to the south, a 100 year floodplain; and Smurfit properties planned
+     and zoned for heavy industrial use to the west.     The proposed use will process
+      selected waste materials for processing into a bulk industrial fuel and agricultural
+     composting. The processes will be regulated by the Department of Environmental
+     Quality and all environmental quality standards, attendant to the proposed use, shall
+     be observed. The use will not result in excessive noise, or impact the air or water
+     quality of the area.   The city, indicates in the plan, that it will “continue to
+      encourage and support the three R’s of recycling (re-use, reduction and recycling)".
+     The plan provides that “the city will encourage the creation of a diversified
+      employment base, the strengthening of trade centers, and the attraction of
+Newberg Urban Growth Boundary Amendment
+Applicant: Marvin Schneider
+Subject Property: Tax Lot 43228-1800
+Page 3
+
+         both capital and labor intensive enterprises".
+
+Cc.      The proposed development site is adjacent to the city wastewater treatment plant
+         (WWTP);    derives vehicular access from Wynooski Road, which          was improved    for
+         industrial traffic by Yamhill County in 1989/90.    The site may be easily served by
+         municipal sewer and water, all other utilities are present at the site boundary. The
+         use of the subject property is consistent with other industrial urban uses in the area.
+
+d.       The city is presently considering adoption of an Urban Reserve to serve long term
+         community development needs. The site, part of sub-area E is under consideration
+         and recommendation for eventual urbanization. The area is partially industrialized
+         and will continue to be industrialized over time, which is recognized in the urban
+         reserve study.   The comprehensive plan encourages the location and development
+         of heavy industrial uses in the area.   Approval of the request represents a logical
+         and efficient expansion of the UGB.      "Industrial expansion shall be located and
+         designed to minimize impacts upon surrounding land uses", which the proposed
+         development will do.    “The city shall encourage industrial development, preferring
+         firms that: meet or exceed   state or local environmental standards;    utilize the
+         existing labor force and, help to reduce seasonal unemployment fluctuations; and are
+         efficient users of energy", which the proposed development will do.
+
+és       The proposed industrial development will not adversely impact the environment and
+         will be developed in accordance with Department of Environmental Quality (DEQ)
+         and City of Newberg standards and requirements. The facility will process
+         between 300 & 450 tons of material per day, generate up to 30 truck trips per day,
+         and generate between 27 and 32 full-time family-wage jobs. The facility requires
+         DEQ licensing as a compost facility. Material received will be processed and
+         shipped within 24 hours. The proposed industrial development will contribute to               .
+         the diversification of the local economy, utilize the local labor force, and contribute
+         to the reduction of seasonal employment fluctuations.
+
+f.       Presently zoned for rural residential use, the subject property was excepted from
+         agricultural preservation and conservation through a county-wide exceptions process
+         conducted and approved in the mid 1980's. However, the further change in land
+         use from rural residential to industrial will require additional findings in support of
+         an exception to the proposed intensification of use. The exception criteria is
+         addressed under part 2 of this justification statement.
+
+g.       Adjacent agricultural uses consist of orcharding and the Fresh Egg Farm. The
+         proposed use will not adversely impact either of these operations, which have not
+         been hampered by either the development or operation of the municipal WWTP or
+
+                                                                                               Exh A
+                                                                                               Arp Z- e?
+Newberg Urban Growth Boundary Amendment
+Applicant: Marvin Schneider
+Subject Property: Tax Lot #3228-1800
+Page 4.
+
+        the transfer and recycling center.
+
+2.      Part 2 - Statewide Planning Goals - Exceptions
+
+       _A separate Exceptions statement will be provided as a supplement to this
+        application. The supplement will include a survey of designated and zoned
+        industrial lands within the City of Newberg.
+
+3...    Part:3 - City Comprehensive Plan
+
+       The comprehensive plan encourages the siting of heavy industrial uses adjacent to
+        the Smurfit Mill.     The Urban Reserve Study recognizes the validity of the subject
+        area for heavy industrial use and deems the site suitable for urbanization.    The
+        proposed amendment responds to city plan policies that call for diversification of
+        the economy, that seeks to reduce unemployment, that minimizes impacts upon air,
+        water and land resources, that utilizes existing infrastructure to the greatest extent
+        possible, and provides for an efficient and logical extension of municipal services.
+        The proposed amendment is consistent with the applicable policies setforth in the
+        plan and will not impact areas within the UGB and city limits designated for limited
+        and light industrial development.
+
+        The following plan goals and policies are supportive of the proposal:
+
+        B.          Land Use Planning
+
+        GOAL -             To maintain an on-going land use planning program to implement
+                           statewide and local goals. The program shall be consistent with
+                           natural and cultural resource needs.
+
+                    Policies 3 and 4 are applicable to the proposal.
+
+        E.          Air, Water,   and Land   Resource Quality
+
+        GOAL    -          To.maintain and, where feasible, enhance the air, water and land
+                           resource qualities within the community.
+
+                    Policies 1-8 and 11 are applicable to the proposal.
+
+        H.          The Economy
+
+                                                                                 Exh         A
+                                                                                  Ay 2-et
+Newberg Urban Growth Boundary Amendment
+Applicant: Marvin Schneider
+Subject Property:       Tax Lot #3228-1800
+Page 5
+
+         GOAL -              To develop a diverse and stable economic base.
+
+                    Policies 1 (a-e, f and g), 2 (a-f) are applicable to the proposal.
+
+         J.         Urban Design
+
+         GOAL -              To maintain and improve the natural beauty and visual character of
+                             the city.
+
+                    Policies 1 (a-d, g, h, n, 0, and s), 2 (a-c) are applicable to the proposal.
+
+         K.         Transportation
+
+         GOAL -              1. To encourage development of a safe, convenient and economic
+                             transportation system through a variety of transportation means.
+
+                             3.   To develop and implement an area transportation plan consistent
+                             with local needs and the comprehensive plan.
+                                      /
+                    Policies 1 (a-c and e-g), and 2 (e, f, and g) are applicable to the proposal.
+
+         L.         Public Facilities and Services
+
+         GOAL -              To plan and develop a timely, orderly and efficient arrangement of
+                             public facilities and services to serve as a framework for urban
+                             development.
+
+                    Policies 1 (a-d, and g), 2 (a-c), and 4 (a) are applicable to the proposal.
+
+         M.         Energy
+
+         GOAL -              To conserve energy through efficient land use patterns and energy-
+                             related policies and ordinances.
+
+                    Policies 1 and 3 are applicable to the proposal.
+
+         N.         Urbanization
+
+         GOAL   -            1. To provide for the orderly and efficient transition from rural to
+                             urban land uses.
+
+                                                                                         Exh A
+                                                                                         Apt 2-p-5
+Newberg UGB                Amendment
+Applicant:                 Marvin Schneider
+Subject            Property:             Tax     Lot     #3228-1800
+Docket No.            UGB-2-93
+Page 2
+
+             (D)           The proposed uses are compatible with other                                              adjacent uses or will
+                           be so rendered through measures designed to                                              reduce adverse
+                           impacts.
+
+OAR 660-04-020 provides in subsection “(1)                                                 If a jurisdiction determines there
+are reasons consistent with OAR 660-04-022                                                 to use resource lands for uses not
+allowed by the applicable Goal, the justification                                                          shall    be     set    forth     in    the
+comprehensive plan as an exception."
+
+OAR    660-04-022 provides                        “An exception Under Goal 2,                                 Part II (c) can be taken
+for    any use not allowed                        by the applicable goal(s).                                  The types of reasons that
+may    or     may     not     be     used        to     justify        certain           types        of     uses   used     on    resource        lands
+are    set         forth     in the            following         sections           of this           rule:
+
+             (1)     For     uses        not     specifically               provided            for     in    subsequent          sections        of
+            this      rule        or OAR         660,      Division          14,     the        reasons        shall       justify        why    the
+            state          policy        embodied             in the    applicable               goals        should       not    apply.         Such
+            reasons          include            but     are     not    limited           to     the     following:
+
+            (a) There             is a demonstrated need for the proposed use                                               or activity,               based
+            on one or             more of the requirements of Statewide Goals                                               3 to 19; and
+            either
+
+            (b) A resource upon which the proposed use or activity is dependent can
+            be reasonably obtained only at the proposed exception site and the use
+            or activity requires a location near the resource.   An exception based
+            on this subsection must include an analysis of the market area to be
+            served by the proposed use or activity.   That analysis must demonstrate
+            that the          proposed exception site is                                 the     only one within that market area
+            at which          the resource depended upon                                 can     be reasonably be obtained; or
+
+             (c)     The     proposed            use     or     activity           has        special        features       or    qualities            that
+             necessitate             its        location         on    or    near         the    proposed           exception           site.
+
+NATURE        OF     USE:
+
+The subject site was recently in rural residential use by the previous
+property owner.   The site was part of an earlier area excepted from “resource
+use", agriculture and forest production, through a county-wide exceptions
+process.   The present Yamhill County                                        Comprehensive Plan and Zoning District
+designation implements the exception                                         taken on the subject from “resource use"
+to    rural         residential                use.
+
+The    proposed             use     of     the        site,     industrial               materials           processing,           is     inconsistent
+with the present plan and zoning designations and is contrary to the rural
+residential uses provided for in the county plan and Goal 10, the Housing
+Goal, embodied in the Statewide Planning Goals.  Approximately 1/4 acre of                                                                                the
+10    acre         tract     is     developed             to    residential               use.        An     additional           area,     ranging
+
+                                                                                                                                                              Ex A
+                                                                                                                                                E -L           typ   2p   8
+Newberg UGB         Amendment
+Applicant:          Marvin Schneider
+Subject      Property:        Tax        Lot    #3228-1800
+Docket No.      UGB-2-93
+Page 3
+
+from   2 1/2    to 3 1/2           acres       is within          the     100 year       floodplain              of Hess        Creek.
+The proposed industrial activity would employ between 6 and                                                      7 acres        of the
+site area for the location of processing facilities and the                                                      on-site        movement
+of vehicles transporting the industrial resources to and from the site.  The
+site is not considered to be "built upon" or “irrevocably committed" to
+industrial use and an exception to the Housing Goal is necessary to allow the
+proposed use.
+
+A.        REASONS
+
+le     The     siteis in an area                   that     has        been     in transition              from    rural
+          residential        to     industrial            use     since        1984.     In    the        early    1980’s        a    series
+        of county land use approvals amended the plan and zoning designations on
+        adjacent and adjoining lands to allow heavy industrial uses.  An
+        application by Publishers Paper (presently Smurfit Newsprint) to rezone
+       TL    #3229-600        from        Rural     Residential,                VLDR   2 1/2,         to    Industrial,              Heavy
+          Industrial,        was        approved.          A rezoning            of TL #3228-1700                 from     Rural
+        Residential,          VLDR        2 1/2,     to         Public        Facilities,       Public           Works     Safety,         was
+       approved        for    the operation of the Newberg Garbage Service and Newberg
+       Transfer        and    Recycling Center franchised solid waste collection,
+       disposal        and recycling               operations.                A county        conditional           use approval
+       authorized the siting and construction of the City of Newberg Wastewater
+       Treatment Plant (WWTP) in the mid-1980’s.    By the end of the decade
+       lands adjoining. the WWTP were included within the UGB and designated for
+       industrial uses.   Tax Lots 3228-1500 and 3229-200 were annexed into the
+       city following their inclusion within the UGB and zoned M-2 for light
+       industrial use by the property owners.
+
+       Early in 1990 Yamhill County realigned and reconstructed Wynooski Road
+       to accommodate heavy industrial traffic to the Smurfit pulp and paper
+       mill, the Newberg Transfer & Recycling Center and other potential heavy
+       industrial uses anticipated in the area.    The improvements were
+       partially financed with federal assistance funds for roadway
+       improvements.   Wynooski Road is considered to be the primary heavy
+       industrial access into the city, with the exception of the primary and
+       secondary state arterials, highways 99W and 219, serving the community.
+       The area, and site have direct access to State Highway 219 and State
+       Highway        99W.        The     highway         network         provides       the    site        with     access          to
+          Interstate 5 and              markets      to         the    north,      south,      east        and    west     of    the
+          subject site.
+
+       The     Newberg       Comprehensive                Plan        deems     properties           in    proximity        to       the
+        Smurfit       Mill    as        suitable     for         heavy        industrial       development.                Plan
+        policies clearly indicate that the City of Newberg will strenuously
+        object to the conversion of any lands outside the city UGB to commercial
+        or    industrial          uses.
+
+                                                                                                                                                 ExA
+                                                                                                                                     bod         Ape 2- 0.9
+Newberg            UGB   Amendment
+Applicant:               Marvin          Schneider
+Subject            Property:             Tax     Lot     #3228-1800
+Docket        #UGB-2-93
+Page     4
+
+4.           There are two residences within exceptions code area 1.10 that are
+             directly affected or potentially impacted by this request.   The
+             residence             on    TL    #3228-180>2        has     been         sold        to     the     applicant,            is    no    longer
+             occupied and would be converted from residential use if this request is
+             approved.   The domicile on TL #3229-300 is unoccupied and is for sale by
+             the estate of the previous owner.  The residences indicated on TL’s #
+             3229-400, 500 & 600 were owned by Smurfit and were razed over the past
+             five years.  Residences in the area have recognized that the emergence
+             and growth of industrial activity in the immediate vicinity is not
+             conducive to rural or urban residential occupancies.   Private ownerships
+             are being marketed as potential industrial property. In addition, the
+             city is studying the area for potential designation as future industrial
+             development lands through its Urban Reserve Area (URA) analysis.
+
+Sy           The     Department               of Environmental             Quality             (DEQ),            through        its     Solid       Waste
+             Management             Program,           has    embraced          the     concept            of     waste        reduction           as   a top
+             statewide solid waste management priority.    The industrial activity
+             proposed for the subject site will enhance waste reduction through the
+             processing of waste materials for use as industrial fuels and as
+             agricultural compost.   The proposal is consistent with provisions of the
+             draft       Statewide             Solid     Waste     Management                 Plan,        and        embraces        the     waste
+             reduction policies contained within the Yamhill County Solid Waste
+             Management Plan.   Site operation will initially be subject to a DEQ
+             permit process and review, when approved the permitted operations will
+             be     subject         to    periodic           inspection          and       review.
+
+B.           Areas       within          the    existing         UGB     that        are     designated                for     Industrial           use
+             within         the     City       Comprehensive             Plan        and      in    proximity             to    the     Smurfit
+             Newsprint Mill that would not require a new exception have been
+             evaluated for the proposed use.   Alternate sites were generally deemed
+             inappropriate due to size limitations, industrial access limitations,
+             Proximity to residential or other incompatible land uses, existing
+             industrial occupancy, or regulatory limitations upon use.  Industrially
+             designated sites in Sections 19, 20, 29, and 30 were the subjects of the
+             alternative sites evaluation, see Exhibit 1 attached.
+
+Gs           The     long     term        Economic,            Social,     Environmental                        and    Energy         consequences
+             that could result from the proposed use are pronounced and quite
+             exciting.   The following Statewide Land Use Goals are satisfied by the
+             proposed use:   Goal 9 - Economic Development "To provide adequate
+             opportunities throughout the state for a variety of economic activities
+             vital to the health, welfare, and prosperity of Oregon’s citizens.";
+             Goal 6 - Air, Water and Land Resource Quality (Environmental) "To
+             maintain             and    improve        the     quality         of     the     air,        water        and     land         resources        of
+             the state."; Goal 13 - Energy Conservation “To conserve energy."; and
+             provide affirmative “social consequences" as defined in the Goals
+             document, "The tangible and intangible effects upon people and their
+             relationships                with     the        community         in     which            they     live        resulting         from       a
+
+                                                                                                                                                              Ex A
+                                                                                                                                                   E -4 Ary 2-p.10
+Newberg         UGB    Amendment
+Applicant:             Marvin        Schneider
+Subject         Property:            Tax     Lot    #3228-1800
+Docket #UGB-2-93
+Page 5
+
+          particular               action     or decision."
+
+ECONOMIC
+
+      The immediate economic returns derived from the proposed use would                                                               be
+      the retention of site development dollars and construction payroll
+      within the community as the site is improved for operations.
+
+      The proposed use will provide an estimated 32 full-time jobs when.full
+      operational capacity is realized.   An initial payroll in excess of
+      $250,000 is anticipated during start-up of the facility, when fully
+      operational the annual payroll could exceed $750,000.    The proposed
+      activity will increase and diversify the local job market and provide
+      employment opportunity that does not require highly specialize training.
+
+      One         of    the    proposed            products,        industrial           fuel,     could    make     a   substantial
+      contribution to the operations of Smurfit Newsprint by replacing fuels
+      lost to a decline in the availability of natural fibers.  Jobs that may
+      be placed at risk due to the declining fibers market could be retained
+      as a result of the fuels developed at the site.
+
+      As the materials recovery and processing system is improved the proposed
+      use could result in substantial savings to the community through the
+      substantial reduction of solid waste collection and disposal costs due
+      to a substantial decrease in the volume of material landfilled.   A
+      reduction of landfilled material relieves the community from long term
+      environmental liability and self insurance costs to assure that present
+          and     future       landfill            sites        utilized     by    the    community        remain
+      environmentally sound.   It is also reasonable to assume that as waste
+      disposal costs are reduced to system users, over the long term, private
+      industry would have more funds to utilize in the development of new
+      products, plant expansion and business growth within the community.    The
+      proposed use contemplates the conversion of municipal waste materials
+      into desirable industrial and agricultural commodities.
+
+ENVIRONMENTAL
+
+      The         proposed           industrial            development        will       not     adversely        impact     the       local
+      environment.                    The     on-site           operations        will    be     subject     to    review        and
+      permit procedures by DEQ and the City                                        of Newberg and will be developed
+      and maintained in accordance with the                                        standards of those permits.   The
+          site        will    be     subject        to     an    environmental           assessment,         similar        in     scope       to
+      that previously required of the adjoining Newberg                                                Transfer & Recycle
+      Center which has been operated in compliance with                                                environmental
+          standards           over     the     past        nine    years.
+
+      At full capacity the proposed facility could eliminate between 300                                                                and
+      450 tons of solid waste from landfilling on a daily basis.   The
+
+                                                                                                                                            Ex           A
+                                                                                                                                  E25           Prop - 2
+                                                                                                                                                    e-   I
+Newberg        UGB   Amendment
+Applicant:           Marvin        Schneider
+Subject        Property:           Tax     Lot     #3228-1800
+Docket #UGB-2-93
+Page 6
+
+          reduction          of    solid     waste       on   such        a scale     would     substantially          prolong
+         present       landfill            life and        reduce         environmental         risk attendant             to current
+          solid      waste        management         practices.
+
+         Processed materials will not be permanently stored on-site.    Processing
+         products will be transported to end users on a regular basis for use or
+         additional processing as industrial fuel, soil additives, or compost
+         materials. for agricultural use.   Materials will typically be processed
+         on the day its received and shipped within 24 hours of the completion of
+         the processing operation.   Materials received will typically be pre-
+         sorted through DEQ permitted transfer and recycling operations.    On-site
+         and off-site operations and the materials stream will be periodically
+         inspected by DEQ, in accordance with permit standards, to ensure full
+         compliance with environmental protection standards.
+
+ENERGY
+
+         Initial reductions in the use and cost of energy to manage solid waste
+         will be realized through the allowance of the proposed use.   County
+         landfill rates, recently raised, cost over $27.00 per ton and require
+         the transport of material to the landfill, the use of heavy equipment to
+         bury and cover received wastes.  The proposed activity could, at a
+         minimum, reduce materials directed to the landfill by 108,000 tons per
+         year and result in a reduction of 21,000 truck trips to the landfill
+         annually.  The potential volume reduction would result in a potential
+         savings in excess of $2,000,000 per year in solid waste operations
+         costs.
+
+         The use of approved processed materials as industrial fuels will provide
+         a relatively low cost and stabile material for use in industrial
+         boilers.   Companies such as Smurfit Newsprint, which rely upon solid
+         fuels to fire its boilers, could realize substantial savings in fuel
+         costs.  The proximity of the proposed site to the Smurfit Mill site,
+         approximately 1/4 mile, will also provide substantial energy                                                  savings
+         through reduced transportation costs.   Fuels derived through                                                 processing
+         can provide a consistent supply of low                                 cost fuels for use in                  the     co-
+         generation industry and be utilized to                                 manufacture steam for                  use     by
+         symbiotic           ventures        and    to    generate          electrical         power     for    use   by    local
+         industry       and        for   sales      back      to    the     power     grid.      There      are    presently         at
+         least       three        co-generation           facilities          under     consideration             in the     State        of
+         Oregon, a major issue with each is the                                 development            of   a long     term,
+         reliable, and low cost source of fuel.
+
+SOCIAL    CONSEQUENCES
+
+         The     proposed          use   will      provide         tangible         benefits     to the        citizenry       and
+         community           of Newberg.   It will, given an opportunity,                                   provide family-
+         wage jobs           for residents of the community.   Contribute                                   to the overall
+
+                                                                                                                                               Ex A
+                                                                                                                                               App 2
+                                                                                                                                               p.   (2.
+Newberg            UGB     Amendment
+Applicant:                 Marvin         Schneider
+Subject            Property:             Tax      Lot     #3228-1800
+Docket            #UGB-2-93
+Page     7
+
+             economic            welfare          of     the    community                  through      a reduced            reliance        upon        the
+             landfilling                of solid          waste,           and        potentially          generate           a reduction               of
+             costs         and     fees        attendant             to    solid           waste     management          in    the        community.
+             The        jobs     and     payroll          provided               through          the   industrial            venture        will        turn
+             over many             times to the collective benefit of the local economy.   Persons
+             realizing             full-time, non-seasonal, employment will derive the benefits
+             of enhanced self-esteem through gainful                                                 employment          and       full
+             participation within their community.
+
+             The opportunities and potential benefits enumerated in this narrative
+             may only be realized through the granting of a reasons exception and
+             approval of the urban growth boundary amendment requested.
+
+OAR 660-04-022(1)(a) requires a demonstration of need for the proposed use or
+activity, based upon one or more statewide goals.   The uses involved are
+industrial uses in conjunction with solid waste management, the goals at issue
+are    Goal         6     - Air,       Water       and        Land        Resources           Quality       and       Goal     9     - Economic
+Development.
+
+(a)          Both the Yamhill] County and City of Newberg                                                  Comprehensive Plans
+             articulate policies to maintain and improve                                                   the “environmental"                         quality
+             of     the     community.                 Solid     Waste            Management,            waste        reduction,            and        waste
+             recovery are public policy issues.   Yamhill County and the City of
+             Newberg rely upon private industry, franchised under local authority,                                                                               to
+             manage its operations consistent with statewide environmental goals,
+             policies            and     standards.              The        Yamhill           County       Solid       Waste         Management              Plan
+             and the draft statewide solid waste management goals and policies
+             encourage environmental protection through the reduction of solid waste
+             and view waste recovery and alternative uses for appropriate materials
+             as a viable means of attaining legislatively mandated waste reduction
+             and recycling goals.
+
+             A review            of the        city       and    county               comprehensive             plans        clearly        indicate
+             that        the     city      and     county        desire               an    increase       in     economic           growth        and
+             diversity.                 Goal      9 defines               “diversify”              as    “ increasing              the     variety,
+             type,         scale,        and      location            of    business,               industrial          and    commercial
+             activities".  The proposed use, at the proposed location, would expand
+             the ability of private industry to respond to the statewide waste
+             reduction and recycling goals through the development of private
+             industry            that      will        also     serve            to    diversify          and     enhance          the     local
+             economy.
+
+(b)          The        proposed         use      is    not     based            upon       the     "resource         base"        typified            within
+             Statewide Planning Goals 3 & 4 or the                                                 agricultural and forest "resource
+             uses" typified by the county plan and                                                 recognized by the city plan.   The
+             proposed            use      is     based        upon        the         "resource"        embodied         in    the        statewide            need
+             to     reduce         solid       waste          through            waste       reduction          and     waste        recovery
+             opportunities.                    The       proposed               site       offers       a unique        opportunity               in
+
+                                                                                                                                                                      Exh 4
+                                                                                                                                                       E-]            App   Ze
+                                                                                                                                                                      9. 19
+Newberg   UGB Amendment
+Applic ant:   Marvin Schneider
+Subjec t Property:    Tax Lot #3228-1800
+Docket #UGB-2-93
+Page 8
+
+          conjunction           with     a permitted            and     franchised             waste        disposal            facility.
+      The       location         of     a waste        recovery         facility         at        this     site     provides            a     supply
+          of   “resource”         materials            adjoining         the     site,         precludes            the        containment
+          and movement of collected and received materials                                                 to another            site,
+          reduces the need for highway transportation, and                                                 places the            facility
+      adjacent to a typical user of the materials to be produced.    There is no
+      better site within close proximity of the Newberg Smurfit Mill, which is
+      deemed as the appropriate location for heavy industrial uses in the
+      city.   The receipt of selected wastes at the proposed facility precludes
+      the need to transport appropriate materials to a separate site.     It
+      consolidates               waste        related     industries             into        a small         area         of    the     community
+      that           possesses        heavy     industrial             access,     complies                with     the        goals         and
+      objectives of the city plan attendant to heavy industry,                                                             and is in                close
+      proximity to the anticipated outlet markets for finished                                                             product.
+
+(c)   The       proposed         use     is related           to solid         waste         and      is dependent               upon         the
+      presence           of     fiber     within        the     solid     waste         stream            that     can     be    efficiently
+          segregated           from     non-suitable            materials         for use             as    industrial                fuel         or
+      agricultural compost and soil additive.  The co-owner of the Newberg
+      Garbage Service and Newberg Transfer & Recycling Center is the principal
+      in this venture and                      represents a substantial                            extension of his community
+      leadership in waste                      reduction and recycling.                             The proximity of the
+      proposed           site     facilitates            his     management             of     this        operation            and     co-
+      Management               of the NGS         and NTRC            facilities.              On     a more        practical                level
+      the       proximity         of     one    site     to     the     other     may         result        in     equipment             savings,
+      the utilization of trucking equipment and roll-off equipment, which can
+      reduce initial start-up costs.   However, the salient reasons for the
+      location of the proposed facility at the proposed site is its proximity
+      to       the     waste     stream,        the     ease     and     adequacy             of    truck         access,         and        its
+      proximity           to     a primary         user        of the     fuel     product.
+
+                                                                                                                                                            Exh   A
+
+                                                                                                                                             E-%            Apy &
+                                                                                                                                                             fs
+                       EXHIBIT "B" TO ORDINANCE 563
+
+           NEWBERG      URBAN   GROWTH BOUNDARY (UGB) AMENDMENT
+                                 TAX LOT 3228-1800
+
+Scale - 1" = 300’
+
+Map   prepared   by Yamhill County   Dept. of Planning and Development
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.4% of
+the word sequence, and on 81.8% of the figures. Dictionary-recognizable words: 94.6%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

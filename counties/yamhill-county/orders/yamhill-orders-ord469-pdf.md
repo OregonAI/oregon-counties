@@ -1,0 +1,713 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord469-pdf
+title: 'ORD469-PDF'
+doc_type: ordinance
+citation: 'ORD469-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17688/ORD469-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 08167905193687d0328c0a32b442f29f5592cb3cfbde55ddd5d4f42f26377ed4
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.979; figure agreement 0.818; dictionary ratio 0.944. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD469-PDF (ORD469-PDF)
+
+## At a glance
+
+OCR-derived text of ORD469-PDF. Not human-verified.
+
+## Full text
+
+&5-TS7                                                                                                                            FiLH        AT we             705
+                                                                                                               AMA
+                   IN       THE     BOARD            OF     COMMISSIONERS                  OF     THE     STATE    OF             OREGON
+
+WE                                                    FOR       THE     COUNTY            OF YAMHILL
+                            SITTING            FOR THE TRANSACTION                           OF COUNTY BUSINESS
+     In    the         Matter        of        an     Ordinance
+
+                                                                                SS
+     Amending               the     Plan           and     Zone       Map
+     of the Yamhill  County Compre-
+
+                                                                                SS
+     hensive Plan,  1974,  and the
+     Yamhill            County           Zoning            Ordinance,
+
+                                                                                SS
+     No.        310,        1982,        as        Amended,           to
+     Change   the Plan and     Zone Map
+
+                                                                                SS
+     Designation    From   AFLH/AF-20   to
+     VLDR/VLDR-2     1/2 on Approximately                                                          ORDINANCE                NO.      469
+
+                                                                                SS
+     13 Acres    Northwest   of the City
+     of    McMinnville,                       Identified              as
+
+                                                                                SS
+     Tax        Lots        4502-900,               1000        and     a
+     Certain Portion of Tax Lot 4502-
+
+                                                                                SS
+     800 as Requested by Max and
+     Joyce  Morrow   and Fred   and   Sharon                                    eS
+
+     Harshman,   Planning   Docket
+     PA/Z-3-88,   and Declaring     an
+                                                                                ew
+
+     Emergency
+
+                 THE        BOARD  OF  COMMISSIONERS   OF YAMHILL   COUNTY,   OREGON    (the
+     Board)            on    September   21,  1988 sat   for the  transaction   of   county
+     business                in  special                    session,            Commissioners    Ted                              Lopuszynski,
+     Donald  D.              Porter,  and                  David  E.          Bishop  being present.
+
+                 WHEREAS,            Max            and     Joyce           Morrow         and     Fred         and     Sharon                 Harshman
+     have         applied                to        the      Department               of     Planning             and         Development                   in
+     order         to       change            the        plan     and       zone      designation                    from     AFLH/AF-20                   to
+     VLDR/VLDR-2                   1/2        on     Tax     Lot      4502-1000              and        that     portion                 of        Tax   Lot
+     4502-800               identified                on    the       attached             Exhibit            "B";     and
+
+          WHEREAS,  pursuant    to Section    1209.03    of the                                                             Yamhill   County
+     Zoning   Ordinance,    No.   310,   1982,    as   amended,                                                               the  Planning
+     Director   has determined      that  Tax   Lot   4502-900                                                              should  also   be
+     considered               in     the           application;               and
+
+                 WHEREAS,            on        August           4,     1988,         following            a     public            hearing,               the
+     Yamhill            County           Planning               Commission                voted     unanimously                    to         recommend
+     that  the plan and zone map designations     be                                                      changed   from AFLH/AF-
+     20 to VLDR/VLDR-2    1/2 on Tax Lots   4502-900                                                       and 1000 and on that
+     portion   of Tax Lot    4502-800 identified   on                                                      the  attached  Exhibit
+     ipl    :    and
+
+                 WHEREAS,    on August    31,   1988, following                                            a     public  hearing,   the
+     Board         voted  to   adopt   the    recommendation  of                                               the  planning   commis-—
+     sion        and        directed staff and the                             applicants                to     prepare  findings of
+     fact        and        conclusionary  findings                            in support                of     such approval;   and
+
+                                                                                                         ORDINANCE                 469         -    PAGE       1
+                                                                                              FILM       AT       PACE     706
+     WHEREAS,   staff  and the applicants    have prepared      findings  of
+fact and conclusionary    findings   for approval,   and based upon such
+findings   attached   hereto   as  Exhibit  "A"  and   by  this   reference
+incorporated herein,    it appears appropriate     to grant the applica-
+tion of Max and Joyce Morrow and Fred and Sharon Harshman;            and
+
+       WHEREAS,        in        order   to    approve        the     application        as        extended,              an
+exception    must   be taken   to Statewide   Planning                             Goals   3 and                   4 and
+based   upon    the   findings    for an   exception                              to   Goals   3                  and   4
+included      in      Exhibit            "A"    the  Board            finds   that  it         would             be      ap-
+propriate     to     take  such           an   exception,            Now,   Therefore,
+
+       THE    YAMHILL               COUNTY       BOARD          OF    COMMISSIONERS                  ORDAINS              as
+follows:
+
+      Section 1.        Based   upon    the    findings     of   fact    and    con-
+clusionary    findings   attached    hereto    as   Exhibit    "A"   and   by   this
+reference    incorporated     herein,      the    official     plan   map    of   the
+Yamhill    County   Comprehensive      Plan,    1974,    is hereby     amended     to
+change   the plan   designation    on Tax     Lots    4502-900,    4502-1000     and
+that     portion          of      Tax    Lot    4502-800             identified         on      the         attached
+Exhibit      "B"      from         Agriculture/Forestry                  Large    Holding                  (AFLH)         to
+Very  Low      Density              Residential               (VLDR),  as         more   particularly
+described      on  the             attached  map              identified         as   Exhibit  "B" and
+incorporated         herein         by   this    reference.
+
+       Section       2.             Based       upon      the        findings     of      fact             and        con-
+clusionary   findings   attached   hereto   as    Exhibit   "A"  and  by   this
+reference   incorporated      herein,   the    official     zone  map   of  the
+Yamhill  County   Zoning   Ordinance,   No.    310,   1982,   as amended,     is
+hereby     amended          to     change      the     zone     designation       on         Tax      Lots            4502-
+900,   4502-1000,   and  that   portion   of Tax Lot  4502-800    identified
+on   the  attached   Exhibit    "B"  from   AF-20 to VLDR-2   1/2,   as more
+particularly    described    on the attached map identified as Exhibit
+"B" and incorporated herein by this reference.
+
+      Section 3.        Based   upon   the   findings    of  fact   and   con-
+clusionary    findings      set  forth    in   the  attached    Exhibit    "A"
+incorporated     herein   by this    reference,    an  exception   is   hereby
+taken  to Statewide    Planning   Goals    3 and 4 as they relate       to the
+properties         identified  in Sections  1 and    2 on the   basis   that                                           said
+properties         are  irrevocably  committed    to   nonresource    uses.                                             The
+exception  shall  be and hereby                          is     incorporated           into          the        Yamhill
+County Comprehensive Plan.
+
+       Section 4.        This   ordinance    being   necessary      for   the
+health,    safety,  and   welfare   of the  citizens  of  Yamhill    County,
+and   an   emergency    having   been  declared   to exist,   shail   become
+effective upon passage hereof.
+
+                                                                            ORDINANCE              469      -    PAGE          2
+                                                                   FILM         AT     vACE        107
+
+                                       Oregon    this     2ist     day          of    September,
+        DONE     at     McMinnville,
+1988.
+
+                                       YAMHILL   COUNTY    BOARD        OF      COMMISSIONERS
+ATTEST:
+
+               STERN.                               puch
+                                         fol Zovree//¥ED
+                 DO.                   Chairman’/        LOPUSZYNSKI
+                 ~                                         Date?                      g-21- 88
+                                       Commissioner                 D      D.        PORTER
+                                                           Date:                     $a       fis
+
+JOHN\M.
+        Ie te" GRAY,
+                                       passed
+                                       Commissioner        DAVID          E.     BISHOP
+                                                                                                    >
+               Count                                       Date:                 9-Z21-EE,
+Pele
+
+                                                             ORDINANCE                469      -    PAGE   3
+                                                            EXHIBIT         "A"
+                                                                                                              FILK AT vce 708
+                                                    ORDINANCE No. 4b9
+                                               FINDINGS             FOR    APPROVAL
+
+FINDINGS            OF     FACT
+
+ dL.        The  applicants  have                          requested  a plan   amendment/zone                                  change
+            from  AFLH/AF-20   to                         VLDR/VLDR-2   1/2  on  a 11   acres                                 in   two
+            ownerships  for Tax Lots 4502-800 and 1000.        In addition to
+            the   applicants'    tax    lots,   the  planning    director    has
+            determined,   pursuant   to    Section  1209.03   of   the    Zoning
+            Ordinance,  that it is appropriate to include an additional
+            2.33         acre     parcel            in     the      area        being         reviewed           for        the     plan
+            amendment            zone     change.                This     parcel         is    identified              as     Tax       Lot
+            4502-900.                The            owners          of     Tax      Lot            4502-900            have         been
+            notified.             They        have         not    objected         to        the     change.
+
+            The   subject                     area     consists   of   5  parcels   totalling
+            approximately                13     acres.    The 5 parcels are in three separate
+            ownerships.    Three of the parcels are less than three acres,
+            one parcel   is less than    four acres;   and one parcel      is part
+            of a 61.67 acre tract.     The 61.67 acre parcel      (Tax Lot 4502-
+            800)  is currently zoned EF-40/AF-20.       Approximately 55 acres
+            are  zoned  EF-40   and 7   acres  are   zoned  AF-20.     The   AF-20
+            portion         of     Tax        Lot        4502-800          slopes         down       from       the     remaining
+            54 acres of             that Tax               Lot    at a 20 degree slope to Berry Creek
+            Road.   That             portion              has     a few Douglas  firs but most of the
+            area  is             covered   with                  brambles         and         deciduous   trees.      The
+            drop-off             forms   a very                   definite         and         stark  natural    barrier
+            between         the     hay       field         and     the    rest      of       the     property.
+
+            The  7 acres   of    Tax Lot   4502-800                                 and  total                 acreage of Tax
+            Lots  4502-900    and 1000   were  plan                                 designated                 VLDR and zoned
+            VLDR     2     1/2     from       1976         until        1980.      The        Exception           Study           and    an
+            acknowledgment                of        the     county        Comprehensive                  Plan     completed              in
+            1980 rolled back this plan designation from VLDR to AFLH and
+            the   zoning    designation  from  “VLDR-2   1/2"    to "AF-20".
+            However,   in 1979, prior to the "roll back", the owner of Tax
+            Lot 4502-800 applied for a land partition      (Docket P-964-79)
+            which   was    approved.       Two   2 1/2  acre   parcels were  created.
+            Another    parcel     was  sold    and became   Tax Lot 4502-900.     That
+            parcel    was    already    a separate     parcel.     The remaining   two
+            parcels    are    still   part   of Tax Lot 4502-800.      The applicant
+            planned         to     partition               the     remainder            of     the       property           that        was
+            zoned    VLDR-2               1/2          from         the   rest               of   Tax           Lot  4502-800.
+            However,   that              part        of the         parcel was               rezoned          to AF-20 by the
+            Exception            process            and,        therefore,         could           not    be    partitioned.
+
+            There         are     presently               two     dwellings          located             on     Tax     Lot        4502-
+
+       nF    -     FINDINGS          FOR       APPROVAL
+                                                                                       un AT once 709
+          1000     which     were         built     in    1974.        The     other    parcels     are
+          presently        vacant.              Through     the     conditional        use    process,
+          three additional dwellings could be established in the area,
+          resulting in a total of five dwellings  (one dwelling per 2.3
+          acres).   If the plan amendment/zone        change to VLDR-2    1/2 is
+          approved,   a  total   of    four   additional   dwellings   could   be
+          established   in  this    area,   one  more  than   is allowed   under
+          existing         zoning         provisions.             Tax   Lot  4502-800   has   two
+          dwellings        on it,        one of which       was     built in 1981.    No further
+          dwelling         can  be        put   on  Lot   4502-800.       Therefore,   the
+          homesites        already        partitioned   from Lot    4502-800   can not be
+          utilized       without         this   change.
+
+          The     subject         thirteen        acres      is     characterized        by    nonfarm
+          residential   uses and small acreage woodlots.     A small creek
+          runs  in a north-south direction   on the west side of Lot 900
+          and  east  side of Lot 1000.   No commercial   farm or forestry
+          activities exist on the subject 13 acres.
+
+          Berry Creek        Road,  a graveled county road,  provides access to
+          four of the         existing parcels.   The remaining ownership will
+          be accessed        by a private easement from Berry Creek Road.
+
+          Soils on the subject property are agricultural class IV                                 with
+          slopes  between  1 to  20%.   These soils  are woodland                                 site
+          Class 2 for Douglas fir production.
+
+          of the  five parcels  comprising   this  subject  13                          acres,     four
+          are  on  special deferral  for   farm/forestry   use                          and    one    is
+          taxed at full value.
+
+          The  subject   property  is               served        by Yamhill     County   roads  and
+          sheriff,     McMinnville                  School          District     and   Rural    Fire
+          District,  McMinnville electric and GTE telephone.    Water                                 is
+          provided  on-site   by individual  wells.   Sewer  service                                  is
+          provided by individual septic systems.
+
+10.       The subject property      is bordered  on the south by properties
+          that  are   zoned VLDR   2 1/2.    The  area to the east      is zoned
+          "EF-40"   and the area to the north        and west  is zoned AF-20.
+          The  properties    zoned    AF-20  are   in   large  woodlots.     The
+          property    zoned EF-40   is a hay field.       The VLDR-2  1/2  zoned
+          area to the south    consists predominantly   of parcels which
+          are   averaging    approximately   five  acres   and   are  60%
+          developed.   Much of the undeveloped land is in large parcels
+          and    would     have     to    be    developed     by    piecemeal     partitioning        or
+          by    costly     subdivision.
+
+ll.       The area to the south is the Orchard View - Pheasant Hill
+          area.   This area was part of Exception Code Area 4.1 and was
+          found to be committed to residential development during the
+          countywide   exceptions process  in 1979-80.   The area where
+
+      2    -     FINDINGS     FOR        APPROVAL
+                                                                                                                         run   A’T vce      710
+           the            subject        property           is     located       and        the           area      to   the    west   of
+           it        was        rolled     back        from      VLDR/VLDR-2               1/2           to    AFLH/AF-20        during
+           the            same    Exceptions            process          in    1979-80.
+
+12.        The  applicant   has  addressed   applicable  provisions                                                              of   the
+           county  Comprehensive   Plan,  the Zoning  Ordinance,  and                                                             Oregon
+           Administrative                   Rules           pertaining          to     exceptions.
+
+13.        No        public        agency        comments           have       been        received.
+
+14.        No        objections            were        raised       by    residents                 of        the   area.
+
+CONCLUSIONARY                     FINDINGS
+
+ 1.        The purposed   amendment                              from AFLH            to        VLDR is in conformance
+           with   the   goals    and                              policies                 of      the Yamhill   County
+           Comprehensive                   Plan        as    follows:
+
+Goal       a.              To    provide          an        adequate           amount               of        land,      development
+                           areas   and sites   to accommodate       those   uses   which  are
+                           customarily   found    in  rural    areas    or  require    or are
+                           better suited to rural locations,          without compromising
+                           the   basic  goal    relating    to    urban    containment    and
+                           orderly       urban         development.
+
+           As            noted    under         conclusionary                 finding           #    3        below,     the    subject
+           13 acres     is committed    to rural    residential    use consistent
+           with OAR 660-04-028.       the proposal will allow the change of
+           the   average    lot  size   to  a 2    1/2    acre  minimum    from  the
+           present 3.25 acre lot size that now exists (4 ownerships per
+           13 acres).       This will result     in an increase      in the total
+           number of ownerships from 4 to 5.           As noted in conclusionary
+           finding    #   2B,   there    is  a  need      for  rural    residential
+           homesites in the area, and therefore, granting the requested
+           plan             amendment/zone                    change          would             address                the     need    in
+           conformance               with        the        Goal    noted       above.
+
+Policy              b.
+
+                           Yamhill    County will recognize the lands designated on
+                           the   plan    map    as   Agriculture/Forestry       Small    Holding
+                           (AFSH),    Very    Low   Density    Residential     (VLDR)   and   Low
+                           Density     Residential       (LDR)    as   the   appropriate      and
+                           desired     location     for   rural    residential     development,
+                           while   at the same time          encouraging   opportunities      for
+                           small    scale    or    intensive    agricultural      and   forestry
+                           activities within these plan designated areas.
+
+           The   proposed   plan   map  designation     is    VLDR.      When  the
+           property    is divided,    a range  of   lot    sizes    will   be made
+           available from approximately 1.5 acres to over 3 acres.             the
+           average lot size will be approximately 2.6 acres consistent
+
+       3        -         FINDINGS        FOR    APPROVAL
+                                                                                                                   run AT vce 7411
+       with         existing       average                  lot     sizes       in    other           VLDR     areas.
+Policy        c.
+                    All   proposed           rural            area       development                  and     facilities:
+
+                    1)     shall        be        appropriately,                     if    not        uniquely,             suited       to
+                           the     area           or        site     proposed             for        development;
+
+                    2)     shall        not            be     located           in    any            natural        hazard           area,
+                           such        as     a        floodplain               or    area            of    geologic            hazard,
+                           steep            slope,                severe           drainage                problems          or        soil
+                           limitations                       for        building                or         subsurface             sewage
+                           disposal,               if        relevant;
+
+                    3)     shall   be furnished   with adequate   access    and                                                          an
+                           adequate individual or community water supply,                                                                if
+                           required;  and   shall  not be  justified    solely                                                           or
+                           even        primarily                   on     the        argument               that     the        land     is
+                           less        costly               than        alternative                  better         sites       or     that
+                           Federal           or         State           aid     is    available                in     the       form     of
+                           subsidized                       water        supply            or        sewerage             extensions
+                           from     nearby                  urban       centers.
+
+         It        has    been     demonstrated                         that         the         subject            13      acres        is
+         appropriately              suited                   to     the         proposed               2     1/2         acre        rural
+       residential               development considering the existence of public
+       services in               the area, the suitability of soils to individual
+       septic   systems,    the   existing   ownership   and   development
+       pattern   on  the   property    and the   immediate   proximity   to
+       existing VLDR-2   1/2 zoning and development.
+
+Policy        d.
+
+                           No proposed    rural   area   development     shall   require
+                           or substantially     influence the extension of costly
+                           services   and  facilities     normally    associated     with
+                           urban  centers,   such as municipal       water supply and
+                           sanitary   sewerage     or  power,   gas,    and    telephone
+                           services,                         nor        shall             it          impose             inordinate
+                           additional                  net        costs       on     mobile,               centralized            public
+                           services,   such as  police  and  fire                                                        protection,
+                           school busing, or refuse collection.
+
+       The   development  proposed    for the  subject   property      will   not
+       require the extension of additional        services.     The number of
+       potential   homesites   will   increase by one and,     therefore,the
+       level   of development   is at a low rural density and will not
+       place    an  inordinate    burden    on existing     rural     services.
+       Further,    water   can   be   obtained   from   wells,     and    septic
+       systems can be developed on a site-by-site basis.                                                                   All other
+       services are presently available to the area.   The                                                                 existing
+
+   4      -        FINDINGS      FOR        APPROVAL
+                                                                                                un AT ae 712
+       resources             are      an     exception             requirement                  of      OAR         660-04-
+       028.6(b).
+Policy       e.
+
+                   Yamhill   county  will               continue               to         recognize    that  the
+                   appropriate   location               of very               low         density   residential
+                   development    is   in  designated   large  areas    where
+                   commitments to such uses have already been made through
+                   existing  subdivision, partitioning,  or development   and
+                   by virtue of close proximity to existing urban centers;
+                   or   in    small,   limited    areas     having   unique    scenic,
+                   location     and other   suitable     site   qualities   where   the
+                   anticipated magnitude or density for development is not
+                   such    as to require     more   than    a very   basic   level   of
+                   services,         such as        single   local-road access,   individual
+                   domestic           wells         and    sewage-disposal    systems,    and
+                   possible        rural     fire    protection.
+
+       This policy   is satisfied by the requested                                          amendment              because
+       the magnitude   of the proposed  development                                          will not              cause a
+       need        for     urban     level      services.                The    existing               county            roads
+       and         proposed          private/public                   roads         developed                to      county
+       standards              will   provide   access   to   the                                      development.
+       Individual             septic  systems will be provided.                                        The  site is
+       within the            McMinnville Rural Fire District.
+
+       The         proposed         amendment          from        AF-20        to         VLDR-2        1/2         is     in
+       conformance            with the amendment criteria set                                   forth        in     Section
+       1208 of the            Zoning Ordinance as follows:
+
+       a.          That     the      proposed  amendment  is consistent                                           with     the
+                   goals    and     policies of the Comprehensive Plan.
+
+       See        conclusionary              finding        #1        above         for     a        review         of     the
+       applicable            goals     and    policies           of    the     Comprehensive                  Plan.
+
+       Compliance  with Rural   Area   Development  Goal    Statement   1.
+       The  application  provides    for  land  for  VLDR-2   1/2  sites.
+       Land sought to be zoned is continuous on the south to VLDR-2
+       1/2   zoning.       The   proposed    area   was  zoned VLDR-2      1/2   until
+       1980   when    the    AF-20    designation    was  imposed,     although     the
+       tax lots involved were not large enough to be AF-20 parcels.
+       This    application       adds    an  additional    13.75    acres    to    this
+       VLDR-2    1/2 zone along Berry Creek Road.             Two parcels already
+       have   been     partitioned       and   approved   for    homesites     due    to
+       prior    VLDR-2    1/2    zoning.     There   is one homesite      on a 2.33
+       acre        parcel          immediately         to        the     north            and        there         are     two
+       homesites   on  Tax  Lot   1000.                             Therefore,     there                 is  already
+       residential    development    in                          the   area    and    the                 additional
+       development will not interfere with                                      the forest use                      on Tax
+       Lot 1000 since two dwellings already                                    coexist with the                      forest
+   5     -        FINDINGS     FOR     APPROVAL
+                                                                                                              FIL
+                                                                                                                    y AT ince 713
+
+    use  on  that           property   and   the   remaining                                       parcels   are  not
+    suitable  for           agricultural   use   because   of                                      the  steepness  of
+    the    terrain     and      their             prior        use       as        a woodlot.
+
+    This     application               provides              for     VLDR-2               1/2     parcels             which       are
+    the     appropriate           and         desired              location               for     rural             development
+    (Policy A).    No large scale development                                                   is planned.                  There
+    is demand   for this type of development.                                                   One of the                 parcels
+    will    be     developed            as        a    homesite               as     soon         as     the         zoning       and
+    partition        processes               are        complete.                    (Policy            B).          Homes        are
+    appropriate        to     the       area           and     will          not     be     located             in    a    natural
+    hazard  area.     Water will be from wells                                                  (Policy C).   There
+    will be no requirement      for extension of                                                urban services and
+    facilities    (Policy C).
+
+    Compliance         with        Rural  Area                     Development                  Goal           Statement           2.
+    Demand for        rural        development                     exists.   The                area          is suited           for
+    at least three homesites.    No                                  land           will        be taken from farm
+    use.    The  present  minimal                                    wood            lot         use  will  not be
+    interfered with and the demands on services will be minimal.
+    Only  13.75    acres are involved  access would be by driveways
+    to Berry    Creek Road.   The maximum of five homesites created
+    would   not require                      more            than        a     basic            level           of        services
+    (Policies A and B).
+
+    b.      That     there         is        an       existing,               demonstrable                    need        for     the
+            particular                 uses            allowed                by          the          requested                zone,
+            considering    the    importance   of    such    uses  to   the
+            citizenry   or the   economy   of the     area,   the existing
+            market  demand  which    such uses   will    satisfy,  and the
+            availability and location of other lands          so zoned and
+            their suitability for the uses allowed by the zone.
+
+    There  is a public  need for VDLR-2 1/2 homesites.  Although
+    there  are other such sites  in the county, many of them are
+    presently not ready for development because they are part of
+    large     parcels        which           would           require           a     significant                    development
+    cost.     By   granting    this  zone  change,     two   of   the   parcels
+    would  be    ready   for   development   and   one    would    need   to   be
+    partitioned     before   development.     Thus,    three    parcels    would
+    be     available         in         a     relatively                     short          time.               Since           1980,
+    economic       development                in       Yamhill               County         has        increased,               along
+    with    the    number         of        families           in     the          county         and     the        consequent
+    need    for    VLDR     homesites.
+
+    Gs      That    the     proposed                  change        is       appropriate                considering               the
+            surrounding                land           uses,          the           density              and         pattern        of
+            development     in the    area,   any changes   which  may   have
+            occurred    in    the   vicinity     to support   the   proposed
+            amendment      and    the    availability   of   utilities    and
+            services likely to be needed by the anticipated uses in
+            the proposed district.
+
+6    -     FINDINGS       FOR      APPROVAL
+                                                                                                                    y     AT     PACE     TAA
+                                                                                                              FAL
+
+    The proposal  is appropriate.    All public services necessary
+    for the development of the property currently exist in the
+    area.   Sewer and water services can potentially be provided
+    on a site-by-site basis. Further,    considering the pattern of
+    parcelization   and  development    that  has   existed  on the
+    subject 13 acres prior to countywide zoning and considering
+    the similar pattern of parcelization on the abutting VLDR-2
+    1/2   zoned  area, and    the fact  that  the  area    itself                                                                        was
+    already zoned VLDR-2   1/2 and then rolled-back,    it seems                                                                        that
+    the proposed amendment would be correcting an oversight                                                                             made
+    in the past.
+
+            d.      That         other        lands              in     the        county          already                designated
+                    for         the        proposed               uses           are        either            unavailable                 or
+                    not     as        well-suited                     for     the       anticipated                     uses     due      to
+                    location,               size,           or        other        factors.
+
+    See Findings           of        Fact    #    10        and        11     and       Conclusionary                         Finding        #
+    2b above.
+
+    The proposed           amendment              is in conformance with the exception
+    requirements           for land               irrevocably  committed to uses other
+    than    resource        uses           pursuant              to     OAR        660-04-028,                  considering:
+
+    A.      Existing        Adjacent              Uses
+
+            As     noted        in         Findings              of         Fact        #     10        and         11,        existing
+            adjacent            uses         to         the            south            include               committed                  and
+            developed            VLDR-2           1/2         lands.                   There        are        no         commercial
+            farm   or            forest            operations                      existing  either    on  the
+            abutting            VLDR-2           1/2 area or                       on the subject   13 acres.
+            Land      uses             are        characterized                               by         nonfarm,                    rural
+            residential                development                     consistent                  with             the        proposed
+            development               of    the     subject                 13     acres.
+
+    B.      Existing        Public           Facilities                     and        Services
+
+            Public facilities and services in the area are as noted
+            in Findings   of Fact  # 9.     As  is the case   with  the
+            majority of VLDR areas in the county, there are a very
+            basic  level  of services   available  to the   subject  13
+            acres     and        abutting              VLDR-2               1/2        zoned        areas.                    Telephone
+            and   electrical    service   are   provided    by   GTE  and
+            McMinnville     respectively.     Access   is   provided   by
+            graveled  and paved    county  roads maintained    to county
+            specifications.      School,   law   enforcement    and  fire
+            protection are provided by McMinnville School District,
+            Yamhill   county Sheriff,  and  McMinnville  Rural  Fire
+            District,           respectively.
+
+            There     is        no     difference                     between               the    level                and    type       of
+            services            existing               on         the         subject              13         acres            and       the
+7
+     -     FINDINGS        FOR        APPROVAL
+                                                                                                   run AT once 745
+           abutting         VLDR-2            1/2    zoned        lands.
+
+    Cc.    Parcel         Size         and        Ownership             Patterns       of     the         Exception
+          Area_and          Adjacent               Lands
+
+           Findings   of              Fact         # 2, 3, 4, 5, 10,                   and 11        review the
+           parcel   size              and         ownership  patterns                  of the        subject 13
+           acres     and     the        adjacent           VLDR     2     1/2    zoned       and    EF-40        zoned
+           lands.         Specifically:
+
+           de       There are 3 ownerships                          of 5 parcels              on    the     13 acre
+                    subject property.   The                         average size              of    the     parcels
+                    is    2.6         acres.
+
+           2.       The largest  ownership in the                                13    acre area is               3.76
+                    acres, the smallest ownership                                 is   2.3 acres.
+
+           3.       All  of            the parcels  were                 created  prior to present
+                    zoning            through partition                  or private land sales.
+
+           4.       There   are               2   existing   nonfarm dwellings  on the
+                    subject   13               acres.    Both of these dwellings were
+                    constructed                    prior     to    zoning.
+
+           5.       All     of        the    ownerships            front        existing        county       roads.
+
+           6.       Abutting                lands  to the           south  are           zoned VLDR-2   1/2
+                    and  were                found   to be           committed            to  nonresources
+                    uses.
+
+           Other than the plan/zone     line on county maps,   there  is
+           no significant   difference    between the subject  13 acres
+           and the abutting VLDR-2     1/2 zoned areas.   The adjoining
+           EF-40  land   to   the  north,     west,  and  the  east   is
+           different             in     terms        of     parcel        sizes,       development,               land
+           use     and      physical                layout.             However,       the      land       use     and
+          ownership pattern on lands abutting the EF-40 property
+          will  not   change   significantly  as a  result  of  this
+          application,   especially considering that much of the 13
+          acres is quite steep and unsuitable for farming.
+
+    D.     Neighborhood                and        Regional        Characteristics
+
+           In    comparing                  the     subject         13      acres        with       other         area
+           properties  in                    terms         of  ownership   patterns,                       existing
+           development,                       land         uses,    parcels    sizes,                        public
+           facilities             and        services,            and     land     values,          the     subject
+           property is                nearly identical to the abutting VLDR-2 1/2
+           zoned lands                 but significantly  different than vicinity
+           EF-40 zoned                lands in the vicinity.
+
+8     -   FINDINGS        FOR         APPROVAL
+                                                                                                     rik AT ice 716
+    E.    Natural            or      Man-Made                 Features            or        Other      Impediments
+          Separating               the     Exception                 Area     from           Adjacent         Resource
+          Land.            Such     Features            or     Impediments              Include        but     are        not
+          Limited             to         Roads,               Watercourses,                   Utility           Lines,
+          Easements,                or   Rights-of-Way    that                          Effectively              Impede
+          Practicable                 Resource   Use   of    all                          or  Part             of    the
+          Exception           Area.
+
+          As    in     the        case     with         the        VLDR-2    1/2       to     the     south     of        the
+          subject property,there     is little   in the way of natural
+          or man-made    features  to separate    the   subject  property
+          from  adjacent    EF-40 lands.     Other    than  county  roads
+          that        border        a    portion              of     the    subject           property         and        run
+          through portions of it, there are few physical  features
+          that separate the subject property from adjacent VLDR-2
+          1/2  or  EF-40   lands.                              In this  respect,                      the      subject
+          property   is  identical                            to the VLDR-2   1/2                     area      to the
+          south  where   the primary   features    separating   that area
+          from adjacent resource lands are size of ownerships         and
+          property   lines.   However,    the portions    of Tax Lot 800
+          affected   by the  change  are    separated   from the rest of
+          Tax Lot   800 by the steep     drop-off   from the portion    of
+          Tax     Lot       800     that      is     farmed.
+
+    Fe    Physical           Development
+
+          There are 2 dwellings    on the subject 13 acres with a
+          potential  for an additional   3 dwellings under existing
+          zoning requirements.   This would result in one dwelling
+          per        2.6     acres       in    an         area       that    is        supposedly            zoned        for
+          resource           use.
+
+          In addition to the existing and potential residences on
+          the subject  property,  the area  is bordered by VLDR-2
+          1/2 zoned lands that are developed to rural residential
+          densities.
+
+          Further,           by     approving                the     proposed           plan        amendment/zone
+          change,           the      maximum            allowable            density           for     the     subject
+          13     acres        would           only         have        a    potential               increase         of     1
+          dwelling  over  the   number of  dwellings                                                   potentially
+          allowed under existing zoning requirements.
+
+          Previous           partition             in     1979       did    not        put    any     pressure            for
+          further           development              of       the    EF-40        parcel.
+
+9    -   FINDINGS           FOR    APPROVAL
+                                                                                                             FILH   Al   "
+                                          EXHIBIT "B" FOR ORDINANCE NO.469
+                                          COMPREHENSIVE PLAN AND ZONE MAP AMENDMENT
+                                          ADOPTED BY THE YAMHILL COUNTY BOARD. OF COMMISSIONERS
+                                          SEPTEMBER 21, 1988
+
+                                          TO CHANGE THE COMPREHENSIVE PLAN DESIGNATION
+                                          FROM "AGRICULTURE/FORESTRY LARGE HOLDING"
+                                          TO "VERY LOW DENSITY RESIDENTIAL", AND
+
+                                          TO CHANGE OFFICIAL         ZONING MAP
+                                          FROM    "AF-20"    TO   "VLDR-24"
+
+T4 - RS) SECT 2                                                     300
+         —NoRTH—S——
+
+Scale:        1"      = 400!
+
+Change        applies          to   the    shaded     area
+
+Map   prepared           by     Yamhill          County   Department      of   Planning   &   Development.
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.9% of
+the word sequence, and on 81.8% of the figures. Dictionary-recognizable words: 94.4%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

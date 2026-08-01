@@ -1,0 +1,554 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord902-pdf
+title: 'ORD902-PDF'
+doc_type: ordinance
+citation: 'ORD902-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17300/ORD902-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 56c6c35038304097cdbfc6f8c5a16647cbaa62fddadb75a066a8aaa022d0db9c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.976; figure agreement 0.860; dictionary ratio 0.957. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - OAR 660-022-0010
+    - OAR 660-022-0030
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD902-PDF (ORD902-PDF)
+
+## At a glance
+
+OCR-derived text of ORD902-PDF. Not human-verified.
+
+## Full text
+
+BEFORE THE BOARD OF COMMISSIONERS                  OF THE STATE OF OREGON
+
+                               FOR THE COUNTY OF YAMHILL
+
+                SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of a Comprehensive Plan Amendment From Very __ )
+Low Density Residential to Commercial; a Zoning Map                  )
+Amendment from VLDR-1, Very Low Density Residential to               )    Ordinance 902
+HC, Highway Commercial; and Imposition of a Limited Use              )
+Overlay, for a .88-acre Parcel of Land, Tax Lot 3219CB-1400,         4)
+24075 Highway 99W, Newberg, Applicant Nash Investments               )
+LLC, Planning Docket PAZ-01-16, and Declaring an Emergency           )
+
+          THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the
+Board) sat for the transaction of county business on May 4, 2017, Commissioners Stan Primozich,
+Mary Starrett and Richard L. “Rick” Olson being present.
+
+        IT APPEARING TO THE BOARD that Nash Investments LLC has requested a plan
+amendment and zone change for an approximately .88-acre parcel, Tax Lot 3219CB-1400 (24075
+Highway 99W, Newberg); and
+
+          IT APPEARING TO THE BOARD that this matter came before the Planning Commision
+for public hearing on March 2, 2017, there was no testimony in opposition, and the Planning
+Commission voted 6-0 to recommend approval of the application by the Board of Commissioners;
+and
+
+           IT APPEARING TO THE BOARD that this matter came before the Board on April 6,
+2017 for public hearing and that, following the hearing (with no testimony in opposition) and
+deliberation, the Board voted 3-0 to approve the application pending the adoption of a final written
+decision and findings on May 4, 2017; NOW, THEREFORE
+
+         THE BOARD ORDAINS AS FOLLOWS:
+
+          Section 1.  The findings attached as Exhibit “A” and incorporated herein by reference
+are hereby adopted in support of this ordinance.
+
+         Section2.     The Comprehensive Plan and Zoning Maps of Yamhill County are hereby
+amended as specified in the attached Exhibit “B,” incorporated herein by this reference, to reflect
+a plan designation of “Commercial,” and a zoning designation of “HC-Highway Commercial for
+Tax Lot 3315-3800 identified on the attached Exhibit “B” map.
+
+                                                                                     Ordinance 902
+                                                                              (Board Order 17-153)
+                                                                                             Page |
+          Section 3.  A Limited Use Overlay is hereby imposed on Tax Lot 3219CB-1400,
+limiting the commercial uses allowed on the property as specified at the close of the findings
+attached as Exhibit A and incorporated herein by reference.
+
+          Section 4.    This Ordinance being necessary for the health, safety and welfare of the
+citizens of Yamhill    County, and an emergency having been declared to exist, is effective
+immediately.
+
+          DONE this 4" day of May, 2017, at McMinnville, Oregon.
+
+ATTEST:
+
+BRIAN VAN B
+County Clerk                                            ~AIANP.ee
+
+By        bal
+Deputy/Crystal Cox                                            a oe
+
+FORM APPROVED BY:                          ei hi         Me O,—
+     |                                Commissioner            RICHARD   L. “RICK” OLSON
+
+Timothy S. Sadlo
+Seniar Assistant County Counsel
+
+                                                                                ORDINANCE 902
+                                                                             (Board Order 17-153)
+                                                                                           Page 2
+                           EXHIBIT A —- ORDINANCE 902
+                              (BOARD ORDER 17-153)
+                    FINDINGS FOR APPROVAL AND CONDITIONS
+                     IMPOSED UNDER A LIMITED USE OVERLAY
+
+DOCKET      NO.:             PAZ-01-16
+
+REQUEST:                     Approval of a Comprehensive Plan amendment from Very Low
+                             Density Residential to Commercial and a zone change from VLDR-
+                             1, Very Low Density Residential to HC, Highway Commercial.
+
+APPLICANT:                   Nash Investments LLC
+
+OWNER:                       Nash Investments LLC
+
+TAX LOT:                     3219CB-1400
+
+LOCATION:                    24075 Highway 99W, Newberg
+
+REVIEW CRITERIA:             Sections 502, 603, and 1208.02 of the Yamhill County Zoning
+                             Ordinance.    Section 904, Limited Use Overlay;     Comprehensive
+                             Plan    policies  as   addressed   herein;   OAR    660-12-0060
+                             (Transportation Planning Rule); the Unincorporated Communities
+                             Rule in OAR 660-022-0030; and Statewide Planning Goal 14.
+
+FINDINGS:
+
+A.   Background      Facts
+
+1.   Lot Size: Approximately 0.88 acres.
+
+     Access: NE Home Acres Road. The application notes that there may be access at the
+     southwest corner of the property, over County road/ODOT rights-of-way; however, there
+     is no direct access onto Highway 99W.
+
+     On-Site Land Use and Request: The parcel currently has a non-conforming tavern.         The
+     property is located less than a quarter mile southwest of the Newberg city limits. The
+     applicant is requesting the plan amendment and zone change to Highway Commercial with
+     a limited use overlay that would limit the permitted uses on the parcel to:
+
+               A. Drinking place, of no more than 1,980 square feet
+               B. Restaurant, with a maximum floor area of no more than 2,630 square feet
+               C. Convenience store, with a maximum floor area of 1,200 square feet and
+                  limited to 15 to 16 hours of operation per day.
+
+      Surrounding Land Use and Zoning: The parcels to the north and northwest are zoned
+      VLDR-1, Very Low Density Residential and consists of rural residences on %-acre lots.
+      The parcel to the southwest is zoned LI and is used for custom metal and welding services.
+      Highway 99W borders the parcel to the south. Property south and east, across Highway
+      99W, is zoned VLDR-2.5 and is primarily developed with rural residences.
+      Water: The application indicates the parcel is served by city water.
+
+      Sewage Disposal: The parcel currently has a septic system.
+
+      Soils: The Yamhill County Soil Survey shows the entire parcel is composed of Woodburn
+      (WuB), Class II, prime farmland. (Note: While the property contains soils that are rated
+      as “high-value” agricultural soils, in 1980 the property was excepted from the farm and
+      forest preservation goals.)
+
+      Exception: The property was found to be a committed exception in Code Area 1.8, adopted
+      by Exception’s Statement II, April 23, 1980 and was plan designated VLDR, Very Low
+      Density Residential. The exception area is not within an ‘unincorporated community’ as
+      that term is defined by OAR 660-022-0010(10).
+      Fish and Wildlife:           The property is not identified as being on any county adopted fish and
+      wildlife habitat plan.
+
+10.   Overlay Districts: Prior to this ordinance, none.
+
+      Zone Change and Plan Amendment Provisions and Analysis
+
+      The types of permitted uses in the Highway Commercial Zone are listed in YCZO Section
+      603 as follows:
+
+                     Automobile service station;
+         QA™mmSaws
+
+               Drive-in restaurant, restaurant, or refreshment stand;
+               Food store, maximum floor area of two thousand (2,000) square feet;
+               Fruit or vegetable stand, commercial;
+               Gift, souvenir or antique shop;
+               Motel;
+               Dwelling in conjunction with a permitted use. If a dwelling is a mobile home, it
+           shail in addition to the requirements of this Section, also be subject to the mobile home
+           standards set forth in Section 1002;
+           HI. Accessory uses;
+           I         Temporary structures as may be required during construction of an authorized
+          permanent structure. Such temporary structure shall be removed upon final inspection
+           of the permanent structure by the Building Inspector;
+           J. Community or municipal water supply system;
+           K. Community or municipal sewer system; and
+           L. Signs, pursuant to the sign provisions set forth in Section1006.
+
+                                                                           EXHIBIT A — Ordinance 902
+                                                                                 Findings for Approval
+                                                                               and Conditions Imposed
+                                                                            Under Limited Use Overlay
+                                                                                                  Page 2
+The applicant’s request for a “restaurant” is listed as a permitted use, however, a “drinking
+place” and “convenience store” are not specifically listed. Section 603.04 of the YCZO
+states:
+
+Any use not specifically listed as a permitted or conditional use in this District that is
+similar in character, scale and performance to the permitted uses specified in subsection
+603.02 may be allowed as a similar use, subject to the provisions of Section 1206, and
+pursuant to the Type A application procedure set forth in Section 1301.
+
+The purpose of Section 1206 of the YCZO is to provide for those uses not specifically
+listed in a particular zoning district but that are similar in character, scale and performance
+to the permitted uses specified in zoning districts in which a similar use may be authorized.
+Although all of the uses proposed appear to be allowed outright or as similar uses, the
+applicant did not apply for, nor address, similar use requirements of the county’s ordinance.
+If necessary, the applicant must address such requirements at that time of Site Design
+Review.
+
+The Plan Amendment portion of the request must comply with the Yamhill County
+Comprehensive Plan, the Oregon Revised Statutes and the Oregon Administrative Rules,
+which are addressed throughout these findings.
+
+The zone change portion of the request must comply with the standards and criteria in
+YCZO Section 1208.02. These standards are:
+
+(A)       The proposed change is consistent with the goals, policies, and any other
+          applicable provisions of the Comprehensive Plan.
+
+          Regarding criterion (A), since an exception to Statewide Planning Goals 3 and 4
+          has already been taken for the subject parcel, Comprehensive Plan goals and
+          policies related to agricultural and forest lands are not applicable. Other Plan goals
+          and policies that may be pertinent are addressed on pages 7-10 of the application
+          narrative and are incorporated herein by reference.
+
+(B)       There is an existing demonstrable need for the particular uses allowed by the
+          requested zone,   considering the importance    of such uses to the citizenry or the
+          economy of the area, the existing market demand which such uses will satisfy, and
+          the availability and location of other lands so zoned and their suitability for the
+          uses allowed by the zone.
+
+          Regarding the need for the proposed use, criterion (B), the applicant has submitted
+          sufficient evidence and testimony to demonstrate the need for the uses allowed by
+          the requested zone. The applicant states there will be a continued and anticipated
+          increase in traffic on Highway 99W that creates a need for additional highway
+          supporting services such as restaurants, drinking establishments and food stores.
+
+                                                                 EXHIBIT A — Ordinance 902
+                                                                       Findings for Approval
+                                                                     and Conditions Imposed
+                                                                  Under Limited Use Overlay
+                                                                                       Page 3
+      The application provides information stating that the owner receives phone calls on
+      a weekly basis asking to rent the space. The applicant has provided testimony and
+      evidence demonstrating that there is a lack of available HC zoned property in
+      Yamhill County, and that there is an existing need for the types of uses allowed in
+      the HC zone.
+
+(C)   The proposed change is appropriate considering the surrounding land uses, the
+      density and pattern of development in the area, any changes which may have
+      occurred in the vicinity to support the proposed amendment and the availability of
+      utilities and services likely to be needed by the anticipated uses in the proposed
+      district.
+
+      A portion of criterion (C) requires that the applicant demonstrate that the proposed
+      change is appropriate considering the surrounding land uses and the density and
+      pattern of development in the area. The surrounding area is composed of rural
+      residences and industrial uses. The previous use of the parcel was as a tavern that
+      operated on the property for many years without apparent conflicts. No testimony
+      was received in opposition to the proposal.      The applicant notes the proposed
+      small-scale restaurant, drinking establishment and/or convenience store is more
+      attractive than what currently exists and would have a low impact on the
+      surrounding land uses. Due to its location, size and present development, the
+      subject parcel is not ideally suited for residential use, as would be allowed under
+      current zoning. The parcel abuts Highway 99W and would provide services for the
+      traveling public and provide goods and services within walking distance of the
+      small neighborhood adjacent to the site. The applicant intends to rely on the current
+      level of services provided by the city (water, fire and police). Subsequent Site
+      Design Review is required, in order to address the need for other services and
+      facilities such as septic and site drainage.
+
+(D)   Other lands in the county already designated for the proposed uses are either
+      unavailable or not as well-suited for the anticipated uses due to location, size, or
+      other factors.
+
+      During the application and hearing proceedings, the applicant evaluated 13 tax lots
+      currently zoned HC    in the County   and established that all of the HC    tracts are
+      developed and in use for similar or other purposes except for Tax Lot 3325-600,
+      which is a 14.66 acre parcel located in the Newberg — Dundee corridor. The
+      applicant states that that parcel is too large for the purposes intended by the
+      applicant and its availability and viability are questionable due to the anticipated
+      East Dundee interchange project, which, as proposed, will utilize much of the 14.66
+      acres.
+
+                                                             EXHIBIT A — Ordinance 902
+                                                                   Findings for Approval
+                                                                 and Conditions Imposed
+                                                              Under Limited Use Overlay
+                                                                                     Page 4
+               The applicant also notes that the purpose of the County HC zoning is to provide
+               support services for state highways “outside the urban area.”       The purpose of the
+               Highway Commercial District states:
+
+               The purpose of the HC District is to provide limited small-scale highway and tourist
+               commercial services for the traveling public in specially designated highway-
+               service centers where access, traffic-turning movements and off-street parking can
+               be provided in a safe, convenient, economic and attractive manner.             The
+               establishment of an HC District shall be based on present foreseeable demand for
+               limited services to the traveling public. In areas adjacent to Highways 99W and
+                18, the size, spacing, layout and design of such centers shall ensure that the view
+               from the highway and the rural atmosphere of the county are not impaired: and
+               that the scale and service requirements of the facilities do not have an adverse
+                impact on, unduly compete with, or place any unusual service demands on nearby
+                urban centers.
+
+               Section 1208.02 (D) requires evaluation of lands “in the county,” without
+               qualification. In the course of the proceedings, the applicant submitted sufficient
+               information to establish that this standard is met.
+
+     (E)       The amendment is consistent with the current Oregon Administrative Rules for
+               exceptions, if applicable.
+
+               Exception requirements, criterion (E), are addressed in section C of this report.
+
+      Goal Exception Provisions and Analysis
+IA
+
+     One of the concerns addressed by Goal 14 is to limit the intensity of development to that
+     which is rural in nature. The following are the relevant sections of the administrative rules
+     related to Goal 14, Unincorporated Communities (OAR 660-022-0030(4) and ( 10)), and
+     states:
+
+     (4) County plans and land use regulations may              authorize   only   the following   new
+     commercial uses in unincorporated communities:
+
+               (a) Uses authorized under Goals 3 and 4;
+
+               (b) Small-scale, low impact uses;
+
+               (c) Uses intended to serve the community and surrounding rural area or the travel
+               needs of people passing through the area.
+
+     (10) For purposes of subsection (b) of section (4) of this rule, a small-scale, low impact
+     commercial use is one which takes place in an urban unincorporated community in a
+
+                                                                      EXHIBIT A — Ordinance 902
+                                                                             Findings for Approval
+                                                                           and Conditions Imposed
+                                                                        Under Limited Use Overlay
+                                                                                               Page 5
+    building or building not exceeding 8,000 square feet of floor space, or in any other type of
+    unincorporated community in a building or buildings not exceeding 4, 000 square feet of
+    floor space.
+     In Friends of Yamhill County v. Yamhill County, 49 Or LUBA 529 (2005) LUBA stated:
+     “Goal 14 implicitly requires that the intensity of uses allowed on rural lands outside
+    unincorporated communities be less than the maximum intensity allowed inside
+    unincorporated communities.” The size of commercial uses allowed in unincorporated
+    communities is 4,000 square feet. LCDC has determined that appropriate commercial
+    uses in the rural area should be no more than 3,500 square feet. In order to avoid taking
+    an exception to Goal 14, the building(s) area needs to be less than 3,500 square feet of floor
+    area.   As noted above under Section A.3 of these findings, the application indicates that
+    building sizes will be limited to less than 3,000 square feet (2,630 square feet at most).
+    Therefore, an exception to Goal 14 is not required. Additionally, the property was found
+    to be a committed exception in Code Area 1.8, adopted by Exception’s Statement II, April
+    23, 1980 and was plan designated VLDR, Very Low Density Residential. For these
+    reasons, an exception to Goals 3 and 4 is not required.
+
+    It should also be noted that the minimum parcel size in the HC zone is 20,000 square feet
+    (currently, the VLDR zone allows a one acre parcel size), however, the subject parcel
+    appears to be currently comprised of four separate lots (Lots 23, 24, 26 and 27) created as
+    part of the Home Acres Subdivision in 1912. These lots range in size from approximately
+    1,600 square feet to 15,500 square feet. It is unlikely each of these lots could be developed
+    separately given site limitations such as septic requirements and setbacks. Furthermore, the
+    applicant has proposed development of the site as one 0.88-acre parcel.
+
+    Limited Use Overlay Provisions
+=
+
+    Section 904.03 of the YCZO allows the imposition of a limited use overlay, as follows:
+
+    (A)     When the Limited Use Overlay District is applied, the uses permitted in the
+            underlying zone shall be limited to those specifically referenced in the ordinance
+            adopting the Limited Use Overlay District.
+
+    (B)     The Limited Use Overlay District may be used to require conditional use approval
+            for uses normally permitted outright.
+
+    (C)     Reasonable conditions may be imposed in the Limited Use Overlay District as are
+            necessary to assure compliance with the provisions of the Comprehensive Plan and
+            this ordinance.
+
+    (D)     Until the overlay has been removed or amended, the only permitted uses in an LU
+            district shall be those specifically referenced in the adopting ordinance.
+
+                                                                   EXHIBIT A — Ordinance 902
+                                                                         Findings for Approval
+                                                                       and Conditions Imposed
+                                                                    Under Limited Use Overlay
+                                                                                         Page 6
+    Since the HC, Highway Commercial zone allows other commercial uses that have not been
+    evaluated to determine whether they are appropriate to the area, it is appropriate to apply a
+    Limited Use Overlay to allow only the following permitted uses requested by the applicant,
+    provided the total building area does not exceed 3,500 square feet:
+
+           A.    Drinking place, of no more than 1,980 square feet
+           B.    Restaurant, with a maximum floor area of no more than 2,630 square feet
+           C.    Convenience store, with a maximum floor area of 1,200 square feet and
+                 limited to 15 to 16 hours of operation per day.
+
+    In addition to limiting the uses to what was requested, the limited use overlay zone
+    conditions state that, prior to use of the property for the above uses, the applicant must
+    obtain Site Design Review approval subject to Section 1101 of the YCZO, to ensure that
+    issues such as screening and parking are appropriately addressed.
+
+    Goal 12 (Transportation Rule) Provisions and Analysis
+=
+
+    The Transportation Planning Rule, implementing Goal 12 OAR 660-12-060 states:
+
+    (1)    Amendments to functional plans, acknowledged comprehensive plans, and land
+           use regulations which significantly affect a transportation facility shall assure
+           that allowed land uses are consistent with the identified function, capacity, and
+           level of service of the facility. This shall be accomplished by either:
+
+           (a)      Limiting allowed land uses to be consistent with the planned function,
+                    capacity and level of service of the transportation facility,
+           (b)     Amending the TSP [Transportation System Plan] to provide transportation
+                   facilities adequate to support the proposed land uses consistent with the
+                    requirements of this division; or,
+           (c)     Altering land use designations, densities, or design requirements to reduce
+                    demand for automobile travel and meet travel needs through other modes.
+
+    (2)   A plan or land use regulation amendment significantly affects a transportation
+          facility if it:
+
+           (a)      Changes the functional classification of an existing or planned
+                    transportation facility;
+           (b)      Changes standards implementing a functional classification system;
+           (c)      Allows types or levels of land uses which would result in levels of travel or
+                    access which are inconsistent with the functional classification of a
+                    transportation facility; or
+           (d)      Would reduce the level of service of the facility below the minimum
+                    acceptable level identified in the TSP.
+
+                                                                   EXHIBIT A — Ordinance 902
+                                                                         Findings for Approval
+                                                                       and Conditions Imposed
+                                                                    Under Limited Use Overlay
+                                                                                         Page 7
+      Regarding (1) and (2), the request is to approve a plan amendment/zone change, so the
+      above administrative rules apply. The traffic study submitted by the applicant established
+      that the applicant’s proposed limited use of the property will not increase peak travel over
+      a Child Care Center, which is currently a permitted use in the VLDR zone. The County
+      Engineer stated that it is the county’s expectation that the existing intersection will
+      accommodate the increase in traffic anticipated from the proposal.
+
+      Additionally, Ordinance 787, Public Safety Infrastructure Ordinance, requires that the
+      Public    Works      Department   review the expected    traffic generation proposed         by any
+      development and it must be found that the nearby roads are adequate to handle any increase.
+      If road        improvements   are required,   then Ordinance   787     allows   the Public   Works
+      Department to require any necessary road improvements.              Evidence in the record
+      establishes that there will not be a significant impact to the transportation facilities in the
+      area if the use of the property is restricted to the facility as proposed. Therefore, with
+      application of an appropriate limited use overlay zone, the request complies with the
+      Transportation Planning Rule.
+
+CONCLUSIONS:
+
+1.    The proposal meets county standards governing Comprehensive Plan amendments and
+      zone changes.
+
+      The proposal is consistent with Comprehensive Plan goals and policies.             With conditions
+      imposed        under a Limited Use     Overlay, the proposed    use will be compatible with
+      surrounding uses.
+
+      With the application of a Limited Use Overlay, no Goal 14 exception is needed.
+
+      The applicant has demonstrated that the use complies with the Transportation Planning
+      Rule in that it will not have a significant effect on transportation facilities in the area.
+
+CONDITIONS IMPOSED UNDER A LIMITED USE OVERLAY:
+
+The following conditions are imposed under the Limited Use Overlay imposed                   on Tax Lot
+3219CB-1400 by Ordinance 902:
+
+Li    Uses shall be limited to:
+
+                A.        Drinking place, of no more than 1,980 square feet;
+                B.        Restaurant, with a maximum floor area of no more than 2,630 square feet;
+                C.        Convenience store, with a maximum floor area of 1,200 square feet and
+                          limited to 15 to 16 hours of operation per day.
+
+                                                                           EXHIBIT A — Ordinance 902
+                                                                                 Findings for Approval
+                                                                               and Conditions Imposed
+                                                                            Under Limited Use Overlay
+                                                                                                 Page 8
+The maximum allowable total building(s) floor space for commercial uses shall not exceed
+3,500 square feet.
+
+An application for site design review, and similar use as necessary, shall be submitted by
+the applicant and approved by the County prior to any new development.
+
+                                                            EXHIBIT A — Ordinance 902
+                                                                  Findings for Approval
+                                                                and Conditions Imposed
+                                                             Under Limited Use Overlay
+                                                                                  Page 9
+                   ORDINANCE NO. 902 - EXHIBIT B MAP
+                      PLANNING DOCKET PAZ-01-16
+                          TAX LOT 3219CB-1400
+               YAMHILL COUNTY BOARD OF COMMISSIONERS
+                              MAY 4, 2017
+                       A PLAN AMENDMENT FROM
+                     VLDR,     VERY      LOW   DENSITY   RESIDENTIAL
+                                 TO C, COMMERCIAL
+                             AND A ZONE CHANGE FROM
+                    VLDR-1I,    VERY LOW DENSITY RESIDENTIAL
+                            TO HC, HIGHWAY           COMMERCIAL
+
+               NE   Home    Actes   Rd
+
+CHANGE APPLIES TO TAX        LOT    3219CB-1400    AS HIGHLIGHTED      ABOVE.   APPROXIMATE
+SCALE - 1 INCH = 100 FEET
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.6% of
+the word sequence, and on 86.0% of the figures. Dictionary-recognizable words: 95.7%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

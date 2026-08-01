@@ -1,0 +1,774 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord553-pdf
+title: 'ORD553-PDF'
+doc_type: ordinance
+citation: 'ORD553-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17619/ORD553-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 92cfcd4596c7ee796e431396060c039088f29669bda787373fc827553a34e56a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.990; figure agreement 0.800; dictionary ratio 0.957. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD553-PDF (ORD553-PDF)
+
+## At a glance
+
+OCR-derived text of ORD553-PDF. Not human-verified.
+
+## Full text
+
+IN    THE     BOARD       OF      COMMISSIONERS               OF    THE   STATE   OF        OREGON
+
+      G3-AS57T                           FOR       THE     COUNTY     OF        YAMHILL
+
+                   SITTING         FOR      THE      TRANSACTION            OF    COUNTY     BUSINESS
+
+In the Matter of an Ordinance
+
+                                                                    SSeS
+Amending the Yamhill County
+Comprehensive  Plan Map and
+Zoning Map to Change,   on a
+2 acre portion of Tax Lot
+3335-201,  the Plan Map
+
+                                                                    Se
+Designation              From     Agriculture/
+Forestry           Small     Holding           to    Light
+Industrial  and the Zone Map                                                      ORDINANCE        553
+Designation  from AF-10 to LI
+Light/General               Industrial;
+Approving Site Design Review                                with
+Conditions;   Planning Docket
+PAZ-2-93;   Applicant Paragon
+Distributing;    and Declaring
+an    Emergency.
+
+THE   BOARD        OF     COMMISSIONERS                  OF YAMHILL        COUNTY,        OREGON     ("the    Board"),
+sat for the transaction of county                                    business          in special  session on
+April 21, 1993, Commissioners Debi                                  Owens and          Dennis L. Goecks being
+present.
+
+THE    BOARD        MAKES        THE     FOLLOWING           FINDINGS:
+
+A.    Paragon     Distributing   ("Applicant")    has   applied    to    the
+Department of Planning and Development for a Comprehensive Plan Map
+amendment     from   Agriculture/Forestry    Small    Holding   to    Light
+Industrial and a zone map amendment from AF-10 to LI Light/General
+Industrial    on a 2 acre portion of Tax Lot 3335-201       identified    on
+the    attached            Exhibit          "B".
+
+B.      On        March     4,    1993       the     Yamhill        County         Planning        Commission       held
+a public  hearing to consider the application and thereafter                                                       voted
+unanimously to recommend approval of the application.
+
+(or   On  April 7,  1993 the  Board                                  held  a public             hearing   on         the
+ application and voted unanimously                                  to approve the             application.
+
+D.    The findings and conclusions  attached hereto as Exhibit  "A"
+and by this reference  incorporated herein provide a justification
+for the Board’s actionof April 7, 1993, including the taking of an
+exception to Statewide Land Use Planning Goal 14.
+
+E.    The  attached  Exhibit   "A"  demonstrates   that   the proposed
+amendment   to the Yamhill   County Comprehensive    Plan Map and the
+Official Zoning Map of Yamhill County are in the best interests of
+the citizens of Yamhill County.     NOW THEREFORE,
+
+                                                                                                           ORDINANCE   553
+                                                                                                                   Page 1
+THE    YAMHILL            COUNTY         BOARD    OF    COMMISSIONERS                     ORDAINS               as     follows:
+
+         Section            1.         The     Yamhill             County      Comprehensive                           Plan       Map      is
+hereby      amended              as     specified         in        the     attached                Exhibit               "B",     made         a
+“part  of this                   ordinance   by  reference,                               to  reflect  a plan                             map
+ designation of                  "Light Industrial"  for the                             2 acre portion of Tax                            Lot
+ 3335-201        identified               on    Exhibit            "B".
+
+      Section   2.   In   adopting                                 the   Plan             amendment                  specified   in
+Section   1,  the  county   hereby                                 takes    an            exception                  to  Statewide
+Planning Goal 14.
+
+      Section 3.   The Official  Zoning  Map  of  Yamhill                                                                   County  is
+hereby amended as specifiedin the attached Exhibit "B",                                                                    to reflect
+a zoning designation of LI Light/General   Industrial on                                                                   the 2 acre
+portion         of    Tax        Lot     3335-201       identified              on        Exhibit               "B".
+
+         Section          4.       The       findings         attached         as        Exhibit            "A"        and       incorpo-
+rated     herein          by     this     reference           are     adopted             in    support              of    this     ordi-
+nance.
+
+         Section          5.      The     site    design           review      application                      as     submitted           is
+approved subject to                      the    conditions                stated         on    page        11     of      Exhibit         "A"
+to this ordinance.
+
+      Section              6.   This ordinance being necessary                                              for the               health,
+safety,   and             welfare   of the citizens  of Yamhill                                              County,               and an
+emergency            having       been        declared        to     exist,         is        effective              upon        passage.
+
+         DONE        at   McMinnville,             Oregon            this     21st            day     of        April,           1993.
+
+                                                  YAMHILL            COUNTY         BOARD           OF     COMMISSIONERS
+
+                                                       Ove                    Qdeu                              Ls
+                                                  Chairman                          DEBI        OWENS
+
+Deputy/“JAYNIE              MITCHELL
+                                                       aap
+                                                  Commissioner                      DENNIS            L.
+                                                                                                           ae   GOECKS
+
+FORM_APPROVED               BY:
+
+  CHI                     LS?                          (Not        Available             for        Signature)
+JOHN      M. GRAY,          J                    Commissioner                       TED        LOPUSZYNSKI
+Yamhill     County                      sel
+
+                                                                                                                          ORDINANCE       553
+                                                                                                                                    Page    2
+                                                 EXHIBIT                 "A"
+                                              Ordinance 553
+                                         Findings   for Approval
+
+BOARD
+HEARING:                   April     7,       1993
+
+ORDINANCE
+ADOPTION:                  April     21,       1993
+
+DOCKET:                    PAZ-2-93
+
+REQUEST:                   Comprehensive                 Plan       Map        amendment         from
+                           Agriculture/Forestry                           Small        Holding        to   Light
+                           Industrial  and zone change  from AF-10 Agricul-
+                           ture/Forestry Small Holding to LI Light/General
+                           Industrial  on approximately two acres to permit
+                           conversion of an unused nut drying facility to a
+                           door remanufacturing operation.
+
+APPLICANT      :           Frank Walker              &    Associates                  representing            Paragon
+                           Distributing
+
+TAX   LOT:                 3335-201
+
+LOCATION:                  West     of     Dundee         on       the     north        side     of    Niederberger
+                           Road
+
+FINDINGS :
+
+A.    Background           Facts
+
+1.      Lot Size:    The tax lot is 7.48 acres,   but the request
+        applies to only the two acres    identified in Exhibit B.
+        (Note:    The original application referred to Tax Lot 3335-
+        200,       which    was     15.41       acres          in    total.             A partioning            of   that
+        tax lot had taken place prior to this application                                                      being
+        filed, but no official assessor’s number had been                                                      assigned
+        to the newly created parcel.   As of the date of adoption of
+        this ordinance, the assessor's office has assigned the
+        property containing the subject 2 acres the official county
+        reference          number        as   Tax        Lot       3335-201.)
+
+2.      Access:        Niederberger              Road,             a paved            county     road
+
+Bs      On-Site Land Use:   The two acres currently                                              supports  a large
+        structure previously used as a nut dryer.                                                The remainder of
+        the    property       is     planted             to    filbert               orchard.         There     is   one
+        dwelling       on    the     property,                on    Lot        60.
+
+                                                                                                 FINDINGS FOR APPROVAL
+                                                                          Ordinance       553,     Exhibit  "A", Page 1
+4.     Surrounding Land                 Use:      The surrounding area is generally
+       characterized by                 farm     use with rural residential use
+       interspersed.   The predominant crop is filberts.    There is a
+       rock crusher on the property to the west.    There is one off-
+       site dwelling within 500 feet of the existing building,    and
+       three within 1000 feet.    The Dundee city limits are 300 feet
+       east of the tax lot,  900 feet from the zone-change area,    and
+       1000 feet from the existing nut dryer structure;   there is an
+       urban     neighborhood             in     this       nearest       incorporated              area.
+
+5.     Surrounding           Zoning:            All     surrounding          land       is    zoned        AF-10
+       except     the       rock    crusher,           which       is    zoned     HI     Heavy         Industrial.
+
+6.     Water:         The    dwelling           has    Dundee       city    water.
+
+7.     Sewage     Disposal:              An     on-site        subsurface          system          is    the      only
+       option     available.
+
+O%     Fire     Protection:              Dundee        Rural       Fire    District
+
+10.    Taxes:         Farm    deferral
+
+11.    Explanation           of    Proposed           Development:            The       request          is      to
+       relocate        an    existing           door       remanufacturing              facility.                The
+       operation includes   finishing pre-manufactured doors and
+       molding,  and hanging the doors on the casing.   The finished
+       product is marketed to mobile home manufacturers.    The
+       existing facility employs    10 people.
+
+12.    Previous Actions:   Docket PA-1-90,  a request to amend the
+       Dundee Urban Growth Boundary to include this tax lot and the
+       adjacent  lot to the east.  The request was withdrawn prior
+       to    a decision.
+
+B.    Zone    Change        Provisions           and       Analysis
+
+1.     The subject request   is for amendment to the Comprehensive
+       Plan map and official   zoning map.   The Plan amendment
+       portion of the request does not require an exception to the
+       statewide        Goals       3    and     4    because       the    property           is    already            in
+       an    exception        area.            However,       an    exception           to    Goal        14,
+       "Urbanization,"              is    required           (see       Findings        C.1    through            C.4).
+
+2.     The     zone    change       portion           of    the    subject       request           must         comply
+       with     the    standards          and        criteria       in    YCZO     Section           1208.02.
+       These     provisions             are:
+
+       (a)      That the proposed change is consistent with the goals,
+                policies, and any other applicable provisions of the
+                Comprehensive Plan.
+
+                                                                                          FINDINGS  FOR APPROVAL
+                                                                    Ordinance      553,     Exhibit   "A", Page 2
+(b)     That there is an existing demonstrable need for the
+        particular uses allowed by the requested zone,     con-
+        sidering the importance of such uses to the citizenry
+        or the economy of the area,   the existing market demand
+        which such uses will satisfy,    and the availability and
+        location           of     other       lands        so    zoned        and     their    suitability
+        for    the        uses       allowed     by        the       zone.
+
+(c)     That the proposed change is appropriate considering the
+        surrounding land uses,    the density and pattern of
+        development  in the area,    any changes which may have
+        occurred in the vicinity to support the proposed amend-
+        ment and the availability of utilities      and services
+        likely to be needed by the anticipated uses in the
+        proposed district.
+
+(4)     That    other            lands    in    the        county       already            designated     for
+        the proposed use are either unavailable or not as well-
+        suited for the anticipated uses due to location,  size,
+        or other factors.
+
+(e)     That the amendment  is                    consistent with the current
+        Oregon Administrative                     Rules  for exceptions, if
+        applicable.
+
+Criterion       (a) is addressed in Findings                                   B.3 through        B.5,
+while the       other criteria are addressed                                   in Findings        B.6
+through       B.9,        respectively.
+
+Regarding Comprehensive                        Plan goals  and policies,                        staff has
+identified several that                        may be applicable.    The                       “industrial
+development           goal"          (Section         I.H       in    Plan)     is:
+
+        To concentrate   industries of similar types,   service
+        needs,  and performance characteristics within
+        designated areas of each of the existing urban centers;
+        to encourage   adequate land for new industrial
+        development within urban growth boundaries;     to
+        encourage the relocation of existing industries      from
+        undesirable               locations           in    order       to     eliminate        land     use
+        conflicts;              to    attract     new           industries            in    accordance     with
+        the    need        to     achieve       a more           balanced           local     property     tax
+        and employment base, while maintaining a high standard
+        of environmental   quality; and to protect the stability
+        and functional   aspect of industrial  areas by protecting
+        them from incompatible uses.
+
+In    Policy        1.b    under       this     goal        states:
+
+        To    the     greatest           extent        possible,              industrial        areas     will
+        be    located           within     urban           growth       boundaries.             Those
+
+                                                                                    FINDINGS FOR APPROVAL
+                                                                 Ordinance      553, Exhibit   "A", Page 3
+     industrial areas located outside urban growth
+     boundaries will be compatible with the industrial
+     development goal and will be located where they can be
+     adequately served by necessary major utility lines,
+     including electric power substations   and transmission
+     lines,  trunk sewer lines,  trunk water lines, and where
+     appropriate,  trunk gas lines.
+
+Regarding the Goal above,   the service needs of the proposed
+use have been characterized by the applicant     as minimal.
+Water use will be minor,   and therefore  sewage disposal needs
+are not significant.    The applicant believes Niederberger
+Road is suitable   for the traffic created by the requested
+use.   The applicant has stated there are no available     sites
+within    the     Dundee    Urban     Growth    Boundary      (UGB),      and,     due      to
+expense,  moving           the operation to Newberg or McMinnville is
+not reasonable.             The other aspects of the Goal do not appear
+to apply.
+
+Regarding Policy           1.b, industrial        uses      are encouraged,  but
+not required,  to          be inside UGBs.         The      letter of objection
+(Exhibit     C)    states     the    belief    that   the    request      is     not   in
+compliance with a policy very similar to this one.       The Plan
+still does not require that all industrial     or urban uses be
+located within UGBs.     The applicant has performed an
+inventory of available industrial     sites and determined none
+are suitable  (Exhibit A, page 5, at H and I).     The objector
+further contends that the proper course of action would be
+to put the parcel   inside the UGB, but getting the proposed
+site into the Dundee UGB is not possible because      it is not
+adjacent to the existing boundary.
+
+Regarding utility lines,  the applicant  stated that
+electricity is provided to the rock crusher now,     and can                                 be
+obtained at the subject site.    The application indicates
+water is available  from the city of Dundee.    Utilities
+appear to be adequate to serve the development.
+
+Industrial        Policy     1l.e   states:
+
+         Industrial uses will be located so that adequate                              buffer
+         space is provided between incompatible uses.
+
+The existing building is over 900 feet from the city limits,
+and it is buffered by orchard.   Compatibility with the rock
+crusher should not be a problem.   There is-one dwelling
+directly across Niederberger Road,  about 300 feet away.
+This should provide adequate buffering.
+
+                                                                     FINDINGS  FOR APPROVAL
+                                                 Ordinance    553,     Exhibit  "A", Page 4
+5.    Industrial         Policy            1.h     is:
+
+              Established             industrial                    areas     may    be    extended              and       new
+              industrial             areas         designated                by    plan    amendment                 where
+              development             trends            warrant             such    extension              or
+              designation             and         full     urban            services       are        extended             into
+              the area,  if appropriate, and the extension or
+              designation of land use and services  is consistent with
+              all other goals and policies of the comprehensive plan.
+
+      Full urban services are not needed in this case,      and would
+      not be appropriate.   An road, which is already used by truck
+      traffic,  fronts the property.   Regarding   "development
+      trends,"  industrial areas within Dundee have all been
+      occupied,  according to the applicant.    No other land use
+      changes have been identified.
+
+      Regarding criterion    (b), the applicants concentrated on the
+      availability and suitability of other lands     zoned Light
+      Industrial.    They concluded that there are no appropriate
+      sites with the LI designation,    so the zone change  is
+      required.    Regarding the economy of the area,   the facility
+      employs   10 people.
+
+      Regarding       whether             the      use         is    appropriate           (criterion                    (c)),
+      the site is            between a heavy industrial  use and an urban
+      residential            area.  The applicants believe the request would
+      provide      a proper           buffer             between            the    two,    and        point          out       the
+      industrial history of the subject site     (Exhibit A, page 3,
+      at C).   Utilities  and services  appear to be adequate    for the
+      proposed use   (see Finding B.3).   No objections   to the
+      request have been received from neighboring property owners
+      at   the    time       of.    this     report.
+
+      Regarding       criterion                  (d),     only        one     other       site        in    the          Dundee
+      area    zoned      LI        that     is     not     currently               occupied           by    an
+      industrial         or        commercial             use        has     been    identified                 by       the
+      applicant.   Staff knows of no other alternatives.    The
+      applicant has presented reasons  that, due to the traffic
+      pattern required if this site is used,   it is unsuitable for
+      their      operation           (Exhibit             A,        page     5).
+
+      Regarding       criterion                  (e),     the        OAR     requirements              are       addressed
+      in   Section       C     of    this         report.             An     exception           to    Goal          3    is     not
+      required      because           the         site         is    already        in    an     exception                area.
+
+     Oregon      Administrative                   Rule     Requirements
+
+1.    Statewide Goal 14,   "Urbanization,"    is, "To provide for an
+      orderly and efficient transition     from rural to urban land
+      use."   In order for the county to approve the zone change,
+
+                                                                                                 FINDINGS  FOR APPROVAL
+                                                                           Ordinance      553,     Exhibit   "A", Page 5
+there must either be a finding that the request is not                                                   for
+an urban use, or an exception to Goal 14 is justified.                                                    The
+applicant     states        that     it    is    an   urban    use         (Exhibit         A,     page         6,
+at K).    Goal 14 exceptions are the                         regulated by OAR 660-14-
+040  (3).    This rule states that to                        approve an exception to
+Goal   14 the county must show:
+
+(a)    That   Goal     2,    Parts        II(c)(1)      and        (c)(2)       are    met        by
+       showing the proposed urban development cannot be
+       reasonably accommodated in or through expansion of
+       existing urban growth boundaries  or an intensification
+       of development  in existing rural centers;
+
+(b)    That Goal 2, Part II(c)(3)    is met by showing the long-
+       term environmental,   economic,   social, and energy   (EESE)
+       consequences  resulting from urban development     at the
+       proposed site with measures     to reduce adverse  impacts
+       are not significantly more adverse than would typically
+       result  from the same proposal being located on other
+       undeveloped rural lands,    considering:
+
+       (A)    Whether the amount of land                       included within the
+              boundaries of the proposed                       urban development is
+              appropriate, and
+
+       (B)    Whether        urban        development         is     limited          by    the         air,
+              water,        energy, and land resources                          at or       available
+              to the        proposed site,  and whether                         urban
+              development           at     the    proposed          site     will      adversely
+              affect        the air, water,   energy,                     and    land       resources
+              of the        surrounding area.
+
+(Cc)   That   Goal     2,    Part     II(c)(4)         is    met     by     showing         the
+       proposed urban uses are compatible with                                   adjacent              uses
+       or will be so rendered through measures                                   designed              to
+       reduce adverse impacts considering:
+
+       (A)    Whether        urban        development         at     the     proposed             site
+              detracts        from        the    ability      of     existing          cities            and
+              service        districts           to   provide        services,             and
+
+       (B)    Whether        the    potential          for    continued           resource
+              management           of land at present levels  surrounding
+              and nearby           the site proposed for urban development
+              is   assured.
+
+(da)   That an appropriate                 level      of public facilities                        and
+       services  are likely                to be      provided in a timely                        and
+       efficient manner;
+
+                                                                             FINDINGS       FOR        APPROVAL
+                                                      Ordinance       553,      Exhibit      "A",        Page        6
+Each of these                     are       considered          respectively            in     the      following
+findings.                               .
+
+Regarding                 (a),     the       applicant          has       presented         evidence        that        the
+proposed use cannot be reasonably located in an existing
+UGB,  and that the Dundee UGB cannot reasonably be expanded
+to include the site   (see Finding B.3).
+
+The EESE consequences   of                           the proposed use                   were addressed                  in
+a supplemental  submittal                            by the applicant                   which examined
+alternative sites and evaluated relative EESE impacts of
+althernative sites.   Regarding (b)(A), the amount of land
+included in the request is the smallest unit that will
+accommodate the use.   Regarding (b)(B), no limitations on
+the use by listed factors have been identified.    The only
+listed resource the use will have a potential effect on is
+the land, and waste disposal will need to be approved by the
+county sanitarian,  so impacts should not be significant.
+
+Regarding                 (c),     compatibility                is     addressed        in     Findings           B.4
+and B.7.    The use                         should be compatible with surrounding
+uses.    Concerning                         criteria (c)(A) and (d), city services
+will     not         be     required           beyond      that           already      existing,           according
+to     the         applicant.                Concerning              (c)(B),     the    applicant           stated
+that not only will surrounding resource management be
+unaffected,  farming on the subject parcel will continue.
+The letter of objection (Exhibit C) stated                                                  that     preservation
+of farm and forest lands is not assured by                                                  this     zone change.
+The     area         is,         however,         already        zoned         for   rural      residential
+use.
+
+OAR 660,    Division 12, is the  "Transportation Planning                                                     Rule."
+Certain land-use actions are subject to provisions      of                                                    the
+rule.    OAR 660-12-060  states:
+
+(1)      Amendments to                      functional plans, acknowledged
+         comprehensive                      plans, and land use regulations which
+         significantly                      affect a transportation facility shall
+         assure that allowed land uses are consistent with the
+         identified function, capacity, and level of service of
+         the         facility.                This   shall           be    accomplished            by     either:
+
+             (a)      Limiting allowed land uses to be consistent with
+                      planned function, capacity and level of service of
+                      the transportation facility;
+
+             (b)      Amending              the    TSP    to     provide         transportation
+                      facilities               adequate          to       support      the     proposed           land
+                      uses consistent                    with        the    requirements             of    this
+                      division;  or,
+
+                                                                                            FINDINGS  FOR APPROVAL
+                                                                      Ordinance      553,     Exhibit   "A", Page 7
+               (c)      Altering land use designations,  densities, or
+                        design requirements  to reduce demand for
+                        automobile travel and meet travel needs through
+                        other          modes.
+
+      (2)     A plan         or       land        use     regulation               amendment                significantly
+              affects            a    transportation                    facility           if        it:
+
+               (a)      Changes              the        functional            classification                          of     an
+                        existing                 or    planned          transportation                      facility;
+
+               (b)      Changes              standards            implementing                   a     functional
+                        classification                        system;
+
+               (c)      Allows              types        or    levels         of     land        uses           which         would
+                        result in levels of travel or access which are
+                        inconsistent with the functional classification                                                                        of
+                        a transportation  facility; or
+
+               (d)      Would          reduce            the     level        of     service               of     the        facility
+                        below          the        minimum         acceptable               level            identified                   in
+                        the          TSP.
+
+      (3)     Determinations under subsection (1) and (2)                                                              of     this
+              section shall be coordinated with affected
+              transportation                       facility and               service            providers                   and        other
+              affected  local                      governments.
+
+      The Board finds that there is no significant change on the
+      impact on traffic on Highway 99W from the existing operation
+      located within the City of Dundee to the transfer of the
+      operation to the proposed site.   Therefore, the Board finds
+      that the transportation rule does not apply to this request.
+
+D.   Other    Ordinance               Provisions
+
+1.    The    proposed            use        is     not    specifically                listed               as     a    permitted
+      or    conditional               use        in     the     zone        (Exhibit        D).             Section                702.04
+      states         that    uses           that        are     similar        to     those            listed               may     be
+      permitted         subject              to       YCZO      Section            1206.         Subsection                       1206.02
+      provides         the       review            criteria        as        follows:
+
+      (a)      The     use       is    consistent                with        the     purpose               and        scope         set
+               forth        in       subsection                1206.01        and     with           the         purpose            of    the
+               underlying               zoning           district;            and
+
+      (b)      The     use       conforms               with     the        applicable               standards                    and
+               limitations                  of     the    underlying                zoning           district.
+
+      These     criteria              are        addressed             in    Findings            D.2            and        D.3.
+
+                                                                                                       FINDINGS             FOR    APPROVAL
+                                                                            Ordinance           553,       Exhibit           "A",       Page        8
+The    purpose           statement            in    subsection            1206.01           states:
+
+        The purpose of this Section is to                                       provide for those
+        uses not specifically listed in a                                       particular zoning
+        district but which are similar in                                       character, scale and
+        performance to the permitted uses                                       specified therein....
+
+This    subsection goes on                         to list        the zones in which                   similar
+uses    may be authorized,                         and the        LI zone is listed.
+
+The    purpose           statement           of     the    LI     zone     is    in     subsection            702.01
+(Exhibit       D,    page         1)
+
+YCZO    Subsection               702.02(A)           permits:
+
+        Manufacture of machine tools, medical    and dental
+        equipment,  electronic instruments,  mobile homes,    and
+        food products not generating noxious   odors.   (emphasis
+        added)
+
+The proposed use would manufacture a component     for mobile
+homes  - doors.   This use is of a smaller scale than the
+listed permitted use,    and could reasonably be considered of
+a similar character.     No conflict with Subsection   1206.01   is
+apparent.    The purpose of the LI zone includes a
+compatibility requirement,    which was addressed earlier in
+this report.    Compatibility was not found to be a
+significant concern.     Subsection 702.01 also requires    site
+design review.    The request appears to be consistent with
+the purpose of the LI zone.
+
+Regarding (b),  site design review will ensure compatibility
+with the standards  and limitations of the LI zone.
+
+Site Design Review                     is addressed  in Section 1101 of the
+zoning ordinance.                      The evaluation require consideration                                     of
+the following:
+
+(a)    Characteristics                   of        adjoining        and     surrounding               uses;
+
+(b)    Costs        of    development                of    the    proposed            use;
+
+(c)    Traffic           safety,         internal           circulation               and     parking;
+
+(d)    Provision            for        adequate           noise     and/or        visual        buffering
+        from     incompatible                  uses;
+
+(e)    Retention            of     existing            natural         features          on    site;      and
+
+(£)    Problems           that         may     arise       due    to     development            within
+       potential            hazard           areas.
+
+                                                                                       FINDINGS    FOR    APPROVAL
+                                                                 Ordinance      553,     Exhibit       "A",   Page   9
+      (g)      Comments             and/or     recommendations               of     adjacent             and
+               vicinity             property owners             whose       interests             may       be
+               affected             by the proposed             use.
+
+      Since     the       building          already         exists     on    the     site,            these
+      considerations                 will    be     limited      to    required            modifications.
+      The site design review considerations   can be effectively
+      dealt with through conditions   stated below.   These should
+      address parking,  internal circulation,   and landscaping.
+
+      Characteristics   of the area have been addressed in earlier
+      sections of this report,    and major concerns have not been
+      raised.   Landscaping should insure aesthetic   compatibility.
+      Noise has not been characterized by the applicant as
+      minimal.            No    natural        features         requiring           retention               have       been
+      identified.   No natural                       hazards have been identified on the
+      site.   No comments  from                      adjacent or vicinity property owners
+      have been received.
+
+CONCLUSIONS      FOR       APPROVAL:
+
+Lis   The    request           is    consistent          with    the    Yamhill            County
+      Comprehensive                 Plan     industrial         development               goal        because          the
+      area already supports  industrial use, land is not available
+      within the Dundee Urban Growth Boundary,   public  services and
+      facilities will not be adversely affected,   and the use is
+      compatible with surrounding uses.
+
+      There     is    a    need       for     the    zoning      because          there          is    no     available
+      (undeveloped)                 land    appropriately             zoned       suitable              for      the    use.
+      Costs     of relocating make placement of                               the         operation              urban
+      areas     other than Dundee unreasonable.
+
+      The    proposed           change        is    appropriate         considering                   surrounding
+      land     uses       and       service        needs.
+
+      Other lands in the county already zoned                                       LI     are either not
+      available or are not as well suited due                                       to     location and
+      traffic  flow problems.
+
+      The     site    has       a history           of   industrial          use.
+
+      The     request          is    consistent          with    Statewide           Planning               Goal       14
+      because:
+
+      (a)      The existing UGB cannot                        be expanded to                accommodate                 the
+               site and suitable sites                        inside the UGB                are not
+               available.
+
+                                                                                          FINDINGS          FOR APPROVAL
+                                                                 Ordinance         553,    Exhibit          "A", Page 10
+       (b)     The    long-term           consequences           of     the    change         are       not     more
+               adverse than           would        result       from     the     same        proposal           on
+               other land.
+
+       (c)     The    use     is    compatible          with     adjacent         uses.
+
+       (ad)    The    appropriate              level    of     public        facilities            and        services
+               are    available           to    the    site.
+
+a      The proposed use is similar to a use permitted  in the LI
+       zone and the request complies with the criteria   in
+       subsection  1206 of the Yamhill County Zoning Ordinance.
+
+DECISION:
+
+The   application        for       a plan       amendment        and     zone     change           as     specified
+on page one of these findings  for approval is APPROVED.    Site
+design as submitted by the applicant  is APPROVED,  subject to the
+following conditions:
+
+1.     The final site development plan shall be submitted to                                                    the
+       Planning Director and approved prior to issuance of a
+       building permit for remodeling the existing building
+
+       The    facility        shall       be    provided        with     a    minimum         of     14       parking
+       spaces.
+
+       The    final     site       plan    shall       indicate         internal            traffic
+      circulation,           including space                 for on-site maneuvering so that
+      vehicles are           not required to                 back onto or from the county
+      road.
+
+      The road approach               shall       be    approved         by    the     County           Public
+      Works Department.
+
+       The    building       shall        be    approved        for    change         of     use     by       the
+       County    Building           Official.
+
+      An on-site subsurface  sewage disposal                                  system         shall        be
+      approved by the County Sanitarian.
+
+      A   landscaping          plan       consistent           with    Subsection             1010.01.C              of
+       the    Yamhill       County        Zoning       Ordinance         shall        be     submitted              to
+      and approved by the Planning Director prior to building
+      occupancy.   The landscaping shall be installed during the
+      first appropriate planting season following approval.
+
+      All signs shall be depicted on the                               final site             plan,  and they
+      shall comply with all requirements                               of Section             1006 of the
+       Yamhill       County        Zoning      Ordinance.
+
+                                                                                      FINDINGS          FOR    APPROVAL
+                                                                Ordinance      553,        Exhibit      "A",    Page      11
+                EXHIBIT "B" FOR ORDINANCE                  553
+
+             COMPREHENSIVE      PLAN AND ZONING   MAP AMENDMENT
+
+                   . TO CHANGE THE COMPREHENSIVE PLAN
+                           MAP DESIGNATION FROM
+                    “AGRICULTURE/FORETRY SMALL HOLDING"
+                 TO “LIGHT INDUSTRIAL" AND THE ZONE FROM
+                AF-10 AGRICULTURE/FORESTRY SMALL HOLDING
+                            TO LI LIGHT INDUSTRIAL
+
+                                                                       AN
+                                                              Scale - 1" = 300’
+
+                                                             Dundee   ee
+
+         Tax Lot
+         3335-201
+
+                                 Neiderberger Penal
+
+Shaded   area only is subject to amendment
+
+Map   prepared by Yamhill County Department of Planning and Development
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 99.0% of
+the word sequence, and on 80.0% of the figures. Dictionary-recognizable words: 95.7%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

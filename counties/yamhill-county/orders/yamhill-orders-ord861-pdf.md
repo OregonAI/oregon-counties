@@ -1,0 +1,306 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord861-pdf
+title: 'ORD861-PDF'
+doc_type: ordinance
+citation: 'ORD861-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17322/ORD861-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 0574dc984c32c90535d60a9f14c92275237c0f3d79beebfec8695cd967f6c356
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.983; figure agreement 0.726; dictionary ratio 0.943. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD861-PDF (ORD861-PDF)
+
+## At a glance
+
+OCR-derived text of ORD861-PDF. Not human-verified.
+
+## Full text
+
+BEFORE THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+
+                                       FOR THE COUNTY OF YAMHILL
+
+                         SITTING FOR THE TRANSACTION OF COUNTY BUSINESS
+
+In the Matter of Approval of a Zone Change from EF-80, Exclusive Farm Use)
+to AF-80, Agriculture/Forestry, Applicant Frank Walker Representing the    ) Ordinance 861
+James J. Evans Revocable Trust, Tax Lot 3515-1000, Planning Docket Z-05-10,                          )
+and Declaring an Emergency                                                                           )
+
+          THE BOARD OF COMMISSIONERS OF YAMHILL COUNTY, OREGON (the Board) sat
+for the transaction of county business on February 10, 2011, Commissioners Leslie Lewis and Kathy
+George being present, and Commissioner Mary P. Stern being excused.
+
+          IT APPEARING TO THE BOARD that Frank Walker representing the James J. Evans
+Revocable    Trust       applied   for a zone   change    from     EF-80,   Exclusive   Farm    Use          to to AF-80,
+Agriculture/Forestry for Tax Lot 3515-1000, and
+
+          IT APPEARING TO THE BOARD that the Planning Commission heard this matter at a duly
+noticed public hearing on January 6, 2011, then voted unanimously to approve the application. That
+decision has not been appealed. NOW, THEREFORE,
+
+          ITIS HEREBY ORDAINED BY THE BOARD, that the application is approved as detailed
+in Exhibit "A," the Findings for Approval, hereby incorporated into this Ordinance by this reference.
+This ordinance, being necessary for the health, safety, and welfare of the citizens of Yamhill County,
+and an emergency having been declared to exist, is effective immediately. A map is appended as Exhibit
+"BY,
+
+          DONE this 10th day of February, 2011, at McMinnville, Oregon.
+
+ATTEST:                                     YAMHILL COUNTY BOARD OF COMMISSIONERS
+
+                                                       (Excused)
+
+                                                 ir                             MARY P. STERN
+
+                                                 Mole YX (Yue
+                                                      issioner ”                LESLIE LEWIS
+
+APPROVED AS TO FORM:                            Ree hac kh sts
+       ”ul a         ;                      Commisgioner               C) ~~ —-s KATHY GEORGE
+Rick Sanai
+County Counsel
+
+                                                                                        78.0. {1-FR
+                                                                                 Ordinance     861       ~   Evans
+     Docket  Z-05-10  (Frank          Walker     representing        James    J.     Evans
+     Revocable Trust)
+     Page 2
+
+DOCKET NO.:             Z-05-10
+
+REQUEST:                Zone change from EF-80, Exclusive Farm use to AF-80, Agriculture/Forestry.
+APPLICANTS:             Frank Walker and Associates
+
+OWNERS:                 James J, Evans Revocable Trust
+
+TAX LOT:                3515-1000
+
+LOCATION:               Located east of the intersection of Old Moores Valley and Puddy Gulch Road,
+                        Yamhill
+
+AREA SIZE:              160.3 acres
+
+CRITERIA:               Sections 402, 403   and 1208.04 of the Yamhill County Zoning Ordinance; the
+                        Yarohill County Comprehensive Plan Goals and Policies.
+
+FINDINGS FOR APPROVAL (Exhibit "A"):
+
+A. Background Facts
+
+1.       Lot Size: Approximately 160.3 acres.
+
+2.       Access: Puddy Gulch Road borders the property along the northerm property line and Meadow
+         Lake Road borders the western property line. The existing access road is along Meadow Lake
+         Road.
+
+3.       On-Site Land Use: Due to the size of the property, the area proposed for rezoning is diverse. The
+         land contains hillsides with uneven topography. The southern end of the property is at 300 feet
+         in elevation and gently slopes up to the north. About half way up the parcel it starts to slope
+         steeply up to 600 feet in elevation, near the center of the land, then it drops down and then back
+         up to 700 feet at the northern end of the parcel. The use appears to be forested areas with a few
+         open areas.
+
+4,       Surrounding Zoning and Land Use: Land along the northen and eastern property lines are zoned
+         AF-80 Agriculture/Forestry. Land to the west is zoned EF-80 Exclusive Farm use. Property
+         along the southern boundary line is zoned AF-40 Agriculture/Forestry.
+
+5.       Water: An on-site well would be required for any residential use.
+
+6.       Sewage Disposal: An on-site subsurface system would be required for any residential use.
+
+7.       Soils: Soils on the subject site includes Peavine, Panther, Chehalem,       Shale and Willakenzie.
+         Approximately ten percent of the property is high-value farmland.
+                                                                         Ordinance    861   -   Evans
+                                                                                            Bo 4-49
+     Docket Z-05-10   (Frank               Walker      representing          James      J.    Evans
+     Revocable Trust)
+     Page        3
+
+            Fire Protection: Yamhill Rural Fire District.
+
+            Taxes: 125.3 acres is receiving farm deferral and 35 acres is receiving forest deferral.
+
+10.         Overlay Zones: None of the property is within the 100-year floodplain.
+
+11.         Previous land use actions: There were no previous land use actions. The only permit in the file
+            is a site evaluation approval for a single family dwelling.
+
+12,         Previous Zoning: Prior to December 29, 1993, the property was zoned AF-20. Prior to 1993 the
+            EF-40 zone was assigned to property in the valley while the AF-20 was assigned to the forested
+            hillsides. All of the square mile identified as Section 15 of Township 3 South, Range 5 West was
+            zoned AF-20.     On December 29, 1993, the entire parcel was rezoned to EF-80 Exclusive Farm
+            Use.
+
+B.    Ordinance Provisions and Analysis
+
+1.          The decision to approve the requested zone change is based on the Board finding that the request
+            complies with the review criteria found in Section 1208.04 of the Yamhill County Zoning
+            Ordinance, as follows:
+
+            Review      Criteria    for    Amendments         te   or    within    Exclusive         Farm     Use   and
+            Agricultural/Forestry Zones
+
+            Certain properties that were zoned Agriculture/Forestry prior to December 29, 1993 were rezoned to
+            Exclusive Farm Use as part of Periodic Review. (The rezoning became effective on February 14, 1997.)
+            When the Exclusive Farm Use designation does not adequately reflect the mixed agricultural and forest
+             use of the property, a quasi-judicial zone map change back to Agricultural/Forestry may be authorized,
+            pursuant to Subsection 1208.01, and provided that the applicant demonstrates compliance with the
+            following:
+
+            A.       The area to be rezoned consists primarily of foothill and ridgetop holdings above the flat terrace
+                     and valley floor commercial agriculture areas, and below the contiguous timberlands of the
+                     Coast Range.
+
+            B.       At least 50% of each parcel that is proposed to be rezoned is forested,
+
+            C.       At least 50% of each parcel that is proposed to be rezoned was designated Agriculture/Forestry
+                     prior to December 29, 1993.
+
+            D.       The area being rezoned contains such a mixture of agricultural and forest uses that neither Goal
+                     3 nor Goal 4 can be applied alone.
+
+            E.       The proposed amendment shall result in an area of at least 160 contiguous acres with the
+                     requested designation, including adjacent land.
+
+            F.       Any amendment that would reduce the minimum lot size complies with the requirements of
+                                                                                  Ordinance    861    -   Evans
+Docket       2-05-10       (Frank     Walker    representing         James     J.    Evans
+Revocable         Trust)
+Page     4
+
+                Section 1208.03(E).
+       The above criteria are addressed in Findings B.2 through B.7 below.
+
+       Regarding criterion (A), as shown on the attached contour map, the southern part of the property
+       is at 300 feet in elevation and gently slopes up to the north. About half way up the parcel it starts
+       to slope steeply up to 600 feet in elevation, near the center of the land, then it drops down and
+       then back up to 700 feet at the northern end of the parcel. The property fits within the description
+       of “.. . foothill and ridgetop holdings above flat terrace and valley floor commercial
+       agricultural areas, and below the contiguous timberlands of the Coast Range.” The use appears
+       to be forested areas with a few open areas.
+
+       Regarding criterion (B), as mentioned above, the subject parcel is a mixture of farm and forest
+       use. While it was not as apparent on the 2005 aerial photo, the 2009 air photo shows that the
+       majority of the property is planted to trees. While the site visit was limited to the roads bordering
+       the property, the site visit did confirm that much of the southern area appears to be replanted.
+       Based on the air photo and site visit it appears that well over 50% of the property is forested.
+       The zone change from an exclusive farm zone to an agriculture and forestry zone would more
+       accurately reflect the current use of the property.
+
+       Regarding criterion (C), as indicated in Finding A.12, prior to December 29, 1993, the entire
+       parcel was zoned AF-20, therefore the request is consistent with criterion 1208.04(C).
+
+       Regarding criterion (D), as indicated in Finding A.9 and A.12, the property is in a mixed use
+       related to deferral. Since the parcel has both farm and forest deferral; the zoning existing prior
+       to December 29, 1993, was the mixed use zoning of AF-20; and the property has soils capable
+       for both farm and forest use; it is appropriate to find that Goals 3 and 4 related to the protection
+       of farm and forest use, respectively, can not be applied on their own and the property should be
+       moved back to a mixed use zone. Therefore, the request is consistent with criterion 1208.02(D).
+
+       The AF-80 zone that exists to the east is approximately 900 acres in size. The additional 160
+       acres will result in an AF-80 area of approximately 1,060 acres, well above the 160-acres required
+       by 1208.04(E).
+
+       The request would not change the minimum lot size as it would still be 80-acres. The request
+       satisfies criterion 1208.04(F).
+
+       The consultant, in an abundance of caution, has addressed all of the criteria from Section 1208
+       of the Yamhill County Zoning Ordinance.        Since the property had been zoned AF-20 prior to
+       December 29, 1993, the applicable criteria is found in 1208.04.        Therefore, only the criteria of
+       1208.04 has been considered with this staff report. Recently, in the decision Bardolf v. Yamhill
+       County    (LUBA     No   2010-069),   LUBA    found   that the Board     of County        Commissioners
+       appropriately rejected a petitioners’ interpretation that 1208.03 and 1208.04 both apply to a zone
+       change request. This decision to affirm the Yamhill County interpretation was issued on
+       December 14, 2010. Since this decision was made a month after the application was submitted
+
+                                                                         Ordinance    861    -   Evans
+     Docket       2-05-10     (Frank    Walker     representing         James    J.      Evans
+     Revocable       Trust)
+     Page     5
+
+            it is understandable that the consultant provided the additional findings.
+
+CONCLUSIONS
+
+1.          The request is for a zone change from EF-80 Exclusive Farm Use to AF-80 Agriculture/Forestry
+            Use. The total area proposed to be rezoned is approximately 160.3 acres.
+
+2,          The zone change is appropriate in that the parcel is a mixture of farm and forestry uses. Neither
+            the farm zone, nor the forestry zone alone would be appropriate for this area.
+
+3.          The request complies with the criteria listed in Section 1208.04 of the Yamhill County Zoning
+            Ordinance.
+
+4,          The proposed designation is appropriate for the existing and intended use of the property.
+
+DECISION:
+
+The request by Frank Walker, representing the James J. Evans Revocable Trust, for a zone change from
+EF-80, Exclusive Farm Use to AF-80, Agriculture/Forestry Use on the 160.3 acres identified as Tax Lot
+3515-1000, is hereby approved.
+
+                                                                            Ordinance     861    -   Evans
+                                      ‘ Eyhibi + B i.
+                        EXHIBIT MAP FOR ORDINANCE NO. 861
+            ADOPTED BY THE YAMHILL COUNTY BOARD OF COMMISSIONERS
+                                  FEBRUARY 10, 2011
+                 DOCKET Z-05-10, REQUEST FOR A ZONE CHANGE FROM
+              EF-80 EXCLUSIVE FARM TO AF-80 AGRICULTURE/FORESTRY
+
+             OL
+                  PUDDY GULCH RD.
+
+  ah        OLD MOORES VALLEY RD
+
+                            MEADOW LAKE RD.
+
+       ae                                     { te      fi
+
+CHANGE APPLIES TO THE ABOVE PORTION OF TAX LOT 3515-1000 AS IDENTIFIED ABOVE.
+APPROXIMATE SCALE - | INCH = 800 FEET .   ‘
+
+                                                                    BO.N-F¥
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.3% of
+the word sequence, and on 72.6% of the figures. Dictionary-recognizable words: 94.3%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

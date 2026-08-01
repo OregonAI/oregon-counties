@@ -1,0 +1,523 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord349-pdf
+title: 'ORD349--PDF'
+doc_type: ordinance
+citation: 'ORD349--PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17774/ORD349--PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 6aff651897cec1b9b738af66ae153f6d0a4926c760e1bb29251f14d1d1fd3718
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.898; figure agreement 0.618; dictionary ratio 0.873. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.010
+    - ORS 215.020
+    - ORS 215.223
+    - ORS 215.402
+    - ORS 215.406
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 90%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD349--PDF (ORD349--PDF)
+
+## At a glance
+
+OCR-derived text of ORD349--PDF. Not human-verified.
+
+## Full text
+
+YAMHILL              OREGON
+                                                                                                                          in
+         IN THE BOARD                  OF COUNTY              COMMISSIONERS                     OF THE STATE OF PREGONs[)\) °93
+     $3-         232                        FOR THE           COUNTY           OF YAMHILL                         CHAR
+                   SITTING             FOR       THE     TRANSACTION                 OF    COUNTY        BUSINESS
+                                                                                                                   COUN
+
+In the Matter of an Ordinance
+to Implement the Planning Com-
+
+                                                                       VS
+mission Resolution No.   83-2,
+
+                                                                       wv
+Together with Board Modifica-                                                       ORDINANCE           No.         347
+
+                                                                       Sw
+tions Thereof,  Authorizing an
+Amendment to the Yamhill County
+
+                                                                       eS
+Zoning Ordinance,  Ordinance No.
+
+                                                                       Ye
+310,  1982,    Requested                     by    Lau-
+
+                                                                       wee
+rence  P.   Payne
+
+         THE      BOARD          OF    COMMISSIONERS                    OF     YAMHILL           COUNTY,        OREGON            (the
+Board)       on    the       25th          day    of     May,        1983,          sat    for     the        transaction            of
+County       business,                in    special           session,              Commissioners               Robin        J.     Ham-
+blet, Dave Bishop and Ted Lopuszynski                                                being present, and the                          sub-
+ject matter herein being continued to                                                the regular session of                          the
+Board       on    the       first          day    of     June,           1983.
+
+         WHEREAS,            pursuant             to        ORS   215.402            to     215.422           and    1301.01(C)
+                                                                                                                              (8)
+of the Yamhill  County Zoning Ordinance,    decisions by the Yamhill
+County Planning Commission   to approve   or deny requests   for amend-
+ment to the Zoning Ordinance   are final,   unless an aggrieved party
+appeals  to the Board within fifteen days,    or unless the Board in
+its discretion  elects pursuant to §1301.05     of the Zoning Ordinance
+to    review       the       decision             on        its   own         motion      within         fifteen            days,        and
+
+     WHEREAS,   the Yamhill   County Planning Commission has adopted
+a Resolution approving     an amendment to the Zoning Ordinance,    upon
+the application    of Laurence P. Payne,   a copy of said Resolution
+being attached hereto     and by this reference   incorporated herein,
+as  if fully            set  forth   herein,    and whereas   the  Board  has                                               elected  to
+review  this            decision   on its    own motion,    within  the  time                                               required
+by    Ordinance,             and
+                                                                                            \
+         WHEREAS, after                     public hearing and deliberation,  the decision
+of    the Board was to                      amend the recommendation  of the Planning Com-
+mission          set     forth         in    Resolution                 No.        83-2    to     reduce        the       total      area
+affected          by    the       zone change to an                           amount      which         does        not     include        the
+dwelling          on    the       subject property,
+
+         NOW,          THEREFORE,                based        upon           and    for    the     reasons           set     forth        in
+the     attached            Resolution                 and    for        the       reason        that    it     is    the      policy
+of    the    Board          of    Commissioners                   to         retain       agricultural               farmlands            in
+the County whenever possible,  IT IS HEREBY ORDAINED that the offi-
+cial zoning map of the Yamhill County   Zoning Ordinance be and here-
+by is amended,  consistent with and as set forth in the attached
+Resolution             of    the       Yamhill              County           Planning           Commission,           as     modified
+by    the      attached           Exhibit              "C".
+
+ORDINANCE          No.       349-           Page        1
+     This Ordinance being necessary  for the health,   safety
+and welfare of the citizens of Yamhill County and an emer-
+gency having been declared to exist,    shall be effective
+immediately upon passage hereof.
+
+     DONE     this   first       day    of       June,    1983,     at    McMinnville,         Oregon.
+
+ATTEST:                                           YAMHILL        COUNTY    BOARD       OF   COMMISSIONERS
+
+                                                  Commissioner                  DAVE    BISHOP
+
+                                                         heal!     ee     tia   ip ice
+Geiss:      Gray,    Inq]        ;                CommissioneX”             Gred       LOPUSZYNSKI
+ Ss sistant    County      Counsel
+
+ORDINANCE      No.   349     -   Page        2
+    7                                                                                                          Oo
+    In the Matter of an Amendment to the                                            )
+    Yamhill County Zoning Ordinance,                                                )       RESOLUTION                NO.   83-2
+    Ordinance ‘No. 310, 1982 as requested                                           )
+    by Laurence P. Payne
+
+                        THE PLANNING           COMMISSION of Yamhill County, Oregon,                                          on the 7th day
+    of    April,        1983 sat for           the transaction of County business at                                          a regularly
+    scheduled           session.            Planning       Commissioners                  Sadler,           Schatz,         Grimm,        Weidemann,
+    Bennette,  Stockhoff,    Miller, Bunn, and Treadway were present.
+               WHEREAS,   the Yamhill County Board of Commissioners adopted the
+    Yamhill County Zoning Ordinance, Ordinance No. 310,      1982 on the lst day
+    of December,   1982, being the   Yamhill  County Zoning Ordinance text and
+    Official Zoning Map; and
+                        WHEREAS,        ORS    215.020          provides            that        a governing            body     may       create
+    a county planning commission and, pursuant  to ORS 215.406, may designate
+    the planning commission to serve as a hearings officer with all the
+    power and duties of a hearing officer                                      as       prescribed             by    ORS    215.010        and
+    215.402 to 215.422; and
+              WHEREAS, the Yamhill County                                      Board       of        Commissioners            created            the
+    Yamhill          County      Planning          Commission            by    adoption              of   an     unnumbered          Board
+    Order       on     the     6th    day    of November,               1957       and    designated                that    planning
+    commission           as     the    hearings          body     for     petitions              for      amendments           to    the
+    Yamhill          County      Zoning       Ordinance,           Ordinance              No.        310, 1982         by    adoption        of
+    Ordinance           No.     138
+                        on the lst day of June,   1977; and
+               WHEREAS,   it appears to the Planning Commission that a petition
+    submitted on behalf of Laurence P. Payne has been filed with the Yamhill
+    County Department of Planning and Development,      pursuant  to Section 1207
+    of Ordinance No. 310 to amend said Ordinance,      and change the Official
+    Zoning       Map     designation           from       EF-40     to        Highway           Commercial.
+                                                                                                          for                a parcel
+    described           as being 1.4           acres of a lafger 2.19 acre tract; and
+                        WHEREAS,  the          Sheridan Planning Advisory Committee reviewed the
+    amendment           request at a           public meeting and recommended denial of the request;
+    and
+             WHEREAS, the Planning Commission, on the 7th day of April, 1983
+  held a public hearing as required by ORS 215.223 and 215.416 on the proposed
+  amendment and voted to recommend approval of the request based on the
+. findings and conclusions attached hereto as Exhibit “A" and by this reference
+  made a part hereof;
+:                       NOW     THEREFORE,          IT    IS    HEREBY         RESOLVED              that      the    Official        Zoning
+ Map be and              hereby is amended to show the Zoning Designation on a 1.4 acre
+‘portion of              Yamhill County Tax Lot 5521-900 as Highway Commercial as shown
+    on    the    sketch         plan    attached          hereto         as    Exhibit           A    and      by    this     reference           made
+    a part hereof.
+     lal     ! This resolution shall                             be in force               and effect from and                       after
+    the date the change is properly                              recorded on               the Official Zoning                       Map.
+    The    Yamhill            County    Planning          Director            be    and    hereby           is      directed        and
+‘authorized              to     amend       said    ft ictal        Zoning bia a in                   cpntormence            with     this
+ Ordinance.               '                                                                             i
+                 4) DONE this 7th day ok, April,                               1983.
+       AYES:         Bunn,        Weidemann,            Miller,           Sadler,           Stockhoff,            Bennette.
+
+       NAYES:        Treadway,           Grimm,         Schatz
+
+       ABSTENTIONS:                  None
+
+Approved      by     the    Chairman         on        this    21st            day    of    April,        1983.
+
+       This    resolution            shall        be     in    force            and    effect        from    and     after     the
+date   the    change        is    properly         recorded               on     the       Official        Zoning     Map.      The
+Yamhill      County        Planning        Director            be        and     hereby       is     directed        and     authorized
+to   amend    said     Official          Zoning          Map    in        conformance              with     this     Ordinance.
+
+       DONE    this        21st    day     of     April,        1983.
+
+                                                                     YAMHILL           COUNTY       PLANNING        COMMISSION
+                                                                         J
+
+                                                                     Dick
+                                                                         fey ZL  Sadler,       Chairman
+
+                                                                    ry
+                                                                    4
+     | PA-122-83/2-231-83.                                                                    nie                                           |
+       Laurence)           eae                   Ht                                       AMIS)                hae                      aH
+
+i    ne             The    pelea                 2                        is        to        tezone]            that           ‘portion                    of     Tax         Lot
+    cme            552749004 ixetained in ’an, AFLH Comprehensive    Plan designation
+                    and EF-40)'zoning, district,   through Docket, No.   PA-41-77/
+                    2-118-77. 0 Te appears that the entire parcel area was re-
+                    quested  for rezoning in 1977, but the ;area was ultimately
+                    reduced, to accommodate only that portionio£ Tax iiLotj5521-.)
+                   900   in use as a qrveenhouse and, florist business;  the appro-
+                    v3 1 excluded the area containing   the existing dwelling.
+                                                                               ,                                                 |
+
+       2.           The    applicant             contends                in    ‘his           application                            that         the         earlier
+          /        rezoning         approval,                as     well            as        the         original                    zoning                was         in
+                    error, | The. property                        had         been            in     a        conmercial                        retail              use
+                    that  pre- existed the                        1974             a           |    and         1976            zoning                implementa-
+               ©    tion.   ely        i                          os
+
+     Na             Since, its rezoning                      in 1977, from PAI                                      to HC, the Lawrence
+       |            Gallery has proven                       very successful.                                       Its Operation has been
+                    expanded    through the  inclusion   of the Amity    Vineyards  Tasting
+                    Room.    Wescott's, Market,   adjoining   the applicant's    property
+                    on the east has also proven      successful   at  its location.     The
+                    applicant has                negotiated                   with            both            the        gallery                 and          market
+                    interests        to be able'to   sell,                                    by readjustment   of                                     common    I
+                    boundary,        that portion  of his                                     property. zoned HC;                                      the nego-
+               !    tiations       jhave         not        resulted                in        the         conveyance                    of            OS         orb
+
+       4.           The    site     uses         are        rural:        residential                          in        that          area            zoned             EF-
+               |    40, and the HC zoned area has been used in the past for
+                    parking.   The greenhouse and nursery business  is no longer
+                    operational.   Development of an additional attraction,   or
+                    complimentary                business                to        the        gallery                   would          be         a     fitting                   use
+                    for    the     property.                However,                    the        portion                zoned             HC,         approximately
+                    .79    acres,         has         insufficient                       area            to     accommodate                           ee         ta          op
+                    requirements.
+
+          5.        The    soils     on         the     2.19        acre                tract            are        Willamette                        silt          loam,               the
+                    agricultural   capability is site Class I.     The soil is appro-
+                    priate for vegetables,    berries,  bulbs, orchards,   grain,   seed
+                    crops,  hay and pasture crops.     There is negligible    slope on
+                    the    property,             0-33;         according                       to        the        USDA/SCS,                     Soil’            Survey            of
+                    Yamhill       Area,          Oregon,                1974.
+
+          6.       .The    applicant             indicates                that            of        the         2.19            acres             in         the        tract
+                    ‘approximately               one        acre         is        engaged                in        the         house             and            drainfield,
+                    leaving        approximately                    1/2            acre            for        exclusive                     farm            uses.                 The
+                    applicant  indicates that                                  an error was made when                                                 only          a     por-
+                    tion of the property was                                   rezoned  to HC in 1977.
+
+       7.           The applicant lists several  factors  in his justification,  page
+                    2, Outlining how the property is denied    its reasonable economic
+                    use.  These items are:   the location of the well serving other
+                    commercial            ases;  the small                          area  zoned HC;   the pre-existence   of
+                    commercial            uses  before  the                         establishment   of zoning;   the lack   of
+                    farmability            due         to    its         small            ‘size           and           commitment                      to       other             uses.
+
+       8.           The    subject         property                is     more           “closely                affiliated                           with          the        highway
+                    commercial            uses         at    Bellevue                    than        it         is       with          sna nme                   ad          agvi-
+                    cultural        uses.
+
+       9.           The    applicant             in     “Exhibit                   A"     sets            forth            findings                    and          justifica-
+                    tion    for     the     taking             of        an        exception,                    considering                            the         four           fac~
+                    tors    set     out     in         Statewide                   Planning                   Goal         2,         part            II.          (See        attached).
+
+      10.           The    Sheridan         PAC         will        review                the        request                    at     their                April            4,      19383
+                    meeting.                                                                                        =
+
+      ll.           The    following             public           agency                 comments                have            been            received:
+
+                    a.     0.D.0.T.   - No conflicts   with    their    interests
+                    b.     Sanitarian   - No conflicts    with    their   interests.
+                    No    other  referrals  have  been  received      as of this writing.
+                                                            ings:
+ ius
+           a                                                |    ake          |                  :          '                                                                                             taps
+           |          eile                    2         Li             yet             Hy        Sie
+|    The        fol         owing            findings                         may           be         made
+                                                                                                                 )
+                                                                                                                          in
+                                                                                                                                 j
+                                                                                                                                 support
+                                                                                                                                      of the
+                                                                                                                                               ay                i              |    Ne
+                                                                                                                                                                                    application:,
+           “The rezoning
+                 e290.   )in 1977                                                      partially                          recognized                      the         pre-existing                                          if}
+         ‘commercial!iuse ofthe                                                         property;) however,                                           the!’action precluded |
+       | the separation   of the                                                        HC ‘zoned area) from                                          the EF-40 zoned area, |
+       "which                     left        the               parcel                 atadisadvantage                                         in     the            market! place: ji/i()) |).
+                                                   |                                                                                                                                       $f                           |
+           | The            applicant                       has              sought                  the         sale           of        the         HC     zoned                  area        to           ad-').
+                 joining                commercial                            uses;                  while                somewhat                  interested,                           no    bargain
+                could)be struck enabling the applicant                                                                                          to        sever             the         existing
+                residence from the HC zoned area.                                                                                                                                    Lar     a)
+                        f                     |                                                                                       ;                                                    eee                    Pei
+                                                                                                                                                                                                                    Ae Ag
+                The proposal is consistent with the economic development goal                                                                                                                                               |
+                of the Revised Comprehensive Plan Goals and Policies   it! ;
+                                                                           is!
+                part          of        a highway                            commercial                          enclave                  serving                    the            traveling!
+                                                                                                                                                                                            pub-
+                lic.              It     would                  provide                     for            additional                          jobs        in         the           area;       //and                       (|
+                perhaps would                               place locally                                       grown           or        processed                    products                  before.
+                the traveling                               public.                                                                                                                              ene
+oO
+
+               The proposal is timely,   in that the applicant has endeavored ©
+               to sell the HC zoned area to adjoining commercial) uses, to no
+               avail.   In a growing economy the location provides an oppor-    |
+               tunity to expand a successful tourist                                                                                       oriented business in
+               the County,   providing for additional                                                                                      jobs, products outlet,
+               together                 with            a        greater                     range                   of        service               to     the            traveling
+               public.                                                                                                                                                      oe                        ‘
+
+               Other          lands in the area are not suited                                                                                 to the use; the                                  re-
+               guest          is predicated on the location of                                                                                 the proposal to                                  estab-
+               lished,                 successful                            business                      enterprises                          which                serve            the        tra-
+               veling              public               as         well                as            the        local            populace.
+
+               The Exception  Statement,  "Exhibit:A", submitted  by the appli-
+               cant addresses  the relevant criteria and supports   the applica-
+               tion.               In    addition:
+
+               a.           The        commercial                            potential                          of        the         property                  cani.5t               be        realized
+                            in its present situation due to development   limitations   re-
+                            lated to the parcel's  size; also, the parcel  lacks suffi-
+                            cient        site                   area              to        be        utilized                       in    conjunction                              with        any              com-
+                            mercial           agricultural                                           uses            suited               to        the     soil            type:
+
+               b.           Given        the            historical                                   usés            of        Bellevue,                   the         establishment                               of
+                            the        art        gallery,                         and               the        continuing                          success                of        the        market,
+                            there are no alternative     sites   that would be appropriate.
+                            The collection   of established    businesses,   and the County's
+                            past recognition   make this    location unique.
+
+               c.           To deny the request would    leave the applicant at a real
+                            disadvantage  in the marketplace;   there does not appear   to
+                            be any significant   long term consequence   if the site is
+                            approved.
+
+               dad.         With        few            exceptions                            the            existing                      businesses                       have           been            com-
+                            patible with adjacent and surrounding agricultural uses;
+                            they provide the backdrop for the small business enclave.
+                            Granting the request would not bring rural residential
+                            pressure to bear in the farm zone,  largely due to its
+                            tourist orientation.                        are
+                              SKETCH       PLAN    FOR     COMPREHENSIVE       PLAN    AMENDMENT
+
+                                               EXHIBIT IBY
+                              COMPREHENSIVE PLAN AMENDMENT ADOPTED BY THE
+                                 YAMHILL COUNTY BOARD OF COMMISSIONERS
+                                                           May 25, 1983
+                         TO    CHANGE       THE    COMPREHENSIVE        PLAN    DESIGNATION
+                                FROM       "Agriculture/Forestry             Large     Holding"
+                                       TO    "Highway         Service   Commercial"
+                                                                and                                         a
+                                      TO    CHANGE THE OFFICIAL            ZONING      MAP                  3
+                                                 FROM "EF-40" TO           "HC"
+
+Applicant:                     Laurence       P.     Payne
+
+Address:                      Rt.     3,    Box    138                                       :
+                              McMinnville,            OR     97128                                                    |
+Phone:                         843-3945
+Tax   Lot:                     5521-900
+Docket            No.:         PA=122-83/Z-231-83
+      Valey Rd)
+
+                                                                                                       NORTH,
+                                                                                                 ONE   INCH=1I00
+      BD NO. 19 (Muddy
+      MB.
+
+Change            applies      to    the    shaded       portion.
+Sketch            prepared      by    Yamhill       County      Department     of     Planning     &   Development,
+                                                                                                                                                              .                                                                       en Coe ae ©
+                                30.01           |                                                S.86°49' 365.                                                       (EAST)                                                   “gti                             e
+         |                 a                                        a                               283.81                                                                              _ ss                                              exo                                     nt HVE ONaSs
+         |
+         ae                                    aii a                                            313.88     (310.86)                                                                   See
+                                                                                       =                                                                                                                                 \\_                                                               Cee
+                                                                                                                                                                                                                                                                                            oz Ao        SET
+                                                                                                                                                                                                                                                                                                             eS
+                                                    0                                                                                                                                     Y                                 \\                                                             (+ REcORD   DATA.
+                                ®                   {8                                                                                                                                                                        \\                                                                         ;
+              —Ej—1)
+                                0                   |q                                                                                                  =                     if
+16                Ee
+                  Yiw                               |                            .                                                                                                                                                                                                      ie YING
+10a
+                                                                                                                                                                                                      :                                                                    SEE     ACCOMPAN            NARR
+                  6) Sat                            ':                N. 82°   49’
+                                                                                 36"  Ww,                                                                                         ;
+  a}              Z| ~~                                             7--   woezwo     — =>”                                                                                                        *       :                           ®
+al                                                  er                   ier           %                     4
+    Ui            ,                                 1                                                            \                                                                                                                        8
+                                                                                                                                                                                                                                               :
+we i                                                    i
+                                                                                                 T                   ‘
+                                                                                                                                                                                      ;
+Bo                ml                                                                                                                                                                                                                      a
+                                                            |                                    El ¢                                                                                                                     RN
+t                 0)                                                                             Wy =                                                                                     .                       ‘           8
+ai ae             gl a)8                                                Ny                       aR                                                                                       XS                      qe                      e8
+                                                                                                 Zo                           4 N- 8B°49'3e"w.                                                                    din
+BS                              if                                                                                            (                             1.47                                                  ol                      &
+a
+vg
+                  5 8                               |g                                               bog                                                                  ;                                                                                                                                          |
+                  |Z) 8                             fe                                                                            \
+    ef            wv                                Q                   AREA:        31,8I3SF                                         |",                                AREA=                    G5,0S45.F                                                    Q)
+ xo               ¢                                 )                    RJw=        [0,250          »                                n                                   RI-W            =           1,526   "                                                    ;
+a                 Wj                                                     NEY=        21,563              °                                  :                             NET=                    57,526
+gid                                                                                                                      Tr
+                                                                                                                                                                                                              °                                                ‘A
+                                                                                                                                                                                                                                                                       :
+a iOe2976=                          i
+                                    |                                                                                    a            09
+                                                                                                                         O}=                        ©
+                   4            ;
+                                                                                                                                                                                                                                  |
+                                                            !                                                            Zz                     K
+                                                                                                                                                                                                                              |            !
+                       Vy                                                                                                                                                                                                     |
+                                                                                                                                                                                                                                                                                                             G&
+              ao:                                       I.                                                                            I                                                                                                                                                                       Re
+              z o
+               - |
+                  bes                               |
+                                                                                                                                  |             i                                                                             i                                                                                aT.
+                                         Bol                             _                  _                                                                                                                             |
+              ge                                                    =           I20.67           Se
+                                                                                                                                  fan                        __                                       —                               |                                                                  SHES
+                                                                                                                                                                                                                                                                                                             AERIN
+                                                                                                                                                                          IGSB.20                             aera
+                       : |                                      A                                                             if                                                                                                                                                                                         €
+                       .                            ; 9                                                                                                                                                                =! |                            7
+                                                                                                                              irj°                                                ;                                    aly|                                0
+    >
+                           ul
+                           SO
+                                                                ®            N..      86°                                49'                                      36"w.                                            ay                                      a
+0)            A                         ~ 17.44                         oT                       ;
+                                                                                                                              \
+                                                                                                                              — ~
+                                                                                                                                                    =Q—
+                                                                                                                                                            SEND. 34° LR,
+                                                                                                                                                                                              _                        =n                                                   eas       _—
+‘                                                   267.10                      |h (286.98)                                                                             4° DP, SEE                                                                 ;
+                                                                                                                     —                                       CS.P6O714                                                                             9
+|
+{
+                                               i                             Q             MARKET                                                       RD.         IS            (GEE            cRs.#e)
+                                                                                                                                                                              2                           ~
+ LRIeaw.       cor...
+ 2OLIMA D.t.c,
+                                                                                     FND. 54%        12.                 2"            DP, SET                      IN
+                                                                                     C.S.F 6974
+ [
+                                                                                                                                                    Hoe
+
+                                                          LEGAL        DESCRIPTION
+
+   Part       of     the     Hathaway            Yocum            Donation            Land        Claim        #51        in    Section            21,
+Township             5     South,             Range         5      West         of        the     Willamette                   Meridian             in
+Yamhill            County,            Oregon,         more        particularly                  described            as        follows:
+
+  Beginning at                    the Southwest                   corner of said Donation                                 Land Claim               and
+running  thence                   North  221.00                   feet to a point  in the                                  center of               the
+County        Road;          thence           S.88         49'36"E.             132.21          feet      to    a        5/8"           iron     rod;
+thence             South              80.14      feet             to      a      5/8"           iron       rod;                thence            5.88
+49'36"E.18.47    feet  to a 5/8"    iron rod;                                              thence        South           140.88  feet to
+a point   in  the   center  of   said   County                                             Road;         thence           N.88  49'36"W.
+150.68  feet to the Point of Beginning.
+
+   Subject           to     the        rights         of    the        public         in    and     to    public               roads.
+
+                                                       LEGAL           DESCRIPTION
+
+  Part of            the Hathaway Yocum                          Donation            Land        Claim #51 in ection                              21,
+Township            5   South,  Range  5                          West  of            the         Willamette  Meridain                              in
+Yamhill        County,                Oregon,     more           particularly                   described            as        follows:
+
+  Beginning at the Southwest corner of said Donation Land Claim and
+running  thence North  221.00 feet to the True point of Beginning;
+thence continuing North 87.68 feet to a point in the center of the
+County        Road;          thence            S.88             49'36"E.             313.88         feet     to   a   10"x13"x8"
+stone;        thence         South            308.68            feet   to        a     point        in   the    center   of  said
+County        Road;         thence            -N.88        49'36"W.             163.20            feet     to        a        point        in     the
+center        of     said     County            Road;           thence         North        140.88        feet           to     a       5/8"     iron
+rod;  thence               N.88          49'36"W. 18.47                       feet     to a 5/8"   iron rod;                                   thence
+North  80.14               feet         to a 5/8"  iron                       rod;     thence N.88   49'36"W.                                  132.21
+feet     to    the        True         point     of        Beginning.
+                                  t                                                                                                 |
+  Subject            to     the        rights        of     the        public        in     and     to    public               roads.
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 89.8% of
+the word sequence, and on 61.8% of the figures. Dictionary-recognizable words: 87.3%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

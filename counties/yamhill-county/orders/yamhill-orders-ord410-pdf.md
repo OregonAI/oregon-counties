@@ -1,0 +1,1269 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord410-pdf
+title: 'ORD410-PDF'
+doc_type: ordinance
+citation: 'ORD410-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17712/ORD410-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: d55649089a161be35a4e80cd6094027381d536b355eefe0f5e94569bb02c10f3
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.952; figure agreement 0.777; dictionary ratio 0.936. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.406
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 95%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD410-PDF (ORD410-PDF)
+
+## At a glance
+
+OCR-derived text of ORD410-PDF. Not human-verified.
+
+## Full text
+
+=p epeFe
+
+            $5 —- 366                             FOR THE          COUNTY           OF YAMHILL                         S
+                               SITTING        FOR THE TRANSACTION                       OF COUNTY BUSINESS
+           In The Matter of an Ordinance
+
+                                                                     SS
+           Amending the Urban Growth
+
+                                                                       ve ere
+                                                                     wwe
+           Boundary to the City of Mc-
+           Minnville  to Add a 63.23 Acre                                          ORDINANCE        NO.        410
+           Parcel Known as Tax Lot 4427-
+           200, Applicants John and Lois
+           Otting
+
+                    THE BOARD           OF COMMISSIONERS   OF YAMHILL  COUNTY,  OREGON  (the
+           Board)      sat for          the transaction  of County   business  in regular
+           session,        Commissioners Ted Lopuszynski,                                 Donald          D.    Porter      and
+           David E.        Bishop being present,  June 5,                                1985.
+
+                    WHEREAS,           applicants        John and Lois Otting                        have requested
+           that     Tax Lot           4427-200,   a      63.23 acre parcel be                        included within
+           the    Urban        Growth        Boundary        of    the           City   of   McMinnville;             and
+
+                 WHEREAS, the McMinnville Urban Area Management Commission
+           held a hearing on the first day of May,   1985, and recommended
+           approval of the request;   and
+
+                    WHEREAS,           the    Board     of    Commissioners                  held    public          hearing
+           on the 29th               day of May,   1985, which                      hearing     was        continued         to
+           the 5th day               of June,  1985;   and
+
+                 WHEREAS, based upon the findings of fact and conclusionary
+           findings attached hereto as Exhibit   "A" and by this reference
+           incorporated herein,  it appears   appropriate to approve this
+           request;   and
+
+                 WHEREAS,   in order to approve this request an exception
+           must taken to Statewide Planning Goals 3 and 14, and based
+           upon the findings    for an exception to those planning goals in-
+           cluded   in Exhibit  "A" this Board finds it would be appropriate
+           to take said exception;     and
+
+                 WHEREAS, this ordinance  is                                    in the best     interests             of    the
+           citizens of Yamhill County,   NOW                                    THEREFORE
+
+                    IT    IS    HEREBY        ORDAINED        AS    FOLLOWS:
+
+                 Section 1.  That based upon the findings of fact and con-
+           clusions attached hereto as Exhibit "A" and by this reference
+           incorporated herein,  Tax Lot 4427-200 consisting of 63.23 acres
+           be and hereby is added to the Urban Growth Boundary of the City
+           of    McMinnville.
+
+                  Section 2.     That based upon the findings of fact and con-
+           clusions    set forth in Exhibit "A" and by this reference     incor-
+           porated herein,     an exception is hereby taken to Statewide Plan-
+           ning Goals 3 and 14 for the inclusion of the above-mentioned
+           parcel   and that this exception     shall be incorporated into and
+           become part of the Yamhill County Comprehensive Plan.
+
+           ORDINANCE           NO.     410   -   Page    1
+                                                                                      nur 42 nce2128
+
+      Section 3.  This                               ordinance being necessary for the health,
+safety and welfare of                                the citizens of Yamhill County and an
+emergency having been                                declared to exist,  shall be effective
+upon passage hereof.
+
+         DONE             at     McMinnville,            Oregon   this   5th   day   of   June,        1985.
+
+ATTEST:                                                       YAMHILL COUNTY BOARD            OF COMMISSIONERS
+
+CHARLES         STERN                                              Led         snupecbe
+County         Clerk                                          Chairman         Y     TED“ LOPUSZYNSKI
+
+          Pools                                                                      Date:     “we             SS.       1°8S~
+         IS                AIX         %                                                           a                 ,
+         es)
+
+By:
+Deputy, Beat
+                ag
+                SKE              ou
+                                      PEARCE
+                                                Z,            ass
+                                                              Commissioner           DONALD
+                                                                                             Ose  D.    PORTER
+         L%          NS                a.
+          7~                                                                         Date:
+                Sy,
+
+DARYE,     S.         GARRETTSON                              Commissioner           DAVID    E.       BISHOP
+Coyfity        Covnsel                                                                       Jern        <8,             1985
+
+ORDINANCE                 No.     410       -   Page    2
+                                                                   EXHIBIT “A”                                                         FILK     A?        race 2129
+                                                                 DOCKET UGB 1-85                                                                 .
+                              FINDINGS            OF       FACT AND        DECISION MAKING                      CRITERIA
+                                                            City of        McMinnville
+
+FINDINGS      OF    FACT
+
+1s   The applicants                 are requesting an amendment to the McMinnville Urban Growth
+     Boundary (UGB)                 so that a parcel of land approximately 63.23 acres in size
+     may    be     included           in       the     boundary.                The     subject       parcel           is    described          as    a
+     portion        of    Tax       Lot        200,        Section        27,     T.     4 S.,       R.     4 W.,       W.M.
+
+     The    subject           site        is    currently            zoned        County         EF-40          (Exclusive           Farm      Use    - 40
+     acre     minimum)             and     is     designated              as     agricultural               in    the       Yamhill      County
+     Comprehensive                 Plan.
+
+     The    subject           site        is     currently           under        cultivation.                   Surrounding            the     site      on
+     all    sides        is    land        under           cultivation.                 Soils     are       primarily           Woodburn         silt
+     loam     and    Amity          silt         loam       (both       SCS      capability           Class         IIw).        The     site        is
+     contiguous           to       the     McMinnville               city        limits        and    Urban         Growth       Boundary            on   the
+     north.
+
+     Following is an inventory of vacant industrial                                                        lands within the McMinn-
+     ville Urban Growth Boundary which was compiled                                                        by the city planning staff
+     in April,           1985.
+
+     McMINNVILLE              VACANT           INDUSTRIAL            LANDS        INVENTORY           - 1985
+
+     McMinnville              has        three        industrial            zones:
+
+            M-2     Zone       -    General            (heavy)          industry                            ;
+            M-l     Zone       - Light (general manufacturing) industry
+            M-L     Zone       — Limited Light (high tech-campus development)                                                        industry
+
+     Northeast           Industrial               Area
+
+     The    Northeast              Industrial               Area is        the        M-2 general industrial park area for
+     the    City.   It             is made up               of some        257        acres 104.66 of which are presently
+     within        the     City          and     zoned       M-2        (general         industrial).                  There     are      an    addi-
+     tional        152    acres           within           the    Urban         Growth        Boundary           but    not     annexed         which
+     are    designated              for        general           industry.
+
+     Three       Mile     Lane           Industrial              Area
+
+     The Three Mile Lane Area includes. some 232 acres which are broken into two
+     separate designations.  First, there is approximately 124 acres which are
+     reserved        for       airport            related           industrial            uses.            Those       uses     can     fall     under
+     any of the three zoning categories                                          so long as               they    are airport related.
+     None of the 124 acres is presently                                          within the               city    limits.   The remaining
+     108 acres           are       reserved            for M-L           limited         light       industrial              uses.       The     limited
+     light        industrial              zone        is    the    City's             “high     tech”       campus          oriented          type    zone.
+     This     is    the       only        acreage           located        within         the     Urban          Growth        Boundary         which      is
+     reserved for this type of use.    The 108 acres is currently in five                                                                        parcels
+     and under four ownerships.   Three parcels, which include some 89.6                                                                         acres.
+     are presently within the city limits and zoned M-L.
+Exhibit "A"                                                                                                                rin          42 nce2130
+Docket      UGB    1-85                                                  -2-
+
+     Other        Industrial            Lands      Within        the     Urban        Growth         Boundary
+
+     Hewlett Packard has                    some     91 M-l zoned acres                       landbanked around their
+     McMinnville plant.                     That     acreage is not and                       has not been available to
+     other        industries.
+
+     Three        other local industries                     have        some        46     acres     of    general       industrial
+     zoned        land landbanked.
+
+     There        are     an    additional          15,    plus         or    minus,         vacant        acres     in   the     City    which
+     are     in    small        parcels      and     zoned        M-1        and     M-2.
+
+     Summary            - Available         Vacant        Industrial               Land
+
+     General            (heavy)        Industry:           257         acres         (Northeast            Industrial       Park)
+                                                             10    other
+                                                           267      M-2 acres                available
+
+     Airport        related:               124     acres adjacent to airport may be zoned M-L,                                           M-1,     or
+                                           M-2     so long as industry is airport related.
+
+     M-L     Limited           Light      Industrial:             108        acres        reserved         for    high    tech;     five
+                                                                  parcels;            86     acres     in    City.
+
+     The subject site would be served by an existing 10-inch municipal water
+     line and an existing 15-inch sanitary sewer line which run parallel to the
+     north side of Three Mile Lane.   According to the City Engineer and the
+     McMinnville Water and Light Manager, both utility lines have the capacity
+     to    service         limited         light     industrial               uses        which     might        locate    on     the    subject
+     site.
+
+DECISION      MAKING           CRITERIA
+
+1.   The     following            goals     and     policies           from        the     McMinnville            Comprehensive           Plan,
+     1981,        are     applicable         to     the    request:
+
+     Chapter        II     Natural         Resources
+
+     Policy:
+
+     1.00         Urbanizable lands outside                        the city limits, but inside the Urban
+                  Growth Boundary, shall be                        retained, whenever possible, in agricul-
+                  tural use until such time                        as they are needed for urban development.
+
+     Chapter        IV     Economy
+
+     GOAL     IV    1:         TO ENCOURAGE THE CONTINUED GROWTH AND DIVERSIFICATION OF
+                               McMINNVILLE'S ECONOMY IN ORDER TO ENHANCE THE GENERAL WELL-
+                               BEING OF THE COMMUNITY AND PROVIDE EMPLOYMENT OPPORTUNITIES
+                               FOR ITS CITIZENS.
+Fecker bie SS                                                     -3-                                               Fite         42     ce 2194
+   GOAL    IV        5:    TO CONTINUE THE GROWTH AND DIVERSIFICATION OF McMINNVILLE'S
+                           INDUSTRIAL BASE THROUGH THE PROVISION OF AN ADEQUATE AMOUNT                                                         OF
+                           PROPERTY DESIGNATED LANDS.
+
+   GOAL    IV        6:    TO INSURE INDUSTRIAL DEVELOPMENT THAT MAXIMIZES EFFICIENCY
+                           OF LAND USES, THAT IS APPROPRIATELY LOCATED IN RELATION TO
+                           SURROUNDING LAND USES, AND THAT MEETS NECESSARY ENVIRONMENTAL
+                           STANDARDS.
+
+   General       Policies:
+
+   47.00        Industries that locate in the community shall meet federal, state,
+                and local environmental standards.   These standards shall be given
+                full weight in evaluating the desirability of the industry.
+                Criteria for evaluation shall include, but not be limited to, the
+                effect the industry would have on:
+
+                1.        The natural environment,  including air and water quality,
+                          natural drainage ways, and soil properties and other physical
+                          characteristics of the land including topography.
+
+                2.        The    human        environment,        including        the       amount        of   noise       and            :
+                          traffic      generated          and    the    ability        of    the     housing        industry          to
+                          provide sufficient dwelling units                            with    at     least      an    adequate
+                          level of required urban services.
+
+                3.        The physical facilities of the community,  including the ability
+                          of sanitary and storm sewer systems, water supply and distribu-
+                          tion systems,  energy supply distribution systems, police and
+                          fire, and schools to provide designated services.
+
+   48.00        The City of McMinnville shall encourage the development of new
+                industries and expansion of existing industries  that provide jobs
+                for the local (McMinnville and Yamhill County) labor pools.
+
+   Locational             Policies:
+
+   50.00        The       City    of McMinnville            shall       encourage           industrial          uses       to    locate
+                adjacent to the airport and south of Three Mile Lane, adjacent                                                          to
+                the existing Riverside Drive industrial area, and in existing
+                industrial areas through the proper designation of land on the
+                comprehensive plan                   and zoning maps.  Comprehensive plan and/or
+                zoning map changes                   to industrial designations in other areas may                                             be
+                granted if all the                   applicable goals and policies of the plan can                                             be
+                met.
+
+   52.00        The       City    of   McMinnville          shall       create     a    new        “limited      light          indus-
+                trial” zone which shall be placed on the industrial areas on the
+                south side of Three Mile Lane in those areas where residential
+                development              is    expected     on    the    north    side        of     the    road.          The    new
+                zone       will     allow       only   those      types     of    industrial           uses      that       will      not
+                conflict          with        the   residential         uses.
+                                                                                                                             rik     42 oes 2132
+                                                                              -4-
+
+ 54.00            The            City    of McMinnville                 shall         establish               industrial      planned        develop-
+                  ment            ordinances           which       shall         be    placed        over        the      future    industrial
+                  areas            designated              on    the    McMinnville                Comprehensive             Plan    Map,     the
+                  industrial reserve area, and certain existing industrially desig-
+                  nated areas within the city limits.  The overlay shall also be
+                  applied to any areas which are in the future designated for future
+                  industrial use through an amendment to the Comprehensive Plan Map.
+                  The overlays shall provide standards to control the nuisance and
+                  negative environmental effects of industries.   ‘These controls ‘shall
+         _        cover,               but    not     be    limited        to,        the        following:         areas:
+
+                  1.             Landscaping           and       screening
+                  2.             Noise       suppression
+                  3.             Light       and    heat        suppression
+                  4.             Pollution          control        for    air,         water,        and       land.
+                  5.             Energy       impacts                                        3            :
+                  6.             Traffic       impacts
+
+ 57.00            Agricultural                     activities           shall         be    encouraged              on    industrially        desig-
+                  nated            lands until              such       time      as    the        lands       are     utilized      for     indus-
+                  trial            purposes.
+
+ Chapter           VI            Transportation                 System
+
+ GOAL        VI        1:         TO    ENCOURAGE           DEVELOPMENT               OF A TRANSPORTATION                    SYSTEM       THAT
+                                  PROVIDES FOR THE COORDINATED                                   MOVEMENT        OF      PEOPLE    AND    FREIGHT        IN
+                                  A SAFE AND EFFICIENT MANNER.
+
+ Chapter           VII            Community           Facilities           and        Services
+
+ GOAL        VII            1:     TO PROVIDE NECESSARY PUBLIC AND PRIVATE FACILITIES AND UTILI-
+                                   TIES AT LEVELS COMMENSURATE WITH URBAN DEVELOPMENT, EXTENDED
+                                   IN A PHASED MANNER, AND PLANNED AND PROVIDED IN ADVANCE OF OR
+                                   CONCURRENT WITH DEVELOPMENT,  IN ORDER TO PROMOTE THE ORDERLY
+                                   CONVERSION OF URBANIZABLE AND FUTURE URBANIZABLE LANDS TO
+                                   URBAN LANDS WITHIN THE McMINNVILLE URBAN GROWTH BOUNDARY.
+
+“Policy:
+
+ 151.00            The City of McMinnville shall evaluate major land use decisions,
+                   including but not limited to urban growth boundary, comprehensive
+                   plan amendment,  zone changes, and subdivisions using the criteria
+                       outlined              below:                                                                                                  ‘
+
+                       1.         Sufficient municipal water system supply,   storage and distribu-
+                                  tion facilities,  as determined by the City Water and Light
+                                  Department,  are available or can be made available,   to fulfill
+                                  peak demands and insure fire flow requirements and to meet
+                                  emergency situation needs.
+                                                                                                               FILK 42 nce 2130
+                                                              -5-
+
+            2.    Sufficient municipal sewage system facilities,  as determined
+                  by the City Public Works Department, are available, or can be
+                  made available,  to collect, treat, and dispose of maximum
+                  flows of effluents.
+
+            3.    Sufficient          water       and     sewer         system        personnel            and      resources,            as
+                  determined          by    the       Water       and     Light       Department              and    City,     respec-
+                  tively,      are     available,              or    can       be    made       available,           for     the main-
+                  tenance      and     operation             of     the    water          and    sewer        systems.
+
+            4.    Federal, state, and local                          water          and    waste       water        quality        stan-
+                  dards can be adhered to.
+
+            5.    Applicable          policies          of     the Water             and    Light        Department           and        the
+                  City   relating           to    water        and      sewer        systems,          respectively,               are
+                  adhered      to.
+
+Chapter     IX   Urbanization
+
+GOAL   IX   1:    TO PROVIDE ADEQUATE LANDS TO SERVICE THE NEEDS OF THE PRO-
+                  JECTED POPULATION TO THE YEAR 2000, AND TO INSURE THE CONVER-
+                  SION OF THESE LANDS IN AN ORDERLY, TIMELY MANNER TO URBAN
+                  USES.
+
+Policy:
+
+182.00      Amendments to            the Urban          Growth Boundary may be considered
+            periodically.             The City          of McMinnville and Yamhill County                                     shall
+            consider amendments                  to    the     boundary             based       on   the      following
+            criteria:
+
+            1.    Demonstrated need to accommodate long-range urban                                                   population
+                  growth requirements consistent with LCDC goals.
+
+            2.    Need   for    housing,              employment           opportunities,                  and      livability.
+
+            3.    Orderly and          economic          provision              for       public       facilities            and
+                  services.
+
+            4.    Maximum efficiency                   of land          uses        within       and     on    the    fringe         of
+                  the existing urban                   area.
+
+            5.    The long term environmental,  energy, economic, and social -
+                  consequences of the locality,  the region, and the state as the
+                  result of allowing urbanization and not preserving and
+                 maintaining the land for                           agricultural                or   forest         uses,
+                 whichever is applicable.                                                                 :
+
+            6.    Retention      of        agricultural              land       as    defined,          with        Class     I being
+                  the highest          priority          for        retention             and    Class        IV    the     lowest
+                 _priority.
+                                                                    -6-
+                                                                                                                       FILK     A?         ace    C134
+
+                  7.      Compatibility           of        the    proposed        urban        uses    with        other       adjacent
+                          uses.
+
+2.   The following policies and procedures from the McMinnville Urban                                                            Growth
+     Boundary Management Agreement are applicable to the request:
+
+     Urban      Growth     Boundary       Amendment               Policies
+
+     A.   Lands        outside     the    Urban        Growth        Boundary           shall     be     considered             “rural”
+          and     shall     be    controlled           by     the    County        plan    designations                 and     zoning
+          districts. Upon inclusion into the Urban Growth                                              Boundary, rural                lands
+          shall be considered “urbanizable” but shall not                                              be developed at                urban
+          level densities until annexation occurs.
+
+     B.   Amendments         to    the    Urban        Growth        Boundary           shall     be    based          upon   considera-
+          tion of:
+
+          (1)      Goals     and    policies           of     the    McMinnville           Comprehensive                 Plan;
+
+          (2)      Goals     and    policies           of     the    Yamhill        County        Comprehensive               Plan;        and
+
+          (3)      LCDC     criteria       as   follows:
+
+                   (a)      Demonstrated need to accommodate long-range urban                                                   population
+                            growth requirements consistent with LCDC goals;
+
+                   (b)      Need    for    housing,               employment
+                                                                    P+O5            opportunities,
+                                                                                     PP                            and    livability;
+
+                   (c)      Orderly       and   economic             provision           for     public       facilities             and
+                            services;
+
+                   (d)      Maximum efficiency                     of land     uses       within        and       on    the   fringe         of
+                            the existing urban                     area;
+
+                   (e)      The long-term environmental,  energy,  economic and social
+                            consequences to the locality,  the region and the state as
+                            the result of allowing urbanization and not preserving and
+                            maintaining the land for                       agricultural                or    forest       uses,
+                            whichever is applicable;
+
+                   (f£)     Retention of agricultural land                               as defined, with Class                       I
+                            being the highest priority for                               retention and Class IV                       being
+                            the lowest priority;
+
+                   (g)      Compatibility              of     the    proposed           urban     uses       with       other     adjacent
+                            uses; and
+
+                   (h)      Demonstration              that        there     are    no    alternative              locations          within
+                            the    area    which        could        better        be    used     for       the    proposed        use(s).
+                                                                                                            FILM         4?        RACE 2135
+                                                              -j-
+
+URBAN     GROWTH     BOUNDARY           AMENDMENT        PROCEDURE
+
+A.   Amendment        of     the    Urban       Growth        Boundary       may     be    initiated                by    the       Yamhill
+     County Board of Commissioners, the McMinnville                                         City Council, or by an
+     individual owner(s) of property who request(s)                                         inclusion in or exclu-
+     sion from the Urban Growth Boundary.   The proposal shall be treated as
+     a Plan Map amendment to both City and County Comprehensive Plans,   thus
+     requiring concurrence of both governing bodies.
+
+        (1)   The    City     of McMinnville              and       Yamhill      County          do    hereby            establish
+              the    McMinnville              Urban   Area       Management          Commission               (MUAMC)              as    a
+              hearings        officer for amendments to the McMinnville Urban Growth
+              Boundary        in accordance with ORS 215.406.  The MUAMC shall be
+              composed        of the following members:                        :
+
+              (a)     Commissioner of the Yamhill                           Counce        Board        of     Commissioners
+                      designated by the Board;                                                                                                ee
+
+              (b)     Mayor        or    Council person of                 the   City      of     McMinnville                  desig-
+                      nated        by    the City Council;
+
+              (c)     Member        of    the    McMinnville             Planning         Commission                designated                by
+                      the     City       Council;
+
+              (d)     Member        of the Yamhill County Planning                               Commission               designated
+                      by the        Board of Commissioners;
+
+              (e)     Member        of    the    McMinnville             Plaaning         Advisory            Committee                 desig-
+                      nated        by    the    Board     of     County       Commissioners;
+
+              (£)     Member of the              McMinnville Citizens'                     Advisory                Committee
+                      designated by              the City Council; and
+
+              (g)     Member-at-large                 chosen by the above MUAMC members and
+                      ratified by the                 City Council and the County Board.
+
+        (2)   The    MUAMC     shall          function        in accordance           with        by-laws            to       be    adopted
+              by    the    McMinnville           City     Council          and   Yamhill          County            Board          of
+              Commissioners. It shall be the responsibility of the McMinnville
+              Urban Area Management Commission to hold hearings, make findings
+              and present           its maps to City and County governing                                          bodies          as
+              outlined in           this Agreement and the by-laws.
+
+        (3)   Applications              and    maps     shall       be   filed     with         the    McMinnville
+              Planning        Department          which        shall       collect        the     joint            fee    and       forward
+              the Yamhill County fee                     along with notice                 to the Yamhill County
+              Department of Planning                     and Development.                  Applications must be
+              complete        prior       to    processing           for    hearing        by     the       McMinnville                  Urban
+              Area    Management              Commission.            The    joint     fee        for    individual                  amend-
+              ments shall be              the sum        of     fees     established             from        time        to     time         by
+              each governing              body.
+                                                                       “igs                                             FILM       4?          nce        2136
+
+        (4)         Applications shall be accumulated and                                            referred twice                     yearly to’
+                    the McMinnville Urban Area Management                                            Commission for                     a public   -
+                    hearing for              which at least                  ten days advance public notice shall
+                    be given by              publication in                 a newspaper of general circulation in
+                    the County.                                                                        X
+
+        (5)         Following           the     public         hearing,             the    MUAMC          shall         make        and     forward
+                    its        findings       and     decision             directly            to    the     governing               body        of       each
+                    jurisdiction.                Each         governing             body       may     then       make         a    determination
+                    based        upon     the    facts        and      record         presented              at    the         MUAMC       hearing
+                    without holding an additional public hearing thereon.   However,
+                    nothing in this process prohibits the City or County from refer-
+                    ring the application to its respective Planning Commissions for
+                    information. A final decision                                  shall be rendered by the governing
+                    bodies within sixty (60) days                                  of receipt of MUAMC's deliberations
+                    and        decision.
+
+        (6)         If     the    governing           bodies          do    not      concur          in     their         final         decision,               a
+                    joint        meeting        shall       be    scheduled               to    resolve           differences.                       If
+                    agreement           cannot        be    reached           by     joint          meeting(s),                one      governing
+                    body        shall     appeal        the      other        governing              body's        decision               te     the       Land
+                    Use     Board       of    Appeals,           or    the     appropriate                 appellate                body.
+
+Goals        and     policies           from     the       Yamhill          County         Comprehensive                   Plan       which           are
+applicable               to the request have been addressed by the Yamhill County
+Department               of Planning and Development and are incorporated herein by                                                                        this
+reference.
+
+The following procedures and requirements set                                                       forth     in        the        Statewide
+Planning Goals are applicable to the request:
+
+Goal     2        “Land     Use    Planning,”              Part       II   Exceptions:
+
+eee "(1)                 Reasons justify why the state policy embodied in the                                                              applicable
+                         goals should not apply (This factor can be satisfied                                                              by
+                         compliance with the seven factors of Goal 14);
+
+        (ii)             Areas     which        do    not     require          a new           exception           cannot            reasonably
+                         accommodate            the    use;
+
+        (iii)         The long-term environmental,  economic, social and energy
+                   "consequences    resulting from the use at the proposed site with
+                      measures designed to reduce adverse impacts are not signifi-
+                      cantly more adverse than would typically result from the same
+                      proposal being located in areas requiring a goal exception
+                      other than the proposed site; and
+
+        (iv)             The     proposed        users        are      compatible               with       other          adjacent             uses        or
+                         will     be    so    rendered           through           measures           designed             to       reduce
+                         adverse        impacts.                                                                    :
+
+Goal     14        “Urbanization”               ..."Establishment                     and       change        of        the        boundaries
+shall        be     based        upon     the    consideration                 of     the       following               factors:
+                                                                           -9-                                        Fin 42 we 2137
+
+     1.     Demonstrated               need to accommodate long-range                                     urban        population                 growth
+            requirements               consistent with LCDC goals.
+
+     2.     Need       for     housing,               employment          opportunities,                  and       livability.
+
+     3.     Orderly          and      economic             provision           for    public          facilities             and           services.
+
+     4.     Maximum efficiency of                           land    uses        within       and        on     the     fringe              of    the
+            existing urban area.
+
+     5.     Environmental,                   energy,         economic,              and    social         consequences.
+
+     6.     Retention           of     agricultural                land        as    defined,           with        Class        I    being        the
+            highest          priority             for      retention           and    Class        IV     the       lowest           priority.
+
+     7.     Compatibility                   of    the      proposed        urban          uses     with       other      adjacent                 uses.
+
+     Goal     9    “Economy”                “To       diversify         and     improve           the     economy           of       the        state.”
+
+     The    Three       Mile        Lane         Planned      Development                 Overlay         (Ordinance                 No.        4131),
+     which is          the    controlling ordinance for development along                                                    Three Mile                  Lane,
+     contains          the    following language which is relevant to the                                                    request:
+
+                                    “West        of    Airport       to    Mobile          Home       Park      (Area        3)
+
+     This     area      shall         be     designated            as     industrial             on     the     McMinnville                     Comprehen-
+     sive Plan Map of 1980.  The City shall                                           allow zone changes to M-L                                   (Limited
+     Light Industrial) and AH (Agricultural                                           Holding) designations.”
+
+CONCLUSIONARY           FINDINGS
+
+1.   The    subject          request             complies      with        the       applicable              goals      and          policies            from
+     Volume       II    of    the      McMinnville               Comprehensive               Plan,           1981      (see          Decision          Making
+     Criteria          No.     1)     as:
+
+     (a)     Because the Three Mile Lane Planned Development Overlay (Ordinance
+             No. 4131) restricts the zoning of the site to Agricultural Holding or
+             Limited Light Industrial zones only, the property will be retained in
+             agricultural use until it is needed for industry, thereby satisfying
+             the requirements of Policy 1.00.
+
+     (b)     The development of industrial lands shall provide employment oppor-
+             tunities for the community, continue growth of the local industrial
+             economy, and provide an opportunity for diversification of the local
+             economic base, thereby fulfilling the requirements of Chapter IV
+             Economy of McMinnville, Goals IV-1, IV-5, and IV-6 and Policy 48.00.
+
+     (c)     The       subject         site           is   located        in    the       Three       Mile      Lane        industrial                 area,
+             will be designated for industrial use and shall be developed under
+             the requirements of the M-L zone and the Three Mile Lane Planned
+             Development Overlay.   Under the requirements of the M-L zone noise
+                                                                    Ae                                    rik 42 ne 2138
+      generation,  traffic generation, air and water pollution and appear-
+      ance are all examined by the City to insure compatability with
+      surrounding areas.   The soils of the site (WuB and Am) are conducive
+      to urban development as is the generally flat topography.     Storm
+      drainage flows naturally south to the S. Yamhill River.    All appro-
+      priate        public           agencies,          including         the       McMinnville           School        District,
+      the McMinnville Water and Light Department,   the City Engineering
+      Department,  and the Police and Fire Departments, have been contacted
+      concerning the request.    All agencies have stated that approval of
+      the    request            would       not       conflict        with    their        interests         and    all     agencies
+      have     the     capacity             to    serve        the    site.         The    requirements            of    Policy
+      47.00     are     satisfied                by    the     request.
+
+(d)   The     subject           request,          if    approved,         would       implement           the     requirements                of
+      Policy        50.00        by    providing             additional         lands       on     the    south     side         of    Three
+      Mile     Lane        to    be     designated             for    industrial           uses.
+
+(e)   The City of McMinnville                           has     created       a Limited Light                Industrial zone
+      which will be placed on                           the     subject       site.   The zone               was designed to
+      be a “high-tech” zone and to be compatible with residential uses. The
+      existing Three Mile Lane Planned Development Overlay will be extended
+      to    include         the       subject          site.         Between        the    M-L     zone     requirements               and
+      Ordinance         No.          4131    all       the     requirements           of    Policies         52.00       and      54.00
+      will     be    met        or    exceeded.
+
+(£)   As noted in Conclusionary Finding No.1(b)                                            above,  the          subject site
+      will be restricted to agricultural use or                                            industrial           use only,
+      thereby         satisfying             the       requirements            of    Policy        57.00.
+
+(g)   The subject request complies with the requirements of Goal VI-l as                                                                      a
+      frontage road will be constructed along the northern edge of the
+      portion of the parcel which is presently in the city limits and
+      access will be limited to one point on Three Mile Lane (under the
+      provisions of the planned development Ordinance No. 4248 which
+      zoned the portion of the parcel which is presently within the city
+      limits).   In addition, Three Mile Lane is a state highway designed                                                                     to
+      handle high traffic volumes.
+
+(h)   Adequate         public          utilities              and    services        can    be     provided        to     the     site
+      commensurate               with       the       level     of    development           anticipated            in     this        area
+      (as noted in Conclusionary Finding No. l[c] above) and well within
+      the capacities of existing city services, thereby meeting the
+      requirements of Chapter VII Community Facilities and Services, Goal
+      VII-1 and Policy 151.00.   In addition, the sewage treatment plant
+      easily has capacity to serve the site and all municipal water and
+      sanitary sewer systems guarantee adherence to federal, state, and
+      local quality standards.
+
+(i)   The requirements of Goal IX-l and Policy 182.00                                                are satisfied                for        the
+      reasons enumerated in Conclusionary Finding No.                                                4 below.
+                                                                   -ll-                                           FILM:
+                                                                                                                     te!     42          te         2139
+
+The    subject         request            complies        with      the    applicable                 policies             and     procedures
+from the        McMinnville Urban Growth Boundary                                    Management                   Agreement              (see
+Decision        Making Criteria No. 2) as:
+
+(a)     Urban        Growth           Boundary        Amendment           Policy        B(1)          is    satisfied              for     the
+            reasons        stated         in    Conclusionary             Finding        No.          1    above.
+
+(b)     Urban         Growth          Boundary        Amendment           Policy        B(2)          is    satisfied              for     the
+        reasons stated in the Yamhill County Department                                                      of      Planning             and
+        Development memorandum attached hereto.
+
+(c)     Urban Growth Boundary                         Amendment Policy B(3)                       is satisfied                     for        the
+        Teasons enumerated in                         Conclusionary Finding                       No. 4 below.
+
+(d)     The Urban Growth                       Boundary Amendment procedure is                                    being followed by
+        both the City of                       McMinnville and Yamhill County.                                     A property applica-
+        tion was filed by the applicant,                                   the required fees have been paid,
+        notice has been published in the                                   local newspaper and mailed to all
+         owners        of       property         within      300     feet       of     the      perimeter              of    the        subject
+        site     and        the       McMinnville           Urban       Area      Management                Commission              has        been
+        appointed               and     shall     function         in     accordance             with        its       adopted            bylaws.
+
+The    subject         request complies with the                           applicable goals and                             policies            from
+the    Yamhill         County comprehensive plan                           (see Decision Making                             Criteria            No. 3)
+as    set     forth        in     the    attached        memorandum             from     the      Yamhill              County           Department
+of    Planning         and       Development.
+
+The procedures and requirements                               as     set       forth       in    the        Statewide              Planning
+Goals are satisfied as follows:
+
+Goal    No.     14     REQUIREMENTS
+
+Factor No. 1: Demonstrated need to accommodate long range urban population
+growth requirements consistent with LCDC goals.    During the McMinnville
+Comprehensive Plan process the City projected land needs for all types of
+land uses except for industrial uses.   Industrial acreage was included
+based on locational criteria.   It was felt that it was impossible to
+accurately project industrial land needs with so many of the prime
+variables unknown.  Those variables included, among others, how much land
+would be landbanked, whether or not industries would be land extensive                                                                                or
+land intensive, capital intensive or extensive, how many shifts would
+Operate,        how        many       employees        per    acre,        etc.         It      has        become          apparent            that
+the    City     should           have      projected         some       minimum         acreage             needs          for     various
+industry        types.
+
+The    City     presently               has     within      its    Urban        Growth          Boundary             only         108     acres       of
+land    which         is    reserved            for   and    appropriate             for        “high        tech"          industry.                This
+acreage is broken into five                            parcels,  the largest of which is less than                                                    40
+acres in size (see Findings                            of Fact No. 4).    In order to fulfill the
+city's        economic            goals        (see   Decision          Making       Criteria               No.      1),     the        inventory
+of industrial               acreage            reserved      for     “high-tech”                industries                 must     be     ex-
+panded.
+                                                                                                                          Fith. 42. ncc2440
+                                                                          -12-                4                                      i
+ It   has    also            become          apparent           that     “high     tech”            industries         typically                look       for
+ parcels        in      excess           of    50    acres        so    that      they        may     landbank         acreage             for       future
+ needs      (see        letter            dated      February           19,     1985      from        Robert        Niehaus              to John
+ Otting, and letter                          dated February 8, 1985 from                              Jack R. McConnell to John
+ Otting).   The City                         presently has no parcels of                              50 acres or more available
+ to     “high      tech”           industries             and     cannot        provide            such     without        expanding                 the
+ Urban      Growth            Boundary.
+
+In    order        to    support              the    population            which         is       projected         for     the          City    while
+“at the same time insure                             a diversified                industrial               base as required by the
+  comprehensive plan, the                            City needs to                expand the               Urban Growth Boundary to
+ specifically                 include          additional              acreage      for           “high     tech”      industries.
+
+ Factor      No.        2.         Need       for    housing,           employment                opportunities            and           livability.
+ Yamhill        County's                unemployment              rate        in December,                1984   was      9.8     percent.             This
+ compares to 9.4 percent unemployment for the State of Oregon and 7.0
+ percent nationwide.l   As shown by the unemployment rate for Yamhill
+ county, there is a definite need for jobs locally.   Approval of the
+ subject request will put the City of McMinnville in a more competitive
+ position in terms of recruitment of new industries.
+
+-Livability is assured through                                    the requirements of the M-L zone.                                         The       zone
+ was designed to be compatible                                    with adjacent residential zones.                                         The
+ purpose        statement                of    the       M-L     zone     reads     as        follows:
+
+ "17-36.010              Purpose.               The       M-L     limited         light           industrial         zone       is        intended          to
+ create, preserve, and enhance areas containing manufacturing                                                                     and       related
+ establishments with limited external impact and with an open                                                                     and       attrac-
+ tive     setting.”                .
+
+ Factor      No.        3: . Orderly                and    economic            provision             of    public      facilities                and
+  services.  Municipal water, municipal power, municipal sanitary sewer and
+“natural gas facilities are in place within the Three Mile Lane right-of-
+ way and are sized to service the subject site.   Three Mile Lane is a state
+ highway (Salmon River Primary Highway No. 39) and has sufficient capacity
+  to service anticipated traffic loads generated from the site. The McMinn-
+ ville Fire Department and Police Department and the McMinnville                                                                           School
+ District have been notified of the request and all agencies are                                                                           on record
+ as   supporting               approval             of    the     amendment.
+
+ Factor No. 4:  Maximum efficiency of land uses within and on the fringe                                                                                    of
+ the existing urban area.  Maximum efficiency of the use of the subject
+ site once it is annexed to the City and zoned is assured through the
+ requirements                 of       the    M-L    zone        and    the     Three         Mile        Lane   Planned          Development
+ Overlay.   Under those requirements access, traffic generation, noise
+ generation, air and water pollution, appearance, setbacks, landscaping,
+ building height and location, parking, screening and lighting are all
+ addressed.   Until such time as the property is needed for development no
+ use will be allowed on the property except agriculture.     :
+
+ “Labor Trends,”   State of                               Oregon,        Employment                Division,         Department                 of    Human
+ Resources, January, 1985,                                pg. 1.
+                                                                         -13-
+                                                                                                               cn AZ ruc OTM
+The     southern          boundary           of    the        site,       which      is     the    S.    Yamhill       River        100-year
+floodplain line, forms a much more natural Urban Growth Boundary than does
+the existing line.   The existing Urban Growth Boundary line on the south
+side     of   Three        Mile       Lane        was        set    at    1,200      feet     south       of    the    highway         and     is
+not defined by any physical feature.   The line as now drawn "traps" rural
+acreage between the S. Yamhill River to the south and the City of McMinn-
+ville to the north.   This “trapped” rural land could be used more effi-
+clently        if    it    were       made        urbanizable.
+
+Factor No. 5:               Environmental, energy,  economic, and social consequences.
+Environmental              consequences of the change in the Urban Growth Boundary
+relate to the              effect of the transition from rural to urban land uses on
+the    carrying           capacity          of     the        land,       water,      and     air.        In    the    subject         case,
+this     transition             will    not        exceed           the       carrying       capacity          of    those     resources.
+Adequate        water       supply          and     distribution                 plans       exist       to    service        the     pro-
+jected population and                       land         area.          Sewage collection and treatment systems,
+existing and planned,                       will         treat        and dispose of collected effluents.   Land
+development will be controlled by zoning and through the orderly extension
+of public facilities; special controls enforced through the planned
+development              ordinance will minimize impacts of industrial                                                developments.
+Air quality              will be controlled through adherence to state                                                and federal
+environmental quality standards.   McMinnville is classified as Class II
+PSD (prevention of significant deterioration) in Oregon's air classifica-
+tion scheme.   This classification means that MeMinoyidde has the full
+increments of its allowed air pollutants remaining.
+
+Energy        consequences             of     the        change          in    the   Urben        Growth       Boundary        are
+negligible.               The     entire          service           infrastructure                which       would    serve         the
+subject site is currently in place, including the transportation network
+and the energy distribution facilities.   Extension of the facilities on
+the subject site would be efficient when compared to providing facilities
+to a site where the infrastructure does not exist.
+
+Economic        consequences                 of    the        proposed          change       in    the     boundary          include         the
+continued           diversification                     of    the     local       industrial            base    and    a potential
+reduction           in    unemployment              through              the    provision          of    adequate          lands      for
+ limited       light       industrial              use.
+
+Social consequences of the proposed change in the boundary are negligible.
+Because the service infrastructure is in place, the parcel is contiguous
+to land which is in the city and zoned for limited light industrial uses,
+and because of the requirements of the M-L zone, external impacts will be
+minimal.
+
+ Factor No. 6:  Retention of agricultural                                            lands as defined, with Class I
+being the highest priority for retention                                             and Class IV the lowest.   The
+vast majority of the land within the existing Urban Growth Boundary and                                                                            on
+the fringes of the Urban Growth Boundary is Class II or Class III in
+nature.         Nearly          any    growth            experienced              by the      City will             take    place      on
+Class      II or Class III soils. The soils                                      of the subject site                   are mostly
+Class      II.  Under the provisions of the                                      planned development                   overlay which
+                                                                                                                    Fux 42 ne 2142
+
+                                                                                                                                       ns
+                                                                       -14-
+
+  will apply to the subject property, the site will be required to be
+'.vetained in agricultural use until it is needed for limited light indus-
+  trial use.
+
+ Factor        No.      6:      Compatibility              of     the       proposed            use    with         nearby     agricultural
+ land.   The City has found that industrial uses are the urban uses which
+ are most compatible with agricultural uses (see McMinnville Comprehensive
+ Plan, 1981, Volume I, pg- 255).   The subject request, if approved, would
+ actually have                 the effect of reducing the existing                                          agriculturally             desig-
+ nated parcels                 exposure to industrially designated                                          lands.   As the            boundary
+ is     now     laid     out,        the    boundary            line       between            industrially            and     agriculturally
+ designated lands in the area of the subject site is some 3,080 feet                                                                         in
+ length.   Be redesignating the subject site industrial, that common
+ boundary would be reduced to some 800 feet.
+
+ GOAL     NO.        2 REQUIREMENTS
+
+ (i)      Reasons justify why the state                                    policy        embodied in the applicable goals
+          should not apply (This factor                                    can be        satisfiedby compliance with the
+          seven factors of Goal 14).
+
+ This factor is satisfied                          by     compliance           with            the    seven         factors     of     Goal       14
+ as shown above.
+
+ (ii)         Areas which             do not require               a new           exception               cannot     reasonably
+              accommodate             the use.
+
+ As     shown     in Finding               of    Fact     No.     4,       McMinnville               has     only     108     acres     of     land
+ within        the     Urban         Growth       Boundary         which           is    reserved            for     limited        light
+ industrial “high tech” industry.                                      All other areas                     within the Urban                 Growth
+ Boundary which are designated for                                     industrial uses                     are committed to                 general
+ industry         or     airport           related        industry.            There            is    no     available         property
+ which would not require a new                              exception which could satisfy                                     the need for
+ providing the availability of                              land in large parcel size for                                     “high tech"
+ industry.
+
+ (iii)         The      long-term           environmental,                  economic,            social        and     energy         conse-
+               quences resulting from the use at the proposed site with measures
+               designed to reduce adverse impacts are not significantly more
+               adverse than would typically result from the same proposal being
+               located          in    areas       requiring            a    goal        exception            other     than     the     proposed
+               site.
+
+ The     environmental,                   economic,        social,           and        energy        consequences             of     the
+ proposal         are        dealt        with    in    detail         above        in    the        discussion         of     the     seven
+ factors of Goal 14.                        There is no            other site adjacent to the                                Urban Growth
+ Boundary which would                       be suitable            for “high tech" industry.                                 The subject
+ site     is    adjacent             to    the    only     area        within           the     Urban        Growth     Boundary            which
+ is    reserved          for     limited          light     industrial                  uses.
+
+ (iv)          The proposed users are                       compatible with other adjacent uses                                         or will
+               be so rendered through                       measures designed to reduce adverse                                         impacts.
+                                                                      -15-
+
+The     compatibility             pf    the     proposed              uses     with        other       adjacent      uses       is    shown
+above     in the discussion of Factor No.                                    7 of Goal           14.
+GOAL     NO.    9     REQUIREMENTS
+
+The     request       satisfies           the       requirements               of    Statewide            Planning       Goal        No.   9
+for     the    reasons      put        forth        in    Conclusionary               Finding            No.'s     1 and    3 above.
+
+The    subject        parcel       will        be    included           in     the    "West         of    the    Airport        to Mobile
+Home     Park       (Area   3)"        section           of     the    Three        Mile     Lane        Planned     Development
+Overlay        (see    Finding          of    Fact        No.     5).        Zoning         on   the      site    will     be    limited
+to either Agricultural Holding                                or Limited Light Industrial,                            thereby
+satisfying the requirements of                                Ordinance No. 4131.
+                                                                                                                              FILK         4?      PACE 2144
+
+                                                         FINDINGS            OF     FACT       AND     DECISION
+                                    McMINNVILLE URBAN AREA MANAGEMENT COMMISSION
+                                                                     McMINNVILLE,                OREGON
+                                                                                 May 1, 1985
+DOCKET        UGB     1-85
+
+Application was made by John and Lois Otting for an amendment to the McMinnvill
+                                                                                e
+Urban Growth Boundary so that a parcel of land approximately 63.23 acres
+                                                                          in
+size may be included within the Urban Growth Boundary.   The parcel is located
+south of Three Mile Lane and more specifically described as a portion
+                                                                       of Tax Lot
+200,    Section            27,     T.        4 S.,        R.        4 W.,        W.-M.
+
+Evidence        was        received,            a        public        hearing            and    deliberations                  were        held        before        the
+McMinnville               Urban     Area        Management                   Commission               on May       1,    1985         at    which        were
+present Chairman                   Bishop           and        Commissioners                   Bennette,           Bladine,               Hansen,        Martin,        and
+Stevens.
+
+The    Commission            thereupon                   made        the     following           FINDINGS           OF    FACT:
+
+        (Attached            as     Exhibits               "A"        and        "B”)
+
+                                                                                  DECISION
+
+That it be recommended to the McMinnville City Council and the Yamhill County
+Board of Commissioners that the application of John and Lois Otting for an
+amendment to the McMinnville Urban Growth Boundary which would allow a parcel
+                                                                                                                                                                            of
+land approximately 63.23 acres in size                                                   located        south of Three Mile                         Lane and           more
+specifically described as a portion of                                                   Tax Lot        200, Section 27, T.                         48., R.            4
+W.,    WeM. to be included within                                     the     Urban        Growth          Boundary,            be        approved        subject           to
+the    following conditions:
+
+(1)    That         the     McMinnville                   Urban        Growth            Boundary          be     amended            to    include        the
+        approximately                   63     acre        parcel           which         is    the     subject          of     UGB        1-85.
+
+(2)    That the McMinnville Comprehensive                                                 Plan       Map    be     amended            by    designating               the
+       subject site "industrial."
+
+(3)    That         the     Three        Mile        Lane           Planned          Development                Overlay         (No.        4131)        be
+       amended to incorporate the subject                                                 site into the                 section            entitled           "West
+       of the Airport to Mobile Home Park                                                 (Area 3).”
+
+(4)    That         when     the        area        is     zoned           for     industrial              use     the    provisions               of     Ordi-
+       nance         4248        shall         apply           as     will        the     following              provisions:
+
+        (a)         The land shall be preserved for agricultural use                                                             until          such      time    as
+                    it can be shown that it is needed for industrial                                                             use.
+                                                                                                                          ON
+Findings    and    Decision                             -2-                                     May   1,   1985
+
+      (b)    Before the land is used for industry, a finding must be made that
+             all other vacant industrial lands in the City are unsuitable for the
+             specific proposed use due to insufficient site size, incompatible
+             nature of surrounding uses, and/or special land requirements not
+             found elsewhere.
+
+     (c)     The    combined    parcel   of       approximately        101    acres    shall     earry     a    mininun
+             lot size requirement of 50                acres   until     at    least    75   percent       of    the
+             total site is developed.
+
+The McMinnville Urban          Area Management          Commission       decision       on     this   matter      was
+made by a five to one          vote.
+
+   LW                   Stsefs
+eh
+ rvildeeb airman                                   /
+McMinnvill
+     tia                        Manage            Aommission
+                                              /
+
+                   iy   Lt
+Richard _     Highsmith,       1m+=>—
+Planning    Ditgétor,    City    of   Metianvilte
+                                                        Docket UGB 1-85                                                 we AZ sce 2446
+
+                                                                                                                   aad
+
+                                                                                                                   az
+                                                                                                                   =
+                               FINDINGS       OF   FACT      AND    DECISION         MAKING     CRITERIA
+                                                        Yamhill        County
+
+                                                       GOAL    14     CRITERIA
+
+Factor     1:         (Demonstrated need to accommodate long-range urban                                         population
+                       growth requirements consistent with LCDC goals).
+
+Factor     2:         (Need     for    housing,        employment           opportunities            and    livability).
+
+These factors are covered within the land use application submitted to the
+City.   In particular, it has been indicated that 91 acres of ML-Limited
+Light Industrial zoned land exists within the McMinnville City Limits.
+Approximately 40 acres of the 91 acres are located adjacent to the subject
+property and owned by the applicant.   The applicant has submitted informa-
+tion which indicates that, typically,  industrial users are interested in
+large parcels of 50 to 100 acres, or larger.    Inclusion of the 63 acres
+within the McMinnville UGB as ML zoned land would provide McMinnville
+with such a large area zoned for limited light industrial purposes.
+
+The City has previously determined that methods of estimating   the amount
+of industrial acreage needed over time is not reliable due to a number
+of variables.  The City prefers to assure that adequate industrial land
+will be made available for industry by basing industrial land use desig-
+nation on locational criteria.   The locational criteria includes:  (1)
+Near existing industrial areas; (2) Serviceable by utilities; (3) Level
+or near level land; (4) Served by highway, rail or airport; and (5)
+Large enough to accommodate various sized industries.                                                The    subject
+property satisfies all of these locational criteria.
+
+Factor     3:         (Orderly and           economic        provision         for    public        facilities        and
+                       services).
+
+Sewer and        water are available to the site                             and     access     to    Highway      18    and
+proximity        to the airport is excellent.
+
+Factor     4:         (Maximum        efficiency        of    land     uses     within        and    on    the   fringe      of
+                      the      existing       urban     area).
+
+The site lies adjacent to existing industrial zoned land.   Inclusion of                                                          the
+subject property within the UGB will provide for increasingly efficient                                                           use
+of   the   3 Mile        Lane       area     through      additional           useage    of     existing         urban      utilities.
+Further,        the     UGB     will    be    extended        south     to     include    more        developable           lands
+outside     of    the         100   year     floodplain        of     the     South    Yamhill        River,      yet     still
+buffered from adjacent agricultural lands to the South by the floodplain
+area and the River itself.   The site probably should have been included in
+the previously UGB and the River or, at the very least the 100 year flood-
+plain, should have been adopted as the boundary.
+Exhibit "B"
+Docket UGB 1-85                                                       -2-
+
+                                                                                                                     FILH       4?   nee   2147
+Factor        5:     (Environmental,              energy,        economic     and     social        service       conse-
+                      quences).
+
+Inclusion of the subject property within the UGB results in a relatively
+minor expansion of an area that is designated for limited light industrial
+use and that remains separated from potentially incompatible uses by the
+natural buffer of the South Yamhill River and Floodplain.    As such, the
+environmental,  energy, economic and social services consequences from
+developing the site are expected to be the same as the consequences which
+would       result     from   developing            the     existing        limited        light        industrial       area
+on    the     abutting      property        to     the    North.
+
+Factor        6:     (Retention       of    agricultural            land     as     defined,        with    Class     I being
+                     the    highest        priority         for    retention         and    Class        IV being     the
+                     lowest    priority).
+
+The site is composed of lands that are predominantly Class II soils,
+similar to adjacent industrial lands and other industrial lands within
+the    UGB.
+
+Factor        7:     (Compatibility          of     the     proposed        urban     uses     with       other     adjacent
+                      uses).
+
+The site abuts the existing UGB and urban lands zoned for limited light
+industrial use.   The lands in the UGB and outside of the UGB are predo-
+minantly in agricultural use at present and are to remain so until
+developed for industrial use.
+
+Factor        8:     (Demonstration that there are no alternative                                       locations within
+                      the area which could better be used for the                                       proposed uses).
+
+Throughout the application,  the alternative lands question is addressed.
+In particular,  the subject property will provide for an expansion of one
+of the few limited light industrial areas of the City without removing
+existing City lands from a medium and heavy industrial designation and
+without necessitating the extension of public services.
+
+                               YAMHILL           COUNTY         REVISED     GOALS     & POLICIES
+
+1.     URBAN       AREA    DEVELOPMENT           Goals      &    Policies
+
+       a.      To encourage the containment of growth within existing urban
+               centers, provide for the orderly, staged, diversified and
+               compatible development of all of the cities in Yamhill County,
+               and assure      an     efficient           transition         from     rural        to    urban    land
+               use.
+Exhibit "B"
+Docket UGB 1-85                                                          -3-                                       FIL      A?      ge     2148
+
+       b.      Yamhill County will recognize the lands within                                           established
+               urban growth boundaries as the appropriate and                                           desired
+               location for urban development.
+
+       c.      To encourage the containment of urban services and facili-
+               ties and other public capital improvements within existing
+               urbanizing areas in order to achieve an orderly pattern of
+               urban growth.
+
+The    above         goals     and       policies        provide         that    lands    within        the    established               UGB
+are recognized as the appropriate location for urban development; however,
+the proposal is to increase the area of the existing UGB to accommodate an
+additional 63 acres of limited light industrial land.   Although approval
+of the proposal appears to be inconsistent with the above policies and UGB
+amendments should not be routinely made, the Urban Area Management Agreement
+provides for UGB amendments in certain circumstances.   The Management Agree-
+ment        recognizes         that        some    flexibility            is    needed    with        regard       to     the     UGB.
+
+The    applicant has addressed                          the     criteria        for    a UGB     amendment           as     set    forth       in
+the    Management Agreement.
+
+Further,  as noted previously, it appears that the Urban Growth Boundary in
+this area of the City, should have followed the natural boundary of the
+South Yamhill River or the 100 year floodplain boundary.   This property is
+a logical extension of the existing limited light industrial area to the
+North and it will be subject to the same PUD overlay provisions of other
+properties along Three-Mile Lane.   The property has urban services provi-
+ded to it and will provide the City with a potentially more desirable light
+industrial            site     in    terms        of    size.
+
+2.     CITY     GROWTH       AND         DEVELOPMENT            POLICIES
+
+       a.      The     designated            PUD       Area     (along     Three-Mile          Lane     in McMinnville)
+               will be retained for the time being in its present agricultural
+               and limited commercial, industrial and public uses and be desig-
+               nated for the uses shown on the Plan Map, and the area will be
+               developed            in    accordance          with       the    general    policies           of     this       Plan
+               and the following principles                          set out in the recommendations                                of
+               the City and County Planning                          Commissions relative to Three-
+               Mile Lane land-use policy:
+
+               i)      both Yamhill County and the City of McMinnville recog-
+                       nize that residential,  commercial and industrial de-
+                       velopment along Three-Mile Lane is desirable if it is
+                       of good quality and design.    Further, such development
+                       should be staged in accordance with need and be compa-
+                       tible        with     the       traffic-carrying               function     of    Three-Mile
+                       Lane, and the design capacity of the sewer and water
+                       service extensions into the area.   Therefore, both
+:Exhibit    'B"    ;                                            7
+ ocket UGB 1-85
+                                                                                                           rin   42 ree2149
+                   governing bodies will consider applications for zone
+                   changes to property within their jurisdiction pro-
+                   vided      that     the   planned-unit             development        concept     is
+                   utilized.
+
+           ii)     both      Yamhill     County       and     the     City    of   McMinnville       will
+                   look      favorably       upon     mixed      urban       development     projects;
+                   that is, that integrated designs for                              commercial,
+                   industrial and residential uses will                              be encouraged.
+
+          iii)     both      Yamhill     County       and   the       City    of   McMinnville,       in
+                   considering          applications            for    zone    changes,     will     place
+                   heavy      emphasis       upon:
+
+                   --the minimization of entrances onto Three-Mile Lane;
+                   --the development of on-site circulation systems;
+                   --the provision of deep setbacks, landscaping, buffer
+                      strips,  sign controls, and the setting of an ade-
+                      quate setback line from the existing right-of-way
+                      line.
+                   --the provision of service roads and acceleration
+                      and deceleration lanes and left-turn refuges when
+                      and where necessary and practicable.
+
+     b.     The City of McMinnville will adopt an annexation policy and urban
+            service policy which would qualify properties for annexation and
+            the extension of urban services based on applicable statewide
+            goals and the applicable policies in the McMinnville Comprehen-
+            sive Plan.   In the case of Three-Mile Lane, annexation and exten-
+            sion of urban services will include, but not be limited to, the
+            following considerations:
+
+            --the location and area of the land                              to be     annexed     shall
+              be defined as the boundary of the                              sewer     service     area
+                 east   to    County     Roads       92   and    464    and    areas     approximately
+               1500 feet north of Three-Mile Lane and approximately
+               1200 feet south of the Lane;
+            --the present and proposed use of the land to be annexed;
+            --the availability of, and current service policies con-
+               cerning access, water supply and sewerage; and
+            --the need to annex the land to the City.
+
+As pointed out in the application,   approval of the requested amendment will
+provide for additional light industrial land in an area that is recognized
+as a desirable location for industrial uses.     The site will be subject to
+the same design standards,  etc.   Additionally,  the property will be subject
+to the PUD overlay for the area and, therefore, will be retained in agri-
+cultural production until developed for industrial purposes.
+Exhibit     "B"
+Docket    UGB        1-85                                         -5-                         FILM     4?   nee   2.150
+
+Amendment       of      the    UGB    to    include        the   subject   property   will   be   in   conflict
+with the specific                  annexation policy noted above, in that the property is
+located more than                  1200 feet south of Three-Mile Lane, outside of the sewer
+service area.
+                                                        ,
+
+3.   INDUSTRIAL             DEVELOPMENT            GOAL
+
+     To concentrate industries of similar types, service needs,
+                                                                 and
+     performance characteristics within designated areas of each
+                                                                  of
+     the existing urban centers; to encourage adequate land for new
+     industrial development                        within urban growth boundaries; to en-
+     courage the relocation                        of existing industries from undesirable
+     locations in order to eliminate land-use conflicts;  to attract
+     new industries in accordance with the need to achieve a
+                                                              more
+     balanced local property tax and employment base, while main-
+     taining a high standard of environmental quality; and to pro-
+     tect the stability and functional aspect of industrial areas
+     by protecting them from incompatible uses.
+
+Inclusion of the 63 acre subject property within the UGB for light industrial
+purposes will provide the City with a light industrial site that is considered
+more desirable than existing sites in terms of size.   The abutting property
+has already been designated for industrial use and addition of the property
+would assist in providing adequate land for new industrial development within
+the UGB.
+
+4,   AGRICULTURAL             LANDS        GOALS     AND   POLICIES
+
+     a.   To conserve Yamhill County's farm lands for the production
+          of crops and livestock and to ensure that the conversion
+          of farm land to urban use where necessary and appropriate
+          occurs in an orderly and economical manner.
+
+     b.   To conserve Yamhill County's soil resources in a manner
+          reflecting their suitability for forestry,  agriculture
+          and urban development and their sustained use for the
+          purposes designated on the County plan map.
+
+     c.   Yamhill County will continue to preserve those areas
+          for farm use which exhibit Class I through IV soils
+          as identified in the Capability Classification System
+          of      the       U.S.     Soil    Conservation         Service.
+
+Approval of the requested amendment would remove land for agricultural produc-
+tion to provide for industrial development.   However, under the provisions of
+the PUD overlay for the Three-Mile Lane area, the property is to remain in
+agricultural production until developed for industrial purposes.
+SNMLILO SIO7 OW NHOPH%   JONAS    ASYYGMOG
+     oy          FLIMOLS   NVI?      INTIS.
+  Toye! &       WOZ      NOMLWINNY    GWzSOs0LIS
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 95.2% of
+the word sequence, and on 77.7% of the figures. Dictionary-recognizable words: 93.6%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

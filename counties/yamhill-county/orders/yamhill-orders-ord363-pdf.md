@@ -1,0 +1,253 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord363-pdf
+title: 'ORD363-PDF'
+doc_type: ordinance
+citation: 'ORD363-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17752/ORD363-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 4d596c3548dcf59c2fedc4bf2ccedf887feedc4f23d2d5a6a342c1b9f65f0c1d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.955; figure agreement 0.792; dictionary ratio 0.930. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 95%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD363-PDF (ORD363-PDF)
+
+## At a glance
+
+OCR-derived text of ORD363-PDF. Not human-verified.
+
+## Full text
+
+cer
+              IN        THE        BOARD             OF      COUNTY           COMMISSIONERS                 FOR           THE     STATE           OF     &          AY    ORES!
+                                                                                                                                            YAMBILL GOUT
+                                                     FOR THE             COUNTY           OF YAMHILL                                           ogy JAN 10 PH 35 :
+     $3-      567
+                SITTING                     FOR THE                TRANSACTION                 OF COUNTY              BUSINESS                    CHARLES STERN
+                                                                                                                                                          ARL       :     cot
+                                                                                                                                                       COUNT            cLEnS
+
+In    the     Matter               of       an       Ordinance                                                                               ee
+to Authorize  an   Amendment to
+the Yamhill County Comprehen-
+sive Plan Map, Ordinance No.                                                                   ORDINANCE              NO.          263
+62,  1974, Requested by Bud
+and     Jim       Miller,               Docket               No.
+PA-131-83
+
+           THE        BOARD            OF     COMMISSIONERS                        OF     YAMHILL          ,COUNTY,              OREGON           (the        Board)
+on    the     23rd           day        of       November,                   1983,        sat        for   the        transaction                  of        County
+business              in     special                 session,                Commissioners                 Robin            J.    Hamblet,               Dave
+Bishop        and          Ted         Lopuszynski                      being        present.                                           8
+
+    WHEREAS,   Section 6 of Ordinance No.  62,  1974, provides that an
+application    for an amendment to the Yamhill County Comprehensive    Plan
+Map shall    first be referred to the Yamhill County Planning Commis-
+sion and the Planning Commission     shall recommend  approval or denial
+of such application    to the Board of Commissioners;   and
+
+   WHEREAS,  Bud and Jim Miller,   in Docket No.  PA-131-83   have applied
+to the Yamhill County Department of Planning and Development       for an
+amendment to the Yamhill County Comprehensive     Plan Map to change the
+existing Plan Map designation    on Tax Lot 2315-5700    from "Agriculture/
+Forestry Large Holding"  to "Agriculture/Forestry     Small Holding";   and
+
+      WHEREAS,               on        the          6th      day        of    October,           1983,        the           Yamhill          County            Plan-
+ning Commission                         considered said application                                          in       a     public          hearing            and
+voted 5 to 4 to                         deny said amendment;  and
+
+      WHEREAS,               the        Board               considered               in    a    public        hearing              the           application
+on    the        2nd,        9th,            and       23rd         days       of       November,            1983,           and    voted              on     Novem-
+ber 23,  1983,  to approve  said application, based upon the                                                                                      findings
+attached hereto   as "Exhibit A" and incorporated herein by                                                                                       this refer-
+ence;       and
+
+      NOW     THEREFORE,                      BASED              UPON        AND     FOR       THE     REASONS              SET    FORTH           in        the
+attached              Findings
+
+    IT IS HEREBY ORDAINED THAT the Comprehensive Plan Map of Yamhill
+County be and hereby   is amended to change the Plan designation   on
+Tax Lot 2315-5700  from "Agriculture/Forestry    Large Holding" to "Agri-
+culture/Forestry  Small Holding",   as is designated on the sketch plan
+attached hereto as "Exhibit B".                             4
+
+    THIS Ordinance    being necessary   for the health,   safety and welfare
+of the citizens    of Yamhill  County,   and an emergency having been de-
+clared to exist,     shall be effective    immediately upon passage hereof.
+
+      DONE        this           23rd         day           of     November,              1983        at   McMinnville,                     Oregon.
+
+ATTEST:                            penne      hag                                                                                                            SIONERS
+                                   BOARD             gota
+CHARLES           cot              ©             ae aa
+                                                                                                                                 OBIN       J.     HAMBLET
+
+                                                                                                                                                       Date:       /-H#, If
+                                                                                          se                  AL                  en. 2
+                           I NEN                                                   Commissioner                              DAVE       BISHOP
+APPROVED              By Bihg FO                                                           Tot                    2                               . Date Gan G laees
+ ve Vb. Z        we
+
+      “JOHN M.             GRAY, eS                         ay                      Commissioner“                           Gp          LOPUSZYNSKI
+ ee                              Count                             el                                                                                  Date: Jam                0%
+
+orpiInance no.                          362
+                                        af
+                                 ORDINANCES         363   &   364
+                                     Exhibit        "A"
+
+                PROPOSED         FINDINGS      -    DOCKET      PA-131-83/2Z-244-83
+
+The Board of Commissioners    adopts the Plan Amendment/Zone        Change
+application report,    dated August  10,   1983 and labeled Exhibit      "A"
+as findings  of fact and conclusionary      findings    for approval of
+the requested plan amendment/zone      change on Tax Lot 2315-5700
+from "AFLH"  and AF-20 to "AFSH"    and AF-10.      In particular   the
+Board recognizes   those conclusionary     findings    set forth on pages
+13 through 29 of the report as addressing the criteria necessary
+for approval of a plan amendment/zone       change request.
+
+The Board of Commissioners       finds that commercial       agricultural    and
+timber production     are precluded on the subject property and that
+the property    is best suited for rural residential development             in
+conjunction with small-scale        farm or forestry activities,       due to
+existing development patterns on surrounding           lands and to extreme
+topographic   limitations    on the subject property.         Parcels   abutting
+the subject property on 3 sides are generally           5 acres in size,       are
+committedto   rural residential      development   and are plan designated
+"Very Low Density Residential"         and zoned VLDR-5    by Yamhill County.
+This existing residential       development    and planned    residential    de-
+velopment   located   in such close proximity to and on 3 sides of
+the subject property      interferes with those practices normally
+associated with commercial       timber and farm management        activities.
+Likewise,           practices       normally        associated         with   farm    and     forest    use
+interfere with             the     common     activities            associated     with     residential
+development.
+
+The    Board        further       finds     that    lands     in     Washington      County     and    located
+as    near     as    1/4   mile     north     and     northeast        of   the   subject      property
+are predominantly   zoned for 5 and 10 acre parcel   sizes.  This area
+of Washington  County has been recognized   as being unsuitable   for
+agricultural  and forestry uses and is best suited for rural resi-
+dential development   and small-scale  farm and forestry uses of the
+type and scale proposed   for the subject property.
+
+County Policy     I.B.2a.  of the Revised Goals and Policies,      Yamhill
+County Comprehensive      Plan provides   that the County will continue
+to recognize     that the appropriate    location of rural residential
+development    is in "areas having unique      scenic,  locational  and other
+suitable   site qualities where the anticipated magnitude or density
+of development      is not such as to require more than a very basic
+level of services."       The Board finds that the subject property has
+unique   scenic and locational qualities       that warrant recognition of
+the property as an appropriate       location   for very low density resi-
+dential development.       Specifically,   the Board finds that the sub-
+                                                              ORDINANCES            363    &        364
+PROPOSED FINDINGS                                                 Exhibit           "A",       p.         2
+PA-131-83/2-244-83
+Page    2
+
+       ject site is bounded on 3 sides by existing       5 acre, rural resi-
+       dential parcels  that have been excepted     from applicable    resource
+       goals and further that the site offers magnificent,        unobstructed
+       views of the Tualatin Valley to the northeast.         The proposed land
+       use action will allow lower density residential        development   than
+       now exists on adjacent residential    lands,    thereby providing    for
+       a mixture of housing types to utilize     and derive enjoyment      from
+       the stunning and unique   scenic resource    afforded from Bald Peak,
+       the highest point in the Chehalem Mountains.
+
+       The Board recognizes     that a goal of the Comprehensive Plan is to
+       preserve   lands  for commercial   farm and forestry uses and finds
+       that approval of this request will not be inconsistent with that
+       goal.    Specifically the Board finds that the subject'property
+       is unique   from lands   to the south that are plan designated   "AFLH"
+       and zoned AF-20    in that the subject property is bordered on 3
+       sides by lands that have been excepted and that are presently
+       developed     to    rural    residential        densities.          Lands          directly            to   the
+       south that are currently  zoned AF-20   are only bordered on one
+       side by rural residential  development;    on other sides they are
+       bordered by AF-20  zoned lands and Bald Peak State Park.
+
+       The Board    further   finds that approval of the plan amendment/zone
+       change request on the subject property will create a transition
+       area between those      lands to the north that are residentially
+       oriented and those      lands to the south that are agricultural.       The
+       proposed    "AFSH"  plan designation and AF-10     zoning district are
+       recognized    as areas that encourage     small-scale   farm/forestry  acti-
+       vities   and provide    opportunities  for extremely    low density resi-
+       dential     development       and,    thus,     help     serve     as    a    buffer           between
+       higher    density     residential       areas     and     larger        scale       farm/forest
+       areas.      The    Board    finds    that     applying     such     a    plan       designation              and
+       zoning to the subject property will not only put the property to
+       a better,   more practical use but will also provide a transition
+       area that will allow for more unencumbered use of the surrounding
+       residential    area and those commercial farm/forest lands to the
+       south of the subject property.
+                                SKETCH       PLAN     FOR        COMPREHENSIVE              PLAN   AMENDMENT
+                                                                 EXHIBIT "B"
+
+                          TO     CHANGE        THE    COMPREHENSIVE                  PLAN    MAP   DESIGNATION
+                                  FROM “Agriculture/Forestry Large Holding"
+                                   TO "Agriculture/Forestry Small Holding"
+                               SKETCH     PLAN       FOR        OFFICIAL           ZONING    MAP   AMENDMENT
+
+                                        TO     CHANGE           THE OFFICIAL ZONING                MAP
+                                                 FROM           "AF-20" TO "AF-10"
+
+                          Applicant:                  Bud        &     Jim     Miller
+                          Address:                    8545   S.W.   Beaverton                  Hillsdale       Hwy.
+                                                      Portland,   OR 97225
+                          Phone:                      292-6647
+                          Tax     Lot    No.:         2315-5700
+                          Docket        No.:          PA~131/Z-244-83
+
+ 2315     -5700
+           78.@    Ade
+
+Changes
+            IN
+           Apply     to    shaded        portion           of        Tax     Lot   2315-5700
+
+Sketch    prepared        by    yamhill        County           Department           of     Planning     and   Development
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 95.5% of
+the word sequence, and on 79.2% of the figures. Dictionary-recognizable words: 93.0%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

@@ -1,0 +1,586 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/yamhill-county
+id: yamhill-orders-ord397-pdf
+title: 'ORD397-PDF'
+doc_type: ordinance
+citation: 'ORD397-PDF'
+authority_level: county_ordinance
+issuing_body: 'Yamhill County Board of Commissioners'
+source_url: https://www.yamhillcounty.gov/DocumentCenter/View/17737/ORD397-PDF
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 135869a505c424c5adabd708e1bd13f1868eb3f1110ca310e1109244af993470
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.972; figure agreement 0.727; dictionary ratio 0.949. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.213
+    - ORS 471.223
+  related: []
+  supersedes: []
+tags: [yamhill-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 97%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# ORD397-PDF (ORD397-PDF)
+
+## At a glance
+
+OCR-derived text of ORD397-PDF. Not human-verified.
+
+## Full text
+
+v4-     753                      FOR     THE       COUNTY        OF    YAMHILL
+
+          SITTING            FOR    THE       TRANSACTION               OF           COUNTY    BUSINESS
+
+In the Matter of an                       Ordinance Amending
+
+                                                                                                SYS YS
+the Official  Zoning                      Map of Yamhill County
+Zoning        Ordinance,            No.       310,     1982,           to    Change
+
+                                                                                                HS YS
+the Zoning Map Designation      on a One Acre
+Portion of a Ten Acre Parcel        in an Area                                                            ORDINANCE           No.         297
+
+                                                                                                HS
+Designated    "Agriculture/Forestry       Small
+
+                                                                                                HS
+Holding"   on the Comprehensive       Plan Map,
+
+                                                                                                HS
+and Presently     Zoned "AF-10"   to "RI",      Said
+
+                                                                                                HS
+Property Being Known as a Portion of Tax
+
+                                                                                                eS
+3326-903,    Applicants  John S. Paul and
+
+                                                                                                wwe
+Eugenia Paul Waterhouse
+
+         THE    BOARD         OF    COMMISSIONERS                  OF       YAMHILL           COUNTY,               OREGON         (the
+Board)  on the 12th day of December,     1984,  sat                                                      for the trans-
+action of County business    in special   session,                                                       Commissioners
+David E. Bishop,   Ted Lopuszynski   and Robin J.                                                        Hamblet being
+present.
+
+      WHEREAS,   the applicants above-mentioned have requested
+a change   in the Official    Zoning Map of the Yamhill County Zoning
+Ordinance,   No.   310, 1982,  on a one acre portion of a ten acre
+parcel        known     as        Tax     Lot       3326-903,           to           "RI"    from         "AF-10";           and
+
+         WHEREAS,            on    the       4th     day    of     October,                 1984,         a    public        hear-
+ing was held before the Planning Commission of Yamhill                                                                     County,
+and the Planning Commission voted unanimously to grant                                                                     the
+approval;  and
+
+      WHEREAS, the approval granted by the Planning                                                                 Commission
+was appealed to the Board of Commissioners   and the                                                                Board held
+a public hearing on the 5th day of December,    1984;                                                               and
+
+     WHEREAS,  the Board received testimony and heard arguments
+at said hearing:  NOW THEREFORE,  based upon and for the reasons
+set forth in the attached conclusionary    findings for approval,
+identified  in Exhibit  "A" and incorporated herein by this
+reference,
+
+         IT    IS     HEREBY        ORDAINED           BY        THE    BOARD:
+
+      Section    1. The Official    Zoning Map of the Yamhill County
+Zoning Ordinance,      No. 310,  1982,   be and hereby   is amended to
+designate   the zoning on a one acre portion of Tax Lot 3326-
+903 as "RI"    on said one acre portion,       said parcel  set forth
+in the sketch map labeled Exhibit          "B" and incorporated herein
+by this reference.
+
+         Section        2.         This       Ordinance            being             necessary                for    the   health,
+safety        and   welfare             of    the     citizens              of       Yamhill             County,       and     an
+
+BOARD     ORDINANCE               NO.        397             -    Page           l
+emergency having been               declared        to   exist,      shall    be    effective
+upon passage hereof.
+
+      DONE    this      12th   day       of   December,      1984,     at    McMinnville,
+Oregon.
+
+ATTEST:                                              YAMHILL      COUNTY      BOARD     OF   COMMISSIONERS
+
+                       penta,
+
+CHARLES     strat SOON? Get,                                                                    fO
+County     Clef                                      Chairman                 DAVID E.       BYSHOP
+                                                                              Date:     “pée    -/ 2,   (FEL
+
+Bente        cing        ; Fay Le]                   rant                     TED     LOPUSZYNSKI
+                           -
+                           noe
+                        teen                                                  Date:     Jee /2 | 19st
+                  xy            4
+APPROVED     A Ly, bau, Bs
+ Sy     2    fl                      >                    (not available for signature)
+DARYL/S. GARRETTSON                                  Commissioner      ROBIN J. HAMBLET
+Coupty     Counsel
+                                                                              Date:
+
+ORDINANCE     NO.          377                -   Page   2
+                                             EXHIBIT           "A"
+
+                                          FINDINGS       FOR     APPROVAL
+
+Ls   The proposal   is consistent with those industrial    lands
+     policies  regarding proximity to agricultural    resources
+     in that the proposed winery would process    grapes grown
+     on the subject property and would process    grapes grown
+     on some of the existing    small vineyards within the Dun-
+     dee Hills  area.
+
+Bs   In    that     the     one   acre       site       of   the      proposed           RI    zone     is
+     located        on    Class       VI    agricultural              soils,        in    an    unculti-
+     vated       area     of   the        property       and     on       land    that        has     been
+     excepted        from      resource           goals,        the       request        would        not    be
+     inconsistent with County policies                                    regarding           the     preser-
+     vation  of agricultural lands.
+
+3.   In that the proposed winery would facilitate proposed
+     and existing agricultural  production within the County
+      (i-.e.,      vineyards),             the    use    would        be    consistent              with     the
+     overall  agricultural character                             of       the    County and with
+     the overall  intent and purpose                             of       the    Comprehensive Plan.
+
+4,   Approval   of the request would assist in maintaining       an
+     appropriate   rate and pattern of economic   growth consis-
+     tent with the agricultural    character of the County by
+     complimenting vineyard production proposed      for the parcel
+     and vineyard production    throughout  the County.     Further,
+     the proposal would expand on an existing      industry   in the
+     County and would assist in furthering related economic
+     activities   associated with the wine industry such as
+     tourism.
+
+Ba   Approval    of the requested   zone change would be in the
+     public interest     and would serve a need in that the proposed
+     winery would facilitate      further agricultural production
+     within   the County and would enhance the reputation of an
+     increasingly    popular and economically viable Yamhill County
+     industry.
+
+     The record indicates     that existing area vineyard growers
+     are in support of the zone change to facilitate         develop-
+     ment of the proposed winery      in order for the grower to
+     have needed   local outlets   for processing of their grapes.
+     It has been noted by local growers        that an increasing
+     amount of vineyards     have been planted in Yamhill     County
+     and there are not enough wineries       in the area to process
+     local grapes.     The Board finds that approval of the re-
+     quested  zone change will provide      local vineyard owners
+     with a needed,    additional winery to purchase     and process
+     their        grapes,      and,        therefore,           the       zone    change         is    in    the
+     public interest and                    will assist              in    satisfying           an     existing
+     need of local grape                    growers.
+
+EXHIBIT    "A"
+
+FINDINGS     FOR    APPROVAL          -    Page     l
+      The requested    zone change is timely considering the
+      proposed planting of a five       (5) acre vineyard on the
+      subject property and the continued expansion          of grape
+      production   throughout    the County,   particularly    in the
+      Dundee Hills area.      Further,   the proposed winery would
+      be dependent upon on-site utilities        and services and
+      would not necessitate      expansion   of public   services.
+      Additionally,    development of the winery       is subject to
+      County site design     review requirements     and therefore,
+      impacts   of the winery on existing adjacent uses can be
+      minimized   through siting and design controls.
+
+      Although   there are other RI zoned lands       in the County,
+      they are essentially developed or committed          to develop-
+      ment and it is beneficial      from a production and economic
+      standpoint    to locate a winery near the vineyard.          Fur-
+      ther,  the intended use of the property       as a winery falls
+      within the definition      of farm use as set forth in the
+      Zoning Ordinance     in that the operation    of the proposed
+      winery would include the preparation,       storage     and mar-
+      keting of grapes grown on the site       and,     therefore,    the
+      requested   zone change from AF-10    to RI would be a rela-
+      tively minor change     from the existing rural residential/
+      agricultural    land use pattern in the area and the land
+      uses planned    for the area.
+
+      The Board interprets       the term winery,     as used in the
+      Zoning Ordinance     to include an on-premise         tasting room
+      and the retail sale of wine.         This interpretation         is
+      based in part on the fact that the majority of wineries
+      currently   operating    in Yamhill    County have a wine tasting
+      room or area on the premises        and the majority of existing
+      wineries  in the County currently        offer wine on sale at
+      retail directly    to the consumer.        Additionally,      ORS
+      471.223 provides     that a winery     license    issued by the Ore-
+      gon Ligour Control Commission        allows    the licensee       "to
+      sell wines at retail directly to the consumer              for con-
+      sumption on or off the licensed premises."
+
+      The County's   acknowledged Comprehensive      Plan recognizes
+      the need to locate agricultural-based        processing     facili-
+      ties close to the resources utilized.         Further,    it is
+      County policy that RI zoned properties        are to be located
+      in areas plan designated     agricultural.     The Board finds
+      that the subject property    is plan designated      "Agriculture/
+      Forestry Small Holding"    and that within this designation
+      there are no limitations     placed on farm uses of the
+      scale,  type and performance     characteristics     commonly    found
+      in the "Agriculture/Forestry Large Holding"          designation,
+      and therefore,   the proposed RI zone and winery agricul-
+      tural plan designation    fall within     and     are appropriate
+      to further   agricultural  production within the County.
+
+10.   The Board  finds that the impact on adjoining property may
+      be minimized   through a site design review process and di-
+      rects  the staff to impose the following conditions  during
+      site design review:
+
+      (a)    Applicant   shall prepare a landscape plan to provide
+             substantial    buffering of the proposed building      and
+             parking area from the Cook residence;       the landscaping
+             of the entire    site;  and shall provide,   along with the
+             plan,  an implementation    schedule.  Further,   the plan
+             shall provide    for plant materials   of a sufficient
+             size,  type and maturity to achieve the desired effect
+             within   a period of time determined by the Planning
+             Director.
+
+EXHIBIT     "A"
+
+FINDINGS     FOR   APPROVAL   -   Page   2
+      (b)    Applicant  shall    submit a parking and traffic cir-
+             culation plan implementation      schedule.    The Plan-
+             ning Director    shall review said plan to determine
+             its impact on the Cook's     residence.     The Planning
+             Director may limit the parking      spaces and/or park-
+             ing area for the proposed site in a manner consis-
+             tent with the applicant's     representation    at the
+             Board of Commissioners hearing.
+
+      (c)    The Director of the Department   of Planning and
+             Development shall notify the Cooks    of the submis-
+             sion of the plans and other aspects of site design
+             review and allow the Cooks an opportunity    to express
+             their concerns,  desires and wishes  regarding those
+             plans.
+
+            wan
+EXHIBIT
+
+FINDINGS     FOR   APPROVAL   -   Page   3
+                                                                                                                            oyby f
+                                                                                                                        8 y a WED
+                                                                                                                            (af,            Ly
+
+             BEFORE        THE BOARD OF COMMISSIONERS                             OF THE STATE               OF OREGON’ 25                             o
+                                                                                                                      Cora                     At
+                                        FOR THE        COUNTY          OF YAMHILL                           See             uy            Fy       ”   Ap
+                                                                                                                  ~                     "07 (Spe
+                   SITTING        FOR THE TRANSACTION                       OF COUNTY          BUSINESS                ~\_                 ae
+In   the Matter of the Adoption                             )
+of   Supplemental Findings  for                             )
+Speeepaeaedllde Relating                  to    San         )
+   cente Winery                                             )
+
+        THE    BOARD,       DF,    COMMISSIONERS                OF   YAMHILL        COUNTY,           OREGON           (the
+Board)   on the @th day of May,   1985, sat for the transaction of
+County business    in special session,  Commissioners Ted Lopuszyn-
+ski,   Donald D. Porter and David E. Bishop being present.
+
+        IT    APPEARING           TO    THE    BOARD     that          on    December          12,        1984,        the
+Board enacted Ordinance  397 to change the zone designation of a
+one acre parcel of Tax Lot 3326-903   from AF-10 to RI to permit
+the construction of a winery to be known as San Vicente Winery;
+and
+
+        IT FURTHER APPEARING TO THE BOARD that the enactment of
+Ordinance    397 was appealed to the Land Use Board of Appeals
+ (LUBA)   resulting in LUBA's Final Opinion and Order dated April
+3, 1985,    which remanded the proceeding to the Board   "for adop-
+tion of findings     showing compliance with the requirement  in OAR
+660-04-018          that     a    new    exception              to   Goal     3    be       taken     or,        in    the
+alternative,          why         the    conditions              stated       in    the       rule        will        not
+occur,";       and
+
+        IT    FURTHER        APPEARING          TO    THE        BOARD       that       a    public        meeting                 of
+the Board was duly advertised  and scheduled                                            for April   25,   1985
+at 10:00 a.m.  for the purpose of discussion                                            of findings     to be
+adopted in order to supplement the findings                                             for Ordinance     397
+to   show     why    an    additional           exception              to    Statewide             Planning            Goal
+3 is not       required by              OAR 660-04-018 because the zone change   from
+AF-10 to       RI will not              result in substantial  impacts upon adjacent
+property       owners;  and
+
+        IT    FURTHER        APPEARING          TO    THE        BOARD       that       the    matter         was       con-
+tined    in open session                 from    April           25,     1985,      to       May     8,     1985       at
+10:00    a.m.;  and
+
+        IT    FURTHER        APPEARING          TO    THE        BOARD,       and       the    Board         finding,
+that based upon the Supplemental    Findings   for Approval of Ordi-
+nance 397,  attached hereto as Exhibit    "A" and incorporated here-
+in by this reference,    that no new exception    to Goal 3 is required
+by OAR 660-04-018   because the impacts upon adjacent property
+owners created by the zone change approved in Ordinance        397 are
+not substantial within the meaning of OAR 660-04-018;       NOW THERE-
+FORE,
+
+        IT    IS    HEREBY        ORDERED       BY    THE        BOARD       that       the    attached               Exhibit
+"A" entitled  "Supplemental  Findings  for Approval of                                                    Ordinance   397"
+be and hereby  is adopted to supplement the original                                                      findings  in
+support of Ordinance   397, pursuant to the direction                                                     of the Land
+Use Board of Appeals.
+
+BOARD ORDER NO. $5-3IS - Page 1
+        IT IS FURTHER ORDERED           BY THE    BOARD that       Ordinance         397
+shall     be in full force and          effect    subject to       appeal of         this
+order     as provided by law.
+                                                         220°
+        DONE     at    McMinnville,    Oregon,    this   &th    day   of    May,        1985.
+
+ATTEST:                                  YAMHILL    COUNTY      BOARD      OF COMMISSIONERS
+
+CHARLES, SPR EM 44,                              Ted      Lopeoypcole
+Count     ye             my              Chairman               UrpED GOPUSZYNSKI
+           aes                                                                           22     1965
+
+                                         COMMISSIONER            DONALD     D.     PORTER
+                                                                 Date:       22)           FS
+                                                                             /,      0
+                                          “Wess
+                                         Commissioner
+                                                       (2
+                                              DAVID E. BISHOP
+ OHN\M.        GRAY,
+Assistant        Coun         unsel                              Date:      wt«<<-        22,   195    __
+                                                                                    Y
+
+ BOARD ORDER            %5-3!'5       - page 2
+                                               EXHIBIT       "A"
+
+             SUPPLEMENTAL              FINDINGS       FOR    APPROVAL        OF    ORDINANCE    397
+
+Purpose
+
+These Supplemental   Findings    are adopted by the Board based upon
+evidence contained   in the record of these proceedings         at the
+County levél  in Docket    Z-261-84. . Their purpose    is to supple-
+ment the Findings   for Approval of Ordinance      397, December    12,
+1984, which changed the zone designation of a one acre parcel
+of Tax Lot 3326-903    from AF-10   to RI to allow construction of
+a winery to process grapes grown on and off the premises and to
+allow on-site marketing of wine through wine tasting and retail
+sale.   These Supplemental Findings      are adopted in accordance
+with the Final Opinion and Order of the Land Use Board of Ap-
+peals  (LUBA) in Cook v. Yamhill County,      LUBA No.    85-003,  which
+on   April     3,   1985,      remanded           Ordinance          397   to     Yamhill    County     to
+either  take a new Goal   3 exception to the subject property or
+to adopt additional   findings to demonstrate why a new exception
+is not required.    Because the Board finds that the uses per-
+mitted by Ordinance   397 on the subject property will not have
+a substantial  impact upon adjacent uses,     no new excepvtion is
+required under OAR 660-04-018.      In support of Ordinance    397 and
+the original Findings    therein and in accordance with the deci-
+sion of LUBA,  the Board finds as follows:
+
+1.  The Board finds that the proposed winery will not have a
+substantial  impact on adjacent lands zoned AF-10 for the follow-
+ing reasons:
+
+      a)   The proposed size of the winery    facility is 2,500   square
+      feet including the tasting room and storage area.       This size
+      is comparable to a dwelling which is a permitted use on sur-
+      rounding AF-10   zoned lands.   The physical plant itself will
+      not have a substantial    impact on adjacent uses.
+
+      b)   The estimated water usage of the winery is 100,000 gal-
+      lons per year.     According  to figures in the record, the
+      approximate water usage for a family of four is 110,000
+      gallons per year.     The proposed winery will have no more of
+      an impact on adjacent water uses than a single family dwell-
+      ing.    The usage of water by the winery will not have a sub-
+      stantial    impact on adjacent uses.
+
+      c)   A property           owner living adjacent to an existing County
+      winery that is            3 times larger than the proposed winery
+      testified that            living adjacent to Chateau Benoit Winery was
+      like     living       next        door    to    any    other     residential          neighbor.
+      Mrs.     Brenda       Botten,        who       has    lived     next      door   to   Chateau
+      Benoit for the past five years,     testified that the winery
+      is very quiet and is not disruptive to nearby neighbors.
+      Because  the proposed winery will be 3 times      smaller than
+      Chateau Benoit and because Chateau Benoit operates without
+      substantial  impact on adjacent uses,     the proposed winery
+      will not have a substantial    impact on adjacent properties
+      in terms of noise impacts   and disruption of lifestyles of
+      neighbors.
+
+EXHIBIT       "A"   -   Page       1
+
+             Board Order $5-3!5
+    d)   The projected capacity of the proposed winery is 100
+    tons of grapes per year,    which is smaller than several
+    existing Yamhill County wineries.       Further, the farm uses
+    permitted   in the AF-10 District do not restrict to a speci-
+    fied capacity the preparation,     storage and marketing of
+    farm products.    The purpose of the AF-10 District clearly
+    establishes   that "no limitations   shall be placed on farm
+    «--    uses        of   the        scale,      type          and    performance             characteris-
+    tics     commonly          found          in   the          ...    EF-40      and    AF-20         Districts."
+    Such     farm       uses      permitted             outright             in   an    AF-10         zone,     which
+    constitutes    the remainder of Tax Lot 3326-903      not zoned
+    RI,   includes dairies,    turkey   farms,  cattle operations,    hog
+    farms and other agricultural        operations which would clearly
+    create   substantial,   but permissable,     impact on adjacent
+    uses.    There are no limitations placed on AF-10        lands   sup-
+    porting accepted     farming practices.      A winery has been
+    determined to be an accepted        farming practice  and,   there-
+    fore,   the proposed winery will be consistent with the
+    predominant uses permitted        in the AF-10 District and will
+    not have a substantial      impact on other permitted uses in
+    the AF-10    District.
+
+    e)   The estimated capacity of the vineyard    is 100 tons of
+    grapes   from on and off the premises.   Evidence in the re-
+    cord establishes    that approximately 5 acres   (or 20 tons)
+    of    grapes        will      be     produced           on-site.              An    additional             15     to
+    20    acres        of   grapes        will        be    purchased             from        other     farm         lands
+    in    the     area,      amounting             to      12     to    15     flatbed         truck     loads         from
+    off-site per year.   The increase in traffic to the property
+    from trucks  importing grapes grown off-site will not have a
+    substantial  impact on adjacent uses.
+
+    £)   In an effort to reduce any potential            impacts of the pro-
+    posed winery on surrounding        land uses,     the development of
+    the winery   is subject to site design review.              Development
+    standards   imposed through the site design review process              in-
+    clude landscaping to buffer the 2,500 square foot winery and
+    parking area from adjacent uses,         limitations      on the number
+    and location of parking       spaces,   and requiring access to be
+    relocated away from adjacent property owners'               access to
+    lessen the potential      traffic   impact on adjacent properties.
+    In addition to the normal       site design review process          in the
+    Zoning Orginance,     the Board restates original Finding 10 and
+    reinforces   its intent that adjacent property owners be given
+    the opportunity    to fully participate        in the site design re-
+    view process.     Through this process,        the Planning Director
+    may limit the number of parking spaces at the proposed
+    winery.    Through this process,       traffic    at the winery will not
+    have a substantial      impact on adjacent uses.
+
+    The Board           finds that the proposed winery is a farm use as
+    that term           is used in both the AF-10 District and ORS chapter
+    215.   The          proposed winery will be compatible with surrounding
+    AF-10       lands       that        are     now     used          for    farm      use.      Farm         use,     as
+    permitted   in the AF-10 District,   includes  "the preparation,
+    storage and marketing of the products raised ‘on such land for
+    man's use".     The proposed winery is a farm facility that
+    specializes   in the prevaration,   storage and marketing of
+    grapes grown on farm land for man's use.       The County inter-
+    prets the term "such land"    to be those lands    in farm produc-
+
+EXHIBIT     "A"    -    Page       2
+
+                  Board Order ¥S~315
+    tion.    The County does not interpret the term "such land"
+    in such a narrow manner as to only include those farm
+    lands on a specific      site or property for the following
+    reasons.     Such an interpretation would severely       limit
+    agricultural     production   and also would severely limit the
+    preparation,     storage and marketing of farm crops.        If the
+    term "such land"      is interpreted   as being site specific
+    rather than inclusive of those lands         in farm production
+    and utilized for farm purposes,        farmers who lease land at
+    a variety of locations would be required to have prepara-
+    tion and storage      facilities  at each site,   rather than
+    having a common,      centralized   facility to handle the pre-
+    paration and storage needs of their properties.
+
+    A farmer whose crop fails    in any given year,     but who still
+    has expenses  involved in maintaining     a storage or crop
+    preparation  facility,  would be restricted     from purchasing
+    crops from other farm lands,    off-site.    Because the pro-
+    posed winery  and marketing of wine in the winery constitute
+    a farm use per se or a commercial     activity in conjunction
+    with    a    farm     use        in    the    alternative          (see    Finding         3)    the    use
+    of the property will not have a substantial        impact upon
+    adjacent uses distinct from that of any other AF-10 proverty.
+    Instead,    the impacts of the proposed winery will be far
+    less substantial      than other outright permitted AF-10 uses.
+    The fact that the proposed winery       intends to purchase grapes
+    from other     farmed properties  in the vicinity of the subject
+    property does not alter the use in such a way as to change
+    the intensity or types of uses that are allowed as a per-
+    mitted   farm use in AF-10 District.      The winery will still
+    process       grapes,            store       wine   and    sell     the    bottled         product;
+    all of which are                  in       line   with    the     farm    character         of    the
+    AF-10 District.
+
+    Alternatively,  if the proposed                            winery facility  is determined
+    to be a commercial  activity  in                           conjunction with farm use as
+    authorized           by    ORS        215.213(2)(c)         rather        than    a    permitted         farm
+    use as defined and allowed outright     in the AF-10 District,
+    the Board of Commissioners   finds that subjecting      the develop-
+    ment of the winery to the site design review process         ensures
+    that the use must meet reasonable     standards   imposed by the
+    County and does not permit the unrestricted allowance          of such
+    use.   Through the site design review procedure        conditions
+    dealing with the siting of the building,      parking   area and
+    access route will be imposed.     Further landscaping will be
+    required to screen the site from adjacent uses.         The County
+    finds that by requiring  such development     standards,    the use
+    is    not    allowed        in        an    unrestricted        manner      but       is   instead       made
+    more compatible with surrounding uses through  imposition of
+    the special development  standards of the site design process.
+    The site design review process will assure that conditions
+    will be imposed upon the applicant to minimize  and render  in-
+    substantial  any impacts on adjacent uses.
+
+    The Board finds that the opponents have not offered any re-
+    liable evidence to establish    that the proposed winery will
+    substantially  impact their use of the adjacent properties.
+    In light of that finding and the foregoing     findings, the
+    Board finds and concludes   that the new winery use will not
+    have a substantial   impact on adjacent uses.
+
+EXHIBIT    "A"    -     Page    3
+
+                        Board        Order       95-315
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.2% of
+the word sequence, and on 72.7% of the figures. Dictionary-recognizable words: 94.9%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

@@ -1,0 +1,347 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/curry-county
+id: curry-code-article-6-division-12
+title: 'Article 6 - Division 12'
+doc_type: ordinance
+citation: 'Article 6 - Division 12'
+authority_level: county_ordinance
+issuing_body: 'Curry County Board of Commissioners'
+source_url: https://www.currycountyor.gov/Article%206%20-%20Division%2012.pdf?t=202407101004170
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 6b4225189f7f036f07c25beabb249b33a15d08e961e3ea2fb4087a333c1f36b1
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.985; figure agreement 0.875; dictionary ratio 0.965. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 201.035
+    - ORS 203.010
+    - ORS 203.045
+    - ORS 34.100
+  related: []
+  supersedes: []
+tags: [curry-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Article 6 - Division 12 (Article 6 - Division 12)
+
+## At a glance
+
+OCR-derived text of Article 6 - Division 12. Not human-verified.
+
+## Full text
+
+FILED IN CURRY COUNTY                 CJ:2021-96
+                                                                    Renee’ Kolen, County Clerk == 02/24/2021 11:11:41 AM
+                                                                    Commissioners’ Journal                     7 PAGES
+
+                   BEFORE THE BOARD OF COUNTY COMMISSIONERS
+
+                      IN AND FOR THE COUNTY OF CURRY, OREGON
+
+In the Matter of an Ordinance)
+Amending Article Six, Division)                                         ;
+Twelve of the Curry County       )                 ORDINANCE NO.            2   | ~ O|
+Code, adding Noise Standards )
+And Prohibitions, Establishing _ )
+Penalties Declaring Emergency )
+
+        The Board of Commissioners for the County of Curry ordains as follows:
+
+SECTION ONE        TITLE
+
+       This Ordinance shall be known as Ordinance No. Z | ~ Ol an Ordinance amending the Curry
+County Code.
+
+SECTION TWO        FINDINGS
+
+        1)   The current Article Six, Division Twelve is reserved as Excessive Noise;
+        2)   The Curry County Board of Commissioners desires to adopt noise standards, prohibit
+             excessive noise, create exceptions, and establish penalties for violations.
+
+SECTION THREE        AMENDMENT
+
+        Article Six, Division Twelve of the Curry County Code concerning “Excessive Noise” is amended
+to add provisions included in the accompanying Exhibit A.
+
+{tl
+
+{tl
+
+Hl
+
+Mtl
+
+Mtl
+
+Hl
+
+M1
+
+1 | Ordinance Amending Article SIX, Division TWELVE       EXCESSIVE NOISE DISTURBANCES
+SECTION           FOUR   AUTHORITY and DECLARING    EMERGENCY
+
+         Pursuant to ORS 203.010, ORS 201.035, and ORS 203.045, the Board of Commissioners for the
+County of Curry deems this Ordinance necessary for the preservation and protection of the public, peace,
+health, safety and general welfare for Curry County and declares an emergency.
+
+                            +
+
+         DATED this [7 th         of   (¢          V, 2021.
+
+                                                        Curry County Board of Commissioners
+
+                                                          ourt Boice, Chair   <7   727/
+
+                                                        John Herzog, Vigd Ghair
+
+                                                 oS,
+                                                        Christopher S Paasch, Commissioner
+
+ “Alohy iv               Shs, ect
+Recording Secretary
+
+Approved as to F
+
+John     Hit l,
+Curry      Cpunty Counsel
+
+First Reading:   ts ~3- ZI
+Second Reading: 2 - /7-21
+Emergency Adoption   2-7-2]
+Effective Date:             -19-L
+
+2 | Ordinance Amending Article SIX, Division TWELVE     EXCESSIVE NOISE DISTURBANCES
+                                                 EXHIBIT A
+
+                                ARTICLE SIX — ENVIRONMENT AND HEALTH
+
+DIVISION TWELVE            EXCESSIVE NOISE NUISANCE
+
+SECTION 6.12.010           RESERVED
+
+SECTION 6.12.020           FINDINGS AND PROHIBITION
+
+A. The making and creating of loud, unnecessary or unusual noises within the boundaries of the county
+is a condition which has increased over time and has become detrimental to the health, comfort,
+convenience, safety, welfare and prosperity of the residents of the county in some areas.
+
+B. The necessity in the public interest for the provisions and prohibitions hereinafter declared contained
+and enacted are in pursuance of and for the purpose of securing and promoting the public health,
+comfort, convenience, safety, welfare and prosperity and the peace and quiet of the county and its
+inhabitants.
+
+SECTION 6.12.030           DEFINITIONS
+
+As used in this chapter:
+
+"Noise sensitive unit" means any building or portion thereof, vehicle, boat or other structure used as a
+church, day care center, hospital, nursing care center, school, or place used for overnight
+accommodations of persons, including, but not limited to, individual homes, individual apartments,
+trailers and nursing homes.
+
+"Vehicle" includes automobiles, motorcycles, motorbikes, go-karts, trucks, buses and snowmobiles.
+
+SECTION 6.12.040           STANDARDS GENERALLY NOISE NUISANCE PROHIBITION
+
+it is unlawful for any person to make, allow, continue or cause to be made or continued, an
+unreasonable noise disturbance. An unreasonable noise disturbance is any noise, which unreasonably
+annoys, disturbs, injures or endangers the comfort, repose, health, peace or safety of any person ina
+noise sensitive unit.
+
+Factors to determine whether a noise is unreasonable include but are not limited to:
+        A. The volume of the noise;
+        B. The distance from the source of the noise;
+        C. The hour of day the noise is made;
+        D. The duration or repeated nature of the noise;
+        £. Whether the noise is plainly audible within a noise sensitive unit;
+        F. The nature and zoning of the area within which the noise emanates and is heard;
+            G. The density of the habitation of the area within which the noise emanates;
+
+SECTION 6.12.050            ENUMERATION OF ACTS       IN VIOLATION
+
+The following acts are prima facie evidence of a violation of this chapter, but said enumeration shall not
+be deemed to be exclusive, namely:
+
+A. Horns, Signaling Devices, Etc. Sounding of any horn or signaling device on any automobile,
+motorcycle, or other vehicle on any street or public place in the county, except as a danger warning; the
+creation by means of any signaling device of any unreasonably loud or harsh sound; and the sounding of
+any such device for an unnecessary and unreasonable period of time;
+
+B. Radios, Phonographs, Etc. Use of sound producing or reproducing equipment that is audible within a
+noise sensitive unit that is not the source of the sound, or use of such equipment on public property or
+ona   public right-of-way so as to be plainly audible 50 feet or more from the source of the sound;
+
+C. Barking dogs or other noisy animals which disturb the comfort and repose of any person in the
+vicinity;
+
+D. Yelling, Shouting, Etc. Yelling, shouting, hooting, whistling, or singing on the public streets, between
+7:00 p.m. and 7:00 a.m. the next day; or at any hour in such a manner as to be audible within a noise
+sensitive unit which is not the source of sound;
+
+E. Operation of mechanically powered lawn equipment, garden tools, chainsaws, blowers or similar
+devices in an area zoned for residential use between 7:00 p.m. and 7:00 a.m. the next day;
+
+F. Construction. The erection, construction (including excavation), demolition, alteration, or repair of
+any structure or site, or construction related to public improvement projects between 7:00 p.m. and
+7:00 a.m. the next day;
+
+G. Piledrivers, Hammers, Etc. The operation between the hours of 7:00 p.m. and 7:00 a.m. of any
+piledriver, pneumatic hammer, derrick, steam or electric hoist, or other equipment;
+
+H. Exhaust Brakes. The use of exhaust brakes except when used for an emergency stop or to slow to
+avoid a collision; or
+
+|. Exhausts. The discharge into the open air of the exhaust of any steam engine, stationary internal
+combustion engine, motor boat, motorcycle, or motor vehicle except through a muffler or other device
+which will effectively prevent loud or explosive noises therefrom;
+SECTION 6.12.060         EXEMPTIONS
+
+Nothing in this chapter is intended to unreasonably restrict or regulate:
+
+A. Forestry. The normal and usual operation of equipment and machinery in connection with and on
+land zoned for and being used for the growing and harvesting of timber and other forest products
+because of noise arising from such activity.
+
+B. Farming and agricultural. Farming and agriculture practices because of noise arising from farm or
+agriculture use of land zoned for farming or agriculture.
+
+C. Industrial. Industrial practices because of noise arising from industrial use of land zoned for industrial
+use.
+
+D. Organized Athletic or Other Group Activities. Sounds caused by organized athletic or other group
+activities, when those activities are conducted on property generally used for those purposes, including
+stadiums, parks, schools, churches, airports and athletic fields. These exceptions do not prohibit the
+county from exempting a specific event or activity from this chapter, or other laws, ordinances or
+regulations upon proper permitting.
+
+E. Sounds caused by emergency work, or by the ordinary and accepted use of emergency equipment,
+vehicles and apparatus, regardless of whether such work is performed by a public or private agency, or
+upon public or private property.
+
+F. Sounds caused by regular vehicular traffic upon premises open to the public.
+
+G. Sounds regulated by federal and state law, including but not limited to activities permitted by the
+Oregon Department of Environmental Quality and sounds caused by railroads and aircraft.
+
+H. Events or mass gatherings which have received proper permitting though the County.
+
+SECTION 6.12.070         REVOCABLE PERMIT TO CONDUCT NOISE PRODUCING ACTIVITY
+
+As set forth herein, any person, business, entity or government agency planning the operation of a
+sound source which may violate any provision of this chapter may apply for a permit for such activity.
+This provision does not relieve the applicant form any requirement for a conditional use or other permit.
+
+        1. Duration. The permit shall be revocable by the County at the County’s discretion.
+        The permit shall not exceed 72 hours in duration. Public improvement and utility
+        projects may be permitted beyond 72 hours.
+2. Application. The applicant must submit a complete written application in a form provided by
+the County and submit to the County Director of Operations. The application need only address
+that portion of the project regarding noise production.   Any application that does not comply
+with the following requirements is not complete and must be resubmitted:
+        a. A processing fee established by resolution and order;
+        b. The name, address and telephone number of the entity or individual requesting the
+        permit and the signature of an authorized representative;
+        c. The length of time for the activity; and
+        d. An analysis of the proposal, addressing:
+                i. The purpose for the creation of the noise;
+                ii. The nature of the noise;
+                iii. The affected population within the geographical area of the noise source,
+                and whether it is residential, commercial or industrial;
+                         (A) Estimation of the range and maximum sound levels of the noise
+                         according to time of day, and geographical location,
+                iv. The projected duration and times of the noise;
+                v. The potential impacts of the noise on the affected population;
+                vi. The extent and scope of measures that the applicant has taken or will take to
+                reduce or diminish the disturbance for the affected population such as:
+
+                         (A) Modification of operations to reduce the impact the noise will have
+                         on the affected population,
+                         (B) Construction of physical barriers to diminish noise levels,
+                         (C) Establishment of a citizen complaint process for resolving complaints
+                         and alleged violations of the variance,
+                         (D) Establishment of a noise monitoring program to measure sound
+                         levels at various locations and times to ensure noise levels fall within
+                         the maximum range estimated,
+                         (E) Any other measure that is deemed necessary and proper to minimize
+                         impacts the noise will create in the affected area.
+
+3. Processing the Permit Application.
+
+        a. The Director of Operations or Designee (Director) shall provide a response within
+        fourteen (14) days of the applicant's submittal of a complete application and processing
+        fee.
+
+        b. The Director may deny the application, approve the application or approve the
+        application subject to conditions. The decision by the Director shall be in writing and
+        include a brief summary of the relevant facts, reasoning and conclusion, together with
+        any conditions of approval including the duration of the permit.
+                c. In the event of denial or approval subject to conditions, the applicant may submit the
+                application for reconsideration. The application for reconsideration may include
+                additional information In support of the requested variance and must be submitted
+                within five days of the initial decision. The Director will issue the decision on
+                reconsideration within seven (7) days.
+
+                d. A decision of the Director shall be appealable to the Board of Commissioners which
+                shall be the final decision of the county.
+
+                e. The decision of the Board of Commissioners shall be reviewable solely under ORS
+                34,010 through ORS 34.100 in the Circuit Court of Curry County.
+
+        4. Violations of Permit
+                a. In addition to having a permit revoked, violation of the terms and conditions of the
+                permit shall be deemed a violation of this chapter enforceable as provided in this
+                Section.
+                b. The fines provided for herein are in addition to, and not in lieu of, any other remedy
+                allowed by law, including but not limited to revocation, action for restraining order, and
+                injunction or abatement.
+
+SECTION 6.12.080           VIOLATION - PENALTY
+A. Violation of this code is punishable under Article 10 of the County Codified Ordinances (Enforcement).
+
+B. Each day any person shall be in violation of this chapter or rules or regulations adopted pursuant
+thereto shall be deemed a separate offense.
+
+SECTION 6.12.090           OTHER ENFORCEMENT PROCEDURES NOT EXCLUDED
+
+The provisions of this chapter are in addition to and not in lieu of any other procedures and remedies
+provided by law, including equitable relief and damages.     The County may at its option declare the noise
+disturbance a public nuisance and institute abatement procedures per Ordinance 6.01.040-6.01.070.
+
+SECTION 6.12.100           CONFORMITY WITH LAW
+
+This chapter shall not in any way be a substitute for, nor eliminate in any way, the necessity for
+conformity with any and all laws or rules of the state of Oregon or its agencies, nor any ordinance or rule
+or regulation of the county.
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.5% of
+the word sequence, and on 87.5% of the figures. Dictionary-recognizable words: 96.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.
