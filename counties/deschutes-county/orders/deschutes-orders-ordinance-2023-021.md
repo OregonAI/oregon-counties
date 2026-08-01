@@ -1,0 +1,861 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2023-021
+title: 'Ordinance No. 2023-021'
+doc_type: ordinance
+citation: 'Ordinance No. 2023-021'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1695413561_2023-292-Ordinance%20No.%202023-021%20Recorded%209202023.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 49d5991855104b0e13d5348e823786f3c3b30b559d4a30b299e43f0d33cfd8c3
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.952; figure agreement 0.877; dictionary ratio 0.921. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.045
+    - ORS 275.583
+    - ORS 455.040
+    - OAR 918-020-0370
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 95%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Ordinance No. 2023-021 (Ordinance No. 2023-021)
+
+## At a glance
+
+OCR-derived text of Ordinance No. 2023-021. Not human-verified.
+
+## Full text
+
+Recorded in Deschutes County
+                                                                Steve Dennison, County Clerk                     CJ2023-292
+                                                                Commissioners’ Journal                      09/20/2023 4:42:35         PM
+
+            REVIE       ED                                       oe   ES   c
+
+                                                                                   UMN
+
+                                                                               “
+
+                                                                               is  A
+        LEGAL COUNSEL                                               —
+
+                                                                                        For Recording Stamp Only
+
+      BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+
+ An Ordinance Amending Deschutes County Code
+
+                                                                *
+ Title 15, Building and Construction Codes and
+
+                                                                *
+ Regulations, to Modify the Development Standards                                      ORDINANCE NO. 2023-021
+
+                                                                *
+ for the Wildfire Hazard Zone.
+                                                                *
+                                                                *
+
+        WHEREAS, the Board of County Commissioners directed Deschutes County Community Development
+Department staff to initiate amendments (Planning Division File No. 247-23-000649-TA) to Deschutes County
+Code (“DCC”), Chapter 15.04 — Building and Construction Codes and Regulations; and
+
+        WHEREAS, the Board considered this matter after a duly noticed public hearing on September 13, 2023
+and concluded that the public will benefit from the proposed changes to the Deschutes County Code Titles 15;
+now, therefore,
+
+         THE BOARD        OF COUNTY      COMMISSIONERS              OF DESCHUTES            COUNTY,        OREGON,       ORDAINS
+as follows:
+
+         Section 1.    AMENDMENT.            Deschutes County Code Chapter 15.04, Building and Construction Code
+and   Regulations,    is amended   to read     as described   in Exhibit       “A”,    attached   hereto   and   by   this reference
+incorporated herein, with new language underlined and language to be deleted in strikethrough.
+
+         Section 2.    FINDINGS.     The Board adopts as its findings Exhibit “B”, attached and incorporated by
+reference herein.
+
+        Section 3. EMERGENCY. This Ordinance being necessary for the public peace, health, and safety, an
+emergency is declared to exist, and this Ordinance becomes effective upon adoption by the Board.
+
+PAGE | OF 2 - ORDINANCE NO. 2023-021
+Dated this } an                Spr -, 2023                          BOARD OF COUNTY COMMISSIONERS
+                                                                    OF DESCHUTES COUNTY, OREGON
+
+                                                                    Lb dfb-~_—
+                                                                    ANTHONY DEBONE, Chair
+
+                                                                    c
+                                                                           OU At ae
+                                                                    PATTI ADAIR, Vice Chair
+ATTEST:
+
+ F porrclar Tn ‘. fg7
+Recording Secretary
+                                                                        TA
+                                                                         aa
+
+                                                                    PHILIP CHANG
+                                                                                       - oe
+                               in.
+Date of 1* Reading:      }37         day of    Lop       * , 2023.
+
+Date of 2"4 Reading:     }   2 day of                  * _ , 2023.
+
+                                       Record of Adoption Vote:
+
+Commissioner                             Yes     No         Abstained      Excused
+    Anthony DeBone                       +       a              —            _
+    Patti Adair                                  _              _            _
+    Philip Chang                         x                      7            __
+Effective date:    13
+                        trday of Coy: t.              , 2023.
+
+PAGE 2 OF 2 - ORDINANCE NO. 2023-021
+                                                    Exhibit A
+
+CHAPTER 15.04 BUILDING AND CONSTRUCTION CODES AND REGULATIONS
+
+15.04.010 Specialty Codes And Building Requirements Adopted; Enforcement
+15.04.015 Additional Local Authority
+15.04.020 (Repealed)
+15.04.025 Fences
+15.04.030 (Repealed)
+15.04.035 (Repealed)
+15.04.037 (Repealed)
+15.04.040 (Repealed)
+15.04.050 (Repealed)
+15.04.055 (Repealed)
+15.04.060 (Repealed)
+15.04.070 Building Abatement Code; Adopted
+15.04.080 Fire Code; Adopted
+15.04.085 Wildfire Hazard Zones
+15.04.090 Definitions
+15.04.100 Mobile Homes; Placement Permit; Inspection
+15.04.110 Expedited Construction Start
+15.04.120 Mobile Homes; State Certification Required
+15.04.130 Building Permit Issuance; Zoning Conformance; Planning Department Approval
+15.04.140 Industrial/Commercial Structure; Occupancy Certificate Required
+15.04.145 Residential Structure; Occupancy Certificate Required
+15.04.150 Building Or Mobile Home Placement Permit Issuance; Zoning And Subdivision Conformance
+15.04.160 Permit Fees; Adjustments
+15.04.170 Numbers For Addresses; Placement
+15.04.180 Administration; Enforcement
+15.04,190 Conditions Deemed A Public Nuisance
+15.04.200 Violation; Penalty
+15.04.210 Requirement For Water Service From Water Districts
+15.04.220 Supply Of Water For Domestic Use In Conformance With State And Federal Regulations
+
+15.04.085 Wildfire Hazard Zones
+
+    A.    Wildfire Hazard Zones are those depicted on the Deschutes County Wildfire Hazard Areas map
+          on file with the County Clerk.
+
+    B.    Adoption of the Wildfire Hazard Areas map implements the provisions of the Wildfire-Hazard
+          MitigatienR327 Roofing Section of the Oregon Residential Specialty Code enforced pursuant to
+          DCC 15.04.010(A).
+HISTORY
+Adopted by Ord. 2001-024 §1 on 6/6/2001
+Amended by Ord. 2011-022 §2 on 7/27/2011
+
+Amended by Ord, 2023-021 §1 on 9/13/2023
+                                                                 Exhibit B
+
+                                                                                       COMMUNITY          DEVELOPMENT
+
+                                                       STAFF REPORT
+
+FILE NUMBER:                247-23-000649-TA
+
+APPLICANT:                  Deschutes County Community Development
+                            117 NW Lafayette Avenue
+                            Bend, Oregon 97703
+
+PROPERTY
+OWNER:                      N/A
+
+REQUEST:                    Text Amendments to modify the standards of the Deschutes County Wildfire
+                            Hazard Zone in anticipation of 2023 updates to the Oregon Residential
+                            Specialty Code (ORSC) Regarding Wildfire Hazard Mitigation.
+
+STAFF CONTACT:              Kyle Collins, Associate Planner
+
+I.      APPLICABLE CRITERIA:
+
+Deschutes County lacks specific criteria in DCC Titles 18, 19, 22, or 23 for reviewing a legislative text
+amendment. Nonetheless, since Deschutes County is initiating a legislative text amendment, the
+County bears the responsibility for justifying that the amendments are consistent with Statewide
+Planning Goals and its existing Comprehensive Plan.
+
+I.      BACKGROUND
+
+The purpose of these code amendments is to address critical changes made by the State Building
+Codes Division (State BCD) to the residential building code (Oregon Residential Specialty Code or
+ORSC) regarding wildfire hazard mitigation. The proposed amendments will modify the standards
+of the Deschutes County Wildfire Hazard Zone during the period before adoption and
+implementation of that State Wildfire Hazard Map as administered by Senate Bill (SB) 80', passed in
+June 2023. The Deschutes County Wildfire Hazard Zone has been in place since 2001, with minor
+amendments in 2011. Since its initial adoption, the Deschutes County Wildfire Hazard Zone has
+prohibited wooden-shake roofs pursuant to standards of the ORSC in all unincorporated areas of
+Deschutes County. These local anendments would maintain previous requirements for residential
+roofing by prohibiting wooden-shake style roofing, but would remove requirements for broader
+
+1 https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB80/Enrolled
+                 117   NW    Lafayette Avenue, Bend,    Oregon   97703   |   P.O. Box 6005, Bend, OR 97708-6005
+                       ® (541) 388-6575        @ cdd@deschutes.org           @ www.deschutes.org/cd
+wildfire mitigation    building standards   untit such   time    as the fuil implementation   of SB 80 is
+complete.
+
+Hl.       APPLICABLE CRITERIA:
+
+Deschutes County lacks specific criteria in DCC Titles 15, 22, or 23 for reviewing a legislative text
+amendment to local building codes.
+
+I.        PROPOSED AMENDMENTS
+
+The proposed amendments are described and detailed in Ordinance 2023-021, attached hereto.
+Added language is underlined and deleted shown as strikethrough. The amendments are necessary
+to clarify existing standards and procedures, incorporate changes to the Oregon Residential
+Specialty Code (State Building Code). The following section summarizes the proposed amendments:
+
+DCC CHAPTER 15.04, BUILDING AND CONSTRUCTION                    CODES AND REGULATIONS
+
+      e   DCC 15.04.085, Wildfire Hazard Zones - Removes general references to the Wildfire
+          Hazard Mitigation Section of the ORSC as implemented by the Deschutes County Wildfire
+          Hazard Zone. In conformance with previous standards, maintains compliance with the
+          roofing requirements of the ORSC for all areas identified within the existing Wildfire Hazard
+          Zone.
+
+If.       BASIC FINDINGS
+
+The Planning Division determined changes were necessary to maintain existing fire mitigation
+standards and procedures as administered by the Deschutes County Wildfire Hazard Zone. Staff
+initiated the proposed changes and notes that notification of the Oregon Department of Land
+Conservation and Development is not required for amendments to local building codes. As
+demonstrated in the summary above, the amendments remain consistent with Deschutes County
+Code, Deschutes County Comprehensive Plan, and the Statewide Planning Goals.
+
+Il.       FINDINGS:
+
+CHAPTER 22.12, LEGISLATIVE PROCEDURES
+
+          Section 22.12.010, Hearing Required
+
+          No legislative change shall be adopted without review by the Planning Commission and a
+          public hearing before the Board of County Commissioners. Public hearings before the
+          Planning Commission shall beset at the discretion of the Planning Director, unless
+          otherwise required by state law.
+
+FINDING: DCC 22.04.020 defines “legislative changes” as follows:
+
+247-23-000649-TA                                                                               Page 2 of 5
+       "Legislative changes" generaliy involve broad public policy decisions that apply to other
+       than an individual property owner. These include, without limitation, arnendments to the
+       text of the comprehensive plans, zoning ordinances, or the subdivision or partition
+       ordinance and changes in zoning maps not directed at a small number of property owners.
+
+The proposed amendments would affect DCC Title 15 - Buildings and Construction (as opposed to
+comprehensive plans, zoning ordinances, etc.). The proposal does not constitute a “legislative
+change” because it does not propose amendment to the text of the comprehensive plan, zoning
+ordinances, the subdivision or partition ordinance or change in zoning maps. Therefore, review by
+the Planning Commission is not required.
+
+The Board of County Commissioners       (Board) will hold a hearing to review the amendments     on
+September 13, 2023. This criterion is met.
+
+       Section 22.12.020,   Notice
+
+       Notice
+
+       A. Published Notice
+              1. Notice of a legislative change shall be published in a newspaper of general
+                  circulation in the county at least 10 days prior to each public hearing.
+              2. The notice shall state the time and place of the hearing and contain a statement
+                  describing the general subject matter of the ordinance under consideration.
+
+FINDING:    DCC 22.04.020 defines “legislative changes” as follows:
+
+       "Legislative changes" generally involve broad public policy decisions that apply to other than
+       an individual property owner. These include, without limitation, amendments to the text of
+       the comprehensive plans, zoning ordinances, or the subdivision or partition ordinance and
+       changes in zoning maps not directed at a small number of property owners.
+
+The proposed amendments would affect DCC Title 15 —- Buildings and Construction. The proposal
+does not constitute a “legislative change” because it does not propose amendment to the text of
+the comprehensive plan, zoning ordinances, the subdivision or partition ordinance or change in
+zoning maps. Notice of the public hearing and the proposed amendments will be posted on the
+Deschutes County website following standard procedure. This criterion is met.
+
+       B.       Posted Notice. Notice shall be posted at the discretion of the Planning Director and
+                where necessary to comply with ORS 203.045.
+
+FINDING:    Posted notice was determined by the Planning Director not to be necessary.
+
+247-23-000649-TA                                                                           Page 3 of 5
+       ¢C.     Individua! notice.     individuai wsotice te property owners, as defined in DCC
+               22.08.01G(A), shail be provided at the discretion of the Pianning Director, except as
+               required by ORS 275.583.
+
+FINDING: Given the proposed legislative amendments do not apply to any specific property, no
+individual notices were sent. This criterion is inapplicable.
+
+       D.      Media notice.  Copies of the notice of hearing shall be transmitted                   to other
+               newspapers published in Deschutes County.
+
+FINDING: Notice was provided           to   the   County   public   information   official   for wider   media
+distribution. This criterion is met.
+
+        Section 22.12.030    Initiation of Legislative Changes.
+
+       A legislative change may be initiated by application of individuals upon payment                      of
+       required fees as well as by the Board of County Commissioners.
+
+FINDING: The application was initiated by the Deschutes County Planning Division at the direction
+of the Board of County Commissioners, and has received a fee waiver. This criterion is met.
+
+        Section 22.12.040.   Hearings Body
+
+       A.      The following shall serve as hearings or review body for legislative changes in this
+               order:
+               1. The Planning Commission.
+               2. The Board of County Commissioners.
+
+        B.     Any legislative change initiated by the Board of County Commissioners shall be
+               reviewed by the Planning Commission prior to action being taken by the Board of
+               Commissioners.
+
+FINDING:     DCC 22.04.020 defines “legislative changes” as follows:
+
+        "Legislative changes" generally involve broad public policy decisions that apply to other than
+        an individual property owner. These include, without limitation, amendments to the text of
+        the comprehensive plans, zoning ordinances, or the subdivision or partition ordinance and
+        changes in zoning maps not directed at a small number of property owners.
+
+The proposed amendments would affect DCC Title 15 - Buildings and Construction. The proposal
+does not constitute a “legislative change” because it does not propose amendment to the text of
+the comprehensive plan, zoning ordinances, the subdivision or partition ordinance or change in
+zoning maps. Therefore, review by the Planning Commission is not required.
+
+247-23-000649-TA                                                                                    Page 4o0f 5
+The Board will hold a hearing to review the amendments on September 13, 2023. This criterion is
+met.
+
+       Section 22.12.050 Final Decision
+       All legislative changes shall be adopted by ordinance
+
+FINDING: The proposed legislative changes will be implemented by Ordinance No. 2023-021 upon
+approval and adoption by the Board of County Commissioners. This criterion will be met.
+
+Hf.    CONCLUSION:
+
+Based on the information provided herein, the staff recommends the Board of County
+Commissioners approve the proposed amendments modifying the standards of the Deschutes
+County Wildfire Hazard Zone in anticipation of 2023 updates to the Oregon Residential Specialty
+Code (ORSC) Regarding Wildfire Hazard Mitigation.
+
+247-23-000649-TA                                                                     Page 50f5
+                                                                                                     eR
+                                  Oregon                                                            BCD
+                                                                                                    a   |
+                                                                                                          |=:
+                                    Tina Kotek, Governor
+                                                                                                     Department of Consumer
+                                                                                                      and Business Services
+
+     2023 Oregon Residential Specialty Code ORSC
+     Approved Wildfire Hazard Mitigation Provisions
+
+                                                                                  R327.1.3 Application. Where required by a municipality via
+                              SECTION R327                                        local ordinance, newly constructed dwellings, their_accessory
+                      WILDFIRE HAZARD MITIGATION                                  structures, and new additions to existing dwellings and their
+                                                                                  accessory_structures, located in areas designated by the
+     R327.1 General. The provisions of this section shall apply to                municipality shall be protected against wildfire in accordance
+     dwellings and_their_accessory_structures required by a local                 with this section. Where existing exterior elements that_are
+     municipality via local ordinance to be protected against wildfire.           within the scope of this section are replaced in their entirety, the
+       Nothing in the code prevents a local municipality from                     replacement shall be made in accordance with the provisions of
+     modifying the requirements of this section for any lot, property or          this section.
+     dwelling, or the remodel, replacement or reconstruction of a                   Exceptions:
+     dwelling within the jurisdiction, as provided in Section R104.10.                 i
+                                                                                            Nonhabitable detached accessory_structures with a
+       R327.1.1 Lecal adoption. The provisions of this section may                          floor area of not greater than 400 square feet, (37.2
+       be adopted        in whole by a municipality via local ordinance                     m’) located not less than 50 feet (15 240 mm) from all
+       without following ORS 455.040 or OAR 918-020-0370. Where                             other structures on the /ot.
+       a_municipality chooses to adopt these provisions locally, the                   2.   Partial repairs made in accordance with R105.2.2.
+       following shall be included in the adopting ordinance:
+          1.      Identification  of areas    subject  to      the   additional    R327.2 Definitions. The following words and terms shall, for
+                  construction standards of Section R327.                          purposes of Section R327, have the meanings shown herein.
+                                                                                   See Chapter 2 for general definitions.
+         2.       A transition plan or other measures       to address
+                  subdivisions already under development at the time of             HEAVY TIMBER. For the use in this section, heavy timber
+                  local adoption.                                                   shall be sawn lumber or glue laminated wood with the
+         3.  A local appeals process for customers to follow.                       smallest minimum nominal dimension of 4 inches (102 mm).
+         Where a municipality has previously adopted the provisions                 Heavy timber walls or floors shall be sawn or glue laminated
+
+       of Section R327 locally, the requirements of Section R327.L.1                planks splined, tongue-and-groove or set close together and
+       do not apply and the existing local ordinance may continue                   well spiked.
+       without change.                                                              IGNITION-RESISTANT MATERIAL. A type of building
+                                                                                    material that resists ignition or sustained flaming combustion
+       R327.1.2 Notification. Where _a municipality adopts Section
+                                                                                    sufficiently so_as to reduce losses from wildland urban
+       R327 locally, or where a municipality has previously adopted
+                                                                                    interface conflagrations under worst-case weather and fuel
+       Section R327 locally, the municipality shall notify the State of
+                                                                                    conditions with wildfire exposure of burning embers and
+       Oregon Building Codes Division and provide a copy_of the
+                                                                                    small flames. Such materials include any product designed
+       locally adopted map identifying areas of the jurisdiction where
+                                                                                    for exterior exposure that, when tested in accordance with
+       the additional construction standards of Section R327 are
+             .                                                                      ASTM E84 or UL 723 for surface burning characteristics of
+       required.                                                                    building materials, extended to a 30 minute duration, exhibits
+                                                                                    a flame spread index of not more than 25, shows no evidence
+               Senate Bills 762 (2021) and 80 (2023)                                of significant progressive combustion, and whose flame front
+               The local adoption provisions of §R327.1.1 and the                   does not progress more than 10!/. feet (3.2 m) beyond the
+               application set forth by §R327.1.2 may be impacted _by               centerline of the burner at any time during the test.
+               ongoing efforts to implement Senate Bills 762 (2021) and
+                                                                                    NONCOMBUSTIBLE MATERIAL. Any material that in
+               80 (2023). These provisions will be updated accordingly to
+                                                                                    the form in which it is used _and under the conditions
+               align with any actions taken by the legislature.
+                                                                                    anticipated will not ignite, burn, support combustion or
+                                                                                    release flammable vapors when subjected to fire or heat _in
+                                                                                    accordance with ASTM E136.
+
+                   SR                    RI                                 RR    TS              NS
+
+q?     1535 Edgewater St. NW
+                                                           a   503-378-4133                             Oregon.gov/bed
+       Salem, OR 97304
+  WILDFIRE.       Any uncontrolled fire spreading through                 R327.3.3 Exterior wails. The exterior wall covering or wall
+  vegetative fuels that threatens to destroy life, property or            assembly shall comply with one of the following requirements:
+  resources.                                                                  1.        Noncombustible material.
+  WILDFIRE        EXPOSURE.      One_or_a_ combination    of                  2         Ignition-resistant material.
+  circumstances exposing a structure to ignition, including                   3.        Heavy timber assembly.
+  radiant heat, convective heat, direct flame contact and
+                                                                              4.        Log wall construction assembly.
+  burning embers being projected by a vegetation fire to a
+  structure and its immediate environment.                                    5.        Wall assemblies that have been tested in accordance with
+                                                                                        the test procedures for a 10-minute direct flame contact
+R327.3    Roofing.   Roofing    shall be asphalt shingles       in                      exposure test set forth in ASTM E2707, complying with
+accordance with Section R905.2, slate shingles in accordance                            the   conditions    of acceptance   listed   in  Section
+with Section R905.6, metal roofing in accordance with Section                           R327.3.3.2.
+R905.4, tile, clay or concrete shingles in accordance with
+                                                                              Exception: Any of the following shall be deemed to meet the
+Section R905.3 or other approved roofing which is deemed to
+                                                                              assembly performance criteria and intent of this section:
+be equivalent to a minimum Class B-rated roof assembly. Wood
+shingle and shake roofs are not permitted _on structures in areas                  1,     One    layer   of   %/s-inch    Type   X_   exterior     gypsum
+designated by the municipality.                                                           sheathing applied behind the exterior wall covering or
+                                                                                          cladding on the exterior side of the framing.
+   Where the roof profile allows a space between the roof
+covering and roof decking, the spaces shall be constructed to                      2.     The exterior portion of a 1-hour fire-resistance-rated
+prevent the intrusion of flames and embers, be fireblocked with                           exterior _wall_ assembly designed for exterior fire
+approved materials, or have one layer of minimum _72-pound                                exposure including assemblies using exterior gypsum
+(32.4 kg) mineral-surfaced nonperforated_cap sheet complying                              panel and sheathing products listed in the Gypsum
+with ASTM D3909 installed over the combustible decking.                                   Association Fire Resistance and Sound Control
+                                                                                          Design Manual.
+   Where valley flashing is installed, the flashing shall be not
+less than 0.019-inch (0.48 mm) No. 26 gage galvanized sheet                   R327,3.3.1 Extent of exterior wall covering. Exterior wall
+corrosion-resistant metal installed over not less than one layer              coverings shall extend from the top of the foundation to the
+of     minimum      72-pound     @G2.4   kg)    mineral-surfaced              roof and terminate at 2-inch (50.8 mm) nominal solid wood
+nonperforated cap sheet complying with ASTM D3909 not less                    blocking between rafters at all roof overhangs, or in the case
+than 36-inch-wide (914 mm) running the full length of the                     of enclosed eaves or soffits, shall terminate at the underside
+valley.                                                                       of the enclosure.
+
+R327.3.1 Gutters. Where required, roof gutters shall be                       R327.3.3.2 Conditions of acceptance. ASTM E2707 tests
+constructed of noncombustible materials and be provided with                  shall be conducted in triplicate and the conditions of
+a means to prevent accumulation of leaves and debris in the                   acceptance below shall be met. If any one of the three
+gutter,                                                                       replicates do not meet the conditions of acceptance, three
+                                                                              additional tests shall be conducted, All additional tests shall
+R327.3.2 Ventilation. Where provided, the minimum net area
+                                                                              meet the following conditions of acceptance:
+of ventilation openings for enclosed attics, enclosed_soffit
+spaces, enclosed rafter spaces and underfloor spaces shall be in                   1.     Absence of flame penetration through                   the   wall
+accordance with Sections R806 and R408.                                                   assembly at any time during the test.
+
+   All   ventilation    openings     shall  be    covered   with                   2.     Absence of evidence of glowing combustion on the
+noncombustible corrosion-resistant metal wire mesh, vents                                 interior surface of the assembly at the end of the 70-
+designed to resist the intrusion of burning embers and flame, or                          minute test.
+other approved materials or devices.                                     R327.3.4 Overhanging projections, All exterior projections
+   Ventilation mesh and screening shall be a minimum of !/16-            (exterior balconies, carports, decks, patio covers, porch
+inch (1.6 mm) and a maximum of !/s-inch (3.2 mm) in any                  ceilings, unenclosed roofs and floors, overhanging buildings
+dimension.                                                               and similar architectural appendages and projections) shall be
+                                                                         protected as specified in this section.
+  R327.3.2.1   Eaves,  soffits,  and   cornices.  Ventilation
+  openings shall not be installed on the underside of eaves,                  R327.3.4.1 Enclosed roof eaves, soffits, and cornices. The
+  soffits or cornices.                                                        exposed underside of rafter or truss eaves and enclosed
+     Exceptions:                                                              soffits, where any portion of the framing is less than 12 feet
+                                                                              (3658 mm) above grade or similar surface below, shall be
+          l.   The building official may approve eave, soffit or
+                                                                              protected by one of the following:
+               cornice vents that are manufactured to resist the
+               intrusion of flame and burning embers.                              1.     Noncombustible material.
+
+          2.   Ventilation   openings     complying     with    the                2.     _Jgnition-resistant material.
+               requirements of Section R327.3.2 may be installed                   3.     One layer of °/s-inch Type X_ exterior gypsum
+               on the underside of eaves, soffits or cornices where                       sheathing applied behind an exterior covering on the
+               the opening is located 12 feet (3658 mm) or greater                        underside of the rafter tails, truss tails or soffit.
+               above grade or the surface below.
+
+                                                                Page 2 of 4
+  4.         The exterior portion of a 1-hour fire-resistance-rated
+             exterior wall assembly applied to the underside of the                                 Section    R327.3.4.5      when    tested in accordance       with
+             rafter tails or soffit including assemblies using exterior                             ASTM      E2957.
+             gypsum    panel and sheathing products listed in the
+                                                                                             Exception: Architectural trim boards.
+             Gypsum _ Association Fire         Resistance   _and_   Sound
+             Control Design Manual.                                                   R327.3.4.4 Underfloor protection. The underfloor area of
+  5.         Soffit assemblies with an underside surface that meets                   elevated structures shall be enclosed to grade in accordance
+             the performance criteria in Section R327.3.4.5 when                      with the requirements of this section, or the underside of the
+             tested in accordance ASTM        E2957.                                  exposed underfloor               shall    be    protected   by   one   of    the
+                                                                                      following:
+  Exceptions: The following materials                  do   not     require
+  protection required by this section:                                                       1.     Noncombustible material.
+
+        1.      Eaves and soffits where all portions of the framing                          2.     _Jgnition-resistant material.
+                members are 12 feet (3658 mm) or greater above                               3.     One layer of °/s-inch Type X exterior gypsum
+                grade, and 2-inch nominal eave fireblocking is                                      sheathing applied behind an exterior covering on the
+                provided between roof framing members from the                                      underside of the floor assembly.
+                wall top plate to the underside of the roof sheathing.                       4.     The exterior portion of a 1-hour fire-resistance-rated
+        2.      Gable end overhangs and roof assembly projections                                   exterior wall assembly applied to the underside of the
+                beyond an exterior wall other than at the lower end                                 floor, including assemblies using exterior gypsum
+                of the rafter tails.                                                                panel and sheathing products listed in the Gypsum
+        3.      Fascia and other architectural trim boards.                                         Association Fire Resistance Design Manual.
+                                                                                             5.     An assembly that meets the performance criteria in
+R327.3.4.2 Exterior patio and porch ceilings. The exposed
+                                                                                                    Section R327.3.4.5 when tested in accordance with
+underside of exterior patio and porch ceilings greater than
+                                                                                                    ASTM E2957.
+200 square feet in area and less than 12 feet (3658 mm) above
+grade shall be protected by one of the following:                                            Exception: Heavy timber structural columns and beams do
+                                                                                             not require protection.
+  1.         _Noncombustible material.
+  2.         ILenition-resistant material.                                            R327.3.4.5 Conditions of acceptance. ASTM E2957 tests
+                                                                                      shall be conducted in triplicate, and the following conditions
+  3.          One layer of °/s-inch Type X_ exterior gypsum
+                                                                                      of acceptance shall be met. If any one of the three replicates
+              sheathing applied behind the exterior covering on the
+                                                                                      do not meet the conditions of acceptance, three additional
+              underside of the ceiling.
+                                                                                      tests shall be conducted. All additional tests shall meet the
+  4.          The exterior portion of a _1-hour fire-resistance-rated                 following conditions of acceptance:
+              exterior wall assembly applied to the underside of the
+                                                                                             1.    Absence of flame penetration of the eaves or horizontal
+              ceiling assembly including assemblies using exterior
+                                                                                                   projection assembly at any time during the test.
+              gypsum panel and sheathing products listed _in_the
+              Gypsum Association Fire Resistance Design Manual.                              2.    Absence of structural failure of the eaves or horizontal
+                                                                                                   projection subassembly at any time during the test.
+  5.          Porch ceiling assemblies with a horizontal underside
+              that meet    the performance    criteria  in Section                           3.    Absence of sustained combustion            of any kind at the
+              R327.3.4.5 when tested in accordance with the test                                   conclusion of the 40-minute test.
+              procedures set forth in ASTM E2957,                                R327.3.5 Walking surfaces. Deck, porch and balcony walking
+  Exception: Architectural trim boards.                                          surfaces located greater than 30 inches and less than 12 feet
+                                                                                 (3658 mm) above grade or the surface below shall be
+R327.3.4.3 Floor projections. The exposed underside of                           constructed with one of the following materials:
+cantilevered floor projections less than 12 feet (3658 mm)
+                                                                                      1.          Materials   that   comply  with   the performance
+above grade or the surface below shall be protected by one
+                                                                                                  requirements of Section R327.3.5.1 when tested in
+of the following:
+                                                                                                  accordance with both ASTM E2632 and ASTM E2726.
+   1.         Noncombustible material.
+                                                                                      2.          _Ignition-resistant materials that comply  with the
+  2.         _Iegnition-resistant material.                                                       performance requirements of Section R327.2 when
+  3.          One layer of */s-inch Type X_ exterior gypsum                                       tested in accordance with ASTM E84 or UL 723.
+              sheathing applied behind an exterior covering on the                    3.          Exterior fire-retardant-treated wood.
+              underside of the floor projection.
+                                                                                                  Noncombustible material.
+  4.          The exterior portion of a 1-hour fire-resistance-rated
+                                                                                      5...        Any material that complies with the performance
+              exterior wall assembly applied to the underside of the
+                                                                                                  requirements of Section R327.3.5.2 where tested in
+              floor projection, including assemblies using exterior
+                                                                                                  accordance with ASTM E2632, where the exterior wall
+              gypsum panel and sheathing products listed in the
+                                                                                                  covering of the structure is noncombustible or ignition-
+              Gypsum Association Fire Resistance Design Manual.
+                                                                                                  resistant material.
+
+                                                                        Page 3 of 4
+6.     Any material that complies with the performance                     R327.3.6 Glazing. Exterior windows, windows within exterior
+       requirements of ASTM E2632, where the exterior wall                 doors, and skylights shall be tempered glass, multilayered
+       covering of the structure is noncombustible or ienition-            glazed panels, glass block or have a fire-resistance rating of not
+       resistant material,                                                 less than 20 minutes.
+            Exception: Wall covering material may be of any
+            material that otherwise complies with this chapter
+            when the decking surface material complies with the
+            performance requirements ASTM E84 with a Class B
+            flame spread rating.
+Exception:    Walking     surfaces of decks,     porches    and
+balconies not greater than 200 square feet (18.58 m7?) in area,
+where the surface is constructed _of nominal 2-inch (51 mm)
+lumber.
+
+R327.3.5.1_ Requirements for R327.3.5, Item 1. The
+material shall be tested in accordance with ASTM E2632 and
+ASTM E2726, and shall comply with the conditions of
+acceptance in Sections R327.3.5.1.1 and R327.3.5.1.2. The
+material    shall   also   comply    with   the performance
+requirements        of   Section    R327.2   for   ignition-resistant
+material when tested in accordance with ASTM             E84 or UL
+723.
+     R327.3.5.1.1 Conditions of acceptance. ASTM E2632
+     tests shall be conducted in triplicate_and the following
+     conditions of acceptance shall be met. If any one of the
+     three replicates do not meet the conditions of acceptance,
+     three additional tests shall be conducted. All additional
+     tests shall meet the following conditions of acceptance:
+       1.     Peak heat release rate of less than or equal to 25
+              kW/ft? (269 kW/m’).
+       2.     Absence    of   sustained   flaming   or   glowing
+              combustion of any kind at the conclusion of the 40-
+              minute observation period.
+       3.     Absence of falling particles that_are    still burning
+              when reaching the burner or floor.
+
+     R327.3.5.1.2 Conditions of acceptance. ASTM E2762
+     tests shall be conducted in triplicate and the following
+     conditions of acceptance shall be met. If any one of the
+     three replicates do not meet the conditions of acceptance,
+     three additional tests shall be conducted. All of the
+     additional tests shall meet the following conditions of
+     acceptance:
+       1.     Absence    of   sustained   flaming   or   glowing
+              combustion of any kind at the conclusion of the 40-
+              minute observation period.
+       2.     Absence of falling particles that_are    still burning
+              when reaching the burner or floor,
+
+R327.3.5.2_ Requirements for R327.3.5, Item 6. The
+material shall be tested in accordance with ASTM E2632 and
+shall comply with the following conditions of acceptance.
+The test shall be conducted in triplicate and the peak heat
+release rate shall be less than or equal to 25 kW/ft? (269
+kW/m’). If any one of the three replicates do not meet the
+conditions of acceptance, three additional tests shall be
+conducted. All of the additional tests shall meet the
+conditions of acceptance.
+
+                                                                  Page 4 of 4
+                                   tooz ‘ez sew
+                                                                                                                                                                                                                                    Baly PARZEH BN PLAK
+                     “PAIR Pass Oe ag [lle F203 Rues.o UOROUNOU "Jan@ROH “lOnpOUd sea
+Bucur duionce "350 8nd IBROY IR IO $5910 ANITIUROIAULO Aut aU) Buu                            Sal       0                                                                                        0¢                                      Saye] 9 SUBALY
+  ‘pang 16 ssmoKa Sa7 URUIEN OU B82 BRL. -sps0O22 Buys pun aug 20 RD NE AE
+  U1 Seung N04 150d 30:           "33017 OL            cue            fyuned,
+  SAMDSAad * A HR, DADINOL SUTIN G'dew S24 Jo LOI ERD 32 Uj Uae] some aD “ETO                                                                                                                                                                   urang /W%
+  SANGO F2INS  570 US FARRARA RUIN WOE paNUAD soe dew sq UO WOR UUQUY 2UL
+                                                                 ‘eae oga
+                                                                                                                                                                                                                                           speoy   soley   AN %
+                                   Hanieds Copa: EET RTE tory                                                                                                                                                                    Aaepunog yyaoig ueqin     A»
+                                TUUdOIeADO AQUTILCD
+                                   AquneD saqnyxeg                                                                                                                                                                          Ayunuws 9 payesocioauupn CI
+                                                                                                                                                                                                                                       Asepunog Aunoo      Nf
+                                           NQLARTH
+                                                                                                                                                                                                 aNd 1
+                                                                                        SHaHLows                                                                                                                    =|
+                                                                                                                                                                                                             id
+                                                                                                                    ae
+
+                                                                                                                                      Lise kal]
+                                                                                                                                                                                     BBAEN OSI
+
+                                                                                                                                                                                          <3
+                                                                                                                                                           at
+                                                                                                                  fizjanes Bupiosay
+                                                                                                       VERE, RICE         ay                      Teed T
+                                                                                                             ey           sau
+
+                                                                                                                                                                                “J
+                                                                                                   JOUOSIULIOS ‘ARQ "W ORUDIN
+                                                                                                         IEF      ag
+                                                                                                                  de
+                                                                                                   JQUOISSHLULUOD ‘ayn? “a SIUUAC
+
+                                                                                                                                                                                                                            Sp
+                                                                                                            Ppt    yy Ter                                                 avs
+                                                                                                   seug WOMAdWoL           /                                    anowaaa
+                                                                                                                                                                          Fed
+                                                                                                                                                                           Cc
+                                                                                                       a
+       P20-1002         “ON aaueUIpIO Ag pajdopy                       ‘1                   NOS3vuO ‘suNno9 S3LINHOSAG 40
+                                                                                           SUYANOISSINICD ALNNOD 40 davog                                                                                         SUBLBIE
+                   Asoysip# aanesibay                                                    $20 L00%       “ON BoURUIPIO Ag padopy
+                                                                                                                                                                                                         -
+                                                                                                                                    wd. HQIYXS
+                                 oVAdV CYVZVH                                                                     SYISC TIM ALNNOD                                                        SALNHOSAG
+             4 | BOARD OF
+               _ COMMISSIONERS
+
+         AGENDA REQUEST & STAFF REPORT _
+
+MEETING DATE:      September 13, 2023
+
+SUBJECT:    Public Hearing and Consideration of Ordinance No. 2023-021 concerning the
+            Local Wildfire Hazard Zone and Oregon Residential Specialty Code Updates
+            Regarding Wildfire Hazard Mitigation
+
+RECOMMENDED MOTIONS:
+To maintain the current fire mitigation building standards and development review
+processes, staff recommends closing the record on the proposed amendments,
+commencing deliberations, and adopting Ordinance No. 2023-021 by emergency.
+    1. Move approval of first and second reading of Ordinance No. 2023-021 by title only.
+    2. Move adoption of Ordinance No. 2023-021 on an emergency basis to take effect
+      _ Immediately upon adoption.
+
+BACKGROUND AND POLICY IMPLICATIONS:
+On October 1, 2023, the State Building Codes Division will be updating the R327 section of
+the Oregon Residential Specialty Code (ORSC). Given existing provisions in section
+15.04.085 of the Deschutes County Code (DCC), the forthcoming updates to the ORSC may
+have unintended consequences for residential development in Deschutes County in the
+period before official adoption of the State Wildfire Hazard Map mandated by Senate Bills
+762 and 80.
+
+BUDGET     IMPACTS:
+None
+
+ATTENDANCE:
+Will Groves, Planning Manager
+Peter Gutowsky, Community Development Director
+Kyle Collins, Associate Planner
+                                                                                   COMMUNITY          DEVELOPMENT
+
+                                                    MEMORANDUM
+
+TO:               Board of County Commissioners
+
+FROM:             Will Groves, Planning Manager
+                  Peter Gutowsky, Community Development Director
+                  Krista Appleby, Assistant Building Official
+                  Kyle Collins, Associate Planner
+
+DATE:             September 6, 2023
+
+SUBJECT:          Legislative Amendments - Local Wildfire Hazard Zone and Oregon Residential
+                  Specialty Code Updates Regarding Wildfire Hazard Mitigation (R327)
+
+The Board of County Commissioners (Board) will conduct a public hearing on September 13, 2023,
+concerning amendments to the Deschutes County Wildfire Hazard Zone and forthcoming updates to
+the Oregon Residential Specialty Code (ORSC) concerning wildfire hazard mitigation standards (file
+no. 247-23-00649-TA).
+
+Attached to this memorandum            are:
+
+      e   Staff Report and Draft Amendments’
+
+      e   The 2023 Oregon Residential Specialty Code (ORSC) Section R327
+
+      e   Map of the Deschutes County Wildfire Hazard Zone
+
+I.        BACKGROUND
+
+In 2001,    the   Deschutes     County    Board     of Commissioners     (Board)   adopted   Ordinance     2001-024
+establishing a local Wildfire Hazard Zone. The relevant wildfire mitigation standards and references
+of this zone were subsequently amended in 2011 pursuant to Ordinance 2011-022. The currently
+adopted     Wildfire   Hazard   Zone     includes   all areas   of Deschutes   County.   However,   the   Deschutes
+County Building Safety Division does not have jurisdiction in certain incorporated cities such as Bend
+and Redmond. Deschutes County's Wildfire Hazard Zone is separate and distinct from ongoing efforts
+to produce a Statewide Wildfire Hazard               Map pursuant to Senate Bills (SBs) 762? and 80°. The
+
+1 Within the proposed amendments, added language is shown underlined and deleted shown as strikethrough.
+2 https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB762/Enrolled
+3 https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB80/Enrolled
+standards imposed by the County's local hazard map are located under Title 15, Buildings &
+Construction, in Section 15.04.085* of the Deschutes County Code (DCC). Since adoption of the
+Wildfire Hazard Map in 2001, R327 has exclusively prohibited wooden-shake roofing for newly
+constructed residences and residential accessory structures.
+
+Il.      CHANGES & CONCERNS
+
+On October 1, 2023, a new 2023 edition of the ORSC becomes effective and Section R327 detailing
+wildfire hazard mitigation building standards will be modified. Based on the language of DCC
+15.04.085, the forthcoming Section R327 will apply broadly across all residential development in
+unincorporated Deschutes County based on the existing County Wildfire Hazard Zone. The modified
+R327 standards still apply to all dwellings and residential accessory structures, but would now require
+more extensive fire mitigation items, including updated roofing requirements, overhang projection
+requirements, deck/porch/balcony requirements, ventilation requirements, and others. If no action
+is taken, citizens will encounter previously unrequired fire mitigation regulations in Deschutes
+County, greatly increasing impacts to staff in a very short period of time to understand, review, and
+enforce new regulatory standards while also attempting to educate citizens on the details of these
+new requirements.
+
+The Board should be aware that based on SBs 762 and 80, once the Statewide Wildfire Hazard Map
+is approved by the Oregon Department of Forestry (ODF), the complete R327 standards of the ORSC
+will apply more broadly throughout Deschutes County based on each individual property's wildfire
+hazard    classification   and   the   boundaries   of the   designated   Wildland      Urban       Interface    (WU).
+Properties ultimately identified as having a “High” hazard classification and located within a
+designated WUI will be subject to additional residential fire mitigation standards. However, at this
+time no jurisdictions are mandated to implement all standards included in R327 prior to release of
+the Statewide Wildfire Hazard Map.
+
+Should the Board wish to maintain the current status quo and keep residential wildfire mitigation
+standards limited to a prohibition on wooden-shake roofs, DCC 15.04.085(B) will need to be updated
+with more specific language regarding the roofing requirements of R327. Additionally, the Board will
+likely have to revisit DCC 15.04.085 again once the Statewide Wildfire Hazard Map is approved by the
+Oregon Department of Forestry (ODF) sometime in 2024 to address a larger suite of residential
+wildfire mitigation requirements.
+
+HH.      PROPOSED ACTIONS
+
+Staff proposes amendments to Section 15.04.085, as detailed in Attachment 1, to maintain the
+current fire mitigation standards for residential development during the interim period when the
+forthcoming Section R327 updates are released, but before the Statewide Wildfire Hazard Map is
+finalized. No changes to the geographic boundaries of the existing Wildfire Hazard Zone are
+proposed. The proposed code amendments were developed in consultation with the Building Safety
+Division.
+
+4 httos://deschutescounty.municipalcodeonline.com/book?type=ordinances#name=15.04.085    Wildfire   Hazard    Zones
+
+                                                                                                             Page 2 of 3
+IV.       NEXT STEPS
+
+At the conclusion of the public hearing, the Board may:
+
+      e   Continue the hearing to a date certain;
+      e   Close the hearing and leave the written record open to a date certain; or
+      e   Close the hearing and commence deliberations.
+
+Attachments:
+
+1.    Ordinance 2023-021: Staff Report and Amendments
+2.    The 2023 Oregon Residential Specialty Code (ORSC) Section R327
+3.    Map of the Deschutes County Wildfire Hazard Zone
+
+                                                                                      Page 3 of 3
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 95.2% of
+the word sequence, and on 87.7% of the figures. Dictionary-recognizable words: 92.1%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

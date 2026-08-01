@@ -4,6 +4,27 @@ Keep a Changelog format; ISO dates. Change types: Added, Source-Updated,
 Superseded, Repealed, Removed, Verified, Fixed, Security.
 Repo-curation dates only — official effective dates live in frontmatter.
 
+## [Unreleased] — OCR recovery
+
+### Added
+- **188 image-only scans recovered into `## Full text`** under the two-engine rule, bringing
+  the corpus to 2,929 documents (219 OCR-derived) across 27 counties and 8,658 edges.
+- `src/ocr_recover.py` — ocrmypdf/tesseract plus PaddleOCR PP-OCRv6, run independently on the
+  same scan. Gates: >=100 words, word agreement >=0.80, dictionary ratio >=0.80.
+- `src/patterns.py` — draft-detection patterns shared by the discovery filter and the CI
+  guardrail without either importing the other's dependencies.
+
+### Notes
+- Every OCR document carries an OCR-specific non-authoritative banner, `text_source: ocr`,
+  both agreement rates and the dictionary ratio in `conversion_notes` ending `NOT
+  human-verified`, and curator notes stating that agreement is evidence the words are on the
+  page and **not** evidence they were read correctly.
+- **Figure agreement is the weak point and is reported, never gated**: median 0.800 but
+  16% of documents fall below 0.50. Dates, dollar amounts and ordinance numbers are the
+  least trustworthy part of this text.
+- 51 documents rejected (28 under 100 words, 23 below the agreement bar), 14 fetch failures,
+  8 skipped. Nothing was promoted that failed a gate.
+
 ## [Unreleased] — tranche 2
 
 ### Added

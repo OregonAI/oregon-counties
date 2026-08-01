@@ -1,0 +1,301 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-ordinance-12-002-legislative-amendments-to-ludo-4-4-2012
+title: 'Ordinance 12-002 Legislative Amendments to LUDO 4-4-2012'
+doc_type: ordinance
+citation: 'Ordinance 12-002 Legislative Amendments to LUDO 4-4-2012'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2012/Ordinance%2012-002%20Legislative%20Amendments%20to%20LUDO%204-4-2012.pdf?t=202503260855550
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 85af3a5736e3e1c8a8fa7cf7acdb83dae497a3b49039c38fdb978fef1bc8919c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.985; figure agreement 0.693; dictionary ratio 0.950. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.610
+    - ORS 215.503
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Ordinance 12-002 Legislative Amendments to LUDO 4-4-2012 (Ordinance 12-002 Legislative Amendments to LUDO 4-4-2012)
+
+## At a glance
+
+OCR-derived text of Ordinance 12-002 Legislative Amendments to LUDO 4-4-2012. Not human-verified.
+
+## Full text
+
+' WASCO COUNTY, OREGON
+  COMMISSIONER'S JOURNAL
+
+ CJ2012-000040 6)
+               {
+                                                                                        FILED
+                          IN THE COUNTY COURT OF THE STATE OF OREGONWASCO                     COUNTY
+                                 INAND FOR THE COUNTY OF WASCO                    8? APR 10. PO
+                                                                                    LINDA BROWN
+         IN THE MATTER OF THE WASCO COUNTY PLANNING                                COUNTY CLERK
+                                                             )
+         DEPARTMENT’S REQUEST TO APPROVE THE
+         PROPOSED POST-ACKNOWLEDGEMENT
+                                                             )
+         LEGISLATIVE AMENDMENTS TO UPDATE THE LAND           )
+         USE AND DEVELOPMENT ORDINANCE RELATED TO            ) ORDINANCE 12-002
+         ENERGY PRODUCTION,    CONSUMPTION     AND           )
+        CONSERVATION AND TO MAKE OTHER                       )
+        AMENDMENTS APPROPRIATE FOR WASCO COUNTY.
+        (FILE NUMBER PLALEG-09-06-0003)
+                                                             )
+                                                             )
+
+                NOW ON THIS DAY, the above-entitled matter having come on regularly for
+
+         consideration, said day being one duly set in term for the transaction of public business
+
+         and all of the Wasco County Board of Commissioners being present; and
+
+                WHEREAS, the following areas have been identified to be amended in the
+
+        Wasco County Land Use & Development Ordinance:           (1) Language related to energy
+
+         production, consumption and where and how commercial and non-commercial energy
+
+        development is allowed in the Land Use and Development Ordinance; (2) Reformat all
+
+         Land Use and Development Ordinance zones for consistency; (3) Modernize language
+
+   10    in Land Use and Development Ordinance that is not compliant with state law, incorrect
+
+   11   _or out of date; and (4) Make other amendments appropriate for Wasco County.
+
+   12           WHEREAS, the Wasco County Planning Department was directed by the Wasco
+
+   13    County Court (now Wasco County Board of Commissioners) on 1 July 2009 pursuant
+
+   14   to Chapter 11 Section B of the Wasco County Comprehensive Plan and          Section
+
+   15    9.050(A) of the Wasco County Land Use & Development Ordinance to initiate a Post-
+
+   16   Acknowledgement Plan Amendment process for a legislative text amendments to both
+
+   17   the Wasco County Comprehensive Plan and the Land Use and Development Ordinance
+
+         Page 1 - Ordinance
+     related to energy and to make other amendments appropriate for Wasco County (Note:
+
+     the amendments to the Wasco County Comprehensive Plan were approved separately
+
+     on 4 January 2012) ; and
+
+          | WHEREAS, the Wasco County Court (now Board of County Commissioners)
+
+     appointed   a Commercial Energy Advisory Group which met 12 times and a Non-
+
+     Commercial Energy Advisory Group which met 8 times to work with staff to generate
+
+     recommended amendments; and
+
+            WHEREAS,      the Wasco County Planning Department sent notification to
+
+     Department of Land Conservation and Development (DLCD) pursuant to ORS 197.610
+
+10   on 19 January 2011 and all affected property owners pursuant to ORS 215.503 (M56)
+
+11   on 28 March 2011; and                  |
+
+12          WHEREAS, that on 3 May 2011, at the hour of 3:00 PM at the Gorge Discovery
+
+13   Center downstairs classroom the Wasco County Planning Commission held the first
+
+14   legally notified public hearing to review recommendations by staff and the advisory
+
+15   groups, background information, and receive public testimony for the purpose of
+
+16   identifying preferred options and the need for any additional information prior to the
+
+17   second planning commission hearing; and
+
+18          WHEREAS,      that on 7 June 2011, at the hour of 3:00 PM at the Gorge Discover
+
+19   Center downstairs classroom, the Wasco County Planning Commission held the second
+
+20   public hearing on the above matter.   The planning commission again reviewed the ©
+
+21   recommendations by staff and the advisory groups, background information, and
+
+22   received public testimony.   The planning commission then closed the public hearing,
+
+23   deliberated and, on a vote of 7 to 0 elevated the request for a Post-Acknowledgement
+
+     Page 2 - Ordinance
+     Pian Amendment with a recommendation of approval to the Wasco County Board of
+
+     Commissioners with additional amendments; and
+
+            WHEREAS,      that on 15 February,2012 at the hour of 4:30 PM at the Northern
+
+     Wasco County PUD, Conference Room located at 2345 River Road, The Dalles,
+
+     Oregon, the Wasco County Board of Commissioners met to conduct a legally notified
+
+     public hearing on the above matter.    The Wasco County Board of Commissioners
+
+     reviewed recommendations by the Wasco County Planning Commission, staff and
+
+     received testimony from the public; and
+
+            WHEREAS,      that on 20 March 2012 at the hour of 8:00 AM at the Wasco County
+
+10   Court House, located at 511 Washington St, The Dalles, Oregon, the planning
+
+11   department hosted an open house to provide the public the opportunity to learn more
+
+12   about the amendments,     how the amendments would affect property owners, and made
+
+13   themselves available to answer any related questions; and
+
+14          WHEREAS, that on 20 March 2012 at the hour of 9:00 AM at the Wasco County
+
+15   Circuit Courtroom #301, located at 511 Washington St, The Dalles, Oregon, the Wasco
+
+16   County Board of Commissioners held a second hearing to review all background
+
+17   information, additional proposed changes and receive public testimony.    The
+
+18   commissioners then closed the hearing to oral public testimony and postponed
+
+19   deliberation until 4 April 2012; and
+
+20          WHEREAS,      that on 4 April 2012 at the hour of 9:30 AM at the Wasco County
+
+21   Courtroom #202 located at 511 Washington St, The Dalles, Oregon, the Board of
+
+22   Commissioners deliberated, and on a vote of 3 — 0, approved the recommendation by
+
+23   the Wasco County Planning Commission on the above matter and as contained         in the
+
+     Page 3 - Ordinance
+      attachment titled “Land Use and Development Ordinance Amendments’,           Final Draft,
+
+      dated April 4, 2012,   with the following additional amendments: (1) the planning
+
+      department retain discretion to make non-substantive changes to the amendments to
+
+      create and ensure consistency with: title page, table of contents, formatting, page
+
+      numbering, headers, spacing, indentation, underlining, grammar,      incomplete sentences,
+
+      and cross referencing between chapters; and (2) incorporate the amendments
+
+      submitted by planning staff and identified in “Exhibit A” at the 4 April 2012 hearing.
+
+             NOW THEREFORE         IT IS HEREBY ORDERED, that the request by the Wasco
+
+10    County Planning Department for a Post-Acknowledgement Plan Amendment for
+
+11    legislative amendments to the following areas in the Wasco County Land Use and
+
+12    Development Ordinance are hereby approved: (1) Language related to energy
+
+13   _ production, consumption and where and how commercial and non-commercial energy
+
+14    development is allowed in the Land Use and Development Ordinance; (2) Reformat all
+
+15    Land Use and Development Ordinance zones for consistency; (3) Modernize language
+
+16    in Land Use and Development Ordinance that is not compliant with state law, incorrect
+
+17    or out of date; and (4) Make other amendments appropriate for Wasco County.
+
+18
+
+19           THE WASCO       COUNTY BOARD OF COMMISSIONERS ORDAIN AS
+
+20    FOLLOWS:
+
+21
+
+22    SECTION     ONE: The amendments to chapters 1, 2, 3, 4, 15 and 19 of the Wasco
+
+23    County Land Use and Development Ordinance are approved in light of the applicable
+
+      Page 4 - Ordinance
+     criteria and findings presented in the staff report to the Board of Commissioners dated
+
+     February 15, 2012.
+
+     SECTION TWO:           The amendments contained in the attachment titled “Wasco County
+
+     Land Use and Development Ordinance Amendments”,                Final Draft, Dated April 4, 2012,
+
+     including the additional changes submitted and identified by planning staff in “Exhibit A”
+
+     on 4 April 2012, are ADOPTED         and by reference made part of this Ordinance.
+
+     SECTION THREE:           The amendments are necessary and appropriate and shall become
+
+10   effective on April 4, 2012.
+11
+
+12   SECTION        FOUR:    Severability: If any provision of this ordinance is held to be invalid
+
+13   by any court of competent jurisdiction, such invalidity shall not affect the validity of any
+
+14   other provision of the Ordinance.      The Ordinance shail be construed as if such invalid
+
+15   provision had never been included.
+
+16
+
+17
+
+18              SIGNED this 4"" day of April, 2012
+                                                         BOARD OF COUNTY COMMISSIONERS
+
+     Approved as to Form:
+                                                         Rog   Ru      ,      Chéir
+
+           =<
+
+     Htic Nisley    ae                                   Scott  Hege, Commissioner
+     Wasco County District Attorney                          St         \   (:
+                                                                    a Nol (OAL
+                                                         Sherry Holliday, Commission&
+
+     Page 5 - Ordinance
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.5% of
+the word sequence, and on 69.3% of the figures. Dictionary-recognizable words: 95.0%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

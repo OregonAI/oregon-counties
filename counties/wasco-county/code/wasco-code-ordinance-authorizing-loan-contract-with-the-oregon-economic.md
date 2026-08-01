@@ -1,0 +1,379 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-ordinance-authorizing-loan-contract-with-the-oregon-economic
+title: 'Ordinance Authorizing Loan Contract with the Oregon Economic Development Department 7-17-1996'
+doc_type: ordinance
+citation: 'Ordinance Authorizing Loan Contract with the Oregon Economic Development Department 7-17-1996'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Misc/Ordinance%20Authorizing%20Loan%20Contract%20with%20the%20Oregon%20Economic%20Development%20Department%207-17-1996.pdf?t=202503260855560
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a90ce33dc22d3c21724ba463a62ee0ee2e07ceef9f8470d66a1871c1eb53959b
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.935; figure agreement 0.758; dictionary ratio 0.936. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 93%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Ordinance Authorizing Loan Contract with the Oregon Economic Development Department 7-17-1996 (Ordinance Authorizing Loan Contract with the Oregon Economic Development Department 7-17-1996)
+
+## At a glance
+
+OCR-derived text of Ordinance Authorizing Loan Contract with the Oregon Economic Development Department 7-17-1996. Not human-verified.
+
+## Full text
+
+IN    THE    COUNTY            COURT       OF     THE       STATE       OF     OREGON
+
+                                                  IN     AND    FOR        THE     COUNTY             OF    WASCO
+bd
+
+           IN THE MATTER OF AN ORDINANCE       )                                                                                                      _
+WD
+
+           AUTHORIZING WASCO COUNTY, OREGON, )                                                                                                  weet es
+           TO BORROW MONEYS FROM THE SPECIAL )                                                ORDINANCE
+ BP
+
+           PUBLIC WORKS FUND BY ENTERING INTO)
+           A LOAN CONTRACT WITH THE OREGON     )
+ no
+
+           ECONOMIC DEVELOPMENT DEPARTMENT.     )
+
+                      WHEREAS,         the       County        Court        of     Wasco          County,           Oregon,        finds        as
+ nN
+
+           follows:
+ oOo
+
+                      A.       Wasco        County        is    a     "municipality"                       within     the     meaning           of
+ oo
+
+           Oregon           Revised        Statutes        285.700(1);
+10
+                      B.       Oregon        Revised           Statutes             285.700            through        285.750            (the        "Act")
+11
+           authorizes           any        municipality               to     file       an    application              with        the       Oregon
+12
+           Economic           Development              Department                ("the       Department")              to     obtain
+13
+           financial           assistance              from     the        Special           Public          Works     Fund;
+14
+                      on       Wasco        County        has        filed        an    application                with     the     Department
+15
+           to       obtain     financial           assistance                for       an     "infrastructure                 project"            within
+16
+           the       meaning     of        the    Act;
+17
+                      D.       The     Department              has     approved              Wasco          County's        application                for
+18
+           financial           assistance              from     the        Special           Public          Works     Fund        pursuant            to
+19
+           the       Act;
+20
+                      E.       Wasco        County        is    required,               as    a       prerequisite            to    the       receipt
+21
+           of       financial         assistance           from        the       Department,                 to    enter      into       a
+22
+           Financial           Assistance              Award        Contract            and       a    Loan       Agreement         with        the
+23
+           Department           in     substantially                  the     form          attached          hereto        as     Exhibits            "A"
+24
+           and       "B";
+25
+
+26         //1/1
+       {        —    ORDINANCE
+Page
+
+                                                                Pat o3v0¥ (6)
+                          F,          The       project           described              in     Exhibit                 "A"    to     the       Loan        Agreement
+
+              (the        "Project")                  is    an    "infrastructure                        project"              within           the     meaning             of
+do
+
+              the     Act       which           is     needed          by    and        is     in    the        public              interest          of     Wasco
+w
+
+              County;
+ay
+
+                       G.             Notice           relating             to    Wasco         County's                 consideration                  of       the
+ wn
+
+              adoption           of        this        Ordinance             was       published                at       least        once       in     a    newspaper
+ a
+
+              of    general            circulation                 within          the        County            of       Wasco.         Such          notice           was
+ ~
+
+              published               at    least           14    days       in    advance               of    the        adoption              of    this
+ oo
+
+              Ordinance.
+ ie)
+
+10                     NOW,       THEREFORE,                     THE    COUNTY           COURT           OF     WASCO          COUNTY           ORDAINS           AS
+
+11            FOLLOWS:
+
+12                        1.      LOAN           AUTHORIZED.                     The     Wasco           County           Court        authorizes                 the
+
+              County           Judge        to       execute           the       Financial               Assistance                 Award        Contract,                 Loan
+13
+              Agreement,               the       Promissory                 Note        attached              as     Exhibit           "F"       to     the       Loan
+14
+              Agreement               (the        "Financing                Documents")                  and       such        other        documents                 as    may
+15
+              be    required               to    obtain           financial              assistance                  including              a    loan        from          the
+16
+              Department               on       the        condition             that        the     principal                 amount           of    the        loan
+17
+              from     the       Department                  to    Wasco          County            is    not        in       excess        of       $954,841.00
+18
+              and     the       interest               rate       on    such       loan         is       not       in     excess        of       6.25        percent
+19
+              (6.25%).            The           proceeds           of       the    loan         from          the        Department              shall           be
+20
+              applied           solely           to        the    "Costs          of     the        Project"              as    such        term        is       defined
+21
+              in    the        Loan        Agreement.
+22
+                       2.         SECURITY.                      Amounts          payable            by       Wasco           County        shall           be    payable
+23
+              from     the       sources               described             in    Section               3.09        of       the     Loan       Agreement                 and
+24
+              the    Oregon            Revised              Statutes             Section            385.723(2)                 which         include:
+25
+26
+              //f//
+        )
+       owt,        - ORDINANCE
+Page
+
+                                                                                 PG 030 & CS?
+                                 a.     any        sources          of    funds        that          are     legally             available
+
+                                        to       Wasco        County,
+
+                                 b.     the        revenues,             if    any,        of     the      Project,              including
+ WwW
+
+                                        special              assessment             revenues,              if    any,        and
+ Ph
+
+                                 c.     Wasco           County's          general            fund,         including              the    tax       and
+ wo
+
+                                        other           general          revenues            of      Wasco       County,           subject
+ Oo
+
+                                        only        to       the    restrictions                  of    Article            XI,     Sections
+ won
+
+                                        10,        11    and       11b    of    the        Constitution                 of       the    State          of
+
+                                        Oregon.               Wasco       County           acknowledges                 its       current
+ Ho
+
+10                                      intention              to    make       all        payments             due     pursuant             to    the
+
+it                                      Financing              Documents              and,        to    the      extent           that       funds
+
+12                                      are       appropriated                 to     make         such     payments,              the       full
+
+                                        faith           and    credit          of     Wasco          County          are     pledged          to       such
+13
+
+14                                      payments.
+
+15                   3.          ADDITIONAL              DOCUMENTS.                 The      County         Judge          is     hereby
+
+            authorized            to    enter           into       any    agreements                 and    to       execute           any    documents
+16
+
+17
+            or    certificates                which          may    be    required              to     obtain         financial              assistance
+
+            from    the         Department              for    the       Project           pursuant             to    the        Financial
+18
+19          Assistance            Award          Contract           and       the     Loan        Agreement.
+
+                     4.          TAX-EXEMPT              STATUS.              Wasco        County          covenants              not    to       take       any
+20
+            action         or    omit       to    take        any     action          if     the       taking         or     omission             would
+a1
+            cause         interest          paid        by    Wasco       County           pursuant             to    the        Loan    Agreement
+22
+            not    to      qualify          for     the       exclusion             from        gross        income          provided             by
+23
+            Section         103(a)          of    the        Internal          Revenue            Code      of       1986,        as    amended.                 The
+24
+25          County         Judge       of     Wasco          County       may       enter         into      covenants              on    behalf             of
+
+            Wasco         County       to     protect          the       tax-exempt               status         of     the       interest             paid       by
+26
+       4.        = ORDINANCE
+Page
+
+                                                                                                  Pabo3 08 (S )
+           Wasco           County        pursuant                 to    the      Loan      Agreement                and     may        execute             any    Tax
+
+           Certificate,                      Internal             Revenue           Service           forms         or    other         documents                as
+HD
+
+           shall           be    required               be    the       Department              or     their         bond        counsel             to     protect
+WO
+
+           the       tax-exempt                status             of     such       interest.
+BP
+
+                          5.         REIMBURSEMENT                     BONDS.          Wasco         County          may     reimburse
+ nan
+
+           expenditures                      for    the       Project           with       amounts             received               from      the
+ Oo
+
+           Department                  pursuant              to    the       Financing           Documents.                  Additionally,                       Wasco
+ nN
+
+           County              understands               that          the    Department              may        fund       or    reimburse                 itself
+ oOo
+
+           for       the        funding            of    amounts             paid     to     Wasco         County           pursuant             to       the
+ Oo
+
+           Financing                 Documents               with       the     proceeds             of    bonds          issued           by    the        State       of
+10
+           Oregon              pursuant            to    the       Act.         This       Ordinance                shall        constitute
+11
+           “official                 intent"            within          the     meaning          of       Section           1.150-2             of    the        Income
+12
+           Tax       Regulations                   promulgated                by     the    United             States        Department                   of     the
+13
+           Treasury              with         respect             to    the      funding         or       the       reimbursement                    for       the
+14
+           funding              of     the     costs          of       the    Project           with       the       proceeds              of    Wasco
+15
+           County's              loan         pursuant             to     the      Financing              Documents              and       with       the
+16
+           proceeds              of     any        bonds          issued        by    the       State          of    Oregon            pursuant             to    the
+17
+           Act.
+18
+                      6.             DECLARATION                  OF    EMERGENCY.               Wasco          County           declares             that        an
+19
+           emergency                 exists         in       order        that       there       be       no    delay        in        financing               the
+20
+           Project              as     provided              in    this       Ordinance.                  Therefore,              this          Ordinance
+21
+           shall           be    in     force           and       effect         from      and       after          passage           by     Wasco          County.
+22
+                      Regularly                passed             and     adopted          by    a    unanimous              vote          of    all        members
+23
+           of       the        County         Court          of    the       County        of    Wasco,             State        of     Oregon,             present
+24
+           on       this        day.
+25
+
+26         //1/7
+       |        -    ORDINANCE
+Page
+
+                                                                              Sivo3es (5)
+                    DONE    AND   DATED    this   17th   day   of    July,     1996.
+
+                                                           WUT a
+                                                                    WAS         UNTY   COURT
+ hb
+ WH
+ fk
+ a
+
+                                                                             ‘ficKay, “county    Corhmissioner
+ oOo
+
+                                                                      be               \eckyee 7”
+ won
+
+                                                                    Dan   Ericksen,     County    Commissioner
+
+           wai             AS   TOet           LA
+ ow
+
+               ea 5 as
+10     /ernacd  L.  Ze
+        Wasco County District                Attorney
+11
+
+12         A   PEST:
+                                      Vf
+                \      4        CX         S
+13     ‘Kdret,         LeBreton
+        Wasco          County Clerk
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+       &       - ORDINANCE
+Page
+
+                                                     faclaeK(s )
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 93.5% of
+the word sequence, and on 75.8% of the figures. Dictionary-recognizable words: 93.6%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

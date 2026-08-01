@@ -1,0 +1,332 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-comprehensive-plan-amendment-in-exclusive-farm-use-zone-7-17
+title: 'Comprehensive Plan Amendment in Exclusive Farm Use Zone 7-17-1996'
+doc_type: ordinance
+citation: 'Comprehensive Plan Amendment in Exclusive Farm Use Zone 7-17-1996'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1996/Comprehensive%20Plan%20Amendment%20in%20Exclusive%20Farm%20Use%20Zone%207-17-1996.pdf?t=202503260855350
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d4191cd802436dcdf46befa7b878c187e96753951ee5abaebd277755780904cc
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.983; figure agreement 0.882; dictionary ratio 0.953. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Comprehensive Plan Amendment in Exclusive Farm Use Zone 7-17-1996 (Comprehensive Plan Amendment in Exclusive Farm Use Zone 7-17-1996)
+
+## At a glance
+
+OCR-derived text of Comprehensive Plan Amendment in Exclusive Farm Use Zone 7-17-1996. Not human-verified.
+
+## Full text
+
+IN THE COUNTY COURT OF THE STATE OF OREGON
+
+                            IN AND FOR THE COUNTY OF WASCO
+
+IN THE MATTER OF THE DECISION ON THE
+REQUEST      BY ROBERT    L. COATS FOR A
+COMPREHENSIVE PLAN AMENDMENT TO ADD A
+
+                                                                      ee
+36.03 ACRE AGGREGATE RESOURCE SITE TO THE
+
+                                                                      ee
+WASCO COUNTY COMPREHENSIVE PLAN AND                                         ORDINANCE
+
+                                                                      fe
+APPLY A MINERAL AND AGGREGATE OVERLAY
+
+                                                                      fe
+ZONE 'TO THE SITE, ON A 2,436.72 ACRE PARCEL IN
+
+                                                                      Ne
+THE “A-1(80)” EXCLUSIVE FARM USE ZONE (FILE
+
+                                                                      ee
+#CPA-96-101-WAA18-P)
+
+                                                                      Nee
+        NOW ON THIS DAY, the above-entitled matter having come on regularly for consideration,
+
+said day being one duly set in term for the transaction of public business and a majority of the Court
+
+being present; and
+
+        IT APPEARING TO THE COURT:            That on April 14, 1996, the applicant, Robert L.
+
+Coats, submitted an application for a Comprehensive Plan Amendment          to add a 36.03 acre
+
+agprepate resource site to the Wasco County Comprehensive Plan and apply the Mineral and
+
+Aggregate Overlay Zone to the site, on a 2,436.72 acre parcel in the Exclusive Farm Use zone (File
+
+#CPA-96-101-WAA18-P).       The proposed operation is on a portion of the subject property located
+
+on the south side of State Highway 293 (Lower Antelope Road), approximately 2 miles north and
+
+east of its intersection with U.S. Highway 97 at Willowdale, and further described as Township 8
+
+South, Range 15 East W.M., Section 26, Tax Lot 2900; and
+
+        IT FURTHER APPEARING TO THE COURT:                  That   on Monday, June 17, 1996, at 3:00
+
+p-m., in the Columbia Gorge Community College, Boardroom #1.162, 400 E. Scenic Drive, ‘The
+
+[ORDINANCE - Page 1 of 6]
+
+    :
+Coats CPA-96-101-WAA18-C
+                                             fab037a(6)                            uly   17, 1996
+Dalles, Oregon, the Wasco County Planning Commission met to conduct a legally notified
+
+legislative public hearing on the above matter. Those members of the Commission present were
+
+determined to be qualified to hear the matter. Chairman Dan Ericksen read the rules of evidence
+
+and opened the hearing. The Commission reviewed the record, heard the staff report, and
+
+received all testimony and evidence, then closed the public hearing. The Commission then
+
+deliberated, and based upon the full record and evidence and testimony presented, voted 7-0 to
+
+forward a Recommendation (Exhibit A) to the Wasco County Court to approve the
+
+Comprehensive Plan Amendment to add a 36,03 acre aggregate resource site to the Wasco County
+
+Comprehensive Plan and apply the Mineral and Aggregate Overlay Zone to the site, on a 2,436.72
+
+acre parcel described as Township 8 South, Range 15 East W.M., Section 26, Tax Lot 2900, subject
+
+to ten conditions; and
+
+        IT FURTHER APPEARING           TO THE COURT:       That on 10:00 a.m. on July 3, 1996,     in
+
+the County Courtroom, Room 202, of the Wasco County Courthouse, The Dalles, Oregon, this
+
+Court met to conduct a legislative public hearing on the above matter. The members of the Court
+
+were determined to be qualified to hear the matter; and
+
+        IT FURTHER APPEARING TO THE COURT:                 That the Court reviewed the record of
+
+the Planning Commission, heard the Staff Report and received testimony and evidence from the
+
+parties and then continued the hearing to Wednesday, July 17, 1996, at 2:15 p.m.; and
+
+        IT FURTHER APPEARING TO THE COURT:                 That on Wednesday, July 17, 1996, the
+
+Court received all testimony and evidence submitted subsequent to the July 3, 1996, hearing, and
+
+[ORDINANCE - Page 2 of 6]
+Coats CPA-96-101-WAA18-C                                                        July 17, 1996
+
+                                              9% 0372 (¢)
+closed the hearing for further input. ‘The Court then deliberated, resulting in a          3          to
+
+        Oo      vote to approve the request by Robert L. Coats for a Comprehensive Plan
+
+Amendment      to add a 36.03 acre aggregate resource site to the Wasco County Comprehensive Plan
+
+and apply the Mineral and Aggregate Overlay Zone to the site. Based upon the full record and
+
+evidence and testimony presented, the Court, being fully apprised in the premises, did hereby make
+
+the following findings of fact and conclusions of law:
+
+                                         FINDINGS OF FACT
+
+1.   Proper notice was given and the hearing was held in accordance with procedural rules for
+     legislative hearings and in conformity with said requirements as set forth in the Wasco County
+     Comprehensive Plan.
+
+2.   Two members of the County Court were present. The two members were qualified to sit as
+     decision-makers after full disclosure was made and the matter of qualifications was discussed by
+     the Court. Commissioner Ericksen had voted on this request as a Planning Commissioner,
+     however he was allowed to vote on this hearing due to the “Rule of Necessity”;
+
+3.   In making its decision, the Court recognizes the procedural and legal requirements of the Wasco
+     County Comprehensive Plan and the Wasco County Land Use and Development Ordinance
+     and weighed fully each requirement in arriving at its decision.
+
+4.   The Court acknowledges and accepts the Findings of Fact in the Recommendation made by the
+     Wasco County Planning Commission, dated June 17, 1996.
+
+5.   The Court finds that the proposed aggregate extraction site is capable of producing roughly
+     twelve times the 250,000 cubic yards required to qualify as a significant site under the County's
+     Ordinance. The Court further finds that Mr. Coats has extensive experience in road
+     construction in the Central Oregon area over the past 40 years. This, combined with his and
+     Mr. Priday’s willingness to invest money in a rock pit of this size is a reliable guide to the
+     significance of the resource site.
+
+6.   The Court understands and accepts that the 250,000 cubic yard threshold quantity was
+     established as the threshold for Goal 5 significance in Wasco County based on conversations
+     with DOGAMI. Essentially, DOGAMI explained that the regional geology is such that
+     Columbia River Basalt flows on the surface were few and far between in areas that were likely to
+     be available for mining, i.e., close to highways, near the surface, etc., and that, accordingly, a
+     relatively low threshold had to be set in order to allow a sufficient number of sites to be located
+     and protected.
+
+[ORDINANCE - Page 3 of 6]
+Coats CPA-96-101-WAA18-C                                                              July 17, 1996
+
+                                                  Saeo2IA (b)
+7.   The Court determined that the applicant substantiated the quality and quantity of rock to be
+     extracted in accordance with standard professional evaluations. The Court notes that Mr. Coats
+     is a Civil Engineer, and has extensive experience in locating previously unknown sources of rock
+     that will meet Oregon Department of Transportation specifications, and that the number and
+     location of the test pits are in accordance with Mr. Coats’ normal practices in his 20 or so other
+     sites in the Central Oregon area and in accordance with the standards used by the Wasco
+     County Road Department.
+
+     The Court also observes that a highly specific comparison of each site with every other site is
+     not required, since the Goal 5 rule allows the County to rely on “available information” and to
+     make comparisions with “other examples” in the jurisdiction. The Court places great reliance
+     on the opinion of the County Road Department of the value of this resource site.
+
+8.   The Court acknowledges that private driveways or easement roads are not listed as sensitive
+     uses in the County's Comprehensive Plan and that adjacent landowners ability to develop such
+     uses within the buffer will not be affected by application of the buffer protection to the
+     agprepate source.
+
+9.   The Court recognizes that development standards listed in Section 3.835 of the Wasco County
+     Land Use and Development Ordinance will be applied to the proposed development in an
+     administrative review to be processed following establishment of significance. These standards
+     set forth requirements for hours of operation and site access more specific than conditions # 9
+     and #10 of the Planning Commissions! Recommendation.
+
+                                      CONCLUSIONS OF LAW
+
+1.   The Wasco County Court acknowledges and accepts all original findings and conclusions made by
+     the Planning Commission in their June 17, 1996, Recommendation.
+
+2.   The Court concludes that evidence in the record substantially demonstrates that the proposed
+     rock pit will not force a significant change nor increase the cost of accepted farm or forest
+     practices on surrounding lands developed for farm or forest use.
+
+3,   The Court also concludes that the quantity of rock reported to be available (over 3 million cubic
+     yatds) is clearly a significant quantity to Wasco County and has been demonstrated by
+     engineering reports to exceed ODOT specifications and the quality threshold for significance
+     established and acknowledged in the County's Ordinance.
+
+4,   The Court determines that application of the 750 foot buffer area shall in no way limit adjacent
+     landowners ability to develop and use lawfully established private drives and easement roads.
+
+5.   To ensure standards applied in Section 3.835 govern without dispute, the Court concludes that
+     conditions # 9 and #10 of the Planning Commission's Recommendation shall be deleted.
+
+[ORDINANCE - Page 4 of 6]
+Coats CPA-96-101-WAA18-C                                                           July 17, 1996
+
+                                             $Ge0372( )
+         NOW, THEREFORE, IT IS HEREBY ORDERED:                  That the Wasco County Court grants the
+
+request by Robert L. Coats for a Comprehensive Plan Amendment to add a 36.03 acre aggregate
+
+resource site to the Wasco County Comprehensive Plan and apply the Mineral and Aggregate
+
+Overlay Zone to the site, on a 2,436.72 acre parcel described as Township 8 South, Range 15 East
+
+W.M., Section 26, ‘Tax Lot 2900, subject to the following conditions and protections:
+
+1.   All landowners within '/2 mile of the extraction area will be notified of mining and processing
+     operations before the beginning of each operation following a shutdown of 30 days or more.
+
+     New conflicting noise and/or dust sensitive uses, such as single-family dwellings, shall not be
+     allowed within 750 feet of the extraction area unless the applicant has signed a waiver of
+     remonstrance precluding protest of any surface mining activities, or unless, prior to granting
+     final approval to site the new conflicting noise and/or dust sensitive use within 750 feet of the
+     extraction area, the applicant shows that the proposed use will not cause the mining operation
+     to violate DEQ noise control standards and ambient air quality emission standards as measured
+     at the proposed use.
+
+     No conflicting uses, such as dwellings, shall be allowed within 250 feet of the extraction area.
+
+     Mining and processing operations (including noise and dust generated) shall be consistent with
+     Oregon Department of Environmental Quality statutes and regulations and applicable county
+     ordinances.
+
+     Reclamation will meet Oregon Department of Geology and Mineral Industries (DOGAMI)
+     requirements, the Oregon Department of Fish and Wildlife (ODFW)          recommendations
+     contained in that letter dated April 22, 1996, or any others adopted by the DOGAMI
+     Reclamation Plan and Operating Permit, and applicable county ordinances. Erosion control
+     will be accomplished through the DOGAMI        Reclamation Plan and Operating Permit.
+
+     Visual impacts shall be mitigated by concurrent reclamation under jurisdiction of
+     DOGAMI.
+
+     Establishment of a riparian buffer zone along Antelope Creek will meet DOGAMI
+     requirements and ODFW recommendations contained in that letter dated April 22, 1996.
+
+     Should any cultural resources be discovered, all ground disturbing activity shall cease
+     immediately and the Tribe(s) and the County Planning Office shall be notified in order to allow
+     for an evaluation by a professional archaeologist to insure protection of cultural resources and
+
+[ORDINANCE - Page 5 of 6]
+Coats CPA-96-101-WAA18-C                                                            July 17, 1996
+
+                                           $400372(b )
+    for designating immediately an alternative area for excavation that does not contain cultural
+    resources.
+
+          Regularly passed and adopted by the County Court of the County of Wasco, State of Oregon.
+
+                            DATED this 17" day of July, 1996.
+
+                                                          pvp,
+                        .                             Lay                  €           bo.
+Approved as to Form:                                            J if, Wi
+                                                           {      L4EZ6        vA      (7 /
+
+BEN                                                         hab)
+     +5                       /                           Stott 5 cKay, Commissioner
+                    a                                                                     -
+
+Bernard L. Smith                                          Daniel W. Ericksen, Commissioner
+Wasco County District Attorney
+
+<6C:\windows\notices-orders\
+                         Coats CC Decision>
+
+[ORDINANCE - Page 6 of 6]
+Coats CPA-96-101-WAA18-C                                                            July 17, 1996
+                                             69003726 )
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.3% of
+the word sequence, and on 88.2% of the figures. Dictionary-recognizable words: 95.3%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

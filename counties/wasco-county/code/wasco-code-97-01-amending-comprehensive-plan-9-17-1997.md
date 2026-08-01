@@ -1,0 +1,2607 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-97-01-amending-comprehensive-plan-9-17-1997
+title: '97-01 Amending Comprehensive Plan 9-17-1997'
+doc_type: ordinance
+citation: '97-01 Amending Comprehensive Plan 9-17-1997'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1997/97-01%20Amending%20Comprehensive%20Plan%209-17-1997.pdf?t=202503260855250
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: ef339093c086b0f46dca3365fb0cbfeca8e3503c6a5b4d37f59a22b2c1b5a9d3
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.989; figure agreement 0.700; dictionary ratio 0.968. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.732
+    - ORS 197.763
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# 97-01 Amending Comprehensive Plan 9-17-1997 (97-01 Amending Comprehensive Plan 9-17-1997)
+
+## At a glance
+
+OCR-derived text of 97-01 Amending Comprehensive Plan 9-17-1997. Not human-verified.
+
+## Full text
+
+FILED W
+                                                                                THE Al
+                                                                                    5               an
+
+             BEFORE THE COUNTY COURT OF WASCO COUNTY, OREGON
+                                                                                            :   5         yu   BER
+
+IN THE MATTER OF AN ORDINANCE                      )                      Sep 18                3.23 PHOT
+AMENDING THE WASCO COUNTY                          )
+                                                        ORDINANCE NO. 97-008 0                           cr eng
+                                                                          we
+
+COMPREHENSIVE PLAN, TAKING AN                      _)
+                                                                           1   hy
+
+EXCEPTION TO GOALS 3, 11 14;                       )
+AMENDING SECTIONS 3.230(B) AND                     )
+1.090 OF THE WASCO COUNTY ZONING                   )
+ORDINANCE; AND APPLYING THE                        )
+AGRICULTURAL-RECREATIONAL                          )
+ZONE, A-R PLAN DESIGNATIONS, AND                   )
+THE LIMITED USE OVERLAY ZONE TO                    )
+THE EXCEPTION PROPERTY
+
+       THE WASCO COUNTY COURT HEREBY ORDAINS AS FOLLOWS:
+
+1.     UNDERLYING PURPOSE
+       This ordinance is enacted pursuant to the authority granted to general law counties in the
+
+State of Oregon by ORS Chapters 203, 197, and 215 to implement the Wasco County
+
+Comprehensive Land Use Plan by amending the Wasco County Comprehensive Plan by taking
+
+an exception to Statewide Goals 3 (Agricultural Lands), 11 (Public Facilities and Services) and
+
+14 (Urbanization) (the “Exception”) and incorporating plan policies referencing the Agricultural-
+
+Recreational (A-R) plan designations; amending the Wasco County Zoning Ordinance by adding
+
+a new permitted use in the A-R zone and by adding a definition of “youth/family camp”; and
+
+applying the A-R zone designation, the A-R plan map designations and the Big Muddy Limited
+
+Use Overlay to 1360 acres located within the Big Muddy Ranch in southeastern Wasco County,
+
+more particularly described in Exhibit A.
+
+2.     AUTHORIZATION
+       The applicant, Young Life, initiated the plan amendment proceedings by an application
+
+submitted to the County in May 1997.     The Planning Commission held public hearings on the
+
+proposal on July 14 and 28, 1997,    The Planning Commission submitted its Recommendation to
+
+1-   IN THE MATTER OF AN ORDINANCE AMENDING THE WASCO COUNTY
+     COMPREHENSIVE        PLAN      (NO. 97-001)                                        |
+
+                                                        Yb     0 34,           (67)
+the County Court. The County Court held a public hearing on August 20, 1997, for which proper
+
+public notice and advertisement were given, including 45-day notice to the Department of Land
+
+Conservation and Development.     All persons present during the public hearing were given the
+
+opportunity to speak or present written statements.
+
+3.     EVIDENCE AND FINDINGS
+
+       The amendment to the Wasco County Comprehensive Plan made hereunder is based on
+
+consideration and analysis of the provisions of ORS Chapters 197 and 215 and Oregon
+
+Administrative Rules Chapter 660. Due consideration was given to the testimony and evidence
+
+in the record. The County Court finds that adoption of the Exceptions to Goals 3, 11 and 14 as
+
+part of the Wasco County Comprehensive Plan is in compliance with the Statewide Goals, with
+
+the applicable goals and policies in the plan, and with ORS Chapters 197 and 215 and OAR 660.
+
+It also finds that the adoption of plan policies referencing the A-R plan policies and plan map
+
+designations is in compliance with these referenced standards.    The findings and conclusions
+
+showing compliance are attached hereto as Exhibit B and incorporated herein by this reference.
+
+       The amendments to the Wasco County Zoning Ordinance made hereunder are based on
+
+consideration and analysis of the provisions of ORS Chapters 197 and 215 and applicable
+
+Statewide Goals, the county plan and zoning ordinances.    Due consideration was given to
+
+testimony and evidence in the record. The Court finds that amending Section 3.230(B) to add a
+
+new permitted use, amending Section 1.090 to add a new definition and adding the Big Muddy
+
+Limited Use Overlay to Section 3.700, Division 9 as new Section 3.930 are actions that are in
+
+compliance with ORS 197 and ORS 215, the Statewide Goals, the goals and policies in the
+
+Wasco County Comprehensive Plan and the criteria of the county zoning ordinance.
+
+2-   IN THE   MATTER     OF AN ORDINANCE           AMENDING      THE   WASCO   COUNTY
+     COMPREHENSIVE         PLAN   (NO.   97-001)                                   G   ‘          0123
+
+                                                          0470363 (s¢)
+consideration and analysis of the provisions of ORS Chapters 197 and 215 and applicable zoning
+
+ordinance provisions.   Due consideration was given to testimony and evidence in the record.      The
+
+Court finds that application of the A-R and Big Muddy Limited Use Overlay to the Exception
+
+area is consistent with applicable approval criteria as discussed.   The findings demonstrating
+
+compliance with these criteria are attached hereto as Exhibit B and are incorporated herein by
+
+reference.
+
+4.      AMENDMENT TO WASCO COUNTY COMPREHENSIVE PLAN
+        The comprehensive plan amendments, comprised of an Exception to Goals 3, 11 and 14
+
+and plan policies referencing the A-R plan purposes and map designations are granted.      The plan
+
+amendments include the Findings and Conclusions attached hereto as Exhibit B, the text of the
+
+Exception Statement attached as Exhibit C and the text policies referencing the A-R plan
+
+purposes as Exhibit D are incorporated herein.
+
+5.      AMENDMENT TO WASCO COUNTY ZONING ORDINANCE SECTION 3.230(B),
+        AGRICULTURAL RECREATIONAL ZONE AND SECTION 1.090, DEFINITIONS
+
+        The zoning ordinance amendments to Section 3.230(B) and Section 1.090 are approved.
+
+The amendments consist of the Findings and Conclusions attached as Exhibit B and the text of
+
+the amendments attached as Exhibit E, both of which are incorporated herein.
+
+6.      AMENDMENTS         TO WASCO COUNTY ZONING ORDINANCE BY ADDITION OF
+        BIG MUDDY       LIMITED USE OVERLAY ZONE
+        The amendment of the Wasco County Zoning Ordinance by addition of the Big Muddy
+
+Limited Use Overlay is approved.     The amendment consists of the Findings and Conclusions
+
+attached as Exhibit B and the text of the Big Muddy Limited Use Overlay, referenced as Section
+
+3.930, Division 9 of the Environmental Protection Districts, attached as Exhibit F, are
+
+incorporated herein.
+
+3-   IN THE MATTER OF AN ORDINANCE AMENDING THE WASCO COUNTY
+     COMPREHENSIVE          PLAN (NO. 97-001)
+
+                                                            6490368 (SID
+                                                                                                        0123
+7.     AMENDMENT         OF WASCO COUNTY ZONING MAP BY APPLICATION OF A-R
+
+       AND BIG MUDDY             LIMITED USE OVERLAY ZONES TO EXCEPTION AREA
+
+       The requested application of the A-R zone and LU overlay zone to the exception area is
+
+granted. Approval is subject to the conditions identified in Exhibit G, attached hereto and by this
+
+reference incorporated herein.
+
+                            of £ ppronlsee, 1997.
+        SIGNED this \“\“" day
+                                                 we          COUNTY COURT
+
+                                            Vin
+                                                      Khe Hi let |Judge
+
+                                                 Ml   cott McK ay, Commissioner
+
+     Bll
+                            vi
+
+ Bernard L. Smith                                Daniel W. Ericksen, Comtifiissioner
+ Wasco County District Attorney
+
+ 4-   IN THE MATTER OF AN ORDINANCE AMENDING THE WASCO COUNTY
+      COMPREHENSIVE         PLAN     (NO.   97-001)                                    .
+
+                                                                 al 4710363 C 59)
+               S| PACTIC
+             eee        155 N.E. Revere
+                                                                                                           EXHIBITA
+
+              Mem       Rend, Oregon 97701
+
+                                                   Legal Description
+
+      All that property being a portion of Section 36, Township 8 South, Range 18 East, and Scctions
+      28, 29, 31, and 32, Township 8 South, Range 19 East, Willamette Meridian, Wasco County,
+      Oregon, described as follows:
+
+        T.8S., R.18E.
+
+                Section 36:       1.) The east half of the northeast quarter (E%44NE)
+
+        L8S.. R.19E.
+
+                Section 28:       1.) The south half of the northwest quarter (S14NW4)
+                                  2.) The north half of the southwest quarter (NAS W'4)
+                                  3.) The southwest quarter of the southwest quarter (SWS WA)
+
+                Section 29:       1.) The south half of the section (S’4)
+                                  2.) The southwest quarter of the northwest quarter (SW4NW')
+                                  3.) The southwest quarter of the northeast quarter (SW’ANE)
+                                                                                »
+
+                Section 31:       1.) The northwest quarter (NW"4)
+                                  2.) The north half of the southwest quarter (NAS W'4)
+                                  3.) The southwest quarter of the southwest quarter (SW%4SW%)
+                                  4.) The north half of the southeast quarter (N/2SE')
+                                  5.) The northeast quarter of the northeast quarter (NE}4NE)
+                                  6.) The south half of the northeast quarter (S/“4NE’4)
+
+                Section 32:       1.) The northeast quarter of the northwest quarter (NEANW’A)
+                                  2.) The west half of the northwest quarter (W/ANW'/)
+                                  3,) The west half of the southwest quarter (WAS W%)
+
+                                                                                    (REGISTERED       —)
+                                                                                       PROFESSICK 41
+                                                                                      LAND, SURVE) SR
+                                                                                    Za
+                                                                                     fh. pbx
+                                                                                           Cb
+      18140] 01 \blemuddy.leg                                                                 21,          1997
+                                                                                      VANUARY
+                                                                                      KENNETH A. FISHER
+                                                                                             2802
+                                                                                     RENEWAL    : (2/99
+
+                                                                           041 13635" 7
+(541) 388-4255 Fax (541) 388-4229       Planning « Enginecring » Surveying * Landscape Architecture * Envitonmioental Services
+(45) STEUL
+g SvaS                        yes ie MKpid                                      y
+     a   is
+                                                                                    CHAN
+     ip) SA) 4
+                   ae
+                                                      -¢
+
+              SS
+
+   \e ff)
+ Sh &
+ x
+                   bth
+                                          —                      ‘f
+ °            7}
+
+                                                           A KY Va an
+                                                           SA
+                                                                  a ra   Raw,
+
+                                                           aes     i
+
+                                           De
+                         e
+
+                                          ALR
+          AG, |
+e
+ae
+
+                         Se
+
+                                          NY,
+                                     sa
+  w
+
+                              +,ot
+
+                                                Les
+                         Al
+          EXHIBIT B
+
+  Big Muddy Ranch - Young Life
+      Youth and Family Camp
+Land Use Findings and Conclusions
+
+         September 1997
+
+        4/9703603 (S54)
+                                    0139452.05
+                                                TABLE OF CONTENTS
+
+                                                                                                                                     Page
+
+       INTRODUCTION 0... cc eecccseseetseecessecesseeseceseesscesesessesaessasensacsascssasessseeseneceseseseseacensesneeesese 1
+
+II.    APPLICANT. .....csccscccssessesnsesssesescceceeseccsnceesessacesuesseessceseceneseseseseesseeesesenssesessasenseseaaeansssaseaseces 1
+
+i.     SUBJECT PROPERTY .....ccccccsssssscsssccesceccssecessesseesscssecseesseessesessesesseaeseessseeseeesseesrsensesnes 1
+
+IV.    NATURE OF APPLICATION .......ccsscssssssscsssesecseecsscsseseneceuccsssseccessseseensesesessessetesessneeneees 2
+
+       ELEMENTS OF THE APPROVED AMENDMENTS ........ccccsssssssssscssecsrecseceseseseecesssenetes 2
+       A.   Comprehensive Plan Amendment ........cescecesccsseesseesscssesseecssseacceeseseeseeeteeeeseseues 3
+       B.   LUDO Amendment ..........ccecsscscssseseessseccsssesessecssseseeesesseeesesesesssaeseessaseccsaeseseaaesonea 3
+
+VI.    APPLICABLE STANDARDS AND CRITERIA oc ceccccccsccsseetseeeseseteseseeeatesneeeeeeneeseseeees 4
+       A.    Statutes and Administrative Regulations .0.........ccsscccsscecstecesteceseceeseeeeeseeeeseeensceraeenes 4
+       B.    Statewide Planning Goals ..........ccesseescessceeseessecesseeesaeeesaeeesaseseeeseeeeseeeesaeeeseeenseenes 4
+       C.    Comprehensive Plan Provisions .........:ccscsscsccsscesesseseesssesscsseessesseessesseeeateneereseaeseees 4
+       D.    LUDO) ProviSiONS.........:ccccssscsssscccesessccesssececseecssacecsstaeecesseeeseeeecesseeeeeecaeeessaaecenenseeses 4
+
+VII.   STATEWIDE PLANNING GOALS 0.0... ceccsccesesssceeenecsaceseceaceeneceneceeseaeerseenaeenees “eeeeeeeeseeens 5
+       A.         Goal 1 - Citizen Involvement.......ccccccsecsseseserseseeers Mc ccsaeecsescsesesesesssssscsesscssscseeess 5
+       B.         Goal    2 - Land Use Planning .........cecccccccscseessecsecesseeeeneeseseeeeaessceseseesesseaeeeesecsseeeeeeees 5
+       C.         Goal    3 - Agricultural Lands .0..... cee eceeesssceeecescesseeeeseesseseeseesseecsseeeessaesenseesaeeseaeaes 6
+       D.         Goal    4 - Forest Lands.......ccscesccssssccesssecsesecsseeecsesneeceseacesnseceseeesesseeasseeseesecaeesees 6
+       E.         Goal    5 - Open Spaces, Scenic and Historic Areas, and Natural Resources... 6
+       F.         Goal    6 - Air, Water, and Land Resources Quality .......ccccccsssccssscssessessscstseseneeaseens 7
+       G.         Goal    7 - Areas Subject to Natural Disasters and Hazards.........eeesssccessessesneeeeeeenee 7
+       H.         Goal    8 - Recreational Needs .......ceesessscsstseesscssccsnscessaeessseesecensceessaeessseeseeesseeseneas 7
+       I.         Goal    9 - Economic Development...                    cecccsssssssessteecssesesscesceseacesssaceneeeedecessraeeesees 8.
+       J.         Goal     10 - HOUSING... eceseeceeseccenseeesceesseceeesssesssaeeesnesesaeseeeesaseeseeecsseeeeseeeseeeeseess 8
+       K.         Goal    11 - Public Facilities and Services ......cccsscssscssesstessccescssesseecessecescssesenecseseoss 8
+       L.         Goal     12 - Transportation... cceeescssssesessecescsecsnsessccsesesesecssesseeesesceseseseseasesseeeesen 9
+       M.         Goal     13 - Energy Conservation ....c.cccesccscsccesssencceseesseceacceeseseceaeseeeseeeesseeseesseeneees 11
+       N.         Goal     14 - Urbanization... cccccccccsssescessecesessccesseeesessacessssaesetaeesssesecessnecessseeeseneess 12
+
+Vit.   REASONS GOAL EXCEPTION ......cccccsccssscsssesseceeecssesseessesesecssessasssascssssesecnesoseeetaseneenneas 12
+       A.   Standards for Reasons EXception.......cccscsscscssccssecsecessccssecesaccsersesseeesesessneeeeeseses 12
+       B.   Examples of Reasons Justifying an Exception .........cscssssesscsssesesssersessseesensonsees 14
+       C.   Reasons Justification...         ccc ceesssscsssccssseecscccsecessscseesesnseesteccseesserseserscsaeesesseeseesonses 16
+       D.   Alternative LOCations.........ccecsecsessccsssscsnsesssesssssssaceesecessasesceessecenseeeesdecesuaneesaesseses 20
+       E.   Wasco County Comprehensive Plan... ecescsssctcctcesesessescetcesceteserssenseaseseeasaees 35
+       F.   LUDO Criteria ....... deseesescesaeegaesuceesuscgecsaesscsseceuesssceesesensenssssacsseesaeeseeeeeeeaeeceeensess 38
+
+                                                                    i    1470363                          (£4)                   0139452.05
+                                                                                     EXHIBIT B
+
+                               FINDINGS AND CONCLUSIONS
+
+L      INTRODUCTION
+
+               This document supports Wasco County Ordinance No. 97-001 which adopts a
+statewide planning goal exception, related map and text amendments to the Wasco County
+Comprehensive Plan (“Plan”) and Wasco County Land Use and Development Ordinance
+(“LUDO”), and implementing a limited use overlay zone for a youth and family camp on a portion
+of the Big Muddy Ranch in southeastern Wasco County.
+
+I.     APPLICANT
+
+                The application approved by this final decision documented by Ordinance
+No. 97-001 was submitted by Young Life, a non-profit nationwide Christian organization which
+ministers across the country and on a worldwide basis to senior and middle school youths. The
+Young Life organization, headquartered in Colorado Springs, Colorado, is over 50 years old and
+has active ministries in 23 different countries.
+
+                The property subject to the application is presently owned by two separate parties:
+the State of Oregon (Division of State Lands) and Mr. Dennis Washington. Both owners have
+authorized Young Life (by letter or contract) to file the land use applications. The Court finds
+that Young Life has appropriate authorization to initiate these landsuse requests in accordance
+with LUDO    Section 2.040.
+
+Wi.    SUBJECT PROPERTY
+
+                The Big Muddy Ranch consists of approximately 66,000 acres in southeastern
+Wasco County and northeastern Jefferson County. Only a portion of the ranch consisting of 1360
+acres along the Muddy Creek in Wasco County, was included in the application. The lands
+included in the application are hereinafter referred to as the “subject property,” “site” or
+“Exception Area.” No lands in Jefferson County are part of this land use approval.
+
+              The subject property is depicted on Exhibits A-1 and A-2, adopted as part of
+Ordinance No. 97-001. The legal description of the subject property is provided for in Exhibit A,
+also adopted as part of the referenced ordinance.   The Exception Area, like the remainder of the
+Big Muddy Ranch, is currently planned and zoned for agricultural use. This decision adopts land
+use approvals for the 1360 acre Exception Area to allow use for a youth and family camp
+consistent with the approved exception statement and the new Big Muddy Limited Use Overlay
+Zone (Exhibits C and E to Ordinance No. 97-001). The remainder of the Big Muddy Ranch is
+not subject to the land use application or approvals referred to in these Findings and Conclusions
+adopted by Ordinance No. 97-001. It retains the A-1, Exclusive Farm Use, zoning and plan
+designation.
+
+                                                      Genscs (S94)
+IV.    NATURE OF APPLICATION
+
+                 The Young Life application consisted of the necessary land use requests to allow
+Young Life to establish and operate its proposed youth and family camp at the Big Muddy
+Ranch. Young Life has the opportunity to obtain fee title to the ranch by charitable gift from the
+principal owner and Young Life intends to accept the ranch for youth and family camp purposes
+as long as it is able to obtain the necessary land use approvals and associated permits for the
+establishment and operation of the youth and family camp.
+
+               Young Life operates a non-profit Christian organization with youth and family
+camps located throughout the country. It is active principally with junior high and high school
+age youth and provides a summer camping experience in unique quality settings in various areas
+of the country. The Young Life camps are extensions of the activities which occur in Young Life
+clubs in many junior and high schools. Young Life clubs are active in various communities
+throughout the Northwest, including cities in Oregon, Washington and Idaho.
+
+                 Young Life’s camp at the Big Muddy Ranch will serve youth from around the
+Northwest. It will have capacity for 1000 campers, mostly junior high and high school youth and
+will offer both indoor and outdoor recreational opportunities as well as dormitory, conference
+and eating facilities. The main area of the camp will be located in the area along Muddy Creek,
+an area already developed with roads, buildings, and facilities. Other portions of the ranch will
+be used for various recreational opportunities, including hiking, climbing, rafting and related
+water activities in the nearby reservoirs and the John Day River.»
+
+               The requested land use approvals for the referenced site included the following:
+
+               1.     A reasons exception to Statewide Planning Goal No. 3, 11 and 14 and
+related map and text amendments to the Plan and LUDO to effect a zone and plan change from
+A-1, Exclusive Farm Use to A-R, Agricultural-Recreational.
+
+                2.       Young Life also requested that the zone change include the placement of
+the Wasco County Limited Use Overlay (LU) (Section 3.600) on the subject property to limit the
+uses to the use allowed by the exception. The LU zone is intended to be utilized in these
+circumstances (meaning as part of a reasons exception) in order to limit the permitted uses to
+those justified in the reasons exception (Section 3.600(A)).
+
+               3.     The third request was for an amendment to the text of the A-R zone to list
+a youth and family camp as an identified permitted use in the A-R zone (Section 3.230(B)).
+
+                4.      The last request was to include a definition of youth and family camp in
+the definitions section of the LUDO.
+
+V.     ELEMENTS       OF THE      APP      ED AMENDMENT
+
+               Ordinance No. 97-001 adopts the following Plan and LUDO amendments:
+
+                                                 > 59-703 63 (SD
+       A.      Comprehensive Plan Amendments
+
+               l.     Taking exceptions to statewide planning goals necessary to allow the use
+of the Big Muddy site for a youth and family camp.
+
+                 Exhibit C to Ordinance No. 97-001 adopts the Big Muddy Exception Statement.
+Consistent with OAR 660-04-018(3), the approved reasons exception limits the uses and
+activities to only those uses and activities justified by the exception. A change in use or intensity
+would require a new exception.
+
+               The Big Muddy Exception Statement describes the boundaries of the approved
+Exception Area, the nature and scope of the exception approval, the conceptual master plan for
+the camp, and the nature of the camp’s uses and activities justified by the exception. In the
+designated Development Area, consisting of 580 acres, the approved exception allows the use of
+existing buildings, improvements, roads and utility infrastructure. The Development Area is the
+portion of the approved Exception Area to be used extensively for camp purposes and is the only
+area which can accommodate new buildings for camp purposes. New buildings are restricted by
+and regulated under the Big Muddy Limited Use Overlay, adopted as Exhibit E to Ordinance
+No. 97-001, discussed in more detail below as an amendment to the LUDO.
+
+                2.     Creating an Agricultural-Recreational (A-R) plan map designation,
+adopting a policy statement for that designation and applying the A-R plan map designation to
+the subject property.                                              .
+
+               The Plan text amendment includes the adoption of a Plan policy describing the
+purpose of the A-R plan designation. ‘This policy is adopted as Exhibit D to Ordinance
+No. 97-001. The adopted Plan policy is consistent with the existing A-R purpose statement
+provided for in the LUDO, A-R zone, Section 3.230(A).
+
+       B.      LUDO Amendments
+
+               1.      Rezoning the subject property from A-1 to A-R.
+
+               2.      Amending the text of the LUDO to add youth and family camp as a new
+permitted use in the A-R zone.
+
+              3.      Amending the definition section of the LUDO to add a definition of youth
+and family camp to the LUDO.
+
+              4.     Adopt the Big Muddy Limited Use Overlay Zone and apply it to the
+approved Exception Area.
+
+               Ordinance No. 97-001 approves these above-referenced changes to the LUDO.
+Exhibit E, adopted as part of the referenced ordinance, includes the text changes to the LUDO by
+amending Section 3.230(B) to add youth and family camp to the A-R zone’s list of permitted
+uses and the new definition of the use to Section 1.090.
+
+                                                      Bimses st
+               Exhibit F, also adopted as part of the referenced ordinance, contains the text of the
+newly adopted Big Muddy Limited Use Overlay Zone. Consistent with the purpose of Wasco
+County’s LU zone, the Big Muddy Limited Use Overlay is adopted concurrently with the
+approved reasons exception to limit the list of uses allowed in the underlying zone (A-R) to only
+those uses and activities justified by the exception. As provided for in Exhibit E, the Big Muddy
+Limited Use Overlay has been made a part of the LUDO, adopted as Division 9, Section 3.710.
+
+VI.    APPLICABLE        STANDARDS       AND CRITERIA
+
+       A.      Statutes and Administrative Regulations
+
+               The standards for a reasons exception are outlined in three places: ORS
+197.732(1)(c), LCDC Goal 2, Part II, and Chapter 660, Division 4. The specific applicable
+administrative rules when a request is made for an urban use on rural lands are set forth in OAR
+660-14-040(2) and (3).
+
+       B.      Statewide Planning Goals
+
+               The adopted amendments comply fully with most statewide planning goals, but do
+involve nonresource uses and some urban levels of facilities and services.   As a result, the
+approvals depart from certain goal requirements, such as those of the Agricultural Goal (Goal 3),
+Public Facilities Goal (Goal 11), and Urbanization Goal (Goal 14). In these circumstances, the
+approvals include the taking of a formal exception which is an amendment to the Plan setting forth
+facts and reasons authorizing and justifying the necessary departures from the goals. The
+approved reasons exception incorporated in these approvals is discussed in detail below.
+
+       C.      Comprehensive Plan Provisions
+
+             The procedures and requirements governing amendments to the Wasco County
+Comprehensive Plan are set forth in Section XI, (VIII).
+
+               The findings demonstrating compliance with these criteria follow the discussion of
+the reasons exception.                                                                 ;
+
+       D.      LUDO     Provisions
+
+             The LUDO (Section 9.020(B)) describes the criteria relevant to amendments to
+the LUDO and county zoning map. These are also discussed below.
+
+                These findings are organized so that the analysis begins with state law and
+proceeds to local law. The first section addresses statewide goals and rules, including the
+standards for a goal exception; the latter sections address applicable standards from the Plan and
+the LUDO.
+
+                                             pages (0
+VI.     STATEWIDE        PLANNING      GOALS
+
+        A.      Goal 1 - Citizen Involvement
+
+                Goal 1 ensures “the opportunity for citizens to be involved in all phases of the
+planning process.” Various opportunities for citizen involvement have been incorporated into
+the Plan and LUDO. Compliance with Goal 1 is demonstrated by compliance with the
+acknowledged Plan and LUDO provisions.
+
+                For this matter, the Wasco County Planning Commission held public hearings on
+July 14 and July 28, 1997. Public notice was provided as required by state law and Plan and
+LUDO provisions. A public hearing was also held before the Wasco County Court on
+August 20, 1997 following receipt of the Planning Commission’s unanimous recommendation of
+approval. Prior to this hearing, the application statement, supporting documents, and a staff
+report were made available to the public for review.    Notice of the hearing was published and
+mailed to all property owners within 500 feet of the Big Muddy Ranch. Through this notice and
+hearing process, the public was provided the opportunity to be involved in the planning process.
+Thus, the Court finds compliance with Goal 1.
+
+                One procedural issue relating to citizen involvement was raised by an opponent of
+the proposal. Mr. Silvertooth-Stewart asserted that the County committed procedural error by
+closing the record on a Saturday and requiring that submittals be post marked by Saturday. The
+County did not commit procedural error. At the request of a party,,the County held the record
+open for 10 days, following all testimony to allow for responsive comment to the testimony. It is
+the County Court’s practice to close the record on the last day, even if that day is a Saturday.
+State law only requires that the record be held open seven days after the initial evidentiary
+hearing. ORS 197.763(6)(c). The record was held open for ten days and thus the statutory
+obligation was met. Further, there was ample time and opportunity to comment on the materials
+in the record.
+
+                Even if the County committed a procedural error, the opponents were not
+substantially prejudiced. First, the opponents have been afforded numerous opportunities to
+comment on the application, both at the Planning Commission and County Court stages.
+Second, prior to the close of the record, the opponents contacted the County Planning Office to
+determine when the record closed and submitted over ten pages of additional responsive
+comments to the testimony before the record closed. Nothing submitted by the opponents was
+rejected as being received after the close of the record.
+
+        B.      Goal 2 - Land Use Planning
+
+                Goal 2 guarantees that processes will be followed which establish a land use
+planning process and policy framework as a basis for all decisions related to the use of land and
+assure an adequate factual base for its decisions and actions. Wasco County has acknowledged
+comprehensive plan and implementing ordinances which establish the planning basis, inventory
+and factual basis for land use actions in Wasco County. The Young Life application and this
+
+                                                   ' Symavslst)
+approval process adhered to the requirements and standards of the Plan and LUDO.        This
+adherence to the process together with these findings demonstrates that an adequate factual base
+exists to support the approval. Thus, the Court finds that Goal 2 has been satisfied. It is
+recognized that Goal 2, Part 2 provides the exceptions process to allow departure from the strict
+requirements of other goals in limited circumstances. The exception is discussed below.
+
+       Cc,      Goal 3 - Agricultural Lands
+
+                Goal 3 requires that agricultural lands be preserved and maintained for farm use
+consistent with the state’s agricultural land use policies of ORS 215. The lands within the
+boundaries of the subject property at the Big Muddy Ranch are agricultural lands as defined by
+Goal 3. They are currently zoned A-1, an Exclusive Farm Use zone in Wasco County.
+
+              While the A-1 zone allows as conditional uses certain uses which are similar to
+Young Life’s camp, the A-1 zone does not allow this type of camp with its associated public
+services for water and sewer without an exception to Goal 3. For example, the A-1 zone allows
+“farm ranch recreation” as a conditional use (Section 3.210(C)(23). That use is described as farm
+ranch activities including overnight facilities and recreational facilities that are operated in
+conjunction with commercial farm operations. Young Life’s camp will have many
+characteristics of this referenced use, however, neither its overnight facilities nor its recreational
+facilities will be operated in conjunction with the ranching operation to be maintained on the
+remainder of the ranch. Because the camp is not a farm or nonfarm use that can be allowed
+under Goal 3, an exception to Goal 3 is being taken based on the reasons set forth below.        The
+approval of the exception exempts the site from the strict application of Goal 3.
+
+        D.      Goal 4 - Forest Lands
+
+                The Court finds that Goal 4 is not applicable because the subject property does
+not contain lands designated as forest lands. Wasco County’s Comprehensive Plan inventory
+and the associated Timber Site Productivity map document that no forest land resources exist at
+the Exception Area. (Comprehensive Plan, pp. 57-60.)
+
+        E.      Goal   5 -    Open   Space   enic and Historic   Ar       nd       ral     our
+
+                Goal 5 provides for the conservation and protection of natural and scenic
+resources. The Plan and LUDO have been acknowledged by LCDC as being in compliance with
+the statewide planning goals, so in this postacknowledgment proceeding, the county is entitled to
+rely on its acknowledged inventory of Goal 5 resources in determining what resources subject to
+Goal 5 are present on or near the Exception Area.
+
+                None of the subject property has been specifically identified or inventoried in the
+Plan or LUDO as a Goal 5 resource, nor is it within the area of potential conflicts with any
+specific inventoried site. While the Plan acknowledges that agricultural lands “could be” an
+open space resource under Goal 5, this subject property is not so inventoried. The Court finds
+that the proposal is consistent with Goal 5.
+
+                                                   °      OG 70363 (Gs 3) meee
+           F.   Goal 6 - Air, Water, and Land Resources Quality
+
+                The purpose of Goal 6 is to maintain and improve the quality of air, water and
+land resources of the state.
+
+                1.      Air
+                The Exception Area at the Big Muddy Ranch is not located in or near a federal
+attainment area. No foreseeable aspect of the Young Life camp will invoke the need for state or
+federal air quality permits.
+
+                2.      Water
+
+                Appropriate permits from Water Resources Department (WRD) will be needed in
+order to use water at the camp for quasi-municipal purposes. The Oregon Department of
+Environmental Quality (DEQ) and WRD must review, approve and permit operation of the
+existing sewage treatment facilities. In addition, DEQ must also review, approve and permit all
+components of the sewage collection system including the sewers, pump stations and control
+systems.
+
+                3,      Land Resources
+
+                There are no foreseeable solid waste or other contaminants from the camp which
+will require an environmental permit. As a condition of approval, Young Life must submit a
+solid waste management plan. Any and all other required land use permits (if any) will be
+obtained as a part of the future processing of the camp approvals.
+
+                The Court finds the proposal consistent with Goal 6.
+
+           G.   Goal 7 - Areas Subject to Natural Disasters and Hazards
+
+                The purpose of Goal 7 is to “protect life and property from natural disasters and
+hazards.” This goal is implemented by the Plan’s corresponding goal and policies identifying
+areas subject to natural disasters and hazards. The Exception Area of the Big Muddy Ranch is
+not identified or inventoried as a natural hazard area and there is no development proposed in an
+identified natural disaster or hazard area. As a result, the Court finds that the approval is
+consistent with Goal 7.
+
+        H.      Goal 8 - Recreational Needs
+
+                The purpose of Goal 8 is “to satisfy the recreational needs of the citizens of the
+state and visitors and, where appropriate, to provide for the siting of necessary recreational
+facilities, including destination resorts.” The Young Life camp will offer recreational
+opportunities to youth from Wasco County, other parts of Oregon, Idaho and Washington. One
+of the primary benefits of the camp is to introduce youth and others to a variety of recreational
+opportunities. The Court finds that the proposal is consistent with Goal 8.
+
+                                                   1 (9423 (03(59)"""
+        I.       Goal 9 - Economic Development
+
+                 The purpose of Goal 9 is to “provide adequate opportunities throughout the state
+for a variety of economic activities vital to the health, welfare, and prosperity of Oregon citizens.”
+The County implements this goal through the “Economy of the State” Goal and corresponding
+policies. Policy 5.C further implements this goal by providing that “additional parks, overnight
+camping areas, and other recreational areas should be provided when needed to encourage
+tourism in the county.” The Young Life camp will contribute to this policy by attracting visitors
+and campers to the County. The Court also finds that the camp will boost the County’s economy
+by providing employment opportunities, principally during the conversion of the existing
+structures and facilities to camp uses. Because the remainder of the ranch, approximately 64,000
+acres, will retain its EFU zoning, the County’s policy of maintaining agriculture as a primary basis
+of its economy will also be satisfied.
+
+        J.      Goal 10 - Housing
+
+                 Goal 10 provides for the housing needs of citizens of the state. This Goal is
+largely inapplicable because the Exception Area does not now provide housing opportunities and
+the Young Life camp will only offer limited permanent housing for year-round staff. The Court
+finds that Goal 10 is satisfied.
+
+        K.      Goal 11 - Public Facilities and Services
+
+              Goal 11 requires the planning and development of an orderly and efficient
+arrangement of public facilities and services to serve as a framework for urban and rural
+development. The Court finds that public services will be adequate for the proposed use.
+
+                 1.      Transportation
+
+                Transportation issues are addressed below under Goal 12.
+
+                2.       Police
+
+                Police protection will be provided by the Wasco County Sheriff or the Oregon
+State Police. The Wasco County Sheriff has confirmed his offices availability for providing
+services to the subject property.
+
+                3,       Fire Protection
+
+                Fire protection will be provided using trained camp personnel and equipment
+consistent with the requirements of the State Fire Marshall, as approved by the fire suppression
+plan imposed as a condition of approval (Exhibit G) (Condition No. 4).
+
+                4,       Health
+
+                Medical and first aid will be provided by trained camp personnel.
+
+                                                   | Pppsexssy™
+                  5.     Sewer
+
+                  Existing sewer facilities will be upgraded and permitted.   They are adequate for
+camp use.
+
+                  6.     Water
+
+                  Existing water facilities will be upgraded for camp use and are adequate to
+provide for the proposed use. All necessary water permits will be obtained for the use and
+system.
+
+                  7.     Power
+
+                  Adequate power capability is available to the Big Muddy Ranch from Wasco
+Electric Co-op.
+
+                  8.     Schools
+
+             The Superintendent of the Madras School District confirmed that the schools can
+accommodate the students (the children of permanent staff) that may live year round at the camp.
+
+                As previously noted, an exception to Goal 11 has been incorporated into this
+approval because Goal 11 prohibits urban levels of public facilities and services on rural lands
+outside a UGB. Because Young Life’s camp will reactivate and utikize the existing community
+water system and sewage system facilities, the County has taken the precaution of assuming
+these services would be considered urban services.
+
+          L.      Goal 12 - Transportation
+
+              The purpose of Goal 12 is “to provide and encourage a safe, convenient and
+economic transportation system.” It is implemented by LCDC’s Transportation Planning Rule
+(TPR), OAR 660-12.
+
+                  1.     County Roads
+
+                The approved Exception Area is approximately 12 miles southeast of Antelope
+and is accessed by a county road (Cold Camp Road) and Muddy Road (a county road in part and
+a local public access road in part). These are the only two county or local roads which will be
+used to access the camp area. The County’s Director of Public Works has determined that these
+roads are adequate to handle the traffic projected by Young Life and that the county’s current
+maintenance program is also sufficient to handle the projected traffic from the camp.
+Maintenance of that portion of Muddy Road which is a public road of local access is the
+responsibility of the property owner.
+
+               Two conditions of approval have been made a part of this decision related to
+county road and public road maintenance. They are as follows:
+
+                                                   > Vg ae2(sa)~
+               “(2)    Paving of Cold Camp Road southerly from its intersection
+               with state highway 218 shall be completed to a length of
+               approximately 100’ or to a length providing the County Road
+               Department a reasonable starting point for road grading.”
+
+                                                 kK
+
+               “(5) | The Muddy Road, a public road not maintained by the
+               County, shall be maintained by the applicant in a safe condition for
+               public as well as private access. If an alternate road is constructed
+               to afford alternative access to the Jefferson County public road in
+               lieu of any portion of the Muddy Road, either the Muddy Road
+               shall be maintained for public access or the alternate route shall be
+               dedicated to public access while the unmaintained portion of the
+               Muddy Road may be considered for vacation.”
+
+               2. -   State Roads
+
+                 State Highway 218 will serve as the principal access other than local roads for the
+camp’s projected traffic. In cooperation with Young Life, the Oregon Department of
+Transportation (ODOT) assessed the traffic impacts from the project on State Highway 218.
+ODOT concluded that State Highway 218 has adequate capacity to accommodate the projected
+traffic generated by the youth camp. ODOT suggested that Cold Camp Road be paved for a
+distance of 50 feet (Condition No. 2 extended this distance to 100 feet or to a length necessary to
+start grading) to protect the surface of the highway from rocks.
+
+                The Court recognizes that Condition No. 3 of Exhibit G also relates to
+transportation issues. It imposes a requirement for a revised transportation plan in the event that
+the projected traffic is increased by more than 30 percent. ODOT reviewed this condition when
+initially proposed as a part of the Planning Commission’s recommendation and concluded that
+the flexibility afforded Young Life (the potential 30 percent increase) does not negatively affect
+State Highway 218. ODOT again determined that given existing traffic volumes on the highway,
+there is adequate capacity to accommodate the projected traffic from the camp.
+
+               Some opponents are concerned that traffic levels will create unsafe driving
+conditions. However, ODOT and the Director of Public Works have determined that the levels
+of traffic from the Young Life camp can be accommodated safely on existing roads. A condition
+of approval ensures that if estimated trips increase by more than 30 percent, Young Life will
+submit a revised transportation plan to the Planning Commission to ensure maintenance of public
+safety.
+
+                Opponents specifically expressed concern about traffic levels on Highway 293.
+Most traffic from the camp will be directed from Cold Creek Road onto Highway 218, will
+proceed west to the intersection with Highway 293 and will continue west on Highway 293 to
+Highway 97 north of Willowdale. The use of Highway 293 diverts traffic to the south of
+Antelope and avoids directing traffic through Antelope on Highway 218. The opponents’
+
+                                                 ” Oysests2y™
+concern about Highway 293 is unfounded. Testimony from ODOT included in the opponents’
+letters in the record states that Highway 293 is adequate to accommodate the traffic increase
+projected for Young Life. Furthermore, while opponents are concerned that during times of high
+water, traffic will be diverted through Antelope, high water will most likely occur during rainy
+seasons when there is limited camp use. As a result, it is very unlikely that any noticeable
+amount of traffic from the camp will ever travel through Antelope. The testimony of ODOT and
+the County Public Works Director, in combination with traffic information submitted by the
+applicant, is substantial evidence that the road system is adequate to handle traffic from the
+proposed camp safely.
+
+               3.      TP
+
+                 Because of the location of the Young Life camp, the nature of the project, and the
+lack of public transportation in remote areas of the County, the Court finds that most of the
+provisions of the TPR related to transit-oriented development do not apply. The only applicable
+provision is OAR 660-12-060. It requires that local governments amending comprehensive plans
+and land use regulations determine whether the amendments “significantly affect a transportation
+facility” and, if so, to assure that land uses authorized by the amendments “are consistent with
+the identified function, capacity, and level of service of the facility.” OAR 660-12-060 also
+requires local governments to coordinate with ODOT in making these determinations.
+
+                 The amendments to the county’s acknowledged comprehensive plan and land use
+regulations as proposed by Young Life do not “significantly affect?.a transportation facility, as
+defined by the rule. The adopted Plan and LUDO amendments do not change the functional
+classification of a transportation facility, nor do they change standards implementing a functional
+classification system (OAR 660-12-020(a) and (b)). In accordance with subsections (c) and (d),
+the levels of traffic that will be generated by the youth camp are not inconsistent with the
+functional classifications of the roads serving the youth camp. The Court finds that Goal 12 is
+satisfied.
+
+         M.    Goal 13 - Energy Conservation
+
+                Goal 13 provides that land and land uses shall be managed to maximize the
+conservation of all forms of energy based on sound economic principles. It is implemented by
+local plans and regulations that contro! location, orientation and density of development to
+minimize net energy consumption. Conservation measures are generally of two types: (1)
+development of energy resources, and (2) wise use of energy.
+
+                The Young Life proposal does not include the development of energy resources.
+It does, however, include the reuse of many existing structures and provides for their conversion
+into structures suitable for youth camp purposes. This conserves energy by minimizing the need
+for construction of similar buildings elsewhere. In addition, uses within the camp will be
+clustered within the Development Area to reduce the need for motor vehicle trips. Pedestrian
+and bicycle trips within the camp will be encouraged by the use of camp buildings within the
+designated Development Area,    The Court finds compliance with Goal 13.
+
+                                                 11   G90            205(         SF)       0139452.05
+        N.      Goal 14 - Urbanization
+
+                  This goal requires that comprehensive plans provide for an orderly and efficient
+transition from rural to urban use. It requires that urban growth boundaries (“UGBs”) be
+established around incorporated cities through a cooperative process with surrounding counties
+to assure compact and efficient urban growth within the boundary while protecting and
+facilitating rural resource uses outside the boundary. It has been interpreted as requiring urban
+levels of development inside of acknowledged UGBs.
+
+                The determination of whether a particular use is an urban use is done on a case-
+by-case basis. The Young Life camp has both rural and urban elements. The ultimate buildout
+of the camp will allow up to 1000 campers plus staff and counselors. The presence of a
+community water and sewer system can also be considered urban in level and type of use. On
+the other hand, open space, recreational fields, water features and the absence of industrial and
+nontourist-related commercial facilities are typical of a rural setting and level of use. Because of
+the mixture of urban and rural uses, facilities, and services, it is necessary to take an exception to
+Goal 14.
+
+                The Court finds that the other Statewide Planning Goals are not applicable.
+
+VIll.   REASONS        GOAL EXCEPTION
+
+        A.      Standards for Reasons Exception
+                                                                       w
+
+                Goal exceptions are authorized under statewide planning statutes, goals and
+administrative rules as flexibility tools for situations in which a departure from the strict
+application of a substantive goal is justified based on site specific conditions.     Goal 2 defines the
+term as follows:
+
+                “Exception means a comprehensive plan provision, including an
+                amendment to an acknowledged comprehensive plan, that:
+
+                “(a)    Is applicable to specific properties or situations and does
+                        not establish a planning or zoning policy of general
+                        applicability;
+
+                “(b)    Does not comply with some or all goal requirements
+                        applicable to the subject properties or situations; and
+
+                “(c)   | Complies with standards for an exception.”
+
+There are three different kinds of exceptions, defined by state statute and rule. The three
+different types are:
+
+                                                   2 Vpqoses (9) ms
+               e      “Development exceptions” are justified where the property
+                      is physically developed to the point where resource use is
+                      no longer practicable.
+
+               °      “Committed exceptions” are justified where the nature of
+                      nearby physical development makes resource use
+                      impracticable.
+
+               °      ”Reasons exceptions” are justified where there is a need for
+                      development at the site in question and where the site
+                      compares favorably with other possible locations for the
+                      proposed land use.”
+
+               This decision approves a reasons exception to Goal 3 (Agricultural Lands),
+Goal 11 (Public Facilities and Services) and Goal 14 (Urbanization). An exception to Goal 3 is
+required because the approved amendments to the Plan and LUDO authorize a use not permitted
+by the A-1, Exclusive Farm Use zoning statute on land that satisfies the Goal 3 definition of
+agricultural land. An exception to Goal 11 and Goal 14 is required because those goals prohibit
+urban levels of public facilities and services and urban levels of use on rural lands outside a
+UGB. Because of the size of the camp (a maximum potential of 1000 campers plus staff) and the
+utilization of community water and sewer systems, the county has assumed these uses and
+services would be considered urban in nature.
+
+               During the hearings on these applications, the county received testimony from
+1000 Friends which suggested that rezoning of the property was not necessary to allow the camp.
+They suggested instead that an exception be approved and that the list of uses allowed in the
+county’s A-1, Exclusive Farm Use zone, be expanded to include “uses allowed by the reasons
+exception.” Their motivation for this suggestion was to ensure that the use allowed by the
+exception could not change or intensify and to maintain the property’s agricultural designation.
+
+                The Court finds that the suggestion by 1000 Friends is not allowed by state law.
+ORS 215 establishes the uses which are allowed in EFU zones. Because the uses are strictly
+limited by statute, the Court does not have the opportunity to add new uses to its EFU zone.
+Moreover, the Court finds that the concerns of 1000 Friends are adequately addressed by the
+imposition of the Big Muddy Limited Use Overlay and by the limitations on the use authorized
+by the exception. As a result, rezoning of the property to A-R, subject to the exception
+justifications and the Big Muddy Ranch Muddy Limited Use Overlay, ensures approval of the
+youth camp in a lawful way with appropriate assurances limiting the nature, size and intensity of
+the use. The Court accepts the testimony of Mr. Brent Lake, representative of the Department of
+Land Conservation and Development (DLCD) on this issue. Mr. Lake testified that in his
+opinion the suggestion from 1000 Friends was not allowed by state law and could jeopardize the
+validity of the County’s EFU zone.
+
+                                                13      £497 Daves # arpa
+                The general reasons exception standards are set forth in ORS 197.732(1)(c) and
+Goal 2, Part I[(c). The statute and the goal provide that a local government may adopt a reasons
+exception when the following standards are met:
+
+              “(1)    | [Reasons/Need]   Reasons justify why the state policy
+                       embodied in the applicable goals should not apply;
+
+              “(2)    | [Nonexception Alternatives] Areas which do not require a
+                        new exception cannot reasonably accommodate the use;
+
+              “(3)     [Exception Alternatives/Comparative Impacts] The
+                       long-term environmental, economic, social and energy
+                       consequences resulting from the use of the proposed site
+                       with measures designed to reduce adverse impacts are not
+                       significantly more adverse than would result form the same.
+                       proposal being locate din areas requiring a goal exception
+                       other than the proposed site; and ~
+
+               “(4)    [Compatibility] The proposed uses are compatible with
+                       other adjacent uses or will be so rendered through measures
+                       designed to reduce adverse impacts.”
+
+               More detailed interpretative guidance is provided in administrative rules adopted
+by the Land Conservation and Development Commission, principally OAR 660-04-020(2) and
+660-04-022. Further, OAR 660-14-040 explains the requirements for reasons exceptions to
+allow urban uses on undeveloped rural lands, as is the case here.
+
+              The documentation supporting an exception must be adopted as part of the
+county’s comprehensive plan. The exception should include all conditions, limitations, and
+requirements necessary to define the nature, scope, location, and conduct of the proposed land
+uses.
+
+       B.      Examples    of Reasons    Justifying        an   Exception
+
+               LCDC has promulgated an administrative rule which explains the “reasons”
+requirement to mean:
+
+               “* * * The exception shall set forth facts and assumptions used as
+               the basis for determining that a state policy embodied in a goal
+               should not apply to specific properties or situations * * *.” OAR
+               660-04-020(2)(a).
+
+                OAR 660-04-022(1) gives examples of the kinds of reasons which can justify a
+reasons exception:
+
+               ““k * * Such reasons include but are not limited to the following:
+
+                                                      14         Liqv2v3        (4)       0139452.05
+               “(a)    There is a demonstrated need for the proposed use or
+                       activity, based on one or more of the requirements of
+                       Statewide Goals 3 to 19; and either
+
+               “(b)   | A resource upon which the proposed use or activity is
+                       dependent can be reasonably obtained only at the proposed
+                       exception site and the use or activity requires a location
+                       near the resource.   An exception based on this subsection
+                        must include an analysis of the market area to be served by
+                       the proposed use or activity. That analysis must
+                       demonstrate that the proposed exception site is the only one
+                       within that market area at which the resource depended
+                       upon can reasonably be obtained; or...”
+
+               “(c)   | The proposed use or activity has special features or
+                        qualities that necessitate its location on or near the
+                        proposed exception site.” (Emphasis added.)
+
+               OAR 660-14-040(2) elaborates on what reasons can justify an exception to allow
+urban uses on rural lands:
+
+               ““« * * Reasons which can justify why the policies in Goals 3, 4,
+                11, and 14 should not apply can include but are not limited to
+               findings that an urban population and urban levels of facilities and
+               services are necessary to support an economic activity which is
+               dependent upon an adjacent or nearby natural resource.”
+
+                 The rules recognize that exceptions are exceptional and that it is not possible to
+foresee all of the combinations of factors that may constitute an adequate set of “reasons” to
+justify an exception. They do not purport to restrict the types of reasons which may support an
+exception. OAR 660-04-022(1) simply provides “examples” that “are not limited” to the
+examples of types of reasons provided. It recognizes that market demand and assistance to
+counties in meeting their planning obligations under statewide goals and acknowledged plans
+may be among the reasons that, taken together, explain why a particular exception is justified.
+By its use of the terms “examples” and “not limited to” OAR 660-04-022(1) clearly rules out any
+inference that its terms are intended to be exclusive. This exception is justified for a number of
+reasons, several of which are very similar to the examples given in the rule.
+
+                In addition, it is clear that in these circumstances of an exception including an
+exception to Goals 11 and 14 for urban levels of use, the Division 14 rules apply instead of the
+Division 4 rules. The Division 14 rules also apply to a Goal 3 exception when it is included with
+a Goal 11 and 14 exception.
+
+                Before addressing the relevant standards for the reasons exception in this case, the
+Court will address testimony received during the hearings which challenged the nature or type of
+the requested exception. Opponents suggested that this reasons exception is a “built and
+
+                                                   15     Ny        a2           / Sf)        0139452.05
+ committed exception.”    The Court does not agree and does not find persuasive the arguments
+ presented by opponents. They claim that because consideration was given under certain reasons
+ exception criteria to the existing infrastructure the exception was, in reality, an exception
+ premised on the existence of development and facility infrastructure.
+
+                  Contrary to these assertions, the Court agrees with DLCD’s testimony and the
+ presentations and testimony of the applicant. The opponents have failed to recognize that there
+ are different legal standards and requirements for the two types of exceptions. Different rules
+ apply to each. In describing the reasons justifying the exception, the exception justification
+ identified various reasons consistent with the alternate factors or reasons available to justify a
+ reasons exception. As noted, the rules provide examples that do not necessarily limit the types of
+ reasons that may be appropriate.   This exception was justified on the basis of need under Goals 8
+- and 9, it was justified under OAR 660-14-020, and it was justified by other reasons similar to the
+ examples identified in OAR 600, Division 4.
+
+                It is clear that other standards relevant to reasons exception approval require a
+ discussion of alternate sites and a consideration of impacts comparing the consequences of
+ establishing the use on the site in contrast to or in comparison to another site (OAR 660-14-
+ 040(3)(b)). Under this standard, the exception justification properly and appropriately discusses
+ the existence of infrastructure, buildings and utilities and contrasts the consequences of
+ establishing the use at a site which has such facilities to a site which would by necessity need to
+ construct new facilities and infrastructure. This discussion, required under OAR 660-14-
+ 040(3)(b) (Exception Alternatives/Comparative Impacts), has similarities to certain aspects of a
+ “built and committed exception.” Opponents erroneously conclude, however, that the two
+ exceptions are the same. Simply because the “ESEE” criteria are addressed, including beneficial
+ consequences obtained by using existing structures or facilities, does not alter the type of the
+ exception.
+
+         C,      Reasons Justification
+
+                 The approved reasons exception has been justified for a number of reasons
+ consistent with the requirements of OAR 660, Division 14 and for reasons similar to examples of
+ appropriate reasons identified in OAR 660, Division 4. These reasons include:
+
+                 °       Young Life has demonstrated need based on Statewide planning Goals 8,
+                         9 and 11.
+
+                 °       The exception has been justified on the basis of the implementation of the
+                         County’s comprehensive plan.
+
+                 °       The exception has been justified on the basis of the location, the special
+                         features or qualities of the location and the natural resources of the site
+                         which are integral to the camp operation and on which the camp depends.
+                         (OAR 660, Division 14.)
+
+                                                   16 © L Ape                 (s4)               0139452.05
+                1.     OAR 660-14-040(2)
+
+               Under OAR 660-14-040(2) reasons that justify an exception may include a
+finding that urban levels of facilities are needed to support an activity that is dependent on a
+nearby natural resource. For the reasons discussed below, the Court finds that urban facilities are
+needed for the camp and that the camp is dependent on the natural resources located at or near
+the approved Exception Area.
+
+Urban levels of facilities and services are needed to support the economic activity
+
+                 Urban facilities and services are necessary to serve the proposed camp. The camp
+will initially accommodate 500 campers and a second phase will accommodate an additional 500
+campers. Campers will live in dormitories, eat in common cafeteria facilities and will share
+recreational facilities. Because the camp is part of a coordinated, integrated development that
+cannot be as efficiently served by individual water and sewer disposal systems, it requires
+community water and sewer systems which are typically considered urban. Based on the number
+of campers, the density of uses and levels of public services that support the Young Life camp,
+the facilities and services needed to support the camp are urban in nature.
+
+Dependency on Natural Resources
+
+                Young Life chose the Big Muddy Ranch for its camp because of the abundance
+and proximity of natural resources that are vital to the operation of the camp. The Young Life
+camp has a dude ranch type atmosphere with hills and mountains interspersed with wide-open
+expanses of land. The camp is also centered around the recreational opportunities provided by
+streams, rivers and lakes as well as the hiking, climbing opportunities of the rimrock areas.
+Young Life camps are designed to be located on sites that offer nearly all of the proposed
+recreational activities that campers will participate in to avoid bussing campers from location to
+location. As a result, the chosen camp site must have a number of unique natural resources in
+close proximity.
+
+                The proposed Big Muddy exception area contains unique natural features that
+make it ideal for the proposed camp use. First, the Exception Area is located in a valley bordered
+by unique rock formations that are suitable for both beginning and more advanced rock climbing
+opportunities. Running through the valley is a stream with reservoirs that are needed for boating
+and swimming activities. In the immediate vicinity of the Exception Area is the John Day River
+which will provide rafting, fishing, boating and floating opportunities.
+
+              The camp is also dependent on the 66,000 acres of the ranch outside of the
+Exception Area to provide isolation from neighboring ranches and to provide additional
+recreational opportunities.   The surrounding acreage will provide nearby horseback riding,
+camping and hiking opportunities.
+
+                                                  17     4-7         Aled       ( S4)         0139452.05
+Location - Primary Market Area
+
+                 One of the primary factors considered in determining the location of Young Life
+camps is the distance from primary market areas. Currently, the only national Young Life camps
+on the west coast are located in California and in British Columbia. Both of these camps are
+attended by campers from Washington, Oregon and Idaho and have significant waiting lists.
+Over 2,700 youths from Oregon, Washington and Idaho attend Young Life camps each summer.
+As discussed in the application, the two West Coast camps have annually been operating at or
+above capacity. On a nationwide basis, there is a waiting list of over 3,000 campers. Because
+there is no national camp in the immediate vicinity of the identified market area and because so
+many of the campers are from Oregon, Washington and Idaho, the location in north central
+Oregon is critical to the Young Life program. The application details the basis for establishing
+the primary market area critical to the location justification.
+
+Climate
+
+               Another primary reason the applicant chose to locate a Young Life camp at the
+proposed exception area is climate. Outdoor activities will predominate at the Young Life camp
+during the summer when the level of use is highest. As a result, consistent, dry and relatively hot
+summer weather is required. Locations in Western Oregon were not considered because of the
+lengthy rainy season. The arid high-desert climate of central Oregon is ideal for year-round .
+camping uses because of dry, hot summers and the comparatively dry fall and spring seasons.
+The map of mean annual precipitation in the State of Oregon from the Oregon Climate Service
+shows that the Big Muddy Ranch receives 10 to 16 inches of rain per year. The only areas of
+Oregon that receive that little rain are in north central Oregon and southeastern Oregon. A
+location in southeastern Oregon is too far from primary market areas, as discussed above.
+
+               2.      Need to Meet Requirements and Fulfill Purposes of Statewide Goals 8
+                       and   9
+
+                Statewide Goal 8 encourages the provision of recreational facilities for visitors
+and residents of the state. It also establishes planning guidelines for the state’s recreational needs
+and requires the planning for and siting of necessary recreational facilities. Goal 8’s Planning
+Guideline No. 7 provides that the planning and provision of recreational facilities and
+opportunities should be given to areas, facilities and uses that meet recreational need
+requirements for a high density population, serve persons of limited mobility and finances, meet
+recreational need requirements while conserving energy, minimize environmental deterioration,
+are available to the public at nominal cost, and meet the need of visitors to the state.
+
+               The approved exception serves to meet the requirements of Goal 8. The exception
+demonstrates that the youth of the Northwest, including Oregon, are in need of a youth camp
+recreational facility. The need is evidenced not only by the full occupancy of existing facilities
+in California and British Columbia, but also by the extensive waiting lists for the existing Young
+Lift camps in the Northwest. The approved exception also implements Goal 8’s Planning
+Guideline No. 7. It provides recreational opportunities to meet recreational needs for a high
+density population. The Young Life camp at the Big Muddy Ranch has been located to serve
+
+                                                  18     yz                     57)           0139452.05
+youth from urban areas in Washington, Oregon and, in part, Idaho. Based on the market
+analysis, over 75 percent of the campers will be from the high density centers in the Willamette
+Valley in Oregon and along the I-5 corridor in Washington. Further, the camp is available to
+youth of limited mobility and finances and is designed to conserve energy and minimize
+environmental impacts by utilizing existing facilities and structures. The needs of Goal 8 are
+fulfilled by the approval of the reasons exception.
+
+                 The approved exception also serves to meet the requirements of and fulfill the
+purposes of Goal 9. Goal 9 requires counties “to provide adequate opportunities throughout the
+state for a variety of economic activities vital to the health, welfare, and prosperity of Oregon’s
+citizens.” Under Goal 9, counties are required to identify areas suitable for increased economic
+growth and activity after taking into consideration the economic base, material and energy
+availability and cost, labor, availability of public facilities, etc.
+
+                The economic development needs and requirements of Goal 9 are fulfilled by the
+approved exception. The youth camp will bring construction jobs to the county for the
+construction and remodeling of the camp facilities and infrastructure and for ongoing
+maintenance of camp structures and facilities. While the number of permanent paid employees is
+limited due to the extensive volunteer program utilized by Young Life, the camp will offer a
+significant ongoing economic benefit to Wasco County. In addition to construction employment,
+the camp will also contribute to the prosperity of the county through the purchasing of goods and
+services necessary for the operation of the camp and the addition of new administrative personnel
+for camp operations together with the addition of approximately 15.new permanent residents to
+manage the ranch property.
+
+                The development of the youth camp will also fulfill Goal 9 because the economic
+growth associated with the camp will occur at a site which has adequate transportation access,
+existing public facilities and maintains the agriculturally-based ranching activities on the
+remainder of the ranch by retaining its EFU designation.
+
+               3,      Enablin      a        n            Its   Plannin    ligation
+
+                Another reason establishing the justification for the approved exception is that the
+exception will enable Wasco County to meet one or more of its planning obligations. Such
+obligations can be found in both the Statewide Planning Goals and in acknowledged
+comprehensive plans. In Wasco County, an exception for the Young Life youth camp enables
+the county to secure a significant new use satisfying its goals to provide adequate recreational
+opportunities, to enhance its economic base, and to encourage tourism in the county.
+
+                 The Wasco County Comprehensive Plan’s Recreational Goal is “to satisfy the
+recreational needs of the citizens of Wasco County and visitors.” This goal implements
+Statewide Planning Goal 8 which requires local jurisdictions to “satisfy the recreational needs of        .
+the citizens of the state and visitors.” The Wasco County Comprehensive Plan’s Economic Goal
+is to “diversify and improve the economy of Wasco County.” The Goal carries out the mandate
+of LCDC Goal 9 which requires comprehensive plans and policies to “contribute to a stable and
+healthy economy in all regions of the state.” This exception provides the county with an
+
+                                                  19   O47                Boe (54)           0139452.05
+important vehicle to provide that support, to contribute to the Wasco County economy, and to
+realize some fulfillment of the county’s recreational need policy.
+
+               4.     Market Demand
+               While market demand alone does not justify an exception, it is a relevant factor in
+a reasons analysis. Based on the historical demand and estimated annual attendance for Young
+Life camps throughout the country, in the Northwest, and as projected for the Big Muddy, the
+Court finds the existence of the necessary market demand.
+
+                Young Life has 10 national camps, four regional camps and three wilderness
+programs. These camps serve approximately 70,000 campers, 11,000 leaders, 6,500 volunteer
+work crew and staff, 2,500 adult guests and 8,000 wilderness and leadership campers.
+Approximately 70 percent of the campers are junior high and high school youth. There are only
+two Young Life national camps in the Northwest. One is near Sacramento; the other is in British
+Columbia. Oregon, Washington and Idaho youth generally travel to one of those national camps,
+if possible. For the past five summers, these Young Life camps have exceeded 100 percent
+occupancy and each year over 3,000 kids remain on waiting lists because the camps are full.
+
+                Young Life is active in many communities in the Northwest, including the Seattle
+area, Yakima and Spokane as well as the Bend area and many communities in the Portland area
+and the Willamette Valley. It is anticipated that youth from these communities in the Northwest
+as well as youth from schools in Idaho will attend camp at the Big Muddy Ranch. Over 2,700
+Young Life campers come from the Northwest. Given the existing waiting list of youths each
+year unable to attend summer camp, the market demand for the Big Muddy camp has been
+sufficiently documented.
+
+       D.      Alternative Locations
+
+               1.     OAR 660-14-040(3)(a)
+
+                OAR 660-04-020(2)(b) and (c) and OAR 660-14-040(3)(a) and (b) elaborate on
+the analysis of alternative locations for the proposed use that is required to support a goal
+exception. The analysis is divided between areas which do not require a goal exception and areas
+which do.
+
+                With regard to areas that do not require a goal exception, OAR 660-04-020(2)(b)
+elaborates on the standard established by ORS 197.732(1)(c)(B) and Goal 2, Part II(c)(2):
+
+               ““ Areas which do not require a new exception cannot reasonably
+               accommodate the use’”
+
+               “(A)   The exception shall indicate on a map or otherwise describe
+                      the location of possible alternative areas considered for the
+                      use, which do not require a new exception. The area for
+                      which the exception is taken shall be identified.
+
+                                                20    9q0%63(S7)                           0139452.05
+               “(B)   To show why the particular site is justified, it is necessary
+                      to discuss why other areas which do not require a new
+                      exception cannot reasonably accommodate the proposed
+                      use. Economic factors can be considered along with other
+                      relevant factors in determining that the use cannot
+                      reasonably be accommodated in other areas. Under the
+                      alternative factor the following questions shall be
+                      addressed:
+
+                      “(i)      Can the proposed use be reasonably accommodated
+                                on nonresource land that would not require an
+                                exception, including increasing the density of uses
+                                on nonresource land?    If not, why not?
+
+                      “(ii)    | Can the proposed use be reasonably accommodated
+                                 on resource land that is already irrevocably
+                                 committed to nonresource uses, not allowed by the
+                                 applicable Goal, including resource land in existing
+                                 rural centers, or by increasing the density of uses on
+                                 committed lands? If not, why not?
+
+                      “(iii)    Can the proposed use be reasonably accommodated
+                                inside an urban growth boundary? Ifnot, why not?
+
+               “(C)   This alternative areas standard can be met by a broad
+                      review of similar types of areas rather than a review of
+                      specific alternative sites. Initially, a local government
+                      adopting an exception need assess only whether the similar
+                      types of areas in the vicinity could not reasonably
+                      accommodate the proposed use. Site specific comparisons
+                      are not required of a local government taking an exception,
+                      unless another party to the local proceeding can describe
+                      why there are specific sites that can more reasonably
+                      accommodate the proposed use. A detailed evaluation of
+                       specific alternative sites is thus not required unless such
+                      sites are specifically described with facts to support the
+                      assertion that the sites are more reasonable by another party
+                      during the local exceptions proceeding.”
+
+               In the circumstances of an exception to Goals 3, 11 and 14 (as in this case), OAR
+660-14-040(3)(a) provides that the “areas which do not require a new exception cannot
+reasonably accommodate the use” standard can be met:
+
+               ““* * * by showing the proposed urban development cannot be
+               reasonably accommodated in or through expansion of existing
+
+                                                   1      4970362 [ SF)                   0139452.05
+               urban growth boundaries or by intensification of development at
+               existing rural centers.”
+
+                In order to document compliance with this standard, an analysis of urban growth
+boundaries and existing rural centers was undertaken for a five county area in north central
+Oregon. The jurisdictions included in the review were Wasco, Jefferson, Sherman, Wheeler, and
+Gilliam counties, as well as each incorporated jurisdiction and rural center located in each of the
+counties. The five county area in north central Oregon was identified and delineated on the basis
+of the following factors:
+
+               °       Weather/climate
+
+               °       Adequate transportation facilities
+
+               e       Proximity to market area
+
+                One principal locational factor in establishing the parameters of the alternative
+sites analysis was the climate of the area. Given that outdoor activities predominate at the camp,
+consistent predictable weather in the spring, summer and fall was critical. In addition, moderate
+temperatures and minimal snowfall was considered in order to accommodate year-round
+camping. An arid high desert climate was identified as ideal for year round camping uses based
+on its dry, hot summers and cool, comparatively dry fall and spring seasons.
+
+                 A second factor in the alternative site analysis was the proximity to the market
+area. The proposal required a location which would be within a reasonable driving distance from
+the primary camp markets. The demographic analysis indicates that approximately 40 percent of
+the campers would be from western Washington, 15 percent from eastern Washington and close
+to 45 percent from western Oregon. A location within driving distance from these markets was
+essential. Because camp patrons will originate their trips in a variety of areas in the Pacific
+Northwest, a location near Interstate 84 with adequate local transportation systems was essential.
+There was no challenge during the hearings on this approval to the area considered for the
+alternative sites analysis.
+
+               The analysis of the five county area demonstrated that the proposed use cannot be
+reasonably accommodated within any existing urban growth boundaries, through expansion of
+existing urban growth boundaries or by intensification of development at existing rural centers.
+The testimony of Mr. Brent Lake, the Eastern Oregon representative for the Department of Land
+Conservation and Development (DLCD) confirmed the results of the analysis that the proposed
+use could not be reasonably accommodated inside UGBs or rural centers. There was no specific
+evidence contesting this point. The Court finds Mr. Lake’s testimony to be reliable and
+persuasive evidence.
+
+               There was considerable testimony regarding the process of collecting the
+information regarding the availability of lands inside the referenced UGBs or rural centers.
+According to the testimony of Young Life, Young Life representatives evaluated the availability
+of lands in UGBs or rural centers by first calling local jurisdictions or consultants on contract to
+
+                                                  ° Bwseslst)
+  the local jurisdictions to determine the amount of available undeveloped land. Second, Young
+  Life reviewed available documents at the DLCD Salem office. Finally, Young Life confirmed
+  the information with Mr. Lake, DLCD representative. Young Life considered the following
+  urban growth boundaries and rural unincorporated communities in Wasco County: The Dalles,
+  Dufur, Mosier, Antelope, Shaniko, and Maupin.     As shown in the chart entered into the record at
+  the August 20, 1997 hearing, none of the urban growth boundaries or rural communities contain
+  adequate land for the proposed use. Similarly, Young Life considered the rural centers in urban
+  growth boundaries in Jefferson County, Wheeler County, Gilliam County, and Sherman Country:
+  Madras, Culver, Vitolius, Ashwood, Fossil, Mitchell, Spray, Conden, Arlington, Lone Rock,
+  Olex, Wasco, Moro, Rufus, Grass Valley, Kent, and Big Junction.          As shown in the chart entered
+  into the record at the August 20, 1997 hearing, none of these areas contain adequate available
+  land for the proposed camp. Similarly, the intensification of rural centers was found to be an
+  infeasible alternative given the limited lands available. Mr. Brent Lake confirmed that no
+  existing UGB or rural center contained adequate land for the proposed use. On the basis of this
+  reliable testimony and evidence, the Court finds that the limited acreage available in these areas
+  cannot reasonably accommodate the proposed camp. The Court also finds that intensification of
+  development at an existing rural center or the expansion of an existing urban growth boundary is
+  not an appropriate technique to allow for the siting of a youth camp which encompasses
+  approximately 600 acres with significant additional land needed for buffer and recreational
+  purposes. Despite the fact that the Young Life camp will utilize urban level public facilities, the
+  use is essentially a rural use. A Young Life camp requires large expanses of open land and water
+  features for various recreational activities such as horseback riding, hiking, boating, and
+  mountain biking.                                                     -
+
+                  Opponents assert that there is no evidence that Young Life contacted local
+ jurisdictions regarding available acreage because office personnel that the opponents called at
+ certain jurisdictions did not recall speaking to Young Life representatives during the months
+ prior to the hearing. Young Life representatives testified that requests for information from some
+ local jurisdictions may have been made without specifically identifying Young Life because their
+ discussions often dealt only with the amount of available land. The Court finds that there is
+- substantial evidence that Young Life analyzed alternative sites by contacting local jurisdictions
+  and confirming the relevant data with DLCD staff. The relevant inquiry for purposes of OAR
+  660-14-040(3)(a) is whether there are existing urban growth boundaries or rural centers that can
+  accommodate the proposed use or whether such boundaries could be expanded or uses intensified
+  for the use. Young Life has provided substantial evidence on this issue and the results of the
+  analysis have been confirmed with DLCD. The opponents have not identified a UGB or rural
+  center that contains enough contiguous acreage to accommodate the proposed camp nor have
+  they suggested that the use could be accommodated through expansion of a UGB or by
+  intensification of development at an existing rural center. The Court finds that OAR
+  660-14-040(3)(a) is satisfied.
+
+                 2.      OAR 660-14-040(3)(b)
+
+                  With regard to areas that do require a goal exception, OAR 660-04-020(2)(c)
+  elaborates on the standard established by ORS 197.732(1)(c)(C) and Goal 2, Part II(c)(3):
+
+                                                   » Sapo sess®
+               “The long-term environmental, economic, social and energy
+               consequences resulting from the use at the proposed site with
+               measures designed to reduce adverse impacts are not significantly
+               more adverse than typically result from the same proposal being
+               located in other areas requiring a Goal exception. The exception
+               shall describe the characteristics of each alternative areas [sic]
+               considered by the jurisdiction for which an exception might be
+               taken, the typical advantages and disadvantages of using the area
+               for a use not allowed by the Goal, and the typical positive and
+               negative consequences resulting from the use at the proposed site
+               with measures designed to reduce adverse impacts. A detailed
+               evaluation of specific alternative sites is not required unless such
+               sites are specifically described with facts to support the assertion
+               that the sites have significantly fewer adverse impacts during the
+               local exceptions proceeding. The exception shall include the
+               reasons why the consequences of the use at the chosen site are not
+               significantly more adverse than typically result from the same
+               proposal being located in areas requiring a goal exception other
+               than the proposed site. Such reasons shall include but are not
+               limited to, the facts used to determine which resource land is least
+               productive; the ability to sustain resource uses near the proposed
+               use; and the long-term economic impact on the general area caused
+               by irreversible removal of the land from the resource’base. Other
+               possible impacts include the effects of the proposed use on the
+               water table, on the costs of improving roads and on the costs to
+               special service districts.”
+
+                OAR 660-14-040(3)(b) provides that with regard to exceptions to allow urban
+uses on rural lands the analysis of alternative sites which do require an exception must consider:
+
+               “(A)    Whether the amount of land included within the boundaries
+               of the proposed urban development is appropriate, and
+
+               “(B)   Whether urban development is limited by the air, water,
+               energy and land resources at or available to the proposed site, and
+               whether urban development at the proposed site will adversely
+               affect the air, water, energy and land resources of the surrounding
+                       ”
+               area.
+
+               As noted, this rule requires an analysis of the comparative long-term ESEE
+consequences of locating the proposed urban development at the Big Muddy Ranch, as mitigated
+by measures designed to reduce adverse impacts with those of locating the same proposal on
+other undeveloped rural lands. Under the rule, the comparison of alternative sites which do
+require an exception must include consideration of whether the amount of land included within
+the boundaries of the proposed urban development is appropriate.
+
+                                                  24     £570        oS)                    0139452.05
+                       (a)     Quantity of Land
+
+               The amount of land included in the Exception Area was determined on the basis
+of an analysis of the land needs for the youth camp considering the need for camp facilities,
+housing and accommodations, camper services, recreational areas, open space, maintenance
+facilities and utility infrastructure. The conceptual master plan depicts the proposed uses of the
+land within the Exception Area and identifies how the camp will utilize existing buildings for
+camp purposes and where new structures may be needed in the defined Development Area.
+
+                 The Court finds that the boundaries of the Exception Area have been narrowly
+tailored along the Muddy Creek valley so that both the north and south sides contain only enough
+land for camp purposes. This area includes the existing service facilities which serve the camp
+area. The Court finds that inclusion of these service areas is necessary to provide efficient utility
+service to the camp site and that inclusion of these areas is appropriate. The Court also
+recognizes that during the hearings on this approval, Young Life deleted two other non-
+contiguous areas from the proposed exception area request. The Court finds that this narrow
+tailoring of the Exception Area has insured that no more land than appropriate is included in the
+Exception Area consistent with the requirements of OAR 660-14-040(3)(b)(A).
+
+                       (b)      Carryin
+                 Under OAR 660-14-040(3)(b)(B), the comparison of alternative sites which do
+require an exception must include consideration of whether the urban development is limited by
+air, water, energy and land resources at or available to the proposed site, and whether urban
+development at the proposed site will adversely affect the air, water, energy and land resources of
+the surrounding site.
+
+               The Court finds that there will be no adverse air quality impacts generated by the
+youth camp, nor will development of the camp be limited by available air resources. The
+Exception Area is not in an air quality maintenance area and it is not subject to any air pollution
+limitations. The Court also finds that there will be no industrial or commercial air pollution
+sources on the site and that a youth camp does not generate air quality impacts.
+
+                The camp will rely on its own water system. Appropriate permits will be obtained
+by WRD and DEQ relating to water quality and water quantity. The Court has determined that
+adequate water rights exist for the proposed use at the Exception Area and that appropriate
+permit applications have been filed for the use of the water. The Court finds that the sewage
+treatment facilities at the camp site are adequate to serve the camp, in good condition, and,
+therefore, they will have no adverse affect on the water quality near the Exception Area.
+
+                Opponents asked that the County limit use of groundwater at the camp. The water
+uses at the camp will be limited by water right permits issued by WRD. Evidence in the record
+demonstrates that there is adequate groundwater to serve the proposed use without adversely
+affecting other users. No evidence to the contrary has been presented by opponents of the
+project. Based on this evidence, the Court finds there is no reason to limit groundwater use, an
+issue more appropriately dealt with by WRD regulations.
+
+                                                  25      y4T0          BEB           SH    yur
+                The Court further finds that the exception will not adversely affect the land
+resources in or near the Exception Area. The Exception Area is comprised of two distinct areas.
+The defined Development Area is the area of the exception which will be used extensively for
+camp purposes. It is the location of existing buildings and facilities. It is largely encompassed
+by the remaining exception lands of the Exception Area. These lands buffer the Development
+Area from the surrounding areas of the Ranch so that land resources around the Exception Area
+will not be adversely affected. Further, the Exception Area is buffered from other lands by the
+approximate 64,000 acres of land on the ranch which will be retained in EFU zoning. Young
+Life has indicated it will maintain its use as rangeland.
+
+               The Exception Area is already developed with buildings and facilities. The Court
+finds that the impact on land resources of using existing buildings, roadways, and facility
+infrastructure is significantly less than the impact of locating the camp on undeveloped rural land
+which would necessitate new construction of buildings and facilities with its associated impacts.
+
+                       (c)     ESEE     Con    enc
+
+               During the hearings on this proposal, no alternative sites were proposed. In
+assessing the ESEE consequences as mitigated by measures designed to reduce adverse impacts
+with the consequences of locating the same proposal on other undeveloped rural lands, the Court
+has not considered specific alternative sites, but has considered the typical consequences
+resulting from the use on other undeveloped rural land.
+
+Environmental Consequences
+
+               The Court finds that the environmental consequences to the Exception Area will
+be minimal. The youth camp proposes to utilize a significant number of existing structures on
+the valley floor which are currently vacant. Other structures on the hillsides will be removed or
+decommissioned. Since the Exception Area only encompasses the area containing existing
+facilities (utilities) and structures, use of the property will not require significant new
+construction of infrastructure or buildings as would be required at another rural undeveloped
+location. Further, the proposed camp intends to use the existing reservoir system for irtigation
+and recreational purposes. Significant new development of water systems or lakes for
+recreational needs will not be necessary as would be the case with undeveloped rural sites.
+
+Economic Consequences
+
+               The economic consequences of carrying out the project is discussed under Goal 9
+above. The positive economic consequences would be similar on another undeveloped rural site,
+however, such a site would require the expenditure of significant monies to construct
+infrastructure, utilities and buildings for the camp which is not required at the Exception Area.
+Further, the existence of adequate water resources is a significant positive economic factor which        .
+may not be available at alternate undeveloped rural sites. Development of a water supply system
+as well as a sewer system adequate to serve the camp would be costly at other undeveloped rural
+sites.
+
+                                                 26       G6       os) b 3(S9)               0139452.05
+Social Consequences
+
+               The social consequences of the Young Life proposal are not significantly more
+adverse than would result from the proposal being sited on other lands. Because the roughly
+64,000 acres surrounding the Exception Area retains an A-1 zoning designation, its use will
+remain an agricultural one and will buffer the camp from neighboring properties. The Exception
+Area also provides needed recreational opportunities for Wasco County youth and visitors.
+
+Energy Consequences
+
+                The energy consequences of the Young Life proposal are not significantly more
+adverse than would result from locating the proposal on other rural lands. Significant energy
+expenditure is conserved by locating the camp in existing structures and utilizing existing
+infrastructure and facilities. The compactness of the Exception Area will save auto trips within
+the camp and encourage pedestrian and bicycle travel. The pre-existing water and sewage
+infrastructure will conserve energy expenditures required to establish such a service network at
+an alternate undeveloped rural site.
+
+Overall Consequences
+
+                The Exception Area offers a superior site for the proposed use. It is ample in size,
+has numerous unique natural land forms and water features for camp usage and has existing
+development which can be utilized without significant impacts for the proposed use. Given its
+high desert setting, remoteness, natural amenities, transportation access and proximity to the
+market area, the Court finds that the Exception Area is well suited to the proposed use.
+
+               3.      OAR 660-14-040(c)
+
+                 OAR 660-14-040(c) requires that the proposed use is compatible with adjacent
+uses considering whether the urban development detracts from the ability of an existing city or
+service district to provide services and whether the potential for continued resource management
+of land at present levels surrounding and nearby the site for urban development is assured.
+
+               The Court finds that the use of the Big Muddy Exception Area as a Young Life
+camp will not detract from the ability of existing service providers to supply service. The
+Exception Area is fully serviced by its own community water and sewage treatment system and
+does not receive water or sewer services from other providers. The existing domestic water
+supply at the Big Muddy Ranch consists of numerous groundwater wells, distribution piping,
+three domestic water storage reservoirs, and associated facilities. It is adequate to handle the
+needs of the camp. The existing sanitary sewage collection and disposal system located in the
+Exception Area is also sufficient to serve the Young Life camp. Thus, with regard to water and
+sewer, there will be no impact on existing cities or service districts to provide service.
+
+               Police services will be provided by the Wasco County Sheriff or Oregon State
+Police. The Sheriff’s office has confirmed its availability to handle services for the camp and the
+adequacy of its services for the camp needs. Solid waste management will be handled in a
+
+                                                  27 (976303(54 )                            ssn
+  manner approved by DEQ and the approved solid waste management plan required by Condition
+_ No. 6, Exhibit G, as adopted by Ordinance No. 97-001 approving the Exception Area. Likewise,
+  fire protection will be provided by trained personnel in accordance with the fire protection plan
+  approved by the State Fire Marshall as required by Condition No. 4, Exhibit G, as adopted by
+  Ordinance No. 97-001 approving the Exception Area. The camp’s permanent residential staff
+  will be limited and less than 15 permanent staff will be housed at the camp. If any staff have
+  children of school age, their impact on the school system services will be minimal. The Madras
+  School District has confirmed its availability to accommodate these potential students.
+
+                  The Exception Area is surrounded by the other ranch lands of the Big Muddy
+ Ranch. Approximately 64,000 acres of agriculturally-zoned lands surround the Exception Area.
+ Use of the Development Area as the area intended for camp use utilizing existing buildings and
+ infrastructure will not affect ongoing ranching operations on surrounding lands. Given the buffer
+ from adjacent uses, the Court concludes that the youth camp will be compatible with the adjacent
+ uses and with surrounding and nearby management uses and will not detract from the ability of
+ cities and special districts in the area to provide their services.
+
+                  An opponent of the proposal, Mr. Silvertooth-Stewart, identifies recreational use
+ of the   John Day River and public use of BLM land as uses in the area that should be considered
+ in determining compatibility of the proposed camp.     First, he claims there will be visual and
+ noise pollution from the proposed sports complex that will impact recreational use of the John
+ Day River. In terms of protection provided to the John Day River by the Comprehensive Plan,
+ the John Day River Scenic Waterway is a designated Goal 5 resousce. The Comprehensive Plan
+ implements its protection of the John Day River through the State Scenic Rivers Act and the
+ Environmental Protection District of the Land Use and Development Ordinance (LUDO). Under
+ those regulations certain types of development are limited or prohibited within 1/4 mile of the
+ river. OAR 736-040-065 and LUDO 3.910 (Division 7 - Natural Areas Overlay). All uses
+ allowed by this application will be consistent with the State Scenic Rivers Act and the
+ Environmental Protection District. The sports complex is in an existing structure that is located
+ over 2.4 miles from the John Day River and is outside of the John Day River Scenic Waterway
+ buffer zone.
+
+                 Under the Goal 5 protection provisions of the comprehensive plan and as a
+ practical matter, the camp uses allowed by the comprehensive plan amendment are located miles
+ from the river. Any recreational activities conducted near the river are not specifically part of
+ this approval and may be subject to future land use review, if necessary under the EFU zoning.
+ As noted above, the original application included an area adjacent to the river. The original
+ application was amended to delete the area near the river and limit the Exception Area to the area
+ more than 2 miles from the river.
+
+                  Second, Mr. Silvertooth-Stewart claims that hunting uses on BLM lands will be
+ negatively impacted by the proposed development. Hunting uses occur on BLM lands in various
+ remote areas of the Big Muddy Ranch, not within the developed central ranch area. In addition,
+ most hunting occurs in the fall, well after the peak summer camping season. Young Life stated
+ at one of the hearings that it will take steps, such as installing adequate fencing or developing
+
+                                                   Ly                  ae3lS Gsm
+camp regulations, to ensure that campers do not enter BLM land. Further, the area proposed as
+the area for concentrated camp usage is located in the designated Development Area internal to
+the Exception Area. There are lands principally containing infrastructure and utility facilities
+surrounding the Development Area which serve to buffer the camp area from other lands,
+including BLM lands,
+
+               4,      OAR 660-14-040(d)
+
+                OAR 660-14-040(d) requires that an appropriate level of public facilities are
+likely to be provided in a timely and efficient manner. This is demonstrated by the findings
+above related to public facilities and services.
+
+               5.      OAR 660-14-040(e)
+
+              OAR 660-14-040(e) requires that the development is coordinated with
+comprehensive plans of affected jurisdictions. In this case, the affected jurisdiction is Wasco
+County because the entire exception is within Wasco County.
+
+                The coordination requirement is satisfied by the findings of Goal 2 coordination
+and the findings below which demonstrate that the Exception is consistent with the relevant
+provisions of the Plan.
+
+                 The Plan contains a series of goals under separate subject matter headings, each of
+which is separated into (1) policies and (2) implementation. The PYan is intended to “establish a
+single, coordinated set of policies which will act to provide for orderly development of Wasco
+county” and “give a direction to planning, establish priorities for action, serve as a basis for
+future decisions, provide a standard by which progress can be measured, and promote a sense of
+community for an improved quality of life.”
+
+                Wasco County planning obligations potentially relevant to the Young Life project
+were identified by determining which policies would be materially affected by the proposed
+development. The analysis evaluated these policies against the facts of the proposed
+development to determine whether the policies are furthered, hindered or not affected. The
+relevant plan policies are presented first, along with the facts that demonstrate whether the
+particular planning obligation has been met.
+
+       A.      Citizen Involvement
+
+               The citizen involvement goal is “to develop and maintain a citizen involvement
+program that ensures the opportunity for citizens to be involved in all phases of the planning
+process.” Plan page 275. This goal is carried out by three Policies, one of which is relevant to
+this decision. Policy 3 provides: “Encourage involvement of citizens and property owners in the
+land use planning process.” The relevant Implementation Measure is (C) which provides:
+“When revising or adopting the Comprehensive Plan, there shall be a minimum of two public
+hearings held within the affected planning area.” In this case, the County Planning Commission
+held two hearings and the County Court held two hearings in conformance with this Policy.
+
+                                                 29     6976          2, b3(        so     ye
+                One procedural issue relating to citizen involvement was raised by an opponent of
+the proposal. Mr. Silvertooth-Stewart asserted that the County committed procedural error by
+closing the record on a Saturday and requiring that submittals be post marked by Saturday. The
+County did not commit procedural error. At the request of a party, the County held the record
+open for 10 days to allow comment on the record. It is the County Court’s practice to close the
+record on the last day, even if that day is a Saturday. State law only requires that the record be
+held open seven days after the initial evidentiary hearing. ORS 197.763(6)(c). The record was
+held open for ten days and thus the statutory obligation was met.
+
+                Even if the County committed a procedural error, the opponents were not
+substantially prejudiced. First, the opponents have been afforded numerous opportunities to
+comment on the application, both at the Planning Commission and County Court stages.
+Second, prior to the close of the record, the opponents contacted the County Planning Office to
+determine when the record closed and submitted over ten pages of additional comments before
+the record closed. Nothing submitted by the opponents was rejected as being received after the
+close of the record.
+
+       B.      Land Use Planning
+
+                The Land Use Planning Goal is to establish a process and policy framework as a
+basis for land use decisions and ensure an adequate factual base for such decisions. This goal is
+carried out by four policies, two of which are relevant to this decision. Policy 2 provides that the
+Comprehensive plan must be consistent with Statewide goals. Congistency with statewide goals
+is discussed above. Policy 3 provides that the Comprehensive plan shall be reviewed
+periodically for necessary revisions “to keep pace with changes in the physical, environmental,
+social and economic character of the County.” Implementation Measure C provides that plan
+amendments shall be carried out under the revisions process set forth in the Comprehensive Plan.
+The revisions process is set forth in the Comprehensive Plan. The revisions process set forth at
+pages 225-228 was followed by the applicant in proposing the comprehensive plan amendments
+and by the County in reviewing the amendments. The applicant, a private property owner,
+initiated the amendment, paid the required fee and addressed the “General Criteria” in its
+application and supplemental submittals to the record. The County followed the notice and
+hearing procedures in part by holding Planning Commission hearings, forwarding a Planning
+Commission recommendation to the County Court and holding County Court hearings.
+
+       C,      Agricultural Lands
+
+               The Young Life camp site is designated Exclusive Farm Use by the
+Comprehensive Plan and is zoned accordingly. This decision approves a redesignation of the site
+to the A-R plan designation and zone with a Limited Use overlay.
+
+               Goal 3 is to “preserve and maintain agricultural lands.” Policy 2 directs the
+County to “Encourage better management of all agricultural lands.” Pursuant to that policy,
+Implementation Measure B. provides that “[nJon-farm uses permitted within farm use zones
+adopted pursuant to O.R.S. 215.213 should be minimized to allow for maximum agricultural
+productivity.” Opponents of the project proposed that the exception could be added to the list of
+
+                                                 ® Oposerlst)
+permitted uses in EFU rather than rezoning the property to A-R.    Adding to the list of permitted
+uses would not only run afoul of state law as discussed above, but would hinder Implementation
+Measure B. In furtherance of this policy, the County should rezone the exception area rather
+than allow additional uses in farm use zones.
+
+               Policy 4 provides that “[w]here rural agricultural land is to be converted to
+urbanizable land, the conversion is to be completed in an orderly and efficient manner.” Since
+the land subject to the proposal is agricultural land that will be converted to urban land, this
+Policy is applicable. Implementation Measure A. requires that the conversion be in compliance
+with Goal No. 14, Policy 1, A-E.   Compliance with that goal is discussed below.
+Implementation Measure B. provides that extension of services must be appropriate for the
+proposed urban use. As discussed above, evidence in the record demonstrates that appropriate
+levels of services are available or will be made available to serve the proposed use, including
+water, sanitary sewer, roads, fire, police and schools. Implementation Measure (E) provides that
+“normal agricultural practices shall not be restricted by non-agricultural interests within
+agricultural areas.” The Big Muddy Ranch is currently used for grazing of livestock. Use of the
+Exception Area for camp purposes will not restrict normal grazing practices.
+
+       D.      Forest Lands
+
+               None of the Young Life camp site is designated forest land. As a result, the
+policies and implementation measures of the Forest Land goal do not apply.
+                                            .   °                   a
+
+       E,      Open Spaces, Scenic and Historic Areas and Natural Resources
+
+                The purpose of Goal No. 5 is “to conserve open space and protect natural and
+scenic resources.” This goal is carried out by eight policies, three of which are relevant to this
+decision. Policy 3 relates to protection of the John Day River Scenic Waterway as a natural and
+open space area with consideration for recreation and agriculture. The Exception Area, as
+originally proposed, would have included land within the John Day River Scenic Waterway.
+However, based on comments from other participants in the proceedings, the applicant
+eliminated an Exception Area along the John Day River from the proposal. As a result, the
+purpose of Policy 3 to protect and maintain the John Day River Scenic Waterway is furthered.
+
+                Policy 7 requires the County to encourage land use and land management
+practices that contribute to preservation and enhancement of fish and wildlife resources.
+Implementation Measures (A) and (D) require the county to identify and protect all wildlife
+habitats (through application of the Environmental Protection District Overlay and setbacks in
+riparian habitats) and all rare and endangered plants and animals. The Court reviewed its Goal 5
+inventory and determined that no wildlife habitat or rare and endangered plants and animals have
+been identified within the approved Exception Area.
+
+               Policy 8 requires the County to preserve historic, cultural and archeological areas.
+No such areas are identified in the County’s Goal 5 inventory of historic, cultural or
+archeological sites as being located within the Exception Area. As a result, the proposal will not
+hinder the County’s compliance with this policy.
+
+                                                    31   6°G7026>              (59)            0139452.05
+       F,      Air, Land and Water Quality
+
+                Goal 6 is “to maintain and improve the quality of the air, water and land resources
+of the County.” Certain implementation measures under each of the four policies that carry out
+Goal 6 are relevant to the county’s decision. Policy 1 encourages preservation of the quantity
+and quality of air, water and land resources. Implementation Measure (B) requires that the solid
+waste collection and disposal ordinance be enforced. Adoption of the comprehensive plan
+amendment will not hinder enforcement of that ordinance. Implementation Measure (C) directs
+the County to preserve riparian vegetation through the Environmental Protection District overlay
+or by setbacks. The Exception Area is not overlain with the Environmental Protection Overlay.
+All new structures within the Exception Area are conditional uses and thus will be subject to
+conditions protecting any natural riparian vegetation. Policy 3 directs the County to “maintain
+quantity and quality of water in compliance with state and federal standards.” The only
+Implementation Measure applicable to quasi-judicial applications is (E) which provides that
+“ft]he adequacy of the Ground water supplies and their quality shall be a major consideration in
+all development.” Evidence in the record provided by the applicant demonstrates that ground
+water wells will provide an adequate supply of high quality groundwater to serve proposed uses.
+No credible evidence to the contrary has been presented.
+
+       G.      Are     ubject   to   Natural Disasters    and   Hazar
+
+                None of the proposed Exception Area is located in an area identified in the
+Comprehensive Plan as subject to natural disasters or hazards. As g result, Goal 7 and its
+policies are not impacted by this decision.
+
+       H.      Recreational Needs
+
+                Goal No. 8 requires the County to “satisfy the recreational needs of the citizens of
+Wasco County and visitors.” Of the three policies that carry out this goal, one is applicable to
+this project. Policy 2 provides: “develop and maintain a variety of recreational sites and open
+spaces adjacent to population concentrations to adequately meet the County’s recreational needs.
+Development of the Young Life project will further the County’s policy of developing:a variety
+of recreation sites to meet County recreational needs. In addition, Implementation Measure D
+provides that “aesthetic values in existing and future and recreational sites should be preserved
+and enhanced.” The proposed camp development will have beneficial impacts on the aesthetic
+values in the area. The camp use will utilize existing structures and ensure their upkeep and
+maintenance. Any new structures would undergo conditional use review and are subject to the
+limitations of the exceptions statement, Exhibit C and the limited use overlay, Exhibit E.
+
+                The text discussing recreational needs for the County provides a rough list of
+recreation needs including additional camp sites, biking trails, hiking trails and parks. The Plan
+states that “final recreational land use designations are generally made by property owners and
+local citizens.” Because of the Plan’s dependence on private property owners to meet these
+recreation needs, the redesignation of this property to the agricultural recreational zone furthers
+the County’s recreation goals.
+
+                                                         » 6qnava&9)
+       I.      Economy of the State
+
+              This plan goal requires Wasco County “to diversify and improve the economy of
+Wasco County.” Most of Wasco County’s rural economy is based on agriculture and forestry.
+
+                 Conversion of 1,360 acres of range land within the Big Muddy Ranch for use as a
+youth and family camp will not hinder the County’s policy of maintaining agriculture and
+forestry as a basis of the economy. To the contrary, by providing recreational uses and utilizing
+local services for construction and supply needs for the proposed camp, the proposed use will
+support diversification of Wasco County’s economy in support of Goal No. 9. In addition,
+Policy 5 provides that “tourism in Wasco County will be supported and encouraged.” The
+development of the youth and family camp will support policy of encouraging tourism. Campers
+and their families will have an opportunity to experience the high recreation and historic
+attributes of the County and will be encouraged to return to the area. Implementation Measure C
+provides that “additional parks, overnight camping areas, and other recreational areas should be
+provided when needed to encourage tourism in the County.” The provision of the camp and
+associated recreation areas and overnight lodging support this implementation measure.
+
+       J.      Housing
+
+                Goal No. 10 provides for the housing needs of the citizens of Wasco County.
+This goal is largely inapplicable because the Exception Area and proposed development does not
+now provide housing opportunities and the Young Life camp will offer only limited permanent
+housing for your own staff. The Court finds that the County’s ability to satisfy Goal No. 10 is
+not hindered by the proposed comprehensive plan amendments.
+
+       K.      Public Facilities and Services
+
+                 Goal No. 11 is “to plan and develop a timely, orderly and efficient arrangement of
+public facilities and services to serve as a frame work for urban and rural development.” As
+discussed above under Goal 11, the Court finds that public facilities and services are adequate to
+serve the proposed site. Evidence is on the record regarding the adequacy of school, fire,
+medical and police services, water, sewer, transportation, health and power facilities.   The Court
+finds that this is substantial evidence demonstrating compliance with Goal No. 11. Plan Policy 1
+requires an appropriate level of fire protection for rural areas. As a condition of approval, Young
+Life must provide a fire suppression plan for the proposed camp. The Court finds that the fire
+suppression plan will ensure that an appropriate level of fire protection is provided for the camp.
+
+                Policy 2 requires the provision of an appropriate level of police protection for
+rural areas. While this is largely directed at the County, levels of police protection are relevant to
+the appropriate level of development in rural areas. The Court finds there is evidence in the
+record to demonstrate an adequate level of police protection for the proposed camp. The Wasco
+County Sheriff’s office has confirmed its availability to handle services for the camp and the
+adequacy of its services for camp needs.
+
+                                                         Lape                3(9)""
+              Policy 4 is to “encourage adequate convenience school facilities for the citizens of
+Wasco County.” As discussed at hearings before the County Court, the school superintendent for
+the Madras School District, which would accommodate any students living year round at the
+Young Life camp, stated that school facilities are adequate to accommodate such students.
+
+               Finally, Policy 5 provides that “future provision of public facilities and services
+shall be adequate to meet the needs of Wasco County’s citizens and be provided efficiently and
+economically.” Implementation Measure C provides that increased an efficient emergency
+medical service shall be encouraged in rural areas. Young Life has stated that it will have
+emergency medical staff present at the camp at all times. The Court finds this to be substantial
+evidence that emergency medical services will be adequate for the camp. Implementation
+Measure H provides that facilities and services be appropriate but limited to the needs and
+requirements of the area to be served. The Court finds that Young Life has demonstrated that the
+water, sewer and other utility services provided for the proposed level of development at the
+camp are appropriate for the needs of the camp.
+
+       L.      Transportation
+
+                Goal No. 12 is to provide and encourage a safe convenient and economic
+transportation system. Of the four policies that carry out this goal, one is applicable to this
+development. Policy 1 directs the County to develop and maintain an adequate County road
+system. As discussed in letters from the County Public Works Director and ODOT, the existing
+County road system is adequate to accommodate levels of traffic expected from the Young Life
+development. In addition, a condition of approval requires that, if the camp creates more than a
+30% increase over anticipated traffic levels, an additional transportation plan must be developed.
+The County finds that evidence in the record demonstrates that the County road system is
+adequate to support the proposed use and maintain a safe convenient and economic
+transportation system.
+
+       M.      Energy Conservation
+
+                The planned energy conservation goal requires the County to “conserve energy.”
+This goal is to be implemented through strategies including working with state and federal
+agencies to identify renewable energy resources to reduce consumption of non-renewable
+resources of energy, to minimize energy consumption through the use of zoning and subdivision
+standards to diversify the transportation system and to encourage use of renewable energy. The
+camp will contribute toward energy conservation by ensuring that most transportation within the
+camp area will be by bicycle, walking or horseback. In addition, recycling of glass, bottles and
+other recyclable products will be encouraged at the camp. The Court finds that the camp use will
+contribute to the County’s energy conservation goal.
+
+       N.      Urbanization
+
+               Urbanization is “to provide for an orderly and efficient transition from rural to
+urban use.” Of the five policies that carry out this goal, Policy 1 is the only one applicable to the
+
+                                                  « Voq9303(S 7) wow
+approved development. Policy 1 provides that “conversion of rural agricultural land to
+urbanizable land shall be based upon consideration of each of the following factors:
+
+               (a)     Environmental, energy, social and economic consequences;
+
+               (b)     Demonstrated need consistent with other goals;
+
+               (c)     Availability of alternative suitable locations for the requested use;
+
+               (d)     A compatibility of the proposed use with related agricultural land; and
+
+               (e)     The retention of Class I, II, HI, 1V, V and VI soils in farm use.
+
+                These factors were considered as part of the reasons exception to Goals 3, 11 and
+ 14 under OAR 660-14-040. The County has considered each of those factors and has determined
+that the proposed site should be converted to urban land. The Court believes that the reasons
+justifying conversion of the land from agricultural use to urban use are compelling and based on
+consideration of these factors has approved the requested exception request converting the
+Exception Area lands from agricultural uses.
+
+        E.     Wasco County Comprehensive Plan
+
+               I.      Section XI(VI1)
+
+                 Section XI (VIII) of the Plan identifies the general ctiteria which must be
+considered for approval of an amendment to the Plan. The Court interprets the Comprehensive
+Plan as requiring only consideration of these general criteria. In other words, the criteria of
+Section XI are not mandatory approval criteria. As a result, even if certain of the criteria are not
+satisfied by a particular application, the Court may determine that because other criteria are
+satisfied, approval of an amendment to the Plan is justified. In this case, evidence in the record
+demonstrated that the six general criteria are satisfied by the comprehensive plan amendment.
+
+                 Opponents of the amendment have asserted that certain of the general criteria are
+not satisfied, in particular, (VIIJ)(3) and (VIID)(5). As discussed below, the Court disagrees with
+the opponents and finds that all of the criteria are met. However, even if criteria (VIII)(3) and
+(VIID(5) were found not to be met, the Court finds that its decision relating to compliance with
+statewide goals ((VIID(1) and (VIIJ)(2)) in addition to (VIID)(4) and (6) warrants approval of the
+comprehensive plan amendment. The Court finds that factors (VIII(3)) and (VIII(5)) relating to
+mistake and inventory change are generally more appropriately a determination in legislative
+plan amendments which often include policy deliberations of a broader scale. For a quasi-
+judicial plan change of limited scope, the Court finds that the other factors are compelling and
+warrant this plan amendment. In any event, because the Court considered each of the factors,
+Section XI(VIID is satisfied.
+
+                                                 S CPyrater (Don
+Compliance with Goals          (VOD
+
+                  This requirement is satisfied by consideration of the findings documenting
+compliance with the applicable Statewide Planning Goals, above, and the findings documenting
+compliance with the applicable Comprehensive Plan Goals and Policies above.        The Court finds
+that this general criterion is met.
+
+Compliance with        Spirit and   Intent   of   Goals (VID2
+
+                 Comprehensive Plan Section XI (VIID(2) requires that the County Court consider
+whether there is “substantial proof that such change shall not be detrimental to the spirit and
+intent of such goals.” The Court interprets the term “such goals” to refer to the prior general
+criterion in subsection (VIII(1), which requires consideration of compliance with the Statewide
+Land Use Goals. As a result, consideration of subsection (VIII)(2) requires only that the County
+consider the Statewide Goals. Reference to any county goals under this criterion is unnecessary.
+The County’s findings need not, and in fact, should not discuss the Comprehensive Plan
+provisions regarding “unforeseen circumstances” that are discussed in Mr. Silvertooth-Stewart’s
+letter. The County corrected the applicant’s initial interpretation of this factor and informed the
+applicant that the findings under this factor should address only the Statewide Goals. In fact,
+subsequent drafts of the findings that were included in the record delete any reference to
+“unforeseen circumstances” and focus solely on the Statewide Goals.
+
+                The Court finds that the approved exception and associated text and map
+amendments are authorized and appropriately justified in accordance with the goals. The Court
+finds that the Plan amendment is not detrimental to the spirit and intent of the goals.
+
+Change in Character or a Mistake (VIII(G)
+
+               This criteria requires that the Court consider whether a change in the character of
+the neighborhood or a mistake in the original comprehensive plan can be demonstrated.
+
+                The Court has considered evidence from the applicant and opponents regarding
+changes in the character of the neighborhood. While there is substantial evidence of a change in
+the character of the overall area, the character of the neighborhood surrounding the subject
+property has not changed significantly.
+
+                The Court also considered whether there is a mistake in the original
+comprehensive plan and finds that the applicant has adequately demonstrated a mistake. The
+Court interprets “mistake” in this context to mean a failure to plan or provide for general or
+identified needs in the Plan. The mistake identified by the applicant is the Plan’s failure to
+provide for recreational needs under Goal 8. The Plan recognizes the need for recreational
+opportunities such as campsites away from Interstate 84, indoor pools, walking trails, multiple
+use trails, ballfields, and bike trails. However, the Plan does not specifically designate land to
+accommodate these uses. This can be viewed as an error in the original Plan. This mistake is
+remedied, to an extent, by the approval of land use proposals which will provide these
+
+                                                          * 6G70363L 59)
+recreational opportunities.    The Young Life proposal will provide swimming pools, campsites,
+and trails like those described in the Plan.
+
+               One of the opponents, Mr. Silvertooth-Stewart, asserts that the failure to designate
+land for needed recreational opportunities is not a mistake. When making this assertion, he
+ignores the County’s obligation under Statewide Goal 8, Recreation, to “satisfy the recreational
+needs of the citizens of the state and visitors and, where appropriate, to provide for the siting of
+necessary recreational facilities including destination resorts.” The Comprehensive Plan
+explicitly recognizes the need for recreational opportunities, such as campsites away from I-84,
+swimming pools, walking and multiple use trails. However, the Plan fails to ensure that there is
+adequate land with land use designations allowing such recreational uses. In fact, the Plan
+improperly delegates responsibility for meeting recreational needs by stating that “recreational
+land use designations are generally made by property owners and local citizens.” Plan, Page 144.
+Because the County is required to provide for the recreational needs of citizens and visitors under
+Goal 8, failure to do so is a mistake. This mistake can be addressed by designating additional
+land for recreational uses, including the proposed youth and family camp which will serve to
+satisfy recreational needs for Wasco County citizens and others.
+
+Public Need for    Safe   Surroundings   (VIID(4
+
+               This plan criteria requires that the Court consider factors which relate to the
+public need for healthful, safe, and aesthetic surroundings and conditions are met.
+
+                The Court finds that the camp specifically provides for the safe enjoyment of the
+County’s aesthetic surroundings. Approving the amendment to the Plan will allow Young Life
+to convert the Exception Area to facilitate various recreational opportunities. These activities
+will be supervised by adults and conducted in a safe and healthful manner.
+
+Change in Inventories XI(VIID)(5)
+
+                Comprehensive Plan Section XI (VIII)(S5) requires the County to consider whether
+there is proof of change in the inventories originally developed. Mr. Silvertooth-Stewart does
+not appear to dispute that there has been a change in the inventories. Rather, he asserts that the
+Exception Area was part of the County’s original inventory of agricultural lands.
+
+                The history of the development of the Comprehensive Plan demonstrates that
+there have been changes in the original inventories of agricultural land. The Comprehensive
+Plan was adopted by ordinance on February 3, 1982. On April 27, 1983, the County adopted
+amendments to the Plan including inventories, plan policies and implementation measures that
+reflect the incorporation of Rajneeshpuram.
+
+                These amendments were acknowledged by LCDC. LCDC’s continuance order
+related to Rajneeshpuram required the County in 1992 to adopt an agricultural plan designation
+and EFU zoning for the Rajneeshpuram land. As a result, the County’s inventory of agricultural
+land changed when the Rajneesh land was rezoned to EFU because the inventory in 1983
+reflected the incorporation of Rajneeshpuram. The county’s agricultural lands inventory has
+
+                                                   "Pinos (ss
+been changed since originally developed.      In 1992, after adoption of the Plan, 2,385 acres of land
+were rezoned to A-1(80)EFU.       This added new lands to the County’s agricultural lands
+inventory.
+
+                 Other aspects of the agricultural lands inventory have also changed. The original
+comprehensive plan refers to Soil Conservation Service maps regarding soil capability
+classifications. These maps have been updated and reflect more current information about soil
+capability and acres per AMU. These maps were adopted by ordinance in 1996 as part of
+amendments to the County’s EFU ordinance that were discussed in the original application and
+reflect a change in the inventory of agricultural lands. See adopted EFU ordinance (now at
+LUDO 3.210) and accompanying maps.
+
+Factual Basis XI(VII1\(6)
+
+               This criteria requires that the Court consider whether revisions are based on
+adequate facts to support the Plan amendment.
+
+               The Court finds that the public need and justification has been established in the
+application and supporting documentation and that an adequate factual basis exists to support the
+Plan amendment.
+
+        F,     LUDO    Criteria
+
+               1.    Section 9.020(B)(1).       This criterion requires*that a zone change conform
+with the Comprehensive Plan.
+
+               The Court finds that the zone change which implements the A-R comprehensive
+plan designation, conforms with the Plan as discussed above.
+
+               2.      Section 9.020(B)(2).     This criterion requires that the site be suitable for
+the proposed use.
+
+                 The Court finds that the recreational uses allowed in the zone are of an outdoor
+nature and require a large area to accommodate an isolated camping experience. The 65,000
+acres of the ranch which will be maintained in agricultural uses provide an adequate buffer to
+isolate recreational uses from neighboring agricultural uses. The Court finds that the large
+expanse of the site minimizes any potential conflicts between recreational uses and agriculture.
+The Court also finds that the site’s prior use has resulted in the investment in building
+improvements and service facilities. The proposal is suitable to the site because it uses the
+existing structures in a way which will not be detrimental to agricultural uses of the surrounding
+property. Therefore, the Court concludes that the site is suitable for the proposed use.
+
+               3,      Section 9.020(B)(3).     This criterion requires that there has been a
+conscious consideration of the public health, safety and welfare in applying the specific zoning
+regulations.
+
+                                                   » PGn2e3s6®
+               The Court finds that the recreational opportunities provided by the zone change
+will benefit youth from the County and from the region. The camp offers supervised recreatio
+                                                                                             nal
+opportunities which enhance the county’s public health, safety and welfare because outdoor
+recreational opportunities are beneficial to the well-being of the youth and provide an
+opportunity to enjoy the scenic wonder of the high desert environment. For these
+                                                                                    reasons,   the
+Court finds that the public health, safety, and welfare have been considered in the zone change.
+
+                                              »~         f43e3 (s4)                      0139452.05
+                                                                                     EXHIBIT C
+Big Muddy Exception Statement
+
+                The Big Muddy Exception is a reasons exception for 1360 acres of the Big
+Muddy Ranch to allow use of the Exception Area for a youth/family camp. Consistent with
+OAR 660-04-018 (3), the reasons exception approved by Ordinance No. 97-001, incorporated
+herein by reference, adopts comprehensive plan and zone designations to limit the uses and
+activities to only those uses and activities justified by the exception. If Wasco County were to
+change the types or intensities of uses within the Big Muddy Exception Area, a new reasons
+exception would be required. (OAR 660-04-18(3)(b)).
+
+Description of Exception Boundary and Development Area
+
+               The Big Muddy Exception Area consists of 1360 acres along Muddy Creek within
+the approximate 66,000 acres included in the boundaries of the Big Muddy Ranch in
+southeastern Wasco County and northeastern Jefferson County. The Exception Area is
+approximately 12 miles southeast of Antelope.
+
+                 The boundaries of the Exception Area are shown on Exhibit A-2, entitled
+“Exception Boundary and Development Area.” Within the 1360 acre exception, a 580 acre
+Development Area is depicted. The Development Area is presently developed with various
+buildings, other improvements, roads and utility infrastructure. It is the portion of the Exception
+Area to be used extensively for camp purposes and is the only area in the Exception Area which
+can accommodate new buildings for camp purposes. The Big Muddy limited use overlay
+requires all new buildings to be located in the Development Area. Some utility infrastructure
+(water and sewer) are located in the Exception Area outside the Development Area and this
+infrastructure will be used, maintained and operated for camp purposes. Various recreational
+activities of the camp will be located in the Development Area and Exception Area.
+
+                The youth/family camp will utilize some of the existing structures in the
+Development Area; other buildings will be demolished and some new buildings will be
+developed for the camp. Existing water and sewer systems located in the Exception Area will be
+operated for the camp. This Exception Statement describes the scope of the exception approved
+for youth/family camp and, together with Ordinance No. 97-001, establishes the limitations or
+restrictions on uses in the Exception Area and the Development Area.
+
+Scope of Exception
+
+                The approved reasons exception for the Big Muddy Ranch Exception allows use
+of the Exception Area for a youth/family camp. As proposed by Young Life and approved by
+Wasco County, the camp proposed at the Big Muddy Exception Area will accommodate up to
+1000 campers during the summer months, plus the necessary counselors and staff. It will operate
+year round, but the most intensive use occurs in the summer when the camp accommodates
+middle and high school youths in summer camps.       During the remainder of the calendar year, the
+camp is used less intensively but is available for retreats and conferences for families, adults or
+
+                                                  | Pre vsisiy™
+youths.   These off-peak season uses may serve educational purposes, retreats or staff training.
+                The youth/family camp will be developed in phases. Each phase will
+accommodate up to 500 campers, plus staff. The conceptual plan map approved as part of the
+Exception identifies the main components of the camp. Young Life proposes to utilize some of
+the existing buildings for camp purposes. These are generally depicted on the conceptual plan.
+In addition, Young Life intends to remove or decommission numerous buildings and to provide
+some new structures necessary for camp operations. The conceptual plan identifies the existing
+building inventory, the proposed uses of the existing buildings, the buildings proposed for
+removal, and the new buildings planned for the camp. The uses authorized by this Exception for
+the youth/family camp include accommodations for campers, staff and guests, dining, meeting
+and conference facilities, administrative and support offices or work areas including maintenance
+or shop areas, camp activity centers, clubrooms, pool or sports activity buildings and associated
+recreational facilities and other similar uses designed for youth/family camp operations. As
+noted on the conceptual plan, these uses have been identified in the Exception and are authorized
+under the Big Muddy Overlay (Section 3.930(B) and (C).
+
+                 The conceptual plan is not intended to be a binding document regarding the
+development of the camp. However, it does present the general parameters of the proposed
+youth/family camp in terms of the location of principal camp components, such as dormitory or
+staff housing areas, sports or recreational amenities and dining, activity, or conference facilities.
+Any new building will require a conditional use permit under the terms of the Big Muddy
+Limited Use Overlay. The approval of a conditional use will be based on a demonstration that
+the location, size, design and operational characteristics of the proposed use are compatible with
+the surrounding area and the approved exception. Because any new building will require a
+conditional use approval and the review process for a conditional use permit involves a
+determination of location, size, design and operational! characteristics, the County can consider
+whether a proposed new building is compatible with the approved exception. As a result, the
+conceptual plan need not presently identify each exact new potential addition to the youth/family
+camp. In addition, the approved exception requires that the youth/family camp be developed,
+maintained and operated in a manner consistent with the exception. This means that a user or
+operator of the youth/family camp must employ similar camp operations to those approved by
+the Exception.
+
+                The Exception authorizes the establishment and operation of a youth/family camp
+consistent with the approvals provided for in Ordinance No. 97-001, including the referenced
+Exhibits A to G. Exhibit B, the Findings and Conclusions, describes the nature, size and general
+operation of the proposed camp. Exhibit E sets forth the provisions of the Big Muddy Limited
+Use Overlay. The purpose of the Big Muddy Limited Use Overlay is to assure that the
+development and operation of the camp is consistent with the purpose and intent of this
+Exception and limits uses and activities allowed in the underlying A-R zone to only those uses
+and activities justified by this Exception. By this reference, the Big Muddy Limited Use Overlay
+is incorporated into this Exception.
+
+Reasons Justifying the Exception
+
+               Consistent with OAR 660-04-020, this Exception and the accompanying
+referenced documents include the justification for the Exception and incorporates the Exception
+                                                  2
+                                                        OF             363        (S?)        0140496.02
+                                                                                             facts
+into the County’s comprehensive plan. The reasons justifying the exception including the
+                                                                                                   to
+and assumptions used as the basis for determining that a state policy in a goal should not apply
+the Exception Area, the amount of land for the proposed use, and a rationale   of why the use
+requires a location on resource land are included by the reference to and incorporation of
+Ordinance No. 97-001 and its other exhibits.
+
+                                                  Vep303 (54)
+                                                                                              0140496.02
+                                                                               EXHIBIT D
+
+Comprehensive Plan Policy Amendment -- Purposes Statement
+
+        The text of the Wasco County Comprehensive Plan is amended as set forth below by the
+adoption of a purposes statement for the Agricultural - Recreational Plan designation.
+
+       On page 233, add the following:
+
+       “A gricultural-Recreational
+               Purpose:    To provide areas for outdoor recreation and
+                           to allow controlled growth to continue in
+                           existing rural unincorporated communities.”
+
+                                                   L490 soa(s¢)
+                                                                                        EXHIBIT E
+
+                                          Amendments to
+                         Wasco County Land Use and Development Ordinance
+
+            1,   Section 1.090
+
+                 Section 1.090 is hereby amended to add the following new definition for a
+
+youth/family camp:
+
+                 “Youth/Family Camp -- An area devoted to facilities and equipment for camp
+
+purposes for youths and adults, including swimming pools, tennis courts, recreational fields and
+
+facilities for meetings, conferences or retreats, including facilities for eating and sleeping
+
+accommodations that are provided in connection with the camp.”
+
+           2.    Section 3.230(B)
+
+                 Section 3.230(B) is hereby amended as follows:
+
+                 “B.   Permitted Uses
+
+                          15. Youth/family camp.”
+
+           3.    Section 3.700
+
+                 Section 3.700, The Environmental Protection District is hereby amended to add
+
+the following new purpose statement:
+
+                 “M.   To assure that properties subject to specific limited use overlay zones (LU)
+
+are subject to county ordinance provisions.”
+
+       4.        Section 3.710
+
+                 Section 3.710 is hereby amended to add Division 9, The Big Muddy Limited Use
+
+Overlay:
+
+                 “I, Division 9 - Big Muddy limited use overlay.”
+
+                                                    ' Pomseolss)
+5.   Section 3.930
+
+     Section 3.930 is hereby amended as follows:
+
+     “A,    Purpose
+
+            The purpose of the Big Muddy limited use overlay is to assure that the
+            development and operation of a youth/family camp in the Big Muddy
+            exception area (adopted as part of the Wasco County Comprehensive Plan
+            by Ordinance No. 97-001) occurs in a manner that is consistent with the
+            purpose and intent of the Big Muddy Exception (“Exception”) and limits
+            uses and activities allowed in the underlying Agricultural-Recreational (A-
+            R) Zone to only those uses and activities which are justified in the
+            Exception adopted as part of the County’s plan by Ordinance No. 97-001.
+
+            Permitted Uses
+
+                      Use of buildings existing on the date of adoption of this Section
+                      consistent with the Exception.
+
+                      Renovation and relocation of buildings existing on the date of
+                      adoption of this Section consistent with the Exception to the extent
+                      that the renovation or relocation does not increase the building
+                      footprint.                          -
+
+            Conditional Uses
+
+                      The following are Conditional Uses in the Big Muddy limited use
+                      overlay:
+
+                      a.     New buildings for youth/family camp purposes.
+
+                      b,     Expansion of existing buildings for youth/family camp
+                             purposes.
+
+                      Approval Criteria
+
+                      Approval of a Conditional Use in the Big Muddy limited use
+                      overlay shall be based on a demonstration that the following four
+                      criteria are met:
+
+                      a.     Taking into account location, size, design and operational
+                             characteristics of the proposed use, the proposal is
+                             compatible with the surrounding area and the Exception.
+
+                                                                                   0140454.01
+
+                                             $903            62859)
+           b.       The proposed use will not exceed or significantly burden
+                    public facilities and services available to the area,
+                    including, but not limited to: roads, fire and police
+                    protection, sewer and water facilities, telephone and
+                    electrical services, or solid waste disposal facilities.
+
+           c.       The proposed use will not significantly reduce or impair
+                    sensitive wildlife habitat or riparian vegetation along
+                    streambanks and will not subject areas to excessive soil
+                    erosion.
+
+            d.      The proposal will not significantly increase the cost of or
+                    cause a significant change in accepted farm or forest
+                    practices on surrounding lands devoted to or available for
+                    farm or forest use.
+
+            Conditions
+
+           Such reasonable conditions as are necessary to ensure the
+           compatibility of a conditional use to surrounding properties and to
+           fulfill the purposes of the Big Muddy limited use overlay may be
+           imposed in approving a conditional use permit application.
+
+           Applicability   of Conditional Use Review Standards
+
+           Conditional uses in the Big Muddy limited use overlay shall be
+           subject only to the following sections of Chapter 5, Conditional
+           Use Review:     Sections 5.040, 5.050 and 5.060.
+
+D.   Development Standards
+
+     1.    Lighting
+
+           Outdoor lighting shall be sited, limited in intensity, shielded and
+           hooded in a manner that prevents the lighting from projecting onto
+           adjacent properties and roadways.
+
+            Setbacks
+
+           No new structure other than fences or signs shall be located closer
+           than twenty-five (25) feet from the right-of-way of a public road.
+
+           Height
+
+           Maximum height for all buildings shall be 50 feet.
+
+                                                                         0140454.01
+
+                                     J) 9103 6WS4))
+E.   Limitations
+
+     1.     No partitioning or subdividing shall be allowed in the Big Muddy
+            limited use overlay.
+
+     2.     No temporary housing shall be permitted in the Big Muddy limited
+            use overlay, except as necessary to house construction
+            personnel/workers during construction and remodeling on site.
+
+     3,     All new structures shall be located within the Development Area as
+            provided for in the Exception.
+
+     4,     Uses in the Big Muddy limited use overlay shall be limited to the
+            youth/family camp as provided for in the Exception.”
+
+                              ' Prose3(s2)
+                                                                                       EXHIBIT F
+
+Section 3.930 Division 9 - Big Muddy Limited Use Overlay
+
+      A.      Purpose
+
+              The purpose of the Big Muddy limited use overlay is to assure that the
+              development and operation of a youth/family camp in the Big Muddy exception
+              area (adopted as part of the Wasco County Comprehensive Plan by Ordinance No.
+              97-001) occurs in a manner that is consistent with the purpose and intent of the
+              Big Muddy Exception (“Exception”) and limits uses and activities allowed in the
+              underlying Agricultural-Recreational (A-R) Zone to only those uses and activities
+              which are justified in the Exception adopted as part of the County’s plan by
+              Ordinance No. 97-001.
+
+              Permitted Uses
+
+              1.        Use of buildings existing on the date of adoption of this Section consistent
+                        with the Exception.
+              2.        Renovation and relocation of buildings existing on the date of adoption of
+                        this Section consistent with the Exception to the extent that the renovation
+                        or relocation does not increase the building footprint.
+              Conditional Uses
+
+              l.        The following are Conditional Uses in the Big Muddy limited use overlay:
+                        a.     New buildings for youth/family camp purposes.
+
+                        b.     Expansion of existing buildings for youth/family camp purposes.
+
+              2.        Approval Criteria
+                        Approval of a Conditional Use in the Big Muddy limited use overlay shall
+                        be based on a demonstration that the following four criteria are met:
+
+                        a.     Taking into account location, size, design and operational
+                               characteristics of the proposed use, the proposal is compatible with
+                               the surrounding area and the Exception.
+
+                        b.     The proposed use will not exceed or significantly burden public
+                               facilities and services available to the area, including, but not
+                               limited to: roads, fire and police protection, sewer and water
+                               facilities, telephone and electrical services, or solid waste disposal
+                               facilities.
+
+                        C.     The proposed use will not significantly reduce or impair sensitive
+                               wildlife habitat or riparian vegetation along streambanks and will
+                               not subject areas to excessive soil erosion.
+
+                                                                                              0139610.01
+
+                                                  |     J40303 ( 57)
+            d.       The proposal will not significantly increase the cost of or cause a
+                     significant change in accepted farm or forest practices on
+                     surrounding lands devoted to or available for farm or forest use.
+
+     3.     Conditions
+            Such reasonable conditions as are necessary to ensure the compatibility of
+            a conditional use to surrounding properties and to fulfill the purposes of
+            the Big Muddy limited use overlay may be imposed in approving a
+            conditional use permit application.
+
+     4,     Applicability of Conditional Use Review Standards
+            Conditional uses in the Big Muddy limited use overlay shal! be subject
+            only to the following sections of Chapter 5, Conditional Use Review:
+            Sections 5.040, 5.050 and 5.060.
+
+D.   Development Standards
+     1.     Lighting
+            Outdoor lighting shall be sited, limited in intensity, shielded and hooded in
+            a manner that prevents the lighting from projecting onto adjacent
+            properties and roadways.
+
+     2.     Setbacks                                    e
+
+            No new structure other than fences or signs shall be located closer than
+            twenty-five (25) feet from the right-of-way of a public road.
+
+     3,     Height
+            Maximum height for all buildings shall be 50 feet.
+
+E.   Limitations
+     I.     No partitioning or subdividing shall be allowed in the Big Muddy limited
+            use overlay.
+     2.     No temporary housing shall be permitted in the Big Muddy limited use
+            overlay, except as necessary to house construction personnel/workers
+            during construction and remodeling on site.
+     3.     All new structures shall be located within the Development Area as
+            provided for in the Exception.
+     4,     Uses in the Big Muddy limited use overlay shall be limited to the
+            youth/family camp as provided for in the Exception.
+
+                                        Yee (57)
+                                                                              EXHIBIT G
+
+                              Conditions of Approval
+
+That the Big Muddy Exception Statement be recorded with the Wasco County Clerk’s
+Office.
+
+Paving of Cold Camp Road southerly from its intersection with state highway 218 shall
+be completed to a length of approximately 100’ or to a length providing the County
+Road Department a reasonable starting point for road grading.
+
+The July 8, 1997 letter from ODOT, together with the supplemental letter of August 12,
+ 1997 from ODOT documents the anticipated traffic generation for the camp operation.
+If the estimated trips are increased by more than 30%, the camp operator shall submit a
+revised transportation plan for review by the Planning Commission to ensure adequate
+steps can be taken to maintain public safety on all public roads.
+
+Prior to initiating operation of the camp: (a) A fire response, suppression, and
+evacuation plan shall be prepared by a registered Professional Fire Protection Engineer
+and reviewed for adequacy by the State Fire Marshall or his/her assign; and (b) An
+approved flood evacuation plan shall also be prepared in accordance with the Water
+Master’s requirements.
+
+The Muddy Road, a public road not maintained by the County, shall be maintained by
+the applicant in a safe condition for public as well as pr ivate access. If an alternate road
+is constructed to afford alternative access to the Jefferson County public road in lieu of
+any portion of the Muddy Road, either the Muddy Road shall be maintained for public
+access or the alternate route shall be dedicated to public access while the unmaintained
+portion of the Muddy Road may be considered for vacation.
+
+Prior to commencing operation the applicant shall prepare a solid waste management
+plan. This plan shall be prepared by a qualified solid waste professional and shall be
+reviewed for adequacy by the local Sanitarian with the Public Health Department and by
+Department of Environmental Quality’s (DEQ) solid waste division. The plan shall
+include, but not be limited to, estimates of material generation, proposed means and
+frequency of transport, container types if applicable and disposal site. The applicant is
+encouraged to explore opportunities to recycle or create a recycling depot with DEQ.
+
+                                                                                       02
+                                                                         (s7) o1404ss.
+                                                   Liv
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.9% of
+the word sequence, and on 70.0% of the figures. Dictionary-recognizable words: 96.8%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

@@ -1,0 +1,1897 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/klamath-county
+id: klamath-policies-local-737-cba-2026-2029
+title: 'Local-737-CBA-2026-2029-'
+doc_type: policy
+citation: 'Local-737-CBA-2026-2029-'
+authority_level: county_policy
+issuing_body: 'Klamath County Board of Commissioners'
+source_url: https://www.klamathcounty.org/DocumentCenter/View/63613/Local-737-CBA-2026-2029-
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8920ead6a82fe5d96643aabfdaf8496bf3632b65f30955fa90f22e09f034813a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.994; figure agreement 0.903; dictionary ratio 0.967. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 243.650
+  related: []
+  supersedes: []
+tags: [klamath-county, policies, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Local-737-CBA-2026-2029- (Local-737-CBA-2026-2029-)
+
+## At a glance
+
+OCR-derived text of Local-737-CBA-2026-2029-. Not human-verified.
+
+## Full text
+
+Collective Bargaining Agreement
+
+             between
+
+    Klamath County, Oregon
+
+                and
+
+  Laborers’ Union, Local 737
+
+    July 1, 2026 - June 30, 2029
+
+         Table of Contents
+Klamath County and Local 737 Collective Bargaining Agreement
+
+PREAMBLE
+
+ARTICLE 1, SCOPE OF AGREEMENT
+
+ARTICLE 2, RECOGNITION
+
+                                                                                  CU
+ARTICLE 3, UNION MEMBERSHIP AND CHECK-OFF
+
+                                                                                  OC
+ARTICLE 4, MANAGEMENT RIGHTS
+
+                                                                                  SP
+ARTICLE 5, STRIKES AND LOCKOUTS
+
+                                                                                  ao
+ARTICLE 6, HOLIDAYS
+
+                                                                                  aon
+ARTICLE 7, PTO
+
+                                                                                  oo
+ARTICLE 8, HOURS OF WORK
+
+                                                                                  o
+ARTICLE 9, OTHER LEAVES OF ABSENCE
+
+ARTICLE 10, COMPENSATION                                                              12
+
+ARTICLE 11, DISCIPLINE AND DISCHARGE                                                  15
+
+ARTICLE 12, SETTLEMENT OF DISPUTES                                                    16
+
+ARTICLE 13, PROBATIONARY PERIOD                                                       18
+
+ARTICLE 14, GENERAL OPERATIONS                                                        18
+
+ARTICLE 15, HEALTH, WELFARE AND RETIREMENT                                            21
+
+ARTICLE 16, WORKER’S COMPENSATION                                                     22
+
+ARTICLE 17, LIABILITY INSURANCE                                                       22
+
+ARTICLE 18, SAVINGS CLAUSE AND FUNDING                                                22
+
+ARTICLE 19, DRUG TESTING                                                              23
+
+ARTICLE 20, TERMINATION AND REOPENING                                                 23
+
+EXHIBIT A, SALARY AND COMPENSATION SCHEDULES                                          24
+EXHIBIT B, CLASSIFICATION SCHEDULES                                                   30
+EXHIBIT C, PROVISIONS TO COVER SPECIAL CONDITIONS OF PARTICULAR DEPARTMENTS           33
+EXHIBIT D, ALCOHOL AND DRUG ABUSE POLICY                                              34
+SIGNATURE PAGE                                                                        42
+
+                                                                          6/24/2026
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                                            AGREEMENT
+                                 BETWEEN KLAMATH COUNTY, OREGON
+                                                AND
+                           LABORERS’ UNION, LOCAL 737, PORTLAND, OREGON
+
+                                                      PREAMBLE
+
+This Agreement is entered into by Klamath County, Oregon, hereinafter referred to as the “County” and
+Oregon and Southern Idaho, District Council of Laborers and Local 737 of the Laborers International Union
+of North America, AFL-CIO, hereinafter collectively referred to as the “Union”. Unless indicated otherwise,
+references to the “County” herein shall refer to the Board of County Commissioners and, where applicable,
+to any elected official who is responsible to the citizens of the County for operation of the particular
+departments covered by this Agreement. It is further recognized by the Union that there is a statutory
+division of responsibility between the Board of Commissioners and other elected officials or department
+heads, and that in the event of any conflict, the function and authority of the Board of Commissioners shall
+be controlling with reference to any matter covered by this Agreement.
+
+                                                    ARTICLE 1
+                                              SCOPE OF AGREEMENT
+
+Section 1.1 This Agreement shall apply to non-supervisory employees of the County and excludes all
+Elected Officials, Public Works/Road Division employees covered by another collective bargaining
+agreement; foremen; registered nurses; Parole and Probation Officers; Fairgrounds employees; all Sheriff's
+office deputies, employees, and reserve deputies except for cooks and facility maintenance workers; part-
+time, temporary or seasonal employees; part-time Juvenile Groupworkers working 24 or less hours in a
+week: all employees hired for a period greater than twelve (12) months under a specific state or federal
+grant and all staff members employed in the Board of Commissioners office and Human Resources/Risk
+Management office.
+
+Section 1.2 For purposes of this Agreement, the following definitions shall apply:
+
+A.   REGULAR FULL-TIME: a regular full-time employee shall be an employee who occupies a position
+     that is authorized, budgeted, and designated as a regular full-time position. Such a regular full-time
+     position will normally be regularly scheduled to work at least 37.5 hours per week and shall be fully
+     regulated by the provisions of this agreement.
+
+B.   REGULAR HALF-TIME: a regular half-time employee shall be an employee who occupies a position
+     that is authorized, budgeted, and designated as a regular half-time position. Such a regular half-time
+     position will normally be regularly scheduled to work a minimum of 20 and less than 37.5 hours per
+     week. Such an employee shall be subject to the terms and provisions of this agreement and shall be
+     entitled to employer-paid benefits on a pro-rated basis (for example, 0.60FTE employees will receive
+     pro-rated insurance benefits at 0.60%; 0.25FTE employees will receive pro-rated insurance benefits at
+     0.25%).
+
+A.   PART-TIME: a part-time employee shall be an employee who regularly works 19 or fewer hours per
+     week. Such an employee shall not be subject to the terms and provisions of this agreement and shall
+
+                                                                                               6/24/2026       3
+Klamath County and Local 737 Collective Bargaining Agreement
+
+     not accrue sick leave or vacation nor be entitled to holiday pay or receive medical or most other
+     employee benefits.
+
+B. TEMPORARY: a temporary employee shall be an employee who holds a position authorized,
+   budgeted, and designated temporary. This section also includes those employees working a seasonal
+   or emergency job assignment. Such an employee, hired into a position in which the nature of the work
+   is temporary, shall be limited to an employment period not to exceed six (6) months; shall not be
+   subject to the terms and provisions of this agreement. Employees in this classification shall not be
+   eligible for employee benefits. In the event a temporary or seasonal position is occupied on a full-time
+   basis beyond the six (6) month period, the terms of this agreement will apply and probation shall
+   commence on the first of the month following the first six months of temporary employment.
+
+A.   CHANGES IN STATUS: to ensure the integrity and stability of the work force and prevent any
+     capricious modification of an employee’s status and denial or withdraw of benefits, any and all changes
+     involving a change in job duties resulting in a change of status shall occur only with authorization by the
+     Board of County Commissioners and through procedures designated by the Human Resources
+     Department.
+
+A.   OUTSIDE EMPLOYMENT: any and all employment or activities for remuneration of any sort, including
+     partial or full ownership of firms operating within the County may be permitted only with the prior written
+     approval of the Department Head. Such outside employment or activity may be permitted only where,
+     at the discretion of the County, the nature and extent of such activities are compatible with County
+     employment; and where such outside employment or activities would not, or later does not, interfere
+     with an employee's responsibilities to County employment; and in no way conflicts with the interests of
+     the County or is a discredit to the County. Failure to report such outside activity or to comply with the
+     procedures established by the County to enforce the provisions of this section shall be subject to
+     progressive discipline as outlined elsewhere in this Agreement.
+
+A.   CONFIDENTIAL: a confidential employee shall be any employee who assists or participates in the
+     formulation or execution of labor relations or personnel policy on behalf of the County and shall include
+     personnel employed in the office of the County Commissioners, County Counsel, Human
+     Resources/Risk Management and Payroll.
+
+A.   SUPERVISORY:        a supervisory employee shall be as defined in ORS 243.650(23).
+
+A. ANNIVERSARY DATE: the date of appointment to regular status, or if promoted, the effective date of
+     the promotion.
+
+A.   DAY: unless otherwise detailed or defined within a particular section of this Agreement, the term “day”
+     used in this Agreement shall refer to working day or normal business day and shall not include
+     saturday or Sunday.
+
+                                                                                                6/24/2026          4
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                                                      ARTICLE 2
+                                                    RECOGNITION
+
+The County recognizes the Union as the sole and exclusive bargaining agent for the purposes of
+establishing salaries, wages, hours and other conditions of employment for all of its employees within the
+bargaining unit described in Article 1 hereof.
+
+                                                ARTICLE 3
+                                     UNION MEMBERSHIP AND CHECK-OFF
+
+Section 3.1 Membership or non-membership in the Union shall be the individual choice of employees
+covered by this Agreement. It is recognized that employees covered by this Agreement may be required in
+the line of duty to perform duties growing out of or connected with labor disputes which may arise within the
+County. The Union agrees that no disciplinary or other action will be taken by the Union against employees
+covered by this Agreement by reason of any such action or conduct in the line of duty.
+
+Section 3.2 The County agrees to deduct from the paycheck of each employee who has so authorized it
+the regular initiation fee (for new employees) and regular monthly dues uniformly required of members of
+the Union. The amounts deducted shall be transmitted monthly to the Union on behalf of the employees
+involved. Authorization for such deduction shall be in writing, signed by the employee, on forms furnished
+by the County and may be revoked by the employee upon written request only during the thirty (30) day
+period between June 1 and June 30 of each year. It is the responsibility of the member to ensure they pay
+union dues while on unpaid leaves of absences of any time in order to maintain their status.
+
+Section 3.3 The County agrees to provide the Union the names and addresses (including cell phone and
+personal email) of newly hired employees within thirty (30) calendar days following the employee's date of
+hire. Should the County hold an employee orientation meeting, a representative or steward of the Union
+shall be provided notice no less than ten (10) days before the orientation including date, time, and location
+of the orientation. Immediately following the new employee orientation, the Union shall be allowed up to
+thirty (30) minutes to provide new employee orientation to Local 737 bargaining unit employees. A
+bargaining unit member attending orientation during the employee’s regular work time as the Union
+representative shall be given paid release time sufficient to cover the Union’s presentation and travel time.
+The Union will provide the names of any employees who they wish to be released at least 48 hours in
+advance to the Human Resources Department. If the Union steward is unavailable, a Union representative
+will provide the new member orientation.
+
+Section 3.4 The union assumes responsibility for repayment of monies found to be illegally deducted by
+the County under this Article and shall indemnify and hold the County harmless against any and all claims
+that arise out of or by reason of the good faith actions of the County pursuant to its compliance with this
+Article.
+
+                                                                                              6/24/2026         5
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                                                   ARTICLE 4
+                                              MANAGEMENT RIGHTS
+
+The County retains all the customary, usual, and exclusive rights decision making, prerogatives, functions,
+and authority connected with or in any way incident to its responsibility to manage the affairs of the County
+or any department or function thereof. The rights of employees in the bargaining unit and the Union are
+limited to those specifically set forth in this Agreement, and the County retains all prerogatives, functions,
+and rights not specifically limited by the terms of this Agreement. The County shall have no obligation to
+bargain with the Union with respect to any such subjects or the exercise of its discretion and decision
+making with regard thereto, any subjects covered by the terms of this Agreement and closed to further
+bargaining for the term hereof, and any subject which was or might have been raised in the course of
+collective bargaining. Without limitations, but by way of illustration, the exclusive prerogatives, functions
+and rights of the County shail include the following:
+
+1.   Todirect and supervise all operations, functions and policies of the departments in which the
+     employees in the bargaining unit are employed, and operations, functions, and policies in the
+     remainder of the County as they may affect employees in the bargaining unit.
+1.   To close, liquidate or combine any department, office, branch, operation of facility, service, or
+     combination thereof, or to relocate, reorganize or combine the work of departments, divisions, offices,
+     branches, operations or facilities for budgetary or any other pertinent reason.
+1.   To determine the need for a reduction or an increase in the work force and the implementation of any
+     decision with regard thereto.
+1.   To establish, revise and implement standards for hiring, classification, promotion, quality of work,
+     safety, materials, equipment, uniforms, appearance, methods, and procedures.
+1.   To implement new, and to revise or discard, wholly or in part, old methods, procedures, materials,
+     equipment, facilities, and standards.
+1.   To assign and distribute work.
+4.   Tocontract or subcontract work as determined by the County upon notification to the Union.
+1.   To assign shifts, workdays, hours of work and work locations as the County may determine, except
+     where modified by a specific provision of this Agreement.
+1.   To designate and to assign all work duties.
+1.   To introduce new duties and to revise or add job classifications and duties within the unit, subject only
+     to the provisions of Article 11, Section 1 hereof.
+1.   To determine promotional opportunities and the need for and the qualifications of new employees,
+     transfers, and promotions.
+1.   To discipline, suspend, demote, or discharge an employee so long as such action is not arbitrary, in
+     bad faith, or without just cause.
+1.   To determine the need for additional education courses, training programs, on-the-job training, and
+     cross-training and to assign employees to such duties for periods to be determined by the County.
+
+The exercise of any management prerogative, function, or right which is not specifically modified by this
+Agreement is expressly retained by the County, subject only to the claimed violation of a specific provision
+of this Agreement, which may be subject to the provisions of Article 13 hereof.
+
+                                                                                               6/24/2026         6
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                                                    ARTICLE 5
+                                             STRIKES AND LOCKOUTS
+
+Section 5.1   During the duration of this Agreement, the Union and its members, as individuals or as a
+group, will not initiate, cause, permit, participate or join in any strike, work stoppage or slowdown, picketing,
+or any other restriction of work at any location in the County. Employees in the bargaining unit, while acting
+in the course of their employment, shall not honor any picket line established in the County by the Union or
+by any other labor organization when called upon to cross such picket line in the line of duty. Disciplinary
+action, including discharge, may be taken by the County against any employee or employees engaged in a
+violation of this Article. Such disciplinary action may be undertaken selectively at the option of the County
+and shall not preclude or restrict recourse to any other remedies, including an action for damages, which
+may be available to the County.
+
+Section 5.2 In the event of a strike, work stoppage, slowdown, picketing, observance of a picket line, or
+other restriction of work in any form, either on the basis of individual choice or collective employee conduct,
+the Union will immediately, upon notification, attempt to secure an immediate and orderly return to work.
+This obligation and the obligations set forth in Section 5.1 above shall not be affected or limited by the
+subject matter involved in the dispute giving rise to the stoppage or by whether such subject matter Is or is
+not subject to the grievance and arbitration provision of this Agreement.
+
+Section 5.3 There will be no lockout of employees in the unit by the County as a consequence of any labor
+dispute arising during the period of this Agreement.
+
+                                                      ARTICLE 6
+                                                      HOLIDAYS
+
+Section 6.1 The following shall be recognized as holidays for full-time employees:
+
+         New Year's Day                                       Labor Day
+         Martin Luther King Junior Day                        Veteran's Day
+         President's Day                                      Thanksgiving
+         Memorial Day                                         Day after Thanksgiving
+         Juneteenth                                           Christmas Day
+         Independence Day
+         Two Floating Holidays*™”
+         An additional floating holiday will be granted after 15 years of service to equal Three Floating
+         Holidays.
+         **Floating holidays will be added into the PTO accrual (see Article 7).
+
+Section 6.2 Whenever a holiday falls on Saturday, the preceding Friday shall be observed as the holiday;
+and whenever a holiday falls on Sunday, the succeeding Monday shall be observed as the holiday. If an
+employee is on authorized vacation, sick leave, or other leave with pay when a holiday occurs, such holiday
+shall not be charged against such leave, and an additional day may be scheduled by mutual agreement
+between the employee and her/his supervisor.
+
+Section 6.3 Eligible full-time employees shall receive one (1) day’s pay for each of the holidays listed
+above on which they perform no work.
+
+                                                                                                 6/24/2026          7
+ Klamath County and Local 737 Collective Bargaining Agreement
+
+            (A)     Full-time non-exempt employees that work a flexible schedule and a holiday falls on their
+  day off shall be awarded another day off at their current hours worked that day. Such day off shall be as
+  mutually agreed to between the employee and their department head, or his/her designee, but shall be
+  approved and taken within ten (10) working days from the date of such holiday. (For example if a non-
+  exempt employee works four (4) ten (10) hour days per week and a holiday falls on their day off; that
+  employee shall be awarded another day off with hours paid that are typically worked on that day).
+            (B)     Full-time exempt employees that work a flexible schedule and a holiday falls on their day
+  off shall be awarded another day off. Such day off shall be as mutually agreed to between the employee
+  and their department head, or his/her designee, but shall be approved and taken within ten (10) working
+  days from the date of such holiday.
+            (C)     Half-time employees will be eligible for holiday pay equal to a proration of the employees
+budgeted FTE times eight (8) hours. When a holiday falls on a day off for a less than full-time (40 hours per
+week) employee, that employee shall be awarded another day off with pay at the prorated rate. Such day
+off shall be as mutually agreed to between the employee and their department head, or his/her designee,
+but shall be approved and taken within ten (10) working days from the date of such holiday.
+
+ Section 6.4 If an employee is required to work on any holiday listed above, they shall receive, in addition to
+ their holiday pay, compensation for all hours worked at the rate of one and one-half the regular rate of pay
+ or compensatory time off at the rate of time and one-half, as mutually agreed upon by the County.
+
+ Comp Time must be used under the following conditions: It must be used during the quarter in which it is
+ earned: and all banked Comp Time must be exhausted before other benefit time is used. Comp time may
+ be earned and taken off only with the approval of the Department Head. If consensus cannot be reached,
+ another employee will be offered the extra work if the option is turned down by the employee.
+
+ Section 6.5 All regular full-time employees are eligible to accrue and utilize two floating holidays per fiscal
+ year (i.e., between July 1 and June 30) in accordance with the provisions of Article 6 of this Agreement.
+ This will be included in PTO accrual hours.
+
+                                                       ARTICLE 7
+                                                      Paid Time Off
+
+ A. Purpose
+ Klamath County understands that there are many personal reasons an employee may need to take time
+ off, other than sick or vacation. In the spirit of flexibility, Klamath County will award a PTO bank as provided
+ below for employees to take time off as needed. Please note that this PTO bank covers the required 40
+ hours of sick leave guaranteed through Oregon Sick Leave.
+ PTO is a flexible plan that can be customized by each individual to their time off needs. Because PTO
+ allows employees to accrue one kind of time (PTO), this can be used like sick leave and vacation leave in
+ any proportion an employee may see fit.
+ PTO can also be used for other activities in which sick leave would not be appropriate, such as school
+ activities, daycare issues, and extended bereavement.
+ PTO is being implemented to provide more flexibility for employees. Klamath County values trust and
+ integrity in the workplace and allow employees to assume responsibility for how they use their time off.
+ PTO also eliminates managers and supervisors from having to determine what qualifies for sick leave and
+ what does not.
+
+                                                                                                 6/24/2026         Q
+Klamath County and Local 737 Collective Bargaining Agreement
+
+B. Scope
+All full-time employees are eligible for the PTO bank. Half-time employees (20+ hours per week) will accrue
+at a pro-rated amount, equal to or greater than the Oregon Sick Leave requirement.
+This policy does not apply to less than half-time employees (see Oregon Sick Leave policy), independent
+contractors, state or federal work training participants, work study participants, volunteers, and employees
+contracted through a temporary staffing agency.
+This policy replaces all other sick leave, vacation leave and floating holiday leave unless otherwise noted or
+required through bargaining group.
+
+C. Policy
+During absences from work, eligible employee wages will be continued for the amount of time accrued in
+the employee's PTO account.
+
+PTO will be accrued at the following rates beginning July 1, 2023. The maximum accrual rate depends on
+hire date and bargaining unit. Most employees will reach a maximum cap of 1040 hours.
+
+         e    For years 1-5, accrual rate will be at 8.67 hours per pay period.
+         °    For years 6-10 (beginning at 5-year anniversary), accrual rate will be at 9.67 hours per pay
+
+         2    Por year 11-15 (beginning at 10-year anniversary), accrual rate will be at 11.17 hours per pay
+
+         °    Po year 16-19 (beginning at 15-year anniversary), accrual rate will be at 12.5 hours per pay
+
+         °    ya          20+ (beginning at 19-year anniversary), accrual rate will be at 13.34 hours per pay
+              period.
+
+Employees as of June 30, 2023 will have any hours remaining in their sick and vacation banks rolled over
+into their PTO bank. For those that have sick leave and vacation leave that exceeds the maximum allowed
+amount for their group, employees may keep excess sick leave in their sick leave bank to use for sick leave
+after an absence of more than 3 consecutive days.
+
+Upon separation, employees are eligible for the following payout based on years of service:
+
+                   For years 1-5, maximum payout is 160 hours.
+                   For years 6-10 (complete 5 full years), maximum payout is 240 hours.
+                   For years 11-15 (complete 10 full years), maximum payout is 288 hours.
+                   For years 16-20 (complete 15 full years), maximum payout is 352 hours.
+                   For years 21-25 (complete 20 full years) maximum payout is 400 hours.
+
+Overtime is not included as time worked in the calculation. Paid time off and holidays are included as time
+worked for purposes of this section.
+An employee is allowed to use any or all of the employee’s choice of paid sick leave or PTO to allow the
+employee to provide care for a family member with a mental or physical illness, injury, or health condition;
+or to care for a family member who needs preventive medical care. Family member in this case Is
+equivalent to the OFLA family member definition.
+
+                                                                                              6/24/2026          9
+Klamath County and Local 737 Collective Bargaining Agreement
+
+lf an employee is denied a request for PTO due to staffing or business concerns, and the denial would
+result in the employee's accrual exceeding the maximum allowed, the employee shail not lose the accrual
+at that time. The employee has until the end of the fiscal year to utilize any PTO over the maximum accrual.
+Any remaining amount over the maximum accrual as of July 1* will be forfeited.
+
+D. Procedure
+Planned versus Unplanned time off: Planned time off is when the employee has made a request and has
+been approved for time off in advance of taking the time. These would include things such as vacations,
+scheduled medical absences, other scheduled appointments and other absences for which time off is
+requested and approved in advance of the immediate need.
+
+Unplanned time off is for which the employee requests time off without prior notice, such as for
+emergencies, including but not limited to illness, transportation, or child care issues. An employee must
+keep their department head informed of their condition if unplanned use of PTO is more than three (3)
+working days in duration. Unplanned PTO that does not fall under a protected leave category which
+interferes with job performance or County operations may subject the employee to corrective action.
+
+When reasonably possible, an employee shall notify their supervisor at least two hours before the start of
+the scheduled work shift if the employee is unable to report to work as scheduled. Notice must be given
+either in person, via phone call, or via text. Department managers may authorize a shorter notice timeline
+or other notice methodology.
+
+Employees requesting time off for personal reasons shail provide their supervisor with as much advanced
+notice as possible. If insufficient notice is given, supervisors may deny personal PTO requests based on
+department needs.
+
+Depending on the length and circumstances of absence, a physician’s release may be required upon
+returning to work.
+
+In certain cases, FMLA or OFLA may apply. Please refer to policy #315 for more information on this type of
+leave.
+
+E. PTO Donations
+Employees can elect to share PTO according to current policy. All PTO donation requests must be
+requested by the department head and approved by the HR Director.
+
+F. Conversion of Sick Leave Accruals
+All employees will have their sick leave accruals transferred into their PTO bank except in the case where
+the sick leave and vacation leave exceeds the employee’s maximum accrual. If the conversion exceeds the
+maximum PTO accrual, then excess hours will be kept in the employee’s sick leave bank to use for sick
+leave purposes extending longer than 3 days.
+
+G. PTO Maximum Exceptions and Payouts
+All employees will be subject to a maximum PTO accrual of 1040 hours, except for the following:
+         e Employees who were hired prior to January 1, 1998 will be allowed a maximum PTO of 1360
+             hours, to allow for the previously agreed maximum sick leave payout of 50% of hours
+
+                                                                                            6/24/2026      10
+Klamath County and Local 737 Collective Bargaining Agreement
+
+              remaining, up to a maximum of 480 hours. This allows for the employee to also receive the
+              maximum vacation payout of 400 hours.
+An excess of 1040 hours, with the exception of the above, must be used by June 30” each year or be
+forfeited.
+
+All other employees otherwise covered by a Collective Bargaining Agreement will utilize their PTO accrual
+maximum language.
+
+H. Payout for PTO time
+Employees may request up to 40 hours of PTO in a fiscal year to be paid out at 80% of hourly wage.
+Payout will only be allowed if the employee has already used 40 hours of PTO during the fiscal year.
+
+                                                     ARTICLE 8
+                                                  HOURS OF WORK
+
+Section 8.1 Non-exempt employees will be paid straight time for all hours worked up to a maximum of forty
+(40) hours in a pay week. For purposes of overtime payment, the County's established pay week is 12:00
+a.m. Sunday through 11:59 p.m. Saturday. The workweek, to the extent consistent with operating
+requirements of each department covered by this Agreement and recognizing the necessity for continuous
+service by certain departments throughout the week, shall normally consist of consecutive four (4) ten (10)
+hour days or five (5) eight (8) hour days, or as otherwise scheduled by the County. However, the
+employee, with the concurrence of the department head, may incorporate a flextime schedule that would
+allow for flexibility in scheduling work projects thereby allowing for increased productivity.
+
+Section 8.2 The regular hours of work each day shall be consecutive, except for interruptions for rest and
+meal periods, and shall, to the extent consistent with operating requirements of the department and the
+need for continuous service to the County throughout the week, be scheduled between the hours of 6:00
+a.m. and 7:00 p.m., except as otherwise provided by addendum hereto for particular departments requiring
+continuous operation. The regular workweek shall be in accordance with existing departmental practice
+and procedures in effect on the date of this Agreement, provided that nothing in this Agreement shall
+constitute a guarantee of any number of hours’ work per day or per week.
+
+Section 8.3 To the extent consistent with operating requirements, all employees shall be scheduled to work
+on a regular work shift, as determined by the County, and each shift shall have regular starting and quitting
+times. Work schedules showing the employees’ shifts, workdays, and hours shall be posted within the
+department, in a reasonable and common place for employees to access, at least seventy-two (72) hours in
+advance except in cases of emergency or other situations beyond the employer's control.
+
+Section 8.4 Employees are responsible for developing a weekly flextime schedule with their supervisor. As
+for the individual start time, an employee could arrive at the office at 7:00am and leave at 4:00pm, or come
+in at 9:00am and leave at 6:00pm. Employees are allowed to manage their own time more effectively in
+conjunction with supervisory approval. Urgent, unexpected projects may dictate the need for an employee
+to work over an eight (8) hour day. In order to compensate for that time and remain within the 40-hour
+weekly limit, flextime could be used to off-set the additional time worked by allowing the employee to report
+
+                                                                                             6/24/2026       11
+Klamath County and Local 737 Collective Bargaining Agreement
+
+for work the next day at a later time or leave early the following day. At no time can an employee choose to
+flex his/her own schedule without management approval. Cooperation between the employee and
+supervisor is critical. Accountability of weekly hours is imperative. The employee must request flextime in
+written form and it must be approved by the supervisor prior to implementation.
+
+Section 8.5 A rest period of fifteen (15) minutes shall be permitted for all employees during each half shift,
+which shall be scheduled by the department head in accordance with his or her determination as to the
+operating requirements of each employee's duties.
+
+Section 8.6 Except as otherwise provided for particular departments by addendum hereto, all employees
+shall be granted an uncompensated meal period during each work shift. To the extent consistent with
+operating requirements of the respective departments, meal periods shall be not less than thirty (30) nor
+more than sixty (60) minutes, except in cases of emergency, and shall be scheduled at or near the middle
+of the work shift.
+
+Section 8.7 On any jobs that operate more than one shift, employees may on the basis of their job
+seniority, transfer to a more desirable shift or schedule to fill vacancies within their current job classification.
+
+                                                  ARTICLE 9
+                                          OTHER LEAVES OF ABSENCE
+
+Section 9.1 Leaves of absences without pay not to exceed ninety (90) calendar days may be granted upon
+establishment of reasonable justification therefore in instances where the work of the department will not be
+negatively impacted by the temporary absence of the employee. Requests for such leaves must be in
+writing. Such leave may be extended in extraordinary circumstances. Leave will not be approved for an
+employee for the purpose of accepting employment outside the service of the County. The employee will
+be responsible for the cost of medical insurance and term life during this time. No sick leave nor vacation
+will accrue during this leave of absence.
+
+Section 9.2 Employees shall be granted leave with pay for service upon a jury; provided, however, that the
+salary paid to such an employee for the period of the absence shall be reduced by the amount of money
+received by them for such jury service, and upon being excused from jury service an employee shall
+immediately contact the department head or other supervisor for assignment for the remainder of their
+regular workday.
+
+Section 9.3 Leave with pay shall be granted for an appearance connected with an employee's official
+duties before a court, legislative committee, judicial or quasi-judicial body as a witness in response to a
+subpoena or other direction by proper authority; provided, however, that the regular straight-time salary
+paid to such employee shall be reduced by an amount equal to any compensation they may receive as
+witness fee.
+
+Section 9.4 Leave of absence with pay shall be granted for attendance in court in connection with an
+employee's officially assigned duties, including the time required for travel to the court and return to the
+employee's place of employment or residence, should such appearance occur outside an employee's work
+schedule.
+
+                                                                                                    6/24/2026      12
+Klamath County and Local 737 Collective Bargaining Agreement
+
+Section 9.5 Employees elected to any union office or selected by the Union to do work which takes them
+from their employment with the County shall, upon written request of the Union and the employee, be
+recommended by the department head for a leave of absence without pay. To the extent consistent with
+the operating requirements of the department, such employees shall be granted a leave of absence without
+pay. Any employee who has been granted a leave of absence and who, for any reason, fails to return to
+work at the expiration of said leave of absence, shall be considered as having resigned their position with
+the County unless the employee, prior to expiration of their leave of absence, has made application for and
+has been granted an extension of said leave or has furnished evidence that they are unable to return to
+work by reason of sickness, injury or weather and travel conditions. The Union or employee will be
+responsible to pay for medical and term life insurance in the event such duty exceeds 30 days.
+
+Section 9.6 After completing one (1) year of continuous service, a full-time employee, upon written request,
+may be granted a leave of absence without pay by the County for the purpose of upgrading their
+professional ability through enrollment in educational courses directly related to employment at an
+accredited school or course of study. The period of such leave of absence shall not exceed one (1) year,
+but may be renewed or extended upon request of the employee and approved by the department head for
+up to one (1) additional year. One (1) year leaves of absence, with requested extensions, for educational
+purposes may not be provided more than once in any three (3) year period.
+
+Section 9.7 Employees may also be granted time off with pay, meals, lodging and mileage in accordance
+with existing County policy for educational purposes, for reasonable lengths of time to attend conferences,
+seminars, briefing sessions, training programs and other programs of a similar nature that are intended to
+improve or upgrade the employee's skill and professional ability, when ordered by the employee's
+department head.
+
+Section 9.8 A full-time employee who has served with the County for six (6) months or more immediately
+preceding an application for military leave and who is a member of the National Guard or of any reserve
+component of the armed forces of the United States is entitled to leave of absence from their duties for a
+period not exceeding fifteen (15) calendar days in any calendar year. Such leave shall be granted without
+loss of pay and without impairment of other benefits to which they are entitled. Military leave with pay to a
+maximum of fifteen (15) calendar days in any federal fiscal year as specified herein may be granted only
+when an employee receives bona fide orders to active duty for a temporary period and shall not be paid
+unless the employee returns to their position with the County immediately following expiration of the period
+for which they were ordered to duty. Leave with pay shall not be granted to employees entering the military
+service for extended and indefinite periods of active duty.
+
+Section 9.9 A regular employee shall be entitled to a military leave of absence without pay during a period
+of extended service with the armed forces for the United States. They shall, upon honorable separation for
+such service, be returned to the same, or if the position no longer exists, to a position of like seniority,
+status and pay as if they had remained on the job instead of performing military service. If it is established
+that they are not physically qualified to perform the duties of their former position by reason of such service,
+theyshall be reinstated in other work, if available, that they are able to perform at the nearest appropriate
+level of pay to that of their former grade. Such employee shall make application for reinstatement within
+ninety (90) days and shall report for duty within six (6) months following separation from active duty with the
+armed forces. Failure to comply shall terminate military leave and reemployment rights of the employee.
+
+                                                                                                6/24/2026       12
+Klamath County and Local 737 Collective Bargaining Agreement
+
+Section 9.10 Employees shall be allowed to take parental and family leave, as well as military family
+leave, in accordance with Oregon and Federal law. Application must be submitted in writing, accompanied
+by proper medical certification, to the Human Resources Department for review and approval. Upon
+request, and with the prior approval of their department head, employees shall be allowed to utilize accrued
+vacation and/or sick leave for absences resulting from application of this Section. It is understood that
+Federal Family Medical Leave, Oregon Family Leave, and Oregon Military Family Leave will be unpaid
+leave. However, all sick leave and vacation hours will be utilized first before placing the employee in an
+unpaid status.
+
+Section 9.11 An employee shall be granted not more than five (5) days of paid bereavement leave in the
+event of death in the immediate family of the employee. Two weeks of additional leave may be grant in
+accordance with OFLA, see Human Resources Policy 315. An employee’s immediate family shall include
+those individuals identified by the Federal Family Leave Act (FMLA) and/or Oregon Family Leave Act
+(OFLA) including qualified domestic partners, stepparent and stepchildren.
+
+                                                    ARTICLE 10
+                                                  COMPENSATION
+
+Section 10.1 Existing classification shall be those attached as Exhibit B. When any position not listed on
+the list is established, the County shall designate a job classification and pay rate for the position and the
+union shall be notified thereof. In the event the Union disagrees with the pay rate for the position which has
+been established by the County, it may refer the matter to the procedures of Article 13, step Ill.
+
+Section 10.2 Movement on the Step and Range Salary Schedule shall be as follows:
+
+         (A).    Employees will be placed on the schedule at Exhibit A on the basis of the range of the
+current job classification held and as listed in Exhibit B; and in the step in which the employee is in on the
+date of the effective date of this agreement.
+         (B).    Movement between Step 1 and Step 5 (Steps 1 and 2 in the case of ranges 1-5) shall be
+annual, no more than one (1) step per year, as of the employee's Anniversary Date. Movement between
+Step 5 and Step 7 shall be reviewed annually and given only on the basis of meritorious service, as
+determined by the County.
+
+Section 10.3 Salaries of employees shall be paid on a schedule established by the Board of County
+Commissioner's according to the range and step schedule attached as Exhibit A.
+
+Section 10.4     Cost of Living Adjustment (COLA): COLA adjustments shall be made as follows:
+
+    e    July 1, 2026, wages shall be increased by 2%.
+    e    July 1, 2027, wages shall be increased by 2.5%.
+    e    July 1, 2028, wages shall be increased by 2.5%.
+
+Section 10.5 Any employee called to work outside their regular shift after having left the premises shall be
+compensated for a minimum of two hours at the rate of time and one-half. The County shall make
+reasonable efforts to encourage the Courts to schedule appearances by employees in the line of duty
+
+                                                                                                6/24/2026        14
+Klamath County and Local 737 Collective Bargaining Agreement
+
+during their regular work shift. Callback time does not apply to hours worked beyond the normal work
+hours or tour of duty when they are scheduled at least one week in advance.
+
+Section 10.6 Except as may be specified elsewhere in the Agreement, regular full-time employees shall be
+compensated at a rate of one and one-half times their regular rate of pay for all hours worked in excess of
+the regular work hours as outlined in Article 8, Section 1 of this Agreement. In no event shall there be any
+double payment or pyramiding of compensation and/or benefits. Comp/Overtime is normally offered
+(scheduled) on a seniority basis with consideration given to employee qualification, skill and performance.
+lf an employee is unable to take time due to a management decision, an extension of 60 days maximum
+will be afforded to the employee so that time is not lost.
+
+Section 10.7 All regular assigned work in excess of eight (8) hours on any scheduled workday (or ten
+hours on any scheduled ten-hour workday) is qualified as overtime to be compensated as detailed in
+Section 11.6 of this Article. All regular assigned work in excess of forty (40) hours in the established pay
+week is qualified as overtime to be compensated as detailed in Section 11.6 of the Article.
+
+Section 10.8 Regardless of the total number of hours worked in such a week, PTO and holidays are
+considered hours worked for purposes of calculating overtime; in no event shall there be a pyramiding of
+compensation. Overtime hours are not included in computing the forty (40) hours worked.
+
+Section 10.9 The positions designated on Exhibit B, Exempt Classification Plan, shall be designated as
+exempt, professional positions in accordance with State and Federal Fair Labor Standards Act (FLSA)
+guidelines. The positions shall be salaried, not subject to overtime provisions, and paid in accordance with
+Exhibit A.
+
+Section 10.10 Except employees who are required to work on a holiday, compensation for authorized
+overtime, call-in, and holiday work shall be paid in the form of compensatory time off or in the form of
+compensatory pay at the applicable rate as mutually agreed between the employee and the County.
+Employees who are required to work on a holiday will be compensated in accordance with Article 6,
+Section 4 unless compensatory time is agreed upon between the employee and department head. All
+overtime shall be recorded and must be approved by the department head or designated supervisor. Time
+worked for purposes of this Section shall be computed daily, shall not be carried forward from day to day,
+and shall be computed to nearest one-quarter (1/4) hour.
+
+Section 10.11 An employee who is required to report for special duty or assignment at any location other
+than their regular reporting location and who is required to use their personal automobile for transportation
+to such location shall be compensated at the rate established by County Policy.
+
+Section 10.12 Classification of Positions. Class specifications for each of the positions included in the
+bargaining unit shall be available in the Human Resources office. The development and maintenance of
+such class specifications shall be the exclusive purview of the County. The classification and grade of all
+positions in the bargaining unit shall be determined and maintained by an analysis of such relevant job
+factors as: knowledge and skill required; supervision received and/or exercised; complexity of tasks
+performed; scope and effect of responsibilities; personal contacts made & purpose and depth of such
+contracts; physical demands; and work environment. Such an analysis of these job factors, combined with
+a relative comparison with other positions in the County, will enable positions that score within relatively
+similar ranges to be placed in comparable grades and classifications. The County shall notify the Union ten
+
+                                                                                               6/24/2026        15
+Klamath County and Local 737 Collective Bargaining Agreement
+
+(10) days prior to any change in the classification or grade of bargaining unit positions. Each new
+classification or grade schedule shall become part of this Agreement.
+
+      (A). Employees receiving an upward reclassification shall be placed at the first step of the salary range
+for the new classification or the lowest step, which results in a minimum of a 5% wage increase. The
+anniversary date for their annual step increase shall not be changed.
+      (B). Employees who are reclassified downward as result of a reorganization that results in, or a
+reclassification that is the result of substantial changes in the duties and/or responsibilities of a position and
+reflected in the new job specifications shall not have their current wage rate reduced. They will be placed
+in the new grade and in the step within the new grade that is closest in pay to the current pay, except that
+no employee shall receive an increase in wage rate as a result of a downward reclassification. If the
+current rate is above any appropriate step within the new grade, the employee’s wage rate shall be redlined
+until the wage rate within the new grade reaches or surpasses the redlined amount. The anniversary date
+of employees so reclassified shall remain the same. Further, to protect employees from changes made in
+grade close to an anniversary date, the following formula will apply in such cases: If a downward
+reclassification is effected that would result in the “red-lining” of the employee's wage rate, such effective
+employee shall receive their regularly anticipated step increase under the following conditions:
+
+    e    If the downgrade is one grade and the anniversary date is within thirty (30) calendar days.
+    e    {f the downgrade is two grades & the anniversary date is within sixty (60) calendar days.
+    e    _|f the downgrade is three or more grades and the anniversary date is within (90) calendar days.
+         Employees who have been notified of a reduction in classification or who allege that their job might
+         justify a higher rated job classification shall be entitled to a meeting with the Union and the County
+         to meet and confer regarding the matter.
+
+A 30-day advance notice of a red-line situation resulting from a downgrading of a position shall be made to
+the union by the County. Should the red-line action be a decrease of 2 grades or more, a 90-day advance
+notice, when possible, shall be made to the union by the County.
+
+Section 10.13 Employees assigned on a temporary basis in excess of two (2) weeks, except as otherwise
+provided below, to fulfill the routine responsibilities and duties of the employee being temporarily relieved
+shall be paid in accordance with the classification rate prescribed in Exhibit B of the Labor Agreement, or
+the employee’s regular rate, whichever is higher. Employees to be temporarily paid at the higher
+classification rate shall be placed at the first step or the closest step which would result in a 4-6% increase.
+Employees assigned on a temporary basis to a lower job classification shall be paid the rate for their
+regular classification. A temporary assignment shall be for a maximum of thirty (30) consecutive working
+days, unless otherwise mutually agreed upon between the County and the Union. This section shall not be
+applicable for temporary assignments for vacation or for short-term employee training opportunities made
+available so that the employee may gain skills on new equipment with the intent of improving their ability to
+advance their job skills and qualifications.
+
+Section 10.14 When an employee is temporarily assigned for relief purposes, it shall be the responsibility
+of the department head to advise the employee in writing of the nature of the responsibilities expected of
+the employee, the rate of pay during the period of the temporary assignment, and if possible, the duration
+of the assignment, prior to the temporary assignment for relief purposes. This provision shall be
+inapplicable in cases of emergency.
+
+                                                                                                  6/24/2026      16
+Klamath County and Local 737 Collective Bargaining Agreement
+
+Section 10.15 All regular employees are eligible for Longevity Pay as outlined below, commencing on
+their anniversary date with uninterrupted service.
+
+          15 years of service — One (1) additional floating holiday (included in PTO accruals)
+          20 years of service — 3% on base pay
+          25 years of service — 5% on base pay
+          30 years of service — 7% on base pay
+
+                                                    ARTICLE 11
+                                           DISCIPLINE AND DISCHARGE
+
+Section 11.1 Discipline. Disciplinary action shall include the following:
+
+    (A)       Oral reprimand by supervisor and /or Department Head.
+    (B)       Meeting with Supervisor & Dept. Head
+    (C)       Written Reprimand
+    (D)       Suspension
+    (E)       Discharge
+
+Disciplinary action may be imposed upon any employee in compliance with management rights outlined in
+Article 4, subsection 12 of this Agreement. To the extent appropriate, and to ensure that discipline is
+corrective in nature and not purely punitive, disciplinary action should be progressive in nature and
+commensurate with the offense. Under ordinary circumstances, progressive discipline actions would entail
+oral reprimands, written reprimands, suspensions, demotions and discharge. Disciplinary action may be
+imposed upon any employee, in a progressive manner as specified above, or otherwise, for failing to fulfill
+their responsibilities as an employee. Conduct reflecting discredit upon the County, or which is a hindrance
+to the effective performance of County functions, shall be considered good cause for disciplinary action.
+Such cause may also include misconduct, inefficiency, incompetence, insubordination, misfeasance,
+malfeasance, the willful giving of false or confidential information or the withholding of information when
+making application for employment, or willful violation of departmental rules. An employee subject to
+disciplinary action has a right to union representation as provided by law and such discipline may be
+protested as a grievance through the grievance procedure outlined in Article 13. If the department head or
+other supervisor has reason to discipline an employee, they shall make reasonable efforts to impose such
+discipline in a manner that will not embarrass or humiliate the employee before other employees or the
+public. It is understood that the order of discipline may start at any level of discipline including discharge for
+more serious offenses such as, but not limited to, theft of property, drug and alcohol charges, or flagrant
+insubordination.
+
+Section 11.2 Any new employee having less than twelve (12) months of continuous employment under
+this Agreement shall serve at the pleasure of the County. An employee having continuous service in
+excess of twelve (12) months shall be discharged only for cause. With respect to non-probationary
+employees on the date of this Agreement or employees who thereafter have been covered by this
+Agreement for twelve (12) consecutive months or more, the following procedure shall apply in cases of
+dismissal:
+
+                                                                                                 6/24/2026       17
+Klamath County and Local 737 Collective Bargaining Agreement
+
+lf the department head or other supervisor determines that there is cause for discharge, they may suspend
+the employee without pay for five (5) days and shall deliver to the employee and the Union a written notice
+of such suspension and pending dismissal. Such notice shall specify the principal grounds giving rise to
+such action. Other factors, which have been considered, may thereafter be specified if the dismissal
+becomes the subject of a grievance under Article 13. Unless otherwise resolved, the dismissal shall
+become effective at the end of the five (5) day suspension. Protest of the discharge of any employee shall
+be made only through the grievance procedure set forth in Article 13. The Union may process a grievance
+concerning suspension or discharge, or both, at Step III of the grievance procedure.
+
+                                                   ARTICLE 12
+                                            SETTLEMENT OF DISPUTES
+
+Section 12.1 Any grievance or dispute which may arise between the parties concerning the application,
+meaning, or interpretation of a specific provision of this Agreement shall be settled in the following manner:
+
+Step 1: Since it is the wish of both parties to this agreement to settle any alleged grievance in the most
+expeditious and informal manner possible, a grievant shall take up an alleged grievance with their
+department head or other supervisor within five (5) working days of the occurrence (or when the grievant
+should have reasonably been aware of the occurrence) of said grievance. The department head or
+designee shall adjust the matter or schedule an adjustment meeting within five (5) working days.
+Settlement in an adjustment meeting shall include the affected employee, the department head or
+designated supervisor, the Union Steward or Representative, and the Human Resources Director, who
+shall then attempt to adjust the matter within five (5) working days of the meeting. If the matter has not
+been resolved and the union has determined that the grievance has merit, a formal grievance will be
+presented as outlined in Step 2. Oral warnings or Oral reprimands are not considered to be discipline and
+may not be protested through the grievance procedure. Progressive disciplinary Procedures must be
+utilized in accordance with Article 12, recognizing that discipline may start at any level for more serious
+offenses.
+
+Step 2: If the grievance has not been resolved at Step One, it shall be presented to the Human
+Resource/Risk Management Department within seven (7) working days of the date the Step One grievance
+response is due. All grievances presented at this step shall set forth: the facts giving rise to the grievance,
+the provision(s) of the Agreement alleged to have been violated, the names of the aggrieved employees,
+and the remedy being sought. The Human Resource/Risk Management Department shall conduct such
+investigation or hearing as is deemed necessary and shall respond in writing to the Board of County
+Commissioners and the Union within ten (10) days after receipt of the grievance. The decision of the
+HR/Risk Management Officer shall be final and binding on the grievant, Union and the County unless it is
+timely appealed by the Union to the next step of the procedure outlined by this Article. Since the burden to
+meet all the limitations and parameters of this Article lies with the moving party, failure to meet the filing
+time limitations on the part of the moving party shall render the grievance moot and it shall be considered
+waived. If the County fails to answer within the time limits set forth in Article 13 of this Agreement, the
+grievance shall automatically proceed to the next step. The time limits set forth in this Article may be
+extended by mutual agreement of the Union and the County.
+
+Step 3: If the grievance has not been resolved at Step Two, the parties may agree to jointly request
+mediation by the Employment Relations Board (ERB) for the State of Oregon. In such case, the mediation
+
+                                                                                               6/24/2026         12
+Klamath County and Local 737 Collective Bargaining Agreement
+
+shall be promptly scheduled. If the grievance is resolved in mediation, the mediation resolution shall be final
+and binding on all parties — the Union, the grievant, and the County.
+
+Step 4: If the parties to not jointly agree to mediation or the mediation is unsuccessful in resolving the
+grievance, the Union may provide notice to the County within five (5) working days of the request to
+mediate or within five (5) working days of the completion of the mediation its intent to arbitrate the matter
+with an arbitrator agreed upon by both the County and the Union. If the parties are unable to agree upon an
+arbitrator, the Oregon State Mediation and Conciliation Service shall be requested to submit a list of eleven
+(11) arbitrators. Both the County and the Union shall have the right to strike five (5) names from the list.
+The party requesting arbitration shall strike the first name and the other party shall then strike one (1)
+name. The process shall be repeated and the remaining person shall be the arbitrator. The designated
+arbitrator shall hear both parties and take testimony and evidence in a hearing on the disputed matter and
+shall issue a decision which shall be final and binding on the parties if within the scope of this Agreement.
+Expenses for the arbitrator shall be borne by the losing party; however, each party shall be responsible for
+compensating its own representatives and witnesses. If either party desires a verbatim recording of the
+proceedings, it may cause such a record to be made, provided it pays for the record and makes a copy
+available without charge to the arbitrator. If the other party desires a copy, both parties shall jointly share
+the cost of the transcript and all copies. The time limits prescribed in this Article 13 shall be binding on all
+parties and shall be jurisdictional in nature unless extended by mutual consent.
+
+Section 12.2 Employees selected by the Union to act as Union representatives shall be known as
+“stewards”. There shall be no more than four (4) stewards. The names of the employees selected as
+stewards, and the names of local Union representatives, state council or international representatives who
+may represent employees, shall be certified in writing to the County by the Union. Duties required by the
+Union of stewards, excepting attendance at joint meetings with supervisory personnel and aggrieved
+employees arising out of a grievance already initiated by an employee under Section 1 hereof, shall not
+interfere with their or other employees’ regular work assignments as employees or the Union, except the
+aforementioned meetings, shall be made outside of working hours.
+
+Section 12.3 The County or its designee(s) shall meet at mutually convenient times to discuss pending
+grievances with the Union committee. All committee meetings with the County shall be held, if practicable,
+during working hours and without loss of pay to authorized participating employees. The Union committee
+shall consist of two (2) members selected by the Union. The purpose of grievance committee meetings will
+be to adjust pending grievances. In addition, the committee may discuss with the County other issues
+which would improve relationships between the parties. Prior notice of topics for discussion at such
+meetings shall be furnished by each party to the other.
+
+                                                   ARTICLE 13
+                                              PROBATIONARY PERIOD
+
+Section 13.1 The probationary period is an integral part of the employees selection process and provides
+the County with the opportunity to upgrade and improve efficiency of operation and service to the public by
+observing a new employee's work, training and aiding new employees in adjustment to their positions, and
+by providing an opportunity to reject any employee whose work performance fails to meet required work
+standards.
+
+                                                                                                6/24/2026      19
+Klamath County and Local 737 Collective Bargaining Agreement
+
+Section 13.2 Duration of Probationary Period. Every new employee hired into the bargaining unit shall
+serve a performance probationary period of twelve (12) full months. Note: This should not be confused
+with the six (6) month waiting period for the use of most employee benefits. The probationary period shall
+also be extended to transferred or promoted employees. An employee serving a probationary period as a
+result of a transfer or promotion who does not satisfactorily complete the probationary period, or who elects
+to step-back from the new position, shall be returned to their former position and former rate of pay.
+
+Section 13.3 The Union recognizes the right of the County to terminate probationary employees for any
+reason and to exercise all rights not specifically modified by this Agreement with respect to such
+employees, including, but not limited to, the shifting of work schedules and job classifications, the
+assignment of on-the-job training, cross-training in other classifications, the assignment to educational
+courses and training programs, the requirement that such employees attend training programs on their off-
+duty time for which they will be paid on a straight-time basis or by the granting of compensatory time off for
+any reason, at any time during this 12 month period.
+
+                                                   ARTICLE 14
+                                              GENERAL OPERATIONS
+
+Section 14.1 The provisions of the Agreement shall be applied equally to all employees in the bargaining
+unit without discrimination as to marital status, race, color, creed, national origin, sex, union membership, or
+the absence thereof. The Union shall share equally with the County the responsibility for applying the
+provisions of the Agreement.
+
+All references to employees in this Agreement designate both sexes, and wherever the male gender is
+used, it shall be construed to include male and female employees.
+
+Employees shall have the right to form, join, and participate in the activities of the Union or any other labor
+organization, or to refrain from any or all such activities, and there shall be no discrimination by either the
+County or the Union by reason of the exercise of such right except as specifically provided herein. Nothing
+in this Agreement shall be construed as precluding or limiting the right of an individual employee to
+represent her/himself in individual personal matters or to adjust his own grievances, provided that the
+Union, upon request, shall be entitled to be present and, provided further, that any such adjustment shall
+not be inconsistent with the terms of this Agreement.
+
+Section 14.2 The County agrees to furnish and maintain a suitable bulletin board in a convenient place or
+places to be used by the Union. The Union shall limit its posting of notices and bulletins to such bulletin
+board.
+
+Section 14.3 The County agrees that accredited representatives of the District Council of Laborers and
+Laborers Union, Local 737, upon reasonable and proper introduction, shall have reasonable access to the
+premises of the County at any time during working hours for the purpose of assisting in the administration
+of this Agreement.
+
+Section 14.4 Only such existing and future work rules and benefits as are specifically covered by the terms
+of this Agreement shall be affected by recognition of the Union and the execution of this Agreement. The
+benefits provided by this Agreement shall be exclusive and shall be in lieu of all economic or related
+benefits heretofore provided by the County, specifically, but not limited to, any bonus or longevity pay, merit
+
+                                                                                                6/24/2026     20
+Klamath County and Local 737 Collective Bargaining Agreement
+
+pay, or sick leave bonus, provided, however, that nothing in this Agreement shall be construed to prohibit or
+limit the right of the County to pay an employee at a rate higher than the rates specified herein. Whenever
+any conditions are changed or new conditions are established, they shall be posted prominently on all
+bulletin boards for a period of ten (10) consecutive workdays.
+
+Section 14.5 Rules. The parties jointly recognize that as elected officials the Board of County
+Commissioners is directly responsible to the citizens of the County and the public generally for performance
+of the functions and services performed by the County. These responsibilities cannot be delegated. For
+this reason, it is jointly recognized that the Board of County Commissioners must retain broad authority to
+fulfill and implement its responsibilities and may do so by work rule, oral or written, existing or future. It is
+agreed, however, that no work rule will be promulgated or implemented which is inconsistent with a specific
+provision of this Agreement, provided that the requirements of Oregon law will always be paramount. All
+work rules which have been or shall be reduced to writing will be furnished to the Union and to affected
+employees.
+
+Section 14.6 Seniority. This shall be defined as the total length of unbroken service within the employing
+departments covered by this Agreement. In the event of transfer between departments, an employee's
+seniority shall be measured by his or her most recent period of continuous service with the County for
+accrual of all County benefits.
+
+Section 14.7 Other Employment. Outside employment shall be cleared with an employee's department
+head and be permitted to the extent it complies with Article 1.2(F) — “Outside Employment’.
+
+Section 14.8 Promotional Opportunities. It is the intent of this Agreement that wherever possible
+promotional opportunities within the bargaining unit shall first be extended to employees in the bargaining
+unit, provided such employees are considered by the County to be qualified to perform the work in
+question. The County shall be under no obligation to train an employee to become qualified, but shall give
+preference to present employees who are qualified and apply for such a job opening. An employee's
+immediate supervisor or supervisors shall be the judge of an employee's qualification and ability and upon
+request will state the reasons for such a judgment to the employee. In the event two (2) or more applicants
+for a job opening are satisfactorily qualified in the areas of knowledge, skills and abilities, seniority shall
+govern except fo the extent the Veteran's Preference Law applies. Promotions within individual
+departments can be accomplished, upon approval from the Director of Human Resources, without following
+the normal posting requirements. Whenever feasible, the County will post notice of non-bargaining unit job
+opportunities. The County is supportive of more senior, experienced employees being given an opportunity
+to apply for a position with a more desirable shift in their own department; however, the final decision is
+retained by management given a supported and objective reasoning for scheduling and work assignment
+rationale and compliance with the Veteran’s Preference law..
+
+Section 14.9 Layoff. In the event of a curtailment in a department, employees within the department will be
+laid off in inverse order of seniority, within their job classification, subject to qualifications and ability to
+perform the work. An employee who is laid off, and who has previously held a non-probationary
+appointment within the past year in a lower classification, may elect to displace the least senior employee
+within the lower classification within the department. Any employee bumping to a lower classification, as
+described herein, shall assume the same step within the new classification that was held in the old
+classification, (i.e., an employee at Range 12, Step 3 bumping to Range 10 would assume the pay rate at
+Step 3 of the new Range).
+
+                                                                                                 6/24/2026      1
+Klamath County and Local 737 Collective Bargaining Agreement
+
+Section 14.10 Recall. Recall from layoff, as provided in Section 15.9, shall be in inverse order of layoff.
+Employees shall be eligible for recall for a period of six (6) months from date of layoff. Employees who are
+eligible for recall shall be given no less than fourteen (14) calendar days’ notice of recall; notice of recall
+shall be sent to the employee by certified or registered mail with a copy to the Union, provided that the
+employee must notify the Department Head of their intention to return within three (3) days after receiving
+notice of recall. The County shall be deemed to have fulfilled its obligations by mailing the recall notice by
+certified or registered mail, return receipt requested, to the mailing address provided by the employee,
+regardless of the party within the household that signs for the delivery. It is the obligation and responsibility
+of the employee to provide the Human Resources Department with their latest mailing address.
+
+Section 14.11 Special Conditions. Special conditions affecting employees in particular departments are
+set forth in Exhibit C hereto. Such specific conditions shall prevail only as to departments specifically
+identified in Exhibit C.
+
+Section 14.12 Should negotiating sessions with the County be scheduled during work hours, bargaining
+unit stewards attending collective bargaining sessions shall not suffer loss of pay or benefits for such time
+they are on authorized released time from work. Stewards shall notify the proper supervisor as soon as
+possible upon learning when negotiating sessions are scheduled. The date, time, and place for negotiation
+sessions shall be established with the intent to reasonably avoid or minimize paid time for the Union's
+negotiating team.
+
+                                              ARTICLE 15
+                                  HEALTH AND WELFARE AND RETIREMENT
+
+Section 15.1 Health and Welfare. The County shall provide health and medical coverage comparable to
+the present coverage of major medical for each eligible employee covered by this Agreement.
+
+          (A) Effective July 1, 2026 the County will contribute $1,780.00 per month towards the cost of each
+eligible employee's medical, dental, and vision insurance. Dental and vision insurance will be at the option
+of the employee. Any excess amount will go to the employee's HRA/VEBA or HSA account.
+          Effective July 1, 2027, the County will contribute $1,830.00 per month towards the cost of each
+eligible employee's medical, dental, and vision insurance. Dental and vision insurance will be at the option
+of the employee. Any excess amount will go to the employee's HRA/VEBA or HSA account.
+          Effective July 1, 2028, the County will contribute $1,880.00 per month towards the cost of each
+eligible employee’s medical, dental, and vision insurance. Dental and vision insurance will be at the option
+of the employee. Any excess amount will go to the employee's HRA/VEBA or HSA account.
+Any required premium in excess of the amounts contributed by the County will be paid by each employee.
+The County may apply minor cost cutting techniques to the major medical (or comparable) plans and to
+adjust the medical plan contract year. Such payment shall be applied to purchased group medical and
+hospital, major medical, dental, vision, prescription, group life and weekly time loss benefits. There will be
+no duplication of premiums paid under this Agreement in the event an employee and their spouse are both
+eligible for coverage hereunder. In such event, the dependent that waives the insurance shall receive the
+HRA/VEBA or HSA contribution amount as outlined in (D) below.
+
+          (B) Life and Disability Insurance. All premiums listed in this Article are exclusive of life insurance
+group life, $5,000 death benefit, and weekly time loss benefits, which shall be fully paid by the County.
+
+                                                                                                   6/24/2026       22
+Klamath County and Local 737 Collective Bargaining Agreement
+
+          (C) Health Reimbursement Arrangement/Voluntary Employees’ Beneficiary Associate
+(HRA/VEBA). The County agrees to provide as an option to administer and contribute through payroll
+deduction for each employee, meeting the eligibility requirements into a HRA/VEBA plan. HRA/VEBA plans
+provide a tax-free defined contribution account for employees to pay for medical, dental, vision and tax
+qualified long-term care premiums and non-covered healthcare expenses pursuant to Internal Revenue
+Code (IRC) 213D. The plan does not require a vesting period and HRA/VEBA funds may be used at any
+time for a qualified expense after the employee’s plan account has been established.
+
+         (D) Employer contribution in lieu of medical insurance. Eligibility is limited to employees waiving
+medical insurance coverage and providing proof of coverage under another qualified medical insurance
+plan. Employer shall contribute a flat monthly amount into the eligible employee's HRA/VEBA account
+equivalent to 75% of the County’s maximum contribution as set forth in Section 16.1(A) above.
+
+Section 15.2 Retirement. The County agrees to continue providing retirement benefits to employees hired
+on or before December 31, 2020, under the terms and provisions of the Klamath County Employees’
+Pension Plan. Employees hired on or after January 1, 2021, will receive retirement benefits in accordance
+with the County's defined contribution plan on the same terms and conditions applicable to the County's
+non-represented employees.
+
+                                                  ARTICLE 16
+                                           WORKERS’ COMPENSATION
+
+All employees are covered for accidents on the job under the Workers’ Compensation laws of Oregon.
+When an injured employee must take time off by reason of occupational injury or disability, the employee
+will receive time-loss payments from the County's Workers’ Compensation insurer. In addition,
+supplemental benefits will be provided as follows on approved Workers’ Compensation claims:
+     e The first three (3) months following an on-the-job injury and an approved workers’ compensation
+          claim, the County will supplement the employee's time-loss benefits in an amount necessary to
+          equal the injured employee's net regular salary after taxes.
+     e After three (3) months following the date of an on-the-job injury, accrued sick leave, vacation, and
+          compensatory time may be used to supplement the employee's time-loss benefits in an amount
+          necessary to equal the injured employee's net regular salary after taxes.
+     e Following the exhaustion of the employee's benefits, the employee shall receive Workers’
+         Compensation as provided under State Law.
+
+                                                     ARTICLE 17
+                                               LIABILITY INSURANCE
+
+The County shall purchase liability insurance in such amounts and containing such terms and conditions as
+are deemed appropriate by the County for the protection of all employees, and all other persons covered by
+this Agreement against claims against them incurred in or arising out of any authorized act in the
+performance of their official duties. The premiums for such insurance shall be paid by the County.
+
+                                                                                                6/24/2026      23
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                                                 ARTICLE 18
+                                        SAVINGS CLAUSE AND FUNDING
+
+Section 18.1 Savings Clause. If any term or provision of the Agreement is, at any time during the life of
+this Agreement, adjudged by a court or administrative body of competent jurisdiction to be in conflict with
+any law, such term or provision shall become invalid and unenforceable, but such invalidity or
+unenforceability shall not impair or effect any other term or provision of this Agreement. Upon issuance of
+such a decision, the parties agree to negotiate a substitute, if possible, for the invalidated article, section, or
+portion thereof.
+
+Section 18.2 Funding. The parties recognize that revenue needed to fund the wages and benefits
+provided by the Agreement are subject to established annual budget procedures and in certain
+circumstances by vote of the citizens of the County. All such wages and benefits are therefore contingent
+upon sources of revenue, approval pursuant to established budget procedures, and where applicable,
+annual voter budget approval. The County has no intention of cutting the wages and benefits specified in
+this Agreement because of budgetary limitation, but cannot and does not guarantee any level of
+employment in the bargaining unit covered by this Agreement. The County agrees to include in its annual
+budget request amounts sufficient to fund the wages and benefits provided by this Agreement, but makes
+no guarantee as to passage of such budget requests or voter approval thereof.
+
+Section 18.3 During the negotiations resulting in this Agreement, the County and the Union each had the
+unlimited right and opportunity to make demands and proposals with respect to any subject matter as to
+which relevant statutes impose an obligation to bargain. Except as specifically set forth elsewhere in this
+Agreement, the parties expressly waives their right to negotiate over matters as to which relevant statutes
+impose an obligation to bargain. This Agreement contains the entire understanding, undertaking, and
+agreement of the County and the Union, after exercise of the right and opportunity referred to in the first
+sentence of this section; and finally determines all matters of collective bargaining for its term. Changes in
+this Agreement, whether by amendment, or waiver, deletion, amendment, or modification, must be reduced
+to writing and executed by both parties.
+
+                                                     ARTICLE 19
+                                                   DRUG TESTING
+
+Section 19.1 Klamath County considers its employees to be a valuable asset and promotes a safe and
+healthy workplace for all County employees. The County recognizes the importance of maintaining an
+employment workplace which is free of alcoho! and drug abuse and has chosen to maintain compliance
+with the federal regulations governing the Drug Free Workplace Act of 1988. Therefore, as determined by
+management, employees will be subject to mandatory or random drug testing. Policies and procedures
+relative to drug and alcohol testing and resulting action(s) shall be performed in accordance with the
+Alcohol and Drug Abuse Policy, attached hereto as Exhibit D.
+
+Section 19.2 In accordance with Exhibit D, employees understand that a requirement for initial employment
+and continued employment by Klamath County shall involve successful completion of drug and/or alcohol
+testing. Employees may be asked from time to time to submit to an alcohol and/or drug test, with or without
+individual cause to test. Employees also agree and give consent for Klamath County and the facility
+designated by Klamath County to both collect and perform tests on samples of my urine and/or blood to
+
+                                                                                                  6/24/2026       24
+Klamath County and Local 737 Collective Bargaining Agreement
+
+identify the presence of alcohol, illegal drugs, legal drugs and other substances which might adversely
+affect job performance.
+
+                                                  ARTICLE 20
+                                         TERMINATION AND REOPENING
+
+This Agreement will be effective July 1, 2026 and will terminate June 30, 2029. This Agreement will be
+subject for opening of modifications with written notice no later than January 1, 2029.
+
+                                                                                             6/24/2026    25
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                                                       EXHIBIT A
+
+                                                          LOCAL 737
+                                                   Salaried, FLSA Exempt
+                                                 Effective July 1,2026 2%
+                                            COLA
+    GRADE | STEP1 | STEP2 | STEP3 | STEP4                     Merit       Merit       Merit
+           $3,815.98 | $3,969.60 | $4,127.96 | $4,293.41 | $4,464.76 | $4,643.22 | $4,828.77
+  LF16
+           $4,007.43 | $4,168.14 | $4,334.78 | $4,508.49 | $4,689.31 | $4,876.04 | $5,071.03
+  LF17
+  LF18     $4,208.33 | $4,376.15 | $4,551.05 | $4,733.03 | $4,922.11 | $5,120.66 | $5,323.93
+  LF19     $4,418.68 | $4,572.31 | $4,779.13 | $4,970.58 | $5,169.12 | $5,375.93 | $5,591.01
+  LF20     $4 639.67 | $4,825.21 | $5,017.85 | $5,218.75 | $5,427.93 | $5,645.36 | $5,869.92
+  LF21     $4 871.31 | $5,066.30 | $5,268.38 | $5,478.75 | $5,698.56 | $5,926.64 | $6,164.19
+  LF22     $5,114.76 | $5,319.20 | $5,531.92 | $5,752.92 | $5,984.54 | $6,223.28 | $6,472.62
+  LF23     $5 371.20 | $5,586.29 | $5,808.45 | $6,041.28 | $6,282.35 | $6,534.08 | $6,795.25
+  LF24     $5,639.48 | $5,865.18 | $6,100.37 | $6,342.63 | $6,597.88 | $6,860.25 | $7,135.60
+  LF25     $5,921.92 | $6,157.10 | $6,404.08 | $6,660.53 | $6,926.42 | $7,202.95 | $7,492.49
+  LF26     $6217.36 | $6,465.53 | $6,724.33 | $6,993.79 | $7,273.88 | $7,563.40 | $7,867.13
+  LF27     $6,526.99 | $6,789.33 | $7,061.14 | $7,343.59 | $7,637.86 | $7,941.57 | $8,260.65
+
+                                                                            6/24/2026   26
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                                                          LOCAL 737
+                                                   Full-Time and Half-Time
+                                                  Hourly, FLSA Non-Exempt
+                                                 Effective July 1, 2026 2%
+                                                               COLA
+                                                                                STEP 5    STEP 6     STEP 7
+   GRADE            STEP 1          STEP 2           STEP 3           STEP 4     Merit     Merit       Merit
+    LHO9            $15.65          $16.27           $16.93           $17.61   $18.31    $19.04      $19.80
+    LH10            $16.43          $17.10           917.77           $18.48   $19.22    $19.98      $20.77
+    LH11            $17.24          $17.94           $18.66           $19.40   $20.19    $20.99      $21.83
+    LH12            $18.11          $18.82           919.58           $20.36   $21.20    $22.04      $22.91
+    LH13            $19.01          $19.76           $20.56           $21.37   $22.22    $23.12      924.05
+    LH14            $19.96          $20.75           921.58           $22.45   $23.34    924.27      $25.23
+    LH15            $20.96          921.80           $22.67           $23.57   $24.52    925.50      926.52
+    LH16            $22.00          $22.86           $23.80           924.77   $25.76    $26.78      $27.86
+    LH17            $23.09          $24.02           $24.97           $25.97   $27.00    $28.08      $29.20
+    LH18            $24.25          $25.21           $26.22           $27.27   $28.37    $29.51      $30.69
+    LH19            $25.47          $26.49           $27.55           $28.64   $29.78    $30.97      $32.21
+    LH20            $26.72          $27.80           $28.92           $30.08   $31.26    $32.52      933.81
+    LH21            $28.07          $29.19           $30.37           $31.58   $32.83    $34.15      $35.50
+    LH22            $29.47          $30.66           $31.88           $33.15   $34.46    $35.83      $37.26
+    LH23            $30.94          $32.18           $33.46           $34.78   $36.17    $37.62      $39.13
+    LH24            $32.49          $33.78           930.14           $36.56   $38.02    $39.54      $41.13
+    LH25            $34.11          935.47           936.89           $38.37   $39.90    $41.50      943.18
+    LH26            $35.81          $37.24           $38.74           $40.28   $41.89    $43.55      $45.30
+    LH27            $37.60          $39.11           $40.67           $42.30   $43.98    $45.75      $47.56
+
+                                                                                         6/24/2026   27
+            Klamath County and Local 737 Collective Bargaining Agreement
+
+                                                               LOCAL 737
+                                                        Salaried, FLSA Exempt
+                    Effective July 1, 2027        2.5% COLA
+
+GRADE|       STEP 1          STEP 2         STEP 3          STEP 4 | STEP 5              Merit | STEP 6      Merit         STEP 7
+                                                                                                                            Merit
+
+(F16     =| $ 3,911.38    |$ 4,068.84     |$ 4,231.16     |$ 4,400.75 | $4,576.38               5 4,759.30           $ 4,949.49
+LF17       =|$ 4,107.62   |$ 4,272.34 | $4,443.15         |$ 4,621.20      |$ 4,806.54          $ 4,997.94           $ 5,197.81
+LF18     =| $4,313.54     |$ 4,485.55     |$ 4,664.83 | $4,851.36 | $5,045.16                   $ 5,248.68           $ 5,457.03
+LF19       |$4,529.15     |$ 4,686.62 | $4,898.61         |$ 5,094.84 | $5,298.35               $ 5,510.33           $ 5,730.79
+LF20       |$ 4,755.66    |$ 4,945.84 | $5,143.30         |$ 5,349.22 | $5,563.63               $ 5,786.49           $ 6,016.67
+LF21       |$4,993.09     |$5,192.96      |$5,400.09      |$5,615.72 | $5,841.02                $ 6,074.81           $ 6,318.29
+LF22       ($5,242.63     |$5,452.18      |$5,670.22      |$ 5,896.74 | $6,134.15               $ 6,378.86           $ 6,634.44
+1F23       |$5,505.48     |$5,725.95 | $5,953.66          ($6,192.31       |$ 6,439.41          $ 6,697.43           $ 6,965.13
+LF24       |$5,780.47     |$6,011.81 | $6,252.88 | $6,501.20 | $6,762.83                        $ 7,031.76           $ 7,313.99
+LF25       |$6,069.97     |$6,311.03      |$ 6,564.18 | $6,827.04 | $7,099.58                   $ 7,383.02           $ 7,679.80
+LF26       |$6,372.79     |$6,627.17      |$6,892.44      |$ 7,168.63      |$ 7,455.73          $ 7,752.49           $ 8,063.81
+LF27       |$6,690.16     |$6,959.06 | $7,237.67          |$ 7,527.18      |$ 7,828.81          $ 8,140.11           $ 8,467.17
+
+                                                                                                             6/24/2026      28
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                                                 Full-Time and Half-Time
+                                                Hourly, FLSA Non-Exempt
+                                         Effective July 1,2027      2.5% COLA
+ GRADE|           STEP 1          STEP 2         STEP 3       STEP 4 | STEP 5 Merit | STEP
+                                                                                        6 Merit | STEP
+                                                                                                    7 Merit
+  LHOS    | $         16.04 | $       16.68 | $    17.35 | $    18.05 | $    18.771   $   19.52 | §        20,30
+  LH10   |$           16.84 | $      17.53 | $     18.211 $     18.94 | $    19.70 | $    20.48 | $        21.29
+  LHi1 | $            17.67 | $      18.39 | $     19.13 1$     19.89 | $    20.69 | $    21.511 $         22.38
+  LH12 | $            18.56 | $      19.29 | $     20.07 | $    20.87 | $    21.73 | $    22.59 | $        23.48
+  LH13 | $            19.49 | $      20.25 | $     21.07 | $    21.90 | $    22.781 $     23.70 | $        24.65
+  LH14   |$           20.46 | $      21.271 $      22.12 | $    23.011 $     23.92 | $    24.88 | $        25.86
+  LH15    | $         21.48 | $       22.35 | $    23.24 | $    24.16 | $    25.13 | §$   26.14 | $        27.18
+  LH16 | $            22.55 | $      23.431 $      24.40 | $    25.39 | $    26.40 | $    27.451 $         28.56
+  LH17 | $            23.67 | $      24.62 | $     25.59 | $    26.62 | $    27.68 | $    28.78 | $        29.93
+  LH18 | $            24.86 | $      25.84 | $     26.88 | $    27.95 | $    29.08 | $    30.25 | $        31.46
+  LH19    | $         26.11 | $       27.151   $   28.24 | $    29.36 | $    30.52 | $    31.741   §$      33.02
+  LH20    | $         27.39 | $      28.50 | $     29.64 | $    30.83 | $    32.04 | $    33.33 | $        34.66
+  LH21       |$       28.771 $       29.92 | $     31.13 | $    32.37 | $    33.65 | $    35.00 | $        36.39
+  LH22       |$       30.211 $       31.43 | $     32.68 | $    33.98 | $    35.32 | $    36.73 | $        38.19
+  LH23     | $        31.711 $       32.98 | $     34.30 | $    35.65 | $    37.07 | $    38.56 | $        40.11
+  LH24     | $        33.30 | $      34.62 | $     36.02 | $    37.47 | $    38.97 | $    40.53 | $        42.16
+  LH25     | $        34.96 | $      36.36 | $     37.81 | $    39.33 | $    40.90 | $    42.541 $         44.26
+  LH26    | $         36.711 $       38.171 $      39.71 | $    41.29 | $    42.94 | $    44.641 $         46.43
+  LH27       |$       38.54 | $      40.09 | $     41.69 | $    43,36 | $    45.08 | $    46.89 | $        48.75
+
+                                                                                               6/24/2026           29
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                                                     LOCAL 737
+                                             Salaried, FLSA Exempt
+                                     Effective July 1,2028     2.5% COLA
+                                                                               STEP 5           STEP 6          STEP 7
+ GRADE         STEP 1         STEP 2          STEP 3           STEP 4           Merit            Merit           Merit
+ LF16      $     4009.16/$     4,17056/$       4,336.941$        4510.77|$       4,690.791$        4,878.28|$     5,073.23
+ LF17      $     4210.311$     4,379151$       4554.23|$         4,736.73|$      4,926.70}$       5,122.891$      5,327.76
+ LF18      $     4421.381$     4,597.69)$       4,781.451$       497264)$        5 171.2919       5379.90|%       5,593.46
+ LF19      $     464238/$      4,803.791$        5,021.08)$      5,222.21)$      5,430.81|$       5,648.09|}$     5,874.06
+ LF20      $    4874.551$       5,069.49}$      5,.271.88|$      5482.95|$       5,702.72|$        5,931.15|$     6,167.09
+ LF21      $     5117.921$      5,322.78)$      5,535.09|$       5,756.111$      5,987.05|$       6,22668)$       6,476.25
+ LF22      $     §,373.70|$     5,588.48)$      5811.981$         6,044.16|$       6,287.50|$      6,538.33}$     6,800.30
+ LF23      $     5643.121$      5869.10/$       6,102.50}$       6347.12|$       6600.40}$        6864.87/$       7,139.26
+ LF24      $     5924981$       6162111$        6,409.20|$       6663.73/$       6931.90|$        7,207.55|$      7,496.84
+ LF25      $     6,221.721$     6,468.81|$      6,728.28|$       6,997.72|$      7,277.07|$       7,567.60}$      7,871.80
+ LF26      $     6,532.11/$    6,792.85|$       7,064.75)$       7,347.85|$      7,642.12}$       7,946.30|3      8,265.41
+ LF27      $     6857.411$      7,133.04|$      7,418611$        7,715.361$      802453)$          8343.61|$      8678.85
+
+                                                                                                         6/24/2026       30
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                                             Full-Time and Half-Time
+                                            Hourly, FLSA Non-Exempt
+                                     Effective July 1,2028      2.5% COLA
+ GRADE      STEP 1        STEP 2         STEP 3        STEP 4      STEP 5 Merit | STEP 6 Merit | STEP 7 Merit
+  LHO9 | $      16.44 | $     17.10 | $      17.78 | $     18.50 | $      19.24 | $      20.01 | $      20.81
+  LH10   |$     17.26 | $     17.97 | $      18.67 | $     19.41 | $      20.19 | $      20.99 | $      21.82
+  LH11 | $      18.11 | $     18.85 | $      19.61 | $     20.39 | $      21.21 | $      22.05 | $      22.94
+  LH12   |$     19.02 | $     19.77 | $      20.57 | $     21.39 | $      22.27 | $      23.15 | $      24.07
+  LH13 | $      19.98 | $     20.76 | $      21.60 | $     22.45 | $      23.35 | $      24.29 | $      25.27
+  LH14 | $      20.97 | $     21.80 | $      22.67 | $     23.59 | $      24.52 | $      25.50 | $      26.51
+  LH15 | $      22.02 | $     22.91 | $      23.82 | $     24.76 | $      25.76 | $      26.79 | $      27.86
+  LH16 | $      23.11 | $     24.02 | $      25.01 | $     26.02 | $      27.06 | $      28.14 | $      29.27
+  LH17 | $      24.26 | $     25.24 | §$     26.23 | $     27.29 | $      28.37 | $      29.50 | $      30.68
+  LH18   |$     25.48 | $     26.49 | $      27.59 | $     28.65 | $      29.81 | $      31.01 | $      32.29
+  LH19 | $      26.76 | $     27.83 | $      28.95 | $     30.09 | $      31.28 | $      32.53 | $      33.85
+  LH20 | $      28.07 | $     29.21 | $      30.38 | $     31.60 | $      32.84 | $      34.16 | $      35.53
+  LH21 | 3      29.49 | $     30.67 | $      31.91 | $     33.18 | $      34.49 | $      35.88 | $      37.30
+  LH22 | $      30.97 | $     32.22 | $      33.50 | $     34.83 | $      36.20 | $      37.65 | $      39.14
+  LH23 | $      32.50 | $     33.80 | $      35.16 | $     36.54 | $      38.00 | $      39.52 | $      41.11
+  LH24 | $      34.13 | $     35.49 | $      36.92 | $     38.41 | $      39.94 | $      41.54 | $      43.21
+  LH25 | $      35.83 | $     37.27 | $      38.76 | $     40.31 | $      41.92 | $      43.60 | $      45.37
+  LH26 | $      37.63 | $     39.12 | $      40.70 | $     42.32 | $      44.01 | $      45.76 | $      47.59
+_LH27 | $       39.50 | $     41.09 | $      42.73 | $     44.44 | §      46.211 $       48.06 | $      49.97
+
+                                                                                              6/24/2026     31
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                                                      EXHIBIT B
+
+                                       Position                   Salary
+
+ Library Branch Assistant
+ Solid Waste Site Attendant                                         10
+ Office Technician                                                  11
+ Library Asst III                                                   12
+ Office
+ Specialist
+ Client/Patient Regis                                               13
+ Corrections Cook
+ Justice Court Clerk PT
+ Maintenance Worker I!
+Park
+ Museum Maint Tech II
+ Custodian                                                         14
+ Mus Eng/Venue Coor
+ Lead Justice Court
+ Clerk
+ Outreach Coordinator
+ Recording Specialist
+ Senior Indexing Specialist
+
+ Administrative Support Coordinator                                15
+ Community Nutrition Worker
+ Eligibility Specialist Coordinator
+ Facilities Maintenance Specialist
+ Food Services Manager
+ Permit Clerk
+ Program Support Coordinator
+ Senior Community Corr Asst
+ Veterans Service Specialist
+ Acquisitions Manager                                               16
+ Community Nutrition Worker
+ Certified Medical Assistant
+ Juvenile Groupworker
+ Maintenance Technician Ill
+ Outreach Manager
+ Program Aide
+
+                                                                  6/24/2026   32
+Klamath County and Local 737 Collective Bargaining Agreement
+
+ Tax/Property Specialist
+ Work Crew Leader
+ Accounting Specialist                                          L/
+ Billing Coord - PH
+ Fiscal Specialist
+ KCR Direct Care Staff
+ Landfill Maintenance Worker
+ Landfill Mechanic
+ Landfill Operator
+ Legal Assistant Ill
+ Legal/Trial Assistant II
+ Maintenance Leadworker
+ Senior Work Crew Leader
+ Assessment Specialist                                          18
+ Code Enforcement Officer
+ Quality Assurance Analyst
+ Registration Technician
+ Sr Finance Accounting Specialist
+ Permit Technician                                              19
+ Trial/Legal Asst III
+ Victim’s Asst Specialist
+ Appraiser |                                                    20
+ Juvenile Counselor
+ KCR Case Mgr
+ Services Coordinator
+ Sr Permit Tech
+ TAG Program Coordinator
+ Victim's Asst Caseworker
+ DDS Eligibility Specialist                                     21
+ DDS Assessor
+ IT Analyst
+ Maint/HVAC Tech
+ Program Coord Il
+ Protective Services Investigator Spec
+ Epidemiologist                                                 22
+ Facilities Control System/Fleet Mgr
+ Lead Services Coord
+ Asst Veterans Services Officer                                 23
+ Environmental Health Spec |
+ IT Media Spec
+ Modernization Environmental Health Spec
+ Residential Plans Examiner — Multi-Family
+ Building Insp III                                               24
+                                                               6/24/2026   33
+Klamath County and Local 737 Collective Bargaining Agreement
+
+ Evidence Comp Tech Trial Asst
+ Property Appraiser III
+ Comm Electrical Inspector                                      26
+ Comm Plumbing Inspector
+ senior GIS Analyst                                             Pi
+ Systems Administrator                                         ie 7
+
+                                                               6/24/2026   34
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                                                      EXHIBIT C
+
+         PROVISIONS TO COVER “SPECIAL CONDITIONS” OF PARTICULAR DEPARTMENTS
+         The following provisions are intended to cover special conditions which affect only the particular
+         departments which are identified below.
+
+         1.   Museum
+              The museum schedule and all other Museum policies and procedures shall be set by the
+              Board of County Commissioners. If the Board of Commissioners determines to change the
+              museum schedule, the employees and the Union shall be notified at least two (2) weeks in
+              advance of a permanent change of schedule, except in the case of emergency.
+
+         2.   Dog Control
+              The County will replace clothing which is destroyed in the line of duty.
+
+         3.   Assessor's Department
+              Employees for the Assessor's Office may also be granted time off with pay, not to exceed a
+              regular straight time day, for educational purposes for a reasonable period of time, to attend
+              conferences, seminars, briefing sessions, training programs, and other programs of similar
+              nature, that are intended to improve or upgrade the employee’s skill and professional ability,
+              when recommended by the State or the employee's department head and approved in each
+              instance by the Board of County Commissioners. Such employees shall be reimbursed for
+              meals and lodging at the rates established under general County policy at the time involved
+              upon submission of the travel reimbursement form in use by the County. Upon
+              recommendation by the department head, a reasonable allowance may be advanced to an
+              employee.
+
+         4.   Library
+              The library schedule and all other Library policies and procedures shall be as set by the Library
+              Service District Board, provided that if the Board determines to change the Library schedule,
+              the employees and the Union shall be notified at least two (2) weeks in advance of a
+              permanent change of schedule, except in the case of an emergency.
+
+         5.   Solid Waste
+              Uniform coveralls shall be provided to select solid waste division employees working in the
+              landfill operation section. Regular cleaning of these uniforms shall also be provided by the
+              County to those uniformed employees. If the County decides to close the Landfill on an Easter
+              Sunday, the benefit eligible employees that are regularly scheduled to work Easter Sunday
+              shall be compensated paid leave for that day.
+
+         6.   Juvenile Counselors
+              Job related telephone services which occur after the employee's regular working hours shall be
+              reimbursed as compensation time in half hour (1/2) increments with a minimum of one hour,
+              which is earned at one and one-half (1 ‘4) times the employee's regular rate of pay. In no
+              event may an employee compound earning call back pay for the same two hour period.
+
+                                                                                               6/24/2026       35
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                                               EXHIBIT D
+                                  APPLICANT AND EMPLOYEE CONSENT TO
+                                       ALCOHOL AND DRUG TESTING
+
+                                                         COPY
+
+| understand that a requirement for initial employment and continued employment by Klamath County may
+involve successful completion of drug and/or alcohol testing. | understand that if | am hired as an employee
+of Klamath County, | may be asked from time to time to submit to an alcohol and/or drug test, with or
+without individual cause to test, and | hereby consent to such testing.
+
+By my signature below, | hereby agree and give my consent to Klamath County and the facility designated
+by Klamath County to both collect and perform such tests on samples of my urine and/or blood to identify
+the presence of alcohol, illegal drugs, legal drugs and other substances which might adversely effect job
+performance.
+
+| authorize the testing facility to provide test results to Klamath County for its use in determining compliance
+with their Alcohol and Drug Abuse Policy, | release Klamath County from all liability and claims incident to
+such sample-taking, testing and disclosure of test results by the testing facility.
+
+| understand that if | am hired, any failure to give written consent, without qualifications, to subsequent drug
+and alcoho! testing, or failure to provide samples for such testing will be considered insubordination and
+grounds for immediate suspension and/or termination.
+
+| understand that | will not be hired if my test results are positive, but may reapply after one year and be
+considered for employment on the same basis as a new applicant. | also understand that if | begin work
+prior to Klamath County’s receipt of the test results, | am a contingent and temporary employee and will
+immediately be terminated if the results are positive.
+
+                                                                Applicant or Employee’s Name (Print)
+
+                                                                Applicant or Employee's Signature
+
+                                                                Klamath County Representative
+
+                                                                Date
+
+                                            ALCOHOL AND DRUG ABUSE POLICY
+
+                                                                                                6/24/2026      36
+Klamath County and Local 737 Collective Bargaining Agreement
+
+Klamath County has an obligation to its employees, and those who come into contact with the County, to
+insure safe working conditions. To meet that obligation and to further our commitment to promote high
+standards of employee performance, productivity, health, safety, and reliability, Klamath County has
+established this alcohol and drug policy.
+
+Klamath County's focus is to assist those employees seeking treatment and rehabilitation through the
+employee assistance program. We encourage employees needing help to contact us.
+
+POLICY
+This policy covers all employees of Klamath County who are part of the Laborer's 737 Bargaining Unit.
+Klamath County requires you to report for work in a condition that will permit you to perform your duties
+safely and efficiently. Klamath County recognizes that an employee's off the job and on the job
+involvement with alcohol or drugs can have an impact on the work environment. The following information
+clearly outlines the County's position regarding the use or possession of alcohol or drugs on the job.
+
+A.   Employees shall not:
+
+     1.   Report for work with the presence of a controlled substance, intoxicant, or illegal drug in their
+          system.
+     2.   Engage in the unauthorized use of any alcohol or illegal drugs on County premises or on County
+          time, including rest periods and lunch. Marijuana is considered an illegal drug under federal law
+          and, therefore constitutes an “illegal drug” for purposes of this policy.
+     3.   Possess, distribute, sell, manufacture, transfer, or receive any controlled substance (drugs), or any
+          other substances which impair job performance or pose a hazard to the safety and welfare of the
+          employee or other employees, on County premises or on County time. Violation of this rule is
+          strictly prohibited and will result in immediate termination.
+
+B.   Each employee must report the use of medically authorized drugs, which can impair job performance to
+     their immediate supervisor and provide proper authorization from a physician to work while using such
+     authorized drugs. It is the employee's responsibility to determine from the physician whether the
+     prescribed drugs would impair job performance. Some over-the-counter drugs may also impair job
+     performance. Please read the directions carefully. The County may require a physician's written
+     excuse from any employee claiming to need time off for medical reasons or because they are taking an
+     over-the-counter drug which impairs performance and safety.
+
+     Abuse of prescription or over-the-counter drugs is a violation of this agreement.
+
+C.   Employees who violate the above policies shall be subject to disciplinary action, up to and including
+     termination.
+
+EMPLOYEE ASSISTANCE PROGRAM
+Klamath County offers an Employee Assistance Program (EAP) to provide confidential assistance to
+employees and their families with a personal drug and/or alcohol problem, and other human problems that
+impact on the employee's health and job performance. Any employee of Klamath County wishing
+confidential assistance for any such problem can call the EAP Coordinator or the EAP Assessor in the
+
+                                                                                                  6/24/2026   37
+Klamath County and Local 737 Collective Bargaining Agreement
+
+County Human Resources Department at 883-4296. We encourage any individual with a drug or alcoho!
+problem to seek assistance. Employees are strongly encouraged to use the EAP on a voluntary basis
+before drug and/or alcohol problems jeopardize their continuous employment.
+
+DRUG AND ALCOHOL TESTING
+Klamath County has established the following procedure for the testing of drug and alcohol use among its
+employees.
+
+Klamath County has the right to require urine, breathalyzer and/or blood samples in any of the following
+situations. Failure to give written consent, without qualification, to drug and alcohol testing, or failure to
+provide samples for such testing will be considered insubordination and grounds for immediate suspension
+and/or termination.
+
+A.   All finalist applicants for employment may be required to submit to a urinalysis. If the test is positive,
+     employment is denied. The applicant may re-apply in one year.
+B.   Initially, a mandatory urinalysis may be required of all employees within 30 days after this policy takes
+     effect. Additionally, Klamath County may require all employees to submit to a periodic unannounced
+     urinalysis.
+     Employees involved in any accident where a doctor care injury occurs will be subject to drug and/or
+     alcohol testing. Accidents involving non-doctor care injuries, property damage or near-misses may be
+     cause for testing.
+     Observable changes in employee performance, appearance, behavior, speech, etc., which provide
+     suspicion of the presence of drugs or alcohol, are grounds for requiring a fitness for duty evaluation
+     involving urine, breathalyzer, and/or blood sample testing. Such bases for suspicion can include, but
+     are not limited to:
+
+     -Absenteeism or excessive tardiness
+     -Declining performance
+     -Suspect behavior, e.g., stumbling, slurred or incoherent speech, apparent confusion in orientation,
+     emotional outbursts, inability to perform normal job tasks, the unsafe handling of equipment or tools, or
+     the actual observation of such behavior as drinking alcohol or using some other drug.
+
+     When there is suspicion, the employee is not to return to work until fitness for duty is established. This
+     time will be treated as a suspension without pay pending the outcome of the testing. The employee
+     shall be paid for any time lost from work if the tests are alcohol and drug free.
+     If the test is positive, the employee will be referred to the EAP in lieu of termination on the first
+     occasion. The following procedure will apply:
+
+     1.   All “positive” tests will be subjected to a secondary, confirmatory test (on the same sample) using a
+          gas chromatography/mass spectrometry test or a superior or equally reliable test if same becomes
+          reasonably available.
+
+     2.   Ifthe secondary test confirms the initial positive test result, the employee will be immediately
+          suspended for violation of County policy. The employee may have the opportunity then to either
+          sign a Performance Contract and seek treatment, or sever their employment relationship with
+          Klamath County.
+
+                                                                                                6/24/2026         328
+Klamath County and Local 737 Collective Bargaining Agreement
+
+     3.   The employee that chooses rehabilitation will be expected to meet with an accredited professional
+          to assess the nature and severity of their problem, and to establish a treatment program. Failure to
+          complete the program or to cooperate with the drug/alcohol counselor is considered a breach of
+          the Performance Contract and will result in immediate termination.
+
+     4.   Before returning to work, the employee will be required to submit to an alcohol and/or drug screen.
+          A drug/alcohol free result will allow the employee to return to work. Returning to work will require
+          the employee to submit to periodic testing, at the employer's discretion, over the next 24 months,
+          as well as any other conditions required by Klamath County. Refusing to take a test will result in
+          immediate termination. A positive test result will result in immediate termination for violation of
+          County policy.
+
+     5.   When an employee who is under a “Performance Contract’ tests positive for alcohol and drug use,
+          the employee will be terminated. (Only one Performance Contract is permitted: a second positive
+          test will result in immediate termination.) The employee may also be terminated for any other
+          violation of a Performance Contract, as determined by Klamath County or the EAP counselor, apart
+          from a positive test result.
+
+     6.   Your medical benefits may cover a percentage of the costs for this treatment; however, any costs
+          accrued that are not covered by insurance are the sole responsibility of the employee.
+
+G. APPEAL PROCEDURES
+   The employee or applicant, at her/his expense, will have the opportunity to have a licensed testing
+   facility test the same sample submitted to the original test facility. Accepted chain of custody
+   procedures must be followed and the test facility must meet all standards set by the Federal Health
+   Agencies for laboratory performance using certified Medical Technologists and Technicians. An
+   employee may request the independent test by notifying the Human Resources Director in writing
+   within two (2) calendar days after the day the employee is informed of the test results. The test result
+   will be kept confidential and will be available only to a designated employer representative. If the
+   appealed test comes out drug and alcohol free, Klamath County will pay for the test.
+
+H.   SEARCHES
+     Klamath County reserves the right to inspect and/or search all County property for intoxicating liquor,
+     controlled or illegal substances, or any other substances which impair job performance. Refusal to
+     submit to any such inspection or refusal to cooperate in any investigation will subject the employee to
+     disciplinary action up to and including immediate suspension or termination.
+     When controlled substances are located on County property, local law enforcement officials will be
+     contacted.
+
+|.   CONFIDENTIALITY
+     The results and records of alcohol and drug testing are to be considered confidential and are not to be
+     discussed or shared with anyone who does not need to know.       Likewise, a manager must not discuss
+     the suspected reason for a referral with anyone who does not need to know. Records shall not
+     become part of an employee's personnel file.
+
+J.   OTHER CONDITIONS
+
+                                                                                               6/24/2026         39
+Klamath County and Local 737 Collective Bargaining Agreement
+
+     1.   Any employee tampering with or doctoring/altering a drug or alcohol screening test will be subject
+          to immediate termination. An applicant engaging in the above conduct will not be eligible for
+          employment or to re-apply.
+
+     2.   All employees are expected to cooperate fully in any investigations resulting from this policy.
+
+     3.   The County reserves the right to determine whether suspicion exists and the level of discipline to
+          be applied.
+
+K.   Laboratory testing will be completed at a licensed testing facility that meets all standards set forth by
+     the Federal Health Agencies for laboratory performance using certified Medical Technologists and
+     Technicians.
+
+L.   DEFINITIONS
+
+     For the purpose of this policy, the following definitions are provided:
+
+     Presence is defined as the threshold level of alcohol or drugs in an employee's blood or urine as
+     determined by an accredited laboratory chosen by Klamath County.
+
+     Controlled Substances are defined as all forms of narcotics, depressants, stimulants, hallucinogens,
+     and cannabis, whose sale, purchase, transfer, use or possession is prohibited by law.
+
+     Over-the-Counter-Drugs are those which are generally available without a prescription from a medical
+     doctor and are limited to those drugs which are capable of impairing the judgment of an employee to
+     safely perform her/his duties.
+
+     Medically Authorized (Prescription) Drugs are those drugs which are used in the course of medical
+     treatment and have been prescribed and authorized for use by a licensed practitioner/physician or
+     dentist.
+
+CONVICTION UNDER CRIMINAL DRUG STATUTE
+Employees must notify their immediate supervisor within five (5) days of any conviction for violating a
+criminal drug statute.
+
+SITUATIONS NOT COVERED BY POLICY
+We recognize that situations may arise which are not specifically covered by this policy and these
+guidelines. (For example, situations involving employees who have been arrested or convicted for off-the-
+job illegal drug use or activity.) We will deal with them on a case-by-case basis, taking into account such
+things as the nature of the situation or problem, the employee’s overall employment record and job
+assignment, the potential impact on production, safety and customer relations, etc.
+
+                                                                                                 6/24/2026       40
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                       AGREEMENT TO CONDITIONS OF CONTINUING EMPLOYMENT
+
+F                                                       , understand and agree that my continuing employment
+with Klamath County is conditioned upon my being       fit for work, and not working under the influence of
+alcohol or illegal drugs, and not using illegal drugs, in any way at any time.
+
+| have undertaken a treatment program designed to eliminate my job-related use of and/or dependence on
+drugs or alcohol.
+
+| understand that my continued employment with Klamath County is conditional upon my complying with all
+my terms and conditions of this treatment program in the future, and complying with all terms and
+conditions of the County’s drug and alcohol policy.
+
+The specific details of my treatment and recovery program are as follows:
+
+{.     Time period of leave of absence from                          to
+
+2.     Rehabilitation to be monitored by
+                                                       Counseling Agency
+
+     and
+                County Representative
+
+3.     Conditions for re-instatement and continued employment:
+
+       A.   Comply with the treatment program in the future.
+       B.   Comply with the County's Drug and Alcohol Policy.
+       C.   Employee authorizes counselor to provide all reports and evaluations to the County.
+
+| authorize the County to communicate with my treating physician and/or my drug and alcohol counselor or
+treatment therapist, and to receive all information from her/him with respect to my status and compliance
+with the treatment program. | will comply with all treatment program requirements to their successful
+conclusion.
+
+| understand that during all periods of work for Klamath County, during and after my treatment, | must meet
+all established standards of conduct and job performance, and that | will be subject to the County's normal
+disciplinary procedures if | fail to meet any of these standards. | promise to stay free of the effects of
+alcohol or illegal drug use at all times in the future while working for Klamath County.
+
+| promise to comply with the County’s drug and alcohol policy during all future work for Klamath County. |
+agree to submit to County directed periodic random chemical screen testing over the next 24 months from
+the date of this agreement.
+
+                                                                                                  6/24/2026    A]
+Klamath County and Local 737 Collective Bargaining Agreement
+
+IN CONSIDERATION OF KLAMATH COUNTY PROVIDING ME WITH TIME OFF FOR TREATMENT AND
+OTHER ASSISTANCE, AND THEREFORE HOLDING MY JOB FOR ME, | AGREE TO KEEP EACH OF
+THE PROMISES HEREIN. | UNDERSTAND AND AGREE THAT MY FAILURE TO OBSERVE THE
+TERMS OF THIS AGREEMENT WILL SUBJECT ME TO IMMEDIATE TERMINATION FROM THE
+EMPLOY OF KLAMATH COUNTY WITHOUT RIGHT TO MAKE ANY LEGAL CLAIMS CONTESTING
+SUCH TERMINATION.
+
+DATE:
+                                                               EMPLOYEE
+
+DATE:
+                                                               WITNESS
+
+                                                                          6/24/2026   42
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                                                               6/24/2026   A3
+Klamath County and Local 737 Collective Bargaining Agreement
+
+                                             SIGNATURE PAGE
+
+FOR THE UNION:                                                 FOR THE COUNTY:
+
+Lk                  LX
+Zack Culver, Business Manager
+                                                               iis G~
+                                                               Susan Baumgart
+Laborers’ Union, Local 737                                     Director of Human Resources
+zculver@local737.org
+
+Jeff Gritz,                     :
+                                                                Asfo
+                                                               Marcus Henderson
+Oreg          d Southern Idaho District Council                Klamath County Counsel
+of Laborers.
+jgritz@local737.org
+
+                                                               BOARD OF COUNTY COMMISSIONERS
+
+    ta, Las
+                                                               Kelley Minty, Chair, Commissioner
+Local 737 Union Steward                                        Board of County Commissioners
+
+                                                                 Out of office today
+                                                               Derrick DeGroot, Commissioner
+Local 737 Union Steward                                        Board of Co                   3
+
+                                                               Andrew Nichols;      Commissioner
+                                                               Board of          County Commissioners
+
+UNION RATIFICATION DATE:                                       BOARD RATIFICATION DATE:
+
+                                                                        06/25/2026
+
+                                                                                                        6/24/2026   3 44
+                                                                                                                      4A
+737 Collective Bargaining Agreement
+Final Audit Report                                                                                2026-06-29
+
+      Created:                2026-06-25
+
+      By:                     Haley Huffman (hhuffman@klamathcounty.org)
+
+      Status:                 Signed
+
+      Transaction ID:         CBJCHBCAABAA5zPe3Tinz8xZ-6gxhy850MxyAY2nStEm
+
+"737 Collective Bargaining Agreement" History
+*5.     Document created by Haley Huffman (hhuffman@klamathcounty.org)
+        2026-06-25 - 9:28:07 PM GMT
+
+“.      Document emailed to mhenderson@klamathcountyor.gov for signature
+        2026-06-25 - 9:29:26 PM GMT
+
+*5.     Email viewed by mhenderson@klamathcountyor.gov
+        2026-06-29 - 9:16:15 PM GMT
+
+©»      Signer mhenderson@klamathcountyor.gov entered name at signing as Marcus M. Henderson
+        2026-06-29 - 9:16:34 PM GMT
+
+©       Document e-signed by Marcus M. Henderson (mhenderson@klamathcountyor.gov)
+        Signature Date: 2026-06-29 - 9:16:36 PM GMT - Time Source: server - Signature Appearance Selected: IMAGE
+
+©       Agreement completed.
+        2026-06-29 - 9:16:36 PM GMT
+
+        Adobe Acrobat Sign
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 99.4% of
+the word sequence, and on 90.3% of the figures. Dictionary-recognizable words: 96.7%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

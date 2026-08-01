@@ -1,0 +1,518 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-protecting-accepted-resource-fees-10-7-1992
+title: 'Protecting Accepted Resource Fees 10-7-1992'
+doc_type: ordinance
+citation: 'Protecting Accepted Resource Fees 10-7-1992'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1992/Protecting%20Accepted%20Resource%20Fees%2010-7-1992.pdf?t=202503260856020
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 7bf129d5839b2340cd063fdc2697ebfd85ba21b611db830a265b47de9aa30011
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.908; figure agreement 0.025; dictionary ratio 0.903. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 527.620
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 91%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Protecting Accepted Resource Fees 10-7-1992 (Protecting Accepted Resource Fees 10-7-1992)
+
+## At a glance
+
+OCR-derived text of Protecting Accepted Resource Fees 10-7-1992. Not human-verified.
+
+## Full text
+
+IN THE    COUNTY       COURT    OF THE         STATE     OF OREGON
+
+                                              IN AND FOR THE COUNTY OF WASCO 7)!"
+                                                                                                     FILED Wie) oy
+                                                                                                                a
+                  IN THE MATTER OF THE ADOPTION CF                        )                         Na Je oxic
+                  AN ORDINANCE PROTECTING ACCEPTED                        )                           GoitehcEr
+                  RESOURCE USES.                                          )                          cae
+                                                                                                      Re       eee
+     LH
+
+                  THE WASCO COUN
+                                 TY COURT ORDAINS AS FO
+     BH}
+
+                                                        LLOWS:
+                  Section      1    SHORT TITLE.            This Ordinance may be cited _as the Wasco
+      fF
+
+                  County Resource        Use    Protection Ordinance.
+      oOo
+
+                  Section      2    PURPOSE.
+      Oo
+
+                         (1)   It    is the    purpose       of    this       Ordinance       to protect      resource
+      ns
+
+                         based economically productive                        activities       of Wasco County         in
+      wo
+
+                         order      to assure    the    continued             health,       safety    and prosperity        of
+       wo
+
+                         its   residents.        Resource          uses       sometimes       offend,    annoy,    interfere
+ et
+OD
+
+                         with or otherwise          affect others               located       on or near resource
+              §
+meek
+
+                         lands.       Wasco County has concluded                     that persons        located on or
+           KH
+
+                         near resource         lands must          accept the conditions                commonly
+        WO
+
+                         associated      with    accepted          resource         uses.
+     BF
+
+                         (2)   This    Ordinance       is    intended          to   limit     the    availability      of
+   a
+
+                         remedies      based on nuisance             or trespass,             complaint procedures,
+BD
+
+                         rights      of action and claims                 for relief over which Wasco County                     |
+NHN
+om
+
+                         has   jurisdiction,        when they otherwise would either have                             an
+ OO
+om
+
+                         adverse      impact    on resource          uses       which   Wasco        County   seeks    to
+ YH
+Ol
+
+                         protect,      or would     impair          full use of the resource base within
+CO
+NO
+
+                         Wasco      County.
+F*-§&
+ND
+
+                  Section      3     DEFINITIONS.           As    used    in this       Ordinance:
+ND
+HH
+
+                         (1)   "FACILITY"       means       any real or personal                property,      including
+WO
+8k
+
+                         appurtenances         thereto       and fixtures            thereon,        associated with        a
+NH
+ &
+
+                         given use.
+on
+NH
+
+                  S111
+nO
+So
+
+Page              | - ORDINANCE
+
+                                                                  P92 - 6424 w
+                                 @                                                                 ®
+
+                (2)     "FARMING       PRACTICE"            means          the cultivation,                   growing,
+
+                                      processing            or       selling      of plants              or    animals         of       any
+                harvesting,
+
+                kind,     which       lawfully           may     be grown,         possessed              and        sold,     including
+    ?
+
+    ,           but     not    limited       to     fish,         livestock,          poultry,            grapes,            cherries,
+
+                apples,        pears,    wheat,            barley,          Christmas         trees           and     nursery           stock.
+    :
+
+    °           (3)     "FOREST       PRACTICE"            has       the meaning            given        that        term by
+
+    °           ORS     527.620.
+
+    ’           (4)     "NONRESOURCE              USE"     means        any    facility,           activity            or other               use
+
+    .           of     land    which     does       not     constitute            a resource              use,        including               but
+
+    °           not limited           to residential                  use.
+
+10              (5)     "RESOURCE        USE"       means         any      current      or    future            generally
+
+1               accepted         farming,          ranching           or     forest     practice              or     facility
+
+"2              conducted           in compliance                with      applicable         Wasco           County         Land       Use
+
+8               Ordinances.
+14
+                 (6)    "GENERALLY At                          "means         either:
+
+8                        (a)   A practice or               facility which               is conducted or used                             in
+
+6                       compliance           with        applicable           federal        and     state           laws;      or
+
+7                        (b)   If    there        is no        applicable         federal           or        state     law,        a
+
+‘8                      practice        or    facility            which       an average            person           in Wasco            County
+
+0?                      who    is a grower               or producer           regularly            involved            in the           same
+
+20                      type     of resource              use would           reasonably            expect           to occur            or
+
+2                        exist       in a rural           setting.            ‘The Wasco        County              Court      may,       as        it
+
+2                       deems        necessary,           establish           resource         user           peer     review           boards
+
+28                       consisting          of     five       (5)      persons       who    regularly                are    involved               in
+
+“       /fttt
+25
+        //ftT
+26
+        >. - ORDINANCE
+Page
+
+                                                                        P92 - of 3%
+                             a resource use within                    the County,          three       of wham regularly
+
+                             are involved              in the same type of resource                      use in question,
+  KH
+
+                             to advise           the    Court    as    to generally              accepted      practices      or
+  WO
+
+                             facilities with respect                    to that resource                use.
+  PhP
+
+                   (7)       "RESOURCE USE"                 does not include:
+  oOo
+
+                             (a)     The willful             growing or unlawful,                 infested,       infected     or
+  DOD
+
+                             diseased           plants       or animals.
+   oN
+
+                             (b)     Trespass which             involves          actual       physical        intrusion onto
+
+                             the property              of another by a person                    or by a person's           animals.
+   po
+
+          Section        4     PROTECTING              RESOURCE       USES    OUTSIDE          URBAN    GROWTH     BOUNDARY.
+lt
+CO
+
+                   (1)       No resource use occurring                       outside       an urban          growth boundary
+    *§
+ ef
+
+                   (UGB)           shall be declared             to be a public                or private nuisance            or
+HB
+
+                   trespass,           or support any complaint procedure,                               or give     rise     toa
+   WO
+
+                   claim           for relief          in    favor    of,    or    to protect          the     interests     of,
+   FP
+
+                   nonresource              uses       or any persons             or property          associated
+Om
+   a
+
+                   therewith,              to    the    extent       that    such       right,     proceeding       or     claim
+TD
+
+                   would           arise under an Ordinance or the inherent authority of
+     ON
+
+                   Wasco County.
+Rome
+
+                   (2)       This     section applies                regardless          of:
+  HO
+
+                             (a)     The    location          of the purportedly                 affected nonresource
+O
+
+                             use.
+BRD
+ -
+
+                             (b)     Whether       the       nonresource          use    purportedly           affected
+HO
+Bb
+
+                             existed before                 or after the occurrence                 of the resource use.
+ WO
+S&S
+
+                             (c)     Whether       the resource use or nonresource use has
+S&S
+ &
+
+                             undergone           any change          or interruption.
+on
+&
+
+           //TT1
+ao
+BS
+
+Page      2, + ORDINANCE
+
+                                                                            PI2-                 CL3FY
+    1                       (d)        Whether     the resource               use or nonresource              use     is located
+
+ y)                         inside or outside               an area designated                   as secondary             resource
+
+ 3                          lands.
+
+ 4          Section         5         PROTECTING     RESOURCE           USES        WITHIN     URBAN     GROWTH       BOUNDARY.
+
+ 5                  (1)     No resource use occurring within                               an urban growth boundary
+
+ 6                  (UGB)         shall be declared            to be a public                  or private        nuisance         or
+
+ 7                  trespass,             or support        any complaint procedure,                      or give rise             toa
+
+    8               claim             for relief    in    favor     of,        or     to protect        the    interests      of,
+
+    9               nonresource uses or any persons                                 or property         associated
+
+10                  therewith,                to the extent        that         such right,       proceeding or claim
+
+11                  would arise under an Ordinance                               or the inherent              authority      of
+
+12                  Wasco         County.
+
+13                  (2)     This         section applies:
+
+14                          (a)         Regardless       of the     location of the purportedly                           affected
+
+15                          nonresource            use.
+
+16                              (b)     Only    if the resource use predated                       the purportedly
+
+17                          affected            nonresource        use.
+
+18                              (c)     Only    if the resource use has not                      significantly
+
+19                          increased            in size or intensity                    after    (A)    the effective            date
+
+20                          of         this    Ordinance,     or        (B)     the     date   on which        the    applicable
+
+1                           urban         growth    boundary        is changed               to include        the    subject
+
+22                          resource            use within        its         limits,     whichever       date       is   later.
+
+23                          However,            if the change            is mandated by law,                  this    section
+
+24                          shall         apply.
+
+25          //111
+
+26          ///T1
+
+Page    |     -   ORDINANCE
+
+                                                                               P92         - OL 3% (4)
+                   Section        6    CHANGE         IN    URBAN        GROWTH    BOUNDARY.            ‘To the      extent
+
+                   permissible          under        state       law,     if an urban growth boundary                        (UGB)    is
+    LB
+
+                   changed    in       such     a way       as to place           a resource          use     either       inside     or
+    WO
+
+                   outside    such boundary,                 Section        4 of this Ordinance                    applies with
+    FP
+
+                   respect    to any          conflict           between        a resource        use    and nonresource              use.
+    oO
+
+                   Section        7     LAND USE DECISIONS.                      The fact that Wasco County's
+     Oo
+
+                   Comprehensive             Plan,        Zoning     Ordinances          and    land     use       decisions     may
+     NY
+
+                   allow    the       siting,        development           or support          of any particular               use does
+     wo
+
+                   not    negate       the    provisions           of     this    Ordinance        intended          to protect        a
+     oO
+
+                   resource       use.
+      OC
+
+                   Section        8     COMPLAINTS           BY NONRESOURCE              USERS.         Any    persons       engaged
+meet
+          FF
+
+                   in    a nonresource             use     are    deemed        on notice       that Wasco           County     will       not
+       HO
+
+                   act on complaints                 involving           a resource       use protected under                  this
+   |W!
+
+                   Ordinance,         wherever            located,        so long as such resource use complies
+BP
+
+                   with applicable provisions                           of federal and          state       laws and this
+ oH
+lm
+
+                   Ordinance.
+me
+DO
+
+                   Section        9     SEVERABILITY              CLAUSE.         If    any    portion        of    this    Ordinance
+      NY
+
+                   is held invalid by a court of competent                                    jurisdiction,           such decision
+      Oo
+
+                   shall    apply       only with           respect        to    the    specific        portion       held     invalid       by
+   OBO
+NO
+
+                   the    decision.           It     is    the    intent        of Wasco       County       that     the    remaining
+CO
+
+                   portions       of this Ordinance                     continue       in full        force and effect.
+ Se
+ND
+
+                   Section     10       EMERGENCY           CLAUSE.         This Ordinance              being       immediately
+ND
+NH
+
+                   necessary          for the preservation of the public well being,                                        an emergency
+ BW
+DN
+
+                   is declared          to exist and this Ordinance                           shall     take effect          immediately.
+NHN
+ &
+
+                   S111
+on
+BH
+
+                   /T/T1
+nO
+So
+
+Page           5        = ORDINANCE
+
+                                                                                       P72 - 0934 w&
+                   Regularly    passed    and    adopted     by unanimous         vote       of all members    of
+  eH
+
+           the    County   Court   of   the    County   of Wasco,     State       of Oregon,       present    on
+  KB
+
+           this    day.
+  }CO
+
+                   DONE AND    DATED    this    7th   day   of October,         1992.
+  Be
+  oOo
+
+                                                                            /                ee
+  om
+
+                                                                       LE                :
+                                                        oe           Mabrey,       County     Judge
+     won
+     uo
+
+                                                              Scott McKay,         County Commissioner
+et
+     DO
+
+                                                                CEG Ma
+     RUE
+ll
+
+                                                              C.E.   Filbin,       County       Commissioner
+
+           BE. ILhAR
+ltl
+     we
+     Rh
+me
+
+           Bernard L. Smith
+     on
+
+           Wasco County District Attorney
+  oO OO
+     NY
+DR
+  HO
+  OC
+  *&
+DR
+  HO
+BR
+  WO
+KH
+  F&F
+NH
+  nn
+NO
+  ao
+So
+
+Page       lo — ORDINANCE
+
+                                                              FIZ       643                   Wy
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 90.8% of
+the word sequence, and on 2.5% of the figures. Dictionary-recognizable words: 90.3%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

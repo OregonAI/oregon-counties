@@ -1,0 +1,760 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-ordinance-protecting-farming-and-forestry-practices-4-21-199
+title: 'Ordinance Protecting Farming and Forestry Practices 4-21-1993'
+doc_type: ordinance
+citation: 'Ordinance Protecting Farming and Forestry Practices 4-21-1993'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1993/Ordinance%20Protecting%20Farming%20and%20Forestry%20Practices%204-21-1993.pdf?t=202503260855560
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 3ad84e87057adc93cdfc35b7c0b6adb762a65def8867bcaf391350bb404c1626
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.956; figure agreement 0.009; dictionary ratio 0.949. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 96%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Ordinance Protecting Farming and Forestry Practices 4-21-1993 (Ordinance Protecting Farming and Forestry Practices 4-21-1993)
+
+## At a glance
+
+OCR-derived text of Ordinance Protecting Farming and Forestry Practices 4-21-1993. Not human-verified.
+
+## Full text
+
+ln THE COUNTY COURT OF THE STATE Or OREGON
+                                                             FILED eS                                       es ary
+                                  IN AND FOR THE COUNTY OF WASCO”
+       IN THE MATTER OF THE ADOPTION OF AN ORDINANCE} 72      oy ae yy
+       PROVIDING PROTECTION FOR GENERALLY ACCEPTED        ORDINANCE
+       FARMING AND FORESTRY PRACTICES AND ESTABLISHING); ; 9.
+       A COMPLAINT MEDIATION PROCESS.                                                       bOUN TT Oo:
+ nD
+
+                                                                                                              aus
+&H
+
+       THE   WASCO        COUNTY       COURT    ORDAINS        AS    FOLLOWS:
+He
+
+       Section       1     SHORT TITLE.            ‘This Ordinance may be cited as the Wasco
+oo
+
+       County Farming             and Forestry           Practices           Protection       and Complaint
+ fo
+
+       Mediation Ordinance.
+ won
+
+       Section       2     PURPOSE.
+
+              (1)          Wasco County recognizes                       that complaints            about    farming       and
+ Huo
+
+10            forestry practices will                     sometimes           occur       because        these practices
+
+11            create        odors,       smoke,        dust    and noise           and    there     is    a close
+
+12            proximity           of    agricultural           and        forest    lands    to    expanding        urban
+
+13            and        rural    residential           development.
+
+14            (2)        Wasco    County       recognizes           that     all    resource       use     complaints
+
+15            have        the    potential        of    requiring           immediate       shutdowns        or
+
+16            interruptions              of    farming        and        forestry practices which could
+
+17            result        in significant economic                        consequences        for resource          users.
+
+18            (3)        The purpose          of this Ordinance               is therefore           to provide       a
+
+19            rapid complaint                 response        and mediation process                  for resource use
+
+20            complaints           by Wasco        County       residents           in order       to protect        farming
+
+21            and        forestry       operations        to    the        greatest       extent     possible       from
+
+22            immediate            shutdowns       or interruptions.
+
+23     Section       3     DEFINITIONS.            As    used       in this        Ordinance:
+
+24             (1)       "FACILITY"       means        any real or personal                 property,        including
+
+25            appurtenances              thereto        and    fixtures        thereon,       associated          with     a
+
+26            given use.
+
+Page   | ~ ORDINANCE
+
+                                                       PP?           ~    CLS         S       (1)
+                     (2)     "FARMING       PRACTICE"         means       the    cultivation,              growing,
+
+                     harvesting,          processing or selling                       of plants       or animals        of any
+
+                     kind,     which lawfully may be grown,                            possessed          and sold,     including
+ &
+
+                     but   not     limited       to    fish,        livestock,          poultry,          grapes,     cherries,
+ ony    He
+
+                     apples,       pears,       wheat,       barley,       Christmas              trees    and   nursery   stock.
+     on
+
+                     (3)     “FORESTRY PRACTICE"                  means      any operation            conducted        on or
+  Oo
+
+                     pertaining        to forest            land,     including             but not limited to:
+
+                             (a)   Reforestation             of     forest      land;
+
+                             (b)   Road     construction             and maintenance;
+ X=)
+
+10                           (c)   Harvesting          of    forest tree              species;
+
+11                           (d)   Application           of chemicals;                and
+
+12                           (e)   Disposal       of     slash.
+
+13                   (4)     "NONRESOURCE USE"               means       any     facility,          activity or other use
+
+14                   of    land    which      does     not     constitute             a resource          use,   including     but
+
+15                   not limited          to residential              use.
+
+16                   (5)     “RESOURCE       USE"      means       any    current           or    future    generally
+
+17                   accepted        farming        or forestry practice                     or facility conducted             in
+
+18                   compliance with applicable Wasco County Ordinances                                             and Federal
+
+19                   and     State    laws.
+
+20                   (6)     "RESOURCE USE NUISANCE"                     means        any current or future
+
+21                   generally       accepted          farming or            forestry practice or facility
+
+22                   conducted        in compliance               with    applicable              Wasco    County     Ordinances
+
+23                   and     Federal      and    State       laws,       which        may    be    considered        offensive,
+
+24                   amnoying,        or interferes with or otherwise                               affects      the urban and
+
+25                   rural     residents         of Wasco           County.
+
+26           ///T/
+
+Page         2 - ORDINANCE
+
+                                                                   73             ~         OAS       5      (vo)
+              (7)   "RESOURCE        USE"     does       not    include:
+
+                    (a)    Any unlawful           act;
+
+                    (b)    The willful         growing          of infested,              infected           or diseased
+&
+
+                    plants     or animals;
+fS
+
+                    (c)    Trespass        which     involves           actual       physical           intrusion           onto
+na
+
+                    the property           of another          by     a person           or by       a person's         animals;
+
+              (8)   "DESIGNEE"        may     include,          but     is    not    limited           to:      Wasco       County
+ nN
+
+              Extension Agents,             Field Consultants                  and Extension Agents                     from
+ oe
+
+              neighboring       counties.
+ Oo
+
+10            (9)   "COMPLAINT        MEDIATION           COMMITTEE" :
+
+11                  (a)    Is a standing           committee            established             by the Wasco County
+
+12                  Court    to provide           a forum        for     the     mediation             of Wasco        County
+
+13                  residents        complaints           regarding            farming         or forestry practices
+
+14                  or    facilities,         including,            but not         limited to:                odors    from
+
+15                  domestic        livestock        operations;              blowing          smoke         from heaters,
+
+16                  smokers     and       slash    burning;           noise      from machines,                 including
+
+17                  those devices           producing           sounds        designed          for agricultural
+
+18                  purposes        in order to frighten predacious                                 birds      or animals
+
+19                  away     from    agricultural              crops;        drift       or    contamination            from
+
+20                  chemical        and     fertilizer          applications;                 hours     of operation;
+
+21                  and littering           of County roads.
+
+22                  (b)    Shall     consist       of     4 to      10 Wasco         County          residents.
+
+23                  One-half        of the Complaint Mediation                           Committee            shall    consist
+
+24                  of residents           who are regularly                  involved          in a resource               use
+
+25                  within     the    County.            The    other        one-half          of     the    Complaint
+
+26                  Mediation        Committee           shall      consist         of    residents           who     are    not
+
+Page   3   7 ORDINANCE
+
+                                                        [73 -0/SS                                   &,,
+                           regularly           involved       in a resource          use    within       the    County.       ‘The
+
+                           Wasco     County       Extension         Agent     or    Designee          shall    serve    as   an
+   LH
+
+                           ex-officio           member     of    the    Complaint      Mediation          Committee.
+   WO
+
+                            (c)    Initial       duty will be to work cooperatively with the
+   fP
+
+                           Wasco County Extension Agent to screen,                                   select and
+   oo
+
+                           periodically           update        a list    of persons            to    serve    as Designees,
+   Dn
+
+                            and to provide             this     list of Designee            names       to the Wasco
+   nv
+
+                           County     Sheriff's          Office        and the Wasco            County Court.
+   wa
+
+                            (d)    Shall       meet    with     the Wasco         County    Extension          Agent    at
+       ow
+
+                            least once per year to discuss                         complaints          handled by the
+     OC
+
+                           Extension           Office    and     the    implementation               of this    Ordinance.
+eet
+     &§
+
+                            These    informational              meetings      shall be called by the Chair                        of
+     KH
+
+                            the    Complaint          Mediation        Committee.
+     WO
+
+                    (10)    “PEER    REVIEW       BOARD"        is a Board         established          by the Wasco
+     FSF
+
+                    County        Court    to    advise       the   Complaint        Mediation          Committee       on
+   a
+me
+
+                    whether        a disputed          resource        use activity         is a generally             accepted
+   DBD
+
+                     farming       or forest          practice      or facility.            The Board          shall    consist
+me
+   NN
+
+                    of     5 persons       who    regularly         are    involved        in    a resource       use     within
+   BSB
+NOOO
+
+                     the   County,        at    least     3 of whom         are    regularly          involved    in the
+   BO
+
+                     same type of disputed                 resource       use being heard by the Complaint
+   ODO
+
+                    Mediation        Committee.
+   &*§
+BD
+
+            //111
+   HS
+BR
+
+            S111
+   WO
+BR
+
+            ///t1
+   FP
+BD
+
+            //111
+   wo
+DN
+
+            /T1T1
+   oOo
+RS
+
+Page        yo     ORDINANCE
+
+                                                                (LIZ -YSS Gy)
+    1   Section        4     PROTECTING           RESOURCE USES.
+
+ 2               (1)       Wasco       County     shall         not    support       a resource       use    nuisance
+
+ 3               complaint or claim                   for relief by nonresource                      uses or any persons
+
+ 4               or property             associated             therewith       unless      the resource        use
+
+    5            complaint             response       and mediation procedure                   of Section       5 of this
+
+    6            Ordinance has been utilized.
+
+    7            (2)       This    Section        applies         regardless          of:
+
+    8                      (a)    The    location          of    the    purportedly         affected        nonresource
+
+    9                      use;
+
+10                         (b)    Whether       the nonresource                use purportedly          affected
+
+11                         existed       before       or    after       the    occurrence       of    the    resource     use;
+
+12                         (c)    Whether       the    resource          use    or    nonresource       use    has
+
+13                         undergone       any change             or interruption;             and
+
+14                         (d)    Whether       the resource             use is inside          or outside       an urban
+
+15                         growth       boundary       to       the    extent    permissible          under    State     law.
+
+16      Section        5     RESOURCE          USE    COMPLAINT          RESPONSE        AND   MEDIATION       PROCEDURE.
+
+17               (1)       Initial       resource          use    complaints          involving       farming    or
+
+18               forestry practices                   or    facilities          shall:
+
+19                         (a)    Be    referred       to the Wasco             County      Extension        Office     during
+
+20                         regular operating                hours or the Wasco County                   Sheriff's        Office
+
+1                          after       hours    and    on weekends;             and
+
+22                         (b)    Be responded             to as soon as possible.
+
+23               (2)       The    responding          Wasco       County       Extension       Agent    or Designee
+
+24               shall:
+
+25      /T/T1
+
+26       ///T/
+
+Page    5 - ORDINANCE
+
+                                                                 (P23 OAS
+                 (a)     Contact       the      complainant,           discuss       the    complaint,             and
+
+                 attempt        to    resolve      it.         If unable       to    resolve       the       complaint,
+
+                 encourage           complainant          to call or meet with                   the resource             user
+ WH
+
+                 that     is    the    subject          of their       complaint       and       attempt       a
+ EP
+
+                 one-on-one           resolution          of    the    complaint;
+ wT
+
+                  (b)    Recontact         the    complainant           within       a reasonable             amount       of
+ Oo
+
+                 time to determine                if the complaint has been resolved.                                    If it
+ NS
+
+                 has,     no    further         action     is required.              If not;
+ oOo
+
+                  (c)   Meet with          the complainant              and resource             user as soon as
+ po
+
+10               possible        and document             the resource             use complaint             if it has
+
+11               not been        resolved         or     if the       complainant          had    already
+
+12               contacted           the   resource        user       with    no    results,       or    if the
+
+                 complainant           is unwilling             or unable          to contact          the    resource
+13
+
+14               user;
+
+15                (d)    Provide       both      complainant           and resource          user with written
+
+16               documentation             of the complaint,                 including,          but not       limited
+
+17               to the        name    and      address        of complainant,             the    name       and    address
+
+18               of the resource                user,     and a description                of the nature             of the
+
+19               complaint.            Continue          to work with          the complainant                and
+
+20               resource        user      to    resolve        the    complaint       if progress             toward
+
+21               resolution is occurring;
+
+22                (e)    Notify       the Wasco          County       Court    about       the    documented
+
+23               complaint as soon as possible                          and report on the effort
+
+24               and/or        success       in resolving             the    complaint.           If    resolved,          no
+
+25               further action              required.           If unable          to resolve;
+
+26     /11/1
+Page   le — ORDINANCE
+                         (£)    Inform     the       complainant           and    resource          user    of    further
+
+                         mediation        assistance           available          through Wasco County.
+ND
+
+                         Describe        the mediation           process          and    encourage          the    complainant
+WO
+
+                         and    resource        user    to     seek       assistance          from       the Wasco        County
+ FP
+
+                         Court.
+ aor
+
+                   (3)   The    responding           Wasco     County       Sheriff's          Officer          shall:
+ on
+
+                         (a)    Contact        the complainant              and encourage                them to call or
+ onr
+
+                         meet with        the    resource        user       and       attempt       a one-on-one
+
+                         resolution        of the complaint.                     If the complainant                agrees           to
+ po
+
+10                       do    this,     inform       the     complainant             that    their       complaint        will          be
+
+11                       referred to the Wasco                  County Extension Office                         and that they
+
+12                       will receive           a call        from the Extension Agent or Designee                                   to
+
+13                       determine        if    their       complaint           has    been    resolved.           Refer        the
+
+14                       complaint        to the Wasco County Extension Office                                   and request
+
+15                       follow-up        per    Section        5,    2(b).           If the    complainant              has
+
+16                       already        contacted       the     resource          user       with    no results,           or       if
+
+17                       the complainant              is unwilling              or unable       to contact          the
+
+18                       resource user;
+
+19                       (b)    Document        the    resource           use    complaint;
+
+20                       (c)    Provide        both    complainant              and    resource          user    with     written
+
+21                       documentation           of the complaint,                    including,          but not limited
+
+22                       to    the name        and    address        of    complainant,             the    name    and     address
+
+23                       of the        resource       user,     and a description                   of    the    nature        of    the
+
+24                       complaint;
+25         ITT/1
+
+26         [1111
+       +
+Page         ~- ORDINANCE
+
+                                                             7 93 -O/5°S” w
+    1                 (d)    Advise     both    parties          to the     complaint          that    the Wasco
+
+    9                 County     Extension Agent or a Designee                          shall be notified              of
+
+ 3                    the complaint and will make                     contact with both parties                   as
+
+    4                 soon     as possible        to      discuss     the       complaint;       and
+
+    5                 (d)    Deliver      a copy of the complaint                   to the Wasco County
+
+    6                 Extension       Agent     or     a Designee          as    soon    as possible.
+
+    4           (4)   For    referrals        of documented           complaints          from    the Wasco       County
+
+    8           Sheriff's       Office,       the Wasco County Extension Agent or Designee
+
+    9           shall:
+
+10                    (a)    Meet with        the complainant              and resource          user as soon as
+
+11                    possible     to     discuss         the    complaint        and    attempt       to resolve
+
+12                    it.      Continue       to work       with     the    complainant          and       resource     user
+
+13                    to resolve        the    complaint          if progress           toward    resolution           is
+
+14                    occurring;
+
+15                    (b)    Notify     the Wasco County Court about the documented
+
+16                    complaint as soon as possible                        and report on the effort
+
+17                    and/or     success       in resolving           the       complaint.        If       resolved,        no
+
+18                    further action required.                      If unable       to resolve;
+
+19                    (c)    Inform     the    complainant           and    resource       user       of    further
+
+20                    mediation       assistance           available        through Wasco County.
+
+1                     Describe     the mediation                process     and    encourage          the    complainant
+
+22                    and resource         user      to    seek    assistance           from    the Wasco       County
+
+23                    Court.
+
+24                    (a)    Notify     the Wasco          County     Court       if unable       to resolve           the
+
+95                    complaint.
+
+26      ///11
+Page    } - ORDINANCE
+
+                                                     PPPZ~             OCS
+               (5)   If    the    complainant          and    resource     user        that    are    principles          in
+
+               a documented resource                  use complaint within Wasco County                              request
+
+               mediation         assistance       beyond       that    provided         by    the Wasco          County
+WwW
+
+               Extension Agent            or Designee,          the Wasco County Court                     shall
+ bp
+
+               request      the Complaint Mediation                   Committee           to act.
+ an
+
+               (6)   The Complaint Mediation                   Committee        shall:
+DD
+
+                     (a)    Set    a date    to hear          the    complaint         from both          complainant
+ NN
+
+                     and resource          user within          one week of notification                        by the
+ oOo
+
+                     Wasco       County    Court;       and
+ po
+
+10                   (b)    Work with       both       complainant        and       resource        user    in an
+
+11                   attempt       to resolve          the complaint.
+
+12             (7)   The Complaint Mediation                   Committee        may:
+
+13                   (a)    Ask the Wasco County Court to set up a Peer                                    Review       Board
+
+14                   for assistance           in determining whether                      an activity           or
+
+15                   facility       is    a generally          accepted        farming        or    forestry
+
+16                   practice       or facility;
+
+17                   (b)    Suggest       recommendations             for Peer         Review       Board       members        to
+
+18                   the    Wasco    County       Court;       and
+
+19                   (c)    Meet with       the       complainant        and    resource           user    any       number
+
+20                   of times       if the Complaint Mediation                       Committee        determines
+
+21                   that progress          is being          made    toward        a resolution           of    the
+
+22                   complaint.
+
+23             (8)   If the Complaint Mediation                      Committee         is unable          to resolve
+
+24             the complaint,            the complainant             and resource            user    shall be
+
+25             advised by the Complaint Mediation                         Committee           of their          additional
+
+26     ///T/
+
+Page   O\ — ORDINANCE
+
+                                              PI3~{     a)     _
+                                                                     2/5        ~    CO
+                                                                                              oy
+                options            including,             but    not    limited       to,     seeking       advice        from
+
+                private            counsel.
+ bo
+
+        Section        6        LAND     USE      DECISIONS.           The     fact       that Wasco        County's
+ Ww
+
+        Comprehensive               Plan,         Zoning        Ordinances          and     land    use    decisions           allow
+ ff
+
+        the    siting,           development              or    support       of    any particular              use    does     not
+ on
+
+        negate       the        provisions           of    this     Ordinance         intended        to protect           a
+ OD
+
+        resource           use.
+ nN
+
+        Section        7        EFFECT ON OTHER REMEDIES.                           The provisions              of this
+ oOo
+
+        Ordinance           shall not impair the right of any Wasco County resident                                                    to
+ po
+
+10      pursue       any remedy              authorized           by    applicable          Wasco     County          Ordinances        or
+
+il      Federal        and        State      laws     that:
+
+12               (1)       Concerns         matters            other    than       a resource        use    nuisance;
+
+13               (2)       Does     not      expressly           purport       to prohibit           or    regulate        a farming
+
+14              or forestry                 practice           as a resource          use nuisance;              or
+
+15               (3)       Prohibits           or regulates             the    use    or physical           condition           of
+
+16              resource use activities                           or facilities              that adversely             affect
+
+17              public            health       or    safety.
+
+18      Section        7        SEVERABILITY              CLAUSE.        If any portion              of this Ordinance
+
+19      is    held     invalid           by a Court             of competent          jurisdiction,              such    decision
+
+20      shall apply only with respect to the                                       specific portion held                 invalid        by
+
+21      the    decision.               It    is     the    intent       of Wasco          County     that       the    remaining
+
+22      portions           of     this      Ordinance           continue       in    full     force       and    effect.
+
+23      Section        8        EMERGENCY           CLAUSE.         This Ordinance             being       inmediately
+
+24      necessary           for the preservation                       of the public well being,                       an emergency
+
+25      is declared               to exist and this Ordinance                         shall        take effect          immediately
+
+26      upon     adoption.
+
+Page   \o — ORDINANCE
+
+                                                                PI        3-07               S& WW)
+                 Regularly                 passed          and       adopted          by   the     unanimous      vote   of     all
+
+       members          of     the         County          Court          of    the    County       of Wasco,      State       of Oregon,
+ND
+
+       present on this                         day.
+WO
+
+                 DONE AND                 DATED       this       21st          day    of April,       1993.
+ PP
+ on
+ OO
+
+       APPROVED           AS     TO        FORM:
+ nN
+
+          ve)                             ee          (}          -
+ oOo
+
+          of                         <               -                a
+          t od         sey get ton ad)     a       oe /.         A        Sed
+           "     Ne              a   et        i
+
+       Bernard          L.     Smith                                                   Sete AME Uf Uf
+ po
+
+       Wasco          County         District              Attorney
+                                                                                              ?                            a
+10
+
+11                                                                                     C.E.       Filbin,     County Commissioner
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+Page   \| — ORDINANCE
+
+                                                                 P73 - OFS                                  en)
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 95.6% of
+the word sequence, and on 0.9% of the figures. Dictionary-recognizable words: 94.9%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

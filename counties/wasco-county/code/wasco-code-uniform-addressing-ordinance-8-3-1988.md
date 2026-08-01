@@ -1,0 +1,344 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-uniform-addressing-ordinance-8-3-1988
+title: 'Uniform Addressing Ordinance 8-3-1988'
+doc_type: ordinance
+citation: 'Uniform Addressing Ordinance 8-3-1988'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1988/Uniform%20Addressing%20Ordinance%208-3-1988.pdf?t=202503260856120
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: cfb2220e1ec27a6bcd95d8d446015770c2ec737382239e80d1e14f0368788f44
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.957; figure agreement 0.818; dictionary ratio 0.963. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.110
+    - ORS 93.310
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 96%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Uniform Addressing Ordinance 8-3-1988 (Uniform Addressing Ordinance 8-3-1988)
+
+## At a glance
+
+OCR-derived text of Uniform Addressing Ordinance 8-3-1988. Not human-verified.
+
+## Full text
+
+FILED We
+                                                                                                                                          as       pad
+                                                                                                                                          thao
+                              IN     THE        COUNTY           COURT              OF     THE        STATE        OF     oREGON      |        :
+
+                                            IN       AND        FOR       THE        COUNTY            OF        WASCO
+
+IN THE MATTER OF AN AMENDMENT                                              )
+TO THE SOUTHERN WASCO COUNTY                                              )                           ORDINANCE
+UNIFORM ADDRESSING ORDINANCE                                              )
+
+THE    COUNTY           COURT        OF     WASCO           COUNTY,                 OREGON,            ORDAINS            AS    FOLLOWS:
+
+SECTION          1.           PURPOSE:
+
+       The        purpose             of         this           Ordinance                  ig     to     establish              an    expandable                 and
+       uniform            building                   numbering                      and        street            identification                     system        for
+       the   Southern    part                           of Wasco    County  which   is                                    defined              as  that  area
+       generally    south    of                         the   Willamette   Base  Line                                     between              the  Hast  and
+       West   boundaries     of                           the   County,    excluding                                       areas               within    city
+       limits.                  It         is        also        for           the       convenience                   and     necessity                 of    those
+       living            in        this          area           to    describe                  the      location              of    their           buildings
+       and       for     those        attempting                     to        locate           those            buildings.
+
+SECTION          2.           THE     SYSTEM:
+
+       The   system     is the Oregon Coordinate      System,  popularly  called the
+       Lambert     System,    which    is a conformal   grid system established by
+       the   U.S.    Coast    and   Geodetic   Survey     and defined  in ORS 93.310
+       through     93.380.    Each building to be numbered shall be assigned a
+       five    digit    address    based   on  the    distance    from the points  of
+       origin.
+
+SECTION          3.           IMPLEMENTATION:
+
+       The   provisions     of                          this   ordinance    shall                                  only        be   implemented                   and
+       enforced    in   those                           geographic    areas     of                                  the          county    where                  the
+       citizens               wish   to    have                       it enacted and/or where  it is convenient
+       for   the              County    to    do                      so,    These geographic areas may include
+       unincorporated                        communities,                              postal   delivery   areas    or                                         other
+       geographically                       identifiable                            areas.    It is the  intent  that                                         all  of
+       Southern               Wasco             County           defined                  in     this       ordinance               shall           in    time     be
+       numbered               according                    to        this            system.                      The        provisions                   of    this
+       Ordinance                shall            be         enacted                  by          order            of     the    County              Court       when
+       needed            for         those            geographic                     areas            identified.                   The        Planning           and
+       Development                   office                shall               be        responsible                   for     the    administration
+       and       enforcement                of       this        Ordinance.
+
+SECTION          4.           AUTHORITY:
+
+       This    Ordinance     is   enacted   pursuant    to                                                             authority                   granted         to
+       general     law   counties     by  Oregon   Revised                                                              Statutes                   203.035        and
+       adopted           pursuant               to    the        provisions                      in     ORS       215.110,
+
+Page    1    ~        Ordinance
+
+                                                                      PEL - 6328                            (9
+SECTION        5.   DEFINITIONS:
+
+                    (1)     Accessory                  Building             -         A       detached                    subordinate
+                            pbuilding,    the use of which is customarily incidental
+                            to   that   of   the main building or to the main use of
+                            the    land which is located on the same tract with the
+                            main building or use.
+
+                    (2)     Apartment              -     A     building           or       portion           thereof              designed
+                            for   residential                      use      and           containing                three          or    more
+                            dwelling units.
+
+                    (3)     Building         -~-        Any   structure                    built         for   the                support,
+                            shelter,               or      enclosure    of                  any         persons,                  animals,
+                            chattels,        or         property          of     any       kind.
+
+                    (4)     Camp,         Tourist,             or        Trailer           Park     -       Any     area          or    tract
+                            of   land used or designed                                to accommodate                     two       or    more
+                            camping outfits,  including                               cabins.
+
+                    (5)     Condominium  -   Individual    ownership  of a household
+                            unit in a multi-unit   structure or development.
+
+                    (6)     C                r                     -     One      to        four        multiple              dwellings
+                            arranged         around                two    or     three        sides          of     a    court          which
+                            opens   into           a    street.
+
+                    (7)     Dwellings              -     For           the   purposes     of                  this           Ordinance,
+                            dwellings                   are            separated      into                    the             following
+                            categories             and       herewith           defined        accordingly:
+
+                            (a)     is)            e           i                 ac            -        A    single           household
+                                    unit               whose       construction               is    characterized                       by    no
+                                    common              wall       or    ceiling           with     another              unit.
+
+                            (b)     Single    Family    Attached  (Duplex)   -  Two  (2)
+                                    household     units   which  share a common wall or
+                                    ceiling,    but no unit may have a ceiling common
+                                    to another unit.
+
+                            (a)     Single               Family          Attached           (Multiplex)                  -    Three          (3)
+                                    or       more             household               units         which               share          common
+                                    walls,    but    no    unit may                            have a ceiling common
+                                    to     another      unit.                                  Qtherwise    known  aS
+                                    Townhouses     or Row Houses.
+
+                            (d)     Multiple     Family      - Three    (3) or more household
+                                    units    with     common     walls or ceiling common to
+                                    another     unit.       Terms     of differentiation   for
+                                    Multiple     Family      include:       Garden  low Rise,
+                                    being               walk-up           structures               limited              to    a    maximum
+                                    of      two         stories;          Garden           Medium           Rise,        being
+
+Page   2   -    Ordinance
+
+                                                         PPE - C2 AS.
+                                       walk-up                 structures             limited           to      a        maximum        of
+                                       three               (3)             stories;            and     High         Rise,         being
+                                       elevator                structures            of    multiple          stories.
+
+                    (8)     Frontage     - All the property      fronting on one    (1) side
+                            of   a   street    between     intersecting     or intercepting
+                            streets,     or   between    a   street    anda   right-of-way,
+                            waterway     and/or    dead-end street and shall determine
+                            only   the boundary     of the frontage on the side of the
+                            street which it intercepts.
+
+                    (9)     Hotel       -        A       building            or     portion          thereof        of    more        than
+                            five    (5)      sleeping   rooms    designed   or   used    for
+                            occupancy     of   individuals    who    are  lodged    with or
+                            without    meals,   and in which no provision      is made for
+                            cooking         in       any       individual            room       or    suite.
+
+                    (10)    Let    -      A       unit            of        land     that       is    created        by     a    subdi-
+                            vision      of       land.
+
+                    (11)    Mobile          home           -      A        single     family          dwelling           unit     being
+                            used     for        residential                 purposes.
+
+                    (12)    Mobile          home           park        ~    Any place where four  (4) or more
+                            mobile          homes           are            located within five hundred   (500)
+                            feet       of   one    another                     on   a lot,  tract  or parcel  of
+                            land       under    the    same                   ownership,   the primary  purpose
+                            of     which   is              to     rent       space        or    keep    space        for        rent    to
+                            any    person.
+
+                    (13)    Street          -        The         entire       width        between       the        right-of-way
+                            lines   of    every    way   for   vehicular    and pedestrian
+                            traffic    and    includes   the terms   "roads",   "highways",
+                            “lane”,      “place”,      “avenue”,     "alley",    and   other
+                            Similar designations.
+
+                    (14)    Structure                -     Anything               constructed,               erected             or    air
+                            inflated,             permanent     or                   temporary,              which          requires
+                            location            on the  ground.
+
+SECTION        6.   There    is hereby established         a uniform system of numbering
+                    all    buildings      including,    but not necessarily     limited ta:
+                    dwellings,        apartments,       condominiums,     hotels,    motels,
+                    mobile     homes,    mobile     home    parks,  commercial    and indus-
+                    trial      buildings,       and     other    similar   buildings,     but
+                    excluding    accessory     buildings                                  and   other   structures                     not
+                    Similar   to    the  above  buildings,                                  now erected    or which                    may
+                    hereafter    be    erected   fronting                                 on all   streets   within                    the
+                    area    described            by      this         Ordinance.
+
+Page   3   -    Ordinance
+
+                                                           PIF -02 AS Us
+SECTION        7.      The      numbers               of        all     buildings               on     the       north        side      of    all
+                       streets              running              easterly           and         westerly               shall         be       odd
+                       numbers          and           the        numbers           for    all         buildings            on    the      south
+                       side      of         all        streets          running          easterly               and    westerly           shall
+                       be    even    numbers.       The   numbers  of all buildings   on the
+                       west     side   of   streets     running   northerly  and southerly
+                       shall     be   odd numbers    and the numbers of all buildings     on
+                       the    east    side    of  all    streets   running  northerly    and
+                       southerly     shall be even numbers.
+
+SECTION        8.      Pursuant     to    such    system,    the    proper    numbers shall be
+                       placed    as    near    to the main entrance of each building as
+                       is   practical      and    placed upon two sides of a mailbox        (if
+                       located     within     thirty    [30]    feet    of the driveway which
+                       enters    the    property),      or   other    similar post,   support,
+                       stake       or        pedestal                 which        cannot             be        easily          removed        or
+                       destroyed             and           is    within        thirty          (30)        feet       of   the     driveway
+                       which       enters              the       property.              Such     numbers              placed       near       the
+                       driveway     shall  be   easily    seen from either direction of
+                       the   road    and  shall have a reflective      surface to facili-
+                       tate   identification     at   night.    All numbers    shall be at
+                       least    two   and  one-half     (2 1/2) inches   in height and be
+                       legible.
+
+SECTION        9.      Assigned             numbers             for    all     existing          buildings,                described           in
+                       Section          4    of       this       Ordinance,             shall         be    placed         as    described
+                       in      Section            8        of     this         ordinance              within          sixty      (60)        days
+                       after       it      is    implemented                       for    any    area  by order  of the
+                       County           Court,     and    every                      building     thereafter    erected
+                       within          the    area    covered                      by the    order   shall have  placed
+                       upon   it,     and    in   full compliance with Section 8 of this
+                       ordinance,        the    number  assigned  by   the  Wasco     County
+                       Planning      and    Development   Office within thirty    (30) days
+                       after      the     completion     thereof.      The  Planning      and
+                       Development    Office   shall                           notify       the        necessary              agencies         of
+                       each new  number   assigned.
+
+SECTION        10.     Apartments,                trailer             and    mobile       home         parks,          hotels,          motels
+                       and      other    similar    buildings    shall                                     be assigned a number
+                       for      the   main    building    or  office;                                        other  living units
+                       within          the        group  shall               be    assigned            individual  numbers   or
+                       letters          by        the   owner.                     Duplexes,             multiplexes,   condo-
+                       mMiniums,            townhouses                 and other          similar buildings shall be
+                       assigned             individual                numbers  by         the Planning & Development
+                       Office.
+
+SECTION        11.     It      shall         be       unlawful           for      any    person            to    take      down,        alter,
+                       deface   or destroy any number assigned or to substitute                                                                or
+                       display    any  other number than the one given by virtue                                                               of
+                       the preceding   sections.
+
+Page   4   -        Ordinance
+
+                                                                  Pry-            O88           oy)
+SECTION         12.   In    case any building shall be incorrectly numbered or the
+                      number      thereof  shall    become  defaced  or   illegible, it
+                      shall     be    the duty   of   the owner or occupant thereof to
+                      correct                 the            same             within                 thirty                   (30)         days               after
+                      notification                  to       do    so.
+
+SECTION         13.   Any      owner               of        buildings              now        erected              or       hereafter                   erected
+                      within             an        area       covered              by    this         ordinance                    or     other           person
+                      having             custody    and                    control                  of any buildings,   who   shall
+                      refuse             or   neglect                    to    cause                  to  be placed   thereon    the
+                      number    in    accordance with this ordinance,    shall be fined
+                      in   any    amount    not to exceed ten dollars   for each day of
+                      the   violation,      but   that  the  fine shall not exceed one
+                      hundred dollars.
+
+SECTION         14.   Severability.                           The  provisions    of                                 this    ordinance   are
+                      severable.                        If     a section,  sentence,                                 clause   or phrase  of
+                      this   ordinance                        is     adjudged    by a   court     of                                         competent
+                      jurisdiction     to                     be    invalid,  the decision    shall                                         not affect
+                      the     validity              of       the    remaining                  portions                 of        this     ordinance.
+
+SECTION               That   this    ordinance   is necessary     for the   preservation     of
+                      peace,     health     and  safety    for    Wasco    County    and    its
+                      inhabitants      and,     therefore,     an    Emergency    is    hereby
+                      declared                to        exist            and       these        amendments                        shall     be           in    full
+                      force         and       effect          from        the       date        of      execution                    hereof.
+
+SECTION         16.   That          this           Ordinance                  be    filed            with       the          County         Clerk              this
+                      day.
+
+Regularly    passed                  and           adopted               by    &    unanimous                 vote           of      all    members              of.
+the   Co  ty   Court                     of    the       County           of       Wasco,            State          of       Oregon,             this          wie
+day    of       beseaict        ,    1988.
+
+                                                                                        WASCO         COUNTY             COURT
+
+ATTEST:
+                                                                                         lbs D Mbee
+                                                                                         UY
+                                                                                        County
+                                                                                                        btlyd)
+                                                                                                                    e
+                                                                                                                             VL     pMABL.
+
+ Zs C aden                          De        pee oy                                                                                                 é
+
+Karen LeBret@n                                                                            Sa                                 OR     276)
+
+                                                                                                AE                                   Ji fe)
+County Clerk                                                                            Coubtty         Commissioner
+
+APPROVED         AS   TO     FORM:                                                                             LL
+                                                                                                       VA     Of,        LL          oh
+                                                                                          7    re             7               oe                 ?
+                             LLIA                                                       Coun                ‘émmi        ss ionet            (
+
+Bernard L. Smith
+Wasco County District                         Attorney
+
+Page    5   -    Ordinance
+                                                                     PEE -63aS-                       (S)
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 95.7% of
+the word sequence, and on 81.8% of the figures. Dictionary-recognizable words: 96.3%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

@@ -1,0 +1,1034 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-ordinance-13-003-amending-uniform-fee-schedule-6-26-2013
+title: 'Ordinance 13-003 Amending Uniform Fee Schedule 6-26-2013'
+doc_type: ordinance
+citation: 'Ordinance 13-003 Amending Uniform Fee Schedule 6-26-2013'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Ordinance%2013-003%20Amending%20Uniform%20Fee%20Schedule%206-26-2013.pdf?t=202503260855550
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 42e8cdcfb55e9d3118dbb19be809de3e0b04f230f1d92228e69f338fe6411038
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.968; figure agreement 0.962; dictionary ratio 0.924. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.035
+    - ORS 205.320
+    - ORS 205.323
+    - ORS 209.260
+    - ORS 271.230
+    - ORS 471.166
+    - ORS 517.030
+    - ORS 517.220
+    - ORS 517.290
+    - ORS 92.090
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 97%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Ordinance 13-003 Amending Uniform Fee Schedule 6-26-2013 (Ordinance 13-003 Amending Uniform Fee Schedule 6-26-2013)
+
+## At a glance
+
+OCR-derived text of Ordinance 13-003 Amending Uniform Fee Schedule 6-26-2013. Not human-verified.
+
+## Full text
+
+Bone
+
+                                                                       A BRowy
+                                                                     Las
+
+                                                                    COURTY cep,
+       IN THE BOARD OF COMMISSIONERS              OF THE STATE OF OREGON               ©
+
+                        IN AND   FOR THE COUNTY       OF WASCO
+
+IN THE MATTER OF AMENDING                   )
+WASCO COUNTY’S UNIFORM FEE                  _)    ORDINANCE
+SCHEDULE FOR VARIOUS COUNTY                 )     #13-003
+DEPARTMENTS                                 )
+
+THE BOARD OF COMMISSIONERS                OF WASCO    COUNTY,    OREGON,        DOES
+
+ORDAIN AS FOLLOWS:
+
+       Section 1.      PURPOSE
+
+      The purpose of this Ordinance is to amend established uniform fees to be
+
+collected by Wasco     County Departments for performing the service required or
+
+necessitated by various state statutes.
+
+       Section 2.     . AUTHORITY
+
+      This Ordinance is enacted pursuant to the authority granted to general law
+
+Counties by ORS      203.035 and by Chapter 833 in the 1979 Oregon      Laws.
+
+       Section 3.     © FEE SCHEDULE
+
+       The following fees shall be charged and collected by the indicated
+
+Department before the filing recording or copying of subject documents shall be
+
+compieted:
+
+       (A)    WASCO      COUNTY DEPARTMENTS
+
+              (1)      The fee for photocopies shali be $0.25 per sheet for 8.5 x 11”
+
+                    paper and 8.5 x 14” paper.
+
+                                                                                Page 1 of 20
+ORDINANCE    13-003
+                                                                            WASCO COUNTY, OREGON
+                                                                            COMMISSIONER'S     JOURNAL
+
+                                                                            CJ2043-000187
+             (2)        The fee for photocopies shall be $1.00 per sheet for 11 x 17”
+
+                    paper or larger.
+
+             (3)     | The fee for computer screen printout shall be $0.25 per sheet.
+
+             (4)       The fee for electronic copies shall be $0.25 per page.
+
+             (5)       ‘The fee for providing content on media discs shall be
+
+                    $15.00 per disc.                                  |
+
+             (6)     | The search fee shall be $40.00 per hour, with one hour
+
+                    minimum.
+
+             (7)     | The computer report fee shall be $40.00 plus actual printing and
+
+                    materia! cost.
+
+             (8)       The fee for computer labels shail be $40.00 plus actual printing
+
+                    and material cost.
+
+             (9)       The fee for fax transmissions shall be $3.00
+
+             (10)      The fee for electronic information services shall be $40.00 per
+
+                    hour with a one hour minimum.
+
+             (11)      The fee for micro-fiche and micro-film copies shail be $0.50 per
+
+                    sheet.
+
+             (12)      The fee for color photocopies shall be $1.00 per sheet.
+
+             (13)      The fee for a copy of the Wasco County Budget shall be $20.00.
+
+       (B)   WASCO COUNTY SURVEYOR’S OFFICE
+
+             (1)       The fee for performing the services set forth in ORS   209.260
+
+                    shall be $150.00 for the filing and indexing of a new map of a
+
+                    survey (no limit on size or number of sheets).
+
+                                                                              Page 2 of 20
+. ORDINANCE 13-003
+            (2)       The fee for Blue Line Printing shall be $0.30 per sq. ft. ($1.00
+
+                  minimum).
+
+            (3)       The fee for the Surveyor to check partition plats, property line
+
+                  adjustment plats, and replats shal! be $400.00.
+
+            (4)       The fee for the Surveyor to check subdivision plats and
+
+                  subdivision replats shall be $525.00 per piat plus $50.00 per
+
+                  building.
+
+            (5)       The fee for the Surveyor to check condominium plats shall be
+
+                  $525.00 per plat pius $50.00 per building.
+
+     (C)    WASCO COUNTY YOUTH SERVICES DEPARTMENT
+
+            (1)       The fee for formal probation shall be $30.00 per charge or group
+
+                  of charges occurring on the same date.
+
+            (2)       The fee for informai probation shall be $10.00 per charge of
+
+                  group of charges occurring on the same date.
+
+            (3)       The fee for ail urine analysis tests shall be $10.00 with an
+
+                  additional $5.00 fee for all tests resulting in a positive finding for
+
+                  control substances.
+
+            (4)       The fee for all first referrals of minor in possession of alcohol
+
+                  shall be $100.00.
+
+            (5)       The fee for probation violation upheld by a Court filing shall be
+
+                  $50.00.
+
+            (6) The fee for completing and filing expunctions shail be $60.00.
+
+     (D)    WASCO COUNTY CLERK’S OFFICE
+
+                                                                                Page 3 of 20
+ORDINANCE   13-003
+            (1)        The fee for performing the servi9ces set forth in ORS 92.090,
+
+                  92.100 and 271.230 and 205.350 shall be as follows:
+
+                       (a)       For approval by the County Court, County Assessor and
+
+                             County Treasurer of any plat, the County Clerk shall collect
+
+                             $10.00 for each Department’s approval:
+
+            (2)        For recording and indexing any plat, the County Clerk, in whose
+
+                  office the deeds of the County are kept, shail charge as follows:
+
+                       (a)       For plats containing 20 jots or less - $35.00
+
+                       (b)       For plats containing over 20 lots - $50.00
+
+                     , (c)       For more than one sheet per piat - $5.000 per additional
+
+                             sheet.
+
+                       (d)       For partition plats - $35.00.
+
+            (3)        The fee for performing the services set forth in ORS 271.230(2)
+
+                  for the services of the County Surveyor for marking the record upon
+
+                  the original plat shail be $15.00 to be collected by the County Clerk
+
+                  and paid to the County Surveyor.
+
+            (4)        The fee for a transcript from the County Clerk lien docket to
+
+                  Circuit Court shall be $10.00 which is set forth in ORS 205.320(13).
+
+            (5)        The fee for performing the services set forth in ORS 517.030
+
+                  shail be $5.00 per page paid to the County Clerk who shall
+
+                  immediately pay over said sum to the County Treasurer.
+
+            (6)        The fee for performing the services set forth in ORS 517.220
+
+                  shail be $5.00 per page.
+
+ ,                                                                               Page 4 of 20
+ORDINANCE   13-003
+           (7)       The fee for performing the services set forth in ORS 517.290
+
+                  shall be $5.00 per page.
+
+           (8)       The fee for performing the services set forth in ORS 471.166(7)
+
+                  for liquor license application recommendation shall be $25.00 per
+
+                  license.
+
+           (9)        The fee for staff to act as witness to a marriage shall be $15.00
+
+                  per witness.
+
+           (10)       The fee for a time waiver for a marriage license shall be $15.00.
+
+           (11)       The fee for amending a filed record of marriage or marriage
+
+                  certificate shall be $25.00.
+
+           (12)       The fee for “Certificate of Consent to Marriage of a Minor” shall
+
+                  be $15.00.
+
+           (13)       The fee to reissue a Marriage License shall be $25.00.
+
+           (14)       The fee per document assessed the Affordable Housing fee of
+
+                  $15.00 for the fee collections services provided by Wasco    County
+
+                  on behalf of the Oregon Housing and Community Services
+
+                  Department, as required by ORS 205.323(1)(c) shall be $1.00 to be
+
+                  deposited into the general fund Clerk’s Fees
+
+                  (101.15.5115.411.124).
+
+     (E)   WASCO         COUNTY     SHERIFF’S OFFICE
+
+           (1)        The fee for providing a copy of a crime report shail be $5.00 per
+
+                  request, plus a $0.50 per page.
+
+                                                                              Page 5 of 20
+ORDINANCE 13-003
+           (2)         The fee for providing a copy of an accident report shail be $5.00
+
+                 per request, plus $0.50 per page.
+
+           (3)         The fee for taking a complete set of fingerprints and providing
+
+                 an inked set shall be $15.00 per card.
+
+           (4)         The fee for providing copies of cassette tapes or audio CDs
+
+                 shail be $10.00 per tape or $15.00 per CD.
+
+           (5)         The fee for photographs shall be $10.00 per roll or $15.00 per
+
+                 CD.
+
+           WASCO         COUNTY     FINANCE OFFICE
+
+           (1)         The fee for placing a stop payment on a Wasco County issued
+
+                 check shail be $33.00 per check.
+
+           (2)         The fee for a returned item (non-sufficient funds, account
+
+                 closed, etc.) deposited to a Wasco County bank account shall be
+
+                 $25.00 per check.
+
+     (G)   WASCO         COUNTY COMMUNITY CORRECTIONS                DEPARTMENT
+
+           (1)         The fee for Monitored Bench Probation placement and
+
+                 supervision shall be $120.00 (one-time fee).
+
+           (2)         The fee for Monitored DA Diversion placement and supervision
+
+                 shall be $120.00 (one-time fee).
+
+           (3)         The fee for DUII evaluation and compliance monitoring shall be
+
+                 $990.00 (one-time fee).
+
+           (4)    _ The fee for interstate compact transfer request processing
+
+                 (Oregon as the sending State) shall be $50.00 (one-time fee).
+
+                                                                              Page 6 of 20
+ORDINANCE 13-003
+           (5)       The fee for active parole and/or probation supervision shall be
+
+                  $35.00 per month.
+
+           (6)       The fee for community service work program evaluation,
+
+                  placement and monitoring shal! be $35.00.
+
+           (7)       The fee for laboratory drug testing fees shali be (a) $15.00 (per
+
+                  sample) for in-lab tests (b) $7.50 for instant tests.
+
+           (8)       The fee for DNA sample draw and processing shall be $10.00
+
+                  (one-time fee).
+
+           (9)       The fee for inter-county transfer request processing (Wasco
+
+                  County as the sending County) shail be $25.00 (one-time fee).
+
+           (10)      The fee for electronic home detention program placement and
+
+                  monitoring shall be $8.00 per day.
+
+           (11)      The fee for photocopy material requested shall be $1.00 per
+
+                  sheet.
+
+           (12)      The fee for a Trip Permit to travel out of state shall be $3.00 per
+
+                  each trip permit issued.
+
+           (13)      The fee for providing   a Department of Motor Vehicle (DMV)
+
+                  Letter shall be $10.00.
+
+           (14)       The fee for a Non-Departmental Drug Screen shall be $45.00.
+
+           (15)       The one-time set-up fee for non-departmental electronic
+
+                  monitoring shall be $250.00.
+
+           (16)       The fee for non-departmental electronic monitoring shall be
+
+                  $55.00 per day.
+
+                                                                             Page 7 of 20
+ORDINANCE 13-003
+           WASCO        COUNTY       DEPARTMENT     OF ASSESSMENT AND TAX
+
+           (1)       The fee for mapping changes and new plats shall be $540.00.
+
+           (2)       The fee for calculating farm/forest disqualifications shail be
+
+                 $40.00, minimum hourly fee per account. To be applied against
+
+                 penalty if the account is disqualified within 90 days.
+
+           (3)       The fee for certifying true copies shall be $5.00.
+
+           (4)       The fee for completing and processing the change of ownership
+
+                 status for a manufactured siructure in the LOIS System to “Exempt
+
+                 From Title” shall be $55.00. If a Title Company completes the forms
+
+                 and presents the complted documents to the Tax Collector for
+
+                 review and processing the fee shall be $25.00.
+
+                     WASCO     COUNTY     PUBLIC WORKS       DEPARTMENT
+
+           (1)    _ The fee for filing a Road Vacation Petition shall be $500.00 per
+
+                 Petition.
+
+           (2)       A deposit of $500.00 shall be required for processing and
+
+                 inspecting of a motor vehicle road rally. Applicants shall be billed
+
+                 for actual costs.
+
+           WASCO        COUNTY       INFORMATION    SERVICES     DEPARTMENT
+
+           (1)       The Hourly Service Fee for services rendered shall be $120.00
+
+                 per hour.
+
+Hit
+
+Mil
+
+Mi
+
+                                                                             Page 8 of 20
+ORDINANCE 13-003
+      (K)   ©WASCO COUNTY PUBLIC HEALTH                    - ENVIRONMENTAL HEALTH
+
+            Applicable Oregon Department of Environmental Quality fees will
+
+            be charged in addition to the following local Environmental Health
+
+            fees.
+
+            (1)     On-Site Sewage Disposal Systems Fees shall be as follows:
+
+                    a.   New Site Evaluation:
+
+                              i. Single Family Dwelling                             $ 436.00
+
+                             ii.   Commercial Facility System Evaluations Authorized
+
+                                   by DEQ to Contract County:
+
+                                      1.   For first one thousand (1,000) gallons
+
+                                           projected daily sewage flow              $ 462.00
+
+                                      2.   For each five hundred (500) gallons or part
+
+                                           thereof above 1,000 gallons but less than
+
+                                           2,500 gallons                            $ 98.00
+
+            (2) Construction-Installation Permit
+
+                    a.   For first 1,000 gallon projected daily sewage flow:
+
+                              i. Standard On-Site System                            $ 477.00
+
+                    b.   Alternative System
+
+                              i.   Aerobic System                                   $1018.00
+
+                             ii. Capping Fill                                       $ 878.00
+
+                            iii.   Disposal Trenches in Saprolite                   $ 473.00
+
+                           iv.     Gray Water Waste Disposal Sump                   $ 236.00
+
+                            v.     Pressure Distribution                            $ 847.00
+
+                                                                                Page 9 of 20
+ORDINANCE 13-003
+                               vi.     Redundant                                  $ 583.00
+
+                              vil.     Sand    Filter                             $   998.00.
+
+                              viii.    Seepage Trench                             $ 525.00
+
+                                ix.    Steep Slope                                $ 525.00
+
+                                x.     Tile Dewatering                            $1018.00
+
+                               xi.     Alternative Treat Technologies             $1018.00
+
+                   c.       With the exception of sand filters and pressure distribution
+
+                            systems, a $42.00 fee may be added to all permits that
+
+                            specify the use of a pump or dosing siphon.
+
+                        .   Permit Transfer, Reinstatement or Renewal:
+
+                                  i.   If Field Visit Required                    $ 205.00
+
+                                 ii.   No Field Visit Required                    $    44.00
+
+                        . For systems with projected daily sewage flows greater than
+
+                            1,000 gallons, the construction installation permit fee shail
+
+                            be equal to the fee required on (K)(2)(a)(i) plus $100 for
+
+                            each 500 gallons or part thereof above 1,000 gailons.
+
+           (3) Alteration Permit
+
+                   a.       Major                                                 $   347.00
+
+                   b.       Minor                                                 $ 126.00
+
+           (4) Repair Permit
+
+                   a.       Singie Family Dwelling:
+
+                                  i.   Major                                      $ 278.00
+
+                                 ii.   Minor                                      $    74.00
+
+                                                                              ‘Page 10 of 20
+ORDINANCE 13-003
+           (5) Authorization Notice
+
+                   a.   If field visit required                            $236.00
+
+                   b.   No field visit required                            $    79.00
+
+           (6) Annual Evaluation of Alternative System                      $226.00
+
+           (7) Renewal of Hardship Authorization for Temporary Dwelling
+
+                   a.   If field visit required                             $226.00
+
+                   b.   No field visit required                            $131.00
+
+           (8) Existing System Evaluation Report                           $236.00
+
+                   Site evaiuation or permitting of any commercial facility system
+
+                   delegated to County shail follow same fee schedule as the
+
+                   Department of Environmental Quality.
+
+           (9) Pumper Truck Inspection
+
+                   a.   First vehicle, each inspection                      $113.00
+
+                   b.   Each additional vehicle, each inspection            $   76.00
+
+           (10)    Refunds:
+
+                   A refund may be made of ail or a portion of a fee accompanying
+
+                   an application if the applicant withdraws the application before
+
+                   any field work or other substantial review of the application has
+
+                   been done.
+
+                   a.   Annual report evaluation fee holding tank           $   63.00
+
+                        Each of the above Environmental Health fees includes a
+
+                        $100.00 DEQ surcharge that will be forwarded to the State
+
+                        Department of Environmental Quality.
+
+                                                                         Page 11 of 20
+ORDINANCE 13-003
+           (11)    Record search, if not part of an onsite application and exceeds
+
+                   15 minutes (flat rate)                                   $   32.00
+
+           (12)    Field Consultation Fee(one hour minimum)        $   63.00/hour
+
+     (L) WASCO     COUNTY    PUBLIC HEALTH — IMMUNIZATIONS
+
+                                               Cost                Injection Fee
+
+                   Hep A (Adult)(Havrix)       $ 26.60             $21.96
+
+                   Hep A (Ped/adol)(Havrix)    $ 18.40             $21.96
+
+                   DTaP/PV (Kinrix)            $ 44.20             $21.96
+
+                   DTaP   (infanrix)           $ 18.50             $21.96
+
+                   Td (Decavac)                $ 20.39             $21.96
+
+                   elPV (IPOL)                 $ 26.66             $21.96
+
+                   MMR (MMRII)                 $ 54.01             $21.96
+
+                   MMR-V (ProQuad)             $144.47             $21.96
+
+                   Hib (ActHIB)                $   18.79           $21.96
+
+                   Hep A/B (Twinrix)           $   52.50           $21.96
+
+                   Hep B (Newborn — 19)
+
+                   (Energix-B)                 $   13.25           $21.96
+
+                    Hep B (20 & over)(adult)
+
+                   (Energix B)                 $   33.50           $21.96
+
+           (13)    Varicella (Varivax)         $   94.88           $21.96
+
+           (14)    HPV (Gardasil)              $131.52             $21.96
+
+           (15)    Meningococcal
+
+                   a.   Menactra               $106.49             $21.96
+
+                                                                        Page 12 of 20
+ORDINANCE 13-003
+                       b.    Menveo              $   99.72   $21.96
+
+              (16)     DTaP/IPV/Hib(Pentecel)    $   80.43   $21.96
+
+             (17)      Pev 13 (Prevnar 13)       $128.16     $21.96
+
+             (18)      DTaP/HepB/IPV(Pediarix)   $   65.95   $21.96
+
+             (19)      PPD                       no charge   $21.96
+
+             (20)      Rotavirus (Rota Teq)      $   75.13   $21.96
+
+             (21)      Tdap
+                       a.    Boostrix            $   33.08   $21.96
+
+                       b. Adacel                 $   32.13   $21.96
+
+             (22)      Td (Decavac)              $   20.39   $21.96
+
+     (M)    WASCO      COUNTY PUBLIC HEALTH — FAMILY PLANNING     & STD
+
+           FEES
+
+                                                 New         Established
+
+             (1)       Minimal/Brief             $ 93.00     $ 42.00
+
+             (2)       Minor/Limited             $161.00     $ 93.00
+
+             (3)       Low/Intermediate          $232.00     $157.00
+
+             (4)      | Moderate/Comprehensive   $354.00     $231.00
+
+             (5)     — High/Comptete             $439.00     $310.00
+
+             (6)       Preventive visit, 12-17   $261.00     $228.00
+
+             (7)       Preventive visit, 18-39   $261.00     $228.00
+
+             (8)       Preventive visit, 40-64   $294.00     $262.00
+
+             (9)       Preventive visit, 65+     $294.00     $262.00
+
+             (10)      Individual Counseling     $   77.00   $   77.00
+
+                                                                  Page 13 of 20
+ORDINANCE    13-003
+                   IUD Insertion                $150.00     $150.00
+
+                   IUD Removal                  $206.00     $206.00
+
+                   Diaphragm/Cervical Cap
+
+                   Fit                          $132.00     $132.00
+
+           (14)    Injection, thearputic/
+
+                   Phopholactic/diag., sc/im    $   40.00   $40.00
+
+           (15)    Contraceptive Capsule
+
+                   insert                       $289.00     $289.00
+
+           (16)     Contraceptive Capsule
+
+                   Removal                      $326.00     $326.00
+
+           (17)    Contraceptive Capsule
+
+                   Insert   & Removal           $485.00     $485.00
+
+           (18)    Vasectomy                    $847.00     $847.00
+
+     (N) WASCO     COUNTY     PUBLIC HEALTH — MEDICATION & SUPPLIES
+
+                   Hematocrit/Hemoglobin        $13.00
+
+                   Hemocuit                     $18.00
+
+                   HIV Rapid Test               $35.00
+
+                   Pregnancy Test              . $20.00
+
+                   Orasure                      $ 7.00
+
+                   Urinalysis, dip stick        $12.50
+
+                   Venipuncture, routine        $15.00
+
+                   Wet Mount                    $34.00
+
+                                                                Page 14 of 20
+ORDINANCE 13-003
+            (9)      DepoProvera                       $18.60
+
+            (10)     Vaginal contraceptive film        $   .99
+
+            (11)     Encare                            $   6.62
+
+            (12)     Diaphragm                         $ 20.40
+
+            (13)     Implanon/Nexplanon                $357.55
+
+            (14)     10D Paragard                      $203.55
+
+            (15) IUD Mirena                            $334.35
+            (16)     Apri                              $    8.41
+
+            (17)     Lo-ovral/Lo-ogestrel              $    7.75
+
+     (O) Wasco County Public Heaith Licensed Facility Fee Schedule
+
+            (1)      Food Service Fees
+
+                     a.     Full service restaurant fees based on seating criteria:
+
+                                     0-15 Seats                                       512.00
+
+                                     16-50 Seats                                      575.00
+
+                                                                                 FF
+                                     51-150 Seats                                     656.00
+                                                                                 FF
+                                     Over 150 Seats                                   732.00
+                                                                                 fF
+
+                                     Bed & Breakfast                                  222.00
+                                                                                 Ff
+
+                               vi.   Limited Service Restaurant                       291.00
+                                                                                 Ff
+
+                              Vii.   Commissary                                       366.00
+                                                                                 fF
+
+                             viii.   Mobile Unit                                      347.00
+                                                                                 fF
+
+                               ix.   Warehouse                                        146.00
+                                                                                 nf
+
+                     b.     Temporary Restaurant Licenses:
+
+                                     One Day Events                              $     54.00
+
+                                                                              Page 15 of 20
+ORDINANCE   13-003
+                            ii.     Two or More Day Events                      $   76.00
+
+                   c.   Temporary Restaurant Licenses if NOT received at least four
+
+                        days prior to the event:
+
+                               i.   One Day Events                              $   76.00
+
+                            ii.     Two or More Day Events                      $ 130.00
+
+                   d.   Seasonal License Fees:
+
+                               i.   Seasonal/Intermittent License Fee           $   75.00
+
+                           ii.      Seasonal/Intermittent Plan Review Fee       $   75.00
+
+                           ii.      Seasonal/Intermittent Re-inspection Fee     $   50.00
+
+                   Plan Review Fees for Food Service
+
+                   a.   Full Service Restaurant                                 $ 353.00
+
+                   b.   Bed & Breakfast                                         $ 105.00
+
+                   c.   Limited Service Restaurant                              $   105.00
+
+                   d.   Commissary                                              $   177.00
+
+                   e.   Mobile Unit                                             $   122.00
+
+                   f.   Warehouse                                               $    72.00
+
+                   g.   For Remodeling
+
+                               i. Full Service Restaurant                       $ 141.00
+
+                               ii, All other Food Facilities                    $   76.00
+
+           (3)     Vending Machines (by number of machines):
+
+                   a.   1-10                                                    $   41.00
+
+                   b.   11-20                                                   $   75.00
+
+                   c.   21-30                                                   $   111.00
+
+                                                                              Page 16 of 20
+ORDINANCE 13-003
+                   d.   31-40                                                 $   145.00
+
+                   e. 41-50                                                   $   180.00
+
+                   f.   51-75                                                 $   221.00
+
+                   g.   76-100                                                $   291.00
+
+                   h.   101-250                                               $   511.00
+
+                   i.   251-500                                               $   3808.00
+
+                   j.   501-750                                               $1,098.00
+
+                   k.   751-1,000                                             $1,347.00
+
+                   I.   1,001-1,500                                           $1,755.00
+
+                   m. Over 1,500                                              $2,196.00
+
+           (4)     Other Food Service Fees
+
+                   a.   Mobile Inspection Fee - per inspection
+
+                   (For units licensed through other jurisdictions)           $    25.00
+
+                   b.   Quarterly Inspection Fee — per inspection (a result of getting
+
+                        a score of less than 70 on 2 consecutive, unannounced
+
+                        semi-annual inspections)                              $   222.00
+
+                   c.   Hard Copy of Food Sanitation Rules       -percopy     $    10.00
+
+           (5)     Tourist Facility Fees: **
+
+                   a.   Bed & Breakfast                                       $    92.00
+
+                    b. Travelers Accommodation                                $    98.00
+
+                   c.   Organizational Camp
+
+                            i,   0-300 campers                                $   325.00
+
+                           ii.   301-600 campers                              $   434.00
+
+                                                                            Page 17 of 20
+ORDINANCE 13-003
+                            iii.   More than 600 campers                          $1,844.00
+
+                    d.   Picnic Park                                              $     92.00
+
+                    e.   Recreation Park
+
+                              i,   Base Fee                               $    98.00 plus
+
+                                       1.   $3.00 per space for 1-50 RV spaces pilus
+
+                                       2.   $2.50 per space for 51-100 RV spaces plus
+
+                                       3.   $2.00 per space for over 100 RV spaces
+
+                    Facilities that renew later than January 15 will be assessed a
+
+                    penalty fee of 50% on the first day of each successive month of
+
+                    delinquency.
+
+           (6)     | Swimming Pool & Spa Fees
+
+                    a.   First Pool/Spa                                          $     212.00
+
+                    b.   Additional Pool/Spa                                     $     127.00
+
+                    c.   Plan Review Fees for Pools & Spas                       $     421.00
+
+           (7)      Unlicensed Facilities
+
+                    a.   School (food service inspection)                        $      98.00
+
+                    b.   Daycare Inspection                                      $      98.00
+
+                    c.   Institutional Inspection (Jail, Nursing Home, etc.)     $      98.00
+
+           (8)      All Facilities
+
+                    a.   A $100.00 fee (per inspection) will be charged for any facility
+
+                         requiring more than two re-inspections, following a regular
+
+                         inspection.
+
+Hil
+
+                                                                               Page 18 of 20
+ORDINANCE 13-003
+       (P) Wasco County Public Health — Miscellaneous Fees
+
+              (1)      Vital Records
+
+                       a.   First copy                                   $   20.00
+
+                       b.   Additional copies of the same record
+
+                               ordered at the same time                  $   15.00
+
+              (2)      Medical Record Copies: No charge to healthcare providers,
+
+                    other authorized persons will be charged according to their current
+
+                    contract with the Health District. Clients or other authorized persons
+
+                    without a contract may be responsible for a payment of $40 per
+
+                    hour for File Search Fee plus $0.25 per page for photocopies. The
+
+                    fee for fax transmission is $3.00 plus $0.25 per page. Immunization
+
+                    records are excluded. If the client is low income he/she may qualify
+
+                    for a sliding fee schedule. However, there is a $5.00 minimum fee
+
+                    for any request.
+
+SECTION 4 — ENACTMENT PROVISIONS
+
+       (1)    CONFORMANCE WITH LAW
+
+       Except as expressly provided herein, this Ordinance shall in no way be a
+
+substitute for or eliminate the necessity of conforming with any and all State and
+
+Federal laws, rules and regulations including but not limited to the payment of all
+
+other fees required by law and other Ordinances which are now or may be in the
+
+future in effect which relate to the requirements provided in this Ordinance.
+
+Hil
+
+Hil
+
+                                                                              Page 19 of 20
+ORDINANCE 13-003
+                      (2)    SEPARABILITY
+
+                      If any section, subsection, sentence, clause, phrase or portion of this
+
+        Ordinance is for any reason held invalid or unconstitutional by a Court of competent
+
+        jurisdiction, such portion shall be deemed a separate, distinct and independent
+
+        prevision and such holdings shall not affect the validity of the remaining portion of
+
+        this Ordinance.
+
+                      (3)    EFFECTIVE DATE
+
+                      This Ordinance shail take effect on September 24, 2013, upon its adoption.
+
+                      Regularly passed and adopted by the Board of Commissioners of the County
+
+        of Wasco, State of Oregon, bya            <3   to O _ vote on this 26" day of June, 2013.
+
+                                                         WASCO COUNTY BOARD
+                                                         OF COMMISSIONERS.
+
+                                                                             VL De
+                                                         Rod Rudnyén, Comnissiog’Chair      XN
+Executive Assistant
+
+                                                         Scott Hege, County Commissioner
+
+ APB             D.         O FO
+
+                       _
+            «€
+
+                                                          SDI
+                                     ‘    -
+
+                                                                                ime
+                                                                ~.,
+
+ Eric J. Nisley                                          Steve Kramer, County Commissioner
+ District Attorney
+
+                                                                                         Page 20 of 20
+        ORDINANCE           13-003
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 96.8% of
+the word sequence, and on 96.2% of the figures. Dictionary-recognizable words: 92.4%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

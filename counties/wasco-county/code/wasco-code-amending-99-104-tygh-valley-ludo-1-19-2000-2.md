@@ -1,0 +1,255 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-amending-99-104-tygh-valley-ludo-1-19-2000-2
+title: 'Amending 99-104 Tygh Valley LUDO 1.19.2000 (2)'
+doc_type: ordinance
+citation: 'Amending 99-104 Tygh Valley LUDO 1.19.2000 (2)'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2000/Amending%2099-104%20Tygh%20Valley%20LUDO%201.19.2000%20(2).pdf?t=202503260855260
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 86630e4df824913eb6b1ac3bee38134b7f3b6dbd913ae6943d92cae4bc9dbe6d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.972; figure agreement 0.886; dictionary ratio 0.937. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.610
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 97%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Amending 99-104 Tygh Valley LUDO 1.19.2000 (2) (Amending 99-104 Tygh Valley LUDO 1.19.2000 (2))
+
+## At a glance
+
+OCR-derived text of Amending 99-104 Tygh Valley LUDO 1.19.2000 (2). Not human-verified.
+
+## Full text
+
+FILED WASCO CTY
+                                                                                         THE DALLES OR,
+                          IN THE COUNTY COURT OF THE STATE OF OREGON
+                                                                                                            '
+                                  INAND FORTHE. CounTYorwasco                         Jan 21-9 So AN "00
+                                                                                     KAREN fi. LEBRETON
+IN THE MATTER OF AN AMENDMENT
+                            TO ORDINANCE
+                                       NO.                                     )       COUNTY CLERK
+99-104, THE WASCO COUNTY LAND USE AND                                          ) AMENDING
+DEVELOPMENT ORDINANCE, CHAPTER3, SECTIONS 3.602                                ) ORDINANCE
+AND 3.603 FOR THE TYGH VALLEY RURAL COMMUNITY                                  ) 99-104
+(FILE #PR-99-101-ZO-L
+                    AND #PR-99-102-CP-L).                                      )
+
+        NOW ON THIS DAY, the above-entitled matter having come on regularly for consideration, said day
+
+being one duly set in term for the transaction of public business and a majority of the Court being present; and
+
+       » ITAPPEARING TO THE COURT:              That on August 18, 1999, the Wasco County Court approved
+
+Ordinance No, 99-104, to amend the Wasco County Comprehensive Plan text and map and Land Use and
+
+Development Ordinance text and map to rezone the Rural Service Center of Tygh Valley in order to meet
+
+the Rural Communities Rule and reflect their vision of the community; and
+
+        IT FURTHER APPEARING TO THE COURT:                      That the Wasco County Planning Department
+
+has proposed an amendment to Ordinance No. 99-104 to clarify the conditional use provisions for the
+
+Commercial and Light Industrial/Commercial zones in the Rural Service Center of Tygh Valley and; that
+
+the Department     of    Land    Conservation    and   Development     has identified    an amendment      to the
+
+comprehensive plan necessary to complete the work task. The Department is recommending that the
+
+comprehensive plan      be further amended to better explain the county process for obtaining approval and
+
+acknowledgement of a community sewer or water system, and for the creation of two acre lots once the
+
+sewer/water system is acknowledged.
+
+[ORDINANCE 99-104 AMENDMENT - Page 1 of 3]
+
+                                                                             Jaco -0oe (+)
+         IT FURTHER APPEARING TO THE COURT:                    That an emergency exists in Wasco County due to
+
+the immediate need to amend Ordinance No. 99-104, which implements zoning regulations for the Rural
+
+Community of Tygh Valley.
+
+                  IT   FURTHER      APPEARING    TO THE COURT:       That at 10:00 a.m. on January 5, 2000, in the
+
+Wasco County Courtroom,       Room 202, of the Wasco County Courthouse, in The Dalles, Oregon, this Court met
+
+to conduct a legislative public hearing on the above matter.     The members of the Court were determined to be
+
+qualified to hear the matter; and
+
+         IT FURTHER APPEARING TO THE COURT:                    That the Court reviewed the recommendation from
+
+Planning Staff and the letter from the Oregon Department of Land Conservation and Development Commission,
+
+and received testimony and evidence, then closed the hearing for further input,       The Court then deliberated,
+
+resulting in a unanimous vote to adopt the proposed amendments           to the Wasco County Land Use and
+
+Development Ordinance, Chapter 3, Sections 3.602.D. (Tygh Valley Commercial Zone) and 3.603.D.
+
+(Tygh   Valley   Light   Industrial/Commercial     Zone)   to clearly state square      footage   requirements   for
+
+buildings as required by the Oregon Department of Land Conservation and Development and to amend
+
+Goal 11 (Public Facilities and Services) of the comprehensive plan policy to include an implementation
+
+statement, Policy 6, a new policy, to meet the requirements               of the Oregon      Department of Land
+
+Conservation and Development.          Based upon the full record and evidence and testimony presented, the Court
+
+being fully apprised in the premises, did hereby make the following findings of fact and conclusions of law:
+
+                                                FINDINGS OF FACT
+
+1,   Proper notice was given and the hearing was held in accordance with procedural rules for legislative
+     hearings and in conformity with said requirements as set forth in the Wasco County Comprehensive Plan.
+
+2.   Three (3) members of the County Court were present and were qualified to sit as decision-makers after full
+     disclosure was made and the matter of qualifications was discussed by the Court;
+
+[ORDINANCE 99-104 AMENDMENT — Page 2 of 3]                                       fy               »- Yo Ae )
+3.   In making its decision, the Court recognizes the procedural and legal requirements of the Wasco County
+     Comprehensive Plan and the Wasco County Land Use and Development Ordinance and weighed fully each
+     requirementin arriving at its decision.      :
+
+4,   In making its decision, the County Court recognizes the requirements of the Oregon Department of Land
+     Conservation and Development letter dated November 23, 1999, as explained in the letter to County Court
+     from Planning Staff dated December 23, 1999.
+
+                                         CONCLUSIONS OF LAW
+
+1.   The Court adopts the amendments as explained in the letter to County Court from Planning Staff dated
+     December 23, 1999, finding that the proposed amendments to the text of the Wasco County Land Use and
+     Development Ordinance are consistent with applicable State Law, Oregon Administrative Rules, and the
+     requirements of the Wasco County Comprehensive Plan and Land Use and Development Ordinance.
+
+2,   The Coutt adopts the proposed amendment as explained byDLCD’s January 4, 2000, letter to Wasco
+     County recommending that the comprehensive plan be further amended to better explain the county
+     process for obtaining approval and acknowledgement of a communty sewer or water system, and for the
+     creation of two acre lots once a sewer or water systemis acknowledged.
+
+         NOW, THEREFORE, THE WASCO COUNTY COURT ORDAINS AS FOLLOWS:                          The Wasco
+
+County Land Use and Development Ordinance, Chapter 3, Sections 3.602.D. (Tygh Valley Commercial Zone)
+
+and 3.603.D, (Tygh Valley Light Industrial/Commercial Zone) are hereby amendedto meet the requirements
+
+of the Oregon Department of Land Conservation and Development. The revised Wasco County Land Use
+
+and Development Ordinance wording adopted by this ordinance is attached as ExhibitA and inclusion of
+
+amended comprehensive plan , Goal 11, Policy 6, is attached as Exhibit B.
+
+                       1) Hn.
+         SIGNED this th day of January, 2000.
+
+Approved as to Form:
+
+Eric Nisley                                               Dan Ericksen, Commissioner
+Wasco County District Attomey
+
+[ORDINANCE 99-104 AMENDMENT - Page 3 of 3]                                   /                   a y
+                                                                            i     oCb0      -Ob5  6
+<P;\Rural Communities\Tygh   Valley\County   Court\Tygh   Valley   Rural Communities   Ordinance   99-104
+Amendment.doc>
+
+[ORDINANCE 99-104 AMENDMENT - Page 4 of 3]                                p23 bbd-          066        (e)
+                                      EXHIBIT A
+“RC-TV-C"_TYGH VALLEY COMMERCIAL ZONE
+
+3,602.D.       Uses Permitted Conditionally
+
+    In the “RC-TV-C”   zone, the following uses and small scale low impact commercial
+   uses and activities and their accessory buildings and uses are permitted in a
+   building or buildings not exceeding 4,000 square feet of floor space when
+   authorized by the Approving Authority upon satisfactory demonstration of compliance
+   with the standards of this Ordinance as required in Chapter 5 (Conditional Use
+   Review) and this Chapter.
+
+"RC-TV-M1"_TYGH VALLEY LIGHT INDUSTRIAL/COMMERCIAL ZONE
+
+3.603.D.       Uses Permitted Conditionally
+
+   3.   Automobile service station In a bullding or buildings not exceeding 4,000 square feet
+        of floor space.
+
+   6,   Recreational Vehicle Park with an office and accessory structures not exceeding
+        4,000 square feet of floor space.
+
+   8.   Places of public assemble, stadium, auditorium, recreation building or natatorium in a
+        building or buildings not exceeding 4,000 square feet of floor space.
+
+   40. Commercial amusement establishments (stadium, theatre, bowling alley) when
+        enclosed in a building or buildings not exceeding 4,000 square feet of floor space.
+
+                                                                      J3.000- 0ee i )
+ORDINANCE 99-104 AMENDMENT - Exhibit A                                         Page 1 of 1   *
+                      .            EXHIBIT B                   ad
+
+GOAL    11     Public Facilities and Services
+
+POLICY 6
+
+The larger lost sizes (5 acres in Wamic and 4- acres in Tygh Valley) will continue to
+apply until approved facility plans are acknowledged even though water systems
+currently exist in both communities.
+
+                               Implementation
+
+A. Established minimum lot sizes in Wamic and Tygh Valley may be reduced to two (2)
+acre minimum property size standard when a community, municipal or public water
+and/or sewer public facility plan is “approved” by the county and acknowledged by the
+state pursuant to the post acknowledgement plan amendment (PAPA) requirements
+(ORS 197.610 through 197.650) and the requirements for facility plans under OAR 660,
+Division 22.
+
+B. Upon the “acknowledgement” of an existing or new community, municipal or public
+water and/or sewer system facility plan, the minimum property size standard may be
+amended from the current five (5) acre standard to two (2) acres in Wamic, and from the
+current four (4) acre standard to two (2) acres in Tygh Valley.
+
+ORDINANCE 99-104 AMENDMENT ~— Exhibit B
+                                                                    Pa00s- eels)Page 1 of 1
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 97.2% of
+the word sequence, and on 88.6% of the figures. Dictionary-recognizable words: 93.7%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

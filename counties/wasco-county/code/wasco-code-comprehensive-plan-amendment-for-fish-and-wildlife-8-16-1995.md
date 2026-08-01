@@ -1,0 +1,325 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-comprehensive-plan-amendment-for-fish-and-wildlife-8-16-1995
+title: 'Comprehensive Plan Amendment for Fish and Wildlife 8-16-1995'
+doc_type: ordinance
+citation: 'Comprehensive Plan Amendment for Fish and Wildlife 8-16-1995'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1995/Comprehensive%20Plan%20Amendment%20for%20Fish%20and%20Wildlife%208-16-1995.pdf?t=202503260855350
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 1efe0202e2ff3108739c858a1a80e932498dc5c4b36013d04aef0a4dfa870a16
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.981; figure agreement 0.873; dictionary ratio 0.960. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Comprehensive Plan Amendment for Fish and Wildlife 8-16-1995 (Comprehensive Plan Amendment for Fish and Wildlife 8-16-1995)
+
+## At a glance
+
+OCR-derived text of Comprehensive Plan Amendment for Fish and Wildlife 8-16-1995. Not human-verified.
+
+## Full text
+
+FILED WASCO          CTY
+                                 IN THE STATE OF OREGON
+                                                                       THE DALLES          OR.
+                         IN AND FOR THE COUNTY OF WASCO                                     ;
+                                                       fue 16                      | 2 PH PSS
+IN THE MATTER OF A DECISION ON THE                                 ) RARER A. GeORE TON
+REMAND ON PERIODIC REVIEW WORK TASK                                )     COUNTY CLERK
+ORDER NO, 00228 FROM THE DEPARTMENT OF                             ) ORDINANCE
+LAND CONSERVATION AND DEVELOPMENT ON                               ) AMENDMENT
+AN AMENDMENT OF THE WASCO COUNTY 1983                              ) 94-105 B (revised on
+COMPREHENSIVE PLAN BY ADOPTION OF ESEE                             ) remand)
+DETERMINATION    ON FISH AND   WILDLIFE                            )
+HABITAT, AMENDING THE PLAN MAP       TO                            )
+REFLECT ESEE ANALYSIS DETERMINATIONS,
+AND THE FISH AND WILDLIFE BACKGROUND
+DOCUMENT
+
+       NOW     ON     THIS DAY,      the above-entitled matter having come         on regularly for
+
+consideration, said day being one duly set in term for the transaction of public business and
+
+a majority of the   Court being present; and
+
+       IT APPEARING         TO    THE    COURT:      That    on February     3, 1982,   this Court
+
+unanimously passed and adopted          a Comprehensive     Plan Ordinance     and implementing
+
+ordinances for Wasco County;
+
+       IT FURTHER APPEARING TO THE COURT:                    That on August 25, 1983, the Land
+
+Conservation    and    Development      Commission   (LCDC)     reviewed     the   Wasco    County
+
+Comprehensive Plan and found Wasco County to be in compliance with the Statewide Land
+
+Use Planning Goals.
+
+       IT FURTHER APPEARING TO THE COURT:                     That on August 9, 1994, the State
+
+of Oregon Land Conservation and Development Commission approved the Wasco County
+
+[Page 1 - ORDINANCE]
+
+                                                       Wanary (DP
+Work program to conduct the required Periodic Review of its Comprehensive Plan and Land
+
+Use and Development Ordinance, and make amendments as necessary                to bring them into
+
+compliance with current standards and laws.
+
+        IT FURTHER APPEARING TO THE COURT:                      That on Monday, August 29, 1994,
+
+in the Bonneville Power Administration building, on Highway             197 south of The Dalles,
+
+Oregon, the Wasco County Planning Commission and Wasco County Citizen Advisory Group
+
+met to conduct a legislative hearing on the amendments to the Wasco County Comprehensive
+
+Plan,   Chapter   II(M)   Fish    and Wildlife Resources    (file #PR-94-105-L).    The Planning
+
+Commission held hearings to gather public input on the consequences of protecting or not
+
+protecting the wildlife resource and conflicting resources, and on adoption of a background
+
+resource inventory document and an Environmental, Social, Economic, and Energy (ESEE)
+
+consequences analysis. Those members of the Planning Commission and Citizen's Advisory
+
+Group present were determined to be qualified to hear the matter.            The Commission and
+
+Advisory Group heard the staff report, and received testimony and evidence. Based upon the
+
+evidence and testimony presented and upon the findings of fact and conclusions of law as
+
+described in the ESEE            consequences analysis, the Planning Commission     and Citizen's
+
+Advisory Group, being fully apprised in the premises, did approve, on a 6-2 vote, to make a
+
+recommendation to the County Court to adopt the inventory information, and the program
+
+as presented in the ESEE consequences          analysis,   and supporting maps and documents.
+
+        IT FURTHER APPEARING TO THE COURT:                        That on October 19, 1994 in the
+
+Wasco County Courthouse, this Court met to conduct a legislative hearing       to make a decision
+
+[Page 2 - ORDINANCE]
+
+                                                            blapavtl@)
+on the recommendation by the Citizens Advisory Committee and Planning Commission on
+
+the fish and wildlife inventory, ESEE consequence analysis, and plan map amendment.         The
+
+Court heard the staff report. The Court deliberated and decided that there was not sufficient
+
+public testimony to determine under the Goal 5 administrative rule whether or not what
+
+restriction, if any, should be applied to the wildlife habitat and conflicting natural resources
+
+or land uses. The Court determined to hold a public informational meeting on November 21,
+
+1994, in order to gather more information and public input. The Court then continued the
+
+public hearing until December 7, 1994,     at a time certain, to gather information and public
+
+testimony   whether or not the wildlife resource should       be protected through zoning as
+
+determined by the ESEE consequences analysis.
+
+IT FURTHER APPEARING TO THE COURT:                   That at the hour of 1:30 p.m. on December
+
+7, 1994, in the Wasco County Courtroom, of the Wasco County Courthouse, in The Dalles, this
+
+Court met to conduct a legislative hearing on the matter.   The Court opened the hearing and
+
+heard testimony from those parties who wished to be heard and then continued the hearing
+
+until December 21, 1994 at a time certain.
+
+IT FURTHER APPEARING TO THE COURT:                   That   on December 21, 1994 at the hours
+
+of 1:30 p.m. and 6:00 p.m., in the Wasco County Courtroom, of the Wasco County Courthouse,
+
+this Court re-opened the hearing and heard testimony from those parties who wished to be
+
+heard on this matter.   The Court then closed the hearing and deliberated upon testimony
+
+[Page 3 - ORDINANCE]
+
+                                                                  Saal J)
+received. Based upon the evidence and testimony presented and upon the ESEE consequences
+
+analysis and the staff report,     the County   Court did determine,      on a unanimous    vote,     the
+
+following:      (1) Whereas,     the existing big game wildlife habitat has    land uses and wildlife
+
+resource uses that are important relative to one another,       and that both the wildlife resource
+
+and the      conflicting land uses should be limited in a manner to allow each to occur.            Based
+
+upon the ESEE       consequences analysis and the staff report (Exhibit A), the Court determined
+
+that no further protection measures are required for the existing big game winter range, and
+
+that protection of big game          habitat is addressed    through     the current Land    Use      and
+
+Development Ordinance;           (2) Whereas,   wildlife habitat and    land uses   have not changed
+
+substantially to justify adopting further measures to protect the low elevation habitat and,
+
+based on the ESEE analysis and the staff report (Exhibit A),               the Court determined           no
+
+protection measures        are required for the low elevation big game winter range,                nor
+
+acknowledgement        of _ the low elevation boundary for inclusion in the plan map, nor
+
+acknowledgement of the background document noting prior                  review of that document on
+
+January 15, 1992.
+
+          IT FURTHER       APPEARING         TO THE     COURT:         That the Department of Land
+
+Conservation and Development remanded the County’s decision on this matter for two
+
+reasons:     DLCD directed the County on remand to           1. Amend the County Land use and
+
+Development Ordinance to include clear and objective siting standards that minimize conflicts
+
+from dwellings approved in the high elevation (existing) big game habitat area;                 and       2.
+
+[Page 4 - ORDINANCE]
+
+                                                                 bavayy (7)
+Amend the background Document of the Comprehensive Plan to designate the low elevation
+
+big game habitat and based on the ESEE analysis, adopt clear and objective siting standards
+
+that minimize conflicts from dwellings approved in the low elevation habitat area.
+
+       IT FURTHER APPEARING TO THE COURT : That at the hour of 1:30 p.m. on
+
+July 20, 1995 in the Wasco County Courtroom this Court re-opened the record to take
+
+additional evidence on these issues only and including evidence contained in the record of the
+
+DLCD remand order. The Court reviewed                testimony from those parties who wished to be
+
+heard and then closed the hearing.      The Court being fully apprised in the premises determined
+
+by a vote of     2-1       the following:       1.   To amend the Wasco County        Land Use and
+
+Development Ordinance (LUDO) to include clear and objective siting standards that minimize
+
+conflicts with dwellings     approved in the high elevation (existing) big game habitat area;           a
+
+copy of said standard is attached hereto and by this reference incorporated herein               2. To
+
+apply the same clear and objective siting standards for dwellings approved           on   public lands
+
+and on private lands where there is a voluntary agreement with fish and wildlife, and mune
+                                                                                         (2
+an area designated on the attached and by this reference incorporated herein plan mapsont hs
+                                                                                                    @        no
+       THEREFORE:           Based upon the findings of fact and conclusions of law and the being            My a
+
+fully apprised in the premises,
+                                                                                                    QQ
+
+       THE     WASCO         COUNTY          COURT      ORDAINS      AS      FOLLOWS:      The    1983.
+
+Comprehensive Plan is amended by the adoption of              the revised ESEE Determination on
+
+fish and wildlife habitat and by            the adoption of   the attached     and by this reference
+
+[Page 5 - ORDINANCE]
+            incorporated herein siting standards for the existing high elevation big game habitat area, and
+
+            by the adoption of the same standards for dwellings approved on public lands and on private
+
+            lands where there is a voluntary agreement with fish and wildlife, and within an area
+
+            designated on the plan map. Regularly passed and adopted by a 2-1 vote of all members of
+
+            the County   Court of The County of Wasco, State of Oregon present on this day.
+
+            DATED this 16 th day of August, 1995.
+
+                                                                 Wasco COUNTY COURT
+                                                                                We,     Jee
+                                                             /     John Mabrey, Judge
+
+                                                                 He McKay OG
+
+                                                                 Chuck Filbin, Commissioner
+            Approved as to Form:
+
+           EZ      a —           -                               _3:C:°WPWIN®NOTICE®PR94-105.LEG
+wef   em
+           Bernard L. Smith
+           Wasco County District Attorney
+
+            [Page 6 - ORDINANCE]
+                                   Examples of Siting Standards
+
+       In the area designated big game winter range and low elevation big game winter range the
+       following siting provisions shall apply as a condition of approval for all new dwellings.
+
+       a. New dwellings shall be located within 300 feet of public roads or easement or private
+       roads or easements existing as of (date of adoption) unless it can be found that:
+
+                1. Habitat values (browse, forage, cover, access to water) are afforded equal or
+                greater protection through a different development pattern, or,
+
+                2. The siting within 300 feet of such roads or easements would force the dwelling
+                to be located on irrigated land, in which case, the dwelling shall be located to
+                provide the least impact on wildlife habitat possible considering browse, forage
+                cover, access to water, and minimizing length of new access roads.
+
+Attachment
+RE:  94-105B
+August   15, 1995
+
+3C: ®BWPWIN60®COMP®BGWR.     4
+June   26,   1995
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.1% of
+the word sequence, and on 87.3% of the figures. Dictionary-recognizable words: 96.0%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

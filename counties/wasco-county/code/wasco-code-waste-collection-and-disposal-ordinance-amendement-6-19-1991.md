@@ -1,0 +1,2175 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-waste-collection-and-disposal-ordinance-amendement-6-19-1991
+title: 'Waste Collection and Disposal Ordinance Amendement 6-19-1991'
+doc_type: ordinance
+citation: 'Waste Collection and Disposal Ordinance Amendement 6-19-1991'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Solid%20Waste/Waste%20Collection%20and%20Disposal%20Ordinance%20Amendement%206-19-1991.pdf?t=202503260856180
+source_format: pdf
+retrieved: '2026-08-01'
+source_sha256: 3416395499a9a474f513041500edd12860a0fa8d80abb1156e3363359d838969
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.946; figure agreement 0.587; dictionary ratio 0.965. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 173.160
+    - ORS 433.730
+    - ORS 459.040
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 95%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Waste Collection and Disposal Ordinance Amendement 6-19-1991 (Waste Collection and Disposal Ordinance Amendement 6-19-1991)
+
+## At a glance
+
+OCR-derived text of Waste Collection and Disposal Ordinance Amendement 6-19-1991. Not human-verified.
+
+## Full text
+
+NW
+OD
+AR
+ a
+ aon 2
+ po
+
+         SOLID   WASTE   COLLECTION   AND    DISPOSAL     ORDINANCE
+10
+                         WASCO   COUNTY,    OREGON
+1
+12
+13
+14                                             AMENDED:      June     19,   1991
+
+15
+16
+17
+18
+19
+20
+a4
+22
+23
+24
+25
+26
+Page
+
+                                               Lau La3S
+BD
+HO
+FF
+UD
+ DOD
+
+                           SUMMARY    TABLE    OF    CONTENTS
+ ont
+
+       CHAPTER   101   INTRODUCTORY    PROVISIONS,         GENERAL   PROVISIONS
+ ow
+
+10     CHAPTER   102   BASIC   PROVISIONS     AND REGULATIONS
+
+1      CHAPTER   103   FRANCHISING    SOLID    WASTE      COLLECTION   AND   DISPOSAL
+
+12     CHAPTER   104   PENALTIES
+
+13     CHAPTER   105   RATES AND CHARGES       FOR    COLLECTION     AND   DISPOSAL
+                         SERVICES
+14
+       CHAPTER   106   REGIONAL    COLLECTION       AND   DISPOSAL
+15
+       CHAPTER   107   EXCEPTIONS
+16
+       CHAPTER   108   PROCEDURAL    PROVISIONS
+17
+18
+19
+20
+21
+
+22
+23
+24
+25
+26
+Page
+
+                                                          f9/. 0335,
+                            41N THE     COUNTY    COURT       OF THE    STATE     ut? OREGON
+
+                                       IN AND    FOR THE COUNTY          OF WASCO
+
+           IN THE MATTER OF A SOLID      )
+           WASTE FRANCHISING AND         )                                       ORDINANCE
+           NUISANCE ABATEMENT ORDINANCE, )
+DH
+
+                  Pursuant      to the authority vested                 in the County Court by Chapter
+WD
+
+           433,   449,   and    459,     Oregon     Revised      Statues,        and    laws   amended   thereto
+bp
+
+           the    following Ordinance             is hereby enacted:
+ao
+
+                  An Ordinance          relating       to    accumulation,        storage,       collection,
+ a
+
+           transportation,           and disposal           of wastes    and     solid    wastes;    providing
+
+           penalties     and    prescribing         an      effective    date,
+
+                  CHAPTER      101         INTRODUCTORY          PROVISIONS,           GENERAL    PROVISIONS
+
+10                101.010       Short Title
+                  101.020       Purpose and Policy
+re                101.030       Interpretation
+                  101.050       Severability
+12                101.060       Editorial Revision
+                  101.090       Effective Date
+13                101.500       General Definitions
+                  101.510       Administrator
+14                101.512       Agricultural           Operation
+                  101.515       Board
+15                101.520       Collection Vehicle
+                  101.525       Conmittee
+16                101.530       Compensation
+                  101.532       County
+17                101.534       County Court
+                  101.535       Dispose     or Disposal
+18                101.540       Disposal        Site
+                  101.545       Franchise
+19                101.550       Franchise, Collection
+                  101.555       Franchise, Disposal
+20                101.560       Hazardous Solid Waste
+                  101.565       Incinerator
+21                101.570       Landfill
+                  101.575       Person
+22                101.580       Putrescible Material
+                  101.582       Regional Service Area
+23                101.585       Regulations
+                  101.590       Rules
+24                101.595       Sanitary        Landfill
+                  101.600       Service
+25                101.605       Service     Area
+                  101.610       Solid Waste
+26                101.615      Waste
+
+Page   3     —- ORDINANCE
+
+                                                                               fal-ba3s-
+     1            CHAPTER     101         INTRODUCTORY     PROVISIONS,      GENERAL   PROVISIONS
+
+             101.010     SHORT TITLE
+ LD
+
+                  This Ordinance shall be knawm as the SOLID WASTE COLLECTION AND
+ WO
+
+                  DISPOSAL ORDINANCE, and may be so cited and pleaded and shall be
+                  cited herein as “this Ordinance,"
+ fF
+
+             101.020     PURPOSE    AND   POLICY
+ nan
+
+                  To protect the health, safety, and welfare of the people of
+ a
+
+                  Wasco County and to provide a coordinated program on accum-
+    7             ulation, collection, and disposal of wastes and solid wastes,
+                  it is declared      to be the public policy            of Wasco County to
+    8             regulate accumulation, collection, and disposal of wastes and
+                  solid wastes and the creation and operation of disposal sites
+    9             to:
+
+10                 (1)   Provide for safe and sanitary accumulation,                  storage,
+                         collection, transportation, and disposal of                  solid
+11                       wastes.
+
+12                 (2)   Prohibit    and provide      for abatement       of accumulation
+                         of wastes or solid wastes on private property in
+13                       such manner so as to create a public nuisance, a
+                         hazard to health, or a condition of unsightliness.
+14
+                   (3)   Develop a regional         long-range plan to provide
+15                       adequate    disposal      sites   and   disposal     facilities
+                         to meet    future    demands.
+16
+                   (4)   Provide a coordinated County-wide program of control
+17                       of solid wastes in cooperation with Federal, State,
+                         and local agencies responsible for the prevention,
+18                       control, or abatement of air, water, and ground
+                         pollution,
+19
+                   (5)   Provide for, and encourage research, studies, surveys,
+20                       and demonstration projects on developing more sanitary,
+                         efficient, and economical solid waste disposal systems
+1                        and programs,
+
+22                 (6)   Provide for a coordinated solid waste disposal                     program
+                         with cities within Wasco County and with other                     Counties
+23                       or Cities    should    regional     programs    be    developed.
+
+24                 (7)   Provide for cooperation and agreements between Wasco
+                         County and other Counties involving joint or regional
+95                       franchising of solid waste collection or disposal.
+
+26
+
+Page||   4     ~- ORDINANCE
+
+                                                                  fa/. Daas
+                 (8)    Provide minimum standards for location and operation
+                        of disposal sites to protect adjacent or nearby residents.
+DH
+
+           101.030      INTERPRETATION
+Ww
+
+                The provisions          of this Ordinance           shall be     liberally       construed
+                to effect the purposes set                 forth above.        These provisions            are
+fF
+
+                declared to be the minimum                 requirements       fulfilling such
+                objectives       and where          conditions   herein   imposed       are     less
+an
+
+                restrictive       than       comparative     conditions       imposed      by   any    other
+                provision       of this       Ordinance,     by provision       of any other           local
+ a
+
+                Ordinance, Resolution or Regulation, or by provision of                                 State
+                Law or State Administrative Regulation, then the more
+                restrictive       shall govern.
+
+           101.050      SEVERABILITY
+
+                The provisions of this Ordinance are severable.   If any section,
+10              sentence, or phrase of this Ordinance is adjudged to be invalid
+                by a Court of competent jurisdiction, that decision shall not
+ret             affect       the validity       of the remaining portions             of this         Ordinance,
+
+12         101.060      EDITORIAL       REVISION
+
+13              The District Attorney may at any time direct such changes
+                regarding currently maintained copies of this Ordinance and
+14              amendments as the Legislative Counsel is authorized to perform
+                regarding       acts    of    the    Legislature,     pursuant     to ORS       173.160,
+15              provided       that    such editorial        revisions
+                memorandum filed with the County Clerk and with the
+                                                                          be directed by written
+
+16              Administrator, but subject to disapproval by the County
+                at its next regular meeting thereafter.
+                                                                                                        Court
+
+17         101.090      EFFECTIVE       DATE
+18              This Ordinance shall become effective 30 days after filed with
+19              the County Clerk.   Amendments hereto, unless otherwise
+                specifying, shall become effective when filed with the County
+20              Clerk.   Editorial revisions shall become effective, unless
+                disapproved by the County Court, on the first judicial day
+21              following the first regular meeting of the County Court after
+                the directing memorandum is filed with the County Clerk.
+22         101.500      GENERAL       DEFINITIONS
+23              For    the    purpose    of    this    Ordinance,     words    used   in the      present
+24              tense include the future, the singular number includes the
+                plural, the word "shall" is mandatory and not directory,
+25              and the term "this Ordinance" shall be deemed                         to      include    all
+                amendments hereafter made to this Ordinance,
+26
+Page   5     - ORDINANCE
+
+                                                                     fal: 7325
+           101.510      ADMINISTRATOR
+
+                The County       Sanitarian       and his        duly    authorized          deputy   or
+                assistant.
+&
+
+           101.512      AGRICULTURAL          OPERATION
+HR
+
+                Raising     and harvesting         crops,        or    for   the    feedings,     breeding
+                and management of livestock; or for dairying; or any other
+ a
+
+                agricultural or horticultural use or any combination thereof,
+                for the purpose of obtaining profit in money and includes the
+ DO
+
+                preparation        and   storage    of     the    products         raised     thereon      for
+                man's     and/or      animal's    use and disposal              by marketing or otherwise.
+ ony
+
+           101.515      BOARD
+
+                The County       Court       of Wasco    County,        Oregon,
+ wo
+
+           101.520      COLLECTION       VEHICLE
+10
+
+11              Any vehicles          used to collect or transport                   solid waste.
+
+12         101.525      COMMITTEE
+
+                The     Solid Waste      Disposal       Committee        established          by this      Ordinance.
+13
+
+14         101.530      COMPENSATION
+
+                Includes any type of consideration paid for service, including
+15
+                but not limited to direct or indirect compensation by tenants,
+16              licensees, or similar persons.
+
+17         101,532      COUNTY
+
+18              The   County     of    Wasco,    Oregon.
+
+19         101.534      COUNTY     COURT
+
+20              The   County     Court       of Wasco     County,       Oregon.
+
+a1         101.535      DISPOSE       OR DISPOSAL
+
+22              Includes     accumulation,          storage,          collection,      transportation,             and
+                disposal     of solid wastes.
+23
+           101.540       DISPOSAL      SITE
+24
+                Any     land used      for    the disposal        of    solid      wastes,     including         but   not
+25              limited     to dumps,         landfills,     sanitary         landfills,        and composting
+                plants, but does not include a landfill site which is not used by
+26              the public either directly or through a service and which is used
+
+Page   6     - ORDINANCE
+
+                                                                        fa|-va2s
+  1               by the owner or tenant thereof to dispose of sawdust, bark,                                   soil,
+                  rock, or nonputrescible industrial waste products resulting                                   from
+                  the process         of manufacturing.
+ HD
+
+             101.545       FRANCHISE
+ WO
+
+                  A franchise         to provide service issued by the County Court
+ fF
+
+                  pursuant to         Sections 103.010 to 103.160 of this Ordinance.
+ a
+
+             101.550       FRANCHISE,        COLLECTION
+ 8
+
+                  A     franchise     to    store,     collect,    or    transport      solid    wastes,
+ on
+
+             101.555       FRANCHISE,        DISPOSAL
+
+                  A    franchise     to create         or maintain       a disposal      site,
+ o
+
+             101.560       HAZARDOUS        SOLID     WASTE
+10
+                  Solid waste that may, by itself or in combination with other
+11                solid wastes, be infectious, explosive, poisonous, caustic,
+                  or toxic or otherwise dangerous or injurious to human, plant,
+12                or animal life.
+
+13           101.565       INCINERATOR
+
+14                A combustion device specifically designed for the reduction,
+                  by burning, of solid, semi-solid, or liquid combustible wastes.
+15
+             101.570       LANDFILL
+16
+                  A disposal site operated by means of compacting and covering
+17                solid waste at specific designated intervals, but not each
+                  Operating day.
+18
+             101.575       PERSON
+19
+                  Means and includes individuals, corporations, associations,
+20                firms, partnerships, and joint stock companies.
+
+a1           101.580       PUTRESCIBLE MATERIAL
+22                Organic material that can decompose,                      and may     give     rise   to    foul
+                  smelling, offensive products.
+23
+             101.582       REGIONAL        SERVICE     AREA
+24
+                  The    Oregon     Counties         of Wasco,    Hood    River   and    Sherman.       The
+25                Washington        Counties        of Klickitat        and Skamania.
+
+26
+Page|}   ?     — ORDINANCE
+
+                                                                            pal oars
+           101.585      REGULATIONS
+
+                Regulations          promulgated      by the County         Court   pursuant     to    this
+ BW
+
+                Ordinance.
+ WO
+
+           101.590      RULES
+ &
+
+                Rules    promulgated          by State   agencies        pursuant     to ORS   Chapter        459,
+ oe
+
+           101.595      SANITARY       LANDFILL
+ oO
+
+                A disposal site operated by means of compacting                          and    covering
+                solid waste at least once each operating day.
+ on
+
+           101.600      SERVICE
+
+                The collection,             transportation,      or disposal        by private        persons
+                of    solid    waste    for    compensation,
+10
+           101.605      SERVICE AREA
+11
+                The    geographical          area   in which     service,     other    than    operation
+12              of a disposal          site    is provided by any person.
+
+13         101.610      SOLID       WASTE
+
+14              All putrescible and nonputrescible                   wastes, whether in solid or
+                liquid form, except liquid-carried                   industrial wastes or sewage
+15              or sewage hauled as an incidental                   part of a septic           tank or
+                cesspool cleaning service, but including garbage, rubbish,
+16              ashes, sewage sludge, street refuse, industrial wastes, swill,
+                demolition          and construction wastes,             abandoned     vehicles       or parts
+17              thereof, discarded home and industrial appliances, manure,
+                vegetable or animal solid and semi-solid wastes, dead animals,
+18              and other discarded solid materials.
+
+19         101.615      WASTE
+
+20              Useless,       unwanted,       or discarded      materials.
+
+21              CHAPTER       102           BASIC   PROVISIONS     AND    REGULATIONS
+
+22              102.010        Solid Waste Accumulation Prohibited
+                102,020        Abatement of Nuisances
+23              102.030        Unauthorized Dumping Prohibited
+                102.500        Regulations
+24
+
+25
+
+26
+
+Page   8     ~ ORDINANCE
+
+                                                                     pal-0a3s
+                 CHAPTER      102           BASIC    PROVISIONS           AND    REGULATIONS
+
+            102.010     SOLID WASTE             ACCUMULATION         PROHIBITED.
+ Ww
+
+                  (1)   Except as provided in Subsection (2) of this section,
+ WO
+
+                        no person shall store, collect, maintain, or display
+                        on private property, waste or solid waste that is
+ ff
+
+                        offensive         or hazardous           to the health and safety of
+                        the public or which creates offensive odors or a
+ on
+
+                        condition of wmsightliness., Storage, collection,
+                        maintenance, or display of wastes or solid wastes                                         in
+ fo.)
+
+                        violation of this subsection shall be considered to
+                        be a public nuisance which may be abated as provided
+                        in    Section       102.020        of   this     Ordinance.
+
+                  (2)   Sections 102.010              to    102.020       of    this   Ordinance        do
+                        not apply to:
+
+                        (a)     Disposal          sites     franchised under provisions                      of
+ 10                             Sections          103.010       to     103.160    of   this   Ordinance,
+                                provided          that     such disposal          sites comply with
+11                              rules promulgated by any State agency under
+12                              ORS Chapter 459 and and regulations adopted
+                                Wasco County pursuant to this Ordinance.
+                                                                                                              by
+
+13                      (b)     Agricultural operations and growing or harvesting
+                                of crops and the raising of fowls or animals.
+14
+            102.020
+15                      ABATEMENT          OF    NUISANCES
+
+16                (1)   The Administrator                and the Wasco County Health Officer may
+                        initiate          an investigation to determine whether or not the
+17                      storage,          collection, maintenance, or display of wastes or
+                        solid wastes is in violation of Section 102.010 of this
+                        Ordinance, and upon written complaint being made by any
+18                      person, the Administrator and the Wasco County Health
+19                      Department shall conduct an investigation for such purpose.
+
+20                (2)   After investigation, the Administrator or the Wasco County
+                        Health Officer shall make written report of his findings
+21                      and recommendations,                    if any,    to    the    County    Court.
+
+22                (3)   If, upon receiving the report from the Administrator or
+                        County Health Officer, the County Court finds reasonable
+23                      cause to believe that a public nuisance exists, the County
+                        Court may order that a notice be issued and served upon
+24                      the owner, tenant, occupant, or person in possession of
+                        the premises where the nuisance is alleged or claimed to
+25                      exist, requiring such person to appear before the County
+                        Court       at the time and place                 stated       in the notice,             to show
+26                      cause       why    a nuisance           should    not be       declared    to    exist         on
+
+Page    g     ~ ORDINANCE
+
+                                                                                 4/28 35°
+ 1                  the    premises.        The    time    for   appearance       shall     not   be   less
+                    than 10 days from the service of the notice.  The notice
+ 2                  shall be served in the manner provided by law for the
+                    service of summons.
+ 3
+              (4)   At the       time and place described in said notice, the
+ 4                  County       Court shall conduct a public hearing on the
+                    existence of the alleged nuisance, and if the County
+ 5                  Court finds that a nuisance does exist, it shall declare
+                    the existence of a nuisance by order entered in its
+ 6                  journal, and shall order a suit to be brought in the
+                    name of the County for its abatement.
+
+ ?            (5)   In the event a writ of abatement is issued pursuant to
+ 8                  Subsection (4) of this section, the County may remove
+                    from the subject premises the waste or solid waste found
+ 9                  to be the cause of such nuisance.  When such removal is
+                    performed by the County, the County shall not be liable
+10                  for any trespass or conversion as to any real or personal
+                    property and the costs may be collected from the person
+11                  served       in accordance with Subsection                  (4)   of this     section,
+                    or may       be    collected    as    a lien   against       such property.
+
+12            (6)   The provisions          of this       section are         in addition     to and not
+13                  in    lieu    of    the penalty       described   in Section           108.900     of    this
+                    Ordinance.
+
+14      102,030     UNAUTHORIZED          DUMPING    PROHIBITED
+
+15            (1)   Except as provided             in Subsection        (2)     of this     section,        it
+16                  shall    be unlawful to dispose of solid waste at any other
+                    place    than a disposal site approved by the County Court.
+17                  The County Court will designate in writing                            the places
+                    where solid wastes collected in the County                            shall be
+18                  disposed of.
+
+19            (2)   No person shall use or permit to be used any land within
+                    the County outside of incorporated cities as a public or
+20                  private disposal site without approval of the County Court.
+                    Persons desiring to bury or dispose in any other manner of
+21                  his own solid waste on his own property may do so in
+                    accordance with rules promulgated pursuant to ORS Chapter
+22                  459, and regulations promulgated by the County Court
+                    pursuant to this Ordinance.
+
+23     102.500      REGULATIONS
+
+24           Upon recommendation of the Committee or upon its om motion, the
+5            County Court may promulgate reasonable regulations pertaining to
+             the administration of this Ordinance.
+26
+Page   10 - ORDINANCE
+
+                                                                    Pal- da35
+               (1)   As provided in ORS 433.730, where necessary to meet special
+                     local conditions, in addition to the requirements of ORS
+                     459.040 and rules promulgated thereunder, the County Court
+                     may promulgate reasonable rules governing storage, accumula~
+                     tion, collection, transportation, and disposal of solid
+ w&
+
+                     wastes, including, but not Limited to, the following:
+ HR
+
+                     (a)     Accomulation,      storage,          collection,        transportation,
+                             and disposal      of solid wastes             to prevent:
+ aA
+
+                             (aa)   Vector     production          and    sustenance,
+ DAD
+
+                             {bb)   Conditions for              transmission       of disease       to man
+                                    or animals.
+ oN
+
+                             (cc)   Air    pollution        by dust,       fumes,     gas,     smoke,        odors,
+                                    or particulate matter or any combination                             thereof.
+ pw
+
+ 10                          (Ad)   Pollution        of    surface       or ground water.
+
+i                            (ee)   Hazards     to service or disposal                 workers      or to
+                                     the   public.
+12                   (b)     Storage of solid wastes at the point of origin to
+13                           eliminate conditions conducive to the creation of
+                             vector nuisances or air or water pollution through
+ 14                          proper container construction and design and through
+                             solid waste handling practices, including but not
+ 15                          limited    to container maintenance.
+
+16                   (c)     Disposal      sites with       respect       to adaptability
+                             site to the population served; topography and geology
+                                                                                                    of the
+
+17                           of the area; protection of ground and surface water;
+                             air pollution; accessibility; longevity; salvage,
+18                           ultimate site use; standards of design, management,
+                             and operation;       regulation         and    limitation         of open
+19                           burning and salvage operation;                  and protection             of
+                             adjacent or nearby residents.
+20                   (a)     Construction,      loading, and operation of collection
+a1                           vehicles used
+                             contents
+                                                in performing service to prevent the
+                                           thereof    from dropping,           sifting,        leaking,
+22                           or escaping      onto public          highways.
+
+23                   (e)     Safe   handling    of hazardous             wastes.
+
+24             (2)   As provided
+                     Court    may
+                                        in Chapter
+                                    promulgate
+                                                          90,
+                                                     reasonable
+                                                                 Oregon    Laws
+                                                                         regulations
+                                                                                    1969,     the County
+                                                                                             with   respect
+25                   to service      governing:
+
+26
+Page   11   - ORDINANCE
+
+                                                                         £9]-vars
+                        (a)     The quality and character of service provided by any
+                                person or to any area outside of any incorporated
+                                city.
+ WD
+
+                        (b)     Rates       for service.
+ WD
+
+                        (c)     Minimum       requirements     to guarantee           service.
+ BR
+
+                 CHAPTER      103           FRANCHISING     SOLID   WASTE       COLLECTION         AND   DISPOSAL
+ oO
+ Oo
+
+                 103.010       Persons,       Activities,     and    Practices        Regulated
+                 103.020       Applications
+                 103.030       Requirements       for Collection           Franchises
+ an
+
+                 103.040       Issuance       of Collection     Franchises
+                 103,045       Disposal       Franchise     Requirements
+                 103.050       Issuance of Disposal Franchises
+ to}
+
+                 103.060       Appeal on a Franchise
+10               103.070       Exclusive       or Joint     Service       Under     a Franchise
+                 103.080       Transfer of Franchises
+11               103.090       Responsibilities of Franchise Holders
+                 103.100       Enforcement of Franchise Provisions
+12               103.110       Suspension, Modification, Revocation,                        or    Refusal
+                                to Renew a Franchise
+13               103.120       Preventing Interruption              of Service
+                 103.130       Term of Franchises
+14               103.150       Franchise       Fees
+                 103,155       Surcharges
+15               163.160       Use    of Franchise     Fees    and Surcharges
+
+16               CHAPTER      103           FRANCHISING     SOLID   WASTE       COLLECTION        AND    DISPOSAL
+
+17          103.010     PERSONS,       ACTIVITIES,     AND    PRACTICES         REGULATED
+
+18                (1)   Except as provided in Section 107.010 of this Ordinance it
+                        shall be unlawful for any person to store, collect, trans-
+19                      port, or dispose of any solid waste for compensation unless
+                        such person is franchised in accordance with the provisions
+20                      of Sections 103.010 to 103.060 of this Ordinance.
+
+21                (2)   Except as provided in Section 107.010 and Sections                                  103.010
+                        to 103.160 of this Ordinance, it shall be unlawful                                  for any
+22                      person       to create    or maintain         a disposal          site.
+
+23          103.020     APPLICATIONS
+
+24               Applications         for    franchises     shall    be    on     forms    provided      by   the
+                 Administrator.   In addition to information required on the forms,
+25               the Administrator may require the filing of any additional
+                 information he deems necessary to insure compliance with this
+26               Ordinance.
+
+Page   12     - ORDINANCE
+
+                                                                                (4f-0a3S
+                   (1)   Applicants       for collection           franchises         shall    state the types
+                         of    service    to be provided           and    shall    supply      information
+                         required to determine             compliance          with    Section       103.030    of
+Dw
+
+                         this Ordinance.
+WOW
+
+                   (2)   Applicants for disposal franchises shall file a duplicate
+                         copy of the information required by the Environmental
+ fP
+
+                         Quality Department under ORS Chapter 459,
+ wn
+
+             103.030     REQUIREMENTS       FOR COLLECTION             FRANCHISES
+ a
+
+                   (1)   Persons who are provided collection service on the effective
+                         date of this Ordinance must make application for a col-
+                         lection       franchise    within        30    days   thereafter       and,    upon    filing
+                         an application and furnishing required information for such
+                         franchise, may continue to provide collection service until
+                         a final       decision    on    the    application        is made      by the    County
+                         Court.
+10
+                   (2)   Persons providing service on the effective date of this
+11                       Ordinance shall be granted a collection franchise for the
+                         area they are presently                servicing        provided      that    such persons
+12                       are   providing     adequate          service     and    otherwise         qualify    for
+                         a franchise under this section,  If the Administrator or the
+13                       Solid Waste Committee recommends to the County Court that an
+                         operator not be granted such franchise on the basis of
+14                       inadequate existing service, the County Court shall hold a
+                         public    hearing    prior       to the        allocation      of    the    service    area
+15                       involved       in the same manner as provided                   in Section       103.060
+                         of this       Ordinance,   The applicant must                  show    to the    satis-
+16                       faction       of the County Court that he:
+
+17                       (a)     Has a majority of the service accounts in the service
+                                 area for which he has applied, which shall be evidenced
+18                               by a list of customers served.
+
+19                       (b)     Has    available       collection        vehicles,      equipment,       facil-
+                                 ities,    and personnel           sufficient         to meet the standards
+20                               of equipment and service established by this Ordinance
+                                 and ORS Chapter 459, and rules and regulations pro~
+21                               mulgated thereunder.   If the applicant proposes to
+                                 serve a service area or portion thereof which is under
+22                               franchise to another person or to replace such person
+                                 upon expiration of the existing franchise, he shall
+23                               have available on the day beginning the proposed
+                                 franchise term collection vehicles, containers, and
+24                               other equipment          equal        to that presently used            in
+                                 service.
+25
+
+26
+
+Page   13.     - ORDINANCE
+
+                                                                                      4]-02.3S
+                         (c)   Has good moral             character, or if the applicant                     is a firm
+                               or corporation             that the principal partners or                     officers
+                               are of good moral               character.
+
+                         (d)   Will use          disposal sites         authorized         by the       County     Court
+w&
+
+                               and list          such sites.
+fp
+
+                         {e)   Has    sufficient          experience        in properly        providing          such
+                               service to insure compliance with this Ordinance                                    and
+ona
+
+                               any regulations promulgated thereunder.  If the
+                               applicant          does    not have      sufficient          experience,       the
+ a
+
+                               County Court may require the applicant to submit                                    a
+                               corporate surety bond in the amount of $5,000.00
+ ny
+
+                               or one-twelfth             of   the   estimated        gross    revenue       to
+                               be obtained          from the service            annually,          whichever       is
+ aoa
+
+                               greater,          guaranteeing        full     and    faithful       performance
+                               by the applicant of the duties and obligations of a
+                               franchise holder under the provisions of this Ordinance
+10                             and applicable Federal,                  State       and    local    laws    and    rules
+                               or regulations.
+11
+                         (£)   If the applicant is not already serving                              the    area    pro-
+12                             posed to be served, he shall show that:
+
+13                             {aa)        The defined service area                  has    not been       franchised
+                                           to another person; or
+14
+                               (bb)        The    defined      service      area     is    not being       presently
+15                                         served by the holder of a franchise                          therefor
+                                           pursuant to any schedule established as part of
+16                                         the franchise in accordance with subsection (a)
+                                           of Section 103,090 of this Ordinance; or
+17
+                               (cc)        The defined service area is not being adequately
+18                                         served by the holder of the franchise and there
+                                           is a substantial demand from customers within
+19                                         the area for a change of service to that area,
+
+20                       (g)   Has    in    force    public      liability          insurance       in the    amount
+                               of not less          than $300,000.00            and property damage
+21                             insurance in the amount of not less than $25,000.00,
+                               which shall be evidenced by a certificate of insurance,
+22
+             103.040     ISSUANCE     OF COLLECTION            FRANCHISES
+23
+                   (1)   Applications for collection franchises shall be reviewed by
+24                       the Administrator and by the Wasco County Health Officer.
+                         They shall make           such    investigation            as they deem appropriate.
+25                       The Administrator           shall      give   written        notice       to   any person
+                         who holds a franchise which                   includes       any part of the area
+26                       contained     in    the    application         for    franchise.
+
+Page   14.     = ORDINANCE
+
+                                                                                    Lal. Daas
+    1                     Upon    the   basis    of    the    application,           evidence       submitted,           and
+                          results of any investigation by the Administrator and by
+    2                     the Wasco County Health Officer, the Conmittee shall make
+                          a finding on the qualifications of the applicant and shall
+    3                     determine whether additional areas should be included or
+                          additional       service      or    equipment        should       be provided.
+
+    4                     On    the basis of its findings, the Committee shall recommend
+    5                     to    the County Court whether or not the application should
+                          be    granted, be denied, or be modified.   The County Court
+    6                     shall     issue an Order granting,                  denying,       or amending          the
+                          application.
+
+    a         103.045     DISPOSAL      FRANCHISE       REQUIREMENTS
+
+    8               (1)   Applicants for a disposal franchise shall provide sufficient
+    9                     information to determine compliance with the requirements
+                          of this Ordinance, the regulations promulgated thereunder,
+10                        and rules       of Federal,         State,     or    local     agencies        having        juris-
+                          diction, including but not limited to the Environmental
+11                        Quality Department, State Board of Health, Solid Waste
+                          Section of the State Board of Health, Oregon State Highway
+12                        Department, Wasco County Health Department, Wasco County
+                          Plaming Commission and the County Court.
+
+18                  (2)   Applicants shall specify the type of disposal                                  site and the
+14                        disposal method to be employed, together with                                  any proposed
+                          special       regulations dealing with hazardous                         wastes or what
+15                        waste    will    be   accepted        or rejected          at the    disposal          site.
+
+16                  (3)   The    applicant      must    show     to    the    satisfaction          of    the    County
+                          Court that he:
+
+Ww                        (a)     Has    available      land,     equipment,           facilities,         and    per-
+18                                sonnel to meet the standards established by this
+                                  Ordinance      and    ORS    Chapter        459,    and    the    rules       and
+19                                regulations promulgated                thereunder          and has       insurance
+                                  equal    to that      required        by Section          103,030       of    this
+20                                Ordinance.
+1                         (b)     Has good moral character,                   or if the applicant is a
+                                  firm or corporation, that                   the principal partners or
+22                                officers are of good moral character.
+23                        (c)     Has sufficient experience in property providing
+                                  disposal service to insure compliance with this
+24                                Ordinance and any regulations promulgated                              thereunder.
+                                  If the applicant does not have sufficient                              experience,
+5                                 the County Court may require the applicant to submit
+                                  a corporate surety bond in the minimum amount of
+26                                $5,000.00, but not more than $25,000.00, guaranteeing
+
+Page    15.     — ORDINANCE
+
+                                                                                       (4/-0335
+                                 full and faithful performance by the applicant of the
+                                 duties and obligations of a franchise holder under
+                                 provisions            of this Ordinance and applicable Federal,
+                                 State, and            local laws and rules or regulations.   In
+ DN
+
+                                 determining the amount of bond to be required, the
+                                 County Court shall give due consideration to the size
+ &
+
+                                 of the site, the method of disposal proposed, the
+ Be
+
+                                 population            to be       served,     adjacent      or nearby        land    uses,
+                                  and the potential                 danger of failure of service.
+ a
+
+                  (4)    If the applicant is providing disposal service on the
+                         effective date of this Ordinance and files his application
+ OD
+
+                         within 30 days thereafter, he may continue service until the
+ NN
+
+                         final     decision          of     the    County     Court      on his    application.
+ oa
+
+            103.050      ISSUANCE        OF DISPOSAL              FRANCHISES
+ po
+
+                 Applications            for disposal             franchises        shall be reviewed by the
+                 Administrator, the Wasco County Health Officer, and the Wasco
+10               County Planning Commission.   The Administrator, Wasco County
+                 Health Department, and the Wasco County Planning Commission shall
+11               make    such investigation                  as they deem appropriate,                     Written    notice
+                 shall     be given        by    the Administrator                 to   any person     who    holds    a
+12               disposal     franchise              for service       to all or part of the area that
+                 reasonably        would        be    served       under     the    application.
+13
+                 Upon the basis            of the application, evidence                      submitted,        and
+14               results of any            investigation, the Committee                      shall make        a finding
+                 on the qualifications                    of the applicant;              whether     or not additional
+15               service,        land,     equipment          and/or        facilities      should     be provided
+                 and what conditions of service should be imposed, including but
+16
+                 not limited to whether the site should be opened to the public
+                 and under what conditions; whether or not certain types of
+17
+                 wastes,     solid       wastes,          or hazardous         wastes      should     be    excluded       from
+                 the site or should be required                         to be accepted            at the site;
+18
+                 whether     or not        the       site    is    economically          feasible;     whether       or not
+                 the site may be integrated with existing private or county-owned
+19
+                 or operated sites; and whether or not the site camplies with all
+20               rules and regulations adopted pursuant to ORS Chapter 459 of
+                 this Ordinance.
+21
+                 On the basis of its findings, the Conmittee shall recommend to
+                 the County Court whether or not the application should be
+22
+                 granted, be denied, or be modified.  The County Court shall
+                 issue an order granting, denying, or amending the application.
+23
+            103.060      APPEAL     ON     A FRANCHISE
+24
+
+25               If the Order of the County Court is adverse to the applicant
+                 or to the holder of an existing franchise, it shall not become
+26               effective        until     30 days          after the date of said Order unless
+
+Page   16     ~ ORDINANCE
+
+                                                                                        /4/-0a3S
+                     the County Court          finds    that there       is an immediate       and serious
+ _
+
+                     danger to the public or that                a health    hazard   or public       nuisance
+                     would be created by a delay.
+ YD
+
+                     The applicant or a franchise                holder may request          a public     hearing
+ WO
+
+                     before     the   County    Court   upon     the    County   Court's     Order   by   filing
+                     a written request for the hearing with the County Court within
+ Rh
+
+                     30 days after the date of said Order.  On the filing of such
+                     request for hearing the County Court shall set a time and place
+                     for a public hearing upon its Order, which hearing shall not be
+ Do
+
+                     more than 30 days from the date of said request for hearing.
+                     The applicant or franchise holder may submit relevant evidence
+                     to the County Court upon the County Court's Order.   Other
+     nr
+
+                     interested persons or affected public or private agencies may
+                     appear and offer oral or written testimony.   The County Court
+     oOo
+
+                     may, following the public hearing, affirm, modify, or rescind                                 its
+                     prior Order.
+     uo
+
+                     Subject to provisions of Section 108.500,                     the determination of
+-_
+2
+
+                     the County Court after conclusion of said                     public hearing shall
+                     be final.
+=—
+a
+
+                     If the County Court makes             a final Order         rejecting     all or part of
+     bd
+
+                     the application for          a franchise, the applicant may not submit
+                     another application          for the same service area or a portion
+     Ww
+ee
+
+                     thereof or the same          disposal site for a period of six months
+                     unless     the County Court         finds    that the public          interest requires
+     Be
+
+                     reconsideration        within      a shorter       period   of time.
+     on
+
+                103.070     EXCLUSIVE      OR JOINT      SERVICE       UNDER A FRANCHISE
+_
+a
+
+                     If the County Court finds upon recommendation of the Committee
+                     that an applicant for a collection franchise cannot provide
+NS
+ =
+
+                     service to a single customer, a group or type of customers, or
+                     for a particular type or unusually large quantity of solid
+Oo
+=
+
+                     waste, it may issue a franchise for joint service with another
+                     person who can provide that service, provided, however, that
+=|-&
+Ob
+
+                     in all cases in which the County Court finds that the applicant
+                     is able to provide adequate service within the defined service
+no
+Oo
+
+                     area it shall issue an exclusive franchise for that area to
+                     the applicant.
+an
+no
+
+                     If the holder of a franchise is mable to provide service for
+ND
+ &
+
+                     particular types or unusually large quantities of solid wastes,
+                     the County Court may issue a temporary or permanent franchise
+ WO
+Nw
+
+                     to another person for the limited purpose of providing service
+                     to the customer or customers having such particular type or
+wo
+ &
+
+                     unusually        large quantity      of solid wastes.
+ no
+So
+
+                     If   the   County    Court   finds    upon    recommendation          of the Admin-
+                     istrator     that the need         for service       justifies   action before         a
+no
+ a
+
+Page|}     17     - ORDINANCE
+
+                                                                                 (/ql-0A3S
+                 complete investigation and final determination can be made it
+                 may Order the Administrator to issue a temporary certificate
+                 valid for a stated period not to exceed six months entitling
+DN
+
+                 a person to serve a defined service area or customers,
+ODO
+
+            103.080      TRANSFER        OF    FRANCHISES
+Bf
+
+                 A franchise        holder may transfer                his    franchise       or a portion
+                 thereof to other persons only upon                          written    notice     to    and
+ a
+
+                 approval by the County Court.
+ a
+
+                 Upon a reconmendation and                    finding of the Conmittee              the County
+                 Court    shall     approve       the       transfer    if it    finds    that     the    trans-
+                 feree meets        all applicable                requirements met by the original
+                 franchise holder,  The County Court shall approve or disapprove
+                 any application for transfer of a franchise within 30 days of
+                 receipt       of notice by the County Court unless                        the County Court
+                 finds    there     is    a substantial             question    of public        health    or
+10               safety involved which                 requires       additional       time    for investi-
+                 gation and decision.
+11
+                 Upon recommendation              of the Conmittee             the County Court may permit
+12               a franchise to be pledged as security for purchase of land,
+                 equipment, or facilities needed to provide service or to finance
+13               purchase of a business providing service under this Ordinance.
+                 The County Court may attach whatever conditions it deems appro-
+14               priate to guarantee maintenance of service.
+
+15          103.090      RESPONSIBILITIES              OF    FRANCHISE       HOLDERS
+
+16                (1)    The   holder         of a collection          franchise:
+
+17                       (a)     Shall provide required service, equipment, and facil-
+                                 ities, but not less than service, equipment, and
+18                                facilities       commensurate with             existing        service provided
+                                within         the service area defined in the franchise,
+19                              within         one month from the date of issuance of the
+                                  franchise unless                the County Court       extends        the time
+20                               upon     showing       of reasonable          grounds     by the       applicant.
+                                 In the event an area is not receiving service on the
+a1                               date of the application for a franchise covering
+                                  such    area,    the       County    Court    may order        that    service
+22                               be provided           at such time as it finds to be reasonable.
+
+23                       (b)      Shall not voluntarily                discontinue        service       to the
+                                  service       area    or any       substantial       portion     thereof       or
+24                               any customer without giving 90 days written notice
+                                 of the proposed discontinuance of service to the
+25                              Administrator               and    to his    customers     and    shall    not
+                                 discontinue the service without receiving the approval
+26                               of the County Court.   Nothing in this section shall
+
+Page   18     ~- ORDINANCE
+
+                                                                                       f/4/- OQ2S-
+                                 prohibit       a franchisee       from    refusing         to provide       service
+  eS
+
+                                 to a customer          if the customer           refuses     to pay      for the
+                                 service       in accordance       with    rates     established          pursuant
+  BH
+
+                                 to this       Ordinance     or for other reasons                as may be
+                                 established by the County Court by regulation, pro-
+  ODO
+
+                                 vided, however, in no event shall the holder of any
+                                 franchise terminate such service without seven days
+  Be
+
+                                 prior written notice notifying his customers and the
+                                 Administrator of the holder's intention to terminate
+      oO
+
+                                 service.   A franchise holder who has discontinued
+                                 service       on the    basis    of    a refusal        of a customer        to      pay
+      Oo
+
+                                 for such service may demand that the customer pay                                 in
+                                 advance a reasonable deposit to guarantee payment                                 for
+      ony
+
+                                 future    services       before       reinstating        such    service.
+
+                                 Nothing       in this     subsection      shall     apply       to any Order          for
+                                 a change,       restriction,          or termination         of service         by
+      pop
+
+                                 any public agency,           public      body,     or    Court    having
+                                 jurisdiction.
+      CO
+
+                          (c)    May   contract     with     another      person     to provide        service
+                                 within    a service area after giving written                       notice
+      PF
+
+                                 to and obtaining approval of the Administrator.   The
+Fe
+
+                                 Administrator shall approve the contract unless he
+                                 finds that the quality or extent of service would be
+Fe
+      DW
+
+                                 jeopardized.
+      BP
+SF
+
+                          (d)    May refuse service to a customer upon reasonable
+                                 grounds when approved by the Administrator upon a
+      eH
+Fe
+
+                                 finding that service at the particular location would
+                                 jeopardize the safety of the driver of the collection
+      DOD
+FF
+
+                                 vehicle or the motoring public, that the customer
+                                 has not provided reasonable access to the pickup
+      SB
+Fe
+
+                                 point for the containers storing solid wastes without
+                                 hazard or risk to the person providing service, or
+     oO
+FF
+
+                                 that weather conditions                prevent     service to the par-
+                                 ticular customer.
+  OD
+Fe
+
+                    (2)   The   holder    of    a disposal       franchise:
+  0D
+YHO
+
+                          (a)    Shall    not voluntarily          discontinue           service without
+  *-
+HO
+
+                                 giving    at    least     90 days      written     notice       of the
+                                 proposed       discontinuance          of service        to the County          Court
+  BH
+DH
+
+                                 and   to any     franchisee       using    his     disposal       site    and
+                                 further receiving the approval of the County Court
+  OB
+DH
+
+                                 prior to discontinuing said service.  This paragraph
+                                 shall not apply to any Order                 for closure or restriction
+  8&8
+DHS
+
+                                 of use by any public agency,                 public body, or Court
+                                 having    jurisdiction.
+  wn
+wo
+  Oo
+no
+
+Page        19   ~ ORDINANCE
+
+                                                                            f4/-Da3S
+                        (b)   May contract with another person to operate the dis-
+                              posal site after giving written notice to and obtaining
+                              the approval of the Administrator,   The Administrator
+ND
+
+                              shall approve the contract unless he finds that the
+                               quality or extent of service would be jeopardized.
+ WO
+
+                               In making his determination, the Administrator shall
+                               consult    with   the Wasco    County     Health        Department.
+ BP
+
+                        (c)   May refuse       disposal    service     to any customer            if the
+ ao
+
+                               customer    refuses   to pay    for     the    service        in accordance
+                               with the rates established pursuant to this Ordinance.
+ AD
+
+                               A franchise holder who has discontinued service for
+                               refusal    of   a customer    to pay     for     such    service     may
+ ny
+
+                               demand that the customer            provide      a reasonable        deposit
+                               in advance      to guarantee    payment        for     future    service
+ a
+
+                               prior    to reinstating      such     service,
+
+            103.100     ENFORCEMENT      OF FRANCHISE     PROVISIONS
+10
+                 The Administrator shall upon reasonable cause make an invest~
+11               igation to determine if there is sufficient reason and cause
+                 to suspend, modify, revoke, or refuse to renew a franchise as
+12               provided     in this    section.    If in the opinion              of the Admin-
+                 istrator, there is sufficient evidence to constitute a
+13               violation of this Ordinance or ORS Chapter 459, or the rules
+                 or regulations promulgated under either, the Administrator
+14               shall notify the holder of the franchise in writing of the
+                 alleged violation, delineate in said notice the steps that must
+15               be taken to cure the violation and inform the holder that he
+                 must   comply   with    the   requirements    set     forth     in    said    notice.
+16               The Administrator shall notify the Committee of said violation.
+                 Upon a finding that a violation exists and that the franchisee
+17               is unable or refuses to cure the violation, the Committee shall
+                 make its recommendation to the County Court that the franchise
+18               be suspended, modified, or revoked or that it not be renewed,
+
+19          103.110     SUSPENSION, MODIFICATION,           REVOCATION,         OR REFUSAL       TO RENEW
+                         A FRANCHISE
+20
+                  (1)   Upon recommendation by the Committee or upon its own motion
+21                      the County Court may suspend, modify, revoke, or refuse
+                        to renew a franchise upon finding that the holder thereof
+22                      has:
+
+23                      (a)    Willfully violated this Ordinance or ORS Chapter 459,
+                               or the rules or regulations promulgated thereunder; or
+24
+                        (b)   Materially       misrepresented        facts    or information         given
+25                             in the application         for the     franchise;        or
+
+26
+
+Page   20     - ORDINANCE
+
+                                                                             {/a/- vaBS
+                                                     (c)     Willfully      refused to provide                 adequate        service     in a
+            &
+
+                                                              defined     service    area    or     at    the    franchised        disposal
+                                                              site    after written notification                     and a reasonable
+            HH
+
+                                                             opportunity      to do    so;    or
+             WD
+
+                                                     (a)     Misrepresented         the gross        receipts           from the        franchised
+                                                              service area or, if required                     to report on such
+             Fh
+
+                                                              receipts, the gross receipts                     from operation of              a
+                                                              franchised     disposal       site.
+              Do
+
+                                              (2)   In lieu of immediate suspension, modification, revocation,
+                                                    or refusal to renew a franchise, the County Court may order
+                                                    compliance and make the suspension, modification, revoc-
+                                                    ation, or refusal to renew a franchise contingent upon
+               on
+
+                                                    compliance with the Order within the period of time stated
+                                                    in said Order.
+               wow
+
+                                              (3)    If the County Court suspends, modifies, revokes, or                                      refuses
+                                                     to renew the franchise, the action shall not become
+ od
+OS
+
+                                                     effective until 30 days after the date of the order unless
+                                                     the County Court finds that there is a serious and immediate
+ce
+EY
+
+                                                    danger to the public health or that a public nuisance would
+                                                    be created.   The holder of a franchise may request a public
+                              He
+
+                                                    hearing before the County Court upon the County Court's
+                          ee
+
+                                                    Order by filing a written request for such hearing with the
+                           OW
+
+                                                    County Court within 30 days after date of said Order.   Upon
+                                                    filing of said request for hearing, the County Court shall
+                       FP
+>>
+
+                                                    set a time and place for a public hearing upon its Order,
+                                                    which hearing shall be no more than 30 days                                 from the date
+                    oe
+                    eH
+
+                                                    of filing of said request for hearing.  The                                 franchise
+                                                     holder     and other     interested          persons        or     affected    public
+                  A
+
+                                                     agencies may submit oral or written                         evidence        to the
+                                                     County Court relevant to the County Court's Order.   The
+               NN
+
+                                                     County Court may, following the public hearing, affirm,
+                                                     amend, or rescind its prior Order.   Subject to provisions
+            oO
+
+                                                     of Section 108.500, the determination of the County
+                                                     Court after conclusion of said public hearing shall be
+         Ob
+
+                                                     final.
+      OF
+
+                                        103.120      PREVENTING         INTERRUPTION    OF    SERVICE
+   KF
+
+                                             The    holder     of any     franchise    agrees,           and    it     is    a condition          of
+                                             his    obtaining        and holding     the franchise              that whenever           the
+DP
+
+                                             County Court finds that the failure of service would result
+                                             in creation of health hazards or public or private nuisance,
+Ww
+ >
+
+                                             the County Court, after reasonable notice, but not less than
+                                             24 hours notice to the franchisee and a public hearing if the
+ >
+&
+
+                                             franchisee        requests     such hearing,           shall       have        the right    to
+ on
+
+                                             authorize another           franchise holder or other person to provide
+OO
+
+                                             service or to use           and operate the land, facilities, or
+                                             equipment of the            franchise    holder through                 leasing     to provide
+ ao
+| >
+
+     Page                          21     - ORDINANCE
+
+                                                                                                                     {/a]- va3S
+                 emergency service        in the event of a serious interruption of
+                 service to all or        to a class or group of customers for so long
+                 as such       interruption continues.
+ND
+
+            103.130     TERM     OF FRANCHISES
+&O
+
+                 Franchises shall be renewable unless grounds exist for refusal
+fp
+
+                 to renew pursuant to Section 103.010 of this Ordinance.
+nan
+
+                 The    term for collection franchises shall be ten years unless
+                 the    County Court finds that a longer or shorter term is
+                 required       in the public     interest,
+ nv
+
+                 The term for disposal franchises shall be determined by the
+                 County Court upon the basis of the reconmendation of the
+ oo
+
+                 Committee based on site longevity, population to be served,
+                 and probable use.
+ po
+
+10          103.150     FRANCHISE     FEES
+
+11                (1)   The County Court shall collect in the manner and at                      the
+                        time provided in this section from the holder of:
+12
+                         (a)     Any collection franchise an annual fee of $100.00
+13                               per collection vehicle used in providing collection
+                                 service on July 1 of the year and payable to Wasco
+14                               County on July 1 of each year.
+
+15                       (b)     Any disposal franchisee, a franchise fee of 4% of its
+                                 gross revenues from garbage disposal,   payable
+16                               monthly by the 20th of the month.
+
+17                (2)   Every     collection     franchise    holder     shall   maintain     books
+                        and records disclosing            the gross receipts       from his     service
+18                      area,    which   books    and   records    shall   be open   at reasonable
+                         times    and places     for audit by authorized          personnel     of Wasco
+19                      County.   When reasonably required by the County Court the
+                        holder of a disposal site franchise shall maintain books
+20                      and records disclosing gross receipts at the disposal
+                        site, which books and records shall likewise be available
+21                      for audit,
+
+22                (3)   Any disposal franchisee failing to pay the franchise
+                        fee by the time specified in Subsection 1(b) of this
+23                      Section is delinquent and shall pay a penalty fee in
+                        addition to the required franchise fee.   The penalty
+24                      fee shall be      $100.00       for each   day   the   payment   is
+                        delinquent.
+25
+
+26
+
+Page   22     ~ ORDINANCE
+
+                                                                               f4/-laaS
+             103,155     SURCHARGES
+
+                   (1)   The County Court may collect in the manner and at the time
+HH
+
+                         provided in this Section from the holder of a disposal
+                         franchise, or the person specified in (3) of this Section;
+WO
+
+                         (a)     A surcharge on solid waste originating from outside
+BP
+
+                                 the regional service area.  The surcharge to be paid
+                                 monthly by the end of the following month.
+ oO
+
+                   (2)   In determining a surcharge, the County Court shall give due
+ DO
+
+                         consideration to any costs the County may incur; out of
+                         region disposal fees; and other factors which may, in the
+                         opinion      of the County Court,                 justify     the establishment           or
+ on
+
+                         adjustment       of    a surcharge.
+
+                   (3)   Surcharges, shall be the ultimate responsibility                                  of the
+wo
+
+                         person contracting or agreeing with the disposal                                  franchisee
+10                       to dispose of out of region solid waste.
+
+11                 (4)   For purposes of Section 103.150 (1)                           (b) surcharges shall
+                         not be considered part of the gross                          revenues of a disposal
+12                       franchisee,
+
+13                 (5)   Any    person    failing       to pay     the      surcharge       by the    date
+                         specified       in Subsection           (1) (a)     of this       Section    is
+14                       delinquent       and    shall    pay    a penalty           fee   in addition       to   the
+                         required      surcharge.         The penalty          fee shall be $100.00               for
+15                       each day      the     payment    is delinquent.
+
+16           103.160     USE    OF FRANCHISE       FEES    AND     SURCHARGES
+
+17                Fees collected pursuant to Section 103.150 and 103.155 of this
+                  Ordinance shall be paid into the general fund of the County,
+18                unless otherwise directed by the County Court.  The Conmittee
+                  May make recommendations to the County Court on a budget                                    for the
+19                use of such funds to carry out the provisions of Section                                    101.020
+                  of this Ordinance.
+20
+                  CHAPTER      104        REMEDIES
+21
+                  104.010      Authority to Fnter Premises
+22                104.020      Investigation to Determine Whether Public Nuisance
+                                Exists; Notice to Abate; Proceeding to Prevent
+23                               Existence       of Nuisance
+                  104.030      When    Court May Abate           Nuisance;       Liability;          Costs
+24                104,040      Judicial        Review
+                  104.050       Penalties
+25
+
+26
+
+Page   23.     - ORDINANCE
+
+                                                                                           pa/- DABS
+                    CHAPTER       104          REMEDIES
+
+               104.010     AUTHORITY          TO ENTER       PREMISES
+DY
+
+                    The County Health personnel, sanitarians or other authorized
+WO
+
+                    County personnel may enter upon the premises of any person at
+                    reasonable times to determine compliance with and to enforce
+fF
+
+                    Wasco County Solid Waste Collection and Disposal Ordinance.
+aA
+
+               104.020     INVESTIGATION TO DETERMINE WHETHER PUBLIC NUISANCE EXISTS;
+                            NOTICE TO ABATE; PROCEEDING TO PREVENT EXISTENCE OF
+ ons DB
+
+                            NUISANCE
+
+                     (1)   To determine whether there is reasonable                              cause to believe
+                           that a public nuisance exists on private                              property outside
+                           the limits          of any city,          the County Court,               or whomever         it
+                           designates,          may    conduct       an    investigation         for    that      purpose.
+ Oo
+
+                           In conducting          such an investigation,                     the Court,       or whomever
+10                         it desiqnates,             may    administer          oaths,      subpoena       and   require
+                           the attendance of witnesses                      at public hearings,               require         the
+re                         production of relevant                documents,            and    take    the    testimony
+                           of any person.
+12
+                     (2)   Whenever       it appears          that    there       is   reasonable       cause      to
+13                         believe       that a public          nuisance          exists,      the Court may order
+                           that a notice be issued and served upon                              the owner, tenant,
+14                         occupant or person in possession of the                              premises where the
+                           nuisance is alleged to exist, requiring the person to appear
+15                         before the board at the time and place stated in the notice
+                           to   show     cause    why       a nuisance       should       not be      declared      to    be
+16                         existing on the premises.
+
+17                   (3)   At the time and place described in the notice,                                    the Court
+                           shall conduct a public hearing on the question                                    of the
+18                         existence of the alleged nuisance.  If the board finds that
+                           a nuisance exists, it shall declare the existence of a
+19                         nuisance by order entered in its journal, and may order
+                           a suit to be brought                in the name of the County to institute
+20                         injunction,          abatement       or    any    other      proceeding          provided      by
+                           law to prevent             temporarily or permanently                     the existence            of
+a4                         the nuisance,
+
+22             104.030     WHEN     COURT      MAY ABATE       NUISANCE;          LIABILITY;         COSTS
+
+23                   (1)   In lieu of and not in addition to the remedies provided in
+                           Section 104,020 of this Ordinance, if after a hearing held
+24                         in accordance with that section, the Court declares the
+                           existence of a nuisance by Order entered in its journal,
+25                         and if the owner or occupant of the property fails to
+                           abate the nuisance within                      30 days      after    the entry         of the
+26                         Order,       the    Court    may    cause       the    nuisance      to be abated.             If
+
+Page      24     — ORDINANCE
+
+                                                                                             9/. 19-3
+                        the abatement is performed by the County, or its agent,
+                        neither the County nor its agent shall be liable for any
+                        trespass or conversion as to any real or personal property
+DY
+
+                        and the costs may be collected                     from the person             served    in
+                        accordance     with        Section       104.020     of    this   Ordinance,       or    they
+WO
+
+                        may be collected as               lien against        the property.
+ Pp
+
+                  (2)   The    remedies      provided          in Section     104.020       of   this    Ordinance
+                        and in this Section are in addition to and not in lieu                                    of
+ an
+
+                        any other remedies otherwise provided by law.
+ a
+
+            104.040     JUDICIAL     REVIEW
+
+                 Review    of any    action        of    the   Board   of Commissioners            taken    pursuant
+                 to Section 104.030 of this Ordinance shall be taken                                   exclusively
+                 by writ of review in the manner provided by law.
+
+            104.050     PENALTIES
+10
+                  (1)   Violation of Wasco County Solid Waste Collection and
+11                      Disposal Ordinance,  (Chapter 102) is punishable by a
+                        $500.00     fine.
+12
+                  (2)   Each    day a violation referred to under Subsection (1) of
+13                      this    section continues constitutes a separate offense,
+
+14                (3)   Penalties     provided           in this     section       are    in addition      to,
+                        and not in lieu of,               any other remedy provided                by law.
+15
+                 CHAPTER      105      RATES AND           CHARGES     FOR    COLLECTION         AND    DISPOSAL
+16                                      SERVICES
+
+17               105.010       Determination of Rates
+                 105.040       Rate Preferences Prohibited
+18               105.050       Responsibility for Payment of                      Charges    for   Service
+
+19               CHAPTER      105      RATES AND           CHARGES     FOR    COLLECTION         AND    DISPOSAL
+                                        SERVICES
+20
+            105.010     DETERMINATION            OF RATES
+a1
+                  (1)   Upon recommendation of the Committee                         the County Court may
+22                      approve and establish existing rates                         filed by applicants
+                        for franchises if it finds that such rates are not demon-
+23                      strably unreasonable and are not substantially higher than
+                        those charged generally in the County under similar service
+24                      requirements and for the same or similar quality of service
+                        or it may establish a rate schedule.   In determining whether
+25                      rates are reasonable under this subsection the County Court
+                        shall give     due consideration               to the rate guidelines
+26                      established         by    this    section.
+
+Page   35     - ORDINANCE
+
+                                                                                     /4/- DABS
+               (2)   Upon    recormendation         of    the    Committee        the    County      Court       may
+                     establish uniform rates               throughout        the County or may
+                     establish     rates      within      zones    based     upon       the    length      of
+ do
+
+                     haul or other           factors which may, in the opinion of the
+                     County Court,           justify establishment of rate differentials.
+ WwW
+
+               (3)   When establishing           rates     for disposal           sites,       in addition
+ HR
+
+                     to other factors specified in this section, the County
+                     Court shall consider the type of site, the cost of
+ ao
+
+                     operation of such site, whether or not the site is open
+                     to the public, the type of waste to be disposed of and
+ OD
+
+                     cost of compliance with Federal, State, and local laws
+                     and regulations, together with such other factors which
+ nN
+
+                     may in the opinion of the County Court affect the rates
+                     to be charged,   ‘The County Court may establish uniform
+ wa
+
+                     rates for all disposal sites                  or may establish different
+                     rates based upon the factors                  specified in this section.
+ po
+
+10             (4)   In    determination       of   rates       or proposed        rate       changes,      the
+                     Committee and the County Court shall give due consideration
+ul                   to:   the investment in facilities and equipment; the
+                     services of management; local wage                      scales;          the concentration
+12                   of customers in the area serviced;                      methods          of storage;
+                     collection;        transportation           and disposal;           the    length of
+13                   haul to disposal facilities; the cost of disposal; a
+                     reasonable return to the owners of the business; the future
+ 14                  service demands of the area or site which must be antici-
+                     pated in equipment, facilities, personnel, or land; extra
+ 15                  charges     for    special     pickups       or pickups        on days         when    service
+                     is not normally provided on a route; extra charges when the
+16                   type or character of solid waste, including but not limited
+                     to wastes with peculiarly offensive odors, requires special
+17                   handling or service; and extra charges for providing
+                     janitorial services on the premises where service is
+18                   provided.
+
+19             (5)   The County Court may require                  an investigation by the Conmit-
+                     tee    of any proposed rate or rate increase                          or decrease.   For
+20                   the    purpose of making this investigation,                          the Committee,
+                     in cooperation with the Administrator, is authorized to hold
+21                   public hearings and to take and receive testimony relevant
+                     to the considerations to be made by the County Court in
+22                   establishing a rate or in allowing or denying the rate
+                     increases or decreases under this Ordinance.  Upon comple-
+23                   tion of its        investigation           the Committee           shall make         a report
+                     of the public hearing and shall make recommendations                                       to    the
+24                   County Court regarding the proposed rate,
+
+25             (6)   In establishing          rates      or in considering              rate increases               or
+                     decreases,        the   County      Court must        find    that       the   rates       will
+26                   be just,     fair,      reasonable,         and sufficient            to provide           proper
+
+Page   26   ~ ORDINANCE
+
+                                                                                   9/-ba3S
+                         service           to the    public.         The    County      Court       may    consider     the
+                         rates charged by other persons performing the same or
+                         similar service in the same or other areas.
+ WD
+
+                  (7)    In    the     event    no rate        has    been      established          for    a particular
+ WO
+
+                         type of service, the Administrator may establish an interim
+                         rate until the County Court makes a final determination on
+ fF
+
+                         the rate for that type of service.  In establishing such a
+                         rate,        the Administrator              shall      give    due     consideration         to all
+ aoe
+
+                         of the        factors       established as guidelines                      for the Conmittee
+                         and     County       Court     in    this    section.
+ OD
+
+            105,040      RATE     PREFERENCES           PROHIBITED
+ NN
+
+                  (1)    No    franchise        holder        subject to rate            regulation under             this
+ fof
+
+                         Ordinance           shall     give    any     rate     preference          to any    person,
+                         locality, or type of solid waste                          stored,          collected,    trans-
+ ow
+
+                         ported, or disposed.
+10
+                  (2)    Nothing           in this     section is intended               to prevent:
+11
+                         (a)      The reasonable establishment of uniform classes or
+12                                rates based upon length of haul, type of solid waste
+                                  stored, collected, transported, or disposed of or
+13                                the number, type, and location of customers served or
+                                  upon other factors as long as such rates are reasonably
+14                                based upon costs of the particular service and are
+                                  approved by the County Court in same manner as other
+15                                rates.
+
+16                       (b)      Any person           from volunteering               service at reduced cost
+                                     for    a charitable,        community,            civic,       or benevolent
+17                                purpose.
+
+18          105,050      RESPONSIBILITY              FOR     PAYMENT       OF   CHARGES       FOR    SERVICE
+
+19               Any person who receives                     service       shall   be    responsible          for payment
+                 for such service.
+20
+                 CHAPTER        106           REGIONAL        COLLECTION         AND    DISPOSAL
+21
+                 106.010         Agreements           for    Joint Franchising
+22               106.020         Agreements           for Allocation of Franchise                     Fees
+
+23               CHAPTER       106            REGIONAL        COLLECTION         AND    DISPOSAL
+
+24          106.010      AGREEMENTS           FOR    JOINI     FRANCHISING
+
+25               The    County        Court    may     enter    into       agreement      with       any City    or     County
+                 for joint or regional                  franchising of collection or disposal
+26               service,
+
+Page   27     ~ ORDINANCE
+
+                                                                                                f/4/-Da2S
+  1           106.020     AGREEMENTS           FOR    ALLOCATION       OF   FRANCHISE      FEES
+
+  2                 The County Court may enter into agreement with any City or County
+                    providing for allocation of franchise fees if the franchise
+ 3                  service areas cross City or County boundaries,
+
+  4                 CHAPTER      107           EXCEPTIONS
+
+  5                 107.010       Persons       and Agencies       Exempted
+
+  6                 CHAPTER    107             EXCEPTIONS
+
+  7           107.010     PERSONS        AND    AGENCIES       EXEMPTED
+
+  8                 This Ordinance            shall    not apply:
+
+  9                 (1)   Within        the    incorporated       limits      of any City,            except            as pro-
+                          vided        pursuant       to    Sections    106.010      to   106.020          of         this
+10                        Ordinance.
+
+11                  (2)   To   Federal         or    State    agencies      that     collect,        store,            transport
+                          or dispose           of wastes       or solid wastes.
+12
+                    (3)   To those who contract with Federal                          or State agencies                      to
+13                        perform the services set forth in Subsection (2) of this
+                          section, but the exemption hereby declared shall extend
+14                        only to rates and terms of service, and only to such
+                          service performed by or for the Federal or State agency.
+15
+                    (4)   The exemptions              declared by Subsections                 (2)    and        (3)     of
+16                        this     section          shall    not apply      to disposal         on    a disposal
+                          site operated by a franchisee                      under     this     Ordinance.
+17
+                    CHAPTER      108           PROCEDURAL       PROVISIONS
+18
+                    108,010      Administration
+19                  108,015       Solid Waste Committee
+                    108,020      Appointment           of the    Solid Waste          Committee
+20                  108.030       Duties of the Solid Waste Committee
+                    108,040      Regional Solid Waste Committee
+21                  108.500      Court Appeal
+                    108.510      Appeals from Decisions of the Administrator
+22                  108.600      Abatement
+                    108,900      Penalties
+23
+24            ATT
+25            ST
+
+26            Hl
+Page}}   28     - ORDINANCE
+
+                                                                                               {/4/- DdBS
+  1                CHAPTER        108             PROCEDURAL        PROVISIONS
+
+              108.010     ADMINISTRATION
+ BH
+
+                   The Administrator, under the supervision of the Committee and
+ WO
+
+                   the County Court, shall be responsible for the administration
+                   and enforcement of this Ordinance,
+ Pp
+
+                   In order        to carry out the duties                   imposed by this       Ordinance,
+ a
+
+                   the Administrator shall                    have authority to enter or authorize
+                   persomnel to enter upon                    the premises of any person regulated
+ fos)
+
+                   by this Ordinance at reasonable times to determine compliance
+  7                with this Ordinance and the regulations promulgated by the
+                   County     Court            pursuant     thereto.
+
+              108.015     SOLID         WASTE      COMMITTEE
+
+                    (1)   There          is hereby created             a Solid Waste Committee         consisting
+10                        of:
+
+11                          (a)     The Wasco County Sanitarian.
+
+12                          (b)     The County Health Officer or Assistant County Health
+                                    Officer.
+13                                        .
+                            (c)     The         City Manager        of The   Dalles,
+14
+                            (a)     ‘Two members            of the general       public.
+15
+                            (e)     As ex officio members without                      vote to advise      and assist
+16                                  the Conmittee:
+
+17                                      (aa)      Mayor of Antelope
+
+18                                      (bb)      Mayor     of Dufur
+
+19                                      (cc)      Mayor     of Maupin
+
+20                                      (dd)      Mayor of Mosier
+
+a1                                      (ee)      Mayor     of Shaniko
+
+22                          (f)     As advisers             to the Committee:
+
+23                                      (aa)      Director     of    Solid   Waste     Section,    State   Board   of
+                                                  Health,
+24
+                                        (bb)      State     Director of Environmental             Quality Depart-
+25                                                ment,
+
+26                                      (cc)      Wasco County District Attomey,.
+Page|}   29     ~~ ORDINANCE
+
+                                                                                             f/4/-DABS
+                  (2)   In    addition       to    the    members    provided        in    Subsection            (a)     of
+                        this section the Board may designate other members,                                        ex
+                        officio menbers, or advisers to the Committee,
+WH
+
+                  (3)   Subject       to    the    approval       of the    County        Court,     public
+WD
+
+                        employee members, ex officio members, or advisers on the
+                        Committee may designate alternates to serve in their place.
+BH
+
+                        The County Court may designate alternates to serve in place
+                        of members          of    the general       public     or    their       representatives.
+wo
+
+            108.020     APPOINTMENT          OF    THE    SOLID    WASTE    COMMITTEE
+Oo
+
+                  (1)   Members of the Solid Waste Conmittee shall be appointed by
+                        the County Court.   Except for public employees who serve
+ on
+
+                        by reason of and for the term of their position held, and
+                        as provided          in Subsection          (2)    of this        section,         the term of
+                        office of a member is three (3) years.    Members of the
+wo
+
+                        Committee shall serve until their successors are appointed
+10                      and qualified.   Vacancies shall be filled by the County
+                        Court for the balance of the unexpired term,
+11
+                  (2)   The initial Solid Waste Committee non-public employee
+12                      menbers shall be appointed for the following terms:
+
+13                      (a)     One member          for    a term ending           June    30,     1974.
+
+14                      (b)     One menber          for    a term ending           June    30,     1975.
+
+15                (3)   The County Court             shall     appoint one of the Cammittee members
+                        as    chairman       and    another       as vice     chairman,          both      of whom           shall
+16                      serve       at the pleasure          of the County Court.                   Three menbers
+                        of    the    Committee       shall     constitute          a quorum        for     the    trans-
+17                      action of business.  The Committee shall meet at such times
+                        as deemed necessary or as called by the County Court.  ‘The
+18                      chairman or any three members of the Committee may call a
+                        special meeting with ten days notice to other members of
+19                      the    Committee,          provided,       however,        members       may waive             such
+                        notice.
+20
+            108.030     DUTIES       OF    THE    SOLID    WASTE    COMMITTER
+ai
+                 In addition to other               duties prescribed              by this Ordinance                   the
+22               Committee shall:
+
+23                (1)   Make an annual report containing its recommendations, if
+                        any, regarding proposed changes or additions to regulations
+24                      promulgated          by the       County Court        or    amendments           to   this
+                        Ordinance for the purpose                   of carrying           out the intent of
+25                      this Ordinance.
+
+26
+Page   30     - ORDINANCE
+
+                                                                                           ('4/-0235
+                  (2)    In consultation with the Wasco County Sanitarian, Wasco
+                         County Health Officer, and Chairman of the Wasco County
+                         Planning Commission, develop a long range plan to provide
+ND
+
+                         adequate disposal sites and disposal facilities to meet
+                         future demands and for regional disposal sites, which
+©
+
+                         plan shall be recommended to the County Court for approval.
+ ff
+
+                  (3)     In consultation with the Wasco County Sanitarian, Wasco
+                          County Health Officer, and Chairman of the Wasco County
+ oa
+
+                          Planning     Commission,       and Wasco County        Planning     Commission,
+                         other affected Counties and affected public agencies and
+ a
+
+                         private persons, develop minimum standards for the location
+                          and operation        of disposal         sites,   including but not     limited
+ nun
+
+                          to protection        of    adjacent      or nearby   residents,
+ o
+
+                  (4)     Perform    such other        acts or duties       as directed      by the
+                         County Court or established by other Ordinances                       or as may
+                         be necessary, proper, or desirable to carry out                       effectively
+10                        the functions        and duties of the Committee,
+
+11          108.040       REGIONAL     SOLID    WASTE    COMMITTEE
+
+12               If     agreement     is   reached     with    one   or more   Counties     pursuant   to
+                 Section 106.010 of this Ordinance for -regional-franchising of
+13               collection or disposal of solid wastes, the County Court may
+                 appoint one or more members of the Committee to serve on a
+14               regional conmittee established by such agreements to advise
+                 the Boards of Commissioners or County Courts of the affected
+15               Counties.
+
+16          108.500       COURT   APPEAL
+
+17               All decisions of the County Court under this Ordinance shall
+                 be reviewable by the Circuit Court of the State of Oregon for
+18               the     County   of Wasco,
+
+19          108.510      APPEALS     FROM    DECISIONS        OF   THE ADMINISTRATOR
+
+20               The    Committee or the County Court, upon their own motion, or upon
+                 the    request of an interested person or affected public agency,
+21               may review decisions               of the Administrator        made pursuant     to this
+                 Ordinance,
+22
+            108.600       ABATEMENT
+23
+                  (1)     The accumulation,           storage, collection, transportation, or
+24                        disposal of solid           waste or wastes by any person in violation
+                          of this Ordinance           or regulations promulgated thereunder is a
+25                        nuisance, and the County Court or District Attorney may,                          in
+                          addition to other remedies provided by law, institute
+26
+
+Page   31     ~ ORDINANCE
+
+                                                                                   pq)2aas
+                            injunction, mandamus, abatement, or other appropriate legal
+                            proceedings to temporarily or permanently enjoin or abate
+                            such storage, accumulation, collection, transportation, or
+DH
+
+                            disposal.
+WD
+
+                      (2)   The provisions of this section are in addition to and                              not
+                            in lieu of any criminal prosecution or penalties as
+FP
+
+                            provided by this Ordinance or State law.
+ an
+
+              108.900        PENALTIES
+ aon a
+
+                      The   violations   of    any    of the   provisions         of    this    Ordinance     shall
+                      be deemed to be a misdemeanor             and shall       be punishable upon             con-
+                      viction by a fine of not more than $500.00, or by imprisonment
+                      in the County jail for not more than six months, or both.
+
+                      REGULARLY    PASSED     AND    ADOPTED   by     the   County     Court     of   the   County
+ yp
+
+10            of Wasco this       19th day of June,        1991.
+
+ret
+12
+13                                                                                     County Jydge
+
+14
+15                                                                                       mnty    Commissioner
+
+16                                                                    Pnoenk
+17                                                             C.E.     Filbin,        County    Commissioner
+
+          Loe LAA
+18            APPROVED AS ‘TO FORM:           4
+19
+20            Bernard L. Smith
+              Wasco County District Attorney
+ai
+22
+23
+24                        Bret.      :
+              Wasco     County Clerk
+25
+26
+Page     32     - ORDINANCE
+
+                                                                                         (40235
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 94.6% of
+the word sequence, and on 58.7% of the figures. Dictionary-recognizable words: 96.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

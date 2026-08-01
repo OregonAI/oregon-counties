@@ -1,0 +1,158 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-comp-plan-amendment-6-20-1990
+title: 'Comp Plan Amendment 6-20-1990'
+doc_type: ordinance
+citation: 'Comp Plan Amendment 6-20-1990'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1990/Comp%20Plan%20Amendment%206-20-1990.pdf?t=202503260855350
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9e7fca73003c0cb922ef7ee589971116275f64d475564daf64bc717bc1ab71d0
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.952; figure agreement 0.729; dictionary ratio 0.944. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 95%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Comp Plan Amendment 6-20-1990 (Comp Plan Amendment 6-20-1990)
+
+## At a glance
+
+OCR-derived text of Comp Plan Amendment 6-20-1990. Not human-verified.
+
+## Full text
+
+FILED    WASSO    STY
+               IN THE COUNTY COURT OF THE STATE OF}OREGON                           98.
+                        IN AND FOR THE COUNTY OF WASG@ 7]                    2 cu PH “SU
+                                                                    KARE    RLOSRS    POs
+                                                                      COUNTY CLERK
+
+IN THE MATTER OF A Public Hearing on the                 )
+Request by Richard J. Murray for a                       )   ORDINANCE AMENDMENT
+Comprehensive Plan Amendment and Zone Change             )
+
+         NOW   ON   THIS DAY,    the above-entitled matter having come       on regularly for
+consideration, said day being one duly set in term for the transaction of public business and
+a majority of the Court being present; and
+
+         IT APPEARING     TO THE COURT:         That on Monday, April 2, 1990, the Wasco
+County Planning Commission duly met and held a public hearing on the application of
+Richard J. Murray for an amendment to the Wasco County Comprehensive Plan to change
+the designation from Forest-Farm to Rural Residential and the zoning map from "F-F(10)"
+Forest-Farm to "R-R" Rural Residential for property described as Township 2 North, Range
+12 East W.M., Section 22, Tax Lot 701.
+
+         IT FURTHER     APPEARING TO THE COURT:               That the Planning Commission
+continued the hearing on Monday, May 7, 1990. The Commission, after receiving testimony
+including a Planning Staff Report, voted unanimously         to recommend    approval of the
+proposed zone change.
+
+         IT FURTHER     APPEARING      TO THE COURT:         That a public hearing was held
+on May    16, 1990, to bring the request before the Court.     That the Court did not take
+testimony or hear the staff report, voting unanimously to continue the hearing to June 6,
+1990.
+
+[ORDINANCE AMENDMENT - Page 1 of 3]
+
+                                      p 96 -    orb © G)
+      IT FURTHER APPEARING TO THE COURT:                             That on June 6, 1990, the Court
+conducted   a public hearing and received testimony including the Staff Report                         and a
+Recommendation from the Planning Commission.
+      Based upon the entire record of all testimony and evidence received, the Wasco
+County Court hereby makes the following findings:
+       1.     Proper     notice was    given and        the hearing was      held    in accordance       with
+              procedural rules for quasi-judicial zone change applications and in conformity
+              with said requirements as set forth in the Wasco County Comprehensive Plan.
+              All members of the County Court were present and were qualified to sit as
+              decision-makers after full disclosure was made and the matter of qualifications
+              was discussed by the Court;
+              In making       its decision,    the   Court     recognizes   the procedural       and     legal
+              requirements        of Wasco     County    Comprehensive      Plan and Land         Use     and
+              Development Ordinance and weighed fully each requirement in arriving at
+              its decision;                                                                                      .
+              Adopts     the recommendation          of the Wasco      County Planning Commission
+              (Attachment A);
+              Adopts the Planning and Development                 Office Staff report, comments and
+              findings (Attachment B);
+              Attaches     a condition that a 50’ buffer be maintained                 along the existing
+              property     line and    along     the proposed      division line in accord        with     the
+              Watermaster’s recommendation.              Said buffer shall not include private well or
+              septic     system    placements,       thereby    reducing    the     potential   for     cross-
+              contamination between the wells and drainfields of the parcels.
+
+      NOW, THEREFORE:               Based upon the attached findings of fact, the County Court
+for Wasco County hereby ordains as follows: The Wasco County Comprehensive Plan Map
+is amended to adopt the "Rural Residential" designation and the Wasco County zoning map
+is amended to adopt the "R-R" designation for property described as Township 2 North,
+Range 12 East W.M., Section 22, Tax Lot 701.
+
+[ORDINANCE AMENDMENT - Page 2 of 3]
+
+                                               P90 - o7€©              @&
+        Emergency Clause:   This action being necessary for the immediate preservation of
+ public peace, health and safety, an emergency is declared to exist, and the Ordinance
+ Amendment takes effect on its passage.
+
+        Regularly passed and adopted by the County Court of the County of Wasco, State
+ of Oregon.
+
+                      DATED this      2Q*             day of June, 1990.
+
+                                                     WASCO    COUNTY       COURT
+
+                                                      We V      ee         MP Z, VA
+                                                     William L, Hulsé, County Judge
+
+                                                       onwir |
+                                                     ah   fiKe              Commissioner
+                                                ho
+                                            i
+ APPROVED     AS TO FORM:
+
+ Df, Hepibe
+Oettrey K. Kolbe
+ Deputy Wasco County District Attorney
+
+ dit
+
+ [ORDINANCE AMENDMENT - Page 3 of 3]
+
+                                           290-076 &)
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 95.2% of
+the word sequence, and on 72.9% of the figures. Dictionary-recognizable words: 94.4%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

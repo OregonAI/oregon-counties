@@ -1,0 +1,5661 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-09-010-mosier-ludo-amendments-9-16-2009
+title: '09-010 Mosier LUDO Amendments 9-16-2009'
+doc_type: ordinance
+citation: '09-010 Mosier LUDO Amendments 9-16-2009'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2009/09-010%20Mosier%20LUDO%20Amendments%209-16-2009.pdf?t=202503260855090
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 32316f9d324d3ebcb991b71048b5ae3f30ca8e589656efe93b4acef03195cc59
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.993; figure agreement 0.750; dictionary ratio 0.970. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 100.005
+    - ORS 197.610
+    - ORS 197.763
+    - ORS 227.175
+    - ORS 227.186
+    - ORS 30.315
+    - ORS 443.400
+    - ORS 446.003
+    - ORS 455.010
+    - ORS 92.010
+    - ORS 92.060
+    - ORS 92.160
+    - ORS 92.190
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# 09-010 Mosier LUDO Amendments 9-16-2009 (09-010 Mosier LUDO Amendments 9-16-2009)
+
+## At a glance
+
+OCR-derived text of 09-010 Mosier LUDO Amendments 9-16-2009. Not human-verified.
+
+## Full text
+
+FILED
+                                                                            WASCO COUNTY
+                                                                           2008 OCT -9   A Ie 094
+
+                                                                       KAREN LEBRETON COATS
+                                                                           COUNTY CLERK
+
+                      IN THE COUNTY COURT OF THE STATE OF OREGON
+
+                             IN AND FOR THE COUNTY OF WASCO
+
+     IN THE MATTER OF THE CITY OF MOSIER’S
+     REQUEST FOR A POST ACKNOWELDGEMENT PLAN
+
+                                                         —~—
+     AMENDMENT FOR LEGISLATIVE AMENDMENTSTO                ORDINANCE
+     MAKE GENERAL UPDATES TO THE CITY’S LAND USE
+     AND DEVELOPMENT ORDINANCE AS IT APPLIESTO            +)‘ No. 09-010
+     THE URBAN GROWTH AREA.                               )
+
+            NOW ON THIS DAY:       The above-entitied matter having come on regularly for
+
+     consideration, said day being one duly set in term for the transaction of public business
+
+     and a majority of the Court being present; and
+
+           WHEREAS, Wasco County and the City of Mosier entered into a revised Urban
+
+     Growth Management Agreement on April 18, 2007 for the implementation of land use
+
+     authority with the City of Mosier’s Urban Growth Area; and Section Ill of that agreement
+
+     requires that the Wasco County Court must adopt any amendments to the City’s Land
+
+     Use and Development Ordinances before they are applicable within the City of Mosier’s
+
+     Urban Growth Area
+
+10          WHEREAS,     In accordance with ORS 197.610, the City of Mosier provided notice
+
+11   to the Department of Land Conservation and Development (DLCD) more than 45 days
+
+12   prior to the first hearing on the proposed amendments to the City’s Land Use and
+
+13   Development Ordinances; and
+     Page 1 - ORDER
+
+                                                  {4004 - D859                     (14-19)
+            WHEREAS,      In accordance with ORS 227.186, the City provided notice of the
+a
+
+     proposed amendments to the City’s Land Use and Development Ordinances to all
+
+     property owners because some of the proposed amendments could have the effect of
+
+     limiting the uses previously allowed on certain properties; and
+
+            WHEREAS,     The City held a duly noticed public hearing on the proposed
+
+     amendments to the City’s Land Use and Development Ordinances on April 1, which
+
+     was continued to April 8, May 6, May 15 and May 27, 2009 for the receipt of public
+
+     testimony and Council deliberation; and
+
+            WHEREAS,     At the City of Mosier’s final hearing, the City Council voted to adopt
+
+10   the proposed amendments to the City’s Land Use and Development Ordinances; and
+
+11          WHEREAS,     That on September 2™, 2009 at the hour of 10:30 AM in the Wasco
+
+12   County Courtroom, Room 202, of the Wasco County Courthouse the Wasco County
+
+13   Court met to conduct a legally notified public hearing on the above matter. The County
+
+14   Court reviewed the record, heard the presentation by the City of Mosier’s Planner, Dotty
+
+15   DeVaney, deliberated and, on a vote of 2 — 0 approved the amendments to the City of
+
+16   Mosiers Land Use and Development Ordinance as it applies to the City’s Urban Growth
+
+17   Area, as laid out in Attachment A, to be signed at the next scheduled County Court
+
+18   meeting, September 16, 2009; and
+
+19          NOW THEREFORE        IT IS HEREBY ORDERED:         That the request by the City of
+
+20   Mosier for a Post-Acknowledgement Plan Amendment for legislative amendments to the
+
+21   City of Mosier’s Land Use and Development Ordinance as it applies to the City’s Urban
+
+22   Growth Area is approved.
+
+23
+
+     Page 2 - ORDER
+
+                                                   b007- ease (a%/2 “)
+1         SIGNED this 16th day of September, 2009.
+
+                                              WASCO COUNTY COURT
+
+                                               Dan Erickgen,
+
+                                               Short alle
+                                              Sherry Hollidgy, Commissionsy
+
+                                              Bill Lennox, Commissioner
+
+    APPROVED AS TO FORM:
+
+     (oN
+    Eric J. Nisley
+    Wasco County District Attorney
+
+    Page 3 - ORDER
+
+                                                £4009- 03598 n/Oe )
+                                        TITLE 15
+                                   ZONING ORDINANCE
+
+CHAPTERS:
+
+15.01            INTRODUCTORY PROVISIONS
+15.02            BASIC PROVISIONS AND LAND USE ZONES
+15.03            SUPPLEMENTAL PROVISIONS
+15.04            PERMITS: NONCONFORMING USES, VARIANCES, SIMILAR
+                 USES, FORMAL CODE INTERPRETATIONS, MODIFICATION
+                 OF A PRIOR APPROVAL.
+15.05            CONDITIONAL USE PERMITS
+15.06            SITE PLAN REVIEW
+15.07            ADMINISTRATION AND PROCEDURES
+15.08            ANNEXATION
+15.09            LANDSCAPING STANDARDS
+15.10            ZONE CHANGES and COMPREHENSIVE PLAN AMENDMENTS
+15.11            WIRELESS COMMUNICATIONS FACILITIES: STANDARDS
+                 AND PROCESS
+15.12            RESERVED FOR PUD / COTTAGE DEVELOPMENT OR OTHER
+                 RESIDENTIAL OR MIXED USE INFILL PROVISIONS
+                 INCLUDING CREATION OF SPECIAL STANDARS
+                 IMPLEMENTED BY: OVERLAY, SPECIAL/CONDITIONAL USE
+                 PERMIT, OR ZONING DESIGNATION.
+
+                                      CHAPTER 15.01
+                              INTRODUCTORY       PROVISIONS
+
+Section:
+15.01.010                Title
+15.01.020                Purpose
+15.01.030                Compliance with Title Provisions
+15.01.040                Interpretation
+15.01.050                Relationship to Other Regulations
+15.01.060                Definitions
+
+15.01.010 — Title. This ordinance shall be known as the City of Mosier Zoning
+Ordinance or the “MZO.” This is Title 15 of the Mosier Municipal Code (MMC).
+
+15.01.020 — Purposes
+A.       This ordinance is intended to implement the applicable State-wide Planning
+Goals, administrative rules, ORS chapters 197 and 227, and the goals and policies set
+forth in the City’s Comprehensive Plan. The land use regulations and procedures set
+forth in this ordinance, in conjunction with the City’s other land use regulations, are
+
+Page 1 - Mosier Zoning Ordinance          L500? — CAS                 (A 4B feaw)
+designed to provide a comprehensive and coordinated system for regulating the use of
+land and for providing necessary urban services and facilities.
+
+B.      This ordinance is adopted to promote and protect the health, safety and welfare of
+the citizens of the City of Mosier.
+
+c.      This ordinance replaces and repeals the previous zoning ordinance (Ordinance
+No. 134).
+
+15.01.030 — Applicability and Compliance Required.
+A.       All use and development of land within the corporate limits of the City of Mosier
+shall conform to the requirements of this ordinance. In addition, the City may through
+intergovernmental agreements, exercise land use regulatory and/or permitting authority
+on land outside the City limits. Any use or development of land thus subject to the City’s
+land use regulations but does not conform to the requirements of this ordinance, or where
+a permit is required but none is obtained, is a violation of this ordinance and a civil
+infraction subject to prosecution by the City.
+
+B.       Any land use permit or approval granted by the City, including any conditions
+attached thereto, shall become a binding land use regulation enforceable upon any land
+that is subject to such a permit or land use approval. Any violation of, or failure to fulfill,
+any such conditions is also a violation of this ordinance and a civil infraction subject to
+prosecution by the City.
+
+Cc.     The building official shall not issue any permit for the construction,
+reconstruction, use or change of use of a structure or land that does not conform to the
+requirements of this ordinance.
+
+D.      Before land may be put to any new use, or construction, or for which a permit is
+required by this or any other City ordinance, the property owner or that person’s
+representative shall submit an application for the appropriate permit or approval. The
+applicant and property owner shall be responsible for the accuracy of all information
+submitted in support of any permit or land use application.
+
+15.01.040 — Interpretation. The City Planner, as designated by the City Council, shall
+have the initial authority and responsibility to interpret and enforce all terms, provisions,
+and requirements of the MZO. If requested, the City Planner may make a formal
+interpretation in writing, in accordance with the Type II decision making procedures
+provided for in Chapter 15.07 Administration and Procedures. \n all cases where there is
+a dispute as to the meaning of an ambiguous term, expression or requirement of this
+ordinance, the City Council’s reasonable interpretation shall control.
+
+15.01.050 — Relationship to Other Regulations. Where the provisions of this ordinance
+conflict with some other City ordinance or regulation, the more restrictive or more
+specific regulation shall govern. Where a use is allowed in one zone and not mentioned
+in another zone, it is assumed that the use is prohibited in the other zone. Any use not
+
+Page 2 - Mosier Zoning Ordinance            OO. F- - 0 257               (s    9/92,
+specifically listed as being allowed in a zone is assumed to be not allowed unless
+specifically authorized through a similar use determination is obtained under the
+provisions of Chapter 15.04 Permits: Nonconforming Uses, Variances, Similar Uses,
+Formal Code Interpretations, Modification of a Prior Approval.
+
+15.01.060 — Definitions.
+A.        Except as defined in this section, terms used in this ordinance shall have their
+ordinary meanings. Where terms are ambiguous or subject to several possible meanings,
+the context of this ordinance, the Land Division Ordinance and Comprehensive Plan shall
+dictate the most appropriate meaning.
+
+B.        As used in this ordinance, the singular includes the plural and the masculine
+includes the feminine and neuter; the word “may” is discretionary, the “shall” is
+mandatory.     The following words and phrases shall have the following meanings:
+
+     1.   “Access” means the legal right of ingress or egress by which pedestrians and
+          vehicles enter and leave property.   Demonstration of an access right requires
+          documentation in the form of a recorded instrument or legal conveyance of access
+          from the property owner.
+
+     2.   “Accessory use” or “accessory structure” means a use or structure incidental and
+          subordinate to the primary use of a property and which is located on the same lot
+          as the primary use or is on a contiguous lot under the same ownership.
+
+     3.   “Accessory dwelling unit” means one dwelling unit not exceeding 640 sf in floor
+          area, that includes a kitchen, not more than one bedroom and one bathroom, on a
+          lot with an existing single family dwelling or within a larger building put to some
+          commercial use.
+
+     4.   “Alley” means a street which affords only a secondary means of access to the
+          property
+
+     5,   “Applicant” means any person or party who submits an application for a quasi-
+          judicial permit or determination under this ordinance or the City’s Land Division
+          Ordinance.
+
+     6.   “Application” means any request for a quasi-judicial decision under this
+          ordinance or the City’s Land Division Ordinance.
+
+     7.   “Approval Criteria” and “Approval standards” mean the substantive requirements
+          set forth in this ordinance, the Comprehensive Plan, the Land Division Ordinance
+          and any applicable provision of State law that must be met in order for a permit to
+          be approved.
+
+     8.    “Automobile wrecking yard” means the commercial storage or sale of used
+          automobile or truck parts or for the storage, dismantling or abandonment of junk,
+
+Page 3 - Mosier Zoning Ordinance          {4007 - J3S7                ( Ze nf I),
+        obsolete automobiles, trailers, trucks, machinery or parts thereof, unless said
+        activity takes place outside of an enclosed structure.
+
+        “Bed and Breakfast” means an establishment in a residential zone that contains up
+        to 5 guest bedrooms, is owner or manager occupied, provides a morning meal,
+        and limits the length of stay to 15 days. Bed and Breakfasts require a conditional
+        use permit as allowed by Chapter 15.05, and compliance with the applicable
+        standards in Section 15.03.080
+
+    10. “Building” means a structure or manufactured home built for the support, shelter,
+        or enclosure of people, animals or property of any kind.
+
+    11. “Building official” means the State of Oregon Building Official, or that person’s
+        duly authorized representative, who is responsible for the administration and
+        enforcement of the State structural specialty codes, including the building code, in
+        Mosier.
+
+    12. “Carport” means a stationary, roofed structure or a portion of a building open on
+        two or more sides primarily used for the parking of motor vehicles.
+
+    13. “Church” means a building used primarily for religious worship.
+
+    14. “Change of use” means any use that substantially differs — either qualitatively or
+        quantitatively — from the current use of a structure or property. Factors to
+        consider when identifying a change of use include the effects on parking,
+        drainage, circulation, landscaping, building arrangements, and nuisance factors
+        including, but not limited to, traffic, lighting and noise, the number or type of
+        items sold or services provided.
+
+    15. “Child care center” means a facility that provides care and supervision of minor
+        children for periods of less than 24 hours and which complies with all applicable
+        State licensing requirements.
+
+    16. “City” means the City of Mosier.
+
+    17. “City Council” means the Mosier City Council.
+
+    18. “City Planner” means the person designated by the City Council to interpret,
+        apply and enforce provisions of this ordinance and the City’s Subdivision
+        Ordinance, including the review of permit applications and the issuance of
+        permits.
+
+    19, “Commercial use” means any activity involving buying and selling of goods and
+        services.
+
+Page 4 - Mosier Zoning Ordinance           /300         G-       2 4S7    ( 7 QR          Aa
+                                                                                             »
+    20. “Condominium unit” means one of a group of housing units where each
+        homeowner owns their individual unit space, and all dwellings typically share
+        ownership of areas of common use. Individual units normally share walls, but that
+        isn't a requirement. The main difference in condos and regular single homes is
+        that there is no individual ownership of a plot of land. All the land in the
+        condominium project is owned in common by all the homeowners and managed
+        by a homeowners’ or tenants’ association. The maintenance responsibility for
+        common land and amenities managed by an association is established in the
+        declaration or bylaws and supported by dues paid by owners of individual units.
+        Each owner pays taxes on their individual ownership and is free to sell it at will.
+        The exterior walls and roof of units are typically insured by the condominium
+        association, while all interior walls and items are typically insured by the
+        individual owner. “Condominium” ownership is created and governed in Oregon
+        by statute (ORS 100.005 to 100.910 and 100.990), known as the "Oregon
+        Condominium Act."
+
+    21. "Drive through facilities" are commercial facilities designed to serve customers
+        who remain in their vehicles, such as those associated with fast food restaurants,
+        banks and coffee stands.
+
+    22. “Driveway apron” means a paved or concrete connection from the public street to
+        the property line and/or driveway of a dwelling unit.
+
+    23. “Duplex” means a building containing 2 dwelling units, in a single ownership,
+        where each unit is designed for occupancy by a single household.
+
+    24. “Dwelling, single family” means any building designed or used exclusively for
+        occupancy by one household and containing one dwelling unit. The term includes
+        manufactured homes meeting the requirements of Section 15.03.070
+        Manufactured Home Siting Standards.
+
+    25. “Dwelling unit” means a living facility that includes provisions for sleeping,
+        eating, cooking and sanitation, as required by the Uniform Building Code, for not
+        more than one household or a group residence. A manufactured home that
+        complies with the requirements of this ordinance is a dwelling unit, but a
+        recreational vehicle is not, nor can it be used as, a dwelling unit.
+
+    26. “Emergency” means a sudden unforeseen event requiring immediate action and
+        usually involving danger or threat to life, public health, or property.
+
+    27. “Family day care” means a facility that provides care for not more than 12
+        children in a home and which complies with all applicable State licensing
+        requirements.
+
+    28. “Final Action” and “Final Decision” mean the City’s final decision on a permit
+        application for which there is either no appeal to another decision maker witbin
+
+                                                                               & 2% J2¢
+Page 5 - Mosier Zoning Ordinance               HOOFD           a Ss" 4G                 (Final)
+        the City, or, if there is the possibility of a local appeal, an appeal was not timely
+        perfected in accordance with Chapter 15.07 Administration and Procedures. A
+        decision is deemed to be final on the date that written notice of the decision is
+        mailed to those entitled to notice of the decision. All applicable appeal periods
+        begin to run on the date a decision becomes final.
+
+    29. “Formula take-out food restaurant” means a restaurant or establishment that (1) is
+        required by contractual or other arrangement to offer standardized menus,
+        ingredients, food preparation, interior or exterior design and/or uniforms and (2)
+        serves or delivers its food in disposable containers.
+
+    30. “Fourplex” means a building containing 4 dwelling units, in a single ownership,
+        where each unit is designed for occupancy by a single household.
+
+    31. “Frontage street or road” means a minor street which parallels an arterial street in
+        order to provide access to abutting properties and minimize direct access onto the
+        arterial.
+
+    32. “Grade” means the lowest point of elevation of the finished surface of the ground,
+        paving or sidewalk within the area between the building and the property line, or
+        when the property line is more than 5 feet from the building.
+
+    33. “Group residence” or “group home” means a residence for a group of more than 5
+        persons who are not related by blood, marriage, legal adoption or legal
+        guardianship, living together in the same residential structure where there is a
+        communal kitchen and dining facility.
+
+    34. “Height of building” means the vertical distance above the base point measured to
+        the highest point of the coping of a flat roof, to the deck line of a mansard roof or
+        to the mid-point (half way between the eve and the peak) of a pitched or hipped
+        roof. The base point shall be the height of the original (pre-development) grade
+        of the property measured 5 feet out from the midpoint along the foundation wall.
+        When measuring building height on a sloping lot, the base point shall be the
+        average grade measured 5 feet out from the midpoint of all four walls.
+
+    35. “Home occupation” means a lawful commercial occupation carried on by a
+        resident of a dwelling as an accessory use solely within the same dwelling, or
+        lawfully constructed accessory building and which is secondary to the primary
+        residential use of the dwelling. Home occupations require a conditional use
+        permit as allowed by Chapter 15.05, and compliance with the applicable standards
+        in Section 15.03.120 Home Occupations.
+
+    36. “Household” means one or more people related by blood, marriage, adoption or
+        legal guardianship, plus up to 3 additional unrelated people, all of whom live in
+        one dwelling unit.
+
+                                                     aa
+                                                                         (40)
+Page 6 - Mosier Zoning Ordinance        Let               0457                            (Final)
+    37. “Industrial” means the making of commodities by manufacturing, assembling,
+        fabrication, or compounding by manual labor or machinery. The term includes
+        physical processes or combinations thereof.
+
+    38. “Legislative” means any action or proceeding to amend any city ordinance,
+        including this one or the Land Division Ordinance, the city’s comprehensive plan
+        or related maps, and does not pertain to a particular property or small set of
+        properties.
+
+    39. “Light industrial” means an industrial use which occurs totally within an enclosed
+         structure and where there is no odor, vibration, dust, or noise discernible outside
+         the structure.
+
+    40. “Lot” means a parcel or tract of land that was legally created, according to the
+        procedural and dimensional requirements that existed at the time of creation, and
+        the parcel or tract has remained lawful since creation.
+
+    41. “Lot depth” means the average distance between the front lot line and the rear lot
+        line.
+
+    42. “Lot line, front,” means the property line closest to the street from which the
+        access to the lot is commonly made.
+
+    43. “Lot line, rear,” means the property line which is opposite and most distant from
+        the front lot line. In the case of an irregular, triangular, or other odd-shaped lot or
+        parcel, the rear lot line is a line 10 feet in length within the lot or parcel parallel to
+         and at a maximum distance from the front lot line.      In the above instance, and if
+         the front line is curved and a determination of the parallel relationship to the front
+         lot line is being made, a straight line connecting the two end points of the front lot
+         line shall be used. In the case of a comer lot or parcel, either interior lot line may
+         be the rear lot line, regardless of the placement of the front door.
+
+    44, “Lot line, side,” means the property lines which are approximately perpendicular
+        to and between the front and rear lot lines.
+
+    45. “Lot width” means the average horizontal distance between the side lot lines.
+
+    46. “Lot of record” means a parcel or lot that meets the requirements of “lot” as
+        defined above, except that one or more dimensional requirements have changed
+        since the time of creation so as to render the lot nonconforming.
+
+    47, “LUBA” means the Oregon Land Use Board of Appeals.
+
+    48. “Manufactured home” means a transportable single family dwelling conforming
+        to the Manufactured Housing Construction and Safety Standards Code of the U.S.
+        Department of Housing and Urban Development, but is not regulated by the
+
+Page 7 - Mosier   Zoning Ordinance           Ye            0257               /e *        9)
+           Oregon State Structural Specialty Code and Fire Life Safety Regulations, and is
+           intended for permanent occupancy. A recreational vehicle is not, and cannot be
+           used as, a manufactured home.
+
+    49. “Manufactured home park” means any place where 4 or more manufactured
+        dwellings (as defined in ORS 446.003(26)) are located within 500 feet of one
+        another on a lot, tract or parcel of land under the same ownership, the primary
+        purpose of which is to rent space or keep space for rent to any person for a charge
+        or fee paid or to be paid for the rental or use of facilities or to offer space free in
+        connection with securing the trade or patronage of such person. “Manufactured
+        dwelling park” does not include a lot or lots located within a subdivision being
+        rented or leased for occupancy by no more than one manufactured dwelling per
+           lot if the subdivision was approved by the City of Mosier under an ordinance
+           adopted pursuant to ORS 92.010 to 92.190.
+
+    50. “Material deviation”      means    any   of the   following   changes   to   a previously
+        approved permit:
+
+           a.     For subdivisions or approved binding site plan, an increase in the total
+                  number of dwelling units or lots by 10% or more, an increase in the
+                  number of multiple family dwellings by more than 10%, or a reduction in
+                  the amount of landscaping, open space or land reserved for protected
+                  feature of 10% or more.
+
+           b.     For conditional use permits, site plan reviews, or other approval involving
+                  a request to change the amount of commercial or industrial area by more
+                  than 10%.
+
+           c.     For any permit approval, a reduction in the amount of landscaping, open
+                  space or land reserved for some protected feature of 10% or more or the
+                  relocation of buildings, streets, access points onto the existing public right
+                  of way, utility easements, pedestrian/bicycle accessways, parking lots,
+                  landscaping, or other site improvements away from the previously
+                  approved general location.
+
+           d.     Any change to a non-quantified condition or requirement or one which
+                  renders the prior approved permit incompatible with surrounding lands or
+                  development or noncompliant with any of condition of approval or
+                  approval criterion.
+
+    31. “Motel” is the same as a “hotel” and “boarding house” and means any building
+           that rents rooms for temporary residence by the day, night, week or month,
+           excluding bed and breakfast establishments as defined above.
+
+    52. “Multifamily residential” means any type of residential structure with more than
+        one dwelling unit in the same building or attached by a shared wall or walls.
+
+Page 8 -   vostezmingoxtnance — PROOP> DBS                                  (/ ( ay)
+        Multifamily housing includes: 2-4 dwelling units: duplex, triplex, and fourplex as
+        well as structures accommodating 5 or more units: apartment building.
+        Multifamily housing may be tenant-occupied, owner-occupied (as in a
+        condominium or cooperative project), or mixed (as many duplexes with the owner
+        occupying one side).
+
+    53. “Nonconforming use,” structure or lot means a use, structure or lot that was
+        lawfully established, existing and active at the time this ordinance or any
+        amendment thereto became effective, has been actively maintained to the same
+        extent without any gaps or lapses greater than one year (12 continuous months)
+        since the time restrictive zoning was first imposed, and which does not conform to
+        one or more of the current requirements of this ordinance. A nonconforming use
+        has a qualitative component, i.e., the nature or type of use, and a quantitative
+        component, i.e., what is the measurable extent of the use. A nonconforming use
+        can decrease in extent over time, but it cannot lawfully increase in extent over
+        time.
+
+    54. “Occupation” means any endeavor for profit.
+
+    55. “Qutdoor storage” means the keeping of personal or business property or motor
+        vehicles outside of a building for more than 72 consecutive hours.
+
+    56. “Owner” means a person owning a legally recognized interest in real property.
+
+    37. “Parcel” means a tract of land that is created by partitioning of land.
+
+    58. “Parking space” means a rectangle not less than 18 feet long and 9 feet wide for
+        use by a vehicle.
+
+    59. “Permit” means a quasi-judicial discretionary approval of the development of
+        land that applies or interprets any provision of this ordinance, the Mosier
+        Comprehensive Plan or the Land Division Ordinance, including, conditional use
+        permits, subdivisions, partitions, planned unit developments, formal code
+        interpretations, variances, similar use determinations, nonconforming use
+        verifications, and any modification thereto.
+
+    60. “Person” means a natural person, firm, partnership, estate, receiver, syndicate,
+        branch of government or any group or combination acting as a unit.
+
+    61. “Private driveway” means any form of access to a lot that is not dedicated to, and
+        available for use by, the general public.
+
+    62. “Professional office” means a use involving professional services such as medical
+        care, consulting, legal services, and other similar services.
+
+                                                                                           A
+Page 9 - Mosier Zoning Ordinance         fp) A   027-     0257               /2   ea   (a¢
+    63. “Projections” that are allowed to extent into required setbacks and above the
+        maximum building height include architectural features such as cornices, eaves,
+        canopies, sunshades, gutters, chimneys, flues antennas and the like as determined
+        by the city planner.
+
+    64. “Public facility or use” means a facility or use owned or used by a governmental
+        entity and used for public service, police, fire protection, sewage collection and
+        treatment, storm drainage systems, water distribution and treatment, public health
+        services, public recreational programs and facilities, and library services. Surface
+        mines owned or operated by a governmental entity or any use accessory thereto
+        are not public facilities or uses.
+
+    65. “Public right of way” means a strip of land dedicated to the general public and
+        open for ingress, egress and the placement of utilities.
+
+    66. “Quasi-judicial” means a proceeding initiated by an application in which existing
+        standards or criteria are applied to a specific set of facts in order to determine
+        whether the applicable criteria are met. The result of a quasi-judicial decision
+        affects only one or a small number of identifiable properties or people and is not
+        generally applicable.
+
+    67. “Recreational vehicle” means a trailer, camper, motor home or similar vehicle,
+        with or without its own engine, which is designed for temporary occupancy and
+        has a gross floor space of less than 400 sf. A recreational vehicle cannot be used
+        as a dwelling unit or a manufactured home, as defined in this Chapter.
+
+    68. “Recreational vehicle park” means any area designed to provide temporary
+        parking for, and use of, recreational vehicles and which meets all applicable state
+        licensing and permitting requirements. The maximum stay shall be limited to 120
+        consecutive days.
+
+    69. “Residential care facility” means a residential care, residential training, or
+        residential treatment facility licensed or registered by the State (Mental Health
+        and Development Services Division) as defined in ORS 443.400, which provides
+        residential care alone or in conjunction with treatment or training, or the
+        combination thereof, for 6 to 15 individuals who need not be related.       Staff
+        persons required to meet the licensing requirement shall not be counted in the
+        number of facility residences and need not be related to each other or to any
+        resident of the residential facility. A residential facility does not include a
+        residential school; state or local correctional facility; juvenile training school;
+        youth care center operated by a county juvenile department; juvenile detention
+        facility; nursing home; family care facility; or children’s or adult day care as
+        defined by State law.
+
+    70. “Residential home” means a residential treatment or training or adult foster home
+        licensed by or under the authority of the State (Mental Health and Development
+
+Page 10 - Mosier Zoning Ordinance     y O07       fp) 257              [7          3
+                                                                                         wy)  (Final)
+        Services Division), which provides residential care alone or in conjunction with
+        treatment or training, or a combination thereof, of 5 or fewer individuals who
+        need not be related. Staff required to meet licensing requirements shall not be
+        counted in the number of facility residents, and need not be related to each other
+        or to any residents of the residential home.
+
+    71. “Residential use” means the use of a structure for occupancy as a human dwelling
+        or lodging place, such as a single family dwelling, duplex, apartment, boarding,
+        lodging or rooming house, mobile home or mobile home park, or labor camp.
+
+    72, “Setback” means an area established for the purpose of defining limits within
+        which no building or structure or any part thereof shall be erected or permanently
+        maintained. Setbacks are measured from the rear, side and front property lines to
+        the nearest part of a structure.
+
+    73. “Sign” means an outdoor display, message, emblem, device, figure, painting,
+        drawing, placard, poster, or other thing that is used, designed or intended to
+        communicate to persons or the public. The term includes the sign supporting
+        structure, display surface and all other component parts of the sign. When
+        dimensions of the sign are specified, the term includes the panels and frames, and
+        the term includes both sides of the sign of specified dimension or area, but the
+        term shall not include a sign as reasonably necessary or required by any branch or
+        agency of the government pursuant to any public law or regulation.
+
+    74. “Street” means the entire width of a public right-of-way.
+
+    75 . “Structure” means a man made building constructed or built having a fixed base
+        on or fixed connection to the ground or other structure. Surface coverings such as
+        pavement and concrete are not structures.
+
+    76. “Subject property” means one or more parcels of real property that are the subject
+        of a quasi-judicial permit application.
+
+    77. “Temporary event” means a one-time event or limited frequency event or use that
+        will not last for more than one week or consist of more than five (5) event days
+        per calendar year and then will end. Temporary events do not involve
+        construction or alteration of any permanent building or structure nor connection
+        with any public facilities, but all impacts of the use, such as traffic pedestrian
+        circulation, trash collection and the like, must be avoided, minimized or mitigated
+        for. Temporary events are only allowed in the Commercial, Industrial and Public
+        Lands zone. Any signs associated with a temporary event are subject to the sign
+        code regulations in Chapter 8.20 of MMC. Approval of a temporary event permit
+        is not a land use permit and is not subject the Iand use decision-making
+        procedures detailed in Chapter 15.07 Administration and Procedures.
+
+Page 11 - Mosier Zoning Ordinance        V3    07      7” 02    S7          v4.19)           (Final)
+        “Temporary use” means a use established for a limited duration, not to exceed one
+        year, that is, or will be, discontinued after one year. Temporary use does not
+        involve construction or alteration of any permanent building or structure, although
+        the authorization of the temporary use does not necessarily preclude such
+        construction.
+
+    78. “Townhouse” means two or more single family dwellings that are attached
+        (common wall) with no lot or space separating them and where the legal property
+        line separating the lots runs through the building dividing the ownership of the
+        land into separate lots. Individual townhouse units can be separately owned and
+        sold.
+
+    79, “Tract” means a separately described parcel of land that cannot be used for the
+        construction of a dwelling or any other structure, but instead is used for open
+        space, stormwater detention or some other similar purpose.
+
+    80. “Triplex” means a building containing 3 dwelling units, owned by a single owner,
+        where each unit is designed for occupancy by a single household.
+
+Page 12 - Mosier Zoning Ordinance      [3007-0357                       C SB 7)      (Final)
+                                  CHAPTER 15.02
+                     BASIC PROVISIONS AND LAND USE ZONES
+
+Section:
+
+15.02.010                Compliance with Ordinance Provisions Required
+15.02.020                Establishment Land Use Zones
+15.02.030                Official Zoning Map Adopted
+15.02.040                Zoning Boundaries
+15.02.050                Residential Zone (R-5)
+15.02.060                Residential Zone (R-10)
+15.02.070                Commercial Zone (C)
+15.02.080                Industrial Zone (1)
+15.02.090                Open Space (OS)
+15.02.100                Public Lands and Facilities (P)
+
+15.02.010 - Compliance with Ordinance Provisions Required.           Property may be used,
+and a structure or part of a structure may be constructed, reconstructed, altered, occupied
+or used, only as allowed by this ordinance. If a zone does not list a particular proposed
+use, the use is not allowed unless it is authorized through a similar use determination as
+provided in Chapter 15.04 Permits: Nonconforming Uses, Variances, Similar Uses,
+Formal Code Interpretations, Modification of a Prior Approval.
+
+15.02.020 - Establishment Land Use Zones.          This ordinance hereby establishes the
+following land use zones for the city.
+
+                                      TABLE 15.02-A
+                                Definitions of Land Use Zones
+
+                                    Zone                                  Abbreviated
+                                                                          Designation
+   Residential 5,000 square foot minimum lot size                              R-S
+   Residential 10,000 square foot minimum lot size                            R-10
+   Open Space                                                                  OS
+   Commercial                                                                   Cc
+   Industrial                                                                    I
+   Public Lands and Facilities                                                  P
+
+15.02.030 — Official Zoning Map Adopted. The Mosier Zoning Map is attached to this
+ordinance as Appendix I and is incorporated herein and adopted by this reference. The
+official boundaries of the zones described in this ordinance are indicated on the Mosier
+Zoning Map. Zoning Map amendments shall be dated with the effective date of the
+ordinance that adopts the map amendment and filed in the office of the city recorder.
+
+                                                                                              Pe}
+                                           Z (ROOF 2357                      /e al(Final) /)
+Page 13 - Mosier Zoning Ordinance
+15.02.040 — Zoning Boundaries. Unless otherwise specified, zone boundaries are center
+lines of streets, lot lines, city limit lines, or the rim of Mosier Creek Canyon. Where a
+street does not serve as a zone boundary, the public right-of-way shall have the same
+zoning designation as the adjacent or surrounding property. All private driveways are
+subject to city zoning regulations.
+
+15.02.050 - Residential Zone (R-5)
+
+A.             Permitted Uses
+               1. Single family dwellings and accessory structures
+               2.         Group Residential
+
+B.             Conditional Uses
+                          Accessory dwelling unit
+           CO PNAMWPWND
+
+                    Bed and breakfast facilities
+                    Churches
+                    Civic or fraternal organization
+                    Duplexes, triplexes, fourplexes, and sixplexes
+                    Family day care
+                    Home occupations
+                    Manufactured home parks
+                    Planned Unit Development
+                10. Public parks, playgrounds, and related facilities
+                11. Residential Care Facilities
+                12. Schools and child care centers
+                13. Townhouses or Condominiums
+               14. Public facilities & private utilities
+               15. Access for non-residential uses on adjacent parcels
+
+Cc.       Minimum Lot Size and Maximum Lot Coverage. Maximum lot coverage is
+ subject to Chapter 15.03 Supplemental Provisions. The following minimum lot sizes
+ shall control:
+
+                             Single family dwelling       5,000 square feet
+                             Duplex                       10,000 square feet
+                             Triplex                      12,000 square feet
+                             Fourplex                      14,000 square feet
+
+Conditional approval of either residential townhouse or condominium                     units shall be
+limited to the maximum density allowed for multifamily units in the base zone and shall
+be subject to site plan review.
+
+Dz.           Setback Requirements.           The minimum setback requirements shall be as follows:
+
+      1.     Front Yard Setback: A minimum front yard setback of 10 feet is required, except
+             that an unenclosed porch may be within 8 feet of the front property line, as long
+
+Page 14 - Mosier Zoning Ordinance
+          as it does not encroach into a public utility easement. Garages and carports shall
+          be recessed behind the front building line at least 4 feet. Garage and carport
+          entrances may be built flush with the front building line only when the building is
+          set back at least 20 feet from the street accessed by the driveway so that a vehicle
+          can be parked in front of the garage and not encroach into the setbacks or
+          sidewalk area. Where garages do not face the frontage street, the garage need not
+          be flush with the house but may protrude toward the frontage street so long as a
+          minimum front yard setback of 10 feet is maintained.
+
+     2.   Rear Yard Setback: A minimum rear yard setback of 5 feet is required.
+
+     3.   Side Yard Setback: The minimum side yard setback shall be 5 feet, except for
+          corer lots where the side yard setback facing the street shall be 10 feet.
+
+     4.   Setback Exceptions: Projections may encroach no more than 3 inches for each
+          foot of required yard width. Condominium and townhouse developments may be
+          allowed to modify side yard setbacks to allow shared wall construction if
+          compliance with all other standards including maximum density, conditional use
+          permit criteria and site plan review standards is achieved.
+
+E.        Maximum Building Height, Buildings, structures, or portions thereof, located 10
+feet or more from the property line, shall not exceed 35 feet in height. Buildings,
+structures, or portions thereof, located less than 10 feet from the property line, shall not
+exceed 28 feet in height.
+
+F.        Parking Regulations
+     1.   Each dwelling unit shall be provided with at least 2 parking spaces on the building
+          site.
+     2.   Parking spaces taking access from a public dedicated alley may be located within
+          the setback area.
+
+G.        Signs. All signs are subject to the Sign Code regulations in Chapter 8.20 of
+MMC.
+
+H.        Lighting.   All exterior lighting is subject to the lighting regulations in Chapter
+8.30 of MMC.
+
+I.      Sanitation Regulations. No structure may be occupied without it first being
+connected to the city sewer and water systems at the property owner's expense.
+
+15.02.060 - Residential Zone (R-10)
+A.      Uses Permitted Outright
+    1. Single family dwellings and accessory structures
+     2.   Group Residential
+
+B.        Conditional Uses
+
+                                                                                                /OF
+Page 15 - Mosier Zoning Ordinance               p H0: a         O   3 Sf            /      Cah
+           Accessory dwelling unit
+
+     YWNSD
+           Bed and breakfast facilities
+           Churches
+           Civic or fraternal organization
+     PANAMA
+           Duplexes, triplexes, fourplexes, and sixplexes.
+           Family day care
+           Home occupations
+           Manufactured home parks
+           Planned Unit Development
+       10. Public parks, playgrounds, and related facilities
+       11. Residential Care Facilities
+       12. Schools and child care centers
+       13. Townhouses & Condominiums
+       14. Public facilities & private utilities
+       15. Access for non-residential uses on adjacent parcels
+
+c.       Minimum Lot Size and Maximum Lot Coverage. Maximum lot coverage subject
+to Chapter 15.03 Supplemental Provisions. The following minimum lot sizes shall
+control:
+
+                     Single family dwelling         10,000 square feet
+                     Duplex                         15,000 square feet
+                     Triplex                        20,000 square feet
+
+Conditional approval of either residential townhouse or condominium units shall be
+limited to the maximum density allowed for multifamily units in the base zone and shall
+be subject to site plan review.
+
+D.            Setback Requirements.    The minimum setback requirements shall be as follows:
+
+       1.     Front Yard Setback: A minimum front yard setback of 10 feet is required, except
+              that an unenclosed porch may be within 8 feet of the front property line, as long
+              as it does not encroach into a public utility easement. Garages and carports shall
+              be recessed behind the front building line at least 4 feet. Garage and carport
+              entrances may be built flush with the front building line only when the building is
+              set back at least 20 feet from the street accessed by the driveway so that a vehicle
+              can be parked in front of the garage and not encroach into the setbacks or
+              sidewalk area. Where garages do not face the frontage street, the garage need not
+              be flush with the house but may protrude toward the frontage street so long as a
+              minimum front yard setback of 10 feet is maintained.
+
+      2.      Rear Yard Setback:   A minimum rear yard setback of 10 feet is required.
+
+      3.      Side Yard Setbacks: The minimum side yard setback shall be 5 feet, except for
+              comer lots where the side yard setback facing the street shall be 10 feet.
+
+Page 16 - Mosier Zoning Ordinance
+       4.       Setback Exceptions: Projections may not encroach more than 3 inches for each
+                foot of required yard width. . Condominium and townhouse developments may be
+                allowed to modify side yard setbacks, to allow shared wall construction, if
+                compliance with all other standard including: maximum density, conditional use
+                permit criteria and site plan review standards is achieved.
+
+E.       Maximum Building Height. Buildings, structures, or portions thereof, located 10
+feet or more from the property line, shall not exceed 35 feet in height. Buildings,
+structures, or portions thereof, located less than 10 feet from the property line, shall not
+exceed 28 feet in height.
+
+F,              Parking Regulations.
+        1.      Each dwelling unit shall be provided with at least 2 parking spaces on the building
+                site.
+       2.       Parking spaces taking access from a public dedicated alley may be located within
+                the setback area.
+
+G.              Signs. All signs are subject to the Sign Code regulations in Chapter 8.20 of
+MMC.
+
+H.              Lighting.   All exterior lighting is subject to the lighting regulations in Chapter
+8.30 of MMC.
+
+I               Sanitation Regulations. No structure may be occupied without it first being
+connected to the city sewer and water systems at the property owner's expense.
+
+15.02.070 — Commercial Zone (C)
+
+A.              Uses Permitted Outright:    None
+
+B.              Conditional Uses
+                Business, governmental, or professional offices
+     wUkwYyNe
+
+                Change of use
+                Financial institutions, such as a bank
+                Group Residential
+                Parking lots of 4 or more spaces, new or expanded, and/or the equivalent of
+                paving equal to 4 or more parking spaces; shared parking lots may include up to
+                the maximum combined number of spaces specified in Section 15.03.130 General
+                Requirements for Parking Lots of this ordinance.
+      6.        Personal and business service such as barber shop, tailoring shop, printing shop,
+                laundry or dry cleaning establishment, and electrical repair shops
+      7.        Residential Facility
+       8.       Retail business in which the operation takes place solely within an enclosed
+                building
+      9. Agricultural support services including produce storage facilities
+      10. Churches
+
+Page 17 - Mosier Zoning Ordinance                        peer las (40 n-/ 2)                    me
+    11. Commercial amusement
+    12. Family oriented craft industries
+    13. Hospitals, sanitariums, rest homes, nursing or convalescent homes
+    14. Light industrial uses
+    15. Lodge for civic or fraternal organization
+    16. Planned unit developments
+    17. Public facilities and uses
+    18. Public parks, playgrounds and related facilities
+    19. Commercial uses such as motels, gasoline service station or restaurant
+    20. Residential use in a building where there is an established commercial use and
+        residential use is accessory to and compatible with the commercial use.
+    21. Schools and day care facilities
+    22. Rooming and boarding houses
+    23. Public facilities
+    24. Drive through facilities where the building is smaller than 200 sq. ft.
+
+             Prohibited Uses
+             Drive through facilities where the building is 200 sq.ft. or larger
+   ANRYWND
+
+             Commercial uses with a footprint larger than 25,000 sq.ft.
+             Outside storage
+             Recreational vehicle park
+             Formula take-out restaurant, such as a fast food operation.
+             Aggregate resource extraction and processing and accessory uses, including
+             hauling, crushing and batching
+
+             Site Development Requirements
+         .   Minimum Lot Size:    None
+
+             Minimum Street Frontage:        25 feet on a dedicated public street.
+
+             Maximum Lot Coverage: Maximum lot coverage subject to Chapter 15.03
+             Supplemental Provisions.
+
+             Minimum Yard Setbacks:
+             a.      Front - none required
+             b.      Side and rear - Not required except in the case where the structure is
+             adjacent to a residential zone, in which case a 10 foot setback is required for all
+             structures,
+
+             Maximum Yard Setbacks:
+             a.      Front — 10 feet. This standard may be increased when a sidewalk, bicycle
+                     path, multi-use path and/or planting strip is provided between the building
+                     and front property line.
+             b.      Side and rear - Not required.
+
+Page 18 - Mosier Zoning Ordinance
+                                                   Ppo0e- D357 (co EL of,
+      6.      Maximum Building Height:
+                      a.     For buildings south of Hwy 30, 28 feet
+                      b.     For buildings north of Hwy 30, 1 story or 18 feet as measured from
+              top of the pavement of Hwy 30.
+
+       7.     Parking Regulations: Parking is required and shall comply with the applicable
+              parking regulations in Section 15.03.130 General Requirements for Parking Lots
+              of this ordinance.
+
+E.            Signs. All signs shall comply with the sign regulations in Chapter 8.20 of MMC.
+
+F.            Lighting.   All exterior lighting is subject to the lighting regulations in Chapter
+8.30 of MMC.
+
+G.      Landscaping. Landscaping is required and shall comply with the landscaping
+standards of Chapter 15.09.
+
+H.     Sanitation Regulations. No structure may be occupied or otherwise used in the
+Commercial Zone unless it is first connected to the city sewer and water systems at the
+expense of the property owner.
+
+15.02.080 - Industrial Zone (1)
+A.            Uses Permitted Outright:    None.
+
+B.       Conditional Uses: Light industrial uses which take place inside an enclosed
+building and accessory uses including transportation, loading, unloading and temporary
+staging.
+
+Cc.     Prohibited Uses: Aggregate resource extraction and processing and accessory
+uses, including crushing, hauling and batching.
+
+D.            Site Development Requirements
+              Minimum Lot Size: None
+     YVRYNE
+
+              Minimum Street Frontage: None
+              Minimum Yard Setbacks: None
+              Maximum Building Height: 35 feet
+              Parking Regulations: Parking is required and shall comply with the applicable
+              parking regulations in Section 15.03.130 General Requirements for Parking Lots
+              of this ordinance.
+
+E.     Signs:         All signs shall be in conformance with the sign regulations in Chapter 8.20
+of MMC.
+
+F.      Lighting:         All exterior lighting is subject to the lighting regulations in Chapter
+8.30 of MMC.
+
+Page 19 - Mosier Zoning Ordinance                 amor 0259                        ayer)        (Final)
+G.      Landscaping: All landscaping shall be in conformance with the landscape
+standards of Chapter 15.09.
+
+H.       Sanitation Regulations: No structure may be occupied or otherwise used in the
+Industrial Zone unless it is first connected to the city sewer and water systems at the
+expense of the property owner.
+
+15.02.090 - Open Space (OS)
+
+A.         Uses Permitted Outright:   None
+
+B.         Conditional Uses - Public or Non-Profit Only:
+           Parks
+           Recreation areas
+     yeh
+
+           Community center, including housing for senior citizens
+           Public utilities, public facilities and public uses
+
+15.02.100 —Public Lands and Facilities (P)
+
+A.       Purpose of Public Lands and Facilities zone. The public land and facilities zone
+includes lands in public and semi public ownership or use as designated on Mosier’s
+official zoning map and is intended to accommodate public and semipublic uses that
+provide government services, education, and other public services in order to meet public
+need and demands in a planned and coordinated manner.
+
+Public services and activities conducted by public agencies intended to be accommodated
+in the Public Lands zone include: recreation, administration, education, and the physical
+provision of public services such as water and sewer.           Semipublic services include
+public/private partnerships that conduct the activities authorized in this section.
+
+The following uses operated by the public or semi public agency that owns the
+development site, or operated by an entity other than the public agency upon a finding
+that the property is not currently needed for a public purpose (per the process described in
+subsection 15.02.100-H.3. Determination of need of this ordinance) may be permitted
+conditionally subject to special conditional use criteria applicable in the Public Lands
+zone or subject to conditional use criteria listed in MZO Chapter 15.05 and the special
+conditional use criteria applicable in the Public Lands zone.
+
+B.      Uses permitted conditionally subject to special conditional use criteria applicable
+in the Public Lands zone (see subsection 15.02.100-H, below):
+      1.   Parks, Athletic Fields and Playgrounds
+     2.    Trails and Recreation areas
+     3.    Public and Community Gardens, excepting livestock of any kind
+
+Page 20 - Mosier Zoning Ordinance            L300    4-0     3 Sf           (3            2)
+Cc.    Conditional uses subject to special conditional use criteria applicable in the Public
+Lands zone (see subsection 15.02.100-H, below) and conditional use criteria listed in
+Chapter 15.05 of this ordinance:
+       Public utilities, public facilities and public uses
+      AwPRWN>
+
+       Community center, including public housing and housing for senior citizens
+       Family day care
+       Schools and child care centers
+       Civic or fraternal organization
+                     Schools, Academies,     or Studios    (including:     Ballet,   Yoga,   Martial   Arts,
+                     Gymnastics, and Art)
+                     Administrative, General and Professional Offices
+      4
+
+                     Churches
+        mem 10 00
+      mo’.
+
+                     Horticultural Uses, including plant nurseries
+                    . Information Technology Services
+                    . Scientific and Educational Research Centers
+      —
+
+                 Prohibited Uses
+                 Heavy Industrial uses
+      Ne
+
+               . Aggregate resource extraction and processing and accessory uses, including
+                 hauling and asphaltic or concrete batching.
+
+                     Site Development Requirements
+               .     Minimum Lot Size: None
+
+                     Minimum Street Frontage:     25 feet on a dedicated public street.
+
+                     Minimum Yard Setbacks:
+                     a.       Front - Not required except in the case where the structure is adjacent to a
+                     residential zone, in which case a 10-foot setback is required for all structures.
+                     b.       Side and rear - Not required except in the case where the structure is
+                     adjacent to a residential zone, in which case a 10 foot setback is required for all
+                     structures.
+
+                     Maximum Building Height:      35 feet.
+
+                     Parking Regulations: Parking is required and shall comply with the applicable
+                     parking regulations in Section 15.03.130 General Requirements for Parking Lots.
+
+F.                   Signs: All signs shall comply with the sign regulations in Chapter 8.20 of MMC.
+
+G.     Lighting: All exterior lighting shall comply with the lighting regulations in
+Chapter 8.30 of MMC.
+
+H.      Landscaping: Landscaping is required and shall comply with the landscaping
+standards of Chapter 15.09
+
+Page 21 - Mosier Zoning Ordinance                   Pawr-vase                                \AY YI
+I,      Sanitation Regulations: No structure may be occupied or otherwise used in the
+Public Lands zone unless it is first connected to the city sewer and water systems at the
+expense of the property owner.
+
+J.     Special Conditional Use Criteria Applicable in the Public Lands zone:
+     . Ownership. The subject site must be land owned solely by a public or quasi-
+       public agency, or non-profit organization established primarily to provide public
+       and quasi-public uses allowed outright or conditionally in this section. Prior to
+       sale to private owner(s), an applicant must apply for and obtain a new zoning
+       designation for the public land.
+
+     . Proximity to Residential Land. When a proposed public use, access to a public
+        use, or other use accessory to a public use is to be located within 500 feet of land
+        in any residential zone compatibility with the surrounding zone shall be
+        considered prior to approving the use. The City maintains authority to impose
+        conditions necessary to ensure compatibility with uses permitted in surrounding
+        residential zones and to deny uses that pose adverse impacts that cannot be
+        mitigated to an acceptable level by conditions.
+
+     . Determination of Need. The process used by the public agency that owns the
+        property to determine whether a particular use shall be permitted on public
+        property that is found to not be currently needed shall assure that neighborhood
+        residents and property owners in the area have the opportunity to review and
+        comment on the new proposed use.
+
+     . Playgrounds and Recreational Improvements. School playgrounds or other
+       physical improvements providing opportunities for public recreation shall be
+       retained for use as public parks and recreation sites whenever possible.
+
+Page 22 - Mosier Zoning Ordinance          decreases                          (ASL 7)   (Final)
+                                    CHAPTER 15.03
+                              SUPPLEMENTAL PROVISIONS
+
+Section:
+
+15.03.010                Maintenance of Minimum Dimensional Requirements
+15.03.020                Access and Frontage Requirements
+15.03.030                Maximum Lot Coverage
+15.03.040                General Provisions Regarding Accessory Uses
+15.03.050                Fences and Hedges
+15.03.060                Historic Structure Preservation
+15.03.0706               Manufactured Home Siting Standards
+15.03.080                Bed and Breakfast Facilities Development Standards
+15.03.090                Earth Movement, Grading and Removal
+15.03.100                Archeological Resources
+15.03.110                Vision Clearance Areas
+15.03.120                Home Occupations
+15.03.130                General Requirements for Parking Lots
+15.03.140                General Exceptions to Yard Requirements
+15.03.150                General Exceptions to Building Height Limitations and
+                         Setbacks
+15.03.160                Animals and livestock in the city's Residential Zones
+15.03.170                Access for non-residential uses on adjacent parcels
+15.03.180                Architectural Design Standards For Commercial Uses
+15.03.190                Temporary Use Permits in Any Zone
+15.03.200                Bluff Impact and Riparian Protection Areas
+
+15.03.010 — Maintenance of Minimum Dimensional Requirements.                 No lot area, yard
+or other open space existing on or after the effective date of this ordinance shall be
+reduced below the minimum required for it by this ordinance, and no lot area, yard,
+setback or other open space which is required by this ordinance for one use shall be used
+as the required lot area, yard or other open space for another use.
+
+15.03.020 ~ Access and Frontage Requirements. Every lot shall abut a dedicated
+public street, other than an alley, for at least 25 feet. Every lot shall have legal access to a
+public right-of-way.
+
+15.03.030 ~ Maximum Lot Coverage.
+A.         Lot Coverage: The percentage determined by dividing (a) the area of a lot
+covered by the total (in square feet) of: (1) the footprint of the main building; and (2) the
+footprints of accessory buildings (counting only buildings with footprints larger than 150
+square feet, or with two stories or more); and (3) parking pads, driveways, and other
+impervious surfaces such as sport courts etc.; by (b) the gross area of the that lot.
+
+                                                                                    CASPF )
+Page 23 - Mosier Zoning Ordinance          007         b2 S7                 (4          a7
+B.      Maximum Allowable Coverage: Maximum lot coverage applies to any new
+development or expansion of existing development in the “R-5”, “R-10”, and “C” zones.
+New development and expansions to existing development must comply with maximum
+lot coverage standards in Table 15.03-A, except as provided below:
+     1. When a detached garage is provided in the rear yard, of a residential dwelling the
+        maximum lot coverage may be increased as shown in the table below.
+    2.   When a porch is attached to the front elevation of the residential dwelling and has
+         an area of at least 60 square feet on the front of the building (exclusive of any
+         wrap-around or side porch), the maximum coverage may be increased as shown in
+         the table below.
+    3.   When a storm water management plan, prepared by a qualified professional, is
+         provided documenting that all storm water resulting from new development or
+         expansion of existing development can be sufficiently accommodated on site, the
+         lot coverage can be exceeded within the limits of setback requirements.
+
+                                          TABLE   15.03-A
+         Maximum Allowable Residential and Commercial Zone Lot Coverage
+
+         ZONE:                      R-5                     R-10                 C-1
+
+Max Lot Coverage                    40%                     45%                 65%
+
+Max Lot Coverage                    43%                     48%                 -na-
+  w/ front porch
+
+Max Lot Coverage                    45%                     50%                 -na-
+  w/ rear garage
+Max Lot Coverage
+  w/front porch                     48%                     53%                 -na-
+ AND     rear garage
+
+    4.   Existing main and accessory structures that are not in conformance with these
+         coverage requirements on September 1, 2006, are permitted to be rebuilt within
+         the building footprint as it existed on September 1, 2006, if the structures are
+         damaged or partially destroyed by fire, wind, earthquake or other force majeure
+         and if construction commences within two (2) years from the date of the calamity.
+    5.   Multi-family dwellings, subject to Site Plan Review, are exempt from the lot
+         coverage requirements and are required to demonstrate adequate capacity to
+          accommodate storm water, on site circulation etc. through the Site Plan Review
+         process.
+
+15,03.040 — General Provisions Regarding Accessory Uses. An accessory use shall be
+subject to, and comply with, the same requirements that apply to the principal use.
+Accessory uses must be secondary to the primary use in terms of how the entire property
+is used, and must augment or facilitate use of the property for the primary use. Accessory
+
+                                             J 3004-0389                       (47 p14)(Final)
+Page 24 - Mosier Zoning Ordinance
+uses shall be limited to the same lot as the primary use or must be on an adjacent property
+under the same ownership as the property where the primary use is situated.
+
+15.03.050 — Fences and Hedges.        A fence or hedge within a front yard or a street side
+yard shall not exceed 6 feet in height for a distance of at least 3 feet from the front lot
+line. Fences and hedges farther from the front lot line than 3 feet shall not exceed a
+height of 10 feet.
+
+15.03.060 - Historic Structure Preservation.        An Historic Alteration/Demolition Permit
+is required for a major exterior alteration to, or the demolition of, a designated historic
+structure or a structure within a designated historic district, as designated by the
+Comprehensive Plan. The City Council shall process any application for an Historic
+Alteration/Demolition Permit according to a Type III procedure as provided in Chapter
+15.07 Administration and Procedures. The City Council shall review and decide the
+application according to the Historic Preservation factors of this section.
+
+A.       Demolition Procedure: The following factors shall be evaluated in determining
+whether to all, deny or allow with conditions the demolition of any historical structure, or
+a structure within an historic district:
+    1.   State of repair of the building
+         The reasonableness of the cost of restoration or repair
+         The purpose of preserving such designated historical building and sites
+   RW
+
+         The character of the neighborhood
+         Any other factors the City Council determines are appropriate.
+
+Following the City Council review, the City Council may approve or deny the permit for
+Land Use action or delay action for 60 days to allow the owner and affected agencies to
+explore alternatives. If the City Council finds that no suitable alternatives are available,
+the permit may be issued. The City Council, upon finding significant progress is being
+made toward preserving the structure, may extend the delay for an additional 30 days.
+
+B.     Major Exterior Alteration Procedure: The following factors shall be evaluated in
+determining whether to all, deny or allow with conditions the exterior alteration of any
+historical structure, or a structure within an historic district:
+    1.   Review by Council:     Upon receipt of an application for a major exterior alteration
+         of an historic structure listed in the Comprehensive Plan, the City Council, in
+         public meeting, shall review the proposed alteration to determine if the resource’s
+         historical significance will be altered. This review shall be based on the criteria
+         for determining historic significance contained in the Comprehensive Plan.
+    2.   “Major exterior alterations” as used in this section means any change or
+         alteration of a facade, texture, design, materials, fixtures, or other treatment.
+    3.   Information required for review: All applications for major exterior alteration
+         shall be accompanied by plans and specifications of the proposed alteration. The
+         City Council may request additional sketches and other information deemed
+         necessary to make an informed decision.
+
+Page 25 - Mosier Zoning Ordinance          fai 0357                            (269.07)      (Final)
+      4.   Approval and conditions: In order to approve the application, the City Council
+           shall find the alteration harmonious and compatible with the resource with respect
+           to style, scale, texture, and construction materials and/or find the alteration will
+           enhance the historical value of the resource. Conditions may be attached to the
+           approval if the City Council deems it necessary to achieve the above objectives.
+           The City Council shall disapprove the request if the proposal would reduce the
+           resource’s value or historic significance.
+
+Cc.        Conditions and Limitations,    The City Council may attach conditions to an
+Historic Alteration/Demolition Permit limited to addressing architectural design, surface
+texture, materials, fixtures, or other facade or surface treatments which are deemed
+inconsistent with the integrity of the historic values for which the structure or district
+were designated. The City Council shall not attach any condition except for the purpose
+of preventing developments out of character with the historic aspects of the resource.
+
+D.         Maintenance and Repairs. Nothing in this section shall be construed to prevent
+the ordinary maintenance or repair of any exterior architectural feature that the building
+official certifies is required for public safety because of unsafe conditions and does not
+involve a change in design, the construction or reconstruction.
+
+15.03.070 —- Manufactured Home Siting Standards. Only manufactured homes used as
+permanent residences and meeting the following criteria are allowed in manufactured
+home parks or on individual lots in the city’s two residential zones:
+
+A.         The manufactured home may be multisectional but shall enclose a space of not
+less than 1,000 sf.
+
+B.         The manufactured home shall be placed on an excavated and back-filled
+foundation and enclosed at the perimeter such that the manufactured home is located not
+more than 12 inches above grade.
+
+C.       The manufactured home shall have a pitched roof with a slope minimum of 3 feet
+in height for each 12 feet in width.
+
+D.       The manufactured home shall have exterior siding and roofing which in color,
+material and appearance is similar to the exterior siding and roofing material commonly
+used on, or comparable to, residential dwellings on nearby lots as determined by the city
+planner.
+
+E.         The manufactured home shall be certified by the manufacturer to have an exterior
+thermal envelope meeting performance standards required of a single family dwellings
+constructed under the state building code as defined in ORS 455.010.
+
+F.       The Manufactured home shall have a garage or carport built to accommodate at
+least a single car and constructed of materials similar to the home. A garage may be
+
+                                                                                                  Ja y)
+Page 26 - Mosier Zoning Ordinance           J HOV          D o) S    7          (Ary
+                                                                                   BS
+required by the city, in lieu of a carport, where the city determines this to be consistent
+with the predominant construction of immediately surrounding dwellings.
+
+G.      lf a manufactured home must be sited lengthwise with the narrow (side) end of
+the structure oriented toward the front yard the manufactured home can be allowed
+subject to the setbacks in the residential zone and providing that the end of the structure is
+built or installed to include an unenclosed covered porch across the full extent of the
+narrow end facing the front property line. Special setbacks allowing for front porches to
+encroach into the front yards are applicable. (see figure 15.03 A & 15.03 B)
+Manufactured home dimensions do not always allow for the home to be situated so that
+the primary access and front of the structure is oriented toward the front street or front
+property line. The city wishes to provide for manufactured homes on smaller lots where
+the manufactured home cannot be oriented to face front due to predetermined unit sizes
+and configurations and to do so without requiring a variance. Unenclosed covered
+porches are extremely common and encouraged on the front of all residential structures
+even though they are built to orient the front of the home toward the street. Special
+exceptions to front yard setbacks are provided to encourage and accommodate
+unenclosed covered porches in alli residential zones.
+
+Page 27 - Mosier Zoning Ordinance
+                                         009-0887                             (Go par)   (Final)
+Figure 15.03 A Like This - Mobile home with unenclosed covered porch
+
+15.03.080 — Bed and Breakfast Facilities Development Standards.            Bed and breakfast
+facilities, as defined in this ordinance, are allowed in both of the city’s residential zones
+with a conditional use permit and compliance with the following additional standards:
+
+A.      The structure shall retain the characteristics and appearance of a single family
+dwelling.
+
+B.      The number of guest rooms shall be limited to 5, and the number of guests shall
+be limited to 10.
+
+page 2 - Mose Zoning Oninane            $300t-0359                           (3/ &/ y)
+Cc.     In addition to the required off-street parking for each residential use, one off-
+street parking space for each room shall be provided.
+
+Dz.     Signs conform to standards in Chapter 8.20 Sign Code, of MMC.
+
+E.      All exterior lighting conforms to standards in Chapter 8.30 Outdoor Lighting of
+MMC.
+
+F.      The applicant shall submit a site plan that shows how the off-street parking
+requirements will be met and provides landscaping appropriate to a residential
+neighborhood.
+
+15.03.090 — Earth Movement, Grading and Removal. A written permit approved by
+the city shall be required for grading, removal or addition of 50 cubic yards or more of
+earth material from any lot within a calendar year.
+
+15.03.100 — Archeological Resources. If any archeological resources and/or artifacts are
+uncovered during excavation, all construction activity shall immediately cease and the
+State Historic Preservation Office shall be contacted.
+
+15.03.110 - Vision Clearance Areas. A Vision Clearance Area shall be maintained at
+the corners of all property at the intersections of two streets or a street and a railroad. All
+comer lots or parcels shall be provided with and maintain a vision clearance area. The
+vision clearance area shall provide an area of unobstructed vision from 3% feet to 8 feet
+above the top of the curb.
+
+15.03.120 — Home Occupations.        Home occupations, as defined in this ordinance, are
+allowed in both of the city’s residential zones with a conditional use permit and
+compliance with the following additional standards:
+
+A.      The home occupation shall be contained completely inside the house and be
+accessory to the primary residential use of the structure.
+
+B.      The home shall retain the appearance and characteristics of a home and not a
+business.
+
+C.      There shall be no exterior display or sign, except by a non-illuminating sign no
+larger than 2 sf.
+
+D.      There shall be no more than one employee who does not live on site.
+
+E.      There shall be no increase in noise outside the dwelling unit.
+
+F.      There is only a minor increase, if any, in traffic traveling to and from the dwelling
+        unit.
+
+Page 29 - Mosier Zoning Ordinance
+                                           Py00t- 0357 (ga9/2 )                             (Final}
+15.03.130 — General Requirements for Parking Lots. A parking lot, whether an
+accessory or principal use, intended for the parking of 4 or more vehicles shall comply
+with the following:
+
+A.        Areas used for standing or maneuvering of vehicles shall all-weather surfaces that
+do not produce dust.
+
+B.        Parking lots shall be designed and constructed to prevent off-site flow of
+stormwater.
+
+C.     Access aisles shall be of sufficient width for all vehicular turning and
+maneuvering.
+
+Dz      Service drives to off-street parking areas and access points shall be designed and
+constructed to facilitate the safe flow of traffic, and shall provide maximum safety for
+traffic access, pedestrians and vehicular traffic.
+
+E.        Access points for parking lots shall have a minimum vision clearance area formed
+by the intersection of the driveway center line, the street right-of-way line, and a straight
+line joining said lines through points 15 feet from their intersection. Exceptions may be
+granted by the building official so long as the access is determined to be safe.
+
+F,      Lighting. Any parking area intended for active use during non-daylight hours
+shall be properly illuminated to avoid accidents and increase safety. Any lights used to
+illuminate a parking lot shall be so arranged as to direct the light away from the adjoining
+property, and shall be of a type and method of construction to shield the light source from
+direct view from any adjacent property or right-of-way. All parking area lighting shall
+comply with the standards set forth in Chapter 8.30, Outdoor Lighting of MMC.
+
+G.      Landscaping shall be in conformance with the landscape standards in this
+ordinance.
+
+H.        Parking lots shall be provided and located as follows:
+     1.   For new developments on the south side of Highway 30, parking lots shall be
+          located on the side or rear of buildings.
+     2.   For new developments on the north side of Highway 30, parking lots shall be
+          located in the rear of buildings with provisions for shared parking among multiple
+          businesses.
+     3.   Shared parking will be allowed and encouraged for all commercial uses.
+          a.       Required parking facilities for two or more uses, structures, or parcels of
+          land may be satisfied by the same parking facilities used jointly, to the extent that
+          the owners or operators show that the need for parking facilities does not
+          materially overlap (e.g., uses primarily of a daytime versus nighttime nature), and
+          provided that the right of joint use is evidenced by a recorded deed, lease,
+          contract, or similar written instrument establishing the joint use.
+
+Page 30 - Mosier Zoning Ordinance
+          b.       Provision of an equivalent number of parking spaces in a shared parking
+          facility or district may be allowed in lieu of provision of on-site parking required
+          in subsection 15.03.130-H.4, below.
+     4.   Minimum parking spaces: The following minimum number of parking spaces
+          shall be provided for the following uses, unless otherwise specified in the base
+          zone:
+          a.       Business, general retail, personal services.         General - one space for 350
+          square feet of gross floor area.         Furniture and appliances - one space per 750
+          square feet of gross floor area.
+          b.      Churches and places of public assembly, including fraternal organizations.
+          One space per four fixed seats.
+          c.       Professional Offices.      Medical and Dental Offices or Facilities - one space
+          per 350 square feet of gross floor area; General Offices - one space per 450 square
+          feet of gross floor area.
+          d.       Hotels and motels.       One space for each guest room, plus one space for the
+          manager.
+          e.      Restaurants, bars, ice cream parlors and similar uses. One space per four
+          seats or one space per 100 sq. ft. of gross leasable floor area, whichever is less.
+          f.       Residential uses.
+                  e Single family detached housing.          2 parking spaces shall be provided for
+                   each   detached     single-family    dwelling    or manufactured     home   on   an
+                    individual lot.
+                  © Two- and three-family housing. 1.5 spaces per dwelling unit.
+                  e Multi-family and single family attached housing. 1.5 spaces per dwelling
+                    unit.
+                  e Rooming and boarding houses, dormitories. Two spaces for each three
+                   guest rooms, or one per three beds, whichever is more;
+
+          g.      Light Industrial uses. One space per two employees on the largest shift or
+          for each 850 square feet of gross floor area, whichever is less, plus one space per
+          company vehicle.
+          h.       Public utilities (gas, water, telephone, etc.), not including business offices.
+           One space per two employees on the largest shift, plus one space per company
+           vehicle; a minimum of two spaces is required.
+           i.      Day care centers having 13 or more children.            One space per two
+           employees; a minimum of two spaces is required.
+          j.       Schools. One and one-half space per classroom, or the requirements for
+          public assembly areas as set forth herein, whichever is greater.
+
+IL        Parking Design Standards. All parking spaces should be designed and built to the
+standards illustrated in Table 15.03-B and Figure 15.03-C.
+
+                                           TABLE   15.03-B
+                                       Parking Stall Dimensions
+
+               Angle(A)      Stall Width       Stall Depth      Aisle Width     Curb Length
+
+Page 31 - Mosier Zoning Ordinance                  yy DOO?          yj 325° 7
+                                                                                          Gry) (Final)
+                                  (B)                  ©                     (1-way) (D)*     (F)
+                   0             10° 0”            10° 0”                         12’         22°
+               (parallel)
+                   45            10° 0”            20° 6”                         13”       147 1”
+                   60            10° 0”            21° 6”                         18°       11’ 10”
+                   70            10° 0”            21’? 2”                        18”       10° 7”
+                   90            10° 0”            20’ 0”                        24         10° 0”
+
+           * 24’ minimum for two-way traffic
+
+                                                 FIGURE 15.03-C
+                                           Parking Stall Dimensions
+
+                                    Curb
+                             —pleneth      (Bg          z                >
+
+                                                       Stall Width (B)
+
+                                           Aisle (D)
+
+                            \ \ aint
+ J.        Bicycle Parking. Bicycle parking shall be provided in commercial zones. Bicycle
+           parking shall meet the following standards:
+      1.   Bicycle parking for commercial business customers shall be provided along the
+           street at a rate of at least one space per use. Individual uses may provide their
+           own parking, or spaces may be clustered to serve up to six (6) bicycles.
+      2.   Bicycle parking shall be conveniently located with respect to both the street right-
+           of-way and at least one building entrance (e.g., no farther away than the closest
+           parking space).
+      3.   Bicycle parking should be incorporated whenever possible into building design
+           and coordinated with the design of street furniture when it is provided. Street
+           furniture includes benches, streetlights, planters and other pedestrian amenities.
+      4.   Bicycle parking shall not interfere with pedestrian passage, leaving a clear area of
+           at least 36 inches between bicycles and other existing and potential obstructions.
+
+15.03.140 — General Exception to Yard Requirements. Any front yard, except on a
+corner lot, need not exceed the average of the front yards on developed abutting lots.
+
+Page 32 - Mosier Zoning Ordinance                L3009-0359                                   ( 35 yay)
+                                                                                                      (Final)
+15.03.150 — General Exceptions to Building Height Limitations and Setbacks.
+Vertical projections from a primary structure such as chimneys, spires, domes, elevator
+shaft housing, towers, aerials, flagpoles and similar objects not used for human
+occupancy are not subject to the building height limitations of this ordinance.
+Architectural features such as cornices, eaves, canopies, sunshades, gutters, chimneys,
+and flues may project into required setback areas, but not more than 3 inches for each
+foot of required yard width.                                            ;
+
+15.03.160 — Animals and livestock in the city's Residential Zones.          Farm animals such
+as pigs, cows, horses, sheep and the like, are not allowed in any of the city's Residential
+Zones. Up to 5 chickens, ducks or other fowl, but no roosters, may be kept on any
+property in the Residential Zones.
+
+15.03.170 — Access for non-residential uses on adjacent parcels. Access for non-
+residential uses that are lawfully established on adjacent parcels may be allowed as a
+conditional use in either of the city’s residential zones, subject to the limitations of this
+section. Any use eligible for approval under this provision shall be limited to vehicular
+traffic associated with the normal activities of a lawful use on an adjacent parcel where
+the traffic is compatible and consistent with residential uses. The situation envisioned by
+this authorization is where a non-residentially zoned parcel lacks direct and unrestricted
+vehicular access to the public right of way without passing through residentially zoned
+land. Uses not eligible for such a permit and which could not be served by routing traffic
+through a residential zone include any use that generates traffic that is not compatible and
+consistent with uses allowed in the residential zones, The city has full authority to
+impose any conditions required to ensure that traffic allowed as a use under this section is
+compatible and consistent with the uses allowed in the residential zones. In the event the
+city determines that the request cannot be conditioned to ensure compatibility and
+consistency with uses allowed in the residential zones, the city shall deny the request.
+
+15,03.180 — Architectural Design Standards For Commercial Uses - These
+architectural guidelines and standards are intended to create a unified look for Mosier’s
+downtown, build on the City’s unique character, provide detailed, human-scale design,
+and afford flexibility to use a variety of building styles. These standards shall apply to all
+new buildings within areas zoned for commercial use.
+
+A.      Design Features: The following design features or elements should be
+incorporated in the design of new or reconstructed buildings. Examples illustrations and
+photos are shown in Figure 15.03-D.
+
+             Regularly spaced craftsman-style windows.
+   AwPWNSD
+
+             Pitched or gabled roofs.
+             Covered walkways or porches.
+             Bargeboards, comer trim boards or other accent trim boards.
+             Lap or decorative siding.
+             Crown or cornice molding.
+
+Page 33 - Mosier Zoning Ordinance               [900% 0389                       (Ze a/eF (Final)
+                                                 FIGURE 15.03-D
+                           Illustrative Photos of Desirable Design Features
+                                    Bargeboard
+                    Corner trim
+
+                                                                                  Covered porch &
+                                                                                  walkway
+
+                                                                  “Belly board”
+                          Crown molding
+
+  Horizontal lap siding
+
+                                                                     Craftsman-style windows
+
+                                                                                         (30y 190)
+Page 34 - Mosier Zoning Ordinance                p MOT     _ OA       s* 7                          (Final)
+B.        Use of Building Materials.
+
+     1.   Building materials to be encouraged, discouraged or limited in use in construction
+          of new or reconstructed commercial buildings are specified in Table 15.05-C
+
+                                     TABLE 15.03-C
+                      Guidelines for Use of Building Materials in New or
+                        Reconstructed Buildings in Commercial Areas
+
+                   Material                                   Status
+                   Wood lap siding
+
+                                                                         ml a) mi mim
+                   Rock
+
+                                                                    AlAlm)
+                   Faux Rock
+                   Brick
+                   Board and batten
+                   Metal roofs ’
+
+                                                                      Oe
+                   Smooth block (1.e., bare cinderblock)
+                   Stucco / faux Stucco
+                   Metal or plastic siding
+                   Plywood Siding
+          Notes:
+          A = allowed; E = encouraged; D = discouraged; R = restricted (no more than
+          15% of the total exterior area of the building may be covered by this material)
+     2.   Colors are encouraged to be light earth tones; vibrant or highly reflective colors
+          are discouraged.
+     3.   Use of sustainable construction materials and practices and renewable energy
+          sources is encouraged in construction of new buildings.
+
+Cc.     Review and Approval. Architectural Design standards shall be administered
+through the site plan approval process and subject to a Type 2 approval process as
+ described in subsection 15.07.020-B of this ordinance.
+15.03.190 — Temporary Use Permits in any zone. Approval of a temporary use is a land
+use decision and is subject to Type II review per Chapter 15.07 in any land use zone.
+
+A.      Standards and Duration of Temporary Use: A temporary use is established for a
+limited duration, not to exceed one year. It must meet the definition of a Temporary Use
+provided in this chapter. All impacts of the use, such as traffic pedestrian circulation,
+trash collection and the like, must be avoided, minimized or mitigated for. Any signs
+associated with a temporary event are subject to the sign code regulations in Chapter 8.20
+
+                                              f4009- 0359                               36 2)
+Page 35 - Mosier Zoning Ordinance                                                        (Final)
+B.          Emergency Interim Temporary Use:       In the instance of an emergency, an interim
+temporary use permit may be granted to allow for only those actions necessary to provide
+immediate response to the emergency. Staff will review the interim temporary use in
+consultation with the Mayor. Applicant will be made aware that Type II review of the
+proposed use is still required and further conditions may be applied to the temporary use
+subject to comment provided through that process.
+
+Cc.         Annual Renewal Possible for Local Produce Stand: A local produce stand or
+establishment of site exclusively for vending of local produce and locally grown farm
+products may also be established as a temporary use. City wishes to create incentives for
+sale of local fresh produce that has not been readily available in town for many years.
+Vending of locally grown farm products can, in some instances, meet the definition of a
+TUP but the operation may take place seasonally over a number of years rather than for a
+single year. For this reason a TUP for vending of local produce may be renewed
+annually subject to Type I ministerial review to determine that all original conditions and
+applicable standards continue to be met. To be permitted as a temporary use a local
+produce stand or other establishment must be dedicated exclusively to the vending of
+locally grown produce and farm products. All other regulations, including MMC
+8.01.050 Nuisances affecting peace and safety will still be applied. Any required license
+or permit administered by other agencies e.g. public health, building codes, or permits to
+access the Historic Columbia River Highway are still required. If during the annual
+ministerial compliance review, it is determined that impacts of the TUP are increasing,
+changing in scope, or having unanticipated permanent effects on the surrounding area, a
+full CUP may be required to permit the use as a permanent use.
+
+15.03.200 - Bluff Impact and Riparian Protection Areas.
+
+A.          Bluff and bluff impact zone. The general definition of a bluff is a topographical
+feature such as a hill, cliff, or embankment that has the following characteristics:
+      aw Is located along a riparian area and drains towards the water
+      = Minimum height is 25 feet above the ordinary high water level
+      = Minimum slope is 30 percent (see graphic for how to calculate slope)
+
+ The bluff impact zone includes the bluff and the land located within 20 feet from the top
+of the bluff.
+
+B.      Riparian areas. (per OAR 660-23-0030 Safe Harbor Provisions) Along all fish-
+bearing rivers, streams and other waters with an average annual stream flow greater than
+1,000 cubic feet per second (cfs) the riparian area boundary shall be seventy-five (75)
+feet from the top of bank; i.e. ordinary high water for Rock and Mosier Creeks, average
+pool elevation for Columbia River
+
+Cc.         Land Use Requirements for Riparian Areas and Bluff impact zones.
+
+      1,   The permanent alteration of riparian areas by grading or by the placement of
+           structures or impervious surfaces is prohibited, except for the following uses
+
+                                                                                     3                 ay)
+                                                     F-    0 287                 (       7     3
+Page 36 - Mosier Zoning Ordinance        2 GO                                                (Final)
+       provided they are designed to avoid and minimize intrusion into the riparian
+       corridor, no other options or locations are feasible, and any applicable state and/or
+       federal permits are obtained:
+         a. Streets, roads and bridges, excluding parking or storage areas.
+         b. Construction of permeable trails, boardwalks and viewing platforms,
+              information kiosks and trail signs.
+         c. Drainage facilities, utilities, and irrigation pumps.
+         d. Stormwater treatment facilities when they are located in severely degraded
+              parts of significant riparian corridors and designed so as to enhance overall
+              function of the riparian resource (for example a grassy swale or constructed
+              wetland with a buffer of native vegetation and that is located within
+              previously farmed or cleared area).
+         e.   Water-related and water-dependent uses (for example boat launch, fishing
+              dock).
+         f.   Replacement of existing structures with structures in the same location that do
+              no disturb additional riparian corridor surface area.
+        g.    Structures or other non-conforming alterations existing fully or partially
+              within significant riparian corridors may be expanded provided the expansion
+              does not occur within the significant riparian corridor.
+         h.   Existing garden, lawn and non-native plantings within significant riparian
+              corridors may be maintained, but not expanded within the significant riparian
+              corridor. Development activities on the property shall not justify replacement
+              of the riparian area with lawn.
+         i.   Existing shoreline stabilization and flood control structures may be
+              maintained. Any expansion of existing structures or development of new
+              structures shall be evaluated by the local government and appropriate natural
+              resource agency staff, for example Oregon Department of Fish and Wildlife,
+              Division of State Lands, Department of Environmental Quality, Water
+              Resources Department. Such alteration of the significant riparian corridor
+              shall be approved only if less-invasive or nonstructural methods will not
+              adequately meet the stabilization or flood control needs.
+
+  2.   Removal of riparian vegetation in significant riparian corridors is prohibited, except
+       for:
+          a. Removal of non-native vegetation and subsequent replacement with native
+             plant species. The City of Hood River shall maintain a list of native and non-
+             native plant species. The replacement vegetation shall cover, at a minimum,
+             the area from which vegetation was removed, and shall maintain or exceed the
+             density of the removed vegetation.
+          b. Removal of vegetation necessary for the development of approved water-
+              related or water dependent uses. Vegetation removal shall be kept to the
+              minimum necessary to allow the water-dependent or water-related use.
+         c.   Removal of poisonous or noxious vegetation.
+         d.   Trees in danger of falling and thereby posing a hazard to life or property may
+              be removed.   If no hazard will be created, property owners are encourage to
+              leave trees, once felled, in place in the riparian corridor.
+
+                                          /3009 0387                         oy,
+                                                                              by ay)
+Page 37 - Mosier Zoning Ordinance                                                        (Final)
+            e.   Incidental removal of vegetation associated with recreational, educational,
+                 scientific research and land survey activities.
+
+      3.   Exceptions: The following activities are not required to meet the standards of this
+           section if applicable:
+
+            a.  Normal and accepted farming and ranching practices other than buildings or
+                structures, occurring on land zoned for exclusive farm use and existing in the
+                protected riparian corridor since prior to the date of adoption of this
+                ordinance.
+            b. Commercial forest practices regulated by the Oregon Forest Practices Act.
+
+    D.       Variances. In cases where a property owner believes the application of this
+    section imposes a hardship or renders an existing lot or parcel unbuildable, a property
+    owner may request a variance. Granting of a variance requires findings that satisfy all
+    three (3) of the following criteria:
+
+      1.   The proposed development requires deviation from the Riparian Corridor
+           requirements; and
+      2.   Strict adherence to the requirements of this section and other applicable standards
+           would effectively preclude a use of the parcel that could be reasonably expected to
+|          occur in the zone, and
+|     3.   The property owner would be precluded a substantial property right enjoyed by the
+|          majority of landowners in the vicinity.
+|
+    E.       Compliance with State and Federal Requirements. All activities wholly or
+    partially within riparian corridors are subject to applicable Division of State Lands permit
+    requirements under the Removal-Fill Law and U.S. Army Corps of Engineers permit
+    requirements under Section 404 of the Clean Water Act. Where there is a difference
+    between local, state or federal regulations, the more restrictive regulations shall apply.
+|
+
+                                                                                Yn, /aY
+    Page 38 - Mosier Zoning Ordinance
+                                          [3009-039                             yl)        (Final)
+                          CHAPTER 15.04
+      PERMITS: NONCONFORMING USES, VARIANCES, SIMILAR USES,
+       FORMAL CODE INTERPRETATIONS, MODIFICATION OF PRIOR
+                           APPROVAL
+
+Section:
+
+15.04.010                Nonconforming Uses: General Rules
+15.04.020                Variances
+15.04.030                Authorization of Similar Uses
+15.04.040                Formal Code Interpretations
+15.04.050                Modification to Prior Approvals
+
+15.04,010 — Nonconforming Uses: General Rules. It is the policy of the city that
+nonconforming uses are a disfavored exception to the generally applicable zoning
+requirements and that nonconforming uses will eventually be extinguished and the
+property, structure and use will eventually come into conformance with the requirements
+of this ordinance. There is a presumption that the use of any structure or property that
+does not comply with the requirements of this ordinance is unlawful, and any person
+claiming entitlement to a nonconforming use has the burden of proving that entitlement
+through the appropriate process.
+
+A.       Lawfulness. A nonconforming use or structure, as defined in this ordinance, may
+be continued at its lawful nature and extent. A nonconforming use cannot be altered or
+expanded, i.e., no change in use. A nonconforming use can decrease in extent or
+intensity over time, but it cannot lawfully increase in extent or intensity over time.
+
+B.      Discontinuation. If a nonconforming use is discontinued for a period of one year
+(12 continuous months) or more, further use of the property shall conform to the
+requirements of this ordinance. If a nonconforming use is diminished in intensity for a
+period of one year (12 continuous months) or more, the use shall not be resumed to the
+former intensity.
+
+Cc.      Alterations and expansions. If a nonconforming use is altered, expanded or
+replaced by another use or structure, the new use shall conform to the requirements of
+ this ordinance.
+
+D.       Replacement following destruction. If a nonconforming structure or a structure
+containing a nonconforming use is destroyed by any cause to an extent exceeding 80% of
+its fair market value as indicated by the records of the county assessor, a future structure
+or use on the site shall conform to this ordinance.
+
+E,     Relationship to vested rights. Nothing contained in this section shall require any
+change in the plans or construction, nor an the alteration in the permitted use of a
+
+                                                                                YL             B-SIE
+Page 39 - Mosier Zoning Ordinance    Lo        73         S7                           a
+structure for which a permit has been issued by the city prior to the adoption of this
+ordinance provided the structure or use is completed and in use within two years from the
+date the permit allowing the use is approved.
+
+F,      Nonconforming use verification. A property owner who claims entitlement to a
+nonconforming use, or the city council on its own motion, may initiate a proceeding to
+verify the existence, nature and extent of a claimed nonconforming use or structure. Any
+such request shall follow a Type III process as provided in Chapter 15.07 Administration
+and Procedures. The person claiming the existence of a nonconforming use has the
+burden of proving with substantial evidence the elements required to substantiate a
+nonconforming use.
+
+G.       Alteration of a nonconforming use. An existing nonconforming use may be
+altered, i.¢., a change in the nature or extent of the use, through a Type III process. A
+request to alter a nonconforming use may be approved if the proponent demonstrates with
+substantial evidence all of the following:
+
+    1.   That the current use, considering its nature and extent, is a lawful nonconforming
+         use as defined above.
+    2.   That the requested alteration will have no greater impact on the neighborhood
+         than does the current nonconforming use, given its current nature and extent. The
+         city council, at its discretion, may attach conditions reasonably calculated to
+         ensure that the alteration will have no greater impact on the neighborhood.
+
+15.04.020 — Variances.
+A.      Authorization to Grant or Deny Variances. The city council may approve a
+variance from a dimensional or other quantified or dimensional requirement of this
+ordinance. Use limitations are not eligible for variances nor may any mandatory
+requirement or prohibition in this ordinance. In granting a variance, the city may attach
+conditions which it finds necessary to limit deviations from the requirements of this
+ordinance and protect the rights of the surrounding property owners and best achieves the
+purposes of this ordinance.
+
+B.     Major variances, A major variance is any variance that does not qualify as a
+minor variance and may be decided by the city council pursuant a Type III process. A
+major variance may only be approved if all of the following criteria are met:
+
+    1,   Exceptional or extraordinary circumstances apply to the property which do not
+         apply generally to other properties in the same zone or vicinity, and result from
+         lot size, shape, topography or some other physical or natural aspect of the
+         property, over which the owners of property have had no control.
+    2.   The variance is necessary for the preservation of a property right of the applicant
+         substantially the same as one enjoyed by the owners of other property in the same
+         zone or vicinity.
+
+Page 40 - Mosier Zoning Ordinance
+                                        Paorcasa                               (OY 1)   (Final)
+    3.   The variance would not be materially detrimental to the purposes of the
+         ordinance, or to the rights or uses of near-by property owners or otherwise
+         conflict with any Comprehensive Plan goal or policy.
+    4,   The magnitude of variance requested is the minimum necessary to alleviate the
+         identified hardship.
+
+C.       Minor Variances. A minor variance is any request for relief of a dimensional or
+numeric requirement of this ordinance that is within 10% of the specified requirement
+and the variance would not be materially detrimental to the purposes of this ordinance, or
+to the rights or uses of near-by property owners or otherwise conflict with any
+Comprehensive Plan goal or policy. Staff shall rule upon a minor variance application
+using a Type II process under Chapter 15.07 Administration and Procedures.
+
+15.04.030 — Authorization of Similar Uses. The city planner may decide through a
+Type II process, whether a use not specifically listed as being allowed outright or
+conditionally, may nonetheless be allowed because it is similar in nature and impact to
+one of the uses allowed in the applicable zone. Any similar use so authorized must be
+similar to, or of the same type as, the uses allowed in the underlying district. This section
+does not allow the authorization of a use which is allowed in some other zone or one
+which is prohibited. Application for a similar use determination shall be made on the
+customary land use permit application form provided by the city and shall be processed
+according to the Type II procedure. The city planner may attach conditions which it finds
+necessary to limit deviations from the requirements of this ordinance and protect the
+rights of the surrounding property owners and best achieves the purposes of this
+ordinance.
+
+15.04.040 — Formal Code Interpretations. In cases where there is uncertainty as to
+what is allowed, intended or meant by a particular provision of this ordinance, the Land
+Division Ordinance or the city’s Comprehensive Plan, an interpretation of the ambiguous
+provision may be made as part of a land use permit application. Where an interpretation
+is required but is not part of a permit application, the interested party may seek a formal
+interpretation by making application to the city. Where the interpretation requested
+involves the exercise of legal or policy discretion, the city shall process the request using
+a Type II procedure. This chapter does not allow the authorization of a use which is
+prohibited.   Ifa use is listed as allowed in one zone, but not another, the use is assumed to
+be prohibited in those zones where it is not specifically allowed.
+
+15.04.050 — Modification to Prior Approvals.
+A.       Major modification, Any application to modify a prior approval, or any
+conditions thereof, that qualifies as a “material deviation” as defined in section 15.01.060
+of this ordinance, shall be processed according to the same procedure as would be
+required by this ordinance for the underlying approval.
+
+B.      Minor modification. Any modification to a prior approval or conditions thereof
+that does not qualify “material deviation” as defined above may be processed according
+to a Type II procedure.
+
+Page 41 - Mosier Zoning Ordinance
+                                         P00 9-085 7                             ( aa ye)(Final)
+                                     CHAPTER 15.05
+                               CONDITIONAL USE PERMITS
+
+Section:
+
+15.05.010                 Purpose and Applicability
+15.05.020                 Site Plan
+15.05.030                 Approval Standards
+15.05.040                 Authority and Basis for Conditions
+15.05.050                 Change in Use or Conditions
+
+15.05.010 — Purpose and Applicability.
+A.      All proposals for development that propose a use listed as being conditionally
+allowed in the applicable zone are allowed through a Type II process as provided in
+Chapter 15.07 Administration and Procedures. Applicants should look to the zoning
+regulations for the underlying zone to determine which uses are conditionally allowed. A
+conditional use may only be allowed if all of the approval standards in this Chapter are
+met. In addition, certain conditional uses are further limited by definition in Chapter
+15.01 Introductory Provisions or by special provisions in Chapter 15.03 Supplemental
+Provisions.
+
+B.         Impacts of Conditional Uses. It is assumed that any listed conditional use, in at
+least some form, is acceptable and allowed in the zone in which it is listed, but there are
+also assumed to be certain adverse impacts or characteristics inherent in a conditional use
+that require conditions to avoid, mitigate or eliminate those impacts. For listed
+conditional uses, the focus of the permitting process is to assess the likely impacts and the
+appropriate conditions of approval to avoid, mitigate or eliminate those impacts. Only
+where the impacts cannot be avoided, eliminated or mitigated to an acceptable degree,
+may the use be denied. Applicants must submit a site plan in accordance with this
+chapter. Any conditions so imposed on a conditional use permit are considered to be
+legally binding and enforceable on the holder of the permit, Any violation of, or failure
+to comply with, those conditions will subject the property owner, permit holder, or person
+engaged in the use to enforcement and possible revocation of any permit. Where a use is
+not specifically listed as being conditionally allowed, the applicant may seek a similar use
+determination under Chapter 15.04 Permits: Nonconforming Uses, Variances, Similar
+Uses, Formal Code Interpretations, Modification of a Prior Approval of this ordinance
+through a Type II process.
+
+15.05.020 — Site Plan Required.       Site Plan Requirements.    All conditional use permit
+applications shall include:
+A.      A site plan, which shall be drawn to scale and include all information required for
+Site Plan Review, per Section 15.06.030.
+
+                                           p3009-             DAS7                 “4               2/22)
+Page 42 - Mosier Zoning Ordinance                                                         (Final)
+B.      A detailed description of any requested variance shall also accompany the
+conditional use permit application prior to the application being determined complete.
+
+15.05.030 — Approval Criteria. No conditional use permit shall be approved unless the
+applicant demonstrates compliance with, and provides substantial evidence that, the
+following standards are met:
+
+A.      The use proposed is listed as a conditionally allowed use in the zoning regulations
+applicable to the subject property.
+
+B.     The characteristics and location of the subject property are suitable to
+accommodate the proposed use, including availability and capacity of sanitary sewer,
+storm drainage facilities, water, transportation and pedestrian facilities.
+
+Cc.      The proposed use will not have any unacceptable adverse impacts upon any use
+ existing or allowed on any properties in the area and will not be materially detrimental to
+the health, safety, or general welfare of persons residing or working in the area. In
+making this determination, the city shall consider any possible conditions or limitations
+that may be placed on the use or activity so as to avoid or reduce impacts to the minimum
+practicable level and mitigate any impacts that cannot be avoided or minimized. The use
+may be subject to a periodic or annual review requirement to verify that impacts, in fact,
+have been eliminated or mitigated to an acceptable level.
+
+D.      All needed public facilities including sewer, water, stormwater drainage and
+transportation are available to the subject property with adequate capacity to serve the
+proposed use.
+
+F,     Approval of the proposed use does not conflict with any provision of the
+Comprehensive Plan, applicable city ordinance or regulations, nor any previously
+approved permit.
+
+15.05.040 — Authority and Basis for Conditions. The city has the authority to impose
+any reasonable conditions it deems necessary to ensure compliance with the approval
+criteria, including any reasonable limitation on physical or operational characteristics of
+the use, such as those listed in this section. In the event that the approval criteria for any
+conditional use permit cannot be met through the imposition of reasonable conditions, the
+request shall be denied.
+
+A.      Natural Features. Where existing natural or topographic features are present, they
+shall be used to enhance the development; (i.e., the use of small streams in the
+landscaping design, rather than culvert and fill).
+
+B.      Public Facilities. Where any required public facility is not available with
+adequate capacity to serve the property or proposed use, the permit may be denied or the
+applicant may be required to correct or pay for the correction of the deficiency or
+mitigate in some other way.
+
+Page 43 - Mosier Zoning Ordinance
+                                             Layo g-0as7 — (YeR/ 4 y                      (Final)
+Cc.     Traffic. Dedication of land for streets, sidewalks, bikeways, paths, or accessways
+will be required where the existing transportation system, including sidewalks, will be
+impacted by or is inadequate to handle the additional burden caused by the proposed use.
+Improvements such as paving, curbing, installation or contribution to traffic signals,
+construction of sidewalks, bikeways, accessways, paths, or streets that serve the proposed
+use shall be required where the existing transportation system may be burdened by the
+proposed use.
+
+Dz.      Compatibility - The height, bulk and scale of buildings shall be compatible with
+the site and the buildings in the vicinity.
+
+E.      Design - Variety of detail, form and siting shall be used to provide visual interest.
+Buildings may be required to modulate the fagade if a single uninterrupted length of
+facade will dominate the streetscape. Selection and use of building materials shall
+promote harmony with surrounding structures and sites. Architectural features such as
+those in Figure 15.03-B may be required as necessary to help ensure compatibility of the
+proposed use.
+
+F.      Operational Characteristics — The nature of the use including hours of operation
+may be limited as necessary to ensure the use will not have undue adverse affects on
+surrounding permitted uses.
+
+G.     Duration of the Permit — A limit on the duration of the permit and/or a periodic
+review process with the possibility of termination.
+
+15.05.050 — Change in Use or Conditions.       Any conditional use permit approved under
+this chapter is specific and limited to the particular use described in the permit. The
+permit runs with the land and is not personal to the applicant. Changes to the use or
+conditions attached to the permit are not allowed without a new conditional use review,
+evaluation of impacts and consideration of appropriate conditions of approval.
+
+             ciming         ov
+Page 44 - Mosier Zoning Ordinance
+                                                 4007-0387                                  :
+                                                                                          (Final)
+                                       CHAPTER 15.06
+                                    SITE PLAN REVIEW
+
+Sections:
+
+15.06.010                Applicability
+15.06.020                Application Procedure
+15.06.030                Submittal Requirements
+15.06.040                Decision Criteria
+15.06.050                Effect of Approved Site Plan Review Permits
+
+15.06.010 — Applicability.
+A.      A site plan review permit shall be required for the following circumstances
+(unless exempted below):
+     1. New construction.
+    2. Expansion, remodel, or exterior alteration of any building or other structure.
+    3. Change of use.
+    4. Multi-family and group residential.
+    5. Removal or fill of over 5,000 cubic yards of land.
+
+        Exemptions from site plan review are as follows;
+        Any activity that does not require a building permit and is not considered by the
+        Director to be a change in use.
+        Interior work which does not alter the exterior of the structure or effect parking
+        standards by increasing floor area.
+        Normal building maintenance including the repair or maintenance of structural
+        members.
+        All residential development, in residential zones, except multi-family and group
+        residential.
+
+15.06.020 — Application Procedure. The city planner shall review all site plan review
+applications subject to Type II review procedures. However, if an application is
+unusually complicated or contentious due to site constraints or due to the complexity of
+the project, the application may be reviewed subject to a Type III process. In either case,
+in accordance with Chapter 15.07 Administrative Procedures, a pre-application
+conference is required prior to accepting an application for completeness review.
+
+15.06.030 — Submittal Requirements.
+A.      The site plan shall be drawn to scale and indicate all of the following:
+    1. Dimensions and orientation of the parcel.
+    2. Locations and heights of buildings and structures, both existing and proposed.
+        Scaled elevation drawings and photographs shall be provided when required.
+        Location and layout of parking and loading facilities, including bicycle parking as
+       required pursuant to 15.03.030-J Bicycle Parking;
+
+Page 45 - Mosier Zoning Ordinance
+                                             pG-0 257                                   (Final)
+        Location of points of entry and exit for pedestrians and motor vehicles, and
+        internal circulation patterns in compliance with the requirements of Chapter 15.03
+        Supplemental Provisions and accepted engineering guidelines and practices.
+        Information shall include number and direction of driveway lanes and striping
+        plans.
+        Demonstration of coordination with Oregon Department of Transportation
+        (ODOT) if new access to ODOT right of way is proposed or the use of an existing
+        point of access is proposed to be altered.
+        Location of existing and proposed walls and fences and indication of their height
+        and materials.
+        Proposed location and type of exterior lighting as required by Chapter 8.30 of
+        MMC.
+        Proposed location and size of exterior signs as required by Chapter 8.20 of
+        MMC..
+         Site specific landscape plan including percentage of total net area.
+       . Location and species of trees greater than six (6) inches in diameter when
+         measured four (4) feet above the ground and an indication of which trees are to be
+         removed.
+    11. Contours mapped at two (2) foot intervals shall be provided when required. (five
+         [5] foot contours may be allowed on steep slopes).
+    12. Natural drainage.
+    13. Other significant natural features.
+    14. Legal description of the lot.
+    15. Percentage of the lot covered by any and all proposed and remaining structures to
+         include asphalt concrete and other impervious materials.
+    16. Locations and dimensions of all easements and nature of the easements.
+    17. Service areas for uses such as loading and delivery.
+    18. Grading, erosion, and storm water control plan(s) shall be provided when
+         required.
+    19. Transportation impact study shall be provided when required.
+    20. Plat map showing property lines of the subject property, adjacent rights-of-way,
+         and ownership.
+    21. Other site elements that will assist in the evaluation of site development.
+
+        A statement of operations with a brief narrative on the nature of the activity shall
+        also be submitted, including:
+     1. Number of employees;
+    2. Method of import and export;
+    3. Hours of operation including peak times; and
+    4. Plans for future expansion.
+
+15.06.040 — Decision Criteria. The following decision criteria are applicable to all site
+plan reviews:
+
+        Grading. Grading of a site shall take place only upon verification that, onsite
+surface drainage and on-site storage of surface water facilities be constructed when
+
+Page 46 - Mosier Zoning Ordinance         P3009- 0359                          (YR AY.    (Final)
+necessary, so there is no adverse effect on neighboring properties, public rights-of-way,
+or the public storm drainage system. Graded areas shall be replanted as soon as possible
+after construction to prevent erosion. A grading, erosion, and storm water control plan
+may be required.
+
+B.      Trees. Existing trees shall be left standing except where necessary for building
+placement, sun exposure, safety or other valid purpose. Vegetative buffers should be left
+along major streets or highways, or to separate adjacent uses.
+
+Cc.       Public Facilities. Adequate capacity of public facilities for water, sanitary sewers,
+storm drainage, fire protection, streets, and sidewalks shall be provided to the subject
+parcel. Development of on-site and off-site public facilities necessary to serve the
+proposed use shall be consistent with the Comprehensive Plan and any adopted public
+facilities plan(s). Underground utilities may be required. On-site detention or treatment
+of storm water may be required.
+
+E.      Traffic and Circulation. The following traffic standards shall be applicable to all
+proposals. When evaluating traffic issues, consideration shall be given to the proposed
+usage (i.e., employees, customers, freight, service) and to the potential types of traffic
+(i.e., vehicles, pedestrians, bicycles).
+
+    1.   On-site circulation shall be designed according to accepted engineering
+         guidelines to be safe and efficient and shall comply with the requirements of
+         Chapter 15.03 Supplemental Provisions, Chapter accepted engineering standards
+         and practices.
+
+    2.   Minimum improvement and design standards are located in Title 16 - Subdivision
+         of Land specifically in Chapter 16.02 - Minimum Improvements and Design
+         Standards. The Standards adopted in Chapter 16.02 and are not restated in the
+         MZO but may be applicable to Site Plan Review even if a land division does not
+         result. Adopted minimum improvement and design standards will be reviewed by
+         the city planner, in consultation with the city engineer. The City Planner will
+         determine which, if any, of the adopted standards are applicable to the proposed
+         development subject to Site Plan Review. When improvements are required, the
+         applicant will be required to meet all applicable improvement and design
+         standards including minimum improvement design review procedures and
+         inspection requirements.
+
+    2.   The access point(s) between the subject property and the public street shall be
+         reasonably safe and shall comply with accepted engineering standards as
+         approved by City Engineer, while providing for required access per Section
+         15.03.020 Access and Frontage Requirements, and adequate parking per Section
+         15.03.130 General Requirements for Parking Lots. Other Factors to be considered
+         in evaluating the adequacy of proposed access points include the average speed of
+         the traffic on the public street(s), the proposed use and geometry of the access
+
+                                           —PACOF O8S7                            lay)
+nett waiezangontame
+|
+re
+
+               points, the distance between the existing and proposed access points, and sight
+               distance from and to proposed points of access.
+
+          3. Affect on local street network: The proposed use shall not have an adverse effect
+               on the public transportation system. For developments that are likely to generate
+               more than 400 average daily motor vehicle trips (ADTs), the applicant shall
+               provide adequate information, such as a traffic impact study including traffic
+               counts and analysis sufficient to demonstrate the anticipated level of impact to the
+               affected street system. Every effort will be made to inform the applicant, within
+               twenty (20) days of receiving a completed application, whether a traffic impact
+               study and/or a determination of the resulting level of service will be required.
+               Unforeseen circumstances could result in a delayed request for this information.
+               The required traffic impact study shall be prepared by an Oregon licensed traffic
+               engineer. The determination of most probable impacts or effects to be considered
+               and the scope of the impact study should be coordinated with the provider of the
+               affected transportation facility.
+
+          4.   Access to all state highways may require a permit from ODOT. Access spacing
+               and location along state highways shall address the Access Management Policies
+               and standards of the Oregon Highway Plan. Frontage improvements, such as curb
+               and sidewalk to ADA standards, may be required by ODOT as a condition to
+               access.
+
+          5.   Route selection for on site circulation and proposed roads or access ways: All
+               proposed roads shall follow the natural topography and preserve natural features
+               of the site as much as possible. Alignments shall be planned to minimize grading.
+
+          6.   Adequate type and location of access: Any proposed street system extension or
+               improvement or on site circulation shall provide adequate access to buildings for
+               residents, visitors, emergency vehicles, and service vehicles such as garbage
+               collection or delivery trucks.
+
+          7.   An internal pedestrian system of sidewalks or paths shall provide connections to
+               parking areas, entrances to the development, and open space, recreational and
+               other community facilities associated with the development. Depending on
+               proposed development, streets maybe required to have sidewalks on both sides.
+               Pedestrian linkages shall also be provided to the peripheral street system.
+
+     F.   Storage.   All outdoor storage areas and garbage collection areas shall be screened
+          through the use of vegetative materials or appropriate fencing.
+
+     G. Equipment Storage. Location or storage of mechanical equipment shall be reasonably
+        well screened from view. Working equipment shall be sited to ensure adequate sound
+        buffering to meet, at a minimum, the requirements of MMC Section 8.01.050
+        Nuisances Affecting Peace and Safety.
+
+     Page 48 - Mosier Zoning Ordinance             p POF      -“   ? 257                        (Final)
+J.   Orientation - Buildings shall have their orientation toward the street rather than the
+     parking area. At least one main entrance shall be oriented to the street. For lots with
+     more than two front yards, the building(s) shall be oriented to the busiest street(s).
+
+K. Parking - Parking areas shall be located behind the buildings or on one or both sides
+   in accordance with Section 15.03.130 General Requirements for Parking Lots.
+
+15.06.050 — Effect of Approved Site Plan. Approved Site Plan is binding.
+Development subject to Site Plan Review must be constructed in compliance with the
+final approved binding site plan and all applicable conditions of approval. Adjustments
+or modifications to the approved site plan may be made only in accordance with MMC
+15.04.050.
+
+Page 49 - Mosier Zoning Ordinance        LAw7- 03857                               ye    (Final)
+                                 CHAPTER 15.07
+                        ADMINISTRATION AND PROCEDURES
+
+Section:
+
+15.07.010                Purpose
+15.07.020                Summary of the City’s Decision Making Process
+15.07.030                Preapplication Conference Meeting
+15.07.040                Application Requirements
+15.07.050                Completeness Review and 120-Day Rule
+15.07.060                Complete Application: Required Information
+15.07.070                Public Notices
+15.07.080                Quasi-Judicial Hearing Process
+15.07.090                Conditions of Approval and Notice of Decision
+15.07.100                Performance Guarantees
+15.07.110                Covenant with the City
+15.07.120                Ex Parte Contact, Conflict of Interest and Bias
+15.07.130                Legislative Hearing Process
+15.07.140                Objections to Procedure
+15.07.150                Appeals
+15.07.160                Expiration of Approval
+15.07.170                Extension of an Approval
+15.07.180                Reapplication Limited
+15.07.190                Conformity of Permits
+15.07.200                Reconsideration of a Final Decision
+15.07.210                Transfer of Approval Rights
+15.07.220                Fees.
+15.07.230                Revocation of a Previously Approved Permit
+15.07.240                Authority to Condition Permit Approvals
+
+15.07.010 — Purpose. This Chapter provides the procedures by which the City of Mosier
+reviews and decides upon applications for all permits relating to the use of land
+authorized by ORS Chapters 92, 197 and 227. These permits include all forms of land
+divisions, land use, limited land use and expedited land division and legislative
+enactments and amendments to the City of Mosier Comprehensive Plan and the City of
+Mosier Zoning Ordinance. Any applicant may elect to consolidate applications for two
+or more related permits needed for a single development project.
+
+15.07.020 - Summary of the City’s Decision Making Process. The following decision
+making processes chart shall control the city’s review of the indicated permits:
+
+                                                                           (cz nt)
+Page 50 - Mosier Zoning Ordinance
+                                                    007-0287                     (Final)
+                                   TABLE 15.07-A
+                              Summary of Approval Procedures
+
+                          Permit Type                             I        II         I     | Iv
+     Partition w/out Creation of Accessway                       x
+     Subdivision & Partitions w/ Creation of Accessway
+
+                                                                                      eis
+     Planned Unit Development (PUD)
+     Final Plat                                                  x
+     Conditional Use Permit (CUP)
+
+                                                                         P| P<] P<
+     Temporary Use Permit (TUP)
+     Site Plan Review (SPR)
+     Major Variance                                                                   x
+     Minor Variance                                                        x
+     Zone Change or Plan Amendment                                                    x       x
+     Zone change Upon Annexation                                 Xx
+     Similar Use Determination                                             x
+     Nonconforming Use Verification
+
+                                                                                      ~|>
+     Alteration/expansion of a Nonconforming Use
+
+                                                                         mrs
+     Formal Code Interpretation
+     Lot Line Adjustment or Abandonment
+
+                                                                cada!
+     Modification (material deviation) to a Prior Approval                 x
+     Minor Modification (not a material deviation) to a                    x
+     Prior Approval
+
+A.        Type I decisions are not permits and do not require interpretation or the exercise
+of policy or legal judgment in evaluating approval criteria. Type I decisions include
+partition and lot line adjustments, zone changes upon annexation, and final subdivision
+and planned unit development plan approvals where there are no material deviations from
+the approved preliminary plans. Because no discretion is involved, Type I decisions do
+not qualify as a land use, or limited land use, decisions. The process requires no notice to
+any party other than the applicant. The city planner’s decision is final and not appealable
+by any party through the normal land use process. Type I decisions may only be
+appealed through a writ of review proceeding to Circuit Court.
+
+B.        Type II decisions involve the exercise of limited interpretation and discretion in
+evaluating approval criteria, similar to the limited land use decision making process
+under state law. Applications evaluated through this process are assumed to be allowable
+in the underlying zone, and the inquiry typically focuses on what form the use will take
+or how it will look and include preliminary subdivision plats, site plan review. Notice of
+application and an invitation to comment is mailed to the applicant and property owners
+within 100 feet. The city planner accepts comments for 14 days and renders a decision.
+The city planner’s decision is appealable to the city council by any party with standing
+(i.e., the applicant or any party who submitted comments during the 14-day period). The
+city council’s decision is the city’s final decision and is appealable to LUBA within 21
+days of when it becomes final.                                                                     /)
+
+                                                                                      |    od,
+                                        /00%- 0257                                   Gc: y
+Page 51 - Mosier Zoning Ordinance
+Cc.      Type III decisions involve the greatest amount of discretion and evaluation of
+ subjective approval standards and are required to be heard by the city council.
+Applications evaluated through this process include conditional use permits, preliminary
+planned unit development plans, variances, code interpretations, similar use
+ determinations, quasi-judicial zone change and comprehensive plan amendments. The
+process for these land use decisions is controlled by ORS 197.763. Notice of the
+application and the city council hearing is published and mailed to the applicant and
+property owners within 100 feet. Notice must be issued at least 20 days pre-hearing, and
+the staff report must be available at least 7 days pre-hearing. At the evidentiary hearing
+held before city council all issues are addressed. The city council’s decision is the city’s
+final decision and is appealable to LUBA.
+
+Dz      Type IV decisions include only legislative plan amendments and zone changes .
+These applications involve the greatest amount of discretion and evaluation of subjective
+approval standards, and must be heard by the city council for final action. The process
+for these land use decisions is controlled by ORS 197.763. Notice of the application and
+city council hearing is published and mailed to the applicant and property owners within
+100 feet. Notice must be issued at least 20 days pre-hearing, and the staff report must be
+available at least 7 days pre-hearing. All issues are addressed by the city council at the
+evidentiary hearing. If the city council denies the application, any party with standing
+(i.e., anyone who appeared before the city council either in person or in writing) may
+appeal city council’s denial to LUBA. Any review by the city council is on the record,
+and only issues raised before the city council may be raised on appeal to LUBA. The city
+council’s decision is the city’s final decision and is appealable to LUBA.
+
+15.07.030 — Pre-application Conference. Prior to submitting an application for any
+form of permit, the applicant shall schedule and attend a pre-application conference with
+city planner to discuss the proposal, unless, in the city planner’s opinion, the pre-
+application conference is not warranted. To schedule a pre-application conference, the
+applicant shall contact the city planner and pay the appropriate conference fee. The
+purpose of the pre-application conference is to provide city staff with a summary of the
+applicant’s development proposal and an opportunity for staff to provide the applicant
+with information on the likely impacts, limitations, requirements, approval standards, fees
+and other information that may affect the proposal. The city planner shall provide the
+applicant with a written summary of the pre-application conference.
+
+15.07.040 — Application Requirements. All permit applications must be submitted to
+the city recorder on the most current form provided by the city, along with the
+appropriate fee and all necessary supporting documentation and information, sufficient to
+demonstrate compliance with all applicable approval criteria. The applicant has the
+burden of demonstrating, with evidence, that all applicable approval criteria are, or can
+be, met.
+
+15.07.050 — Completeness Review and 120-Day Rule.          Upon submission, the city
+recorder shall date stamp the application form and verify that the appropriate application
+fee has been included. The city planner will then review the application and all
+
+                                                                                               ae,
+Page 52 - Mosier Zoning Ordinance     p a 007 “ 0 387                         (ss
+information submitted with it and evaluate whether the application is complete enough to
+process. If the application is not complete to process, the city planner shall notify the
+applicant and identify what information must be submitted to make the application
+complete.
+
+A.       Completeness. Once the city planner determines the application is complete
+enough to process, or the applicant refuses to submit any more information, the city shall
+declare the application complete and take final action on the application within 120 days
+of that date unless the applicant waives or extends the 120-day period. The 120-day
+clock, however, will be suspended or inapplicable in the following situations:
+     1. For the duration of any continuance or other process delay requested by the
+         applicant.
+     2.   The 120-day period does not apply to any application for a permit that is not
+          wholly within the city’s authority and control.
+     3.   The 120-day period does not apply to any application for an amendment to the
+          city’s comprehensive plan or land use regulations nor to any application for a
+          permit, the approval of which depends upon a plan amendment.
+     4.   In the event the applicant amends, supplements or changes the application so
+          fundamentally that, in the city planner’s opinion, the application amounts to a new
+          or different proposal. in these instances, the 120-day clock will be suspended or
+          restarted as warranted.
+
+B.        Approval Standards. The approval standards which control the city’s review and
+decision on a complete application are those which were in effect on the date the
+application was first submitted.
+
+15.07.060 — Complete Application: Required Information. A complete application
+includes all the materials listed in this section. The city planner may waive the
+submission of any of these materials if not deemed to be applicable to the specific review
+sought. Likewise, within 30 days of when the application is first submitted, the city
+planner may require additional information beyond that listed in this section, such as a
+traffic study or other report prepared by an appropriate expert. In any event, the applicant
+is responsible for the completeness and accuracy of the application and all of the
+supporting documentation, and the city planner will not deem the application complete
+until all information required has been submitted. At a minimum, the applicant must
+submit one copy of a completed city application form that includes the following
+information:
+
+A.      An accurate legal description, tax account number(s), map and location of all
+properties that are the subject of the application.
+
+B.        Name, address, telephone number and authorization signature of all record
+property owners or contract owners, and the name, address and telephone number of the
+applicant, if different from the property owner(s). If the applicant is different than the
+owner, then a complete application shall also include a written and signed statement from
+
+Page 53 - Mosier Zoning Ordinance
+                                         fhoor-casy                           (Sey! °f)
+all recorded property owners that the applicant is authorized to apply for the proposed
+development.
+
+Cc.     A complete list of the permit approvals sought by the applicant.
+
+D.       A complete and detailed narrative description of the proposed development that
+describes existing site conditions, existing buildings, public facilities and services,
+presence of wetlands, steep slopes and other natural features, a discussion of the approval
+criteria for all permits required to approve the development proposal and which explains
+how the criteria are or can be met, and any other information indicated by staff at the pre-
+application conference as being required.
+
+E.      Where a site plan is involved, the city planner may require the applicant to submit
+up to 5 copies of the site plan or related drawings. At least one copy of the site plan and
+all related drawings shall be in a readable/legible 8% by 11 inch format.
+
+F.      Any other information or document that the city planner has identified as being
+necessary before the application can be reviewed.
+
+G.      All required application fees.
+
+15.07.070 — Public Notices. All public notices issued by the city with regard to a land
+use matter, announcing applications or public hearings of quasi-judicial or legislative
+actions shall comply with the requirements of this section. Current county property tax
+records shall be deemed an acceptable source of names and addresses of the surrounding
+property owners. In any event, so long as a good faith attempt was made to obtain the
+current names and addresses and notices were sent to those to whom notice is required by
+this section, then any defects in notice shall not invalidate any final decision rendered.
+
+A.       Notice of Type II applications - Once the city planner has deemed a Type II
+application complete, the she shall prepare and send notice of the application, by first
+class mail, to all record owners of property within 100 feet of the subject property. The
+city’s Type II notice shall include the following information:
+      1. Name and mailing address of the applicant, and street address or other easily
+         understood location of the subject property.
+     2. A description of the applicant’s proposal, along with citations of the approval
+         criteria that the city will use to evaluate the proposal.
+     3. A statement that any interested party may submit to the city written comments on
+         the application during a 14-day comment period prior to the city’s deciding the
+         application, along with instructions on where to send the comments and the
+         deadline of the 14-day comment period.
+     4. A statement that any issue which is intended to provide a basis for an appeal to
+         city council or the Land Use Board of Appeals must be raised in writing during
+         the 14-day comment period with sufficient specificity to enable the city to
+         respond to the issue.
+
+                                         301-0357                           57 PY
+Page 54 - Mosier Zoning Ordinance                                                      (Final)
+       5.   A statement that the application and all supporting materials and evidence
+            submitted in support of the application may be inspected at no charge, and that
+            copies may be obtained at a reasonable cost at City Hall during normal business
+            hours.
+       6.   The name and telephone number of the city planner responsible for the
+            application or otherwise available to answer questions about the application.
+
+B.      Notice of public hearing on a Type III application (a quasi-judicial application) -
+Notice for all public hearings concerning a quasi-judicial application shall conform to the
+requirements of this subsection. At least 20 days prior to the hearing, the city planner
+shall prepare and send, by first class mail, notice of the hearing to all record owners of
+property within 100 feet of the subject property. The city shall also publish the notice in
+a newspaper of general circulation within the city at least 20 days prior to the hearing.
+Notice of the application hearing shall include the following information:
+     1. The time, date and location of the public hearing.
+     2. Name and mailing address of the applicant, and a street address or other easily
+        understood location of the subject property;
+     3. A description of the applicant’s proposal, along with a list of citations of the
+        approval criteria that the city will use to evaluate the proposal.
+       4.   A statement that any interested party may testify at the hearing or submit written
+            comments on the proposal at or prior to the hearing, and that a staff report will be
+            prepared and made available to the public at least 7 days prior to the hearing.
+       5.   A statement that any issue which is intended to provide a basis for an appeal to
+            the city council or the Land Use Board of Appeals must be raised before the close
+            of the public record. Issues must be raised and accompanied by statements or
+            evidence sufficient to afford the city and all parties to respond to the issue.
+       6.   A statement that the application and all supporting materials and evidence
+            submitted in support of the application may be inspected at no charge, and that
+            copies may be obtained at a reasonable cost, at City Hall during normal business
+            hours.
+       7.   The name and telephone number of the city planner responsible for the
+            application or otherwise available to answer questions about the application.
+
+(on      Notice of public hearing on a Type IV application (a legislative proposal). At least
+20 days prior to a public hearing at which a legislative proposal to amend or adopt the
+city’s land use regulations or Comprehensive Plan is to be considered, the city recorder in
+coordination with the city planner shall issue a public notice that conforms to the
+requirements of this subsection. Notice shall be sent to affected governmental entities,
+ special districts, providers of urban services, including Oregon Department of
+Transportation and any party who has requested in writing such notice. Notice shall also
+be published in a newspaper of general circulation within the city. Notice issued under
+this subsection shall include the following information:
+      1. The time, date and location of the public hearing.
+     2. The title of the proposal.
+
+                                                                                                        Jak
+                                                                               (    <4        x
+                             Ordi           P06-0357
+Page    55 - Mosier Zoning                                                                    (Final)
+    3.   A description of the proposal in sufficient detail for people to determine the
+         nature of the change being proposed, including a description of the geographic
+         range, area or location of the land that will be affected by the proposal.
+    4,   A statement that any interested party may testify at the hearing or submit written
+         comments on the proposal at or prior to the hearing.
+    5.   The name and telephone number of the city planner responsible for the proposal
+         and who interested people may contact for further information.
+    6.   A statement that failure of any person entitled to notice under subsection
+         15.07.070-C to receive notice shall not invalidate the action, provided that the city
+         can demonstrate by certificate of mailing that such notice was sent.
+
+15.07.080 — Quasi-Judicial Hearing Process. All public hearings pertaining to quasi-
+judicial permits, shall comply with the procedures of this section. In addition, all public
+hearings held pursuant to this chapter shall comply with the Oregon Public Meetings
+Laws, the applicable provisions of ORS 197.763 and any other applicable law.
+
+A.     Notice of the hearing shall be issued at least 20 days prior to the hearing in
+accordance with Section 15.0.070 of this ordinance.
+
+B.       The city planner shall prepare a staff report on the application which lists the
+applicable approval criteria, describes the application and the applicant’s development
+proposal, summarizes all relevant city department, agency and public comments,
+describes all other pertinent facts as they relate to the application and the approval
+criteria, and makes a recommendation as to whether each of the approval criteria are met.
+The staff report shall be made available to the public for inspection and copying at least 7
+days prior to the scheduled hearing.
+
+Cc.      At the beginning of the initial public hearing for any quasi-judicial application or
+ appeal is reviewed, a statement describing the following shall be announced to those in
+ attendance:
+     1. That the hearing will proceed in the following general order: Staff report,
+         applicant’s presentation, testimony in favor of the application, testimony in
+         opposition to the application, applicant’s rebuttal, record closes, city council
+         deliberation and decision.
+     2. That all testimony and evidence submitted, orally or in writing, must be directed
+         toward the applicable approval criteria. If any person believes that other criteria
+         apply in addition to those addressed in the staff report, those criteria must be
+         listed and discussed on the record. The decision maker may reasonably limit oral
+         presentations in length or content depending upon time constraints. Any party
+         may submit written materials of any length while the public record is open.
+     3. Failure to raise an issue on the record, with sufficient specificity and accompanied
+         by statements or evidence sufficient to allow the city and all parties to respond to
+         the issue, will preclude appeal on that issue to the Land Use Board of Appeals.
+     4. Failure of the applicant to raise constitutional or other issues relating to proposed
+         conditions of approval with sufficient specificity to allow the city to respond to
+         the issue precludes an action for damages in circuit court.
+
+                                                                                 59 124)
+Page 56 - Mosier Zoning Ordinance         HO      Ge   D297                              (Final)
+    5.   Any party wishing a continuance or to keep open the record must make that
+         request while the record is still open.
+    6.   That the mayor shall call for any ex parte contacts, conflicts of interest or bias
+         before the beginning of each hearing.
+
+Dz      Requests for Continuances and to Keep Open the Record. The city council may
+continue the hearing from time to time to allow the submission of additional information
+or for deliberation without additional information. New notice of a continued hearing
+need not be given so long as the city council establishes a time certain and location for
+the continued hearing. Similarly the city council may close the hearing but keep open the
+record for the submission of additional written material or other documents and exhibits.
+The city council may limit the factual and legal issues that may be addressed in any
+continued hearing or during an open-record period.
+
+15.07.090 — Conditions of Approval and Notice of Decision.
+
+A.      All city decision makers have the authority to impose reasonable conditions of
+approval designed to ensure that all applicable approval standards are, or can be, met.
+
+B.      Failure to comply with any condition of approval shall be grounds for revocation
+of the permit(s) and grounds for instituting enforcement proceedings under the applicable
+city ordinance or ORS 30.315.
+
+Cc.     Notice of Decision. The city shall send, by first class mail, a notice of all
+decisions rendered under this Chapter to all persons with standing (i.e., the applicant, all
+others who participated either orally or in writing before the close of the public record
+and those who specifically requested notice of the decision). The notice of decision shall
+include the following information:
+     1. The date of decision.
+    2. The name of the applicant, owner and appellant (if different).
+    3. The street address or other easily understood location of the subject property.
+    4. A brief summary of the decision, and if an approval, a description of the
+        development that was approved.
+    5,   A statement that the decision is final unless appealed, and a description of the
+         requirements for perfecting an appeal.
+    6.   The contact person, address and telephone number whereby a copy of the final
+         decision may be inspected or copies obtained.
+
+Dz      Modification of Conditions. Any request to modify a condition of permit
+approval shall be processed in the same manner, and shall be subject to the same
+standards, as was the original application. However, the city council may consider a
+modification request and limit its review of the approval criteria to those issues or aspects
+of the application that are proposed to be changed from what was originally approved.
+
+15.07.100 — Performance Guarantees. When conditions of permit approval require the
+applicant to construct certain improvements, the city may allow the applicant to submit a
+
+swrvinranvane — peoroasg                                                         (06 yen
+financial guarantee in lieu of actual construction of the improvement. Financial
+guarantees shall be governed by this section.
+
+A.      Form of Guarantee. Guarantees shall be in a form approved by the city attorney,
+including an irrevocable stand-by letter of credit issued by a recognized lending
+institution to the benefit of the city, a certified check, dedicated bank account or
+allocation of a construction loan held in reserve by the lending institution for the benefit
+of the city. The guarantee shall be filed with the city recorder.
+
+B.       Amount of Guarantee. The amount of the performance guarantee shall be equal
+to at least 110 % of that estimated cost of constructing the improvement in question. The
+amount of the performance guarantee may be larger than 110 % if deemed necessary by
+the city engineer. The cost estimate substantiating the amount of the guarantee must be
+provided by the applicant supported by either an engineer’s or architect’s estimate or
+written estimates by three contractors with their names and addresses. The estimates
+shall separately itemize all materials, labor, and other costs.
+
+Cc.    Duration of the Guarantee. The guarantee shall remain in effect until the
+improvement is actually constructed and accepted by the city. Once the city has
+inspected and accepted the improvement, the city shall release the guarantee to the
+applicant. If the improvement is not completed to the city’s satisfaction within the time
+limits specified in the permit approval or the guarantee, the city council may direct the
+city attorney to draw upon the guarantee and use the proceeds to construct or complete
+construction of the improvement and for any related administrative and legal costs
+incurred by the city. Once constructed and approved by the city, any remaining funds
+shall be refunded to the applicant.
+
+D.        If the applicant elects to defer construction of improvements by using a financial
+guarantee, the applicant shall agree to construct those improvements upon written
+notification by the city, or at some other mutually agreed to time. If the applicant fails to
+commence construction of the required improvements within 6 months of being
+instructed to do so, the city may, without further notice, undertake the construction of the
+improvements and draw upon the applicant’s performance guarantee to pay those costs as
+provided in paragraph C above.
+
+15.07.110 — Covenant with the City.
+A.      The city may impose as a condition of final approval of a quasi-judicial permit,
+the requirement that the applicant execute a covenant with the city agreeing to comply
+with all conditions of approval. Any such covenant shall include the following elements:
+
+     1.   An agreement that the applicant will comply with all applicable code
+          requirements, conditions of approval and any representations made to the city by
+          the applicant or the applicant’s agents during the application review process,
+          either orally or in writing. This commitment shall be binding on the applicant and
+          all the applicant’s successors, heirs and assigns.
+
+                                                                                  IE, R-/ 2¢)
+Page 58 - Mosier Zoning Ordinance          p A    go   7 -O    257                       (Final)
+    2.   Ifthe owner fails to perform under the covenant, the city may immediately
+         institute revocation of the approval or any other enforcement action available
+         under state law or the municipal code. The covenant may also provide for
+         payment of attorney fees and other costs associated with any such enforcement
+         action.
+    3.   Where the development rights of one site are dependent on the performance of
+         conditions by the owner of another property (such as joint access), the covenants
+         are judicially enforceable by the owner of one site against the owner of another.
+
+B.       Adopting the Covenant. The form of all covenants shall be approved by the city
+attorney. The covenant shall run with the land and shall be placed in the county deed
+records prior to the issuance of any permits or development activity pursuant to the
+approval. Proof of recording shall be made prior to the issuance of any permits and filed
+with the city recorder. Recording shall be at the applicant’s expense. Any covenant
+required under this section shall be properly signed and executed within 30 days after
+permit approval with conditions; provided, however, that the city attorney may grant
+reasonable extensions, not to exceed an additional 30 days, in cases of practical difficulty.
+Failure to sign and record the covenant within the prescribed period shall require a new
+application for any use of the subject property.
+
+15.07.120 — Ex Parte Contact, Conflict of Interest and Bias. The following rules shall
+govern any challenges to a decision maker’s participation in a quasi-judicial or legislative
+action:
+
+A.      Ex parte Contacts. Any factual information obtained by a decision maker outside
+the context of a quasi-judicial hearing shall be deemed an ex parte contact. Prior to the
+close of the record in any particular matter, any decision maker that has obtained any
+material factual information through an ex parte contact shall declare the content of that
+contact and allow any interested party to rebut the substance of that contact. This rule
+does not apply to legislative proceedings.
+
+B.       Conflict of Interest. Whenever a decision maker, or any member of a decision
+maker’s immediate family or household, has a financial interest in the outcome of a
+particular quasi-judicial or legislative matter, that decision maker shall not participate in
+the deliberation or decision on that matter.
+
+Cc.     Bias. All decisions in quasi-judicial matters shall be fair, impartial and based on
+the applicable approval standards and the evidence in the record. Any decision maker
+who is unable to render a decision on this basis in any particular matter shall refrain from
+participating in the deliberation or decision on that matter. This rule does not apply to
+legislative proceedings.
+
+15.07.130 - Legislative Hearing Process.
+A.      Purpose, Legislative actions involve the adoption or amendment of land use
+regulations, Comprehensive Plan, map inventories and other policy documents that affect
+
+                                                                               banat
+Page 59 - Mosier Zoning Ordinance    p A      007     ~   C387                           ¥
+the entire city or large portions of it. Legislative actions which affect land use must begin
+with a public hearing before the city council.
+
+ B.        City Council Review:
+      1.   Hearing Required. The city council shall hold at least one public hearing before
+           taking action on a legislative proposal. Any interested person may appear and
+           provide written or oral testimony on the proposal at or prior to the hearing. The
+           city recorder, in coordination with the city planner, shall notify the Oregon
+           Department of Land Conservation and Development (DLCD) as required by the
+           post acknowledgment procedures of ORS 197.610 to 197.625, as applicable.
+      2.   City Planner’s Report. Once the city council’s hearing has been scheduled and
+           noticed in accordance with the Type IV notice procedures and any other
+           applicable laws, the city planner shall prepare and make available a report on the
+           legislative proposal at least 7 days prior to the hearing.
+      3.   City Council Decision. The city council shall adopt a written decision on the
+           proposal. The city council’s decision is appealable to the Land Use Board of
+           Appeals (LUBA) or the Land Conservation and Development Commission
+           (LCDC), as provided by state law.
+
+15.07.140 — Objections to Procedure. Any party who objects to the procedure followed
+in any particular matter, including bias, conflict of interest and undisclosed ex parte
+contact, must make a procedural objection prior to the city council’s rendering a final
+decision. Procedural objections may be raised at any time prior to a final decision, after
+which they are deemed waived. In making a procedural objection, the objecting party
+must identify with particularity the procedural requirement that was not properly
+followed and identify how the alleged procedural error harmed that person’s substantial
+rights.
+
+15.07.150 — Appeals. Appeals of any action or decision by the city planner are heard by
+the city council and must comply with the requirements of this section. Any decision by
+the city council is appealable, if at all, to the Land Use Board of Appeals (LUBA) or the
+Land Conservation and Development Commission (LCDC), as provided by state law.
+
+A.         Type I decisions by the city planner are not appealable to the city council.
+
+B.      A written Notice of Appeal of a Type II decision by the city planner must be
+received by the city recorder within 10 calendar days from the date notice of the
+challenged decision is provided to those entitled to notice. If the city’s Notice of
+Decision is mailed, any appeal must be received by the city recorder within 14 calendar
+days from the date the challenged decision was placed in the mail. Late filing of any
+appeal shall be deemed a jurisdictional defect and will result in the automatic rejection of
+any appeal so filed.
+
+Cc.        The following must be included as part of the Notice of Appeal:
+      1.   The date the decision to be appealed was rendered.
+      2.   The name, mailing address and daytime telephone number for each appellant.
+
+                                                                               [ba 2/9 y)
+Page 60 - Mosier Zoning Ordinance           pL OOP         CO oe      7                   (Final)
+    3.       A statement of how the appellant has an interest in the matter and standing to
+             appeal.
+    4,       A statement of the specific grounds for the appeal.
+    5.       The appropriate appeal fee. Failure to include or otherwise provide the appeal fee
+             within appeal period is deemed to be a jurisdictional defect and will result in the
+             automatic rejection of any appeal so filed.
+
+D.      Standing to Appeal. For Type II decisions, only those persons who submitted
+written comments within the 14-day comment period have standing to appeal a city
+planner’s decision. Grounds for appeal are limited to those issues raised in writing
+during the 14-day comment period.
+
+E.      Notice of the Appeal Hearing. The city recorder shall issue notice of the appeal
+hearing to all parties who participated either orally or in writing before the close of the
+public record in accordance with Chapter 15.07 Administration and Procedures. Notice
+of the appeal hearing shall contain the following information:
+        The date of the decision being appealed.
+   AWPRWNS
+
+        The time, date and location of the public hearing.
+        The name of the applicant, owner and appellant (if different).
+        The street address or other easily understood location of the subject property.
+        A description of the permit requested and the applicant’s development proposal.
+        A brief summary of the decision being appealed and the grounds for appeal listed
+             in the Notice of Appeal.
+    7.       A statement that the appeal hearing is confined to the issues raised in the notice of
+             appeal.
+    8.       A general explanation of the requirements for participation and the city’s hearing
+             procedures.
+
+F.      Appeal Hearing, Scope of Review. Appeal hearings shall comply with the
+procedural requirements of this Chapter for the appropriate Type of process. Appeal
+hearings conducted by the city council shall be on the record, and the issues under
+consideration shall be limited to those listed in the Notice of Appeal.
+
+15.07.160 - Expiration of Approval.
+A.      When Approvals Become Void. All quasi-judicial permit approvals, except for
+zoning map or comprehensive plan map amendments, automatically expire and become
+void if any of the following events occur:
+    1. If, within two years of the date of the final decision, a building permit has not
+             been issued; or
+    2.       If, within two years of the date of the final decision the activity approved in the
+             permit has not commenced. In situations involving only the creation of lots, the
+             final plat must have been approved and recorded within two years of preliminary
+             plat approval.
+
+B.      New Application Required. Expiration of an approval shall require a new
+application for any use on the subject property that is not otherwise allowed outright.        Ifa
+
+Page 61 - Mosier Zoning Ordinance           p ROOF D257
+                                                                                  bh xD  be
+new application is filed, approval or denial shall be controlled by the standards in effect
+at the time the new application is submitted.
+
+15.07.170 — Extension of an Approval.
+A.      The city planner may extend, prior to its expiration, any approved permit for a
+period of 6 months up to an aggregate period of one year; provided, however, that there
+has been substantial implementation of the permit. Any request for an extension shall be
+reviewed and decided upon by the city planner as a Type II decision.
+
+B.        Substantial implementation of a permit shall require at a minimum, for each
+extension requested, demonstrable evidence showing:
+     1.   The permit holder has applied for all necessary additional approvals or permits
+          required as a condition of the land use or limited land use permit.
+     2.   Further commencement of the development authorized by the permit could not
+          practicably have occurred for reasons beyond the reasonable control of the permit
+          holder.
+     3.   The request for an extension is not sought for purposes of avoiding any
+          responsibility imposed by this code or the permit or any condition there under.
+     4.   There have been no changes in circumstances or the law likely to necessitate
+          significant modifications of the development approval of conditions of approval.
+
+Cc.      Extension of the Expiration Period Due to Appeals. If a permit decision is
+ appealed beyond the jurisdiction of the city, the expiration period shall not begin until
+review before the Land Use Board of Appeals and the appellate courts has been
+completed, including any remand proceedings before the city. The expiration period
+provided for in this section will begin to run on the date of final disposition of the case
+(the date after which an appeal may no longer be filed).
+
+15.07.180 — Reapplication Limited. If an application is denied no reapplication for the
+same or substantially similar proposal may be made for one year following the date of
+final decision denying the permit.
+
+15.07.190 — Conformity of Permits.        The city shall not accept any application for a
+permit, certificate or other approval, including building permit applications, for any
+property that is not in full compliance with all applicable provisions of the Mosier Zoning
+Ordinance, Land Division Ordinance, and any permit approvals previously issued by the
+city.
+
+15.07.200 — Reconsideration of a Final Decision.        Under this section, parties with
+standing may seek reconsideration of a final decision rendered pursuant to a Type I, IL, III
+or IV process. Reconsideration is warranted where the city’s decision indicates the
+decision maker failed to understand or consider certain relevant facts or misinterpreted
+the application in some material way. Any request for reconsideration must be received
+by the city recorder within 10 days of when the decision in question was rendered and
+must specifically describe the alleged misunderstanding or misinterpretation. A request
+for reconsideration shall not stay the effectiveness of the city’s final decision, nor shall it
+
+                                                                                   oR
+Page 62 - Mosier Zoning Ordinance      p Oo 009-D          3S7              Gr aa
+affect any applicable appeal deadlines to the Land Use Board of Appeals. Ifthe request
+is granted, the city recorder shall notify all affected parties that the decision will be
+reconsidered. If the reconsideration is based on new evidence or information all parties
+with standing shall have the opportunity to review and comment on the new evidence or
+information. Any request for reconsideration by the applicant shall be deemed a waiver
+of the 120-day deadline. Notwithstanding anything in this Chapter, the city council may
+on its own motion withdraw a previously final decision for reconsideration at any time.
+
+15.07.210 — Transfer of Permits or Approval Rights. Unless otherwise stated in the
+city’s permit decision, any permit or approval granted under this ordinance runs with the
+land and is transferred with ownership of the land. Land use approvals and permits are
+not personal to the applicant. Any conditions, time limits or other restrictions imposed
+with a permit approval shall bind all subsequent owners and users of the property for
+which the permit was granted.
+
+15.07.220 — Fees. The city may adopt by resolution, and revise from time to time, a
+schedule of fees for applications and appeals. Fees shall be based upon the city’s actual
+or average cost of processing the application or conducting the appeal process. The only
+exception shall be the appeal fee for Type II decisions shall be limited by ORS
+227.175(10}(b}. The requirements of this section shall govern the payment, refund and
+reimbursement of fees.
+
+A.        Payment. All fees shall be due and payable at the time the application or appeal is
+submitted.    No application or appeal shall be accepted without the proper fee being paid.
+
+B.      Refunds. Fees will only be refunded as provided in this subsection:
+     1. Misapplied. When a fee is paid for an application which is later found not to be
+        required, the city shall refund the fee.
+     2.   Errors.     When an error is made in calculating a fee, overpayments will be
+          refunded.
+     3.   Withdrawals. In the event an applicant withdraws an application, the city
+          recorder shall refund the unused portion of the fee. In this case, the city recorder
+          will deduct from the fee the city’s actual costs incurred in processing the
+          application prior to withdrawal.
+     4.   Remainder of Special Deposit. Sometimes funds collected as a special deposit for
+          permit reviews that have been determined to require a level of review that will
+          clearly exceed the average permit fee. When this occurs the city recorder shall
+          refund the unused portion of the fee. In this case, the city recorder will deduct
+          from the fee the city’s actual costs incurred in processing the application prior to
+          refunding remaining deposit.
+
+Cc.     Fee Waivers. The city council may waive all or any portion of an application or
+appeal fee if, it is determined that an application must be submitted or resubmitted
+because of an error made by the city.
+
+                                                                              (¢ 63/9 d)
+Page 63 - Mosier Zoning Ordinance          iy     O0    97-0387                           (Final)
+A.        Applicant’s Deposit for City Administrative Costs. The City of Mosier, like
+          many cities in Oregon, is faced with a severely reduced budget for administration
+          of the city’s ordinances. The land use planning process in the State of Oregon has
+          become increasingly complex and lengthy. To properly process a land use
+          application, the city must rely upon professional consultants to assist in preparing
+          the legal notices, conducting on-site inspections, preparation of staff reports and,
+          in some cases, actual attendance at the city council meeting. The city uses
+          consultants to ensure land use applications are processed fairly and promptly.
+          Because of the city’s limited budget, the city council finds it necessary to transfer
+          those administrative costs to the applicant, as a part of the land use planning
+          process. The city’s consultants will be responsible for providing a bill to the city
+          on at least a monthly basis that itemizes all time and materials devoted to each
+          particular permit project. The city will then present these bills to the applicant
+          who benefited from the work for payment. Payment for the consultant’s bill shall
+          either come from the applicant’s deposit or the applicant shall pay the consultant’s
+          bill to the city within 30 days. An applicant’s failure to pay these billing
+          statements is grounds for the city’s suspension of work on a permit application
+          and withholding any permit until all amounts due are paid in full.
+
+          Some permit reviews are readily determined to be significantly more complex
+          than the typical or average permit review. The city may require the applicant to
+          deposit an amount with the City which is estimated to be necessary to cover the
+          costs of an especially complex permit review. A special permit deposit will be
+          required at the discretion of the Mayor with input from consultants relied on to
+          provide review services. Such special deposit shall be sufficient to cover
+          anticipated costs of retaining professional services. The amount may exceed the
+          average costs of permit fees but shall not exceed the estimated actual review
+          costs. If actual costs incurred are less than the special deposit a refund can be
+          issued per
+
+15.07.230 — Revocation of a Previously Approved Permit. In the event an applicant, or
+the applicant’s successor in interest, fails to fully comply with all conditions of permit
+approval or otherwise does not comply fully with the city’s approval, the city may
+institute a revocation or modification proceeding under this section.
+
+A.       Situations When Permit Approvals May be Revoked or Modified. All quasi-
+judicial permits may be revoked or modified if the city council determines a substantial
+likelihood that any of the following situations exists:
+     1.   One or more conditions of the approval have not been implemented or have been
+          violated.
+     2.   The activities of the use, or the use itself, are substantially different from what
+          was approved.
+     3.   Ifthe use is subject to the nonconforming use regulations, the applicant has not
+          obtained approval, and has substantially changed its activities or substantially
+          increased the intensity of its operations since the use became nonconforming.
+
+                                                                                (6 7              ay)
+Page 64 - Mosier Zoning Ordinance         p BOO           7—O 357                            ca
+B.      Process For Revocation and Modification. Revocation or modification shall be
+processed as a Type III decision. The city planner or any private complaining party shall
+have the burden of proving, based on substantial evidence in the whole record that one or
+more of the situations set forth in the previous subsection exist.
+
+C.        Possible Actions at the Revocation Hearing. Depending on the situation the city
+council may take any of the actions described below.       The city council may not approve
+the new use or a use that is more intense than originally approved unless the possibility of
+this change has been stated in the public notice. Uses or development which are alleged
+to have not fulfilled conditions, violate conditions, or the use is not consistent with the
+city’s approval, may be subject to one or more of the following actions:
+
+     1.   The city council may find that the use or development is complying with the
+          conditions of approval. In this case, the use or development shall be allowed to
+          continue.
+     2.   The city council may modify the approval if it finds that the use or development
+          does not fully comply with the conditions of approval, that the violations are not
+          substantial enough to warrant revocation, and that the use can comply with the
+          original approval criteria if certain conditions are met. In this case, the city
+          council may modify the existing conditions, add new conditions to ensure
+          compliance with the approval criteria, or refer the case to the city attorney for
+          enforcement of the existing conditions.
+     3.   The city council may revoke the approval if it finds there are substantial
+          violations of conditions or failure to implement conditions of prior land use
+          decisions, such that the original approval criteria for the use or development are
+          not being met.
+
+D.      Effect of Revocation. In the event that the permit approval is revoked, the use or
+development becomes illegal. The use or development shall be terminated within 30
+days of the date that the revocation final order is approved by the city council, unless the
+decision provides otherwise. In the event the city council’s decision on a revocation
+request is appealed, the revocation action shall be stayed pending a final, unappealed
+decision.
+
+15.07.240 — Authority te Condition Permit Approvals. The city has the authority to
+impose any reasonable conditions it deems necessary to ensure compliance with the
+approval criteria, including a limit on the duration of the permit, a periodic review
+process with the possibility of termination, or any reasonable limitation on physical or
+operational characteristics of the use. In the event that the approval criteria for any
+discretionary land use request cannot be met through the imposition of reasonable
+conditions, the request shall be denied.
+
+Page 65 - Mosier Zoning Ordinance
+                                        3007-0957                             (01 5)      (Final)
+                                         CHAPTER 08
+                                        ANNEXATION
+Sections:
+
+15.08.010       Introduction
+15.08.020       Application and Process
+15.08.0306      Filing Fees
+15.08.040       City Council Review
+15.08.050       Evaluation Criteria: Developed Land
+15.08.060       Evaluation Criteria: Undeveloped Land
+15.08.070       Factors to be Considered when Determining Fiscal Impact
+15.08.080       Factors to be Considered when Determining Urban Service
+                Capabilities
+15.08.090       Staff Analysis
+
+15.08.010 - Introduction.      It is the policy of the City of Mosier to promote orderly,
+efficient and fiscally responsible annexation of territories in conjunction with urban
+growth or expected or desired urban growth within the urban growth area. Accordingly,
+the city shall annex property where:
+
+A.     The proposed annexation represents the natural extension of the existing city
+boundary consistent with urban growth.
+
+B.      The proposed annexation would not, when developed or as developed,
+unreasonably limit the ability of the city to provide a level of services to city residents
+consistent with community needs and the financial capabilities of the city, as determined
+by the city.
+
+Cc.    The proposed annexation would not cause the city to pledge extension of services
+beyond its resources so as to result in a deficit operation of the service.
+
+D.      The proposed annexation would serve the interests of the entire community and
+not solely the interests or convenience of those within the territory proposed to be
+annexed.
+
+15.08.020 — Application and Process. An annexation may be proposed by the City of
+Mosier, landowners, or a group of residents and shall include the following elements:
+
+A.     Preliminary plans and specification, drawn to scale, showing the actual shape and
+dimensions of the property to be annexed and the existing and proposed land uses and
+residential density. City and county zoning in the proposed territory, as shown on a
+vicinity map, and contiguous lands must be indicated also.
+
+B.      Comprehensive statement of reasons in support of the annexation addressing the
+applicable annexation criteria.
+
+Page 66 - Mosier Zoning Ordinance        p a 00      7-    o)        7
+                                                                               (CARP)       (Final)
+Cc.     Completed certification of property ownership, registered voter status, map, and
+legal description.
+
+15.08.030 — Filing Fees. Fees for filing for annexation requests shall be set by city
+council resolution.
+
+15.08.040 — City Council Review. Within 30 days of receipt of the completed
+application, the city planner shall review the application and forward a recommendation
+with findings to the city council who will conduct a public hearing according to the
+quasi-judicial hearing procedures of the Mosier Zoning Ordinance.
+
+15.08.050 — Evaluation Criteria: Developed Land. Prior to approving a proposed
+annexation of developed land, affirmative findings shall be made relative to the following
+criteria:
+
+A.      The territory is contiguous to the city limits and within the Urban Growth Area.
+
+B.    The annexation represents a logical extension of the existing city boundary to
+accommodate urban growth.
+
+Cc.     The development of the property is compatible and consistent with the rational
+and logical extension of utilities and roads to the surrounding area.
+
+D.       The city is capable of providing and maintaining its full range of urban services to
+the territory without negatively impacting the city’s ability to adequately serve all areas
+within the existing city limits.
+
+E.     The fiscal impact of the annexation is favorable, as determined by the City of
+Mosier because of existing development.
+
+F.      The proposed annexation does not negatively impact nearby properties, whether
+located within the city limits or the urban growth area.
+
+G.      The annexation conforms with the Comprehensive Plan.
+
+15.08.060 — Evaluation Criteria: Undeveloped Land.         Prior to approving a proposed
+annexation of undeveloped land, affirmative findings shall be made relative to the
+following criteria:
+A.      The territory is contiguous to the city limits and within the Urban Growth Area.
+
+B.     The annexation represents the natural extension of the existing city boundary to
+accommodate urban growth.
+
+c.      The annexation of the territory is compatible and consistent with the rational and
+logical extension of utilities and roads to the surrounding area,
+
+                                                                                     OR /ay
+Page 67 - Mosier Zoning Ordinance         L300 G— ra) 357                        ?      a.
+D.      The city is capable of providing and maintaining its full range of urban services to
+the property without negatively impacting the city’s ability to adequately serve all areas
+within the existing city limits.
+
+E.      The fiscal impact of the annexation is favorable, as determined by the City of
+Mosier, either upon approval or because of a commitment to a proposed development,
+unless the city determines that a public need outweighs the increase.
+
+F.      The annexation meets the city’s urban growth needs and it is to the city’s
+advantage to control the growth and development plans for the territory (i.e., to be able to
+address the issues of traffic, density, land use and the level and timing of necessary
+facilities and services). This criterion does not apply where the annexation provides a
+solution for existing problems resulting from insufficient sanitation, water service,
+needed routes for utility or transportation networks or other service-related problems.
+
+H.      The proposed annexation does not negatively impact nearby properties, whether
+located within the city limits or the urban growth area.
+
+I       The annexation conforms with the Comprehensive Plan.
+
+15.08.070 — Factors to be Considered when Determining Fiscal Impact. The
+following factors are to be taken into consideration when determining fiscal impact for
+both developed and undeveloped land and may include, but are not limited to:
+
+A.      The additional revenues, if any, available to the city as a result of the annexation.
+
+B.      Whether any unusual or excessive costs will be incurred as a result of the
+annexation.
+
+Cc.     The impact on the city’s tax base if any, as a result of the annexation.
+
+15.08.080 — Factors to be Considered when Determining Urban Service Capabilities.
+
+A.       The municipal service needs, if any, of the territory to be annexed, including those
+of police and fire protection, public sewer and water supply facilities, street improvement
+and/or construction and such other municipal services as may reasonably be required.
+Both short term and long term plans for all services shall be addressed.
+
+B.      The projected costs of supplying reasonably needed municipal services to the
+territory proposed to be annexed.
+
+15.08.090 — Staff Analysis. In order to assure that the city council, prior to action upon a
+proposal for annexation, are fully informed as to the potential impacts of the annexation
+on both the city and the territory proposed to be annexed, the city planner shall provide a
+staff report addressing the above criteria.
+
+Page 68 - Mosier Zoning Ordinance              L aA 007-0           357
+                                                                                   (ay)  (Final)
+                                     CHAPTER 15.09
+                                LANDSCAPING STANDARDS
+
+Section:
+
+15.09.010                 Purpose
+15.09.020                 Procedure
+15.09.030                 Submittal Requirements for Landscaping Plan
+15.09.040                 General Landscaping Standards
+15.09.050                 Landscaping and Development Standards for Entrances
+15.09.060                 Violation
+
+15.09.010 - Purpose.
+A.         Landscaping standards apply to all new multifamily, commercial and industrial
+uses, including change of use, and parking lots of 4 spaces or more.
+
+B.       For sites which do not conform to these requirements, an equal percentage of the
+site must be made to comply with these standards as the percentage of building or
+parking lot expands, (e.g., if the building or parking lot area is to expand by 25%, then
+25% of the site must be brought up to the standards required by this ordinance).
+
+15.09.020 - Procedure. A landscaping plan shall be submitted to the city at the time of
+application for a building permit conditional use permit, or site plan review for all new
+multifamily, commercial, industrial uses, including change of use, and parking lots of 4
+spaces or more.
+
+A.      The city planner shall review all landscaping plans for compliance with the
+provisions of this ordinance and notify the property owner of deficiencies in a submitted
+plan.
+
+B.       A building permit, conditional use permit or site plan review shall not be issued
+until a landscaping plan has been approved.
+
+Cc.    The required landscaping shall be in place prior to issuance of a certificate of
+occupancy or a schedule for its completion prepared and approved.
+
+15.09.030 — Submittal Requirements for Landscaping Plan. A landscaping plan
+submitted to the city as required by this ordinance shall identify the placement and type
+of plant materials, including all necessary irrigation systems. Submittals may be required
+by the city to be reviewed by a qualified professional experienced and knowledgeable in
+design, installation, maintenance, and survival with native, drought tolerant plants, of
+local origin. When required review by the qualified professional shall be sufficient to
+provide an effective means for evaluating whether the chosen plant materials will be able
+to and include:
+
+A.         Survive in the climate and soils of the proposed site.
+
+                                                                                 & RPL
+Page 69 - Mosier Zoning Ordinance                p A    DO   7 -O   2 S7                  (Final)
+B.      Satisfy the functional objectives of landscaping as detailed in this ordinance,
+including erosion control, screening and shade within a reasonable time.
+
+Cc.    Location of underground irrigation system     including drip sprinkler heads or other
+water saving irrigation methods where applicable.
+
+D.      Location and height of fences, buffers, and screening.
+
+E.      Location of terraces, decks, shelters, play areas, and common open spaces.
+
+F.      Location, type, size, and species of existing and proposed plant materials with
+delineation of which trees and plant materials will be retained.
+
+15.09.040 — General Landscaping Standards. The following landscaping standards
+apply to all new multifamily, commercial and industrial uses, including change of use,
+and parking lots of 4 or more spaces.
+
+A.      The standards set forth in this ordinance are minimum standards for landscaping.
+
+B.      Unless otherwise provided by a lease agreement, the owner, tenant, and their
+agent, if any, shall be jointly responsible for the maintenance of all landscaping.
+Landscaping material shall be maintained in good condition so as to present a healthy,
+neat, and orderly appearance and shall be kept free from refuse and debris.
+
+c.      The property owner shall be responsible for any future damage to a street, curb or
+sidewalk caused by landscaping.
+
+D.       Landscaping shall be selected and located to deter sound, filter air contaminants,
+curtail erosion, contribute to living privacy, reduce the visual impacts of large buildings
+and paved areas, screen, and emphasize or separate outdoor spaces of different uses or
+character.
+
+E.       Landscaping in parking areas shall be planted in combination along the perimeter
+and in the interior of the lot and shall be designed to guide traffic movement and lessen
+the visual dominance of the lot.
+
+F.       Plants that minimize upkeep, water consumption, and maintenance shall be
+selected.
+
+G,      Plants shall complement or supplement surrounding natural vegetation.
+Specifically, native plant species that are drought resistant shall be selected.
+
+H.      Plants chosen shall be in scale with building development.
+
+I.      Minimum landscaping as a percent of gross site area shall be as follows:
+
+Page 70 - Mosier Zoning Ordinance           p A     607     0      3S7                    (Final)
+                                TABLE 15.09-A
+                   Minimum Landscaping Area Requirements by Zone
+
+                        ZONE                                PERCENT
+                        Multifamily                         20%
+                        Commercial                          15%
+                        Industrial                          15%
+                        Parking Lots                        10%
+
+J.       Deciduous trees shall have straight trunks, be fully branched, have a minimum
+caliper of 1% inches unless a smaller tree is determined by a specialist in local native
+plants, to have significantly increased survival rate and comparable other benefits within
+the first five years and be adequately staked for planting.
+
+K.      Evergreen trees shall be a minimum of 3 feet in height, unless a smaller tree is
+determined by a specialist in local native plants, to have significantly increased survival
+rate and comparable other benefits within the first five years. Trees shall be fully
+branched and adequately staked for planting.
+
+L.       Shrubs shall be a minimum 18 inches in height and spaced not more than 4 feet
+apart for planting.
+
+M.      Watering systems shall be installed to assure landscaping success and shall be
+demonstrated to minimize water consumption. If plantings fail to survive, it is the
+responsibility of the property owner to replace them.
+
+N.       Trees shall not be planted closer than 25 feet from the curb line of intersections of
+streets or alleys, and not closer than 10 feet from private driveways (measured at the back
+edge of the sidewalk), fire hydrants, or utility poles.
+
+Oo.      Street trees shall not be planted closer than 20 feet to light standards. Except for
+public safety, no new light standard location should be positioned closer than 10 feet to
+ any existing street tree, and preferably such locations will be at least 20 feet distant.
+
+P.      Trees shall not be planted closer than 214 feet from the face of the curb except at
+intersections, where it should be 5 feet from the curb in a curb return area.
+
+Q.      Where there are overhead power lines, tree species that will not interfere with
+those lines shall be chosen.
+
+R.      Trees shall not be planted within 2 feet of any permanent hard surface paving or
+walkway.    Sidewalk cuts in concrete for trees shall be at least 4 feet by 4 feet; however,
+larger cuts are encouraged because they allow additional air and water into the root
+system and add to the health of the tree. Space between the tree and such hard surface
+
+Page 71 - Mosier Zoning Ordinance
+                                              [3007-0857                             Ly yo)
+                                                                                         (Final)
+may be covered by permeable non-permanent hard surfaces such as grates, brick on sand,
+paver blocks, cobblestones, or ground cover.
+
+S.      Trees, as they grow, shall be pruned to their natural form to provide at least 8 feet
+of clearance above sidewalks and 12 feet above street roadway surfaces.
+
+T.         Existing trees may be used as street trees if there will be no damage from the
+development which will kill or weaken the tree. Sidewalks of variable width and
+elevation may be used to save existing street trees, subject to approval by the city
+Engineer.
+
+Uz.        Vision clearance hazards shall be avoided.
+
+V.         The installation of all landscaping shall be as follows:
+
+      1.   All landscaping shall be installed according to accepted planting procedures in
+           accordance with the provisions of this ordinance and generally following the
+           provisions of Sunset New Western Garden Book, latest edition, Land Publishing
+           Company, Menlo Park, California.
+      2.   The plant material shall be of high grade, shall be native drought tolerant, and
+           shall be of local origin when possible. All plant materials must be healthy, disease
+           free, well branched stock characteristic of the species.
+
+15.09.050 — Landscaping and Development Standards for Entrances. The following
+standards will be required for new commercial, multifamily, industrial uses, including
+change of use, and parking lots of 4 spaces or more on properties along Highway 30 of
+the city limits of Mosier.
+
+A.      For sites which do not conform to these requirements, an equal percentage of the
+site must be made to comply with these standards as the percentage of building or
+parking lot expansion, e.g., if building or parking lot area is to expand by 25%, then 25%
+of the site must be brought up to the standards required by this ordinance.
+     1. Entrances. Along Highway 30 starting at Mosier Manor and ending one-half mile
+         east of Mosier Creek Bridge
+     2. Standards.
+         a.      An average 10 foot wide landscaped area, at minimum, shall be planted
+         along the perimeter of the parcel fronting the street right-of-way as part of the
+         landscape requirement.
+           b.      Street trees shall be placed at the rate of one tree for every 30 feet of street
+           frontage. Trees shall be evenly spaced, with variations to the spacing permitted
+           for specific site limitations, such as driveway approaches.
+
+15.09.060 - Violation. Failure to comply with the standards subsequent to issuance of
+the building permit for new construction shall constitute a violation of these regulations
+and be subject to the penalty and abatement proceedings by the city.
+
+Page 72 - Mosier Zoning Ordinance
+                                            f3007-03859                                       |* HI of)
+                                                                                              (Final)
+                          CHAPTER 15.10
+        ZONE CHANGES AND COMPREHENSIVE                     PLAN AMENDMENTS
+
+Sections:
+
+15.10.010                Initiation of the Amendment and Process
+15.10.020                Criteria
+15.10.030                Conditions of Approval
+
+15.10.010 — Initiation of the Amendment and Process.        A text amendment to this
+Ordinance, the Land Division Ordinance, the Comprehensive Plan, or an
+amendment to the zoning map, including a zone change, may be initiated by the
+city council or by a property owner. Any Comprehensive Plan amendment or
+amendment to the city's land use regulations that has applicability to many
+properties shall be subject to a Type IV process. Any property-specific zone
+change application shall be subject to a Type III process.
+
+15.10.020 — Criteria.     The proponent for any amendment to this Ordinance, the
+Land Division Ordinance, the Comprehensive Plan, or an amendment to the zoning
+map, including a zone change, shall demonstrate with evidence that all of the
+following criteria are met:
+
+A.     The proposal shall be consistent with the goals and policies of the
+Comprehensive Plan, with the applicable State-wide Planning Goals, and with any
+other applicable state or local requirement.
+
+B.      That public facilities and services (water, sewer, storm drainage,
+transportation, schools, police and fire protection) are presently capable of
+supporting the uses allowed by the zone, or can be made available prior to
+development under the proposed zoning. Service shall be sufficient to support the
+range of uses and development allowed by the zone.
+
+C.      The land uses authorized by the proposal are consistent with the existing or
+planned function, capacity and level of service of the transportation system serving
+the proposed zoning district.
+
+D.      That the proposed change is in the public interest and supports the general
+public welfare.
+
+15.10.030 — Conditions of Approval.      In granting a property-specific zone
+change, the city council may attach such conditions and requirements to the zone
+change as it deems necessary to achieve or ensure compliance with the approval
+criteria. Any conditions attached to a quasi-judicial zone change approval must be
+accepted in writing by the property owner, recorded with the Wasco County deed
+
+Page 73 ~ Mosier Zoning Ordinance              Papon-02sy                             (Oe a2)
+records, and the zone change shall not become effective until the written
+acceptance is executed.
+
+                                            P3007              Dasd         O75, et)
+Page 74 - Mosier Zoning Ordinance                                            inal)
+                                    CHAPTER 15.11
+WIRELESS COMMUNICATIONS                  FACILITIES — STANDARDS AND PROCESS
+
+Sections:
+
+15.11.010                Purpose
+15.11.020                Definitions
+15.11.030                Application Requirements
+15.11.040                General Regulations
+15.11.050                Review Process and Approval Standards
+15.11.060                Exemptions
+15.11.070                Maintenance
+15.11.080                Certifications and Inspections
+15.11.090                Abandonment or Discontinuation of Use
+15.11.100                Violation, Enforcement and Revocation
+
+15.11.010        Purpose. This chapter is intended to provide a uniform and
+comprehensive set of standards for the development, siting and installation of
+wireless telecommunications facilities. These regulations are intended to protect
+and promote the public health, safety and welfare of the residents of Mosier, to
+preserve community character and protect aesthetic quality in accordance with the
+guidelines and intent of the Telecommunications Act of 1996 and to encourage
+siting in preferred locations to minimize aesthetic impacts and to minimize the
+intrusion of these uses into the views of the Columbia River Gorge as seen from
+the Historic Columbia River Highway and residential areas within the city.
+
+15.11.020      Definitions. The following words and phrases used in this chapter shall
+have the following meanings:
+
+A.      Antenna means any system of wires, poles, rods, reflecting discs or similar
+devices designed for telephonic, radio, facsimile, data or television
+communications through sending and/or receiving of electromagnetic waves when
+such system is either external to or attached to the exterior of a structure. Antennas
+shall include, but not be limited to, devices having active elements extending in
+any direction, and directional beam-type arrays having elements carried by and
+disposed from a generally horizontal boom that may be mounted up and rotated
+through a vertical mast or tower interconnecting the boom and antenna support, all
+of which elements are deemed to be part of the antenna.
+
+B.      Antenna height means the vertical distance measured from the ground surface at
+grade to the tip of the highest point of the proposed structure.
+
+                                                                                         28   jo¢)
+Page 75 - Mosier Zoning Ordinance           p ey} 607        — O03    S7                 ee
+Cc.       Antenna support means any pole, telescoping mast, tower tripod or any other
+ structure that supports a device used in the transmitting and/or receiving of
+ electromagnetic waves.
+
+D.      Applicant means a person who applies for a wireless facility siting. An applicant
+can be the owner of the property or someone who is representing the owner, such as a
+builder, developer, optional purchaser, lessor, consultant or architect.
+
+E.        Camouflaged means any telecommunications facility that is designed to blend
+into the surrounding environment. Examples of camouflaged facilities may include
+architecturally screened roof-mounted antennas, building-mounted antennas painted to
+match the existing structure, antennas integrated into architectural elements, towers made
+to look like trees and antenna structures designed to look like light poles. Camouflaged
+facilities may be considered low or high visibility depending on the type of facility,
+degree of camouflaging and compatibility with the surrounding existing environment (see
+definitions of low and high visibility).
+
+F,      Co-location means locating wireless telecommunications equipment from more
+than one provider on a single site.
+
+G.       Community character means those unique attributes including, but not limited to,
+architecture, historical and cultural features, historical development patterns, landscape,
+hardscape and the size, scale and spacing of buildings and other structures that define a
+community’s identity.
+
+H.     Equipment building, shelter or cabinet means a cabinet or building used to house
+equipment used by telecommunication providers at a facility.
+
+I.      Facade mounted antenna means an antenna architecturally integrated into
+the facade of a building or structure.
+
+J.      Facility means a wireless telecommunications facility.
+
+K.      Faux tree means a telecommunications tower camouflaged to resemble a tree.
+
+L.      Grade is the lowest point of elevation of the finished surface of the ground,
+paving or sidewalk within the area between the structure and the property line or, when
+the property line is more than 5 feet from the structure, between the structure and a line 5
+feet from the structure.
+
+M.       Guyed tower means a telecommunications tower that is supported, in whole or in
+part, by guy wires and ground anchors.
+
+N.      High visibility means the following types of telecommunications facilities:
+     1) Monopoles, lattice towers and guyed towers
+     2) Non-camouflaged facilities
+
+Page 76 - Mosier Zoning Ordinance      4      0OF-       02 S7
+                                                                                        749,
+                                                                                        Gh
+                                                                                             OY)
+    3) Faux Trees
+    4) Any wireless facilities that do not meet the definition of invisible or low visibility.
+
+O.       Invisible means facilities, including, but not limited to towers, antennas and
+equipment cabinets and any other ancillary equipment, that cannot be seen from any
+street or any adjacent property and do not result in any apparent architectural changes or
+additions. The addition of landscaping, walls, fences or grading as screening techniques
+does not make an otherwise visible facility invisible.
+
+P.     Lattice tower means a guyed or self-supporting three or four sided, open, steel
+frame support structure used to support telecommunications equipment.
+
+Q.      Low visibility means the following facilities if they do not exceed 25 feet in
+height:
+
+    1. Whip antennas not exceeding 6 feet in length or height, including mounting, and
+       measuring no more than 3 inches in diameter, located on existing structures
+        including, but not limited to, water storage tanks, high-voltage transmission
+       towers, utility towers and poles, sign standards, and roadway overpasses, if the
+        addition, including any vertical mounting, does not result in an increase in height
+        of the structure of more than 5 feet, and with equipment cabinets that are screened
+        from view by means other than new walls or fences and have total dimensions no
+        greater than 50 cubic feet and no dimension greater than 6 feet. Cabinets in
+        underground vaults are not included in the size calculation.
+
+    2. Panel-shaped antennas that are flush-mounted to an existing building facade or
+        other existing structure on at least one edge, or extend a maximum of 24 inches
+        from the building fagade or other structure at any edge, do not exceed the height
+        of the building or other structure by more than 5 feet and are designed to blend
+        with the color, texture and design of the existing building or structure, with no
+        visible equipment cabinet.
+
+    3. Facilities, including equipment cabinets, that are camouflaged from public view
+        through the use of architectural treatments, such as cupolas, faux water towers,
+        windmills or other structures and are consistent with existing development, design
+        and community character.
+
+    4. Additions to existing permitted low-visibility facilities if the additions themselves
+        meet the definition of low visibility and are designed to minimize visibility of
+        both the facility and equipment cabinets that have total dimensions no greater than
+        50 cubic feet and no dimension greater than 6 feet and are screened from view by
+        means other than new walls and fences. The equipment cabinet may be larger if
+        contained inside a structure consistent with the architecture and character of the
+        site.
+
+Page 77 - Mosier Zoning Ordinance
+                                                    f3007- 0257                        (30
+                                                                                        (Final)
+                                                                                                nov)
+      5. Changes to an existing building that are consistent with the building’s architectural
+          style and the equipment cabinet is not visible.
+
+R.      Microcells provide additional coverage and capacity where there are high
+numbers of users within urban and suburban macrocells. The antennas for microcells are
+mounted at street level, typically on the external walls of existing structures, lamp-posts
+and other street furniture. Microcell antennas are usually smaller than macrocell
+antennas and when mounted on existing structures can often blend into building features.
+Microcells provide radio coverage over distances, typically between 100m and 1000m
+and operate at power levels substantially below those of macrocells
+
+S.       Monopole means a wireless communication facility consisting of a single pole
+constructed for purposes of supporting one or more antennas without guy wires or ground
+anchors.
+
+T.      Panel or directional antenna means an antenna or array of antennas designed to
+concentrate a radio signal in a particular area.
+
+U.       Roof mounted antenna means any antenna with its support structure placed
+directly on the roof of any building or structure.
+
+V.       Service area means the area served by a single telecommunications facility.
+
+Ww.     Telecommunications means the transmission, between or among points specified
+by the user, of information of the user’s choosing, without change in the form or content
+of the information as sent and received.
+
+XK.      Tower or telecommunications tower means any mast, pole, monopole, guyed
+tower, lattice tower, free standing tower or other structure designed and primarily used to
+support antennas.
+
+Y.     Whip antenna means an antenna that transmits or receives signals in 360 degrees.
+Whip antennas are typically cylindrical in shape, less than 3 inches in diameter and no
+more than 6 feet long, including the mounting.
+
+Z.       Wireless telecommunications facility means any facility that transmits and/or
+receives electromagnetic waves, including, but not limited to, antennas, dish antennas,
+microwave antennas and other types of equipment for the transmission or receipt of such
+signals, including telecommunications towers and similar supporting structures,
+equipment cabinets or buildings, parking area and other accessory development. This
+definition does not apply to Amateur Radio Stations as defined by the Federal
+Communications Commission, Part 97 of the Commission’s Rules nor to TV and radio
+transmission facilities. Radio and television broadcast and transmission facilities are
+prohibited everywhere in the city unless specifically and explicitly allowed by a provision
+of MCC Title 15.
+
+                                                       pi:“R6007—0 oS7                  bi y     / ay )
+Page 78 - Mosier Zoning Ordinance
+15.11.030         Application Requirements.       Ali applications for a telecommunications
+facility shall provide three copies of the following reports, documents or documentation:
+
+A.        Geographic Service Area. The applicant shall identify the geographic service area
+for the proposed facility, including a map showing all the applicant’s existing sites in the
+local service network associated with the gap the facility is meant to close. The applicant
+shall describe how this service area fits into and is necessary for the service provider’s
+service network. The applicant shall include a signal strength propagation plot for the
+proposed facility at the preferred location.
+
+B.      Visual Impact, Technological Design Options, and Alternative Site Analysis.            The
+applicant shall provide a visual impact analysis showing the maximum silhouette,
+viewshed analysis, color and finish palette and proposed screening for all components of
+the facility. The analysis shall include photo simulations and other information as
+necessary to determine visual impact of the facility as seen from multiple directions. The
+applicant shall include a map showing where the photos were taken. The applicant shall
+include an analysis of alternative sites and technological design options for the facility
+within and outside of the city that are capable of closing approximately the same gap in
+the service provider’s service area as the preferred site with an equivalent or lesser visual
+impact. If a new tower is proposed the applicant must demonstrate the need for a new
+tower and why alternative locations and design alternatives such as the use of microcell
+cannot be used to close the gap in service provision.
+
+C.       Narrative. The application shall include a written narrative that describes in detail
+all of the equipment and components to be included in the facility, e.g., antenna(s) and
+arrays, equipment cabinet, back-up generator, air conditioning unit, fencing, etc. The
+following information shall also be provided:
+
+     1. Height. Show the height of the facility. Facilities proposed in the residential or
+         commercial zone where visible from the Historic Columbia River Highway must
+         comply with the 35 foot height limit and special height limits established for land
+          north of the Highway. Carriers must provide evidence that establishes that the
+          proposed facilities are designed to the minimum height required from a
+          technological standpoint for the proposed site to meet the carrier’s coverage
+          objectives. If the tower will exceed 60 feet, as measured from grade or exceed the
+          base height restrictions in the residential zone or be visible from the Historic
+          Columbia River Highway, this narrative shall include a discussion of the physical
+          constraints (topographical features, etc.) making the additional height necessary.
+          The narrative shall include consideration of the possibility for design alternatives
+          including the use of multiple sites or microcell technology that would avoid the
+          need for the new facility or the requested height.
+
+     2.   Construction. Describe the anticipated construction techniques and timeframe for
+          construction or installation of the facilities. This narrative shall include all
+          temporary staging and the type of vehicles and equipment to be used.
+
+                                                                                             (g2 Be ov)
+               youn         ont
+Page 79 - Mosier Zoning Ordinance
+                                                          U3 007 0897                        (Final)
+     3. Maintenance. Describe the anticipated maintenance and monitoring program for
+         the antennas, back-up equipment and landscaping.
+
+     4. Noise/Acoustical Information. Provide manufacturer’s specifications for all
+         equipment such as air conditioning units and back-up generators, and a depiction
+         of the equipment location in relation to adjoining properties.
+
+     5. Concept Landscape Plan. Provide a plan showing all proposed landscaping,
+        screening and proposed irrigation with a discussion of how the chosen material at
+        maturity will screen the site.
+
+     6. Fire Service.   Provide a service letter from the local fire district.
+
+     7. Hazardous Materials.        Listing of all hazardous materials to be used onsite.
+
+     8. Parking. An indication on the plot plan showing the location of parking for
+         maintenance personnel.
+
+     9. Co-location. A letter stating the applicant’s willingness to allow other carriers to
+         co-locate on the proposed facilities wherever technically and economically
+         feasible and aesthetically desirable.
+
+     10. Lease.   The plot plan shall show the lease area of the proposed facility.
+
+     11. FCC Application Submission. For all applications for wireless facilities operating
+        below 1200 megahertz, submit a copy of the Federal Communications
+        Commission Licensing Application Form 601, Main Form, Pages 1 through 4,
+        Schedule A, Page 1, Schedule D, Page 1 and Schedule H, Pages 1 through 3. The
+        application shall be reviewed by the Wasco County Sheriff's office and any other
+        emergency service radio broadcaster to determine potential interference with the
+        local or regional communication system. Interference with any local systems may
+        be grounds for denial.
+
+15.11.040 — General Regulations. All applications for wireless communications
+facilities are subject to the following requirements and regulations:
+
+A.     High visibility facilities are prohibited in any location visible from a Residential
+zoned property or from the Historic Columbia River Highway.
+
+B.      Speculation, No application shall be accepted or approved for a speculation tower,
+i.e., from an applicant that simply constructs towers and leases tower space to service
+providers, but is not a service provider.
+
+C.     Accessory building heights, All buildings and structures built to contain
+equipment accessory to a facility may not exceed 10 feet in height measured from the
+
+                                                                    O G@—O2A S7             5: 3   d-/ oy)
+                                                        p AO
+Page 80 - Mosier Zoning Ordinance
+base of the foundation unless a greater height is necessary and required by condition of
+approval to maximize architectural integration and shall be screened by landscaping.
+
+D.       Maximum facilities per site or parcel, No more than one tower, with a maximum
+of three facilities, is allowed on any one site or parcel in Commercial, Public Lands and
+Facilities, or Industrial zones. No more than one facility is allowed on any parcel or site
+in a Residential or Open Space zone. This requirement may be waived by the city ifa
+finding is made that co-location of more facilities is consistent with community character.
+
+E.      Towers adjacent to residential use, Telecommunications towers located adjacent
+to a residential use shall be set back from the nearest residential lot line by a distance at
+least equal to its total height or 50 feet, whichever is greater. The setback shall be
+measured from that part of the tower that is closest to the neighboring property, i.e., the
+setback for a faux tree would be measured from the end of the branch closest to the
+neighboring property.
+
+F,      Equipment location, No tower or equipment shall be located in a front, rear or
+side yard setback in any zone, and no portion of any antenna array shall extend beyond
+the property lines.
+
+G.      Noise from any equipment supporting the facility shall meet the requirements of
+the City’s Noise Ordinance on an average hourly basis.
+
+H.     Removal when necessary, All facilities located on a utility pole shall be promptly
+removed at the operator’s expense at any time a utility is scheduled to be placed
+underground or otherwise moved.
+
+I.       Traffic obstruction, Maintenance vehicles servicing facilities located in the public
+or private right of way shall not park on the traveled way or in a manner that would
+obstruct traffic.
+
+J.      Security, Equipment cabinets and antenna structures shall be secured to prevent
+unauthorized access.
+
+K.       Compliance with photo simulations, As a condition of approval and prior to use of
+the facility, the applicant shall submit evidence, such as photos, to the satisfaction of the
+city sufficient to prove that the facility is in conformance with photo simulations
+provided with the application.
+
+L.       All camouflaged facilities, shall be designed to visually and operationally blend
+into the surrounding area in a manner consistent with community character and existing
+development. The facility shall also be appropriate for the specific site. In other words,
+it should not "stand out" from its surrounding environment, such as a faux tree standing
+alone in a field or standing at a greater height (5 feet or more) than other trees on the site.
+
+Page 81 - Mosier Zoning Ordinance                3009-0357                             sy a? oY)
+                                                                                            inal,
+M.       Historical buildings and structures, No facility shall be allowed on any building or
+structure, or in any district, that is listed or eligible for listing on any Federal, State or
+local historical register unless it is determined by the city council that the facility will
+have no adverse effect on the appearance of the building or structure or its eligibility for
+historic designation. No change in architecture nor High Visibility facility is permitted
+on any such building, any such site or in any such district.
+
+N.      Facade-mounted antennas, shall be architecturally integrated into the building
+design and otherwise made as unobtrusive as possible. If possible, antennas should be
+located entirely within an existing or newly created architectural feature so as to be
+completely screened from view. Facade-mounted antennas shall not extend more than 24
+inches out from the building face
+
+O.       Visual impact, All facilities shall be designed to minimize the visual impact to the
+greatest extent feasible by means of placement, screening, landscaping with native
+species, whenever feasible, and camouflage, and to be compatible with existing
+architectural elements, building materials and other site characteristics. The applicant
+shall use the least visible antennas possible to accomplish the coverage objectives.
+
+P.        Colors and materials for facilities shall be non-reflective and chosen to minimize
+visibility. Facilities, including support equipment and buildings, shall be painted or
+textured using colors to match or blend with the primary background. All cabinets
+visible to the public shall be treated with a graffiti-resistant coating,
+
+Q.       Beacon lights shall not be included in the design of facilities unless required by
+the Federal Aviation Administration and shall be included when calculating the height of
+the facility.
+
+R.     No High Visibility facility, including ancillary support equipment, may be located
+between the face of a building and a public street, bikeway, trail or park.
+
+S.      No signs, striping, graphics, or other attention-getting devices are permitted on
+any telecommunication facility except for warning and safety signage with a surface area
+of no more than 3 square feet. Signs shall be affixed to a fence or ancillary facility and
+limited to no more than two signs unless more is required by law.
+
+T.      All high visibility facilities shall be sited in such a manner as to cause the least
+detriment to the view shed of adjoining properties.
+
+U.      Roof mounted antennas shall be constructed at the minimum height possible to
+serve the operator's service area and shall be set back as far from the building edge as
+possible or otherwise screened to minimize visibility from the public right-of-way and
+adjacent properties.
+
+V.      No net loss in required parking spaces shall occur as a result of the installation of
+any wireless telecommunications facility.
+
+Page 82 - Mosier Zoning Ordinance               3007-0287                               (35%,/ ov)
+                                                                                                £
+W.        Sidewalks and pathways, Cabinets and other equipment shall not impair
+pedestrian use of sidewalks or other pedestrian and bicycle pathways on public or private
+land and shall be screened from the sidewalk or pathway by landscaping, undergrounding
+or other means, but not by means of new walls or fences.
+
+X.      City Parks, In cases where the facility site is visible from a city park or is
+proposed to be located in a city park, the facility shall be designed and located in such a
+manner as to avoid adverse visual impacts. All such locations shall use design methods
+such as, but not limited to, type of facility, camouflaging, screening and landscaping. No
+monopoles, lattice towers or guyed towers are permitted.
+
+Y.        The use of chain link fences for security of equipment is permitted if the fence is
+fully screened by landscaping. No razor wire or barbed wire is permitted, and slats do
+not satisfy the screening requirement.
+
+Z.       Site lighting shall be kept to a minimum in every instance, shall be shielded to
+direct the light downward, shall be controlled by a manual switch or timed switch of no
+greater than one hour's duration and shall not be used except when nighttime maintenance
+is necessary.
+
+AA.      Change to a previously permitted facility is subject to full review under the terms
+of this regulation.
+
+15.11.050        Review Process and Approval Standards.
+A.      The following facilities are allowed with the approval of a site plan to be
+reviewed by the City Planner pursuant to a Type Ii process under Chapter 15.07
+Administration and Procedures:
+     I. Invisible and low visibility facilities
+    2. Facilities proposed within the public right-of-way on an existing utility or light
+          pole, so long as they meet all of the following:
+          a. The antennas do not project more than 24 inches above the existing utility pole
+              support structure;
+          b. No more than a total of 2 antennas or antenna arrays are located on a single
+              pole;
+          c. The equipment cabinet is no larger than 6 cubic feet and is concealed from
+              public view by undergrounding or screening by means other than walls or
+              fences.
+     3.   Facade mounted antennas or low powered networked telecommunications
+          facilities, such as those employing microcell antennas, integrated into the
+          architecture of an existing building in such a manner that no change to the
+          architecture is apparent and no part of the facility is visible to public view.
+     4.   The antennas or arrays are hidden from public view through the use of
+          architectural treatments, e.g., within a cupola, tower or other structure, which is
+
+                                                                                                      yor)
+          consistent with the applicable building height limitation and existing building and
+          community character.
+
+Page 83 - Mosier Zoning Ordinance                     A cA bOF-        0387                 (Final)
+       5.   Facilities proposed within any city-designated preferred telecommunications
+            facility location or area if the facility, location or area, is designated as a preferred
+            site for the specific type of telecommunications facility proposed. Note- the city
+            may, but is not compelled to, adopt one or more sites as a preferred
+            telecommunication facility, location, or area.
+
+B.          The City Planner shall approve the use and site plan for any of the facilities listed
+in the preceding Section upon a determination that the following criteria are met:
+
+       1.   The location is the least visible of all possible locations and technological design
+            options that achieve approximately the same signal coverage objectives
+       2.   The location, size, design, and operating characteristics of the proposed facility
+            will be compatible with adjacent uses, residences, buildings, and structures, with
+            consideration given to:
+            a. Harmony in scale, bulk, coverage and density;
+            b. The availability of public facilities, services and utilities;
+            c. The harmful effect, if any, upon desirable neighborhood character;
+            d. The generation of traffic and the capacity and physical character of surrounding
+                streets;
+            e. The suitability of the site for the type and intensity of the proposed facility; and
+            f. Any other relevant impact of the proposed use in the setting where it is
+                 proposed.
+
+Cc.         Applications for facilities in all other locations and situations shall require a
+conditional use permit to be reviewed by the City Council through a Type III process
+under Chapter 15.07 Administration and Procedures, subject to the approval standards in
+MZO 15.05.030. In addition to the approval standards set forth in MZO 15.05.0390, the
+applicant shall demonstrate that the approval standards in subsection 15.11.050-B are
+met.
+
+D.          The City has the authority to impose any reasonable condition(s) deemed
+necessary to achieve compliance with the approval standards, including designation of an
+alternate location, or if compliance with all of the applicable approval criteria cannot be
+achieved through the imposition of reasonable conditions, the application shall be denied.
+
+15.11.060 — Exemptions.          The following shall be considered exempt structures or
+activities under this Chapter:
+
+A.       Whip or other similar antennas no taller than 6 feet with a maximum diameter of
+2 inches.
+
+B.          Antennas designed to receive local television broadcast signals regardless of zone
+category.
+
+C.      Low-powered networked teleconmmunications facilities such as microcell radio
+transceivers located on existing utility poles and light standards within public right-of-
+
+Page 84 - Mosier Zoning Ordinance
+                                                Door 0359 (SyPY                                 (Final)
+way. Low-powered networked telecommunications facilities shall comply with this
+Chapter of the MZO.
+
+Dz.     Industrial, scientific, and medical equipment using frequencies regulated by the
+FCC,
+
+E.      Military, federal, state and local government communication towers used for
+navigational purposes, emergency preparedness, and public safety purposes.
+
+F,      Cell on Wheels (COW), which are permitted as temporary testing uses in
+nonresidential zones for a period not to exceed 14 days, or in residential zones for a
+period not to exceed one day, or during a period of emergency as declared by the City,
+County, or State.
+
+G.      A tower existing prior to the effective date of this Ordinance that was in
+compliance with the City’s zoning regulations immediately prior to its effective date may
+continue as a non conforming structure. Any change to such a structure or facility shall
+be subject to review for compliance with all existing regulations.
+
+15.11.070 — Maintenance.        The following maintenance requirements apply to all
+facilities:
+
+A.     All graffiti on any components of the facility shall be removed promptly in
+accordance with County regulations. Graffiti on any facility in the public right-of-way
+must be removed within 48 hours of notification.
+
+B.      All landscaping shall be maintained at all times and shall be promptly replaced if
+not successful.
+
+Cc.     If a flagpole is used for camouflaging a facility, flags must be flown and must be
+properly maintained at all times.
+
+D.      All wireless telecommunications sites shall be kept clean and free of litter.
+
+E.      All maintenance or construction of towers, telecommunications facilities, or
+antenna support structures shall be performed by licensed contractor.
+
+F,     All towers shall maintain compliance with current RF emission standards of the
+FCC, the National Electric Safety Code and all state and local regulations.
+
+G.      All equipment cabinets shall display a legible operator’s contact number for
+reporting maintenance problems.
+
+15.11.080 — Certifications and Inspections.
+A.      All towers shall be certified by an engineer to be structurally sound and in
+conformance with the requirements of the Building Code and all other construction
+
+Page 85 - Mosier Zoning Ordinance         L000-pas7                                     88 ny 24)
+                                                                                        (Final)
+standards set forth by the City and federal and state law including FCC and National
+Electric Safety Code regulations. Certification of continued compliance may be required
+by the City at reasonable intervals.
+
+B.      The City or its agents shall have authority to enter onto the property upon which a
+tower is located, to inspect the tower for the purpose of determining whether it complies
+with the Building Code and all other construction standards provided by the City and
+federal and state law.
+
+Cc.     The City reserves the right to conduct such inspections at any time, upon
+reasonable notice to the tower owner. In the event such inspection results in a
+determination that violation of applicable construction and maintenance standards, set
+forth by the City has occurred, remedy of the violation may include cost recovery for all
+costs incurred in confirming and processing the violation.
+
+15.11.090 — Abandonment or Discontinuation of Use. The following requirements
+apply to the abandonment and/or discontinuation of use for all facilities:
+
+A.       All operators who intend to abandon or discontinue the use of any wireless
+telecommunications facility shall notify the City of such intentions no less than 60 days
+prior to the final day of use.
+
+B.     Wireless telecommunications facilities with use discontinued shall be considered
+abandoned 90 days following the final day of use or operation.
+
+Cc.    All abandoned facilities shall be physically removed by the facility owner no
+more than 90 days following the final day of use or of determination that the facility has
+been abandoned, whichever occurs first.
+
+D.      The City reserves the right to remove any facilities that are abandoned for more
+than 90 days at the expense of the facility owner.
+
+E.     Any abandoned site shall be restored to its natural or former condition. Grading
+and landscaping in good condition may remain.
+F.      To secure the obligation to remove abandoned facilities not co-located on a
+building, pole, or other service provider’s tower, and return the site to its previous
+condition the applicant and/or owner shall post a performance bond. Performance bond
+shall be provided for the purpose of ensuring adequate removal of the tower upon
+termination of its use. The performance bond shall be equal to or greater than 150 % of
+the estimated cost of removal of the tower, but not less than $5,000. Proof of
+performance bonds shall be submitted prior to final permit approval. A change of use is
+subject to review.
+15.11.100        Violation, Enforcement and Revocation. Failure to comply with any
+condition of approval or standard in this chapter shall be subject to enforcement and
+grounds for possible revocation of the permit, termination of the use and removal of the
+facility at the operator/owner’s expense.
+
+Page 86 - Mosier Zoning Ordinance         Pp007- 039                               ano)
+                                                                                 (57,
+                                            TITLE 16
+                                      LAND     DIVISIONS
+
+CHAPTERS:
+
+16.01          General Provisions and Administration of Land Divisions
+16.02          Minimum Improvements and Design Standards for Land Divisions
+16.03          Subdivisions - Process and Standards
+16.04          Partitions - Process and Standards
+16.05          Property Line Adjustments and Abandonment - Process and Standards
+
+   Chapter 16.01 - General Provisions and Adminisration of Land Divisions
+
+Sections:
+
+16.01.010      Purpose
+16.01.020      Scope and procedural overview
+16.01.030      Definitions
+16.01.040      Fees
+16.01.050      Variances from dimensional requirements
+16.01.060      Conditions of Land Division approval
+16.01.070      Restrictions on advertising and sale of lots until process is complete
+16.01.080      Duration of approval and extensions
+16.01.090      Severability
+16.01.100      Nuisance - violations and penalties
+
+16.01.010       Purpose. This Title is enacted in compliance with ORS 92.010 through 92.160 to
+establish procedures and standards for partitioning and subdividing land within the city. These
+regulations, along with the requirements of the city's underlying zoning, provide the dimensional
+requirements for building lots, streets, rights-of-way, locational requirements for houses on
+residential lots, the provision of adequate open space for recreation and community facilities, and
+the basic requirements for the installation of public utilities.
+
+         A.     This title is adopted to promote and protect the health, safety and welfare of the
+citizens of the City of Mosier.
+
+         B.     This title is adopted to help ensure a sufficient supply of needed housing and
+satisfactory living conditions in new subdivisions to comply with Statewide Planning Goal 10
+and implementing administrative rules, guidelines and statutes.
+
+                                                $3,009- 0357                            70 ae
+       Cc.      This title is adopted to protect, conserve and plan for an appropriate use of land; to
+provide for the timely and efficient extension of public facilities and services without excessive
+expenditure of public funds in accordance with Statewide Planning Goals 11 and 14 and their
+implementing administrative rules and guidelines.
+
+         D.      This title is adopted to protect property owners from excessive assessment for
+future utility installations and to provide a means of ensuring that property owners pay only their
+fair share of the cost of providing public facilities and services; and to increase consumer
+protection by assuring that only those lots which have met city requirements and have been
+lawfully created through subdivision or partition approval are allowed to be advertised for sale;
+
+16.01.020       Scope and procedural overview. All forms of land division and adjustments to,
+or elimination of, property boundaries within the city shall be subject to the requirements of this
+Title.
+
+         A.     Subdivisions and partitions that create an accessway are processed as Type III
+decisions as outlined in the Mosier Zoning Ordinance (Mosier City Code, Title 15) or, at the
+applicant's option may be processed as an expedited land division pursuant to state law.
+Generally, the city's Type III process involves mailed notice of all preliminary subdivision plat
+applications shall be provided to property owners within 100 feet of the subject property. The
+city planner makes an initial recommendation to the city council which holds a public hearing on
+the proposal. The city council’s decision is appealable to the Land Board of Appeals pursuant to
+state law.
+
+         B.     Partitions are processed as Type I decisions as outlined in the Mosier Zoning
+Ordinance or, at the applicant's option may be processed as an expedited land division pursuant
+to state law. Under the city's Type I process, the city planner renders a decision which is not
+appealable within the city.
+
+16.01.030       Definitions.
+
+         A.     Except as defined in this section, terms used in this title shall have their ordinary
+meanings. Where terms are ambiguous or subject to several possible meanings, the context of
+this title, the Mosier Zoning Ordinance and Comprehensive Plan shall dictate the most
+appropriate meaning.
+
+        B.     As used in this title, the singular includes the plural and the masculine includes
+the feminine and neuter; the word “may” is discretionary, the “shall” is mandatory. The
+following words and phrases shall have the following meanings:
+
+    1.   “Accessway” means any public or private accessway that is created to provide ingress or
+         egress for persons to one or more lots, parcels, areas or tracts of land. Accessways
+         include Arterials, Urban or Rural collectors, Local roads, Alleys, private access ways or
+
+Page 2 — Land Divisions, Title 16
+
+                                                  Jje07-0857                             \U%? oy)
+       similar designations. “Pedestrian or bicycle accessway” mean any off-street path or way
+       which is intended for the primary use of pedestrians or bicyclists and which provides
+       direct routes within and from new subdivisions and planned developments to residential
+       areas, retail store and office areas, transit streets and neighborhood activity centers where
+       such route are not otherwise provided by the street system. Standards applicable to the
+       various types of accessways are defined in this code.
+
+       “Alley” means a public or private access way not more than 20 feet wide affording only
+       secondary means of access to abutting property.
+
+       “Applicant” means the party or parties who submit an application for any quasi-judicial
+       permit provided for under this Title or the Mosier Zoning Ordinance. Where the
+       application is approved, all rights granted and obligations imposed by this Title on an
+       applicant apply equally to the applicant's successor(s) in interest and to any agents of the
+       applicant or the applicant's successor(s) in interest.
+
+       “Application” means any request for approval of a permit or a legislative amendment to
+       the city's land use regulations, comprehensive plan or related maps.
+
+       “Approval criteria” means all standards which must be met in order to approve an
+       application. Depending upon the specific application, approval criteria include standards
+       contained in the Mosier Zoning Ordinance, the Mosier Comprehensive Plan, applicable
+       state law and any other applicable titles of the Mosier City Code or ordinance adopted by
+       the City.
+
+       “Arterial” means a street of considerable continuity which is primarily a traffic artery for
+       intercommunication among large areas.
+
+       “Building line” means a line on a plat indicating the limit beyond which buildings or
+       structures may not be erected on a lot.
+
+       “City” means the city of Mosier.
+
+       “City Planner” or “Planner” means the City Planner serving either as a consultant, on
+       contract or as hired staff, or that person’s designee as approved by the City Council.
+
+    10. “Code” means collectively, the Mosier Zoning Ordinance (Ordinance No. 136), this
+       Ordinance, the Mosier Comprehensive Plan and any other ordinance, resolution or
+       regulation adopted or administered by the City of Mosier that affects the use of land.
+
+    11. “Urban and Rural Collector” means a street supplementary to the arterial street system
+        and a means of intercommunication between this system and smaller areas; used to some
+       extent for through traffic and to some extent for access to abutting properties. Functional
+
+Page 3 — Land Divisions, Title 16
+
+                                                    f500%-0357 (72. 1H. )
+       Classifications for existing roads are shown in Figure 5 of the Downtown and local Street
+       network Plan (May 12, 2003)
+
+    12. “Cul-de-sac” (dead-end street) means a short street having one end open to traffic and
+        being terminated by a vehicle turnaround.
+
+    13. “Decision Maker” means the city entity rendering a decision on an application. For
+        applications made under this Title, the decision maker will be either the city planner or
+        the city council.
+
+    14. “Direct,” when used in connection with bicycle and pedestrian access, means the shortest
+        practicable connection or access between two points, which in no instance should involve
+        out-of-direct travel more than 50% longer than a straight line distance between two
+        points.
+
+    15. “Drive way” means a private accessway serving not more than two dwelling units.
+
+    16. “Dwelling” and “Dwelling Unit” mean a residence for up to five unrelated people plus
+        any number of people related by blood or marriage.
+
+    17. “Basement” means a grant of right to use a strip of land for specific purposes.
+
+    18. “Final action” and “final decision” mean the city's final decision on a permit application
+        for which there is either no appeal to another decision maker within the city, or, if there is
+        the possibility of a local appeal, an appeal was not timely perfected in accordance with
+        this Title and MMC Chapter 15.07 — Administration and procedures. A decision is
+        deemed to be final on the date that written notice of the decision is mailed to those
+       entitled to notice of the decision.
+
+    19. “Flag lot” means a lot or parcel that has a narrow frontage on a public street and a narrow
+        Accessway which serves the main body of the lot used for building.
+
+   20. “Half street” means a portion of the width of a street, usually along the edge of a
+       subdivision, where the remaining portion of the street could be provided in another
+       subdivision.
+
+   21. “Land Division” means any partition, subdivision, lot line adjustment or abandonment.
+
+   22. “Local Street” or “Local Road”means any street intended primarily for access to abutting
+       properties.
+
+   23. “Lot” and “Legal Lot” mean a single unit of land created by a subdivision which, at the
+       time of creation, complied with all procedural and substantive requirements of any
+       applicable local, state or federal law.
+
+Page 4 — Land Divisions, Title 16
+
+                                                  (3009-027                          (43 A /2Y,
+   24. “Lot line adjustment” means the relocation of a common property line between two
+       abutting properties which does not create a new lot or parcel.
+
+   25. “Mosier Zoning Ordinance” or “MZO” means Ordinance 100 as adopted and from time
+       to time amended by the City Council.
+
+   26. “Map” means a final diagram, drawing or other writing concerning a partition.
+
+   27. “Nearby,” when used in connection with bicycle and pedestrian access, means within
+       one-quarter mile distance which can reasonably be expected to be used by pedestrians,
+       and uses within two miles distance which can reasonably be expected to be used by
+       bicyclists.
+
+   28. “Neighborhood activity center” refers to land uses which attract or are capable of
+       attracting a greater than average level of pedestrian use. Neighborhood activity centers
+       include, but are not limited to, parks, schools, retail store and service areas, shopping
+       centers, recreational centers, meeting rooms, theaters, museums and other pedestrian-
+       oriented uses.
+
+   29. “Non-final decision” means any decision by the city planner which is not a final decision
+       because it is appealable to another decision maker within the city.
+
+   30. “Parcel” and “Legal Parcel” mean a single unit of land created by a partition which, at the
+       time of creation, complied with all procedural and substantive requirements of any
+       applicable local, state or federal law.
+
+   31. “Partition” means either an act of partitioning land or an area or tract of land partitioned.
+
+   32. “Partition land” means to divide land into two or three parcels of land within a calendar
+       year without the concurrent creation of an accessway, but does not include:
+
+       a.      A division of land resulting from a lien foreclosure, foreclosure of a recorded
+       contract for the sale of real property or the creation of cemetery lots;
+
+       db.      An adjustment of a property line by the relocation of a common boundary where
+        an additional unit of land is not created and where the existing unit of land reduced in size
+        by the adjustment complies with any applicable zoning title or ordinance; or
+
+       c.     A sale or grant by a person to a public agency or public body for state highway,
+       county road, city street or other right of way purposes provided that such road or right of
+       way complies with the Mosier Comprehensive Plan and applicable state statutes.
+       However, any property divided by the sale or grant of property for state highway, county
+
+Page 5 — Land Divisions, Title 16
+
+                                                  V3000- 23857 (90, 10%
+       road, city street or other right of way purposes shall continue to be considered a single
+       unit of land until such time as the property is further subdivided or partitioned.
+
+   33. “Partition plat” includes a final map and other writing containing all the descriptions,
+       locations, specifications, provisions and information concerning a partition.
+
+   34. “Pedestrian way” means a right-of-way for pedestrians and not vehicular traffic.
+
+   35. “Permit” means any form of quasi-judicial approval relating to the use of land rendered
+       by the city under this Title or the MZO, including subdivisions, partitions, lot line
+       adjustments and abandonments, zone changes, plan amendments, conditional use permits,
+       nonconforming use verifications, land use and limited land use decisions, and expedited
+       land divisions. Permit does not include any city decision relating to system development
+       charges.
+
+   36. “Plat” includes a final subdivision plat, replat or partition plat.
+
+   37. “Preliminary Plan” means a preliminary subdivision plat or partition plat as appropriate.
+
+   38. “Private Street” means a private accessway created by easement which serves more than
+       two parcels and which is designed to public street standards unless a modification of
+       these standards has been accepted by city engineer.
+
+   39. “Property line” means the division line or boundary between two legal lots or parcels.
+
+   40. “Record” means the public record compiled for each quasi-judicial and legislative action
+       and includes the written minutes of all public meetings, audio tape recordings, if any, of
+       public meetings, the application and all materials submitted by the applicant, all
+       documents, evidence, letters and other materials submitted by any party to the decision
+       making proceeding, staff reports, public notices, and all decisions rendered by city
+       decision makers.
+
+   41. “Replat” means the act of platting the lots, parcels or easements in an already recorded
+       subdivision or partition plat to achieve a reconfiguration of the existing plat or to change
+       the number of lots in the plat.
+
+   42. “Reserve strip” means a parcel of land, usually one foot in width, running the length of a
+       half-street along the center line or running across the end of a street at right angles to the
+       center line which, when deeded to the city, prevents the abutting property owner from
+       using the street for access to develop the abutting property without first making the
+       appropriate dedication from his/her land.
+
+   43. “Reversed corner lot” means a comer lot, the side street line of which is substantially a
+       continuation of the front lot line of the first lot to its rear.
+
+Page 6 — Land Divisions, Title 16
+
+                                                      [3009-039                        Gs % J2Y.
+   44. “Right-of-way” means the area between boundary lines of a street, alley or other
+       easement.
+
+   45. “Series Partition” means a series of partitions of land resulting in the creation of 4 or
+       more parcels in more than one calendar year.
+
+   46. “Subdivide” means to divide an area or tract of land into four or more lots within a
+       calendar year when such area or tract of land exists as a unit or contiguous units of land
+       under a single ownership at the beginning of such year. Subdivide also means to divide
+       an area or tract of land into three or fewer lots or parcels along with the concurrent
+       creation of an accessway. Divisions of three or few lots or parcels without the concurrent
+       creation of an accessway is a partition.
+
+   47. “Subdivider” means any person who undertakes the subdividing of a parcel of land,
+       including changes in street or lot lines, for the purpose of transfer of ownership or
+       development.
+
+   48. “Subdivision” means either an act of subdividing land or an area or tract of land into four
+       or more parcels within a calendar year.
+
+   49. “Subdivision plat” includes a final map or other writing containing all the descriptions,
+       locations, specifications, dedications, provisions and information concerming a
+       subdivision.
+
+    50. “Subject property” means the real property or properties that is/are the subject of a permit
+        application.
+
+    51. “Through lot” means a lot having frontage on two parallel or approximately parallel
+        streets other than alleys.
+
+    52. “Transit stop” means any posted bus or other mass transit stop.
+
+16.01.040      Fees.
+
+        A.      Filing Fees. The city council shall establish by resolution, and amend from time
+to time, a schedule of fees for all applications and appeals provided for under this Title and the
+Mosier Zoning Ordinance. All fees or deposits so authorized shall be paid in full at the time of
+application, along with all other required information and documents, in order for the application
+to be deemed complete.
+
+         B.      Technical Plan Check and Inspection Fees. The city council shall establish by
+resolution a plan check and inspection fee which shall be a percentage of the actual construction
+costs of roads, water, sewer and storm drainage facilities. This fee shall be paid to cover the
+city's costs of reviewing plans and inspecting public improvements.
+
+                                                      Arcor-vasy (#a/L)
+          Cc.   Other Fees. The fees required by this chapter are in addition to any other fees
+charged by the city and any other governmental entity with regulatory jurisdiction.
+
+16.01,050        Variances from dimensional requirements. The dimensional requirements for
+lots and public improvements created through the various methods provided for under this Title
+are specified in Chapter 16.02, sections in the Mosier Zoning Ordinance corresponding to the
+underlying zoning, and in regulations pertaining to any other special site constraints which the
+City may from time to time adopt, e.g., limitations on development on unstable slopes, in
+wetlands, etc. Any variation from these dimensional requirements must be specifically requested
+by the applicant and shall be subject to the approval standards for variances in MMC Chapter
+15.04 and a Type III process under MMC Chapter 15.07. Ideally applicants will specifically
+request all necessary variances as part of a consolidated application. However, if the applicant
+requests a variance after the commencement of the approval process for a land division under this
+Title, the applicant shall have the option of having the variance and land division consolidated
+and subject to a Type III process or allowing the applications to proceed separately under their
+Tespective procedures.
+
+16.01.060       Conditions of Land Division approval. The decision maker may impose
+reasonable conditions of approval on any approval granted under this Title to ensure that the
+application meets, or will meet, any applicable approval standard.
+
+16.01.070       Restrictions on advertising and sale of lots until process is complete.
+
+        A. No person shall advertise or negotiate to sell any lot in a subdivision until a
+preliminary plat has been approved pursuant to this Title.
+
+        B.      No person shall complete the sale of any lot in any subdivision until the final
+subdivision plat for the development has been approved under this Title and recorded with the
+county.
+
+        C.      Parcels subject to the partition process under this Title may be advertised, and
+sales negotiated, prior to preliminary partition plat approval; however, no sale of any such lot
+may be completed until the city has granted final partition approval under this Title.
+
+16.01.080       Duration of approval and extensions.
+
+          A.    Duration.   Any approval granted under this Title shall be valid for 12 months
+following the date of the city's final decision of approval. If the applicant has not vested its right
+to develop under an approval granted pursuant to this Title within this 12-month period, the
+approval shall expire automatically and be void without any further action by the city. To vest its
+right to develop pursuant to any approval granted under this Title, the applicant must obtain any        so.
+final plat approval required by this Title and record the plat with the County.                            .
+
+Page 8 — Land Divisions, Title 16
+
+                                                            2009-037                         (77 ae
+        B.     Extensions. Any approval granted pursuant to this Title may be extended beyond
+the 12-month period provided in subsection A. To extend an approval, the applicant must
+request an extension by applying to the city planner prior to the expiration of the 12-month
+period. The city planner may extend the expiration period for a maximum of two 6-month
+periods upon the applicant's showing good cause as to why the land division process has not been
+completed within the 12-month period that is otherwise required.
+
+16.01.090       Severability. If any part of this Title is for any reason held invalid or
+unconstitutional by a court of competent jurisdiction, that part shall be deemed separate from the
+balance of the Title and the invalidation of any part of this Title shall not affect the validity nor
+the enforceability of any of the remaining portions of the Title.
+
+16.01.100       Nuisance - violations and penalties. Any act, omission or use of property in
+violation of the requirements of this Title shall constitute a nuisance and a civil infraction subject
+to the enforcement provisions of the Mosier Civil Enforcement Chapter.
+
+Page 9 — Land Divisions, Title 16
+
+                                                     Eyn09-085 7                         (Ar,/ )
+   Chapter16.02       - Minimum Improvements and Design Standards for Land
+                                            Divisions
+
+Sections:
+
+16.02.010      Purpose and general provisions
+16.02.020      Street design - generally
+16.02.030      Street design — transportation facility design and construction standards
+16.02.040      Street design - reserve strips
+16.02.050      Street design - alignment
+16.02.060      Street design - extensions
+16.02.070      Street design - intersection angles
+16.02.080      Street design - additional right-of-way
+16.02.090      Street design - half street
+16.02.100      Street design - cul-de-sac
+16.02.110      Street design - street names
+16.02.120      Street design - grades and curves
+16.02.130      Street design - railroad right-of-way
+16.02.140      Street design - access control
+16.02.150      Street design - pedestrian and bicycle safety
+16.02.160      Street design - alleys
+16.02.170      Street design - transit
+16.02.180      Blocks - generally
+16.02.190      Blocks - length
+16.02.200      Blocks - width
+16.02.210      Blocks - pedestrian and bicycle access
+16.02.220      Building sites
+16.02.230      Building site - access
+16.02.240      Building site - through lots
+16.02.250      Building site - lot and parcel side lines
+16.02.260      Building site - solar access
+16.02.270      Building site - grading
+16.02.280      Building site - building lines
+16.02.390      Building site - division of lots
+16.02.300      Building site - protection of trees
+16.02.310      Land for public purposes
+16.02.320      Easements
+16.02.330      Minimum improvements - procedures
+16.02.340      Minimum improvements - public facilities and services
+16.02.350      Minimum improvements - road standards and requirements
+
+16.02.010      Purpose and general provisions, All land divisions shall be in conformance
+with the design standards established by this chapter and with applicable standards in the city's
+Page 10 — Land Divisions, Title 16
+
+                                                    Ya009-03s9                             O44
+public facility master plan and public works design standards. In reviewing applications for land
+divisions, the decision maker shall take into consideration any approved land divisions and the
+remaining development potential of adjacent properties. All street, water, sanitary sewer, storm
+drainage and utility plans associated with any land division must be reviewed and approved by
+the city engineer prior to construction.
+
+16.02.020      Street design - generally. The location, width and grade of streets shall be
+considered in relation to: existing and planned streets, topographical conditions, public
+convenience and safety for all modes of travel, existing and identified future transit routes and
+pedestrian/bicycle accessways, and the proposed use of land to be served by the streets. The
+street system shall assure an adequate traffic circulation system with intersection angles, grades,
+tangents and curves appropriate for the traffic to be carried considering the terrain. Streets shall
+connect to all existing or approved stub streets which abut the development site where deemed
+feasible and desireable to make the connection. The arrangement of streets shall either:
+
+        A.      Provide for the continuation or appropriate projection of existing principal streets
+in the surrounding area and on adjacent parcels; or
+
+        B.       Conform to a plan for the area approved or adopted by the city to meet a particular
+situation where topographical or other conditions make continuance or conformance to existing
+streets impractical.
+
+16.02.030 — Transportation Facility Design And Construction Standards. Road design and
+construction standards is to ensure that future new or improved roads are built to a consistent and
+adequate standard to provide an adequate life for the facility, minimize operation and
+maintenance costs, and meet safety, mobility and connectivity needs. New roads or those where
+major road improvements are undertaken will meet the standards described below and illustrated
+in the figures referenced in the following subsections.
+
+Unless otherwise required by the decision maker, all accessways proposed as part of a
+subdivision or partition that involves the creation of an accessway shall comply with the
+following standards:
+
+       A.      Standards shall vary by classification. Classifications for existing roads are
+shown in Figure 5 of the Downtown and local Street network Plan (May 12, 2003).
+
+        B.      Design standards for right-of-way, pavement width, shoulders, sidewalks, planting
+strips and other required features are prescribed in the following table.
+
+Page 11 — Land Divisions, Title 16
+
+                                                   3009-0357                              [ van 2
+                       Road Design Standards
+         Right-of-              Pavement            Parking                              Planting          Sidewalks/multi-    Drainage
+                                  width                                                    Strip               use path          swale
+              way
+
+        Arterials
+                 60’               24’               None           4’, both sides | 4’, both sides         6-10", one or      Optional
+                                                                                                              both sides
+        Urban Collectors '
+               60° 3               36°          T’, both sides          None               None            10°, both sides *     None
+                                                         4
+
+        Rural Collectors 7
+               60°                 36°               None           6’, both sides         None                 None           12’, both
+                                                                                                                                 sides
+        Local Roads
+             50° — 60°             22”               None               None               None                 None           10’, both
+                                                                                                                                  sides
+        Alleys
+                 20°        |      16°     |         None         | 2’, both sides   |     None        |        None             None
+
+        Notes:
+                       1.   Applies to future reconstruction of Washington or 37 Streets.
+                       2.   Applies to future reconstruction of Rock Creek Road, Huskey or State Streets.
+                       3.   May vary, depending on existing conditions.
+                       4.   May eliminate on one or both sides if right-of-way is insufficient.
+                       5.   May reduce         to   5”       if right-of-way         is insufficient        to accommodate a             full
+                            standard.
+
+        (on     Construction standards for new or reconstructed roads shall meet the standards
+prescribed in subsection B above.
+
+        D.             Maximum block and cul-de-sac length. The maximum block and cul-de-sac
+length for local roads in new subdivisions or other residential developments shall be the length
+deemed appropriate, by the City engineer in consultation with the City Planner, to provide:
+
+   1.   Safe spacing between intersections
+   2.   Adequate access for fire equipment
+   3.   Efficient provision of utilities
+
+Page 12 — Land Divisions, Title 16
+
+                                                                         bor 0859                                              (of por)
+    4.   Adequate access for road maintenance
+
+         E.    Where site conditions, particularly topography, size and shape of the tract, or
+some feature worthy of protection, make it impractical to otherwise provide buildable sites, the
+decision maker may apply the constrained local street standard, which ordinarily shall not have a
+right of way narrower than 40 feet and a pavement width narrower than 20 feet. If necessary,
+decision maker may require the applicant to provide slope easements where topography or other
+conditions so require.
+
+         F,     The decision maker may allow the creation of private streets, also refered to as
+private accessways, that shall be maintained by the applicant or a home owner's association.
+Where private streets are proposed, the applicant shall submit for city review the proposed
+covenants, conditions and restrictions that create and organize the home owners association. Any
+variance to private street standards, determined to be necessary and acceptable by the city
+engineer, shall allow equipment access adequate to allow impacted service providers to protect
+public life and safety. Approval of alternate standards shall be based on city engineer’s
+recommendation including input from impacted service providers when available.
+
+         G.     Bicycle and multi-use path design and construction standards. In urban areas, a
+paved width of 10-12 feet is recommended for multi-use bicycle/pedestrian paths. Where
+topography, land availability or other conditions do not allow for this, narrower trails can be
+constructed, particularly if they are intended for pedestrians only. A minimum width of three to
+four feet shall be required for pedestrian trails. If the trail is to be used regularly at night,
+pedestrian scale lighting is recommended for security and safety.
+
+16.02.040        Street design - reserve strips. The decision maker may require the dedication of
+reserve strips to control access to streets when recommended by the city engineer to protect
+public safety and welfare. When so required, the applicant shall deed a 1 foot reserve strip to the
+public for future street purposes.
+
+16.02.050        Street design - alignment. As far as is practicable, streets other than local or
+constrained streets shall be aligned with existing streets by continuation of the center lines. For
+local streets, staggered street alignment resulting in “T” intersections shall, wherever practicable,
+leave a minimum distance of 200 feet between the center lines of streets having approximately
+the same direction and, in no case, shall be less than 100 feet.   For collectors and arterials, the
+minimum distance between local streets intersecting the collector or arterial shall be 500 feet
+between center lines, provided, however, that the decision maker may approve a lesser distance
+upon findings that such lesser distance will not pose a safety hazard.
+
+16.02.060        Street design - extensions. Where necessary to give access to or permit a
+satisfactory future partition of adjoining land, streets shall be extended to the boundary of the
+land division and the resulting deadend street (stub) may be approved with a temporary
+
+Page 13 — Land Divisions, Title 16
+
+                                                [2004-0359                                      /or45/ oy)
+turnaround as approved by the city engineer.      Reserve strips and street plugs may be required to
+preserve the objectives of street extensions.
+
+16.02.070        Street design - intersection angles. Except where topography requires a lesser
+angle, streets shall be laid out to intersect at angles as near as possible to right angles. However,
+in no case shall the acute angles be less than 80 degrees unless there is a special intersection
+design. An arterial or collector street intersecting with another street shall have at least 100 feet
+of tangent adjacent to the intersection unless topography requires a lesser distance. Other streets,
+except alleys, shall have at least 50 feet of tangent adjacent to the intersection unless topography
+requires a lesser distance. All street intersections shall be provided with a minimum curb return
+radius of 25 feet for local streets. Larger radii shall be required for higher street classifications as
+determined by the city engineer. Additional right-of-way shall be required to accommodate curb
+returns and sidewalks at intersections. Ordinarily, the intersection of more than two streets at any
+one point will not be approved.
+
+16.02.080       Street design - additional right-of-way.      During consideration of the preliminary
+plan for a subdivision or partition, the decision maker shall determine whether existing streets
+adjacent to or within the tract meet the city's applicable planned minimum design or dimensional
+requirements. Where such streets fail to meet these requirements, the decision maker shall
+require dedication of additional right-of-way sufficient to achieve conformance with code
+standards, which dedication shall be shown on the final plat. Where streets fail to meet city
+design or dimensional standards, the decision maker may require the applicant to make any
+improvements necessary to achieve the applicable planned city standards.
+
+16.02.090       Street design - half street. Half streets, while generally not acceptable, may be
+approved where essential to the reasonable development of the land division when it is in
+conformance with all other applicable requirements. When approving half streets, the decision
+maker must first determine that it will be practical to require the dedication of the other half
+when the adjoining property is divided or developed. Where the decision maker approves a half
+street, the applicant must provide an additional 10 feet of pavement width so as to make the half
+street safe and usable until such time as the other half is constructed. Whenever a half street is
+adjacent to a tract to be divided, the other half of the street shall be provided within such tract.
+Reverse strips and street plugs may be required to preserve the objectives of half streets.
+
+16.02.100       Street design - cul-de-sac.     Cul-de-sacs and permanent dead-end streets shall be
+discouraged except where construction of a through street is found by the decision maker to be
+impracticable due to topography; other significant physical constraints such as unstable soils,
+wetlands, natural or historic resource areas, or dedicated open space; existing development
+patterns; or arterial access restrictions. Where feasible, dead end or cul-de-sac length shall be
+limited to 350 feet. Longer dead-end streets may be approved only where:
+        A.      Looping is demonstrated, by the applicant, to be infeasible due to topographic
+constraints, environmental or cultural resources, etc. and
+
+Page 14 ~ Land Divisions, Title 16
+
+                                                      300% 0857                              [yosy 0
+       B.       The city engineer, having consulted with fire and life safety representatives,
+determines that acceptance of a dead end street in excess of 350 feet is necessary to allow
+reasonable access to land that would be otherwise inaccessible and that provision of a dead end
+street length in excess of 350 feet can provide sufficient fire and life safety access. Additional
+conditions, such as a requirement that all dwellings accessed by the dead end road be equipped
+with NFPA residential sprinkler systems, may be applied.
+
+16.02.110       Street design - street names.   Except for extensions of existing streets, no street
+name shall be used which will duplicate or be confused with the name of an existing street.
+Street names shall conform to the established pattern in the city and shall be subject to the
+approval of the city engineer.
+
+16.02.120       Street design - grades and curves. The maximum grade for new public roads
+will be 12%. The maximum recommended grade is 10%. Center line radii of curves shall not be
+less than 200 feet on arterials or 100 feet on other streets. Where existing conditions, particularly
+the topography, make it otherwise impractical to provide buildable sites, the city engineer may
+accept steeper grades up to 15% and sharper curves. Additional conditions, such as a
+requirement that all dwellings accessed by a road grade exceeding 10-12% be equipped with
+NFPA residential sprinkler systems, may be applied if it is determined through consultaion with
+fire and life safety responders that approval of the steeper grade may reasonably be expected to
+increase response time for fire protection personell. In flat areas, allowance shall be made for
+finished street grades having a minimum slope, preferably, of at least one-half percent.
+
+16.02.130       Street design - railroad right-of-way. Wherever the proposed subdivision or
+partition contains or is adjacent to a railroad right-of-way, provision may be required for a street
+approximately parallel to and on each side of such right-of-way at a distance suitable for the
+appropriate use of the land between the streets and the railroad. The distance shall be determined
+with due consideration at cross streets of the minimum distance required for approach grades to a
+future grade separation and to provide sufficient depth to allow screen planting along the railroad
+right-of-way.
+
+16.02.140       Street design - access control. Where a land division abuts or contains an
+existing or proposed arterial or collector street, the decision maker may require: access control;
+reverse frontage lots with suitable depth; screen planting or wall contained in a nonaccess
+reservation along the rear or side property line; or such other treatment it deems necessary to
+adequately protect residential properties or afford separation of through and local traffic.
+
+16.02.150       Street design--Pedestrian and bicycle safety. Where deemed necessary to insure
+public safety, reduce traffic hazards and promote the welfare of pedestrians, bicyclists and
+residents of the subject area, the decision maker may require that local streets be so designed as
+to discourage their use by non-local automobile traffic.
+
+Page 15 — Land Divisions, Title 16
+
+                                                       5 009-0857                        fad)
+16.02.160        Street design - alleys. Alleys shall be provided in commercial and industrial
+districts, unless other permanent provisions for access to off-street parking and loading facilities
+are approved by the decision maker. The corners of alley intersections shall have a radius of not
+less than 10 feet. Alleys also may be permitted in residential districts.
+
+16.02.170        Street design - transit. Streets shall be designed and laid out in a manner that
+promotes pedestrian and bicycle circulation. Pedestrian/bicycle accessways shall be provided as
+necessary. The decision maker may require provisions, including easements, for transit facilities
+along transit streets where a need for bus stops, bus pullouts or other transit facilities within or
+adjacent to the subdivision has been identified.
+
+16.02.180       Blocks - generally. The length, width and shape of blocks shall take into account
+the need for adequate building site size, convenient motor vehicle, pedestrian, bicycle and transit
+access, control of traffic circulation, and limitations imposed by topography and other natural
+features.
+
+16.02.190      Blocks - length. Block lengths for local streets and collectors shall not exceed
+600 feet between through streets, measured along the nearside right-of-way line of the through
+street. The maximum perimeter of the blocks formed by local streets shall not exceed 1,800 feet
+between through streets, except where precluded by topography or other physical constraint or by
+existing development patterns.
+
+16.02.200       Blocks - width. Except for reverse frontage lots, the width of blocks shall
+ordinarily be sufficient to allow for two tiers of lots of depths consistent with the type of land use
+proposed.
+
+16.02.210       Blocks - pedestrian and bicycle access.
+
+        A. To facilitate the most practicable and direct pedestrian and bicycle connections to
+adjoining or nearby neighborhood activity centers, public rights-of-way and pedestrian/bicycle
+accessways which minimizing out-of-direction travel, subdivisions shall include
+pedestrian/bicycle accessways between discontinuous street right-of-way, where a new street is
+not practicable; through excessively long blocks at intervals not exceeding 500 feet of frontage;
+or where the lack of street continuity creates inconvenient or out of direction travel patterns for
+local pedestrian or bicycle trips.
+
+        B. _ Pedestrian/bicycle accessways shall be provided:
+
+        1,      To provide direct access to nearby neighborhood activity centers, transit streets
+                and other transit facilities;
+
+        2.      Where practicable, to provide direct access to other adjacent developments and to
+                adjacent undeveloped property likely to be subdivided or otherwise developed in
+                the future;
+
+Page 16 — Land Divisions, Title 16
+
+                                                   J p07-bas7                             \JOS4n/a)
+          3.     To provide direct connections from cul-de-sacs and internal private drives to the
+                 nearest available street or neighborhood activity center;
+
+          4.     To provide connections from cul-de-sacs or local streets to arterial or connector
+                 streets.
+
+        Cc.     An exception may be made where the decision maker determines that construction
+of a separate accessway is not feasible due to physical or jurisdictional constraints. such evidence
+may include but is not limited to:
+
+          1.     That other federal, state or local requirements prevent construction of an
+                 accessway;
+
+          2.    That the nature of abutting existing development makes construction of an
+                accessway impracticable;
+
+          3.    That the accessway would cross an area affected by an overlay district in a manner
+                incompatible with the purposes of the overlay district;
+
+          4.    That the accessway would cross topography consisting predominantly of slopes
+                over 25%;
+
+          5.    That the accessway would terminate at the urban growth boundary and extension
+                to another public right-of-way is not part of an adopted plan.
+
+16.02.220       Building sites. The size, width, shape and orientation of building sites shall be
+appropriate for the location of the land division, and shall be consistent with the residential lot
+size provisions of the zoning title or ordinance with the following exceptions:
+
+        A.     Where property is zoned and planned for commercial or industrial use, the
+decision maker may approve other widths in order to carry out the city's comprehensive plan.
+Depth and width of properties reserved or laid out for commercial and industrial purposes shall
+be adequate to provide for the off-street service and parking facilities required by the type of use
+and development contemplated.
+
+          B.    Minimum lot sizes contained in the MZO are not affected by those provided
+herein.
+
+16.02.230       Building site - access. Each lot in a subdivision shall abut a street, other than an
+alley, or a cul de sac for a frontage length of at least 30 feet.
+
+16.02.240      Building site - through lots. Through lots and parcels shall be avoided except
+where they are essential to provide separation of residential development from major traffic
+Page 17 — Land Divisions, Title 16
+
+                                                      p 9)           0359               [6             oe)
+arteries or adjacent nonresidential activities or to overcome specific disadvantages of topography
+and orientation. A non-vehicular access strip and/or a planting screen easement across which
+there shall be no right of access may be required along the line of building sites abutting such a
+traffic artery or other incompatible use.
+
+16.02.250        Building site - lot and parcel side lines. The lines of lots and parcels, as far as is
+practicable, shall run at right angles to the street upon which they face, except that on curved
+streets they shall be radial to the curve.
+
+16.02.260       Building site - solar access. The lines of lots and parcels, as far as is practical,
+shall be oriented to allow structures constructed on the lots or parcels to utilize solar energy by
+establishing the long axis in the east-west direction permitting sunlight access three hours before
+and after solar noon. Easements necessary to assure solar access may be required for land
+division approval.
+
+16.02.270       Building site - grading.   Grading of building sites shall conform to the State of
+Oregon Structural Specialty Code, Chapter 29, Appendix Chapter 70 of the Uniform Building
+Code and shall implement appropriate erosion and sediment control measures, such as those
+provided in the Clackamas County Erosion Prevention and Sediment Control Planning and
+Design Manual (2000 edition or as subsequently amended). In any event, grading plans shall be
+subject to review and approval by the city engineer.
+
+16.02.280      Building site - building lines. Any special building setback lines established in a
+subdivision or partition shall be shown on the preliminary and final plats.
+
+16.02.290       Building site - division of lots. Where a tract of land is to be divided into lots or
+parcels capable of redivision in accordance with this chapter, the decision maker shall require an
+arrangement of lots, parcels and streets which facilitates future redivision. In such a case,
+building setback lines may be required in order to preserve future right-of-way or building sites.
+
+16.02.300        Building site - protection of trees. Site planning, including the siting of
+structures, roadways and utility easements, shall provide for the protection of tree resources.
+Trees 6 inch caliper or greater measured 4 feet from ground level shall be preserved wherever
+practicable outside the building area. Where the decision maker determines it is impracticable or
+unsafe to preserve these trees, the applicant may be allowed to remove the trees so long as they
+are replaced in accordance with an approved landscape plan that includes new plantings in
+accordance with specifications as to size, location, and number of replacement trees to be
+planted. Specifications shall be developed by the City with input from the applicant’s qualified
+arborist or horticulturalist. The decision maker may also impose conditions to avoid disturbance
+to tree roots by grading activities and to protect trees and other significant vegetation identified
+for retention. Such conditions may include, if necessary, the advisory expertise of a qualified
+consulting arborist or horticulturist both during and after site preparation, and a special
+maintenance/ management program, which may include provisions for irrigation for the first
+several growing seasons, to protect the remaining and/or support replacement trees.
+
+Page 18 — Land Divisions, Title 16
+
+                                             PR001- 0359                          [ 167 dy JOS, |
+16.02.310     Land for public purposes. Ifthe city has an interest in acquiring a portion of a
+proposed land division for a public purpose, or if the city has been advised of such interest by a
+school district or other public agency, and there is reasonable assurance that steps will be taken to
+acquire the land, then the decision maker may require that those portions of the land division be
+reserved for public acquisition for a period not to exceed two years.
+
+16.02.320      Easements.    The following shall govern the location, improvement and layout of
+easements:
+
+         A.    Utilities. Utility easements shall be provided 10 feet in width along rear and front
+property lines and 5 feet in width along side property lines where deemed necessary by the city
+engineer. Insofar as practicable, easements shall be continuous and aligned from block to block
+within the land division and with adjoining subdivisions or partitions. Specific utility easements
+for water, sanitary or storm drainage shall be provided based on approved final engineering
+plans.
+
+       B.      Unusual Facilities. Easements for unusual facilities such as high voltage electric
+transmission lines, drainage canals or pond areas shall be of such width as the responsible agency
+determines is adequate for the purpose, including any necessary maintenance roads. These shall
+be shown upon the final plat or map, and, if necessary, fully designated upon an additional map.
+
+        Cc.     Watercourses. Where a land division is traversed or bounded by a watercourse,
+drainage way, channel or stream, a storm water easement or drainage right-of-way shall be
+provided which conforms substantially to the line of such watercourse, drainage way, channel or
+stream, and is of a sufficient width to allow construction, maintenance and control for the
+purpose as required by the responsible agency. For those subdivisions or partitions which are
+bounded by a stream of established recreational value, stream back easements may be required
+for pedestrian or bicycle paths.
+
+         D.    Access, When easements are used to provide vehicular access to lots within a
+land division, the construction standards, but not width standards, for the easement shall meet
+city specifications. The minimum width of the easement shall be 20 feet. The easements shall be
+installed by the applicant and inspected by the city engineer.   Such easements may also be used
+for utility placement.
+
+         E.      Resource Protection. Easements or other protective measures may also be
+required as the decision maker deems necessary to ensure compliance with applicable review
+criteria protecting wetlands, streams, historic structures and similar resources.
+
+16.02.330       Minimum improvements - procedures. In addition to other requirements,
+improvements installed by the applicant either as a requirement of these or other regulations or at
+the applicant's option, shall conform to the requirements of this Title and be designed to city
+
+Page 19 — Land Divisions, Title 16
+
+                                              {9004-0359 (My 20
+specifications and standards as set out in the city's facility master plan and public works design
+standards. The improvements shall be installed in accordance with the following procedure:
+
+         A.     Improvement work shall not commence until plans have been checked for
+adequacy and approved by the city engineer. To the extent necessary for evaluation of the
+proposal, the plans may be required before approval of the preliminary plat of a subdivision or
+partition. Expenses incurred thereby shall be borne by the applicant and paid for prior to final
+plan review.
+
+       B.      Improvements shall be constructed under the inspection and approval of the city
+engineer. Expenses incurred thereby shall be bore by the applicant and paid prior to final
+approval. Where required by the city engineer or other city decision maker, the applicant's 's
+project engineer also shall inspect construction.
+
+        Cc.     Where erosion control or resource protection facilities or measures are required,
+such measures shall be installed prior to any grading or other development or site alteration of the
+property. Underground utilities, waterlines, sanitary sewers and storm drains installed in streets
+shall be constructed prior to the surfacing of the streets. Stubs for service connections for
+underground utilities and sanitary sewers shall be placed to the lot lines.
+
+         D.     A 2-year warranty bond or letter of credit in the amount of 5-10% of the cost of
+the dedicated infrastructure must be provided prior to receiving final plat approval. Such
+financial assurance must be reviewed by the city attorney to ensure the city’s interests are
+sufficiently protected prior to acceptance.
+
+        E.     A detailed map showing public improvements as built shall be filed with the city
+engineer upon completion of the improvements. As built drawings shall be provided in
+electronic form in .pdf format, or an alternate electronic format deemed acceptable by the city
+engineer and in hard copy form as a full size drawing set on mylar.
+
+       F,      The decision maker may regulate the hours of construction to minimize adverse
+impacts on adjoining residences or neighborhoods.
+
+16.02.340       Minimum improvements - public facilities and services. The following
+minimum improvements shall be required of all applicants for a land division under this Title,
+unless the decision maker determines that any such improvement is not proportional to the
+impact imposed on the city's public systems and facilities:
+
+         A.      Transportation System. Subdivision applicants shall be responsible for improving
+to the city's planned level of service all public streets, including alleys, within the land division
+and those portions of public streets adjacent to but only partially within the land division. All
+applicants shall execute an agreement to not remonstrate against the formation of a Local
+Improvement District for street improvements that benefit the applicant's property. Applicants
+are responsible for designing and providing adequate vehicular, bicycle and pedestrian access to
+
+Page 20 — Land Divisions, Title 16
+their developments and for accommodating future access to neighboring undeveloped properties
+that are suitably zoned for future development. Catch basins shall be installed and connected to
+drainage tile leading to storm sewers or drainage ways. Upon completion of the street
+improvement survey, the applicant shall reestablish and protect monuments of the type required
+by ORS 92.060 in monument boxes with covers at every public street intersection and all points
+or curvature and points of tangency of their center line, and at such other points as directed by the
+city engineer.
+
+       B.      Storm Water Drainage System. Drainage facilities shall be provided within land
+divisions and shall connect the applicant's drainage system to the public storm drainage system if
+one is available. All applicants shall execute an agreement to not remonstrate against the
+formation of a Local Improvement District for storm water drainage improvements that benefit
+the applicant's property. Applicants are responsible for extending the city's storm drainage
+system to the development site and for providing for the connection of up-gradient properties to
+that system. The applicant shall design its drainage facilities and erosion control measures in
+accordance with the city drainage master plan and shall implement erosion and sedimentation
+control measures such as those provided in the Clackamas County Erosion Prevention and
+Sediment Control Planning and Design Manual (2000 edition or as subsequently amended).
+Storm water plans for a development site shall take into account the capacity and grade necessary
+to maintain unrestricted flow from areas draining through the property and to allow extension of
+the city’s system to serve these areas. Where a city storm water system is not available, storm
+water shall be detained on site and released at no more than predevelopment rates and volumes of
+discharge from the site. The applicant shall be responsible for ensuring that waters draining from
+the development meet the applicable water qualify standards established by the Oregon
+Department of Environmental Quality, Wasco County, and the City of Mosier. Final design shall
+be reviewed and approved by the city engineer before construction begins.
+
+         on      Sanitary Sewer System. The applicant shall design and install a sanitary sewer
+system to serve all lots or parcels within a land division and to connect those lots or parcels to the
+city's sanitary sewer system. All applicants shall execute an agreement to not remonstrate against
+the formation of a Local Improvement District for sanitary sewer improvements that benefit the
+applicant's property. Applicants are responsible for extending the city's sanitary sewer system to
+the development site and through the applicant's property to allow for the future connection of
+neighboring undeveloped properties that are suitably zoned for future development. The
+applicant shall obtain all required permits and approvals from all affected jurisdictions prior to
+final approval and prior to commencement of construction. Design shall be approved by the city
+engineer before construction is begun.
+
+        D.      Water System. The applicant shall design and install a water system to serve all
+lots or parcels within a land division and to connect those lots or parcels to the city's water
+system. All applicants shall execute an agreement to not remonstrate against the formation of a
+Local Improvement District for water improvements that benefit the applicant's property.
+Applicants are responsible for extending the city’s water system to the development site and
+
+Page 21 — Land Divisions, Title 16
+
+                                                    ls 04-0357                           He nio¥)
+through the applicant's property to allow for the future connection of neighboring undeveloped
+properties that are suitably zoned for future development.
+
+         E.      Sidewalks. The applicant shall provide for sidewalks on both sides of all public
+streets and in any special pedestrian way within the land division if required by the city to do so.
+The city may require alternate bicycle and pedestrian access ways which eliminate or replace the
+need for sidewalks. If sidewalks are required, the decision maker may require the applicant to
+provide sidewalks concurrent with the issuance of the initial building permit within the area that
+is the subject of the land division application. Applicants for partitions may be allowed to meet
+this requirement by executing an agreement to not remonstrate against the formation of a Local
+Improvement District for sidewalk improvements that benefit the applicant's property.
+
+        F.      Bicycle Routes. If appropriate to the extension of a system of bicycle routes,
+existing or planned, the decision maker may require the installation of separate bicycle lanes
+within streets and separate bicycle paths.
+
+         G.     Street Name Signs and Traffic Control Devices. The applicant shall install street
+name signs at all street intersections. The applicant shall install traffic contro] devices as directed
+by the city engineer. Street name signs and traffic control devices shall be in conformance with
+all applicable city regulations.
+
+        H.      Street Lights. The applicant shall install street lights, which shall be served from
+an underground source of supply. Street lights shall be in conformance with all city regulations,
+including those in Chapter 8.30 of MMC.
+
+        1      Bench Marks. At least one bench mark shall be located within the subdivision
+boundaries using datum plane specified by the city engineer.
+
+        J.     Other.   The applicant shall make all necessary arrangements with utility
+companies or other affected parties for the installation of underground lines and facilities.
+Electrical lines and other wires, including but not limited to communication, street lighting and
+cable television, shall be placed underground.
+
+       K.       Oversizing of Facilities. All facilities and improvements shall be designed to city
+standards as set out in the Mosier City Code, the city's facility master plan, public works design
+standards, or other city ordinances or regulations. Compliance with facility design standards
+shall be addressed during final engineering. The city may require oversizing of facilities to meet
+standards in the city's facility master plan or to allow for orderly and efficient development.
+Where oversizing is required, the applicant may request reimbursement from the city for
+oversizing based on the city's reimbursement policy and funds availability, or provide for
+recovery of costs from intervening properties as they develop.
+
+        L.      Erosion Control Plan--Mitigation.    Applicants shall implement appropriate
+erosion and sedimentation control measures such as those provided in the Clackamas County
+
+Page 22 — Land Divisions, Title 16
+
+                                            p a9 03sf                                      (My io)
+Erosion Prevention and Sediment Control Planning and Design Manual (2000 edition or as
+subsequently amended) and use best management practices to control erosion. An erosion
+control plan shall be reviewed and approved by the city engineer before any construction is
+begun.
+
+16.02.350      Minimum improvements - road standards and requirements.
+
+        A.     Subdivision applicants may propose private streets so long as the design for all
+accessways are reviewed and approved by the city engineer as being adequate for fire and life
+safety access.
+
+        B.      The creation of a public street and the resultant separate land parcels shall be in
+conformance with requirements for subdivisions or partitions. However, the decision maker may
+approve the creation of a public street to be established by deed without full compliance with the
+regulations applicable to subdivisions or partitions where any of the following conditions exist:
+
+        1.     The establishment of the public street is initiated by the city council and is
+               declared essential for the purpose of general traffic circulation and the partitioning
+               of land is an incidental effect rather than the primary objective of the street;
+
+       2.      The tract in which the street is to be dedicated is within an isolated ownership
+               either not over one acre or of such size and characteristics as to make it               |
+               impossible to develop building sites for more than three dwelling units.                 |
+
+        Cc.     In those cases where approval of a public street is to be without full compliance
+with the regulations applicable to subdivisions or partitions, a copy of a preliminary plan and the
+proposed deed shall be submitted to the city planner and city engineer at least 10 days prior to
+any public hearing scheduled for the matter. The plan, deed and any other information the
+applicant may submit shall be reviewed by the decision maker and, if not in conflict with the
+standards of this Title, the MZO or any other applicable requirements, may be approved with
+appropriate conditions.
+
+Page 23 — Land Divisions, Title 16
+
+                                                /3009- D287                               @ BwY d
+                Chapter16.03- Subdivisions — Process and Standards
+
+Sections:
+
+16.03.010      Purpose and general provisions
+16.03.020      Preapplication conference required
+16.03.030      Preliminary Subdivision Plat Application.
+16.03.040      Preliminary Subdivision Plat - required plans.
+16.03.050      Preliminary Subdivision plat - narrative statement.
+16.03.060      Preliminary Subdivision plat - tabular information.
+16.03.070      Notice and Invitation to Comment
+16.03.080      Preliminary Subdivision plat - approval standards
+16.03.090      Hearing, Decision and Appeal
+16.03.100      Final subdivision plat - application requirements and approval standards
+16.03.110      Filing and recording of Final Subdivision Plat
+16.03.120      Post-approval modifications to approved plat
+
+16.03.010      Purpose and general provisions.
+
+        A.      Applicability. This chapter controls the process and approval standards applicable
+to subdivisions and partitions that involve the creation of an accessway. These applications shall
+follow a Type III process. Where the applicant opts to process either application as an expedited
+land division, the city will follow the decision making process set forth in state law and apply the
+applicable approval standards set forth in this code and elsewhere. Application for condominium
+projects, though not subject to subdivision platting procedures, is subject to all applicable
+development standards through the Site Plan Review process in MMC Chapter 15.06.
+
+         B.      Purpose. The purpose of this chapter is to provide a quick review and decision
+making process, applying relatively clear and objective criteria with little discretion, but with
+little opportunity to deviate from the city's dimensional standards. For example, any deviation
+from the dimensional standards that apply requires a variance and a more elaborate decision
+making process that involves a mandatory hearing. Also, subdivision applications are not
+eligible for any density transfer or credit for undevelopable portions of the property, such as for
+wetlands or unbuildable steep slopes. If an applicant wishes greater flexibility in lotting pattern
+or lay-out, or relief from dimensional or public improvement standards the appropriate procedure
+would be an application for a variance under MMC Chapter 15.04.
+
+         (On     Process Overview. Subdivisions require a 2-step process: preliminary and final
+subdivision plats. The preliminary plat, reviewed through a Type III process, provides all of the
+essential information about the proposal, including lay-out, number and pattern of lots, location
+of all existing structures and improvements, significant natural features, development schedule
+and any other information about the proposed development. The final plat is a formal
+Page 24 — Land Divisions, Title 16
+
+                                                 Papoy_0asg                            2               PO
+reproduction of the approved preliminary plat, including all conditions imposed by the decision
+maker, submitted in a recordable form. So long as the final plat does not deviate from the
+product approved in the preliminary plat, the city's review of the final plat is conducted as a Type
+I process.
+
+16.03.020       Preapplication conference required. Before the city will accept a subdivision
+application, the applicant must attend a preapplication conference under MMC Section
+15.07.030.
+
+16.03.030    Preliminary subdivision plat application.     At any time following a preapplication
+conference, an applicant may apply for Preliminary Subdivision Plat approval. The applicant’s
+submission must provide a complete description of existing conditions, the proposed subdivision
+and an explanation of how the application meets all applicable approval standards. The
+following sections describe the specific submission requirements for a Preliminary Subdivision
+Plat, which include plan drawings, a narrative statement and certain tabular information.
+
+        Once staff determines the application is complete enough to process, notice of the
+application and an invitation to comment will be provided in accordance with MMC Chapter
+15.07, the city planner will evaluate the application, taking into consideration all relevant, timely
+filed comments, and render a written decision also in accordance with MMC Chapter 15.07.
+The city planner’s decision may be appealed to the city council as provided in MMC Section
+15.07.015. Any decision by the city council is the city's final decision.
+
+16.03.040 Preliminary Subdivision Plat - required plans. The Preliminary Subdivision Plat
+shall specifically and clearly show the following features and information on the maps, drawings,
+application form or attachments. All maps and site drawings shall be at a minimum scale of one
+inch to 50 feet.
+
+        A.      Site Plan: A detailed site development plan showing the location and dimensions
+of lots, streets, walkways, common areas, building envelopes and setbacks, all existing and
+proposed utilities and improvements including sanitary sewer, storm water and water facilities,
+and an indication of existing and proposed land uses for the site.
+
+         B.     Traffic/Transportation Plan: The applicant’s traffic/transportation information
+shall include two elements: (1) A detailed site circulation plan showing proposed vehicular,
+bicycle and pedestrian access points and circulation patterns, parking and loading areas and any
+other transportation facilities in relation to the features illustrated on the site plan, and (2) A
+traffic impact study prepared by a qualified Professional Engineer, certified in Traffic
+Engineering, that assesses the traffic impacts of the proposed development on the existing
+transportation system and analyzes the adequacy of the proposed internal transportation network
+to handle the anticipated traffic and the adequacy of the existing system to accommodate the
+traffic from the proposed development.
+
+Page 25 — Land Divisions, Title 16
+
+                                                   R004 - 0357                             (We NIL.
+         Cc.     Natural Features Plan: The applicant shall submit a map illustrating all of the
+natural features and hazards on the subject property and within 250 feet of the property’s
+boundary. Features that must be illustrated shall include the following: Proposed and existing
+street right of ways and all other transportation facilities, all proposed lots and tracts, all trees
+with a width 6 inches or greater measured 4 feet from the ground, all jurisdictional wetlands
+(according to the Corps of Engineers Wetlands Delineation Manual, January 1987 edition), all
+known geologic hazards, landslides or faults, areas with a water table within 1 foot of the surface,
+the location of any state or federal threatened or endangered species, all historic areas or cultural
+features acknowledged as such on any federal, state or city inventory, all wildlife habitat or other
+natural features listed on any of the city’s official inventories.
+
+        D.       Topography, Preliminary Grading and Drainage Plan: The applicant shall submit
+a plan illustrating the topography and grade of the site before and after development. Illustrated
+features must include the approximate grades and radius of curves of all proposed streets and cul-
+de-sacs, the location and calculated volume of all cuts and fills, and all storm water management
+features. This plan shall identify the location of drainage patterns and courses on the site and
+within 100 feet of the property boundaries.
+
+         E.      Erosion Control Plan: The applicant shall submit an erosion control plan
+illustrating the measures that will be implemented throughout construction of the subdivision to
+Control erosion and sedimentation. This plan shall include appropriate measures such as those
+provided in the Clackamas County Erosion Prevention and Sediment Control Planning and
+Design Manual (2000 edition or as subsequently amended), use best management practices and
+be reviewed and approved by the city engineer prior to beginning work.
+
+16.03.050_ Preliminary Subdivision Plat - narrative statement. In addition to the plans
+required in the previous section, the applicant shall also prepare and submit a narrative statement
+that addresses the following issues:
+
+        A.      Subdivision Description: A detailed description of the proposed development,
+including a description of any phasing, proposed uses, number and type of residential units,
+allocation and ownership of all lots, tracts, streets, and public improvements, the structure of any
+home owner’s association, and each instance where the proposed subdivision will vary from
+some dimensional or other requirement of the underlying zoning district.
+
+        B.     Timely Provision of Public Services and Facilities: The applicant shall explain in
+detail how and when each of the following public services or facilities will be adequate to serve
+the proposed development by the time construction begins:
+
+                Water
+       wwN >
+
+                Sanitary Sewer
+                Storm Sewer and Storm Water Drainage
+                Parks and recreation
+                Traffic and transportation
+
+Page 26 — Land Divisions, Title 16
+
+                                                  3007-0359                               Ws yey)
+Where adequate capacity for any of these public facilities and services is not demonstrated to be
+currently available, the applicant shall describe how adequate capacity in these services and
+facilities will be financed and construction before the issuance of occupancy permits.
+
+        Cc.     Approval criteria and justification for variances: The applicant shall explain how
+the proposed subdivision is consistent with the standards set forth in Chapter 16.02 and any other
+applicable approval standard identified by city planner. For each instance where the applicant
+proposes a variance from some applicable dimensional or other numeric requirement, the
+applicant shall address the variance approval criteria in MMC Chapter 15.04.
+
+        Dz.     Geologic Hazards: For property subject to known geologic hazards, the applicant
+shall submit a report prepared by a qualified Professional Engineer, certified in geology or
+geotechnical engineering, describing how the proposed subdivision is feasible and protects public
+health safety and welfare.
+
+        E.       Water Resources: For property known to have wetlands or other surface water
+features, the applicant shall submit a report prepared by a qualified professional which shall
+explain in detail how the proposed subdivision is feasible without posing a threat to known water
+resources.
+
+        F,      Drafts of the proposed covenants, conditions and restrictions (CC&Rs),
+maintenance agreements, property owners association agreements, dedications, deeds, easements,
+or reservations of public open spaces not dedicated to the city, and related documents for the
+subdivision.
+
+16.03.060        Preliminary Subdivision Plat - tabular information. In addition to the plans
+required in the previous section, the applicant shall also prepare and submit one or several tables
+that sets forth the following information in an understandable format, including explanations
+where needed:
+
+        A.     Total number of acres, acreage distribution by use, percentage of acreage
+designated for each dwelling type and for nonresidential uses such as streets, off-street parking,
+parks, open space and playgrounds.
+
+        B.      A description of any proposed phasing, including for each phase the timing,
+acreage, number of residential units, amount of area for non-residential use, open space,
+development of utilities and public facilities.
+
+        C.      Overall density of the subdivision and the density by dwelling type for each.
+
+16.03.070       Notice and Invitation to Comment. Upon the city's determination that an
+application for a preliminary submission plat is complete, pursuant to MMC Section 15.07.070,
+
+Page 27 — Land Divisions, Title 16
+
+                                              300 7-O357                             (We y/2¥)
+the city shall provide notice of the application in accordance with the requirements of MMC
+Chapter 15.07 applicable to Type III decisions.
+
+16.03.0380      Preliminary Subdivision Plat - approval standards. The minimum approval
+standards that must be met by all preliminary subdivision plats are set forth in this Title, and in
+the dimensional and use requirements set forth in the section of MMC Chapter 15.02 that
+corresponds to the underlying zone. The city planner shall evaluate the application and make a
+recommendation as to whether the proposal meets, or through the imposition of conditions of
+approval can meet, these approval standards. The city planner’s recommendation shall be issued
+as a staff report to the city council and made public at least 7 days prior to the scheduled public
+hearing.
+
+16.03.090       Hearing, Decision and Appeal. The city council hearing on the proposed
+subdivision plat shall follow the Type III process set forth in MMC Chapter 15.07, after which
+the city council shall issue a written decision. Any appeal of the city council’s decision shall be
+to the Land Use Board of Appeals pursuant to state law.
+
+16.03.100       Final subdivision plat - application requirements and approval standards.
+The applicant must apply for Final Subdivision Plat approval within 12 months following
+approval of a Preliminary Subdivision Plat. The Final Subdivision Plat is processed as a Type I
+decision by the city planner so long as the Final Subdivision Plat does not deviate from the
+approved Preliminary Subdivision Plat as conditioned by the decision maker.
+
+       A.      If the city planner determines that the Final Subdivision Plat submitted by the
+applicant deviates from the approved Preliminary Subdivision Plat, the modified subdivision
+shall be subject to the same Type III process and review standards as were applicable to the
+Preliminary Subdivision Plat. However, if such a review is necessary, the review shall be limited
+only to those aspects of the Final Subdivision Plat that deviate from the approved Preliminary
+Subdivision Plat. The decision maker's original approval of all other aspects of the subdivision
+may be relied upon as a conclusive determination of compliance with the applicable standards.
+
+       B.     The city planner shall approve a Final Subdivision Plat that is consistent with the
+approved Preliminary Subdivision Plat, including any conditions attached thereto.
+
+16.03.110       Filing and recording of Final Subdivision Plat. Following approval of the
+Final Subdivision Plat the applicant shall file with the county recorder the confirmed and
+approved copy of the Final Subdivision Plat together with all pertinent documents approved as to
+form by the city attorney.
+
+16.03.120       Post-approval modifications te approved plat. All modifications to a
+subdivision that has received Final Plat approval shall be applied for and processed in the same
+manner as was the original Preliminary Subdivision Plat and subject to the same approval
+standards. However, the city is entitled to rely upon the prior decision and findings for those
+portions of the subdivision that the applicant does not propose to modify.
+
+Page 28 — Land Divisions, Title 16
+
+                                                  $3009- 0257 (07 pad
+                  Chapter 16.04 - Partitions — Process and Standards
+
+Sections:
+
+16.04.010       Purpose and general provisions
+16.04.020       Preapplication conference required
+16.04.030       Partition submission requirements
+16.04.040       Frontage width requirement
+16.04.050       Accessway requirements
+16.04.060       Pavement requirements
+16.04.070       Width/depth requirements
+16.04.080       Partition approval standards
+16.04.090       Final recordable partition plat
+16.04.100       Final plat requirements
+
+16.04.010       Purpose and general provisions.
+
+        A.     Partitions shall be processed as a Type I decision by the city planner under the
+applicable provisions in MMC Chapter 15.07. Approval shall be granted only upon
+determination by the city planner that all applicable requirements of this Title and ORS Chapter
+92 have been met.
+
+         B.      If a parcel of land to be partitioned, being large in size, is divided into more than
+two parcels within any calendar year, or if the proposed partition is determined to be a series
+partition, the city planner may require full compliance with all substantive and procedural
+requirements for a subdivision plat if, in his/her judgment, the entire parcel is in the process of
+being subdivided.
+
+16.04.020        Preapplication conference required. Before the city will accept an application
+for a partition, the applicant must attend a preapplication conference under MMC Section
+15.07.030
+
+16.04.030      Partition submission requirements. The applicant shall submit 5 copies of the
+proposed partition to the city planner on a reproducible material, drawn at a minimum scale of
+one inch equals 100 feet with the following information
+
+        A.      A completed application, on a form as provided by the city planner;
+
+        B.      A boundary survey prepared by an Oregon Professional Land Surveyor;
+
+        Cc.     Legal descriptions of the parent parcel(s) and the resulting parcels to be created;
+
+        D.      Copies of proposed deeds for the parcels to be created;
+
+Page 29 — Land Divisions, Title 16
+
+                                                    p> 007-1357                             G po)
+        E.      A receipt from the county assessor's office indicating that all taxes for the lot or
+parcels involved are paid in full for the preceding tax year.
+
+        F.      The name and address of the owner and the land surveyor or engineer, if any;
+
+        G.      County tax assessment map numbers of the land to be partitioned;
+
+        H       The map scale and true north point;
+
+                Approximate courses and distances of all parts of the partition; .
+       nl
+
+        J.      Around the periphery of the proposed partition, the boundary lines and names of
+                adjacent partitions and subdivisions, streets and tract lines of adjacent parcels of
+                property;
+
+       K.       The location, width and names of all existing or platted streets or other public
+                ways and easements within the proposed partition and other important features,
+                such as the general outline and location of permanent buildings, pedestrian/bicycle
+                accessways, water courses, power lines, telephone lines, railroad lines, gas line,
+                water lines, municipal boundaries and section lines.
+
+        L.      All areas within a floodplain;
+
+        M.      All areas with known unstable slopes;
+
+                All wetlands, lakes, streams or creeks, even if surface water is apparent for only
+                part of the year.
+
+16.04.040        Frontage width requirement. Unless a joint accessway is provided pursuant to
+Section 16.04.050(B), all parcels of land that are created by a partition in a one-family or two-
+family zoning district shall have a minimum of 20 feet of frontage on an existing public, county,
+state or federal road or street. For parcels of land created by a partition in all other zoning
+districts, the parcels shall have a minimum of 30 feet of frontage on an existing public, county,
+state or federal road or street.
+
+16.04.050       Accessway requirements.
+
+       A. Flag lots may be permitted only where the configuration or topography of the property
+would otherwise preclude the partitioning and development of the property. The width of the
+accessway for flag lots shall be equal to or greater than the width of the street frontage.
+
+        B.      A minimum of 10 feet of accessway width and frontage width shall be provided
+for each residential unit or parcel served by the accessway. The total accessway and frontage
+width need not exceed the minimum average lot width requirement for the parcel. A private
+
+Page 30 — Land Divisions, Title 16
+
+                                                  2004-039                                   wr)
+accessway (private street) will only be approved when it can be demonstrated that the private
+accessway is designed and can be constructed to function safely. Any private accessway shall be
+required to be paved and to comply with the minimum dimensional standards provided in Section
+2.030. A private accessway will only be considered where topographic constraints or other
+factors make direct access from a street meeting public full street standards via a private
+driveway or shared private driveway impracticable. Two dwellings may share a single private
+driveway where there are spacing constraints or other factors that justify a joint driveway, and it
+can be demonstrated that a joint or shared driveway can operate safely.
+
+        Cc.    A minimum 12-foot wide fire access corridor shall be provided to all parcels
+created through the partitioning process. No vehicular obstruction, including trees, fences,
+landscaping, and structures shall be located within the fire access corridor.
+
+        Dz.     The area of any accessway shall be excluded from calculations of a minimum lot
+area for any new parcels or lots.
+
+16.04.060       Pavement requirements. A minimum of 12 feet of paved driveway shall be
+provided for single-family units on parcels created through the partitioning process. Driveways
+less than 15 feet in width shall provide 2 feet of improved shoulder on either side of the
+driveway’s paved surface. If two units will use the drive, a minimum of 15 feet of pavement
+width shall be provided along with 2 feet of improved shoulder on either side of the driveway’s
+paved surface. If the proposed accessway exceeds 150 feet in length, it may be required to be
+paved to a minimum width of 20 feet including a turnaround for emergency vehicles in
+accordance with Oregon State Fire Code requirements. If required, the turnaround shall be
+approved by the city engineer in consultation with the fire chief.
+
+16.04.070       Width/depth requirements. New parcels created through the partitioning
+process shall be exempt from the minimum average width and depth requirements of the zoning
+code. The minimum width and/or depth of any new parcel created through the partitioning
+process shall not be less than 60 feet.
+
+16.04.080      Partition approval standards. All parcels created by partition shall conform to
+the requirements of this Title, ORS 92.010 to ORS 92.160, and any other applicable city or state
+law. The applicant shall submit a written statement addressing conformity with these standards.
+The city planner shall determine if the applicant's submission complies with these standards, and
+issue to the applicant a notice of decision consistent with MMC Section 15.07.090 The city
+planner’s decision is final and not appealable to any other decision maker within the city.
+
+16.04.090        Final recordable partition plat. If the city planner approves the applicant's
+partition application, the applicant shall submit a final partition plat that meets all applicable
+requirements of the city planner’s decision, as well as the applicable requirements of ORS
+Chapter 92 for signature by the appropriate city official prior to recording with the county.
+
+Page 31 — Land Divisions, Title 16
+
+                                               3007-0359                                     jabs)
+16.04.100        Final plat requirements. The city planner shall review the final partition plat for
+conformance with any conditions and the applicable requirements of ORS Chapter 92. The final
+partition plat shall contain, or be accompanied by, the following information:
+
+        A.           The city planning file number, located just below the title block.
+
+        B.      A tie to the city's GPS Geodetic Control Network. This shall include the
+following: (1) ties to at least two control monuments showing measured distance and bearing
+between the two control monuments tied and record distance and bearing, (2) state plane
+coordinates for control points tied; and (3) scale factor to convert ground measured distances to
+grid distances. Based on the tie to the city's GPS geodetic control network, a state plan
+coordinate shall be shown on the initial point. The bearings for the plat shall be based on the
+city's GPS Geodetic Control Network.
+
+        C.      The lines and names of all streets or other public ways, pedestrian/bicycle
+accessways, parks, playgrounds and easements intended to be dedicated for public use, or
+granted for use of the owners within the partition.
+
+        D.       The length and bearings of all straight lines, curves, radii, arcs and semi-tangents
+of all curves. Data may be shown on a separate table on the same plat sheet.
+
+        E.       All dimensions along the lines of each lot in feet and decimals of a foot to the
+nearest hundredth, with the true bearings, and any other data necessary for the location of any lot
+line in the field.
+
+        F,      Suitable, primary control points or monuments, approved by the city engineer and
+descriptions and ties to such control points, to which all dimensions, angles, bearings, and similar
+data given on the plat map shall be referred.
+
+         G.      Street centerline control based on recorded city control surveys for street
+centerlines, if applicable.
+
+         H.          The locations of all permanent monuments.
+
+        I.     The names or official reference numbers of all recorded subdivisions or partitions
+plats immediately adjacent to the land division.
+
+        J.       The date, true north point and scale.
+
+        K.           The boundary of the divided tract, with the bearings, course and distances marked
+thereon, based on a survey made by a professional land surveyor registered in the State of
+Oregon, and to close with an error of not more than one foot in 4,000 feet.
+
+Page 32 — Land Divisions, Title 16
+
+                                              Yao0j-0259 (121                                       ot)
+        L.     Building envelopes indicating compliance with setbacks.       This shall be shown on
+a separate copy of the final plat.
+
+        M.    All homeowners agreements, maintenance agreements, Chapters of incorporation,
+bylaws and CC&Rs. These matters shall be reviewed and verified by the city attorney for
+conformance with state and local requirements before recording with the final plat.
+
+         N.      The following declaration shall appear on the face of the final plat and be signed
+by all parties having ownership interest in the land being divided or adjoining lands through
+which easements are being granted:
+
+        “Know all people by these presents that                             , owner(s) of the
+        land depicted hereon, does (do) hereby make, establish and declare the attached
+        plat of “                             * as described in the accompanying surveyor's
+        certificate, to be a true and correct map and plat thereof. All lots and tracts are of
+        the dimensions shown hereon and all streets and public rights of way are the
+        dimensions shown hereon. I (we) do hereby dedicate to the use of the public as
+        public ways forever, all streets, reserve strips and easements as shown or stated on
+        said map, (“and hereby grant Tracts “                  *) to the City of Mosier for
+        the uses indicated and that the public is hereby granted the right to maintain or
+        replace utilities in these easements and will not be in any way responsible for
+        replacing the landscaping, fencing or other structures, shrubs or trees that may
+        exist or be placed in these easements. The city is required to give adequate notice
+        before such activities are commenced and shall limit activities to those necessary
+        to achieve the purpose of maintaining utilities, and does further state that
+                              ”
+
+        Oo.   The description in the surveyor's certification of the land divided shall be a metes
+and bounds description.
+
+        P.     The location of reserve strips. Tracts granted to the city as reserve strips shall be
+automatically dedicated to the public as public ways forever upon dedication of the future street
+extensions.
+
+Page 33 — Land Divisions, Title 16
+
+                                        L2004-0359                               [ [22 9-/ oy )
+Chapter 16.05 — Property Line Adjustments and Abandonment — Process and
+                                Standards
+
+Sections:
+
+16.05.010         Purpose and general provisions
+16.05.020         Preapplication conference required
+16.05.030         Adjustment/abandonment submission requirements
+16.05.040         Contents of property line adjustment deed
+16.05.050         Adjustment/abandonment approval standards
+
+16.05.010      Purpose and general provisions. Applications for property line adjustments and
+abandoments shall be processed as Type I decisions by the city planner under the applicable
+provisions in MMC Chapter 15.07. Approval shall be granted only upon determination by the
+city planner that all applicable requirements of this Title and ORS Chapter 92 have been met.
+
+16.05.020       Preapplication conference required. Before the city will accept an application
+for a property line adjustment or abandoment, the applicant must attend a preapplication
+conference under MMC Section 15.07.030
+
+16.05.030      Adjustment/abandonment submission requirements.                The applicant shall
+submit two copies of the following documents to the city planner.
+
+        A.        A completed application, on a form as provided by the city planner;
+
+        B.       A boundary survey prepared by an Oregon Professional Land Surveyor in
+accordance with ORS 92.060(7) except where the application proposes the relocation of a
+currently monumented common boundary of a lot in a subdivision or a parcel in a partition when
+the adjusted property line is a distance of even width along the common boundary. The survey
+shall include in its title the following: “Proposed Property Line Adjustment Survey,” shall
+identify the city planning file number and approval date immediately below the title block with
+space for signature and date by the city planner.
+
+        C.        Legal descriptions of the parent parcels to be adjusted and the resulting parcels to
+be created;
+
+        D.        The proposed property line adjustment deed as provided in the MZO;
+
+        E. A receipt from the county assessor's office indicating that all taxes for the lot or
+              parcels involved are paid in full for the preceding tax year.
+
+        F.    Signatures of all landowners involved either on the boundary survey its self or
+              acknowledging receipt, review, and concurrence with the content of the boundary
+              survey.
+Page 34 — Land Divisions, Title 16
+
+                                              P00 7-D257                             (33 B14)
+16.05.040      Contents of property line adjustment deed.
+
+        A.      In accordance with ORS 92.190(4), the proposed property line adjustment deed
+shall contain the names of the grantors and grantees, the legal description of the tract of land to
+be conveyed to create the adjusted line, references to the original recorded documents, and the
+signatures of all grantors and grantees, with proper acknowledgments.
+
+        B.      The property line adjustment deed shall identify the city planning file number and
+shall contain a statement declaring that the purpose of the deed is for a property line adjustment.
+Reference to the affected properties by map and tax lot shall be in addition to reference by legal
+description.
+
+16.05.050       Adjustment/abandonment approval standards. All parcels created through a
+lot line adjustment or abandonment shall conform to the applicable requirements of this Title,
+ORS 92.010 to ORS 92.160, and any other applicable city or state law. The city planner shall
+determine if the applicant's submission complies with these standards, and issue to the applicant
+a notice of decision consistent with MMC    Section 15.07.090. The city planner’s decision is final
+and not appealable to any other decision maker within the city.
+
+Any errors or omissions identified after recording of the boundary line adjustment map and
+determined to be consistent with the limits and intent of the original approval may be amended
+by the applicant through the amendment process deemed appropriate by the County Surveyor.
+
+NOTE: Creation and recording of the boundary survey does not convey ownership in the
+properties described on the Property Line Adjustment Map. Ownership is not transferred until
+the deeds describing the new alignment are signed and recorded. The applicant shall record the
+new property descriptions within 6 months of the city planner’s approval, after which the
+decision shall be null and void.
+
+Page 35 — Land Divisions, Title 16
+
+                                            009- 0357                       (‘ay n fay
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 99.3% of
+the word sequence, and on 75.0% of the figures. Dictionary-recognizable words: 97.0%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

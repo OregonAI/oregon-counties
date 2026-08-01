@@ -1,0 +1,2953 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-legislative-amendments-to-ludo-4-1-2009
+title: 'Legislative Amendments to LUDO 4-1-2009'
+doc_type: ordinance
+citation: 'Legislative Amendments to LUDO 4-1-2009'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2009/Legislative%20Amendments%20to%20LUDO%204-1-2009.pdf?t=202503260855490
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 0c5499cdb3ef0163b26f8a9485f8f3d8cb4f7d2557770238255897c7e10f3c44
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.965; figure agreement 0.743; dictionary ratio 0.956. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 222.125
+    - ORS 222.750
+    - ORS 227.186
+  related: []
+  supersedes: []
+tags: [wasco-county, code, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 96%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Legislative Amendments to LUDO 4-1-2009 (Legislative Amendments to LUDO 4-1-2009)
+
+## At a glance
+
+OCR-derived text of Legislative Amendments to LUDO 4-1-2009. Not human-verified.
+
+## Full text
+
+FILED
+                                                                                    WASCO COUNTY
+
+                                                                                  2009 APR -2    A HH 09
+   UPl
+
+                                                                                 KAREN LEBRETON COATS
+   OO
+
+                                                                                     COUNTY CLERK
+   ee
+   oH
+
+                                     IN THE COUNTY COURT OF THE STATE OF OREGON
+   Oo
+
+                                             IN AND FOR THE GOUNTY OF WASCO
+   NN
+   es
+
+                          IN THE MATTER OF THE ADOPTION OF
+   ow
+
+                          LEGISLATIVE AMENDMENTS TO THE
+                          WASCO COUNTY LAND USE AND                          )    ORDINANCE
+   weLUmhNlUlUDrMULUCUD
+
+                          DEVELOPMENT ORDINANCE, AS APPLIED                  )
+                          TO THE CITY OF THE DALLES URBAN                    )
+                          GROWTH AREA.                                       )
+Neem
+
+                                 WHEREAS, the City of The Dalles Community Development
+   FO
+
+                          Department has requested a series of legislative amendments to the Wasco
+   UN
+
+                          County Land Use and Development Ordinance as applied to the City of
+   HO
+
+                          The Dalles Urban Growth Area, and the appropriate notices have been
+   NHN
+   Ho
+
+                          published in The Dalles Chronicle and sent to the Department of Land
+   BO
+
+                          Conservation and Development as required; and
+   CO
+
+                                 WHEREAS, the proposed chan les have been adopted by the City
+   =§
+
+                          Council of the City of The Dalles; and
+   NY
+NR
+
+                                 WHEREAS, the Wasco County Court met at the hour of 10:00 a.m. on
+   Wo
+
+                          Wednesday, March 18, 2009, in the Wasco County Courtroom, Room 202, of
+   fF
+NR
+   wu
+
+                          the Wasco County Courthouse, in The Dalles, Oregon, for a legally notified
+   ao
+—S
+
+ Page                     1 - ORDINANCE
+
+                                                                   |   f4007- b/6 3 (>
+                         Public Hearing for the review of the City of the Dalles Community
+  DU
+
+                         Development Department's request for legislative amendments to the Wasco
+
+                         County Land Use and Development O           inance as applied to the City of
+  BO
+
+                         The Dalles Urban Growth Boundary.      The amendments presented included
+  Be
+
+                         the following City of The Dalles Ordinances, which were adopted by the City of
+  OH
+  OD
+
+                         The Dalles on the following dates: 05-1262 (adopted May 23, 2005),
+
+                         07-1276 (adopted February 12, 2007), 07-1281 (adopted June 11, 2007),
+    on
+
+                         07-1283, (adopted December 10, 2007), and 08-1294 (adopted September 8,
+      ow
+
+                         2008).    The Court reviewed the record,iheard the Staff recommendation and
+et
+  wOlUNClULDhDLCUCUCOD
+
+                         all relevant testimony from the parties, then voted 3 - 0 to approve the
+et
+
+                         legislative amendment as conmons
+ee
+
+                                  NOW, THEREFORE, IT IS HEREBY ORDAINED BY WASCO
+  Fk
+
+                         COUNTY AS FOLLOWS:
+  OH
+
+                                  1.    That the request by the City of The Dalles Community
+  OD
+me
+
+                         Development Department for the adoption of the attached and hereto
+me
+  NHN
+
+                         incorporated legislative amendments ta the Wasco County Land Use and
+  Oo
+me
+
+                         Development Ordinance as applied to he City of The Dalles Urban Growth
+  BO
+
+                         Boundary are approved.                  |
+  OD
+OND
+ND
+  KF
+
+                         Milt
+  DDH
+BN
+
+                         Milt
+  WDB
+BH
+
+                         Milt
+  F&F
+DH
+
+                         Mul
+  uu
+HN
+no
+  a
+
+                         2 - ORDINANCE
+Page
+            Signed this 1* day of April, 2009.
+                                        WASCO COUNTY COURT
+BH
+BD
+
+                                        Dan Erickgen,
+F&F
+
+                                         Moruaollcduy
+an
+
+                                        Sherry Holliday, ‘County Com(hissioner
+OA
+
+                                                    Penr0
+nN
+
+                                     Poth
+ oo
+
+                                        Bill Lennox, County Commissioner
+ wo
+
+10
+i1
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+26
+       3 - ORDINANCE
+Page
+
+                                                    {4500 o- 0163 L. g2.)
+                              GENERAL ORDINANGE NO. 05-1262
+
+                AN ORDINANCE AMENDING PROVISIONS OF THE CITY’S
+                LAND USE & DEVELOPMENT ORDINANCE TO RESTRICT
+                THE LOCATION OF ADULT BUSINESSES
+
+        THE CITY COUNCIL OF THE CITY OF THE DALLES ORDAINS AS FOLLOWS:
+
+         Section 1. Findings. The City Council finds       that the purpose of the City’s Land Use &
+Development Ordinance, General Ordinance No. 98-1222, is in part to encourage the most
+appropriate and efficient use of land and to accommodate orderly growth; to protect and improve
+the aesthetic and visual qualities of the living environment; and to promote the public health,
+safety and welfare. The City Council also finds that the location and operation of “adult
+businesses” within the City have the potential to create adverse effects which can impact the
+quality of life and stability of adjacent residential andjcommercial areas and have a negative
+impact upon adjacent institutions such as public recreptional facilities and schools. These
+adverse effects can include, but are not limited to increased traffic congestion and noise, and
+increased criminal activity such as assaults, harassment, and disorderly conduct. The City
+Council further finds it is in the best interests of the public’s health, safety and welfare to adopt
+amendments to the City’s Land Use & Development Ordinance which would restrict the location
+of “adult businesses,” to protect neighborhoods and the youth of the community. The City
+Council finds that the amendments are the least restri¢tive alternative available to address the
+adverse effects of adult businesses, without violating the provisions guaranteeing freedom of
+speech and expression under Article 1, Section 8 of the Oregon Constitution.
+
+                                                       2 98-1222 shall be amended by adding
+        Section 2. Section 2.030 of General Ordinance No.
+the following definitions:
+
+       Adult Business:    Any person, group, firm, business, or organization (except non-
+       profit corporations which are not open to the jeneral public) which prohibits
+       admission to the entire portion of the re         to any persons younger than 18
+       years of age, and which is restricted by state | iw from furnishing to, sending to,
+       exhibiting an obscene performance to, or displaying obscene material to a minor,
+       which is defined as an unmarried person under the age of 18 years.
+
+       Adult Use:    A use of whatever character, coriducted on the premises of an adult
+       business, which use is conducted in the area in which any persons under 18 years
+       of age are prohibited.
+
+        Section 3. Section 5.010.030 of General fll:           No. 98-1222 shall be amended by
+adding a new subsection (G) which shall read as foll
+
+Page 1 of 6 - General Ordinance No. 05-1262                                          (042005 05-1262.ord)
+
+                                                                                         BENE
+                                                       F007 p63 izes
+       (G)    Adult Business, An application for anjadult business shall also comply with the
+              following criteria:
+
+              1.     The adult business must be located more than 500 feet from any R-L
+                     residential zone, measured in ajstraight line from the closest edge of the
+                     property line on which the business is located to the closest edge of the
+                     property in the RL Low Density Residential zone.
+
+                     The adult business must be located more than 1000 feet from all of the
+                     following facilities, measured in a straight line from the closest edge of the
+                     property line on which the business is located to the closest edge of the
+                     property on which the facility is located:
+                                                      I
+
+                     A.      A public school.
+
+                     B.      A public library.
+                     Cc.    A public park or recreational facility, which has facilities such as a
+                             playground, swimming pool, baseball field, football field, soccer
+                             field, tennis court, basketball court, or volleyball court.
+
+       Section 4. Section 5.020.030 of General Ordinance No. 98-1222 shall be amended by
+adding a new subsection (F) which shall read as follows:
+
+       (F)    Adult Business. An application for anadult business shall also comply with the
+              following criteria:
+
+              1.     The adult business must be located more than 500 feet from any R-L
+                     residential zone, measured in a straight line from the closest edge of the
+                     property line on which the business is located to the closest edge of the
+                     property in the RH High Density Residential zone.
+
+              2.     The adult business must be locfted more than 1000 feet from all of the
+                     following facilities, measured in a straight line from the closest edge of the
+                     property line on which the busihess is located to the closest edge of the
+                     property on which the facility is located:
+
+                     A.      A public school.
+
+                     B.      A public library.
+                                                          |
+
+Page 2 of 6 - General Ordinance No. 05-1262                                         (042005 05-1262.0rd)
+
+                                                              /3009- b/er (I>)
+                      C.      A public park or recreational facility, which has facilities such as a
+                              playground, swimming. pool, baseball field, football field, soccer
+                              field, tennis court, basketball court, or volleyball court.
+
+       Section 5. Section 5.030.030 of General Ordifhance No. 98-1222 shall be amended by
+adding a new subsection (G) which shall read as folldws:
+
+       (G)    Adult Business. An application for an adult business shall also comply with the
+              following criteria:
+
+              1.     The adult business must be located more than 500 feet from any R-L
+                     residential zone, measured in q straight line from the closest edge of the
+                     property line on which the business is located to the closest edge of the
+                     property in the RMH Mobile      Home Residential zone.
+
+              2.      The adult business must be lodated more than 1000 feet from all of the
+                     following facilities, measured in a straight line from the closest edge of the
+                     property line on which the business is located to the closest edge of the
+                     property on which the facility js located:
+
+                     A.       A public school.
+
+                     B.       A public library.
+
+                      C.      A public park or recreational facility, which has facilities such as a
+                              playground, swimming pool, baseball field, football field, soccer
+                              field, tennis court, basketball court, or volleyball court.
+
+       Section 6. Section 5.040.030 of General Ordinance No. 98-1222 shall be amended by
+adding a new subsection (K) which shall read as follows:
+                                                       i
+       (K)    Adult Business. An application for am adult business shall also comply with the
+              following criteria:
+
+              1.      The adult business must be located more than 500 feet from any R-L
+                      residential zone, measured in a straight line from the closest edge of the
+                      property line on which the business is located to the closest edge of the
+                      property in the NC Neighborhood Center overlay zone.
+
+             9,       The adult business must be logated more than 1000 feet from all of the
+                      following facilities, measured jin a straight line from the closest edge of the
+                      property line on which the business is located to the closest edge of the
+                      property on which the facility is located:
+
+Page 3 of 6 - General Ordinance No. 05-1262                                           (042005 05-1262.ord)
+
+                                                            Lj009- 0/63 (82)
+                     A.      A public school.
+
+                     B.      A public library.
+
+                      C.     A public park or recreational facility, which has facilities such as a
+                             playground, swimming        pool, baseball field, football field, soccer
+                             field, tennis court, basketball court, or volleyball court.
+
+       Section 7. Section 5.050 040 of General Ordinance No. 98-1222 shall be amended by
+adding a new subsection (K) which shall read as follows:
+
+       (K)    Adult Business. An application for ar adult business shall also comply with the
+              following criteria:
+
+              1.     The adult business must be logated more than 1000 feet from all of the
+                     following facilities, measured jn a straight line from the closest edge of the
+                     property line on which the busjness is located to the closest edge of the
+                     property on which the facility is located:
+
+                     A.      A public school.
+
+                     B.      A public library.
+
+                     C.      A public park or recreational facility, which has facilities such as a
+                             playground, swimming pool, baseball field, football field, soccer
+                             field, tennis court, basketball court, or volleyball court.
+
+       Section 8. Section 5.060.030 of General Ordinance No. 98-1222 shall be amended by
+adding a new subsection (M) which shall read as follows:
+
+       (M)    Adult Business. An application for an adult business shall also comply with the
+              following criteria:
+
+              1.     The adult business must be lo¢ated more than 1000 feet from all of the
+                     following facilities, measurediin a straight line from the closest edge of the
+                     property line on which the buginess is located to the closest edge of the
+                     property on which the facility jis located:
+
+                     A.      A public school.
+
+                     B.      A public library.
+
+Page 4 of 6 - General Ordinance No, 05-1262                                            (042005 05-1262.ord)
+
+                                                     |          £3.009-0/03 (82)
+                       C.        A public park or recreational facility, which has facilities such as a
+                                 playground, swimming pool, baseball field, football field, soccer
+                                 field, tennis court, basketball court, or volleyball court.
+
+       Section 9. Section 5.070.030 of General Ord{nance No. 98-1222 shall be amended by
+adding a new subsection (G) which shall read as foll      WS:
+
+       (G)     Adult Business. An application for am adult business shall also comply with the
+               following criteria:
+
+               1.      The adult business must be lo tated more than 1000 feet from all of the
+                       following facilities, measured in a straight line from the closest edge of the
+                       property line on which the business is located to the closest edge of the
+                       property on which the facility is located:
+
+                       A.        A public school.
+
+                       B.        A public library.
+
+                       Cc.       A public park or recreational facility, which has facilities such as a
+                                 playground, swimming pool, baseball field, football field, soccer
+                                 field, tennis court, basketball court, or volleyball court.
+
+       Section 10.   Section 5.080.030 of General Ordinance No. 98-1222 shall be amended by
+adding a new subsection (E) which shall read as follows:
+
+       (E)     Adult Business.       An application for an adult business shall also comply with the
+               following criteria:
+
+               1.      The adult business must be lo ated more than 1000 feet from all of the
+                       following facilities, measured lin a straight line from the closest edge of the
+                       property line on which the bu: iness is located to the closest edge of the
+                       property on which the facility is located:
+
+                       A.        A public school.
+
+                       B.        A public library.
+
+                       C.        A public park or recreational facility, which has facilities such as a
+                                 playground, swimming pool, baseball field, football field, soccer
+                                 field, tennis court, basketball court, or volleyball court.
+
+Page 5 of 6 - General Ordinance No. 05-1262                                             (042005 05-1262.ard}
+
+                                                                   f009- D1e3 (92)
+          Section 11. Section 3.090, Nonconforming Development, shall be amended by adding a
+new subsection 3.090.080, Modification of an Adult Use in a Nonconforming Adult Business,
+which shall read as follows:
+
+          Section 3.090.080 Modification of an Adult          Wse in a Nonconforming Adult Business
+
+                 An adult business which at the time of adoption of General Ordinance
+                 No. 05-1262 does not conform to the ¢riteria in that ordinance, shall be
+                 governed by the provisions of Section 3.090 of General Ordinance
+                 No. 98-1222, except that the current adult use may not be expanded to
+                 include other types of uses by law which are not accessible by persons of
+                 any age group under 18 years of age. Any such modification of the adult
+                 use shall result in automatic loss of the rights under Section 3.090 and
+                 shall cause the adult business to be in violation of this ordinance.
+
+          Section 12. Section 6.150, Changes to Uses and Structures, shall be amended by adding.a
+new subsection 6.150.040, Modification of a Structute Housing a Nonconforming Adult
+Business, which shall read as follows:
+
+          Section6 .150.040 Modification of a Structure Housing a Nonconforming Adult Business
+
+                 Any modification to a structure or surrounding properties utilized by an
+                 adult business shall be governed by the provisions of Section 6.150 of
+                 General Ordinance No. 98-1222.
+
+          PASSED AND ADOPTED THIS 23°” DAYOF MAY, 2005.
+                                                          |
+Voting Yes, Councilor: Tenney,      Seckora,    Broehl,        Davison
+Voting No, Councilor:_None
+Absent, Councilor:     Zukin
+Abstaining, Councilor: None
+
+          AND APPROVED         BY THE MAYOR THIS i23RP DAY OF MAY, 2005.
+
+            Var          sour
+Robb Van Cleave, Mayor
+
+Attest:
+
+  Quite            Vuroay
+Julid Krueger, MMC, City Clerk
+
+Page 6 of 6 - General Ordinance No. 05-1262                                              (042005 05-1262.ord)
+
+                                                                         009-01 40. f)
+                             GENERAL ORDINANCE NO. 07-1276
+
+               AN ORDINANCE   AMENDING        GERTAIN SECTIONS OF
+               GENERAL ORDINANCE NO. 98-1222? CONCERNING WAIVERS
+               OF RIGHT TOREMONSTRATE
+
+       THE CITY COUNCIL OF THE CITY OF THE DALLES ORDAINS                       AS FOLLOWS:
+
+       Section 1. Section 6.110 of General Ordinance No. 98-1222, WAIVER OF RIGHT TO
+REMONSTRATE,        is amended to read as follows:
+
+       Effective February 12, 2007, an applicant who submits a request for a building
+       permit which involves the new construction of a residential unit(s) and/or any
+       request involving a planning action which would increase traffic flow on any
+       street not fully improved to City standards, will not be required to execute a
+       waiver of remonstrance agreement for the formation of a local improvement
+       district. Waiver of remonstrance agreements executed prior to February 12, 2007,
+       shall be processed under the provision of Resolution No. 07-007, establishing an
+       implementation policy for the City Council for local improvement districts under
+       General Ordinance No. 91-1127.
+
+       In the event the Director has determined, purswant to a review of the applicable
+       criteria set forth in Section 3 of Resolution Na. 07-007 that installation of full
+       street improvements (including paving, curb, gutter, sidewalk, sanitary sewer,
+       water, and where applicable, storm sewer) is not required at the time of
+       development, the applicant submitting the request for the building permit for a
+       new residential unit or units, or for a planning|action, shall pay the amount
+       established by the City annually on a front footage basis, into the City’s local
+       improvement district fund, subject to any pro ision for multi-frontage lot relief.
+
+       Section 2. Section 10.0300(B)(2) shall be amended to read as follows:
+
+              2.      Sidewalks along local streets shall be installed per the requirements
+                      of any final plat approval, in canjunction with development of a
+                      particular site unless postponed with City approval.
+
+       Section 3. Section 10.060(C)(1} shall be amended to read as follows:
+
+              1.      Where a development site abuts an existing public street not
+                      improved to City standards, the abutting street shall be improved to
+                      City standards along the full frontage of the property concurrent
+
+Page 1 of 2 - General Ordinance No. 07-1276                                       (012207 07-1276.ord)
+
+                                                       | Je09-Diex, races
+                        with the development, or the improvements shall be constructed
+                        and paid for in accordance wit the implementation policy for local
+                        improvements set forth in Resalution No. 07-007.
+
+          PASSED AND ADOPTED THIS 12™ DAY               DF FEBRUARY, 2007.
+
+Voting Yes, Councilor: Wood,      Dick,   Broehl,   Kov peich,   Wilcox
+Voting No, Councilor:__None
+Absent, Councilor:        None
+Abstaining, Councilor:_None
+
+          AND APPROVED BY THE MAYOR THIS 12™ DAY OF FEBRUARY, 2007.
+
+      Man
+          CECleave
+                     Datu
+                     Mayor
+Jim   Broehl,   Mayor   pro-tem
+Attest:
+
+ Vibro ucean
+JulieKrueger, MMC, City Clerk
+
+                                                                                 (012207   07-1276.ord)
+Page 2 of 2 - General Ordinance No. 07-1276
+
+                                                                      OOF-D/63 Cb).
+                          GENERAL ORDINANCE NO. 07-1281
+
+                         AN ORDINANCE APPROVING ZONING
+                         ORDINANCE AMENDMENT NO. 07-1281
+
+       WHEREAS, the City of The Dalles adapted a Land Use and Development
+Ordinance known as General Ordinance No. 98-1222 on May 11, 1998; and
+
+           WHEREAS, the City Planning Commigsion conducted a public hearing on April
+5, 2007 to take public testimony on General Ordinance Amendment No. 07-1281, and
+following the close of the public hearing, the Planning Commission moved to
+recommend the City Council adopt the proposed amendments to the City’s Land Use and
+Development Ordinance; and                          :
+
+           WHEREAS, on May 14, 2007, the City) Council conducted a public hearing to
+consider General Ordinance Amendment No. 07-1281, and
+
+           WHEREAS,      on June 11, 2007, the City Council adopted a motion approving the
+proposed amendment, as modified,
+
+     NOW, THEREFORE, THE CITY CQUNCIL OF THE CITY OF THE
+DALLES ORDAINS AS FOLLOWS:
+
+Section 1. All references to sections in the ordihance refer to sections of General
+Ordinance No. 98-1222, as amended.
+
+Section 2. Section 2.030 shall be amended as follows:
+           a. Change definition of Building Height to read as follows: “See Height of
+Buildings definition in Section 6.070.050. Also.see height exceptions in Section 6.090
+for non-residential structures.”
+        b. Add new definition for Condominium to read as follows: “Condominium --
+Two or more attached dwellings on a single lot pith individual ownership of the dwelling
+units and common ownership of the land.”
+           c. Change name of Partition by adding ‘(Minot” in front of Partition in the
+caption.
+
+Section 3. Section 3.010.035 shall be amended by adding a new section to read as
+follows: “Applicants participating in the pre-application process (referred to as site team
+                                                                                     review
+review) shall provide all information required in the code for the type of land use
+sought. 18 copies of the application and site plan are required.”
+
+Section 4. Section 3.010.040 shall be amended by adding a new paragraph as follows:
+“G. Plans by Professionals Required. Unless waived by the Director, applications for
+non-residential structures shall include a site plan drawn by an architect, surveyor,
+engineer, or other person licensed by the State of Oregon to prepare plans.”
+
+                                                                                  (ee tt
+                                                        pry o13 (38>)                         .
+Section 5. Section 3.020.010 shall be amended by adding the word “structural” after the
+word “exterior”.
+
+Section 6. Section 3.020.030 shall be amended by adding a new paragraph A. as follows:
+“Option to Process as Administrative Action. At the discretion of the Director, a
+ministerial action may be processed as administrative per the provisions of Section
+3.020.040: Administrative Actions of this chapter”, and renumbering existing paragraphs
+A, B, and C to B, C, and D.                       :
+
+Section 7. Section 3.020.030 A, renumbered td 3.020.030 B by Section 6 above, shall be
+amended by adding a new number 9 as follows: “Physical Constraints Permits (Chapter
+8)”.
+
+Section 8. Section 3.020.040 B 11 shall be amfaded by deleting “Physical Constraints
+Permits (Chapter 8)”.                         |
+                                                      I
+Section 9. Section 3.020.050 A shall be amended by deleting subparagraph 7.
+Section 10. Section 3.020.060 A shall be amendedby adding “Ammexations” in a new
+subparagraph.                                             :
+
+Section 11. Section 3.020.080 B 3 shall be amended by adding a new sentence as
+follows: “No fee is required for an appeal under this section”.
+
+Section 12. Section 3.020.080 B shall be ameniled by adding a new paragraph 4 as
+follows: “The City Manager. No fee is required                for an appeal under this section.”
+
+Section 13. Section 3.030.020 I shall be amended by deleting the existing language and
+adding the following: “After an application forja Planned Development, Subdivision, or
+Minor Partition has been submitted, no building permit will be issued for that property
+until all required construction drawings, including roadway improvements and utility
+installations, have been approved by the City; provided that the Planning Director and
+City Engineer may grant an exception to this requirement when issuance of a building
+permit will not jeopardize or significantly interfere with the City’s ability to ensure the
+property receives all necessary public improvements.”
+
+Section 14. Section 3.050.050 B shall be amended by deleting the existing language and
+adding the following: “Uses allowed conditionally in the RL zone shall meet the
+landscaping requirements of Chapter 6 for the CG zone.”
+
+Section 15. Section 3.090.050 shall be amended by adding a new paragraph D as
+follows: “Residential Use in the Central Business Commercial District. Residential uses
+in the Central Business Commercial District are allowed as follows: 1. In structures
+existing at the time this ordinance was originally adopted and originally designed and/or
+
+                                                              | (7009-03 0 $2)
+used as a residence, regardless of current or previous use. 2. All residential uses existing
+as of the original date of adoption of this ordinance.”
+
+Section 16. Section 3.100.020 B 1 a. shall be|amended by deleting the words “no earlier
+than 30 days after the application is deemed cqmplete by the Director.”
+
+Section 17. Section 5.010.050 shall be amended by
+        a. Under building height changing the maximum from 30 to 32 feet.
+        b. Under building orientation, adding after the first sentence a new sentence to
+read as follows: “Orientation on private accessway is allowed only if there is no street
+frontage.”
+
+Section 18. Section 5.020.020 A. 1. shall be amended by deleting the first sentence
+under footnote 2 and deleting all of footnote 3,|_
+
+Section 19. Section 5.020.050 shall be amended       by changing the maximum building
+height in the one dwelling unit per lot category   from 30 to 32 feet.
+
+Section 20. Section 5.030.040, shall be amended by changing the maximum building
+height in the one dwelling unit per lot category from 30 to 32 feet.
+
+Section 21. Section 5.040.040 shall be amended by changing the maximum building
+height in the commercial only and residential only categories from 30 to 32 feet.
+
+Section 22.    Section 5.050.030 A 3 shall be        ded by adding a new sentence as
+follows: “Except for replacement of minor parfs,     all auto repair work shal! be conducted
+inside a building.”
+
+Section 23. Section 5.050.030 A 19 shall be atnended by deleting the following
+language: “(subject to all requirements of the State of Oregon Structural Specialty
+Code)” and deleting paragraphs a. and b.
+
+Section 24. Section 5.060.020 A 21 shall be amended by deleting the following
+language:     “Must be located in permitted residential dwelling areas.”
+
+Section 25. Section 5.080.020 A shall be amex\ded by adding a new paragraph as
+follows: “Residential dwellings above permitted      commercial uses, including multi-
+family dwellings.”
+
+Section 26. Section 5.080.030 shall be amended by adding a new patagraph as follows:
+“Planned Development, subject to the provisions of Section 9.050: Planned
+Development.”
+
+                                                         bsp09-o                       Nol)
+Section 27. Section 5.090.040 shall be amended by changing the language for setbacks
+to read as follows: “No minimum except as follows: A. 25 ft. from Residential Zone or
+Community Facilities Overlay; B. 10 ft. from|a public Right of Way; C. 30 ft. from the
+Columbia River to accommodate the Riverfront Trail and associated amenities.”
+
+Section 28. Section 5.100.030 B shall be amended by changing 600 to 300.
+
+Section 29. Section 6.050.040 shall be amended by adding the following language to the
+opening paragraph: “The following regulations are for non-residential zones.”
+
+Section 30. Section 6.070.050 A shall be amended to read as follows: Building Height.
+“The height of buildings is the vertical distanc above the base point described in
+Subsections (1) and (2) below. The base point used is the method that yields the greater
+height of a building. All measurements shall be to the highest point of the roof, except
+for a stepped or terraced roof.”
+
+Section 31. Section 6.090 A shall be amendedias follows:
+        a. Renumber existing paragraphs 2, 3 and 4 to 1, 2, and 3.
+        b. The following language shall be added to the beginning of the former
+Subsection 4, renumbered to 3 in this section:   “In non-residential zones,”
+       b. The following Janguage shall be added at the end of the former Subsection 4,
+renumbered to 3 in this section: “In residential:zones, typical roof structures such as
+chimneys and vents are allowed over the height        limitation.”
+
+Section 32. Section 6.100.040 A shall be amended by changing the height from 8 to 9
+feet.
+                                                  |
+
+Section 33. Section 7.020.100 shall be amended as follows:
+        a, Deleting the following language: “The separator design and maintenance
+schedule shall be approved by the City Engineer.”
+        b, Adding the following language: “The design and maintenance agreement for
+the oil/water separator must be reviewed and approved by the City Engineer prior to any
+building permits being issued. The maint          agreement for the oil/water separator
+must be on file with the Community Development    Department of the City of The Dalles.
+The property owner is required to submit annual  maintenance reports to the City.”
+
+Section 34. Section 7.060 shall be amended as follows:
+        a. Changing the minimum auto parking requirements for four to twelve units to
+read as follows: “6 spaces, plus 1.5 spaces per dwelling unit in excess of three units.”
+        b. Changing the minimum auto parking. requirements for thirteen or more units to
+read as follows:   “20 spaces, plus 1 space per dwelling unit in excess of 12 units.”
+
+Section 35. Section 9.030.030 A 13 shall be amended by adding the words “For non-
+residential development, the” to the beginning af the subsection.
+
+                                                                                           4
+
+                                                      |       £3009-b/620 82)
+Section 36. Section 9.030.050 B 1 shall be amended by adding the following sentence:
+“The Director may waive any of the requirements when the Director determines that the
+information is not necessary.”
+
+Section 37. Section 9.030.070 A shall be amended by deleting all language after the first
+sentence.                                       :
+
+Section 38. Section 9.030.070 D shall be amehded by adding the words “if needed” after
+the words “A Certified Boundary Survey map”.
+
+Section 39. Section 9.040.030 shall be amended by adding a new paragraph D to read as
+follows: “After a subdivision application has heen filed, no building permits shall be
+issued until construction drawings and specifications have been approved by the City
+Engineer.”
+
+Section 40. Section 9.050.080 shall be amendéd      by deleting the following language:
+“and the local Oregon State Building Codes    office  in writing.”
+
+Section 41. Section 10.060 J 6 b shall be amended by deleting the words in the first
+sentence “the sidewalk and planter” and adding the words “right of way” after “In licu
+of”.
+
+Section 42, Amend LUDO Chapter 14 by adding the following sections:
+
+        14.010 Annexation Process
+
+                14. 010.010 Purpose
+
+                       The purpose of this sectis n is to set out policy and procedures for
+                       annexation of property i ito the City of The Dalles.
+
+                14.010.020 General
+
+                       It is the policy of the City of The Dalles to promote the orderly and
+                       efficient extension of the existing City limits out to the urban
+                       growth boundary. Accordingly the City shall annex property
+                       where:
+
+                       A. The proposed annexation represents an extension of the
+                       existing City boundary within the urban growth area;
+
+                       B. The proposed annexation would not, when developed or as
+                       developed, unreasonably |limit the ability of the City to provide a
+                       level of services to City residents consistent with community
+                       needs, as determined by the City.
+
+                                                                                               5
+
+                                                      fy0crle 30 #2)
+14.010.030 Review Procedures
+
+       A. Applications. All applications shall meet the requirements of
+       Section 3.010: Application Procedures. Applications will be on a
+       form supplied by the City. An annexation may be proposed by the
+       City of The Dalles, landowners, or residents of the City. The
+       approving authority may require additional information where
+       necessary to adequately teview the proposal.
+
+       B. Review. All applications for Annexation shall be processed as
+       legislative actions, per the provisions of 3.020.060 Legislative
+       Actions. Annexation requests shall be heard by the City Council.
+       The Council may refer     the application to the Planning Commission
+       for arecommendation.      |
+
+14.010.040 Review Criteria
+
+       Annexations shall be subject to the following criteria.
+
+       A. The territory is contiguous to the City limits and qualifies as a
+       consent annexation pursyant to ORS 222.125 or as an island
+       annexation pursuant to ORS 222.750.
+
+       B. The territory is within the Urban Growth Area.
+
+       C. The development of the property is compatible and consistent
+       with the rational and logical extension of utilities and roads to the
+       surrounding area.
+
+       D. The City is capable of providing and maintaining its full range
+       of urban services to the territory without negatively impacting the
+       City’s ability to adequately serve all areas within the existing city
+       limits.
+
+       B, The annexation conforms to the Comprehensive Plan.
+
+14.010.050 Staff Report
+       A staff report shall be presented which identifies the criteria
+       applying to the applicatiqn and summarizes the basic findings of
+       fact. The staff report may also include a recommendation for
+       approval, approval with qonditions, or denial. The staff report
+       shall be available to the public at least seven days prior to the
+       hearing.
+
+                                                                               6
+
+                                         b3009- b/e3 BD.
+       14.010.060 Fees
+
+              Fees for filing for annexation applications shall be set by Council
+              resolution.                  i
+
+14.020, Consent to Annexation
+
+       14.020.010. Annexation requir            for Service provided outside the City
+
+              A. Prior to any connectipn to the City water system, sanitary
+              sewer system, or storm water system for property located outside
+              the City limits, a consent       to annexation shall be provided to the
+              City and recorded in the deed records of Wasco County, for all
+              premises which may be served by a connection.
+
+              B. If connection to the City water system, sanitary sewer system
+              or storm water system wes initially made without providing a legal
+              consent to annexation for the premises served, a consent to
+              annexation shall be required as a condition of any further
+              development of the premises that increases the use of the City
+              water system, sanitary sewer system, or storm water system.
+
+              C. In lieu of a consent tq annexation, the City may require
+              annexation as a condition of connection to the City water system,
+              sanitary sewer system, or storm water system for premises
+              contiguous to the City limits, or separated from the City only by a
+              public right of way, stream, or other body of water. Annexation
+              may be conditioned upon such conditions of approval as the City
+              considers necessary.
+
+              D. If property that is outside the City limits and connected to the
+              City water system, sanitary sewer system, or storm water system
+              changes ownership, the new owner shall execute a consent to
+              annexation within 30 days of acquiring ownership.
+
+              E. The consent to annexation shall be on forms provided by the
+              City. The owner of the property shail cause the consent to
+              annexation to be recorded in the deed records of Wasco County
+              and a copy provided to * City. The owner shall be responsible
+              for paying the recording fees.
+
+                                                                                        7
+
+                                                     (3009 -b/03(22)
+                                               |
+Section 43. Section 15.090 shall be amended by adding the following sentence to the
+opening paragraph: “Parties subject to the pro isions of this code include both the
+property owner and the person causing the violation.”
+
+       PASSED AND ADOPTED THIS 11°F DAY OF JUNE, 2007
+                                                   \
+
+                             Dick,   Kovacicl,                 Broehl,     Wilcox,   Wood
+Voting Yes, Councilors:
+Voting No, Councilors:       None             !
+Absent, Councilors:          None                      7
+Abstaining, Councilors:      None
+
+       AND APPROVED BY THE MAYOR                                            DAY OF JUNE, 2007
+
+                                                       |
+
+                                     SIGNED:
+                                                                 Robb E. Van Cleave, Mayor
+
+                                     ATTEST:                    yates                eseriga
+                                                                 Julfe   Krueger, MMC,City Clerk
+
+            |                                              |             [30 07-163: 52)
+                               GENERAL ORDINANCE NO. 07-1283
+
+                AN ORDINANCE AMENDING CHAPTER 13 OF GENERAL
+                ORDINANCE NO. 98-1222 ADOPTING NEW PROVISIONS FOR
+                REGULATIONS OF SIGNS, AND REPEALING GENERAL
+                ORDINANCE NO. 92-1153
+                                                         |
+        WHEREAS,     concerns have recently arisen congeming the potential impact of certain
+
+provisions in the City’s sign ordinance, number 92-1 153, upon development in the City, particularly
+
+the provisions concerning enforcement; and
+
+        WHEREAS,     City staff members consulted locall stakeholders, including business owners and
+
+citizens, and after reviewing the feedback received fromy the stakeholders, City staff prepared
+
+proposed amendments to the City’s sign ordinance; and
+
+        WHEREAS, on June 28, 2007, the City Planning Commission conducted a public hearing
+
+upon the proposed amendments to the City’s sign ordinance, and voted to recommend the Council
+
+approve the proposed changes; and
+
+        WHEREAS,      on July 23, 2007, the City Council held a public hearing on the proposed
+
+amendments to the City’s sign ordinance; and following the public hearing, the Council voted to
+
+direct staff to prepare an ordinance adopting a revised “en ordinance, as recommended by the
+
+Planning Commission, based upon appropriate findings pf fact and conclusions of law;
+
+       NOW, THEREFORE, THE COUNCIL OF THE CITY OF THE DALLES ORDAINS AS
+
+FOLLOWS:
+
+        Section 1. Findings and Conclusions.    The City Council finds that all procedural
+
+requirements for adoption of this legislative amendmentirequired by the Land Use and Development
+
+Ordinance have been satisfied. Public hearings upon the proposed amendments were conducted
+
+before the Planning Commission and City Council, and notices of the hearings were published in the
+
+newspaper as required. The Council finds that the requirement for notice of the hearings under ORS
+
+Page 1 of 2 - General Ordinance No. 07-1283                                             (1121,    WPERE
+
+                                                         VyBOO? O16 2 / yt reLPas
+                                                             |
+227.186 did not apply as the proposed amendments did not involve any
+                                                                     rezoning of property, as that
+
+term is defined in ORS 227.186.
+
+        Pursuant to Section 3.110.030 of the City’s Lang Use and Development Ordinance, proposed
+
+amendments to the text of the LUDO shall be consistent with the City’s Comprehensive Plan, and
+
+with state laws and Administrative Rules.      The City Council concludes the proposed amendments
+
+comply with applicable State Law and Administrative Rules. The City Council concludes that the
+
+proposed amendments comply with the provisions of the City’s Comprehensive Plan,
+                                                                                 particularly
+
+Policy 3 of Goal 1, which requires the land use process to include opportunity for citizen input as
+
+part of the basis for all decisions and actions relating to the use of the land. This policy was
+
+supported through the solicitation of input from local stakeholders, and the holding of two public
+
+hearings during which the public could offer testimony on the proposed amendments.
+
+        Section 2. LUDO Am endment Approved. Chapter 13 of the City’s Land Use and
+
+Development Ordinance, No. 98-1222, shall be amended by incorporating a revised Chapter 13, a
+
+copy of which is attached to this ordinance.
+
+        Section 3, Repeal. General Ordinance No. 92-1153, as amended by General Ordinance
+
+No. 03-1248, is hereby repealed.
+
+        PASSED AND ADOPTED THIS 10™ DAY OF DECEMBER, 2007.
+
+Voting Yes, Councilor:__@ood,      Broehl,     Dick,   Kovacich,      Wilcox
+Voting No, Councilor:__ None
+Absent, Councilor:         None
+Abstaining, Councilor:__   None
+
+        AND APPROVED BY THE MAYOR THIS 10™ DAY OF DECEMBER, 2007.
+
+                                                          ATTEST:
+
+Robb Van Cleave, Mayor                                    Juli’   Krueger, MMC, City Clerk
+
+Page 2 of 2 - General Ordinance No. 07-1283                  .                             (112107 07-1283.ord)
+
+                                                         fonor-ble 332)
+                                                             13-1
+
+Sign Regulations
+
+Section                                                             Page
+13.010             Introductory Provisions                          13-3
+
+13.020             Genera! Provisions and Pro¢edures                13-11
+
+13.030             Exempt, Temporary, Prohibited Signs              13-15
+
+13.040             Signs Permitted by Zone, District, Use           13-21
+
+13.050             Regulations by Sign Type                         13-26
+
+13.060             Maintenance, Construction, Safeguards            13-38
+
+13.070             Inspection, Enforcement, Variances               13-41
+
+13.080             Special Provisions                               13-47
+
+13.090             Exhibits                                         13-50
+
+                                                | /3009- E1630 82D
+       13-2
+
+(5007- os 8D
+                                                     13-3
+
+                           Section 13.010
+
+                  Introductory Pravisions
+
+Subsection
+
+13.010.010   Purpose                  |
+
+13.010.020   Scope
+
+13.010.030   Definitions
+
+                                            073009-WMCH, $5
+        13-4
+
+43009- D163 C$>)
+                                                                                           13-5
+
+13.010.010 Purpose
+                                                   |
+                                                     } necessary regulations for the erection
+The purpose of this section is to provide reasonableand
+and maintenance of signs in order to:              :
+
+       A.      Promote free and meaningful exchange of ideas and information.
+
+       B.      Protect the health, safety, property, and welfare of the public.
+
+       Cc.     Improve the neat, clean, orderly, and attractive appearance of the City.
+
+       D.      Improve the effectiveness of signs in identifying and advertising businesses and
+               facilities.
+
+       E.      Provide for the reasonable, orderly, and   effective display of outdoor advertising.
+
+       F.      Preserve, protect, and enhance the eco 1omic, scenic, historic, and aesthetic values
+               and objectives of the City and its citizens.
+
+       G.      Provide effective signing to meet the anticipated differing needs of various areas
+               in the City.
+
+13.010.020 Scope
+
+The provisions of this ordinance apply to all lands           within the City Limits of the City of The
+Dalles. The provisions of this ordinance apply to all lands outside the City Limits but within the
+Urban Growth Boundary of the City of The Dalles,    from the date of adoption of this ordinance
+by the Wasco County Court in accordance with the City/County   Joint Management Agreement.
+
+13,010.030 Definitions
+
+Words used in the present tense include the future, the singular number includes the plural, and
+word "shall" is mandatory and not directory, and the word "building" includes "structure" other
+than "sign structure”. Types of signs are described under the term "sign" unless the context
+otherwise requires:
+
+       Animation means any form of movement by electric, mechanical, or kinetic means
+       including, but not limited to rotation, revolving, or wind activation of all or a portion ofa
+       sign incorporating flashing or intermittent light for sign illumination or for changing the
+       message on a message sign.
+
+                                                                       p-3007- 0/63 l3x)
+                                                                                           13-6
+ Approved Plastic means a plastic approved by Underwriters                    Laboratory for use in
+ construction of electric signs.
+
+ Area means the total area of a sign, including all decorative or structural trim, facing
+ announcement, demonstration, display, illustration, or any other attention-getting device,
+ exclusive of essential structural supports.
+
+ Awning means a roof-like structure that extends from a building face, generally frame
+ constructed with a cloth or metal cover.           An awning contains a sign when a message is
+ incorporated by design or attached to the awning surface.
+
+ Building Front means the primary front of a building as viewed from the public street to
+ which it is orientated. The area of a building front is calculated as the height multiplied
+ by the width of the primary front.
+
+ Business means all of the activities carried on by the same legal entity on the same
+ premises   and   shall   include,   but   not be    limited   to charitable, fraternal,   benevolent,
+ educational, and social organizations.
+
+ Canopy means a permanent-roofed structure which may be free-standing or partially
+ attached to a building for the purpose of providing shelter to pedestrians or patrons in
+ automobiles but shall not mean a completely closed structure.
+
+ City means the City of The Dalles, Oregon.
+
+ Cutout means a display in the form of letters, figures, characters, representations, or
+ others in cutout or irregular form attached to or super-imposed upon an advertising sign.
+
+’ Director means the Director of the Community Development Department of the City of
+ The ‘Dalles, or the Director’s official designee, charged with the responsibility for
+ administration of this ordinance.
+
+ Display Surface means the area made available by the sign structure for the purpose of
+ displaying a message thereon.
+
+ Erect means to construct, paint, place, affix, or otherwise bring into being.
+
+ Electronic Reader Board means a sign designed to display electronic messages that
+ move, flash, or scroll, the content of which may be changed.
+
+ Incombustible Material means a material that will not ignite at or below a temperature
+ of 1200 degrees F. during an exposure of five minutes and which will not continue to
+ bur or glow at that temperature when tested in accordance with the UBC.
+
+                                                                00 9-Le3 (32
+                                                                                  13-7
+
+Low    profile building means    a building with a roof less than twelve feet above the
+sidewalk.
+
+Maintain means to allow to exist or _
+
+Marquee means a permanent roofed structur } attached to or supported by a building but
+does not mean a "canopy" as defined herein.
+
+Nonstructural Trim means a molding, batten, caps, nailing strip or stringer, lattice,
+cutout, letter or walkway attached to a sign structure.
+
+Person means    an individual, corporation, partnership, association, joint venture, or other
+legal entity.
+
+Projection means the distance which a projet ting sign extends from a building face or
+the distance by which any other type of sign extends over public property.
+
+Roof Line means the line which marks the highest point of the vertical front of a building
+in the case of a false front or the line where the roof is joined to the vertical front wall of
+the building in other cases.
+
+Shopping Center means a building or group of buildings planned and developed as a
+center on land with two or more retail business occupancies existing or planned. A
+"shopping center" shall not include a business which fronts on an arterial or collector
+street and which has a marked segregated parking or use area separate from the shopping
+center parking. Two or more businesses not otherwise qualified may voluntarily join to
+form a "shopping center" by executing a form) provided by the Director including written
+consent of the owner or owners of the premises, including a provision for removal of
+nonconforming signs if the "shopping center" is discontinued.
+
+Sign means any sign, display, message, light (other than lighting designed primarily for
+the illumination of premises), emblem, device, figure, mannequin, painting, drawing,
+placard, poster, or other thing that is designed, used, or intended for an advertising
+purpose and includes, where applicable, the sign structure, display surface and ‘all
+components of the sign. "Sign" includes, but is not limited to:
+
+         1.     “Abandoned Signs” means where a sign for an advertised business is no
+                longer conducted in or upon the premises on which a sign is located, such
+                sign shall be considered as an abandoned sign subject to removal by the
+                person who owns the sign or the owner of the building, structure, or
+                premises on which the sign is lacated. The following are not considered to
+                be abandoned sign:
+
+                a)     An advertising sign where a person has merely leased or contracted
+                       advertising space thereon.
+
+                                                           0°3069- 6163 (82)
+                                                                               13-8
+
+      b)      A sign to which the suboessor to a person's business location or
+              business agrees to maintain as provided in this section by the filing
+              of a letter of intent            with the Director    within   30 days    after
+              notification of a violation      of this provision.
+
+      “Advertising    sign"   means     a ‘sign     which    advertises   goods,   products,
+      business or services which are not sold, manufactured or distributed on or
+      from the premises or facilities on which the sign is located.
+
+      "Building directory" means a Sign giving the name and room number or
+      location of the occupants of a building.
+
+      “Directional sign" means an on-premise sign designed to be read by a
+      person already on the premises and used only to identify and locate an
+      office, entrance, exits, motor yehicle route, telephone, or similar place,
+      service or route.
+
+      “Electric sign" means a sign containing electrical wiring.
+
+      "Flush sign” means a sign ergcted on the face of a building, marquee,
+      canopy, or roof overhang in a place parallel to such face and not extending
+      more than 12 inches therefrom.| A "flush sign" also includes a sign erected
+      against supporting or ornamental columns supporting an overhanging roof
+      in a place generally parallel to the nearest building face.             An "attached
+      flush sign" is a flush sign which does not extend beyond the comers of a
+      building and is located under the eaves.
+
+      "Free-standing sign" means an:on-premise sign supported by one or more
+      uprights or braces in the ground and detached from any building or
+      structure.
+
+      "Message     sign" means        a sipn     providing    information    by means      of
+      sequential illumination of lights contained in or upon the sign.
+
+      "Motor vehicle directional sign" means a sign identifying motor vehicle
+      entrances or exits to or from the premises on which the sign is located.
+
+10.   "Nonconforming      sign"   means      a sign which      does not conform        to the
+      provisions of this ordinance.
+
+Lh.   "On-premise sign" means a sign           which advertises only the businessor the
+      goods, products, or facilities        Iqcated on the premises on which the sign is
+      located or the sale, rent, or =       at the premises.
+
+                                                            O23 009-blo2l 32)
+                                                                                13-9
+        12.    "Principal sign” means the primary permanent on-premise sign designed
+               to identify or advertise a business or facility to motorists or pedestrians
+               approaching the business or fadility.
+
+        13.    "Projecting sign" means a sign    other than a flush sign which projects
+               beyond the building face to whjch it is attached.
+
+        14.    "Roof sign"   means    a sign   erected upon   the roof of a building,   roof
+               structure, or a flat canopy or marquee roof.
+
+        15.    "Secondary sign” means a free-standing sign on the premises where the
+               building is set back from the frm property line, as hereinafter specified.
+
+        16.    "Secondary marquee sign" means a marquee sign located only on an alley
+               and under a canopy or flush to the building.
+
+        17.    "Secondary wall sign" means an incidental, permanent, on-premise flush
+               sign.
+
+        18.    "Temporary sign” means a sign, banner, balloon, pennant, valance, or
+               advertising display constructed principally of cloth, paper, cardboard,
+               plywood, wood, wallboard, plastic, sheet metal, or similar light weight
+               materials with or without a frame and which is not permanently affixed to
+               any sign structure, sign tower, pole or building. Except for a balloon,
+               banner, pennant or valance constructed of cloth, flexible light weight
+               plastic, paper or cardboard, temporary signs shall be limited to signs
+               displayed five feet or less above ground level.
+
+        19.    "Under marquee     sign" means    a sign erected under and supported by a
+               marquee or canopy.
+
+       20.     “Unsafe sign” means any sign deemed to be unsafe by the Director.
+
+Street Frontage means a lot line fronting on a street or highway. The width along such
+lot line must be at least 50 feet to qualify as a "street frontage", unless the premises has
+only one such frontage. Access to a street or highway is not required to establish a "street
+frontage" on a lot line fronting on a limited-access highway.
+
+Uniform Building Code means the Uniform Building Code as adopted by the State of
+Oregon.                                 |
+
+Urban Growth Boundary means the boundary established as the outer limit for urban
+growth, as acknowledged by the Oregon’ Land Conservation and Development
+Commission.
+
+                                                              (He7 163 (82)
+                                                                    13-10
+
+Zone means   a zone established pursuant ta the City’s Land Use and Development
+Ordinance, General Ordinance No. 98-1222.
+
+                                                      /fe09- oles (22)
+                                                       13-11
+
+                             Section 13.020
+
+                 General Provisions and Procedures
+
+Subsection                                           Page
+13.020.010   Sign Permit                             13-13
+13.020.020   Permit Fee                              13-13
+13.020.030   Permit Exceptions                       13-13
+13.020.040   Permit Procedure                        13-13
+
+13.020.050   Measurement                 |           13-14
+       13-12
+
+f300 9- Of63 ($2)
+                                                                                        13-13
+
+13.020.010 Sign Permit
+
+No sign shall hereafter be erected, re-erected, constructed, altered or maintained until a sign
+permit has been issued, unless no permit is required    under Section 13.020.020. Where a group of
+signs is to be erected on the same building at the sam¢ time, each sign requires a separate permit.
+The application procedure is set forth in Section 13.040.040.
+
+13.020.020 Permit Fee
+
+Before a sign permit is issued, a permit fee therefore shall be paid to the City.   The City Council
+may, at any time, adopt a resolution to set or adjust sign permit fees.
+
+13.020.030 Permit Exceptions
+
+A sign permit shall not be required for routine maifitenance, such as repainting and repair of
+existing signs.  Exceptions are also made for exempt signs listed in Section 13.030.010.
+However, a permit is required for a change of business name or any structural alteration to an
+existing sign.
+
+13.020.040 Permit Procedure
+
+       A.      Installer shall consult with the Director and where appropriate will be provided
+               with a sign permit application.
+
+       B.      The completed application shall be! submitted with the appropriate fee and
+               drawings to indicate the dimension,} location, and height of all existing and
+               proposed signs for the subject business,
+
+       Cc.     Electric signs shall require notations to indicate capacity, power consumption, and
+               shall bear U.L. approval labels. A permit for an electric sign will not be issued
+               until an Oregon State Building Codes electrical permit is presented to the
+               Director.
+
+       D.      The Director may require additional information, such as photographs, needed to
+               determine whether the proposal meets if requirements of this section.
+
+       E.      The completed application shall include proof the installer is a licensed contractor
+               with the State of Oregon Construction Contractor’s Board.
+
+       F,      The Director will determine when the application is complete. The permit will be
+               approved or denied within fifteen (15) days from the submittal date, unless
+               referred to a City Commission as herein provided. Variances and appeals will be
+               processed as set forth in Section 13.070.100.
+
+                                                                 J3009-0/63 (3)
+                                                                             7                 13-14
+
+       G.      When approved, a permit shall be issued           by the Director with the name of the sign
+               installer thereon.     The sign installer s fall retain the permit for inspection during
+               construction.
+
+       H.      Sign applications shall expire sixty (60) days after approval unless a sign permit
+               has been issued.       If signs are not installed within sixty (60) days after
+                                                                                         a    issuance,
+               the sign permit shall expire.
+
+13.020.050 Measurement
+
+All signs shall be measured to include the entire sign area as follows.                  The area of a sign
+composed of individual block letters and/or individual decorative devices, displays, illustration,
+etc. or other attention-getting device, shall be the area included between two sets of horizontal
+and vertical lines as follows:
+
+       A.      The horizontal line shall be contiguous to the top and bottom edges of the farthest
+               projecting elements; and
+
+       B.      The vertical    line    shall   be   contigudus    to the   furthermost    projecting   lateral
+               elements.
+
+       (on     Single signs with display faces on two Isides shall be measured on one face. only.
+
+                                                                        (3009-6103( 52)
+                                Section 13.930
+
+                Exempt, Temporary, Prohibited Signs
+
+Subsection
+
+13.030.010   Exempt
+
+13.030.020   Temporary Signs
+
+13.030.020   Prohibited Signs
+      13-16
+
+//3009-blo3( 92)
+13.030.010 Exempt Signs
+
+Unless determined by the Director to be a hazard to motorists, pedestrians, or property, the
+following signs are exempt from the permit process, but shall comply with the safe erection and
+maintenance standards of Section 13.060, and with all specified standards of this Section.
+
+       A.      Benches with advertising thereon if approved by the Planning Commission.
+
+       B.      Building Directory Signs. Building directory signs       are permitted in shopping
+               centers and multi-tenant buildings.
+
+       Cc.     Christmas or seasonal decorations as customarily used.
+
+       D.     Community Interests may be identified by the City on a temporary or permanent
+              basis.   Such signs may promote, but are not limited to the promotion of:
+              community events, public parks, and points of interest that serve a substantial
+              public purpose.
+
+       E.     Directional sign erected by public authority.
+
+       F.     Flags of United States, State of Oregon, United States or State of Oregon Military
+              Service, foreign countries, United Wations, or civic, fraternal, veterans, or
+              charitable organizations.
+
+       G.     Garage Sale Signs. These signs are allpwed, one per calendar month to a premise,
+              with a maximum of three square feet in area. Signs shall not be posted in excess
+              of 72 hours in duration.
+
+      H.      Historic Landmark signs that are erected by the City or the owner of a historic
+              building or placed in accordance with an official historic designation.
+
+       L      House or building numbers limited to six inches in height for dwellings of four or
+              less families and one foot in height for other buildings.
+
+       J.     Murals which are mounted or painted upon an existing building or structure and
+              which do not advertise a product or service for sale.
+
+       K.     Name sign denoting the name of the owner or occupant, limited to two square feet
+              in sign area.
+
+       L.     Non-illuminated directional and motor yehicle directional signs    painted    on
+              paving or otherwise limited to a maximum height of four (4) feet and a sign area
+              of eight (8) square feet, and prohibited in residential zones.
+
+                                                                 f}009- Wea $2)
+                                                                                       13-18
+
+      M.     Official _sign. traffic sign, or traffic signal including, but not limited to, a sign
+             identifying a public building or use ot erected by a public officer performing an
+             official duty under law, court, or administrative officer.
+
+      N.     Permanent building identification limited to 24 square feet in a sign area and
+             prohibited in residential zones.
+
+      oO.    Permanent Political, Ideological, Religious Signs which convey a message but
+             which do not advertise a product or service for sale, provided such signs shall be
+             subject to all sections and regulations concerning size, placement, materials, and        -
+             the type and soundness of supporting structure.
+
+      P.     Signs located inside a building unle BS such sign is prohibited under Section
+              13.030.020.
+
+      Q.     Street banners approved by the City        Manager advertising a public entertainment
+             or event and conditioned upon safe ereption and maintenance and such conditions
+             as the City Manager may       attach including, but not limited to, insurance and
+             bonding.
+
+      R.     For Sale Signs. A temporary "For Sale" sign not exceeding 6 square feet in area
+             with a maximum height of 4 feet, may be erected upon private property, provided
+             that it advertises the sale, lease, or rental of the property upon which it is erected.
+             One additional "For Sale” or “Open House" sign limited to the same size.
+
+      Ss.    Political campaign signs shall be erected only on private property, and (1) be
+             limited to a sign area of 16 square feet and a maximum horizontal dimension of 8
+             feet; (2) placed 10 feet inside propertyilines when located within 10 feet of
+             intersecting street or alley property lines; and (3) maintained in a neat, clean, and
+             attractive condition. Signs may be erected during the campaign for a period of 60
+             days prior to the election in which candidates or issues are to be voted upon.
+             Such temporary signs shall be removed) not later than the fifth day following the
+             election.
+
+      T.     Subdivision Signs.    A temporary subdivision sign may be erected upon a tract of
+             land designated as a subdivision advertising sale of the tract or lots in the tract.
+             Such signs are only allowed for up tg five years after approval of subdivision.
+             Such sigus shall not exceed 42 square /feet in area.     The sign shall be reduced in
+             size by 6 square feet for each lot less than 7 lots in the subdivision.
+
+      U.     Waming sign erected to warn the public of a danger on, or limiting access to
+             public and private property, limited to a maximum width dimension of two feet, a
+             maximum sign area of four square feet,;and maximum height of six feet.
+
+13.030.020 Temporary Signs
+
+                                                                J3609- ox 32)
+                                                                                              13-19
+
+       A.      Nonprofit signs identifying or advertising a nonprofit civic, charitable, or
+               benevolent event complying with the same requirements as temporary signs to be
+               used for promotional purposes, except no permit is required.
+
+       B.      Commercial and promotional signs may be used only on private property and
+               subject to the following:
+
+               1.      A permit is required for all temporary signs.
+
+               2.      Temporary    signs may       be erected for a period not to exceed        two weeks
+                       before the event advertised.
+
+               3.      No more than one "sandwich board" or "A frame" a maximum                    of 5 feet
+                       above ground level shall be allowed for each premises.
+
+               4.      A balloon, banner, pennant or valance constructed of cloth, flexible light
+                       weight plastic, paper or cardboard will be permitted for a period of seven
+                       (7) consecutive days in any month and then removed for a minimum of
+                       twenty-two (22) days or the remainder of the month.
+
+13.030.030 Prohibited Signs
+
+No sign shall be erected or maintained which:
+
+       A.      Bears or contains statements, words or pictures of an obscene,                  indecent,   or
+               immoral character, such as will offend the public morals or decency.
+
+       B.      Extends or is erected, (such as a roof gign) above the roof line of the building to
+               which it is attached, except as provided: in Section 13.050.060.
+
+       Cc.     The Director determines to be creating confusion with or interfering with the
+               effectiveness of traffic signs or signals.
+
+       D.      Is placed on, affixed to, or painted on a motor vehicle, vehicle, or trailer and
+               placed on public or private property for the primary purpose of providing a sign
+               not otherwise permitted by this ordinance.
+
+       E.      Is a private sign placed on, painted on, or affixed to any utility pole, tree, or rock.
+
+       F,      Is located   in an   area   of the    City   zoned   residential,   except   for those   signs
+               designated in Sections 13.030.010, 13.040.010 and 13.040.040.
+
+                                                                        (300 7- 0163 (3Gs.)
+                                                                   13-20
+
+By use of lights or illumination, creates an unduly distracting or hazardous
+condition to a motorist or pedestrian. No exposed reflective-type bulb, spot, or
+incandescent lamp shall exceed 30 watt capacity.
+
+Is otherwise in violation of any provision of this ordinance.
+                                                           13-21
+
+                                Section 13.040
+
+                Signs Permitted by Zone, District, Use
+
+Subsection                                                Page
+
+13.040.010   Residential                                  13-23
+
+13.040.020   Neighborhood Commercial                      13-23
+
+13.040.030   Recreational Commercial                      13-23
+
+13,040.040   Community Facility Overlay     |             13-23
+
+13.040.050   Central Business                             13-24
+
+13.040.060   General Commercial                           13-24
+
+13.040.070   Industrial                                   13-24
+
+13.040.080   Highway District                             13-25
+
+13.040.090   Shopping Centers                   |         13-25
+
+                                                    23009-0163 (V2)
+O)3.007-Oe3 Li b>)
+                                                                                                                  13-23
+
+13.040.010 Signs in Residential Zones
+
+These   areas are not zoned      for commercial          use, but are permitted the following non-animated,
+non-illuminated signs.                                                                              :
+
+        A.      One four (4) square foot flush sign for homes with approved home occupation
+                permits.
+
+        B.      Community Facility signs permitted by Section 13.040,040.
+
+        Cc.     Multi-family housing complexes with at least four dwellings are allowed a flush
+                or a free-standing sign no more than eight feet above grade, as follows.
+
+                          Number of dwelling units                   Sign area
+                          4to 8                                 12 square      feet
+                          9 to 15                               24 square      feet
+                          16 to 24                              32 square      feet
+                          25 or more                            48 square      feet
+
+13.040.020 Signs in Neighborhood Commercial Zones
+
+These   areas   are   zoned     for   limited        commercial        juse   and     are     surrounded     by     residential
+neighborhoods, and are permitted the following signs.
+
+        A.      Flush signs only, equal to twenty-five                 Jercent of the building front.
+
+        B.      A secondary sign if the building is set back at least 20 feet from the property line,
+                a maximum 32 square feet of sign area not to exceed 8 feet in height above street
+                grade.
+
+13.040.030 Signs in Recreational Commercial Zones
+
+These areas are zoned         for limited        recreational   andj    commercial          uses,   and   are permitted     the
+following signs.
+
+        A.      The      same    signs      as      allowed     in     the    Neighborhood              Commercial        Zone,
+                Section13.040.020; and
+
+        B.      A free-standing principal sign for non-advertising community uses, such as a park
+                sign, with a 48 square foot limit, not to exceed 8 feet above grade.
+
+13.040.040 Signs in Community Facilities Overlay Zanes
+
+                                                                                    63007-0163 (92)
+                                                                                                   13-24
+These areas are zoned for community facility uses as an overlay to the primary (residential,
+commercial, etc.) underlying zone. Signs for the putpose of identification of a public or private
+facility which serves a substantial public purpos                  including, but not limited to, churches,
+schools, hospitals, medical offices, clinics, radio/television stations and utility substations are
+permitted as follows.
+
+         One flush or free-standing sign not to exceed 48 square feet in area. The top of a free-
+         standing sign shall not to exceed 8 feet above grade.
+
+13.040.050 Signs in Central Business Zones
+
+These aseas are zoned for a variety of retail and service business uses, and are allowed the
+following signs.
+
+         A.        One principal sign, either flush, projecting, or free-standing. If projecting or free-
+                   standing, limited to one square foot for each linear front foot of the major street
+                   frontage of the property with a maximum of 100 square feet, and subject to the
+                   Tequirements of Section 13.050.030.
+
+         B.        A secondary sign if the building is setback over 20 feet from the property line, a
+                   maximum of 35 square feet of sign prea not to exceed 20 feet in height above
+                   street grade.
+
+13.040.060 Signs in General Commercial Zones
+
+These areas are zoned for a variety of retail, wh lesale, and service business uses, and are
+allowed the following signs.
+                                                                        ,
+        A.         The     same   principal   signs   as allowed   in the    Central   Business   Zone,    Section
+                   13.040.050.                        .
+
+        B.         A secondary sign if the building setback is 50 feet, a maximum of 50 square feet
+                   of sign area not to exceed 20 feet in height above street grade.
+
+13.040.070 Signs         inLight and Heavy     Industrial and      Manufacturing   Zones
+
+These areas are zoned for a variety of industrial, manufacturing, and limited commercial and
+residential uses. The following signs are allowed.
+
+        A.         The same principal signs as allowed in the Central Business Zone, Section
+                   13.040.050.                                                 :
+
+                                                                                   f009- 0le3C2)
+                                                                                         13-25
+       B.        A secondary sign if the building setback is 50 feet, a maximum of 50 square feet
+                 of sign area not to exceed 20 feet in height above street grade.
+
+13.040.080 Signs in the Highway District
+
+This district was formed to allow greater visibility of signs proximate to primary and secondary
+highways.   For the purposes of this section the Highway District is described as follows:
+
+                 All land within 100 feet of each right of way line of U.S. Highway I-84N from the
+                 West Urban Growth Boundary (UGB) to the East UGB, and Oregon State
+                 Highway No. 292 (West Second Street) from its intersection with Webber Street,
+                 westerly to the UGB.
+
+       The following signs are allowed in the Highway District.
+
+       A.        The same principal signs as allowed in the Central Business Zone, Section
+                 13.040.050, except that a free-standing sign may have a maximum area of 250
+                 square feet, given one (1) square foot) of sign area per linear foot of major street
+                 frontage.
+
+       B.        A secondary sign if the building is set back at least 50 feet from the property line,
+                 a maximum of 50 square feet of sign area with a maximum height of 20 feet
+                 above grade.
+
+13.040.090 Signs for Shopping Centers in scoroptat Zones
+
+        Retail    shopping   centers   are generally located   in the Central Business   and     General
+        Commercial Zones, and are allowed the following signs:
+
+                 Each tenant is allowed flush signs at a maximum of twenty-five percent of the
+                 building front. Only one free-standing sign permitted for the center, with the
+                 same area and height allowances provided for in the Highway District (250 square
+                 foot area and 40 foot height maximum).
+
+                                                                    ‘3009- 13 lS)
+                                                              13-26
+
+                                Section 13.   50
+
+                         Regulations by Sign Type
+
+Subsection                                                   Page
+
+13.050.010    Principal Sign                                 13-28
+13.050.020    Secondary Sign                                 13-28
+13.050.030    Free Standing and Projecting                   13-28
+13.050.040    Flush                                          13-28
+13.050.050    Message                                        13-29
+13.050.060    Roof                                           13-30
+13.050.070    Secondary Marquee                              13-30
+13.050.080    Home Occupation                                13-30
+13.050.090    Service Station                                13-30
+13.050.100    Menu Board                                     13-30
+1 3.050.110   On-Premise                                     13-30
+13.050.120    Secondary Frontage                             13-30
+13.050.130    Electric                                       13-31
+13.050.140    Animated                                       13-31
+13.050.150    Off-Premise                                    13-31
+13.050.160    Sidewalk Signboards                            13-32
+
+                                                    L3007-    LYe3    (82)
+—   ba009- 0/6309)
+                                                                                           13-28
+
+13.050.010 Principal Sign
+
+A principal sign is limited to a combination, free-stan ding, flush, or projecting sign.
+
+13.050.020 Secondary Sign
+
+A secondary sign is a free-standing sign on the premises where the building is setback from the
+front property line.
+
+13.050.030 Free-Standing and Projecting Signs
+
+Such signs shall be located in conformity to the Zoning Ordinance of the City of The Dalles.
+
+        A       A free-standing sign shall not exceed a maximum height of forty feet above the
+                street grade.
+
+        B.      Signs may project twelve inches over an alley with a minimum clearance of
+                fourteen feet above grade and may project an additional twelve inches for each
+                twenty-four inches of additional clearance above grade, to a maximum projection
+                of thirty-six inches.
+
+       Cc.      Except in alleys.or other areas of vehicular traffic, a minimum of eight feet
+                clearance shall be maintained from  the bottom of a projecting or free-standing
+                sign, and the level of the sidewalk or le immediately below at the building line
+                with a maximum projection of 12 inches. For each additional projection of 6
+                inches the sign shall ‘have 12 inchesi of vertical clearance above the eight foot
+                minimum requirement (see diagram on last page). In no case shall the maximum
+                projection exceed five feet nor shall any sign extend closer to the street or alley
+                than two feet from the outer curb face.or two feet from the traveled surface where
+                no curb is present.
+
+       D.       Unless approved by the Director for a minimum number of braces on a building
+                face not able to support a projecting sign, no projecting signs shall be supported
+                by a frame commonly known as an. "A-frame" or other visible frame located on a
+                building roof.
+
+       E.       To insure traffic safety, signs shall be located in accordance with the "Clear
+                Vision Area" provisions of the City's Land Use and Development Ordinance,
+                General Ordinance No. 98-1222.
+
+13.050.040 Flush Signs
+
+                                                                       /3009- 0163082)
+                                                                                        13-29
+Flush signs shall comply with the following standards and specifications;
+
+       A.      Maximum Area
+
+               1.     Residential Zones. Two square feet in area. Multi-family complexes are
+                      allowed larger signs in accordance with Section 13,040.010 (3).
+                                                      I
+                                                      i
+
+               2.      Shopping Centers.   Twenty-five percent of building front maximum.
+
+               3.     Neighborhood Commercial Zanes.           Twenty-five percent of building front
+                      maximum.
+
+               4.     Central Business Zones.   Fifty percent of building front maximum.
+
+               5.     General Commercial and Industrial Zones.        Fifty percent of building front
+                      maximum.
+
+               6.     Highway District. Fifty percent of building front maximum.
+
+               7.     Recreational Commercial     Zone.       Twenty-five percent of building front
+                      maximum.
+
+               8.     Community Facilities Overlay Zone.        48 square foot maximum.
+
+       B.      Placement and Projection
+
+               1.     The total sign area of all exterior walls shall not exceed the maximum
+                      allowed under Section 13.050.040 (A).
+
+               2.     Flush signs may be erected i          face of a building, marquee, canopy, or
+                      roof overhang  in a place paralldl to  such face and not extending more than
+                      12 inches therefrom, except that:
+
+                      a.   A flush sign may be erected against supporting or ornamental
+                           columns located under an overhanging roof in a place generally
+                           parallel to the nearest building face.
+
+                      b.   A flush sign may be attached to the surface of an awning without
+                           further projection therefrom.
+
+13.050,050 Message Signs
+
+Message signs are limited to stationary time, date, temperature signs, or rotating signs with a
+maximum speed of seven revolutions per minute.
+
+                                                          |            J300 9. O6 Vo 6)
+                                                       ,               i                13-30
+13.050.060 Roof Signs
+Roof signs are permitted only on low profile buildings     and the top of roof signs shall not extend
+more than twelve (12) feet from sidewalk grade.        |
+
+13.050.070 Secondary Marquee Signs
+
+Secondary marquee signs shall not be over eight (8) square feet in area, shall be located under a
+canopy or flush in an alley with a minimum of 7 % feet clearance.
+
+13.050.080 Home Occupation Signs
+
+Home occupation signs are permitted in the residential district, not to exceed four square feet in
+area and flush mounted.
+
+13.050.090 Service Station Island Signs
+
+; Signs in
+         i addition to principal and secondary signs to designate the type of fuel, or a promotional
+  sign for fuel only, and signs indicating fuel price are allowed at the rate of four (4) square feet
+  maximum per pump island. In addition, one sign designating fuel prices may be attached to a
+pole with the top of the sign not to exceed twelve (12) feet above ground level, with a maximum
+area of thirty-two (32) square feet.
+
+13.050. 100 Restaurant Menu Board
+
+Signs in addition to principal and secondary signs for a restaurant with a drive through window
+are allowed; no more than two (2) menu boards got to exceed 32 square feet each, with a
+maximum height of 8 feet.
+
+3.050.110 On-Premise Signs
+
+All on-premise signs must utilize at least fifty percent (50%) of the sign area for advertising the
+main business on the premises. Signs that contain more than 50% off-“premise advertising shall
+be regulated under Section 13.050.150.
+
+13.050.120 Secondary Street Frontage Signs
+
+Secondary frontage signs shall be of a flush type only.     Size limits for secondary frontage flush
+signs are those given in Section 13.050.040.
+
+                                                                     [960 9- 0/03(&)
+                                                                                           13-31
+13.050.130 Electric Signs
+
+Electric signs shall bear the Underwriters Laboratories, Inc. seal of approval.     All electrical signs
+shall be installed in accordance with the National Electric Safety Code as regards distances from
+electrical line. Electrical equipment used in connection with display signs shall be installed in
+accordance with the City ordinances regulating electrical installations.
+
+13.050.140 Animated Signs
+
+Except for message signs of the type giving time and temperature information, or signs rotating
+at a speed not to exceed 7 rpm’s, no sign which has any mechanical moving, revolving, rotating,
+or animated parts are allowed.
+
+13.050.150 Off-Premise Advertising Signs
+
+Advertising signs shall be located only in General             Commercial   and   Industrial   Zones,   as
+designated by the City Zoning Ordinance.
+
+       A.      The maximum height above grade shall be 24 feet, but shall be increased to 40
+               feet in the Highway District.
+
+       B.      Outdoor advertising signs shall have metal primary structural members.
+
+       C.      Size
+
+                1,     Primary and Secondary Highways. The maximum number of advertising
+                       signs shall not exceed 8 per mile with no more than 5 on one side of the
+                       street and no closer than 500 feet apart when measured at right angles to
+                       the street or highway centerline to which the sign is oriented. Sign area
+                       shall not exceed 672 square feet, with maximum dimensions of 14 feet
+                       vertical and 48 feet horizontal.)
+
+               2.      City Streets. The maximum nbmber of advertising signs shall not exceed
+                       8 per mile with no more than 5 on one side of the street and no closer than
+                       300 feet apart when measured at right angles to the street centerline to
+                       which the sign is oriented. Sign area shall not exceed 288 square feet,
+                       with maximum dimensions of 12 feet vertical and 24 feet horizontal.
+
+                                                           |      $3009 oes C3 72)
+                                                                                               13-32
+13.050, 160 Sidewalk Signboards
+
+Sidewalk signboards are allowed for any business injthe Central Business Commercial zone,
+whenever there is a minimum of six feet (6”) of cleag concrete sidewalk passage, excluding
+pavers.                                                       |
+
+          A.         Size
+
+                     Sidewalk signboards shall not exceed:the following dimensions (see diagram):
+
+                              a)      Width = twenty-five inches (25”);
+
+                              b)      Height = forty-five inches (45”);
+
+                              c)      Base spread = twenty-gix inches (26’).
+
+          B.         Number
+
+                     One (1) sidewalk signboard per business is allowed. More than one (1) business
+                     can be listed on a sidewalk signboard.
+
+          ion        Placement
+
+                     1.       Sidewalk signboards shall be located adjacent to the property occupied by
+                              the business; no offsite sidewalk signboards are allowed.
+
+                     2.       Sidewalk signboards shall not be placed closer than three feet (3’) from ;
+                              the entrance to the business orstorefront, measured from the nearest door
+                              edge to the near edge of the sign   (see diagram).
+
+                     3.       Sidewalk signboards shal! not be placed closer than three feet (37) from
+                              the edge of the property line, measured from the nearest property comer to
+                              the near edge of the sign (see diagram).
+
+                     4.       Sidewalk signboards shal] be placed at least six feet (6) apart, measured
+                              from the near edge of one sign to the near edge of the other sign.
+
+                     5.       Sidewalk signboards shall not be placed in front of murals, except where
+                              the bottom of the mural is above the top of the sidewalk sign.
+
+                     6.       Sidewalk signboards shall not be allowed in alleys.
+
+          D.    _—   Hours of Display
+
+                     Sidewalk signboards shali only be displayed during business hours. The signs
+                     shall be moved indoors when the business is closed. In the case where multiple
+
+                                                                              f9007- CHG)
+                                                                                   13-33
+businesses are displayed on a single sidewalk signboard, only one (1) of the
+businesses needs to be open for the sidewalk signboard to be displayed.
+
+Attachments
+
+No extraneous fixed or moving attac        ments shall be placed on any sidewalk
+signboard.
+
+Materials
+
+ 1.      The following materials are acceptable for use in the construction of
+         sidewalk signboards:
+
+                 a)        Medium-density overlay (MDO) plywood or material of
+                 similar quality;          |
+
+                 b)        Lusterboard or material of similar quality;
+
+                 c)        Marlite or material of similar quality;
+
+                 d)        Exterior-grade plywood with a veneer grade of not less
+                 than A;
+
+                 e)        Whiteboards, blackboards, and grease-pen boards.
+
+         Exposure 1 and Interior grade         plywood shall not be allowed.       Veneer
+         grades B, C-Plugged, C or D shall not be allowed.
+         No sandbags, concrete blocks,         scrap metal, or other similar materials shall
+we
+
+         be used to stabilize any sidewalk signboard.                          ;
+
+         Staples, zipties, thumbtacks, and other similar materials shall not be
+         allowed in the assembly of the sidewalk signboard, nor to affix materials
+         to said sign.
+
+Design
+
+         Signboards shall not be lighted in any manner, other than incidentally by
+         other lighting.
+
+         No neon or fluorescent colors shall be allowed.
+
+         Sidewalk signboards shall be secured against the wind, in order to keep
+         the signs from falling over and to keep applied materials from blowing
+         away.
+
+         Any and all lettering and/or other display information shall be applied in a
+         professional manner, that is, be of a quality that would be provided if the
+
+                                               fott?- Wer ($2)
+                                                                        13-34
+       sidewalk signboard was created by a professional sign-making company.
+
+5.     For base & frame-type signs, the height of the base pad cannot exceed
+       one-quarter inch (1/4”) for the/first ten inches (10”) from either leading
+       edge (see diagram).
+
+6.     Sidewalk signboards in The Dalles Commercial Historic District and
+       Trevitt’s Addition shall adhera to design standards set forth in the
+       document entitled “Design Guidelines for The Dalles Commercial Historic
+       District and Trevitt’s Addition”.
+
+Maintenance
+
+Signs must be kept in a state of good repair and condition, and free from the
+following conditions:
+
+               a)        Rust;
+
+               b)        Chipped or peeling paint;
+               c)        Delaminating or peeling materials;
+
+               4)        Scratched materials;
+
+               e)        Faded, smudged, smeared, or streaked images or lettering;
+
+               f)        Missing hardware;
+
+               8)      Poor craftsmanship or construction that would cause the
+               sign to be structurally unsound and thereby pose a health or safety
+               hazard;
+
+               h)        Any other condition that the Director of the Community
+               Development Department        deems to be contrary to the purposes of
+               promoting visually-appealing and structurally-sound signage.
+
+Fees
+
+The one-time fee for a sidewalk signboard permit shall be the amount established
+by City Council by resolution. The fee and permit are not transferable to other
+sidewalk signboards.
+
+Enforcement
+
+The following notice and enforcement;standards shall apply to the
+placement and display of sidewalk signboards.
+
+                                         |      Y3.009- O16 AD
+                                                                 13-35
+For purposes of administering the provisions of section 13.050.160(10),
+the City Manager shall appoint appropriate staff persons.
+
+An unsafe sidewalk signboard shall be defined as a sidewalk signboard
+that violates any of the following provisions
+
+a)      Any size standard set forth in section 13.050.160 (A);
+
+b)      Any placement standard set forth in section 13.050.160 © (1)
+        through (6);
+
+c)      The design standards set forth in section 13.050.160 (G) (3) or (5);
+        or
+
+d)      Any maintenance standard set forth in section 13.050.160 (A) (a)
+        through (h), such that the condition of the sign poses a danger to
+        the health or safety of the public.
+
+In the case of a sidewalk signboard which has been determined to be
+unsafe, the authorized staff person shall immediately attempt to give
+verbal notice of the violation to the owner or owners of the business(es)
+that the sidewalk signboard advertises, or to an on-site employee of the
+business(es). In the event the responsible person(s) who is provided notice
+under this section refuses to correct the violation immediately, the
+authorized staff person shall refnove or cause others to remove and
+impound the sign.
+
+In the case of a sidewalk signbpard which is displayed during non-
+business hours, the authorized staff person shall issue a written notice of
+the violation. The notice shall be given to the owner or owners of the
+business(es) that the sidewalk signboard advertises, and shall be either
+delivered personally or by certified mail, return receipt requested, sent to
+the owner’s last known address of record. The notice shall require
+correction of the violation within five (5) days from either the date of
+personal delivery of the notice, or the date of mailing of the notice.
+
+a)      If the violation is not corrected within the five (5) day period, the
+        authorized staff person shall send a second written notice of
+        violation, by certified mail, return receipt requested, to the owner
+        or owners of the business(es) that the sidewalk signboard
+        advertises, indicating   that the sidewalk signboard may be
+        impounded if the violation is not corrected within five (5) days
+        from the date of mailing   of the notice.
+
+b)      If the violation remains! after issuance of the second notice, the
+        authorized staff person may remove or cause others to remove and
+        impound the sidewalk signboard.
+
+                                                    Al09- He2 (82)
+                                                                   13-36
+
+For other sidewalk signboards       which have been determined not to conform
+to the provisions of this section, the authorized staff person shall issue a
+written notice of non-compliance. The notice shall be given to the owner
+or owners of the business(es) which the sidewalk signboard advertises.
+The notice shall either be delivered personally to the business owner(s), or
+sent by certified mail, return receipt requested, to the business owner(s) at .
+the owner’s last known address of record. The notice shall set forth the
+nature of the violation, and shall require the violation be corrected within
+fifteen (15) days from either the date of personal delivery or the date of
+mailing of the notice, unless the time for compliance is extended for good
+cause shown. Ifthe non-conforming sign is not brought into compliance
+within the required time period, the authorized staff person may remove or
+cause others to remove and impound the sidewalk signboard.
+
+Upon impoundment of a sid             signboard under the provisions of
+subsections (3), (4), or (5) of this section, the authorized staff person shall
+post 2 notice of impoundment in a visible location upon the premises of
+the business which the sign advertises. The authorized staff person shall
+immediately provide a copy of the impoundment notice to the business
+owner(s) by either personal delivery or by certified mail, return receipt
+requested, sent to the owner’s last known address of record.
+
+a)      The notice of impoundment shall specify the sections of the section
+        which have been violated,     the place and time when the impounded
+        sign can be recovered,    the cost of any fee which must be paid to
+        recover the sign, and the length of time until the impounded sign is
+        discarded if the sign is    pot reclaimed.
+
+b)      The notice shall also       prpvide the owner(s) of the sign which has
+        been impounded with notice that they may request a hearing to
+        contest the validity of the impoundment.      A request for a hearing
+        must be made, to the Director of the Community Development
+        Department, within five (5) calendar days after either the date of
+        personal delivery of the impoundment notice, or the date that
+        notice of impoundment was mailed, as evidenced by the postmark,
+        not including Saturdays, Sundays or holidays. When a timely
+        request for a hearing is made, a hearing shail be set in the
+        Municipal Court for foyr (4) calendar days after the request is
+        received, excluding Saturdays, Sundays, and holidays, but may be
+        postponed at the request of the person asking for the hearing. The
+        Municipal Court Judge shall determine whether impoundment of
+        the sidewalk signboard was proper.
+
+In order to retrieve an impounded sidewalk signboard, the owner of the
+sidewalk signboard shall present a copy of the impound notice to the
+
+                                                L004 We3( ID
+                                                                 13-37
+Community Development Department, at the time and place indicated on
+the notice of impoundment.
+
+a)     The fee to retrieve an impounded sidewalk signboard for a first
+       violation of this section shall be ten dollars ($10.00). The fee to
+       retrieve an impounded pidewalk signboard for a second violation
+       of this section shall be fifty dollars ($50.00). The fee to retrieve an
+       impounded sidewalk signboard for a third violation of this section
+       shall be one hundred dollars ($100.00). For each subsequent
+       violation of this section, the fee to retrieve an impounded sidewalk
+       signboard shall be one hundred dollars ($100.00). For purposes of
+       this section, the number of offenses shall be calculated based upon
+       the number of violations attributable to the business owner(s) of
+       the sidewalk signboard, who has violated the provisions of this
+       section.
+
+b)     Any sidewalk signboar{l which has been impounded and is not
+       reclaimed within ninety (90) days from the date of impoundment,
+       may be disposed of by the authorized staff person.
+
+                               |              b300 2 lost’ 52)
+                                                        13-38
+
+                            Section 13.960
+
+               Maintenance, Construction, Safequards
+
+Subsection                                             Page
+13.060.010   Maintenance and Appearance                13-40
+
+13.060.020   Design and Construction                   13-40
+13.060.030   Clearance and Safeguards                  13-40
+
+                                             [300 ¢- 63 (3s)
+                                                                                           13-40
+13.060.010 Maintenance and Appearance
+
+All signs shall be maintained in a safe, neat, clean, and attractive condition,
+
+        A.      Signs shall be kept from excessive        rust, corrosion, peeling paint, or other surface
+                deterioration.   The display surfaces,   ims, frames, and supports of all signs shall
+               be kept neatly painted or otherwise n     tly maintained, as applicable.
+
+       B.      On-premise ground signs shall be dirdctly supported by poles or supports in the
+               ground. No external cross-braces, guy wires, "T-frames", "A-frames”, "trusses",
+               or similar bracing systems shall be used in constructing a ground sign or free-
+               Standing sign.
+
+        c.     Except for temporary signs, all signs shall be rigid and firmly attached to its
+               supporting structure.
+
+13.060.020 Design and Construction
+
+Except as specified in this section, design, loading, iconstruction, and materials shall be those
+specified in the Uniform Building Code, as amended by the State of Oregon.
+
+13.060.030 Clearance and Safeguard
+
+To insure public safety, the installation and maintenance of all signs shall be subject to the
+following provisions.
+
+       A.      The installation or erection of any sign requiring the operation of any crane or
+               other equipment must be conducted in a manner so as to maintain a minimum
+               clearance from any and all high-voltage electric power or other type electrical
+               lines, as dictated by the National Electric Safety Code.
+
+       B.      All free-standing sign installers must! |utilize the "call before you dig"
+                                                                                       .     tgs
+                                                                                          utilities
+               locate service (1-800-332-2344) offered by the Oregon Utilities Coordinating
+               Council to insure clearance from underground utilities.
+
+       Cc,     All signs together with all of their supports, braces, guys, and anchors shall be
+               kept in good repair and be maintained in a safe condition.
+
+                                                                 L3p09- le> (42)
+                                                         13-41
+
+                              Section 13.070
+
+                  Inspection, Enforcement, Variances
+
+Subsection                                             Page
+
+13.070.010   Non-conforming Signs                      13-43
+
+13.070.020   Removal! of Non-conforming Signs          13-43
+
+13.070.030   Signs for Non-conforming Uses             13-43
+
+13.070.040   Administration                            13-43
+
+13.070.050   Enforcement                               13-44
+
+13.070.060   Variances and Appeals                     13-45
+         13-42
+
+f30097- Ele (2)
+                                                                                      13-43
+
+13.070.010 Non-conforming Signs
+
+Signs and advertising structures which do not conform to the provisions of this section but which
+lawfully existed and were maintained on the effective date of Ordinance 92-1153 shall remain
+lawful except as provided in this section.
+
+       A.      A non-conforming sign which has been determined by the Director to be
+               improperly maintained shall be removed within 30 days after notice as provided
+               in Section 13.070.020.
+
+       B.      Non-conforming signs which violate the provisions of Section             13.030.020,
+               Prohibited Signs, shall be removed within 30 days after notice.
+
+        C.     Non-conforming signs which are structurally altered, relocated or replaced shall
+               immediately comply with all provisions of this section.
+
+       Dz      Non-conforming signs which have been abandoned or those advertising a
+               business that is no longer conducted in or upon the premises and has not been so
+               conducted for a period of 60 days shall comply with this section or shall be
+               removed within 30 days after notice.
+
+13.070.020 Removal of Non-conforming Signs
+
+The Director shall give written notice of a non-conforming sign. The notice shall be given to the
+owner of the building, structure or premises on which the sign is located. Notices shall be sent
+by certified mail or be delivered personally to the building owner at his last known address, or
+address of record. The notice shall specify the violations of the section and the time allowed for
+compliance.
+
+13.070.030 Signs for Non-conforming Uses
+
+A use which has been determined to be non-conforming pursuant to the City’s Land Use and
+Development Ordinance, General Ordinance No. 98-1222, but which would ordinarily require a
+sign, if such use were located in an appropriate zoning district, shall be permitted a sign, subject
+to the requirements of the zone which best fits the non-conforming use, as determined by the
+Director.
+
+13.070,040 Administration
+
+       A.      Inspection. The Director under the supervision and control of the City Manager is
+               hereby authorized and directed to enforce this section. Upon the presentation of
+               proper credentials, he may enter at reasonable times into or upon any building or
+               premises in the City to inspect signs or carry out the duties and responsibilities
+
+                                                            J3009- blo (¥)
+                                                                                      13-44
+             imposed on him by this section.     The Director may inspect or re-inspect any sign
+             to determine if it complies with this ordinance.
+
+      B.     Removal of unsafe signs, Upon documentation that despite reasonable attempts to
+             provide notice as set forth herein, thaf     notice could not be delivered to the sign
+             owner or the owner of the building, structure or premises upon which the sign is
+             located, or that notification was received and the notified person(s) has or have
+             refused to comply with the ordinance in the time specified by the Director, the
+             Director may remove or cause others to remove the sign or make the minimum
+             necessary repairs to remove the danger or hazard. The owner shall reimburse the
+             city for any costs incurred in the removal of the sign or when making the
+             minimum necessary repairs when removing the danger or hazard.
+
+      c.     Release from liability. Neither the Dinector nor the City nor any of its authorized
+             Tepresentatives shall be liable for any damages, costs, or expenses for any failure
+             to enforce the provisions of this section.
+
+13.070.050 Enforcement
+
+      A.     Violation. It shall be a violation of thig code for any person to erect, maintain,
+             display, or use an illegal sign. An illegal sign includes nonconforming Signs not
+             brought into compliance within the time period allotted, signs erected or
+             maintained without a permit, abandoned signs, unsafe signs, prohibited signs, and
+             any sign not in compliance with the brfvisions of this section.
+
+      B.          ns Responsible. Property owners| persons in control of the property,
+             ae        owners, and any other person Iwho has violated this code are subject to
+             the penalty provisions of this section.
+
+      Cc.    Notice. It is the policy of the City of The Dalles to attempt to gain voluntary
+             compliance with the provisions of this Section. The Director shall provide the
+             type of notice that will inform responsible persons of the violation and the steps
+             needed to bring the violation into compliance. Prior to initiating any penalties the
+             Director shall provide written notice ard allow the following times from the date
+             of the written notice to bring the violation into compliance:
+
+             1.      For the first offense at least seven calendar days.
+
+             2.     For a second similar offense within a year no time is required, the Director
+                    may initiate the penalty proceedings from the date the written notice is
+                     sent to the responsible party.
+
+                                                                    J3009- Li/e3 (sx)
+                                                                                               13-45
+       D,     Penalties.
+                                                            |
+               1.         For installation of a sign withowt a permit, the permit fee shall be doubled.
+                          This penalty is in addition to arjy other penalty provided in this section.
+
+              2.          For illegal signs not brought into compliance within the time period
+                          allowed in subsection C, the responsible party shall be subject to the
+                          citation process set out below.
+
+              3.      Each day that a sign is in violation of the provisions of this section shall
+                      constitute a separate offense.
+
+       E.     Citation.
+
+              1.      For those persons who have not brought their illegal sign into compliance
+                      within the time period allowed in subsection 3, the Director may issue a
+                      Citation. The Citation shall provide a fine amount and a date and time for
+                      the responsible part to either pay the fine or appear in municipal court and
+                      request a hearing, Failure to either pay the fine or request a hearing by the
+                      date and time specified shall constitute a waiver of the right to object and
+                      the fine as set in the citation shall be final.
+
+              2.      The fine for violations of this section shall be $50 for the first offense,
+                      $100 for the second offense within a year, and $250 for each subsequent
+                      offense within a year. Each day that a sign is in violation of the provisions
+                      of this section shall constitute aseparate offense.
+
+13.070.060 Variances and Appeals
+
+      A.      The Planning Commission of the City of The Dalles shall act on all requests for
+              variances and appeals of sign permit determination by the Director.
+
+      B.      The Planning Commission shall condu¢t hearings for appeal and variance matters
+              in the same manner and shall apply the same standards as are used for variance
+              hearings conducted pursuant to this ordinance.
+
+      Cc.     Except in the case of unsafe signs, no action shall be taken by the Director under
+             this section pending an appeal or variance request to the Planning Commission
+              and during any further appeal to the City Council.
+
+      D.     Appeals. Any person aggrieved by a determination of the Director may appeal to
+             the Planning Commission. Upon appeal, the Commission may affirm, reverse, or
+             modify        the   Director’s   determination,    which   modification   could     include   a
+             determination of the suitability of alternative materials or methods of construction
+
+                                                                        L3009- 0/63 82>
+                                                |                           13-46
+E.   In exercising its appeal or variance authority, the Commission may attach such
+     conditions to either as it determines to be necessary to achieve the purposes stated
+     in Section 13.010.010 of this ordinance,
+
+                                                          $3004- 0/3 ($2)
+                                                  13-47
+
+                               Section 13.980
+
+                            Special Provisions
+
+Subsection                                       Page
+
+13.080.010   Districts of Special Control        13-49
+
+13.080.020   Severability                        13-49
+
+13.080.030   Repeal                              13-49
+      13-48
+
+13009-0163 (3 I)
+                                                                                       13-49
+
+13.080.010 Districts of Special Control
+
+The Planning Commission shall have the authority tp establish districts which must be at least
+one city block in length (or the equivalent thereof) that would allow for variance of sign sizes,
+types, heights, etc. when:                             :
+
+        A,      the area is shown to have, or it is desired to promote, a unique and beneficial
+                display of desirable architectural, historic, or historic area; or
+
+       B.      a group of commercial activities in an intensive commercial area joins together in
+               a cooperative arrangement to sign their occupancies so as to create an unusual or
+               unique display; but only after a plan showing all of the new sign arrangement and
+               a petition of all property owners is presented to the City Planning Commission.
+               After approval by the Planning Commission is received, the plan will be
+               forwarded to the City Council to either: (1) by section designate the district as one
+               of the special control; (2) return the. petition to the Planning Commission for
+               correction or further study; or (3) reject the plan.
+
+       Cc.     Once approved, the plan shall govern sign design, location, number, and size
+               within the special district. However, all other provisions of this section, including
+               but not limited to, permitting, safety, inspection, and enforcement, shall have full
+               force and effect.
+
+13.080.020 Severability
+
+If any part, section, sub-section, sentence, or phrase of this ordinance is for any reason held to be
+invalid or unconstitutional by the decision of any court of competent jurisdiction, such decision
+shall not affect the validity of the remaining portions of this section.
+
+13.080.030 Repeal
+
+General Ordinance No. 92-1153, as amended by the General Ordinance No. 03-1248, is hereby
+tepealed.
+
+                                                                      Jj00?- We ($2)
+                                   Section 13.0   0
+
+                                     EXHIBITS
+
+                                                              Page
+Clearance For Projecting Signs
+                                                              13-51
+Sidewalk Signboards - Exhibit #4
+                                                              13-52
+Sidewalk Signboards - Exhibit #2                              43-53
+Sidewalk Signboards - Exhibit #3                              13-54
+
+                                                      /3 209- (03 ($2)
+                                ;                       |                           13-51
+                       CLEARANCES          FOR mnoaedyine       SIGNS
+                                                        |
+16 ft.                                            60"
+
+15   ft.                                        54"
+
+14 ft.                                    48"
+
+13 ft.                              42"
+
+12   ft.                    36"
+
+11 ft.                   “30"
+
+10 ft.             24"
+
+ 9 ft.           18"
+
+ 8 ft.     le"
+
+                                                            |           J 4009- les (8)
+                                                                                                                     £009 bles (8)
+13-52
+
+        aBpe Buypes) wos} 0} 352 105.0%
+        peaoxe jauued ped aseq jo 145}0H
+                                                                         a                           292
+                                              BSI 4
+                                                                                                     wo%
+                                             Wo                                                    SUWINNOBA
+                                            StURNOBA                                                  Ud
+
+                                                                                                               45°
+                                               iv
+
+                                                                  45"
+                                                           45"
+                                                                                                     1918S
+                                              res
+                            —               Aner       |
+                                           MBIA YUL                          MOA APIS             MLA JUCLS
+                  MAA 8BIS
+               eles g eseg :suoisuaWid UBIS                                   aUBIj-y¥ ‘suoisuauig uBIS
+                                                           L# HOUXA
+                                                    SOYVOENDIS WWMACIS
+                                                                                AWwo9s OL LON
+                                                3903S
+                                                sloAed
+                                                     yeMePlS                                      &
+                                                                                                   YS
+                                                            .                                     we
+                                            svauv                                               oS
+             (eee               —   QYHVYOENDIS MIWMSGIS T7777 -eL 7
+                                                                   pe|
+                                                                                     :           Ne
+Yr
+e  eepee ep                 Y
+                                                                                 a       9
+        GE            9
+                                                                                                  x
+                                                                                                   [as]
+                                                                                                  2oO
+                                                                                                  3
+                                                                                                  °
+    i
+                 TL
+                                                                      L# dous
+                  z# doug
+                                                                   soull|
+                                              . Ce               Kyuadaig
+                                               C# UGIUXS
+-            a                          SCYUVOENOIS MIVMaCIS
+a
+                                                                       .
+                                                                 ens
+          x
+          ba
+                                                   ‘+.    SIOARd
+
+                                                                                                                     $L
+                                                                                                                      J 3007- 0/626
+                                                   +) yemapls-
+                                             -   SvauV.                                -        .
+     '                                               WIVMSCIs                  TO
+                                  a   GYYOENOIS
+     I.
+                                                                                   -                |
+                                                             .    v        .   .
+                                                                                                    |            7
+                                      gener
+    sileneienan Uenenenenenna Geena                                                                     N   Oe
+               SS
+
+                                                                                                                     Sidewalk
+               SSS
+               SS
+
+                       z# doys
+                                         ‘           sour)
+                —2{p
+                                                    Ayedod                         7       a]
+                                                       CHU
+                                                 SGYVOENOIS HIVMAGIS
+
+                —
+                          GENERAL ORDINANCE NO. 08-1294                            IN
+
+                        AN ORDINANCE APPROVING ZONING
+                        ORDINANCE AMENDMENT NO. 08-1294.
+
+WHEREAS, the City of The Dalles adopted a Land Use and Development Ordinance
+known as General Ordinance No. 98-1222 on May 11, 1998; and
+
+WHEREAS, the City Planning Commission conducted a work session on May 1, 2008
+and held public hearings on June 5, 2008 and June 19, 2008 to take public testimony on
+General Ordinance Amendment No. 08-1294, and following the close of the public
+hearing on June 19, the Planning Commission moved to recommend the City Council
+adopt the proposed amendments to the City’s Land Use and Development Ordinance; and
+
+WHEREAS, on July 14, 2008 the City Council copducted a public hearing to consider
+General Ordinance Amendment No. 08-1294, and
+
+WHEREAS, on July 14, 2008, the City Council adopted a motion approving the proposed
+amendment,
+
+NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF THE DALLES
+ORDAINS AS FOLLOWS:
+
+Section 1. All references to sections in the ordinance refer to sections of General
+Ordinance No. 98-1222, as amended.
+
+Section 2. Amend Section 2.010 Definitions, as follows:
+
+   a.   Add new definition.    “Airport - The Columbia Gorge Regional Airport, located in
+        Klickitat County, Washington.”
+
+   b.   Add new definition. “BCA — Building Codes Agency or other agency charged
+        with administering the State Building Codes in The Dalles.”
+
+   c.   Add new definition. “Conceptual Plan — a general plan of development which is
+        final for such issues as uses and densities. A conceptual plan requires one or
+        more detailed applications prior to construdtion. Review of detailed applications
+        is based on regulations in effect at time of gubmittal of conceptual plan
+        application.   A conceptual plan may also he a master plan.”
+
+   d.   Add new definition. “Master Plan — an ov¢rall plan for a development site which
+        may be built in phasés. A master plan may/be conceptual or detailed which is
+        final for such issues as uses and densities.   If conceptual, separate and more
+        detailed applications will be required for each phase. Review of detailed
+
+Page 1 of 7 - General Ordinance No. 08-1294
+                                                                                          (073008)
+
+                                                       3009-012 62)
+         application is based on regulations in effect at time of submittal of original plan
+         application.”
+
+ Section 3. Amend Section 3.020.010 by adding ie paragraph as follows: ‘A City
+ supplemental building permit is valid for a period|of six months, or so long as there is a
+ valid and active State (BCA) building permit issued for the same work. If the State
+ (BCA) building permit expires, so does the City sapplemental permit. Once expired the
+ City supplemental permit cannot be renewed. A new permit must be obtained, under the
+ development rules at the time of the submittal of the new application.”
+
+ Section 4. Amend Section 3.020.020 by adding a new paragraph D entitled Expiration
+ and Extension as follows:
+
+    “D. Expiration and Extension
+
+    1. Expiration. Except for City building perms, which are discussed in Section
+    3.020.010, development must begin within one year of the Notice of Decision for the
+    land use permit to remain valid, unless specifi¢ provisions for a different time period
+    are provided for in other code sections. If development has not begun within the time
+    period, expiration is automatic and no notice is required.
+
+    2. Extension. The Director may grant an extension for up to one year upon receiptof ~
+    a request in writing. The request must be received in the Community Development
+    Department one (1} week prior to the expiration date. The provisions of LUDO
+    Section 3.030.070 B. shall apply to all requests for extensions.”
+
+Section 5. Amend Section 3.020.080 Appeal Pro¢edures by adding new paragraph “TI”
+ entitled: “Refund of Appeal Fee. An applicant can request a refund of an appeal fee by
+ letter submitted to the Community Development         Department within 10 days after the
+ appeal is determined. The letter shall state in detail the reason for the requested refund.
+ Staff shall prepare a report and send the letter and:report to the City Manager. The City
+ Manager may consider the letter, the staff report, and any other factors in making a
+ recommendation. The City Manager’s recommendation shall be submitted for action on
+ the City Council’s consent agenda. No public hearing is required. Final action on the
+ request shall be taken by the City Council.”
+
+Section 6. Delete Section 5.010.060 A. 10.
+
+Section 7. Amend Section 5.010.060 A by changing the “7” to “6”.
+
+Section 8. Amend Section 5.010.060 by adding a new paragraph C to read as follows:
+“All one and two family dwelling units located on a single tax lot shall have a traditional
+front entry on the ground level included in the front building line. The front entry in the
+front building line shall be connected by hard surface to the right of way.”
+
+ Section 9. Delete Section 5.020.060 A. 10.
+
+Page 2 of 7 - General Ordinance No. 08-1294
+                              ;                                                          (073008)
+
+                                                              J3007- 0163 (8)
+ Section 10. Amend Section 5.020.060 A by changing the “7” to “6”.
+
+ Section 11. Amend Section 5.020.060 by adding @ new paragraph G to read as follows:
+ “All one and two family dwelling units located onja single tax lot shall have a traditional
+ front entry on the ground level included in the froyt building line. The front entry in the
+ front building line shall be connected by hard surface to the right of way. In addition, all
+ 1 and 2 family dwellings located on a ‘single tax lot shall utilize 6 or more of the other 10
+ design features located in Section 5.010.060 A. to provide visual relief along the front of
+ the residence.”
+
+ Section 12. Amend Section 5.030.050 by adding a new paragraph F to read as follows:
+ “Front Entry. All one and two family dwelling units located on a single tax lot shall have
+ a traditional front entry on the ground level included in the front building line. The front
+ entry in the front building line shall be connected by hard surface to the right of way. In
+ addition, all one and two family dwellings located'on a single tax lot shall utilize 6 or
+ more of the 10 other design features located in Section 5.010.060 A. to provide visual
+ relief along the front of the residence.”
+
+  Section 13. Amend Section 5.040.050 by adding a new paragraph E. to read as follows:
+  “All one and two family dwelling units located on a single tax lot shall have a traditional
+  front entry on the ground level included in the front building line. The front entry in the
+  front building line shall be connected by hard surface to the right of way. In addition, all
+* 1 and 2 family dwellings located on a single tax lot shall utilize 6 or more of the other 10
+  design features located in Section 5.010.060 A. to provide visual relief along the front of
+  the residence.”
+
+ Section 14. Amend Section 5.020.050 to add the following new language to Building
+ Orientation: “Orientation on private accessway is allowed only if there is no street
+ frontage.”
+
+ Section 15. Amend Section 5.030.040 to add a new standard of Building Orientation as
+ follows: “The front building line shall be parallel to the street or private accessway.
+ Orientation on private accessway is allowed only if there is no street frontage. The front
+ building line shall include the front door.”
+
+ Section 16. Amend Building Orientation portion of Section 5.040.040 by adding the
+ following language: “Orientation on private accessway is allowed only if there is no
+ street frontage.”
+
+ Section 17. Amend Section 5.100.030 C to read: “Map Overlay. Approved Community
+ Facilities sites shall be shown on the official zoning map with the CFO-Comnunity
+ Facilities Overlay designation so long as the use continues. When the approved use ends,
+ the CFO designation shall no longer apply and the|zoning map shall revert to the
+ underlying zone.”
+
+ Page 3 of 7 - General Ordinance No. 08-1294
+                                                                                          (073008)
+
+                                                            f3009- 0163 (8)
+Section 18. Adopt new Section 5.120 to read as follows:
+
+“Section 5.120:     Airport Approach Zones          |
+
+        5.120.010     PURPOSE.                      i
+       The City of The Dalles is a part owner of The Columbia Gorge Regional Airport,
+       located in Klickitat County, Washington. The airport is a valuable asset to the
+       City and the citizens and businesses of Wasco and Klickitat Counties. The
+       topography of the region restricts approaches to the airport and the City desires to
+       protect those approaches as much as posi When the approaches use.airspace
+       over areas within the zoning jurisdiction of the City of The Dalles, the City will
+       protect that airspace. No development or operational characteristic will be
+       allowed that would hinder the use of the airspace. The City will develop
+       regulations that will delineate the approaches and what will be allowed to develop
+       under those approaches. Until those detailed regulations are in effect, the City has
+       adopted a general regulation set out in Section 5.120.020.
+
+       5.120.020 Protection of Approach Zones. No development or operation shall in
+       any way negatively affect the approach zones to the airport or the safe use of the
+       approach zones by aircraft landing or taking off from the airport.”
+
+Section 19. Amend Section 6.010.050 E. 1. A. by adding the words “or a required
+exterior side yard” at the end of the sentence.
+
+Section 20. Amend Section 6.010.070 by changing the language in the NC zone for
+commercial only from “None” to “Equal 10% of the first floor area of all structures
+minimum.”
+
+Section 21. Amend Section 6.010.070 by changing the language under the I zone site
+requirement to read as follows: “a five foot landstaping buffer adjacent to all public right
+of way, but limited to 10% of the area of the ontie site. Ifa five foot buffer along the
+length of the right of way exceeds 10% of the entire site, the City Community
+Development Department staff will indicate which portions of the right of way will have
+the buffer.”                                    :
+
+Section 22. Amend Section 6.030.020. C. 1. by adding the word “setback” after the
+words “rear yard.”
+
+Section 23. Amend Section 6.060.020 A. 1. to read as follows: “Width and Number.
+The number of driveways and other access points shall be determined by the City
+Engineer based on the needs of the property owner, the size, location, and configuration
+of the property, the adjacent streets and driveways, and other factors as determined by the
+City Engineer.”
+
+Page 4 of 7 - General Ordinance No. 08-1294
+                                                                                      (073008)
+
+                                                            (2009-0163 (I)
+Section 24. Amend Section 6.060.040. A. by adding       the following language: “Pavement
+may be required for up to the full length of a driveway, but in no event less than 20 feet
+back from the right of way. Pavement width shall /be a minimum of 12 feet.”
+
+Section 25. Amend the last sentence of Section 6.060.050 to read: ‘‘Shared driveways of
+up to 30 feet in width may be allowed in residential zones with the approval of the City
+Engineer.”
+
+Section 26. Amend Section 6.110 by deleting ms first sentence and adding language to
+read as follows: “Effective February 12, 2007, anapplicant who submits a request for a
+single family dwelling building permit or single family accessory structure will not be
+required to execute a waiver of remonstrance agreement for the formation of a local
+improvement district. Waivers of remonstrance shall be required for planning actions
+and for other building permit applications if the proposed development would increase
+traffic flow on any street not fully improved to City standards.”
+
+Section 27.   Amend Section 6.140.080 by changing the reference from 6.140.060 to
+6.140.070.
+
+Section 28. Amend Section 6.160.010 B by deleting the words “and in the I-Industrial
+District”.
+
+Section 29. Amend Section 6.160.010 by adding a new section 6.160.010 D as follows:
+“Intermodal Cargo Containers are allowed in the I-Industrial District so long as they meet
+all State of Oregon building permit requirements and are painted and maintained in good
+condition, including being rust free.”
+
+Section 30. Amend Section 7.020.020 J. to read ‘Location and details of signs,
+pavement markings, and bumper guards which protect sidewalks, walkways, and
+property lines”.
+
+Section 31. Amend Section 8.050.040. B. To read as follows: “Permits. Any cuts
+and/or fills outside of geohazard zones Al or A2      greater than 50 cubic yards but less than
+250 cubic yards shall require a Physical Constrairjts  Permit with an application with a
+drawing having a primary focus on erosion contrdl. Any cuts and/or fills in geohazard
+zones Al or A2 greater than 50 cubic yards shall require a Physical Constraints Permit,
+per the provisions of Section 8.020: Review Procedures.”
+
+Section 32. Amend Section 8.050.040 C.1. to read as follows: 250+ Cubic Yards. Any
+cuts and/or fills outside of geohazard zone Al or A2 greater than 250 cubic yards but less
+than 500 cubic yards require a drawing and either engineered plans or a letter from a
+licensed professional engineer stating that no engineered plans are required in the
+engineer’s professional opinion as the activity presents no danger to surrounding
+properties. Any cuts and/or fills in the Al or A2 geohazard zones over 250 cubic yards,
+or over 500 cubic yards outside the Al or A2 geahazard zones, must be designed by a
+licensed professional engineer.
+
+Page 5 of 7 - General Ordinance No. 08-1294
+                                                                                          (073008)
+
+                                                     fF                            Of 1G)
+Section 33. Amend LUDO Section 9.030.050 C 4 by deleting the words “Wasco County
+Clerk.”
+
+Section 34. Amend Section 10.030 A by adding 4 new sentence to read as follows:                 “The
+construction, installation, placement, or addition    of a dwelling unit on a lot, including one
+that replaces another dwelling or other structure,     shall initiate the requirement of full
+public improvements, including street, curb, sidewalk, and storm sewer, except when the
+existing dwelling is destroyed by an act of God anid the replacement dwelling has no
+more than 110% of the total square footage of the original.”
+
+Section 35. Add new paragraph E. to Section 10.030 to read as follows: “E. Waivers of
+Remonstrance. Developments of other than single family dwellings may be able to use
+the provisions of Section 6.110. Waivers of Remanstrance, in lieu of immediate
+installation of public improvements.”
+
+Section 36.   Amend Section 10.060 A. Traffic Studies, to read as follows:         “Traffic
+studies shall be required of all development proposals of 16 or more dwelling units, and
+any other development proposal that is likely to generate more than 400 average daily
+motor trips. In addition, a traffic study may be required if the development proposal is
+near an intersection that is already at or below level of service D. Notwithstanding the
+previous language, the City may require an initial, limited traffic study to determine the
+level of service at nearby intersections. If the limited traffic study finds the level of
+service to be at or below “D”, the City may require a full traffic study.     The traffic study
+shall be conducted in accordance with the following:”
+
+Section 37. Amend Section 10.060 J. 6. b to reag      as follows:   “In lieu of the right of way
+standards set out in Subsection 5 above, when development occurs on a lot adjacent to
+existing right of way that does not have a full range of public improvements, the City
+Engineer in conjunction with the Community Development Director may:
+        i) Require the installation of public improvements as contained in Subsection 5, or
+        ii) Require payment into the improvement fund for missing improvements, or
+        iii) Allow a combination of i and ii, or
+        iv) Allow an alternative street design that meets the needs for pedestrian and
+        vehicular safety. In selecting an alternate design the City Engineer may consider
+        existing improvements, improvements on adjacent properties, topography, current
+        and future street usage, cost, and other relevant factors.
+
+Section 38. Amend Section 10.070. A. by adding the following language after the first
+sentence, “Unless specifically waived by the Difector and City Engineer, any occupancy
+which uses water or sewer shall be required to hook up to a public facility for that
+service.”
+
+Section 39. Amend Section 13.030.020 B. to read as follows: “Signboards, Signboards
+may be used under the following conditions: 1. A permit is required. 2. The signboards
+are limited to the premises of the business location. 3. The signboards must be on
+
+Page 6 of 7 - General Ordinance No. 08-1294
+
+                                                |             2ycor- wesl®)
+private property. 4. The Size, Number, Hours of Display, Attachments, Maintenance,
+Fees, and Enforcement are as provided for in the relevant provisions of Section
+13.050.160.
+
+Section 40. Change the number of existing Section 13.030.020 B. 4. to 13.030.020 C.
+and add title of Promotional Signs.
+
+Section 41. Add new section 15.055 to read as follows:
+
+15.055     Stop Use Order
+
+           Whenever any land or structure is being uged contrary to the provisions of this
+           Ordinance, or contrary to the provisions of an application approved under this
+           ordinance, the Director may order the use stopped by notice in writing served on
+           the property owner or on any person or persons engaged in the use of the
+           property. After service the use shall immediately be stopped until the use is
+           authorized by the Director. Both the property owner and the user of the property
+           are subject to the provisions of such notice.
+
+           PASSED AND ADOPTED THIS 8™ DAY OF SEPTEMBER, 2008.
+
+Voting Yes, Councilor:        Wilcox,    Wood,   Dick,           Spatz
+Voting No, Councilor:       — None
+                                                          +}fl
+Absent, Councilor:            Kovacich                     |
+                                                         1
+Abstaining, Councilor:        None
+
+           AND APPROVED BY THE MAYOR THIS 8™ DAY OF SEPTEMBER, 2008.
+
+Robb Van Cleave, Mayor
+
+Attest:
+
+Que                    uneger
+Juli      Krueger, MMC, City Clerk
+
+Page 7 of 7 - General Ordinance No. 08-1294
+
+                                                   |                     J3009-10308
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 96.5% of
+the word sequence, and on 74.3% of the figures. Dictionary-recognizable words: 95.6%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

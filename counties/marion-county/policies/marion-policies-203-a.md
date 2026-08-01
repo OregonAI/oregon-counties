@@ -1,0 +1,228 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-203-a
+title: '203-A'
+doc_type: policy
+citation: '203-A'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/203-A.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 59e6d3218d637cd749948194b6ca99f51827309019e317fa2f767ac38d271063
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.994; figure agreement 0.972; dictionary ratio 0.965. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [marion-county, policies, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 99%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# 203-A (203-A)
+
+## At a glance
+
+OCR-derived text of 203-A. Not human-verified.
+
+## Full text
+
+neni Marten County ORT   G0
+                                                                           ADMINISTRATIVE PROCEDURES
+
+     TITLE:     Appointments to Advisory Boards                        PROCEDURE #:               203-A
+
+     DEPT:     Board of Commissioners’ Office                          PROGRAM:                  Volunteer Services
+
+     EFFECTIVE DATE:           11/06     | REVIEWED:                   REVISED:                   12/22
+
+OBJECTIVE:                             To establish procedures for appointments to advisory boards and Multi-
+                                       Jurisdictional Committees.
+
+REFERENCE:                             Policy # 203
+
+POLICY STATEMENT:                      This policy establishes the parameters for board appointments to state-
+                                       mandated and/or county-developed advisory boards and Multi-
+                                       Jurisdictional Committees.
+
+APPLICABILITY:                         All county department heads, advisory boards, and county staff responsible
+                                       for support to advisory boards.
+
+PROCEDURES:
+
+The Marion County Volunteer Services Coordinator is responsible for managing the volunteer application
+and training process for county advisory boards. For assistance with advisory boards, information on the
+application process, training, or other processes outlined in this policy and procedure, contact:
+
+Volunteer Services Coordinator:               volunteer(@co.marion.or.us
+                                              (503) 588-7990
+
+1.     Advisory Board Rosters and Application
+
+       1.1. The county Volunteer Services Coordinator (VSC) maintains a centralized roster of advisory
+            board members, initial appointments, reappointments and term expiration dates.
+       1.2. Each department head or designee must maintain a current list of members of advisory boards
+              and term expiration dates related to advisory boards within their department.
+       1.3. Advisory board application forms shall be available in the Human Resources Department and on
+              the Marion County Volunteer Opportunities webpage. http://Awww.co.marion.or.us/HR/VOL.
+              1.3.1. The VSC or Advisory Board (AB) staff may develop and utilize supplemental
+                    questionnaires.
+
+2.     Vacancy
+
+       2.1. AB staff must inform the VSC of any vacancy that has occurred or is expected to occur, not less
+            than one month before the expected vacancy to allow time for posting and recruitment.
+       2.2. In situations where a vacancy occurs unexpectedly, AB staff will inform the VSC immediately.
+
+                                                          203-A.1
+SUBJECT:      APPOINTMENTS          TO ADVISORY BOARDS
+
+     2.3. The VSC and AB staff, in consultation with the Board of Commissioners, will work together to
+          determine the best recruitment strategy.
+     2.4. When a vacancy occurs on an advisory board, the VSC will notify the Board of Commissioners,
+          provide an information notice on the vacancy to the media, and post the vacancy notice on the
+          county’s website.
+          2.4.1. Interested groups may also be advised of the vacancy.
+          2.4.2. When appropriate, the vacancy notice will be posted on Marion County social media
+                accounts.
+
+3.   Review of Applications
+
+     3.1. Department heads or designees, and advisory board members will conduct a review of
+         applications received for vacant advisory board positions, as per their bylaws.
+     3.2. Advisory boards shall follow the process outlined in their bylaws for making appointment
+         recommendations to the Board of Commissioners.
+     5.5) Recommendations for appointment must be reviewed by the Board of Commissioners at a
+         regularly scheduled Management Update meeting. Upon approval by the Board of
+         Commissioners, the VSC or AB staff will coordinate the request for formal action at Board
+         Session.
+     3.4. The VSC will notify the Board Clerk when an applicant is approved for appointment.
+     3.5. The following information will be provided at Management Update:
+          3.5.1. Summary of the recruitment strategy.
+         3.5.2. Governing documents for the advisory board, including bylaws and any other information
+                that is specific to membership requirements.
+         3.5.3. The Advisory Board’s process for recommending or selecting members.
+         3.5.4. Advisory Board roster that includes detailed information about existing members’ roles,
+                represented positions, current terms, and length of service.
+         3.5.5. List of any applicants not recommended for appointment.
+         3.5.6. Page 2 of the advisory board application for all applicants (those being recommended, and
+                those not being recommended).
+
+     Appointment/Reappointment     by Order of the Board
+
+     4.1. All appointments and reappointments to advisory boards will be made by board order.
+     4.2. VSC or AB staff will submit a draft board order to the Legal Department for review prior to
+          submitting Board Session paperwork.
+     4.3. Page 2 of each application and a full roster of members of the advisory board to which a member
+         is being appointed or re-appointed will accompany the board order.
+         4.3.1. The board roster will include the members’ city or area of residence and/or work
+                addresses, and information on represented positions.
+     4.4. When a new appointment is made to fill a vacancy for an unexpired term, the new appointment
+          will be for the remainder of the unexpired term.
+     4.5. AB staff is responsible for presenting appointees to the Board of Commissioners for approval.
+          With advance notice, the VSC may present recommendations on behalf of the AB staff.
+     4.6. AB staff will ensure appointees are invited to attend the board session where their appointment is
+          considered for approval. Appointments should be scheduled as Consent items if appointee will
+
+                                                   203-A.2
+SUBJECT:            APPOINTMENTS      TO ADVISORY        BOARDS
+
+            not attend board session; if appointee will attend, then the item should be scheduled as an Action
+            item.
+     4.7. The Board Clerk shall send a copy of the signed appointment order to the appropriate department
+          head or designee, and the VSC.
+          4.7.1. A copy of the board order will be retained by the VSC.
+     4.8. Following the board session at which an appointment is made, the VSC shall send a notification
+            to the individual informing him or her of the appointment. Notification will include:
+            4.8.1. A copy of the order of appointment.
+            4.8.2. Instructions for completing the county’s New Volunteer Orientation (NVO).
+            4.8.3. A copy of Marion County’s Handbook for Advisory Board Members, which includes “A
+                   Quick Reference Guide to Oregon’s Public Meeting Law”.
+          4.8.4. Link for the Advisory Board Orientation video module.
+     4.9. A  press release may be prepared by the Board of Commissioners’ staff and distributed to the
+            media announcing the appointment.
+
+     Orientation and Training
+
+     5.1. VSC will ensure that all appointees receive the county’s New Volunteer Orientation upon
+            appointment.
+          5.1.1. New Volunteer Orientation will include information on county policies and procedures,
+                  state laws regarding meetings, ethics, public records, and other information relevant to the
+                  appropriate and effective conduct of advisory board meetings and business.
+          5.1.2. Appointees may be asked to complete NVO again if there are material changes to the
+                  orientation content.
+     5.2. The department head or designee providing staff support to the advisory board will ensure that
+          each appointee receives orientation and training specific to the board on which they serve,
+          including other pertinent policies and procedures concerning the service they may render. This
+          includes copies of the advisory board bylaws, state laws relating to advisory board’s work,
+          specifics around public meetings and public records.
+
+     Expiration      of Term
+
+     6.1.     The chair of an advisory board or the department head of the represented department or their
+              designee will contact an advisory board member whose term is due to expire to determine
+              whether they are willing to accept reappointment to the position.
+     6.2.     If a member is interested in reappointment, the department head or designee shall contact the
+              VSC to initiate the process as outlined in Section 4. Appointment/Reappointment by Order of
+              the Board.
+     6.3.     If a member is not interested in reappointment, the department head or designee shall follow the
+              process outlined in Section 2. Vacancy.
+
+7.   Resignation
+
+     7.1.    A member of an advisory board shal! submit their resignation in writing to the chair of the
+             advisory board on which they serve.
+
+                                                     203-A.3
+SUBJECT:        APPOINTMENTS TO ADVISORY BOARDS
+
+     7.2.   The chair will forward a copy of the resignation to the department head.
+     7.3.   The department head or designee will forward a copy of the resignation to the VSC, who will
+            notify the Board of Commissioners.
+
+8.   Release from Service
+
+     8.1.   All advisory board members serve at the pleasure of the Board of Commissioners. The Board of
+            Commissioners may remove a board member on its own motion or upon recommendation of the
+            advisory board when it determines it is in the best interests of the advisory board or the county to
+            do so.
+
+     8.2.   Should it become evident to the chair, vice chair, or staff of any advisory board that a member of
+            the committee has not attended meetings as necessary or failed to perform such other reasonable
+            functions as required by the bylaws or requested by the chair/vice chair or staff, this fact shall be
+            brought to the attention of the Board of Commissioners. The advisory board shall also include a
+            recommendation as to whether the member’s term of appointment should be terminated.
+
+                                                      203-A.4
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 99.4% of
+the word sequence, and on 97.2% of the figures. Dictionary-recognizable words: 96.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.
