@@ -39,3 +39,10 @@ _meta/snapshots/*.pdf
 _meta/snapshots/*.html
 _meta/snapshots/*.xml
 _meta/snapshots/*.json
+
+# The semantic vector artifact. DERIVED and REBUILDABLE from the documents beside it
+# (`python3 -m corpus_toolkit.semantic.build`), and large — a chunk-level index runs from a
+# few MB to a few hundred. It is built on a GPU host and mounted into the container at
+# runtime, never committed and never baked, the same arrangement the platform already uses
+# for executive-regulatory-frameworks.
+_meta/embeddings/
