@@ -165,8 +165,19 @@ register_scheme(
 # The >= 3 digit section requirement is carried over from oregon-audits for the same reason:
 # PDF extraction splits long numbers across line breaks, and a looser pattern resolves a
 # truncated "ORS 197.2" confidently to a section that does not exist.
+# LOWERCASE THE CHAPTER LETTER. ERF ids the lettered chapters `ors-279a.010`, never
+# `ors-279A.010` — the frontmatter schema's id pattern is `^[a-z0-9][a-z0-9._-]+$`, so an
+# uppercase id is not merely absent, it is one no document is ALLOWED to have. The template
+# `ors-{num}` interpolated the capture verbatim and produced exactly that for all 37 lettered
+# chapters, so every citation to ORS 279A/279B/279C/659A/308A/468B resolved to nothing and was
+# reported as a coverage gap in ERF. It cost 8.8 points of resolution here (77.9% -> 86.7%)
+# and put six chapters ERF has held all along on a public "absent entirely" list.
+#
+# This is the failure the comment twelve lines above describes — config that reads as a
+# genuine "not found" — arriving through the id rather than through the sibling.
 register_scheme("ors-section", r"ORS\s+(?P<num>\d+[A-Z]?\.\d{3,})",
-                "ors-{num}", corpus="executive-regulatory-frameworks")
+                resolver=lambda m: [f"ors-{m['num'].lower()}"],
+                corpus="executive-regulatory-frameworks")
 register_scheme("oar-rule", r"OAR\s+(?P<num>\d{3}-\d{3}-\d{4})",
                 "oar-{num}", corpus="executive-regulatory-frameworks")
 register_scheme("oar-division", r"OAR\s+(?P<div>\d{3}-\d{3})(?!-\d)",
