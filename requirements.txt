@@ -15,3 +15,17 @@ playwright
 # for httpx's http2=True and is not pulled in by httpx alone.
 httpx
 h2
+
+# THE SERVER ITSELF. Absent until the first attempt to build a deployable image, which
+# failed at the Dockerfile's ensure_index step with `ModuleNotFoundError: No module named
+# 'corpus_toolkit'`.
+#
+# Nothing surfaced it earlier because CI never reads this line: every validation job is a
+# corpus-toolkit REUSABLE WORKFLOW that installs the toolkit itself from its own
+# `toolkit-ref` input. So the repo could be fully green, on the current pin, in a corpus
+# whose every gate exercises the toolkit — while the file that a container installs from
+# had never heard of it.
+#
+# A NEW PIN SITE. A toolkit bump must now move this line too, alongside the workflow refs;
+# corpus-toolkit#9 is about exactly the version skew that follows from missing one.
+corpus-toolkit[mcp] @ git+https://github.com/OregonAI/corpus-toolkit@v1.15.0
