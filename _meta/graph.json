@@ -1,8 +1,8 @@
 {
  "corpus": "oregon-counties",
- "n_nodes": 2710,
- "n_edges": 7639,
- "n_edges_external": 7639,
+ "n_nodes": 2741,
+ "n_edges": 7821,
+ "n_edges_external": 7821,
  "nodes": [
   {
    "id": "benton-code-adpr",
@@ -1289,10 +1289,58 @@
    "path": "counties/coos-county/land-use/coos-land-use-coos-county-public-records-request-form.md"
   },
   {
+   "id": "coos-orders-6-16-26-revised-agenda-packet",
+   "title": "6-16-26+Revised+Agenda++Packet",
+   "doc_type": "ordinance",
+   "path": "counties/coos-county/orders/coos-orders-6-16-26-revised-agenda-packet.md"
+  },
+  {
+   "id": "coos-orders-7-20-26agenda-packet",
+   "title": "7-20-26Agenda-Packet",
+   "doc_type": "ordinance",
+   "path": "counties/coos-county/orders/coos-orders-7-20-26agenda-packet.md"
+  },
+  {
+   "id": "coos-orders-7-7-26agenda-packet",
+   "title": "7-7-26Agenda-Packet",
+   "doc_type": "ordinance",
+   "path": "counties/coos-county/orders/coos-orders-7-7-26agenda-packet.md"
+  },
+  {
+   "id": "coos-orders-7-7-26revisedagenda-packet",
+   "title": "7-7-26RevisedAgenda-Packet",
+   "doc_type": "ordinance",
+   "path": "counties/coos-county/orders/coos-orders-7-7-26revisedagenda-packet.md"
+  },
+  {
+   "id": "coos-orders-boardofcommissionersmeetingagendaandpacket-6-2-2026",
+   "title": "BoardOfCommissionersMeetingAgendaAndPacket-6-2-2026",
+   "doc_type": "ordinance",
+   "path": "counties/coos-county/orders/coos-orders-boardofcommissionersmeetingagendaandpacket-6-2-2026.md"
+  },
+  {
+   "id": "coos-orders-boardofcommissionersmeetingagendaandpacket-6-2-2026revised",
+   "title": "BoardOfCommissionersMeetingAgendaAndPacket-6-2-2026Revised",
+   "doc_type": "ordinance",
+   "path": "counties/coos-county/orders/coos-orders-boardofcommissionersmeetingagendaandpacket-6-2-2026revised.md"
+  },
+  {
    "id": "coos-orders-coos-county-public-records-request-form",
    "title": "Coos County Public Records Request Form",
    "doc_type": "ordinance",
    "path": "counties/coos-county/orders/coos-orders-coos-county-public-records-request-form.md"
+  },
+  {
+   "id": "coos-orders-revised-board-of-commissioners-meeting-agenda-and-packet-05-",
+   "title": "Revised+Board+of+Commissioners+Meeting+Agenda+and+packet-05-05-2026",
+   "doc_type": "ordinance",
+   "path": "counties/coos-county/orders/coos-orders-revised-board-of-commissioners-meeting-agenda-and-packet-05-.md"
+  },
+  {
+   "id": "coos-orders-revised-boardofcommissionersagendapacket2026-05-19",
+   "title": "Revised+BoardOfCommissionersAgendaPacket2026-05-19",
+   "doc_type": "ordinance",
+   "path": "counties/coos-county/orders/coos-orders-revised-boardofcommissionersagendapacket2026-05-19.md"
   },
   {
    "id": "coos-policies-2026-holiday-list",
@@ -1437,6 +1485,18 @@
    "title": "Fee Schedule 2026 approved",
    "doc_type": "ordinance",
    "path": "counties/curry-county/land-use/curry-land-use-fee-schedule-2026-approved.md"
+  },
+  {
+   "id": "deschutes-orders-order-2025-008",
+   "title": "Order No. 2025-008",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-order-2025-008.md"
+  },
+  {
+   "id": "deschutes-orders-order-2025-009",
+   "title": "Order No. 2025-009",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-order-2025-009.md"
   },
   {
    "id": "deschutes-orders-ordinance-2000-003",
@@ -1815,6 +1875,12 @@
    "title": "Ordinance No. 2003-036",
    "doc_type": "ordinance",
    "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2003-036.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2003-037",
+   "title": "Ordinance No. 2003-037",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2003-037.md"
   },
   {
    "id": "deschutes-orders-ordinance-2003-076",
@@ -3167,6 +3233,12 @@
    "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2019-008.md"
   },
   {
+   "id": "deschutes-orders-ordinance-2019-009",
+   "title": "Ordinance No. 2019-009",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2019-009.md"
+  },
+  {
    "id": "deschutes-orders-ordinance-2019-010",
    "title": "Ordinance No. 2019-010",
    "doc_type": "ordinance",
@@ -3225,6 +3297,12 @@
    "title": "Ordinance No. 2020-005",
    "doc_type": "ordinance",
    "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2020-005.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2020-006",
+   "title": "Ordinance No. 2020-006",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2020-006.md"
   },
   {
    "id": "deschutes-orders-ordinance-2020-007",
@@ -3299,16 +3377,112 @@
    "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2021-003.md"
   },
   {
+   "id": "deschutes-orders-ordinance-2021-004",
+   "title": "Ordinance No. 2021-004",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2021-004.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2021-005",
+   "title": "Ordinance No. 2021-005",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2021-005.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2021-006",
+   "title": "Ordinance No. 2021-006",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2021-006.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2021-007",
+   "title": "Ordinance No. 2021-007",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2021-007.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2021-008",
+   "title": "Ordinance No. 2021-008",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2021-008.md"
+  },
+  {
    "id": "deschutes-orders-ordinance-2021-009",
    "title": "Ordinance No. 2021-009",
    "doc_type": "ordinance",
    "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2021-009.md"
   },
   {
+   "id": "deschutes-orders-ordinance-2021-010",
+   "title": "Ordinance No. 2021-010",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2021-010.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2021-011",
+   "title": "Ordinance No. 2021-011",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2021-011.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2021-012",
+   "title": "Ordinance No. 2021-012",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2021-012.md"
+  },
+  {
    "id": "deschutes-orders-ordinance-2021-013",
    "title": "Ordinance No. 2021-013",
    "doc_type": "ordinance",
    "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2021-013.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2021-014",
+   "title": "Ordinance No. 2021-014",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2021-014.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2021-017",
+   "title": "Ordinance No. 2021-017",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2021-017.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2022-001",
+   "title": "Ordinance No. 2022-001",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2022-001.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2022-003",
+   "title": "Ordinance No. 2022-003",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2022-003.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2022-005",
+   "title": "Ordinance No. 2022-005",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2022-005.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2022-006",
+   "title": "Ordinance No. 2022-006",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2022-006.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2022-008",
+   "title": "Ordinance No. 2022-008",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2022-008.md"
+  },
+  {
+   "id": "deschutes-orders-ordinance-2022-010",
+   "title": "Ordinance No. 2022-010",
+   "doc_type": "ordinance",
+   "path": "counties/deschutes-county/orders/deschutes-orders-ordinance-2022-010.md"
   },
   {
    "id": "deschutes-orders-ordinance-2022-013",
@@ -14981,6 +15155,18 @@
    "path": "counties/wasco-county/code/wasco-code-2025-wasco-county-title-vi-plan-signed.md"
   },
   {
+   "id": "wasco-code-authorizing-inclusion-of-county-ballot-measures-in-state-vot",
+   "title": "Authorizing Inclusion of County Ballot Measures in State Voters Pamphlet 5-10-2006",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-authorizing-inclusion-of-county-ballot-measures-in-state-vot.md"
+  },
+  {
+   "id": "wasco-code-authorizing-submissions-to-state-voters-pamphlet-5-11-1988",
+   "title": "Authorizing Submissions to State Voters Pamphlet 5-11-1988",
+   "doc_type": "ordinance",
+   "path": "counties/wasco-county/code/wasco-code-authorizing-submissions-to-state-voters-pamphlet-5-11-1988.md"
+  },
+  {
    "id": "wasco-code-building-codes-ordinance-19-002-fully-executed",
    "title": "Building Codes Ordinance 19-002 Fully Executed",
    "doc_type": "ordinance",
@@ -21512,9 +21698,79 @@
    "to": "ORS 205.320"
   },
   {
+   "from": "coos-orders-6-16-26-revised-agenda-packet",
+   "type": "references_external",
+   "to": "ORS 192.660"
+  },
+  {
+   "from": "coos-orders-6-16-26-revised-agenda-packet",
+   "type": "references_external",
+   "to": "ORS 279C.800"
+  },
+  {
+   "from": "coos-orders-7-20-26agenda-packet",
+   "type": "references_external",
+   "to": "ORS 192.660"
+  },
+  {
+   "from": "coos-orders-7-20-26agenda-packet",
+   "type": "references_external",
+   "to": "ORS 279C.800"
+  },
+  {
+   "from": "coos-orders-7-20-26agenda-packet",
+   "type": "references_external",
+   "to": "ORS 312.040"
+  },
+  {
+   "from": "coos-orders-7-7-26agenda-packet",
+   "type": "references_external",
+   "to": "ORS 279C.800"
+  },
+  {
+   "from": "coos-orders-boardofcommissionersmeetingagendaandpacket-6-2-2026",
+   "type": "references_external",
+   "to": "ORS 192.660"
+  },
+  {
+   "from": "coos-orders-boardofcommissionersmeetingagendaandpacket-6-2-2026",
+   "type": "references_external",
+   "to": "ORS 279C.800"
+  },
+  {
+   "from": "coos-orders-boardofcommissionersmeetingagendaandpacket-6-2-2026revised",
+   "type": "references_external",
+   "to": "ORS 192.660"
+  },
+  {
+   "from": "coos-orders-boardofcommissionersmeetingagendaandpacket-6-2-2026revised",
+   "type": "references_external",
+   "to": "ORS 279C.800"
+  },
+  {
    "from": "coos-orders-coos-county-public-records-request-form",
    "type": "references_external",
    "to": "ORS 205.320"
+  },
+  {
+   "from": "coos-orders-revised-board-of-commissioners-meeting-agenda-and-packet-05-",
+   "type": "references_external",
+   "to": "ORS 192.660"
+  },
+  {
+   "from": "coos-orders-revised-board-of-commissioners-meeting-agenda-and-packet-05-",
+   "type": "references_external",
+   "to": "ORS 279C.800"
+  },
+  {
+   "from": "coos-orders-revised-boardofcommissionersagendapacket2026-05-19",
+   "type": "references_external",
+   "to": "ORS 192.660"
+  },
+  {
+   "from": "coos-orders-revised-boardofcommissionersagendapacket2026-05-19",
+   "type": "references_external",
+   "to": "ORS 279C.800"
   },
   {
    "from": "coos-policies-coos-county-public-records-request-form",
@@ -21750,6 +22006,146 @@
    "from": "curry-land-use-fee-schedule-2026-approved",
    "type": "references_external",
    "to": "ORS 609.162"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "ORS 195.145"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "ORS 195.300"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "ORS 197.247"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "ORS 197.296"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "ORS 197.298"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "ORS 197A.320"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "ORS 215.416"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "ORS 227.175"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "ORS 390.805"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "ORS 455.446"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "ORS 836.623"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "OAR 660-009-0005"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "OAR 660-023-0070"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "OAR 660-023-0140"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "OAR 660-024-0020"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "OAR 660-024-0040"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "OAR 660-024-0045"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "OAR 660-024-0050"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "OAR 660-024-0060"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "OAR 660-024-0065"
+  },
+  {
+   "from": "deschutes-orders-order-2025-008",
+   "type": "references_external",
+   "to": "OAR 738-070-0060"
+  },
+  {
+   "from": "deschutes-orders-order-2025-009",
+   "type": "references_external",
+   "to": "ORS 197.646"
+  },
+  {
+   "from": "deschutes-orders-order-2025-009",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "deschutes-orders-order-2025-009",
+   "type": "references_external",
+   "to": "ORS 215.503"
+  },
+  {
+   "from": "deschutes-orders-order-2025-009",
+   "type": "references_external",
+   "to": "OAR 660-023-0115"
+  },
+  {
+   "from": "deschutes-orders-order-2025-009",
+   "type": "references_external",
+   "to": "OAR 660-033-0120"
   },
   {
    "from": "deschutes-orders-ordinance-2000-012",
@@ -24027,6 +24423,16 @@
    "to": "ORS 772.210"
   },
   {
+   "from": "deschutes-orders-ordinance-2019-009",
+   "type": "references_external",
+   "to": "ORS 195.060"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2019-009",
+   "type": "references_external",
+   "to": "ORS 195.137"
+  },
+  {
    "from": "deschutes-orders-ordinance-2019-011",
    "type": "references_external",
    "to": "ORS 195.025"
@@ -24290,6 +24696,71 @@
    "from": "deschutes-orders-ordinance-2020-005",
    "type": "references_external",
    "to": "OAR 137-047-0700"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2020-006",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2020-006",
+   "type": "references_external",
+   "to": "ORS 197.772"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2020-006",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2020-006",
+   "type": "references_external",
+   "to": "ORS 215.503"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2020-006",
+   "type": "references_external",
+   "to": "ORS 358.475"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2020-006",
+   "type": "references_external",
+   "to": "ORS 358.605"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2020-006",
+   "type": "references_external",
+   "to": "ORS 358.653"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2020-006",
+   "type": "references_external",
+   "to": "ORS 358.905"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2020-006",
+   "type": "references_external",
+   "to": "ORS 390.235"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2020-006",
+   "type": "references_external",
+   "to": "OAR 660-023-0030"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2020-006",
+   "type": "references_external",
+   "to": "OAR 660-023-0040"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2020-006",
+   "type": "references_external",
+   "to": "OAR 660-023-0050"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2020-006",
+   "type": "references_external",
+   "to": "OAR 660-023-0200"
   },
   {
    "from": "deschutes-orders-ordinance-2020-007",
@@ -24697,6 +25168,211 @@
    "to": "OAR 333-265-0000"
   },
   {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 192.502"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 197.015"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 197.835"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 215.246"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 215.441"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 215.452"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 30.395"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 30.936"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 315.141"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 339.030"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 358.480"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 454.695"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 469.300"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 475B.968"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 517.750"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 520.005"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 522.005"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 603.038"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "ORS 801.580"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-004",
+   "type": "references_external",
+   "to": "OAR 660-033-0130"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-005",
+   "type": "references_external",
+   "to": "ORS 195.145"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-005",
+   "type": "references_external",
+   "to": "ORS 197.247"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-005",
+   "type": "references_external",
+   "to": "ORS 197.298"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-005",
+   "type": "references_external",
+   "to": "ORS 197A.320"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-005",
+   "type": "references_external",
+   "to": "ORS 215.705"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-005",
+   "type": "references_external",
+   "to": "ORS 215.710"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-005",
+   "type": "references_external",
+   "to": "OAR 660-039-0000"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-005",
+   "type": "references_external",
+   "to": "OAR 660-039-0030"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-005",
+   "type": "references_external",
+   "to": "OAR 660-039-0080"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-005",
+   "type": "references_external",
+   "to": "OAR 660-039-0090"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-006",
+   "type": "references_external",
+   "to": "ORS 811.550"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-006",
+   "type": "references_external",
+   "to": "ORS 811.560"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-006",
+   "type": "references_external",
+   "to": "ORS 819.120"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-007",
+   "type": "references_external",
+   "to": "ORS 18.128"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-007",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-007",
+   "type": "references_external",
+   "to": "ORS 215.461"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-007",
+   "type": "references_external",
+   "to": "ORS 215.503"
+  },
+  {
    "from": "deschutes-orders-ordinance-2021-009",
    "type": "references_external",
    "to": "ORS 203.045"
@@ -24715,6 +25391,146 @@
    "from": "deschutes-orders-ordinance-2021-009",
    "type": "references_external",
    "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 133.535"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 133.545"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 153.018"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 161.505"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 163.160"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 163.165"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 163.415"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 163.465"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 163.535"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 163.547"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 163.665"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 164.245"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 164.345"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 164.365"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 166.025"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 166.065"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 166.155"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 167.222"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 30.930"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 471.430"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 475.005"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 475.992"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 475B.486"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-010",
+   "type": "references_external",
+   "to": "ORS 475B.928"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-011",
+   "type": "references_external",
+   "to": "ORS 197.610"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-011",
+   "type": "references_external",
+   "to": "ORS 339.030"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-012",
+   "type": "references_external",
+   "to": "ORS 192.502"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-012",
+   "type": "references_external",
+   "to": "ORS 197.610"
   },
   {
    "from": "deschutes-orders-ordinance-2021-013",
@@ -25005,6 +25821,281 @@
    "from": "deschutes-orders-ordinance-2021-013",
    "type": "references_external",
    "to": "OAR 837-040-0010"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-014",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-014",
+   "type": "references_external",
+   "to": "ORS 215.503"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-014",
+   "type": "references_external",
+   "to": "OAR 333-019-1025"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-017",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-017",
+   "type": "references_external",
+   "to": "ORS 215.503"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2021-017",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-001",
+   "type": "references_external",
+   "to": "ORS 197.015"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-001",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-001",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-001",
+   "type": "references_external",
+   "to": "ORS 215.211"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-001",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-001",
+   "type": "references_external",
+   "to": "ORS 215.243"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-001",
+   "type": "references_external",
+   "to": "OAR 660-006-0005"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-001",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-001",
+   "type": "references_external",
+   "to": "OAR 660-015-0000"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-001",
+   "type": "references_external",
+   "to": "OAR 660-033-0020"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-001",
+   "type": "references_external",
+   "to": "OAR 660-033-0030"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-001",
+   "type": "references_external",
+   "to": "OAR 660-033-0045"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-003",
+   "type": "references_external",
+   "to": "ORS 197.015"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-003",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-003",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-003",
+   "type": "references_external",
+   "to": "ORS 215.211"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-003",
+   "type": "references_external",
+   "to": "ORS 215.217"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-003",
+   "type": "references_external",
+   "to": "ORS 215.243"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-003",
+   "type": "references_external",
+   "to": "OAR 660-006-0005"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-003",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-003",
+   "type": "references_external",
+   "to": "OAR 660-015-0000"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-003",
+   "type": "references_external",
+   "to": "OAR 660-033-0020"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-003",
+   "type": "references_external",
+   "to": "OAR 660-033-0030"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-003",
+   "type": "references_external",
+   "to": "OAR 660-033-0045"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-003",
+   "type": "references_external",
+   "to": "OAR 738-070-0060"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-005",
+   "type": "references_external",
+   "to": "ORS 223.230"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-005",
+   "type": "references_external",
+   "to": "ORS 223.393"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-005",
+   "type": "references_external",
+   "to": "ORS 223.505"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-005",
+   "type": "references_external",
+   "to": "ORS 223.590"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-005",
+   "type": "references_external",
+   "to": "ORS 223.650"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-005",
+   "type": "references_external",
+   "to": "ORS 223.680"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-005",
+   "type": "references_external",
+   "to": "ORS 223.685"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-006",
+   "type": "references_external",
+   "to": "ORS 195.145"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-006",
+   "type": "references_external",
+   "to": "ORS 197.247"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-006",
+   "type": "references_external",
+   "to": "ORS 197.298"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-006",
+   "type": "references_external",
+   "to": "ORS 215.705"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-006",
+   "type": "references_external",
+   "to": "ORS 215.710"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-006",
+   "type": "references_external",
+   "to": "OAR 660-012-0060"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-006",
+   "type": "references_external",
+   "to": "OAR 660-024-0070"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-006",
+   "type": "references_external",
+   "to": "OAR 660-039-0000"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-006",
+   "type": "references_external",
+   "to": "OAR 660-039-0030"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-006",
+   "type": "references_external",
+   "to": "OAR 660-039-0080"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-006",
+   "type": "references_external",
+   "to": "OAR 660-039-0090"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-008",
+   "type": "references_external",
+   "to": "OAR 166-150-0005"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-010",
+   "type": "references_external",
+   "to": "ORS 197.175"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-010",
+   "type": "references_external",
+   "to": "ORS 197.835"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-010",
+   "type": "references_external",
+   "to": "ORS 215.435"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-010",
+   "type": "references_external",
+   "to": "ORS 227.181"
+  },
+  {
+   "from": "deschutes-orders-ordinance-2022-010",
+   "type": "references_external",
+   "to": "OAR 660-022-0030"
   },
   {
    "from": "deschutes-orders-ordinance-2022-013",
@@ -50100,6 +51191,11 @@
    "from": "wasco-code-2023-fee-schedule-rates-incorporated-signed",
    "type": "references_external",
    "to": "OAR 918-600-0030"
+  },
+  {
+   "from": "wasco-code-authorizing-submissions-to-state-voters-pamphlet-5-11-1988",
+   "type": "references_external",
+   "to": "ORS 251.285"
   },
   {
    "from": "wasco-code-building-codes-ordinance-19-002-fully-executed",

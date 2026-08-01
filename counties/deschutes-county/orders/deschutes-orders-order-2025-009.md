@@ -25,7 +25,12 @@ conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR 
 relationships:
   implements: []
   implemented_by: []
-  references_external: []
+  references_external:
+    - ORS 197.646
+    - ORS 203.045
+    - ORS 215.503
+    - OAR 660-023-0115
+    - OAR 660-033-0120
   related: []
   supersedes: []
 tags: [deschutes-county, orders, ocr-derived]

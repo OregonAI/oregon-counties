@@ -25,7 +25,8 @@ conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR 
 relationships:
   implements: []
   implemented_by: []
-  references_external: []
+  references_external:
+    - ORS 279C.800
   related: []
   supersedes: []
 tags: [coos-county, orders, ocr-derived]
