@@ -386,6 +386,13 @@ def run_discovery(slug: str, profiles: dict) -> int:
             print(f"  {n}x  {i}", file=sys.stderr)
         return 1
 
+    # `_explicit_id` is an internal marker for the widening pass above and must NOT reach
+    # the manifest — the source-group schema is additionalProperties: false, so leaking it
+    # fails validation for every source in the file. Dropped here rather than never set,
+    # because the widening pass genuinely needs to know which ids a profile chose itself.
+    for s in group["sources"]:
+        s.pop("_explicit_id", None)
+
     SOURCES.mkdir(parents=True, exist_ok=True)
     out = SOURCES / f"{slug}.yml"
     out.write_text(yaml.safe_dump(group, sort_keys=False, allow_unicode=True, width=100),
@@ -552,6 +559,9 @@ def ingest_county(slug: str, config, refetch: bool = False, limit: int | None = 
             snap = SNAPSHOTS / f"{sid}.{src['format']}"
             raw, fresh = fetch.snapshot(src["url"], snap, refetch)
             fmt = fetch.sniff(raw, src["format"])
+            if fmt in fetch.UNSUPPORTED:
+                raise ValueError(f"{fmt.upper()} file, not a document this corpus can read "
+                                 f"(usually an application form rather than law)")
             if fmt != src["format"]:
                 # Sniffed format wins and the manifest is corrected. A PDF served from an
                 # extensionless URL and recorded as html makes corpus-detect-changes convert

@@ -1,0 +1,347 @@
+group: union
+title: Union County sources
+county: union-county
+crawl:
+  decision: proceed
+  checked: '2026-08-01'
+  basis: 'Same as Washington and Benton: library.municode.com names ClaudeBot and sets Content-Signal:
+    ai-train=no; under the Phase 12 decision that is not treated as binding for the text of county law.
+    No evasion — api.municode.com serves the honest agent HTTP 200, and the JS-shell host carrying the
+    directive is not fetched.'
+  hosts:
+  - host: library.municode.com
+    robots_url: https://library.municode.com/robots.txt
+    ai_block: true
+    content_signal: search=yes, ai-train=no, use=reference
+    notes: JS shell carrying the AI block. NOT fetched.
+  - host: api.municode.com
+    robots_url: null
+    ai_block: false
+    content_signal: null
+    notes: Open JSON API; 200 to the honest agent.
+last_checked: '2026-07-31'
+upstream_signal: Jobs/latest/<productId> names the current supplement — a real signal.
+sources:
+- id: union-land-use-zopasuuncoor
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ZOPASUUNCOOR&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ZONING, PARTITION, & SUBDIVISION UNION COUNTY, OREGON
+  last_checked: '2026-07-31'
+- id: union-land-use-art1.00inprde
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART1.00INPRDE&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 1.00 - INTRODUCTORY PROVISIONS AND DEFINITIONS
+  last_checked: '2026-07-31'
+- id: union-land-use-art2.00exfauszo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART2.00EXFAUSZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 2.00 - A-1 EXCLUSIVE FARM USE ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art3.00agazzo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART3.00AGAZZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 3.00 - A-2 AGRICULTURE-GRAZING ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art4.00agfouszo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART4.00AGFOUSZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 4.00 - A-3 AGRICULTURAL FOREST USE ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art5.00tiazzo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART5.00TIAZZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 5.00 - A-4 TIMBER-GRAZING ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art6.00rucezo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART6.00RUCEZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 6.00 - R-1 RURAL CENTER ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art7.00rureuszo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART7.00RUREUSZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 7.00 - R-2 RURAL RESIDENTIAL USE ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art8.00farezo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART8.00FAREZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 8.00 - R-3 FARM RESIDENTIAL ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art9.00forezo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART9.00FOREZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 9.00 - R-4 FOREST RESIDENTIAL ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art10.00cozo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART10.00COZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 10.00 - C-1 COMMERCIAL ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art11.00coinzo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART11.00COINZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 11.00 - C-2 COMMERCIAL INTERCHANGE ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art12.00liinuszo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART12.00LIINUSZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 12.00 - I-1 LIGHT INDUSTRIAL USE ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art13.00heinuszo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART13.00HEINUSZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 13.00 - I-2 HEAVY INDUSTRIAL USE ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art14.00lagrpuaipazo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART14.00LAGRPUAIPAZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 14.00 - LA GRANDE PUBLIC AIRPORT (PA) ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art15.00sumismzo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART15.00SUMISMZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 15.00 - SURFACE MINING (SM) ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art16.00aiovzo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART16.00AIOVZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 16.00 - AIRPORT OVERLAY ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art17.00flplovzo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART17.00FLPLOVZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 17.00 - FLOOD PLAIN OVERLAY ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art18.00lagrisurgrarovzo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART18.00LAGRISURGRAROVZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 18.00 - LA GRANDE AND ISLAND CITY URBAN GROWTH AREA OVERLAY ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art19.00elnopourgrarovzo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART19.00ELNOPOURGRAROVZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 19.00 - ELGIN AND NORTH POWDER URBAN GROWTH AREA OVERLAY ZONES
+  last_checked: '2026-07-31'
+- id: union-land-use-art20.00supr
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART20.00SUPR&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 20.00 - SUPPLEMENTARY PROVISIONS
+  last_checked: '2026-07-31'
+- id: union-land-use-art21.00cous
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART21.00COUS&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 21.00 - CONDITIONAL USES
+  last_checked: '2026-07-31'
+- id: union-land-use-art22.00nousst
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART22.00NOUSST&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 22.00 - NONCONFORMING USES AND STRUCTURES
+  last_checked: '2026-07-31'
+- id: union-land-use-art23.00lausrelausplam
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART23.00LAUSRELAUSPLAM&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 23.00 - LAND USE REGULATION AND LAND USE PLAN AMENDMENTS
+  last_checked: '2026-07-31'
+- id: union-land-use-art24.00aprepr
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART24.00APREPR&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 24.00 - APPLICATION REVIEW PROCEDURES
+  last_checked: '2026-07-31'
+- id: union-land-use-art25.00ladire
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART25.00LADIRE&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 25.00 - LAND DIVISION REGULATIONS
+  last_checked: '2026-07-31'
+- id: union-land-use-articles_26.00--29.00re
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ARTICLES_26.00--29.00RE&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLES 26.00—29.00 - RESERVED
+  last_checked: '2026-07-31'
+- id: union-land-use-art30.00va
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART30.00VA&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 30.00 - VARIANCE
+  last_checked: '2026-07-31'
+- id: union-land-use-art31.00peag
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART31.00PEAG&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 31.00 - PERFORMANCE AGREEMENT
+  last_checked: '2026-07-31'
+- id: union-land-use-art32.00reprapsu
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART32.00REPRAPSU&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 32.00 - REVIEW OF PRIOR APPROVED SUBDIVISIONS
+  last_checked: '2026-07-31'
+- id: union-land-use-art33.00re
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART33.00RE&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 33.00 - RESERVED
+  last_checked: '2026-07-31'
+- id: union-land-use-art34.00ap
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART34.00AP&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 34.00 - APPEALS
+  last_checked: '2026-07-31'
+- id: union-land-use-art35.00inorpr
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART35.00INORPR&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 35.00 - INTERPRETATION OF ORDINANCE PROVISIONS
+  last_checked: '2026-07-31'
+- id: union-land-use-art36.00secl
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART36.00SECL&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 36.00 - SEVERABILITY CLAUSE
+  last_checked: '2026-07-31'
+- id: union-land-use-art37.00peen
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART37.00PEEN&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 37.00 - PENALTY AND ENFORCEMENT
+  last_checked: '2026-07-31'
+- id: union-land-use-art38.00reor
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART38.00REOR&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 38.00 - REPEALING ORDINANCE
+  last_checked: '2026-07-31'
+- id: union-land-use-art39.00re
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART39.00RE&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 39.00 - REMEDIES
+  last_checked: '2026-07-31'
+- id: union-land-use-art40.00sumiimarsmovzo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART40.00SUMIIMARSMOVZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 40.00 - SURFACE MINING IMPACT AREA (SMIA) OVERLAY ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art41.00lagruncoailiinpadepemast
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART41.00LAGRUNCOAILIINPADEPEMAST&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 41.00 - LA GRANDE/UNION COUNTY AIRPORT LIGHT INDUSTRIAL PARK DEVELOPMENT, PERFORMANCE
+    AND MAINTENANCE STANDARDS
+  last_checked: '2026-07-31'
+- id: union-land-use-art42.00bainpadepemast
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART42.00BAINPADEPEMAST&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 42.00 - BAUM INDUSTRIAL PARK DEVELOPMENT, PERFORMANCE AND MAINTENANCE STANDARDS
+  last_checked: '2026-07-31'
+- id: union-land-use-articles_43.00--49.00re
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ARTICLES_43.00--49.00RE&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLES 43.00—49.00 - RESERVED
+  last_checked: '2026-07-31'
+- id: union-land-use-art50.00oryoauoyovzo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART50.00ORYOAUOYOVZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 50.00 - OREGON YOUTH AUTHORITY (OYA) OVERLAY ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art51.00mespndrucldezo
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART51.00MESPNDRUCLDEZO&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 51.00 - MEDICAL SPRINGS-PONDOSA RURAL CLUSTER DEVELOPMENT ZONE
+  last_checked: '2026-07-31'
+- id: union-land-use-art52.00cowipogefasire
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART52.00COWIPOGEFASIRE&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE 52.00 - COMMERCIAL WIND POWER GENERATION FACILITY SITING REQUIREMENTS
+  last_checked: '2026-07-31'
+- id: union-land-use-apxagecoor
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=APXAGECOOR&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: APPENDIX A - GENERAL COUNTY ORDINANCES
+  last_checked: '2026-07-31'
+- id: union-land-use-cd_comparative_tableor
+  url: https://api.municode.com/CodesContent?jobId=495239&nodeId=CD_COMPARATIVE_TABLEOR&productId=17447
+  family: land-use
+  format: json
+  sha256: ''
+  title: CODE COMPARATIVE TABLE - ORDINANCES
+  last_checked: '2026-07-31'

@@ -1,0 +1,128 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/union-county
+id: union-land-use-art11.00coinzo
+title: 'ARTICLE 11.00 - C-2 COMMERCIAL INTERCHANGE ZONE'
+doc_type: ordinance
+citation: 'ARTICLE 11.00 - C-2 COMMERCIAL INTERCHANGE ZONE'
+authority_level: county_ordinance
+issuing_body: 'Union County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART11.00COINZO&productId=17447
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: 6b318a24c69d18316885befd49ce36c52ea08fb43ccc58ba9dc4fb82cc20212d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [union-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Union County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# ARTICLE 11.00 - C-2 COMMERCIAL INTERCHANGE ZONE (ARTICLE 11.00 - C-2 COMMERCIAL INTERCHANGE ZONE)
+
+## At a glance
+
+ARTICLE 11.00 - C-2 COMMERCIAL INTERCHANGE ZONE — land use of Union County. 6 sections.
+
+## Full text
+
+ ### ARTICLE 11.00 - C-2 COMMERCIAL INTERCHANGE ZONE
+
+ ### 11.01 - PURPOSE
+
+The Commercial Interchange Zone is intended to provide for the location of needed
+highway service, commercial facilities at the interchanges on controlled access highways.
+In providing for the location of commercial highway services, it is essential that
+the principal function of the interchange—the carrying of traffic to and from the
+freeway in a safe and expeditious manner—be preserved. The intent of this ordinance
+is to promote the public welfare and safety by encouraging orderly and compatible
+development of the C-2 Zone. The natural assets and scenic values of Union County
+are not to be lost to the traveler, the resident if the County or the owners of property
+within the C-2 Zone, merely because it is a commercial area.
+
+ ### 11.02 - USES PERMITTED OUTRIGHT
+
+In the C-2 Zone only the following use and its accessory use is permitted outright:
+1.
+Agriculture as authorized in the R-1 Zone.
+
+ ### 11.03 - CONDITIONAL USES PERMITTED
+
+In the C-2 Zone the following uses and their accessory uses may be permitted, subject
+to the provisions of Article 21.00 .
+1.
+Hotel and motel.
+2.
+Restaurant.
+3.
+Truck and automobile service station.
+4.
+Trailer, pick-up camper or motor home park.
+5.
+Commercial amusement establishment or recreational use.
+6.
+Repair garage, if all operations are conducted entirely within a completely enclosed
+building. Where a repair garage is located on a lot which does not abut an alley and
+is within fifty feet of a lot in any residential district, the garage wall, which
+parallels the nearest line of such district, shall have no openings other than stationary
+windows.
+7.
+Tire sales and service, provided repairing service is conducted wholly within a building.
+8.
+Gift shop.
+9.
+Park, playground or community building.
+10.
+Laundry agency, self-service laundry.
+11.
+Off-premises advertising.
+12.
+Boarding of dogs for profit.
+13.
+Grocery stores.
+14.
+Other uses per criteria in Subsection 21.06 2.
+
+ ### 11.04 - DIMENSION STANDARDS
+
+In the C-2 Zone yards shall be maintained as follows:
+1.
+There shall be a front yard of at least 30 feet.
+2.
+There shall be no side yard setback, except at least 20 feet when adjacent to a Residential
+Zone, or on the street side of a corner lot.
+3.
+There shall be no rear yard setback, except at least 20 feet when adjacent to a Residential
+Zone.
+4.
+No building or structure hereafter erected or enlarged shall exceed a height of 45
+feet.
+
+ ### 11.05 - DEVELOPMENT STANDARDS
+
+1.
+In addition to the above-required yard areas in Section 11.04 , at least an additional 2 percent of the gross area of the site shall be maintained
+with evergreen ground cover, lawn or with other suitable plantings native or adaptive
+to the area. The landscaped area shall be properly maintained in a sightly and well-kept
+condition and in such a manner as not to obstruct vision clearance.
+2.
+Signs.
+A.
+Sign standards in the C-2 Zone shall be the same as standards in Subsection 10.04 3.
+3.
+Off-Street Parking and Loading.
+The off-street parking and loading requirements contained in Section 20.11 shall apply to buildings and uses in the C-2 Zone.

@@ -1,0 +1,812 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/grant-county
+id: grant-land-use-2019-land-development-code-chapter-8-pdf
+title: '2019-Land-Development-Code---Chapter-8-PDF'
+doc_type: ordinance
+citation: '2019-Land-Development-Code---Chapter-8-PDF'
+authority_level: county_ordinance
+issuing_body: 'Grant County County Court'
+source_url: https://grantcountyoregon.net/DocumentCenter/View/529/2019-Land-Development-Code---Chapter-8-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: ccc5fe673d2474dc8bf97162d4a484df0a4b33ef5759d783e107928d07aca4b0
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [grant-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Grant County County Court at the source URL above. Verify at source before relying on it.
+
+# 2019-Land-Development-Code---Chapter-8-PDF (2019-Land-Development-Code---Chapter-8-PDF)
+
+## At a glance
+
+2019-Land-Development-Code---Chapter-8-PDF — land use of Grant County. 29 pages.
+
+## Full text
+
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  1
+CHAPTER 8 - PUBLIC FACILITIES DEVELOPMENT
+STANDARDS
+ARTICLE 80 - BASIC PROVISIONS
+80.010 - PURPOSE
+The purpose of this Chapter is to establish standards for the design and development of property
+in order to protect the public health, safety, and welfare.
+80.020 - APPLICATION OF CHAPTER
+A. The subdivision, partition, re-plat, property line adjustment, or planned unit development
+shall conform to, and be in harmony with, the Grant County Comprehensive Plan Text
+and Comprehensive Plan Map of that portion of the County within which the land
+division is located, and shall provide right-of-way dedication in conformance with an
+official map, adopted for the County or any urban or urbanizing area within the County.
+B. The requirements and standards set forth in this Chapter are the minimum which a
+subdivision, partition, re-plat, property line adjustment, or planned unit development
+must conform to before approval by the Review Body, except as otherwise provided in
+this Code.
+C. The term "land division" shall apply to all subdivisions, partitions, re-plats, property line
+adjustments, or planned unit developments.
+D. The standards in this Chapter shall apply to any relevant land use application and
+procedure.
+80.030 - IMPROVEMENT PROCEDURES
+Improvements required by this Chapter shall conform to the requirements of this Code, the
+Roadway and Traffic Management Plan for the Grant County Standards and Specifications for
+Design and Construction of County Roads, the Grant County Transportation System Plan,
+relevant City standards within an urban growth boundary, the American Association of State
+Highway and Transportation Officials (AASHTO) standards, and any technical manuals used by
+the Road Department in road development and plan review.  These manuals, as revised, are
+incorporated into this Code by reference.  The following procedures shall be used:
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  2
+A. Construction work shall not be commenced until all required plans, profiles, and
+specifications have been reviewed and approved by the Road Supervisor and the
+appropriate state agency.  All plans, profiles, and specifications shall be submitted prior
+to final development approval;
+B. Construction work shall not be commenced until the Road Supervisor has been notified;
+and
+C. Required improvements shall be constructed in accordance with specifications as set
+forth by the Road Supervisor and inspected for conformance.  The County may require
+changes in typical sections and details if unusual conditions arising during construction
+warrant such change.  Any similar changes initiated by the developer must be reviewed
+with, and approved by, the Road Supervisor.
+D. Uses Permitted Outright.  Except where otherwise specifically regulated by this
+ordinance, the following improvements are permitted outright:
+1. Normal operation, maintenance, repair, and preservation activities of existing
+transportation facilities.
+2. Installation of culverts, pathways, medians, fencing, guardrails, lighting and
+similar types of improvements within the existing right-of-way.
+3. Projects specifically identified in the Transportation System Plan as not requiring
+further land use regulation.
+4. Landscaping as part of a transportation facility.
+5. Emergency measures necessary for the safety and protection of property.
+6. Acquisition of right-of-way for public roads, highways and other transportation
+improvements designated in the TSP except for those that are located in EFU or
+PF Zones.
+7. Construction of a road or street as part of an approved subdivision or land
+partition approved consistent with the applicable land division ordinance.
+D. Conditional Uses Permitted:
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  3
+1. Construction, reconstruction or widening of highways, roads, bridges or other
+transportation projects that are:
+a. Not improvements designated in the TSP or (2) not designed and
+constructed as part of a subdivision or planned development subject to site
+plan and/or conditional use review, shall comply with the TSP and
+applicable standards, and shall address the following criteria.  For State
+projects that require an Environmental Impact Statement or Environmental
+Assessment the draft EIS or EA shall be reviewed and used for the basis
+for findings to comply with the following criteria:
+1) The project is designed to be compatible with existing land use and
+social patterns, including noise generation, safety and zoning.
+2) The project is designed to minimize avoidable environmental
+impacts to identified wetlands, wildlife habitat, air and water
+quality, cultural resources and scenic qualities.
+3) The project preserves or improves the safety and function of the
+facility through access management, traffic calming or other
+design features.
+4) The project includes provision for bicycle and pedestrian
+circulation as consistent with the comprehensive plan and other
+requirements of this ordinance.
+2. Construction of rest areas, weigh stations, temporary storage and processing sites.
+3. If review under this section indicates that the use or activity is inconsistent with
+the TSP, the procedure for a plan amendment shall be undertaken prior to or in
+conjunction with the conditional permit review.
+80.040 - PARCELS SPLIT BY AN URBAN GROWTH BOUNDARY
+When a parcel proposed for division lies partly within and partly outside an Urban Growth
+Boundary, the standards of this Code and any more restrictive requirement of a City shall apply
+within a UGB.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  4
+ARTICLE 81 - VEHICULAR ACCESS & STANDARDS
+81.010 - PURPOSE
+The purpose of these standards is to ensure safe ingress and egress to and from properties; to
+minimize street congestion and traffic hazards; to provide safe and convenient access to
+businesses, public services, and places of public assembly; and to make vehicular circulation
+more compatible with surrounding land uses.
+81.020 - ACCESS STANDARDS
+A. Every lot or parcel created by a new land division shall abut a County maintained road or
+street for at least 25 feet, or shall abut a State highway where the Highway Division,
+Oregon Department of Transportation, has issued an access permit to each lot or parcel.
+Lots or parcels that do not abut such a road or highway may be approved by the Review
+Body when the following conditions exist:
+1. When a parcel of land is an isolated ownership, where not more than two lots can
+be developed from the original parcel or from adjoining lands, and where access
+is by easement, the easement to the property line shall be continued to the
+proposed parcel;
+2. When a parcel of land receives access by a public usage road declared by a court
+of competent jurisdiction or by a non maintained County road, and where the
+Review Body finds that acceptance of such road for partitioning purposes is in the
+public interest, any partitioning using those roads shall be conditioned upon the
+dedication of additional right of way and improvement as required by the Review
+Body.
+B. No partitioning or subdivision of land shall be authorized except as permitted in Sections
+in this Code and as above, using any special purpose roads, including ways of necessity,
+special access roads under the permit control of the Secretaries of Agriculture or the
+Interior, timber access roads, or other roads in which the rights of the public for access
+may be restricted.
+81.030 - GENERAL ROADWAY DESIGN CRITERIA & STANDARDS
+The location, width, and grade of streets shall be considered in relation to existing and planned
+streets, to topographical conditions, to public safety, and to the proposed use of the land to be
+served by the street.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  5
+81.040 - STREET CREATION WITHIN A LAND DIVISION
+The creation of a street within a subdivision, partition, re-plat, or planned unit development, shall
+be in full compliance with the platting requirements contained in this Code and applicable City
+and/or State regulations.  No person shall create a street or road for the purpose of subdividing,
+partitioning, re-plating, or creating a planned unit development, on an area or tract of land
+without County approval.
+81.050 - STREET CREATION OUTSIDE A LAND DIVISION
+A. The provision of right of way for creation of streets outside of a subdivision, partition, re-
+plat, or planned unit development, where streets are not shown on an adopted
+Transportation Plan shall be in conformance with the County Road Standards, except that
+the Review Body may approve the creation of a street by deed without full compliance
+with platting regulations provided any of the following conditions exist:
+1. The establishment of the street is initiated by the County Court and is declared
+essential for the general traffic circulation;
+2. The street is to provide access to parcels that were created prior to the enactment
+of this Code;
+3. The street is necessary to provide access intervening between a proposed
+subdivision, partition, re-plat, or planned unit development and a public road;
+4. The street may be established as a condition of Site Plan Review to facilitate the
+safe ingress and egress of a particular use.
+B. In all cases, the creation of a street shall be consistent with the elements of the
+Comprehensive Plan; shall not disrupt the stability of the land use pattern in the area; and
+will promote and conserve the public health, safety, and welfare.  The Review Body may
+deny the request or refer the request for the creation of a street to a public hearing where,
+in the Review Body's opinion, the request would be in conflict with the provisions in
+Section 81.050(A).
+81.060 - SUBMISSION OF PROPOSED DEED
+A. In cases where approval of a street is to be without full compliance with the regulations
+applicable to subdivisions, partitions, re-plats, property line adjustments, or planned unit
+developments, a copy of the proposed deed shall be submitted to the Review Body.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  6
+B. The deed and any information which may be submitted shall be reviewed by the Review
+Body and the Road Supervisor, and, if not in conflict with the design standards of this
+Code, may be approved with any conditions necessary to comply with these standards.
+C. Requirements for the creation of a street by deed must include engineering data, plan and
+profile, and the construction of the street to the appropriate standards.
+81.070 - EASEMENTS
+Easements for public facilities, public or private utilities, slopes, drainage, etc., shall be
+dedicated wherever necessary.  The Review Body may require the developer to acquire and
+dedicate easements on adjoining property when necessary to protect the public health, safety, and
+general welfare.
+81.080 - RELATION TO ADJOINING STREET SYSTEM
+A. Applicants for a subdivision, partition, re-plat, property line adjustment, planned unit
+development or Site Plan Review shall provide for the continuation of the principal
+streets existing in adjoining subdivisions or of their proper projection when the adjoining
+property is not subdivided.  The streets shall be a width not less than the minimum
+requirements for streets set out in Sections 81.130(A) and 81.200(F).
+B. Where, in the opinion of the Review Body, topographic conditions make the continuation
+or conformity impractical with the existing, principal streets, an exception may be made.
+C. Where an adopted neighborhood, area, or rural community plan is in place, the
+subdivision partition, re-plat, property line adjustment, or planned unit development shall
+conform to the adopted plan.
+D. Where the plat submitted covers only a part of the developer's tract, a drawing of the
+prospective future street system on the part submitted shall be considered in light of its
+conformity to the street system of the entire tract.
+E. Loop road systems are to be provided where possible in order to provide more than one
+route for traffic in the case of an emergency.  Cul-de-sac roads are to be kept as short as
+practical to facilitate better emergency access.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  7
+81.090 - FUTURE EXTENSION OF STREETS
+A. Where necessary to give access to, or permit a satisfactory future subdivision, partition,
+re-plat, or planned unit development on adjoining land, the Review Body may require
+that streets be extended to the boundary of the subdivision or partition and the resulting
+dead end streets may be approved without a turnaround.
+B. Street plugs may be required to preserve the objectives of street extensions, the control of
+which shall rest with the County Court according to their sole discretion.
+81.100 - HALF STREETS
+A. While generally not acceptable, half streets may be approved where they can be shown to
+be essential to the reasonable development of the subdivision, partition, re-plat, or
+planned unit development.  The use of half streets must be in conformity with any other
+requirements of this Code, and when possible shall require the dedication for construction
+of the other half, at the time any adjoining property is subdivided, partitioned, re-plated,
+or a planned unit development is created.
+B. Whenever an existing half street is adjacent to land to be subdivided, the remaining half
+of the street shall be dedicated and constructed within the subdivision, partition, re-plat,
+or planned unit development.  Street plugs may be required to ensure the objectives of
+obtaining full width streets.
+81.110 - ALIGNMENT AT INTERSECTIONS
+As far as practical, streets shall be in alignment with existing streets by continuing the center
+lines.  Staggered street alignment resulting in "T" intersections shall, wherever practical, leave a
+minimum distance of 260 feet between the center lines of streets having approximately the same
+direction.
+81.120 - STREETS ABUTTING A LAND DIVISION
+A. At a minimum, applicants for subdivisions, partitions, re-plats, property line adjustments,
+planned unit developments and Site Plan Review shall provide streets, of the appropriate
+standards, connecting directly to an existing publicly maintained street.
+B. Where the right of way of an existing street, which directly abuts any land division, does
+not meet the appropriate rural standard, the applicant shall dedicate the right of way
+required to meet the standard unless exempted by another Section of this Code.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  8
+C. At County discretion, street improvements shall be constructed to an equivalent dollar
+amount of the half width rural standard.  Design standards for rural roads shall be in
+conformance with this Code, the Roadway and Traffic Management Plan for Grant
+County Standards and Specifications for Design and Construction of County Roads,
+relevant City street standards, the AASHTO standards, and any technical manuals used
+by the Road Department in road development and as provided in Section 81.130(A).
+81.130 - IMPROVEMENT STANDARDS
+A.
+Table 1
+Rural Road Standards
+Standard Limited Resident Resident Local Minor
+Collector
+Major
+Collector
+Design Speed 25 mph 25 mph 35 mph 50 mph 55 mph
+Lane Width 12 feet 12 feet 12 feet 12 feet 12 feet
+Surface Type crushed
+aggregate
+oil mat oil mat -
+AC
+oil mat - AC AC
+Grade Maximum 10% 10% 8% 6% 5%
+Shoulder Width ------- 2 feet 4 feet 6 feet 8 feet
+Shoulder Surface Gravel gravel oil mat -
+AC
+oil mat - AC AC
+Structure Width 28 feet 30 feet 32 feet 36 feet 40 feet
+Vertical Clearance 16 1/2 feet 16 1/2
+feet
+16 1/2 feet 16 1/2 feet 16 1/2 feet
+Load Design
+(Structure)
+HS 20-44 HS 20-44 HS 20-44 HS 20-44 HS 20-44
+R/W Width* 60 feet 60 feet 60 feet 60 feet 60 feet
+NOTES: Grades in erosion sensitive soils as determined by the Road Supervisor will
+require erosion control measures.
+* Right-of-way width may be increased because of the topography of a site.
+B. Improvements shall be made by the developer prior to submission of the final plat or final
+map or by an agreement to improve roadways which shall be executed as provided in
+Article 14 of this Code.  Roads proposed for construction will be categorized by location.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  9
+81.140 –  BLOCKS
+The length, width, and shape of blocks shall be designed to provide adequate building sites
+suitable for the proposed use(s), to satisfy any need for convenient access, circulation, control,
+and safety of street traffic, and the limitations and opportunities of the topography of the site.
+81.150 - BICYCLE LANES
+The Review Body may require the installation of separate bicycle lanes within streets and/or
+separate bicycle paths, if necessary to extend an existing or planned system of bicycle routes,
+shown on the adopted Bicycle Route Plan, or if a need is otherwise indicated.  Such paths shall
+meet the standards of the State of Oregon.
+81.160 –  ALLEYS
+The minimum width of alleys, when provided in residential blocks, shall be 20 feet.  Alleys shall
+be provided in Commercial and Industrial Zones and shall not be less than 20 feet in width.
+81.170 - CUL DE SACS AND ACCESS  WAYS
+Dead-end streets shall terminate in a cul-de-sac with a minimum of 60 foot radius as listed in the
+road standards adopted by the County Court or standards adopted by AASHTO
+A. Cul-de-sacs or permanent dead-end roads may be used as part of a development plan.
+However, through roads are encouraged except where topographical, environmental,
+access or existing adjacent land use constraints, or safety issues make connecting roads
+infeasible.  Where cul-de-sacs are planned, access  ways shall be provided connecting the
+ends of cul-de-sacs to each other; to other roads; or to neighborhood activity centers.
+B. Where appropriate access  ways for pedestrians and bicyclists shall be 10 feet wide and
+located within a 20 foot wide right-of-way or easement.  If the roads within the
+subdivision are lighted, the access  ways shall also be lighted.  Stairs or switchback paths
+may be used where grades are steep.
+C. Where appropriate access  ways for pedestrians and bicyclists shall be provided at mid-
+block where the block is longer than 600 feet.
+D. The Planning Director or Planning Commission may determine, based upon evidence in
+the record, that an access way is impracticable.  Such evidence may include, but is not
+limited to:
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  10
+1. Physical or topographic conditions make an access way connection impractical.
+Such conditions include , but are not limited to extremely steep slopes, wetlands or
+other bodies of water where a connection cannot reasonably be provided.
+2. Buildings or other existing development on adjacent lands physically preclude a
+connection now or in the future, considering potential for redevelopment.
+3. Where access  ways would violate provisions of leases, easements, covenants,
+restrictions or other agreements existing as of May 1, 1995, that preclude a
+required access way connection.
+81.180 - STREET INTERSECTIONS
+A. All streets shall intersect at right angles (90 degrees); where an intersection of 90 degrees
+cannot be secured because of physical constraints of the site, an angular intersection of
+not less than 60 degrees may be permitted.
+B. Right-of-way lines at street intersections shall be rounded with an arc parallel to the curb
+or shoulder arc.
+C. Collector and arterial intersections shall have roadway curb or road shoulder radii of not
+less than 25 feet; all other street intersections shall have roadway curb radii of not less
+than 20 feet.
+81.190 - STANDARD DRIVE APPROACHES
+Standard drive approaches shall be installed pursuant to County design standards.
+81.191 –  UTILITIES
+All underground power, telephone, television cable shall be buried to Code and prior to surfacing
+the sub-grade.
+81.192 - BICYCLE PARKING
+The development shall include the number and type of bicycle parking facilities required in
+Section 75.040 (E) of this title.  The location and design of bicycle parking facilities shall be
+indicated on the site plan.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  11
+81.193 - PEDESTRIAN ACCESS AND CIRCULATION
+Where appropriate, internal pedestrian circulation shall be provided in new commercial, office
+and multi-family residential developments through the clustering of buildings, construction of
+hard surface walkways, landscaping, access  ways or similar techniques.
+81.194 - COMMERCIAL DEVELOPMENT STANDARDS
+A. New commercial buildings, particularly retail shopping and offices, shall be oriented to
+the road, near or at the set-back line.  A main entrance shall be oriented to the road.  For
+lots with more than two front yards, the building(s) shall be oriented to the two busiest
+roads.
+B. Off-road motor vehicle parking for new commercial developments shall be located at the
+side or behind the building(s).
+81.195 - INDUSTRIAL AND COMMERCIAL SITE PLANS
+All site plans (industrial and commercial) shall clearly show how the site ’s internal pedestrian
+and bicycle facilities connect with external existing or planned facilities or systems.
+81.200 - RESTRICTED RESIDENTIAL ROADS
+A. When five or fewer lots or parcels are to be served by a public road, the developer may
+request approval to construct to a lesser standard than required by this Article.  Those
+roads will not be accepted for maintenance by the County Court, unless improved to
+maintenance standards and specifications for Rural Roads found in Section 81.130(A).
+B. If the road cannot be extended to serve ultimately more than five lots or parcels, the sub-
+grade may be constructed to only a single lane width:
+1. If the road potentially could be extended to serve more than five lots or parcels,
+the s ub-grade shall be constructed to a double lane width to allow future
+improvements to the appropriate road standard;
+2. Design standards for restricted residential roads are provided in Section
+81.200(F), for subdivisions  over five lots or parcels; however, surfacing may be
+limited to one lane only with turnouts intervisible or 800 feet maximum, 50 feet in
+length plus 25 foot tapers.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  12
+C. If a road is to be improved to the minimum standards of this Section rather than the
+normal standards for Rural Roads, prior to approval, the developer shall submit to the
+Review Body a provision which shall include the following terms:
+1. The agreements for maintenance and improvement shall be enforceable by any
+abutter or the County on its own motion;
+2. The property owners abutting the road, their successors, or assignees, shall
+maintain the road, either equally or in accordance with a special formula,
+including, but not limited to, a formula proportional to the frontage or acreage.
+D. The agreement required by Section 81.200(C) shall be recorded with the final plat and by
+the County Clerk prior to the transfer of lots or parcels served by the road created in
+compliance with this Section:
+1. Restoration of the road shall be accomplished whenever deterioration results in
+exposure of the sub grade, failure of the foundation, erosion of ditches or road
+shoulders, or blockage of culverts;
+2. The agreement shall further specify that if the road includes a structure, the
+structure shall be continually maintained at the loading standard to which it was
+constructed, and the structure shall be inspected at a minimum of every ten years
+by a registered professional engineer;
+3. This agreement shall not apply to any County road created prior to the passage of
+this Section, nor shall any maintenance agreement be binding on any lot or parcel,
+lawfully created and existing prior to the creation of a new road, that abuts a new
+road unless included in the maintenance agreement by voluntary action of the
+property owner.
+E. The applicant may request that a gravel surface be constructed in lieu of the required oil
+mat surface.  The Planning Director has the authority to approve this request if all the
+following conditions exist:
+1. The road cannot be extended to serve more than a total of five lots including the
+lots requested in the current application;
+2. The road shall be located on soils that are not erosive in nature to the extent that
+the road could substantially deteriorate under normal traffic conditions;
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  13
+3. The parcels to be served are relatively isolated from an existing oil mat or County
+road;
+4. The application of an oil mat surface would not be practical because of
+extraordinary circumstances that would cause a substantial hardship;
+5. The creation of the road would lead to an orderly and efficient use of the land on
+the subject property and surrounding properties.
+F.
+Table 2
+Restricted Residential Road Standards
+Standard
+Maximum 5 Lots
+or Parcels
+Potential for more
+than 5 Lots or
+Parcels
+Design Speed 20 mph 25 mph
+Lane Width 13 feet* 13 feet surfaced
+Surface Type crushed aggregate oil mat
+Grade Maximum 10% 8%
+Structure Width 14 feet 28 feet/30 feet
+Vertical Clearance 16 1/2 feet 16 1/2 feet
+Load Design (Structure) HS 20-44 HS 20-44
+R/W Width 60 feet** 60 feet
+NOTES: Grades in erosion sensitive soils as determined by the Road Supervisor will
+require erosion control measures.
+* Turnouts shall be provided intervisible or 800 feet, constructed 50 feet in length plus 25
+foot tapers on each end.
+** A different R/W w idth may be required because of the topography of a site.
+*** Future road standards above a residential standard will require the development to the
+greater standard.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  14
+81.210 - CREATION OF STREETS SHOWN ON THE TRANSPORTATION
+MASTERPLAN
+A. Streets shown on the Adopted Master Transportation Plans are created at the time of
+adoption of the Plans.
+B. Improvements and engineering data necessary for the completion of roads shall be
+submitted as reasonably requested by the Road Supervisor.
+C. The review and approval of documents shall be performed by the Review Body and Road
+Supervisor to assure compliance with street improvements standards.  Decisions made by
+the Review Body and Road Supervisor may be appealed as part of the original
+application under the provisions of Article 33.
+81.220 - TRANSPORTATION SYSTEM PLAN
+The intent of this section is to implement the access management policies of the Grant County
+Transportation System Plan; to manage access to land developments in an effort to preserve the
+transportation system in terms of safety, capacity, and function; and shall apply to all arterial and
+collectors within Grant County and to all properties that abut those roadways.
+A. Corner Clearance.
+1. Corner Clearance for connections shall meet or exceed the minimum connection
+spacing requirements for that roadway.
+2. New connections shall not be permitted within the functional area of an
+intersection or interchange as defined by the connection spacing standards of this
+ordinance, unless no other reasonable access to the property is available.
+3. Where no other alternatives exist, the County may allow construction of an access
+connection along the property line farthest from the intersection.  In such cases,
+directional connections (i.e. right in/ou t, right in only, or right out only) may be
+required.
+B. Joint and Cross Access.
+1. Adjacent commercial or office properties classified as major traffic generators
+(i.e. shopping plazas, office parks), shall provide a cross access drive and
+pedestrian access to allow circulation between sites.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  15
+2. A system of joint use driveways and cross access easements shall be established
+wherever feasible and shall incorporate the following:
+a. A continuous service drive or cross access corridor extending the entire
+length of each block served to provide for driveway separation consistent
+with the access management classification system and standards.
+b. A design speed of 10 mph and a maximum width of 20 feet to
+accommodate two-way travel aisles designated to accommodate
+automobiles, service vehicles, and loading vehicles.
+c. Stub-outs and other design features to make it visually obvious that the
+abutting properties may be tied in to provide cross-access via a service
+drive.
+d. A unified access and circulation system plan for coordinated or shared
+parking areas is encouraged.
+3. Shared parking areas shall be permitted to allow a reduction in required parking
+spaces if peak demands do not occur at the same time periods.
+4. Pursuant to this section, property owners shall:
+a. Record an easement with the deed showing cross access in and from other
+properties served by the joint use driveways and cross access or service
+drive.
+b. Record an agreement with the deed that remaining access rights along the
+roadway will be dedicated to the County and pre-existing driveways will
+be closed and eliminated after construction of the joint use driveway.
+c. Record a joint maintenance agreement with the deed defining maintenance
+responsibilities of property owners.
+5. The County may reduce required separation distance of access points where they
+prove impractical, provided all of the following requirements are met:
+a. Joint access driveways and cross access easements are provided in
+accordance with this section.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  16
+b. The site plan incorporates a unified access and circulation system in
+accordance with this section.
+c. The property owner enters into a written agreement with the County,
+recorded with the deed, that pre-existing connections on the site will be
+closed and eliminated after construction of each side of the joint use
+driveway.
+6. The County may modify or waive the requirements of this section where the
+characteristics or layout of abutting properties would make a development of a
+unified or shared access and circulation system impractical.
+C. Access Connection and Driveway Design
+1. Driveways shall meet the following standards:
+a. If the driveway is a one way in or one way out drive, the driveway shall be
+a minimum width of 12 feet and shall have an appropriate sign designating
+the driveway as a one way connection.
+b. For two way access, each lane shall have a minimum lane width of 10 feet
+and a minimum shoulder width of 2 feet on each side (minimum road
+width of 24 feet).
+c. Driveway grades will not exceed 12%.
+2. Driveway approaches must be designed and located to provide an exiting vehicle
+with an unobstructed view.  Construction of driveways along acceleration or
+deceleration lanes and tapers shall be avoided due to the potential for vehicular
+weaving conflicts.
+3. The length of driveways shall be designed in accordance with the anticipated
+storage length for entering and exiting vehicles to prevent vehicles from backing
+into the flow of traffic on the public road or causing unsafe conflicts with on site
+circulation.
+D. Requirements for Phased Development Plans.
+1. In the interest of promoting unified access and circulation systems, development
+sites under the same ownership or consolidated for the purposes of development
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  17
+and comprised of more than one building site shall be reviewed as single
+properties in relation to the access standards of this ordinance.  The number of
+access points permitted shall be the minimum number necessary to provide
+reasonable access to these properties.  All necessary easements, agreements, and
+stipulations shall be met.  This shall also apply to phased development plans.  The
+owner and all lessees within the affected area are responsible for compliance with
+the requirements of this ordinance and both shall be cited for any violation.
+2. All access must be internalized using the shared circulation system of the
+principal development or retail center.  Driveways shall be designed to avoid
+queuing across surrounding parking and driving aisles.
+E. Nonconforming Access Features.
+1. Legal access connections in place on date of adoption that do not conform with
+the standards herein are considered nonconforming features and shall be brought
+into compliance with applicable standards under the following conditions:
+a. When new access connection permits are required.
+b. Change in use or enlargements or improvements that will increase trip
+generation.
+F. Reverse Frontage.
+1. Lots that front on more than one road shall be required to locate motor vehicle
+accesses on the road with the lower functional classification.
+2. When a residential subdivision is proposed that would abut an arterial, it shall be
+designed to provide through lots along the arterial with access from a frontage
+road or interior local road.  Access rights for these lots to the arterial shall be
+dedicated to Grant County and recorded with the deed.  A berm or buffer yard
+may be required at the rear of through lots to buffer residences from traffic on the
+arterial.  The berm or buffer yard shall not be located with the public right-of-
+way.
+G. Shared Access.
+Subdivisions with frontage on the state highway system shall be designed into shared
+access points to and from the highway.  Normally a maximum of two accesses shall be
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  18
+allowed regardless of the number of lots or businesses served.  If access off a secondary
+road is possible, then access should not be allowed onto the state highway.  If access off
+of a secondary road becomes available, then conversion to that access is encouraged,
+along with closing the state highway access.
+H. Connectivity.
+Minor collector and local residential access roads shall connect with surrounding roads to
+permit the convenient movement of traffic between residential neighborhoods or facilitate
+emergency access and evacuation.  Connections shall be designed to avoid or minimize
+through traffic on local roads.  Appropriate design and traffic control such as four-way
+stops and traffic calming measures are the preferred means of discouraging through
+traffic.
+I. Variances to Access Management Standards.
+1. The granting of the variance shall meet the purpose and intent of these regulations
+and shall not be considered until every feasible option for meeting access
+standards is explored.
+2. Applicants for a variance from these standards must provide proof of unique or
+special conditions that make strict application of the provisions impractical.
+Applicants shall include proof that:
+a. Indirect or restricted access cannot be obtained.
+b. No engineering or construction solutions can be applied to mitigate the
+condition.
+c. No alternative access is available from a road with a lower functional
+classification that the primary roadway.
+3. No variance shall be granted where such hardship is self-created.
+81.230 - TRAFFIC IMPACTS
+A. The proposed use shall not impose an undue burden on the public transportation system.
+For developments that are likely to generate more than 400 average daily motor vehicle
+trips (ADT ’s), the applicant shall provide adequate information, such as a traffic impact
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  19
+study or traffic counts, to demonstrate the level of impact to the surrounding road system.
+The developer shall be required to mitigate impacts attributable to the project.
+B. The determination of impact or effect and the scope of the impact study should be
+coordinated with the provider of the affected transportation facility.
+C. Dedication of land for roads, transit facilities, sidewalks, bikeways, paths or access  ways
+shall be required where the existing transportation system will be impacted by or is
+inadequate to handle the additional burden caused by the proposed use.
+D. Improvements such as paving, curbing, installation or contribution to traffic signals,
+construction of sidewalks, bikeways, access  ways, paths or roads that serve the proposed
+use where the existing transportation system may be burdened by the proposed use.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  20
+ARTICLE 82 - SUBDIVISION & STREET NAMES & SIGNS
+82.010 - SUBDIVISION NAMES
+The name of any subdivision or planned unit development shall not be the same as, similar to, or
+pronounced the same as the name of any other subdivision or planned unit development within
+the County, unless the development is contiguous to and an extension of another land division
+which was platted by the same developer; or the developer files and records the consent of the
+original developer that platted the contiguous subdivision or planned unit development bearing
+that name.  Adjacent plats shall continue the lot numbers and, if used, the block numbers of the
+subdivision or planned unit development plat of the same name last filed.
+82.020 - STREET NAMES
+The name of any proposed road shall not duplicate or be so similar as to be confused with the
+name of any existing road within the County.
+82.030 - STREET SIGNS
+Arrangements shall be made by the developer for the Road Supervisor to furnish and install all
+required signs and traffic control devices.  All costs of materials, labor, and equipment shall be
+paid by the developer.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  21
+ARTICLE 83 - EROSION CONTROL & STORM DRAIN FACILITIES
+83.010 - PURPOSE
+The standards and criteria for erosion and sediment control provide for the design of projects so
+as to minimize the harmful effects of stormwater runoff and the resultant inundation and erosion
+from projects, and to protect neighboring downstream and downslope properties from erosion
+and sediment impacts.
+83.020 - APPLICATION OF STANDARDS
+A. These standards shall apply to any land division or land use application including
+development and construction which would require any grading or filling on slopes that
+are 15% or greater or soils that are granitic in composition as mapped by the Natural
+Resource Conservation Service except when authorized or regulated by the Oregon
+Forest Practices Act.
+B. An Erosion and Sediment Control Plan to prevent or mitigate possible hazards to life,
+property, or the natural environment shall be required.
+C. Seed mix and fertilizer recommended by Natural Resource Conservation Service.
+83.030 - PLAN REQUIREMENTS
+A. An operation plan shall be submitted prior to any grading or filling on slopes 15% or
+greater, or on granitic soils.
+B. The plan shall be prepared by a registered civil engineer, and shall provide the following
+information:
+1. A statement of the land capabilities of the property on which the grading, filling,
+or clearing is to be performed, including soil series name, slope, gradients, run off
+potential, soil depth, erosion potential, and natural drainage;
+2. An accurate plot plan showing the exterior boundaries of the property on which
+the modification is to be performed, including the following:
+a. Flow lines of surface waters onto and off of the site;
+b. Existing and proposed contours at two foot intervals;
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  22
+c. Location, amount, and extent of cuts, fills, or contouring;
+d. Existing and proposed drainage ways;
+e. Building corner and street elevations for existing and proposed
+improvements;
+f. Existing and proposed retaining walls;
+g. The location and design of facilities for storage or conveyance of surface
+water runoff;
+h. Estimates of existing and proposed runoff on the site.
+3. The p lan shall include an evaluation of the effects of projected runoff on adjacent
+properties and existing drainage  ways;
+4. A list of equipment and methods to be employed in processing and disposing of
+soil and other material that is removed from the site, including the location of
+disposal sites;
+5. The plan shall include information detailing the final ground cover, landscaping,
+erosion and drainage controls, and requirements for stable cut and fill slopes
+which will be based on detailed stability analysis.  For the purposes of
+determining appropriate soil losses, the Natural Resource Conservation Service,
+United States Department of Agriculture publication Soil Interpretations for
+Oregon shall be used.
+83.040 - EROSION & SEDIMENT CONTROL PLAN REVIEW
+The Erosion and Sediment Control Plan shall be submitted as part of the land division or land
+use application and shall be reviewed as part of the application.  The Review Body or the Road
+Supervisor where roads may be a ffected, shall review the p lan and may recommend the
+installation or construction of improvements necessary to mitigate the impacts of the potential
+erosion and runoff.
+83.050 - STORM DRAINAGE FACILITIES
+Drainage facilities shall be provided for subdivisions, partitions, re-plats, or planned unit
+developments, and shall be connected directly to existing drainage ways or storm sewers outside
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  23
+of the proposed land division that have an adequate capacity to accept drainage water from the
+subdivision, partition, re-plat, or planned unit development as provided below:
+A. Design of drainage within the subdivision, partition, re-plat, or planned unit development
+shall be approved by the Road Supervisor, consistent with the County's Master Storm
+Drainage Plan, and shall take into account the capacity and grade necessary to maintain
+unrestricted flow from areas draining through the subdivision, partition, re-plat, or
+planned unit development, and to allow extension of the system outside the subdivision,
+partition, re-plat, or planned unit development;
+B. Drainage for the individual lots of the proposed subdivision, partition, re-plat, or planned
+unit development, and the proposed subdivision, partition, re-plat or planned unit
+development as a whole, shall be accomplished in such a manner so as to prevent the
+excessive flow of water across property lines, sidewalks, and other public right-of-ways;
+C. When in the opinion of the Road Supervisor, land in a subdivision, partition, re-plat, or
+planned unit development which is or will be periodically subject to accumulations of
+surface water or is traversed by any water course, channel, stream, or creek, shall be
+required as a condition of approval to provide for adequate unrestricted drainage by the
+developer;
+D. Provision for drainage shall be shown on a drainage plan both within and adjacent to the
+subdivision, partition, re-plat, or planned unit development.  The plan shall show all
+easements and any improvements to be constructed;
+E. Public improvements shall be approved by the Review Body as adequate for the drainage
+needs of the area.  Where necessary, for protection of any needs, the Review Body may
+condition the tentative plan approval on the conveying of ownership of a drainage
+easement for drainage purposes to the County.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  24
+ARTICLE 84 - WATER STANDARDS
+RESERVED FOR FUTURE EXPANSION.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  25
+ARTICLE 85 - UTILITIES
+85.010 - UTILITY IMPROVEMENTS
+A. Utilities shall be placed to the lot line of each lot during the construction of any new
+street or road that:
+1. Will be maintained by the County;
+2. Has the potential to be maintained by the County; or
+3. Is maintained by abutting owners through a recorded agreement required as a part
+of an approved land division.
+B. The developer shall make necessary arrangements with the utility companies or other
+persons or corporations effected for the installation of lines and facilities, including , but
+not limited to communication, street lighting, and cable television, to provide service to
+the property.
+85.020 - UTILITY EASEMENTS
+Easements for public utilities shall be provided, as necessary, for the installation of utilities, and
+for the future installation of utilities when the subject property or adjoining property has the
+potential for further development.
+85.030 - GUARANTEES TO CONSTRUCT REQUIRED IMPROVEMENTS
+Waiver of Remonstrance regarding public facilities:
+A. Applicants for land divisions shall sign a written waiver of their right to remonstrate or
+otherwise legally oppose the installation of public facilities, including , but not limited to
+streets, storm drainage systems, sanitary sewer systems, and water supply systems, where
+such facilities are or may be proposed to serve the applicant's property as part of any
+local improvement (assessment) district, developer installed improvement project or a
+local government improvement project of any type;
+B. This Section shall not, however, prohibit the applicant, developer, or owner from
+expressing his or her personal views regarding the installation of a public facility.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  26
+85.040 - MODIFICATION OF REQUIRED IMPROVEMENTS
+A. The Review Body has the authority to modify the improvements required by Sections
+85.010 and 85.020.  This authority may only be used in those cases where:
+1. The full requirement would cause an undue or unnecessary hardship based on
+unforeseen circumstances that would require extraordinary construction methods
+or materials; and
+2. The authorization will be consistent with the purposes of this Chapter as set forth
+in Sections 80.010 and 80.020.
+B. The Review Body shall consider the modification after proper notice and shall consider
+any information necessary to demonstrate that the modification is in compliance with the
+criteria in the decision.
+C. The decision of the Review Body may be appealed as part of the original application
+under the procedures set out in Article 33.
+85.050 - SEWAGE DISPOSAL IMPROVEMENTS
+Sewage disposal improvements for each lot or parcel shall be in compliance with the
+requirements of the Department of Environmental Quality, and sanitary sewer district (if the
+proposed development is within the district boundaries or is proposed or conditioned for
+annexation of a district), applicable city standards, and any other applicable laws.
+85.060 - WATER SYSTEMS IN OTHER URBANIZING AREAS
+A. All subdivisions, partitions, re-plats, and planned unit developments located within
+urbanizing areas which are served by public sewers shall be provided with a public water
+system to the lot line of each lot within the subdivision or partition.
+B. The system shall be designed for meeting domestic needs and may be required to be
+designed for meeting fire fighting capacity.
+C. The system shall be installed prior to approval of the final plat or the developer shall
+complete a performance agreement as provided in Article 14 of this Code.  The
+agreement may include agreements to annex; incorporation of a water district, private
+water cooperative, or development of a service utility; and the posting of a bond or
+contributions of funds in sufficient amount to mitigate the burden created by the land
+division on public water supplies.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  27
+D. Pipe sizes and design standards for any system shall be specified by a city, special
+district, or cooperative that will eventually serve the proposed subdivision, partition, re-
+plat, or planned unit development:
+1. In any area where a future public water supply source has not been identified,
+design standards shall be specified by the County in consultation with the
+authority which will eventually serve the proposed subdivision, partition, re-plat,
+or planned unit development;
+2. Design approval shall take into account provision for extension beyond the
+subdivision, partition, re-plat, or planned unit development, to adequately grid the
+appropriate water system plan.
+85.070 - IRRIGATION
+A. If lands to be subdivided, partitioned, re-platted, or converted to a planned unit
+development include rights for irrigation, provision shall be made for continuation of
+those rights by indication of an easement to allow delivery of irrigation water and
+maintenance of irrigation facilities to each lot or parcel in the land division in which the
+historic application of water has been made.
+B. Where rural land divisions affect facilities of an irrigation district, the owners of the
+division shall be responsible for maintaining continuity of the district's system:
+1. The owner of the division shall either buy out of the district or provide each lot
+within the subdivision, partition, re-plat, or planned unit development with
+irrigation water, all in accordance with district requirements;
+2. In addition, the owner or developer shall buy out of the district any publicly
+dedicated or deeded right of way.
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  28
+ARTICLE 86 - SOLID WASTE
+86.010 - APPLICATION
+A. The standards contained in this Article shall apply to the siting of a sanitary or solid
+waste landfill, and to a resource recovery and/or transfer station.
+86.020 - SITING STANDARDS
+A. The following standards shall apply to siting a sanitary or solid waste landfill.  These
+standards shall not replace any applicable state or federal standards.
+1. The proposal meets the requirements of the Land Development Code.
+2. The proposed use complies with all requirements of the Department of
+Environmental Quality.
+3. A reclamation plan will be submitted to DEQ demonstrating how the land will be
+returned to resource use including a timetable for the implementation of the plan.
+B. The following standards, as appropriate, shall apply to siting a resource recovery and/or
+transfer station.  These standards shall not replace any state or federal standards , but shall
+supplement them:
+1. Lots are to be of sufficient size to allow a 30 foot separation of storage or
+buildings to adjacent property lines; greater if adjacent to a Residential Zone;
+2. Entire use to be fenced and screened from adjacent property and public right-of-
+way;
+3. All putrescible (garbage) shall be stored within an enclosed building;
+4. Recyclable commodities may be stored outside if each type is placed in containers
+appropriate to the material contained;
+5. All Federal and State environmental quality standards shall be met to include at a
+minimum noise, waste water discharge, surface drainage, disposal of putrescible
+material, etc.;
+CHAPTER 8 –  PUBLIC FACILITIES DEVELOPMENT STANDARDS Page  8 -  29
+6. All material shall be confined to the site and shall not be stored in a manner that
+will allow littering of adjacent property.

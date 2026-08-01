@@ -1,0 +1,40 @@
+Rufus
+Biggs Junction
+Wasco
+Moro
+Grass Valley
+§¨¦
+I-84
+§¨¦
+I-84
+£¤206
+£¤97
+£¤206
+£¤97
+£¤97
+£¤216
+Sherman County
+Enterprise Zone
+Mileage:
+Rufus to Biggs- 5 miles
+Biggs to Moro- 13 miles
+Biggs to Wasco- 8.75
+Wasco to Moro- 7.5
+Moro to Grass Valley- 9 miles
+Grass Valley to Race Track- 1.4 miles
+Acreages:
+Rufus- 370.03 Acres
+Biggs- 109.41 Acres
+Moro- 204.28 Acres
+Grass Valley- 259.32 Acres
+Wasco- 640 Acres
+Race Track- 434  Acres
+Total Acreage:  2,017.04 Acres
+Total Miles: 3.15 Square Miles
+±
+0 2 4 6 81
+Miles
+Urban Growth Boundaries
+Enterprise Zone
+Race Track
+Property

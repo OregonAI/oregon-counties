@@ -1,0 +1,86 @@
+group: sherman
+title: Sherman County sources
+county: sherman-county
+crawl:
+  decision: proceed
+  checked: '2026-08-01'
+  basis: No AI-agent directive; DocumentCenter open. Nothing to decide.
+  hosts:
+  - host: www.shermancountyor.gov
+    robots_url: https://www.shermancountyor.gov/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: No named AI agents.
+last_checked: '2026-07-31'
+upstream_signal: No feed; a replaced document gets a new DocumentCenter id.
+sources:
+- id: sherman-land-use-conditional-use-permit-application-docx
+  url: https://www.shermancountyor.gov/DocumentCenter/View/451/Conditional-Use-Permit-Application-DOCX
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Conditional-Use-Permit-Application-DOCX
+  last_checked: '2026-07-31'
+- id: sherman-land-use-conditional-use-permit-checklist-docx
+  url: https://www.shermancountyor.gov/DocumentCenter/View/452/Conditional-Use-Permit-Checklist-DOCX
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Conditional-Use-Permit-Checklist-DOCX
+  last_checked: '2026-07-31'
+- id: sherman-land-use-enterprise-zone-map-pdf
+  url: https://www.shermancountyor.gov/DocumentCenter/View/453/Enterprise-Zone-Map-PDF
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Enterprise-Zone-Map-PDF
+  last_checked: '2026-07-31'
+- id: sherman-land-use-land-use-fee-schedule-pdf
+  url: https://www.shermancountyor.gov/DocumentCenter/View/443/Land-Use-Fee-Schedule-PDF
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Land-Use-Fee-Schedule-PDF
+  last_checked: '2026-07-31'
+- id: sherman-land-use-mass-gathering-permit-docx
+  url: https://www.shermancountyor.gov/DocumentCenter/View/444/Mass-Gathering-Permit-DOCX
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Mass-Gathering-Permit-DOCX
+  last_checked: '2026-07-31'
+- id: sherman-land-use-partition-application-docx
+  url: https://www.shermancountyor.gov/DocumentCenter/View/445/Partition-Application-DOCX
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Partition-Application-DOCX
+  last_checked: '2026-07-31'
+- id: sherman-land-use-property-line-adjustment-application-docx
+  url: https://www.shermancountyor.gov/DocumentCenter/View/447/Property-Line-Adjustment-Application-DOCX
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Property-Line-Adjustment-Application-DOCX
+  last_checked: '2026-07-31'
+- id: sherman-land-use-sherman-county-comprehensive-land-use-plan-pdf
+  url: https://www.shermancountyor.gov/DocumentCenter/View/446/Sherman-County-Comprehensive-Land-Use-Plan-PDF
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Sherman-County-Comprehensive-Land-Use-Plan-PDF
+  last_checked: '2026-07-31'
+- id: sherman-land-use-sherman-county-enterprise-zone-information-pdf
+  url: https://www.shermancountyor.gov/DocumentCenter/View/448/Sherman-County-Enterprise-Zone-Information-PDF
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Sherman-County-Enterprise-Zone-Information-PDF
+  last_checked: '2026-07-31'
+- id: sherman-land-use-sherman-county-zoning-ordinance-docx
+  url: https://www.shermancountyor.gov/DocumentCenter/View/449/Sherman-County-Zoning-Ordinance-DOCX
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Sherman-County-Zoning-Ordinance-DOCX
+  last_checked: '2026-07-31'

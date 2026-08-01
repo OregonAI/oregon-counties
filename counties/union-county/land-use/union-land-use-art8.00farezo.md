@@ -1,0 +1,341 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/union-county
+id: union-land-use-art8.00farezo
+title: 'ARTICLE 8.00 - R-3 FARM RESIDENTIAL ZONE'
+doc_type: ordinance
+citation: 'ARTICLE 8.00 - R-3 FARM RESIDENTIAL ZONE'
+authority_level: county_ordinance
+issuing_body: 'Union County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART8.00FAREZO&productId=17447
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: 796cb7ae9382d3c1ec9a0d5da90dd78e444a614559d57d2a54ef205b5ace33ea
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 105.550
+    - ORS 181A.410
+    - ORS 476.392
+    - ORS 477.490
+  related: []
+  supersedes: []
+tags: [union-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Union County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# ARTICLE 8.00 - R-3 FARM RESIDENTIAL ZONE (ARTICLE 8.00 - R-3 FARM RESIDENTIAL ZONE)
+
+## At a glance
+
+ARTICLE 8.00 - R-3 FARM RESIDENTIAL ZONE — land use of Union County. 7 sections.
+
+## Full text
+
+ ### ARTICLE 8.00 - R-3 FARM RESIDENTIAL ZONE
+
+ ### 8.01 - PURPOSE
+
+The Farm Residential Zone is intended to provide areas suitable and desirable for
+small agricultural uses and rural living opportunities. Development shall be in accord
+with Farm Residential Land Use Plan classification provisions.
+
+ ### 8.02 - PERMITTED USES
+
+The following uses are permitted outright in an R-3 Zone:
+1.
+Any use permitted outright in an R-1 Zone.
+
+ ### 8.03 - CONDITIONAL USES
+
+The following uses may be established in an R-3 Zone as conditional uses subject to
+County review under Article 24.03 Quasi-Judicial land use decision, the applicable standards in Article 21.00 Conditional Uses, Section 20.10 Site Plan Requirements and Section 20.11 Off-Street Parking and Loading requirements:
+1.
+Cemetery.
+2.
+Schools, parks, or playgrounds.
+3.
+Utility facilities.
+4.
+Home Occupation.
+5.
+Commercial activities undertaken in conjunction with farm use.
+6.
+Geothermal exploration or development.
+7.
+Aggregate and mineral exploration, mining and processing.
+8.
+Boarding of dogs for profit.
+9.
+Temporary dwellings [for a medical hardship subject to requirements outlined in the
+R-2 zone].
+10.
+Churches.
+11.
+Private Parks.
+12.
+One accessory dwelling unit (ADU).
+a.
+Subject to the following:
+A.
+The lot or parcel is two (2) acres or greater in size;
+B.
+One single-family dwelling is sited on the lot or parcel which is not subject to an
+order declaring it a nuisance or subject to any pending action under ORS 105.550 to
+105.600;
+C.
+If the lot or parcel is in an area identified on a statewide map of wildfire risk
+described in ORS 477.490 as within the wildland-urban interface, the lot or parcel
+and accessory dwelling unit will comply with any applicable minimum defensible space
+requirements for wildfire risk reduction established by the State Fire Marshal under
+ORS 476.392 and any applicable local requirements for defensible space established
+by a local government pursuant to ORS 476.392;
+D.
+If no statewide map of wildfire risk has been adopted or if the lot or parcel is not
+in an area identified on a statewide map of wildfire risk described in ORS 477.490
+as within the wildland-urban interface, the accessory dwelling unit will comply with
+the provisions of any applicable local requirements for defensible space established
+by a local government pursuant to ORS 476.392 and the accessory dwelling unit will
+have adequate access for firefighting equipment, safe evacuation and staged evacuation
+areas; and
+E.
+A site plan drawn to scale will be submitted that identifies the property lines of
+the subject property, the location of the existing dwelling, the location of the proposed
+accessory dwelling unit, the distance between the existing dwelling and the proposed
+accessory dwelling unit, the distance from the proposed accessory dwelling unit to
+all property lines and the square footage of the proposed accessory dwelling unit.
+b.
+In the event approval is granted, the following standards and limitations shall apply:
+A.
+The accessory dwelling unit cannot be located more than 100 feet from the existing
+dwelling.
+B.
+The accessory dwelling unit is limited to 900 square feet of useable floor space.*
+C.
+The accessory dwelling unit will comply with all applicable state laws relating to
+water supply, sanitation and wastewater disposal.
+D.
+The accessory dwelling unit cannot be utilized for vacation rental occupancy.
+E.
+The lot or parcel cannot be subdivided or partitioned so that the existing single-family
+dwelling is situated on a different lot or parcel than the accessory dwelling unit.
+F.
+The lot or parcel is served by a fire protection service provider with professionals
+who have received training or certification described in ORS 181A.410.
+*One Story Structures: The footprint of the entire ADU structure, minus non-useable
+floor space components such as attached garages, decks, or porch covers. Two Story
+Structures: The footprint of the entire ADU structure, plus the stair area for the
+first floor, minus non useable floor space components such as attached garages, decks,
+or porch covers.
+
+ ### 8.04 - MINIMUM LOT SIZE
+
+The minimum lot size for new lots or parcels in the R-3 Zone shall be ten acres.
+
+ ### 8.05 - DEVELOPMENT STANDARDS
+
+The following standards shall apply to all development in the R-3 Farm Residential
+Zone.
+1.
+All structures shall be set back from property lines a minimum of 20-feet front and
+rear yards and 10-feet side yards. Rural ADUs shall be set back a minimum of 30 feet
+from all property lines where adjacent parcels are forested or the subject property
+is within ¼ mile of forestland.
+2.
+Animal shelters shall not be located closer than 100 feet to an R-1 or R-2 Zone.
+3.
+Signs shall be limited to the following:
+a.
+All off-premises signs within view of any State Highway shall be regulated by State
+regulation under ORS Chapter 377 and receive building permit approval.
+b.
+All on-premises signs shall meet the Oregon Administrative Rule regulations for on-premises
+signs which have the following standards:
+A.
+Maximum total sign area for one business is 8% of building area plus utilized parking
+area, or 2,000 square feet, whichever is less.
+B.
+Display area maximum is 825 square feet for each face of any one sign, or half the
+total allowable sign area, whichever is less.
+C.
+Businesses which have no buildings located on the premises or have buildings and parking
+area allowing a sign area of less than 250 square feet may erect and maintain on-premises
+signs with the total allowable area of 250 square feet, 125 square feet maximum for
+any one face of a sign.
+D.
+Maximum height of freestanding signs adjacent to interstate highways is 65 feet, for
+all other highways is 35 feet, measured from the highway surface or the premises grade,
+whichever is higher to the top of the sign.
+c.
+All on-premises signs within view or 660 feet of any State Highway shall obtain permit
+approval from the Permit Unit, Oregon State Highway Division. No sign shall be moving,
+revolving or flashing, and all lighting shall be directed away from residential use
+or zones, and shall not be located so as to detract from a motorists vision except
+for emergency purposes.
+d.
+All dwelling addresses shall be uniquely designated in accordance with the Union County
+Road Naming and Addressing Ordinance (Court Order 1988-03) on signs clearly visible
+and placed at the intersection of the driveway and named road. Rural address markers
+provided and installed by the Union County Public Works Department shall not be removed,
+modified or obstructed.
+e.
+Signs identifying pertinent information such as "dead end road," "bridge out," and
+so forth, shall be appropriately placed as designated by Union County.
+f.
+Signs identifying location of a fire-fighting water source and each assess to that
+source shall be permanently identified and shall indicate whether it is a fire hydrant,
+a dry hydrant, or another type of water supply.
+
+ ### 8.06 - FIRE SITING STANDARDS
+
+Fire siting standards shall apply only to new dwellings and related structures in
+the R-3 Zone where the predominant use is forestry [OAR 660-06-055(3)] and where dwellings
+are on cropland or rangeland within ¼ mile of forestland areas.
+1.
+A new dwelling shall be located upon a parcel within a fire protection district or
+shall be provided with residential fire protection by contract. If the dwelling is
+not within a fire protection district, the applicant shall provide evidence that the
+applicant has asked to be included within the nearest such district. If the governing
+body or the nearest rural fire protection district determines that inclusion within
+a fire protection district or contracting for residential fire protection is impracticable,
+the applicant shall provide an alternate means of protecting the dwelling from fire
+hazards. The means selected shall include a fire sprinkling system, on-site equipment
+and water storage or other methods which are reasonable, given the site conditions.
+The applicant shall provide verification from the Water Resources Department that
+any permits or registrations required for water diversion or storage have been obtained
+or that permits or registrations are not required for the use. Road access shall be
+provided to within 15 feet of the water's edge for fire fighting pumping units. The
+road access shall accommodate the turnaround of fire fighting equipment during the
+fire season. Permanent signs shall be posted along the access route to indicate the
+location of the emergency water source.
+In addition to the domestic water source, emergency water storage for dwellings in
+forested areas during Department of State Forestry designated fire season shall have
+a minimum capacity of 500 gallons (year-round source) inside rural fire protection
+districts, 1,000 gallons in an enclosed container outside rural fire protection districts
+or 4,000 gallons for open water impoundments outside rural fire protection districts,
+with a 20 gallon per minute pump and an adequate length of hose and nozzle or an equivalent
+supply. A gravity flow system, gas powered pump or generator shall be provided in
+case of a power failure. Property owner/developer shall document each water source
+and provide that documentation to the appropriate fire protection agency.
+2.
+Access and Evacuation.
+a.
+Road Construction. All public and private roads shall be constructed to Union County
+Zoning, Partition and Subdivision Ordinance Section 25.09 , Table 7-2 standards; and
+A.
+Public Roads, bridges, culverts, road surfaces and other structures in the roadbed
+shall be constructed and maintained to support a gross vehicle weight of 80,000 pounds.
+B.
+Private Roads, bridges, culverts, road surfaces and other structures in the roadbed
+shall be constructed and maintained to support a gross vehicle weight of 50,000 pounds.
+b.
+No public or private road shall be constructed with a curve radius of less than 48
+feet, measured from the centerline.
+c.
+A vertical clearance of 14 feet 6 inches.
+d.
+Driveways in excess of 200 feet long require 20 feet wide by 40 feet long turnouts
+at a maximum spacing of ½ the driveway length or 400 feet, whichever is less.
+e.
+Dead-end roads over 100 feet in length shall have turnarounds of not less than 48
+feet radius or where appropriate, a hammerhead turnaround.
+f.
+Road grades shall not exceed an average of 8% with a maximum of 12% on short pitches,
+except that Union County shall permit steeper grades where they can be reasonably
+mitigated and agreed upon by the appropriate fire department or rural fire protection
+district.
+3.
+Defensible Space.
+a.
+Fuel Load Reduction. Each residential dwelling or structure in forested areas shall
+maintain a defensible space of not less than 30-feet.
+b.
+Ground Fuel. Dead and down material shall be removed. Ground fuel within the defensible
+space shall be treated (mowed, mulched, converted to compost, etc.) or removed annually
+or more frequently as directed by the Oregon Department of Forestry.
+c.
+Thinning and Pruning. Live vegetation within the defensible space shall have all dead
+material removed and shall be thinned and pruned to reduce fire intensity and rate
+of spread.
+d.
+Dead Trees. Dead trees within a dwelling's defensible space shall be removed.
+e.
+Ladder Fuels. No ornamental shrubbery, single species trees or similar plants shall
+provide means of rapidly transmitting fire from native growth to structures. Vegetation
+under trees, within the defensible space, shall be maintained at a height that will
+preclude it functioning as a "ladder" for fire to travel from ground vegetation into
+the tree crown.
+f.
+Landscaping. Where landscaping is desired, the applicant may choose from a recommended
+list of recognized fire resistant vegetation, found in the Fire Resistant Plants for
+Home Landscapes.
+g.
+Secondary Fuel Breaks. The applicant for a dwelling within a predominantly forested
+area or within ¼ mile of a predominantly forested area shall contact Oregon Department
+of Forestry or the applicable Rural Fire Protection District to determine whether
+it is necessary to establish a secondary fuel break. If required, a secondary fuel
+break extending a minimum of 100 feet in all directions is required to reduce fuels
+so that the overall intensity of any wildfire would be lessened. Vegetation within
+the secondary fuel break shall be pruned and spaced. Small trees, brush and dead fuels
+underneath and around larger trees shall be removed.
+h.
+Secondary Fuel Break Maintenance. If the Oregon Department of Forestry or applicable
+Rural Fire Protection District determines a secondary fuel break is necessary in addition
+to the defensible space, the property owner shall maintain the fuel modification outside
+of the defensible space. If the property owner does not permanently reside on the
+property, then the property owner shall arrange for annual secondary fuel break maintenance.
+i.
+Defensible Space Maintenance. The property owner shall maintain a defensible space
+of 30 feet around the primary dwelling. If the property owner does not permanently
+reside on the property, then the property owner shall arrange for annual defensible
+space maintenance.
+j.
+Location. The dwelling shall not be sited on a slope of greater than 40 percent. New
+dwellings located closer than 30 feet to a vegetated slope may require special mitigation
+measures as recommended by an Oregon Department of Forestry Forester. Wider breaks,
+called secondary fuel breaks, may be required on slopes greater than 30 percent on
+advice of a State Forester.
+4.
+Design and Construction. All buildings in identified forestland areas or within one-quarter
+mile of a forestland area shall be designed, located and constructed to comply with
+Oregon's residential building code and with its fire siting standards. In case of
+conflict between Oregon's residential building code and these fire siting standards,
+the more stringent fire protection requirements shall be utilized to mitigate the
+combustibility of structures exposed to potential wildfire.
+a.
+Roofing. Only fire-retardant roof covering assemblies rated Class A, B, or C shall
+be used. Wood shingle and shake roofs are not permitted.
+b.
+Re-Roofing or Roofing Repair of Existing Structures and Dwellings. When 50% or more
+of the roof covering of any building is repaired or replaced within one year, the
+roof covering shall be made to comply with these fire siting standards. Ventilation
+shall be made to comply with Oregon's residential building code.
+c.
+Attic and Sub-Floor Ventilation. All vents shall be screened with a corrosion-resistant,
+noncombustible wire mesh in accordance with Oregon's residential building code.
+d.
+Eaves. Eaves shall be boxed in with ½ inch nominal sheathing or noncombustible materials.
+e.
+Overhanging Projections and Buildings. Porches, decks, patios, balconies, similar
+undersides of overhangs or the underside of overhanging buildings shall be constructed
+in accordance with Oregon's residential building code using heavy timber, one-hour
+fire resistive material or noncombustible material.
+f.
+Chimneys and Flues. Every fire place and wood/pellet stove chimney and flue shall
+be provided with an approved spark arrestor constructed of a minimum 12-gauge welded
+wire or woven wire mesh, with the openings not to exceed ½ inch. Vegetation shall
+not be allowed within 10 feet of a chimney outlet.
+g.
+Mobile and Manufactured Homes shall be skirted with noncombustible materials.
