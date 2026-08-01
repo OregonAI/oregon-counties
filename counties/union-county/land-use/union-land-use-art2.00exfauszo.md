@@ -1,0 +1,2658 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/union-county
+id: union-land-use-art2.00exfauszo
+title: 'ARTICLE 2.00 - A-1 EXCLUSIVE FARM USE ZONE'
+doc_type: ordinance
+citation: 'ARTICLE 2.00 - A-1 EXCLUSIVE FARM USE ZONE'
+authority_level: county_ordinance
+issuing_body: 'Union County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=495239&nodeId=ART2.00EXFAUSZO&productId=17447
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: 859beaca1fa422f656596c886ef176d57f33989ddc5b20c08de4c14c036c08d7
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 195.120
+    - ORS 195.300
+    - ORS 197.015
+    - ORS 197.660
+    - ORS 197.732
+    - ORS 215.203
+    - ORS 215.263
+    - ORS 215.283
+    - ORS 215.298
+    - ORS 215.306
+    - ORS 215.417
+    - ORS 215.705
+    - ORS 215.780
+    - ORS 30.930
+    - ORS 30.936
+    - ORS 358.480
+    - ORS 433.735
+    - ORS 433.763
+    - ORS 454.695
+    - ORS 455.055
+    - ORS 459.245
+    - ORS 468B.050
+    - ORS 468B.095
+    - ORS 517.750
+    - ORS 520.005
+    - ORS 522.005
+    - ORS 540.505
+    - ORS 565.210
+    - ORS 603.038
+    - ORS 621.072
+    - ORS 624.010
+    - ORS 658.750
+    - ORS 671.318
+    - ORS 671.520
+    - ORS 757.300
+    - ORS 757.365
+    - OAR 340-093-0050
+    - OAR 340-096-0150
+    - OAR 660-011-0060
+    - OAR 660-012-0065
+    - OAR 660-033-0020
+    - OAR 660-033-0130
+    - OAR 660-033-0135
+    - OAR 660-044-0135
+  related: []
+  supersedes: []
+tags: [union-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Union County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# ARTICLE 2.00 - A-1 EXCLUSIVE FARM USE ZONE (ARTICLE 2.00 - A-1 EXCLUSIVE FARM USE ZONE)
+
+## At a glance
+
+ARTICLE 2.00 - A-1 EXCLUSIVE FARM USE ZONE — land use of Union County. 18 sections.
+
+## Full text
+
+ ### ARTICLE 2.00 - A-1 EXCLUSIVE FARM USE ZONE
+
+ ### 2.01 - PURPOSE
+
+The purpose of the A-1 Zone is to protect and maintain agricultural lands for farm
+use, consistent with existing and future needs for agricultural products. The A-1
+Zone is also intended to allow other uses that are compatible with agricultural activities,
+to protect forests, scenic resources and fish and wildlife habitat. It is also the
+purpose of the A-1 Zone to qualify farms for farm use valuation under the provisions
+of ORS Chapter 308.
+The A-1 Zone has been applied to lands designated as Exclusive Agriculture in the
+Land Use Plan. The provisions of the A-1 Zone reflect the agricultural policies of
+the Land Use Plan as well as the requirements of ORS Chapter 215 and OAR 660-033.
+The minimum parcel size and other standards established by this zone are intended
+to promote commercial agricultural operations.
+
+ ### 2.02 - PERMITTED USES
+
+In the A-1 Zone, the following uses and activities and their accessory buildings and
+uses are permitted subject to the general provisions set forth by this ordinance:
+1.
+Farm use.
+2.
+Propagation or harvesting of a forest product.
+3.
+Other buildings customarily provided in conjunction with farm use.
+
+ ### 2.03 - ADMINISTRATIVE USES
+
+The following uses may be established in an A-1 Zone subject to the review process
+identified in Section 24.02 (Planning Director Land Use Decision).
+1.
+Creation of, restoration of, or enhancement of wetlands.
+2.
+Climbing and passing lanes within the right-of-way existing as of July 1, 1987.
+3.
+Reconstruction or modification of public roads and highways, including the placement
+of utility facilities overhead and in the subsurface of public roads and highways
+along the public right-of-way, but not including the addition of travel lanes, where
+no removal or displacement of buildings would occur, or no new land parcels result.
+4.
+Temporary public road and highway detours that will be abandoned and restored to original
+condition or use at such time as no longer needed.
+5.
+Irrigation reservoirs, canals, delivery lines and those structures and accessory operational
+facilities, not including parks or other recreational structures and facilities, associated
+with a district as defined in ORS 540.505.
+6.
+Fire service facilities providing rural fire protection services.
+7.
+On-site filming and activities accessory to on-site filming for 45 days or less as
+provided for in ORS 215.306.
+8.
+Firearms training facility in existence on September 9, 1995.
+9.
+Dwelling customarily provided in conjunction with farm use subject to Subsection 2.05.26.B
+and Section 2.07 .
+10.
+Replacement dwelling to be used in conjunction with farm use if the existing dwelling
+has been listed in a county inventory as historic property as defined in ORS 358.480
+and listed on the National Register of Historic Places subject to Subsection 2.05.26.B.
+11.
+Alteration, restoration, or replacement of a lawfully established dwelling subject
+to Subsection 2.05.26.B and Section 2.11 .
+
+ ### 2.04 - CONDITIONAL USES WITH GENERAL REVIEW CRITERIA
+
+In the A-1 Zone, the following uses and their accessory buildings and uses are permitted
+subject to county review under Article 24.03 Quasi-Judicial land use decision and the specific standards for the use set forth
+in Section 2.05 , as well as the general standards for the zone and the applicable standards in Article 21.00 (Conditional Uses).
+1.
+Operations for the exploration for and production of geothermal resources as defined
+by ORS 522.005 and oil and gas as defined by ORS 520.005, including the placement
+and operation of compressors, separators and other customary production equipment
+for an individual well adjacent to the wellhead.
+2.
+Operations for the exploration for minerals as defined by ORS 517.750.
+3.
+Minor betterment of existing public road and highway related facilities such as maintenance
+yards, weigh stations and rest areas, within right-of-way existing as of July 1, 1987,
+and contiguous public-owned property utilized to support the operation and maintenance
+of public roads and highways.
+4.
+An outdoor mass gathering of more than 3,000 persons that is expected to continue
+for more than 24 hours but less than 120 hours in any three-month period, as provided
+in ORS 433.735.
+5.
+A facility for the processing of farm crops, biofuel or poultry subject to Subsection
+2.05.1.
+6.
+Dog training classes or testing trials subject to Subsection 2.05.5.
+7.
+Farm stands subject to Subsection 2.05.6.
+8.
+A winery subject to Section 2.12 .
+9.
+Agri-tourism and other commercial events or activities subject to Section 2.13 .
+10.
+Utility facility service lines subject to Subsection 2.05.14.
+11.
+Utility facilities necessary for public service, including associated transmission
+lines as defined in Section 1.08 and wetland waste treatment systems, but not including commercial facilities for
+the purpose of generating electrical power for public use by sale or transmission
+towers over 200 feet in height as provided in Subsection 2.05.15.
+12.
+A site for the takeoff and landing of model aircraft subject to Subsection 2.05.19.
+13.
+Churches, and cemeteries in conjunction with churches, subject to Subsection 2.05.26.A.
+This use is not permitted on high value farmland except that existing churches on
+high value farmland may be expanded subject to Subsection 2.05.26.C.
+14.
+Any outdoor gathering of more than 3,000 persons that is anticipated to continue for
+more than 120 hours in any three-month period is subject to review by the county planning
+commission under ORS 433.763.
+15.
+A dwelling on property used for farm use located on the same lot or parcel as the
+dwelling of the farm operator, and occupied by a relative of the farm operator or
+farm operator's spouse if the farm operator does, or will, require the assistance
+of the relative in the management of the farm use subject to Subsections 2.05.3, and
+2.05.26.B.
+16.
+Accessory farm dwellings for year-round and seasonal farm workers subject to Subsection
+2.05.26.B and Section 2.08 .
+17.
+One single-family dwelling on a lawfully created lot or parcel subject to Subsection
+2.05.26.B and Section 2.09 .
+18.
+Single-family residential dwelling, not provided in conjunction with farm use subject
+to Subsection 2.05.26.B and Section 2.10 .
+19.
+A facility for the primary processing of forest products subject to Subsection 2.05.1.
+20.
+The propagation, cultivation, maintenance and harvesting of aquatic species that are
+not under the jurisdiction of the Oregon Fish and Wildlife Commission or insect species.
+21.
+Temporary hardship dwelling subject to Subsection 2.05.4.
+22.
+Residential home or facility as defined in ORS 197.660, in existing dwellings, subject
+to Subsection 2.05.26.B.
+23.
+Room and board arrangements for a maximum of five unrelated persons in existing residences
+subject to Subsection 2.05.26.B.
+24.
+Parking of up to seven log trucks.
+25.
+Home occupations as provided in Subsection 2.05.7.
+26.
+Commercial dog boarding kennels or dog training classes or testing trials that cannot
+be established under Subsection 2.05.5.
+27.
+An aerial fireworks display business that has been in continuous operation at its
+current location since December 31, 1986, and possesses a wholesaler's permit to sell
+or provide fireworks.
+28.
+A landscape contracting business, as defined in ORS 671.520, or a business providing
+landscape architecture services, as described in ORS 671.318, if the business is pursued
+in conjunction with the growing and marketing of nursery stock on the land that constitutes
+farm use.
+29.
+Commercial activities in conjunction with farm use, including the processing of farm
+crops into biofuel not permitted under Subsection 2.04.5, subject to 2.05.9.
+30.
+Guest ranch subject to Subsection 2.05.8.
+31.
+Operations conducted for mining and processing of geothermal resources as defined
+by ORS 522.005 and oil and gas as defined by ORS 520.005 not otherwise permitted.
+32.
+Operations conducted for mining, crushing or stockpiling of aggregate and other mineral
+and other subsurface resources subject to ORS 215.298.
+33.
+Processing as defined by ORS 517.750 of aggregate into asphalt or portland cement
+subject to Subsection 2.05.10.
+34.
+Processing of other mineral resources and other subsurface resources.
+35.
+Construction of additional passing and travel lanes requiring the acquisition of right-of-way
+but not resulting in the creation of new land parcels.
+36.
+Reconstruction or modification of public roads and highways involving the removal
+or displacement of buildings but not resulting in the creation of new land parcels.
+37.
+Improvement of public road and highway related facilities, such as maintenance yards,
+weigh stations and rest areas, where additional property or right-of-way is required
+but not resulting in the creation of new land parcels and subject to OAR 660-012-0065
+where applicable.
+38.
+Transportation improvements on rural lands allowed by and subject to the requirements
+of OAR 660-012-0065.
+39.
+Personal use airports for airplanes and helicopter pads, including associated hangar,
+maintenance and service facilities subject to Subsection 2.05.12.
+40.
+Transmission towers over 200 feet in height.
+41.
+Commercial utility facilities for the purpose of generating power for public use by
+sale, not including wind power generation facilities or photovoltaic solar power generation
+facilities subject to Subsection 2.14.1.
+42.
+Wind power generation facilities as commercial utility facilities for the purpose
+of generating power for public use by sale subject to Subsection 2.14.2.
+43.
+Photovoltaic solar power generation facilities as commercial utility facilities for
+the purpose of generating power for public use by sale subject to Subsection 2.14.3.
+44.
+A site for the disposal of solid waste for which a permit has been granted under ORS
+459.245 by the Department of Environmental Quality together with equipment, facilities
+or buildings necessary for its operation. This use is not permitted on high value
+farmland except that existing facilities on high value farmland may be expanded subject
+to Subsection 2.05.26.C.
+45.
+Composting facilities for which a permit has been granted by the Department of Environmental
+Quality under ORS 459.245 and OAR 340-093-0050 and 340-096-0060 subject to Subsection
+2.05.17. This use is not permitted on high value farmland except that existing facilities
+on high value farmland may be expanded subject to Subsection 2.05.26.C.
+46.
+On-site filming and activities accessory to on-site filming for more than 45 days
+as provided for in ORS 215.306.
+47.
+Living history museum as defined in Section 1.08 . And subject to Subsections 2.05.20 and 2.05.26.A.
+48.
+Community centers owned by a governmental agency or a nonprofit organization and operated
+primarily by and for residents of the local rural community subject to Subsections
+2.05.21 and 2.05.26.A.
+49.
+Public parks and playgrounds subject to Subsections 2.05.22 and 2.06.25.A.
+50.
+Expansion of existing county fairgrounds and activities directly relating to county
+fairgrounds governed by county fair boards established pursuant to ORS 565.210.
+51.
+Operations for the extraction and bottling of water.
+52.
+Public or private schools for kindergarten through grade 12, including all buildings
+essential to the operation of a school, primarily for residents of the rural area
+in which the school is located, subject to Subsection 2.05.26.A. This use is not permitted
+on high value farmland except that existing schools on high value farmland may be
+expanded subject to Subsections 2.05.23 and 2.05.26.C.
+53.
+Private parks, playgrounds, hunting and fishing preserves, and campgrounds subject
+to Subsections 2.05.24 and 2.05.26.A. This use is not permitted on high value farmland
+except that existing private parks on high value farmland may be expanded subject
+to Subsection 2.05.26.C.
+54.
+Golf courses as defined in Section 1.08 and subject to Subsections 2.05.25 and 2.05.26.A. This use is not permitted on high
+value farmland as defined in ORS 195.300 except that existing golf courses on high-value
+farmland may be expanded subject to Subsection 2.05.26.C, Use Standards.
+55.
+Wedding and related events venue subject to Subsection 21.07.10.
+
+ ### 2.05 - USE STANDARDS
+
+1.
+A farm on which a processing facility is located must provide at least one-quarter
+of the farm crops processed at the facility. A farm may also be used for an establishment
+for the slaughter, processing or selling of poultry or poultry products pursuant to
+ORS 603.038. If a building is established or used for the processing facility or establishment,
+the farm operator may not devote more than 10,000 square feet of floor area to the
+processing facility or establishment, exclusive of the floor area designated for preparation,
+storage or other farm use. A processing facility or establishment must comply with
+all applicable siting standards but the standards may not be applied in a manner that
+prohibits the siting of the processing facility or establishment. A county may not
+approve any division of a lot or parcel that separates a processing facility or establishment
+from the farm operation on which it is located.
+2.
+A facility for the primary processing of forest products shall not seriously interfere
+with accepted farming practices and shall be compatible with farm uses described in
+Section 1.08 . Such facility may be approved for a one-year period that is renewable and is intended
+to be only portable or temporary in nature. The primary processing of a forest product,
+as used in this section, means the use of a portable chipper or stud mill or other
+similar methods of initial treatment of a forest product in order to enable its shipment
+to market. Forest products as used in this section means timber grown upon a tract
+where the primary processing facility is located.
+3.
+To qualify for a relative farm help dwelling, a dwelling shall be occupied by relatives
+whose assistance in the management and farm use of the existing commercial farming
+operation is required by the farm operator. The farm operator shall continue to play
+the predominant role in the management and farm use of the farm.
+4.
+A temporary hardship dwelling is subject to the following:
+A.
+One manufactured dwelling, or recreational vehicle, or the temporary residential use
+of an existing building may be allowed in conjunction with an existing dwelling as
+a temporary use for the term of the hardship suffered by the existing resident or
+relative, subject to the following:
+(1)
+The manufactured dwelling shall use the same subsurface sewage disposal system used
+by the existing dwelling, if that disposal system is adequate to accommodate the additional
+dwelling. If the manufactured home will use a public sanitary sewer system, such condition
+will not be required;
+(2)
+Doctor certification;
+(3)
+The county shall review the permit authorizing such manufactured homes every two years;
+and
+(4)
+Within three months of the end of the hardship, the manufactured dwelling or recreational
+vehicle shall be removed or demolished or, in the case of an existing building, the
+building shall be removed, demolished or returned to an allowed nonresidential use.
+B.
+A temporary residence approved under this section is not eligible for replacement
+under Subsection 2.03.11. Department of Environmental Quality review and removal requirements
+also apply.
+C.
+As used in this section "hardship" means a medical hardship or hardship for the care
+of an aged or infirm person or persons as determined by a certified doctor.
+5.
+Dog training classes or testing trials conducted outdoors, or in farm buildings that
+existed on January 1, 2013, are limited as follows:
+A.
+The number of dogs participating in training does not exceed 10 per training class
+and the number of training classes to be held on-site does not exceed six per day;
+and
+B.
+The number of dogs participating in a testing trial does not exceed 60 and the number
+of testing trials to be conducted on-site does not exceed four per calendar year.
+6.
+A farm stand may be approved if:
+A.
+The structures are designed and used for sale of farm crops and livestock grown on
+the farm operation, or grown on the farm operation and other farm operations in the
+local agricultural area, including the sale of retail incidental items and fee-based
+activity to promote the sale of farm crops or livestock sold at the farm stand if
+the annual sales of the incidental items and fees from promotional activity do not
+make up more than 25 percent of the total annual sales of the farm stand.
+Fee-based promotional activities may include farm-to-plate dinners and small-scale
+gatherings like farm-themed birthday parties, but not large-scale gatherings like
+weddings. Food carts may only be allowed if used for the sale of farm crops or livestock
+grown on the farm operation.
+B.
+The farm stand does not include structures designed for occupancy as a residence or
+for activities other than the sale of farm crops and livestock and does not include
+structures for banquets, public gatherings or public entertainment.
+C.
+As used in this section, "farm crops or livestock" includes both fresh and processed
+farm crops and livestock grown on the farm operation, or grown on the farm operation
+and other farm operations in the local agricultural area. As used in this subsection,
+"processed crops and livestock" includes jams, syrups, apple cider, animal products
+and other similar farm crops and livestock that have been processed and converted
+into another product but not prepared food items.
+D.
+As used in this section, "local agricultural area" includes Oregon or an adjacent
+county in Washington, Idaho, Nevada or California that borders the Oregon county,
+in which the farm stand is located.
+E.
+Farm Stand Development Standards.
+(1)
+Adequate off-street parking will be provided pursuant to provisions of the County.
+(2)
+Roadways, driveway aprons, driveways and parking surfaces shall be surfaces that prevent
+dust, and may include paving, gravel, cinders, or bark/wood chips.
+(3)
+All vehicle maneuvering will be conducted on site. No vehicle backing or maneuvering
+shall occur within adjacent roads, streets or highways.
+(4)
+No farm stand building or parking is permitted within the right-of-way.
+(5)
+Approval is required from the County Public Works Department regarding adequate egress
+and access. All egress and access points shall be clearly marked.
+(6)
+Vision Clearance Areas. No visual obstruction (e.g., sign, structure, solid fence,
+wall, planting or shrub vegetation) may exceed three (3) feet in height within "vision
+clearance areas" at street intersections.
+(a)
+Service drives shall have a minimum clear-vision area formed by the intersection of
+the driveway centerline, the road right-of-way line, and a straight line joining said
+lines through points twenty (20) feet from their intersection.
+(b)
+Height is measured from the top of the curb or, where no curb exists, from the established
+street center line grade.
+(c)
+Trees exceeding three (3) feet in height may be located in this area, provided all
+branches and foliage are removed to a height of eight (8) feet above grade.
+(7)
+All outdoor light fixtures shall be directed downward, and have full cutoff and full
+shielding to preserve views of the night sky and to minimize excessive light spillover
+onto adjacent properties, roads and highways, except as provided for up-lighting of
+flags and permitted building-mounted signs.
+(8)
+Signs are permitted consistent with Section 217 Development Standards.
+F.
+Permit approval is subject to compliance with the Department of Environmental Quality
+Subsurface Sewage Disposal Program or Department of Agriculture requirements and with
+the development standards of this zone.
+7.
+Home Occupations.
+A.
+A home occupation shall:
+(1)
+Be operated by a resident or employee of a resident of the property on which the business
+is located;
+(2)
+Employ on the site no more than one full-time or part-time person at any given time;
+(3)
+Be operated substantially in:
+(a)
+No more than 49% of the dwelling; or
+(b)
+Other buildings where no more than 1,200 square feet is used for the home occupation
+and the building is normally associated with uses permitted in the zone where the
+property is located, except that such other buildings may not be utilized as bed and
+breakfast facilities or rental units unless they are legal residences.
+(4)
+Not unreasonably interfere with other uses permitted in the zone in which the property
+is located.
+(5)
+When a bed and breakfast facility is sited as a home occupation on the same tract
+as a winery established under Subsection 2.05.8 and is operated in association with
+the winery:
+(a)
+The bed and breakfast facility may prepare and serve two meals per day to the registered
+guests of the bed and breakfast facility;
+(b)
+The meals may be served at the bed and breakfast facility or at the winery.
+(6)
+The home occupation shall be accessory to an existing, permanent dwelling on the same
+parcel.
+(7)
+No materials or mechanical equipment shall be used which will be detrimental to the
+residential use of the property or adjoining residences because of vibration, noise,
+dust, smoke, odor, interference with radio or television reception, or other factors.
+(8)
+All off-street parking must be provided on the subject parcel where the home occupation
+is operated.
+(a)
+Employees must use an approved off-street parking area.
+(b)
+Customers visiting the home occupation must use an approved off-street parking area.
+(9)
+One (1) sign identifying the home and occupation is permitted, not to exceed a total
+of 32 square feet in area and located outside of the public right-of-way.
+(10)
+Retail sales shall be limited or accessory to a service.
+(11)
+Auto or vehicle oriented activities (repair, painting, detailing, wrecking, transportation
+services, or similar activities) shall be prohibited.
+8.
+A guest ranch must comply with the following provisions:
+A.
+Definitions.
+(1)
+“Guest lodging unit” means a guest room in a lodge, bunkhouse, cottage or cabin used
+only for transient overnight lodging and not for a permanent residence.
+(2)
+“Guest ranch” means a facility for guest lodging units, passive recreational activities
+described in paragraph F and food services described in paragraph G that are incidental
+and accessory to an existing and continuing livestock operation that qualifies as
+a farm use.
+(3)
+“Livestock” means cattle, sheep, horses and bison.
+B.
+A guest ranch may be established unless the proposed site of the guest ranch is within
+the boundaries of or surrounded by:
+(1)
+A federally designated wilderness area or a wilderness study area;
+(2)
+A federally designated wildlife refuge;
+(3)
+A federally designated area of critical environmental concern; or
+(4)
+An area established by an Act of Congress for the protection of scenic or ecological
+resources.
+C.
+The guest ranch must be located on a lawfully established unit of land that:
+(1)
+Is at least 160 acres;
+(2)
+Contains the dwelling of the individual conducting the livestock operation; and
+(3)
+Is not high-value farmland.
+D.
+Except as provided in paragraph E, the guest lodging units of the guest ranch cumulatively
+must:
+(1)
+Include not fewer than four nor more than 10 overnight guest lodging units; and
+(2)
+Not exceed a total of 12,000 square feet in floor area, not counting the floor area
+of a lodge that is dedicated to kitchen area, rest rooms, storage or other shared
+or common indoor space.
+E.
+For every increment of 160 acres that the lawfully established unit of land on which
+the guest ranch is located exceeds the minimum 160-acre requirement described in paragraph
+C, up to five additional overnight guest lodging units not exceeding a total of 6,000
+square feet of floor area may be included in the guest ranch for a total of not more
+than 25 guest lodging units and 30,000 square feet of floor area.
+F.
+A guest ranch may provide passive recreational activities that can be provided in
+conjunction with the livestock operation's natural setting including, but not limited
+to, hunting, fishing, hiking, biking, horseback riding, camping and swimming. A guest
+ranch may not provide intensively developed recreational facilities, including golf
+courses as identified in ORS 215.283.
+G.
+A guest ranch may provide food services only for guests of the guest ranch, individuals
+accompanying the guests and individuals attending a special event at the guest ranch.
+The cost of meals, if any, may be included in the fee to visit or stay at the guest
+ranch. A guest ranch may not sell individual meals to an individual who is not a guest
+of the guest ranch, an individual accompanying a guest or an individual attending
+a special event at the guest ranch.
+H.
+Notwithstanding ORS 215.283, the governing body of a county or its designee may not
+allow a guest ranch in conjunction with:
+(1)
+A campground as described in ORS 215.283 (2).
+(2)
+A golf course as described in ORS 215.283 (2).
+I.
+Notwithstanding ORS 215.263, the governing body of a county or its designee may not
+approve a proposed division of land:
+(1)
+For a guest ranch; or
+(2)
+To separate the guest ranch from the dwelling of the individual conducting the livestock
+operation.
+9.
+Commercial activities in conjunction with farm use may be approved when:
+A.
+The commercial activity is either exclusively or primarily a customer or supplier
+of farm products;
+B.
+The commercial activity is limited to providing products and services essential to
+the practice of agriculture by surrounding agricultural operations that are sufficiently
+important to justify the resulting loss of agricultural land to the commercial activity;
+or
+C.
+The commercial activity significantly enhances the farming enterprises of the local
+agricultural community, of which the land housing the commercial activity is a part.
+Retail sales of products or services to the general public that take place on a parcel
+or tract that is different from the parcel or tract on which agricultural product
+is processed, such as a tasting room with no on-site winery, are not commercial activities
+in conjunction with farm use.
+10.
+Facilities that batch and blend mineral and aggregate into asphalt cement may not
+be authorized within two miles of a planted vineyard. Planted vineyard means one or
+more vineyards totaling 40 acres or more that are planted as of the date the application
+for batching and blending is filed.
+11.
+Mining, crushing or stockpiling of aggregate and other mineral and subsurface resources
+are subject to the following:
+A.
+A land use permit is required for mining more than one thousand (1,000) cubic yards
+of material or excavation preparatory to mining of a surface area of more than one
+(1) acre.
+B.
+A land use permit for mining of aggregate shall be issued only for a site included
+on a mineral or aggregate inventory in the land use plan.
+12.
+A personal use airport, as used in this Article, prohibits aircraft other than those
+owned or controlled by the owner of the airstrip. Exceptions to the activities allowed
+under this definition may be granted through waiver action by the Oregon Department
+of Aviation in specific instances. A personal use airport lawfully existing as of
+September 13, 1975, shall continue to be allowed subject to any applicable rules of
+the Oregon Department of Aviation.
+13.
+Land Application of Reclaimed or Process Water, agricultural process or industrial
+process water or bio solids for agricultural, horticultural or silvicultural production,
+or for irrigation in connection with a use allowed in an EFU zone is subject to the
+issuance of a license, permit or other approval by the Department of Environmental
+Quality under ORS 454.695, 459.205, 468B.050, 468B.053 or 468B.055, or in compliance
+with rules adopted under ORS 468B.095, and with the requirements of 215.246, 215.247,
+215.249 and 215.251.
+A.
+Compost facility operators must prepare, implement and maintain a site-specific Odor
+Minimization Plan that:
+(1)
+Meets the requirements of OAR 340-096-0150;
+(2)
+Identifies the distance of the proposed operation to the nearest residential zone;
+(3)
+Includes a complaint response protocol;
+(4)
+Is submitted to the DEQ with the required permit application; and
+(5)
+May be subject to annual review by the county to determine if any revisions are necessary.
+B.
+Compost operations subject to Subsection 2.05.15 include:
+(1)
+A new disposal site for composting that sells, or offers for sale, resulting product;
+or
+(2)
+An existing disposal site for composting that sells, or offers for sale, resulting
+product that:
+(a)
+Accepts as feedstock non-vegetative materials, including dead animals, meat, dairy
+products and mixed food waste (type 3 feedstock); or
+(b)
+Increases the permitted annual tonnage of feedstock used by the disposal site by an
+amount that requires a new land use approval.
+14.
+Utility facility service lines are utility lines and accessory facilities or structures
+that end at the point where the utility service is received by the customer and that
+are located on one or more of the following:
+A.
+A public right-of-way;
+B.
+Land immediately adjacent to a public right-of-way, provided the written consent of
+all adjacent property owners has been obtained; or
+C.
+The property to be served by the utility.
+15.
+A Utility Facility that Is Necessary for Public Service.
+A.
+A utility facility is necessary for public service if the facility must be sited in
+the exclusive farm use zone in order to provide the service. To demonstrate that a
+utility facility is necessary, an applicant must show that reasonable alternatives
+have been considered and that the facility must be sited in an exclusive farm use
+zone due to one or more of the following factors:
+(1)
+Technical and engineering feasibility;
+(2)
+The proposed facility is locationally-dependent. A utility facility is locationally-dependent
+if it must cross land in one or more areas zoned for exclusive farm use in order to
+achieve a reasonably direct route or to meet unique geographical needs that cannot
+be satisfied on other lands;
+(3)
+Lack of available urban and non-resource lands;
+(4)
+Availability of existing rights-of-way;
+(5)
+Public health and safety; and
+(6)
+Other requirements of state and federal agencies.
+B.
+Costs associated with any of the factors listed in subparagraph A of this paragraph
+may be considered, but cost alone may not be the only consideration in determining
+that a utility facility is necessary for public service. Land costs shall not be included
+when considering alternative locations for substantially similar utility facilities
+and the siting of utility facilities that are not substantially similar.
+C.
+The owner of a utility facility approved under paragraph A shall be responsible for
+restoring, as nearly as possible, to its former condition any agricultural land and
+associated improvements that are damaged or otherwise disturbed by the siting, maintenance,
+repair or reconstruction of the facility. Nothing in this paragraph shall prevent
+the owner of the utility facility from requiring a bond or other security from a contractor
+or otherwise imposing on a contractor the responsibility for restoration.
+D.
+The county shall impose clear and objective conditions on an application for utility
+facility siting to mitigate and minimize the impacts of the proposed facility, if
+any, on surrounding lands devoted to farm use in order to prevent a significant change
+in accepted farm practices or a significant increase in the cost of farm practices
+on surrounding farmlands.
+E.
+Utility facilities necessary for public service may include on-site and off-site facilities
+for temporary workforce housing for workers constructing a utility facility. Such
+facilities must be removed or converted to an allowed use under the A-1 Zone or other
+statute or rule when project construction is complete. Off-site facilities allowed
+under this paragraph are subject to Section 2.06 Conditional Use Review Criteria. Temporary workforce housing facilities not included
+in the initial approval may be considered through a minor amendment request. A minor
+amendment request shall have no effect on the original approval.
+F.
+In addition to the provisions of subparagraphs A to D of this paragraph, the establishment
+or extension of a sewer system as defined by OAR 660-011-0060(1)(f) shall be subject
+to the provisions of 660-011-0060.
+G.
+The provisions of subparagraphs A to D of this paragraph do not apply to interstate
+natural gas pipelines and associated facilities authorized by and subject to regulation
+by the Federal Energy Regulatory Commission.
+16.
+An associated transmission line is necessary for public service upon demonstration
+that the associated transmission line meets either the following requirements of subparagraph
+A or subparagraph B of this paragraph.
+A.
+An applicant demonstrates that the entire route of the associated transmission line
+meets at least one of the following requirements:
+(1)
+The associated transmission line is not located on high-value farmland, as defined
+in ORS 195.300, or on arable land;
+(2)
+The associated transmission line is co-located with an existing transmission line;
+(3)
+The associated transmission line parallels an existing transmission line corridor
+with the minimum separation necessary for safety; or
+(4)
+The associated transmission line is located within an existing right-of-way for a
+linear facility, such as a transmission line, road or railroad, that is located above
+the surface of the ground.
+B.
+After an evaluation of reasonable alternatives, an applicant demonstrates that the
+entire route of the associated transmission line meets, subject to paragraphs 16(C)
+and 16(D), two or more of the following criteria:
+(1)
+Technical and engineering feasibility;
+(2)
+The associated transmission line is locationally-dependent because the associated
+transmission line must cross high-value farmland, as defined in ORS 195.300, or arable
+land to achieve a reasonably direct route or to meet unique geographical needs that
+cannot be satisfied on other lands;
+(3)
+Lack of an available existing right-of-way for a linear facility, such as a transmission
+line, road or railroad, that is located above the surface of the ground;
+(4)
+Public health and safety; or
+(5)
+Other requirements of state or federal agencies.
+C.
+As pertains to paragraph 16.B the applicant shall demonstrate how the applicant will
+mitigate and minimize the impacts, if any, of the associated transmission line on
+surrounding lands devoted to farm use in order to prevent a significant change in
+accepted farm practices or a significant increase in the cost of farm practices on
+the surrounding farmland.
+D.
+The county may consider costs associated with any of the factors listed in subparagraph
+16.B, but consideration of cost may not be the only consideration in determining whether
+the associated transmission line is necessary for public service.
+17.
+Composting operations and facilities shall meet the performance and permitting requirements
+of the Department of Environmental Quality under OAR 340-093-0050 and 340-096-0060.
+Buildings and facilities used in conjunction with the composting operation shall only
+be those required for the operation of the subject facility. On-site sales shall be
+limited to bulk loads of at least one unit (7.5 cubic yards) in size that are transported
+in one vehicle. This use is not permitted on high value farmland except that existing
+facilities on high value farmland may be expanded subject to Subsection 2.05.26.C.
+18.
+Solid waste disposal facilities shall meet the performance and permitting requirements
+of the Department of Environmental Quality under ORS 459.245, shall meet the requirements
+of Section 2.06 and shall comply with the following requirements.
+A.
+The facility shall be designed to minimize conflicts with existing and permitted uses
+allowed under plan designations for adjacent parcels as outlined in policies of the
+Land Use Plan.
+B.
+The facility must be of a size and design to minimize noise or other detrimental effects
+when located adjacent to farm, forest and grazing dwelling(s) or a residential zone.
+C.
+The facility shall be fenced when the site is located adjacent to dwelling(s) or a
+residential zone and landscaping, buffering and/or screening shall be provided.
+D.
+The facility does not constitute an unnecessary fire hazard. If located in a forested
+area, the county shall condition approval to ensure that minimum fire safety measures
+will be taken, which may include but are not limited to the following:
+(1)
+The area surrounding the facility is kept free from litter and debris.
+(2)
+Fencing will be installed around the facility, if deemed appropriate to protect adjacent
+farm crops or timber stand.
+(3)
+If the proposed facility is located in a forested area, construction materials shall
+be fire resistant or treated with a fire retardant substance and the applicant will
+be required to remove forest fuels within 30 feet of structures.
+E.
+The facility shall adequately protect fish and wildlife resources by meeting minimum
+Oregon State Department of Forestry regulations.
+F.
+Access roads or easements for the facility shall be improved to the county's Transportation
+System Plan standards and comply with grades recommended by the Public Works Director.
+G.
+Road construction for the facility must be consistent with the intent and purposes
+set forth in the Oregon Forest Practices Act to minimize soil disturbance and help
+maintain water quality.
+H.
+Hours of operation for the facility shall be limited to 8:00 a.m.—7:00 p.m.
+I.
+Comply with other conditions deemed necessary.
+19.
+Buildings and facilities associated with a site for the takeoff and landing of model
+aircraft shall not be more than 500 square feet in floor area or placed on a permanent
+foundation unless the building or facility preexisted the use approved under this
+section. The site shall not include an aggregate surface or hard surface area unless
+the surface preexisted the use approved under this section. An owner of property used
+for the purpose authorized in this section may charge a person operating the use on
+the property rent for the property. An operator may charge users of the property a
+fee that does not exceed the operator's cost to maintain the property, buildings and
+facilities. As used in this section, "model aircraft" means a small-scale version
+of an airplane, glider, helicopter, dirigible or balloon that is used or intended
+to be used for flight and is controlled by radio, lines or design by a person on the
+ground.
+20.
+A living history museum shall be related to resource based activities and shall be
+owned and operated by a governmental agency or a local historical society. A living
+history museum may include limited commercial activities and facilities that are directly
+related to the use and enjoyment of the museum and located within authentic buildings
+of the depicted historic period or the museum administration building, if areas other
+than an exclusive farm use zone cannot accommodate the museum and related activities
+or if the museum administration buildings and parking lot are located within one-quarter
+mile of an urban growth boundary. "Local historical society" means the local historical
+society, recognized as such by the county governing body and organized under ORS Chapter
+65.
+21.
+A community center may provide services to veterans, including but not limited to
+emergency and transitional shelter, preparation and service of meals, vocational and
+educational counseling and referral to local, state or federal agencies providing
+medical, mental health, disability income replacement and substance abuse services,
+only in a facility that is in existence on January 1, 2006. The services may not include
+direct delivery of medical, mental health, disability income replacement or substance
+abuse services.
+22.
+Public parks may include:
+A.
+All uses authorized under ORS 215.283;
+B.
+The following uses, if authorized in a local or park master plan that is adopted as
+part of the local Land Use Plan, or if authorized in a state park master plan that
+is adopted by OPRD:
+(1)
+Campground areas: recreational vehicle sites; tent sites; camper cabins; yurts; teepees;
+covered wagons; group shelters; campfire program areas; camp stores;
+(2)
+Day use areas: picnic shelters, barbecue areas, swimming areas (not swimming pools),
+open play fields, play structures;
+(3)
+Recreational trails: walking, hiking, biking, horse, or motorized off-road vehicle
+trails; trail staging areas;
+(4)
+Boating and fishing facilities: launch ramps and landings, docks, moorage facilities,
+small boat storage, boating fuel stations, fish cleaning stations, boat sewage pump
+out stations;
+(5)
+Amenities related to park use intended only for park visitors and employees: laundry
+facilities; recreation shops; snack shops not exceeding 1,500 square feet of floor
+area;
+(6)
+Support facilities serving only the park lands wherein the facility is located: water
+supply facilities, sewage collection and treatment facilities, storm water management
+facilities, electrical and communication facilities, restrooms and showers, recycling
+and trash collection facilities, registration buildings, roads and bridges, parking
+areas and walkways;
+(7)
+Park Maintenance and Management Facilities located within a park: maintenance shops
+and yards, fuel stations for park vehicles, storage for park equipment and supplies,
+administrative offices, staff lodging; and
+(8)
+Natural and cultural resource interpretative, educational and informational facilities
+in state parks: interpretative centers, information/orientation centers, self-supporting
+interpretative and informational kiosks, natural history or cultural resource museums,
+natural history or cultural educational facilities, reconstructed historic structures
+for cultural resource interpretation, retail stores not exceeding 1,500 square feet
+for sale of books and other materials that support park resource interpretation and
+education.
+C.
+Visitor lodging and retreat facilities if authorized in a state park master plan that
+is adopted by OPRD: historic lodges, houses or inns and the following associated uses
+in a state park retreat area only:
+(1)
+Meeting halls not exceeding 2,000 square feet of floor area;
+(2)
+Dining halls (not restaurants).
+23.
+Schools as formerly allowed pursuant to ORS 215.283(1)(a) that were established on
+or before January 1, 2009, may be expanded if:
+A.
+The Conditional Use Review Criteria in Section 2.06 are met; and
+B.
+The expansion occurs on the tax lot on which the use was established on or before
+January 1, 2009 or a tax lot that is contiguous to the tax lot and that was owned
+by the applicant on January 1, 2009.
+24.
+Private Campgrounds are subject to the following:
+A.
+Except on a lot or parcel contiguous to a lake or reservoir, private campgrounds shall
+not be allowed within three miles of an urban growth boundary unless an exception
+is approved pursuant to ORS 197.732 and OAR chapter 660, division 4. A campground
+shall be designed and integrated into the rural agricultural and forest environment
+in a manner that protects the natural amenities of the site and provides buffers of
+existing native trees and vegetation or other natural features between campsites.
+Campgrounds shall not include intensively developed recreational uses such as swimming
+pools, tennis courts, retail stores or gas stations. Overnight temporary use in the
+same campground by a camper or camper's vehicle shall not exceed a total of 30 days
+during any consecutive six-month period.
+B.
+Campsites may be occupied by a tent, travel trailer, yurt or recreational vehicle.
+Separate sewer, water or electric service hook-ups shall not be provided to individual
+camp sites except that electrical service may be provided to yurts allowed by paragraph
+C.
+C.
+A private campground may provide yurts for overnight camping. No more than one-third
+or a maximum of 10 campsites, whichever is smaller, may include a yurt. The yurt shall
+be located on the ground or on a wood floor with no permanent foundation.
+25.
+Accessory uses provided as part of a golf course shall be limited consistent with
+the following standards:
+A.
+An accessory use to a golf course is a facility or improvement that is incidental
+to the operation of the golf course and is either necessary for the operation and
+maintenance of the golf course or that provides goods or services customarily provided
+to golfers at a golf course. An accessory use or activity does not serve the needs
+of the non-golfing public. Accessory uses to a golf course may include: parking; maintenance
+buildings; cart storage and repair; practice range or driving range; clubhouse; restrooms;
+lockers and showers; food and beverage service; pro shop; a practice or beginners
+course as part of an 18 hole or larger golf course; or golf tournament. Accessory
+uses to a golf course do not include: Sporting facilities unrelated to golfing such
+as tennis courts, swimming pools, and weight rooms; wholesale or retail operations
+oriented to the non-golfing public; or housing;
+B.
+Accessory uses shall be limited in size and orientation on the site to serve the needs
+of persons and their guests who patronize the golf course to golf. An accessory use
+that provides commercial services (e.g., pro shop, etc.) shall be located in the clubhouse
+rather than in separate buildings; and
+C.
+Accessory uses may include one or more food and beverage service facilities in addition
+to food and beverage service facilities located in a clubhouse. Food and beverage
+service facilities must be part of an incidental to the operation of the golf course
+and must be limited in size and orientation on the site to serve only the needs of
+persons who patronize the golf course and their guests. Accessory food and beverage
+service facilities shall not be designed for or include structures for banquets, public
+gatherings or public entertainment.
+26.
+General Standards.
+A.
+Three-Mile Setback from the Urban Growth Boundary (UGB). For uses subject to this
+subsection:
+(1)
+No enclosed structure with a design capacity greater than 100 people, or group of
+structures with a total design capacity of greater than 100 people, shall be approved
+in connection with the use within three miles of an urban growth boundary, unless
+an exception is approved pursuant to ORS 197.732 and OAR chapter 660, division 4,
+or unless the structure is described in a master plan adopted under the provisions
+of OAR chapter 660, division 34.
+(2)
+Any enclosed structures or group of enclosed structures described in paragraph (1)
+within a tract must be separated by at least one-half mile. For purposes of this Subsection,
+"tract" means a tract that is in existence as of June 17, 2010.
+(3)
+Existing facilities wholly within a farm use zone may be maintained, enhanced or expanded
+on the same tract, subject to other requirements of law, but enclosed existing structures
+within a farm use zone within three miles of an urban growth boundary may not be expanded
+beyond the requirements of this ordinance.
+B.
+Single-Family Dwelling Deeds. The landowner shall sign and record in the deed records
+for the county a document binding the landowner, and the landowner's successors in
+interest, prohibiting them from pursuing a claim for relief or cause of action alleging
+injury from farming or forest practices for which no action or claim is allowed under
+ORS 30.936 or 30.937.
+C.
+Expansion Standards. Existing facilities wholly within a farm use zone may be maintained,
+enhanced or expanded on the same tract, subject to other requirements of law. An existing
+golf course may be expanded consistent with the requirements of Subsection 2.04.54
+and Section 2.06 .
+
+ ### 2.06 - CONDITIONAL USE REVIEW CRITERIA
+
+1.
+An applicant for a use permitted in Section 2.04 must demonstrate compliance with the following criteria in addition to the applicable
+standards in Article 21.00 and subject to the review process identified in Section 24.03 .
+2.
+The use will not force a significant change in accepted farm or forest practices on
+surrounding lands devoted to farm or forest use; and
+3.
+The use will not significantly increase the cost of accepted farm or forest practices
+on surrounding lands devoted to farm or forest use.
+
+ ### 2.07 - DWELLINGS CUSTOMARILY PROVIDED IN CONJUNCTION WITH FARM USE
+
+1.
+Large Tract Standards. On land not identified as high-value farmland as defined in
+Section 1.08 , a dwelling may be considered customarily provided in conjunction with farm use if:
+A.
+The parcel on which the dwelling will be located is at least:
+(1)
+160 acres and not designated rangeland; or
+(2)
+320 acres and designated rangeland.
+B.
+The subject tract is currently employed for farm use.
+C.
+The dwelling will be occupied by a person or persons who will be principally engaged
+in the farm use of the land, such as planting, harvesting, marketing or caring for
+livestock, at a commercial scale.
+D.
+Except for an accessory farm dwelling, there is no other dwelling on the subject tract.
+2.
+Farm Capability Standards.
+A.
+On land not identified as high-value farmland pursuant to OAR 660-033-0020(8), a dwelling
+may be considered customarily provided in conjunction with farm use if:
+(1)
+The subject tract is at least as large as the median size of those commercial farm
+or ranch tracts capable of generating at least $10,000 in annual gross sales that
+are located within a study area that includes all tracts wholly or partially within
+one mile from the perimeter of the subject tract;
+(2)
+The subject tract is capable of producing at least the median level of annual gross
+sales of county indicator crops as the same commercial farm or ranch tracts used to
+calculate the tract size in subparagraph (1);
+(3)
+The subject tract is currently employed for a farm use, as defined in ORS 215.203,
+at a level capable of producing the annual gross sales required in subparagraph (1);
+(4)
+The subject lot or parcel on which the dwelling is proposed is not less than 20 acres;
+(5)
+Except for an accessory farm dwelling, there is no other dwelling on the subject tract;
+(6)
+The dwelling will be occupied by a person or persons who will be principally engaged
+in the farm use of the land, such as planting, harvesting, marketing or caring for
+livestock, at a commercial scale; and
+(7)
+If no farm use has been established at the time of application, land use approval
+shall be subject to a condition that no building permit may be issued prior to the
+establishment of the farm use required by subparagraph (3).
+B.
+In order to identify the commercial farm or ranch tracts to be used in subparagraph
+A, the potential gross sales capability of each tract in the study area, including
+the subject tract, must be determined, using the gross sales figures prepared by the
+county pursuant to OAR 660-044-0135(2)(c).
+3.
+Farm Income Standards (non-high value). On land not identified as high-value farmland,
+a dwelling may be considered customarily provided in conjunction with farm use if:
+A.
+The subject tract is currently employed for the farm use on which, in each of the
+last two years or three of the last five years, or in an average of three of the last
+five years, the farm operator earned the lower of the following:
+(1)
+At least $40,000 in gross annual income from the sale of farm products; or
+(2)
+Gross annual income of at least the midpoint of the median income range of gross annual
+sales for farms in the county with gross annual sales of $10,000 or more according
+to the 1992 Census of Agriculture, Oregon; and
+B.
+Except for an accessory farm dwelling, there is no other dwelling on lands designated
+for exclusive farm use pursuant to ORS Chapter 215 owned by the farm or ranch operator
+or on the farm or ranch operation;
+C.
+The dwelling will be occupied by a person or persons who produced the commodities
+that grossed the income in paragraph A; and
+D.
+In determining the gross income required by paragraph A:
+(1)
+The cost of purchased livestock shall be deducted from the total gross income attributed
+to the farm or ranch operation;
+(2)
+Only gross income from land owned, not leased or rented, shall be counted; and
+(3)
+Gross farm income earned from a lot or parcel that has been used previously to qualify
+another lot or parcel for the construction or siting of a primary farm dwelling may
+not be used.
+4.
+Farm Income Standards (high-value). On land identified as high-value farmland, a dwelling
+may be considered customarily provided in conjunction with farm use if:
+A.
+The subject tract is currently employed for the farm use on which the farm operator
+earned at least $80,000 in gross annual income from the sale of farm products in each
+of the last two years or three of the last five years, or in an average of three of
+the last five years; and
+B.
+Except for an accessory farm dwelling, there is no other dwelling on lands designated
+for exclusive farm use owned by the farm or ranch operator or on the farm or ranch
+operation; and
+C.
+The dwelling will be occupied by a person or persons who produced the commodities
+that grossed the income in paragraph A;
+D.
+In determining the gross income required by paragraph A:
+(1)
+The cost of purchased livestock shall be deducted from the total gross income attributed
+to the farm or ranch operation;
+(2)
+Only gross income from land owned, not leased or rented, shall be counted; and
+(3)
+Gross farm income earned from a lot or parcel that has been used previously to qualify
+another lot or parcel for the construction or siting of a primary farm dwelling may
+not be used.
+5.
+Additional Farm Income Standards.
+A.
+For the purpose of Subsections 2.07.3 or 2.07.4, noncontiguous lots or parcels zoned
+for farm use in the same county or contiguous counties may be used to meet the gross
+income requirements. Lots or parcels in eastern or western Oregon may not be used
+to qualify a dwelling in the other part of the state.
+B.
+Prior to the final approval for a dwelling authorized by Subsections 2.07.3 or 2.07.4
+that requires one or more contiguous or non-contiguous lots or parcels of a farm or
+ranch operation to comply with the gross farm income requirements, the applicant shall
+provide evidence that the covenants, conditions and restrictions form adopted as "Exhibit
+A" to OAR chapter 660, division 33 has been recorded with the county clerk of the
+county or counties where the property subject to the covenants, conditions and restrictions
+is located. The covenants, conditions and restrictions shall be recorded for each
+lot or parcel subject to the application for the primary farm dwelling and shall preclude:
+(1)
+All future rights to construct a dwelling except for accessory farm dwellings, relative
+farm assistance dwellings, temporary hardship dwellings or replacement dwellings allowed
+by ORS Chapter 215; and
+(2)
+The use of any gross farm income earned on the lots or parcels to qualify another
+lot or parcel for a primary farm dwelling.
+C.
+The covenants, conditions and restrictions are irrevocable, unless a statement of
+release is signed by an authorized representative of the county or counties where
+the property subject to the covenants, conditions and restrictions is located.
+D.
+Enforcement of the covenants, conditions and restrictions may be undertaken by the
+Department of Land Conservation and Development or by the county or counties where
+the property subject to the covenants, conditions and restrictions is located.
+E.
+The failure to follow the requirements of this section shall not affect the validity
+of the transfer of property or the legal remedies available to the buyers of property
+that is subject to the covenants, conditions and restrictions required by this section.
+F.
+The planning director shall maintain a copy of the covenants, conditions and restrictions
+filed in the county deed records pursuant to this section and a map or other record
+depicting the lots and parcels subject to the covenants, conditions and restrictions
+filed in the county deed records pursuant to this section. The map or other record
+required by this subsection shall be readily available to the public in the county
+planning office.
+6.
+Commercial Dairy Farm Standards. A dwelling may be considered customarily provided
+in conjunction with a commercial dairy farm as defined in paragraph 7 if:
+A.
+The subject tract will be employed as a commercial dairy as defined in paragraph 7;
+B.
+The dwelling is sited on the same lot or parcel as the buildings required by the commercial
+dairy;
+C.
+Except for an accessory farm dwelling, there is no other dwelling on the subject tract;
+D.
+The dwelling will be occupied by a person or persons who will be principally engaged
+in the operation of the commercial dairy farm, such as the feeding, milking or pasturing
+of the dairy animals or other farm use activities necessary to the operation of the
+commercial dairy farm;
+E.
+The building permits, if required, have been issued for and construction has begun
+for the buildings and animal waste facilities required for a commercial dairy farm;
+and
+F.
+The Oregon Department of Agriculture has approved the following:
+(1)
+A permit for a "confined animal feeding operation" under ORS 468B.050 and 468B.200
+to 468B.230; and
+(2)
+A Producer License for the sale of dairy products under ORS 621.072.
+7.
+As used in this section, "commercial dairy farm" is a dairy operation that owns a
+sufficient number of producing dairy animals capable of earning the gross annual income
+required by Subsections 3 or 4, whichever is applicable, from the sale of fluid milk.
+8.
+Relocated Farm Operations. A dwelling may be considered customarily provided in conjunction
+with farm use if:
+A.
+Within the previous two years, the applicant owned and operated a different farm or
+ranch operation that earned the gross farm income in each of the last five years or
+four of the last seven years as required by Subsection 3 or 4, whichever is applicable;
+B.
+The subject lot or parcel on which the dwelling will be located is:
+(1)
+Currently employed for the farm use that produced in each of the last two years or
+three of the last five years, or in an average of three of the last five years the
+gross farm income required by Subsection 3 or 4, whichever is applicable; and
+(2)
+At least the size of the applicable minimum lot size under Section 2.16 ;
+C.
+Except for an accessory farm dwelling, there is no other dwelling on the subject tract;
+D.
+The dwelling will be occupied by a person or persons who produced the commodities
+that grossed the income in paragraph A; and
+E.
+In determining the gross income required by paragraph A and subparagraph B(1):
+(1)
+The cost of purchased livestock shall be deducted from the total gross income attributed
+to the tract; and
+(2)
+Only gross income from land owned, not leased or rented, shall be counted.
+
+ ### 2.08 - ACCESSORY FARM DWELLINGS—YEAR ROUND AND SEASONAL
+
+1.
+Accessory farm dwellings as permitted by Section 2.05 may be considered customarily provided in conjunction with farm use if:
+A.
+Each accessory farm dwelling meets all the following requirements:
+(1)
+The accessory farm dwelling will be occupied by a person or persons who will be principally
+engaged in the farm use of the land and whose seasonal or year-round assistance in
+the management of the farm use, such as planting, harvesting, marketing or caring
+for livestock, is or will be required by the farm operator;
+(2)
+The accessory farm dwelling will be located:
+(a)
+On the same lot or parcel as the primary farm dwelling;
+(b)
+On the same tract as the primary farm dwelling when the lot or parcel on which the
+accessory farm dwelling will be sited is consolidated into a single parcel with all
+other contiguous lots and parcels in the tract;
+(c)
+On a lot or parcel on which the primary farm dwelling is not located, when the accessory
+farm dwelling is limited to only a manufactured dwelling with a deed restriction.
+The deed restriction shall be filed with the county clerk and require the manufactured
+dwelling to be removed when the lot or parcel is conveyed to another party. The manufactured
+dwelling may remain if it is reapproved under these provisions;
+(d)
+On any lot or parcel, when the accessory farm dwelling is limited to only attached
+multi-unit residential structures allowed by the applicable state building code or
+similar types of farmworker housing as that existing on farm or ranch operations registered
+with the Department of Consumer and Business Services, Oregon Occupational Safety
+and Health Division under ORS 658.750. A county shall require all accessory farm dwellings
+approved under this subparagraph to be removed, demolished or converted to a nonresidential
+use when farmworker housing is no longer required. "Farmworker housing" shall have
+the meaning set forth in 215.278 and not the meaning in 315.163; or
+(e)
+On a lot or parcel on which the primary farm dwelling is not located, when the accessory
+farm dwelling is located on a lot or parcel at least the size of the applicable minimum
+lot size under ORS 215.780 and the lot or parcel complies with the gross farm income
+requirements in OAR 660-033-0135(3) or (4), whichever is applicable; and
+(3)
+There is no other dwelling on the lands designated for exclusive farm use owned by
+the farm operator that is vacant or currently occupied by persons not working on the
+subject farm or ranch and that could reasonably be used as an accessory farm dwelling.
+B.
+In addition to the requirements in paragraph A, the primary farm dwelling to which
+the proposed dwelling would be accessory, meets one of the following:
+(1)
+On land not identified as high-value farmland, the primary farm dwelling is located
+on a farm or ranch operation that is currently employed for farm use, as defined in
+ORS 215.203, on which, in each of the last two years or three of the last five years
+or in an average of three of the last five years, the farm operator earned the lower
+of the following:
+(a)
+At least $40,000 in gross annual income from the sale of farm products. In determining
+the gross income, the cost of purchased livestock shall be deducted from the total
+gross income attributed to the tract; or
+(b)
+Gross annual income of at least the midpoint of the median income range of gross annual
+sales for farms in the county with gross annual sales of $10,000 or more according
+to the 1992 Census of Agriculture, Oregon. In determining the gross income, the cost
+of purchased livestock shall be deducted from the total gross income attributed to
+the tract;
+(2)
+On land identified as high-value farmland, the primary farm dwelling is located on
+a farm or ranch operation that is currently employed for farm use, as defined in ORS
+215.203, on which the farm operator earned at least $80,000 in gross annual income
+from the sale of farm products in each of the last two years or three of the last
+five years or in an average of three of the last five years. In determining the gross
+income, the cost of purchased livestock shall be deducted from the total gross income
+attributed to the tract; or
+(3)
+It is located on a commercial dairy farm as defined in Subsection 2.07.7; and
+(a)
+The building permits, if required, have been issued and construction has begun or
+been completed for the buildings and animal waste facilities required for a commercial
+dairy farm;
+(b)
+The Oregon Department of Agriculture has approved a permit for a "confined animal
+feeding operation" under ORS 468B.050 and 468B.200 to 468B.230; and
+(c)
+A Producer License for the sale of dairy products under ORS 621.072.
+C.
+No division of a lot or parcel for an accessory farm dwelling shall be approved pursuant
+to this subsection. If it is determined that an accessory farm dwelling satisfies
+the requirements of this ordinance, a parcel may be created consistent with the minimum
+parcel size requirements in 2.16.1.
+D.
+An accessory farm dwelling approved pursuant to this section cannot later be used
+to satisfy the requirements for a dwelling not provided in conjunction with farm use
+pursuant to Subsection 2.04.18.
+2.
+For purposes of this Subsection, "accessory farm dwelling" includes all types of residential
+structures allowed by the applicable state building code.
+
+ ### 2.09 - OWNERSHIP LOT OF RECORD DWELLINGS
+
+1.
+A dwelling may be approved on a pre-existing lot or parcel if:
+A.
+The lot or parcel on which the dwelling will be sited was lawfully created and was
+acquired and owned continuously by the present owner as defined in paragraph 5:
+(1)
+Since prior to January 1, 1985; or
+(2)
+By devise or by intestate succession from a person who acquired and had owned continuously
+the lot or parcel since prior to January 1, 1985.
+B.
+The tract on which the dwelling will be sited does not include a dwelling;
+C.
+The lot or parcel on which the dwelling will be sited was part of a tract on November
+4, 1993; no dwelling exists on another lot or parcel that was part of that tract;
+D.
+The proposed dwelling is not prohibited by, and will comply with, the requirements
+of the acknowledged Land Use Plan and land use regulations and other provisions of
+law;
+E.
+The lot or parcel on which the dwelling will be sited is not high-value farmland except
+as provided in paragraphs 3 and 4; and
+F.
+When the lot or parcel on which the dwelling will be sited lies within an area designated
+in the Land Use Plan as habitat of big game, the siting of the dwelling is consistent
+with the limitations on density upon which the acknowledged Land Use Plan and land
+use regulations intended to protect the habitat are based.
+2.
+When the lot or parcel on which the dwelling will be sited is part of a tract, the
+remaining portions of the tract are consolidated into a single lot or parcel when
+the dwelling is allowed;
+3.
+Notwithstanding the requirements of subparagraph 1.E, a single-family dwelling may
+be sited on high-value farmland if:
+A.
+It meets the other requirements of paragraphs 1 and 2;
+B.
+The lot or parcel is protected as high-value farmland as defined in OAR 660-033-0020(8)(a);
+C.
+The Planning Commission determines that:
+(1)
+The lot or parcel cannot practicably be managed for farm use, by itself or in conjunction
+with other land, due to extraordinary circumstances inherent in the land or its physical
+setting that do not apply generally to other land in the vicinity.
+(a)
+For the purposes of this section, this criterion asks whether the subject lot or parcel
+can be physically put to farm use without undue hardship or difficulty because of
+extraordinary circumstances inherent in the land or its physical setting. Neither
+size alone nor a parcel's limited economic potential demonstrates that a lot of parcel
+cannot be practicably managed for farm use.
+(b)
+Examples of "extraordinary circumstances inherent in the land or its physical setting"
+include very steep slopes, deep ravines, rivers, streams, roads, railroad or utility
+lines or other similar natural or physical barriers that by themselves or in combination
+separate the subject lot or parcel from adjacent agricultural land and prevent it
+from being practicably managed for farm use by itself or together with adjacent or
+nearby farms.
+(c)
+A lot or parcel that has been put to farm use despite the proximity of a natural barrier
+or since the placement of a physical barrier shall be presumed manageable for farm
+use;
+(2)
+The dwelling will comply with the provisions of 2.06; and
+(3)
+The dwelling will not materially alter the stability of the overall land use pattern
+in the area by applying the standards set forth in paragraph 2.10.1.A.
+4.
+Notwithstanding the requirements of subparagraph 1.E, a single-family dwelling may
+be sited on high-value farmland if:
+A.
+It meets the other requirements of paragraphs 1 and 2;
+B.
+The tract on which the dwelling will be sited is:
+(1)
+Identified in OAR 660-033-0020(8)(c) or (d);
+(2)
+Not sited on high-value farmland defined in Section 2.02 ; and
+(3)
+Twenty-one acres or less in size; and
+C.
+The tract is bordered on at least 67 percent of its perimeter by tracts that are smaller
+than 21 acres, and at least two such tracts had dwellings on January 1, 1993; or
+D.
+The tract is not a flag lot and is bordered on at least 25 percent of its perimeter
+by tracts that are smaller than 21 acres, and at least four dwellings existed on January
+1, 1993, within one-quarter mile of the center of the subject tract. Up to two of
+the four dwellings may lie within an urban growth boundary, but only if the subject
+tract abuts an urban growth boundary; or
+E.
+The tract is a flag lot and is bordered on at least 25 percent of its perimeter by
+tracts that are smaller than 21 acres, and at least four dwellings existed on January
+1, 1993, within one-quarter mile of the center of the subject tract and on the same
+side of the public road that provides access to the subject tract. The governing body
+of a county must interpret the center of the subject tract as the geographic center
+of the flag lot if the applicant makes a written request for that interpretation and
+that interpretation does not cause the center to be located outside the flag lot.
+Up to two of the four dwellings may lie within an urban growth boundary, but only
+if the subject tract abuts an urban growth boundary:
+(1)
+"Flag lot" means a tract containing a narrow strip or panhandle of land providing
+access from the public road to the rest of the tract.
+(2)
+"Geographic center of the flag lot" means the point of intersection of two perpendicular
+lines of which the first line crosses the midpoint of the longest side of a flag lot,
+at a 90-degree angle to the side, and the second line crosses the midpoint of the
+longest adjacent side of the flag lot.
+5.
+For purposes of paragraph 1, "owner" includes the wife, husband, son, daughter, mother,
+father, brother, brother-in-law, sister, sister-in-law, son-in-law, daughter-in-law,
+mother-in-law, father-in-law, aunt, uncle, niece, nephew, stepparent, stepchild, grandparent
+or grandchild of the owner or a business entity owned by any one or a combination
+of these family members;
+6.
+The county assessor shall be notified that the governing body intends to allow the
+dwelling.
+7.
+An application for a single-family dwelling that is approved under this section may
+be transferred by a person who has qualified under this section to any other person
+after the effective date of the land use decision.
+8.
+The county shall provide notice of all applications for ownership of record dwellings
+on high value farmland to the State Department of Agriculture. Notice shall be provided
+in accordance with land use regulations and shall be mailed at least 20 calendar days
+prior to the public hearing.
+
+ ### 2.10 - DWELLINGS NOT IN CONJUNCTION WITH FARM USE
+
+1.
+Non-Farm Dwelling. A non-farm dwelling sited on a lot or parcel is subject to the
+following requirements:
+A.
+The dwelling or activities associated with the dwelling will not force a significant
+change in or significantly increase the cost of accepted farming or forest practices
+on nearby lands devoted to farm or forest use.
+B.
+The following applies to a non-farm dwelling:
+(1)
+The dwelling is situated upon a lot or parcel, or a portion of a lot or parcel that
+is generally unsuitable land for the production of farm crops and livestock or merchantable
+tree species, considering the terrain, adverse soil or land conditions, drainage and
+flooding, vegetation, location and size of the tract. A lot or parcel or portion of
+a lot or parcel shall not be considered unsuitable solely because of size or location
+if it can reasonably be put to farm or forest use in conjunction with other land;
+and
+(2)
+A lot or parcel or portion of a lot or parcel is not "generally unsuitable" simply
+because it is too small to be farmed profitably by itself. If a lot or parcel or portion
+of a lot or parcel can be sold, leased, rented or otherwise managed as a part of a
+commercial farm or ranch, then the lot or parcel or portion of the lot or parcel is
+not "generally unsuitable." A lot or parcel or portion of a lot or parcel is presumed
+to be suitable if, in Eastern Oregon, it is composed predominantly of Class I-VI soils.
+Just because a lot or parcel or portion of a lot or parcel is unsuitable for one farm
+use does not mean it is not suitable for another farm use; or
+(3)
+If the parcel is under forest assessment, the dwelling shall be situated upon generally
+unsuitable land for the production of merchantable tree species recognized by the
+Forest Practices Rules, considering the terrain, adverse soil or land conditions,
+drainage and flooding, vegetation, location and size of the parcel. If a lot or parcel
+is under forest assessment, the area is not "generally unsuitable" simply because
+it is too small to be managed for forest production profitably by itself. If a lot
+or parcel under forest assessment can be sold, leased, rented or otherwise managed
+as a part of a forestry operation, it is not "generally unsuitable." If a lot or parcel
+is under forest assessment, it is presumed suitable if, in Eastern Oregon it is composed
+predominantly of soils capable of producing 20 cubic feet of wood fiber per acre per
+year. If a lot or parcel is under forest assessment, to be found compatible and not
+seriously interfere with forest uses on surrounding land it must not force a significant
+change in forest practices or significantly increase the cost of those practices on
+the surrounding land.
+C.
+The dwelling will not materially alter the stability of the overall land use pattern
+of the area. In determining whether a proposed nonfarm dwelling will alter the stability
+of the land use pattern in the area, a county shall consider the cumulative impact
+of nonfarm dwellings on other lots or parcels in the area similarly situated by applying
+the standards set forth below in subparagraphs (1) through (3). If the application
+involves the creation of a new parcel for the nonfarm dwelling, a county shall consider
+whether creation of the parcel will lead to creation of other nonfarm parcels, to
+the detriment of agriculture in the area by applying the standards set forth below
+in subparagraphs (1) through (3).
+(1)
+Identify a study area for the cumulative impacts analysis. The study area shall include
+at least 2,000 acres or a smaller area not less than 1,000 acres, if the smaller area
+is a distinct agricultural area based on topography, soil types, land use pattern,
+or the type of farm or ranch operations or practices that distinguish it from other,
+adjacent agricultural areas. Findings shall describe the study area, its boundaries,
+the location of the subject parcel within this area, why the selected area is representative
+of the land use pattern surrounding the subject parcel and is adequate to conduct
+the analysis required by this standard. Lands zoned for rural residential or other
+urban or non-resource uses shall not be included in the study area;
+(2)
+Identify within the study area the broad types of farm uses (irrigated or non-irrigated
+crops, pasture or grazing lands), the number, location and type of existing dwellings
+(farm, nonfarm, hardship, etc.), and the dwelling development trends since 1993. Determine
+the potential number of nonfarm/lot-of-record dwellings that could be approved under
+Subsections A and B and Section 2.10 , including identification of predominant soil classifications, the parcels created
+prior to January 1, 1993 and the parcels larger than the minimum lot size that may
+be divided to create new parcels for nonfarm dwellings under ORS 215.263(4). The findings
+shall describe the existing land use pattern of the study area including the distribution
+and arrangement of existing uses and the land use pattern that could result from approval
+of the possible nonfarm dwellings under this subparagraph; and
+(3)
+Determine whether approval of the proposed nonfarm/lot-of-record dwellings together
+with existing nonfarm dwellings will materially alter the stability of the land use
+pattern in the area. The stability of the land use pattern will be materially altered
+if the cumulative effect of existing and potential nonfarm dwellings will make it
+more difficult for the existing types of farms in the area to continue operation due
+to diminished opportunities to expand, purchase or lease farmland, acquire water rights
+or diminish the number of tracts or acreage in farm use in a manner that will destabilize
+the overall character of the study area.
+If a single-family dwelling is established on a lot or parcel as set forth in Subsection
+2.05.7 or (forest zone reference to dwellings in forest zones), no additional dwelling
+may later be sited under the provisions of this section.
+2.
+Non-Farm Dwelling. A non-farm dwelling sited on a parcel created after January 1,
+1993, as allowed in ORS 215.263(5), is subject to the following requirements:
+A.
+The dwelling or activities associated with the dwelling will not force a significant
+change in or significantly increase the cost of accepted farm or forest practices
+on nearby lands devoted to farm or forest use.
+B.
+No final approval of a non-farm dwelling shall be given unless any additional taxes
+imposed upon the change in use have been paid.
+C.
+If a single-family dwelling is established on a lot or parcel as set forth in ORS
+215.705 to 215.750, no additional dwelling may later be sited as a non-farm dwelling.
+D.
+The dwelling will not materially alter the stability of the overall land use pattern
+of the area.
+E.
+The non-farm dwelling complies with such other conditions as the governing body or
+it designee considers necessary.
+
+ ### 2.11 - ALTERATION, RESTORATION OR REPLACEMENT OF A LAWFULLY-ESTABLISHED DWELLING
+
+1.
+A lawfully established dwelling may be altered, restored or replaced if, when an application
+for a permit is submitted, the permitting authority finds to its satisfaction, based
+on substantial evidence that:
+A.
+The dwelling to be altered, restored or replaced has, or formerly had:
+(1)
+Intact exterior walls and roof structure;
+(2)
+Indoor plumbing consisting of a kitchen sink, toilet and bathing facilities connected
+to a sanitary waste disposal system;
+(3)
+Interior wiring for interior lights;
+(4)
+A heating system; and
+(5)
+The dwelling was assessed as a dwelling for purposes of ad valorem taxation for the
+previous five property tax years, or, if the dwelling has existed for less than five
+years, from that time; and
+B.
+Notwithstanding subsection 1.A(5), if the value of the dwelling was eliminated as
+a result of either of the following circumstances, the dwelling was assessed as a
+dwelling until such time as the value of the dwelling was eliminated:
+(1)
+The destruction (i.e., by fire or natural hazard), or demolition in the case of restoration,
+of the dwelling; or
+(2)
+The applicant establishes to the satisfaction of the permitting authority that the
+dwelling was improperly removed from the tax roll by a person other than the current
+owner. "Improperly removed" means that the dwelling has taxable value in its present
+state, or had taxable value when the dwelling was first removed from the tax roll
+or was destroyed by fire or natural hazard, and the county stopped assessing the dwelling
+even though the current or former owner did not request removal of the dwelling from
+the tax roll.
+2.
+For replacement of a lawfully established dwelling under Subsection 2.03.11:
+A.
+The dwelling to be replaced must be removed, demolished or converted to an allowable
+nonresidential use:
+(1)
+Within one year after the date the replacement dwelling is certified for occupancy
+pursuant to ORS 455.055; or
+(2)
+If the dwelling to be replaced is, in the discretion of the permitting authority,
+in such a state of disrepair that the structure is unsafe for occupancy or constitutes
+an attractive nuisance, on or before a date set by the permitting authority that is
+not less than 90 days after the replacement permit is issued; and
+(3)
+If a dwelling is removed by moving it off the subject parcel to another location,
+the applicant must obtain approval from the permitting authority for the new location.
+B.
+The applicant must cause to be recorded in the deed records of the county a statement
+that the dwelling to be replaced has been removed, demolished or converted.
+C.
+As a condition of approval, if the dwelling to be replaced is located on a portion
+of the lot or parcel that is not zoned for exclusive farm use, the applicant shall
+execute and cause to be recorded in the deed records of the county in which the property
+is located a deed restriction prohibiting the siting of another dwelling on that portion
+of the lot or parcel. The restriction imposed is irrevocable unless the county planning
+director, or the director's designee, places a statement of release in the deed records
+of the county to the effect that the provisions of 2013 Oregon Laws, chapter 462,
+section 2 and ORS 215.283 regarding replacement dwellings have changed to allow the
+lawful siting of another dwelling.
+3.
+A replacement dwelling must comply with applicable building codes, plumbing codes,
+sanitation codes and other requirements relating to health and safety or to siting
+at the time of construction. However, the standards may not be applied in a manner
+that prohibits the siting of the replacement dwelling.
+A.
+The siting standards of paragraph B apply when a dwelling qualifies for replacement
+because the dwelling:
+(1)
+Formerly had the features described in paragraph 1.A;
+(2)
+Was removed from the tax roll as described in paragraph 1.C; or
+(3)
+Had a permit that expired as described under paragraph 4.C.
+B.
+The replacement dwelling must be sited on the same lot or parcel:
+(1)
+Using all or part of the footprint of the replaced dwelling or near a road, ditch,
+river, property line, forest boundary or another natural boundary of the lot or parcel;
+and
+(2)
+If possible, for the purpose of minimizing the adverse impacts on resource use of
+land in the area, within a concentration or cluster of structures or within 500 yard
+of another structure.
+C.
+Replacement dwellings that currently have the features described in paragraph 1.A
+and that have been on the tax roll as described in paragraph 1.B may be sited on any
+part of the same lot or parcel.
+4.
+A replacement dwelling permit that is issued under Subsection 2.03.11:
+A.
+Is a land use decision as defined in ORS 197.015 where the dwelling to be replaced:
+(1)
+Formerly had the features described in paragraph 1.A; or
+(2)
+Was removed from the tax roll as described in paragraph 1.C;
+B.
+Is not subject to the time to act limits of ORS 215.417; and
+C.
+If expired before January 1, 2014, shall be deemed to be valid and effective if, before
+January 1, 2015, the holder of the permit:
+(1)
+Removes, demolishes or converts to an allowable nonresidential use the dwelling to
+be replaced; and
+(2)
+Causes to be recorded in the deed records of the county a statement that the dwelling
+to be replaced has been removed, demolished or converted.
+
+ ### 2.12 - WINERIES
+
+1.
+A winery may be established as a permitted use if the proposed winery will produce
+wine with a maximum annual production of:
+A.
+Less than 50,000 gallons and the winery:
+(1)
+Owns an on-site vineyard of at least 15 acres;
+(2)
+Owns a contiguous vineyard of at least 15 acres;
+(3)
+Has a long-term contract for the purchase of all of the grapes from at least 15 acres
+of a vineyard contiguous to the winery; or
+(4)
+Obtains grapes from any combination of subparagraph (1), (2) or (3); or
+B.
+At least 50,000 gallons and the winery:
+(1)
+Owns an on-site vineyard of at least 40 acres;
+(2)
+Owns a contiguous vineyard of at least 40 acres;
+(3)
+Has a long-term contract for the purchase of all of the grapes from at least 40 acres
+of a vineyard contiguous to the winery;
+(4)
+Owns an on-site vineyard of at least 15 acres on a tract of at least 40 acres and
+owns at least 40 additional acres of vineyards in Oregon that are located within 15
+miles of the winery site; or
+(5)
+Obtains grapes from any combination of subparagraph (1), (2), (3) or (4).
+2.
+In addition to producing and distributing wine, a winery established under this section
+may:
+A.
+Market and sell wine produced in conjunction with the winery.
+B.
+Conduct operations that are directly related to the sale or marketing of wine produced
+in conjunction with the winery, including:
+(1)
+Wine tastings in a tasting room or other location on the premises occupied by the
+winery;
+(2)
+Wine club activities;
+(3)
+Winemaker luncheons and dinners;
+(4)
+Winery and vineyard tours;
+(5)
+Meetings or business activities with winery suppliers, distributors, wholesale customers
+and wine-industry members;
+(6)
+Winery staff activities;
+(7)
+Open house promotions of wine produced in conjunction with the winery; and
+(8)
+Similar activities conducted for the primary purpose of promoting wine produced in
+conjunction with the winery.
+C.
+Market and sell items directly related to the sale or promotion of wine produced in
+conjunction with the winery, the marketing and sale of which is incidental to on-site
+retail sale of wine, including food and beverages:
+(1)
+Required to be made available in conjunction with the consumption of wine on the premises
+by the Liquor Control Act or rules adopted under the Liquor Control Act; or
+(2)
+Served in conjunction with an activity authorized by paragraph 2.A, D, or E.
+D.
+Carry out agri-tourism or other commercial events on the tract occupied by the winery
+subject to Subsection 5.
+E.
+Host charitable activities for which the winery does not charge a facility rental
+fee.
+3.
+A winery may include on-site kitchen facilities licensed by the Oregon Health Authority
+under ORS 624.010 to 624.121 for the preparation of food and beverages described in
+Subsection 2.C. Food and beverage services authorized under Subsection 2.C may not
+utilize menu options or meal services that cause the kitchen facilities to function
+as a café or other dining establishment open to the public.
+4.
+The gross income of the winery from the sale of incidental items or services provided
+pursuant to Subsection 2.C and 2.D may not exceed 25 percent of the gross income from
+the on-site retail sale of wine produced in conjunction with the winery. The gross
+income of a winery does not include income received by third parties unaffiliated
+with the winery. At the request of the county, the winery shall submit to the county
+a written statement that is prepared by a certified public accountant and certifies
+the compliance of the winery with this subsection for the previous tax year.
+5.
+A winery may carry out up to 18 days of agri-tourism or other commercial events annually
+on the tract occupied by the winery. If a winery conducts agri-tourism or other commercial
+events authorized under this Section, the winery may not conduct agri-tourism or other
+commercial events or activities authorized by 2.13 1 to 4.
+6.
+A winery operating under this section shall provide off-street parking for all activities
+or uses of the lot, parcel or tract on which the winery is established.
+7.
+Prior to the issuance of a permit to establish a winery under Subsection 1, the applicant
+shall show that vineyards described in Subsection 1 have been planted or that the
+contract has been executed, as applicable.
+8.
+Standards imposed on the siting of a winery shall be limited solely to each of the
+following for the sole purpose of limiting demonstrated conflicts with accepted farming
+or forest practices on adjacent lands:
+A.
+Establishment of a setback of at least 100 feet from all property lines for the winery
+and all public gathering places unless the local government grants an adjustment or
+variance allowing a setback of less than 100 feet; and
+B.
+Provision of direct road access and internal circulation.
+9.
+In addition to a winery permitted in Subsections 1 to 8, a winery may be established
+if:
+A.
+The winery owns and is sited on a tract of 80 acres or more, at least 50 acres of
+which is a vineyard;
+B.
+The winery owns at least 80 additional acres of planted vineyards in Oregon that need
+not be contiguous to the acreage described in paragraph 9.A; and
+C.
+The winery has produced annually, at the same or a different location, at least 150,000
+gallons of wine in at least three of the five calendar years before the winery is
+established under this subsection.
+10.
+In addition to producing and distributing wine, a winery described in Subsection 9
+may:
+A.
+Market and sell wine produced in conjunction with the winery;
+B.
+Conduct operations that are directly related to the sale or marketing of wine produced
+in conjunction with the winery, including:
+(1)
+Wine tastings in a tasting room or other location on the premises occupied by the
+winery;
+(2)
+Wine club activities;
+(3)
+Winemaker luncheons and dinners;
+(4)
+Winery and vineyard tours;
+(5)
+Meetings or business activities with winery suppliers, distributors, wholesale customers
+and wine-industry members;
+(6)
+Winery staff activities;
+(7)
+Open house promotions of wine produced in conjunction with the winery; and
+(8)
+Similar activities conducted for the primary purpose of promoting wine produced in
+conjunction with the winery;
+C.
+Market and sell items directly related to the sale or promotion of wine produced in
+conjunction with the winery, the marketing and sale of which is incidental to retail
+sale of wine on-site, including food and beverages:
+(1)
+Required to be made available in conjunction with the consumption of wine on the premises
+by the Liquor Control Act or rules adopted under the Liquor Control Act; or
+(2)
+Served in conjunction with an activity authorized by paragraph 10.B(2), (4), or (5);
+D.
+Provide services, including agri-tourism or other commercial events, hosted by the
+winery or patrons of the winery, at which wine produced in conjunction with the winery
+is featured, that:
+(1)
+Are directly related to the sale or promotion of wine produced in conjunction with
+the winery;
+(2)
+Are incidental to the retail sale of wine on-site; and
+(3)
+Are limited to 25 days or fewer in a calendar year; and
+(4)
+Host charitable activities for which the winery does not charge a facility rental
+fee.
+11.
+Income Requirements.
+A.
+The gross income of the winery from the sale of incidental items pursuant to paragraph
+10.C and services provided pursuant to paragraph 10.D may not exceed 25 percent of
+the gross income from the on-site retail sale of wine produced in conjunction with
+the winery.
+B.
+At the request of a local government with land use jurisdiction over the site of a
+winery, the winery shall submit to the local government a written statement, prepared
+by a certified public accountant, that certifies compliance with paragraph A for the
+previous tax year.
+12.
+A winery permitted under Subsection 9:
+A.
+Shall provide off-street parking for all activities or uses of the lot, parcel or
+tract on which the winery is established.
+B.
+May operate a restaurant, as defined in ORS 624.010, in which food is prepared for
+consumption on the premises of the winery.
+13.
+Permit Requirements.
+A.
+A winery shall obtain a permit if the winery operates a restaurant that is open to
+the public for more than 25 days in a calendar year or provides for agri-tourism or
+other commercial events authorized under Subsection 10.D occurring on more than 25
+days in a calendar year.
+B.
+In addition to any other requirements, a local government may approve a permit application
+under this subsection if the local government finds that the authorized activity:
+(1)
+Complies with the standards described in Subsections 2.06.1, 2, and 3;
+(2)
+Is incidental and subordinate to the retail sale of wine produced in conjunction with
+the winery; and
+(3)
+Does not materially alter the stability of the land use pattern in the area.
+C.
+If the local government issues a permit under this subsection for agri-tourism or
+other commercial events, the local government shall review the permit at least once
+every five years and, if appropriate, may renew the permit.
+14.
+A person may not have a substantial ownership interest in more than one winery operating
+a restaurant under Subsection 9.
+15.
+Prior to the issuance of a permit to establish a winery under Subsection 9, the applicant
+shall show that vineyards described in Subsection 9 have been planted.
+16.
+A winery operating under Subsection 9 shall provide for:
+A.
+Establishment of a setback of at least 100 feet from all property lines for the winery
+and all public gathering places; and
+B.
+Direct road access and internal circulation.
+17.
+A winery operating under Subsection 9 may receive a permit to host outdoor concerts
+for which admission is charged, facility rentals or celebratory events if the winery
+received a permit in similar circumstances before August 2, 2011.
+18.
+As used in this section:
+A.
+"Agri-tourism or other commercial events" includes outdoor concerts for which admission
+is charged, educational, cultural, health or lifestyle events, facility rentals, celebratory
+gatherings and other events at which the promotion of wine produced in conjunction
+with the winery is a secondary purpose of the event.
+B.
+"On-site retail sale" includes the retail sale of wine in person at the winery site,
+through a wine club or over the Internet or telephone.
+
+ ### 2.13 - AGRI-TOURISM AND OTHER COMMERCIAL EVENTS
+
+1.
+The following agri-tourism and other commercial events or activities that are related
+to and supportive of agriculture may be established:
+A.
+A single agri-tourism or other commercial event or activity on a tract in a calendar
+year that is personal to the applicant and is not transferred by, or transferable
+with, a conveyance of the tract, if the agri-tourism or other commercial event or
+activity meets any local standards that apply and:
+(1)
+The agri-tourism or other commercial event or activity is incidental and subordinate
+to existing farm use on the tract;
+(2)
+The duration of the agri-tourism or other commercial event or activity does not exceed
+72 consecutive hours;
+(3)
+The maximum attendance at the agri-tourism or other commercial event or activity does
+not exceed 500 people;
+(4)
+The maximum number of motor vehicles parked at the site of the agri-tourism or other
+commercial event or activity does not exceed 250 vehicles;
+(5)
+The agri-tourism or other commercial event or activity complies with the standards
+described in Subsections 2.06.1, 2, and 3;
+(6)
+The agri-tourism or other commercial event or activity occurs outdoors, in temporary
+structures, or in existing permitted structures, subject to health and fire and life
+safety requirements; and
+(7)
+The agri-tourism or other commercial event or activity complies with conditions established
+for:
+(a)
+Planned hours of operation;
+(b)
+Access, egress and parking;
+(c)
+A traffic management plan that identifies the projected number of vehicles and any
+anticipated use of public roads; and
+(d)
+Sanitation and solid waste.
+2.
+In the alternative to Subsections 1 and 2, the county may authorize, through an expedited,
+single-event license, a single agri-tourism or other commercial event or activity
+on a tract in a calendar year by an expedited, single-event license that is personal
+to the applicant and is not transferred by, or transferable with, a conveyance of
+the tract. A decision concerning an expedited, single-event license is not a land
+use decision, as defined in ORS 197.015. To approve an expedited, single-event license,
+the governing body of a county or its designee must determine that the proposed agri-tourism
+or other commercial event or activity meets any local standards that apply, and the
+agri-tourism or other commercial event or activity:
+A.
+Must be incidental and subordinate to existing farm use on the tract;
+B.
+May not begin before 6:00 a.m. or end after 10:00 p.m.;
+C.
+May not involve more than 100 attendees or 50 vehicles;
+D.
+May not include the artificial amplification of music or voices before 8:00 a.m. or
+after 8:00 p.m.;
+E.
+May not require or involve the construction or use of a new permanent structure in
+connection with the agri-tourism or other commercial event or activity;
+F.
+Must be located on a tract of at least 10 acres unless the owners or residents of
+adjoining properties consent, in writing, to the location; and
+G.
+Must comply with applicable health and fire and life safety requirements.
+3.
+In the alternative to Subsections 1 and 2, the county may authorize up to six agri-tourism
+or other commercial events or activities on a tract in a calendar year by a limited
+use permit that is personal to the applicant and is not transferred by, or transferable
+with, a conveyance of the tract. The agri-tourism or other commercial events or activities
+must meet any local standards that apply, and the agri-tourism or other commercial
+events or activities:
+A.
+Must be incidental and subordinate to existing farm use on the tract;
+B.
+May not, individually, exceed a duration of 72 consecutive hours;
+C.
+May not require that a new permanent structure be built, used or occupied in connection
+with the agri-tourism or other commercial events or activities;
+D.
+Must comply with the standards described in Subsections 2.06.1, 2, and 3;
+E.
+May not, in combination with other agri-tourism or other commercial events or activities
+authorized in the area, materially alter the stability of the land use pattern in
+the area; and
+F.
+Must comply with conditions established for:
+(1)
+The types of agri-tourism or other commercial events or activities that are authorized
+during each calendar year, including the number and duration of the agri-tourism or
+other commercial events and activities, the anticipated daily attendance and the hours
+of operation;
+(2)
+The location of existing structures and the location of proposed temporary structures
+to be used in connection with the agri-tourism or other commercial events or activities;
+(3)
+The location of access and egress and parking facilities to be used in connection
+with the agri-tourism or other commercial events or activities;
+(4)
+Traffic management, including the projected number of vehicles and any anticipated
+use of public roads; and
+(5)
+Sanitation and solid waste.
+G.
+A permit authorized by this subsection shall be valid for two calendar years. When
+considering an application for renewal, the county shall ensure compliance with the
+provisions of Subsection 3, any local standards that apply and conditions that apply
+to the permit or to the agri-tourism or other commercial events or activities authorized
+by the permit.
+4.
+In addition to Subsections 1 to 3, the county may authorize agri-tourism or other
+commercial events or activities that occur more frequently or for a longer period
+or that do not otherwise comply with Subsections 1 to 3 if the agri-tourism or other
+commercial events or activities comply with any local standards that apply and the
+agri-tourism or other commercial events or activities:
+A.
+Are incidental and subordinate to existing commercial farm use of the tract and are
+necessary to support the commercial farm uses or the commercial agricultural enterprises
+in the area;
+B.
+Comply with the requirements of Subsections 3.C, D, E, and F;
+C.
+Occur on a lot or parcel that complies with the acknowledged minimum lot or parcel
+size; and
+D.
+Do not exceed 18 events or activities in a calendar year.
+5.
+A holder of a permit authorized by a county under Subsection 4 must request review
+of the permit at four-year intervals. Upon receipt of a request for review, the county
+shall:
+A.
+Provide public notice and an opportunity for public comment as part of the review
+process; and
+B.
+Limit its review to events and activities authorized by the permit, conformance with
+conditions of approval required by the permit and the standards established by Subsection
+4.
+6.
+Temporary structures established in connection with agri-tourism or other commercial
+events or activities may be permitted. The temporary structures must be removed at
+the end of the agri-tourism or other event or activity. Alteration to the land in
+connection with an agri-tourism or other commercial event or activity including, but
+not limited to, grading, filling or paving, are not permitted.
+7.
+The authorizations provided by section are in addition to other authorizations that
+may be provided by law, except that "outdoor mass gathering" and "other gathering,"
+as those terms are used in ORS 197.015 (10)(d), do not include agri-tourism or other
+commercial events and activities.
+8.
+Agri-Tourism and Other Commercial Events or Activities Permit. Agri-tourism and other
+commercial events or activities related to and supportive of agriculture may be approved
+in an area zoned for exclusive farm use only if the standards and criteria in this
+section are met.
+A.
+A permit application for an agri-tourism or other commercial event or activity shall
+include the following:
+(1)
+A description of the type of agri-tourism or commercial events or activity that is
+proposed, including the number and duration of the event and activity, the anticipated
+daily attendance and the hours of operation and, for events not held at wineries,
+how the agri-tourism and other commercial events or activities will be related to
+and supportive of agriculture and incidental and subordinate to the existing farm
+use of the tract.
+(2)
+The location of existing structures and the location of proposed temporary structures
+to be used in connection with the agri-tourism or other commercial events or activities;
+(3)
+A traffic management plan that meets the criteria in Section B (3).
+(4)
+Authorization to allow inspection of the event premises. The applicant shall provide
+in writing a consent to allow law enforcement, public health, and fire control officers
+and code enforcement staff to come upon the premises for which the permit has been
+granted for the purposes of inspection and enforcement of the terms and conditions
+of the permit and the Exclusive Farm Use Zone and any other applicable laws or ordinances.
+B.
+Approval Criteria.
+(1)
+The area in which the agri-tourism or other commercial events or activities are located
+shall be setback at least 100 feet from the property line.
+(2)
+Noise Control.
+(a)
+All noise, including the use of a sound producing device such as, but not limited
+to, loud speakers and public address systems, musical instruments that are amplified
+or unamplified, shall be in compliance with applicable state regulations.
+(b)
+A standard sound level meter or equivalent, in good condition, that provides a weighted
+sound pressure level measured by use of a metering characteristic with an "A" frequency
+weighting network and reported as dBA shall be available on-site at all times during
+agri-tourism and other commercial events or activities.
+(3)
+Transportation Management.
+(a)
+Adequate traffic control must be provided by the property owner and must include one
+traffic control person for each 250 persons expected or reasonably expected to be
+in attendance at any time. All traffic control personnel shall be certified by the
+State of Oregon and shall comply with the current edition of the Manual of Uniform
+Traffic Control Devices.
+(b)
+Adequate off-street parking will be provided adequate to accommodate anticipated attendance.
+(4)
+Health and Safety Compliance.
+(a)
+Sanitation facilities shall include, at a minimum, portable restroom facilities and
+stand-alone hand washing stations.
+(b)
+All permanent and temporary structures and facilities are subject to fire, health
+and life safety requirements, and shall comply with all requirements of the Oregon
+Uniform Building Code and any other applicable federal, state and local laws.
+(c)
+Compliance with the requirements of the building codes shall include meeting all building
+occupancy classification requirements of the State of Oregon adopted building code.
+
+ ### 2.14 - COMMERCIAL FACILITIES FOR GENERATING POWER
+
+1.
+Commercial Power Generating Facility, Except for Wind and Photovoltaic Solar Facilities.
+A.
+Permanent features of a power generation facility shall not preclude more than:
+(1)
+12 acres from use as a commercial agricultural enterprise on high value farmland unless
+an exception is taken pursuant to ORS 197.732 and OAR chapter 660, division 4; or
+(2)
+20 acres from use as a commercial agricultural enterprise on land other than high-value
+farmland unless an exception is taken pursuant to ORS 197.732 and OAR chapter 660,
+division 4.
+B.
+A power generation facility may include on-site and off-site facilities for temporary
+workforce housing for workers constructing a power generation facility. Such facilities
+must be removed or converted to an allowed use under OAR 660-033-0130(19) or other
+statute or rule when project construction is complete. Temporary workforce housing
+facilities not included in the initial approval may be considered through a minor
+amendment request. A minor amendment request shall be subject to 660-033-0130(5) and
+shall have no effect on the original approval.
+2.
+Wind Power Generation Facility.
+A.
+For purposes of this ordinance a wind power generation facility includes, but is not
+limited to, the following system components: all wind turbine towers and concrete
+pads, permanent meteorological towers and wind measurement devices, electrical cable
+collection systems connecting wind turbine towers with the relevant power substation,
+new or expanded private roads (whether temporary or permanent) constructed to serve
+the wind power generation facility, office and operation and maintenance buildings,
+temporary lay-down areas and all other necessary appurtenances, including but not
+limited to on-site and off-site facilities for temporary workforce housing for workers
+constructing a wind power generation facility.
+(1)
+Temporary workforce housing described in Subsection 2.14.1.B must be removed or converted
+to an allowed use under OAR 660-033-0130(19) or other statute or rule when project
+construction is complete.
+(2)
+Temporary workforce housing facilities not included in the initial approval may be
+considered through a minor amendment request filed after a decision to approve a power
+generation facility. A minor amendment request shall be subject to 660-033-0130(5)
+and shall have no effect on the original approval.
+B.
+For wind power generation facility proposals on high-value farmland soils, as described
+at ORS 195.300(10), the governing body or its designate must find that all of the
+following are satisfied:
+(1)
+Reasonable alternatives have been considered to show that siting the wind power generation
+facility or component thereof on high-value farmland soils is necessary for the facility
+or component to function properly or if a road system or turbine string must be placed
+on such soils to achieve a reasonably direct route considering the following factors:
+(a)
+Technical and engineering feasibility;
+(b)
+Availability of existing rights-of-way; and
+(c)
+The long-term environmental, economic, social and energy consequences of siting the
+facility or component on alternative sites, as determined under subparagraph (2);
+(2)
+The long-term environmental, economic, social and energy consequences resulting from
+the wind power generation facility or any components thereof at the proposed site
+with measures designed to reduce adverse impacts are not significantly more adverse
+than would typically result from the same proposal being located on other agricultural
+lands that do not include high-value farmland soils;
+(3)
+Costs associated with any of the factors listed in subparagraph (1) may be considered,
+but costs alone may not be the only consideration in determining that siting any component
+of a wind power generation facility on high-value farmland soils is necessary;
+(4)
+The owner of a wind power generation facility approved under paragraph B shall be
+responsible for restoring, as nearly as possible, to its former condition any agricultural
+land and associated improvements that are damaged or otherwise disturbed by the siting,
+maintenance, repair or reconstruction of the facility. Nothing in this subsection
+shall prevent the owner of the facility from requiring a bond or other security from
+a contractor or otherwise imposing on a contractor the responsibility for restoration;
+and
+(5)
+The criteria of paragraph C are satisfied.
+C.
+For wind power generation facility proposals on arable lands, meaning lands that are
+cultivated or suitable for cultivation, including high-value farmland soils described
+at ORS 195.300(10), the governing body or its designate must find that:
+(1)
+The proposed wind power facility will not create unnecessary negative impacts on agricultural
+operations conducted on the subject property. Negative impacts could include, but
+are not limited to, the unnecessary construction of roads, dividing a field or multiple
+fields in such a way that creates small or isolated pieces of property that are more
+difficult to farm, and placing wind farm components such as meteorological towers
+on lands in a manner that could disrupt common and accepted farming practices;
+(2)
+The presence of a proposed wind power facility will not result in unnecessary soil
+erosion or loss that could limit agricultural productivity on the subject property.
+This provision may be satisfied by the submittal and county approval of a soil and
+erosion control plan prepared by an adequately qualified individual, showing how unnecessary
+soil erosion will be avoided or remedied and how topsoil will be stripped, stockpiled
+and clearly marked. The approved plan shall be attached to the decision as a condition
+of approval;
+(3)
+Construction or maintenance activities will not result in unnecessary soil compaction
+that reduces the productivity of soil for crop production. This provision may be satisfied
+by the submittal and county approval of a plan prepared by an adequately qualified
+individual, showing how unnecessary soil compaction will be avoided or remedied in
+a timely manner through deep soil decompaction or other appropriate practices. The
+approved plan shall be attached to the decision as a condition of approval; and
+(4)
+Construction or maintenance activities will not result in the unabated introduction
+or spread of noxious weeds and other undesirable weeds species. This provision may
+be satisfied by the submittal and county approval of a weed control plan prepared
+by an adequately qualified individual that includes a long-term maintenance agreement.
+The approved plan shall be attached to the decision as a condition of approval.
+D.
+For wind power generation facility proposals on nonarable lands, meaning lands that
+are not suitable for cultivation, the requirements of subparagraph C(4) are satisfied.
+E.
+In the event that a wind power generation facility is proposed on a combination of
+arable and nonarable lands as described in paragraphs C and D, the approval criteria
+of paragraph C shall apply to the entire project.
+3.
+Photovoltaic Solar Power Generation Facility. A proposal to site a photovoltaic solar
+power generation facility shall be subject to the following definitions and provisions:
+A.
+"Arable land" means land in a tract that is predominantly cultivated or, if not currently
+cultivated, predominantly comprised of arable soils.
+B.
+"Arable soils" means soils that are suitable for cultivation as determined by the
+governing body or its designate based on substantial evidence in the record of a local
+land use application, but "arable soils" does not include high-value farmland soils
+described at ORS 195.300(10) unless otherwise stated.
+C.
+"Nonarable land" means land in a tract that is predominantly not cultivated and predominantly
+comprised of nonarable soils.
+D.
+"Nonarable soils" means soils that are not suitable for cultivation. Soils with an
+NRCS agricultural capability class V—VIII and no history of irrigation shall be considered
+nonarable in all cases. The governing body or its designate may determine other soils,
+including soils with a past history of irrigation, to be nonarable based on substantial
+evidence in the record of a local land use application.
+E.
+"Photovoltaic solar power generation facility" includes, but is not limited to, an
+assembly of equipment that converts sunlight into electricity and then stores, transfers,
+or both, that electricity. This includes photovoltaic modules, mounting and solar
+tracking equipment, foundations, inverters, wiring, storage devices and other components.
+Photovoltaic solar power generation facilities also include electrical cable collection
+systems connecting the photovoltaic solar generation facility to a transmission line,
+all necessary grid integration equipment, new or expanded private roads constructed
+to serve the photovoltaic solar power generation facility, office, operation and maintenance
+buildings, staging areas and all other necessary appurtenances. For purposes of applying
+the acreage standards of this section, a photovoltaic solar power generation facility
+includes all existing and proposed facilities on a single tract, as well as any existing
+and proposed facilities determined to be under common ownership on lands with fewer
+than 1,320 feet of separation from the tract on which the new facility is proposed
+to be sited. Projects connected to the same parent company or individuals shall be
+considered to be in common ownership, regardless of the operating business structure.
+A photovoltaic solar power generation facility does not include a net metering project
+established consistent with ORS 757.300 and OAR chapter 860, division 39 or a Feed-in-Tariff
+project established consistent with ORS 757.365 and OAR chapter 860, division 84.
+F.
+For high-value farmland described at ORS 195.300(10), a photovoltaic solar power generation
+facility shall not preclude more than 12 acres from use as a commercial agricultural
+enterprise unless an exception is taken pursuant to ORS 197.732 and OAR chapter 660,
+division 4. The governing body or its designate must find that:
+(1)
+The proposed photovoltaic solar power generation facility will not create unnecessary
+negative impacts on agricultural operations conducted on any portion of the subject
+property not occupied by project components. Negative impacts could include, but are
+not limited to, the unnecessary construction of roads dividing a field or multiple
+fields in such a way that creates small or isolated pieces of property that are more
+difficult to farm, and placing photovoltaic solar power generation facility project
+components on lands in a manner that could disrupt common and accepted farming practices;
+(2)
+The presence of a photovoltaic solar power generation facility will not result in
+unnecessary soil erosion or loss that could limit agricultural productivity on the
+subject property. This provision may be satisfied by the submittal and county approval
+of a soil and erosion control plan prepared by an adequately qualified individual,
+showing how unnecessary soil erosion will be avoided or remedied and how topsoil will
+be stripped, stockpiled and clearly marked. The approved plan shall be attached to
+the decision as a condition of approval;
+(3)
+Construction or maintenance activities will not result in unnecessary soil compaction
+that reduces the productivity of soil for crop production. This provision may be satisfied
+by the submittal and county approval of a plan prepared by an adequately qualified
+individual, showing how unnecessary soil compaction will be avoided or remedied in
+a timely manner through deep soil decompaction or other appropriate practices. The
+approved plan shall be attached to the decision as a condition of approval;
+(4)
+Construction or maintenance activities will not result in the unabated introduction
+or spread of noxious weeds and other undesirable weed species. This provision may
+be satisfied by the submittal and county approval of a weed control plan prepared
+by an adequately qualified individual that includes a long-term maintenance agreement.
+The approved plan shall be attached to the decision as a condition of approval;
+(5)
+The project is not located on high-value farmland soils unless it can be demonstrated
+that:
+(a)
+Non high-value farmland soils are not available on the subject tract;
+(b)
+Siting the project on non-high-value farmland soils present on the subject tract would
+significantly reduce the project's ability to operate successfully; or
+(c)
+The proposed site is better suited to allow continuation of an existing commercial
+farm or ranching operation on the subject tract than other possible sites also located
+on the subject tract, including those comprised of non-high-value farmland soils;
+and
+(6)
+A study area consisting of lands zoned for exclusive farm use located within one mile
+measured from the center of the proposed project shall be established and:
+(a)
+If fewer than 48 acres of photovoltaic solar power generation facilities have been
+constructed or received land use approvals and obtained building permits within the
+study area, no further action is necessary.
+(b)
+When at least 48 acres of photovoltaic solar power generation have been constructed
+or received land use approvals and obtained building permits, either as a single project
+or as multiple facilities within the study area, the local government or its designate
+must find that the photovoltaic solar energy generation facility will not materially
+alter the stability of the overall land use pattern of the area. The stability of
+the land use pattern will be materially altered if the overall effect of existing
+and potential photovoltaic solar energy generation facilities will make it more difficult
+for the existing farms and ranches in the area to continue operation due to diminished
+opportunities to expand, purchase or lease farmland or acquire water rights, or will
+reduce the number of tracts or acreage in farm use in a manner that will destabilize
+the overall character of the study area.
+G.
+For arable lands, a photovoltaic solar power generation facility shall not preclude
+more than 20 acres from use as a commercial agricultural enterprise unless an exception
+is taken pursuant to ORS 197.732 and OAR chapter 660, division 4. The governing body
+or its designate must find that:
+(1)
+The project is not located on high-value farmland soils or arable soils unless it
+can be demonstrated that:
+(a)
+Nonarable soils are not available on the subject tract;
+(b)
+Siting the project on nonarable soils present on the subject tract would significantly
+reduce the project's ability to operate successfully; or
+(c)
+The proposed site is better suited to allow continuation of an existing commercial
+farm or ranching operation on the subject tract than other possible sites also located
+on the subject tract, including those comprised of nonarable soils;
+(2)
+No more than 12 acres of the project will be sited on high-value farmland soils described
+at ORS 195.300(10) unless an exception is taken pursuant to 197.732 and OAR chapter
+660, division 4;
+(3)
+A study area consisting of lands zoned for exclusive farm use located within one mile
+measured from the center of the proposed project shall be established and:
+(a)
+If fewer than 80 acres of photovoltaic solar power generation facilities have been
+constructed or received land use approvals and obtained building permits within the
+study area no further action is necessary.
+(b)
+When at least 80 acres of photovoltaic solar power generation have been constructed
+or received land use approvals and obtained building permits, either as a single project
+or as multiple facilities, within the study area the local government or its designate
+must find that the photovoltaic solar energy generation facility will not materially
+alter the stability of the overall land use pattern of the area. The stability of
+the land use pattern will be materially altered if the overall effect of existing
+and potential photovoltaic solar energy generation facilities will make it more difficult
+for the existing farms and ranches in the area to continue operation due to diminished
+opportunities to expand, purchase or lease farmland, acquire water rights or diminish
+the number of tracts or acreage in farm use in a manner that will destabilize the
+overall character of the study area; and
+(4)
+The requirements of subparagraphs F(1), (2), (3), and (4) are satisfied.
+H.
+For nonarable lands, a photovoltaic solar power generation facility shall not preclude
+more than 250 acres from use as a commercial agricultural enterprise unless an exception
+is taken pursuant to ORS 197.732 and OAR chapter 660, division 4. The governing body
+or its designate must find that:
+(1)
+The project is not located on high-value farmland soils or arable soils unless it
+can be demonstrated that:
+(a)
+Siting the project on nonarable soils present on the subject tract would significantly
+reduce the project's ability to operate successfully; or
+(b)
+The proposed site is better suited to allow continuation of an existing commercial
+farm or ranching operation on the subject tract as compared to other possible sites
+also located on the subject tract, including sites that are comprised of nonarable
+soils;
+(2)
+No more than 12 acres of the project will be sited on high-value farmland soils described
+at ORS 195.300(10);
+(3)
+No more than 20 acres of the project will be sited on arable soils unless an exception
+is taken pursuant to ORS 197.732 and OAR chapter 660, division 4;
+(4)
+The requirements of subparagraph F (4) are satisfied;
+(5)
+If a photovoltaic solar power generation facility is proposed to be developed on lands
+that contain a Goal 5 resource protected under the county's Land Use Plan, and the
+plan does not address conflicts between energy facility development and the resource,
+the applicant and the county, together with any state or federal agency responsible
+for protecting the resource or habitat supporting the resource, will cooperatively
+develop a specific resource management plan to mitigate potential development conflicts.
+If there is no program present to protect the listed Goal 5 resource(s) present in
+the local Land Use Plan or implementing ordinances and the applicant and the appropriate
+resource management agency(ies) cannot successfully agree on a cooperative resource
+management plan, the county is responsible for determining appropriate mitigation
+measures; and
+(6)
+If a proposed photovoltaic solar power generation facility is located on lands where
+the potential exists for adverse effects to state or federal special status species
+(threatened, endangered, candidate, or sensitive), or to wildlife species of concern
+identified and mapped by the Oregon Department of Fish and Wildlife (including big
+game winter range and migration corridors, golden eagle and prairie falcon nest sites,
+and pigeon springs), the applicant shall conduct a site-specific assessment of the
+subject property in consultation with all appropriate state, federal, and tribal wildlife
+management agencies. A professional biologist shall conduct the site-specific assessment
+by using methodologies accepted by the appropriate wildlife management agency and
+shall determine whether adverse effects to special status species or wildlife species
+of concern are anticipated. Based on the results of the biologist's report, the site
+shall be designed to avoid adverse effects to state or federal special status species
+or to wildlife species of concern as described above. If the applicant's site-specific
+assessment shows that adverse effects cannot be avoided, the applicant and the appropriate
+wildlife management agency will cooperatively develop an agreement for project-specific
+mitigation to offset the potential adverse effects of the facility. Where the applicant
+and the resource management agency cannot agree on what mitigation will be carried
+out, the county is responsible for determining appropriate mitigation, if any, required
+for the facility.
+(7)
+The provisions of paragraph (6) are repealed on January 1, 2022.
+I.
+The project owner shall sign and record in the deed records for the county a document
+binding the project owner and the project owner's successors in interest, prohibiting
+them from pursuing a claim for relief or cause of action alleging injury from farming
+or forest practices as defined in ORS 30.930(2) and (4).
+J.
+Nothing in this section shall prevent the county from requiring a bond or other security
+from a developer or otherwise imposing on a developer the responsibility for retiring
+the photovoltaic solar power generation facility.
+
+ ### 2.15 - LAND DIVISIONS
+
+1.
+Minimum Parcel Size. The minimum size for creation of a new parcel shall comply with
+Section 2.16 .
+2.
+A division of land to accommodate a use permitted by Section 2.04 , except a residential use, smaller than the minimum parcel size provided in Subsection
+1 may be approved if the parcel for the nonfarm use is not larger than the minimum
+size necessary for the use.
+3.
+A division of land to create up to two new parcels smaller than the minimum size established
+under Section 2.16 , each to contain a dwelling not provided in conjunction with farm use, may be permitted
+if:
+A.
+The nonfarm dwellings have been approved under paragraph 2.10.2;
+B.
+The parcels for the nonfarm dwellings are divided from a lot or parcel that was lawfully
+created prior to July 1, 2001;
+C.
+The parcels for the nonfarm dwellings are divided from a lot or parcel that complies
+with the minimum size in Section 2.16 ;
+D.
+The remaining area of the original lot or parcel that does not contain the nonfarm
+dwellings complies with the minimum size in Section 2.16 ; and
+E.
+The parcels for the nonfarm dwellings are generally unsuitable for the production
+of farm crops and livestock or merchantable tree species considering the terrain,
+adverse soil or land conditions, drainage or flooding, vegetation, location and size
+of the tract. A parcel may not be considered unsuitable based solely on size or location
+if the parcel can reasonably be put to farm or forest use in conjunction with other
+land.
+4.
+A division of land to divide a lot or parcel by creating up to two parcels, each to
+contain one dwelling not provided in conjunction with farm use, may be permitted if:
+A.
+The nonfarm dwellings have been approved under Subsection 2.10.2;
+B.
+The parcels for the nonfarm dwellings are divided from a lot or parcel that was lawfully
+created prior to July 1, 2001;
+C.
+The parcels for the nonfarm dwellings are divided from a lot or parcel that is equal
+to or smaller than the minimum size in Section 2.16 but equal to or larger than 40 acres;
+D.
+The parcels for the nonfarm dwellings are:
+(1)
+Not capable of producing more than at least 20 cubic feet per acre per year of wood
+fiber; and
+(2)
+Either composed of at least 90 percent Class VII and VIII soils, or composed of at
+least 90 percent Class VI through VIII soils and is not capable of producing adequate
+herbaceous forage for grazing livestock. The Land Conservation and Development Commission,
+in cooperation with the State Department of Agriculture and other interested persons,
+may establish by rule objective criteria for identifying units of land that are not
+capable of producing adequate herbaceous forage for grazing livestock. In developing
+the criteria, the commission shall use the latest information from the United States
+Natural Resources Conservation Service and consider costs required to utilize grazing
+lands that differ in acreage and productivity level;
+E.
+The parcels for the nonfarm dwellings do not have established water rights for irrigation;
+and
+F.
+The parcels for the nonfarm dwellings are generally unsuitable for the production
+of farm crops and livestock or merchantable tree species considering the terrain,
+adverse soil or land conditions, drainage or flooding, vegetation, location and size
+of the tract. A parcel may not be considered unsuitable based solely on size or location
+if the parcel can reasonably be put to farm or forest use in conjunction with other
+land.
+5.
+This section does not apply to the creation or sale of cemetery lots, if a cemetery
+is within the boundaries designated for a farm use zone at the time the zone is established.
+6.
+This section does not apply to divisions of land resulting from lien foreclosures
+or divisions of land resulting from foreclosure of recorded contracts for the sale
+of real property.
+7.
+This section does not allow division of a lot or parcel described in Subsection 2.04.15
+or 2.04.21.
+8.
+This section does not allow division of a lot or parcel that separates a processing
+facility from the farm operation specified in Subsection 2.04.19.
+9.
+A division of land may be permitted to create a parcel with an existing dwelling to
+be used:
+A.
+As a residential home as described in ORS 197.660 (2) only if the dwelling has been
+approved under Section 2.10 ; and
+B.
+For historic property that meets the requirements of Subsection 2.03.10.
+10.
+Notwithstanding Section 2.16 , a division of land may be approved for the purpose of establishing a park, provided
+the following are met:
+A.
+A parcel created pursuant to this subsection that does contain a dwelling:
+(1)
+The land division is for the purpose of allowing a provider of public parks or open
+space, or a not-for-profit land conservation organization, to purchase at least one
+of the resulting parcels; and
+(2)
+A parcel created by the land division that contains a dwelling is large enough to
+support continued residential use of the parcel.
+B.
+A parcel created pursuant to this subsection that does not contain a dwelling:
+(1)
+Is not eligible for siting a dwelling, except as may be authorized under ORS 195.120;
+(2)
+May not be considered in approving or denying an application for siting any other
+dwelling;
+(3)
+May not be considered in approving a redesignation or rezoning of forestlands except
+for a re-designation or rezoning to allow a public park, open space or other natural
+resource use; and
+(4)
+May not be smaller than 25 acres unless the purpose of the land division is to facilitate
+the creation of a wildlife or pedestrian corridor or the implementation of a wildlife
+habitat protection plan or to allow a transaction in which at least one party is a
+public park or open space provider, or a not-for-profit land conservation organization,
+that has cumulative ownership of at least 2,000 acres of open space or park property.
+11.
+A division of land smaller than the minimum lot or parcel size in Section 2.16 may be approved provided:
+A.
+The division is for the purpose of establishing a church, including cemeteries in
+conjunction with the church;
+B.
+The church has been approved under Subsection 2.04 ;
+C.
+The newly created lot or parcel is not larger than five acres; and
+D.
+The remaining lot or parcel, not including the church, meets the minimum lot or parcel
+size described in Subsection 2.16 either by itself or after it is consolidated with another lot or parcel.
+12.
+Notwithstanding the minimum lot or parcel size described Section 2.16 , a division for the nonfarm uses set out in Subsection 2.03.6 if the parcel for the
+nonfarm use is not larger than the minimum size necessary for the use.
+13.
+The governing body of a county may not approve a division of land for nonfarm use
+under subsection 2, 3, 5, 6, 7, or 8 unless any additional tax imposed for the change
+in use has been paid.
+14.
+Parcels used or to be used for training or stabling facilities may not be considered
+appropriate to maintain the existing commercial agricultural enterprise in an area
+where other types of agriculture occur.
+
+ ### 2.16 - MINIMUM PARCEL SIZE
+
+1.
+The minimum parcel size for farm related parcels in the A-1 Exclusive Farm Use Zone
+shall be as follows:
+A.
+160 acres for land not designated rangeland.
+B.
+320 acres for land designated rangeland.
+C.
+On a predominantly agricultural parcel a variance application may be submitted per
+Article 30.00 to create parcels per ORS 215.780(1) for resource related purposes only.
+
+ ### 2.17 - DEVELOPMENT STANDARDS
+
+The following standards shall apply to all development in an A-1 Exclusive Farm Use
+Zone.
+1.
+Any proposed division of land included within the A-1 Zone resulting in the creation
+of one or more parcels of land shall be reviewed and approved or disapproved by the
+County (ORS 215.263).
+2.
+Setbacks from property lines or road rights-of-way shall be a minimum of 20-feet front
+and rear yards and 10-feet side yards.
+3.
+Animal shelters shall not be located closer than 100 feet to an R-1 or R-2 Zone.
+4.
+Signs shall be limited to the following:
+A.
+All off-premises signs within view of any State Highway shall be regulated by State
+regulation under ORS Chapter 377 and receive building permit approval.
+B.
+All on-premises signs shall meet the Oregon Administrative Rule regulations for on-premises
+signs which have the following standards:
+(1)
+Maximum total sign area for one business is 8% of building area plus utilized parking
+area, or 2,000 square feet, whichever is less.
+(2)
+Display area maximum is 825 square feet for each face of any one sign, or half the
+total allowable sign area, whichever is less.
+(3)
+Businesses which have no buildings located on the premises or have buildings and parking
+area allowing a sign area of less than 250 square feet may erect and maintain on-premises
+signs with the total allowable area of 250 square feet, 125 square feet maximum for
+any one face of a sign.
+(4)
+Maximum height of freestanding signs adjacent to interstate highways is 65 feet, for
+all other highways is 35 feet, measured from the highway surface or the premises grade,
+whichever is higher to the top of the sign.
+C.
+All on premises signs within view or 660 feet of any State Highway shall obtain permit
+approval from the Permit Unit, Oregon State Highway Division. No sign shall be moving,
+revolving or flashing, and all lighting shall be directed away from residential use
+or zones, and shall not be located so as to detract from a motorist's vision except
+for emergency purposes.

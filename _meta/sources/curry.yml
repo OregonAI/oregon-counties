@@ -1,0 +1,31 @@
+group: curry
+title: Curry County sources
+county: curry-county
+crawl:
+  decision: proceed
+  checked: '2026-08-01'
+  basis: No AI-agent directive. Nothing to decide.
+  hosts:
+  - host: www.currycountyor.gov
+    robots_url: https://www.currycountyor.gov/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: No named AI agents. Writes href with a space and uses a <base> tag — handled by the shared
+      discoverer, not by a Curry-specific hack.
+last_checked: '2026-07-31'
+upstream_signal: No feed; re-hash each PDF. New documents appear in the index.
+sources:
+- id: curry-land-use-fee-schedule-2026-approved
+  url: https://www.currycountyor.gov/Fee%20Schedule%202026%20approved.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Fee Schedule 2026 approved
+  last_checked: '2026-07-31'
+- id: curry-land-use-curry-county-housing-committee-members-list-7-9-21
+  url: https://www.currycountyor.gov/document_center/community%20devlopements/Housing%20Committee/CURRY%20COUNTY%20HOUSING%20COMMITTEE%20Members%20List%207-9-21.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: CURRY COUNTY HOUSING COMMITTEE Members List 7-9-21
+  last_checked: '2026-07-31'

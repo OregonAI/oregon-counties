@@ -1,0 +1,93 @@
+group: hood-river
+title: Hood River County sources
+county: hood-river-county
+crawl:
+  decision: proceed
+  checked: '2026-08-01'
+  basis: No AI-agent directive. Nothing to decide.
+  hosts:
+  - host: www.hoodrivercounty.gov
+    robots_url: https://www.hoodrivercounty.gov/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: No named AI agents. Legacy /vertical/Sites/{GUID}/ document tree; the literal braces need percent-encoding.
+last_checked: '2026-07-31'
+upstream_signal: No feed; re-hash each PDF. Upload paths are stable.
+sources:
+- id: hood-river-code-is-your-mailing-address-correct
+  url: https://hoodriveror.govoffice2.com/vertical/Sites/%7B4BB5BFDA-3709-449E-9B16-B62A0A0DD6E4%7D/uploads/IS_YOUR_MAILING_ADDRESS_CORRECT.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: IS YOUR MAILING ADDRESS CORRECT
+  last_checked: '2026-07-31'
+- id: hood-river-code-2025-pp-return-letter-website-version
+  url: https://hoodriveror.govoffice2.com/vertical/Sites/%7B4BB5BFDA-3709-449E-9B16-B62A0A0DD6E4%7D/uploads/2025_PP_RETURN_LETTER_-_Website_Version.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 2025 PP RETURN LETTER - Website Version
+  last_checked: '2026-07-31'
+- id: hood-river-code-are-fee-schedule-effective-2-19-26-1
+  url: https://hoodriveror.govoffice2.com/vertical/Sites/%7B4BB5BFDA-3709-449E-9B16-B62A0A0DD6E4%7D/uploads/ARE_Fee_Schedule_-_Effective_2-19-26(1).pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: ARE Fee Schedule - Effective 2-19-26(1)
+  last_checked: '2026-07-31'
+- id: hood-river-code-recording-coversheet
+  url: https://hoodriveror.govoffice2.com/vertical/Sites/%7B4BB5BFDA-3709-449E-9B16-B62A0A0DD6E4%7D/uploads/Recording_Coversheet.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: Recording Coversheet
+  last_checked: '2026-07-31'
+- id: hood-river-code-hrc-public-row-work-application-v-1
+  url: https://www.hoodrivercounty.gov/vertical/sites/%7B4BB5BFDA-3709-449E-9B16-B62A0A0DD6E4%7D/uploads/HRC_Public_ROW_Work_Application.v.1.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: HRC Public ROW Work Application.v.1
+  last_checked: '2026-07-31'
+- id: hood-river-code-hrc-snow-removal-special-provisions-v-1
+  url: https://www.hoodrivercounty.gov/vertical/sites/%7B4BB5BFDA-3709-449E-9B16-B62A0A0DD6E4%7D/uploads/HRC_Snow_Removal_Special_Provisions.v.1.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: HRC Snow Removal Special Provisions.v.1
+  last_checked: '2026-07-31'
+- id: hood-river-code-hrc-over-dimension-permit-v-1
+  url: https://www.hoodrivercounty.gov/vertical/sites/%7B4BB5BFDA-3709-449E-9B16-B62A0A0DD6E4%7D/uploads/HRC_Over-Dimension_Permit.v.1.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: HRC Over-Dimension Permit.v.1
+  last_checked: '2026-07-31'
+- id: hood-river-code-hrc-event-permit-application-19-04-11
+  url: https://www.hoodrivercounty.gov/vertical/sites/%7B4BB5BFDA-3709-449E-9B16-B62A0A0DD6E4%7D/uploads/HRC_Event_Permit_Application.19.04.11.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: HRC Event Permit Application.19.04.11
+  last_checked: '2026-07-31'
+- id: hood-river-code-sel112-replacement-ballot-rev-01-15
+  url: https://hoodriveror.govoffice2.com/vertical/Sites/%7B4BB5BFDA-3709-449E-9B16-B62A0A0DD6E4%7D/uploads/SEL112_Replacement_Ballot_-_Rev_01-15.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: SEL112 Replacement Ballot - Rev 01-15
+  last_checked: '2026-07-31'
+- id: hood-river-code-2020-charter-adopted-by-voters-november-3-2020
+  url: https://www.hoodrivercounty.gov/vertical/Sites/%7B4BB5BFDA-3709-449E-9B16-B62A0A0DD6E4%7D/uploads/2020_Charter_Adopted_by_Voters_November_3_2020.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 2020 Charter Adopted by Voters November 3 2020
+  last_checked: '2026-07-31'
+- id: hood-river-code-admin-code-adopted-8-15-11-modified-2015-2017-2022-2024
+  url: https://www.hoodrivercounty.gov/vertical/Sites/%7B4BB5BFDA-3709-449E-9B16-B62A0A0DD6E4%7D/uploads/Admin_Code_adopted_8.15.11_modified_2015_2017_2022_2024.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: Admin Code adopted 8.15.11 modified 2015 2017 2022 2024
+  last_checked: '2026-07-31'

@@ -1,0 +1,6863 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/hood-river-county
+id: hood-river-code-admin-code-adopted-8-15-11-modified-2015-2017-2022-2024
+title: 'Admin Code adopted 8.15.11 modified 2015 2017 2022 2024'
+doc_type: ordinance
+citation: 'Admin Code adopted 8.15.11 modified 2015 2017 2022 2024'
+authority_level: county_ordinance
+issuing_body: 'Hood River County Board of Commissioners'
+source_url: https://www.hoodrivercounty.gov/vertical/Sites/%7B4BB5BFDA-3709-449E-9B16-B62A0A0DD6E4%7D/uploads/Admin_Code_adopted_8.15.11_modified_2015_2017_2022_2024.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: afe7e3c0d0a23f2352f2fabacc50a3fb4ff48a4072c7b3a72230023f1296f6bc
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 192.501
+    - ORS 194.035
+    - ORS 200.055
+    - ORS 200.065
+    - ORS 200.075
+    - ORS 275.340
+    - ORS 279.011
+    - ORS 279.015
+    - ORS 279.029
+    - ORS 279.049
+    - ORS 279.348
+    - ORS 279A.010
+    - ORS 279A.025
+    - ORS 279A.030
+    - ORS 279A.055
+    - ORS 279A.060
+    - ORS 279A.065
+    - ORS 279A.105
+    - ORS 279A.110
+    - ORS 279A.120
+    - ORS 279A.125
+    - ORS 279A.200
+    - ORS 279A.205
+    - ORS 279A.210
+    - ORS 279A.215
+    - ORS 279A.220
+    - ORS 279A.225
+    - ORS 279B.005
+    - ORS 279B.050
+    - ORS 279B.055
+    - ORS 279B.060
+    - ORS 279B.065
+    - ORS 279B.070
+    - ORS 279B.075
+    - ORS 279B.080
+    - ORS 279B.085
+    - ORS 279B.100
+    - ORS 279B.120
+    - ORS 279B.220
+    - ORS 279B.400
+    - ORS 279B.405
+    - ORS 279B.410
+    - ORS 279B.415
+    - ORS 279B.425
+    - ORS 279C.005
+    - ORS 279C.100
+    - ORS 279C.110
+    - ORS 279C.305
+    - ORS 279C.320
+    - ORS 279C.330
+    - ORS 279C.335
+    - ORS 279C.340
+    - ORS 279C.345
+    - ORS 279C.355
+    - ORS 279C.360
+    - ORS 279C.365
+    - ORS 279C.370
+    - ORS 279C.375
+    - ORS 279C.380
+    - ORS 279C.390
+  related: []
+  supersedes: []
+tags: [hood-river-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Hood River County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Admin Code adopted 8.15.11 modified 2015 2017 2022 2024 (Admin Code adopted 8.15.11 modified 2015 2017 2022 2024)
+
+## At a glance
+
+Admin Code adopted 8.15.11 modified 2015 2017 2022 2024 — code of Hood River County. 176 pages.
+
+## Full text
+
+HOOD RIVER COUNTY
+ADMINISTRATIVE CODE
+
+Adopted by Hood River County Board of Commissioners December 9, 1985
+
+Reviews & Revisions
+February 1988
+January 1991
+December 1994
+August 2011
+Parts Modified: 2015, 2017, 2022, & 2024
+i
+TABLE OF CONTENTS
+
+HOOD RIVER COUNTY ADMINISTRATIVE CODE
+Article I - INTRODUCTION ................................................................................................ 1
+ARTICLE II - DEFINITIONS .............................................................................................. 2
+ARTICLE III – PROCEDURES
+Section 1-A
+Budget -  Preparation  and Adoption ................................................................................. 4
+Section 2-A
+Purchasing and Bids .......................................................................................................... 7
+Section 2-B
+Supplies, Surplus and Fixed Assets .................................................................................. 85
+Section 3-A
+Claims -  Processing for Payment .................................................................................... 91
+Section 4-A
+Grants -  Applications for Grant Funds ............................................................................ 93
+Section 5-A
+Trades -  Materials or  Services......................................................................................... 95
+ARTICLE IV - BOARD OF COMMISSIONERS
+Section 6-A
+Board of Commissioners ................................................................................................... 96
+Section 6-B
+Agendas - Preparation and Distributions .......................................................................... 100
+Section 6-C
+Meetings - Board of Commissioners ................................................................................. 103
+Section 6-D
+Hearings - Board of Commissioners ................................................................................. 109
+ARTICLE V - COUNTY DEPARTMENTS
+Section 15-A
+County Departments .......................................................................................................... 120
+Section 16-A
+Administrative Department ............................................................................................... 122
+Section 17-A
+Budget & Finance Department .......................................................................................... 125
+Section 18 -A
+Community Development Department ............................................................................. 128
+Building Codes Division
+Planning & Zoning Division
+ii
+Information Services Division
+Veteran’s Services Division
+Economic Development Division
+Section 19-A
+Commission on Children & Families Department ............................................................ 133
+Section 20-A
+Community Corrections .................................................................................................... 136
+Section 21-A
+Forestry Department .......................................................................................................... 138
+Section 22-A
+Health Department ............................................................................................................ 142
+Section 23-A
+Human Resources ............................................................................................................. 145
+Section 24-A
+Justice Departments: District Attorney and Justice Court ................................................ 147
+Section 25-A
+Juvenile Department ......................................................................................................... 149
+Section 26-A
+Law Enforcement - Sheriff ................................................................................................ 151
+Section 26-B
+Law Enforcement - Animal Control Division ................................................................... 153
+Section 26-C
+Law Enforcement - Emergency Services Division ............................................................ 154
+Section 26-D
+Law Enforcement - 911 Communication Service District ................................................. 156
+Section 27-A
+Public Works ..................................................................................................................... 160
+Section 27-B
+Public Works Department: Parks & Buildings Division ................................................... 163
+Section 27-C
+Public Works Department: Weed and Pest Division ....................................................... 166
+Section 28-A
+Records and Assessment ................................................................................................... 167
+ARTICLE VI- PROJECTS/PROGRAMS/SERVICES
+Section 40-A
+Projects/Programs/Services ............................................................................................... 171
+Section 41-A
+Center for Living ............................................................................................................... 172
+ARTICLE I
+INTRODUCTION
+
+Title: This document shall be known as the Administrative Code for Hood River County, a Home Rule
+County in the State of Oregon.
+
+Purpose: The purpose of the Administrative Code is to comply with provisions of the Hood River
+County Charter (Revised May 2008), and provides for three separate manuals:
+1. Administrative Code
+
+2. Personnel Code
+
+3. Committee/Commissions/Boards By-Laws Manual
+
+Chapter 1 - Administrative Code - shall prescribe procedures and systems of operation and management of all
+offices, departments and institutions of the County, both elective and appointive; and shall prescribe the powers and
+duties of the Board of Commissioners and County Departments.
+
+Savings Clause: If any part of the Administrative Code shall be held unlawful or unenforceable by any
+court of competent jurisdiction, the remainder of the Administrative Code shall not be affected thereby.
+
+Reservation of Powers: Any powers or privileges not herein specified are reserved exclusively to the Board
+of Commissioners, subject only to the Hood River County Charter (Revised May 2008), and the Constitution and laws of
+the State of Oregon and of the United States.
+Variances: The Board of Commissioners shall have the power to vary or modify the strict application of the
+provisions of the Administrative Code in any case in which the strict application of said provisions would result in
+practical difficulties or unnecessary hardships.
+Applicability: Th e Administrative Code shall apply to all County Departments, and to all County offices
+and institutions.
+
+Responsibility: It shall be the responsibility of every department head, (elected or appointed), supervisor,
+and employee, to comply with provisions of the Administrative Code.
+
+Amendment, Revision, Appeal: The Board of Commissioners may amend, revise, add, or repeal any part
+or section of the Administrative Code at any time it sees fit.
+
+DEFINITIONS
+
+HOOD RIVER COUNTY ADMINISTRATIVE CODE
+
+Board of Commissioners - the elected governing body for Hood River County, Oregon.
+
+Committee, Commission, Board - appointed by the Board of Commissioners for a specified purpose and a
+specified term, and may be required by Oregon Revised Statutes or may be an advisory committee.
+
+County Administrator - appointed by the Board of Commissioners to administer and manage the affairs of Hood
+River County.
+
+Department - established by the Board of Commissioners to provide specified services and programs.
+
+Department Division - Branch of an established County Department and under the direction of the Department
+Head.
+
+Department Head - Appointed by the County Administrator, or elected into the office of County Sheriff, Justice of
+the Peace or District Attorney and is responsible for the effective and efficient management of a department.
+
+Program, Project, Service - A County function under the direction of the County Administrator or a designated
+department head.
+Shall is mandatory and May is permissive.
+
+An Article and Section heading contained herein shall not be deemed to govern, limit, modify or in any manner
+affect the scope, meaning, or intent of any section hereof.
+
+The masculine includes the feminine and neuter and shall not be construed to allow discrimination according to sex.
+The singular includes the plural, and the plural includes the singular.
+SECTION 1-A
+PROCEDURE FOR PREPARATION AND ADOPTION OF BUDGET
+
+A. COMPLIANCE WITH BUDGET PROCEDURE:
+
+1A.0 All officials, persons, officers, departments, boards, committees and commissions for whom or for
+which the Board of Commissioners is required to adopt an annual budget, as provided for in Oregon
+Revised Statutes, shall be governed by the following sections of this Section which are general in
+nature.
+
+1A.1  Notices and publications shall comply with provisions of Oregon Budget Law ORS 294-305- ORS
+294.565.
+
+B. SUBMITTAL OF FORMS FOR BUDGET ESTIMATES:
+
+1A.2 The Budget &  Finance Director shall coordinate with the County Administrator a schedule for
+preparation of the annual budget document, including a budget process timeline outlining all critical
+dates for data submission, publications and meetings. This schedule shall be approved by the Board
+of Commissioners.
+
+1A.3 The Budget & Finance Director shall submit to each County department head, and applicable County
+commissions, and board’s forms on which to submit a budget proposal for the ensuing fiscal year.
+Forms to be used for submittal of budget proposals shall be as prescribed by the Budget & Finance
+Director.
+
+1A.4 The Budget & Finance Director shall stipulate a time for department heads and applicable
+commissions, and boards to return budget proposals to the Budget & Finance Department. Sufficient
+time shall be allowed for the Budget & Finance Department to compile the information and to
+prepare a proposed budget document for submittal to the Budget Committee.
+
+1A.5 Each County department head that submits a budget request shall also prepare a brief written
+explanation of budget requests for the ensuing fiscal year in the format prescribed by the Budget &
+Finance Director.
+
+C. EXAMINATION OF BUDGET ESTIMATES:
+
+1A.6 Upon receipt of budget estimates from department heads, and boards, the Budget & Finance Director
+shall immediately proceed to examine the requests and make such investigations and studies of the
+requests as may be deemed necessary. Upon completion of that process, the Budget & Finance
+Director will submit the reviewed document to the County Administrator who may schedule
+meetings with department heads, and boards for the purpose of clarifying budget requests.
+1A.7 The County Administrator shall advise the Budget Committee of any issues concerning services,
+equipment or supplies that were encountered in reviewing the proposed budget documents. The
+Administrator shall also advise the Budget Committee of the best method to reconcile any service
+issues and thus allocate funds in the most efficient and cost effective manner.
+
+D. BUDGET COMMITTEE MEETINGS:
+1A.8 At the initial budget committee meeting, the County Administrator shall deliver the budget message.
+1A.9 The Budget Committee shall schedule and hold as many meetings as necessary to give full
+consideration to the entire budget, as presented.
+
+1A.10 The Budget Committee shall cause to be made such revisions, additions, or deletions in the items
+shown in the budget estimates as are deemed necessary or advisable.
+
+1A.11 Upon completion of review and revision of the budget requests, the Budget Committee shall submit
+an approved and balanced budget to the Board of Commissioners.
+
+E. BUDGET HEARING:
+
+1A.12 Upon receiving an approved and balanced budget from the Budget Committee, the Board of
+Commissioners shall schedule a public hearing. The Board of Commissioners shall consider all
+written and oral statements and upon completion of said hearing, the Board of Commissioners shall
+adopt a Resolution adopting the official County budget to appropriate funds and levy taxes for the
+ensuing fiscal year.
+
+F. FILING OF BUDGET DOCUMENT AND CERTIFICATION OF TAX LEVY:
+
+1A.13 The adopted budget document and certification of tax levy for the ensuing fiscal year shall be filed
+by the Director of Budget & Finance with the Department of Records and Assessment not later than
+July 15th of each year.
+
+G. PRINTING OF ADOPTED BUDGET DOCUMENT:
+
+1A.14 The budget document, as adopted by the Board of Commissioners, shall be prepared by the Budget &
+Finance Department who shall also prepare the number of copies of the adopted budget document
+deemed necessary. Printed copies of the adopted budget document shall be made available to the
+general public for inspection. A charge shall be established for copies of the budget document that
+are removed from the Budget & Finance Department.
+
+H. SALARY INCREASES:
+
+1A.15 Step increases for positions included in the salary plan shall be considered and approved at the time
+the budget is being prepared and adopted for the ensuing fiscal year.
+
+1A.16 Any proposed changes in classification or adopted salary  range for any supervisory or non-union
+position shall be submitted to the Human Resource Director and approved by the County
+Administrator. Such request shall be processed in accordance with the current procedure for
+personnel administration. Any change in classification or salary range shall final require approval
+from the Board of Commissioners through the budget process, or as deemed appropriate by the
+County Administrator throughout the fiscal year..
+
+I. COMPLIANCE WITH OREGON REVISED STATUTES:
+
+1A.17 Supplemental budgets - appropriation changes - line item transfers - contingency:
+
+1. Any change in adopted budget appropriations shall require adoption
+of a Resolution by the Board of Commissioners. The adopted Resolution
+shall contain the reason for the appropriation change and the amount of the
+appropriation change, per ORS 294.480-294.483.
+
+1A.18 Preparation, approval and adoption of the annual budget shall comply with the Oregon Revised
+Statutes as pertains to Budget Law and the Hood River County Charter (Revised May, 2008) as
+pertains to expense and capital budgets.
+
+1A.19 Contingency: Funds budgeted for contingency may be expended for an emergency. An emergency is
+defined as an expenditure that could not have been anticipated at the time the annual budget was
+prepared and adopted.
+SECTION 2-A
+HOOD RIVER COUNTY
+CONTRACTING AND PURCHASING RULES
+5.46.100 ADMINISTRATION............................................................................................... 10
+5.46.110 Definitions ............................................................................................................ 10
+5.46.115 Local Public Contract Review Board ................................................................ 14
+5.46.120 Delegation of Contracting and Purchasing Authority to the County
+Administrator ...................................................................................................... 14
+5.46.125 County Rules ........................................................................................................ 15
+5.46.130 Competitive Procurement ................................................................................... 15
+5.46.135 Cooperative Procurement ................................................................................... 16
+5.46.140 Contract Preferences ........................................................................................... 20
+5.46.145 Emergencies ......................................................................................................... 20
+5.47.200 PUBLIC PROCUREMENTS FOR GOODS OR SERVICES ............................. 21
+5.47.210 Definitions ............................................................................................................ 21
+5.47.215 Solicitation Methods—Invitations to Bid and Requests for Proposal ............ 21
+5.47.220 Public Notice of Solicitation ................................................................................ 22
+5.47.225 Invitation to Bid (ITB) ........................................................................................ 22
+5.47.230 Request for Proposal (RFP) ................................................................................ 23
+5.47.235 Multistep Sealed Bids & Proposals .................................................................... 24
+5.47.240 Small Procurements ............................................................................................ 26
+5.47.245 Intermediate Procurements ................................................................................ 26
+5.47.247 Timber and Forest Product Sales ...................................................................... 27
+5.47.250 Sole-Source Procurements .................................................................................. 27
+5.47.255 Emergency Procurements ................................................................................... 27
+5.47.260 Special Procurements .......................................................................................... 27
+5.47.265 Personal Services Contract Definition ............................................................... 28
+5.47.270 Formal Selection Procedures .............................................................................. 29
+5.47.275 Informal Selection Procedures ........................................................................... 29
+5.47.280 Selection by Negotiation ...................................................................................... 30
+5.47.285 Contract Requirements ....................................................................................... 30
+5.47.290 Rules Applicable to Goods or Services Procurement ....................................... 30
+5.48.300 CONSULTANT SELECTION .............................................................................. 31
+5.48.305 Selection Procedures for Architectural, Engineering, and Land S.... Surveying
+Services 32
+5.48.310 Effect of Material Alteration or Delay of Project ............................................. 33
+5.48.315 Request for Change or Protest; Request for Clarification .............................. 34
+5.48.320 Addenda to a Solicitation Document ................................................................. 35
+5.48.325 Disposition of Offers if Solicitation Canceled ................................................... 35
+5.49.400 PUBLIC CONTRACTS FOR CONSTRUCTION SERVICES .......................... 36
+5.49.405 Contracts Other Than Public Improvements ................................................... 36
+5.49.410 Emergency Contracts .......................................................................................... 36
+5.49.415 Contracts Under Certain Dollar Amounts ........................................................ 37
+5.49.420 Formal Procurement for Public Improvement Contracts ............................... 37
+5.49.425 Facsimile Bids and Proposals ............................................................................. 41
+5.49.430 Use of Electronic Data Interchange ................................................................... 42
+5.49.435 Public Notice of Solicitation ................................................................................ 44
+5.49.440 BID OR PROPOSAL PREPARATION AND REQUIREMENTS ...................... 45
+5.49.445 Offer Preparation ................................................................................................ 46
+5.49.450 Bid or Proposal Security ..................................................................................... 46
+5.49.455 Pre-Offer Conferences ........................................................................................ 47
+5.49.460 Request for Change or; Request for Clarification ........................................... 48
+5.49.465 Addenda to a Solicitation Document ................................................................. 49
+5.49.470 Pre-Opening Modification or Withdrawal of Offers ....................................... 49
+5.49.475 Receipt, Opening, and Recording of Offers ...................................................... 50
+5.49.480 Late Offers, Late Withdrawals, and Late Modifications ................................. 51
+5.49.485 Mistakes ............................................................................................................... 51
+5.49.490 Time for County Acceptance; Extension ........................................................... 52
+5.49.495 Cancellation of Solicitation ................................................................................. 52
+5.49.500 EVALUATION AND AWARD OF THE CONTRACT ....................................... 53
+5.49.505 Offer Evaluation and Award .............................................................................. 53
+5.49.510 Bid or Proposal Evaluation and Award. ........................................................... 55
+5.49.515 Rejection of Individual Bids or Proposals ......................................................... 56
+5.49.520 Disqualification of an Entity. ............................................................................. 58
+5.49.525 Rejection of All Offers ........................................................................................ 60
+5.49.530 Protest of Contractor Selection, Contract Award ............................................ 60
+5.49.535 Negotiation with Bidders Prohibited ................................................................. 62
+5.49.540 Negotiation When Bids Exceed Cost Estimate ................................................. 62
+5.49.545 Documentation of Award & Availability of Award Decisions ........................ 63
+5.49.550 Performance & Payment Security ..................................................................... 64
+5.49.555 Substitute Contractor ......................................................................................... 65
+5.49.560 Foreign Contractor.............................................................................................. 65
+5.49.565 Records Maintenance; Right to Audit Records ................................................ 65
+5.49.570 Right to Inspect Plant ......................................................................................... 66
+5.49.600 ALTERNATIVE CONTRACTING METHODS FOR PUBLIC
+IMPROVEMENT CONTRACTS .......................................................................... 67
+5.49.610 Purpose ................................................................................................................. 67
+5.49.615 Use of Alternative Contracting Methods........................................................... 67
+5.49.620 Pricing Mechanisms ............................................................................................ 68
+5.49.625 Competitive Negotiation, Generally .................................................................. 69
+5.49.630 Design/Build ......................................................................................................... 70
+5.49.635 Construction Manager/General Contractor (CM/GC) .................................... 71
+5.49.640 Energy Savings Performance Contracts (ESPC).............................................. 73
+5.49.700 EXEMPTIONS FROM COMPETITIVE BIDDING ........................................... 76
+5.49.710 Purpose ................................................................................................................. 76
+5.49.715 Exemptions Generally ......................................................................................... 76
+5.49.720 Exemption Procedures ........................................................................................ 76
+5.50.900 CLASSES OF CONTRACTS AND CLASS SPECIAL PROCUREMENTS E
+EXEMPT FROM COMPETITIVE BIDDING ..................................................... 77
+5.50.910 Contract Amendments (Including Change Orders and Extra Work) ........... 77
+5.50.915 Advertising Contracts ......................................................................................... 78
+5.50.920 Equipment Repair and Overhaul ...................................................................... 78
+5.50.922 Contracts for Price-Regulated Items ................................................................. 79
+5.50.925 Purchases Under Federal Contracts .................................................................. 79
+5.50.927 Copyrighted Materials ........................................................................................ 79
+5.50.932 Food Contracts .................................................................................................... 80
+5.50.940 Used Personal Property — Purchase ................................................................. 80
+5.50.942 Used Personal Property — Sale ......................................................................... 81
+5.50.945 Information Technology Contracts ................................................................... 81
+5.50.947 Telecommunications Systems Contracts ........................................................... 81
+5.50.950 Telecommunications Services ............................................................................. 82
+5.50.952 Fuel and Asphalt Contracts ................................................................................ 82
+5.50.955 Hazardous Material Abatement......................................................................... 83
+5.50.957 Insurance and Employee Benefits ...................................................................... 83
+5.50.960 Office Copier Purchases ..................................................................................... 83
+5.50.962 Radio and Television Contracts for County Activities .................................... 83
+5.50.967 Donated Materials or Services ........................................................................... 84
+5.50.970 Concession Contracts .......................................................................................... 84
+HOOD RIVER COUNTY
+CONTRACTING AND PURCHASING RULES
+
+5.46.100 ADMINISTRATION
+
+(1) These Rules set forth the rules for Public Contracting of the County. They consist of the
+following four divisions:
+
+(a) Division 46 is applicable to all Public Contracting.
+(b) Division 47 describes the procedures for the Public Contracting of Goods or Services, as
+defined in ORS 279B.005, and for Personal Services other than Architectural, Engineering and Land
+Surveying Services and Related Services;
+(c) Division 48 describes the procedures for the Public Contracting for Architectural,
+Engineering and Land Surveying Services and Related Services; and
+(d) Division 49 describes the procedures for the Public Contracting for Construction Services
+and applies equally to “Public Improvement Contracts” and “Public Works Contracts” as defined by
+Oregon Statutes. Some of the procedures within Division 49 apply to Division 47; those procedures
+are so identified.
+(e) Division 50 lists the class exemptions and class Special Procurements that have been
+established by the County with adoption of appropriate findings.
+
+(2) In the event of conflict between rules in this division 46 and rules in divisions 47, 48 and 49, the
+rules in divisions 47, 48, and 49 take precedence over the rules in division 46.
+
+(3) These division 46, 47, 48 and 49 rules become effective on March 22, 2005 and apply to Public
+Contracts first advertised, but if not advertised then entered into, on March 22, 2005.
+
+5.46.110 Definitions
+
+All capitalized terms have the meanings set forth below, unless otherwise defined in these rules.
+
+(1) Addendum or Addenda: Any change to, or explanation of, the terms of a Solicitation
+Document after issuance.
+
+(2) Award: Either the act or occurrence of the County’s identification of the Person with whom
+the County will enter into a Contract following the resolution of any protest of the County’s selection
+of that Entity, and the completion of all contract negotiations.
+
+(3) Bid: A competitive Offer, binding on the Bidder and submitted in response to an Invitation to
+Bid.
+
+(4) Bidder: An Entity that submits a Bid in response to an Invitation to Bid.
+(5) Board: The Hood River County Board of Commissioners.
+
+(6) Closing: The date and time announced in the Solicitation Document as the deadline for
+submitting Offers.
+
+(7) Competitive Negotiation: A method of contracting in which proposal evaluation and contract
+award result from an open and competitive procedure, typically through the Request for Proposal
+(RFP) process, in which factors other than price are considered in contractor selection.
+
+(8) Competitive Solicitation: A documented process providing an equal and open opportunity to
+qualified parties that culminates in a selection based on criteria that include, but are not limited to,
+the contractor's availability, capacity, experience, reputation, responsiveness to time limitations,
+responsiveness to solicitation requirements, quality of previous performance, and fees or costs.
+
+(9) Competitive Range: The number of Proposers the County will negotiate with if the County
+intends to negotiate with Proposers.
+
+(10) Contract: A “Public Contract” as defined in ORS 279 A.010.
+
+(11) Contract Price: The total of the awarded Bid or Proposal amount, including any approved
+alternates, and any fully executed change orders or amendments.
+
+(12) Contract Review Board: The County Board of Commissioners acting as the local public
+contract review board pursuant to ORS 279 A.060.
+
+(13) Contract Release Order: The document authorizing a purchase from an operative contract
+(e.g., an existing requirements contract).
+
+(14) Contractor: An independent contractor that performs a service for the County, when the
+County has no right to and does not control the means and manner of performing the contract, except
+as to the delivery schedule, determining compliance with the statement of Work, and accepting or
+rejecting the deliverables or results required under the contract.
+
+(15) Days: Calendar days unless otherwise specified by these rules.
+
+(16) DBE Disqualification: A Disqualification pursuant to ORS 200.065, 200.075, or 279 A.110.
+
+(17) Disqualification: The preclusion of an Entity from contracting with the County for a time.
+Disqualification may be a Conduct Disqualification or DBE Disqualification.
+
+(18) County: Hood River County, Oregon.
+(19) Electronic Advertisement: A County’s request for quotes, available over the Internet via (a)
+The World Wide Web or some other Internet protocol; or (b) a  County’s Electronic Procurement
+System. An Electronic Advertisement may include a Solicitation Document.
+
+(20) Electronic Offer: A response to a County’s request for Offers or request for quotes submitted
+to a County via email or through the County’s electronic Procurement System.
+
+(21) Electronic Procurement System: An information system that Persons may access through the
+Internet, using the World Wide Web or some other Internet Protocol, or that Persons may otherwise
+remotely access using a computer, that enables a County to post Electronic Advertisements, receive
+Electronic Offers, and conduct other activities related to a Procurement.
+
+(22) Electronic Data Interchange Operating Agreement or EDI Operating Agreement: A
+series of standards that provide computer -to-computer exchange of business documents between
+organizations over telephone lines or computer networks. An EDI document is a document that has
+been transmitted pursuant to an EDI Operating Agreement.
+
+(23) Entity: A natural person capable of being legally bound, a sole proprietorship, a limited
+liability company, a corporation, a partnership, a limited liability partnership, a limited partnership, a
+profit and nonprofit unincorporated association, a business trust, two or more persons having a joint
+or common economic interest, or any other person with legal capacity to contract, or a government or
+governmental subdivision.
+
+(24) Foreign Contractor: A contractor that is not domiciled in or registered to do business in the
+State of Oregon.
+
+(25) Goods and Services: “Goods and Services” have the meaning as set forth in ORS 279 B.005
+(1) (b).
+
+(26) Guaranteed Maximum Price (GMP): The total maximum price provided to the County by
+the contractor, and accepted by the County, that includes all reimbursable costs of and fees for
+completion of the contract Work, as defined by the contract documents, except for material changes
+in the scope of Work. It may also include particularly identified contingency amounts.
+
+(27) Invitation to Bid or ITB: A Solicitation Document calling for Bids.
+
+(28) Noncompetitive Negotiation: A method of contracting in which contract award results from
+contract discussions with only one Entity.
+
+(29) Offer: A Bid or Proposal as applicable.
+
+(30) Offeror: A Bidder or Proposer as applicable.
+(31) Opening: The date, time, and place announced in the  Solicitation Document for the public
+opening of written sealed Offers.
+
+(32) Other Options: Those items generally considered appropriate for negotiation in the
+competitive Proposal process, but excluding any material requirements previously announced in the
+solicitation process that would likely affect the field of competition.
+
+(33) Project: A contract for a Public Improvement as defined by ORS 279.011(8).
+
+(34) Proposal: A competitive written Offer, binding on the Proposer and submitted in response to a
+Request for Proposals.
+
+(35) Proposer: An Entity that submits a Proposal in response to a Request for Proposals.
+
+(36) Public Improvement: Projects for construction, reconstruction, or major renovation on real
+property by or for the County. "Public Improvement" does not include emergency work, minor
+alteration, ordinary repair, or maintenance necessary in order to preserve a public improvement. This
+definition is intended to be construed consistently with ORS 279.015(8).
+
+(37) Public Work: Roads, highways, buildings, structures, and improvements of all types, the
+construction, reconstruction, major renovation, or painting of which is carried on or contracted for by
+the County to serve the public interest, not including the reconstruction or renovation of privately
+owned property leased by the County. This definition is intended to be construed consistently with
+ORS 279.348(3).
+
+(38) Request for Proposals (RFP): A written document describing the County's circumstances and
+the type of service desired; setting forth all significant evaluation factors and their relative
+importance and, if appropriate, price; and soliciting competitive written Proposals. The RFP is
+intended to result in a contract.
+
+(39) Request for Qualifications (RFQ): A written document describing the County's
+circumstances and the type of service desired; setting forth all significant evaluation factors and their
+relative importance and, if appropriate, price; and soliciting competitive written qualifications. The
+RFQ will not result in a contract but is intended to establish a list of qualified contractors from which
+to select a contractor in accordance with these rules.
+
+(40) Resident Bidder: A bidder that has paid unemployment taxes or income taxes in this state
+during the 12 calendar months immediately preceding submission of the bid, has a business address
+in this state and has stated in the bid whether the bidder is a “resident bidder”. See ORS 279A.120.
+
+(41) Responsible Offeror (also, Responsible Bidder or Responsible Proposer, as applicable): An
+Entity that has submitted an Offer, has met the standards set forth in these rules, and has not been
+disqualified by the County or any other regulatory agency of the State.
+(42) Responsive Offer (also Responsive Bid or Responsive Proposal, as applicable): An Offer
+that substantially complies with applicable solicitation procedures and requirements and the
+Solicitation Document.
+
+(43) Signed or Signature: Any mark, word, or symbol executed or adopted by an Entity evidencing
+an intent to be bound.
+
+(44) Sole Source: A contractor that provides professional or technical expertise of such a unique
+nature that the contractor is clearly and justifiably the only source of the service.
+
+(45) Solicitation Document: An Invitation to Bid or Request for Proposals, including all
+documents incorporated by reference.
+
+(46) Specification: Any description of the physical or functional characteristics or nature of a
+supply, service, or construction item, including any requirement for inspecting, testing, or preparing a
+supply, service, or construction item for delivery and the quantities or qualities of materials to be
+furnished under the contract. Specifications generally will state the result to be obtained and may on
+occasion, describe the method and manner of doing the Work to be performed.
+
+(47) Value Engineering: Those proposed changes to the plans, Specifications, or other contract
+requirements that may be made consistent with industry practice(s) under the original contract by
+mutual agreement in order to take advantage of potential cost savings without impairing the essential
+functions or characteristics of the Public Improvement. Cost savings include those resulting from
+life-cycle costing, that may either increase or decrease absolute costs over varying periods.
+
+(48) Work: The furnishing of all materials, equipment, labor, and incidentals necessary to
+successfully complete any individual item, or the entire contract, and successful completion of all
+duties and obligations imposed by the contract.
+
+5.46.115  Local  Public Contract Review Board
+
+The County Board of Commissioners is designated as the County’s local government contract review
+board pursuant to ORS 279A.060.
+
+5.46.120  Delegation  of Contracting and Purchasing Authority to the County Administrator
+
+(1) The Board delegates to the County Administrator (or his designee) the authority to enter into
+and approve payment on contracts for products, materials, capital outlay, equipment, and services if:
+
+(a) The contract is within budgetary appropriations made by the Board; and
+(b) The total amount of the contract is less than $150,000.
+(2) Except as provided in subsection (1) of this section, the Board must approve all County
+contracts.
+
+5.46.125 County Rules
+
+(1) Generally: Pursuant to ORS 279A.065 (5)(a), the County elects to establish its own rules of
+procedures for public contracts. The model rules adopted by the Attorney General under ORS
+279A.065 do not apply to the County. The County Rules are based in part on the Attorney General
+model rules and should be interpreted in the same manner, unless the text or context otherwise
+requires. References to the implemented statutes and the analogous section of the Attorney General's
+model rules are included at the conclusion of each section for convenience.
+
+(2) Purchase Levels
+(a) $0-$1,000:appropriate documentation required. No purchase order required.(modified 2/2022)
+(b) $1,001-$10,000: purchase order required (modified 10.16.17)
+(c) $10,001-$75,000: 3 verbal quotes and purchase order required. Contract needed
+
+if applicable to purchase. (updated 10.16.17)
+
+(d) $75,001-150,000: sealed bids required, with no advertising requirement. Purchase order
+required and contract if applicable to purchase.
+
+(e) 150,001 +: requires sealed formal bidding with advertisement etc. BOC will award final
+contract. No purchase order required – contract serves as the authorizing document for the
+transaction.
+
+5.46.130 Competitive Procurement
+
+(1) Generally: In accordance with ORS 279B.050 and 279C.300 the County must award its
+contracts by competitive procurement unless otherwise allowed or required in ORS 279A.025 (2) to
+(4), 279B.065, 279B.070, 279B.075279, 279B.080, 279B.085, or 279C.335 and these rules.
+
+(2) Federal Provisions:  If  federal funds are involved, federal laws, rules, and regulations will
+govern the provisions of ORS 279A, 279B and 279C and these rules in the event of conflict except
+as otherwise expressly provided in ORS 279C.800 to 279C.870.
+
+(3) Affirmative Action:  The County may limit competition for certain Public Contracts for
+Goods and Services, or other Public contracts with an estimated cost of $50,000 or less to carry out
+its affirmative action policies. Prior to advertising, criteria for award must be established for each of
+these contracts. The criteria must be in accordance with ORS 297A.100; 279A.105 and ORS 200.
+(4) Prequalification:
+
+(a) Mandatory Prequalification . The County may require mandatory prequalification of
+Offerors in accordance with ORS 279B.120 or 297C.430. The County must indicate in the
+Solicitation Document whether it will require mandatory prequalification, i.e., the County's
+conditioning an Entity's submission of an Offer upon the Entity's prequalification. The County
+cannot consider an Offer from an Entity that is not prequalified if the County required
+prequalification.
+(b) P ermissive  Prequalification. The County may prequalify an Entity for the County's
+solicitation list on forms prescribed by the County Contract Review Board, but the County shall not
+limit distribution of a solicitation to that list.
+
+(5) Standards for Prequalification: An Entity may prequalify by demonstrating to the
+County's satisfaction:
+(a) That the Entity's resources and expertise, or ability to obtain the necessary resources and
+expertise, indicate that the Entity is capable of meeting all contractual responsibilities;
+(b) That the Entity has a record of satisfactory performance;
+(c) That the Entity has a record of integrity;
+(d) That the Entity is qualified to contract with the County.
+
+(6) Notice of Denial:  If an Entity  fails to prequalify  for a mandatory prequalification, the
+County must notify the Entity and specify the reasons under Section (3) of this rule and inform the
+Entity of the Entity's right to a hearing (ORS 279B.425 or 279C.450).
+
+Stats. Implemented: ORS 279B.120, 279C.430, 279B.425, & 279C.450.
+
+5.46.135 Cooperative Procurement
+(1) Authority for Cooperative Procurements:
+(a) County may participate in, sponsor, conduct or administer cooperative procurements as
+follows:
+(A) The County may participate in, sponsor, conduct or administer joint cooperative
+procurements to establish contracts or price agreements for goods or services or
+Personal Services, that use source selection methods substantially equivalent to those
+set forth in ORS 279B.055, 279B.060, or 279B.085 or to establish contracts for
+Public Improvements that use a competitive bidding process substantially equivalent
+to that set forth in ORS 279C.005 through 279C.870.
+(B) The County may participate in, sponsor, conduct, or administer permissive
+cooperative procurements to establish contracts or price agreements for the
+acquisition of goods or services or Personal Services that use source selection
+methods substantially equivalent to those set forth in ORS 279B.055 or 279B.060.
+(C) The County may participate in, sponsor, conduct, or administer interstate
+cooperative procurements to establish contracts or price agreements for the
+acquisition of goods or services or personal services that use source selection
+methods substantially equivalent to those set forth in ORS 279B.055 or 279B.060.
+(b) A solicitation and award process uses source selection methods substantially equivalent to
+those identified in ORS 279B.055, ORS 279B.060 or ORS 279B.085 when it has the characteristics
+set forth in ORS 279A.200(2). Each participating governmental entity shall determine, in writing,
+whether the solicitation and award process for an original contract arising out of a Cooperative
+Procurement is substantially equivalent to those identified in ORS 279B.055, ORS 279B.060 or ORS
+279B.085 in accordance with ORS 279A.200(2).
+Stats. Implemented: ORS 279A.205
+
+(2) Responsibilities of Administering Contracting County and Purchasing Contracting
+County:
+(a) If a County (including the County) is an Administering County of a Cooperative
+Procurement, they may establish the conditions under which Persons may participate in the
+Cooperative Procurements administered by the Administering County. Such conditions may include,
+without limitation, whether each Person that participates in the Cooperative Procurement must pay
+administrative fees to the Administering County, whether the participants must enter into a written
+agreement with the Administering County, or any other matters related to the administration of the
+Cooperative Procurement and the resulting Original Contract. A County that acts as an
+Administering County may, but is not required to, include provisions in the Solicitation Document
+for a Cooperative Procurement or advertise the Solicitation Document in a manner to assist
+Purchasing Contracting Agencies' compliance with the Code or these Model Rules.
+(b) If a County, acting as a Purchasing County, enters into a Contract or Price Agreement
+based on a Cooperative Procurement, the County shall comply with the Code and these Rules,
+including without limitation those sections of the Code and these Rules that govern:
+(A) The extent to which the Purchasing County may participate in the Cooperative
+Procurement,
+(B) The advertisement of the solicitation document related to the Cooperative
+Procurement, and
+(C) Public notice of the Purchasing County's intent to establish Contracts or Price
+Agreements based on a Cooperative Procurement.
+Stats. Implemented: ORS 279A.205
+(3) Joint Cooperative Procurements:
+  If the County chooses to participate in, sponsor, conduct
+or administer a Joint Cooperative Procurement it may do so only in accordance with ORS 279A.210.
+Stats. Implemented: ORS 279A.210
+(4) Permissive Cooperative Procurements: If the County chooses to participate in, sponsor,
+conduct, or administer a Permissive Cooperative Procurement it may do so only in accordance with
+ORS 279A.215.
+Stats. Implemented: ORS 279A.215
+(5) Advertisements of Intent to Establish Contracts or Price Agreements through a Permissive
+Cooperative Procurement:
+(a) If the County wishes to enter into a Contract or Price Agreement arising out of a
+Permissive Cooperative Procurement it must publish notice of its intent to do so if the County
+estimates that it will spend in excess of $250,000 on Goods and Services or Personal Services
+acquired under the Contract or Price Agreement.
+(b) For purposes of determining whether the County must give the notice required by Section
+135.5(a) of these rules, the County will spend in excess of $250,000 for Goods and Services or
+Personal Services acquired under a Contract or Price Agreement arising out of a Permissive
+Cooperative Procurement if:
+(A) The County's Contract or Price Agreement arising out of the Permissive
+Cooperative Procurement expressly provides that the County will make payments
+over the term of the Contract or Price Agreement that will, in aggregate, exceed
+$250,000, whether or not the total amount or value of the payments is expressly
+stated;
+(B) The County's Contract or Price Agreement arising out of the Permissive
+Cooperative Procurement expressly provides for a guaranteed maximum price, or a
+maximum not to exceed amount in excess of $250,000; or
+(C) At the time the County enters into the Contract or Price Agreement, the County
+reasonably contemplates, based on historical or other data available to the County,
+that the total payments it will make for Goods or Services or Personal Services under
+the Contract or Price Agreement will, in aggregate, exceed $250,000 over the
+anticipated duration of the Contract or Price Agreement.
+(c) The notice of intent required by Section135.5(a) of these rules shall contain the
+information required by ORS 279A.215(2)(b), and the County shall advertise the notice in the same
+manner as provided in ORS 279B.055(4)(b) and (c) and Section 225(2) of these  rules. Unless the
+County has adopted rules that set forth a different time period, the County shall give the notice
+required by this Section no fewer than 7 days before the deadline for submitting comments regarding
+the County's intent to establish a Contract or Price Agreement through a Permissive Cooperative
+Procurement.
+(d) An Administering County that intends to establish a Contract or Price Agreement arising
+out of the Permissive Cooperative Procurement it administers may satisfy the notice requirements set
+forth in Section 135.5(a) and (c) of these rules by including the information required by ORS
+279A.215(2)(b) in the Solicitation Document related to the Permissive Cooperative Procurement,
+and including instructions in the Solicitation Document to potential Offerors describing how they
+may submit comments in response to the Administering County's intent to establish a Contract or
+Price Agreement through the Permissive Cooperative Procurement. The content and timing of such
+notice shall comply in all respects with ORS 279A.215(2), ORS 279A.215(3) and these Model
+Rules.
+(e) The County shall respond to any comments on its intent to establish a Contract or Price
+Agreement through a Permissive Cooperative Procurement as set forth in ORS 279A.215(3)(c).
+Stats. Implemented: ORS 279A.215
+
+(6) Interstate Cooperative Procurements:
+If the County chooses to participate in, sponsor, conduct or administer an Interstate Cooperative
+Procurement it may do so only in accordance with ORS 279A.220.
+Stats. Implemented: ORS 279A.220
+(7) Advertisements of Interstate Cooperative Procurements: The County may only participate
+in an Interstate Cooperative Procurement if at least one of the following occurs:
+(a) The Solicitation Document for the Interstate Cooperative Procurement lists the County or
+the Cooperative Procurement Group of which the County is a member as a party that may enter into
+Contracts or Price Agreements under the terms and conditions of the Original Contract, and the
+Solicitation Document is advertised in Oregon in compliance with ORS 279B.055(4) or ORS
+279B.060(4) by either:
+(A) The County; or
+(B) The Cooperative Procurement Group, or a member of the Cooperative
+Procurement Group, of which the County is a member; or
+(C) Another Purchasing County that is subject to the Code, so long as such
+advertisement would, if given by the Purchasing County, comply with ORS
+279B.055( 4) or ORS 279B.060(4) with respect to the County; or
+(b) If the Solicitation Document issued by the Administering County was not
+advertised in accordance with Section 135 (7)(a), the County gives notice of its intent
+to enter into a Public Contract or Price Agreement based on the terms of the Interstate
+Cooperative Procurement. The notice of intent shall contain the information required
+by ORS 279A.220 (2)(b)(B), and the County shall advertise the notice in the same
+manner as provided in ORS 279B.055(4)(b) and (c). Unless the County has adopted
+rules that set forth a different time period, the County shall give the notice required
+by this Section no fewer than 7 days before the deadline  for submitting comments
+regarding the County's intent to establish a contract or price agreement through a
+Permissive Cooperative Procurement. (3) The County shall respond to any comments
+on its intent to establish a contract or price agreement through a Permissive
+Cooperative Procurement as set forth in ORS 279A.220(3)(c).
+Stats. Implemented: ORS 279A.220
+(8) Protests and Disputes:
+(a) If a bidder or proposer wishes to protest the procurement process, the contents of a
+solicitation document related to a Cooperative Procurement, or the award or proposed award of an
+Original Contract, the bidder or proposer shall direct the protest to the Administering County, and
+the bidder or proposer shall make such protest in accordance with ORS 279B.400 through ORS
+279B.425. If the Administering County is not subject to the Code, then bidders or proposers shall
+make such protests in accordance with the processes and procedures established by the
+Administering County.
+(b) Any other protests related to a Cooperative Procurement, or disputes related to a Contract
+or Price Agreement arising out of a Cooperative Procurement, shall be made and resolved as set forth
+in ORS 279A.225.
+Stats. Implemented: ORS 279A.225
+(9) Contract Amendments: A purchasing County may amend a Contract entered into pursuant to a
+Cooperative Procurement as set forth in 4.50.910.
+Stats. Implemented: ORS 279A.O65
+5.46.140 Contract Preferences
+
+(1) Non-Resident Bidders: The County will use only objective criteria to evaluate Bids as set
+forth in the ITB. The County will evaluate Bids to determine which Responsible Offeror offers the
+lowest Responsive Bid. In determining the lowest Responsive Bid, the County will add a percentage
+increase to the Bid of a nonresident Bidder equal to the percentage, if any, of the preference given to
+that Bidder in the state in which the Bidder resides. See ORS 279A.120 (2).
+
+(2) Recycled Material: In accordance with ORS 279A.125, the County will give preference to the
+procurement of goods manufactured from recycled material if each of the four following criteria
+exists:
+
+(a) The recycled product is available;
+(b) The recycled product meets applicable standards;
+(c) The recycled product can be substituted for a comparable non-recycled product; and
+(d) The recycled product’s costs do not exceed the costs of non-recycled products by more that
+five percent, or a higher percentage if a written determination is made by the County and set forth in
+the Solicitation Document.
+
+(3) Preference for Oregon Goods:  If the County receives Offers identical in price, fitness,
+availability, and quality, the County will award the contract based on the following order of
+precedence:
+(a) The County will prefer goods or services that have been manufactured or produced in
+Oregon pursuant to ORS 279A.120 (2).
+(b) The County will then prefer the Offer of the Offeror whose principal offices or
+headquarters are located in Oregon.
+(c) If a tie Offer remains after the County applies subsections (2)(a) and (b), the County must
+award the contract by drawing lots among any tied Oregon Offerors. The Offerors must be given
+notice and an opportunity to be present when the lots are drawn.
+(d) If a tie Offer remains after the County applies subsection (2)(a) and none of the tied
+Offerors are located in Oregon, the County must award the contract by drawing lots among any tied
+Offerors. The Offerors must be given notice and an opportunity to be present when the lots are
+drawn.
+5.46.145  Emergencies.
+
+(1) The County may in its discretion enter into a Personal Services contract or a Public
+Improvement contract without complying with formal or informal solicitation requirements if an
+emergency exists. An Emergency is defined in ORS 279A.010 (f).
+
+(2) The Board or the County Administrator must declare the existence of an emergency in writing
+that will authorize the County to enter into an emergency contract. In conjunction with declaring the
+emergency, the County Administrator or Board must make written findings describing the emergency
+conditions that require prompt execution of the contract.
+
+(3) The County may not contract pursuant to this exemption in the absence of a substantial risk of
+loss, damage, or interruption of services or harm to public health, safety, or the environment that
+would occur if contract performance awaited the time necessary, given the complexity of the project,
+to solicit, receive, and analyze Proposals.
+
+(4) If an Emergency is declared, any contract must be awarded within 60 days following declaration
+of the emergency unless the Board grants an extension.
+
+5.47.200 PUBLIC PROCUREMENTS FOR GOODS OR SERVICES
+
+This division implements ORS 279B, Public Procurements and apply to the Procurement of Goods
+or Services. This division shall govern the procurement of Personal Services with the exception of
+Architectural, Engineering, Land Surveying and Related Services as defined by ORS 279C.100. The
+term “Services” shall mean Personal Services when used in this division of the rules. The County
+shall award Personal Services Contracts under procedures set forth in ORS 279B.055 through
+279B.085 and these rules.
+
+5.47.210  Definitions
+
+(1) Advantageous means in the County’s best interest, as assessed according to the judgment of the
+County.
+
+(2) Affected Entity or Affected Offeror means an Entity whose ability to participate in a
+Procurement is adversely affected by a County decision.
+
+(3) Scope means the range and attributes of the Goods or Services described in the applicable
+Procurement document.
+
+5.47.215  Solicitation  Methods — Invitations to Bid and Requests for Proposal
+It is the policy of the State of Oregon Public Contracts and Purchasing Law (ORS Chapter
+279A.015) to encourage open and impartial competition in public contracting. Competition exists
+not only in prices, but also in a Contractor's ability to perform, technical competence, and ability to
+provide timely deliveries and in the quality and performance of products and services. Except as
+permitted by ORS 279B.065 through 279B.085, the County shall Award a Public Contract for Goods
+or Services based on Offers received in response to either competitive sealed Bids pursuant to ORS
+279B.055 or competitive sealed Proposals pursuant to ORS 279B.060.
+5.47.220 Public Notice of Solicitation
+
+(1) Policy:  The  County shall give public notice of an invitation to bid at least seven (7) days prior
+to closing of that invitation. Public notice is intended to foster competition; therefore, the County
+shall make Invitations To Bid available to all prospective bidders.
+
+(2) Methods of Notification: In accordance with ORS 279B.055 (4) & 279B.060 (4) the County
+shall use the following methods of notification for invitation to bid:
+(a) Notice of the availability of the Solicitation Document shall be mailed to persons that
+have expressed an interest in the County’s procurements.
+(b) A Public notice shall be published once in at least one local newspaper of general
+circulation and in as many additional issues or publications as may be determined by the County.
+(c) The County may publish the advertisement for Offers on the County’s Electronic
+Procurement System in lieu of advertising in a local newspaper as required by ORS 279B.055 (4)(b).
+This rule is adopted per ORS 279B.055 (4)(c).
+
+5.47.225 Invitation to Bid (ITB)
+
+(1) When Invitations to Bid Should Be Used: The County may use an Invitation to Bid (ITB)
+by competitive sealed bidding if the County believes it will receive optimal value by selecting the
+lowest priced Offer that meets the technical requirements of the County's specifications.
+
+(2) Solicitation Documents - Required Contents: The Solicitation Document for an ITB will
+include the following:
+
+(a) Instructions and information concerning submission requirements, including Opening and
+Closing times and dates, the address of the office to which Offers must be delivered, the County's
+contact person for the solicitation and any  other special information, e.g., whether Offers may  be
+submitted by facsimile or Electronic Data Interchange. The interval between the date of issuance of
+the Solicitation Document and Closing should not be less than 14 Days for an ITB and not less than
+30 Days for an RFP unless the County finds that a shorter interval is in the public's interest.
+(b) If applicable, description of the acquisition, Specifications, delivery or performance
+schedule, inspection and acceptance requirements, and evaluation criteria that the County will use to
+determine the lowest responsible Bidder or best responsible Proposer. (See ORS 279B.060 (h) (A to
+E).
+(c) The County's need, including any relevant background.
+(d) If prequalification is required, the time, date, and place said prequalification is to be filed
+in accordance with 279B.120 and 125. (4) of these rules.
+(e) If a pre -Offer conference is to be held, the time, date, and place of the conference.
+Whether attendance in mandatory and a provision that only statements confirmed by Addenda are
+binding.
+(f) The anticipated schedule, deadlines, protest process, and evaluation process, if any.
+(g) The form and submission of Offers and any information required therein, including Bid or
+Proposal security, if any.
+(h) All Addenda issued by the County.
+(i) The evaluation criteria the County will use to determine acceptability of any product or
+service.
+(j) If required, a statement that the contractor or subcontractor must possess an asbestos
+abatement licenses per ORS 468A.710.
+(k) If the Solicitation Document is an Invitation to Bid, the County  will set forth objective
+evaluation criteria in the Solicitation Document.  Examples of such criteria include but are not
+limited to conversion costs, transportation cost, volume weighing, trade -in allowances, cash
+discounts, depreciation allowances, cartage penalties, ownership or life -cycle cost formulas,
+performance history on other private and public contracts, experience of key personnel, adequacy of
+equipment and physical plant, financial  wherewithal, sources of supply, references and warranty
+provisions. Evaluation criteria need not be precise predictors of actual future costs; but evaluation
+factors must be reasonable estimates based on information the County has available concerning
+future use.
+(l) All contractual terms and conditions required by ORS 279B.220 through 279B.235
+and a statement that the County may cancel the procurement or reject any or all bids in accordance
+with ORS 279B.100.
+Note: If Offers are allowed to be submitted by facsimile or EDI, the procedures applicable
+requirements of Sections 5.49.425 and 5.49.430 should be followed.
+
+5.47.230  Request  for Proposal (RFP).
+
+(1) When Requests for Proposal Should Be Used: The County may use a Request for Proposal
+(RFP) as set forth in ORS 279B.060 to solicit and award a contract for goods or services, or may
+award multiple public contracts for goods or services by requesting and evaluating competitive
+sealed proposals if the County believes it will receive optimal value by so doing.
+
+(2) Solicitation Documents - Required Contents: The solicitation documents for a Request for
+Proposals shall be the same as those required in ORS 279B.060 and 5.47.225(2) of these rules.
+
+(3) Negotiated RFPs: The County may permit negotiations under a Request for Proposal when:
+(a) The County is willing to consider alternative terms and conditions to reduce County cost
+or enhance the value of the product or service requested; or
+(b) The County finds that negotiation is required to effect a successful procurement (e.g., the
+Specifications are complex, and the County expects numerous queries as to the proper interpretation
+of the Specification; the Work requires a high level of technical or managerial competence that
+cannot be defined adequately in the Specifications; or the County believes discussions are necessary
+to gauge the Proposer's understanding of complex Specifications).
+Stats. Implemented. ORS 279B.060.
+5.47.235 Multistep Sealed Bids & Proposals
+
+(1) Generally: The County may procure Goods or Services by using multi-step competitive sealed
+Bids pursuant to ORS 279B.055(12).
+
+(2) Phased Process: Multi-step bidding is a phased process that seeks necessary information or un-
+priced technical Bids in the initial phase and regular competitive sealed bidding, inviting Bidders
+who submitted technically eligible Bids in the initial phase to submit competitive sealed price Bids
+on the on the technical Bids in the final phase. The Contract shall be Awarded to the lowest
+Responsible Bidder. If time is a factor, the County may require Bidders to submit a separate sealed
+price Bid during the initial phase to be opened after the technical evaluation.
+
+(3) Public Notice: Whenever multi-step sealed Bids are used, public notice for the first phase shall
+be given in accordance with Section 5.47.220.  Public notice is not required for the subsequent
+phases. However, the County shall give notice of subsequent phases to all Bidders and inform
+Bidders of the right to protest Addenda issued after initial Closing pursuant to Section 5.49.465 and
+inform Bidders excluded from subsequent phases of the right, if any, to protest exclusion pursuant to
+Section 5.49.530.
+
+(4) Procedures Generally: In addition to the procedures set forth in Section 47 & 49 of these rules,
+the County shall employ the following procedures for multistep bidding:
+(a) Solicitation Protest: Prior to the Closing of phase one, the County shall provide an
+opportunity to protest the solicitation and under ORS 279B.405 and Section 5.49.530.
+(b) Addenda Protest: The County may provide an opportunity to protest any Addenda issued
+during phase two pursuant to Section 5.49.465(3)
+(c) Exclusion Protest:  The County may provide an opportunity for a Bidder to protest
+exclusion from the second round of multistep sealed Bids as set forth in Section 5.49.530.
+(d) Administrative Remedy: Proposers may submit a protest to any Addenda or to any action
+by the County that has the effect of excluding the Proposer from the second phase of multistep
+bidding to the extent such protests are provided for in the Solicitation Document.  Failure to so
+protest shall be considered the Bidder’s failure to pursue an administrative remedy made available to
+the Bidder by the County.
+(e) Award Protest: The County shall provide an opportunity to protest its intent to Award a
+Contract pursuant to ORS 279B.410 and Section 5.49.530(4).
+(5) Procedure for Phase One of Multistep Sealed Bids or Sealed Proposals.
+(a) Form. Multi step sealed bidding shall be initiated by the issuance of an Invitation to Bid in
+the form and manner required for competitive sealed Bids.  Multistep sealed proposals shall be
+initiated by the issuance of a Request for Proposal in a manner required for competitive sealed
+Proposals. In addition to the requirements set forth in Section 5.47.225 for Bids and 5.47.230 for
+Proposals, the multistep Bid or Proposal shall state:
+(A) That un-priced Bids or Proposals are required;
+(B) Whether priced Bids or Proposals are to be submitted at the same time as un-priced
+technical ones; if they are, that such priced submittals shall be submitted in a separate
+sealed envelope;
+(C) That the solicitation is a multistep sealed Procurement, and priced submittals will be
+considered only in the second phase and only from those Bidders or Proposers whose
+un-priced submittals are found eligible in the first phase;
+(D) The criteria to be used in the evaluation of the un-priced submittal
+(E) That the County may conduct oral or written discussions for the purpose of
+clarification of the un-priced submittal;
+(F) That the Goods and Services being procured shall be furnished generally on
+accordance with the technical Bid or Proposal as found to be finally eligible and shall
+meet the requirements of the Invitation to Bid or the Request for Proposal whichever is
+relevant;
+(G) Whether the Bidders or Proposers excluded from subsequent phases have a right to
+protest the exclusion before the notice of intent to Award. Such information can be
+given or changed by Addenda.
+(b) Addenda to the Solicitation.  After receipt of un -priced technical Bids or Proposals,
+Addenda to the Solicitation shall be distributed only to those who submitted un-priced technical Bids
+or Proposals.
+(c) Receipt and Handling of Un-Priced Bids or Proposals. Un-priced technical submittals
+need not be opened publicly.
+(d) Evaluation of Un -Priced Technical Bids or Proposals.  Un-priced technical Bids or
+Proposals submitted shall be evaluated solely in accordance with the criteria set forth in the
+Solicitation. Un-priced submittals shall be categorized as:
+(A) Eligible or Qualified;
+(B) Potentially eligible; that is, reasonably susceptible of being made eligible; or
+(C) Ineligible or unqualified. The County shall record in writing the basis for
+determining a submittal ineligible and make it part of the Procurement file. The County
+may initiate phase two of the procedure if, in the County’s opinion, there are sufficient
+eligible un -priced technical submittals to assure effective price competition in the
+second phase without technical discussions. If the County finds that such is not the case,
+the County may issue an Addendum to the Solicitation or engage in technical
+discussions as set forth in Paragraph 5(e) of this rule.
+(e) Discussion of Un-priced Technical Submittals. The County may seek clarification of a
+technical submittal by any eligible or potentially eligible Bidder or Proposer. During the course of
+such discussions, the County shall not disclose any information derived from one un-priced technical
+bidder or proposer to another bidder or proposer. Once discussions are begun, any Bidder or
+Proposer who has not been notified that its submittal has been finally found ineligible or unqualified
+may submit supplemental information amending its technical submittal at any time until the Closing
+of the final step established by the County. Such submission may be made at the request of the
+County or upon the Bidder’s or Proposer’s own initiative.
+(f) Notice of Ineligible Un-priced Technical Submittal.  When the County determines a
+Bidder’s or Proposer’s technical submittal to be ineligible, such Bidder or Proposer shall not be
+afforded an additional opportunity to supplement its technical submittal.
+(g) Mistakes During Multistep Sealed Bids or Sealed Proposals. Mistakes may be corrected
+or submittals withdrawn during phase one:
+(A) Before un-priced technical submittals are considered;
+(B) After any discussions have commenced under subsection (5)(e);
+(C) When responding to any Addenda to the Solicitation;
+(D) In accord with Section 5.49.485 (Mistakes);
+
+(6) Procedure for Subsequent Phases.
+(a) Initiation. Upon completion of phase one, the County shall either:
+(A) Open priced Bids or Proposals in phase one (if such submittals were required)
+from Bidders or Proposers whose un- priced technical submittals were found to be
+eligible or qualified; or
+(B) If priced bids or proposals have not been submitted, technical discussions have
+been held, or Addenda to the Solicitation have been issued, invite each eligible bidder or
+qualified proposer to submit a priced bid or proposal.
+(b) Conduct. Phase two shall be conducted as any other competitive sealed Procurement
+solicitation except:
+(A) As specifically set forth in this rule;
+(B) No public notice need be given of the request to submit price Bids or Proposals
+because notice was previously given.
+
+Stats. Implemented ORS 279B.055 & 279B.060.
+
+5.47.240 Small Procurements (modified 2/2022)
+
+(1) Generally. For Procurements of Goods and Services less than or equal to $10,000 the County may
+Award a Contract as a small Procurement pursuant to ORS 279B.065 and in accordance with these
+rules. The procurement of goods and services in the amount of $1,000 or less will not require
+the issuance of a County purchase order.
+(2) Amendments. The County may amend a Public Contract Awarded as a small Procurement in
+accordance with Class Exemption Section 5.50.910 of these rules.
+
+5.47.245 Intermediate Procurements. (modified 2/2022)
+
+(1) Generally. For Procurements of Goods of Services greater than $10,000 and less than or
+equal to $150,000, the County may Award a Contract as an intermediate Procurement pursuant to
+ORS 279B.070.
+(2) Written Solicitations. For intermediate Procurements equal to or exceeding $75,000, the
+County shall use a Written solicitation to obtain quotes, Bids or Proposals.
+(3) Negotiations. The County may negotiate with a Proposer to clarify its quote, Bid or Proposal
+or to effect modifications that will make the quote, Bid or Proposal acceptable or make the quote,
+Bid or Proposal more Advantageous to the County.
+(4) Amendments. The County may amend a Public Contract Awarded as an intermediate
+Procurement in accordance with the class exemption in Section 5.50.910.
+
+5.47.247 Timber and Forest Product Sales. Notwithstanding any other provision herein, all sales
+of timber and other forest products in excess of the value of $5,000 shall comply with the bidding,
+advertisement, and procedural requirements of ORS 275.340.
+
+5.47.250 Sole-Source Procurements.
+
+(1) Generally. The County may Award a Public Contract without competition as a  sole-source
+Procurement pursuant to the requirements of ORS 279B.075.
+
+(2) Delegation of Authority. If the purchase is for less than $150,000, the County Administrator
+has the authority to declare that goods or services are available from only one source, and in doing
+that, the County Administrator must follow these rules.
+
+(3) Public Notice. If, but for the County’s determination that it may enter into a Contract as a
+sole-source, the County would be required to select a Contractor using source selection methods set
+forth in ORS 279B.055 or 279.060, the County shall give public notice of the Administrator’s or
+Board’s determination that the Goods or Services or class of Goods or Services are available from
+only one source in a manner similar to public notice of competitive sealed Bids under ORS 279B.055
+and Section 5.47.220. The public notice shall describe the Goods or Services to be acquired by a
+sole-source Procurement, identify the prospective Contractor, and include the date, time and place
+that protests are due. The County shall give such public notice at least fourteen (14) days before
+Award of the Contract.
+
+(4) Protest. An Affected Entity may protest the County’s determination that the Goods or Services
+or class of Goods or Services are available from only one source in accordance with Section 5.49.530
+of these rules.
+
+Stats. Implemented ORS 279B.070 and ORS 279B.075
+
+5.47.255 Emergency Procurements.
+
+The County may Award a Public Contract as an Emergency Procurement pursuant to the
+requirements of ORS 279B.080. When an Emergency Procurement is authorized, the Procurement
+shall be made with competition that is practicable under the circumstances.
+
+5.47.260 Special Procurements.
+
+(1) Generally. The County may Award a Public Contract as a Special Procurement pursuant to the
+requirements of ORS 279B.085.
+(2) Public Notice. The County shall give public notice of its request for approval of a Special
+Procurement and the Contract Review Board’s approval of a Special Procurement in a manner
+similar to public notice of competitive sealed Bids under ORS 279B.055(4) and 5.47.220. The
+public notice shall describe the Goods or Services or class of Goods or Services to be acquired
+through the Special Procurement. The County shall give such public notice of its request for
+approval of a Special Procurement at least seven (7) days prior to the approval of the Special
+Procurement by the Contract Review Board. The County shall give such public notice of the
+approval of a Special Procurement at least fourteen (14) days before Award of the Contract.
+
+(3) Protest. An Affected Entity may protest the approval of or request for approval of a Special
+Procurement in accordance with ORS 279B.400 and Section 5.49.530 of these rules.
+
+Stats. Implemented. ORS 279B.085.
+
+5.47.265  Personal  Services Contract Definition.
+
+(1) A contract for "Personal Services" is a contract that calls for specialized skills, knowledge, and
+resources in the application of technical or scientific expertise or the exercise of professional, artistic,
+or management discretion or judgment. Qualifications and performance history, expertise,
+knowledge and creativity, and the ability to exercise sound professional judgment are typically the
+primary considerations when selecting a Personal Services contractor, with price being secondary.
+
+(2) Pursuant to ORS 279A.055(2), the County Administrator has the authority to designate
+contracts or classes of contracts as Personal Services contracts.  In the event of uncertainty or
+disagreement as to the status of any particular contract or class of contracts, the Board will determine
+whether the Work calls for the performance of Personal Services or for services subject to the public
+contracting laws as defined in ORS 279.
+
+(3) Personal Services contracts as used in this Section 47 only, include but are not limited to the
+following but does not include architect, engineer, land surveyor and related services as defined in
+ORS 279C.100(6):
+
+(a) Contracts for services performed in a professional capacity, including services of an
+accountant, attorney, insurance agent, appraiser, medical professional (e.g., doctor, dentist, nurse,
+and counselor), information technology consultant, or broadcaster;
+(b) Contracts for services as an artist in the performing or fine arts, including any person
+identified as a photographer, filmmaker, actor, director, painter, weaver, or sculptor;
+(c) Contracts for services that are specialized, creative, or research-oriented;
+(d) Contracts for services as a consultant;
+(e) Contracts for educational services; and
+(f) Contracts for human custodial care, childcare, mental health care, health services, social
+and emergency services, and other human services.
+(4) The County may not use Personal Services contracts to obtain and pay for the services of an
+employee. A Personal Services contract may be used only to obtain and pay for the services of an
+independent contractor.
+
+5.47.270  Formal  Selection Procedures.
+
+(1) Formal Selection Procedure. The County will use a formal selection procedure whenever the
+County Administrator determines that the amount of the contract or complexity of the project
+requires use of the formal process. All formal RFP and RFQ solicitations must comply  with the
+requirements for RFPs contained in Section 47 of these rules.
+
+(2) Additional Requirements for a Request for Qualifications (RFQ). An RFQ may be used to
+determine whether competition exists to perform the needed services or to establish a list of qualified
+contractors for RFPs, for informal solicitations, or for individual negotiation, as provided in these
+rules.
+
+(a) The RFQ must at least describe the particular specialty desired, the qualifications the
+contractor must have in order to be considered, and the evaluation factors and their relative
+importance. The RFQ may require information, including but not limited to the contractor's
+particular capability to perform the required services; the number of experienced staff available to
+perform the required services, including specific qualifications and experience of personnel; a list of
+similar services the contractor has completed, with references concerning past performance; and any
+other information necessary to evaluate contractor qualifications.
+(b) A qualifications pre-submission meeting (voluntary or mandatory) may be held for all
+interested contractors to discuss the proposed services. The RFQ must include the date, time, and
+place of the meeting.
+(c) Unless the RFQ establishes that competition does not exist or unless the solicitation
+process is canceled or all qualification statements rejected, all respondents (who met the published
+qualifications) will receive a notice (or other materials as appropriate) of any required services and
+have an opportunity to submit a Proposal in response to a contracting County's subsequent RFP.
+5.47.275 Informal Selection Procedures.
+
+The County may use an informal selection process to obtain services when a formal selection process
+is not required.
+
+(1) The informal selection process must solicit responses/Proposals from at least three qualified
+contractors offering the required services.
+
+(2) The informal selection process is competitive.  The selection and ranking may be based on
+criteria including but not limited to each Proposer's:
+
+(a) Particular capability to perform the services required;
+(b) Experienced staff available to perform the services required, including each Proposer's
+recent, current, and projected workloads;
+(c) Performance history;
+(d) Approach and philosophy used in providing services;
+(e) Fees or costs;
+(f) Geographic proximity to the project or the area where the services are to be performed;
+and
+(g) Work volume previously awarded by the County, with the object of effecting an equitable
+distribution of contracts among qualified contractors. But distribution must not violate the policy of
+selecting the most highly qualified contractor to perform the services at a fair and reasonable price.
+
+(3) Written confirmation of solicitation attempts and responses with contractor names and
+addresses shall be maintained in the contracting County's contract file.
+
+5.47.280 Selection by Negotiation
+
+The County may procure Personal Services with contractors directly through negotiation, if:
+
+(1) The County has, through an RFQ, established a list of qualified contractors for the particular
+project or class of project; or
+
+(2) The nature of the Work is not project-driven but requires an ongoing, long-term relationship of
+knowledge and trust. Examples include legal services and audit services.
+
+5.47.285 Contract Requirements.
+
+Personal Services Contracts must comply with all applicable provisions of ORS 279B.220 to
+279B.240.
+
+5.47.290 Rules Applicable to Goods or Services Procurement.
+
+There are rules in other sections that apply to the Procurement of Goods or Services. For
+convenience the cross-reference is listed as follows:
+
+(1) Bids or Proposals are Offers -5.49.440;
+
+(2) Facsimile Bids & Offers - 5.49.425;
+
+(3) Electronic Procurement – 5.49.430;
+
+(4) Offer Preparation - 5.49.445;
+
+(5) Offer Submission – 5.49.505(3);
+(6) Pre-Offer Conferences – 5.49.455;
+
+(7) Addenda to Solicitation Doc – 5.49.465;
+
+(8) Pre-Closing Modification or Withdrawal of Offers – 5.49.470;
+
+(9) Receipt, Opening, & Recording of Offers – 5.49.475;
+
+(10) Late Offers, Late Withdrawals & Late Modifications – 5.49.480;
+
+(11) Mistakes – 5.49.485;
+
+(12) Time for Agency Acceptance – 5.49.490(1);
+
+(13) Extension of Time for Acceptance – 5.49.490(2);
+
+(14) Rejection of an Offer – 5.49.515
+
+(15) Rejection of all Offers – 5.49.525
+
+(16) Cancellation of Solicitation – 5.49.495
+
+(17) Disposition of Offers if Solicitation is Canceled – 5.49.495(3)
+
+(18) Protests and Judicial Review of Procurements – 5.49.530
+
+5.48.300 CONSULTANT SELECTION:
+
+(1) This Division shall govern the selection process of Architectural, Engineering, Land Surveying,
+and Related Services as defined in ORS 279C. The County shall award contracts for these services
+in accordance with ORS 279C.100 thru 279C.125 and these rules, however, if the project receives
+State funds as outlined in ORS 279C. 110 (2) and /or 279C.125, Division 48 of the Attorney
+General’s Rules will apply to the selection process for Architectural, Engineering, and Land
+Surveying services.
+
+(2) Definitions. In addition to the definitions set forth in ORS 279A.010, 279C.100 and Division 46
+Section 110 of these rules, the following apply to this Division 48:
+(a) “Consultant” means an Architect, Engineer, Land Surveyors, or providers of Related
+Services as defined in ORS 279C.100, or any combination of the forgoing.
+(b) “Estimated Fee” means the County’s reasonably projected fee to be paid for a
+Consultant’s services under the anticipated Contract less anticipated reimbursable–expenses. This
+estimate is used solely to determine the solicitation method to be used and is distinct from the total
+amount payable under the Contract.
+(c) “Project” means all components of a planned undertaking that gives rise to the need
+for a “Consultant’s services under a Contract.
+(d) “Proposer” means a Consultant who submits a proposal to the County in response to
+a Request for Proposal.
+(e) “Request for Qualifications” or “RFQ” means a written document issued by the
+County to which Consultants respond with a description of their experience with and qualifications
+for the Services described in the RFQ and from which the County creates a list of Consultants who
+are qualified to perform those services, but which is not intended to result in a Contract between the
+County and the Consultant.
+
+5.48.305 Selection Procedures for Architectural, Engineering, and Land Surveying
+Services
+
+(1) Direct Appointment. The County may enter into a direct contract with a consultant without
+following the selection procedures set forth elsewhere in these rules if any of the following
+conditions apply:
+
+(a) The County finds an emergency exists; or
+(b) The estimated fee does not exceed $75,000; or
+(c) If the project described in the contract consists of work that has been substantially
+described, planned or otherwise previously studied or rendered in an earlier contract with the same
+consultant and the consultant was selected under either ORS 279.049 or ORS 279A.065 and the
+related rules, whichever was in effect at the time the County selected the consultant for the earlier
+Contract; or
+(d) The Consultant will be providing services in relation to a Project that may be subject to a
+claim, lawsuit or other form of action, whether legal, equitable, administrative, or otherwise.
+
+(2) Informal Selection Process.  The County may use the informal selection process if the
+anticipated fee will not exceed $150,000. The process shall include the following:
+
+(a) Develop a Request for Proposal (RFP) or Request for Qualifications that shall include the
+following:
+
+(A) A description of the Project for which the services are required;
+(B) Anticipated Contract performance schedule;
+(C) Conditions or limitations, if any that may constrain or prohibit the selected
+Consultant’s ability to provide additional services related to the Project;
+(D) Date, place, and time proposals are due;
+(E) Criteria to be used to select the most qualified proposer. Such as the following:
+(i) Amount and type of resources and experienced staff Consultant has available
+to be assigned to the Project;
+(ii) Proposed management techniques and approach to be used for the Project
+described in the RFP.
+(iii) Consultant’s experience, past performance and record in providing similar
+services;
+(F) A statement that the proposer responding to the RFP is doing so solely at their
+expense; and
+(G) The process for which a proposer may protest the RFP or award.
+
+(b) Provide the Request for Proposal to a minimum of three and a maximum of five firms or
+individuals. The proposers may be drawn from the County’s prequalified list, a list from another
+public agency or firms that the County can reasonably locate that offer the required services.
+
+(c) If the County does not cancel the RPF after reviewing and ranking the proposals, the
+County will begin negotiations with the highest ranked proposer. If terms and conditions of a
+contract cannot be agreed to with proposer within a reasonable time, the County will cease
+negotiations and begin negotiations with the second highest ranked proposer. Should negotiations
+again fail, the County will proceed with a formal selection process or cancel the project.
+
+(3) Formal Selection Process. The Formal selection process may be used to select a
+Consultant in lieu of the Direct or Informal Process if the County believes that it is in the best
+interest of the County to do so. Except as provided in Section 305 (1) of these rules the Formal
+process shall be used if the anticipated fee for the service will exceed $150,000.
+(a) When using the Formal selection process the County shall obtain the Contract through
+public advertisement of Request for Proposal (RFP) or Request for Qualifications (RFQ) followed by
+the RFP or RFQ.  The County shall advertise each RFP and RFQ at least once in at least one
+newspaper of general circulation in the area and in as many other issues and publications as the
+County deems appropriate. The County may use electronic advertisement as per Section 100 (18) of
+these rules in lieu of the publications described above. The advertisement shall be published a
+reasonable time before the Proposal is due but in any event no fewer than fourteen (14) calendar days
+be the closing date. The advertisement shall include the following information:
+(i) A brief description of the Project
+(ii) How and where Consultants may obtain copies of the RFP or RPQ.
+(iii) The deadline for submitting a response.
+(b) The County may use the Request for Qualifications to establish a short list of Consultants
+with which to negotiate a favorable contract or to whom the County may issue an RFP for some or
+all of the Services described in the RFQ.
+(c) The RFP or RFQ shall contain all items as listed in Section 305 (2) (a) of these rules and
+any other items the County considers to be in its best interest.
+
+5.48.310 Effect of Material Alteration or Delay of Project.
+
+If the County delays or delays and then materially alters a Project for which the County has entered a
+Contract, and the Contract has expired or been terminated, the County may enter a Contract with the
+same Consultant to perform either the same services described in the Contract or the services as
+amended to reflect the County’s material alteration of the Project if no more than one year has passed
+since expiration of termination of the Contract.
+
+5.48.315 Request for Change or Protest; Request for Clarification.
+
+(1) Delivery. An Offeror must deliver to the County a request for change to or protest of
+Specifications or contract terms and conditions in writing. A Proposer may request a change to add
+alternative terms and conditions for negotiation if the Request for Proposals permits negotiation.
+Unless otherwise specified in the Solicitation Document, an Offeror must deliver any request or
+protest five Days prior to Closing.
+
+(2) Content.
+(a) An Offerors written request for change or protest must include:
+(A) A detailed statement of the legal and factual grounds for the request or protest;
+(B) A description of the resulting prejudice to the Offeror; and
+(C) A statement of the form of relief requested or any proposed changes to the
+Contract terms and conditions (including Specifications).
+(b) An Offeror must mark its request or protest as follows:
+(A) Solicitation specification or contract provision request for change (or protest); and
+(B) Solicitation document number (or other identification as specified in the
+Solicitation Document).
+
+(3) County Response. The County may not consider an Offerors request for change or protest
+after the deadline established for submitting a request or protest. The County will provide notice to
+the applicable Entity if it entirely rejects the request or protest. If the County agrees with the Entity's
+request or protest, in whole or in part, the County will either issue an Addendum reflecting its
+determination under Section 5.48.320 or cancel the solicitation under Section 5.48.325.
+
+(4) Extension of Closing. If the County receives a written request for change or protest from an
+Offeror in accordance with this rule, the County may extend Closing if the County determines that an
+extension is necessary to consider the request or protest and to issue an Addendum, if any, to the
+Solicitation Document.
+
+(5) Clarification. Prior to the deadline for submitting a written request for change or protest, an
+Offeror may request that the County clarify any provision of the Solicitation Document. The
+County's clarification to an Offeror, whether orally or in writing, does not change the Solicitation
+Document and is not binding on the County unless the County amends the Solicitation Document by
+Addendum.
+
+Stats. Implemented: ORS 279A.065, ORS 279C.110.
+5.48.320  Addenda to  a Solicitation Document.
+
+(1) Issuance; Receipt.  The County may change a Solicitation Document only by written
+Addenda. An Offeror must provide written acknowledgement of receipt of all issued Addenda with
+its Offer, unless the County otherwise specifies in the Addenda.
+
+(2) Distribution. The County must send Addenda to all Entities known to have obtained the
+Solicitation Document or to have attended any mandatory pre-Offer conference. The County must
+notify prospective Offerors of Addenda in accordance with method used for solicitation in Section
+305 of these rules. The County may inform prospective Offerors of Addenda by telephone, but the
+County must confirm the oral notice in writing.
+
+(3) Timelines; Extensions. The County must issue Addenda within a reasonable time to allow
+prospective Offerors to consider the Addenda in preparing their Offers. The County should extend
+the Closing if the County determines that prospective Offerors need additional time to review
+Addenda. Except to the extent required by public interest, the County may not issue Addenda less
+than 72 hours before the Closing unless an Addendum also extends the Closing.
+
+(4) Request for Change or Protest. Unless a different deadline is set forth in the Addendum,
+an Offeror may submit a written request for change or protest to the Addendum as provided in
+Section 315, within 24 hours following issuance of the Addendum, or up to the last day allowed to
+submit a request for change or protest under Section 315, whichever date is later. The County may
+consider only an Offerors request for change or protest to the Addendum; the County may not
+consider a request for change or protest to matters not added or modified by the Addendum.
+
+Stats. Implemented: ORS 279A.065.
+
+5.48.325  Disposition  of Offers if Solicitation Canceled.
+
+(1) Prior to Opening. If the County cancels a solicitation prior to Opening, the County will return
+all Offers it received to Offerors unopened, provided that the Offeror submitted its Offer in a hard-
+copy format with a clearly visible return address. If there is no return address on the envelope, the
+County will open the Offer to determine the source and then return it to the Offeror.
+
+(2) After Offer Opening. If the County rejects all Offers, the County will keep all the Offers as
+part of the County's solicitation file.
+
+(3) Cost of Cancellation. The County may cancel a solicitation, whether informal or formal, or
+reject any or all Proposals or responses to RFPs or RFQs without liability to County at any time after
+issuing any RFP or RFQ, if the County believes it is in the public interest to do so. Offerors
+responding to either RFPs or RFQs are responsible for all costs they may incur in connection with
+submitting Proposals and responses.
+Stats. Implemented: ORS 279A.065.
+
+5.49.400 PUBLIC CONTRACTS FOR CONSTRUCTION SERVICES
+
+(1) This division apples to Public Improvement Contracts as defined in ORS 279A.010 (aa) as well
+as Public Contracts for ordinary construction services that are not Public Improvements. The rules
+that apply specifically to Public Improvement Contracts are so identified.
+
+(2) This division addresses matters covered in ORS Chapter 279C with the exception of
+Architectural, Engineering, Land Surveying, and Related Services; those items are covered in
+division 300 of these rules.
+
+(3) Public Improvement contracts must be awarded by competitive bidding, except as otherwise
+allowed or required in ORS 279C.335, 279A.030 where Federal Law overrides, or 279A.100 on
+affirmative action or unless specifically exempted pursuant to these rules.
+
+5.49.405 Contracts Other Than Public Improvements
+
+(1) Procurement under ORS 279B. Pursuant to ORS 279C.320, Public Contracts for construction
+services that are not “Public Improvement Contracts” (ie. minor alteration, ordinary repair or
+maintenance of a public improvement, etc.), other than Emergency Contracts regulated under ORS
+279C.335 (5) and Section 410 of these rules, may be procured and amended as general trade services
+under the provisions of ORS Chapter 279B and Division 200 of these rules rather than under the
+provisions of ORS 279C.
+
+(2) Application of ORS 279C. Non-procurement provisions of ORS 279C may still be applicable to
+the resulting Contracts. Prior to awarding a contract the following statutes should be reviewed to
+determine those applicable: Disqualification (ORS 279C.440, 445, & 450); Legal Actions (ORS
+279C.460 & 465); Required Contract Conditions (ORS 279C.505, 515,520 & 530); Hours of Labor
+ORS 279C.540 & 545); Retainage (ORS 279C.550, 560, &565); Subcontracts (ORS 279C.580);
+Action on Payment Bonds (ORS 279.C600, 605,610,615,620, & 625); Termination (ORS 279C.650,
+660, 665& 670); and the Prevailing Wage Requirements (ORS 279C.800 through 870).
+
+5.49.410
+ Emergency Contracts
+
+(1) Contract Solicitation. If an emergency is declared as defined in ORS 279A.010(f) and Section
+5.46.145 of these rules, the County shall ensure competition for an Emergency Contract by written or
+oral requests for proposals or direct appointment without competition if at its sole discretion the
+County determines that it is in its best interest and the best interest of the situation.
+
+(2) Contract Scope and Award. Although no dollar limitation applies to Emergency Contracts, the
+scope of the Contract must be limited to Work that is necessary and appropriate to remedy the
+conditions creating the Emergency as described in the declaration. The contract may be modified by
+change order or amendment; however, any additional Work should relate to relieving the Emergency.
+
+(3) Waiver of Bonds. Pursuant to ORS 279C.380 (4), the requirement of furnishing a performance
+bond and a payment bond may be waived for the Emergency Contract.
+
+5.49.415  Contracts Under Certain Dollar Amounts.
+
+(1) The County may at its discretion let Public Improvement Contracts not to exceed $100,000
+without competitive bidding and in accordance with the following intermediate procurement
+procedures:
+
+(a) The contract is for a single project and is not a component of or related to any other
+project. A project may not be artificially divided or fragmented to constitute intermediate
+procurement.
+(b) When the amount of the contract is more than $10,000, but less than $100,000, the
+County will obtain at least three informally solicited competitive quotes. The County must keep
+a written record of the source and number of the quotes received. If three quotes are not
+available, a lesser number will suffice if a written record is made of the effort to obtain the
+quotes. (updated 10.16.17) (c)When the amount of the contract does not exceed $10,000, County
+may award a Public Improvement Contract without competitive quotes or any other form of
+competition. (updated 10.16.17)
+(2) When the contract is for a "Public Improvement" as defined in ORS 279A.010 (1)(aa) or for
+"Public Works" as defined in ORS 279C.800(6), and the contract price exceeds $25,000 but is less
+than $100,000, the County and the contractor must comply with:
+(a) The prevailing wage provisions of ORS 279C.800 to 279C.870, when applicable;
+(b) The performance and payment bond requirements of ORS 279C.380;
+(c) The contractor registration requirements of ORS Chapter 701; and
+(d) Any other law applicable to such a contract.
+
+(3) The Intermediate Procurement procedure does not preclude the County from using the Formal
+Procurement Process for contracts under $100,000.
+
+Stats Implemented: ORS 279C.335; ORS 279C. 800 to 870; Oregon Law Chapter 749 Sections 132
+&133.
+
+5.49.420 Formal Procurement for Public Improvement Contracts.
+
+(1) Contracts in excess of $100,000 shall be based upon competitive bids or competitive proposals
+unless specifically exempted by the County or these rules. All bids or proposals must be in writing
+and comply with the requirements of ORS 279C.365 (2),(3) &(4).
+(2) Solicitation Methods. The County may encourage meaningful competition through a variety
+of solicitation methods.  The County will choose the solicitation method that is most likely to
+encourage Offers representing optimal value to the County.
+
+(a) When Invitations to Bid Should Be Used. The County may use an Invitation to Bid (ITB)
+if the County believes it will receive optimal value by selecting the lowest priced Offer that meets the
+technical requirements of the County's Specifications. Contracts using this option shall be awarded
+to the lowest responsible responsive bidder, as defined in Section 5.46.110 (40) of these rules.
+(b) Wh en  Request for Proposal should be used. The County may use a Competitive Request
+for Proposal (RFP) when the County determines that it is in its best interest to do so. The County
+must develop findings that support its decision to solicit a Competitive RFP.
+
+(3) Solicitation Documents - Required Contents. The Solicitation Document for an ITB or an
+RFP will include the following:
+
+(a) Instructions and information concerning submission requirements, including Opening and
+Closing, the address of the office to which Offers must be delivered, the County's contact person for
+the solicitation and any other special information, e.g., whether Offers may be submitted by facsimile
+or Electronic Data Interchange.  The interval between the date of issuance of the Solicitation
+Document and Closing should not be less than 14 Days for an ITB and not less than 30 Days for RFP
+unless the County finds that a shorter interval is in the public's interest.
+(b) If applicable, description of the acquisition, Specifications, delivery or performance
+schedule, inspection and acceptance requirements, and evaluation criteria, that the County will use to
+determine the lowest responsible Bidder or best responsible Proposer.
+(c) The County's need, including any relevant background.
+(d) The anticipated schedule, deadlines, protest process, and evaluation process, if any.
+(e) The form and submission of Offers and any information required therein, including Bid or
+Proposal security, if any.
+(f) All Addenda issued by the County.
+(g) The evaluation criteria the County will use to determine acceptability of any product or
+service.
+(h) A statement that, if the contract is for a public works, that no bid will be received unless
+the bid contains a statement that the bidder will comply with the requirements of ORS 279C. 800 to
+279C.870 or the Davis-Bacon Act (40 U.S.C. 276c);
+(i) A statement that the County may reject any and all bids not in compliance with the bidding
+requirements or if the County finds that it is in the public interest to do so;
+(j) A s tatement  that the bid must identify whether the bidder is a resident bidder as defined in
+ORS 279A.120;
+(k) If the Solicitation Document is an Invitation to Bid, the County will set forth objective
+evaluation criteria in the Solicitation Document.  Examples of such criteria include but are not
+limited to conversion costs, transportation cost, volume weighing, trade -in allowances, cash
+discounts, depreciation allowances, cartage penalties, ownership or life -cycle cost formulas,
+performance history on other private and public contracts, experience of key personnel, adequacy of
+equipment and physical plant, financial wherewithal, sources of supply, references and warranty
+provisions. Evaluation criteria need not be precise predictors of actual future costs; but evaluation
+factors must be reasonable estimates based on information the County has available concerning
+future use.
+(l) If the Solicitation Document is a Request for Proposal, the County will set forth selection
+criteria, as objective as possible, in the Solicitation Document.  Evaluation factors need not be
+precise predictors of actual future costs and performance but must be reasonable estimates based on
+information available to the County. The Solicitation Document must also describe the following:
+(A) If the County is willing to negotiate terms and conditions of the contract, the
+County must identify the specific terms and conditions that are subject to negotiation
+and authorize Offerors to propose certain alternative terms and conditions in lieu of the
+terms and conditions the County has identified as authorized for negotiation. The
+County must describe the evaluation and negotiation process consistent with this
+Section.
+(B) Examples of evaluation criteria include price or cost, quality of a product or
+service, past performance, management capability, personnel qualification, prior
+experience, compatibility, reliability, operating efficiency, expansion potential,
+experience of key personnel, adequacy of equipment and/or physical plant, financial
+wherewithal, sources of supply, references, and warranty provisions.
+(m) Terms and conditions that will apply to the contract, including applicable terms and
+conditions, warranties and bonding requirements, must be included in the Solicitation Document.
+The County must include in the Contract the following terms and conditions to public contracts as
+prescribed by ORS 279C.505 to 279C.580, as applicable:
+(A) Payment of laborers and materialmen; contributions to Industrial Accident Fund;
+liens and withholding taxes (ORS 279C.505)
+(B) If the contract calls for demolition work described in ORS 279C.510(1), a
+condition requiring the contractor to salvage or recycle construction and demolition
+debris, if feasible and cost-effective;
+(C) If the contract calls for lawn or landscape maintenance described in ORS 279C.510
+(2), a condition requiring the contractor to compost or mulch yard waste material at an
+approved site, if feasible and cost-effective;
+(D) Payment of claims by public officers (ORS 279C.515);
+(E) Hours of labor (ORS 279C.520 and 279C.540);
+(F) Environmental and natural resources regulations (ORS 279C.525);
+(G) Payment for medical care and attention to employees (ORS 279C.530);
+(H) Maximum hours and overtime (ORS 279C.540);
+(I) Claims for overtime (ORS 279C.545);
+(J) Prevailing wage rates (ORS 279C.800 to 279C.870);
+(L) Fee paid to BOLI (ORS 279C.830(2);
+(M) Retainage (ORS 279C.550 to 279C.570);
+(N) Prompt payment policy (ORS 279C.570);
+(O) Contractor's relations with subcontractors (ORS 279C.580);
+(P) Notice of claim (ORS 279C.605);
+(Q) Contractor's certification of Compliance with the Oregon tax laws in accordance
+with ORS 305.385;
+(R) A contract provision substantially providing that: "If Contractor is an employer,
+Contractor is a subject employer under the Oregon Workers' Compensation Law and
+shall comply with ORS 656.017 and shall provide Workers' Compensation coverage for
+all their "subject workers," as defined under ORS Chapter 656" (ORS 279C.530(2));
+(S) Contractor's certification that all contractors and subcontractors performing work
+described in ORS 701.005(2) (i.e., construction work) will be registered with the
+Construction Contractors Board or licensed by the State Landscape Contractors Board in
+accordance with ORS 701.035 to 701.055 before the commencement of Work under the
+contract; and
+(T) If the contract is for a Public Improvement, a condition that the contractor must
+demonstrate that it has established a drug- testing program for its employees. (ORS
+279C.505 (2))
+(4) Additional Terms and Conditions.
+
+(a) The County may include additional terms and conditions as applicable to the contract. If
+federal grant funds are involved, the federal laws, rules, and regulations applicable to the grant will
+govern if they conflict with any provision required by ORS 279A 279B or 279C.
+(b) Unless otherwise provided in the contract, the contractor may not assign, sell, dispose of,
+or transfer rights or delegate duties under the contract, either in whole or in part, without the
+County's prior written consent. Unless otherwise agreed by the County in writing, such consent will
+not relieve the contractor of any obligations under the contract. Any assignee or transferee may be
+considered the agent of the contractor and be bound to abide by all provisions of the contract. If the
+County consents in writing to an assignment, sale, disposal, or transfer of the contractor's rights or
+delegation of the contractor's duties, the contractor and its surety, if any, will remain liable  to the
+County for complete performance of the contract as if no such assignment, sale, disposal, transfer, or
+delegation had occurred unless the County otherwise agrees in writing.
+(5) Compliance with Solicitation Document required; Exceptions.
+
+(a) An Offeror is responsible for knowing and understanding the terms and conditions
+included in or applicable to a Solicitation Document.
+(b) By signing and returning the Offer the Offeror acknowledges acceptance of and agrees to
+be bound by the terms and conditions of the contract. If the Request for Proposal authorizes
+Proposal of alternative terms, the Offeror agrees to be bound by the nonnegotiable terms and
+conditions of the contract and any proposed terms and conditions Offered for negotiation upon the
+County's written acceptance of the proposed terms and conditions.
+
+(6) First-Tier Subcontractor Disclosure and Substitution.
+
+(a) For all contracts that exceed $100,00 on an ITB for Public Improvement, first-tier
+subcontractor disclosure is required by ORSC.370. Disclosure is required for first -tier
+subcontractors who will be furnishing labor and material for the project and whose contract value is
+five percent (5%) or more of the total project bid or $15,000 whichever is greater or $350,000
+regardless of the percentage of total bid.
+(b) For each ITB to which this rule applies the County will set the bid closing time on a
+Tuesday, Wednesday, or Thursday at a time between 2:00 PM and 5:00 PM. Bids must be opened
+immediately after bid closing time, subcontractor disclosure must be submitted within two hours
+after bid closure and the County may consider Award only to those bidders that submit the required
+disclosure within the required deadline on the prescribed form.
+(c) The County shall prescribe the form to be used and the form shall be substantially in the
+form set forth in ORS 279C.370(2).
+(d) The County shall include in contract solicitations for which this rule applies the
+“First-Tier Disclosure” requirements and the required form. For the purposes of this rule, the
+County in its solicitation for competitive bids shall provide instructions in a notice substantially
+similar to the following:
+"Instructions for First-Tier Subcontractor Disclosure
+
+Bidders are required to disclose information about certain first-tier
+subcontractors when the contract value for a Public Improvement is
+greater than $100,000 (see ORS 279C.370). Specifically, when the
+contract amount of a first-tier subcontractor furnishing labor and
+materials would be greater than or equal to: (i) 5% of the project bid, but
+at least $15,000, or (ii) $350,000 regardless of the percentage, the bidder
+must disclose the following information about that subcontract either in
+its Bid submission or within four hours after bid closing:
+(1) The subcontractor's name,
+(2) The category of work that the subcontractor would be performing,
+and
+(3) The dollar value of the subcontract.
+If the bidder will not be using any subcontractors that are subject to the
+above disclosure requirements, the bidder is required to indicate "NONE"
+on the accompanying form.”
+
+5.49.425  Facsimile  Bids and Proposals.
+
+(1) County Authorization. The County may authorize Offerors to submit facsimile Offers. If the
+County determines that Bid or Proposal security is or will be required, the County should not
+authorize facsimile Offers unless the County has another method for receipt of such security. Prior
+to authorization, the County must determine whether the County's equipment and personnel are
+capable of receiving the size and volume of anticipated Offers within a short time and establish
+administrative procedures and controls:
+(a) For receiving, identifying, recording, and safeguarding facsimile Offers; and
+(b) To ensure timely delivery of Offers to the location of Opening and to preserve the "sealed"
+requirement of competitive procurement.
+
+(2) Provisions to Be Included in Solicitation Document. In addition to all other requirements, if
+the County authorizes a facsimile Offer, the County will include in the Solicitation Document
+provisions substantially similar to the following:
+
+(a) A facsimile Offer, as used in this solicitation, means an Offer, modification of an Offer, or
+withdrawal of an Offer that is transmitted to and received by the County via a facsimile machine.
+(b) Offerors may submit facsimile Offers in response to this solicitation. The entire response
+must arrive at the place and by the time specified in this Solicitation Document.
+(c) Offerors must sign their facsimile Offers.
+(d) The County reserves the right to award the contract solely on the facsimile Offer, but upon
+the County's request, the apparently successful Offeror must promptly submit its complete original
+Signed Offer.
+(e) The data and compatibility characteristics of the County's receiving facsimile machine are
+as follows:
+(A) Telephone number;
+(B) Compatibility characteristics, e.g., make and model number, receiving speed, and
+communications protocol.
+(f) The County is not responsible for any failure attributable to the transmission or receipt of
+the facsimile Offer including, but not limited to the following:
+(A) Receipt of garbled or incomplete documents.
+(B) Availability or condition of the receiving facsimile machine.
+(C) Incompatibility between the sending and receiving facsimile machine.
+(D) Delay in transmission or receipt of documents.
+(E) Failure of the Offeror to properly identify the Offer documents.
+(F) Illegibility of Offer documents.
+(G) Security and confidentiality of data.
+
+5.49.430  Use  of Electronic Data Interchange.
+
+(1) County Authorization. The County may authorize Offerors to submit EDI Offers. If the
+County determines that Bid or Proposal security is or will be required, the County should not
+authorize EDI Offers unless the County has a method for receipt of such security. Prior to
+authorizing EDI Offers, the County must:
+
+(a) Establish administrative procedures and controls for receiving, identifying, recording, and
+safeguarding EDI Offers, to ensure timely delivery of the Offers to the Opening location and to
+preserve the "sealed" requirement of competitive procurement;
+(b) Determine whether the County's procedures, controls, equipment, and personnel are
+capable of receiving the size and volume of anticipated EDI Offers within a short time; and
+(c) Make available to interested vendors an EDI "trading partner" or operating agreement
+("EDI Operating Agreement").
+
+(2) EDI Operating Agreement. An EDI Operating Agreement must address the basic legal issues
+required to formalize an EDI relationship. The EDI Operating Agreement must include the
+following:
+
+(a) Selection of EDI standards and methods of communication;
+(b) Allocation of responsibilities for ensuring that the equipment, software, and services are
+operated and maintained effectively;
+(c) Procedures for making system changes that may impair the ability of the parties to
+communicate;
+(d) Required security and authentication procedures and services;
+(e) The method for establishing receipt of Offers and for evidencing that the Offeror is bound
+to its Offer;
+(f) The need (if any) for maintaining confidentiality;
+(g) The allocation of liabilities for failure to meet requirements under the EDI Operating
+Agreement;
+(h) Methods for resolving any disputes under the EDI Operating Agreement; and
+(i) Document backup and replacement procedures.
+
+(3) Provisions to Be Included in Solicitation. In addition to all other requirements, if the County
+authorizes an EDI Offer, the County will include in the Solicitation Document provisions
+substantially similar to the following:
+
+(a) An EDI Offer, as used in this solicitation, means an Offer, modification of  an Offer, or
+withdrawal of an Offer that is transmitted to and received by the County in accordance with the EDI
+Operating Agreement between the County and the Offeror.
+(b) An Offeror may submit an EDI Offer in response to this solicitation if the Offeror has an
+effective EDI Operating Agreement with the County. The EDI Offer must arrive at the place and by
+the time specified in the Solicitation Document.
+(c) An Offeror must sign its EDI Offer in accordance with the EDI Operating Agreement
+between the County and the Offeror.
+(d) The County reserves the right to award the contract based solely on the EDI Offer. Unless
+otherwise provided under the EDI Operating Agreement, the Offeror must promptly submit
+conformed, Signed documents upon the County's request.
+(e) Unless otherwise expressly agreed upon under the EDI Operating Agreement, the County
+is not responsible for any failure attributable to the transmission or receipt of the EDI Offer,
+including but not limited to the following:
+(A) Receipt of garbled or incomplete documents.
+(B) Availability or condition of the receiving equipment.
+(C) Incompatibility between the sending and receiving equipment.
+(D) Delay in transmission or receipt of documents.
+(E) Failure of the Offeror to properly identify the Offer documents.
+(F) Illegibility of Offer documents.
+(G) Security and confidentiality of data.
+
+Stats. Implemented: ORS 279C.365.
+
+5.49.435  Public  Notice of Solicitation.
+
+(1) Notice and Distribution Fee. The County will furnish notice to a sufficient number of Entities
+for the purpose of fostering and promoting competition. The County may charge a fee or require a
+deposit for the Solicitation Document. The County may furnish notice using any method, including:
+
+(a) Mail notice of the availability of Solicitation Documents to Entities that have expressed an
+interest in the County's procurements; or
+
+(b) Place notice on the Oregon Department of Administrative Services' electronic procurement
+system known as the Vendor Information Program ("VIP"); or
+(c) Place notice on the County's Internet Web site.
+
+(2) Advertising. The County must advertise every solicitation for Offers, unless the Contract
+Review Board has exempted the solicitation from the advertisement requirement.
+
+(a) Unless the County publishes by Electronic Advertisement as permitted under subsection
+(2)(b), the County must publish the advertisement for Offers at least once in at least one newspaper
+of general circulation in the area where the contract is to be performed and in as many additional
+issues and publications as the County may determine to be necessary or desirable to foster and
+promote competition.
+(b) The County may publish by Electronic Advertisement if:
+(A) The County has published a notice that it may publish future advertisements for
+Offers by Electronic Advertisement. The County must publish the notice weekly, for no
+less than four consecutive weeks, in at least one newspaper of general circulation in the
+area where the business office of the County is located and in as many additional issues
+and publications as the County may determine to be necessary or desirable to provide
+notice to potential Offerors. The County notice must include the World Wide Web
+location (i.e., Uniform Resource Locator or URL) where the County will publish future
+Electronic Advertisements or alternatively, to the Web location where the County will
+publish information on accessing the Electronic Advertisement via a Telnet application.
+(B) The County posts in its business office a notice that the County will publish
+advertisements for Offers by  Electronic Advertisement. The notice must include the
+World Wide Web location (i.e., Uniform Resource Locator or URL) where the County
+publishes Electronic Advertisements or alternatively, to the Web location where the
+County publishes information on accessing the Electronic Advertisement via Telnet.
+(C) The Contract Review Board determines that Electronic Advertisement is less
+expensive than publishing by newspaper under subsection (2)(a).
+(c) In addition to the County's publication required under subsection (2)(a) or (2)(b), the
+County must also publish advertisement for Offers in at least one trade newspaper of general
+statewide circulation if the contract is for a Public Improvement with an estimated cost in excess of
+$100,000.
+(d) All advertisements for Offers must set forth:
+(A) The scheduled Closing, that may not be less than five Days after the date of the last
+publication of the advertisement;
+(B) The date on which Entities must file applications for prequalification if
+prequalification is a requirement and the class or classes of Work for which Entities
+must be prequalified;
+(C) The nature of the Work to be performed or the goods to be purchased;
+(D) The office where contract terms, conditions, and Specifications may be reviewed;
+(E) The name, title, and address of the person authorized to receive Offers;
+(F) The date, time, and place of Opening;
+(G) The provision that the County may reject any Offer that does not comply with all
+prescribed public procurement procedures and requirements;
+(H) The provision that the County may reject for good cause any or all Offers upon the
+County's finding that it is in the public interest to do so;
+(I) The provision that the Offer must include a statement indicating whether the
+Offeror is a "resident bidder," as defined in ORS 279.029;
+(J) Whether a Contractor or subcontractor must be licensed under ORS 468A.720, to
+Work with asbestos-containing materials; and
+(K) The provision that the County may not receive or consider an Offer for a
+construction contract unless the Offeror is registered with the Construction Contractors
+Board as required by ORS 701.055, or licensed by the State Landscape Contractors
+Board, as required by ORS 671.530.
+(L) If prequalification is a requirement, the date that prequalification applications must
+be filed under ORS 279C.430 and Section 5.46.130 (4) of these rules and the class or
+classes of work for which bidders must be prequalified.
+(3) Posting Advertisement for Offers. The County must post a copy of each advertisement for
+Offers at the principal business office of the County. An Offeror may obtain a copy of the
+advertisement for Offers upon request.
+
+Stats. Implemented: ORS 279C.360
+
+5.49.440 BID OR PROPOSAL PREPARATION AND REQUIREMENTS
+
+(1) Offer and Acceptance. The Bid or Proposal is the Bidder's or Proposer's Offer to enter into a
+contract. The Offer is a firm Offer, i.e., the Offer will be held open by the Offeror for the County's
+acceptance for 30 Days, unless otherwise specified in the Solicitation Documents. The County's
+award of the contract constitutes acceptance of the Offer and binds the Offeror to the Contract.
+
+(2) Responsive Offer. The County may award a contract only to a Responsible Offeror with a
+Responsive Offer.
+
+(3) Contingent Offers. Except to the extent that the Proposer is authorized to propose certain
+terms and conditions pursuant to Sections 5.46.130 (4) and 5.49.505, a Proposer may not make its
+Offer contingent on the County's acceptance of any terms or conditions (including Specifications)
+other than those contained in the Solicitation Document.
+
+(4) Offerors Acknowledgement. By signing and returning the Offer, the Offeror acknowledges
+that it has read and understood the terms and conditions contained in the Solicitation Document and
+that it accepts and agrees to be bound by the terms and conditions of the Solicitation Document. If
+the Request for Proposal permits Proposal of alternative terms under Section 5.49.425(2), the
+Offerors Offer includes the nonnegotiable terms and conditions and any proposed terms and
+conditions Offered for negotiation upon and to the extent accepted by the County in writing.
+
+Stats. Implemented: ORS 279C.375,& ORS 279C.365.
+
+5.49.445  Offer Preparation.
+
+(1) Instructions. An Offeror must submit and sign its Offer in accordance with the Solicitation
+Document. An Offeror must initial and submit any  correction or erasure to its Offer prior to the
+Opening in accordance with the requirements for submitting an Offer under the Solicitation
+Document.
+
+(2) Facsimile or EDI Submissions. The County will not consider facsimile or EDI Offers unless
+authorized by the Solicitation Document.
+
+(3) Identification of Offers. Offers must be submitted in a sealed envelope appropriately marked
+or in the envelope provided by the County, whichever is applicable. If the County permits facsimile
+or EDI Offers in the Solicitation Document, the Offeror may submit and identify facsimile or
+Electronic Data Interchange Offers in accordance with the Solicitation Document.
+
+(4) Receipt of Offers. The Offeror is responsible for ensuring that the County receives its Offer at
+the required delivery point prior to the Closing, regardless of the method used to submit or transmit
+the Offer.
+
+Stats. Implemented: ORS 279C.365, 279B.055 & 279B.060.
+
+5.49.450  Bid  or Proposal Security.
+(1) Security Amount. If the County requires Bid or Proposal security, it must be not less than 5
+percent or more than 10 percent of the Offerors Bid or Proposal. The County cannot use Bid or
+Proposal security to discourage competition. The County must expressly provide for any Bid or
+Proposal security in its Solicitation Document. The Offeror will forfeit Bid or Proposal security after
+award if the Offeror fails to sign the contract promptly and properly.
+
+(2) Public Improvement Contracts. Unless the County has otherwise exempted a solicitation or
+class of solicitations from Bid or Proposal security pursuant to ORS 279C.390, the County must
+require Bid or Proposal security for its solicitation of Offers for Public Improvements. The County
+may require Bid or Proposal security even if it has exempted a class of solicitations from Bid or
+Proposal security.
+
+(3) Form of Bid or Proposal Security. The County may accept only the following forms of Bid
+or Proposal security:
+
+(a) A surety bond from a surety company authorized to do business in the State of Oregon;
+(b) An irrevocable letter of credit issued by an insured institution as defined in ORS 706.008;
+or
+(c) A cashier's check or Offerors certified check.
+
+(4) Return of Security. The County must return or release the Bid or Proposal security of all
+unsuccessful Offerors after a contract has been executed and a performance bond provided (if a
+performance bond is required), or after all Offers have been rejected. The County may return the Bid
+or Proposal security of unsuccessful Offerors after opening but prior to award if the return does not
+prejudice contract award and provided that the security of at least the three lowest Bidders, or the
+three highest scoring Proposers, is retained pending execution of a contract.
+
+Stats. Implemented: ORS 279C.365, 279C.375, 279C.380, 279C.385 & 279C.390.
+
+5.49.455  Pre -Offer Conferences.
+
+(1) Purpose. The County may hold pre -Offer conferences with prospective Offerors prior to
+Closing to explain the procurement requirements or to conduct site inspections.
+
+(2) Required Attendance. The County may require attendance at the pre-Offer conference as a
+condition for making an Offer.
+
+(3) Scheduled Time.  If the County holds a pre -Offer conference, it must be held within a
+reasonable time after the Solicitation Document has been issued, but provide enough time before the
+Closing to allow Offerors to consider information provided at that conference.
+
+(4) Statements Not Binding. Statements made by the County's representative at the pre-Offer
+conference do not change the Solicitation Document unless the County confirms such statements
+with a written Addendum to the Solicitation Document.
+
+(5) County Announcement. The Solicitation Document must set forth:
+
+(a) The time, date, and location of any pre-Offer conference; and
+(b) Whether attendance at the conference will be mandatory or voluntary; and
+(c) The fact that statements made by the County's representatives at the conference are not
+binding on the County unless confirmed by written Addendum.
+
+5.49.460 Request for Change or; Request for Clarification.
+
+(1) Delivery. An Offeror must deliver to the County a request for change to or protest of
+Specifications or contract terms and conditions in writing. A Proposer may request a change to add
+alternative terms and conditions for negotiation if the Request for Proposals permits negotiation
+pursuant to Section 5.49.420 (3)(l)(A). Unless otherwise specified in the Solicitation Document, an
+Offeror must deliver any request or protest as follows:
+
+(a) For Public Improvement contracts, ten Days prior to Closing;
+(b) For other contracts, five Days prior to Closing.
+
+(2) Content.
+(a) An Offerors written request for change or protest must include:
+(A) A detailed statement of the legal and factual grounds for the request or protest;
+(B) A description of the resulting prejudice to the Offeror; and
+(C) A statement of the form of relief requested or any proposed changes to the
+Contract terms and conditions (including Specifications).
+(b) An Offeror must mark its request or protest as follows:
+(A) Solicitation specification or contract provision request for change (or protest); and
+(B) Solicitation document number (or other identification as specified in the
+Solicitation Document).
+
+(3) County Response. The County may not consider an Offerors request for change or protest
+after the deadline established for submitting a request or protest. The County will provide notice to
+the applicable Entity if it entirely rejects the request or protest. If the County agrees with the Entity's
+request or protest, in whole or in part, the County will either issue an Addendum reflecting its
+determination under Section 5.49.465 or cancel the solicitation under Section 5.49.495.
+
+(4) Extension of Closing. If the County receives a written request for change or protest from an
+Offeror in accordance with this rule, the County may extend Closing if the County determines that an
+extension is necessary to consider the request or protest and to issue an Addendum, if any, to the
+Solicitation Document.
+
+(5) Clarification. Prior to the deadline for submitting a written request for change or protest, an
+Offeror may request that the County clarify any provision of the Solicitation Document. The
+County's clarification to an Offeror, whether orally or in writing, does not change the Solicitation
+Document and is not binding on the County unless the County amends the Solicitation Document by
+Addendum.
+
+Stats. Implemented: ORS 279C.345, & 279C.365.
+
+5.49.465  Addenda to  a Solicitation Document.
+
+(1) Issuance; Receipt.  The County may change a Solicitation Document only by written
+Addenda. An Offeror must provide written acknowledgement of receipt of all issued Addenda with
+its Offer, unless the County otherwise specifies in the Addenda.
+
+(2) Distribution. The County must send Addenda to all Entities known to have obtained the
+Solicitation Document or to have attended any mandatory pre-Offer conference. The County must
+notify prospective Offerors of Addenda in accordance with Section 5.49.420(f). The County may
+inform prospective Offerors of Addenda by telephone, but the County must confirm the oral notice in
+writing in accordance with Section 5.49.420(f).
+
+(3) Timelines; Extensions. The County must issue Addenda within a reasonable time to allow
+prospective Offerors to consider the Addenda in preparing their Offers. The County should extend
+the Closing if the County determines that prospective Offerors need additional time to review
+Addenda. Except to the extent required by public interest, the County may not issue Addenda less
+than 72 hours before the Closing unless an Addendum also extends the Closing; however, for
+multitier bidding or proposal process the Addenda shall be issued a minimum of 5 days prior to step
+two and any subsequent step in the selection process.
+
+(4) Request for Change or Protest. Unless a different deadline is set forth in the Addendum,
+an Offeror may submit a written request for change or protest to the Addendum as provided in
+Section 5.49.460, within 24 hours following issuance of the Addendum, or up to the last day allowed
+to submit a request for change or protest under Section 5.49.460, whichever date is later. The
+County may consider only an Offerors request for change or protest to the Addendum; the County
+may not consider a request for change or protest to matters not added or modified by the Addendum.
+
+5.49.470  Pre- Opening Modification or Withdrawal of Offers.
+
+(1) Modifications. An Offeror may modify its Offer in writing prior to the Closing. An Offeror
+must prepare and submit any modification to its Offer to the County in accordance with Sections
+5.49.440 and 5.49.445, unless otherwise specified in the Solicitation Document. Any modification
+must include the Offerors statement that the modification amends and supersedes the prior Offer.
+The Offeror must mark the submitted modification as follows:
+
+(a) Bid (or Proposal) modification; and
+(b) Solicitation number (or other identification as specified in the Solicitation Document).
+
+(2) Withdrawals.
+(a) An Offeror may withdraw its Offer by written notice submitted on the Offerors letterhead,
+Signed by an authorized representative of the Offeror, delivered to the location specified in the
+Solicitation Document (or the place of Closing if no location is specified), and received by the
+County prior to the Closing. The Offeror or authorized representative of the Offeror may also
+withdraw its Offer in person prior to the Closing, upon presentation of appropriate identification and
+satisfactory evidence of authority.
+(b) The County may release an unopened Offer withdrawn under subsection (2)(a) to the
+Offeror or its authorized representative, after voiding any date-and-time-stamp mark.
+(c) The Offeror must mark the written request to withdraw an Offer as follows:
+(A) Bid (or Proposal) withdrawal; and
+(B) Solicitation number (or other identification as specified in the Solicitation Document).
+
+(3) Documentation. The County will include all documents relating to the modification or
+withdrawal of Offers in the appropriate solicitation file.
+
+Stats. Implemented: ORS 279C360(2), 279C.365, 279C.375, 279C.395 & 279B.055.
+
+5.49.475  Receipt, Opening,  and Recording of Offers.
+
+(1) Receipt. The County will electronically or mechanically time-stamp or hand-mark each Offer
+and any modification upon receipt. The County may not open the Offer or modification, but must
+store it in a secure place until Opening. If the County inadvertently opens an Offer or a modification
+prior to Opening, the County must reseal and store the opened Offer or modification for Opening.
+The County must document the resealing for the solicitation file (e.g., "County inadvertently opened
+the Offer due to improper identification of the Offer").
+
+(2) Opening and Recording. The County will publicly open Offers, including any modifications
+made to the Offer pursuant to Section 5.49.470.  In the case of Invitations to Bid, to the extent
+practicable, the County will read aloud the name of each Bidder, the Bid price(s), and such other
+information as the County considers appropriate. In the case of Requests for Proposals or
+voluminous Bids, if the Solicitation Document so provides, the County will not read Offers aloud.
+
+(3) Availability. After Opening, the County will make the Offers available for public inspection
+except for those portions of an Offer that the Offeror designates as trade secrets or as confidential
+proprietary data in accordance with applicable law. See ORS 192.501(2); ORS 646.461 to 646.475.
+Pursuant to ORS 279C.410, Proposals are not subject to disclosure until after notice of intent to
+award is issued.  To the extent that the County determines that such a designation is not in
+accordance with applicable law, the County will make those portions available for public inspection.
+The Offeror will separate information designated as confidential from other non- confidential
+information at the time of submitting its Offer. Prices, makes, model or catalog numbers of items
+Offered, scheduled delivery dates, and terms of payment are not confidential and will be publicly
+available regardless of an Offerors designation to the contrary.
+
+Stats. Implemented: ORS 279C.365, 279C.375, 279C.395 & 279B.055.
+
+5.49.480 Late Offers, Late Withdrawals, and Late Modifications.
+
+Any Offer received after Closing is late. An Offerors request for withdrawal or modification of an
+Offer received after Closing is late.  The County will not consider late Offers, withdrawals, or
+modifications except as permitted in Section 5.49.485 or 5.49.505.
+
+5.49.485 Mistakes.
+
+(1) General. To protect the integrity of the competitive solicitation process and to ensure fair
+treatment of Offerors, the County should carefully consider whether to permit waiver, correction, or
+withdrawal for certain mistakes.
+
+(2) County Treatment of Mistakes. County will not allow an Offeror to correct or withdraw an
+Offer for an error in judgment. If the County discovers certain mistakes in an Offer after Opening
+but before award of the contract, the County may take the following action:
+
+(a) The County may waive or permit an Offeror to correct a minor informality.  A minor
+informality is a matter of form rather than substance, evident on the face of the Offer, or an
+insignificant mistake that can be waived or corrected without prejudice to other Offerors. Examples
+of minor informalities include an Offerors failure to:
+(A) Return the correct number of Signed Offers or the correct number of other documents required
+by the Solicitation Document;
+(B) Sign the Offer in the designated block, provided a Signature appears elsewhere in the Offer,
+evidencing an intent to be bound; and
+(C) Acknowledge receipt of an Addendum to the Solicitation Document, provided that it is clear on
+the face of the Offer that the Offeror received the Addendum and intended to be bound by its terms;
+and the Addendum involved did not affect price, quantity, or delivery.
+(b) The County may correct a clerical error if the intended Offer and the error are evident on
+the face of the Offer or other documents submitted with the Offer and the Offeror confirms the
+County's correction in writing. A clerical error is an Offeror’s error in transcribing its Offer.
+Examples include typographical mistakes, errors in extending unit prices, transposition errors,
+arithmetical errors, instances in which the intended correct unit or amount is evident by simple
+arithmetic calculations (for example, a missing unit price may be established by dividing the total
+price for the units by the quantity of units for that item or a missing; or an incorrect total price for an
+item may be established by multiplying the unit price by the quantity when those figures are available
+in the Offer). In the event of a discrepancy, unit prices will prevail over extended prices.
+(c) The County may permit an Offeror to withdraw an Offer based on other errors only if the
+Offeror shows by clear and convincing evidence:
+(A) The nature of the error; and
+(B) That the error is not a judgment error, minor informality, or clerical error.
+
+(3) Rejection for Mistakes. The County will reject any Offer in which a mistake is evident on the
+face of the Offer and the intended correct Offer is not evident or cannot be substantiated from
+documents accompanying the Offer, i.e., documents submitted with the Offer, pursuant to
+solicitation requirements.
+
+Stats. Implemented: ORS 279C.375, 279C.395 & 279B.055.
+
+5.49.490 Time for County Acceptance; Extension.
+
+(1) Time for Acceptance. An Offerors Offer is a firm Offer, is irrevocable, and is valid and binding
+on the Offeror for not less than 30 Days from Closing unless otherwise specified in the Solicitation
+Document.
+
+(2) Extension of Time for Acceptance of Offer. The County may request orally or in writing that
+Offerors extend in writing the time during which the County may consider their Offer(s). If an
+Offeror agrees to such an extension, the Offer will continue as a firm Offer, irrevocable, valid, and
+binding on the Offeror for the agreed-on extension period.
+
+Stats. Implemented: ORS 279C.375(1).
+
+5.49.495 Cancellation of Solicitation.
+
+(1) Cancellation in the Public Interest. The County may cancel a solicitation for good cause if
+the County finds that cancellation is in the public interest. The County's reasons for cancellation will
+be made part of the solicitation file.
+
+(2) Notice of Cancellation. If the County cancels a solicitation prior to Opening, the County must
+provide notice of cancellation in accordance with Section 5.49.435. Notice of cancellation must:
+(a) I dentify  the solicitation;
+(b) Briefly explain the reason for cancellation; and
+(c) If appropriate, explain that an opportunity will be given to compete on any re-solicitation.
+
+(3) Disposition of Offers.
+
+(a) Prior to Opening. If the County cancels a solicitation prior to Opening, the County will
+return all Offers it received to Offerors unopened, provided that the Offeror submitted its Offer in a
+hard-copy format with a clearly visible return address. If there is no return address on the envelope,
+the County will open the Offer to determine the source and then return it to the Offeror.
+(b) After Offer Opening. If the County rejects all Offers, the County will keep all the Offers
+as part of the County's solicitation file.
+
+Stats. Implemented: ORS 279C.395 & 279B.100.
+
+5.49.500 EVALUATION AND AWARD OF THE CONTRACT
+
+5.49.505 Offer Evaluation and Award.
+
+(1) General. If awarded, the County will award the contract to the Responsible Bidder submitting
+the lowest Responsive Bid or the Responsible Proposer submitting the best Responsive Proposal.
+The County may award by item, groups of items, or the entire Offer, provided that such an award is
+consistent with the Solicitation Document and in the public interest. The County may reject any or
+all Offers:
+
+(a) Not in compliance with the Solicitation Documents;
+(b) Not in compliance with all prescribed public solicitation procedures; or
+(c) For good cause, upon the County's finding that it is in the public interest to do so.
+
+(2) County Evaluation. The County will evaluate an Offer only as set forth in the Solicitation
+Document and in accordance with applicable law. The County may not evaluate an Offer using any
+other requirement or criterion.
+
+(3) Offeror Submissions.
+
+(a) The County may require an Offeror to submit product samples, descriptive literature,
+technical data, or other material and may also require any of the following prior to award:
+(A) Demonstration, inspection, or testing of a product prior to award for characteristics such as
+quality or workmanship;
+(B) Examination of such elements as appearance, finish, taste, or feel; or
+(C) Other examinations to determine whether the product conforms to Specifications.
+(b) The County will evaluate product acceptability only in accordance with the criteria
+disclosed in the Solicitation Document to determine that a product is acceptable. The County will
+reject an Offer that provides a product that does not meet the Solicitation Document requirements.
+The County's rejection of an Offer because it Offers nonconforming work or goods is not
+Disqualification and is not appealable under ORS 279C.445.
+
+(4
+) Evaluation of Proposals.
+
+(a) The County will evaluate Proposals only in accordance with criteria set forth in the RFP
+and applicable law.  The County will evaluate Proposals to determine the Responsible Proposer
+submitting the best Responsive Proposal. The County may seek information from a Proposer only to
+clarify the Proposer's Proposal.  Such clarification may not vary, contradict, or supplement the
+Proposal. The County may not seek clarification of a nonresponsive Proposal. A Proposer must
+submit written and signed clarifications, and the clarifications become part of the Proposer's
+Proposal. Unless the County has permitted negotiation in accordance with Section 5.49.420 in its
+Request for Proposals, the County may negotiate only:
+(A) The statement of Work; and
+(B) The Contract Price as it is affected by negotiating the statement of Work.
+(b) If the County permitted negotiation in the Request for Proposals in accordance with
+Section 5.49.420, the County will evaluate Proposals and negotiate as follows:
+(A) If the Solicitation Document provided that negotiation may occur at the County's discretion, the
+County may forgo negotiations and evaluate all Proposals in accordance with subsection (5)(a) of
+this rule.
+(B) Unless the solicitation is canceled, after the Opening the County will evaluate all Proposals in
+accordance with the evaluation criteria.  After evaluation of all Proposals in accordance with the
+criteria set forth in the Request for Proposals, the County may negotiate with the highest -ranked
+Proposer or may determine the Proposers in the Competitive Range. The County may increase the
+Competitive Range if the County's evaluation of Proposals establishes a natural break in the scores of
+Proposers that indicates a number greater than the initial Competitive Range.
+(C) The County will establish a negotiation team tailored for the acquisition. The County's team
+may include legal, technical, and negotiating personnel.
+(D) In addition to the statement of Work and the Contract Price as it is affected by negotiating the
+statement of Work, the County will negotiate only other terms and conditions that are expressly
+authorized for negotiation under the Request for Proposals. A Proposer may submit alternative terms
+and conditions only to the terms and conditions the County expressly authorized for negotiation
+under the Request for Proposal.
+(E) If the County determines a Competitive Range, the County must provide written notice to all
+Proposers identifying Proposers in the Competitive Range. A Proposer that is not within the
+Competitive Range may protest the County's evaluation and determination of the Competitive Range
+in accordance with Section 5.49.530(5) of these rules. All Proposals are open for public inspection
+subject to the Oregon Public Records Law.
+(F) After the protest period provided in accordance with paragraph (5)(b)(E) expires, or after the
+County has provided a final response to any protest, whichever date is later, the County may begin
+negotiating with Proposers in the Competitive Range. The County's negotiation team may not favor
+any particular Proposer.  The County may negotiate the Contract Price, designated terms and
+conditions, and the statement of Work. But the County may negotiate the Contract Price only to the
+extent that the Proposer would not be excluded from the Competitive Range, based on the County's
+evaluation criteria set forth in the Solicitation Document. The County may negotiate an alternative
+term or condition submitted by a Proposer only if the alternative term or condition is reasonably
+related to the term or condition the County authorized as negotiable. The County may not negotiate
+any other terms or conditions set forth in the Request for Proposals.
+(G) The County may evaluate Offers negotiated with Proposers in the Competitive Range at any
+time during the negotiation process to determine whether the County will:
+(i) Continue negotiating with a particular Proposer; or
+(ii) Terminate negotiations with a particular Proposer and continue negotiating with other
+Proposers in the Competitive Range; or
+(iii) Conclude negotiations with all remaining Proposers in the Competitive Range in
+accordance with this paragraph (5)(b)(G).
+(H) The County may terminate negotiations with a Proposer at any time. If the County does not
+cancel the solicitation at the conclusion of the County's negotiation with all remaining Proposers in
+the Competitive Range, the County will score the Proposals in the Competitive Range based on the
+evaluation criteria in the Request for Proposals.
+(I) The County must provide written notice of intent to award the Contract to all Proposers. An
+unsuccessful Proposer may protest the County's evaluation and determination in accordance with
+5.49.530.
+(J) Nothing in this section (5) restricts or prohibits the County from canceling the solicitation at
+any time in accordance with Section 5.49.495.
+Stats. Implemented: ORS 279C.335, 279C.365, 279C.370, 279C.375, 279C.395, 279B.110 &
+279B.060.
+
+5.49.510  Bid  or Proposal Evaluation and Award.
+
+(1) General. A Public Improvement contract, if awarded, must be awarded to the lowest
+Responsive and Responsible Bidder or the best Responsive and Responsible Proposer.
+
+(2) Special requirements. The Solicitation Documents must set forth any special requirements
+and criteria that will be used to determine the lowest Responsive and Responsible Bidder or best
+Responsive and Responsible Proposer. No Bid or Proposal may be evaluated for any requirement or
+criterion that is not disclosed in the Solicitation Documents or County regulation.
+
+(3) Bid Evaluation and Award. The evaluation format for competitive Bid pricing can be lump
+sum, unit price, or a combination of the two.
+
+(a) Lump Sum. If the Bid form includes a lump- sum base Bid, plus additive or deductive
+alternates, the total Bid price, for the purpose of comparing Bids, will be the total sum computed
+from adding or deducting alternates, as selected by the County, to the base Bid. If the Bid form
+requires a lump-sum Bid, without additive or deductive alternates, or if the County has selected no
+additive or deductive alternates for award, Bids will be compared on the basis of lump-sum prices, or
+lump-sum base Bid prices, as applicable.
+(b) Un it  Price. If the Bid includes unit prices and extensions for estimated quantities, the total
+Bid price, for the purpose of comparing Bids, will be the total sum computed from multiplying
+estimated quantities by the unit prices entered on the Bid form by the Bidder, with due adjustments
+being made for additive or deductive alternates, if any, selected for award. In case of a conflict
+between a unit price and the corresponding extended amount, the unit price will govern, as provided
+in Section 5.49.485.
+(c) Combination Lump Sum and Unit Price. The County may select a combination of factors
+for purposes of Bid evaluation and contract award and use the methods described in (a) and (b) to
+compute and compare Bids.
+
+(4) Proposal Evaluation and Award. If an alternative contracting method is authorized by the
+County's public contract review authority pursuant to ORS 279C.335 for use in procuring a Public
+Improvement, Proposals must be evaluated to determine which Proposer Offers the best solution to
+the County in accordance with the evaluation criteria set forth in the Solicitation Documents and in
+accordance with any applicable County rules.
+
+(5) No Assignment or Transfer of Contract Rights. A contractor may not assign, sell, or neither
+transfer rights nor delegate responsibilities under a public contract, either in whole or in part, without
+first obtaining the County's prior written consent. Such written consent will not relieve a contractor
+of any obligations under a public contract, and any transferee will be considered the agent of the
+contractor and bound to abide by all provisions of the public contract. Except in the event of a
+novation, if the County consents in writing to an assignment, sale, or transfer of the contractor's
+rights and responsibilities, the contractor will remain ultimately liable to the County for complete
+performance of the public contract as if no such assignment, sale, or transfer had occurred.
+Stats. Implemented: ORS 279A.065 & 279C.335.
+
+5.49.515  Rejection of Individual Bids  or Proposals.
+
+(1) General. In accordance with ORS 279C.395, the County may reject any Offer not in
+compliance with all prescribed solicitation procedures and requirements and may reject for good
+cause any Offer upon the County's written finding that it is in the public interest to do so.
+
+(2) Rejection. The County must reject an Offer upon the County's finding of any of the following:
+(a) That the County required mandatory prequalification, but the Offeror has not been
+prequalified under ORS 279C.430 or the Offeror has been disqualified.
+(b) That the contract is for a Public Work, and the Commissioner of the Bureau of Labor and
+Industries has declared the Offeror ineligible under ORS 279C.860.
+(c) That the Offer is contingent on the County's acceptance of terms and conditions (including
+Specifications) that differ from the Solicitation Document, or the Offeror takes exception to terms
+and conditions (including Specifications), or an Offer attempts to prevent public disclosure of
+matters in contravention of the terms and conditions of Solicitation Document or in contravention of
+applicable law.
+(d) That the Offered Work or goods fail to meet the Specifications of the Solicitation
+Document.
+(e) That the Offeror is not responsible. Offerors are required to demonstrate their ability to
+perform satisfactorily under a contract. Before awarding a contract, the County must have
+information that indicates that the Offeror meets the applicable standards of responsibility. To be a
+Responsible Offeror, the County must determine that the Offeror:
+(A) Has available the appropriate resources and expertise, or the ability to obtain the resources and
+expertise, necessary to demonstrate the capability of the Offeror to meet all contractual
+responsibilities.
+(B) Has a satisfactory record of contract performance. The County should carefully scrutinize an
+Offeror’s record of contract performance if the Offeror is or recently has been materially deficient in
+contract performance. In reviewing the Offeror’s performance, the County should determine whether
+the Offeror’s deficient performance was expressly excused under the terms of contract or the Offeror
+took appropriate corrective action. The County may review the Offeror’s performance on both
+private and public contracts in determining the Offeror’s record of contract performance. The County
+will make its basis for determining an Offeror non- responsible under this paragraph part of the
+solicitation file;
+(C) Has a satisfactory record of integrity. An Offeror may lack integrity if the County determines
+that the Offeror demonstrates a lack of business ethics such as violation of state environmental laws
+or false certifications made to the County. The County may find an Offeror non-responsible based on
+the lack of integrity of any Entity having influence or control over the Offeror (such as a key
+employee of the Offeror who has the authority to significantly influence the Offeror’s performance of
+the contract or a parent company, predecessor, or successor Entity). The standards for Conduct
+Disqualification under Section 5.49.515 may be used to determine an Offeror’s integrity. The
+County will make its basis for determining that an Offeror is non-responsible under this paragraph
+part of the solicitation file.
+(D) Is qualified legally to contract with the County.
+(E) Has supplied all necessary information in connection with the inquiry concerning
+responsibility. If the Offeror fails to promptly supply information requested by the County
+concerning responsibility, the County will base the determination of responsibility upon any
+available information or may find the Offeror non-responsible.
+(f) That the contract is for a Public Improvement, and the Construction Contractors Board
+lists the Offeror as not qualified.
+(g) That the Offeror has not met the requirements of ORS 279A.105(1) or 279A.105(2) if
+required by the Solicitation Document.
+(h) That the Offeror has not submitted properly executed Bid or Proposal security as required
+by the Solicitation Document.
+(i) That the Offeror has failed to provide the certification required under Section 4 of this
+rule.
+(j) That other circumstances relevant to the Offer or Offeror indicate that acceptance of the
+Offer may impair the integrity of the competitive procurement process.
+
+(3) Form of Business Entity. For purposes of this rule, the County may investigate any Entity
+submitting an Offer so that previously disqualified Entities or their officers and directors or principal
+owners may not by subterfuge, change of ownership, or other adjustments in formal appearance
+avoid application of this rule or of the disqualification provisions of ORS 279C.440 to 279C.450 and
+Section 5.49.515.
+
+(4) Certification of Nondiscrimination. The Offeror must certify and deliver to the County
+written certification as part of the Offer that the Offeror has not discriminated against minorities,
+women, or emerging small business enterprises in obtaining any required subcontracts.
+
+Stats. Implemented: ORS 279C.375, 279C.380, 279C.395, 279C.105, 279C.110, 279B.100 &
+279B.110.
+
+5.49.520  Disqualification of  an Entity.
+
+(1) Authority. The County may disqualify an Entity from consideration of award of the County's
+contracts after providing the Entity with notice and a reasonable opportunity to be heard in
+accordance with Sections (2), (3) & (4) of this rule.
+
+(a) Standards for Conduct Disqualification. As provided in ORS 279C.440, the County may
+disqualify an Entity for:
+(A) Conviction of a criminal offense in obtaining or attempting to obtain a public or private
+contract, or subcontract or in the performance of a contract or subcontract.
+(B) Conviction under state or federal statutes of embezzlement, theft, forgery, bribery, falsification
+or destruction of records, receiving stolen property, or any other offense indicating a lack of business
+integrity or business honesty that currently, seriously, and directly affects the Entity's responsibility
+as a contractor.
+(C) Conviction under state or federal antitrust statutes.
+(D) Violation of a contract provision that is regarded by the County to be so serious as to justify
+Disqualification. A violation under this subsection (1)(a)(D) may include but is not limited to
+material failure to perform the terms of a contract or an unsatisfactory performance in accordance
+with the terms of the contract. But an  Entity's failure to perform or its unsatisfactory performance
+caused by acts beyond the Entity's control is not a basis for Disqualification.
+(b) Standards for DBE Disqualification. As provided in ORS 200.065, 200.075 or 279A.110,
+the County may disqualify an Entity's right to submit an Offer or to participate in a contract (e.g.,
+subcontractors) as follows:
+(A) For a DBE Disqualification under ORS 200.065, the County may disqualify an Entity upon a
+finding that:
+(i) The Entity fraudulently obtained or retained, or attempted to obtain or retain, or aided
+another person to fraudulently obtain or retain, certification as a disadvantaged, minority, women, or
+emerging small business enterprise; or
+(ii) The Entity knowingly made a false claim that any person is qualified for certification or is
+certified under ORS 200.055 for the purpose of gaining a contract or subcontract or other benefit; or
+(iii) The Entity has been disqualified by another County pursuant to ORS 200.065.
+(B) For a DBE Disqualification under ORS 200.075, the County may disqualify an Entity upon a
+finding that:
+(i) The Entity has entered into an agreement representing that a disadvantaged, minority,
+women, or emerging small business enterprise, certified pursuant to ORS 200.055 ("Certified
+Enterprise"), will perform or supply materials under a Public Improvement cont ract without the
+knowledge and consent of the Certified Enterprise; or
+(ii) The Entity exercises management and decision-making control over the internal
+operations, as defined by ORS 200.075(1)(b), of any Certified Enterprise; or
+(iii) The Entity uses a disadvantaged, minority, women, or emerging small business enterprise
+to perform services under a contract or to provide supplies under a Public Improvement contract to
+meet an established DBE/MBE/WBE/ESB goal, and the enterprise does not perform a commercially
+useful function, as defined by ORS 200.075(3), in performing its obligations under the contract.
+(iv) If an Entity is Disqualified for a DBE Disqualification under ORS 200.075, the affected
+County shall not permit such Entity to participate in that County's contracts.
+(C) For a DBE Disqualification under ORS 279A.110, the County may disqualify an Entity if the
+County finds that the Entity discriminated against minority, women, or emerging small business
+enterprises in awarding a subcontract under a prior contract with that County.
+
+(2) Notice of Intent to Disqualify. The County must notify the Entity in writing of a proposed
+Disqualification personally or by registered or certified mail, return receipt requested. This notice
+must:
+
+(a) State that the County intends to disqualify the Entity;
+(b) Set forth the reasons for the Disqualification;
+(c) Include a statement of the Entity's right to a hearing if requested in writing within the time
+stated in the notice and that if the County does not receive the Entity's written request for a hearing
+within the time stated, the Entity will have waived its right to a hearing.
+(d) Include a statement of the authority and jurisdiction under which the hearing will be held;
+(e) Include a reference to the particular sections of the statutes and rules involved;
+(f) State the proposed Disqualification period; and
+(g) State that the Entity may be represented by legal counsel.
+
+(3) Hearing. The County must schedule a hearing upon the County's receipt of the Entity's timely
+request. The County must notify the Entity of the time and place of the hearing and provide
+information on the procedures, right of representation, and other rights related to the conduct of the
+hearing prior to hearing.
+
+(4) Notice of Disqualification.  The County must notify the Entity in writing of its
+Disqualification, personally or by registered or certified mail, return receipt requested. The notice
+must contain:
+
+(a) The effective date and period of Disqualification;
+(b) The grounds for Disqualification; and
+(c) A statement of the Entity's appeal rights and applicable appeal deadlines. For a Conduct
+Disqualification or a DBE Disqualification under ORS 279A.110, the Disqualified Entity must notify
+the County in writing within three business days after receipt of the County's notice of
+Disqualification if the Entity intends to appeal the County's decision.
+Stats. Implemented: ORS 200.065, ORS 200.075, ORS 279C.440, 279C.445, 279C.450 & ORS
+279A.110.
+5.49.525 Rejection of All Offers.
+
+(1) Rejection. The County may reject all Offers for good cause upon the County's written finding
+that it is in the public interest to do so. The County will notify all Offerors of the rejection of all
+Offers, along with the good-cause justification and finding.
+
+(2) Criteria. The County may reject all Offers upon a written finding that:
+
+(a) The content of or an error in the Solicitation Document, or the solicitation process
+unnecessarily restricted competition for the contract;
+(b) The price, quality, or performance presented by the Offerors is too costly or of insufficient
+quality to justify acceptance of the Offer;
+(c) Misconduct, error, or ambiguous or misleading provisions in the Solicitation Document
+threaten the fairness and integrity of the competitive process;
+(d) Causes other than legitimate market forces threaten the integrity of the competitive
+procurement process, including but not limited to causes that tend to limit competition, such as
+restrictions on competition, collusion, corruption, unlawful anticompetitive conduct, and inadvertent
+or intentional errors in the Solicitation Document;
+(e) The County cancels the solicitation in accordance with Section 5.49.530; or
+(f) Any other circumstance indicating completion of the solicitation would not be in the
+public interest.
+
+Stats. Implemented: ORS 279C.395 & 279B.100.
+
+5.49.530 Protest of Contractor Selection, Contract Award.
+
+(1) Purpose. An adversely affected Offeror must exhaust all avenues of administrative review and
+relief before seeking judicial review of the County's contractor selection or contract award decision.
+
+(2) Notice of Competitive Range. If the County chooses to determine a Competitive Range, the
+County must provide written notice to all Proposers of the County's determination of the Proposers
+included in the Competitive Range. The County's notice of the Proposers included in the
+Competitive Range will not be final until the later of the following:
+
+(a) Ten Days after the date of the notice, unless otherwise provided therein; or
+(b) Until the County provides a written response to all timely  filed protests that denies the
+protest and affirms the notice of the Proposers included in the Competitive Range.
+
+(3) Notice of Intent to Award.  Unless otherwise provided in the Solicitation Document, the
+County will provide written notice to all Offerors of the County's intent to award the contract. The
+County's award will not be final until the later of the following:
+(a) Seven Days after the date of the notice, unless otherwise provided therein; or
+(b) Until the County provides a written response to all timely  filed protests that denies the
+protest and affirms the award.
+
+(4) Right to Protest Award.
+
+(a) An adversely affected Offeror may submit to the County a written protest of the County's
+intent to award within ten Days after issuance of the notice of intent to award the contract, unless a
+different protest period is provided under the Solicitation Document.
+(b) The Offerors protest must be in writing and must specify the grounds on which the protest
+is based.
+(c) An Offeror is adversely affected only if the Offeror is eligible for award of the contract as
+the Responsible Bidder submitting the lowest Responsive Bid or the Responsible Proposer
+submitting the best Responsive Proposal and is next in line for the award, i.e., the protesting Offeror
+must claim that all lower Bidders or higher-scored Proposers are ineligible for the award:
+(A) Because their Offers were nonresponsive; or
+(B) The County committed a substantial violation of a provision in the Solicitation
+Document or of an applicable procurement statute or administrative rule, and the
+protesting Offeror was unfairly evaluated and would have, but for such substantial
+violation, been the lowest Bidder or the highest-ranked Proposer.
+(d) The County will not consider a protest submitted after the period established in this rule or
+a different period that might be provided in the Solicitation Document.
+
+(5) Right to Protest Competitive Range.
+
+(a) An adversely affected Proposer may submit to the County a written protest of the County's
+decision to exclude the Proposer from the Competitive Range within ten Days after issuance of the
+notice of the Competitive Range, unless a different protest period is provided under the Solicitation
+Document.
+(b) The Proposer's protest must be in writing and must specify the grounds on which the
+protest is based.
+(c) A Proposer is adversely affected only if the Proposer is responsible and submitted a
+Responsive Proposal and is eligible for inclusion in the Competitive Range, i.e., the protesting
+Proposer must claim that it is eligible for inclusion in the Competitive Range if all ineligible higher-
+scoring Proposers are removed from consideration and that those ineligible Proposers are ineligible
+for inclusion in the Competitive Range because:
+(A) Their Proposals were not responsive; or
+(B) The County committed a substantial violation of a provision in the RFP or of an
+applicable procurement statute or administrative rule, and the protesting Proposer was
+unfairly evaluated and would have, but for such substantial violation, been included in
+Competitive Range.
+(d) The County will not consider a protest submitted after the period established in this rule or
+a different period that might be provided in the Solicitation Document. A Proposer may not protest
+the County's decision to not increase the Competitive Range above the Competitive Range set forth
+in the RFP.
+
+(6) Authority to Resolve Protests. The head of the County, or that person's designee, has the
+authority to settle or resolve a written protest submitted in accordance with the requirements of this
+rule.
+
+(7) Decision. If a protest is not settled, the head of the County, or that person's designee, must
+promptly issue a written decision on the protest. Judicial review of this decision will be available if
+provided by statute.
+( See ORS 279B.415, 279B.420, 279B.425, 279C.450 & 279C.460).
+
+(8) Award. The successful Offeror must promptly execute the contract after the award is final.
+The County will execute the contract only after it has obtained all applicable required documents and
+approvals.
+
+Stats. Implemented: ORS 279B.400, 279C.375, 279C.380, 279C.390, 279B.135,279B.400,
+279B.075, 279B.405, 279B.115, 279B.420, 279B.425 & 279B.060.
+
+5.49.535  Negotiation  with Bidders Prohibited.
+
+(1) Bids. Except as permitted by ORS 279C.340, the County may not negotiate with any Bidder.
+After award of the contract, the County and the contractor may modify the contract only by change
+order or amendment to the contract and in accordance with Section XXX
+
+(2) Requests for Proposals. The County may negotiate with Proposers only in accordance with
+Sections 5.49.420 and 5.49.505.
+
+Stats. Implemented: ORS 279C.340 & 279C.375.
+
+5.49.540  Negotiation  When Bids Exceed Cost Estimate.
+
+(1) General. In accordance with ORS 279C.340, if all responsive and responsible Bids on a
+competitively Bid Project exceed the County's Cost Estimate, prior to a contract award the County
+may negotiate Value Engineering and Other Options with the lowest responsive and responsible
+Bidder in an attempt to bring the project within the County's Cost Estimate.
+
+(2) Rejection of Bids. In determining whether "all responsive and responsible Bids" exceed the
+Cost Estimate, only those Bids that have been formally rejected by the County in accordance with
+public contracting law may be excluded from consideration.
+
+(3) Scope of Negotiations. Negotiations will not result in contract award if the scope of the
+Project is significantly changed from the original Bid.  The  scope is considered to have been
+significantly changed if the pool of competition would likely have been affected by the change; that
+is, if other Bidders would have been expected to participate in the Bidding process had the change
+been made during the solicitation process rather than during negotiation. This rule cannot be
+construed to prohibit resolicitation of trade subcontracts.
+
+(4) Discontinuing Negotiations. The County may discontinue negotiations at any time and will
+do so if it appears to the County that the apparent low Bidder is not negotiating in good faith or fails
+to share cost and pricing information upon request. Failure to rebid any portion of the project or to
+obtain subcontractor pricing information upon request will be considered a lack of good faith.
+
+(5) Limitation. Negotiations may be undertaken only with the lowest Responsive and Responsible
+Bidder pursuant to ORS 279C. 340. That statute does not provide any additional authority to further
+negotiate with Bidders next in line for contract award.
+
+(6) Public Records. ORS 279C.340 may not be construed as creating any additional public
+records if that result is not otherwise contemplated by the Public Records law, ORS Chapter 192.
+Records of a Bidder used in contract negotiations under that statute may not become public records
+unless they are also submitted to the County. In any event the records are exempt from disclosure
+until after the negotiated contract is awarded or after the negotiation process has been terminated.
+
+Stats. Implemented: ORS 279C.340.
+
+5.49.545  Documentation of  Award & Availability of Award Decisions.
+
+(1) Basis of Award. After award, the County will make a record showing the basis for
+determining the successful Offeror part of the County's solicitation file.
+
+(2) Contents of Award Record. The County's record must include:
+
+(a) Bids.
+(A) Completed Bid tabulation sheet; and
+(B) Written justification for any rejection of lower Bids.
+(b) Proposals.
+(A) Completed evaluation of the Proposals;
+(B) Written justification for any rejection of higher scoring Proposals or for failing to
+meet mandatory requirements of the Request for Proposal; and
+(C) If the County permitted negotiations in accordance with 5.49.420, the County's
+completed evaluation of the initial Proposals and the County's completed evaluation of
+final Proposals.
+
+(3) Contract Documents.  To the extent required, the County will deliver to the successful
+Offeror, a Signed purchase order, price agreement, or other contract document(s), as applicable.
+(4) Notification to Unsuccessful Offerors. An Entity may obtain tabulations of awarded Bids or
+evaluation summaries of Proposals for a nominal charge, in person or by submitting to the County a
+written request accompanied by payment. The request must provide the Solicitation Document
+number and enclose a self-addressed, stamped envelope. In addition, many tabulations of Bids and
+Proposals awarded by the Oregon Department of Administrative Services and other participating
+agencies are available on-line through the State of Oregon Vendor Information Program.
+
+(5) Availability of Solicitation Files.  The County must make completed solicitation files
+available for public review at the County.
+
+(6) Copies From Solicitation Files. Any Entity may obtain copies of material from solicitation
+files upon payment of a reasonable copying charge.
+
+Stats. Implemented: ORS 279C.365, 279C.375, 279B.055 & 279B.060.
+5.49.550  Performance & Payment Security.
+
+(1) Public Improvement Contracts. The contractor must execute and deliver to the  County a
+performance bond and a payment bond in a sum equal to the Contract Price for all Public
+Improvement contracts in excess of $10,000. Exceptions:
+
+(a) The County Administrator may, in the County Administrator's discretion, waive the bond
+requirements of ORS 279C.380 if the amount of the Public Improvement Contract is less than
+$100,000.
+(b) The County Contract Review Board exempts a contract or class of contracts from the
+required performance bond under ORS 279C.390.
+
+(2) Other Public Contracts.  The County may require performance security for other public
+contracts. The requirements must be expressly set forth in the Solicitation Document.
+
+(3) Requirement for Surety Bond. The County will accept only a performance bond furnished by
+a surety company authorized to do business in Oregon unless otherwise specified in the Solicitation
+Document (i.e., the County may accept a cashier's check or certified check in an amount equal to 100
+percent of the Contract Price if specified in the Solicitation Document).
+
+(4) Time for Submission. The apparent successful Offeror must promptly furnish the required
+performance security upon the County's request.  If the Offeror fails to furnish the security as
+requested, the County may reject the Offer and award the contract to the Responsible Bidder with the
+next lowest Responsive Bid or to the Responsible Proposer with the next highest-scoring Responsive
+Proposal, and at the County's discretion, the Offeror will forfeit its Bid or Proposal security.
+
+Stats. Implemented: ORS 279C.380, 279C.390 & 279C.600.
+5.49.555 Substitute Contractor.
+
+If the contractor provided a performance and payment bond, the County may afford the contractor's
+surety the opportunity to provide a substitute contractor to complete performance of the contract. A
+substitute contractor must perform all remaining contract Work and comply with all terms and
+conditions of the contract, including the provisions of the performance and payment bond.
+Substitute performance does not involve the award of a new contract and is not subject to the
+competitive procurement provisions of ORS 279C.
+Stats. Implemented: ORS 279C.365, 279C.370, 279C.375, 279C.380 & 279C.390.
+
+5.49.560 Foreign Contractor.
+
+If the Contract Price exceeds $10,000 and the contractor is a Foreign Contractor, the contractor must
+promptly report to the Oregon Department of Revenue on forms provided by the Department of
+Revenue, the Contract Price, terms of payment, contract duration, and any other information the
+Department of Revenue may require before final payment can be made on the contract. A copy of
+the report must be forwarded to the County. The County awarding the contract must satisfy itself
+that the above requirements have been complied with before it issues final payment on the contract.
+
+Stats. Implemented: ORS 279A.065.
+5.49.565 Records Maintenance; Right to Audit Records.
+
+(1) Records Maintenance; Access.
+
+(a) Contractors and subcontractors must maintain all fiscal records relating to contracts in
+accordance with generally accepted accounting principles ("GAAP"). In addition, contractors and
+subcontractors must maintain all other records necessary to clearly document:
+(A) Their performance; and
+(B) Any claims arising from or relating to their performance under a public contract.
+(b) Contractors and subcontractors must make all records pertaining to their performance and
+any claims under a contract (the books, fiscal records, and all other records, hereafter referred to as
+"Records") accessible to the County at reasonable times and places, whether or not litigation has
+been filed as to such claims.
+
+(2) Inspection and Audit. The County may at reasonable times and places have access to and an
+opportunity to inspect, examine, copy, and audit the Records of any Entity that has submitted cost or
+pricing data according to the terms of a contract to the extent that the Records relate to such cost or
+pricing data. If the Entity must provide cost or pricing data under a contract, the Entity must
+maintain the Records that relate to the cost or pricing data for three years from the date of final
+payment under the contract, unless a shorter period is otherwise authorized in writing.
+
+(3) Records Inspection; Contract Audit. The County and its authorized representatives are
+entitled to inspect, examine, copy, and audit any contractor's or subcontractor's Records, as provided
+in Section (1) of this rule. The contractor and subcontractor must maintain the Records and keep the
+Records accessible and available at reasonable times and places for at least three years from the date
+of final payment under the contract or subcontract, as applicable, or until the conclusion of any audit,
+controversy, or litigation arising out of or related to the contract, whichever date is later, unless a
+shorter period is otherwise authorized in writing.
+
+Stats. Implemented: ORS 279A.030, 279C.375 & 279C.440.
+
+5.49.570  Right to  Inspect Plant.
+
+(1) Time for Inspection.  The County may inspect the part of the plant or the contractor's or
+subcontractor's place of business that is related to the performance of any awarded contract.
+
+(2) Access. Offerors agree as a condition of submitting an Offer that the County's representative
+may enter an Entity's plant or place of business during normal business hours for the following
+purposes:
+
+(a) To inspect and/or test supplies or services for the County's acceptance pursuant to the
+terms of the Offer; and
+(b) To investigate a minority business certification, or Offeror qualification in connection with
+an Offerors application.
+
+(3) Contractual Provisions. A contract may provide that the County may inspect supplies and
+services at the contractor's or subcontractor's facility and perform tests to determine whether such
+supplies and services conform to the Solicitation Document or to the contract requirements and are
+acceptable. The inspections and tests must be conducted in accordance with the terms of the
+contract.
+
+(4) Procedures. The County may establish operational procedures governing the testing and trial
+use of equipment, materials, and the application of resulting information and data to Specifications
+or procurements.
+
+(5) Conduct of Inspections.
+
+(a) The County, or authorized representative, will inspect or test so as not to unduly delay the
+Work of the contractor or subcontractor. The inspector may not require a change in the contract,
+including the Specifications, without the County's written authorization, unless otherwise specified
+in the Solicitation Document. The presence or absence of an inspector will not relieve the contractor
+or subcontractor from any requirement of the contract.
+(b) When an inspection is made in the plant or place of business of a contractor or
+subcontractor, the contractor or subcontractor must provide without charge all reasonable facilities
+and assistance for the safety and convenience of the County or authorized representative performing
+the inspection or testing.
+(c) The inspector must perform inspection or testing of supplies and services at the plant or
+place of business of a contractor or subcontractor at reasonable times during normal business hours.
+
+(6) Inspection of Construction Projects.  The County or its authorized representative may
+perform on-site inspection of construction in accordance with the terms of the contract.
+
+Stats. Implemented: ORS 279C.375 & 279C.440.
+
+5.49.600 ALTERNATIVE CONTRACTING METHODS FOR PUBLIC
+IMPROVEMENT CONTRACTS
+
+5.49.610 Purpose.
+
+These rules are intended to provide guidance on the use of Alternative Contracting Methods for
+Public Improvement contracts as may be directed by the Contract Review Board after the approval of
+appropriate findings under ORS 279C.335. ( See ORS 279C.330 and Section 5.49.645 of these
+rules). Those methods include but are not limited to Design/Build, Energy Savings Performance
+Contract (ESPC) and Construction Manager/General Contractor (CM/GC) form s of contracting.
+These rules also specify the circumstances under which Competitive Negotiation or Noncompetitive
+Negotiation may be utilized (e.g., when all Bids exceed a County's cost estimate).
+
+5.49.615 Use of Alternative Contracting Methods.
+
+(1) Competitive Bidding Exemption Required.  ORS Chapter 279C requires a competitive
+Bidding process for Public Improvement contracts unless a statutory exemption applies, a class of
+contracts has been exempted, or an individual contract has been exempted in accordance with ORS
+279C.335 and any applicable County rules. Unless a proposed Public Improvement contract is
+exempt under a statutory exemption or a class exemption, as provided in these rules, the County
+must justify and obtain a special exemption from the Contract Review Board pursuant to Section
+5.49.700.
+
+(2) Competitive Negotiation, Exceptions . Each of these Alternative Contracting Methods
+requires an open and competitive procurement through Competitive Negotiation, as further described
+in these rules
+
+(3) Post-Project Evaluation Required for Contracts Over $100,000. ORS 279C.355 requires
+that the County prepare a formal post-project evaluation of Public Improvement projects in excess of
+$100,000 for which the competitive Bidding process was not used. The purpose of this evaluation is
+to determine whether it was actually in the County's best interest to use an Alternative Contracting
+Method. The evaluation must be delivered to the Contract Review Board within 30 Days of the date
+on which the County "accepts" the Public Improvement project, which event is typically defined in
+the contract documents. In the absence of such definition, acceptance of the project occurs on the
+latter of the date of final payment or the date of final completion of the Work. The evaluation will
+include but not be limited to the following matters:
+
+(a) The actual project cost as compared with original project estimates.
+(b) The amount of any Guaranteed Maximum Price.
+(c) The number of project change orders issued by the public agency.
+(d) A narrative description of successes and failures during the design, engineering, and
+construction of the project.
+(e) An objective assessment of the use of the Alternative Contracting Methods as compared to
+the findings required by ORS 279C.335. Evaluations required by this section must be made
+available  for public inspection.
+
+Stats. Implemented: ORS 279C.335 & 279C.355.
+
+5.49.620 Pricing Mechanisms.
+
+(1) Competitive Negotiation at its simplest may result in a firm fixed price (lump sum) contract, as
+in the case of competitive Bidding, but factors other than price may be considered in the contract
+award. Alternatively, a cost reimbursement contract may be negotiated (e.g., a cost plus fixed fee
+contract in which additional costs beyond those estimated are reimbursable, but the fee does not
+increase for the original Work scope).
+
+(2) Economic incentives or disincentives may be included to reflect stated County purposes
+related to time of completion, safety, or other public contracting objectives, including least -cost
+mechanisms such as life-cycle costing.
+
+(3) A Guaranteed Maximum Price is used as the pricing mechanism for CM/GC if a total contract
+Price is provided in the design phase in order to assist the County in determining whether the project
+scope is within the County's budget and allowing for design changes during preliminary design rather
+than after final design Work has been completed.
+
+(a) If this collaborative process is successful, the contractor will propose a final GMP that
+may be accepted by the County and included within the contract.
+(b) If this collaborative process is not successful and no mutually agreeable resolution on
+GMP can be achieved with the contractor, then the County will terminate the contract with the
+contractor, subject to provisions defined in the contract documents. The County may then proceed to
+negotiate a new contract (and GMP) with the firm that was ranked next in the original selection
+process or employ another suitable means for continuing the project under ORS Chapter 279C and
+these rules.
+
+(4) When cost-reimbursement contracts are utilized, regardless of whether a GMP is included, the
+County must provide for audit control that will effectively verify rates and ensure that costs are
+reasonable, allowable, and properly allocated.
+
+5.49.625  Competitive  Negotiation, Generally.
+
+The County may utilize Competitive Negotiation, in which Proposal evaluation and award follow
+established rules for an RFP process, allowing flexibility in both Proposal evaluation and contract
+negotiation, but only in accordance with state law and County rules.
+
+(1) Proposal Evaluation. Factors in addition to price may be considered in the selection process,
+but only as set forth in the RFP. Proposal evaluation must be as objective as possible. Evaluation
+factors need not be precise predictors of future costs and performance, but to the extent possible such
+evaluation factors must:
+
+(a) Be reasonable estimates based on information available to the County;
+(b) Treat all Proposals equitably; and
+(c) Recognize that public policy requires that Public Improvements be constructed at the least
+overall cost to the County. ORS 279C.305.
+
+(2) Evaluation Factors.
+
+(a) In basic negotiated construction contracting, where the only reason for an RFP is to
+consider factors other than price, those factors may consist of firm and personnel experience on
+similar projects, adequacy of equipment and physical plant, sources of supply, availability of key
+personnel, financial capacity, past performance, safety records, project understanding, proposed
+methods of construction, proposed milestone dates, references, service, and related matters that affect
+cost or quality.
+(b) In CM/GC contracting, in addition to (a) above, those factors may also include the ability
+to respond to the technical complexity or unique character of the project, coordination of multiple
+disciplines, the time required to commence and complete the improvement, and related matters that
+affect cost or quality.
+(c) In Design/Build contracting, in addition to (a) and (b) above, those factors may also
+include design professional qualifications, specialized experience, preliminary design submittals,
+technical merit, design/builder team experience, and related matters that affect cost or quality.
+(3) Contract Negotiations. Contract terms may be negotiated to the extent allowed by the RFP
+and these rules, if the general Work scope remains the same and the field of competition does not
+change as a result of material changes to the requirements stated in the Solicitation Document.
+Terms that may be negotiated consist of details of contract performance, methods of construction,
+timing, assignment of risk in specified areas, fee, and other matters that affect cost or quality.
+
+Stats. Implemented: ORS 279C.305, 279C.335 & 279A.065.
+5.49.630 Design/Build.
+
+(1) General. The Design/Build form of contracting has technical complexities that are not readily
+apparent. The County will utilize this contracting method only with the assistance of knowledgeable
+staff and/or consultants who are experienced in its use. In order to utilize the Design/Build process,
+the County must be able to reasonably anticipate the following benefits:
+
+(a) Obtaining, through a Design/Build team, engineering design, plan preparation, value
+engineering, construction engineering, construction, quality control, and required documentation as a
+fully integrated function;
+(b) Integrating value engineering suggestions into the design phase, as the construction
+contractor joins the project team early with design responsibilities under a team approach, with the
+potential of reducing contract changes;
+(c) Reducing the risk of design flaws, misunderstandings and conflicts inherent in
+construction contractors' building from designs in which they have had no opportunity for input, with
+the potential of reducing contract claims;
+(d) Shortening project time as construction activity (early submittals, mobilization,
+subcontracting and advance Work) commences prior to completion of a "biddable" design, or if a
+design solution is still required (as in complex or phased projects); and
+(e) Obtaining innovative design solutions through the collaboration of the contractor and
+design team that would not otherwise be possible if the contractor had not yet been selected.
+(2) Licensing. If the Design/Build contractor is not a licensed or registered design professional,
+the Design/Build process contemplates that state licensing and registration requirements related to
+architectural and engineering services may be fulfilled by design professionals at the time of entering
+into subcontracts. Under this  approach, Design/Build contractors are not required to fulfill design
+licensing or registration requirements at the time of submitting original Proposals. In order to clearly
+establish that relationship the contract must:
+
+(a) Delineate services to be provided by the Design/Build contractor, versus those services to
+be obtained through design professionals;
+(b) Separate the method and/or amount of compensation to be provided to design
+professionals, versus that provided to the Design/Build contractor; and
+(c) S pecifically  identify the licensed design professionals by individual or firm names.
+
+(3) Contract Requirements. The County’s Design/Build contracting practices must conform to
+the following requirements:
+
+(a) Design Services. The level or type of design services required must be  clearly defined
+within the procurement and contract documents, along with a description of the level or type of
+design services previously performed for the project. The services to be performed must be clearly
+delineated as either design Specifications or performance standards, and performance measurements
+must be identified.
+(b) Professional Liability. The contract documents must clearly identify the liability of design
+professionals with respect to the Design/Build contractor and/or owner, as well as requirements for
+professional liability insurance.
+(c) R isk  Allocation. The contract documents must clearly identify the extent to which the
+owner requires an express indemnification from the Design/Build contractor for any failure to
+perform, including professional errors and omissions, design warranties, construction operations, and
+faulty Work claims.
+(d) Warranties. The contract documents must clearly identify any express warranties made to
+the owner on characteristics or capabilities of the completed project (regardless of whether errors
+occur as the result of improper design, construction, or both), including any warranty that a design
+will be produced that meets the stated project performance and budget guidelines.
+(e) Privity of Contract. The contract documents must clearly identify any third-party
+beneficiary arrangements by which privity of contract may be established between the owner and
+design professional when the design professional is not otherwise under contract directly with the
+owner.
+(f) Incentives. The contract documents must clearly identify any economic incentives and/or
+disincentives, the specific criteria that apply, and their relationship to other financial elements of the
+contract.
+(g) Honoraria. If provided for in the RFP, honoraria or stipends may be provided for early
+design submittals from qualified finalists during the solicitation process on the basis that the County
+is benefited from such deliverables.
+
+Stats. Implemented: ORS 279C.335 & 279A.065.
+
+5.49.635 Construction Manager/General Contractor (CM/GC).
+
+(1) General. The CM/GC form of contracting is a technically complex project-delivery system.
+The County will utilize this contracting method only with the assistance of knowledgeable staff
+and/or consultants who have a demonstrated capability of managing the CM/GC process in the
+necessary disciplines of engineering, construction scheduling and cost control, accounting, legal,
+public contracting, and project management. In order to utilize the CM/GC method, the County must
+reasonably anticipate that use of the process will:
+
+(a) Successfully result in a collaborative or team effort between the owner County, project
+designers and the general contractor (who is required to be particularly suited to a project and
+involved early in the development process); and
+(b) Be particularly advantageous due to the complexity of the project (such as Work involving
+occupied structures, unusual coordination or technical complexities), projects with accelerated
+schedules, multimillion dollar projects, historic renovations, and other uncertainties.
+
+(2) Basis for Payment. The CM/GC process adds specified construction manager services to
+traditional general contractor services, requiring full contract performance within a negotiated
+Guaranteed Maximum Price (GMP). The basis for payment is reimbursable direct costs as defined
+under the contract, plus a fee constituting full payment for Work and services rendered, that together
+may not exceed the GMP.
+
+(3) Contract Requirements. The County must conform its CM/GC contracting practices to the
+following requirements:
+
+(a) Setting the GMP. The GMP must be set at an identified time consistent with industry
+practice, such as between the schematic design phase and the design development phase, or between
+the design development phase and the construction document phase, and must define with
+particularity both what is included and excluded from the GMP. A set of drawings and
+Specifications will be produced establishing the GMP scope.
+(b) A djustments  to the GMP. The contract documents must clearly identify the standards or
+factors under which changes or additional Work will be considered outside of the Work scope and
+warrant an increase in the GMP, as well as criteria for decreasing the GMP. The GMP may not be
+increased without a concomitant increase to the scope defined at the establishing of the GMP.
+(c) Cost Savings. The contract documents must clearly identify the disposition of any cost
+savings resulting from completion of the Work below the GMP; that is, under what circumstances, if
+any, the CM/GC might share in those cost savings, or whether they accrue only to the owner's
+benefit. (Note that unless there is a clearly  articulated reason for sharing such cost savings, they
+should accrue to the County.)
+(d) Cost Reimbursement. The contract documents must clearly identify what items or
+categories of items are eligible for cost reimbursement within the GMP, including any category of
+"General Conditions" (a general grouping of direct costs that are not separately invoiced,
+subcontracted, or included within either overhead or fee), and may also incorporate a mutually
+agreeable cost reimbursement standard.
+(e) Audit. Cost reimbursements must be made subject to final audit adjustment, and the
+contract documents must establish an audit process to ensure that contract costs are allowable,
+properly allocated, and reasonable.
+
+(f) Fee. Compensation for the CM/GC's services will be paid on the basis of a fee that
+includes profit, overhead, and all other indirect or nonreimbursable costs. Costs determined  to be
+included within the fee should be expressly defined wherever possible. The fee, first expressed as a
+proposed percentage of all reimbursable costs, must be identified during and become an element of
+the selection process. The fee will subsequently be expressed as a fixed amount when reimbursable
+costs are established within the GMP.
+(g) I ncentives . The contract documents must clearly identify any economic incentives, the
+specific criteria that apply, and their relationship to other financial elements of the contract
+(including the GMP).
+(h) Controlled Insurance Programs. For projects expected to exceed $75 million, the contract
+documents must clearly identify whether an owner -controlled or contractor-controlled insurance
+program is anticipated or allowable. If so, those documents must clearly identify (1) anticipated cost
+savings from reduced premiums, claims reductions, and other factors; (2) the allocation of cost
+savings; and (3) safety responsibilities and/or incentives.
+(i) Early Work. The RFP shall clearly identify, whenever feasible, the circumstances under
+which any of the following activities may be authorized and undertaken for compensation prior to
+establishing the GMP:
+(A) Early Procurement of materials and supplies;
+(B) Early release of Bid Packages for such things as site development; and
+(C) Other advance Work related to critical components of the Contract.
+(j) Subcontractor Selection. The contract documents must clearly describe the methods by
+which the CM/GC will publicly receive, open, and record sealed Bids or price quotations and
+competitively select subcontractors to perform the contract Work based on price, as well as the
+mechanisms by which the owner may waive those requirements. The documents must also describe
+completely the methods by which the CM/GC and its affiliated or subsidiary entities may compete to
+perform the Work, including at least advance notice to the public of the CM/GC's intent to compete
+and a public Opening of Bids or quotations by an independent party.
+(k) S
+ubcontractor Approvals and Protests. The contract document must clearly establish
+whether the County must approve subcontract awards and to what extent, if any, the County will
+resolve procurement protests of subcontractors and suppliers. The related procedures and reporting
+mechanisms must be established with certainty, including whether the CM/GC acts as the owner's
+"agent" in this process and whether the CM/GC's subcontracting records are considered to be public
+records. In any event, the County will retain the right to monitor the subcontracting process in order
+to protect County interests.
+(l) CM/GC Self-Performance. Whenever feasible, the Contract shall establish the elements of
+Work the CM/GC may self-perform without competition, including, for example, the Work of the
+job-site general conditions. In the alternative, the Contract shall include a process for the County
+approval of CM/GC self-performance.
+(m) Socioeconomic Programs.  The  contract documents must clearly identify conditions
+relating to any required socioeconomic programs (such as Affirmative Action or Prison Inmate Labor
+Programs), including the manner in which such programs affect the CM/GC's subcontracting
+requirements, the
+enforcement mechanisms available, and the respective responsibilities of the CM/GC and owner.
+
+Stats. Implemented. ORS 279C.335 & 279C. 380 (2).
+5.49.640 Energy Savings Performance Contracts (ESPC)
+Generally. The rules in this section include a limited, efficient method for the County to enter into
+ESPCs outside the competitive Bidding requirements of ORS 279C.335 for existing buildings or
+structures, but not for new construction. If the County chooses not to utilize the ESPC Procurement
+method provided for by these rules, they may still enter into an ESPC by complying with the
+competitive Bidding exemption process set forth in ORS 279C.335, or by otherwise complying with
+the Procurement requirements applicable to any County not subject to all the requirements of ORS
+279C.335.
+(2) ESPC Contracting Method. The ESPC form of contracting means a Public Improvement
+Contract between the County and a Qualified Energy Service Company for the identification,
+evaluation, recommendation, design, and construction of Energy Conservation Measures (ECMs)
+including a Design-Build Contract that guarantees energy savings or performance. This form of
+contract has unique technica1 complexities associated with the determination of what ECMs are
+feasible for the County, as well as the additional technical complexities associated with a Design-
+Build Contract. The County shall only utilize the ESPC contracting method with the assistance of
+knowledgeable staff or consultants who are experienced in its use. In order to utilize the ESPC
+contracting process, the County must be able to reasonably anticipate one or more of the following
+types of benefits:
+(a) Obtaining, through an ESCO, the following types of integrated services: facility profiling,
+energy baseline studies, ECMs, Technical Energy Audits, project development planning, engineering
+design, plan preparation, cost estimating, life cycle costing, construction administration, project
+management, construction, quality control, operations and maintenance staff training, commissioning
+services, M & V services and required documentation as a fully integrated function with a single
+point of responsibility; (b) Obtaining, through an ESCO, an Energy Savings Guarantee;
+(c) Integrating the Technical Energy Audit phase and the Project Development Plan phase into the design and construction phase of Work on the project;
+(d) Reducing the risk of design flaws, misunderstandings and conflicts inherent in the
+construction process, through the integration of ESPC services;
+(e) Obtaining innovative design solutions through the collaboration of the members of the
+ESCO integrated ESPC services team;
+(f) Integrating cost-effective ECMs into an existing building or structure, so that the ECMs
+pay for themselves through savings realized over the useful life of the ECMs;
+(g) Preliminary design, development, implementation and an Energy Savings Guarantee of
+ECMs into an existing building or structure through an ESPC, as a distinct part of a major remodel
+of that building or structure that is being performed under a separate remodeling Contract; and
+(h) Satisfying local energy efficiency design criteria or requirements.
+(3) Authority. Contracting Agencies desiring to pursue an exemption from the competitive Bidding
+requirements of ORS 279C.335 (and, if applicable, ORS 351.086), shall utilize the ESPC form of
+contracting only in accordance with the requirements of 5.49.610 to 5.49.640.
+(4) No Findings Required. The County is only required to comply with the ESPC contracting
+procedures set forth in these rules in order for the ESPC to be exempt from the competitive Bidding
+processes of ORS 279C.335. No Findings are required for an ESPC to be exempt from the
+competitive Bidding process for Public Improvement Contracts pursuant to ORS 279C.335, unless
+the The County is subject to the requirements of ORS 279C.335 and chooses not to comply with the
+ESPC contracting procedures set forth in these rules.
+(5) Selection. ESPC selection criteria may include those factors set forth above in 5.49.420 (2)(b),
+(3), (4) & 5.49.505. Since the Energy Savings Guarantee is such a fundamental component in the
+ESPC contracting process, Proposers must disclose in their Proposals the identity of any Person
+providing (directly or indirectly) any Energy Savings Guarantee that may be offered by the successful
+ESCO during the course of the performance of the ESPC, along with any financial statements and
+related information pertaining to any such Person.
+(6) Licensing. If the ESCO is not an Oregon licensed design professional, the County shall require
+that the ESCO disclose in the ESPC that it is not an Oregon licensed design professional, and
+identify the Oregon licensed design professional(s) who will provide design services. See ORS
+671.030(5) regarding the offer of architectural services, and ORS 672.060(11) regarding the offer of
+engineering services that are appurtenant to construction services.
+(7) Performance Security. At the point in the ESPC when the parties enter into a binding Contract
+that constitutes a Design-Build Contract, the ESCO must provide a performance bond and a payment
+bond, each for 100% of the full Contract Price, including the construction and design and related
+professional services specified in the ESPC Design-Build Contract, pursuant to ORS 279C.380(1)(a).
+For ESPC Design- Build Contracts, these "design and related professional services" include
+conventional design services, commissioning services, training services for the County's operations
+and maintenance staff, and any similar professional services provided by the ESCO under the ESPC
+Design-Build Contract prior to final completion of construction. M & V services, and any services
+associated with the ESCO's Energy Savings Guarantee are not included in these ORS 279C.380(1)(a)
+"design and related professional services." Nevertheless, a The County may require that the ESCO
+provide performance security for M & V services and any services associated with the ESCO's
+Energy Savings Guarantee, if the County so provides in the RFP.
+(8) Contracting Requirements. Contracting Agencies shall conform their ESPC contracting
+practices to the following requirements:
+(a) General ESPC Contracting Practices. An ESPC involves a multi -phase project, which
+includes the following contractual elements:
+(A) A contractual structure which includes general Contract terms describing the
+relationship of the parties, the various phases of the Work, the contractual terms
+governing the Technical Energy Audit for the project, the contractual terms governing
+the Project Development Plan for the project, the contractual terms governing the final
+design and construction of the project, the contractual terms governing the performance
+of the M & V services for the project, and the detailed provisions of the ESCO's Energy
+Savings Guarantee for the project.
+(B) The various phases of the ESCO's Work will include the following:
+(i) The Technical Energy Audit phase of the Work;
+(ii) The Project Development Plan phase of the Work;
+(iii) A third phase of the Work that constitutes a Design-Build Contract, during
+which the ESCO completes any plans and Specifications required to implement the
+ECMs that have been agreed to by the parties to the ESPC, and the ESCO performs all
+construction, commissioning, construction administration and related services to
+actually construct the project; and
+(iv) A final phase of the Work, whereby the ESCO, independently or in
+cooperation with an independent consultant hired by the County, performs M & V
+services to ensure that the Energy Savings Guarantee identified by the ESCO in the
+earlier phases of the Work and agreed to by the parties has actually been achieved.
+(b) Design-Build Contracting Requirements in ESPCs. At the point in the ESPC when the
+parties enter into a binding Contract that constitutes a Design- Build Contract, the County shall
+conform its Design-Build contracting practices to the Design- Build contracting requirements set
+forth in Section 5.49.630 above. (c) P ricing  Alternatives. The County may utilize one of the following pricing alternatives in
+an
+ESPC:
+(A) A fixed price for each phase of the services to be provided by the ESCO;
+(B) A cost reimbursement pricing mechanism, with a maximum not-to-exceed price or a
+GMP; or
+(C) A combination of a fixed fee for certain components of the services to be performed,
+a cost reimbursement pricing mechanism for the construction services to be performed
+with a GMP, a single or annual fixed fee for M & V services to be performed for an
+identified time period after final completion of the construction Work, and a single or
+annual Energy Savings Guarantee fixed fee payable for an identified time period after
+final completion of the construction Work that is conditioned on certain energy savings
+being achieved at the facility by the ECMs that have been implemented by the ESCO
+during the project (in the event an annual M & V services fee and annual Energy
+Savings Guarantee fee is utilized by the parties, the parties may provide in the Design-
+Build Contract that, at the sole option of the County, the ESCO's M & V services may
+be terminated prior to the completion of the M & V/Energy Savings Guarantee period
+and the County's future obligation to pay the M & V services fee and Energy Savings
+Guarantee fee will likewise be terminated, under terms agreed to by the parties).
+(d) Permitted ESPC Scope of Work. The Scope of Work under the ESPC is restricted to
+implementation and installation of ECMs, as well as other Work on building systems or building
+components that are directly related to the ECMs, and that, as an integrated unit, will pay for
+themselves over the useful life of the ECMs installed. The permitted scope of Work for ESPCs
+resulting from a Solicitation under these rules does not include maintenance services for the project
+facility.
+Stats. Implemented: ORS 279C.335, ORS 279A.O65, ORS 279C
+
+5.49.700 EXEMPTIONS FROM COMPETITIVE BIDDING
+
+5.49.710 Purpose.
+
+These rules establish exemptions from the competitive bidding requirements of ORS Chapter 279C
+and these rules.
+
+5.49.715 Exemptions Generally.
+
+All public contracts must be based on competitive bidding, except the following:
+
+(1) Specific Exemptions for Individual Contracts.  Contracts that have been specifically
+exempted under ORS 279C.335 or 279C.345;
+
+(2) Statutory Exemptions. Contracts excepted under ORS 279C.335; and
+
+(3) Class Exemptions. Contracts covered by the class exemptions contained Section 5.50.900.
+
+5.49.720 Exemption Procedures.
+
+(1) Request for Exemption.  The County Administrator may request a resolution from the
+Contract Review Board exempting a particular contract or class of contracts from competitive
+bidding if the contract or contracts are not otherwise exempted under these rules.
+
+(2) Contents of Exemption Request. Exemption requests must contain the following:
+
+(a) The nature of the project;
+(b) Estimated cost of the project;
+(c) Findings supporting the substantial cost savings anticipated by the exemption from
+competitive bidding as required by ORS 279C.335 (2) (b).
+(d) Findings supporting why it is unlikely that an exemption from competitive bidding would
+encourage favoritism or diminish competition for the public contract as required by ORS
+279C.335(2)(a);
+(e) Information regarding the following factors as required by ORS 279C.330:
+(A) Operational, budget, and financial data;
+(B) Public benefits;
+(C) Value Engineering;
+(D) Specialized expertise required;
+(E) Public safety;
+(F) Market conditions;
+(G) Technical complexity; and
+(H) Funding sources.
+(f) Proposed alternative contracting and purchasing practices to be employed; and
+(g) The estimated date by which it would be necessary to let the contract.
+
+(3) Hearing Required When Request for Exemption Involves Public Improvement.
+
+(a) If the exemption request involves or would apply to a contract or contracts for a Public
+Improvement, the County must hold a public hearing prior to adoption of the findings required by
+subsections (1) and (2).
+(b) Notification of the public hearing must be published in at least one trade newspaper of
+general statewide circulation at least 14 Days before the hearing.
+(c) The notice must state that the public hearing is for the purpose of taking comments on the
+County's draft findings for an exemption from the competitive bidding requirement. At the time of
+the notice, copies of the draft findings must be made available to the public.
+(d) At the public hearing, the County must offer an opportunity for any interested party to
+appear and present comment.
+(e) If a County is required to act promptly due to circumstances beyond its control that do not
+constitute an emergency, notification of the public hearing can be published simultaneously with the
+County's solicitation of contractors for the alternative public contracting method, as long as
+responses to the solicitation are due at least five Days after the meeting and approval of the findings.
+(4) Exempted Public Improvements in Excess of $100,000. Upon completion of and final
+payment for any Public Improvement contract in excess of $100,000 for which the County did not
+use the competitive bidding process, the County must prepare and deliver to the Contract Review
+Board an evaluation of the Public Improvement project pursuant to 5.49.615(3) above.
+
+5.50.900 CLASSES OF CONTRACTS AND CLASS SPECIAL PROCUREMENTS
+EXEMPT FROM COMPETITIVE BIDDING
+
+5.50.910 Contract Amendments (Including Change Orders and Extra Work).
+
+(1) An amendment for additional Work or product that is reasonably related to the scope of Work
+under the original contract, including change orders, Extra Work, field orders, or other change in the
+original Specifications that increases the original contract price, may be made with the contractor or
+without competitive bidding, subject to the following conditions:
+(a) The original contract was let by (A) competitive bidding or alternative procurement
+process; (B) unit prices or additive alternates were provided that established the cost basis for the
+additional Work or product; and a (C) binding obligation exists on the parties covering the terms and
+conditions of the additional Work; or
+(b) The original contract was let pursuant to a declaration of emergency, in accordance with
+ORS 279C.335(5) and Sections 5.47.250 & 5.49.410 or these rules; or
+(c) The additional Work is required by reason of existing regulations or ordinances of federal,
+state, or local agencies, dealing with the prevention of environmental pollution and the preservation
+of natural resources, that affect performance of the original contract, and such regulations or
+ordinances, as provided in ORS 279C.525, either were not cited in the original contract or were
+enacted or amended after submission of the successful bid or Proposal; or
+(d) The original contract was for the renovation or remodeling of a building.
+
+(2) Except for amendments entered into pursuant to subsections (1)(a) to (d) of this rule, the
+aggregate increase resulting from all amendments to a contract may  not exceed 20 percent of the
+initial contract price. Contracts for the renovation or remodeling of buildings may have aggregate
+amendments not exceeding 33 percent of the initial contract price. But amendments made pursuant
+to subsection (1)(a) of this rule are not to be applied against either the 20 percent or the 33 percent
+aggregate limit on contract amendments. And contracts amended pursuant to subsection (1)(b) or (c)
+of this rule are not subject to either the 20 percent or the 33 percent aggregate limit on contract
+amendments.
+
+(3) If the original contract required the contractor to provide a performance and payment bond, and
+the County has terminated the contract and notified the surety of the termination, the County may
+allow the contractor's surety an opportunity to provide a substitute contractor to complete
+performance of the original contract. Such substitute performance and any amendment of the
+original contract that makes a substitute contractor a party to the contract and is not an award of a
+public contract and will not be subject to the competitive procurement provisions of ORS 279.
+
+5.50.915 Advertising Contracts.
+
+(1) The County may purchase advertising, regardless of dollar value, without competitive bidding.
+
+(2) The County may sell advertising for County publications or activities, regardless of dollar
+value, without competitive bidding.
+
+5.50.920 Equipment Repair and Overhaul.
+
+(1) The County may enter into a public contract for equipment repair or overhaul without
+competitive bidding, subject to the following conditions:
+
+(a) Service or parts required are unknown, and the cost cannot be determined without
+extensive preliminary dismantling or testing; or
+(b) Service or parts required are for sophisticated equipment for which specially trained
+personnel are required, and such personnel are available from only one source; and
+(c) The County purchases within the limits and pursuant to the methods in (2) of this rule.
+
+(2) The following limitations apply to this rule:
+
+(a) If the contract is for less than $100,000, the County must document in its procurement file
+the reasons why competitive Bids or quotes were deemed to be impractical and may directly enter
+into the contract.
+(b) If the County believes the contract may exceed $100,000, the County may enter directly
+into the contract after documenting in its procurement file the reasons why competitive Bids were
+deemed to be impractical.
+
+5.50.922  Contracts  for Price-Regulated Items.
+The County may, regardless of dollar value and without competitive Bidding, contract for the direct
+purchase of goods or services if the rate or price for the goods or services being purchased is
+established by federal, state, or local regulatory authority. (This class of contracts is exempt per ORS
+279A.025 (2) (f)).
+
+5.50.925  Purchases  Under Federal Contracts.
+When the price of goods and services has been established by a contract with the federal government
+pursuant to a federal contract award, the County may purchase the goods and services in accordance
+with the federal contract without subsequent competitive Bidding. In exercising this authority under
+this exemption, the County must:
+
+(1) Include in the contract file a memorandum confirming  the federal official who granted
+permission to the County to purchase under the federal contract; and
+(2) Include in the contract file documentation showing the cost savings to be gained from
+anticipated purchases from the federal contract.  (This class of contracts is exempt per ORS
+279A.025 (2) (a)).
+
+5.50.927 Copyrighted Materials.
+The County may, without competitive Bidding and regardless of dollar amount, purchase
+copyrighted materials. Examples of copyrighted materials covered by this exemption may include,
+but are not necessarily limited to, new adopted textbooks, workbooks, curriculum kits, reference
+materials, books, periodicals, audio and visual media, and non-mass-marketed software.
+
+5.50.930  Investment  Contracts.
+The County may, without competitive Bidding, and regardless of dollar amount, contract for the
+purpose of the investment of public funds or the borrowing of funds by the County when such
+investment or borrowing is contracted pursuant to duly enacted statut e, ordinance, charter, or
+constitution. (This Class of contracts is exempt per ORS 279A.025 (2) (q) (C). )
+5.50.932  Food  Contracts.
+(1) The intent of this rule is to provide a method for the County to procure food products that are
+available for a limited time at "lower than normal" prices (also referred to as "spot buys").
+
+(2) The County may procure an unlimited dollar value of food using a competitive Bid or quote
+process when all the following conditions are present:
+
+(a) A nonexclusive requirements contract or regularly scheduled Bid process already exists for
+the item being purchased;
+(b) The proposed unit price of the item to be purchased is significantly less than a comparable
+item's price on an existing requirements contract or recent Bid (as described in subsection (3) of this
+rule), and the amount saved exceeds any additional administrative costs incurred to purchase, using
+this exemption;
+(c) The produce being purchased has limited availability (ie., the product may no longer be
+available upon completion of normal Bid processes);
+(d) Any cooperative contracts currently in place for the items being purchased contain clauses
+allowing for the use of this exemption;
+(e) The purchase does not jeopardize fulfillment of a guaranteed minimum volume under an
+existing cooperative contract.
+(3) Purchases may be made under this exemption only after the County documents the following in
+its procurement file: The County’s attempt and method to obtain quotes from at least three sources;
+the written quote or Bid, if obtained; item Specifications; quantity; unit pricing; delivery; and other
+pertinent information. Contract or Bid pricing used for comparison must be representative of current
+pricing available and must have been obtained or confirmed no more than six months prior to the
+current purchase. When practical, written quotes are recommended.
+
+5.50.940  Used  Personal Property — Purchase.
+(1) Subject to the provisions of this rule, the County may purchase used property or equipment
+without competitive Bidding and without obtaining competitive quotes, if it has determined that the
+purchase will result in cost savings to the County and will not diminish competition or encourage
+favoritism. "Used personal property or equipment" is property or equipment that has been placed in
+its intended use by a previous owner or user for a time recognized in the relevant trade or industry as
+qualifying the personal property or equipment as "used," at the time of the County purchase. "Used
+personal property or equipment" generally does not include property or equipment if the County was
+the previous user, whether under a lease; as part of a demonstration, trial or pilot project; or under a
+similar arrangement.
+
+(2) For purchases of used personal property or equipment costing less than $100,000, the County
+must obtain three competitive quotes, unless the County has determined and documented that a
+purchase without obtaining competitive quotes will result in cost savings to the County and will not
+diminish competition or encourage favoritism.
+(3) For purchases of used personal property or equipment totaling $100,000 or greater, the County
+must obtain and keep a written record of the source and amount of quotes received. If three quotes
+are not available, a written record must be made of the attempt to obtain quotes.
+
+5.50.942 Used Personal Property — Sale.
+
+(1) The County may sell used property or equipment by liquidation without obtaining competitive
+Bids or quotes, if a liquidation sale would bring in substantially greater revenue to the County than
+would be gained through Bids. As used in this section, "Surplus Personal Property or Equipment” is
+property or equipment that has been determined to be no longer useful to the County. It may be
+property or equipment that the County has used for some time and that is fully used up or obsolete.
+It may be property or equipment that is the natural excess or leftover from a project, such as cable,
+wire, carpet, etc., that has been cut or partially used in some manner so that it cannot be returned to
+the supplier for a refund.
+
+(2) For sales of surplus property valued at more than $25,000 per item or lot, the County must
+attempt to obtain at least three competitive quotes.  The County will keep a written record of the
+source and number of quotes received. If three quotes are not available, a written record must be
+made of the attempt to obtain quotes.
+
+5.50.945 Information Technology Contracts.
+
+The County may enter into a contract to acquire information technology hardware and software,
+without competitive Bidding, subject to the following conditions:
+
+(1) If the contract amount does not exceed $100,000, the County  must follow 912(1). Prior to
+selecting a contractor, the County will make reasonable efforts to solicit Proposals from three or
+more vendors. Justification of award must be documented and become a public record of the
+County.
+
+(2) If the contract amount exceeds $100,000, the County must solicit written Proposals in
+accordance with the requirements of the RFP process. The County must document the evaluation
+and award process that will be part of the public record justifying the award.
+
+5.50.947  Telecommunications  Systems Contracts.
+The County, having delegated purchasing authority, may enter into a contract to acquire
+telecommunications system hardware and software without competitive Bidding, subject to the
+following conditions:
+
+(1) If the contract amount does not exceed $100,000, the County must at least obtain competitive
+quotes. Prior to selection of a contractor, the County will make reasonable efforts to solicit
+Proposals from three or more vendors. Justification of award must be documented and become a
+public record of the County.
+
+(2) If the contract amount exceeds $100,000, the County must solicit written Proposals in
+accordance with the requirements of the rules governing Request for Proposals.
+
+5.50.950  Telecommunications  Services.
+(1) This rule is intended to allow the County to secure the most competitive, cost- effective
+telecommunications services of the quality needed to meet all service performance requirements
+while minimizing administrative and service delivery costs.
+
+(2) In determining the appropriate procurement method for telecommunications services, the
+County determines whether competition exists. The County may consider the following factors:
+
+(a) The extent to which alternative providers exist in the relevant geographic and service
+market. The relevant market will vary with the geographic area and from service category to service
+category, depending on changes in the regulatory environment and competitive marketplace. Thus,
+the relevant market will depend on the facts and circumstances of each case.  For example, an
+alternative local access service or private line provider might offer services in Portland, but not in
+Medford or the rest of the state.
+(b) The extent to which alternative services offered are comparable or substitutable in
+technology, service provided, and performance.  (For example, if the County requires digital
+services, analog services are not comparable or substitutable, or if  the County requires fiber optic
+technology, then copper, microwave, or satellite transmission technology may not be comparable or
+substitutable).
+(c) The extent to which alternative providers can respond to the County's interests in
+consistency and continuity of services throughout its service area, volume discounts, equitable
+service for all users, centralized management, and limiting County liability.  For example, to be
+considered as the state's telephone long distance provider, any long distance service vendor must be
+able to meet, support, and interface with the state's centralized automated billing requirements. The
+County must document for the record its findings on these factors or any other factors used in
+determining whether competition exists.  In developing its findings, the County may solicit the
+information either through informal telephone or written contacts or through a  formal request for
+information.
+(3) Upon determining that competition does not exist for the relevant service and geographical
+area, the County may proceed to secure the service on a sole source basis, and follow all applicable
+rules and procedures.
+
+5.50.952  Fuel and Asphalt  Contracts.
+Regardless of dollar amount, the County is exempt from competitive Bidding requirements for the
+purchase of gasoline, diesel fuel, heating oil, lubricants, and asphaltic products if the County seeks
+competitive quotes from at least three vendors and makes its purchase from the least expensive
+source. Written records for the quotations and purchases made will be kept by the Purchasing
+Department as public records.
+
+5.50.955 Hazardous Material Abatement.
+
+(1) The County may enter into public contracts without competitive Bidding, regardless of dollar
+amount, when ordered to clean up oil or hazardous waste pursuant to the authority granted the
+Oregon Department of Environmental Quality (“DEQ”) under ORS Chapter 466, especially ORS
+466.605 through 466.680. In exercising its authority under this exemption:
+
+(a) The County must to the extent reasonable under the circumstances encourage competition
+by attempting to obtain informal quotes from potential suppliers of goods and services.
+(b) The department responsible for managing or coordinating the cleanup must submit a
+written description of the circumstances that require the cleanup and a copy of the DEQ order for the
+cleanup to the County Purchasing Department along with a requisition authorizing the contract.
+(c) The County Purchasing Department must record the measures taken under subsection (a)
+of this section to encourage competition, the amount of the quotes or Proposals obtained, if any, and
+the reason for selecting the contractor to whom award is made.
+
+(2) The County may not contract pursuant to this exemption in the absence of an order from the
+DEQ to clean up a site that includes a time limit that would not allow the County to hire a contractor
+under normal competitive Bidding procedures. Goods and services to perform other hazardous
+material removal or cleanup will be purchased in accordance with normal competitive Bidding
+procedures as described in these rules and policies.
+
+5.50.957  Insurance  and Employee Benefits.
+(1) The County may purchase employee benefit insurance without competitive Bidding, regardless
+of dollar amount, subject to the terms of any collective bargaining. (This class of contracts is exempt
+per ORS 279A.025 (2) (r)).
+
+(2) The County may purchase liability and other insurance without competitive Bidding and
+regardless of dollar amount by selecting either a vendor directly or by appointing an agent of record.
+
+5.50.960  Office Copier Purchases.
+(1) The County may enter into multiple requirements contracts for the purchase, rental, or lease of
+office copying equipment. Except for this multiple award exemption, such contracts must otherwise
+conform to the requirements of these rules.
+
+(2) In exercising this exemption, the County must fully consider the operating capabilities,
+limitations, and cost of each brand or model and select the brand that will produce the best
+combination of performance and cost per copy for each application.
+
+5.50.962 Radio and Television Contracts for County Activities.
+(1) Generally. The County must use a competitive procurement method, e.g., an Invitation to Bid
+or Request for Proposals, to obtain written Bids or Proposals to provide commercial radio and
+television services for any County activity or program, including athletics, if the value of the services
+totals $100,000 or more, regardless of whether the County is paying or receiving revenue from such
+contractors.
+
+(2) Specific and Ancillary Services. The Solicitation Document used to invite Bids or Proposals
+to furnish radio or television services to County programs must include the minimum Bidder or
+qualifications and service Specifications and will conform to the other requirements of the “Request
+for Proposal” rule herein. The Solicitation Document may invite interested Bidders or Proposers to
+offer other ancillary services. Each ancillary service, if offered, must be accompanied by a dollar
+value that reflects the current purchase price for the service and a description of the service and its
+use and application.
+
+(3) Term of Contract. A contract for radio or television services may be awarded for up to five
+years.
+
+5.50.967  Donated  Materials or Services.
+The County may authorize a person to construct a Public Improvement or perform services without
+Competitive Bidding or other competitive process and regardless of dollar amount, if:
+
+(1) The person has agreed to donate all or a significant portion of the materials or services
+necessary to construct the Public Improvement or perform the service; and
+
+(2) The person enters into a license or agreement with the County whereby the person agrees to
+comply with the public contract requirements applicable to the particular project and any
+requirements that the County deems necessary or beneficial to protect the County.
+
+5.50.970  Concession  Contracts.
+The County may enter into concession or franchise contracts without Competitive Bidding regardless
+of dollar amount. For the purposes of this section a "concession contract" or "franchise" means that
+the County authorizes the use of its property or facilities for a private commercial purpose in return
+for fee or a percentage of revenue from the operation.
+SECTION 2-B
+SUPPLIES, SURPLUS, AND FIXED ASSETS
+
+A. CENTRAL SUPPLY ROOM:
+2B.0  A central supply room shall be stocked and maintained by the Purchasing Agent.
+2B.1   The  purpose of the central supply room is to stock office supplies and paper products
+that are used by all departments. Supplies stocked in the central supply room shall be
+available to all departments. Office supplies from the Central Supply Room may be
+obtained by submitting a written request to the Purchasing Agent. The form for
+submittal of written requests shall be as prescribed by the Purchasing Agent.
+
+2B.2  Office supplies and paper products shall be purchased in quantity, and price and
+quality shall be items of consideration.
+
+2B.3  The office supplies and paper products that are stocked in the central supply room
+shall be determined by the Purchasing Agent. The determining factor shall be office
+supplies and paper products that are used by County departments on a daily basis.
+
+2B.4   Any  contract or agreement for purchase of supplies and paper products with a cost of
+$150,001 or more shall comply with formal bid procedure. Purchase of supplies with
+a value of less than $150,000 shall comply with the applicable procedure.
+
+2B.5 Purchasing for the County shall be combined with other government agencies
+whenever efficiency or economy can be achieved by a joint venture.
+
+B. PAYMENT FOR MATERIALS, SUPPLIES, EQUIPMENT, AND SERVICES:
+
+2B.6  Payment for office supplies and paper  products stocked in the central supply room
+shall be charged against the Central Services budget.
+
+2B.7 Payment for materials, supplies, equipment, and services that are requested by a
+department and that are not stocked in the central supply room shall be charged
+against the budget of the department requesting the purchase.
+
+2B.8  All  purchase orders shall include pertinent information pertaining to budget line item
+to be charged for purchase requested.
+
+2B.9 It shall be the responsibility of the department head to determine that there are adequate
+budgeted funds for the requested purchase of materials, supplies, equipment
+and services.
+
+2B.10  Department  heads shall be responsible for expenditure of funds in the departmental
+budget(s). A written request to expend funds from other budget(s) must be submitted
+to the Purchasing Agent. The purchase order and the claim for payment for such
+expenditures will be processed by the Purchasing Agent. The Purchasing Agent may
+delegate authority to the Budget & Finance Department Director to administer
+specific line items in the Central Services budget and the non-Departmental budgets.
+
+2B.11  Any  change in adopted budget appropriations shall require adoption of a Resolution
+by the Board of Commissioners. The adopted Resolution shall contain the reason for
+the appropriation change and the amount of the appropriation change.
+
+2B.12 Transfers between account lines, of an expense already recorded, shall require a
+written request from the department head with explanation and documentation of the
+reason for the request. Final approval of the transfer shall be made by the Budget &
+Finance Officer.
+
+2B.13 All requests to the Budget & Finance Department for payment of claims shall be
+signed by the appropriate department head.
+
+2B.14 Purchasing, bid procedure and contracting shall be in compliance with Oregon
+Revised Statutes, County Ordinances, and the County Charter.
+C SURPLUS EQUIPMENT AND SUPPLIES:
+
+2B.15 Excess Property – Disposal/Transfer of Surplus:
+
+All trade-ins, transfers, selling as scrap, donations, destruction, advertising for third
+party liquidator, or auction of Hood River County surplus property will be handled in
+accordance with the following policy. Surplus property is property of the County that
+has been determined by a department as being of limited remaining life, use, or value
+to the County.
+
+1. SURPLUS PROPERTY
+
+a. The Board of Commissioners and the County Administrator will
+determine how to dispose of surplus property valued at $5,000 or more.
+
+b. If the item has a value of $5,000 or more and has been purchased with
+grant funding, the funding agency shall be notified of the condition of the
+equipment and its potential for surplus or disposal. The funding agency
+will supply in writing to Hood River County an approval to surplus the
+grant funded item and the County will follow 1(c) of the policy. If the
+funding agency fails, in writing, to approve or issue disposition
+instructions within a 120 day calendar -day period, the County shall
+follow 1(c) of this policy.
+
+c. Methods of disposal may include, but are not limited to, trade -ins,
+donations, selling as scrap, and advertising for sale, auction, destruction,
+or disposal through the State of Oregon, Department of General Services,
+and Surplus Property Division.
+
+d. All surplus property sold or donated pursuant to this section will be sold
+as-is without any warranty, either expressed or implied of any kinds,
+including but not limited to warranties of title or fitness for any purpose.
+Upon receiving payment for the surplus property from the successful
+buyer or bidder, the person or company conducting the sale will execute
+an appropriate bill of sale, which will recite that the sale is without
+warranty as provided in this sub-section.
+
+2. PROPERTY DISPOSAL
+
+a. Sale of Surplus Property (not including tax foreclosure property)
+
+i. Surplus property may be sold at auction if the County determines
+that selling at auction will result in a higher net return.
+
+ii. Surplus property may be sold, including recyclable or reclaimed
+materials, without a competitive process if the County determines
+that a sale will result in increased net revenue and the following
+conditions are complied with:
+
+1. When the current market value per item is deemed to be
+less than $5,000, the County Administrator may establish
+a selling price, schedule an advertise a sale date, and sell
+to the first qualified buyer meeting the sale terms.
+
+2. When the current market value per item is $5,000 or
+more, but less than $25,000, the County Administrator by
+Board of Commissioners authorization shall establish a
+selling price and terms.  The County will schedule and
+advertise a sale date, and sell to the first qualified buyer
+meeting the sale terms upon approval by the County
+Administrator or his designee.
+
+3. When the current value per item is deemed to be $25,000
+or more, the surplus property through the authorization of
+the Board of Commissioners will be offered for written
+competitive bid and be advertised, or be offered for sale at
+public auction. If no bids are received or if a
+determination is made that the market value of the
+property exceeds the offer of the highest responsible
+bidder, all bids may be rejected.
+
+iii. The County may sell or dispose of any surplus property through
+the State of Oregon Department of General Services, Surplus
+Property Division without first offering the item to the public
+while following 1(a) or 1(b), whichever is applicable.
+
+b. Liquidation Sales of Surplus Property
+
+i. The County may sell surplus property as outlines in the policy
+through a commercially recognized third party liquidator, if the
+County determines that a liquidation sale will result in increased
+net revenue.
+
+c. Dumpster Disposal or Recycling or Surplus Property
+
+i. The County Administrator may dispose of surplus property in any
+manner and without competitive process, if the County
+determines the item value is less than $5,000; and the items meets
+one of the following criteria:  unsafe, inoperable, or not
+reasonably repairable.  The County will take all reasonable
+precautions to assure that all electronic office equipment is
+disposed of in a manner that is safe with the environment.
+
+d. Donations of Surplus Property
+
+i. The County may donate or sell surplus property, including
+recyclable or reclaimed materials to another public agency, or
+nonprofit organization, subject to the following conditions:
+
+1. The County Administrator has determined that the surplus
+property is not needed for other County purposes and is of
+a value less than $5,000.
+
+2. The following conditions apply if the surplus property has
+current market value of $5,000 or more:
+a. Include documentation that it is in the public
+interest and,
+
+b. Approval by the Board of Commissioners.
+
+e. Trade-in of Surplus Property
+
+i. All surplus property must be declared surplus by the County,
+following this policy, prior to being used as a trade-in.
+
+3. DOCUMENTATION OF SURPLUS TRANSACTIONS
+
+a. The Director of Budget & Finance will maintain a record of all surplus
+transactions.
+
+b. Records for surplus equipment originally purchased with State or Federal
+grant funding must be maintained for a minimum of 5 years from the date
+of transaction.
+
+D FIXED ASSETS
+
+2B.16 Fixed assets are defined as land, land improvements, buildings, fixtures, furniture,
+equipment, and property under construction. These assets are held for use in County
+operations and not intended for resale. The useful life of a fixed asset is generally
+long term and will be determined on a fiscal policy basis. These types of assets are
+budgeted and recorded as capital outlay, then tracked as an asset fund group in
+County fiscal records.
+
+2B.17  The  limitation for considering a purchase to be a fixed asset subject to capital outlay
+consideration is any amount of $5,000.00 or more, or any addition/repair cost that
+materially extends the expected life of the asset.
+
+2B.18 Department Heads are responsible for reporting their department’s fixed asset
+activity. The Director of Budget &Finance is responsible for the fixed asset record
+keeping and is authorized to determine the structure and form of the fixed asset
+system. All fixed asset purchases, disposals, transfers, and surplus records are to be
+forwarded to that department for recording.
+
+2B.19 The prescribed fixed asset recording/tracking form supplied by the Budget and Budget
+& Finance Department is to be used by any County department and forwarded to
+Budget and Finance for all fixed asset activity.  Any assets determined to be
+disposable surplus by any given department are inventoried as such by Budget and
+Finance who will then present that inventory to the Board of Commissioners for
+disposal approval.
+
+2B.20 All fixed assets are identified as County property with a sequentially numbered
+inventory tag permanently assigned to that item. At the time of authorized disposal
+that tag will be removed and forwarded to Budget and Finance as verification of the
+asset retirement.
+
+2B.21 An exception to this fixed asset policy is desktop computer equipment, i.e. CPUs,
+monitors, keyboards, printers, software, etc. This type of equipment is not typically
+held in the County fixed asset fund group, but is tracked for reporting and record
+keeping purposes by the Administration Department in corporation with the tech
+support employee; if applicable. A separate sequentially numbered tagging system is
+utilized for that purpose and maintained by the administration department. A copy of
+those records is provided to the Budget & Finance Department on a semi -annual
+basis. This exception does not include the purchase or acquisition of a “system” i.e.,
+an entire network or file server is established in one transaction or a major assets is
+acquired, i.e. a printer, over $5K. Those items would be considered a fixed asset and
+treated as such.
+2B.22  A department is able to  request a Budget and Finance review of fixed asset/capital
+outlay classifications on purchases for items such as tools, pieces of equipment or
+furniture that may not fit the fixed asset classification due to questions on useful life,
+wear and tear, disposability issues, etc. The Budget & Finance Director will make
+the final determination after discussion with the Department Head.
+SECTION 3-A
+PROCEDURE FOR PROCESSING CLAIMS FOR PAYMENT OF BILLS
+(Adopted 11/1/99)
+
+A. GENERAL PROCEDURES:
+
+3A.0 Billings for charges incurred against the County shall be processed and paid
+within 30-days. Each department shall be responsible for timely preparation and
+submittal of purchase orders and claims for payment of bills incurred by the
+department in order to assist in reducing the time between incurring an obligation
+and payment of the bill.
+
+EXCEPTIONS: Purchase orders or claims involving more than one department’s
+budget may be prepared by Administration or Budget & Finance. Purchase orders or
+claims for Central services or non-department budget shall be prepared by Administration
+or Budget & Finance, with Budget & Finance preparing claims for items they have been
+delegated to administer.
+
+3A.1 Claims submitted for payment shall include as an attachment the original invoice,
+copy of the packing slip with a signature indicating receipt of the goods or a
+notation on the original invoice indicating the purchase was received (as
+applicable). The accounts payable copy of a purchase order or claim form shall be
+appropriately filled out with all required information and approved by the
+department head or authorized signer for the department. In order to avoid
+duplicate payments on any vendor account, NO PAYMENTS WILL OCCUR ON
+PURCHASE ORDERS OR CLAIMS SUBMITTED WITH ACCOUNT
+STATEMENTS OR PACKING SLIPS AS THE DOCUMENTATION OF THE
+PURCHASE.
+
+NOTE: Individual departments are responsible to review all billings before submission
+to Budget & Finance to avoid duplicate payments or other issues that could jeopardize the
+County’s position as the administrator of public funds.
+
+Signature on the purchase order or claim form by the department head or authorized
+signer for the department is required. By signing, the department head acknowledges that
+all County policies in regard to purchasing have been complied with and that the claim is
+complete, valid and due for payment. The department head accepts the responsibility for
+accurate information and that the purchase was made within the confines of the
+department’s annual budget as adopted or with consideration for authorized budget
+modifications made during the course of the fiscal year.
+3A.2 All purchase orders and claims shall be submitted to Budget & Finance for
+payment and will be reviewed for approval by the Budget & Finance Director. All
+paperwork will be reviewed for
+accuracy and completeness. Any errors or omissions will cause the purchase
+order or claim to be returned to the originating department for resolution. That
+department will be responsible for correcting the error and the prompt return of
+the paperwork to Budget & Finance.
+
+Claims and purchase orders exceeding $5,000 will also require approval by the
+County Administrator before being paid.
+
+3A.3 Procedure for employee reimbursement of expenses shall be in accordance with
+Section 50 of the Personnel Code.
+
+3A.4 Reimbursement for incidental expenses up to the $20 level may be obtained from
+Petty Cash funds in the appropriate department: Administration, Budget &
+Finance, Parks & Buildings, Forestry, Health, or Justice Court. Any
+reimbursement from Petty Cash exceeding $20 shall require approval from
+Budget & Finance Director.
+
+A. SCHEDULE FOR SUBMITTAL AND PROCESSING OF PURCHASE ORDERS AND
+CLAIMS
+
+3A.5 Purchase orders and claims shall be submitted to the Department of Budget &
+Finance as soon as the invoices are available to the respective department for
+processing. Emergency requests shall be restricted to exceptional emergent
+situations. All department heads and staff are expected to plan payment
+requirements to the greatest extent possible.
+
+3A.6 Accounts payable checks shall be processed every Friday, with exception for
+holidays that may interfere with that normal processing day, in which case the
+processing would occur on the preceding business day.
+
+Purchase orders and claims received by 5:00PM on the Tuesday prior to a check
+run will be included in that Friday’s check-run.
+
+Accounts payable checks will be mailed to all vendors on the day they are
+produced. Any other form or timing of payment delivery is subject to approval by
+the Budget & Finance Director at least 48 hours prior to the day of the check
+being produced.
+SECTION 4-A
+GRANT APPLICATIONS AND GRANT FUNDS
+(amended 7/15/2024)
+
+GENERAL PROCEDURES:
+
+4A.0 Grant funds may become available that can be advantageously used by the County to enhance existing
+projects and programs, or to provide funds for a new project or program.
+
+4A.1 Department heads are encouraged to pursue and apply for grant funds that will be of benefit to the
+respective department, and that will provide needed funds to maintain, improve, or increase the level of
+services.
+
+Consideration of the increase to administrative cost shall be a part of the grant application process.
+Coverage of administrative costs within the funding opportunity shall be a high priority consideration.
+
+4A.2 The applicant shall submit a “Grant Funding Opportunity Form” to the Budget & Finance Department
+Grants Manager indicating the intent of the grant, the amount of the grant, a project plan identifying
+timelines and parties responsible for implementing the program, and any County obligation. A pre-
+application meeting will be held with the Grants Manager, Department Head, and County Administrator
+to determine the fit and timeline of the grant opportunity.
+
+In order to derive maximum coordination of activities, programs, and projects, the County Administrator
+and Budget & Finance Director shall review and give prior approval to the preparation of any new or
+renewing application for grant funds.
+
+4A.3  Final approval to submit an application for grant funds shall be given by the County Administrator or the
+Board of Commissioners:
+
+1. The County Administrator shall give final approval if the revenue and expenditure is
+anticipated in the annual budget, or the grant is less than $150,000 and does not
+require more than $20,000 of in-kind/matching services.
+
+2. The Board of Commissioners shall give final approval if the revenue and expenditure is
+not anticipated in the annual budget, or the grant is $150,000 or more.
+4A.4 Any application for grant funds from an outside agency that requires endorsement from the Board of
+Commissioners, as the governing body of the County, shall require approval from the Board of
+Commissioners. An applicant for the grant shall submit a completed “Grant Funding Opportunity Form”
+indicating the intent of the grant, the amount of the grant, and any County obligation.
+
+4A.5 Final grant fund approval shall be given by the County Administrator or the Board of Commissioners,
+based on the value factors in 4A.3. A grant agreement or award requiring approval and signature by the
+governing body shall be referred to the Board of Commissioners for final approval. All grant agreements
+or award letters requiring signature must first be reviewed and approved by legal counsel. The County
+Administrator may elect to refer acceptance of any grant to the Board of Commissioners.
+
+4A.6 Submittal of an application for grant funds shall not commit matching funds or in- kind services for the
+ensuing fiscal year.
+
+4A.7 Grant revenue determined as reasonably anticipated to be received and the total related anticipated
+expenditure shall be included in the original annual departmental budget.
+
+4A.8 Grant revenue received after the original budget has been adopted shall be added to the departmental
+budget prior to expenditure via the budget adjustment process determined to be appropriate by the
+Budget & Finance Director.
+
+4A.9 All grant funds shall be administered by the Budget & Finance Department. The applicable Department
+Head shall administer the grant program.
+
+4A.10 All grant funds shall be expended in accordance with provisions of the grant agreement.
+
+4A.11 A program, project, or service funded entirely with grant funds or funds from outside sources shall be
+terminated upon expiration of the grant funds or funds from outside sources. Continuing a program,
+project or service beyond the funding period shall require compliance with budget policy and inclusion
+of an appropriation in the annual County budget. The Board of Commissioners shall determine the level
+of services that will be provided.
+
+4A.12 A program, project, or service funded partially with grant funds or other outside sources and combined
+with direct County funds shall be re-evaluated upon expiration of the grant funds or funds from outside
+sources. Level of services and amount of funding for continuing the project, program, or service shall be
+determined and approved by the Board of Commissioners.
+SECTION 5-A
+TRADES OF MATERIALS OR SERVICES
+
+A. GENERAL PROCEDURES:
+
+5A.0  All  proposed trades of materials or services shall receive prior approval from the
+Board of Commissioners.
+
+5A.1  A proposal for trade of materials or services shall include the following information.
+
+1. The reasons that the trade is preferred to an outright purchase;
+
+2. The value of the item(s) offered for trade;
+
+3. The value of the item(s) received in trade; and
+
+4. An explanation as to the budgeted line (items b and c above) that will be
+recorded.
+
+5A.2   All trades of materials or services must be recorded at the fair market value as
+both a revenue and an expense in the budget. Even if cash is not involved, the
+value exchanged may cause a budgeted line item to reach the maximum of its
+appropriation. Once a budgeted line has been expended in its entirety no
+additional funds may be expended from that budgeted line without an appropriate
+budget adjustment.
+SECTION 6-A
+BOARD OF COMMISSIONERS
+(amended 8.19.2024)
+
+ORGANIZATION AND STRUCTURE:
+
+6A.0 The election of the Chair of the Board of Commissioners and the County
+Commissioners, organization of the Board, duties and responsibilities of the Board,  shall be in
+accordance with provisions of the Hood River County Charter (Revised May 2020).
+
+6A.1 In accordance with provisions of the Hood River County Charter (Revised May
+2020), the Board of Commissioners shall hold an annual organizational meeting at the first
+meeting of the calendar year and shall select from among its members a Vice- Chair to serve
+in the absence of the Chair.
+
+6A.2 In the event of a vacancy on the Board of Commissioners by reasons stated in the
+Hood River County Charter (Revised May 2020), appointment of a replacement shall be in
+accordance with provisions of the Hood River County Charter (Revised May 2020).
+
+RESPONSIBILITIES:
+
+6A.3 The Board of Commissioners shall execute its responsibilities and authorities as
+stipulated in the Hood River County Charter (Revised May 2020).
+
+6A.4 The Board of Commissioners is the County's governing body and policy making
+body, and the primary responsibility of the Board of Commissioners shall be general
+legislative authority over all matters of County concern; to establish policy for all County
+departments and County employees; to provide facilities and services for County
+residents that are needed and necessary; to represent and be responsive to the citizenry
+of Hood River County.
+
+6A.5 T he Board of Commissioners shall appoint a County Administrator in accordance
+with provisions of the Hood River County Charter (Revised May 2020).
+
+6A.6 The Board of Commissioners shall have absolute control over County funds and
+County expenditures.
+
+6A.7 The Board of Commissioners shall have control over County owned real property,
+real property improvements, and personal property.
+
+6A.8 The Board of Commissioners shall establish County departments, and subject to
+approval of the Budget Committee and availability of funds, provide funds in the annual
+budget for department heads to effectively and efficiently operate departments.
+
+6A.9 The Board of Commissioners shall give direction to the negotiator for contracts
+with recognized Bargaining Units. During the period of time that contracts are being
+negotiated, the Board of Commissioners shall receive periodic status reports.
+
+6A.10 The Board of Commissioners shall establish and revise all County fee schedules.
+
+ 6A.11 The Board of Commissioners shall coordinate its efforts with those of other public
+jurisdictions, and particular emphasis shall be placed on eliminating duplication of services,
+thereby providing the taxpayers of the County with the best services and facilities possible in
+the most efficient and economical manner.
+
+6A.12 In  accordance with provisions of the Hood River County Charter (Revised
+May 2020), the Board of Commissioners shall adopt and periodically review an  Administrative
+Code.
+
+6A.13 The Board of Commissioners shall adopt and periodically review a Employee Handbook.
+
+6A.14 The Board of Commissioners shall adopt a salary plan for non-union employees
+and a classification plan for all employees each year during the budget process. The salary
+and classification plans shall be reviewed on an annual basis by the County Administrator.
+The Board of Commissioners may authorize special classification and salary review by a
+specialized consultant.
+
+6A.15 The Board of Commissioners shall function within the following guidelines:
+
+1. The Board of Commissioners delegates’ authority to the County Administrator to appoint and to
+supervise department heads.
+
+2. The Board of Commissioners delegates authority to the County Administrator to administer and
+manage all affairs of Hood River County.
+
+3. The Board of Commissioners may delegate whatever authority it deems necessary to the County
+Administrator. The Board of Commissioners may at any time request an oral report or a written
+report from the County Administrator. The Board of Commissioners may at any time request,
+through the County Administrator, a written or oral report from a department head. Such reports
+may be reviewed at any scheduled meeting of the Board of Commissioners.
+
+4. Members of the Board of Commissioners shall recognize their  responsibility to discuss policies,
+programs, projects, or other items of concern with citizens of Hood River County; however,
+members of the Board  of Commissioners shall also recognize that provisions of the Hood River
+County Charter (Revised May 2020) requires an affirmative vote of at least three Board members
+for any action to be binding, and therefore, an individual member of the Board of Commissioners
+cannot make a binding decision or make a commitment on behalf of the Board of Commissioners.
+5  Members of the Board of Commissioners may refer any complaint or request to the County
+Administrator for research, recommendation, or solution.
+
+BOARD OF HEALTH:
+
+6A.16 The Board of Commissioners shall serve as the Board of Health in accordance with  provisions of
+Oregon Revised Statutes.
+
+RESOLUTIONS, ORDERS, ORDINANCES:
+
+6A.17 Resolutions and Orders shall become effective upon the signature of the Presiding Officer, or ten
+days following Board action, whichever comes first.
+
+6A.18 Except as otherwise provided in the Hood River County Charter, every adopted Ordinance shall
+become effective thirty days after adoption or the date specified therein.
+
+6A.19 Ordinance procedure shall be in accordance with provisions of the Hood River County Charter.
+
+JAIL INSPECTION:
+
+6A.20 The Board of Commissioners may visit the regional county jail at least once each year to examine
+its facilities, health, cleanliness, and discipline, in accordance with  provisions of Oregon Revised
+Statutes.
+
+COMMISSIONER ASSIGNMENT TO COMMITTEES:
+
+6A.21 The Board of Commissioners by majority vote may appoint at least one of its  members to the
+following committees. Board representation is not limited to these committees:
+
+• Property Value Appeals Board (PVAB)
+• Mid-Columbia Community Action Council Board of Directors
+• Mid-Columbia Economic Development District Board of Directors
+• Tri-County Mental Health Board of Directors
+• 9-1-1- Advisory Committee
+• AOC Committees
+• NORCOR Board
+• County Budget Committee
+• Hood River Energy Council & Executive Committee
+• Columbia Renewal Energy Association (CREA)
+• Region 1 ACT Board
+• Mid-Columbia Agricultural Research & Extension Center Board
+• Hood River-White Salmon Bridge Authority
+• Local Public Safety Coordinating Council
+• Columbia Gorge Health Council, Gorge CCO
+• Mid-Columbia Health Authority Board
+• County Cyber Security Committee
+• Visit Hood River
+• Mt Hood Economic Alliance Board
+• Hood River Watershed Group
+
+6A.22 Commissioners’ committee assignments shall be considered at the regular meeting in January of
+each calendar year.
+
+6A.23 The Board of Commissioners by majority vote may appoint one of its members, or its
+representative, to a special committee assignment as the need arises.
+
+AUDIT:
+
+6A.24 In accordance with provisions of the Hood River County Charter (Revised May 2020), the Board
+of Commissioners shall appoint a qualified person or firm to audit, at least every twelve months,
+the accounts of all officers having the care, management  collection, or disbursement of moneys
+belonging to the County, or moneys received or disbursed by the County under authority of the
+law.
+
+COUNTY SERVICE DISTRICT:
+
+6A.25 Unless otherwise provided for by the Board of Commissioners acting in its capacity  as the
+governing body of a County  Service District, the rules of procedure adopted herein shall be
+applicable to the conduct of proceedings for the Board of County Commissioners of Hood River
+County acting as the Board of Directors of a County Service District.
+
+SECTION 6-B
+AGENDAS; PREPARATION AND DISTRIBUTION
+(Revisions approved by BOC 1/2/01)
+(Revisions approved 5/2/05)
+(Revisions Approved 1/16/07)
+
+A. RESPONSIBILITY FOR PREPARATION OF AGENDA:
+
+6B.0 The agenda for each meeting of the Board of Commissioners shall be prepared by the
+staff of the County Administrator's office and shall be reviewed by the Chair of the
+Board of Commissioners.
+
+B. SUBMITTAL OF AGENDA ITEMS:
+
+6B.1 All requests for agenda items shall be in writing.
+
+6B.2 New items may be placed on the agenda at the direction of the Chair or one
+Commissioner.
+
+6B.3 Any individual, group, or public agency may request an item to be placed on the
+agenda provided the subject matter is of County concern. All items must be
+submitted in writing to the County Administrator for review.  The item will be
+reviewed and forwarded to the Chair for consideration of placement on the next
+available agenda. No such request may be for reconsideration of a Board of
+Commissioners decision that has been made within the past twelve (12) months.
+
+6B.4 Agenda material that is submitted to the Board of Commissioners shall be as complete
+as possible and shall contain any background information that will be of assistance
+to the Board of Commissioners in making a decision.
+
+6B.5 Submittal of agenda items by department heads shall be in a format prescribed by the
+County Administrator.
+
+C. CONTENTS OF AGENDA:
+
+6B.6 The printed agenda shall contain the date, time, and place of the meeting and all
+items to be considered at the meeting.
+
+D. UNSCHEDULED ITEMS:
+
+6B.7 The printed agenda shall include a time for unscheduled items from the general
+public.
+E. REPORTS
+
+6B.8 The printed agenda shall also make provision for scheduled written or oral reports
+from the County Administrator, County Counsel(s), Board of Commissioners and
+department heads.
+
+F. RECOMMENDATIONS:
+
+6B.9 Agenda items shall contain the recommendation of the appropriate department
+head(s) and the County Administrator, in order to be placed on the agenda.
+
+6B.10 A recommendation or request that could have legal implications, i.e. contracts,
+agreements MOU’s etc., shall be submitted to County Counsel for review at least two
+weeks prior to the agenda request deadline. The County Administrator shall
+determine the need for submittal of resolutions, proposed ordinances, and other legal
+documents, to County Counsel for review prior to submittal to the Board of
+Commissioners.
+G. DISTRIBUTION OF AGENDAS AND NOTICE OF MEETINGS:
+
+6B.11 Notice and agendas for all regular meetings, special meetings and emergency
+meetings shall be given in accordance with public meeting laws.
+
+6B.12 A copy of the agenda shall be mailed or otherwise delivered to all persons or agencies
+having an item on the agenda no later than the close of the business day on the Friday
+immediately prior to the meeting.
+
+6B.13  The  agenda shall be made available to persons requesting a copy.
+
+H. SUPPLEMENTAL AGENDA:
+
+6B.14 After the deadline for receipt of agenda items, additional items may be printed on a
+supplemental agenda only if they are received in the Board of Commissioners office
+not later than 1:00 p.m., or otherwise allowed by the administration office, on the day
+of the meeting and are approved by the Chair. A supplemental agenda item shall be
+allowed only when immediate action is necessary and delay to the next meeting of
+the Board of Commissioners would cause problems. An item submitted to the
+County Administrator's office for inclusion on the printed supplemental agenda must
+include all necessary documentation.  No such items shall be considered at that
+meeting of the Board of Commissioners, unless there is majority consent of the
+Board.
+I. APPROVALS RECEIVED BY TELEPHONE/ E_MAIL POLL:
+
+6B.15 A telephone/e-mail poll may only be conducted if there is an emergency situation that
+would otherwise require a special or emergency Board of Commissioners meeting. A
+telephone/e-mail poll shall be conducted by the County Administrator's office or by a
+department head after receiving authorization from the County Administrator.
+Approved items shall be placed on the next Commissioners agenda for confirmation.
+
+J. NOTIFICATION OF BOARD OF COMMISSIONERS DECISION:
+
+6B.16 After a decision is made by the Board of Commissioners, the appropriate department,
+agency public jurisdiction, or individual shall be notified in writing of the Board of
+Commissioners final decision.
+
+K SUBMITTAL OF AGENDA SUMMARY TO CANDIDATES FOR COUNTY
+COMMISSIONER:
+
+6B.17 Officially recognized Candidates for County Commissioner may each receive an
+agenda summary. A candidate for County Commissioner may request and receive
+information included in the agenda packet for any item that is on the agenda
+summary, at no cost; EXCEPT information pertaining to an item that will be
+considered in an Executive Session will not be released to a candidate for County
+Commissioner.
+SECTION 6-C
+PROCEDURE FOR MEETINGS OF THE BOARD OF COMMISSIONERS
+(amended 8.19.2024)
+
+GENERAL PROCEDURES - PLACE - TIME:
+
+6C.0 Unless otherwise indicated in advance, all meetings of the Board of Commissioners shall be
+held in the Hood River County Business Administration Building and provide for virtual
+attendance. Time and location shall be established by the Chair of the Board of
+Commissioners in a timely manner.
+
+6C.1                    The duties of the Chair shall be as prescribed by the Hood River County Charter
+(Revised May, 2020).
+
+6C.2 The Chair of the Board of Commissioners shall be the Presiding Officer at all meetings of
+the Board of Commissioners.
+
+6C.3 The Vice-Chair shall be the Presiding Officer in the absence of the Chair and shall have, at
+such times, the authority to sign appropriate documents.
+
+6C.4  In the absence of the Chair and Vice-Chair, the remaining three members shall elect a
+temporary Presiding Officer.
+
+6C.5 The Presiding Officer shall preserve procedure, order, and decorum and decide questions
+of procedure, order, and decorum, subject to appeal by a vote of three or more members
+of the Board of Commissioners.
+
+6C.6 The Chair may make a motion or second a motion, and shall vote on all matters before
+the Board of Commissioners.
+
+6C.7 The order of business at all meetings of the Board of Commissioners shall be determined
+by the printed agenda.
+
+1. Any item not presented in time for the posted agenda can be brought
+forward by Administration and request it be added to the agenda during the
+meeting.
+
+2. Any individual addressing the Board on an unscheduled item shall do so from
+the podium and shall speak into the microphone after first stating his/her
+name and address.
+
+Unscheduled items from the public shall be limited to three minutes per person per
+subject, unless additional time is granted by the Presiding Officer. Discussion of
+unscheduled items from County Commissioners, department heads, or items
+included in the printed supplemental agenda shall be subject to majority consent
+from the Board of Commissioners.
+
+3 Department Heads requesting consideration of an unscheduled item shall
+be responsible for distribution of information pertaining to an unscheduled
+item to the Commissioners, staff, and news media
+
+4 A decision on any unscheduled agenda item may be delayed or tabled
+pending submittal of additional information required by the Board of
+Commissioners to make a decision. It shall be the general policy of the
+Board of Commissioners to delay a decision on an unscheduled item until
+the procedure has been followed for submittal of information,
+documentation, signed approvals, and the recommendation from the
+appropriate department head(s) or public jurisdiction(s).
+6C.8    Voting at Board of Commissioners meetings shall be in accordance with the Hood River
+County Charter (Revised May 2020 ).
+
+6C.9 When a matter is called for a vote, the Presiding Officer may, before a vote is taken, state in
+general terms the question that is before the Board of Commissioners, and in accordance
+with provisions of the Hood River County Charter, all voting shall be by recorded roll call
+vote.
+
+6C.10  A motion to reconsider an item may be made by any member of the Board of
+Commissioners regardless of whether the vote on that item was affirmative or negative.
+Such motion shall be made not later than the next regular meeting following the original
+action of the Board of Commissioners.
+
+6C.11  Any item may be taken out of order by the Presiding Officer, except that no public hearing
+shall be held prior to the date and time specified in the public notice, and no item with a
+time certain on the agenda shall be considered prior to the specified time.
+
+6C.12  By Order of the presiding officer, a person, or persons creating a disturbance or otherwise
+obstructing the orderly process of County business may be ejected from the meeting.
+
+6C.13  Any item may be continued to any subsequent meeting upon affirmative vote by at least
+three Board members and shall be continued to the next regularly scheduled meeting of
+the Board of Commissioners unless another date and time is specifically stipulated by a
+vote of three or more Board members. All persons appearing on record before the Board
+of Commissioners shall receive prior notification of the meeting at which the continued
+item shall be acted upon again. When the decision on any item discussed in a regular or
+special meeting of the Board of Commissioners has been tabled to a date certain, held in
+abeyance pending receipt of further information or other response, said item shall be
+placed on the next regular agenda and on all subsequent agendas until the decision has
+been reached. This policy does not apply to items which are tabled without a date certain.
+
+6C.14 Upon adjournment of any regular, special, or emergency meeting, the Chair and
+Commissioners shall sign those documents that require signature because of their action
+at that meeting.
+
+PROCEDURE - REGULAR MEETINGS:
+
+6C.17 Regular meetings of the Board of Commissioners shall be held on the third Monday of each
+month. When the regular meeting date falls on a legally observed County holiday, the
+meeting shall be held the next day on Tuesday.
+
+6C.18  The Board of Commissioners may cancel or reschedule the date or dates of regular
+meetings as it deems fit, subject to the notice provisions of Oregon Revised Statutes, and
+subject to provisions of the Hood River County Charter (Revised May 2020) requiring that
+the Board of Commissioners meet regularly at least once each month.
+
+PROCEDURE - SPECIAL MEETINGS:
+
+6C.19 Special meetings of the Board of Commissioners may be called by the Chair or by three
+Commissioners in accordance with provisions of the Hood River County Charter (Revised
+May 2020).
+
+6C.20  Subjects discussed at a special meeting shall be limited to the agenda items and any
+supplemental agenda items.
+
+6C.21                 Final decisions may be made at a special meeting.
+
+PROCEDURE - WORK SESSIONS:
+
+6C.22 Work sessions of the Board of Commissioners may be called by the Chair or by three
+Commissioners. Work sessions may be held for the purpose of discussion or receiving or
+giving information.
+
+6C.23 Subjects discussed at a work session shall be limited to the agenda items for the worksession.
+
+6C.24                 Final decisions shall not be made at a work session.
+
+6C.25  A work session may be held in conjunction with a regular meeting or a special meeting.
+Final action may be taken at the regular or special meeting held in conjunction with a
+work session or at the next regular or special meeting.
+
+PROCEDURE - EMERGENCY MEETINGS:
+
+6C.26 Emergency meetings of the Board of Commissioners may be called by the Chair or by three
+Commissioners.
+
+6C.27   Only such matters as pertain to the emergency meeting may be discussed at such
+meeting.
+
+6C.28                 Final action(s) may be taken at an emergency meeting.
+
+EXECUTIVE SESSIONS:
+
+6C.29  Executive Sessions may be held on certain matters in accordance with provisions of Oregon
+Revised Statutes.
+
+6C.30 Executive Sessions may be scheduled separately or may be held at a regular meeting,
+special meeting, emergency meeting, or work session, after the Presiding Officer has
+identified the authorization under Oregon Revised Statutes for the holding of such
+Executive Sessions. Executive Sessions shall be called by the Chair in accordance with
+provisions of the Hood River County Charter (Revised May, 2020).
+
+6C.31 Representatives of the news media shall be allowed to attend Executive Sessions but the
+Board of Commissioners may require that specified information be undisclosed. Prior to
+representatives of the news media attending any Executive Sessions, the party responsible
+for attendance shall sign an agreement to comply with Oregon State law pertaining to
+disclosures, and a copy of the agreement shall be kept on record with the Department of
+Records and Assessment.
+
+6C.32 No final action may be made in an Executive Session. Final action must be made at a regular
+meeting, special meeting, or emergency meeting. If an Executive Session is not held in
+conjunction with a regular, special, or emergency meeting, final action shall be delayed
+until the next regular meeting or special meeting. In an emergency, an emergency meeting
+may be immediately called.
+
+HEARINGS:
+
+6C.33 Hearings will be held at a regular Board of Commissioners meeting or may be held at a
+special Board of Commissioners meeting or in conjunction with a regular Board of
+Commissioners meeting. To accommodate the public, hearings will not be scheduled before
+5:00 p.m.
+
+6C.34 Hearings shall be conducted in accordance with the Administrative Code Procedure for
+Hearings.
+
+OPEN MEETINGS:
+
+6C.35  It shall be the policy of the Board of Commissioners to comply with both the letter and the
+spirit of the Oregon Public Meeting Law, and Oregon Laws concerning public records.
+
+6C.36 No secret ballots of any kind whatsoever shall be taken by the Board of Commissioners.
+Violation of this provision shall render the decision made by a secret ballot void ab initio.
+
+CONFIDENTIAL COMMUNICATIONS:
+
+6C.37 The Board of Commissioners recognizes the right of any citizen to communicate in
+confidence with the elected and appointed officials.
+
+6C.38  Any correspondence which is directed to the Board of Commissioners and is marked
+"confidential" shall remain confidential until after it has been placed on a regular agenda
+and the time for consideration of the confidential matter has arrived.
+
+6C.39 N o action may be taken on any confidential communications until the fact of the
+communication and its content has been made public.
+
+CLERK OF THE BOARD:
+
+6C.40  The Clerk of the Board, or a qualified alternate designated by the County Administrator,
+shall be present at each meeting of the Board and shall provide, at minimum, a written
+summary of actions taken at the Board meetings, and shall include (1) all motions,
+proposals, resolutions, ordinances, and measures proposed and their disposition; (2) the
+results of the roll call vote on all motions; (3) the substance of any discussion on any
+matter.
+
+ORDINANCES:
+
+6C.41   Ordinance procedures shall be in accordance with provisions of the Hood River County
+Charter (Revised May, 2020).
+
+ROBERT'S RULES OF ORDER:
+
+6C.42 All meetings of the Board of Commissioners shall be governed by the latest edition of
+Roberts' Rules of Order, except as otherwise provided herein.
+
+REMOTE MEETING ATTENDANCE:
+
+6C.43  Commissioners may, as needed, participate in meetings virtually or by telephone. Virtual
+participation will count towards meeting quorum for the meeting.
+SECTION 6-D
+PROCEDURE FOR HEARING
+
+A. GENERAL PROCEDURES:
+The following procedures shall apply to hearings conducted by the Board of Commissioners:
+6D.0 Depending upon the circumstances, the Board of Commissioners may hold legislative
+hearings or adjudicative hearings.
+
+6D.1  Publication  and other notice of hearing shall be given in accordance with applicable
+State law, County Ordinance, or County Charter. Failure by any person to receive
+notice shall not nullify the proceedings.
+
+6D.2 The date and time of a hearing shall be scheduled by the Board of Commissioners.
+
+6D.3  The  applicant and the appellant, or designated representative, shall receive prior to
+the hearing date, an exact copy of the record as submitted to the Board of
+Commissioners. The record shall be mailed or otherwise delivered to the applicant
+and appellant or designated representative, not later than the date it is furnished to the
+Board of Commissioners. The applicant and appellant, or designated representative,
+may request and receive additional copies of the record and shall be charged the
+established fee for copies.
+6D.4  Procedure for providing copies of other information, documentation, etc., related to a
+hearing shall be the same as specified in Section 3.3.1.
+
+6D.5  A designated representative is the person, other than the applicant or appellant, who
+signs an application or appeal.
+
+6D.6  A representative may be designated, or a designated representative may be changed,
+by filing written notification with the Board of Commissioners office.
+
+6D.7  With the exception of hearings on the Planning Commission record, all persons shall
+have the right to be heard.
+
+6D.8  No  person shall have the right to be disorderly or disruptive or to present irrelevant
+testimony. By majority vote, the Board of Commissioners may make a determination
+that testimony is irrelevant.
+
+6D
+.9  Reports presented by Hood River County personnel shall be deemed relevant unless
+there is objection to the material and it is deemed by the Board of Commissioners
+that the material is irrelevant.
+
+6D.10  Any  person has the right to be represented by Counsel.
+
+6D.11 Any person has the right to a transcript of the proceeding upon payment of the
+minimum fee established for copies in the Department of Records and Assessment.
+The person requesting preparation of a transcript shall be required to make a deposit
+of at least half the estimated cost of the entire transcript. A reasonable time shall be
+allowed for preparation of a transcript.
+
+6D.12 Any person has the right of access to the record of the proceeding at reasonable times,
+places and circumstances.
+
+6D.13  Testimony  from any individual shall be limited to ten minutes unless prior approval
+is received from the Chair.
+
+6D.14  Hearings  shall be recorded and all persons testifying shall be required to state his/her
+name and address.
+
+6D.15 At the hearing, the Presiding Officer shall provide an opportunity for the
+Commissioners to ask questions and receive responses, and shall provide an
+opportunity for Commissioners to state their position.
+
+6D.16  At  the hearing, the Presiding Officer shall provide an opportunity for the appropriate
+department head , County Administrator, other staff or special consultant to give a
+staff report.
+
+6D.17  At  any time during a hearing, the Board of Commissioners may consult with its legal
+counsel, a department head, County Administrator, staff or special consultant.
+
+6D.18 To facilitate an orderly hearing the Presiding Officer may specify special procedures.
+6D.19  A hearing may be continued to a date and time certain.
+6D.20  With  the exception of a hearing on the Planning Commission record, provision shall
+be made in the published notice of hearing for submittal of written testimony into the
+record.
+
+6D.21 If it is anticipated that a large number of people will testify  at a hearing, a sign -in
+system may be used.
+
+6D.22 With the exception of a hearing on the Planning Commission record, exhibits may be
+submitted into the record. Exhibits shall be properly recorded and become part of the
+record. Exhibits may not be removed from the record until any appeal period has
+elapsed or any appeal has been resolved.
+
+6D.23 The Presiding Officer may close a public hearing, but allow additional written
+testimony to be submitted until a specified date and time.
+
+6D.24 Public hearings shall not continue beyond 11:00 p.m. except upon affirmative vote of
+three (3) or more Board members. Any hearing not concluded by 11:00 p.m. shall be
+continued to the earliest possible time. The date and time when the hearing shall be
+continued shall be stipulated by the Presiding Officer.
+
+6D.25  Any  person has the right of access to a hearing record at reasonable times, places and
+circumstances, and may purchase a copy of a record at the established fee for copies.
+
+6D.26 At Legislative Hearings, both oral and written testimony will be accepted until a
+decision has been made.
+
+B. LAND USE HEARINGS:
+
+In addition to the above general hearing provisions, the following shall apply to land use
+hearings:
+
+6D.27 Land use hearings may address the zoning ordinance, comprehensive plan, or
+subdivision ordinance, or any topic determined to be a land use issue under State law.
+
+6D.28 The Board of Commissioners shall determine whether the appellant has standing to
+file an appeal.
+
+6D.29 Depending upon the circumstances, a land use hearing may be an adjudicative
+hearing or a legislative hearing and may be held de novo or on the Planning
+Commission record.
+6D.30  The  criteria for determining an adjudicative hearing shall be as follows:
+
+1. The effect is narrow in scope, focusing on specific individuals or situations,
+rather than general in scope affecting a broad class of individuals or
+situations;
+
+2. The result is the application of a general rule of policy rather than the
+formulation thereof;
+
+3. The preceding is retrospective in the determination of the rights and duties of
+parties under existing law and with relationship to existing facts rather than
+prospective in nature, determining what policy or law shall apply in future
+cases; and
+
+4 The exercise of judgment rather than the exercise of discretion is made.
+
+6D.31 When an adjudicative matter is before the Board of Commissioners, the Board of
+Commissioners shall act in a quasi-judicial capacity in conducting such hearing.
+
+6D.32 Hearing procedure shall comply  with applicable County Ordinance and applicable
+State law for land use hearings.
+
+In order to provide individual rights and conduct county
+6D.33 business in an orderly manner, the Board may:
+
+1. Provide for a hearings officer who shall make relevant inquiry, take proper
+testimony, receive appropriate evidence and provide the Board with a
+transcript and exhibits, and if so ordered, findings and recommendations;
+
+2. Provide for a method of placing witnesses under oath;
+
+3 View property.
+
+6D.34 The burden is upon the moving party to justify the merit
+of the application. The moving party shall justify the application by preponderance
+of evidence.
+
+6D.35  The  primary standard for the Board in land use matters shall be the Comprehensive
+Plan applicable to the land in question.
+
+6D.36  Appeals  from a Planning Commission decision shall be filed with the Department of
+Record and Assessment.
+
+6D.37 Within 30 days after the appeal is filed with the  Department of Records and
+Assessment, the Planning Department shall submit to the County Administrator's
+Office a copy of the appeal, a copy of the minutes of the Planning Commission
+hearing, and all documentation for a determination on whether the  hearing will be
+heard de novo or on the Planning Commission record. The record shall be submitted
+to the Board of Commissioners at its next regular meeting.  Unless there are
+extenuating circumstances, the normal procedure shall be that appeals will be heard
+on the Planning Commission record.
+6D.38  If  the applicant or appellant, or the designated representative, needs additional time
+to review the record and to prepare for the hearing, the County Administrator's Office
+shall be so notified prior to scheduling of the hearing. Allowing the additional time
+for review of the record may necessitate a delay in scheduling the hearing.
+
+6D.39 All interested parties have the right, insofar as possible, to have the Board
+members free from personal interest or prehearing contacts on matters heard by them.
+It is recognized that a countervailing public right is free access to public officials on
+any matter. No decision or action of the Board of Commissioners shall be invalid
+due to ex parte contact or bias if the member of the Board of Commissioners
+receiving the contact: (a) places on the record the substance of any written or oral ex
+parte communications concerning the decision or action; and (b) Has a public
+announcement of the content of the communication and of the parties' right to rebut
+the substance of the communication made at the first hearing following the
+communication where action will be considered or taken on the subject to which the
+communication related.
+Communications with County staff, County Counsel or the Planning Commission
+shall not be considered an ex-parte contact.
+
+6D.40 The following procedures shall govern the conduct of quasi judicial hearings
+conducted before the Board of Commissioners.
+
+1. An issue which may be the basis for an appeal to the Land Use Board of
+Appeals shall be raised not later than the close of the record at or following
+the final evidentiary hearing on the proposal before the Board of
+Commissioners. Such issues shall be raised with sufficient specificity so as
+to afford the Board of Commissioners and the parties an adequate opportunity
+to respond to each issue.
+2. Notice of the hearings governed by this section shall be provided to the
+applicant, appellant, or representative(s) of record, and to owners of record of
+property on the most recent property tax assessment roll where such property
+is located:
+a. Within 100 feet of the property which is the subject of the notice
+where the subject property is wholly or in part within an urban growth
+boundary.
+
+b. Within 250 feet of the property which is the subject of the notice
+where the subject property is outside an urban growth boundary and
+not within a farm or forest zone; or
+
+c. Within 500 feet of the property which is the subject of the notice
+where the subject property is within a farm or forest zone.
+
+1. Notice
+ shall also be provided to any neighborhood or
+community organization recognized by the governing body
+and whose boundaries include the site.
+
+3. The notice provided by the County shall:
+
+a. Explain the nature of the application and the proposed use or uses
+which could be authorized;
+
+b. List the applicable criteria from the ordinance and the plan that apply
+to the application at issue;
+
+c. Set forth the street address or other easily  understood geographical
+reference to the subject property;
+
+d. State the date, time and location of the hearing;
+
+e. State that failure of an issue to be raised at a hearing, in person or by
+letter, or failure to provide sufficient specificity to afford the decision
+maker an opportunity to respond to the issue precludes appeal to the
+Land Use Board of Appeals based on that issue;
+
+f. Be mailed at least:
+
+1. Twenty days before the evidentiary hearing; or
+
+2. If two or more evidentiary hearings are allowed, 10 days
+before the first evidentiary hearing;
+
+g. Include the contact name and telephone number of the County
+Administrator where additional information may be obtained;
+
+h. State that a copy of the application, all documents, and evidence
+relied upon by the applicant and applicable criteria are available for
+inspection at no cost and will be provided at reasonable cost;
+
+i. Include a general explanation of the requirements for submission of
+testimony and the procedure for conduct of hearings.
+
+4. The hearing record used at the hearing shall be available at least seven days
+prior to the hearing. If additional documents or evidence is provided in
+support of the application, any party shall be entitled to a continuance of the
+hearing. Such a continuance shall not be subject to limitations of O.R.S.
+215.428 or 227.178.
+5. At the commencement of a hearing under a comprehensive plan or land use
+regulation, a statement shall be made to those in attendance that:
+
+a. Lists the applicable substantive criteria;
+
+b. States that testimony and evidence must be directed toward the
+criteria described in paragraph (a) of this subsection or other criteria
+in the plan or land use regulation which the person believes to apply
+to the decision; and
+
+c. States that failure to raise an issue with sufficiency specificity to
+afford the decision maker and the parties an opportunity to respond to
+the issue precludes appeal to the Land Use Board of appeals based on
+that issue.
+
+d. Unless there is a continuance if a participant so requests before the
+conclusion of the evidentiary hearing, the record shall remain open
+for at least seven days after the hearing. Such an extension shall not
+be subject to the limitations of O.R.S. 215.428 or 227.178.
+
+6. When the Board of Commissioners reopens a record to admit new evidence
+or testimony, any person may raise new issues which relate to the new
+evidence, testimony, or criteria for decision-making which apply to the matter
+at issue.
+
+7. The failure of the property owner to receive notice as provided herein shall
+not invalidate such proceedings if can be demonstrated by affidavit that
+notice was given. The notice provisions of this section shall not restrict the
+giving of notice by other means, including posting, newspaper publication,
+radio.
+
+6D.41 After reaching a decision at any adjudicative or legislative hearing, the Board of
+Commissioners shall make findings to substantiate its decision and the findings shall
+be included in an Order and become part of the record. The Board of Commissioners
+may affirm the Planning Commission decision, reverse the Planning Commission
+decision or remand back to the Planning Commission. Criteria for reversing or
+remanding the Order shall be as contained in the Hood River County Zoning
+Ordinance.
+
+An Order remanding to the Planning Commission shall specifically set forth the
+issues that are being remanded and that are to receive further consideration by the
+Planning Commission through the public hearing process.
+C. HEARINGS ON THE PLANNING COMMISSION RECORD:
+
+In addition to general hearing provisions and land use hearing provisions, the following
+procedures shall be used in processing a hearing that the Board of Commissioners has
+determined shall be heard on the Planning Commission record.
+
+6D.42  Unless  there are extraordinary circumstances, appeals will be heard on the Planning
+Commission record.
+
+6D.43  A transcript of the Planning Commission hearing shall be required for a hearing on
+the Planning Commission record. An exception may be made if the appellant
+requests, substituting the minutes of the Planning Commission hearing for the
+transcript, and the Board of Commissioners agrees to the substitution. If the Board
+agrees to a record containing minutes of the Planning Commission Hearing(s) only
+and not a transcript(s), the appeal filing fee shall be reduced by one-half (1/2).
+
+6D.44
+ The normal procedure shall be that a hearing on the Planning Commission record
+shall be scheduled at the earliest possible date.  If a transcript is required and is of
+extraordinary length, a hearing date will be coordinated with the Planning
+Department to allow sufficient time for preparation of a transcript.
+
+6D.45 The published notice and notice to applicant, appellant, and adjacent property owners
+shall occur so as to provide advance notice of the requirement that an application for
+submittal of new evidence or testimony must be submitted fifteen days prior to the
+date of the hearing.
+
+6D.46 The County Administrator's Office shall receive from the Planning Department a
+complete Planning Commission hearing record, including the transcript, if not
+exempt pursuant to provisions in 3.44 above, at least 15 days prior to the hearing
+date. The Planning Department Director may submit a supplemental staff report. If
+the record is of exceptional length, every effort shall be made for an earlier submittal
+to the County Administrator's Office.
+
+6D.47  A complete record, including any application to submit new evidence or testimony,
+shall be submitted to the Board of Commissioners at least 7 days prior to the hearing
+date. At such times as there is a hearing record of exceptional length, or the content
+of the record is complex, every effort will be made for an earlier submittal to the
+Board of Commissioners.
+
+6D.48
+ Applications for submittal of new evidence or new testimony shall be the first item of
+consideration at the hearing before the Board of Commissioners.
+
+6D
+.49  The  Board of Commissioners shall determine whether new evidence or testimony
+shall be received. New evidence or testimony shall be defined as:
+
+1. Information that was absolutely not available at the time of the Planning
+Commission hearing;
+
+2. A person requesting an opportunity to testify who was absolutely not able, or
+was unavailable to testify either verbally or in writing at the Planning
+Commission hearing.
+
+6D.50 If the Board of Commissioners determines that there is new evidence or testimony,
+the new testimony may be remanded to the Planning Commission for a hearing, or
+the Board of Commissioners may determine to hear the new testimony.
+6D.51  The  Planning Department Director may give a staff report, legal counsel may inform
+the Board of Commissioners, and the Board of Commissioners may ask questions
+and receive response from the Planning Department Director and legal counsel. This
+shall not be considered as new testimony.
+6D.52 One person representing the proponent and one person representing the opponent
+shall be allowed to argue the record. Arguments shall be restricted to the content of
+the record.
+
+6D.53  If  new testimony or evidence is, allowed the proponent, opponent, and other persons
+with standing shall be allowed to testify as pertains to the new evidence or testimony
+and shall be allowed to cross-examine and to rebut.
+
+6D.54 The Presiding Officer shall provide an opportunity for members of the Board of
+Commissioners to ask questions and receive responses, from the proponent and
+opponent and anyone testifying at the hearing. The Presiding Officer shall also
+provide an opportunity for members of the Board of Commissioners to state their
+position if they so desire.
+
+6D.55 The Board of Commissioners may affirm the Planning Commission decision, reverse
+the Planning Commission decision, or remand it back to the Planning Commission.
+Criteria for reversing or remanding the Order shall be as contained in the Hood River
+County Zoning Ordinance.
+
+D. DE NOVO HEARINGS:
+
+In addition to general hearing provisions and land use hearing provisions, the following
+procedures shall be used in processing a hearing that the Board of Commissioners has
+determined shall be heard de novo.
+
+6D.56  The  Board of Commissioners may request a transcript of the Planning Commission
+hearing.
+
+6D.57  Publication and notification for de novo hearings shall be in accord with provisions
+of the applicable ordinance or state law.
+
+6D.58 The normal procedure shall be that a de novo hearing shall be scheduled at the earliest
+possible date. If a transcript of the Planning Commission hearing is requested and
+it is of extraordinary length, a hearing date shall be coordinated with the Planning
+Department to allow sufficient staff time for preparation of the transcript.
+6D.59 A complete Planning Commission record shall be submitted to the County
+Administrator's Office at least 15 days prior to the hearing date. The Planning
+Department Director may submit a supplemental staff report.
+6D.60  A  complete record shall be submitted to the Board of Commissioners at least 7 days
+prior to the hearing date. At such times as there is a hearing record of exceptional
+length, or the content of the record is complex, every effort will be made for an
+earlier submittal to the Board of Commissioners.
+
+6D.61 Any person has the right to testify at a de novo hearing, provided it is relevant
+material and competent evidence. By majority vote, the Board of Commissioners
+may rule testimony or evidence to be irrelevant.
+
+6D.62 Any person testifying at a de novo hearing has the right to cross examine other
+persons testifying, providing:
+
+1 Such right is asserted at the meeting in which the person giving testimony has
+spoken, with regard to such testimony.
+
+2. Such right is asserted at the first available opportunity.
+
+6D.63 Any person who testifies at a de novo hearing has the right to present rebuttal
+testimony and evidence.
+
+6D.64 A de novo hearing may be continued to a time certain.
+
+6D.65  The  Chair may close a de novo hearing, but allow additional written testimony to be
+submitted until a specified date and time. If submittal of additional written testimony
+is allowed, a date and time shall also be specified for hearing rebuttal on the
+additional written testimony.
+
+6D.66 The applicant and appellant, or designated representative, shall each receive one
+copy, without charge, of additional written testimony. The applicant and appellant or
+designated representative, may receive additional copies of the additional written
+testimony, and shall be charged the established fee for copies. Other interested
+persons may receive a copy of the additional written testimony from the County
+Administrator's Office, and shall be charged the established fee for copies.
+
+6D.67  The  Chair shall advise all persons present at a de novo hearing of the date and time
+the Board of Commissioners will make a decision and state its findings.
+
+6D.68
+ The Board of Commissioners may affirm the Planning Commission decision, may
+reverse the Planning Commission decision, or remand back to the Planning
+Commission. Criteria for reversing or remanding the Order shall be as contained in
+the Hood River County Zoning Ordinance.
+
+E. ADVISORY HEARINGS:
+
+6D.69 The Board of Commissioners may schedule public hearings that are advisory only
+and are for the purpose of informing the general public or receiving input from the
+general public.
+
+6D.70 Notice of an advisory hearing shall be given as is appropriate to the circumstances.
+
+6D.71  All  persons shall be allowed to testify at an advisory hearing provided the testimony
+is relevant to the subject. By majority vote the Board of Commissioners may rule any
+testimony to be irrelevant.
+
+6D.72 Provision shall be made for submittal of written testimony into the record.
+6D.73  No person shall be allowed to be disorderly or disruptive.
+6D.74 An opportunity shall be provided for appropriate staff reports, staff recommendations,
+and input.
+
+6D.75 At any time during an advisory hearing, the Board of Commissioners may consult
+with legal counsel or staff or ask questions of those testifying.
+6D.76  An advisory hearing may be continued to a time certain.
+
+6D.77 Upon conclusion of an advisory hearing it shall not be necessary for the Board of
+Commissioners to make a decision.
+SECTION 15-A
+COUNTY DEPARTMENTS
+(Revised 4/16/01)
+
+15A.0  In accordance with provisions of Article I, Section II of the Hood River County
+Charter Revised May 2008 the Hood River County Board of Commissioners
+hereby creates the following Hood River County Departments and or Divisions:
+
+911 Communication Service District
+Administration Department
+Animal Control Division
+Budget & Finance Department
+Community Development Department
+Commission on Children & Families
+Community Corrections Department
+District Attorney Office
+Emergency Management Division
+Forestry Department
+Health Department
+History Museum
+Human Resources Department
+Justice of the Peace
+Juvenile Department
+Law Enforcement Department
+Marine Patrol Division
+Parks & Buildings Division
+Public Works Department
+Records and Assessment Department
+Veterans' Service Division
+Weed & Pest Division
+
+15A.1  Unless  otherwise stipulated, department heads shall be appointed by the County
+Administrator, and shall be under the supervision of the County Administrator.
+
+15A.2  County Departments shall be under the direction and supervision of the department
+heads.
+
+15A.3  The  County Administrator shall coordinate County Departments and shall provide
+any assistance needed or required by department heads.
+15A.4  All County Departments and Divisions shall comply with provisions of  Oregon
+Revised Statutes, the Hood River County Charter, the Hood River County
+Administrative Code, the Hood River County Personnel Code, policies adopted by
+the Board of Commissioners and administrative policies, procedures, and
+directives.
+
+15A.5   A  department head shall submit communications, correspondence, requests, etc.,
+to the County Administrator’s Office. The County Administrator shall make the
+determination as to whether the matter can be handled administratively or referral
+to the Board of Commissioners is required.
+
+15A.6   All  department heads shall provide the Budget & Finance Department with a list
+of departmental fixed assets, and the list shall be kept current.
+SECTION 16-A
+ADMINISTRATIVE DEPARTMENT
+(Revised 4/16/01)
+
+A. ORGANIZATION AND STRUCTURE:
+
+16A.0  Pursuant to provisions of the Hood River County Charter (Revised May 2008) an
+Administrative Department is hereby created and shall be under the control and
+supervision of a County Administrator.
+
+16A.1  In accordance with provisions of the Hood River County Charter (Revised May 2008), a
+County Administrator shall be appointed by the Board of Commissioners and
+shall serve at the will of the Board of Commissioners.
+
+16A.2   In  accordance with provisions of the Hood River County Charter (Revised May 2008),
+the County Administrator shall be the head of the Administrative Branch of
+County Government; shall be responsible for the proper administration of all
+affairs of Hood River County; and for carrying out policies established by the
+Board of Commissioners.
+
+B. RESPONSIBILITIES:
+
+16A.3   In  conformance with provisions of the Hood River County Charter and the intent
+of the Hood River County Charter in establishing an Administrative Branch of
+County Government, the Administrative Department shall have the following
+responsibilities:
+
+1. Staff to Board of Commissioners:
+
+a. Research shall be conducted pertaining to new or existing programs
+or projects, availability of grant funds, proposed legislation, etc., that
+may be of benefit to the County or have an impact on the County.
+The Board of Commissioners shall be kept informed of all facets of
+County government and shall receive written reports and
+recommendations.
+
+b. The Administrative Department shall provide staff assistance to the
+Board of Commissioners.
+
+c. The Clerk to the Board of Commissioners shall be an employee of
+the Administrative Department.
+2. Department Heads:
+
+a  Department heads shall be appointed by the County Administrator,
+and department heads shall be responsible to the County
+Administrator. The County Administrator shall be responsible for
+discipline and termination of department heads.
+
+b. Performance of appointed department heads shall be reviewed on an
+annual basis.
+
+c. Department heads shall be advised of accepted and adopted
+procedures and policies.
+
+d. Any question or problem a department head may encounter in
+departmental operation shall be referred to the County Administrator.
+Whenever possible, any problem or question shall be resolved
+administratively. If a question or problem cannot be resolved to the
+satisfaction of all concerned or a policy question is involved, the
+County Administrator has the option of referral to the Board of
+Commissioners.
+
+e Monthly staff meetings shall be held with department heads.
+
+3. General Administration:
+
+a. County departments shall be coordinated to achieve County
+Government in the most effective and efficient method possible, and
+in accordance with accepted management practices: to derive the best
+possible use from office space and equipment; and to avoid
+duplication of services and programs.
+
+b. As the need arises, the County Administrator may make
+administrative policies or directives.  Administrative policies and
+directives may apply to all departments and their employees or to a
+specific department and its employees.
+
+c. Assistance as requested may be provided to appointed committees,
+commissions, boards.
+
+d. The Administrative Office shall have an "open door" policy, and the
+County Administrator shall be available to meet with department
+heads, individual citizens, groups, civic organizations, public
+agencies, news media, or other persons or groups on matters
+involving County Government or matters of County concern.
+
+e  Arrangements may be made for the County Administrator to appear
+before groups or civic organizations to explain County policies,
+procedures, programs, projects, or matters of mutual concern.
+
+f. Coordination and cooperation with other public jurisdictions shall
+occur so that the best possible services are available to the residents
+of Hood River County in the most economical manner.
+
+g. Programs, projects, systems, methods, and procedures shall be
+evaluated on an on-going basis. The County Administrator shall have
+authority to administratively make changes that will improve methods
+and procedures; except programs, projects, systems, methods or
+procedures that were adopted by the Board of Commissioners may
+not be changed unless there is majority approval by the Board of
+Commissioners.
+
+4. Purchasing:
+
+a. The County Administrator shall be the designated purchasing agent
+for Hood River County.
+
+b. Purchasing procedures and bid procedures shall be administered in
+accordance with provisions of the County Charter (Revised May 2008), State
+Law, and purchasing procedures established in the Administrative
+Code.
+
+5. Fixed Assets:
+
+a. The County Administrator shall ensure that an inventory of the
+county’s fixed assets is maintained.
+
+6. Delegation of Authority:
+
+a.  The County Administrator may delegate authority to a department
+head or to an Administrative Department employee.
+SECTION 17-A
+BUDGET & FINANCE DEPARTMENT
+(Revised 4/16/01, 11/7/05, 10/18/10)
+
+A. ORGANIZATION AND STRUCTURE:
+
+17A.0  The Budget & Finance Department shall be under the supervision of a Budget &
+Finance Department Director who shall be appointed by and under the supervision
+of the County Administrator.
+
+17A.1  The Budget & Finance Department shall be located in the Hood River County
+Business Administration Building or other location as deemed appropriate by the
+Board of Commissioners.
+
+17A.2  In addition to the Budget & Finance Department Director, additional staff shall be
+provided as deemed necessary by the County Administrator, Budget Committee,
+and the Board of Commissioners to assure the efficient and effective operation of
+the Budget & Finance Department.
+
+B. RESPONSIBILITIES:
+
+17A.3  The primary responsibility of the Budget & Finance Department is the accounting,
+collection disbursement and administration of funds for which the County is
+responsible per ORS 294.
+
+17A.4  The  Budget & Finance Department shall be operated within the following policy
+guidelines:
+
+1. Taxes, fees and other monies due the County shall be collected and disbursed.
+Property taxes shall be collected and distributed in compliance with ORS
+311 and 312.
+
+b. County funds, trust funds, pensions, and insurance plans shall be in the
+custody of and administered by the Budget & Finance Department.
+
+c. The Budget & Finance Department shall administer other district’s funds
+held by the County.
+
+d. The annual budget shall be prepared and administered in accordance with
+ORS 294 adopted County budget procedures.
+e. Departmental budget expenditures shall be reviewed on a monthly basis and
+a recommendation submitted to the appropriate department on any budget
+adjustment, which may be necessary to avoid over -expending budget
+appropriation, or any curtailment of expenditures that may be necessary to
+avoid over-expending budget appropriations.
+
+f. County funds shall be disbursed in conformance with the adopted annual
+budget, in conformance with adopted purchasing procedures, and in
+conformance with the adopted procedures for processing and payment of
+claims.
+
+g. County funds not required for current expenses shall be invested so that the
+County derives maximum benefit from interest earnings. Investment of
+funds shall be in accordance with the Investment Policy, per ORS 194.035,
+which has been adopted by the Board of Commissioners.
+
+h. An accurate and complete accounting of all collections and disbursements
+shall be maintained.
+
+i. Semi-monthly payrolls for county officials and all staff shall be prepared.
+
+j. Accurate records of vacation and sick leave benefits accrued by each
+County employee shall be maintained.
+
+k. Required payroll reports shall be prepared and submitted in a timely manner
+to the appropriate agency.
+
+l. Subject to a Department Heads request, required reports for reimbursement
+of grant funds shall be prepared and submitted to the appropriate agency.
+
+m. The Budget & Finance Department shall issue licenses and fees not
+specifically assigned to other Departments.
+
+n. In collaboration with the designated County auditor, the Budget & Finance
+Department is responsible for the timely compilation and publication of the
+annual audit of County financial records. Recommendations, from the
+auditor, appropriate to the actual operations of Hood River County, shall be
+implemented at the earliest possible time.
+
+o. The financial software system shall be under the management of the Budget
+& Finance Department.  Departmental requests for program additions or
+modifications shall be processed through the Budget & Finance
+Department. Any program modification or addition shall be limited to
+funds provided for this purpose in the annual budget.
+
+p. The Budget & Finance Department shall make available to each County
+department a monthly report of budgeted expenditures and revenues.
+
+q. The Budget & Finance Department shall provide to the Board of
+Commissioners and County Administrator, on a quarterly basis, a report of
+budgeted expenditures and revenues to date.
+
+r. The Budget & Finance Department shall analyze on an ongoing basis the
+County's financial situation and cash position and advise the Board of
+Commissioners and County Administrator of the findings.
+
+s. A list of delinquent taxes shall be prepared on an annual basis, the
+applicable property owners notified, and the tax foreclosure process
+administered in accordance with provisions of Oregon Revised Statutes.
+
+t. A cash handling policy shall be administered by the Budget & Finance
+Department, which maintains and safeguards the County’s cash assets.
+
+u. A listing of all fixed assets in County ownership shall be maintained.
+Subject to approval by the Board of Commissioners designated unneeded or
+unused surplus property; shall be managed in accordance with Section 2-B-
+Supplies, Surplus and Fixed Assets sub- section C of the Administrative
+Code. The Director of Records and Assessments shall establish the
+minimum value for any surplus real property. The County's administrative
+expenses shall be added to the minimum value of the sale price of real
+property. The Budget & Finance Department shall report the results of the
+sale and appropriately record the financial transaction(s) in the County
+financial and fixed asset records. Tax foreclosure real property sales will be
+processed as required by ORS 275, 311.390 and 311.395.
+v. The Budget & Finance Director is authorized to administratively approve
+and authorize payment of any tax refund up to $2,000 that is required by
+O.R.S. 311.806.
+
+w. The Budget & Finance Director in conjunction with the County
+Administrator shall develop and administer the Hood River County Loss
+Prevention Program.
+SECTION 18-A
+COMMUNITY DEVELOPMENT DEPARTMENT
+(Revised 12/6/04)
+
+A. ORGANIZATION AND STRUCTURE:
+
+18A.0  The Community Development Department shall be administered by the Community
+Development Director who shall be appointed and supervised by the County
+Administrator.
+
+18A.1  The Community Development Department shall have offices located in the Hood
+River County Business Administration Building or other location as deemed
+appropriate by the Board of Commissioners.
+
+18A.2  In addition to the Community Development Director (CDD), additional staff shall
+be provided as deemed necessary by the County Administrator, Budget
+Committee, and the Board of Commissioners to ensure the efficient and effective
+operation of the Department.
+
+18A.3  The Community Development Department is responsible for the following County
+functions:
+
+a. Building Codes.
+
+Building Codes shall be under the technical supervision of a certified
+Building Official.  Building Codes shall be under the administrative
+supervision of the Community Development Director. The Building
+Official shall be selected by and under the supervision of the Community
+Development Director.
+
+b. Planning and Zoning.
+
+Planning and Zoning shall be under the supervision of the CDD. The CDD
+shall serve as the Planning Director and as a non- voting member of the
+Planning Commission.
+
+c. Information Services.
+
+Information Services shall be under the supervision of the Information
+services Manager. The Information Services Manager shall be selected by
+and under the supervision of the CDD.
+d. Veteran’s Services.
+Veterans’ Services shall be supervised by the County Veterans’ Service
+Officer (VSO).  The County VSO shall be selected by and under the
+supervision of Wasco County. The Hood River County Veterans’ Services
+program and office are under the supervision of the CDD. The County
+VSO shall provide service to Hood River County under a current
+Intergovernmental Agreement.
+
+e. Economic Development.
+Economic Development will be under the supervision of the Economic
+Development Coordinator. In the absence of an Economic Development
+Coordinator, economic development will be under the supervision of the
+CDD or his/her designee. The Economic Development Coordinator shall be
+selected by and under the supervision of the CDD.
+
+B. RESPONSIBILITIES:
+
+18A.4 Building Codes
+
+a. Receives and processes applications and permits for the erection,
+siting, and alterations and occupancy of buildings and structures, including
+residential, farm, commercial and industrial to ensure compliance with the
+Oregon Specialty (Building) Codes and other application State laws and
+local ordinances.
+
+b. Coordinates all permits with applicable County departments and
+local agencies.
+
+c. Issues notices and orders deemed necessary for the removal of
+illegal or unsafe conditions as per adopted State codes and the most current
+version of the Hood River County Dangerous Buildings Code.
+
+d. Assures compliance with State building codes and other State and
+local ordinances, and issues notices and orders or subpoenas for
+noncompliance with State and local building codes at the discretion of the
+Building Official or Community Development Director.
+
+e. Maintains a permanent file of applications, plans, permits,
+certificates issued, fees collected, inspection reports, and notices and orders
+issued; with the exception that plans for one or two family  dwellings and
+accessory buildings shall be retained for the minimum requirements of the
+Oregon State Archives Retentions Schedule “Archives Div. 166-150”.
+Once the State Archives retention time has been met the construction plans
+may be returned to the owner of the structure. The plans for one or two
+family dwellings may be destroyed in the event they are not picked up by
+the applicant within ninety days after notification.
+
+f. All records shall be open for public inspection, as allowed by law.
+
+g. Submits state reports in accordance with requirements of the State
+of Oregon.
+
+h. Issues Filling & Grading permits and work inspected as per Oregon
+1998 Structural Specialty Code, appendix Chapter 33.
+
+i. Collects all fees in accordance with the fee-schedule adopted by the
+Board of Commissioners, and all fees collected shall be submitted to the
+Budget & Finance Department on a regular basis. Any structure that is
+determined to meet the State definition of an agricultural building shall be
+exempt from the fee schedule and shall not require inspections or permits
+from Building Codes.
+
+18A.5 Planning and Zoning
+
+a. Receives and processes applications for the use or development of
+land to ensure compliance with the County Comprehensive Plan, State Laws
+and administrative rules, and local ordinances.
+
+b. Coordinates all land use applications and permits with appropriate
+State agencies, County departments and local agencies.
+
+c. Requires safeguards deemed necessary for the safety of individuals,
+the preservation of natural resources or to preclude nuisances to neighboring
+properties during the construction period.
+
+d. Assures compliance with the County Comprehensive Plan and other
+local ordinances, and issue enforcement orders, subpoenas or other actions
+for noncompliance at the discretion of the Planning Director.
+
+e. Maintains a permanent file of applications, decision letters, appeal
+results, fees collected, notices and orders in accordance with State retention
+guidelines.
+
+f. All records shall be open for public inspection, as allowed by law.
+
+g. Submits State reports in accordance with the requirements of the
+State of Oregon.
+
+h. Collects all fees collected with the fee schedule adopted by the Board
+of Commissioners, and all fees collected shall be submitted to the Budget &
+Finance Department on a regular basis.
+
+i. Develops background and technical reports as needed or requested
+to provide a basis for land use decisions by the Planning Director, Planning
+Commission or the Board of Commissioners.
+
+j. Drafts proposals for updating the Comprehensive Plan, zoning and
+land use ordinances, subdivision ordinance, and other such ordinances as
+deemed necessary by the Board of Commissioners, Planning Commission or
+Planning Director to protect or enhance the general welfare of the County.
+
+k. Generates citizen interest, input and participation into the planning process
+insofar as is allowed by existing laws and ordinances.
+
+18A.6 Information Services
+
+a. Coordinates all computer hardware and software purchases,
+installation, maintenance and performance monitoring.
+
+b. Provides redundant support for mission critical computer systems as
+required.
+
+c. Reviews and coordinates software licensing and copyright
+agreements to ensure that all current software has been legally obtained and
+currently licensed.
+
+d. Maintains the Information Systems strategic plan including all
+computing, data, software, systems operations, and data/video
+communications systems.
+
+18A.7 Veterans’ Services
+
+a. Assist veterans and their families in making application for Federal
+and State Veterans’ benefits and to serve as a liaison between the veterans
+and their families and the U.S. Department of Veterans’ Affairs, the Oregon
+Department of Veterans’ Affairs and all agencies that provide special benefits
+to Veterans.
+
+b. Provides logistical assistance to local Veterans’ services organizations
+in coordinating and planning for major Veteran related events to include the
+use of County meeting rooms, printed agendas, etc.
+
+18A.8 Economic Development
+
+a. Liaisons with local state and federal agencies and organization
+working in the region for economic development. Ensures that appropriate
+and necessary contracts and resources are known and made available to local
+businesses, individuals, and representatives from appropriate agencies and
+special interest committees and work groups.
+
+b. Staffs the Hood River County Economic Development Committee, if
+active, to develop, update and implement the Development Action Plan and
+to facilitate progress with respect to achievement of measureable goals and
+outcomes.
+
+c. Directs and coordinates the County’s efforts with regard to the
+development of enterprise activities, particularly in the areas of renewable
+energy – wind, hydro, biomass, & solar, as well as other potential
+technologies as they develop.
+
+d. Maintains records and files pertaining to relevant research and
+development programs, efforts, and meetings and serves as a clearinghouse
+for economic development and enterprise development resources and
+information generated by others.
+
+e. Serves as the contact point with potential businesses to locate or
+expand in the county. Brings principals together for potential businesses to
+locate or expand in the County.
+SECTION 19-A
+COMMISSION ON CHILDREN & FAMILIES DEPARTMENT
+(Adopted 6/7/99)
+(Revised 4/16/01)
+
+A. ORGANIZATION & STRUCTURE
+
+19A.0 The Department of Children and Families shall be under the direction
+of a Director who shall be appointed and supervised by the County
+Administrator.
+
+19A.1 To assure effectiveness and efficiency, in addition to the Director,
+additional staff shall be provided as required by State law or as determined
+necessary by the Commission on Children and Families; subject to approval
+by the County Administrator, Board of Commissioners, and the Budget
+Committee.
+
+B. RESPONSIBILITIES
+
+19A.2 The Department of Children and Families shall comply with
+provisions of Oregon Revised Statutes, the Hood River County Charter, The
+Hood River County Administrative Code, and the Hood River County
+Personnel Code, policies adopted by the Board of Commissioners, County
+administrative policies, directives and procedures and applicable Oregon
+Administrative Rules.
+
+19A.3 The primary responsibility of the Department of Children and
+Families include:
+
+a. Comprehensive Community Planning and Implementation.
+
+i. Lead and coordinate a local planning process.
+
+ii. Convene and engage broad community participation.
+
+iii. Facilitate the local process of compiling and analyzing data, mapping
+services, identifying gaps, barriers, needs, and strengths.
+
+iv. Develop collective strategic actions plans.
+
+v. Determine Hood River County Commission on Children & Families
+investments of time and resources.
+vi. Promote shared leadership among agencies and community
+organizations to implement and monitor the comp plan and related
+service plans.
+
+b. Policy Development (Shaping Policy and Law).
+
+i. Provide leadership and expertise on children, youth, and family
+issues.
+
+ii. Develop policy recommendations addressing identified issues.
+
+iii. Provide information and resources regarding best practices.
+
+iv. Advise reform regarding children, youth and families.
+
+c. Community Mobilization.
+
+i. Engage community members in addressing issues facing children,
+youth, and families.
+
+ii. Strengthen links between the community and formal service
+networks.
+
+iii. Build community awareness, knowledge, and advocacy around
+children, youth, and family issues.
+
+iv. Facilitate development of community solutions and partnerships.
+
+v. Celebrate community successes.
+
+d. System Development.
+
+i. Work together across multiple disciplines and partners to develop and
+assure a comprehensive continuum of services.
+
+ii. Act as a catalyst for system delivery improvement through increased
+effectiveness, efficiency, and innovation.
+
+iii. Build community capacity to better manage and develop resources.
+
+iv. Facilitate mediation and other alternative conflict resolution
+approaches for community groups seeking to develop collaborations
+or partnerships.
+e. Service Delivery Improvements.
+
+i. Identify services and service delivery improvements needed in the
+county.
+
+ii. Improve existing services through promotion of evidence based
+practices.
+
+iii. Invest Commission on Children and Families resources for the
+implementation of programs and initiatives that address issues
+identified in the coordinated comprehensive plan and monitor,
+evaluate and manage those resources.
+
+iv. Monitor and evaluate local comprehensive plan effectiveness.
+SECTION 20-A
+COMMUNITY CORRECTIONS DEPARTMENT
+
+A. ORGANIZATION AND STRUCTURE:
+
+20A.0 Hood River County shall provide a Community Corrections Program, and
+shall administer this program in accordance with established County
+policies and procedures and provisions of the Intergovernmental
+Agreement between Hood River County and the State of Oregon
+Department of Corrections.
+
+20A.1 Community Corrections shall be under the supervision of a Community
+Corrections Director who shall be appointed and supervised by the County
+Administrator.
+
+20A.2 The Community Corrections Director shall be responsible for planning
+and implementation of the corrections programs as set forth in the local
+Corrections Plan approved by the Board of Commissioners, set forth in the
+Intergovernmental Agreement between Hood River County and the State
+of Oregon Department of Corrections, and set forth in ORS 423.500-
+423.560.
+
+20A.3 In addition to the Community Corrections Director, additional staff shall
+be provided as deemed necessary by the Budget Committee and the Board
+of Commissioners and County Administrator to assure the efficient and
+effective operation of Community Corrections.
+
+20A.4 The Community Corrections Director shall coordinate programs and
+projects with the County Administrator and follow established County
+policies and procedures.
+
+B. RESPONSIBILITIES:
+
+20A.5 The primary responsibility of Community Corrections shall be counseling,
+and guidance of individuals placed on probation, parole, or post-prison
+supervision in accordance with established County policies and procedures
+and the Intergovernmental Agreement between the County and the State of
+Oregon Department of Corrections. Provide investigation, reporting, and
+imposition of Intermediate Structured Sanctions. Provide referral services
+to clients which assist in their reformation.
+20A.6 Community Corrections shall be operated within the following guidelines:
+
+a. Submit accurate and timely pre-sentence investigations,
+release investigations, and other reports at the request of the Circuit
+Court.
+
+b. Assign and monitor Community Services as directed by the
+Circuit Court, as staff resources allow.
+
+c. Coordinate and network with other local social service
+agencies such as the Employment Division, Vocational
+rehabilitation, and mental health etc., to design and facilitate the
+development of rehabilitative programs for offenders sentenced to
+probation within the County.
+
+d. Prepare release plans, local control post-prison supervision
+orders, and warrants of Local Control clients for the signature of
+the local supervisory authority, prepare violation hearings for Local
+Control post-prison clients.
+SECTION 21-A
+FORESTRY DEPARTMENT
+(Revised 2/17/04)
+
+A. POLICY
+
+21A.0  Manage the county forest to benefit Hood River County citizens through
+revenue to County Government derived from the sale of forest products managed
+in a sustainable manner in compliance with applicable laws.
+
+B ORGANIZATION AND STRUCTURE:
+
+21A.1    The  Forestry Department is created and shall be under the supervision
+and direction of a Forest Manager who shall be appointed and supervised by the
+County Administrator.
+
+21A.2    The  Department of Forestry shall have offices in the Forestry Building
+located in the Department of Public Works complex or other location as deemed
+appropriate by the Board of Commissioners.
+
+21A.3    In  addition to the Forest Manager, additional staff shall be provided as
+deemed necessary by the County Administrator, Budget Committee, and the
+Board of Commissioners to ensure the effective and efficient operation of the
+Forestry Department.
+
+C. RESPONSIBILITIES:
+
+21.4  The Forestry department shall comply with provisions of Oregon Revised Statutes
+(ORS), the Hood River County Charter, the Hood River County Administrative
+Code, the Hood River County Personnel Code, policies adopted by the Board of
+Commissioners, and administrative policies, the Oregon Forest Practices Act,
+procedures and related directives and the Oregon Administrative Rules.
+
+21A.5    The  primary responsibility of the Forestry Department shall be the
+management of approximately 49,000+ acres of land dedicated as County Forest.
+The management goal shall be to derive the most favorable sustained benefit from
+the sale of forest products in compliance with the Oregon Forest Practice Act and
+approved allowable cut. Revenues derived from sale of county forest products
+shall offset taxes in the County General Fund.
+
+21A.5 The Forestry Department shall be operated within the following policy
+guidelines:
+a. The forest management activities of the county forest shall be incompliance
+with the Oregon Forest Practices Act, ORS 527 and other forestry -related
+Oregon Revised Statues i.e. ORS 477 (Protection of Forest & Vegetation from
+Fire); ORS 527 (insects & Disease; Forest Practices); ORS 532 (Branding of
+Forest Products); ORS 634 (Pesticide Control); applicable Oregon
+Administrative Rules in chapter 629.
+
+b. A County Forest Management Plan may be initiated and maintained for
+management activities. The County Forest Management Plan will be
+consistent with sustained yield forest management.
+
+c. The County Forest Management Plan and any amendments or revisions to the
+Management Plan shall be reviewed by the Forest Advisory Committee prior
+to being submitted to the Board of Commissioners for review and approval.
+d. Revenue derived from the sale of county forest products shall be a resource to
+the County General Fund.
+
+e. Sale of county forest products shall comply with established county bid
+procedures or the Oregon Revised Statutes. A request for a contract extension
+shall be in accordance with the contract or considered on the basis of
+guidelines set forth in the Resolution adopted by the Board of
+Commissioners.1
+
+The Forestry Department may request and receive written and oral bids for
+county forest timber sales. The Board of Commissioners shall award all
+contracts for County Forest timber sales; except, the Forestry Department may
+negotiate and sell County Forest timber sales with a value of less than $5,000
+and waive bid requirements for County Forest timber sales with a value of less
+than $5,000 (ORS 275.340).
+
+Revenue derived from forest products, which are sold for future fiscal years,
+but which are removed prior to those fiscal years, shall be placed in the
+Timber Deposit Fund and used for budgeting purposes in the fiscal years that
+the forest products were scheduled for removal.
+
+f. Revenue from timber sales are placed in the Timber Deposit Fund. Interest
+earnings from the Timber Deposit Fund shall accumulate in a Timber Deposit
+Interest Fund, which is managed by the Budget & Finance Director, and each
+year the Budget Committee may transfer interest earnings from the Timber
+Deposit Interest Fund to the County General Fund. The amount of the transfer
+will depend upon average interest earnings.
+
+g. Roads designated as county forest roads shall be kept open for use by the
+general public; except any closures necessary due to weather, hazardous road
+conditions or fire danger shall comply with provisions of the Ordinance
+adopted by the Board of Commissioners. A use or maintenance fee may be
+assessed on non-dedicated county forest roads in accordance with provisions
+of the Resolution adopted by the Board of Commissioners.
+
+Roads and logging spurs built for removal of forest products may be closed in
+cooperation with adjacent landowners and compliance with Oregon Forest
+Practices Act.
+
+h. The Forestry Department may issue personal use permits for removal of
+firewood, plants, or other natural resources to the general public from County
+Forest land. The County Forest land on which removals of natural resources
+is allowed shall be as designated by the Forest Manager. The Forest Manager
+may impose rules and regulations that are deemed necessary. The Board of
+Commissioners shall establish the permit fee for removing natural resources.
+
+i. It is recognized that forest emergencies could develop as a result of fire,
+insects, wind and other natural or unplanned events. Therefore, effective July
+1, 1985, five percent of the revenue derived in each fiscal year from the
+allowable cut and other forest revenues, up to $75,000 (revised 2/20/96) per
+fiscal year, shall be placed into a Forest Emergency Fund and used only in the
+event of a forest emergency. When the Forest Emergency Fund exceeds
+$1,000,000.00 the amount placed in the Forest Emergency Fund may be
+reduced to $50,000 each fiscal year. Funds shall accrue until a maximum of
+$2,000,000.00 is in the Forest Emergency Fund.  Interest from the Forest
+Emergency Fund shall be credited to the County General Fund and may be
+used during any budget year for General Fund purposes.
+j. After receiving input from the Forestry Department, Forest Advisory
+Committee or other interested agencies the Board of Commissioners may
+declare a county forest emergency. When a forest emergency is declared, the
+funds accumulated in the Forest Emergency Fund shall be used at the
+discretion of the Board of Commissioners to offset the financial impact of the
+forest emergency.
+
+k.  Land exchanges shall be in accordance with Hood River County Ordinance
+No. 271, or subsequent Ordinances prescribing exchanges of county forestland.
+
+l.  Procedures and regulations for parties installing water lines that
+cross County Forest land shall be in accordance with provisions of
+the Ordinance adopted by the Board of Commissioners.
+m. The Forestry Department will review all federal and state laws and rules
+applicable to forestry and forest management and make recommendations to
+the Board of Commissioners.
+
+n. It is recognized that conferences, meetings and schools will be held that
+pertain to established or reviewing regional natural resources policy that
+may require elected officials to attend.  A member of the Board of
+Commissioners may attend these meetings as an advocate for local forestry
+practices.
+
+o. Requests from other county departments that may have an effect to forest
+management of the county forest or access to the county forest shall be
+submitted to the Forestry Department for comment.
+SECTION 22-A
+HEALTH DEPARTMENT
+(Revised 4/16/01)
+
+A. ORGANIZATION AND STRUCTURE:
+
+22A.0  The Health Department shall be under the direction of a Health Department Director
+who shall be appointed by and under the supervision of the County
+Administrator. The Health Department Director shall qualify  as a public health
+administrator according to O.R.S. 431.418(1), OAR 333-014-0070, and CLHO
+Minimum Standards.
+
+22A.1   The  Health Department shall be located at, 1109 June Street, Hood River, Oregon
+or other location as deemed appropriate by the Board of Commissioners.
+
+22A.2  The staff of the Health Department shall consist of at least the Health Department
+Director, Environmental Health Supervisor, and Health Officer/Medical
+Examiner. With the approval of the County Administrator, Board of
+Commissioners, and Budget Committee, other staff shall be appointed to
+effectively and efficiently carry out the duties and responsibilities of the Local
+Public Health Authority.
+
+B. RESPONSIBILITIES:
+
+22A.3   The  Health Department shall perform all of the duties and functions imposed upon
+it by Oregon Revised Statutes, Oregon Administrative Rules, Department of
+Human Services, County Ordinances, and the Board of Commissioners. The
+Hood River County Health Department shall perform the following duties.
+
+22A.4  Administer and enforce the rules of the local public health authority and public
+health laws and the rules of the Department of Human Services -Public Health
+Division.
+
+22A.5   Assure activities necessary for the preservation of health or prevention of disease
+in the area under its jurisdiction as provided in the annual plan of the authority per
+ORS 431.416. These activities shall include but not be limited to:
+
+a. Epidemiology and Control of Preventable Diseases and Disorders:
+
+Assure the control of acute communicable diseases, provide diagnostic
+consultation services, epidemiological investigations and institute
+appropriate measures for the communicable disease hazards in the County,
+and provide immunizations against vaccine preventable communicable
+diseases. Epidemiological studies will also be carried out on chronic and
+non-infectious diseases and conditions.
+
+b. Child and Family Health Services:
+
+Includes family planning clinics as described in O.R.S. 435.205, nutrition
+services which may be provided through the Women, Infant, Children
+(WIC) Program, perinatal services (CAHS) immunization services, school
+health and other services required or contracted.
+
+c. Health Statistics:
+
+Collection and reporting of health statistics as required by designation as the
+local office of vital statistics; gathering of data required or through a
+reasonable request.
+
+d. Health Information and Referral Service:
+
+Maintain current information of services available to specific groups of
+people, counsel and refer to existing programs in order to prevent
+duplication.
+
+e. Medical Examiner:
+
+Serve as the office for reports and expenditures for cases specified by the
+office of the State Medical Examiner and by rules and regulations of the
+State and County.
+
+f. Public Health Emergency Preparedness
+
+Serve as the office that coordinates appropriate action/operation plans in
+case of a public health emergency.
+
+g. Environmental Health Services:
+
+1. Food Services:  Contracts with the Health Division to conduct
+inspections of food service facilities within the County, according to
+an agreement with the State Health Division.
+
+Respond to other agencies for sanitation services when requested and
+as provided for by agreement or contract.
+Address public and professional groups. Provide education, as
+requested including food handler classes.
+
+2. Domestic Water: Conduct sanitary surveys of public water supply
+systems and sample if water supply source is acceptable.
+
+3. Swimming Pools: Inspect public and limited use pools and spas
+(which include apartments, lodges, motels and campgrounds) to
+insure a healthy and safe environment.
+
+4. Communicable Disease: Conduct Epidemiological Investigations
+relating to food, waterborne and other outbreaks.  Participate with
+Health Department investigative team in appropriate situations.
+
+5. Solid Waste Control Services: Perform as described in Hood River
+County Nuisance Abatement Ordinance.
+
+C. POLICY GUIDELINES:
+
+22.6 The Health Department shall be operated within the following policy guidelines:
+
+a. Medical programs and the dispensing of medications shall be under the
+direction and supervision of the Health Officer.
+
+b. An accurate and complete inventory and records of dispensing of
+medications shall be maintained in accordance with Oregon Board of
+Pharmacy.
+
+c. All medical and counseling consultations shall be confidential with the
+exception of those specified by law as being available to the public.
+
+d. The County may enter into contract agreements with the State of Oregon
+and other agencies, public or private, in order to provide necessary services.
+Such programs shall be administered according to the guidelines of the
+contracts.
+
+e. The Health Department shall coordinate its services with those of other
+social service agencies and medical practices to provide maximum service
+and avoid duplications.
+SECTION 23-A
+HUMAN RESOURCES DEPARTMENT
+(adopted 2/22/00)
+(adopted 7/20/09)
+
+A. ORGANIZATION AND STRUCTURE:
+
+23A.0 The Human Resources Department shall be administered by the Human
+Resources Director who shall be appointed and supervised by the County
+Administrator.
+
+23A.1 The Human Resources Department shall have offices located in the Hood River
+County Business Administration Building or other location as deemed appropriate
+by the Board of Commissioners.
+
+23A.2 In addition to the Human Resources Director, additional staff shall be provided as
+deemed necessary by the County Administrator, Budget Committee and the Board
+of Commissioners to ensure the efficient and effective operation of the
+department.
+
+B. RESPONSIBILITIES:
+
+23A.3 The primary responsibility of the Human Resources Department shall be to:
+
+a. Administer, interpret, and consult regarding the Personnel Code, related
+elements of the Administrative Code, Collective Bargaining Agreements,
+county classification system, job descriptions, and salary schedule.
+b.  Develop, maintain, and administer compensation packages for county
+employees which include group benefit programs.
+c. Retain and store confidential records, appraisals, files, and documents
+according to and/or required by law.
+d. Develop and maintain procedures, protocols, codes, forms, and
+supervisory training for the selection, discipline, appraisal, and
+reinstatement procedures for all county employees.
+e. Develop and maintain risk management programs, safety standard
+programs, and work related claims management for county departments
+and employees.
+f. Identify and support management/supervisory training or workshops
+pertaining to personnel policies and human resource issues.
+g. Serve as a resource for relevant changes in the law or relevant draft
+legislation. Also watch and suggest support of relevant draft Legislation
+to the Administrator and Board of Commissioners.
+h. Serve as the County Representative during labor negotiations, grievance
+resolutions, administrative law hearings, employment & workers
+compensation hearings and all other investigative/or representation
+matters pertaining to employee rights & entitlements under the law.
+
+i.  Provide General Public Service – Serves the general public or not-for
+profit agencies with regard to the sharing of general public information
+such as but not limited to: the applicable laws of the State and Federal
+government, county personnel code elements, policies, forms,
+classifications, protocols, procedures, and related issues.
+
+j.  Provide Management data – tracks and provides data based trends
+regarding human resource activities.
+
+k. Ensure Compliance by all departments and employees with applicable
+provisions of State and Federal law, the Hood River County Charter,
+Administrative Code and the Personnel Code.
+
+l. Watch for applicable grants, subject to the related county codes, rules, and
+procedures.
+
+m. Develop volunteer programs and the registration and assignment of
+emergency volunteer projects in a declared emergency, subject to the
+requirements of the emergency incident commander or county
+administrator.
+
+n. Department Head shall be responsible for the develop and tracking of the
+Human Resource department’s budget.
+SECTION 24-A
+JUSTICE DEPARTMENTS – DISTRICT ATTORNEY and JUSTICE COURT
+(Revised 4/16/01)
+
+A. ORGANIZATION AND STRUCTURE:
+
+24A.0   The  Justice Department shall include the Justice Court and the District Attorney
+and shall be under the direction and supervision of the elected positions of Justice
+of the Peace and District Attorney respectively.
+
+24A.1  Suitable  office space shall be provided in the Cascade Locks area for the Justice
+Court with safe, secure workstations and courtroom.
+
+24A.2  The District Attorney shall have offices located in the Hood River County
+Courthouse, or other location as deemed appropriate by the Board of
+Commissioners.
+
+24A.3  Adequate office space and court facilities shall be provided in the Hood River
+County Courthouse for Circuit Court.
+
+24A.4  In addition to the elective positions of Justice of the Peace and District Attorney,
+additional staff shall be provided as deemed necessary by the County
+Administrator, Budget Committee, and the Board of Commissioners to assure the
+efficient and effective operation of the Justice Court and the District Attorney's
+Office.
+
+B. RESPONSIBILITIES:
+
+24A.5 The Department of Justice shall function in accordance with applicable State
+Laws.
+
+District Attorney Department:
+
+24A.6 The District Attorney Department shall be operated within the following policy
+guidelines.
+
+a. The practice and procedure as to prosecution, trial and punishment for
+County offenses shall be the same as is provided under law for similar
+crimes under State Law.  A County offense means any crime defined or
+made punishable by County Ordinance or Charter.
+
+b. The District Attorney may serve as County Counsel to the Board of
+Commissioners, County Administrator, and County Departments in
+accordance with provisions of Oregon Revised Statutes. Remuneration to
+the District Attorney for services provided as County Counsel shall be
+determined by the Budget Committee and the Board of Commissioners.
+
+c. The District Attorney will ensure staff in the District Attorney’s Office
+complies with the County Administrative Code, and Personnel Code.
+
+d. The District Attorney shall administer and supervise the Victims' Assistance
+Program.
+
+Justice Court/Justice of the Peace:
+
+24A.7 The Justice of the Peace must:
+a. Abide by the Judges Code of Ethics
+b. Be bonded
+c. Attend or participate in a minimum of 30 hours of continuing legal
+education program every two calendar years
+d. May perform marriages anywhere in the State of Oregon
+e. Be a citizen of the United States
+f. Must be a resident of Oregon for 3 years and a resident of the Justice Court
+District one year prior to becoming a non-partisan candidate for election to
+the office.
+
+24A.8  The Justice Court Office must comply with local and state laws, County
+Administrative Code, Personnel Code, and county policies and procedures.
+SECTION 25-A
+JUVENILE DEPARTMENT
+
+A. ORGANIZATION AND STRUCTURE:
+
+25A.0  The  Juvenile Department shall be administered in accordance with
+established County policies and procedures and provisions of the Intergovernmental
+Agreement between Hood River County and the State of Oregon Department of
+Corrections for Adult Probation.
+
+25A.1  The  Juvenile Department shall be under the direction of the Juvenile
+Director who shall be appointed and supervised by the County Administrator.
+
+25A.2  The  Juvenile department shall have offices located in the Hood
+River County Courthouse or other location as deemed appropriate by the Board of
+Commissioners.
+
+25A.3  In  addition to the Juvenile Director additional staff may be provided
+as deemed necessary by the County Administrator, subject to approval by the full
+Budget Committee to assure the efficient and effective operation of the Department.
+
+B. RESPONSIBILITIES:
+
+25A.4  The  Director shall keep the County Administrator apprised of
+departmental programs, policies, procedures and projects, as well as other issues
+deemed appropriate.
+
+25A.5  The  primary and statutory responsibility of the Juvenile probation
+division from apprehension forward are to protect the public and reduce  juvenile
+delinquency and to provide fair and impartial procedures for the initiation,
+adjudication and disposition of allegations of delinquent conduct. The system is
+founded on the principles of personal responsibility, accountability, and reformation
+within the context of public safety and restitution to the victims and to the
+community. The system shall provide a continuum of services that emphasize
+prevention of further criminal activity by the use of early and certain sanctions,
+reformation and rehabilitation programs and swift and decisive intervention in
+delinquent behavior.
+25A.6 In order to fulfill the above primary responsibilities, the following guidelines shall
+apply:
+a. Probation supervision of each youth placed under the jurisdiction of
+the Court shall be provided and the extent of the supervision shall
+depend on the individual situation involved.
+
+b. Counseling and referral to other community agencies providing
+needed specialized services will be a goal of the Department.
+
+c. The Juvenile Division staff shall accept responsibility for intake
+decisions and will enter into pre-adjudicatory crisis interventions as
+needed.
+
+d. At least one professional staff person shall be available during non-
+office hours for emergencies.
+
+e.  Programs shall be coordinated with other social service
+agencies and local schools to avoid any duplication of
+services and programs.
+SECTION 26-A
+DEPARTMENT OF LAW ENFORCEMENT
+SHERIFF'S DEPARTMENT
+(Revised 4/16/01)
+
+A. ORGANIZATION AND STRUCTURE:
+
+26A.0   The  Department of Law Enforcement shall be under the direction and supervision
+of an elected Director of Law Enforcement who shall be known as the Hood River
+County Sheriff.
+
+26A.1  The Organization and Structure of the Department of Law Enforcement shall be in
+accordance with Article X of the Hood River County Charter (Revised May
+2008).
+
+B. RESPONSIBILITIES:
+
+26A.2  Responsibilities  of the Department of Law Enforcement shall be in conformance
+with Article X of the Hood River County Charter (Revised May 2008), and
+Oregon Revised Statutes.
+
+26A.3   The  County Jail shall be administered and operated in accordance with provisions
+of Oregon Revised Statutes.
+
+C. COUNTY CHARTER - ADMINISTRATIVE CODE - PERSONNEL CODE:
+
+26A.4 There shall be conformance with provisions of the Hood River County
+Administrative Code and the Hood River County Personnel Code.
+
+D. PURCHASING PROCEDURES:
+
+26A.5 There shall be compliance with the adopted Purchasing Procedures and
+established procedure for expenditure of budgeted funds.
+
+E. BUDGET PROCEDURE:
+
+26A.6 There shall be compliance with the adopted Budget Procedures.
+F. EQUIPMENT INVENTORY:
+
+26A7 A list of all fixed assets shall be furnished to the Budget & Finance Department
+and the list shall be kept current.
+SECTION 26-B
+DEPARTMENT OF LAW ENFORCEMENT
+ANIMAL CONTROL DIVISION
+(Revised 4/16/01)
+
+A. ORGANIZATION AND STRUCTURE:
+
+26B.0 Animal Control shall be under the direction and supervision of the County Sheriff.
+The County Sheriff shall appoint an Animal Control Officer.
+
+26B.1 Animal Control shall be located in the Department of Law Enforcement, Hood
+River County Courthouse.
+
+B. RESPONSIBILITIES:
+
+26B.2  The primary responsibility of the Animal Control Division is to enforce the
+Ordinance adopted by the Board of Commissioners that prohibits dogs from
+running at large in Hood River County; and provides for the licensing, regulating,
+conduct, care and treatment of certain animals; prohibits activities, establishes
+procedures and provides penalties.
+
+26B.3  The  general public shall be made aware through the local news media and other
+methods of the requirement to license dogs.
+
+26B.4  Licensing programs shall be initiated and implemented by the Animal Control
+Officer.
+
+26B.5  Dog  licenses may be obtained from the Sheriff’s Department. Arrangements may
+also be made for sale of dog licenses at other convenient places throughout the
+County.
+
+26B.6  Fees collected for dog licenses shall be submitted to the Budget & Finance
+Department.
+
+26B.7 The Sheriff’s Office shall keep a computerized record of the sale of dog licenses.
+SECTION 26-C
+LAW ENFORCEMENT
+EMERGENCY SERVICES DIVISION
+(Revised 4/16/01)
+
+A. ORGANIZATION AND STRUCTURE:
+
+26C.0 County Emergency Services shall be under the direction of the County
+Sheriff.
+
+C26.1 Emergency Services shall have offices in the Courthouse or other location
+as deemed appropriate.
+
+26C.2 The County Sheriff shall appoint an Emergency Services Coordinator. In
+case of an emergency, other staff may be appointed, as deemed necessary by
+the Sheriff, with approval by the Board of Commissioners.
+
+B. RESPONSIBILITIES:
+
+26C.3 Emergency Services shall fulfill the requirements for emergency
+management and services as stipulated in Oregon Revised Statutes.
+401.015
+
+26C.4 The purpose of Emergency Services is to reduce the vulnerability of the
+County to loss of life, injury to persons or property and human suffering and
+financial loss resulting from emergencies, and to provide for recovery and
+relief assistance of the victims of such occurrences.
+
+26C.5 Emergency Services shall perform emergency program management
+functions within the County.
+
+26C.6 Emergency Services shall provide essential services for the public's benefit
+prior to, during, or following an emergency.
+
+26C.7 Emergency Services is responsible for preparing emergency  plans and to
+carry out any activity to prevent, minimize, respond to or recover for an
+emergency.
+
+26C.8 The Emergency Services Coordinator, under direction of the County
+Sheriff, shall establish policies that provide direction and identify and
+define the purpose and roles of the individual emergency management
+programs, specify the responsibility of the emergency program managers
+and staff, and establish lines of communication, succession and authority of
+elected officials for an effective and sufficient response to emergency
+conditions.
+
+26C.9  The  Board of Commissioners may enter into Emergency Cooperative Assistance
+Agreements with other public and private agencies for reciprocal emergency aid
+and resources.
+
+26C.10  Emergency  Services shall develop and maintain an Emergency Operations Plan
+for the County and the incorporated areas that provides for multi -jurisdictional
+cooperation on a Regional basis.
+
+26C.11  Emergency  Services shall prepare and periodically update an organizational chart
+that indicates all participating organizations/agencies and the contact person(s).
+
+26C.12  Emergency  Services shall coordinate training activities and periodically conduct a
+mock disaster drill.  A written critique shall be submitted to the Board of
+Commissioners.
+
+26C.13  If an emergency occurs, the Emergency Services Coordinator, under direction of
+the County Sheriff, must determine whether resources in the region are capable of
+handling the emergency and whether outside assistance is needed.  If the
+determination is that the region cannot adequately respond, immediate notification
+shall be given to the County Administrator for referral to the Board of
+Commissioners. The Board of Commissioners must declare an emergency and
+the Governor of the State of Oregon immediately notified of the declaration of an
+emergency.
+26C.14  If an emergency occurs, the Emergency Services Coordinator, under direction of
+the County Sheriff, shall be responsible for obtaining State and Federal funds for
+reimbursement.
+
+26C.15  Emergency Services shall maintain an inventory of emergency equipment and
+supplies.
+
+26C.16 The Emergency Services Coordinator shall provide staff assistance to The
+Emergency Services Advisory Committee.
+SECTION 26-D
+LAW ENFORCEMENT
+911 COMMUNICATION SERVICE DISTRICT
+
+A. PURPOSE:
+
+26D.1 Provide quality emergency call reporting to the appropriate agency:
+Sheriff, Police, Fire or EMS to protect the citizens of Hood River
+County.
+
+B. ORGANIZATION AND STRUCTURE:
+
+26D.2 The 911 Communication Service District (DISTRICT) shall be under the
+supervision and direction of a 911 Commander who shall be appointed
+and supervised by the County Sheriff.
+
+26D.3 The DISTRICT shall have offices and facilities as determined to be
+appropriate by the Board of Commissioners.
+
+26D.4 In addition to the 911 Commander, additional staff shall be provided as
+deemed necessary by the County Administrator, Budget Committee, and
+the Board of Commissioners to ensure the effective and efficient
+operation of the DISTRICT.
+
+26D.5 A 911 Advisory Board (BOARD) is hereby created.  The BOARD may
+make recommendations to the Board of Commissioners regarding any of
+the DISTRICT’S rules, policies, or practices, as it considers necessary or
+desirable.
+
+C. RESPONSIBILITIES:
+
+26D.6 The primary responsibility of the DISTRICT shall be the dispatching of
+emergency service calls for the citizens of Hood River County. The
+management goals shall be to provide an efficient and safe environment
+for all who work and access the 911 Center.
+
+26D.7 The DISTRICT shall be operated within the following policy guidelines:
+
+a. The DISTRICT shall follow all applicable Oregon Revised
+Statues in Chapter 451 and other pertinent ORS’s, as well as the
+County Administrative Code, Personnel Code and applicable
+Union Contract for employees.
+D, EMPLOYEES:
+
+26D.8 911 Commander
+
+a. The 911 Commander (COMMANDER) shall be an employee
+of the County.
+
+b. The COMMANDER shall be the administrator of the
+DISTRICT and shall be responsible for the necessary
+administration of the DISTRICT. The COMMANDER is
+responsible for the budget of the DISTRICT as well as the
+supervision, training, hiring, and firing, of all employees as well as
+call answering, dispatching, records communications security and
+other communication center functions, within the guidelines of
+adopted County rules, policies, and procedures.
+c. The COMMANDER shall attend all BOARD meetings and
+joint BOARD/Board of Commissioners meetings. The
+COMMANDER, when appearing before the BOARD or Board of
+Commissioners, shall answer questions and provide information
+necessary for the conduct of DISTRICT business as well as provide
+a proposed budget for the BOARD to review and recommend to
+the Board of Commissioners.
+
+E. FUNDING
+
+26D.9 Funding shall be derived as follows:
+
+a. Excise taxes collected on telephone exchange access
+services and distributed to participating local jurisdictions by the
+state pursuant to ORS 401.710 to 401.790;
+
+b. Ad valorem property taxes received by the DISTRICT and;
+
+c. The BOARD may propose additional funding methods such
+as service fees and cost sharing formulas subject to approval by the
+Board of Commissioners.
+F. 911 ADVISORY BOARD
+
+26D.10 Membership on the BOARD shall be made of one representative from
+the following participating agencies, per ORS 401.710 and 451.610:
+
+County Sheriff
+City of Hood River
+City of Cascade Locks
+Odell-Pine Grove Fire District
+Parkdale Fire District
+Westside Fire District
+Oregon Department of Forestry
+
+Members are appointed to two-year terms by the Board of
+Commissioners, with the exception of the County Sheriff. Initial
+appointments shall be staggered allowing for half of the membership to
+serve initial one-year terms. This is done so not all members’ terms
+expire at the same time.
+
+26D.11 Any equipment owned by a member agency located at the 911 Center is
+the responsibility of the member agency. This shall include purchasing
+such equipment, maintenance, repair and the need for any direct landlines
+from the 911 Center to each members individual stations, remote radios,
+office etc.
+
+26D.12 Member agencies are not responsible for DISTRICT landlines to
+DISTRICT dispatch radios.
+
+26D.13 Upon termination by a member agency and withdrawal from use of the
+public safety answering point, all agency equipment shall be removed
+and returned to the agency at their expense.
+
+26D.14 The BOARD’S Rules of Procedure are:
+
+a. To work with the COMMANDER to advise and assist the Board
+Board of Commissioners in establishing, maintaining, and operating
+the 9-1-1 emergency reporting system of the DISTRICT.
+
+b. To adopt rules for the conduct of its proceedings.
+
+c. To adopt 911 Advisory Board Rules of Procedures, subject to
+approval by the Board of Commissioners.
+d. Elect a Chair, Vice-Chair and Secretary at the first meeting in
+January each year.
+
+e. To meet, at least, annually with the Board of Commissioners at
+times and places determined by the Board and Governing Body.
+
+f. The Advisory Board may propose changes to any of the
+DISTRICT’S rules, policies, or practices, as it considers necessary or
+desirable. Final review and consideration of any proposed changes
+shall be made by the COMMANDER and Sheriff. If the decision is
+not satisfactory to the BOARD they may appeal the decision to the
+Board of Commissioners. In addition to its other functions and
+duties, the advisory Board shall review the annual budget of the
+DISTRICT and any assessments levied under ORS 451.410 to
+451.610. The advisory Board may meet with the Board of
+Commissioners, along with the COMMANDER and Sheriff, and may
+make such recommendations relating to the budget and assessments
+as it considers necessary or prudent.
+g. The Advisory Board may appoint Ad-hoc Committees, subject
+to the approval of the Board of Commissioners, in order to facilitate
+the operation functions of the District. The Ad-hoc Committee will
+bring their findings and/or recommendations to the Advisory Board
+for consideration and recommendation to the Board of
+Commissioners for final approval.
+SECTION 27-A
+DEPARTMENT OF PUBLIC WORKS
+(Revised 12/6/04)
+
+A. ORGANIZATION AND STRUCTURE:
+
+27A.0  The Department of Public Works shall be under the direction and supervision of a
+Director of Public Works who shall be appointed and supervised by the County
+Administrator.
+
+27A.1  The  Director of Public Works shall also be the department head for the Parks &
+Buildings Division, Weed & Pest Division, and the History Museum.
+
+27A.2   The  staff of the Department of Public Works shall include a surveyor licensed by
+the State of Oregon and additional staff as deemed necessary by the County
+Administrator, Budget Committee and the Board of Commissioners to assure the
+efficient and effective operation of Public Works.
+
+27A.3 A table of organization shall be maintained to indicate departmental operation.
+
+B. RESPONSIBILITIES:
+
+27A.4  The primary responsibility of the Department of Public Works shall be the
+management, construction, improvement and maintenance of accepted County
+roads and bridges as defined in Oregon Revised Statutes. The Department of
+Public Works shall also be responsible for the maintenance and improvement of
+County owned equipment and vehicles, fruit dump, rock quarries which are
+located upon land owned by the County and maintenance of the closed County
+landfill.
+
+27A.5  The Department of Public Works shall fulfill the duties and functions of the County
+Surveyor as defined in the Oregon Revised Statutes and shall also be responsible
+for surveys of road improvement projects and surveys of land upon which
+County forest timber sales may occur.
+
+27A.6  The Department of Public Works shall fulfill the duties and functions of the County
+Road master as defined in the Oregon Revised Statutes.
+
+27A.7  In addition to the functions required by the Oregon Revised Statutes, the Department
+of Public Works shall operate within the following policy guidelines:
+
+a. All vehicles in County ownership and County equipment used for road
+maintenance and improvement projects shall be maintained.
+b. Sufficient facilities shall be maintained for the maintenance of buildings,
+vehicles, and equipment under the jurisdiction of the Department of Public
+Works, and any others that may be directed by the Board of Commissioners.
+
+c. All proposals for new construction projects shall be submitted to the County
+Administrator for referral to the Board of Commissioners.
+
+d. A record shall be maintained of all formal and informal complaints received
+which have reference to conditions of a County road, bridge, culvert, or
+other project under the control and supervision of the Department of Public
+Works. Each complaint or notice shall be investigated and the date and
+time of such investigation and the disposition recorded.
+
+e. The Director of Public Works may cause any road or bridge to be closed for
+a short duration during construction or general maintenance if closure is in
+the best interest of the general public or to the benefit of Hood River
+County. The Director of Public Works shall provide the County
+Administrator and the news media with timely notification of any temporary
+road closures.
+
+f. The Department of Public Works shall implement and maintain a cost
+accounting system as required by Oregon Revised Statutes.
+
+g. Any requests for rental or loan of County equipment shall be referred to the
+County Administrator for approval.
+
+h. Any requests for purchase of County owned materials shall be submitted to
+the County Administrator for referral to the Board of Commissioners.
+
+i. Recommendations may be submitted to the Board of Commissioners
+pertaining to cooperative agreements for road maintenance for other public
+jurisdictions.
+
+j. The Board of Commissioners shall adopt Road Standards for new County
+roads. The Department of Public Works shall be responsible for
+maintaining the adopted Road Standards.
+
+k. Due to the January 2011 Board of Commissioners Resolution Number
+1775, acceptance of new County Roads are suspended until the Forest
+Safety-Net or similar funding, have in the judgment of the Board, been
+adequately restored. If this suspension is lifted prior to acceptance of a road
+into the County Road System, it shall be the responsibility of the property
+owner(s) to bring the road to acceptable County standards.
+l. Any requests for speed limits shall be referred to the Director who shall
+review the request and, if required, submit the request to the State Speed
+Control Committee.
+
+m. A County Department or public jurisdiction may obtain services from the
+Department of Public Works, and the Department of Public Works shall be
+reimbursed for such service by the County Department or public
+jurisdiction.
+
+n. The Department of Public Works shall review proposals for road easements,
+private roads, and public roads and submit an appropriate recommendation
+to the Board of Commissioners through the County Administrator.
+
+o. A list of all fixed assets shall be furnished to the Budget & Finance
+Department and the list shall be kept current.
+SECTION 27-B
+DEPARTMENT OF PUBIC WORKS
+PARKS & BUILDINGS DIVISION
+(Revised 12/6/04)
+A.
+ORGANIZATION AND STRUCTURE:
+
+27B.0 The Parks & Buildings Division shall be under the supervision and
+direction of the County Director of Public Works.
+
+27B.1 The Parks & Buildings Division shall have offices at the Hood River County
+Forestry Division Building, or other location as deemed appropriate by the Board
+of Commissioners.
+
+27B.2 In addition to the County Director of Public Works, additional staff shall be
+provided as deemed necessary by the County Administrator, Budget Committee,
+and the Board of Commissioners to assure the efficient and effective operation of
+the Division.
+
+27B.3 The Parks & Buildings Division shall collaborate with all county Divisions when
+given the opportunity.
+B. RESPONSIBILITIES:
+
+27B.4 The Parks & Buildings Division shall comply with provisions of Oregon Revised
+Statutes, the Hood River County Charter, the Hood River County Administrative
+Code, the Hood River County Personnel Code, policies adopted by the Board of
+Commissioners and administrative policies, procedures and directives and the
+Oregon Administrative Rules.
+
+27B.5 The responsibility of the Parks & Buildings Division shall be to maintain County
+Parks and facilities. Maintain and oversee the Weed & Pest program, support the
+administrative functions of the County Museum, oversee all county and contracted
+construction (new and remodel) and, and maintain all County owned facilities.
+
+27B.6 County Parks are as designated and described by the Ordinance
+adopted by the Board of Commissioners.
+
+27B.7 The Parks & Buildings Division shall be operated within the following policy
+guidelines:
+
+a.  Rules regulating County Parks shall be in accordance with the Ordinance
+adopted by the Board of Commissioners.
+b. Capital improvement projects shall require approval and appropriation of
+funds from the Board of Commissioners.
+
+c. Available grant funds for park purposes may be pursued.
+
+d. A general Division and park plan shall be developed for each County Park.
+A Park Plan may be developed by the Parks & Buildings Division staff or by
+another method as approved by the Board of Commissioners.
+
+e. Additions or alterations to a County Park shall be in accordance with the
+Park Plan as adopted by the Board of Commissioners.
+
+f. Plans for County Parks may be revised and updated, subject to approval by
+the Board of Commissioners.
+
+g. Volunteer programs may be initiated and implemented for improvement or
+maintenance of a County Park. Any volunteer program shall be submitted to
+the County Administrator for review and approval.
+
+h. The director of the Division may provide on- site park residence
+renters/helpers/ and volunteer hosts for County Parks.
+
+i. A group or individual may make reservations for use of a camping, trailer, or
+picnic area in Toll Bridge County Park County Park. Tucker Park will only
+accept reservations for the picnic shelter. Preference shall be given to Hood
+River County residents. A reservation for the park shelters must be for at
+least 25 people. Reservations may be made through the Parks & Buildings
+Division or through the Parks caretaker.
+
+j. Fee schedules for use of County Parks and facilities shall generally be the
+same as the fee schedule for State Parks.
+
+k. The Parks & Buildings Division shall be responsible for yard maintenance at
+the County Courthouse, CBAB, County Health Division, County Library,
+County Museum, and County Cemetery.
+
+l. Concession stands for special occasions not to exceed three days may be
+approved by the director. An approval of a concession stand shall be limited
+to nonprofit civic organizations.
+
+m. Park facilities may be closed to the general public from November 1 to April
+1, subject to approval by the Board of Commissioners.
+C. CONSTRUCTION PROJECTS
+
+27B.8  The Director of Public Works shall oversee all County and contracted remodel
+and new construction projects that have been approved by the Board of
+Commissioners. The Director shall develop and administer the Capital
+Construction budget and develop a County long-range plan for County facilities.
+
+27B.9  The Director will identify and track all actual costs to the satisfaction of the Budget
+& Finance Director and the County Administrator.
+
+D. FACILITIES MAINTENANCE
+
+27B.10  The Director of Public Works shall provide staff support as well as oversee all
+County and contracted facilities maintenance.
+SECTION 27-C
+DEPARTMENT OF PUBLIC WORKS
+WEED AND PEST DIVISION
+(Revised 12/6/04)
+
+A. ORGANIZATION AND STRUCTURE
+
+27C.0 The Weed and Pest Division shall be under the supervision of the County Director
+of Public Works.
+
+27C.1 The Weed and Pest Division shall have offices at the Hood River County Forestry
+Division building or other location as deemed appropriate by the Board of
+Commissioners.
+
+27C.2 In addition to the County Director of Public Works additional staff shall be
+provided as deemed necessary by the County Administrator, Budget Committee,
+and the Board of Commissioners.
+
+B. RESPONSIBILITIES:
+
+27C.3 The Weed and Pest Division shall comply with provisions of Oregon Revised
+Statutes, the Hood River County Charter, the Hood River County Administrative
+Code, the Hood River County Personnel Code, policies adopted by the Board of
+Commissioners and administrative policies, procedures and directives, and the
+Oregon Administrative Rules Compilation adopted by the Oregon State Division of
+Agriculture.
+
+27C.4 The primary responsibility of the Weed and Pest Division is the control and
+eradication of weeds, orchard insect pests, and diseases that are a threat or danger
+to agricultural lands or the agricultural industry.
+
+27C.5 The Weed and Pest Division shall be operated within the following policy guidelines:
+
+b. The Weed and Pest Division shall receive advice from the Oregon State
+Extension on methods and procedures to be used for the control and eradication
+of apple maggot, pear psylia, tansy ragwort and other weeds, pests or diseases
+that are found to be a threat or danger to the agricultural lands or to the
+agricultural industry.
+
+c. Under the supervision of the County Director of Public Works, contracts and
+agreements with other agencies for weed and pest control shall be administered.
+Funds received from other agencies shall be expended in accordance with
+provisions of the contract or agreement.
+SECTION 28-A
+RECORDS AND ASSESSMENT
+(Amended 9/16/96)
+(Revised 4/16/01)
+
+A. ORGANIZATION AND STRUCTURE:
+
+28A.0  The Department of Records and Assessment shall be under the supervision of the
+Director of Records and Assessment, who shall be appointed and supervised by
+the County Administrator.
+
+28A.1  The Department of  Records and Assessment shall be  located in the  Hood River
+County Courthouse or other location deemed appropriate by the Board of
+Commissioners.
+
+28A.2  In addition to the Director of Records and Assessment, additional staff shall be
+provided as deemed necessary by the County Administrator, Budget Committee,
+and the Board of Commissioners to assure the efficient and effective operation of
+the Department of Records and Assessment.
+
+B. RESPONSIBILITIES:
+
+28A.3 The Department of Records and Assessment shall be responsible for
+performing the duties of County Assessor and County Clerk as specified by
+Oregon Revised Statutes unless County Clerk duties have been specifically
+assigned to another Department.
+
+The primary responsibilities of the Department of Records and Assessment include:
+
+a. The appraisal of all real, business personal property, and
+manufactured structures in the county at 100% of real market value and the
+defense of these values during appeals.
+
+b. Administration of special assessment and exemption programs.
+
+c. The processing of transactions for the Department of Consumer and
+Business Services relating to ownership, transporting, titling, and de-titling
+of manufactured structures.
+
+d. Calculation and preparation of the tax roll.
+
+e. Issuing marriage licenses.
+f. Processing passport applications.
+
+g. Recording documents.
+
+h. Registering voters.
+
+i. Conducting elections.
+
+j. Collection of fees as determined by County Ordinance and Oregon
+Revised Statute.
+
+The Department of Records and Assessment shall operate within the following guidelines.:
+
+a. All appraisals of real property shall be made by a registered
+appraiser.
+
+b. The Director shall have the authority to establish and publicly post
+rules and regulations regarding the use of the  office, records, and files by
+the general public.
+
+c. The records under the control and care of this department shall be
+all-inclusive as regards to County records and shall include the compilation
+of all Ordinances and Resolutions; except those records specifically
+assigned or designated to the Budget & Finance Department or to Trial
+Court operations.
+
+d. The Department shall establish appropriate controls and systems
+pertaining to the filing and storage of all records of county importance.
+
+e. All elections shall be conducted in accordance with provisions of
+ORS. Chapter 254.
+
+f. Fee schedules shall be established by the Board of Commissioners
+and the Oregon Revised Statues.
+C. PROCEDURES FOR DOCUMENTS, AGREEMENTS, ORDINANCES, ORDERS AND
+RESOLUTIONS:
+
+28A.4  DEFINITIONS:
+
+a. For purposes of this section, the term “document” means any conveyance of
+an interest in real or personal property to which Hood River County is a
+party, either as transferor, transferee or secured party, and shall include but
+not be limited to a deed, mortgage, deed of trust, land sale, contract,
+easement, right of way, license or option.
+
+b. The term agreement includes any contract which is not a document defined
+above, or other agreement to which Hood River County is a party, and
+includes but is not limited to vendor and service agreements,
+intergovernmental agreements and equipment rental or maintenance
+agreements. (Timber sale contracts are separately filed).
+
+28A.5 INITIATION:
+
+a. Any person, department or entity requesting the passage or approval of any
+document, agreement, ordinance resolution or order shall, except in the case
+of orders naturally resulting from the completion of an existing contested
+case, initiate the request with the Administration office.
+
+b. All documents, agreements, ordinances, resolutions or orders shall be
+drafted or approved by and shall be signed by Hood River County General
+Counsel, Land Use Counsel or Labor Relations Counsel prior to
+presentation to the Board of Commissioners for acceptance or final passage.
+
+28A.6 PROCESSING AND STORAGE:
+
+a. After completion, approval and signature by the parties, all documents,
+agreements, ordinances, resolution and orders, shall be delivered to the
+Department of Records and Assessment for recording according to O.R.S.
+in the case of real estate documents, and for filing in all other cases.
+
+b. Real estate documents, after recording, shall be maintained at
+Department of Records and Assessment for permanent storage in a separate
+file maintained for original real estate documents only.
+
+c. Items not recorded shall be assigned a filing number, which
+identifies the item as an ordinance, resolution, order or miscellaneous
+agreement, and the year of filing. They shall then be properly indexed, and
+maintained in the Department of Records and Assessment in a file, which is
+available to the public, in accordance with the County Charter.
+
+d. All unrecorded original items filed according to this section shall be
+maintained in a fireproof file, or shall be copied to an electronic or
+photographic record, which is stored in a fireproof location.
+SECTION 40-A
+PROJECTS/PROGRAMS/SERVICES
+
+40A.0  Projects, programs, and services may be provided and funded by the Board of
+Commissioners. A project, program, or service may be ongoing or may be for a
+specific purpose for a short duration. A project, program, or service may be
+administered by a County Department Head in conjunction with a County
+Department. Unless a project, program, or service is administered by a County
+Department Head, it will be supervised and administered by the County
+Administrator.
+
+40A.1  A program, project or service funded with grant funds or funds from outside
+sources shall be terminated upon expiration of the grant funds or funds from
+outside sources. To continue a program, project or service beyond the funding
+period shall require compliance with budget proceedings and inclusion of a budget
+appropriation in the annual County Budget.
+
+40A.2  A program, project or service funded partially with grant funds or funds from
+outside sources and partially from County funds shall be re -evaluated upon
+expiration of the grant funds or funds from outside sources. The funding level for
+continuing the project, program, or service shall be as determined by the Budget
+Committee and the Board of Commissioners.
+
+40A.3  A Department Head who is responsible for a project, program or service shall
+submit communications, correspondence, requests, etc., to the County
+Administrator's Office. The County Administrator shall make the determination
+as to whether the matter can be handled administratively or referral to the Board of
+Commissioners is required.
+
+40A.4  The County Administrator shall provide any assistance needed or required for a
+project, program, or service.
+SECTION 41-A
+PROGRAM
+CENTER FOR LIVING
+
+A. ORGANIZATION OR STRUCTURE:
+
+41A.0  The Center for Living shall be under the supervision of  a Director who shall be
+appointed by the Tri -County Mental Health Board representing Hood River,
+Sherman, Gilliam and Wasco Counties.
+
+41A.1 The Center for Living office shall have an office in Hood River, Oregon.
+
+41A.2  In addition to the Center for Living Director, additional staff shall include a licensed
+psychiatrist and other staff as deemed necessary to assure the effective and
+efficient operation of the Center for Living.
+
+41A.3  The Center for Living shall be the designated mental health representative of Hood
+River County and shall be responsible for carrying out any assigned mental health
+contractual agreements entered into between Hood River County and other
+governmental or private bodies.
+
+B. RESPONSIBILITIES:
+
+41A.4 The primary responsibility of the Center for Living shall be to provide a
+community mental health program.
+
+41A.5 The Center for Living shall be operated within the following policy guidelines:
+
+a. The Center for Living may be either an independent Hood River County
+function or a joint effort with other counties. In the event there is a multi-
+County program, the Center for Living shall be administered in accordance
+with provisions of the agreement approved by the participating counties.
+
+b. The Center for Living shall offer, but not be limited to, the following
+programs and services:
+
+1. Services for persons who have a mental illness.
+
+2. Services for alcohol and drug abuse.
+
+3. Services for the developmentally disabled.
+
+4. Marital, family and child guidance counseling.
+
+5. Psychological counseling for adults.
+
+6. Consultation and education to community service agencies.
+
+7. A twenty-four hour emergency service.
+
+8. Contractual social and psychological services to agencies and other
+community bodies.
+
+9. Liaison with State Hospital and a follow-up program.
+
+c. The Center for Living shall annually submit a program plan to the County
+for approval. This program shall be as comprehensive as is feasible in
+meeting the designated mental health needs of the community.
+
+d. A multi-County program may subcontract for providing of programs and
+services subject to the approval of the Tri-County Mental Health Board.
+
+e. Dispensing of any medication shall be under the direction and supervision
+of the psychiatrist.
+
+f. Programs shall be coordinated with other social service agencies, local
+schools, hospitals and other care facilities to avoid a duplication of
+programs and services.
+
+g. A fee schedule based on ability to pay for services received shall be
+established for those programs requiring such a policy by the Mental Health
+Division of Oregon. Fee schedules for all other services shall be
+determined by the Tri-County Mental Health Board.
+
+C. BUDGET PROCEDURES:
+
+41A.6 There shall be compliance with the adopted budget procedures.
